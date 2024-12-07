@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_诛仙（更新至31章）.doc]([皮物]_诛仙（更新�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于邹毓杰冒险经历的变身小说，故事设置在一个原始森林中。主角邹毓杰是一名大二的考古专业学生，他因追逐一只火红的异鸟而迷失在森林中。在追逐的过程中，他感受到身体与性别的变化，同时也在思考自己的历史根源与自我认知。小说涉及许多古代历史元素，如蚩尤和黄帝的斗争，以及古墓的考古发现。故事中通过古老文献的引述，展现了对历史真实性的探讨，邹毓杰在意识到历史并非全然真实的同时，感叹道：“历史真是一个任人打扮的小姑娘，事实的真相早已淹没在历史的尘埃之中。”此作品结合了现代与古代的幻想，探讨了关于身份认同、自我探索的主题。故事最后，邹毓杰发现了一把妖异的弯刀，似乎预示着他将会面临新的挑战与转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_诛仙（更新至31章）.doc]([皮物]_诛仙（更新�
 | Size            | 173568 bytes                           |
 | MD5             | bee8c6895cd44596c4f250d0b6907d8a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-05-07                                 |
+| Tags            | 性转, 变身, 伪娘, 自我认知, 古代神话, 冒险, 身份探索, 历史, 科幻, 性别认同, 异世界, 妖异, 考古                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

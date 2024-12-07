@@ -7,7 +7,7 @@ TXT 下载: [【万万没想到】双鱼玉佩1.doc](【万万没想到】双鱼
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《双鱼玉佩1》，内容围绕主角彭武的成长经历，尤其是对于其失踪祖父彭佳木的探索之旅。故事通过彭武对爷爷的回忆，逐步揭示爷爷的科学成就与家庭关系。彭武因为爷爷的失踪而怀揣着寻找真相的信念，决心追随爷爷的足迹走进新疆罗布泊进行考察与探险。文件详细描绘了彭武的内心挣扎与成长历程，表现出他对科学的热爱以及对亲情的渴望。故事中涉及的情节包括彭武的家庭背景、与父母之间的关系以及他在寻找爷爷真相过程中的种种遭遇，特别是解开家庭秘密的探索。最终，彭武在父母不知情的情况下私自进入书房，发现了爷爷留下的工作日志和一件神秘的玉佩，后面随之而来的超自然现象让故事更具悬疑色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [【万万没想到】双鱼玉佩1.doc](【万万没想到】双鱼
 | Size            | 49664 bytes                           |
 | MD5             | bd258783f0b003ad1c216f83f9cf035f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 失踪, 探险, 科学考察, 家庭关系, 成长, 亲情, 历史, 悬疑, 爷孙情, 玉佩                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

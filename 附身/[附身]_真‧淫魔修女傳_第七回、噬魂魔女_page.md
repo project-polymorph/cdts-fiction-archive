@@ -7,7 +7,7 @@ TXT 下载: [[附身]_真‧淫魔修女傳_第七回、噬魂魔女.docx]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说档案中的一部分，题为《真‧淫魔修女傳》第七回，主要讲述了角色泰丽莎的经历和情感冲突。在这一章中，泰丽莎作为修女，因其暴露的打扮受到园长的训斥并被暂停教职，面临来自其他修女的排挤。在此背景下，泰丽莎的性感形象与其身份之间产生了强烈的对比，使她的自我意识和他人看法之间产生了悖论。人物之间的对话描绘了泰丽莎与法尔斯先生及费尔神父的复杂关系，暗示其内心的挣扎与渴望。内容涉及她的性感打扮、受到的骚扰以及与法尔斯的亲密交流，表现了性别认同、禁忌与欲望等主题，描述中包含一些限制级内容。文件内容包含性暗示及成人主题，适用于相关领域的研究与学习。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_真‧淫魔修女傳_第七回、噬魂魔女.docx]([附�
 | Size            | 35669 bytes                           |
 | MD5             | 0c19eae81a0e4cd8ed4e31bc3a5310f5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 修女, 变身, 穿越, 性别认同, 强烈欲望, 性感, 禁忌关系, 自我探索, 校园生活, 情感纠葛, 虚构叙事, 二次元, 强奸, NTR, 调教, 乱伦, 淫荡, 病态, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

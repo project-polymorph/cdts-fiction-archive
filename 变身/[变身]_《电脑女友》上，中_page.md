@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《电脑女友》上，中.doc]([变身]_《电脑女友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《电脑女友》是伪娘和变身相关的小说，讲述了主人公张成钢在获得一款智能女友的测试版后，经历的一系列奇幻与自我认知的故事。故事起始于张成钢在模糊的意识中醒来，发现自己仿佛置身于未知的环境中。他是一名普通人，因抽中电脑女友的测试机会而进入这个项目，然而，这次实验出现了意外，导致他对自己的性别和身份产生了困惑及探索。文中描绘了他的身体感受和对自己性别的认知变化，以及他与虚拟角色的关系。段落中涉及了身体的变化、心理的挣扎与欲望的冲突，展现了一种超现实的性别认同心理状态。此文含有一定的限制级内容，可以为科研探索性别认同与自我发现提供参考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《电脑女友》上，中.doc]([变身]_《电脑女友�
 | Size            | 60928 bytes                           |
 | MD5             | 59b41c2e006801acf78687620214e291                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 电脑女友, 伪娘, 变身, 性别认同, 虚拟现实, 科技幻想, 自我探索, 心理变迁, 欲望冲突, 魔法, 近未来, 性别转换, 情感纠葛, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

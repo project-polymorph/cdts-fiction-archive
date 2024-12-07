@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_风清气正新社会.doc]([皮物]_风清气正新社会.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《风清气正新社会》，主要描绘了一个充满阴郁气氛的城市环境，故事围绕着角色冯清和他的女朋友高黛雪展开。晚上，雨水打湿了五光十色的广告牌，城市的繁华与背后隐藏的阴影形成鲜明对比。故事中提到一个邪教组织——‘伪装者’，该组织以极端手段对待社会中一些低层级的F级人员，造成了深刻的心理影响和社会恐惧。冯清是一名法刑警，负责打击这个邪教组织，而高黛雪则是一名法医，因工作压力与个人原因，她被贴上F级的标签，最终遭到了组织的打击与开除。小说探讨了等级制度下的人际关系、社会压力及对伪装者的恐惧，揭示了角色内心复杂的情感和社会现象。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_风清气正新社会.doc]([皮物]_风清气正新社会.
 | Size            | 50688 bytes                           |
 | MD5             | 7da2532f379ecf8ea933af20650f0c15                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 社会斗争, 等级制度, 法医, 心理压迫, 邪教, 风清气正, 情感纠葛, 自我探索, 都市小说, 科技幻想, 反乌托邦, 人生选择, 人际关系, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

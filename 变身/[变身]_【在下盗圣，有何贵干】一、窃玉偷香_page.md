@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】一、窃玉偷香.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《在下盗圣，有何贵干》，是一篇有关夜间刺客与权力的故事。开头描绘了寒冷的夜晚和豪宅的壮观，设定了故事的时空背景。赵员外是京城最有钱的人之一，擅长强迫他人接受自己的意愿，在故事中正欣赏一位少女的挣扎。当他关注少女时，一位神秘的刺客出现，质问赵员外关于一块宝玉的去处。在激烈的交锋中，赵员外尝试反击，但最终被刺客杀死。之后，刺客救下了被赵员外抓住的少女，两人开始了逃亡。接下来的情节展现了三角关系的演变，带有浓厚的武侠色彩与情感纠葛，另外还有江湖传闻和英雄救美的元素。故事包含了一些强烈的情感冲突和复杂的人际关系，涉及权力、背叛与救赎等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】一、窃玉偷香.doc]([
 | Size            | 40448 bytes                           |
 | MD5             | 102d031642d4650f3586ebd7e2e026c2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 武侠, 盗贼, 侠客, 夜间故事, 刺客, 权力斗争, 情感纠葛, 救赎, 江湖传闻, 性别认同, 情感探索, 盗圣, 豪门大户, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

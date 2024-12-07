@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮术士】十一_神的恩赐.doc]([皮物]_【皮术
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于埃塞尔特城的小说，作者通过角色苏翎的视角讲述了佣兵团在一场贵族的活动中遭遇的种种情况。故事开篇提到作者在更新之前的草稿中感到不满，需要重新修改。同时，苏翎和其他佣兵在贵族们的保护下，试图在这个战争时期的城市中寻找机会和冒险。文中提到‘贵族的许诺是报酬丰厚’，描绘了佣兵对贵族们的不同情感与看法，尤其是对某个公子哥的厌恶与对贵族小姐的美好憧憬。“这样强的一支卫队，如果只是保护一个人的话，至少可以保护某个国家的公主一级别的人……”表现出佣兵们对贵族地位与美貌的赞美。后面的情节描写了一场针对沙民的战斗及其带来的财富与机遇，最终目标是向贵族靠近，以求未来利益。文中高度体现了阶级之间的紧张关系，以及战争带来的复杂心态与角色转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮术士】十一_神的恩赐.doc]([皮物]_【皮术
 | Size            | 40448 bytes                           |
 | MD5             | 590630921113365b4b6915d6dfeb6298                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 埃塞尔特城, 佣兵, 贵族, 冒险, 战争, 角色扮演, TS, 变身, 男性视角, 自我认知, 社会阶级, 寻求机会, 魔法, 战斗, 女仆, 情感冲突, 身份认同, 多元性别, 幻想世界, 资本与权力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

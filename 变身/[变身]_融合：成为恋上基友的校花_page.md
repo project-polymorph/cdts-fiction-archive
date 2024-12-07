@@ -7,7 +7,7 @@ TXT 下载: [[变身]_融合：成为恋上基友的校花.docx]([变身]_融合
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘 TS 变身与跨性别相关小说，主要讲述了小学六年级的男孩幸田勇吾与他的朋友之间发生的一系列奇幻事件。故事开头，勇吾在放学回家的路上，听到了一个女人的哀鸣。在好奇心的驱使下，他走向声音源处，目睹了一幕惊人的场景：一名高中女生被触手袭击，并在事后表现得异常平静。勇吾因此感到恐惧，并开始怀疑女子被触手夺取身体的可能性。通过第二天的日常经历，勇吾对好友瑛太和心仪的女生片濑恋花的关系感到嫉妒，同时又希望能够化解自己内心的挣扎和恐惧。寻求改变的勇吾决定再次回到遇到触手的地方，试图带上恋花以实现与她的关系，然而事情的发展远超出他的想象，触手再度出现并试图将他们融合在一起。此事件引发了勇吾的内心恐慌，并让他陷入了对身体和自我认同的疑惑与挣扎。整个故事充满了奇幻色彩与心理冲突，展示了勇吾在成长过程中的复杂情感与对自我认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_融合：成为恋上基友的校花.docx]([变身]_融合
 | Size            | 32139 bytes                           |
 | MD5             | 610913eb1e0c3c156348973d10f72538                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 幻想, 青春, 触手, 自我探索, 奇幻, 性别认同, 禁忌关系, 初恋, 校园生活, 心理冲突, 勇吾与恋花, 瑛太                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

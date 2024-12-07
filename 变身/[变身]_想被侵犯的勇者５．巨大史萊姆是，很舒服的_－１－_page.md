@@ -7,7 +7,7 @@ TXT 下载: [[变身]_想被侵犯的勇者５．巨大史萊姆是，很舒服�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一段跨性别与变身相关的小说情节，讲述的是主角赛希尔在遭遇战败后恢复意识，发现自己在剑之村的诊所中，重获女性身体后的体验。在醒来后，赛希尔感受到自己身体的变化，包括手部的纤细和穿着的朴素白色连衣裙。故事中出现了对自己身份的认同与混淆，描绘了角色身体与心理转变过程。此外，文中提到的尤妮丝是主角的照顾者，表达关心的同时也涉及了谈论避孕药的情节，明确指出与性行为相关的内容。文本注重心理描写以及角色间的互动，体现了在变身后的新生，但同时也夹杂着对过去经历的回忆与反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_想被侵犯的勇者５．巨大史萊姆是，很舒服�
 | Size            | 26767 bytes                           |
 | MD5             | 50df059236e9744ccee26f1795544840                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 自我探索, 女性身体, 避免妊娠, 冒险, 幻想, 角色扮演, 心理冲突, 医疗剧场, 情感纠葛, 现代奇幻, 魔法, 女性视角, 未知身世, 冒险者                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

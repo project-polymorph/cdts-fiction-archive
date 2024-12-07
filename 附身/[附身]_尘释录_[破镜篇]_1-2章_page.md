@@ -7,7 +7,7 @@ TXT 下载: [[附身]_尘释录_[破镜篇]_1-2章.docx]([附身]_尘释录_[破
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《破镜篇》由jjn论坛的白雨萱创作，讲述了一名实习生李氿在地府‘破镜组’的经历。故事开始于李氿结束实习后，接受考核任务的过程中，与主管范无救以及其他同事的互动展示了地府工作的复杂性和黑暗幽默。李氿在任务中遇到了城隍庙的协助员唐雅，并通过非正当手段尝试完成任务，最终被送往一个未知的身躯，预示着他故事的开始。文本结合了幽默与超自然元素，展现了阴间的各种角色及其办公室文化，融入了一些轻松的对话和情感冲突，体现出了对于性别与身份的探索与混沌。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_尘释录_[破镜篇]_1-2章.docx]([附身]_尘释录_[破
 | Size            | 25490 bytes                           |
 | MD5             | 96a840411d8676fd1f837170fe3a81e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 白雨萱                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 都市幻想, 阴间故事, 自我探索, 幽默, 角色扮演,  TSF, 变身, 冥界, 鬼怪, 职场文化, 超自然, 办公室幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

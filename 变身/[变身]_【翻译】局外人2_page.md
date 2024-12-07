@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【翻译】局外人2.doc]([变身]_【翻译】局外人
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一则关于角色性别转换的小说《局外人2》的翻译版本，结合了变身、跨性别的主题。故事的主角一大早醒来，发现自己的身体发生了巨大的变化，显现出女性特征，胸部变大并有着金色的长发。主角的心理体验、对新身份的适应，以及对过去的回忆构成了文本的核心。随着身体的转变，主角要面对生活环境的变化以及身份认同的困惑。此段落中，主角体验了对自我身份的否认与重塑，以及对死亡和永生的思考。在和另一名角色玛丽莎的互动中，故事进一步探讨了同类之间的联系、需求和危险的局外人世界。文本虽然有些敏感内容，但始终围绕着角色对自我认知和生命状态的内心斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【翻译】局外人2.doc]([变身]_【翻译】局外人
 | Size            | 103424 bytes                           |
 | MD5             | 6b49e263412c8554a2b7cd199f96dc6b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 自我认知, 永生, 身份转变, 角色对话, 女性视角, 奇幻, 科幻, 幻想, 自我探索, 心理斗争, 转变小说, 二次元, 伪娘, 男娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

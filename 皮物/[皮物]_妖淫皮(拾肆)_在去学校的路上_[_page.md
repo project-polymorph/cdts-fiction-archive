@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_妖淫皮(拾肆)_在去学校的路上_[.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为变身类小说《妖淫皮(拾肆) 在去学校的路上》的一部分，讲述了一位名为小瑜的少女在穿着清纯的高中制服前往学校的途中所经历的情感与身体上的变化。小瑜在镜中的自我欣赏中，表现出对自己少女形象的深深迷恋，边打理发型边将邻家女孩的形象与气质展现出来。她在公车上与新同学小杰的初次邂逅中感受到一种青春的悸动，但与此同时，她的身体也遭到了来自陌生男人的骚扰。这种在公共场合的刺激和紧张感交织在一起，构成了一种复杂的心理体验。整部作品涉及了青春期的性探索与自我认同，在探讨角色身体与性别的转换的同时，也反映了对青少年时期情感与身体认知的独特视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_妖淫皮(拾肆)_在去学校的路上_[.docx]([皮物]_�
 | Size            | 20922 bytes                           |
 | MD5             | c34225edc14eecac4c42885c2fb6cb61                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身, 青春, 少女, 公共场合骚扰, 自我认知, 性别认同, 校园, 日常生活, 清纯制服, 男孩搭讪, 性幻想, 变嫁, 触碰刺激                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

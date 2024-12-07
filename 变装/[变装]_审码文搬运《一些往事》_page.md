@@ -7,7 +7,7 @@ TXT 下载: [[变装]_审码文搬运《一些往事》.doc]([变装]_审码文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇中文变装与性转主题的小说《一些往事》的搬运版本，开篇通过一段情感深刻的独白，揭示了主人公在繁华都市生活中的孤寂与对爱的渴望。故事发生在一个炎热的六月份，主人公以女性身份伪装，在一间高楼的套房中回忆往事，面对另一种身份所带来的社会尴尬与内心的矛盾。他曾是一个男人，现在却沉溺于这样的生活中，为了金钱与欲望而感到无奈。故事细腻地描绘了角色的情感变化，伴随着对性关系及自身性别认同的复杂思考。主要通过主人公回忆起与朋友们的互动，涉及到了早期关于性教育的模糊感受以及对女性角色的羡慕和渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_审码文搬运《一些往事》.doc]([变装]_审码文�
 | Size            | 49152 bytes                           |
 | MD5             | fb17798a9bc289a95097822331aa28b7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 跨性别, 伪娘, 情感纠葛, 社会压力, 性关系, 自我认同, 孤独, 青春成长, 男人的欲望, 内心冲突, 生活选择, 早期性教育, 虚拟现实, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

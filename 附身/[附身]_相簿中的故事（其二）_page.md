@@ -7,7 +7,7 @@ TXT 下载: [[附身]_相簿中的故事（其二）.docx]([附身]_相簿中的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《相簿中的故事（其二）》展现了主人公与另一角色的梦境交融。在故事的开头，主人公经历了一个噩梦，梦中他与火灾中受伤的人物相遇，表现了他内心深处的恐惧与不安。醒来后，他感到精疲力竭，于是选择休假补眠。就在他翻看老相簿时，无意中发现了一张班级毕业照，照片中的一位女孩吸引了他的注意，她的表情显得十分郁闷，在旁人笑容中显得格格不入。当主人公对她的名字产生好奇时，意识突然模糊，并再次陷入黑暗。醒来后，他发现自己竟然“附身”到那个女孩身上，并开始体验她的生活和感受。接着，故事描绘了她回家的情景，面临父亲的暴力和侵害。这段情节充满了对性别角色以及家庭暴力的强烈描绘，使人反思个体在社会和家庭中的无奈和屈辱。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_相簿中的故事（其二）.docx]([附身]_相簿中的
 | Size            | 23419 bytes                           |
 | MD5             | bff9662dcbb3ba207c7c4b2676af8025                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 天天吃稀饭                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-06-12                                 |
+| Tags            | 性别转换, 跨性别, 校园生活, 家庭暴力, 自我认同, 附身, 情感冲突, 青春期困扰, 心理描写, 恐怖梦境, 毕业照, 女性视角, 父女关系, 暴力, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

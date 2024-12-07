@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_心中的恶魔，一、萌芽+二、绽放_两集联播_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇跨性别题材的小说，主要围绕主人公张敬轩展开，他是一名整形医生。故事始于炎热的盛夏，张敬轩在休息中接到了一名警官王逸的电话，询问关于一起怪盗案件的事情。交谈中，张敬轩透露他对怪盗的伪装技术有所研究，并在其中发现了一些照片的细节异常。他指出，受害者的照片中有多处不符合其样貌的特征，并希望能获取更多影像资料，以帮助警方理清与该案件相关的线索。这整篇文章涉及整容、伪装以及细节鉴别的元素，交织着医学与犯罪调查的情节，展示了角色如何通过专业知识揭开神秘事件的面纱。文章以对话形式呈现，文字流畅，塑造出紧张的气氛与悬疑感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_心中的恶魔，一、萌芽+二、绽放_两集联播_�
 | Size            | 42020 bytes                           |
 | MD5             | 05173ebac5fed5565550bf53c69aaa57                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 整形外科, 悬疑, 怪盗, 医学, 细节分析, 伪装, 性别认同, 自我探索, 情感对话, 青春, 都市小说, 警匪故事, 专业知识, 角色发展, 人物心理, 未知事件, 医患关系, 刑警, 犯罪心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

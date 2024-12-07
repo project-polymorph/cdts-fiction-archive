@@ -7,7 +7,7 @@ TXT 下载: [[附身]_真‧淫魔修女傳_第三至四回.docx]([附身]_真�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档名为《真‧淫魔修女傳》的第三至四回，讲述了修女泰丽莎在修道院中的遭遇与内心斗争。故事开始时，泰丽莎经历了一场突如其来的失踪，从而遭到了身边修女们的冷眼相待和排斥。她感到孤立无援，无法解释自己所遭遇的流言与误解。在这样的环境中，泰丽莎的心情愈发低落，甚至在进餐时都被迫与其他人员分开。期间，她向学园长反映了自己的遭遇，却遭到了更加冷淡的回应。在一次偶然的机会下，泰丽莎遇到了神父费尔，神父以温暖和关怀安慰她，并向她赠送了一条象征信仰的十字架。尽管泰丽莎感受到了一丝温暖，但她内心的困惑与羞辱依然无法消散。文中通过对泰丽莎心理状态的描写，探讨了自我认同、孤独与信仰等深刻主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_真‧淫魔修女傳_第三至四回.docx]([附身]_真�
 | Size            | 49007 bytes                           |
 | MD5             | 40b02a5a94704d75d005708d21fff742                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 修道院, 性别认同, 孤独, 神秘, 内心冲突, 强烈的情感, 温暖与关怀, 性转, 变身, 心理探索, 修女, 宗教, 社会排斥, 信仰, 情感发展, 淫魔                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

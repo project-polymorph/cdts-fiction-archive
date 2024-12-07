@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_以皮之名·续.docx]([皮物]_以皮之名·续.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇性转与伪娘题材的小说续集，名为《以皮之名·续》。内容围绕一位角色在获得可以伪装成女性的皮物套装后，所经历的自我认知与身体探索的情节展开。故事开头，角色在闹钟响起后清醒，并意识到与皮物的距离又缩短了一天。文中详细描写了角色清晨起来后的迷茫与自我护理的细节，尤其是关于身体的卫生与美丽的追求，体现了对女性形象与性感的探讨。角色的心理变化与身体感受交织在一起，展现了一种奇特的性别认同体验。随后，角色穿上姐姐的睡衣，对着镜子摆出挑逗的姿态，流露出对自己性别转变的兴趣与好奇。同时，故事还融入了露骨的场景描写，涉及自我愉悦与情感探寻。整篇作品多次提及角色通过电动按摩棒的体验，描述了强烈的身体快感和心理冲击。该作品包含了丰富的性别与性相关主题，适合对跨性别、伪娘文化感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_以皮之名·续.docx]([皮物]_以皮之名·续.docx)
 | Size            | 28670 bytes                           |
 | MD5             | 2203ca119c7e91ce9d8c38da678eca7f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rockx3                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 自我探索, 二次元, 百合, 性别认同, 身体护理, 情感冲突, 成人内容, 幻想, 魔法, 现代, 酒吧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

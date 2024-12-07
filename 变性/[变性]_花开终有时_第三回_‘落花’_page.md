@@ -7,7 +7,7 @@ TXT 下载: [[变性]_花开终有时_第三回_‘落花’.docx]([变性]_花�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《花开终有时》第三回《落花》包含了一个关于张然的故事，她面临着儿子的绑架威胁，被迫与警方展开了一场斗智斗勇的较量。故事开始时，张然接到陌生电话，电话中透露出儿子被绑架的消息，威胁她必须交换某样物品，暗示着对方在其生活中有着极大的影响力。故事通过对张然心理变化的描绘，展现了她从一个普通的家庭主妇转变为斗志昂扬的母亲，她的显著变化体现在她点烟时回忆起往事，以及面对此次危机的冷静与决心。在追逐与瘫痪的交错场景中，警方与张然之间的合作与冲突层层递进，同时揭示了绑架者与受害者之间复杂的人际关系。随之而来的，是更多关于家庭与道德的探讨，以及在极端情况下所作出的艰难选择。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_花开终有时_第三回_‘落花’.docx]([变性]_花�
 | Size            | 34058 bytes                           |
 | MD5             | 035f11188009444592733ee90adccfca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 绑架, 家庭关系, 女性力量, 自我救赎, 强势女性, 武力对抗, 心理斗争, 紧张悬疑, 都市小说, 变身情节, 母爱, 自我认知, 城市犯罪, 警匪故事, 心理剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

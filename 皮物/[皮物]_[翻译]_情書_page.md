@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[翻译]_情書.docx]([皮物]_[翻译]_情書.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一封充满幻想与情感的情书，主要通过一种亲密的游戏邀请方式，表达出对收信人的情感和幻想。作者通过让收信人想象自己可以变成任何他们想要的角色，以此来引发一种强烈的情感共鸣。文中多次提到‘我可以是你想要的任何女人’，展示了性别变换和角色扮演的主题。信的开头提到要让收信人放松，想象不同角色的特征，接着列举了可以显现的各种面貌，例如：端庄典雅、靦腆可爱或火辣性感。整体上，这封情书不仅构建了幻想氛围，也触及到性别认同和自我认知的问题，展示出对于身体变化和自我期望的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[翻译]_情書.docx]([皮物]_[翻译]_情書.docx)
 | Size            | 20184 bytes                           |
 | MD5             | 2200083846d8bd8883d0eed37880ea92                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 寒蟬                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 情书, 性别扮演, 角色幻想, 自我认知, 情感表达, 幻想文学, TSF, 跨性别, 性别流动, 恋爱, 成人内容, 二次元文化, 文艺, 幻想故事, 沉浸式体验, 身体认同, 虚拟现实, 情感互动, 心灵交流                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

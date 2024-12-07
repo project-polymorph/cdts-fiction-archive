@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_转瞬双生15.docx]([皮物]_转瞬双生15.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描述了一位角色「茉莉」在性别转换后的一系列心理挣扎与互动。在故事情节中，「茉莉」与朋友韩俊的对话中揭示了她对过去身份的依恋与对新身份的困惑。故事开始于「茉莉」被朋友揭穿，与徐平身份的交换，这让她感到恐惧与愤怒，她一度失去了作为李茉莉的机会。其中，韩俊的角色以一个知情者的身份出现，试图安慰她并提供帮助，揭露了他对变身的渴望，以及他对「茉莉」身份的理解与支持。在对话中，两人探讨了身份、欲望和改变的复杂性。整体情节深刻展示了角色的内心世界，以及社会对性别身份的认同与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_转瞬双生15.docx]([皮物]_转瞬双生15.docx)
 | Size            | 26551 bytes                           |
 | MD5             | 21bc2b8b4d3e491802949d8081cda1f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 自我认同, 心理斗争, 友谊, 性别探索, 异装癖, 欲望, 身份交换, 深度自省, 幻想, 魔法, 都市, 情感纠葛, 戏剧性冲突, 社会认同, 李茉莉                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

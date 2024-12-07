@@ -7,7 +7,7 @@ TXT 下载: [[变性]_新生活（上）.doc]([变性]_新生活（上）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《新生活（上）》，讲述了主要角色马原的生活变迁。马原一名43岁的工人，因工厂倒闭失业，生活陷入困境。文中描述马原在与工友老王喝酒时了解到一家招聘‘服务人员’的会所，暗示着其工作的性质与风月场所有关。在经过犹豫与思考后，马原决定尝试去应聘，以解决家庭经济危机。随着故事的发展，马原对于自己身份及未来的认同感受到挑战，展现出复杂的情感。在一次面试中，他遭遇到的情感冲突与新生活的考验，代表了对于性别与自我识别的探索，并且在描绘生活艰辛的同时，揭示了潜在的社会问题。全篇充斥着对传统性别角色的颠覆以及个人内部挣扎的刻画，尤其是对躲藏在伪装下的欲望与社会身份的反思。，
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_新生活（上）.doc]([变性]_新生活（上）.doc)
 | Size            | 55296 bytes                           |
 | MD5             | 864a795c16513a4785c0911ad84143c3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 酒吧, 工人阶级, 经济危机, 情感冲突, 社会问题, 自我探索, 女性视角, 都市生活, 性爱, 求职, 疾病家庭, 退伍军人, 青春期困扰, 隐秘关系, 青春成长, 职场信息, 性服务行业, 商会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

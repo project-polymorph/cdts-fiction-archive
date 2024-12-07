@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女之少女日记_1.doc]([改造]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇性转和伪娘小说，讲述了一名少年在女性形象下的生活与自我探索。故事围绕女主角与她的阿姨梅根以及朋友坎迪的互动展开，呈现了她们一起购物、化妆和享受生活的细腻情感。在日记中，女主角记录了自己从被动的青少年转变为更加自信的女孩的过程，包括对时尚和化妆的学习，以及对自身性别认同的逐渐接受。文本中涉及到的情节包括与阿姨的亲密关系、对身体外貌的焦虑、探索性别角色的变化和与朋友的互动等。文件中含有不少独特的视角与细节，如对衣物的描述、与朋友的亲密互动，以及对自身认同的探索，充分体现出少女性向与性别变换的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女之少女日记_1.doc]([改造]
 | Size            | 48128 bytes                           |
 | MD5             | 5f84f06cac48c5e56d41cd6605747c33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent429                               |
+| Region          | 未知                               |
+| Date            | 2022-05-20                                 |
+| Tags            | 性转, 伪娘, 日记体, 少女成长, 亲情, 自我探索, 化妆, 青少年, 时尚, 性别认同, 跨性别, 同性恋, 购物, 友谊, 变身小说, 生活日常, 甜蜜恋爱, 性别角色, 少女心                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

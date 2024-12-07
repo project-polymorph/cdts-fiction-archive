@@ -7,7 +7,7 @@ TXT 下载: [[变身]_萌既正义！_1-3.docx]([变身]_萌既正义！_1-3.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一部基于剑与魔法背景的变身小说，围绕宅男渊的生活展开。故事不包含复杂的情节，而是聚焦于渊的日常与自我探索。开篇介绍了渊的宅男生活及其对网络内容的沉迷，同时通过他与魅魔的互动，引入了变身的元素。渊在一次意外中被魅魔注意到，魅魔计划将其变为自己的仆从。小说中充满了幽默和轻松的语调，而随着情节发展，渊的生活发生了奇妙的变化，尤其是他发现自己穿上了女式内裤，并在课堂上体验到不适的羞耻感。这种心理挣扎与身份的模糊使故事更具深度，同时引发对性别认同的探讨。整体而言，这部小说兼具搞笑与轻微的情色描写，适合对变身与跨性别主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_萌既正义！_1-3.docx]([变身]_萌既正义！_1-3.doc
 | Size            | 34657 bytes                           |
 | MD5             | cbc2beea69a56073d6db9770c7b6fe59                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 宅男, 魔法, 校园生活, 自我探索, 幽默, 魅魔, 女装, 性别认同, 轻小说, 二次元, 讽刺, 奇幻, 强烈羞耻感, 无厘头                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_11_我是腿控，但我那拥有凭依能力的挚友是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档的内容是第十一章的小说片段，主要聚焦在角色间的互动与校园生活。故事的主角秋人早晨进入教室的场景，交代了季节的变换和他与同学龙也的关系。秋人对同班同学柚木的腿产生了强烈的好感，细致描写了他的内心感受及他与龙也在课堂上的对话。文中穿插了悬念，比如龙也被突然叫回学校的原因，以及他与柚木和佐藤之间复杂的关系和互动。接着，剧情转向了学生会，秋人对学生会副会长花琦产生兴趣，展现了校园生活的多样性和少男少女间潜在的情感纠葛。文中还涉及到一些超自然元素，如能力者之间的斗争与转变，增加了故事的奇幻色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_11_我是腿控，但我那拥有凭依能力的挚友是�
 | Size            | 51200 bytes                           |
 | MD5             | 1c63daf1fa1d6ad20ac599eb832f9e55                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 跨性别, 变身, 超自然, 恋爱, 少年, 青春, 伪娘, 友情, 暗恋, 校园生活, 魔法, 能力者, 女神, 学生会, 复杂关系, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_萨姆斯夫人.doc]([变装]_萨姆斯夫人.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部描绘性别变换和性自我探索的小说，内容围绕萨姆斯夫人及其课程展开。三名男主角布莱斯、内维尔和邓肯都在一个偶然的机会下许愿，希望能拥有萨姆斯夫人的身体。每个人的愿望以不同的方式实现，使得他们体验到了女性身体的种种新奇与挑战。故事中深入探讨了角色面临的身体和心理变化，包括对自我身份的重新认知和对性别的社会定义。布莱斯逐渐接受了自己作为女性的身份，并在探索自己的性欲时获得了快感；内维尔通过与他人的互动转变身份，并尝试新生活；邓肯则不得不面对自己身体的新特征以及与女友的关系改变。全篇在轻松幽默的语调中穿插着对性别与身份的深入思考和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_萨姆斯夫人.doc]([变装]_萨姆斯夫人.doc)
 | Size            | 35328 bytes                           |
 | MD5             | 7f6d9e377abd476999d497e1164e4fd1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 性别认同, 自我探索, 青春成长, 校园生活, 变嫁, 双性恋, 女体化, 奇幻, 情欲, 跨性别, 心理变化, 荒诞喜剧, 性别摩擦, 青少年问题, 关系转换, 自我认同, 探索欲望, 友谊, 性变幻想, 性感表达, 情感纠葛, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

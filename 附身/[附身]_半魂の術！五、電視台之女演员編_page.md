@@ -7,7 +7,7 @@ TXT 下载: [[附身]_半魂の術！五、電視台之女演员編.docx]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于主角灵魂附身在著名女演员堀口悠子身上的故事。在这个故事中，主角通过一种超自然的能力进行灵魂的转移，体验到了女性形象的生活和身体感受。文件详细描绘了堀口悠子的外貌、穿着和她的日常准备，尤其是在化妆和打理仪容的场景中，展现了对美的追求和对女性身体的细腻观察。故事中包含了一些角色的内心活动与情感冲突，主角在控制堀口悠子的身体时感受到前所未有的欢愉与刺激，同时也探讨了对身份认同的思考。整个内容以轻松幽默的风格书写，既展示了出奇的幻想情况，也包含了一些具有成人情节的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_半魂の術！五、電視台之女演员編.docx]([附�
 | Size            | 33755 bytes                           |
 | MD5             | caec7a78fa9eca6217c79ee661e22d2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 堀口悠子, 灵魂转移, 性别认同, 女性体验, 二次元, 变身, 超自然, 幻想小说, 身份探索, 情感冲突, 演员生活, 化妆, 身体感受, 青春, 内心独白                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

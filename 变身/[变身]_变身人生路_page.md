@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身人生路.doc]([变身]_变身人生路.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为“变身人生路”小说的初稿，讲述了一名男子阿峰与女友艳芳的情感纠葛和他在醉酒后意外变身为女性的故事。故事开篇，阿峰和艳芳因性格不合而分手，阿峰心情低落，酗酒回家。醉酒中，他遭遇了一个神秘的女子，并在一夜之间变成了这个女子。随后，阿峰面对自己的新身体，内心的挣扎与迷惘交织。同时，该文件描绘了一段包含强制性交的情节，描述了在变身后的阿峰如何应对一位侵犯他的快递员，并探讨了性别认同和自我探索的主题。情节在夸张的设定中，揭示了深层的人际关系和性别认知问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身人生路.doc]([变身]_变身人生路.doc)
 | Size            | 71680 bytes                           |
 | MD5             | 9391e1ef121cc596c2cec36077e0e156                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 强奸, 情感纠葛, 自我认同, 奇幻, 酒精影响, 性别探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

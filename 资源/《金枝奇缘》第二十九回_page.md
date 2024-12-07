@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第二十九回.doc](《金枝奇缘》第二十�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《金枝奇缘》第二十九回详细描绘了獠牙这个角色的复杂心理及其对身份与欲望的探索。在这一章节中，獠牙经历了角色的替换与意识的入侵，他先后代入女性角色，如秦疏影和顾茹，并深深沉迷于这种掌控他人身体的快感之中。然而，在关键时刻，獠牙不得不脱下顾茹的皮囊，果断展示出其魔骨真身，计划剔除障碍顾道真，以实现其主人的目标。尽管他推开了顾茹的身份，失去那份甜美的享受，但随即又进入了另一位女性角色祝颜玉的身体，获得身体的享受与力量。这种魔骨与肉体、神魂的多重交织，不仅让獠牙体验到强烈的肉体快感，还带来了角色认同的迷失与自我认知的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第二十九回.doc](《金枝奇缘》第二十�
 | Size            | 38912 bytes                           |
 | MD5             | ce4b64f1c09a8265d97d538cea744d55                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 强奸, 年龄差, 逆后宫, 药娘, 调教, 淫荡, 百合, 强烈的肉欲, 自我探索, 角色替换, 邪恶, 魔法, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_【申码文】离奇的调教.doc]([催眠]_【申码文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容为一篇涉及催眠与调教主题的小说。从开始的情节设定中，我们介绍了两位主角，周林和王莹，他们在公交车上因一次意外的相撞而发生了意识交换的事件。这种突发的身份互换设置了整个故事的基础，二人都面对着对彼此身体的陌生感，且在身体互换后，王莹体验到自身性别的转变而产生的困惑与刺激。在叶子豪和王莹的交互中，催眠和药物的使用显露了调教的主题。叶子豪作为调教师，试图通过催眠和药物控制王莹的心理，推动两人之间性别角色与权力关系的探讨。文中通过王莹在学校的经历，展示了其身体变化所带来的意识觉醒和性欲的觉醒，多次描绘王莹对自己新身体的探索与性启蒙。这部作品深入探讨了性别认同的复杂性以及个体在性别角色变化中所经历的自我探寻与心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_【申码文】离奇的调教.doc]([催眠]_【申码文�
 | Size            | 67584 bytes                           |
 | MD5             | 3e638c101550a3989167ffe2213f02a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 调教, 意识交换, 性别认同, 自我探索, 跨性别, 两性关系, 成长, 二次元, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_說不定,我被偽青梅竹馬推了入坑(上).docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《说不定，我被伪青梅竹马推了入坑(上)》的变性和跨性别题材小说的一部分。故事围绕着主人公与他的伪青梅竹马之间的互动展开，包含了情感的纠葛与自我认同的探索。主人公在与伪青梅竹马的互动中，感受到了一种奇怪而强烈的吸引力，尽管他试图保持距离，但对方的种种挑逗与暗示却让他难以抵挡。文本中描述了青梅竹马穿着蕾丝围裙、以娇媚的姿态向主角表达其对他的情感，甚至挑逗他。「亲爱的，你是准备先吃饭，还是准备先洗澡？或是准备…」这样带有性暗示的对话贯穿始终，营造出一种含蓄而又直接的暧昧氛围。整个故事探索了性别认同与情感欲望的交织，道出无论生理性别如何，内心真实的情感与关系依然真实而深刻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_說不定,我被偽青梅竹馬推了入坑(上).docx]([�
 | Size            | 30814 bytes                           |
 | MD5             | e884dfb25d9b4a911a69f209f5960dc6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 青梅竹马, 情感纠葛, 跨性别, 性别认同, 自我探索, 二次元, 幻想, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

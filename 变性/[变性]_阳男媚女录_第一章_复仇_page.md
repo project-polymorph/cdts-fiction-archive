@@ -7,7 +7,7 @@ TXT 下载: [[变性]_阳男媚女录_第一章_复仇.doc]([变性]_阳男媚�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《阳男媚女录》第一章，题为《复仇》。章节围绕着一位中医师李杰一在家庭悲剧后的痛苦与复仇计划展开。李杰一的儿子李真死于三个嫌疑人的性侵，警方在调查此案时，李杰一回忆起自己曾借给他们一些来自《心肾交感录》的药方，怀疑他们的行为与此有关。在情节的发展中，李杰一对儿子的死感到无比悔恨，并决定以极端手段报复那些对儿子下手的人。章节中涉及的主题包括家庭悲剧、复仇、性别认同，以及药方的神秘性质和对性别角色的探索。故事中寄托了李杰一对失去亲人的痛苦与对过去选择的自责。具体情节描述了李杰一与警方的对话，揭示了案件的复杂性，以及李杰一意图寻找罪犯并告别往昔的内心挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_阳男媚女录_第一章_复仇.doc]([变性]_阳男媚�
 | Size            | 33792 bytes                           |
 | MD5             | ee17fef9eedea645f71dbb56ef4744a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 变身, 复仇, 性别认同, 自我探索, 家庭悲剧, 药物, 中医, 死亡, 强奸, NTR, 奇幻, 耽美, 医疗, 玄学, 男男性向, 情感冲突, 二次元, 黑暗幻想, 社会问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

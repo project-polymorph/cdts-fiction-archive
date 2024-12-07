@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_人皮游戏7.docx]([皮物]_人皮游戏7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《人皮游戏7》，描绘了一场涉及悬疑和恐怖的性转冒险故事。故事从一个男性角色的视角展开，他的女友突然遇到危险，在逃避被捕的过程中，角色们遭遇了一些神秘的敌人。随着情节的发展，男主角被绑架，与他女友分开，并面临着极具威胁性的选择：是保全自己还是拯救他的女友。故事中穿插了大量的性别与认同的冲突。在被绑住后，男主角意识到自己被困在一个满是危险和令人毛骨悚然的人皮部件的仓库里。角色之间的关系经历了考验，情感在极端情况下不断升温，但同时也面临着极度的危险和心理上的煎熬。
+
+故事中的紧张气氛和情感描写交织在一起，突显了角色在生死关头的选择，以及他们对彼此深厚感情的探索。这篇作品不仅反映了性别转换和性别认同的主题，还以惊悚的情节吸引着读者的注意。故事中提到了使用麻药的场景以及生死之选，传达了一种紧迫的情感，读者在字里行间都能感受到角色的绝望和求生的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_人皮游戏7.docx]([皮物]_人皮游戏7.docx)
 | Size            | 24384 bytes                           |
 | MD5             | d5339d09a5f31bbdaf6b7ba7a02d1486                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 悬疑, 炸裂剧情, 心理恐怖, 跨性别, 强奸, 生死选择, 药物麻醉, 恐怖冒险, 情感冲突, 人皮部件, 自我认同, 极端情况, 二次元文化, 撕裂的爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[变装]_《三年女人》1_—七年女人前传.doc]([变装]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《三年女人》是一部围绕肖恩·特纳（Sean Turner）展开的变身与逃亡故事。三年前，在一次银行抢劫事件中，肖恩失手暴露了身份，成为全国通缉犯。为躲避追捕，肖恩伪装成一位家庭主妇，过着艰辛的生活，直到法定诉讼期的到来。故事中，肖恩在经历了长达三年的伪装生活后，决定实施一次最后的抢劫，试图彻底摆脱伪装与逃亡。肖恩与其女友安吉拉之间复杂的情感纠葛，以及他与自身性别认同的冲突，成为作品的核心主题。文中描绘了肖恩所面临的巨大压力和内心挣扎，同时也揭示了他对安全与自由的渴望。当故事进行到冲突最紧张的时刻，警方的追捕令肖恩不得不在安吉拉的家中与危险抗争。
+
+这部作品不仅探讨了性别认同及伪装的主题，还涉及了逃亡者的心理状态与人际关系。角色在面对社会压力、法律追捕时所表现出的脆弱与坚强相互交织，充满了戏剧性和情感张力。它展示了一个人在绝境中如何寻求自我认知与救赎，十分适合对跨性别和变身题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_《三年女人》1_—七年女人前传.doc]([变装]_�
 | Size            | 55296 bytes                           |
 | MD5             | 301c2dae887d5c905b5a0383500f4895                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 1988-12-09                                 |
+| Tags            | 变身, 伪娘, 跨性别, 逃亡, 抢劫, 爱情, 自我认同, 情感纠葛, 女性角色, 法律问题, 心理压力, 伪装生活, 社会压力, 危险挑衅, 危险逃亡, 情感冲突, 角色发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

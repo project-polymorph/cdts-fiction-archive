@@ -7,7 +7,9 @@ TXT 下载: [[变性]_【翻译】骗局（下）.docx]([变性]_【翻译】骗
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一个名为罗德的角色在一个骗局中的经历。故事主要描绘了罗德因工作需要，接受了伪装成女性的任务。故事开篇，罗德收到一封来自迪芙妮的信，信中提到了他们的计划以及他需要冒充送餐员进入某个住宅。为此，他接收了女仆服装和其他女性服饰，并在脱掉男性衣物后，进行了一系列的变装与心态转变。
+
+在穿上丝质裤袜和女仆制服后，罗德对自己变化的身体感到震惊，特别是胸部的变化和对新身体的敏感体验。他开始意识到自己即将以女性身份出现，内心的挣扎和对女性角色的接受过程是文中的重要主题。随着故事的发展，罗德在变化的过程中逐渐适应女性身份，并感受到一些新的情感与肉体感受。随后他被迫面对外部环境，并与他人交流，展现了他的双重身份和心理上的不适应感。同时，在与相关角色接触时，情节揭示了关于性别认同和身份认知的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_【翻译】骗局（下）.docx]([变性]_【翻译】骗
 | Size            | 48621 bytes                           |
 | MD5             | 48fba7609e5ac59c159eb5542ceeb133                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 女性身份, 心理挣扎, 角色扮演, 性别认同, 暗黑幽默, 惊悚, 自我探索, 幻想, 都市奇幻, 情感变化, 女性视角, 变嫁, 多重身份, 社会实验, 性别流动性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

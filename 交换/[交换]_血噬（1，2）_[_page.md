@@ -7,7 +7,7 @@ TXT 下载: [[交换]_血噬（1，2）_[.docx]([交换]_血噬（1，2）_[.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《血噬（1，2）》包含了一系列悬疑与动作元素的叙述，故事围绕一系列奇特而令人震惊的事件展开。故事开头通过强烈的动作描写引入，描绘了一个神秘的黑影在夜间利用飞镖进行攻击的场景，产生了强烈的视觉冲击和悬疑感。同时，文件中提到的刑警副队长张建波在面对不可思议的场景时表现出的无能为力，展示了人类面对超自然力量的绝望和无畏。此外，文件内容中涉及了一起极为恐怖的谋杀案件，受害者被发现死于家中，尸体被残忍分割，心脏被钉在门上，显示出犯罪的残忍。故事中的人物通过对话和动作展现出复杂的内心情感与冲突，同时穿插了一些幽默与挑逗的元素，使得整体叙事层次丰富。整体故事情节引人入胜，适合对悬疑、动作及性转元素感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_血噬（1，2）_[.docx]([交换]_血噬（1，2）_[.doc
 | Size            | 36849 bytes                           |
 | MD5             | ff377a1ab58e7214a64a9ed16457b42b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 血噬, 悬疑, 动作, 变身, 性转, 警察故事, 黑暗幻想, 惊悚, 伪娘, 都市小说, 犯罪, 超自然, 夜晚追逐, 角色扮演, 情感纠葛, 戏谑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

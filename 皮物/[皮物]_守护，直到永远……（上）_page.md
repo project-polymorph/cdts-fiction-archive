@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_守护，直到永远……（上）.docx]([皮物]_守护
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件标题为《守护，直到永远……（上）》，内容围绕一个名为奥克兰王国的幻想世界展开，描绘了一场由教廷发起的宗教战争的前夕。故事的主角是二王子拉克西斯·R·圣鲁道夫，他受到危机即将来临的警报，并被召见到一位神秘的圣女面前。描述开篇的环境压抑，战争的阴影笼罩王国，国王对即将到来的灾难感到无能为力，决定应对这种危机。文章中有丰富的细节，展现出王子的内心冲突，以及他对国家存亡的责任感。圣女的出现增添了神秘色彩，和王子的对话突显出他们对生命女神教义的理解及其丰厚的历史背景。整篇文章氛围紧张而压抑，同时也蕴含了希望与牺牲的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_守护，直到永远……（上）.docx]([皮物]_守护
 | Size            | 21115 bytes                           |
 | MD5             | 9afb806f3f8cff30659b401787365ce1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身, 自我探索, 跨性别, 宗教战争, 幻想, 命运, 政治阴谋, 个人牺牲, 古代, 神秘角色, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

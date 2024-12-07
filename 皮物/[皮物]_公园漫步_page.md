@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_公园漫步.docx]([皮物]_公园漫步.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文《公园漫步》是由Trevor创作的一篇伪娘主题的小说，主要讲述了男主凯文与他的好友麦克斯之间的对话。故事情节围绕着麦克斯在准备约会过程中，借用假体和化妆来打扮成女性的角色。从凯文进入中央公园的美丽景象，到他与麦克斯的电话交流，逐渐揭示出麦克斯的双重身份和他对性别表达的探索。通过细腻的场景描写和对话，读者不仅可以感受到角色之间的亲密关系与幽默互动，同时也反映出关于性别认同和个人身份的主题。麦克斯通过假乳、束腰和化妆，完美地转换为女性形象“麦莉”，而凯文对麦克斯的变装似乎并不排斥，反而表现出友好的支持。最终，两人以浪漫的情节结束故事，使人们对伪娘文化和跨性别议题有更深层次的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_公园漫步.docx]([皮物]_公园漫步.docx)
 | Size            | 18978 bytes                           |
 | MD5             | 7f69760e063a63ea8135573d7030b761                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Trevor                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 变装, 校园生活, 恋爱, 二次元, 自我探索, 亲密关系, 纽约生活, 文化探讨, 性别表达, 友情, 变身, 约会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

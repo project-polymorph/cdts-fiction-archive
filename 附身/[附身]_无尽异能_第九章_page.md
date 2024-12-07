@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无尽异能_第九章.docx]([附身]_无尽异能_第九�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节标题为“姐妹”，描绘了角色张紫幽与其姐姐张紫若之间的关系。故事以轻松的对话开始，张紫若向张紫幽询问觉醒异能后的感受。张紫幽表现出对于自己的异能的期待，随后展示了她的瞬移能力，令姐姐惊叹。随着情节的发展，篇幅描绘了一种温柔的姐弟情谊，但潜藏着张紫幽内心更深的欲望和计划。她虽然表面上温柔纯真的承受着一切，但实际上有着自己的私密想法与行为。作品中融入了一些轻微的含糊情色暗示，例如张紫幽因缺乏力量而巧合地倒在张紫若的怀里，展现了一种复杂的情感交织。另外，张紫幽对于自己异能的现实与内心欲望产生的冲突，同样成为文本的一个重要看点。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无尽异能_第九章.docx]([附身]_无尽异能_第九�
 | Size            | 19054 bytes                           |
 | MD5             | 050bec1ab8d3c264d05abdd92c1e2609                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 姐妹情, 异能, 瞬移, 姐姐, 纯爱, 角色扮演, 内心挣扎, 温情, 诱惑, 成长, 自我探索, 潜意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

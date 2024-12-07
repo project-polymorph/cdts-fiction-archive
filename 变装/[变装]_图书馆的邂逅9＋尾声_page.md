@@ -7,7 +7,7 @@ TXT 下载: [[变装]_图书馆的邂逅9＋尾声.docx]([变装]_图书馆的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容讲述了一个关于性别转换与角色扮演的故事，围绕着角色小明与他的朋友小B之间的互动展开。小明在与小B及其姐姐的交流中，探讨了性别认同和社会期待的问题，尤其是在工作和情感关系中的应用。故事的开头，小明被朋友的姐姐称为‘女的’进行玩弄，表露出对角色扮演的调侃。随着情节的发展，小B提到他们准备帮助小明适应职场，通过性别角色的转换来实现自己的职业目标。这个过程阐述了对性别身份的社会构建及其复杂性。尾声中，时间流逝，小明顺利进入GQ公司并回忆起往昔，与小B的关系也得到了升华，反映出性别认同与自我价值的发现。整体上，故事既有娱乐性，也引发对性别身份的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_图书馆的邂逅9＋尾声.docx]([变装]_图书馆的�
 | Size            | 15211 bytes                           |
 | MD5             | 3145a3993b578ab9be2de327671428ab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 角色扮演, 性转, 伪娘, 跨性别, 情感探索, 职场挑战, 社会期望, 年龄差, 成人情节, 自我探索, 性别角色, 女性化, 夹杂性暗示, 青春, 大学生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

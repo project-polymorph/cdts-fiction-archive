@@ -7,7 +7,9 @@ TXT 下载: [[变性]_诡雷（1-6）.docx]([变性]_诡雷（1-6）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘与跨性别相关小说《诡雷》的节选，叙述了一个关于男性警察在红灯区的遭遇与内心挣扎的故事。在故事的开头，警察橘民正在监视街道并阅读体育报，接着遇到了一个声称遭到强奸的女性。尽管她的请求充满绝望，警察对她的处境持冷漠态度，甚至对她的身份表示怀疑。接下来的情节中，警察试图理清自己的情感，逐渐意识到这位女性也是一个人，而不仅仅是他眼中的妓女。通过对比她的外表和表面印象与内心真正的痛苦，小说深入探讨了对性别、身份和人性的认知冲突。
+
+小说描写细腻，情节复杂，语言生动，尤其是对夜总会中众多女性的描写，展示了一个名为‘诡雷’的地方，后续故事将继续围绕社交与人际关系展开。作品的情节中涉及到色情元素和对性别角色的探讨，适合对跨性别与性转类小说感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_诡雷（1-6）.docx]([变性]_诡雷（1-6）.docx)
 | Size            | 49286 bytes                           |
 | MD5             | 012198a66a64900ffac07d01abec1d3c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 杰里佛                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 强奸, 性别认同, 自我探索, 性转, 逆后宫, 红灯区, 夜总会, 自我认知, 淫荡, 调教, 跨性别, 两性关系, 女性权利, 都市生活, 青少年, 情感纠葛, 幻想, 心理剧, 人性探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

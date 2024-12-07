@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_让他讨厌_（1,2）.docx]([皮物]_让他讨厌_（1,2�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这段文字讲述了一个名叫林志强的大学生与酒吧老板刘倩姐之间的一段奇特故事。林志强对未来充满憧憬，但在大学生活中变得混日子，未能认识到许多朋友。他与刘倩姐非常熟悉，经常光顾她的酒吧。一日，刘倩姐提出了一个高额工作的机会，一共一百万人民币，林志强出于信任答应了这份工作。随后，刘倩姐揭示这个工作涉及到一件奇异的‘人皮衣’，这种衣服能够改变人的外貌和感觉，并要求林志强假装成她去与她父母安排的男友交往。这段故事涉及性别认同、身份转变以及自我认知的主题，剧情中还包括身体的强制改变和复杂的情感纠葛。它通过角色之间的互动展现了性别认同的探索和社会压力带来的困扰。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_让他讨厌_（1,2）.docx]([皮物]_让他讨厌_（1,2�
 | Size            | 29665 bytes                           |
 | MD5             | 9bdbe375464ee5c9388deb78e02e8419                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 奇幻, 爱情, 身份认同, 自我探索, 酒吧, 人皮衣, 社会压力, 幻想, 冲突, 年轻人, 情感纠葛, 性别角色, 禁忌, 隐私, 神秘药水                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

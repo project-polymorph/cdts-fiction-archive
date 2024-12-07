@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_拯救迷途（第9章）.doc]([皮物]_拯救迷途（第
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是多元性别相关文章的档案仓库的一部分，描写了一位名叫前田一郎的私家侦探的故事。他承接了寻找一名失踪女性木下花音的任务，这位女性是一家公司的高层，涉及了一系列复杂的情感和性别认同主题。文件中描述了前田作为侦探的心理挣扎，以及他对理想与现实的思考， '理想和现实是有差距的，虽说自己顶着捉奸名侦探的牌子，但实际经济状况已经有点危险了。'此外，故事中还有涉及商社权力斗争的情节，主人公正面临着各种复杂的人际关系和道德挑战。文中不仅呈现了剧情推进和角色发展，还带有对于性别认同、自我探索等深入主题的探讨，适合相关领域的学术研究与学习。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_拯救迷途（第9章）.doc]([皮物]_拯救迷途（第
 | Size            | 42496 bytes                           |
 | MD5             | a05a103fc2b90fd33632fdbe2ebdb688                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 侦探小说, 跨性别, 自我探索, 失踪人口, 商业权力斗争, 情感冲突, 二次元, 变身, 女性形象, 私家侦探, 家庭秘密, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

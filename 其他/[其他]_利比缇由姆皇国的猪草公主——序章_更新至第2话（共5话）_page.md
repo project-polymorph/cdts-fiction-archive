@@ -7,7 +7,7 @@ TXT 下载: [[其他]_利比缇由姆皇国的猪草公主——序章_更新至
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是来自小说家になろう网站上的一部受欢迎的转生小说，它讲述了一个名为希尔提亚娜公主的角色，她本是地球上的一个普通男子高中生，但转生后成为了利比缇由姆皇国的猪草公主。故事开头，希尔提亚娜因被身为贵族的身份和性格所困扰，选择庶民的隐居生活。在暴躁的性格下，她意外地遭到了暗杀，却在遭遇魔女的拯救后，复苏了前世的记忆。她决心改变自我，但生活中却总是闹出各种麻烦。这部作品融合了性别转换与转生的主题，描绘了希尔提亚娜在新身份下的探索与成长。序章中对她生活的回忆与身份矛盾的冲突反映出，她曾对平凡而安稳的生活怀有的憧憬与失落，同时也暗示着未来的冒险与变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_利比缇由姆皇国的猪草公主——序章_更新至
 | Size            | 36823 bytes                           |
 | MD5             | e904293f06c54bcc6bf8df5f20ef4ae7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 佐崎一路                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 转生, 伪娘, 性转, 魔法, 青少年, 自我探索, 成长经历, 贵族生活, 女性视角, 奇幻, 冒险, 魔女, 身份认同, 猪草公主, 幽默, 变化, 记忆融合, 男女主角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

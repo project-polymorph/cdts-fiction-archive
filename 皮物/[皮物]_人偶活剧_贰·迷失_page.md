@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人偶活剧_贰·迷失.docx]([皮物]_人偶活剧_贰·
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于人偶与性别转换的小说，情节围绕着一个偷窥者的心理活动展开。主角在一个昏暗的环境中，他们的血液充满紧张。故事开头描绘了主角因窥探而感到恐惧与好奇的内心状态，随着情节发展，主角慢慢接近一个可能被遗弃的人偶，展现出对于神秘与禁忌事物的渴望。文中详细描写了惊慎的气氛和人物的心理挣扎，例如“我想揉一揉心脏”，“这个念头瞬间闪过我的脑海，心脏重重的跳了一下”。最终，主人公在恐惧与好奇之间摇摆，虽然内心幻想着将人偶偷走，却又迟疑不决。此文件含有恐怖与性转内容，适用于跨性别与人偶化主题的研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人偶活剧_贰·迷失.docx]([皮物]_人偶活剧_贰·
 | Size            | 20117 bytes                           |
 | MD5             | 64131689f9e76c56ff3d5f719f89aa94                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别意识, 偷窥, 人偶, 心理状态, 禁忌欲望, 性别转换, 紧张气氛, 角色内心冲突, 恐怖小说, 科幻, 二次元, 成人内容, 自我认知, 奇幻, 反乌托邦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

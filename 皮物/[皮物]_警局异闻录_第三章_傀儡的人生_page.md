@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_警局异闻录_第三章_傀儡的人生.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部关于超自然现象和性别转化的小说第三章，标题为《傀儡的人生》。故事发生在一个清晨的警局，两个角色之间的对话引发了一系列超自然的事件探讨，涉及角色的身体互换和性别认同的复杂互动。青年的队长李平在寻找关于身体交换的证据时，向张老头寻求意见，但遭到怀疑与嘲笑。而后，故事转向李平意外醒来后发现自己被转变为女性，体验到了一种与自己身份冲突的快感，情节发展至其身体无法控制下的探索与自我认知的纠葛。全文中包含了性别认同和欲望释放的描述，并探讨了心理与生理的双重变化，呈现出一种奇幻与现实交织的感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_警局异闻录_第三章_傀儡的人生.docx]([皮物]_�
 | Size            | 25529 bytes                           |
 | MD5             | c4731bd4c3ef3deba06beb38bd34598a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 超自然现象, 身体交换, 性别认同, 性转, 心理戏, 自我探索, 欲望释放, 奇幻, 警局故事, 人际关系, 年轻人, 性别转换, 女性视角, 情感关系, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

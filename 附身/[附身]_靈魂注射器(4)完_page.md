@@ -7,7 +7,7 @@ TXT 下载: [[附身]_靈魂注射器(4)完.docx]([附身]_靈魂注射器(4)完
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《靈魂注射器》是作者在多元作品背景下创作的跨性别科幻小说，故事围绕着一个灵魂注射器的概念展开，主人公为了控制潜在的威胁，试图让书虫加入自己的计划中。书虫的角色在文中引入了复杂的道德冲突与人性思考，他的机智和道德观引发了主人公的忧虑。在作品中多次提到的灵魂注射器不仅是一个强大的工具，也是引发争议与冲突的焦点。故事中充满了对道德、友谊与权力的探讨，展现了人们在极端情况下的反应与抉择。同时，作品夹杂着许多幽默与讽刺的元素，使得它在探讨严肃话题的同时，仍然保持了一定的轻松气氛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_靈魂注射器(4)完.docx]([附身]_靈魂注射器(4)完
 | Size            | 25046 bytes                           |
 | MD5             | a9d9868b22dab7ff34d950285bb590ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂注射器, 科幻, 道德冲突, 跨性别, 自我探索, 权力游戏, 二次元, 角色扮演, 友情, 心理斗争, 幽默, 反派角色, 道德漠视, 实验性质, 神秘力量, 架空历史, 书虫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

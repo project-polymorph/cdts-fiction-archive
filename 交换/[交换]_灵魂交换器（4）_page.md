@@ -7,7 +7,7 @@ TXT 下载: [[交换]_灵魂交换器（4）.doc]([交换]_灵魂交换器（4�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件的内容主要围绕角色唐乐与她的朋友王颖进行灵魂交换后的生活体验展开。故事描写了唐乐作为女性的身体和生活习惯的探索，表现出许多她对女性生理特征的好奇与尝试。例如，在上卫生间时，她对女性生理的细节产生了新的认知，以及对自我身体的探索和欲望。文件中详细描写了她在使用王颖身体时的各种情境，包括第一次尝试自慰以及对与朋友刘云飞的对话，其中融入了诙谐且带有色情暗示的元素。此外，文件包含了淫荡的对话和图像描述，尤其是唐乐用硅胶阳具进行自慰的场景，展示了她在新身份中的性体验和欲望的释放。最后，文件通过手机对话展示了角色之间的亲密关系和性欲交流，提升了作品的戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_灵魂交换器（4）.doc]([交换]_灵魂交换器（4�
 | Size            | 34816 bytes                           |
 | MD5             | 39f4c6dd2b76e01923d740072293ddf8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂交换, 性别转换, 变身小说, 自慰, 跨性别, 青春校园, 女性身体探索, 性欲, 性幻想, 二次元文化, 戏谑幽默, 成熟内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

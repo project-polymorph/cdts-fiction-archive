@@ -7,7 +7,7 @@ TXT 下载: [[变身]_电梯里的变化.doc]([变身]_电梯里的变化.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品《电梯里的变化》（Elevated）讲述了内森和他的助手杰米在一次电梯旅程中经历的奇特变化。在一次搭乘电梯去见新客户的途中，电梯发生了多次意外变化，导致他们的生理特征和性别认同发生扭曲。在短短的电梯行程中，杰米和内森的不仅是他们的外貌特征发生了巨大的变化，内心的认同和对彼此的看法也在潜移默化中改变。电梯里的机械音不断提示着变化的次数，每一次的变化都令两人感到困惑又兴奋。随着电梯的持续上升，他们的性别角色慢慢转变，杰米变得更加女性化，而内森则开始认同起女性身份。小说探讨了性别流动性、自我认同以及内心渴望的复杂性，包含大量的变身描写及心理描写，展现了性别认同的多样性和矛盾。作品还深入探讨了社会角色期待与个人欲望之间的冲突。最终，当他们抵达目的地时，两位主角不得不面对转变后的新现实和由此带来的社会互动的改变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_电梯里的变化.doc]([变身]_电梯里的变化.doc)
 | Size            | 33792 bytes                           |
 | MD5             | 6ca86609cd4c1a5d4eee5e621ca3af75                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Emerald Boys                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 自我认同, 心理变化, 女孩形象, 性别流动性, 电梯奇遇, 角色转变, 社会期待, 二次元小说, 幻想, 都市, 成人内容, 两性关系, 探索自我                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_令人失望的交换能力者1-3_[.docx]([交换]_令人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含了一部关于性别交换的小说的部分内容，主要以立花和君岛这两个角色的视角展开。故事开始于立花收到了君岛的请求，希望能够交换彼此的身体和服装。君岛的身体特征被详细描述，带有隐晦的性暗示，表现出对立花身体的性吸引。君岛获得了一种名为何为『什么都可以交换』的特殊能力，并随意尝试与同学交换身体。在接下来的情节中，君岛使用这个能力进行了多次实验，包括随意与立花的身体进行互动，描绘出一种羞耻与兴奋交织的心理状态。尤其值得注意的是，文中详细描写了角色在男厕所的尴尬经历，及对身体变化的复杂情感反应。这部小说涉及性别认同、变身与自我探索等主题，涵盖了一些禁忌和大胆的情节，有一定的色情暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_令人失望的交换能力者1-3_[.docx]([交换]_令人�
 | Size            | 35960 bytes                           |
 | MD5             | 0da1857c548c04cf12cbed01202b84f7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 跨性别, 色情, 青春校园, 穿越, 变身, 羞耻play, 学生, 二次元, 伪娘, 性别认同, 自我探索, 奇幻, 小说, 互动剧情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

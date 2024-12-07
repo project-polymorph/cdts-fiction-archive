@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第二十一章.docx]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《传承之书》第二季的第二十一章，主要围绕角色陈汉明在医院中苏醒后与高康毅的对话，探讨了关于生死、控制与救赎的问题。陈汉明在醒来后发现自己受到重伤，身体无法动弹，而高康毅正陪伴在旁。两人讨论了郑心怡的命运，她因脑死亡而被迫牺牲，而高康毅决意帮助陈汉明。随后的章节穿插着对医院异样环境的描写，暗示着一场神秘的疾病正在蔓延，贾蓉的出现则进一步引入了关于病毒和阴险交易的情节，暗区的危险和人际关系的复杂性逐步展开。整个章节运用了悬疑与紧张的氛围，让读者感受到角色之间深厚且曲折的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第二十一章.docx]([附�
 | Size            | 19963 bytes                           |
 | MD5             | aa6a85ae3017ebecdf2becd60ecc23aa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 生死抉择, 医院, 病毒, 悬疑, 角色对话, 自我认知, 暗区, 情感纠葛, 人际关系, 救赎, 阴谋, 情感探索, 超自然元素, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

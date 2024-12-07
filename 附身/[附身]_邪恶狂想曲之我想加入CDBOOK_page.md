@@ -7,7 +7,7 @@ TXT 下载: [[附身]_邪恶狂想曲之我想加入CDBOOK.docx]([附身]_邪恶
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档《邪恶狂想曲之我想加入CDBOOK》是一个关于一名男性角色的内心独白与奇幻经历的小说。文中描述了主人公自高中起便痴迷于CD（女装）文化，逐渐沉迷于变身和性别转换的幻想。他回忆了自己在网络上寻找相关作品的经历，引用了多部热门CD小说，如《魔肤》、《换身记》，并表达了对其作者的崇拜。主人公渴望加入一个名为CDBOOK的论坛，于是展开了他的变身体验。在经历了一种神秘的附身过程后，他发现自己置身于一个富丽堂皇的女孩卧室中，并逐渐接受了自己如今身体的变化，以及对新身份的探索。文中包含了性别认同和自我探索的主题，并涉及了一些带有色情暗示的内容，例如对女性形象的向往和身体的奇妙幻想。整体内容气氛轻松又不失幽默，充满了角色内心的挣扎与幻想。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_邪恶狂想曲之我想加入CDBOOK.docx]([附身]_邪恶
 | Size            | 30130 bytes                           |
 | MD5             | 1d0b111d3d37fa4043d822e008459541                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 附身, 性别认同, 自我探索, 伪娘, 男娘, 青春幻想, 沮丧心情, 论坛文化, 网络小说, 性别转换, 奇幻体验, 青春期困惑, 性幻想, 网络名人, CD文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

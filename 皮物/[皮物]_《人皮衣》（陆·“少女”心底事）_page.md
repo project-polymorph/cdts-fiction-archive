@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《人皮衣》（陆·“少女”心底事）.doc]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为黄小婉的角色在其20岁生日宴会上与其父亲黄石杰之间复杂关系的描写。故事开始时，黄小婉在精心布置的餐桌上准备惊喜与父亲共度生日，但随着剧情的发展，这个庆祝活动逐渐演变成扭曲的情感纠葛及亲情与欲望的冲突。在黄小婉的巧妙设计下，她通过酒精和药物的作用使父亲陷入迷醉，从而展开了一段极为不当的亲子关系。文本中详细描写了两人之间的互动，以及黄小婉刻意制造出来的情感和肉体上的接触，使故事充满了挑逗和禁忌的情感。这段描写不仅涉及复杂的情感依赖，也反映了性别与身份认同的问题，是探索人性深处的一种表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《人皮衣》（陆·“少女”心底事）.doc]([皮�
 | Size            | 53248 bytes                           |
 | MD5             | 0f2cee21480b13cd08f87ddd06b2f0ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 乱伦, 变身, 跨性别, 父女关系, 心理扭曲, 情感交易, 药物影响, 生日派对, 欲望与束缚, 双重身份, 禁忌爱情, 青春, 情感操控, 恋父情结                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_埃及探秘.doc]([交换]_埃及探秘.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一个跨性别主题相关的小说，讲述了一名年轻男子陈伟的日常生活与情感探索。故事开始于陈伟在工作之余，阅读一本关于埃及探秘的书籍，着迷于书中描绘的法老与金字塔的神秘传说。在与新同事小莫的互动中，陈伟逐渐被其吸引。小莫虽然外表似乎是女性，但她自我认同为男性，这在两人之间构成了一定的情感障碍。陈伟对小莫产生好感并试图追求她，但却被小莫告知自己尚未准备好接受这样的关系。此外，文中还穿插了陈伟与其他女性角色的情感纠葛，展现了他作为普通白领的生活状态与内心的挣扎。小说通过角色的心理描写和情感波动，探讨了性别认同与爱情的复杂关系，并塑造了诸多现代职场的生活细节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_埃及探秘.doc]([交换]_埃及探秘.doc)
 | Size            | 494080 bytes                           |
 | MD5             | 6369d0cf549cb544d2aec7ec7809fef5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 爱情, 青春成长, 职场生活, 情感障碍, 埃及探秘, 自我探索, 普通职员, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我被抢走的身体1-1.docx]([交换]_我被抢走的身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件是一部以性别转换和伪娘为主题的小说，主要讲述了女主角北条知美的故事。知美是一名25岁的公司职员，她与男友金泽康介约会，但因康介忘记她的生日而与之争吵，知美失望地回到家中，意外遇到了同事名越幸彦。幸彦虽然对知美关心，但知美并不喜欢他。随着剧情的发展，知美醉酒后醒来发现自己被锁在一个陌生的房间中，感到无比恐慌。随着幸彦的出现，故事进入了更为复杂的情节，暗示着性别认同和自我探索的可能性。整篇文章在描写知美内心冲突和心理变化的同时，也涉及了一些暗黑与禁忌的元素，适合对跨性别题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我被抢走的身体1-1.docx]([交换]_我被抢走的身
 | Size            | 32247 bytes                           |
 | MD5             | 5f54fa3c6ee99a1174132b1df5d36b87                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 爱情, 心理变化, 都市小说, 酒精影响, 职场关系, 情感矛盾, 人际关系, 自我认知, 未知的恐惧, 性别认同, 人质情节, 男娘, 都市白领生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

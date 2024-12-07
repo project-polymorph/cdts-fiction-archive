@@ -7,7 +7,11 @@ TXT 下载: [[改造]_【诸天黑牙商】（6）.doc]([改造]_【诸天黑牙
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件摘录自一部名为《诸天黑牙商》的伪娘 TS 变身与跨性别相关小说。第六章主要讲述了角色古月与慕容夫人之间发生的医疗与非医疗相关的互动，涉及角色的身体变化和心理冲突。故事情节中，古月使用生命值进行医疗，治愈了慕容夫人，并以此展开了一系列复杂的生理和心理关系。
+
+其中，慕容复看到自己的养母与古月之间的亲密互动，展现了角色之间的复杂情感和尴尬。随着情节的发展，慕容复为实现复国的目标，决定利用一个神秘的方法来增强自身的内力，过程中伴随着变身和性别认同的主题。
+
+此外，故事中还提到了一场在场男性的祭典仪式，包含了变身、性欲和内力转移等情节，对参与者造成了极大的身心冲击，呈现了变嫁和变装等题材。整体上，这一章涉及多个层面的性别认同、自我探索和超越，展现了丰富多元的情感与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[改造]_【诸天黑牙商】（6）.doc]([改造]_【诸天黑牙
 | Size            | 37376 bytes                           |
 | MD5             | dee29cb6966405505a531efd99d88b59                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 内力, 性别认同, 自我探索, 强奸, 逆后宫, 调教, 乱伦, 药娘, 变嫁, 奇幻, 江湖, 超能力, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

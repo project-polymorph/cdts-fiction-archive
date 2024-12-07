@@ -7,7 +7,7 @@ TXT 下载: [[变身]_愿望的诅咒（代价）1-2.doc]([变身]_愿望的诅�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《愿望的诅咒（代价）》的变身小说，讲述了主角怜月因被古老的诅咒而经历性别转变的故事。故事开头设定在一个充满神秘和危险的环境中，怜月在阴暗的洞穴中回忆起自己被诅咒的往事，逐渐意识到自己的身份改变。从一开始的男性身份，到最终下定决心接受女性的角色，怜月的心路历程既充满苦楚又有奇妙的转变。文中描写了怜月对自身外貌的赞叹，以及对自己新身份的逐渐接受。同时，通过总结她的经历，反映了性别认同、自我探索和灵魂转化的主题。文中包含了一些具体的变身细节与感受，承载了复杂的情感与心理活动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_愿望的诅咒（代价）1-2.doc]([变身]_愿望的诅�
 | Size            | 68608 bytes                           |
 | MD5             | d018fa7fc7ebd292b4be654ebe3cc41d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 伪娘, 幻想, 自我探索, 灵魂转化, 性别转换, 魔法, 冒险, 禁忌, 奇幻世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

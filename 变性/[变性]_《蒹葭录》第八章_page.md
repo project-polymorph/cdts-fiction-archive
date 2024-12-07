@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第八章.doc]([变性]_《蒹葭录》第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为网络小说《蒹葭录》第八章，主要讲述了主角宋沚陵因修习武功受到阴煞真气的侵袭，导致内力全失，且在关键时刻，师太对他施以真气来救治的重要情节。文中描写了宋沚陵内力受损后的绝望与愤怒，以及他与师太之间的情感冲突。故事通过层层波折展现了对个人命运、武道精神以及人际关系的深刻探讨。文中出现的情节，如“给我散”的强烈呼喊和师太的强烈情感溢出，使整个故事充满了张力和戏剧性。此外，文中还涉及到江南水师、离魂教等情节背景，增添了故事的复杂性和深邃感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第八章.doc]([变性]_《蒹葭录》第�
 | Size            | 55296 bytes                           |
 | MD5             | 7ba1fb296dbbb4d67522016ae4090ea6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 强者意志, 阴煞真气, 师徒情深, 武侠, 阴森气氛, 江南水师, 离魂教, 侠义精神, 个人探索, 情感坎坷, 自我救赎, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

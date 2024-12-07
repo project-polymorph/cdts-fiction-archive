@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_意外.doc]([皮物]_意外.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘和变身题材的小说，主要讲述了主角杨康与女友美杜莎的关系，以及围绕商业间谍与性别变换所展开的复杂情节。故事开头，杨康是一名成功的公司总裁，正在享受与美杜莎的亲密关系。然而，在一些奇怪的事件发生后，杨康发现美杜莎的身份并不简单，继而揭开迷雾，发现其身后隐藏的真相。本篇小说将性转、伪娘等多元性别议题融入商业与情感的冲突中，展现了复杂的自我认同和心理探索。文中包含了不少关于美杜莎妖艳外表的细腻描写，同时情节中穿插着商业竞争以及个人情感的波折，小说的后半部分明显向黑暗和惊悚的方向发展，尤其在最后揭露真实身份时的剧情反转，给人以强烈的震撼感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_意外.doc]([皮物]_意外.doc)
 | Size            | 37376 bytes                           |
 | MD5             | fe14ccf4475e848458f345700a5afca0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 商业间谍, 自我认同, 心理探索, 妖艳外表, 情感冲突, 剧情反转, 性别认同, 人与人之间的Manipulation, 都市幻想, 家庭背景冲突, 职场竞争, 猎奇, 惊悚, 疼痛与快感, 身份掩饰, 变身, 酒后失态, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

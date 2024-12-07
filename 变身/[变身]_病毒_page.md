@@ -7,7 +7,7 @@ TXT 下载: [[变身]_病毒.doc]([变身]_病毒.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档展示了一段关于一个年轻男青年因黑客入侵而遭遇奇特变化的故事。故事的主角通过入侵隔壁学生的电脑，发现了一个看似普通却充满秘密的数据包。随着调查的深入，主角逐渐感受到一种奇妙的变化。某晚，他在使用电脑时意外染上了一个奇怪的插件，随后便陷入了一连串的身份错乱与性别转变的情节中。由男性变为女性的身份冲突贯穿了整个故事，主角在日常生活中体会到身体状态的变化、外形的改变，以及在职场中面临的新挑战。与此同时，隔壁的黑客学生与主角的互动也为故事增添了更多的复杂性和悬疑感，反映了性别认同、自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_病毒.doc]([变身]_病毒.doc)
 | Size            | 47104 bytes                           |
 | MD5             | 86d9b413891695e68eac87b292f6c434                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 黑客, 网络安全, 身份认同, 性别转换, 自我探索, 校园生活, 爱情, 奇幻, 职场, 科技幻想, 角色扮演, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

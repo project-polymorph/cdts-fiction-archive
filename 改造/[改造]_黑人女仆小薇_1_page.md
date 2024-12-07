@@ -7,7 +7,7 @@ TXT 下载: [[改造]_黑人女仆小薇_1.doc]([改造]_黑人女仆小薇_1.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位名为维克的男孩在家庭环境中面临的性别认同冲突与转变。他的父亲对维克希望成为女仆的愿望表示强烈反对，认为这是一种羞耻，而维克的母亲则显得相对支持。维克在与父亲的对话中展露出对女仆工作的渴望，并开始进行一场极具戏剧性的转变。在文件中，维克的身体经历了外科手术，使他成为一名外表为女性的黑人女仆，名为小薇。在母亲的具体安排下，他接受了许多身体上的“调整”，包括肤色改变与面部整容手术。“我们让医生做了些手术”，母亲冷冷地告知他这些改变，使维克不得不再度面对身份的挑战与困惑。整部小说着重探讨了性别认同、家庭压力以及社会期待之间的复杂关系。最终，维克似乎接受了自己的新身份，但内心的挣扎依然存在。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_黑人女仆小薇_1.doc]([改造]_黑人女仆小薇_1.do
 | Size            | 54272 bytes                           |
 | MD5             | 211fe70b72308992dc68304714b11db0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 家庭冲突, 身份认同, 跨性别, 女仆, 亲子关系, 社会期待, 性别角色, 角色转变, 心理探索, 外科手术, 自我认知, 个人成长, 女性化, 黑人文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

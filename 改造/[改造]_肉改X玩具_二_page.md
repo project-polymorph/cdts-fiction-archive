@@ -7,7 +7,7 @@ TXT 下载: [[改造]_肉改X玩具_二.doc]([改造]_肉改X玩具_二.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容主要围绕一名男性角色在一个身体改造工作室的经历展开，故事描述了他的妻子准备进行身体改造过程中的心理状态与情感变化。在故事一开始，男主角观察到身旁的奢华环境和壁画，后续通过小白这一角色的介绍，了解到这里的改造技术与向他人获取更多性快感的关系。故事详细描绘了妻子经历的改造过程，包括尿道手术，以及男主对妻子变化的情感反应，表达了对身体改造的神秘与欲望，并结合了科幻与奇幻的元素。此外，文本涉及了明显的色情内容，详细描绘了改造过程中的生理细节与心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_肉改X玩具_二.doc]([改造]_肉改X玩具_二.doc)
 | Size            | 75776 bytes                           |
 | MD5             | b3edcef9abb20d9ee365d1207b6ca357                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身小说, 跨性别, 肉体改造, 身体限制, 情欲探索, 科幻, 奇幻, 婚姻关系, 性奴, 尿道改造, 情感纠葛, 自我认知, 性欲, 夜景                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

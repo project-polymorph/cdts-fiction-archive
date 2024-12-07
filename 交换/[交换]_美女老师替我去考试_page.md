@@ -7,7 +7,7 @@ TXT 下载: [[交换]_美女老师替我去考试.doc]([交换]_美女老师替�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一个关于"身体交换"的奇幻故事，主角小宇在紧张的中考前遇到了自己班级的美女老师张沁。在一次意外中，小宇和张老师发生了身体交换，两人的身份与角色彻底颠倒。故事通过小宇的视角详细描绘了他从男生变为美女老师后的心理变化和复杂的情感。小宇逐渐适应了女性的身体以及作为监考老师的身份，内心包含着对自己新身体的好奇与羞涩，以及对生活和身份认同的探索。同时，张老师也体验到了小宇的生活，两人的双线叙事展现了性别转换带来的思考与挑战。在这个过程中，他们讨论了如何在彼此的身体中度过即将到来的考试，表现出面对软肋的勇气与个性上的成长。故事有着一定的情感复杂性，涉及自我认同、心理变化、性别角色等主题，同时因该文的内容特性，可能包含了一些限制级的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_美女老师替我去考试.doc]([交换]_美女老师替�
 | Size            | 51712 bytes                           |
 | MD5             | 33450aa0a2eba39362de7df56dae7f5e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 逍遥                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 身体交换, 监考, 美女老师, 自我认同, 奇幻, 青春校园, 心理探索, 情感纠葛, 性别角色, 代入感, 考试, 幼年发育, 教育, 成长, 性别认同, 双线叙事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

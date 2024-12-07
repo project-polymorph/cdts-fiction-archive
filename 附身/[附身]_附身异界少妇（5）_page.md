@@ -7,7 +7,7 @@ TXT 下载: [[附身]_附身异界少妇（5）.docx]([附身]_附身异界少�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《附身异界少妇（5）》，讲述了一位名为雅莉娜的少妇，她在异世界中经历个人转变的故事。雅莉娜原本的身份是安迪，伴随着一种神秘的系统，她获得了女性的外形和新的身份。故事开始于她准备控制一个名为亨利的男性角色，随后描述了她在皇城中心街道的冒险，她的高挑身材和优雅形态吸引了路人的目光。雅莉娜在一家魔法店购买药剂，展现了她在这个权力中心的影响力与便利。此后，故事的重心转向一个奴隶市场，雅莉娜试图救助一位年轻女孩，并被一个贩卖奴隶的矮人引导她去查看其他囚禁的生物。文件中多处涉及雅莉娜的内心独白，反映了她的矛盾情感与新的女性身份。文中使用了大量性暗示以及对性别角色的拓展与探讨，搭建了一个充满奇幻色彩和性别转换的故事背景，内容较为复杂，涉及多个角色及其背景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_附身异界少妇（5）.docx]([附身]_附身异界少�
 | Size            | 21687 bytes                           |
 | MD5             | bfa8668a78dde18c39ec343995eb54f2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异世界, 性别转换, 奴隶市场, 女性角色, 自我探索, 魔法, 奇幻冒险, 性别认同, 权力关系, 奇幻社会, 角色扮演, 药剂, 角色发展, 奴隶买卖, 社会阶级                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

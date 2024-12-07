@@ -7,7 +7,7 @@ TXT 下载: [[附身]_夺心魔，年之外传.docx]([附身]_夺心魔，年之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部涉及超能力与性别转变的小说，名为《夺心魔，年之外传》。故事设定在一个科技与神话交织的世界，叙述了一位超能力者青年的经历。青年能力卓越，能够在城市建筑中快速移动，展现出强大的战斗力。他潜伏在某栋豪华别墅的楼顶，计划追踪一位当红女星阳幂。在故事中，描写了阳幂的魅力与神秘，以及她在日常生活中的压力与欲望。随着情节发展，青年与一名强大的刺客艾薇儿展开了生死搏斗，并最终发生了戏剧性的身体替换与身份转移。小说涉及的主题包括性别认同、超能力、个体冲突和自我探索，同时包含了复杂的情感和色情元素，尤其是对阳幂的吸引与刻画。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_夺心魔，年之外传.docx]([附身]_夺心魔，年之
 | Size            | 21950 bytes                           |
 | MD5             | 871e606affd99172a35e1c6565357b18                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 超能力, 性别转换, 暗杀, 变身, 欲望, 战斗, 个体认同, 现代奇幻, 自我探索, 心理冲突, 异能, 女性角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

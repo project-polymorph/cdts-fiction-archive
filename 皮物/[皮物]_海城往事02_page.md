@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_海城往事02.docx]([皮物]_海城往事02.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《海城往事02》描述了一名名为刘欣的角色的生活与困惑。故事开始时，刘欣在海城的租屋中，思考着自己要在别人的面前掩饰自己的真实身份。她脱去高跟鞋与制服，进入一个以女性身份生活的状态。文中详细描绘了她在放松后的身体感受与外貌的变化，尤其是刘欣将一个女人的皮肤穿上的过程，这一行为不仅是物理上的转变，更反映了她内心深处对性别身份的认同与抵触。刘欣的真实身份是男性，她在穿上“人皮”的同时，展现了对现代社会性别认同的挣扎与逃避。在故事中，她的自我认知逐渐被她所穿着的角色所影响，尽管外在表现得像一个女人，她内心却始终相信自己是一个男人。文中涉及对身体的细致描写以及心理状态的剖析，展现了深刻的性别议题和自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_海城往事02.docx]([皮物]_海城往事02.docx)
 | Size            | 18370 bytes                           |
 | MD5             | 3e8ba2b026b23e42b6f04cb2c0c72984                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 跨性别, 男女身份, 自我挣扎, 成人内容, 心理探索, 身体转换, 社会认同, 女性角色, 二次元, 虚拟现实, 身份危机, 幻想小说, 性转文, 人皮, 现实与幻想, 性别认同冲突, 心理状态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

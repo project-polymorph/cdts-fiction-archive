@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_潛徒S-2.doc]([皮物]_潛徒S-2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《潛徒S-2》的章节内容，讲述了一位眼镜女OL在公司大楼中进行的一场特殊考验。故事起初描写了午后的场景，眼镜妹子在同事们的寒暄中，暗中进行着某种考验和任务。她利用特殊的员工卡和装置，试图进入一个禁止的区域并寻找线索。在与一名年轻男同事的相遇中，她灵巧地扮演了一个柔弱可怜的角色，从而获取他的员工卡。进入文件储存室后，她发现到了下一步的执行提示，提及了一个带有面具的特殊任务，目的是替代某位高管的身份。文件中细致描绘了眼镜妹子的心理变化和身体转变过程，展现了她在经历角色扮演及身份转换时的复杂情感，构建出充满性别认同和自我探索的故事情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_潛徒S-2.doc]([皮物]_潛徒S-2.doc)
 | Size            | 37376 bytes                           |
 | MD5             | d4803b17afc3bbdb717d9a807ffaed2a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 角色扮演, 办公幻想, 心理变化, 隐秘任务, 女性角色, 身份置换, 复杂情感, 自我认知, 诱惑, 调教, 变身, 奇幻, 科技元素, 办公室恋情, 二次元小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

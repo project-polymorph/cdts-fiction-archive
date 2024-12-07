@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变欲石2.doc]([变身]_变欲石2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是关于一个名叫秦静的角色的变身与性别认同的故事。故事设定在一个服务行业的背景中，秦静刚刚通过一种名为'变欲石'的神秘物品变成女性。她在更衣室中对自己新身份感到兴奋和害羞，同时也面临着来自他人的关注和评价。文中描绘了秦静初穿服务员的肉丝短裙与丝袜时的自恋情景，表现了她对女性身体的自我认同以及对他人目光的敏感。故事中还涉及到她的同事小影与秦静之间的亲密互动，以及小影对秦静情感的调侃，暗示着秦静与一个名为夏天王子的情感纠葛。伴随着对性别认同与社会期望的思考，秦静在工作中遭遇了顾客的不当行为，体现了她在这个新身份下所感受到的挑战与不悦。此文档内容包含性别认同、自我探索，带有强烈的性暗示和复杂的人际关系描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变欲石2.doc]([变身]_变欲石2.doc)
 | Size            | 54784 bytes                           |
 | MD5             | 37ac618445908a0c6698822be93f01b1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性别认同, 青春, 服务行业, 情感纠葛, 社会压力, 女性主义, 性别探索, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

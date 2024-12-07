@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【乐园计划】第二十一章：恶魔再袭.doc]([其
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别主题的小说，标题为《乐园计划》第二十一章：恶魔再袭。故事围绕几个女主角的冒险展开，主要描绘她们与魔物对抗的激烈场景。沐沐、米儿、寒汐和香草等角色在面对突如其来的魔物袭击时，表现出强烈的勇气和决心。沐沐因魔物的出现而感到沮丧，但很快展现出自己的能力，对抗敌人。寒汐则是冷静果断的战斗者，使用冰冷的魔法，展现出她的力量和聪明才智。香草在寻找被封印的恶魔，展现了她对自身身份的认同和对冒险的渴望。整个章节在描写角色们战斗的同时，流露出她们的个性和彼此之间的互动，鲜明地体现了性别认同、魔法与青春的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【乐园计划】第二十一章：恶魔再袭.doc]([其
 | Size            | 34816 bytes                           |
 | MD5             | 186fb4ae190a068d1b0e0a9855082fd2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 魔法, 幻想, 女主角, 恶魔, 冒险, 勇气, 战斗, 青春, 性别认同, 伪娘, 二次元, 奇幻, 跨性别, 魔物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

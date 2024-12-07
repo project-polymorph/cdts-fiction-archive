@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我的英雄之路2_個性：完美複製_覺醒.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《我的英雄之路2-个性：完美复制-觉醒》是一部有关角色性别转换和自我认同探索的跨性别小说。故事围绕主角瀧川在偶然的情况下与女主角八百万百相遇，并意外使用了他的超能力‘个性’，能够把触碰过的人完美复制。文件中的情节描写了瀧川与百百的互动，涉及到了性别形象的转换与心理感受的冲突。在故事中，瀧川在百百面前首次使用超能力，经历了身体和性别的巨变，面临身份认同的挑战。内容包含对身体变化及情感的细腻描写，如主角感受到的‘强烈的腫脹搔癢感’，以及对百百的 admiration 和欲望。这些描写在不断的情节推进中，对身体认同和心理状态进行了深刻的探讨。整体内容较为敏感，可能包括色情元素，适合进行科学研究与学习。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_我的英雄之路2_個性：完美複製_覺醒.docx]([�
 | Size            | 23155 bytes                           |
 | MD5             | 76c5345c1b87d3e0c9ccfa05ca54a2fd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 超能力, 自我认同, 情感探索, 伪娘, 性别认同, 爱情, 身体变化, 跨性别, 二次元, 青春, 幻想, 成人内容, 奇幻, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

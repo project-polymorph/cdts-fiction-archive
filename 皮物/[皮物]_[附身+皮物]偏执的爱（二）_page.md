@@ -7,7 +7,8 @@ TXT 下载: [[皮物]_[附身+皮物]偏执的爱（二）.doc]([皮物]_[附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一个名为《偏执的爱（二）》的伪娘/变身小说，其情节围绕一位女性角色的内心探索和性别认同。故事的开头描绘了一位年轻女子驾驶白色汽车进入一个小区，她在与保安的互动中流露出微妙的情感，同时展现出对自己身份的矛盾感受。随着剧情的发展，该女子逐步展现出她的真面目，带有一种神秘与幻想色彩的设置使得故事充满张力。
+在本文中，女子通过与另一份自己（姐姐）的关系展开了一系列情感上的冲突和探索。主要情节包括她在家中与丈夫的互动、注重外貌和自我精致的心态，以及她对自身性别认同的挣扎和不安，反映出对存在主义的思考。文中涉及到多层次的关系描写和情感纠葛，包含了一些性暗示和情感牵动的场景。在特定情况下，角色的两种身份和情感交织在一起，形成复杂的人际关系和角色认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +22,10 @@ TXT 下载: [[皮物]_[附身+皮物]偏执的爱（二）.doc]([皮物]_[附身
 | Size            | 49152 bytes                           |
 | MD5             | dc0de34edf71bf02374e011d6694ff45                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 变身小说, 性别认同, 自我探索, 强奸, 调教, 百合, 变嫁, 雌堕, 性别转换, 情感纠葛, 幻想, 年龄差, 逆后宫, 催眠                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

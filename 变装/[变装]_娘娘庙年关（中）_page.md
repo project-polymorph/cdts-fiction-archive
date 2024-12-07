@@ -7,7 +7,7 @@ TXT 下载: [[变装]_娘娘庙年关（中）.docx]([变装]_娘娘庙年关（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件段落记录了彭军和伍玉娟回到娘娘庙村的故事，描绘了村庄在这几年的变化以及彭军的变身经历。彭军在外地接受了变身手术，成为了一名穿着女装的反串演员，回到村子后引起了乡亲们的惊讶与讨论。故事内容通过一系列的对话，展现了彭军的家庭与邻居的生活态度，以及他们对传统文化和现代变化的接受度。在村子里，彭军以其独特的外貌及经历成为了当地春节庙会的奎水娘娘，体现了性别流动性在乡村文化背景下的碰撞与融合。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_娘娘庙年关（中）.docx]([变装]_娘娘庙年关（
 | Size            | 26553 bytes                           |
 | MD5             | bf13e6624479c3e37809efcbd29a42e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 乡村生活, 春节庙会, 自我认同, 反串演员, 女性化, 社会接纳, 传统与现代, 性别认同, 激素治疗, 整容手术, 乡亲交流, 文化传承, 春节习俗, 角色扮演, 性别表达, 美与自信, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

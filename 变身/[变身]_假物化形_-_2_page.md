@@ -7,7 +7,7 @@ TXT 下载: [[变身]_假物化形_-_2.docx]([变身]_假物化形_-_2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描述变身小说的章节，讲述了一个角色在外表上变身为她的朋友，并在祭典中与她一起进行各种活动的故事。整个故事围绕着角色前田和她的朋友浅井雪奈展现了他们在庙会中的互动与情感交流，描述了前田由于变身能力所带来的身份混淆和情感的复杂性。文本中提到前田的内心挣扎与对自身能力的不安，以及她与雪奈之间的温馨互动、傻笑和感伤，展现出青少年间的友谊和成长。故事中的对话和场景描绘出一种轻松而又略带忧伤的氛围，表达了一种对以往回忆的珍视与对现实的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_假物化形_-_2.docx]([变身]_假物化形_-_2.docx)
 | Size            | 22958 bytes                           |
 | MD5             | 121829f4b9f4836566227602a6c8aaa2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 友情, 青少年, 自我探索, 穿越, 庙会, 角色扮演, 情感交流, 内心挣扎, 性别认同, 温馨, 成长, 祭典, 变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

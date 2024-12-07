@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_皮影会系列《小兵传奇之那年夏天》楔子_第
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘变身与跨性别相关小说的开头部分，标题为《小兵传奇之那年夏天》。故事以第一人称叙述，主人公是一名10岁的小男孩。通过他的视角，讲述了一个充满幻想的童年，主人公向往着拥有某种特殊的力量，希望能够改变自己的命运。故事开篇引入了一个乞丐角色，他向少年展现了他的能力，促使少年对现实产生了新的思考。
+
+在开头的楔子部分，主人公描绘了自己的幻想之一，并通过将其与《忍者神龟》中角色的变化进行类比，展现了对变身与蜕变的渴望。接下来的情节引入了一个奇特的乞丐，他试图通过一系列充满神秘色彩的商品来吸引主人公，并表达了一种对灵魂和能力的信念。乞丐的出现为故事带来了悬念，同时也引发了少年对生命与自我认同的深刻思考。内容中带有幽默与幻想相结合的特点，展现了少年心中的渴望与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_皮影会系列《小兵传奇之那年夏天》楔子_第
 | Size            | 17594 bytes                           |
 | MD5             | 9f026748a7729a1f333a58a3b6eb81d6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 幻想, 自我探索, 跨性别, 青少年, 魔法, 奇幻, 幽默, 成长, 灵魂, 乞丐, 变化, 人生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

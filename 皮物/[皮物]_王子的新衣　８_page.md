@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_王子的新衣　８.docx]([皮物]_王子的新衣　８
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性转和伪娘情节的小说，主要围绕角色的身份认同与复杂的人际关系展开。在故事中，角色周容、沙娜及安丽三人经历了一系列情感纠葛与性别角色的转变。故事以三位少女在一种尴尬的气氛中共享早餐开始，逐渐揭示出她们之间隐藏的心理冲突与性欲望。周容意识到目前的身体并不属于自己，表示已放弃无谓的道德观念，并决定不再报仇，而是为了家人整体的安全考虑，与她们共同应对即将到来的威胁。故事情节中穿插了自我探索、对身体欲望的探讨和对复仇的思考，体现出复杂的情感和性幻想。角色们的互动充满了羞涩与刺激，尤其是对宅男的感情升级，展现出不同身份之间的情感纠葛。在整个过程中，情感与欲望交织，充满了对性别和认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_王子的新衣　８.docx]([皮物]_王子的新衣　８
 | Size            | 17131 bytes                           |
 | MD5             | e82dbcfd8a04899ee2280899fd39a0e5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 身份认同, 自我探索, 情感纠葛, 欲望, 强奸, 淫荡, 女子之间的关系, 复仇, 宅男, 魔法, 情感冲突, 少年, 成人内容, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

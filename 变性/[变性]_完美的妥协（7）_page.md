@@ -7,7 +7,7 @@ TXT 下载: [[变性]_完美的妥协（7）.doc]([变性]_完美的妥协（7�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为跨性别相关小说的一部分，名为《完美的妥协（7）》。小说讲述了一个名为珍娜的角色在即将成婚前的心理斗争和身体变化。文本中提及珍娜在婆婆和女伴的帮助下试穿婚纱、学习如何成为一名合格的妻子，包含了她对自己性别认同的困惑与自我探索。小说中的情节涉及到变身与性转的主题，珍娜的身体由男性转变为女性，她的内心也经历着激烈的冲突。从描述中，我们可以看到珍娜对自己身体的新认知，以及对婚礼的期待与恐惧。文中还详细描绘了珍娜的外表变化，以及她面对社会期待时的紧张与适应。整段落的情感充沛而复杂，她在期待与压抑之间摇摆不定，反映出对身份认同的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_完美的妥协（7）.doc]([变性]_完美的妥协（7�
 | Size            | 43008 bytes                           |
 | MD5             | 66066743f277774fcfd254f9f8412659                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 婚礼前准备, 性别认同, 自我探索, 情感冲突, 女性角色, 心理变化, 伪娘, 婚姻, 传统女性形象, 爱情, 性教育, 身体改造, 幻想, 男性视角, 二次元, 精神矛盾, 社交紧张, 现代社会, 性取向变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

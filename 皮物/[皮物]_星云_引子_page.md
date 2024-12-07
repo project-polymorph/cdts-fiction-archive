@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星云_引子.docx]([皮物]_星云_引子.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了一篇多元性别主题的小说，讲述了几位角色的经历，涉及性别认同、自我探索以及社会对于性别角色的刻板印象。故事分为几个时间段和地点，包括1923年的哥伦比亚马孔多，一个未来65359年的星区考古现场，以及2014年的H城。每个部分通过不同角色的视角展现了他们在社会压力和自我期望之间的挣扎，特别是纳西尔这个角色，他感受到周围社会对他的评判，因其与众不同的欲望而被视为罪人。在未来的故事中，一个年轻人在冷冻睡眠后醒来，面临着一个毁灭的星系，反映出对人类历史的深思。在2014年部分，主角对考古社团的回忆中，又隐含着人物与因时代变迁而逐渐消逝的文化传承之间的关系。这些故事不仅描绘了个体的私密生活，也象征着更为广泛的社会观察与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星云_引子.docx]([皮物]_星云_引子.docx)
 | Size            | 25004 bytes                           |
 | MD5             | 972825cdc0a9b0739c98d26d63e5b1a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 自我探索, 历史, 科幻, 社会压力, 心理冲突, 变身小说, 文化传承, 青年成长, 古代与现代对比, 魔法奇幻, 个人挣扎, 自我意识, 生理与心理冲突, 未来科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

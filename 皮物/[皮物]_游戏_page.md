@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_游戏.doc]([皮物]_游戏.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘文化的小说，描绘了主人公在学校生活结束后回到女生宿舍的日常情景。故事的转折点出现在主人公与学姐麻美的互动中。当麻美前辈意外地邀请主人公玩游戏时，她给主人公一个气球，并请她将其吹大。随着气球的逐渐膨胀，气球发生了奇怪的变化，最终变成了与主人公外形相似的女性形状。这一奇幻场景不仅带来了惊讶，更引发了主人公对于自己身份和外貌的思考。小说中有诸多细腻的情感描写与角色塑造，展现了性别认同与自我探索的主题，符合伪娘和变身相关小说的特色。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[皮物]_游戏.doc]([皮物]_游戏.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | 6495e8f74d5863c42536ac6273e070b9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 校园恋爱, 性别认同, 自我探索, 奇幻, 麻美前辈, 气球变形, 动画, 小说, 青春, 校园生活, 女性角色, 心理变化, 学生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_疫情导致经济危机，IT男下海拍AV（大纲_附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一份关于跨性别与变身主题的小说大纲，题为《疫情导致经济危机，IT男下海拍AV》。文中讲述了一名软件工程师在新冠疫情导致经济危机下失业后，如何想出了通过拍摄女装视频来盈利的故事。主角由于高额房租的压力，受到市场需求和个人条件的影响，选择了一条与自身性别认同和职业转型相关的道路。故事设定基于时事和文化现象，展现了主角的内心挣扎和自我认知的变化。大纲中不仅提到主角如何通过拍摄视频获得收入，还涉及了跨性别身份的探讨，也提出了性别认同与商业利益之间的关系。整篇文稿还涉及对社会与个人的观察，包括对跨性别群体面临的挑战与机遇的深刻反思。同时，包括了一段关于结婚后情感的告白，展现了角色的情感发展和个人成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_疫情导致经济危机，IT男下海拍AV（大纲_附�
 | Size            | 38912 bytes                           |
 | MD5             | 32406687233ddf03e26c5be6342de5ef                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, ABO, 伪娘, 男娘, 视频创作, 经济危机, 性别认同, 自我探索, 性别转换, 情感纠葛, AV文化, 社交媒体影响, 性别与商业, 文化现象, 心理挣扎, 恋爱关系, 虚拟现实, 性别表达, 社会观察                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

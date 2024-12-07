@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_《碧霄传》更新第六章。.doc]([催眠]_《碧霄�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《碧霄传》第六章主要围绕角色赵碧霄的经历展开，描写了在毕业季，一群同学因即将分离而聚会狂欢的情景。故事通过赵碧霄对同学、朋友的回忆以及与助理的互动，展示了他作为首都大学毕业生的复杂情感和心理变化。章节中包含了角色之间的幽默对话和情感纠葛，尤其是赵碧霄在酒精的影响下对助理的冲动行为，展示了豪放与内心挣扎的对比。故事还提及了赵碧霄经历车祸后变化的身体状况，反映了他对过去与未来的思考。在这个过程中，章节涉及到诸多情感和性暗示，体现了角色在面对自我认同和重建个人关系时所经历的内心冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_《碧霄传》更新第六章。.doc]([催眠]_《碧霄�
 | Size            | 49664 bytes                           |
 | MD5             | fde4baede4dbe7e73b80e3066b8ad4c0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-01-13                                 |
+| Tags            | 性别转换, 角色探索, 大学生活, 情感纠葛, 助理与老板的关系, 酒后失态, 精神衰弱, 欢送毕业生, 自我认知, 校园故事, 性暗示, 友情, 回忆, 狂欢, 悬疑, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

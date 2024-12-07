@@ -7,7 +7,9 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_7.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是关于一篇涉及跨性别与变身主题的小说的第七章内容。故事围绕两个女孩贝丽和坎迪的交往展开，描绘了贝丽作为男生变身为女生后与坎迪的互动。在这一章节中，贝丽不断体验着自己新女性身份的冲突和兴奋，同时也面临着来自他人的性别误认与赞美，尤其是男孩们对她的关注。贝丽虽然在外表上以女孩的身份出现，但是内心仍在挣扎于自我认同的难题。章节中充满了青春少女特有的羞涩与活力，以及对于性别认同、外貌和吸引力的探索。
+
+例如，在一段情节中，贝丽与坎迪手牵手穿越公园，共同享受这个身份带来的体验，坎迪对贝丽的赞美让她感到害羞与不安，也引发了她对自己身份的思考。文本中提到：“贝丽在回味她说的每句话的结尾都带有青春少女常见的嗲语气”，展现了她在努力融入女性角色，但内心却感到自我认同混乱的复杂心情。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_7.doc]([改造]_把男朋友�
 | Size            | 146432 bytes                           |
 | MD5             | c41b3c35a91dd34bab9c1331dcb6b7fa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2021-05-05                                 |
+| Tags            | 性转小说, 跨性别, 伪娘, 青春, 少女感, 自我认同, 变身, 多元性别, 同性恋, 角色扮演, 情感探索, 校园生活, 男女关系, 情感冲突, 女性视角, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

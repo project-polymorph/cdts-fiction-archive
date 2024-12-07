@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch06.docx]([皮物]_天使的救赎_Ch06.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关的小说章节，标题为《天使的救赎》第六章。内容以角色仙蒂为主线，描绘了她在曼哈顿的日常生活。故事开始于一个清晨，仙蒂被闹钟吵醒，回忆起与好友伊丽丝的约定，准备出门。随着故事进展，仙蒂进行了一系列的自我打扮，体现出她对自己外貌的自信与渴望，同时也隐含着人物内心的挣扎与探索。在前往地铁的路上，仙蒂关注着时事新闻，尤其是关于布鲁克林的市议员选举，这为故事增添了社会背景。文件中涉及了关于角色之间的互动和情感的描绘，她对过去的回忆与未来的不确定性交织在一起，随着剧情发展，仙蒂与好友的关系和内心的变化成为故事的主要看点。文件最终引入了一些神秘的情节，仙蒂被艾米拉入一个会议室，暗示了她们将面临的新的挑战与任务，进一步提升了剧情的悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_天使的救赎_Ch06.docx]([皮物]_天使的救赎_Ch06.d
 | Size            | 30046 bytes                           |
 | MD5             | 6d1c0128f137526aa17375e280d35a71                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 恋恋云烟                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 都市生活, 角色探索, 魔法, 自我发现, 情感纠葛, 友谊, 未来不确定性, 政治背景, 神秘事件, 二次元, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

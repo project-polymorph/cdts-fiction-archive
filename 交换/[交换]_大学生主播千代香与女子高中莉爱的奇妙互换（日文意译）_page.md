@@ -7,7 +7,7 @@ TXT 下载: [[交换]_大学生主播千代香与女子高中莉爱的奇妙互�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部关于换身情节的小说，讲述了大学生主播千代香与女子高中生莉爱在一次意外中互换身体的故事。故事中，千代香是一名性格开朗、身材性感的大学女生，平时以晒露骨照片在社交网络上吸引粉丝。而莉爱则是B城首富的女儿，性格内向，对恋爱不感兴趣。两人在街头相撞后神奇地发生了身体互换，随之而来的则是两人在新身份上的探索与挑战。千代香在莉爱的身体里体验了一种截然不同的生活，而莉爱则感受到千代香生活的光鲜与压力。通过这次意外的经历，两人将对彼此的生活与性别角色有更深刻的认知与理解。同时，小说的语言塑造流畅，情节设计轻松幽默，具有一定的趣味性。值得注意的是，文件中也涉及了一些性相关的内容，需科学、客观地进行研读与分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_大学生主播千代香与女子高中莉爱的奇妙互�
 | Size            | 43408 bytes                           |
 | MD5             | 560c41b80c22530cc4fa5ebf5ed7a1bb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 伪娘, 跨性别, 校园小说, 奇幻, 漫画改编, 恋爱, 自我探索, 网络文化, 社会认同, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

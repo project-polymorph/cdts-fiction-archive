@@ -7,7 +7,7 @@ TXT 下载: [[变身]_技术故障.doc]([变身]_技术故障.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《技术故障》是一部探讨性别转换和自我认同的科幻小说。故事围绕角色科迪展开，他在一次手术中试图通过技术手段实现身体与思想的重塑，最终转变为一名年轻女性。科迪的好友阿什顿对这个决定感到担忧，但并未能阻止科迪。然而手术发生了意外，科迪的意识被转移到了一个新的女性身体里，结果与他的期望截然相反。科迪从冷漠与逻辑驱动的个体转变为一个充满对生活热爱的女性，她开始体验之前未曾重视的情感与爱好，如美食与人际关系。小说也探讨了对技术的批判，提出了在追求自我实现的同时，技术可能带来的不可预见后果。科迪的变化引发了阿什顿的困惑和思考，两人最终在复杂的情感中重拾友谊与生活的意义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_技术故障.doc]([变身]_技术故障.doc)
 | Size            | 41984 bytes                           |
 | MD5             | 495ed559d8201ab611f336b457f61348                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Maryanne Peters                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 性别转换, 自我认同, 人际关系, 情感探索, 变身小说, 伪娘, 女性视角, 友谊, 科技伦理, 心理变革, 青春成长, 二次元文化, 机器人, 身体意识, 身份认同, 变嫁, 虚拟现实, 性别表达, 新体验, 生活探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

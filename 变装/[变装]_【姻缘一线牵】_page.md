@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【姻缘一线牵】.doc]([变装]_【姻缘一线牵】.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《姻缘一线牵》，其内容是一部以性别转换和变装为主题的小说。故事设定在一个充满幻想的背景中，设有帝国与小镇的纷争，角色通过药物和环境的影响经历了身体与性别的双重改变。主角福来原本是一位道士，他耗时一年煎制的珍贵药物因一位身着女性服饰的少年而被毁，少年这一角色展现出典型的伪娘形象，体现了其二次元的特质。故事包含了情感冲突、身份认同与自我探索等主题，探讨了角色在适应新身份后的内心冲突与成长。通过一系列戏剧性的情节展现角色之间复杂的关系，包含冲突、强迫以及权力游戏等元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【姻缘一线牵】.doc]([变装]_【姻缘一线牵】.
 | Size            | 78336 bytes                           |
 | MD5             | c428947b5150914f3cdf694db290ae9d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变装, 伪娘, 药物影响, 自我探索, 情感冲突, 幻想小说, 青春成长, 社会冲突, 身份认同, 戏剧性, 权力游戏, 灵气复苏, 冷酷与温情相融, 药材与炼药                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

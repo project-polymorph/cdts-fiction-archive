@@ -7,7 +7,7 @@ TXT 下载: [[变身]_和拥有变身能力的双胞胎一起生活的日子（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个名为冴木辽太的年轻人，他的生活因两个拥有变身能力的双胞胎少女而发生了巨变。这两个少女分别是游戏《舰队Collection》中登场的人物“岛风”和“时雨”，虽然并不是现实中的存在，但他们的到来却让冴木辽太的单身生活充满了困扰和诱惑。文中揭示了二次元角色与现实生活的交错，双胞胎能够随意变换性别，并常常利用这一能力来恶作剧，甚至与辽太发生了多次性关系。故事探讨了性别认同、欲望、以及角色身份的矛盾，展现了辽太在与这些角色相处过程中所经历的自我认知的变化。内容中包含了大量涉及性和欲望的描写，适合对性转小说和变身题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_和拥有变身能力的双胞胎一起生活的日子（�
 | Size            | 38912 bytes                           |
 | MD5             | cfed2fa8b93c6184e23ed11fd66898d5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性转, 二次元, 强奸, 调教, 乱伦, 逆后宫, 虚拟现实, 魔法, 熟女, 青春, 爱情, 奇幻, 男娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

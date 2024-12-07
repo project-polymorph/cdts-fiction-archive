@@ -7,7 +7,7 @@ TXT 下载: [[交换]_狩妖(终)　羽衣人篇.doc]([交换]_狩妖(终)　羽
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘 TS 变身与跨性别相关的小说《狩妖(终)　羽衣人篇》，涉及关于羽衣人与王空、季白兄妹的关系与冲突。作品中引用了古籍《搜神记》，描绘了一个因羽衣人而怀孕及其后续影响的故事情节。兄妹二人在修炼的日常中思考与羽衣人之间的关系，同时探索自己之间微妙而复杂的情感。尤其是在面对羽衣人这一反派人物时，故事强调了角色的性别认同以及相互依赖的情感纠葛。角色的性别流动性与家庭关系交织，使得小说中包含了丰富的情感冲突和自我认知探讨。文中充满了暗示与情欲的描写，如“王空将妹妹压在身下”及随后发生的亲密行为，意味着在性别与角色扮演上的深层讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_狩妖(终)　羽衣人篇.doc]([交换]_狩妖(终)　羽
 | Size            | 64000 bytes                           |
 | MD5             | 56854c351770d2b825e52aa306fb69fe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别小说, 伪娘, 情感纠葛, 家庭关系, 性别认同, 修炼, 幻想, 兄妹, 羽衣人, 古籍引用, 爱情, 冒险, 自我探索, 成年内容, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

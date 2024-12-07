@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_覆皮之上的永恒女王【第一幕】.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于名为蒂亚的黑暗女王及其统治的幻想小说，描绘了一个充满美丽与暴力的神秘世界。作品开篇描写了一个华丽的房间，金碧辉煌的大理石地面上反射出清晨的阳光，鸟鸣和微风声交织成一曲宁静的交响乐。在这个奢华的环境中，主人公蒂亚的形象逐渐显现，她穿着全包裹的人皮衣，展现出异常完美的身材，身上透出一种超凡脱俗的气质。随着情节的发展，蒂亚与她的侍从们的互动以及她对其他曾经强大的国家与其国王的统治手段逐渐显露，其手法残忍且具有威慑力，她将敌国的王遂变为狗，成为自己的宠物，以此来警示他国的威胁。整个故事中充斥着对权力的探讨与对性的暗示，让人感受到一种压迫与萌动的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_覆皮之上的永恒女王【第一幕】.docx]([皮物]_
 | Size            | 33933 bytes                           |
 | MD5             | 4d058ede52256714aeed421e2ee9d61e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 跨性别, 性转, 美少女, 伪娘, 女王, 奴役, 权力, 暴力, 幻想, 人皮衣, 宠物人类, 黑暗, 异世界, 制服控, 高贵                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

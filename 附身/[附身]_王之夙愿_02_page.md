@@ -7,7 +7,7 @@ TXT 下载: [[附身]_王之夙愿_02.doc]([附身]_王之夙愿_02.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一份关于角色性别转换和自我认同冲突的小说资料，主要围绕法波瑞尔和尼禄这两个角色的互动及其复杂的心理变化展开。在文本中，法波瑞尔的身体被另一角色尼禄占据，表现出强烈的占有欲和对身份认同的追求。尼禄在吞噬法波瑞尔的意识后，逐渐完全同化，体验到作为女性的身体所带来的快感与权力，但同时也揭示了这种转变过程中的痛苦与挣扎。文本描述了尼禄及法波瑞尔的身体变化，特别是尼禄如何通过外表和内在的变化逐步成为法波瑞尔，体验到了从男性身份转变为女性身份的复杂感受。此作品中不仅有性别的流动性表现，还有对性欲、占有欲及身份认同的探讨，涉及了大量的暗黑奇幻和恐怖元素，包括吞噬、同化及变身的描述。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_王之夙愿_02.doc]([附身]_王之夙愿_02.doc)
 | Size            | 41472 bytes                           |
 | MD5             | e111d42654494933fb0358c0c1092b23                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 自我认同, 占有欲, 阉割, 变嫁, 强奸, 妖异, 怪物化, 女性视角, 暗黑奇幻, 身份认同, 吞噬, 情感冲突, 伦理争议, 幼女, 非人化, 黑暗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

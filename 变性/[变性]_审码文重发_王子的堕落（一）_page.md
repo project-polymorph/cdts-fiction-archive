@@ -7,7 +7,7 @@ TXT 下载: [[变性]_审码文重发_王子的堕落（一）.docx]([变性]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部设定在魔法幻想世界的性转和跨性别主题小说，主要讲述了年轻的王子雷格追寻传说中世界上最美丽女子的故事。故事以奥斯大陆为背景，王子雷格被父皇催促立妃却对家族为他安排的女子并不满意，因此他开始好奇东边传说中的黑塔与美丽女子的故事。雷格身为阿尔斯帝国的皇子，从小武力过人，声名显赫，但在爱情方面却表露出放荡不羁的性格。故事的开头，雷格对父皇劝说的不以为然以及对大陆最美丽女人的渴望，展示了他的复杂性格，同时推动了后续情节的发展。在雷格的冒险途中，他通过一位神秘的商人获得了可以改变外貌的面具，表现出对美与力量的追求。这部小说不仅探讨了跨性别和性别认同，还涉及了自我探索与欲望的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_审码文重发_王子的堕落（一）.docx]([变性]_�
 | Size            | 27307 bytes                           |
 | MD5             | 5649d69e662a552ba80d555b18333240                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 黑塔, 魔法, 王子, 竞争, 自我探索, 欲望, 妖狐, 身份伪装, 幻想, 爱情, 王室, 奴隶                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

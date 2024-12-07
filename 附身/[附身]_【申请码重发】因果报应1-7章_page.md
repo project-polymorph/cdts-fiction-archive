@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【申请码重发】因果报应1-7章.doc]([附身]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品为一部围绕变装与偷情主题的小说，故事讲述了主角白宁在经历变身后，与自己的上司林起云之间发生的复杂关系。情节开头描绘了一个华丽的私人公寓，白宁在镜子中看到自己已不再是昔日的男人，而是一个身材细腻、妩媚的女子。作品详细描述了主角从男性转变为女性后的内心挣扎和情欲的觉醒。随着剧情发展，白宁与林起云展开了一段感情纠葛，他们的关系异乎寻常，白宁在偷情的过程中感到愧疚与满足交织。作品中多次出现暗示性行为的场景，反映出角色之间复杂的心理状态和性别认同的挑战。最终，白宁的妻子无意中闯入，揭示了一切的秘密，使得整个情节达到高潮。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【申请码重发】因果报应1-7章.doc]([附身]_【�
 | Size            | 119808 bytes                           |
 | MD5             | aeac27bfd6dbe74a07ed822b4d0e560d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 偷情, 性别认同, 小说, 跨性别, 情欲, 变身, 女性化, 自我探索, 情感纠葛, 复杂关系, 心灵挣扎, 婚外情, 强烈的快感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

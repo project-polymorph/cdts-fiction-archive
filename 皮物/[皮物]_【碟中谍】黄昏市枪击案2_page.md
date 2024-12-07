@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【碟中谍】黄昏市枪击案2.doc]([皮物]_【碟中
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个跨性别题材的小说，围绕着一个伪娘角色与一个小处男的情感与身体互动展开。故事设置在警匪背景下，充满了刺激和挑逗的情节，详细描绘了两者在性方面的探索与快感。小说通过细腻的描写展现了角色间的互动，特别是在性别认同与欲望释放中的冲突与融合。全篇文字包含了大量的性描写和成人内容，刻画了伪娘角色的魅惑与对小处男的主导。情节中涉及伪装与角色扮演的元素，包括在不同身份间转换，以及与性别认同相关的自我探索。一些关键情节描述了角色通过性行为达到情感与身体上的满足，以及伪娘角色的诱惑力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【碟中谍】黄昏市枪击案2.doc]([皮物]_【碟中
 | Size            | 35328 bytes                           |
 | MD5             | e50809a66dcd1705d3112618e2d1b205                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 强烈快感, 成人内容, 角色扮演, 情感探索, 性转, 虚拟现实, 自我认知, 调教, 淫荡, 逆后宫, 一夜情, 百合, 人皮衣, 神秘身份, 血腥, 权力斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

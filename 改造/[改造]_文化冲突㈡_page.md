@@ -7,7 +7,7 @@ TXT 下载: [[改造]_文化冲突㈡.docx]([改造]_文化冲突㈡.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件探讨了文化冲突和性别认同的主题。故事围绕主角阿卜杜拉，与他的叔叔法德里之间的对话展开，讨论了西方文化与阿拉伯传统之间存在的误解和偏见。阿卜杜拉提到自己的学生在课堂上受到了一部电影的误导，这部电影促进了对他文化的误解。法德里的观点和态度逐渐显露出性别转换和身份定义的复杂性，尤其是关于男孩马歇尔的性别变化期望。故事的后半部分转向马歇尔被迫接受变身为女性身份玛丽卡的情节，这种转变伴随着自我认知的冲突和对自我意志的压迫。文本中的人物对话，展现了文化、权力和性别之间的冲突，进一步揭示了角色面临的心理挣扎和社会期望。此作品可能涉及限制级内容，因此需要在研究时谨慎对待相关问题，尤其是关于性别身份和性别角色的刻画。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_文化冲突㈡.docx]([改造]_文化冲突㈡.docx)
 | Size            | 18321 bytes                           |
 | MD5             | 100ff14678f2fe55ff65b022e5871c44                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 文化冲突, 变身小说, 跨性别, 阿拉伯文化, 西方文化, 身份认同, 男性至女性的转变, 心理挣扎, 强权与从属, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

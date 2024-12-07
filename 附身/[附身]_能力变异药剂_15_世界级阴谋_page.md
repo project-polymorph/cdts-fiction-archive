@@ -7,7 +7,7 @@ TXT 下载: [[附身]_能力变异药剂_15_世界级阴谋.docx]([附身]_能�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了关于“能力变异药剂”的情节描述，特别是第十五章的内容，围绕着一个与外星人相关的阴谋展开。故事的背景描绘了一位疯狂的博士与两位主角之间的对话，涉及了超能力、寄生、外星生命等主题。博士在实验室中透露了关于外星人如何通过赋予人类超能力来控制他们的计划，以及如何通过寄生于女性来获取精华，以此提升自身的能力。该文中还提到了一名拥有空间移动能力的美丽女子，她成为了实验的对象，博士计划通过寄生实验来对抗外星人。文中有不少关于实验的伦理道德问题和角色心理状态的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_能力变异药剂_15_世界级阴谋.docx]([附身]_能�
 | Size            | 19879 bytes                           |
 | MD5             | 0b2a499fd06727a28a6f718a54227d5d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, TS变身, 外星人阴谋, 超能力, 寄生能力, 科学实验, 女性角色, 伦理道德, 自我认知, 异世界, 奇幻, 科幻, 变身, 女体化, 诡计                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

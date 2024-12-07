@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_老婆大人不在大人的星期天_番外一（1）.doc]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇关于性转与变装的小说，讲述了角色在生活中的变装经历与性别认同的探索。故事中，角色王小明与他的变装妻子展开了一段充满温情与调情的日常生活。文中描写了成都的天气背景，细致地刻画了王小明为唤醒妻子而展现的亲密与温柔场景，情感真挚且细腻。随着故事的发展，冷淡的现实逐渐崩解，角色间的互动透露出一种无法抑制的吸引力与情感连接。对角色的心理变化和身体的描写都包藏着潜在的性别认同的探讨，使得整个文本既充满幻想的色彩，也不乏对真实情感的深刻理解，体现了在这种特殊身份中所产生的相互依赖与支撑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_老婆大人不在大人的星期天_番外一（1）.doc]
 | Size            | 38400 bytes                           |
 | MD5             | 8cc18e2376ab4b6afb294d2936d518f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 爱情, 家庭, 自我认同, 性别探索, 二次元, 成都市, 成人内容, 角色扮演, 情趣, 幻想, 日常生活, 情感, 温情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_变成皮的美少女学生会长被大家穿着的事情.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件描述的是一名男生梅木在高中学生会的日常生活以及与女会长西园寺丽兰的互动。文件中的情节发展围绕着学生会会议展开，梅木对会长的外貌和性感形象感到困惑和吸引。在一次会议中，西园寺会长因感到热，而选择了脱去部分衣物，这引发了梅木和其他男生的注意。在一系列对话与互动中，梅木发现会长的行为变得越来越疏离，并最终揭示了她并非真正的西园寺会长，而是梅木的同班同学阿柊伪装的结果。阿柊通过变身药水变成会长的模样，并开始跟梅木进行亲密的互动和关系发展，充满了性暗示及色情内容。文件含有大量露骨的对话，细致描述了他们之间的身体接触和情感探索，涉及色情和自我认知的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_变成皮的美少女学生会长被大家穿着的事情.
 | Size            | 85504 bytes                           |
 | MD5             | 596003817d2fd874091fa6a88b57cd77                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 跨性别, 妖艳, 青春校园, 恋爱, 细腻互动, 禁忌关系, 角色扮演, 学生会, 性暗示, 女性视角, 调教, 调情, 男性角色自我认同, 身体探索, 惊悚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

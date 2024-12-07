@@ -7,7 +7,7 @@ TXT 下载: [[变性]_找到自己的位置_2（完）.docx]([变性]_找到自�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于变性与身份认同的小说，讲述了主角门罗在母亲去世后的生活。他希望在逃避父亲的严厉期望中，找到自己的位置。故事中，门罗被迫面对自己的性别认同，与自己内心深处的渴望作斗争。他穿上女性的衣物，尤其是女仆的制服，开始清洁与整理家务。通过这些细腻的描写，作者展现了门罗对自我身份的探索以及对过去的怀念。小说中既有他经历愧疚的心理描写，也有他潜在的性别认同意识的萌芽，反映了现代跨性别者在自我认同过程中可能经历的挣扎和心灵的成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_找到自己的位置_2（完）.docx]([变性]_找到自�
 | Size            | 34594 bytes                           |
 | MD5             | 2d87c762cd0fe89ca93258d03d0c0e50                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Belladonna                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 自我探索, 家务, 心理挣扎, 女仆, 心理描写, 自我认同, 身份认同, 母亲, 清洁女仆, 性别转换, 成长, 情感经历, 幻想, 女性化, 家庭关系, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

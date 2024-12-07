@@ -7,7 +7,7 @@ TXT 下载: [[变身]_男人的友情(5)終局.docx]([变身]_男人的友情(5)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档是一篇围绕性别转变和跨性别主题的小说，讲述了主角山姆在醉酒后与尼娜的关系发生了转变。故事开始于山姆醒来发现自己和尼娜之间的亲密接触，逐渐进入了一系列情感和心理的纠葛。尼娜在体会到自己性别变化带来的新体验后，面临着内心的矛盾与渴望，最终选择拥抱新身份。在接下来的情节中，尼娜逐渐释放被压抑的欲望，并与同事们展开了一段放荡的夜晚。故事的结尾，山姆收到一封来自一位自杀的研究者的信件，揭示了这个性别变化背后的神秘病毒和潜在的世界末日危机。该文档内容涉及性别认同、自我探索和情欲的多重主题，并且包含一定的限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_男人的友情(5)終局.docx]([变身]_男人的友情(5)
 | Size            | 18971 bytes                           |
 | MD5             | 0da842c997a3d86af57ab0a93f640c9a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 情欲探索, 魔法病毒, 自我认同, 欲望释放, 性别变化, 饮酒, 夜店生活, 情感纠葛, 女性化, 禁忌关系, 职场恋情, 角色转换, 内心挣扎, 社会实验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

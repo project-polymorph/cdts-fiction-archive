@@ -7,7 +7,7 @@ TXT 下载: [[附身]_死神空间-针（上）.doc]([附身]_死神空间-针�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇涉及附身和性转主题的小说内容，主要讲述了几个学生在教室里的奇幻事件。故事中，一个名为小蛋的角色使用了一种叫做灵魂针的工具，能够暂时控制他人身体。故事情节发展出奇幻与色情元素，展示了学生之间的互动及其对权力和欲望的探索。在文件中，小蛋和他的好友小胖、麻子围绕如何使用灵魂针进行探讨，并涉及到性别转换的内容，突显出角色在性别、欲望和身份认同上的复杂关系。还有关于角色身体限制的探讨，以及其他角色的出现和他们的反应，例如老师的反应。因此，本目录包含了关于性别认同、自我探索、社交互动等主题，对可能包含性相关内容进行了深入的描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_死神空间-针（上）.doc]([附身]_死神空间-针�
 | Size            | 44544 bytes                           |
 | MD5             | 4ebee20402f85019439c0abd67b02a06                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性转, 跨性别, 奇幻, 教育, 青春, 欲望探索, 伪娘, 男娘, 灵魂控制, 性别认同, 教师, 学生, 幽默, 校园, 情感纠葛, 性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

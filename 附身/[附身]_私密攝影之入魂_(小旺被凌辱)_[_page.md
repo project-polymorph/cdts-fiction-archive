@@ -7,7 +7,7 @@ TXT 下载: [[附身]_私密攝影之入魂_(小旺被凌辱)_[.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了角色小旺因药物的影响而进入一个女性身体的情节，故事围绕着他在新身体内的困惑和遭遇展开。在文章中，小旺面临着一个令人不安的情况，他被一个男性侵犯，而在意识到自己已经变成女性后，他内心充满恐惧和无助。随着情节的发展，小旺逐渐接受了自己作为女性的身份，而他所遭遇的强迫接触和侵犯则引发了对身体和性别认同的深刻反思。本文包含大量露骨的描写，体现了性别角色的替换、权力关系以及生理反应带来的心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_私密攝影之入魂_(小旺被凌辱)_[.docx]([附身]_�
 | Size            | 35210 bytes                           |
 | MD5             | 302e4d51cf9d392cf919c2b82a1534c2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 强奸, 自我认同, 性别转换, 跨性别, 侵犯, 药物影响, 女性视角, 身体感知, 性别角色, 性别认同, 心理冲突, 情色, 性跨越, 身份探索, 二次元, 性别流动, 自我探索, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮剝丸奇譚.docx]([皮物]_皮剝丸奇譚.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《皮剝丸奇譚》是一部以战国时期为背景的小说，主要讲述了主人公归蝶在政治动荡中与父亲之间的关系，以及她被安排出嫁的故事。故事开头，归蝶接到父亲的通知，得知她的出嫁地点是尾张，与她所期待的甲斐或越后不同。归蝶在接受这一安排时，内心确实感到不满，甚至对尾张的领主织田信长有着极大的疑虑。她意识到作为一个女人在这个时代的无奈，但内心仍然燃烧着希望，想要在这场婚姻中寻求改变。また，《皮剝丸奇譚》中涉及了一把所谓的“皮剝丸”的神秘器具，它具备剝夺身体皮肤的能力，分离肉体与皮肤，寓意深刻，暗示着权力、身份和身体的关系。归蝶在父亲的教导下，开始学习如何利用这把刀具来实现她的计划，增加权力与影响力。故事通过归蝶的角度，探讨了性别、权力和自我认同等主题，以及她如何在男性主导的社会中寻求自己的位置。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮剝丸奇譚.docx]([皮物]_皮剝丸奇譚.docx)
 | Size            | 86774 bytes                           |
 | MD5             | 8882991f57448384b1406ec73a4a2bee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | teru1                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 政治斗争, 权力游戏, 古代, 战国, 魔法, 女性自我探索, 皮剥丸, 婚姻安排, 家庭纷争, 权谋, 身份认同, 心灵成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

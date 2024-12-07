@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我的狐妖女友（一）.docx]([交换]_我的狐妖女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于性别转换及跨性别主题的小说，讲述了一个男孩在梦中醒来后发现自己变成了女孩的过程。他经历了身体的剧烈变化，不再拥有男性的生理特征，而是拥有了女性的身体和生理期带来的不适。故事详细描绘了他从最初的不适应，到逐渐接受自己身体变化的心路历程。人物在面对这种突变时的心情波动与自我认同的挣扎，都被细腻地展现出来。故事中还穿插了他与沈雪柔的感情故事，二人之间的互动和交流也增添了情感的深度和复杂性。特别是沈雪柔向主角揭露自己是狐妖的身份，进一步推动了故事的发展。整体上，该作品探索了性别认同、自我发现及情感关系等诸多深刻主题，同时也包含了一些限制级的、性相关的情节，适用于相关领域的研究与学习。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我的狐妖女友（一）.docx]([交换]_我的狐妖女
 | Size            | 34376 bytes                           |
 | MD5             | d1f1e3f45fa62ed2a23386aa8d167760                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 女装, 恋爱, 狐妖, 生理期, 角色认同, 自我探索, 奇幻, 日常生活, 约会, 校园, 二次元, 女性视角, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

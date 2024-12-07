@@ -7,7 +7,7 @@ TXT 下载: [[其他]_尘释录_[番外]_1章.docx]([其他]_尘释录_[番外]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一章节的小说，标题为《青丘孽缘》，内容涉及一位刚修炼成仙的女子苏芸祺，因对人间的新奇而下凡。在田间，她遇到了正在劳作的道士吕默庸，两人之间产生了微妙的情感。苏芸祺的清丽与吕默庸的羞涩形成鲜明对比，展现了二人初次相遇时的青涩情感。故事以自然环境为背景，描绘了人间的美丽景色，以及二人在农忙时节的邂逅，在相互关心与依赖中展现了人物的日常生活与情感波动。经过几天的时间，吕默庸因一位老人的请求，再次与苏芸祺相遇，这次的相见带有更加深厚的情感基底，二人共同前往医治病人的过程中，加深了彼此的了解与情感。故事融合了仙侠与人间生活的元素，展现了修道之人与普通百姓之间的温情交流。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_尘释录_[番外]_1章.docx]([其他]_尘释录_[番外]_
 | Size            | 41000 bytes                           |
 | MD5             | 9d53e5fdf55627f161896fc4f19ff251                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 青丘, 修仙, 爱情, 人物转变, 初恋, 乡村生活, 道士, 医术, 人间仙女, 温情, 二次元, 辽阔的自然, 仙侠, 跨性别, 个人探索, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

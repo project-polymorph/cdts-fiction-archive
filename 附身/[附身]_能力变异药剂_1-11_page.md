@@ -7,7 +7,7 @@ TXT 下载: [[附身]_能力变异药剂_1-11.docx]([附身]_能力变异药剂_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是多元性别中文数字档案馆收集的一部关于变身与超能力相关的小说，描绘了一个失踪航班MH370在30年后重返地球的故事，形式上结合了科幻与青春校园元素。故事围绕主角古泉及其妹妹古雨展开，讲述了他们在超能力学院的生活与成长。文中包含了兄妹之间复杂的情感动态以及主角逐渐对自身超能力的探索与认知，刻画了角色如何适应超能力带来的变化与挑战。章节中充满了家庭互动、青春懵懂的爱恋和对未来的迷茫。故事涉及一些轻微的性暗示以及奇幻的设定。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_能力变异药剂_1-11.docx]([附身]_能力变异药剂_
 | Size            | 90680 bytes                           |
 | MD5             | ed799cf7c5245d945677c7d4ac4bc50a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 超能力, 青春校园, 兄妹情, 自我认知, 变身, 奇幻, 科幻, 家庭, 成长争斗, 甜蜜爱恋, 幻想现实, 心理探索, 能力觉醒, 兄妹暗恋, 校园生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

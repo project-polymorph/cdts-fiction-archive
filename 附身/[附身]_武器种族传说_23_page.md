@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_23.doc]([附身]_武器种族传说_23.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描述了一个名为昊天和馨月的角色之间的爱情故事，他们在一次冒险中相遇，展现了许多深情对话和亲密时刻。故事开始于馨月兴奋地向昊天展示一块神秘的玉片，随后内容逐渐发展为他们的情感发展，昊天对馨月的外貌和内在美的深刻认知体现了他对她的爱。在这个过程中，故事中涉及到的角色之间的身体接触和情感互动展现了一种强烈的性的暗示和情感连结，例如昊天对馨月外貌的赞美和他们的亲吻，进一步转向更亲密的关系。文中提及了昊天和馨月之间有关“分身”的讨论，揭示了昊天的特殊修炼法门。这种情节中的感情脉络带有一定的复杂性，反映出他们之间信任与爱的交织。总体而言，该文档展示了一段以奇幻背景设定为基础的浪漫关系，并充满了性暗示及情感的碰撞。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_23.doc]([附身]_武器种族传说_23.
 | Size            | 74752 bytes                           |
 | MD5             | b1fceb7ad4e07b916274616c576f9024                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 爱情, 奇幻, 变身, 性转, 跨性别, 亲密关系, 自我探索, 情感, 魔法, 冒险, 分身, 异世界, 角色发展, TSF, 美少女, 自我认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

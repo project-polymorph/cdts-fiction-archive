@@ -7,7 +7,7 @@ TXT 下载: [[附身]_私密攝影之入魂_(小旺被凌辱_二).doc]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇关于伪娘和变身主题的小说，描绘了主角在性别转换后的心理变化和肢体探索的经历。故事开始于主角穿着简单的白色连身裙走出总统套房，进入电梯时意外遇到一位帅哥。两人之间的互动充满暧昧，主角在不再拘束的情况下大胆表达自己的需求与欲望。在浴室中，主角开始对自己的身体进行探索，描述了触摸、自拍、以及对自身性别认同的迷茫和兴奋。故事中涉及了大量的性相关描绘，包括自我探索的高潮体验。随着情节发展，帅哥的出现使得两者之间的关系更加复杂，两人互相吸引，交流也带有性暗示。整篇小说充满了性别认同的冲突以及对身体的探索，展现了对跨性别主题的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_私密攝影之入魂_(小旺被凌辱_二).doc]([附身]_
 | Size            | 46592 bytes                           |
 | MD5             | 2fb6fcb2ca37114d93c4821434d88bde                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 自我探索, 浴室情欲, 性转, 身体探索, 跨性别, 二次元, 强烈欲望, 性启蒙, 男性视角, 性爱体验, 性高潮, 角色扮演, 浴巾                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第二十二章（完）附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关小说《传承之书》第二季的第二十二章，作者为紫依。章节围绕高康毅与沈玥琦的互动展开，情节包含性别认同与自我探索等复杂主题。故事中，高康毅就沈玥琦的行踪向谷爷询问，谷爷表示无能为力。两人的再次相遇引出了关于身体与力量的深刻探讨，沈玥琦提及个人对身体能力的兴趣，并提出与王灵珊换身体的条件。通过对话，展开了角色之间的情感纠葛和权力斗争，展现出复杂的心理动态与人物关系。文中有精彩的对话和戏剧冲突，情节跌宕起伏，涉及敏感的性别和身体认知问题，也是对角色所在环境的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第二十二章（完）附�
 | Size            | 542602 bytes                           |
 | MD5             | b78c60812f7bb2ad93f766f06e70161a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 附身, 奇幻, 小说, 性别认同, 自我探索, 权力斗争, 爱情, 身体交换, 二次元, 情感纠葛, 奇幻谷, 战力, 角色发展, 心理动态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

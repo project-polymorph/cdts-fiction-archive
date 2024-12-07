@@ -7,7 +7,7 @@ TXT 下载: [[变装]_大毒枭_第三章.docx]([变装]_大毒枭_第三章.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是伪娘和跨性别主题的小说《大毒枭》第三章，讲述了主角与一个名为十三的角色之间的暧昧关系。章节开头描绘了一个清秀的女性形象，主角意外闯入她的房间，逐渐揭示了她的真实身份──一个生理男性的角色经过手术变成女性的模样。文本中包括了对身体特征以及心理变化的细致描写，充满了对于性别认同、自我探索和角色转变的讨论。特别提到的角色十三在接受卧底培训期间进行了身体改造，以满足特定的性别角色需求，展现了复杂的性别流动性和归属感的困惑。这一章节融合了性暗示与情感纠葛，涉及了性别转换后的情感与性爱的细腻描写，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_大毒枭_第三章.docx]([变装]_大毒枭_第三章.doc
 | Size            | 20783 bytes                           |
 | MD5             | aa77b6506f126998791db59af8d41a15                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 伪娘, 性别认同, 情感纠葛, 角色转变, 肉体改造, 自慰, 性暗示, 卧底, 吸引力, 自我探索, 神秘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

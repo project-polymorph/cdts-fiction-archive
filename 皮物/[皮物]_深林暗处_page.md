@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_深林暗处.doc]([皮物]_深林暗处.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《深林暗处》是一部围绕维斯村的年轻炼金术师维特展开的奇幻小说。故事设定在诺顿帝国，描绘了维特由于体力不足而遭受村民嘲笑的情景，尽管他是村里首位获得炼金术最高荣誉“阿尔法”的年轻人。维特一直被认为是一个失败的男子，因其身形瘦弱而没有成功吸引过女孩子的注意，但他在炼金术上才华横溢。当村长提醒他炼金术大会即将在村里举行时，维特意识到自己可能会成为这次大会的焦点。与此同时，另一重要角色——诺顿帝国的皇女薇薇安，她的参与将会议推向了一个新的高潮。故事探讨了性别认同和角色期望的主题，丰富的描写展现了维特内心对自己身份的挣扎以及他对外部世界的无力感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_深林暗处.doc]([皮物]_深林暗处.doc)
 | Size            | 66048 bytes                           |
 | MD5             | 55fccde51d1fd234cc92d61fa3fbb32b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 炼金术, 性别认同, 自我探索, 虚构世界, 成长故事, 男主角, 皇室, 青春期, 身份挣扎, 反传统, 冒险, 校园生活, 权力斗争, 男女关系, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

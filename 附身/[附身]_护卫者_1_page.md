@@ -7,7 +7,7 @@ TXT 下载: [[附身]_护卫者_1.docx]([附身]_护卫者_1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一位年轻女性护卫的故事，主要围绕她与一位有威严感的男子之间的对话和互动展开。故事开头描述了一个安静的书斋，随后人物进入并进行了一系列的问答。护卫者被指派任务，保护和接触一位名叫白玲的女子，她是一个家族的继承人。文中提到护卫者的日常职务同时展示出她的职业能力。在这段情节中，护卫者表现出冷静与自信，但在受到威严男性目光的审视时，情绪开始出现波动。随着对话的深入，男子分享了自己的家庭背景，尤其是失去妻子和女儿的悲痛，使得故事的情感层次逐渐加深。文中透出许多关于性别角色的探讨和角色内心的自我认知冲突，以及权力与服从的微妙关系。最后，护卫者的决策体现出她对工作的认同与坚定。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_护卫者_1.docx]([附身]_护卫者_1.docx)
 | Size            | 25501 bytes                           |
 | MD5             | c26a9915b806bd6b9c28d247f60ac596                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 护卫者, 权力关系, 家族纠葛, 性别认同, 自我探索, 任务指派, 情感冲突, 青春成长, 角色转变, 女性力量, 青春期, 自我认同, 未知, 叙事风格                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

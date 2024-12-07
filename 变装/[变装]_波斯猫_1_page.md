@@ -7,7 +7,7 @@ TXT 下载: [[变装]_波斯猫_1.doc]([变装]_波斯猫_1.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于维克汀与女友妮琪在她阿姨的哥特式城堡参加化妆舞会的小说情节。故事开头，维克汀驾车前往妮琪阿姨的别墅，途中妮琪谈及她的阿姨和她们的关系，并透露这座城堡将是他们舞会的地点。故事详细描绘了维克汀在城堡中的初次印象，特别是他对城堡外观及内部的赞叹，以及他与妮琪的互动。舞会期间，维克汀选择了吸血鬼的装扮，而妮琪则化身为中世纪贵族女子，二人的出场都引起了大家的注目，体现了他们之间的浪漫关系。这段情节描绘了他们的服饰选择及化妆舞会的氛围，同时也展示了角色之间的情感交流。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_波斯猫_1.doc]([变装]_波斯猫_1.doc)
 | Size            | 32768 bytes                           |
 | MD5             | e167e785db7b03536562b643c0862edc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 化妆舞会, 浪漫, 吸血鬼, 中世纪, 贵族, 惊讶, 情感交流, 城堡, 哥特式, 爱情, 女友, 角色扮演, 舞会, 二次元, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

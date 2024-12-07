@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星云_第九章.docx]([皮物]_星云_第九章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档摘录了一个包含性别认同和自我探索主题的小说节选，描述了一位名为纳西尔的角色在复杂的感情和性欲认知中挣扎的经历。在这雨夜，马孔多的吉卜赛人依然在狂欢，尽管外面的天气不佳，纳西尔却内心渴望参与其中，探索自己的欲望与性倾向。他回忆起自己与朋友间的性讨论，以及对于自己性能力的怀疑，这些经历在他心中形成了强烈的困惑。此外，另一个角色袁杰与一位女孩之间错综复杂的互动也穿插其间，袁杰意识到自己似乎成为了幽灵，与哭泣的女孩呈现非交汇的平行时空。整体上，这个故事探讨了人类本能、性别流动性与社会期待之间的紧张关系，展现了一种奇幻而又令人不安的情感体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星云_第九章.docx]([皮物]_星云_第九章.docx)
 | Size            | 18295 bytes                           |
 | MD5             | 40729003a75df3c4f90cc3f241f4d021                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 性转, 伪娘, 变身, 奇幻, 梦境, 青春困惑, 欲望, 灵魂, 幽灵, 复杂关系, 马孔多, 吉卜赛人, 雨夜, 情感纠葛, 现代小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

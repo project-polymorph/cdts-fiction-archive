@@ -7,7 +7,7 @@ TXT 下载: [[变装]_樱树下_其一.docx]([变装]_樱树下_其一.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《樱树下 其一》是一篇关于性别认同与友谊的小说。故事围绕两位主角——风和他的好友叶展开。风自大学毕业后回到故乡，与叶一起计划了一场旅行。在准备过程中，叶的深入日常生活与性别认同问题被逐步展现，叶一直以来渴望成为女性的梦想在此得到描绘。夜晚在偷偷的交流中，风逐渐意识到叶对角色扮演的真正追求，并在旅行的过程中给予了支持和理解。在情节的推动下，叶换上女性的服装，愉悦而又紧张地展现出自我。最终，他们的旅行以拜访神社作为第一站，暗示着对过去与梦想的探索。文中穿插着他们的对话与内心的挣扎，探讨了自我认同与社会期望的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_樱树下_其一.docx]([变装]_樱树下_其一.docx)
 | Size            | 20405 bytes                           |
 | MD5             | 1ae4c9ab30d41be8679b5ffa4e92bd7e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 友谊, 青春, 旅行, 变装, 伪娘, 自我探索, 心理学, 大学生活, 神社, 梦想, 早樱, 角色扮演, 恋爱, 成长故事, 时光的流逝                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

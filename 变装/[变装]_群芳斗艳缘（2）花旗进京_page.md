@@ -7,7 +7,7 @@ TXT 下载: [[变装]_群芳斗艳缘（2）花旗进京.docx]([变装]_群芳�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《群芳斗艳缘（2）花旗进京》是一本描写在古代权力斗争背景下的一段故事。故事围绕偏财这一角色展开，他在分析当时京城的局势，权谋与情感交织，展现了复杂的人际关系与权力游戏。偏财在安全屋中思考如何应对朝廷中的权力变动，提到皇帝年事已高并未兑现承诺，他开始收回军权，祸水东引至花家和曹家。随着故事推进，偏财意外发现宰相曲池的阴暗面以及与花家人物的千丝万缕的联系。故事中有角色的性别角色转换、复杂的人物关系、情感纠葛等元素，描绘了一个充满阴谋、情感和象征意义的故事。文本中描写了曲池的棋艺、皇帝的决策以及花旗的艰难经历，不禁让人思考个体在历史洪流中的渺小与抗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_群芳斗艳缘（2）花旗进京.docx]([变装]_群芳�
 | Size            | 21660 bytes                           |
 | MD5             | b0bc98b32f79db7d30924a59f2770e66                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 权力斗争, 性别转换, 历史小说, 古代权谋, 情感纠葛, 阴阳师, 朝堂斗争, 女性隐喻, 心理斗争, 幻想, 魅力角色, 不羁角色, 阴暗面                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_毒液（序）.docx]([其他]_毒液（序）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档包含一部性转小说的序章，讲述了一个名为K的角色经历职场被解雇后，他的愤怒与苦闷逐渐转化为一种被神秘黑色液体包裹的奇异经历。文中开头描绘了K对公司高管的不满与绝望，以及如何在心底咒怨这些人。随着情节推进，K无意识中被黑色液体覆盖，并最终被液体的意识所引导，对周遭的一切开始产生扭曲的理解，甚至向青梅竹马的角色展示出另一种身份与欲望的冲突。文中有涉及奇幻、性别转换、以及充满暗示的情欲描写，展现了角色在面对自我认同与欲望时的复杂心态与转变。随着故事的发展，K最终选择了接受自己新身份，展露出了疯狂与强烈的复仇欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_毒液（序）.docx]([其他]_毒液（序）.docx)
 | Size            | 19558 bytes                           |
 | MD5             | 9d1ea1290b75a586d50c651e1d704009                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 奇幻, 欲望, 黑色液体, 复仇, 职场, 自我认同, 青春, 心理冲突, 妖异, 转变, 情色, 青梅竹马                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

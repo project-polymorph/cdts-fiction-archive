@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【申码文搬运】美好的肉体.doc]([变身]_【申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于精神交换能力的幻想小说，讲述了主人公通过特殊的能力与他人进行精神交换的故事。其中，主人公可以把别人的精神与自己的精神交换，从而体验全新的肉体。当主人公获得一个全新的身体时，感到无比欢愉，并萌生了许多奇怪的欲望。故事中涉及到复杂的亲子关系，父亲与变身为女儿的主人公之间的对话，以及在新的身份下如何适应幼儿园生活，甚至对于尿布的渴望。这个身体似乎还存在某种奇怪的疾病，无法再成长为成年人。在与他人进行精神交换后，主人公的心理状态也出现了变化，最终决定抛弃自己的身份，完全融入新的生活。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【申码文搬运】美好的肉体.doc]([变身]_【申�
 | Size            | 37376 bytes                           |
 | MD5             | cfc45c4ea11522b16c4192d76bce8c7c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 精神交换, 幼儿园生活, 父女关系, 尿布, 催眠, 奇幻, 自我认同, 自我探索, 角色变换, 身份危机, 二次元文化, 性别认同, 奇怪病症, 幸福与痛苦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

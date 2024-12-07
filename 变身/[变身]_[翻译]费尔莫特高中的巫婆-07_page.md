@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[翻译]费尔莫特高中的巫婆-07.docx]([变身]_[翻
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《费尔莫特高中的巫婆》第七节的中文翻译。文本围绕主要角色帕娜的日常生活展开，帕娜在面对历史测验的紧张与期待中，展示了一个由性别转变而来的内心挣扎和自我认同的过程。帕娜在学校里努力保持优异的成绩，同时隐藏着作为男孩保罗的旧身份与女孩子的身份之间的矛盾。在午餐期间，她与好友凯蒂、感兴趣的大卫之间的互动展现了青少年生活的单纯与复杂，尤其是对性别认同与吸引的迷茫和探索。在这次的团体活动和即将到来的篮球比赛中，帕娜逐渐接受了作为女孩的身份，同时也面临着自己对大卫的情感。文中多次提到帕娜的心理变化，例如"我正越来越希望大卫能够进入我的身体"，以及她在学习和与其朋友们的交往中，努力平衡新身份带来的挑战与社交生活。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[翻译]费尔莫特高中的巫婆-07.docx]([变身]_[翻
 | Size            | 27186 bytes                           |
 | MD5             | 9ae6139924f44bd00ee2fb4aa6fb3d94                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 性别认同, 青春校园, 心理探索, 跨性别, 伪娘, 女性视角, 友情, 爱情, 社会互动, 自我冲突, 青少年成长, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

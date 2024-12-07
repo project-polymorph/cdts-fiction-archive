@@ -7,7 +7,7 @@ TXT 下载: [[附身]_追逐心靈之約_序(上).docx]([附身]_追逐心靈之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《追逐心灵之约》，是关于一个名为天原静的大学生的故事。他在某天收到了一封神秘的邀请信，邀请他参加一个专为拥有附身能力者举行的宴会。信中提到他是全世界中仅有的23名附身能力者之一。故事由此展开，天原静对自己的“平凡”生活产生了深刻的动摇，担心关于他所拥有的竟是他必须隐藏的秘密的真相会被他人发现。小说不乏紧张刺激的情节，包含了人质事件和对生命的思考。在描绘天原静如何面对自己能力的同时，也揭示了他内心的挣扎与对身份的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_追逐心靈之約_序(上).docx]([附身]_追逐心靈之
 | Size            | 32831 bytes                           |
 | MD5             | 51b8713e403e52c05678f50ffc689d9d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 灵魂之主, 自我探索, 能力的秘密, 悬疑, 校内生活, 平凡与不平凡, 人质事件, 心理战, 大学生生活, 变身, 超能力, 青春成长, 心灵交流, 社会关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

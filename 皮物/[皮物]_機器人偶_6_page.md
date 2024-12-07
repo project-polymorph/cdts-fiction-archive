@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_機器人偶_6.docx]([皮物]_機器人偶_6.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘和跨性别相关的小说章节，主要围绕一个名为小早川长月的角色展开。故事设定在一个机器人风俗店内，小早川在此被迫以女公关的身份进入新的环境。章节中描述了她被带进店铺的过程，以及她与店员们的初次互动。从文字中可以感受到小早川的恐惧与不安，她的身体被束缚，面具遮挡着她的身份，使得她处于一种被支配的状态。同时，章节中涉及的角色如米娜和茶茶等机器人，展示了特殊的设定，像是电缆连接的存在，使读者能够感受到这种设定的奇幻与科技感。这与传达的性别主题以及角色的认同和生存环境相结合，给予读者一个独特的视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_機器人偶_6.docx]([皮物]_機器人偶_6.docx)
 | Size            | 28061 bytes                           |
 | MD5             | da9caa2b155d3eb06cbb150ddcacab86                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 机器人风俗店, 性别认同, 幻想, 夜店, 社会生存, 角色冲突, 心理探索, 女性角色, 科幻设定, 非人类角色, 暗黑风格, 自我认知, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_立见沙太的一位发明家朋友（后日谈1）.doc](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身与跨性别相关的小说，主要围绕角色立见沙太与朋友大宫彩彦在万圣节前后的互动。故事中，沙太与彩彦讨论了万圣节的活动计划，以及他们制作和穿戴吸血鬼皮物的过程。故事情节涉及了角色的性别转换与身份自我探索，特别是彩彦将自己的形象转换为吸血鬼萝莉的细节，拥抱了穿上皮囊后新身份的感受。
+
+在文中，彩彦甚至与沙太分享了吸血鬼的都市传说，讨论了万圣节到来时的趣事。人物之间的对话生动，表达了他们对即将到来的万圣节活动的期待和准备。文本中包含了一些性别角色的模糊性和性别认同的探讨，彩彦为了试穿吸血鬼皮而进行的生动描写，展现了伪娘文化的核心元素和角色认同的复杂性。整体情节轻松幽默，又略带一些色情的暗示。
+
+此外，本文还涉及了一些限制级的体态描写，展现了对人物身体的细腻刻画，以及角色在换装过程中的情感波动。通过这些细节，文件成功地描绘了隐藏的身份及自我认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_立见沙太的一位发明家朋友（后日谈1）.doc](
 | Size            | 70656 bytes                           |
 | MD5             | 6654421cdc5efadf658dfa033ed19b26                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 万圣节, 吸血鬼, 校园, 都市传说, 角色扮演, 身份认同, 自我探索, 皮物, 约定, 互动, 轻松幽默, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

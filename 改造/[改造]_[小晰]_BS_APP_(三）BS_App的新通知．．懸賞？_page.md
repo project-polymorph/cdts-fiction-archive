@@ -7,7 +7,9 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(三）BS_App的新通知．．懸賞？.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇跨性别变身小说，讲述了一名男生在手机应用程序的影响下，经历了一系列与性别认同和肉体转变相关的情节。故事的主人公小宇因某种原因请病假，而事实上他是受到一位陌生男人的影响而沉浸在回忆中。小说中，他的性别逐渐模糊，通过一个叫"BS app"的应用程序，接受了一次又一次的挑战与指令。
+
+在故事中，小宇逐渐被命令穿上女装，心中充满矛盾与冲突。他感受到的羞耻与兴奋交织在一起，使得他的心理变化十分复杂。故事描写了他如何走出家门，面对外界的目光，内心充满期待与恐惧。这段旅程不仅是肉体上的变化，更是自我认知的一次深刻探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(三）BS_App的新通知．．懸賞？.d
 | Size            | 71680 bytes                           |
 | MD5             | a7c854d3700d3bac70b95eda9ff0100d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 二次元, 虚拟现实, 青春校园, 羞耻感, 内心挣扎, 性别冲突, 自我探索, 性转, 性别变化, 神秘应用程序, 角色扮演, 情感纠葛, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

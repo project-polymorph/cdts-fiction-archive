@@ -7,7 +7,9 @@ TXT 下载: [[变装]_DT游戏王外传_鬼计之馆的日常1.doc]([变装]_DT�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个名为《鬼计之馆的日常1》的变装小说，讲述了一名少年在一家荒村的鬼屋「鬼计之馆」的冒险故事。故事以一个幽静的墓地旁的阳馆为背景，在这个充满神秘气息的地方，角色们通过有趣的互动和挑战，探索他们的角色和身份。故事中，鬼计的魔女对科学怪人表现出幽默和调侃的态度，带着些许的荒诞色彩。在发生的一系列事件中，少年从一张招募看板娘的传单开始，意外地踏上新的日常生活，充满了幻想和奇幻的元素。小说融合了性别转变的主题，描绘了年轻角色通过变身而引发的自我发现过程，并探索了他们与他人之间的关系，涉及到友情、冒险和神秘的情节。
+
+文本通过奇幻的语言和生动的描绘，带领读者进入一个充满魔法和未知的世界，展现了人与角色之间的情感纠葛，以及对自我认同的追寻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_DT游戏王外传_鬼计之馆的日常1.doc]([变装]_DT�
 | Size            | 29696 bytes                           |
 | MD5             | 8bc0b0333f3131c704fad21d1e330c99                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 鬼屋, 魔女, 鬼计, 青春冒险, 自我发现, 奇幻, 幽默, 角色互动, 性别认同, 幻想世界, 日常生活, 鬼怪, 招募, 幻想文学, 科幻, 都市奇幻, 青春懵懂                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

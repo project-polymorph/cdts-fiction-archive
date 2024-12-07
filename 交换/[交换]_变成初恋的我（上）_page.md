@@ -7,7 +7,7 @@ TXT 下载: [[交换]_变成初恋的我（上）.docx]([交换]_变成初恋的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别相关的小说，讲述了一位中年男人俊生与旧恋静儿在鹏城偶然相遇后的情感碰撞与内心纠葛。故事以六月的鹏城为背景，台风带来了反复无常的天气，正如小说中的故事情感一样曲折。在一次意外的重逢中，俊生与静儿重新见面，彼此的旧情再次浮现，但俊生已婚的现实让气氛变得微妙而又充满遗憾。静儿的外貌依旧美丽动人，而俊生则在岁月的洗礼下显得有些拘谨。他们共同回忆起曾经的岁月，彼此间的互动让人感受到那份曾经青涩而又深刻的情感。尽管两人心中有万般不舍，但还是选择了沉默，默默祝福对方，作品探讨了性别认同、自我探索以及与过去的告别。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_变成初恋的我（上）.docx]([交换]_变成初恋的
 | Size            | 33940 bytes                           |
 | MD5             | 73a4504be8fe82f893724125d96c63f5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 爱情, 青春, 遗憾, 回忆, 失落, 友谊, 角色重逢, 自我探索, 情感纠葛, 情感成长, 成熟, 旧爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

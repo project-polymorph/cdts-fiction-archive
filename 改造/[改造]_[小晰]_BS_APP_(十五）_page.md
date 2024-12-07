@@ -7,7 +7,9 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(十五）.doc]([改造]_[小晰]_BS_APP_(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇成人视频性质的小说，讲述了一名年轻女孩在学校游泳池更衣室的经历。在这一情节中，她意外地因变性而面临困扰与自我认同的冲突。故事以女孩的内心独白为主，细腻地描述了她逐渐意识到自己的身体发生了变化，突然长出男性生殖器的惊讶与混乱。在此过程中，她与好友之间的互动增加了情感的复杂性，展现了人物之间微妙的关系和情感发展。
+
+情节中，女孩在更衣室内感到惊慌失措，试图掩饰自己的变化，当好友“小姐”揭开浴帘时，她们之间的交流流露出对未知的探索。文件运用了细腻的心理描写与对话，展示了角色逐渐对自己新身份的适应过程。虽然小说的内容涉及成人向与性别交换的主题，但通过青春的视角探索身份与性的议题，使得故事充满张力和深度。描述中多处提及对无名部位的疑惑及自我欣赏，营造出强烈的心理冲突感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(十五）.doc]([改造]_[小晰]_BS_APP_(
 | Size            | 48128 bytes                           |
 | MD5             | 0278f6a24f4762afee1a17d220baa19c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 青春, 自我认同, 性别探索, 羞耻感, 好友互动, 游泳池, 学校生活, 心理描写, 幻想, 二次元, 恋爱, 情欲, 潜意识, 身份危机                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

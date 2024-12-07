@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_机器人偶_5.docx]([皮物]_机器人偶_5.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是《机器人偶》小说的第五章，讲述了一系列紧张刺激的情节。故事发生在小早川长月的家中，雪野亚美得知姐姐长月被绑架的消息后感到愤怒与无助，并向同伴泰瑞莎表达了她的担忧。相良卫队长冷静地第一时间进行分析，并暗示这个绑架事件与敌对企业有关。泰瑞莎处理危机的能力逐渐显现，她指挥卫队准备展开复杂的救援行动。随着情节的发展，出现了新武器的介绍和战斗机器人的详细描述，展示了高科技装备在战斗中的重要性和潜力。整个章节充满了悬念、紧张的对话，以及角色间的微妙情感变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_机器人偶_5.docx]([皮物]_机器人偶_5.docx)
 | Size            | 29837 bytes                           |
 | MD5             | 69128e809371263147f330ea7d95d92c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 机器人, 科幻, 救援行动, 高科技, 危机管理, 角色发展, 战斗场景, 情感冲突, 兄妹关系, 女性指挥官, 二次元, 性别认同, 机器人战斗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]【xly翻译】万圣节之变（十六）.doc]([变装]【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于伪娘与跨性别主题的小说，主要讲述了角色乔丹在经历了一系列复杂的情感和心理变化后，开始对自己的身份认同产生了困惑。小说中，乔丹经历了多个重要事件，包括一次让人失望的面试，试穿婚纱的经历，以及复杂的人际关系。在面临即将结婚的好友安娜和好友杰森的压力下，乔丹开始质疑自己是否能够继续以女性的身份生活，并思考如何重新获得男性身份所需的复原手术。这篇小说深入探讨了角色的内心挣扎与社会期望之间的冲突，同时也强调了性别认同危机对个人生活带来的影响。文中多次提到乔丹对于自己身体变化的感受，包括对女性身份的接受与拒绝，以及在与男性约会和生活中的困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]【xly翻译】万圣节之变（十六）.doc]([变装]【
 | Size            | 49664 bytes                           |
 | MD5             | 62a543bf5f57d2592846c06295c474ca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 心理挣扎, 性别转换, 情感纠葛, 女性身份, 自我探索, 变身, 年轻人面临的困扰, 友谊, 拒绝接受, 个人成长, 性别角色, 社会压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

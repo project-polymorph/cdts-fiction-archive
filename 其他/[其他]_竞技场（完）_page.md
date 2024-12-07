@@ -7,7 +7,7 @@ TXT 下载: [[其他]_竞技场（完）.doc]([其他]_竞技场（完）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《竞技场（完）》，内容涉及一个融合奇幻与色情元素的幻想小说。故事围绕角色莉莎展开，她是一名变身为魔法师的大魔法莉莎，面对混沌中的斗争与自我认同的挑战。剧情中包含诸多性的幻想，如黑色触手的束缚与对抗的描写，展现了角色强烈的内心冲突及其对魔法力量的掌控。在这段剧情中，莉莎的身份经历了生理与心理的多重转变，并与其他角色的互动，尤其是与名为玛丽的角色的关系交织，展现出两者之间的复杂情感和权力动态。文中多次提到触手的生长与侵袭，以及莉莎体内灵魂的挣扎，结合了异世界魔法、角色变身以及生理特征的性交换等元素，明确体现了性别角色及生理认同的探讨。内容中包含诸多强烈的色情描写，适合成人观众。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_竞技场（完）.doc]([其他]_竞技场（完）.doc)
 | Size            | 125440 bytes                           |
 | MD5             | 5f973cbc7b20cc5085ba4a84cd7a307f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 异世界, 魔法, 触手, 强奸, 淫荡, 女巫, 幻想, 自我探索, 性别认同, 百合, 人类与魔法生物的互动, 魔法战斗, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

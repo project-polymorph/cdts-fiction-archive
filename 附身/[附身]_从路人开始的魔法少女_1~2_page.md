@@ -7,7 +7,7 @@ TXT 下载: [[附身]_从路人开始的魔法少女_1~2.doc]([附身]_从路人
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《从路人开始的魔法少女》第一、第二章的内容，主要围绕主角衫下志树展开。在故事中，志树是一名高中生，因身体不适频繁前往厕所，而就在这一过程中，他无意中卷入了一场关于魔法少女和恶鬼的冲突。志树在信号的影响下，灵魂脱离并被传送到战斗现场，成为魔法少女苍蓝的凭依者。在战斗中，苍蓝与一只具有触手的恶鬼陷入苦战，同时享受着身体被控制的感受，表明其复杂的内心和对角色身份的认同。故事中还涉及到同伴新绿对苍蓝的干预与调侃，展现了角色之间微妙的关系和道德的纠葛。整体内容包含性别认同、角色转变的探讨以及复杂的性暗示情节，使得故事具有较高的研究价值。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_从路人开始的魔法少女_1~2.doc]([附身]_从路人
 | Size            | 81408 bytes                           |
 | MD5             | c33ab197d4b5ba8605fb325c8c6d39ae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 恶鬼, 灵魂转移, 触手怪, 高中生, 变身, 性别认同, 角色扮演, 心理探索, 二次元, 性暗示, 自我认知, 虚拟现实, 青少年问题, 奇幻冒险, 关系复杂性, 团队合作, 战斗情节, 青春校园, 社会讽刺                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

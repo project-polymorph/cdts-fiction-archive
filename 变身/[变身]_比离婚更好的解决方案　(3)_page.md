@@ -7,7 +7,9 @@ TXT 下载: [[变身]_比离婚更好的解决方案　(3).doc]([变身]_比离�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于性别转换与身份认同的小说。故事主要围绕一个名为迪恩的男孩及其妹妹珍妮佛展开。迪恩在家庭与学校环境中体验到女孩子的生活和情感，包括穿着胸罩等元素，展示了性别角色的冲突与认同问题。文件通过呈现迪恩与家庭成员的对话，探讨了性别认同、身体交换的实验以及伴随而来的情感变化和交换的生活体验。
+
+故事中，迪恩和珍妮佛的父母考虑通过一次身体交换的试验来拯救他们的婚姻，这一设定引出了一系列关于身份、性别角色的讨论。迪恩逐渐适应了身为女孩的角色，经历了一周的女孩子的生活，并开始感受到穿胸罩带来的心态变化。情节中还提到了学校同学的反应，表现出对性别认同主题的关注和接受程度。最后，父母与孩子们讨论了交换身体的想法，并积极参与其中，这展现了对性别与身份认同的开放态度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_比离婚更好的解决方案　(3).doc]([变身]_比离�
 | Size            | 36864 bytes                           |
 | MD5             | f8e79aaf7fb4330bb9bfabd136fa4350                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 家庭, 跨性别, 身体交换, 身份探索, 青春, 校园生活, 性别角色, 科学实验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_乱舞之光_皮物版.docx]([皮物]_乱舞之光_皮物�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《乱舞之光》是一个涉及跨性别和性转主题的小说，主要围绕主人公的复杂人生经历展开。作品开头描绘了一名在18岁时遭遇强奸的女性，她在怀孕后独立养活自己并抚养儿子，成为一名优秀的教师和医生，尽管过去的阴影仍令她对男性充满戒备。主人公性格坚强，事业出色，但情感上却选择孤独，以保护自己免受再次伤害。小说的情节从主人公为儿子准备18岁生日蛋糕开始，随着故事的发展，揭示了其身体敏感性和对美的追求，以及在公共场所遭遇色狼的经历，这些经历使她变得更加坚定。作品通过细腻的描写展现了她内心的挣扎和成长，也探讨了性别认同与自我价值的层面。涉及的情节较为复杂，包含多样的性别表达和情感探索，适合对跨性别和性转题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_乱舞之光_皮物版.docx]([皮物]_乱舞之光_皮物�
 | Size            | 39786 bytes                           |
 | MD5             | e6473ebb55168010eb8cbb725a53b2fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 强奸, 自我探索, 社会问题, 女性力量, 身心独立, 母子关系, 色狼事件, 职场女性, 变身幻想, 都市生活, 成年教育, 心理创伤                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

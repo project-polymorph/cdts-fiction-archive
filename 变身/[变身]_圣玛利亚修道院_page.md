@@ -7,7 +7,9 @@ TXT 下载: [[变身]_圣玛利亚修道院.docx]([变身]_圣玛利亚修道院
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《圣玛利亚修道院》是一部变身与跨性别题材的小说，描绘了一个神秘修道院的故事。小说中，修道院坐落在冈雷吉亚，透过院长库里克的视角，展现了修道院的神圣与隐秘。库里克是一位男性院长，辛勤工作以维持修道院的运营，承担了许多艰辛的任务，如主持葬礼和募捐。与他一起出场的还有年轻的修女们，她们的美丽与虔诚令人着迷。
+
+随着情节的发展，小说描写了一些年轻女性在这个地区遭遇不幸的事件，引发了人们的恐慌。小说的后半部分特别描绘了修女在地下室中的禁忌场景，展示了一种与修道院的清规戒律相悖的大胆情节，表现出角色在性别与自我认同的复杂斗争。作品整体上探讨了性别认同、自我探索与禁忌欲望，尽管叙述风格鲜明，但涉及了大量限制级内容，展示了对这些主题独特且直白的表达方式。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_圣玛利亚修道院.docx]([变身]_圣玛利亚修道院
 | Size            | 30869 bytes                           |
 | MD5             | ece44d04d900a0a135f287244eb44c2a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 修道院, 宗教, 禁忌情感, 自我认同, 修女, 性别交易, 男性角色, 女性角色, 情感纠葛, 地下秘密, 性欲探索, 年轻女性, 伦理冲突, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

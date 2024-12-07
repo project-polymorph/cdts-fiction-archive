@@ -7,7 +7,9 @@ TXT 下载: [[其他]_星耀_第四话_昭如日星之矢.docx]([其他]_星耀_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别主题的小说，标题为《星耀》第四话，作者为Rockx3。故事围绕主角傅思达的性别转换及其经历的一系列情感与身体变化展开。故事中涵盖了跨性别内容，表现出角色在性别认同与自我探索中的冲突与挣扎。
+
+在文中，傅思达经历了身体上的性别转变，感受到了作为女性身体的敏感与快感。文本描绘了傅思达如何在身体变化带来的情感激荡和心理冲突中，不断挣扎与适应。通过尼托和傅思达之间的互动，故事深入探讨了性别转换后带来的快感与羞耻感，相应的情节包含强烈的性暗示与性行为的描述。文中提到的具体细节如“尼托的手指插入了傅思达的私处”、“滋润的唇舌，舔弄着那粉红的稚肉”等，直白且具体地呈现出性行为的场面，体现出其限制级内容的特征。之后，傅思达在回家的路上思考性别交换的简单方法，显示出对于这类非传统性别体验的接受和探索。整体上，文本深入分析了性别、身体与自我认同等复杂主题，适合相关领域的学术研究与学习。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_星耀_第四话_昭如日星之矢.docx]([其他]_星耀_
 | Size            | 23852 bytes                           |
 | MD5             | 07734dbfa23fcdf3a57bfdb30c3c01fd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rockx3                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 自我探索, 身体认同, 感官体验, 情感冲突, 性行为, 幻想类, 二次元, 限制级, 角色互动, 成长故事, 心理挣扎, 性别认同, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

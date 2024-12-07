@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《人皮衣》（肆·灵与肉的嬗替）.doc]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《人皮衣》（肆·灵与肉的嬗替），是一部涉及伪娘、性别转换和变态心理的小说，围绕着角色之间复杂的人际关系和阴暗的复仇计划展开。故事中，韩哲峰因失恋而表现出精神错乱的状态，导致周围人对他的误解。而在此过程中，他的昔日朋友黄小婉被卷入了一个关于人皮药剂和身份交替的阴谋之中。黄小婉在强大的外力下被迫合作，一同策划着将叶雨涵的身体作为目标。小说通过对角色心理的深刻描写，探讨了对性别认同、欲望和身份错位的深层次思考。随着剧情发展，黄小婉的善良形象被逐渐扭曲，最终揭示出她丑陋而自私的内心。故事包含了禁忌与异化的众多情节，尤其对性的探索充满了挑衅。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《人皮衣》（肆·灵与肉的嬗替）.doc]([皮物]
 | Size            | 52224 bytes                           |
 | MD5             | 63de1daa933b14bb379aff4e1b192dcb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 人皮药剂, 身份交换, 变态心理, 性别认同, 灵与肉的嬗替, 复仇计划, 情感纠葛, 心理冲突, 青春校园, 扭曲欲望, 阴暗面                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

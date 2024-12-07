@@ -7,7 +7,7 @@ TXT 下载: [[变装]_来自阿曼的女人[翻译+改写]_.docx]([变装]_来�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描写跨性别主题的短篇小说，故事的背景设定在阿曼，主要围绕一名白人男性角色在阿曼旅行期间的经历和自我认知的转变。角色萨米在抵达阿曼时因文化差异，意外穿上了当地的女性服装——布卡，引发周围人对他的关注和窃窃私语。故事通过幽默的对话和情节揭示了阿曼的传统与现代化之间的冲突，以及对性别角色的认知。在互动中，主角逐渐意识到自己所扮演的布卡角色所带来的复杂情感，同时也让他开始思考性别认同和社会对性别的期待。文中涉及了旅游、文化冲突、性别扮演，以及跨性别群体的隐秘生活等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_来自阿曼的女人[翻译+改写]_.docx]([变装]_来�
 | Size            | 49862 bytes                           |
 | MD5             | ce28e29f562ac3e14f04c6cbea1ada8f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Cassandra Morgan                               |
+| Region          | 阿曼                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 旅游, 文化差异, 变装, 阿曼, 现代化, 自我探索, 幽默, 女性角色, 男性角色扮演, 社会期待, 性别角色, 旅行记, 性别流动性, 社会文化冲突, 自我认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

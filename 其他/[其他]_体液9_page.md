@@ -7,7 +7,7 @@ TXT 下载: [[其他]_体液9.docx]([其他]_体液9.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇围绕伪娘、变身与悬疑元素的小说，故事以女性角色的身份展开，包含了一系列关于性别认同与自我探索的内容。小说的情节围绕着一个名叫秀秀的15岁女孩，她在意外中发现自己的母亲被变成了他人的模样，面临着不可思议的事情。在与一位变身后获得女性外表的男性角色互动中，秀秀经历了一系列情感上的冲击与心理上的挣扎。小说开头提到了作者由于身体原因暂时无法写作，因此文本呈现出一种轻松幽默的口吻。随后的情节包含了对秀秀的询问和对她遭遇的探讨，情感渲染幽深，揭示了少女与母亲的复杂关系和对变身后的身份困惑。此文将伪娘、变身、悬疑等元素融合在一起，试图描绘更为复杂且现实的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_体液9.docx]([其他]_体液9.docx)
 | Size            | 25711 bytes                           |
 | MD5             | 725b55891f6f5f30374036426675424a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 悬疑, 自我认同, 性别困惑, 性转, 心理冲突, 家庭关系, 少女成长, 冒险, 情感探索, 异能, 真实与虚幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

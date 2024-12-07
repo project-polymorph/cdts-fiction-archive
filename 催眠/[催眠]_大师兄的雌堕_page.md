@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_大师兄的雌堕.doc]([催眠]_大师兄的雌堕.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《大师兄的雌堕》是一本涉及伪娘、变身与跨性别主题的小说，讲述了天山派的大师兄叶枫在追查失踪师妹柳天心的过程中，与妓院醉香阁之间错综复杂的背景故事。故事开篇描绘了叶枫在一个热闹镇子中为寻找师妹而展开的探险，随着调查的深入，他发现失踪女子的去向与醉香阁密切相关。醉香阁是一家闻名京都的妓院，深藏春药和江湖中的阴暗势力。叶枫在探查的过程中经历了自我探索与性别认同的冲突，面对香气四溢的春药与各种欲望的诱惑，陷入了一系列复杂的人际关系与争斗，自我认知因性别的变化而变得混乱。最终，他发现自己不仅要救出师妹，还要面对那些掌控他的强大势力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_大师兄的雌堕.doc]([催眠]_大师兄的雌堕.doc)
 | Size            | 42496 bytes                           |
 | MD5             | caf6efbc3dbdee6a0d174a8317885533                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 春药, 妓院, 师兄, 雌堕, 江湖, 自我探索, 跨性别, 强奸, 淫荡, 醉香阁, 激情, 情感纠葛, 修炼, 武侠, 爱情, 掌门, 失踪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

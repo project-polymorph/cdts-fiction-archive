@@ -7,7 +7,7 @@ TXT 下载: [[变身]_拥有测试装置的女友（8）.doc]([变身]_拥有测
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个角色性别转换的故事，名为《拥有测试装置的女友（8）》。故事叙述者是艾伦，描述了他与好友伊万的购物经历。在这个过程中，他们使用了一种名为“装置”的物品，可以进行身体和性别的交换。艾伦对自己和伊万在经历了性别转换后所感受到的身体变化与心态冲突进行了深刻的思考。在购物过程中，艾伦看到伊万穿着高跟鞋并表现得得意洋洋，而自己则犹豫于选择舒适与时尚的鞋子之间。通过描述这段经历，体现了在性别和身体认同上的复杂思想。故事的情节点在于艾伦的内心挣扎与对自己和他人身份和行为的观察，以及他对过去的感悟。每个场景都透出对性别流动性和自我认知的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_拥有测试装置的女友（8）.doc]([变身]_拥有测
 | Size            | 58368 bytes                           |
 | MD5             | 9410f2b110ddead68c124309f637b0bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性别转换, 自我认知, 购物, 性别认同, 高跟鞋, 青春校园, 情感冲突, 身体变化, 性别流动性, 友谊, 奇幻, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

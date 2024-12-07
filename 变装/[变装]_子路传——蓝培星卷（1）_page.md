@@ -7,7 +7,7 @@ TXT 下载: [[变装]_子路传——蓝培星卷（1）.docx]([变装]_子路�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于变装和性别转换的小说，名为《子路传——蓝培星卷》。故事围绕主角张子路进行女装变身的过程展开，首先描述了他与研究团队的姐妹们商讨变装的准备工作。小说中涉及到的“缩骨收肌液”是一种能让身体形态发生改变的特殊液体，张子路通过浸泡在这种液体中实现身体的缩小和变化。随着故事的发展，张子路逐渐适应了自己的新形象，并开始了解自己体态的变化，但过程中也伴随着心理上的疑惑与探索。整个变装过程不仅仅是外形的改变，更涉及自我认知与性别认同的深层次主题。文件中的对话细致展现了角色之间的互动与情感，描绘了一个富有想象力与梦幻色彩的变装世界。同时，小说可能涉及一些限制级内容，需认真研究与讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_子路传——蓝培星卷（1）.docx]([变装]_子路�
 | Size            | 46637 bytes                           |
 | MD5             | c37bacf01f882eac94038c4218ef69e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别转换, 缩骨收肌, 自我认知, 跨性别, 女装, 二次元, 幻想, 角色扮演, 心理探索, 科幻, 奇幻, 变身, 液体变身, 身体改造, 性别议题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

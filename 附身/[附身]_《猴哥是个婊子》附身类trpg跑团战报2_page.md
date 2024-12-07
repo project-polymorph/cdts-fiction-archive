@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《猴哥是个婊子》附身类trpg跑团战报2.docx]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一场附身类TRPG（桌面角色扮演游戏）跑团战报的文本记录，内容围绕角色猴哥与村长的女儿之间的一系列互动与情节发展展开。从文本中可以看出，气氛略显紧张，村庄因妖怪事件而人心惶惶。角色通过相互对话展现情感、身份和环境的复杂性。在游戏过程中，猴哥通过窜入村长家窗口和跟随少女进入浴室，引发了一系列私密的情感与身体的互动。该描述不仅展示了角色的发展，也反映了不同性别角色间的冲突与转变，包含着诸多涉及性别认同和自我探索的主题，展示了变身、伪娘等元素。文本中还包含了一些敏感和成人的内容，详细描绘了角色之间的亲密接触和心理情感的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《猴哥是个婊子》附身类trpg跑团战报2.docx]([
 | Size            | 28881 bytes                           |
 | MD5             | 379e999eba8e50d63cd59bb3ab05b7c3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 性转, 伪娘, 角色扮演, 亲密关系, 变身, 成人内容, 自我探索, 村庄生活, 妖怪故事, 爱情, 浴室场景, 小说改编, 二次元, 情感冲突, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

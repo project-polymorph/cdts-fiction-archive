@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鬼魂蒂莉小姐.doc]([改造]_鬼魂蒂莉小姐.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一名刚毕业的大学生在加利福尼亚101公路旅行期间，参观了一座由莎拉·蒂莉女士（Sarah Tilly）经营的历史悠久的房屋，该房屋因其奇特的建筑结构和传说中的鬼魂而闻名。故事从主角的旅程开始，并通过与莎拉·蒂莉女士及她的女仆之间的对话，展现了房屋的神秘氛围及19世纪的服装风格。莎拉女士的言谈中提到，虽然现代人可能会觉得古老的服装奇异，但女仆的服饰在某些方面依然受到某些男性客人的喜爱。随着晚餐的进行，故事逐渐进入超自然的领域，莎拉的祖母的鬼魂被交代有时会出现在男性客人面前，引发了更多关于欲望和自我认同的思考。整个故事充满了对性别角色、历史及个人欲望的探索，从中透出一种奇异而又引人注目的气氛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鬼魂蒂莉小姐.doc]([改造]_鬼魂蒂莉小姐.doc)
 | Size            | 65536 bytes                           |
 | MD5             | 8c1c95a4fd35fd42aa6e9a79795b580a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 鬼魂, 跨性别, 性别认同, 幻想, 19世纪服饰, 超自然, 欲望, 自我探索, 奇幻, 旅行, 历史遗迹, 二次元, 女仆, 性转, 情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

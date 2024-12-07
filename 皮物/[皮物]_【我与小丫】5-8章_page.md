@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【我与小丫】5-8章.doc]([皮物]_【我与小丫】5
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档是作者在2013年创作的一部皮物类小说，以轻松幼稚的文风描绘了一段性别转换的奇特经历。故事中的主角在某种催情装置的作用下，身体逐渐变得不受控制，并进入一种由女孩身份所引发的复杂情感。文中存在大量关于角色在变身后的身体变化和心理冲突的描写，以及与角色关系密切的小丫在这个过程中扮演的推动者角色。情节描述了主角在变成小女孩后所经历的羞耻、渴望和被动状态，涉及的内容较为敏感，包括被动的自我探索与对羞耻感的迎合。文本中包含了一些 explicit 的性暗示和场景，如在小丫的诱导下，主角经历了激烈的身体快感与心理的挣扎。一些片段中，角色的自我认知和生理反应展现出强烈的冲突与对身份的困惑。你可以发现如“我希望小丫能让我好受点”以及“这绝对不是我的本意”等表述，明确体现了角色内心的复杂体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【我与小丫】5-8章.doc]([皮物]_【我与小丫】5
 | Size            | 73216 bytes                           |
 | MD5             | 2a3b63193b9d61c916ca7f4913fa61d0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 悲剧的小咯里ll                               |
+| Region          | 中国大陆                               |
+| Date            | 2013-01-01                                 |
+| Tags            | 皮物, 性别转换, 自我探索, 羞耻, 变身, 催情装置, 感官体验, 角色扮演, 心理冲突, 男娘, 性别认同, 奇幻, 情感纠葛, 恋爱, 同性间的情感, 成人内容, 青春成长, 二次元, 情欲, 美少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

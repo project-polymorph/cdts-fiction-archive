@@ -7,7 +7,7 @@ TXT 下载: [[变性]_霓裳羽衣_第四章.doc]([变性]_霓裳羽衣_第四�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《霓裳羽衣》第四章描绘了一个具有争议性的场景，聚焦于一群女孩子在严格训练下的痛苦和恐惧。开场时，嬷嬷用竹鞭惩罚一位年仅15、6岁的女孩，场面令人不安，她的身体上留下了淤痕。嬷嬷的严厉教导强调了这种惩罚不仅仅是身体上的痛，更是心理的压迫。女孩们在这种环境中生存，并试图习得歌舞。随着剧情的发展，主角发现自己处于一个模糊的梦境中，反思自己与镜子中的倒影之间的关系。梦境中，主角与镜子中的自己展开对话，探讨自我认知和价值的问题。整个章节充满了对身份、痛苦以及渴望的深刻思考，并通过对舞蹈的生动描写，展示了主人公希望超越自我，追求完美的心态。不同的角色在这段剧情中体现出对美的追求与自我认同的矛盾，激发了对自身存在的质疑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_霓裳羽衣_第四章.doc]([变性]_霓裳羽衣_第四�
 | Size            | 43520 bytes                           |
 | MD5             | ca8c805e4ec3cd4784a1bb6805f396fd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 梦境, 自我认同, 舞蹈, 虐待, 教育, 身心折磨, 青春痛苦, 镜子, 心理斗争, 绝美女子, 自我塑造, 性别不安, 灵魂交融, 情欲, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

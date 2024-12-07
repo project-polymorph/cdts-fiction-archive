@@ -7,7 +7,7 @@ TXT 下载: [[附身]_奪舍--外傳小甄篇(Ⅰ).docx]([附身]_奪舍--外傳
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇名为《夺舍--外传小甄篇(Ⅰ)》的变身小说，作者为“l8311032”。故事背景设定在某城市的富丽别墅，小说开篇描绘了一场绑架情节，描绘了三个角色：一位被绑架的老头、一位持枪的女子以及一位年轻的男子。情节展开时，老头试图以财产让渡的方式来保护自己，引出了一场关于权力与欲望的博弈。随着故事的发展，男主角小邱和女主角小甄之间的交流逐渐揭示出他们计划中的阴暗面，特别是小甄不安的心态和她在这场阴谋中的角色。小甄作为管家工作，但她逐渐感受到雇主的奇怪目光，并开始质疑自己的处境，情感和生存的冲突无处不在。小说整体采用了带有悬疑和惊悚色彩的叙述风格，涉及了性别认同、自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_奪舍--外傳小甄篇(Ⅰ).docx]([附身]_奪舍--外傳
 | Size            | 17977 bytes                           |
 | MD5             | aac177a9cde282a290450a7d7a7189b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | l8311032                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 男性角色, 金钱阴谋, 悬疑, 绑架, 权力斗争, 恋爱, 自我认知, 阴暗面, 性别交换, 管家, 奇怪目光, 恐惧凝视, 欲望搏斗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

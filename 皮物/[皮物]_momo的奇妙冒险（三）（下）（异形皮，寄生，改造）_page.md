@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_momo的奇妙冒险（三）（下）（异形皮，寄生
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件描述了一段关于变身和异形生物交互的情节。主角念陌在一种紧缩感和被异形生物包裹的状态下醒来，身体被一种柔软的触感包裹，虽然这种感觉让她感到舒服，但随之而来的推力让她无法完全自我控制。随着情节发展，念陌的身体逐渐从异形生物内被推出，整个过程中充满了色情和欲望的描写。文中涉及到的情节包括异形的肢体对念陌的压迫与刺激，造成的快感，以及她与莫念之间的情感交流和身体的紧密联系。整体氛围暗示了一种复杂的自我探索和欲望交织的状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_momo的奇妙冒险（三）（下）（异形皮，寄生
 | Size            | 51200 bytes                           |
 | MD5             | 1f49eb3030fd0e888a1a7f5a6b987df7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异形皮, 变身, 欲望, 自我探索, 皮物, 性感, 触感, 快感, 两性交互, 异能, 幻想, 色情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

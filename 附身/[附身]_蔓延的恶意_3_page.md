@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蔓延的恶意_3.doc]([附身]_蔓延的恶意_3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件涉及了一部关于附身与跨性别的小说，主要讲述了一名女性学生秋山诗织被同班同学矢田和也用一种神秘药物附体的故事。在故事中，秋山的性格和行为发生了剧烈变化，老师西森果步的关心与疑惑成为主要情节之一。文件内容主要通过对话和内心独白的方式描述了秋山与老师的互动，以及她内心的挣扎与矛盾。文本中包含了一些关于性别认同、自我探索的探讨，并涉及到了复杂的人际关系和性暗示。故事充满了情感的冲突和心理的描绘，尤其是对秋山身体和心理的双重掌控感，展现了附身带来的非同寻常的体验。而西森老师的形象则增添了情感的深度与复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蔓延的恶意_3.doc]([附身]_蔓延的恶意_3.doc)
 | Size            | 39936 bytes                           |
 | MD5             | 912710a9c10f50ff30d9ec7014343ce0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 附身, 性别认同, 自我探索, 心理冲突, 师生关系, 青春校园, 邪恶企图, 敏感题材, 情感纠葛, NTR, 伪娘, 变身, 调教, 强奸, 淫荡, 乱伦, 恋物癖, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

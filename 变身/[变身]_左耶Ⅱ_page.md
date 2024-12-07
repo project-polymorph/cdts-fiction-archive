@@ -7,7 +7,7 @@ TXT 下载: [[变身]_左耶Ⅱ.docx]([变身]_左耶Ⅱ.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一本围绕变身主题的小说，主要讲述了主人公在虚拟游戏中的体验与现实世界之间的奇特联系。在小说中，主人公通过沉浸式的游戏体验，不断转变自己的性别认同。随着游戏时间的增加，主人公的生理特征发生了变化，逐渐变成了一名女性，而这一过程并没有任何外部手术介入，而是游戏与大脑信号的双重作用所致。主人公在接受新身份的同时，也经历了自我认知的冲突与探索。在虚拟与现实之间，他们感受到身体的变化，体验着女性的感观与欲望，甚至逐渐适应了新的生活。文本中对主人公的心理变化、身体转变和对未来的不安进行了细致的描绘，以及对自己的新身份的接纳与反思。整个故事呈现了一种复杂的性别认同及个人存在问题，是性转文化中一个极具挑战性的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_左耶Ⅱ.docx]([变身]_左耶Ⅱ.docx)
 | Size            | 46582 bytes                           |
 | MD5             | 2c36a334f5d0152001099286b2d6dfae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 虚拟现实, 自我探索, 跨性别, 心理冲突, 游戏体验, 欲望, 身份变化, 性别转换, 女性视角, 都市生活, 青年, 心理变化, 信息时代, 技术影响                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

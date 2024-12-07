@@ -7,7 +7,7 @@ TXT 下载: [[变装]_塑料花——艳八仙幸福使者何仙顾的故事集_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部关于伪娘和跨性别题材的小说，名为《塑料花——艳八仙幸福使者何仙顾的故事集》。故事围绕主角阿顾与其好友吕欢的友情和情感交织展开，背景设置在广州，展示了主角们在生活中的困惑和情感纠葛。故事开始时，阿顾与吕欢因工作的缘故而频繁往返于广州，两人借酒叙旧，聊到了他们年轻时的同学齐梦龙。吕欢对齐梦龙的深厚情感和对自己性取向的矛盾表现得淋漓尽致，提到“那柔软的红唇啊，柔顺的短发，光滑的小手”，流露出对齐梦龙这一角色的复杂情感。吕欢对齐梦龙的失落让阿顾意识到他内心的孤独，特别是当吕欢在醉酒后，显露出对于过去未能把握住的紧张和悔恨，表达了对关系的无法坚定。在多次酒后的对话中，吕欢的话语中体现了对于自己性别角色的困惑和对齐梦龙的理想化，形成了一种对“真实”与“虚假”的探讨。故事深层次探讨了友情、爱情和自我认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_塑料花——艳八仙幸福使者何仙顾的故事集_
 | Size            | 51003 bytes                           |
 | MD5             | a522ac9042e38a0cba85c6998eedcfd4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | znznzn1984                               |
+| Region          | 中国大陆                               |
+| Date            | 2012-09-06                                 |
+| Tags            | 伪娘, 跨性别, 变装, 青春, 友情, 自我探索, 情感纠葛, 性别认同, 酒后吐真言, 幸福与孤独, 美丽的谎言, 塑料花                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

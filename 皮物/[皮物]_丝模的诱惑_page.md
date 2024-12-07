@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_丝模的诱惑.docx]([皮物]_丝模的诱惑.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《丝模的诱惑》讲述了一位大学刚毕业的年轻男性，因找不到工作而选择当上美腿网站的丝模。他通过精湛的伪装技巧，通过穿戴人皮套和特殊的丝袜，将自己伪装成一个年轻女性，吸引摄影师和观众的注意。在他的自述中，细节丰富地描绘了他如何检查自己的妆容，如何在镜头前展示自己性感的姿态，以及在拍摄过程中内心的欲望与挣扎。他融合了性别转换的心路历程，体现了对自己伪装身份的复杂情感，同时也映射出社会对性别的认知和接受度。整篇内容涉及变身、伪娘、软色情等主题，描绘了角色在伪装过程中的生理感受与心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_丝模的诱惑.docx]([皮物]_丝模的诱惑.docx)
 | Size            | 17290 bytes                           |
 | MD5             | 0133810810ae5f43eb847b1feacd625a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 丝模, 伪娘, 性别转换, 变身小说, 二次元, 丝袜, 诱惑, 摄影, 女性化, 自我认同, 禁忌, 内心挣扎, 软色情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

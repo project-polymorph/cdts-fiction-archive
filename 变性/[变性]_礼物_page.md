@@ -7,7 +7,7 @@ TXT 下载: [[变性]_礼物.docx]([变性]_礼物.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《礼物》是一篇围绕主角孙瑜和他挚友周策之间的情感故事展开的小说。故事设定在炎热的夏季，孙瑜是一位成功的部门经理，性格坚定而富有魅力，他的生活中有他的所爱——周策。两人相识七年，性格与经历互补，彼此深厚的情感却在社会和法律的夹缝中挣扎。孙瑜即将出发去执行一个为期半年的项目，而在出发之前，他与周策的交流展现了他们对未来的期许和对彼此的深厚情感。在离别的时刻，孙瑜许诺周策他会带回一个意想不到的礼物。然而，当孙瑜经历了变性手术归来时，却发现周策也发生了变化。这种未被法律承认的情感在时代背景下显得格外复杂而深沉。全篇充满对自我认同和内心挣扎的描写，揭示了真实与自我之间的冲突。他们的故事不仅是爱情，也是对性别认同与社会期望之间斗争的深刻反映。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_礼物.docx]([变性]_礼物.docx)
 | Size            | 18944 bytes                           |
 | MD5             | e973909a0e889144de1b14f5d8ec79fe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 跨性别, 自我认同, 爱情, 情感冲突, 职场, 友谊, 离别, 法外爱情, 性别认同, 青春, 成长, 社会压力, 现代都市, 感情戏, 二次元文化, 文学, 情人节, 热带国家, 身体变革                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

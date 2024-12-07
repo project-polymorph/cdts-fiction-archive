@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（免费）错乱（七）（15章）.doc]([皮物]_（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件为一部包含性转、附身及皮物元素的小说，描绘角色之间复杂的情感与性别认同的交织。故事的主要角色余笑与他的女友小乔经历了一段充满悬念和挑战的关系，二人因命运而重聚，却又因性别的转变而面临心理和情感的纠葛。文本中，余笑在小乔的身体中感受到了一种奇妙的皮肤变换和身体认同的冲突，同时也探索了性别转化带来的快感与苦恼。尤其是小乔附身于男性体内之后，自我认同的困惑和对余笑的情感仍旧如初，反映了社会对性别流动性和跨性别者身份的探讨。文中有较为明显的色情描写，像是两位女性角色之间的亲密互动，交替性别的存在感，充分展现了二次元变身题材的迷人和复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（免费）错乱（七）（15章）.doc]([皮物]_（�
 | Size            | 49152 bytes                           |
 | MD5             | c464a2579034f793c4fd00472182a746                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 皮物, 跨性别, 自我探索, 禁忌恋, 女性视角, 情感纠葛, 二次元, 男娘, 百合, TSF, 调教, 豪华生活, 校园, 异世界, 变嫁, 淫荡, 多重身份, 身体认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

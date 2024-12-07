@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【申码文+后续】这特么是软泥？！.doc]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇性转题材的小说，主要讲述了主人公唐成的身体发生了奇妙变化以及他在此过程中与女性角色尤沐诗的身份交错所引发的一系列事件。故事一开始，唐成是一名大学考古系的学生，因经济困难做志愿者解说员。一次偶然的机会，他在家中玩弄一团软泥，意外地让这团软泥侵入了他的身体，从而发生了性别的转变，唐成变成了房东女儿尤沐诗的模样。在这个过程中，他感受到身体和心理的极大冲突与变化，逐渐被这种新身份和身体带来的快感所吸引。小说包含大量情感与生理描写，探讨了性别认同、欲望及自我探索的复杂性。随着故事的发展，唐成不仅在外形上变成了尤沐诗，还在精神上开始体验她的生活与感受，最终在征服欲与自我认知之间挣扎。这部作品涉及到性别转换、身体认同及与他人关系的建立等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【申码文+后续】这特么是软泥？！.doc]([附�
 | Size            | 66048 bytes                           |
 | MD5             | 9b2ae18b6b13ee6c2eb41b5fab18fa87                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 身体交换, 跨性别, 青春校园, 探索欲望, 自我认同, 奇幻, 现代剧情, 心理变化, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

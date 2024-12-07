@@ -7,7 +7,9 @@ TXT 下载: [[变身]_衣服（四）.doc]([变身]_衣服（四）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一起关于轻H校园异能的变身小说，通过第一人称叙述，描绘了主角在日常生活中的秘密实验与超能力的探索。故事设定在一个普通的都市校园中，结合了奇幻与现实，展现了主角对自我认同与性别身份的深刻思考。主角在邻居家实施窃取鞋子的实验，准备通过这些鞋子来验证自己的能力，并通过“穿上女性物件”来触发自身的变身能力。
+
+在这一过程中，主角首先小心翼翼地偷取邻居的几双鞋子，确认了自己的超能力与性别身份的复杂关系。随着对能力理解的深入，他逐渐发现自己只能变身为女性，内心的抵触与期待交织着，让人感受到自我探索的挣扎与不安。整篇文章以细腻的心理描写和丰富的情节推进，展现了主角在性别认同与自我认同之间的冲突，充满了青春期特有的困惑与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_衣服（四）.doc]([变身]_衣服（四）.doc)
 | Size            | 62464 bytes                           |
 | MD5             | dc16bd087440887af7125cb128470354                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 轻H, 变身, 超能力, 校园, 都市, 自我认同, 性别探索, 窃取, 心理描写, 第一人称, 幻觉, 女性化, 高跟鞋, 伪娘, 男性视角, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

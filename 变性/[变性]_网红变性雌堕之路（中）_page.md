@@ -7,7 +7,7 @@ TXT 下载: [[变性]_网红变性雌堕之路（中）.docx]([变性]_网红变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为中篇小说，内容围绕主角与王宝宝及其丈夫赵萧声之间的复杂关系展开，突出描绘性别身份转换及相关情感冲突。故事主要讲述了王宝宝在经历了多次性别角色和性行为的转换后，内心的羞耻与快感交织。文章详细描述了一些涉及性行为的场景，包括肛交的过程及其引发的身体与心理反应。在描写中，王宝宝的双性特征（伪娘）与他自我认同的矛盾感，在性行为中寻求快感的同时，又受到情感与生理上的挣扎。文中还涉及了王宝宝对自己的身体变化感到的无奈与享受，以及主人公从旁观察而产生的复杂情感。整体文本内容直白且露骨，使用了大量色情描写，展示了角色之间的情感和身体的相互影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_网红变性雌堕之路（中）.docx]([变性]_网红变
 | Size            | 17408 bytes                           |
 | MD5             | 7b24179ef61f9705b261f70a561845e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 肛交, 强奸, 多角恋, 自我探索, 心理冲突, 雌堕, 禁忌恋, 青春期探索, 女性视角, 游戏文化, 社会边缘, 情感交织                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

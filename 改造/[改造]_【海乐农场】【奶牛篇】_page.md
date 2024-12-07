@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【海乐农场】【奶牛篇】.doc]([改造]_【海乐�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《海乐农场》系列小说的一部分，讲述了主角朱昌的奇幻经历，围绕一所神秘的高科技农场展开。故事开始时，朱昌是一个宅男，仅在超市上班。由于超市的关停，他获赠了一张海南的旅游券，无意中探索了一个号称“高科技农场”的地方。此农场专业于生物科技，涉及到人类与动物的改造，尤其是将人类转变为‘人体奶牛’以满足特殊市场需求。在接下来的剧情中，主角参加了农场的面试并了解到其非常奇特的招聘要求，尤其是关于性别与身体的改造，以及工作的特殊性质。文本中提到的关键设定如“人体奶牛”几乎令朱昌感到激动，“改造”后不仅是身体的变化，还有心理与自我认同的冲突与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【海乐农场】【奶牛篇】.doc]([改造]_【海乐�
 | Size            | 84480 bytes                           |
 | MD5             | 4d0fc8aa2eaa93eae34211307d1df3fe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 变身小说, 伪娘小说, 跨性别小说, 奇幻, 科幻, 人体改造, 牛奶产品, 生物科技, 神秘农场, 面试, 奇异工作, 性别认同, 自我探索, 压迫与释放, 禁忌主题, 性别与身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_无奈人生之人妖婊子1.doc]([变装]_无奈人生之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一名名为阿艳的街边理发店洗头女的生活与心路历程。阿艳被迫在这个充满诱惑与耻辱的环境中工作，每天努力拉客以确保能生存下来。随着故事的发展，阿艳回顾了自己如今的模样：她化着浓妆，穿着暴露的衣服，身材曲线也显得十分诱人。这种身份的转变让她感到复杂的情绪：既有屈辱的悲哀，也有沉迷于这种生活带来的快感。在与客人马哥的互动中，文中细腻地描绘了她作为女性的身份认同与身体的冲突。故事中展现了街头生活的黑暗面，涉及到操控欲、性别认同以及强烈的性暗示，反映了个体在社会底层所面临的困境与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_无奈人生之人妖婊子1.doc]([变装]_无奈人生之
 | Size            | 34816 bytes                           |
 | MD5             | b18fea0767bd227adf572844e614406a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 街头生活, 性转, 自我探索, 身体认同, 跨性别, 性别冲突, 社会底层, 暗黑文学, 情欲主题, 都市, 按摩, 理发店, 悲剧人生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

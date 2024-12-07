@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的继母是男人_六_街_[.docx]([皮物]_我的继�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身相关小说的章节，描绘了一对姐妹在街头社交中引发的故事情节。情节围绕着妹妹在第一次以女性身份外出的紧张与害羞展开。文章中姐姐表现得高贵狂野，妹妹则是娇贵可爱，吸引了许多路过男性的关注。描述了妹妹在女厕所的经历，刻画了她对性别认同的探索与自我意识的觉醒，尤其是她与继母的互动，涉及了许多女孩子的生活细节，如上厕所时的习惯及感受。文本中有着较多的直接描写与暗示，探讨性别与身份的主题，同时也包含了一些成人情节与性暗示，尤其是妹妹逐渐适应自己的新身份及其对身体的认知变化。这种涉及自我认同与性别转换的故事情节为读者提供了对跨性别与伪娘文化的独特视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的继母是男人_六_街_[.docx]([皮物]_我的继�
 | Size            | 17709 bytes                           |
 | MD5             | 1da0d90ea983a186016525060a8cf2c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 性别认同, 姐姐与妹妹, 女性认同, 厕所经历, 自我探索, 社会认同, 成人情节, 女厕所                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

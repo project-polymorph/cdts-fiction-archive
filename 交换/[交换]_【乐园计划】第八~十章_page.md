@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【乐园计划】第八~十章.docx]([交换]_【乐园�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《乐园计划》第八至十章讲述了两个主要角色香草与星夜在诺比平原探险的故事。在第八章中，星夜和寒汐担心香草的安危，星夜依稀记得香草帮助的女孩所描述的村落，而一场潜在的危险似乎正待发生。香草则在无意中参与了一场魔物战争，经历了身体的转变和身份的侵占，她成为了一个可爱却带有色气的萝莉，身体已被恶魔占据。随着故事展开，香草的真实身份逐渐进行模糊，内心的挣扎和外在的变化形成了鲜明对比。第九章则转移到寒汐和星夜的日常生活，二人继续在魔法师协会的学习与成长。在这一过程中，三名角色之间的复杂情感与身份认同的问题逐渐浮出水面，形成了扣人心弦的情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【乐园计划】第八~十章.docx]([交换]_【乐园�
 | Size            | 32389 bytes                           |
 | MD5             | 1b8943d5c9e7a26370cff93c2db140ab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 魔法院校, 萝莉, 恶魔, 自我认同, 探索, 姐妹情, 奇幻, 冒险, 青春, 成长, 魔物, 情欲, 变身, 纯爱, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

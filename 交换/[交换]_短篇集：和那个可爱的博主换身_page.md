@@ -7,7 +7,9 @@ TXT 下载: [[交换]_短篇集：和那个可爱的博主换身.docx]([交换]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇短篇换身小说，包含了一位名叫林晨雪的网络红人的生活与心态描写。小说开头，林晨雪因在微博上收到了露骨的评论而发出嫌恶的声音，暗示着她在社交媒体上获得的关注主要基于其性别和形象的展示。随着剧情展开，林晨雪回忆起自己的成名经过，感叹自己已不再是朋友圈中常提到的“色情小学生”，但在网红身份的光环下依然维持着幼稚的形象以便吸引更多的关注者。她的房间装饰成“萝莉风”，不断反映出一种可爱与诱惑并存的美学。
+
+在闲暇时，林晨雪享受自拍带来的乐趣，透过自拍来展示她的身体，暗示了自己内心的矛盾与对外界期待的回应。通过文章，作者描绘了网络时代下女性自我表现的复杂性、成名的代价以及对性别认同的探索。文件整体气氛蕴含了许多与性别转变、外貌焦虑有关的主题，而人物内心的挣扎与对外界评价的敏感更进一步深化了这一点。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_短篇集：和那个可爱的博主换身.docx]([交换]_
 | Size            | 29568 bytes                           |
 | MD5             | a7c65b96f5e188ef04ee5b6075ae8a28                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 换身, 网络红人, 性别认同, 自拍文化, 萝莉风, 微博营销, 自我探索, 外貌焦虑, 二次元, 短篇小说, 青少年, 自我表现, 社交媒体, 虚荣心                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

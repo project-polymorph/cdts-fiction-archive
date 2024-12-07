@@ -7,7 +7,7 @@ TXT 下载: [[其他]_一億元的密醫.doc]([其他]_一億元的密醫.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕一名名叫夏农·佩托斯基的密医展开，故事发生在一次深夜火车上。夏农为了一笔一亿元的佣金，承接了治愈即将去世的癌症重病患者的任务。在火车上，为了避免引起注意，夏农通过变更外貌，假装成一名女学生。然而，火车上发生了一场奇异的事件，夏农面对着看不见的巨大蜜蜂的攻击，展现了她操控自己身体状态的超能力。随着情节的发展，夏农的敌人也被卷入了这个不可思议的局面，反映出人类对痛苦的反抗与生存的执着。故事不仅展现了生死拯救的紧迫场景，还引导出人物复杂的情感和身份探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_一億元的密醫.doc]([其他]_一億元的密醫.doc)
 | Size            | 44544 bytes                           |
 | MD5             | 0a527f9fe4eb8158e7fcc54302237e8a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 密医, 跨性别, 变身, 生死, 痛苦, 女学生, 超能力, 夜间火车, 巨型蜜蜂, 治愈, 生存, 自我认知, 冒险, 悬疑, 身份转变, 异能                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

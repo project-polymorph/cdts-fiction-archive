@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人皮发卡1.docx]([皮物]_人皮发卡1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件《人皮发卡1》讲述了一名普通男性白领在职场生活的烦恼与困惑，以及在一次偶然机会下获得了一根被称为“人皮发卡”的神器。这个发卡不仅需要滴血认主，而且具备化身功能，可以让主人短暂经历异性身份。主人在故事中遇到了与他同事的女友，爱的冲动与性欲相交织，推动了剧情的发展。小说中涉及到职场的性别权力关系，通过角色的自我探索与变化，涉及性别认同、欲望与侵犯等复杂主题。描写了现代社会中男性的无奈与挑战，同时探讨了男性对于女性的看法与心理。在故事的高潮中，主人运用发卡的能力与复杂的情感陷入无法逃脱的境地。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人皮发卡1.docx]([皮物]_人皮发卡1.docx)
 | Size            | 24994 bytes                           |
 | MD5             | 9f36d43dde5587114690a947b01faef7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 恋爱, 欲望, 性别认同, 职场, 神器, 男性心理, 自我探索, 女性化, 梦幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

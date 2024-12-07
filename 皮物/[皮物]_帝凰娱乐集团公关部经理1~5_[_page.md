@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理1~5_[.docx]([皮物]_帝�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《帝凰娱乐集团公关部经理1~5》，是一部描绘性别转换与伪娘体验的小说。故事的主角夜晓燕实际上是一个男性，因遭受追捕而不得不借助一项特殊的技术和人皮，转变为一个美丽的女子，以便在娱乐公司中继续生存并工作。这部小说深入探讨了性别认同、自我探索和社会角色的流动性。主角在拥有女性外貌的同时，还要学习女性的行为举止和服饰打扮。整部作品不仅涵盖了变性过程中的生理和心理变化，还有着深刻的社会背景，涉及黑帮、身份认同和生存斗争。文中涉及的内容包括对主角身体的细致描写，以及他在新角色中的学习与适应，展现了角色心理上的挣扎与变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理1~5_[.docx]([皮物]_帝�
 | Size            | 58058 bytes                           |
 | MD5             | 27d7c7919087b1f7336f2618a873d290                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身小说, 跨性别, 黑帮故事, 娱乐行业, 自我认同, 心理变化, 生存斗争, 女性化训练, 角色扮演, 男性到女性, 人皮技术, 身份问题, 情感探索, 社会角色流动性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

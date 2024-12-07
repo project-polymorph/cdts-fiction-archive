@@ -7,7 +7,7 @@ TXT 下载: [[变性]_被买走的女仆_3.doc]([变性]_被买走的女仆_3.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由作者Lisa Lovelace创作的跨性别相关小说，讲述了一个男孩通过性别转变成为女仆丽莎的经历。故事开始于一位女性角色命名男孩为丽莎，逐渐引导他接受女性身份的过程。在此过程中，丽莎被迫以女仆的身份生活，穿着女性服装，并逐步享受这种新身份带来的变化。文件中详细描绘了丽莎的心理变化和身体变化，包括她接受美容、荷尔蒙治疗，以及日常生活中如何适应女仆角色的挑战和乐趣。情节中涉及性的暗示和跨性别的自我探寻，展现了性别认同与社会期望之间的冲突。同时，故事还描绘了丽莎与女性角色N女士之间的关系，最终丽莎不仅是N女士的女仆，同时也成为了她的情感伴侣。整体情节充满了对跨性别体验的探讨，包括身体的变化、心理的适应与认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_被买走的女仆_3.doc]([变性]_被买走的女仆_3.do
 | Size            | 48128 bytes                           |
 | MD5             | 7c3d41a9f28bbef660fb1916a5b47939                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lisa Lovelace                               |
+| Region          | 未知                               |
+| Date            | 2019-07-13                                 |
+| Tags            | 性转, 伪娘, 男娘, 变身, 跨性别, 女仆, 荷尔蒙治疗, 自我认同, 情感关系, 女性角色, 心理转变, 美妆, 社会期望, 生活方式, 情感依恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

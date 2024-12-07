@@ -7,7 +7,7 @@ TXT 下载: [[交换]_急性換身慾望：醫院篇〈二〉：美女醫生_x_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《急性换身欲望：医院篇（二）》的一部分，讲述了一种超自然现象导致男女主角之间发生身体交换的故事。故事设定在医院，描述了男主角在代班巡房时邂逅一位美女医生，并逐渐陷入对她的欲望，产生了强烈的性幻想。在过程中，主角体验到身体的异样感，并随着情节的发展，内心的冲突和欲望愈加复杂。文中描绘了角色的心理变化，从对自己身份的迷惑到渴望成为对方，整部作品围绕着 الجنس、性别认同与性意识的探索。此外，作品中包含了大量露骨的描写和色情内容，具体涉及到角色间的性交、幻想、自慰等情节，展现了在身心交换中的欲望解放。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_急性換身慾望：醫院篇〈二〉：美女醫生_x_�
 | Size            | 110080 bytes                           |
 | MD5             | b37f1f101b75facc9953e0669a0a178c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 医院, 爱情, 欲望, 强奸, 变身, 调教, 妖艳角色, 成人小说, 都市幻想, 心理冲突, 强烈欲望, 变嫁, 药物, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

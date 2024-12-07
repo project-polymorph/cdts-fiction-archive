@@ -7,7 +7,7 @@ TXT 下载: [[附身]_正反难辨前传（第一二章）.doc]([附身]_正反�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及伪娘与变身主题的小说前传，主要讲述了角色星草与其母亲和姐姐之间的复杂关系，以及星草对姐姐的禁忌之恋。同时，故事中插入了其他角色如姐妹亲密的秘书叶玲霞与她的上司韩芳菲之间的情感动态。情节既有对家庭困境的描绘，也涉及性别认同及欲望，通过星草的内心独白展现出他对姐姐及周围女性角色的强烈吸引。此外，文件含有限制级内容，描写了强烈的性暗示和与女性角色之间的亲密行为，采用了流行的二次元文化元素。整个故事通过第一章与第二章对角色关系的描绘，探讨了性转与变身的复杂性和对社会规范的挑战。虚构的世界观结合了现实问题，使得角色在心理与情感上都有着深刻的探索与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_正反难辨前传（第一二章）.doc]([附身]_正反�
 | Size            | 33792 bytes                           |
 | MD5             | 704116b5d6858af3b0b45add36499b6a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 禁忌恋, 欲望, 性转, 办公室恋情, 家庭关系, 自我探索, 内心独白, 性别认同, 少女, 性暗示, 情感纠葛, 二次元, 限制级                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

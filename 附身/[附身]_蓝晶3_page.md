@@ -7,7 +7,11 @@ TXT 下载: [[附身]_蓝晶3.docx]([附身]_蓝晶3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档讲述了一个性转的故事，主要围绕角色李天和王杰的经历展开。故事始于一个昏暗的巷道，两个男女角色的行为和对话揭示出王杰在变性后、以女性身份晨晨与王强的互动。王强对此感到困惑，同时展示了他对新身份的好奇与探索。
+
+在转变为女性后，李天的身体感受和心理冲突相继出现。随着故事的发展，李天逐渐接受了自己变为女性的现实，他的内心情感与自我认知的变化在情节中展现得淋漓尽致。文中还涉及李天对新身份的体会，包括身体的敏感程度以及对过去生活的回忆，体现出对失去男性身份的复杂情感。
+
+整篇文章包含了虐待、暴力和性别认同等敏感内容，深入探讨了性别认同、自我接受与探索的主题，读者可以看到角色在自我接受的过程中所经历的内心斗争与变化。此作品适合研究性别议题与自我认同的学者或爱好者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[附身]_蓝晶3.docx]([附身]_蓝晶3.docx)
 | Size            | 21247 bytes                           |
 | MD5             | ae0421fe78c503d0c9de2142b3967195                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 自我探索, 性别冲突, 角色认同, 成人情节, 情感纠葛, 巨乳, 性感装束, 心理变化, 奇幻, 都市, 变身, 身体交换, 女性视角, 爱情, 暴力, 强奸, 情感, 心理, 自我接受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

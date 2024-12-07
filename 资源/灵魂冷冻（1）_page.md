@@ -7,7 +7,7 @@ TXT 下载: [灵魂冷冻（1）.doc](灵魂冷冻（1）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一名海军陆战队员王军因战斗受伤而接受国家秘密的灵魂冷冻计划，在计划中，他的意识被存储在生物芯片里，待到未来可以注入新身体。在经历了一段时间的黑暗后，王军被唤醒，发现自己已转变为名为郝丽的女性新身份，且新身体拥有近乎完美的特质。故事中逐渐融入了王军对新身份的自我探索与情感冲突，尤其是对性别认同的思考。同时，王军身为特工的角色让她必须接受与过去截然不同的生活与挑战。文件中的情节涉及了性转、操控，以及利用身体达成目标的复杂伦理与心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [灵魂冷冻（1）.doc](灵魂冷冻（1）.doc)
 | Size            | 35840 bytes                           |
 | MD5             | 0930428f34146ee22fd74711e06ebaf9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2081-09-27                                 |
+| Tags            | 性转, 特工, 灵魂冷冻, 跨性别, 性别认同, 心理认知, 自我探索, 女性身份, 科学幻想, 身体改造, 党派斗争, 未来科技, 伦理冲突, 强奸, 调教, 淫荡, 逆后宫, 春药                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

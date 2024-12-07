@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的同居女友后传5.doc]([皮物]_我的同居女友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件摘录自一部关于伪娘和跨性别主题的小说，其情节围绕着两个角色小薇和叙述者在购物后返回住处的经历展开。故事中融合了性别认同与外表扮演的主题，展现了角色在社会环境中的互动。这一段描写了他们在商场购买衣物并试图用幽默来调侃周围的环境与他人。描述了在夜晚的街道上，角色们的对话和思考，展现了一种轻松而又带点戏谑的氛围。同时，通过小薇的角色，让人感受到一种对女性化形象的接受与调侃。文中淡淡流露出角色在对自我形象认同过程中的挣扎，同时也表明了对身边人目光的关注。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的同居女友后传5.doc]([皮物]_我的同居女友
 | Size            | 27136 bytes                           |
 | MD5             | a0b0ded3bf1980a5e87a99995fe7aebf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 夜晚, 都市生活, 双性别, 自我认同, 幽默, 购物, 时尚, 青春, 角色互动, 性别探索, 女装, 粉色裙子, 魔幻现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

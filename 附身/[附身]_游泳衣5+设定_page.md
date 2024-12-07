@@ -7,7 +7,7 @@ TXT 下载: [[附身]_游泳衣5+设定.doc]([附身]_游泳衣5+设定.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《[附身]_游泳衣5+设定.doc》，主要讲述了一名男性主角通过附身能力控制一个护士的故事。情节中，主角在经历痛苦和压迫的同时，从护士的身体中获取到一种强烈而愉悦的感受。在进入护士身体的过程中，主角体会到身体与性别的深度交融，并逐渐掌握对该身体的控制权。从护士的身体中，主角感受到女性特有的身体感受与情感波动。《游泳衣》成为了附身的媒介，体现了对性别认同和身体界限的探索。文中不仅描写了身体上的变化，还有对心理状态的细腻刻画。情节涉及青少年游泳、性别转换、性别认同等主题，同时包含了一定程度的成人和性相关内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_游泳衣5+设定.doc]([附身]_游泳衣5+设定.doc)
 | Size            | 45568 bytes                           |
 | MD5             | a0573414c07e81dad6d5470dfb307bf7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 游泳衣, 性别认同, 护士角色, 心理变化, 身体控制, 情感碰撞, 性别转换, 青春期探索, 第二性别, 自我认知, 意识交融                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

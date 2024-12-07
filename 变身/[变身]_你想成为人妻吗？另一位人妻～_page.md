@@ -7,7 +7,7 @@ TXT 下载: [[变身]_你想成为人妻吗？另一位人妻～.doc]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《你想成为人妻吗？另一位人妻～》，讲述了一名年轻男性在某次意外中变身为一位已婚女性的故事。故事开篇，主人公原本和女友有约，但在路过一个朋友的房间时，遭遇了奇异的强光，随即失去了意识。醒来后，他发现自己的身体发生了巨大的变化，从男性变成了身材火爆的女性，甚至拥有了一段陌生的记忆，名叫陈韵儿，已婚并有一对龙凤胎孩子。初始的震惊与拒绝让他纠结不已，但随着新生活的展开，他体验到了作为人妻的身份与生活的种种，包括和丈夫的亲密关系、与闺蜜的交流以及身为家庭主妇的幸福感。这种身份的变化引发了一系列自我认同和探索的烦恼，同时也带来了不少的性相关情节，描述较为细腻且激情四溢。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_你想成为人妻吗？另一位人妻～.doc]([变身]_�
 | Size            | 39936 bytes                           |
 | MD5             | 19eb342d3d53b514cc1e34e1b01f0290                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 人妻, 自我探索, 跨性别, 异性恋, 家庭, 性别认同, 成人内容, 纯爱, 性描写, 女性视角, 情趣用品, 闺蜜关系, 强烈的身体变化, 性欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

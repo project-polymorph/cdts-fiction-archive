@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_宝葫芦的秘密_1-2.doc]([皮物]_宝葫芦的秘密_1-
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《宝葫芦的秘密》是一篇描绘柳一刀的奇幻冒险故事。柳一刀是一位年轻的快递员，原本普通的生活因一次偶然的遭遇而改变。故事开头描述了柳一刀的生活背景，塑造了这个角色的性格特点，例如他尊重父母的传统，认为名字的意义重大。他在快递工作中相遇了一位风韵犹存的白领女性，二人短暂的相遇为柳一刀的生活带来了麻烦与转折。随着情节的发展，柳一刀捡到了那位女性遗落的皮包，并通过皮包中的钥匙，发现了一个储物柜，里面藏着一个神秘的包裹，暗示着将要展开的冒险和揭示的秘密。整篇小说充满了悬疑和奇幻色彩，对角色内心挣扎和外部冲突进行了深刻的描绘，同时也涉及到了性别认同等主题。该作品将读者带入一个奇妙的世界，探索自我与他人之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_宝葫芦的秘密_1-2.doc]([皮物]_宝葫芦的秘密_1-
 | Size            | 74752 bytes                           |
 | MD5             | aa632832861ff1e616f9b4c9cee0eab6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 快递员, 武侠氛围, 玉胡芦, 奇幻冒险, 女性视角, 神秘物品, 自我探索, 男女关系, 职场纠葛, 都市生活, 悬疑, 动漫文化, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_和妹妹交换身体的我却变成了主人的母狗？�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部跨性别及身体交换相关的小说，主要叙述了一名叫苏木哲的哥哥为了保护自己的妹妹苏沐晴，决定通过一个家族传承的仪式与妹妹交换身体，以此来阻止她与一个背叛她的男友的交往。故事围绕着哥哥对妹妹的保护与自我牺牲的情感展开，描述了他在交换身体后所面临的心理冲突和身份认同的挑战。文章中不仅探讨了性别认同与自我意识，还涉及元气少女的成长和情感经历。主要情节包括哥哥对妹妹男友的厌恶及揭穿他的丑恶，妹妹坚定不移的情感以及身体交换后的故事发展，最后留下妹妹在失去自我的深渊中挣扎的感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_和妹妹交换身体的我却变成了主人的母狗？�
 | Size            | 77824 bytes                           |
 | MD5             | 90f902ed863a09306564ae0b5741c824                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 身体交换, 跨性别, 伪娘, 兄妹情, 保护欲, 自我认同, 性别认同, 爱情故事, 成长, 心理冲突, 暗黑幻想, 魔法仪式, 情感纠葛, 封闭环境, 社会批判                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

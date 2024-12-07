@@ -7,7 +7,7 @@ TXT 下载: [[变身]_100萬被迫的陰謀.doc]([变身]_100萬被迫的陰謀.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部关于变身与性别转换的小说，讲述了一个男性角色的性别变化过程。在故事中，角色经历了复杂的情感与认知冲突，描绘了周围互动的情感与欲望。开头场景设定在一个城市公园，描绘了一位女性的羞涩与被骚扰的经历。此后的情节转向了性侵犯的描写，涉及角色在强迫与同意之间的痛苦挣扎与心理变化，伴随大量露骨且直接的性行为描述。故事充满了性别与身份的探索，同时也探讨了人际关系中的权力动态与欲望。文中对丧失控制感与快感的描绘展现了角色的内在冲突与变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_100萬被迫的陰謀.doc]([变身]_100萬被迫的陰謀.
 | Size            | 51200 bytes                           |
 | MD5             | 250a4923ce224540a0a8f39e6c8887ae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转化, 强奸, 自我探索, 性别认同, 女性视角, 性骚扰, 逆后宫, 情感冲突, 强暴幻想, 心理斗争, 欲望探索, 受虐待, 都市情感, 性别角色, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

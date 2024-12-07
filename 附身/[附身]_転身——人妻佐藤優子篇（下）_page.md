@@ -7,7 +7,7 @@ TXT 下载: [[附身]_転身——人妻佐藤優子篇（下）.doc]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《转身——人妻佐藤优子篇（下）》，是关于角色性别转变的小说片段。故事围绕着主人公在异性身体中的经历展开，特别聚焦于中年美妇佐藤优子的内心感受与外部情景。主人公通过附身于佐藤优子的身体，体验其日常生活中的种种细节，包括对身体的自我探索和对女性角色的认同。故事中有描绘优子内衣选择、情感体验和刺激场景，尤其是她在尝试不同内衣时的兴奋与迷醉。整个故事充满了对性别角色和身份认同的探索，且涉及一定的成人内容。随着情节的发展，主人公的心理变化和对自身身体的喜悦感交织在一起，尤其是在与送货员的互动中，表现出对他人反应的玩味和自我沉醉。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_転身——人妻佐藤優子篇（下）.doc]([附身]_�
 | Size            | 35840 bytes                           |
 | MD5             | 1b95cb810c7bccb743a27fdf67de5db6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 中年美妇, 自我探索, 女性内衣, 性别认同, 成人内容, 角色扮演, 心理变化, 日常生活, 内心纠葛, 游戏互动, 异性体验, 情色场景, 幽默对话, 愉悦体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

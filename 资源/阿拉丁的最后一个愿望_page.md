@@ -7,7 +7,7 @@ TXT 下载: [阿拉丁的最后一个愿望.doc](阿拉丁的最后一个愿望.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《阿拉丁的最后一个愿望》的小说，主要围绕维齐尔·贾法尔和阿拉丁之间的权力斗争，以及贾法尔对公主茉莉的阴暗阴谋展开。故事的背景设定在王国首都阿格拉巴，描绘了贾法尔如何利用神灯的力量和蛇头手杖来操控他人，以满足其个人的野心。贾法尔包藏祸心，试图通过操纵公主和街头老鼠阿拉丁之间的关系来达到自己的目的。小说中的贾法尔不仅是权谋的操控者，同时也对茉莉的美貌充满了欲望，伴随着对她的迷惑和支配。文件内容包含了大量关于权力、操控、情感冲突，以及对贾法尔内心渴求的深刻描绘，展现了丰富的心理斗争和复杂的人物关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [阿拉丁的最后一个愿望.doc](阿拉丁的最后一个愿望.
 | Size            | 78848 bytes                           |
 | MD5             | 0dd05f79b905a7cc55135b25f267a260                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Imperator Mentus                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 权力争夺, 操控欲望, 性别认同, 自我探索, 二次元, 奇幻, 变身, 阴谋, 冒险, 爱情, 贾法尔, 阿拉丁, 茉莉公主, 欲望刺激, 情感冲突, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

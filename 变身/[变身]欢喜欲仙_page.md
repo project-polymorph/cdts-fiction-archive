@@ -7,7 +7,7 @@ TXT 下载: [[变身]欢喜欲仙.doc]([变身]欢喜欲仙.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《欢喜欲仙》是一部围绕性别转换与心灵成长的小说。故事的主角天旭在经历噩梦后，反思自己的生活与内心，通过变装与个人认同的探索，体现了深层的情感与性别认同的矛盾。天旭在与晶晶的关系中，经历了从表面平淡到内心复杂的成长过程，作品巧妙地将变装与传统师徒关系、性别身份认同等元素结合在一起，塑造出丰富的人物情感与复杂的心理状态。文本中涉及衍生的性关系与社会压力的描绘，这是对于现代生活的深刻反思与描写。尤其是两位主角之间的情感纠葛，暗含了对人性的探讨与自我救赎的渴望，形成了一幅关于城市生活中个体求索与关系交织的画卷。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]欢喜欲仙.doc]([变身]欢喜欲仙.doc)
 | Size            | 1747456 bytes                           |
 | MD5             | a1adc49c7ea3c24eedbb0bc08a8ce99d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | paladina                               |
+| Region          | 未知                               |
+| Date            | 2019-10-22                                 |
+| Tags            | 变身, 变装, 性别认同, 心灵成长, 传统师徒, 性关系, 都市生活, 情感纠葛, 自我探索, 性别转换, 伪娘, 青楼文化, 梦境, 魔法, 心理冲突, 励志, 社会压力, 青春期, 女性角色, 男性角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

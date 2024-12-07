@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《四美图》二十四.doc]([改造]_《四美图》二�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《四美图》中的一段小说，描写了一位老者与两个美人在软榻上的互动，以及对家族历史的探讨。故事开始于两个美人解开老者的衣物，展现了一段充满权力与性欲的场景，突显了老者虽然年老却依然拥有吸引力。随着情节推进，老者回忆起自己的过去，并提及石二娘的父亲在江南的反叛豪杰身份，同时透露出期待与命运交织的气息。整段文字探讨了性别认同、权力游戏，以及人物间复杂的情感关系，融合了古代背景与奇幻元素。通过细腻的描写，展现了对人性欲望的深刻思考，具有明显的色情与复杂的心理戏剧性。文中涉及奢华的生活方式，以及对美的颂扬和权力的象征，构成了这部作品的核心主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《四美图》二十四.doc]([改造]_《四美图》二�
 | Size            | 33280 bytes                           |
 | MD5             | e867a0ed649fc8f491e2a6ca6aef456b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 古代, 权力游戏, 奇幻, 爱情, 自我认同, 性别认同, 权威, 情欲, 反叛, 家族史, 成年人的玩具, 妖艳, 温柔妩媚, 心理戏剧, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

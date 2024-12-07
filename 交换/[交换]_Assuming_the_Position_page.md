@@ -21,7 +21,7 @@ TXT 下载: [[交换]_Assuming_the_Position.docx]([交换]_Assuming_the_Position
 | Size            | 116335 bytes                           |
 | MD5             | ab895bf67f6637cdc756eda63d3caa93                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

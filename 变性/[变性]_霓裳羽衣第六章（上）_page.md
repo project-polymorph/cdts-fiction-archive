@@ -7,7 +7,7 @@ TXT 下载: [[变性]_霓裳羽衣第六章（上）.doc]([变性]_霓裳羽衣�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《霓裳羽衣第六章（上）》是一篇描绘性别认同和自我探索的小说章节，主要通过女主角月儿的视角展示其在接待李大官人的过程中内心的挣扎与探索。章节中，月儿在与母亲的对话中，展现出对自身身世和未来的思考，引发她对自我身份的认同和情感的察觉。文中提及她对自身外貌的敏感，以及她在社会角色中扮演的复杂性，尤其是在面对前来赎身的富人时，她的心理感受和对权力游戏的敏感度。此章文字流畅，情感细腻，透过月儿的内心独白和与外界的互动，展现出她在传统与现代、外表与内心之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_霓裳羽衣第六章（上）.doc]([变性]_霓裳羽衣�
 | Size            | 32256 bytes                           |
 | MD5             | 2db108aeeb123762131f74a9948c5d26                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 自我探索, 情感斗争, 传统文化, 女性视角, 伪娘, 悲剧性角色, 权力游戏, 家庭关系, 个人成长, 情感纠葛, 社会压力, 孤独感, 身份认同, 都市生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

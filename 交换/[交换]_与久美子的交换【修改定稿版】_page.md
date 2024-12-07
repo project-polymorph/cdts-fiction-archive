@@ -7,7 +7,7 @@ TXT 下载: [[交换]_与久美子的交换【修改定稿版】.docx]([交换]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档《与久美子的交换》描绘了一位女拳击手秋本久美子的生活与情感纠葛。故事以久美子成为女子轻量级拳击冠军为开端，通过描述她的外貌和性格，展现了其作为体育明星的光辉形象。然而，她的生活并不平坦，除了拳击生涯外，她与拳击教练渡边的关系也充满挑战。久美子在比赛后期待与渡边公开恋情，但却遭遇了跟踪者伊藤的威胁。小说逐步描绘了久美子从一个渴望胜利的运动员向一个控制与操控他人情感的“女王”角色转变的过程。当她最终在休息室里掌控了局势，利用了神秘的注射药物和她的魅惑手段，展示了性别与权力的复杂关系。这篇作品不仅涉及变身与角色转变，还探索了权力、爱与操控之间的紧张关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_与久美子的交换【修改定稿版】.docx]([交换]_
 | Size            | 41285 bytes                           |
 | MD5             | c474fdc8aabf052a5f08d5ea3ce63769                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 拳击, 恋爱, 操控, 权力, 伪娘, 互动, 情感纠葛, 女王, 悬疑, SM, 虐恋, 角色扮演, 渐变, 自我认同, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

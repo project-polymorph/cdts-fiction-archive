@@ -7,7 +7,7 @@ TXT 下载: [[变性]_幸运还是不幸的我-9.docx]([变性]_幸运还是不�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档记录了主人公在德仁医院接受变性手术前后的经历。故事从主人公和朋友们的陪伴开始，她通过一系列心理和生理上的挣扎，终于决定接受手术。手术是在医院以微创方式进行的，虽然手术本身没有太多痛苦，但她面临的心理挑战和对未来的不确定感让她依然感到害怕和焦虑。在手术后的恢复过程中，她和李延平之间的对话展现了角色之间深厚的情感，也探讨了性别认同和身体变化带来的心理影响。故事进一步深入到她适应新的身体状态的过程，以及在与朋友聚会中人们对她变化的反应，展现了她在社会中的角色变化。最后，文中提到了小蕙的意外事故，增添了故事的紧张感和复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_幸运还是不幸的我-9.docx]([变性]_幸运还是不�
 | Size            | 30040 bytes                           |
 | MD5             | 94d6d67435dfc6dada2fa578420d88de                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 手术, 医院, 自我认同, 性别认同, 微创手术, 友情, 身体变化, 心理挣扎, 爱与支持, 二次元, 伪娘, 男娘, 变嫁, 禁忌恋, 青少年, 情感成长, 恢复, 心理辅导, 小蕙出事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

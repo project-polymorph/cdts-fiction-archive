@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《夫尊天下》第18章绿林好汉变女仆（2）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为性转类小说《夫尊天下》第18章，标题为“绿林好汉变女仆（2）”，内容围绕角色王忠贞的性别转变与身份认同的冲突展开。故事中，贼人经过一番意志交锋，接受了身体改造，变成娇美的女性，经历了颠覆性别后所带来的心理变化与身体适应。文中详细描述了贼人第一次看着镜子中的自己，感受到女性特有的性感魅力和对身体的全新认知，内心欲望与抑制的斗争交织，使其逐渐迷失在虚假的记忆与现实时空中。情节设计充满了刺激和变化，在跨性别与自我探索的主题下融入了禁忌和幻想的元素，展现出复杂的心理描写与性欲的释放。文本包含强烈的成人内容，暴露了身体变化带来的快感和欲望的表述，同时也探讨了角色的身份重塑与主人公对新身份的适应过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《夫尊天下》第18章绿林好汉变女仆（2）.doc
 | Size            | 37888 bytes                           |
 | MD5             | 42fa3611d37d7334abcf71ecfebe6286                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身小说, 角色认同, 身体改造, 禁忌幻想, 自我发现, 欲望释放, 虚假记忆, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

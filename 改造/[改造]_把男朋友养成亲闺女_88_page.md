@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_88.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档的内容围绕两个金发少女坎迪和贝丽的十八岁生日庆祝活动展开。贝丽在许愿时内心充满不安，因为她的身份由男生转变为女性，而现在周围的人都称呼她为‘贝丽公主’。菁英的生日派对中，她感受到以前生理身份的冲突，但内心却也渴望与坎迪成为真正的姐妹。文中详细描绘了她们在蛋糕前的庆祝场景，亲密的互动，以及贝丽在生日聚会上面临的身份认同困扰。整篇文章展示了生动的情感，包括贝丽对生日庆祝的反思以及对自己身份的挣扎，尤其是在生日派对上与家人和朋友相处的愉快时光和展示的脆弱性。同时，文档中还包含了一些关于贝丽在接受变装和感受自我认同的细腻描写，以及她关注的情感细节，让读者体会到角色内心深处的斗争和成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_88.docx]([改造]_把男朋友
 | Size            | 23639 bytes                           |
 | MD5             | 834a15c6d48cce262135d7acfe0f06bc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 生日庆祝, 角色冲突, 姐妹情感, 身份认同, 自我探索, 情感细腻, 成长故事, 幻想, 情感纠葛, 派对生活, 女性视角, 友情, 泪水与欢笑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

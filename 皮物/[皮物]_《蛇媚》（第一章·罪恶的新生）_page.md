@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《蛇媚》（第一章·罪恶的新生）.docx]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部伪娘和变身类小说的第一章，标题为《蛇媚》（第一章·罪恶的新生）。故事围绕主角萧羽和他的女朋友秦菲菲展开。在一个阳光明媚的周六，萧羽带着秦菲菲来到别墅，准备进行一次神秘的实验。秦菲菲对实验充满恐惧，但被萧羽说服尝试一个能够让她变成皮物的神奇药水。故事描绘了秦菲菲在实验后变为人皮的过程，以及这个过程中的心理变化和身体转变，萧羽对此产生强烈的欲望。在实验成功后，萧羽通过穿戴人皮实现了与秦菲菲身体的合一，使得两人之间的意识开始交融。这一情节中包含了一些限制级的色情描述，以及对性别认同和身体形态的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《蛇媚》（第一章·罪恶的新生）.docx]([皮物
 | Size            | 22023 bytes                           |
 | MD5             | b843ab4a06881382264a429351d1fb49                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 跨性别, 情色, 男女性别角色转换, 人体改造, 强奸, 药物实验, 爱情, 幻想, 自我认同, 奇幻, 性感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

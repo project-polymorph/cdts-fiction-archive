@@ -7,7 +7,7 @@ TXT 下载: [[附身]_能夺取她人身体的手表3、4（旧文搬运）.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个名为《能夺取她人身体的手表》的小说系列的翻译和评论，主要讲述了一个角色通过特别的手表获得了夺取他人身体的能力。故事围绕主角绘麻与一个洛丽塔女孩州梨里的互动展开，涉及到性别认同和自我认知的复杂主题。文章开头提到翻译的原因和背景，表达了对原作和翻译者的尊重。小说内容深入探讨了主角在女性身体中的经历，包括对自我形象的反思和与他人关系的重新理解。整篇文中包含了对女性角色外表的细致描绘，以及主角心理转变的描绘。例如，主角对自己女性身份的感受，以及在厕所中使用女性身体的小便体验，反映了作品对性别和身份的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_能夺取她人身体的手表3、4（旧文搬运）.docx
 | Size            | 46330 bytes                           |
 | MD5             | af78504f8e7ead9e41e009b4d5c3e2fe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 性别转换, 自我探索, 洛丽塔风格, 女性身体体验, 模特公司, 性别认同, 都市奇幻, 日语翻译, 心理冲突, 情感交流, 百合, 变嫁, 女性视角, 调教, 纯爱, 奇幻, 动漫文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

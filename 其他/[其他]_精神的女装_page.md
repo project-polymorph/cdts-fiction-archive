@@ -7,7 +7,7 @@ TXT 下载: [[其他]_精神的女装.doc]([其他]_精神的女装.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部描绘性别转换及自我认知的小说，主要讲述主人公久松嘉人在一项新的法律实施后遭遇的惩罚。在故事中，嘉人根据法律规定，因为投票错误而被逮捕，并受到奇特的处罚——被迫穿上女性服装。从此开始了他对自己身份和社会认知的探索。在穿着女性服装后，嘉人在身体和心理上都经历了重大变化，从羞涩到接受，再到适应女性身份的生活。整个故事充满了幽默与思考，触及了性别认同和角色扮演等主题，同时也融入了校园生活的趣味。随后的情节还涉及到嘉人与青梅竹马翼子的互动，在他人眼中，他依然是男生，但在内心深处的挣扎和自我认同的变化逐渐浮现。最终，嘉人在刑期结束后，即将回归男儿身时，却又对过去三年的经历产生复杂的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_精神的女装.doc]([其他]_精神的女装.doc)
 | Size            | 39424 bytes                           |
 | MD5             | 4300016753138f1dab81f3e574c0c60c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 自我认知, 校园, 惩罚, 少女, 伙伴关系, 性别探索, 文化冲突, 身份认同, 心理变化, 羞耻感, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

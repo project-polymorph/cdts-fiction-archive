@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译】【改造】我是女仆机器人_第3章_发�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为跨性别相关小说的第三章，讲述了一名女性角色杰基在其丈夫罗伯特回家前的内心挣扎与情感冲突。故事开头描述了杰基作为一名女仆机器人，她的行为与内心的服从与矛盾并存。她的丈夫正要回家，但他并不知道自己的妻子已被一种性爱机器人取代。小说呈现了杰基在角色转换的过程中，她对丈夫的复杂情感，以及对自己身份的痛苦和渴望。随着情节的发展，杰基的角色愈发模糊，她把自己的角色与机器人的程序冲突融为一体，表现出对被替代的嫉妒和对女仆身份的无奈，同时对丈夫与机器人之间的亲密关系又感到混乱而又渴望。小说最后通过描绘杰基-bot和性爱机器人之间的互动，展现了不断交替的角色与性别认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译】【改造】我是女仆机器人_第3章_发�
 | Size            | 41472 bytes                           |
 | MD5             | e8833d59f40c985723a41bfba72f0649                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性爱机器人, 角色扮演, 性别认同, 自我探索, 科技幻想, 性别转换, 家居生活, 强迫服从, 情感冲突, 妻子与女仆的对立, 暗恋之情, 性欲表达, 身份危机, 机器人的情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

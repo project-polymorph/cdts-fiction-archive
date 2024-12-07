@@ -7,7 +7,7 @@ TXT 下载: [[变性]_有人打网球吗？（1_3）.doc]([变性]_有人打网�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《有人打网球吗？》是一部聚焦于性别认同与性别表现的小说，讲述了一个男主角在与六位女性同事的互动中，逐渐接受自己的女性化转变的过程。故事开头，男主角对女性的穿着和女性运动比赛持有偏见，但在海伦的影响下，他被带入一个女子网球赛的环境。在比赛中，海伦准备了一系列女性服装让男主角穿上，随着比赛和社交活动的进行，男主角不仅接受了自己的女性形象，还逐步迷失在这种新身份中。小说中描述了他穿着女装、体验女性生活的细节，以及在心智上的挣扎和自我认同的变化。文本内容涉及性转、变妆和对女性体态的刻画，部分情节包含了带有性暗示的内容，探讨了性别流动性和身份认同等复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_有人打网球吗？（1_3）.doc]([变性]_有人打网�
 | Size            | 35840 bytes                           |
 | MD5             | 9ab5206af719d4294af696e11768d5f0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | didiwillis                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 女性化, 自我认同, 性别流动性, 办公室文化, 女性运动, 裙子, 男娘, 双性恋, 自我探索, 情感冲突, 青春成长, 社交互动, 同性恋, 女性内衣                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

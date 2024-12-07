@@ -7,7 +7,7 @@ TXT 下载: [[变身]_失败的盗窃2——失踪的好友.docx]([变身]_失�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了王轩寻找失踪好友刘异的故事。王轩是个小偷，他和刘异的关系非常亲密，刘异教会了他一门维持生计的技能。然而，刘异突然消失，王轩数月未能与他取得联系，心情十分焦急。他在寻找的过程中，听到了关于一个四肢如狗的美少女的传言，出于好奇，他深入调查，却意外深入了一家奇怪的情趣用品店。在这里，他不仅发现了奇异的景象，还被神秘的女老板捉住，经历了一系列令人震惊和不可思议的变身与性别认同的过程。王轩逐渐变成了女性，并在这种状态中体验了全新的快感和自我认知的冲突。随着故事的发展，王轩的身份和性别的转换让他迷失自我，陷入了欲望的漩涡中。整个故事充满了关于性别、欲望和身份的探索，以及人际关系的复杂性，引发了对性别认同与自我接纳的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_失败的盗窃2——失踪的好友.docx]([变身]_失�
 | Size            | 18787 bytes                           |
 | MD5             | f0eaa2746409589b51ad9e75bea8ba87                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 性转, 情趣用品, 自我探索, 友情, 奇幻, 都市传说, 变嫁, 男娘, 调教, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_新世界_一_[.docx]([其他]_新世界_一_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含一段复杂的小说情节，主要围绕角色莉莉的冒险故事展开。故事开始于一个荒凉的垃圾场，莉莉从黑暗中爬出，身上覆盖着邪恶气息和黑色咒文。她与另一角色之间的对话和互动暗示着莉莉正在逃避某种追捕。随着情节的发展，莉莉被一名金光闪烁的少女追赶，战斗中展现出莉莉的魅惑能力与少女的强大剑术，呈现出激烈的对抗。故事涉及对身体和性别的探索，以及莉莉的身体经历了变化，她的意识在战斗中经历了重大的转变。整段情节富有视觉冲击力，带有明显的奇幻和色情色彩，涉及魅惑、变身等元素，同时也展现了一些角色内心的斗争和自我认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_新世界_一_[.docx]([其他]_新世界_一_[.docx)
 | Size            | 24514 bytes                           |
 | MD5             | 59250f9316bb4442392d1b9fe3dbcce3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 魔法, 奇幻, 斗争, 魅惑, 变嫁, 性转, 暗黑, 惊悚, 恐怖, 年龄差, 吸血鬼, 恶魔, 禁忌, 人化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

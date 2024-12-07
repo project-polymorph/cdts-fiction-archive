@@ -7,7 +7,7 @@ TXT 下载: [【万万没想到】妖精狩猎.doc](【万万没想到】妖精�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本档案中的故事围绕一个年轻的冒险家乔纳尔展开，他追寻在妖精森林内肆虐的黑暗妖精，以保护当地无辜的人们。在了解到精灵遭到威胁后，乔纳尔准备深入妖精森林并采取行动。然而，为了能在妖精和精灵的世界中生存，他需要借助一位法师的魔法伪装成女性。故事描写了乔纳尔在穿上伪装后发生的性别转换，以及他在新身份下的感受与适应经历。在变身为名为夏尔•拉文斯伍德的半精灵女孩后，乔纳尔（夏尔）开始接受新的性别与身份，以期望完成原本的任务。文本中不仅探讨了性别认同和自我探索的问题，同时通过细腻的文字描绘赛博幻想中的爱情与冒险，塑造了一个复杂的角色内心的变迁与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [【万万没想到】妖精狩猎.doc](【万万没想到】妖精�
 | Size            | 70656 bytes                           |
 | MD5             | ac9e2de4e026bd553c1c8cb7058719f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 冒险, 性别转换, 跨性别, 自我认同, 黑暗妖精, 伪装, 奇幻, 妖精森林, 女性角色, 心理探索, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

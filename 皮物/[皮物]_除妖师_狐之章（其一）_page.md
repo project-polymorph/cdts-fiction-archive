@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_除妖师_狐之章（其一）.doc]([皮物]_除妖师_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说《除妖师·狐之章（其一）》围绕大学生活与人际关系展开，讲述了两位好友林风和牧棉在新环境下的琐事与心情。在开篇中，牧棉对一个女孩的爱慕表现出忧愁，而林风则忙于在图书馆安顿自己的书籍。小说生动描绘出他们的校园生活，特别是角色之间的互动和情感交流。随着情节的推进，林风在图书馆邂逅了一位女孩，二人之间的对话既展示了青春的懵懂，也揭示了校园中潜藏的危机，如“大学有很多女生失踪案件”。故事通过细腻的文字营造出一种既温暖又带有一丝神秘氛围的校园生活，同时背景中的除妖师、狐之章等元素也暗示着更深层次的超自然主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_除妖师_狐之章（其一）.doc]([皮物]_除妖师_�
 | Size            | 32256 bytes                           |
 | MD5             | 295ba83373eeec44d807a1bc40de4598                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 青春, 超自然, 好友关系, 初恋, 情感交流, 神秘事件, 性别认同, 自我探索, 成长故事, 学院故事, 大学生活, 男女主角, 邂逅, 日常生活, 男孩与女孩的关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_小雅和妈妈.docx]([皮物]_小雅和妈妈.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以性别转换为主题的小说，讲述了小雅在一个复杂的家庭环境中成长的故事。文件开头描绘了小雅和她的父亲之间的互动，之后故事逐渐向她与母亲之间的特殊关系发展。小说中的情节涉及母亲被一个男人替代的设定，男人通过变装成小雅的母亲，与小雅发生了怜悯与性的关系。情节带有强烈的心理冲突和情感张力，小雅在面对自身与家庭变故时的复杂情感愈发明显。故事中出现了一些明确的性暗示与色情内容，描述了小雅在母亲替代身份下的错误认知与困惑。整篇小说挑战了传统的家庭情感界限，将伪娘与跨性别主题融入其中，对性别认同及人际关系进行了探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_小雅和妈妈.docx]([皮物]_小雅和妈妈.docx)
 | Size            | 20217 bytes                           |
 | MD5             | e73d5be4d962e2081d9d994ecfd5d4d7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 家庭情感, 心理冲突, 性暗示, 青少年成长, 身份认同, 情感困扰, 性别认同, 复杂家庭, 禁忌关系, 变装, 情爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

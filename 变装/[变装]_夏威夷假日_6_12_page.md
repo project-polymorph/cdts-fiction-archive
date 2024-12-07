@@ -7,7 +7,7 @@ TXT 下载: [[变装]_夏威夷假日_6_12.doc]([变装]_夏威夷假日_6_12.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《夏威夷假日612》是由Clara创作的一篇变身和跨性别相关小说，原载于网站www.tgstorytime.com。在这一章节中，主角唐妮与未婚夫米奇的订婚过程充满了喜悦和对未来的憧憬。故事通过电话交谈的方式展示了唐妮的朋友和家庭对于她转变成女性身份的支持与祝福。章节开头，唐妮与玛丽的通话中提到了婚戒，显示出她对未来生活的期待，并且在电话中她表明了对自己性别认同的坚定，称“我已经认清自己了”。小说情节围绕着唐妮如何在即将步入婚姻的决策中，逐步接受自己的身份，以及她对于穿着婚纱的憧憬。整体氛围轻松愉快，描绘出友情与爱情的温馨瞬间，同时也包含了一些关于婚礼筹备的迫切与期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_夏威夷假日_6_12.doc]([变装]_夏威夷假日_6_12.do
 | Size            | 59392 bytes                           |
 | MD5             | 4b90199574e0f4c9516ab39efac870bb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Clara                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 婚礼, 友情, 爱与支持, 性别认同, 二次元, 爱情故事, 自我探索, 家人关系, 女性形象, 幸福时刻, 婚纱抉择, 电话交谈, 转变, 期待未来                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

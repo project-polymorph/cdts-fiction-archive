@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鹰枭乱第二部（五发芽）_(2).docx]([改造]_鹰�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说属于变身类型，讲述了主角赵阳光的性别认同和身体变化的复杂过程。情节围绕着他在经历了一次不愉快的遭遇后，逐渐意识到自己的身体变化和心理冲突。故事通过赵阳光在卫生间的自我检查来揭示他对变身后的身体的震惊和困惑，同时伴随有内心的挣扎和羞愧。文中提到了美容技术的变化让他身体的毛发几乎消失，肌肤变得光滑，这些情况让他面临新的身份认同问题。此外，故事中也展现了他在夜总会的挣扎，以及与警方同事的互动，探探出他的工作压力和性别转变带来的困扰。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鹰枭乱第二部（五发芽）_(2).docx]([改造]_鹰�
 | Size            | 17648 bytes                           |
 | MD5             | bd34bebc6549b5d669b53c895cc421ea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 自我探索, 性别认同, 心理冲突, 性转, 夜总会, 警察, 羞耻感, 身体变化, 医美, 都市故事, 性侵犯, 强奸, NTR, 心理挫折, 校园生活, 社交压力, 情感困惑, 青春迷茫, 男性角色, 女性化, 美丽幻觉                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

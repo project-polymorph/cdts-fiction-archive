@@ -7,7 +7,7 @@ TXT 下载: [[变性]_觉醒_第二部分（共两部分）.docx]([变性]_觉�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别小说系列的一部分，论述了一名角色比乌拉在变身后的生活适应过程。在第二部分中，故事集中于比乌拉回到玛吉的家中，准备开始新的工作。文件详细描绘了比乌拉性别转换后的生活状态与心理感受，并探讨了与玛吉之间的互动。这段文字以仲夏的背景开场，展示了比乌拉在性别角色转换过程中面临的社会与心理挑战：他的外貌变化与内心认同之间的冲突，以及生活在贫民区所面临的种种困难，比如环境的恶劣、社交的隔离，以及对未来的恐惧。在这段对话中，玛吉对比乌拉的变身感到震惊，同时也掺杂着一丝内疚，反映出角色之间复杂的心理动态。整体上，这个故事探讨了性别认同与社会接受之间的深刻问题，从而让读者思考身份与社会角色的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_觉醒_第二部分（共两部分）.docx]([变性]_觉�
 | Size            | 52518 bytes                           |
 | MD5             | be98b920091ec1b0d9033de73b4dfc51                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 性别认同, 社会接受, 自我探索, 心理冲突, 都市生活, 贫困, 身份危机, 雌堕, TSF, 逆转, 情感纠葛, 生活在边缘, 情感治愈                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

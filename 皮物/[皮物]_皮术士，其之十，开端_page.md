@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮术士，其之十，开端.docx]([皮物]_皮术士，
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《皮物：皮术士，其之十，开端》的章节之一，讲述了一个异教徒少年昆格与主教之间的互动以及他们对古神的信仰。故事开篇，主教与昆格的圣骑士随行，准备回家，却发现昆格的村庄被摧毁，只留下废墟，而没有任何人的尸体。昆格对村庄的毁灭感到震惊和悲痛，迫切希望了解发生了什么。在主教的祈祷中，恶魔追逐着女子的画面展现在他们眼前，暗示着背后可能的隐藏危机。之后，故事转向剑湾这个港口城市，描绘了各种角色的生活与交互，特别是主角苏翎在这个城市中的探索和对身份的思考。该篇章的内容涉及性别转变、身份认同、神话与宗教信仰等主题，展示了复杂的人物关系和情节发展的潜力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮术士，其之十，开端.docx]([皮物]_皮术士，
 | Size            | 22340 bytes                           |
 | MD5             | 6118edea54f5d4d27e04e12e27be2f92                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 宗教信仰, 自我认同, 冒险, 奇幻, 古神, 异界, 英雄, 情感纠葛, 神魔对抗, 身份探索, 复杂人物关系, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

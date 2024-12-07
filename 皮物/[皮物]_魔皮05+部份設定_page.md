@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔皮05+部份設定.docx]([皮物]_魔皮05+部份設定
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一部围绕性别转换与情感纠葛展开的小说，整体呈现了一个关于性别认同、身体变换与人际关系复杂性的故事。故事开篇描述了一架私人飞机降落，两位女子走下来，其中一位金发少女有着诱人的外貌，而她的秘密秘书在一旁陪伴。之后，转入另一位角色的自述，陈明得到了一个新身体，并与一名叫怡如的女子发生了亲密关系。对话中充满了性感的玩弄与暗示，陈明对自己的新身体表现出极大的享受，怡如则感受到了身体的敏感与快感。随着故事的发展，角色们的性别与身份不断变化，皮衣与药丸成为了关键元素，暗示了更深层次的变身与身体控制的主题。该小说触及了强烈的感官体验，以及角色在性别与自我认同上的挣扎与探索，尤其是在进行多重人格的转换与身份认同的戏剧性部分，带有一定的成人向情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔皮05+部份設定.docx]([皮物]_魔皮05+部份設定
 | Size            | 22099 bytes                           |
 | MD5             | 5ac0396c1f56bc9ada7894c956b1ad95                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 伪娘, 跨性别, 角色扮演, 网络小说, 成人内容, 身体交换, 情感纠葛, 幻觉与现实, 自我认同探索, 多重人格, 性幻想情节, 奇幻元素, 隐秘关系, 吸引与诱惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

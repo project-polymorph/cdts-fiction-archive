@@ -7,7 +7,7 @@ TXT 下载: [[改造]_父親的遺產_1-5回_(2).docx]([改造]_父親的遺產_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《父亲的遗产》的第一回到第五回，讲述了一名少年在父亲去世后，意外继承了一家美容诊所及巨额遗产的故事。小说围绕主人公范文泰展开，他原本是一个无所事事的不良少年，却因父亲的遗产而改变了人生。随着故事的发展，范文泰发现自己继承的资金和诊所背后隐藏着更为复杂的秘密，包括灵魂买卖及与恶魔的契约。在获得巨额财富的同时，他也面临着未知的危险与挑战。在小说中，作者对白纸四的文字运用展现了主人公心中的纠结与对未来的迷茫，由一段段对话与内心独白传达出角色的心理变化和环境压力。该文同时涉及性别认同与自我探索等主题，蕴含了丰富的情节与暗示，适合对性转、变身等题材感兴趣的读者。值得注意的是，文中部分情节可能包含敏感或限制级内容，请谨慎阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_父親的遺產_1-5回_(2).docx]([改造]_父親的遺產_
 | Size            | 63917 bytes                           |
 | MD5             | 75dafab84c1d40d71a3d6af249b21cf7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 白纸四                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 灵魂交易, 父亲遗产, 美容诊所, 金钱与命运, 青少年成长, 自我探索, 角色心路历程, 契约关系, 性别认同, 恶魔契约, 情感纠结, 生活转变, 未知领域                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_意外的生活（二）.docx]([变装]_意外的生活（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描写性别转换与跨性别者日常生活的小说。故事的主人公贝丝在朋友麦克的鼓励下，尝试穿着女性装扮出门。情节围绕贝丝的内心挣扎与自我认同展开，展现了她在穿着超短裙、丝袜和高跟鞋驾驶的过程中感受到的紧张与兴奋。随着故事的推进，贝丝逐渐适应她的新形象，并在与麦克的互动中体验到不同的社会目光与自我认同的探索。文件中多次提到贝丝对自己装扮的反应，以及她对外部环境的观察，体现了性别认同的复杂性和多样性。这篇小说不仅描绘了贝丝的外在变化，还探讨了她在这一过程中对自我的认知与情感的细腻变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_意外的生活（二）.docx]([变装]_意外的生活（
 | Size            | 29774 bytes                           |
 | MD5             | 55da83ead952fd4e8fcd62791ef5f7a5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 角色扮演, 自我认同, 日常生活, 变身, 情感探索, 社会体验, 超短裙, 丝袜, 同性恋, 女性视角, 穿越, 美学, 情感冲突, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

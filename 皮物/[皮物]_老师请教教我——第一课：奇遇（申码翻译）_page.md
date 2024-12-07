@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_老师请教教我——第一课：奇遇（申码翻译�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《老师请教教我——第一课：奇遇》，内容主要围绕大学生金吉田和其生物教授大川伊美之间的奇特经历展开。故事开篇介绍金吉田为了避免和过于粘人的女友结衣相处，偶然闯入一间陌生的公寓，并躲进衣柜。随后，金吉田惊悉大川伊美老师在衣柜里准备进行一些令人震惊的行为。随着剧情发展，金吉田发现大川伊美与他想象的完全不同，原来她的真实身份隐藏了更多的秘密。文件详细描绘了角色之间的心理冲突与复杂关系，涉及到性别变换与自我探寻的主题。该内容可能含有一些成人相关的内容，适合进行性别与社会研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_老师请教教我——第一课：奇遇（申码翻译�
 | Size            | 61440 bytes                           |
 | MD5             | b0a9020238703c72c2fe8bf035d7d452                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 教师与学生, 爱情与性, 自我探索, 伪娘, さ, 色情内容, 奇幻, 青春校园, 人际关系, 禁忌情感, 成年人与未成年人的关系, 人皮, 性别认同, 生物工程                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

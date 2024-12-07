@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮灭_第一夜.docx]([皮物]_皮灭_第一夜.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《皮灭 第一夜》，由作者Rockx3创作，内容围绕一群年轻人在无人岛上的度假经历展开。故事情节设定在一个豪华洋馆内，外面则是狂风暴雨的恶劣天气。故事的主要人物是一对兄妹鸣与月，他们邀请了几位好友前来这座无人岛进行暑假度假。在洋馆的客厅中，聚集着八位年轻学生，彼此之间的闲聊与互动逐渐拉近了他们的距离。这些角色不仅包括兄妹二人，还有其他几位男生和女生，其中不乏俊男美女。随着晚餐的准备和用餐过程，氛围逐渐热烈起来，大家对于食物的期待与满意也成为了文中一个重要的互动点。文件整体呈现出一种轻松愉快的度假场景，并暗示出人物之间可能的发展关系与情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮灭_第一夜.docx]([皮物]_皮灭_第一夜.docx)
 | Size            | 28647 bytes                           |
 | MD5             | a5af99115287293fcc0dbe95562dfb39                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rockx3                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 男娘, 变身, 跨性别, 青年, 度假, 洋馆, 二次元, 校园, 交友, 爱恋, 兄妹, 豪门, 美食, 雨夜, 神秘岛屿                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

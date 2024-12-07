@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_造星背后的那些事（短篇）.doc]([皮物]_造星�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+短篇小说《造星背后的那些事儿》围绕一位名叫夏曼的少女与她的干爹关系展开。故事从夏曼的内心冲突开始，表现出她对于自己身处娱乐圈的无奈与困惑。在与干爹谷筱的互动中，展现了夏曼对爱的渴望与对现实的反思，尤其是在对成功与自主权的追求上引发深思。同时，故事涉及到了她在拍摄过程中的情感交流与专业成长，以及对导演忍耐的期许。文字里还带有对影视圈潜规则的隐晦批评，尤其提到干爹的角色以及年轻女星的处境，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[皮物]_造星背后的那些事（短篇）.doc]([皮物]_造星�
 | Format          | Microsoft Word Document                               |
 | Size            | 33792 bytes                           |
 | MD5             | c135d54f138beed481ef2ecb645f6cb9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 明星, 干爹, 剧情, 自我探索, 情感纠葛, 娱乐圈, 女性视角, 关系复杂, 病态美学, 掩饰与真实, 成长, 压迫与反抗, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

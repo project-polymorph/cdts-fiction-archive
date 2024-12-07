@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【siro】[改编]潜入失败的女孩？.doc]([改造]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为siro改编的潜入失败的女孩相关小说，原作来源于Pixiv，由二刀流创作。这家以女性信徒为主的神秘宗教组织"梅利亚教团"成为了故事的中心，主要讲述了一名帝国特种部队的卧底专家在潜入任务中使用性转换魔法的经历。故事情节展示了角色从男性变成女性的过程，并深入探讨了角色的自我认知和心理变化。潜入完成后，角色发现了教会的邪恶行径，参与了一场仪式，目睹了一个年轻少女被涉及色欲的祭祀仪式。随着情节的发展，角色在完成任务返回时却被薰香侵蚀，并感受到身体的快感与迷醉。最终，角色面临未知的困境，意识逐渐模糊。文件中包含大量关于魔法、性别和欲望的描写，深入探讨了跨性别与性别认同等复杂议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【siro】[改编]潜入失败的女孩？.doc]([改造]_�
 | Size            | 57856 bytes                           |
 | MD5             | e3f488b5beee95d97f496ef7da367be9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | しろ（siro）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别小说, 魔法, 信仰, 潜入任务, 暗黑宗教, 性别认知, 欲望控制, 仪式, 神秘组织, 性感诱惑, 自我探索, 性别转变, 女主角, 调教                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

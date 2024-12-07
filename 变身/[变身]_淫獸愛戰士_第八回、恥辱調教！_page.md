@@ -7,7 +7,7 @@ TXT 下载: [[变身]_淫獸愛戰士_第八回、恥辱調教！.docx]([变身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件文档为《淫兽爱战士》第八回，主要讲述了名为夏木结子的角色背景和其转变过程。结子原本为一位传统的日本人妻，在一次意外中被外星殖民军俘获后，其身体遭到改造，变为淫兽。通过与其女儿留下的变身手环结合，结子得以化身为名为『粉红甜心』的女战士。文中细致描绘了变身后的外貌变化及其战斗与生理要求，诸如在变身期间需要吸食男性精气以维持能量；同时也描绘了多个角色之间的关系，包括同伴与敌人之间的互动。这些情节不仅探讨了性别认同和身体变迁的主题，还包含了华丽的装扮和奇幻的战斗元素。文中的角色深度、情节发展以及丰富的设定为科研者提供了多样的分析途径，尤其在性别流动与性爱文化的交汇点上，而整体风格则偏向成人向作品，有着明显的限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_淫獸愛戰士_第八回、恥辱調教！.docx]([变身]
 | Size            | 36940 bytes                           |
 | MD5             | 5a051718bdb32d61b27e26147f90263e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 淫兽, 女战士, 性别认同, 外星殖民, 调教, 强奸, 纯爱, 变装, 妖化, 奇幻, 科技, 肢体改造, 男娘, 女神战士, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

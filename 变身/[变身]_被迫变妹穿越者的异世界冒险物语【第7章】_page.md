@@ -7,7 +7,7 @@ TXT 下载: [[变身]_被迫变妹穿越者的异世界冒险物语【第7章】
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位名为库亚的角色在异世界的变身冒险故事。故事的第七章中，库亚在经历了一个充满惊悚和兴奋的变身过程后，醒来发现自己已经变成了女性。她在陌生的身体与新身份之间挣扎，既要适应新的容貌，又要面对这变化带来的情感困扰和身体敏感度的提升。同时，故事中还描绘了异世界环境的变化以及随着邪神的影响，社会道德的崩溃和女性冒险者面临的新的危险。库亚在冒险公会中了解到，邪神的信徒们正在计划唤醒可以引发更大灾难的女神，她被卷入了一场关系到生死存亡的阴谋之中。她在道具店中与老板赫温托的互动中，意识到了自己的处境以及需要更强的力量才能扭转现状，但与此同时，赫温托的诱惑又让她陷入了更大的危险之中。在这段故事中，性别角色的转换引发的自我认知和社会摆布相互交织，营造出紧张而复杂的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_被迫变妹穿越者的异世界冒险物语【第7章】
 | Size            | 37376 bytes                           |
 | MD5             | 635dc44ee5d59b0d3d6195d1cbd72574                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 异世界冒险, 性别认同, 冒险公会, 邪神, 催眠, 自我探索, 性敏感度, 女性视角, 心灵斗争, 冒险者, 魔法, 欲望与羞耻, 女性化, 自我认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

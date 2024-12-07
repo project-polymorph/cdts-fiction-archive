@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】无路可返.doc]([变性]_【翻译】无路�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一本关于性别变迁与认同的小说，名为《无路可返》，原著作者为KarenH，翻译者为魔之天涯。故事的开头描绘了一位男性角色入住乡村旅店的场景，旅馆的环境独特且充满女性气息，这位角色在入住期间与一位老太太发生了误会，被错认为是新婚的客户。随着情节的发展，角色在睡觉时意外经历了身体的转变，醒来后发现自己变成女性，并充满了对自己身体变化的迷茫与惊恐。在与老太太的交流中，逐渐陷入了被迫接受新身份的境地。文中涉及了性别认同、自我探索以及他者对个人选择的影响等主题，配以一些涉及性体验的描述，展现了角色在接受自己新身份过程中的心理挣扎和内心冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】无路可返.doc]([变性]_【翻译】无路�
 | Size            | 76800 bytes                           |
 | MD5             | aa8a9300e897904227ca7056c4c19a4f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别变换, 变性, 跨性别, 自我认同, 性别认同, 维多利亚时代, 性体验, 梦境, 心理挣扎, 女性形象, 性别角色, 宿命, 社会期待, 身份转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

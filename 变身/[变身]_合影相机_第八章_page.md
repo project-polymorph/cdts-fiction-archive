@@ -7,7 +7,9 @@ TXT 下载: [[变身]_合影相机_第八章.doc]([变身]_合影相机_第八�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档的标题为《变身 合影相机 第八章》，内容围绕两名主角章山与黎司的日常对话与互动展开。故事开头描绘了章山沉迷于视频游戏，而黎司因手部受伤无法参与激烈游戏的情景。在随后的对话中，两人讨论了关于游戏角色的外观设计，其中章山对女性角色的刻板印象表示不满，而黎司则表达了他对"巨乳"角色的偏爱。
+
+随着情节的发展，二人目睹了一位打扮时尚的红裙美女，展现出对她外貌的关注和调侃。章山因好奇而想拍摄周围的景象，但不小心让黎司经历了一次意外的变身，黎司发现自己穿上了女性服饰并感受到了一种不寻常的经历，对自己的新形象感到困惑又欣喜。此时，两人间继续保持着轻松幽默的对话，争论与玩笑相互交织，剧情中充满了对性别认同与自我探索的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_合影相机_第八章.doc]([变身]_合影相机_第八�
 | Size            | 41984 bytes                           |
 | MD5             | fe6c9ca65a0eef565923beef83e7966a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 伪娘, 互动对话, 日常生活, 自我探索, 性别认同, 游戏文化, 幽默, 二次元, 红裙美女, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

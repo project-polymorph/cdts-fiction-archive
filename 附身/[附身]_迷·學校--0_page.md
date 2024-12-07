@@ -7,7 +7,7 @@ TXT 下载: [[附身]_迷·學校--0.docx]([附身]_迷·學校--0.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一位男学生在学校生活中遭遇的搞笑而又难堪的故事。故事的开头描述了主人公在课堂上的无聊情绪，他对班上的女同学们充满了幻想和调侃。故事中提到了一位班主任陈老师，她是个高傲且严厉的女人，经常对学生发火，引起了男学生的怨恨和反抗。在一次冲突后，主人公因为无理指控面临惩罚，感到非常苦恼。这个故事不久后发生了转折，主人公在学校后山的神秘洞穴中经历了一次奇幻的遭遇，洞穴中有张扬的装饰，和一条神秘的金色蛇。最终他带着对自己命运和未来的疑虑回到现实世界，留下一段更深的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_迷·學校--0.docx]([附身]_迷·學校--0.docx)
 | Size            | 18524 bytes                           |
 | MD5             | bc1d886cea0673742c070feb348f8e9c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园生活, 奇幻冒险, 情感纠葛, 青春期烦恼, 教室文化, 自我探索, 权力斗争, 幻想, 成年人, 学术研究, 兄弟情谊, 神秘洞穴, 情感冲突, 恶搞                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【明日方舟】华法林的魔法.doc]([变身]_【明�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于《明日方舟》中角色华法林的变身故事，内容以第一人称的方式描述了叶华博士在万圣节期间，因一套神秘衣物而经历性别转换的过程。在故事初始，叶华博士接收了一套特别设计的衣物，并决定尝试穿上。在穿衣的过程中，叶华博士的外表和身体特征逐渐转变为女性，甚至面容变得与华法林相似，而他的意识和性别认同也伴随身体上的变化而发生改变。随着故事的发展，叶华博士在变身后与华法林之间发生了亲密关系，两者之间的情感和冲突不断升温，最终导致了相互吸引和情欲的交织。该文本涉及跨性别、性别认同及自我探索等主题，同时也包含了不少成人向描写，适合于相关学术研究与讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【明日方舟】华法林的魔法.doc]([变身]_【明�
 | Size            | 33792 bytes                           |
 | MD5             | e496ae450681baf7105d18b744851e43                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 明日方舟, 华法林, 变身, 性别转换, 跨性别, 自我探索, 性别认同, 成人向, 伪娘, 魔法, 情欲, 变装, TS, 二次元, 变嫁, 少女, 同性恋, 幻想, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_荆棘王冠（01）望多多回复意见.docx]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《荆棘王冠》是一部围绕性别转换与恋爱的变身小说，设定在1501年的冬至。故事讲述了一名巡逻军士在魔导器仓库中所经历的情感与性体验。文本通过生动的描写展现了角色间复杂的感情纠葛以及性别认同的探索。在这一片阴暗且冰冷的环境中，主角施密特与骑士少女伊芙之间逐渐展开的关系，充满挑逗与欲望的张力。随着两人经历亲密行为的深入，少女面临的羞涩与内心深处的挣扎被细腻刻画，情感的发展在男性角色的主动和女性角色的被动中交织，形成了一种复杂的性别动态与权力游戏。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_荆棘王冠（01）望多多回复意见.docx]([变身]_�
 | Size            | 22569 bytes                           |
 | MD5             | 63bef2d57315a8fa2cd83e85434c5b60                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 阴影中的女武神, 魔导器, 情欲, 军校, 少女, 欲望, 感官刺激, 自我探索, 权力动态, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

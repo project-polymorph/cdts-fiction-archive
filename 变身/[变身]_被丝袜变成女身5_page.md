@@ -7,7 +7,7 @@ TXT 下载: [[变身]_被丝袜变成女身5.docx]([变身]_被丝袜变成女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了角色李方在家中进行女装制作与穿着的过程。起初，李方通过测量自己的三围了解到身体发生了变化，经历了一段内心挣扎与期待的心理历程后，他决定尝试为自己缝制一件女装。制作过程中，李方严格按照自己的身体比例制作一件合身的连衣裙，并在过程中感受到久违的幸福与期待。随着制作完成，他准备穿上女装，并详细描绘了从男士内裤转变为女装内衣的过程，内心的羞愧感与兴奋交织。最终，在他准备完全换装时，室友宵锦突然而至，李方面临着被发现的危机。整个文件在探讨性别认同和自我探索的同时，细腻地呈现了李方内心的复杂情感及对女装的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_被丝袜变成女身5.docx]([变身]_被丝袜变成女�
 | Size            | 36674 bytes                           |
 | MD5             | 881518431f6ae1b73ddfa5d0b76c2d03                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 女装, 跨性别, 自我探索, 性别认同, 情趣内衣, 内心挣扎, 幸福感, 羞愧, 危机情境, 裤装, 连衣裙制作, 心理效应, 性别转换, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

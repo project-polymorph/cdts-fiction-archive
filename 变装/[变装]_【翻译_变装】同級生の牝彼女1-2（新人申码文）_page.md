@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译_变装】同級生の牝彼女1-2（新人申码
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一本伪娘小说的翻译，原书为日亚发行，作者为滝野鏡一。小说讲述了一个名叫静树的高一男生，他在校园中遭遇霸凌后，被同班同学凪野所救，从此对凪野产生了深厚的爱意。静树沉溺于女装的幻想，梦想成为同性男生的"女朋友"。在一次偶然的机会下，静树发现同班的另一个同学园宫也是伪娘，于是他鼓起勇气向凪野告白，并向其奉献了自己的肉体。他们两人最终确立了恋人关系，并在小说结尾共同举行了婚礼。整个故事以强烈的肉戏为主，情节较为简单，主要围绕角色之间的私密关系展开。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译_变装】同級生の牝彼女1-2（新人申码
 | Size            | 55296 bytes                           |
 | MD5             | 0076c46261bd79ce369c31df7dd7a517                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 滝野鏡一                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 强烈肉戏, 校园爱情, 跨性别, 恋爱, 男生女装, 青春故事, 性别探索, 婚礼情节, 二次元, 禁忌恋情, 同性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_邪淫裸尸魔法阵中的小矮人（初章+第一章）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于召换恶魔的黑魔术仪式的小说片段，内容涉及到一位年轻男子在昏暗房间中，举行召唤恶魔的仪式。他使用了一种名为恶魔的黑魔术，企图实现自己内心深处的愿望。故事描写了一个充满诡异氛围的场景——墙壁上覆盖着镜子，房间中央是一个含有鲜血的魔法阵，仪式中的泰迪熊玩偶变成了恐怖的小矮人。在仪式过程中，男子许下了愿望并以身体部分作为交换，随后小矮人展现了它恐怖的一面。整个故事渗透着对愿望与代价的深刻思考，同时透过暗黑的气氛与情节展现了对欲望的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_邪淫裸尸魔法阵中的小矮人（初章+第一章）
 | Size            | 28438 bytes                           |
 | MD5             | 2e6a10880804c99b1c038d0de0614bd8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RERE                               |
+| Region          | 未知                               |
+| Date            | 2012-10-10                                 |
+| Tags            | 恶魔, 黑魔术, 召唤仪式, 血腥, 欲望, 代价, 恐怖, 幻想, 自我探索, 生死契约, 超自然, 奇幻, 惊悚, 都市传说, 心理, 悬疑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

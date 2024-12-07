@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《巫师与宠物少女》第三篇.doc]([变身]_《巫�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《巫师与宠物少女》第三篇呈现了女主角雪拉•F•谢菲尔德在成为巫师学徒后，与巫师乔治•卫斯理进行的一场实验。雪拉自愿放弃人身自由，成为卫斯理的实验品，以期通过一种新的魔法秘术获得施法能力。文中详细描绘了雪拉的转变过程及相关的身心体验。故事围绕着雪拉的内心挣扎和对新身份的接受展开；她从一名普通女孩转变为拥有强大魔法能力的美丽女性。文本详细描述了体验过程中的各种实验和痛苦，以及主人和从者之间的权力关系。这部作品不仅涉及到性别转换，还融合了魔法和自我认同的主题。文中充满了性暗示及成人情节，比如剥衣、束缚和生理改造等情节，带有一定的成人内容。整体上，这是一部围绕巫师世界和性别认同的奇幻小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《巫师与宠物少女》第三篇.doc]([变身]_《巫�
 | Size            | 209920 bytes                           |
 | MD5             | 84ff9ca4653197648d9733e1a8402c16                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 巫师, 变身小说, 跨性别, 成人内容, 魔法, 性别认同, 自我探索, 性转, 魔法学院, 性幻想, 实验, 权力关系, 女性主义, 奇幻, 角色转变, 奴隶项圈, 魔法实验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

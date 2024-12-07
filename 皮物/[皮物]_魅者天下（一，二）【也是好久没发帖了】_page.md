@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_魅者天下（一，二）【也是好久没发帖了】.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《魅者天下（一，二）》，是一本围绕着性别转换、伪娘和跨性别主题的小说。在故事中，主人公夏彩娘是一个生活在一个与传统性别角色截然不同的世界里，她的家族以女性形象展示魅力。在一开始的情节中，夏彩娘偷偷准备了一道名为"叫花鸡"的美食，试图引起她未婚妻、九公主姬如月的注意。夏彩娘在这个过程中表现出娇羞和乖巧的形象，但同时也在心中默默计划着各种策略，以博取公主的青睐。
+
+故事情节包含了角色的伪装与真实自我的矛盾，展现了在这个世界中女性的魅力与吸引力。文中描绘了夏彩娘精致的妆容过程，突出她的美丽与影响力，反映出在这个社会中外表的重要性。同时，情节中还有温柔与激情的互动，揭示出角色之间微妙的感情变化。通过细致的描写，例如“吃~吃完啦？”和“唇对唇互相索取着对方的津液”，展示了角色间复杂而又亲密的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_魅者天下（一，二）【也是好久没发帖了】.
 | Size            | 35506 bytes                           |
 | MD5             | 188b2c34d03d9809ad5ce0a430b389b2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 小说, 女性魅力, 自我认同, 爱情, 变装, 美食, 清冷公主, 情感纠葛, 魔法幻想, 次元恋爱, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

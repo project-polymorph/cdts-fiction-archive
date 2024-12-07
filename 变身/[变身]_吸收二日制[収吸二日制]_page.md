@@ -7,7 +7,7 @@ TXT 下载: [[变身]_吸收二日制[収吸二日制].doc]([变身]_吸收二�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部以性转换与荤段子为主题的变身小说，讲述了大学四年级学生山冈伸昭的故事。他迷恋一名高中女生仓中辽香，并通过一种名为‘融合之药’的药物，将女生的身体吸收至自己的体内，从而实现性别转换的能力。小说开头描绘了伸昭在一个肮脏的公寓中进行自慰时的情景，随后他设法通过药物与目标女性融合，逐渐吸收了多名女性，并自由切换男女性别，整部作品以恐怖、黑色幽默和性幻想为基调，探讨自我认同与欲望之间的冲突。小说内容较为露骨，包含了许多不适宜的情节和细节，特定读者群体能够理解和欣赏其中的暗黑幽默，而其流露的怪异及悲剧色彩则为其增添了几分诡谲氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_吸收二日制[収吸二日制].doc]([变身]_吸收二�
 | Size            | 81920 bytes                           |
 | MD5             | 81412f7876572f0526bbd62118fbcbe9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | onaona                               |
+| Region          | 未知                               |
+| Date            | 2014-03-23                                 |
+| Tags            | 变身, 性转, 催眠, 心灵控制, 扶他, 黑色幽默, 自我认同, 女性视角, 禁忌恋, 暗黑幻想, NTR, 堕落, 少女, 校园, 伦理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《夫尊天下》第13章_幻想.doc]([改造]_《夫尊�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章围绕角色田夏与古月乾之间的情感纠葛展开。故事一开始，田夏感到了一种幻觉，在心中构想了穿着红袍的古月嫁给他的场景，然而古月对此表现冷漠。后面，田夏利用信息优势，试图转移话题并引导古月思考家族的未来。随着情节的发展，古月的内心充满了对田夏的感激，逐渐被引入一种幻境，田夏在其中与古月共享了一段美好的时光，描绘了他们之间深厚的情感和古月对田夏的承诺。此过程中，古月展现出强烈的占有欲，甚至在幻想中对田夏进行了大胆而强势的亲吻，体现了典型的霸道总裁形象。最终，田夏从幻境中醒来，他的内心充满了对两人未来关系的思考与期待。该章节的内容探讨了性别、爱情以及亲密关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《夫尊天下》第13章_幻想.doc]([改造]_《夫尊�
 | Size            | 38400 bytes                           |
 | MD5             | fd82d60947ea82d1b58f9ed52286dcf8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 霸道总裁, 幻想, 情感纠葛, 自我认知, 精神攻击, 深情对望, 幻觉, 爱情生活, 亲密关系, 男男情, 强制百合, 虐恋, 自我探索, 性别认同, 非人化, 幻想情节, 二次元文化, 虚拟现实, 情感承诺                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

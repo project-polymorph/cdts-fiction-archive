@@ -7,7 +7,7 @@ TXT 下载: [[变身]_愿望的代价前传.doc]([变身]_愿望的代价前传.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《愿望的代价前传》的文档，故事发生在波特国，一片常年如春的地方。主角露亚是一名巡林员，正处于一个关于世界即将毁灭的紧张情节中。故事开始时，露亚正在与他的伙伴阿鹿庆祝放纵的时光，尽管外界的危机似乎与他们的放任态度无关。随着魔兽卡特修的出现，其他国家逐渐解体，露亚的生活开始发生巨变。他在一次偶然的遇见中，发现了一个昏迷的金发女精灵，随即决定对她展开一系列荒唐的救援行为，表现出他既好色又无意放纵的性格。此外，文中还夹杂着露亚和夕林之间幽默而轻松的互动，展现了露亚对生活冲突的无奈与挣扎。整体故事兼具奇幻和幽默的元素，探索了人性、性别与自我认同的主题，适合对多元性别与性转文化感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_愿望的代价前传.doc]([变身]_愿望的代价前传.
 | Size            | 74752 bytes                           |
 | MD5             | aae0238a55aa382954c5850b70a97508                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法, 异世界, 性别认同, 勇者, 宿命, 自我探索, 青春, 搞笑, 友情, 魔兽, 冒险, 梦幻, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

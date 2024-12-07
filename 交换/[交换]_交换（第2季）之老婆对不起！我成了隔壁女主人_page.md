@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交换（第2季）之老婆对不起！我成了隔壁女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本故事讲述了一名名叫梁先生的银行职员，他内心渴望有个女儿，尽管他已有一名儿子军军。在与邻居潘静儿及她的女儿妮妮的互动中，他逐渐对妮妮产生了深厚的感情，并希望有一个女儿形象的孩子。故事揭示了梁先生内心的不满和对他妻子小洁的失望，因而渴望与一位理想的女性的生活。同时，梁先生在泰国旅游期间遇到一个神秘的老太婆，老太婆向他推销了一只象征愿望的木偶，并暗示它能实现他的愿望。然而，在返回后，他通过礼物使妮妮开心，却也同时意识到自己对潘静儿的羡慕与嫉妒。故事随着梁先生对性别认同和婚姻的反思而展开，充满了情感的纠葛和人际关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交换（第2季）之老婆对不起！我成了隔壁女
 | Size            | 19789 bytes                           |
 | MD5             | c86705360d7099cb7dee8151e8f08e5b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-01-01                                 |
+| Tags            | 性别认同, 幻想, 跨性别, 家庭关系, 嫉妒, 心理戏剧, 邻居关系, 幼儿园, 父子关系, 母女关系, 情感纠葛, 人生理想, 男性角色, 女性角色, 欲望冲突, 心理探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

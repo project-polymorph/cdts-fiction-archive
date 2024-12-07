@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_吴天和陈雪_中.docx]([皮物]_吴天和陈雪_中.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇描绘吴天与陈雪之间互动的性转小说片段，主要讲述了吴天对陈雪的渴望与幻想。故事开始于陈雪进入吴天的浴室洗澡，吴天则被她的身姿和浴室内的音响效果迷住，情不自禁地想要靠近。在一系列的对话和肢体接触中，吴天与陈雪之间的默契和情感逐渐升温，陈雪坦白自己对吴天的喜欢。小说描写了他们在情感上的挣扎与欲望，最终两人陷入肉体和情感的交织中。文本详细描述了角色的心理状态和肢体语言，如“吴天几乎是呢喃着盯着陈雪的眼睛”以及“她的眼神中满是水汽”等，展现出两位主角之间复杂的情感纠葛和对彼此身体的渴求。尽管情节中涉及敏感内容，但整个故事围绕性别认同与情感探索展开，既有感官刺激，又不失对角色心灵的刻画。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_吴天和陈雪_中.docx]([皮物]_吴天和陈雪_中.doc
 | Size            | 20078 bytes                           |
 | MD5             | e04b7686773401559e5b29bf07f33a3c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 欲望, 青春, 情感, 变身, 肉体, 强烈, 幻想, 自我探索, 浴室, 青涩初恋, 女性视角, 时代背景, 禁忌关系, 情欲戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

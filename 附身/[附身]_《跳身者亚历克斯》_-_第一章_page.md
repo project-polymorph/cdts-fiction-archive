@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《跳身者亚历克斯》_-_第一章.doc]([附身]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《跳身者亚历克斯》的性转变身小说的第一章，讲述了一位名叫亚历克斯的年轻男孩生活中的奇幻经历。故事开始于亚历克斯在学校的几何课上，描述了对其老师莱恩的钦慕与迷恋。当莱恩在课堂上以一身性感服装出现并表现得异常时，亚历克斯感到困惑与兴奋。随着故事的发展，他发现莱恩的真实身份其实是另一个名为斯坦利的人，斯坦利通过一种名为“身体跳跃”的能力附身于莱恩的身体中。此后，斯坦利向亚历克斯揭示了身体跳跃者的能力和秘密，其中包含了一些带有色情的描写，尤其是与性行为相关的细节。整章通过亚历克斯的视角探讨了性别认同、自我发现与欲望等主题，展现了一种奇特而复杂的身体与身份转换的经历。文中不乏对身体和性行为的直接描写，使得此资料适合相关主题的研究和探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《跳身者亚历克斯》_-_第一章.doc]([附身]_《�
 | Size            | 50176 bytes                           |
 | MD5             | ab6c4798d06cce7c5ad95e77c2e817fd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Tobyredone                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 身体跳跃, 自我认同, 青春期困惑, 师生恋, 奇幻, 欲望, 性探索, 校园小说, 强烈视觉冲击, 性别流动, 二次元, 男主角, 色情元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

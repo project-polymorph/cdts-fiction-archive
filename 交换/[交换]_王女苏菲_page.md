@@ -7,7 +7,7 @@ TXT 下载: [[交换]_王女苏菲.docx]([交换]_王女苏菲.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个关于王女苏菲与大臣巴鲁曼之间的身体交换故事。王女苏菲以她美丽的外表和魅力逼迫大臣巴鲁曼接受她的求婚，提出通过魔法师的力量将两人的身体进行交换。苏菲对巴鲁曼的威胁与操控体现在她对他身体自由的限制和心理上的操控，甚至让他接受自己失去公主身份的事实。文中细致描绘了苏菲公主的调戏、巴鲁曼的无奈与愤怒，反映了两个角色之间复杂微妙的关系。小说融合了魔法、权力斗争与性别反转的主题，是一次对身份和性别认同的深刻探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_王女苏菲.docx]([交换]_王女苏菲.docx)
 | Size            | 16921 bytes                           |
 | MD5             | b5b192171503117511500466ca807543                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 魔法, 身体交换, 权力斗争, 伪娘, 强制, 调戏, 自我认知, 奇幻, 反转, 性别认同, 情感操控, 禁忌, 阴暗面, 王室, 心理操控                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

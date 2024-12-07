@@ -7,7 +7,7 @@ TXT 下载: [[交换]_越陷越深第三章.docx]([交换]_越陷越深第三章
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一对情侣在一次身体交换后的经历，他们在探索性别与身体感觉之间的关系。故事的核心围绕了他们进行变装游戏的情节，展示了主角被女友迫使穿上女性服装和进行化妆的过程。他们在家中享受各种技术带来的性别转换体验，使用了许多先进的变装工具。这些工具的功效提升了他们的性体验，使他们在性别角色转换中体验到了不同的快感。文件详细描写了他们在相互体验与探讨中所产生的感情、紧张与快乐的瞬间，包括对科技在性别认同中的运用以及两人在公司内外角色的扮演。整体情节涉及了身体交换、变装、角色扮演、亲密关系等多个元素，情节与性相关的描写较为丰富，适合对跨性别与变装文化感兴趣的研究者进行分析和研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_越陷越深第三章.docx]([交换]_越陷越深第三章
 | Size            | 28232 bytes                           |
 | MD5             | f7928dd39245d67af40abc4ec1939d9f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身体交换, 变装游戏, 科技与性别, 亲密关系, 情感探索, 跨性别体验, 恋爱关系, 伪娘文化, 角色扮演, 二次元, 现代爱情, 性别认同, 情欲描写, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

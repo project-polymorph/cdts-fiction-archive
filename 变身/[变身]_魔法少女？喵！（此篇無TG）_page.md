@@ -7,7 +7,7 @@ TXT 下载: [[变身]_魔法少女？喵！（此篇無TG）.docx]([变身]_魔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《魔法少女？喵！》是一个关于性别变换和魔法少女题材的中篇小说，具体讲述了主角杉木在家中遇到一只神秘白猫后，其生活发生了戏剧性的转变。故事开篇描述了杉木的平凡生活与突然降临的超自然事件，在听到白猫提出的愿望请求后，杉木的猫咪黑子发生了变化，变成了魔法少女的形态。随着故事的发展，杉木与黑子之间的关系发生了微妙的变化，混合了幻想与现实的要素，包含了亲密关系和身体转变等情节。特别是黑子对杉木的依恋和戏剧化的互动，使得整篇小说在幻想的框架中折射出人际关系的复杂性和性别探索的主题。同时，文件也包含了一些较为露骨的情节，涉及性行为及其带来的身心反应。整体来看，这部作品融合了魔法少女的奇幻色彩与性别认同方面的探讨，适合对这一题材感兴趣的读者观看。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_魔法少女？喵！（此篇無TG）.docx]([变身]_魔�
 | Size            | 32883 bytes                           |
 | MD5             | 26ff10ff1e9b2db3ba0a13ab18291a7b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 伪娘, 性别变换, 幻想类, 跨性别, 猫咪, 奇幻, 青春,  identidade de gênero, 暗恋, 二次元, 色情内容, 自我探索, 性别认同, 亲密关系, 变身, 猫耳                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

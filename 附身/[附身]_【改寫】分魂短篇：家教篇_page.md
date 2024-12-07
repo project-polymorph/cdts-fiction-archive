@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【改寫】分魂短篇：家教篇.doc]([附身]_【改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档中包含了一篇扩展自日语揭示板的性转小说，主要讲述了一位名为山中健太的高中生，因购买了一个神秘的项链而获得了与他的家庭教师秋山美月老师心灵相通的能力。故事围绕着健太与美月老师之间的性别转换与身体操控展开。从购买项链的过程开始，健太意外得到了一种奇妙的能力，能够在自己与老师的身体之间自由切换。他利用这项能力，体验了作为女性的身体感受，讲述了他们之间愉快而又充满幻想的互动。内容涉及跨性别主题，以及在此过程中出现的性幻想和亲密场景，青春与自我探索的主题交织。文中描绘了许多细腻而又大胆的情节，尤其是在身体的操控和关系发展的描写上非常细致。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【改寫】分魂短篇：家教篇.doc]([附身]_【改�
 | Size            | 63488 bytes                           |
 | MD5             | 061c5bfa5d365f747f4244c7ff33ccbe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | S道人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 校园恋爱, 奇幻, 自我认知, 青春, 性幻想, 身体操控, 老师与学生, 爱与欲望, 心灵相通, 奇妙冒险, 二次元文化, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

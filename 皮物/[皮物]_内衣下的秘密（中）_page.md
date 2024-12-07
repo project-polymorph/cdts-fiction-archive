@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_内衣下的秘密（中）.docx]([皮物]_内衣下的秘
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇中篇小说，围绕男女主角李林与张敏展开，主要讲述了一名年轻女性顾客在内衣店试衣间的遭遇。故事开始于李林和张敏经营的内衣店。一天，一位身材高挑的年轻女性进入店中，吸引了李林的注意。李林幻想着她穿上性感内衣后的样子，然而美女对他的注视感到不满，并批评了他。接着，故事发展至试衣间，李林与美女的互动变得激烈，站到了性侵犯的边缘。小说包含众多性暗示和色情描写，如试衣间的秘密与李林的变态幻想以及身体占有等情节。最终，经过一系列情节后，李林成功转换身份，通过一件人皮而化身为这位女性，故事以她的华丽转身作为结尾，表现了变身和自我认知的主题。整体内容涉及性别转换、身体认同等复杂主题，包含大量挑逗和挑战社会性别观念的描写，适合特定受众的科幻与奇幻功能。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_内衣下的秘密（中）.docx]([皮物]_内衣下的秘
 | Size            | 18192 bytes                           |
 | MD5             | eb0fe27c14745b915dd2081cb8ae850c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 强奸, 调教, 多角恋, 年龄差, 变态幻想, 身体交换, 试衣间, 内衣, 激情, 幻想, 自我认知, 奇幻, 变装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

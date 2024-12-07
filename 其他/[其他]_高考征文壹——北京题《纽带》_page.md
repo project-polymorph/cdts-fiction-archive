@@ -7,7 +7,7 @@ TXT 下载: [[其他]_高考征文壹——北京题《纽带》.doc]([其他]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《纽带》，是针对TG（TransGender）类文学的讨论与总结，探讨了在网络时代对这一小众群体的社群构建及交流的影响。文章开篇提到在没有网络的时代，持有相关思想的人常常被社会视为异常，而随着网络的拓展，诸如CDBOOK这样的平台成为了志同道合者的交流纽带。随后的内容逐渐回溯至早期的交流平台如紫云社区，以及后来成立的TG论坛，显示出这些平台在推动TG文学发展中的重要角色。作者强调，尽管各类平台常因内容问题而被关闭，CDBOOK仍坚持保护作者权利与支持原创，已经存在超过八年之久，并逐渐吸引了越来越多的TG爱好者加入。文章还提到，社会开放的趋势使得LGBT群体越来越被认可，伪娘文化开始得到理解与接受。结尾处，作者以X教授的话呼应，强调小众群体之间应团结互助，共同追求创造的自由与表达的权利。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_高考征文壹——北京题《纽带》.doc]([其他]_�
 | Size            | 28672 bytes                           |
 | MD5             | 0461fae5e978117547d62a6b6beb51dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | TG文学, 伪娘文化, 网络社群, 文化交流, 多元性别, 自我探索, 社会认同, 变装, 跨性别, 文学发展, 社群建设, 小众文化, LGBT                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

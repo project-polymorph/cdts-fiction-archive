@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【江山如此多娇，白起】（4）.doc]([皮物]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了书生白起在四美图的世界中经历的种种奇遇与挑战。在一个荒郊古庙中，书生获得了一种神秘力量，并转变为天师。在过程中，他与昔日同窗好友花旗重聚，产生欲望，实施了一系列灵魂改造的情节，使花旗在故事中以母狗的形象出现。书生因色欲而沉迷于对花旗的玩弄，不料意外遭遇刺客李芳华的攻击，最终受了重伤。在一场与李芳华的激战中，书生的身体发生变化，面临生死关头。在这段故事中，作者描绘了复杂的情感纠葛、性别认同和自我探索的主题，并涉及多个禁忌的情节，包括欲望、凌虐等，让整个故事在奇幻背景下，显得更加引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【江山如此多娇，白起】（4）.doc]([皮物]_【
 | Size            | 43008 bytes                           |
 | MD5             | 84ce7c24c1abe30876237837d7298cf8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 灵魂改造, 色欲, 奇幻, 禁忌, 情感纠葛, 自我探索, 古代, 仙侠, 反叛, 冲突, 权力, 欲望, 男性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

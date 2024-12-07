@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_(申码文)被套路的可爱小巫师.doc]([皮物]_(申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一部关于性别转换及跨性别主题的小说，讲述了一个普通男孩卡特在魔女小镇的冒险故事。卡特是一名年轻的男巫，尽管他富有潜力，却在小镇的魔女中显得格格不入。故事开篇是一些少女谈论新来的男巫，随后情节切换至卡特在房间中安静研究魔法。随着剧情的发展，卡特的回忆和对童年朋友安娜的迷恋深刻展现出他在性别和情感道路上的挣扎。卡特试图在魔女小镇中找到属于自己的位置，然而却遭遇了重重困难。在新镇长的上任仪式中，他被大家推向台前，皇帝的新衣般的严峻境遇展现了他性别认同的挑战。这部作品通过多个角色的互动，描绘出卡特在受到情感打击后的无助与痛苦，并逐渐揭示出小镇对男性的偏见和对他认同的不接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_(申码文)被套路的可爱小巫师.doc]([皮物]_(申�
 | Size            | 48128 bytes                           |
 | MD5             | 26bd23748fb503b212a8baf1a4afa6ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 魔法, 青少年, 自我认同, 情侣关系, 成长, 友情, 奇幻, 神秘小镇, 男巫, 魔女, 禁忌爱情, 身份认同, 情感挣扎, 情感冲突, 青梅竹马, 心碎, 女权, 角色互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

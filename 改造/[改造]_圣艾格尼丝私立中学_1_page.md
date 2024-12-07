@@ -7,7 +7,7 @@ TXT 下载: [[改造]_圣艾格尼丝私立中学_1.doc]([改造]_圣艾格尼�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档描绘了迪尔德丽·维森特与她的侄子拉克的故事。拉克自从父母在一次事故中去世后与她同住，成为了一名成绩不佳的中学生。为了改善拉克的生活状态，迪尔德丽考虑将他送往圣艾格尼丝叛逆少女教育私立中学，这所学校专门为看似男孩但希望成为女孩的孩子提供教育与纪律。文中提及学校的特殊教育方式，包括行为改变、激素治疗以及对性别认同的关注。校长斯特拉女士对学校的运作进行了深入的阐述，与迪尔德丽的对话揭示了许多关于学校“叛逆少女”身份转换的细节，例如学生的贞操锁、女性化的环境以及如何引导学生接受身份的转变。整篇文章探索了家庭关系与性别认同的复杂性，以及个人在面对外界压力与内部冲突时的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_圣艾格尼丝私立中学_1.doc]([改造]_圣艾格尼�
 | Size            | 71680 bytes                           |
 | MD5             | fd3b6273a19d0e9b1dc2cfc0cb5a394e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 女性化教育, 叛逆少女, 激素治疗, 家庭关系, 自我探索, 私立学校, 性别转换, 寄宿学校, 校园生活, 心理治疗, 成长故事, 情感冲突, 教育体制, 社交认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_身体淘宝（2）.doc]([附身]_身体淘宝（2）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一个名为苏小萌的少女在一家营运商店内的性转变身体验。故事开始于苏小萌准备进行注射，使她的身体化身为可爱的女性形象，为利于为他人提供性快感服务。文件详细描绘了营运商店内的环境、工具，以及苏小萌在注射前的紧张心情和决心。她反思了自己姐姐被控制的情况，并为其感到不安，决心要拯救姐姐。随着故事发展，苏小萌最终注射了纳米机器人，准备开始测试，但她失去了对自己身体的控制，这引发了一连串不同寻常且令人不安的情节，其中包括对她身体的检查和操控。整个故事涉及性别认同、身体控制以及少女在极端情况下的决策等复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_身体淘宝（2）.doc]([附身]_身体淘宝（2）.doc)
 | Size            | 70656 bytes                           |
 | MD5             | 3dc15d6f5588e7df72facacd6aa1b66e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 身体控制, 少女心态, 变身情节, 自我认知, 性别认同, 纳米机器人, 心理冲突, 救赎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

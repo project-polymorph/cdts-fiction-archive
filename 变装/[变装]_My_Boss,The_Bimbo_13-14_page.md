@@ -7,7 +7,7 @@ TXT 下载: [[变装]_My_Boss,The_Bimbo_13-14.doc]([变装]_My_Boss,The_Bimbo_13
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档描述了主角卢卡斯在成为秘书的第一天所经历的心理及身体上的变化。故事围绕卢卡斯与艾琳之间的赌约展开，卢卡斯为了证明自己的能力，决定尝试女性的生活方式。在早晨的准备中，他详细描写了自己进行美容和化妆的过程，令人眼前一亮的变化让他一度迷醉。语言生动细腻，揭示了角色对女性形象的探索，包括他对自身外貌的自我认知与接受。《变装》一文通过卢卡斯的视角探讨了性别认同和角色互换等主题。值得注意的是，文本中融入了一些关于身体和性别的较为直接的描述，如“长长的眼睫毛”和“苗条的腰身”，并展现了他在适应新身份过程中面临的挑战与困惑，这种情感既有幽默感又充满真实感。在他需要学习秘书工作时，情节逐渐发展为对自身新角色的深入理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_My_Boss,The_Bimbo_13-14.doc]([变装]_My_Boss,The_Bimbo_13
 | Size            | 32768 bytes                           |
 | MD5             | 6c5696729ba538129e7409dc4f0c2182                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 跨性别, 角色互换, 自我探索, 美容整形, 职场挑战, 心理变化, 女性打扮, 男娘, 独立女性, 柔弱顺从, 性感内衣, 抵抗自我认知, 生活方式, 女秘书                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

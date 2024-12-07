@@ -7,7 +7,7 @@ TXT 下载: [[变性]_花开终有时_第五回_‘脱身.docx]([变性]_花开�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《花开终有时》第五回《脱身》描绘了一个围绕毒贩和卧底警察身份的复杂故事，背景设定在九月的暹罗，环境潮湿燥热，与主人公梁飞内心的焦躁情绪相呼应。梁飞和同伴丁甜甜伪装成业务员，暗中调查毒贩，同时努力保持他们警察的身份不被识破。故事的进一步发展揭示了他们的身份可能已经暴露。在与总裁宋书宸的对话中，二人回忆起过去，表明彼此之间的深厚关系。文中充满了紧张的情节和复杂的人际关系，而蜜娅的角色则展示了毒品对人的摧残以及在外表与自我认知之间的挣扎，她逐渐沉沦，进入了一个充满悲剧与堕落的环境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_花开终有时_第五回_‘脱身.docx]([变性]_花开�
 | Size            | 33645 bytes                           |
 | MD5             | 9a426d4763eeb2c0e446f498d2531bbd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变性, 毒品与成瘾, 跨性别情节, 卧底警察, 时空背景设定, 人物自我探索, 复杂人际关系, 社会黑暗面, 青春与堕落, 性别认同, 身份认同, 吸毒剧情, 变装, 情感冲突, 贩毒与犯罪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

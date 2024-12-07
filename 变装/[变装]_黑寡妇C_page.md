@@ -7,7 +7,7 @@ TXT 下载: [[变装]_黑寡妇C.doc]([变装]_黑寡妇C.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《黑寡妇C》描绘了一段以变装和性别角色转换为主题的故事。故事围绕两位角色，戴维斯和丹尼尔（现变装为金伯利），他们在一个梦幻般的午餐约会中展开对话。丹尼尔的性别表现与他内心的挣扎形成鲜明的对比，表现出他对女性身份和生理性的复杂认知。文中描述了他们用餐时的谈话，涉及了对彼此口音、生活背景的探讨，并在轻松的氛围中逐渐揭示出丹尼尔心中的不安与自我认同的探索。随着夜晚的降临，戴维斯对金伯利的情感逐渐加深，而丹尼尔在这段关系中则体会到自身的矛盾与挣扎。文中通过细腻的描写展现了丹尼尔对自己外表的意识与情感的交织，尤其是在进行亲密接触时的内心感受，使得该小说不仅仅是对变装的描绘，更是对自身身份认同的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_黑寡妇C.doc]([变装]_黑寡妇C.doc)
 | Size            | 33280 bytes                           |
 | MD5             | 87f8a25168a5653a2ee73cb71a5f00c3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别转换, 跨性别, 自我探索, 情感纠葛, 二次元, 幻想爱情, 女性视角, 身份认同, 都市生活, 内心冲突, 伪娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

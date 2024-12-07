@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【申码文】窃国者物语(初次修正版).docx]([附
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《窃国者物语》是一部涵盖了性别转换和跨性别主题的小说，内容丰富而富有想象力。故事设定在一个被圣骑士支撑的王国，主角丽莎是一名骄傲的女骑士，她在与盗贼吉格尔对峙时，意外遭遇了一场意想不到的变故。在战斗中，吉格尔使用了异乎寻常的魔法，强行进入丽莎的身体，令其意识和身体发生了剧烈变化。通过吉格尔的操控，丽莎的外形与内心发生了颠覆性的转变，进而展开了一系列关于身体和性别认同的探索与对抗。作品探讨了权力、操控与自我认知的冲突，加入了大量的强烈情欲描写，使得整部小说充满了紧张与刺激的气氛。这部作品不仅仅是对性别的讨论，更是对个体认同的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【申码文】窃国者物语(初次修正版).docx]([附
 | Size            | 26627 bytes                           |
 | MD5             | baf88813de14537516c37f4456cec421                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ファンタのコーラ味                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 自我探索, 跨性别, 幻想小说, 角色扮演, 魔法, 权力操控, 强烈情欲, 心理冲突, 冒险, 异世界, TSF, 液态化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

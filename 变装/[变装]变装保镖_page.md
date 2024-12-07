@@ -7,7 +7,7 @@ TXT 下载: [[变装]变装保镖.doc]([变装]变装保镖.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一部关于伪娘和变装的小说，讲述了名为孔宣的特种兵退役后成为少女皇明月的临时保镖的故事。故事的开头探讨了世界的不公和人类文明的中心皇城，描绘了主人公对城市的感叹与赞赏。孔宣在执行任务后感到疲惫，而他的雇主，年轻的大小姐皇明月则在晨间喧闹着叫醒他，期待着一起外出逛街的约定。在交流中，皇明月表现出了心思缜密与娇憨的特质，通过哭泣来达成自己的目的，最终说服孔宣以女孩的身份陪同她去学校。故事涉及变装元素以及两人之间的深厚情感，展现了伪娘文化和男女主角之间的互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]变装保镖.doc]([变装]变装保镖.doc)
 | Size            | 264704 bytes                           |
 | MD5             | 56fc9bcbd06c6a4fdc52468850dcf6e0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2102-10-11                                 |
+| Tags            | 性转, 伪娘, 变装, 少女, 特种兵, 爱情, 校园生活, 护卫, 多元性别, 自我认同, 角色扮演, 傲娇, 强制变装, 成长故事, 未来世界, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

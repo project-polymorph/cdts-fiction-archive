@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_剥皮吏之背叛_序章（稍改）.doc]([皮物]_剥皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本档案为伪娘与变身主题的小说序章，设定在明朝洪武年间，围绕着一位被剥皮吏抓捕的将军展开。在冷冬的夜晚，南京城被黑暗笼罩，故事的叙述者通过描写夜晚的情景与牢房的氛围，为读者营造出紧张的气氛。故事的主角皮四是一个神秘的角色，他是专门负责执行朝廷极刑的剥皮吏。文本中提及皮四的来临，使得牢头赵钱孙感到不安，因他深知皮四的名声与操控能力。与此同时，故事中夹杂着对剥皮刑罚的描写，以及对囚犯身体和心理的复杂体验。文中描绘了性别角色的流动性，通过皮四细腻的描写和男性角色的设定，反映了多元性别认同的主题。最终，这个序章留下了悬念与紧迫感，读者对将来的情节发展充满期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_剥皮吏之背叛_序章（稍改）.doc]([皮物]_剥皮
 | Size            | 33792 bytes                           |
 | MD5             | cadfd1cca2ba6919923e1735230e5b8e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 剥皮, 明朝, 跨性别, 暗使, 官场, 法律罪罚, 自我认知, 生死, 暗黑风格, 历史背景, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

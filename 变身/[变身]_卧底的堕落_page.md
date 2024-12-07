@@ -7,7 +7,7 @@ TXT 下载: [[变身]_卧底的堕落.doc]([变身]_卧底的堕落.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《卧底的堕落》，讲述了一名名叫加里的卧底特工通过手术变身为女性吉赛尔，潜入红灯区调查一系列涉及失踪女性的案件。在故事中，吉赛尔经过严格的训练和心理调整，逐渐习惯了她的新身体与身份。然而，在她执行任务的过程中，遭遇了作为妓女的各种挑战与药物影响，情节中包含了她对这一新身份的探索与自我认同的斗争。故事通过吉赛尔与一个名叫本的男性的交互，深入探讨了她对性别及欲望的意识，这一过程是她从使命感到身份认同的转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_卧底的堕落.doc]([变身]_卧底的堕落.doc)
 | Size            | 33792 bytes                           |
 | MD5             | 6e24f16bc4d4b66adc5e3f139fb6e671                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 卧底, 跨性别, 自我认同, 欲望, 性别探索, 红灯区, 药物影响, 失踪女性调查, 情欲, 身份转变, 充满欲望的性感身体, 心理调整, 妓女生活, 紧张刺激, 复杂人际关系, 暗黑主题, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

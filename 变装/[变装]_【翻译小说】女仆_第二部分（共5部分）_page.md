@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译小说】女仆_第二部分（共5部分）.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为变装类小说的第二部分，主要讲述了查尔斯与简之间的互动，内容围绕角色查尔斯被迫体验成为女仆的生活。故事开始于清晨，简鼓励查尔斯体验作为女性的角色，他感到困惑和不安。简认为查尔斯一直有想成为女性的倾向，并认为他可以通过这样的体验来更好地理解自己的内心。在简的帮助下，查尔斯穿上了女仆的衣服，包括连裤袜和简便的连衣裙，并接受了简的化妆。查尔斯在镜子前感到害羞和不安，同时又开始逐渐适应这种身份。简在过程中不断地鼓励查尔斯，揭示了他们关系中的微妙变化以及性别角色的探索。这篇小说兼具变装与性别认同的探讨，展现了一些自我认知与角色扮演的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译小说】女仆_第二部分（共5部分）.docx
 | Size            | 29774 bytes                           |
 | MD5             | 03c6d6ba59808e6de5f620c26d3c9946                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 跨性别, 女仆, 角色扮演, 自我探索, 二次元, 伪娘, 强迫变装, 女性视角, 情感矛盾, 心理转变, 微妙人际关系, 青春成长, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

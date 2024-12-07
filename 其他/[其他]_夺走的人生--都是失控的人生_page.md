@@ -7,7 +7,7 @@ TXT 下载: [[其他]_夺走的人生--都是失控的人生.doc]([其他]_夺�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇以伪娘和变身为主题的小说，主要围绕主人公林月的生活经历展开。通过结合当下社会热点事件，特别是关于高考的顶替现象，小说描绘了林月作为一名变身女性的医生，她在急诊科工作时照顾病人，并与同事之间形成的情感联系。文本细致入微地描写了林月面对的医患关系及其个人生活，展现了她的专业与情感纠葛。故事中林月在医院的工作场景，以及她与患者家属之间的互动，体现了对生命的关怀与责任感。尽管主线为林月的职业生涯，故事后段逐渐转向林月与同事邱文静的亲密关系，详细描绘了两人之间的情感交融和身体接触，充满暧昧与挑战。整篇小说在探讨性别认同、自我探索、情感关系、以及性别转换等主题的同时，也展示了一些关于女性同性爱情的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_夺走的人生--都是失控的人生.doc]([其他]_夺�
 | Size            | 63488 bytes                           |
 | MD5             | 2015e2bb9f908715e7645125a4f363c3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 情感纠葛, 医学伦理, 亲密关系, 变身, 女性视角, 同性恋, 社会热点, 医院, 急诊科, 生死关怀, 母子关系, 两性关系, 心理探索, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

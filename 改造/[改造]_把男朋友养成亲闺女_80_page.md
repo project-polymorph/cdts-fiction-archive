@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_80.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《把男朋友养成亲闺女》是一部以跨性别和性转主题为核心的小说。主要围绕角色贝丽与艾普丽尔之间复杂的关系展开。贝丽是一名男性角色，在故事中通过着装和举止伪装成一名少女，她与比她年长仅几岁的艾普丽尔相伴出行。文件中重点描述了贝丽对自己伪装身份的挣扎，以及她与艾普丽尔之间关于该身份和相应期望的对话。贝丽穿着女性服饰却内心却对所扮演的角色感到无奈，她的伪装不仅是对外界的迎合，更是对自我认同的迷失。故事中贝丽因其伪装受到艾普丽尔的责备和怒斥，反映出她内心深处对此心态的复杂情感。该文本深入挖掘角色对性别的认同、外貌所带来的社会认知，及其在关系中的权力动态。尤其在面对艾普丽尔的质疑时，贝丽显得懦弱与脆弱。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_80.docx]([改造]_把男朋友
 | Size            | 18178 bytes                           |
 | MD5             | e1380949eea79b8991c256b1fe5f5656                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 性转, 自我认同, 角色扮演, 性别认同, 青春校园, 复杂关系, 情感冲突, 女性视角, 社会认知, 挣扎与反抗, 羞耻与秘密, 心理变化, 女性装扮, 阴暗面                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_附身笔记_第一卷02_自杀.doc]([附身]_附身笔记
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一部虚构的小说，讲述了一个虚构角色向文林通过附身能力，意图实现自己扭曲的心理需求的故事。故事开始于鹿江市的鹿江师范大学，讲述了一起自杀事件引发的校园迷雾。向文林在听闻有关自杀事件的传闻中，表现出冷漠与不屑，与舍友之间的交流和观察对自杀者林颜的兴趣逐渐转化为自己阴暗的实验。向文林通过附身的手段，经过一系列的准备，最终完成了他理性设计的“实验”，并将目标锁定在了林颜身上。随着情节的发展，他逐步揭开了自我认知与欲望之间的冲突，以及在这一过程中，他享受着作为女性的身份，但最终也回到了现实，这引发了关于自杀动机和社会环境的更深层次思考。嵌入的犯罪心理分析则为整部作品增添了一种悬疑和思辨的气氛，让读者在享受故事的同时也不禁思考人性与道德的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_附身笔记_第一卷02_自杀.doc]([附身]_附身笔记
 | Size            | 38912 bytes                           |
 | MD5             | 674374fa29078b51b0629df2297053aa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 自杀, 校园, 心理实验, 虚构, 犯罪, 阴暗心理, 性别认同, 成长, 社会心理学, 推理, 悬疑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

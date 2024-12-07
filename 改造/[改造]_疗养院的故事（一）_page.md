@@ -7,7 +7,7 @@ TXT 下载: [[改造]_疗养院的故事（一）.doc]([改造]_疗养院的故�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件名为《疗养院的故事（一）》，内容围绕一位名叫良辰的少年在疗养院生活的经历展开。良辰因一场大病被父母送到了海边的一家疗养院进行康复，描述了他在这里的生活、情感及与护士及其他患者的互动。女主人绿川是一位性感的护士，她不仅照顾良辰的身体健康，还在心理上对他产生了影响。故事通过良辰与绿川及另一位女孩雪儿的互动，展示了他的羞怯和对美的感知，尤其在化妆方面的细致描写，令人感受到一种跃动的青春与性别身份的探索。良辰逐渐接受了作为女主人的“小奴儿”的角色，尽管内心仍存有不甘与挣扎，但他似乎也沉浸在这种身份的温暖与兴奋中。文本中包含了一些性暗示和温柔的主仆关系，使得整个故事充满了一种微妙的紧张感和幻想色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_疗养院的故事（一）.doc]([改造]_疗养院的故�
 | Size            | 55296 bytes                           |
 | MD5             | 6cb235a10dff8dea6efb9efa0316cf1a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 疗养院, 跨性别, 伪娘, 性转, 女主控, 护士, 青春, 心理探索, 身份认同, 性别角色, 美的追求, 情感发展, 弱势群体, 药物影响, 自我认知, 主仆关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [巫神面具1.doc](巫神面具1.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文描绘了一名高二男生刘康康在课堂上的故事。开篇时，刘康康正在上课时偷偷看手机上的网络小说，结果被班主任薛涛涛老师夺走了手机。薛涛涛是位年轻的美女老师，身材火辣，外貌出众，常常让学生心生遐想。在接下来的情节中，刘康康对薛涛涛施展了不恰当的目光，尽管知道这种师生关系不可能发展，但他心中还是对这个单身美女老师生出了一些邪念。薛涛涛察觉到了他的目光，并对此深感愤怒。在课堂后，他们的冲突升级，甚至引起了刘康康遭到其他学生的报复，体现出校园中师生关系的复杂性以及年轻人对情感和权力的探索。整个故事充满了青少年的冲突与学习过程，既有对师生情感的幻想，也有青春无畏的叛逆。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [巫神面具1.doc](巫神面具1.doc)
 | Size            | 58368 bytes                           |
 | MD5             | 63b471707b95f2e8439e661423b92242                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 师生关系, 青春期, 恋爱, 情感探索, 师徒冲突, 美女老师, 悔恨与成长, 校园暴力, 性别认同, 青少年困惑, 转变与成长, 自我探索, 社会压力, 身份认同, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

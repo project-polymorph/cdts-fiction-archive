@@ -7,7 +7,7 @@ TXT 下载: [[其他]_游戏的代价（四）.doc]([其他]_游戏的代价（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《游戏的代价（四）》，属于伪娘 TS 变身与跨性别相关小说的一部分，内容围绕角色罗杰和一位神秘女性之间的互动展开。在这段情节中，罗杰重伤后被一名神秘女人救助，女人通过亲密接触帮助罗杰恢复生命力。在互动中，罗杰逐渐意识到他的身体正在发生奇妙的变化，甚至他的性别认同也受到挑战。在故事中，涉及对身体变换的描写与自我认知的冲突，逐渐演变为罗杰的身份转变为女性吴琳，体验到全新的自我。文档涵盖较多成人内容，深刻探讨了性别转变、身体经验和情感交织等主题，暗示了女性身体与身份的复杂性。同时，充满了对肢体和感官的细致描写，呈现出一种既奇幻又疼痛的身份转换经历。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_游戏的代价（四）.doc]([其他]_游戏的代价（�
 | Size            | 68096 bytes                           |
 | MD5             | ca162cd9ce0300e14964f633698b7de4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, TSF, 复杂身份, 自我探索, 性别认同, 奇幻小说, 性感内容, 异能, 重生, 肉体与精神的冲突, 浪漫情感, 成人内容, 身体改造, 性别转换, 未知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

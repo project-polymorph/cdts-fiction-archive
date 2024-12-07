@@ -7,7 +7,7 @@ TXT 下载: [[变装]_报社的女人.docx]([变装]_报社的女人.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇关于一家名为“变身诊所”的调查性报道，作者是一名来自The Tribune报社的调查记者。文章描绘了这家诊所的目的和功能，旨在教导男性如何通过穿着和化妆的方式转变为女性。作者描述了围绕此诊所的争议，居民们出于对性取向和社会传统的恐惧而表现出的反对态度，以及对该诊所经营的合法性和道德性的质疑。文章中，记者详述了他为了潜入诊所而做的准备工作，包括伪装身份的策略和前期的背景研究。记者通过研究与强迫女性化相关的内容，了解到这个群体的真实情况和动机，进而揭示出这不仅仅是一个小众的现象，而是一个可能有较大市场需求的领域。整篇文章探讨了性别认同、自我探索的主题，同时也描绘了调查过程中的道德和法律考量。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_报社的女人.docx]([变装]_报社的女人.docx)
 | Size            | 52866 bytes                           |
 | MD5             | 4675ad6cbe6244f37ff6ee52eeff1249                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jennifer White                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身诊所, 性别转换, 女性化, 调查报道, 性别认同, 自我探索, 跨性别, 变装, 文化争议, 男人变女人, 色情内容, 心理测试, 社交压力, 隐秘观察, 进门调查, 租借身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_双子之恋（八）.docx]([皮物]_双子之恋（八）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是关于一名商界女强人李烨童与一位白人女性薇洛妮可之间的一段复杂关系的小说文本。故事从李烨童的日常工作开始，描绘了她在办公环境中的生活，以及与下属小秘书的互动。小秘书对李烨童的钦佩以及对另一位女客人薇洛妮可的惊艳形成了鲜明对比。薇洛妮可作为一个漂亮的外国女性，在她的出现后，李烨童的生活中似乎出现了新的变化。文本中包含了李烨童在公私生活中的冲突，以及她如何在商业成功与个人情感之间挣扎的描绘。语言风格轻松幽默，带有一定的调侃和自嘲，使得故事生动有趣。随着情节的发展，读者能够感受到角色之间微妙的情感交流和对彼此的吸引。整个故事展现了多元性的主题，隐含了性别角色的复杂性和人际关系的微妙性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_双子之恋（八）.docx]([皮物]_双子之恋（八）
 | Size            | 28810 bytes                           |
 | MD5             | 472490b6b88e01df22bcee80b6d38b84                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 商业爱情, 女强人, 女性视角, 白人女性, 秘书, 办公室恋情, 性别认同, 性转换, 青春校园, 两性关系, 独立女性, 职场小说, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

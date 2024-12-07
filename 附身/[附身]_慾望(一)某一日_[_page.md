@@ -7,7 +7,7 @@ TXT 下载: [[附身]_慾望(一)某一日_[.docx]([附身]_慾望(一)某一日
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本是一个包含色情内容和犯罪情节的小说，主要围绕一个年轻男子许逸生的心理变化和他与一名女学生李书瑜之间的冲突。故事以许逸生因为突如其来的性欲亢奋而掩饰自己的窘态开始，他的内心似乎正在与另一种存在进行斗争。在一个大学的林间步道上，许逸生假装生病以躲避他人的目光，但内心涌动的欲望使他无法自已。当李书瑜出现在他面前关心他时，他的理智失控，采取了强迫行为。故事描绘了许逸生的疯狂和扭曲的欲望，以及李书瑜被困于强暴中的绝望，展现了人性中性欲的阴暗面及其引发的戏剧性冲突。文本涉及敏感和限制级的主题，包含强奸、性别身份的扭曲等情节，并以许逸生的内心独白揭示了他对社会性欲的看法。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_慾望(一)某一日_[.docx]([附身]_慾望(一)某一日
 | Size            | 37284 bytes                           |
 | MD5             | 60ca37dabd6284caf100530f3fa91ac9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 水晶                               |
+| Region          | 未知                               |
+| Date            | 2017-08-31                                 |
+| Tags            | 强奸, 性转, 伪娘, 执念, 疯狂, 校园, 爱情, 性欲, 强迫, 角色扮演, 心理斗争, 二次元, 暴力主题, 青春, 人性探索, 欲望, 女性视角, 冲突, 非自愿                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

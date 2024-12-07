@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮物杀手.doc]([皮物]_皮物杀手.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《皮物杀手》是一部围绕一名杀手蓝凌的跨性别变身和伪装故事。文中的蓝凌是一名擅长毒杀和伪装的职业杀手，因组织覆灭而脱离。故事开篇，蓝凌回忆过去与组织的日子，并开始探索自己的人生价值。随着委托任务的到来，蓝凌调查目标金阳，天狼市的黑社会老大，并制定计划。文中描绘了蓝凌在接受心理辅导后的变化与成长，突显她在杀手路上力求正义的态度。此外，情节中融入了伪装、潜入、美容院等元素，展现蓝凌的双重身份与内心挣扎。故事涉及丰富的角色与复杂的人际关系，最终蓝凌的追踪任务引向了一位美丽的少女薛雅，情节发展融入了悬疑与动情的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮物杀手.doc]([皮物]_皮物杀手.doc)
 | Size            | 154112 bytes                           |
 | MD5             | 5ebec65aeda01223dbc585151936250d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 皮小黑                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 杀手, 心理辅导, 性转, 变身小说, 二次元, 毒杀, 美容院, 悬疑, 阴谋, 伪装, 单身杀手, 伦理, 情感探讨, 黑社会, 女主角, 内心挣扎, 城市故事, 反转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

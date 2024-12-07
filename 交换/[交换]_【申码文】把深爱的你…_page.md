@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】把深爱的你….doc]([交换]_【申码�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文小说讲述了青年樱庭丽华的生活遭遇，她在日常生活中不幸成为跟踪狂的目标，经历了一系列的恐惧与挣扎。故事的开端，丽华感到自己被人盯上，每当独自回家，便会产生不安的情绪。随着事情的发展，她在家收到大量偷拍照片，揭开了自己被跟踪的真相。这一情节通过她的内心独白与与妹妹琴叶的对话生动展现。此后，跟踪狂的出现在她面前，伴随着他对丽华的疯狂表白，故事中铺陈出紧张和惊悚的氛围，丽华面对危险，最终坚决拒绝了跟踪者的感情。此时，男人露出绝望与疯狂的一面，露出了他对丽华的执着和偏执，甚至在强迫之下揭示出对丽华身体的可恐怖改变。小说在惊悚与探索自我认同之间穿插，试图探讨对于爱的偏执及性别认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】把深爱的你….doc]([交换]_【申码�
 | Size            | 60928 bytes                           |
 | MD5             | 24e702a81c7ee335fffde6527437c73b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 野良猫                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跟踪, 恐怖, 心理恐惧, 性别认同, 初恋, 自我探索, 惊悚, 拒绝, 恋爱烦恼, 性转, 伪娘, 邪魅, 匕首, 神秘角色, 都市传说, 阴暗面                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮枪：克拉丽莎（下）.docx]([皮物]_皮枪：克
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《皮枪：克拉丽莎（下）》，内容是关于一个角色克拉丽莎的变身经历。故事的叙述者在经历了一次奇妙的变身后，发现自己变成了一个女性角色克拉丽莎。故事从第一人称的视角展开，详细描绘了叙述者的内心挣扎与变化。叙述者体验到身体的变化，逐渐习惯在女性的身体中生活，与梅根的互动也展现了对性别角色的探讨和对同性恋情感的描写。故事暗示着叙述者对自己身份的认同与探索，并在情感上与周围人的关系产生了新的联系。整体上，文件涉及性别认同、跨性别、情感纠葛等主题，并含有一定的成人情节和性暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮枪：克拉丽莎（下）.docx]([皮物]_皮枪：克
 | Size            | 24032 bytes                           |
 | MD5             | 9a1c4d55e80e879f5751a4318e738020                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 伪娘, 女体化, 强烈的情感, 同性恋, 心理斗争, 自我探索, 二次元, 情色, 同性情感, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

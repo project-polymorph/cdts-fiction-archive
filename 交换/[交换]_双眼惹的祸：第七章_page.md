@@ -7,7 +7,7 @@ TXT 下载: [[交换]_双眼惹的祸：第七章.doc]([交换]_双眼惹的祸�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是伪娘跨性别小说《双眼惹的祸》的第七章，情节围绕着主角李凯和江月婷的奇异遭遇展开。故事开头，警察突然闯入李凯与江月婷的房间，情景紧张。李凯因处于被捕状态而感到惊慌，而江月婷则以强势的姿态面对警察，坚称他们的行为是合法的夫妻之间的情趣。小说生动描绘了江月婷的泼辣与李凯的怯懦，两人之间的互动流露出复杂的情感纠葛。随着剧情的发展，警察在房间搜查发现了一名昏迷的男人，江月婷认识他是几天前被发现死去的张明权。随着故事的推进，警察局内的对话透露出更多的秘密和冲突，李凯和江月婷在这场波折中逐渐深入了解对方。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_双眼惹的祸：第七章.doc]([交换]_双眼惹的祸�
 | Size            | 47616 bytes                           |
 | MD5             | 17187a460cd07396e414d66860472ccf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身, 警察, 情感纠葛, 超现实, 婚姻关系, 高潮, 紧张剧情, 暴露秘密, 情趣, 夫妻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

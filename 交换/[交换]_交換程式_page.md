@@ -7,7 +7,9 @@ TXT 下载: [[交换]_交換程式.docx]([交换]_交換程式.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇围绕“交换程式”的小说，故事开篇描绘了高中生吉原竹雄在周末时意外发现了一款不明的手机程序，该程序名为“交换”，声称可以在两人之间进行身体交换。作者通过主角的好奇心，引入了程序的使用方法和背景设定，描述了程序附带的洗脑功能，能够操控被交换者的记忆并允许用户体验他人的生活。在故事的过程中，竹雄通过旁观者模式观察他人如何借助该程序交换身躯，意识到程序的真实潜力与可能出现的伦理问题。作品充满了对性别、认同与自我探索的探讨，同时混合科技与幻想的元素，描绘了非常规的性转与身体交换情节。
+
+随着故事的发展，主人公逐渐对交换是否真的有效产生了怀疑，思考着如果这种能力真的存在，那又将如何影响人与人之间的关系。小说不仅触及了生理与心理的多重变换，还对可能的淫荡与性骚扰行为进行了夸张化的描写，涉及多个成人向情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_交換程式.docx]([交换]_交換程式.docx)
 | Size            | 53645 bytes                           |
 | MD5             | 51a8ed99821bc84c097d8b960f6fd8df                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | メモット                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 身体交换, 科技幻想, 性骚扰, 旁观者模式, 洗脑, 青春, 自我认知, 性别认同, 伪娘, 跨性别, 变装, 虚拟现实, 恶魔, 淫荡, 调教, 强奸, 多人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

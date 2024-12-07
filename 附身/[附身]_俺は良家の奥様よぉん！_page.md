@@ -7,7 +7,7 @@ TXT 下载: [[附身]_俺は良家の奥様よぉん！.docx]([附身]_俺は良
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部包含性转、伪娘和附身主题的小说，标题为《俺は良家の奥様よぉん！》。故事围绕一位富有的女性角色展开，讲述了一个男性角色通过附身的方式获得她的身体和生活。小说的情节包括了权力、操控和身份认同的复杂交织，强调了角色之间的心理冲突与转变。文中提到大管家辰巳对夫人的阴谋，以及主角在得知真相后对其进行报复的欲望。此作品涉及的主题包括性别转换、附身、复仇及身份认同，适合对性别多元性及相关主题进行研究的读者。内容中包含了一些限制级及色情情节，使其在科研和学习过程中需进行适当的分级和分析。同时，文中还反映出角色因附身而产生的心理斗争及变化，引发对自身身份的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_俺は良家の奥様よぉん！.docx]([附身]_俺は良
 | Size            | 21326 bytes                           |
 | MD5             | cabb303e5aad1e1dfc2b35bce94ad870                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ecvt                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 伪娘, 复仇, 权力斗争, 心理变化, 多元性别, 身份认同, 操控, 女性视角, 情色小说, 自我探索, 角色转变, 二次元小说, 暗黑爱情, 戏剧性情节, 情感纠纷                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

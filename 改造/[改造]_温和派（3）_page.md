@@ -7,7 +7,9 @@ TXT 下载: [[改造]_温和派（3）.doc]([改造]_温和派（3）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一段描绘张玉（化名为艾莉莎）成为女奴的故事，故事围绕着性别转换与性奴隶的主题展开。张玉在被掳后，经历了情感与身体上的极大变迁，从一个男性身份逐渐被剥夺自由，转而接受作为女性奴隶的命运。通过细腻的叙述，读者可以看到他从最初的反抗与痛苦，到最后逐渐适应角色，陷入自我认同的复杂心理变化。
+
+具体情节中，张玉在被拉希姆（他的主人）调教下，参与宴会，满足客人的欲望，逐渐习惯了这种屈从的生活，并对主人产生了一种微妙的依赖与快感。文件中涉及多次对性行为的直白描述，包括对身体器官的细致刻画与感受的深入探讨，使得该资料具有一定的研究价值。整体上，故事呈现了张玉对自己身份的逐步接受和内心的挣扎，反映了人性与欲望交织的复杂主题。同时，文件也包含了一些敏感、限制级的内容，适合用于相关领域的科学研究与学习。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_温和派（3）.doc]([改造]_温和派（3）.doc)
 | Size            | 59392 bytes                           |
 | MD5             | 09134d4e802b0d18e696636da3ca745a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 调教, 奴隶, 强暴, 尼特族, 性行为, 自我认同, 现代奴隶制, 东方美人, 宴会生活, 内心挣扎, 身体认同, 角色接受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_无题.docx]([皮物]_无题.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘类型的变身小说，讲述了主人公垣原荣介遭遇跟踪狂的烦恼以及其好友守野俊太的帮助。在故事的开头，垣原因拒绝了一个女孩子的交往请求而被跟踪，感到非常困扰。为了帮助荣介，俊太提出一种名为"人类的皮肤"的道具，可以通过穿上这个道具使荣介变得更加吸引人，以此来摆脱跟踪的困扰。こちらの皮肤让荣介外表帅气，给他带来了极大的自信和快乐。随着故事的深入，剧情转向如何获得女性身体特征的内容，包括注射液体后荣介的身体发生变化，最终陷入一种网络直播色情的境地。而故事的结尾，主人公在进行直播后却又回到了只有他自己参与的私密行为。此作品围绕性别转换与自我认知的主题展开，涉及多个与性相关的情节，适合特定的受众群体，内容较为露骨，同时也触及了青春期的性探索与人际关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_无题.docx]([皮物]_无题.docx)
 | Size            | 18004 bytes                           |
 | MD5             | f2172782a782fc4c15eb94e7d42397d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 网络直播, 性别认同, 青春期探索, 自我认知, 强奸, 淫荡, 调教, 多人, 成人内容, 变嫁, TSF, 魔法, 身体交换, 古代, 玄幻, 科幻, 爱情, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

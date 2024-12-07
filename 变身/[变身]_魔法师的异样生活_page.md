@@ -7,7 +7,7 @@ TXT 下载: [[变身]_魔法师的异样生活.docx]([变身]_魔法师的异样
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《魔法师的异样生活》是一部描绘性别转换和跨性别主题的小说，讲述了少年维克斯·纳斯维卡的冒险故事。故事开篇通过夕阳的照耀，设定了一个暗黑的地下室场景，维克斯被绑在十字架上遭受折磨，却对施虐者表现出异常的冷静与嘲讽。在经历了一系列残酷的人际冲突和内心挣扎后，维克斯意识到自我认同和身体的关系复杂而微妙。随着情节发展，维克斯通过魔法手段试图实现灵魂和身体的转换，最終归入莱娜的身体，引发一系列奇幻而又冲突的体验。该文中深入探讨了性别认同、欲望与权力的关系，尤其是在克服与内心挣扎的过程中，展现了角色对自我的探寻和对社会期待的抗争。文中还有不少带有成人内容的描写，涉及调教和性别角色的颠覆，适合对相关文化背景和性别议题感兴趣的研究者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_魔法师的异样生活.docx]([变身]_魔法师的异样
 | Size            | 28418 bytes                           |
 | MD5             | e0814971befc67d08eb90d19f5805b31                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异世界, 魔法, 性别转换, 跨性别, 灵魂融合, 黑暗幻想, 自我认同, 欲望, 权力关系, 魔法师, 强权, 调教, 色情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

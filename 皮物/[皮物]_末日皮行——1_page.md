@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_末日皮行——1.docx]([皮物]_末日皮行——1.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《末日皮行——1》讲述了一位名叫高宫雄一的上班族在面对突如其来的丧尸爆发时的惊慌与应对。故事开篇高宫雄一在公寓内昏迷，醒来后发现外界发生了可怕的变化。三天前，突然出现的大规模死亡事件，将周围的人转变为丧尸，全球范围内陷入恐慌。高宫意识到自己在昏迷期间明显没有变成丧尸，并接待了一位慌乱的邻居早川濑子。面对她的紧急求助，尽管内心充满疑虑，高宫雄一本能地提供了庇护。随着故事的发展，早川濑子的身份也开始变得扑朔迷离。文本中真实且细腻的描写探索了个体在绝望境地中的心理挣扎，以及对于生命和身份的思考。文件同时包含了对丧尸起源的悬疑信息，以及高宫与早川之间微妙的互动，增添了叙事的复杂性和紧迫感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_末日皮行——1.docx]([皮物]_末日皮行——1.doc
 | Size            | 22254 bytes                           |
 | MD5             | 9ac795110dbb36797d99778d0983d4c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 末日, 丧尸, 变身, 自我认同, 恐怖, 悬疑, 生存, 都市奇幻, 心理描写, 人际关系, 邻居, TSF, 生理性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

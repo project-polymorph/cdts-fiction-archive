@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_色慾探索频道_(一).docx]([皮物]_色慾探索频道
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于伪娘和性转题材的小说文本，内容围绕着一位名为「由衣酱」的角色展开，包含了成人情节和性别扭转的幻想。故事始于主人公在晚上独自一人上网浏览成人视频网站，意外观看到一段人气影片《色慾探索频道—十九岁的第一次》。影片中出现的角色通过高科技手段伪装成少女，情节从性刺激转向对人性及科技的浅探。作者描绘了细腻的视觉画面和引人入胜的情节，伴随有对性别角色的深入思考与社会评论。整个文本不仅涵盖了强烈的性暗示和直白的成人内容，还探讨了性别认同及科技对生活的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_色慾探索频道_(一).docx]([皮物]_色慾探索频道
 | Size            | 37669 bytes                           |
 | MD5             | a34ae4a86b73c8ea22259d144d1f44b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 成人内容, 性别认同, AV文化, 科技幻想, 自我探索, 心理冲突, 色情, 幻想文学, 都市情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

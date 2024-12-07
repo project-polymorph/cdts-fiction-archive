@@ -7,7 +7,9 @@ TXT 下载: [[变装]_只是在天堂的又一天_–_10.docx]([变装]_只是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部伪娘/TSF（变装）题材小说的第十章，名为《只是在天堂的又一天》。故事围绕一个被绑架的角色展开，该角色在被囚禁的情况下经历身体和心理上的极大痛苦与挑战。小说开篇描述角色通过心跳的声音确认自己的生存，并意识到被蒙住的眼睛和无法自由活动的状态。随后，角色尝试逃脱，使用智慧与勇气克服逆境。随着故事的发展，读者可以看到角色如何逐渐理解自己的处境，并努力寻找逃脱的机会。文本中涉及了对性别和身份认同的思考，体现了社会对变性人群体的偏见与排斥。
+
+文件的风格暗示了可能存在一些限制级和性相关的情节，尤其是在对身体的描述上。例如，角色未能摆脱的细绳和塑料束线带等物品的束缚，象征着其内心的挣扎与抗争。这类作品通常通过极端的情节，探讨个体在社会和性别认同方面的深层次问题，同时也可能触及色情内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_只是在天堂的又一天_–_10.docx]([变装]_只是�
 | Size            | 35767 bytes                           |
 | MD5             | aa61ff39a07a5f21947d24b6990e1e12                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kasumi                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装小说, TSF, 恐怖, 生存, 性别认同, 自我探索, 绑架, 逃脱, 心理挣扎, 性转, 文学作品, 社会偏见, 二次元, 虚构故事, 探索身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

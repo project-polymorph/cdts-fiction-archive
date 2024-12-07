@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_75.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件摘录自伪娘与跨性别主题的小说《把男朋友养成亲闺女》。内容主要围绕角色贝丽与梅根的日常互动，以及对美容和时尚的讨论。贝丽在和梅根一起用餐时，讨论了自己对裙子的偏好，表现出对女性服装的喜爱，同时透露出对自己性别身份的复杂感受。在餐厅的对话中，贝丽表现出对美食的好奇和对梅根饮食选择的羡慕。对话中涉及到对性与恋爱的隐晦暗示，表现出贝丽对自己性别认同的困扰和探索，尤其体现在她对与男性的关系和情感冲突上的思考。文中还有对美容院的描述，贝丽与卡蒂亚之间的互动明确带出了美容与吸引力在性别表现中的重要性。整体来看，文本探讨了性别认同、自我探索以及在异性恋和女性身份之间的敏感关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_75.docx]([改造]_把男朋友
 | Size            | 20438 bytes                           |
 | MD5             | 1ca635d8f8e2735759c72a134436e9d7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别认同, 性转小说, 美妆, 日常生活, 跨性别, 青春, 性别表达, 成人内容, 心理冲突, 异性恋情感, 时尚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

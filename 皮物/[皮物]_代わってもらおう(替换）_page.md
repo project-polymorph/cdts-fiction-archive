@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_代わってもらおう(替换）.docx]([皮物]_代わ�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性转和变身主题的小说，讲述了一个男孩为了达成个人目的，秘密地观察并模仿自己的音乐老师的故事。故事的主角在下午放学后藏在教室旁，观察音乐老师的弹奏，并最终实施了一个计划，通过一种特殊的手段（空气栓）使老师失去意识，从而获得了她的人皮。小说详细描绘了主角的内心变化和性别转换的过程，包含了对音乐老师外表特征的细致描述，如她的紧身裙、红框眼镜和丰满的身材。提到主角穿上老师的人皮后的兴奋和自我认知的变化，以及他对新身体的享受。整体情节含有明显的性暗示和对跨性别体验的探索，涉及到角色的欲望、自我探索，以及对他人身体的占有欲。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_代わってもらおう(替换）.docx]([皮物]_代わ�
 | Size            | 26658 bytes                           |
 | MD5             | 446dcfa0c11f27bcb396d78901610e9b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 自我认知, 欲望, 性别探索, 老师与学生, 人皮, 青春期困惑, 跨性别体验, 色情内容, 心理变化, 秘密观察, 女性形象, 刺激体验, 幻想世界, 身体交换, 角色扮演, 内心冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

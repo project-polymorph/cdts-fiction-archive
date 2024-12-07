@@ -7,7 +7,7 @@ TXT 下载: [[催眠]天使系统（3）.doc]([催眠]天使系统（3）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《天使系统（3）》讲述了一个心理咨询师胡兵与客户张静之间的互动故事。故事发生在海天市的购物中心，张静因家庭问题而情绪低落，胡兵试图借助一种名为“天使之剑系统”的超自然力量来影响她的情感。胡兵通过诱导张静产生对自己的好感，不断调整策略，巧妙地引导她与自己互动。这一过程中，张静决心与胡兵建立联系，双方在心理游戏中逐渐增进了解与情感。文中使用了多种心理学概念，并描绘了角色之间复杂的心理斗争和互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]天使系统（3）.doc]([催眠]天使系统（3）.doc)
 | Size            | 32256 bytes                           |
 | MD5             | 732e48748a2c79a469461f7d3c0ba32e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 心理咨询, 恋爱游戏, 超自然能力, 自我认知, 伪娘, 变身, 亲密关系, 人物发展, 情感探索, 二次元, 互动剧情, 心动, 锁定心理需求, 角色转换, 情感操控                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

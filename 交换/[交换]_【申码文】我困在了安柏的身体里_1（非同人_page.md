@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_1（非同�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别转换和自我探索的小说，标题为《我困在了安柏的身体里》。故事讲述了一名退役的中年男子在一次枪击事件中遭到重伤并去世，随即他的灵魂转移至名为安柏的脑死亡年轻女性的身体里。小说从第一人称的视角出发，通过细腻的心理描写展示了主角在新身份下所面临的挑战与困惑，包括适应新身体、应对陌生家人和未婚夫的性骚扰等复杂情感。故事中包含着主角对死亡的反思、自我辨识的挑战，尤其是对女性身份的重新探讨。虽然H要素不多，但作品通过对角色内心变化的描绘，深刻反映了性别认同及心理冲突问题。整个故事富有情感，充满对个人存在与他人关系的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_1（非同�
 | Size            | 51712 bytes                           |
 | MD5             | 7e9f5b8b32d959e6f274015f58b4e175                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | P326R1& r4 g- U9 `& A8 o! l                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, psychological drama, 自我探索, 灵魂转移, 情感冲突, 心理变化, 美国文化, 性骚扰, 女性身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《变身神域》④.doc]([改造]_《变身神域》④.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《变身神域》系列第四章的文字记录，主要围绕在斯特兰大陆的色孽女神教派以及一位名为小百合的幼女角色的故事情节。小百合是教会的重要成员之一，表面上看似娇嫩无邪，却实际上拥有强大的控制力与政治智慧。故事开头描述了这个教会的独特告解仪式，不同于传统宗教实践，告解室充满奢华与诱惑。接着，描述了小百合在教会中处理政务的情况，她的生活与外貌不相符合，而在游戏世界中的地位却使她拥有强大权力。该章节还提到了游戏内与玩家间的互动，并展示了角色们如何在复杂权力结构下游走。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《变身神域》④.doc]([改造]_《变身神域》④.
 | Size            | 70656 bytes                           |
 | MD5             | adcd3bc136ea71184f7296e6e1684163                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 幼女, 色孽女神, 伪娘, 游戏世界, 宗教仪式, 经济政治, 角色扮演, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

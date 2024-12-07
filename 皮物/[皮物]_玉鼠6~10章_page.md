@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_玉鼠6~10章.doc]([皮物]_玉鼠6~10章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一段关于性别转换与自我认同的小说内容，情节围绕角色楚褚与李婉之间的复杂关系展开。故事开篇描绘了一种神秘的幻术，使楚褚与李婉在身份与自我之间进行探索与争斗。“魏薇”的角色被穿上皮肤并成为另一种身份，探索过程中，楚褚不断对身份的流动和个人的价值认同提出质疑和思考。随后，故事揭示出校园中的一场阴谋，楚褚和李婉卷入了一场涉及超自然力量与隐秘组织的冒险。在第六章中，楚褚穿上了李婉的皮，经历了性别和身份的转换，展现了他在这种经历中感受到的自我困惑和认同感。后续章节通过两人恩爱与敌对的关系，探讨了性别认同与自我探求的主题。继而出现的阴谋则引导他们共同面对更大的挑战，使得角色的发展更加立体。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_玉鼠6~10章.doc]([皮物]_玉鼠6~10章.doc)
 | Size            | 51712 bytes                           |
 | MD5             | 6e3d6855242c13a59a76a6ca9c734bb0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 幻术, 自我认同, 校园冒险, 爱情, 阴谋, 角色扮演, 皮肤替换, 超自然力量, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

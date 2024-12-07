@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼　３.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件摘录自小说《小龙女狂想曲》之南海神尼的章节，主要描写的是小龙女与她的师父雌航师太之间的互动，以及古墓派众人对雌航的惊叹与好奇。文本中小龙女为众人介绍师父，雌航师太以其年轻美丽与强大的神通引起了在场人的惊讶。描写中提到众人对雌航的印象，特别是她与郭襄之间的亲切互动，展示出一种温暖与欢快的气氛。随着雌航带领古墓派众人前往经过整修的龙女院，展现出一种豪华舒适感，这与传统武侠故事中的江湖氛围形成对比。文中还透漏了雌航隐秘的一面，暗示其与神雕之间的奇异关系，展示出一种复杂的角色动态和多元性别探索。内容隐含女同性恋、性别转换等主题，特别是在雌航和神雕之间的互动中，暗示了性别认同与角色扮演。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼　３.docx]([变�
 | Size            | 17027 bytes                           |
 | MD5             | 15cb1e533543441d5d97053136ee078d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 女性视角, 二次元, 强奸, 调教, 逆后宫, 爱情, 多元性别, 变身小说, 魔法, 古代, 奇幻, 豪华, 武侠                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

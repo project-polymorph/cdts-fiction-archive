@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《碟中谍征文》核战风云（2）.doc]([附身]_《
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一段关于角色性别转换的小说内容，描写了一个名为“秦安”的男性角色在遭遇一系列变化后，变成了女性角色黄美姬的心理和身体感受。故事设定在一个冷清的房间，角色醒来后发现自己变成了一个全新的女性，她身体敏感的感受和对新身份的自我认知冲突成为了文中的核心。文中详细描绘了角色对自己改变后的反应，包括对身体变化的适应，内心的挣扎与探索自我的情绪，以及与女仆之间的互动，增添了情节的复杂性和情感的深度。整体来看，这部小说探讨了性别认同与自我认知的主题，在潜移默化中揭示了跨性别者在面对社会和自我时的多重挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《碟中谍征文》核战风云（2）.doc]([附身]_《
 | Size            | 33280 bytes                           |
 | MD5             | 742c815d4612994463bd5a5830537d23                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 角色认同, 心理挣扎, 女性视角, 自我探索, 暗藏情节, 情感冲突, 身份认同, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【淫魔修女傳(改)_】第1～3回.doc]([附身]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一篇名为《淫魔修女传》的续写作品，内容涉及到角色的灵魂、肉体的生死与性交合的复杂关系。故事从一名男子的死亡开始，描述了他与撒旦的交易，以及他灵魂未能离开尸体的痛苦过程。随后，小说展现了一只肉虫通过尸体的胸口逃出的情景，并且转向了一名刚刚生产的少妇，她的身体遭受了异物的侵犯，描述了她在极度痛苦与快感之间的挣扎与无法逃避的境遇。文中包含了大量与性相关以及超自然元素的情节，探讨了生命、死亡与欲望的交错，情节充满了争议性和限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【淫魔修女傳(改)_】第1～3回.doc]([附身]_【�
 | Size            | 110592 bytes                           |
 | MD5             | 8c723bd1f8cb934b47528c93b610c8c5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 强奸, 变身, 恶魔, 跨性别, 灵魂交换, 异物侵犯, 产后, 超自然, 绝望, 极限体验, 肉虫, 性转, 阴道侵犯, 奇幻, 心理斗争, 情色, 女性视角, 病态关系, 性快感, 欲望探讨                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

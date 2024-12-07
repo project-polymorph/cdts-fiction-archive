@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_1.docx]([变身]_【渣�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇关于勇者与魔王之间斗争的幻想小说，内容涉及勇者被封印力量的背景。故事设定在一个魔族统治的世界中，讲述了魔王在打败勇者之后，如何面对自己所受的诅咒和即将到来的威胁。魔王城内的议会讨论了勇者的力量仍在复生，魔族面临的持续挑战。主角勇者艾伦与他的伙伴们策划进入沉眠于历史中的梅德因遗迹，寻找能够助他们打败魔王的精灵力量。文本情节中有对魔法、咒术及勇者与其同伴之间的关系进行了详细描写，揭示了他们的内心冲突与勇气。种种设定和角色的发展，为读者展现了一个充满想象力的奇幻冒险故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_1.docx]([变身]_【渣�
 | Size            | 21021 bytes                           |
 | MD5             | 8aa4f2c2a460fa25838d126ccfd1e031                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 勇者, 魔王, 奇幻, 冒险, 精灵, 咒术, 斗争, 性转, 角色成长, 魔族, 遗迹, 友情, 勇气, 冒险团队, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_身体淘宝（4）.doc]([附身]_身体淘宝（4）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《身体淘宝》讲述了一个围绕身体控制和性别变换的科幻故事。故事的主角何年正在警察局报告他的朋友苏小萌的身体被抢夺的情况。何年声称通过纳米机器人的注射，某个恶势力能够控制他人的身体，并介绍了一个名为“身体淘宝”的软件。他们试图向警方寻求帮助，但警察们初始对这一说法持怀疑态度，认为这是一个不切实际的科幻情节。随着情节发展，警方最终决定记录下何年的报告并派人去调查。文件中涉及了许多关于身体自主权、性别认同、科技伦理等主题，引发了对人类未来科技应用的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_身体淘宝（4）.doc]([附身]_身体淘宝（4）.doc)
 | Size            | 63488 bytes                           |
 | MD5             | 76421f92e850976760b2e40fb6cbd6c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 身体控制, 纳米机器人, 性别变换, 科幻小说, 自我认同, 跨性别, 科技伦理, 报告, 轮回, 变身, 虚拟现实, 非法实验, 警察调查, 家族关系, 青少年问题, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

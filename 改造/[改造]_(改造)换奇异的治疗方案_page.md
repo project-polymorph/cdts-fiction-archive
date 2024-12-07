@@ -7,7 +7,7 @@ TXT 下载: [[改造]_(改造)换奇异的治疗方案.doc]([改造]_(改造)换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部变身与跨性别相关的小说，讲述了两个好基友李浩然与王大治之间相互拯救与改造的故事。小说围绕王大治的一场疾病展开，描绘了他与精致的好友李浩然之间复杂的情感关系以及李浩然为治病而设计的一套奇异的治疗方案。伴随变身与乳胶化怀孕的情节，故事涉及了基因与疾病的科学探讨，也夹杂着感人的友情与潜在的恋情。整部作品目前连载中，已有四章，总字数约一万七千字。文中生动描绘了两位主角的性格与形象，并设置了丰富的对话和情景，展现了他们的友谊和对彼此的情感支持。最终，这个故事承诺有一个好的结局，反映了对生命和友情的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_(改造)换奇异的治疗方案.doc]([改造]_(改造)换
 | Size            | 69632 bytes                           |
 | MD5             | 692d9f48286c1a95071ecbe3e95ec685                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | lin1989912、C3 Y+ q$x+ X                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 友谊, 科学实验, 治病方案, 乳胶化, 自我认知, 情感探索, 科技幻想, 男生变女生, 奇异的医疗器械, 情感支援, 青春故事, 都市, 治愈系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

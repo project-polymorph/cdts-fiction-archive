@@ -7,7 +7,7 @@ TXT 下载: [[变身]_（原创）蛤蟆王子-我变成了金属史莱姆娘.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本记录了一位玩家在玩复古游戏PS3中的沉浸体验，故事围绕着角色的性别转换展开。在游戏中，玩家的角色是一个小男人，在使用异界模式后，意外地变成游戏中的女主角——一个金属史莱姆娘。随着故事的发展，玩家逐渐意识到自己身体的变化，细腻地描绘了角色的心理变化及身体感受，如“我突然感觉身体一轻，奇怪，怎么眼前电视机变矮了”，并在此过程中经历了自我认同的冲突与挣扎。文本也涉及游戏机制与角色合成的情节，例如：“女神官被合成成敌方怪么”，展示了角色在游戏中不断向其新的身份适应的过程。作品不仅仅是对性别转换的描绘，同时也反映了对自我认知及性别认同的探索，充满奇幻色彩和心理描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_（原创）蛤蟆王子-我变成了金属史莱姆娘.do
 | Size            | 86528 bytes                           |
 | MD5             | 61ca023f67f33a9357f5a316ebc175dd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 金属史莱姆娘, 游戏沉浸感, 心理探讨, 角色扮演, 异界冒险, 自我认同, 幻想, 二次元文化, 女性角色, 游戏机制, 角色合成, 奇幻, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

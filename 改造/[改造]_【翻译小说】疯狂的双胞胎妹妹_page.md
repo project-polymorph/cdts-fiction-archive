@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译小说】疯狂的双胞胎妹妹.docx]([改造]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一部关于双胞胎兄妹关系、性别角色扮演以及自我转变的小说。故事围绕布莱恩和布里安娜展开，两个兄妹在父母去世后，面临着遗产分配。布里安娜在经历了一段不幸的生活后，决定戒毒并重新开始。在与哥哥布莱恩的互动中，布里安娜计划了一场变装派对，实质上是一种对性别角色的挑战和探索。她说服哥哥在派对上打扮成女性，回溯他们小时候的相互换装经历。故事的情节充满了纠结与微妙的情感变化，展现了布里安娜的变化和她与哥哥之间复杂的关系。文中涉及多次对于性别身份的思考与描画，带有一定的戏谑与幽默。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译小说】疯狂的双胞胎妹妹.docx]([改造]_
 | Size            | 54994 bytes                           |
 | MD5             | 0b98aca0d803ca3abded9a8ec1b9dc9b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 双胞胎, 性别角色, 自我探索, 家庭关系, 变装派对, 戒毒, 性别认同, 兄妹情, 性转, 幽默, 社会认同, 禁忌爱, 戏谑, 情感冲突, 身份转变, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

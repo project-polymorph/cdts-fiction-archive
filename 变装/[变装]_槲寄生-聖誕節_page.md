@@ -7,7 +7,7 @@ TXT 下载: [[变装]_槲寄生-聖誕節.doc]([变装]_槲寄生-聖誕節.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《槲寄生-圣诞节》，是一部描绘伪娘与变身相关情节的小说，属于性转小说的类别。故事围绕主角詹姆斯展开，他原本期待与双胞胎丽緹和蘿娜尔的约会，却意外被她们囚禁并进行了一系列非人的玩弄。在这个圣诞之夜，詹姆斯被电击、脱毛、变装，以及最后在一场神秘舞会上展示为性感女秘书‘珍妮佛’。文中详细描写了詹姆斯对这一切的抵抗与羞耻感，包括不得不穿上淫荡的衣物、接受化妆、以及面临众人的目光和调侃。该小说通过极度的性别转变和由此产生的心理冲突，探讨性别认同、自我认知与他人期待之间的关系。作为续集，它与先前的《平安夜》分享了相同的背景，但从不同的角度展开，展示出不同的叙事风格和情节走向。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_槲寄生-聖誕節.doc]([变装]_槲寄生-聖誕節.doc)
 | Size            | 74240 bytes                           |
 | MD5             | b2a819e83f093085e32837ca4d62ac4c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 跨性别, 虐待, 性奴隶, 圣诞节, 电击, 化妆, 黑暗向, 舞会, 双胞胎, 办公室故事, 自我认知, 羞耻感, 心理冲突, 性别认同, 时尚, 情感操控, 极端变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_楊文和王雨（四）.docx]([附身]_楊文和王雨（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描述了一个围绕张绍同学的故事情节，涉及到诸多复杂的人际关系和社会问题。故事开始时，张绍因被老师叫到办公室而感到意外；此时学校中传出关于一具男尸的讨论，张绍心中暗想是否与自己相关。文章中提到张绍与另一角色杨文之间的联系，以及张绍在局势变动下的恐慌心理。与此同时，王雨作为张绍的女友，她的行为被警方关注，而她似乎在利用她的魅力来达到某种目的。尤其文中有大量关于王雨展示自己的描述，展示了强烈的性暗示和色情内容。整体来看，故事涉及到逃避、身份认同和青少年人际关系等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_楊文和王雨（四）.docx]([附身]_楊文和王雨（
 | Size            | 28012 bytes                           |
 | MD5             | de8bc5a04711d9dfa37b429dfa8e3f16                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 矛盾心理, 青少年, 人际关系, 逃避现实, 强烈性暗示, 社会问题, 学校生活, 性转, 伪娘, 女友关系, 警察调查, 思想斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_天生超模(三).docx]([变装]_天生超模(三).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《天生超模(三)》是一部围绕女装与性别转换主题的伪娘小说。故事的主角单邈峨在一群女友的鼓励和训练下，开始尝试以女性身份生活。小说中描绘了单邈峨对自己性别认同的挣扎和逐渐接受的过程。与此同时，女孩们对他的外貌、行为、妆容进行细致入微的调整和训练。在训练中，单邈峨面临着如何掌握化妆、走路姿势、以及自信心等挑战，尽管不断感到难以接受，但最后还是在女孩们的鼓励下开始适应这一新身份。在每次的尝试和训练中，彼此之间流露出温暖的支持与友谊，同时也探讨了性别认同与自我接受的深层主题。适当描绘了化妆、时尚感以及女性化的细节，展现出角色从抵抗到接受的心路历程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_天生超模(三).docx]([变装]_天生超模(三).docx)
 | Size            | 37038 bytes                           |
 | MD5             | 26aa502b58ea33c5712ea56ed80d7d8b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 性别认同, 化妆技巧, 女性化训练, 少女心, 自我探索, 友谊, 时尚, 心理成长, 社区支持, 青春叛逆, 性别流动性, 变少女, 性别角色, 外表与身份, 情感接受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

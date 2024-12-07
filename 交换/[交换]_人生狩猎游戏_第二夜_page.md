@@ -7,7 +7,7 @@ TXT 下载: [[交换]_人生狩猎游戏_第二夜.docx]([交换]_人生狩猎�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《人生狩猎游戏》第二夜是一本描绘性别转变和身份认同主题的小说。故事的主角宁凝原本是男人，但醒来后发现自己身处于一个女孩的身体中，并且被迫接受这个新身份。在文中，宁凝经历了一系列日常生活，包括她的管家对她生活的严格控制、过于精细的时间安排以及在学校的枯燥学习。她的内心充满了对这种生活的不满和渴望逃脱的挣扎。在这一夜，她迫切希望能再次参加那个名为“人生狩猎游戏”的活动搜索自由。然而，故事通过宁凝的心声和对过去生活的回忆，展现了角色对身体和身份转变的复杂感受，以及对自我探索的渴望。小说同时还涉及拒绝接受控制和寻找自我解放的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_人生狩猎游戏_第二夜.docx]([交换]_人生狩猎�
 | Size            | 34189 bytes                           |
 | MD5             | ef79b5951abaab488268990e0dcf1934                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 自我探索, 身份认同, 日常生活, 少女成长, 管家控制, 压力与挣扎, 逃离与自由, 细腻描写, 梦境与现实, 心理冲突, 复习压力, 青涩体验, 探索身体, 隐藏欲望, 绝望与希望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

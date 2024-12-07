@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_考试三部曲之三_完结篇_代考.docx]([皮物]_考�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一部关于伪娘及性转变身的小说，主要讲述了男主角游明如何化身为女生‘沈月’代替他人参加考试的故事。故事开头探讨了考试的背景信息，接着描绘了游明在准备化妆和穿衣过程中的自我认同与变化。从一个身材瘦弱的男生，到最后化身为性感少女沈月，其心理转变与生理变化形成鲜明对比。在女装过程中特别强调角色的内心世界，以及她对自身女性身份的接受与兴奋，引出关于性别认同的深层次思考。同时，在考场内，沈月与其他考生之间的互动，以及她对周围环境的观察也融入了故事中，展现出她作为女性的感受与经历。文中的一些情节涉及性暗示和身体感受，特别在穿上紧身衣和化妆的细节描写上形象生动。整个故事充斥着青春的悸动与对性别角色的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_考试三部曲之三_完结篇_代考.docx]([皮物]_考�
 | Size            | 35019 bytes                           |
 | MD5             | ce896177c2da6546b840f9767ddb6c0c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 代考, 心理变化, 自我认同, 青春, 考试, 校园, 身体转换, 女装, 生理变化, 角色扮演, 情感探索, 隐秘身份, 社会观察                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

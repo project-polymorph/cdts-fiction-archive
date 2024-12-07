@@ -7,7 +7,7 @@ TXT 下载: [[交换]_阴与阳，和妹妹交换身体_6.doc]([交换]_阴与�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇描写角色性别转换和怀孕过程的小说。故事围绕主人公克雷格与他的妹妹丽莎之间的身体互换展开。在互换后，克雷格逐渐习惯作为女性的生活，并体验了女性角色的复杂情感和身体变化。随着时间的推移，克雷格发现自己怀孕了，这一现象使他感到恐惧和焦虑。文中详细描绘了克雷格面对怀孕期间身体变化的挣扎与情感波动，包括对女性身份的接受、对分娩的恐惧以及产前抑郁等心理状态。此外，故事中涉及到家庭成员如何参与克雷格的经历，以及他如何逐步接受自我身份的变化和社会的看法。这篇小说探讨了性别认同、身体与心理的兼容性，以及对身份转变的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_阴与阳，和妹妹交换身体_6.doc]([交换]_阴与�
 | Size            | 62976 bytes                           |
 | MD5             | 99c9358eb41f4245d8227f17efea6619                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kris K, Lisa                               |
+| Region          | 未知                               |
+| Date            | 2011-04-13                                 |
+| Tags            | 性别转换, 怀孕, 跨性别, 自我探索, 角色互换, 产前抑郁, 女性体验, 亲情, 心理挣扎, 社会认同, 二次元, 魔法, 奇幻, 心理描写, 情感冲突, 变身, 变嫁, 弱势群体, 离奇经历                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

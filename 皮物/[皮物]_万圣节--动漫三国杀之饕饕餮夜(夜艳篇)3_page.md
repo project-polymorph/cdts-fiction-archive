@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_万圣节--动漫三国杀之饕饕餮夜(夜艳篇)3.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别相关的伪娘、变身及跨性别小说，描绘了在万圣节的盛大聚会上，女帝招待了一群来自不同国家的玩家，他们穿着统一的服装以方便交流。小说中包含了华丽的场景描写和角色之间的紧张互动，凸显参与者的心理变化和情绪波动。聚会中，女帝端起一杯81年的柏图斯红酒，向众人致以欢迎辞，气氛在美食与酒的搭配下愈加热烈。紧接着，故事转入万圣节之夜的三国杀大赛，伴随扣分制和特殊规则，选手们需要面对身心的挑战，潜藏的紧张与羞耻感在即将展开的比赛中交织。文中提到的角色，尤其是参与者的服装与心理描写，为该类型的变身故事增添了丰富的层次和情感冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_万圣节--动漫三国杀之饕饕餮夜(夜艳篇)3.docx
 | Size            | 19253 bytes                           |
 | MD5             | 2f9d1ff04ad12fdf3ebd0eac9072b871                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 万圣节, 三国杀, 竞技, 情欲, 华丽, 心理斗争, 红酒, 角色扮演, 阴暗游戏, 女性形象, 服装, 美食, 跨文化交流, 挑战与羞辱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

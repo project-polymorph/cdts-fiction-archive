@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_喉舌计划——隆南外传.doc]([皮物]_喉舌计划�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《喉舌计划——隆楠外传》是一本以性别转换和跨性别主题为核心的小说，描绘了角色李明勇与其未婚妻隆楠之间的情感和身体探索。故事开头，李明勇温柔地照顾刚从工作中疲惫不堪的隆楠，展现了情侣间的亲密互动。随着情节的发展，小说内容逐渐转向更为隐私和赤裸的描述，隆楠在独处时与自己身体的探索交织，并体现出自我认知与情感的复杂性。隆楠在卫生间试图通过自慰来缓解焦虑和欲望，表明她对自我身份和性欲的挣扎。小说不仅涉及身体的直接描写，也融入了角色对自己情感的理解与接受。为了表现角色之间的亲密关系，细致描绘了身体的交流与碰撞，以及文化和情感的影响。在故事的最后，作者通过隆楠与李明勇的对话，拓展了关于爱与婚姻的讨论，揭示了角色在角色身份和个人感情上的进一步演变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_喉舌计划——隆南外传.doc]([皮物]_喉舌计划�
 | Size            | 84992 bytes                           |
 | MD5             | 77de77beea3702948c10330084b21e4b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身小说, 情感探索, 身体认同, 情欲描写, 亲密关系, 双性恋, 女性视角, 心理冲突, 人际关系, 婚姻, 生活日常, 性别认同, 自我发现, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

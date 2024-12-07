@@ -7,7 +7,7 @@ TXT 下载: [[其他]_精神男性化短篇集.docx]([其他]_精神男性化短
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部有关精神男性化女性日常生活的短篇小说，主角是名为四江波日菜子的26岁女性，在大学毕业后因不明原因经历了精神男性化的过程。小说详细描绘了日菜子的日常生活，包括她在工地上的工作，与男同事间的交往，以及她在私人生活中的女性形象和性别认同的问题。尽管外表仍为女性，日菜子却甘愿融入男性的工作和社交环境，她的工作表现和男女同事的相处都显得自如。而在家中，日菜子表现出对女性角色的探索与渴望，比如在洗澡后的放松时刻，她会幻想着自己作为一个女性的情感与欲望。整部作品呈现了角色在性别认同、自我探索和社会期望之间的挣扎与互动，并包含了一些与性行为相关的描写，涉及爱情、身体认同等复杂主题，展现了当代跨性别的社会现象。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_精神男性化短篇集.docx]([其他]_精神男性化短
 | Size            | 34379 bytes                           |
 | MD5             | 4df9982272cbf4cb212260add845e95f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 精神男性化, 自我认同, 性别探索, 跨性别, 工地生活, 女权主义, 社会性别, 自我意识, 日常生活, 性幻想, 女性视角, 友情, 青春，煽情, 性别转换, 职场, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

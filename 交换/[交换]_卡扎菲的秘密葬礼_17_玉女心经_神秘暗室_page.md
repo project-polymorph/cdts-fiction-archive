@@ -7,7 +7,7 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_17_玉女心经_神秘暗室.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《卡扎菲的秘密葬礼》第17章，名为《玉女心经 神秘暗室》。故事围绕主角莎菲娅与卡扎菲的关系展开，描绘了强制变装和SM元素，涉及对政治权力的反思与扭曲的情感互动。本章中，莎菲娅在卧室中沉浸于前庄园主留下的神秘物品，且作者通过对内心挣扎与性别认同的探讨，体现出权力、性、欲望间复杂的联系。卡扎菲在暗室中调教政敌，内容涵盖了挑逗、羞辱与自我认知的交织，主角逐渐承认自己作为女性的身份，适应新角色的生活与战斗。情节通过不断的性暗示与心理斗争阐释了角色的转变与适应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_17_玉女心经_神秘暗室.docx
 | Size            | 20498 bytes                           |
 | MD5             | b36f02f50a6ff015e5c0200f34aee93c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, SM, 强制变装, 权力游戏, 性奴, 性别认同, 二次元, 性转, 情感纠葛, 自我探索, 隐秘社交, 色情内容, 心理斗争, 力量与欲望, 角色扮演, 禁忌主题, 阴暗心理, 复杂关系, 情感调教                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

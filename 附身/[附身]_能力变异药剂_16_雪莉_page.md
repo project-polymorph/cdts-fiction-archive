@@ -7,7 +7,7 @@ TXT 下载: [[附身]_能力变异药剂_16_雪莉.docx]([附身]_能力变异�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为伪娘变身与跨性别主题的小说第十六章，主要围绕角色雪莉的身体感受和自我认知展开。雪莉是个外星人寄生于此人的身体，拥有女性的身体特征，此篇章节详细描绘了她对新身体的感受，例如感觉到胸前的压力、下体的空荡感等。随着情节的发展，博士与林思记录着她的新身份和身体反应，展现了对身体认同的挣扎与探索。同时，文本中提及角色的背景，包括她的复杂身份以及博士的实验设置。情节中也涉及一定的色情暗示，如对乳房的描述和性别认同的冲突。该作品反映出性转、变身等主题，同时兼含成人情节，适合进行性别与身份认同的研究和讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_能力变异药剂_16_雪莉.docx]([附身]_能力变异�
 | Size            | 21601 bytes                           |
 | MD5             | c6440f23b7ffa16ee906d53cfe9c8fc9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 成人内容, 女性身体感受, 身份认同, 实验室, 外星人寄生, 性别探索, 自我认知, 雪莉, 博士, 林思, 故事背景, 复杂的情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

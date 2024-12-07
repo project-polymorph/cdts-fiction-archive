@@ -7,7 +7,7 @@ TXT 下载: [[交换]_龙舌兰_20_密谋.docx]([交换]_龙舌兰_20_密谋.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以性别交换为主题的小说的第二十章，题为《密谋》。故事围绕主角杨立展开，他被迫进入了女性化的身体——陈琳峰，而主角的老婆思琪则被强制换到了中年男人赵福源的身体里。文件中描绘了角色们复杂的身体和性别状态，充满了紧张的交互和情感冲突。章节中详细描述了一场充满欲望与冲突的场景，展现了主人公在面临自我认知转变和身体转换后的混乱与挣扎。酣畅的情色描写与角色之间的关系纠葛相辅相成，反映出对性别认同和自我认知的深刻探讨。故事中涉及到的角色如蕊可和陈琳峰等也都承载着复杂的情感维度和背景。整体叙述充满了戏剧性的情节张力与性暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_龙舌兰_20_密谋.docx]([交换]_龙舌兰_20_密谋.doc
 | Size            | 27787 bytes                           |
 | MD5             | 6250c6ba7b9e5a59e522d29384220689                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | yudi（ft3020997）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 伪娘, 变身小说, 跨性别, 强奸, 情感纠葛, 自我探索, 情欲, 黑帮, 都市小说, 复仇                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

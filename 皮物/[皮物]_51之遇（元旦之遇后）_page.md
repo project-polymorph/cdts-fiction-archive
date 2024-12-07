@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_51之遇（元旦之遇后）.doc]([皮物]_51之遇（元
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇伪娘 TS 变身与跨性别相关的小说，主要讲述了一名男子在元旦期间的真实故事，涉及性别认同与角色扮演的内容。故事的叙述以第一人称的视角展开，主人公似乎对自己的过去有些迷茫，但又无法抵挡自己在特定情境中产生的性欲和自我认知的挣扎。文中多次提到一些细节，如对他自己和其他角色的外貌描述，以及与周莉的亲密关系，且包含了不少性暗示和性行为的描写，也涉及了同性恋以及潜在的伦理问题。人物间复杂的关系与情感交织，形成了一种戏剧化的对比，展现了在性转和角色认同下的人际互动与自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_51之遇（元旦之遇后）.doc]([皮物]_51之遇（元
 | Size            | 40448 bytes                           |
 | MD5             | 024289f117c0fa68847a9ed4881e07e3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 跨性别, 变身小说, 元旦故事, 性行为, 角色扮演, 自我探索, 伦理问题, 同性关系, 青春校园, 性欲挣扎, 情感纠葛, 性转, 男人与女人的对立, 欲望与现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

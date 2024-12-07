@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译】两害相权取其轻_1_3.doc]([变装]_【翻
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文摘录自一部性转与跨性别主题的小说，讲述了21岁的IT员艾瑞克在公司内部观察和窃取同事隐私的故事。艾瑞克的生活单调无趣，他通过VPN监控同事的电脑，发现了最上层管理者尼克的性癖好，尼克对被羞辱和变装的幻想揭示了他内心的性别认同问题。在一次冲突后，艾瑞克质疑尼克的行为，并利用他掌握的私密信息威胁尼克，试图让他停止对其他女同事的骚扰。两人之间的力量游戏开始了：艾瑞克需要落实自己如何删除过去的痕迹，而尼克则利用艾瑞克的秘密引导他走向意想不到的合作关系。文中充满了对性别认同和权力结构的讨论，涉及到性别转换、变装癖、性骚扰等敏感主题，以及两位男性角色之间的复杂互动与暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译】两害相权取其轻_1_3.doc]([变装]_【翻
 | Size            | 67072 bytes                           |
 | MD5             | fb1b810f8568805b091c905da18833e6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 变装, 性骚扰, 自我发现, 职场伦理, 权力游戏, IT行业, 秘密                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

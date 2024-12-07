@@ -7,7 +7,7 @@ TXT 下载: [[交换]_如果因为爱情而交换人生的话.doc]([交换]_如�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段关于性别转换与个人探索的小说片段，主要围绕角色白子游的心路历程和对自己身份的认知展开。故事开篇白子游在医院中醒来，却发现自己的身体发生了变化，变成了一个女孩子。文中详细描写了他对身份变化的初步反应，包括对纤细手臂和长发的惊讶。随着情节的发展，白子游回忆起自己的过去，正在准备进入新工作岗位，而他的好友江铭则热衷于帮助他摆脱单身状态。小说中还涉及到与高中同学玲爱的重逢。玲爱如今成为了一名服务生，白子游与她的关系在一系列对话中若隐若现。文章的叙述方式不仅展现了性别认同的复杂性，也通过亲密互动探讨了爱情与人际关系的边界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_如果因为爱情而交换人生的话.doc]([交换]_如�
 | Size            | 38400 bytes                           |
 | MD5             | d287d5d0d732791945876cec29ca3222                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 男娘, 变身, 自我认知, 恋爱, 青春, 情感探索, 医院, 失落, 友谊, 单亲家庭, 社会身份, 回忆, 职场, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

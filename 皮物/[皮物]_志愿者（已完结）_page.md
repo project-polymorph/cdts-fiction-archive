@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_志愿者（已完结）.doc]([皮物]_志愿者（已完�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容围绕志愿者在野生动物保护区的工作展开，描述了四位女性志愿者的自我介绍与互动。视频中首先介绍的是名为郄歌的女性，外表刚毅，手握一柄刀，给人以精干干练的印象；接着是主播季笙，以甜美的形象描述了她参与保护区工作的初衷，并透露会在直播平台上进行相关活动，旨在吸引更多人关注和支持动物保护。剩余的两位志愿者，邳舞和荣荷，展现出不同的个性，分别显得柔弱而可爱和风情万种。在视频结束后，观看的男性群体开始讨论志愿者们的能力，并对她们的行为做出评价，从中透出轻视和挑衅的意图。随着讨论的深入，角色间产生了权力和性别的张力，隐含着潜在的冲突与阴暗的动机。文中部分对话暗示了即将发生的危险情节，揭示了志愿者们在保护区工作的风险。此外，对细节和角色性格的描写也暗示了整个故事可能的走向。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_志愿者（已完结）.doc]([皮物]_志愿者（已完�
 | Size            | 110080 bytes                           |
 | MD5             | ed2cb96bccdd2edebd1e0e68eec1e2c2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 志愿者, 保护区, 性别认同, 跨性别, 强奸, 伪娘, 调教, 女体化, 逆后宫, 爱情, 青春, 直播, 社交媒体, 野生动物保护, 自我探索, 人际关系, 权力互动, 危险情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

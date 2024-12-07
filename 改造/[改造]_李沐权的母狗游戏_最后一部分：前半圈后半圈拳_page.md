@@ -7,7 +7,7 @@ TXT 下载: [[改造]_李沐权的母狗游戏_最后一部分：前半圈后半
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《最后一部分：前半圈后半圈拳》，主要叙述了主角在一只狗的身体里经历的情感与自我认同挣扎。故事中的主角与他的姐姐互动频繁，描述了他试图通过狗的身份来与姐姐交流，同时也透露了内心对人类身份的渴望。文中提到主角‘球球’在探索如何表达自己的思想和情感，虽然目前只能通过狗的表达方式进行交流。情节穿插了带有玩笑与温馨的互动，如‘坏狗狗’与姐姐间的嬉闹、笑声，以及姐姐在疲惫后与球球的亲密互动。故事涉及细腻的情感描写，以及主角对身份认同和情感表达的探讨，涉及了一些可能的成人情节，但主要还是强调情感的交流与人宠之间的羁绊。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_李沐权的母狗游戏_最后一部分：前半圈后半
 | Size            | 54784 bytes                           |
 | MD5             | 96353840cc014010ec9a02a91ada172a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 情感交流, 动物拟人化, 自我认同, 温情互动, 幽默, 奇幻, 异世界, 情欲, 敏感话题, 女主, 性别探索, 主人与狗, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

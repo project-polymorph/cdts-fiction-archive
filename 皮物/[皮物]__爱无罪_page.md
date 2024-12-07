@@ -7,7 +7,7 @@ TXT 下载: [[皮物]__爱无罪.doc]([皮物]__爱无罪.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一本涉及伪娘、跨性别及性转主题的小说，情节围绕主人公的复杂人际关系展开，主要以杨锐锋和小白的对话为轴心，描述了杨锐锋因前妻王蔷与他离婚而导致生活陷入困境，并请求主人公帮忙安装监控探头以"监视"前妻以找回损失的财物。小说中提到了各类人物背景和复杂的情感纠葛，探索了性别认同与社会压力，并伴随着犯罪阴影，包含了较明显的社会讽刺和对角色内心挣扎的刻画。在多个场景中，通过对话展现了角色的心理变化和道德选择的困扰，同时隐含对物质欲望和人际信任的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]__爱无罪.doc]([皮物]__爱无罪.doc)
 | Size            | 55296 bytes                           |
 | MD5             | 07e9aecebe0418f12fae9654c0ff8580                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 心理斗争, 社会讽刺, 婚姻破裂, 性别认同, 犯罪阴影, 情感纠葛, 道德困境, 个人探索, 欲望与失落, 监控, 绝望, 复仇, 现代都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

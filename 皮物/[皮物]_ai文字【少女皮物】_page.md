@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_ai文字【少女皮物】.docx]([皮物]_ai文字【少�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个以紫罗兰家族为背景的跨性别主题小说，讲述了家族中的男性长子阿尔在18岁时为了继承家族的秘密和魔法力量，穿戴一件神秘的少女皮物的过程。在穿戴这件皮物的预备期中，阿尔接受姐姐阿兰戴尔的训练，经历了一系列的羞辱和探索自我的过程。在阿兰的训练下，阿尔的外表逐渐变得女性化，这引发了他内心的矛盾，而这种训练不仅是为了掌握女性的礼仪与气质，还伴随着诸多羞辱性惩罚。这部小说的情节复杂，涉及权力、家庭、性别认同以及魔法等多重元素，最终阿尔在经历了与教廷的权谋斗争后，成为了魔王的继承者，背负着两种身份的压迫与自由的渴望。故事细腻地描绘了角色的内心挣扎与成长，同时也展现了丰富的二次元文化特征。在故事的结尾，阿尔意识到自身被命运支配的无奈，渴望回到自由的生活。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_ai文字【少女皮物】.docx]([皮物]_ai文字【少�
 | Size            | 18279 bytes                           |
 | MD5             | 737970cc221e56ae766f750a1c92cb72                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 性别认同, 自我探索, 魔法, 家庭关系, 羞辱, 权力斗争, 女体化, 跨性别, 成长, 二次元文化, 恶魔, 魅魔, 皮物, 训练与羞辱, 魔王的继承者                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_魔物女王娜娜（三、四、五）.doc]([改造]_魔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件记录了一部涉及魔物和性转主题的小说，主角被强大的魔物嘎噜俘获后，被迫生活在其洞穴中。故事中提到，嘎噜是一只异常强大的地精魔物，拥有众多的地精手下。在被俘期间，主角被视作性欲的工具，不停地与地精们发生关系，尽管她努力封闭自己的生理机制以避免怀孕，但最终还是在一系列挣扎和痛苦之后选择放弃抵抗，这样她的地位在魔物中逐渐提高。她开始接受自己作为魔物的身份，与此同时，她的记忆也被不断侵蚀，逐渐形成了新的自我认知。女主的社会地位因怀孕而上升，她甚至参与了食人肉的恶行。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_魔物女王娜娜（三、四、五）.doc]([改造]_魔�
 | Size            | 44032 bytes                           |
 | MD5             | 40f01bef776953d06444e83725f308c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔物, 性转, 伪娘, 变嫁, 陷入奴役, 地牢, 地精, 强奸, 淫荡, 人肉, 血腥, 自我认知, 异兽, 痛苦, 性交, 堕落, 黑暗幻想, 女性视角, 孕育, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

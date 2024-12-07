@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_二重奏（五）.docx]([皮物]_二重奏（五）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一段伪娘与跨性别相关的小说片段，描绘了一个角色在准备上学的过程中与另一位女性角色之间的互动。故事开头提到角色即将回到学校，体现了一种对于往年征文区无法使用的沮丧。文本中，角色与筱伊的关系逐渐亲密，透过她在汽车中晕车的状态揭示了角色微妙的心理变化，充满了自我认知与情感的冲突。在一系列对话和细致的场景描写中，角色们的关系也出现了性暗示与尴尬场面。这段插曲的情节基于性别认同与性别角色的探讨，同时涉及到细腻的情感联系和复杂的人际互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_二重奏（五）.docx]([皮物]_二重奏（五）.docx)
 | Size            | 51995 bytes                           |
 | MD5             | 5a69aa2777441bad9249abb3fa4406f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国寓言                               |
+| Date            | 2023-08-05                                 |
+| Tags            | 变身, 伪娘, 青涩爱情, 自我探索, 性别认同, 校园, 亲密关系, 梦境, 奇幻, 超现实, 成年与青春, 幽默, 浴室场景, 心理冲突, 情感纠葛, 角色互动, 细腻描写, 现代生活, 家族关系, 友情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

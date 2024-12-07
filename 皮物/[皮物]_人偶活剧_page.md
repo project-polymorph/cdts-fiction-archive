@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人偶活剧.docx]([皮物]_人偶活剧.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描述了一场名为“人偶活剧”的表演，讲述了一位观众在前往观看演出过程中的心理活动与感受。故事开始于观众手中握着一张印有华丽人偶少女头像的门票，描绘了她的绝美外表和缺乏灵魂的特质。随着表演时间的临近，观众对人偶的期待与奇异的心理体验交织在一起。演出现场，观众见证了一场无声的木偶剧，由美丽的人偶表演，观众被这些人偶所传达的情感所吸引，体验到一种无法用语言形容的美感。人偶通过精致的表现和细腻的肢体动作，营造出独特的艺术氛围。表演结束后，观众因情感的冲击陷入了一种恍惚状态，并试图潜入后台，揭开人偶们的秘密。然而，令人意想不到的是，人偶们似乎拥有了自主的意识，展现出真实的人类情感和动作。这一切引发了观众心中的疑惑与惊讶，强调了人偶与人类之间复杂的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人偶活剧.docx]([皮物]_人偶活剧.docx)
 | Size            | 20194 bytes                           |
 | MD5             | 465caa2ecfe2d2e55512038122d7e743                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人偶活剧, 木偶表演, 性别探索, 人偶与人类关系, 心理感受, 艺术表现, 情感传递, 奇幻, 未知意识, 自我探索, 二次元文化, 超现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《不洁轨迹》【定制文章】【短篇已完结】.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《不洁轨迹》，讲述了一个发生在皇宫内的巧妙盗窃故事。故事的主要人物，索利亚，是一名身陷黑暗世界的盗贼，他与同伴雷丽雅及霍华德共同策划了一次惊险的偷盗任务。文件开头描述了皇宫作为权力象征的防御严密，而索利亚却抱有一种轻蔑的态度，似乎并不畏惧。剧情的转折在于他们使用了一种名为“消灭气息的药丸”，这使得他们在潜入时不会被发现。随着故事的发展，索利亚的自信和对权力的渴求逐渐显露，他想要独占宝藏，最终在一次潜行中，残忍地杀死了两名守卫并企图混入宝物库。整篇故事充满了悬疑与刺激，以及对角色内心欲望的探讨。尤其是在兄弟与背叛、欲望与恐惧之间的微妙平衡，使得情节引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《不洁轨迹》【定制文章】【短篇已完结】.
 | Size            | 91559 bytes                           |
 | MD5             | 025bdce5360beedf00558ddf118e4218                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 盗窃, 皇宫, 自我认知, 性转, 潜行, 奇幻, 冒险, 权力象征, 黑暗世界, 角色扮演, 悬疑, 背叛, 欲望探索, 黑暗幻想, 禁忌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

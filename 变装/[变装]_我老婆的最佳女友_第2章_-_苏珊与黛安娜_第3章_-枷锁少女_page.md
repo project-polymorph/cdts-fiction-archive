@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我老婆的最佳女友_第2章_-_苏珊与黛安娜_第3
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含小说《我老婆的最佳女友》的第二章和第三章，讲述了两位邻居苏珊和黛安娜与叙述者之间复杂的情感关系。在第二章中，叙述者表达了对苏珊的迷恋，详细描绘了苏珊的外貌和性格，展示了她的女性魅力和高挑身材。叙述者自认为如果自己是女人，也希望能像苏珊那样打扮。苏珊在故事中展现出乐观和善解人意的特质，使得叙述者对她的性幻想更加深厚。第三章则转向了叙述者亲身体验女装后的尴尬与困惑，描述了他们之间的互动，特别是苏珊对叙述者的惊讶和好奇。当叙述者穿上束缚的女装，苏珊既感到惊讶又想要支持他，表现出对友情的珍惜。叙述者在矛盾中挣扎，对梳理着复杂情感的两个女人心向往之。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我老婆的最佳女友_第2章_-_苏珊与黛安娜_第3
 | Size            | 31693 bytes                           |
 | MD5             | 51d41121fa5ae3aca1179217b48ee7a8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 情感关系, 性别认同, 性幻想, 百合, 骚乱, SM, 情节发展, 现代生活, 邻居关系, 女性视角, 自我探索, 社会压力, 内心挣扎, 青春小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

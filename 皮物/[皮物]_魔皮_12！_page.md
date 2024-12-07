@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔皮_12！.docx]([皮物]_魔皮_12！.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关的小说片段，主要涉及伪娘、跨性别及变身等主题。故事设定在一个名为LUST本部的场所，开头以女主角爱丽丝的视角展开。爱丽丝是一个翅膀丰满的角色，她在地下室面对从黑暗中窜出的恶魔角色。这段故事描绘了爱丽丝与恶魔之间的战斗及冲突，展示了角色之间的力量对抗及性别角色的扭转。文中不断提到各种超自然元素，如恶魔的附身和变身、魔法攻击、以及个人的性别认同的挑战。“可恶，力量太杂了么！”表达了角色对自己能力的困扰，也暗示了角色自我认知的复杂性，反映了跨性别主题。同时，故事中穿插着激烈且带有暴力色彩的战斗场面，涉及血腥、性暗示等情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔皮_12！.docx]([皮物]_魔皮_12！.docx)
 | Size            | 26407 bytes                           |
 | MD5             | 23dff7155fb3e31f55814799c0e2db53                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 恶魔, 魔法, 兄妹恋, 暴力, 性暗示, 黑暗幻想, 奇幻冒险, 地下战斗, 性别认同, 超自然力量, LUST                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

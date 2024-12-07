@@ -7,7 +7,7 @@ TXT 下载: [[变装]_从金变成金伯丽3.docx]([变装]_从金变成金伯�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘变装小说的一部分，主要讲述主人公金在经历了多次自我探索后，决定再次尝试变装作为女性身份金伯丽，并与姐姐凯伦一起进行角色扮演。故事深入描绘了金的内心挣扎与认同感，以及他在改变外表和行为的过程中逐渐增强的自信心。金曾因外貌而遭遇社交困扰，尽管他具有艺术才华，但因内向而未能获得理想的职场机会，最终失去了工作，生活陷入艰难境地。在姐姐的支持下，他开始重拾变装的乐趣，并学习如何打扮自己，与刚接触的女性世界建立联系。凯伦鼓励金以女性形象出现，帮助他改变外观，逐渐迈出舒适区。在与他人接触的同时，金感受到作为金伯丽的快乐与自我认同，激发出强烈的想要继续保持这一身份的欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_从金变成金伯丽3.docx]([变装]_从金变成金伯�
 | Size            | 27648 bytes                           |
 | MD5             | 60eada117263aa45d51c779213b6c794                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 性别认同, 自我探索, 姐弟情, 青春成长, 社会适应, 艺术设计, 女性角色扮演, 心理挣扎, 性别表达, 青春期, 家庭支持, 社交恐惧, 变身小说, 女装角色, 情感交流, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[碟中谍]游泳衣2_第五章_接触.doc]([附身]_[碟�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《碟中谍》系列背景下的一篇伪娘/变身小说，内容探讨了角色国明在性别身份上的变化与自我认知的探索。文本中，国明以女性形象出现，穿着短T恤与牛仔裤，逐渐适应了新的身份。角色们在游戏互动中体现出性别认同变化，国明开始享受这个女性身份带来的新体验，同时对自己之前的男性身份产生疑惑。在接电话与朋友的互动中，国明表达了对朋友身体的欣赏，暗示着她对自己性别变化的接受与自我认同的进一步深入。同时，另一名角色——作者将自己附身到的女性角色，也在经历身体转变的过程中，感受到身体与性别认同间的复杂关系。整个故事旨在探索性别流动性及对自我的接纳，包含了情感与身体变化的细腻描绘。此外，文本中还涉及一些对性行为和性别认同的探讨，引发读者自我思考与感悟。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[碟中谍]游泳衣2_第五章_接触.doc]([附身]_[碟�
 | Size            | 49152 bytes                           |
 | MD5             | 9fc92d508373b3c07ee733ee518036d5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性别认同, 自我探索, 游戏互动, 女性角色, 身体变化, 情感纠葛, 双性恋, 百合, 青春校园, 幻想文学, 性别流动性, 朋友关系, 都市小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

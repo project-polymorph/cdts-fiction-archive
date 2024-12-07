@@ -7,7 +7,11 @@ TXT 下载: [[变装]_降职.doc]([变装]_降职.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《降职》由作者Michelle X撰写，讲述了一个关于性别身份转变与自我认知冲突的故事。故事的主角是一名未满30岁的社会精英，原本在一家500强企业担任销售经理，过着奢华的生活，拥有新款宝马和美丽女友。然而，一年后，他的生活发生了巨大的变化，成为了办公室里领着最低工资的秘书，失去了之前的豪华与尊严。
+
+随着公司高层的人事调动，主角的晋升被同事朱莉的性别歧视策略所阻挠，并被公司新任CEO维拉强制安排担任秘书。朱莉借机施压主角，要求其遵循新的着装政策，只允许穿裙子和高跟鞋，主角不得不面对性别角色的转换和自我身份的重塑。
+
+在故事中，主角在维拉的操控下进行了购物，被迫穿戴女性化的职业装，经历了从严肃职场男性到性感女性秘书的转变。这部作品探讨了职场性别歧视、身份认同、权力游戏和个人尊严等深刻主题，展示了主角内心的挣扎与反抗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变装]_降职.doc]([变装]_降职.doc)
 | Size            | 56320 bytes                           |
 | MD5             | 096fa9906906d332075e7e4199da8c0e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Michelle X                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 职场心理, 身份认同, 权力游戏, 自我探索, 高跟鞋, 女性化, 职场性别歧视, 秘书生活, 变装小说, 情感冲突, 社会地位转变, 故事情节, 角色发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

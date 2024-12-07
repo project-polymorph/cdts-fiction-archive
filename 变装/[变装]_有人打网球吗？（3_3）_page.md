@@ -7,7 +7,7 @@ TXT 下载: [[变装]_有人打网球吗？（3_3）.doc]([变装]_有人打网�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档描述了一个关于角色性别转换的故事，主要围绕主人公的经历展开。故事开始于一个星期天晚上，主人公由于穿着女性内衣和打扮而感到焦虑，而在去办公室的路上，内心的紧张与对自己身份的探索相结合。故事详细描绘了主人公穿着少女胸罩、长筒袜及吊袜带，走在街上，内心的忐忑和对自我认同的挣扎。随着情节发展，主人公逐渐被引导到一个女性化的身份中，与同事海伦的互动让他更加深入地体验变装的感觉，包括穿着假乳和化妆。文件中频繁提到的场景，如办公室里的性别角色互动、主角的性别认同、以及与同事的关系，展示了对跨性别主题的探讨。涉及场景中的笑声、玩笑和逐渐接受的态度，描绘了一个充满性别探索与自我认同的过程，最后围绕着一个贞操锁的情节，使得故事充满了复杂的情感交织与心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_有人打网球吗？（3_3）.doc]([变装]_有人打网�
 | Size            | 38400 bytes                           |
 | MD5             | fdaaeeaf976946155b1b3bf648ad6de0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 跨性别小说, 自我探索, 办公室文化, 性别转换, 女性化, 女装, 假乳, 贞操锁, 内衣, 女同事友谊, 社会压力, 心理冲突, 情感探索, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

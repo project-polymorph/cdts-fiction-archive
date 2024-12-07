@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_打工人的时之魔珠（1）.doc]([皮物]_打工人的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《打工人的时之魔珠（1）》讲述了一个都市职场的奇幻故事，主线围绕主人公张清的日常生活展开。故事开头描绘了张清在办公室的日常，他接到来自女友顾萌萌的电话，谈论他的同事夏立海加班的事情。随着情节发展，张清和他的上司凌霜之间的微妙关系逐渐展开，凌霜的性感打扮和霸道气质让张清不禁心生幻想。故事不仅涉及职场的琐事，还夹杂着张清和凌霜之间的暧昧互动，以及另一名同事冯筱筱的奇怪举动，随着她的不当行为，办公室的氛围逐渐变得复杂，围绕性别和欲望的主题不断发酵。整篇小说通过细腻的描写展现了男女性别角色的对立与交融，以及职场中隐藏的情感纠葛和性暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_打工人的时之魔珠（1）.doc]([皮物]_打工人的
 | Size            | 47104 bytes                           |
 | MD5             | e4db1be087b7656138e45a66c4af4b90                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 职场, 奇幻, 性别转换, 暧昧, 强烈性暗示, 跨性别, 夜晚加班, 青春爱情, 办公室恋情, 角色互动, 性感女上司, 女性角色, 办公室, 都市小说, 女同事, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

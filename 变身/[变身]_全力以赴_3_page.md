@@ -7,7 +7,7 @@ TXT 下载: [[变身]_全力以赴_3.docx]([变身]_全力以赴_3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘TS变身与跨性别相关小说的一个章节，描绘了主角尼克在与朋友朱莉的旅途中进行身份认同与变身的过程。在这个章节中，尼克正准备迎接自己的新身份——凯拉·马隆。在轻松的车途中，朱莉鼓励尼克选择他的变身名字，并逐步引导他适应新的性别角色。章节描绘了两人之间亲密的友谊以及面对未知和变化的紧张感与兴奋感。对话表现了主角对新身份的期待与不安，同时也提到了需要维护隐私的“知情者名单”。文件中涉及的地点包括伦敦和普利茅斯，情节紧扣性别认同与自我探索，展现了伪娘文化的细腻与复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_全力以赴_3.docx]([变身]_全力以赴_3.docx)
 | Size            | 64276 bytes                           |
 | MD5             | 5cb644901f354bc03e9d130e51336950                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身小说, 伪娘文化, 友谊, 内心挣扎, 女性形象, 角色转变, 身份适应, 知情者名单, 紧张与兴奋, 美容沙龙, 旅行, 隐私保护, 情感发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

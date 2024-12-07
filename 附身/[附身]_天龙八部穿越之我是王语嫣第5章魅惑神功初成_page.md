@@ -7,7 +7,7 @@ TXT 下载: [[附身]_天龙八部穿越之我是王语嫣第5章魅惑神功初
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于《天龙八部》中王语嫣角色的一段穿越变身小说。小说围绕王语嫣在经历性别转换后，与身边的角色阿碧和阿朱之间发生的一系列亲密情感和性行为的描写展开，细腻描绘了她的感受与身体变化，以及情感上的冲突与满足。故事中，王语嫣使用魅惑神功来操控他人的心智，展开了一段充满淫荡与权力游戏的情节，包含强烈的性暗示和冲突，尤其是与慕容复及其母亲之间的关系更是复杂。通过细致的语言刻画和情节推进，作者试图展现性别认同与内心冲突的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_天龙八部穿越之我是王语嫣第5章魅惑神功初
 | Size            | 23156 bytes                           |
 | MD5             | cc368676832b717f2e38bd9dca86614c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 王语嫣, 魅惑神功, 互动情感, 亲密关系, 二次元小说, 性转故事, 强权与操控, 权力游戏, 性别认同探讨, 跨性别问题, 调教, 淫荡, 强奸, NTR, 百合, 病态, 附身, 魔法, 奇幻冒险, 武侠元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

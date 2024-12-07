@@ -7,7 +7,7 @@ TXT 下载: [[交换]_電話俱樂部.docx]([交换]_電話俱樂部.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件为一篇关于‘电话俱乐部’的小说，讲述了一名大学生在某个黄昏无意间发现了一条小巷，进入后发现在老旧楼房下有一家名为‘电话俱乐部’的店铺。该店铺以提供通过电话进行男女交流的服务为主，用户可通过支付一定的费用来使用店内的电话，与女性进行对话。在与女店员的交流中，小说的主角对该服务产生了好奇。在女店员的引导下，主角了解到了‘电话俱乐部’的操作流程，并在心中琢磨着可能的对话内容，以及他即将进行的体验。小说中包含了一些关于交友与现代社交的思考，情节轻松，其中特殊的“交换”服务引发了主角的好奇，暗示了一些超自然的设定，预示着可能会有身体交换的情节出现。整篇小说以对话为主，富有生活气息，展现了年轻人在现代交友中所面临的不安和挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_電話俱樂部.docx]([交换]_電話俱樂部.docx)
 | Size            | 41171 bytes                           |
 | MD5             | 60e4d45c93ce02183a91725dfac11a46                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | AAA114514                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, TSF, 电话俱乐部, 身体交换, 青春, 现代爱情, 交友, 奇幻, 超自然, 探索自我, 二次元, 成人内容, 变身小说, 自我认同, 男女人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

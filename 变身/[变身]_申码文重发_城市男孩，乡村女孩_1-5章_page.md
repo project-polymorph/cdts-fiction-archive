@@ -7,7 +7,7 @@ TXT 下载: [[变身]_申码文重发_城市男孩，乡村女孩_1-5章.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《城市男孩，乡村女孩》，是一个关于一对居住在纽约的夫妇——詹妮丝·帕尔曼和理查德·鲁宾斯坦的故事。故事开启于詹妮丝的回忆，她讲述了与丈夫在成功的婚姻生活中的点滴。理查德作为一名投资银行家，对一块油田土地的所有权产生浓厚兴趣，并通过伪装成潜在买家与其女主人展开接触，试图说服对方出售土地。此过程中，他逐渐陷入了复杂的情感纠葛与道德困惑。文中充满了对理查德的性格剖析以及詹妮丝对于婚姻与成就的看法，展现了一幅城乡结合的生活图景。该小说呈现了强烈的经济动机与人际交流之间的冲突，开头从詹妮丝的怀旧视角出发，逐步揭开了一个关于利益、牺牲与爱的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_申码文重发_城市男孩，乡村女孩_1-5章.doc]([�
 | Size            | 107008 bytes                           |
 | MD5             | a228e2e7dd7520509b828c0701ad3949                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 投资家, 情感纠葛, 城市与乡村对比, 婚姻, 经济动机, 自我认知, 生活方式, 油田，权利争夺                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

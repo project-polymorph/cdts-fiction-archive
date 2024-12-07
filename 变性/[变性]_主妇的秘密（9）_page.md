@@ -7,7 +7,7 @@ TXT 下载: [[变性]_主妇的秘密（9）.docx]([变性]_主妇的秘密（9�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部涉及变性与跨性别主题的小说片段，讲述了一名男性角色在其妻子李洁去世后，卷入一个复活计划的故事。故事中的角色季扬被绑架并带到李洁的娘家，在那里他得知为了复活李洁，他需要接受一系列极端的转变，包括心理催眠、激素治疗以及外貌整形。小说描绘了角色在自我认知上的冲突，他必须放下自己的身份，成为已故的妻子李洁。情节中包含了强烈的情感冲突及伦理道德的探讨，揭示出复活背后复杂的心理动机与父女关系。通过催眠和身体改造的手法，这部小说不仅探讨了性别认同与性别转变的主题，同时也涉及了亲情与爱情的悲剧性。这种情节设定引发了对人的身份认同、欲望与牺牲之间的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_主妇的秘密（9）.docx]([变性]_主妇的秘密（9�
 | Size            | 22533 bytes                           |
 | MD5             | 6b27a35dcf1eb16686df415ccc5edd77                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性别认同, 心理催眠, 复活计划, 身体改造, 极端转变, 爱情与亲情, 伦理道德, 自我认知, 催眠疗法, HRT治疗, 情感冲突, 性别转换, 闭合插曲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_涩谷魔途.docx]([交换]_涩谷魔途.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于三个美国大学生美式橄榄球运动员在日本涩谷旅行的奇幻小说。故事以他们从纽约飞往日本开始，描绘了他们在旅途中的兴奋与期待。三位主角分别是库尔特、伊恩和泰勒，分别具有领导气质、洞察力和时尚感。在飞机上，他们互相调侃，展现出年轻人的活力与友谊。到达日本后，他们期待着探索夜生活，尤其是对日本女性的迷恋，与此同时，他们的性格迥异也导致了不同的交往策略。在涩谷的酒吧中，库尔特试图与一位日本女孩搭讪，然而未能如愿，而泰勒与伊恩则以各自的方式追求女生，闹出不少笑话，体现出男性角色在爱情中常常的困惑与幽默。故事充满了对文化差异的观察和对友谊的深刻刻画，同时也呈现了角色们在异国他乡的自我探索与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_涩谷魔途.docx]([交换]_涩谷魔途.docx)
 | Size            | 54413 bytes                           |
 | MD5             | 3918189766f0b5cd3831b083ccca9221                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 友情, 东京, 夜生活, 美式橄榄球, 恋爱, 文化差异, 幽默, 青春, 旅行, 自我探索, 性别认同, 日语, 异国风情, 酒吧冒险, 亚洲美人, 校园生活, 大学生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

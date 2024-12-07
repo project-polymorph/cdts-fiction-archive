@@ -7,7 +7,7 @@ TXT 下载: [[附身]_缠魂米二（2）.doc]([附身]_缠魂米二（2）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一篇关于伪娘与跨性别主题的小说，其情节围绕主人公苏子安在一家名为胡家的宅邸中的探险。故事开始于缠魂镇，秋天的夜晚，气氛渐显神秘和紧张。苏子安正悄然潜入胡家，意图寻找被盗的缠魂米，目标是镇长胡蝶。胡蝶白天不在家，晚上九点左右回家，苏子安趁机进入并发现了设计精美的书房，然而不久后面临胡蝶回来的危机。小说中提及了一系列复杂的人际关系和潜在的阴谋：温柔自称胡蝶为姐姐，显出两者的微妙关系，苏子安对于温柔与胡聪的身份之谜感到困惑与疑虑。此外，在小说的后半段，描写了温柔与刘峰的亲密场景，涉及性别认同和性关系等复杂主题。包含了性别入替、身份观察、情感纠葛等元素，展现了角色在自我认同与情感纠纷中的挣扎与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_缠魂米二（2）.doc]([附身]_缠魂米二（2）.doc)
 | Size            | 54784 bytes                           |
 | MD5             | 22d33985e9c222381eed5351cfd77428                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 入替, 悬疑, 青春活力, 情感纠葛, 家庭关系, 盗窃, 夜袭, 密道, 书房, 暗恋, 自我探索, 阴谋, 恐怖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

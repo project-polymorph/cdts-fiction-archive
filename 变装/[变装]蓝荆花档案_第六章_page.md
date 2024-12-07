@@ -7,7 +7,7 @@ TXT 下载: [[变装]蓝荆花档案_第六章.doc]([变装]蓝荆花档案_第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《蓝荆花档案》第六章，描绘了一名名为赵玉的角色在摄影棚更衣间中进行变装的情节。故事开篇，赵玉正在调整自己的裙子，体现了他作为男警官装扮成女性的过程。随后，赵玉服用一种名为“花蕊”的药物，药物的使用引发了身体的反应，伴随着对性别认同和自我探索的思考。文中提到，药物可能促使他体会到作为女性的身体反应，而这些反应令他感到困惑与羞涩。情节中还有一名男子朱文谦的出现，他是赵玉的工作伙伴，二人的情感微妙而复杂，反映出赵玉在试图完成任务与内心真实感受之间的矛盾。整体上，文字通过细腻的描写展现了角色的心理变化及对性别角色的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]蓝荆花档案_第六章.doc]([变装]蓝荆花档案_第�
 | Size            | 35840 bytes                           |
 | MD5             | a09c1cbc97f68167c1012125f4b7f7be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变装, 药物影响, 自我探索, 角色扮演, 情感纠葛, Forbidden Love, 情欲冲突, 女性形象, 男性角色, 羞涩, 心理变化, 娱乐行业, 社会性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

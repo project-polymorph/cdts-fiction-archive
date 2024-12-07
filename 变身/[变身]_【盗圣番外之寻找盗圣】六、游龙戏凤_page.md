@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】六、游龙戏凤.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《盗圣番外之寻找盗圣》是一本围绕多位女性角色发生的变身与性转故事。故事开篇描绘了角色小白、小青和飞飞在密室中的嬉戏互动，其中涉及到她们采补内力和相互之间的亲密关系。随着情节的发展，三位女主角在外界寻求寻找另一位美人的过程中，展现了她们变身和转性后的生活。故事中穿插了温馨的互助及复杂的情感纠葛，部分情节涉及性暗示，角色在水中沐浴，整体氛围轻松而调皮。例如，“三女裸露身子隐露其中，如同仙女一般”，反映出一种欢快的姐妹情谊。最终，四位角色聚集于画舫，突出了一幕情感丰富的互动，诠释了角色的性别角色转变与情感的交融。本小说包含多种性别认同与角色关系的探讨，试图通过幽默与戏谑的方式展现女性之间的复杂情感与自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】六、游龙戏凤.doc]([
 | Size            | 39936 bytes                           |
 | MD5             | 37c5b35f75c2c205d2e024d39fc00139                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 情感纠葛, 温馨, 幽默, 自我探索, 变嫁, 仙女, 二次元, 奇幻, 百合, 女主角, 强奸, 调教, 双性, 魔法, 校园, 浮世绘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

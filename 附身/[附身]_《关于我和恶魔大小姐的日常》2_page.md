@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《关于我和恶魔大小姐的日常》2.doc]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一名年轻男性与一位恶魔大小姐的日常互动，故事围绕角色的性别转换和身份认同展开。文章中男主角在一次居家办公期间，因大小姐的魔法意外地被变成了高中女生顾小兰的身体。在这种异常情况下，男主角不得不面对身体与性别的变化所带来的心理冲突和外在社交的挑战。故事情节详细展现了他的内心矛盾，同时描写了大小姐利用这一机遇的玩乐心态。文中穿插了许多幽默和暧昧的对话，展现了男主与小兰的师生关系、他与女朋友的互动等内容。整篇作品不仅讨论了性别认同问题，还涉及魔法、契约、以及潜在的危险。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《关于我和恶魔大小姐的日常》2.doc]([附身]_
 | Size            | 46592 bytes                           |
 | MD5             | 8c232a10a0b3467d1043b6ef9954b814                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 小雨                               |
+| Region          | 未知                               |
+| Date            | 2021-09-11                                 |
+| Tags            | 性别转换, 魔法, 成长, 自我探索, 跨性别, 幻想, 校园生活, 性别认同, 恶魔, 契约, 幽默, 师生关系, 心理冲突, 冒险, 青春, 二次元, 异世界, 情感纠葛, 日常生活, 魔法女孩, 成长烦恼                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_恶作剧的代价.doc]([变身]_恶作剧的代价.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《恶作剧的代价》是一部围绕校园恶作剧展开的跨性别小说。故事的主角嘉文是一名在寄宿学校里以恶作剧而闻名的男孩。他的恶作剧尤其在老师和校长的眼中十分刺眼，导致他成为了教师们的公敌。在一个愚人节的课堂上，他再一次对同学朱莉进行恶作剧，结果招来了校长的严厉惩罚。遭受惩罚时，嘉文在校长的威逼下开始书写‘我再也不捉弄我的同学了’，而随着每一笔的书写，他的身体却也经历了奇异而剧烈的变化，最终变成了一个温顺的女孩格温，失去了曾经的身份和习惯。故事探讨了性别认同和自我意识的复杂性，展现了嘉文在变形过程中感受到的痛苦与目标的对立。随着情节的发展，她请求校长将她变回去，表现出对于新身份的恐惧与不安，最终被迫以新的身份适应学校生活。本小说通过极端的情节和角色变换，反映了对性别与行为规范之间关系的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_恶作剧的代价.doc]([变身]_恶作剧的代价.doc)
 | Size            | 29184 bytes                           |
 | MD5             | e790382cbf90d7d2509ec5ac7949bb2d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | nowayjose661                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 恶作剧, 跨性别, 性别认同, 寄宿学校, 转变, 自我探索, 校园生活, 校长惩罚, 身份危机, 女校                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

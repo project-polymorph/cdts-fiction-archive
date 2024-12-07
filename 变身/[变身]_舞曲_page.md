@@ -7,7 +7,7 @@ TXT 下载: [[变身]_舞曲.doc]([变身]_舞曲.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于鲍勃自我探索与转变的短篇小说，由作者Hawkyn创作。故事开始于鲍勃走出沃尔登书店，他对自己购买的关于跳舞的书籍心怀不满，内心充满了对自己外表和生活的失望。在放弃对舞蹈的追求时，他偶然间发现了一家新开张的神秘商店，里面充满古怪的饰品和书籍。鲍勃遇到了一位神秘的老人，老人声称能够帮助他学会跳舞。鲍勃最终买下了一张古老的唱片，怀着怀疑和期待的心理回到家。在练习过程中，他体验到了自我成长的潜在可能性，感受到生活的不同选择与转变。故事探讨了性别认同及自我形象的复杂性，反映了现代青少年面临的焦虑与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_舞曲.doc]([变身]_舞曲.doc)
 | Size            | 50176 bytes                           |
 | MD5             | 602e92dcd449ae8f535ab0e65f09a439                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Hawkyn                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 自我探索, 舞蹈教学, 神秘商店, 古老唱片, 性别认同, 青春期烦恼, 成长故事, 内心挣扎, 男子舞会, 情感探索, 奇幻元素, 寻求帮助, 家庭关系, 自我接受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

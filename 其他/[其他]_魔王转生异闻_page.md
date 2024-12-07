@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魔王转生异闻.doc]([其他]_魔王转生异闻.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于异世界转生的小说，内容涉及一个被称为魔王的角色在与勇者的决斗中被施加转生咒语，随之转生为人类小鬼。故事的开头描绘了他在转生前的强大与傲慢，以及在斗败勇者后不得不施法转生的情境。文中详细描述了他在新身份下的复杂心理状态和对于复仇的渴望。主角在出生后跌入人类社会，逐渐开始恢复魔力并决定追踪前世的宿敌——勇者。随着故事的推进，主角在酒馆中与其他角色的互动揭示了更多情节。文中包含了对性别转换、身份认同等多重主题的探讨，同时也暗示了潜在的强奸和羞辱等情节。整篇小说具有丰富的情感描写和对角色内心的深刻刻画，突出了转生体制下角色的自我探索和对过去的追索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魔王转生异闻.doc]([其他]_魔王转生异闻.doc)
 | Size            | 78336 bytes                           |
 | MD5             | 8badd9042c43ff60fe7992d3783ffc4e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 转生, 魔王, 勇者, 复仇, 人类, 酒馆, 冒险者, 性别转换, 身份认同, 二次元, 幻想, 强奸, 羞辱, 魔法, 心理冲突, 女性角色, 冒险, 异世界, 角色发展, 纯爱, 双性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[催眠]性转催眠——百合性奴学园.doc]([催眠]性转催
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《性转催眠——百合性奴学园》是一部结合了性转、催眠与百合题材的小说，作者lovenatsu通过催眠的元素将角色的性别与身份进行了转变，探讨了自我认知与性别认同的复杂性。在故事开头，角色经历了激烈的战斗与身份危机，随即转移至另一个世界的魂师大会。文中细腻地描写了角色之间的互动，展现出一种特殊的情感纠葛，尤其在青春与成长的背景下，催眠的设定加深了情节的戏剧性。此外，作品的创作意图在于弘扬mc（催眠控制）和ts（性转）文化，吸引了特定的读者群体。整体上，该作品涉及了性别转换、催眠和百合恋情等元素，结合奇幻与校园设定，展现了多元的性别观与情感关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]性转催眠——百合性奴学园.doc]([催眠]性转催
 | Size            | 46080 bytes                           |
 | MD5             | 54d19b4940e8a0e1f6acef3cdd91a631                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | lovenatsu                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 百合, 催眠, 性转, 变身, 校园, 魔法, 灵魂交换, 奇幻, 青春, 角色认同, 情感纠葛, 异世界, 主角光环, 女性视角, 探索自我, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

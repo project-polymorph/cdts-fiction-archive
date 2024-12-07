@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——起始篇1.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于高中生大木一郎的变身小说的开篇。故事以第一人称视角展开，描绘了一名身处校园边缘的少年内心的孤独与对同班同学北见丽华的憧憬。大木一郎性格内向，始终觉得自己在班级中如同幽灵般的存在，甚至连老师在点名时都会忽略他的名字。一天，在放学回家的路上，他遇到了一位神秘的男子，给了他一个契约，许诺可以满足他的一个愿望。这一切将他引向了改变命运的奇异事件，当他醒来时发现自己的身体竟然发生了突变，怀疑自己已成为幽灵，并最终意识到自己在占据惠美（母亲）的身体。整个故事探讨了身份认同与自我探索，同时融入了奇幻与变身的元素，带给读者意想不到的情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——起始篇1.docx]([附身]_�
 | Size            | 19092 bytes                           |
 | MD5             | 86e02c7298eb8aa108126698a8dd2510                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魂侵者, 自我认同, 高中生, 幻想小说, 幽灵, 契约, 性别交换, 家庭关系, 孤独, 青少年, 校园生活, 奇幻, 心理探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

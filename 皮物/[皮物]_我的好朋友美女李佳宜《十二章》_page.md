@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《十二章》.docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘角色之间情感发展的小说章节，主要围绕着名为“美娜”的角色与她的男性朋友梁先生之间的约会经历进行叙述。在这个过程中，两人经历了从紧张到愉快的情感发展。开头描绘了他们在电影院的亲密接触与随之而来的尴尬情绪，反映出他们之间微妙的情感变化。接着在步行街的散步中，两人互动加深，美娜感受到梁先生的温柔与细心，他在约会中为美娜购买礼物并展现对于她的在意。小说的情感描述细腻，刻画了角色内心的自我探索和对情感的珍视，同时隐含了对性别认同和初恋感受的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《十二章》.docx]([皮�
 | Size            | 27762 bytes                           |
 | MD5             | 4b1586a17b20bbbab3858d6b1d97c91c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 初恋, 情感发展, 约会, 温柔, 二次元, 自我探索, 性别认同, 亲密接触, 情感冲突, 电影约会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

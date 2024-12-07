@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_杀手四人组：卷一（五）.docx]([皮物]_杀手四
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《杀手四人组：卷一（五）》是一个关于超自然与性别转换的小说，故事情节围绕太平老道与一个叫唐嫣的角色展开。故事一开始，太平老道在神秘的木楼中盘膝而坐，施展某种能力，致使体内的精华被一个奇异的光球——舍利子吸收。随着精华的逐渐耗尽，老道的身体萎缩得如同人皮，而舍利子则显得愈加饱胀。在故事的发展中，唐嫣以一种神秘的身份被卷入这一过程，她在没有任何意识的状态下被老道占据。舍利子与她之间的奇异连接引发了一系列诡异事件，包括她的复苏与精神上转变。小说中涉及了性别身份的变化，以及人性与欲望的复杂关系。文本中还穿插了日本天皇和安倍晋三角色的情节，展现了文化和国家背景的交织，增添了故事的层次感和趣味性。通过对唐嫣新身份的探索，以及她与李芳的互动，小说不断揭露潜藏的欲望与身份认同的矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_杀手四人组：卷一（五）.docx]([皮物]_杀手四
 | Size            | 22622 bytes                           |
 | MD5             | 6ab76834da1619cfd791d0082bef37fd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 超自然, 人皮, 欲望, 灵魂转移, 权力斗争, 二次元, 奇幻, 女性角色, 性别认同, 情色, 自我探索, 鬼笑, 社会禁忌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

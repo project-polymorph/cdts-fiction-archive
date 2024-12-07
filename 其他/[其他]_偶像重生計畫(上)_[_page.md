@@ -7,7 +7,7 @@ TXT 下载: [[其他]_偶像重生計畫(上)_[.docx]([其他]_偶像重生計�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇围绕伪娘及跨性别主题的短篇小说，描绘了主人公在生活困境中与东城先生相遇的故事。故事的开头，主人公因生活的困境准备自杀，但在即将服用安眠药的时候，遭遇了东城先生的到来。他向主人公提出了一个重生的机会，暗示着一种转变和新的生活可能性。小说深入探讨了自我认同与救赎的主题，伴随主人公对生活的绝望与希望的挣扎。东城先生的出现在一瞬间改变了主人公的命运，同时也隐含着关于社会对此类转变的复杂性与挑战。随着故事的发展，主人公在面对职业与人生选择时，开始反思自我和未来。全文情节紧凑，语言直接，深刻反映了角色内心的纠结与对重生机会的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_偶像重生計畫(上)_[.docx]([其他]_偶像重生計�
 | Size            | 20321 bytes                           |
 | MD5             | 6b4d089fdffdbd4f7aa9ea1d91d479a6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 重生, 自杀, 生活困境, 角色转变, 社会救赎, 青春, 毒品, 娱乐圈, 心理冲突, 人生选择, 人际关系, 忘却与记忆, 希望与绝望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

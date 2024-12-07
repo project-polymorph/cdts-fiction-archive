@@ -7,7 +7,11 @@ TXT 下载: [[附身]_【庆祝国庆】回家路上番外篇——去而复返�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为《回家路上》的番外篇，主要讲述了主人公沈佳明在飞机上于梦境与现实之间的醒来过程，以及他身处于凌巧儿的身体中的种种感受。故事开启于国庆节期间，沈佳明在机场准备下飞机，身体的细腻感受和对周遭世界的迷惘交织在一起。随着情节展开，沈佳明渐渐适应了新身体的感觉，体验到了女性身体的柔弱与魅力。这种融合与认同感在她的生活中不断地挑战着她的自我意识。
+
+在机场，沈佳明意识到自己的生活将开始转变，她必须学会在凌巧儿的身体和自己之间找到一种平衡。同时，文章通过多个细节展现了她对新身份的接受与渴望。在一系列的内心挣扎和情感释放中，沈佳明逐渐与这个新身体产生了亲密感。
+
+文章也包含了一些关于女性身体的探讨以及对性别认同的模糊界限的描绘，并通过多重的环境描写带出沈佳明所面临的困惑和期盼。最终，在一系列的事件后，沈佳明经历了身份的交融与欲望的禁忌，情节发展向读者展示了对变身和身体意识的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[附身]_【庆祝国庆】回家路上番外篇——去而复返�
 | Size            | 46592 bytes                           |
 | MD5             | b288bacb0d27193182e07b5b7b6dec9a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 国庆节, 变身, 身体互换, 女性意识, 性别认同, 自我探寻, 梦境与现实, 航空旅程, 都市生活, 身体体验, 欲望探索, 心理冲突, 年轻女性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

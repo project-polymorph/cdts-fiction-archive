@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[翻译]费尔莫特高中的巫婆-03.docx]([变身]_[翻
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《费尔莫特高中的巫婆》的第三节内容，讲述了主角帕娜在经历了性别转换后所面临的困惑和适应过程。故事中，帕娜挣扎于接受新的女身体以及随之而来的性别认同。凯蒂，作为引导者，向帕娜解释如何适应她新的身体与生活，负责教她与作为女孩生活相关的重要知识。帕娜在面对妹妹、母亲及朋友的新的关系结构时，内心充满着不安和未曾经历过的情感波动。文中详细描述了她对自己身体改变的反应，包括对生理变化的惊讶，此让她经历了一系列自我认识和情感挣扎。整个故事在性转与心理变化的交织中展开，探讨了个人身份的变化和对社会认同的渴望，同时也涉及到一些相关的教条和性别知识的学习，揭示了角色在新身份下的修正和成长。同时，文件中也含有一些大胆的性暗示与生理细节，体现了性转小说的特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[翻译]费尔莫特高中的巫婆-03.docx]([变身]_[翻
 | Size            | 26312 bytes                           |
 | MD5             | 7e5d0457a6d440231236d283b078328f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 性转, 自我探索, 心理冲突, 跨性别, 女孩生活, 身份危机, 成长, 二次元, 幻想, 魔法, 青春, 校园, 家庭关系, 生理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

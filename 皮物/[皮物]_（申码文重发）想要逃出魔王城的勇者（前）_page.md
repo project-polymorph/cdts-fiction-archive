@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（申码文重发）想要逃出魔王城的勇者（前�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档包含了一部关于勇者与魔族斗争的奇幻小说前半部分。故事的主角是王国中最强大的圣骑士——勇者·乔治。他没有想到自己会被魔族俘获。在一次护卫公主的任务中，勇者被魔族埋伏抓捕，并带到了魔王城的地牢。在这里，勇者见到了被囚禁的人类奴隶，深感痛苦，并发誓要为他们报仇。魔王城由吸血鬼女王统治，她对人类的俘虏并不仁慈。为了公主的安危，勇者内心充满绝望和无奈，但仍保持一贯的意志，拒绝屈服于魔族。在地牢中，勇者与一个叛逃的魔族军师大魔人莱恩相遇，莱恩表明愿意协助勇者逃出魔王城，这使得故事发展出现了新的转机。文中描绘了勇者对自己的责任感、痛苦的内心挣扎以及与魔族之间的矛盾关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（申码文重发）想要逃出魔王城的勇者（前�
 | Size            | 86016 bytes                           |
 | MD5             | 3ab58de263be945221b93d6df39f5c6e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 勇者, 魔王城, 吸血鬼女王, 跨性别, 奴隶, 奇幻, 性转, TSF, 自我探索, 勇者的奋斗, 人类与魔族的战争, 叛徒, 冒险, 友情, 爱情, 深情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

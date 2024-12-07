@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《灵动》序1~3.doc]([附身]_《灵动》序1~3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件名为《灵动》序1~3，主要讲述了一个名为刀疤强的男性角色在一次意外中获得了异乎寻常的能力，故事设定在一个名为A市的地方。序章中，刀疤强在一次涉及到神秘生物X的盗窃事件后，被迫逃避追捕。在逃亡过程中，他的身体遭到了生物X的侵蚀，并逐渐发生了变化，最终获得了超乎常人的力量。文件详细描绘了刀疤强如何从一个普通的混混，通过生物X的改造，逐步觉醒了特殊能力，甚至能够附身于其他生物，并读取他们的记忆。具体的情节如刀疤强在舱室中醒来时首先发现自己的身体状态不对、外形变得柔软，接着被迫面对追捕的特工并展开了一场紧张的追逐战。该文通过生动的细节，让读者感受到刀疤强在心理和身体上所经历的冲突与变化，尤其是对身份转变与能力觉醒的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《灵动》序1~3.doc]([附身]_《灵动》序1~3.doc)
 | Size            | 55296 bytes                           |
 | MD5             | 5f940b7a5bfb6ed06da800df3514a884                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 刀疤强, 生物改造, 超能力, 附身, 性别转换, TS变身, 逃亡, 特工, 魔法, 生物武器, 科幻, 都市奇幻, 自我认知, 身份认同, 记忆读取, 黑色幽默, 异世界, 生物X, 力量觉醒, 追捕                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

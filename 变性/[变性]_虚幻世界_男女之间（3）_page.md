@@ -7,7 +7,7 @@ TXT 下载: [[变性]_虚幻世界_男女之间（3）.docx]([变性]_虚幻世�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《虚幻世界 男女之间》，内容主要围绕一位名叫赵局的角色及其周围人际关系展开。故事开头描绘了中年危机带来的内心挣扎和复杂情感，提到一位名叫秦彦的女性在赵局的办公室中遇到问题，表现出恐惧与不安。在接下来的情节中，涉及到了一个关于局长自杀事件的调查，赵局与同事谢诗共同处理这一敏感事件，讨论自杀背后的可能原因。文件中还涉及了对权力、性别和人际关系的探讨，含有一些性别认同及自我探索的主题，体现了故事中角色的复杂心理和情感交织。整体上，文件内容包含了心理学、社会学等方面的主题，并可能包含一些限制级内容，适合于学术研究和性别研究方向的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_虚幻世界_男女之间（3）.docx]([变性]_虚幻世�
 | Size            | 39292 bytes                           |
 | MD5             | 91780bca1ad2585213785876b3cf9cde                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 心理挣扎, 权力关系, 情感纠葛, 职场戏剧, 自我认同, 性别认同, 局长自杀, 变身小说, 办公室恋情, 女性视角, 调教, 强奸, 情趣                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

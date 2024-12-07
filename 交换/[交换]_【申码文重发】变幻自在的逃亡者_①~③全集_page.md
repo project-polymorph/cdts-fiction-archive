@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文重发】变幻自在的逃亡者_①~③全�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是根据原作者無名＠純白の憑依人的小说《变幻自在的逃亡者》翻译而成，围绕着一个名为室井哲也的凶恶犯罪者展开的故事。室井在逃亡过程中获得了一种叫做“入替药”的能力，能够与他人交换身体。这种能力使得他可以不断逃避警方的追捕，同时利用他人身体进行各种罪行。故事中描述了他如何逐步完成一系列可怕的入替行动，以及被入替者的绝望和恐惧。所涉及的情节除了包含对身体交换的具体描写外，也探讨了性别认同和自我意识的冲突。其中一段提到：“你别过来！”，展示被入替者对自己命运的无力反抗。此外，故事更揭示了交错的身份和法律追捕之间的复杂关系，给人带来紧张感。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[交换]_【申码文重发】变幻自在的逃亡者_①~③全�
 | Format          | Microsoft Word Document                               |
 | Size            | 70144 bytes                           |
 | MD5             | 78976e54af0c6c8dbab579c6e5fb717a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 無名＠純白の憑依人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身体交换, 犯罪, 惊悚, 入替药, 绝望, 性别认同, 自我探索, 二次元, TSF, 变身小说, 强烈情感, 心理斗争, 恶魔, 女性视角, 都市幻想, 反转剧情, 逃亡                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

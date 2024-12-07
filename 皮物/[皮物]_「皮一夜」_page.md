@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_「皮一夜」.docx]([皮物]_「皮一夜」.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇伪娘 TS 变身与跨性别相关小说，内容描绘了一个男生研崎在一次奇妙的经历中与美女学生栞的互动。故事围绕一张神秘的“皮”，通过这个“皮”，研崎可以变成栞的样子。在与栞的亲密接触中，研崎体验到了前所未有的感官刺激和性别角色的转换。文中的描写充满了对身体的细致感知，包含性癖向的元素，例如触碰和变身带来的心理与生理体验。整个故事探讨了性别认同、自我探索，以及角色之间因性别变化而产生的情感与欲望。
+
+故事中的对话和情节发展向读者展示了角色的内部冲突与自我认知的变化，涉及强烈的身体描写与性暗示，内容较为露骨，适合成年读者。同时，文件包含魔法与幻想元素，增加了情节的奇幻色彩。此类作品通常探讨性别流动性与身份认同等复杂的社会话题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_「皮一夜」.docx]([皮物]_「皮一夜」.docx)
 | Size            | 55643 bytes                           |
 | MD5             | c056020e07bf3fd1aa53bef77c623cca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 魔法, 校园, 幻想, 身体交换, 强烈的身体描写, 自我探索, 情感冲突, 性暗示, 成人内容, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

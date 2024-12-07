@@ -7,7 +7,7 @@ TXT 下载: [[交换]_无间风云_前篇_初稿无修版.docx]([交换]_无间�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《无间风云》的前篇初稿，无修订版本，记录了主要角色赵立与侯勇之间的对话与关系发展。故事设定在华兴市的地下社会，涉及古惑仔的生活以及警方的卧底行动。文中提及赵立是一个深陷于黑暗势力之中的角色，他暗中为警察搜集信息，然而在与朋友的交谈中，他表现出自己对身份的迷茫和对生活的无奈。他的内心冲突在与侯勇的对话中表现得淋漓尽致。因此，文本不仅展现了城市底层的生存现状，也探讨了角色在道德与情感之间的挣扎。内容涉及性交易的暗示，和古惑仔之间的信任与背叛，整体氛围颇具紧张感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_无间风云_前篇_初稿无修版.docx]([交换]_无间�
 | Size            | 29823 bytes                           |
 | MD5             | 2c4e0d834526cbbb653424f084819ff7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 古惑仔, 警察, 黑暗势力, 卧底, 性别认同, 社会边缘, 情感纠葛, 城市生活, 自我探索, 角色扮演, 虐恋, 男性视角, 阴暗面                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_迷离之境（三）.doc]([改造]_迷离之境（三）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的档案之一，主要讲述了一个名叫琉璃的角色的日常生活与内心冲突。故事开头描绘了琉璃起床后对香炉中香甜气味的期待，立刻引出了她的生活空间。突如其来的火灾使得琉璃和她的姐妹们不得不逃生，逃至街头，随后描述了她们在消防行动和警察疏导中的混乱场景。琉璃对香炉和手机的关心体现了她内心深处的脆弱和依赖。随后的情节中，琉璃被母亲告知会所暂停营业，并被安排到临时住所，环境的恶劣令她感到失落。文中通过琉璃与其他角色的互动展现了她内心的孤独感和自我认同的挣扎，包括她对过去生活的回忆与对未来的迷茫。最后，通过琉璃与网友孤帝的对话，交织展现了她对于关系的渴望与现实的隔阂，增添了情感的深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_迷离之境（三）.doc]([改造]_迷离之境（三）.
 | Size            | 46080 bytes                           |
 | MD5             | 9224c82741b4a6eef6154f8e2ebc5a38                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 都市生活, 孤独, 自我探索, 火灾, 情感关系, 社会适应, 心理冲突, 青春成长, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

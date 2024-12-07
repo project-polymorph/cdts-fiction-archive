@@ -7,7 +7,7 @@ TXT 下载: [[变身]_被恶魔俘虏的神2.docx]([变身]_被恶魔俘虏的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部围绕性别转换及恶魔操控的小说，主要讲述了一个名为罗德的角色如何被恶魔抓获并屈辱地穿上金色内衣的故事。在恶魔的控制下，罗德经历了一系列羞辱与快感交织的情节，逐渐感受到自己身体的变化和内心的挣扎。故事中，罗德虽然厌恶自己的新身体，却又在身体的愉悦感和心理的羞辱中形成了错乱的认知。角色的恐惧、屈辱与对快感的渴望形成鲜明对比，复杂的情感纠葛使得这一段落引人思考性别、身份和自我认同等主题。在情节发展中，罗德被迫接受了恶魔的调教，故事展现了角色在恶魔的操控下的变化以及内心的崩溃。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_被恶魔俘虏的神2.docx]([变身]_被恶魔俘虏的�
 | Size            | 30828 bytes                           |
 | MD5             | 99af8b9a06c7570e9ec2800c93d080ca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 恶魔, 羞辱, 调教, 强奸, 快感, 自我认同, 女神, 精神崩溃, 屈辱, 角色变化, 女性化, 心理斗争, 性别认同, 虚幻与现实的交错, 波动的情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

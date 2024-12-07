@@ -7,7 +7,7 @@ TXT 下载: [[变性]_迷途的羔羊.doc]([变性]_迷途的羔羊.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《迷途的羔羊》是由作者雨中缪斯创作的一部跨性别题材的小说，讲述了一位名叫周琳娜的女性角色的内心挣扎与自我认同的旅程。故事开篇描述了琳娜在深圳国际机场的候机厅中，她的外表与穿着展现了她作为女性的身份。琳娜自述自己花费了四年的时间和金钱来变身为一位女性，身材修长，打扮精致，然而她的真实身份却是一个曾经的男孩。故事中，她不断回忆起与男朋友楚亚兵的关系，以及在转变过程中经历的情感挣扎与自身的性别认同问题。通过琳娜的自述，读者能够感受到她对过去身份的排斥，以及对未来身份的迷茫和不安。小说涉及主题包括性别认同、自我探索、权力关系及变性手术的心理影响，展现了个人在性别认同与社会期待之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_迷途的羔羊.doc]([变性]_迷途的羔羊.doc)
 | Size            | 72704 bytes                           |
 | MD5             | 9ec98c9f415dd5728781177f4f41f2d7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 雨中缪斯                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 伪娘, 变性, 自我探索, 女性视角, 爱情, 心理挣扎, 二次元, 情感纠葛, 社会期待, 性启蒙, 个人成长, 内心冲突, 都市生活, 现代女性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

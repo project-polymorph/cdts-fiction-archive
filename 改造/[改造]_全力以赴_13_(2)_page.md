@@ -7,7 +7,7 @@ TXT 下载: [[改造]_全力以赴_13_(2).docx]([改造]_全力以赴_13_(2).doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为伪娘 TS 变身与跨性别相关小说的档案的一部分，记录了角色在性别认同上进行探索的过程。内容围绕角色妮克·埃文斯的故事展开，描绘了她在变身后的心理调整和与周围人物的互动。妮克在故事中反思自己的过去行为，特别是与朋友克莱尔的对话中展现了性别认知的冲突与适应过程。她尝试平衡自己的新身份与父母、朋友的期待，以及自己的内心感受。在这一章节中，妮克开始意识到她从一个平凡的角色变成了别人眼中的“幻想对象”，并探讨如何面对这种转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_全力以赴_13_(2).docx]([改造]_全力以赴_13_(2).doc
 | Size            | 28806 bytes                           |
 | MD5             | 3499ba16a11940fbf97aa7a212df08c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 伪娘, 变身, 成长, 自我探索, 校园生活, 情感冲突, 人际关系, 心理调整, 女性角色, 亲情, 友情, 音乐表演, 身份认同, 青春, 励志, 社会期待                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_小子你怎是女人〔正篇〕（一）酒野嫁人了.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一段关于酒野英子的故事，情节围绕她作为女性的身份及其心理变化展开。故事开篇由她的邻居法井野樱的调侃引入，透露出酒野的秘密和尴尬情境。酒野内心充满挣扎，尽管在与邻居的互动中表现得轻松，但她的内心主线是岁月流逝带来的焦虑以及对过往男性身份的怀念。文中提到了她对自己现状的反思，尽管时间过去了一年，却依旧难以忘怀自己曾经的生活。酒野的个性与环境相对照，强烈的自我怀疑及对青春的失落交织其中，构成了她心理上的复杂纠葛与困惑。再到接机的场景中，与川岛及吉野的互动更进一步展示了她对人际关系的敏感和微妙感受，面对以“阿姨”称谓的变化，让她感受到被年龄和身份束缚的压迫感。文章在轻松调侃中透露出深刻的人性思考，尤其是酒野对年轻时光的渴望与不甘，以及现实的无情。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_小子你怎是女人〔正篇〕（一）酒野嫁人了.
 | Size            | 26473 bytes                           |
 | MD5             | a35577e900565eb3c0fe11efb2493e4b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 心理冲突, 青春回忆, 自我探索, 町屋故事, 生活琐事, 人际关系, 情感纠葛, 都市生活, 羞涩, 阿姨的烦恼, 熟女情感, 邻里关系, 温情细腻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

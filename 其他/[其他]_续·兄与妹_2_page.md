@@ -7,7 +7,7 @@ TXT 下载: [[其他]_续·兄与妹_2.doc]([其他]_续·兄与妹_2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于性转和跨性别主题的小说，讲述了两位女性角色小欣和菁菁之间复杂的情感关系。故事围绕小欣的内心斗争展开，她在情感上对自己的哥哥陈锐产生了爱慕之情，但陈锐却对菁菁表达了爱意。小欣因嫉妒和愤怒而产生了逐步扭曲的心理，她开始设下圈套，企图伤害菁菁。在一个封闭的房间中，两人的关系达到了紧张的顶点。小欣用电击枪威胁菁菁，言语中透出疯狂和绝望。随着情节的发展，菁菁最终反击，用电击器迫使小欣失去意识，逃离死亡的边缘。这个过程包含了对爱、嫉妒、背叛与生存的深刻探讨。该文本着重描绘了人物内心的痛苦与挣扎，以至于情感的高潮达到令人窒息的程度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_续·兄与妹_2.doc]([其他]_续·兄与妹_2.doc)
 | Size            | 48640 bytes                           |
 | MD5             | 3c371525fa725c3d4e82521ad6554ce5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 爱情, 强奸, 嫉妒, 电击器, 绝望, 青春, 友情, 生存, 背叛, 女主角, 自我探索, 灵魂冲突, 情感纠葛, 恐惧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

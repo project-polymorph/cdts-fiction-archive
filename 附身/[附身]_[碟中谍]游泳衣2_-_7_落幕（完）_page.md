@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[碟中谍]游泳衣2_-_7_落幕（完）.doc]([附身]_[�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇围绕角色性别转换的小说，涉及到附身、精神控制以及复杂的人际关系。故事以老何为视角，描述他与李晴、殷广雅和张丽明之间围绕一项阴暗计划的纠葛。故事开启于老何埋伏在树林中，准备执行对这几位女性的计划，以获取他们所掌控的蓝晶沙——一种离魂的物质，这种物质可以使一个人的灵魂附身到另一个人身上。随着剧情发展，角色之间的关系愈发复杂，潜藏的紧张感和心理斗争逐渐显现。尤其是李晴对其他角色的操控和利用，显示出其非同寻常的手段和心理斗争。在最终的对抗中，老何面临着情感与意图的双重考量，故事左牵右挂，充满悬念和反转。文中提到的元素包括但不限于：性别认同、自我探索、精神附身等，突出的情节设定展示了性转题材的丰富想象力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[碟中谍]游泳衣2_-_7_落幕（完）.doc]([附身]_[�
 | Size            | 47616 bytes                           |
 | MD5             | d1babbdf867323b240a61d0a498c4c46                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 变身, 强奸, 阴暗计划, 角色关系, 自我探索, 心理斗争, 蓝晶沙, 都市奇幻, 女性角色, 灵魂控制, 紧张气氛, 虚拟现实, 二次元, 悬念                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

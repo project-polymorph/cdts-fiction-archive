@@ -7,7 +7,7 @@ TXT 下载: [[变身]_相机物语（1）.docx]([变身]_相机物语（1）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说片段《相机物语》，讲述了一名名叫高远平太的男高中生的日常生活与内心活动。平太性格内向，性格平平，常常被孤立，仅有一位心仪的同学——西园寺同学。在一次偶然中，他收到了一个神秘的快递，里面是一台老式相机。相机的奇特之处在于它似乎拥有某种超乎寻常的技术，能够拍摄出不同时空的照片。与此同时，平太在自己的公寓中感受到孤独，回忆起自己在国中时期的惨痛经历，尤其是与一个名为加藤薰的不良少女的纠葛。文中不时描绘出平太对美女的幻想与自己的苦涩回忆，以及他在面临可能的「盗摄」行为时的心虚与矛盾。此文件深入探讨了角色的内心世界与青春的困惑，融入了性别认同、孤独感与自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_相机物语（1）.docx]([变身]_相机物语（1）.doc
 | Size            | 27972 bytes                           |
 | MD5             | 5f941ec854811f96e9906791b5178e7f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 青春, 自我认知, 孤独, 心理成长, 摄影, 性别认同, 心灵探索, 校园生活, 恋爱, 女高中生, 恶魔少女, 神秘物品                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

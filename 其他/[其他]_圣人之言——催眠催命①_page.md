@@ -7,7 +7,7 @@ TXT 下载: [[其他]_圣人之言——催眠催命①.docx]([其他]_圣人之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部结合催眠、心理探讨与医疗环境的小说片段。在这一深夜的场景中，主角秦苍依因遭受重伤而在医院中静养。文中描绘了主角与秦苍依的日常对话，展现出她因忍受痛苦而表现出的无聊与焦虑。故事穿插着幽默与轻松的氛围，例如对方之间关于睡觉的调侃，和小插曲中关于剥苹果的描写。随着剧情的推进，医院中突如其来的惨叫打破了平静，主角以及秦苍依对此反应各异，展现了对生死的思考与对受害者的同情。内容中同时涉及自杀与死亡的残酷描述，增加了文字的戏剧性和紧张感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_圣人之言——催眠催命①.docx]([其他]_圣人之
 | Size            | 23931 bytes                           |
 | MD5             | 1509c9e099ce75709374a6c0087feeb6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 医院, 流血, 自杀, 死亡, 惊悚, 心理, 重伤, 深夜故事, 幽默对话, 生死探讨, 女性角色, 小说, 情感, 疼痛, 医护环境, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

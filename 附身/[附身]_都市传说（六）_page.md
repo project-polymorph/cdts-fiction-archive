@@ -7,7 +7,7 @@ TXT 下载: [[附身]_都市传说（六）.doc]([附身]_都市传说（六）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《都市传说（六）》的情节描述，围绕主角周思暖和谭忠的关系展开。故事开头，几位军装男人来到周家大院，其中一位是周思暖的舅舅。随后的情节中，谭忠告诫周思暖要适应新的身份，她现在是周思暖，将与谭忠过新的生活。随着故事发展，周思暖在对身份转变的适应过程中，内心产生了复杂的情感，描绘了一系列关于自我认同和情感交织的冲突。杜漫妮则作为周思暖的嫂子，试图以关怀的方式安抚周思暖，但她的性格变化引发了周展辉的疑惑。他们之间错综复杂的情感和令人意外的亲密行为，再现了一种模糊的性别认同和亲密关系。文中还涉及到一些敏感的情节，涉及女性角色的性暗示和跨性别主题，其内容适合在科学研究与学习的框架下分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_都市传说（六）.doc]([附身]_都市传说（六）.
 | Size            | 64512 bytes                           |
 | MD5             | 670a67f14202e0084348a573fbe83af7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 都市传说, 性别认同, 跨性别, 伪娘, 情感纠葛, 自我探索, 身份转变, 情趣内衣, 家庭关系, 多元性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

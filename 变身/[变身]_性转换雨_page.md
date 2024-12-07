@@ -7,7 +7,7 @@ TXT 下载: [[变身]_性转换雨.doc]([变身]_性转换雨.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇关于性转换的小说，主要讲述了特里斯坦和他的朋友凯托之间的对话，以及特里斯坦在被一种神秘的雨淋到之后发生的奇异变化。在故事中，特里斯坦起初对此并不相信，但随着雨的降临，他的身体开始经历不可思议的转变，从一个男性逐渐变成女性，表现出对这一变化的混乱与抗拒。特里斯坦经历了从身体到心理的双重转变，描述了他与新身份产生的冲突、对自我认知的探索及与他人之间的互动，特别是他与一个神秘男性角色的遭遇，以及由此引发的更深层次的性别认同问题。随着情节的发展，特里斯坦的外观改变也让他开始体验到对自己的新形象的不同感受，最终在一场暴力冲突中被迫接受从男性到女性的转换。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_性转换雨.doc]([变身]_性转换雨.doc)
 | Size            | 42496 bytes                           |
 | MD5             | c6d9446742a9ad4ce7d047e434637709                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转换, 变身, TS小说, 伪娘, 自我探索, 友谊, 雨, 性别认同, 跨性别, 心理变化, 幻想, 剧烈转变, 奇幻, 变嫁, 后宫, 年龄差, 情感纠葛, 暴力, 性骚扰, 生理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_黑暗英雄傳説_第一卷.docx]([其他]_黑暗英雄�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《黑暗英雄传说》第一卷的初步内容，作者为FP。故事设定在一个虚构的异世界中，主要围绕角色盧卡庫的命运展开。盧卡庫的童年十分惨淡，他的父亲是一名帝国士兵，因强暴罪受到谴责，而他的母亲在受伤后将他遗弃。盧卡庫从小经历了大量的痛苦与磨难，成为奴隶并遭受魔族的虐待。他在自己的想法中建立了对人类和魔族的仇恨，无论是出于自我生存的挣扎，还是对他人行径的冷酷反击。他以奴隶管家的身份在魔族家中生活多年，最终因一次契机获得自由。此文流露出对黑暗与邪恶的深厚描绘，涉及角色自我认同、性别转换等主题，展现了复杂的人物关系和情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_黑暗英雄傳説_第一卷.docx]([其他]_黑暗英雄�
 | Size            | 39199 bytes                           |
 | MD5             | 426d9231a56ecddca2b96906254d5e59                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | FP                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 黑暗系, 异世界, 性转, 自我认同, 奴隶制度, 魔族, 仇恨, 成长故事, 逃亡, 反抗, 角色塑造, 痛苦经历, 虚构世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

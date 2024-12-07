@@ -7,7 +7,7 @@ TXT 下载: [[附身]_美麗的報復_[.docx]([附身]_美麗的報復_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别交换的小说，标题为《美丽的报复》。故事围绕主人公陈日东的经历展开。他是一名成功的商人，却因患上重病而痛苦不堪。为了逃避死亡，他发现了一种古老的"借身"方法，可以和他人交换身体。但是，这个过程几乎没有成功案例。尽管如此，他坚持寻找可以与自己信息匹配的人，最终他选择了名模唐若荷作为他的目标。当他完成了身体的交换后，初次体会到了女性身体的感受，同时也露出他对唐若荷身体的占有欲。这篇小说探索了性别认同、自我意识以及生死之间的复杂关系，充满了志趣、欲望与心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_美麗的報復_[.docx]([附身]_美麗的報復_[.docx)
 | Size            | 17847 bytes                           |
 | MD5             | 8917bbd9fc13700d9ba74d76dbfd17e5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 跨性别, 身体互换, 欲望, 自我探索, 抗争与反转, 复仇, 幻想, 都市奇幻, 情感困境, 伪娘, 男娘, 变身, 灵魂转移, 婚姻与背叛, 青春与迷惑, 权力关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

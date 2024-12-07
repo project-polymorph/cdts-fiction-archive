@@ -7,7 +7,7 @@ TXT 下载: [[催眠]【翻译催眠】从女性化到芭蕾舞演员.doc]([催�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《从女性化到芭蕾舞演员》，讲述了伊薇特和她朋友罗曼之间的故事。伊薇特明确表示她期待女性化的男人能够更吸引她。当罗曼在她的鼓励下开始改变自己，通过变得更加女性化和柔美，来迎合伊薇特的期待。随着故事的发展，罗曼在伊薇特的帮助下穿上了芭蕾舞服，并在班级中被称作“罗莎莉亚”，展现了他在这个过程中自我认知的变化与心理冲突。整篇小说表现了角色在性别认同与外表变化之间的互动，以及伊薇特对这一过程的支持和引导。变身与自我认同的主题贯穿始终，揭示了他们之间微妙的情感变化和对于自我展示的不同态度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]【翻译催眠】从女性化到芭蕾舞演员.doc]([催�
 | Size            | 28672 bytes                           |
 | MD5             | 30192d9570ea385ff2e978250ed7ef8a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Bo-Dog                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 女性化, 自我认同, 芭蕾舞, 跨性别, 伪娘, 友情, 探索自我, 心理变化, 二次元, 角色发展, 美的追求, 性别转换, 校园生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

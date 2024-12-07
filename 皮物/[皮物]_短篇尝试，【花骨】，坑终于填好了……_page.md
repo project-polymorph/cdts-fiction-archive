@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_短篇尝试，【花骨】，坑终于填好了…….doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕着一个男人的心理变化与自我探索展开。他在与多名女性的亲密互动中，逐步意识到自己的性别认同和欲望。当他注意到自己喜欢的女孩时，爱情与性之间的复杂关系凸显出来。文中详细描绘了角色对女性身体的迷恋以及对自身身份的反思，如“我不明白为什么有钱的女孩会追求虐恋，但似乎从另一种意义上来说我却非常长于此道。”随着情节的发展，主人公的内心冲突和情感困扰愈演愈烈。特别是对小梦的回忆令他感到深深的痛苦，增添了情节的深度和复杂性。最终，角色透过自己与女性的亲密关系，探寻到了性别和爱的多重层次，呈现出一种复杂的情感体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_短篇尝试，【花骨】，坑终于填好了…….doc
 | Size            | 18759 bytes                           |
 | MD5             | 4da5f881c16b64d93c525063b40eee07                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 花骨                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 跨性别, 情感冲突, 伪娘, 强烈的身体欲望, 虐恋, 女性视角, 爱情, 转变, 变身, 情感纠结, 强奸, 器官改变, 虚拟现实, 生死未卜                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

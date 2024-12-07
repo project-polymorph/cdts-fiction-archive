@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_【我的舅舅是高官】中篇.doc]([催眠]_【我的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《我的舅舅是高官》，属于催眠类主题的小说，主要讲述了一位高三学生胡透的生活与成长。故事开头，胡透在开学的第一天，面临着高三学业的重压，班级内互相竞争，显得异常紧张。他从舅舅那里获得了一本关于催眠的书，这使他开始探索心法与技巧。随着故事的推进，胡透与周围同学之间的互动逐渐展开，尤其是与女性角色赵静之间复杂的情感关系。文中详细描绘了胡透的内心挣扎以及与赵静的亲密关系，夹杂着对欲望的探讨和个人认知的挑战。情节包含多重转折，涉及学习、友情及青涩的爱情，有些部分带有一定的暧昧和性暗示。整体故事情节在紧张的学业与人际关系中展开，展现了青少年对自我认同与成长的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_【我的舅舅是高官】中篇.doc]([催眠]_【我的�
 | Size            | 45056 bytes                           |
 | MD5             | 759ad1c8da55df2f29c97e13e1780e05                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 高三, 性别认同, 青春, 成长, 复杂关系, 愿望与现实, 校园, 青涩爱情, 友谊, 女性视角, 情感纠葛, 心理探索, 心理暗示, 探索欲望, 自我认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

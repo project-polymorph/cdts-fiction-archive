@@ -7,7 +7,7 @@ TXT 下载: [[附身]_破碎拼圖（二）.doc]([附身]_破碎拼圖（二）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是《破碎拼图》的第二章，内容包含大量色情描写，几乎没有剧情发展。作者直言自己是个变态色情狂，并在阅读前提醒读者可选择跳过本章。故事中的角色“我”正处于转变为“白倩珊”的过程中，涉及自我认知与性别身份的探讨，同时展现了角色性别转变后的快感和困扰。章节中描述了角色之间的亲密关系与性互动，例如阿怪用某些方式挑逗“白倩珊”，并深入到性行为的细节，包括角色彼此之间的调侃与玩笑。在这一章中，明显凸显了伪娘和跨性别的主题，以及与之相关的性愉悦感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_破碎拼圖（二）.doc]([附身]_破碎拼圖（二）.
 | Size            | 39424 bytes                           |
 | MD5             | a31708ba4d776536ab990e1b2a32175c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 色情小说, 变身, 自我探索, 强奸, 调教, 多角关系, 女体化, 强烈欲望, 伪娘文化, 角色扮演, 撩拨, 恶搞                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

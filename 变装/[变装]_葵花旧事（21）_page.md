@@ -7,7 +7,7 @@ TXT 下载: [[变装]_葵花旧事（21）.doc]([变装]_葵花旧事（21）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《葵花旧事》的第二十一章，主要围绕大定府巡抚高飞的政治斗争与权谋斗漠展开。故事描绘了高飞因为贪图金银而受到常筑的诬告，导致他在府衙中的焦虑与紧张。他对常筑的厌恶逐渐加深，甚至对其进行了暴力的惩罚，试图逼迫出有用的信息。同时，常筑虽然身懷武功，但面对权势与暴力臣服，显示了当时官场的黑暗与无奈。情节中也涉及到高飞对常建及其女儿常苼南的追捕，以及隐隐反映的政治阴谋与忠诚的撕扯。章节末尾，王副将的回归带来更多紧张局势，涉及常苼南的故事线暗示她可能成为形势的关键角色。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_葵花旧事（21）.doc]([变装]_葵花旧事（21）.do
 | Size            | 49664 bytes                           |
 | MD5             | 68b409283c7e2b0fc9b679847ada7edc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 强奸, 权谋, 城市官场, 变身, 政治斗争, 暴力, 权力关系, 忠诚与背叛, 常筑, 高飞, 黑暗森林                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_吾妻青芸.doc]([皮物]_吾妻青芸.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一部名为《吾妻青芸》的伪娘 TS 变身与跨性别相关小说的档案。故事设定在一个充满幻想与黑暗元素的世界，讲述了一位男性主角通过神秘力量穿上了他妻子青芸的 '人皮'，经历了一场自我身份的转变。故事描写了主角对青芸身体的逐步融入和塑造，从而感受到她的美丽和她作为女性所面临的种种情感和身体的挑战。文件文本开头描述了一幕引人入胜的场景，描述了一个外表美丽却失去内在的女子青芸的形象，以及一个男性如何穿上她的 '人皮' 并体验其肉体的细腻。随后，故事转向了青芸的气质变化和她与相公之间的关系，以及围绕在御州城争斗与凶杀案的背景，形成了鲜明的对比。Man的心理逐渐展现出对女性身份的渴望与掠夺感，而青芸的美貌则成为了磁石般的吸引力，整个情节在极具戏剧性的背景中展开，描绘了性别与身份的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_吾妻青芸.doc]([皮物]_吾妻青芸.doc)
 | Size            | 35840 bytes                           |
 | MD5             | e2b5bc2cb0f35f599bc615b2a5a1994b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 奇幻, 情色, 血腥, 心理, 变嫁, 自我探索, 身份认同, 女性视角, 爱情, 成人内容, 惊悚, 黑暗幻想, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

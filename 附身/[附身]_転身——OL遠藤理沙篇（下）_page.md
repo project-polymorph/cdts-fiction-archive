@@ -7,7 +7,7 @@ TXT 下载: [[附身]_転身——OL遠藤理沙篇（下）.docx]([附身]_転�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别题材小说的下半部分，主要围绕主角理沙与女警藤村奈奈子之间的身体附身与角色认同展开。故事开始于女厕所，主角理沙在身穿粉红色内衣时，遭遇了女警的突袭。此时，理沙豁然开朗，意识到如果能够成功让女警察含糊其辞，那么她就可以借用女警的身份来逃避法律责任。故事中包含了各种性别认同与身体转变的细腻刻画，人物内心的挣扎与探索让情节更加引人入胜。同时，文中充满了丰富的情感和对女性形象的戏谑，尤其是在理沙对女警形象的调侃与操控过程中，展现了现代社会对性别角色的挑战与讨论。最后，理沙成功附身于女警的身体，表现出自己操控他人身体的满足感与快感，形成强烈的反差与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_転身——OL遠藤理沙篇（下）.docx]([附身]_転�
 | Size            | 17687 bytes                           |
 | MD5             | 9768538d30024f75dbc0c42e30cc8359                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 女警察, 身体附身, 性别认同, 自我探索, 粉红内衣, 性转, 警察, 游戏文化, 二次元, 女性形象, 变身小说, 心理挣扎, 青春, 另类幻想, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

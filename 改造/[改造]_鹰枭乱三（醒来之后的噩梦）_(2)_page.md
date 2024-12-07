@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鹰枭乱三（醒来之后的噩梦）_(2).docx]([改造]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《鹰枭乱三（醒来之后的噩梦）》的第三章，通过主人公李愿翔的视觉，描述了一场噩梦般的变身过程。在此章节中，李愿翔在昏迷后逐渐恢复意识，却发现自己的身体已发生翻天覆地的变化——他原来的男性躯体被改造成了女性的模样。他经历了剧烈的痛苦，面临心理与生理上的双重冲击。李愿翔一开始无法动弹，但随着时间的推移，他逐渐能感受到自己的身体并对其进行观察。在看到自己双手和身体样貌的变化后，他产生了强烈的恐惧和绝望，意识到自己经历了一场非人道的变性手术。医生的冷酷态度和他所称的“作品”，使李愿翔感到无比绝望与愤怒，他决心要救出自己的妹妹并让施害者付出代价。整篇文章围绕着自我意识的觉醒和身份认同的冲突展开，激发了关于对性别认同、身体自主权的深入思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鹰枭乱三（醒来之后的噩梦）_(2).docx]([改造]
 | Size            | 16829 bytes                           |
 | MD5             | f376ddbf8aa467266ad3b3e83a53e625                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 心理斗争, 生理变化, 身体改造, 恐怖, 绝望, 自我认同, 救赎, 医院, 强制变性, 成人内容, 药物影响, 医学伦理, 反乌托邦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

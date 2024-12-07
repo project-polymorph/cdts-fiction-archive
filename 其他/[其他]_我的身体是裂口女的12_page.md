@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我的身体是裂口女的12.docx]([其他]_我的身体�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一段关于性别转换和跨性别主题的小说内容，围绕角色在变身后的一系列亲密关系和心理变化展开。故事描述了一位角色通过夺取裂口女的身体来体验不同的自我认知和性别表现，情节中充满了对快感的追寻与角色内心的矛盾冲突。文本中多次涉及到生理与心理的交织，展现了一种奇特的性转体验，并伴随着强烈的性暗示和性行为的详细描写。值得一提的是，角色在性别转换后，面对身体、感受与情感的变化，陷入了复杂的自我探索与认同之中。总体来说，这部作品深入探讨了性别流动与身份认同的边界，是一部包含了丰富情感和生理描写的跨性别故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我的身体是裂口女的12.docx]([其他]_我的身体�
 | Size            | 32706 bytes                           |
 | MD5             | 1b59738a0782fd350aa57b381caf8fbc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 变身, 生理认同, 自我探索, 性暗示, 亲密关系, 二次元小说, 情感冲突, 性幻想, 身份认同, 肉体欲望, 成人内容, 心理冲突, 次文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

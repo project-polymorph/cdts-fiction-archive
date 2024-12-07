@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_转学来的校花.doc]([皮物]_转学来的校花.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《转学来的校花》是一部围绕角色苏雪在高三八班的新生活展开的性转小说。苏雪在转学前为男生张新，因实验而变身为女学生，获得女性身份后的生活经历屡屡引发冲突与危机。例如，她在课堂上因身体的特殊限制而意外泄露，引起班主任和同学的关注。同时，苏雪也在学习与朋友关系中缓慢地适应身份变化，虽然她看似是个受欢迎的校花，但内心深处却经历着对性别认同与自我身份的探索与挣扎。小说细腻地描绘了苏雪的双重生活以及她与同学们之间的互动，探讨了性别认同、社交压力以及青春成长的主题。整个故事充满了校园生活中的细节，描绘了友情、初恋和性别认同的复杂感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_转学来的校花.doc]([皮物]_转学来的校花.doc)
 | Size            | 266240 bytes                           |
 | MD5             | 95cbc54ac66f99475b1fd3270414535f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别认同, 校园生活, 强烈羞耻感, 社交压力, 青春成长, 自我探索, 性转, 性别变化, 跨性别, 同学关系, 恋爱, 友情, 挑战自我, 学习压力, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

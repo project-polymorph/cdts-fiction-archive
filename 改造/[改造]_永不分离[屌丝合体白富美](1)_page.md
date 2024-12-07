@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](1).docx]([改造]_永�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于一个年轻人的跨性别幻想故事，叙述了他对一位美丽女孩的深切爱慕。故事的主人公是一名普通的清洁工，他在工作中对公司的董事长千金孙俪产生了强烈的爱慕之情。尽管他知道自己和她之间存在着巨大的差距，但他依然沉迷于对她的幻想和追求。某个晚上，在流浪街头时，他遇到了一个神秘的老乞丐，老乞丐给予他一次许愿的机会。他的愿望是“让我们长相厮守，永不分离”，希望能与他的爱慕对象在一起。整个故事充满了内心的挣扎和对爱的执着，深入探讨了爱情和自我认同的主题。同时，情节中还包含了一些对身体和性别认同的幻想，涉及到强烈的情感纠葛与愿望实现的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](1).docx]([改造]_永�
 | Size            | 19449 bytes                           |
 | MD5             | c818f5f3c73029d86f1a054a0e7760c5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 爱情, 自我认同, 愿望实现, 幻想, 清洁工, 伪娘, 情感纠葛, 青春, 对比, 内心挣扎, 人物相遇, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

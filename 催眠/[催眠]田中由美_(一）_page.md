@@ -7,7 +7,7 @@ TXT 下载: [[催眠]田中由美_(一）.doc]([催眠]田中由美_(一）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《田中由美 (一）》是一本涉及催眠与性别转换主题的小说，主要讲述了田中由美在办公室中与上司木村之间发生的强烈且具有暗示性情节。故事开篇描述了由美的日常生活，特别是她与木村的‘释放时间’仪式。在这一天，由美被要求以非常规范的方式展现自己，对木村的性命令进行顺从的表现。这个仪式涉及贞操带的使用及令人不安的性行为，揭露了她在职场中所承受的权力关系与性别角色的扭曲。随着情节的发展，故事进一步探讨了由美与她的同事黑田的关系，以及她在这种权力游戏中的无力感与眼前幸福幻影的冲突。这部作品尝试通过极端情节展现对性别认同及自我价值的深刻探讨，同时包含了明显的色情内容和跨性别身份的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]田中由美_(一）.doc]([催眠]田中由美_(一）.doc)
 | Size            | 37888 bytes                           |
 | MD5             | b1aa8a8c5307433a72a37f01b3f030ee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 职场性别权力, 贞操带, 变身, 强奸, 淫荡, 调教, 逆后宫, 女仆, 强势上司, 自我认同, 性别转换, 百合, 情感操控, 官能文学, 性爱仪式, 角色扮演, 混沌与自我探索, 角色认同, 社会规范, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

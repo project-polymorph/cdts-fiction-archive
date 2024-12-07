@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_王子的新衣　4.docx]([皮物]_王子的新衣　4.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《王子的新衣》的性转小说，深度探索了角色的身体和性别转换主题。故事围绕一位老年女性角色，她通过一种名为'伪皮'的材料进行身体改造，以追求年轻的外貌和性体验。文件中的情节包含了对角色身体变化的详细描写，以及角色间的性行为和互动。"沙先生把早已剪下頭的皮遞給老婦"，体现角色之间的复杂关系和权力动态。该小说涉及到诸多限制级情节，包括对于身体的改造、性别的重新认同以及性行为的直接描写，适合于成人读者。此内容的具体场景和对话直指角色内心的挣扎及对身体新形态的适应和享受，具有明确的性别识别和性表现议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_王子的新衣　4.docx]([皮物]_王子的新衣　4.doc
 | Size            | 17141 bytes                           |
 | MD5             | e545c7575a7711f4b43dcdb73a7bf2b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 变嫁, 成人内容, 身体改造, 情感探索, 性别认同, 自我发现, 虚拟现实, 奇幻, 性行为, 年纪差, 禁忌关系, 二次元文化, 强烈互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

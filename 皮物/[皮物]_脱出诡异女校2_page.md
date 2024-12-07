@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_脱出诡异女校2.docx]([皮物]_脱出诡异女校2.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是由一位作者创作的以性转与校园为主题的小说草稿。故事设定在一所神秘的女子高中，主角面临性别身份的挑战与未知的恐惧。小说开篇描绘了一幅紧张的校园场景，生物老师冷酷无情，带着解剖刀在教学，而同学们则处于恐慌之中。文章通过主角的视角描写了即将踏入这所特殊的学校的心路历程，以及对即将开始的新生活的期待和不安，展现了一系列关于性别认同和身份转换的情节。情节中包含了男生伪装成女生的细致描写，主角在理智与感官之间徘徊，探索自我身份的模糊与重塑。故事也混合了一些奇幻与悬疑 elementos，提示该学校的初衷与教育目标并不简单。整体基调神秘而紧张，同时又夹杂着青春的无奈和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_脱出诡异女校2.docx]([皮物]_脱出诡异女校2.doc
 | Size            | 21824 bytes                           |
 | MD5             | deed62ff5954d2f7d5329ed8168a3317                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2018-08-30                                 |
+| Tags            | 性转, 校园小说, 心理描写, 奇幻, 悬疑, 青春成长, 自我探索, 伪娘, 恐怖元素, 身份认同, 女校, 挑战与冒险, 性别转换, 小说创作, 故事叙述, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

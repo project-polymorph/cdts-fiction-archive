@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_表弟滴女友.doc]([皮物]_表弟滴女友.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于表弟的女朋友即小薇的故事，叙述者在叙述中透露出对小薇的吸引，并描述了她日常生活中的一些细节。例如，小薇的外貌被细致描写，尤其是她穿着的半透明背心和肉色丝袜，展现出她的性感与魅力。故事中包含了叙述者的内心挣扎与意淫，表现出他对小薇的欣赏以及难以控制的欲望。在一次偶然的情况下，叙述者和小薇的互动逐渐升级，甚至涉及到一些暧昧和性暗示。情节中还夹杂着一些关于性别角色的讨论，以及描写了叙述者的道德挣扎和对家庭关系的思考。这种情况让他内心十分复杂，因为小薇是他的表弟的女朋友，面临道德与欲望的矛盾芽。通过这些细腻的刻画，本文探讨了性欲、性别关系与人际互动之间的微妙关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_表弟滴女友.doc]([皮物]_表弟滴女友.doc)
 | Size            | 45056 bytes                           |
 | MD5             | 7061654bdbe08d667b019277a5a4ec50                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2011-06-01                                 |
+| Tags            | 伪娘, 变身, 性转, 表弟的女朋友, 内心挣扎, 性别角色, 家族关系, 欲望与道德, 青春, 情感纠葛, 暧昧, 二次元, 性暗示, 性感, 丝袜, 肉丝                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

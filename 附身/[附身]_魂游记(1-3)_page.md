@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魂游记(1-3).docx]([附身]_魂游记(1-3).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以轻小说风格撰写的性转题材小说，讲述了主人公白铭在一次意外中与外星生物接触后获得了灵魂转移的能力，进而通过转移灵魂的方式附身于他人身体的经历。故事邀请读者进入一个融合了幻想与现实的奇妙世界。白铭原为一个普通的书呆子，在一次偶然中，目睹了一颗绿色星星，随后遭遇了一场奇异的灵魂实验。当他发现自己可以自由转移灵魂后，便开始尝试附身于他人，体验不同的身体和生活。小说在细腻的描绘中展现了他对改变身份的探索，以及在这个过程中内心的挣扎与兴奋。随着情节发展，白铭通过灵魂附身与女性的身体相融合，描述了他在新身份下的种种经历，包括对女性身体的感受、对性别认同的思考等。整体内容充满幻想色彩，包含一些性暗示或性别探索的情节，适合对性别题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魂游记(1-3).docx]([附身]_魂游记(1-3).docx)
 | Size            | 34714 bytes                           |
 | MD5             | 16739e5592209ac46f8108354dbc18c2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 灵魂转移, 附身, 幻想小说, 性别认同, 大学生活, 自我探索, 奇幻冒险, 异星生物, 灵魂实验, 口对口转移, 伪娘, 变身, 二次元, 青春, 性别交换, 调教, 纯爱, 强奸, 逆后宫, 百合                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_黑暗面_第四～六回.docx]([变身]_黑暗面_第四�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《黑暗面》第四至六回，主要描述了一系列包含性转、变身的情节。故事围绕主角通过吸收另一个角色洁西卡的黑暗面后，在身体和人格上产生的变化与冲突。主角在经历性别转换后，逐渐意识到自身认知与洁西卡人格的融合，内心充满了疑惑与挣扎。文件详细描写了主角在变身后所经历的情感与生理变化，甚至包括他回忆与洁西卡相关的场景，以及对角色身份、欲望的探索。整个故事交织着对性别认同与自我意识的探讨，同时也包含了一些限制级、性暗示的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_黑暗面_第四～六回.docx]([变身]_黑暗面_第四�
 | Size            | 58039 bytes                           |
 | MD5             | 8031f8dd6b19034b6ce0e7489c84c4de                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 跨性别, 心理探索, 角色同化, 性认同, 性幻想, 性爱, 情感冲突, 自我认知, 二次元, 强奸, 乱伦, 淫荡, 调教, 多人, 变嫁, 角色扮演, 恶魔, 虚拟现实, 奇幻, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

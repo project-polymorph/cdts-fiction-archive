@@ -7,7 +7,7 @@ TXT 下载: [[改造]_龙媚虎俏（二）.doc]([改造]_龙媚虎俏（二）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《龙媚虎俏（二）》的部分内容，涉及两位主角箫幕龙和幕虎的修炼与成长过程。故事围绕唐万里对两位年轻男性角色的师徒相传与性别转化的讨论展开，体现了性别认同与自我探索的主题。在这段文字中，幕龙面临着修炼九阴真经的挑战，这部神功适合女性修炼，他被要求调整自己的身体使其更阴柔，这暗示了性别角色的流动性。幕虎则相对自信，面临的则是练习九阳神功的劝说。文本中多次提到的舞蹈训练也是性别定义与表现的重要旁注。情节设计巧妙，通过师徒关系和性别柔软性展现了角色之间的互动与成长，同时文本中还融入了不少带有近乎戏谑的轻松气氛。内容中也涉及到了较为敏感的情节，如幕龙与教舞女子的关系，以及他们在性别转换与自我认知中的困惑和努力。整篇小说不仅是对武功的修炼，更是对个体性别认同的一次探索之旅。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_龙媚虎俏（二）.doc]([改造]_龙媚虎俏（二）.
 | Size            | 35840 bytes                           |
 | MD5             | 02ee1b83982562bc2e3d4af807c53e46                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转化, 变身小说, 跨性别, 性别认同, 自我探索, 武功修炼, 师徒关系, 舞蹈训练, 纯阴之躯, 女性视角, 九阴真经, 戏谑, 年代差, 情感疏离, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

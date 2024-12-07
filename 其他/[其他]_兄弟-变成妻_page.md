@@ -7,7 +7,7 @@ TXT 下载: [[其他]_兄弟-变成妻.doc]([其他]_兄弟-变成妻.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位名叫王强的年轻企业家在新婚旅行期间与好友李力的故事。故事开篇简要介绍了王强的人生背景以及他与好友李力的创业历程，以及二人各自的伴侣徐萱和程雅。在一次前往泰国的旅行中，王强与李力共同享受愉快的时光。然而，在旅行的最后一天，经历了一场车祸，故事转变为紧张与焦虑，王强逐渐意识到自己和妻子及好友的安全将面临挑战。王强在车祸后被送往医院，逐渐恢复意识，试图了解妻子和朋友的情况，故事通过众多人物的视角展现了友情与爱情的深度，以及生命中的无常与脆弱。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_兄弟-变成妻.doc]([其他]_兄弟-变成妻.doc)
 | Size            | 44032 bytes                           |
 | MD5             | 17f022678c80decd4083682bce3c60de                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 兄弟情谊, 婚姻, 新婚旅行, 创业, 泰国, 车祸, 情感, 人生挑战, 友情, 爱情, 转变, 自我探索, 职场, 浪漫, 家庭, 命运                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

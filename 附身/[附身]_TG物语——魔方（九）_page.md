@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——魔方（九）.doc]([附身]_TG物语——
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个迷奸案件的小说片段，主要围绕角色余震通过占据一名女性（凌薇）的身体后，体验女性身份所带来的感受与冲突。故事开头介绍了世纪公寓发生了一起迷奸案，女方报案称遭到男性同事的侵犯，而余震恰好是案中的一员。小说详细描绘了余震占据凌薇的身体后，沉迷于自我探索与愉悦的经历，她在享受新身体的同时，也开始了解自己的身份。在随后的叙述中，凌薇以她的身份出门觅食，展示了她的性感形象与与周围男性的互动，各种情感与自我认同的冲突贯穿其中。此文本不仅涉及性转、变身情节，还探讨了性别认同与自我意识的复杂性，带有一定限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——魔方（九）.doc]([附身]_TG物语——
 | Size            | 57344 bytes                           |
 | MD5             | cc83fb6002a80530501533189ff29453                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 迷奸, 跨性别, 身体交换, 自我探索, 幻觉, 色情内容, 二次元, 变身, 伪娘, 情感冲突, 强奸, 女性视角, 沉迷, 自拍, 角色扮演, 身份认同, 偷情, 性感, 烧烤店                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

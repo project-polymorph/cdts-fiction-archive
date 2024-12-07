@@ -7,7 +7,7 @@ TXT 下载: [[附身]_3_我是腿控，但我那拥有凭依能力的挚友是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇描绘兄妹关系和青少年生活的性转小说片段。在故事中，男主角与其妹妹的互动充满了幽默和暧昧的紧张气氛。故事开头，男主角在放学后碰到妹妹，内心对前一天发生的事情感到难以启齿。随着剧情推进，男主收到好友龙也的消息，内容充满了对柚木的揶揄与调侃，展示出男生之间的轻松互动与对色情内容的探讨。在此过程中，男主角被卷入关于柚木的事件，班级同学对他产生了误解，引发了围绕他和柚木之间关系的讨论。文中还描绘了兄妹之间的微妙关系和男主内心的挣扎，他必须应对外界的压力与内心的情感纠葛。通过一系列幽默对话和情节的发展，该作品揭示了青春期少年面临的心理困扰和性别认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_3_我是腿控，但我那拥有凭依能力的挚友是�
 | Size            | 41472 bytes                           |
 | MD5             | f0831ad02af12ef4416c6cf1f8e74e65                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 青春校园, 兄妹关系, 同性恋, 自我探索, 调教, 校园暴力, 幻想, 二次元, 涩涩, 成人内容, 社会认同, 友谊, 性别身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

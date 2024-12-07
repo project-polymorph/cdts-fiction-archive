@@ -7,7 +7,7 @@ TXT 下载: [[改造]_父慈子孝精灵皮.doc]([改造]_父慈子孝精灵皮.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档是来自长篇小说《完蛋，我的系统被入侵了》的第17章，主要描绘了一段涉及变性与性别角色转换的情节。故事设定在幻想异界，情节围绕着一名金发女性精灵以及几个兽人。精灵被描绘成被束缚在受虐状态下，同时展开了多种性场景、SM 性虐待等情节。文中详细描述了精灵在被兽人侵犯时的身体感受与心理变化，特别是对痛苦与快感的交织感受，例如：“呜呜呜！啊啊啊！”以及肢体被捆绑的细节。同时，文中还涉及到性别身份与身体的极端变换，兽人与精灵之间的身体交换形成了一种奇特而又扭曲的互动。整体内容不仅含有性相关描述，还涉及到了自我认同与身体改造等主题，展示了角色在不同身份之间的挣扎与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_父慈子孝精灵皮.doc]([改造]_父慈子孝精灵皮.
 | Size            | 63488 bytes                           |
 | MD5             | de44bd89101d196254eb66abcc7e1220                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性转, SM, 伪娘, 兽人, 精灵, 异界, 强奸, 性虐待, 人兽, 自我认同, 角色交换, 性别认同, 人身体改造, 性别角色, 幻想文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

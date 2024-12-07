@@ -7,7 +7,7 @@ TXT 下载: [[其他]_紅色的雨夜.docx]([其他]_紅色的雨夜.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件 titled '紅色的雨夜' (Red Rainy Night) 描绘了一个充满了阴郁和心理挣扎的故事，一位主角在暴雨之夜经历了一系列的内心冲突与幻想。故事开始于对环境的描述：低沉的雷声与拍打窗户的雨声交织，营造出一种压迫感。随着情节的发展，主角逐渐陷入对已故姐姐的回忆，这是一个关于死亡、失落及其对个人身份与人际关系影响的深刻探讨。主角在镜子中看到以往已逝的姐姐，并与这种幻影进行对话，反思自己在姐姐死后所经历的孤独和痛苦。这个故事穿插了生与死、爱与恨，以及对自我价值的探寻，尤其是主角渴望被认可的心情。文本中反复呈现出“我”的无力感，与外界隔绝的孤独以及对母亲的情感期盼。故事的结尾暗示出一种绝望，同时又拷问着人性的底线和生存的意义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_紅色的雨夜.docx]([其他]_紅色的雨夜.docx)
 | Size            | 19155 bytes                           |
 | MD5             | 033e94c0548cf6d81727c7f17ec77ef2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 红色的雨夜, 心理挣扎, 失落, 生与死, 幻影对话, 自我探索, 孤独, 家庭关系, 情感期盼, 社会隔绝, 日本文学, 青春, 死亡主题, 二次元, 黑暗系, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

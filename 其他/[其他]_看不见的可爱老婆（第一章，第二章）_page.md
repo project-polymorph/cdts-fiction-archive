@@ -7,7 +7,7 @@ TXT 下载: [[其他]_看不见的可爱老婆（第一章，第二章）.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇描绘性转主题的小说《看不见的可爱老婆》的前两章。故事围绕主角徐晓凡展开，他在一个雷雨交加的夜晚，因无法入睡而起床寻找食物。在意外发现家中门未关闭后，他感到疑惑与不安。逐步走向厨房时，发现地上留下了一串湿润的脚印，疑似小偷的入侵让他感到紧张。在厨房，徐晓凡目睹了一个神秘现象——汉堡在没有任何人碰触的情况下消失。此时，他的手碰触到了一种神秘的存在，结果发现抱住的是一个柔软的女子，二人之间开始了奇妙的互动。该小说探讨了性别认同、奇幻、幽默等主题，同时也包含了一些暗示的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_看不见的可爱老婆（第一章，第二章）.doc]([
 | Size            | 37888 bytes                           |
 | MD5             | 6d9af9e719baa3432c4e13f1ac83fa9f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 幽默, 奇幻, 青春, 自我认同, 夜晚, 雷雨, 美少女, 幻想, 徐晓凡, 汉堡, 柔软触感, 奇妙际遇, 梦境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_天地传说之圣眼_十九_附身情缘（提供1-19合�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《天地传说之圣眼》第十九章的内容，题为《附身情缘》。故事围绕主人公的情感和性关系展开，通过细腻的描写展现了角色间的亲密互动和心理变化。开篇描述了主人公与另一名角色之间充满激情的接吻，接着展开一系列情欲的场景，描绘了他们的身体接触和情感交流。故事中，主人公在情感上的挣扎与逐步接受彼此的深情相伴，表现出对爱情和身体欲望的复杂理解。文本中还涉及到身体的变化和情感的强烈碰撞，提供了一些较为露骨的情节描述，包括角色的有亲密接触和结合的细节，突出人物间深厚的感情和身体的对应。此文中包含了一些描绘性关系的情节，适合对相关主题有研究需求的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_天地传说之圣眼_十九_附身情缘（提供1-19合�
 | Size            | 20965 bytes                           |
 | MD5             | 1158a9de8817b28cb3b39bc80037cd19                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 情感关系, 性转, 女性视角, 跨性别, 亲密互动, 青春, 自我探索, 欲望, 小说, 激情, 情欲, 心理变化, 性爱, 情感纠葛, 变身, 禁忌, 成长, 探索性别, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

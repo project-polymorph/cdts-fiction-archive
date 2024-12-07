@@ -7,7 +7,7 @@ TXT 下载: [[变性]_[翻译]不停复仇的意外后果-（完结）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于名为《不停复仇的意外后果》的小说，内容围绕一个男主角与一个神秘小男孩之间的对话展开。小男孩声称自己是一个能够满足愿望的高级妖精，并警告男主角在使用魔法时要谨慎，尤其是不要许不切实际的愿望。故事开始于男主角对小男孩的怀疑，并探讨愿望实现的潜在后果。文件中描述了男主角希望改变他的上司罗纳德·韦塔克尔的性别，最终他如愿以偿，使得罗纳德变成了女性瑞塔·婉娜玛克尔。整个作品探索了性别转变的主题，自我认知的冲突，以及对愿望实现后果的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_[翻译]不停复仇的意外后果-（完结）.docx]([�
 | Size            | 42063 bytes                           |
 | MD5             | a4e1575b0f231b67b6a7940f87ddbb6b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Ingrid HALB                               |
+| Region          | 未知                               |
+| Date            | 2007-03-07                                 |
+| Tags            | 性别转变, 跨性别, 伪娘, 魔法, 愿望实现, 自我认知, 办公室故事, 角色变身, 奇幻, 青春冒险, 性别认同, 幻想文学, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_淫堕魔女.doc]([改造]_淫堕魔女.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《淫堕魔女》讲述了一个青年陆成的奇幻冒险故事。他在地球上过着普通生活，但突然间穿越到一个名为艾尔森大陆的奇幻世界。在这个世界里，人类与魔族及其他种族共同生活，陆成在一次探索中获得了强大的魔力同化、魔力吸收和全元素亲合的能力。然而，这些能力也让他面临着魔族化的危险。陆成在一次任务中被迫进入魔族领地，目的在于获取一种名为皇家暗影草的稀有植物，以便抵抗人类领地内的瘟疫。不料，他在行动过程中意外地变成了一名魔族男性，并经历了一系列充满挑战和困境的情节，不仅要面对魔族的各种试炼，还要在魔族化与人类身份之间挣扎。文件中描绘了变身、魔族文化和性别认同等主题，并涉及一些色情的内容和角色间的亲密互动，表现出复杂的角色心理与冒险经历。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_淫堕魔女.doc]([改造]_淫堕魔女.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | fbb4a692774d88882aca272946ca2ba9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 穿越, 魔族, 性别认同, 变身, 冒险, 魔法, 自我探索, TSF, 人类与魔族的冲突, 皇家暗影草, 魔女, 性别转换, 角色成长, 触手, 淫荡                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

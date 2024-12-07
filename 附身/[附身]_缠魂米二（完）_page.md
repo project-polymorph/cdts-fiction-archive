@@ -7,7 +7,7 @@ TXT 下载: [[附身]_缠魂米二（完）.doc]([附身]_缠魂米二（完）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部包含性别转换和跨性别主题的小说，情节围绕一名小女孩单萌萌的日常生活展开。故事将视角聚焦在萌萌与黄婷婷之间微妙的关系，描绘了萌萌从男性意识转变为小女孩身份后的心理挣扎与冲突。故事起始于璇州市的高档住宅，夜深人静时，单萌萌坐在沙发上观看令人陶醉的动画《百变小樱》，这一场景充满了童趣和无忧无虑的气息。然而，随着故事的发展，萌萌与黄婷婷的互动变得越来越复杂，涉及到情感、性别认同与自我探索等深层主题。例如，黄婷婷在向单萌萌展现自己的魅力时，萌萌却对过往的性与爱的兴趣减弱，显示出一种对新身份的接受与珍惜。此外，剧情还涉及到一个黑暗插曲：物业公司人员的突袭和对黄婷婷的威胁，揭示了隐藏在甜美表象下的危险，形成强烈的反差与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_缠魂米二（完）.doc]([附身]_缠魂米二（完）.
 | Size            | 81408 bytes                           |
 | MD5             | e03d1bae0b01b901bd2c4ddc6363231f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别小说, 性转, 伪娘, 自我认同, 情感困惑, 心理挣扎, 安全威胁, 日常生活, 动画片, 幻想, 夜晚故事, 青少年, 角色扮演, 复杂关系, 甜蜜与危险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

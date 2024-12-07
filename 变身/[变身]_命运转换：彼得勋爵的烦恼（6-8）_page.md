@@ -7,7 +7,7 @@ TXT 下载: [[变身]_命运转换：彼得勋爵的烦恼（6-8）.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《命运转换：彼得勋爵的烦恼》的片段，讲述了角色彼得转变为女性身份胡安妮塔后的情感与心理斗争。故事开头描绘彼得在变身为胡安妮塔后对新身份的不适应，尽管身处女性角色，彼得却感受到一系列复杂的情感，尤其是与凯瑟琳的婚姻关系以及她对卡洛斯的情感。经过一系列互动与情感纠葛，彼得逐渐体会到体内胡安妮塔的本能，与凯瑟琳的亲密接触引发了新的情感体验。同时，文件中还涉及了彼得对自己的身份的疑惑与挣扎，例如他是否应该放弃彼得的身份来迎合新的生活。此外，文中含有一定的色情内容，展现出彼得在胡安妮塔身份下与凯瑟琳之间亲密的关系，以及对自身性别认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_命运转换：彼得勋爵的烦恼（6-8）.doc]([变身
 | Size            | 39424 bytes                           |
 | MD5             | 67dc225250d9dc3ec9404953ec6f706c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身小说, 情感探索, 女性视角, 婚姻, 心理斗争, 同性恋, 自我认同, 浪漫关系, 性别认同, 二次元, 纯爱, 强烈的情感, 戏剧化情节, 社会关系, 个人挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

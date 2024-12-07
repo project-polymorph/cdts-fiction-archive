@@ -7,7 +7,7 @@ TXT 下载: [[其他]_賞金獵人（完.docx]([其他]_賞金獵人（完.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇短篇小说，讲述了一位名为罗德的猎人在名为法瑟村的地点进行猎魔的故事。小说开始时，罗德已跟随目标追踪其近两个月，途径多个地方。他感受到了一种疲惫，同时对猎物的越发饥饿感到警觉。故事中提到罗德刚刚在酒馆里享用了简单的饭食，期间也被村民们注意到。酒馆里的一名女侍应汀娜引起了他的兴趣，但罗德知道她可能并非表面那么简单。随着情节发展，罗德的目标是捕捉一种名为魅魔的生物，这种生物以吸取男性精气为生，并对村庄的居民造成威胁。小说通过罗德的视角展现了他的猎魔旅程，同时对角色的内心冲突与性别概念进行了探索。结合奇幻、魔法等元素，情节充满紧张感与神秘感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_賞金獵人（完.docx]([其他]_賞金獵人（完.docx)
 | Size            | 76993 bytes                           |
 | MD5             | a13986770dab6e7c61f4845140bce33a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 猎人, 魅魔, 法瑟村, 魔法, 二次元, 自我认同, 冒险, 猎魔, 奇幻, 奇幻世界, 角色扮演, 自我探索, 情感冲突, 性别转换, 吸精, 虚幻生物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

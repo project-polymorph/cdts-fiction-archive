@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译_变装】芭比的生活（新人申码文）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《变装》系列中的一篇作品，题为《芭比的生活》。故事中心围绕一名名叫克里斯的高中男生，他因其俊美的外表与出色的表演才能而备受欢迎。但随着时间的推移，他逐渐变得傲慢与自私，尤其是在对待女友辛迪与剧本作者苏珊时表现得尤为明显。两位女性决定采取行动教育克里斯，让他意识到自己的错误。这篇小说不仅探讨了克里斯面临的自我认知与转变，还有性别角色的挑战与冲突。随着克里斯开始尝试变身适应自己的新角色，故事中涉及了减重、变装和性别转换的情节，提出了关于自我价值与个体转变的重要议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译_变装】芭比的生活（新人申码文）.do
 | Size            | 76288 bytes                           |
 | MD5             | 05645af0db9606f288dae6b6c06684ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变装, 高中生活, 自我认知, 戏剧, 青春, 克里斯, 辛迪, 苏珊, 角色扮演, 变身, 性别角色挑战, 傲慢与偏见, 心理冲突, 变身小说, 情感戏剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

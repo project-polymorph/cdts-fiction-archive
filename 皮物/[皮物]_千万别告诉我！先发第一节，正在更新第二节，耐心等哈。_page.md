@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_千万别告诉我！先发第一节，正在更新第二�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《千万别告诉我！先发第一节，正在更新第二节，耐心等哈！》，讲述了一个关于友情、爱情与背叛的复杂故事。主人公秋雅与她的闺蜜小甜原本关系密切，却因同一男性的青睐而产生离心。故事开头秋雅在办公室中与小甜的男友发生了意外的关系，从而引发了一系列的情感冲突与道德困境。秋雅面对突如其来的强奸事件，内心充满了懊悔和不安，同时又隐藏着关于怀孕的秘密。随着情节的发展，小甜也得到了一些真相，但她的失落与愤怒让两人的关系变得更加紧张。在故事的高潮部分，小甜所隐藏的阴暗面浮现，揭示了她的真实身份和目的，使得秋雅不得不面对更加凶险的境地。文本中涉及了强奸、妊娠等内容，情节复杂，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_千万别告诉我！先发第一节，正在更新第二�
 | Size            | 23136 bytes                           |
 | MD5             | 9ac96f874cec31c06a34c2b2dac63417                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 强奸, 友谊, 爱情, 妊娠, 背叛, 心理, 自我认知, 情感冲突, 女性视角, 伪娘, 变身, 禁忌恋, 二次元, 励志, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

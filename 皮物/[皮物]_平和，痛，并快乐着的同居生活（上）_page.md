@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_平和，痛，并快乐着的同居生活（上）.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《平和，痛，并快乐着的同居生活（上）》是由S道人创作的，探讨了皮物、性别穿越和自我认同的主题。故事围绕主角苏元展开，他在搬家过程中回顾了自己过去的生活。故事的开始描述了苏元搬离自己的出租屋，途中他将一些旧物品捐赠给福利院，展现了一种对生活的重新探索与告别。随后的情节引导读者进入一个跨越性别和身份认同的迷思，苏元在新家中，与一位女性的交互中产生了性别转换与自我认同的冲突。小说中涉及的一些情节包含潜在的成人内容，作者尝试通过角色之间复杂的互动来探索心理和情感层面的深度，该作品中有对社会现象的讽刺，以及对皮物文化的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_平和，痛，并快乐着的同居生活（上）.doc]([
 | Size            | 77824 bytes                           |
 | MD5             | 7e31570d9732fbbcc07915733c7accde                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | S道人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 皮物, 性别转换, 自我认同, 跨性别, 情感探索, 成人内容, 幻想小说, 社会讽刺, 角色扮演, 另类生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

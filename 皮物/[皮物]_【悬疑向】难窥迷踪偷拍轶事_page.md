@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【悬疑向】难窥迷踪偷拍轶事.doc]([皮物]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇悬疑向的小说，故事围绕一位名叫张硕的保安展开，他因金钱诱惑而卷入了一桩偷拍与勒索的阴暗交易中。故事开篇描绘了张硕对自身工作的不满和困境，在一次偶然的机会中，他遇到了自称来自建安商务调查公司的陆文景，后者以丰厚的报酬引诱张硕监视新搬入的住客。随着情节的发展，张硕对新住户安可的窥探并非一帆风顺，因而揭露出他过去的偷拍受害者柳清颜的悲惨命运。故事夹杂着张硕内心的挣扎与恐惧，以及对他参与的只是看似简单的监视工作的深刻反思。直到最后，他因意外再次面临柳清颜亡灵的对峙，令故事进入更为诡异的转折。整篇文字充满了悬疑、心理斗争及道德悖论，引人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【悬疑向】难窥迷踪偷拍轶事.doc]([皮物]_【�
 | Size            | 68096 bytes                           |
 | MD5             | 01792151e1d38157e41774950fe3692c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 悬疑, 偷拍, 勒索, 心理恐怖, 性别认同, 青春悲剧, 自我挣扎, 道德悖论, 偷窥, 艾米丽女尸, 反转, 都市奇幻, 混血少女, 刺激                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

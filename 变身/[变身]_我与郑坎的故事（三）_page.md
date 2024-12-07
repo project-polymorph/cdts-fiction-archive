@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我与郑坎的故事（三）.docx]([变身]_我与郑坎
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是关于主人公郑坎的故事，他是一个因为癌症而面临生命极限的年轻人。故事从郑坎坐高铁前往深海市的华科基因公司开始，描述了他与家人的情感和他在面对病魔时的无奈与希望。文章的主要情节围绕着郑坎通过基因治疗希望治愈癌症的过程，并引入他的远房表哥和一位教授参与开发新型靶向药物的情节。在经过几次治疗后，郑坎的身体现状开始发生无法预料的变化，最终导致了他的死亡与重生，身体细胞的奇异变化让他进入一种新状态。文章还探讨了他是否应该继续配合研究，面临着内心的挣扎和未知的未来。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_我与郑坎的故事（三）.docx]([变身]_我与郑坎
 | Size            | 20536 bytes                           |
 | MD5             | fbaf953fa3d190f14586d265325484e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 抗癌, 基因治疗, 重生, 自我探索, 父子情, 科学研究, 希望, 生死, 医院, 父母恩情, 未知状态, 道德困境, 跨性别, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

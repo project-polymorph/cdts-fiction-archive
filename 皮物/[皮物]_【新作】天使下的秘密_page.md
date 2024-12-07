@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【新作】天使下的秘密.doc]([皮物]_【新作】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《天使下的秘密》 是一部以都市职场为背景的伪娘和跨性别相关的小说，讲述了一个名叫陈飞的青年男子对办公室女同事韩雪的迷恋。故事开始于上海的一家高端IT外企，描绘了一个充满职场斗争和情感纠葛的环境。小说通过细腻的描写展现了韩雪的美丽和她在办公室中的影响力，使得陈飞深深为其吸引。在陈飞与另一个同事蒋雯的互动中，展现了职场情感的复杂性和人性中的妒忌。在一次聚会中，陈飞无法自拔地被韩雪的魅力吸引，同时又与蒋雯展开了一段暧昧关系，然而蒋雯心中暗藏对韩雪的深深妒忌，情节愈发紧张。随着故事的发展，蒋雯暗中策划对韩雪的阴谋，结合了虚构的药剂与变身元素，发展出令人惊心动魄的情节。小说不仅探讨了性别认同和权力斗争，还涉及了对美与妒忌的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【新作】天使下的秘密.doc]([皮物]_【新作】�
 | Size            | 55808 bytes                           |
 | MD5             | e3083e40234ea8739f978008f493923d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 职场爱情, 变身, 性别认同, 妒忌, 跨性别, 伪娘, 都市小说, 办公室, 情感纠葛, 药剂, 阴谋, 异性恋, 百合, 女性视角, 暗黑幻想, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

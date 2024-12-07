@@ -7,7 +7,9 @@ TXT 下载: [惡鄰十三.doc](惡鄰十三.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《惡鄰十三》描述了一个围绕别墅区保安盛保的生活与工作故事。盛保是一名居住在湖边别墅区的基础保安，他的工作包括维护别墅园区内的安全与处理邻里纠纷。文中详细描绘了盛保对不同住户的观察，包括一位“村长”的吝啬鬼德老爷及其旁边刚搬来的同性恋者的故事。文中透露出盛保日常工作的琐碎与挑战，还有社区内部充满戏剧性的邻里关系以及性别和性倾向相关的暗示。
+
+故事通过一系列事件展现出盛保关系如何随着邻里的变化而变得复杂，包括他在处理邻居之间的冲突时的种种窘境与幽默感。特别是在男主盛保进入德老爷与邻居家中时，发现金属器具的场景，展现了强烈的情色暗示和跨性别主题，实际上是一个关于自我认知和性别角色探索的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [惡鄰十三.doc](惡鄰十三.doc)
 | Size            | 39936 bytes                           |
 | MD5             | 8bd8b721330022247fd493b0b34b0653                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 保安, 别墅, 邻里关系, 同性恋, 性别认同, 变性, 男娘, 性倾向, 日常生活, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

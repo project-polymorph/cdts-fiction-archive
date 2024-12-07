@@ -7,7 +7,7 @@ TXT 下载: [[附身]_不可思議研究會.doc]([附身]_不可思議研究會.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《不可思議研究會》的伪娘与变身题材的小说，讲述了一群青年学生在废弃医院进行夜游试胆活动的故事。故事开头，几位参加活动的女同学，包括风姿绰约的刘瑩雪和她的双胞胎姐妹林依珊、林詩珊，抵达一个废弃的大楼，迷雾渐生。参与者们在夜色中感受到了神秘气息，随着剧情的发展，隐秘的人物企图操纵活动的背后真相。小说中描绘了角色心理变化、性别认同及自我探索等主题，情节穿插了恐怖和惊悚元素，增加了悬疑感。虽然有一定的恐怖氛围，小说中也涉及了性内容和角色之间的暧昧互动，如刘瑩雪与男主的复杂关系，令人回味。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_不可思議研究會.doc]([附身]_不可思議研究會.
 | Size            | 60416 bytes                           |
 | MD5             | 2ed369c0f64b3fcbc29b1ff035fb1d16                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 夜游, 恐怖, 悬疑, 大学生活, 性转, 自我探索, 灵异事件, 青少年, 青春, ABO, 纠葛, 黑暗幻想, 校外活动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

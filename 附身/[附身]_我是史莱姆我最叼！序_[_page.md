@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我是史莱姆我最叼！序_[.docx]([附身]_我是史�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个以游戏为背景的虚构小说序章，讲述了一个名为魔王的角色以及他的手下们，尤其是一只名叫小史的史莱姆的故事。故事开始于一只小猫急匆匆地来到魔王的宫殿，告知魔王勇者带领三国联合军队即将袭来。魔王对此淡然处之，并下令各大头目准备迎击。在接下来的对话中，我们看到小史对参加战斗的顾虑，以及魔王似乎别有用心的态度。小史终究还是出发去找魔王，虽然他十分害怕，即使在面对危险时，他的反应也充满了幽默感和困惑。这种角色的设定暗示出一种轻松的冒险氛围，尽管故事内容涉及紧张的局势。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我是史莱姆我最叼！序_[.docx]([附身]_我是史�
 | Size            | 16670 bytes                           |
 | MD5             | e6126709df4bb76d40d95630fca318a0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 魔王, 史莱姆, 冒险, 幻想, 轻松, 搞笑, 游戏, 二次元, 超自然, 男主视角, 变嫁, 勇者, 手下, 猫咪, 幽默, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

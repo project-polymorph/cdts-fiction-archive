@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身药膏第四章_扑朔迷离.doc]([变身]_变身药
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《变身药膏第四章_扑朔迷离》，叙述了变性角色林潼与章公子之间的情感纠葛和暗流涌动的情节。故事开始于林潼以女子身份在酒吧与章少邂逅，章少在看到林潼之后，被其美貌迷住，产生征服的欲望。林潼内心则有着复杂的情感和谋略，她的真实身份是一名曾经的男性，现今以女性形象示人。随着剧情发展，林潼提出交易请求，诱导章少进行一系列的情感与肉体上的互动。文中描绘了林潼的外貌以及她利用自己魅力进行心理博弈的细节，展现了在性别变换和性别认同的背景下，角色之间复杂的心理斗争与欲望。故事围绕权力、性别认同、自我探索等主题进行，构建了一个充满情感张力和戏剧性的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身药膏第四章_扑朔迷离.doc]([变身]_变身药
 | Size            | 40960 bytes                           |
 | MD5             | 6939ef713f66f781ca977c4dd8063399                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性别认同, 自我探索, 情感纠葛, 强烈肉体欲望, 权力斗争, 心理博弈, 二次元, 都市情节, 成人内容, 魔法, 豪门恩怨, 复杂人际关系, 情感交易, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

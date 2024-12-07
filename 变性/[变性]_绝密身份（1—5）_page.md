@@ -7,7 +7,7 @@ TXT 下载: [[变性]_绝密身份（1—5）.docx]([变性]_绝密身份（1—
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《绝密身份（1—5）》，是一个涉及跨性别及性别变换题材的小说文本。故事围绕一个名为李天天的角色展开，他在大学期间因故意杀害姐姐李甜甜而被判死刑，文中详细描绘了李天天的人生经历及其家庭背景。开篇设定在2013年7月10日的北京，一个被阴云笼罩的清晨，法庭上的宣判使得社会对这一案件产生了强烈反应。李天天经历了父母的艰辛与生死抉择，在对生活的认知中，最终走向了悲惨的结局。在文件的后半部分，还回忆了李天天的成长过程，其中包括与姐姐之间深厚的亲情，以及因家庭变故而经历的校园欺凌等情节。整体文风沉重，触及了家庭、法律、性别认同、自我探索等深刻的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_绝密身份（1—5）.docx]([变性]_绝密身份（1—
 | Size            | 76359 bytes                           |
 | MD5             | b6a00fb0f6027626632cb3f1b4855c31                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2013-07-10                                 |
+| Tags            | 跨性别, 性别转换, 家庭悲剧, 社会反应, 心理描写, 法律, 成长历程, 情感纠葛, 校园欺凌, 亲情, 绝密身份, 伪娘, 变身小说, 女体化, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

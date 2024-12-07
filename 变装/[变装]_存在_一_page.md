@@ -7,7 +7,7 @@ TXT 下载: [[变装]_存在_一.docx]([变装]_存在_一.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件包含了关于主角林庭东的复杂情感与性别认同的故事。他因妻子的背叛与自己的性取向秘密而面临婚姻的危机。在一个普通工作日的下午，林庭东因不满妻子徐丽君的行为而驾车返回家中，发现她与另一名男子的幽会，揭开了他一直隐瞒的裙装秘密，以及他内心复杂的自我认同。故事通过林庭东愤怒与羞耻交织的心理，展现了性别角色的冲突和家庭关系的变化。他的内心挣扎耐人寻味，既有对妻子的愤怒，也有对自身秘密被曝光的恐惧和无奈。它探讨了现代社会中性别认同、背叛和个人秘密的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_存在_一.docx]([变装]_存在_一.docx)
 | Size            | 25658 bytes                           |
 | MD5             | 22d7c12551bd8b5b48037521dd266429                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 婚姻危机, 情感冲突, 心理挣扎, 离婚, 自我认同, 社会道德, 家庭关系, 秘密生活, 背叛, 情欲纠葛, 角色扮演, 二次元, 现代爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

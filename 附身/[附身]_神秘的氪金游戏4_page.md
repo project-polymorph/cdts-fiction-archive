@@ -7,7 +7,7 @@ TXT 下载: [[附身]_神秘的氪金游戏4.docx]([附身]_神秘的氪金游�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于一个名为刘洵的角色在一个神秘的游戏中体验性别变换和角色扮演的小说。作品中，刘洵在游戏中变身为一个名叫刘熏儿的富家萝莉，拥有无尽的财富和独特的能力。这种设定引发了角色的自我探索与欲望的碰撞。在游戏中，他通过一个特殊的卡牌能够介入现实，体验作为小女孩的生活，包括学校生活以及满足自身对于萝莉角色的幻想。小说的情节涉及角色的内心挣扎、快感与认同感的交织，以及潜意识中的幻想成真，展示了性别认同和角色扮演的复杂性。文中使用了夸张的描写和丰富的想象力，例如关于萝莉角色的设定、特殊能力的描述，以及角色如何适应新身份的细节，这些都为整个故事增加了趣味性与深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_神秘的氪金游戏4.docx]([附身]_神秘的氪金游�
 | Size            | 21348 bytes                           |
 | MD5             | 9bc9a2735b13221804c3fa6a7d01f2bf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 角色扮演, 性别认同, 性转, 萝莉, 富豪, 自我探索, 虚拟现实, 奇幻, 欲望, 游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

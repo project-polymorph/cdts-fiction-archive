@@ -7,7 +7,7 @@ TXT 下载: [[变身]_寻宝异闻录_第一卷_血腥玛丽（上）.docx]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘及变身题材小说《寻宝异闻录》第一卷上册的开篇，故事围绕女强人君雅及其儿子李俊展开。君雅是业务上的女强人，面临家庭和工作的双重压力，心理状态愈发复杂。引言中描绘了君雅在繁华都市中似乎失去了一切的窘境，她在忙碌的家庭生活中无意间与一只神秘的酒杯产生了联系，这只酒杯不仅承载着她的心事，也注定将改变她的命运。随着故事的发展，君雅与李俊的关系发生了微妙的变化，突然之间，君雅不再是那个颓废的母亲，而是隐秘力量的化身，脱离了她原有身份，逐渐展现出魔女伊丽莎白的风范。情节包含变性、血腥与经济权力的博弈，以及母子之间复杂密切的情感纠缠，并且伴随了大量关于性别认同与身体变化的细致描写，为后续的情节铺设了基调。内容中包含了一些限制级情节，涉及了变身与性别认同的主题，适合相关研究与分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_寻宝异闻录_第一卷_血腥玛丽（上）.docx]([变
 | Size            | 53064 bytes                           |
 | MD5             | c8adb132f0a489de438e9605998e4cd4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 血腥, 经济权力, 家庭关系, 心理变化, 自我认同, 魔女, 灵魂交换, 情感纠葛, 性别转化, 儿童视角, 都市奇幻, 女性题材, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

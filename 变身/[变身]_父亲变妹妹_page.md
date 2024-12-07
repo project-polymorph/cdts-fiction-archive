@@ -7,7 +7,7 @@ TXT 下载: [[变身]_父亲变妹妹.doc]([变身]_父亲变妹妹.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《父亲变妹妹》是一本探讨性别转换与身份认同的小说，围绕着一个名为亨利的角色展开。他在一次偶然中，通过触碰女儿的日记本，触发了一个魔法咒语，导致他的身体发生剧烈变化，变成了女儿的妹妹贝拉。在身体转变的过程中，亨利不断感受到新的身体带来的敏感与冲突，与此同时，他的心理也在发生复杂的转变。艾米丽，亨利的女儿，以操控者的身份出现，她在力量的支配下将亨利的身份完全重塑，迫使他接受这一变化并服从她的命令。书中描述了亨利在新身份下的挣扎与自我认知的混乱，以及在性别与家庭关系交织下所带来的心理冲突。整部小说涉及大量敏感、复杂的情节，呈现了父女之间非同寻常的关系与个人身份的探讨，尤其是亨利在转变后的感知与情感流露。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_父亲变妹妹.doc]([变身]_父亲变妹妹.doc)
 | Size            | 920064 bytes                           |
 | MD5             | 0a270fec2434f5e5cee1ca17fc3ec65b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 身份认同, 魔法, 父女关系, 性别角色, 心理冲突, 二次元, 变身, 伪娘, 强制控制, 变嫁, 女性视角, 奇幻, 自我探索, 情感挣扎, 禁忌关系, 异世界, 潜意识, 感官体验, 身体重塑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

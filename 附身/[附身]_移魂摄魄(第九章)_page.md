@@ -7,7 +7,7 @@ TXT 下载: [[附身]_移魂摄魄(第九章).doc]([附身]_移魂摄魄(第九�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是多元性别类型的变身与跨性别相关小说，标题为《移魂摄魄（第九章）》。故事围绕主人公通过修炼获得超能力的过程展开。主人公掌握了灵魂分裂的能力，并开始在校园生活中运用这些超能力，尤其是与室友一起完成各种任务。文件具体描述了主人公与兄弟们的互动，并展示了他们各种搞笑、淫荡的场景。故事中涉及药水赋予超能力的情节，使得角色们在追求爱情与满足欲望的同时，也面临着种种挑战和危险。通过药水，角色们获取了奇妙而危险的能力，最终展开了一场关于追求与性的冒险。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_移魂摄魄(第九章).doc]([附身]_移魂摄魄(第九�
 | Size            | 43520 bytes                           |
 | MD5             | e59d5167ef5df7af0c3b196447dc8f69                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 超能力, 灵魂分裂, 校园生活, 兄弟情, 爱情, 药水, 性转, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

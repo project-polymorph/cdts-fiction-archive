@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_王大明的性福生活①.docx]([皮物]_王大明的性
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档《王大明的性福生活①》是关于一个普通大学生王大明的成长故事。在文中，王大明被描绘为一个平凡的大学生，常常被他优秀的弟弟王小明所 overshadow。故事通过王大明的独白，揭示了他与弟弟之间的竞争与对比感，以及家庭中对个体成就的刻板印象。他感受到一种边缘化的存在感，常常被认为是反面教材，尤其是在家人面前。随着故事的发展，王大明遇见了一个自称是沓马星人的外星生命体，并被赋予了一种超能力，带来了他生活的转变。文中通过王大明的幽默和自我反省，探讨了青春期的焦虑、性别角色的认知以及探索自我的主题。作品具有丰富的二次元文化元素以及对社会现象的浅析，结合了校园生活、家庭关系、以及超自然元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_王大明的性福生活①.docx]([皮物]_王大明的性
 | Size            | 22759 bytes                           |
 | MD5             | a3d37877f620862cce745cfa970c7840                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 超能力, 青春成长, 校园生活, 家庭关系, 二次元文化, 自我认知, 外星人, 社会实验, 幻想, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_冲突·亲情改（下）.doc]([皮物]_冲突·亲情改
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身与跨性别相关小说，主要围绕在一个封闭式企业内进行的形体训练课程展开。故事以第一人称的视角，讲述了主人公在严苛的形体训练下的感受，以及对同班同学阿卡莉和教官高漠霜的印象。在这个企业中，形体训练不仅是培养职员技能，更是为了转变心性，从而减少内部分歧。内容中涉及6场应急逃生演练，展示了角色在受到危险刺激下的心理变化，其中描绘了硫化氢中毒的紧张情境与由于快感呼唤系统引发的复杂反应。文中描绘了一些关于性别认同、身体认知混乱等主题，并且包含了一些暗示性内容，适合对性别与自我探索感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_冲突·亲情改（下）.doc]([皮物]_冲突·亲情改
 | Size            | 51200 bytes                           |
 | MD5             | 3868eb0b6c55e2150861ceb2da8d6d6f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 性转, 自我探索, 性别认同, 快感呼唤系统, 紧张情境, 工业安全, 形体训练, 学院生活, 幻想, 调教, 强制改变, 心理冲突, 科技幻想, 角色训练, 神秘元素, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

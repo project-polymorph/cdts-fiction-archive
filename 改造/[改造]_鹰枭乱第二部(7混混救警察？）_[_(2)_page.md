@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鹰枭乱第二部(7混混救警察？）_[_(2).docx]([改
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一段关于角色阳光的小说片段。阳光在一场混乱中穿着性感女装走上街头时遭遇了一名猥琐男子的骚扰。阳光羞愧且愤怒，与男子发生冲突，试图保护自己。而随后更糟的情况是，他被一群混混围住，陷入了极度危险的境地。阳光焦急回忆自己的证件和衣物，思考如何从困境中逃脱。在这个过程中，阳光不仅要面对外部的威胁，也要处理自己内心的矛盾和身为男性却不得不以女性形象示人的困扰。文本充满了对角色内心情感和外部冲突的描写，反映了性别认同与社会压力的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鹰枭乱第二部(7混混救警察？）_[_(2).docx]([改
 | Size            | 19134 bytes                           |
 | MD5             | 1005b0cda3c2fdd2aedf201a2bc1aaf6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 女装, 跨性别, 自我探索, 羞愧与愤怒, 混混, 性骚扰, 警察, 社会压力, 情感冲突, 伪娘, 男娘, 强奸, NTR, 调教, 逆后宫, 戏剧, 心理斗争, 黑色丝袜, 警服, 青春故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

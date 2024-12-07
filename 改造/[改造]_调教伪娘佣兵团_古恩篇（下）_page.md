@@ -7,7 +7,7 @@ TXT 下载: [[改造]_调教伪娘佣兵团_古恩篇（下）.doc]([改造]_调
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含了一段详细且富含成人向情节的伪娘调教小说，故事围绕角色古恩展开。古恩的角色起初被描绘成性别复杂的人物，在与主人之间展开了一系列涉及权力动态与性探索的互动。文本中显示出较强的性暗示，古恩展现出在自我探索中的矛盾心理，既渴望主人提供的调教，也对自身身份的认同产生挣扎。文中多次提及古恩过去的家庭背景，包括母亲与强暴事件、以及复仇的主题，使得故事具有更深层的情感动机。角色对彼此的身体探索与欲望的描写细致入微，包含了大量可能被视为限制级的内容，且语语言技巧上展示了对角色情感的细腻刻画。摇曳的黑丝与高跟鞋的描写，让整个场景生动而富有幻想感，回响着丰富的视觉与感官体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_调教伪娘佣兵团_古恩篇（下）.doc]([改造]_调
 | Size            | 44544 bytes                           |
 | MD5             | fb2099db1e32cae057cb2fc72f42bbbb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 调教, 性别认同, 跨性别, 复仇, 魔法学院, 黑魔法, 情欲探索, 身体认同, 性转, 禁忌关系, 角色扮演, 丝袜热, 成年向, 自我探索, 甜美特质                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

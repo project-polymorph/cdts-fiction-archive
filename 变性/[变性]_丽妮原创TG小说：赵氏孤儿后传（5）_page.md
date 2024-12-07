@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（5）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文为一部伪娘与跨性别主题的原创小说，名为《赵氏孤儿后传（5）》，由丽妮创作。故事围绕男主角的性别身份与自我认知展开，描写了一场发生在百媚馆的复杂仪式。在故事中，男主角身披粉红的半透明纱衣，接受了特殊的仪式安排，成为“冰冰”，他的外貌和身份被迫改变，身心承受着巨大的压力和疼痛。在这个过程中，男主角展现出了对自身性别认同的困惑和挣扎，比如面对他人对自己新身份的认知，以及与不同角色之间的关系。一方面，他被期望成为一位优雅的女子，另一方面，内心的男性身份始终存在，造成了剧烈的自我冲突和反抗。文中描述了诸如“周媚香”和“二娘”等角色与男主之间的对话，揭示了传统社会对性别角色的苛刻要求和个体的无奈。此外，作品中同时涉及了性别转化的药物和调教过程，暗示了对自由和身份的压迫与追求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（5）.docx]([�
 | Size            | 18834 bytes                           |
 | MD5             | 5c453ee304f123de954dbfe038ee0f63                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 仪式, 药物调教, 男女关系, 古代, 二次元, 百媚馆, 男变女, 情感纠葛, 痛苦经历, 社会角色, 人物变化, 情节冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

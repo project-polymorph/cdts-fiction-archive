@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_女皇（申码文重发）.doc]([皮物]_女皇（申码�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部以性转、伪娘和跨性别主题为中心的幻想小说，故事情节围绕一名少年的复仇之旅展开。在小说的开头，少年目睹了自己父亲的被杀，痛苦的他发誓要找出凶手并复仇。小说描绘了角色在性别认同和生理变化之间的挣扎，少年为了生存与复仇，选择了一个哥布林的皮囊，进入了一个全新的身份与社会中。通过变身与他所遭遇的角色，故事探讨了权力、身份和欲望的复杂关系。文中大量出现血腥与性别变换的图景，以及对角色自我认知的深刻反思，展现了在奇幻背景下对人性的探讨与挑战。随着故事进展，少年与其他角色之间的关系逐渐展开，使得整个情节更加复杂而引人入胜，融合了冒险与恐怖元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_女皇（申码文重发）.doc]([皮物]_女皇（申码�
 | Size            | 51712 bytes                           |
 | MD5             | 796d4efa1e927af666f2b1fa8364a5fb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 变身, 伪娘, 复仇, 跨性别, 血腥, 身份认同, 魔法, 哥布林, 药剂, 奇幻, 情感冲突, 父子关系, 权力斗争, 人皮药剂, 神秘, 女性视角, 角色转变, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

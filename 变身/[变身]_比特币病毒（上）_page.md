@@ -7,7 +7,7 @@ TXT 下载: [[变身]_比特币病毒（上）.doc]([变身]_比特币病毒（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了孙磊的奇幻经历，他回到宿舍后发现宿舍里的室友们竟然都变成了女性，并且在经历了性别转换的过程中，宿舍内充满了惊讶与尴尬。故事的开端是孙磊在繁忙的生活中感到疲惫，想要回宿舍休息，却意外地发现宿舍内有女人的声音。当他打开门时，眼前的场景令他震惊不已：原本粗犷的室友们如今占据了宿舍，化身为裸体或半裸的美丽女性。小说中描绘了角色们在接受自己新身份时的挣扎，以及通过一个控制身体变化的病毒程序来恢复性别的过程。小说涉及复杂的情感交织和对性别认同的探索，含有大量与性相关的情节和对话，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_比特币病毒（上）.doc]([变身]_比特币病毒（�
 | Size            | 53760 bytes                           |
 | MD5             | bc08aa0f0eac1e4f9299aeca5515949d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 宿舍生活, 性别转换, 跨性别, 伪娘, 男娘, 程序病毒, 性别认同, 奇幻故事, 自我探索, 青春校园, 两性关系, 性相关情节, 社会性别研究, 恶搞, 二次元文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

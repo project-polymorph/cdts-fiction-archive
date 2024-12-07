@@ -7,7 +7,7 @@ TXT 下载: [[变身]_哈利波特与翡翠女巫的诅咒（二）.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《哈利波特与翡翠女巫的诅咒（二）》的第二部，作者为蕾梦娜·花（Ramona Flowers）。故事讲述了角色哈利·波特在受到诅咒后变身为女生海瑟·波特后的生活与内心挣扎。自诅咒发生以来，哈利必须适应新的身份与外貌，而周围的同学对她的关注和议论让她相当烦恼。在邓布利多的帮助与支持下，海瑟努力学习如何适应这一切，尽管她对成为女孩的身份感到无奈与不安。通过与朋友赫敏和罗恩的互动，展示了她对自我身份的迷茫与探索。短短几天内，巫师世界便已经知道了关于她的新身份，并产生了一系列的反响，而来自斯莱特林的嘲弄尤其让海瑟心烦意乱。整部小说围绕性别认同与自我接纳展开，同时也展现了她在魁地奇队的身份与挑战，以及她与朋友之间的支持与依赖。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_哈利波特与翡翠女巫的诅咒（二）.doc]([变身
 | Size            | 45056 bytes                           |
 | MD5             | 8dc0ccab2ce6bb4cd277f4fc133b43a2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 蕾梦娜·花（Ramona Flowers）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 自我探索, 哈利波特, 伪娘, 跨性别, 学校生活, 友谊, 校园欺凌, 魔法世界, 性别转换, 心理斗争, 青春期, 女巫, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

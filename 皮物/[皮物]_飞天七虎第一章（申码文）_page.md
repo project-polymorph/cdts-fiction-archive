@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_飞天七虎第一章（申码文）.docx]([皮物]_飞天
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《飞天七虎》的第一章，名为《暗流涌动》，讲述了主人公王建在逃避警察追捕的过程中，意外跌入一个诡异的洞窟，并在其中发现令人恐惧的人骨。故事开始时，王建因追逐而情绪激动，回忆起对两个女警的暗恋。随着情节的发展，王建躲避警察的同时，遇到了他的朋友刘天，并讨论了当前的困境以及与敌对势力赵卓的冲突。章节不仅涉及性别和权力的主题，还掺杂了王建内心的自我认知冲突以及团体之间的竞争与合作。情节中含有成人向内容，包括性暗示和身体特征的描写，呈现出角色的欲望与心理状态，使得故事更加扣人心弦。整体而言，故事构建了一个悬疑而充满险恶的环境，适合喜欢惊悚与性别变换题材的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_飞天七虎第一章（申码文）.docx]([皮物]_飞天
 | Size            | 74268 bytes                           |
 | MD5             | ade8f441320cc48dca375f15c1da50fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 暗流涌动, 王建, 飞天七虎, 刘天, 悬疑, 警察追逐, 恐惧, 人骨, 自我认知, 欲望, 性暗示, 团体冲突, 警察, 二次元, 变身小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

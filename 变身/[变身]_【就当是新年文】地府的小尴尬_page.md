@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【就当是新年文】地府的小尴尬.doc]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《地府的小尴尬》是一篇围绕阎王和天庭仙子林羽音之间的互动展开的短篇小说。故事设定在地府的高档酒店，阎王因其女友娜娜缺席而感到不满。判官在小心翼翼的为阎王汇报天庭巡视团的到访时，不经意间展示了天庭和地府之间的权力关系。小说通过阎王与林羽音的初次会面，描绘了阎王对这位少女的着迷，以及他内心暗潮汹涌的复杂情感。同时，故事中介绍了地府的种种景点，通过阎王的讲解，读者了解到往生门的神奇与用途。然而，林羽音的尝试却引发了一场意外，导致十九层地狱的狐妖逃脱，展开了一系列紧张的情节。整篇小说融合了幻想色彩与幽默感，探讨了角色的性别认同与情感交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【就当是新年文】地府的小尴尬.doc]([变身]_�
 | Size            | 35328 bytes                           |
 | MD5             | 0c7f5ab95920642cd77d40422342df76                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 地府, 阎王, 林羽音, 跨界旅行, 往生门, 性别认同, 自我探索, 妖怪, 天庭, 神秘, 幻想故事, 幽默, 恋爱, 仙子, 权力斗争, 逃脱情节, 神秘事件, 角色互动, 阴间传说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

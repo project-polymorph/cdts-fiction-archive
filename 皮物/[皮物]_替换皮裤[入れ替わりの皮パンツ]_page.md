@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_替换皮裤[入れ替わりの皮パンツ].doc]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含了一部名为《替换皮裤》的情色小说，讲述了一位年轻男子因好奇心而使用一种神秘服务，以获取女性身体特征的经历。故事开始于主人公看到一则广告，广告宣传可以通过特定方式获取他人身体部位的替换品，读者很快了解到他选择用自己姐姐的皮肤制作女性内裤。主人公怀着激动的心情试穿皮裤时，逐渐感受到了身体变换带来的奇特体验。
+
+小说深入探讨了性别认同和身体认知的问题，表现了主角在穿上女性皮裤后的心理变化，以及与姐姐之间复杂的互动。随着故事的发展，主人公被迫体验了女性的感觉和情绪，甚至在姐姐的引导下共享了彼此的快感和刺激，展现了强烈的性暗示和潜在的禁忌关系。通过细致的描写，反映了心理与生理的交织，满是情色与冲突的场景，构成了情节的高潮与转折。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_替换皮裤[入れ替わりの皮パンツ].doc]([皮物]
 | Size            | 36352 bytes                           |
 | MD5             | 5246cf935886df36f01c234159069968                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ＠ぽっけ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 身体替换, 情色小说, 禁忌, 强烈的快感, 姐姐, 家庭关系, 自我探索, 女性视角, 性别认同, 奇幻, 冒险, 心理冲突, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_女神住在我隔壁6.docx]([附身]_女神住在我隔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一段关于性别转换和附身的故事情节。故事围绕角色李强和胖子展开，描述了胖子因为一个神秘的珠子意外地附身到女神夏晓萱的身体里。在这个过程中，李强和胖子体验到了角色转换带来的生理和心理上的冲突与探索。随着情节发展，胖子在夏晓萱的身体中感受到了一种前所未有的身体快感，并与李强发生了亲密关系，展现了对性别身份和欲望的复杂探索。故事中包含了一些限制级内容和成人情节，例如对身体变化的描绘、附身后的情感释放，以及男女关系的复杂交互。整体情节在揭示性转的过程中，也探讨了自我认知和认同的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_女神住在我隔壁6.docx]([附身]_女神住在我隔�
 | Size            | 18629 bytes                           |
 | MD5             | 40799820b35e8f8bd7121fb298f1b1bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 附身, 跨性别, 伪娘, 变身, 强奸, 调教, 百合, 逆后宫, 多元性别, 暑假恋, 校园, 奇幻, 自我探索, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

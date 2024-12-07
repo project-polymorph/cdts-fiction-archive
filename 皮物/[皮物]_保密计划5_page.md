@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_保密计划5.doc]([皮物]_保密计划5.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描述伪娘和跨性别主题的小说，讲述了主角在一次变身实验中的体验与感受。故事开始时，主角因为受伤被迫留在丽姐的包间，经过一夜的观察与思考，第二天清晨他决定悄悄离开，却被丽姐发现。丽姐告诉主角，黑熊的人已经撤走，但主角的心中始终挂念着段坤的事情。接着，主角回到安全屋，准备进行凝胶物质的二次升级实验。实验内容涉及将主角的生理性别与外表进行重大改造，包括声音的转换、身体的感知等。在实验过程中，主角感受到身体的巨大变化与心理的困惑，以及即将面临的性别认同问题。故事不断交织着刺激与敏感的描绘，包括身体感知的细腻与性别角色的转变，构建了一个充满科幻色彩的变身故事。最后，主角经历了一系列复杂情境，面临来自黑熊的威胁。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_保密计划5.doc]([皮物]_保密计划5.doc)
 | Size            | 32768 bytes                           |
 | MD5             | db5f4f8fd3cfe6f6929ceedc31235b6f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 实验, 凝胶物质, 性别认同, 科幻, 自我探索, 情感, 心理冲突, 女性形象, 性感, 角色转换, 科技实验, 性别角色, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

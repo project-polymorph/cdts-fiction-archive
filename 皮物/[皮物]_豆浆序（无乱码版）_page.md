@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_豆浆序（无乱码版）.docx]([皮物]_豆浆序（无
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《豆浆》是一部围绕一位上班族与其表姐之间复杂感情的小说，讲述了主角在日常生活中逐渐爱上表姐的心路历程。故事设定在一个小城市，表姐在经历了家庭变故后选择了隐居生活，主角则因工作而常常光顾表姐经营的豆浆店。动画作品中的情感描绘结合了一些禁忌的情节，主角对表姐的爱慕不仅源于她的美丽和独立，还因她的坚韧和努力。随着故事的发展，主角为了告白而努力，却因表姐的突然离去而感到无奈和失落。此时，一个与表姐有联系的新女性角色王姐的出现，使得事情变得更加复杂，她对表姐的暗示和对主角的挑战构成了情感上的冲突和悬念。这个小说不仅描绘了恋爱、失落和自我探索，也深入探讨了人与人之间的复杂情感关系，特别是表姐对主角影响的多重意义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_豆浆序（无乱码版）.docx]([皮物]_豆浆序（无
 | Size            | 26627 bytes                           |
 | MD5             | 69de03a225cfda8ee5d8cd50b670764f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 爱情, 自我探索, 情感纠葛, 家庭变故, 禁忌恋, 性别认同, 人物关系, 都市生活, 师生恋, 丝袜, 心理斗争, 虐恋, 魔法, 个体独立, 职业生活, 青春成长, 日常生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

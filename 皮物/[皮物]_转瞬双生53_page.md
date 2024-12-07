@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_转瞬双生53.pdf]([皮物]_转瞬双生53.pdf)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别相关的小说内容，讲述了李茉莉、婉瑜与韩俊之间复杂的身份与情感纠葛。故事中，婉瑜以匕首袭击李茉莉，但遭到挫败，揭示了她实际上是被韩俊伪装的。故事深入探讨角色的身份替换与生理性别的变化，伴随冲突、背叛与复仇，展现了角色之间不为人知的秘密与心理斗争。此段落描绘了激烈的打斗场景和紧张的情感互动，并包含了对变色龙人皮的讨论，象征着角色在身份与外貌上的变化。整个故事充满了悬念与黑暗的情节，不时让人对人物的命运产生揪心的关注。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_转瞬双生53.pdf]([皮物]_转瞬双生53.pdf)
 | Size            | 231693 bytes                           |
 | MD5             | 3f4a820a4b89a11aa0fb72400ec057ca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 心理斗争, 身份替换, 变色龙人皮, 复仇, 自我探索, 暗黑情节, 女性视角, 惊悚, 紧张过程, 剧情反转, 激烈打斗, 情感纠葛, 身份错位, 未知的秘密, 权谋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_武侠无侠——2.docx]([变身]_武侠无侠——2.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件名为《武侠无侠——2》，是一个涉及角色性别转变和自我认同探索的变身小说片段。故事的主角刘星梦在夜晚练习野球拳，经历了长时间的苦练，终于将武功等级提升，心中感到一丝喜悦，但随即被即将到来的挑战和困惑所笼罩。他观察到形意门的门主王一帆正面对敌对帮派天源帮的挑战，场面一度紧张。接下来，王一帆与天源帮壮汉的对峙显现了武功的差距，最终刘星梦目睹了形意门的沦陷，内心感到不安与愧疚。故事通过刘星梦的视角展现了对于身份和归属的探索，同时也描绘了他在困境中的挣扎与成长。这段故事包含了对武侠文化的致敬，以及对角色内心变化的深刻描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_武侠无侠——2.docx]([变身]_武侠无侠——2.doc
 | Size            | 19261 bytes                           |
 | MD5             | 9000434c3d9a08d3b967a5ffd9e93ce4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 武侠, 自我探索, 性别认同, 青春, 内心挣扎, 帮派对抗, 成长, 角色发展, 冒险, 武功升级, 混战, 情感纠葛, 身份认同, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

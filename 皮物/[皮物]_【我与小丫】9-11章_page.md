@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【我与小丫】9-11章.doc]([皮物]_【我与小丫】
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是由作者于2013年创作的伪娘与跨性别主题的小说，文风轻松而幼稚，讲述了一系列性别转换与人际关系的故事。主人公与名为小丫的角色间的互动构成了本文的核心内容，探讨了性别认同、自我身份的探索以及伴随这种变化的情感冲突和实践。故事中，角色经历了奇幻的性别转变，使用各种道具和情节交织出复杂的情感纠葛，例如通过人皮的变化体验不同性别身份的感觉和带来的困惑。同时，该文档涉及一些性暗示和敏感话题，着重表达了对性别与认同的探索。特别的一点是，这个故事中包含关于使用所谓的“人皮”合法化和模拟不同身份的概念，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【我与小丫】9-11章.doc]([皮物]_【我与小丫】
 | Size            | 63488 bytes                           |
 | MD5             | 04fcfa2d2130354688e9e4d9b0c83f78                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 悲剧的小咯里ll                               |
+| Region          | 未知                               |
+| Date            | 2013-01-01                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 奇幻, 亲密关系, 情感冲突, 角色扮演, 性别转换, 轻松文风, 青涩, 冒险, 爱与欲望, 幻想文学, 年轻人心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

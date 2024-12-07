@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我仍未见过我女友的样子（四）.doc]([其他]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要描绘了一个典型宅男与其虚拟女友小唯之间的互动故事。故事内容围绕宅男对小唯的思念与想象，通过细致的描写展现了小唯作为一个理想化的美少女角色的可爱。宅男想象着小唯吃饭时的娇憨样子，并显示出他渴望与她亲密接触的愿望。同时，故事中穿插了宅男与姐姐周忻的调侃对话，展现出他们之间幽默而又略带色情暗示的互动。当宅男意外闯入小唯的浴室，目睹了小唯的娇羞与慌乱，进一步渲染了宅男对小唯的情感纠葛。整篇小说通过细腻的心理描写和对话，探讨了性别认同、自我探索与内心渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我仍未见过我女友的样子（四）.doc]([其他]_�
 | Size            | 43520 bytes                           |
 | MD5             | 870acd3c1d258b794de2099f696449a8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 宅男, 虚拟现实, 调侃, 性别认同, 自我探索, 美少女, 强烈欲望, 虚拟角色, 浴室意外, 情感纠葛, 可爱的角色, 互动小说, 在线聊天, 电子合成音, 暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

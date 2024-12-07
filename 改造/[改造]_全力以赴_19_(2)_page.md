@@ -7,7 +7,7 @@ TXT 下载: [[改造]_全力以赴_19_(2).docx]([改造]_全力以赴_19_(2).doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说第19章，主要讲述了主角妮古拉与父母的电话互动，以及她在职场中的经历。妮古拉通过电话告知母亲她进行乳房植入手术的决定，展现了她性别认同的挣扎与自我探索。母亲的反应充满焦虑与不解，反映出亲子关系中的冲突和沟通的不足。妮古拉同时也向母亲表达了她对自己身份的坚定态度，认为这是无可回头的单向旅程。小说中还描绘了她在餐馆工作的经历，与同事之间的互动及社会认同的挑战，进而引发对性别角色和自我认同的思考。总的来说，该章突显了性别认同、家庭关系及职场生活的复杂交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_全力以赴_19_(2).docx]([改造]_全力以赴_19_(2).doc
 | Size            | 38418 bytes                           |
 | MD5             | 62dc3e73de7b8c9a03c06321850b807b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 自我探索, 家庭关系, 职场生活, 乳房植入手术, 电话交流, 人际关系, 心理挣扎, 情感冲突, 变性女性, 餐馆工作, 二次元文化, 调情, 生活挑战, 现代爱情, 社会认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

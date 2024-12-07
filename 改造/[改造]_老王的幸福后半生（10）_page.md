@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老王的幸福后半生（10）.doc]([改造]_老王的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是关于老王与一个名为齐梦伟的角色之间复杂关系的小说情节，描绘了角色在困境中挣扎及自我认同的过程。故事中，老王面临着道德和情感的冲突，他想要保护齐梦伟的家庭，但又不得不面对自己内心的挣扎和齐梦伟的反抗。文件中涉及了角色转变的情节，老王试图通过强迫性行为来激发齐梦伟的男性意识，但齐梦伟面临身份的混乱与痛苦。小说中出现了一些对话，展现了老王与新角色之间亲密的交流和严肃的对抗。小说的风格生动，从角色之间的对话和内心独白，展现了他们的情感波动与心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老王的幸福后半生（10）.doc]([改造]_老王的�
 | Size            | 39936 bytes                           |
 | MD5             | f494ea792073f70054cac29cfc559462                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, NTR, 情感挣扎, 自我认同, 强制性关系, 家庭关系, 感情冲突, 心理斗争, 变身, 奴隶, 权力关系, 情感与身份, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

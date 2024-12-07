@@ -7,7 +7,7 @@ TXT 下载: [[其他]_神秘論壇之七大詛咒_之前三.docx]([其他]_神�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于网络论坛的小说，名为《神秘论坛之七大诅咒 之前三》。作品通过虚构的故事背景，探讨了人类在高科技发展下的生活以及网络对人际交流的影响。故事的主角张克武因无意间进入一个不可思议的论坛，激活了一系列与“诅咒”相关的奇异情节。作品中包含了角色之间的性别交换、身体认知的混乱和自我认同的挑战，展现了现代年轻人在面对性别、身份等问题时的心理状态。此外，文本中还穿插了一些轻松幽默的恶搞元素，让整体氛围更显轻松。文中提到的“不可思议”的七个故事将以短篇的形式呈现，每个故事均是独立的情节，涉及不同的主题，包括身体交换、附身、变身等奇幻情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_神秘論壇之七大詛咒_之前三.docx]([其他]_神�
 | Size            | 48353 bytes                           |
 | MD5             | be101ac951b74ad7bafa39fbf1b3c46a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 神秘论坛, 诅咒, 性别交换, 身体认知, 自我认同, 网络文化, 都市奇幻, 轻松搞笑, 恶搞, 短篇小说, 虚构故事, 青少年小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

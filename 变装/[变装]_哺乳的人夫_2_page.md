@@ -7,7 +7,7 @@ TXT 下载: [[变装]_哺乳的人夫_2.doc]([变装]_哺乳的人夫_2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇涉及性别转换和变装主题的小说，讲述了一位男子在妻子要求下被迫穿上女装以掩盖她的秘密情感。在故事中，主角被迫接受自己身为男性却由于外在环境（如妻子的怀孕和家庭的压力）而不得不扮演女性角色的情境。小说深入探讨了主角的内心挣扎与性别认同的问题，随着正在经历的蜕变与自我探索，主人公的心理变化尤为明显，例如惶恐、羞辱与最终的自我接纳。 text中描绘了主角在试穿女装时的情感冲突及对自我的认知，反映了对女性魅力的复杂感受。同时，小说中还涉及了一段性别角色反转的暗示，通过情节展示了在女装状态下遭遇的社会互动与性骚扰的情景。与此构成鲜明对比的是，角色在面对女性形象后产生的欲望和冲动，这为故事增添了一层复杂的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_哺乳的人夫_2.doc]([变装]_哺乳的人夫_2.doc)
 | Size            | 69632 bytes                           |
 | MD5             | 95c77f09238627ed8cca5e9fad2d2987                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别转换, 伪娘, 情感压抑, 性认同, 婚姻, 自我探索, 性冲突, 家庭压力, 社会观念, 女性形象, 情欲, 欲望释放, 情感背叛, 心理变化, 欺骗游戏, 逆转角色, 跨性别体验, 性别认同, 代入感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

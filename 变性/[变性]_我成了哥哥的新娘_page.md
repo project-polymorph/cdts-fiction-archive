@@ -7,7 +7,7 @@ TXT 下载: [[变性]_我成了哥哥的新娘.doc]([变性]_我成了哥哥的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇关于跨性别与伪娘文化的小说，题名为《我成了哥哥的新娘》，作者为Nupur，翻译者为shidai。故事围绕主角拉吉展开，他是一个出生为男性的角色，却对女性化生活有着强烈的向往。在故事中，拉吉的哥哥萨米尔娶了一个美丽的女性茜玛，拉吉对嫂子的迷恋导致他开始探索自己的性别认同。由于对嫂子的羡慕与吸引，他偷偷穿上嫂子的衣物，并因为对女性生活的渴望而逐渐实现了女性化。在萨米尔与茜玛出行期间，拉吉有机会自由地尝试嫂子的婚纱，并在发现被嫂子看到后，坦诚了自己的感受，嫂子对此表示理解并承诺帮助他达到成为女性的梦想。接下来的情节中，拉吉接受了嫂子的指导，学习女性化的各种技能，逐步发展出对嫂子的情感，并开始影响与哥哥的关系。最终，拉吉在一次旅行中被哥哥吸引，并经历了一系列关于性别认同、自我接受及爱的冲突和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_我成了哥哥的新娘.doc]([变性]_我成了哥哥的�
 | Size            | 40448 bytes                           |
 | MD5             | 481d7b5b1d94f0e82dda3a7f11e1ed5a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nupur                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 性转, 女性化, 跨性别, 爱情, 自我探索, 印度文化, 婚礼, 家庭关系, 性别认同, 幻想, 性别互动, 隐秘恋情, 心理冲突, 多元性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

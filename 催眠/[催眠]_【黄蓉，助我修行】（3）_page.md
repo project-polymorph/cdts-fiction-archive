@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_【黄蓉，助我修行】（3）.doc]([催眠]_【黄蓉
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个名为《黄蓉，助我修行》的催眠故事。在故事中，欧阳克将黄蓉囚禁在白驼山的地牢，利用催眠术企图控制她并满足其欲望。欧阳克因受重伤而内力衰退，意识到没有石破天的道德约束，开始对黄蓉施加催眠，想要借助她的能力为自己修行。文中描述了黄蓉被锁链束缚、赤身裸体的情节，以及她内心的挣扎与抵抗。随着催眠的深入，黄蓉逐渐失去对身体的控制，文中详细描写了她在催眠中身体感受的痛苦和情欲的交织。欧阳克利用催眠不断引导黄蓉的思想，并逐渐改变她对他和郭靖的情感认知，使得黄蓉最终放下了对欧阳克的仇恨，转而对他产生信任。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_【黄蓉，助我修行】（3）.doc]([催眠]_【黄蓉
 | Size            | 67584 bytes                           |
 | MD5             | 057d4fb671c3d8397a52037ee84d1887                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 性转, 欲望控制, 英雄与反派, 心理操控, 黄蓉, 欧阳克, 情感冲突, 武侠, 性别认同, 伦理困境, 侵占与反抗, 强制催眠, 生死对抗, 权力欲望, 情欲纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

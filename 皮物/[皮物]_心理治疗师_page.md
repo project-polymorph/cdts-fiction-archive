@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_心理治疗师.doc]([皮物]_心理治疗师.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一位名叫凯伦·查理曼的心理治疗师的故事。凯伦在35岁时保持着良好的工作热情，但她的小秘密是一套人皮衣，使她能够在工作中表现为女性，同时隐藏她的男性特征。她与一个19岁的客户布拉德利的交流中，揭示了布拉德利对他母亲的复杂情感，并提出了安排他们之间的“家庭会议”。文中充满了性暗示和心理的冲突，尤其是凯伦与布拉德利之间微妙而复杂的心理互动。文档主要探讨了性别认同、欲望和跨性别体验的主题，同时还包括了性别角色和家庭关系的扭曲表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_心理治疗师.doc]([皮物]_心理治疗师.doc)
 | Size            | 48640 bytes                           |
 | MD5             | 181eb3be04deb5251460bee3922814a5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 心理治疗师, 伪娘, 性别认同, 跨性别, 家庭会议, 欲望, 性转, 复杂关系, 性别角色, 成人内容, 自我探索, 人皮衣, 心理暗示, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

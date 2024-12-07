@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_我的、我的、都是我的（1）.doc]([催眠]_我的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了主人公方天正穿越到一个异世界的故事。在这个世界中，方天正继承了先天异人的能力，但他面临着强烈的欲望干扰。他在努力平衡自我身份与生理欲望之间的关系的同时，也试图隐藏自己真正的穿越身份。文中提到方天正与父母的互动，父母对他获得特殊能力的支持，以及他在异人界的初步探索。在经过一系列事件之后，方天正与一个名叫贾正瑜的人物发生了联系，并试图通过用自己的气来帮助贾正瑜来提升修为，从而涉及到异人界的权力游戏和个人成长。文中还涉及一些关于自我认知和人际关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_我的、我的、都是我的（1）.doc]([催眠]_我的
 | Size            | 46592 bytes                           |
 | MD5             | 30f2b68d763f4eb958e5ecc73ec5908a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 穿越, 异人, 变身, 自我探索, 父母关系, 欲望, 修炼, 人际关系, 先天异人, 气流控制, 武侠, 心理斗争, 职业生涯, 财团互动, 性别认同, 恋爱关系, 富二代生活, 成人, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

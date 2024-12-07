@@ -7,7 +7,7 @@ TXT 下载: [[变装]_少女侦探.docx]([变装]_少女侦探.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《少女侦探》是由作者风铃创作的一篇涉及变装与性别认同的小说。故事围绕男主角悠斗展开，他虽然外貌看似女孩，但实际上是个男孩。故事情节设定在一个安静的住宅区中，悠斗和他的伙伴缪兰经营着侦探事务所。当一位妖艳的女性顾客莅临时，纷扰的故事随之展开。顾客向悠斗寻求帮助，要求赔偿她被狗咬坏的昂贵礼服。这件礼服的价值高达一亿人民币，让悠斗感到震惊。为了能够得到赔偿，顾客要求悠斗试穿女式服装，迫使他进入了一场诡异的变装体验。小说不仅探讨了性别认同以及自我接受的主题，还包含了大量戏谑与幽默元素，展现了跨性别角色在社会中的复杂互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_少女侦探.docx]([变装]_少女侦探.docx)
 | Size            | 25617 bytes                           |
 | MD5             | 185a2dc1543fd29dac0c506262b16e3e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 风铃                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 跨性别, 侦探, 变身, 幽默, 性转, 男女关系, 女性形象, 自我探索, 奇幻, 都市奇闻, 电视剧, 情感戏剧, 心理斗争, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

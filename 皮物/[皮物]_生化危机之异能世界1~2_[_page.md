@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_生化危机之异能世界1~2_[.docx]([皮物]_生化危�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇与生化危机主题相关的小说，围绕主角肖然在病毒爆发后的生存困境展开。故事开始于一个清晨，城市已经被丧尸病毒侵袭，主角通过望远镜观察楼下的景象，得知周围环境的危险。经过四十一天的幸存，肖然的生活变得孤独而压抑，他尝试与外界保持联系，但发现手机和网络都无法使用。在一系列丧尸袭扰的情节中，肖然逐渐认识到生存的重要性，并受到周遭恐怖变化的影响，开始思考人性与生存的意义。在病毒爆发的环境中，主角不仅面临着食物和水的问题，还遭遇了女邻居王嫣，展现出逃生过程中的紧张与人际交往的复杂性。整个故事交织了悬疑和生存主题，呈现出了一幅末日生存状态下的人性考验与自我认知的画面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_生化危机之异能世界1~2_[.docx]([皮物]_生化危�
 | Size            | 21225 bytes                           |
 | MD5             | d1a4384a07d6ffde5e6115f35c77fdc2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 生化危机, 丧尸, 末日生存, 人性, 感染病毒, 都市, 恐怖, 爱情, 丝袜, 邻里关系, 孤独, 自我探索, 危机求生, 血腥, 戏剧, 幻想, 悬疑, 心理描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

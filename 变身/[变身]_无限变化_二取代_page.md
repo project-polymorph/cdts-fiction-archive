@@ -7,7 +7,9 @@ TXT 下载: [[变身]_无限变化_二取代.docx]([变身]_无限变化_二取�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名角色通过特定能力变身为少女的故事。故事采取第一人称视角，叙述者由于憎恨而决定对女性角色向莉文及其女儿莎莎进行报复。叙述者使用蚊子的特征潜入莎莎的房间，并无意识地被吸血的本能驱使。接着，通过吸收莎莎的DNA，叙述者经历了性别转换的过程，描述了从男性到女性的身体变化，包含细腻的身体感受与心理转变。此外，叙事中包括对身体的体验与自我认知的混淆，最后叙述者完全融合为莎莎，结束时以少女的身份走向目标。整个故事氛围暗黑，包含了性别认同、身体转化、自我探索等主题。
+
+该文件的内容包含一些成人情节，包括对性别转化相关的生理感受及心理变化的详细描写，呈现出一种复杂的自我认知和情感。在描述过程中，涉及到了血腥、占有欲、复仇及扭曲的感情等元素，可能不适合未成年人阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_无限变化_二取代.docx]([变身]_无限变化_二取�
 | Size            | 17750 bytes                           |
 | MD5             | 8cee666f72effbc5a1dcc273e3e82dd8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转化, 变身小说, 伪娘, 自我探索, 黑暗幻想, 复仇, 母女关系, 蚊子变身, 生物特征, 心理冲突, 性爱快感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

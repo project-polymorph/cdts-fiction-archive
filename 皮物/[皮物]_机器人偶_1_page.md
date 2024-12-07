@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_机器人偶_1.docx]([皮物]_机器人偶_1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于机器人技术部的故事，主要角色是雪野亚美和她的前辈小早川长月。故事开头描绘了两人在办公室的互动和日常工作。雪野亚美对前辈长月的羡慕和崇拜显而易见，尤其是对她的外貌和身材感到嫉妒。在清点机器人组件时，二人注意到了一些不寻常的事情，包括只有外壳没有内部组件的机器人部件，这引发了她们的疑惑和讨论。随着故事的发展，长月决定让亚美进行特别的测试，这涉及到将亚美装扮成机器人，虽然亚美对这个请求表示了抗拒，但最终还是被迫接受了这样的角色扮演。此过程中，长月的行为展现出她的权威和对亚美的调教，并通过身体的操控和模仿来进行实验。整个情节融合了科技与性别认同的复杂性，尤其是涉及机器人技术与人类情感的交织。文中出现了对角色性别角色的挑战和探索，以及意想不到的情节转折。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_机器人偶_1.docx]([皮物]_机器人偶_1.docx)
 | Size            | 21652 bytes                           |
 | MD5             | db8a59a62158e913734d27bf9cecdbd0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 机器人, 青春校园, 权威, 调教, 百合, 女性启蒙, 性别探索, 科技幻想, 角色扮演, 性别认同, 情感纠葛, 自我发现, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

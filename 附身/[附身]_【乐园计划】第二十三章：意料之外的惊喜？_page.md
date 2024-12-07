@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【乐园计划】第二十三章：意料之外的惊喜�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《意料之外的惊喜？》的小说章节，主要描写了伪娘与恶魔角色之间复杂的互动及变身。故事围绕香草和一名少女展开，香草在遭遇强大力量的攻击后，利用被夺取身体的机会，与另一角色展开激烈的争斗。文中描述了一系列奇异而情色的情节，包括香草对少女身体的控制、灵魂的交替、及身体的魔法异变。随着故事的发展，读者不仅能感受到角色的外部变化，还有对角色内心挣扎与探索的深入描绘，突出性别认同与自我接受的主题。此外，作品中也包含了一些大胆和成人化的内容，涉及灵魂交融和性行为的暗示，使其在读者中引发更多的讨论与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【乐园计划】第二十三章：意料之外的惊喜�
 | Size            | 35328 bytes                           |
 | MD5             | 5b8378c0e161b7150c9cdbb4a1f20cdb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 恶魔, 性转, 熟女, 灵魂交换, 青春, 奇幻, 性别认同, 恋爱, 奇异冒险, 都市, 魔法, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

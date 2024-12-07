@@ -7,7 +7,7 @@ TXT 下载: [[附身]_(申码文）黑暗游戏之姬甲之争(第一卷).doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《黑暗游戏之姬甲之争（第一卷）》讲述了一个名为张晓的角色，在一个陌生的环境中醒来，逐渐发现自己卷入了一场名为“黑暗游戏”的生死游戏中。在这个游戏中，男性玩家被赋予‘入替者’的身份，并获得变身器；而女性则成为‘异能者’，具备不同的异能。张晓在游戏开始后体验了从男人变成年轻女孩的心理和身体转变。当他尝试理解新身份带来的困惑和挑战时，故事展现了他如何在生存与力量之间做出选择。文本中充满了紧张的求生情节，描绘了角色间的冲突与竞争，同时也涉及了性别与身份认同的主题。随着张晓变身为小萝莉韩萌萌，故事开始探索她在新身份下的心理变化和自我认知过程。情节安排巧妙，融合了游戏、变身、异能等多种元素，给读者展现了一幅奇幻又复杂的虚拟世界图景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_(申码文）黑暗游戏之姬甲之争(第一卷).doc]([
 | Size            | 60416 bytes                           |
 | MD5             | f460dc96b3bd6d0c42ae05453ad92b60                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 黑暗游戏, 变身小说, 男女转换, 异能, 自我探索, 奇幻冒险, 虚拟现实, 心理变化, 生存游戏, 性别认同, 青春成长, 变装, 魔法, 角色扮演, 冒险故事, 奇幻恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

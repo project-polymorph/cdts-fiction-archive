@@ -7,7 +7,7 @@ TXT 下载: [[附身]_错魂体_第五篇_错体惊魂.docx]([附身]_错魂体_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位名叫小苏的年轻人在医院住院期间的恐怖经历，故事情节围绕着小苏因肺部感染而住院，在病房里意外遇到一个神秘的老头。老头用金属盒中的奇怪物品对小苏施加了影响，导致小苏频繁做噩梦，并在梦中感受到一种无法控制的恐怖。在一次夜间的医院巡回中，小苏惊慌失措地感到身后有不明生物的追赶。经过一系列惊悚的情节，他最终遭遇了一个与自己极为相似的男人，并被迫与自己的身份产生冲突，故事以小苏对死亡的深刻恐惧和对身体的彻底拷问为结局。该故事融合了恐怖、奇幻与心理探讨的元素，描绘了角色在梦境与现实交错间的复杂心理状态，令人不寒而栗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_错魂体_第五篇_错体惊魂.docx]([附身]_错魂体_
 | Size            | 30171 bytes                           |
 | MD5             | ba2c0ec0b374d793de0e80c0c2dd59fb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 恐怖, 医疗, 噩梦, 自我认知, 灵魂交流, 医院, 冲突, 生死, 心理恐惧, 身份认同, 超自然现象, 惊悚, 奇幻, 魔法, 灵异, 男性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

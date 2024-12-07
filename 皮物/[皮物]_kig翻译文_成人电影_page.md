@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_kig翻译文_成人电影.doc]([皮物]_kig翻译文_成�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于人偶娱乐俱乐部拍摄成人电影的故事，主要以支援人员的视角叙述了拍摄过程中的情境与感受。文中主人公成田行夫作为俱乐部的支援人员，首次参与成人电影的拍摄工作，负责协助女主角北野进行拍摄。情节中涉及人偶的特殊设置，扮演者在拍摄过程中体验到的各种刺激，以及对交际和感情的探讨。文中详细介绍了拍摄的准备过程，包括人偶套装的设计、使用生殖器的详细描述，以及女同性恋情节的彩排过程等。这篇文章呈现了当前对成人娱乐行业与人偶技术结合的探索，同时也包含了一些性相关的情节描写，涉及纯爱、乱伦、调教等敏感主题，反映了当代社会对性别与性向的多元认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_kig翻译文_成人电影.doc]([皮物]_kig翻译文_成�
 | Size            | 51712 bytes                           |
 | MD5             | decb8a0e8b359c2aaa9e5d73c690f48e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 成人娱乐, 人偶文化, 自我探索, 女同性恋, 强烈刺激, 角色扮演, 心理冲突, 拍摄背后                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

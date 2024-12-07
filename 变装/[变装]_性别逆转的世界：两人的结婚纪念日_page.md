@@ -7,7 +7,7 @@ TXT 下载: [[变装]_性别逆转的世界：两人的结婚纪念日.doc]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《性别逆转的世界：两人的婚礼纪念日》，作者为 Sonnyjimjr，翻译者为露娜·埃葵斯。故事围绕一位名叫安迪的角色展开，他是一位以女性形象工作于办公室的男性。在故事中，安迪即将庆祝与他的伴侣莎拉的二十周年纪念日，内容描绘了他在工作中的日常，如何与同事互动和准备晚餐的心情转变。安迪的家庭生活也被细致地展示，包括他和孩子们之间的温馨互动，以及他为纪念日精心准备的流程。文中充满了感情的细腻描写和对性别角色的深入探讨，尤其是安迪身为“伪娘”的身份带来的内心冲突和对家庭的责任感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_性别逆转的世界：两人的结婚纪念日.doc]([变
 | Size            | 36864 bytes                           |
 | MD5             | 7ef6d4ea642048084a47323d9dc04304                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Sonnyjimjr                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 家庭, 二次元, 变装, 性别角色, 跨性别, 爱情, 纪念日, 办公室生活, 女性视角, 自我探索, 生活启示, 婚姻, 日常生活, 角色认同, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

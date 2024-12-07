@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮之使徒】『修订版』.doc]([皮物]_【皮之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一部围绕跨性别与变身主题的小说，展现了一所重点中学的校长萧倩芳与新来的语文教师张丽之间的隐秘关系。故事中，萧倩芳是一位美丽且性感的女性，而张丽则是一位看似温婉但魅力逼人的年轻教师。在校长办公室的隐私对话中，涉及到两位女性互相欣赏、玩弄与情欲之间的复杂纠缠。故事进一步展开，引入了王力这一角色，一个对张丽产生强烈欲望的男生，他的行为逐渐冲突与揭露了学校内的阴暗交易。同时，一个神秘的黑衣人以及他所代表的组织，使得情节转向更为阴险的方向，涉及人皮与身份替换的主题，让整个故事充满了悬疑与危险。整个作品交织着性别认同的探索、自我认知的冲突、以及揭示人性黑暗面的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮之使徒】『修订版』.doc]([皮物]_【皮之�
 | Size            | 67584 bytes                           |
 | MD5             | 552200b21c6ff2a24f5aca193a06236e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性转, 伪娘, 变身, 黑衣人, 性别认同, 自我探索, 人皮交换, 性暗示, 校园情欲, 权力与欲望, 操控与背叛, 青春, 社会现实, 伦理争议, 虚构, 风格化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

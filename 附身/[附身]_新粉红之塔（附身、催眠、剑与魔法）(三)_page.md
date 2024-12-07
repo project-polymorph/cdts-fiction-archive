@@ -7,7 +7,7 @@ TXT 下载: [[附身]_新粉红之塔（附身、催眠、剑与魔法）(三).d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇围绕剑与魔法背景下的变身与附身题材的小说章节，故事中涉及了角色风灵弗莉嘉与男性角色罗恩之间复杂的情感与力量斗争。在该章中，罗恩通过操控心灵能量将风灵控制，展现了两者之间暴力与欲望交织的关系。风灵在被罗恩强行操控的过程中，既表现出愤怒与羞辱，也不断沉浸在角色之间的微妙互动与情感冲突中。此章节深入探讨了自我认知、性别角色与权力动态的主题，同时也包含了一些色情内容的描写，体现了角色间的紧密结合与相互依赖。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_新粉红之塔（附身、催眠、剑与魔法）(三).d
 | Size            | 66011 bytes                           |
 | MD5             | e61a448b6fd2a0e5585679c4f517f4bc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 催眠, 剑与魔法, 性别转换, 情感冲突, 权力动态, 自我探索, 强制与服从, 虚拟现实, 幻想, 暴力与欲望, 二次元, TsF, 灵魂连接, 角色扮演, 奇幻冒险, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

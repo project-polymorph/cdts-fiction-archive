@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我的狐妖女友（序）.docx]([交换]_我的狐妖女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《我的狐妖女友（序）》是一部关于年轻人生活与情感探索的小说。故事围绕着主角白少怡展开，她在学校和家庭生活中面临着各种挑战与成长。在序章中，白少怡的日常开始于母亲的唤醒声，以及她在学校与同班同学之间的互动，特别是对班花沈雪柔的暗恋。故事设置了青春期的懵懂情感，以及对子女教育的反思。通过家庭背景的描写，突显了白少怡和母亲之间的情感纽带，以及对于未来和学业的期望。在这个过程中，作者巧妙地结合了校园生活和超自然元素，暗示了主角未来可能与狐妖的奇幻遭遇。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我的狐妖女友（序）.docx]([交换]_我的狐妖女
 | Size            | 32157 bytes                           |
 | MD5             | 6cf485106b920f63390b8d5d935ec07a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 青春, 校园, 暗恋, 家庭关系, 成长, 狐妖, 超自然, 情感探索, 自我认知, 人际关系, 生活片段, 变身, 伪娘, 女友, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

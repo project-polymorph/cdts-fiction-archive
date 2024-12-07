@@ -7,7 +7,7 @@ TXT 下载: [[其他]_亵偶_第八章.docx]([其他]_亵偶_第八章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为第二部小说的第八章，内容围绕一系列亵偶与人类意识交织的故事展开。故事中的主要角色郑拓与尹平正在处理一起涉及亵偶杀人的案件，房间内的处景充满了暴力痕迹以及流血的图景，展现了亵偶对于人类意识的拷问与探求。主要角色面临着自我认同的挑战，舒在经历身体性别的转变后，思考着身份、意识与记忆的纠葛。整体氛围充斥着探讨人性、意识与技术伦理的反思，其中不乏一些含有恐怖和暴力的描绘。文中提到的设定，如亵偶意识研究、意识流、人格分裂等，让人深思科技进步与人类灵魂的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_亵偶_第八章.docx]([其他]_亵偶_第八章.docx)
 | Size            | 19634 bytes                           |
 | MD5             | 053870205c645f8cd5da4c4347636e68                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 亵偶, 性转, 人格分裂, 意识流, 暴力, 科技伦理, 自我探索, 跨性别, 心理学, 犯罪, 奇幻, 剧情推理, 反乌托邦, 身体改造, 女性视角, 女性身份, 认同危机, 情感设定, 情节发展, 探讨人性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

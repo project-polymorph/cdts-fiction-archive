@@ -7,7 +7,7 @@ TXT 下载: [[变身]_公司奖励（申码文).docx]([变身]_公司奖励（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇围绕主角莱尔·菲尔普斯的伪娘变身故事的小说。故事开篇描绘了主角赢得公司季度销售奖，并获得在迈阿密海滩的奢华旅行奖励。在这个充满诱惑的环境中，莱尔因工作的表现而自满，认为自己是一位对女性极具吸引力的男性。在一次偶然的机会中，他遇到了一位神秘的老年妇女，她递给他一个看似普通的小雕像，并声称它拥有巨大的魔力，能使他的魅力增加十倍。虽然莱尔一开始对这位老妇人的话不屑一顾，但在接下来的时间里，他却经历了一系列奇妙的变化，身体发生了变化，甚至开始感受到与性别认同相关的自我怀疑与探索。小说发生在现代迈阿密，涉及了诸如自我认知、性别认同和吸引力等主题，完整展现了变身过程中的心理变化与情感冲突。随着故事发展，莱尔的形象逐渐变得女性化，使他在海滩上的表现让他充满信心，开始探索自己新的身份与生活。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_公司奖励（申码文).docx]([变身]_公司奖励（�
 | Size            | 62983 bytes                           |
 | MD5             | 2b4ec4678bdb5254c5741091f0056732                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 尖锐的社会观察, 性别认同, 自我探索, 迈阿密海滩, 魔法护身符, 现代小说, 性转故事, 女性魅力, 自负与毁灭, 心理变化, 二次元文化, 成年人士访问, 感官叙述                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

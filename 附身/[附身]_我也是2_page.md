@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我也是2.docx]([附身]_我也是2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘转世文，讲述了角色裕太在医疗环境中的奇幻经历。裕太化身为护士瑞秋，进入VIP病房照顾病人瑞克布兰德。瑞克是加州银行行长，因打高尔夫受伤在医院疗养。内容描绘了裕太与瑞克之间逐渐升温的互动，尤其是在一种特殊药物的影响下，二人关系迅速发展为色情情节。裕太在享受新身体的同时，利用瑞克的性欲获取快感，展现了两人在性别和角色转换下的心理变化与冲突。文中插入了不同程度的性描写，如药物的作用、身体接触等，融入强烈的色情色彩。整体情节围绕性别认同与自我探索展开，涉及强烈的欲望和性行为的细致描写，为读者提供一段非常具体和大胆的跨性别体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我也是2.docx]([附身]_我也是2.docx)
 | Size            | 21787 bytes                           |
 | MD5             | 46d327f738eeb744d015e94f79fe7f64                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 医院, 性转, 强烈性描写, 自我认同, 心理变化, 性欲, 角色互动, 二次元性转, 药物影响, 性别冲突, 性感护士, 成人内容, 爱情, 幻想, 情感探索, 性教育, 自我享受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

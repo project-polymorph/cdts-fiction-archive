@@ -7,7 +7,7 @@ TXT 下载: [[其他]_兩性論文女性體驗_催眠完結篇.doc]([其他]_兩
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇包含性别与性影响的小说，名为《天使篇》和《恶魔篇》。故事围绕主角的心理和生理变化展开，描述了主角在一场催眠治疗中的经历。在这个过程里，主角发现自己在一个女性的身体里，并与另一位男性角色王崇舜发生了一系列亲密的接触和情感交流。小说采用了大量的性暗示与情欲描绘，探讨了性别认同、自我探索及性行为相关的主题，涉及到对社会禁忌的反思和突破。故事的情节包含多次插入和生理反应的详细描写，以及对性行为的沉浸与体验，表现出主角在性别角色转变后对自身欲望的重新认知和体验。此外，文本也触及了催眠和心理治疗等方面的内容，加深了对主角内心世界的理解。整体而言，这部小说在探讨性别与性的交互效果上，有较深的社会文化内涵，但同时也包含了大量限制级内容，适合特定研究领域的学者进行分析与讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_兩性論文女性體驗_催眠完結篇.doc]([其他]_兩
 | Size            | 56832 bytes                           |
 | MD5             | 2241e8dd857cb6ac92293a544962c15e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 心理治疗, 催眠, 性转, 亲密关系, 生理变化, 青春期, 情感探索, 女性视角, 两性关系, 色情内容, 社会禁忌, 自我认知, 欲望发掘, 跨性别体验, 幻想色情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

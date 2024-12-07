@@ -7,7 +7,7 @@ TXT 下载: [[附身]_某日的下午.docx]([附身]_某日的下午.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是由 ecvt 创作的伪娘变身小说《某日的下午》，该作品描绘了一个角色在性别和意识方面的转变故事。故事的主角最初是男性，却被迫通过一种神秘的附身能力控制一个女性角色，由美，进行一系列情欲的探索和互动。一位推销员，在无意间走入男性角色的生活，将这个故事推向高潮。故事通过性别认同、自我探索等主题，展现了角色之间复杂的情感交织和身体的异化体验。文中包含大量性暗示和成人内容，例如“啊啊，果然還是這樣究極的自慰最棒了！”和角色之间的调情互动，让人感受到角色内心的冲突和渴望。作品既有欢快的元素，又充满情欲的描写，涉及到对性别流动性的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_某日的下午.docx]([附身]_某日的下午.docx)
 | Size            | 22673 bytes                           |
 | MD5             | 44dc3f3473e373c86964a4c5c10be43c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ecvt                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性转, 性别认同, 自我探索, 成人内容, 情欲, 强奸幻想, 角色扮演, 调情, 恋人关系, 复杂情感, 女性角色, 自慰, 意识转移, 冲突与和解                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

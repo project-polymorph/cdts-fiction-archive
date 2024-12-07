@@ -7,7 +7,7 @@ TXT 下载: [[附身]_阴阳大法（十三）.docx]([附身]_阴阳大法（十
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一篇关于大学生活的伪娘小说，主要讲述了主人公林诗琪的性别转变与个体探索的故事。故事开场描绘了林诗琪在校园生活中的无聊与对逛街的渴望，随后转入了一次意外的外出经历。在公共交通上，主人公遭遇了一位中年男子的性骚扰，尽管感到惊讶和愤怒，但她却逐渐享受着这份刺激的体验。接着，故事描绘了一段几乎被侵犯的情节，最后在紧张与期待的气氛中，林诗琪成功吸取了施暴者的生命力，并逐渐对自己新获得的身体产生了兴奋与渴望。在与一名女警沐清雨的相处中，林诗琪通过巧妙的策略进一步实现了对她身体的欲望。整个故事展现了对性别认同、欲望与权力动态的深刻探讨，以及角色内心的挣扎与自我发现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_阴阳大法（十三）.docx]([附身]_阴阳大法（十
 | Size            | 24829 bytes                           |
 | MD5             | 5d3469323719ad63fdd508b0cf58690a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 性别认同, 强暴, 吸取元阳, 校园生活, 自我探索, 调教, 逆后宫, 阴阳大法, 性骚扰, 逐步认同, 情感冲突, 奇幻, 灵魂交换, 调皮                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

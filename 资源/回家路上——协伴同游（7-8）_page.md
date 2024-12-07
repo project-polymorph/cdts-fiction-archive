@@ -7,7 +7,7 @@ TXT 下载: [回家路上——协伴同游（7-8）.doc](回家路上——协�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于性别转换故事的一个章节，描绘了主角沈佳敏与张剑辉之间微妙而复杂的关系。在这一部分，沈佳敏以女性身份与张剑辉重聚，他们之间因一夜情而产生的k对于彼此的羞涩以及自我认知的冲突展开了详尽的描写。文本中充满了角色之间的互动，揭示了性别身份的变换所带来的心理变化和情感波动。沈佳敏在与张剑辉会面时，心中暗自紧张和困惑，尽管她以女性身份现身，却试图坚持自身的男性身份认同。通过一系列的对话，揭示了对性别认同的探索，面对彼此的吸引却又感到不适和好奇。文本还涉及了她对自己能力的认知，以及张剑辉对她变化的反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [回家路上——协伴同游（7-8）.doc](回家路上——协�
 | Size            | 52736 bytes                           |
 | MD5             | 25dbf6c3c9a536ab8270f49baf83a814                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别小说, 伪娘, 情感探索, 自我认知, 现代都市, 性转, 一夜情, 心理冲突, 友情与爱情, 青春文学, 二次元文化, 双人间, 医院, 女性视角, 奇幻元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

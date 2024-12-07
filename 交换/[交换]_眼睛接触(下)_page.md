@@ -7,7 +7,7 @@ TXT 下载: [[交换]_眼睛接触(下).docx]([交换]_眼睛接触(下).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一段亲密互动的小说片段，描绘了两个角色之间的情感与身体的交融。主要故事围绕着玛莉和叙述者的关系展开，通过细腻的描写展示了她们之间的欲望与探索。在文本中，玛莉希望体验被控制的快感，提出用手铐束缚自己，而叙述者回应了这一需求。接下来的情节描写了她们在床上的亲密互动，从温柔亲吻到激烈的身体接触，逐渐升温的情感与快感交织在一起，直至达到顶峰。作者用生动的细节刻画了角色的心理变化以及性行为中的情绪波动，营造出一种强烈的情欲氛围，体现了对性别认同与自我探索的探讨。同时，文本中包含了相当直接且露骨的性描写，可能不适合未成年人阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_眼睛接触(下).docx]([交换]_眼睛接触(下).docx)
 | Size            | 23517 bytes                           |
 | MD5             | 2cf8a7c6845eea3eb510b83dd7ed7f92                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 謝菜鳥                               |
+| Region          | 未知                               |
+| Date            | 2015-06-25                                 |
+| Tags            | TSF, 变身, 温柔亲吻, 身体束缚, 自我探索, 情感交融, 情欲描写, 角色心理, 强烈快感, 性别认同, 群体交互, 双重视角, 现代都市, 性行为, 爱情探索, 奇幻元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

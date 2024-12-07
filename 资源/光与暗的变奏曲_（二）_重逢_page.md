@@ -7,7 +7,7 @@ TXT 下载: [光与暗的变奏曲_（二）_重逢.doc](光与暗的变奏曲_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是关于一场魔族攻击后，主角希尔与一名白衣祭祀凯莉和小女孩蜜雪儿的重逢故事。在废墟上，凯莉发现了受伤的希尔，正如一个天使般的孩子。他被救起后，经历了一场身份的错认，凯莉与蜜雪儿误以为希尔是女孩。故事描绘了希尔从昏迷中苏醒，看到自己在镜子中的变化，长发与精致的面容让他感到迷惑。情节中充满了温情与思考，自我认同与外貌的对比带来了内心的冲突，同时也揭示了人类与魔族之间的战争与残酷，对角色的成长与变化进行了深刻的探讨。本章通过细腻的描写让人感受到角色之间的情感联系，以及在困境中对彼此的支撑与理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [光与暗的变奏曲_（二）_重逢.doc](光与暗的变奏曲_�
 | Size            | 51712 bytes                           |
 | MD5             | 233473ee7c660fe83d5444426e534108                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 变身, 跨性别, 自我认同, 救赎, 冒险, 温情, 幻想, 角色扮演, 魔族, 儿童, 心理冲突, 身份探索, 二次元, 女儿, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

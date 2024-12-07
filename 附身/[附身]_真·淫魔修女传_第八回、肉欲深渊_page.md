@@ -7,7 +7,7 @@ TXT 下载: [[附身]_真·淫魔修女传_第八回、肉欲深渊.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为《真·淫魔修女传》第八回，主要描绘了角色魏依凡在经历性别转换及身体改造后，面对自己新身份的自我探索与欲望表达。文中结合了阴暗的地下室设定，魏依凡透过镜子审视自己美艳的外表，甚至与隐藏在暗处的妖猫展开了性暗示的对话。随着情节的发展，魏依凡在与两名女学生的互动中，感受到了极端的性刺激与快感，展现了角色在性别与欲望交织下的内心挣扎。文中多次提及身体的变化和性欲的低吟，涉及强烈的性暗示及生理欲望的描写，同时伴随着对身份的好奇与渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_真·淫魔修女传_第八回、肉欲深渊.doc]([附身
 | Format          | Microsoft Word Document                               |
 | Size            | 57344 bytes                           |
 | MD5             | 7a09fe121c658bf17f0143dad970ed0c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 跨性别, 伪娘, 淫魔, 性别认同, 自我探索, 肉欲深渊, 二次元, 幻想, 青春期, 性唤醒, 异世界, 变身, 角色扮演, 魔法, 调教, 强奸, 人际关系, 学院生活, 欲望, 刺激, 生理变化, 身体交换, 自我认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

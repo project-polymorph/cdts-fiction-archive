@@ -7,7 +7,7 @@ TXT 下载: [[变身]_突然变女的我绝不会成为RBQ_（6）.doc]([变身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容详细描绘了一个与性别转换和情感关系相关的故事。故事以角色袁修为主线，袁修在经历了一段情感的纠葛后，最终与女友罗甜甜展开了一次丰富的宿舍联谊，在游乐园游玩并享受两人之间的亲密关系。内容涉及角色在复杂的性别认同和自我探索中的微妙情感，文中含有大量的情感交流与欲望冲突。例如，"罗甜甜她比较害羞，就别逗她了"，展现了角色间的温情与互动。此外，故事包含了一些较为细腻和隐晦的色情描写，讲述了二人亲密行为的过程与心理变化，反映了年轻人之间的爱情和激情对性行为理解的冲突与接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_突然变女的我绝不会成为RBQ_（6）.doc]([变身]
 | Size            | 54272 bytes                           |
 | MD5             | 4780bb4b7352e1076b0a718c8426bca5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 宿舍联谊, 性转, 跨性别, 情感纠葛, 爱情, 游乐园, 年轻人的爱情, 亲密关系, 自我探索, 性别认同, 虚拟现实, 心灵冲突, 生活琐事, 青春期, 社会关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

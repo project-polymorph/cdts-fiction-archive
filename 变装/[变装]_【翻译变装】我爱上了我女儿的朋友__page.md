@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译变装】我爱上了我女儿的朋友_.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为翻译变装小说，标题为《我爱上了我女儿的朋友》，原作者为Maryanne Peters，译者是露娜·埃葵斯。故事讲述了一位独自抚养女儿的父亲，在与其女儿的朋友蒂娜相处过程中，逐渐产生了情感纠葛。蒂娜外表吸引，性格成熟，给了父亲一种强烈的吸引力，最终他们之间发展出了一段复杂而禁忌的关系。然而，故事的高潮是，当父亲发现蒂娜其实是个男孩蒂姆时，情感上的冲击和认同上的困惑将他推向了深渊。此作品探讨了性别认同和自我探索等复杂主题，触及纯爱、性别转换与禁忌爱情等敏感话题，引发深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译变装】我爱上了我女儿的朋友_.doc]([�
 | Size            | 32256 bytes                           |
 | MD5             | 0436a855e6375894398d028533940877                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Maryanne Peters                               |
+| Region          | 未知                               |
+| Date            | 2021-06-15                                 |
+| Tags            | 性转, 变装, 禁忌恋, 跨性别, 情感纠葛, 复杂家庭关系, 性别认同, 父女关系, 伪娘, 情感冲突, 青春, 虚构故事, 自我探索, 强烈吸引, 异性恋装扮, 内心斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

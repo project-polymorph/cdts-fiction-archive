@@ -7,7 +7,7 @@ TXT 下载: [[交换]_合欢换身术【贤者断更中】.docx]([交换]_合欢
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一部围绕性别转换主题的小说，讲述了初中生徐弱在探求青春期好奇心的过程中获得了一种神秘的'换身术'。随着故事的推进，徐弱面临着身体互换的诱惑，并幻想着和几位女性角色进行身体互换的可能性。文中描述了他的心理活动与各种关系的复杂性，徐弱的内心挣扎及对性幻想的追求。内容包含了对性别与身份认同的探讨，同时也涉及了青少年对异性身体的憧憬与欲望。文本中夹杂着一些敏感内容及成人向情节，反映出跨性别与性别流动的多样性。小说描绘的情节与角色关系，在青少年成长过程中所面临的伦理和道德问题中产生了碰撞。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_合欢换身术【贤者断更中】.docx]([交换]_合欢
 | Size            | 24373 bytes                           |
 | MD5             | 37fb12517e01cebbc8124b87885c14bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 换身术, 青春期, 性幻想, 校园爱情, 伪娘, 男娘, 身体互换, 跨性别, 自我探索, 青少年, 性别认同, 纯爱, 强奸, NTR, 欲望, 年龄差, 女体化, 调教, 变嫁, 奇幻, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

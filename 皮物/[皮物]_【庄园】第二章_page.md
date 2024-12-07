@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【庄园】第二章.doc]([皮物]_【庄园】第二章.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+在《庄园》第二章中，故事围绕着一个温馨的庄园花园展开，主要描写了少爷小伊与管家阿风的互动以及新来的钢琴老师林婉的到来。章节以静谧而美丽的花园为背景，小伊靠着花坛，阿风则点滴关怀，担忧着少爷的健康。随着林婉的出现，故事逐渐转向她与小伊之间的微妙关系，表现出小伊对林婉的欣赏及初恋的羞涩气息。林婉不仅在外表上迷人，且她的音乐才能更是令小伊倾心。两人之间的对话流露出一种温柔而甜蜜的情感，尤其是在林婉主动牵起小伊的手时，表明了两人情感的升温。这章通过细腻的描写和对角色情感的深入探讨，展现了少爷的内心世界和对爱的渴望，营造出一幅宁静而浪漫的画面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【庄园】第二章.doc]([皮物]_【庄园】第二章.
 | Size            | 31232 bytes                           |
 | MD5             | 616cec54e3e38095069ebcab921db615                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 情感, 校园, 音乐, 师生恋, 爱情故事, 温馨, 青春, 初恋, 美丽, 浪漫, 女装, 温柔, 害羞, 室外                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

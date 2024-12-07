@@ -7,7 +7,7 @@ TXT 下载: [[其他]_80后老人的生活.doc]([其他]_80后老人的生活.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说以一位70多岁的老人的视角，揭示了家庭中复杂的性别认同和情感关系。故事围绕老人、自他以及他的儿子大至展开，反映了跨性别和性别认同主题，并描绘了家庭成员之间的情感波动与支持。老人感慨时代变迁，尤其是性别自由化运动所带来的深远影响。大至是一名选择穿女装的男性，故事探索了父子之间的沟通、爱与理解，以及对社会偏见的反思。故事中还提及大至的儿子小治，作为一个新一代面对父母的期望与社会压力。他们的生活与情感纠葛，从大至的经历到小治的怀孕，都展现了特殊与挑战的家庭逻辑，以及人们对爱的多元化定义。通过老人对过去的回忆与对现状的理解，小说呈现出一种时代的思考和对爱的包容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_80后老人的生活.doc]([其他]_80后老人的生活.do
 | Size            | 34816 bytes                           |
 | MD5             | 19e145b433e8ed159f6ea9214e10c1c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 家庭关系, 变装, 情感支持, 社会偏见, 时代变迁, 爱与理解, 性别自由化运动, 代际沟通, 伪娘, 变嫁, 年龄差, 父子情, 媳妇的支持, 人妖文化, 自我探索, 现代家庭                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

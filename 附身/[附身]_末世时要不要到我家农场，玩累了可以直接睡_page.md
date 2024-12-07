@@ -7,7 +7,7 @@ TXT 下载: [[附身]_末世时要不要到我家农场，玩累了可以直接�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说为末世题材的伪娘/变身跨性别相关作品，讲述了一名因为病毒爆发导致的丧尸 apocalypse 世界中，主角逃离人群，躲藏于自给自足的农场的故事。故事以主角的第一人称视角展开，他是一名自称为死胖子的男性，与一对姐弟相遇并一起应对丧尸的威胁。二人在相处中逐渐形成信任，但随着故事的发展，二人并非如表面所说的普通姐弟，弟弟还隐藏着身份的秘密，并最终背叛了主角。在经历了多次生存的挑战与共同度过的危机后，主角发现了隐藏在农场地下的高科技秘密基地。该小说结合了末世生存、变身与跨性别身份认同等主题，情节错综复杂，包含一定的紧张感与悬疑元素，最后转折揭示出意想不到的背叛和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_末世时要不要到我家农场，玩累了可以直接�
 | Size            | 50176 bytes                           |
 | MD5             | 9ffea7b52812f1b0e5728bc24bbc0018                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 末世, 生存, 丧尸, 伪娘, 变身, 跨性别, 背叛, 秘密基地, 姐弟关系, 科幻, 心理冲突, 自我认知, 人性探讨, 逃避现实, 逃难                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

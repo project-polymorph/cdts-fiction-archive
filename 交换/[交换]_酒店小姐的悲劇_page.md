@@ -7,7 +7,7 @@ TXT 下载: [[交换]_酒店小姐的悲劇.docx]([交换]_酒店小姐的悲劇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《酒店小姐的悲剧》，讲述了一个名叫三芳兰的酒店小姐的悲惨遭遇。故事从三芳兰的职业生涯开始，她描述了过去五年间的经历，从白天的悠闲生活到晚上在酒店工作，而这些工作往往与年长的男性客人有关。她对客人的描绘充满矛盾：在享受金钱与权利的同时，她也感受到了内心的屈辱和不满。随着故事的发展，她与男友的关系逐渐疏远，情感的裂痕在职业与生活的交织中不断加深。三芳兰在一次与中年男客人的遭遇中，意外地经历了身体和性别的变化，这场变故迫使她在新身份与原本自我之间挣扎。故事中包含了大量性暗示与色情内容，探索了性别认同与身体交换的主题，是对性别角色与社会认知的挑战与反思。整体上，这是一部具有强烈成人向和幻想色彩的小说，涉及多重复杂的情感与生理体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_酒店小姐的悲劇.docx]([交换]_酒店小姐的悲劇
 | Size            | 20633 bytes                           |
 | MD5             | 274bae051bdd449011e2907d882fe9b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 性别认同, 身体交换, 变换身份, 成人文学, 禁忌爱情, 自我探索, 两性关系, 伪娘, 跨性别, 性转, 幻想, 二次元, 情感危机, 社会批判, 心理冲突, 情色小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

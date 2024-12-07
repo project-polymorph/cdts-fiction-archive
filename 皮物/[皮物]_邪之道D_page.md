@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_邪之道D.docx]([皮物]_邪之道D.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为名为《邪之道D》的伪娘 TS 变身与跨性别相关小说的第四章草稿。本文主要围绕角色阿峰与小林的故事展开，描绘了角色的内心挣扎、性别认同及人际关系。文章开头提到作者因创作难度原因，其创作进度受到拖延，但最后终于整理出章节。文中提到阿峰从浴室出来时，描述了他与小林之间互动的微妙关系，而小林在此时只有以一种特殊的方式存在。在办公室场景中，显示了阿峰的野心以及他与老板之间的权力游戏。角色之间不仅有情感交流，也涉及复杂的权谋和师徒关系的探讨，展示了人物的志向与理想。此外，故事中有轻微的色情暗示，以及对性别身份的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_邪之道D.docx]([皮物]_邪之道D.docx)
 | Size            | 22532 bytes                           |
 | MD5             | 39d933baefb0b39604692d4e6876cfa7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 情感探索, 性别认同, 师徒关系, 权力游戏, 现代都市, 情绪交流, 心理冲突, 男性视角, 情景剧, 青春成长, 二次元, 性别转换, 未知, 虚拟现实, 故事发展, 角色互动, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

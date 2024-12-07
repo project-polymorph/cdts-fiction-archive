@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_百鬼众魅·帷薄不修（第二篇）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本档案的内容属于一部伪娘TS变身与跨性别相关的小说，名为《百鬼众魅·帷薄不修》。故事设定在一个现代背景下，主要描写了角色傀魅与另一名警务女子心明之间的互动与冲突。傀魅是一名负责执行特殊任务的角色，透过电动摩托车穿梭于城市之间，收集与人皮相关的情欲能量。情节中提到傀魅的任务与黑帮势力的交集，以及傀魅个人内心对于情欲与自我价值的挣扎与认同。同时，心明则通过穿着警务制服，展现出一种骚动与挑战的气息，暗示着角色间的权力游戏与心理斗争。文中展现了紧张的对话与微妙的情感变化，深刻描绘了角色之间复杂的关系与情感背后的阴暗面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_百鬼众魅·帷薄不修（第二篇）.doc]([皮物]_�
 | Size            | 77824 bytes                           |
 | MD5             | 9cdaab98f0ee4804393b7c42f5e0190a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 情欲, 现代都市, 警察小说, 特殊任务, 角色冲突, 情感探索, 黑帮势力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_小艾同学与学习石_一至四章.docx]([附身]_小�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档的内容围绕着一个名叫艾鲲的大学生的生活和内心独白展开，描绘了他在大学生活中遇到的几位邻居和自己的学习生活。艾鲲在经历了美好的高中生活后，进入了OAK集团赞助的大学，虽然获得了良好的学业和发展机会，但也失去了与朋友们的联系。在新的环境中，艾鲲感到孤独，同时又被邻居李丝、梅曦和戴诗蒂的吸引。文中详细描述了艾鲲为不同邻居的外貌特征、性格，以及他的内心想法。比如，他对李丝的柔和魅力和良好厨艺赞不绝口，对梅曦的活力则有着自卑的感受。艾鲲试图通过一个“学习石”来学习邻居的优点，展现了他对社交和生活技能的渴望。整体上，故事探讨了性别认同、自我发现以及社交障碍等主题，展示了一位年轻人在现代社会中努力适应和探索自我的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_小艾同学与学习石_一至四章.docx]([附身]_小�
 | Size            | 34518 bytes                           |
 | MD5             | 333c70401c8f6db8ff1fdf2905c45ccf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 大学生活, 自我探索, 伪娘, 跨性别, 邻居关系, OAK集团, 学习石, 青春, 成长, 情感纠葛, 家庭主妇, 运动员, 游戏, 校园, 社交能力, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

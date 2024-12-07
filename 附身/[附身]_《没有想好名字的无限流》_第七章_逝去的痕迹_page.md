@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《没有想好名字的无限流》_第七章_逝去的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说《没有想好名字的无限流》的第七章，内容围绕主角李寺在面对强敌约翰王时的心理斗争和团队合作展开。李寺在经历对手强大、丧尸围攻的绝望以及选择进化能力的抉择中，内心充斥着恐惧与焦虑。故事中描绘了李寺和他的伙伴们使用主神任务的规则，以及李寺努力掌控心灵能力以应对危机。章节中包含了生理性别转变相关的细节, 例如李寺在面临强敌时，利用了“性欲转换”的能力，使得角色在绝境中产生了不可思议的反应，为故事增添了悬疑与刺激的氛围。主角团在与丧尸的斗争以及与强敌的对抗中，逐渐产生了感情互动，反映出生存的困境与人性关系的复杂续集。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《没有想好名字的无限流》_第七章_逝去的�
 | Size            | 55296 bytes                           |
 | MD5             | 07df0c37b588582f645babbf6618d26a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 心理斗争, 恐惧, 丧尸, 超能力, 团队合作, 性欲转换, 心灵控制, 奇幻, 冒险, 友情, 生存, 角色扮演, 女性视角, 异形                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

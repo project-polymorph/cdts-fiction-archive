@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](8).docx]([改造]_永�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘及变身类小说，描绘了主角通过手术与一个女性偶像孙俪结合的奇幻过程。故事开头，主角被一个老乞丐带到一个简陋的小窝棚，进行一个未知的手术。老乞丐向主角描述了他将实现的愿望，并引导他与孙俪进行身体接触。在这一过程中，主角对孙俪的外貌和身材表现出狂热的崇拜，然而随着故事推进，手术的性质逐渐显露出其残酷与错位，最终主角意识到自己和孙俪的身体被连接在一起，而他的意识却被困在一个被人操控的境地。整个剧情探讨了性别转换、身体认同以及权力关系等深层次的主题，同时包含了大量性暗示和情色描写，可以被视作对伪娘文化和变身主题的极端表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](8).docx]([改造]_永�
 | Size            | 23210 bytes                           |
 | MD5             | afac7efefbd21143ab70ff6991de5d47                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 性别认同, 奇幻, 爱情, 手术, 性转, 成人内容, 心理冲突, 抽象思维, 二次元, 角色扮演, 身体交换, 自我探索, 电锯                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

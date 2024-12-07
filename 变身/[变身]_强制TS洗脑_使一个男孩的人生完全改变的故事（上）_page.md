@@ -7,7 +7,7 @@ TXT 下载: [[变身]_强制TS洗脑_使一个男孩的人生完全改变的故�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《强制TS洗脑 使一个男孩的人生完全改变的故事（上）》讲述了一位普通男大学生智司的故事，他在向班上的女孩优子告白后，以为自己获得了爱情，但却发现优子并不是真心喜欢他，而是对女性有向往。故事中，优子邀请智司到她的家中，并表露出她对男孩的怀疑与厌恶，称男孩往往野蛮且会利用力量。随着情节的发展，优子提出一个令人震惊的要求，希望智司能够尝试成为女孩子，这让智司感到困惑与恐惧。该故事探讨了性别身份、性别认同与个人心理的复杂关系，同时蕴含了一些限制级和暗黑风格的元素，在引人深思的同时也带有一定的刺激性。文中多次提到优子对男生的不信任，强调了性别角色的偏见与对爱情的不同期望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_强制TS洗脑_使一个男孩的人生完全改变的故�
 | Size            | 94208 bytes                           |
 | MD5             | ba2213b66cfc3009c8aa18b1fbda7954                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 跨性别, 伪娘, 强制洗脑, 校园爱情, 百合, 性别认同, 自我探索, 心理冲突, 女装, 青少年, 情感纠葛, 暗黑, 限制级, 强权关系, 逆向性别角色, 变装癖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

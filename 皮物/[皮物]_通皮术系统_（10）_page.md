@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_通皮术系统_（10）.doc]([皮物]_通皮术系统_（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别及性转主题的小说，主要讲述了主角林龙在进行性别转换时所经历的内心挣扎与肉体感受。故事一开始，林龙在公园里躲入厕所，脱去其所穿的人皮，接着使用通灵术召唤了赵小琳的人皮，实施了角色交换。小说通过细腻的描写表现了林龙在触碰清纯少女躯体时复杂的心理体验，交织着兴奋与痛苦。此外，文中大量使用隐喻与直白的生动描写，使人能够深切地感受到行为转变带来的感官刺激与角色认同的斗争。结尾时，林龙完全变为赵小琳，并对其原有身体做出不乏戏谑与挑逗的自我认同，这样的设定引人深思性别认同的复杂性及流动性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_通皮术系统_（10）.doc]([皮物]_通皮术系统_（
 | Size            | 33280 bytes                           |
 | MD5             | e2a53cafc0546cb5da763a544e26be3e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 角色交换, 通灵术, 自我认同, 肉体感受, 心理挣扎, 二次元, 奇幻, 红色视频, 性别流动, 少女, 都市, 榜样, 魔法, 羞辱, 身体改变, 肉体描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

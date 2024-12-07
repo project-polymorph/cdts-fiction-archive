@@ -7,7 +7,7 @@ TXT 下载: [[变装]_娘娘庙年关（上）.docx]([变装]_娘娘庙年关（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个名为彭军的普通农民，为了救助患有先天性心脏病的儿子而选择变性成为"人妖"的故事。彭军原是一个和妻子伍玉娟过着平凡生活的普通人，然而孩子的病情让他不得不承受巨大的经济压力。为了筹集十万块手术费用，彭军在夜场工作，看见了许多驻场人妖的收入，心中动摇。经过长时间的挣扎，他终于决定学习变装及表演，并在妻子的支持下开始了自我转变的艰难历程。随着身体变化的逐步融合，彭军的心理斗争揭示出对性别身份和家庭责任的复杂认知。他的故事充满了自我探索与牺牲，同时也反映出对传统家庭角色的挑战。文中详细描述了彭军如何通过激素疗法、化妆和扮演女性角色逐渐适应这一全新身份的过程，以及他在家庭和表演事业中的挑战和成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_娘娘庙年关（上）.docx]([变装]_娘娘庙年关（
 | Size            | 21363 bytes                           |
 | MD5             | 049a99a531f4637542ed2e20bfcbe62d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 父爱, 家庭, 自我认同, 伦理困境, 夜场工作, 经济压力, 女性化, 社会期待, 情感冲突, 梦想与现实, 身体转变, 激素疗法, 社会认同, 爱与牺牲, 职业变迁, 心理成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

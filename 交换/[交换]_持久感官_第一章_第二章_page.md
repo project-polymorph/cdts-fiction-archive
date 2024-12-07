@@ -7,7 +7,7 @@ TXT 下载: [[交换]_持久感官_第一章_第二章.docx]([交换]_持久感�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的前两章，讲述了主角安德鲁•杰森的奇妙经历。他是一个25岁的机械工程师，已婚并育有两个女儿。故事开始时，他的妻子杰西卡对一种新技术产生了浓厚的兴趣，这项技术能够实现人们的意识交换。杰西卡与他的朋友洛瑞的例子，让他们俩决定尝试这种体验。在逐渐了解这项技术的过程里，安德鲁对女性的生活产生了好奇，而杰西卡则希望能够短暂体验男性的生活。随着故事发展，他们填写了申请表格并向一家叫做“持久感官”的公司提交了申请。这段故事深入探讨了性别认同、自我探索、角色转换及其带来的心理影响等主题，展现了现代社会中对性别问题的讨论与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_持久感官_第一章_第二章.docx]([交换]_持久感�
 | Size            | 47904 bytes                           |
 | MD5             | 65d169563bad0f3324640159bf0bf848                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 意识交换, 伪娘小说, 跨性别, 自我探索, 角色认同, 性别认同, 情感冲突, 科幻小说, 现代爱情, 身体交换, 性别角色, 人际关系, 婚姻生活, 心理实验, 数码科技                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

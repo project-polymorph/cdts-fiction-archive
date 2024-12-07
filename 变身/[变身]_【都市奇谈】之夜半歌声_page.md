@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【都市奇谈】之夜半歌声.doc]([变身]_【都市�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《夜半歌声》是一个关于都市传说与性别变换的小说，叙述了一位年轻人在鬼节夜晚，出于好奇心走出家门，却意外经历了性别转换的事件。在故事的开头，叙述者提到在农村的鬼节时期，至午夜不该出门的传统。尽管女友多次提醒，但好奇驱使他走出网吧，在一个公园中听到了神秘的歌声。歌声引导他走向一个神秘的女子，随着声响的增强，叙述者被一个看似美丽的女子所迷惑，却在接受她的吻后发现对方竟为一个中年男子。这次接触导致了他的性别发生了翻天覆地的变化，身为男性的他变成了一个年轻女性。在此后的生活中，他尝试着适应和探索自己新的身份，既体验到作为女性的生活也感受到女友的支持与理解，发展出了不一样的情感关系。随着时间的推移，这种状态似乎成为了常态，直至第二年的鬼节，他再次经历了自己的女性形态并被无法控制的力量导向陌生的地点。读者见证了他在自我认知与探索中挣扎，同时也探索了性别认同和爱等多重主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【都市奇谈】之夜半歌声.doc]([变身]_【都市�
 | Size            | 33792 bytes                           |
 | MD5             | d1ee0ec759aef6dc4702482f0a9fce88                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 都市奇谈, 性别转换, 鬼节, 自我探索, 跨性别, 魔法, 爱情, 逆袭, 青春, 校园, 女友关系, 神秘歌声                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

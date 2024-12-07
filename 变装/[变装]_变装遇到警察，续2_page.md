@@ -7,7 +7,7 @@ TXT 下载: [[变装]_变装遇到警察，续2.doc]([变装]_变装遇到警察
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇以变装和跨性别为主题的小说，描绘了主人公在热闹街道上以女性形象出现，内心忐忑，同时期待与网友安娜的见面。故事中，主人公通过与安娜的交流，逐渐放松，并且受到安娜年轻貌美与多金的较为沉迷，展示了他们之间亲密的互动。随着情节的发展，安娜提及一种新奇的美容疗法，涉及用男性精液作为美容成分，进而引发了主人公的尴尬与害羞。然而，安娜对此轻松调侃，透露美容的详细流程与选择，引领主人公进入一个充满幻想与新鲜感的场景。整个故事对角色性别认同、自我探索及美容观念进行了大胆而深入的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_变装遇到警察，续2.doc]([变装]_变装遇到警察
 | Size            | 50176 bytes                           |
 | MD5             | f2499efe0a2118b6d46f1112e5537276                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变装, 性转, 美容, 精液美容, 女性认同, 性别认同, 幻想, 青春, 情感探索, 伪娘, 网络文化, 人际关系, 社交                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

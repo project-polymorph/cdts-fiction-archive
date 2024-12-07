@@ -7,7 +7,7 @@ TXT 下载: [[交换]_[换头]_为了卧底任务我只好跟丰乳肥臀的阿�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于未来世界的变身及身体交换小说，主要设定在一个技术高度发达的社会中。故事围绕主角艾历展开，他为完成卧底任务而不得不与一位名为桑德拉的中年女士互换身体，以便能够顺利潜入模控公司调查涉嫌违法的生化人研究。小说详细描绘了肉体商店作为交换身体的新兴行业，以及艾历在这个过程中面临的身份认同和心理斗争。文件中提到：在不远的的将来，只需有足够的金钱和欲望，人们便可轻松改变自己的身体。在艾历的卧底行动中，他努力收集证据，同时应对来自公司高层和同行的压力，展现了对个人理想与社会现实之间的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_[换头]_为了卧底任务我只好跟丰乳肥臀的阿�
 | Size            | 19671 bytes                           |
 | MD5             | 89b2b76ac52c32f7c834f43ab02460ea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 身体交换, 伪娘, 肉体商店, 生化人, 卧底, 技术伦理, 自我认同, 社会调查, 二次元小说, 变身, 跨性别, 情感探索, 未来科技, 身份危机, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

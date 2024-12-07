@@ -7,7 +7,7 @@ TXT 下载: [[改造]_聖魔邪靈_第二部精魔天下_第一回、紅瞳_(2).
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由作者白纸创作的小说《圣魔邪灵》第第二部的第一回，细述了主角丽芙姊妹为了参加表姐婚礼而经历的冒险与挑战。故事起始于丽芙姐妹从边境赶往东之国的旅途中，却遭遇妖魔的陷阱，麗芙被附身后引发了国家的动乱，并造成了国王及摄政王的陨落。为了拯救丽芙，在拥有圣女血质的碧莉丝公主孤立无援的情况下，她运用尽可能的心力，期望能够救回被恶魔控制的丽芙。随着故事的发展，涉及到更多魔族与精灵的斗争，另一个主角奇诺也开始着手调查丽芙的变故。整部作品融合了魔法、冒险与性别变换等多种元素，情节复杂，角色关系交错互补。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_聖魔邪靈_第二部精魔天下_第一回、紅瞳_(2).
 | Size            | 51941 bytes                           |
 | MD5             | 59d7101b6a9e84cb7b25408ad40f9ea7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 白纸                               |
+| Region          | 台湾                               |
+| Date            | 2013-07-17                                 |
+| Tags            | 性转, 跨性别, 冒险, 魔法, 妖魔, 力量, 转变, 自我探索, 情感纠结, 角色关系, 生理性别, 附身, 女性视角, 魔族, 精灵, 调教, 逆著作权, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

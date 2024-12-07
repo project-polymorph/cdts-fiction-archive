@@ -7,7 +7,7 @@ TXT 下载: [[附身]_(申码文重发)我的基友会附身.doc]([附身]_(申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于王明与好友张文浩之间的奇幻故事。王明在周末玩游戏时被他的母亲陈雅琪打断，随后却意外发现好友张文浩通过超能力附身于其母亲的身体。在故事中，王明的母亲被描绘成一位优雅而美丽的女性，张文浩的附身更使得情节发展变得富有戏剧性。本作品涵盖了性别认同、自我探索等主题，伴随了一些幽默和带有性暗示的情节，比如张文浩以陈雅琪的身份打趣和调侃王明，剖析了超能力对两人生活的影响。由于张文浩的能力，王明企图通过让他附身于其母亲来弥补考试失败的损失，其间发生的一系列误会和笑料，构成了故事的主要看点。这些事件反映出青春期的懵懂与探索以及朋友间的互动和信任。工作中还涉及到了对教育与家庭关系的反思，给人以思考和启发。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_(申码文重发)我的基友会附身.doc]([附身]_(申�
 | Size            | 77312 bytes                           |
 | MD5             | c2bcbf87dc820008e9de341540f0e8d9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 附身, 超能力, 幽默, 青春, 家庭关系, 自我探索, 性别认同, 男娘, 性转, 女体化, 变嫁, 校园生活, 独立思考, 游戏文化, 同性恋, 幻想, 剧情发展, 亲情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

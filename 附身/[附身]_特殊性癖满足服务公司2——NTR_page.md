@@ -7,7 +7,7 @@ TXT 下载: [[附身]_特殊性癖满足服务公司2——NTR.doc]([附身]_特
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了高中生宋尤然的内心挣扎与情感体验。他的女友郑芊嘉是学生会主席，成绩优异，然而宋尤然对他们的关系充满了不安。他有一个不愿说出口的奇怪性癖，即偏好NTR（寝取）情节，内心既想体验自己的女友出轨的感觉，又害怕她真的背叛自己。故事中，宋尤然意外发现了一家宣称可以满足特殊性癖的服务公司，客服以轻松幽默的语气介绍各种服务内容，包括让女友出轨的体验。这一情节引发了宋尤然的思考与恐惧，让他更加困惑于自己独特的性趣与现实的关系。在郑芊嘉的生日即将来临之际，宋尤然仍在努力平衡自己的内心世界与对女友的感情。在这段故事中，深入探讨了性别认同与个人隐私之间的复杂关系，并描绘了现代青少年在情感与性心理上的困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_特殊性癖满足服务公司2——NTR.doc]([附身]_特
 | Size            | 48128 bytes                           |
 | MD5             | 1bdda8e877c54d858a4b6c572f768911                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, NTR, 青少年, 心理探索, 爱情, 自我认同, 变身, 校园, 特殊性癖, 情感冲突, 伪娘, 男性视角, 异性恋, 大学生活, 亲密关系, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

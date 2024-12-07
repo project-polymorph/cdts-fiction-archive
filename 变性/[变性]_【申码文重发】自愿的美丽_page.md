@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【申码文重发】自愿的美丽.doc]([变性]_【申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《自愿的美丽》是一部以性别转换为主题的小说，讲述了主角兰顿（Renton）在经历经济困境后，决定进入一个致力于美丽和身份重塑的机构。在故事中，兰顿面临失业与无家可归的窘境，最终选择了接受一种能够彻底改变其性别和外貌的项目。小说详细描绘了他在这个过程中与接待员格温多琳及招聘协调员玛丽葛的互动，以及他们对性别身份与自我认知的讨论。通过使用现代科技进行身体转变的设定，小说探讨了性别认同、欲望和现代社会对美的定义。作品中的情节涉及到身体改造、雌性化的强烈暗示，以及对角色变形的心理反思，展现了一个充满张力与复杂情感的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【申码文重发】自愿的美丽.doc]([变性]_【申�
 | Size            | 87040 bytes                           |
 | MD5             | 802093d23122d9e0a5bd25294412444c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 身份认同, 伪娘, 跨性别, 心理探索, 性别美学, 现代科技, 自我认知, 经济困境, 角色变形, 女性化, 求职, 情感, 欲望, 社会压力, 自愿改变, 陌生体验, 身体改造, 性别流动, 性别角色, 梦幻与现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

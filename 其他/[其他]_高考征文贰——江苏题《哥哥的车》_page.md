@@ -7,7 +7,7 @@ TXT 下载: [[其他]_高考征文贰——江苏题《哥哥的车》.doc]([其
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇以哥哥与妹妹之间温情关系为主题的征文，标题为《哥哥的车》。文中讲述了从幼儿园到高考期间，妹妹在哥哥的陪伴下，通过他们的自行车、出租车，再到豪车的不同交通工具，贯穿着两人深厚的情感。在哥哥高考期间，自行车被偷，哥哥开始工作，成为了出租车司机，努力赚钱供妹妹上学。后来，哥哥赚了钱，回归并驾驶豪车送妹妹去高考。文章描绘了他们之间逐渐变得复杂的关系，最后以一种暗示性的场景结尾，暗示着变化与情感的交融。整篇文章融入了一些对变身、性别认同及情感纠葛的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_高考征文贰——江苏题《哥哥的车》.doc]([其
 | Size            | 29696 bytes                           |
 | MD5             | 6818af8f1a71b8fca80a78256f67354b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 温情, 兄妹关系, 变身, 高考, 青春, 出租车, 豪车, 情感纠葛, 亲情, 成长, 心理冲突, 自我探索, 文学创作, 文学表达, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

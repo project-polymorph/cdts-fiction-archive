@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_老婆大人不在大人的星期天_番外一（4完结�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的档案之一，主要叙述了一个名叫小冰的角色在一场一日女警活动中的经历。文件开头提到，作者通过一段简短的自白表达了对本篇小说的动机与心情，并说明了因个人原因对内容进行了删减。小冰在活动上遇到了一个名叫钟梓曦的女警，文章详细描写了女警的外貌及穿着吸引了小冰的注意。接下来，小冰通过换衣服的过程与孙文竹展开了互动，扩展了角色之间的关系，并描绘了小冰在女厕中的紧张与刺激的经历。在公共场合中，小冰与其他女性角色的互动多次涉及到性别身份的模糊与认同。后面更是描绘了小冰对身体认知的探索，并引入了对“老婆大人”的思考，展现出角色在欲望与性别认同中遭遇的内心冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_老婆大人不在大人的星期天_番外一（4完结�
 | Size            | 61440 bytes                           |
 | MD5             | e6aea695feb5a854e7a6a7e8738a996f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性转, 角色扮演, 制服, 女警, 丝袜, 性别认同, 自我探索, 春熙路, 一日女警, 强烈的感官刺激, 身份模糊, 情感纠葛, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

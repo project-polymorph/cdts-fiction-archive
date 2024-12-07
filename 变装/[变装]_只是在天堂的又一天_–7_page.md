@@ -7,7 +7,7 @@ TXT 下载: [[变装]_只是在天堂的又一天_–7.docx]([变装]_只是在�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一本关于性别转换主题的小说，描绘了主角亚历克斯（现称亚历克西丝）在夏威夷度假期间的内心挣扎与自我探索。故事发生在第七天，主角与其伴侣尼克一起醒来并进行日常对话，表达了对彼此的关心与调侃，展示了两人之间亲密的关系。随着情节深入，亚历克西丝在跑步时思考自己变性后的感受与身份认同的冲突，反思这一变化对自己、家庭和朋友的影响。主角对新身份的认同和适应充满复杂的情感，权衡外界对她的接受度以及未来的生活。整篇小说充满了对自我认识、性别认同和爱情的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_只是在天堂的又一天_–7.docx]([变装]_只是在�
 | Size            | 48014 bytes                           |
 | MD5             | 4540a4215bd4225c218c646b6663543c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kasumi                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我探索, 恋爱关系, 内心挣扎, 性别认同, 心理冲突, 跨性别, 处于变身的旅途, 情感支持, 身份寻找, 变装, 运动, 亲密关系, 阳光海滩, 度假, 长跑, 变化的心态, 情侣互动, 性别表达, 现代浪漫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

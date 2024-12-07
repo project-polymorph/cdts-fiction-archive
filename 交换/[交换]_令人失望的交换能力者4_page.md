@@ -7,7 +7,11 @@ TXT 下载: [[交换]_令人失望的交换能力者4.docx]([交换]_令人失�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《令人失望的交换能力者》系列的第四章，主要描述了主人公君岛在进行能力交换后的生活和内心冲突。故事从主人公的第一人称视角展现，其能力已经进化到无需与交换对象交流，就能进行身体交换。君岛与两名美女柴田同学和立花同学维持着复杂的恋爱关系，三人共同生活，体验着性别身份的转换与混乱。
+
+文件中描绘了君岛与这两位女生的互动，以及他与性别认同的冲突，展示了反差萌的情节，如用立花的身体表现出柴田的性格等。君岛在梦中与魔女千佳相遇，经历了身体变化及其带来的冲突与心智上的挑战。他在与魔女以及另一位角色克里斯的互动中，进一步探索自己的新能力和身份。
+
+文件内容同时涉及到对性别转换的探讨，结合了魔法、恋爱、性别认同的主题，呈现了一种奇幻及混乱的叙述风格。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[交换]_令人失望的交换能力者4.docx]([交换]_令人失�
 | Size            | 18838 bytes                           |
 | MD5             | cc2231edf62e86c80f717c1a1bf411b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 魔法, 恋爱, 多元性别, 自我探索, 奇幻, 校园, 三角恋, 女性视角, 角色交换, 性别认同, 反差萌, 魔女, 少女, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

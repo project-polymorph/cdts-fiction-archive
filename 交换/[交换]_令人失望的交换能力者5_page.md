@@ -7,7 +7,7 @@ TXT 下载: [[交换]_令人失望的交换能力者5.docx]([交换]_令人失�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一本关于性别交换能力者的小说的第五章。故事的主角君岛君在一次意外中获得了交换他人性别及外貌的能力，期间遇到多个女性角色，以及勾勒了他对于自身性别和身体的思考。君岛同时拥有两个女朋友并在梦中遇见一位魔女，了解到自己性别的改变并接受新的身份。文件详细描绘了君岛对自身身材和性别形象的迷思与羡慕，同时展现了他与同学间性别互换后产生的互动及变化。本章节对于二次元变身、跨性别和自我认同的探讨充满了幻想和幽默，涉及了许多当代年轻人可能面临的性别和身份问题。文中有多个事件视角的描写，例如相田同学的自卑和对于身高的困扰，以及大滝君的冷漠与内心的挣扎，同时也对彼此的关系进行了妙趣横生的探究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_令人失望的交换能力者5.docx]([交换]_令人失�
 | Size            | 24020 bytes                           |
 | MD5             | 6fbb27b68ae87d9ce8f3119637bc2031                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 跨性别, 伪娘, 二次元, 变身小说, 自我认同, 青春校园, 互动关系, 幻想, 魔女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

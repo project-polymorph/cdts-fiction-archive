@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【短篇练习】员工考评.doc]([附身]_【短篇练�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本是一篇关于小刘的短篇小说，内容涉及到一种奇幻的性别附身情节。小刘在办公室因工作压力和疲劳而晕倒，醒来后发现自己附身在一名女性身上，且这名女性正在与她的老板有着复杂的关系。故事描写了小刘在陌生身体中的心路历程，以及她与老板之间情感的交融与冲突。小刘在最初的惊慌后逐渐接受了新身体，并与老板发生了亲密关系，故事中有较多的情色描写，展现了角色的内心挣扎与自我认知的转变。整体而言，此文探索了性别认同、自我认知以及身体变换对这些主题的影响，引发对于性别流动的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【短篇练习】员工考评.doc]([附身]_【短篇练�
 | Size            | 38912 bytes                           |
 | MD5             | 30ae7c3d7cb48d22c93a3bfd263929dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别附身, 跨性别, 奇幻, 办公室恋情, 自我认知, 身体变换, 性别认同, 情感纠葛, 强烈情感, 挑战传统性别, 短篇小说, 情色, 心理挣扎, 幻想文学, 现代职场, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

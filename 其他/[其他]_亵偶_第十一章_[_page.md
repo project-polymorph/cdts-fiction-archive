@@ -7,7 +7,7 @@ TXT 下载: [[其他]_亵偶_第十一章_[.docx]([其他]_亵偶_第十一章_[
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别中文数字档案馆的一部分，内容主要讲述了一个融合了刑侦和性别转变的故事。故事围绕主角郑拓和他的同伴舒展开，尤其是舒的性别认同和服装的变化。文件中描述了郑拓在刑侦工作中遇到的一系列事件，包括昏迷事件、谋杀案和角色之间的复杂关系。舒的角色展现了一种自我探索的过程，她拥有部分郑拓的记忆和意识，但身体却是女性，这引发了一些对身份和意识的思考。在案件调查过程中，舒的服装多次变换，也象征了她身份认同的流动性。在文件的各个段落中，描述了他们的对话和思维，反映出他们对案件的分析以及对个人认同的模糊界限。此外，文本中也涉及血腥的谋杀情节，反映出该作品可能包含一些限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_亵偶_第十一章_[.docx]([其他]_亵偶_第十一章_[
 | Size            | 19917 bytes                           |
 | MD5             | 57ac377093fcedce1aefeeb1d55f6175                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 角色扮演, 案件调查, 自我探索, 心理冲突, 变身, 男性视角, 刑侦科, 性别转变, 女性形象, 服装变化, 谋杀, 意识转移, 双重身份, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

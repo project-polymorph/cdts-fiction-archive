@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我和李玲（一）.doc]([皮物]_我和李玲（一）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描写了一名男性角色对女性角色李玲的强烈幻想与冲动。在看到李玲的朋友圈照片后，男主角陷入对她美丽外表的妄想与欲望之中，最终在无法自制的情况下，决定对她进行强暴。故事通过男主的内心独白展示了他对李玲的情感纠葛，仿佛是对她美丽外貌的崇拜也夹杂着难以控制的欲望。在实施强暴的过程中，男主使用迷药将李玲迷晕，然后将自己变装成女性，通过一系列复杂的心理与身体转变，试图在李玲身上实现他自己的幻想与欲望。小说中充满了对角色身份、性别以及性欲的探索，描摹了男主从男性到女性的转变，以及他对传统性别角色的反叛与试探。随着情节的发展，李玲逐渐意识到自己的困境，却又对眼前的情景感到震惊与迷惑，展现出此类复杂的情感与心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我和李玲（一）.doc]([皮物]_我和李玲（一）.
 | Size            | 35328 bytes                           |
 | MD5             | 23c6995e28d58b48affe6ac2eef7eed1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 强迫, 性别认同, 爱欲, 强奸, 性幻想, 心理冲突, 转变, 跨性别, 性别角色, 自我探索, 二次元, 文学作品, 成人内容, 骚扰                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

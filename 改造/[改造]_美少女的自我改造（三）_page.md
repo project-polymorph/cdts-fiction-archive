@@ -7,7 +7,7 @@ TXT 下载: [[改造]_美少女的自我改造（三）.docx]([改造]_美少女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于伪娘变身和跨性别主题的小说，描绘了角色沈梦雨在经历性别转换后的心理和身体变化。故事开始于沈梦雨对与保安之间性交体验的兴奋，随后她决定将自己的性别从女性变为男性。性别变化伴随着一系列身体变化，如女性特征逐渐消失，男性特征逐渐显现，沈梦雨对自己新身份的兴奋和满足感交织在一起。内容中描绘了从女性到男性的身体转变和沈梦雨在这一过程中所感受到的快感，包括对新生理结构的探索与反应。在这一过程中，角色的名字也由沈梦雨逐步改为魏铁柱，伴随着新的身份，故事的情节逐渐涉及社会地位的转变和身份认同的冲突。整个故事围绕着性别认同、自我探索以及生理变化的快感展开，富含禁忌与性相关的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_美少女的自我改造（三）.docx]([改造]_美少女
 | Size            | 20710 bytes                           |
 | MD5             | 4ea384e8645944b8edb454735570e77a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性别认同, 自我探索, 角色变化, 变嫁, 变百, 成人内容, 奇幻, 心理变化, 身份转化, 性快感, 性别转换, 奇幻小说, 二次元, 小说, 文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

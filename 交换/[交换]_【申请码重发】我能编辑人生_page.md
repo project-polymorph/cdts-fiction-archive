@@ -7,7 +7,9 @@ TXT 下载: [[交换]_【申请码重发】我能编辑人生.doc]([交换]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一个名为陆羽的普通青年，他在炎热的夏季教室中回忆起昨晚发生的一件奇特事件，这件事让他突然获得了一种超能力，使他能够暂停时间并体验他人生活。陆羽感到自己的生活如同单调的清水，因而渴望通过这种能力来打破平凡，体验他人不同的人生。
+
+随着故事的发展，陆羽将目光聚焦于他的英语老师陈丽。陈丽是位36岁的成熟女性，外表吸引却性格恶劣。陆羽利用他的新能力，决定在教室停下时间，仔细审视和评估陈丽。他在潜意识中也展现了自己潜藏的欲望，反映出人性复杂的一面。全文深刻探讨了欲望与自我控制之间的斗争，以及拥有能力所带来的心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_【申请码重发】我能编辑人生.doc]([交换]_【�
 | Size            | 246272 bytes                           |
 | MD5             | 626bce1477ac3457faa28e6c4b6fdf7c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 超能力, 欲望, 时间停止, 教师, 高校生活, 自我探索, 人性, TSF, 禁忌爱情, 异性体验, 陈丽, 状态栏, 心理斗争, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_学院催眠奴隶1（根据游戏改的）_[.docx]([其�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇基于某款游戏改编的小说，主要讲述了一名名叫太志的男子意外获得了一个可以催眠他人的神秘手机后，所发生的一系列事件。故事开始时，太志在他的房间中被闹钟吵醒，发现桌子上有一个陌生的手机和一封信，信中提到这部手机可以催眠他人的思想。好奇的太志很快就试验了这个手机的功能，对房东小姐进行了催眠，从而顺利地骗取了她的钱。随着故事发展，太志越来越得意，开始在校园中使用这部手机来控制他人，甚至对同学唯奈和蓝原晶进行催眠。故事中，蓝原晶察觉太志的可疑行为，并试图阻止他，但最终也被太志催眠。此文档涉及了一些限制级内容，包括性暗示和强制控制的情节，表现出对权力及操控的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_学院催眠奴隶1（根据游戏改的）_[.docx]([其�
 | Size            | 19990 bytes                           |
 | MD5             | 5119eb687bb92c247d9a9caff7eccd76                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 操控, 校园生活, 伪娘, 强制, NTR, 变态, 角色扮演, 奇幻, 超能力, 邪恶情节, 爱情, 自我认知, 角色变化, 逆转角色, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_小子，你怎是女人！〔正篇〕（七）疯人院�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部涉及性别认同与变身相关的小说，故事围绕主角柳渃曦展开，她在身处东京时，突然发现自己被穿越成一个名叫酒野英子的女性角色。在这过程中，她与名为安德的角色建立了联系，并开始寻找自己身份的真相。故事情节复杂，包含精神病院、凶杀现场等场景，主角在这一系列事件中经历了性别转换带来的困惑与探索。文中提到的'疯人院'及其过去的神秘感为情节增加了悬疑色彩。此外，角色们在面对改变和混乱时展现了自我探索的过程，涉及性的暗示和潜在的色情内容。整体上，该作品可以归为跨性别文学和变身小说的范畴，探讨了个体在面对自我认同和社会期望时的挣扎与抗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_小子，你怎是女人！〔正篇〕（七）疯人院�
 | Size            | 22408 bytes                           |
 | MD5             | c0683af60b05b3d41ab015ffb7bac3ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 超自然, 灵异, 东京, 性别认同, 女性角色, 心理探索, 精神病院, 神秘事件, 都市奇幻, 小说, 互动幻想, 性转, 灵魂交换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

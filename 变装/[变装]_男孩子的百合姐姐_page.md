@@ -7,7 +7,7 @@ TXT 下载: [[变装]_男孩子的百合姐姐.doc]([变装]_男孩子的百合�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一名高中生山下一郎被暴走族追赶，意外得到了右代宫木木的救助。故事开篇描绘了一郎的外貌，以及他面对暴力时的无助，随着木木的出现，情节开始转折。木木是一位性格豪爽且勇敢的少女，她帮助一郎化解了一场危机，使得两人的关系得以发展。在随后的情节中，木木与一郎逐渐成为朋友，文中描写了木木的外貌特征及其独特的个性。此外，故事涵盖了木木的内心挣扎，关于性别认同的探索，以及与姐姐的复杂情感。文档中包含了许多与性别转换、性别认同、家庭和社会压力相关的主题，涉及了一些限制级内容，具体情节包括木木对自己身份的认同、与姐姐的亲密关系，以及青春期的自我发现等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_男孩子的百合姐姐.doc]([变装]_男孩子的百合�
 | Size            | 47616 bytes                           |
 | MD5             | 0ce705539ec79ac66d1f541442d23950                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 青春期, 性别认同, 豪爽少女, 暴走族, 复杂家庭关系, 自我探索, 友谊, 爱情, 高中生活, 性转, NTR, 年龄差, 强奸, 调教, 逆后宫, 变嫁, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

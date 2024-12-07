@@ -7,7 +7,7 @@ TXT 下载: [[附身]_艾塔特烦恼.doc]([附身]_艾塔特烦恼.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文档《艾塔特烦恼》由作者永恒的狞笑撰写，属于伪娘和性转小说的范畴。故事以一个名为艾塔的角色为中心，开篇描绘了一个充满奇幻色彩的设定——一个男孩在与强大敌人的斗争中受了重伤，并意识到自己已经死去，但又在一个熟悉又陌生的地方醒来。他逐渐意识到，这个地方是他之前的家，并与族人的日常生活展开了互动。文中包含了艾塔对自己身份和存在的探索，以及与其他角色的冲突和情感交流。情节中揭示了艾塔对娜娜和奥西克之间关系的复杂情感，同时也展示了他与族人之间的互动，包括对训练的心态，友谊与竞争等主题。文中出现了生动的角色描写和细腻的情感变化，展示了主角在面对生死、友情和爱情的复杂内心世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_艾塔特烦恼.doc]([附身]_艾塔特烦恼.doc)
 | Size            | 276992 bytes                           |
 | MD5             | 2a444bee55b48ed29b2b70c31fab88b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 永恒的狞笑                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 自我探索, 奇幻, 情感冲突, 复仇, 训练与竞争, 男性视角, 同性恋情节, 家庭关系, 死亡与重生, 魔法, 奇幻冒险, 角色成长, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

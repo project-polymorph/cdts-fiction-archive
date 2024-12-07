@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火星開發觀光公團_(闇之一).docx]([其他]_火星
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及火星旅游代言人的虚构小说，讲述了主角若亭在接受火星之旅工作后，面临监视与控制的恐怖经历。若亭是一名最近走红的偶像，因其娇小的身材和火热的形象而受到追捧。然而，随着代言工作的开展，她逐渐发现周围的一切都变得不再正常。作品中描绘了她被束缚在一个高科技监控装置中，被迫观看自己演唱会的录像，而周围的经纪人言辞暧昧，暗示着对她的拥有与控制。这不仅是对身体的囚禁，更是心灵的摧残。小说探讨了控制与自由，身份与机器人之间的界限，并包含了一些挑逗和不安的元素。情节中出现了性暗示和暴力的描写，勾勒出一种对偶像文化和权力关系的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火星開發觀光公團_(闇之一).docx]([其他]_火星
 | Size            | 16932 bytes                           |
 | MD5             | cdb0816c18e9b9fb1f788738350a75d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 火星旅游, 虚构小说, 偶像文化, 性别认同, 控制与自由, 科技幻想, 次元融合, 心理恐怖, 女性主义, 身份危机, 机器人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

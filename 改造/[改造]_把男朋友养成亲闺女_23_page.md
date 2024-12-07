@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_23.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《把男朋友养成亲闺女》第23章，作者为Nicegent42，译者为Lisa。该章节主要描绘贝利在夜晚的情境，她在面对自我性别认同与转变的复杂情感之时，展现出混杂的羞愧与渴望心理。故事开头，贝利在卧室中卸妆，逐渐露出素颜，但她仍穿着女性衣物，并努力适应她的女性化身份。章节中，贝利与她的女友曼迪之间的互动展示了这一身份转变的内心挣扎与外部接受。在曼迪帮助贝利梳理头发时，贝利意识到自己不仅是在伪装，内心的骚动与生理反应却表明了她的复杂处境。情节进一步展开至贝利因与曼迪的关系而陷入的性幻想与禁忌动作，这些场面包含了一些限制级的情节描写，尤其涉及了她对自我欲望的探索与矛盾。整章在探讨性别认同、自我认知的同时，也涉及到一些挑战传统性别规范的细节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_23.doc]([改造]_把男朋友�
 | Size            | 33280 bytes                           |
 | MD5             | 121f97c4444eba639f2219ef28e2a0a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2021-03-22                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 自我探索, 情感纠葛, 禁忌关系, 调教, 变装, NTR, 情感冲突, 女性视角, 变嫁, 第二性别, 性幻想, 角色扮演, 心理挣扎, 青春困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

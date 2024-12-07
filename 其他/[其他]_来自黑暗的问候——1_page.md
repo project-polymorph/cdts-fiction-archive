@@ -7,7 +7,7 @@ TXT 下载: [[其他]_来自黑暗的问候——1.docx]([其他]_来自黑暗�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是以伪娘 TS 变身与跨性别为主题的小说，描绘了一名角色在受到重创之后，通过侵占一个年轻小鬼的身体来恢复力量的过程。故事开头，角色被敌人打伤，身体几乎瘫痪，只剩下半个头，与此同时，一个未成年小鬼被追赶而闯入，角色趁机实施了身体的占有。通过侵蚀小鬼的身体，角色不仅恢复了自己的生命力，也获取了新的身体和力量。随着故事的发展，被侵占者的怨念似乎与角色的复仇欲望交织在一起，形成了复杂的情感与冲突。最后，角色的计划与被占有者的记忆交错，为后续复仇铺平道路。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_来自黑暗的问候——1.docx]([其他]_来自黑暗�
 | Size            | 19655 bytes                           |
 | MD5             | 001ec9db4a3d31765398744a92d45647                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 齐腾一                               |
+| Region          | 未知                               |
+| Date            | 2013-11-28                                 |
+| Tags            | 伪娘, 变身, 跨性别, 复仇, 情色, 年轻, 身体占有, 性别认同, 超自然, 青少年, 黑暗幻想, 触手, 怪物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

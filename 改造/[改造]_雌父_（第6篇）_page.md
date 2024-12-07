@@ -7,7 +7,7 @@ TXT 下载: [[改造]_雌父_（第6篇）.docx]([改造]_雌父_（第6篇）.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一对父子在「云环生物实验室」的经历。故事的主角韩城是一名年轻的实习生，他跟随父亲韩晋首次参观这个充满科技感的生物实验室。在实验室内，韩城对各种先进的实验设备感到惊奇，并与实验室的总工赵言交流。在接下来的时间里，韩城在实验室内努力学习和实验，而韩晋则在仿生器官仓库中查看各种生物仿真产品。这一过程中，两人展现了习近平代赐的高科技性别实验与生物改造的复杂关系。故事中涉及到父子间的亲情、职业学习、性别认同等主题，同时穿插了一些对生物仿真产品的研究和运用的讨论，内容涉及部分限制级情节，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_雌父_（第6篇）.docx]([改造]_雌父_（第6篇）.d
 | Size            | 43083 bytes                           |
 | MD5             | 36748c6ba9527131c446e0aec274e7cc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 生物技术, 跨性别, 性别认同, 父子关系, 实验室, 生物仿真, 伪娘, 变装, 自我探索, 性别转换, 科技幻想, 性别重构, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

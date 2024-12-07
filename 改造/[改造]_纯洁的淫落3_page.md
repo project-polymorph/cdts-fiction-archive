@@ -7,7 +7,13 @@ TXT 下载: [[改造]_纯洁的淫落3.doc]([改造]_纯洁的淫落3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部伪娘和变化相关的小说，围绕主角林诗雨的身体转变与心理变化展开。故事开始于林诗雨在清晨醒来，感受着自己身体格外不同，尤其是胸部的变化。随着情节的发展，她发现自己乳房的尺寸发生了惊人的变化，已经到了e罩杯，感受着从未体验过的体会与快感。
+
+林诗雨在家中独自探寻，逐渐发现她的身体在进行一种奇妙又带有烦恼的改造。在衣柜中，她找到了一些新购的内衣，暗含着性感与可爱的设计。林诗雨内心复杂，既羞愧又期待，加之奶子的发育和敏感度让她不得不面对自己身体的变化与欲望的觉醒。
+
+在接下来的场景中，林诗雨体验着身体与情绪的双重冲击，随着她终于穿上了特殊的连体衣，感受着无与伦比的舒适与欲望，更是让她产生了无法抗拒的情感纠结。
+
+整部小说通过细腻的描写，展示了林诗雨从羞涩到逐渐接受自我身体的蜕变，同时泛滥的欲望主题也贯穿始终，带给读者复杂的情感体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +27,10 @@ TXT 下载: [[改造]_纯洁的淫落3.doc]([改造]_纯洁的淫落3.doc)
 | Size            | 61440 bytes                           |
 | MD5             | 31c24892a94eb1ba708e60d53c18f2d7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 自我探索, 强烈快感, 性转, 成长故事, 内衣变换, 身体改造, 幻想, 青春期, 情欲, 性别流动, 羞耻与接受, 感官觉醒, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

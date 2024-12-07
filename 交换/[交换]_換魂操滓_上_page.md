@@ -7,7 +7,7 @@ TXT 下载: [[交换]_換魂操滓_上.doc]([交换]_換魂操滓_上.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描绘角色性别转换与自我认知冲突的小说，讲述了一名男性通过一个神奇的手镜与他人的身体相互交换的经历。在故事中，主角以女性的身份与女性角色展开了一系列复杂的情感和性关系，其中包含了诸多性暗示和性相关的情节。在男主角和他的女朋友之间的互动，以及他与其妹妹的复杂关系中，包含了强烈的性别认同和角色扭转的主题。文本中如 "這不是真的…我居然中出了自己的妹妹…若葉…" 这样的句子真实反映了角色内心的挣扎与冲突。整个故事不仅涉及性转、调教等剧情元素，还触及了对性别关系的反思与探讨。在使用手镜的过程中，主角体验到了与女友和其他女性的亲密关系，进而影响了他对自我身份的认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_換魂操滓_上.doc]([交换]_換魂操滓_上.doc)
 | Size            | 58880 bytes                           |
 | MD5             | 8f4173068ebc6505f811df196b943d27                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 调教, 恋姬, 心理暗示, 姐妹, 性伴侣, 自我认知, 角色扭转, 强烈性暗示, 年龄差, 禁忌恋, 淫荡, 反转, 纯爱, NTR                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

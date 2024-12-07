@@ -7,7 +7,7 @@ TXT 下载: [[变身]_大变活人的同居生活_4.docx]([变身]_大变活人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位角色在变身后的生活经历，情节涉及到性别转变与自我认同的探索。小说中，主角在饮用了某种神秘的“神水”后，身体发生了显著变化，变成了一位女性。故事描写了主角在变身后与男性角色的互动，以及他对新身份的接受和适应。文中有大量对身体感知的细腻描写，例如‘我觉得我可能是神水中毒了，这几天一直没精神’，以及对新生活的兴奋和期待‘心情也越来越好，整个人都变的自信开朗了很多’。情节也涉及到与同事的关系，特别是“母老虎”与“老玻璃”的复杂情感，展示了职场中的权力游戏和情感纠葛。人物关系的发展在多次聚会中渐渐展开，包含了一些性暗示的情节，尤其是男女主角之间的亲密互动。整体来看，文本充满了对变性和跨性别主题的深刻思考，同时也引入了爱情、欲望等情感元素，形成了一幅关于性别认同与个人梦想的生动画卷。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_大变活人的同居生活_4.docx]([变身]_大变活人�
 | Size            | 16456 bytes                           |
 | MD5             | 12f9b4e14662a41381c07456f4d96948                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, 自我探索, 伪娘, 男娘, 魔法, 恋爱, 强奸, 调教, 变嫁, 百合, 逆后宫, 虚拟现实, 校园, 奇幻, 都市, 情感纠葛, 身体改造, 性暗示, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

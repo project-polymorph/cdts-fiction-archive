@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魅魔的皮：前篇(サキュバスの皮：前編).docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇涉及性转与变身元素的小说《魅魔的皮：前篇》，由作者カンテ创作，内容围绕一名冒险者接受任务，前往一座有着奇怪传闻的王陵进行警卫工作。在故事的过程中，主人公不仅需要面对古老的迷宫结构，还遇到了一位形态独特的魅魔。魅魔原为女性形象，但其真实身份却是男性，这种神秘的设定揭示了生理性别与性别认同之间的复杂关系。故事通过魔道具、性别转换与自我认知的描写，探讨了角色在身份与外貌变化中所经历的内心冲突。尽管一开始对魅魔抱有敌意，但随着情节的发展，主人公开始理解魅魔也被迫担任王陵的守卫角色，揭示了技能与身份的双重性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魅魔的皮：前篇(サキュバスの皮：前編).docx
 | Size            | 26182 bytes                           |
 | MD5             | 860f1b9c28c37ad08b1f524b4dcd6640                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | カンテ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 魅魔, 冒险, 身份认同, 魔道具, 王陵勘探, 奇幻, 男子气概, 女性化, 魔物, 自我探索, 反转设定, 二次元文化, 迷宫探险, 自我冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

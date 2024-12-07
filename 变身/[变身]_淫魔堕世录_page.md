@@ -7,7 +7,7 @@ TXT 下载: [[变身]_淫魔堕世录.docx]([变身]_淫魔堕世录.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《淫魔堕世录》是一部描绘性别转换和异世界冒险的小说，讲述了主人公在经历了意外死亡后，与一位诱人的淫魔天使的奇妙相遇。醒来后的他处于一个陌生的世界，面对天使的提问和诱惑，最终选择保留记忆转生。故事中充满了对自我身份的探索和冲突，以及在异世界中逐渐被迫接受作为‘淫魔’新身份的过程。主人公的身体经历了剧烈的变化，从普通男性变为淫魔的转化不仅伴随着肉体上的疼痛，也带来了非凡的快感和对新身份的认同，情节穿插着对快感的诱惑与心理变化的深刻描写。通过淫魔的力量，主人公被赋予了新的使命，去与‘邪恶的勇者’对抗，为淫乱的世界继续统治而努力。作品在探索性别认同、自我认知的同时，也涉及一些限制级内容，充满了生动的描写与幻想元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_淫魔堕世录.docx]([变身]_淫魔堕世录.docx)
 | Size            | 26382 bytes                           |
 | MD5             | 703a2c63321a793ffe48bb2102f00d1a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异世界, 性别转换, 淫魔, 自我认同, 快感探寻, 肉体改造, 冒险, 性幻想, 心理冲突, 禁忌恋, 生死轮回, 变身, 角色扮演, 探索欲望, 异类生物, 女性视角, 幻想文学, 转生, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

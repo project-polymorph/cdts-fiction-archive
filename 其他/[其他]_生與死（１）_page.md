@@ -7,7 +7,7 @@ TXT 下载: [[其他]_生與死（１）.docx]([其他]_生與死（１）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于复杂家庭关系和禁忌情感的小说，具体描绘了一位父亲在妻子离家后与女儿雪奈之间愈发扭曲的关系及其内心挣扎。故事从父亲的视角叙述，他对家庭的温柔呵护与对女儿身体的欲望之间的冲突，展现了从自责到迷失自我的转变。随着时间的推移，曾经天真的女儿逐渐成长为一位成熟女性，而父亲对女儿身体的渴望也愈发强烈。他时常偷偷窥视女儿，再到偷拿女儿的贴身衣物，直到最终的自我放逐。文字中包含了他的性欲、悔恨、对家庭的破碎感等复杂情绪。文件涉及一些敏感及成人内容，情节围绕父女之间的禁忌主题展开，揭示出社会道德与个人欲望之间的激烈冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_生與死（１）.docx]([其他]_生與死（１）.docx)
 | Size            | 29002 bytes                           |
 | MD5             | d3570cbd6edec2ca41dc50b1e5e04f98                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 父女关系, 禁忌恋, 情感纠葛, 心理斗争, 家庭关系, 自我认知, 欲望冲突, 性别认同, 失落与愧疚, 青少年叛逆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

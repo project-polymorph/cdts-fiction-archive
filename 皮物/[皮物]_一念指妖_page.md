@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_一念指妖.docx]([皮物]_一念指妖.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档标题为《一念指妖》，讲述了一位主人公复仇的故事。故事开始时，主人公曾是一个事业有成、生活美满的人，然而却被卷入了一场谋杀案中，妻子在他面前被杀，自己被误认为是凶手，因而背负上了杀人罪名。他在监牢中追忆与妻子在一起的点滴，心中充满了愤怒与失落。为了复仇，他逃离了监狱，躲入深山，在山中发现了一块被称为仙人骨的物体，这块骨骼不仅蕴藏着强大的法力，还有可能帮助他寻找凶手的线索。在对仙人骨的探索中，他逐渐了解到复仇的复杂性与自己面临的道德考量，同时对至亲与人性的思考也在加深。文档使用了许多详细的情节描述，包括对主角心境的刻画和对复仇主题的深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_一念指妖.docx]([皮物]_一念指妖.docx)
 | Size            | 26485 bytes                           |
 | MD5             | 2eff8517f62d9986629f2f5fd368d309                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 复仇, 跨性别, 仙人骨, 罪名冤屈, 情感纠葛, 悬疑, 逃亡, 心理斗争, 法术, 二次元, 恶魔, 画皮鬼, 人性探讨, 社会悲剧, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_本物はどっちだ.docx]([皮物]_本物はどっちだ
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位被绑架者的生活叙述，故事围绕着他被一群正在逃亡的罪犯抓住和监禁的过程展开。起初，叙述者很放松，认为自己与周围的世界无关，但随着绑架的发生，他的生活发生了剧变。文件中描述了被绑架者的内心挣扎与恐惧，以及绑架者須贺佑树的外貌与恶劣背景。須贺似乎在想着如何利用被绑架者的身份进行欺骗，文件中提到了一种他称之为“人的皮”的工具，能够让須贺穿上被绑架者的外貌，并想要吸取他的记忆和人格。这一切表面上像是一场心理和生理的双重转变，涉及到了身份与自我的深刻主题。文件内容复杂且包含了一些令人不安的元素，如绑架、身份盗用和暴力等情节，彰显出故事内在的张力与探讨性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_本物はどっちだ.docx]([皮物]_本物はどっちだ
 | Size            | 30287 bytes                           |
 | MD5             | 76263a17dbaba11243d1ae6573356820                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 心理惊悚, 身份认同, 绑架, 跨性别, 恐怖, 暴力, 自我探索, 恶棍, 反派角色, 黑暗幻想, 内心斗争, 记忆吸取, 角色扮演, 社会批判                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

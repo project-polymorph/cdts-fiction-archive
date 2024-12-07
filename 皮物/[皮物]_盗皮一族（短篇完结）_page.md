@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_盗皮一族（短篇完结）.doc]([皮物]_盗皮一族�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《盗皮一族（短篇完结）》，内容围绕青春校园故事，描绘了一名高三学生孙帆在高考结束后的反常经历。故事开端，孙帆因意外事件卷入了一个关于人皮换身体的诡异剧情中，涉及了青春、爱慕以及自我认知的冲突。主角孙帆意外地得到了青梅竹马林清竹的皮囊，继而伴随着对身体的深刻体验，展开了一连串充满刺激的探索。文件中详细描写了孙帆尝试与林清竹的身体融合后内心的波动与身体的刺激感受，包括对女性身体触感的惊奇与欲望。这种情节深刻地反映了性别认同、自我探索和身体界限的模糊。作品不仅展现了强烈的身份认同和性别认同主题，同时也涉及性方面的刺激描写，适合对性别、身体变迁以及青少年心理有深入研究的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_盗皮一族（短篇完结）.doc]([皮物]_盗皮一族�
 | Size            | 50688 bytes                           |
 | MD5             | 6ae1fa2281ce6c24df6d4b0d8a0dd51b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 青春校园, 人皮换身体, 身份认同, 自我探索, 心理冲突, 刺激体验, 女体化, 奇幻, 性别流动, 情感纠葛, 幻想小说, 未知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

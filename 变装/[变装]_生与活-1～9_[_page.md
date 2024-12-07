@@ -7,7 +7,7 @@ TXT 下载: [[变装]_生与活-1～9_[.docx]([变装]_生与活-1～9_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《生与活》的前几章节，讲述了一位出生在北方小镇的男孩的成长故事。他的父母因为期待女孩而感到失望，然而在他的成长中，他逐渐意识到自己与众不同，特别是他对女性角色的向往和内心的性别认同矛盾。作者生动地描绘了他的童年：在母亲和姥姥的呵护下，尽管身边有兄弟的保护，却不得不忍受来自父亲的极性别化教育。随着年龄的增长，主人公决定努力学习，试图逃离小镇，追求一个更能做自我的生活。他在大学中遇到了一位名叫小伊的女生，他们之间的互动首次为他打开了新世界的大门。作者通过细腻的心理描写，揭示了角色内心深处的挣扎与对自我认同的追求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_生与活-1～9_[.docx]([变装]_生与活-1～9_[.docx)
 | Size            | 43287 bytes                           |
 | MD5             | b4f41ece3b7a0d9a3d48d166aa9c9ec3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 性别认同, 自我探索, 青春成长, 童年回忆, 校园生活, 男孩的内心世界, 家庭关系, 大学生活, 女性角色, 性别角色冲突, 情感之路, 梦想与现实, 个体挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

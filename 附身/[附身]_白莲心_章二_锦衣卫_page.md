@@ -7,7 +7,7 @@ TXT 下载: [[附身]_白莲心_章二_锦衣卫.doc]([附身]_白莲心_章二_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《白莲心 章二 锦衣卫》，描绘了一段发生在平阳县的一段日常生活与突发事件。故事背景设定在古代，主人公三娘在乡间进行日常的劳作时，遭遇了意外的沙尘和随之而来的王二土。两人之间的对话及心理描写展现了他们不同的阶层和对生活的想法：王二土作为读书人，往往关注天气的变化与其隐喻，而三娘则更关心生计与实际问题。随着情节的推进，突然闯入的敌人让故事发展向戏剧化转折，三娘低调的身份与王二土的勇敢形成了鲜明的对比。当面对危险时，三娘不仅展现出她并非看似柔弱，还在关键时刻与王二土一同反击敌人，揭示了她潜在的力量与武功。最终，王二土为了保护三娘，毫不犹豫地解决了威胁，勾勒出紧张且复杂的人际关系与对生命的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_白莲心_章二_锦衣卫.doc]([附身]_白莲心_章二_
 | Size            | 37888 bytes                           |
 | MD5             | a383554ceeec1f798a2a1f5c5c5ba1f3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 武功, 紧张关系, 古代背景, 心理冲突, 日常生活, 江湖, 个人成长, 英雄主义, 阴谋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

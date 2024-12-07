@@ -7,7 +7,7 @@ TXT 下载: [[变性]_DTX之绝爱-1.doc]([变性]_DTX之绝爱-1.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《DTX之绝爱-1》，正文内容约11354字，主要讲述了年轻男主角徐兴邦的心理挣扎与身份认同过程。故事的开头，兴邦的家庭日常被描绘出来，特别是在他母亲与父亲的互动中表现出一种温馨但略显紧张的家庭氛围。随着情节的发展，兴邦穿上了母亲的衣服，幻想自己成为家庭的女主人。这种设定涉及复杂的性别扮演与身份认同问题，展示了他对自己内心深处渴望的探索与理解。兴邦对女儿的角色有着深刻的认同感，同时他还暗恋着名为王茜的女孩，这进一步 complicates 他对自身性别和感情的认知。整篇内容充满了对自我认同、性别角色与情感的深刻思考，以诚实的角度探讨了男孩如何在家庭结构与社会期望中进行自我认知与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_DTX之绝爱-1.doc]([变性]_DTX之绝爱-1.doc)
 | Size            | 59392 bytes                           |
 | MD5             | 0eabfd5092e291cef69f49d7a48dd5c1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 纳兰珍                               |
+| Region          | 未知                               |
+| Date            | 2020-08-05                                 |
+| Tags            | 性别认同, 跨性别, 性别转换, 幻想, 家庭关系, 同性恋, 心理探索, 少女成长, 自我认知, 性别角色, 文化冲突, 穿越, 魔法, 情感纠葛, 二次元, 青春, 性别扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

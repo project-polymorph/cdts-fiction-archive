@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我家女友不定形【第二章】.doc]([皮物]_我家�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《我家女友不定形【第二章】》，主要讲述了主人公李林与他拟态为人类的异星生物修依之间的故事。在第二章中，李林在经历了苏颖的死后，对修依的身份与角色感到复杂。修依不仅拥有拟态成人类的能力，还能控制自己的身体形态，并在这里展现出她的“人皮”制作能力，令人感到惊奇。文中描写了李林对修依的触感兴趣和复杂的心理反应，例如他在看到修依变换的形态时产生的生理反应和心理斗争。修依的话语和行为展现出她对李林的深厚情感和温柔关怀。章节中还涉及了生死、身份认同、性别转换、自我探索等主题，体现了复杂的人际关系和对身体与身份的重新审视。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我家女友不定形【第二章】.doc]([皮物]_我家�
 | Size            | 59392 bytes                           |
 | MD5             | 04e3095619f1ecdbadf01158f8e230c3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异星生物, 拟态能力, 人皮, 性别身份, 自我探索, 情感关系, 科幻, 变身, 皮物, 复杂人际关系, 情趣玩具, 心理反应, 奇幻, 变嫁, TSF, 二次元, 女性视角, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

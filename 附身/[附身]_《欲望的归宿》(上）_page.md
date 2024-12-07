@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《欲望的归宿》(上）.docx]([附身]_《欲望的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本稿件属于伪娘 TS 变身与跨性别相关小说的档案，标题为《欲望的归宿》（上），作者为サキ。故事围绕年轻人日番谷拓也展开，他是一名对性别转换题材（TS）充满兴趣的人。这部作品通过细腻的描写展现了拓也的生活和内心世界。开篇提到在东京发现了一具男性的非正常死亡尸体，引入了主角的日常生活，他的公寓里满是涉及性转换题材的漫画和小说，这些R18级别的作品显然反映了他的兴趣和欲望。故事中拓也身为偶像经纪人，尽管工作繁忙但他始终怀着对美少女的向往。在与偶像椿的互动中，拓也对职业生涯的思考以及对性别和自我认同的潜意识探讨显得尤为重要。作品既描绘普通生活，也融入了对性别认同和社会期待的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《欲望的归宿》(上）.docx]([附身]_《欲望的�
 | Size            | 47618 bytes                           |
 | MD5             | d2419608f795f47346bddb0daf6045d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | サキ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 偶像, 欲望, 心理冲突, 自我探索, 成长, 都市生活, R18, 角色发展, 二次元, 青春, 现实与幻象, 女性化, 缘分                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

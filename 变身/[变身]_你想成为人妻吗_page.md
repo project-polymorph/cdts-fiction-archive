@@ -7,7 +7,7 @@ TXT 下载: [[变身]_你想成为人妻吗.doc]([变身]_你想成为人妻吗.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个正处青春期的男孩突然接收到一条奇怪的短信，询问他是否想成为人妻。这条短信引发了他的好奇和兴奋，他是一位热爱TS作品的少年，幻想着自己变成人妻的情景。在他不知不觉中点击了链接后，他的身体和身份发生了翻天覆地的变化，逐渐变成了一名熟女人妻，拥有着新的身体和人生。小说探讨了性别角色的转换，性认同的冲突，以及在新身份下的自我探索与享受。文中详细描写了变化后的身体感受和心理状态，体现了主人公对自己新身份的认同和逐步的适应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_你想成为人妻吗.doc]([变身]_你想成为人妻吗.
 | Size            | 53248 bytes                           |
 | MD5             | 5fb6af873619faac5685fb555a9ea738                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身, 人妻生活, 传统角色, 变形小说, 跨性别, 情感体验, 青春期, 性幻想, 色情内容, 奇幻, 心理变化, TSF, 女性主义, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

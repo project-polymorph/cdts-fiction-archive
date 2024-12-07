@@ -7,7 +7,7 @@ TXT 下载: [[变装]_乡村雌堕记.docx]([变装]_乡村雌堕记.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个名为夏思齐的大学毕业生，他为了调整心态，选择到一个偏远的小乡村旅游。在旅途中，他碰到了当地的几名恶徒，幸好被一位中年妇女王婶所救，并被邀请到王婶家寄宿。然而，王婶的丈夫郭建军却是一名醉酒的变态，他对思齐产生了非分之想，企图对他进行性侵犯。凌辱的过程详细描绘了思齐内心的恐惧与抵抗，以及郭建军的猥亵行为，最后以对思齐的侵犯而告终。该小说通过夏思齐的经历，探讨了性别认同、性别暴力，以及个人与社会的冲突等主题，同时也表现出男性身体和性欲的复杂性。这部作品涉及的内容浓重，表达了对人性阴暗面的深刻描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_乡村雌堕记.docx]([变装]_乡村雌堕记.docx)
 | Size            | 35095 bytes                           |
 | MD5             | 51babbb7de11f39764de3d7f670e774e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转换, 男性角色, 性别认同, 强奸, 男妓, 乡村生活, 青少年心理, 女性视角, 醉酒, 社会边缘, 细腻描写, 暴力, 人际关系, 心理恐惧, 农村故事, 异化, 都市与乡村对比, 情感冲突, 自我认知转变, 真实与幻想, 二次元, 虚幻现实, 自我探索, 描写男性欲望, 恐惧体验, 人性探讨                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

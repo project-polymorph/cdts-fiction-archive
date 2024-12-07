@@ -7,7 +7,7 @@ TXT 下载: [[其他]_无限动漫调教世界.docx]([其他]_无限动漫调教
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为《无限动漫调教世界》的小说内容，讲述了主角卡特在经历了一场致命的车祸后重生到一个奇幻的调教世界。在这个世界中，进入者将不断接受训练，成为“合格的女人”，接受各种调教和命令。卡特与其他被圈进这个奇境的女性们相识，了解这个世界的规则以及自己需要执行的任务。文中描绘了各类调教情节和女主们的自我探索过程，也探讨了对于女性身份的重新定义和挑战。整体情节充满了奇幻和跨性别元素，涉及性别认同的讨论，及其在不同环境下的表现。故事中介绍了多个角色的背景，例如身穿护士装的角色，以及身材姣好的女性们，显示出对女性美和身份的探讨与捕捉。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_无限动漫调教世界.docx]([其他]_无限动漫调教
 | Size            | 24023 bytes                           |
 | MD5             | 6978df9b81647ac8d29e7d6c24869836                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 风铃, t1 l, q6 p0 R                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 调教, 重生, 奇幻, 跨性别, 女性自我认同, 伪娘, 任务世界, 调教道具, 剧情反抗, 性别转换, 女主角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

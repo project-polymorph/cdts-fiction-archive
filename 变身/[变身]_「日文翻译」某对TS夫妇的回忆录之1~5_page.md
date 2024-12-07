@@ -7,7 +7,7 @@ TXT 下载: [[变身]_「日文翻译」某对TS夫妇的回忆录之1~5.docx]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇以家庭生活为背景的跨性别变身小说，讲述了一位名叫高濑健司的26岁男子在婚姻和家庭中的经历。他的家庭成员因特殊原因性别转换，家中四代同堂的女性角色之间的互动展现了温暖和幽默的一面。文中，通过角色的对话和日常生活片段，呈现出了一个看似普通但却因性别转换而变得独特的家庭生活场景。故事中的父亲和祖父都是因为家族的诅咒和灵性的附身而变成女性，成为了家中的女性角色。健司在与家人互动的过程中，既体现了对家庭的责任感，也展现了在性别认同上的复杂心理。他的女儿天真无邪，与丈夫之间有着紧密的互动以及温暖的情感交流，例如对父亲的依赖和对家庭的渴望。整篇作品通过细腻的描写和幽默的对话，探讨了性别认同、自我接受和家庭价值等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_「日文翻译」某对TS夫妇的回忆录之1~5.docx]([
 | Size            | 39192 bytes                           |
 | MD5             | c88028d7624305105b3e21a7b46edd8d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 家族, 温馨, 性别认同, 自我探索, 日常生活, 嘲讽, 幽默, 灵魂附身, 伪娘, 高濑健司, 父女关系, 教育, 魔法, 家庭生活, 二次元, 变装, 百合, 婚姻, 变嫁, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_帝国秘史（第二季完）.doc]([皮物]_帝国秘史�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是有关一位名叫芙罗拉的皇女在面对光明教会腐败和民众抗议时的内心斗争与外部冲突的小说。故事情节围绕着教会的不当行为以及芙罗拉的责任感展开。当她坐在马车中，目睹无声抗议的人群时，感到自身责任重大，但皇帝却希望她能够处理教会的事务。在此过程中，她面临来自神父麦克的攻击，揭示了权力滥用与性别暴力的复杂关系。随着故事发展，芙罗拉的身份与内心挣扎得以深入探讨，体现出对于角色身份认同与权力影响的思考。同时，爱丽丝作为护卫的角色也展示了对皇女的支持与情感。
+
+此文呈现了一些限制级的情节，如性攻击与权力压迫，揭露了角色之间的复杂关系及心理变化。文本中涉及了对教会的控诉，政权的腐败，以及个人在社会中的脆弱与抵抗。作者运用细腻的叙述方式，展现了无声抗议与个体情感的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_帝国秘史（第二季完）.doc]([皮物]_帝国秘史�
 | Size            | 107008 bytes                           |
 | MD5             | 16e0a31ff81a507da2798d92ce1ae27b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身, 强奸, 权力压迫, 性别认同, 城市, 幻想, 情感支持, 内心挣扎, 家庭关系, 二次元, 小说, 人际关系, 教会腐败, 王室权力, 女权主义, 社会抗争, 滥权                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_绝密身份（六）_变的轨迹.docx]([变性]_绝密�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转变的小说的第六章，标题为《变的轨迹》。主要讲述了故事中的角色在经过一个月的药物治疗后所经历的身体和心理变化。从角色的成长和内心的矛盾冲突出发，文字生动细腻地描绘了角色在性别转变过程中的身体特征变化，包括皮肤变白、体力下降、胸部隆起等生理现象，以及角色对这些变化的感受与心理斗争。角色意识到自己的阳具逐渐萎缩，这引发了对自我认同的深入思考，增加了对自身身份与性别角色的探索。文本通过描绘与指导者箫静姐之间的互动，展现出角色在困惑与期待中前行的姿态，同时也流露出对家庭和个人信念的坚定。整体而言，该章节不仅涉及身体的变化，还触及了心理上的成长、性别认同等较为复杂的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_绝密身份（六）_变的轨迹.docx]([变性]_绝密�
 | Size            | 22924 bytes                           |
 | MD5             | fd2dc23d912668e75f9f95b267140c70                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身体变化, 自我认同, 药物治疗, 心理冲突, 女性身体, 角色发展, 成长故事, 跨性别小说, 复杂情感, 心理探索, 伪娘, 变装, 生活日常, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_美人皮的故事九－－之女王梦想.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个以性别转换为主题的故事，其中角色经历了从男性到女性的变身过程，并涉及了复杂的情感关系和肢体接触。故事的主人公曾是一位宅男，后来化身为一位美丽的皇后，同时经历了与其儿子太子的禁忌之恋。文中细致描绘了皇后与皇帝之间的亲密行为，以及皇后的自我认知和身份变化。文本中包含了性暗示和性行为的详细描述，体现了角色对自身性别和情感的探索。整体故事聚焦于性别认同和对权力的渴望，在情感和生理层面上产生了强烈的冲突与满足感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_美人皮的故事九－－之女王梦想.docx]([皮物]_
 | Size            | 15635 bytes                           |
 | MD5             | b9ae98f74a2cbaa193feda29f1e2f107                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 禁忌之恋, 变身小说, 权力斗争, 母子情, 自我认同, 皇后与太子, 性行为描写, 异世界, 古代宫廷, 身体转换, 情感探索, 超自然力量, 欲望与责任, 女性视角, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

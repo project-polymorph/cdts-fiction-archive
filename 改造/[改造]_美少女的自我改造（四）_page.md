@@ -7,7 +7,7 @@ TXT 下载: [[改造]_美少女的自我改造（四）.docx]([改造]_美少女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《美少女的自我改造（四）》，主要讲述了一个名为“魏铁柱（沈梦雨）”的角色在经历了性别转变后，开始了自我探索与认同的过程。故事开篇，魏铁柱决心寻找手机中美少女的身影，渐渐对自己原有的性别产生了疑惑与挑战。在暗夜之中，他进入了美少女“沈梦雨”的别墅，回忆起以前的偷窥经历，心中充满了对女性身份的渴望。文章详细描写了他对美少女气息的迷恋，伴随身体的变换而来的快感，以及内心对女性身份认同的挣扎与狂热。随着情节的发展，性欲与身份认同交织在一起，带给他深刻的心理冲突与奇异的满足感。文中包含大量性暗示与细节描写，涉及性别认同与自我探索的主题，情节较为露骨，含有限制级内容。文档内容整体反映出对性别身份的探讨，同时映射出社会对性别认知的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_美少女的自我改造（四）.docx]([改造]_美少女
 | Size            | 17332 bytes                           |
 | MD5             | d941d785032edc887044e7c43b444ef8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 自我探索, 性别认同, 暗恋, 偷窥, 性快感, 变身, 女性化, 心理冲突, 羞耻, 欲望, 跨性别, 异性, 情感, 强烈刺激                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑色的情信.docx]([皮物]_黑色的情信.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《黑色的情信》是一篇涉及性别认同和欲望主题的伪娘/男娘小说，故事设定在一个普通高中，描绘了一封情信带来的紧张与期待。主角是一个普通的高中生，偶然收到一封装饰华丽的情信，他好奇而忐忑地等待信中人出现。情节逐渐发展，意外出现的学姐揭开了一段热烈而复杂的关系，故事涉及内心的挣扎与对未知的渴望。随着剧情推进，学姐对主角的吸引力和调情让人意想不到，而其中暗藏的性暗示及生理欲望的描写增强了情节的戏剧性。由于涉及色情及高度的性暗示，文本中包含了对角色欲望的复杂描绘，如"我用妄想法调节自己的紧张心情"以及"十分激动地握紧手中的情信"等，体现出强烈的自我探索和认同矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑色的情信.docx]([皮物]_黑色的情信.docx)
 | Size            | 26742 bytes                           |
 | MD5             | 6b4792f00d372961fb567522fe200af9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 高中生, 情信, 欲望, 调教, 心理描写, 学姐, 强奸, 性别认同, 自我探索, NTR, 涩涩, 禁忌恋, 梦魇, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

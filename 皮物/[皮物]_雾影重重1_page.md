@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_雾影重重1.docx]([皮物]_雾影重重1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说以廖杰为主角，讲述了他在重庆的小店遭遇与一位神秘美女的巧合相遇。故事开头描绘了廖杰因工作变动而来到重庆的无奈心情，并转而经营一家电脑配件的小店。在工作中，他遇到了身着红色风衣、充满魅力的女孩，起初为电脑修理寻求帮助。随着女孩的离去，廖杰对她产生了浓厚的兴趣，回头之后，他无意中发现了女孩电脑中隐藏的劲爆视频，视频中的女孩正与一个中年男子发生亲密行为，令人瞠目结舌。随着情节的发展，廖杰还目睹了一个惊人的变身过程，使他面对性的认知产生了剧烈的冲突与诱惑。整篇小说将现代都市生活与性别转换的情节流畅地结合在一起，展现了复杂的人性与自我认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_雾影重重1.docx]([皮物]_雾影重重1.docx)
 | Size            | 21040 bytes                           |
 | MD5             | 5ebee820169a0d99ecf5c87c543cabe3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 都市, 爱情, 强奸, 调教, 多重身份, 自我探索, 神秘美女, 性转, 宝藏猎人, 视频资料, 吸引与诱惑, 现代生活, 网络技术                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交换神符-被夺取的人妻（中）.doc]([交换]_交
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身主题的小说片段，描绘了一系列角色之间复杂的身体交换剧情。故事的主要角色包括林远、王思明和许婉茹，涉及到性别转换的神符以及由此引发的情感纠葛和心理冲突。林远发现自己拥有一张交换神符，计划与许婉茹交换身体，但由于意外的事态发展，故事演变成三人之间的复杂交换。文件内容包含角色之间的互动、情感描写，以及在角色认同上的冲突。通过对许婉茹出现在王思明房间的细致描写，展现出伪娘和转性别主题的深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交换神符-被夺取的人妻（中）.doc]([交换]_交
 | Size            | 47616 bytes                           |
 | MD5             | b199a56857449c52555d1c244c8909b8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别交换, 变身, 青春校园, 自我认同, 三人交换, 情感纠葛, 性别认同, 情感探索, 奇幻, 魔法, 都市小说, 年龄差                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

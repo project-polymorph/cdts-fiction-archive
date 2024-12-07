@@ -7,7 +7,7 @@ TXT 下载: [[交换]_一品红1_[.docx]([交换]_一品红1_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了发生在香港一所别墅中的家庭争吵，男主角为了公司的未来而强迫女儿江小婉帮助他，导致了剧烈的冲突。故事的开始描绘了一场父女之间关于公司股份的争论，江小婉拒绝了父亲的请求，认为自己不应该为了哥哥的错误而承担责任。随着剧情的发展，父亲的绝望行为引发了江小婉的沉思，让她意识到自己与公司的命运紧密相连。三年后，她通过努力重新振兴了公司，成为了一个成功的职业女性，职场上自信而美丽。在某个时刻，她对自己的身体产生了强烈的认同感，并在私密场景中展现了对自身的探索。作品涉及多元性别认同、自我发现的主题，描绘了一名女性在职场与身份认同之间的挣扎与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_一品红1_[.docx]([交换]_一品红1_[.docx)
 | Size            | 24289 bytes                           |
 | MD5             | c09d0a9c8be1930e30046655717740c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 香港                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 家庭冲突, 职场奋斗, 成功女性, 私人生活, 情感戏剧, 父女关系, 三年的蜕变, 跨性别主题, 感官刺激, 二次元文化, 都市情感, 变身小说, 幻想元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

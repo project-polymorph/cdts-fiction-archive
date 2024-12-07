@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【完美】的婚礼_(2线_偏重口_纯ghs).doc]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇以婚礼为背景的性转小说，描绘了一位男孩廖倩儿在催眠和性别转换过程中所经历的奇幻故事。故事的开头，廖倩儿作为一具皮物，参与了一个婚庆公司的特殊安排，旨在帮助他应对即将到来的婚礼。在催眠的过程中，廖倩儿面临着个人身份与即将成为新娘的冲突，文中细致描绘了他在催眠、诱惑和羞耻心交织下的心理状态。随着婚礼日的临近，廖倩儿不断被卷入到性暗示与身体敏感度不断升高的局面中，文中详细刻画了与伴娘佳佳、未来新郎赵龙的互动，以及婚礼当天的种种不寻常安排。婚礼现场的氛围与设置充满了偷窥和施加控制之感，伴随着一系列亵渎性的描写，展示了一场有关欲望、伪装与内心挣扎的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【完美】的婚礼_(2线_偏重口_纯ghs).doc]([皮物
 | Size            | 39424 bytes                           |
 | MD5             | 32e914490697c8ef80b85d6093e7a73f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 婚礼, 性别转换, 催眠, 伪娘, 强烈刺激, 情趣婚纱, 心理冲突, 性暗示, 性爱游戏, 友谊, 奇幻, 角色扮演, 生理与心理双重体验, 婚庆公司, 禁忌情感, 电流刺激                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

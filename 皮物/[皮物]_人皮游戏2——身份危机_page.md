@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人皮游戏2——身份危机.docx]([皮物]_人皮游�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《人皮游戏2——身份危机》描绘了一个关于性别转换和自我认同的复杂故事。小说围绕一个男性角色，透过人皮的穿戴体验，探索其与女性身份间的心理挣扎与认同。主人公在穿上“人皮”的一瞬间，感受到了强烈的身体与心理转变，并沉浸在与女性身份相关的情感与性快感之中。文中详细描述了人皮的穿戴过程，涉及到紧束、压迫和身体感觉的细腻描写，让读者感到角色的心态转变和对自我身份的探索。同时，故事中还涉及与女性角色的互动与情感纠葛，特别是与“琰”这一角色的清新浪漫情感。整体上，这部小说表现了对性别认同和身体体验的深入思考，但也包含了一些限制级和性相关的内容，应谨慎阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人皮游戏2——身份危机.docx]([皮物]_人皮游�
 | Size            | 24634 bytes                           |
 | MD5             | b3c8a0a5a534373df36a50f528e4b40b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我认同, 人皮, 心理挣扎, 身体体验, 变身小说, 虚拟身份, 青春校园, 性别探索, 情感纠葛, 二次元文化, 性取向, 女性视角, 幻想, 自恋, 情欲描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_TG物语——影子（七至九）.doc]([皮物]_TG物语
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于变身与穿越的小说，叙述了一位男性主人公在遭遇神秘事件后进入女生皮囊的经历。故事开始于他发现自己身上的一颗黑痣，与另一个人的黑痣神秘相连，使他得以穿上一个女性的皮囊。随着整个过程的展开，主人公逐渐体验到女性的身体感觉，包括身体变化带来的自我认知冲突与快感。他在穿戴皮囊的过程中，逐渐化身为原本属于那个女孩的形象，体验到了与之前截然不同的身体感受与性快感。文中描述了主人公的心态变化，以及他在享受女性身体快感时的良知挣扎和对性别身份的思考，浓厚的成人主题穿插于其中。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_TG物语——影子（七至九）.doc]([皮物]_TG物语
 | Size            | 46592 bytes                           |
 | MD5             | fcff1f6667c325110c0910de196b0a82                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 女性化, 性别认同, 自我探索, 快感体验, 穿戴皮囊, 二次元, 内心挣扎, 生理变化, 心理变化, 幻想文学, 奇幻, 性别转换, 成人内容, 虚拟世界, 自我发现                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

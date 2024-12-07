@@ -7,7 +7,7 @@ TXT 下载: [[变身]_勇者弱体化封印_14.docx]([变身]_勇者弱体化封
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇名为《勇者弱体化封印》的变身小说第14章，叙述了一场战争与角色转化的故事。故事时间设定在一个魔法幻想的世界中，主要围绕着一个魔王城的战斗展 开。在这一章中，描述了王子斯雷在面对外敌时的无奈以及他与家族和部下的互动。斯雷对于内部贵族的不满以及对战斗局势的思考加深了冲突的紧张感。尤其是，在战斗中使用的特殊兵器“梅德因·红玫瑰”以及魔法变身的情节展示了角色的深层次变化，包括赛特将军变成少女后，其反应以及与斗争之间的冲突。故事中充满了魔法、角色的性别转换以及战斗的描写，表现了复杂的人物关系和层次分明的叙事结构。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_勇者弱体化封印_14.docx]([变身]_勇者弱体化封
 | Size            | 41623 bytes                           |
 | MD5             | 51b5b5204602e3c3225ad0a99fc58c18                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法, 战争, 角色转化, 少女化, 性别认同, 魔族, 勇者, 强大的龙, 古代魔法, 校园制服, 幻想, 冲突, 自我探索, 冒险, 魔法少女, 反抗, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_刻骨铭心_（下）.doc]([改造]_刻骨铭心_（下�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部跨性别相关的小说片段，主要围绕角色史蒂夫和瑞秋之间的对话展开，涉及到跨性别角色卡拉·斯蒂尔的遭遇。故事情节紧凑，通过对话揭示了角色之间的复杂关系，探讨了自我认同和人性的主题。在故事中，卡拉的性别认同被剥夺，变成了一个冷酷无情的存在，史蒂夫试图说服瑞秋放下仇恨，认为仍存在拯救卡拉的希望。随后，情节发展到一场生死搏斗，伴随着关于暴力和救赎的深刻讨论。故事中使用了生动的对话和戏剧化的情节，反映了对性别转换和个人斗争的不同看法。最后，随着枪声响起，故事留给读者一丝悬念与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_刻骨铭心_（下）.doc]([改造]_刻骨铭心_（下�
 | Size            | 66048 bytes                           |
 | MD5             | 56eba77680ff14a6e6788fc5af38a790                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 自我认同, 变身, 悬疑, 心理斗争, 人性, 枪战, 救赎, 女性角色, 暴力, 伦理探讨, 剧情发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【申码文】附身偶像.doc]([附身]_【申码文】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇有关偶像事务所的小说，主要围绕社长与事务员之间关于一个神秘盒子的对话展开。故事设定在东京都，一个新开张的偶像事务所中。早上社长七海到达工作室，发现桌子上有一个未知来源的礼物盒子，事务员七草叶月告诉他盒子是在工作室门口发现的，但并不知道是哪个粉丝送来的。社长出于偶像们的安全考虑决定处理掉这个未知的盒子，同时故事还涉及到事务所中偶像的日常生活和社交活动。随后，故事引入了一个名为月冈恋钟的女孩，她的到来自然引发了对盒子内大福的兴趣，并最终把大福吃下，产生了意想不到的后果。大福的内部不单单是食物，实际上它开启了一个诡异的转折。随着故事的发展，恋钟被粘液包围，逐渐失去意识，并最终被控制。此文的情节揭示了偶像行业中潜在的危险，以及对粉丝与偶像关系的另一面思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【申码文】附身偶像.doc]([附身]_【申码文】�
 | Size            | 68608 bytes                           |
 | MD5             | 1a30e4d03ba6d39bbc7eeb51ee0b3062                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 偶像, 事务所, 神秘盒子, 女生生活, 粘液, 异变, 权力关系, 未知礼物, 超自然, 心理恐惧, 自我探索, 日本文化, 社交压力, 性别转换, 变身小说, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

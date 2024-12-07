@@ -7,7 +7,7 @@ TXT 下载: [[其他]_愿石之狩猎者_第五章_发现_[.docx]([其他]_愿�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是伪娘 TS 变身与跨性别小说的档案资料之一，选取了第五章的内容，围绕角色嘎子的内心挣扎和性别身份的切换展开。故事开头，嘎子正处于一种紧张的状态，似乎在逃避某种压力和追捕。场景设定在日常生活中，结合了电话、家庭关系与身份危机的情节。嘎子与其他角色的对话中流露出他对自身身份的迷茫，以及在变身与自我认知之间的挣扎。他一方面希望能逃避追踪，另一方面又对变身的能力产生了迷恋，但又试图相信自己是个‘纯爷们’。随着情节的发展，嘎子面临身份暴露的危险，使得故事充满悬疑和紧迫感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_愿石之狩猎者_第五章_发现_[.docx]([其他]_愿�
 | Size            | 18173 bytes                           |
 | MD5             | 183584b2e9a8de28f1e9e780cd8bf3dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 内心挣扎, 家庭关系, 逃避, 身份危机, 紧迫感, 神秘能力, 自我探索, TSF, 病态心理, 异性恋, 同性恋, 幻觉, 角色发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

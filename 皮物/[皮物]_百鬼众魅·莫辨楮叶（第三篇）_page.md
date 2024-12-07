@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_百鬼众魅·莫辨楮叶（第三篇）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为多元性别中文数字档案馆中的一篇小说，名为《百鬼众魅·莫辨楮叶（第三篇）》。此作品属于伪娘、变身和跨性别相关的类别，描绘了复杂的人物关系及心理斗争，其中两名职员在一家名为Devil的小公司中进行对话，探讨了关于情欲和身份的问题。通过对话的描写，我们看到角色之间对自身和他人身份的探讨与思考，同时涉及到一些强烈的情感与道德困境。文件提到冲突性的任务选择和对性别认同的疑问，引用了角色之间的台词：“无论如何，至少在对象的选择上，我是不会把皮交给罪犯的。”这些设置展现了故事的悬疑氛围，并引发了对社会伦理的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_百鬼众魅·莫辨楮叶（第三篇）.doc]([皮物]_�
 | Size            | 72192 bytes                           |
 | MD5             | 3ab18355bb9b62d10ebc26647b385530                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 跨性别, 情欲矛盾, 自我探索, 强烈情感, 道德选择, 身份危机, 现代都市, 异议审视, 心理斗争, 多元文化, 探员故事, 工作场所, 情感交流, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

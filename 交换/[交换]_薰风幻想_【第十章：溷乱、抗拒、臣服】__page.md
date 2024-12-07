@@ -7,7 +7,7 @@ TXT 下载: [[交换]_薰风幻想_【第十章：溷乱、抗拒、臣服】_.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《薰风幻想》第十章描绘了凯特曼（也称莎莎）在经历身体互换后所面临的身份危机与心理冲突。故事围绕凯特曼的内心挣扎展开，她发现自己被困在一个中年男性的身体里，而她原本美丽的女性身体却被另一个名叫莎莎的美少女占有。凯特曼对于自己失去身份的恐惧与绝望不断加深，她的意识与记忆开始模糊，陷入了对自己真正身份的怀疑。多次回忆中，她意识到自己不仅失去了身体，还失去了作为女性的尊严。故事通过激烈的情感表达和对肉体与灵魂之间关系的探讨，揭示了性别认同与自我认知的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_薰风幻想_【第十章：溷乱、抗拒、臣服】_.d
 | Size            | 33066 bytes                           |
 | MD5             | d7a3efaec985777d08d06afcecf44d22                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RE                               |
+| Region          | 未知                               |
+| Date            | 2017-02-28                                 |
+| Tags            | 性转, 身体互换, 跨性别, 自我认同, 心理冲突, 美少女, 男性视角, 绝望, 情感纠葛, 生理女性, 身份危机, 强烈的性别认同, 黑暗虐心, 性别意识, 记忆模糊, 身体占有, 情感抑郁, 绝望的挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

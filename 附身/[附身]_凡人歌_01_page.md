@@ -7,7 +7,7 @@ TXT 下载: [[附身]_凡人歌_01.docx]([附身]_凡人歌_01.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《凡人歌》描绘了主人公王志远在生活中遭遇困境的一段奇妙转变。在经历了一次严重的交通事故后，王志远的灵魂意外进入了一个女性身体中，成为了一位赤裸的美丽女子。初次面对这个陌生身体，王志远感受到身体的愉悦、欲望与困惑，同时回忆起自己的生活经历，感到一种无法名状的刺激和释放。文件详细描述了他的内心挣扎以及随之而来的肉体快感，描绘了他如何逐渐接受这种转变，并在新身份中找到了隐秘的快乐和激情。在这一过程中，涉及到性别认同和欲望探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_凡人歌_01.docx]([附身]_凡人歌_01.docx)
 | Size            | 35800 bytes                           |
 | MD5             | 6e78c7aff3a522fb92062f3581857b1a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 自我探索, 欲望, 灵魂交换, 性别认同, 情感纠葛, 奇妙转变, 身体快感, 夫妻关系, 陌生体验, 二次元, 病态, 虐恋, 调教, 激烈场面, 高潮, 性爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

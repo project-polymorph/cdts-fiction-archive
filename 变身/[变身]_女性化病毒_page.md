@@ -7,7 +7,7 @@ TXT 下载: [[变身]_女性化病毒.docx]([变身]_女性化病毒.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《女性化病毒》，由作者秋柒创作，是一部描绘性别转换的小说。在故事中，男主角佳奇的一天因突如其来的雨水而被彻底改变。雨水中带有特殊的病菌，促使佳奇体内雌性激素的分泌，逐渐发生了女性化的变化。他的外貌，从高大的男性形象逐步转变为一个曲线优美的女性形象，体型变得瘦弱，五官渐渐变得阴柔。故事在描绘这一变化的同时，也刻画了佳奇心中对自我身份的困惑与认同的探索。在经历身体变化的过程中，佳奇的声音和身体感知也发生了惊人的变化，这些都让他开始质疑自己原有的性别认同。最终，佳奇在接受这些变化的同时，也面临外界的回馈与内心的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_女性化病毒.docx]([变身]_女性化病毒.docx)
 | Size            | 30667 bytes                           |
 | MD5             | 82c69049d620f07b255f3a29323abf9d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 秋柒                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 女性化, 自我探索, 跨性别, 变身, 都市奇幻, 性别认同, 情感纠葛, 变嫁, 第一人称视角, 奇幻小说, 雨水病毒                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

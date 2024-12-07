@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[舊文]平安夜(少肉).doc]([变身]_[舊文]平安夜(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于性转和跨性别主题的小说，作品围绕男女主角耕介和浩纪的关系展开。在平安夜，耕介在浩纪家里，通过占卜的方式操控了一瓶包含女性头发的魔法瓶。浩纪在吸入瓶中气体后，经历性别转换，变成了美惠，其声音和形态都完全女性化。剧情描述了耕介和美惠之间的亲密互动，认同和自我探索的冲突，同时也融入了性与爱情的细腻描写。尽管这是一个充满幻想的故事，但它探讨了性别认同与爱情之间的复杂关系，描绘了在跨性别者转变后的情感世界。作品也包含一些限制级的情节，涉及较为露骨的身体互动与性行为的描写，体现了性别转换带来的身体与心理的变化。全文充满了梦幻与现实交织的色彩，带给读者一种强烈的代入感和情感冲击。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[舊文]平安夜(少肉).doc]([变身]_[舊文]平安夜(
 | Size            | 35840 bytes                           |
 | MD5             | 712ca7ecc0b616344ef231045924964b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 强烈的情感, 幻想文学, 性别认同, 二次元, 美惠, 耕介, 亲密关系, 平安夜, 魔法, 青少年, 爱情, 自我探索, 气体转变, 女性形象, 幻觉                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

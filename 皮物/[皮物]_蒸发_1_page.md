@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_蒸发_1.docx]([皮物]_蒸发_1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一段关于伪娘与性别转换的小说片段，描绘了主角在复杂的人际和内心冲突中的心理状态。故事开始于主角的毕设经历，体现了相对轻松的日常生活，但随之而来的是对自己身体、性别身份的深刻思考与探索。主角在一个特殊的身体形态下进行着情感与生理上的挣扎，体现出性别认同与自我探索的主题。文中不乏性暗示与生理描写，例如主角对身体感受的细腻刻画，以及与阿麦的互动，这些都展现出角色在不同身份下的心理反应与行为变化。此外，作者在叙述中利用了隐喻和细腻的语言，探讨了爱欲与身份的模糊界限。总之，这篇文字不仅仅是性转或伪娘的描写，更是对个人认同与性别流动的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_蒸发_1.docx]([皮物]_蒸发_1.docx)
 | Size            | 19806 bytes                           |
 | MD5             | a90b6dd1a32ce87314698d30da71d1d0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 心理挣扎, 自我探索, 性别转换, 人皮, 情感冲突, 心理描写, 内心独白, 异性恋情节, 男女性别角色, 情欲关系, 现代都市, 科幻元素, 变身主题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

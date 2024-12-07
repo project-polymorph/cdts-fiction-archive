@@ -7,7 +7,7 @@ TXT 下载: [[变身]_成为白狼巫女的少年_第壹章_白狼巫女在夜�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是小说《成为白狼巫女的少年》的第一章，情节围绕着一名少年，一之宫士狼，他身为一之宫家族的继承人，必须在夜间变身成为一名巫女以借助神的力量与黑暗中的幽鬼进行战斗。故事开篇描绘了一个黑夜的公园，士狼在夜间对抗兽人的紧张场景。巫女的形象被描述成娇小而强大的存在，金色眼瞳注视着面前的兽人，凭借神之力施展法术。随着战斗的进行，士狼成功击退了兽人后，他的身份也在故事中被揭示：少年是为了继承家族的使命而被迫变为女性的形态以获得力量。月光下，他在疲惫中回到家中，继续探索自我认同的复杂情感。故事探讨了性别认同、成长和自我价值的主题，描绘了士狼在战斗和日常生活之间的挣扎与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_成为白狼巫女的少年_第壹章_白狼巫女在夜�
 | Size            | 74240 bytes                           |
 | MD5             | 2acbb5a4576135dbb9c720c7f790989d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 巫女, 少年, 幽鬼, 神秘力量, 兽人, 成长, 性别认同, 战斗, 奇幻, 夜晚, 传统文化, 心理冲突, 自我探索, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

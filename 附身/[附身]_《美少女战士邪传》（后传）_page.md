@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《美少女战士邪传》（后传）.doc]([附身]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《美少女战士邪传【后传】》是继承自美少女战士系列的伪娘与变身题材小说，讲述了火野丽和奥诺之间的斗争与身份的冲突。故事从火野丽施法束缚了被附身的美奈子开始，展现了奥诺对美奈子躯体的企图，因为他渴望占据美奈子的肉体来逃避即将到来的死亡。在美奈子介入时，她的身体与灵魂被黑暗的力量污染，甚至开始享受这种堕落的感觉。随着情节的发展，火野丽被奥诺逐渐控制，展示了复杂的自我意识与身体占据的主题。这部作品深入探讨了性别认同、自我探索的主题，并涉及到多重角色的身体互换与权力游戏，使得故事充满了悬疑与冲突。文中提到“灵肉合一的快感”和“绝望的窒息感”等情节，加深了性别与心理的交融，也让人思考身心的界限与认同的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《美少女战士邪传》（后传）.doc]([附身]_《�
 | Size            | 126976 bytes                           |
 | MD5             | 952df8c8f31ef91f1097f1ca2ebd92e5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 身体互换, 情感纠葛, 堕落, 强占, 自我意识, 魔法战斗, 黑暗力量, 灵肉合一, 精灵, 校园幻想, 友情与背叛, 妖魔, 生死抉择                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_临床实验（1）.docx]([变性]_临床实验（1）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇相关于跨性别与变身主题的小说，讲述了一位男性角色的性别转换经历。故事开始于一个全裸的男性角色被监禁在一个粉红色的房间中，房间中只有一张白色大床和被铁格子封闭的窗户，他被监视着，时间的流逝和身体的变化使他感到深深的不安。故事引入了主角在遭遇人生变故后，前往大城市寻求工作的事情，逐渐展开了他因长相被认为像女性而被拒绝的经历。在小说的展开中，主角接受了一个女医生的邀请，成为一名临床实验的志愿者。实验内容涉及一种新型药物，以及他在药物施用前后发生的身体和心理变化。例如，角色的身材愈发娇柔，身体线条变得柔和，感受到自我认知的冲突。此外，情节涉及了强奸和其他性爱行为的细节，体现了他的身体与性别认同之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_临床实验（1）.docx]([变性]_临床实验（1）.doc
 | Size            | 32099 bytes                           |
 | MD5             | c46f7668165a53258ed726c3d4854e22                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 伪娘, 临床实验, 性别认同, 自我探索, 强奸, 药物实验, 性别转换, 女性形象, 心理变化, 新药开发, 监禁, 变嫁, 青春期困惑, 都市生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

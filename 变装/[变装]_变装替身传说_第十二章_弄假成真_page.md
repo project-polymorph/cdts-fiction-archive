@@ -7,7 +7,7 @@ TXT 下载: [[变装]_变装替身传说_第十二章_弄假成真.docx]([变装
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节《变装替身传说》详细描绘了一位角色在面对情感困境时的紧张心境。故事开始于主人公因某个男人的追求而感到不安，该男人是一位斯文的赵公子，他试图拉拢女主的女友。女友在对话中显示出对赵公子的无奈与拒绝，但同时，主人公感受到来自赵公子的威胁，甚至对于女友的安全感到担忧。情节随着赵公子的逼迫而发展，女友被迫在两人之间选择，最终在危机时刻，主人公试图保护女友，但被突如其来的冲突所困。故事探讨了性别认同、爱情的复杂性，以及角色在权力和情感之间的挣扎。该章节呈现了激烈的打斗与情感的交织，涉及的内容包括了紧张关系、心理冲突和权力游戏，描绘了一种强烈的紧迫感和不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_变装替身传说_第十二章_弄假成真.docx]([变装
 | Size            | 24319 bytes                           |
 | MD5             | f8e11067b67b7094a491a2931dd6cf86                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 情感困境, 权力斗争, 心理冲突, 暴力, 爱情, 跨性别, 自我认知, 紧迫感, 变身, 女友保护, 斯文败类, 岁差, 逆境, 自我探索, 复杂关系, 打斗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

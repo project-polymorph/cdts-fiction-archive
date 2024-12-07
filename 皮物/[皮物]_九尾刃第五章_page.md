@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_九尾刃第五章.docx]([皮物]_九尾刃第五章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是跨性别相关的小说，标题为《九尾刃第五章》，细致描述了角色帆在梦境与现实间的迷茫，以及他面临的灵异事件。在这一章节中，帆收到来自全国妖物通缉委员会的奇怪信件，信中提到与他最近的经历有关的邪灵和九尾刃的神秘力量。故事开场时，帆被门铃声吵醒，发现门外有一个包裹和信件。信中揭示了他与妖气的关系，以及可能给他带来的风险。帆的内心矛盾复杂，并且他也在思考与女友如月的关系。在故事的进展中，帆见到了再次出现的老人，同时还经历了一次在商场的惊险经历，目睹了狐狸变身的离奇事件，引发了更多的恐慌和疑问。这个章节通过丰富的幻想元素与角色内部的冲突，展示了对身份认同的探索和对未知的恐惧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_九尾刃第五章.docx]([皮物]_九尾刃第五章.docx)
 | Size            | 19434 bytes                           |
 | MD5             | 6a097b87582f9bfef2ed42a8587022da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 九尾刃, 跨性别, 灵异事件, 角色附身, 妖气, 自我认同, 幻想冒险, 爱情, 修真, 神秘, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

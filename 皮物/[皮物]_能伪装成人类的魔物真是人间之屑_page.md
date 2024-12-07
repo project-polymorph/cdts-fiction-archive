@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_能伪装成人类的魔物真是人间之屑.doc]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于魔物伪装成少女的奇幻小说，主要围绕王国骑士团的首席骑士杰里和伪装成少女的魔物艾莉丝之间的对决展开。在深夜的街道上，杰里因为感受到艾莉丝身上的魔物气息而与她展开了紧张的对话。随着情节的发展，杰里揭穿了艾莉丝的身份，艾莉丝展现出狰狞的魔物形态，并开始动用她的触手。杰里则拿出神圣属性的武器，试图与艾莉丝对抗。小说中还涉及了一些刺激和紧张的情节，如杰里使用分身技能和艾莉丝的攻击，以及最后魔物对少女身体的操控和模仿。整个故事充满悬疑和战斗，夹杂着一些性暗示与伪娘元素，使人对此情节充满好奇和期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_能伪装成人类的魔物真是人间之屑.doc]([皮物
 | Size            | 43008 bytes                           |
 | MD5             | 90a1d8c957e613387422f7e4f7a94955                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔物, 伪装, 奇幻, 骑士团, 性转, 触手, 战斗, 神圣技能, 怪物, 自我认知, 少女, 吸收记忆, 模拟声音, 人皮, 变身, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

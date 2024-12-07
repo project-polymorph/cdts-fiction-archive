@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_69.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《把男朋友养成亲闺女》第69章，包含了关于贝丽与梅根之间的互动及其心理变化的描写。故事设定在一个虚构的背景中，描绘了贝丽在梅根的帮助下伪装成年轻女孩贝丽·安·贝斯特的过程。贝丽盯着电脑屏幕上的出生证明，感到不安但又依赖于梅根的安排，通过伪装来避免被捕的风险。过程中，贝丽在写数学作业，内心对自己的角色扮演感到困惑与苦恼，但又渴望得到梅根的认可与呵护。最后两人一起享用冰淇淋，观看电影，表现出一种微妙的情感联结和心理依赖。整体内容涉及强烈的性别认同、角色扮演及其带来的心理冲突，旁白透过贝丽的视角展现了她的成长与挑战，以及与梅根的复杂关系。这部小说富含性转和跨性别的元素，描绘了贴近现实的情感冲突及生理与心理的双重探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_69.docx]([改造]_把男朋友
 | Size            | 16446 bytes                           |
 | MD5             | d80f3aec67c64f0a015d8785e4229b5a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 心理探索, 自我认同, 情感依赖, 成长, 虚构, 角色扮演, 青春, 潮流文化, 女性视角, 幻想, 社会禁忌, 情感波动, 电影观看                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

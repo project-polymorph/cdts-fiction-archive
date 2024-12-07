@@ -7,7 +7,11 @@ TXT 下载: [[改造]_鹰枭乱六（物是_人非）_(2).docx]([改造]_鹰枭�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了李愿翔的变身与自我认知冲突的故事。故事开始于李愿翔因昨夜的事情而崩溃，他的记忆空白，但通过身边的迹象，他意识到自己与一个男人发生了亲密关系，内心充满了羞耻与绝望。
+
+李愿翔试图恢复自己的男性形象，拼命撕扯身上的衣服与妆容，但他所看到的自己在镜子中却依然是个受尽委屈的女人。这时，一个医生带着两名男子进入了房间，手提摄像机，展示录制下来的视频，视频中，他与男人的亲密行为让他惊恐不已，李愿翔发誓这不是他所愿望的场面。他求医生不要把这一切公之于众，医生却利用他的绝望来控制他，提供治疗的条件。最终，李愿翔被迫接受这一切，并被告知要在夜总会上班以满足医生的要求。
+
+故事涉及强奸、性别认同、精神纠葛与社会压力等主题，展现了角色在性别与自我认知上的斗争。整体情节复杂，角色内心的挣扎写得细腻，尤其是李愿翔的绝望与反抗，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[改造]_鹰枭乱六（物是_人非）_(2).docx]([改造]_鹰枭�
 | Size            | 21971 bytes                           |
 | MD5             | eb1fdc60163b2fea138a76c3aa477f08                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 丧失尊严, 强迫, 自我探索, 夜总会, 药物控制, 心理斗争, 绝望, 暗黑故事, 社会压力, 戏剧冲突, 自我认知, 跨性别角色, 身份危机, 人性扭曲, 体外化, 身体改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

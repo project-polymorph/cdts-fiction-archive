@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_申码文重发《断流的黄河》.doc]([皮物]_申码�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《断流的黄河》的小说讲述了于兴华的悲剧人生。故事发生在河曲县，黄土高原上一个贫瘠的县城，展现了家庭的荣耀与衰落。于兴华的爷爷是一名曾经辉煌的跳水运动员，但他的家庭因文革遭到打击，失去了土地与尊严。在他的成长过程中，他的父亲也因涉药丑闻而选择了自杀，留下年幼的于兴华独自在这个充满变故的世界中寻求生存。小说通过对黄河的描绘，喻示着于兴华生存的艰难与无奈，最终，他成长为一个被称为“独眼龙”的无名跳水者，孤独地在他出生的地方与城市之间徘徊，为了生活而不断游荡。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_申码文重发《断流的黄河》.doc]([皮物]_申码�
 | Size            | 52736 bytes                           |
 | MD5             | c572adb6e439b01d4be7a302a61dfd48                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 文学, 悲剧, 家庭, 个人追求, 成长, 社会变迁, 黄河, 跳水, 自我认同, 孤独, 青春, 农村与城市, 贫困, 自我救赎, 情感纠葛, 历史背景, 家庭关系, 双重身份, 逆境中挣扎, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

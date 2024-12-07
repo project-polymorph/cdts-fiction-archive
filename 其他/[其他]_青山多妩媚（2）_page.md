@@ -7,7 +7,9 @@ TXT 下载: [[其他]_青山多妩媚（2）.doc]([其他]_青山多妩媚（2�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及性别转换和跨性别主题的小说，讲述了男主角张青山的灵魂与女性角色张小慧的身体进行了奇妙的交换。故事开始时，张青山醒来发现自己拥有了张小慧的身体，并面临着自我认知的冲突和性别身份的探索。在变身过程中，张青山经历了对于女性身体的新奇感以及与男性角色方华之间的亲密关系逐渐展开。小说中，张青山对新的身体感到兴奋和困惑，同样体现出他对自己的性别认同的思考。
+
+具体情节中，他在镜子中看到自己渴望已久的女性面容，随之而来的是对于过去身体的怀念与新的身份认同的矛盾。他与关心他的男性方华之间出现了暧昧与亲密的互动，体现出复杂的情感和身体认同的问题，且故事中包含了多次亲密行为与性描写。文中对身体感受和情感交织的描写十分细腻，呈现了主角在享受新身份时的所思所感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_青山多妩媚（2）.doc]([其他]_青山多妩媚（2�
 | Size            | 37888 bytes                           |
 | MD5             | cdb03dbce524c8d75c7ebd955b47e40d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 自我认知, 身体交换, 性别认同, 变身小说, 伪娘, 情感纠葛, 奇幻, 女性视角, 性感元素, 幻想文学, 自我探索, 二次元, 情欲, 灵魂交换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

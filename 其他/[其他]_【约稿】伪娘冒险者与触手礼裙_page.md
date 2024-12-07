@@ -7,7 +7,11 @@ TXT 下载: [[其他]_【约稿】伪娘冒险者与触手礼裙.docx]([其他]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一个关于冒险者斯特拉的故事，他是一名猫耳少年，正在调查最近在村子附近森林中出现的奇怪歌声。这种歌声引发了村民的恐慌，几名年轻人曾因勇敢接近声音而失踪，回来后神智失常。斯特拉在恢复后，决定接下这个任务，尽管他伴随着一场可怕的噩梦，其中梦见了一只巨大的水母，梦中他的身体感到异样的敏感。
+
+故事中，斯特拉在接取任务后，前往村子探访任务委托人村长，了解关于神秘歌声和“怪物”的情报。在村长的描述下，斯特拉了解到这歌声出现不久，就已对村庄的生活造成了影响。随着夜晚的降临，他在森林中逐渐接近声音的来源，但也感受到内心的恐惧与不安。最终，斯特拉看到了一个模糊的怪物形象，这让他意识到自己可能正在陷入一种幻象之中。
+
+本文的情节包含了奇幻与冒险元素，探讨了自我认知与幻觉的主题。斯特拉的故事结合了恐惧感的表现，以及在面对未知时冒险者的职业道德。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[其他]_【约稿】伪娘冒险者与触手礼裙.docx]([其他]_
 | Size            | 44399 bytes                           |
 | MD5             | 4c934a380ad81e78418964cc6566f576                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 冒险者, 奇幻, 幻术, 性转, 猫耳少年, 恐怖, 自我探索, 变身小说, 水母, 夜晚探险, 剧情发展, 故事续篇, 魔物, 任务委托, 奇怪歌声, 村庄生活, 神秘现象, 古老书籍, 精神状态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

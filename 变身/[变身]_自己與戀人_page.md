@@ -7,7 +7,7 @@ TXT 下载: [[变身]_自己與戀人.docx]([变身]_自己與戀人.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档展示了一段伪娘与其恋人之间的情感纠葛故事，故事主要围绕角色逸风和小悦的互动展开。小悦在喝酒后向逸风表达了她的爱意，但逸风因自身的‘怪异’而感到不适合于她。尽管他们之间存在着明显的情感连接，逸风却选择了压抑自己的情感，导致两人处于一种微妙而尴尬的氛围中。随着故事的发展，小悦提出想要一个吻作为圣诞礼物，虽然两人都清楚现在的关系已经无法恢复，但在情感的驱使下，他们共享了一个甜蜜而又痛苦的初吻。文中涉及的主题包括性别认同、自我探索和恋爱纠葛，通过对话与心情的描写，展现了角色内心的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_自己與戀人.docx]([变身]_自己與戀人.docx)
 | Size            | 21620 bytes                           |
 | MD5             | d574e873f55ad4048d537f819de102b2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | kk9700                               |
+| Region          | 未知                               |
+| Date            | 2011-12-25                                 |
+| Tags            | 伪娘, 跨性别, 恋爱, 情感纠葛, 自我认同, 初恋, 甜蜜与痛苦, 节日氛围, 夜晚, 心理冲突, 告白, 内心挣扎, 强烈情感, 青春, 故事发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

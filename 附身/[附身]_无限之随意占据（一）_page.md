@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无限之随意占据（一）.docx]([附身]_无限之随
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件描述了一位高中生野村大河的奇特经历，他意外穿越到了一个平行世界并成为一名普通的高二学生。在一次小测试中，野村因对学业的陌生感到焦虑，但他获得了一个名为‘匠心系统’的神秘能力。这个系统赋予他‘视觉共享’的能力，可以借助他人，尤其是学业优异者的视角来解锁知识。在监考老师平冢静的注视下，野村大河通过他的系统看到了同班同学雪之下雪乃的解题过程，成功避过了当场无法作答的窘境。文件中详细描绘了角色们的心理活动与校园生活，展现了野村在面对陌生环境的挑战与自我探索，以及逐步适应新身份的过程。文件的风格轻松又带有些许奇幻色彩，同时探讨了自我认同与知识获取的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无限之随意占据（一）.docx]([附身]_无限之随
 | Size            | 21005 bytes                           |
 | MD5             | b49c4180f45ac1dd80b0310d6f9027e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 穿越, 视觉共享, 匠心系统, 高中生活, 作弊, 学生, 监考, 平行世界, 女教师, 自我认同, 奇幻, 校园小说, 角色发展, 知识探索, 男主角, 优等生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

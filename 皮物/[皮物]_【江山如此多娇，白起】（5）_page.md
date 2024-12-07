@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【江山如此多娇，白起】（5）.doc]([皮物]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的一部分，标题为《江山如此多娇，白起》第五章。故事中，主要角色白起观察着自己所处的古代世界，发现这是一个普通的世界而非他所期待的超凡世界。随着情节的发展，白起感到失望，同时也观察到另一角色李芳华的气运变化，这为白起改变花旗的命运提供了线索。随着故事发展，白起意图通过使用特殊的‘仙女皮衣’道具来改变其他角色的命运，同时引发了一系列包含权力斗争与角色变身的冲突。在这段故事中，包含了复杂的气运和角色心理，与传统的性别认同和自我意识的主题紧密相关。通过对角色的分析和世界观的构建，展现了性别流动和命运的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【江山如此多娇，白起】（5）.doc]([皮物]_【
 | Size            | 39936 bytes                           |
 | MD5             | 6e136aab94b242157dfa82200cc7ebaf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 古代, 气运, 角色心理, 三角关系, 权力斗争, 性别认同, 自我探索, 情感纠葛, 仙女皮衣, 命运转折, 女体化, 虚构角色, 奇幻色彩                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_她的俘虏3.docx]([变身]_她的俘虏3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘、变身与性转的小说，讲述了主角魅希在被魅由大人控制的情况下面对身体变化的内心挣扎与转变。故事情节围绕着主人公从男性变为女性的过程，探讨了性别认同与自我意识的冲突。在小说中，主角被迫参与到涉及屈辱与凌辱的场景，展现了角色如何在魔法与局势操控中逐渐接受自己的新身份。同时，文件中的对话和描写暗示了可能的性暗示与暴露情节，展示了角色对于性别转换的复杂情感。文中有多个引人注目的段落，如“也就是说魅由大人已经在他面前表明身份了”和“每天都涉及的屈辱体验加深了主角的内心矛盾”。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_她的俘虏3.docx]([变身]_她的俘虏3.docx)
 | Size            | 24290 bytes                           |
 | MD5             | d9a06e2b6266d3106d75296e8c2b84d0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 性转, 自我认同, 性别探索, 强制变身, 情欲, 性别角色, 幻觉, 调教, 心理变化, 性激励, 成人内容, 想象力, 二次元文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_通向女孩子的道路（七）.doc]([催眠]_通向女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《通向女孩子的道路（七）》的章节内容，讲述了主要角色明人受末舛夫妇的邀请拜访其女儿翼的故事。在这段情节中，翼的形象逐渐展现出女孩的特质，明人与夫人的对话涉及到了翼的性别认同和家庭教育。夫人提到要把翼当作女儿抚养，并努力让翼作为一个女人幸福成长。故事中涉及到性别认同障碍（GID）的话题，明人以专业的态度安抚夫人，并讨论了与变性手术相关的内容。整个章节对于翼的心理状态、家庭环境和性别认同教育进行了深刻的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_通向女孩子的道路（七）.doc]([催眠]_通向女�
 | Size            | 85504 bytes                           |
 | MD5             | 611a75eb5f5effad66ccd990f63da46f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别教育, 家庭教育, 青春成长, 性别障碍, 变性手术, 女孩子的成长, 伪娘, 跨性别角色, 心灵成长, 性别认同的心理, 亲子关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

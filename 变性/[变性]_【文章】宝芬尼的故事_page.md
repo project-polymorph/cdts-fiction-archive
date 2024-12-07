@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【文章】宝芬尼的故事.doc]([变性]_【文章】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《宝芬尼的故事》，讲述了一个年轻男性如何被他的雇主泽维尔先生使用美容仪和身体塑形机器进行性别转换的过程。故事的主角在接受变装和身体改造后被迫扮演一个‘女人’的角色，成为泽维尔的行政助理，尽管他最初并不愿意。他的生活受到迫使，逐渐在警局的审问中揭开了变性的秘密，并且他面对的是谋杀的指控。在审讯中，通过一名女性警察的同情与一名男性警察的质疑，故事探讨了性别认同、自我探索和个人选择的问题，尤其是在强迫与自愿之间的模糊界线。他谈到与泽维尔的关系，尽管对于他们之间的性行为进行辩解，强调这份工作的经济诱惑是自己所做选择的主要因素。文件的内容复杂，涉及到了对传统性别角色的挑战与个人身份的重塑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【文章】宝芬尼的故事.doc]([变性]_【文章】�
 | Size            | 37376 bytes                           |
 | MD5             | 60a19aff2dc0b633e83d6e7014b446c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 跨性别, 文档, 小说, 伪娘, 变装, 自我探索, 警方审问, 情感纠葛, 性取向, 权力关系, 身份认同, 经济诱惑, 情感操控, 性别认同, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

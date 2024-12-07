@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无限之随意占据（三）.docx]([附身]_无限之随
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《无限之随意占据（三）》的一部分，讲述了一个名为野村大河的年轻男孩通过一种名为‘系统’的神秘力量获得了视野共享和身体控制权的能力。在便利店中，他被一名名为青山七海的店员吸引，描述了她青春活泼的形象。通过系统的功能，野村大河能够控制他人的身体，使得他很感兴趣，也引发了一些对潜在道德和伦理问题的思考。随着故事的发展，野村大河的学习欲望和控制他人身体的想法逐渐增强，甚至显示出疯狂的一面。文件中包含了这些转变的描写，以及野村大河在图书馆中学习时的极端举动，反映出角色内心的冲突与变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无限之随意占据（三）.docx]([附身]_无限之随
 | Size            | 22470 bytes                           |
 | MD5             | 244d14a51cb3ecd677872c5566ede57e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 青少年, 学习欲望, 身体控制, 自我探索, 青春, 道德伦理, 心理变化, 异能, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

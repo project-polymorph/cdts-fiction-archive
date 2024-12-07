@@ -7,7 +7,7 @@ TXT 下载: [[变身]_穿越成了皇帝却被迫性转.doc]([变身]_穿越成�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本讲述了一个穿越者慕容煜在异世界以皇帝身份生活的经历。他原本是一名普通的快递员，因车祸穿越到了大燕国，成为了三皇子。故事围绕着慕容煜在继位后进行改革和斗争，然而意外的是他在权力游戏中遭到了阴谋的处理，被迫经历性别转变的过程。在一场精心策划的阴谋中，他的后宫名为含玉的妃子在其燕窝中下了蛊，导致他身体逐渐变得女性化。在他面对强敌与权臣的斗争之余，他不得不应对自身身份的转变与内心的挣扎。情节不仅展现了古代宫廷的权力斗争，也探讨了性别认同与自我认知带来的挑战，含有丰富的情感冲突和身体变迁的细腻描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_穿越成了皇帝却被迫性转.doc]([变身]_穿越成�
 | Size            | 45056 bytes                           |
 | MD5             | 575d4d5d99f2b1c54b6702bec0e5a9f8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 穿越, 性转, 皇帝, 自我认知, 权力斗争, 古代宫廷, 成长, 身份认同, 性别变化, 人妻气息, 男娘, 变装, 情感冲突, 阴谋, 伪娘, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

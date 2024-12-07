@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我家的梦大不可能这么可爱.docx]([皮物]_我家
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《我家的梦大不可能这么可爱》，通过第一人称的视角展开故事，讲述了日本女子老师有纪香子在一次校外活动中的遭遇。香子老师身材高挑、容貌出众，吸引了一名男生的目光，引发了一系列戏剧性事件。故事中，香子面对另一位男生的轻薄，表现出强烈的自我保护意识与霸气，甚至使用暴力手段来维护自己的尊严。她在与同学们的互动中，不仅展现出自己作为一名老师的权威，也流露出调侃和欢乐的气氛。文中涉及校园暴力和性别认同等话题，角色间的关系复杂，充满戏剧性与冲突。整体故事情节围绕引人入胜的校园生活和性别角色探讨，具有明显的二次元和伪娘文化影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我家的梦大不可能这么可爱.docx]([皮物]_我家
 | Size            | 40718 bytes                           |
 | MD5             | 3a3e622bcdc3fed8aa92a3681b864282                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 校园, 强权, 自我认同, 变身, 教师, 青春, 戏剧性, 暴力, 性别角色, 调侃, 互动, 丑陋的社会现象, 幽默, 恋爱问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

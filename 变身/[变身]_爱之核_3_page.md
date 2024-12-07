@@ -7,7 +7,7 @@ TXT 下载: [[变身]_爱之核_3.docx]([变身]_爱之核_3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《爱之核》第三部分，内容围绕一位主人公与魔女之间的奇异互动展开。在一个封闭的空间中，主人公面临着被魔女吸引与诱惑的挑战。文件描写了一种极具幻想与性暗示的场景，魔女以优雅又神秘的形象出现，营造出一种诡秘而前卫的氛围。在互动中，主人公渐渐被吸引，内心的挣扎与欲望交织，表现了角色的心理变化和对性欲的探索。文中包含了许多露骨的性暗示和情感描写，例如“好想一把搂住她那纤腰，将脸深深的埋入那山涧之中...”，使得整篇作品在奇幻的故事背景下，深入探讨了性别身份与欲望的复杂关系。整篇文稿具有明显的成人向内容，包含性暗示与情欲描写，适合研究性别主题与跨性别表现的文献。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_爱之核_3.docx]([变身]_爱之核_3.docx)
 | Size            | 83712 bytes                           |
 | MD5             | a9a1a64e072f60c304ec0a1f45ed5af8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔女, 性别身份, 欲望探索, 奇幻, 情感纠葛, 性暗示, 心理变化, 成人向, 二次元, 幻想文学, 自我认知, 跨性别, 色情内容, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

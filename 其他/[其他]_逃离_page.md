@@ -7,7 +7,7 @@ TXT 下载: [[其他]_逃离.doc]([其他]_逃离.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是关于一位男性角色的心理变化和性别转变的小说，描述了主人公在一场梦境中遭遇突如其来的身份变化。他在一种陌生的状态下醒来，发现自己的身体变成了一名年轻女性的形象，整个故事围绕着他在这个新身份下的探索与自我认知的冲突展开。在故事的开头，主人公回忆起过去的婚姻生活和与妻子的冷淡关系，并在生日之际被一条来自已经退坑多年的游戏的短信打断。他抽烟思考着过往，这样的情节给人一种淡淡的忧伤感。随后，故事发展到他在酒店房间内的经历，逐渐因为神秘女人的介入而陷入离奇的境地。他在梦中经历了从男性到女性的转变，情绪复杂，内心产生深刻的反思与冲突。随着情节推进，主人公在变身后的身份中，同时承受着身体和心理的巨大变化，并对这个新身份的感知产生了直接的反应和奇妙的感受。文件内容充满了性别探索、身份认同与个人欲望等主题，涉及的情节生动而细腻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_逃离.doc]([其他]_逃离.doc)
 | Size            | 67584 bytes                           |
 | MD5             | 6372bbdd10c8349f40a9a6c602e39875                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身, 跨性别, 自我探索, 心理变化, 梦想与现实, 身份认同, 社会关系, 人际交往, 欲望与满足, 女性视角, 生活压力, 二次元文化, 成人内容, 都市奇幻, 心理惊悚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

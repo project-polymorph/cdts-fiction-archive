@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_怪人_第一章_怪人現身(下).docx]([皮物]_怪人_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名学生与被称为“怪人”的角色之间发生的幽默故事。故事的主人公『美朱』尝试安慰情绪低落的同学禮奈，后者因“怪人”事件感到沮丧。随着情节的发展，禮奈表现出强烈的决心要捉住怪人，并在不经意间对他发动攻击，引发一系列搞笑的反应。怪人则在这场混战中巧妙地利用烟雾成功逃脱。故事充满了青春气息与轻松的对话，展现了校园生活的多样性与角色之间的互动。文件中涉及的情节不仅引人发笑，也反映了年轻人之间的友谊和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_怪人_第一章_怪人現身(下).docx]([皮物]_怪人_�
 | Size            | 19035 bytes                           |
 | MD5             | 7773a9152a49d4b4636400f97cbe8720                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 怪人, 伪娘, 校园生活, 青春, 幽默, 女性角色, 动作, 变装, 同学关系, 都市传说, 女学生, 反派角色, 性别问题, 身份认同, 潜行, 逃脱计划                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《第七章》.docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一段大学生活的小说，主角在一次班会中思绪飘忽，体会到了朋友李佳宜的认真。在文章中，主角想象着若自己能获得一张美丽的皮肤，如何在外表上欺骗别人，同时内心却是个宅男，体验着角色互换的心理冲突。其中还涉及了对与女同学舒曼的关系的回忆与探讨，反映出大学生之间友谊的纯真与复杂，对彼此情感的微妙变化。文中多次提到平时的校园生活、对人物外貌的刻画以及对人际关系的思考，例如主角对舒曼的描述：“她的外表可以说是标准的萝莉了。”整体故事通过对校园生活的细腻描写，韵味十足地展现了群体青春年少的迷惘与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《第七章》.docx]([皮�
 | Size            | 35197 bytes                           |
 | MD5             | dd32a68f3ae7664e1be806542fdc5809                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 角色互换, 校园生活, 自我认知, 梦想, 友谊, 青春, 心理冲突, 情感探索, 校园恋爱, 内心独白, 二次元, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

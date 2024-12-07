@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【翻译变身】办公室女郎.doc]([变身]_【翻译�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《办公室女郎》的小说讲述了主人公里奇在职场晋升过程中经历的变身故事。里奇原本是东海岸地区市场助理总监，因对女人态度暴躁，以及对于升迁的贪婪而与前女友分手。为了庆祝自己的升迁，里奇在酒后与下属特崔西发生互动，随后在一场魔法的影响下发生了彻底的变身，变成了女性形象的莱利。故事描述了莱利在职场生活中的变化，她逐渐接受了新的身份，最终享受成为“办公室荡妇”的生活。这篇小说涉及了性别转变、自我认同和职场性别动态等主题。内容中包含了一些限制级和性相关的描写，符合伪娘和变身小说的类型，让读者能够思考性别认同与自我探索的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【翻译变身】办公室女郎.doc]([变身]_【翻译�
 | Size            | 34816 bytes                           |
 | MD5             | dbe55a9446c0690a1ff3e05526311d6d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ashleighmae                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 办公室, 性别认同, 伪娘, 自我探索, 魔法, 性别动态, 职场, 性欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

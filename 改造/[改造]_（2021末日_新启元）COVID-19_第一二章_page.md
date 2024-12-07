@@ -7,7 +7,7 @@ TXT 下载: [[改造]_（2021末日_新启元）COVID-19_第一二章.doc]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇小说的开头章节，围绕新冠疫情背景下的角色故事展开。故事通过第一人称的叙述，描绘了主人公与好友田雨儿的互动，涵盖了爱情、友情与职业生活的交织。主人公以生物医学工作者的身份，深刻反思疫情与人类关系，表达了对生命的敬畏与思考。文中融入了许多个人情感及性暗示的桥段，例如对田雨儿挑逗的话语和轻松的对话，展示了两人之间的深厚关系。整篇文章既有对人物心理的探讨，也用幽默的方式反映了人类在复杂情绪下的低级趣味。文中还有对当时时事的反应，含有疫情期间的紧张情绪与科学工作者的责任感，展现了一个复杂故事框架的开端。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_（2021末日_新启元）COVID-19_第一二章.doc]([改�
 | Size            | 50176 bytes                           |
 | MD5             | 87f6ffa204be6134b0f2237152924400                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-01-23                                 |
+| Tags            | 新冠疫情, 友情, 职业生涯, 性转小说, 变身幻觉, 医学背景, 第一人称叙述, 爱情, 幽默, 自我探索, 性欲, 情感纠葛, 都市生活, 医学伦理, 社会反思, 平行宇宙                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

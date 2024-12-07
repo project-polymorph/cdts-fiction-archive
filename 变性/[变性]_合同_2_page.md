@@ -7,7 +7,7 @@ TXT 下载: [[变性]_合同_2.docx]([变性]_合同_2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是由Cheryl创作的一部关于性别转换与角色互换的小说。小说的主要情节围绕着布拉德·西姆斯的变装幻想展开。布拉德原本是一名首席执行官，但主动选择在他的女秘书克里斯蒂安娜·斯通面前降低职位，期望能够享受一个无人问津的“假期”。在接下来的三个月里，他作为克里斯蒂安娜的女秘书贝丽·菲尔德工作。然而，随着合同的到期，他面临着意想不到的挑战。克里斯蒂安娜不仅能够接管他的职务，还能够凭借出色的业绩续任CEO，使得布拉德不得不以女秘书的身份继续工作。随着业务的蒸蒸日上，他的角色和人生轨迹发生了巨大的变化，这不仅令他感到震惊，也在他的内心中引发了深刻的自我探索。通过对日常工作的描述以及换位思考，小说探讨了性别认同、权力关系和自我接受等深刻主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_合同_2.docx]([变性]_合同_2.docx)
 | Size            | 42234 bytes                           |
 | MD5             | c83f68896beeb7446247d64495ac3a44                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Cheryl                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 角色互换, 性别认同, 自我探索, 职场小说, 伪娘文化, 心理冲突, 性转幻想, 女秘书, 商业竞争, 完美主义, 女权主义, 职场关系, 工作交换, 生活方式变化, 心理描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

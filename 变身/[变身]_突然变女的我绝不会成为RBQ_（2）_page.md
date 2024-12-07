@@ -7,7 +7,7 @@ TXT 下载: [[变身]_突然变女的我绝不会成为RBQ_（2）.doc]([变身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容为一篇以性转主题为核心的小说，讲述了角色袁修与其好友常友达之间发生的一系列事件。故事围绕袁修在未知的力量干扰下，意外变身为女性后，与常友达发生了一系列令人瞩目的情感与身体的交互。文中详细描述了袁修在变身后的种种心理变化，以及与常友达之间的关系转变，尤其强调了性别转换带来的身体意识冲突和自我认知的挑战。同时，文中包含大量描绘生理反应与性行为的细节，突出性别认同与自我探索这一复杂主题。整篇小说透过生动的场景与角色内心的挣扎，呈现了当前社会对性别多元性的探讨与反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_突然变女的我绝不会成为RBQ_（2）.doc]([变身]
 | Size            | 50176 bytes                           |
 | MD5             | ebf700c6860edd2fb7436f51ef3fdf82                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 自我探索, 友情, 性别认同, 快感体验, 青春校园, 男娘, 纯爱, 奇幻, 魔法, 恋爱, 年龄差, 都市, 爱情, 小说, 二次元, 角色扮演, 情欲, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《意识转移》第一章.doc]([附身]_《意识转移�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《意识转移》是一部描绘性别与自我认同之间复杂关系的小说，故事的主角王凯为一名清北大学的在读研究生，他在一次地铁上遇见了两位校花，产生了一种强烈的欲望与幻想。小说开篇即展现了主角的内心世界和对女性的吸引，以及他内心渴望成为女性的冲突。在他一系列的自我幻想和与校花的意外接触后，故事转到他的复仇计划。经历了一场误会后，王凯被警方拘留，失去学业，令他愤怒不已，并立下决心进行一项与意识转移相关的实验，欲借此手段对付曾经的校花。故事围绕着他如何操控科技与生物技术去实现自身的幻想展开，折射出对性别认同及欲望的深刻思考。作为一部包含限制级内容的小说，其在情节中不乏挑逗、虐待等元素，涉及性与权力的较量，是一部具有争议的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《意识转移》第一章.doc]([附身]_《意识转移�
 | Size            | 50176 bytes                           |
 | MD5             | 21e260f30eef25f2ce95b0a817b33b14                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 意识转移, 性别认同, 自我探索, 复仇, 奇幻科技, 声明与欲望, 大学生活, 双胞胎, 校园, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_母亲的老板_2_3_和女主人莱克茜.doc]([变装]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一段描写性别认同和性转行为的小说片段，主角经历了一系列的情感冲突与身体上的转变。故事从主角在学校的内心独白展开，他回忆起与名为莱克茜的女性角色之间亲密的互动，内心掺杂着屈辱与快感。主角在恢复正常状态中不断挣扎，试图否认自己对莱克茜的性吸引力，并试图在同伴坎蒂丝中寻找不同的快感。通过一系列的情感变化和身体接触，故事探讨了角色的性别认同和性的 explorations，同时也涉及了校园中的人际关系和性关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_母亲的老板_2_3_和女主人莱克茜.doc]([变装]_�
 | Size            | 52736 bytes                           |
 | MD5             | 24f5296a32859671c350f22c3674c269                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 校园小说, 情感冲突, 自我认同, 性探索, 强制性行为, 二次元, 奇幻元素, 身体转变, 爱情, 调教, 暧昧关系, 强制快感, 禁忌恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

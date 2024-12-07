@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[华代系列]误送.docx]([变身]_[华代系列]误送.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部涉及变身题材的小说，主要讲述了角色华代和谷山之间的故事。华代是一个看似年轻的少女，她以心灵咨询师的身份，帮助处理他人烦恼。开头部分描写了一个面带疲惫的男人谷山，他面临着工作中的困难，由于一次发货错误，导致大量泳装无法退回，生计受到威胁。小说的叙述风格透过华代的角色，展示了她的自信与积极向上的态度，试图帮助他人克服困难。在故事中，随着情节的发展，神秘的变化开始发生，谷山的身体逐渐变得女性化，展现出性别转换的主题。文中通过对谷山变化的详细描写，让读者感受到角色心态和身体的变化，反映出对性别认同与自我探索的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[华代系列]误送.docx]([变身]_[华代系列]误送.d
 | Size            | 21861 bytes                           |
 | MD5             | 7f90043e0311862d30fd2fd2c249bdf3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 跨性别小说, 自我认同, 心理咨询, 女性形象, 名校, 青春, 自我探索, 泳装, 角色变化, 幻想, 青春题材, 二次元, TSF, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

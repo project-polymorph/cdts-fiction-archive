@@ -7,7 +7,7 @@ TXT 下载: [[交换]_西京的晚秋.doc]([交换]_西京的晚秋.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《西京的晚秋》是一部跨性别及性转主题的小说，讲述了主角韩松筠的身份变化和内心探索。故事开始于西京城，描绘了在历史背景下，韩松筠从一位中年男性转变为年轻女性的心路历程。情节围绕政治任务展开，韩松筠被组织派去西京执行重要任务。在这一过程中，她的身份不断带来内心的冲突与外界的挑战。小说通过细腻的笔触展现了韩松筠的青春活力以及对过往身份的怀念，深入探讨了性别认同与自我探索的主题。在她与好友郁翰池的关系中，展现出复杂的情感纠葛，同时该作品也融入了对历史及社会变革的思考。作品兼顾了政治军事与个人情感的交织，并涉及一些成人及性相关内容，表现出性别与权力的错综复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_西京的晚秋.doc]([交换]_西京的晚秋.doc)
 | Size            | 42496 bytes                           |
 | MD5             | 3e364788bdddff6441c6438e66bf8bfc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 自我探索, 历史小说, 情感纠葛, 政治任务, 青春活力, 复杂关系, 西京, 小说, 变身, 二次元, 女性视角, 性转, 女性身体, 社会变革                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

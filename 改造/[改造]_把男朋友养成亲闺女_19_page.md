@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_19.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为伪娘和跨性别相关的小说，标题为《把男朋友养成亲闺女》，由作者Nicegent42创作，翻译者为Lisa2。故事围绕女主贝丽进行性别转换和自我探索的过程。情节开始于贝丽在内华达州的家中，她与心爱的女人曼迪之间的互动，以及贝丽进入一个奇幻的梦境中，梦中被给予女性的形象和身份。在梦中，贝丽经历了各种变化，包括穿着高跟鞋和性感裙子，内心却充满了对自身性别认同的困惑和挣扎。梦中还涉及了其他角色的出现，如坏女巫梅根与女儿坎迪。 上述情节揭示了贝丽对自己身份的探索，以及与周围角色复杂的关系。这些情节同时也涉及性暗示和情色的内容，尽管贝丽从梦中醒来，发现真实的生活又回到了普通的日常中。整个故事展现了对性别认同的深入思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_19.doc]([改造]_把男朋友�
 | Size            | 39424 bytes                           |
 | MD5             | ae888c1e92ff321775a79bc523fbe035                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2022-05-15                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身小说, 梦境, 个人探索, 奇幻, 性别认同, 性别角色, 高跟鞋, 二次元, 青春, 情感纠葛, 复杂关系, 女性视角, 性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_DTX之娇妻.doc]([变性]_DTX之娇妻.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一份关于一位名为何志鸿的技术总监的小说，主要描绘他在被关押在一个无窗、无法逃脱的房间内所经历的心理挣扎和思考。文件中的叙述以何志鸿的第一人称视角展开，他在醒来后发现自己被困在一个看似豪华但又令人不安的环境中。随着时间的推移，他开始反思自己的生活，思念自己的家人，并对自己在纳米机器人领域的职业生涯产生怀疑。故事中，他揭示了自己所从事的技术项目如何从造福人类的目标变成了追逐利益的工具，体现了对科学理想的背叛。此外，文中还描绘了他与公司内其他人的关系，包括王宗硕、王茜及其助手徐兴邦等，揭示了他们如何秘密开展人体改造实验，偏离最初的科学目的。整篇小说深刻探讨了性别认同、个人价值和社会伦理等议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_DTX之娇妻.doc]([变性]_DTX之娇妻.doc)
 | Size            | 221696 bytes                           |
 | MD5             | 5607507d1a2f19f88f709fbbb3ef41af                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变身, 秘密实验, 科技伦理, 心理斗争, 职业生涯, 家庭关系, 人性探索, 自我反思, 囚禁, 求生欲, 情感冲突, 改变与变迁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

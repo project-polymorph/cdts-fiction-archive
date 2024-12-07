@@ -7,7 +7,7 @@ TXT 下载: [[变身]_TG图片.doc]([变身]_TG图片.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了几篇关于变身与变性主题的短篇故事，侧重于性别转换所引发的各种情感和心理变化。第一篇《作为礼物的女仆》讲述了主角扎克在被女巫施法后，昔日的朋友维克托变身为女仆维奥莱特的故事，探讨了角色的身份认同和性别角色的变化。扎克对维奥莱特的新形象和由此产生的情感纠葛感到困惑和惊喜。第二篇《绑架》中，主角被绑架并转变为兔女郎，展现了在强迫情况下性别变化的体验，以及无法逃脱的顺从感。第三篇《疫苗测试》则讲述了一名男性为了金钱接受一种疫苗测试，最终遭遇身体和性别的骤然变化，强调了生理变化带来的恐惧与不安。这些故事探讨了自我认知、身份转变与社会角色的压迫，同时涉及了一些成人情节，适合对跨性别及性别转变主题感兴趣的研究者或读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_TG图片.doc]([变身]_TG图片.doc)
 | Size            | 31744 bytes                           |
 | MD5             | 408966563e64053dd2afe4744f8a0655                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 跨性别, 女仆, 兔女郎, 疫苗, 魔法, 心理变化, 身份认同, 性别角色, 成人情节, 惊悚, 幻想, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

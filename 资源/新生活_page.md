@@ -7,7 +7,7 @@ TXT 下载: [新生活.doc](新生活.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《新生活》是一部关于性别认同与自我探索的小说，通过主人公张扬的视角深刻描绘了他对自我身份的挣扎与渴望。故事从张扬的家庭背景开始，描述他在一个缺乏温暖和理解的环境中成长，母亲在他年幼时将其打扮成女孩，这让他在心里埋下了对女性身份的向往。张扬在工作一天后，回到出租屋中沉浸于女装带来的乐趣，逐渐展开了他的变装生活。小说情节发展至他出门散步时，遭遇了绑架，而绑架者辉与他之间逐渐产生复杂的情感纠葛，辉因对妻子的失去而对张扬产生了情感。故事中不仅探讨了性别的流动性，还涉及了爱情、嫉妒和身份的转变，展现了一段复杂且微妙的情感旅程。最后，张扬代替了辉的亡妻雯，与辉开始了新的生活，流露出关于身份、爱与勇气的思考，以及对自身新生活的追求和反思。整部小说充满了对性别身份及情感的深刻探讨，适合对跨性别及性别认同主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [新生活.doc](新生活.doc)
 | Size            | 32768 bytes                           |
 | MD5             | f08855b4f88610abc97ff4356e8d3952                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变装, 跨性别, 爱情, 心理冲突, 代替身份, 复杂情感, 情感纠葛, 成长, 家庭背景, 强奸, 药娘, 红颜知己, 心灵救赎, 青春, 北漂生活, 自我接受, 夜晚漫步, 身份转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

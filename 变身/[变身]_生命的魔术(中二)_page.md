@@ -7,7 +7,7 @@ TXT 下载: [[变身]_生命的魔术(中二).doc]([变身]_生命的魔术(中�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《生命的魔术(中二)》，是一部关于性别转换与跨性别主题的小说。故事的主角涉及复杂的身份认同和角色互换情节，探讨了在身体变换过程中带来的生理和心理的冲突。文中描写了主角通过手术刀进行身体互换的过程，详细刻画了在此过程中对身体和自我认同的感受。故事中的角色阿宁在经历身体结构的变换后，承受了身为女性的生理缺陷与情感负担。文中不仅涉及对外部形象的描写，还有对角色内心的细腻体察。全篇语言直白而露骨，含有一定的限制级及性相关内容，因此适合目标读者群体进行学术研究和探讨，也提醒读者理性看待其中的情节与主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_生命的魔术(中二).doc]([变身]_生命的魔术(中�
 | Size            | 45056 bytes                           |
 | MD5             | 6f827a578bbcb967838163bb1ca94af3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 身体互换, 人物认同, 医院, 手术, 女性形象, 情感冲突, 创伤后成长, 重塑身份, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

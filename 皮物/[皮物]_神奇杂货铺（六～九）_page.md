@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_神奇杂货铺（六～九）.docx]([皮物]_神奇杂货
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此档案馆中的文本文件《神奇杂货铺（六～九）》主要描述了一间魔幻杂货铺的奇特经历。故事围绕一位名叫林晓的男性角色，他在柜台后无聊地翻阅员工手册时，吸引了一名性感的风俗女子进入店内。该女子询问是否有出售安全套，并进一步探讨了自己被他人操控的心愿。林晓随后向她展示了杂货铺里能够帮助实现心愿的道具，包括一张神秘的贴纸和喷剂。在女子尝试这些道具后，她的身体发生了惊人的变化，林晓通过这些道具实现了对女子身体的控制。这一过程中展现了性别转换、操控与被操控的情感，以及对身体和身份 perplexity 的探索。此小说包含了明显的成人内容和对性主题的描绘，展示了角色内心的欲望和自我认知的冲突。文本中有更为露骨的性行为描写，适合成年人阅读并用于研究性别角色及其相关话题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_神奇杂货铺（六～九）.docx]([皮物]_神奇杂货
 | Size            | 62216 bytes                           |
 | MD5             | b6054d82d6dd9508e6e94e0709741cd5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, SM, 操控, 强奸, 乱伦, 纯爱, 逆后宫, 药物, 奇幻, 二次元, 成年内容, 放纵, 自我探索, 身体交换, 委身, 魔法, 文学作品                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

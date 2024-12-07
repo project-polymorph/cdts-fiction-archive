@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《进击的勇者》第二章（故弄玄虚的情节和�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《进击的勇者》第二章，主要讲述了一个发生在古老小城废墟“黑风寨”中的故事。在这里，居住着一群被称为黑风盗的匪徒，他们以凶狠和残忍著称，经常进行劫掠和性奴役。故事集中描绘了黑风盗老大黑旋风的暴行，他从一次劫掠中抢到了一位被描述为‘娇媚性感的大美人’的女性。在这段情节中，具体描述了黑旋风与这位女性之间的极为露骨的性行为，包括言辞和情感的交织，暗示着角色之间的动态。然而，随着情节的发展，赫劳鲁安——原本的勇者，神秘地变成了犬耳娇娘，面临着身份转变带来的新刺激。这种性别与身份的交错体验，令她陷入对自己新身体的探索与认同之中。文件整体内容包含性转、跨性别的情节，以及大量图像化的性描述，旨在探讨性别认同、自我接受与变迁中所涉及的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《进击的勇者》第二章（故弄玄虚的情节和�
 | Size            | 62976 bytes                           |
 | MD5             | 4d9adc32d2122d439aaa0c0891627135                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性转, 黑风寨, 黑风盗, 暴力, 强奸, 淫荡, 角色转换, 自我认同, 兽耳娘, 古代奇幻, 色情, 尖耳少女, 幻想文学, 性奴隶, 爱情与欲望, 流行文化, 成人内容, 二次元, 幻想世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

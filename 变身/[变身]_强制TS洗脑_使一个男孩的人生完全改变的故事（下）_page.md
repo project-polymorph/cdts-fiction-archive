@@ -7,7 +7,7 @@ TXT 下载: [[变身]_强制TS洗脑_使一个男孩的人生完全改变的故�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件《强制TS洗脑 使一个男孩的人生完全改变的故事（下）》主要描绘了一个男孩在经历强制性别转换与心智洗脑的过程中，对自己性别认同的挣扎与变化。故事中，男主角在反复的暗示与操控中，逐渐开始憧憬成为女孩子，表现出强烈的内心斗争和渴望放弃男性身份的情感。文本具体描绘了他对自身生理特征的厌恶，及对女性生殖器的好奇与向往。文中多次出现对话，如“我想放弃当男孩子。”及“我想成为女孩子。”表现了他内心的转变。同时，文件内容也涉及一些敏感和成人向的情节，内容对于性别认同、自我探索及心理冲突的表现，旨在探讨性别流动性和社会构建的性别身份。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_强制TS洗脑_使一个男孩的人生完全改变的故�
 | Size            | 89088 bytes                           |
 | MD5             | 6c071ce2ab49d9ee86539df49b447b09                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 强制洗脑, 心理操控, 性别认同, 自我探索, 暗示, 内心挣扎, 伪娘, 男性向女性的转变, 性别流动性, 社会性别, 成人内容, 精神操控, 心智变化, 幻想, 二次元, 情感冲突, 性别转换故事, 虚构情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_疯狂科学家的宠物（2）.docx]([变身]_疯狂科�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇描绘性别转变和心理变化的小说摘录，主要讲述了一位女性角色在被一个疯狂的科学家进行实验后，经历了身体和心理上的双重转变的故事。故事中，女性角色简妮在手术后经历了从男性自我到女性身份的转变，思维能力也逐渐丧失，取而代之的是对性别角色和欲望的新认识。文本提及了她对新身份的抗拒与接受，感受到对身体的渴望和对实验者的情感依赖。在经历重塑的过程中，她的心智被重新生成，最终变成了一个顺从只追求幸福与爱的角色。整个过程中使用了大量性暗示和性行为的描写，涉及了脆弱与强势的主题，展现了性别认同的复杂性和压迫感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_疯狂科学家的宠物（2）.docx]([变身]_疯狂科�
 | Size            | 25728 bytes                           |
 | MD5             | a5d8224536e03ef3189e45909acf0107                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 心理转变, 性欲, 生育, 效忠, 身份认同, 性别角色, 强制, 精液, 女性化, 实验, 爱与恨, 自我探索, 愚蠢花瓶, 媚态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

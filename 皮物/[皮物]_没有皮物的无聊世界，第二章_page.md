@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_没有皮物的无聊世界，第二章.docx]([皮物]_没
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件内容为一部性转题材小说的第二章，主要围绕角色神崎真秋的生活展开。她曾是个中二病患者，努力想要改变自己的印象，但在新的环境中仍旧被同学视为怪人。故事中描述了她的服装选择，例如她穿着奇怪的哥特式连衣裙去上课，展现出她的内心冲突和对自我的认同。随着快递的到来，真秋以为是自己网购的cosplay服装，但却意外地打开了一个充满神秘的箱子，这个箱子引发了她的身体反应，导致她昏倒。后续出现了潜在的危险和悬念，提到了一些其他角色如陈清扬和流求，他们似乎正在寻找真秋的下落。文本中的环境描写和人物心理活动传达了性别认同和自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_没有皮物的无聊世界，第二章.docx]([皮物]_没
 | Size            | 40586 bytes                           |
 | MD5             | 36afbd35179328a02fbad6b44b8475b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 神崎真秋, 中二病, 服装选择, 角色认同, 自我探索, 悬念, 快递到达, 变身, 青春校园, 哥特式风格, 角色互动, 快递员, 未知危险, 漫画改编, 校园生活, 女性视角, 心理冲突, 虚拟现实, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

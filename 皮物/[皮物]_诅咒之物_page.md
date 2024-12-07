@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_诅咒之物.docx]([皮物]_诅咒之物.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《诅咒之物》，描述了一位名叫阿哲的年轻人在回家途中，因异常敏感的能力而感受到周围的灵异现象。阿哲能看到他人看不见的鬼魂，这让他感到孤独和恐惧，心中压抑着不敢与他人分享。文中描绘了阿哲与鬼魂的互动，特别是他目睹了一位曾因车祸而死去的鬼魂，表现出对过去的懊悔与无奈。随着情节的发展，阿哲在一次昏厥后失去了与鬼魂的连接，回到了正常人的生活中。然而，故事的新转折在于，当他遇到了一位神秘的外国女性后，其内心与身体的欲望被唤醒，描绘了一段充满异域魅力与暧昧情感的经历。整个故事融合了灵异、欲望与身份认同的主题，展现了阿哲在面对内心的恐惧与外部诱惑时的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_诅咒之物.docx]([皮物]_诅咒之物.docx)
 | Size            | 28132 bytes                           |
 | MD5             | df8e0223029ddaf4d9841ea2a4178647                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 鬼魂, 灵异, 少年, 欲望, 异国情调, 变身, 自我探索, 恐惧, 爱情, 强烈冲突, 人生经历, 蓄意引导, 无可避免的选择, 成长, 青春探索, 神秘女性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

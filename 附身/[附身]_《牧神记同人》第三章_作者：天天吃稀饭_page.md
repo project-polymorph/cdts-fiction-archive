@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《牧神记同人》第三章_作者：天天吃稀饭.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《牧神记同人》第三章的内容，主要围绕角色秦牧与狐灵儿之间的日常互动以及对青楼堂主付馨允的初次见面。文中狐灵儿以变身后的形式与付馨允的关系亲密，展现了调皮活泼的一面，描绘了她对付馨允的依恋和对新形态的喜悦。故事中包含了一些轻松幽默与暗示性的性暗示，例如狐灵儿对付馨允身体特征的赞美与调侃。同时，文本中还揭示了其他角色对男女间关系的看法，展示了一种复杂的情感交织。整体情节涉及性别认同与角色关系的探索，中间穿插了轻松而带有媚态的对话，似乎在探索角色的自我认知与社交互动，且对人物的外貌、服装等进行了细腻的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《牧神记同人》第三章_作者：天天吃稀饭.do
 | Size            | 47936 bytes                           |
 | MD5             | 422649b261809ba4ac9c82dbd6b86948                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 天天吃稀饭                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 兄妹关系, 青楼, 调情, 幻化, 女性形象, 自我认知, 情感互动, 日常生活, 伪娘, 男娘, 强奸, 乱伦, 逆后宫, 百合, 变嫁, 雌堕, 触手, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

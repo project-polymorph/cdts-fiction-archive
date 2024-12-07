@@ -7,7 +7,7 @@ TXT 下载: [[变性]_天下第一之风情万种曹公公（2）.doc]([变性]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档是一部关于性别转换、伪娘和跨性别主题的小说，名为《天下第一之风情万种曹公公（2）》。故事的主线围绕着曹正淳，一个生理性别为男性却被阉割的太监，他意外穿越到古代，运用武功秘籍葵花宝典，以及蕴含强烈自我认知冲突的采阴补阳大法，逐步接受自己的新身份，并以女性形象存在。在小说中，曹正淳通过不断的性别认同与身体改造，最终变身为一个美丽的女性角色，吸引皇帝与其他男性的注意。故事不仅描绘了权力与欲望的纠缠，也涉及到对身份和自我的探索，比如曹正淳对自身性别的接受与抗拒，以及对爱的幻想与追求。小说的叙述风格大胆，包含了大量性暗示及成人内容，情节涉及激烈的情感冲突和生理行为，特别是与皇帝的关系。整体写作风格具有二次元文化色彩，吸引了对变身和性别融合作品感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_天下第一之风情万种曹公公（2）.doc]([变性]_
 | Size            | 34304 bytes                           |
 | MD5             | 8374cffd568fb9968d8ceb867d56db1c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 跨性别, 变身, 权力斗争, 自我认同, 古代中国, 情感纠葛, 变嫁, 强烈欲望, 心理冲突, 二次元文化, 成人内容, 宫廷争斗, 身份探索, 暴力与强奸, 男女性别模糊化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

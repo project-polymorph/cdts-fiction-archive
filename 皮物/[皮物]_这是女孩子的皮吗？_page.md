@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_这是女孩子的皮吗？.docx]([皮物]_这是女孩子
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含一篇关于伪娘变身的幻想小说，讲述了一个角色通过穿上特制的人皮，变成女孩子的经历。故事中描绘了角色在购买了变身产品后，经过种种尝试和探索，将自身转换为女性的冒险。章节内容包括角色对变身产品的疑虑、预期及购买过程，结合幽默和惊讶的语气，展现了角色从穿上人皮到变成女孩子的心路历程。特别地，文件通过详细描写角色的感官体验和心理变化，展现了变身过程中的新奇、羞怯和兴奋感，以及在社会性别角色中的探索。文本中的部分画面涉及性别认同及自我探索，适合研究跨性别和性别流动的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_这是女孩子的皮吗？.docx]([皮物]_这是女孩子
 | Size            | 33802 bytes                           |
 | MD5             | a1fbe9a1959abd935e23d2c4c99a7135                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 跨性别, 幻想小说, 二次元, 人皮商品, 角色扮演, 自我探索, 性别转换, 青春, 羞耻感, 兴奋, 购买体验, 服装变化, 性感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

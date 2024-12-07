@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（申码文重发）精灵的店铺.doc]([皮物]_（申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这个文本讲述了一个名叫陈文的男孩与精灵女孩小唯之间的奇幻故事。陈文来到小唯的精灵店铺，渴望在这里寻找到能帮他复仇的神奇道具。在这个店铺里，贩卖着各种独特的奇珍异宝，而小唯作为店主，按照家族的祖训，只能将一种道具卖给自己认可的人。小唯非常兴奋，渴望能多与陈文互动，但陈文内心却隐藏着阴暗的目的。他通过合同获得了一种名为“设定修改器”的道具，可以更改他和小唯之间的关系。当陈文使用这个道具后，小唯的身体开始发生变化，对陈文表现出顺从，而陈文则显露出他的阴险与复仇计划。整个故事围绕着陈文的计划、对小唯的操控以及他对自己姐姐的复仇展开，涉及了深厚的阴暗情感和复杂的人际关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（申码文重发）精灵的店铺.doc]([皮物]_（申�
 | Size            | 48128 bytes                           |
 | MD5             | f7aa8ce2efea0a3223cbf50248242ca0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 精灵, 变身, 复仇, 催眠, 道具, 操控, 阴暗心理, 奇幻, 自我认知, 魔法, 契约, 跨性别, 伪娘, 男娘, 调教                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

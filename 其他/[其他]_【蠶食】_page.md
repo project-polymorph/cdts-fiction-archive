@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【蠶食】.doc]([其他]_【蠶食】.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别相关的小说《蠶食》的文档，描绘了一段围绕尚智、他的女友以及交错的情感关系的故事。故事开篇描写了一个餐厅场景，女孩喬安娜因男友尚智与学妹之间的误会而情绪失控，引发一场公开的争吵。尚智表现出冷静与成熟，与喬安娜的高强度情感形成鲜明对比。同时，文中插入了展现尚智与前女友小美之间复杂爱情历程的回忆，引出他对真爱的探寻与无奈。随着情节的发展，尚智*在多个女友之间反复寻找那份温柔与忠诚，但每一段感情最终都以分手告终。新女友慶齡的引入让故事出现了新的转折。她性格温和、细心，与尚智的默契逐渐加深，但喬安娜的干扰与突如其来的事件又让慶齡深陷危险之中。故事探讨了占有欲、情感的独占与信任等主题，并包含性别认同的元素。文中多次用到类似“妳的便當”这样的生活细节，为情感的描绘增添了真实感。但整体文本中涉及一些暗示性和强烈情感内容，涉及冲突、嫉妒等值得研究的心理议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【蠶食】.doc]([其他]_【蠶食】.doc)
 | Size            | 47616 bytes                           |
 | MD5             | e8994b4b9ea9a3e3fc793791398f6a00                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 情感纠葛, 校园爱情, 占有欲, 自我认同, 角色关系, 变身, 情感探讨, 青春, 情感冲突, 文学创作, 性别认同, 伪娘, 强烈情绪, 多角恋, 风险与信任                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

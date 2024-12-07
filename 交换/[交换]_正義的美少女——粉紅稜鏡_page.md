@@ -7,7 +7,7 @@ TXT 下载: [[交换]_正義的美少女——粉紅稜鏡.docx]([交换]_正義
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是有关一位名为‘粉红稜镜’的正义美少女的短篇小说。故事描绘了一个神秘组织在日本街道上的恶行和粉红稜镜如何运用其超能力与之抗争。随着情节的发展，粉红稜镜在一次与怪人的对抗中，发生了一系列奇怪的事情，包括怪人的奇怪变身与身体的变化。故事充满了幻想与奇幻的元素，揭示了角色立场变化后的心理斗争。文中不仅展示了粉红稜镜的可爱形象，同时描绘了战斗场景与紧张气氛，体现了英雄与反派之间的对抗。最后，粉红稜镜以其独特的招式‘稜鏡——彩虹’惊艳登场，给人留下深刻印象。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_正義的美少女——粉紅稜鏡.docx]([交换]_正義
 | Size            | 18961 bytes                           |
 | MD5             | 845318cee811f8ecdbf17b39084ff688                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 正义美少女, 粉红稜镜, 变身, 幻想战斗, 邪恶组织, 角色扮演, 身体变换, 自我认知, 奇幻, 超能力, 街道战斗, 心理斗争, 二次元, 性别角色, 反派, 英雄主题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

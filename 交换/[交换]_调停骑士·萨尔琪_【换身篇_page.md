@@ -7,7 +7,7 @@ TXT 下载: [[交换]_调停骑士·萨尔琪_【换身篇.docx]([交换]_调停
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《调停骑士·萨尔琪·换身篇》是一部以奇幻背景为设定的性转小说，讲述了精灵骑士萨尔琪接受任务，前往名为玛刻的村庄探查失联事件的故事。在故事的开头，萨尔琪展现了其出色的骑术及战斗能力，她身为调停骑士，负责维护村庄的和平与稳定。随着情节的发展，萨尔琪遭遇了一名试图对女性进行欺凌的农夫，表现出她无畏的战斗风格和对维护正义的执着。文中描绘了萨尔琪的外观、装备和心理状态，同时通过她与村庄人们的互动，探讨了性别身份、自我认同等主题。该作品结合了骑士冒险、性别变换和奇幻元素，适合对性转、跨性别题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_调停骑士·萨尔琪_【换身篇.docx]([交换]_调停
 | Size            | 36398 bytes                           |
 | MD5             | 33768260b2c469e9c63542184d87f994                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 调停骑士, 奇幻, 冒险, 跨性别, 女性战士, 正义, 勇气, 精灵, 自我探索, 改变, 奇幻世界, 战斗情节, 反抗欺凌, 角色发展, 情感纠葛, 性别认同, 叙事, 17岁以上, 丰富细节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

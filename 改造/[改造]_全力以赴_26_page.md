@@ -7,7 +7,7 @@ TXT 下载: [[改造]_全力以赴_26.docx]([改造]_全力以赴_26.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是小说《全力以赴》的第26章，主要讲述了角色凯拉·马隆在音乐事业中的进展和与合作者之间的互动。章节开始时，朱儿丝向凯拉分享了关于他们项目的详细进展，包括销售和利润的情况，以及即将进行的单曲发布。西蒙和朱儿丝讨论了第二首单曲的发布事宜，认为《不是跳舞，而是飞翔》将展示凯拉的多样性，吸引更广泛的听众。与此同时，角色间的关系也得到了进一步的发展，例如凯拉与赫比的合作，以及与劳拉的交流。文中提出了关于个人情感和职业前景的反思，显示出角色的内心世界与职业生活的交织。内容中还涉及了一些关于音乐视频的安排，以及角色们对各自关系的探索和认知。整体内容围绕性别认同与自我探索的主题，有助于深入理解角色的心理与情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_全力以赴_26.docx]([改造]_全力以赴_26.docx)
 | Size            | 42879 bytes                           |
 | MD5             | a9730940a82ff85b518f2a1ed7a74a88                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 音乐, 流行文化, 自我探索, 情感关系, 职业发展, 跨性别, 伪娘, 二次元, 性别认同, 创作灵感, 合作关系, 角色发展, 多样性, 娱乐产业                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_破碎拼圖（七）.doc]([附身]_破碎拼圖（七）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《破碎拼图》第七章，内容围绕角色水晶与倩珊之间的情感与性爱场景展开。故事情节丰富，讨论了欲望、身份认同和身体体验等主题。在这一章中，水晶和倩珊在浴室中展开了一场充满情欲和挑逗的身体接触，场景生动描绘了他们之间的互动与情感交流。特别值得一提的是，水晶提到其「性能力」的复活，以及对身体探索的心理与生理双重体验，展示出性别与身份变换的复杂性。此外，本章涉及多次性行为的详细描述，包括一些特定的性技巧和心理活动，反映了角色在性欲与个人欲望之间的挣扎。整篇作品在语言上颇具挑逗性，同时也在探索性别和自我认同方面提供了一些思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_破碎拼圖（七）.doc]([附身]_破碎拼圖（七）.
 | Size            | 38912 bytes                           |
 | MD5             | d4ef432e8babb6c33c369b7c9fd9fe7d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 水晶                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 肉戏, 浴室, 情欲, 自我探索, 深入探讨性别, 性行为, 强烈的心理冲突, 挑战与接受, 变嫁, 爱情, 男性视角, 女性视角, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

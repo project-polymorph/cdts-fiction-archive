@@ -7,7 +7,7 @@ TXT 下载: [[交换]_性換想事件短篇集_-_校園篇.docx]([交换]_性換
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《性换想事件短篇集 - 校园篇》，讲述了一系列围绕身体交换事件的短篇故事。在这些故事中，主角们的性别和身体发生了变化，呈现出对于性别认同、自我探索的复杂情感与冲突。故事的主要内容围绕一名叫靖任的男生，他在一次醉酒后与小学同学玉琪交换身体，形成了一系列探索和认知的过程。通过这种身体互换，角色们须适应新的生理身份，同时面对由此产生的欲望与自我认知。而在另一个故事中，名为恩瑜的女孩也因身体交换而经历了尴尬和痛苦，尤其是与她原本讨厌的同学志豪发生了身体互换，导致了她不得不面对的个性转变和内心的抗拒。这些短篇交织着幽默、病态和心理挑战，让人思考性别的流动性和身份的多样性。文件内容涉及强烈的性暗示和成人情节，包括高潮情景和身体恢复，使用了大量具有争议性的语言和情节描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_性換想事件短篇集_-_校園篇.docx]([交换]_性換
 | Size            | 23540 bytes                           |
 | MD5             | 1432b930eacad3483b351ae802238ff6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别互换, 伪娘, 跨性别, 青春校园, 性探索, 奇幻, 心理冲突, 自我认知, 成人电影, 情感复杂, 强烈快感, 身体交换, 成人小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

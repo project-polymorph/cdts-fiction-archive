@@ -7,7 +7,7 @@ TXT 下载: [[交换]_平凡的日常生活（下）.doc]([交换]_平凡的日�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《平凡的日常生活》（下）的文本部分，主要描绘了角色‘和贵’的日常生活以及心理变化。故事从和贵醒来开始，描述了她在性别认同后的适应过程，包括选择衣物、化妆，以及搭乘女性专用车厢的经历。文中细腻地描绘了‘和贵’的衣着搭配，尽量保持了女性形象，同时描绘了她的内心想法与性别认同的冲突。此外，文件通过‘和贵’与同事美辉、小杉明子之间的互动，展现了职场中性别角色的复杂性和女性特有的社交情境。故事中也涉及到对夜总会的讨论，反映出对于性别角色的社会认知和对主流文化的反思。整篇文章情节流畅，带有轻松的生活气息，但同时也揭示了性转后的心理变化与对自我认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_平凡的日常生活（下）.doc]([交换]_平凡的日�
 | Size            | 700928 bytes                           |
 | MD5             | 1446b42fdc8cb197a56d4596a742c086                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 自我认同, 日常生活, 性别角色, 职场情感, 女性朋友, 夜总会, 性别冲突, 心理变化, 衣物选择, 情感交流, 女性视角, 日常穿搭, 生活观察, 都市生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮之种8（续貂）.docx]([皮物]_皮之种8（续貂�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《皮之种8（续貂）》的文档内容摘录，属于伪娘 TS 变身与跨性别相关小说的一部分。文本开始于一个清晨，角色瑞希与千代子在车站相遇，并展开了一段温暖而略显暧昧的对话。随着情节的发展，涉及到角色之间的亲密互动，如瑞希抚摸千代子的头，暗示角色之间的亲密关系。故事中还涉及到了一些角色的校园生活和社交互动，展现了他们之间的友情与紧张关系。随着剧情推进，个别角色似乎在处理自我认知与外界交互中的冲突，这代表了性别认同和自我探索的主题。文本中包含一些可能的情感和心理上的复杂情境，且可能涉及限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮之种8（续貂）.docx]([皮物]_皮之种8（续貂�
 | Size            | 36411 bytes                           |
 | MD5             | 87e05fd60fc74c0d255e2d63144d0839                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 嵐山GO                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 校园生活, 情感纠葛, 自我探索, 性别认同, 温馨对话, 青春戏剧, 复杂关系, 亲密互动, 社会互动, 友情, 故事发展, 情感深度, 心理冲突, 日常生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_桃花源.doc]([皮物]_桃花源.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说主要围绕男主角姜毅与新转来的同学陈瑾雯之间的微妙关系展开。姜毅对陈瑾雯的神秘感和美貌产生了强烈的好感，尽管瑾雯在班上表现得很冷漠和内向。小说通过细腻的心理刻画展现了姜毅暗中关注瑾雯的心理变化。随着剧情推进，姜毅不顾自己受到的指责，最终选择保护瑾雯，揭示了她受欺负的情境。在某个意外事件后，姜毅发现了瑾雯的真实身份，原来她的样貌是用仿真人皮制作的，背后隐藏着不为人知的悲惨故事。瑾雯的身份揭示和她家族在暗中进行的研究暗示了更大的阴谋，整个故事融合了青春爱情与悬疑惊悚的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_桃花源.doc]([皮物]_桃花源.doc)
 | Size            | 51200 bytes                           |
 | MD5             | e1f7a4d6af7d05b9fad19259dc9b5b3e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 青春, 爱情, 操控, 悬疑, 生化危机, 人际关系, 伪娘, 变身, 校园, 反欺凌, 科技幻想, 性别认同, 心理学, 自我探索, 家庭关系, 情感心理, 神秘, 特异体质, 医院, 实验室                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

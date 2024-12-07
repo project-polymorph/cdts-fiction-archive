@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我家女友不定形【第四章】.doc]([皮物]_我家�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇关于性别认同与自我探索主题的变身小说，着重描绘了主角李林与伪娘修依之间的关系发展。故事开始于李林早晨醒来后，沉醉于身穿的皮物所带来的舒适感，并描绘了他与修依的互动。修依渴望能够和李林一起过普通人的生活，表达了她想要与他一起上课和享受生活的期待。本文通过细腻的心理描写展示了李林在面临性别认同困惑时的内心挣扎，以及他对修依的珍视与责任感。修依作为一名异星生命，希望通过模仿与变身来接近人类的生活，展现出对身份的渴望与认同的复杂性。故事中的情感细腻且富有深度，同时涉及对性别角色与人际关系的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我家女友不定形【第四章】.doc]([皮物]_我家�
 | Size            | 59392 bytes                           |
 | MD5             | 46df805ddaca400c88fe9b71a4f854ce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 伪娘, 变身, 情感困惑, 爱与责任, 校园生活, 变装, 角色扮演, 心理描写, 异星生命                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

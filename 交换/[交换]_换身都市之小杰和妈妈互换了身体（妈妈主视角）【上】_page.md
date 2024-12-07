@@ -7,7 +7,7 @@ TXT 下载: [[交换]_换身都市之小杰和妈妈互换了身体（妈妈主�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讲述了一位母亲和其儿子小杰之间互换身体的奇幻故事。故事围绕她的孤独和对丈夫的思念展开。母亲是全职太太，日常生活中感到无聊，而小杰作为一个普通的小学生，也有着他的天真和调皮。母亲意外收到了一台由丈夫公司寄来的名为“精神互换仪”的设备，使用后她与小杰的身体意外互换。故事中出现了许多关于性别和身体的荒诞想象，以及母子在彼此身体中探索的场景，暗示了他们对自身性别的认知与好奇。整篇文章包含多个露骨的性别及性描写，揭示了深层的心理探索与禁忌关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_换身都市之小杰和妈妈互换了身体（妈妈主�
 | Size            | 25483 bytes                           |
 | MD5             | bbff343507f22a78c44015459555c4cc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 精神互换, 母子关系, 性别探索, 禁忌, 幻想, 身体交互, 精神互换仪, 性别认同, 荒诞故事, 性欲觉醒, 孤独, 全职太太, 男孩, 女性视角, 奇幻, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

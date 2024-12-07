@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】出错的身份.docx]([变性]_【翻译】出
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一则名为《出错的身份》的魔幻与科幻主题的变身小说，原著为Jennifer Redmon。本小说描述了詹姆士·史蒂文逊在万圣节前夕与妻子玛莉的化妆活动，以及意外卷入了一场生死未卜的危险之中。詹姆士为万圣节打扮成女性的过程展现了他对自己性别认同的特殊探索，同时在化妆和装扮中体现出跨性别的元素。故事发展至两名壮汉闯入其家中，因朋友未还债务而将夫妻俩带入男子俱乐部工作，情节深入探讨了自我认知、性别角色以及对未知的恐惧感。在被迫穿上性感的女侍应制服、接受催眠的信息后，詹姆士渐渐被灌输成为“美鳕”的身份，故事充满张力与复杂的心理斗争。整体情节聚焦于变身、性转和性别认同等主题，并成为对跨性别人士自我探索过程的细腻描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】出错的身份.docx]([变性]_【翻译】出
 | Size            | 50525 bytes                           |
 | MD5             | 55bedaedfb4ae6386756f4546eff833f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 性别认同, 魔幻, 万圣节, 变嫁, 妻子, 鸡尾酒女侍应, 男性化妆, 自我探索, 催眠, 俱乐部, 债务关系, 性感角色, 心理斗争, 变装, 情感纠葛, 熟女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

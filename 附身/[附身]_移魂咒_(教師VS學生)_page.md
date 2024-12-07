@@ -7,7 +7,7 @@ TXT 下载: [[附身]_移魂咒_(教師VS學生).docx]([附身]_移魂咒_(教�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《移魂咒 (教师VS学生)》的前篇，叙述了一名四年级大学生李启的奇幻经历。他通过手机收到的咒语，意外转移了自己的灵魂到女类队员的身体，然后又复仇性地转移到女教师赵金丽的身体。然而，这种转变也带来了前所未有的感官体验，让他陷入迷恋。在故事中，主角与他的朋友之间讨论了移魂咒的过程，以及对赵老师的性格看法，引发了一系列关于性别转换与权力的探索。这部小说围绕性别认同和自我探索的主题，描绘了角色在性别转换后所经历的心理变化和情感冲突，尤其是当男主体验到女性身体后所带来的新奇感和快感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_移魂咒_(教師VS學生).docx]([附身]_移魂咒_(教�
 | Size            | 45632 bytes                           |
 | MD5             | 93fcae9c541f5cdd4c4128ff270af70e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 教师与学生, 灵魂转移, 奇幻, 校园小说, 性别认同, 男女性别角色, 友情, 自我探索, 身体感知, 情感纠葛, 变嫁, 心理冲突, 年龄差, 调教, 春药, 逆后宫, 恶魔                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

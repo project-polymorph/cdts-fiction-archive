@@ -7,7 +7,7 @@ TXT 下载: [[改造]_迷离之境（一）.doc]([改造]_迷离之境（一）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇围绕性别角色转换及其对个体自我认知和生活轨迹影响的小说，主要以19岁少女的视角展开。故事以主人公在家庭突遭变故后，经历内心的挣扎与转变为主线。她从一个被宠爱的小公主，因父亲欠债导致家庭破裂，最终孤身一人来到陌生的小城市，在红灯区作为坐台小姐生活。文中详细描绘了主人公从幸福到绝望的心理变化，以及她对于自身身份的重新定义。在经历种种磨难后，主人公更改名字以示逃避过去的生活，并逐渐接受现在的自己。文章涉及性别认同、社会底层生活、绝望与求生等主题，充满了对于人性的探索与反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_迷离之境（一）.doc]([改造]_迷离之境（一）.
 | Size            | 43520 bytes                           |
 | MD5             | f6baf240047ce3e8d2a10006f5a11fed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 绝望人生, 性别转换, 都市生活, 红灯区, 心理挣扎, 女性视角, 低层生活, 家庭破裂, 幸福与孤独, 职场挑战, 人生转折, 身份认同, 成长痛苦, 超现实主义, R18内容, 伪娘角色, 性别角色变换, 性别冲突, 情感创伤                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

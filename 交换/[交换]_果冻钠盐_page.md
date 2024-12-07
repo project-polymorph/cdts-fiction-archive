@@ -7,7 +7,11 @@ TXT 下载: [[交换]_果冻钠盐.docx]([交换]_果冻钠盐.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件名为《果冻钠盐》，作者为toshi9，翻译者为uu9934。故事围绕17岁的高中生木本雛子展开，她在日常生活中感到一股无形的视线伴随而来，令她颇感不安。雛子的生活中有两个亲密的朋友，共同经历青春的烦恼和愉悦。故事从她与朋友分享视线感受的对话开始，逐渐展开她对友情、家庭关系和自我认同的探索。
+
+在故事中，雛子与朋友们一同讨论即将到来的活动计划，但雛子却对母亲关于朋友真希的负面评价感到愤怒，她坚持认为真希并没有变坏。母女之间的误解，以及雛子对生活中种种困惑与压力的反应，也揭露了青少年在寻求自我认同过程中的挣扎。
+
+此外，文本中展示了雛子对朋友的深厚情感，同时也描绘了她在快节奏的都市生活中所承受的孤独与无助。在遇到一个陌生大叔时，雛子在绝望中体验到了社会对女性的复杂目光，包括友善的关怀与潜在的危险，使得故事在推展情节的同时，也引发了对性别与身份的深层思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[交换]_果冻钠盐.docx]([交换]_果冻钠盐.docx)
 | Size            | 35810 bytes                           |
 | MD5             | 6bdf0eb93141b481580db97dff1eb8aa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | toshi9                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 青春, 自我探索, 友情, 家庭关系, 性别认同, 都市生活, 心理健康, 青少年, 情感纠葛, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

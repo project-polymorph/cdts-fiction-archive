@@ -7,7 +7,7 @@ TXT 下载: [[交换]_メイドカフェで集団入れ替わり(女仆咖啡馆
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了发生在东京秋叶原的一次奇幻经历，主要围绕一位男客人访问女仆咖啡馆的过程。他在受到女仆们热情迎接后，慢慢沉浸在女仆独特的服务与氛围中。故事中的女仆长安妮以其冷静优雅的形象，引导着客人体验女仆文化的魅力。然而，随着故事的深入，客人的内心欲望开始浮现，最终导致了一场身体的交换与魔法的发生。小说探讨了性别与身份认同的问题，通过幽默与幻想相结合的叙述方式，完成了从男性交互到女仆角色体验的转换。作品中包含一些限制级的内容因素，通过对角色关系的探索和性别角色的重新定义，展示了多元的性别体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_メイドカフェで集団入れ替わり(女仆咖啡馆
 | Size            | 68096 bytes                           |
 | MD5             | b43759381a79fa52fd42c739e052d0e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ごみんと                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 女仆咖啡, 性别转换, 幻想, 身份认同, 男女主角互动, 东京, ACGN文化, 魔法, 角色扮演, 女仆文化, 强烈暗示, 身体交换, 恋爱, 调教, 跨性别, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

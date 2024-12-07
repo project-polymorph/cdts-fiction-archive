@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮术士,21,尸妖.docx]([皮物]_皮术士,21,尸妖.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于苏翎这个角色在异世界中的冒险故事的小说，属于伪娘、变身和跨性别题材。故事开头，苏翎作为穿越者展现出充沛的自信，向国王阐述他能够传授一些该世界中不存在的技术，获得了国王的信任并成功借出财富以实现自己的计划。他的目标是提升自己的力量，而非单纯获取财富。随着故事的发展，苏翎参观了一个充满各种标本的博物馆，特别是尸妖的标本，这引起了他的浓厚兴趣。他被告知尸妖具有制造和吞噬‘原液’的特殊能力，这种能力是他所需的力量来源。苏翎最终决定让自己转化为原液，以便能进一步操控尸妖的身体。从标本到尝试掌控尸妖的身体，苏翎的经历充满了对自我身份和力量的探索和挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮术士,21,尸妖.docx]([皮物]_皮术士,21,尸妖.doc
 | Size            | 25041 bytes                           |
 | MD5             | 5024e46fdcf2c3c1d1d86bb85d3aac6a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 异世界, 尸妖, 魔法, 冒险, 自我探索, 性转, 力量, 原液, 标本研究, 邪神, 魔法师, 生死轮回, 液态生物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

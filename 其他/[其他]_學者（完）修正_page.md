@@ -7,7 +7,9 @@ TXT 下载: [[其他]_學者（完）修正.docx]([其他]_學者（完）修正
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件内容主要描述了一个虚构的奇幻世界中的故事，设定在迪亚大陆。故事围绕着阿拉什希娜和她统治下的薩雪曼王国展开， 讲述了阿拉什希娜于三紀元691年发起侵略战争的经过，以及随之而来的领土扩张和民众苦难。
+
+随着时间推移，薩雪曼王国逐渐成为一个军事强国，而在逐风城的背景下，描绘了主角诺思的生活经历。诺思本是一名士兵，在逐风城为了生计而不得不做辛苦的低薪工作。他的生活未能改善，反而遭遇了更多的困难。而在某个夜晚，他与一位妓女的偶遇则进一步探讨了人性的欲望与生存的压力。故事中涉及对贫富差距的描写，以及对人性与道德的思考。文中还描述了诺思的思考，他曾希望能进入贵族圈，但现实让他不得不妥协。最后，作品以诺思与妓女的交往为高潮，展现了他们之间复杂的关系，以及妓女在寻求身份和经济独立的挣扎。整体上，内容涉及复杂的社会结构和个体的生存挑战，其中还夹杂着适合成人的情节，表现出人类欲望和生存本能的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_學者（完）修正.docx]([其他]_學者（完）修正
 | Size            | 63107 bytes                           |
 | MD5             | 5cd51c2328079c9b031841e7780603eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 性转, 伪娘, 军队, 社会压力, 生存斗争, 贫富差距, 欲望探索, 妓女, 自我认同, 幻想文学, 迪亚大陆, 二次元文化, 成人内容, 角色扮演, 心理冲突, 爱情与性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

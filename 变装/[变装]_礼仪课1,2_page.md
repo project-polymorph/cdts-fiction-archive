@@ -7,7 +7,7 @@ TXT 下载: [[变装]_礼仪课1,2.doc]([变装]_礼仪课1,2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘与变装主题的小说，内容主要围绕角色丽莎在接受女教师拉文德小姐的礼仪课程过程中发生的各种情节展开。第一课中，丽莎穿着19世纪的女性服装，体验女性走路的优雅和课程中蕴含的性暗示。在她的练习中，拉文德小姐对她进行严格的训练与惩罚，同时丽莎也在自我认知与欲望的冲突中不断探索自我。课程中涉及到性别角色的扭转以及与身体相关的羞耻感，展示了角色在女性化过程中面临的心理挣扎，以及伪娘特有的情感与性领域的混合体验。第二课中，庞大的女学生校服背景下，丽莎承受了因未能完成缝纫任务而受到的惩罚，与自我欲望与服从行为的交织描写，使得文本在性别与性意识层面上展开了一种极具挑战与探索的讨论。此小说不仅是对性别认同的深刻探索，也融合了丰富的性暗示及禁忌内容，适合进行性别研究与相关主题的学术探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_礼仪课1,2.doc]([变装]_礼仪课1,2.doc)
 | Size            | 34304 bytes                           |
 | MD5             | 300cbae1fe0334f6d78f77cfd5f5c7ea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性别转换, 教育, 心理探索,  BDSM, 性暗示, 自我认知, 女性化, 性欲, 服从, 性别角色, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

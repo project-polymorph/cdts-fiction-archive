@@ -7,7 +7,7 @@ TXT 下载: [[变身]_（同人）幽灵狂袭第二章.doc]([变身]_（同人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是同人小说《幽灵狂袭》的第二章，主要围绕角色幽灵先生与雪菜的关系展开。故事中，幽灵先生的身体是雪菜的复制品，展现了他在新身体内的探索和适应。幽灵先生在此次事件后获得了修改过的身体，并有了一个新名字——姬柊雪幽。小说中描绘了她逐渐适应女性生活的过程，包括学习女性的常识，同时在学校中与雪菜一同生活并转学，同班同学有古城和其妹妹凪沙。情节中涉及他们之间的互动，学校生活，以及即将到来的球技大会。幽灵先生的身体变化让他与雪菜在身份上看似相同，但两人的灵魂和性格却截然不同，展现了性别认同的复杂性和自我探索的旅程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_（同人）幽灵狂袭第二章.doc]([变身]_（同人�
 | Size            | 70144 bytes                           |
 | MD5             | 77254f5835a5b4e93b5c5c0e06074361                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 同人小说, 性别认同, 自我探索, 二次元, 校园生活, 冒险, 奇幻, 情感纠葛, 双胞胎, 身份谜团, 魔法, 修真, 吸血鬼                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

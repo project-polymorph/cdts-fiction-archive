@@ -7,7 +7,7 @@ TXT 下载: [[变身]_網路遊戲一天一小時_(原創轉貼).docx]([变身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是来自TGGAME的一篇原创转载作品，主要围绕虚拟世界中的性转和半兽化主题展开。故事的主角是一位男性角色，醒来发现自己被困在一个实验室中，体验到了性别的变换。情节通过细腻的第一人称视角描绘了主角在突如其来的变化中的惊讶和迷茫，尤其是对自己身体的陌生感，特别是胸部的变化，以及对自己现在的状态的疑惑。文中提到主角正处在某种实验中，周围是穿白大褂的工作人员，他们似乎在监视实验过程。接着，故事转向主角在虚拟游戏中经历的挫折感，以及他对游戏内角色选择的思考，显示了他对男性与女性角色之间的心理认同与冲突。总体来看，本作品融汇了性转、虚拟现实以及自我认知的探索，具有丰富的情感表达及生动的游戏场景描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_網路遊戲一天一小時_(原創轉貼).docx]([变身]_
 | Size            | 32780 bytes                           |
 | MD5             | 13830b6bd42f39a2ae019b15f4fdee82                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2014-05-31                                 |
+| Tags            | 性转小说, 变身, 虚拟现实, 实验室, 自我认知, 男性角色, 女性角色, 游戏测试员, 半兽化, 角色扮演, 情感冲突, 虚拟游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

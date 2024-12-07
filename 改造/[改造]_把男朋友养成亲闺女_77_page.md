@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_77.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名叫杰里米的男孩和两个女孩的互动故事，主要描绘了他们在一家鞋店的相遇。在故事中，杰里米在店内遇到了一位名叫贝丽的女孩，贝丽带着她的阿姨梅根。杰里米试图给贝丽留下好印象，并在她面前表现得很绅士。故事中包含了许多关于性别认同和角色认知的元素，贝丽在与杰里米的互动中充满了纠结与困惑，因为她实际上是一个男性，却在外表和行为上表现得像女性。她对杰里米的赞美感到不知所措，内心冲突不断，同时又渴望得到男性的关注和认可。随着故事的推进，贝丽必须面对那些对于她性别身份的质疑与自我感受的挣扎。文中还有关于高跟鞋的试穿和生日派对的细节，反映出轻松的社交氛围和青少年的恋爱萌芽。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_77.docx]([改造]_把男朋友
 | Size            | 19606 bytes                           |
 | MD5             | 8116541c50244bf9a27447278c9dddb6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身, 青春爱情, 高跟鞋, 跨性别, 自我认同, 社会互动, 性别探索, 幻想, 生日派对, 青少年                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

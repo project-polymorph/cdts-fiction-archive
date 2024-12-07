@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火星開發觀光公團_(三).doc]([其他]_火星開發�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档描绘了芽实如何试图利用火星开发的机会进行个人计划的故事。故事开头，芽实利用火星带回的主控晶片组接入自己的电脑，激活了监控系统，以寻找过去宇风的意识。随着火星开发法律的通过，芽实因黑记录无法再回到火星，但她通过各种手段钻进了开发"观光"公团，安排自己的棋子茹星成为导游。茹星是基因战争后生成的人造人，芽实为了将其送往火星进行改造，冒险违反法律，甚至使用了一种非法的面具制造技术。随着故事的发展，宇风在昏迷中醒来，发现自己变成女性，感受到身体的变化和情感的复杂。整个故事涉及到身份认同、基因改造，以及对权力与欲望的探索，带着强烈的科幻色彩和性别主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火星開發觀光公團_(三).doc]([其他]_火星開發�
 | Size            | 30720 bytes                           |
 | MD5             | 2265a04ff7c263882fe79913c109c84b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 火星, 基因战争, 人造人, 身份认同, 性别转换, 科幻故事, 情感冲突, 个人欲望, 权力斗争, 非法科技, 晨间觉醒, 女性身份, 科幻小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

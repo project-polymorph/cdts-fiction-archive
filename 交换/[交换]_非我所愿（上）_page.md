@@ -7,7 +7,7 @@ TXT 下载: [[交换]_非我所愿（上）.docx]([交换]_非我所愿（上）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部小说讲述了一个关于性别转换和身体认同的故事，主角天明在一次事故中意外跌下楼与小姨子雨菲一起坠落，结果却发现自己醒来后身处于雨菲的身体里。故事开始时，天明和妻子秦雨欣及小姨子雨菲一同逛街，天明因为雨欣的调侃而感到无奈。在剧情发展中，天明为了救雨菲而意外受伤，醒来后却发现自己变成了女性的身体。面对突如其来的性别转换，天明内心产生了强烈的混乱与困惑。他边回忆着与妻子及小姨子的往事，边努力接受自己身处在雨菲的身体中的现实。通过对身体的细腻描写，天明逐渐感觉到女性身体的特征与存在，虽然感到惶恐，但又伴随着新奇的感受。此小说深刻探讨了性别认同、自我探索等主题，同时也包含了青春、爱情等元素，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_非我所愿（上）.docx]([交换]_非我所愿（上）
 | Size            | 62145 bytes                           |
 | MD5             | 134043f2ebc1e927bcba9c9725d5b4d5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 性别认同, 自我探索, 爱情, 强奸, 乱伦, 逆后宫, 调教, 百合, 多重身份, 身体交换, 都市, 奇幻, 魔法与科幻, 人物精神分裂, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

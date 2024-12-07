@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_空气魔法使.docx]([皮物]_空气魔法使.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以虚构世界为背景的性转小说，名为《空气魔法使》。故事围绕角色佐仓展开，他是一名魔法学徒，专攻变化系魔法。在小说开头，佐仓通过读取记忆水晶，探寻女性快感，随即受到自己幻想的影响，幻想成为艾琳娜老师，并进行自拍自慰。文本描述了他在课堂上对艾琳娜老师的迷恋，细致描绘了老师的外貌特征及形态。在接下来的叙述中，佐仓尝试进行魔法实验，并进入黑市寻找适合的实验材料，购买了一张女性的人皮来进行控制与操控实验。整个故事涉及了诸多与性别、自我认同和快感相关的主题，通过佐仓的性别转变与魔法实验，展示了他与外界的互动与内心的探索。文本中含有较多露骨的性爱描写和对女性身体特征的细节描绘，这些内容很可能涉及到性相关的情节，符合性转及跨性别文学的特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_空气魔法使.docx]([皮物]_空气魔法使.docx)
 | Size            | 25769 bytes                           |
 | MD5             | 567ffce8fd0b52ae5b370aa168bc7730                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS小说, 性转, 变身魔法, 跨性别, 恶搞, 性幻想, 黑市魔法, 魔法学院, 性别认同, 性心理, 女性形象, 魔法实验, 伪娘, 变嫁, 乳胶玩具, 禁忌题材                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

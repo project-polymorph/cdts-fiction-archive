@@ -7,7 +7,7 @@ TXT 下载: [[交换]_恋爱系抽奖.docx]([交换]_恋爱系抽奖.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了名为萧俊翔的大学生在与女友分手后的情况下参加了一次在西门町举行的抽奖活动。在活动中，他和一位女孩幸运地抽中了"一日换身恋爱体验"的大奖，结果二人神奇地互换了身体。故事详细描绘了他们在互换身份后对自己新身体的探索与体验，以及彼此之间的情感发展。萧俊翔在发现自己变成了一个女孩后，感受到了一种全新的心理与生理体验。同时，女孩也表达了对男性身份的感受，两人在这个过程中产生了微妙而亲密的关系。作品探讨了性别认同与自我探索的主题，并包含了一些具有性暗示的情节，是一部典型的性转类小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_恋爱系抽奖.docx]([交换]_恋爱系抽奖.docx)
 | Size            | 24398 bytes                           |
 | MD5             | e87f7ee19a5cc613ffc18cbe9c62c327                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 一日体验, 情感探索, 校园爱情, 神秘抽奖, 性别认同, 自我探索, 女体化, 恋爱, 青春, 性别转换, 心理冲突, 奇幻元素, 都市冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

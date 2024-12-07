@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_水心_（皮物）一.docx]([皮物]_水心_（皮物）�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了主人公林善在学校住院期间发生的奇特事件。在一次醉酒后，他意外跌入人工湖并患上重感冒，住进医院。在病房中，他遇到了许心洁，一位因感情受挫而成为植物人的女孩。故事随着其他角色的出现展开，尤其是王慧，她带来的偏方意外让许心洁恢复意识，但后续的剧情却逐渐转向恐怖。王慧在一系列惊悚的行为中，利用药物将林善与许心洁之间发生了不可思议的生理转换，涉及到皮肤的剥离和替换。文中包含了对人物内心冲突和复杂关系的描写，以及对性别与身份认同的探讨，结合了幻想和惊悚元素，形成了一幅紧张而又撼动人心的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_水心_（皮物）一.docx]([皮物]_水心_（皮物）�
 | Size            | 22321 bytes                           |
 | MD5             | 0bd07fd621625f4258286797fa7df00d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 悬疑, 惊悚, 心理斗争, 植物人, 医学幻想, 变皮, 奇幻, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

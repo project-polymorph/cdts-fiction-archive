@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_律_（第四章）.docx]([皮物]_律_（第四章）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为伪娘 TS 变身与跨性别相关小说的一部分，主要围绕角色宋桥在处理一起法律案件过程中的矛盾与冲突展开。故事中，宋桥接手了一起疑点重重的案件，涉及被告李小月与辩护律师王然的复杂关系。随着调查的深入，宋桥发现案件背后隐藏着深刻的黑幕，尤其是李小月身份的疑点让他不得不对事情产生怀疑。文本中通过细腻的对话与心理描写展示了角色的内心挣扎，以及面对不断变化的案件真相时的无奈与困惑。文中还涉及到具有限制级性质的内容，包括性别认同及角色关系的探索，展示了跨性别角色在严峻环境下的生存状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_律_（第四章）.docx]([皮物]_律_（第四章）.doc
 | Size            | 31121 bytes                           |
 | MD5             | 5a1bfafed55211d7a736036c3f97ad83                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 警局, 法律案件, 角色扮演, 情感纠葛, 心理悬疑, 身份探讨, 黑幕, 强烈的心理冲突, 变身, TSF, 生理性别, 虚拟现实, 都市情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文重发】卡拉尔皮物传记（魔法堡篇�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部以魔法和变身为主题的小说，讲述了一个名叫米兰的贵族少女在成为魔法师学徒后的生活经历。故事开始于米兰因为父亲的安排，来到魔法师蒂娅的身边学习，但她对自己的处境感到不满，只能忍辱负重地做着仆人的工作。文中描绘了米兰面临的家庭压力以及她的身份转变的挣扎。同时，故事也涉及了药剂研究的失败与流浪汉沃恩对药剂产生的兴趣，细致刻画了人物的心理，以及他们在魔法与现实交织中的关系。文章包含了一些露骨的情节，透视了米兰在个人认同与社会角色间的抉择。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文重发】卡拉尔皮物传记（魔法堡篇�
 | Size            | 63774 bytes                           |
 | MD5             | c205d117d29f591846eddf14ab7db6b8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 秋柒                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 药剂研究, 性别转变, 跨性别, 伪娘, 贵族生活, 流浪汉, 社会身份, 自我认同, 强烈情感, 暴力, 性描写, 魔法师, 魔法塔, 童年阴影, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

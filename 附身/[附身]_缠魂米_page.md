@@ -7,7 +7,7 @@ TXT 下载: [[附身]_缠魂米.docx]([附身]_缠魂米.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《缠魂米》主要讲述了一个发生在缠魂镇的青春故事。苏子安是镇上的一名男生，他在炎热的夏日里，上数学课时不禁感到疲惫，选择逃课享受小镇的风光。在这段故事中，苏子安的女友温柔是他心中不可或缺的光，温柔恬静乖巧，总是在他身边给予支持和安慰。故事通过两人的互动，展现了校园生活的点滴甜蜜与温馨。然而，随着胡蝶成为镇长，故事逐渐展现出复杂的人际关系，尤其是在她和弟弟胡聪之间的微妙互动中。胡聪的酒后回家带来的尴尬局面，直至两人间发生的情感冲突，显露出禁忌与欲望的纠葛。整篇小说交错着青春的懵懂和情感的迷茫，使得人性和关系更显复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_缠魂米.docx]([附身]_缠魂米.docx)
 | Size            | 117385 bytes                           |
 | MD5             | 78ffcae8e35da8c818f65f04315577c7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 禁忌爱情, 青春校园, 情感纠葛, 自我认知, 情欲, 家庭关系, 成长故事, 江南小镇, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

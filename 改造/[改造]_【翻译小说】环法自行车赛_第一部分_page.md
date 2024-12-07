@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译小说】环法自行车赛_第一部分.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档包含了一部围绕环法自行车赛的小说的第一部分，讲述了主角弗兰基与他的教练汉娜之间的关系，以及他们为比赛做准备的经历。故事开头，弗兰基回忆起自己过去四年在环法赛中的成就，并期待获得第五次冠军。汉娜不仅是他的教练，也是他的私人医生和司机。在这段旅程中，二人之间的情感交织着压力和期待，展现了一段充满戏剧的关系。当他们到达目的地后，弗兰基被城堡的奢华和汉娜的照顾吸引，然而他对其他女仆的好感竟引发了汉娜的嫉妒和情感冲突。弗兰基安慰汉娜，并承诺在比赛结束后将与她共享未来，表现出两人关系的复杂性和深度。文中细致描写了他们的互动，以及比赛前的紧张氛围，还有浓厚的巴黎乡村色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译小说】环法自行车赛_第一部分.docx]([�
 | Size            | 70705 bytes                           |
 | MD5             | 6a5b4d50a24230bee7844bf705a92678                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 环法自行车赛, 变身小说, 情感纠葛, 运动与爱情, 自我探索, 压力与成就, 男女之间的关系, 专注与分心, 比赛准备, 两性关系, 心理冲突, 城堡生活, 嫉妒                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_昨日.doc]([皮物]_昨日.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位家长在校门口等候女儿霜儿放学归来的经历。文章采用第一人称旁观者视角，叙述了家长焦急的心情，以及与老师、其他家长沟通时所经历的困扰。随着天色渐暗，家长的焦虑逐渐加深，最终在时隔良久后找到霜儿。霜儿因误帮老师搬东西而迷路，令父亲深感心疼和无奈。故事中不乏细致入微的父女情感描写，尤其是在找到女儿后，父亲对霜儿的担忧与疼爱表现得相当明显。结尾揭示了霜儿洗澡后父亲对她衣物的异味产生的困惑，给整个故事增添了一丝生活的真实感。这种情感纽带和家长对孩子成长过程的关注，体现了亲情的温暖与复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_昨日.doc]([皮物]_昨日.doc)
 | Size            | 72704 bytes                           |
 | MD5             | f1a77e656c2753b30967d4cb932cf80d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 父爱, 亲子关系, 迷路, 儿童, 学校生活, 家庭, 焦虑, 成长, 孩子的烦恼, 生活情景, 家庭互动, 校园故事, 社会观察, 教育, 叙事, 情感描摹                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

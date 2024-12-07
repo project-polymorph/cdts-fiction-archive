@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【改造换身】奇异的治疗方案.docx]([改造]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《奇异的治疗方案》是一部围绕性别转换与自我认同的小说，主要讲述了角色李浩然和王大治之间的深厚友谊与探讨生病治愈的奇幻旅程。故事开始于李浩然与王大治的复查会谈，王大治因病重而感到颓废，抱怨着自己即将面对的死亡。李浩然则表现得冷静而执着于寻找治疗方案。在对话中描绘了两人截然不同的性格和外貌，王大治粗犷邋遢，而李浩然则宛如少女般精致。随着情节的发展，李浩然透露他找到了一种替代治疗并带着王大治前往一个隐秘的实验地点进行实验，暗示着即将进行更为奇特的转变与挑战。在这个秘密基地中，他们面临着生理上的改变和心理的冲突，李浩然的实验和治疗设备的介绍让王大治感到既害怕又期待。小说不仅探讨了友情和疾病，更深刻反映了角色自我认知的转变，以及面对困扰时的无助感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【改造换身】奇异的治疗方案.docx]([改造]_【
 | Size            | 51933 bytes                           |
 | MD5             | 305b4e459f9d2201f4c6688b035bcedb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 男娘, 强烈自我认同, 医学实验, 友情, 自我探索, 奇幻, 心理冲突, 治疗方案, 二次元元素, 变身, 生理改变, 青春羞涩                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

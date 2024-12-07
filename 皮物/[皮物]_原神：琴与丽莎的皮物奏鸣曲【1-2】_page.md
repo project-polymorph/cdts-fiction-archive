@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_原神：琴与丽莎的皮物奏鸣曲【1-2】.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为琴的角色在深夜骑士团办公室中的遭遇，故事情节围绕着她被名叫罗泽的人袭击，并且通过魔法武器将其身体转化为人皮的过程展开。故事开头描绘了深夜时分，琴在忙碌工作后的疲惫神态，正当她准备休息时，突然遭遇一名熟悉的人影的袭击。在罗泽的行动下，琴的身体逐渐干瘪，最终化为了一层人皮。罗泽对琴的感情很复杂，包含了爱、欲望和复仇。在此过程中，罗泽将琴的皮肤穿在自己身上，并表达了永远与她在一起的扭曲想法。文件内容包含了许多情感和心理状态的转变，同时也涉及了一些限制级内容，文学上带有大量的幻想色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_原神：琴与丽莎的皮物奏鸣曲【1-2】.doc]([皮
 | Size            | 69632 bytes                           |
 | MD5             | f32d1d844fa600c60b293ca0f011ae72                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身小说, 情感冲突, 二次元文化, 魔法, 肉体转化, 身份认同, 禁忌爱情, 黑暗幻想, 心理扭曲, 深夜的骑士团                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

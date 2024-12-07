@@ -7,7 +7,7 @@ TXT 下载: [[附身]_这是属于齐珊珊的故事（上）.docx]([附身]_这
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《这是属于齐珊珊的故事（上）》描绘了一位年轻女性齐珊珊的职场生活及其周围人的心理活动。齐珊珊是一位从千金小姐身份转变为女强人的角色，凭借其独特的设计才华在珠宝行业中崭露头角。故事通过保安林翰的视角，展现了他对齐珊珊的强烈迷恋和病态的关心，包括他偷拍齐珊珊的照片，以及他对她的爱慕之情。他们的互动中充满了暗示和欲望，林翰对齐珊珊的崇拜使得他的穷追不舍更为复杂。文本包含性别角色和权力关系的纠葛，以及性幻想等元素。整体基调带有一定的紧张感和内心挣扎；涉及到了齐珊珊作为职场女性的成功与挑战，以及林翰对她的执念和想象。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_这是属于齐珊珊的故事（上）.docx]([附身]_这
 | Size            | 43700 bytes                           |
 | MD5             | b632cca0e8c04b0669713fb4a34aedad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 职场爱情, 偷拍, 病态恋爱, 女强人, 自我探索, 强迫幻想, 性别角色, 珠宝设计, 暗恋, 情感纠葛, 自我认知, 欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

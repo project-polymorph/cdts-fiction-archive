@@ -7,7 +7,7 @@ TXT 下载: [[改造]_无奈的改变1-3.doc]([改造]_无奈的改变1-3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了家族传承与个人选择之间的矛盾。故事的主人公徐文杰是在一个拥有500年历史的大家族中长大的，但他对继承家族地位并不感兴趣，只想和自己的爱人韩若雪过平静的生活。然而，当他得知自己患有双性畸形，面临着性别认同和器官手术的选择时，所有的生活都被打乱了。小说深入探讨了性别认同、自我选择、家庭压力等复杂的主题，尤其是在医生告诉他需要在男性与女性身份之间做出选择时，徐文杰的内心矛盾和挣扎愈发明显。此外，故事还暗示了家族成员之间的权力斗争，徐文杰的爷爷试图施加压力让他继承家族事业，这让他更加渴望摆脱束缚。通过徐文杰的视角，读者可以感受到他对自由和爱的向往，以及面临的困境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_无奈的改变1-3.doc]([改造]_无奈的改变1-3.doc)
 | Size            | 38912 bytes                           |
 | MD5             | ed2f2b748a800e8306bed212aa78f48c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 双性人, 家庭压力, 爱情, 自我探索, 变身, 成长, 权力斗争, 医学, 情感纠葛, 心理斗争, 人生选择, 跨性别, 青春, 社会压力, 传统与现代冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

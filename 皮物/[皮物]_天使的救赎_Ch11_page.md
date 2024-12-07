@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch11.doc]([皮物]_天使的救赎_Ch11.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别主题相关的小说章节，名为《天使的救赎》第11章。故事围绕角色仙蒂的内心挣扎和身份认同展开，描绘了她醒来后在酒店房间中的迷茫与不安。光线透过窗户投射在她身上，她开始反思自己过去的经历以及自己所扮演的角色。仙蒂与艾米的对话透露出一些神秘的背景，艾米担忧仙蒂的身份被追踪并急切希望她回到纽约。在悠长的对话中，她们讨论了身份代码追踪的问题，以及仙蒂使用伪装的皮囊前往洛克威的计划。在此过程中，仙蒂对她的身份及情感产生了更多疑虑，并希望去探访伊丽丝以确认她的状况。整章节通过细腻的人物描写和紧张的情节推进，展现了角色对自我、他人以及未来的思考和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_天使的救赎_Ch11.doc]([皮物]_天使的救赎_Ch11.do
 | Size            | 47104 bytes                           |
 | MD5             | 99bd8af06605e8c68dca9d8901ab94fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身, 身份认同, 自我探索, 情感纠葛, 逃避, 科幻, 幻想, 青春, 心理冲突, 异世界, 洛克威, 人皮面具, 追踪阴影, 复杂的人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_龙舌兰_17_真相.docx]([交换]_龙舌兰_17_真相.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《龙舌兰》的第十七章，标题为“真相”。故事围绕主角杨立及其他几位重要角色之间的复杂关系展开，涉及强制性别替换与身份错位的情节。杨立被迫入替到女性角色陈琳峰的身体中，而其妻子思琪则转生为中年男子赵福源，二人重逢后的情感纠葛成为此章的核心。与此同时，初恋情人蕊可的加入，使情感线更加复杂。章节中详细描述了每个角色的身体状况及情绪变化，特别强调角色对身份转变的认知和适应过程。故事节奏紧凑，情感冲突激烈，情节紧紧围绕着寻求真相与回归自我之间的挣扎展开。随着娟姐出门寻找赵福源，角色间的关系进一步加深，揭示出隐藏的家族秘密与复杂背景，使得情节跌宕起伏。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_龙舌兰_17_真相.docx]([交换]_龙舌兰_17_真相.doc
 | Size            | 25396 bytes                           |
 | MD5             | acad100945975d316a3d50093c0a0178                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | yudi（ft3020997）                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 情感纠葛, 伪娘, 身份认同, 自我探索, 强制变身, 情节反转, 人际关系, 复仇, 黑帮, 女性视角, 错位情感, 复杂人物关系, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

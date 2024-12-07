@@ -7,7 +7,9 @@ TXT 下载: [[变身]_老工业区探索记.docx]([变身]_老工业区探索记
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《老工业区探索记》是一部描绘初中生姚仪与他勇敢的朋友祁牧云之间友情和冒险的小说。故事发生在寒假，他们计划去探索一个传闻中的鬼屋，位于被遗弃的老工业区。姚仪性格内向，热爱写作，而祁牧云则是一个开朗、强壮的热爱运动的大男孩。在二人出发前的早晨，姚仪的母亲表现出对儿子冒险活动的关心和不安。
+
+在达到目的地后，他们发现柴油机厂已经被许多探险者抢先进入，里面充满了生活痕迹和食物垃圾，令他们感到失望。尽管撒谎编造怪闻以吸引朋友的关注，姚仪内心其实十分害怕，而坚定勇敢的祁牧云却兴奋地推开了通往地下室的门。在勇气与恐惧的挣扎中，姚仪向下爬去，然而黑暗与寂静渐渐压迫着他，朋友的存在感消失，让他感到前路未知而令人战栗。整个故事透过友谊、成长与冒险的主题，引发读者对自我认知与冒险精神的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_老工业区探索记.docx]([变身]_老工业区探索记
 | Size            | 25787 bytes                           |
 | MD5             | 97ea6b1404f8f7e08242edcbc2d603e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 冒险, 友情, 变身, 黑暗, 校园, 探索, 恐怖, 成长, 幽灵, 工业遗址, 初中生, 男生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

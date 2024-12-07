@@ -7,7 +7,7 @@ TXT 下载: [[变装]_女卧底的自述3.docx]([变装]_女卧底的自述3.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位卧底警察韩梦薇在拘留室内的自述，故事背景发生在边城的一个拘留所。文件通过细腻的描写表达了韩梦薇作为执法者在执行任务过程中的内心冲突与挣扎。她曾以正义之剑自居，但当她目睹被拘留女子遭受的痛苦与委屈，一种深深的自责与反思油然而生。故事中，韩梦薇对其昔日作为执法者的冷酷逐渐产生怀疑，并对自己所追求的正义感到可笑。文中对韩梦薇所目睹的拘留室中一位女子沉睡的“幼稚笑意”进行了生动的描述，透视出她对其他女子命运的思考。这引发了她对一段感情的回忆，她与妻子小茹的爱情，以及小茹现在的处境也使她更为痛苦。故事情节深入探讨了性别认同、心理挣扎和情感之复杂，展现出跨性别者在社会中的不易与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_女卧底的自述3.docx]([变装]_女卧底的自述3.doc
 | Size            | 22686 bytes                           |
 | MD5             | f7cf9fde9aea65f29f99ec26adcf035d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 心理挣扎, 情感故事, 执法者内心冲突, 伪娘, 变身小说, 情感背叛, 社会冷漠, 边境, 女性视角, 身份认同, 恶魔, 强奸, 调教, 纯爱, 百合, 逆后宫, 魔法少女, 灵魂交换, 禁忌内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

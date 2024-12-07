@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮之使徒III】_~番外篇2-2.doc]([皮物]_【皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《皮之使徒III ~番外篇2-2》是一篇描绘拉斯维加斯社会环境的小说，内容涉及角色李长风的冒险经历。在当时的背景下，拉斯维加斯被描绘为一个充满欲望与贪婪的地方，赌场老板和黑帮则在其中扮演着主要角色。通过描述李长风进入阿拉丁酒店的场景，作者展现了他作为赏金猎人的特质，冷静、无畏，尽管周遭的保安对其身份有所怀疑，但他仍凭借其强大的能力与冷酷的态度，轻松应对了一系列冲突。此外，本篇还暗示了更深层次的阴谋与追捕，显示出李长风并非只是一个普通的访客，而是与某些危险势力纠缠不清的角色。简而言之，这是一部结合了冒险、角色冲突与复杂社会关系的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮之使徒III】_~番外篇2-2.doc]([皮物]_【皮�
 | Size            | 45056 bytes                           |
 | MD5             | 8024fb83f52fdd5bafe1821ec91f5249                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 拉斯维加斯, 黑帮, 赌场, 赏金猎人, 自我认知, 欲望, 冒险, 角色冲突, 社会关系, 陷阱, 反乌托邦, 男性视角, 冷酷, 战斗, 阴谋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

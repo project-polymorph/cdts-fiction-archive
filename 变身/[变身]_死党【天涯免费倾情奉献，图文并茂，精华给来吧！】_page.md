@@ -7,7 +7,7 @@ TXT 下载: [[变身]_死党【天涯免费倾情奉献，图文并茂，精华�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一个关于性别变身主题的小说，标题为《死党》，由Joe Six-pack创作，属于天涯编译系列。故事围绕主角布拉德展开，他是一个充满活力的青少年运动员。在一次意外中，他在衣柜里发现了一件女啦啦队制服，随之而来的怪异经历让他对自己的身份产生疑惑。布拉德经历了性别角色的冲突和自我认知的变化，试图理解这奇怪现象背后的原因。剧中不仅涉及少年运动员的生活和奋斗，还讨论了性别认同和自我探索的主题，伴随着诸多幽默和戏剧化的情节，展示了青少年在成长过程中可能面临的挑战和困扰。文中字符描绘了布拉德的内心斗争、友情及家庭关系，充满了青春期的迷茫和挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_死党【天涯免费倾情奉献，图文并茂，精华�
 | Size            | 42173 bytes                           |
 | MD5             | ff5e5832247c4eb35df6971a6630c62d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Joe Six-pack                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 青春, 性别认同, 自我探索, 幽默, 友谊, 校园生活, 运动员, 外表变化, 魔幻, 科幻, 男性视角, 身份危机, 叛逆心理, 情感成长, 女性形象, 逆境成长, 角色冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

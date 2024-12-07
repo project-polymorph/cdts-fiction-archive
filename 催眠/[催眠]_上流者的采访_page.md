@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_上流者的采访.doc]([催眠]_上流者的采访.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部关于性别转换和自我认同探索的小说，标题为《上流者的采访》，由作者イラ创作。故事围绕两位主角圭太和惠理子的约会展开。在繁华的街道上，他们意外地与一位高傲的金发女孩相撞，随后发生了一系列有趣而又复杂的情节。金发女孩似乎是一个名为玲园寺艾丽莎的豪门千金，故事通过此角色展现出对性别认同和外貌的深刻反思。在与艾丽莎的互动中，他们无意间引发了一场关于身份和外表的辩论，尤其是艾丽莎在遭遇神秘力量后逐渐意识到自身的变化，开始探索作为女性的体验。这种自我认知的冲突和转变构成了小说的主要情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_上流者的采访.doc]([催眠]_上流者的采访.doc)
 | Size            | 69120 bytes                           |
 | MD5             | 99c8adbaef3bdbdab07900a9c5889e93                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | イラ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我认同, 豪门千金, 约会, 社会角色, 变身, 外貌焦虑, 身份探索, 奇幻, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

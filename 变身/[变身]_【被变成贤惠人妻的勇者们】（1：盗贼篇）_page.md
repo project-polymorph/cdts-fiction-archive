@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【被变成贤惠人妻的勇者们】（1：盗贼篇）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一部性转类型的小说，标题为《被变成贤惠人妻的勇者们》中的盗贼篇。故事围绕四名勇者在向魔王城堡进发的过程中遭遇到魔王派出的魔法师的圈套，她们在魔法作用下变成了穿着和服的日本传统女性。这些女性角色的设定展现了从强大的战士到柔弱人妻的转变，探索了角色自我认知和身份的变化。小说中，魔法师表示她们将永远无法恢复原状，而是进入一个新的生活，这不仅是对角色的戏剧性改变，也是对她们内心世界的探讨。故事的设定和情节引入了性别认同和自我探索等主题，同时营造了一种独特的异世界奇幻感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【被变成贤惠人妻的勇者们】（1：盗贼篇）
 | Size            | 31831 bytes                           |
 | MD5             | ae66cdde576c6bba845041bb2bf3ac38                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2019-02-16                                 |
+| Tags            | 性转, 变身, 伪娘, 魔法, 奇幻, 勇者, 女儿身, 柔弱人妻, 自我认知, 传统文化, 女性角色, 魔王, 美少女, 社会角色, 心理变迁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_一年时间从人夫到人妻（中）.docx]([变装]_一
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇性转主题的小说片段，讲述了一位男性角色在经历性别转换后，内心的挣扎和对自我的认知变化。故事开头，男主角感到身体上的变化和心理上的痛苦，他的自我认同面临冲突。一方面，他努力地想要拒绝这一现实，另一方面，却又不得不接受自己所经历的一切。文本中细腻地描绘了他洗澡时的感受，意识到身体的细微变化，并在接受妻子回家的那一刻，展现出对外界和内心感受的矛盾。情节紧凑，展现了角色与过去的男性身份的斗争，同时涉及到与另一个男性角色袁野的复杂关系，这个角色数次侵犯主角的身体和心理界限，强迫他在性别认同和 societal expectation 之间做出选择。更复杂的是，主角在与妻子的对话中，试图隐藏内心的挣扎，错综复杂的人际关系令这一故事充满了张力与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_一年时间从人夫到人妻（中）.docx]([变装]_一
 | Size            | 41846 bytes                           |
 | MD5             | 6e988341619780769aa769aa8a087275                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 性转, 跨性别, 内心挣扎, 自我认同, 爱情, 情感纠葛, 婚姻, 男女性别角色, 痛苦与矛盾, 变装, 伪娘, 强奸, 乱伦, 调教, 百合, 逆后宫, 虚拟现实, 都市, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_突然的变化.doc]([其他]_突然的变化.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文本讲述了一名年轻男子王征在上海生活的日常，期间描绘了他对性别转换幻想的细腻内心独白。故事开始时，他因连续加班而感到疲惫，因此在家中无所事事，陷入了对生活的反思。王征自认为是个平凡而又屌丝的青年，逐渐流露出对伪娘和变身情节的迷恋。在这个清明假期的雨天，他的生活因意外变得戏剧性，当他发现自己的身体开始出现变化，手指甲变为粉红色，肤色和手型发生了巨大的变化时，他意识到自己可能正在经历一种身体上的转化。伴随身体变化而来的性欲与对新身份的憧憬交织，而他在这种情况下对自己的感受与现实间的反思，充满了内心的挣扎与探索。整篇作品融合了幻想与现实，不仅探讨了性别认同和自我意识，还俘获了读者对性别转换主题的好奇和共鸣。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_突然的变化.doc]([其他]_突然的变化.doc)
 | Size            | 29184 bytes                           |
 | MD5             | 6b40235c4eec45233afb8948c304718b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性转, 自我认同, 男人变女人, 幻想与现实, 青春困惑, 身体意识, 性欲, 内心挣扎, 清明假期, 城市生活, 爱情幻想, 二次元, 欲望探索, 性别探索, 生理改变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

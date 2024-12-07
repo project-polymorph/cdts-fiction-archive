@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_妹妹.doc]([皮物]_妹妹.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个高中生妹妹与她的哥哥之间复杂关系的故事。故事开头，妹妹提到要去上学，但实际上背后隐藏着一个悲惨的情况。哥哥因为沉迷赌博而欠下巨额债务，导致他面临生死威胁。在一次逼债中，强哥出现并对哥哥施加暴力，导致妹妹不得不做出妥协来保全哥哥的生命。强哥为了实现自己的阴暗欲望，使用黑色水晶对妹妹实施了令人发指的身体侵占。在这个过程中，妹妹的身体被强哥完全替代，哥哥目睹了这一切而无能为力。故事中透露出对性别转换的极端不安与对身体的无奈剥夺，展现了对个人身份和身体控制的探讨。整体内容涉及性别认同、占有欲、自我探索等主题，同时包含强烈的暴力和性暗示等元素。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[皮物]_妹妹.doc]([皮物]_妹妹.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 34304 bytes                           |
 | MD5             | 8d78dea747645cfd1ac87f1a5ea626e0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 身体交换, 暴力, 亲情, 占有欲, 成年话题, 双重身份, 性别认同, 悲剧, 青春期困惑, 性别冲突, 黑暗幻想, 心理扭曲, 自我认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

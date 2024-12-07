@@ -7,7 +7,7 @@ TXT 下载: [[交换]_坑走缺钱护士的身体【四】.docx]([交换]_坑走
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性转和变身主题的小说，主要讲述了主角在获得新身体后，逐渐体验女性身份带来的种种感受和探索。在故事开头，主角站在一间装饰精致女孩房间的门口，心情激动，首次体验进入女性空间的感觉。房间内的环境描绘细致，床上粉色床单和可爱玩偶展现出主角女性身份的改变。在翻阅衣橱和梳妆台上琳琅满目的化妆品与衣物时，主角对女性特有的生理和心理体验产生了浓厚的兴趣。故事中提到了夹腿综合征，这是主角开始探索性快感的一种方式，在获得性别转变后，主角对自身身体的认知与享受不断深化。小说中还涉及了身体探索和自我认同的主题，伴随着肉体快感的描写，展现了主角在新身份下的迷茫与愉悦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_坑走缺钱护士的身体【四】.docx]([交换]_坑走
 | Size            | 31189 bytes                           |
 | MD5             | a9ad65bc1144590c2beaf1954f77d7db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 身体探索, 自我认同, 性快感, 小说, 二次元, 心理变化, 爱情, 奇幻, 真实与虚幻的交融, 青春校园, 都市生活, 成长故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

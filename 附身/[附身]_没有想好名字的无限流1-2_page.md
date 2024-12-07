@@ -7,7 +7,7 @@ TXT 下载: [[附身]_没有想好名字的无限流1-2.doc]([附身]_没有想�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《没有想好名字的无限流》是一本结合了无限流与性别转换元素的小说，主要围绕主人公李寺的冒险经历展开。故事开篇描写了李寺被惊醒后发现自己卷入了一个危险的世界，该世界类似于流行小说《无限恐怖》的设定，主角们必须完成特定任务才能生存。在危机四伏的环境中，李寺不仅要面对丧尸的威胁，还需应对队友间的互相猜疑与背叛。文本通过对比李寺与队长约翰王的角色，展现了自我身份认同与生存压力的冲突。此外，文中包含了一些限制级情节，如药物诱导、角色被绑等，体现出一种紧张而危机四伏的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_没有想好名字的无限流1-2.doc]([附身]_没有想�
 | Size            | 55296 bytes                           |
 | MD5             | 778ca1781e4d27b14bbaec626b512fcb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 无限流, 性别转换, 变身小说, 丧尸危机, 角色扮演, 奇幻冒险, 自我认同, 团队信任危机, 药物诱惑, 生存挑战, 反转剧情, 悬疑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

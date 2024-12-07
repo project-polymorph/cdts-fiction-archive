@@ -7,7 +7,7 @@ TXT 下载: [[变性]_做一个让人羡慕的女仆.doc]([变性]_做一个让�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《做一个让人羡慕的女仆》由玛丽安娜·彼得斯创作，讲述了一个曾经是酒店老板的男性主角如何因特殊经历转变成一名女仆的故事。故事的主人公曾是一个有权有势的人，拥有过许多财富和地位，但因意外的性别转换，变成了一个伪娘，并开始适应新的女性身份。在此过程中，他逐渐接受并享受穿着女仆装的生活，以及与女性之间的亲密关系，尤其是与其后来的男友迈克的互动。通过他的叙述，反映了男主角从自我认同的混乱到接受新的性别身份，享受作为女性的生活，并在此过程中体验到的心理变化和关系的重新构建。整体故事涉及性别认同、自我探索与情感纠葛，较为详细地描绘了他的心理转变和感情纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_做一个让人羡慕的女仆.doc]([变性]_做一个让�
 | Size            | 28672 bytes                           |
 | MD5             | edc4f5b98c03a789fe45074a2dd676c0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 玛丽安娜·彼得斯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变性, 自我认同, 情感关系, 女性视角, 成长故事, 酒店生活, 恋爱, 心理变化, 生活转变, 性别角色, 女仆文化, 男性转女性, 情感纠葛, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

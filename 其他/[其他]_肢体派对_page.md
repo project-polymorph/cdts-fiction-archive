@@ -7,7 +7,7 @@ TXT 下载: [[其他]_肢体派对.docx]([其他]_肢体派对.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别转换和跨性别主题的小说，主要讲述了角色王琳的故事。王琳的真实身份是赵子虎，是一名普通高中生，在一场车祸后经历了性别的转变。小说以警察审问的场景开篇，描述了王琳被警察拘留的情节，警察在询问其性别和年龄时明显感到混淆，并在面对王琳的诱惑外表时产生了情感冲动。随着故事的发展，读者将了解到赵子虎的生活背景，包括他对女友李萌的感情，以及她在车祸中的遭遇，情节涉及到性别认同、自我探索和悲剧性的情感，两者结合带来了强烈的戏剧冲突。这部小说充满了青少年对性别、爱情和身体认同的复杂思考，内容可能包含限制级和性别相关的情节，适合进行学术研究和讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_肢体派对.docx]([其他]_肢体派对.docx)
 | Size            | 71256 bytes                           |
 | MD5             | e7a25f21ab7dd5c8ccf01a77bbb14b24                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 青少年, 爱情, 悲剧, 身份认同, 审讯, 强烈吸引, 高中生, 生活冲突, 心理挣扎, 二次元, 情感纠葛, 伦理问题, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

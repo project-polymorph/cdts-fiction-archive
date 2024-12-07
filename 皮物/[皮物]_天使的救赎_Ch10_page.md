@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch10.doc]([皮物]_天使的救赎_Ch10.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别题材小说《天使的救赎》第十章，主要围绕角色仙蒂与诺瑞斯之间的关系发展以及两人的内心冲突展开。故事开始于两人在返回酒店的路上，艾米询问仙蒂关于诺瑞斯的情况。仙蒂对诺瑞斯的邀请表示犹豫，反映出她在身份认同和情感选择上的挣扎。小说通过对话展示了仙蒂对诺瑞斯的感情复杂性，尤其是在艾米的鼓励下，她尝试从女性的角度去理解诺瑞斯。故事通过细腻的情感描写和对角色内心感受的刻画，探索了性别认同与自我认知的问题。章节的结尾暗示了仙蒂对诺瑞斯的情感与未来的决策存在一定的迷茫和期待，同时也融入了暗恋和浪漫的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_天使的救赎_Ch10.doc]([皮物]_天使的救赎_Ch10.do
 | Size            | 46080 bytes                           |
 | MD5             | f02039fb422388d0ec423782fcd0f5a2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 自我探索, 性别认同, 爱情, 心理冲突, 角色发展, 约会, 性别转换, 情感纠葛, 都市故事, 女性视角, 青春, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

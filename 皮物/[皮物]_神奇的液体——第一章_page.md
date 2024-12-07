@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_神奇的液体——第一章.docx]([皮物]_神奇的液
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《神奇的液体——第一章》，是一部围绕性别转换和跨性别主题的小说。主人公庄子周是一名初中生，他秘密地对皮物类的文章和漫画产生强烈兴趣，渴望变成女人。故事开篇，庄子周在放学回家途中发现一瓶神秘的黑色液体，上面写着‘他会实现你的梦想’，引发了他对变身的幻想。随后，庄子周观察到他表姐吴凌雪的私密行为，逐渐陷入对她的意淫之中，并决定利用神秘液体来实现自己的变身之梦。接下来的情节描绘了他对同学徐玮的追逐与迷恋，最终将她的头发用来进行变换。同时，故事里穿插大量关于性幻想、身体的描述和变身融合的痛苦体验。本篇章带有明显的成人内容和性暗示，涉及的情节含有强烈的性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_神奇的液体——第一章.docx]([皮物]_神奇的液
 | Size            | 18950 bytes                           |
 | MD5             | aec45874c02ec121171e45801a6b7509                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变装, 跨性别, 强烈幻想, 自我探索, 成人内容, 性暗示, 变嫁, 校园爱情, 液体变身, 神秘物品, 意淫, 自慰, 青春, 同学之间的羁绊                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

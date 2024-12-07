@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_第三期——人性之恶.doc]([皮物]_第三期——�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一场涉及饕餮宴的聚会，集中围绕角色丝丝、李医生、雅韵及琴妹等人物的互动与情感变化。故事开篇，丝丝在会议室中受到同事的调侃，暗示她外表上的变化，暗含她的性别认同与自我探索的主题。故事的焦点转向即将到来的饕餮宴，这是一场涉及权力交易和人际关系的聚会，江总作为客户对李医生有三次人情的债务。宴会上，四位女性的奇特变化和心理动态展现了现代社会中对女性身体和形象的物化与消费，令人深思。文中不乏色情暗示与对女性身体的细腻描绘，表达了一种复杂的情感与性别议题。文末涉及隐秘交易与个人经历，将读者引入了更深层的人性考量与性别角色的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_第三期——人性之恶.doc]([皮物]_第三期——�
 | Size            | 58368 bytes                           |
 | MD5             | 1d29e311e4b7d091ba580f16fcaa59aa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 饕餮宴, 权力游戏, 性别认同, 自我探索, 异界, 角色扮演, 欲望与肉体, 人性之恶, 性别物化, 暗黑幻想, 现代都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

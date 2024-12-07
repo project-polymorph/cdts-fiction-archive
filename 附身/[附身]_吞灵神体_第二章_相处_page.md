@@ -7,7 +7,7 @@ TXT 下载: [[附身]_吞灵神体_第二章_相处.docx]([附身]_吞灵神体_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别主题的小说《吞灵神体》的第二章，描述了主角唐昊在经历身体控制后与神秘女子云曦之间的交流和互动。唐昊发现自己的身体被女人云曦夺走，并且能够听到自己说话。云曦解释说她是在受伤后躲在唐昊的身体里恢复，白天使用唐昊的身体进行运功，晚上则交换控制。两人之间的互动充满了紧张与调侃，唐昊对失去身体控制的窘迫感到不悦，而云曦则表现出一种轻松与不屑的态度。随着情节的发展，唐昊对云曦的身份产生好奇，并询问对方的名字以及她为什么会和自己交换身体。云曦告诉他她的名字是“云曦”，并暗示了更多的隐情。整个章节充满了性别转换题材的独特视角，涉及身体感知与性别认同的复杂情感，情节中夹杂着幽默与暧昧的对话。此外，云曦在唐昊的身体中体验人间的生活，展现了两者之间相互依赖与冲突的状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_吞灵神体_第二章_相处.docx]([附身]_吞灵神体_
 | Size            | 21875 bytes                           |
 | MD5             | 1dd2f5e7f1892ce18ea092f20926d1c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 跨性别, 自我探索, 伪娘, 云曦, 唐昊, 身体控制, 情感交流, 修仙, 小说, 魔法, 幽默, 身体意识, 代入感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_纯洁的淫落2.doc]([改造]_纯洁的淫落2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《纯洁的淫落2》，是一篇关于性别变换与性欲觉醒的小说。故事围绕女主角林诗雨展开，描绘了她逐渐觉醒的性欲与身体变化。在帐篷内，林诗雨试着穿上纯白色内衣，面对她自己身体的美丽和意识到的变化，内心充满了困惑与欲望。故事细腻地描绘了她对自己身体的探索，反映了从羞涩到逐渐沉迷于快感的过程。文中的情节包含大量情色描写，例如林诗雨对内衣的不适、身体的敏感反应，以及她内心压抑的欲望，最终表现出极具煽动性的场景。此外，文中有涉及亲密与禁忌关系的情节，由于其内容涉及限制级讨论和性表述，因此适合成年人阅读与研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_纯洁的淫落2.doc]([改造]_纯洁的淫落2.doc)
 | Size            | 57344 bytes                           |
 | MD5             | 527b997d5628fdf063894b7aabf082be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 强烈欲望, 性别认同, 亲密关系, 自我探索, 二次元文学, 情欲, 色情文学, 变身故事, 少女成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

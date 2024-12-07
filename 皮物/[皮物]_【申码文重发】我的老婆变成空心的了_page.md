@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文重发】我的老婆变成空心的了.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘与跨性别主题的小说，讲述了一名男性角色的妻子小筱在一次意外中，因一条带有魔法的项链而经历了一次奇妙的变身。故事开始时，老婆小筱因项链上的紫色宝石吊坠发光而晕倒，醒来后却发现自己的身体竟然变成了“空心”的状态。尽管身体有异变，但小筱依旧能感知到周围的变化。在故事中，角色们经过一系列的探索与情感交流，主人公试图安慰和支持小筱，并逐渐开启了更深入的身体接触，体验着奇妙而带有暧昧色彩的关系。文件内容包含大量细腻的情感描写及身体互动的细节，涉及性别认同、身体转变等主题，同时也包含一些限制级内容，与性相关的情节描写较为生动与具体。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文重发】我的老婆变成空心的了.doc]([
 | Size            | 44544 bytes                           |
 | MD5             | 17892aa9e0f653aa9c527131e678e546                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 魔法, 性别认同, 自我探索, 身体转变, 爱情, 奇幻, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

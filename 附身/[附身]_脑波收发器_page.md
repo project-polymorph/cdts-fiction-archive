@@ -7,7 +7,7 @@ TXT 下载: [[附身]_脑波收发器.docx]([附身]_脑波收发器.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《脑波收发器》，讲述了主角刘明鑫与女友林卿雨一起逛街的趣事。在一次偶然的机会下，他们发现了一家名为‘缘’的商店，商店中出售一些奇怪的商品，其中一个耳环产品声称可以通过脑波共振控制他人身体。在怀着好奇和半信半疑的态度下，他们购买了这个耳环。回到家后，刘明鑫决定按照耳环的说明进行实验，导致他与林卿雨的意识产生融合，这样他体验到了身为男性的感受与林卿雨身体的种种奇妙之处。文中详细描述了这一过程中主角的心理变化和性别认同的错位，涉及了相关的性转、跨性别等主题。小说在探讨性别与身体认同的同时，还涉及了一些性相关的内容，表现出对角色之间情感与身体探索的细腻描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_脑波收发器.docx]([附身]_脑波收发器.docx)
 | Size            | 26653 bytes                           |
 | MD5             | e0cfaba152cdcd3bd31506f421e99324                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 意识融合, 脑波共振, 奇幻, 科幻, 男女之间的情感, 身体探索, 魔法耳环, 自我认知, 自我认同, 角色扮演, 青春, 恋爱, 陪伴, 奇妙体验, 性别认同挑战, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

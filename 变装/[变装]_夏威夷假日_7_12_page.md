@@ -7,7 +7,9 @@ TXT 下载: [[变装]_夏威夷假日_7_12.doc]([变装]_夏威夷假日_7_12.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《夏威夷假日 712》是以小说形式描绘的伪娘 TS 变身与跨性别主题故事。故事主要围绕主角唐妮的婚礼展开，凭借作者的细腻描写，读者可以感受到婚礼当天的紧张与兴奋的情感。唐妮在婚礼前接受了亲友的支持：她的姐姐玛丽和好友希尔达等皆为伴娘，为她的婚礼精心筹备，渲染出了一种温馨且充满期待的气氛。
+
+在进入婚礼拱门时，唐妮身穿精美礼服，心中充满了对未来的期待和对爱情的坚定。故事通过细腻的情感描写表现了角色对于性别认同与自我认知的冲突与转变，尤其是在面对婚姻时所产生的情感震撼。最终，唐妮在亲友的见证下，告别过去，勇敢迈向未来，展现出一种坚毅且美丽的新生活的开始。整个故事包含了对爱、家庭及自我身份的深刻探索，适合针对性别与性别认同进行学术研究的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_夏威夷假日_7_12.doc]([变装]_夏威夷假日_7_12.do
 | Size            | 54784 bytes                           |
 | MD5             | cfd6e68ec419532e93eafec60e0560c1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Clara                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 婚礼, 伪娘, 情感, 自我认同, 女性角色, 爱情, 成长, 家庭支持, 幸福, 友情, 社会认同, 情感宣言, 内心冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

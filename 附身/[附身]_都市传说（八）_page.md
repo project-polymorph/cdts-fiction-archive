@@ -7,7 +7,7 @@ TXT 下载: [[附身]_都市传说（八）.docx]([附身]_都市传说（八）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于都市传说的小说章节，讲述了年轻女性张悠雪在现代都市生活中遇到的种种奇遇与心理挣扎。故事开始于上海虹口区，描绘了年轻行人挤入轻轨的场景，年轻女人张悠雪匆忙赶到地铁站，并与一位年轻男士发生了互动。这段互动充分展现了现代都市生活中的人际关系以及男女之间微妙的情感交流。在这一过程中，张悠雪的自我认知不断受到挑战，她发现自己被老祖以一种不可思议的方式附身于年轻女人的身体中，经历着妻子、女儿和丈夫角色的混乱和错位。小说中的情节反映了性别认同和自我探索等深层次的主题，并在此基础上融入了一些跨性别和变身的元素。整篇文风细腻，通过日常生活中的小细节展现了角色内心的矛盾与挣扎，同时也涉及到一些限制级内容，描绘了部分炫耀的性别表现、欲望与情感的糾葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_都市传说（八）.docx]([附身]_都市传说（八）
 | Size            | 39642 bytes                           |
 | MD5             | 28043aa9bb0424a6687f8a7f7cc84a7c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 都市传说, 性别转换, 心理挣扎, 变身, 跨性别, 现代爱情, 情感纠葛, 自我认知, 奇幻, 错位关系, 性幻想, 都市生活, 女性角色, 交友                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

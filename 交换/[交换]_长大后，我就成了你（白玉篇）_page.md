@@ -7,7 +7,7 @@ TXT 下载: [[交换]_长大后，我就成了你（白玉篇）.docx]([交换]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《长大后，我就成了你（白玉篇）》花费了大量笔墨描绘了一位名叫白玉的女老师与其学生之间复杂的情感联结，以及随着一场车祸引发的命运急转直下的故事。白玉是一名优秀且受欢迎的教师，以其温柔和课堂上的魅力吸引了无数学生的爱慕。在故事的开头，主角回忆起白玉老师的美丽与智慧，透露了一段往昔。当白玉老师遭遇一场严重车祸后，主角急忙赶往医院，试图施以援手。然而，白玉的情况令人堪忧，脑部受到重创，成为植物人。文中描绘了主角对白玉老师深厚的敬意与感情，并通过回忆展现了他与她之间的师生情谊。同时，医生林勇希望通过一种风险极高的实验来挽救白玉，计划将她的一部分脑区转移到主角的脑内，以延续白玉的灵魂，这一疯狂的设想为故事增添了戏剧性和紧迫感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_长大后，我就成了你（白玉篇）.docx]([交换]_
 | Size            | 63088 bytes                           |
 | MD5             | 9ca0e9ced2852cf8b6bf369ea26e1636                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 教师, 白玉, 变身, 爱情, 车祸, 植物人, 师生恋, 记忆交换, 自我探索, 医院, 救赎, 情感纠葛, 奇幻, 青春, 思念                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_妻子的一切（第一章）.doc]([交换]_妻子的一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《妻子的一切（第一章）》，讲述了女主角叶子瑶在飞机上遇见了一位空姐，情节发展出乎意料，引发了她与身旁男性的对话。故事通过细腻的描写表现出叶子瑶内心的复杂情感，从初始的惊讶、尴尬，到后来的紧张和不安，展现了她对空姐的微妙感情，反映出她在面对旧情和新情之间的纠葛与自我认知的冲突。此章通过机舱场景展现了人物之间的互动，涉及她的过去记忆以及与现任伴侣的关系，令人在情节的推演中感受到情感的张力与角色身份的模糊。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_妻子的一切（第一章）.doc]([交换]_妻子的一�
 | Size            | 43520 bytes                           |
 | MD5             | 3874c7091501084eeeb23c1d1f02bf63                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 情感纠葛, 自我认知, 飞行旅程, 空姐, 复杂关系, 转变, 青春回忆, 女性角色, 现代都市, 爱情, 暗恋, 高跟鞋, 怀孕, 高压环境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

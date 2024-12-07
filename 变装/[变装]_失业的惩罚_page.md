@@ -7,7 +7,7 @@ TXT 下载: [[变装]_失业的惩罚.doc]([变装]_失业的惩罚.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《失业的惩罚》，是一个关于男主角李伟的跨性别性转的小说。故事开始于李伟因幼儿园的关闭而失业，他的生活因而陷入困境。为了维持生计，李伟与妻子欧阳玲娜和丈母娘同住，随之而来的却是他人生的转折。在丈母娘的反复讥讽和妻子的鼓励下，李伟被迫穿上妻子的旧衣服，体验到了女装的感觉。文中详细描写了他穿着旗袍、胸罩及丝袜的尴尬与羞愧，以及对自己性别认同的困惑。随着情节的发展，李伟逐步接受了身体的变迁，并与妻子的关系也逐渐升温，甚至发生了性关系。整个作品充满了复杂的性别认同和自我探索的主题，讨论了心灵与肉体之间的关系。故事中包含了一系列性别转换和性相关的情节，带有强烈的情色色彩，并描绘了一种颇具羞辱性且带有挑战传统性别观念的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_失业的惩罚.doc]([变装]_失业的惩罚.doc)
 | Size            | 222208 bytes                           |
 | MD5             | 3f0148fc3564a8aa5b356a20a2fcd97f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变装, 情色, 自我探索, 女装, 羞辱, 婚姻生活, 身体认同, 情感纠葛, 剧情发展, 男性角色, 弱者反抗, 性别认同, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

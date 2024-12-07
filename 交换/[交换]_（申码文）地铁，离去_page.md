@@ -7,7 +7,7 @@ TXT 下载: [[交换]_（申码文）地铁，离去.docx]([交换]_（申码文
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个名叫黄鑫的男生在学校和社会中因一场误会而遭受孤立的故事。故事开始时，黄鑫是一个习惯孤独的人，他的生活因一次地铁上的意外事件而彻底改变。在新开学的第一天，他因被误认为性骚扰者而被女生林巧巧指控。尽管他尝试解释，但周围的目光与对方的反应使他逐渐被迫接受了这种被孤立的现实。林巧巧利用这次机会在班级中成为了人气王，而黄鑫则成为了大家眼中的‘变态’，遭受排斥与歧视。黄鑫对自己的遭遇感到愤恨和无奈，同时他心中积蓄的怨恨开始指向林巧巧，暗示着后续可能的复仇行为。故事逐步展现了校园内的权力斗争与性别认同的问题，探讨了孤独与自我认同的话题，同时也掺杂了一些暗黑与悬疑的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_（申码文）地铁，离去.docx]([交换]_（申码文
 | Size            | 31721 bytes                           |
 | MD5             | 69fae6b92bed9b4a6d33a893e98170d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 孤独, 变身, 误解, 报复, 性别认同, 权力斗争, 暗黑, 悬疑, 社会孤立, 伪娘, 跨性别, 青春, 自我探索, 情感冲突, 性骚扰, 校园暴力, 心理阴影, 关系网                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蛇身_大结局_[.docx]([附身]_蛇身_大结局_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于附身和性别转换主题的小说，讲述了主角罗蒙被白蛇附身后的经历与变化。故事以罗蒙和其干女儿晓雪的关系为中心，描绘了晓雪被罗蒙的秘密和超自然力量所影响的过程。罗蒙的身体经过白蛇的附身，展现出一种奇异的变化，使他转变为一个成熟且魅力四射的角色。与此同时，晓雪对自己的身体存在疑问和迷惑，体会到了身体变化带来的全新感受。在故事中，有一条白蛇的精华被称为血丸，承载着白蛇的记忆与意识，进一步推动了情节的发展。细节描写中，晓雪逐渐对蛇产生了一种潜在的情感，甚至在梦中改变了自己的性格。文中涉及一些强烈的情感以及超自然的直觉，情节发展带有神秘且诡异的色彩。文本的叙述夹杂着情感与肉体的描写，呈现了一种奇幻而又复杂的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蛇身_大结局_[.docx]([附身]_蛇身_大结局_[.docx)
 | Size            | 19158 bytes                           |
 | MD5             | 8d9c314d33d4cfa1d0d4469eda80187f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 白蛇, 超自然, 成长, 自我探索, 剧情反转, 亲密关系, 梦幻, 魔法, 情感纠葛, 成熟魅力, 变身, 女性角色, 身体认同, 诡异气氛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

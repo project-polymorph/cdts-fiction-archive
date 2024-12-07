@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《夫尊天下》第12章_县城.doc]([改造]_《夫尊�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说《夫尊天下》的第12章，故事围绕古月乾、王忠贞和方二郎三位角色展开。陈述了王忠贞性别认同的问题，在扣人心弦的情节中，古月乾研究迷魂汤阵，试图让王忠贞觉察自己内心的变化。该章节中，古月乾的父亲写信叮嘱他要小心时局，并且提及了一种名为“四月春”的酒，暗示某种操控和权力的游戏。春花娘的角色通过书信传递了县里的腐败贪官以及必须亲自交罚款的紧迫感，增强了紧张氛围。古月乾运用金手指的能力操控方二郎，并成立以金钱为信仰的黑暗体系，动态展现了角色之间复杂的心理与权力游戏。最后，古月乾与田夏的重逢引出了往日的友谊和纷争，增加了情节的层次和深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《夫尊天下》第12章_县城.doc]([改造]_《夫尊�
 | Size            | 38912 bytes                           |
 | MD5             | 1c08a19d0b5165a75c582442b983eca1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 权力游戏, 心理操控, 金手指, 信件, 迷魂汤阵, 村镇生活, 角色自我认知, 情感冲突, 古代奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

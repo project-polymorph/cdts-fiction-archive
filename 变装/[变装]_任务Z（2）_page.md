@@ -7,7 +7,7 @@ TXT 下载: [[变装]_任务Z（2）.doc]([变装]_任务Z（2）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕一个男子在富人区的别墅中担任家教的故事展开。故事的主角是一名新来的女家教，她来到Y市的一处豪华别墅，准备教授一名叫王野的学生。在描绘豪华别墅的场景中，作者展示了奢华的环境和生动的细节，如屋顶的直升机和透明的泳池。随着男女主角的第一次见面，叙述逐渐进入了紧张的情节，王野显露出其色欲与霸道的特性，随后两人的关系迅速恶化。故事包含了丰富的色情内容，涉及性别和性别角色的探索，从家教关系演变为一种具有操控性质的性关系。小说中对人物的性格和环境的细致描写，使得故事更加引人入胜，充满了紧张的气氛与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_任务Z（2）.doc]([变装]_任务Z（2）.doc)
 | Size            | 33280 bytes                           |
 | MD5             | cadecc64f3f63334e6663beb446fcfae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 家教, 色情, 富人区, 性转, 变装, 伪娘, 权力游戏, 性别探索, 青少年, 豪华别墅, 自我认知, 禁忌关系, 学校生活, 欲望, 性别与权力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

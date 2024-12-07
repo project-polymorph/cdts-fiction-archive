@@ -7,7 +7,7 @@ TXT 下载: [[皮物]真实系皮物幻想.doc]([皮物]真实系皮物幻想.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇由千页豆腐酱创作的小说，标题为《真实系皮物幻想》，主要讲述了主角在龙缘科技的一次重要会面，以及其背后与另一名角色韩林的复杂关系。故事发生在未来的2032年，龙缘科技专注于医美和身体器官培植。主人公蔡明正在等待与韩林的会面，探讨一项名为“0号计划”的阴暗手术，涉及到真实系人皮的概念，即通过高科技手段实现性别和身体的完全替换。这篇小说介绍了角色之间的深厚情感以及他们对自身性别认同和身体认同的探索，情节包含了医美手术、心理变化和生理转换等元素，同时展现出对“真实系皮物”的科学幻想。小说的背景设定、情节发展及技术元素让人对未来的生物科技产生了深思，内容涉及性别认同、身份认同等深刻主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]真实系皮物幻想.doc]([皮物]真实系皮物幻想.do
 | Size            | 53248 bytes                           |
 | MD5             | 7bfbd7dc7715bc35cf68a43a009e4999                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 千页豆腐酱                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 真实系皮物, 身体转换, 性别认同, 科技幻想, 医美, 自我探索, 性别角色, 恋爱关系, 心理冲突, 阴暗手术, 未来科技, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

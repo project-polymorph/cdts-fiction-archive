@@ -7,7 +7,7 @@ TXT 下载: [[其他]_噬.doc]([其他]_噬.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于跨性别和变身主题的小说文本，讲述了一名角色在生死之间的挣扎和转变。故事从主角的死亡开始，描述了他被一个女性角色用匕首刺杀后的绝望与困惑。主角在死后并没有真正离开，而是进入了一个新的阶段，经历着对死亡、复活与身份认同的探索。文本中涉及了黑暗的法术和死灵法师的情节，描绘了尸体从墓穴中爬出的异象，以及在恐怖事件中，警方如何应对这种神秘现象的调查。故事还展示了主角与女性角色之间复杂的情感纠葛，以及复仇的主题。整个情节充满了超自然元素，结合了惊悚和悬疑的氛围，引发读者对死亡、生命与身份的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_噬.doc]([其他]_噬.doc)
 | Size            | 47104 bytes                           |
 | MD5             | 220b919191714a5c68e040778ab0faa8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2009-09-03                                 |
+| Tags            | 跨性别, 变身, 死灵法师, 超自然, 悬疑, 双重身份, 死亡, 复仇, 黑暗法术, 尸体复苏, 警探, 恐怖事件, 情感纠葛, 幻觉, 生死考验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

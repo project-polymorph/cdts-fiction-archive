@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我的高考.doc]([附身]_我的高考.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于高考的虚构小说，讲述了两个角色之间的身体互换与高考经历。故事的主角若梦以自己的身份走进考场，但实际上她的身体被另一个角色所控制。高考期间，角色通过遥控的方式来完成试卷，涉及到代考的情况。文本中详细描绘了高考的紧张气氛，以及主角经历的心理变化，如焦虑、期待和最终的释然。同时，故事中也涉及了若梦与另一个角色之间亲密的关系，细腻地刻画了彼此的情感与互动。整篇小说探讨了对自我身份的认同和高考带来的压力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我的高考.doc]([附身]_我的高考.doc)
 | Size            | 36864 bytes                           |
 | MD5             | c919200d04471b18425cff47e2d2f26b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 浮生若梦                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-06-08                                 |
+| Tags            | 性转, 高考, 身体互换, 情感纠葛, 青春成长, 代考, 自我认同, 幻想, 心理戏, 交互体验, 伪娘, 变身, 两性关系, 压力, 二次元, 校园小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

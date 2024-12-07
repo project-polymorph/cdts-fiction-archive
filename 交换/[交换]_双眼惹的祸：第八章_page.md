@@ -7,7 +7,7 @@ TXT 下载: [[交换]_双眼惹的祸：第八章.doc]([交换]_双眼惹的祸�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《双眼惹的祸》的第八章，主要描绘了男主角李凯与江月婷之间与性别认同和情感关系相关的情节。在市郊的一处别墅中，李凯被眼前的花海深深吸引，同时也经历了与江月婷的复杂情感互动。江月婷是李凯的女上司，此时她的身份揭露了角色意识的转换与性别的变化，前身是王莲玉的意识。小说中展现出两人之间的亲昵互动，以及李凯对于情感的震惊与反应。在这个过程中，江月婷逐渐揭示出她的真实身份和对李凯的感情，而李凯也在不断的怀疑与确认中陷入对她的情感。随着情节的发展，两者的关系稳步发展，同时也探讨了自我认同、缘分与爱等主题。本章展现情感的紧张和复杂，也包含了对身份和身体的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_双眼惹的祸：第八章.doc]([交换]_双眼惹的祸�
 | Size            | 40448 bytes                           |
 | MD5             | c1eda167470b19768e39e71bdb939a1d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身小说, 心理认知, 情感纠葛, 缘分, 自我探索, 伪娘, 哀伤, 爱情, 花园, 都市生活, 心理戏, 双重意识, 吸引与拒绝, 情感升温, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

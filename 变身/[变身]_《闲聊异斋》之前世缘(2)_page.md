@@ -7,7 +7,9 @@ TXT 下载: [[变身]_《闲聊异斋》之前世缘(2).doc]([变身]_《闲聊�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转换与情感纠葛的小说，讲述了一个男孩在经历了一场手术后，重生为女孩的故事。故事回溯到二十年前的一桩谋杀案，牵扯出主角和青山之间复杂的情感联系。通过对主人公彩樱的视角，描绘了她在变性后的心理挣扎与自我认同。文件中包含对角色内心活动的细腻描绘，以及对性别转变过程中，社会认同与自我认同冲突的探索。
+
+故事分为多个章节，描述了彩樱在经历手术成功后的喜悦与困惑，面对全新的身份，她的内心充满了纠结与不安。而与青山之间的互动，则逐渐揭示出二人曾经的情缘与命运的交织。整部小说不仅涉及性别认同，还探讨了爱与失去、过去与现在的反思，表现出深刻的人性和复杂的情感关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_《闲聊异斋》之前世缘(2).doc]([变身]_《闲聊�
 | Size            | 41472 bytes                           |
 | MD5             | f0b2791134aa86ef2ae2ef07f7cffdbe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 青春, 情感纠葛, 自我认同, 手术, 婚恋, 男孩与女孩的视角, 回忆, 凶案调查, 重生, 身份认同, 青春期心理, 性别转换, 创伤与救赎, 男女关系, 成长, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

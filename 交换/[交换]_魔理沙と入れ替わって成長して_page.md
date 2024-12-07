@@ -7,7 +7,7 @@ TXT 下载: [[交换]_魔理沙と入れ替わって成長して.doc]([交换]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇围绕《魔理沙与猪太郎交换身体》的短篇小说。故事讲述了雾雨魔理沙因为魔法研究遇到瓶颈而寻求灵感，结果通过魔导书施展了一个大魔法，意外地与丑陋孤僻的猪太郎交换了身体。猪太郎成为了魔理沙，体验了作为女性的生活，而原本的魔理沙则被困在猪太郎的身体里。猪太郎在取回身体的过程中，起初感到困惑和愤怒，最后却意外地发现自己的记忆苏醒，并计划如何夺回自己原本的身体。整个情节探讨了性别认同、自我探索等主题，并融入了一定的色情与奇幻元素。故事中包含了对角色身份和心理变化的剖析，例如猪太郎对魔理沙的复仇心理和魔理沙对新身份的适应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_魔理沙と入れ替わって成長して.doc]([交换]_�
 | Size            | 39936 bytes                           |
 | MD5             | 03830d20d374a9be8657835d2bef16f8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 变身, 跨性别, 男性视角, 性别认同, 自我探索, 奇幻, 伪娘, 魔女, 性别转换, 冒险, 心理战, 日常, 爱情, 女性向, 恶搞                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

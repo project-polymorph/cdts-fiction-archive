@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_伪满洲谍变——欧歌（3）.doc]([皮物]_伪满洲
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部伪娘和跨性别相关的小说文档，主要讲述1937年伪满洲国时期，一个叫做牛仙彩的女人在新京的一家娼妓馆京华院的生活故事。故事设定在白雪覆盖的大街上，描绘了伪满洲国社会的黑暗面与人物的复杂情感。牛仙彩由于家中贫困，早早辍学为生，而后因历史原因失去亲人，来到了新京开设娼妓馆。她在经营娼妓馆的同时，心中怀有对大和侵略者的仇恨，并希望通过自己的方式帮助被压迫的人民。她与大和军官之间的互动揭示了她内心的妥协与斗争，同时也刻画出那个时代的社会风俗与人性的复杂。文中涉及到了一些限制级的情节，包括性交易与权力的游戏，以及对历史的思考和对女性命运的反抗。整体上，小说以细腻的笔触展现了伪满洲国的暴力与压迫下，仍有强烈人性与生存欲望的女性形象。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_伪满洲谍变——欧歌（3）.doc]([皮物]_伪满洲
 | Size            | 74240 bytes                           |
 | MD5             | 99784a9800b2851dd86f4d13832d90c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 伪满洲国                               |
+| Date            | 1937-11-04                                 |
+| Tags            | 伪娘, 跨性别, 性转, 历史小说, 娼妓, 抗战, 女性主义, 权力斗争, 社会剖析, 自我认同, 情感冲突, 人性探讨, 伪满洲国, 政治腐败, 性别认同, 性交易, 抗日战争, 历史记忆, 心理描写, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身之穿越阿朱_（一至四章）.doc]([变身]_变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇关于变身小说的章节，讲述了一位名叫朱敏的男性角色在酒席上喝酒后昏迷，醒来后发现自己穿越到一个古代社会，变成了一个身体受了伤的小孩，面临着阉割的尴尬境地。故事中，朱敏初醒时与一位老妇人严妈妈的对话，揭示了他的惨遭阉割的命运，以及他对未来的迷茫与不安。随着剧情的发展，朱敏渐渐意识到自己的新身份是金庸小说《天龙八部》中的阿朱，内心充满了愤慨与不甘。他在一系列复杂的情绪与环境中努力寻找自我价值，并坚定决心要在这个新世界中闯出一片天地。文本中包含丰富的情感描写和对角色内心斗争的刻画，同时涉及性别认同、自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身之穿越阿朱_（一至四章）.doc]([变身]_变
 | Size            | 71168 bytes                           |
 | MD5             | ca4cf69f0a5ec543c0116addd813a121                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 屎坨子                               |
+| Region          | 未知                               |
+| Date            | 2015-03-04                                 |
+| Tags            | 变身小说, 性转, 穿越, 自我认同, 跨性别, 阉割, 小说摘录, 情感探索, 古代社会, 朱敏, 阿朱身份, 社会地位, 无奈与愤慨, 奇幻, 文学研究                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

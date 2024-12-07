@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身“美女”的遭遇.doc]([变身]_变身“美女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一部虚构的变身小说，讲述了一个名叫杨小益的25岁男性以及他渴望变身为女性的心理斗争和冒险故事。故事伊始，小益常常游荡在女人街，心中怀有一个秘密的愿望，希望能大方地穿上漂亮的衣服、扬起下巴走过街道。尽管他内心渴望，外表的柔弱和经济的拮据让他无从尝试。故事的发展引入了一个名为“易身服装店”的神秘小店，老板娘以一种诙谐且温暖的态度，跟小益分享了一个改变自己性别的可能途径。店内的环境氛围神秘而古怪，墙上挂着的“人皮”不仅仅是变装用的工具，更是一种象征着身份与欲望的象征。小益面临着道德与欲望的考验，他在渴望与恐惧中最终决定迈出那一步，准备体验变身之后的快感。这个故事探讨了一系列有关性别认同、自我探索和内心冲突的主题，是一部充满幻想与情感的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身“美女”的遭遇.doc]([变身]_变身“美女�
 | Size            | 31232 bytes                           |
 | MD5             | 4498d075920386bbb4e296d4cc7b6c72                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 性别转换, 自我探索, 心理剧, 隐秘愿望, 跨性别, 魔法, 幻想, 性别认同, 女性形象, 性别身份, 欲望, 内心冲突, 奇幻, 愉悦体验, 自我认知, 性别表现                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《香》其一.doc]([变身]_《香》其一.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《香》其一，描绘了一个年轻人在搬回爷爷遗留下来的偏僻村庄后的经历与感受。故事通过搬家过程中内心独白的方式展开，谈及了他愈发显得孤独而内心复杂的思考。主人公在搬家的车上，不断被城市与乡村的对比所吸引，同时又对生活在偏僻村庄的未来感到不安。他回忆起爷爷的传说以及自己对创作的期许，带着对写作灵感的渴望，试图在这个新环境中找到灵感。文中提及的环境细节，如杂草丛生的荒野、突然降临的夜晚、和迷失于自我困惑中的个人思绪，反映了一种宁静与孤独并存的心境。此外，他还发现了在地下室存在的几本日记，这些日记契合了该地区的民间神话和传说，使得故事逐渐笼罩上了一层神秘色彩。随着主人公的探索，读者能够感受到角色的自我认知和对归属感的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《香》其一.doc]([变身]_《香》其一.doc)
 | Size            | 60416 bytes                           |
 | MD5             | c88a7869ac24a18a0d7cea74279b53b5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 孤独, 神话传说, 自我探索, 大学生生活, 农村生活, 心理描写, 创作灵感, 野外探险, 家族遗产, 民俗学, 安宁与孤独, 幻想, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

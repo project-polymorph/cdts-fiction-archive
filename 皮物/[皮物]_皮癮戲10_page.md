@@ -7,7 +7,8 @@ TXT 下载: [[皮物]_皮癮戲10.docx]([皮物]_皮癮戲10.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于伪娘和变身主题的小说章节，内容涉及主角Shelly在监狱即将执行的行刑日之前所进行的准备与心态。故事围绕着Shelly通过科学手段制造出一种"皮物"，并尝试穿上这种肉色的皮衣，从而实现性别的转换与伪装。文本描述了Shelly对这种改造的兴奋，以及她对即将到来的行动的计划和思考。
+章节中，Shelly的内心独白展示了她对这种新身份的渴望与期待。“果然沒錯...呵呵...這不就是我長久以來夢寐以求的嗎...”表达了她渴望拥有女性身份的强烈愿望。同时，文章中还提到了一名角色，周乃虹，一个具备专业素养和深厚职场经验的女性，展现了她和婭妍之间的信任关系。整个故事流露出对性别认同和自我探索的思考，且可能包含不适合未成年人观赏的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +22,10 @@ TXT 下载: [[皮物]_皮癮戲10.docx]([皮物]_皮癮戲10.docx)
 | Size            | 23356 bytes                           |
 | MD5             | d196d03f3cab132b1bc960b0d391cb9c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 伪娘, 跨性别, 性转, 皮衣, 角色扮演, 自我探索, 监狱, 禁忌关系, 现代都市, 内心独白, 女强人, 模特儿行业, 情感纠葛, 科技幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

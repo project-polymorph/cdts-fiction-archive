@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_亡灵秘录（第二章）.docx]([皮物]_亡灵秘录（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是《亡灵秘录》的第二章，描写了两位女性在一个酒店房间内的亲密互动场景，内容充满了色情与性转的主题。故事的主角原为男性大学生李傲东，但在情节中经历了一系列变化，变身成为一位美丽的女性，角色的自我认知与性别认同在文中得到了探讨。文中提到的艾琳和张倩在床上的激烈动作，以及主角对女性身体和快感的沉迷，深刻反映了角色对于新身份的接受与享受。紧接着，故事转向警局的一场紧急会议，提及一起涉及暴力事件的调查，给情节增添了悬疑与紧迫感。整体上，此章节结合了变身、跨性别认同和犯罪调查等多重元素，描绘了复杂的情感与身体的经验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_亡灵秘录（第二章）.docx]([皮物]_亡灵秘录（
 | Size            | 24082 bytes                           |
 | MD5             | 82e53c04aaef2d4cc17a873d4765e560                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 跨性别认同, 性别探索, 性爱, 强烈的亲密关系, 权力动态, 悬疑, 暴力事件, 自我认知, 女性视角, 肉欲快感, 女性身体, 酒店场景, 美国流行文化, 奇幻, 反转剧, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

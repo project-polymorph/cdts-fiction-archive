@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_XES皮物会所（四）.doc]([皮物]_XES皮物会所（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇描绘性别转换与情感互动的网络小说，主要围绕两个女性角色秦月与苏珊的游乐场冒险经历展开。在游乐场中，两人不仅享受各种娱乐设施的刺激，还展现了她们之间亲密的情感互动。文本中涉及了一系列情感丰富的对话，例如苏珊撒娇询问秦月的感受，二人相互调侃与抱怨高跟鞋的疲惫，并带有轻微的性暗示，展现出一种暧昧的氛围。游乐场的遭遇与周围男性的理想化反应也构成了故事的一部分，增添了情节的趣味性。整体内容表现了对性别认同和角色扮演的探索，同时也含有一些限制级的情节描写，适合对跨性别及变身题材感兴趣的读者。文本末尾提到的“人皮
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_XES皮物会所（四）.doc]([皮物]_XES皮物会所（�
 | Size            | 39424 bytes                           |
 | MD5             | 0e794a5ad132cc327525a87fbecda3c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 游乐场, 暧昧关系, 女性向, 角色扮演, 情感互动, 变身小说, 二次元文化, 自我探索, 现代都市, 性感角色, 羁绊, 性暗示, 友谊, 身份认同, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

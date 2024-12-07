@@ -7,7 +7,7 @@ TXT 下载: [[变身]_普通的一家（4-6）.doc]([变身]_普通的一家（4
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《普通的一家（4-6）》描述了一个涉及性别转换和家庭角色重塑的故事情节。故事围绕几位角色展开，包括加勒特、肯德尔和他们的女儿曼蒂。故事的一开始，角色们即将面临新的身份和生活体验，感受到从男性转变为女性后的困惑和挣扎。加勒特和肯德尔因病请假而面对家庭中的各种变化，包括他们女儿曼蒂表现出的对新家庭生活的熟悉。情节中充满了幽默和尴尬的互动，例如当曼蒂记不起自己的前任身份时，加勒特和肯德尔试图掩饰和适应新的身份。此外，汉娜作为另一个主要角色，其对身份变化的困惑与焦虑添加了更深的情感层面。与此同时，角色们在试图弄清楚自己身份变化的原因，揭示出与化学试验和万象、变化有关的可能线索。随着故事的发展，角色们的情感和关系也在不断深化，探讨着性别认同、自我探索及家庭动态等复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_普通的一家（4-6）.doc]([变身]_普通的一家（4
 | Size            | 70144 bytes                           |
 | MD5             | 4b4dc9bb5731de1000d9b4ab2434004d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 家庭角色, 自我认知, 日常生活, 心理冲突, 幽默, 身份认同, 变身, 困惑, 家庭互动, 情感探索, TSF, 变嫁, 伪娘, 男子变为女子, 新生活挑战                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

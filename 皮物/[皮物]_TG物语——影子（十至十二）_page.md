@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_TG物语——影子（十至十二）.doc]([皮物]_TG物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名女性角色李佳琦的故事，围绕她与一位名为梁菲的女性之间复杂的关系展开。故事中，李佳琦为了满足奢侈的生活出轨并与梁菲有所联系。然而梁菲却是一个自私虚伪的人，甚至有黑道背景。李佳琦迫于需要，为了能获得合适的“生意”，不得不接触梁菲，二人其间的关系充满利益与操控。在一段涉及到黑暗交易和性别角色错位的剧情中，李佳琦因为愤怒而杀死了梁菲，并开始思考如何掩盖这一罪行。在此过程中，李佳琦的自我认知和性别认同发生了重大变革，逐渐揭示出她对自身.identity的挑战，以及角色在新身体中的适应和挣扎。故事内容涉及不道德的选择、生死存亡的抉择，以及对人性阴暗面的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_TG物语——影子（十至十二）.doc]([皮物]_TG物
 | Size            | 41472 bytes                           |
 | MD5             | c4a62056914e5744d831d145de70e860                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 性别转换, 黑暗交易, 心理斗争, 男女角色逆转, 杀人, 虚伪, 奢侈生活, 女性形象, 角色发展, 权力游戏, 情感纠葛, 校园故事, 心理阴影, 暴力行为, 跨性别刺激                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

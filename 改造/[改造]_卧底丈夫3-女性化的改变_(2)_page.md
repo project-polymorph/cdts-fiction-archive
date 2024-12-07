@@ -7,7 +7,7 @@ TXT 下载: [[改造]_卧底丈夫3-女性化的改变_(2).docx]([改造]_卧底
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说的一部分，主要讲述了一名男性在接受女性化改变后的经历。故事中的主人公志愿接受女性化训练和外科手术，以便更好地适应其妻子维多利亚的期望。在这段时间里，他经历了身体、外貌和心理的重塑，痛苦和惊恐交织。在被永久性脱毛后，他意识到变身所伴随的疼痛，以及性别认同的困扰。故事的细节，诸如被限制行为能力的电击项圈、对女性服装的逐渐适应，以及最终被迫顺从的心态，描绘了一幅关于身份转变和自我探索的复杂画面。随着情节的发展，读者能感受到他面临的各种内心冲突和身心变化，也反映出对于性别认同的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_卧底丈夫3-女性化的改变_(2).docx]([改造]_卧底
 | Size            | 19677 bytes                           |
 | MD5             | 13da974aaac2b8857c2dfffb37978629                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变装, 女性化, 伪娘, 跨性别, 电击项圈, 外科手术, 女性训练, 心理变化, 性别认同, 自我探索, 男性转变, 女仆, 性感服装, NTR, 药物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

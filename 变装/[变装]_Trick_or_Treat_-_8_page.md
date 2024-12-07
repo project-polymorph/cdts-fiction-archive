@@ -7,7 +7,11 @@ TXT 下载: [[变装]_Trick_or_Treat_-_8.doc]([变装]_Trick_or_Treat_-_8.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于艾米和杰米之间的情感交流与内心挣扎的深入探讨。故事发生在一个温暖的午后，杰米在经历了一系列心理和生理的变故之后，开始向艾米坦白自己的伤痛和变化。文中详细描绘了杰米对于自己性别认同的探索，以及他与他人之间复杂的关系——特别是与艾米之间的深厚情感。
+
+文本展示了杰米为了重新找回爱和自我价值而与过去作斗争的过程。在分享自己的经历时，他回忆起了与不同人的关系——包括始终陪伴在侧的艾米，以及在他身心崩溃时意外相遇的人。杰米在与艾米坦诚交流中，回忆起与男性发生关系后的震撼、自我怀疑和由此带来的内疚，这些情感交织在一起，让他陷入了情感的深渊。
+
+艾米则表现出对杰米变化的接受与关心，她柔和而坚定地为杰米提供情感支持，渴望恢复之前的坦诚关系。整个故事探讨了性别认同、内心挣扎、爱与接受的主题，情感真挚而细腻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变装]_Trick_or_Treat_-_8.doc]([变装]_Trick_or_Treat_-_8.doc)
 | Size            | 86528 bytes                           |
 | MD5             | c95222580ef38b0537627eaf7493d5e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 跨性别, 情感关系, 艾米与杰米, 心理挣扎, 性别变化, 深情对话, 内心冲突, 社会压力, 自我接受, 恢复爱情, 人际关系, 转变, 秘密与坦诚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

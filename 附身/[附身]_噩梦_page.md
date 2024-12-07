@@ -7,7 +7,7 @@ TXT 下载: [[附身]_噩梦.docx]([附身]_噩梦.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别和变身题材的小说，讲述了高三学生周岚在校园中无意间目击一起针对一名女生的暴力事件。故事从校园的宁静开篇，描绘了周蔓的紧张与恐惧。在周末的学校，他因忘记书包而回到校园，偶然听到女厕传来的呼救声，发现一名女孩正被一个男子袭击。出于义愤，周岚试图制止暴行，却不幸被反击重伤。在经历这一切的痛苦后，他陷入噩梦，梦中那个女孩愤怒地指责他。接下来的情节中，周岚逐渐了解到女孩的故事，并在一次次的心理挣扎中面对性别认同和自我探索的问题。文中通过梦境和现实交错的方式，探讨了复杂的人际关系及性别与自我认知之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_噩梦.docx]([附身]_噩梦.docx)
 | Size            | 30918 bytes                           |
 | MD5             | 1260cb999fa4b280b6bbea892c587d6f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 校园暴力, 自我探索, 噩梦, 强暴, 跨性别, 武术对抗, 心理恐惧, 男生与女生的关系, 青春校园, 恐怖, 爱情, 少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

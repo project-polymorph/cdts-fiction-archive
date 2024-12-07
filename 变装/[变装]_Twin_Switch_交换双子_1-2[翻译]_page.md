@@ -7,7 +7,9 @@ TXT 下载: [[变装]_Twin_Switch_交换双子_1-2[翻译].docx]([变装]_Twin_S
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本档案馆收录的《Twin Switch 交换双子》是一本围绕角色性别角色交换及自我认知变迁的文学作品，主要讲述了在一家美容院内部发生的故事。章节开头描绘了女店主金正坐在桌后打发时间，直到两个年轻男孩/女孩的模糊身份闯入了她的视线。她试图分辨两个外貌出众的孩子性别，在与孩子们的继母进行对话时，逐渐揭示了孩子们及其复杂的家庭背景。继母希望能够通过改变孩子们的造型来塑造他们的新形象，尽管孩子们似乎并不情愿。
+
+随着故事的推进，伴随性别的模糊与角色身份的交换，作品探讨了性别认同与自我形象的重要性。在继母的引导下，金开始设想孩子们的任何新造型，从而开启一段变装旅程。文本涉及的主题包括性别交换、继母与继子女间的微妙关系、以及对青春期自我探索的探讨，为读者呈现出多元性别表达的可能性，同时反映出个体对于身份认同的思索与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_Twin_Switch_交换双子_1-2[翻译].docx]([变装]_Twin_S
 | Size            | 30046 bytes                           |
 | MD5             | fed705d3aafb53e438001ab994d36541                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 双子, 性别交换, 变装, 美容院, 继母, 角色认同, 自我形象, 青春期探索, 复杂家庭关系, 性别模糊                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

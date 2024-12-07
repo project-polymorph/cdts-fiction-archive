@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_雾影重重4.docx]([皮物]_雾影重重4.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一段伪娘类型的小说内容，围绕主角进入一栋神秘大厦并与总裁萧烨进行互动的情节展开。在城市一角，一个衣着时尚的年轻女孩走入雍煌大厦，这位女孩与之前的艺术片中的女主人公有着相似的魅力。随着故事的发展，保安小王对大厦内部的神秘感到困惑，目睹了一个个年轻女孩进入八楼总裁办公室后再也没有出现。总裁萧烨则在办公室讨论某个名为周晓雪的女孩的任务完成情况，掀开了隐秘的组织背景。文中包括了对复杂人际关系及性别角色的探索，潜藏着悬疑且略带黑暗的情节，描绘了心理上的冲突和角色的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_雾影重重4.docx]([皮物]_雾影重重4.docx)
 | Size            | 16712 bytes                           |
 | MD5             | bad2b5b625be2f5492ba95dad377f937                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 都市, 悬疑, 总裁, 暗黑, 组织, 女孩, 心理戏, 交流, 性别认同, 自我探索, 神秘大厦, 特殊身份, 阴暗面, 任务执行                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

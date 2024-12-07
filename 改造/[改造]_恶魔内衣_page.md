@@ -7,7 +7,7 @@ TXT 下载: [[改造]_恶魔内衣.docx]([改造]_恶魔内衣.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性转题材的小说，内容围绕一个名叫王宏的男性角色，通过获得一件女恶魔莉莉丝留下的神秘内衣，进行变身的奇幻过程。在故事中，王宏在古堡中找到这套发着红光的女性内衣，学习到恶魔的记忆后，决定使用它实现自身的性别转换。他的目标是变成一个富翁的女儿秦雅琴。故事中详细描写了王宏通过迷药昏迷秦雅琴，并用内衣进行变身的过程，充满了幻想与欲望的元素。小说探讨了性别认同、自我探索以及对身体的控制等深刻主题，同时包含一些成人向内容。在最终的变身中，王宏经历了身体剧烈的变化，并感受到性别转换带来的新体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_恶魔内衣.docx]([改造]_恶魔内衣.docx)
 | Size            | 22697 bytes                           |
 | MD5             | 9da91a08b85b11f8416ed49f9a03897e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 恶魔内衣, 自我探索, 性别认同, 奇幻, 男性角色, 女性形象, 恶魔传说, 幻想小说, 变嫁, 性别变换, 青春期心理, 冒险, 成人向, 奇幻世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

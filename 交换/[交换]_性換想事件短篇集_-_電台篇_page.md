@@ -7,7 +7,7 @@ TXT 下载: [[交换]_性換想事件短篇集_-_電台篇.docx]([交换]_性換
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《性換想事件短篇集 - 電台篇》包含了一系列围绕性别转换及相关情节的短篇小说，描绘了主角承傑与女神妙妤之间复杂而富有奇幻色彩的身体交换故事。在小说中，承傑是对妙妤崇拜已久的宅男，因缘故与其发生互换，承傑在获得妙妤的身体后，探索着新身份带来的性别身份认同与生理上的快感。薇妤起初感到恐慌，但随着故事的发展，两人逐渐适应新的身份，承傑成为了广为人知的女明星，而妙妤则作为承傑的经纪人继续生活。小说还探讨了楚宁作为记者和建伟之间复杂的性权力关系，以及壬峨在无意中目睹成人节目后产生的好奇，带出青春期性探索的主题。整体内容包含明显的性与跨性别主题，并涉及一系列复杂的人际关系与自我认同的探索，是围绕多元性别与性行为的大胆叙述。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_性換想事件短篇集_-_電台篇.docx]([交换]_性換
 | Size            | 22835 bytes                           |
 | MD5             | 081c34a43d402a6c1c812b882880abce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性变换, 身体交换, 伪娘, 跨性别, 性别认同, 欲望探索, 青春期性探索, 成人影片, 性权力关系, 幻想文学, 女神崇拜, 性角色 reversal                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

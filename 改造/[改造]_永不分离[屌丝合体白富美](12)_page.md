@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](12).docx]([改造]_永
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部以性转与变身主题为中心的小说，讲述了主角在一次意外中被迫经历自己性别的转变，以及随之而来的复杂情感和冲突。在故事中，主角与女性角色孙俪之间的关系随着她的变化而变得紧张，尤其是在她们遭遇绑架的情况下，主角对孙俪的情感开始产生微妙的变化。文本中包含了对自我认知、性别认同及生理性的探索和描写，涉及到对冲突和羞耻感的内心挣扎。与此同时，作品也描绘了一些限制级别和情绪化的场景，例如对强迫和羞辱的描写，突显出角色在危机中所面临的情感折磨和心理压力。整个故事展现了在极端情境下人性的复杂和对自身身份的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](12).docx]([改造]_永
 | Size            | 36822 bytes                           |
 | MD5             | 85655c4d107917fbc1f2f677e0cdd0ce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 强迫, 绑架, 自我认知, 性别变化, 情感冲突, 心理探讨, 虐恋, 二次元, 强奸, 春药, NTR, 屌丝合体, 变化, 性别认同, 都市爱情, 恐怖故事, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

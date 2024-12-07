@@ -7,7 +7,11 @@ TXT 下载: [[其他]_仙噬(七).docx]([其他]_仙噬(七).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《仙噬》第七章以沈家堡为背景，展现了一幅修真界的热闹场景。故事围绕女主角沈妙依展开，她在修真坊市感受到周围修士的目光，心中既得意又不自然。沈妙依回望自己的过去，心里却想着如何在这环境中保全自己。随着情节的发展，沈妙依得知天道宗的星舟相撞事件，引发了对修真界核心势力的内心思考。
+
+而在沈家堡的探亲聚会上，沈妙依悄然进入沈雨霏的闺阁，通过布置的幻阵引导沈雨霏进入梦境，暗示她成为自己的双修道侣。章节中的情感描写细腻且充满冲突，沈妙依不仅面对着自我认同与生理性别的转变，还要应对沈雨霏的内心挣扎。章节末尾，随着沈妙依与沈雨霏的亲密关系逐渐发展，情节引入了色情元素，通过双方意愿建立的亲密感，展现了一种复杂的情感纠葛。
+
+本章探讨了修真界的权力关系、性别认同及潜在的伦理问题，情节涉及激情、诱惑以及情感的脆弱性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[其他]_仙噬(七).docx]([其他]_仙噬(七).docx)
 | Size            | 21489 bytes                           |
 | MD5             | cdbef4f8d231e776bd05e2d1dce9a0b8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 修仙, 幻阵, 双修, 性转, 女性视角, 情感纠葛, 修真界, 伦理, 权力关系, 梦境, 色情内容, 自我认同, 仙侠, 灵力, 性别转换, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

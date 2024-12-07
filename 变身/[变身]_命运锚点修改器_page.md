@@ -7,7 +7,7 @@ TXT 下载: [[变身]_命运锚点修改器.doc]([变身]_命运锚点修改器.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《命运锚点修改器》是一篇关于一款名为《命运锚点查询》的应用程序的短篇小说。这款APP能够预测用户未来即将发生的事情，被称作“命运锚点”。故事的主角秋寺良在通勤途中，无意中接收到这个应用程序并开始体验它的神奇能力。他在公车上得知即将被上司责骂的预言，随后与同事春树的对话中尝试了解这款应用的更多功能。秋寺良尝试通过编辑这款APP中的内容来改变他的命运引发了接下来的故事线。在故事的后半部分，秋寺良与他的上司花田前辈之间的尴尬互动被描绘得活灵活现，充满了暧昧及性暗示的色彩。文中涉及了对命运的探索以及个人欲望的层面，这是一篇结合了奇幻、职场与恋爱元素的小说，同时也反映了现代人对于命运与自由意志的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_命运锚点修改器.doc]([变身]_命运锚点修改器.
 | Size            | 249344 bytes                           |
 | MD5             | cbd52d6dcfec6696cadafda164e60dd5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 命运, APP, 职场小说, 性转, 跨性别, 职场新人, 幻想, 现代社会, 自我探索, 欲望, 神秘, 恋爱, 女性角色, 男性角色, 自我认知, 互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

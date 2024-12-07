@@ -7,7 +7,7 @@ TXT 下载: [[交换]_真理奈的恶作剧_P04(下).doc]([交换]_真理奈的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于变身与跨性别主题的小说《真理奈的恶作剧》的部分内容（第4部分下）。全文描绘了一名男性角色在被变身为女性后，与另一名女性角色之间发生的复杂性互动。在这个高度色情化的情节中，角色之间的身份与性别的混淆是明显的，尤其是主角在幻想和现实之间挣扎。内容包含对身体的探索和对自身性认同的混淆，伴随大量的性描写和自我愉悦的经历。文中用到了一些直白而露骨的语言，涉及性行为、自慰及相互抚慰的细节，展现了对性欲的强烈描绘与精神上的冲突。角色的内部独白显示出对自己新身份的困惑与不安，使得整个故事充满了对身体与性的探索与反思。整体语言风格偏向写实，给读者以强烈的视觉与心理冲击。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_真理奈的恶作剧_P04(下).doc]([交换]_真理奈的�
 | Size            | 40960 bytes                           |
 | MD5             | 617bb43f04613e35b41a3e881d9bd155                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 自慰, 女同, 强奸, 伪娘, 男娘, 调教, 幻想, 快感, 性别认同, 自我探索, NTR, 纯爱, 淫荡, 乱伦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

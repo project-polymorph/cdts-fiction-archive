@@ -7,7 +7,7 @@ TXT 下载: [[交换]_伪娘与人妻的殊途同归.doc]([交换]_伪娘与人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档名为《伪娘与人妻的殊途同归》，是关于一名生理性别为男性的角色，通过自我认知的变化和变性手术，变成了一个女性角色，且成为了一名人妻。在文本中，角色细致入微地描绘了自己的外表变化，身穿酒红色紧身连衣裙，并以此进行自我陶醉和自我认知的反思。文章探讨了角色从男孩成长为美熟妇的心理历程和性别认同的冲突，同时充满了性感与挑逗的描写，具体情节表现出角色对自己外貌的欣赏和对过去身份的细腻吟思。随着故事的展开，角色经历了与男性角色的亲密关系，情节涉及强烈的性幻想和自我认同，迎合了AG（自我女性恋）的主题。整体文本在叙述上生动形象，富有想象力而且对性别转变的细节进行了深刻的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_伪娘与人妻的殊途同归.doc]([交换]_伪娘与人�
 | Size            | 37376 bytes                           |
 | MD5             | ed8bc0170c69297bd5ade3482b82b461                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 人妻, 强烈幻想, 性转, AG心理, 男性视角, 性别冲突, 自我探索, 性欲, 女性化, 假发, 女性外貌, 快感体验, 心理变化, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

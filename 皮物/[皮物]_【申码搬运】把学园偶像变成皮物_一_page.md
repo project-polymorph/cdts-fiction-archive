@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码搬运】把学园偶像变成皮物_一.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说，主要讲述了一个男生通过神秘的皮物开关变身为他喜爱的学院偶像天王寺璃奈的故事。故事中，主人公因对璃奈的强烈崇拜和自己性别认同的混乱而开始探索变身的过程。他使用了璃奈酱制作的皮衣，通过穿戴这一皮物，逐渐体验到璃奈的身体感受，包括身体的柔软和敏感度，伴随的有内心的雀跃和混乱。在这一过程中，主人公感受到了女孩子身体的种种趣味和欲望，展现了一场关于性别转换和自我认同的奇妙旅程。故事内容涉及大量的性暗示和性探索，且用第一人称将内心的兴奋与迷茫细腻描绘，传达出一系列复杂的情感与身体体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码搬运】把学园偶像变成皮物_一.doc]([�
 | Size            | 103424 bytes                           |
 | MD5             | 6594a3054ea0cb241f905e7cde334429                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 吉玉                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 爱情, 二次元, 成人内容, 性幻想, 奇幻, 夜生活, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

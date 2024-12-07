@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_一个女装大佬的故事5.doc]([皮物]_一个女装大
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件讲述了主角林倩与好友欧阳晴的互动故事，主要设定在豪华的希尔顿酒店内。林倩是一名伪娘主播，她在直播间中展现了自己作为富家小姐的身份，吸引了一大批男性观众。故事细致描绘了林倩在酒店的经历，包括与酒店工作人员的互动以及与欧阳晴的亲密关系。尤其是在酒店中，林倩的身份被误认为是高贵的客户，带来了意外的待遇，然而在一系列计划与秘密之下，林倩的真实身份和她与欧阳晴之间的关系暗藏玄机。文中详细描写了他们的情感交流及一系列与变装和身份认同相关的情节，展现了复杂的心理活动与角色互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_一个女装大佬的故事5.doc]([皮物]_一个女装大
 | Size            | 50176 bytes                           |
 | MD5             | e615255fae2081a6d2833339c273b9b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 跨性别, 直播, 富家小姐, 情感互动, 爱情, 情色, 青春, 酒店, 角色扮演, 网络直播, 友谊, 秘密, 欺骗, 自我认同, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

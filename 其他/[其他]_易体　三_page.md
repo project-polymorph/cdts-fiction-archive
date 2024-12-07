@@ -7,7 +7,7 @@ TXT 下载: [[其他]_易体　三.docx]([其他]_易体　三.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《易体 故事三》，主要讲述了一名青年孟言因患有罕见怪病，生命即将走到尽头的悲伤故事。故事中，孟言的青梅竹马柳映月陪伴在他身边，她们是在孤儿院中长大的相依为命的伙伴。柳映月对此深刻地意识到，孟言是她心中最重要的人，因此她承担起了照顾孟言的责任。小说描绘了他们之间的深厚情感，以及柳映月为了拯救孟言而努力奋斗的挣扎。在故事的后半段，柳映月遇到一个神秘男人，他提出用金钱交换柳映月的身体作为治疗孟言的代价，给故事增添了复杂的道德冲突和选择。整篇文章不仅探讨了爱情的深度，还涉及到生死、伦理和自我牺牲等主题，展现了角色在绝境中进行的情感抉择和内心挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_易体　三.docx]([其他]_易体　三.docx)
 | Size            | 54056 bytes                           |
 | MD5             | 96fcaaf429f88d2698ed9c0d1b7a7ec5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 爱情, 自我牺牲, 伦理, 跨性别, 绝症, 青梅竹马, 医治, 情感纠葛, 残酷选择, 孤儿院, 未知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

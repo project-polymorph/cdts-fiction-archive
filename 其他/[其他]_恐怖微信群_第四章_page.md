@@ -7,7 +7,9 @@ TXT 下载: [[其他]_恐怖微信群_第四章.docx]([其他]_恐怖微信群_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关的小说作品，主要描绘了主人公吕仁被卷入一个神秘的微信群中，微信群的任务涉及性别转换、变身、灵异事件等复杂情节。在文件的开头，吕仁面临一场即将到来的暴风雨，暗示着他即将经历的挑战和危险。文中详细描述了微信群的规则，完成任务后才能退出，而任务的内容和性质又充满未知。在参与任务的过程中，吕仁渐渐意识到群里的成员有着身份的转换和性别的变化，甚至有人与真实世界的联系被抽离或抹去。
+
+文件中出现的角色胡小月是一个经历了变身的角色，她以女警的身份出现，向吕仁传递一些重要的信息，尤其提到为了完成某些任务所需的道具和危险性。文本中包含许多涉及性别认同的敏感内容，如角色互换、色情暗示等，呈现出一种独特的叙事风格，同时折射出社会对性别的认知，角色的心理冲突、对身体的掌控意识，以及相关任务的危险性等重要主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_恐怖微信群_第四章.docx]([其他]_恐怖微信群_�
 | Size            | 24750 bytes                           |
 | MD5             | 87e42b64289530a7d471fa00b5619262                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 灵异事件, 微信群, 身份认同, 自我探索, 任务挑战, 恐怖, 伪娘, 角色互换, 主题探索, 惊悚, 同步时间, 道具卡, 人际关系, 虚拟现实, 同人小说, 二次元, 奇幻, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

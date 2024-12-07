@@ -7,7 +7,7 @@ TXT 下载: [[附身]_憧憬的学生会会长(憧れの生徒会長)1+2.docx]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《憧憬的学生会会长》讲述了平峰高等学校的学生会选举及候选者们的角逐故事。主要角色包括愿意参加学生会选举的男学生五条大纪和女学生姬宫结香，二者在选举中展开了激烈竞争。结香以749票当选学生会会长，而大纪的票数相对较少。通过选举，结香迅速赢得了同学们的支持与信任，而她与副会长白冈玖美之间也展现出温暖的友谊。在接下来的日子里，结香带领学生会在校园内开展各项活动，努力维护学生们的权益和意见。故事中还涉及了校园生活中的压力和角色间的互动，以及结香在某一天突然发生的身体变化，暗示了潜在的性转或变身情节。文中描绘了角色的心理变化和情感发展，展现了友谊与竞争兼具的校园生活。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_憧憬的学生会会长(憧れの生徒会長)1+2.docx]([
 | Size            | 25987 bytes                           |
 | MD5             | 3a946f850558da04ab366bb68fd6bffa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 校园, 学生会, 竞选, 女主角, 友情, 自我探索, 角色发展, 支持, 高校                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_预测_-_不信命.doc]([附身]_预测_-_不信命.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《预测 - 不信命》讲述了一位名叫颜茹钰的女性与一位算命师的互动。算命师在查看颜茹钰的印堂后，警告她最近可能会有灾祸，因此建议她多待在家中。然而，颜茹钰对这些预测并不相信，认为算命师只是兜售假消息，给了他50块后就离开了。在之后的情节中，算命师对颜茹钰的美丽和神秘感到着迷，但她的命运似乎并不如表面那般平静。在一次意外中，一名西装男子对颜茹钰进行攻击，算命师及时出手，但却意外受了伤。在男子体内释放出黑雾的同时，这种黑雾竟然渗透进了颜茹钰的身体。故事似乎暗示了颜茹钰身份和命运的变化，她的笑容和话语中透出一丝诡异的意味。这个段落探讨了命运、性别与自我认知的问题，穿插着惊悚和超自然的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_预测_-_不信命.doc]([附身]_预测_-_不信命.doc)
 | Size            | 31744 bytes                           |
 | MD5             | 6e923c3ec63fb827b7bc36888e7764ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 奇幻, 超自然, 命运, 惊悚, 角色转变, 神秘, 情感探索, 黑雾, 算命                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

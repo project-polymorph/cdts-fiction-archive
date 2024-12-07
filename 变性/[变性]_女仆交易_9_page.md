@@ -7,7 +7,7 @@ TXT 下载: [[变性]_女仆交易_9.doc]([变性]_女仆交易_9.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件描绘了一位名叫丽莎的角色在穿着新女仆制服时的情景。故事的开头描述了她对新制服的期待和兴奋，包括高跟鞋和围裙的细节。这位家庭教师不断指导丽莎如何穿着这些衣服，并强调她在穿女仆制服时应该表现得如同一个真正的女仆。丽莎在试穿晚装时感受到新裙子和配饰带来的女性化魅力，在镜子前陶醉于自己的外貌，表现出强烈的自我认同和自我价值感。然而，家庭教师还不断提醒她，穿上制服的她是丽莎，而不再是艾玛。随着情节的发展，丽莎对自己的外在形象产生了愈发深刻的认同感，并体会到角色转变带来的愉悦。当B先生出现时，丽莎的紧张和期待交织，最终在裙摆和水晶的光辉之下，展示出她的顺从与美丽。故事潜在地探讨了性别认同、服从与性别角色的复杂关系，逐渐显现出丽莎对她新身份的认同与期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_女仆交易_9.doc]([变性]_女仆交易_9.doc)
 | Size            | 46592 bytes                           |
 | MD5             | 7380b4ab800884a55b23912ad4eb597b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 女仆, 性别认同, 服从, 自我探索, 魔法少女, 穿裙子, 二次元, 调教, 故事情节, 情感关系, 性别角色, 情操教育, 女性化, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

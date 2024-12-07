@@ -7,7 +7,7 @@ TXT 下载: [[变装]_The_Patriot_Game_4-6.doc]([变装]_The_Patriot_Game_4-6.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件来自多元性别中文数字档案馆，内容为伪娘 TS 变身与跨性别相关的小说。故事围绕主角杰克的性别转变过程展开。杰克在婚姻关系中受到妻子露丝的影响，逐渐接受了自己的女性形象。文件详细描述了杰克在露丝的指导下学习穿着女性服饰，如何化妆以及进行身体改造的过程。文中提到，杰克在穿高跟鞋、裙子和化妆时的心态变化，以及是否能够适应这种女性身份带来的挑战和自我认知的转变。小说不仅探索了性别认同与体态改造之间的关系，同时也反映了个体在面临社会和家庭期待时的内心冲突与成长过程。抽取的对白如“我为我的愚蠢行为道歉，如果这样做能让你感到快乐，那就尽管来吧”显示了杰克的挣扎与妥协。整体故事情节流畅，但内容涉及性别及性方面描写，具有一定的限制级内容性质。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_The_Patriot_Game_4-6.doc]([变装]_The_Patriot_Game_4-6.do
 | Size            | 63488 bytes                           |
 | MD5             | b8f116fc161a97e4b9ac9d8691467029                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 婚姻关系, 化妆, 自我认知, 身体改造, 高跟鞋, 束腰训练, 女性形象, 情感挣扎, 性别认同, 自我探索, 角色转换, 情感紧张, 奇幻, 现代生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

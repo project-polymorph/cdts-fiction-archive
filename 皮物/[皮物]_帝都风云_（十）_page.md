@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝都风云_（十）.doc]([皮物]_帝都风云_（十�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别主题小说中的一章，描述了名为温蒂妮的角色在一个陌生房间醒来后，逐渐意识到自己身处于一个复杂的权力斗争中。故事发生在一个虚构的帝国背景下，涉及到宫廷阴谋、权力争夺以及人物的性别认同和外貌变化。作者通过温蒂妮的视角，描绘了她从石牢中被救出后与宫廷中的角色，如皇后艾拉和莉迪亚之间的互动，展示了她的内心挣扎与对周围局势的判断。故事中夹杂了大量的政治情节，例如皇帝科罗多拉三世对犯人伊丽莎白公开处刑的决策，以及温蒂妮对救助她的忠诚伙伴的期待。随着情节的发展，温蒂妮注意到了环境的变化，并对可能的营救行动感到种种焦虑与希望，突显了她对家庭与权力之间复杂关系的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝都风云_（十）.doc]([皮物]_帝都风云_（十�
 | Size            | 46080 bytes                           |
 | MD5             | ec819cb5cc7bdba1d180119e8a227262                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 宫廷阴谋, 强烈情感, 权力斗争, 自我认同, 爱情, 变嫁, 女体化, 逃亡, 阴谋与背叛, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

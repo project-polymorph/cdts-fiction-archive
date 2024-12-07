@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【同人向】丝魅_二.doc]([附身]_【同人向】丝
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个通过附身于女性角色而进行的跨性别体验的小说，故事中讲述了一个男性主角通过某种方式附身于班长白诗雪的身体，体验她的生活和感受。主人公先通过坑人手段取得班长的更衣室的钥匙，随后在更衣室中进行自我探索，细致描绘了主人公在新的身体内的感受，包括对女性身体的好奇、性欲的觉醒，以及对女性身份的逐步适应。在舞蹈训练中，主人公不断地试图吸引他人的目光，并感受作为女性的兴奋与快感。整个过程中，伴随着对身体快感的深入探索，以及对自身性别认同的反思。内容涉及到较为露骨的性描写，包含自慰行为，细致展现了女主角在特定场合下的性暗示与身体反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【同人向】丝魅_二.doc]([附身]_【同人向】丝
 | Size            | 41472 bytes                           |
 | MD5             | 4a9885bdcc282fd230d15287c6f98b71                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 跨性别, 变身小说, 性探索, 自慰, 班长, 舞蹈部, 青少年, 校园, 自我认知, 角色扮演, 女体化, 强烈快感, 身体认同, 色情文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

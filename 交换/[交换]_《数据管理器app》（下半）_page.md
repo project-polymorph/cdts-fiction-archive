@@ -7,7 +7,7 @@ TXT 下载: [[交换]_《数据管理器app》（下半）.doc]([交换]_《数�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容是关于性别角色转变的情节，主要描绘了一名角色凌飞与其同学们之间的互动，涉及到性别认同自我探索的主题。故事中，凌飞在与同学们的课堂和课外活动中，逐渐面对自己的身份和感情，特别是在与月姐林梓月的互动中，表现出强烈的情感冲突与自我怀疑。文中提到，凌飞在与其他女生的身体接触中，内心涌现出对自身身体特征的困惑与思考，形成了一种微妙的情感关系。尤其是凌飞与琳琳之间的友谊与亲密互动，同时又伴随受外部评论和期待的压力。此外，文件还涉及关于跨性别与性别流动的多重面向，引导读者思考与讨论性别认同和情感流动的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_《数据管理器app》（下半）.doc]([交换]_《数�
 | Size            | 127488 bytes                           |
 | MD5             | 4ac42648626a4e64a2a918392e5ad1ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 友情, 情感冲突, 自我探索, 校园, 恋爱, 角色扮演, 性别认同, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

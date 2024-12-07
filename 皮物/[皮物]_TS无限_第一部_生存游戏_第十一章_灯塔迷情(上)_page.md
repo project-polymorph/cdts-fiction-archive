@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_TS无限_第一部_生存游戏_第十一章_灯塔迷情(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是伪娘 TS 变身与跨性别相关主题的小说的一部分，包含了强烈的成人内容和性暗示。故事围绕男主角七原秋也展开，他在一场生存游戏中面对痛苦的局面，目睹多名女孩子的尸体，同时他的内心充斥着对性和身份的困惑与挣扎。开篇通过一个警告引出了冰恋（奸尸）的情节，显示出作者对各种性癖的探索与愿望。作者尝试描绘角色在极端情况下的自我认知，包括对死亡、暴力和性欲的混乱感。故事情节涉及到男主与生还者间微妙的情感互动，同时掺杂着生死与性的议题。通过细腻的文字，作者呈现了男主内心的冲突与兽欲的觉醒。整篇内容描画出一种扭曲而禁忌的美感，试图挑战读者对性与爱的传统认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_TS无限_第一部_生存游戏_第十一章_灯塔迷情(
 | Size            | 24641 bytes                           |
 | MD5             | 939a64f66d92b75003fe3d0766c3fd9c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 生存游戏, 跨性别, 七原秋也, 冰恋, 成人内容, 性暗示, 角色性别转换, 情感冲突, 恋尸癖, 强奸, 伦理纠葛, 凶杀, 幻想, 心理探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

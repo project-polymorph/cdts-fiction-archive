@@ -7,7 +7,7 @@ TXT 下载: [[变性]_从心里开出的花【第五至八章】.doc]([变性]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于变装与性别认同主题的小说，作品围绕着一位男性主角的心路历程。故事开始时，主角由于妻子怀孕，决定主动承担家庭责任，然而在职业生活中，他不断与自己的性别认同产生冲突。在一次偶然的机会中，主角尝试着以女性的身份出现在人群之中，体验到了一种不同的生活。作品细腻地描绘了主角戴着假发、穿着连衣裙在超市中的紧张经历，同时表达了他在变装过程中的快乐与困惑。随着故事的发展，主角与其妻子的情感也面临着巨大的考验，尤其是当妻子意外发现他变装的秘密时，两人之间的关系将迎来严峻的考验。通过对角色心理和情感的深入剖析，作品展现了性别认同、爱情及婚姻之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_从心里开出的花【第五至八章】.doc]([变性]_�
 | Size            | 53760 bytes                           |
 | MD5             | 1bb9ae104ff41567e91106331fed319e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 跨性别, 性转小说, 伪娘, 女装大佬, 婚姻危机, 自我探索, 二次元, 都市生活, 情感冲突, 家庭责任, 心理斗争, 性别角色, 矛盾与冲突, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_错误的决定3.docx]([变装]_错误的决定3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档《错误的决定3》包含了一段关于角色性别转换和束缚的故事情节。故事开始于一个名叫杰克的角色，他被科瓦特夫人和她的女仆们困在一个浴室中。杰克目睹自己变成了一个性感的女性形象，感受到身体的极度束缚。科瓦特夫人展示了一个紧身的橡胶连体衣，并命令女仆阿列娜将其穿在杰克身上，这使得杰克在不知情的情况下体验了对自己身体的完全控制和限制。整个情节充满了自我认知的冲突、身体束缚以及对角色身份的探索。但在杰克努力活动和表达抵抗的时候，科瓦特夫人却毫不在意，强调这种束缚在她的世界里是常态。故事通过杰克对这种新身份的无奈与反抗，展现了一种别样的体验与情感。内容涉及色情和性别认同等主题，适合相关领域的研究者进行分析与探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_错误的决定3.docx]([变装]_错误的决定3.docx)
 | Size            | 25381 bytes                           |
 | MD5             | ab7eba2bb8d288550a69c93a268945f8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 束缚, 科幻, 自我认同, 角色扮演, 心理挣扎, 极限挑战, 紧身衣, 女性形象, 科瓦特夫人, 对话, 剧情发展, 性转, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

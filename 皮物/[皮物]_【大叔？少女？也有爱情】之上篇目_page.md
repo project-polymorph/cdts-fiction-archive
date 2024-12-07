@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【大叔？少女？也有爱情】之上篇目.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇作品名为《大叔？少女？也有爱情之上篇目》，主要讲述了一个名叫罗海燕的女性角色的日常生活。故事通过描绘罗海燕的感情和工作压力，呈现了一种纯洁且有趣的爱情故事。开篇时，城市的喧闹声伴随着阳光的照射唤醒了她，她渐渐意识到自己的生活中出现了许多的挑战，比如丈夫的离去和即将到来的工作压力。文中提到她与同事们的互动，以及她对公司环境的感受，折射出现代都市女性的生活状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【大叔？少女？也有爱情】之上篇目.doc]([皮
 | Size            | 48640 bytes                           |
 | MD5             | ee52eac0459d302f9bab7a83ae267b63                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 爱情, 职场, 女性视角, 日常生活, 生活压力, 婚姻, 家庭关系, 创业, 自我探索, 现代都市, 大叔与少女, 职场竞争, 办公室恋情, 心理描写, 情感冲突, 生活琐事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

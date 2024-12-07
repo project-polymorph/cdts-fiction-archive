@@ -7,7 +7,7 @@ TXT 下载: [[附身]_神奇手机（第三章）.doc]([附身]_神奇手机（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档描绘了主角方童的超自然经历，描述了他通过一款神奇的手机获取变身能力，以及他在变身为女子后面临的各种挑战。故事的开头，方童因对生活的不满，决心追求自我实现。在提取能力时，他看到女性角色瞬间变得美丽，却在转瞬间又变老，展现出身体变换带来的复杂情感。随着他逐渐掌握手机的能力，方童开始探索通过附身实现自我逃避与新身份的转换。整个故事充满了魔幻元素以及对性别认同的思考，探讨了在当今世界中，如何面对自我与社会的期望。文中出现了对方童使用手机的细节，以及他在转换身体时伴随的心路历程，描绘了角色在变化过程中的挣扎与觉醒。方童面临着法律和道德的复杂考量，故事结尾留下了悬念，他即将踏入更大舞台的冒险之旅。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_神奇手机（第三章）.doc]([附身]_神奇手机（�
 | Size            | 34304 bytes                           |
 | MD5             | 18a44631c5608c115f589fba673b4ada                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 灵异, 自我探索, 都市, 魔法, 超自然, 心理冲突, 身份认同, 性别转换, 冒险, 小说, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

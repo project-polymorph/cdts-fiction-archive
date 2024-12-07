@@ -7,7 +7,7 @@ TXT 下载: [[变装]_姿态矫正手环.doc]([变装]_姿态矫正手环.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于使用高科技姿态矫正手环的小说，主要讲述了角色关泽宇与女友林梦寒之间的互动。故事开始时，关泽宇在等待女友时，林梦寒带着名为‘姿态矫正手环’的产品出现在他面前。手环旨在矫正佩戴者的姿态，提供刺激以确保动作符合预设标准。林梦寒的表现和气质似乎因手环而变化，吸引了关泽宇的好奇心。关泽宇的好奇最终促使他尝试佩戴手环，但他发现手环的功能远超常规，能够检测佩戴者的性别并提供特定调整，包括力道变化和心理刺激，甚至在关泽宇无意中带上后，力气被调节到10%和1%。故事涉及自我探索与性别角色的转换，表达了复杂的心理感受和角色的变化。随着使用手环的深入，关泽宇体验到了被迫改变的状态，伴随着伴侣的调侃与挑战，整个故事通过生动的描写展现了身份与关系的多重性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_姿态矫正手环.doc]([变装]_姿态矫正手环.doc)
 | Size            | 69120 bytes                           |
 | MD5             | b7059496af6af0b8e1bd5316fc106753                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 科技小说, 自我探索, 性别认同, 变装, 恋爱, 青春校园, 调教, 姿态矫正, 快感刺激, 情侣互动, 强迫佩戴, 角色转换, 身体认知, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

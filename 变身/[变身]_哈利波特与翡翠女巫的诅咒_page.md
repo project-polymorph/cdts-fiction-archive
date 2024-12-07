@@ -7,7 +7,7 @@ TXT 下载: [[变身]_哈利波特与翡翠女巫的诅咒.doc]([变身]_哈利�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为小说《哈利波特与翡翠女巫的诅咒》的翻译文本，包含作者蕾梦娜·花创作的虚构故事。小说设定在哈利波特的世界中，故事开始于哈利的寝室，描绘了一夜之间发生奇异事件的情节。夜间，哈利被一缕神秘的光所吸引，他在黑暗的走廊中追随这道光，途中经过寂静的寝室与阴森的场景，最终与一位神秘的年轻女孩相遇。女孩自我揭示为“你”，二人之间的亲吻令哈利不知所措，产生了自我认知的冲突和情感的震撼。文中选择性地描写了哈利内心的挣扎与困惑，提升了故事的悬疑与吸引力。整部作品展现了人物性别、身份转变的主题，也融入了哈利波特系列作品的魔法元素与日常生活的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_哈利波特与翡翠女巫的诅咒.doc]([变身]_哈利�
 | Size            | 154112 bytes                           |
 | MD5             | 6723f45ecfcb42f53bf156107b5b4a7d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 蕾梦娜·花（Ramona Flowers）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 哈利波特, 性转, 魔法, 跨性别, 变身, 青春故事, 奇幻, 自我探索, 虚拟现实, 秘密通道, 校园生活, 灵异事件, 幻想文学, 情感纠葛, 二次元, 幻想型小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_伪娘-姬骑士（1-4）.docx]([变装]_伪娘-姬骑士�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部跨性别题材的小说，故事围绕角色咲的转职仪式展开。咲原本希望成为一名圣骑士，但在仪式中意外地转职成为了姬骑士，这让他感到极大的困惑和不安。在神殿中，咲经历了心理上的挣扎，因为转职后的身份和外形即将发生变化。小说深入探讨了咲作为一个原本男性角色在性别认同与自我接受过程中的冲突与成长，同时也涉及了魔法和骑士文化等奇幻元素。咲的好友涅则是一个贵族出身的男子，他对咲的变化表现出无可奈何的态度，从而反衬出了咲内心的复杂情感。在转职后，咲不得不接受女装的角色，以适应新的身份，并在此过程中逐渐感受到女性气质的变化。文本中的情节包含角色的内心独白与对未来的设想，生动展现了在奇幻世界中性别角色与社会接受度的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_伪娘-姬骑士（1-4）.docx]([变装]_伪娘-姬骑士�
 | Size            | 123714 bytes                           |
 | MD5             | 070a2e7455a2650d520d04d8ab49ad59                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 姬骑士, 奇幻, 自我探索, 身份认同, 性别冲突, 友谊, 成长, 魔法, 转职仪式, 女性气质, 性别角色, 异世界, 心理斗争, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

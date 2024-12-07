@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_供品_(下).docx]([皮物]_供品_(下).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别相关小说的下部，讲述了主人公渡边阳太在与绫子和晴子的情感纠葛中逐渐意识到自我认同的故事。在一次放学之后，阳太收到绫子的字条，邀请他去一座神社。他对绫子的感情复杂，同时又深深迷恋晴子，看似简单的情感却交织着淡淡的单相思和潜藏的情感冲突。小说中涉及角色的性别认同、自我探索和内心挣扎，最终在神社的意外经历中，阳太的身份认同开始面临挑战，开始质疑自己是谁。文中描写了阳太与绫子姐妹之间深刻的情感连接，以及他与晴子的爱慕之情如何交织在一起。故事风格现代，融合了幻想、情感与角色的发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_供品_(下).docx]([皮物]_供品_(下).docx)
 | Size            | 55032 bytes                           |
 | MD5             | 3e390681ebb52a35bfcbda863eecee32                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 自我探索, 情感纠葛, 性别认同, 心理冲突, 单相思, 神社, 兄妹情, 幻想, 成长, 青春, 变身, 姊妹, 身份认同, 情感, 现代小说, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

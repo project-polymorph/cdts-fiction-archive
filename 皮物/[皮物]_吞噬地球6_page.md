@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_吞噬地球6.docx]([皮物]_吞噬地球6.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一个跨性别相关的小说片段，主要讲述了主人公在希望镇的经历。故事中，主人公透过幼时的记忆，遇到了自称是母亲的女性，这位女性在外貌上与主人公的母亲极为相似，但其实身份扑朔迷离。文件内容深入探讨了角色的自我认知和情感冲突，主人公在面对母亲的回忆时，情感涌动，泪流不止。故事情节包含了生理性别与自我认知的深层次探讨，涉及人与人之间复杂的情感关系以及对亲情的渴望。同时出现了一些超现实的元素，如母亲的年轻化和对外星科技的研究，暗示了可能存在更大阴谋的成分。整体上，文件兼具情感深度与复杂的想象力，融入了伪娘、跨性别及科幻的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_吞噬地球6.docx]([皮物]_吞噬地球6.docx)
 | Size            | 29258 bytes                           |
 | MD5             | aa1d0de8059c3416a26964721220c315                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 情感冲突, 母女关系, 科幻, 军队, 外星科技, 性别认同, 情感探索, 自我认知, 年轻化, 轮回, 双重身份, 权力游戏, 家庭关系, 强烈的情感描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

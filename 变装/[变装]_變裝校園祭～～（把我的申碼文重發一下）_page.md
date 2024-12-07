@@ -7,7 +7,11 @@ TXT 下载: [[变装]_變裝校園祭～～（把我的申碼文重發一下）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一份关于校园话剧的变装小说，主要讲述了主人公小贤在女友詩韻的鼓励下，意外地被选为话剧的女主角。故事从小贤醒来开始，他的女友詩韻正叫醒他，并告诉他剧目决定了他在话剧社的角色是女主角小妍。尽管小贤对此表示反对，但团体决定已经形成，詩韻自信地开始对小贤进行特训，帮助他更好地投入角色。
+
+随着剧情的发展，詩韻提议为小贤挑选衣服并让他穿女装以适应角色，过程中充满了幽默与强烈的情感互动。詩韻的控制欲和小贤的无奈形成鲜明对比，小说描绘了小贤从抵抗到逐渐接受穿女装训练的心路历程，以及他与詩韻之间甜蜜又有些许压力的关系。
+
+故事展现了青年之间的互动，以及性别认同和角色扮演中所带来的心理冲突与成长。虽然剧情中涉及一些性别转变和变装的情节，但整体氛围依然轻松幽默，带有校园青春的气息。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变装]_變裝校園祭～～（把我的申碼文重發一下）.
 | Size            | 69632 bytes                           |
 | MD5             | 6a85c135c698307bb4e33a46c5b54fb5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 校园话剧, 性别认同, 情感互动, 青春成长, 伪娘, 话剧社, 角色扮演, 女性视角, 女友关系, 特训, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

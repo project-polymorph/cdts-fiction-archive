@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_基因片段的爱恋12.doc]([皮物]_基因片段的爱�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《基因片段的爱恋12》，描绘了一个以科幻为背景的变身与跨性别故事。故事设定在一个名为JXP研究中心的地方，主要角色郭得凡在经历了与苏小冉的身体融合后，继承了苏小冉的记忆，并揭露了一场涉及多重利益关系的阴谋。文本中描述了角色郭得凡如何利用生物技术以及身份的变换，与苏小冉（吸收了孙浩然的意识）一起，逐步揭示背后的真相和阴谋。在变身的过程中，郭得凡与苏小冉的身体交互充满了细致的描写，既突显了角色的心理变化，也展示了他们在混合身体中的探索与无意识的冲突。整体故事涉及性别认同、自我探索以及生物技术的伦理等主题，体现了跨性别与生理形式的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_基因片段的爱恋12.doc]([皮物]_基因片段的爱�
 | Size            | 35840 bytes                           |
 | MD5             | a003b6148339b89aa3751d83e3ab16e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 医学伦理, 性别认同, 幻想小说, 异世界, 生物科技, 身份融合, 自我探索, 情感纠葛, 阴谋, 多重人格, 实验室设定, 粉红粘液                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

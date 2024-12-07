@@ -7,7 +7,7 @@ TXT 下载: [[变性]_绝密身份_（11）_意外的危机.docx]([变性]_绝�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件展示了一名男孩的变性过程及其心理变化。他的性别身份在一年内发生了天翻地覆的变化，从充满理想与抱负的男孩，转变为一个生理上为女性但内心复杂的角色。在文件中，角色讲述他的生活经历，以及如何逐渐习惯这种新生活，享受女性的外在形象与他人目光的关注。这篇小说探讨了性别认同与自我探索，包括角色外表的转换和情感上对于自我身份的思考和接受。故事中提到了角色的穿着与自信，以及与同学的互动和潜在的情感发展。诸如“做女人做久了，我仿佛也她们同化了”这样的句子，展现了角色内心的矛盾与挣扎，同时也反映了社会对于性别角色的期待与影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_绝密身份_（11）_意外的危机.docx]([变性]_绝�
 | Size            | 38296 bytes                           |
 | MD5             | 1e7e8cffb84a4bc29a3bd3c3af7683f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 跨性别, 自我认同, 校园生活, 心理探索, 性别角色, 时尚, 情感发展, 社会期待, 身份认同, NTR, 纯爱, 调教, 伪娘, 强奸, 年齡差, 逆后宫, 女体化, 强制转换, 女性视角, 虚拟现实, 奇幻, 都市, 古代, 游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

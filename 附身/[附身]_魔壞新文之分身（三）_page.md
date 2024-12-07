@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魔壞新文之分身（三）.docx]([附身]_魔壞新文
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一实验性小说，讲述了在虚拟空间中进行的选手之间的竞争。故事通过第一人称视角，描绘了角色的自我探索与身体交换的复杂感受。在这个故事中，主角经历了一场与他人角色身份的交换，涉及性别转换和灵魂的重置。故事的开头，主角对于他人像木偶一样缺乏灵魂的感觉进行思考，而随着剧情的发展，主角与其他角色之间的互动逐渐揭示了他们的身份以及对身体的感受。角色们在虚拟空间中选择身体的场景展现出个人欲望与身份认同的冲突。尤其是主角对于姐妹的情感和身体探索中流露出的情节，极具心理与生理上的复杂性及其带来的困惑与冲突，挑起了关于性别与欲望的深层次讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魔壞新文之分身（三）.docx]([附身]_魔壞新文
 | Size            | 40505 bytes                           |
 | MD5             | 0b8986a05b2d9973391f2a7016b49390                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 2012-05-07                                 |
+| Tags            | 性转, 伪娘, 身体交换, 自我探索, 心理冲突, 虚拟现实, 跨性别, 情感纠葛, 性别认同, 科幻小说, 异世界冒险, 女性视角, 奇幻, 血腥, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】被强迫变成女性的西蒙.doc]([变性]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《被强迫变成女性的西蒙》的中文翻译。故事讲述了主人公西蒙在学校上课时被警察带走，因被认为可能有抑制性别认同障碍而被拘禁在性别评估中心。在中心，他经历了一系列评估和现实困境，面临着身份认同的挑战和他人对他的性别认同的误解。故事中提及的二零一二年性别多元化法案的相关条款详细描述了被拘禁和评估的程序以及没有上诉权的严苛现实，反映了社会对性别认同问题的挑战。西蒙坚持自我认同，努力证明自己不是“娘娘腔男孩”。此文以第一人称的视角深入探讨了性别认同和社会压力的问题，情节充满张力并引人思考，同时包含了一些较为敏感和限制级的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】被强迫变成女性的西蒙.doc]([变性]_�
 | Size            | 86016 bytes                           |
 | MD5             | 67b5480994f979e028661a65035a0d04                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 魔之天涯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 性别评估中心, 强迫变性, 变身小说, 性别多元化法案, 抑制性别认同障碍, 青少年困境, 社会压力, 自我探索, 情感冲突, 身份认同, 女警察, 性别歧视, 评估与治疗, 青春期问题, 虚构法律规定                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_替身总裁之另类“高考”（下）.docx]([交换]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《替身总裁之另类“高考”（下）》的下半部分，描述了主角胡文斌因奇异的神灵安排，与尹素雪的身体互换后，在复杂的都市生活中的内心挣扎与自我认知的探索。故事围绕他如何面对现有身份的冲突，逐渐适应女性身体的感受和变化，同时也反映出身份转换带来的感情和伦理挑战。文中描绘了胡文斌初次意识到自己身体的触感变化，使其感受到了一种全新的性别体验，而这一切仍然伴随着对原有生活的思考与怀念。文本中流露出对性别认同和自我探索的深刻探讨，浓厚的都市氛围和人物之间的细腻情感纠葛，也展现了织密的人际关系与现实问题。文件中包含一定量的性描写，结合不同的人物背景与心理状态，增添了作品的层次和深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_替身总裁之另类“高考”（下）.docx]([交换]_
 | Size            | 65349 bytes                           |
 | MD5             | 66c3bab29c0ac02aaba397fe7901ea01                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 都市, 性别转换, 自我认知, 身份认同, 情感纠葛, 性转, TSF, 异性体验, 女性视角, 心理变化, 脑洞大开, 身份互换, 成长, 剧情发展, 社会现实, 忘却与记忆, 深夜思考                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

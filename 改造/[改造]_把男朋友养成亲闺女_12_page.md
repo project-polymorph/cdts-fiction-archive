@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_12.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档标题为《把男朋友养成亲闺女》第十二章，具体描述了一名伪娘贝丽在一次与两位女性朋友坎迪和梅根的外出购物过程中，逐渐接受并融入女性角色的经历。故事围绕着她们在商场内的互动展开，贝丽因梅根和坎迪的鼓励而尝试化妆，同时体验了女性化的社交活动，比如美甲和拍照。贝丽虽在心底感到尴尬和挣扎，但在朋友的支持下逐渐改善自身形象并接受自己的新身份。章节中提到贝丽的化妆过程和内心的挣扎，反映了性别认同与自我探索的主题。通过对美甲、化妆的讨论，贝丽的角色得到了进一步的开发，展现了和梅根及坎迪之间的姐妹情。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_12.doc]([改造]_把男朋友�
 | Size            | 38400 bytes                           |
 | MD5             | 56056be0fc68e98b811114cf75a3a14e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2022-05-18                                 |
+| Tags            | 性别认同, 伪娘, 美甲, 角色扮演, 女性化, 自我接受, 友谊, 青春成长, 约会, 化妆技巧, 二次元文化, 购物经历, 社会互动, 情感发掘, 自我探索, 日常生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

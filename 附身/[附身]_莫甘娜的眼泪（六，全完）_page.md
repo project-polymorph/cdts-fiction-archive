@@ -7,7 +7,7 @@ TXT 下载: [[附身]_莫甘娜的眼泪（六，全完）.doc]([附身]_莫甘�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《莫甘娜的眼泪（六）》是一个包含性别转换与身份互换主题的故事，主要围绕两个角色吕雪芙与龙文婕展开。故事中，吕雪芙和龙文婕通过身份互换体验了不同的社交生活。吕雪芙因对自己富裕生活的厌倦而向龙文婕提出互换身份的建议，以探寻对方生活的刺激与魅力。内容揭示了两人对身份与自我认同的思考与讨论，展现了角色间复杂的情感关系以及角色心理的演变。同时，故事涉及诸多关键场景，比如两人一起开车前往龙氏集团，以及与人事部长苏蓉的对话，揭示了他们身份转变的潜在影响和可能的困扰。作品中有对奢华生活的描写，以及隐含的身份困扰和对自我价值的追寻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_莫甘娜的眼泪（六，全完）.doc]([附身]_莫甘�
 | Size            | 78336 bytes                           |
 | MD5             | bfb26dbc6e5ac6e2a0b6933bfc97e5c1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身份互换, 心理冲突, 奢华生活, 自我探索, 女主角, 伪娘, 男娘, 跨性别, 情感纠葛, 龙文婕, 吕雪芙, 霍格沃茨, 爱情, 社交生活, 剧情反转, 奇幻, 二次元, 青春, 女性视角, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

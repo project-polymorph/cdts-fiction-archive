@@ -7,7 +7,7 @@ TXT 下载: [[变装]_夏威夷假日_8_12.doc]([变装]_夏威夷假日_8_12.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是伪娘和跨性别题材小说的一部分，描绘了主角在夏威夷度假期间与家人们的互动，记录了他们在假期中的日常活动与感受。在度假的第一天，主角有些懊恼于大部分时间都在睡觉，随后描述了与家人一起逛街和享受乐趣的情景，尤其是母亲与两个女儿的亲密互动，强调了女性形象与情感的联系。故事中主角的性别认同在不断发展，母亲与主角之间的对话展现了对传统性别角色的探讨以及角色自我认同的逐步确认。家庭的温情、服饰的性感以及在家庭中的身份转换等主题线索贯穿其中。最后部分则切换至主角与丈夫的亲密关系，特别强调他们在性方面的互动，以及对未来家庭生活的憧憬，例如收养孩子的讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_夏威夷假日_8_12.doc]([变装]_夏威夷假日_8_12.do
 | Size            | 64512 bytes                           |
 | MD5             | f36f592c977bcef5d5ea7d8c1e5579af                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 家庭, 性别认同, 暑假, 女性情感, 自我探索, 爱的亲密关系, 收养, 婚姻生活, 高尔夫球, 夏威夷假日, 时尚, 亲子互动, 烹饪, 恋爱, 性转, 心理冲突, 假期活动, 校园教师                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_逆转龙凤_（八）_蜕变.doc]([改造]_逆转龙凤_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《逆转龙凤（八）蜕变》的部分内容，主要描绘了一名少年在经历了一系列身体和身份的改变后，逐渐意识到自己真正的身份与性别。在王婆的帮助下，少年逐步脱去矫正皮衣，身体特征也随之发生变化，尤其是胸部的发育与阴物的萎缩。这些变化令少年感到恐慌和疑惑，最终得知可能是由于父母为其实施的性别转换手术所致。文中详细描述了少年的心理变化与王婆对于其未来发展的规划，包括学习《女则十卷》，以适应新的身份。整个故事围绕着性别认同、自我探索等主题展开，展现了复杂的性别和身份问题，以及少年在身体变化中的烦恼与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_逆转龙凤_（八）_蜕变.doc]([改造]_逆转龙凤_�
 | Size            | 47616 bytes                           |
 | MD5             | f879697d380408d7db6c3ca5a80f9d2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 自我探索, 伪娘, 性别转换, 王婆, 情感挣扎, 身体变化, 宅文化, 二次元, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《梦中的魔法少女》第六章（我要去科洛斯�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《梦中的魔法少女》第六章，呈现了一段关于角色性别转换与感情冲突的故事。在这一章节中，主角在性别转换后与加奈美的互动展现了复杂的情感纠缠和身体感受的双重体验。故事以加奈美误以为主角是入侵者为开端，随后逐渐转向两者之间的亲密关系发展。细节中描写了角色之间的身体接触与快感体验，如‘当我双乳上爆发强烈快感时，直接进入失神状态’等。此外，章节还提及了魔法少女的设定及角色的能力交融，比如“一旦我握住吊坠，就能随意掌控我的性欲”，展现了魔法与性别认同的交织。整体而言，该章节以幻想与性感结合的方式探讨自我认同与性别流动的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《梦中的魔法少女》第六章（我要去科洛斯�
 | Size            | 53248 bytes                           |
 | MD5             | 24918a36bca7330e105178c8fbd6c609                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 魔法少女, 性别转换, 自我认同, 亲密关系, 身体感受, 幻想, 戏剧性, 性欲探索, 魔法, 角色互动, 情感纠结, 幼女形象, 情趣                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_15_(母
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘/男娘类型小说《朋友？女友？还是……》的第15章，内容围绕若干角色在表演性别转换的环境中对于彼此性别的探索与调侃。文本中的角色讨论了彼此的性别表现，真一思考着小光和小町的不同之处，着重描述了小光的女性化特质和小町的精神活力。角色之间的互动充满了暗示性和玩笑，尤其是小暮对真一的挑逗，以及他们如何通过触碰和观察来辨别角色的真实身份。全篇探讨了性别认同及其表现的复杂性，带有一定的色情成分，同时也反映了角色在这过程中所经历的自我认知与性别认同的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_15_(母
 | Size            | 27398 bytes                           |
 | MD5             | af00a768d2b2f551f61d2770167d8164                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 自我探索, 二次元, 表演, 性别转变, 强烈刺激, 角色互动, 演员心理探索, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

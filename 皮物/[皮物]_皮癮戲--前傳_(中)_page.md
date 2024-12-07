@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮癮戲--前傳_(中).docx]([皮物]_皮癮戲--前傳_(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说《皮癮戲—前傳》的片段，包含主要人物王武雄与苏佩雪的互动。故事中，王武雄于苏佩雪家中窥视，展现出他对苏佩雪的强烈兴趣与精神上的扭曲。文件通过描述王武雄内心的冲突与苏佩雪的纯真对比，反映了他对苏佩雪的外貌与家庭环境的迷恋，例如他讽刺地思索着‘以後這裡就是我的家...’。随着情节的发展，王武雄采取极端与违法的行为，试图对苏佩雪施加控制，情节包含了暴力与侵犯，直击了性别认同与自我探索的主题。苏佩雪的歌唱与房内环境细腻的描写，与王武雄的黑暗意图形成鲜明对比，传达出一种恐怖的悬念气氛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮癮戲--前傳_(中).docx]([皮物]_皮癮戲--前傳_(
 | Size            | 44128 bytes                           |
 | MD5             | 7016e838f0ac520faf331af8cb834105                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 暴力, 性转, 恐怖, 自我探索, 性别认同, 强奸, 情感纠葛, 年龄差, 身体冲突, 都市, 心理扭曲, 爱情, 虐待, 戏剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

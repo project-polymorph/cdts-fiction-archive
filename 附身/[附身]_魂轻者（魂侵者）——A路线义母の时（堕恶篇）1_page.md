@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——A路线义母の时（堕恶
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以性别转换为主题的小说，其中主要讲述了角色大木一郎由于某种原因进入了名为惠美的女性身体中，经历了一系列自我认知和探索的故事。故事开头描绘了主角在洗澡时对于自己新身体的困惑与羞愧，他努力寻找解除这种状态的方法。在不断的自我对话和与旧身体的互动中，他逐渐意识到自己的能力和当前处境，内心充满了复杂的情感。随着他与自己身体的对话以及对周围环境的适应，故事展开了关于身份、性别认同与自我探索的主题。情节中不乏对性敏感部位的描写，展现了在心理和生理两方面的冲突，尤其是在与他人交往时的捉襟见肘。此外，剧中还融入了家庭关系的元素，惠美的姐姐尤佳的回归，让故事更显复杂与有趣。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——A路线义母の时（堕恶
 | Size            | 20029 bytes                           |
 | MD5             | 10c82f13931d9291ecc80e62eca39cfa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 齐腾一                               |
+| Region          | 未知                               |
+| Date            | 2013-06-28                                 |
+| Tags            | 性别转换, TS变身, 自我认知, 跨性别, 家庭关系, 身体认同, 心理冲突, 情感探索, 游戏, 穿越, 女性视角, 身份认同, 奇幻, 动漫, 小说, 未知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

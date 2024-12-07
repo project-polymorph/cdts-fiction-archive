@@ -7,7 +7,7 @@ TXT 下载: [[改造]_基因技术的危害2.docx]([改造]_基因技术的危�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档详细描述了三个来自泰国的人妖在基因改造实验中的生活和变化过程。主要叙述者负责照顾这三位客户，记录她们的饮食、身体变化及对基因改造技术的见解。初始阶段，叙述者对她们的男性特征感到困惑，并尝试理解她们选择做人妖的原因。参与者分享了她们对异装癖的看法，表明在泰国社会下，她们能够找到能够满足变装愿望的工作。随着时间的推移，经过基因改造，她们的外貌和体型逐步向女性化转变，并逐渐展现出更为女性化的特征，叙述者也变得愈加关注她们的变化。文中包含了对异装癖文化的探讨以及新技术对身体和心理影响的反思，显示了在这个实验中，性别认同与身体状态的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_基因技术的危害2.docx]([改造]_基因技术的危�
 | Size            | 22241 bytes                           |
 | MD5             | 560c257aaff4eb0029b3972c37cd4a1a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 基因改造, 人妖, 异装癖, 跨性别, 性别认同, 实验, 生理变化, 特征转变, 心理转变, 性别文化, 性别转换小说, 泰国文化, 个人探索, 二次元幻想, 角色发展, 青春期, 男性化与女性化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

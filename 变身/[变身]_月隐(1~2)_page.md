@@ -7,7 +7,7 @@ TXT 下载: [[变身]_月隐(1~2).docx]([变身]_月隐(1~2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部以都市魔法为背景的变身小说，故事主要讲述了一个名为望月的男性角色在夜晚进行送货的途中遭遇的诡异事件。小说开头描绘了望月在寒冷冬夜中的苦楚，表现出他对生活的不满与无奈。随着情节推进，望月进入一栋看似高级但气氛压抑的公寓，发觉电梯失灵后选择走楼梯，却遭遇了更为离奇的事情。故事中出现了魔力与痛苦的交织，最终暗示望月在经历危险与痛苦后即将面对改变，可能与魔法有关的角色出现。小说语言富有诗意，深刻描绘了角色内心的挣扎与复杂情感，如“天空黑得可怕，彷彿随时要压下来碾碎一切”，展现了一种失落与绝望的气氛，衬托出角色命运的沉重。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_月隐(1~2).docx]([变身]_月隐(1~2).docx)
 | Size            | 38734 bytes                           |
 | MD5             | d92f75ed17226ca7506b6391c7be7ffc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 都市幻想, 变身, 魔法, 性别转换, 心理探索, 痛苦, 自我认知, 超自然, 黑暗, 奇幻, 悬疑, 逆境, 青春, 心理斗争, 魔幻现实主义, 魔力, 夜晚冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

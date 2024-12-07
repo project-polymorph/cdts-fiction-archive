@@ -7,7 +7,7 @@ TXT 下载: [[改造]_CDTG系统（四）.doc]([改造]_CDTG系统（四）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《改造CDTG系统（四）》的一部分，主要叙述了角色沈顺杰在进行某种植物——雌化草的种植与改造，故事中涉及到使用精液灌溉植物以促进其生长的情节，这一过程伴随着沈顺杰的心理变化与对药方的调配。文本通过生动的描绘，展示了沈顺杰如何收集精液、浇灌雌化草并对药方进行研究，提及了各种药物的用途与影响，如《奴契丸》、《白汁丹》和《移形粉》。此外，故事还引入了另外一名角色林承贤，描述其面对职场压力与私生活的双重困扰。在背景中，几个药方的特效暗示出一种性别与身体的转换主题，故事情节或包含成年向内容，适合对角色性别认同与自我探索过程感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_CDTG系统（四）.doc]([改造]_CDTG系统（四）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 66048 bytes                           |
 | MD5             | 266364a132a0852c1ca2d04ead4481dc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 跨性别, 雌化草, 药物改造, 奴契丸, 女体化, 强烈自我认同, 成人向内容, 心理探索, 角色成长, 性别认同, 幻想元素, 二次元文化, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

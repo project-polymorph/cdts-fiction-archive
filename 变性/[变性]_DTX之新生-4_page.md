@@ -7,7 +7,7 @@ TXT 下载: [[变性]_DTX之新生-4.doc]([变性]_DTX之新生-4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一段关乎性别认同和自我探索的小说摘录。故事的主人公在经历了复杂的内心斗争和情感交织后，决定通过变性来表达自我，主人公的对话中提到‘以其人之道，还其人之身’，暗示了他们面临的抉择和潜在的复仇计划。故事中的角色之间有着深厚的感情联系，涉及到对自我认知的深刻探讨，面对种种社会期待和内心冲突，试图找到属于自己的生活方式。言辞充满了对性别转变的渴望和对感情的追求，同时也涉及家庭压力与个人愿望之间的矛盾。文中多次提到角色的暗恋与对自身性别认同的不安，使得整个故事充满情感的张力和复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_DTX之新生-4.doc]([变性]_DTX之新生-4.doc)
 | Size            | 56320 bytes                           |
 | MD5             | efb058f472b03689b164b44c3887a34e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 自我探索, 性别认同, 情感纠葛, 伪娘, 青春, 内心挣扎, 爱情, 复仇, 复杂关系, 社会期待, 纳米机器人, 身份转变, 性别角色, 兄弟情谊, 女性装扮, 情感复杂性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

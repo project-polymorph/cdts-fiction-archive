@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星云_第十二章.docx]([皮物]_星云_第十二章.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一组角色在一个神秘小村庄中探索的故事片段，他们经历了一场异常的雨天，讨论了村庄空无一人的情况及其历史传说。故事中提到了角色们惊讶于村庄中的失踪和消失的情况，以及他们对于未来几天的安排的讨论。特别是，角色们阅读了有关这个村庄的传说，最终发现故事讲述了一个帮助村民抵御干旱的女孩的传奇，并提出该传奇或许是对村庄历史的象征性解读。文本中包含了一些梦境的描写，展现了角色对自身感受的探索，透露出一种模糊与不安的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星云_第十二章.docx]([皮物]_星云_第十二章.doc
 | Size            | 17960 bytes                           |
 | MD5             | 4c5b8c5abc8c07b34d3782960136e511                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 性别认同, 自我探索, 恋爱, 神秘村庄, 梦境, 雨天, 历史传说, 角色成长, 奇幻, 都市探险, 悬疑故事, 青春成长, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

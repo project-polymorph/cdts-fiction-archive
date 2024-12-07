@@ -7,7 +7,7 @@ TXT 下载: [[其他]_学姐与学妹的故事——新年篇.docx]([其他]_学
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一个伪娘和学妹的故事，场景设定在新年夜，学姐独自一人享受安静的时光，而学妹则通过各种方式来表现对学姐的崇拜与依赖。故事中，学姐被捆绑在椅子上，学妹则以扮演SD人偶的形式和她互动，展现出一种扭曲且不寻常的关系。两人之间的对话充满了俏皮和调侃，反映了她们对性别和身份的探索。同时，故事也涉及到一些限制级内容，例如学妹用手机拍摄的照片以及对学姐服装的讨论，这些情节增添了情感上的紧张感和心理的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_学姐与学妹的故事——新年篇.docx]([其他]_学
 | Size            | 24486 bytes                           |
 | MD5             | c8c0b341db80243e656078399eb7bf7a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, SD人偶, 捆绑, 调教, 强烈依赖, 性别认同, 自我探索, 新年活动, 男女关系, 校园生活, 奇幻, 恋物癖, 痴女, 非主流文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

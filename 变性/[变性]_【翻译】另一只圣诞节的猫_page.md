@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】另一只圣诞节的猫.doc]([变性]_【翻�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是《另一只圣诞节的猫》的续集，讲述了保罗变身为宝拉的故事。在这部作品中，保罗渴望拥有一只猫作圣诞礼物，没想到圣诞老人却给了他一个更加意想不到的礼物：让他变成了女孩宝拉。故事围绕宝拉的自我认同与性别转变过程展开，描述了她从男孩变成女孩后对于自身身体变化的接受和探索。宝拉欣赏自己的新身体，并逐渐意识到她的内心深处真正渴望的生活。随着故事的发展，宝拉的家庭关系和与朋友约瑟夫的互动也发生了微妙的变化，描绘了变性带来的情感冲突和心理转变。作品通过宝拉的视角探讨了性别认同、成长和自我接受的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】另一只圣诞节的猫.doc]([变性]_【翻�
 | Size            | 45568 bytes                           |
 | MD5             | 55597fe96586903b5fb2035cc2b77eed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Paula Girl，翻译：魔之天涯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 自我探索, 女孩成长, 奇幻, 性别转换, 圣诞节, 家庭关系, 情感冲突, 青春期, 身体变化, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

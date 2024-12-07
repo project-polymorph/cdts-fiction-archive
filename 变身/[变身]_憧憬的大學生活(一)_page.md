@@ -7,7 +7,7 @@ TXT 下载: [[变身]_憧憬的大學生活(一).doc]([变身]_憧憬的大學�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是基于原著《College Expectations》翻译而来的伪娘变身小说，讲述了角色杰瑞米对大学生活的憧憬以及他与室友泰纳之间复杂的关系。杰瑞米是个普通的18岁男生，刚从高中毕业，带着对大学的期待和焦虑来到了新的环境。然而，他的新室友泰纳却是他高中时期最讨厌的那种男生，来自运动健身文化的他总是尖刻地批评杰瑞米的兴趣和生活方式。小说中，杰瑞米原先认为大学生活会给自己带来新的朋友和爱情，但现实并不如他所愿。随着故事的发展，泰纳展现了他内心的黑暗面，利用一个神秘的戒指开始改变杰瑞米的身体和命运，逐渐将他变成自己心中“完美”的伴侣。插入了诸多变身和性别认同的元素，探讨了人与人之间的关系、社会期待和个人身份的复杂性。内容中包含一些可能引发讨论的限制级情节，尤其是杰瑞米在被操控后的身份转变，以及泰纳隐藏的强迫欲望和性癖，反映了性别转换和自我认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_憧憬的大學生活(一).doc]([变身]_憧憬的大學�
 | Size            | 78336 bytes                           |
 | MD5             | cad53f1de5b4cce5f284777f22e9d499                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Cobalt（原著作者）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 大学生活, 性别认同, 自我探索, 幻想, 操控, 双性别, 校园题材, 心理冲突, 改变, 黑暗幻想, 强迫, 魔法戒指, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

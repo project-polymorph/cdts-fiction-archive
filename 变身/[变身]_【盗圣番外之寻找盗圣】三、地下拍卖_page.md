@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】三、地下拍卖.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是伪娘和变身小说《盗圣番外之寻找盗圣》的第三章，主要围绕角色飞飞的变身经历和她与花子虚之间的互动展开。故事介绍了飞飞为了戏弄花子虚而进行的装扮，她使用了易形决技术将自己的形象变换成一个年幼的少女，并通过一系列的细节描述展示了她此时的心理变化和自我认知。同时，飞飞在与花子虚的相处中表现出天真烂漫的一面，二人之间的暧昧关系逐渐展开。此外，故事还涉及了飞飞与花子虚的侍妾瓶儿之间的互动，揭示了人物间复杂的情感与身份关系。文中细腻地描绘了飞飞在洗浴过程中与瓶儿的亲密场景，暗示了潜在的性暗示和角色间的性别认同冲突。整体上，该文件展示了变身小说的主题特征，如性别交换、自我认同、以及角色间的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】三、地下拍卖.doc]([
 | Size            | 52224 bytes                           |
 | MD5             | a93e9bcf5822dd2cfb0752c22ee401ab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 性转, 二次元, 情色, 阴阳调和, 舞蹈教学, 洗浴场景, 情感纠葛, 地下拍卖, 丹药, 少年成长, 复杂关系, 情感发展, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

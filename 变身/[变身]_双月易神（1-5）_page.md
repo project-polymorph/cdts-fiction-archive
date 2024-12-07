@@ -7,7 +7,7 @@ TXT 下载: [[变身]_双月易神（1-5）.docx]([变身]_双月易神（1-5）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含名为《双月易神》的小说第一章，故事设定在一个名为后土城的幻想世界中。章节开头描绘了卧龙集这一贫困角落的环境，生动介绍了风无易和他的妹妹风沐雨的生活背景。风无易正面临成年即将突破修炼的关键期，但境况却不理想，未能达到修炼的基本条件，生存压力巨大。他对妹妹风沐雨寄予厚望，希望她能通过修炼改变命运。这段文字不仅展现了角色之间的深厚情感，也涉及了修仙世界的社会结构与个人命运，进一步描绘了角色们的内心冲突与自我价值的探索。故事中结合了灵石、修炼、师徒关系等幻想元素，使整部作品充满了奇幻色彩和社会现实的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_双月易神（1-5）.docx]([变身]_双月易神（1-5）
 | Size            | 83638 bytes                           |
 | MD5             | 4c13da64f9df6e4cdab92a22f3886f76                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 二次元, 幻想, 修炼, 伪娘, TSF, 自我探索, 社会结构, 兄妹情, 成长, 情感冲突, 英雄主义, 魔法, 梦境, 灵石, 奇幻冒险, 后土城                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

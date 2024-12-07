@@ -7,7 +7,7 @@ TXT 下载: [[变身]_某对TS夫妇的回忆录之大结局（内附1-10的链�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是关于一对跨性别夫妇的回忆录，内容深入探讨了他们的亲情和心理转变。故事的主线围绕着主角在年轻时与父亲之间的亲密关系展开，描写了性别转换后的父亲与儿子之间复杂而模糊的情感。文中描述了主角在探索父亲的新身份时产生的情感变化，包括羞涩、好奇和逐渐接受。故事中使用了一些较为敏感的情节，其重点在于描述父子之间因性别转换而带来的内心冲突和情感上的交流。文件的最后提到，主角终于接受了父亲的变化，并在此过程中体验了温暖和亲密的父子情。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_某对TS夫妇的回忆录之大结局（内附1-10的链�
 | Size            | 17257 bytes                           |
 | MD5             | 0dfd096c80cd53468e843504fc760d56                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 父子关系, 情感探索, 性别认同, 亲情, 温馨, 幻想, 性别转换, 心理冲突, 自我探索, 青春成长, 父亲, 温暖故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

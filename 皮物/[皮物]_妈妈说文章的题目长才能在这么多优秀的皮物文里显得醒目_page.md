@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_妈妈说文章的题目长才能在这么多优秀的皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于徐舟和他的女朋友龙莹的故事，涉及复杂的人际关系和性别认同的主题。故事描述了徐舟的日常生活以及他和女朋友的互动，初看似乎是普通的恋爱故事，但随着情节的发展，展现了更深层次的伪娘和变身的社会挑战。龙莹在故事中不仅是徐舟的女友，她的身份和性别意识也逐渐模糊，蕴含了对爱情、身份以及自我认知的探索。文中提到龙莹利用面具改变自己的外貌，展现出对徐舟的真爱和复杂心理，表达了即使外表不完美，真实的自我也能赢得爱情。一些涉及性别角色和挑战传统观点的对话和情节发展，如龙莹的伪娘形象和她的情感体验，为故事增添了更多深度和复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_妈妈说文章的题目长才能在这么多优秀的皮�
 | Size            | 21489 bytes                           |
 | MD5             | 11d89c7a083804a13a7b753c3892cea3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 爱情, 自我探索, 性别认同, 青春, 复杂人际关系, 心理描写, 非传统爱情, 面具身份, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

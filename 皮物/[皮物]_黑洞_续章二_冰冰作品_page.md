@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑洞_续章二_冰冰作品.docx]([皮物]_黑洞_续章
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘变身与跨性别主题的小说续篇，故事围绕主人公凌墨和同伴雅儿的冒险展开。在文中，凌墨通过一种名为“人皮”的物品进行变身，变为一个妩媚的女子，以完成一些任务和复仇。这段情节充满了性别转换、自我认知的冲突和转变过程，描绘了凌墨对自己性别和身份的复杂感受。在变身后，凌墨体验到了身体的细腻变化，感受到女性特有的敏感和诱惑。在小说中伴随着强烈的性暗示和色情内容，包括角色之间的亲密举动，使用药物进行变化，以及在地下室和宾馆等场景中的各种复杂互动。随着故事的发展，凌墨和雅儿的任务逐渐显露出危险的阴谋，以及角色之间的信任和背叛的主题。整体上，这是一部结合了奇幻、变身和色情元素的小说，适合对跨性别和性别认同感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑洞_续章二_冰冰作品.docx]([皮物]_黑洞_续章
 | Size            | 23303 bytes                           |
 | MD5             | bce4cba185528e2e3eca19d7ff2d1458                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 冰冰作品                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性别认同, 自我探索, 奇幻, 色情, 情感冲突, 青少年, 地下行动, 相互依赖, 复仇, 变装, 人体改造, 药物, 城市冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

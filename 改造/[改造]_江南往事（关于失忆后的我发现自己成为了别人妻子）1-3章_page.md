@@ -7,7 +7,7 @@ TXT 下载: [[改造]_江南往事（关于失忆后的我发现自己成为了�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《江南往事（关于失忆后的我发现自己成为了别人妻子）》的第一到第三章，背景设定在民国时期，故事围绕失忆的主角林墨展开。林墨在经历了社会动荡和个人危机后，忽然醒来，发现自己成为了一位女性，身处陌生的环境中，努力探索自己的身份和过去。文中描写了1919年与1924年的不同历史场景，结合社会运动和个人情感的纠葛，展示了一个复杂的心理转变过程。作品细腻地刻画了主角对新身份的困惑与不安，以及对过去记忆的追寻。在情节发展中，林墨与李长青之间的关系也逐渐深厚，揭示出在剧烈社会变革下，个人情感与身份认同的复杂交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_江南往事（关于失忆后的我发现自己成为了�
 | Size            | 73216 bytes                           |
 | MD5             | 29ffc91ba6ae8500f11e24adbed3a86a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 鬼畜奏                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 民国, 跨性别, 失忆, 身份认同, 自我探索, 剧情发展, 情感纠葛, 历史背景, 女性视角, 社会运动, 变身, 变嫁, 强烈情感, 心理转变, 女性成长, 情感戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

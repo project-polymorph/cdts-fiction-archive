@@ -7,7 +7,7 @@ TXT 下载: [[交换]_急性換身慾望：醫院篇〈三〉：共享秘密的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《急性换身欲望：医院篇〈三〉：共享秘密的两人》，讲述了一种超自然的性转现象，发生在一男一女之间，且两者在身份、年龄、外貌上存在落差。在文中，小护士视角记录下与女医生丽文的互动，二人进行了一系列换身后的色情描写。故事开头介绍了这种换身的背景，随着情节的发展，两人对彼此身体产生了不可抑制的欲望，并展开了一系列的性行为。文中夹杂了对医疗环境与社会新闻的描绘，而主要情节集中在两个角色之间愈发亲密的交往和他们共同的欲望上。文中使用了大量色情与挑逗的语言，展示了性别角色的转换和身体感知的趣味。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_急性換身慾望：醫院篇〈三〉：共享秘密的�
 | Size            | 102912 bytes                           |
 | MD5             | 33c6856c2e59f5c7578bd94be5af2977                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 急性换身, 超自然现象, 性转小说, 护士与医生, 身体欲望, 性别角色, 色情内容, 换身情节, 自我探索, 二次元, 性别认同, 医护情感, 医生色情, 性别转换, 女性视角, 成年内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

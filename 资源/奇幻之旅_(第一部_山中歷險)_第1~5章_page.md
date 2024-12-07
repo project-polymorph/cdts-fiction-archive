@@ -7,7 +7,7 @@ TXT 下载: [奇幻之旅_(第一部_山中歷險)_第1~5章.doc](奇幻之旅_(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《奇幻之旅（第一部 山中历险）》的前五章，主要讲述了主人公丹尼尔在一个奇幻而充满挑战的旅途中，经历性别转变的故事。在故事开篇，丹尼尔登上豪华客轮，外表被迫变成女性，名字也变成布兰妮。他在美丽的海景和豪华的环境中，心中却充满了无奈与困惑。“总算又过了一天”的感叹折射出他内心深处的挣扎与无奈。故事分为多个时间节点，其中一个重要的转折发生在一个下雪的晚上，丹尼尔的人生发生了巨大的改变。从一个少年变为女性，丹尼尔将如何面对自己的新生活和身份认同的问题。此外，也提到丹尼尔在追查一个神秘而可怕的色情组织时，遇到了朋友路特，他们的对话暗示着将要展开的危险与冒险。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [奇幻之旅_(第一部_山中歷險)_第1~5章.doc](奇幻之旅_(
 | Size            | 71168 bytes                           |
 | MD5             | 9c784f6dbab269da7fdc4672a7ce40d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 变身, 跨性别, 自我认同, 冒险, 情感探索, 青春成长, 性别角色, 心理冲突, 魔法, 色情组织, 社会问题, 幻想世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

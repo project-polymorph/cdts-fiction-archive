@@ -7,7 +7,7 @@ TXT 下载: [[变身]_M200的傀儡指挥官第2章_TMP的夜间突袭.doc]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《变身_M200的傀儡指挥官》第2章，沉浸在一个复杂且充满欲望的夜晚。背景设定在未来社会，人形（人造机器人）已广泛参与人类生活，故事围绕一名指挥官与其人形部下TMP之间的暧昧关系展开。内容描绘了TMP因对指挥官的强烈爱意而展开的主动追求，甚至在指挥官醉酒后采取了强制性质的亲密行为。TMP在恰当的场合使用跳蛋作为爱意表达的工具，并通过各种手段调动指挥官的感官。故事中充满了调侃和羞辱的双向情感，指挥官在TMP的调戏下感受到复杂的情绪交织，愈发迷失于一种羞辱与快感。文件内容含有一定的限制级情节，涉及身体接触和性暗示，展示了角色之间压抑的欲望与社会对性别、身份的模糊界限。此段落中的细节刻画复杂且生动，反映了对人形与人类之间关系的科学与敏感探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_M200的傀儡指挥官第2章_TMP的夜间突袭.doc]([变
 | Size            | 47104 bytes                           |
 | MD5             | d8849e30ff2ca17d727ab43a05200a5e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别小说, 人形与人类关系, 性别认同, 强制亲密, 欲望与羞耻, 科技与情感, 二次元, 小说, 角色互动, 心理探索, 禁忌爱, 自我认知, 性转, 调戏, 性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

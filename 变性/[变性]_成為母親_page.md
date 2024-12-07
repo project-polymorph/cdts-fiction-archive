@@ -7,7 +7,7 @@ TXT 下载: [[变性]_成為母親.doc]([变性]_成為母親.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《成为母亲》是一篇关于性别认同与亲子关系的变身小说，主要讲述了一名年轻男性在一次偶然的机会中接手一名婴儿梅利莎后，经历了从性别角色的转换到成为母亲的过程。在故事中，主人公珍妮特·林恩（原名男性）在女装的状态下被迫照顾新生儿，逐渐适应了作为母亲的角色，并且在某种程度上享受着照顾孩子的乐趣。小说探讨了性别认同、自我认知以及母爱的主题，融合了感人的情感交流和身份认同的冲突，展现了角色在意外情况下成长和变化的历程。随着时间的推移，主人公接受了女性身份，经历了从照顾者到被社会认可的母亲的转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_成為母親.doc]([变性]_成為母親.doc)
 | Size            | 38400 bytes                           |
 | MD5             | 822533205627b2cef8596a64b81a8970                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Janet L. Stickney                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 跨性别, 母爱, 儿童抚养, 心理成长, 情感探索, 性别转换, 家庭关系, 自我探索, 社会认同, 伪娘, 变嫁, 角色扮演, 女性视角, 魔法, 二次元, 故事情节, 婚姻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

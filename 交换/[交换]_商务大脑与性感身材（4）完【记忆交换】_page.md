@@ -7,7 +7,7 @@ TXT 下载: [[交换]_商务大脑与性感身材（4）完【记忆交换】.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇作品描绘了一名男性角色道格经历了一次意外的性别转换，进而展开了一系列关于性别认同、自我发现和欲望的故事。在故事中，道格为了拯救公司的合同，参加了一场庆祝活动，处于各种情感交织的氛围中，他与特蕾西、蕾妮和拉里等角色之间的互动充满了趣味和紧张感，在意外的情况下，道格的内外变化引发了他对自身性别认同的探讨和重塑。故事中，包括道格穿上丝袜高跟鞋的那一幕，展现他对这种新身份的接受和享受。同时，小说还描绘了角色之间的情感纠葛，包括道格与特蕾西的关系和道格与拉里的暧昧互动，对性别流动性及其带来的情感与身体的变化进行了深刻的探索。最终，作品在展示多元性别视角的同时，不忘加入一些限制级内容的描写，揭示了现代社会中性别与欲望的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_商务大脑与性感身材（4）完【记忆交换】.do
 | Size            | 19848 bytes                           |
 | MD5             | 2fb4300942bf6f2fd46f24ebf2ff3aa4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转, 跨性别, 欲望探索, 自我发现, 伪娘, 职场情感, 庆祝活动, 酒吧, 复杂关系, 高跟鞋, 性感诱惑, 情感纠葛, 宿醉后, 多元性别, 现代社会, 亲密接触, 变身小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_通过应用程序(后篇).docx]([交换]_通过应用程�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容描绘了一个使用名为《Body Change》的应用程序来交换身体的角色。故事的主人公通过该应用程序将自己的上司和下属身体进行了多次交换，体验他人生活的同时，隐秘地操控他们的命运。文中涉及了对角色身份的认同和身体的变化，探讨了性别转换带来的心理冲突与自我认知的主题。尤其是角色在变身后的反应与情感变化，充满张力和戏剧性。例如，变成年轻女性的清洁工老头，在新身体中享受自己的境况，而原本的女下属则陷入绝望，被认为是可疑角色。该文档在一定程度上描绘了角色享受身体变化带来的欲望与困惑，涉及了一些露骨和性暗示的内容。最后，主人公期待未来变身为偶像# 雪喵，并计划继续使用该应用进行更多身体交换。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_通过应用程序(后篇).docx]([交换]_通过应用程�
 | Size            | 41418 bytes                           |
 | MD5             | eeeafff5862959fea8ced86bf5afed79                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 身份交换, 身体变换, 性别认同, 欲望探索, 诙谐, 恋爱, 都市, 奇幻, 二次元, 心理转变, 互动情节, 变嫁, 混乱, 自我认知, 女性身体, 强烈情感, 高潮体验, 陌生感, 公共场合行为, 情感冲突, 私欲, 黑暗幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

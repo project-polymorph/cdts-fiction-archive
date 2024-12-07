@@ -7,7 +7,7 @@ TXT 下载: [[变装]_壞孩子的處罰(完).docx]([变装]_壞孩子的處罰(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《壞孩子的處罰(完)》, 主要内容涉及性别转变的幻想和角色自我认知的探索。文中通过一系列的情节描写了主角艾伦如何在一位“医生”的指引下，从内心深处逐步接受并认同自己作为女性的身份，选择了新名字“美乐蒂”。该过程包含了强烈的心理暗示和对性别角色的重新塑造，诸如长发造型、化妆、女性内衣及行为举止的变化，都在文中有所体现。文本中提到的细节，如要求美容师为他制定特定的发型以及鼓励他阅读女性杂志等，都是为了强化其女性角色的形象和认同。文中不仅涉及性别认同的深刻探讨，还包括性与羞耻的主题，表现出角色在转变过程中的挣扎与适应。该文件是二次元伪娘文化的具体表现，展示了个体在性别与自我认同上的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_壞孩子的處罰(完).docx]([变装]_壞孩子的處罰(
 | Size            | 18733 bytes                           |
 | MD5             | 3f0e7180d41c450fd0cfa11b7aba546b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 伪娘, 跨性别, 心理暗示, 性别角色, 自我认同, 幻想小说, 女性化, 内心挣扎, 二次元文化, 变身小说, 情感探索, 变装, 性别认同, 心理治疗, 社会性别, 性别表达, 文化研究, 成年内容, 幻想主题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

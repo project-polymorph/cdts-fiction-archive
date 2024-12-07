@@ -7,7 +7,7 @@ TXT 下载: [[变身]_CDBOOK隐藏神器系列之阴阳镜(2).doc]([变身]_CDBO
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一部关于性别转换的小说，主要讲述了男主角杨辉通过神秘的阴阳镜变身为女性的经历。故事开头，男主与女友的私密关系让他感到尴尬，同时也为他在新身份中所面临的性别认同与自我认知的问题铺垫了基础。随着故事的发展，杨辉逐渐接受自己的女性身份，并对女性身体产生了好奇和欲望，引发了一系列内心的冲突与情感的纠葛。文本中对身体变化的细腻描写，同时穿插了男性自我欲望的认知，体现了复杂的性别与身份之间的关系。特定的情节也涉及到性欲的爆发与道德的挣扎，呈现出一种微妙的心理动态和性别认同的议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_CDBOOK隐藏神器系列之阴阳镜(2).doc]([变身]_CDBO
 | Size            | 39424 bytes                           |
 | MD5             | 5a9be77a3f4c3bdf7ec5d6bfb9ab7a51                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 性别认同, 自我探索, 禁忌之爱, 双性身份, 情感纠葛, 身体认知, 跨性别题材, 成人内容, 自我欲望, 心理冲突, 情色文学, 虚幻与现实, 角色扮演, 阴阳镜                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

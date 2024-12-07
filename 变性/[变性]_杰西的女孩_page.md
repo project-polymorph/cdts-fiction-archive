@@ -7,7 +7,7 @@ TXT 下载: [[变性]_杰西的女孩.doc]([变性]_杰西的女孩.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部小说《杰西的女孩》讲述了两个年轻男孩之间的友谊与情感交错的故事。故事的叙述者瑞克一直以来都是杰西的朋友，杰西是一个外表英俊的男孩，作品通过瑞克的视角，揭示了他对好友杰西和一位神秘女孩之间关系的嫉妒与好奇。随着情节的发展，瑞克感受到自己对杰西愈发复杂的情感，同时开始探索自己对性别与身份的认同。杰西的世界似乎存在一个隐藏的女孩，而瑞克对这个女孩的探索引发了一系列最新的情感挑战与自我发现的旅程。最终，瑞克在一个意外的吻中发生了本质上的变化，成为杰西所爱的女孩，故事探讨了爱情、性别认同以及友谊的界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_杰西的女孩.doc]([变性]_杰西的女孩.doc)
 | Size            | 38400 bytes                           |
 | MD5             | 50b2099df74b60113282d8213276e3d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | TGFictionStv                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 性转, 变身, 青少年, 友谊, 自我探索, 性别认同, 爱与嫉妒, 异性恋, 青春期, 校园, 魔法, 情感成长, 转变, 隐秘的爱情, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

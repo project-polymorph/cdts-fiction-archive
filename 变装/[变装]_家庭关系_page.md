@@ -7,7 +7,7 @@ TXT 下载: [[变装]_家庭关系.doc]([变装]_家庭关系.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是由作者Portia Jartelle创作的小说《家庭关系》的中文翻译版本。故事围绕角色保罗及其妻子艾格妮丝对于他们的女儿柏霖上学前的一系列互动与挑战。艾格妮丝希望保罗能够穿上裙子，以示对女儿上学的支持，这引发了保罗内心的挣扎与自我认同的思考。在这个过程中，艾格妮丝训练保罗穿着女性服装、脱毛和化妆，随着剧情的发展，保罗开始接受这一变化，并意识到自己内心深处的性别认同问题。故事探讨了性别角色、家庭关系、个人认同及父母对子女的期待等深刻主题，展示了保罗在艾格妮丝的鼓励下逐渐接受自己变化的心理旅程。这部作品包括了一些性别转换的情节，自我认同的冲突，以及对传统性别角色的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_家庭关系.doc]([变装]_家庭关系.doc)
 | Size            | 37888 bytes                           |
 | MD5             | 9cee2b544435dc8d97afa996935c5d1e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Portia Jartelle                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 跨性别, 家庭关系, 自我认同, 父女情, 服装角色扮演, 性别挑战, 心理成长, 父母期望, 女性化体验, 变嫁, 二次元, 情感纠葛, 强迫角色, 内衣文化, 社会期待, 性别表达, 情欲探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

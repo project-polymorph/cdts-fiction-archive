@@ -7,7 +7,7 @@ TXT 下载: [[交换]_下一站终点（一）.doc]([交换]_下一站终点（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《下一站终点（一）》是一部围绕性别转换、性别认同和家庭关系的故事。故事主要围绕主人公杜宏盛及其堂弟的生活展开。在一次轻轨站的偶遇中，杜宏盛发现堂弟面带焦急，原来堂弟告知他与父亲发生争执的男人和事情变得复杂起来。从他们的对话中可以看出，家庭之间的关系紧张，尤其是在面对成年人的行为与情感时。午夜时分，杜宏盛回忆起自己的父母，并因与一位神秘男人之间的关系而感到困扰。这位男人似乎掌握着某种特殊的力量，并对杜宏盛的生活产生了极大的影响，包括经济依赖和贪欲的冲突。故事逐渐深入涉及性别认同和家庭伦理的复杂关系，充满了情感的张力和自我探索的主题。整个故事透过对话和细腻的描写，展现了主角内心的挣扎以及对生活中他人的期待与失落，给人以思考和共鸣。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_下一站终点（一）.doc]([交换]_下一站终点（�
 | Size            | 55808 bytes                           |
 | MD5             | ded3e9c588e8c41a84f1c2e6911a3aae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 家庭伦理, 自我探索, 情感困扰, 青春成长, 社会关系, 性别认同, 男性视角, 成长烦恼, 权力关系, 情感依赖, 冲突与和解, 药物, 神秘力量, 戏剧冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

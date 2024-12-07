@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[分魂]咒符-下.docx]([附身]_[分魂]咒符-下.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件名为《附身_分魂_咒符-下》，由作者骨張创作，属于跨性别与变身类的小说，内容围绕着主人公光汰和他的两位女友小鸟、美帆展开。在故事中，光汰的父母外出，而他和两位女孩在家中度过了一段亲密时光。这一切都在小说内通过他们的对话和互动生动展现，充满了青春的幽默与微妙的情感。光汰内心藏有一个大秘密，但在这篇幅内，主要描绘了他与朋友们的相处，以及他对美帆的倾慕之情，尤其是在美帆穿上围裙后的情景。文中多次提及光汰对于美帆的外貌及魅力的想法，具有明显的色情暗示，文字中包含对亲密行为的期待与幻想。这部作品不仅展现了性别认同和自我探索的主题，还涉及了对年轻人的爱情和性幻想的探索，语言风格轻松活泼，伴随着青春的懵懂和困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[分魂]咒符-下.docx]([附身]_[分魂]咒符-下.docx)
 | Size            | 32497 bytes                           |
 | MD5             | 141fc6d58bfba6dbfdc4788d004a6765                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 骨張                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身, 青春, 亲密关系, 性别认同, 自我探索, 爱情, 女仆, 校园生活, 性幻想, 伪娘, 男娘, 强烈情感, 秘密, 轻松幽默, 年轻人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

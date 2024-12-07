@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魅魔_第一夜.docx]([皮物]_魅魔_第一夜.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一部涉及变身与跨性别主题的小说，主要围绕主人公佐井和他的青梅竹马嘉儿之间的情感纠葛与身体变换的故事。故事开篇描述了魅魔的传说，她们会通过诱惑男性来吸取精气，强调了她们在梦中勾引的角色。随着情节的发展，嘉儿因被男友甩而向佐井倾诉，表现出情感上的痛苦和挣扎。两人因酒精与情感交织产生的一系列激烈冲突，表现在破坏与自我剖析的场景中，探索了性别与身份认同的复杂性。特别是嘉儿与佐井在药物作用下经历身体剥离的变形，挑战了传统性别界限，暗示了性别流动性和心理认同的主题。文本不仅涉及了情感与身体的双重变化，还触及了个体自我认知的转变。最终，佐井在经历外貌和身份的交叉后，面临内心的挣扎与痛苦，探讨了人类对自我与他人认同的追求。该作品将跨性别的主题与幻想元素结合，展现了对现代社会性别观念的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魅魔_第一夜.docx]([皮物]_魅魔_第一夜.docx)
 | Size            | 33471 bytes                           |
 | MD5             | aceef80caf0ceda1ae5c7b58a3a1c719                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魅魔, 变身, 跨性别, 性别认同, 青春, 情感纠葛, 自我探索, 心理冲突, 奇幻, 禁忌爱情, 恐怖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

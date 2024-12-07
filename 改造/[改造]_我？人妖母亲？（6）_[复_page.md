@@ -7,7 +7,7 @@ TXT 下载: [[改造]_我？人妖母亲？（6）_[复.docx]([改造]_我？人
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含了一部名为《我？人妖母亲？》的小说，以及相关的更新信息和讨论。该小说主要围绕角色陈娟的经历展开，描述了她从梦中醒来时意识到自己正经历性的身份变化与冲突的心理状态。开头阐述了陈娟的困惑与惊慌，特别是回忆起儿子对她的侵犯，以及对于自己性别身份的重新审视。文中不仅涉及个人的性别认同问题，还刻画了因为身体变化而引发的内心挣扎和反思。小说引发的情节或许让人觉得不适，但它确实探索了更深层次的性别与自我认同等主题。由于包含成人内容，适合成年读者，同时提醒在研究中需保持科学和客观的态度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_我？人妖母亲？（6）_[复.docx]([改造]_我？人
 | Size            | 34235 bytes                           |
 | MD5             | eecd2bef3ff7696531d99612a86e4816                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 强制改造, 性别认同, 家庭关系, 梦境, 自我认知, 性暴力, 心理冲突, 人妖, 成人内容, 探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

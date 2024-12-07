@@ -7,7 +7,7 @@ TXT 下载: [[其他]_游戏的代价（二）.docx]([其他]_游戏的代价（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件名为《游戏的代价（二）》，讲述了一位名为艾薇儿的女性角色在南方岛国的旅行故事。艾薇儿在度假时，意外获得了一具令人艳羡的身体，享受着单独旅行的自由。在文中，艾薇儿展现出对自己新身体的探索和自我认知的矛盾心理，虽然她神采奕奕，但内心对于自己身份的回归充满了挣扎。艾薇儿在与自己内心欲望的对话中，反思着过去的经历，并不断回忆起与祖母在海边的点滴，表达了对过去的眷恋。随着情节的发展，她的性欲觉醒愈加明显，并暗示了可能的情感倾向，同时又开始面临意外的控制局面。文本中包含一些成人内容，其情节涉及性自我探索、性别身份认知的复杂性，以及与女性角色的相互互动。文中不乏对角色身体的细腻描写及心理活动的深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_游戏的代价（二）.docx]([其他]_游戏的代价（
 | Size            | 38532 bytes                           |
 | MD5             | 64636d3dc57659412977321dc20edd96                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 自我认知, 艾薇儿, 岛屿旅行, 性欲探索, 女性视角, 心理冲突, 情感纠葛, 青春成长, 欲望释放, 独立女性, 人际关系探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【后续】这特么是软泥？！.doc]([附身]_【后�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及跨性别与附身主题的小说，讲述了男主角唐成在与房东尤沐诗确认男女关系后，探索自己与尤沐诗身体的双重控制体验。故事中，唐成获得了通过软泥能力附身他人的能力，伴随而来的是身体与心理的复杂冲突与体验。整篇小说对于性别认同、身体变换、以及欲望的探索进行了细致入微的描写，包含了唐成通过操控他与尤沐诗的身体而产生的心理和感官的奇妙旅程，展现了他在身体与意识上的交互与探索。在故事的高潮部分，唐成控制着尤沐诗的身体，体验了一系列亲密行为，随之而来的迷惑与享受让他陷入欲望与理智的斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【后续】这特么是软泥？！.doc]([附身]_【后�
 | Size            | 59392 bytes                           |
 | MD5             | a0aebafadca1b96c167b32957408d27b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 附身, 性转, 伪娘, 变身, 欲望探索, 身体控制, 男主角, 清纯爱情, 心理冲突, 青春校园, 双人游戏, 性别认同, 身体与意识交互, 幻想类小说, 肉体关系, 情感关系, 性欲, 特殊能力, 成长故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

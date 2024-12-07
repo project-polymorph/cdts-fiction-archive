@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的女朋友美女李佳宜NEXT《第一章》.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性转与伪娘主题的小说，讲述了主人公在夜晚的城市中穿着女性服装，内心感受和外在形象的冲突与融合。故事的开篇描绘了城市的喧嚣与主角的兴奋心情，展现了人物的紧张及自我认同的过程。在经历了一次次的心理挣扎后，主人公通过扮演女性角色而感受到一阵安全感，伴随着对性别认同的探索，逐渐沉浸在这一角色中。随着剧情的发展，主人公进入了一个房间，发生了一系列涉及肢体亲密接触和情感纠葛的情节，突出表现了伪娘角色与其他女性角色的互动。故事中涉及到对性的描写，探讨了角色在性别与性欲之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的女朋友美女李佳宜NEXT《第一章》.docx]([�
 | Size            | 33676 bytes                           |
 | MD5             | e3a8776df8f44cef82c0f7eb5c9946e3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 性别认同, 情感纠葛, 夜生活, 强烈欲望, 自我探索, 身体认同, 都市小说, 性转幻想, 女性化, 内心冲突, 性别角色, 人际关系, 暗恋, 紧身衣, 高跟鞋, 黑丝袜, 娇羞                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

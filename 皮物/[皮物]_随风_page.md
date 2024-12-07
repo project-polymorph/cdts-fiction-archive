@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_随风.docx]([皮物]_随风.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于个人成长与自我探索的小说，叙述了主角与‘她’的相遇以及他们之间通过风产生的心灵联系。从小时候在山林间玩耍，与风的亲密接触开始，主角渐渐意识到自己的渴望和对风的独特感受。经历了农村到城镇，再到大城市的变化，主角在繁忙与孤独中寻找宁静，最终在学校附近的小树林中找到了一片属于自己的净土。在这个小树林里，主角遇见了一位神秘的女子。两人无需言语，通过共同的感受交流心灵，体现出一种深刻而细腻的感情。随着故事发展，主角的想法和感受流露出对未来的不安与对过去的怀念，充满了青春的脆弱与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_随风.docx]([皮物]_随风.docx)
 | Size            | 22863 bytes                           |
 | MD5             | 13cd7a6602341448bd3216a3a94ad56b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 青少年成长, 自我探索, 风的意象, 灵魂伴侣, 校园生活, 伪娘, 情感连结, 神秘女子, 城市孤独, 渴望与失落, 幻想文学, 精神故事, 女性视角, 山林, 友情, 生活哲学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

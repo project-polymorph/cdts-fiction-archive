@@ -7,7 +7,7 @@ TXT 下载: [[交换]_恋爱随意链接（申码文搬运）.docx]([交换]_恋
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一部关于恋爱和性别转换的轻小说，讲述了高富帅和白富美之间的情感纠葛及性别交换的奇妙经历。故事开始于主角高富帅和他的女友白富美之间的感情冲突，他们因为沟通不畅和个人原因分手。在一次意外中，高富帅拨打了一个名为‘恋爱事务所’的电话，导致他与白富美之间出现了奇怪的身体链接。高富帅醒来时发现自己的头发竟然变得非常长，而白富美则变得与他相似，在时间的推移中，他们逐渐适应了这种奇怪的交换，女主角逐渐享受起没有胸部负担的轻松生活，而男主则体验到了女孩子长发的烦恼与身体的变化，并逐渐发觉自己对女儿身体验的复杂情感。整部作品在性别认同和恋爱关系上探讨了许多主题，包含了幽默、爱情和青春的元素。文中也涉及了一些性暗示和身体变化的细节，反映了对性别议题的独特视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_恋爱随意链接（申码文搬运）.docx]([交换]_恋
 | Size            | 37343 bytes                           |
 | MD5             | d9d09c2d7dda4c84707f6cd294fc1033                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 恋爱, 性别转换, 伪娘, 青春, 校园, 自我认知, 身体交换, 高富帅, 白富美, 奇幻, 调教, 探索, 情感纠葛, 性别认同, 心理冲突, 成长, 幽默, 搞笑, 逆后宫, 二次元, 轻小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

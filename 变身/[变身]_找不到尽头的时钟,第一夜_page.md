@@ -7,7 +7,7 @@ TXT 下载: [[变身]_找不到尽头的时钟,第一夜.docx]([变身]_找不�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一部关于性别契约与自我认同的小说，围绕一位曾经的王者因内战失利而被流放到堕落城市的故事展开。故事开头描绘了城市的混乱与疯狂，处于无尽享乐与堕落中的人们，暗示着一个不夜城的堕落景象。主角在经过一段时间的变迁后，被迫承认自身的新身份，逐步接受成为一名娼妓的命运。文中多次提到王者的变身，性别的转化以及对过去身份的反思，比如“那即将抵达到这里的存在，可是大陆最为强盛的国度”，并强调了对此前王者身份的悲伤与屈辱。“美丽且丑陋的印记，在那如同天鹅的脖颈，清晰地烙下属于自己的印记。”这种对外部标签的关注，进一步展现了角色的内心斗争与再塑造过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_找不到尽头的时钟,第一夜.docx]([变身]_找不�
 | Size            | 22032 bytes                           |
 | MD5             | be03718889e695e2cf85302ed0ed711b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 王者变身, 堕落城市, 身份认同, 自我探索, 性别认同, 悲剧, 权力失落, 暗黑幻想, 都市幻想, 强权与压迫, 自我救赎, 反乌托邦, 变嫁, 伪娘, TSF, NTR, 女体化, 魔法, 虚拟现实, 性别模糊                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

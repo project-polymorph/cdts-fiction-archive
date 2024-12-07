@@ -7,7 +7,7 @@ TXT 下载: [[变身]_神奇的紧身衣.doc]([变身]_神奇的紧身衣.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《神奇的紧身衣》讲述了一名名叫唐的男孩通过一件名为“New You”的紧身衣体验变身为女孩的过程。故事开头，唐的室友内森将他绑起来，并强调如果不在限定时间内脱下紧身衣，唐将完全变成一个女孩。随着时间推移，唐逐渐感受到自己身体的变化与敏感的快感，内心对自身性别的认同也开始动摇。故事中充满了对性别认同、自我探索的冲突，尤其是在唐逐渐接受自己新身份时，其心理变化十分复杂。最终，唐在逃离与内森的关系中经历了许多情感和身体上的挣扎，伴随着对内心想法的不安与否定。该作品涉及性别转换和性的双重探索，以及角色在性别认同上的自我认知与抗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_神奇的紧身衣.doc]([变身]_神奇的紧身衣.doc)
 | Size            | 38400 bytes                           |
 | MD5             | 76d583535d3cd15c03f7b7439d7fb079                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 性别认同, 自我探索, 非自愿变身, 敏感体验, SM, 心理变化, 情感冲突, 身体意识, 紧身衣, 女性化, 欲望觉醒, 绑缚, 性高潮                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

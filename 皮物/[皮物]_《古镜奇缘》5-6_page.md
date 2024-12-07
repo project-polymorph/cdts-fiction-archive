@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《古镜奇缘》5-6.doc]([皮物]_《古镜奇缘》5-6.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档是关于一部名为《古镜奇缘》的小说的章节内容，具体为第五章，涉及性别转换及相关情节。故事主要围绕角色白诗妍和男性角色杨峰之间的复杂互动展开。白诗妍在一处电梯中遭到一名男子的侵犯，随后故事展现了角色自我认知的变化和性别身份的探索。文中描绘了变身、困惑、以及男性对女性身体的占有欲等情节，并引入了超自然元素，如狐仙和古镜的神秘力量。小说中深刻探讨了性别认同之间的冲突，涉及神秘与现实的交织。文中部分描写严肃的话题，包含了性侵犯、变身、以及身体的自主权的探讨，尤其是在魔法和神秘主义背景下的性别交换。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《古镜奇缘》5-6.doc]([皮物]_《古镜奇缘》5-6.
 | Size            | 53760 bytes                           |
 | MD5             | 8bf3ca2a88bbf82166b150bff90b462d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 强奸, NTR, 恶魔, 古镜, 奇幻, 性别认同, 自我探索, 超自然, 角色扮演, 神秘主义, 女性视角, 变嫁, 百合, TSF, 情感纠葛, 禁忌恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

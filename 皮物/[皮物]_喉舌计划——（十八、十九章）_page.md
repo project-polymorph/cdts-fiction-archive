@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_喉舌计划——（十八、十九章）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《喉舌计划》是一本涉及复杂性别身份和性转主题的小说，特别关注角色之间的相互作用和情感纠葛。在第十八章和第十九章中，故事围绕着隆楠、何小晓和白琳三位女性角色展开，她们在购物中心挑选性感服装，享受着购物的乐趣。在随后的聚会上，三位角色换上了各自的性感服装，展现出更加迷人的一面。本章节详尽描写了角色在聚会中的互动与欲望碰撞，充满了色情内容，包括角色的服装选择、身体接触以及彼此间激烈的情欲体验。此外，章节中也揭示了隆楠未婚夫李明勇对她的关怀与信任，与角色们的隐秘生活形成鲜明对比，造成了强烈的情感冲突。整体来看，该作品探索了性别认同、自我认知、欲望和人际关系等复杂主题，充满挑衅与幻想。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_喉舌计划——（十八、十九章）.doc]([皮物]_�
 | Size            | 64000 bytes                           |
 | MD5             | 3a374d87e84c82f0ddc2d477b908d001                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 强奸, 聚会, 性感服装, 情趣用品, 欲望冲突, 女同性恋, 心理冲突, 跨性别, 调情, 情感纠葛, 角色互动, 暗恋, 淫荡, 调教, 逆后宫, 丰满身体, 玩具, 浪漫, 情欲, 女性视角, 多元性别, 情感探索, 女性友谊                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

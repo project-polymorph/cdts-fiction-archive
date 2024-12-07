@@ -7,7 +7,7 @@ TXT 下载: [[变装]_（申码文）一年时间从人夫到人妻（上）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一名男性化妆师刘奇的故事，他将自己在婚后生活中的一系列变化与感受进行了生动描述。这篇关于自己从人夫向人妻化身的变装小说，展现了他作为美妆自媒体运营者的生活与心理变化。故事从刘奇的个人背景开始，讲述了他如何辞去工作专注于自媒体，并描述了他与妻子之间因工作与生活的疏离而产生的问题，以及他对美妆的热爱。在与新邻居袁野的相识后，刘奇的生活开始有了新的变化，袁野的幽默和随和逐渐让刘奇的单调生活增添了色彩。对袁野的吸引让刘奇感到了内心的冲突，这种变化潜藏着他自我认知与性别认同的探索。整篇小说在对色彩、化妆等元素的描写中夹杂着复杂的人际关系和心理现象，充满了情感的交织与变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_（申码文）一年时间从人夫到人妻（上）.doc
 | Size            | 47719 bytes                           |
 | MD5             | 262d3aeb1c8be6491d7219b80f1b84a5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 改造人夫                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 自我认知, 美妆自媒体, 邻居情, 性别转变, 情感冲突, 日常生活,  LGBTQ+ , 探索自我, 化妆师, 都市变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

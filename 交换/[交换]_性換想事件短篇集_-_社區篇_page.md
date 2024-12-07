@@ -7,7 +7,7 @@ TXT 下载: [[交换]_性換想事件短篇集_-_社區篇.docx]([交换]_性換
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《性换想事件短篇集 - 社区篇》，内容以性别转换和跨性别为主题，涉及三位主要角色的故事。第一部分讲述了男孩竫仁在新邻居曈霖的吸引下，沉迷于手淫与幻想，最终因一次奇妙的经历而和曈霖交换了身体，竫仁在女人的身体中体验到了全新的性快感，并乐于探索女性的世界。第二个故事聚焦在家庭背景贫寒的雅婷，她渴望嫁入豪门，不幸却在一次自慰中变成了她的邻居政哲，随之而来的身份转变让雅婷体验到作为伪娘的生活与冲突。最后讲述的是翰宇和他的未婚妻晴瑤在一次争吵后不小心互换身体，双方都需面对对方身体的独特感受和在亲密关系中的角色变化。这些故事展示了性别认同、身体探索与自我认知的复杂性，涉及性关系与性快感的多样体验，同时包含色情元素，适合成人审阅。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_性換想事件短篇集_-_社區篇.docx]([交换]_性換
 | Size            | 23629 bytes                           |
 | MD5             | 6a46f974d15d1af05472801a3e789f2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 性幻想, 伪娘, 男娘, 变身, 探索自我, 性意识, 青少年, 性关系, 情感冲突, 交换身体, 都市小说, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

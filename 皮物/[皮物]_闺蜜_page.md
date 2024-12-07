@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_闺蜜.doc]([皮物]_闺蜜.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文描绘了一对高中女生张小曦和李淑灵之间微妙而复杂的友谊。故事开始于两人讨论学校的进修名额，李淑灵希望能获得这个机会，由于这个名额的竞争，两人之间的关系变得紧张。张小曦表现得温柔且善良，但她也有自己的目标和期望，而李淑灵则显得更为强势、富有表现欲。随着情节的发展，两人开始探讨彼此的家庭背景和个人价值，李淑灵对张小曦的询问透露出了她对朋友身份的反思。最高潮处，李淑灵使用了一张陌生且具有神秘色彩的纸条，似乎暗示着一种诡异的变身力量，最终导致张小曦的身体被变成了“皮物”，预示着她的身份和地位的消失，同时也让李淑灵的完美形象得以突显。小说探讨了友谊、竞争、身份认同和外貌的扭曲等主题，充满了青春的困惑和成长的代价。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[皮物]_闺蜜.doc]([皮物]_闺蜜.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 52224 bytes                           |
 | MD5             | e456bc64b121b46f59b04044786c0066                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 女同性恋, 魔法, 身体交换, 强权, 青春, 自我认同, 变身, 闺蜜关系, 情感纠葛, 校园, 竞争, 神秘力量, 变嫁, 心理冲突, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

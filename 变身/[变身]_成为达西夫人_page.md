@@ -7,7 +7,8 @@ TXT 下载: [[变身]_成为达西夫人.doc]([变身]_成为达西夫人.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《成为达西夫人》是一部以性别转换为主题的小说，讲述了男主角乔希·埃尔文在一次偶然的机会中，被魔法改变成达西夫人。故事起始化于乔希的高中毕业时，他获得了一份看房子的工作，从而有机会接触到他的邻居达西先生的家。在一次前往达西家进行房屋检查时，他听到了神秘婴儿的哭声，随即发生了一系列神秘的变化，最终变成了达西夫人。
+乔希在变身过程中经历了一段强烈的身份危机和惊恐，他的身体逐渐变得女性化，感知也发生了改变，对自己的身份感到无比恐慌。他看到自己变成了之前已经去世的达西夫人，内心对自我存在的怀疑加深，同时又不得不面对一种对新身份的适应。他在照顾婴儿的过程中，体会到了母亲的情感，这种矛盾的心情表明了他对新身份的接受与抗拒的挣扎。最后，乔希几乎忘记了自己的曾经，陷入了达西夫人的生活与记忆之中，逐渐融入了新的生活。该作品探讨了身份认同、性别转变和自我接纳等复杂的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +22,10 @@ TXT 下载: [[变身]_成为达西夫人.doc]([变身]_成为达西夫人.doc)
 | Size            | 36352 bytes                           |
 | MD5             | 5a9b835f221e35ca62bab748ac82d77e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lily Florette                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 跨性别, 达西夫人, 自我探索, 家庭, 情感, 身份危机, 奇幻, 成长, 魔法少女, 二次元, 爱情, 恐惧, 母爱, 生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

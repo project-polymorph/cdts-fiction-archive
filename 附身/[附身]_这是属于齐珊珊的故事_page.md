@@ -7,7 +7,7 @@ TXT 下载: [[附身]_这是属于齐珊珊的故事.doc]([附身]_这是属于�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于齐珊珊的伪娘 TS 变身与跨性别相关小说，主要讲述了男保安林翰对女强人齐珊珊的迷恋和偷窥故事。故事开始于晚上，林翰在值班期间与搭档老杨聊天，得知齐珊珊仍在办公室工作。随着故事的推进，林翰表现出对齐珊珊的强烈性欲望，他通过偷拍的方式对齐珊珊进行监视。他对齐珊珊的外貌及气质进行了详细的描绘，表达了他对她的崇拜与渴望，尽管知道自己与她之间有着不小的距离。小说中描述了林翰的病态心理以及他幻想与齐珊珊之间的情景，情节涉及到偷窥和性幻想的元素，反映出男性对女性身体的深层渴望和对自我身份的探索。文件中包含的语言和情节较为露骨，涉及一些限制级内容，展现了不可接触的爱情的苦涩和自我纠结。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_这是属于齐珊珊的故事.doc]([附身]_这是属于�
 | Size            | 148992 bytes                           |
 | MD5             | bf47c5827e7a19c5ea25c7105595aa70                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 偷窥, 病态爱慕, 强迫幻想, 珠宝设计, 女强人, 性别认同, 职场恋情, 孤独, 性转, 自我探索, 情感纠葛, 夜晚值班, 青春, 办公室恋情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

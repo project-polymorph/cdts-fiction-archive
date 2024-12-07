@@ -7,7 +7,7 @@ TXT 下载: [[交换]_龙舌兰_11_仇敌？故人？.docx]([交换]_龙舌兰_1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+在《龙舌兰》第十一章中，故事情节发展到了转折点，主要围绕角色杨立和蕊可的互动以及他们面临的危险展开。秋季的阳光照射下，两个时尚女性在一个居民社区相遇，杨立因焦虑的心情决定独自前往，但蕊可出于关心坚持陪伴。房屋中充满了紧张的气氛，径直走到杨立的家，他们发现屋子被翻得一片狼藉，显然有人探查过。在紧急情况下，杨立用钥匙打开家门，并试图避免暴露他们所面临的危险，同时透出他对蕊可的深情与保护之心。然而，事态急转直下，两个陌生男子闯入，杨立机智地提醒蕊可逃生，紧张的情节让人感受到角色之间深厚的情感与潜在的危险。随着故事的发展，情感与危机交织，居然暗示了许多情感纠葛与人物关系的复杂性，以及对身份和自我认知的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_龙舌兰_11_仇敌？故人？.docx]([交换]_龙舌兰_1
 | Size            | 33095 bytes                           |
 | MD5             | 312c6db4df0cb0be1a1e21cf2d471ec6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ft3020997(yudi)                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 自我探索, 情感纠葛, 悬疑, 女同性恋, 秋季, 紧张剧情, 都市生活, 暗藏危险, 强烈情感, 角色发展, 家庭关系, 隔阂与理解                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

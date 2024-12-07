@@ -7,7 +7,7 @@ TXT 下载: [[交换]_给我到异世界狠狠更新【4】.doc]([交换]_给我
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于异世界冒险的变身小说，中心角色花树经历了一次惊险的求生经历。故事开篇描绘了花树被泥头车创飞的恐怖场景，回忆起死亡的复杂情感。在逃离危险的过程中，他遇到了一名洛丽塔风格的可爱少女麻玛以及三只兽耳娘，地点笼罩在地狱三头犬的阴影之下。花树与同伴们经历了一场巨大的转变，发现自己被从魔兽化为人形的情节所困惑。随着故事的发展，角色们探索了自我认同与相互关系的复杂性，特别是花树对于自己在异世界的身份和能力的重新理解。本文件中包含了一些可能涉及限制级内容的描写，作品围绕性别认同、自我探索等主题展开，通过角色们的对话以及具体描写传达出这种隐晦复杂的情感和冒险经历。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_给我到异世界狠狠更新【4】.doc]([交换]_给我
 | Size            | 70144 bytes                           |
 | MD5             | 229fdec0f2da6077ae9db829690686af                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异世界冒险, 变身小说, 性别认同, 洛丽塔少女, 兽耳娘, 角色自我探索, 生死抉择, 魔法与人类关系, 幻想文学, 情感纠葛, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

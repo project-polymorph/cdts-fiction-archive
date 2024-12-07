@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新人生（下）.docx]([皮物]_新人生（下）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《新人生（下）》的下部章节，内容围绕角色洛青在暗黑势力中展开的故事。小说设定在一个光线昏暗的空间中，乔哥是一个复杂的人物，既有黑手党背景又具有神秘性。故事开始于洛青与乔哥的初次见面，乔哥向洛青透露他在珠海的计划，并暗示洛青即将参与一项危险的任务。文中深入探讨了洛青的身份转换及角色与社会的关系，以及人们在面对生存压力时的选择与自我认同。通过一系列对话和场景描写，小说展示了角色之间的微妙关系和冲突。特殊的设定和情节逐渐向读者揭示角色过去的秘密与未来的可能性，包括群体身份和个人认同的复杂性。《新人生（下）》不仅有暗黑风格的情节，还涉及到变身、性别认同等多个主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_新人生（下）.docx]([皮物]_新人生（下）.docx)
 | Size            | 22044 bytes                           |
 | MD5             | bd5e510356515857923d66466593c7dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 乔哥, 洛青, 黑手党, 珠海, 角色认同, 变身, 自我探索, 暗黑势力, 复杂关系, 人际交往, 命运转折, 社会压迫, 身份转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

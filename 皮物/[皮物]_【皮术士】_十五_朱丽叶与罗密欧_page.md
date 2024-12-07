@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮术士】_十五_朱丽叶与罗密欧.doc]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一名角色在一个充满奇幻与冒险的故事中变身为另一名角色的小说。故事围绕朱丽叶、罗密欧及其表哥亚历山大展开，描述了复杂的角色关系和情感冲突。朱丽叶的表哥亚历山大试图通过暴力阻止朱丽叶与罗密欧之间的亲密关系，并表现出对朱丽叶的病态占有欲。在一系列激烈的冲突后，亚历山大使用了一种名为“神的恩赐”的药物，使朱丽叶的身份和性格发生了巨大变化，转变为淫荡的角色。故事中充满了性别认同、自我探索以及角色之间复杂的爱恨纠葛。最后，亚历山大为了贪图朱丽叶的身份而对她产生了极大的占有欲，而朱丽叶在药物的效应下则开始了自我解放和欲望的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮术士】_十五_朱丽叶与罗密欧.doc]([皮物]
 | Size            | 41472 bytes                           |
 | MD5             | d0ede49e2500a4c4063e2b93a7a47ace                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 伪娘, 争执, 药物, 自我认同, 复杂的家庭关系, 占有欲, 奇幻, 爱情, 身份转换, 性别探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

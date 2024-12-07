@@ -7,7 +7,7 @@ TXT 下载: [[附身]_入替魔杖（上）.doc]([附身]_入替魔杖（上）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部描绘角色穿越与性别转换的小说。故事围绕三名青年在美国的贫民窟中生存的艰辛展开，他们因黑中介被骗至美国，在贫民窟中翻找食物，饱受生活之苦。在一次与黑帮的冲突中，贴身保护他们的神奇女侠意外登场，试图拯救他们。然而，黑帮老大却意外掌握了一根具有强大魔力的神器，并利用此神器成功地将自己的意识与神奇女侠的身体进行了融合。随着故事的发展，神奇女侠逐渐失去了自己的身份，被黑帮老大完全占据身体，成为一个不同的存在。此过程充满了性别认同与权力颠倒的戏剧性，将性别变化与个人斗争相结合，探讨了身份和力量的主题。全篇内容不仅描绘了角色的自我探索，也展示了对超能力和身体控制的另类解读，涉及一些限制级和性暗示的场景，适合成年读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_入替魔杖（上）.doc]([附身]_入替魔杖（上）.
 | Size            | 40960 bytes                           |
 | MD5             | eddfe5b1a7a530d40ba280261712548e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 角色穿越, 超能力, 神奇女侠, 黑帮故事, 魔法神器, 身份认同, 自我探索, 肉体控制, 幻想小说, 成人内容, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

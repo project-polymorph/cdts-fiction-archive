@@ -7,7 +7,7 @@ TXT 下载: [[变身]_衣服（六）.doc]([变身]_衣服（六）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇轻H的超慢热都市校园异能小说，采用第一人称视角，以角色内心戏为主线，描绘了主人公与他的朋友卓伟在逐渐觉醒的超能力之旅中所遭遇的各种事件。故事背景设定在一个普通的城市中，主人公因超能力的觉醒再次陷入了外部势力的监视和追踪之中。故事中，卓伟的姐姐因能力被特殊机关拘捕，而卓伟则试图在保证自己和家人安全的情况下，收集超能力相关信息以助姐姐逃脱。文章中多次提到超能力的发展与觉醒的神秘性，角色内心的自我探讨以及对超能力未来的迷茫。在情节上，主人公面临的危险与他人之间的关系与互动都为后续的发展埋下了伏笔。文章内容涉及轻微成人情节，主要集中于人物关系的复杂与内心的成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_衣服（六）.doc]([变身]_衣服（六）.doc)
 | Size            | 64512 bytes                           |
 | MD5             | 234d5d8aebb70138ed398af4310692eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 都市校园, 超能力, 变身, 第一人称视角, 轻H, 内心戏, 自我探索, 特殊机关, 超能力者, 心理斗争, 关系复杂, 亲情, 友情, 监控, 隐秘, 安全屋, 科技                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

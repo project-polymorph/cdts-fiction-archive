@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_赵云传_冰冰作品.docx]([皮物]_赵云传_冰冰作�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于古代战争背景中的伪娘题材小说，讲述了一位女性角色在长坂桥的惊险经历。在故事中，角色利用易容术伪装成著名的男性武将赵云，面对曹军的追击，她在逃生的过程中展现了英勇和聪明才智。故事包含了丰富的战斗细节，以及女主在战斗中的心理冲突与自我认同的探索。例如，她在逃亡过程中变化角色形象的细节，引出了对性别和身份的探讨。文中提到角色“女子低头将人皮面具贴合在脸上，完美的面部表情”，彰显出角色对自己身份的复杂认知。全篇充满了紧张的战斗场景与戏剧性的角色转变，同时涉及性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_赵云传_冰冰作品.docx]([皮物]_赵云传_冰冰作�
 | Size            | 26647 bytes                           |
 | MD5             | 47e4c0261a6629efa74420e0db8d31d1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 冰冰                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 古代, 三国, 易容术, 自我认同, 战争, 女性力量, 性别探索, 冒险, 情感, 马术, 枪法, 历史                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

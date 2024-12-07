@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮之种_第九章-第十章.doc]([皮物]_皮之种_第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为岚山ＧＯ创作的小说章节，描绘了一个关于转性、性别认同以及人际关系复杂互动的虚构故事。故事的主要情节围绕几位女性角色与一个男性角色之间发生的性体验和情感交流。通过对身体的探索和感官的刺激，角色们逐渐揭示出对性别和欲望的不同看法与体验。在场景中，角色们对肉体关系表现出浓厚的好奇心和探索欲，体现了他们对于身体自主权和性快感的探索。小说使用了大量生动的描述，以及刺激性的对话，比如涉及角色身体部位的直接描述和情感的互动，显示出角色间复杂且微妙的情感纽带。整个故事充满了幻想与戏剧性的描绘，同时也对性别角色进行了大胆的挑战和重新定义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮之种_第九章-第十章.doc]([皮物]_皮之种_第�
 | Size            | 65536 bytes                           |
 | MD5             | 54e02c185ab0cce0e914b09076119b28                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 岚山ＧＯ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 性转, 强奸, 乱伦, 淫荡, 调教, 百合, 虚拟现实, 药物, 奇幻, 身体交换, 交互体验, 宅文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

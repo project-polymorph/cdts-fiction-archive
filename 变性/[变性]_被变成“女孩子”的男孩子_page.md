@@ -7,7 +7,7 @@ TXT 下载: [[变性]_被变成“女孩子”的男孩子.doc]([变性]_被变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《被变成“女孩子”的男孩子》的小说由作者移管创作，讲述了一个名叫弘治的男孩因国家政策被迫进行性别转换的故事。在这个国家，由于男女比例严重失调，政府实施了一项法律，每年抽选一定数量的男孩将其变成女孩。尽管弘治在身体上被迫变成女孩，但他的内心仍然认同自己为男孩。随着时间的推移，弘治的身体因定期注射雌性激素而变化，最终导致他面临越来越多的挑战。在学校里，他努力保持男孩的身份，但随着胸部的发育逐渐暴露了他的秘密，最终在同伴的压力下不得不面对身份认同的重大危机。故事探讨了性别认同、自我探索以及社会对性别角色的期望等复杂主题，同时包含了一些限制级和色情的情节，诸如同伴的嘲讽和羞辱。弘治承受着巨大的心理压力，泪水和无力感贯穿始终，这使得整个故事在探讨性别转换的痛苦与无奈时显得相当深刻和发人深省。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_被变成“女孩子”的男孩子.doc]([变性]_被变�
 | Size            | 31232 bytes                           |
 | MD5             | 681bd2646ef82dd4b7a6959a3a945fc3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 移管                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 身份认同, 情感冲突, 男孩, 女孩, 荷尔蒙, 社会压力, 自我认知, 成长故事, 青春, 友谊, 悲剧, 羞辱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

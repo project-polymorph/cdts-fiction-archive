@@ -7,7 +7,7 @@ TXT 下载: [[附身]_附身的理论基础及实践操作.doc]([附身]_附身�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一个关于青少年角色林岚和他的朋友陈俊生之间的神秘故事。故事开始于一个阴暗的房间，林岚接到陈俊生的电话，要求他去一个偏僻的山间别墅探访。故事的叙述着重描绘了林岚与一位名为谢雪欣的少女之间的互动。谢雪欣是陈俊生的助手，她的外表和气质让林岚深感吸引，而两人的对话逐渐转向关于颜色、意识与物质关系的哲学探讨。文中提到色盲的比喻引出了关于存在的深刻思考，涉及魂魄、量子纠缠等概念，体现了科学与哲学的交融。整篇文章围绕着角色们的自我探索与意识的讨论展开，留给读者许多思考的空间，同时也蕴藏着性别认同与变化的暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_附身的理论基础及实践操作.doc]([附身]_附身�
 | Size            | 61440 bytes                           |
 | MD5             | d6e1444b905136354653778f07e84976                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 青少年, 量子科学, 哲学, 意识, 自我探索, 角色互动, 讽刺, 神秘, 科技幻想, 心理学, 青春, 生理性别, 性别认同, 时代变迁, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

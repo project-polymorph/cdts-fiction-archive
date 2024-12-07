@@ -7,7 +7,9 @@ TXT 下载: [[附身]_☆Body_Hopper系列★_亞力士與莎曼莎的愉快週�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件属于《Body Hopper》系列，可以理解为在一个特殊的世界观中，角色具有控制他人身体的能力。文件中的叙述者自述自己是一名"身体侵占者"，他可以在他人无意识状态下夺取他们的身体，并对其进行控制与探索。文中详细描述了他对女性身体的执念以及他利用这个能力追求肉体快感的经历。
+
+叙述者以口语化的方式回顾了自己作为身体侵占者的生活，他通常选择魅力四射的女性作为目标，目的是为了体验她们的性感和快感。而通过这种能力，他曾经占据多个不同身份，包括秘书、女大学生甚至女警察。随后，他会在不同场合中轻松地享受和操控这些身份带来的快感。此类型小说常常涉及对身体与性的深入探讨，叙述带有明显的冒险与幻想色彩，同时也反映了叙述者对自由与禁忌的向往，夹杂不时表现出的对他人情感的略微同情。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_☆Body_Hopper系列★_亞力士與莎曼莎的愉快週�
 | Size            | 40880 bytes                           |
 | MD5             | ea286b62b920f0fb054fc204ea5e059d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 身体侵占者, 性转, 变装, 肉体快感, 自我探索, 性别认同, 幻想, 冒险, 女权主义, 心理探讨, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

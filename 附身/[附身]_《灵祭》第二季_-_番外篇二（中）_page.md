@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《灵祭》第二季_-_番外篇二（中）.docx]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《灵祭》第二季的番外篇二（中）讲述了一位名叫冯杰的男主角在与他暗恋的女孩石雨曼相遇后，发生了一系列戏剧性的事件。冯杰在电话指引下，走到一个偏僻的郊区，心中充满了期待。在意外碰面后，石雨曼的言行让冯杰感到既惊喜又困惑，因为她开始展现出超乎寻常的亲密度，甚至宣称自己被附体，实际上是冯杰一直梦寐以求的女孩。接下来的情节中，两人进入了一间酒店，展开了一系列充满暗示和挑逗的亲密互动，包含了性行为的描写。这部小说通过冯杰和石雨曼的互动，探讨了性别认同、欲望和自我探索，以及在禁忌和欲望之间的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《灵祭》第二季_-_番外篇二（中）.docx]([附�
 | Size            | 21879 bytes                           |
 | MD5             | a0d560b330ea0a90ed667bc8291b853a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 附身, 爱情, 性转, 都市, 男性视角, 性别认同, 自我探索, 禁忌, 幻想, 强烈的肉体欲望, 浪漫, 调情, 呻吟, 挑逗, 刺激, 性爱, 女主, 双性恋, 爱情幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_汉贼-相映红（上）_[.docx]([皮物]_汉贼-相映�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《汉贼-相映红（上）》，讲述了在大魏一统天下后，昔日的将军张辽从前线退下来，驻守在长安的故事。张辽在长安治理已有十年，逐渐建立了良好的声望，生活日渐平淡。随着时间的推移，他结识了刘、关、张三位英雄，虽然彼此之间并非历史中的熟识，但在这新时空的背景下，他们建立了深厚的友谊。故事描绘了他们共同饮酒作乐，讨论生活与挑战，同时也引入了一个秘密委托：捉拿一个擅长在豪门之家骚扰女性的贼人。情节中不乏酒桌的豪情与兄弟之间的深情厚谊，上述背景为文中角色提供了各自的人物发展空间。整体故事结合了历史与幻想的元素，在情节推进中探索了友情、忠义，谋略等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_汉贼-相映红（上）_[.docx]([皮物]_汉贼-相映�
 | Size            | 28556 bytes                           |
 | MD5             | b678117cb09e767928e6389f7069839b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 强奸, 酒文化, 历史爱情, 忠义, 秘密任务, 英雄联盟, 豪门世家, 跨性别, 情义, 男性友谊, 古代阴谋, 社会风俗, 贼人捉拿                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

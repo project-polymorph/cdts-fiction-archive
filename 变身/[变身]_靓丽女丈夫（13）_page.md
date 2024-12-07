@@ -7,7 +7,7 @@ TXT 下载: [[变身]_靓丽女丈夫（13）.docx]([变身]_靓丽女丈夫（1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别转换与家庭关系的小说。故事围绕主角与妻子之间的感情发展，以及在主角性别身份转变后的家庭互动展开。故事中，主角的性别转换引发了夫妻之间新的情感探索与自我认知的挑战。文中描写了主角与妻子如何努力维持彼此的亲密关系，甚至在结婚纪念日上重提求婚，尽管外部环境和身份的变化使得他们的关系面临新挑战。尤其值得一提的是，故事探讨了家庭观念、性别认同及对子女成长的顾虑，妻子出于保护孩子成长而提出不再以夫妻相称的想法，展现了对家庭责任的深刻思考。整体故事情感细腻，涉及大量关于爱与理解的对话，最后部分则描绘了夫妻间虽然身份变化但依然寻求情感与身体上的亲密，表现出对彼此依恋与爱的坚持。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_靓丽女丈夫（13）.docx]([变身]_靓丽女丈夫（1
 | Size            | 21382 bytes                           |
 | MD5             | b1fac2423289705811dbb875047822d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 亲密关系, 家庭冲突, 性别认同, 婚姻, 情感探索, 母爱, 性别角色, 童年教育, 爱与理解, 浪漫, 重婚, 情感挑战, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

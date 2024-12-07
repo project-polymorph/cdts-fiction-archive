@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译_变装】三人成虎（1）.doc]([变装]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段围绕性别转换主题的小说片段，以对话的形式展开。故事开始于两个高尔夫球手赛斯与汉克的对话，他们讨论了朋友杰森的变化——从一名男性转变为女性，听说他现在叫杰森敏。故事中引入了一些关于性别认同的话题，讨论者各自对杰森变化的反应。从对杰森的性别认同到其与其他男性的交往进行了深入的交流，带有一定的幽默与讽刺。该段文字详细揭示了文化中对于变性者的偏见与刻板印象，特别是男性对女性化变身的看法，以及社会对性转变的接受度。整体内容中包含人物的自我认知冲突与社交动态，并涉及跨性别的多重主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译_变装】三人成虎（1）.doc]([变装]_【�
 | Size            | 39936 bytes                           |
 | MD5             | 5f24cdf60d1056493e65a16a6abedbad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 文学, 二次元, 跨性别, 伪娘, 同性恋, 文化偏见, 社会认知, 友谊, 性别转换, 幽默, 性别表达, 沟通                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

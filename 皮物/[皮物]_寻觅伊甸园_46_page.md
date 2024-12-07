@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_寻觅伊甸园_46.docx]([皮物]_寻觅伊甸园_46.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘类小说的一部分，描写了角色苏眉与叙述者之间复杂的互动关系，设定在具有幻想色彩的密室场景中。叙述者和苏眉合力审问被绑住的角色"雪狼"，过程中产生了强烈的情感与身体上的冲突。情节中涉及性别认同和身体转变的主题，表现出由角色外貌与心理状态引发的情感波动。故事中有对苏眉的外貌细致描写，称其为"玲珑有致的身材"，并强调她身上的紧身衣、裸体等细节，营造出强烈的性暗示。整篇文章以对话为主，展现了角色之间的张力与欲望，尤其在紧张气氛下的情感发展及性描写，给人带来了一种复杂而吸引的心理体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_寻觅伊甸园_46.docx]([皮物]_寻觅伊甸园_46.docx)
 | Size            | 23401 bytes                           |
 | MD5             | 9e6c07234896953d28348fadf972acb2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身, 强烈情感, 性别认同, 情色, 幻想, 禁忌关系, 密室, 二次元小说, 欲望冲突, 身体与心理, 成长与转变, 角色互动, 紧身衣                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

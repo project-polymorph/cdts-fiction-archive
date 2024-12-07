@@ -7,7 +7,7 @@ TXT 下载: [[其他]_三窍魂经_3.doc]([其他]_三窍魂经_3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别主题的小说片段，围绕女主角陆生的变身体验和与其他角色的互动展开。故事的情节描绘了陆生在一个神秘房间内的遭遇，她被侍女和其他女性角色包围，经历了由身体和意识的双重转变带来的心理挣扎。情节中充满了诱惑与性感的描写，包括角色之间的亲密接触和调戏，以及对陆生身体的探索和感受。关键情节涉及陆生面临的各种困境以及她的欲望和抗拒相结合的复杂心态；同时，故事也透露了潜在的权力游戏和对身体的掌控。在这个背景下，角色们的身份和性别认同通过身体的变换而受到挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_三窍魂经_3.doc]([其他]_三窍魂经_3.doc)
 | Size            | 39424 bytes                           |
 | MD5             | 3a2560812b179544bcc67ec00a55ac67                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 情色, 权力游戏, 自我探索, 身体认同, 女人间的欲望, 修仙, 幻想, 惊险, 女性视角, 性别角色, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,11 @@ TXT 下载: [[变性]_崎岖人生路-1.docx]([变性]_崎岖人生路-1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一部名为《崎岖人生路》的变性相关小说，描绘了主人公刘伟的成长经历以及家庭变故。故事从主人公的家庭生活开始，着重描述了他与姐姐刘丽的关系，以及在父母去世前后所经历的情感波动。故事开篇回忆了主人公的童年，记述了他在齐齐哈尔生活的点点滴滴，包括与朋友们的玩耍以及父母对他的关爱。
+
+随着情节的发展，父亲和姐姐的突然离世让他的人生轨迹发生了翻天覆地的变化，主人公和姐姐被迫面对生活的挑战，必须承担起为家庭生存的责任。主人公体会到了亲情的珍贵，并在困扰中逐步成长，努力照顾自己与姐姐。在这段过程中，他还隐隐感受到二叔刘济长的斜视与冷漠，开始怀疑家庭的阴暗面。
+
+整体而言，小说通过刘伟的眼睛，探讨了性别认同、自我发现与家庭责任的主题。故事包含了一些情感深刻的细节，例如：“你就是家里的老大，你好好准备高考吧，我不会再淘气了。”展现了他逐渐埋下的成熟与责任感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变性]_崎岖人生路-1.docx]([变性]_崎岖人生路-1.docx)
 | Size            | 30389 bytes                           |
 | MD5             | 05bbcea8faae2bde39936864d01db247                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 成长故事, 兄妹情, 亲情, 家庭悲剧, 性别认同, 变性, 自我探索, 校园生活, 童年回忆, 黑龙江, 变装, 人生挑战, 责任感, 怀旧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

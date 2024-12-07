@@ -7,7 +7,7 @@ TXT 下载: [[附身]_「已完结」女友出轨后，学园第一的美少女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于心理压力与性别认同的伪娘变身小说，描绘了主人公阳太在发现女友朝比奈出轨后的复杂情感。他初始的怀疑与不安逐渐演变成内心的愤怒与无助，伴随着对爱情的迷惘与对自我认同的探索。在午餐时间，阳太独自坐在校园后院，心情沉重，反思着与友奈的关系以及她的情感变化。文件中展示了他对友奈出轨的背叛感，以及在内心无法对质的矛盾感，并通过与校内明星人物若宫薰的交往逐渐带出对性别和爱情的更深思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_「已完结」女友出轨后，学园第一的美少女�
 | Size            | 149504 bytes                           |
 | MD5             | d4b68e707a5dcbb6875e32240c7cb2f0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 性别认同, 青梅竹马, 爱情背叛, 校园生活, 情感纠葛, 自我反思, 恋爱心理, 青春故事, 异性恋经历, 女性角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

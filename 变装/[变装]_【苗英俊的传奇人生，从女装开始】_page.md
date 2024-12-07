@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【苗英俊的传奇人生，从女装开始】.doc]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于苗英俊的故事，他是一名身高189厘米、外表俊朗的男性，由于父母的离婚和家庭的压力，性格上他内向而自卑。他在B站上作为国漫UP主，积累了近十万粉丝，但内心却饱受迷茫与自我怀疑的折磨。文章详细描绘了苗英俊与父亲、女友以及妹妹之间复杂的关系，表现出他在面对生活压力和家庭期望时的挣扎与不安。父亲希望他去一家公司上班，而苗英俊更希望能自我探索找到未来的方向。但随着家庭突发的健康危机，以及女友提出的经济压力，苗英俊的生活被迫发生变化，最终他与女友的感情完全破裂，面临着失落与孤独。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【苗英俊的传奇人生，从女装开始】.doc]([变
 | Size            | 46592 bytes                           |
 | MD5             | 0fae78724b3d6809037b198dd438ca59                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 自我认同, 情感纠葛, 家庭关系, 迷茫与探索, 职场压力, 年轻人的困境, 亲情与责任, 社会压力, 心理斗争, 青春成长, 职场奋斗, 女性角色, 男主角成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

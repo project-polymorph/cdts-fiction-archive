@@ -7,7 +7,7 @@ TXT 下载: [[附身]_附身笔记_第一卷（01）.doc]([附身]_附身笔记_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《附身笔记》的小说第一卷，章节标题为“堕落（01）”。故事围绕主角向文林展开，他偶然捡到一本名为“附身笔记”的神秘本子，该本子记载了附身的规则与注意事项，内容表明，附身的对象在一定距离内可以被他控制，而如果附身对象被杀死，附身笔记的能力可以提高。向文林对这本笔记的真实性产生了兴趣，但也因其严苛的规则感到不安。故事进一步揭示了向文林的内心挣扎与探索，有着青春校园生活的背景，含有一定的超自然和悬疑元素。同时，作品涉及性别转变与心理探索的主题。小说的节奏轻快，通过对话与内心独白展示了角色的情感变化，最后以悬念的方式结束，使读者对后续情节产生期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_附身笔记_第一卷（01）.doc]([附身]_附身笔记_
 | Size            | 36864 bytes                           |
 | MD5             | 8ac531da4f1554b38d4d8f5c4f27a5b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性转, 超自然, 大学校园, 青春, 冒险, 心理探索, 悬疑, 变身, 男性视角, 神秘笔记, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

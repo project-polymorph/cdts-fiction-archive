@@ -7,7 +7,8 @@ TXT 下载: [[皮物]_天使的救赎_Ch12.doc]([皮物]_天使的救赎_Ch12.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为章节12，描写了一位名叫诺瑞斯的男子在纽约晨间的生活。在每天的早晨，他都会乘坐相同的公交车，试图再次邂逅曾经在车上遇到的女孩伊丽丝。尽管诺瑞斯面临着对未知缘分的渴望与困惑，前往公司上班的日子却总是空荡荡的。随着情节的发展，诺瑞斯在日复一日的追寻中，经历了情感的波动和希望的失落。
+本章节细致描绘了诺瑞斯的内心活动以及他对于伊丽丝的执念，展现了他在城市中徘徊的孤独感。那些平淡的街景和繁忙的生活又让他的追寻充满了无奈与渴望。故事继续描绘了伊丽丝在公司与同事仙蒂的互动，以及她们的友谊与生活。多条线索交织，展现了洛杉矶都市生活中的不同侧面和人物之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +22,10 @@ TXT 下载: [[皮物]_天使的救赎_Ch12.doc]([皮物]_天使的救赎_Ch12.do
 | Size            | 45568 bytes                           |
 | MD5             | f296c541be89ebff011b87ee9d4d942b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 都市生活, 恋爱, 跨性别, 二次元, 自我探索, 邂逅, 人物情感, 社交羁绊, 心理描写, 孤独感, 追寻, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

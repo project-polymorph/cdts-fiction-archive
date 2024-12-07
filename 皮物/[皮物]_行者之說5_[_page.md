@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_行者之說5_[.docx]([皮物]_行者之說5_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性转与跨性别主题的小说，主要描绘了楚东和李雨秋之间复杂的情感关系。故事聚焦于李雨秋的性别认同问题，她坚持认为自己的灵魂是女性，尽管外表表现为男性。小说中两位角色的互动表现出深刻的自我认知和情感挣扎，楚东对自己的性取向困惑，虽对李雨秋有些情感，但他始终无法完全接受李雨秋的身份。同时，故事中还涉及到其他角色如周大伟和张婷婷的互相替代和复杂的关系，描写了他们计划复仇的背景，并突显了附身能力带来的情感和伦理问题。文中包含多次对性别转换和性别认同的探讨，以及对角色内心冲突的描绘，情节中穿插了一些露骨的性内容，展现了对这种主题探讨的特定风格与立场。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_行者之說5_[.docx]([皮物]_行者之說5_[.docx)
 | Size            | 19599 bytes                           |
 | MD5             | 8123881591d124d6d2c6343e56c4e775                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 情感挣扎, 自我认知, 附身, 亲密关系, 性别认同, 都市小说, 悬疑, 复仇, 心理戏, 青春校园, 奇幻, 心理冲突, 性别角色, 伪娘, 性倾向                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_圣女;上部《女神篇》完结.docx]([附身]_圣女;�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《圣女：上部《女神篇》》是一本以奇幻背景为依托的小说，故事发生在星云大陆的应城，这是一座依托其特殊地理优势而繁荣发展的港口城市。小说围绕主人公莫离的故事展开，他在得知母亲去世的噩耗后，为了追寻母亲离开的真相，孤身一人赶回应城。然而，莫离面临的不仅是身份和母亲关系的问题，还有家庭的纠葛和来自社会的压力。故事中，莫离遭受家族和外界的双重打击，感受到了身为私生子的艰难处境。本书通过生动的描写展示了人与人之间的矛盾，以及在传统观念与新兴思想之间挣扎的人物心理，交织着爱情与背叛、尊严与屈辱的主题。此外，小说中的欧阳女捕快这一角色展现了女性在男性主导社会中的生存和挣扎，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_圣女;上部《女神篇》完结.docx]([附身]_圣女;�
 | Size            | 56878 bytes                           |
 | MD5             | 2bc7179df40ca117685667161ec411a4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 星云大陆, 私人关系, 家庭纠葛, 女性视角, 身份认同, 社会压力, 港口城市, 爱恨情仇, 死亡与追寻, 生死离别, 传统与现代, 自我探索, 命运交错, 角色成长, 魔法, 都市冒险, 情感冲突, 私生子                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

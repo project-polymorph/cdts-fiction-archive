@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【碟中谍】银狐.doc]([变装]_【碟中谍】银狐.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇小说，讲述了一起谋杀案的推理故事。故事中的女主角柳静是一位26岁的房东，她和两位租客黄小心与吴大龙生活在一起。故事围绕吴大龙的死亡展开，黄小心认为这是谋杀，而警察林枫对此保持怀疑态度。柳静和林枫之间有着微妙的情感互动，增加了故事的复杂性。柳静的角色展现了内心的挣扎与对外部世界的好奇，情节通过黄小心对吴大龙的描述和警方的调查构建出一个扑朔迷离的案件。整篇小说不仅涉及到推理元素，还融入了性别角色的讨论，反映了当代年轻人的生活状态和情感关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【碟中谍】银狐.doc]([变装]_【碟中谍】银狐.
 | Size            | 93184 bytes                           |
 | MD5             | 51d50234fb1aacb60b2cabd492fcb4ef                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 推理小说, 谋杀, 警察与房东的微妙关系, 角色性别讨论, 都市生活, 悬疑, 性别认同, 情感纠葛, 自我探索, 虚拟现实, 宅男文化, 情感发展, 同居关系, 年轻人的困惑, 游戏热潮                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

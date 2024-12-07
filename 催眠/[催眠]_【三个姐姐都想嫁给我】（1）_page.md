@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_【三个姐姐都想嫁给我】（1）.doc]([催眠]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇描述性别转变及跨性别主题的小说，标题为《三个姐姐都想嫁给我》。小说围绕角色游奶藻前的生活展开，她是一名母亲，故事设置在山顶的一处别墅。故事描述了游奶藻前在照顾刚满月的孩子后，渴望重新接触自己过去的生活与欲望。在家中隐秘的情况下，她努力吸引她的对象胡来，以实现她的性幻想。小说中包含大量色情内容与性幻想的描写，涉及复杂的人物关系和心理活动，如对自身性感的认知与身体状态的描述，同时也包含了角色之间的性别认同与亲密行为。角色们的交互往往伴随着调侃与角色角色间的竞争性欲望，体现了对人性深处欲望、爱情与角色认同的探索。整体风格较为露骨，展示了复杂的人际关系以及对性与爱的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_【三个姐姐都想嫁给我】（1）.doc]([催眠]_【
 | Size            | 85504 bytes                           |
 | MD5             | 29dd9c422791177597398f35657d2824                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | q344164202                               |
+| Region          | 未知                               |
+| Date            | 2021-04-12                                 |
+| Tags            | 性转, 跨性别, 伪娘, 强烈欲望, 家庭关系, 性幻想, 人际吸引, 情感纠葛, 性别认同, 恋爱, 愉悦体验, 成年内容, 都市小说, 调教, 逆境中的欲望, 自我认知探索, 青少年的内心斗争, 异国文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

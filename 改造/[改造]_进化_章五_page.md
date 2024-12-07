@@ -7,7 +7,7 @@ TXT 下载: [[改造]_进化_章五.doc]([改造]_进化_章五.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个名叫缇娜的女孩在与同学聚会中遭遇的尴尬经历和她与朋友母亲间的情感交流与成长的故事。在聚会中，缇娜意外跌入泳池，尴尬的举动及其人造生理特征被周围的人嘲笑，成为众人眼中的笑柄。文中描绘了群体互动中缇娜的孤立感和痛苦。她的朋友莱利在这个过程中给予了她帮助和支持，最终她的母亲对她的鼓励和解释让缇娜感受到温暖与力量。故事中涉及到性别认同和自我接受的主题，同时描绘了女性身体发育的生理过程，和青春期女性首次经历月经的细节，使得整个故事既有青春的迷惘又夹杂着成长的哲理。  novelle中探讨了友谊、支持与自我价值，深刻反映出社会对于性别与身份的看法和接受度。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_进化_章五.doc]([改造]_进化_章五.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 4f498cbbf7de88f941f967527358522e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转, 青春期, 自我探索, 友谊, 围绕女性生理变化的成长故事, 聚会遭遇, 欺凌, 情感支持, 母女关系, 女性发育, 变身, 成长逆境, 人造生理特征, 尴尬经历, 聚会文化, 心理成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

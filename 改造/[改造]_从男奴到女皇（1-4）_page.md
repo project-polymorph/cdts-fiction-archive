@@ -7,7 +7,7 @@ TXT 下载: [[改造]_从男奴到女皇（1-4）.doc]([改造]_从男奴到女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部伪娘和跨性别主题的小说，描绘了男奴在女皇的支配下逐渐变身为女性后所经历的情感和身体转变。故事设定在一个充满幻想色彩的地下俱乐部，主角从一名男性逐渐转变为女皇的宠物，经历了一系列包含权力、性别认同与自我探索的情节。文中详尽描写了角色之间复杂的关系，以及奴役与凌辱之间的扭曲快乐。故事中采用了大量露骨的语言描述角色的行为，包括舔脚和“圣水”等情节，突显了其鲜明的性征与性别角色逆转的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_从男奴到女皇（1-4）.doc]([改造]_从男奴到女�
 | Size            | 58880 bytes                           |
 | MD5             | 5c4e46ddbb6e18274acce55c1db5f95a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身小说, 跨性别, 幻想小说, 性别认同, 自我探索, 奴隶制, 权力游戏, 情感纠葛, 奇幻元素, 地下俱乐部, 家庭关系, 露骨情节, 女皇与奴仆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_苏明的故事【原文转载】.docx]([皮物]_苏明的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘和变身相关的小说，围绕主角苏明的秘密喜好展开。苏明大学毕业后选择在家休息，但他隐藏了一个与众不同的兴趣：他迷恋于变装成娃娃。文中详细描述了苏明购买和试穿乳胶娃娃衣的过程，包括猫耳女仆装和紧缚美女犬娃娃装。故事通过苏明的视角，描绘了他内心的冲突、兴奋与对自我认同的探索。尤其是穿着乳胶衣物后，他感受到的身体与心理上的变化，展现了性别认同与个人欲望的交织。该文本包含一些性暗示和限制级内容，涉及自我探索与变身的细节描写，适合对性别表现与认同感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_苏明的故事【原文转载】.docx]([皮物]_苏明的
 | Size            | 20805 bytes                           |
 | MD5             | c4c8cdf8b2e1227cefa96d09f64e5af3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 乳胶娃娃, 性别认同, 自我探索, 猫耳女仆, 紧缚美女犬, 变装, 性别转换, 角色扮演, 幻想, 成人文学, 二次元, 兴趣探索, 按摩, 私密体验, 性幻想, 性心理, 男性视角, 角色设定                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

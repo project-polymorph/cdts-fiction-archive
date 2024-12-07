@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_模特公司_（1-4）.doc]([皮物]_模特公司_（1-4�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说档案的一部分，讲述了主人公李任华的故事。他是一位刚刚大学毕业的年轻人，来到大城市中打拼，但面临找工作的困境。在经历了一段艰难的求职生活后，他收到了来自一家模特公司的应聘通知。在应聘过程中，他遇到了房东的女儿，面对自己的欠款压力，李任华心中充满了紧张与不安。在进入公司后，他的生活将有巨大的改变，随之而来的是两万元的月薪和奇怪的工作要求，这样的安排令他不安但又忍不住想要接受。他的故事区分了现实与梦想之间的种种挑战与选择，反映了对性别角色和社会认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_模特公司_（1-4）.doc]([皮物]_模特公司_（1-4�
 | Size            | 64000 bytes                           |
 | MD5             | 91ef0fed4fda9458823f124b1191c26d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 孔夫子onlyone                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 模特公司, 青春, 自我探索, 应聘, 大城市, 挣扎, 工资, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

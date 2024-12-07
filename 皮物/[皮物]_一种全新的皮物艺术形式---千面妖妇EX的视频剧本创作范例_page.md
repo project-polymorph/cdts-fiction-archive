@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_一种全新的皮物艺术形式---千面妖妇EX的视�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为"千面妖妇EX"在B站发布视频的剧本创作范例，涵盖了多部原创视频的拍摄剧本。剧本描绘了一种新型的皮物艺术表现形式，涉及角色穿着紧身衣与人皮面具的情节，结合各种场景和角色设置。在剧本中，详细描述了每一幕的场景设置、服装选择和镜头角度，展示了主创者在拍摄过程中的多重角色，如编剧、导演及摄影师。内容涉及的场景包括门口、客厅、床上等，并明确了使用的服饰及道具。由于文件包含色情内容，剧本中的一些情节涉及到性暗示和变化，例如角色的服装替换、身体接触等，旨在探索并展示性别表达和角色扮演的主题。同时，附带了部分B站视频链接，以供观众观看。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_一种全新的皮物艺术形式---千面妖妇EX的视�
 | Size            | 63488 bytes                           |
 | MD5             | 08fdf862ff7f925b5be573ccafac95ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 千面妖妇EX                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 视频创作, 脚本分析, 紧身衣, 人皮面具, 角色扮演, 性别表达, 性别认同, 原创视频, 无乱码                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

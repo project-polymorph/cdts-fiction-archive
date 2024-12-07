@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译_变装】竞赛游戏.doc]([变装]_【翻译_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《竞赛游戏》（原文名：Off to the Races）是一部性转题材的小说，讲述了克里斯蒂安与秘书玛丽莎之间的一场别开生面的赌局。故事开始时，克里斯蒂安与玛丽莎讨论男性与女性在角色扮演上的差异，玛丽莎调侃克里斯蒂安可能会比她更像一个女人。随着故事的发展，玛丽莎提出一个挑战，建议克里斯蒂安尝试女装以证明其观点。在幽默和挑战中，这个故事揭示了对性别角色的思考、男性在女性角色扮演中的复杂态度，以及社会对性别认同的看法。内容涉及轻松的互动和关于性别的讨论，同时也带有一定的挑逗和玩笑性质，可能包含部分限制级内容和性暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译_变装】竞赛游戏.doc]([变装]_【翻译_�
 | Size            | 118784 bytes                           |
 | MD5             | 12c7e64173f4caf82d14a860d2328e48                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Belladonna8 / 露娜·埃葵斯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 角色扮演, 办公室挑战, 幽默, 性别认同, 女装, 幻想, 互动讨论, 性别角色, 心理冲突, 职场爱情, 超现实主义                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

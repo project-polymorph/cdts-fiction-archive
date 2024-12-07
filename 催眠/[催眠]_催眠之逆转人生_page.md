@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_催眠之逆转人生.doc]([催眠]_催眠之逆转人生.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文描写了在c市城中村生存的失业者胡邱的艰辛生活。胡邱，一个30岁的男性，身高165cm，体重200斤，经济状况极差，几乎没有稳定的工作和收入，仅能依靠廉价的出租屋生活。他的生活因某次事故而发生巨大变化，失去了部分记忆，随之而来的是失业与家庭的冷漠。他的挣扎不仅仅是找工作，还有深深的饥饿感与精神上的孤独。在一次偶然的机会中，他遇到了以前的老领导，并被请去吃饭，这让他稍感温暖，却也因为周围的人嘲讽而倍感羞辱。被一辆豪车撞到的不幸之后，胡邱得知他所住的城中村即将被拆迁，令人更加绝望。此外，故事中穿插了一些关于肖財和李丽的情节，描绘了他们的爱情和生活的奢华，形成了鲜明的对比。透过胡邱的苦闷生活，体现出社会对待边缘群体的冷漠与对比之下的身份认同的无奈。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_催眠之逆转人生.doc]([催眠]_催眠之逆转人生.
 | Size            | 64000 bytes                           |
 | MD5             | 08853a8131ec8937cd0c190ce091523c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 心理描写, 社会现实, 失业, 人生逆转, 孤独, 情感纠葛, 身份认同, 城中村, 变身, 强烈的自我意识, 逆境成长, 家庭冷漠, 分离焦虑, 生存挣扎, 人际关系冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_Stuck_in_Tokyo...2.docx]([变装]_Stuck_in_Tokyo...2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个名叫泰伦斯的角色在日本东京生活的故事。他被迫以吉娜·安德鲁斯的身份成为Onagi公司的女秘书，这种身份转变使他陷入了困扰与不满之中。文件详细描述了吉娜作为新晋女秘书的体验和挑战，包括对日本工作环境的适应、其他秘书的帮助以及自己身体和情感的变化。尤其是在公司规定的工作着装和日语学习的强制性下，他感到越来越无法摆脱吉娜的身份。六个月后，他开始经历身体上的变化，例如乳房的发育，以及对自己性别身份的困惑，令人深思这种性别认同和自我探索的冲突。最重要的是，泰伦斯想要变回自己，却又无力为自己的选择负责，正是这种矛盾构成了整个故事的核心。这段旅程充满了对性别认同与文化冲突的反思，引发了关于个体身份以及社会规范的深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_Stuck_in_Tokyo...2.docx]([变装]_Stuck_in_Tokyo...2.docx)
 | Size            | 13091 bytes                           |
 | MD5             | 43529b8164e109edb5d529f6886aae33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 自我探索, 性别认同, 工作环境, 东京, 日本文化, 情感困惑, 身体变化, 强制性别角色, 日语学习, 女性视角, 文化适应, 性别冲突, 青春期变化, 情感脆弱, 职场压力, 外貌焦虑, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

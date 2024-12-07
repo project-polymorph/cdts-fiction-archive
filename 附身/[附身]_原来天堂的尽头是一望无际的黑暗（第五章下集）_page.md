@@ -7,7 +7,7 @@ TXT 下载: [[附身]_原来天堂的尽头是一望无际的黑暗（第五章�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《附身: 原来天堂的尽头是一望无际的黑暗》第五章下集，讲述了角色梁小依在经历身体转换后，与弟弟梁子成之间复杂的互动关系。故事从梁小依发现弟弟黑眼圈开始，回顾了弟弟的青春期烦恼和对姐姐的冲动。梁小依在适应新身体的过程中开始展现出女性的魅力，并试图利用弟弟的情感，策划了一些关于偷拍和挑逗弟弟的计划。文本情节涉及了性别认同、家庭关系、青春期的性冲动、禁忌和心理游戏等复杂主题，生动描绘了角色间的微妙心理和情感变化。故事通过梁小依对弟弟心理的操控，逐渐揭示出家庭内潜在的伦理与道德困境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_原来天堂的尽头是一望无际的黑暗（第五章�
 | Size            | 41984 bytes                           |
 | MD5             | b7c9c7510bd66e83624b47c10458c36d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 姐弟恋, 禁忌, 偷拍, 青春期, 心理游戏, 身体交换, 权力游戏, 家庭伦理, 媚惑, 自我探索, 伪娘, 男女关系, 情感操控, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_交错的锁钥6-8（解谜篇）-完结.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一个伪娘/男娘相关的推理小说《交错的锁钥》的解谜篇，故事围绕一起密室谋杀案展开。叙述者与主角相貌类似，且事件巧妙地将柜门和锁的描述与角色的内心变化相结合。故事中涉及角色之间的对话，揭示了案件的关键点，涉及通过简单的手法制造出复杂的谋杀现场。主角逐渐揭开谜团，推理出凶手的身份及其手法，透过细致的推理与角色的情感描写，寓意深刻。
+
+例如，文中提到：“从密室里出去，很简单，总共分为四步。”和“越是复杂的装置，越会在现场留下一些蛛丝马迹”。通过对话推动情节发展，展示了凶杀案背后的阴谋和复杂的人际关系，传递了科学推理的重要性。整体上，这部小说不仅涉及了伪娘的性别认同和自我探索的问题，还结合了解谜的元素，使得整个故事既紧张刺激，又富有思考意义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_交错的锁钥6-8（解谜篇）-完结.docx]([皮物]_�
 | Size            | 29383 bytes                           |
 | MD5             | 0a82cf4b89387a8bf878f03514020d80                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 密室推理, 跨性别, 性别认同, 自我探索, 心理变化, 悬疑, 推理小说, 叙事性, 复杂人际关系, 青春成长, 心理战, 情感纠葛, 谋杀案, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

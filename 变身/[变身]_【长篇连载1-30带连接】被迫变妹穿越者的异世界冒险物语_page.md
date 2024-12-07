@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【长篇连载1-30带连接】被迫变妹穿越者的异
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为长篇连载小说《被迫变妹穿越者的异世界冒险物语》的第一至三十章，描绘了一名名为库亚的男生在死后转生至异世界的冒险故事。故事讲述了库亚作为一个曾经孤僻的男性，在获得了一种被称为‘适应改造’的特殊能力后，开始了他的冒险旅程。库亚在异世界中获得了勇气与力量，借助独特的天赐能力，不仅强化自己的体质，还掌握了剑术和水元素亲和等技能。小说中介绍了异世界的背景，特别是安度鲁城的冒险者公会，强调了这个地方的特殊规则和自由的冒险精神。库亚的探险旅程充满了探索与自我挑战，同时也蕴含着对于生命的渴望与对自我价值的重新确认。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【长篇连载1-30带连接】被迫变妹穿越者的异
 | Size            | 44544 bytes                           |
 | MD5             | a66e780e5890e6b820f980f7fe3203ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异世界, 变身, 转生, 冒险者公会, 男主角, 剑术, 魔法, 特殊能力, 适应改造, 水元素亲和, 自我探索, 角色发展, 冒险小说, 二次元, 幻想, 转职, 职业系统, 力量提升, 成长, 斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

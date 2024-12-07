@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_愛人_‧_舒舒＆詠娜_上部（1-3）.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《愛人 ‧ 舒舒＆詠娜 上部》延续了前作《愛人安安》的情节，讲述了一个关于性别与身份的奇幻故事。故事发生在2013到2022年间，以男子更衣室为背景，引入了人皮与换皮的神秘情节。主角之一的男同学澤祐在更衣室中看见了伪装成女性的同学，事态发展至不可控，使他卷入了一场错综复杂的性别混淆与心理探索中。小说的情节围绕澤祐与伪娘（舒舒）和她假冒的优等生（雅琪）进行了一系列复杂互动。本作涉及许多较为敏感的主题，包括性别认同、性虐待以及对强奸与恋爱关系的探讨。在角色的内心冲突与外在情节发展中，小说展示了自我认同的困顿与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_愛人_‧_舒舒＆詠娜_上部（1-3）.docx]([皮物]_
 | Size            | 117628 bytes                           |
 | MD5             | 2f5f97142baf1c2c216f1652f3ae957c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 白纸                               |
+| Region          | 未知                               |
+| Date            | 2023-01-01                                 |
+| Tags            | 伪娘, 变身, 跨性别, 纯爱, 性虐, 皮物, 强奸, 调教, 校园, 奇幻, 自我探索, 性别认同, 爱情, 心理冲突, 人皮, 少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

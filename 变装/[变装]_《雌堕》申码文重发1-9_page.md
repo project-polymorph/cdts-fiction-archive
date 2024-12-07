@@ -7,7 +7,7 @@ TXT 下载: [[变装]_《雌堕》申码文重发1-9.doc]([变装]_《雌堕》�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部关于变装与跨性别主题的小说的前九章内容，故事描绘了一名男性角色在社会压力、性别认同与自我探索中的痛苦经历。小说的开头描绘了一位穿着女性服装的男性在傍晚的小巷中，走路姿势显得有些别扭，引起路人侧目。电话中与男性对话，暗示他受到某种威胁和控制，必须完成对方的要求。随着情节的发展，涉及强迫穿着、性别角色扮演以及心理上的挣扎，他在与自我认知的冲突中陷入深深的惶恐与无力感。故事中多次提到角色的痛苦体验，例如脚部的不适、被迫的性别行为，以及对自我身份的羞耻感。此文展现了在当今社会中，性别角色的模糊与个人认同的困扰。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_《雌堕》申码文重发1-9.doc]([变装]_《雌堕》�
 | Size            | 83456 bytes                           |
 | MD5             | 0ae8b1a302df38dc8c10e5d7658b0b60                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 自我探索, 心理斗争, 强制行为, 都市, 情感纠葛, 性别角色扮演, NTR, 伪娘, 男娘, 调教, 情感操控, 生理困扰, 情感压迫, 转变, 都市小说, 性转, 女性化, 羞耻感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

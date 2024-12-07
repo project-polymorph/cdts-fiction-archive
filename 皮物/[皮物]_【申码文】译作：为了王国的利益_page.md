@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文】译作：为了王国的利益.doc]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个名为《为了王国的利益》的小说，围绕海曼诺尔王国中的一场政治婚姻展开。故事聚焦在国王戈兰十一世的独生女玛丽安公主身上，她的美貌使她成为政治联姻的资本，为了在即将到来的联姻中获得更多利益，公主一直被严格保护，并未与平民接触。小说描绘了王国与北方术士沙迦之间的紧张关系，王国为保护公主与邻国阿伦迪尔联姻而做出的努力。通过公主与她的护卫之间的互动，作品展示了诸如性别、权力、身份和自我认知等复杂主题。文中也涉及了魔法、冒险与战斗的元素，故事的高潮是法师姐妹探索村庄失踪事件的过程中与敌人的对抗，展现了一个充满幻想与冒险的世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文】译作：为了王国的利益.doc]([皮物
 | Size            | 57856 bytes                           |
 | MD5             | 1c2df1000d31c4a7e8eabd97cdb6ea6b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 政治婚姻, 王国, 公主, 魔法, 冒险, 性别认同, 自我探索, 战斗, 幻想, 法师, 骑士, 权力斗争, 身份, 暴力, 黑暗势力, 瘟疫, 皇室, 传奇, 失踪, 妖怪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

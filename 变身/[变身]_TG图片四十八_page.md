@@ -7,7 +7,7 @@ TXT 下载: [[变身]_TG图片四十八.doc]([变身]_TG图片四十八.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于变身和性别转换主题的小说，主要讲述马修（后变为梅丽莎）在被朋友施咒后变成女孩子的经历。在变身后的两周里，她面临着性别认同的困惑和自我意识的冲突。随着咒语的影响，梅丽莎的思想逐渐被女性化，尽管她努力抵抗，但最终还是受到诱惑，开始化妆、穿裙子等，这引发了她对一个男孩子的迷恋和渴望。文件中的情节还涉及另一角色埃里克和萨姆的故事，埃里克被神奇的铃铛变成了可爱的猫女孩艾丽卡，并被萨姆调教，过程充满了性别转变的心理变化和身体转变所带来的快感。此外，也描述了泰森在派对上误食药物后变成泰菈，并经历了一连串混乱而令人窘迫的事件，展示了对新身体的适应与探索。小说中的这些情节既展示了角色的身体变化，又揭示了对性别认同的思考和女性身体的感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_TG图片四十八.doc]([变身]_TG图片四十八.doc)
 | Size            | 35840 bytes                           |
 | MD5             | 48a853669629560f719e767d6571cc8e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 伪娘, 男娘, 跨性别, 女性化, 自我认同, 性幻想, 魔法, 第二性别, 心理变化, 性别认同, 药物变身, 猫女孩, 女性的快感, 调教, 禁忌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

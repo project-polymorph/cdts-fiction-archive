@@ -7,7 +7,7 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（2）.doc]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于变性与跨性别的小说章节，讲述了一名角色在经历了性别转变后的心理挣扎与自我认同的故事。故事背景设定在现代上海，主要围绕角色在选择恢复为男性或继续作为女性生活之间的矛盾和内心的挣扎展开。故事中提到角色的外貌变化、心理状态以及与他人（如静主人、海宁和孙辰）的关系，体现出性别认同和自我探索的主题。文本中包含角色与静主人之间的对话，涉及对未来的思考和对自己身份的否定，以及角色如何面对自己的转变与过去的经历。文件中详细描述了角色对自己身体的审视，以及对自身性别认同的反思，尤其是经历药物治疗和外观改变后的自我认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（2）.doc]([改�
 | Size            | 44544 bytes                           |
 | MD5             | e0e49f2f9a21dc62a9f5e523d28aa5a0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 跨性别, 女仆, 自我探索, 心理挣扎, 性别转换, 内心冲突, 青春期, 乱伦, 调教, 女性视角, 伪娘, 百合, 人际关系, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

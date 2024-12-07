@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_长梦·第一部_下.doc]([皮物]_长梦·第一部_下.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文来自长梦系列小说的第一部下卷，作者为青蓑。故事围绕主角在一位名叫西莉的女性生活中的经历展开。主角首次进入西莉的家，描绘了她的豪华公寓居住环境，包含精致的内部装修和功能齐全的设施。在几乎没有私人空间的环境中，主角通过细致的观察加深对西莉的认识，感受到女性生活的日常和心理变化。故事不单在于揭示西莉的生活细节，也涉及到了主角对自身性别身份的认同与探索。随着情节的发展，主角面对一系列复杂情感，包括对迈克尔这个男子的期待与忐忑。他们之间的互动充满些许暧昧，尤其在迈克尔出现在西莉家时，带来的惊讶与冲动，揭示了人际关系中的信任与隐秘。而随着主角任务的逼近，情节也逐渐向紧张的高潮发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_长梦·第一部_下.doc]([皮物]_长梦·第一部_下.
 | Size            | 78336 bytes                           |
 | MD5             | 8d6411f96f252216d13db4131f4a7f85                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 青蓑                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 伪娘, 情感关系, 豪华公寓, 自我探索, 心理变化, 都市生活, 日常对话, 复杂情感, 职场汇报, 液体感官, 早晨醒来, 日常生活, 往事回忆, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

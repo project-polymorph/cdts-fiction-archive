@@ -7,7 +7,7 @@ TXT 下载: [[改造]_缁衣玉女剑（全卷重校版）.docx]([改造]_缁衣
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《缁衣玉女剑》是一部修订版的变身与跨性别主题小说，主要围绕男女主角在复杂环境下的自我认知和性别角色转换展开。小说中包含了大量与性别认同、身体变化和自我探索相关的情节，描绘了角色在面对内心冲突与外界压力时的挣扎和成长。文中不仅涉及男性角色的性别转变，还包含了一系列与其相伴的情感、伦理和社会问题。文本关键场景描绘生动且细腻，如“随着骚媚入骨的一声呻吟”以及后续的情节，通过细腻的语言展现了角色的情感与生理的交织。整部作品以极具幻想色彩的故事情节为背景，结合了古代和现代元素，描绘了权力、欲望与道德之间的冲突。作者在前言中提到，此次重校版本主要对第二卷与第四卷进行了修订，意在让作品更加完美，满足读者期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_缁衣玉女剑（全卷重校版）.docx]([改造]_缁衣
 | Size            | 443706 bytes                           |
 | MD5             | 21249cc8b655ef2af5ef93c51d9a216b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身小说, 跨性别, 幻想故事, 情感探索, 古代背景, 权力斗争, 选择与道德, 欲望与冲突, 伪娘文化, 身体变化, 自我认知, 社会伦理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

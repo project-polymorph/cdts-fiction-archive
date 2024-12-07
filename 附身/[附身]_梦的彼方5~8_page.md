@@ -7,7 +7,7 @@ TXT 下载: [[附身]_梦的彼方5~8.docx]([附身]_梦的彼方5~8.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《梦的彼方》第5至8章主要围绕角色王二的校园生活与梦境冒险展开。故事始于一个普通的学校场景，王二作为值日生打扫教室，过程中遭遇同班女生于瑄的调侃。王二性格内向但富有责任感，尽管不喜欢于瑄，仍愿意默默帮助她。夜晚，王二进入梦境模拟世界，开启了新一轮的冒险。在这个梦境空间中，他通过自由属性点的分配来增强自己的能力，体验角色转换的过程，也决定将自己改造成理想中的形象。王二的角色转变和自我改造让他逐渐探索自我认同与性别认同，最终在梦中变成一个可爱的女孩，开始一段新的旅程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_梦的彼方5~8.docx]([附身]_梦的彼方5~8.docx)
 | Size            | 71368 bytes                           |
 | MD5             | 5a3994a402c42568cc48ccbab4d94191                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 忘卻                               |
+| Region          | 未知                               |
+| Date            | 2015-03-22                                 |
+| Tags            | 性转, 伪娘, 跨性别, 梦境模拟, 校园, 青春, 自我探索, 角色扮演, 梦境冒险, 性别认同, 内心冲突, 变身, 幻想, 成长, 自我改造, 魔法世界, 双马尾, 水手服, 男性视角, 心灵旅程                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

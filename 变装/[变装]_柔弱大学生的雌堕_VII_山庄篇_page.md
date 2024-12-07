@@ -7,7 +7,7 @@ TXT 下载: [[变装]_柔弱大学生的雌堕_VII_山庄篇.doc]([变装]_柔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘 TS 变身与跨性别相关小说的一部分，讲述了主角在一个小山庄内的惊险遭遇。故事开始时，主角赤裸裸地被反绑在背后，性别认同冲突与性别角色扮演交织在一起。主角自述处境堪忧，面临来自两个成年男性的威胁。在文中可以看到主角与这些男性之间复杂的情感与色情交织的场景，包括尝试用身体接受陌生人提供的帮助，同时也流露出对自身处境的无助与恐惧。整篇文章写作大胆，涉及性行为与权力的动态，展示了性别认同与性别角色的扭曲。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_柔弱大学生的雌堕_VII_山庄篇.doc]([变装]_柔�
 | Size            | 79360 bytes                           |
 | MD5             | 218ca1b6036db7312725ed6a6fe661d5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 强奸, 雌堕, 调教, 逆后宫, 女体化, 尸体交换, 自我认知, 生理性别, 虐待与服从, 跨性别, 身体改造, 侮辱与羞辱, 性别认同, 异常性行为                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

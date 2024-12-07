@@ -7,7 +7,7 @@ TXT 下载: [[附身]_大烟民（8）.doc]([附身]_大烟民（8）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是跨性别题材的小说的一部分，主要讲述了角色皮阳的精神与身体经历变化的过程。故事中，皮阳在某次事件后成功附身于女明星杨弥儿的身体，以此来保护其心中的女神凌玥欣，亦或是为了了解何熠的意图。随着附身的深入，皮阳开始感受到女性身份带来的新体验与情感，甚至开始产生对自己新身份的认同与依赖，面临人格与自我意识的冲突。文本不仅描绘了皮阳的心理斗争，还包括了他与其他角色之间的复杂关系和一系列充满浓厚情色意味的情节。例如，皮阳在夜晚偷偷使用杨弥儿的身体进行某些活动，并体验到作为女性的重量与感受，伴随而来的是对自身性格的逐渐迷失和认同。文件中包含了诸多成人向的情节以及隐晦的性暗示，涉及許多性别认同和自我探索的主题，是一部复杂且富有深度的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_大烟民（8）.doc]([附身]_大烟民（8）.doc)
 | Size            | 36864 bytes                           |
 | MD5             | 3272f8d7cd856adddf8f4ec3248eb761                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 跨性别, 附身, 变身, 轮奸, 阴谋, 情感冲突, 同性恋, 身体改造, 女体化, 肉便器, SM, 色情, 奇幻, 现代, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

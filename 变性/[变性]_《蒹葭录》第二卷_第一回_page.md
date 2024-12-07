@@ -7,7 +7,9 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第一回.doc]([变性]_《蒹葭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说《蒹葭录》第二卷第一回，主要讲述了角色福泽与智勇双全的剑客宋沚陵的冒险故事。故事开始于太子福泽在江南的游历期间，机缘巧合之下遇见了吸血怪人事件，以及白衣剑客宋沚陵的出手相助。在这个过程中，宋沚陵因为修炼而出现了身体的变化，出现了雌化的迹象，这引发了朋友朱兴言的浓厚关注与担忧。随着二人的友谊加深，朱兴言多次对宋沚陵的变化表示关心，并试图通过打趣和调侃来拉近彼此的关系。此回讲述了二人在旅途中的点滴互动和宋沚陵为了援救一个被围攻的剑客所展现出来的侠义精神。文中巧妙地融入了对每个角色的心理描写，突显出他们在面对冒险时的内心冲突与成长. 
+
+故事的格局不仅仅体现在冒险与战斗的情节中，还有对性别认同与自我探索的反思，展现了人物们在经历变身与身体变化时的情感波动与认知转变。通过生动的对白与生动的环境描写，读者能够深切体会到角色之间的微妙关系，以及他们在动荡不安的江湖中所追求的侠义精神与友情价值。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第一回.doc]([变性]_《蒹葭
 | Size            | 53760 bytes                           |
 | MD5             | 2d5d82c63dce92e5df350650e4ef2649                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 侠义, 友情, 自我探索, 冒险, 雌化, 江湖, 江南, 武侠, 性别认同, 性转, 小说, 异人, 吸血怪人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

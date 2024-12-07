@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](6).docx]([改造]_永�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《永不分离[屌丝合体白富美]》描绘了一位名叫屌丝男的角色，他对一位美丽的女性孙俪产生了强烈的爱慕之情。故事情节围绕屌丝男的幻想展开，他幻想着能与孙俪心灵相通，甚至希望通过实现愿望的方式将自己化身为可以匹配孙俪的理想伴侣。小说开头描写了角色复杂的情感，他因一时的犹豫而错失了机会，由此引发了内心的悔恨和自我反省。随后，他遇到一个老乞丐，乞丐为他提供了一个实现愿望的机会。整个故事通过屌丝男的独白和与老乞丐的对话，展现了他对爱的渴望与对自身不幸的深刻理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](6).docx]([改造]_永�
 | Size            | 19449 bytes                           |
 | MD5             | c818f5f3c73029d86f1a054a0e7760c5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 爱情, 伪娘, 屌丝逆袭, 奇幻, 自我认知, 愿望实现, 社会阶层, 情感纠葛, 强烈爱慕, 人生选择, 青春期困惑, 幻想与现实, 女性视角, 心灵成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_今魔_第10章_魔王華擊團_募集(中).docx]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘和变身题材的小说第10章，故事围绕主角亚理斯·泰修展开。在这一章中，亚理斯因为运气不佳而杀死了一个17岁女性角色，以图通过鲜血改变厄运。然而，他们的盜賊團在迷路后又遭遇了意外。作品中探索了角色性别认同的冲突以及生存环境的艰难，涉及魔兽的威胁与盜賊生活的不易，还描绘了亚理斯复杂的性格：一方面善用外貌和魅力来愚弄他人，另一方面又是不择手段的杀戮者。文本中反复出现的主题包括对权力的追求、恶劣环境中的生存与冒险，以及对女性角色的物化和使用，这些元素共同构成了小说的核心情节与背景体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_今魔_第10章_魔王華擊團_募集(中).docx]([皮物]
 | Size            | 28035 bytes                           |
 | MD5             | e8732bfe95b6e99519af29c6dcbbbe74                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 魔法, 冒险, 动作, 生存, 暗黑, 血腥, 暴力, 性别认同, 魔兽, 青春, 情节扭转, 角色发展, 社会批判, 偷盗, 女性角色, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

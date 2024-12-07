@@ -7,7 +7,7 @@ TXT 下载: [[附身]_两仪佩_第16章（完结）.docx]([附身]_两仪佩_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文本档案馆的内容主要围绕一位叫小月的角色的内心探索与身份认同，故事开头描述小月在周末被电话吵醒，接到姜俊的电话。姜俊的语气中透出一丝急迫，他告诉小月今天需要见家长，说明两人之间的关系逐渐深入。小月充当伪娘的角色，不得不面对自己身份的复杂性。文本中穿插了小月与身边朋友的互动，展示了她的内心矛盾与挣扎。她在准备成为‘心岚’的过程中，反映出对于新身份的不安与对过去的怀念。同时，故事描写了她与姜家长辈的见面，过程中的紧张与渴望被接受的心情，以及她对这一切的应对策略、内心不安，还有对于姜俊的复杂情感。整篇文章深入刻画了角色在面临性别与身份变换时的心理变化，各种情感交织，呈现出一个关于自我认识与身份寻找的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_两仪佩_第16章（完结）.docx]([附身]_两仪佩_�
 | Size            | 27745 bytes                           |
 | MD5             | d3d9293fe4cebe4910b73b0277014b21                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 身份认同, 情感纠葛, 假装女友, 家庭压力, 自我探索, 内心挣扎, 青年, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

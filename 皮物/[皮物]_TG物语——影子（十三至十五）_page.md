@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_TG物语——影子（十三至十五）.doc]([皮物]_TG
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇涉及伪娘与跨性别主题的小说，内容分为两个部分。第一部分描绘主角以男性身份在酒吧寻找一夜情的经历，展示了他逐渐适应并接受自己身为女性的身份。主角在酒吧中遇到了一位约40岁的男子，并与之发生亲密关系，详细描写了两人之间的互动，着重于主角通过角色变化感受到的快感与挣扎。第二部分则透露了主角的计划，他打算让醉倒的男人穿上女性皮囊，从而探讨其性别认同和转变的深层含义，揭示了主角对控制和占有的欲望。通过这种设定，小说探讨了性别认同和身体自主权的复杂性，包含了性和权力的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_TG物语——影子（十三至十五）.doc]([皮物]_TG
 | Size            | 44032 bytes                           |
 | MD5             | 0e7d8f55ff3e290c173e406b11834291                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 性别认同, 自我探索, 快感, 欲望, 酒吧文化, 一夜情, 情色小说, 男性视角, 人际关系, 情感纠葛, 权利与控制, 神秘皮囊, 角色扮演, 自我接受, 欲望与禁忌, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

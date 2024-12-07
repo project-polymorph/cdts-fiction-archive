@@ -7,7 +7,7 @@ TXT 下载: [[改造]_如果是可爱的男孩子得到了诅咒铠甲1-3.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于克里斯这个角色的幻想小说，描述了他作为一个盗贼在探索一座古老房屋时的冒险经历。故事开始时，克里斯因眼前的锁而苦恼，不断尝试打开它，心中充满了对宝藏的期望。他的角色矛盾，既渴望获得财富，又对自己身为盗贼的身份感到自卑。在一次冒险中，克里斯进入了一个充满古代宝藏的小隔间，然而他的注意力被中心的一个神秘女性塑像所吸引。这个塑像身穿着不寻常的铠甲，对他产生了深深的吸引。随着故事的发展，克里斯与这个铠甲相关的神秘声音产生了连接，最后他在失去意识前听到了声音对他的挑逗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_如果是可爱的男孩子得到了诅咒铠甲1-3.doc]([
 | Size            | 67072 bytes                           |
 | MD5             | 6b1800796a5a2da922ac4c25a55bf173                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 变身小说, 幻想冒险, 盗贼, 诅咒铠甲, 自我认知, 性别角色, 古代遗迹, 神秘塑像, 冒险与探索, 强烈的性欲冲突, 幻想世界, 诡异铠甲, 古老的宝藏, 神秘声音                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

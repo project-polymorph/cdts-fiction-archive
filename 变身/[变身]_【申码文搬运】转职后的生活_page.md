@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【申码文搬运】转职后的生活.doc]([变身]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一位勇敢的冒险者在地下城中探索并经历职业转职过程的故事。一开始，主人公作为队伍的一名剑士，意识到团队中的辅助角色不足，决定去神殿转换职业。在转换过程中，主人公的性别发生了变化，从男性转变为女性，并成为一名芭蕾舞者。这一转变伴随着身体和心理上的巨大冲击与混乱，描述了主人公的身体变化与感知的细腻过程。故事中体现了对性别认同、自我探索及其带来的心理变化的深刻思考，并描绘了一些限制级的情节，尤其是在职业转变后，身体感受的细腻与混乱。文中涉及多个具有冲击性的场景，表现了角色对新身份的适应与内心的矛盾，以及对舞蹈职业的体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【申码文搬运】转职后的生活.doc]([变身]_【�
 | Size            | 49152 bytes                           |
 | MD5             | 1535b78761dbca025d33d5e8db3f0b9b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 冒险, 性别认同, 职业转职, 芭蕾舞者, 魔法, 地下城, 自我探索, 奇幻, 性别转换小说, 角色扮演, 敏感体验, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

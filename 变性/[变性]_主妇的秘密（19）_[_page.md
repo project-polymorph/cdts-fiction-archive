@@ -7,7 +7,7 @@ TXT 下载: [[变性]_主妇的秘密（19）_[.docx]([变性]_主妇的秘密�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《主妇的秘密（19）》，内容是关于一名情妇的内心挣扎和复杂关系的叙述。故事的主角最终成为了钟海的情妇，虽然内心充满了矛盾与痛苦，却又被这种偷情的刺激感所吸引。主角虽然对于钟海有反感与不满，但却被其神秘魅力所吸引。文中提到主角在化妆时的感触，通过对比自己曾经的男性身份与现在的女性身份，表现了对自我的认知与身份的混乱。从被钟海约会的期待，到对于正妻的愧疚，再到对昔日好友李洁与李纯的追忆，不同的情感交织在一起，形成了一种复杂的人际关系。文中涉及的情节也暗示出情感的调教和角色的转变，探索了在遭遇性别转换和身份认同后的心理转变和情感纠葛。在故事的结尾，主角被迫穿上自己的婚礼礼服，进一步加深了对过去的反思与镣铐深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_主妇的秘密（19）_[.docx]([变性]_主妇的秘密�
 | Size            | 34991 bytes                           |
 | MD5             | db9f872004ecf407d9ab22763c67f522                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 情妇, 性别认同, 自我探索, 调教, 变身, 情感纠葛, 婚礼礼服, 强迫游戏, 心理挣扎, 复杂人际关系, 内心冲突, 自我认知, 性转, 偷情, 强烈情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文重发】千变门（叁）——初变.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《千变门（叁）——初变》讲述了一个关于性别转变的故事，主角在与一个名为王婷的女性角色的互动中，逐渐接受了变身为女性的过程。在文中，王婷负责指导主角进行身体的改造与化妆，初步的身体测量和后续的化妆培训逐渐引导角色接受自身的变化。随着故事的发展，主角逐步体验到了女性的外貌与气质，包括身体的细致打理和社交行为的观察。在此过程中，主角对自己的新身份感到期待与迷茫并存，展现了对性别认同和自我探索的深刻思考。文中通过细腻的心理描写，展示了角色在身体与身份认同方面的挣扎，以及外部世界的反应，包括对待女性形象的社会观念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文重发】千变门（叁）——初变.doc]([
 | Size            | 41472 bytes                           |
 | MD5             | 85a801a418a8c4bab727d29f05b54a9d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 变身, 化妆, 自我认同, 心理探索, 角色扮演, 女性形象, 身体改造, 性与性别, 二次元文化, 幻想小说, 成长经历, 亲密关系, 社交行为观察, 身份认同, 虚幻与现实, 性别认知, 情感纠葛, 性别角色, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

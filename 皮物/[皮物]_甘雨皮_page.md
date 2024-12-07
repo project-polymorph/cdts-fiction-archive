@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_甘雨皮.doc]([皮物]_甘雨皮.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身相关的小说，内容围绕一名男性角色在孤独深山中制作出仿造"甘雨"的皮物，随着故事的发展，角色体验了从男性变为女性的过程，涉及了一系列与性别认同和身体认知相关的情节。故事通过细致的描写展现了角色逐步穿上"甘雨"的皮物，以及他对变身后的新身体的探索与兴奋。全篇包含了一些性暗示和露骨的情节，例如角色体验女体的感受，以及对身体变化的强烈反应。小说探讨了身份认同、欲望与幻想之间的关系，以及男性角色对"甘雨"这一角色的迷恋与渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_甘雨皮.doc]([皮物]_甘雨皮.doc)
 | Size            | 53248 bytes                           |
 | MD5             | 1e6d68203ad96d83f7162f7aa727051b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 月咲华灯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 甘雨, 幻想, 欲望, 身体探索, 性转, 二次元, 突破禁忌, 自我认知, 成人内容, 细节描写, 流畅故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

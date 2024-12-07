@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交换–泳衣？(重新翻译：原名：想成为男人
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇关于性转小说的故事，标题为《想成为男人的女人》。故事围绕男主角吉沢栄樹与他的游泳教练赤河纱绪之间的互动。在游泳训练的背景下，栄樹感受到自己身体的变化与性别认同的困惑。他在努力学习游泳的同时，也与性别有关的情感和心理冲突逐渐显现。文中提到栄樹因体重问题而参加游泳训练，教练纱绪则是专业的指导员，群体二人逐渐产生了复杂的情感交集。故事中还讨论了吉沢栄樹试穿女性泳衣的情节，突显了性别角色和自我认同的主题。整篇文本细腻描写了两个角色之间微妙的互动，表达了对自我认同与性别认同问题的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交换–泳衣？(重新翻译：原名：想成为男人
 | Size            | 27730 bytes                           |
 | MD5             | b0601e482c2d4761991a0a70fc7bcb3d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 游泳训练, 性别认同, 男娘, 变身, 青春, 自我探索, 二次元, 情感纠葛, 运动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

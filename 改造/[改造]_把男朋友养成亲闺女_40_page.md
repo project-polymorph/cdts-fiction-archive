@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_40.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由作者Nicegent42创作的关于伪娘与跨性别主题的小说的一部分，情节围绕角色贝丽的日常生活展开。故事设置在一个现代家庭中，贝丽正努力适应作为女孩的角色，同时面临着与阿姨梅根的复杂关系。在小说第四十章中，贝丽被梅根指导进行家务及烘焙，并在过程中展现出她对女性角色的渴望与挣扎。贝丽在心中感到对自己的性别认同的矛盾，但外表却在逐渐融入这个角色，她的行为和外表都在逐步表现出她的女性特质。章节中穿插着她与阿姨梅根、母亲曼迪的互动，揭示了角色之间的情感联系和潜在的性别认同问题。小说探讨了性别认同的复杂性以及在家务和烘焙等日常活动中带来的微妙变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_40.doc]([改造]_把男朋友�
 | Size            | 84992 bytes                           |
 | MD5             | a25a713d25d9dcdbc3bb7f67ebb106b5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 家庭关系, 日常生活, 烘焙, 角色扮演, 女性视角, 青春成长, 情感纠葛, 自我认知, 变身小说, 纯爱, 调教, 女体化, 年龄差, 强奸, NTR, SM, 伦理, 幻想, 科幻, 都市, 奇幻, 魔法, 二次元, 游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

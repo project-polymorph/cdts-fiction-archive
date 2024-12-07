@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_末世见闻录.doc]([皮物]_末世见闻录.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《末世见闻录》是一本设定在未来世界的小说，故事发生在二十五世纪初，人类科技达到瓶颈，地球因资源过度开发而逐渐走向灭亡。为了寻找解决之道，科学家发起了名为“晴天计划”的项目，意图从宇宙中获取生物样本和稀有矿物资源。这项计划的参与者，来自世界各地的精英探险员，乘坐一艘宇宙飞船进行任务。在飞行过程中，成员们因对生物样本的利益产生了矛盾，伴随着飞船的抵达，生物实验室中的母虫也即将苏醒，从而引发了一场惊心动魄的事件。小说中描述了李洲这位普通学生的生活，同时通过天气计划的内幕揭示了人类未来的复杂局势。为了生存和未来的希望，李洲和被卷入飞船争斗的角色经历了自我认知与探索的旅程。通过科学的视角，作品探讨了性别认同与自我探索等深刻主题，同时也包含了若干限制级与性相关的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_末世见闻录.doc]([皮物]_末世见闻录.doc)
 | Size            | 57344 bytes                           |
 | MD5             | 417bd2c6de860d219bd192ffcd61fd26                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 末世, 飞船, 生物样本, 人类探索, 生存挑战, 性别认同, 自我探索, 外星生物, 科技危机, 未来幻想, 科幻, 冒险, 生死存亡, 情感纠葛, 青春校园, 人际关系, 异世界, 变身, 触手, 暴力, 科幻小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

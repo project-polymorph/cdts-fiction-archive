@@ -7,7 +7,7 @@ TXT 下载: [[变性]_突然变女的我绝不会成为RBQ.doc]([变性]_突然�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个名为袁修的大学生的故事，他在迎新期间无意中遇到了一块雕刻精致的玉制品，随后经历了一系列奇异的变故。在他和同学罗甜甜的互动中，袁修逐渐展现出懒散和调侃的个性，但在宿舍内，随着时间的推移，他们的生活逐渐透露出一丝紧张和不安。特别是在袁修无意揭开同宿舍伙伴们的秘密后，张扬的青春气息混合着对性与身份认同的思考，引发出一连串幽默而又令人深思的场景。最终，袁修在一次意外后发现自己身体的剧烈变化，竟然变成了女性。这一切的变化带来了他对自我认同和性别认同的深刻思考。文中对于角色心理活动和肉体变化的描绘细腻且具有戏剧性，体现了性别转变后所带来的复杂情感与社会关系的重新审视。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_突然变女的我绝不会成为RBQ.doc]([变性]_突然�
 | Size            | 86016 bytes                           |
 | MD5             | 19be6d5140baa459f36f9ac4877a5e03                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 自我探索, 青春校园, 性别认同, 伪娘, 跨性别, 大学生活, 性别问题, 情感纠葛, 奇幻, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

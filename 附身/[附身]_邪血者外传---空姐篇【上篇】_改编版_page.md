@@ -7,7 +7,7 @@ TXT 下载: [[附身]_邪血者外传---空姐篇【上篇】_改编版.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《邪血者外传---空姐篇》改编版，主要讲述了一名空姐秦蕾的故事。故事开头描绘了在机场的一幕，秦蕾进入女厕所后被一名美妇用手帕捂住嘴巴，昏睡不醒。接着，美妇通过某种方式将自己的意识转移到秦蕾的身体中，秦蕾醒来后认清自己的身份，开始适应新的身体并完成化妆。随后，故事转到秦蕾在飞机上与乘客之间的互动，表现了两人的情感升温和暧昧行为。文本中多处涉及性和欲望的描写，包含了成人内容，展现出强烈的性别认同和身体变换的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_邪血者外传---空姐篇【上篇】_改编版.docx]([�
 | Size            | 29049 bytes                           |
 | MD5             | d9dd3ae35d26e2aed33a8870358f6199                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 伪娘, 变身, 情感交流, 成人内容, 飞行, 空姐, 性别认同, 自我探索, 幻想, 神秘, 俏女郎, 航空旅客                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

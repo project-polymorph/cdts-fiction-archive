@@ -7,7 +7,9 @@ TXT 下载: [[变装]_战争失利.docx]([变装]_战争失利.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《变装_战争失利》，描述了一场魔法大国克优尔国与新崛起的僚之国之间的战争，主要围绕僚之国的国君僚及其师傅的关系展开。故事中，克优尔国的统治者轻视了这场冲突，导致了他们的惨败。
+故事开头，通过一个叫僚的年轻角色引入，他有着猥琐的表现，但身份是国君。他与一位神秘的师傅之间，有着独特的魔法师徒关系。师傅虽然不能施展魔法，但精通魔法知识，他指导僚逃脱追杀，并不断帮助他成长。僚在与师傅独处时，需穿上可爱的衣服，进行羞耻的魔法练习，这为后续情节奠定了基础。
+在故事的冲突高潮，克优尔的王子郝被俘，僚面临道德与权力的冲突。郝被迫穿戴各种女性服装与配件，以此来羞辱他并作为臣服的象征。这段描写不仅体现出角色的转变，也涉及了性别身份的探索与交织。生活中，空间里对权力、羞辱与服装的描写，带着魔幻而又带着现实的悬念与冲突。天真与阴暗的结合使得整个故事体量丰富，值得深入研究与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_战争失利.docx]([变装]_战争失利.docx)
 | Size            | 27499 bytes                           |
 | MD5             | 23d55f69d325e765fe0a08e935689790                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 魔法, 性别转换, 权力斗争, 自我探索, 羞辱, 师徒关系, 魔法师, 战争, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

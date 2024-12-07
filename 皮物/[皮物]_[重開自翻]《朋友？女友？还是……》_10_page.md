@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_10.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《朋友？女友？还是……》的第10章，内容描绘了角色换装的过程以及内心的复杂情感。故事围绕着小望、小光和小町三位女性角色展开，她们都是人形模特，在换装过程中展现出各种妩媚的姿态和复杂的心理体验。章节中，真一作为工作人员，不知不觉被这浓厚的性暗示和角色之间的互动所吸引，同时又感到强烈的心理冲突。小望在镜前自恋地整理装束，而小光则以性感的姿态展示自己的魅力。真一在观察她们的同时，内心对这种美丽的渴望与复杂的情绪交织成一团。随着剧情的发展，角色们与声优的互动也开始变得更加亲密。这种在外表与内心认知之间的对比，带给读者一种紧张而又刺激的体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_10.docx
 | Size            | 27430 bytes                           |
 | MD5             | 7eb978857eba94884208f3a776ff6f8e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 角色扮演, 情感冲突, 自我认知, 声优互动, 人形模特, 内心描写, 换装戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

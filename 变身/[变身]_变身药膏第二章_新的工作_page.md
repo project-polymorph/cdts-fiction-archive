@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身药膏第二章_新的工作.doc]([变身]_变身药
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为跨性别主题的小说第二章，讲述了主角林桐在使用变身药膏后，经历了一系列新的生活场景与心理变化。故事描绘了林桐欣喜地看着镜子中的自己，体验从男性变为女性后的身体和心理感受。她兴奋地去购物，首次在内衣店购买女子内衣，感受女性的自信与魅力，同时在街上的目光中混合着羞涩和自豪。与此同时，林桐也面临着作为女性的新挑战，在地铁上意外遭遇色狼，她的反应展现了她逐渐适应新身份后的成熟。最后，她在路过小巷时目击了一起盗窃事件，并选择报警，表现出女性在现代社会中的自强与勇气。整篇小说温柔而不失幽默，细腻地捕捉了林桐转变过程中的内心戏，反映出性别认同与个体探索的深层主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身药膏第二章_新的工作.doc]([变身]_变身药
 | Size            | 42496 bytes                           |
 | MD5             | 5d3bb0ee41412d808b26a462ed5d1f0f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 购物体验, 性别认同, 自我探索, 都市生活, 魔法药膏, 内衣店, 地铁, 性骚扰, 报警, 幽默, 身份转变, 社会观察, 女性视角, 青春成长, 个人成长, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

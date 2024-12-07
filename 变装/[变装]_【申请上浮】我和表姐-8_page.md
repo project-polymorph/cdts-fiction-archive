@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【申请上浮】我和表姐-8.doc]([变装]_【申请�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档第八章描绘了角色许婷与她的表姐徐婉儿初识的情景。在公车上，二人的互动充满了紧张与暧昧的气氛，许婷小心地压抑着身体上的欲望，同时她的秘密也在不断地面临威胁。文中生动描绘了许婷在与其他乘客的接触中，恰巧发生的刺激体验和心理状态，她必须在自然与秘密之间保持平衡。在校园中，她们面对校长的审核和一系列令人紧张的社交场合，尤其是与徐婉儿之间的感情发展充满了潜在的不安与好奇。整篇内容通过许婷的视角，引出了一系列关于性别认同与自我探索的复杂心理纠葛，同时也隐晦地描绘了女性之间的亲密关系和身体的欣赏。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【申请上浮】我和表姐-8.doc]([变装]_【申请�
 | Size            | 39936 bytes                           |
 | MD5             | 36029da301d7db8cb289161d91b28a68                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变装, 校园爱情, 羞耻感, 欲望压抑, 亲密关系, 跨性别, 女性视角, 互动情感, 性别角色冲突, 青春故事, 情感纠葛, 两性关系, 公车情节, 校长访谈                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

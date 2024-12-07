@@ -7,7 +7,7 @@ TXT 下载: [[附身]_原来天堂的尽头是一望无际的黑暗.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘与变身相关的小说，讲述了李文和林馨之间错综复杂的关系。故事开篇描绘了李文在放学途中遭遇校园暴力的情节，混混陈强试图向李文勒索生活费。就在李文绝望的时候，女神校花林馨挺身而出，出面保护他，场面突转。然而，随着情节的推进，林馨与陈强之间的关系却有了意想不到的发展。林馨似乎吸收了来自一个叫二狗子的灵魂，通过神秘的石头附体，揭示了她的另一面。林馨不再是先前冷静而优雅的女孩，她开始展现出更加淫荡、调皮的一面，甚至与陈强产生亲密关系。在极为露骨和挑逗的场景中，林馨以一种意想不到的方式回顾自己的过去，甚至在钢琴前演奏时展现出她在音乐与情欲之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_原来天堂的尽头是一望无际的黑暗.doc]([附身
 | Size            | 372736 bytes                           |
 | MD5             | 40725a9334c61e977c84cb0bb8da7487                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 校园暴力, 同性恋, 性转, 强奸, NTR, 校园生活, 女权, 青春期探索, 自我认同, 附身, 二次元, 轻小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

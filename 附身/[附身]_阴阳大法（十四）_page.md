@@ -7,7 +7,7 @@ TXT 下载: [[附身]_阴阳大法（十四）.docx]([附身]_阴阳大法（十
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及性别转换与跨性别主题的小说，围绕主角沐清雨的生活展开。小说中的沐清雨是一个身处警局的女警察，虽然表面上她拥有人类女性的身体与外貌，但内心深处依然保持着男性意识。故事通过她的视角讲述了她如何在扮演女警的同时，秘密探索自己对于性别与性欲的认同，冲突与自我认知的复杂感受。在警局工作期间，她对一个强暴案件的处理产生了自己的看法，并最终采取了极端手段来解决问题。随着情节的发展，沐清雨在生活中不断经历与男性和母亲的关系来探索自己的身份认同，并表现出对装扮和性别角色的强烈兴趣。此内容包含了大量的性暗示与成人内容，涉及酒吧、强奸、性别认同等元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_阴阳大法（十四）.docx]([附身]_阴阳大法（十
 | Size            | 22842 bytes                           |
 | MD5             | 601d01c1b9d6c09d92e6d584890aa90c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变身, 酒吧文化, 性暗示, 情感探索, 内心冲突, 女性角色, 成人内容, 自我认知, 家庭关系, 情欲故事, 伪娘, 男性视角, 警察, 强暴                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

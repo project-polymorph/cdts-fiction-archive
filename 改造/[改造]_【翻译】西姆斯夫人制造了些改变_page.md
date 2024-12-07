@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译】西姆斯夫人制造了些改变.doc]([改造
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《西姆斯夫人制造了些改变》是一本涉及跨性别手术和性别认同主题的小说。文中描写了一位名叫西姆斯夫人的女性，她和医生一起对她的丈夫进行了一系列复杂的医疗手术，以实现其性别转变的愿望。故事中详细记录了手术前的准备过程、手术过程中的细节以及最终手术后的恢复与适应情况。通过医生的解释，读者了解到，手术涉及了身体的各个部分，包括乳房和阴道的重塑，甚至包括性别相关的敏感部位的处理。整个过程中，西姆斯夫人表现出强烈的期待与喜悦，而医生的专业与细致的讲解则让整个手术充满了科学和技术的色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译】西姆斯夫人制造了些改变.doc]([改造
 | Size            | 38912 bytes                           |
 | MD5             | b318eaa6f4aeea828039984004ab5f46                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别手术, 伪娘, 变身小说, 自我认同, 医疗伦理, 女性身体, 性别认同, 性别研究, 医疗技术, 心理转变, 身体改造, 性别角色, 性别表达, 幻想文学, 心理探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

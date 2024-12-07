@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_陷阱影片.docx]([皮物]_陷阱影片.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部性转主题的小说，名为《陷阱影片》。故事围绕两名少女琪琪和莎莎的互动展开，情节富有青春气息，涉及到友情与羞涩的瞬间。从一开始，莎莎因琪琪洗澡而显得焦躁，通过对话展示出女友之间的欢快气氛。在无意中，莎莎的笔记本被打开，显露出她私下观看成人影片的秘密，令她感到极为尴尬。
+
+随着故事的发展，莎莎在面对琪琪的挑逗和逼问时情绪愈发紧张。在琪琪的插科打诨下，莎莎的羞耻感与好奇心交织，同时与琪琪的互动也在升温。笔记本中播放的成人视频情节逐渐引导莎莎进入一种既困惑又刺激的状态。在这段经历中，不同的性暗示和情感冲突交汇，展现了少女们在性探索过程中的心理变化。情节的描绘不仅传达出青春的懵懂与复杂，也涉及了性教育和自我认知等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_陷阱影片.docx]([皮物]_陷阱影片.docx)
 | Size            | 32310 bytes                           |
 | MD5             | 17504bed9d38a37ced7e324059f61eff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 青春, 羞涩, 友情, 性教育, 变身, 跨性别, 情感探索, 诱惑, 熟女, 少女, 成人影片, 搞笑, 幻想, 心灵成长, 自我认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

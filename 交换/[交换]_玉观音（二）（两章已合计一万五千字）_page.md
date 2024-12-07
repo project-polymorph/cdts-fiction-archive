@@ -7,7 +7,7 @@ TXT 下载: [[交换]_玉观音（二）（两章已合计一万五千字）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《玉观音（二）》为伪娘 TS 变身与跨性别题材的小说，其中描绘了角色夏洛在经历了身体性别的转换后所面临的心理冲突和自我认同的探讨。故事从冬季的落叶开始，描绘了夏洛在其内心挣扎与外界压力之间的煎熬。女主人公在探讨自己的生活选择时，回忆起自己曾是男性的经历，以及对即将失去过去他身份的惆怅和不安。随着剧情的发展，夏洛逐渐尝试着适应女性的生活方式，包括如何选择衣服和应对路人注视的压力，展现出在性别转换后复杂的自我认知与认同的过程。此外，故事中对社会对跨性别者的不同反应进行了一定的探讨，表现了性别身份的多样性和个体在传统认同结构中的挣扎。此外，还涉及了一些限制级的内容，如性工作与情感纠葛，进一步诠释了角色面对现实生活的无奈与勇气。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_玉观音（二）（两章已合计一万五千字）.doc
 | Size            | 28125 bytes                           |
 | MD5             | a4a43753561c55bf0194ac8040c2e39d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 跨性别, 变身小说, 女性视角, 心理冲突, 身份认同, 自我探索, 社会压力, 性工作, 爱情, 人生选择, 成长故事, 青少年问题, 情感纠葛, 都市生活, 未知的未来                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

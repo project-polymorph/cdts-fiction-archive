@@ -7,7 +7,7 @@ TXT 下载: [[附身]_水晶球系列之李明篇.doc]([附身]_水晶球系列�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘及附身主题的小说，主要围绕小学三年级的男孩李明向往更温柔的母亲、其妈妈刘芳是他的班主任并且性格严厉的情节展开。故事由李明的内心独白开始，他面对繁重的学习任务和严厉的母亲，心中对换一个温柔的母亲的渴望。意外地，他的朋友张强与王刚捡到一颗神奇的水晶球，可以让灵魂出窍，开始了一段奇妙而充满色彩的冒险。张强和王刚的灵魂在一次又一次的尝试中企图附身在刘芳的身上，形成一系列幽默而又带有暗示性的场面。在这个过程中，重心放在了对性别角色与认同感的探索上，带出了一些限制级别的情节，包含了对母子关系的复杂感受和可能的性暗示。文中描写了刘芳变身后的体验及她对自身身体的探索，展示了性别与身体认知间的冲突与趣味。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_水晶球系列之李明篇.doc]([附身]_水晶球系列�
 | Size            | 51712 bytes                           |
 | MD5             | 98671cce4c11e47f9278804ae06f52a2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 伪娘小说, 性转, 超自然, 家庭关系, 性别认同, 少年冒险, 校园生活, 幻想元素, 母子情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_有了女友，兄弟不要了？(中).docx]([附身]_有�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别主题的小说，讲述了主角阿和在一次神秘的附身经历中，体验到了女性的身体与情感。故事开始时，阿和在朋友阿杰的旁边，经历了一系列自我探索与性别认同的复杂感受。他的灵魂意外地进入了一个名为小静的女孩子的身体，阿和在这一过程中体会到作为女性的生活状态，与朋友阿杰的关系也因此变得错综复杂。阿和的内心挣扎着，他既感受到新身份带来的愉悦，又对这种身份感到恐惧与疑惑。在与小静生活的日子里，他通过跟踪了解小静与阿杰的关系，并逐渐认识到自己的感觉和其他角色间的情感纠葛。同时，故事穿插了大量对身体变化的感知与社交中的细腻描绘，展现出主角对自我身份的迷茫与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_有了女友，兄弟不要了？(中).docx]([附身]_有�
 | Size            | 35235 bytes                           |
 | MD5             | 31a3441418ffad1907de52143c140dc5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 自我探索, 附身, 情感纠葛, 伪娘, 变身, 校园爱情, 青春, 虐恋, 心理冲突, 奇幻, 二次元, 女性视角, 身体意识, 人生体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

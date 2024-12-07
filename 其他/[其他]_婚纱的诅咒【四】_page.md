@@ -7,7 +7,7 @@ TXT 下载: [[其他]_婚纱的诅咒【四】.doc]([其他]_婚纱的诅咒【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为《婚纱的诅咒【四】》的部分内容摘录，主要讲述了角色在参与婚礼仪式时的复杂内心体验与感官感受。文中描绘了新娘黄莹莹的入场仪式，伴随着角色在婚纱中的自我意识和快感的变化，以及对身份转换的困惑与羞耻。文本通过细腻的描写展现了角色内在的挣扎，尤其是在其身体感觉变为婚纱之后的探索过程。角色在婚礼彩排中的遭遇与感触，突显了性别认同、身体感知与心理状态之间的复杂关系。文中不乏丰富的感官细节，如“我的快感随着这些胡思乱想而变得越来越剧烈。”与“我明白了，除了刚才看见的白色蕾丝内裤外，她今天还穿上了一条提臀内裤。”等句子，暗示了对女性身体的陌生与渴望。整个情节在婚礼准备的背景下，交织了情感、身份和身体感受的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_婚纱的诅咒【四】.doc]([其他]_婚纱的诅咒【�
 | Size            | 38400 bytes                           |
 | MD5             | 68221c41d9341da90a4f13f6a429a610                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 婚纱, 变身, 自我认知, 性别认同, 婚礼, 快感体验, 内心挣扎, 心理描写, 女性身份, 婚礼彩排, 情感纠葛, 身体感知, 二次元, 小说, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

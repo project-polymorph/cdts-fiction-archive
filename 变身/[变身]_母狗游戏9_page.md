@@ -7,7 +7,7 @@ TXT 下载: [[变身]_母狗游戏9.docx]([变身]_母狗游戏9.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含一个围绕性转与跨性别主题的小说片段，讲述了主角观月在一场由堂本操控的肉体与精神上的折磨中逐渐沉沦的过程。故事中，观月被迫依赖一种混合了多种药物的粘液，这些药物既影响了她的生理状态，也加深了她对自身身份的困惑。在重复的日常生活中，她经历了欲望的煎熬与孤独的压迫，愈发渴望堂本的到来。文本详细描绘了观月的心理状态和身体变化，如“她能很清楚的记得昨晚自己又做春梦了但对梦呢声却一直认为是自己的梦中的自言自语”，以及她在面对强烈的生理需求与精神压迫时的无奈。故事情节融合了性别认同、自我探索和极端幻想等复杂主题。整个文本带有一些性暗示和限制级内容，并展现了角色之间的主从关系及性别角色的转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_母狗游戏9.docx]([变身]_母狗游戏9.docx)
 | Size            | 16730 bytes                           |
 | MD5             | e840e4b09941e33869e9d625c54409dd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性转, 角色扮演, 药物控制, 春梦, 肉体操控, 自我认知, 欲望压迫, 极端幻想, 心理折磨, 单向依赖, 孤独感, 欲望煎熬, 情感操控, 调教小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

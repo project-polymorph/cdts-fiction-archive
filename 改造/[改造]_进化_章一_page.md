@@ -7,7 +7,7 @@ TXT 下载: [[改造]_进化_章一.doc]([改造]_进化_章一.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件《进化 章一》是一部围绕性别认同与社会结构变迁的跨性别小说，描写了主角特里在一个没有传统父亲角色的家庭中成长的故事。故事设定在一个未来社会，特里与母亲及小妹妹吉玛共同生活，特里逐渐质疑自己与母亲之间的真正关系，特别是在发现母亲原本是男性身份的B类进化人后。小说通过特里的视角探讨了在现代社会中性别和家庭的概念，并涉及III型人如何应对社会中存在的性别角色和身份认同的问题。文中详述了特里和他的朋友萨姆对进化人分类的好奇，以及他们在图书馆查阅进化信息的过程，反映出一种对自我与社会认知的探索与冲突。文本中不仅涉及性别转变与认同，还对家庭、育儿的现代形态进行了深刻的反思，整体带有强烈的科幻色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_进化_章一.doc]([改造]_进化_章一.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 44f3abaa615b6253039ac3ef0daf4d67                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 进化人, 家庭结构, 跨性别, 科幻, 伪娘, 性别转换, 青春期困惑, 未来社会, 社会变迁, 性别角色, 性别理论                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

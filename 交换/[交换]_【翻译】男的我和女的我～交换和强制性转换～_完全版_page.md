@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【翻译】男的我和女的我～交换和强制性转�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为了一篇名为《男的我和女的我～交换和强制性转换～ 完全版》的小说，该作品的核心情节围绕两名学生--男主角和女主角因意外撞击而交换身体的故事发展。男主角和女主角都有各自的男女朋友，但在经历身体交换后，他们必须秘密地适应新的身份，并处理相互之间的尴尬与冲突。小说中详细描写了他们对各自新身体的探索和感受，包括在上厕所时不适应和意识到对方生理特点的奇怪感受。剧情包含对身体认同和性别认同的探索，并展现了角色在生活、情感及身体上面临的挑战。该作品中还掺杂了性方面的描写和角色自我认知的变化，反映了对身份和情感的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【翻译】男的我和女的我～交换和强制性转�
 | Size            | 70656 bytes                           |
 | MD5             | 2b7bc828bd9b8de4bf67a217f605655d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 魔之天涯                               |
+| Region          | 未知                               |
+| Date            | 2021-09-14                                 |
+| Tags            | 性别交换, 身体交换, 校园, 青春, 探索自我, 情感纠葛, 变身, 性别认同, 尴尬, 成长故事, 幻想, 心理冲突, 少年少女, 禁忌, 强制性转换, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

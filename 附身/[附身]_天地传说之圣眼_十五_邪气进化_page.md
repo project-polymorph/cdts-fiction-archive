@@ -7,7 +7,7 @@ TXT 下载: [[附身]_天地传说之圣眼_十五_邪气进化.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《天地传说之圣眼》第十五章，章节标题为‘邪气进化’。本文描绘一个角色在奇异空间中与器灵对话的情景，器灵向角色解释了邪气的性质及其对角色灵魂的危害。在这段对话中，器灵透露了邪气由死物演变为有意识的存在，并警告角色要尽快驱逐邪气以防其壮大。故事描绘了角色在自我探索中的经历，与器灵共同面对威胁的情节。同时，文本中还有日常生活的描写，角色与邻居的相遇，展现出一种轻松幽默的氛围。整体来看，故事结合了奇幻元素与对人类欲望的探讨，以及角色间的情感互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_天地传说之圣眼_十五_邪气进化.docx]([附身]_�
 | Size            | 21168 bytes                           |
 | MD5             | 820a8e2cf785647ddf677fa48151d6fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 奇幻, 邪气, 器灵, 自我探索, 灵魂, 欲望, 人际关系, 角色发展, 情感互动, 二次元, 小说, 虚拟现实, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

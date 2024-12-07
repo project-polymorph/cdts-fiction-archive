@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【诸天黑牙商】（4）.doc]([改造]_【诸天黑牙
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一本以变身与跨性别为主题的小说，其情节围绕主角古月与慕容复及其他角色之间的复杂关系展开。小说开头描绘了古月作为萨满的威严与能力，吸引了慕容复前来请求帮助。慕容复的家臣包不同因得罪古月而被迫跪下求情，并为自己的生命进行交易。在古月的指导下，包不同成功用自己的内力交换到了寿命，展现了人物之间权力与生存的博弈。与此同时，故事通过与其他角色的互动揭示了复杂的情感与欲望，尤其是三位美女对慕容复的忠诚与献身。小说描绘了变身过程中的自我认知转变和对性别认同的探索，结合了许多与魔法、交易和牺牲相关的元素。整体而言，该文件展示了一个深邃而富有想象力的世界，其中充满了跨性别和变身主题的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【诸天黑牙商】（4）.doc]([改造]_【诸天黑牙
 | Size            | 37376 bytes                           |
 | MD5             | ce6d7c87d2b1106c84c1f3cd470f3258                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 权力交易, 魔法, 忠诚, 欲望, 自我探索, 萨满, 玄幻, 爱情, 角色关系, 女性角色, 小说, 驭灵                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

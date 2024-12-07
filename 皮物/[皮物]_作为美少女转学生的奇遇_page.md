@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_作为美少女转学生的奇遇.doc]([皮物]_作为美�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个关于变身和跨性别的奇幻故事，主要围绕主人公上崎晃的生活展开。他是一名普通的中学学生，生活中渐渐出现了一些奇怪的事情，自从他的父母回国和两个姐姐一起生活后，这一切变得更加复杂。
+
+故事开头，描绘了佐和田中学的合唱团和女高音歌手川越堇的紧张情绪，接着转向上崎晃的日常生活和他的家庭背景。随着情节的发展，上崎晃发现他的姐姐们所经营的“公司”充满了奇妙的科技，以及一件可以改变性别的“人皮”，这种科技可以让他变身为川越堇。从而故事引出了一系列角色扮演及自我认知的挑战。
+
+在穿上“人皮”之后，上崎晃需要模仿川越堇的生活，面临着各种考验，包括在合唱团的演出中表现。整个故事探讨了性别认同、角色扮演以及青少年内心的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_作为美少女转学生的奇遇.doc]([皮物]_作为美�
 | Size            | 60928 bytes                           |
 | MD5             | dbafdf2998d53103ba78a3399d69ee74                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 角色扮演, 青春期, 自我探索, 合唱团, 家族关系, 奇幻, 伪娘, 性别认同, 美少女, 幻想科技, 实验性情节, 校园生活, 日记形式, 人皮科技, 青春恋爱, 姐姐控, 成长, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

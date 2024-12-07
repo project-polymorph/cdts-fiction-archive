@@ -7,7 +7,7 @@ TXT 下载: [[交换]_通过应用程序(前篇).docx]([交换]_通过应用程�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇涉及性转与身体交换主题的小说，讲述了主角竹本直树在工作与恋爱两方面的不如意，面临30岁仍未交过女朋友的尴尬境地。在一次偶然间，他发现了一个名为《Body Change》的神秘应用，该应用能够允许人们交换身体。在初次使用时，竹本直树感到难以置信，但随着他选择了跟两位邻居交换身体，事情变得越来越复杂。随着故事的发展，竹本目睹了身体交换后引发的混乱与趣味，特别是男女主角对新身份的反应，以及随之而来的身体和情感上的困境。故事中不仅探讨了性别认同和自我探索的议题，同时加入了一些色情内容，使其情节更加引人入胜。作者通过竹本的内心独白展现了他对自己和对女性身体的困惑，增加了情节的戏剧性和真实性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_通过应用程序(前篇).docx]([交换]_通过应用程�
 | Size            | 32828 bytes                           |
 | MD5             | 85307c25207436ca8b12a63013c5c266                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 身体交换, 伪娘, 男娘, 越界的欲望, 奇幻, 自我探索, 性别认同, 青春烦恼, 职场困境, 身体互换, 爱情, 青春, 异世界, 女性视角, 心理冲突, 性爱, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【乐园计划】第二十七～二十八章.doc]([其他
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《乐园计划》第二十七至二十八章的内容，属于伪娘及变身题材的成人小说。章节中，角色香草在饮用含有媚药的饮料后，身体逐渐感受到性欲的高涨，其内心与身体的冲突与满足感交织。故事描绘了香草在一个充满性暗示的环境中，与一位老板娘和其他客人之间的互动。章节包含了大量露骨的场景描述，特别是香草的自慰行为及对于其他角色的性行为的好奇与渴望。这段内容深入探讨了性别认同和性欲的交织，并展示了角色对自身快感的追求。整体情节充满了色情元素，适合成人阅读和研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【乐园计划】第二十七～二十八章.doc]([其他
 | Size            | 45056 bytes                           |
 | MD5             | c637cf5645d80d92c92b5888b8a4b276                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 媚药, 性需求, 色情, 成人小说, 自我探索, 性别认同, 异世界, 成人情节, 喘息, 性行为, 调教, SM, 幻想, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_毒魔女（城市篇）（第一，二章）.doc]([改造
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是伪娘TS变身与跨性别相关的小说片段，讲述了主角恺在一家酒吧中迷失自我的故事。故事以夜晚的酒吧为背景，氛围暧昧而又充满诱惑。主角恺在酒吧喝酒消愁，因曾经与朋友的冲突而心烦意乱。当他被一名妩媚的兔女郎搭讪后，恺被她的香味所吸引，并陷入欲望的漩涡。紧接着，两人之间发生了大胆而亲密的互动，逐渐揭开了主角内心的渴望和对自我的探索。故事中还提及了角色的性别认同及相关冲突。最终，恺的遭遇不仅是对自我的一次挑战，也暗示了他可能陷入更深的危险境地。整体情节包含了多种复杂的情感与欲望，充满了性别与自我认同的探讨，交织着情色与幻想的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_毒魔女（城市篇）（第一，二章）.doc]([改造
 | Size            | 71680 bytes                           |
 | MD5             | 21953b3f816aa5765d6de555451d1bc3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-04-22                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 都市奇幻, 时空穿越, 精神冲突, 夜店, 禁忌爱情, 自我探索, 妖媚, 幻想, 欲望, 危险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

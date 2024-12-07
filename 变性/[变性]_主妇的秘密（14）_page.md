@@ -7,7 +7,7 @@ TXT 下载: [[变性]_主妇的秘密（14）.docx]([变性]_主妇的秘密（1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《主妇的秘密（14）》，主要讲述了主人公季扬在一次意外中来到模特公司面试的经历。故事的背景设定在现代的上海，随着肤色和性别的转换，产生了深刻的心理冲突与自我认同的探索。可以看到，季扬与同学美雅重逢时，产生了复杂的情感纠葛。美雅对季扬的变性身份表示接受，并愿意帮助她在模特公司适应新身份。整个面试过程中，季扬从心理到生理的适应显得紧张而又羞涩。文中详细描述了模特面试中的诸多环节，包括体型测量、表演环节等，描绘了焦虑、羞耻和逐渐适应的内心变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_主妇的秘密（14）.docx]([变性]_主妇的秘密（1
 | Size            | 28521 bytes                           |
 | MD5             | ab6ce6fc11881534520dd12aeae5556d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变性, 模特面试, 自我探索, 女性化, 社交压力, 情感交错, 朋友支持, 身份转换, 心理冲突, 都市生活, 成长故事, 二次元文化, 青春, 励志, 性别政治                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

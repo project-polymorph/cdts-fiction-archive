@@ -7,7 +7,7 @@ TXT 下载: [[改造]_林中膜树.doc]([改造]_林中膜树.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《林中膜树》是一部设定在虚构大陆的小说，故事围绕两个佣兵，少年与彪形大汉，前往一片神秘的森林调查失踪村民的事件。在环境沉寂且充满不安的气氛中，他们的探险逐渐变得诡异。小说中描写了少年敏锐的直觉，虽然他对任务感到恐惧，却亦因职责而继续前行。在探索的过程中，他们发现了一名美丽的女子靠在树上，但她的异样行为和悲惨境遇引发了他们的警觉。随着剧情的发展，女子显露出的异常以及她与树木的诡异联系，使得故事不断转折，逐渐深入到超自然和奇幻的领域。随后，女子与大汉之间的冲突，以及两名主角在面对越来越紧张的局势时的反应，展现了性别转换和身份认同的主题。整部小说用第一人称的叙述手法，将角色内心的斗争与环境的压力融合在一起，营造出紧张且富有悬念的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_林中膜树.doc]([改造]_林中膜树.doc)
 | Size            | 69120 bytes                           |
 | MD5             | 92c2d45e5b18751fcbee37672bfed389                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 魔法, 奇幻, 悬疑, 身份认同, 变身, 冒险, 超自然, 性别探索, 幼教, 角色扮演, 心理斗争, 情感纠葛, 异世界, 女性化, 男娘, 调教, 黑暗奇幻, 生存游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

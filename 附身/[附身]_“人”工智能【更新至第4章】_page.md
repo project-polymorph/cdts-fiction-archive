@@ -7,7 +7,7 @@ TXT 下载: [[附身]_“人”工智能【更新至第4章】.doc]([附身]_“
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部伪娘 TS 变身与跨性别相关小说的四章更新内容，主要围绕角色孙澈与穆阿姨之间的互动展开。故事开篇，孙澈因手机屏幕内容而产生强烈的好奇和渴望，表现出对穆阿姨身材的关注和内心的挣扎。在一段逗趣的聊天中，穆阿姨鼓励孙澈放松自己，而孙澈的内心显现出对这种刺激的接受与向往。随着剧情推进，孙澈在无意中开启了视频通话，这令他面临着尴尬的局面。在视频通话中，穆阿姨意外质问他刚才的行为，展示出成熟与正义感并存的形象。整段情节充满了青春气息与性暗示，探索了性欲与道德之间的微妙关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_“人”工智能【更新至第4章】.doc]([附身]_“
 | Size            | 74240 bytes                           |
 | MD5             | 3976563e7eaf3c22db9be40d10d5dfba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 视频通话, 青春期, 好奇心, 性探索, 自我认知, 情感纠葛, 道德与法律, 性感美学, 成年与青春, 性别认同, 性欲, 故事构建, NTR, 调教, 强奸, 淫荡, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

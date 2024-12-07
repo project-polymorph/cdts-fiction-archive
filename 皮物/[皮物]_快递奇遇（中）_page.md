@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_快递奇遇（中）.doc]([皮物]_快递奇遇（中）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《快递奇遇（中）》，讲述了主人公黎美美在一个豪华的客厅中，发现自己身处一种复杂的身份和情感纠葛之中。故事开始于黎美美的体验，她意外地发现落地镜中映出她美丽的身姿，然而周围环境却充满了疑问——她发现客厅里散落着其他女性的衣物，令人不解。人物之间展开了一场认知上的冲突与性别身份的探讨，以及与新出现角色谢娇之间的亲密接触。随着情节的展开，黎美美与谢娇展开了互动，包含了对身体和性别变化的深入探讨，紧张感逐渐升级，两人之间的关系变得微妙而复杂，涉及情感、权力与身份的双重探索。整篇小说包含大量限制级内容，包括对身体的描写及性活动的暗示，如“黎美美小心的探入中指，顿时感觉有些天旋地转”，展现了主人公在性别与情感认同上的挣扎与体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_快递奇遇（中）.doc]([皮物]_快递奇遇（中）.
 | Size            | 37888 bytes                           |
 | MD5             | 23c7b3a1429ce04b510f0b586df329c3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 纯爱, 强奸, 调教, 逆后宫, 学生, 老师, 魔法, 二次元, 血统, 校园, 奇幻, 恋爱, 虚拟现实, 机械, 古代, 现代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

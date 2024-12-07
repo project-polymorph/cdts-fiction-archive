@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮之马自达6.doc]([皮物]_皮之马自达6.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇包含变身与性别转换主题的小说，标题为《皮之马自达6》。故事围绕主角与一辆马自达6汽车的互动展开，描述了主角在与朋友林申一的对话中，逐渐接受了以汽车作为一种皮物道具的设定。在故事的发展中，主角在乘坐汽车后，因安全带的缘故陷入昏睡，醒来后发现自己处于一家宾馆的房间中，发现自己已被林申一变成了一张皮，且记忆模糊。文中出现了一名妓女，与主角的对话与误会和林申一的身份转变相结合，制造了悬疑与性别认同的复杂情感。故事情节充满了荒诞与戏谑，涉及了性别认同、自我探索和身体转变等主题。同时值得注意的是，内容中包含一些性暗示和不雅的情节，适合对相关题材感兴趣的读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮之马自达6.doc]([皮物]_皮之马自达6.doc)
 | Size            | 28160 bytes                           |
 | MD5             | 4f0b0696033ed99a2332a9560eadf1e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性别转换, 性暗示, 马自达6, 奇幻, 自我认知, 肉体交换, 妓女, 幻想小说, 都市奇幻, 穿越, 性别认同, 朋友之间的信任, 科幻元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《四美图》二十六.doc]([改造]_《四美图》二�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇伪娘与跨性别相关的小说，内容围绕一名韩王与其美妾刘亭的情感与肉体纠葛展开。在一个灯火通明的宴会中，韩王与刘亭之间展开了一场奢华而淫荡的狂欢。在酒席上，刘亭以美貌与魅力吸引韩王，韩王则毫不掩饰对其身体的渴望和征服欲。在文中，描绘了两人之间亲密无间的互动，涉及到了调教、服侍和权力关系的复杂交融。该小说在情节上展现了性别角色的扭转，女妾即便曾是男性，却在权利游戏中默默接受和享受着女性的身份，并对自身的性别认同产生了独特的理解。文件大量使用了生动的细腻描述，展现了欲望与情感交织的场面，整个故事富有色彩与情感深度，同时也涉及了许多复杂的性别主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《四美图》二十六.doc]([改造]_《四美图》二�
 | Size            | 44032 bytes                           |
 | MD5             | 2bb978c7a89a5279a3ad8f93aa4e1128                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 强烈欲望, 权力游戏, 调教, 性别认同, 奢华生活, 酌酒, 红颜知己, 古代宫廷, 荡妇, 淫荡, 细腻描写, 情感纠葛, 男装女妾                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

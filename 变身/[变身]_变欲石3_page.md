@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变欲石3.doc]([变身]_变欲石3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《变欲石3》描绘了一段复杂的情感互动，主要围绕角色星梦和秦静之间的暧昧关系展开。故事中，星梦在与秦静的对话中逐渐深入到她的内心，透露出他们之间的吸引与冲突。通过对秦静在餐厅穿着短裙和肉丝的细腻描写，展现了她对星梦的情感，其实她是想要通过外表诱惑星梦，尽管她刚开始并不承认。此外，秦静对星梦的言语测试反映了她对他是否真心的怀疑。最终，在一个求婚的场景中，星梦甚至以一百万的支票作为承诺与证据，极力向秦静证明他的爱意，这充满了戏剧化的情感冲突与对性别认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变欲石3.doc]([变身]_变欲石3.doc)
 | Size            | 38912 bytes                           |
 | MD5             | f443b344e7d9b11a438d944ad974a65d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 浪漫, 爱情, 求婚, 性别认同, 情感纠葛, 二次元, 角色发展, 诱惑, 社会期待, 身份认同, 自我探索, 情感测试, 女体化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

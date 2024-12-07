@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我附身成了异界少妇（2）.doc]([附身]_我附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《我附身成了异界少妇（2）》，主要讲述了一位名叫安迪的男性角色意外附身在一个异界女性角色雅莉娜的身体中。故事开头，安迪刚经历了一次极为羞辱的事件，描述其内心的挣扎与不满。而在附身后的身体中，安迪逐渐体验到了女性带来的生理快感，却也经历了身份的冲突。随着情节的发展，安迪与雅莉娜的记忆开始融合，故事中穿插了大量对身体的反感与自身认同的矛盾心理，以及对其他女性角色的欲望与征服感。文中含有明显的性暗示与复杂的性别认同主题，涉及催眠、控制与自我认知的深刻探讨。整体内容以带有浓重幻想与科幻色彩的背景，展示了性别转换与权力关系的微妙变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我附身成了异界少妇（2）.doc]([附身]_我附身
 | Size            | 34304 bytes                           |
 | MD5             | 939aa59286f8129a9077f17f64758e30                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异世界, 变身, 性别认同, 自我探索, 魔法, 催眠, 控制, 女性角色, 身体冲突, 征服欲, 幻想, 科幻, 跨性别, TSF, 淫荡, 调教, 逆后宫, 百合, A片, 强奸, 乱伦, 邪教, 病态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

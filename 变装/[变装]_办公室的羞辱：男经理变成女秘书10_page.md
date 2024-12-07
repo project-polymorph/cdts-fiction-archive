@@ -7,7 +7,7 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书10.docx]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于安德鲁的变化过程，围绕他在凯瑟琳的影响下逐步适应女性角色的经历展开。文件的十章描述了安德鲁在社交场合中的困境与心理变化。故事中，安德鲁被迫穿上女性服饰，感受到来自他人的嘲弄和羞辱。在超市的遭遇中，两个女孩认出他并羞辱他，让他深刻体会到性别角色期待的压力和社会对外表的评判。他开始意识到，自己愈发女性化的外表与内心的认同发生了微妙的变化，逐渐接受并尝试融入这种新身份。在经历了一系列情感波动和自我探讨后，安德鲁在办公室的工作中也面临挑战，但他的团队合作能力帮他渡过难关。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书10.docx]([变
 | Size            | 16123 bytes                           |
 | MD5             | f1261ea511f4f7c036fb8b4cea4d54b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 跨性别, 社交羞辱, 自我探索, 女性化, 安德鲁, 凯瑟琳, 少女, 职场, 角色转换, 自我挑战, 派对准备, 心理冲突, 现代都市, 变身小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

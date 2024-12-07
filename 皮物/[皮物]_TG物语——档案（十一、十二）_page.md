@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_TG物语——档案（十一、十二）.doc]([皮物]_TG
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为跨性别相关小说的章节之一，名为《TG物语——档案（十一、十二）》。在这一章节中，主要讲述了角色李云与赵建军的对话，他们在调查顾文博失踪的案件中，面临着复杂的情节发展。李云在确定顾文博并没有死亡后，独自思考接下来的行动，并产生了寻找另一枚玉针的念头，以期恢复赵建军的身份。这个过程揭示了角色对自身身份和心理变化的探索，同时也反映出了性别转换后的自我认知冲突。李云对能体验人皮的机会感到兴奋，而赵建军则在面对变身后的女性身份时，感到一丝无奈与困惑。文件中包括对角色心理变化的细致描写以及性别认同的探讨，展现了个体在性别转换与社会角色中所面临的挑战和调试过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_TG物语——档案（十一、十二）.doc]([皮物]_TG
 | Size            | 41472 bytes                           |
 | MD5             | 607f223c08d11e77afccac068c75a5b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 心理变化, 探索自我, 案件调查, 伪娘, 变身, 角色交替, 女性角色, 自我认知, 情感纠葛, 校园故事, 奇幻, 都市, 悬疑, 科技幻想, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

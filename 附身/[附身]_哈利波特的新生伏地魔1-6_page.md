@@ -7,7 +7,7 @@ TXT 下载: [[附身]_哈利波特的新生伏地魔1-6.docx]([附身]_哈利波
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇以《哈利·波特》为背景的原创小说，讲述了一个角色穿越到哈利·波特的世界，并附身在反派角色伏地魔身上的故事。故事开始时，主人公在一次意外中变成了伏地魔的灵魂，并打算利用伏地魔的记忆和魔法知识为自己复生。随着情节的发展，主人公试图吸收伏地魔的力量，转而追求女性的身体，并计划将赫敏作为重生的媒介。故事中包含了角色的内心挣扎与欲望，以及对青春美好事物的渴望，描绘了一种奇幻与现实交织的情感。通过对伏地魔的记忆吸收与重生仪式的描写，作品探讨了性别身份的变换与自我认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_哈利波特的新生伏地魔1-6.docx]([附身]_哈利波
 | Size            | 62941 bytes                           |
 | MD5             | a2798fed42cb5867957f6c928163ad49                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 跨性别, 性转, 魔法, 哈利波特, 女性转变, 角色认同, 奇幻, 自我探索, 重生, 魔药, 伏地魔, 赫敏, 欲望, 青春与美, 魔法世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

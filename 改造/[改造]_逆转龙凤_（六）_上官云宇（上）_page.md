@@ -7,7 +7,7 @@ TXT 下载: [[改造]_逆转龙凤_（六）_上官云宇（上）.doc]([改造]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为小说《逆转龙凤》第六章，主要围绕少年皇帝的身份转变和内心的挣扎展开。故事设定在醉红楼，一家青楼，少年在宫中被迫接受其新身份为女子的现实，内心充满了困惑和不安。他与红玉之间的互动表现出了对新身份的接受与适应，红玉的教导使他逐渐认识到作为女子的礼仪与行为规范。在夜晚的醉红楼中，少年虽然外表是女子，内心却依然困惑，尤其是在面对众人的注视时感到紧张和羞愧。红玉则以姐姐的身份给予少年安慰与指导。本章节通过细节描绘了青楼的氛围，以及少年对自我身份与外界认同的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_逆转龙凤_（六）_上官云宇（上）.doc]([改造]
 | Size            | 38400 bytes                           |
 | MD5             | 28e2ab01b004ca2ad0260b794c6ec431                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 转变, 青楼, 自我探索, 红玉, 上官云宇, 禁忌爱情, 古代背景, 权力斗争, 暗恋, 身份转换, 女性礼仪, 奇幻, 情感纠葛, 逆转人生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

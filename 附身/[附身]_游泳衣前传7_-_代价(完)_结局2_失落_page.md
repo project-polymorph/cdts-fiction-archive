@@ -7,7 +7,7 @@ TXT 下载: [[附身]_游泳衣前传7_-_代价(完)_结局2_失落.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于性别转变及其带来的心理和生理变化的小说，讲述了主角王倩芝在大学生活中的种种经历与内心探索。故事围绕她对新身份的适应，描绘了她从男性到女性身份的转变过程，以及在这过程中对性别角色的反思。她在大学中以女性身份生活，体验与姐妹们的互动和与父亲的关系，同时内心藏匿着对过去的仇恨和对复仇的渴望。通过对校园生活的描绘，揭示了即使在外表看似完美的生活背后，仍然潜藏着黑暗的过去和未解的仇恨。随着情节的推进，王倩芝在感情与追求之间摇摆，最后面对着自己的真实情感与内心的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_游泳衣前传7_-_代价(完)_结局2_失落.doc]([附身
 | Size            | 35328 bytes                           |
 | MD5             | 2ad98ce1ace5a894fa08ceece6088b3c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 复仇, 大学生活, 女性身份, 内心挣扎, 情感纠葛, 男女关系, 人际互动, 黑帮, 角色探索, 心理变化, 性别认同, 青少年, 爱情, 身份认同, 校园, 故事结局, 社会角色, 个人成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

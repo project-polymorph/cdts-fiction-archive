@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我被抢走的身体1-5（温情戏上演）.docx]([交�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别交换和跨性别身份认同的小说，描绘了人物知美和康介之间复杂而扭曲的关系。故事开始于知美的身体被其他人所夺取，她被困于一个封闭的空间，手脚被铐，面临严重的身体和心理折磨。知美在极度绝望中呼喊求救，而救她的是占据她身体的幸彦。康介是知美的爱人，他后来也遭遇了和知美相似的情况，两人的身体因幸彦的阴谋而发生了交换。故事探讨了自我认同、性别认同的冲突，以及在极端情况下两人感情的微妙变化。康介提到，他在被知美的身体侵犯后感受到之前未曾体验的快感，进而揭示了对于身体和性别认同的复杂情感。该内容涉及限制级情节，包含了对性别交换后角色心理和生理体验的深刻描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我被抢走的身体1-5（温情戏上演）.docx]([交�
 | Size            | 22100 bytes                           |
 | MD5             | dfd32927f0d16feef522124482f08f53                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 伪娘, 爱情, 自我探索, 身体交换, 强奸, 权力交错, 绝望, 心理冲突, 情感纠葛, NTR, 调教, 虚拟现实, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

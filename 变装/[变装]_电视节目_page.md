@@ -7,7 +7,7 @@ TXT 下载: [[变装]_电视节目.doc]([变装]_电视节目.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于变装和性别角色扮演的小说，讲述了主角克里斯参加一档名为《电视节目》的真人秀。他最初是一个正常性取向的男人，生活在纽约市中心，与妻子梅根同居。梅根提到的节目承诺能够让男人更男人、让女人更女人，这引发了克里斯的好奇。在现场参与节目后，克里斯被选为嘉宾，经历了一系列关于性别角色的扮演和选择。他在节目中逐渐被迫接受自己的感受，并最终不可避免地成为了一名法式女仆，以展现异装癖的一面。文件详细描述了克里斯在节目中所经历的改造过程、内心的挣扎以及对性别认同的重新思考。最终，他意识到自己可能也对女装产生了一种兴奋与羞耻感，这是他人生认知的一个重大转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_电视节目.doc]([变装]_电视节目.doc)
 | Size            | 32768 bytes                           |
 | MD5             | 86f77abb951404a9d1a3353ee9b1b1d2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Portia Jartelle                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变装, 异装癖, 跨性别, 真人秀, 法式女仆, 自我探索, 潜意识选择, 角色扮演, 性别认同, 纽约                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

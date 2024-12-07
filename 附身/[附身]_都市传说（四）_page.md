@@ -7,7 +7,7 @@ TXT 下载: [[附身]_都市传说（四）.doc]([附身]_都市传说（四）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及都市传说的小说，围绕角色杜漫妮的旅途展开。故事开始时，杜漫妮独自坐在一架私人飞机上，心中充满了恐慌与恐高的情绪。随着情节的发展，角色之间的互动频繁，尤其是杜漫妮与李青青的关系。文中描绘了杜漫妮感受身体变化后的疑虑与适应，她在飞机上对自己新身份的接受以及由此带来的复杂情感，巧妙交织了性别认同、自我探索的主题。同时，故事中涉及情感的细腻描写与心理活动，比如杜漫妮对食物的厌恶，和反复提及的挤奶过程，都暗示着她对身体变化的不适。最终，杜漫妮与她的家人、朋友的相聚，以及在这一过程中所引发的情感碰撞，使得整个故事更添浓厚的人际关系色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_都市传说（四）.doc]([附身]_都市传说（四）.
 | Size            | 59904 bytes                           |
 | MD5             | d2cfeec3335d33daea184cf48e2c1cde                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 都市传说, 自我探索, 情感关系, 女性视角, 绝美容颜, 飞机旅程, 身体变化, 深邃太平洋, 情感碰撞, 李青青, 杜漫妮, 家庭聚会, 两性关系, 私人飞机, 成长与适应, 内心冲突, 美食厌恶, 情感细腻描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

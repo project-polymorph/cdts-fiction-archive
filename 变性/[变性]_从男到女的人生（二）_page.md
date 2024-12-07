@@ -7,7 +7,7 @@ TXT 下载: [[变性]_从男到女的人生（二）.doc]([变性]_从男到女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一名男子决定通过手术变性为女性的故事，叙述了他在决策过程中的内心挣扎及与父母的沟通。主人公在电话中向母亲表达了自己的决定：“我决定了，我要做女人”，随后经历了一场心理建设过程，最终决定进行变性手术。在前往医院的途中，他回忆起与前女友的聊天记录，内心感到痛苦，却又无奈地选择删除这些过去的痕迹。手术前，他和父母的沉默对话凸显出这种家庭中的复杂情感和社会期望。在手术前的任何思考中，他逐渐意识到，尽管对未来感到陌生，但无论如何，都将开始重新生活。手术后的康复期间，他逐渐接受了新的身份，并对自己身体的改变充满了矛盾的感觉，最终在看向自己新身体的那一刻感受到了震撼与自我认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_从男到女的人生（二）.doc]([变性]_从男到女�
 | Size            | 53248 bytes                           |
 | MD5             | ccdc608163e5fab61c39206fc39d8d7d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 自我认同, 性别转换, 家庭关系, 心理建设, 变装, 医疗手术, 情感变化, 跨性别, 人生重启, 女性身体, 男娘, 女性视角, 心灵挣扎, 情感断裂, 社会认同, 性别认同, 探索身体, 二次元幻想, 情感纠葛, 现代都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

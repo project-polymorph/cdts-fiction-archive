@@ -7,7 +7,7 @@ TXT 下载: [[其他]_《我的魔头老婆》1~3章.doc]([其他]_《我的魔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别与变身主题的小说《我的魔头老婆》中的前3章。故事围绕主角江凡展开，他在一场意外后，意识到自己在一个名为尘嵇界的异世界中醒来。醒来时，他发现自己的身体发生了变化，从男性变为女性，并伴随身体上的一系列生理变化。主角发现在这样的身体状态中，体内却并没有源气可用。他怀疑自己被女魔头白玥的神通附身，并感受到身体的变化带来的微妙刺激。随即，江凡还发现了自己在此世界中的亲人，包括他的姐姐姜丹和奶奶，并揭示了自己过去的生活以及与女魔头的复杂关系。文件详细描写了江凡的身体感受及内心挣扎，同时也引入了一些亲情的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_《我的魔头老婆》1~3章.doc]([其他]_《我的魔�
 | Size            | 44032 bytes                           |
 | MD5             | f457e7ba3f569080e2b1690471060392                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 穿越, 异世界, 女魔头, 自我认知, 亲情, 灵魂附身, 强奸, 情感纠葛, 冒险, 奇幻, 性别认同, 痛苦经历, 情绪冲突, 女尊, 男角色扮女角色, 心灵探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

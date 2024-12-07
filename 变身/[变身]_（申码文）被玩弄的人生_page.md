@@ -7,7 +7,7 @@ TXT 下载: [[变身]_（申码文）被玩弄的人生.doc]([变身]_（申码�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《被玩弄的人生》，从内容来看，讲述了一位男生与其学姐之间错综复杂的关系，包含了性别认同与情感探索的元素。故事的主角在日常生活中逐渐发现自己对女性外表及特质的迷恋，并和外表吸引力十足的学姐发生互动。从一开始的好奇与嫉妒，到后来的相互吸引以及涉及到的情感与身体接触，文本描绘了主角性别角色认同的微妙变化。故事中，学姐受伤需要帮助，而男主则以特殊的身份与学姐共度了一段情感升温的时光，最终引出了更深层次的情感与暗示。文本中穿插了大量的情感描写与身体互动的细节，展现了角色之间的争执与欲望的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_（申码文）被玩弄的人生.doc]([变身]_（申码�
 | Size            | 79360 bytes                           |
 | MD5             | 7c73948441bb7c879b3b1ff38b3d7ef7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 情感探索, 伪娘, 校园爱情, 强烈的吸引力, 身体接触, 女权与性别, 性转换, 心理挣扎, 诱惑, SM, 校园青春, 美丽与嫉妒, 同性之爱, 自我认知, 变化与转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

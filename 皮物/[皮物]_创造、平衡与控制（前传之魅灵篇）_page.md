@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_创造、平衡与控制（前传之魅灵篇）.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《创造、平衡与控制（前传之魅灵篇）》的草稿，主要讲述了一位名叫小乔的角色在经历时间流逝后，如何通过魔法的力量重返青春的故事。故事开篇，小乔看到自己渐渐老去的容颜，回忆起往昔的美丽，引发了对时间的无奈。此时，一个神秘的黑衣女子出现在她背后，声称能够帮助她重返年轻。小乔在毫无防备的情况下，被神秘女子所吸引，随即感到身体无法动弹，而她的灵魂与身体的交换，令她经历了一次奇异的蜕变。
+
+随着情节的发展，黑衣女子化身小乔，企图通过伪装来接近权谋者曹操，并借助他的力量恢复自己的魔力。文中描绘了小乔的身体与灵魂交替，以及她与曹操之间的复杂关系。在小乔化为曹操心目中的完美女人后，两人展开了纠结而充满欲望的互动。这篇前传不仅引入了角色的背景，同时也设定了后续故事的核心冲突与剧情推动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_创造、平衡与控制（前传之魅灵篇）.doc]([皮
 | Size            | 32768 bytes                           |
 | MD5             | 12b9cf07dd766e771c2285368e7edd7f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 魔法, 跨性别, 伪娘, 古代, 权谋, 性别认同, 女性形象, 时光倒流, 妖术, 权力游戏, 生死轮回, 女主, 魅灵, 三国                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]【化物语】仲夏夜之恋——老师的秘密#_.doc](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《化物语》仲夏夜之恋——老师的秘密，内容主要围绕一名少年小七与其心仪的老师薇薇安之间的情感纠葛与自我探索。小七在学校中遭受欺凌，内心充满对薇薇安老师的暗恋与依赖。在一段梦境般的情节中，小七幻想与老师的互动，描绘了其内心羞涩与渴望的复杂情感。文中通过细腻的描写展现了仲夏夜的氛围，少年对老师温情的注视，以及内心对被爱的渴望。同时少年的烦恼与成长也在故事中得到了反映，包括对学校环境的不适应与家长的期望。整体而言，该作品融合了青春成长、情感探索及部分性别转换的主题，但文中略有一些成人情节的暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]【化物语】仲夏夜之恋——老师的秘密#_.doc](
 | Size            | 65536 bytes                           |
 | MD5             | 4a450ae7fea03c7adfc58030e3642c9b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 青春成长, 师生恋, 自我探索, 暗恋, 校园生活, 情感纠葛, 梦境, 内心独白, 性骚扰, 青春期烦恼, 少男心绪, 贵族学校, 感情冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

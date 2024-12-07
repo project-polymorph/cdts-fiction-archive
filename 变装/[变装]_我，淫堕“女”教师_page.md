@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我，淫堕“女”教师.doc]([变装]_我，淫堕“�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇围绕性别认同及性转主题的小说，讲述了男主角李思作为一名女教师的日常生活，以及他在性别身份上的自我探索与悖论。文中描述了李思执教期间与学生王勇的互动，透过王勇对李思的调侃和他内心的挣扎，体现了他对自身身份的困惑和向往。随着情节的发展，李思逐渐被自己内心暗藏的欲望所吸引，沉迷于一系列性幻想与情感冲突。在校园这个矛盾与张力并存的环境中，李思经历了从男性到女性的心理转变，伴随着压抑情感的爆发与对自我身份的彻底认同。通过流畅的叙述与细腻的心理描写，小说探讨了性别角色与自我认同的复杂关系，以及在这样的身份背景下的情感冲突与欲望解放。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我，淫堕“女”教师.doc]([变装]_我，淫堕“�
 | Size            | 102912 bytes                           |
 | MD5             | 60ebe3abb416fa51c21c10c9513189e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 东方美穗子                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-02-03                                 |
+| Tags            | 性转, 跨性别, 伪娘, 欲望探索, 自我认同, 教师, 学生关系, 性幻想, 校园生活, 情感纠葛, 心理冲突, 禁忌内容, 角色发展, 社会认同, 女性视角, 占有欲, 秘密生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

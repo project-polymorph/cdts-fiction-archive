@@ -7,7 +7,7 @@ TXT 下载: [[附身]_移魂咒（啦啦隊篇）.docx]([附身]_移魂咒（啦
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《移魂咒（啦啦隊篇）》，内容主要围绕一名大学生李启的校园生活及其偶然获得的一个神秘咒语，能够将其灵魂转移至他人身体。故事开篇，李启与朋友讨论翘课的计划，表现出对啦啦队表演的好奇与期待。这时，李启收到来自一个名为中国符咒协会的短信，内容涉及一个可以让灵魂转移的咒语。他出于好奇，尝试按咒语进行实验，结果成功地转移了灵魂，进入了一位名为啊美的女生的身体。在新的身体里，李启经历了一系列搞笑和尴尬的情境，逐渐适应了女性的形象和感受。文章描绘了角色的自我认知和身份转变过程，同时融入了校园生活与青春的元素，展现了对性别认同和外貌变化的深刻探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_移魂咒（啦啦隊篇）.docx]([附身]_移魂咒（啦
 | Size            | 23536 bytes                           |
 | MD5             | 94422439400e00402deea56e08637dd2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 校园, 啦啦队, 灵魂转移, 自我认同, 青春, 搞笑, 奇幻, 咒语, 男变女, 女性视角, 角色扮演, 身体交换, 二次元, 成长故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_混迹末世1+2.docx]([皮物]_混迹末世1+2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《混迹末世》的前两章，讲述了主人公王安与其女友小小在圣诞节期间的日常生活和一场发生在他们身边的神秘事件。故事开始于2017年12月25日，王安和小小在街头庆祝圣诞节，期间两人的恋爱互动以及对未来的憧憬展现了年轻人的恋爱心态。随着剧情的发展，王安偶然发现了一款神秘手机，上面显示了‘欢迎来到末日世界’的信息，随后周围的环境也发生了令人不安的变化，这样的设定掀起了一场奇幻与末世的冒险。在小说中，不光有甜蜜的爱情描写，也包含了一些可能的伦理与情感冲突，人物的心理活动与性感情描写相辅相成，并揭示了末世背景下角色的新挑战与转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_混迹末世1+2.docx]([皮物]_混迹末世1+2.docx)
 | Size            | 26675 bytes                           |
 | MD5             | 5f04f33a71073a86fff1a80bf7306fb2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 末日, 奇幻, 校园, NTR, 恋爱, 冒险, 自我认知, 跨性别, 强奸, 调教, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

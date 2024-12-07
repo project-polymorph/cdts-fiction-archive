@@ -7,7 +7,7 @@ TXT 下载: [[催眠]青儿的武侠世界（8-10）.doc]([催眠]青儿的武�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《青儿的武侠世界》的小说第八至第十章，作者是季青。小说以武侠为背景，结合了穿越与变身的元素，讲述了一名角色在武侠世界中的冒险经历。书中涉及到角色的自我修炼，特别是通过吸收太阳能量提升自身功力，同时也与其他角色的互动，比如与女子武者的相遇，以及后续的情节发展如寻找敌人的复仇。这部作品富含创意，描绘了角色在武功和个人成长之间寻求平衡的过程。文中提到的角色如梅超风等，增添了经典武侠小说的色彩，同时故事中对时间与空间的穿插，也展示了作者对设定的大胆想象。而整部作品可能会涉及一些限制级的内容，但在此文本中并未显现，主要集中在角色的冒险与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]青儿的武侠世界（8-10）.doc]([催眠]青儿的武�
 | Size            | 90624 bytes                           |
 | MD5             | 25105cc91fa72e53a5a7ca5a69512bdb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 季青                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 穿越, 武侠, 变身, 自我修炼, 角色互动, 冒险, 女性武者, 小说, 原创, 星河, 异世界, 主线任务, 战斗, 报仇, 能量吸收, 古代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

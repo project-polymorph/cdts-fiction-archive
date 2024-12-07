@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鹰枭乱十三（深渊）_(2).docx]([改造]_鹰枭乱�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件内容为一部关于性别转换和自我探索的小说，围绕男警官李愿翔在一场意外后经历性别转变的故事。故事设定在一个充满欲望与阴谋的环境中，李愿翔在经历药物影响后逐渐接受自己作为女性的身份，对周围男性的吸引力感到矛盾又迷醉。在与局长和同事的互动中，李愿翔开始体验女性特有的身体感受与情感纠葛。作品中涉及强奸和调教的情节，充分展现了性别困惑与角色认同的主题。文中有多次对李愿翔身体和心理状态的描绘，展现了他对自我身份的挣扎与接受，最终决定是否在新身份中继续生活。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鹰枭乱十三（深渊）_(2).docx]([改造]_鹰枭乱�
 | Size            | 26889 bytes                           |
 | MD5             | 7a4905588a7e2f407e42195da6a58d88                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 男变女, 性别转化, 跨性别, 自我探索, 伪娘, 强奸, 调教, 角色认同, 两性关系, 情感纠葛, 性欲, 都市故事, 阴谋与欲望, 药物影响, 身体意识, 羞耻与自我接受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

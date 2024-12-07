@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_番多拉魔盒《外篇：“六一”进行时：中》.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是有关一位名为翔龙的男性角色与他的女友海欣之间的情感互动，以及与性别变身主题相关的情节。翔龙被女友海欣赠送了一件特别制作的人皮外衣，旨在让他体验成女性的感觉。在对话中，海欣兴奋地描述这件人皮外衣是以翔龙13岁女装照为蓝本制作的，细致地介绍了通过《潘多拉魔盒》内置的《九天息壤》软件进行的修改与设计。故事中翔龙对穿上这件人皮外衣感到抵触，但内心深处依然隐藏着对变身成小萝莉角色的好奇与期待。随着情节发展，翔龙最终在没有外人在场的情况下决定尝试穿上人皮外衣，体验变身的奇妙感觉。这其中描写了翔龙穿上人皮外衣后的直观感受，以及和海欣之间的亲密互动，展现了角色对性别认同与自我探索的情感经历。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_番多拉魔盒《外篇：“六一”进行时：中》.
 | Size            | 21011 bytes                           |
 | MD5             | 386358e9bce39ecd521cc24e0dbe85c3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 苍茫                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 男娘, 变身, 恋爱关系, 纯爱, 逆后宫, 萝莉控, 人皮外衣, 角色扮演, 自我认同, 情感探索, 心理变换, 二次元, 奇幻, 魔法, 魔法少女, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

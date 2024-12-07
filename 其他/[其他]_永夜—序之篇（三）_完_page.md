@@ -7,7 +7,7 @@ TXT 下载: [[其他]_永夜—序之篇（三）_完.doc]([其他]_永夜—序
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《永夜—序之篇（三）》是一部结合了奇幻与情感冲突的小说。故事围绕着一名角色的灵魂转变与复仇展开。在文中，角色经历了复杂的情感波动，先是失去了亲人，面临着自我认知的挑战。在文本的前言中，角色的"魂体漂浮在空气里，他成功了，成为了噬魂之蛊"，展现了奇幻元素及他俩族之间的血腥历史。在后续的情节中，角色的内心独白揭示了对已故亲人的怀念与对仇敌的强烈仇恨。他的父亲手段残忍，最终导致族长的死，角色在痛苦与愤怒中逐渐进入对灵魂的吞噬与仇杀。故事中的强烈情感描绘及角色间纠结的关系，营造了一种跌宕起伏的戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_永夜—序之篇（三）_完.doc]([其他]_永夜—序
 | Size            | 41984 bytes                           |
 | MD5             | 9c0a3f439293b1ccb00b6ff2a4e3b08a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 噬魂, 复仇, 情感冲突, 灵魂转变, 家族纠葛, 失落与绝望, 强暴与同情, 传统族规, 角色转变, 群体关系, 奇幻文学, 自我探索, 阿花与杜鹃, 故事中的阴暗面, 权力斗争, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

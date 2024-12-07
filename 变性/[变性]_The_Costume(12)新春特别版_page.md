@@ -7,7 +7,9 @@ TXT 下载: [[变性]_The_Costume(12)新春特别版.docx]([变性]_The_Costume(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说以特蕾西为主角，描绘了她在转变为女性后的生活及内心挣扎。故事发生在一个商场，特蕾西在购物时沉醉于挑选适合自己的服饰和妆容，展现了她对女性形象的向往与认同。小说中详细描述了她购买的一件黑色礼服和一双高跟鞋，以及搭配的内衣和化妆品的过程，体现了她对外表的重视和女性化生活的逐渐接受。
+
+随着购物的进行，特蕾西与她的室友苏珊的对话进一步揭示了她内心的矛盾和对性别转换的思考。特蕾西在社交和约会中的期待，以及对自己身为女性的心态变化，逐渐上的理性与情感的交织。特蕾西对于即将到来的与杰夫的约会充满期待，同时又隐约感到未来的不确定性。在紧张和快乐交织的情感中，她体验着作为女性的种种感觉与挑战，体现了性别认同自我探索的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_The_Costume(12)新春特别版.docx]([变性]_The_Costume(
 | Size            | 22533 bytes                           |
 | MD5             | aa9d907748fcd379c01aacd0457e81cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 购物狂欢, 情感探讨, 内心挣扎, 女性形象, 约会, 社交生活, 转变认同, 角色冲突, 情感牵绊, 服装搭配, 化妆品, 恋爱, 自我认知, 性别认同, 女性视角, 转变故事, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

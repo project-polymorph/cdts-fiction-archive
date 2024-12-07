@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_馆主的秘密(根据游戏动漫区的Masking改编).doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘主题的小说，讲述了一位少年对道馆馆主的崇拜与挑战。在故事中，少年男扮女装，穿着肉色裤袜及裙装，展现出对女性形象的憧憬和对角色的自我认同。文本描绘了少年的内心活动及其与另一位少年在道馆内的互动，透出性别认同与自我探索的主题。故事情节充满了性转和变装元素，探讨了角色穿越性别界限的心理变化和欲望。特定的情节包含了对伪装的细致描绘和对身体变化的描述，展现了少年通过特殊内衣和人皮套装达到女性形象的心路历程，言辞挑逗而富有想象力，引导读者进入一个性别角色混合的幻想世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_馆主的秘密(根据游戏动漫区的Masking改编).doc
 | Size            | 22715 bytes                           |
 | MD5             | 96decbf6797b2953e52e730fe4e5c824                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别转换, 伪娘, 自我探索, 幻想文学, 性别认同, 道馆, 互动故事, 内衣, 人皮套装, 角色扮演, 二次元文化, 性转小说, 青春, 情感纠葛, 探索欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

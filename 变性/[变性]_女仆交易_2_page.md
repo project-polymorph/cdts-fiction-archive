@@ -7,7 +7,7 @@ TXT 下载: [[变性]_女仆交易_2.doc]([变性]_女仆交易_2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个名为路易斯的角色被雇为私人助理兼女仆的故事。雇主N女士向路易斯介绍了这份工作，承诺丰厚的薪资和福利，并提供了免费的住处。在工作的初始阶段，路易斯将不得不适应穿着女仆制服的安排，尽管他有些抵触。N女士详细说明了各种工作制服，包括晨间、下午及夜间的不同女仆制服，强调路易斯的职责包括家务、照顾她的生活等。服装的细节描写包括了裙子的特点、衬裙以及内衣的要求，这体现了角色内心的挣扎与逐步接受的新身份。文件中包含了雇佣合同的内容以及对女仆工作环境和服装的详细描述，展示了角色在新生活中的转变与适应过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_女仆交易_2.doc]([变性]_女仆交易_2.doc)
 | Size            | 48128 bytes                           |
 | MD5             | ad1577ae63a29d0508354907666b3812                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 女仆, 伪娘, 转变, 性别认同, 工作制服, 家务, 生活适应, 女性形象, 私密服务, 角色扮演, 性别角色, 自我认知, 幻想, 雇佣合同, 故事情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【申码文重发】大学记1.doc]([变身]_【申码文
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《大学记1》是作者人生万花筒创作的一部性转小说，讲述了主人公李冰在大学生活中的奇幻经历。故事从他大二的某个夜晚开始，这位被誉为校草的男生李冰，因室友周兵的邀请，意外地尝试了一种实验性药水，结果身体发生了剧烈的变革，逐渐转变为女性。在这一过程中，李冰经历了身体和心理上的巨大冲击，从强烈的恐慌到无奈的配合，穿插着对性别认同和自身变化的反思。随着李冰身体的变化，他不得不面对一系列奇怪而又尴尬的事情，包括不适应的身体感觉以及由此引发的亲密关系。故事通过李冰的第一人称视角展现了性别角色的流动性与复杂性，以及对自我认同的探索。文中涉及许多生动细节，通过李冰与周兵间的互动，描绘出当面对突如其来的变化时的无助与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【申码文重发】大学记1.doc]([变身]_【申码文
 | Size            | 47104 bytes                           |
 | MD5             | 427f41aeb54cff465382315462ee2ee1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 人生万花筒                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, 校园, 青春, 药物改造, 自我探索, 感情冲突, 男娘, 伪娘, 爱情, 身体变化, 奇幻元素, 情感纠葛, 刺激内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

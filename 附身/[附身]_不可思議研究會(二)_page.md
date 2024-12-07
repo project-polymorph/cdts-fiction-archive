@@ -7,7 +7,7 @@ TXT 下载: [[附身]_不可思議研究會(二).doc]([附身]_不可思議研�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于不可思议研究会的二次元性转小说，故事围绕主角钱浩的超自然探索经历展开。在讲述中，钱浩在一次探险中意外跌落山崖，之后与一个黑暗神秘存在签订灵魂契约，从而获得「重身」的能力。钱浩能够控制他人的身体，实现自己的欲望，并在校园中与好友们展开了各种关系。文件详细描绘了不同角色之间错综复杂的关系与情感，例如周巧眉作为钱浩的副社长，受控于钱浩的灵魂，逐渐展现出与其身份不符的性格变化，以及铁平和楊展等人如何参与其中，享受对女性角色的支配。尽管本作涉及一些禁忌话题，如性控制与欲望，它在刻画角色的内心挣扎和社会互动方面也反映了现代大学生活的某些侧面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_不可思議研究會(二).doc]([附身]_不可思議研�
 | Size            | 61952 bytes                           |
 | MD5             | 0c782ffe916bb2e41fdd061f89b890be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS, 性转, 超自然, 校园生活, 灵魂契约, 禁忌情感, 角色控制, 自我探索, 性别认同, 小说改编, 多重身份, 感官体验, 校园社团, 女性角色塑造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

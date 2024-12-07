@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_试衣间.docx]([皮物]_试衣间.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部包含伪娘与变身主题的小说，主要讲述了两个女高中生梨沙和武美一起购物的情节。在试衣间内，梨沙试穿连衣裙时，陷入了奇异的状况，试衣间里出现了紫色触手，这些触手不仅对她的身体形成了控制，还引发了一系列奇妙而奇幻的性别转换和意识控制的情节。小说的叙述运用了大量的生动描述，尤其是在梨沙的感知与武美的对话之间构建了一种紧张的氛围，同时探讨了性别认同与身体变形的主题。文件中提到梨沙和武美之间的亲密关系，以及梨沙在试衣间被触手控制后的独特经历。整体上，这部作品融合了变身、伪娘、以及奇幻元素，挑战了传统性别观念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_试衣间.docx]([皮物]_试衣间.docx)
 | Size            | 19973 bytes                           |
 | MD5             | e1eb436114518874a5d8f99cb8fcb7c9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 触手, 性别认同, 幻想, 二次元, 女性视角, 学生, 购物, 亲密关系, 触觉, 自我探索, 奇幻, 黑暗幻想, 超自然, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

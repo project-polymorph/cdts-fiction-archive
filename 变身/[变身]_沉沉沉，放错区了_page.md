@@ -7,7 +7,7 @@ TXT 下载: [[变身]_沉沉沉，放错区了.doc]([变身]_沉沉沉，放错�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是作者构思的一篇短文，讲述了主角陆宁在异世界逐渐由猛男堕落成娼妇的故事。故事开篇描绘了一起爆炸事件后，陆宁等一群学生在异世界醒来，面对未知的环境和失去联系的现实，感受到强烈的迷茫与恐惧。陆宁的朋友李亚男成为其重要的支持者，两人努力适应这个新奇的环境，并开始探索周围的情况。文中对角色之间复杂的关系和情感进行了细致的展现，并通过人物对话和内心挣扎，展示了他们在异-world中的生存挑战。故事情节的发展伴随着逐步的变身与自我认知的转变，属于性转与变身小说的一部分。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_沉沉沉，放错区了.doc]([变身]_沉沉沉，放错�
 | Size            | 31744 bytes                           |
 | MD5             | 01d76ec1c5d993417019816acd2b3a8c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异世界, 性转, 变身, 自我探索, 雌堕, 校园, 友情, 冒险, 探索, 困难挣扎, 青春, 社会关系, 角色发展, 未知世界, 觉醒                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

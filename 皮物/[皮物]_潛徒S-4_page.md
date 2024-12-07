@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_潛徒S-4.doc]([皮物]_潛徒S-4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《潛徒S-4》是一部围绕黄董事与白总监之间复杂关系的虚构小说。故事开头，黄董事是一位年轻且外表吸引人的高管，因其富二代背景受到非议。他的生活看似光鲜，实则内心对沉迷夜生活感到厌倦。在一次与白总监的不寻常会面中，醉酒的白总监向黄董事表露了自己的情感和性向，引发了一系列的情感冲突与性张力。
+
+小说详细描绘了黄董事的内心挣扎以及对白总监的复杂情感。他感受到在白总监身上那种难以捉摸的魅力，尤其是在她放纵自我的瞬间。小说中充满了对性别、权力、情欲的深刻探讨，场景中渗透着不同的情感与身体冲突，使角色在欲望和理智之间反复挣扎。最终，故事以一场非自愿的性行为和随之而来的情感混乱结束，白总监的真实身份和目的令人不安，使得整个故事充满悬念与反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_潛徒S-4.doc]([皮物]_潛徒S-4.doc)
 | Size            | 38912 bytes                           |
 | MD5             | 13e6747b6bea7780e2b25b1042fd43a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 强奸, 乱伦, 调教, 逆后宫, 强迫, 权力斗争, 自我认同, 情欲, 复杂关系, 醉酒, 职场, 女性视角, 都市幻想, 黑暗爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

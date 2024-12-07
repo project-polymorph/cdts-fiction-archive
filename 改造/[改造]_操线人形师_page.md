@@ -7,7 +7,7 @@ TXT 下载: [[改造]_操线人形师.doc]([改造]_操线人形师.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇伪娘 TS 变身与跨性别相关的小说，讲述了主角于林在假期期间与一位邻镇女网友葵姐的奇妙遭遇。故事开始时，于林正处于无聊的假期，接受了葵姐的邀请前往她的玩偶商店。在地下室，葵姐向于林展示了一些等身大的玩偶，并声称她是一个可以用丝线操控人偶的魔女。随之而来的情节则展示了葵姐对于林的控制欲望，以及她用药物和魔法将于林转变成她所期望的“玩具”。情节中包含大量性别认同与人形玩偶的异化探索，展现了对自我认知与他者控制之间的真实冲突，带有一定惊悚和色情的描写。文中有将角色的身体和意志进行彻底改造的情节，涉及许多强烈的情感和身体的痛苦体验，引起读者的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_操线人形师.doc]([改造]_操线人形师.doc)
 | Size            | 42496 bytes                           |
 | MD5             | 4b3eff5fa96c97c8d4af509c936869b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 操线人形师, 控制欲, 魔法, 自我认知, 人偶, 性别认同, 玩具, 惊悚, 性转, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

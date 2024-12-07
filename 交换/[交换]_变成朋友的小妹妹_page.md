@@ -7,7 +7,7 @@ TXT 下载: [[交换]_变成朋友的小妹妹.doc]([交换]_变成朋友的小�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《变成朋友的小妹妹》，描述了一段围绕好友和小女孩之间关系变化的故事。故事的主人公原本是一个普通的男孩，突然他的好友来拜访，但是由于住处的空间有限，好友决定在沙发上睡觉。之后，主人公渐渐发现好友的行为开始变得异常；他喜欢上吃甜品，爱看儿童动画，并且表现得活泼可爱。主人公的好奇心驱使他探寻好友的变化，最终在小女孩拜访后，发现女孩子与好友有着似曾相识的感觉。随着故事发展，主人公的身体与好友的小妹妹互换，导致他不得不面对自己在小女孩身体中的身份认知与自身性别的麻木与混乱。整篇文章通过幽默的对话与奇妙的情节展现了性别和身份认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_变成朋友的小妹妹.doc]([交换]_变成朋友的小�
 | Size            | 33280 bytes                           |
 | MD5             | 41455a6d36ab7675cb947ec7be3145b5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 性转, 奇幻, 自我探索, 性别认同, 兄妹情, 性别转换, 幼女, 心理斗争, 幽默, 逆后宫, 强烈对比, 青春成长, 角色扮演, 情感纠葛, 童年回忆, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_102.docx]([改造]_把男朋�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档的内容是关于一部伪娘/男娘小说的第102章，围绕着两位角色贝丽和坎迪在美容沙龙的经历。贝丽看到她的妹妹坎迪通过美容变得更加迷人，贝丽本人对此感到矛盾和不安。在沙龙中，贝丽对自己即将进行的美容项目感到紧张，尤其是关于丰唇的想法让她感到自我认知的冲突。
+
+故事中，贝丽和坎迪之间的互动体现了姐妹之间的亲密关系，坎迪的自信和积极向上的态度对贝丽产生了一定的影响。她们讨论妆容和时尚，同时也引入了关于她们与父亲的关系及如何迎合他的喜好的话题，展示了角色内心的挣扎和对自我形象的探索。文中的对话揭示了她们对男性外貌标准的适应，同时也隐含着潜在的性别认同和角色认知的转变。整体情节展现了美丽、女性化以及家庭关系的多重复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_102.docx]([改造]_把男朋�
 | Size            | 28313 bytes                           |
 | MD5             | 294af614411193ac3705e25fa9d78e4e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 美容, 姐妹情深, 自我探索, 变装, 性别认同, 时尚, 角色转换, 家庭关系, 青春期, 怪物女孩, 奇幻, 情感冲突, 社会期待, 男性化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【电脑对面的女孩~中篇目】.doc]([皮物]_【电
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《电脑对面的女孩~中篇》讲述了薇薇安，一位电台主持人的成长故事。起初，薇薇安在电台老板山姆眼中显得不够出色，但由于她的认真与努力，逐渐赢得了山姆的认可。在节目中，她花大量时间准备，逐步提升了自己的主持技巧，吸引了更多听众。故事不仅描绘了她的职业生涯，还涉及她与老板之间的暧昧关系，其中包括多次亲密接触和情感交流。文中描绘了薇薇安的性感外表与独特魅力，展示了她如何通过穿着高跟鞋和打扮来展现女性特质。随着情节的发展，薇薇安在职场与个人生活中不断探索自我认同，体现了一种性别角色与自我审视的转变。作品中细致地描写了身体美与性别身份的结合，并包含了一些限制级的情节，表现出她在探索爱的过程中遇到的心理挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【电脑对面的女孩~中篇目】.doc]([皮物]_【电
 | Size            | 41984 bytes                           |
 | MD5             | cf6a9ef8a345b3903f44fb73433861e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 爱情, 职场关系, 暧昧, 成长故事, 电台, 女性情感, 甜蜜, 诱惑, 自我探索, 高跟鞋, 性感, 互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

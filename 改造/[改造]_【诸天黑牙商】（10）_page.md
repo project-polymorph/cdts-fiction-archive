@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【诸天黑牙商】（10）.doc]([改造]_【诸天黑�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于段誉与王梦易之间关系发展的章节，背景设定在一个充满武侠色彩的古代世界。故事围绕男主段誉的情感纠葛展开，他对多位女性角色的情感倾向，与其面临的自我认知冲突相互交织。文中描写段誉与伪娘王梦易相识，王梦易为了成为女性而经历了变身的过程，并在此过程中与段誉的互动较为频繁。段誉在跟随王梦易游历时，表现出了对她的深厚情感，特别是在看到王梦易后形成的“神仙姐姐”形象，加深了他的追求欲望。内容中夹杂着调侃与对角色内心挣扎的讨论，同时也提及了段誉对女性角色的迷恋，以及文中对于情爱、性别认同等主题的描写。整体情节发展较为细腻，富有戏剧性，提供了对复杂情感与性别认同探索的多层次理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【诸天黑牙商】（10）.doc]([改造]_【诸天黑�
 | Size            | 38400 bytes                           |
 | MD5             | 2b95679f01cded82fe304c635ec9b3f2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 段誉, 王梦易, 古代武侠, 性别认同, 情感纠葛, 单恋, 自我探索, 神仙姐姐, 强烈情感体验, NTR, 纯爱, 变嫁, 戏剧性, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

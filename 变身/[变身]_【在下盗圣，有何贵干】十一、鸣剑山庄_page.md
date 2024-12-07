@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】十一、鸣剑山庄.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个跨性别与变身主题的小说，故事的背景设定在一个充满江湖侠义的古代世界。文本从一位江湖说书人讲述的故事开始，叙述了少年英雄楚飞与鸣剑山庄少庄主游龙青联手剿灭淫贼田不光的英雄事迹。在故事中，不仅揭示了楚飞的侠义之举，还暗示了盗圣的真实身份可能是一位女子。这名女贼的外表和声线吸引了众多茶客的关注，展现了角色间复杂的人际关系。随着情节的发展，游龙青对楚飞的情感逐渐透露，与小白和小青之间的互动也显得微妙而复杂。小说探索了性别流动和自我认同的主题，潜在的情感关系不断升华，最终提及了在鸣剑山庄这样的场合中，身为女子的角色面临的挑战与期望。文中对于角色的描写生动细腻，特别是在讨论剑法最高境界的部分，展示了人物内心的哲学思考与情感交错。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】十一、鸣剑山庄.doc
 | Size            | 40960 bytes                           |
 | MD5             | 83044be0165b57a70c8bba9e459f88a4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 江湖, 侠义, 女性角色, 性别认同, 武侠, 阴阳, 情感关系, 盗圣, 侠盗, 自我探索, 武功, 性别流动, 爱情, 古代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

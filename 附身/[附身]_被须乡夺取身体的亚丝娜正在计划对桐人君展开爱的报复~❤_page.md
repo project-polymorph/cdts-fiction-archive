@@ -7,7 +7,7 @@ TXT 下载: [[附身]_被须乡夺取身体的亚丝娜正在计划对桐人君�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘 TS 变身与跨性别相关的小说，主要围绕角色须乡伸之的冒险展开。故事开始于电子世界，须乡伸之因其非法人脑实验而被捕，幸而他在被逮捕前将自己的记忆备份到一张软盘中，然后将备份转移到了虚拟的ALO世界中。为了实现他对结城明日奈（亚丝娜）的控制和复仇，他需要利用游戏中的特权账户去操纵他人，包括他曾经深爱的女主角。整部作品探讨了自我认知、身体和性别的变化带来的矛盾与冲突，揭示了人物内心对于自由与控制的思考。整部作品共五章，字数约为2万字，故事情节复杂，交织着科技、心理和伦理的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_被须乡夺取身体的亚丝娜正在计划对桐人君�
 | Size            | 52664 bytes                           |
 | MD5             | 4be4dcdd9f1e1eac3ad6b11661fa6d17                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 一舸烟雨                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性别认同, 自我探索, 爱情, 阴暗科技, 网络世界, AI, 操控, 复仇, 心理斗争, 情感纠葛, 反派角色, 虚拟现实, 绝对权力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《蛇媚》(第二章·做美女的购物狂欢).docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为伪娘/男娘题材的变身小说，主要描绘了角色【菲菲】在变身为女性后的购物冒险。故事从菲菲决定出门开始，她通过穿丝袜和裙子进入了女性角色的心境。随着故事的发展，菲菲在内心深处对于自己的新身份感到兴奋和淫欲。她在商场内游荡，体验着作为女孩的生活，特别是在内衣店的购物过程，让她体会到被夸赞和关注的感觉。文本中包含了对她外貌、身材的描写，以及她与导购员之间的互动，展现了她的羞涩与自信。整段体验充满了对于女性角色的幻想和对新身份的享受，同时也隐含了对性别认同和自我接受的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《蛇媚》(第二章·做美女的购物狂欢).docx]([�
 | Size            | 23608 bytes                           |
 | MD5             | 6e7ac17d53e8d6f3d18f42ba022343ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 购物狂欢, 性别认同, 跨性别, 女性视角, 甜蜜骚荡, 性感内衣, 青春诱惑, 奇幻冒险, 自我探索, 美丽幻想, 情感纠葛, 内心独白, 女性角色, 心理转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

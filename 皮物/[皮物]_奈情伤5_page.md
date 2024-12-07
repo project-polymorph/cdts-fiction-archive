@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_奈情伤5.docx]([皮物]_奈情伤5.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部关于性别转变的小说，讲述了主人公林雨莫的变身过程，以及他在变身后的心理和生理变化。在故事的第五章中，林雨莫经历了痛苦的蜕变过程，逐渐变成了一名少女，家人们目睹这一过程感到震惊。这一章详细描绘了他从男孩转变为女孩的戏剧化场景，其中包含了对人物内心斗争的刻画，如林雨莫对自己新身份的恐惧与不安。在改变的过程中，还有家庭成员对他状态的关心及努力救助的情节，表现出家庭之间的深厚情感和无奈。此外，作品中包含了一些可能的限制级描述和情节，涉及生死、重生等主题，亦有对性别认同与自我探索的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_奈情伤5.docx]([皮物]_奈情伤5.docx)
 | Size            | 20534 bytes                           |
 | MD5             | cfee2ecf3690929344a3dc4573a65df7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 家庭关系, 超自然, 朦胧爱情, 生死, 重生, 自我认同, 青春, 奇幻, 男娘, 触碰禁忌, 心灵变化, 幻想元素, 女体化, 人皮                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

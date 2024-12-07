@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女之少女日记_2.doc]([改造]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件为一篇名为《少女日记2：我是如何在同一天成为妈妈和妹妹的？》的小说节选，小说以第一人称的视角描绘了一个男孩在变身为女孩后的日常生活。故事的叙述者展示了与闺蜜坎迪的亲密友情以及共同的时尚爱好。在日记中，叙述者分享了她们的购物经历，买了许多漂亮衣服并进行了化妆和穿着搭配。她们还分享了关于梦想结婚的讨论，包括一些关于未来理想伴侣的想法。此外，故事中提到的家庭关系，尤其是叙述者与“妈咪”的亲密互动，以及对过去美好记忆的怀念，营造了情感丰韵的氛围。文本中涉及了许多时尚、妆容和社交活动，表现出变性主人公的新生活方式。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女之少女日记_2.doc]([改造]
 | Size            | 31744 bytes                           |
 | MD5             | a0b8172f83c698e464415311e260a462                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | cdbaby                               |
+| Region          | 未知                               |
+| Date            | 2021-04-06                                 |
+| Tags            | 女性视角, 伪娘, 变身小说, 青春, 时尚, 梦想婚礼, 社交, 情感成长, 家庭关系, 闺蜜友情, 性别认同, 自我探索, 变嫁, 美妆教程, 生活日记, 娱乐                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

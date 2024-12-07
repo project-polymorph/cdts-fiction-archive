@@ -7,7 +7,7 @@ TXT 下载: [[附身]_小子，你怎是女人！〔正篇〕（二）婚夜，�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《小子，你怎是女人！〔正篇〕（二）婚夜，噩梦初始》是一部围绕角色性别转换以及自我认知冲突的变身小说。在这个故事中，酒野英子意外地与一名男性进行了新婚生活，但她内心深处对这一身份的接受和自我探索令人深思。文章描述了她在婚夜的复杂情感，初始的羞愧、困惑和逐渐涌现的温暖、渴望交织在一起。开头描绘了‘良辰美景春宵夜’的浪漫场景，接着酒野英子对自己的新身份感到羞涩却又逐渐适应，转而感受到婚姻生活中的亲密。她与老川岛之间的亲昵互动和情感发展不禁让人感到矛盾与复杂，情节中指出了她对自己新身份的接受与心理斗争，尤其是对男人的吸引与渴望。作品最后描绘了两人亲密的夜晚，酒野英子终于体验到了作为女性的性福。这段情感的瞬间充满了温情，同时也映射出性别认同和身心重构的微妙主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_小子，你怎是女人！〔正篇〕（二）婚夜，�
 | Size            | 23816 bytes                           |
 | MD5             | 0164604f4e9b3146176afc530c0a9a2f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 婚姻, 性别认同, 自我探索, 女性视角, 情感纠葛, 爱情, 激情, 性行为, 羞涩, 内心斗争, 浪漫, 新婚夜                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

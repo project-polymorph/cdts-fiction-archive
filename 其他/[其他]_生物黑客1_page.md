@@ -7,7 +7,7 @@ TXT 下载: [[其他]_生物黑客1.doc]([其他]_生物黑客1.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《生物黑客1》，呈现了一个关于生物实验与人体黑客的科幻故事。故事的主人公是张啸天，他生活在城市的底层，经济困困窘，偶然遇到一个神秘的中年人老贾，后者邀请他参与一个生物实验，声称实验不会对身体造成伤害，并承诺报酬丰厚。故事通过张啸天的视角，逐步揭示了老贾所从事的生物黑客研究，包括人体潜能的开发与脑电波的处理。随着情节的发展，读者可以感受到主人公内心的挣扎与好奇，尤其对于黑暗实验背后潜藏的危险的探讨。这部作品不仅仅是一个简单的变身故事，还涉及了科学伦理、自我认知等深层次主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_生物黑客1.doc]([其他]_生物黑客1.doc)
 | Size            | 54272 bytes                           |
 | MD5             | a275cc89941abcfb3eb394b073831bbd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 生物黑客, 人体实验, 性别认同, 科幻, 自我探索, 黑暗实验, 经济困境, 神秘人物, 伦理讨论, 脑电波                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

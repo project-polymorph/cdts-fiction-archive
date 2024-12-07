@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】又另一只圣诞节的猫.doc]([变性]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为宝拉（Paula）的角色的变身故事，呈现了她从一个小男孩保罗（Paul）变为女孩的经历。故事设定在圣诞节期间，宝拉满怀期待，庆祝她成为女孩的快乐。通过魔法的作用，她的记忆与周围人的记忆都被改写，大家认为她一直都是女孩。故事详细描写了宝拉在成长过程中身体与心态的变化，以及她和堂弟理查德的互动。特别是在月经来潮的情节中，宝拉表达了她对成为女性的接受与享受。此部作品属于性别转换的范畴，探讨了性别认同和自我认知的问题，其中也涉及到对其他女性的羡慕和对女性问题的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】又另一只圣诞节的猫.doc]([变性]_【�
 | Size            | 45568 bytes                           |
 | MD5             | 2a9334db5ce352f28372d03ade9b7b40                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Paula Girl                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 青春期, 自我认知, 圣诞节, 女性成长, 变身故事, 魔法, 角色认同, 家庭互动, 青春期困惑, 未知身份, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

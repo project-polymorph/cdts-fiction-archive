@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_东暮市的发明家.doc]([皮物]_东暮市的发明家.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档的内容围绕一位名为桜雪的少女及其变身与自我认同的体验，通过描写其与其他角色的互动，探索了性别转换和跨性别的主题。故事设定在中世纪风格的城堡内，情节丰富而深入，涉及了超自然元素，如触手、史莱姆娘、魅魔等，展示了角色在变身过程中的心理变化与身体体验。此外，复杂的性关系和情感纠葛被深入探讨，文中有部分情节涉及限制级的性描写，反映了个体对于性别与欲望的探索与挣扎。内容充满幻想色彩，是一部将奇幻与性别认同相结合的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_东暮市的发明家.doc]([皮物]_东暮市的发明家.
 | Size            | 43008 bytes                           |
 | MD5             | 11806447ff43325215f742923d75737b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 幻术, 触手, 史莱姆娘, 魅魔, 二次元, 幻想文学, 自我探索, 强烈性描写, 性别认同, 奇幻元素, 复杂人际关系, 淫荡, 调教, 多重身份, 非人化, 狂欢, 性幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

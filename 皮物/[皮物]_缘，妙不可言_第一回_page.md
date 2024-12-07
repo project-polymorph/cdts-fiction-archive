@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_缘，妙不可言_第一回.docx]([皮物]_缘，妙不�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《缘，妙不可言_第一回》，是一本以男性主角徐天为中心的伪娘/男娘题材小说。故事开头描绘了徐天在深夜归家的场景，他因为酒醉而内心烦躁，回忆着沮丧的应酬生活。他的内心独白展现了对自我身份与社会角色的思考，以及对身边关系的复杂情感。文中徐天邂逅了名叫洛月的女孩，后者身着清新可人的服装，展现出一种青春活力。在他的家中，洛月关心地为其准备醒酒汤，但随着情节的发展，出现了更多内心冲突和角色间的暗示性互动，最终两人的关系在夜晚的神秘氛围中逐渐升温。文中涉及到的主题包括性别认同、爱情、自我探索乃至欲望的压抑，描绘了复杂的人际关系与性暗示，富有一定的情感张力与心理描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_缘，妙不可言_第一回.docx]([皮物]_缘，妙不�
 | Size            | 26542 bytes                           |
 | MD5             | ab082b416d7ce00a11c2d90df8e7e8a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 爱情, 自我探索, 夜晚, 情感纠葛, 男性视角, 青春, 欲望, 情趣, 钢铁森林                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

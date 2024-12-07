@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身之穿越阿朱_（九、十）.doc]([变身]_变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是长篇小说的一部分，主要讲述了主角朱敏在穿越到一个幻想世界后的心理性别和生理性别之间的挣扎与自我认同。故事围绕着朱敏与其他角色，特别是浣珠之间的交流与互动展开，探讨了性别认同与自我探索的主题。内容中提到朱敏与浣珠都曾是男性，却在经历了变身和生活环境的改变后逐渐融入女性角色。文本使用细腻的语言描绘了人物间的情感波动，以及朱敏对自己性别身份的困惑与接受。文中有对“朱颜丹”这一具有变性效果药物的探讨，反映了角色对于身体变化的思考和影响。若干段对话深入探讨了对爱情、性别及自我认同的独特见解，展示了角色在面临性别认同和社会期望时的复杂心理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身之穿越阿朱_（九、十）.doc]([变身]_变身
 | Size            | 47104 bytes                           |
 | MD5             | 3e97439532407c103ebb88cbf51f4437                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 幻想文学, 武侠, 人物成长, 自我探索, 情感纠葛, 青春心事, 都市奇幻, 长篇小说, 药物影响, 角色互动, 女性同性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

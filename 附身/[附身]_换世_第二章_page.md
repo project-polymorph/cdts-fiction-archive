@@ -7,7 +7,7 @@ TXT 下载: [[附身]_换世_第二章.doc]([附身]_换世_第二章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《换世》的小说章节围绕圣斯嘉德王城的二王子兰达的酒会进行。故事开篇描绘了王城的华丽和夜晚的氛围，兰达在酒会上受到众多女性大臣的青睐，尤其是他的妹妹拉瓦莉。随着情节的发展，拉瓦莉的出场引发了兰达内心的担忧，特别是对妹妹最近变化的关注。从酒会上回到寝宫后，兰达和拉瓦莉的兄妹关系逐渐展现，但潜藏的性暗示和复杂的情感也逐步显露。拉瓦莉表现得迷人而成熟，但她的笑声和言语却暗示着一种不寻常甚至扭曲的性欲，以及对母亲的极端反感和毁灭的欲望，紧接着她的态度骤变，展现了与天真形象截然相反的淫荡面。同时，兄妹之间的对话中透露出对于彼此关系的微妙动态，以及王储之争的暗流涌动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_换世_第二章.doc]([附身]_换世_第二章.doc)
 | Size            | 43008 bytes                           |
 | MD5             | 71de7e5f23da7538bec845200973fd2d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 魔法, 二次元, 性转, 王国, 青春期自亵, 虐恋, 家庭冲突, 恶魔般的斗争, 荒唐的爱情, 扭曲的快感, 权力游戏, 贵族, 阴暗心理, 奇幻世界, 情感挣扎, 禁忌关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

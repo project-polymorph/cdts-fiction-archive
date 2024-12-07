@@ -7,7 +7,7 @@ TXT 下载: [[催眠]天使系统（4）.doc]([催眠]天使系统（4）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《天使系统（4）》，展示了一段关于心理治疗和性别角色体验的小说情节。故事围绕张静及胡兵的互动，张静正在经历各种不舒服的情绪，并最终选择进行心理咨询。胡兵作为心理医生，为张静提供了一种名为“睡眠治疗”的服务，通过引导她进入梦境，张静体验到了成为武则天的快感。随着梦境中的女皇体验，张静在苏醒后面临着强烈的现实与梦境的落差，令人深思她的心理状态和自我认同的转变。整个过程还涉及了对角色之间复杂关系的探讨，尤其是权力与性别认同的主题。此文档包含了梦境、心理治疗、性别角色和人际关系等多重元素，反映出主角在自我探索中的挣扎与变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]天使系统（4）.doc]([催眠]天使系统（4）.doc)
 | Size            | 34816 bytes                           |
 | MD5             | 87e91274816b43d5b47731182421a981                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 心理治疗, 梦境, 性别角色, 权力关系, 自我探索, 武则天, 情感纠葛, 男性视角, 女性角色, 愉悦感, 睡眠治疗, 心理咨询, 梦中体验, 自我认同, 角色转换, 现代与古代的对比, 伪娘, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

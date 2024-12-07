@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《沉溺》.doc]([变身]_《沉溺》.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《沉溺》较为详细地描绘了一款全息成人游戏的设定与情节，故事中角色慕容雪和韩宇分别以不同的身份体验这个游戏。在游戏中，慕容雪遭遇了一只触手怪，并经历了生理上的高潮，展现了成人游戏特有的极端情节。另一方面，韩宇是一个孤儿，偶然获得了进入游戏的机会，游戏将他化身为触手怪，这种角色的生理改变与游戏机制相结合，产生了心理和生理上的双重冲击。故事设定中，游戏内的情节表现出一种对性别角色和生理认同的探索，同时游戏也可以选择和谐或非和谐模式，影响角色在游戏世界中的生存与体验。该文本内容涉及大量成人和幻想主题，适合研究和探讨性别及身体认同相关的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《沉溺》.doc]([变身]_《沉溺》.doc)
 | Size            | 98304 bytes                           |
 | MD5             | 44e4c57e81af8d270e5b736196fe5139                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 成人游戏, 全息游戏, 性转, 心理探索, 穿越, 触手, 生理变化, 身体认同, 强力发情, 奇幻冒险, 游戏机制, 武侠玄幻, 女主角, 角色变化, 触手怪, 自我认知, 虚拟现实, 性别认同, 性别角色, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

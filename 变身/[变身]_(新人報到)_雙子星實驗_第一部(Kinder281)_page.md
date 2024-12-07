@@ -7,7 +7,7 @@ TXT 下载: [[变身]_(新人報到)_雙子星實驗_第一部(Kinder281).doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一篇关于职场和性别转变的小说，讲述了主人公王八（昵称小王）在公司工作期间与同事的互动，以及他面临的一系列职场挑战。故事开头，小王因请假陪女友而遭到上司陈哥的拒绝，他因而感到无奈和紧张。在故事的发展中，作者通过小马（小王的室友）第一人称视角描绘了职场的压力与人际关系，尤其对小王和女友凤娟的感情进行了探讨。 随后发生的意外转变，小王奇迹般地化身为一位与他长相一样的小女孩，引发了一系列的误会与冲突。该作品不仅呈现了多元的性别认同与角色转变，还探讨了自我认知和人际交往的主题。整篇小说在轻松幽默的语气中处理了比较复杂的性别与身份问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_(新人報到)_雙子星實驗_第一部(Kinder281).doc]([
 | Size            | 74240 bytes                           |
 | MD5             | c232036f8120b65ffcdf28d2d77b7c35                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 职场故事, 幽默, 自我探索, 双胞胎, 跨性别, 情感冲突, 校园, 魔法奇幻, 奇幻, 青春成长, 非人化, 爱情, 科技, 实验室, 捉弄, 冒险, 职场压力, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

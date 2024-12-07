@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_奇方_第六章.docx]([皮物]_奇方_第六章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为"皮物"小说系列中的第六章，讲述了主角杨成通过特殊手段成功取代叶馨瑶的经历。在经历了两周的角色扮演后，杨成已经完美地融入了叶馨瑶的身份。然而，叶馨瑶的本尊虽有意识却无法反抗，内心的挣扎与绝望逐渐加深。在一个充满肉体快感和性奴关系的场景中，夏初婧被迫成为了叶馨瑶的性奴，不断接受叶馨瑶的命令与性滋扰。他们之间的复杂关系展现了性别与自我认知的冲突，同时也探讨了欲望与控制的主题。故事中多次提到的“奇方”药物为情节增添了超现实的色彩，模糊了性别界限，深入探讨了跨性别体验与身体的控制。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_奇方_第六章.docx]([皮物]_奇方_第六章.docx)
 | Size            | 22806 bytes                           |
 | MD5             | 9626b0a73e23563d83de7fcc68a72376                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 思考下计划                               |
+| Region          | 未知                               |
+| Date            | 2017-10-27                                 |
+| Tags            | 变身, 伪娘, 跨性别, 性奴, 欲望, 奇方药物, 自我认知, 身体控制, 性别转换, 性相关, 二次元, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

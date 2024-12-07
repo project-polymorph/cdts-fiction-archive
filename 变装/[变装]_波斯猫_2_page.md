@@ -7,7 +7,7 @@ TXT 下载: [[变装]_波斯猫_2.doc]([变装]_波斯猫_2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇伪娘/变装题材的小说，讲述了一个舞会场景。故事中，维克汀与他的女友妮琪一起参加舞会，舞会上人们纷纷穿着各种奇装异服。随着活动的进行，主办方凯特阿姨提议进行一个有趣的交换服装游戏，让男士们与女士们互相换装。尽管维克汀初时对此表示拒绝，但最终在妮琪的坚持下，他还是答应了其要求，开始了换装。文件详细描写了维克汀在更衣室里换上女性服装的心理感受及身体变化，尤其是换装过程中的情感波动和紧张气氛，展现了性别角色的模糊与冲突。维克汀在穿上束腰、长裙以及丝袜的过程中不得不面对自己内心的挣扎，这种身份的转变也引发了一些尴尬而不可避免的身体反应。整体上，这篇小说探讨了性别认同、自我认知以及社会期望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_波斯猫_2.doc]([变装]_波斯猫_2.doc)
 | Size            | 33280 bytes                           |
 | MD5             | 31656a279e57546eb1f063e31e954d0b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 舞会, 性别认同, 自我探索, 心理变化, 束腰, 长裙, 丝袜, 舞会游戏, 情感波动, 换装, 男性视角, 人际关系, 身份转变, 群体活动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

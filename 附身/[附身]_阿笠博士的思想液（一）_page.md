@@ -7,7 +7,7 @@ TXT 下载: [[附身]_阿笠博士的思想液（一）.doc]([附身]_阿笠博�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于角色穿越与身体交换的小说，主要描述了主角在柯南的世界中穿越成为阿笠博士，并利用自己的思想液进行他人身体的掌控突破。故事的开头，主角对自己穿越成阿笠博士感到心态崩溃，但在查阅博士的记忆后，逐渐开始适应这个身份。随着故事的发展，主角开发出了可以使他人化作自己分身的思想液。本章节展现了他与一个小女孩步美之间令人不安的互动，包含了许多关于性别认同、自我探索及欲望的主题。随着主角利用思想液对步美进行实验，并体会女性身体的愉悦，该段故事向读者展示了复杂的心理变化和对角色生存状态的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_阿笠博士的思想液（一）.doc]([附身]_阿笠博�
 | Size            | 39936 bytes                           |
 | MD5             | 846cf0f31c7d44ce0d2055caaa0be018                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 伪娘, 思想液, 阿笠博士, 柯南, 步美, 心理探索, 欲望, 角色扮演, 记忆交换, 性别认同, 实验, 二次元, 邪教                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

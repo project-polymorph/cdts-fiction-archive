@@ -7,7 +7,7 @@ TXT 下载: [[变装]_出生死亡和结婚.docx]([变装]_出生死亡和结婚
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了艾伦·宾格利的故事，他在出生、死亡与结婚登记处工作，外表和性格都很普通，但内心却充满了对人生的阴暗幻想。他对生活的不满促使他计划着制造一个虚构的妻子梅丽萨·简·戴弗林，以便通过她的死亡来获得人寿保险金。在艾伦的设计中，梅丽萨是一位在纸面上存在的女性，他的计划包括各种伪装和欺骗，以确保在不暴露自己的情况下生活。不仅涉及伪造证件、练习女性行为，以让他能在公众中以梅丽萨的身份出现；他甚至开始享受做梅丽萨的过程，逐渐产生了对女性形象的认同。此外，艾伦还面临着与保险公司关于梅丽萨健康状况的体检问题。他的计划不断演变，展示了一个人如何通过伪装探索性别角色的界限与自我认知的矛盾。整篇小说带有一定的悬疑和心理探讨，深入探讨了性别认同与创造虚构身份的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_出生死亡和结婚.docx]([变装]_出生死亡和结婚
 | Size            | 31405 bytes                           |
 | MD5             | ea720fc4f710a1828a3d3a74d32542c5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Maryanne Peters                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 伪娘, 人寿保险, 犯罪心理, 自我探索, 虚构身份, 性别认同, 伪造文书, 女性化, 心理小说, 阴暗幻想, 冒险故事, 社会实验, 性别角色, 第二人生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

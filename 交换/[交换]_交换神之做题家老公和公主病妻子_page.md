@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交换神之做题家老公和公主病妻子.docx]([交�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及交换神与角色性别转换的小说，讲述了主人公刘卿萍的经历与情感经历。故事围绕着刘卿萍的生活展开，她是一名29岁的女性，经过高等教育但却因父母的强势安排而感到迷茫。刘卿萍结婚三年却未能怀孕，她与丈夫徐超的感情经历了社会的挑战与个人的自我认知。故事中描述了他们的婚姻生活及面对生活压力的挣扎，展现了他们如何在社会和家庭期望的夹缝中寻找自我。此外，小说也涉及了对性别认同与转变的探讨，例如提到平智凡作为一名医生的角色，以及她在生活中的复杂关系。文中内容包含了一些情感和性方面的描写，适合对性转、跨性别主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交换神之做题家老公和公主病妻子.docx]([交�
 | Size            | 24037 bytes                           |
 | MD5             | 3d2b461396f9f3779091f9866a746027                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 2017-04-05                                 |
+| Tags            | 性转, 跨性别, 婚姻生活, 自我探索, 情感纠葛, 复杂关系, 社会压力, 女性视角, 现代生活, 学术研究, 家庭期待, 都市, 职场情感, 医院情节, 个人成长, 性别认同, 闲聊, 情感描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

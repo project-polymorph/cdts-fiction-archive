@@ -7,7 +7,7 @@ TXT 下载: [[变装]_采茶玉女记.doc]([变装]_采茶玉女记.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《采茶玉女记》是一篇描写性别转变的小说，故事发生在庆和三年，主要围绕江宁府的方家展开。方家因独家秘制的“阳和玉女茶”迅速崛起，成为首富。小说通过方家小姐方清颜和刘夫人之间的关系，揭示了社会对女子之美和体香的偏见。小说的开头描写了阳和玉女茶的神奇功效，之后围绕主人公小元的故事展开。小元本是乞丐，被方家招入为童子，他的心灵与身体逐渐对性别认同产生冲突，向往女性的生活。随着时光流逝，小元接受了女儿家的生活方式，开始接受女孩的教育，同时对自己的性别产生新的认识。故事中展示了小元与其他男童的关系，以及他在方府中的成长经历，最终面临着去除阳物的选择，从而实现对女性身份的渴望。此作品频繁涉及性别认同和性别转换的心理过程，内容可能包括限制级情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_采茶玉女记.doc]([变装]_采茶玉女记.doc)
 | Size            | 48640 bytes                           |
 | MD5             | 55c8e028ba7515de072b89adf97499a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 男娘, 变身, 跨性别, 强迫与自我认同, 男童, 古代, 社会阶级, 调教, 宫去阳物, 情感探索, 发展与变化, 身份认同, 性别化, 权贵政治                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

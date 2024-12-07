@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_舊文重寫—毒水(第1章、第2章).docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《毒水》的第一章和第二章，讲述了主角在与妹妹佳瑩的互动中经历性别转换和身体变化的情节。故事开始于一个平常的圣诞节，佳瑩给哥哥送来一瓶橙汁，并展现出异常的调侃。而后，主角在一次神秘的实验中被姐姐绑住，经历了从男性到女性的身体变化，感受到痛楚与快感交织的复杂情感。主角在迷迷糊糊中醒来，却意识到这一切并非梦境，而是亲身经历。随着情节的发展，兄妹关系变得更加复杂，涉及到面对新的身份和相互的试探。文本夹杂着较为明显的成人内容，包括身体探索、转变过程中的痛苦与快感，以及对性别和身份的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_舊文重寫—毒水(第1章、第2章).docx]([皮物]_�
 | Size            | 22649 bytes                           |
 | MD5             | b3f72b6dca6061a7e7d6cf2f98c8d816                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 兄妹, 实验, 痛苦, 性别认同, 自我探索, 魔法, 青春, 家庭关系, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_吴天和陈雪_上.docx]([皮物]_吴天和陈雪_上.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《吴天和陈雪 上》是一部涉及伪娘和变身主题的小说。故事围绕两位主要角色：吴天和陈雪展开。情节开始于吴天偶然获得传说中的千年雪莲，引起了陈雪的关注，后者是安南学院的校花。随着故事的发展，陈雪成为一个充满魅力的角色，变身后的她显露出成熟与妩媚的气质。小说通过细腻的描绘，展现了吴天对陈雪的吸引，以及两人之间的互动，尤其是晚餐期间和在别墅的一系列细节，展现了情感与欲望的纠结。整个故事中不仅涉及性别认同与变身的主题，还有许多与强烈情感和身体细节相关的描写，让人对角色的内心世界和外在形象产生思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_吴天和陈雪_上.docx]([皮物]_吴天和陈雪_上.doc
 | Size            | 19727 bytes                           |
 | MD5             | 61ab47346005291fa3e742a001fa94c5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, TS变身, 跨性别, 性别认同, 情感纠葛, 吸引与魅力, 校园小说, 二次元, 美术系校花, 千年雪莲, 魅惑, 成人内容, 女性视角, 青春成长, 禁忌之爱, 罗曼史, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

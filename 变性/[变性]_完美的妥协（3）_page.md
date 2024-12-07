@@ -7,7 +7,7 @@ TXT 下载: [[变性]_完美的妥协（3）.doc]([变性]_完美的妥协（3�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转化及跨性别主题的小说，描绘了一名角色名叫珍娜的主角在被绑架后的经历和内心冲突。故事开头，珍娜醒来发现自己被绑架，四肢被捆绑，嘴里塞着橡胶塞口球，无法说话。在试图了解现状的过程中，她与绑架她的家庭成员产生了互动，尤其是与绑架她的母亲和儿子杰西之间的关系。珍娜发现自己是在一辆房车里，且被告知自己正在南卡罗来纳州。随着情节的发展，她意识到自己正面临着不明的命运，并被迫穿上女性服装，这引发了她对自己身份的困惑和抵抗。整个故事融合了绑架、性别认同、自我探索等复杂主题，情节展开令人紧张。在最后，珍娜被命名为“珍娜”，并遭遇进一步的药物控制，这使得她对即将到来的事情感到无奈与恐惧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_完美的妥协（3）.doc]([变性]_完美的妥协（3�
 | Size            | 39936 bytes                           |
 | MD5             | ab1d585336028fa5425806e2e9f3e758                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 绑架, 跨性别, 自我探索, 药物控制, 恐怖, SM, 女性化, 紧张关系, 身份冲突, 心理挣扎, 小说, 二次元, 幻想, 奇幻, 电击, 绝望, 纠结                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_单臂的玛丽（片腕のメリー）.doc]([皮物]_单�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性转主题的小说，名为《单臂的玛丽》。故事围绕一名高中生的奇幻经历展开，他在回家的路上偶然踩到了一个人偶，由于好奇心和怜悯心将其放置在安全的地方。小说引入了都市怪谈元素，主角在接到来自名为“玛丽”的电话后，发现自己被卷入了一个与这个人偶相关的恐怖事件。随着故事的发展，主角经历了与玛丽的神秘连接，并在不知不觉中变成了玛丽的肉体，而经历了一场自我身分的转换。整篇小说充满了悬疑和性别认同的话题，描绘了主人公在性别转变过程中的各种心理冲突与自我探索。小说提到的细节，如“那么，我为什么会变成这样，你明白吗？”显示了角色之间复杂的互动。最终，故事留下了悬念，让人对角色未来的命运充满好奇。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_单臂的玛丽（片腕のメリー）.doc]([皮物]_单�
 | Size            | 36864 bytes                           |
 | MD5             | 7d618e830ad0eb19f9cacb29547d653c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 都市怪谈, 自我认同, 心理冲突, 伪娘, 男娘, 奇幻, 恐怖, 人偶, 变嫁, 反转剧情, 神秘通话, 性别探索, 奇幻小说, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

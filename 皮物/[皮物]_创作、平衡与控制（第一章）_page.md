@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_创作、平衡与控制（第一章）.doc]([皮物]_创�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于一个名为诸葛回的年轻男孩在准备即将到来的同学聚会时的内心挣扎和寻找临时女友的故事。故事开头，诸葛回观看了一档关于埃及文物的电视节目，表示当前的节目内容让他感到乏味。接着，故事转向了诸葛回的困扰：他需要带一个女朋友参加同学聚会，但又不知道该从何寻找。在翻阅一本神奇的书籍后，他发现了一些公司可以雇用临时女友的服务。最终，他决定拨打“碧海文化传媒公司”的电话，希望雇用一位女演员扮演他的女友，在电话中他显得紧张且结结巴巴，展现了他的羞涩。虽然他面对的现实是冒充的女友，但他似乎已找到了一种解决方案，带着期待的心情入睡。文中穿插了对诸葛的内心活动的深入描写，以及其对未来聚会的期待与焦虑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_创作、平衡与控制（第一章）.doc]([皮物]_创�
 | Size            | 29696 bytes                           |
 | MD5             | 1830e449d141ba93efcc511e866e3e25                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 临时女友, 青春校园, 自我探索, 角色扮演, 社交焦虑, 爱情, 奇幻, 二次元, 电话交流, 情感纠葛, 幽默, 现代生活, 角色扮演公司, 情感戏剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

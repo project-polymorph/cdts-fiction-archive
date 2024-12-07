@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_永恒青春租赁公司.docx]([皮物]_永恒青春租赁
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《永恒青春租赁公司》，是一个伪娘和变身相关的小说，讲述了一个中年肥宅因对青春的渴望而接触到了一款神奇的产品，声称能让他恢复年轻。这位肥宅在无聊的网吧工作，生活平淡，每天遭受腰痛和自我厌恶。他在网上发现了一个租赁乳胶衣的服务，声称可以通过穿戴来塑形，从而减轻肥胖。尽管他对产品起初感到怀疑，但是因为渴望改变自己，最终决定尝试。在穿上胶衣的过程中，他体验到了前所未有的快感，身体感受的变化让他产生了自我认同的疑惑。故事中既有幽默的元素，也涉及到对自我身份与身体认知的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_永恒青春租赁公司.docx]([皮物]_永恒青春租赁
 | Size            | 27316 bytes                           |
 | MD5             | 2c3411de6cae29ffa5e91defec65344c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 青春, 身体认同, 网吧, 乳胶衣, 自我探索, 肥宅, 青春渴望, 自我厌恶, 性别转换, 奇幻, 性暗示, 呵护自我, 代入感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

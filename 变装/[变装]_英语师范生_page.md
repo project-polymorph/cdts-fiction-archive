@@ -7,7 +7,7 @@ TXT 下载: [[变装]_英语师范生.docx]([变装]_英语师范生.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档讲述了主角刘名的故事，他是一名男老师，却被迫在全是女生的班级任教。故事的开头，刘名身处于一个闹哄哄的课堂中，回忆起了自己作为男生在女子学校执教的烦恼和挑战。随着情节的发展，刘名和班上的学生们一起准备年段的话剧比赛，他在无意中被同学李媚儿提出化妆成女性以便担任话剧女主角。这个想法引发了一系列搞笑与奇妙的情节，包括使用义乳和臀垫来改变外形。描写了刘名从男生逐渐向女性形象转变的过程，并且引入了一些与性别认同和自我认知相关的复杂情感，伴随着一定的情色成分和玩笑。作品通过幽默的手法探讨了性别角色与自我认同的问题，展示了如何在异性环境中寻找适应与自我价值。文末对外观的变化以及自我接受有着较为深刻的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_英语师范生.docx]([变装]_英语师范生.docx)
 | Size            | 20309 bytes                           |
 | MD5             | 31d30f482b30ee1af960c07a7ce6149c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 跨性别, 青春校园, 教师角色, 女性化妆, 性别认同, 自我探索, 搞笑情节, 戏剧表演, 友情, 伦理挑战, 外观变化, 身体改造, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

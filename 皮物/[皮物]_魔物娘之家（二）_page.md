@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔物娘之家（二）.doc]([皮物]_魔物娘之家（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于伪娘与变身主题的小说，故事围绕角色零波在魔物娘之家工作展开。在这里，零波扮演名为克露娜的蜘蛛女王，经历了一系列关于角色认同和催眠的探索。在工作的过程中，他不仅要适应成为蜘蛛女王的身份，还要面对来自勇者们的挑战和屈辱。文件详细描述了零波与其他角色的互动，尤其是与女骑士x2的关系。x2的角色虽然是后盾和支持，但同时也在零波内心掀起了复杂的情感。文中提及的催眠、性别认同、角色扮演和情感上的冲突，使得这个故事充满了深刻的矛盾和心理斗争。细节描写精准，尤其在描述克露娜与勇者之间的互动时，融入了梦幻与现实、屈辱与欲望的交织，突出现代性别讨论中的很多敏感话题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔物娘之家（二）.doc]([皮物]_魔物娘之家（�
 | Size            | 271872 bytes                           |
 | MD5             | a15c0ca1883e43b6f708c084a997d842                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 蜘蛛女王, 伪娘, 变身, 催眠, 勇者, 克露娜, 精神操控, 角色扮演, 性别认同, 魔物娘, 自我探索, 情感冲突, 屈辱感, 性别角色, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

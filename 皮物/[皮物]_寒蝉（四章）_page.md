@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_寒蝉（四章）.docx]([皮物]_寒蝉（四章）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘与跨性别相关的小说，主要围绕角色薛文淇和刘以光的重逢展开。故事描绘了薛文淇在一条冷清的巷子中漫步时，情绪纠结，更是回忆起了与刘以光的往事。小说中透露出一种不安的情绪，描写了角色内心的冲突和对过去的思考。二者的关系复杂而微妙，其中还涉及了一些性别认同和身体控制的主题。随着故事的发展，刘以光的身体被操控，体验到一系列痛苦和快感之间的冲突，反映了对自我和欲望的探讨。同时，小说中穿插了性暗示与大胆描写，展现了复杂的人性和情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_寒蝉（四章）.docx]([皮物]_寒蝉（四章）.docx)
 | Size            | 26940 bytes                           |
 | MD5             | 47108b11ddf915f5e286f5a0463c02c0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 强奸, 调教, 角色身份, 自我探索, 情感纠葛, 都市小说, 女性视角, 阴暗心理, 绝望与渴望, 身体控制, 情欲内心戏, 命运交错, 荷尔蒙冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

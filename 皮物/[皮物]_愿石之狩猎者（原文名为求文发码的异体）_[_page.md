@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_愿石之狩猎者（原文名为求文发码的异体）_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《愿石之狩猎者》以一种奇幻的叙事方式展开，讲述了一个名为嘎子的男性角色的冒险故事。在一个神秘的工地上，嘎子首先遭遇了一道神秘的光束，随后进入了一个看似无限的白色空间。在这个空间中，他遇到了自称为启云号的智能存在，揭示他处于意识空间中，经历着生死之间的模糊状态。故事中交织了性别认同的强烈冲突，嘎子在此空间内不知所措，然而，一个有关补充能量的奇怪提示令其进入了深无法自拔的境地。不断刺激和转变的情节使得嘎子的认知和身体状态发生极端冲突，充满了对自我身份和欲望的探索。作品中包含了一些性别转换和角色扮演的元素，营造了一种紧张又诱惑的氛围，深刻地反映了对性别和自我认知的复杂表达。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_愿石之狩猎者（原文名为求文发码的异体）_
 | Size            | 30812 bytes                           |
 | MD5             | c3880c0871abcfaa2b865c55db1be9ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 意识空间, 奇幻冒险, 性别认同, 自我探索, 性别冲突, 科技幻想, 心理惊悚, 魔法, 角色扮演, 紧张, 伦理冲突, 医务人员                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

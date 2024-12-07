@@ -7,7 +7,7 @@ TXT 下载: [[附身]_天国般的上班之行.docx]([附身]_天国般的上班
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《天国般的上班之行》详细描绘了一个男人通过灵魂脱离身体的方式，操控与他同住的巨乳美女的身体进行日常活动的情节。故事开始于男主角因着急上班而绊倒，灵魂意外脱离，形成了可以操控其他人的光团。在电车上，他利用这种能力，使两名女性成为他的分身，并体验到不同的视角和身体感受。随着故事的发展，男主通过操控这两个女性，不仅享受她们的魅力，还因她们的身体而获得特权。在拥挤的电车和办公室内，他的控制能力让他尝到体会被崇拜和包围的快感，同时展现了复杂的情感和轻松诙谐的氛围。整篇小说触及了性别认同、身体变化和人际关系等多个主题，并含有一定程度的色情内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_天国般的上班之行.docx]([附身]_天国般的上班
 | Size            | 28889 bytes                           |
 | MD5             | 3c7a8040c53ca459dd2338effac5d350                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ecvt                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 巨乳, 幻想, 灵魂出窍, 调教, 调情, 成年, 都市生活, 幽默, 职场, 冒险, 恋爱, 二次元, TSF, 身体控制, 人际关系, 爱情故事, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

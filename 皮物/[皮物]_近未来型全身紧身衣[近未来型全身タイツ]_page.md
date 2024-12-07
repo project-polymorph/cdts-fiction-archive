@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_近未来型全身紧身衣[近未来型全身タイツ].d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《近未来型全身紧身衣》，是皮物系列的作品之一，作者灵感来源于‘哆啦A梦的四次元口袋’这一概念。故事围绕着一件具有变身功能的全身紧身衣展开，主角在失去女友后购买了这件紧身衣，体验了从男性变为女性的心路历程。故事具体描绘了主角穿上紧身衣后逐渐变成少女的过程，详细描述了服装的质感、穿着的感受和身体的变化，展示了角色在性别认同上的自我探索与认知的转变。该作品虽然包含性别转换的主题，但没有明显的色情场景，主要关注心理感受和形体的变化。作品在2017年获得了R-18小说排行榜的高评价，展现出其受欢迎程度，兼具科幻与奇幻色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_近未来型全身紧身衣[近未来型全身タイツ].d
 | Size            | 44032 bytes                           |
 | MD5             | bac8cef427869b7485d44416c42b31a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ＠ぽっけ                               |
+| Region          | 未知                               |
+| Date            | 2017-07-15                                 |
+| Tags            | 性别转换, 变身, 紧身衣, 自我探索, 心理变化, 未来科技, 虚拟现实, 角色扮演, 心理冲突, 奇幻冒险, 二次元, 女性形象, 自我认同, 虚拟体验, 心理描写, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

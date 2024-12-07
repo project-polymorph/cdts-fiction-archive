@@ -7,7 +7,7 @@ TXT 下载: [[变身]_想被侵犯的勇者２．系統是，需要確認的.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇设定在奇幻游戏世界中的变身小说片段。故事围绕一个角色在游戏世界"魔王雷古诺斯"中探险的经历展开，角色在旅店中进行了一系列物品交易和魔法使用的尝试。主角在故事开始时面临着外貌和身份的困惑，探索如何使用游戏中的物品和魔法，从中体现了角色对自身状态的认知与适应过程。故事中涉及到了货币交换、道具生成、魔法施展等游戏机制，展示了角色在异世界中的生存技能和思考能力。已涉及到的情节包括角色与旅店老板娘的互动、对旅店环境的观察、以及使用游戏界面获取金钱和道具的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_想被侵犯的勇者２．系統是，需要確認的.doc
 | Size            | 25932 bytes                           |
 | MD5             | 9bb6737181854386901553c6c00c9cd7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 异世界, 魔法, 角色扮演游戏, 自我认知, 旅店, 货币交易, 道具使用, 冒险, 探索, TS小说, 虚拟现实, 奇幻, 性别转换, 逃避现实, 游戏机制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

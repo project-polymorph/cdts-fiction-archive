@@ -7,7 +7,7 @@ TXT 下载: [[其他]_都市传说　车站.docx]([其他]_都市传说　车站
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇短篇都市传说风格的小说，围绕一个名为山田的车站展开。故事设定在深夜，主角匆匆赶往车站，以免错过最后一班车。主角的内心独白表达了内心的孤独和工作的疲惫，同时描绘了与一位女性站务员的互动。站务员的名字是如月，她的形象模糊但却给人留下了深刻的印象。故事通过主角与如月的对话，展现了他们对彼此身份的猜测和微妙的情感联系。随着故事的发展，主角在搭乘电车时发现自己似乎陷入了一种诡异的境地，与原先的情况产生了令人不安的差异，揭示了都市传说的恐怖与神秘。结尾部分令人感到毛骨悚然，暗示了可能的身份错位和时间的扭曲。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_都市传说　车站.docx]([其他]_都市传说　车站
 | Size            | 24244 bytes                           |
 | MD5             | 8e75972d633624696d2a4749eb16e107                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 都市传说, 心理恐怖, 深夜, 孤独, 身份, 车站, 女性角色, 神秘, 诡异情节, 职场压力, 自我探索, 时空扭曲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [《入替修真路》.docx](《入替修真路》.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《入替修真路》是一部结合了性别转换和修真元素的小说，讲述了主角叶源的意识穿越到异界，附身于一名女子白青青身上的故事。在这个充满奢华装饰的婚房中，他目睹了一场激情的初夜，却无肉身、无灵魂，只能以旁观者的身份体验这一切。当他意识到自己竟然要在一个女性的身体内求生存时，心中充满惊恐和不安。小说的开头便以刺激的场景引入，直白而细致地描绘了角色的性别变化所引发的身份认同危机和情感冲突，同时融入了修仙的背景设定。随着剧情的发展，主角不仅要适应新的身体，还需要面对来自新的身份和社会的各种挑战，包括如何掌控自己身体的快感以及应对随之而来的高潮和屈辱等情绪。整体上，这部作品探讨了性别、意识和自我认同等复杂主题，并具备丰富的情节设定和心理描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《入替修真路》.docx](《入替修真路》.docx)
 | Size            | 30084 bytes                           |
 | MD5             | 7cb7080a0b73aa9319d6f1934d17c8a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 修仙, 意识附身, 女主视角, 快感体验, 身份认同, 自我探索, 灵魂与肉体, 幻想, 两性关系, 性别冲突, 异界冒险, 情感心理, 婚房场景, 冒险奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

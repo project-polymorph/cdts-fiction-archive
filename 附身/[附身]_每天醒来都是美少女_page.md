@@ -7,7 +7,7 @@ TXT 下载: [[附身]_每天醒来都是美少女.doc]([附身]_每天醒来都�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇性转小说，描绘了主角因意外获得的超能力，能够随机入替女生的身体。故事开头，主角在一名少女的身体中醒来，感受到她的外表特征与魅力，随着剧情的发展，主角逐渐适应这种身份，并以这名少女的身份参与与她的男朋友的约会。通过与原主的妹妹交流，主角了解了少女的日程安排，决定以新的身份享受约会。在约会过程中，主角充分体验了身为美少女的种种感受，展现了性别认同、身体认知等深层主题。而文件中也包含了许多与性相关的情节，表现出身体与意识之间的冲突与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_每天醒来都是美少女.doc]([附身]_每天醒来都�
 | Size            | 43008 bytes                           |
 | MD5             | ca4cfaaf6d4712c545c725f46ee9b156                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 青春校园, 恋爱, 自我探索, 性别认同, 角色扮演, 青春成长, 约会, 奇幻, 二次元, 第三人称视角, 恋爱指南, 感情发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

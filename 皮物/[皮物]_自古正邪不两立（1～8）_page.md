@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_自古正邪不两立（1～8）.doc]([皮物]_自古正�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《自古正邪不两立（1～8）》，故事发生在一个名为黄天大陆的幻想世界，涉及正邪对抗的主题。开篇介绍了女主血冷魅，作为邪道宗门血栾宗的宗主，她俯视着战败的对手并宣扬正邪不两立的信念。正道与邪道之间的大战历经五百年，最终以邪道胜利告终，留下的正道修士只能苟延残喘在西海古迹附近。故事主要跟随男主角叶麟的转生经历，描述了他在跳楼自杀后穿越到这个新世界，发现自己被困在棺材里，被一位名叫莫宁的少女救起。伴随的是叶麟逐步对自己新身份的认知，以及他与莫宁之间的互动与情感发展。文中涉及魔法、修炼及自我探索的元素，同时包含部分描绘女性特征及性别认同的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_自古正邪不两立（1～8）.doc]([皮物]_自古正�
 | Size            | 100864 bytes                           |
 | MD5             | 94c0a250d087d8597d6a7bc8a4312604                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 幻想小说, 跨性别, 魔法, 修炼, 自我认同, 情感发展, 正邪大战, 神级武器, 少女救赎, 东海渔村, 棺材, 黄天大陆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

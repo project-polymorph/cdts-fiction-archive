@@ -7,7 +7,7 @@ TXT 下载: [[交换]_人生交換卡.docx]([交换]_人生交換卡.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《人生交换卡》，讲述了一个失业中年的男性草野太郎在浏览网上跳蚤市场时，意外发现一张名为“人生交换卡”的神奇卡片。根据卡片的说明，该卡能够让使用者与他人交换身体，踏上全新的人生。对于一直想成为异性的草野太郎来说，这是一种吸引力十足的诱惑，最终他决定尝试购买这张卡片。收到卡片后，他在街上寻找可以交换的人，最终选择和一个年轻女性新垣香苗进行交换。经历了身体的交换后，他感受到自身变为女性的真实体验，同时也在探索外貌和性别认同带来的新经历和冲突。本文件不仅探讨了性别转换的奇幻情节，也暗示了自我认同和性别认知的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_人生交換卡.docx]([交换]_人生交換卡.docx)
 | Size            | 44480 bytes                           |
 | MD5             | a07f6fa08c01650bc3965382f21500a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 异性体验, 人生交换卡, 变身小说, 自我探索, 心理冲突, 奇幻故事, 二次元文化, 身体认同, 性转题材, 女性视角, 成长故事, 跨性别讨论, 性别认同, 幻想文学, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

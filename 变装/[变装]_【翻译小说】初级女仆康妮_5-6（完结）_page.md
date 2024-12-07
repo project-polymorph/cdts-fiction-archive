@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译小说】初级女仆康妮_5-6（完结）.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于女仆康妮与爱米丽小姐之间关系发展的一段情节，描写了康妮在工作中与爱米丽的亲密互动。故事的设定在康妮成为全职女仆后的两个月，期间她与爱米丽的关系逐渐加深。情节中包含了她们在厨房的私密接触，女仆与雇主之间角色定位和感情的交织，以及对个人身份和性别认同的探索。文本详细描述了康妮的内心独白和情感状态，突显了她对新角色的接受和享受。情节中涉及到性暗示，引发了康妮对自身性别认同和情感归属的深思，展现了复杂的情感层面与自我发现的过程。文中包含了一些限制级内容，适合成年读者阅读。例如，康妮感慨：“被上的感觉特别强烈，不仅仅是在性方面，在情感上更是如此。”
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译小说】初级女仆康妮_5-6（完结）.docx]
 | Size            | 33585 bytes                           |
 | MD5             | 9d53bb6a7f3f82aa09ebd9b6d854300b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 性转, 女仆, 伪娘, 变身, 个人探索, 情感依附, 性欲觉醒, 自我发现, 情感依赖, 女主人与女仆关系, 角色扮演, 幻想, 亲密关系, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_主妇的秘密（8）.docx]([变性]_主妇的秘密（8�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于主角在经历人格分裂后，寻找自我与爱的故事。故事中，主角曾经深爱的女子李洁在一次意外中身亡，他因此陷入深深的绝望与痛苦之中。主角因为对李洁的思念，常常陷入她的角色，甚至穿上她的衣服，尝试让李洁在镜子中复活。故事发展过程中，冲突和矛盾不断升级，主角和其情敌李纯之间的关系也逐渐变化，变成了理解与支持的朋友。李纯对李洁的爱与主角对李洁的回忆相互交织，深刻探讨了失去与爱之间的复杂关系。随着剧情的推进，主角开始接受自己的真实感受以及与李纯的情感纠葛，进而在绝望中找寻到一丝温暖与依靠。最终，主角在李纯的陪伴下，踏上了重走李洁人生足迹的旅程，也在过程中面对了自身的性别认同与情感的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_主妇的秘密（8）.docx]([变性]_主妇的秘密（8�
 | Size            | 26335 bytes                           |
 | MD5             | 3bdeb75c95caa721d2a61e742bd5799b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 人格分裂, 爱情, 情感探索, 自我寻找, 悲剧, 舞蹈, 流浪, 重生, 友情, 二次元, 变身, TSF, 情感戏, 逆转, 心理冲突, 少男少女爱情, 都市生活, 旅行, 帝国时代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

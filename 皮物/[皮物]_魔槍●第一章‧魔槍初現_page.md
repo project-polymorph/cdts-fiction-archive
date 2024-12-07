@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔槍●第一章‧魔槍初現.docx]([皮物]_魔槍●
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是关于一部成人奇幻小说《魔槍●第一章‧魔槍初現》的初始章节。故事的主人公松野平是一名17岁的少年，他的父亲是一名考古学家，而母亲则早逝。在松野平即将迎来17岁生日之际，他的生活发生了巨大的变化——他的父亲在国外探险时身亡，松野平接到女警佐藤的通知。这一事件使得他内心感到极度压抑和孤独。文件中描述了他与父亲遗物的互动，尤其是一把看似普通的魔枪，随着故事的发展，这把枪开始显露其奇特的魔力。松野平的命运将因此改变，小说中也暗示了未来可能涉及的变身、催眠及控制等元素，给整个情节笼罩了一层神秘而奇幻的色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔槍●第一章‧魔槍初現.docx]([皮物]_魔槍●
 | Size            | 18469 bytes                           |
 | MD5             | 009eabed686e54017a3118f369470501                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 奇幻, 变身, 催眠, 父子关系, 孤独, 痛苦, 遗物, 冒险, 魔法, 青少年, 自我探索, 超自然, 角色变化, 黑暗元素, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_纯白的梦.doc]([变性]_纯白的梦.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《纯白的梦》是一部描绘角色变身与自我探索的小说。故事的主角卢卡斯是一位年轻的雕塑家，其艺术作品受到了当代乔凡尼·洛伦佐·贝尼尼的赞誉。然而，卢卡斯在自我认同方面面临着重大挑战，他困惑于自己的创作是否真正反映了自己的艺术风格，还是仅仅在模仿大师的作品。小说中，卢卡斯梦见自己化身为一位纯白的女孩，这是他童年时对理想美的渴望的体现。在与好友刘凯博士的交流中，卢卡斯决定进行身体转变，追求自己生命力的真正表达。故事探讨了性别认同、身体变化和个体渴望的主题，呈现了情感与身体之间的深刻关系。整部作品质朴又富有哲理，深刻地描绘了角色在追寻自我认同过程中所经历的痛苦与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_纯白的梦.doc]([变性]_纯白的梦.doc)
 | Size            | 59392 bytes                           |
 | MD5             | c25371ac3ce8b5c1afc6d530931809c0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 自我探索, 性别认同, 艺术与生命, 身体转变, 性转小说, 跨性别, 心理冲突, 青春成长, 二次元故事, 纯爱, 变嫁, 女体化, 多个身份, 情感纠葛, 现代艺术, 灵魂与肉体                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

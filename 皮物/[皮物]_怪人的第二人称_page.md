@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_怪人的第二人称.doc]([皮物]_怪人的第二人称.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《怪人的第二人称》是一篇关于性别转换和伪娘主题的小说，主要讲述了一位角色如何在昏迷的女性身上进行变身和伪装的过程。故事从角色观察昏迷的女人开始，详细描绘了他逐步脱去自己的衣物，装扮成女性的细致过程。角色不仅为自己选择了精致的女性服饰和配饰，还进行了一系列自我改造，例如剃毛、贴面具、佩戴义乳等。在这个过程中，角色对自我身份的探索与内心的碰撞相互交织，体现了他对外表和内心认同的复杂关系。
+
+随着故事的发展，角色进入了细致的心理描写，表现出对他人（特别是女性）的占有欲与欲望，同时展现出他如何在另一个身份下成长与蜕变。作品的情节直接觊觎禁忌，涉及强烈的性内容，包含了诸如调教、强奸和NTR等情节，展现出一种病态而扭曲的爱与占有。
+
+小说主要围绕角色的心理变化及其对女性身份的渴望展开，具有强烈的色情和性别模糊特征，反映了当代社会中性别认同、欲望与暴力之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_怪人的第二人称.doc]([皮物]_怪人的第二人称.
 | Size            | 35328 bytes                           |
 | MD5             | 7118f320ba7f186e97abed046dd0b921                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 强奸, 调教, NTR, 生殖器变换, 情感扭曲, 心理探讨, 二次元文化, 恶魔幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_变装老千.doc]([变装]_变装老千.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《变装老千》是一篇围绕主人公作为一名老千的生活展开的小说。故事通过主人公的视角，讲述了他如何在高风险的赌博世界里挣扎求生，以及被朋友阿光引导走向更危险的局面。阿光向他介绍了一个高档会所的赌博局，然而入局的关键在于主人公需要男扮女装来进行这一场复杂的赌博。随着故事的发展，主人公开始思考如何实现这一计划，也开始经历一些在传统性别角色中扭转的深刻体验。文中对性别认同和外部表现的描绘，展现了一种复杂的自我认知与社会期待间的冲突，同时引入了一些幽默感和人生哲学的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_变装老千.doc]([变装]_变装老千.doc)
 | Size            | 50688 bytes                           |
 | MD5             | 7dfad2b3fa5971a4b742d6fee471c945                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 赌博, 老千, 伪娘, 心理斗争, 自我探索, 男扮女装, 高档会所, 友情, 性别认同, 风险与收益, 社会期待, 二次元, 青春期困惑, 成长故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

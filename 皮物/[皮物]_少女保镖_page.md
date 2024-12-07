@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_少女保镖.docx]([皮物]_少女保镖.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一段关于男主角冉泉的校园生活，他身边有一位名叫横雏菱的美丽少女保镖。故事初始，冉泉在早上如常上学，却发现自己的每一步都吸引了其他同学的目光，因为他并不是独自上学，而是带着保镖。这位保镖的到来，让他在学校的生活变得不再寻常。她的身份神秘而强大，她不仅负责保护冉泉，还在校园中不遗余力地防止潜在的危险。随着情节的发展，冉泉被告知自己是大家族的少主，要面对即将来临的家族纷争，以及与其保镖之间复杂的情感互动。故事在校园环境中伴随紧张冲突展开，涉及师生间的互动以及保镖对潜在威胁的敏感反应。文中详细描绘了角色们的心理活动和情感变化，尤其是冉泉在面对流言与爱慕，以及横雏菱对他保护的执念。整体氛围在轻松与危机间营造出一种紧张感，而情感的刻画则展现了青春成长中的混乱与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_少女保镖.docx]([皮物]_少女保镖.docx)
 | Size            | 30592 bytes                           |
 | MD5             | b78fcd4d4863988c716bb115906c96fe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 校园生活, 保镖, 性别认同, 生理性别与心理性别, 青春成长, 家庭纷争, 自我探索, 权力斗争, 爱情纠葛, 校园暴力, 强烈保护欲, 师生关系, 变身与身份认同, 次元文化, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

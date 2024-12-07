@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《单性异世界II》　第1章　穿越异世界.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为《单性异世界II》的第一章，整体字数约6172字，延续了I代中的设定。故事开头描述了主角在意外情况下穿越到了一个名为‘异世界’的地方，并经历了性别转换。主角发现自己从身为男性转变为女性，体会到作为女性的生理反应，这一转变导致了主角对于自身身分和环境的困惑。在新的环境中，主角与一只史莱姆的互动让故事充满了冒险与色情的元素。对话中出现另一角色——魅紫珍美，展现出这个异世界的女性角色的个性，并揭示了这个世界的独特设定，包括对男性生物的描述，主角对自己身份的思考，以及与第一章情节的相关性。该章节不仅涉及性别认同和角色的自我认知变化，同时也探讨了幽默与困惑相结合的情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《单性异世界II》　第1章　穿越异世界.doc]([
 | Size            | 46080 bytes                           |
 | MD5             | bfe308d8d4da396054ffbd962d9f0534                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 异世界, 性转, 伪娘, 跨性别, 强奸, 史莱姆, 爱情, 奇幻, 角色扮演, 自我探索, 幻想, 生理反应, 性高潮, 神秘世界, 女性视角, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

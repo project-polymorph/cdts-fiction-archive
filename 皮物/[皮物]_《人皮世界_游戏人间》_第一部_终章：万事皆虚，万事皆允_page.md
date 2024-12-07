@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《人皮世界_游戏人间》_第一部_终章：万事�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《人皮世界 游戏人间》的第一部终章，主要描绘了一个复杂的角色转换与身份认同的故事。故事中的角色经历了一场关于爱的交易，自我认知与他人认知之间的冲突。主角如同一位幻影般的存在，既是‘艾丽莎’又是‘布斯’，在身份的多重变幻中展开一场心理与社会的博弈。文本中提到，‘当人们盲目的追求真相和真实时，记住：‘万事皆虚’’，这句话点明了故事的核心主题：在虚构与现实之间，个人的身份认同往往是模糊不清的。角色间的互动揭示了历史与个人之间的复杂关系，特别是历史背景中的南北战争对角色命运的影响。此外，本章节还探讨了自由与压迫的主题，角色作为一个被历史与社会边缘化的个体，执着于自己的目标与复仇。文本中有不少对话和内心独白，表现出角色的情感冲突，特别是对失去的亲密关系的怀念与复杂的愤怒。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《人皮世界_游戏人间》_第一部_终章：万事�
 | Size            | 86016 bytes                           |
 | MD5             | 62b8e2c336ca5d7ef94ee08237975449                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 角色认同, 身份交换, 复仇, 心理冲突, 历史背景, 南北战争, 爱情, 自由, 剧场, 复杂情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

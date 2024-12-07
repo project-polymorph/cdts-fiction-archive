@@ -7,7 +7,7 @@ TXT 下载: [[其他]_钥匙（5～6）.docx]([其他]_钥匙（5～6）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一篇名为《钥匙（5～6）》的性转小说片段，主要围绕角色左霏的内心体验和性别认同进行展现。故事开篇描写了主角左霏在经历角色扮演之后，对女性身份的享受，以及对自己身体的探索和玩弄，展现了她对这种身体和身份转换的愉悦感。随着情节的发展，左霏对家人的复杂情感逐渐浮出水面，尤其是与父母及妹妹方凌的微妙关系。方嶽的家庭关系紧张，承载着对妹妹的嫉妒和羡慕，最终在妹妹由于面试压力而晕倒后，左霏启用了『钥匙』的力量替代她进行面试，这一情节反映了故事的奇幻元素以及角色自我认知的斗争。整部小说包含了性别认同、自我探索、角色扮演等主题，生动展示了主角的内心变化与情感冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_钥匙（5～6）.docx]([其他]_钥匙（5～6）.docx)
 | Size            | 27845 bytes                           |
 | MD5             | d359a4c7a9977a967c6a16cafdac7799                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 角色扮演, 自我探索, 性别认同, 家庭关系, 青春, 奇幻, 内心斗争, 情感冲突, 护士服, 药物, 性高潮, 面试压力, 替代身体, 女性化, 兄妹关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_到底谁才是坏蛋_第二卷.docx]([附身]_到底谁�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《到底谁才是坏蛋》第二卷，围绕田硕和李梓希之间的互动展开，展现了两位角色的生活背景和心理状态。故事发生在蓉城，田硕是一名在工地上工作的男子，他经历了高强度的体力劳动，对生活感到疲惫和失望。他与李梓希之间的关系展现出一种青涩的情感，田硕为了讨好李梓希，愿意花费自己的工资为她购买鞋子。这一切都在日常的互动中慢慢发展，伴随着他们共同探访的鬼屋，展现了当代年轻人情感和性别认同的复杂性。在鬼屋中，故事情节转向了暗黑风格，涉及了性与暴力的元素，突显出对性别、权力及其罗生门式的探讨和反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_到底谁才是坏蛋_第二卷.docx]([附身]_到底谁�
 | Size            | 19052 bytes                           |
 | MD5             | cb435071f696ab3efd2fe5090d691faf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 强奸, 鬼屋, 青涩爱情, 二次元, 变身小说, 心理斗争, 都市故事, 青春困惑, 阴暗心理学, 现代生活, #NTR, TSF, 伪娘, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_邪血者外传---空姐篇【中篇】_改编版.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档描述了一位名叫秦蕾的空姐在航班期间的奇特经历。故事的情节围绕着她在飞机上与老师之间的暧昧互动以及性暗示的行为展开。文中详细描写了秦蕾的职业形象，穿着蓝色制服，结合她内心的邪恶想法，以及她如何在飞行过程中刻意勾引坐在对面的老师。情节中充满了性暗示，特别是秦蕾在空姐角色中表现得放荡不羁，主动与老师进行模糊的性交流。在飞机起飞过程中的场景中，空气中弥漫着暧昧与欲望。结合多次提及的情感和身体接触，整个故事描绘了一种性别与性欲之间复杂的关系，并突显了秦蕾作为一名变身角色所带来的心理冲突与体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_邪血者外传---空姐篇【中篇】_改编版.docx]([�
 | Size            | 41237 bytes                           |
 | MD5             | ee1ee8c692739fdad4be119906ca0579                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 空姐, 教师, 性暗示, 变身, 娇喘, 腹肌, 制服诱惑, 学生, 航班, 诱惑, 肢体接触, 心理冲突, 美容, 角色扮演, 邪恶企图, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

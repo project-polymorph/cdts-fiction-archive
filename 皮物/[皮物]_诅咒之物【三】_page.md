@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_诅咒之物【三】.docx]([皮物]_诅咒之物【三】
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇短篇小说讲述了一个人对克苏鲁神话的探索。在故事中，叙述者为了寻找真相，辞去了工作，独自前往一座被诅咒的岛屿，追寻那些扭曲而荒谬的记录。整个过程中，他经历了幻觉和精神上的痛苦，试图理解那些不可名状的存在。在岛屿上，他与一只可怕的触手怪物相遇并与之激烈搏斗，然后进入一个神秘的空间，最终受到一个具有人形特征的墨绿色触手女性的影响。故事呈现了涉及恐怖、神秘以及关于存在和未知力量的探讨，同时不乏性暗示和幻想元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_诅咒之物【三】.docx]([皮物]_诅咒之物【三】
 | Size            | 23044 bytes                           |
 | MD5             | 6d722476303d66334f38003658c6aab9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 克苏鲁神话, 幻想, 恐怖, 精神探险, 触手怪物, 诅咒, 幻觉, 自我探索, 两性关系, 变身, 性爱, 扭曲现实, 未知存在, 超自然, 肉体与心灵的交互, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

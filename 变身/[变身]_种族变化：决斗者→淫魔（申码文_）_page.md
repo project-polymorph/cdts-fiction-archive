@@ -7,7 +7,7 @@ TXT 下载: [[变身]_种族变化：决斗者→淫魔（申码文_）.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以卡牌游戏为背景的变身小说，故事设定在一个平行世界，卡牌游戏是人们最喜爱的竞技活动，并且开展了许多相关的比赛和学校。在文中，少年决斗者天音和树正在与自称梦魔坂夜空的女性进行一场决斗。在经过初步的对战后，夜空使用了特殊的场地魔法《淫魔的居城》，使得战斗形势逆转。当和树的王牌怪兽《黎明骑士》被转变为淫魔族怪兽后，故事逐渐进入高潮，描述了和树被迫接受身体的变性和性别认同的挑战，情节中包含了对性别和自我认知的深度探讨。文中描写了生动的决斗场面及随之而来的心理变化，展现了一个复杂的性别转变过程和可与之相关的奇幻元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_种族变化：决斗者→淫魔（申码文_）.doc]([�
 | Size            | 48640 bytes                           |
 | MD5             | 6d3aaa7316a957e524d429529d07f2ef                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 卡牌游戏, 淫魔, 性别转换, 自我探索, 决斗者, 奇幻, 自我认同, 男性/女性身份, 女性形象, 性别认同, 心理挣扎, 催眠, 幻想, 奇幻角色, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

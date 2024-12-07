@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[华代系列]固茹.docx]([变身]_[华代系列]固茹.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是《固茹》的小说文本，涉及到了变身与冒险的主题。故事开篇描绘了一位名为'猛兽'的角色，在一个充满危险的环境中进行逃亡。文中特别提到了一些角色的情感和心理状态，例如猛兽感到的焦躁与决心。故事中，猛兽在一个陌生的宅邸中遭遇了追捕，他需要在追赶者的压力下寻找生路，并面临着多次选择的艰难境遇。文字结合了悬疑与动作元素，营造出紧张的气氛，同时潜在地涉及性别与身份的主题。整体风格较为暗黑，且文字表现出一种戏剧性的张力，给读者带来深刻的代入感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[华代系列]固茹.docx]([变身]_[华代系列]固茹.d
 | Size            | 49557 bytes                           |
 | MD5             | e6c8987b68ed18df555f60347da2b760                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 原田圣也 / 真城悠                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 冒险, 动作, 心理斗争, 逃亡, 猛兽, 黑暗, 悬疑, 身份认同, 激烈追逐, 生存斗争, 女性角色, 紧张气氛, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

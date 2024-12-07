@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的女友江月白2.docx]([皮物]_我的女友江月�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说，讲述了角色江月白在性别变化过程中与其恋人间复杂而深刻的情感纠葛。故事以第一人称的视角展开，主人公与女友月白的身体和性别的变化是情节的核心，早期令主人公感到困惑和不安。随着时间的推移，主人公在对月白成了男儿身的接受与否之间挣扎，同时两人的感情也经历了波动。文中提到月白在与主人公的亲密关系中，身体变化对其性别认同及自我价值产生了重大影响，加入了许多关于身份认同和爱的深刻探讨。最终，月白的身体被其好友林海涛代替，这一意外的转折让情节走向更加复杂，而主人公对月白的爱也表现出了极大的悲伤和无奈。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的女友江月白2.docx]([皮物]_我的女友江月�
 | Size            | 17614 bytes                           |
 | MD5             | f054ca1f2227ad1ccee36d36a6ecbb26                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 情感纠葛, 自我探索, 身体变化, 身份认同, 爱情, 心理斗争, 奇幻, 青春, 悲剧, 身心分离, 恶魔, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_恐怖微信群第二章_（暂时不坑）.docx]([交换]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为伪娘 TS 变身与跨性别相关的小说，名为《恐怖微信群第二章》。故事围绕角色吕仁展开，他在一个灵异的任务世界中，与其他角色在小树林与鬼魂之间展开了冒险。故事中涉及角色之间的信任与背叛，吕仁因被误认为是鬼而面临危机，诸多角色展现了对生存的挣扎和复杂的人际关系。文本描述了角色们如何在面对鬼魂时展开计划，以及他们之间的亲密互动和感情纠葛，尤其是吕仁和胡小月之间微妙且暧昧的关系更是情节的关键。在小说的框架中，性别认同和自我探索的主题得到了体现，人物在历险中逐渐意识到彼此的复杂心理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_恐怖微信群第二章_（暂时不坑）.docx]([交换]
 | Size            | 27871 bytes                           |
 | MD5             | 4885471b70fbc972c2cdcca0823d7673                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 恐怖, 灵异, 性别认同, 伪娘, 跨性别, 冒险, 悬疑, 亲密关系, 自我探索, 复杂人际关系, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

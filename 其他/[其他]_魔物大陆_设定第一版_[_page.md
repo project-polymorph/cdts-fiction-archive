@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魔物大陆_设定第一版_[.docx]([其他]_魔物大陆
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一份关于魔物大陆的设定第一版文档，内容涵盖了多个城镇的人口、信仰、特产和历史背景等信息。文档中提到的贝路利安堡，人口为22000，以森林之神塔尔为信仰，介绍了该地区的主要作物如树稻和长根豆，以及银鳞鱼的养殖和贸易情况。树稻是一种依附于温树生长的农作物，具有吸收温树养分的特性，收割时更是丰收的季节；而银鳞鱼则因其特殊的繁殖习性与经济价值而被人们广泛捕捞，甚至造成近乎灭绝的局面。此外，文档详细叙述了失落与荣耀之村的历史，它讲述了一位英雄与拉米亚女王之间的故事，阐述了内心情感与村庄待遇的矛盾。在南扎路港和索森之星河村的部分，文档进一步分析了这些地区的经济活动、人口流动和文化背景，尤其是星鱼的神话和经济价值。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魔物大陆_设定第一版_[.docx]([其他]_魔物大陆
 | Size            | 25862 bytes                           |
 | MD5             | 171c9cd808125fc873cfe7a983294698                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔物大陆, 设定文档, 城镇, 生物特性, 经济贸易, 树稻, 银鳞鱼, 拉米亚女王, 英雄故事, 星鱼, 森林之神塔尔, 幻想, 角色设定, 商贸发展, 人口动态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

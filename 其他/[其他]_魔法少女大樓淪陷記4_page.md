@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魔法少女大樓淪陷記4.docx]([其他]_魔法少女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《魔法少女大楼沦陷记4》，属于伪娘和跨性别主题相关的小说，主要讲述了一名军装女孩与一名柔弱少女之间发生的极端场景。这篇作品包含了丰富的幻想元素，如角色性别转换、角色间的亲密互动以及对性别角色的探讨。故事中，军装女以强势的角色出现，通过强力的命令控制周围的环境，展现出她强烈的控制欲和支配感。文中描绘了她对少女的调教与角色间复杂的感情，伴随的是一些明显带有色情内容的描述。通过这些情节，作品探讨了权力、性别认同、施虐与受虐等主题，同时包含了丰富的幻想内容与对女性身体的描绘，表现出一种超现实的唯美与癖好。这类作品往往在二次元文化中受到关注，因其独特的表达与自由的想象引发了争议与讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魔法少女大樓淪陷記4.docx]([其他]_魔法少女�
 | Size            | 22194 bytes                           |
 | MD5             | 31b434da229ab7c1afac7f27d515fb0a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 魔法少女, 调教, 性别认同,  BDSM, 幻想, 性转, 权力控制, 恋物癖, 强迫, 逆后宫, 虐待, 同性爱, 软色情, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_幸运还是不幸的我-3.docx]([变性]_幸运还是不�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《幸运还是不幸的我-3》，属于一部描绘性别认同与自我探索的小说。故事围绕主角与李静的关系展开，显现出复杂的情感动态和个人成长。文本中，主角自述与李静的情感发展，包括对彼此的依赖、支持，以及在性别认同上的对话。随着故事进展，主角在生活和工作中的挣扎，以及与李静的一系列互动逐渐成为了主要焦点。李静的形象虽开始显得颇具母性，但实际上她与主角之间却存在着执拗的吸引力与羁绊。文本中穿插了许多关于青春、性别认同以及自我探索的讨论，主角在面对自身的秘密时，提出了“我喜欢女装”的问题，展示了角色的内心冲突及对未来的茫然。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_幸运还是不幸的我-3.docx]([变性]_幸运还是不�
 | Size            | 29110 bytes                           |
 | MD5             | 1b27c669a1cb486b782b60665984d3c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身小说, 伪娘, 青春爱情, 医护生活, 情感成长, 跨性别小说, 隐秘情感, 社会议题, 心理冲突, 生活琐事, 两性关系, 工作挑战, 适应变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

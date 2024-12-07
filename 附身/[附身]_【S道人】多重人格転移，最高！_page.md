@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【S道人】多重人格転移，最高！.doc]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇名为《多重人格転移，最高！》的小说，作者是トゥルー（真），翻译者是S道人。小说通过魔幻主义的表达方式，描绘了一名上班族石园欽二的内心挣扎与社会批判。这名主角在工作和生活中承受着巨大的压力，面对公司内外部对其的忽视和蔑视。在与一个自称“魂之解明师”的灵媒进行接触后，石园得到了一个神秘的念珠，声称能够“同化他人意识”。这一强大的能力引发了石园的好奇和不安，他希望通过这一能力来获得对梦想中女同事富士崎美红的爱情。在不断尝试的过程中，他的内心烦恼不断加剧，情感深邃与性欲交织的复杂情感在故事中反复出现。整篇小说不仅是一个奇幻故事，更是对个人与社会、权力与欲望关系的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【S道人】多重人格転移，最高！.doc]([附身]_
 | Size            | 101376 bytes                           |
 | MD5             | 407c552e3b041ecf3c1b7699e1b80fd9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | トゥルー（真）                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 魔幻主义, 自我认知, 灵魂连结, 欲望, 办公室恋情, 个人探索, 社会批判, 情感纠结, 幻想元素, 超自然, 心理 Drama, 强烈自我意识, 日本社会现状, 上班族生活, 女性角色, 男性角色, 情感操控, 意识同化, 文学作品                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

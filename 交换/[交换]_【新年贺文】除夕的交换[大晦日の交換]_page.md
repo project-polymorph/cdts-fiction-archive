@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【新年贺文】除夕的交换[大晦日の交換].doc]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇描绘关于一对年轻夫妇在除夕互换身体的纯爱故事的文档。故事围绕着经营一家居酒屋的夫妻美智雄和清美展开。在经历了一年辛苦的工作后，这对夫妇在除夕夜喝了一种名为「皇汉」的酒，这种酒有着神秘的力量，能够使饮用者互换身体。故事中提到，清美希望保持这家店的运营，而美智雄面临着未来的职业选择。随着情节的发展，两人决定每年除夕通过饮用「皇汉」来进行身体互换，共度不一样的体验，这样不仅让他们的生活增添了乐趣，也加深了他们之间的理解与情感。文中探讨了身体和身份的界限，以及爱与陪伴的深意。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【新年贺文】除夕的交换[大晦日の交換].doc]
 | Size            | 72192 bytes                           |
 | MD5             | 424d74d9f8428129e1f5ee4d7785db51                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 無名                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 纯爱, 神秘酒, 身体互换, 年度传统, 居酒屋, 婚姻, 自我探索, 命运交织, 青春, 日常生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_人皮+附身双主角《色，声，香，味，细滑》
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档描绘了一个名为《色，声，香，味，细滑》的跨性别与变身主题小说，主要围绕两个男主角段浩与李谦之的奇幻经历展开。故事开篇设定在一个桃花盛开的场景中，段浩在梦中漫步，奇幻的叙述带有神秘的宗教色彩，涉及血红月亮及诡异的佛像。随着情节的发展，李谦之在醒来后意识到自己灵魂出窍，并发现自己身体上的各种奇异变化与能力，后背生有一张新的嘴巴，展现出一种超自然的能力。文中描绘了浓烈的肉欲场景，以及角色在自我认知与身体转变过程中的复杂情感，涉及了强烈的吸引与恐惧交织的信息流。整体使用了细腻的语言，显现出角色内心的冲突与变化。整体气氛充满了诡异而又迷人的诡计，给予读者一种浸入式的阅读体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_人皮+附身双主角《色，声，香，味，细滑》
 | Size            | 82432 bytes                           |
 | MD5             | 52b8db56d1ebf00c31a0bd479060f41f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身小说, 伪娘, 灵魂出窍, 血月, 佛像, 肉欲, 性别认同, 超自然能力, 奇幻幻想, 自我认知, 桃花, 宗教色彩, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

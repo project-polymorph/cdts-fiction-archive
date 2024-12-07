@@ -7,7 +7,7 @@ TXT 下载: [[附身]_缠魂米二（1）.doc]([附身]_缠魂米二（1）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《缠魂米二（1）》，其内容设定在一个名为北斗市的架空城市中。故事围绕着一群神秘的黑袍人展开，他们在一座西式教堂中进行聚会，祷告着与黑色荆棘相关的神灵。文中提到了一只在石雕中的黑色金乌，象征着邪恶与献祭，暗示着角色们在追求某种力量或利益。集会过程中，角色们讨论与地产巨头邓丰收的交易以及关于失踪女子黄婷婷的传闻，涉及到缠魂米这一神秘物质的影响，表明可能与身体与人格的契约有关。各角色在交谈中展现出复杂的关系与权力斗争，掩藏着各自想要保护的秘密，增添了紧张的叙事气氛。此文本不仅探讨了生理和人格的变化，也引发了对身份认同和自我意识的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_缠魂米二（1）.doc]([附身]_缠魂米二（1）.doc)
 | Size            | 59392 bytes                           |
 | MD5             | af98b8173c71ee4b2471c0cc6005e964                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 变身, 跨性别, 黑色荆棘, 金乌, 献祭仪式, 权力斗争, 身体交换, 自我认同, 神秘组织, 阴谋, 都市幻想, 二次元文化, 性别研究                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

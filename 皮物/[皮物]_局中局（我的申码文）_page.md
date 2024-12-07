@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_局中局（我的申码文）.docx]([皮物]_局中局（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《局中局（我的申码文）》的内容，故事设定在清河市，围绕着天行商业公司的董事长郭凯成本人以及他的心腹助理夏子明的复杂关系展开。在一段奢华的生活背景下，郭凯成的内心却充满了欲望，他对妻子的美貌屡屡感到迷醉，同时暗藏着对竞争对手的阴谋。为了打倒竞争对手成飞集团，郭凯成计划利用一种新研发的人皮衣来获取对方的机密，甚至不惜利用妻子的生理特征去获得美丽女高管的体液。他的助手夏子明则在这场阴谋中暗藏自己的心理需求和性别认同的困扰。整个故事描绘了权力与欲望、竞争与阴谋，以及对自身认同的探索等复杂主题，情节中频繁出现的色情描写使得作品具备了成人向的特征。诸如“看到的是他的心腹助手，公司的副经理——夏子明。”和“这清洁工正是夏子明穿人皮替代的。”等句子展示了角色之间密切的互动和潜在的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_局中局（我的申码文）.docx]([皮物]_局中局（
 | Size            | 41682 bytes                           |
 | MD5             | 6186a3db9eaa31aea571f1a7b553397b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | TS小说, 变身, 跨性别, 人皮衣, 阴谋, 强权斗争, 自我认同, 性别转换, 情感纠葛, 成人内容, 研究与科技, 禁忌恋, 隐藏身份, 伪娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

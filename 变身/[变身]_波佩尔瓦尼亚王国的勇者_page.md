@@ -7,7 +7,7 @@ TXT 下载: [[变身]_波佩尔瓦尼亚王国的勇者.doc]([变身]_波佩尔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇名为《波佩尔瓦尼亚王国的勇者》的变身与跨性别相关小说，讲述了勇士哈特文爵士为拯救被魔法猫绑架的公主索菲亚的冒险过程。故事背景设定在一个幻想王国中，勇士在火山顶上与一只经过魔法改造的巨大猫科动物——魔猫法索斯展开斗争。小说中不仅描绘了勇士的勇气和决心，还通过角色对公主的迷恋表现出对爱情的追求。在最终的对决中，哈特文击败了魔猫，却不幸导致了公主的死亡，引发了对勇者身份的反思与遗憾。文中通过生动细腻的描写，展现了战斗的紧张情境和情感的冲突，并揭示了角色间复杂的关系，令人思考英雄与反派之间的界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_波佩尔瓦尼亚王国的勇者.doc]([变身]_波佩尔�
 | Size            | 61952 bytes                           |
 | MD5             | 68ab720c91e94d88700a88f9ab1d59cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | taralynnsd                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 勇者, 幻想小说, 公主, 魔猫, 爱情, 冒险, 勇气, 角色转变, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

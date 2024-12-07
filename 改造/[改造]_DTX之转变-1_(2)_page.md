@@ -7,7 +7,7 @@ TXT 下载: [[改造]_DTX之转变-1_(2).docx]([改造]_DTX之转变-1_(2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《DTX之转变-1》是一个涉及性别转换和自我探索的小说，讲述了主人公叶冠林与其妻子张曼的生活故事。故事中引入了DTX集团作为科技背景，其在基因科学和现代医药领域的成就将成为改变他们命运的关键。叶冠林与张曼是一对普通的工薪阶层夫妻，由于无法怀孕而面临生活的压力和夫妻关系的危机。故事描绘了他们对生活的无奈和期望，张曼在工作上提到DTX新研发的技术可能会帮助他们改善现状，增大怀孕的机会。特别是在一次约会后，夫妻俩分享了对未来的希望，体现出生活的艰辛与甜蜜交织的复杂感情。小说涉及人性、基因改造、性别认同等主题，采用了一些情感细腻的描写，反映出夫妻间的爱与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_DTX之转变-1_(2).docx]([改造]_DTX之转变-1_(2).docx)
 | Size            | 38251 bytes                           |
 | MD5             | 2ef80eda868bec631d28481c78e6601d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 基因科技, 夫妻关系, 自我认同, 情感危机, 现代医学, 变身, 生育问题, 伦理探讨, 爱情, 性别角色, 生理心理转变, 科技与生活, 自我探索, 社会压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

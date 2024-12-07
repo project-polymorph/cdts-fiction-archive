@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【翻译】天使的诱惑恶魔的威胁.doc]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘与跨性别主题的小说翻译，标题为《天使的诱惑恶魔的威胁》。故事围绕着主人公北泽勇太和他的语文老师柳田之间的互动展开。在课堂上，勇太因频繁的打瞌睡而受到柳田的训斥，并被要求放学后到指导室面谈。在指导室，勇太和介绍的女学生芦峰比奈发生了奇异的事件，比奈不知何故锁住了门，并医她与勇太之间展开了诡异的互动。比奈声称北泽的灵魂已经出窍，附身在她的身体里，并以此控制局势，威胁柳田。随着剧情的发展，比奈逐渐显露出性暗示性的行为，且将柳田置于一个极其尴尬的境地，展现了特定的性别角色和权力的扭曲。该文在推动情节的同时，触及性别认同与身体控制的主题，以及自我认知的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【翻译】天使的诱惑恶魔的威胁.doc]([附身]_�
 | Size            | 50688 bytes                           |
 | MD5             | fe360983c8ecc55eb881d178e18e41b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 附身, 灵魂出窍, 性骚扰, 校园生活, 权力游戏, 性别角色, 禁忌恋, 自我认知, 自我探索, 强烈的性暗示, 老师与学生, 青春期困惑, 暗黑幻想, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

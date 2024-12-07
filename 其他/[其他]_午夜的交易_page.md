@@ -7,7 +7,11 @@ TXT 下载: [[其他]_午夜的交易.docx]([其他]_午夜的交易.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一个涉及黑暗仪式和性别转变的故事情节。故事开头描绘了一名年轻人为了实现某种愿望而进行的召唤仪式。他用动物的尸体以及鲜血绘制了一个召唤图案，试图召唤一位恶魔。随着仪式的进行，恶魔顺利降临，展现出她诱人的外貌，并与年轻人达成契约。年轻人希望将一位他心仪的女子变成自己的奴隶。
+
+故事中充满了对控制和操纵的描写，年轻人通过恶魔的帮助获得了控制欲望的能力。恶魔给了他强大的权力，使他可以随意支配那个年轻女子，名叫黑星梦。随后的情节涉及到强烈的性暗示和性行为的描写，展示了年轻人对黑星梦的暴力控制，以及在这个过程中女性角色的屈从与绝望。
+
+整篇故事围绕着权力与欲望的斗争展开，深刻探讨了对人性的压迫与操控，同时包含了大量露骨的色情内容与无法逃避的绝望情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[其他]_午夜的交易.docx]([其他]_午夜的交易.docx)
 | Size            | 23912 bytes                           |
 | MD5             | aa7c4ec82a5ff5b3a40c3f54ce39f302                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 黑暗仪式, 恶魔交易, 性别转变, 控制与操纵, 强迫性行为, 屈从与绝望, 性奴, 召唤, 欲望与权力, 二次元小说, 伪娘相关, 幻想故事, 超自然, 秘密欲望, 变身, 禁忌关系, 绝望与屈辱, 冒险与阴谋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

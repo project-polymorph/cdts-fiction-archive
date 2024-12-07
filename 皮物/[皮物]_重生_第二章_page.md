@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_重生_第二章.docx]([皮物]_重生_第二章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一段关于陈乐容和她的妹妹陈喜荣之间的互动。故事中，陈乐容回到家中，遇到年轻的保姆李雨桐，两人的对话透露出对家庭日常生活的关心。随着情节的发展，陈乐容表现出对妹妹的深切关爱，她不仅关注妹妹的学业，也愿意为此做出牺牲与努力。此外，陈乐容保护妹妹的场景展现了她强烈的保护欲和温暖，尤其是在面对校园霸凌的情境时，她挺身而出，体现了姐弟间的依赖与支持。情感与家庭关系在故事中得到了细致入微的描绘，并反映了在困扰和冲突中，亲情与温暖是多么重要。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_重生_第二章.docx]([皮物]_重生_第二章.docx)
 | Size            | 39987 bytes                           |
 | MD5             | cdfe7889b65927a1822584c821816bbc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 姐弟情, 温情保护, 校园霸凌, 家庭生活, 少女成长, 自我认知, 温暖, 日常互动, 亲情, 心理斗争, 角色发展, 情感交流, 弱者保护, 青春校园, 情感支持                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_老文章（手套）.docx]([变身]_老文章（手套）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于变身主题的小说，讲述了主角陆帆通过一个神奇的手套经历了性别的变化。故事开始于寒冷的早晨，陆帆因对男性身体的厌倦而幻想变成女性。通过网络，他发现了一个提供变性商品的商店，最终购买了一只手套，能够改变外貌和性别。故事详细描述了陆帆在使用手套后经历的变化，包括身体各部位逐步变为女性的过程，伴随着心理上的自我认同和欲望的冲突。他逐渐陷入到新的女性身份中，同时也伴随了一些性的探索和感受，体现了对性别认同和身体的深刻反思。整篇小说内容涉及不适合未成年人阅读的情节，包含详细的身体变换和生理反应描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_老文章（手套）.docx]([变身]_老文章（手套）
 | Size            | 21217 bytes                           |
 | MD5             | 92a80f628cf9a3f74c324d012815f259                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Ecup                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 自我探索, 伪娘, 小说, 超巨乳, 幻想, 变装, 性转, 女性视角, 奇幻, 情感冲突, 成人内容, 身体变化, 欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

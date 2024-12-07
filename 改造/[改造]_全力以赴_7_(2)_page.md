@@ -7,7 +7,7 @@ TXT 下载: [[改造]_全力以赴_7_(2).docx]([改造]_全力以赴_7_(2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于角色凯拉在经历性别转变的过程中的情感与挑战的叙述。故事发生在斯尔思柏瑞庄园，讲述了凯拉与姐弟两人贝丝和朱儿丝的关系，以及她在服用激素后的自我认识和对未来的思考。在一次舞会上，凯拉与保罗的相遇，让她意识到了对自我身份的困惑与探索。特别是在她尝试穿上女性服装并跳舞后，引发了对性别认同的深刻思考。同时，文中提到了激素的影响以及凯拉对自身情感的挣扎，例如她对保罗的喜欢，同时又对自己的感情混乱感到困惑。通过这一系列情节，展现了角色在性别转换过程中面临的内心冲突和成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_全力以赴_7_(2).docx]([改造]_全力以赴_7_(2).docx)
 | Size            | 42431 bytes                           |
 | MD5             | 59bb6e234243485abdfd808c37652ef1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 情感探索, 成长, 自我认知, 荷尔蒙影响, 舞会, 复杂人际关系, 性别认同, 情感困惑, 二次元, 小说, 女装, 角色发展, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

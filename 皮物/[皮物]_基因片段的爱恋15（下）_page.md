@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_基因片段的爱恋15（下）.doc]([皮物]_基因片�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇描写变身与跨性别相关情节的小说，故事围绕角色艾米丽与主角之间的残酷互动展开。在这一部分中，主角通过切割与皮肤融合的手术，控制艾米丽的身体。艾米丽具备通过基因改造技术夺取他人身体器官的能力，但最终被主角所掌控。在生死攸关的情况下，艾米丽的意识逐渐崩溃，最终接受了变为主角仆人的命运。文件中包含大量生动且细致的描述，包括身体改造、痛苦与快感交织的情感，以及对性欲与身份认同的探索。该文本涉及成人内容，包含显著的性暗示与变身主题，适合研究跨性别与角色认同相关领域的学者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_基因片段的爱恋15（下）.doc]([皮物]_基因片�
 | Size            | 35840 bytes                           |
 | MD5             | 616c28e21b9a1be483bcacbdd320c969                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 基因改造, 成人内容, 身体改造, 意识融合, 性欲, 自我认同, 控制与反抗, 情感冲突, 性别角色, 奇幻, 黑暗幻想, 恶魔, 生物技术                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

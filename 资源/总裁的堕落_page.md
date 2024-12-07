@@ -7,7 +7,7 @@ TXT 下载: [总裁的堕落.doc](总裁的堕落.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说围绕主人公杨斌的生活展开，描绘了他作为年轻董事长的奢华和复杂的爱情关系。故事的开头以初夏的宁静场景为背景，杨斌在床上与一名女子亲密缠绵。随后剧情逐渐揭示了他的生活琐事与工作压力，包括接到秘书的电话要求他去公司处理例行事务。在这个过程中，读者可以感受到杨斌对于公司事务的无奈与对秘书态度的调侃，同时也展现了他与女性之间的性关系，以及他对女性的物化观点。小说描绘了权力、欲望以及角色之间微妙关系，非常适合研究性别角色转变与现代人际关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [总裁的堕落.doc](总裁的堕落.doc)
 | Size            | 82944 bytes                           |
 | MD5             | 100d866f32a07046e94033a9360573c0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 强奸, 纯爱, 都市, 爱情, 权力, 自我认知, 男女关系, 调教, 逆后宫, 非人化, 女性视角, 豪门, 现代职场                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

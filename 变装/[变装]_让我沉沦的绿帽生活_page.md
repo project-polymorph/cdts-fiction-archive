@@ -7,7 +7,7 @@ TXT 下载: [[变装]_让我沉沦的绿帽生活.doc]([变装]_让我沉沦的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位经历性别转换的人的故事，描绘了其身体与心理的变化，以及在社交和婚姻生活中所面临的挑战和适应。故事的主角在泰国进行了隆胸手术，并透过编程教学与直播逐渐发展出新的人际关系和收入来源。在与妻子的关系中，面对身材改变后妻子的心理状态，主角努力尝试重建夫妻之间的亲密感。文本中涉及多元的性别认同和性别表达，以及自我探索与人际关系中的复杂情感。故事中包含了一些关于自我认知的冲突，自我价值的探寻，以及生活中对伴侣的关怀和支持。这是一个关于适应和成长的情感旅程，充分展示了主角在追求自我认同中的内心挣扎与努力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_让我沉沦的绿帽生活.doc]([变装]_让我沉沦的�
 | Size            | 76800 bytes                           |
 | MD5             | a3c91c4fb18d1987cdc1b84616f3e4ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | fulvopilosus                               |
+| Region          | 未知                               |
+| Date            | 2022-05-23                                 |
+| Tags            | 性别认同, 自我探索, 跨性别经历, 婚姻关系, 情感发展, 编程教学, 生理变化, 心理适应, 社交媒体, 视频创作, 生活适应, 家庭关系, 科技与性别, 泰国手术, 夫妻互动, 性别表现, 情感支持, 灵活收入                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

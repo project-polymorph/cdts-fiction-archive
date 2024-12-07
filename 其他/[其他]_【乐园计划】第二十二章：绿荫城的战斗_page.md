@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【乐园计划】第二十二章：绿荫城的战斗.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是《乐园计划》第二十二章：绿荫城的战斗的文本，讲述了主人公寒汐在面对强大的恶魔时的英勇斗争。文中描绘了一场激烈的战斗，寒汐在墓园中孤身一人与恶魔作斗争，恶魔逐渐显现出其可怕的形态，并展开猛烈攻击。寒汐尽管受伤，依然展示出不屈的勇气，借助自身的魔法技能与战略智慧，多次躲避恶魔的致命攻击，并对其发起反击。随着她的努力，最终得到了同伴的支援，最终在四位少女的合作下，成功打败了恶魔。此章节通过细腻的描写呈现了战斗的紧张氛围，以及角色之间深厚的情感纽带。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【乐园计划】第二十二章：绿荫城的战斗.doc
 | Size            | 20923 bytes                           |
 | MD5             | ea0f0b3980250e2ec0ff5b8ad515f735                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 战斗, 恶魔, 英雄主义, 魔法, 同伴, 成长, 冒险, 幻想, 超自然, 勇气, 自我探索, 团结, 挑战                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

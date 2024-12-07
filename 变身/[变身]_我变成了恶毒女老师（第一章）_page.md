@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我变成了恶毒女老师（第一章）.doc]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名高三学生张云飞遇到的超自然事件的小说，描述了张云飞在一次晚自习期间，意外看到自己的语文老师汪波和几位女同学之间发生的奇怪情景。故事的开篇描绘了张云飞的生活和他对同班女生的暗恋。汪波是一名外貌不佳但心机深沉的老师，张云飞与同学们对她有着复杂的情感。随着情节发展，张云飞在无意中闯入了汪波的办公室，目睹了一场诡异的儀式：汪波利用魔法将几位女同学的身体与灵魂融合，以实现她变身为更年轻、更美丽身体的目的。最终，张云飞的灵魂也被转移到汪波的身体里，成为了一个失去身份的中年女性，而汪波则彻底占据了张云飞的身体，开始以张云飞的名义生活。该小说涉及性别认同、身份转变和魔法等元素，并探索了角色之间复杂的人际关系和心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_我变成了恶毒女老师（第一章）.doc]([变身]_�
 | Size            | 56320 bytes                           |
 | MD5             | bb96e9542ce8bc80a4078fe2b277bd5b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 魔法, 校园奇幻, 心机老师, 灵魂融合, 青春校园, 青春成长, 身份转变, 性别认同, 魔法小说, 性转, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

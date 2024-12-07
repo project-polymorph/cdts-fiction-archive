@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_睚眦之主系列第二章_恩赐天使（已取消收费
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说《恩赐天使》的第二章，描绘了主要角色安东尼在进行复仇后逐渐感受到内疚的心理变化。故事中，安东尼通过伪装与恶作剧来报复邻居克莱尔，但随着时间的推移，他发现自己的行为对克莱尔的生活造成了伤害，导致她曾经美丽的形象与生活逐渐崩溃。克莱尔从社会中被孤立，努力寻找工作却因酒驾受到了重创。在了解到克莱尔的困境后，安东尼决定改变自己的行为，试图帮助克莱尔恢复她的自尊与生活，成为她的“恩赐天使”。文中探讨了复仇的代价与自我救赎的主题，结合了角色的内心斗争与逐渐转变的情感轨迹。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_睚眦之主系列第二章_恩赐天使（已取消收费
 | Size            | 46305 bytes                           |
 | MD5             | d8be87c82ce08658d2fa371d757056dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 复仇, 自我救赎, 心理变化, 邻里关系, 女性角色, 困境, 支持与帮助, 二次元, 性别认同, 内心挣扎, 情感冲突, 转变, 成长, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

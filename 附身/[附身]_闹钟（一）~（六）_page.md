@@ -7,7 +7,7 @@ TXT 下载: [[附身]_闹钟（一）~（六）.doc]([附身]_闹钟（一）~�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《闹钟（一）~（六）》是由作者创作的一部跨性别主题小说，讲述了主角左蒙的生活处境与内心的挣扎。开篇设定在职场新人与社会对于个人性别认同的压力下，主人公每天在繁重无聊的工作中机械地度过，直到一个奇形怪状的机械闹钟出现。随着故事的发展，左蒙发现自己被困在一个时间循环之中，每当闹钟响起，他的生活就会重新开始在特定的日子。在反复的循环中，左蒙经历了绝望、迷茫与疯狂的挣扎，并试图逃脱这个无尽的循环。小说涉及了个人的心理冲突和对性别认同的深刻探索，情节也触及了较为敏感的社会议题与心理状态，包含变身、跨性别、强奸、绝望等多种元素，从而使整个故事更具复杂性与深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_闹钟（一）~（六）.doc]([附身]_闹钟（一）~�
 | Size            | 89088 bytes                           |
 | MD5             | e90b6f84e6c327f2963f611e8bc2d284                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-xx-xx                                 |
+| Tags            | 跨性别, 机械闹钟, 时间循环, 心理挣扎, 个人认同, 强奸, 绝望, 职场生活, 生活重复, 自我探索, 迷失, 社会压力, 情感纠葛, 幻想, 自我毁灭                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

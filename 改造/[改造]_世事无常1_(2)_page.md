@@ -7,7 +7,7 @@ TXT 下载: [[改造]_世事无常1_(2).docx]([改造]_世事无常1_(2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于年轻程序员苏木木的成长与奋斗故事。故事开始于苏木木的内心独白，他感慨世事无常，回忆起自己从小父母双亡，跟随祖父母长大的经历。虽然家庭贫困，但他凭借出色的智商和努力，于15岁便读大学，大学毕业后与学长方森共同创办了一家市值千万的IT公司。在公司快速发展的背后，苏木木全心投入到一款游戏内核的开发中。但随着公司的发展，他的好朋友兼合伙人方森却选择了潜逃，卷走了公司的资金，留给苏木木一个困境和无奈。故事中展现了苏木木的内心挣扎和对朋友背叛的痛苦，同时也描绘了他与新老朋友的互动，情感的纠葛使故事更加复杂。作品的情节涉及性别认同、友情与背叛等主题，值得深思和研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_世事无常1_(2).docx]([改造]_世事无常1_(2).docx)
 | Size            | 49418 bytes                           |
 | MD5             | 2aa6715aa6d0118acd0cef15c6930b46                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 年轻程序员, 性别认同, 公司合作, 经历与成长, 背叛, 创业艰难, 情感纠葛, 自我探索, 命运转折, 大学生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

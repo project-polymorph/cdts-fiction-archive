@@ -7,7 +7,7 @@ TXT 下载: [[其他]_西游情厄传（第二十回）.docx]([其他]_西游情
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《西游情厄传》的第二十回，内容围绕转世的孙悟空化身飞龙郡主与道士艾真真之间的故事展开。起初，飞龙郡主因杀生而被天庭追缉，正当危急时刻被道姑艾真真所救。文中描绘了两者在危险境地中暗生情愫的情节。当飞龙郡主得知艾真真奄奄一息时，心中流露出深切的忧虑与悲恸。随后，故事转向飞龙郡主与道姑的交谈，透露了神秘法宝的宝藏，并预示了飞龙郡主的魔劫即将结束。接着，飞龙在寻找和辨识隐藏财宝的过程中，不可避免地陷入情意绵绵的戏剧之中。此外，文中还涉及了一名奇怪的怪人自称“玉晨奴”，他以报答救命之恩为由，愿意投身于飞龙身边，进一步推动了情节的发展。此回合通过细致的描写将性别与自我认同的主题和复杂的人际关系展现得淋漓尽致。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_西游情厄传（第二十回）.docx]([其他]_西游情
 | Size            | 29426 bytes                           |
 | MD5             | fe3d53280f24e474231cbb67e0299142                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 西游记, 变身, 伪娘, 跨性别, 魔法, 奇幻, 情感纠葛, 宝藏探险, 转世, 自我探索, 道教, 异界, 角色发展, 性别认同, 传说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

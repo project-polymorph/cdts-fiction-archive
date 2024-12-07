@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_說不定,我被偽青梅竹馬推了入坑(下).docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《说不定，我被伪青梅竹马推了入坑(下)》，是一本关于性别转换与跨性别主题的小说作品。故事的情节围绕人物阿祈与主角之间的互动展开。在文中，阿祈以调皮的角色出现，引导主角体验了一种名为“魔形之肤”的特殊材料，该材料具有变换外形的功能。主角在穿戴这一材料的过程中，经历了紧张与兴奋的双重感受，感受到自我身份的变化，并对新身体有了初步的认知与感受。文中描绘了主角在使用魔形之肤后，变得更加纤细、曲线优美的身体外貌，也突出了材料使用过程中的身体感受与心理变化。文章还涉及了一些性暗示与性别认同的复杂主题，展现了对性别与身份的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_說不定,我被偽青梅竹馬推了入坑(下).docx]([�
 | Size            | 30694 bytes                           |
 | MD5             | 7eea8a4d9402f5806dca990a5a4b82c2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 魔形之肤, 男女转换, 情感探索, 自我发现, 奇幻, 二次元, 科技幻想, 爱情, 调教, SM, 强烈快感, 身体变换, 虚拟现实, 校园, 角色扮演, 青春, 自拍偷拍                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

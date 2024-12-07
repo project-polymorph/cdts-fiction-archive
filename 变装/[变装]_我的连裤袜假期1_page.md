@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的连裤袜假期1.doc]([变装]_我的连裤袜假期
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一名名为杰米的少年在其8年级生活的最后一天所经历的一系列事件。他对穿着母亲的连裤袜产生了强烈的迷恋，描绘了他偷穿连裤袜的心理感受以及对女性形象的向往。从他与母亲的对话中，可以看到他因被发现而感到的羞愧和困惑。母亲对杰米的兴趣有着复杂的反应，她虽然表现出震惊，但也愿意与杰米进行平静的交流。在文中，杰米的穿着不断揭示了其对女性角色的认同与向往，这种对性别与自我认同的探索是整篇故事的核心。而母亲提出的条件，为杰米的身份认同与自我接受提供了更深入的思考和可能性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的连裤袜假期1.doc]([变装]_我的连裤袜假期
 | Size            | 34816 bytes                           |
 | MD5             | 25079d25084ea990f10f36f419597014                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 跨性别, 青少年探索, 母子关系, 心理冲突, 连裤袜, 秘密, 自我探索, 成长故事, 家庭, 生活日常, 幻想与现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

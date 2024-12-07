@@ -7,7 +7,7 @@ TXT 下载: [[交换]_小弟的背叛使他成了被绑票的空姐.doc]([交换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说题为《小弟的背叛使他成了被绑票的空姐》，主要讲述了一名29岁空姐陈可在工作后回家路上被一个美丽陌生女人绑架的故事。故事开头通过对陈可的外貌与职业特征的详细描写，展现了她的美丽与优雅。然而，在洗手间内，她被一个陌生美女用药物迷晕并绑架。陌生女子不仅抢走了陈可的衣服，还将她捆绑，这使得陈可陷入恐惧与困惑之中。随着情节的发展，陌生女子穿上了陈可的空姐制服，并表现出对陈可柔软可人的身体的控制欲。小说探讨了性别身份与权力关系，并通过对陈可内心挣扎的描写，展现了她在被控制与羞辱下的脆弱状态。整个故事围绕着绑架与性别转换，富有戏剧张力与心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_小弟的背叛使他成了被绑票的空姐.doc]([交换
 | Size            | 74240 bytes                           |
 | MD5             | fd5fc90746f7d39f5c8640fb90a9b74e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 绑架, 空姐, 性别认同, 恐惧, 情感纠葛, 自我探索, 少女性向, 强奸, 调教, NTR, 乱伦, 年龄差, 制服, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

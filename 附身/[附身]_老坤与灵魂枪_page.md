@@ -7,7 +7,7 @@ TXT 下载: [[附身]_老坤与灵魂枪.docx]([附身]_老坤与灵魂枪.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了一部与性别转换主题相关的小说内容，涉及角色在性别与身份认同上的探索。故事围绕着角色老坤与他的朋友之间的对话进行展开，情节涉及一名女性角色利用意外的情况下与老坤的朋友发生肢体接触，之后引发了内心的冲突和道德抉择。从文本中可以看出，老坤在送女友回家过程中逐渐导致了复杂的情感纠葛，最终与他好友的关系陷入尴尬。这段对话暗示着在性别认同和情感纠葛之间的复杂性，包括对自我认知和他人情感的探索。文中提到了手枪的意象，作为一种象征，引发了性别转换的奇妙经历。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_老坤与灵魂枪.docx]([附身]_老坤与灵魂枪.docx)
 | Size            | 25733 bytes                           |
 | MD5             | f41f595bd9f911aa024960f40d67d4cb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我认知, 情感纠葛, 跨性别, 伦理道德, 校园爱情, 强奸, 灵魂交换, 禁忌之爱, 心理斗争, 虚拟现实, 逆后宫, 调教, 男娘, 文化探索, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

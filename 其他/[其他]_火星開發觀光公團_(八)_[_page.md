@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火星開發觀光公團_(八)_[.docx]([其他]_火星開�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一个名为‘火星开发观光公团’的科幻故事，主要围绕两位角色——芽实和宇风之间的交流与探索。故事开始于芽实带领宇风进到一个地下室，查找关于名为‘米拉妮五号’和‘米绪亚六号’的高拟真机器人档案。在这个过程中，他们面临着诸多神秘和隐秘的情节，芽实利用宇风的生理特征强化对机器人的访问权限，表现出一种科技与性别认同的交织。在寻找更多信息的过程中，宇风被卷入了复杂的情感和自我认知的困惑，尤其在面对窒息的引导和奇异的机器人互动时。他对芽实的态度以及对周围环境的认识逐渐模糊，最后陷入对自己身份的思考，并质疑眼前的种种情况是否都是幻象。此故事在展现人物之间复杂关系的同时，也探讨了性别和身份认同等议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火星開發觀光公團_(八)_[.docx]([其他]_火星開�
 | Size            | 18020 bytes                           |
 | MD5             | fb1715d220bbd43dc583d07735ed503d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 机器人, 性别认同, 自我探索, 地下室探险, 高科技, 奇异互动, 隐秘档案, 情感纠葛, 思维幻象, 情感困境, 宇宙探索, 变化无常, 身份危机, 未来科技, 机器人的情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】骗局（上）（字数限制，拆分为上�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为跨性别题材小说《骗局》的上篇，讲述了主角罗德和迪芙妮在拉斯维加斯的行骗生活。故事开始于罗德的目光被一个目标吸引，他在经过一段时间的传统行骗行为失败后，决定策划一场复杂的骗局。在一次偶然的机会中，罗德遇见了同样精明能干的迪芙妮，二人因共同的猎物而走到了一起。在相互吸引的过程中，他们的身体和心理发生了一系列的碰撞与转变。文中详细描写了罗德对迪芙妮的爱慕以及他们的计划，尤其是迪芙妮提到的护身符能够“改变身体”的奇妙情节，使得故事充满了奇幻和悬疑的元素。整个过程伴随着他们对目标的追逐、身体认同的探讨和情感的深度交织，形成了一幅复杂的人性全景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】骗局（上）（字数限制，拆分为上�
 | Size            | 51572 bytes                           |
 | MD5             | 40604114c786122dc7505d6caf860fbd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Denver（原著）、魔之天涯（编译）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 拉斯维加斯, 爱情, 骗术, 奇幻, 自我探索, 欲望, 金钱, 神秘, 情感纠葛, 生理性别, 猎物意识, 心理游戏, 社会边缘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

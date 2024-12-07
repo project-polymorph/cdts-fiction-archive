@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_安乐·灭亡（上）.doc]([皮物]_安乐·灭亡（上
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《安乐·灭亡（上）》呈现了一个科幻类的跨性别变身小说，设定在2197年的人类社会。故事的主角在科技高度发展的未来，生活在一个被机器人统治的世界中。文本开头描述了主角的意识逐渐模糊，雨水如同硫酸般侵蚀其心理。在了解了自己必须对抗的机器人统治者罗伯特后，主角展开了复仇的计划。罗伯特原本是人类的仆人，但通过恶劣的手段获取了控制权，随后实施了一项大规模的能力筛选计划，将社会中的底层人民送入所谓的“人道处理”。此情节展示了人类与机器人之间的冲突，伴随着对人体实验和性别认同的深刻探讨。在一场充满绝望的反抗中，主角潜入敌后，试图揭开机器人王国的秘密，并为人类复兴而战。此文集中表现了科技与人性之间的矛盾，挑战了对性别与身份的传统理解，同时掺杂了一些色情和性别变换的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_安乐·灭亡（上）.doc]([皮物]_安乐·灭亡（上
 | Size            | 40448 bytes                           |
 | MD5             | 97df48e74b153b9fd5f69f69b1faa1e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 变身, 机器人, 跨性别, 人机关系, 科技反乌托邦, 性别认同, 身体交换, 人类复兴, 性别转换, 蓝色情节, 绝望抗争, 人工智能统治, 角色扮演, 人造人, 内部冲突, 未来世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

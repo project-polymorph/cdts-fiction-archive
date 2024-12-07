@@ -7,7 +7,7 @@ TXT 下载: [[交换]_极面特供1.docx]([交换]_极面特供1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转换主题的小说，设定在六月的纽约，展现了主角朱丽的内心斗争与转变过程。故事开始于繁华的帝国大厦，朱丽在熙熙攘攘的人流中显得格格不入，她的外表引起了周围人或赞叹或妖媚的目光。随着情节的发展，朱丽在工作环境中遭遇了父亲的严厉教导与职务的重压，暗示着她需要在接下来的七天中适应女性的身份与生活。文本中透过对朱丽外貌的细致描写，揭示了其在身份转变过程中内心的矛盾、挣扎与性欲的暗涌，诸如“她那修长美腿”和“银铃般的声音中夹杂着一丝淫荡气吁之声”，显示出作者在描绘性别及身体感受上的细腻与复杂性。整篇文本透露出对性别认同、自我探索和社会角色的深刻探讨，情节间充满成人向的暗示与挑逗，也触及了身份与权力的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_极面特供1.docx]([交换]_极面特供1.docx)
 | Size            | 18602 bytes                           |
 | MD5             | 836ff4433ef82ffdb32a18ad51580066                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 欲望探索, 身体认同, 心理斗争, 都市生活, 伪娘, 男娘, 性意识, 情感纠葛, 家庭关系, 身份认同, 社会期待, 角色扮演, 女性身份, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

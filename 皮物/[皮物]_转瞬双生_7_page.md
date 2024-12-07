@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_转瞬双生_7.docx]([皮物]_转瞬双生_7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了李茉莉与徐平的家庭聚会。李茉莉因徐平父母的到来而感到愤怒，因为他们的传统观念和粗鲁行为让她感到难以接受。在聚会期间，李茉莉忍无可忍，因对徐平父母的不满而与他们发生冲突，甚至有言语上的对抗。徐平的父母对于李茉莉的生活方式感到困惑且有些不满，试图捍卫自己重男轻女的观点。从李茉莉的内心独白来看，她对徐平父母的不满加剧，但她也意识到这些情绪和反应与徐平的意识有关。最后，李茉莉决定带徐平的父母在城市里游玩，并计划去某个新楼盘咨询房子。该文件内容涉及家庭关系、社会观念的冲突以及个人身份的探索，揭示了人物内心的复杂情感与转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_转瞬双生_7.docx]([皮物]_转瞬双生_7.docx)
 | Size            | 31134 bytes                           |
 | MD5             | f8bbbbb2c1eaea07923461f3f1bb0db4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 家庭聚会, 社会观念冲突, 角色扮演, 个体探索, 娜丽开脱, 情感冲突, 自我认知, 传统与现代, 情感纠葛, 异性恋情, 师徒关系, 日常生活, 恋爱, 家庭观念                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

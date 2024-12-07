@@ -7,7 +7,7 @@ TXT 下载: [[其他]_《我张傲宸是来当起点男主不是来当H游戏女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部虚拟实境与跨性别主题相关的小说，标题为《我张傲宸是来当起点男主不是来当H游戏女主的！》的第二章。故事围绕主人公张傲宸展开，他在经历一段时间的沉默后回归，开始了与CICSO虚拟娱乐网络的接触。在这个虚拟世界里，他被邀请参与一项实验项目，面对的是一个机器人形象的小女孩‘小白’。小白自称为项目的负责人，旨在引导和训练张傲宸进入核心内容的体验。小说内容涉及张傲宸与合约内容的交互，以及他对于虚拟实境之诱惑和潜在风险的无知，大家在各种虚拟理念与现实法律之间的纠葛，以及对性别认同与欲望的探索。这部小说展现了主题上的自我探索、科技与人际关系的复杂性，以及虚拟实境对人心理的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_《我张傲宸是来当起点男主不是来当H游戏女
 | Size            | 40448 bytes                           |
 | MD5             | c3e6215fbe37ba9151a78220d839ce83                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 虚拟实境, 跨性别, 科技幻想, 性别认同, 自我探索, 伪娘, 男娘, 变身, 实验性小说, 合约, 核心测试, 情感纠葛, 幻想, 女性视角, 心灵训练, AI                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

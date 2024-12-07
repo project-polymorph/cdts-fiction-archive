@@ -7,7 +7,7 @@ TXT 下载: [[改造]_从花花公子到花瓶妻子（中）.doc]([改造]_从�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《从花花公子到花瓶妻子（中）》，内容围绕一个名为本的角色在黑牢中的痛苦经历展开。故事描述了本在拘留期间遭受的肉体和心理折磨，警卫对他的殴打以及心理学家埃琳娜·乌洛姆对他的审问，展示了一个扭曲的实验环境。文中描写本被迫接受各种羞辱和非人道的待遇，包括被注射药物以实施心理重建，并体验到身体的改造。随着故事的发展，本逐渐失去了对自己身份的认知，只能在痛苦中苟活，并想起了他的复仇目标——凯特。整个过程探讨了心理操控、自我认同危机和生存斗争的主题，令人深思。本的蜕变不仅体现在身体上，更在心灵深处留下不可磨灭的创伤。第一部分对本的监禁和心理状态进行了详细描写，后续将进一步揭示他身处的境遇和心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_从花花公子到花瓶妻子（中）.doc]([改造]_从�
 | Size            | 64512 bytes                           |
 | MD5             | bfa24ac2b0f33a1e9bc5a879ab1cbc8b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 心理重建, 肉体改造, 性别认同, 精神折磨, 囚禁, 强制实验, 反乌托邦, 复仇, 自我探索, 反抗, 二次元小说, 变身, 角色扮演, 人性, 羞辱, 支配与被支配                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

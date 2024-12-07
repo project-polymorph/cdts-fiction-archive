@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_郭霏霏皮衣工作室_04__美女主播張宇抽菸.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为郭霏霏皮衣工作室系列中的第四篇，讲述了美女主播张宇与她的好友鄔凯雯之间的复杂关系。故事背景设定在2009年至2013年，详细描绘了两人从入职电视台到成为主播的历程，以及在竞争中的心理斗争。张宇因其善良的性格和出众的外貌赢得了众多粉丝，而鄔凯雯因其深沉的性格和强烈的嫉妒心，对张宇逐渐产生了厌恶。她通过阿祥，从郭霏霏皮衣工作室获取了可以伪装成张宇的人皮衣，试图以此来报复和修复自我形象。整个故事围绕着淡淡的嫉妒、竞争和身份扭曲的主题展开，展现了人物的心路历程及社会现象。在文件中多次提及了张宇的外貌特征，如“天真自然、善良且自信，拥有Ｄ奶好身材”，而鄔凯雯则展现出内心的嫉妒与挣扎，让人能够体会到复杂的人际关系及心理活动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_郭霏霏皮衣工作室_04__美女主播張宇抽菸.docx
 | Size            | 73256 bytes                           |
 | MD5             | 7bdd8838419b78afc8a8e2e48b16e45f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2014-04-01                                 |
+| Tags            | 伪娘, 变身, 嫉妒, 主播, 美女, 人皮衣, 友谊, 竞争, 心理斗争, 跨性别, 自我认同, 身份扭曲, 强烈的情感, 爱情, 都市故事, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

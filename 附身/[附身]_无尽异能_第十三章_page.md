@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无尽异能_第十三章.docx]([附身]_无尽异能_第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《无尽异能》第十三章，内容围绕女主角凌灵通过附身他人获得增强身体能力的过程展开。在这个章节中，凌灵完全吞噬了主人的灵魂，并以她的身份重新开始了自我探索和欲望释放的旅程。章节详细描述了凌灵觉醒后的种种体验，尤其是肉体的快感和对强烈欲望的沉溺。在一次令人不安的自我玩耍后，凌灵逐渐接受了她身体的敏感度和需求，而这也催生出更多的淫荡幻想。她的异能涉及到吸收他人精气和灵魂，但伴随着的却是强烈的肉欲冲动。章节中，凌灵对与男性的接触感到厌恶，反而对女性之间的情感充满期待，并展开了一系列与另一位女性角色张紫幽的互动。这种相互刺激与快感交织，展现出复杂的情感与身体欲望的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无尽异能_第十三章.docx]([附身]_无尽异能_第�
 | Size            | 21773 bytes                           |
 | MD5             | 12e3f8bf5c0df80873fd9ed63fb2ae57                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自慰, 异能, 伪娘, 欲望, 快感释放, 女性向, 肉体改造, 强奸, 女体化, 淫荡, 姐妹情, 强烈欲望, 性别认同, 多重身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

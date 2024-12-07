@@ -7,7 +7,9 @@ TXT 下载: [[附身]_猎人正卷（一）.doc]([附身]_猎人正卷（一）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《猎人正卷（一）》是一篇关于大学生韩子仪转学回国的小说，故事设定在华南大学，通过细腻的场景描写和角色对话展现了校园生活的点滴。故事开头描绘了盛夏的炎热气候，街道行人稀少，韩子仪骑着单车前往学校。当他到达华南大学时，受到安保的热情欢迎。随着情节的发展，韩子仪的同班同学开始登场，设定了他与同学们之间的互动。
+
+文中细致描写了课堂上新老师的迷人形象，引发了同学们的惊叹，尤其是胖子葛明汉的好奇和幻想。小说不仅涉及了韩子仪的学业生活，也潜入了各种校园情感和社交氛围，呈现了当代大学生的生活状态。通过和同学的交流，我们感受到他们对于性的讨论和童年时期的回忆，以及韩子仪对女老师和学姐的情感纠葛和自我意识的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_猎人正卷（一）.doc]([附身]_猎人正卷（一）.
 | Size            | 45568 bytes                           |
 | MD5             | 2c2690c89f69d185a884a655084714b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 校园生活, 跨性别, 身份探索, 自我认知, 爱情, 师生关系, 男女性别角色, 心理冲突, 二次元文化, 华南大学, 夏季, 转校, 男女关系, 学术生活, 大学生生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_以父之名.doc]([交换]_以父之名.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是有关校园霸凌与跨性别身份认同的小说，主要讲述了女主角楚琴在贵族学校受到三名女生欺凌的故事。故事开头，身着校服的楚琴被同样穿着校服的女生们压倒在地，经历了羞辱和痛苦的过程。在被欺负过程中，她请求施暴者停止，而施暴者则毫不留情，甚至拍摄视频来羞辱她。尽管经历了严重的心理创伤，楚琴的同班同学陈倩倩在关键时刻给予了她帮助，删掉了羞辱她的视频。故事探讨了校园霸凌、性别认同、自我保护及社会阶层等问题，并通过楚琴与其他角色的交互描写出复杂的心理和情感。整个情节逐渐展开，描绘出楚琴在困境中挣扎求生的过程，以及她对周遭环境的无力感和对未来的考量。文中涉及大胆、放肆的行为和复杂的人际关系，表现出在青春期少年心中的冲突和挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_以父之名.doc]([交换]_以父之名.doc)
 | Size            | 54272 bytes                           |
 | MD5             | b934b0258407570a004a0d0947aa6b8d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园欺凌, 跨性别, 性别认同, 青春期, 自我保护, 心理创伤, 社会阶层, 女主角楚琴, 角色互动, 情感复杂, 女儿情长, 家庭关系, 贵族学校, 校园生活, 羞辱故事, 情感挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

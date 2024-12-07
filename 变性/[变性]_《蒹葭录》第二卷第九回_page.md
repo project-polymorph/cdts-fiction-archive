@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第二卷第九回.doc]([变性]_《蒹葭�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《蒹葭录》第二卷第九回讲述了宋沚陵在江湖中的经历。在经历了须弥宗与罗刹国之间的冲突后，宋沚陵身形大变，因而不便与那张归荑过多接触。他急于出庄，准备寻求玉虚宫的帮助，以解除自己所练的功法的反噬。然而，在寻找的过程中，他得知朱兴言被禁足于东宫的消息，并因此心生焦虑。整段故事围绕着复杂的江湖恩怨、身份的变迁和自我认同的探索，因为朱兴言作为被废黜的太子，其行为显得愈发放纵，宋沚陵在不断的寻觅和反思中，也面临着自我情感的纠结与矛盾。文中描绘了诸多人物的内心冲突和江湖的险恶，以及对权力和身份的深刻审视。同时，故事带有强烈的玄幻色彩，体现了古代宫廷生活的种种纷乱与阴暗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第二卷第九回.doc]([变性]_《蒹葭�
 | Size            | 53760 bytes                           |
 | MD5             | 1e9a2fae4276083ebc812b04b5f19b37                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 剑客, 古代宫廷, 江湖恩怨, 性转, 自我探索, 文艺, 玄幻, 情感纠葛, 权力斗争, 禁令, 放纵, 太子, 武侠                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

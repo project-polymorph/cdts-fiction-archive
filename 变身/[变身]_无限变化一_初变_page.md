@@ -7,7 +7,7 @@ TXT 下载: [[变身]_无限变化一_初变.docx]([变身]_无限变化一_初�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《无限变化》是一部围绕生物学实验与性别变换主题的小说，主要讲述了主人公陈明作为一名落魄的生物学博士，在一个简陋的实验室中进行关于神经强化药剂的实验。故事开头，陈明期望通过这项实验改变自己的生活，并寻找回报。他在心潮澎湃的状态下，最终选择了把自己作为试验对象，性命相托。然而，实验的结果并不如他所愿，药剂引发了意想不到的变故，他的身体发生了不可逆的变化，最后只剩下一个被强化的“大脑”与实现细胞控制的能力。从而开始了他复杂而奇特的自我探索之旅。小说通过描述陈明变为蚊子，展现了他在获得新能力后对世界的看法与内心的挣扎，既有科学的探讨，又带有深刻的性别认同和身份探索主题。作品包含多个限制级的情节，适合成人读者，但也涉及严肃的科学幻想与伦理反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_无限变化一_初变.docx]([变身]_无限变化一_初�
 | Size            | 18731 bytes                           |
 | MD5             | 6850d642d87d0111e354e018973efffe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 生物实验, 自我探索, 神经药剂, 变身, 科学幻想, 蚊子变身, 性别认同, 身份挑战, 现实与幻想, 成人内容, 心理冲突, 细胞控制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

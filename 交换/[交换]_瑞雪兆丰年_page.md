@@ -7,7 +7,7 @@ TXT 下载: [[交换]_瑞雪兆丰年.doc]([交换]_瑞雪兆丰年.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《瑞雪兆丰年》，内容围绕主人公罗恩的生活与内心世界展开。从西历1922年初雪的西京入手，描绘了一个充满生气的城市景象与罗恩的忧伤心情。罗恩是一名24、5岁的男子，因生活状态不顺遂而颓废。小说通过他的内心独白，从酒馆到超市，展现他的孤独与对家庭的思念，特别是在疫情背景下的体验。文中描述了疫情期间，他与室友们的生活琐事，以及内心的挣扎与回忆。随着罗恩入睡，她在梦中体验到了性别的转换，意外地拥有了女性的身份，带来了一种新的自我认知的探索。整篇作品探讨了性别、孤独与身份认同等主题，具有浓厚的心理描绘与情感冲击。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_瑞雪兆丰年.doc]([交换]_瑞雪兆丰年.doc)
 | Size            | 38912 bytes                           |
 | MD5             | 6faa9c1c4630156bc08f26d605b57939                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-12-21                                 |
+| Tags            | 性别认同, 自我探索, 小说, 疫情, 青春成长, 孤独, 梦境, 伪娘, 性转, 爱情, 校园生活, 家庭关系, 心理描绘, 冬天, 西京, 生活状态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

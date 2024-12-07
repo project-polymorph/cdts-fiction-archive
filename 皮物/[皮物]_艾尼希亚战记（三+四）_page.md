@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_艾尼希亚战记（三+四）.doc]([皮物]_艾尼希亚
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《艾尼希亚战记（三+四）》是一本涉及伪娘及跨性别主题的小说，描绘了复杂的权力斗争和个人身份认同的故事。故事发生在虚构的王国——艾尼希亚，主要围绕莱雅公主的即位之际展开。莱雅面临外部威胁及内部权力的斗争，权臣们试图操控新任女王以掌控朝政。故事中的角色有着深刻的自我认知冲突，尤其是在身份与愿望方面。公主在即位典礼前夕，展现出对权力的渴望以及对身份转换的深刻思考。莱雅公主需要在即位的同时，处理家庭和权力的复杂关系，反映了人类社会与魔法世界的融合与碰撞。同时，文本中不乏对角色外形和身体细节的细腻描写，涉及对性别与身体的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_艾尼希亚战记（三+四）.doc]([皮物]_艾尼希亚
 | Size            | 53760 bytes                           |
 | MD5             | 4796049127a2b5cca600280cc2b36dd0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 权力斗争, 跨性别, 女性主义, 自我认知, 宫廷阴谋, 魔法与奇幻, 性别身份, 政治游戏, 训练与控制, 虚构世界, 青春成长, 角色扮演, 情感探索, 冒险与战斗, 国家与背叛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

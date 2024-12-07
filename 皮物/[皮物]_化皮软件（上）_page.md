@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_化皮软件（上）.docx]([皮物]_化皮软件（上）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部涉及伪娘及变身主题的小说，故事围绕主人公林浩然展开，讲述了他的生活中发生的一系列事件。故事开始于一个炎热的夏日教室，林浩然因在女厕所偷窥被班主任训斥，随后发生了一些冲突和戏剧性场景。主角在感情和自我认知的迷茫中，与周围的角色互动，包括班中的女神江夏曦和邻居王诗诗。小说中穿插了一款神秘的‘化皮软件’，该软件具有改变外貌的能力，标志着主人公内心对性别和身份认同的探索。情节紧凑，充满幻想和内心斗争，其间亦含有性暗示及育情元素，这些情节更是突显了伪娘、变身文化的复杂内涵，作品也涉及了家庭、社交关系等多个方面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_化皮软件（上）.docx]([皮物]_化皮软件（上）
 | Size            | 37714 bytes                           |
 | MD5             | 760c0ba3e6be1cd181dbc2f21219465f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 自我认同, 校园生活, 黑客, 心理探索, 情感纠葛, 青春, 奇幻, 神秘软件, 性别认同, 强烈情感, 家庭关系, 幻想, 角色互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

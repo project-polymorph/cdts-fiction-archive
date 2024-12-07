@@ -7,7 +7,7 @@ TXT 下载: [[其他]_人性本恶(1)_[.docx]([其他]_人性本恶(1)_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以职场为背景的小说，描绘了男主角陈文的复杂情感与职场斗争。故事以陈文在公司第一天上班的情景开篇，他的女秘书许梦的性感形象给他带来强烈的视觉冲击和内心的挣扎。随着情节发展，陈文的内心独白流露出他对事业和婚姻的无奈，尤其是提及他与45岁妻子的婚姻关系以及他对于新任女秘书的情感困境。小说涉及的主题包括青春的懷念、感官刺激及职场诱惑等。情节紧凑而并不乏悬念，勾勒出一种对于青春的向往和对现实的反思。文中通过对许梦的描写，传达出角色之间微妙的情感变化，同时也暗示了陈文内心的挣扎和不安。最后，随着他与许梦之间的重要互动，故事呈现了一种时而温情、时而紧张的气氛，留下一系列未解的情感纠葛与期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_人性本恶(1)_[.docx]([其他]_人性本恶(1)_[.docx)
 | Size            | 18670 bytes                           |
 | MD5             | 30b94315e302c6ce6f0e64c5e4afef2f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 黑牡丹，如梦幻泡影                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-04-18                                 |
+| Tags            | 职场情感, 办公室恋情, 性别认同, 性转小说, 情感纠葛, 青春回忆, 自我探索, 职场压力, 男主视角, 女性角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

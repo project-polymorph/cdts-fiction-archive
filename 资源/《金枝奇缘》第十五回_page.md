@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第十五回.doc](《金枝奇缘》第十五回.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《金枝奇缘》第十五回的内容，主要描写了角色秦灵儿在巨大的心理冲击下经历了身体和心理的转变。故事中，年轻纯真的秦灵儿在绝望中被自己的祖父秦无邪施以邪恶的魔法，导致她的身体被寄生了魔种，秦无邪借此重新获得生命与活力。在这一过程中，秦灵儿面临着自我认知的崩溃与变化。情节不仅涵盖了性别的转变，还涉及了权力与欲望的冲突，描绘出一种复杂且阴暗的关系，特别是在描述秦灵儿在被寄生过程中的痛苦与挣扎，以及随之而来的敏感且不堪的情感描写。文中以直白的文字描述了魔种如何侵蚀她的身体，而她的祖父则采用强制手段使她接受这一切，最终形成了一种扭曲和令人不安的亲情纽带。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第十五回.doc](《金枝奇缘》第十五回.
 | Size            | 35328 bytes                           |
 | MD5             | ab80f3df34ed94dbb382e55b3ee78026                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 魔法, 自我认知, 心理冲突, 权力关系, 禁忌之爱, 欲望, 阴暗面, 肉体化, 重生, 恶魔, 灵魂共生, 幻想情节, 伦理困境, 青春的悸动, 性别认同, 身体异化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

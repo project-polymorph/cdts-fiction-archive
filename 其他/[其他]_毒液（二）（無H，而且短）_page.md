@@ -7,7 +7,7 @@ TXT 下载: [[其他]_毒液（二）（無H，而且短）.docx]([其他]_毒�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《毒液（二）（無H，而且短）》由作者凌空蝶编写，内容围绕一个主要角色游幸与一只外星生物的奇妙经历展开。游幸是公司董事长，最近感到公司气氛的异样变化，员工似乎受到某种奇怪力量的影响。在一次上司与部下的交流中，他察觉到三名女性部长的举止异常，她们邀请游幸参加一个联欢会。游幸勉强答应，但心中充满了疑惑与不安。在联欢会中，游幸意外发现自己与一个名为小紫的清纯女孩有着深层联系，小紫逐渐显露其主导者的邪魅本性，游幸的内心挣扎以及最终的精神同步，象征着权力与服从的复杂关系。整个故事涉及性别转换、生理与心理认同等主题，包含深入的自我探索和角色变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_毒液（二）（無H，而且短）.docx]([其他]_毒�
 | Size            | 19715 bytes                           |
 | MD5             | a2cd808859b0d5f4f619e44c8496ab65                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 凌空蝶                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 自我探索, 外星生物, 职场, 心理冲突, 权力关系, 精神控制, 黑暗幻想, 奇幻, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

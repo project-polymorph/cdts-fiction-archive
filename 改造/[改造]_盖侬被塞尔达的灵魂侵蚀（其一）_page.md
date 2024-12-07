@@ -7,7 +7,7 @@ TXT 下载: [[改造]_盖侬被塞尔达的灵魂侵蚀（其一）.docx]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇设想类小说，情节围绕着《塞尔达传说》系列中的角色盖侬和塞尔达。故事开篇描绘盖侬在遭遇最终挑战后，试图通过重塑自己的身体和灵魂来掌控海拉鲁大陆。他操控着自己的灵魂，借用塞尔达的外表，展开了一系列波澜壮阔的剧情。文件中详细描述了盖侬在重生后面对林克时的心理挣扎，以及他对自己新身份的迷惑与挑战。盖侬虽然成为了外表看似无害的塞尔达，内心却依然保持着强烈的统治欲和对权力的渴望。小说层层推进，揭示了角色同样复杂的自我认知，涉及到身份、记忆以及权力关系的探索。在这个过程中，情感的碰撞与变化也反映出了盖侬与林克之间的微妙关系，以及他如何面对此次身份的转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_盖侬被塞尔达的灵魂侵蚀（其一）.docx]([改�
 | Size            | 17193 bytes                           |
 | MD5             | fa3492cf349fe91d6655d3f814baf3fb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 灵魂转移, 自我认知, 角色扮演, 冒险, 魔法, 身份认同, 权力欲望, 二次元, 虚拟现实, 情感纠葛, 强权, 历史重演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

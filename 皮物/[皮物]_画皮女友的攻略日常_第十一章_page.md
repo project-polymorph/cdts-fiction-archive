@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第十一章.doc]([皮物]_画
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《画皮女友的攻略日常》中的第十一章，围绕主角陆升与女友秦雨秋之间的关系展开。在这一章中，秦雨秋提出了让陆升穿上她的‘人皮’的奇想法，带有性别转变和自我探索的主题。陆升起初对此感到愣住，并对于女友的提议感到犹豫，但最终在她的鼓励下愿意尝试。该章节详细描绘了两人之间的对话和心理斗争，探索了穿皮物对性别认同和性别体验的影响。秦雨秋的角色展现了对男朋友初次体验这一过程的期待以及她复杂的想法，形成了一种既有趣又深刻的对话，强调了在性别与关系中的相互理解与支持。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第十一章.doc]([皮物]_画
 | Size            | 57344 bytes                           |
 | MD5             | 5455091df8899e60ad37822dbd2d663b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 皮物, TS体验, 爱情, 自我探索, 性别认同, 奇幻, 二次元, 互动恋爱, 心理冲突, 情感交流, 探索欲望, 亲密关系, 核心场景                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

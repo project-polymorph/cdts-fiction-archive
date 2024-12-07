@@ -7,7 +7,7 @@ TXT 下载: [[变身]_另一个故事.doc]([变身]_另一个故事.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一段关于性别转换的奇幻故事。故事的主人公似乎是名为小艾的男孩，与他的青梅竹马共度时光。故事从男主的回忆开始，主要集中在他与小艾之间那种深厚而纯真的友谊。男主在一次不可思议的事件中遇见了一只名为QB的兔子生物，它能够帮助他们实现愿望。在这个悬疑而奇幻的背景下，小艾和男主的关系逐渐升温，最终在一个意外的约会中，他们的关系超越了友谊，最后使男主变成了小艾，成为了魔法少女。这个故事探讨了性别认同、自我探索以及青少年之间的关系。文中还提到了许多奇幻元素，如魔法少女、契约以及可怕的怪物等，令人思索性别与身份认同的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_另一个故事.doc]([变身]_另一个故事.doc)
 | Size            | 111104 bytes                           |
 | MD5             | e1c28d81c6d53d090792a2910829435d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 魔法少女, 青梅竹马, 奇幻, 自我探索, 契约, 青春, 女性视角, 恋爱, 纯爱, 二次元, 异世界, 年轻人, 幻想, 情感关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

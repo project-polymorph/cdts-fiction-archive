@@ -7,7 +7,7 @@ TXT 下载: [[变装]_人生交换之财富与地位_1.docx]([变装]_人生交�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《人生交换之财富与地位》讲述了一位自富裕家庭出生的男性费恩利，与他的女仆伊莎贝拉之间错综复杂的情感关系。故事从费恩利醉酒回家开始，他与女仆伊莎贝拉之间的互动逐渐加深，揭示了他对她的吸引和内心的矛盾。费恩利对体力劳动者的尊重与他客户圈子的态度产生了冲突，展示了金钱与情感之间的张力。随着两人关系的发展，费恩利开始意识到自己的财富地位对他们之间感情的影响，以及他对伊莎贝拉的真实感情。在情感的交错与自我探索中，费恩利及其女仆的心灵冲突浮出水面，反映出人际关系中的阶层差异、爱情与欲望交织的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_人生交换之财富与地位_1.docx]([变装]_人生交�
 | Size            | 34621 bytes                           |
 | MD5             | 68244615ae06503cdb81431761098247                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 伪娘, 爱情, 女性角色, 阶层差异, 社交名媛, 情感冲突, 自我探索, 意识流                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

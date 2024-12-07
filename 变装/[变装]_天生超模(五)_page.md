@@ -7,7 +7,7 @@ TXT 下载: [[变装]_天生超模(五).docx]([变装]_天生超模(五).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件是关于一名男性角色单邈峨在经历了一次手术后的心理挣扎和身体变化的叙述。故事开头，单邈峨醒来后发现自己的身体发生了剧变，胸部出现了女性的特征，他感到极度恐慌和困惑。在医院中，他逐渐意识到自己的身体被医生进行了一系列女性化的手术，他从容貌到身形发生了巨大的变化，令他难以接受。文本详细描绘了他对自己新身体的慌乱和恐惧，包括对自我身份的困惑和抵触，以及对未来可能面临的困境的无奈。随着故事的发展，单位不存在的心理挣扎逐渐被外界期望所替代，成为模特后他不得不调整自己的心态，面对他新获得身份带来的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_天生超模(五).docx]([变装]_天生超模(五).docx)
 | Size            | 38898 bytes                           |
 | MD5             | 63fbbd04e1e0288e91c946ac071fa070                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Melissa N                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 自我认同, 身体变化, 角色发展, 心理挣扎, 医院情节, 女性形象, 模特生活, 性别转换, 恋爱元素, 手术后恢复, 生理性别, 身份冲突, 二次元, 性别流动, 恐慌, 接受自我, 需重塑人生, 医术奇迹                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

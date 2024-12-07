@@ -7,7 +7,7 @@ TXT 下载: [[附身]_游泳衣(1~2_简体版).doc]([附身]_游泳衣(1~2_简�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位名叫黄强的年轻人在暑假中的一天，这天他因无聊决定去水上乐园游玩。他的好友小莫邀请他一起，并打算带着几位女生一起去。故事中描述了黄强的日常生活和对女性的初步接触，同时夹杂着他的情感波动和对自我形象的自我意识。黄强在超市中购买游泳衣的情景，以及他在水上乐园中与模特们互动的经过，让人感受到青春的纯真与探索。过程中，小雪与黄强的暧昧互动，给予了故事更多的张力和趣味，也让黄强第一次触碰到女性身体的感觉。这部小说体现了性别认同、自我探索等主题，结尾则留有悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_游泳衣(1~2_简体版).doc]([附身]_游泳衣(1~2_简�
 | Size            | 41984 bytes                           |
 | MD5             | 825727bf2a38b53dc8eddfaf8647c008                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 变身, 青春爱情, 水上乐园, 模特, 自我认知, 性别认同, 互动, 变态情节, 成年话题, 强烈的情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

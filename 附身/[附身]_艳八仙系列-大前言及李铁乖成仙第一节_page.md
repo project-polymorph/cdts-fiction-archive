@@ -7,7 +7,7 @@ TXT 下载: [[附身]_艳八仙系列-大前言及李铁乖成仙第一节.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《艳八仙系列》中的一部分，主要内容围绕主人公李铁乖的故事展开，涉及到与角色的性别转换和附身相关的情节。文本开头引入了关于‘艳天’和‘净天’的哲学思考，其中‘艳天’强调欲望的释放，而‘净天’则崇尚无欲无求的心态。接下来的故事描绘了李铁乖这一角色的生活，他是一位才子，同时也好色。在一个夜晚，他因听闻一个名叫金星的女子而前去青楼寻欢，细腻的对话和情感展现了古代文人对女性的礼节与畏惧，但故事的发展揭示了出乎意料的情感与性别身份转变。金星小姐的身份及其特殊的身体特点令李铁乖感到震惊，文本中生动描写了李生与金星小姐之间的情欲交织，以及他内心的挣扎与矛盾。这些情节结合了性别认同、自我探索和欲望释放的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_艳八仙系列-大前言及李铁乖成仙第一节.docx]
 | Size            | 18847 bytes                           |
 | MD5             | 436d6a3b57fab9b3e09a57df9b1c1149                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别转换, 附身, 古代, 情色, 欲望释放, 男女性器交换, 青楼, 自我探索, 性认同, 强烈欲望, 情感冲突, 李铁乖, 金星, 艳八仙                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

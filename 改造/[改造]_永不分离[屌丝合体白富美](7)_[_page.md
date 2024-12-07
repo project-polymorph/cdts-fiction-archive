@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](7)_[.docx]([改造]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇围绕性别转换和跨性别体验的小说，主要讲述了男主角与女主角孙俪之间复杂的身体与心理关系。故事始于两人达成一系列约法三章，其中包含控制权的明晰。男主角在一场争吵中表达对孙俪老公王力的不满，并因身体的变化引发了一系列自我认知的冲突。他的灵魂被赋予了女性的身体，面临着失去男性身份的痛苦与不适。在与孙俪相处的过程中，他逐渐适应了新的身份，通过共同的学习和交流，两人互相影响，相伴经历了个人的蜕变与成长。随着情节的发展，男主角感受到随着雌激素的变化，他的心态和审美也在悄然发生转换。这种变化引发了对自我的质疑与恐慌，但最终他也在与孙俪的互相支持中找到了一种新的身份认同。总体而言，故事探讨了性别认同、自我探索与身体再生等主题，结合了幽默与感情的相互交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](7)_[.docx]([改造]_�
 | Size            | 31363 bytes                           |
 | MD5             | c6f8b40bf8dde546bd120dfa8d29d2aa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 变身小说, 爱情, 自我探索, 雌激素影响, 心理冲突, 性别认同, 日常生活, 互相依赖, 学习与成长, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

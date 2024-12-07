@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译_变装】着吾妻之衣（2_2）.doc]([变装]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别角色转变的小说，讲述了莱尔在布莱恩的影响下逐渐变成丽莎的故事。故事开头，克里斯女士即将搬入他们的家，主人公对这一变化感到担忧。随着情节的发展，丽莎在布莱恩的催促下开始适应女性的角色，穿上女性化的衣物，并接受女仆的身份。小说中探讨了性别认同、对自我的认识以及在关系中的权力动态。在布莱恩与克里斯的争吵中，丽莎被视为她们之间权利争夺的筹码，反映出角色关系中的复杂性。同时，文章详细描绘了丽莎所穿的各种女装和女仆制服，展示了角色在情感和身份上的挣扎。最终，他们计划重新结婚，丽莎将以新娘的身份出现，象征着她身份的彻底转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译_变装】着吾妻之衣（2_2）.doc]([变装]_
 | Size            | 61440 bytes                           |
 | MD5             | eb7b224497d02ebe399bfb397da06b4d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 女仆, 强权动态, 情感挣扎, 角色转变, 家庭关系, 婚礼, 女性形象, 性别角色, 自我认知, 恋物癖, 权力游戏, 社会期待, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

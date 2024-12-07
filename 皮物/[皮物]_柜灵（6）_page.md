@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_柜灵（6）.docx]([皮物]_柜灵（6）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一部跨性别及变身题材的小说，故事主要围绕角色雪晴的自我探索，以及她在变成他人的过程中发生的心灵冲突与情感碰撞。故事开头描绘了雪晴醒来的情景，她感到头痛并对前一晚的记忆感到模糊。小说中提到她被一名女鬼变成了人皮女鬼，并且经历了许多可怕的事情，记忆逐渐融合，但由于被干预，她的认知产生了混乱。随着情节发展，雪晴试图与妹妹重新建立联系，并在娱乐场所中寻找自我认同与归属感，展示出她作为新身份的复杂心理。章节中大量描写雪晴的身份、衣着、以及她与周围环境的互动，表现出情感的挣扎与欲望的冲突，同时也触及性别认同的讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_柜灵（6）.docx]([皮物]_柜灵（6）.docx)
 | Size            | 23691 bytes                           |
 | MD5             | 4d0ca1a3aa31ea84cef8be54e174090b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 性别认同, 自我探索, 雪晴, 妖鬼, 娱乐圈, 身份矛盾, 内心挣扎, 情感关系, 黑暗俱乐部, 夜生活, 心理冲突, 性别转换, 伪娘, 幻想小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

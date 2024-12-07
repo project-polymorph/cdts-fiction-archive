@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蜀山炼器师_第六章_离开.docx]([附身]_蜀山炼�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《蜀山炼器师》第六章，内容围绕着角色宋升的奇幻经历展开。故事中，宋升在一个神秘的空间中经历了身份转换，变成了名为青情的女性角色。在这过程中，他感受到了一种前所未有的身体变化与快感，描绘了角色从男性身份转变为女性身份的细腻感受。这种变化带来了对自我身份的深刻反思与探索。文中提到的青蛇雕塑与曦蛇一族的灵魂传承使得剧情增添了神秘与幻想的层面，探索了角色对性别认同与权力关系的理解。此外，故事还涉及了梦境与现实交错的设定，充满了各种情感的纠葛与对个体存在的思考。文中还有一些关于角色变化后与其他人物的互动以及权力控制的描绘，表现了深层的心理冲突与性别流动的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蜀山炼器师_第六章_离开.docx]([附身]_蜀山炼�
 | Size            | 16945 bytes                           |
 | MD5             | 65af3fcfd86fe1ffafd9237293e086c7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 梦境, 跨性别认同, 奇幻冒险, 角色扮演, 权力关系, 自我探索, 灵魂转移, 妖怪文化, 性别流动, 情感纠葛, 恋爱, 神秘传承, 转变与成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

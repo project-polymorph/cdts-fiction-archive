@@ -7,7 +7,7 @@ TXT 下载: [[变身]_夕張と提督の軽い実験[翻译+微调]+女性専用
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换和伪娘角色的小说，作品包含了丰富的性转与变身元素。角色提督在故事中变身为女性角色夕张，并通过轻度性试验展现了角色之间的互动与情感发展。小说中描绘了男女角色之间的烟火气息，伴随着对性身份的探索与自我认知。内容中暗示了提督将变身后的身体与夕张的身体进行对比，呈现出对身体特征的细致描述，以及对于气味和触感的详细描绘。在情节中，提督需要完成一系列被夕张设定的任务，并展现出对性癖好的探索，这不仅体现在行为中，还隐含了对角色内心冲突和性别认同的思考。总体而言，此作品意在探索变性与性别角色意识的复杂性，并增添了些许情趣与幻想色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_夕張と提督の軽い実験[翻译+微调]+女性専用
 | Size            | 34374 bytes                           |
 | MD5             | e170d4762f863213f87bbdfaf9d6ca58                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 轻度性试验, 角色互动, 自我认知, 性癖好, 舰娘, 情感发展, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_人皮面具.doc]([改造]_人皮面具.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了21岁的李枫在追求异性魅力与自我认同的过程中，逐渐沉迷于二次元文化与虚拟偶像的情境。李枫在网上观看各种舞蹈直播与购买女装周边商品，以此抒发自己内心对女性身姿的渴望。他甚至花费生活费购买了一个真人大小的硅胶娃娃。在一次夜晚的淘宝购物中，李枫意外接收到一种名为“人皮面具”的奇怪商品。面具的商品页面无描述，但为了好奇，他领取了试用版，这一决定将引发一系列意想不到的事件。面具的说明书中提到，它可以优化人体参数并把使用者转变为另一人，这使得李枫萌生了成为理想中的女性的欲望。在实验过程中，李枫的身体逐渐发生巨大的变化，他变得面貌迷人，身体曲线优美，甚至体验到女性身体的感觉。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_人皮面具.doc]([改造]_人皮面具.doc)
 | Size            | 50688 bytes                           |
 | MD5             | 47940708d59280d530a60e24b107188c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 二次元文化, 自我认同, 硅胶娃娃, 人皮面具, 身体改造, 女性化, 虚拟偶像, 青春期心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

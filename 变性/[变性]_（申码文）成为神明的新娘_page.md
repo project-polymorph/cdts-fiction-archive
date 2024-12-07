@@ -7,7 +7,7 @@ TXT 下载: [[变性]_（申码文）成为神明的新娘.docx]([变性]_（申
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部包含神秘与幻想元素的伪娘跨性别小说，讲述了主角林墨在一次不幸的露营经历中，被迫进入一座神秘的古堡。故事开始于林墨因天气恶劣而在荒郊野外遭遇暴雨，失去所有物资，最终寻求庇护于一座看似废弃的古堡。进入古堡后，林墨发现环境与外界的破败形成鲜明对比，内部居然一尘不染，给人一种不安的感觉。随着暴雨的加剧，他被困在古堡内，经历了种种诡异的事件，包括与一种奇特的生物接触，该生物似乎有意对他实施某种变化。故事逐渐演变成一种自我认同与性别认同的探索，林墨被迫面对身体和自我认知的变化，包括穿着女性服装所带来的复杂感受及心理斗争。整体情节紧张刺激，融合了奇幻，以及一些成人题材的因素，展现了林墨在异世界中面临的挑战与变革。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_（申码文）成为神明的新娘.docx]([变性]_（申
 | Size            | 45157 bytes                           |
 | MD5             | 01905d80bd5546fca9a26124de770c89                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 古堡, 神秘生物, 自我认同, 奇幻, 性别探索, 梦境, 困境求生, 恶劣天气, 性别转换, 触手, 恋爱, 融合幻想元素, 异世界, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

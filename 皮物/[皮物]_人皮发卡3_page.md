@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人皮发卡3.docx]([皮物]_人皮发卡3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部名为《人皮发卡3》的伪娘/变身小说，讲述了主角刘雨在经历了性别转换后，从一个男性身份转变为女性身份的心理和情感变化。故事初以主角茫然的心态开始，他/她走在街上，不知道如何面对新身份的生活。文中描绘了刘雨在回到大学校园时的忐忑与不安，并与友人郑菲儿的交往，展现了他/她如何逐步适应新身份，同时隐隐感受到生理和心理上的挑战。刘雨尽量与周围人维持正常的互动，努力掩饰自己的身份秘密。文中还详细描述了周围环境和人物的外貌、服饰，以及人物之间暧昧的关系，进一步加深了情节的复杂性和趣味性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人皮发卡3.docx]([皮物]_人皮发卡3.docx)
 | Size            | 23347 bytes                           |
 | MD5             | 80fa1972225164a56af9cf08fb747b51                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 校园生活, 自我探索, 心理斗争, 大学女生, 情感交流, 青春, 性别认同, 性别角色, 友谊, 混乱与适应, 反转剧情, 女权主义, 热血, 心灵成长, 性别流动, 情感掺杂, 幻想, 虚构小说, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

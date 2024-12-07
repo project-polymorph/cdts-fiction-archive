@@ -7,7 +7,7 @@ TXT 下载: [[改造]_淫獸愛戰士_(2).docx]([改造]_淫獸愛戰士_(2).doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档描述了一个充满爱与和平但却面临严重外星侵略的问题的科幻故事。故事背景设定在地球，异星怪物企图征服并占有地球，而人类则面临灭绝的危机。外星侵略者名为贝洛克星人，他们通过高度发达的基因科技，使得他们的原星球上的所有物种无法生育，因此他们需要外星生物进行实验以延续种族。最终，在抵抗力量的帮助下，贝洛克星人被迫撤退，但他们仍在地球上进行零星的侵略。为了对抗这些生物，地球上成立了一支由少女组成的战斗队伍——爱的美少女战队，承担保护人类的重任。故事中穿插着一些感情色彩丰富的情节，例如角色间的冲突、性别认同及外星生物与人类之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_淫獸愛戰士_(2).docx]([改造]_淫獸愛戰士_(2).doc
 | Size            | 53636 bytes                           |
 | MD5             | 7eddd342131e8182a4b11fe1a67b772e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 跨性别, 性转小说, 异世界, 女性视角, 女性角色, 美少女战士, 外星人, 抗战, 爱情, 自我探索, 特殊能力, 变身, 触手, 强奸, NTR                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

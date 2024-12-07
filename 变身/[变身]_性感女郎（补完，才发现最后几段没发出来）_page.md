@@ -7,7 +7,7 @@ TXT 下载: [[变身]_性感女郎（补完，才发现最后几段没发出来�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部性转题材小说《性感女郎》的翻译作品，讲述了一个叫布莱恩的男性角色，他因女友希瑟与好友杰夫的背叛而痛苦不已。故事围绕布莱恩策划对其好友们进行复仇的情节展开。他通过一位神秘的法师扎娅芮获得了变身的符咒，酒会的氛围下，所有男性朋友们逐渐变成女性，发生身体和自我认知的转变。布莱恩亲眼见证朋友们的变化，却在心中暗自欢喜，并为他们取了新的女性名字。随着身体的变化，他们的心理也逐渐接受了新的身份，体验着作为女性的兴奋与快乐。故事探讨了性别认同与自我身份的复杂关系，以及友谊中的背叛与复仇。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_性感女郎（补完，才发现最后几段没发出来�
 | Size            | 28645 bytes                           |
 | MD5             | abbefbfa578fce201c702600eee7e173                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 魔之天涯                               |
+| Region          | 未知                               |
+| Date            | 2010-08-31                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 校园, 复仇, 友谊, 变化, 身份认同, 心理转变, 魔法, 性别探索, 蜕变, 情感, 自我认知, 社交聚会, 超自然, 古老力量, 错位, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

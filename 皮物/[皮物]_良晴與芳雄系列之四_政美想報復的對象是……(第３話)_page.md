@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_良晴與芳雄系列之四_政美想報復的對象是…
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是《良晴与芳雄系列之四：政美想报复的对象是……（第3话）》的第三篇故事，主要围绕女主角政美的报复计划展开。在故事中，作者描绘了良晴和芳雄这两位角色在某个实验室中发生的搞笑而又带有色情暗示的互动。故事开头提到由于前面的事务，写作延误了，目前正准备发布，而互动主要由良晴的恶作剧和政美的反应构建，展现出轻松幽默的气氛。特别是通过对变身为透明史莱姆的良晴与政美之间的互动，着重描绘了身体感知和心理冲突，包含了一些较为露骨的描写，例如在政美的裙子下发生的情节，这个作品也因此包含了一定的限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_良晴與芳雄系列之四_政美想報復的對象是…
 | Size            | 41485 bytes                           |
 | MD5             | 4d9652aab0dfc6b9a784a81307c3e0f8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 透明史莱姆, 校园故事, 性别转换, 恶作剧, 伪娘, 政治报复, 性暗示, 成年内容, 幻想, 亲密关系, 动态互动, 轻松幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_谍海惊情(1~5).docx]([交换]_谍海惊情(1~5).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《谍海惊情》是一部包含科幻与悬疑元素的小说，主要围绕主人公马克·莱利教授展开。他是一位生物学家，专门研究生物传送技术。故事开篇描述了一项成功的实验，教授成功重组了一只老鼠的生物体，这一突破性进展引发了一系列事件。在故事中，莱利教授在课堂上被中情局的特工拘留，并被告知他需要帮助调查一名被捕的俄罗斯间谍娜塔莎。随着情节的发展，教授被卷入一项秘密计划中，涉及将布鲁克——一名中情局分析师的意识交换到娜塔莎的身体，以便深入潜伏在敌国。小说探讨了身份、意识、伦理学等多重主题，并兼具紧张刺激的情节进展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_谍海惊情(1~5).docx]([交换]_谍海惊情(1~5).docx)
 | Size            | 32499 bytes                           |
 | MD5             | b1b9bfb5b8314b7cd2d432015076f442                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Want2BaGirl                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 生物传送, 间谍, 中情局, 性别交换, 实验, 科幻, 悬疑, 意识转移, 伦理学, 身份认同, 自我探索, 科幻小说, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

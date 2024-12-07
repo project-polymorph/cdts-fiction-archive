@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【申码文重发】转折（第一章+第二章）.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部关于性别转换和催眠的小说开篇，讲述了普通高中生王明的故事。王明外表普通且性格软弱，因持续被校霸张典欺凌，生活平淡而乏味。然而，一次偶然的机会，他与张典相遇，导致了他人生的重大转折。张典对于催眠术产生了浓厚的兴趣，并试图对王明施行催眠。在这一过程中，王明透露了他家族隐藏的超能力：可以变身成任何人的样子并获取记忆，但因安全原因他出生时就被封印了这一能力。故事逐渐展开，随着张典的催眠控制，王明揭示了自己秘密的身份，张典则疯狂利用这一能力来实现他的阴暗计划。情节充满了心理操控和性别身份的探索，并涉及到了强迫和变身的主题，以及潜在的色情内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【申码文重发】转折（第一章+第二章）.docx]
 | Size            | 33894 bytes                           |
 | MD5             | 5dda180624bc939ae9e21fca94d6a16a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 催眠, 霸凌, 秘密, 校园, 变身, 超能力, 权力游戏, 心理操控, 二次元, 伪娘, 男娘, 强迫, 变嫁, 逆后宫, NTR                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

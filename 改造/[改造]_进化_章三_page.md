@@ -7,7 +7,7 @@ TXT 下载: [[改造]_进化_章三.doc]([改造]_进化_章三.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇涉及身体改造和性别认同的小说摘录，主要讲述角色特里经过身体改造手术后，变成了一名名为克里斯缇娜的女性角色。内容详细描述了她所接受的人造器官及骨骼的技术细节，包括新的生理功能与适应过程，如新的呼吸、循环系统及性器官的使用，以及她在适应新身体后的生活变化。同时，文章还展现了克里斯缇娜与好友萨姆的互动，探讨了性别变化带来的心理冲突与自我认同，以及两人之间的友情随着她的变化而经历的考验。在故事中，克里斯缇娜的母亲为她的改造付出了不少心血，而克里斯缇娜也在不断适应自己的新身份。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_进化_章三.doc]([改造]_进化_章三.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 7fd59c183c749764481e96a2f54a804c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 身体改造, 伪娘, 跨性别, 二次元, 自我探索, 友情, 科幻, 变身, 生活适应, 心理冲突, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

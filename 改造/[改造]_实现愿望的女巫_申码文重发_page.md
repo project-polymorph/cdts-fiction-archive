@@ -7,7 +7,7 @@ TXT 下载: [[改造]_实现愿望的女巫_申码文重发.doc]([改造]_实现
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇关于伪娘（TS）和跨性别主题的小说草稿，以一种轻松幽默的方式探讨角色的性别转换和自我认同。在故事中，女巫被设定为最初从事邪恶交易的角色，随着剧情的发展，她逐渐转变为帮助他人的善良角色。这部作品结合了童话元素，包括知名的故事角色，如白雪公主、灰姑娘等。女巫的经历与人鱼、公主、国王等故事交织在一起，展现出一种超现实的幻想世界。文本中涉及较多的性暗示和成年内容，反映了一定程度的社会与性别文化。其中特别提到女巫在完成转变后，视觉与身份上的双重变化，揭示了人们对于美的主观理解和性别流动性的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_实现愿望的女巫_申码文重发.doc]([改造]_实现
 | Format          | Microsoft Word Document                               |
 | Size            | 60928 bytes                           |
 | MD5             | 92742d5d957b379d6a2f0c1796f9ec6c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 童话故事, 女巫, 自我认同, 幻想文学, 青春, 社会性别, 变装, 魔法, 爱情, 冒险, 性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

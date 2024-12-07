@@ -7,7 +7,7 @@ TXT 下载: [[交换]_立场交换：母子的互换（2）.doc]([交换]_立场
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件是关于一个名为许郑浩的角色在性别角色互换后所经历的内心挣扎与身体变化的小说片段。故事开始时，许郑浩正在洗澡，反思自己与母亲的衣物和自身的性别认同。他意识到，尽管外表仍是男性，但他内心对自己的身份和欲望充满了困惑与矛盾。在尝试穿着母亲的衣服时，他对自身的感受产生了一种难以名状的期待与焦虑，心理与生理上的冲突让他感到不适。许郑浩在观望自己的形象时，突然感到一种错位的认同，在异性的外表下，他逐渐体会到了女性角色的某些生理反应，这让他困惑不已。更进一步的生理描写涉及到他对于性行为的探索和对男性身份的疑问，其中包含了一些对生理功能及欲望的强烈描写，诸如对性行为的困惑和流露。整个片段探讨了性别认同和自我探索的主题，呈现了角色在此过程中所面临的复杂感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_立场交换：母子的互换（2）.doc]([交换]_立场
 | Size            | 45056 bytes                           |
 | MD5             | b6b4a10ad669dd1b6ec7e36e230ad3c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转, 自我探索, 变身小说, 伪娘, 角色互换, 青少年心理, 男性欲望, 心理冲突, 生理反应, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

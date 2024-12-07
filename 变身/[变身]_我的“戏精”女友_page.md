@@ -7,7 +7,9 @@ TXT 下载: [[变身]_我的“戏精”女友.doc]([变身]_我的“戏精”�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《我的“戏精”女友》，作者为宅路人。这是一部以校园为背景的变身小说，讲述了男主与一只具有变身能力的史莱姆之间发生的奇幻且刺激的故事。故事围绕男主阿梁与学校校花风情万种的日常互动展开，尽管表面上一切看似正常，实际上男主的生活却被这只史莱姆的出现彻底改写。史莱姆不仅能够变身为各种女性角色，还展现出了相对高超的智力和性感魅力，甚至模仿着男主心目中完美女性的形象，让男主陷入了一系列的情感和生理上的冲突与纠结。
+
+在课间的时候，校花以撒娇的方式引起了男主的注意，但随之而来的却是史莱姆的强势和猎奇表现，男主在两者之间的摇摆不定让作品充满了幽默和刺激。作品中涉及到大量的性暗示和幻想情节，其中包含了一些成年向的描述，展现了角色之间复杂的情感和性行为。故事情节层层推进，最终在误会与惊吓中达到一种意想不到的高潮。此文件适合成年人阅读，尤其是对性别流动性和变身类作品感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_我的“戏精”女友.doc]([变身]_我的“戏精”�
 | Size            | 34304 bytes                           |
 | MD5             | 476078c0aae8a85de84aee00bb0ae45c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 变身, 伪娘, TS, 性转, 宿舍生活, 幻想, 强烈性暗示, 史莱姆, 多元性别, 性别认同, 情感纠葛, 青春, 性别先锋, 成人向, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_万花筒_（1）.doc]([附身]_万花筒_（1）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一个现代都市故事，讲述了主人公刘铭的日常生活与奇妙经历。故事以刘铭的自述开头，他是一位26岁的年轻人，因学业问题缀学，选择摆摊以谋生。一天，他在市中心摆摊时，遇到了一位小女孩，她用一个美丽的万花筒与刘铭交换了他正在销售的音乐盒。刘铭沉迷于万花筒，感受到五彩缤纷的幻境，让他暂时忘却了现实的烦恼。然而，当他再次睁开眼睛时，他却发现自己变成了一个女人，身上穿着的衣物与他原本的身份截然不同，随之而来的是对自己身份的迷惑与对现实时空的困惑。在故事的后续中，他去网吧上网时遭遇了一名男客对他的骚扰，进一步揭示了他在新身份中的挣扎与挑战。通过刘铭的经历，作品探讨了性别认同、自我认识等主题，并通过他的内心独白展现了对未来的憧憬与对身份转换的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_万花筒_（1）.doc]([附身]_万花筒_（1）.doc)
 | Size            | 48128 bytes                           |
 | MD5             | 52c86afde0bf5f09c921845ede64f3a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 穿越, 青春, 自我探索, 性别认同, 都市, 魔法, 幻境, 角色扮演, 心理成长, 生活烦恼, 梦幻, 游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_人生一场梦（二）.docx]([变装]_人生一场梦（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一段关于变装与性别认同的小说情节。故事围绕主人公琳琳展开，描述了她与一位叫顾峰的男性之间的复杂关系。故事开头，琳琳与妈妈一同在一家高档餐厅用餐，顾峰已在那里等候。期间，琳琳因与顾峰的过往经历，表现出冷淡和不愿交流的态度。在一番对话中，两人间的旧怨重提，引发了激烈的争吵。故事进展到琳琳因无法继承和解，选择了不去上班，并与母亲发生矛盾。最终，在经过内心挣扎后，琳琳决定改变自己，努力处理自己的事情，反映了个人成长过程中的自我认知与性别认同的挑战。文中细腻的描写涵盖了她的心理变化及外在打扮，揭示了她在性别角色认同过程中面临的多重困境与社会压力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_人生一场梦（二）.docx]([变装]_人生一场梦（
 | Size            | 61073 bytes                           |
 | MD5             | 9de066b1a793abbe882d09801cad50f1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 跨性别, 情感纠葛, 自我探索, 家庭关系, 社会压力, 青春, 心理斗争, 女性视角, 成长经历, 复杂关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

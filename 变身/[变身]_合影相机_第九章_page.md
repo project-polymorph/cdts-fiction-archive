@@ -7,7 +7,7 @@ TXT 下载: [[变身]_合影相机_第九章.doc]([变身]_合影相机_第九�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为变身小说的第九章，标题为《败露与妥协》。主要围绕角色黎司与其姐姐黎珊珊的对话展开，故事情节涉及了性别认同和家庭关系的复杂性。章节开始时，黎珊珊对黎司的打扮表示调侃，并质疑其身份。在姐弟之间的对话中，黎司因被姐姐捉到化妆而感到慌乱，而姐姐则逐渐揭露其秘密，询问相机的事情。章节中穿插了对于性别身份的剖析和自我认知的困惑，同时也反映了两人的亲密关系及潜在的紧张气氛。最终，两人面对可能的法律责任，尝试理解彼此的处境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_合影相机_第九章.doc]([变身]_合影相机_第九�
 | Size            | 40448 bytes                           |
 | MD5             | 20795e81343f0d9380bb6de5a78ec2f5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 青春, 自我认同, 家庭关系, 矛盾, 社会压力, 性别流动, 调侃, 性别转换, 情感纠葛, 违法行为, 悔改, 初犯, 敏感话题, 心理冲突, 亲密关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

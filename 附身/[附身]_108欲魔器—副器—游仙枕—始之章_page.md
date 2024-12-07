@@ -7,7 +7,7 @@ TXT 下载: [[附身]_108欲魔器—副器—游仙枕—始之章.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《108欲魔器—副器—游仙枕—始之章》的开篇，作者苍茫通过主角璃冥的视角讲述了关于一个神奇的玉枕的故事。故事开始，璃冥从父亲那里了解到这个玉枕的价值以及其在历史上被视为神圣的文化含义。玉器被描绘为具有神奇保健作用的物品，甚至与长生不老的传说相联系。在一次梦境中，璃冥发现自己拥有了灵魂出窍的能力，并试图占据他人的身体，探索这项新能力的边界。故事围绕着性别认同、灵魂转换以及主角的自我探索展开，展现了对传统性别观点的挑战和对个人欲望的深刻挖掘。作品涉及的情节虽然含有性的隐喻，但同样也反映了对身份与存在的思考和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_108欲魔器—副器—游仙枕—始之章.doc]([附身
 | Size            | 31232 bytes                           |
 | MD5             | 78caf4a42f30599d6daffd65ca4cf28a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 苍茫                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂出窍, 身体占据, 性别认同, 梦境探索, 父母关系, 玉枕, 超自然能力, 身份危机, 青少年成长, 自我认知, 家族传承, 幻想小说, 超能力, 情感冲突, 性转, 异世界, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

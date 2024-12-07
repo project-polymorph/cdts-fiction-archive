@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星云_第二十六章.docx]([皮物]_星云_第二十六�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档提供了一部科幻题材的小说章节，采用了意识流的叙述风格，通过主角的内心独白和对宇宙的观察，探讨了生命的意义和人类的命运。对比了在虚拟现实中的人与被禁锢的生命，展现了一个充满机械和科技的未来世界。具体来说，主角感知到了人们的生活在于被控制和忽略自我追求的状态，在虚拟胶囊中的“休眠”生活，思考了一系列关于历史、战争、人性和存在的哲学问题。小说还提及了一些未展开的情节，暗示了未来将揭示的故事，且有一段关于个人欲望与探险的描写被删除。整体而言，本章在描绘孤独和对存在的思考之余，亦对未来科技的反思展开了审视。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星云_第二十六章.docx]([皮物]_星云_第二十六�
 | Size            | 17242 bytes                           |
 | MD5             | a69102849aba982aac1ed94bba71280e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 意识流, 虚拟现实, 人性探索, 宇宙旅行, 机械生命, 生命意义, 孤独, 哲学思考, 未来主义, 存在主义, 虚构故事, 人皮, 脱离现实, 自我认知, 技术禁锢, 星际战争, 灵魂探寻, 心理状态, 非线性叙述, 失落的梦想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

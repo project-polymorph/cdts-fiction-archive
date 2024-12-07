@@ -7,7 +7,7 @@ TXT 下载: [[变身]_朋友的报复+是18X的希娜小姐哦.doc]([变身]_朋
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于变身与跨性别主题的小说，包含了涉及角色性别转换的情节和深刻的自我认知冲突。故事描述一个朋友施加魔法报复，让主人公从一名男性转变为女性，并体验到身体和心理的双重改变。在小说开头，主人公在朋友的家中，自觉身体发生变化，逐渐忘记自己作为男性的身份，取而代之的是对自己新身份的认同和对主人的依恋。随后，故事深入到主人公与主人的亲密关系，包括了一些包含情色和性行为的情节，揭示了跨性别的内心世界与复杂感情。其间也探讨了性别认同、权力与欲望等主题。不同于一般的福音故事，本作生活中混杂着诸多限制级内容，内容涉及人际关系的复杂性、变身后的身份认同以及对个人欲望的迎合与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_朋友的报复+是18X的希娜小姐哦.doc]([变身]_朋
 | Size            | 34816 bytes                           |
 | MD5             | ed752d3cabe930e3390a9ccb006162d0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性别认同, 自我探索, 变嫁, NTR, 纯爱, 年龄差, 调教, 逆后宫, 强奸, 百合, 性转, 女体化, 幻想, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

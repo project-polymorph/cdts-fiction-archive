@@ -7,7 +7,7 @@ TXT 下载: [[变装]_《青蛇劫》第一、二章（原名：小青的堕落�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《青蛇劫》是一部描绘了性别转换与情感纠葛的小说，故事围绕两条妖蛇展开。白素贞与青蛇之间的相遇充满了悬念与戏剧性。白素贞是一条修行千年的白蛇精，在观音菩萨的指引下，寻求解脱与飞升的机会。与她相对的青蛇原本是个威风凛凛的妖王，随着故事的发展，两个角色的命运紧密交织在一起。在初次相逢时，白素贞误入青蛇的王府，引发了一系列冲突。白素贞虽然实力强大，但青蛇身受重伤，无法承受她的进攻。随着斗法的进行，青蛇逐渐被白素贞的妖力压制，甚至在痛苦中昏迷不醒。最终，在白素贞的救助下，两条蛇之间的法力交融引发了情感的升华，情欲的困扰使她们沉浸在身体与欲望的纠缠之中。作品探索了性别认同、自我探索以及人与人之间微妙的情感联系，涉及深层的心理与生理的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_《青蛇劫》第一、二章（原名：小青的堕落�
 | Size            | 61440 bytes                           |
 | MD5             | 896df8b64f89172529b9c307346eee99                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 妖王, 情欲, 自我探索, 白蛇, 青蛇, 欲望纠缠, 道教文化, 灵异幻想, 情感戏剧, 法力比拼, 跨性别认同, 女性视角, 古典神话                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

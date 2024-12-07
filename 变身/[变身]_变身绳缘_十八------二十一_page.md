@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身绳缘_十八------二十一.doc]([变身]_变身绳
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘与变身角色的小说，主要描述了名为郝建的角色在女性形象的转变过程中的日常生活与心理变化。故事开始于郝建在五星酒店中与债主薛岫偶然相遇，内心充满着矛盾的情绪，既感到歉疚又期待享用美食。故事中郝建以一个萌萌的萝莉音请求陪吃，展现出角色性别转变后性格的变化和心理的挣扎。接下来的情节表明，她与薛岫在小酒馆里共享美食，尽管面临着经济困境，郝建依旧表现得活泼和自信，甚至在与朋友的互动中显示出义气和幽默感。故事穿插大量的饮食细节和角色间的亲密关系，探讨了性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身绳缘_十八------二十一.doc]([变身]_变身绳
 | Size            | 43008 bytes                           |
 | MD5             | f3218fab2d6e95a884a0604f07ee3a11                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 小说, 饮食, 姐妹情, 友情, 自我认同, 性别转换, 校园生活, 幽默, 情感纠葛, 二次元, 强奸, 调教, 爱情相关                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

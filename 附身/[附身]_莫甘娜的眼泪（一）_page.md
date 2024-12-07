@@ -7,7 +7,7 @@ TXT 下载: [[附身]_莫甘娜的眼泪（一）.doc]([附身]_莫甘娜的眼�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《莫甘娜的眼泪（一）》是一部围绕性别与身份认同展开的小说，故事主要讲述了一位名叫李承佑的男性，面临与女友的关系危机与突发的家庭变故。他的女友晓丽在电话中提出让他用拆迁获得的赔偿为其弟弟在城市购房，直言不讳地将关系的脆弱与物质需求绑定在一起，使得李承佑倍感压迫。他在公司遭遇了警察的突袭，因涉嫌谋杀自己的父母而被带走，这使得原本平静的生活瞬间崩塌。整个故事融合了爱情的混乱、家庭关系的紧张，以及对人性本质的深思，展现了在物质与情感冲突下的心理挣扎。同时，作品中包含了一些理解与误解的情节，探讨了社会人与人之间的信任关系，当面临利益冲突时，破裂的关系往往比我们想象的更令人失望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_莫甘娜的眼泪（一）.doc]([附身]_莫甘娜的眼�
 | Size            | 71680 bytes                           |
 | MD5             | d2ff49f1d2a0200c698a2d16d1f2b51b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 情感危机, 家庭变故, 都市生活, 谋杀悬疑, 爱情与物质冲突, 心理挣扎, 双重身份, 社会关系, 男女关系, 拆迁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

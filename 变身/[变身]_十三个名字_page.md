@@ -7,7 +7,7 @@ TXT 下载: [[变身]_十三个名字.doc]([变身]_十三个名字.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《十三个名字》是关于凯莉·布莱斯与一张神秘的魔咒纸条之间的故事。凯莉面临着改变自己命运的机会，她希望通过施法将自己变成她想要的人。故事中充满了她的期待和紧张，她搜集了施法所需的材料，准备点燃蜡烛，在魔法圈内施法。在这一过程中，她得知咒语需要填入十三个名字，并思考着选择谁的名字以实现她的愿望。随着故事叙述，读者能够感受到凯莉心中的兴奋与矛盾。与此同时，其弟弟大卫意外闯入，打破了凯莉的仪式，导致咒语未能成功施展。大卫对姐姐的行为感到困惑和不满，双方的冲突和误解为故事增添了紧张氛围。作品探讨了性别认同、自我认知及对变化的渴望，以魔法作为隐喻反映人们内心的挣扎与渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_十三个名字.doc]([变身]_十三个名字.doc)
 | Size            | 123904 bytes                           |
 | MD5             | 98878bd79fd95b3bb096e43a109e6535                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法, 性别转换, 自我探索, 兄弟之间的冲突, 青春校园, 幻想, 灵异, 叛逆青春, 身份认同, 性别认同, 超自然力量, 魔法咒语, 不可逆的选择                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

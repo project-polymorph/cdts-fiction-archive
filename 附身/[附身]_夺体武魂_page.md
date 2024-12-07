@@ -7,7 +7,9 @@ TXT 下载: [[附身]_夺体武魂.docx]([附身]_夺体武魂.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部异能与武魂题材的小说，讲述了一个名为李成的角色重生并穿越到一个科技发达却又充满异能的平行世界的故事。在这个世界中，角色们通过关键的觉醒仪式获得异能以及武魂。故事围绕李成在觉醒日的情感与冲突展开，他对自己武魂的期待与觉醒过程的紧张感交织在一起，呈现出他面临的内心挣扎和外在竞争的复杂局势。
+
+小说描述了觉醒殿的场景，众多学生为了这一关键时刻而兴奋不已，李成渴望获得强大的异能以扬名立万。在觉醒过程中，他终于觉醒出一个看似普通的木盒武魂，虽然初闻让他略感失望，却也意识到这种觉醒本身就已经不易。这种背景下，小说引入了一名矮小男子与一位少女的冲突情节，暗含着药物与强暴的情节，展现出角色对于权力、性别与自我认同的探索。全文基调复杂多变，包括了对武魂的羡慕、对不幸命运的专注，以及在这个异能世界中的权力斗争等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_夺体武魂.docx]([附身]_夺体武魂.docx)
 | Size            | 19936 bytes                           |
 | MD5             | 18efa8db7fe3bd1b851ca72ade342764                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 异能, 武魂, 穿越, 觉醒, 性别认同, 药物, 强暴, 少年成长, 自我探索, 奇幻, 变身, 校园, 科幻, 心理斗争, 冒险, 武斗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

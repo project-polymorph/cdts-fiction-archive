@@ -7,7 +7,7 @@ TXT 下载: [[改造]_凤涎香_二.doc]([改造]_凤涎香_二.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇涉及性转、伪娘及变身主题的小说，主要描绘了一名少女在未知环境下遭受束缚与操控的情节。故事开头，少女被四肢紧紧束缚在床上，描述其精致的外貌和被强迫施加的身体刺激。之后，出场的男性角色在强迫状态下对其进行侵犯，而少年则被迫接受一系列催情药剂的注射，导致少女在绝望中逐渐被侵入，故事中充斥着对性行为的细致描绘与对少女心境的变化。从开始的恐惧和反抗，到后来的迷乱与欲望提升，少女的内心挣扎与外在行为的变化相映成趣。文本涉及了复杂的性别与性关系的探索，包含了大量明显的性暗示与限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_凤涎香_二.doc]([改造]_凤涎香_二.doc)
 | Size            | 48640 bytes                           |
 | MD5             | 374ea6f44f8090232dfb83346b5512ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 催情, 性转, 强奸, 变嫁, 自我认知, 跨性别, 欲望探索, 理智冲突, 情感纠葛, 二次元, 黑暗幻想, 心理操控, 情色小说, 极限体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

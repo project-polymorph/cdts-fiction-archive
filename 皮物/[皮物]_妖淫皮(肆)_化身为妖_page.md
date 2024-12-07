@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_妖淫皮(肆)_化身为妖.docx]([皮物]_妖淫皮(肆)_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件《妖淫皮(肆)》描述了一个恐怖而扭曲的故事，涉及角色金泯天和玟玟的恶性互动，展现了一种关于人皮妖怪的科幻与恐怖结合的情节。故事开头提到一些关于发错版和更新的事情。接着，故事中心围绕金泯天使用特制的刀将人剥皮，妄图变成女性的过程展开。文本中有许多描写极具冲击力的场景，金泯天在强暴玟玟的同时，又陷入了人皮衣的诅咒中，情节间多次出现暴力及性侵的细节，展现出角色对于自我身份的挣扎与转变。故事以一种恐怖的哥特式风格展开，涉及剥皮、强暴与女性的肉体的剖析，令人感受到一种不安与恐惧。文本最后，展现了金泯天在受其人皮衣反噬后的挣扎，反思了一个阴暗的生存与欲望主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_妖淫皮(肆)_化身为妖.docx]([皮物]_妖淫皮(肆)_
 | Size            | 23308 bytes                           |
 | MD5             | 3e54566c073958991377a173dcb19fd5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 人皮, 恐怖小说, 强暴, 剥皮, 生存, 妖怪, 科幻, 性别认同, 自我探索, 诅咒, 变态, 暴力, 奇幻, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

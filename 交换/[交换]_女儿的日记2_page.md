@@ -7,7 +7,7 @@ TXT 下载: [[交换]_女儿的日记2.doc]([交换]_女儿的日记2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是一个由主人公darksoul撰写的日记，记录了她对周围环境的观察与内心的细腻思考。文件开头提到主人公在检查之前的居住环境后，描述了楼房的状况，特别提到九十年代的“赫鲁晓夫”楼的特征，以及卧室的舒适与阳台上的鸟鸣。接着，darksoul分享了自己关于噩梦的经历，梦中与蛇有关的意象贯穿始终，隐喻了角色的自我探索与认同的困惑。随着日记的深入，家庭的关系也逐渐显露，关于“爸爸”的秘密、与家人之间情感的交织，展示了一个年龄在十四岁左右女孩的复杂内心。最后提到的生理问题又将性别认同与身体变化的主题推向高潮，展现出角色的矛盾与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_女儿的日记2.doc]([交换]_女儿的日记2.doc)
 | Size            | 33792 bytes                           |
 | MD5             | 6af016cf86765ccc55cda064b420bde0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | darksoul                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-04-01                                 |
+| Tags            | 日记, 性别认同, 梦境, 家庭关系, 自我探索, 伪娘, 情感纠葛, 生理体验, 九十年代, 环境观察, 青春困惑, 心理描写, 蛇的意象, 父女关系, 成长, 青春文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

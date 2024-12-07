@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身之穿越阿朱（至十八章，曼陀山庄剧情�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《变身之穿越阿朱》是一篇涉及性转、伪娘和变身题材的小说。本篇的主角朱敏在一次机缘巧合之下穿越至一个名为曼陀山庄的地方，故事围绕他在新的身份下的遭遇展开。朱敏的性别在故事中发生了转变，并通过描写他在适应全新身体和身份上的挣扎，探索自我认同的问题。内容包括朱敏对自己新身份的复杂感受，以及与周围女性角色之间的互动，涉及了对外貌变化、内心斗争的深刻探讨。在诸多事件的推动下，朱敏不仅要面对婚姻与爱情的选择，也要找到与其新身份和能力的平衡。本文适合研究相关性别认同与社会角色的问题，以及对于变身与性取向的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身之穿越阿朱（至十八章，曼陀山庄剧情�
 | Size            | 74240 bytes                           |
 | MD5             | 4c50296c8b1b6ca9688f09064c9f0ad8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 自我认同, 情感探讨, 古风, 耽美, 穿越, 内心斗争, 修炼, 女性角色, 身份转换, 前世今生, 阴谋, 情感纠葛, 温馨                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

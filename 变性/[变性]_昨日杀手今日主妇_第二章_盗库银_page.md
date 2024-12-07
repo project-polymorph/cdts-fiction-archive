@@ -7,7 +7,7 @@ TXT 下载: [[变性]_昨日杀手今日主妇_第二章_盗库银.doc]([变性]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一个跨性别角色于边与其伪娘妻子姜殊白的日常生活的小说稿。故事围绕于边作为打工人和姜殊白的婚后生活展开，描绘了他们之间的亲密关系与生活细节。姜殊白的角色设定为一名外表女性但内心复杂的伪娘，故事情节中涉及家庭琐事、邻里关系以及一次遭遇入侵的事件。文章以幽默和戏剧性的方式展现了角色在性别认同和社会认知中面临的挑战，以及两人相互之间的爱与支持。比如，邻居对姜殊白日常打扮的议论加深了于边的紧张感，而姜殊白则通过自己的方式维护着家庭的和谐，处理着对自我身份的探索与认同的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_昨日杀手今日主妇_第二章_盗库银.doc]([变性]
 | Size            | 37888 bytes                           |
 | MD5             | d94f9f4e13af12b5e76e2997749caf09                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 婚姻, 强奸, 变嫁, 性别认同, 自我探索, 都市生活, 亲密关系, 邻里关系, 幽默, 心理冲突, 性转, 启蒙, 现代家庭                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译小说】快速转变.docx]([变装]_【翻译小
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于角色性别转换的文学作品，讲述了尼克（在文中称为米卡）在与妻子辛西娅共同生活时的心理变化与角色转换。他原本是一名男性律师，由于工作和生活中的压力，他逐渐接受了变装的生活方式，并以女性佣工的形象出现在社会中。故事中详细描绘了尼克的外表转变和内心冲突。文中提到，尼克通过佩戴女装和化妆来逐渐追求自己的性别认同，同时也展示了他与妻子之间的相互理解和支持。他的角色身份在经历工作上的困境后发生了质的变化，最终成为了一名家庭男主人的角色。该作品探讨了性别认同、自我探索及社会角色的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译小说】快速转变.docx]([变装]_【翻译小
 | Size            | 21908 bytes                           |
 | MD5             | cfc6e2a4730115d6b422154ff6fd2b30                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变装, 跨性别, 角色认同, 女性形象, 家庭主妇, 自我探索, 社会压力, 心理冲突, 佣工生活, 性别认同, 文艺, 二次元, 职场故事, 婚姻关系, 现代生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

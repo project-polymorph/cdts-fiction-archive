@@ -7,7 +7,7 @@ TXT 下载: [[改造]_人鱼妻养成记第三章.doc]([改造]_人鱼妻养成�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及伪娘和变身主题的小说，名为《人鱼妻养成记第三章》。故事围绕主角温蒂和她的丈夫莱克展开，内容介绍了温蒂通过一种药物变身为人鱼的过程。温蒂在刀锋般的疼痛与嫉妒中承受着身体的变换，经历了一系列身体与心理上的挑战。她必须在水中游动，以便让药性与她的身体融合，此情此景展现了在异性状态下她的新身份与新的身体体验。此外，情节中涉及到药物的效果、魔法的使用，以及温蒂和莱克之间更加亲密的关系，描写了两人在水中的亲密互动，甚至包括了一些露骨的性暗示和亲密行为。整个故事深入探索了角色的性别认同和自我认知，展现了一幅奇幻且富有挑战性的情感画卷。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_人鱼妻养成记第三章.doc]([改造]_人鱼妻养成�
 | Size            | 38400 bytes                           |
 | MD5             | 027830223c1de632cd5c97e6a4ad4ca9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 人鱼, 伪娘, 魔法, 亲密关系, 性别认同, 药物转变, 身体感知, 奇幻, 浪漫, 异性恋, 性暗示, 自我探索, 性转小说, 水中互动, 幻想, 情感戏, 乳胶衣, 婚姻, 性生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

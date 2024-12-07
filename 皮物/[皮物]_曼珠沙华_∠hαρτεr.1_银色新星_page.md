@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_曼珠沙华_∠hαρτεr.1_银色新星.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章名为《曼珠沙华 ∠hαρτεr.1 银色新星》，主要讲述了一个发生在魔法世界的故事。故事的背景设定在伦斐大陆，描述了一个由历史遗留的石头建筑的小城堡，城堡里发生着一场黑暗的实验室战斗。年轻的法师雷埃德与一名魔法学徒凯洛在这里经历了激烈的冲突和自我发现。文中描绘出鲜红的曼珠沙华在寒风中的摇曳，暗示着痛苦与挣扎的主题。雷埃德拥有高超的魔法能力，外表英俊但其内心复杂，他在与凯洛的对抗中显示出他对力量的渴望与对黑暗魔法的抵抗。作品探讨了魔法、权力与个人成长之间的关系，并涉及了自我牺牲的议题，如凯洛为保护他人而选择自爆。整体充满了奇幻的元素和紧张的剧情发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_曼珠沙华_∠hαρτεr.1_银色新星.docx]([皮物]_�
 | Size            | 25380 bytes                           |
 | MD5             | 587026987a8b13cadc67a5fdd5d11fbd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 青春成长, 黑暗魔法, 自我探索, 牺牲, 幻想文学, 法师, 伦斐大陆, 战斗, 实验室, 魔法对抗, 人物心理, 超能力, 古代迷踪, 社会关系, 冒险, 异世界, 力量渴望, 禁忌实验, 英雄与反派                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

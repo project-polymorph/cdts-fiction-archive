@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_为了我的新手奖励~~《宫斗》~~临时起的名子
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一位名叫小蝉的宫女与另一名宫女蕊儿之间复杂关系的小说片段。故事设定在一个古代宫廷中，描绘了小蝉与蕊儿之间的互动与冲突。在被另一名宫女辱骂后，小蝉愤怒与兴奋交织，展现出她的阴暗一面。同时，文中多次交错描写了对蕊儿身体的占有欲和通过极端手段对蕊儿进行控制和变换身份的情节。小蝉对蕊儿的身体进行剥皮与穿皮的描写令人不寒而栗，其中包含了生理与心理上的扭曲与冲突，该文本涉及极其细致的残酷场景及性别的转变，反映了主人公小蝉对自我与他人身份的探索与认同。这部作品可视为性别认同、自我探索、权力与弱势之间冲突的深层次探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_为了我的新手奖励~~《宫斗》~~临时起的名子
 | Size            | 40791 bytes                           |
 | MD5             | f82c8b2869a0b50bbd1ea396648f1466                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 宫斗, 变身, 伪娘, 跨性别, 权力斗争, 自我认知, 阴暗面, 性别转换, 占有欲, 古代, 心理扭曲, 暴力情节, 残忍, 情感纠葛, 身份认同, 黑暗幻想, 极端情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

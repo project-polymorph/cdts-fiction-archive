@@ -7,7 +7,7 @@ TXT 下载: [[变装]_朋友被薪水迷惑了心智而做了我的女仆！？�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘/男娘小说，讲述了名为透的男主与他的女仆小文之间错综复杂的感情与欲望。在游戏中，小文因透的胜利而被迫成为女仆，随着故事的推进，他们之间的关系逐渐从主仆变得暧昧和亲密。故事中包含了调情与性关系的描写，反映出角色在性别认同与自我探索上的挣扎与体验。透初始对小文的性别转换并无太多了解，然而随着情节发展，他逐渐对小文的女仆身份产生了复杂的情感，同时小文也在这个过程中重新审视自我。这些情节不仅涉及到性转与跨性别的主题，还蕴含着对欲望与青春的探索，尤其是以亲密互动为核心的情感交流贯穿全文。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_朋友被薪水迷惑了心智而做了我的女仆！？�
 | Size            | 37044 bytes                           |
 | MD5             | d2cdf419362abe99195e7eeaa241facc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 男娘, 变装, 青春, 调情, 性别认同, 欲望探索, 主仆关系, 爱情, 跨性别, 游戏, 自我探索, 亲密互动, 青少年, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_龙媚虎俏（三）.doc]([改造]_龙媚虎俏（三）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《龙媚虎俏（三）》为一部伪娘/TS变身小说，讲述了主角萧幕虎的成长与自我探索。故事背景设定在一个虚构的武侠世界中，主角经历了性别变化与自我认知的转变。文中描绘了幕虎的外貌变化与内心挣扎，细致刻画了他与周围人物之间复杂的关系，如与舅舅唐万里的互动，以及对唐玉的情感。萧幕虎身高已达八尺，拥有强壮的体魄，但却因未能成家而感到遗憾。故事中，幕虎在轻功与武功上都取得了进展，同时他的性别认同和感情生活也在发展。内容涉及了性幻想、自我探索，以及对自我身份的深刻思考。小说包含一些可能不适合未成年人阅读的情节，包括性刺激与幻想，且有明显的成人向内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_龙媚虎俏（三）.doc]([改造]_龙媚虎俏（三）.
 | Size            | 37376 bytes                           |
 | MD5             | c41fb4033253cde6061f07a4dac02cc8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 武侠, 自我探索, 强奸, 自渎, 调教, 百合, 阴茎, 变嫁, 年龄差, 淫荡, 恋物癖, 非人化, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

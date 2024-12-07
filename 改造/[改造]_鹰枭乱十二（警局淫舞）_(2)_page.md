@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鹰枭乱十二（警局淫舞）_(2).docx]([改造]_鹰�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为性转与跨性别主题相关的小说，名为《鹰枭乱十二（警局淫舞）》。故事围绕主人公李愿翔的经历展开，李在被迫接受雌激素治疗和整形手术后，以女性身份生活，面临着情感与身份认同的斗争。故事第一章中，李与挚友张楚良的对话揭示了他所处的危险境境及其对亲情的执着。文中描写了李愿翔对自己逐渐女性化的意识，以及在夜总会工作的复杂感受，情感和权力之间的纠葛，让他在新身份下感到前所未有的紧张与压迫。笔触细腻，既展现了角色内心的矛盾，也通过与其他角色的互动描写出身份转变带来的困惑与挑战。内容中包含情感发展及与等级关系的复杂交织，引人深思，同时也涉及一些成人内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鹰枭乱十二（警局淫舞）_(2).docx]([改造]_鹰�
 | Size            | 26341 bytes                           |
 | MD5             | b7c0e5556f69e94f20d5a8b81c5d559c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 雌激素, 夜总会, 自我认知, 身份困惑, 情感纠葛, 性别认同, 伪娘, 强制变装, 青春, 友谊, 情感支持, 酒精影响, 社会压力, 同性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

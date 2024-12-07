@@ -7,7 +7,7 @@ TXT 下载: [[其他]_年龄调节器5_本章免费.docx]([其他]_年龄调节�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一部名为《年龄调节器》的小说，主要讲述了角色通过一种名为年龄调节器的设备自由改变自己的年龄和性别的情节。故事围绕主角山岡信夫及其家人展开，信夫利用这个装置将自己的母亲和姐姐的年龄进行调节，变换成小女孩的模样，而他的母亲则被调整成十岁的样子，带来一系列搞笑与矛盾的情节。文中涉及复杂的人物关系和年龄之间的互动，如信夫与他的女朋友森紗代，以及他与母亲、姐姐之间的相处。故事同时探讨了身份的认同以及年龄的心理变化，例如：信夫在变成40岁女性职位后，内心的挣扎与情感变化。尽管文中含有性别和年龄转化的情节，但主要侧重于家人之间的情感互动与幽默场景的描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_年龄调节器5_本章免费.docx]([其他]_年龄调节�
 | Size            | 28039 bytes                           |
 | MD5             | daf469e9106819b63a922db32c344687                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 年龄调节, 伪娘, 家庭关系, 自我认知, 幽默, 角色转变, 变身, 社会角色, 性别认同, 奇幻, 二次元, 少年, 幻想小说, 虚拟现实, 家庭喜剧, 少年爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

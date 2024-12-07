@@ -7,7 +7,7 @@ TXT 下载: [[附身]_朋友圈助手3.docx]([附身]_朋友圈助手3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于伪娘(TS)变身与跨性别题材的小说，名为《朋友圈助手3》。故事围绕主角阿欣的日常生活展开，他和其女友小玉及小玉的闺蜜兰兰之间的复杂关系通过一款名为‘朋友圈助手’的软件发生了微妙变化。在故事中，阿欣在与小玉和兰兰的互动中逐渐发现兰兰的真实意图，并从中经历了一系列情感与认知的冲突。内容涉及性别认同、角色扮演以及复杂的人际关系，尤其是在性别转换的背景下展现了多重欲望的交织。文中包含大量成人情节，如阿欣与兰兰、小玉之间的亲密接触、约会以及性行为的描写，使得故事情节引人深思，同时也提出了对性别和人际关系的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_朋友圈助手3.docx]([附身]_朋友圈助手3.docx)
 | Size            | 19368 bytes                           |
 | MD5             | 831a13610db674acf6816ca70698172a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 游戏, 爱情, 女性视角, 强奸, 多重刺激, 调教, TSF, 奇幻, 都市, 人际关系, 成人内容, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

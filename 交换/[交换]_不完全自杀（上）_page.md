@@ -7,7 +7,7 @@ TXT 下载: [[交换]_不完全自杀（上）.doc]([交换]_不完全自杀（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《不完全自杀（上）》是一篇描绘家庭关系和心理冲突的小说，讲述了一位年轻父亲在生活压力下的内心挣扎与自我认知的变化。故事围绕着主角和他的妻子、女儿及婆婆之间错综复杂的关系展开，反映出现代家庭的琐碎与沉重。主角在工作与家庭义务之间的疲惫感，持续的心理压迫，加上对未来的不安，最终让主角走向一条自我毁灭的道路。故事开头提及他在家庭争吵中感到麻木与无力，他的妻子则由于育儿问题与婆婆之间产生的矛盾而倍感压力，反映了现代社会中对女性及角色的期望与否定。文中描绘了许多日常生活的细节，比如对欣赏与羡慕他人生活的复杂心理，最终在一次偶然的机会下，主角的绝望选择象征了对生活的放弃。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_不完全自杀（上）.doc]([交换]_不完全自杀（�
 | Size            | 47104 bytes                           |
 | MD5             | 17df26a487b325748f2ada10ed4dd43d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 心理斗争, 家庭关系, 生活压力, 育儿困惑, 性别角色, 自我毁灭, 现代社会, 成人小说, 情感纠葛, 孤独感, 自我探索, 二次元文化, 女性视角, 婚姻问题, 悲剧, 社会压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

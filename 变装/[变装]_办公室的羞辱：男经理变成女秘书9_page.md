@@ -7,7 +7,7 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书9.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部名为《办公室的羞辱：男经理变成女秘书》的变装幻想小说的第9章。在这一章节中，主角安德鲁感到自己作为团队领导者的无力，面临着工作压力和自我认同的困惑。随着科琳的加入，安德鲁的感受愈发增强，他焦虑于自己的变化被其他同事识破。在凯瑟琳的操控下，安德鲁被迫穿上高跟鞋和其他女性服饰，感受到的羞耻感与恐惧并存。此章节展现了安德鲁的内心斗争和性别认同的转变，随着情节的推进，安德鲁的形象愈加女性化，导致他不断地面临来自他人和自身的双重压力与挑战。文中有诸多关于性别角色和权力动态的描绘，表现出性转变身主题和艳丽的服饰描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书9.docx]([变�
 | Size            | 20892 bytes                           |
 | MD5             | d2bb305a2cd96406f077a8224e64d299                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 羞辱, 办公室, 跨性别, 变身, 自我探索, 权力动态, 情感纠葛, 职场关系, 药物治疗, 迷恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[分魂]被‘我’所染色的未来的故事.docx]([附
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是由作者笹座早々创作的，标题为《被‘我’所染色的未来的故事》，属于伪娘、变身与跨性别主题的小说。故事的主角米莎在一个未来的城市中探险，周围的建筑物被植物藤蔓覆盖，展现了一种科技与自然结合的景象。小说开头描述米莎在探查过程中踩到藤蔓，她环顾四周，发出对古老建筑的不屑，体现出对人类历史的反思。随着故事的发展，米莎使用纳米机器进行探查并获取数据，这些科技元素与角色的探索、自我认同的主题紧密相连。文中涉及了一些生殖和身体探索的描写，并结合了超现实的科幻设定。部分情节也涉及了对米莎的心态的内省，比如对过去感情的回忆和对工作的执着。文中含有一些光怪陆离的场景和成人向的描述，特别是一段描写米莎在调查文件时意外采取的动作，使得整个故事色彩丰富而复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[分魂]被‘我’所染色的未来的故事.docx]([附
 | Size            | 33484 bytes                           |
 | MD5             | f8ad0168e204e8e20ac4377b2bc2475c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 笹座早々                               |
+| Region          | 未知                               |
+| Date            | 2023-04-21                                 |
+| Tags            | 复数凭依, 未来科技, 纳米机器, 自我探索, 冒险, 建筑探索, 古代文明, 女性角色, 伪娘, 变身, 跨性别, 科技幻想, 种族歧视, 情感冲突, 身份认同, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

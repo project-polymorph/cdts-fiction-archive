@@ -7,7 +7,7 @@ TXT 下载: [[变性]_洗脑金属猫娘，题材是变性洗脑改造.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘变性与精神控制题材的小说，内容涉及精神改造和角色的性别转换。故事背景设定在一个阴暗的房间，描述了一名男性与一名猫娘之间的关系，猫娘是通过精神控制技术和生理性别转换形成的角色。小说开篇以细腻的描写引入情节，描绘男性与猫娘爱莉之间的亲密互动，揭示出一系列性幻想与权力动态的交织。随着情节发展，读者见证了机械与生物的冲突，以及主人公对爱莉转变的无奈和挣扎。故事中包含较多的色情描写，包括猫娘的外表特征、行为表现和主人的感受，展现了角色在性别改造和自我认知过程中的感情波动与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_洗脑金属猫娘，题材是变性洗脑改造.docx]([�
 | Size            | 37024 bytes                           |
 | MD5             | fd541f04862a5c84b4fd3aad68ba3ad7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 精神控制, 变性, 猫娘, 性别转换, 机械改造, 强迫性行为, 自我认知, 权力动态, 性幻想, 亲密关系, 人机结合, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

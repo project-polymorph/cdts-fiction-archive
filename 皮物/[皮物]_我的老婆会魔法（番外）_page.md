@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的老婆会魔法（番外）.docx]([皮物]_我的老
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《我的老婆会魔法（番外）》的文档，内容主要围绕张晴晴与其丈夫的日常生活，特别是在他们结婚一周年的纪念日的前夕。故事开头，张晴晴期待着周年纪念日，并充满期待地询问丈夫的安排。随着情节的展开，夫妻之间的互动展示了他们的甜蜜感情和日常生活的细节，包括准备浪漫的烛光晚餐和张晴晴展示其魔法能力的情节。随后，丈夫为了准备晚餐而前往菜市场，途中遇见一位身材丰满的女性，引发了一系列的联想与思考。而张晴晴在店内经营时也通过魔法进行了角色替换，增加了故事的幻想元素。整篇文章描绘了关于爱情、魔法与性别认同的主题，同时不乏日常生活的温馨细节和幽默元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的老婆会魔法（番外）.docx]([皮物]_我的老
 | Size            | 81927 bytes                           |
 | MD5             | 6512ee6b36950890e34f344a6803858f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 婚姻, 生活日常, 性别认同, 角色替换, 烛光晚餐, 甜蜜爱情, 幻想, 日常幽默, 夫妇互动, 二次元, 伪娘, 强烈的身体感知, 店铺经营, 家庭生活, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

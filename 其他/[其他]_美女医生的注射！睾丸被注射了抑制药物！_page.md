@@ -7,7 +7,7 @@ TXT 下载: [[其他]_美女医生的注射！睾丸被注射了抑制药物！.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于性转的小说《美人の女医さんが施しちゃう！！性転換の睾丸注射！》，讲述了男孩子弘治的成长和自我认知的挣扎。故事描述了弘治因为荷尔蒙失调而长出了D罩杯的乳房，面临着生理和心理上的困扰。女医生对他进行性别转换相关的注射治疗，随着剧情的发展，弘治在医疗过程中的痛苦与羞耻交织，其中还涉及到了他和母亲的复杂关系与情感。这个故事探讨了性别认同、家庭关系和个体自我认知等深刻主题。最终，弘治被医学手段逐渐女性化，并在学校中作为女孩生活，但其心理转变与情感纠葛仍在延续。整篇小说探讨了身体和性别身份之间的关系，以及人物在被迫接受改变过程中所体验到的痛苦与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_美女医生的注射！睾丸被注射了抑制药物！.
 | Size            | 35328 bytes                           |
 | MD5             | eaf901baa60dee5549e13e6a5ddeb04e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | issei様                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 成长故事, 女性化, 身体认同, 医疗, 荷尔蒙治疗, 家庭关系, 羞耻, 性别转换, 青春期, 心理冲突, 女医生, 幸福与痛苦, 母子关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_7.docx]([交换]_卡扎菲的秘�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于卡扎菲及其秘书莎莎的小说章节，涉及性别交换、伪娘与跨性别等主题。故事中，莎莎与男主角发生了亲密的行为，描绘了角色间的性感情感和身体的愉悦体验。文中有多处详细的性描写，如莎莎作出激烈的身体动作，男主角感受到她的紧密和身体的温度，表达了强烈的欲望和感官的冲击。片段还提到了关于卡奈儿的讨论，她的美貌和能力将成为政治上的重要资产，同时引出了权力、性欲、年轻复苏等主题。这段文字在描述手法上较为直白，涉及敏感内容，特意注重了角色的心理状态与自我认知的转变，是一部较为典型的性转/跨性别小说样本。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_7.docx]([交换]_卡扎菲的秘�
 | Size            | 17048 bytes                           |
 | MD5             | 65318cb6a2f1e98504f92204bd341278                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 跨性别, 强烈欲望, 身体认同, 心里冲突, 权力斗争, 年纪与美貌, 情感纠葛, 性行为描写, 权力与年轻, 自我探索, 性别角色扮演, 性幻想, 二次元, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

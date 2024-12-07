@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮枪：克拉丽莎（上）.docx]([皮物]_皮枪：克
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘及跨性别相关创作小说《皮枪：克拉丽莎（上）》的首部。故事围绕主人公对自身性别和性别认同的探索，描绘了他与妻子克拉丽莎及其理想伴侣梅根之间复杂的情感纠葛。男主角内心深处渴望变成女性，并对克拉丽莎拥有一种强烈占有欲，幻想通过拥有一把神秘的"皮枪"来实现这种愿望。小说中通过详细的心理描写展现了主人公对身体和身份的深刻挣扎，表达了他对自身认同的困惑与渴望。文本虽然包含一些限制级内容，但从叙事的角度来看，更加聚焦于性别认同与身份转换的心理层面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮枪：克拉丽莎（上）.docx]([皮物]_皮枪：克
 | Size            | 25758 bytes                           |
 | MD5             | 3579971c4aa5c42cbd1f42918cf76821                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Blot                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 奇幻, 变身, 心理探索, 女装癖, 关系复杂, 自我认同, 性欲幻想, 情感纠葛, 魔法枪, 虚拟现实, 心理小说, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

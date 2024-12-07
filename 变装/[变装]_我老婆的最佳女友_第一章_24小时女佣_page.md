@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我老婆的最佳女友_第一章_24小时女佣.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于主人公在心理和外观上变身为女性的小说，具体讲述了他决定在24小时内扮演女仆的过程。故事开始时，主角描述了自己的背景，以及他计划如何将自己打扮得像一位法国女佣。文中详细描述了他为达到这一目标而采取的步骤，包括剃除体毛、穿戴女性化服装、使用贞操带限制自己等。此外，主人公在穿上华丽的服装和进行妆容时的心理感受，尤其在面临自我认同与传统性别角色冲突时的复杂情绪，称得上是一种自我探索的旅程。整部小说充斥着主人公在沉浸于女性角色时，身体与心灵之间的紧张关系，以及对女性特征的渴求和遵从。故事凸显了关于性别认同、性别表现和个人自由的主题，同时也渗透出一些限制和束缚的感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我老婆的最佳女友_第一章_24小时女佣.doc]([�
 | Size            | 37888 bytes                           |
 | MD5             | bf665cb1c996c89a6280784e44032a54                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 伪娘, 女仆, 贞操带, 自我认同, 心理描写, 性别表现, 角色扮演, 情感冲突, 二次元, 幻想, 性爱限制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

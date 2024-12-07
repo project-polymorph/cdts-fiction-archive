@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的伪娘史（9.docx]([变装]_我的伪娘史（9.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一段关于伪娘生活的小说情节，主要围绕主人公在一家日本风情餐厅工作的经历。在餐厅中，主人公和同事们应对日本客人，用心准备中日文化接轨的用餐体验，并逐渐融入到这个环境中。在这个过程中，角色间的互动和性别身份的体验成为故事的核心。文中使用了大量对话，生动描绘了人物的情感与冲突，也体现了不同文化背景下人际关系的复杂。主人公在工作中不得不处理客人的不当举动，最终勇敢维护自己的尊严，逃离这一尴尬境地。整篇小说融入了跨文化的元素，以及对性别认同与社交压力的表现，显示出伪娘角色的独特心理历程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的伪娘史（9.docx]([变装]_我的伪娘史（9.doc
 | Size            | 17265 bytes                           |
 | MD5             | 040edaabc1eb4d9dedbde70fbe782f30                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 文化交流, 餐厅生活, 性别认同, 性别冲突, 日本文化, 角色成长, 自我认知, 社会压力, 微妙关系, 青春, 奋斗, 都市生活, 性别角色, 奇幻文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

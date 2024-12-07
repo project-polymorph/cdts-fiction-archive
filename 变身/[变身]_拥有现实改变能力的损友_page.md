@@ -7,7 +7,7 @@ TXT 下载: [[变身]_拥有现实改变能力的损友.docx]([变身]_拥有现
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是由作者ヴァレー创作的变身小说，讲述了男主角优斗在女友田中大辅来家里做客的场景。故事中包含了角色的内心挣扎与自我认同的冲突，优斗在面对大辅的性别与外形产生种种复杂的想法与幻想，情节包含了一些性暗示与色情内容。故事开头优斗因大辅要来家里而感到兴奋与紧张，随着故事的发展，他们之间出现了一些调侃和暧昧的互动，同时优斗的回忆与现实产生了矛盾。在小说中，多次提到大辅作为一个外表性别为女性的角色对优斗的吸引力，同时在情感对话中展现出大辅幽默而又具有性别模糊的特质。最终，随着情节的推进，优斗意识到大辅与他之间的友谊与感情变得复杂而困惑，流露出对性别认同的进一步思考和探索。整体风格带有强烈的二次元文化特征，表现出一种奇幻与现实交叠的感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_拥有现实改变能力的损友.docx]([变身]_拥有现
 | Size            | 36795 bytes                           |
 | MD5             | 13a5292060300715bcb4636a2fc13250                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ヴァレー                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别认同, 爱情, 青梅竹马, 性暗示, 角色扮演, 暧昧, 自我探索, 男性视角, 少女, 性别模糊, 伪娘, 成长, 友谊, 青春, 自我意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

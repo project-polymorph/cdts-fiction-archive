@@ -7,7 +7,7 @@ TXT 下载: [[改造]_赞托星的女人们（1）_(2).docx]([改造]_赞托星�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于星际旅行及外星文明接触的科幻小说《赞托星的女人们》，原作由Lana B.创作，翻译自Fictionmania网站。故事设定在公元2165年，人类实现了跨星系的星际旅行，利用了一种名为奇石超时空跳跃驱动引擎的技术。飞船‘美国奇石号’成为星际探索的重要工具，故事围绕舰长吉姆·麦克林及其船员的首次外星接触展开。在经历了一系列探索后，他们终于发现了一颗适合生命存在的星球——赞托星，并与该星球的大统领进行接触。该作品探讨了人类在宇宙中的探索和与外星文明的互动，同时也暗示了性别认同和角色的多样性，因为外星人的性别特征并不明显。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_赞托星的女人们（1）_(2).docx]([改造]_赞托星�
 | Size            | 54809 bytes                           |
 | MD5             | 22e87dfb258895981bbe0f4651be2e3e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2013-08-16                                 |
+| Tags            | TSF, 星际旅行, 外星文明, 性别认同, 奇幻科幻, 人类探索, 宇宙冒险, 角色变身, 外星人接触, 科技幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

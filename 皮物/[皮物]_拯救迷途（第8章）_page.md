@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_拯救迷途（第8章）.doc]([皮物]_拯救迷途（第
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《拯救迷途》为多元性别主题下的一篇小说，主要故事围绕角色木下花音展开，描绘了她在变身为女性后的内心探索与成长过程。故事以黄昏时分开始，木下花音陷入对自身命运的反思，感到前途渺茫。在日常生活的描述中，详细描绘了她的生活环境，包括住所的布局，和她与周围人物的互动。文中呈现了她在浴室的体验，透过水流的触感感受到身体的微妙变化，伴随着生理和心理的适应。木下花音逐渐适应作为女性的身份，并在与教导者的互动中学习如何建立女性形象，反映出自我认同与转换的内心挑战。通过与久保勇太的相处，花音开始认真对待演绎新角色的每一步，整部作品注重刻画情感、感官与社会角色的交织，探讨了性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_拯救迷途（第8章）.doc]([皮物]_拯救迷途（第
 | Size            | 32768 bytes                           |
 | MD5             | 66499c386b89108fbb958b0a5b317bf7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变装, 跨性别, 伪娘, 成长, 剧情反转, 情感纠葛, 心理戏剧, 日常生活, 浴室幻想, 生活细节, 职场关系, 家庭关系, 男性视角, 女性视角, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

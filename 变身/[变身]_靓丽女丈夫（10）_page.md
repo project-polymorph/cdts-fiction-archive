@@ -7,7 +7,7 @@ TXT 下载: [[变身]_靓丽女丈夫（10）.docx]([变身]_靓丽女丈夫（1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为现代网络小说的片段，描绘了一位女性角色与张处长之间复杂的情感与权力关系。故事开篇主角在面对被掌握把柄的绝境中，试图用演技说服张处长相信她的情感是真实的，而非出于恐惧和压迫。角色通过对话剖析内心的挣扎，展现出在权力与情感之间的纠葛。文本中包含大量关于情感操控和性别认同的探讨，例如：“对男人要哄，想骗着男人得7分假3分真”。逐渐主角意识到真实的表达才能打动张处长，进而反思自己的身份与地位。整个过程中包含了多次情感和身体的侵犯，叙述了其与对方的互动、隐私控制及自我修复的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_靓丽女丈夫（10）.docx]([变身]_靓丽女丈夫（1
 | Size            | 22735 bytes                           |
 | MD5             | 97f7dd474dc147e8bd684479a5dfda62                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 爱情, 权力, 情妇, 情感操控, 自我认同, 强制关系, 情感纠葛, 职场潜规则, 渴望自由, 心理战术                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

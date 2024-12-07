@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_双子之恋（三）.docx]([皮物]_双子之恋（三）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇伪娘与跨性别主题的小说，主要围绕几个角色之间复杂的情感关系与身份探讨展开。在故事中，主人公在一次意外中发现她的妹妹与她的女性情人——一位名叫薇洛妮克的法国女子共处一室，情节围绕两位女性之间的亲密关系及主人公对此的复杂情感，包含了意外的尴尬和对身份的疑虑。随着情节的推进，主人公逐渐认识到自己的感受与她对妹妹选择的理解，同时在情节中不乏涉及性别认同、自我探索和情感纠葛的主题。文件中充满了对于角色内心情感的细致描写，以及当面对突如其来的情境时所引发的思考与反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_双子之恋（三）.docx]([皮物]_双子之恋（三）
 | Size            | 21025 bytes                           |
 | MD5             | ade9862af834b304df12522158f6cda1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 强烈情感, 情感纠葛, 自我探索, 性别认同, 裸女, 情侣关系, 卧室情景, 情感背叛, 青春, 复杂关系, 女性视角, 日常生活, 都市情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

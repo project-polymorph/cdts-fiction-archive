@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新标准英语·七年级下册.docx]([皮物]_新标准�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇伪娘与跨性别主题的小说，主要讲述了角色“玲玲”和“席为民”之间复杂的情感纠葛与自我认同的探索。文中描写了玲玲在意图揭穿席为民的秘密时，展现出的阴险与狡诈。故事包含多处对性别认同与角色扮演的思考，尤其在角色的对话和内心独白中表现得尤为明显。随着情节的发展，玲玲和科长之间的关系逐渐升温，但又充满了挣扎与困惑。科长在面对自己的性别身份、爱情与社会预期时，陷入了一场内心的斗争。文中还涉及到许多性暗示和强烈的情感描写，例如清晨玲玲以挑逗的方式唤醒科长，用嘴唇堵住对方，展现出一种暧昧和禁忌的关系。整个故事深入探讨了性别流动性、自我认同及其带来的情感冲突和社会压力，触及到了禁忌之爱的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_新标准英语·七年级下册.docx]([皮物]_新标准�
 | Size            | 23901 bytes                           |
 | MD5             | cbfd5b975b5a1c2320a12d2e4edd56b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 情感纠葛, 角色扮演, 禁忌之爱, 自我探索, 强烈情感, 校园爱恋, 复杂关系, 同性恋, 女性视角, 暗黑情节, 心理斗争, 二次元角色, 情色文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

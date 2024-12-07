@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_机器人偶_Chapter_7_激战的开端（不定期更新�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘 TS 变身与跨性别相关小说的章节内容，名为《机器人偶》第七章，主要描绘了一场紧张刺激的剧情。故事围绕着名为长月的角色，她在情感和自我认同层面经历了剧烈的冲突。文中描写了长月与其哥哥Boss之间激烈的情感交流，体现了对过去的悔恨及未来的决心。场景中还穿插了机器人的战斗与紧急的情报传递，展现了复杂的未来战斗环境和角色之间的深厚羁绊，以及他们对抗外部威胁的勇气与决心。通过对对白的生动描写，突出角色在危机中的人性与情感，特别是长月对失去自我的恐惧以及对哥哥的复杂情感。文中还有各类机器人与战斗场景的描写，增强了科幻色彩和紧迫感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_机器人偶_Chapter_7_激战的开端（不定期更新�
 | Size            | 27653 bytes                           |
 | MD5             | 0e3a8ba43a55f9f1a3d876ce84635293                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 角色冲突, 情感戏, 科幻, 机器人, 自我认同, 未来战斗, 紧迫感, 激战, 情感纠葛, 反重力无人机, 妹妹, 勇气与决心, 复杂关系, 兄妹情, 战斗场景                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

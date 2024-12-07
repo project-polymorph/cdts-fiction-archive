@@ -7,7 +7,7 @@ TXT 下载: [[改造]_神勇绿坝娘之包您满意_(2).docx]([改造]_神勇�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘TS变身与性转主题的小说，内容围绕主角提姆展开，他在经济困境中被好友凯尔希推荐参加一个特殊的夜场秀。夜场秀的主题要求男服务生穿上性感的女仆服装，提姆考虑到经济状况，勉强同意。文件中提姆在决定参与后体验个人形象的变换与自我认同的冲突，这突显了性别认同与自我探索的主题。在小说中，凯尔希很好地展示了对提姆的信心，同时漫画式的细节描写给人以视觉的冲击。文中涉及的情节包括性别转换、性别角色的流动于传统和现代之间的描绘，同时涉及到一些性暗示与调情，以适应夜场秀的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_神勇绿坝娘之包您满意_(2).docx]([改造]_神勇�
 | Size            | 77523 bytes                           |
 | MD5             | 0ceb4ea830724515e41313d1ba77b584                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 夜场秀, SM, 青春, 自我探索, 经济困境, 性别认同, 艺术拍卖行, 服装变换, 友情, 现实题材, 性别角色, 反传统                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

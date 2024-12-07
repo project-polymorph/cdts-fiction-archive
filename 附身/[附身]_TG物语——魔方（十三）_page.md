@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——魔方（十三）.doc]([附身]_TG物语—
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一段名为《TG物语——魔方（十三）》的小说章节。故事围绕角色余震和他的同伴余涛与两个神秘女性之间的互动展开。张思元以出浴的形式出现，令余震感到震惊，并产生众多疑问。张思元和她的同伴试图向余震传递有关一个神秘物件——被称作“手机”的黑匣子的重要信息，并警告他不要随意使用它。故事涉及的主题包括性别认同、身份危机和科技带来的伦理困境，伴随情节的推展，也反映出人物之间的微妙关系与心理斗争。张思元最终离开时透露“黑匣子”有一个“十分好玩的功能”，为后续情节留下悬念。此文件深入探讨了角色的内心世界及其与他人关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——魔方（十三）.doc]([附身]_TG物语—
 | Size            | 54784 bytes                           |
 | MD5             | e70632b1563037a98999a45c94b45e71                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 黑匣子, 角色入替, 身份危机, 科技伦理, 权力关系, 双性别, 自我认同, 隐秘组织, 友情与背叛, 性别转换, 挑战与选择, 二次元幻想, 科幻元素, 情感纠葛, 心理斗争, 命运交错                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

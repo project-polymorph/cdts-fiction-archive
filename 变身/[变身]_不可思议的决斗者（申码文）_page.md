@@ -7,7 +7,7 @@ TXT 下载: [[变身]_不可思议的决斗者（申码文）.doc]([变身]_不�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部融合了卡牌游戏与异世界冒险元素的性转小说，主要讲述了一个名为金山勇树的高中生，他参与了一场全国性的卡牌决斗大赛，却在途中遭遇了失踪同学的连环绑架事件。他被神秘的次元黑洞吸入，穿越到一个异世界。在这个世界里，他遇见了一个神秘的小男孩，该男孩声称自己是统治者，并利用原创的卡牌挑战勇树。在高强度的卡牌决斗中，勇树不仅要为自己找回回家的路，还要寻找失踪的同学。小说通过不断的决斗和角色的变身，探讨了性别转换和自我认同的主题，揭示了角色在不同状态下的内心冲突与成长。故事中包含了许多二次元元素，描绘了可爱的怪兽角色及其能力，以及主角在其间所经历的紧张刺激的对抗与情绪的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_不可思议的决斗者（申码文）.doc]([变身]_不�
 | Size            | 62464 bytes                           |
 | MD5             | d3f29920dc336191bdb6b7e905f9e8eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 异世界, 卡牌游戏, 变身, 自我探索, 勇气的围幕, 魔法少女, 决斗者, 创作卡牌, 少年冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

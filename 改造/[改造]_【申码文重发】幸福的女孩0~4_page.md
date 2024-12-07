@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【申码文重发】幸福的女孩0~4.doc]([改造]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《幸福的女孩》是一篇描绘了一个年轻男性林平与苏子若的扭曲爱情故事。林平是一个普通的男初中生，因外貌不出众，对同龄女生不甚感冒，却被一位漂亮的女孩苏子若深深吸引。故事从林平的初恋开始，随着时间的推移，他通过金钱与偷窥来逐渐了解苏子若的生活，并最终形成了对其的病态迷恋。随着情节的发展，林平对苏子若的偷窥行为愈发严重，他甚至通过高科技手段进行全面的监视，直至陷入极端和扭曲的心理状态。作品探讨了性别认同和自我认知的主题，同时伴随着辛辣和禁忌的情节，涉及性别转换、身份认同等多重复杂的心理挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【申码文重发】幸福的女孩0~4.doc]([改造]_【�
 | Size            | 63488 bytes                           |
 | MD5             | 24f08c344580f80c2ef32c7295e38bee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 偷窥, 扭曲爱情, 自我认同, 二次元, 年轻人, 病态心理, 青春期, 强烈的嫉妒, 苏子若, 林平, 情感纠葛, 心理健康, 未来科技, 变声                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

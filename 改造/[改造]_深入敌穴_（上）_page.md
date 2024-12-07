@@ -7,7 +7,7 @@ TXT 下载: [[改造]_深入敌穴_（上）.doc]([改造]_深入敌穴_（上�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《深入敌穴（上）》由Maryanne Peters创作，讲述了一位男性学者因其政治学研究而卷入反恐怖活动的故事。故事的主角是Biarritz地区出生的女性化人物，在成长过程中对巴斯克文化有着深厚的了解。随后，她因其研究论文引起情报机构的关注，成为了首席分析员，调查巴斯克分裂主义者和ETA组织相关情报。在一次围绕恐怖分子逃狱的计划中，她被选中代替一名恐怖分子进行卧底工作。文章详细描述了她接受整容手术、体验女性生活的过程，以及在重塑外表过程中对自身性别认同的反思。文中包含了对身体改造、心理感受及社会角色转变的深刻探讨，涉及到性别认同与个人身份的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_深入敌穴_（上）.doc]([改造]_深入敌穴_（上�
 | Size            | 50688 bytes                           |
 | MD5             | 8a789ef1344942dc7397b0158b3ea369                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Maryanne Peters                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变性, 跨性别, 情报分析, 整容手术, 卧底间谍, 性别认同, 身体改造, 女性化, 社会角色, 恐怖主义, 巴斯克文化, 自我探索, 情感冲突, 道德困境, 性别转换, 女性视角, 暗杀计划, 卧底任务, 恐怖组织                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

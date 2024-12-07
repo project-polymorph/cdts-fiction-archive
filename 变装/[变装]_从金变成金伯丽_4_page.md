@@ -7,7 +7,7 @@ TXT 下载: [[变装]_从金变成金伯丽_4.docx]([变装]_从金变成金伯�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为性转小说的一部分，主要讲述角色金在经历了一系列女性化的变化和自我认知的探索后，逐渐适应其新身份“金伯丽”。故事中，金与姐姐凯伦的互动展现了他内心的挣扎与转变。金感到自己在扮演女性时的矛盾心理，既兴奋又害怕，尤其是在与异性接触时的情感波动。文件中详细描绘了金在准备外出时的心情变化，从化妆到穿着高跟鞋的过程，都让他感到既美丽又紧张。金对即将到来的夜晚抱有期待，期待能够像个真正的女性一样融入社交场合。整个故事呈现了性别认同与自我探索的主题，并涉及情感关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_从金变成金伯丽_4.docx]([变装]_从金变成金伯�
 | Size            | 33132 bytes                           |
 | MD5             | 779a67364d27345872b2ffce8e9e7162                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身, 情感探索, 社交活动, 性别认同, 女性化, 自我认知, 家庭关系, 二次元, 生活日常, 心理挣扎, 性转, 夜晚约会, 青春期, 喜剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

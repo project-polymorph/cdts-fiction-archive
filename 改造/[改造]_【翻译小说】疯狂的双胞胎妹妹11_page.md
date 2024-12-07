@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译小说】疯狂的双胞胎妹妹11.docx]([改造
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《疯狂的双胞胎妹妹》第十一章，主要围绕角色布莱恩与其妹妹布里安娜的复杂关系和性别转换的情节展开。布莱恩经历了催眠，使他渴望成为一名妓女并接待男性顾客。文中描写了他穿着女性服装，在街头揽客，体现了角色的身份认同与内心冲突。故事处理了性别认同、催眠、妓女生活等敏感主题，充满了对角色情感和身体的深刻描写，同时反映出角色的羞愧与挣扎，例如布莱恩在浴缸中享受温水时的思维过程，以及他在工作时的心理感受。该章节涉及大量性暗示与明确的性描写，适合专注于跨性别与性别流动研究的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译小说】疯狂的双胞胎妹妹11.docx]([改造
 | Size            | 21485 bytes                           |
 | MD5             | 423441b82e4b5b552a8e7ebe2560206a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 催眠, 妓女生活, 羞耻感, 角色认同, 内心冲突, 跨性别, 性欲, 情感探索, 复杂关系, 布莱恩, 布里安娜, 低沉的声音, 变化, 性别流动, 性暗示, 自我探索, 心理挣扎, 双胞胎关系, 情感依赖, 暴露                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

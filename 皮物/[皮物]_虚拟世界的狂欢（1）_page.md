@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_虚拟世界的狂欢（1）.docx]([皮物]_虚拟世界�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说的故事围绕着主角夏一凡与其好友王沪在一个虚拟世界中的冒险展开。夏一凡本是一位留学少年，因为对社交活动感到厌倦，转而沉迷于网络，特别是在一个名为“TS群”的社群中交友。在群主王沪的带领下，二人决定利用一项名为“世界的种子”的虚拟现实技术，创建一个理想的TS虚拟世界。随着故事的发展，夏一凡与王沪组建了一个讨论组，共同设计游戏玩法和模式。小说涵盖了性别认同与自我探索的主题，描绘了角色在虚拟世界中自由选择性别与角色形象的过程。同时，王沪和夏一凡的互动也揭示了虚拟与现实之间的联系与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_虚拟世界的狂欢（1）.docx]([皮物]_虚拟世界�
 | Size            | 18705 bytes                           |
 | MD5             | 616f14ffb6d4aef18874c326e24e9276                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 虚拟现实, 性别转换, TS群, 自我探索, 二次元文化, 友情, 技术进步, 角色扮演, 游戏设计, 社群互动, 性别认同, 青少年小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

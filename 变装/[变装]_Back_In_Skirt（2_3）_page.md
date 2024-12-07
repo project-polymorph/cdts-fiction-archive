@@ -7,7 +7,7 @@ TXT 下载: [[变装]_Back_In_Skirt（2_3）.doc]([变装]_Back_In_Skirt（2_3�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名叫朱莉安的角色的故事，描绘了他从男孩变成女孩的复杂过程。故事从朱莉安的日常生活入手，逐渐展现了他所经历的性别认同和自我探索。尽管学校对跨性别者和同性恋者展现了宽容，但朱莉安仍然感到内心的挣扎，渴望被接受和认可。他的妹妹楚蒂对他的转变和刚建立的女性身份产生了积极影响，让朱莉安在女生中获得了一定的地位和接受感。故事深入探讨了朱莉安在接受雌激素治疗后的身体变化及其对自我认同的困惑。他时常在男装和女装之间徘徊，努力寻找一个平衡点。在朋友间的互动中，即使面对恶作剧和性别角色的挑战，朱莉安仍试图坚守自己的身份，并思考未来的冲突与选择。最后，朱莉安意识到无论外在如何改变，内心的真实自我依旧存在，这一历程充满了挑战与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_Back_In_Skirt（2_3）.doc]([变装]_Back_In_Skirt（2_3�
 | Size            | 34816 bytes                           |
 | MD5             | 8b69e7f1d0107bd6fc944be1985ab4f5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 自我探索, 性转, 变装, 青春期, 学校生活, 情感纠葛, 心理冲突, 家庭关系, 性别角色, 支持与接受, 内心挣扎, 社会宽容, 友谊, 性别表达                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

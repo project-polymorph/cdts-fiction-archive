@@ -7,7 +7,7 @@ TXT 下载: [[交换]_胧月祭的邪淫黑夜　第三章.docx]([交换]_胧月
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《胧月祭的邪淫黑夜（第三章）》是一部围绕性别互换与跨性别主题进行的小说。故事中，角色森谷信二与相泽萌衣、藤仓幸雄与三神依纱等进行身体互换，揭示了角色内心深处的欲望与黑暗。在即将互换身体的仪式上，角色们的真实面貌逐渐被暴露，尤其是男性大场彦助对女性角色的侵害行为，包括强暴与粗暴侵犯。这一过程表现了道德沦丧与人性扭曲的主题。文中角色的身份转换以及互动情节都充满了冲突与绝望，令人深思。其语言直白且带有一定的色情内容，挑战着读者的道德底线，同时也探索了性别认同与欲望的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_胧月祭的邪淫黑夜　第三章.docx]([交换]_胧月
 | Size            | 28164 bytes                           |
 | MD5             | 798f0c43d9372632be6e6a710b7ba2fd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RE                               |
+| Region          | 未知                               |
+| Date            | 2018-07-27                                 |
+| Tags            | 性别互换, 跨性别, 强奸, 自我认知, 欲望, 黑暗, 绝望, 伪娘, 变身, 男性偷窥, 道德沦丧, 心理探索, 二次元, 成人内容, 性转小说, 女性角色, 男性身份, 身体侵犯, 性别不一致                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

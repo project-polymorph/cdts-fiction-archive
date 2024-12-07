@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_英国女仆-2.doc]([催眠]_英国女仆-2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《催眠 英国女仆-2》，描绘了一位女子（叙述者）与她的妻子莉莉在家中休息的情景。故事以莉莉和叙述者的早晨为开端，包含了他们的日常生活片段和与邻居格里小姐的相处。叙述者在思考昨晚的聚会时，描述了他对格里小姐的感情变化，以及她的外貌。格里小姐作为一个有魅力的角色，不断激起叙述者复杂的情感。在与莉莉的对话中，格里小姐谈到了她的工作，透露她曾是一名心理治疗师，并经营50年代复古服装的生意。故事中藉由对话展现角色间的微妙情感，叙述者对格里小姐的好感逐渐加深，同时也充满了对妻子的愧疚。文中多次提到的细节，例如格里小姐的穿着、肢体语言、以及她对叙述者的称呼，都充满暗示性，给人以强烈的代入感。整体来看，文本涉及性别角色的转换，情感的探索，以及角色之间的爱与欲望的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_英国女仆-2.doc]([催眠]_英国女仆-2.doc)
 | Size            | 40448 bytes                           |
 | MD5             | c7854fad35c32882b17c0e2efad21f73                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 英国女仆, 性别认同, 跨性别, 自我探索, 情感冲突, 复古服装, 日常生活, 角色扮演, 情感纠葛, 爱与欲望, 心理治疗, 性转, 内心挣扎, 邻里关系, 虚拟现实, 幻想, 二次元, 反转剧情, 复杂情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

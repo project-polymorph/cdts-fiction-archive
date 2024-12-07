@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第二章.doc]([附身]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《传承之书》第二季的第二章主要讲述了主人公刘孟权从一家名为“暗区的殿堂医院”走出后，对其兄弟的病情感到绝望的故事。医生告知刘孟权，病人体内含有九色蛇毒，且没有解毒药，这使得他内心非常焦虑。为了寻求救助，刘孟权在街上遇到了一位名叫贾蓉的女子，她向刘孟权提出了交易的要求，想要交换九色鹿石以炼制解毒药。贾蓉的出现让刘孟权感到不安，因为他意识到自己正处于一个充满危险的环境中。对于贾蓉想要的九色鹿石，刘孟权心中有着复杂的情感，因为这个石头是他兄弟李学智的性命所换。整个章节围绕着贾蓉与刘孟权之间刀光剑影的交易展开，既有对生死的思考，也有对人与人之间信任的挑战。最后，刘孟权在焦虑与希望间做出了自己的选择，并对自己的决定感到一丝讽刺。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第二章.doc]([附身]_《�
 | Size            | 40448 bytes                           |
 | MD5             | 1d6e8b2b31b332a6ade8cd9160ee0ba8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 交易, 九色蛇毒, 生死决择, 暗区, 自我探索, 跨性别, 重生, 能力觉醒, 伦理冲突, 悬疑, 都市奇幻, 奇幻冒险, 人性考验, 兄弟情义, 未知力量                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

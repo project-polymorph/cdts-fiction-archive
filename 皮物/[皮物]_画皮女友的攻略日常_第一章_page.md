@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第一章.doc]([皮物]_画皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《画皮女友的攻略日常》讲述了一个关于男性主角陆升在无意中发现女友秦雨秋隐藏的惊人秘密的故事。故事开篇以3月7日的天气为背景，陆升坐在电脑前，试图记录一些事情来理清自己的思路。他描述了自己因为好奇而悄悄入侵女友的电脑，观察她的一切。意外得知女友竟然在脱掉自己的人皮，引出了关于她真正身份的疑问。陆升在震惊与困惑中，反思着自己与女友的感情，以及如何面对这一重大的秘密。故事探索了皮物这一小众性癖，同时也涉及到对身份与信任的思考。整个情节充满了悬疑与心理斗争。陆升害怕失去与女友的关系，也不知如何行动，在写作的过程中表现出惊慌和压抑的情绪。结尾部分留下了悬念，陡增了故事的紧张感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第一章.doc]([皮物]_画皮
 | Size            | 55808 bytes                           |
 | MD5             | a316400d1ea783aa3ce0fa296fa3cf5c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 自我探索, 心理斗争, 隐私, 信任, 悬疑, 情感, 皮物, 恋爱, 秘密, 性别认同, 虚拟现实, 情感冲突, 反向网络安全                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

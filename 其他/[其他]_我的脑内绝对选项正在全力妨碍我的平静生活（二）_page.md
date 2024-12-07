@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我的脑内绝对选项正在全力妨碍我的平静生�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘TS变身与跨性别相关的小说，描绘了一个男生在遭遇神秘选项后，身体发生了不寻常变化的故事。主角在选择选项后，感受到了身心的剧烈变化，尤其是胸部的发育，从而引发了一系列与妹妹的互动及情感纠葛。故事中，主角在学校与妹妹的秘密交流中，逐渐揭开了关于彼此身体变化的误会与误解。随着情节的发展，主角面临怎样保持两者关系的挑战，同时还潜藏着社会认同和自我探索的主题。文件中涉及敏感内容，比如角色体表和性别的变化，心理的挣扎以及对亲密关系的反思，呈现了复杂的性别认同和家庭关系问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我的脑内绝对选项正在全力妨碍我的平静生�
 | Size            | 51200 bytes                           |
 | MD5             | 117cb5a78f47580299e3a67f6d0b070d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 家庭关系, 性别认同, 自我探索, 青春期, 秘密基地, 兄妹情, 校园生活, 情节转折, 隐私, 羞耻感, 内心冲突, 成长故事, 日本二次元文化, 情感纠葛, 性别转换故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

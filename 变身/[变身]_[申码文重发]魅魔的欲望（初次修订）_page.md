@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[申码文重发]魅魔的欲望（初次修订）.docx]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档收录了一段关于变身与欲望的小说片段，讲述了主角伸次在放学后与神秘角色的偶然相遇，以及随之而来的神秘变身经历。故事的开头设置了一个典型的日落场景，描摹了伸次疲惫的通勤生活。此时，一个穿着运动服的神秘女子突然出现在他旁边，随即发生了一个充满戏剧性的吻，给伸次带来了身体与心理的双重影响。随着情节的发展，伸次的身体开始经历显著变化，从面容到体态，都在向女性化转变。小说通过伸次的内心独白和感知，描绘了他在变化中的惊恐与渴望，以及对自我认同的探索。作品涉及魅魔的主题及变性情节，探讨了性别认同与欲望交织的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[申码文重发]魅魔的欲望（初次修订）.docx]([
 | Size            | 29397 bytes                           |
 | MD5             | d7cb2cf7d42116454856ee0f32ad0814                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kinozaki                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 跨性别, 魅魔, 自我认同, 欲望, 女性化, 二次元, 幻想故事, 心理变化, 情感探索, 奇幻, 魔法, 都市, 爱情, 角色互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

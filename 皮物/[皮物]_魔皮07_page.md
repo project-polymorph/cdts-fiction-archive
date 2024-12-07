@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔皮07.docx]([皮物]_魔皮07.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及伪娘与变身主题的小说文本，主要描绘了角色间复杂的情感和性别身份的探索。故事围绕女子与“怡如”的关系展开，描写了两者间激烈而纠缠的情感。文本中包含多处详细的描写，展现了角色在性别转换和欲望唤起过程中的内心冲突与相互依赖。例如，怡如在遭遇亲吻时最初表现出反抗，之后却被情感所 engulf，而女子则在探索新身体时表现出惊喜和满足。这些情节不仅涉及生理上的变化，也反映出角色对自身性别认同的逐步认同与接受。此外，故事中还有神秘角色的出现，增加了情节的悬疑性和吸引力。整体而言，此作品涉及深层的情感交流与角色改变，读者在阅读中能够感受到强烈的情绪波动和剧情张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔皮07.docx]([皮物]_魔皮07.docx)
 | Size            | 19345 bytes                           |
 | MD5             | 931586ab1afce76b480a0392307471bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 情感探索, 性别认同, 强烈欲望, 情感依赖, 角色冲突, 奇幻, 悬疑, 纯爱, 淫荡, 调教, 逆后宫, 人类改造, 女生视角, 魔法, 潇洒人生, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_魔法少女？！蜘蛛！.docx]([变身]_魔法少女？
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于魔法少女的变身小说，情节围绕一场魔法少女的会议展开。在这场会议中，角色们讨论即将到来的魔王挑战，并介绍了各自的能力与战斗计划。故事中的人物包括杉木、黑子及其他魔法少女，她们面临着来自魔物的威胁以及如何有效联合对抗魔王的策略。故事透过杉木的视角，展现了魔法少女们的情感互动与战斗准备，其中涉及的角色如短发少女和黑袍性别不明的角色，深刻地描绘了她们在这个充满危险与挑战的世界中的自我认知与成长。文件还包含了一些关于魔物及其能力的设定，以及女性角色之间的复杂关系与情感冲突，展示了角色的自我探索与接受过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_魔法少女？！蜘蛛！.docx]([变身]_魔法少女？
 | Size            | 34798 bytes                           |
 | MD5             | bd6dd92c8fa15024137302eedd648435                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 变身小说, 角色扮演, 性别认同, 异兽, 战斗, 自我探索, 青春, 奇幻, 女性角色, 魔法, 团队合作, 魔王, 能力设定                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

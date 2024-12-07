@@ -7,7 +7,7 @@ TXT 下载: [[变身]_妹妹的使魔是我？(1).docx]([变身]_妹妹的使魔
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于变身与性别认同的小说，故事围绕主人公郑书梨及其妹妹郑书桃（洛琳）展开。故事开始时，郑书梨描绘了自己平凡的生活和对妹妹的特殊嗜好感到奇怪。妹妹洛琳对黑魔法、恶魔召唤等领域表现出浓厚的兴趣，这种兴趣开始影响到郑书梨的日常生活。大部分时间，洛琳在家中进行与黑魔法相关的研究，期间她如同一个平凡的中学生，与同龄人无忧无虑地交往。  故事的一部分描述了洛琳在她的房间中进行召唤仪式，召唤出一位蓝肤色、拥有犄角与蝙蝠翅膀的恶魔薇薇。随着仪式的进行，兄妹两人面临着危险的局面，郑书梨为了保护妹妹勇敢地冲出床下紧急救援，表现出家庭之间的情感纽带与保护欲。整体上，这篇小说结合了奇幻与现实，涉及对自我身份的探讨与奇异事件的发生。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_妹妹的使魔是我？(1).docx]([变身]_妹妹的使魔
 | Size            | 21821 bytes                           |
 | MD5             | cf2e72af0db699d9b3d78ab0ea31816f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 恶魔召唤, 黑魔法, 家庭关系, 冒险, 奇幻, 自我认同, 青春成长, 女性视角, 魔法, 力量斗争, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身绳缘_十六_十七.doc]([变身]_变身绳缘_十�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容围绕主角郝建的日常生活展开，描述了他在穿着小短裙时的一些烦恼和不安。故事的开头，郝建因为未携带钥匙而被锁在外面，迫于无奈在家门前困坐，最终被朋友胖子搬进屋中。文章详细描绘了郝建在宅家的无聊与焦虑，他在尝试复习资料时意外打开了一段捆绑游戏的视频。视频中的女主角穿着和服，被大叔用绳子绑住，郝建对此产生了一种强烈的好奇与内心的羞愧，暗示着他对SM文化的一丝向往。故事中的角色关系复杂，不仅涉及到性别认同、个人内心的探索，还暗含主角对自己感情和性取向的困惑与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身绳缘_十六_十七.doc]([变身]_变身绳缘_十�
 | Size            | 32256 bytes                           |
 | MD5             | 0b7979e0aed7df9878297ec0f1662eea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 捆绑, SM, 性别认同, 自我探索, 宅男生活, 二次元, 心理冲突, 友谊, 青春困惑, 视频文化, 日本文化, 性转, 伪娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

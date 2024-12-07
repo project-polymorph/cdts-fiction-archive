@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第十二回.doc](《金枝奇缘》第十二回.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘性别与权力斗争的小说《金枝奇缘》的第十二回，主要围绕凌云殿的内外纷争与复杂的人际关系展开。故事中涉及到了角色秦疏影与顾萍之间的私密关系，二者在情感与肉体上的纠葛充满着张力。文章开头描写了一个充满香艳与荒诞的场景，细致地描绘了角色的身体状态和情感反应，具有明显的性暗示内容。随着情节的发展，角色们陷入了更大的阴谋之中，赵成子作为主要反派，试图通过操控凌云殿内部的权力争斗来实现自己的目标。读者能够感受到其中夹杂着的阴谋、背叛与权力冲突，反映出角色们在自我认同与外界环境之间的矛盾与斗争。最后，通过与顾道真的对话，故事逐渐引入了更大的悬念和斗争，也为后续情节的发展奠定了基础。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第十二回.doc](《金枝奇缘》第十二回.
 | Size            | 35840 bytes                           |
 | MD5             | 5bd408a5f5d49bf498fec1f28528bebc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 权力斗争, 肉体关系, 阴谋, 魔法, 奇幻, 角色扮演, 青春, 自我探索, 性别认同, 道德困境, 情感纠葛, 逆后宫, 变嫁, 百合, 伪娘, 魔法少女, 妖邪, 血统, 都市, 玄幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[变身]_在需要时有个朋友.docx]([变身]_在需要时有个
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个围绕角色性别转换的小说，讲述了主角李的故事。故事开头，李受到自己的女友苏西抛弃，感到心灰意冷。在朋友蓝迪的安慰下，李决定走出伤痛，试图寻找新的生活方向。在一次偶然的机会中，李进入了一家魔法商店，获得了一个可以实现愿望的项链。他的第一个愿望是让自己的好友蓝迪变成女孩，以此来填补他失去的爱情。小说深刻探讨了爱情、友谊以及对自我身份的探索，描绘了李内心的挣扎与转变。
+
+在故事中，李通过魔法项链愿望的实现，见证了蓝迪身体的变化，表现了一种对性别转换的奇幻想象。随着蓝迪的转变，李的情感也在悄然发生变化。此外，文本中还包含了一些幽默的对话和温馨的友情场景，增加了故事的丰富度和情感层次感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_在需要时有个朋友.docx]([变身]_在需要时有个
 | Size            | 22044 bytes                           |
 | MD5             | c85ae2f0d064c564ed9320a01866a551                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 毕尔哈特                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 魔法, 性别转换, 青春, 友谊, 自我认同, 奇幻, 爱情, 生活困境, 内心挣扎, 性别认同, 成长故事, 超自然, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

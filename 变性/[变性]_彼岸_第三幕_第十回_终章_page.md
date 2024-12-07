@@ -7,7 +7,7 @@ TXT 下载: [[变性]_彼岸_第三幕_第十回_终章.docx]([变性]_彼岸_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说的内容围绕着陈家家宴的情节展开，描绘了赵碧霄与家族成员之间的复杂关系，在传统家族观念与个人情感的冲突中表现出对性别和个人认同的探讨。故事中的陈老对自家儿子的行为感到失望，表达出对家族名声的担忧，并对女儿的未来充满期待。文中提到赵碧霄因为身份问题而遭到舆论的攻击，随着家宴的进行，家族成员之间的对话逐渐激烈，揭示了对女性的角色期望和传统观念的抵触。整体故事逐渐发展成一场关于身份认同与家族传承的探讨，尤其在最后数段中，涉及到的另一个主要角色阿珂对未来的迷茫对比着赵碧霄的归属感，让人深思家族绑架与个人自由之间的矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_彼岸_第三幕_第十回_终章.docx]([变性]_彼岸_�
 | Size            | 45327 bytes                           |
 | MD5             | 1fab95dd4e935c44a367eb30d7f81ea4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 传统家族观念, 自我探索, 家族关系, 性别冲突, 变性, 伪娘, 身份认同, 情感纠葛, 家宴                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

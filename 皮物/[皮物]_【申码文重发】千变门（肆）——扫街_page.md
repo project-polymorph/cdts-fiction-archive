@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文重发】千变门（肆）——扫街.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档《千变门（肆）——扫街》中描绘了一名男性角色在变身为女性后在城市中进行街头活动的情景。故事开头，角色与一名光头中年大叔的互动显示出他对自己变装的多重感受，一方面有着对外表的谨慎与不安，另一方面却被光头男的猥琐眼神所触动。在角色的形象改变过程中，他穿上紧身裙和束身腰带，逐步适应了高跟鞋，并且经历了一段自我认知和性别角色的探索旅程。文中细腻的描写了角色在性别转换后面对外界的种种感受与困惑，以及出门后的细节描写，展现了他在公众场合下的小心翼翼与自我肯定。与王婷的互动中，不乏调侃与友谊的元素，随着两人走向人流密集的步行街，最终角色试图克服内心的恐惧与焦虑，展示了自信的一面。这一切都传达出性别认同与外部表现之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文重发】千变门（肆）——扫街.doc]([
 | Size            | 31744 bytes                           |
 | MD5             | b88d6d4de3b8120fedcce6bddcd0b445                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 自我探索, 街头生活, 友谊, 变装, 高跟鞋, 性别认同, 都市奇幻, 心理变化, 外貌改变, 同性之间的互动, 社会认同, 反差萌, 视觉冲击                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

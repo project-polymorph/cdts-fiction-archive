@@ -7,7 +7,7 @@ TXT 下载: [[交换]_做父亲的女人_尝试写H，片段倒叙.docx]([交换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容是一段关于性别认同和角色转换的情节，描绘了名为肖建军和孙悦之间复杂的关系。在情节中，身着玫红色吊带睡裙的孙悦在卫生间中洗澡后，回到床上与肖建军之间展开了一段亲昵的交流与行为，双方在身体接触中流露出情感和生理上的反应。文中提到，孙悦不仅在性别上有着转换的特点，同时内心的自我认同和自我探索在这一交流中变得越来越明显。随着两人逐渐深入的亲吻和亲密行为，情节揭示了性别认同冲突和情感纠葛，使得双方的关系更加复杂。最终，孙悦自我认同为自己的另一身份，使得整个故事更具戏剧性和情感深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_做父亲的女人_尝试写H，片段倒叙.docx]([交换
 | Size            | 14789 bytes                           |
 | MD5             | 72aa384ecffde9cebab69cedc8049452                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 双性恋, 情感纠葛, 自我探索, 性转, 伪娘, 成人内容, 情感亲密, 身体接触, 复杂关系, 情欲, 心理冲突, 父女情, 角色转换, 亲密行为, 修女生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

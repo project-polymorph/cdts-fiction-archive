@@ -7,7 +7,7 @@ TXT 下载: [[附身]_冒险者与顺从的史莱姆_冒险之四_附身到女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部性转主题的小说章节，主要讲述了一位男性冒险者如何通过附身魔法进入一位名叫诺亚的女骑士身体的故事。故事开始于酒馆内，主角与两位女性伙伴玛娜和克拉拉一同享用晚餐时，一个骑士团的到来吸引了他们的注意。诺亚作为骑士团的团长，各种细节描写了她的外貌，如金色长发和湛蓝的眼眸，令人印象深刻。随着情节发展，主角与诺亚的关系逐渐亲密，而玛娜和克拉拉则对主角的转变感到不满，提出了他们之间的感情问题。最终，主角施展附身魔法，希望通过这次体验加深与诺亚的关系。这篇小说围绕性别认同和自我探索的主题展开，探索了冒险、爱情与魔法交织的情节，涉及了一些限制级内容和复杂的人际关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_冒险者与顺从的史莱姆_冒险之四_附身到女�
 | Size            | 25032 bytes                           |
 | MD5             | b012ffc7f97b10fe405b6ae6b817f2c1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 骑士团, 冒险, 爱情, 魔法, 自我探索, 伪娘, 男娘, 强烈情感, 酒馆, 两性关系, 英雄主义, 奇幻, 幻想世界, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

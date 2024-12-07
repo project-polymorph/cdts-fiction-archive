@@ -7,7 +7,7 @@ TXT 下载: [[变身]_夏月今夕1-3【持续更新中】.doc]([变身]_夏月�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一系列伪娘与跨性别题材小说的档案收录，详细阐述了主人公刘宇祈在意外获得一面古董青铜面具后发生的奇幻故事。故事的开篇描写了刘宇祈在快递工作中经历的紧张场景，包括目击枪击事件，意外接收到一个神秘包裹。随着情节的发展，刘宇祈发现这个包裹内藏着一个青铜面具，并最终成为他变身为女性角色的契机。小说描写了刘宇祈变身后对身体的探索与自我认知的冲突，同时充满了对性别认同及生理变化的细腻描绘。情节间偶有色情内容，反映了他在新的身份下对自我的困惑与体验。此作品涉及生理性别与心理认同的讨论，尤其是性转、变身等主题，适合研究跨性别和性别流动的人群。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_夏月今夕1-3【持续更新中】.doc]([变身]_夏月�
 | Size            | 44032 bytes                           |
 | MD5             | ac1feb13ccf10bac28a9d761fa407fe2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | pushuomili                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 青春, 神秘古董, 性别认同, 自我探索, 都市奇幻, 男性视角, 性别流动, 古代文化, 情欲文学, 青铜面具, 心理转变, 社会见闻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

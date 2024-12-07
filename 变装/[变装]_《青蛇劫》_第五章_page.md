@@ -7,7 +7,11 @@ TXT 下载: [[变装]_《青蛇劫》_第五章.doc]([变装]_《青蛇劫》_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+在此章节中，故事围绕着许仙和白素贞的性格以及二人之间的微妙关系展开，包含了许多情感的碰撞。小青在了解到许仙想与白素贞成亲后，心中虽有醋意，却又不得不参与其中。小青假装为许仙难堪，戏弄着刚到白府的他。许仙在不断自责与羞涩中，与小青进行对话，逐渐展现出他对白素贞的深情与无奈。
+
+白素贞与小青共同策划，让许仙主动踏入白府。随着情节的发展，许仙的心意逐渐被揭露，他因白素贞的美丽和温柔而沉迷，但同时又因自己的地位而自卑。最后在小青的引导下，许仙得以见到白素贞，而二人之间的对话又充满了情感的交流与互动。给人一种古典情感与现代心态交融的感觉。
+
+整篇故事生动细腻，细致地描绘了角色的心理变化，尤其是小青的角色，她在出人意料的情况下承担着重要的引导作用，是故事中的关键环节之一，建立了二人与情感发展之间的桥梁。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变装]_《青蛇劫》_第五章.doc]([变装]_《青蛇劫》_�
 | Size            | 40960 bytes                           |
 | MD5             | a98dc62255d630859fba77c0a36a8f9c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 色情, 性别认同, 自我探索, 情感纠葛, 短暂离别, 扮装, 古代爱情, 男女性别角色, 幻想故事, 神妖恋, 青蛇, 白素贞, 许仙, 修真, 三人关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

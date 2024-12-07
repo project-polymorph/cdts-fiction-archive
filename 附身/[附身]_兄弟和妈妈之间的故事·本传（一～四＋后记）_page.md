@@ -7,7 +7,9 @@ TXT 下载: [[附身]_兄弟和妈妈之间的故事·本传（一～四＋后�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于兄弟与母亲之间复杂关系的变身小说，故事围绕主角小杨、他的母亲陈美雪，以及他的养兄小李的互动展开。小说的开头以小杨接到关于母亲与小李发生交通事故的电话为引子，引发了故事的发展。随着情节的发展，小杨的母亲在经历车祸后神秘地转换了身份，并开始与小杨和小李之间产生一种超越亲情的关系。此小说包含大量成人内容，涉及身份混淆、性别转换、情感纠葛等主题。
+
+文章中的陈美雪，经历了从传统母亲角色到性别转换后，与儿子小杨之间的禁忌关系，再到小李作为家中的二次元角色，三人间的关系复杂且充满矛盾和禁忌。本文件详细描绘了他们之间的相处和内心的挣扎，以及掺杂在其中的性暗示和心理变化。这部作品在情节安排上利用了变身与附身的设定，细腻地展现了人物内心世界变换与自我探索的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_兄弟和妈妈之间的故事·本传（一～四＋后�
 | Size            | 44032 bytes                           |
 | MD5             | 1c96792ef3a0fc9a74c429ef319d02af                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 咕咕雨                               |
+| Region          | 未知                               |
+| Date            | 2021-09-21                                 |
+| Tags            | 兄弟情, 变身, 性别转换, 伪娘, 自我探索, 禁忌关系, 母子恋, 性暗示, 心理挣扎, 身份混淆, NTR, 黑丝袜, 高中生活, 奇幻, 二次元, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

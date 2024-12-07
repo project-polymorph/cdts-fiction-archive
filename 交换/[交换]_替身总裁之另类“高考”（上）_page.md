@@ -7,7 +7,7 @@ TXT 下载: [[交换]_替身总裁之另类“高考”（上）.docx]([交换]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《替身总裁之另类“高考”（上）》，主要内容围绕一位名叫胡文斌的高中生，讲述了他在高考前夕经历的一系列事件。故事开始于介绍高考的重要性和对于学生的影响，作者通过细腻的描写展现了胡文斌所承受的巨大压力与期望。接下来，胡文斌因偷窃被抓，家庭背景的描写让读者了解到他的父亲是一位普通的农民，生活艰辛，仅靠微薄的收入养活自己和胡文斌。故事进一步揭示了胡文斌在派出所附近的情况，以及他与父亲复杂的关系，特别是在父亲生病后的情感冲突与自我反思。文本中多次提到高考与社会阶层的象征意义，突显了胡文斌心中对于未来的无助与渴望。文中也渗透着对家庭责任感的思考与对自我的质疑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_替身总裁之另类“高考”（上）.docx]([交换]_
 | Size            | 33815 bytes                           |
 | MD5             | bd5408f2fdf9f9c90607127b3d724020                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园, 高中生, 家庭, 情感冲突, 高考, 社会压力, 偷窃, 责任                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

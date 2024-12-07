@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【改造变性】男孩子怎样成为一名美丽的妻�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此份文件呈现了一篇围绕变性和性别转换的小说，故事由一个名为裕美的拥有男性身份的角色开始，其经历了被迫进行变性手术，转变为女性身份并成为他人妻子的痛苦过程。文件分为多章，以日记的形式讲述裕美的内心挣扎和对自我身份的探索。裕美在日记中表达了作为一个被强迫改变身份的人所遭受的羞辱和痛苦，尤其是伴随着性别角色刻板印象的接受与抵抗。例如，在文中，她描述了自己的身体被改变后的感受以及面临的羞辱情境。故事的情节探索了性别认同、权力关系以及心理调教等复杂主题，同时涉及同性恋感情和个人对自我身份的重新审视。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【改造变性】男孩子怎样成为一名美丽的妻�
 | Size            | 40448 bytes                           |
 | MD5             | e9205b95af6ae5bb0e75bcdcf60d74de                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别转换, 心理调教, 跨性别, 性别认同, 女性主义, 强迫, 羞辱, 日记体, 自我探索, 恋情, 家庭关系, 社会压力, 二次元, 情感冲突, 强制变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

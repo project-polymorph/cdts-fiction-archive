@@ -7,7 +7,7 @@ TXT 下载: [[交换]_清明福利之祖先福荫（下，完结）.doc]([交换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换和跨性别情节的小说，标题为《清明福利之祖先福荫（下，完结）》。故事围绕高安毅与绝美女总裁萧若菡之间的关系展开，情节包含浓厚的爱情和肉体交流。小说中描写两人逐渐深化的情感，从初始的同居提议到肉体上的亲密互动。具体情节通过对话和细节刻画展现了两人的情感发展，萧若菡多次以挑逗的方式表达对高安毅的感情，同时也表现出两人之间的调侃与尴尬。故事的高潮在于他们之间热烈的肉体纠缠，期间涉及许多与欲望和性暗示相关的描写，如“快来强奸我吧”等直白的措辞，突显出角色间的亲密关系与欲望的张力。此外，故事中还穿插了节日清明的背景，带有一定的文化元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_清明福利之祖先福荫（下，完结）.doc]([交换
 | Size            | 92672 bytes                           |
 | MD5             | 9bbdf610c1e56c7c533e0b788cd20a37                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 爱情, 强奸, 调教, 都市, 青春, 奇幻, 两性关系, 性欲, 职场恋情, 流行文化, 清明节, 幽默, 现代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_百变娇娃是大叔_第四章_和大叔的激情一夜.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘了性转与跨性别关系的小说，具体章节为《百变娇娃是大叔》第四章，标题为《和大叔的激情一夜》。故事开篇讲述了在深夜中主角与大叔之间发生的激情一幕，画面渲染出一种热烈的暧昧氛围。主角经历了身体的改变与性别的转化，享受着与大叔之间亲密的互动与交流。文中插入了对刺激快感的细腻描写，如"一种从未有过的神奇快感充斥着我的身体，让我感到无限的快乐"，在描写上颇具表现力，充满了情色与欲望的描绘。随着情节的发展，主角对于自我身份的认同与探索也在不断加深。最后，故事结束于主角匆忙赶往学校的一幕，展示了一种生活琐事与激烈情感之间的反差。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_百变娇娃是大叔_第四章_和大叔的激情一夜.d
 | Size            | 30720 bytes                           |
 | MD5             | 468cfce88faec2e6a17b8cf54177c00e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 激情, 自我认同, 身体改造, 色情内容, 亲密关系, 家庭关系, 青春校园, 欲望探索, 夜晚情景, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

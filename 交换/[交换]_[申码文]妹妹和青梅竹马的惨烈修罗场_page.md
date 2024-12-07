@@ -7,7 +7,7 @@ TXT 下载: [[交换]_[申码文]妹妹和青梅竹马的惨烈修罗场.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《妹妹和青梅竹马的惨烈修罗场》，讲述了主角卢月与其妹妹卢雪之间复杂微妙的感情关系和冲突。故事围绕着兄妹两人同居生活展开，潜伏着卢雪对哥哥卢月的病态爱慕。她为哥哥做便当，表面上表现出普通姐妹的温馨，但内心却因哥哥与青梅竹马苏雅的亲密关系而产生了剧烈的情感波动。小说逐渐揭示了卢雪的秘密——她不仅监视了哥哥与苏雅的亲密行为，还进行了一场扭曲而极端的身体改造，企图通过手段实现对哥哥的占有。文中包含大量关于心理操控和身体变形的情节，表现了卢雪对哥哥的爱与绝望。随着情节的深入，叙述中不乏色情描写，使得整个故事线更加复杂而引人入胜。最终，卢雪选择自残和身体改造，试图通过切割与粘合变成苏雅，描绘了一种极端的扭曲爱恋和身份认同的探索。整体作品探讨了爱、欲望与身份认同的主题，细腻地描绘了角色的心理挣扎与情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_[申码文]妹妹和青梅竹马的惨烈修罗场.doc]([�
 | Size            | 97280 bytes                           |
 | MD5             | b42f08f04b7ffb99d2cad311d147f415                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 兄妹恋, 青梅竹马, 心理操控, 性别转换, 自我探索, 扭曲爱情, 身体变形, 病态爱慕, 校园生活, 禁忌之爱, 凝视与被凝视, 跨性别羞耻, 内心冲突, 性别身份, 身体认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

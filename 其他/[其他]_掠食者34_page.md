@@ -7,7 +7,7 @@ TXT 下载: [[其他]_掠食者34.doc]([其他]_掠食者34.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇涉及伪娘和跨性别主题的小说片段，描述了两个角色娅莉丝和张丽丽之间复杂而富有挑逗性的互动。文本中描绘了娅莉丝对张丽丽的控制与操控，包括身体和意识的融合、性别角色的扭转，以及对异能的操纵。其中涉及到丝袜、身体改造和心理调控等元素，展现了强烈的感官刺激和性暗示。内容同时探讨了角色之间的权力关系和自我认同的挑战。文本以生动的语言和细腻的心理描写展示了性转与角色互动的复杂性，含有一定的限制级内容，适合研究性别认同和性别转化的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_掠食者34.doc]([其他]_掠食者34.doc)
 | Size            | 35840 bytes                           |
 | MD5             | 4818f78839f4b02bb739eab339727aad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 角色扮演, 身体转换, 丝袜, 调教, 异能, 自我认同, 权力关系, 性别探索, 性高潮, 超能力, 心理控制, 诱惑, 女性向                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

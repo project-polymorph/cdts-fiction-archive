@@ -7,7 +7,9 @@ TXT 下载: [[改造]_麦克和维克多（上）.doc]([改造]_麦克和维克�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《麦克和维克多（上）》是由Sparrow创作并由QWERASDW翻译的一篇性转题材小说，讲述了主角麦克与室友维克多之间的故事。他们俩为了解闷，去看电影。故事开始时，维克多在准备出门时磨蹭不前，麦克催促他，并且两人完成了自己的准备一起前往电影院。过程中，麦克不慎吞下了一枚硬币，结果引发了一系列奇异的变化。
+
+当他们回到公寓后，麦克突然感到剧烈的身体变化，他发现自己的身体正在逐渐转变成女性的状态，最终外观变成了一个丰满的女性，甚至衣服的变化也随之而来。维克多对此感到诧异并无法理解，随后在经历了各种对此变化的讨论与玩弄之后，故事逐渐展开。维克多在享受这突如其来的变化之余，不断对麦克提出新的变化请求，并表现出对新身份的关注与探究。整体情节围绕性别转变、自我认同和突发的魔幻元素展开，作者通过对话与心理描写展示了文化对性别认同的探讨与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_麦克和维克多（上）.doc]([改造]_麦克和维克�
 | Size            | 49152 bytes                           |
 | MD5             | d5ad1e38ad56835c1f61cbaf13a15813                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Sparrow / QWERASDW                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我认同, 男女角色互换, 奇幻, 性别探索, 魔法, 大学生活, 同性恋, 二次元文化, 伪娘, 男娘, 变身, 搞笑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

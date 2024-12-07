@@ -7,7 +7,7 @@ TXT 下载: [[附身]_移魂摄魄(第十一章).doc]([附身]_移魂摄魄(第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《移魂摄魄》中的第十一章，主要讲述了陆雯雯和唐飞鸿在医院的互动，以及主角胡天在学生宿舍的异变经历。故事中的陆雯雯展现出对待唐飞鸿的态度，尽管内心对他有所蔑视，但仍保持一定的礼貌。唐飞鸿则表现出他内心的欲望，甚至在医院的厕所中进行自慰，展现出他对陆雯雯身体的渴望。随后，文章切换到胡天的视角，他突然感受到一股灵魂的撞击，意识回忆起了属于他身体的女孩生活的点点滴滴，这样的灵魂交融引发了他身体的异变，同时也暗示着角色切换的主题。该章节探讨了性别转变、性别认同和生理性的变化等复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_移魂摄魄(第十一章).doc]([附身]_移魂摄魄(第�
 | Size            | 33280 bytes                           |
 | MD5             | 3b8611284f28f7354c952233d40e998c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 灵魂交替, 欲望, 自我认知, 异变, 伪娘, 精神冲突, 肉体变化, 校园生活, 都市幻想, 并行世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_父爱如皮_第6集_想结婚了.doc]([皮物]_父爱如�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于父爱与伪娘主题的小说第6集，标题为《想结婚了》。故事围绕一个男儿与他的父亲共同生活的细节展开，父亲通过人皮衣变身为女儿的李馨儿，以女性身份与儿子进行亲密互动。小说描绘了两人之间模糊的亲情与爱情关系，男儿在与伪娘父亲的亲密接触中逐渐产生了结婚的愿望。文件中的许多细节反映出二人关系的复杂性，父亲穿着人皮衣与儿子的互动中，流露出温柔与亲密的情感。特定情节如“父亲以李馨儿的身份，带着我参加婚礼”具有明显的情感冲突与心理重负，同时也展现了对婚姻的向往与期待。整体而言，该文件提供了一个探索性别认同和人际关系中复杂情感的深刻视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_父爱如皮_第6集_想结婚了.doc]([皮物]_父爱如�
 | Size            | 65024 bytes                           |
 | MD5             | 06f52d21a0e14f642bed61c84e7d8538                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人皮衣, 父爱, 伪娘, 性别认同, 婚姻幻想, 亲密关系, 社会禁忌, 角色扮演, 情感交流, 自我探索, 心理冲突, 二次元, 现代家庭, 超现实主义, 跨性别体验, 变身小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蓝晶8_[.docx]([附身]_蓝晶8_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《附身}_蓝晶8》，是一个关于角色性别转换和自我认知的小说，描绘了主人公王刚在幻境与现实之间挣扎的复杂情感。故事以王刚(李天)的视角展开，他回忆起自己与孟佳的过往，通过一条神秘纸条感知到危险，随着剧情的推进，王刚逐渐发现所处的环境与现实存在着不合之处。随着李雪(万魂老祖)的出现，故事提及了一系列有关灵魂与身体的交换，以及幻境的复杂性。李雪不仅展现出对王刚的操控力，还以一种挑衅的方式揭示了自己的真实身份，甚至展露出对王刚灵魂的渴望。此作品含有限制级内容，涉及性暗示与灵魂食用等情节，探讨了性别认同与肉体状态的关系，同时表达着角色自我认知的深刻冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蓝晶8_[.docx]([附身]_蓝晶8_[.docx)
 | Size            | 20714 bytes                           |
 | MD5             | b56382d29a650e3a099ac5e998acd7da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 幻境, 灵魂交换, 跨性别, 情感挣扎, 自我认知, 禁忌爱情, 伪娘, 变身, 强迫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

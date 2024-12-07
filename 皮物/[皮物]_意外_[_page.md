@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_意外_[.docx]([皮物]_意外_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个名为井上真由理的少女在寒冬中的日常生活与人际关系。故事开始时，真由理正准备去上学，外面寒风刺骨，路面上已经覆盖了一层薄薄的雪。她在上学路上与同班同学发生了摩擦，被一个红发女孩撞倒。真由理的性格内向且软弱，时常遭受同学的欺负，心中深感无奈，希望能改变这一局面。之后，真由理在放学后前往一个特殊的商店购买自己需要的东西，那个由神秘女店主经营的商店似乎藏有许多奇特的物品。整个故事展现了真由理内心的挣扎，她对被欺负的感受和想要反抗的决心，同时也交织着一些关于自我探索和性别认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_意外_[.docx]([皮物]_意外_[.docx)
 | Size            | 45694 bytes                           |
 | MD5             | a8e3a551e5c04e1721adc140bdbaecf0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 懒惰的佐仓                               |
+| Region          | 未知                               |
+| Date            | 2016-12-25                                 |
+| Tags            | 性转小说, 伪娘, 变身, 青春成长, 校园生活, 寒冬, 人际关系, 自我探索, 内心挣扎, 魔法商店, 勇气与反抗, 红发女孩, 短发少女, 日常系, 心灵成长, 心理描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

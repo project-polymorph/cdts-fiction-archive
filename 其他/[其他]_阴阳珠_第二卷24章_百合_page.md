@@ -7,7 +7,7 @@ TXT 下载: [[其他]_阴阳珠_第二卷24章_百合.doc]([其他]_阴阳珠_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇描绘复杂情感纠葛及性别角色互动的小说章节，围绕着名为瑾儿的角色展开。文章详细描写了瑾儿在亲密场合中感受到的身体感受及心理变化，通过角色的生理性别与心理状态的冲突，探讨了性别认同与自我探索主题。文中提到瑾儿对赞美与敏感点的认知，以及与田媛的情感纽带。情节包含强烈的身体快感描写，涉及多次亲密接触及情欲升温的细节，特别是在舌尖与乳头的互动中表现出身体的温暖和愉悦。同时，片段中表现了对角色心理变化的细腻刻画，例如瑾儿对性别身份及其所带来的快感的复杂情感，最后引出对身体状态的反思与不安。这种深刻的情感描写和性别角色的流动性，为研究性别与性向提供了丰富的素材。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_阴阳珠_第二卷24章_百合.doc]([其他]_阴阳珠_�
 | Size            | 39936 bytes                           |
 | MD5             | 788f05279a6203536db3bf21416f7461                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 百合, 情欲, 自我认同, 女性视角, 情感纠葛, 角色互动, 敏感点, 身体探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

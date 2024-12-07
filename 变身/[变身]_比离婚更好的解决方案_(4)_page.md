@@ -7,7 +7,9 @@ TXT 下载: [[变身]_比离婚更好的解决方案_(4).doc]([变身]_比离婚
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是由Jennifer Allison创作的伪娘/变身小说，标题为《比离婚更好的解决方案》。故事围绕着主角理查德和海伦的身体转换实验展开。在故事中，夫妻俩参与了一项由诺克斯博士主持的身体转换项目，期望通过这种转换重新审视他们的婚姻和彼此的关系。文中详细描绘了理查德和海伦在准备进行身体转换时的心理活动与情感波动，以及他们在这一过程中面对的自我认知和生理变化。
+
+故事中的角色们情绪复杂，同时展现了对性别角色的探索与疑问。文件中亦包含了一些敏感且详细的性内容，涉及角色对各自新身体的初步反应和期许。例如，理查德在转换后第一次看见自己的女性身体时惊讶的反应，以及他和海伦在新身份下的互动。文中有明确的性暗示和性行为描写，旨在探讨性别认同及身体认知的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_比离婚更好的解决方案_(4).doc]([变身]_比离婚
 | Size            | 38912 bytes                           |
 | MD5             | f11c8344b133a3db792495229d847cd7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jennifer Allison                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 身体转换, 性别认同, 伪娘, 婚姻关系, 性探索, 情感交流, 改变自我, 社会实验, 心理冲突, 家庭动态, 二次元, 性别角色, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

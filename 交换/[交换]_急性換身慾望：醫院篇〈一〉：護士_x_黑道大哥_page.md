@@ -7,7 +7,7 @@ TXT 下载: [[交换]_急性換身慾望：醫院篇〈一〉：護士_x_黑道�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个急性换身欲望的小说，主要讲述了一名护士与黑道大哥之间发生的奇特故事。在一次超自然现象下，护士与黑道大哥交换了身体，彼此对对方的身体产生了无法抑制的性欲望。在整个故事中，护士以其专业的身份和温柔的态度照顾病人，但与此同时，她也不得不面对自身身份的变化和内心的混乱。文中详细描述了护士在照顾病患时的心理挣扎和换身后的感受，特别是对自身性别和身份的深刻反思。小说情节充满张力，夹杂着性别认同与欲望的探讨，具有强烈的情感冲突与奇幻色彩。文中角色不仅在身份上进行变换，同时也展开了对性别与欲望的深刻探讨，使其故事倍感复杂和微妙。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_急性換身慾望：醫院篇〈一〉：護士_x_黑道�
 | Size            | 109568 bytes                           |
 | MD5             | 7d250fcf42f137d22a988bbb1cec4cea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 急性换身, 跨性别, 夜班护士, 黑道题材, 自我探索, 性转, 冒险, 情感冲突, 欲望, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

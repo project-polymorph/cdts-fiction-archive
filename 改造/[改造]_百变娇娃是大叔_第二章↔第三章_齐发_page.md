@@ -7,7 +7,7 @@ TXT 下载: [[改造]_百变娇娃是大叔_第二章↔第三章_齐发.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《百变娇娃是大叔》的第二章和第三章的合并稿。故事围绕主人公与一位名为牛芒的大叔之间的互动展开。大叔通过监视和偷窥，掌握了主人公的变装秘密，情节呈现出紧张和刺激的气氛。主人公在面对大叔的挑逗和诡计时，内心充满了慌乱与期待。文中提到的变装、摄像头监视等元素，增强了情节的悬疑与戏剧性。后半部分，大叔竟然表现出变身为女性的形态，让主人公震惊不已，而这种生理与心理的交织又引发了一系列情感的波动。小说坦诚地探讨了性别认同和自我身份的冲突，同时也涉及到一些色情内容，展示了复杂的情感与欲望纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_百变娇娃是大叔_第二章↔第三章_齐发.doc]([�
 | Size            | 35840 bytes                           |
 | MD5             | 2780081aba738186b67edf6277e21f13                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 偷窥, 调教, 性别认同, 自我探索, 强奸, 淫荡, 乱伦, 黑色丝袜, 米色连衣裙, 高跟鞋, NPC角色, 家庭秘密                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

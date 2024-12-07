@@ -7,7 +7,7 @@ TXT 下载: [[附身]_两仪佩_第14章_[.docx]([附身]_两仪佩_第14章_[.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文档内容围绕角色心岚与另一个角色姜俊的互动展开，描绘了一段充满戏剧性与情感冲突的故事。故事发生在除夕夜，心岚由于性别变化及身份认同的困惑，与姜俊展开了复杂的关系。姜俊在休息时显得轻松，心岚则面临家庭的担忧，尤其是父亲有关自己的去向的烦恼。通过网络聊天记录，心岚得知父亲焦急寻找自己，而姜俊则要求心岚假扮他的女朋友以应对家族压力。文中描绘了男女主角之间的微妙情感，以及心岚在镜子前凝视新面容的自我认知。她的外貌变化不仅外观上明显，也引发了内心深处自我认知的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_两仪佩_第14章_[.docx]([附身]_两仪佩_第14章_[.d
 | Size            | 25895 bytes                           |
 | MD5             | c69131139ecd617de90a909275c6da31                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 角色扮演, 青春偶像剧, 情感纠葛, 超自然, 自我认知, 家庭关系, 虚拟社交, 戏剧情节, 爱情, 性别认同, 商业竞技觉察, 归属感, 神秘面具, 性别大翻转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【乐园计划】第三十二章：邪恶的蔓延（一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《乐园计划》系列小说的第三十二章，标题为《邪恶的蔓延（一）》。故事围绕角色寒汐与她的同伴们展开，描述了寒汐收到父亲的信件，得知家族守护灵的动向。信中提到有危险隐藏在她身边，促使她决定返回家中。同时，章节也涉及到香草与其伙伴们展开的阴暗计划，她们企图扩大自己势力并诱惑其他角色。文本中描绘了多位女性角色之间的亲密互动，包含强烈的性暗示和恋爱元素，设定在一个充满魔法和跨性别变身的幻想世界。故事中出现了各种涉及性别认同、权力游戏和身体变更的主题，展现了角色之间复杂的关系和欲望。整体情节紧张扭曲，带有一定的限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【乐园计划】第三十二章：邪恶的蔓延（一�
 | Size            | 21475 bytes                           |
 | MD5             | e445aeb16c0552b0e7604abb2172e153                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 魔法, 奇幻, 百合, 恶魔, 强奸, 女性视角, 身体交换, 邪恶计划, 女体化, 性别认同, 自我探索, 调教, 多角恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

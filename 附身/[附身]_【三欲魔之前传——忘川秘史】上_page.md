@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【三欲魔之前传——忘川秘史】上.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《三欲魔之前传——忘川秘史》是一部奇幻仙侠题材的附身小说，讲述了司命与灵之间的互动以及她的成长经历。故事开篇探讨了三欲魔的概念，以及灵与魔的存在。角色雅婷是故事的中心，她是司命，拥有捕捉灵的能力。雅婷小时候失去父母，在老司命的指导下学习通灵法术，从小显示出极大的才能。在完成多项任务后，雅婷成为了备受称赞的通灵者。故事中还引入了通讯灵河图，以及他们在忘川的奇异任务。整部作品充满了对性别认同、灵魂交流，以及人与灵之间复杂关系的探索。雅婷通过各种任务和她的通讯灵河图，互动丰富，情感细腻，带领读者走入一个奇幻的精神世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【三欲魔之前传——忘川秘史】上.doc]([附身
 | Size            | 39424 bytes                           |
 | MD5             | ec80888b125fbf80efdeb2c124b04e7e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 仙侠, 附身, 通灵者, 灵魂, 成长故事, 超自然, 任务执行, 性别认同, 神秘, 女性角色, 灵与魔的对抗, 青春成长, 奇异世界, 角色塑造, 魔法, 超能力, 传统文化, 人际关系, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

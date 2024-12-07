@@ -7,7 +7,7 @@ TXT 下载: [[变性]_被买走的女仆_14_（完）.doc]([变性]_被买走的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一名角色被打扮成女仆并准备接受一场正式晚会的小说片段。故事中的角色回到海滨别墅，家庭教师帮助她穿着华丽的女仆服装和一件精美的晚礼裙。文中详细描绘了角色的外貌，紧身衣与裙子的搭配，以及她的心理感受，展现了角色对于自身女性化形象的欣赏与渴望。随着威廉的到来，小说进一步描绘了他们之间的互动，体现了角色在转变过程中的自我认同与对美的追求。整体内容具备较强的视觉描绘，同时涉及到性别转换与角色扮演的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_被买走的女仆_14_（完）.doc]([变性]_被买走的
 | Size            | 71168 bytes                           |
 | MD5             | 8cc89bc7e03a321dc43acda14d4d52c1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lisa Lovelace                               |
+| Region          | 未知                               |
+| Date            | 2019-07-13                                 |
+| Tags            | 性转小说, 伪娘, 跨性别, 角色扮演, 家庭教师, 晚会, 女仆, 紧身衣, 女性化, 自我认同, 心里斗争, 爱情故事, 紧身裙, 华丽服装, 服饰描写, 角色互动, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

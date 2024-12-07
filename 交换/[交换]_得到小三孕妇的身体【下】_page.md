@@ -7,7 +7,7 @@ TXT 下载: [[交换]_得到小三孕妇的身体【下】.docx]([交换]_得到
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇章节写于匆忙之中，主要围绕主角在变成孕妇后的心理状态和生活体验展开。当主角醒来时，发现自己已经变成了孕妇，内心充满了对未来的忧虑与期待。在面对陌生的身体和即将迎接的孩子时，主角感受到了一种莫名的恐惧和无助。文本细腻地描绘了主角在电话中与熟悉的人交流，探讨了对孩子未来的焦虑，以及在这种身份转变后的自我认知与适应。主角在试图寻找自己新的生活方式的同时，也反思着她作为女性的角色变化及其对生活的影响。通过这样的体验，作者引导读者探讨了性别认同、个人探寻以及对未来的不同期望。本章节中穿插了多种情感，如孤独、忧虑、无奈以及对于新生活的期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_得到小三孕妇的身体【下】.docx]([交换]_得到
 | Size            | 34995 bytes                           |
 | MD5             | a38cdf1236cfb531c10d916f4c756fdc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 孕妇, 心理探索, 性别认同, 自我认知, 身份转换, 青春成长, 生活经历, 家庭关系, 都市小说, 爱情, 奇幻, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

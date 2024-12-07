@@ -7,7 +7,7 @@ TXT 下载: [[附身]_暑期临近双弹齐发——灵魂管理器新篇03.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于伪娘与附身主题的小说片段，故事围绕着主角们在一个奇幻的游戏世界中互动展开。主要角色吴斌与王雨冰之间的关系通过网络游戏交织在一起，而吴斌在神秘的灵魂管理器作用下与王雨冰的灵魂产生了频繁的交集。故事中夹杂了对性别认同的探讨和角色的自我探索，反映了在网络世界中伪娘与性别转换的复杂性。主人公经历了一系列奇妙的事件，如相亲、怀疑以及对于女性角色的调侃和探索。诸如“做女人感觉爽吗！”等对话直接揭示了角色之间的紧张与幽默。整篇作品通过游戏与生活的交错，深入描绘了角色们对性别与身份的模糊界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_暑期临近双弹齐发——灵魂管理器新篇03.docx
 | Size            | 25237 bytes                           |
 | MD5             | 41d59029f05d95ae3fbf0375627a5905                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 附身, 性别转换, 网络游戏, 灵魂管理, 游戏副本, 角色扮演, 情感探索, 自我认知, 奇幻, 青春, 职场, 跨性别, 幽默, 友情, 网络互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_《同桌在随处施展神迹：其四》.doc]([催眠]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为网络小说《同桌在随处施展神迹：其四》的描述和内容摘录，主要围绕角色阿赫的性别幻觉展开。故事通过一名男性高中生的视角，描绘了他与他的死党阿赫之间的互动。阿赫以女性的外貌出现在男主角的视线中，揭示了性别认同和自我认知的主题。在教室里，男主角对阿赫的女性化形象感到震惊，故事通过清新的语言描写了青春期的性焦虑与心灵探索。例如，男主角看着阿赫穿着裙子、展现青春魅力，不由得陷入沉思，质疑自己的性向和情感。作品中不仅涉及性别变换的幻想元素，还触及了吸引力、自我认同等复杂情感，同时也包含一定的尺度较大的色情描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_《同桌在随处施展神迹：其四》.doc]([催眠]_�
 | Size            | 61440 bytes                           |
 | MD5             | a702a7de5397835eafa16ad5120a78b7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 赫尔                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园, 跨性别, 青春恋爱, 女高中生, 幻觉, 男生视角, 性别认同, 自我探索, 幻想, 清纯, 诱惑, 美少女, 成长, 神迹, 青春, 情侣, 内心冲突, 身体变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

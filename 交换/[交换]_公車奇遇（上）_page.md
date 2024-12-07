@@ -7,7 +7,7 @@ TXT 下载: [[交换]_公車奇遇（上）.docx]([交换]_公車奇遇（上）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一部围绕公车奇遇的性转小说的开篇，描述了一位中学生在毕业典礼后的暑假开始时的心态与遭遇。故事从主角在图书馆专心看书开始，因忘记时间而急忙赶公车，表现出对暑假和玩的期待。上车后，主角注意到车上乘客众多，并在阴差阳错中遭遇了奇怪的事件，透过在公车上的与其他乘客的互动，揭示了潜藏的性转和性相关的情节。随着乘客们受到一种不明光和气体的影响，他们的身体和心理产生了奇异的变化，营造出一种奇妙而略显混乱的氛围。这个情节展现了性别与身体认同的主题，具有强烈的二次元与奇幻色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_公車奇遇（上）.docx]([交换]_公車奇遇（上）
 | Size            | 41675 bytes                           |
 | MD5             | 9921113506404738fd254c8e10e791fe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 奇幻, 青春, 公交车冒险, 自我探索, 奇异体验, 互动情节, 性感, 变身, 性别认同, 暑假故事, 青春期烦恼, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_皮癮戲【貳】02.doc]([皮物]_皮癮戲【貳】02.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《皮癮戲》第二季第二章的文档，描写了一场与越狱事件有关的记者会，主要人物包括警官杨学伍和巫郁婕。他们在会议上讨论了一系列与越狱相关的案件，包括涉及一些关键角色的身份。小说中人物性别认同和角色转换的主题得到了体现，例如当涉及到闕仲達和藍蕾娜的身份替换说法时，巫郁婕不得不应对记者们的质疑。
+
+在这场记者会上，杨学伍表示，闕仲達还有活着，并坚称警方对这次越獄罪犯追捕的措施会很快见效。同时，巫郁婕则面对热切的媒体对案件细节的追问，最终让现场气氛显得紧张。除了警方的介绍，文件也描述了一名性感女子朱婉兒的形象，她与一名男性角色之间的对话暗示出更复杂的情节和关系发展。这段叙述展示了角色们多重身份和性别流动的元素，使其成为性转和跨性别文学的典型特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_皮癮戲【貳】02.doc]([皮物]_皮癮戲【貳】02.do
 | Size            | 145408 bytes                           |
 | MD5             | 01adddb86030f561101fc4608c998780                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | FDisguise                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 伪娘, 悬疑, 都市, 记者会, 调查, 人物身份, 女警, 幻影替代, 自我探索, 心理暗示, 色情内容, 青少年, 强权斗争, 爱情, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

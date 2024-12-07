@@ -7,7 +7,7 @@ TXT 下载: [[变身]_太太改變我(1).docx]([变身]_太太改變我(1).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于变身与性别认同的小说作品，讲述了主角陈克强与他的妻子温妮之间的互动与交流。故事开始于一个平常的夜晚，两人共同阅读一本神秘的魔法书，书中描述了性别体征的交换与变化。随着剧情的发展，温妮表现出对书中内容的强烈好奇，而陈克强则是以开玩笑的语气回应。在这篇小说中，温妮展现了她对自我形象的探索与思考，尤其是在性别角色与自身身份认同的复杂性上，有着深刻的反省。小说通过细腻的描写展现了他们的婚姻生活和对未来孩子的期待，以及两人之间的感情互动，融入了魔法、性别交换和自我认知等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_太太改變我(1).docx]([变身]_太太改變我(1).docx)
 | Size            | 24389 bytes                           |
 | MD5             | c01a90dc6186f3fd615e81f8bdeb8c86                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 嘟嘟                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 婚姻生活, 自我探索, 魔法书, 温妮, 陈克强, 性别交换, 情感互动, 幻想, 二次元, 跨性别, 性别角色, 探索自我, 奇幻, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

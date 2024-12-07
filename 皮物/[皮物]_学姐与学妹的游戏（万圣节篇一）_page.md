@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_学姐与学妹的游戏（万圣节篇一）.docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《学姐与学妹的游戏（万圣节篇一）》的内容，其中描绘了一位学姐与她的学妹在万圣节期间的互动故事。故事以万圣节狂欢夜为背景，学姐穿着巫师服装，而学妹则扮成魅魔。开篇提到学姐因之前的一起事件而感到羞愧和压抑，甚至还隐秘地反思自己的反应与社交压力。随着节日的来临，学姐在夜晚主动出现在大家的狂欢中，却意外被学妹用魅魔的形象引诱，随后二人之间展开了一系列复杂和亲密的事实，包含了扮演角色、身份认同以及情感上的纠缠。文件中还涉及了几个具有暗示性的情节，例如使用道具面具和双重身份的揭示，表现出对性别角色的探索与反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_学姐与学妹的游戏（万圣节篇一）.docx]([皮�
 | Size            | 21735 bytes                           |
 | MD5             | 8822177c30087f20461cc233bc92e32c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 魅魔, 万圣节, 强奸, 校园, 双重身份, 性别探索, 女仆, 调教, 变装, 情感纠葛, 女同性恋, 角色扮演, 百合, 强烈情绪, 暗示内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

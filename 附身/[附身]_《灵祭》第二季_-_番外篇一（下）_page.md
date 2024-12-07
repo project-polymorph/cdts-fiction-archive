@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《灵祭》第二季_-_番外篇一（下）.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《灵祭》第二季 - 番外篇一（下）讲述了妮卡与周围人之间错综复杂的关系，以及她面临的神秘交易。故事开始于妮卡接到一个电话，谈判一项未知的交易。接下来的情节中，妮卡对这项交易感到不安，但还是决定让她的侄子林武去执行这项交易。林武在故事中附身在一个日文系的系主任身上，并企图利用这个身份来完成交易。在这一过程中，涉及了一些与性相关的情节，例如马承宇（林武附身的身份）对周诗妍的侵犯。故事在描绘角色内心挣扎与身份认同的同时，也包含了限制级的内容，展现了对性别与权力关系的探讨。除了涉及迷奸、强奸等情节，故事还反映了角色对于个人欲望与人际关系的复杂思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《灵祭》第二季_-_番外篇一（下）.doc]([附身
 | Size            | 36864 bytes                           |
 | MD5             | 0a809111baa2fc1c597673c4c462c1c5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 附身, 迷奸, 强奸, 权力关系, 性别认同, 自我探索, 校园, 教师角色, 心理斗争, 二次元, 男性视角, 禁忌关系, 剧情反转, 伦理困境, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

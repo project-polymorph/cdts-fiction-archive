@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_瑾玉？玉琪！_第五章_大姨妈来了.docx]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为小说《瑾玉？玉琪！》的第五章，主要描写了角色玉琪在大姨妈来临时的种种情感与反应，表现出其对生理变化的苦恼与无奈。章中，玉琪在姐妹们的关怀和调侃中感受身为女性的烦恼，同时也透露出她内心深处对自身性别认同的挣扎与矛盾。故事通过轻松幽默的对话和细腻的描写，让读者感受到角色的情感波动，特别是在玉琪面对生理期的困扰，以及与姐妹们之间的互动时流露出的脆弱与温暖。这一章节通过加入一些调侃与轻松的情节，既突显了角色的内心冲突，也增添了故事的可读性。据部分描述，玉琪在体验到生理期的同时，内心也反思着自己作为女性的生活，暗示了她曾经作为男性的身份与目前的心理适应过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_瑾玉？玉琪！_第五章_大姨妈来了.docx]([皮物
 | Size            | 23347 bytes                           |
 | MD5             | 154f8386d8a32097d6531bd06362234c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 生理期, 姐妹情, 喜剧, 自我探索, 变身, 心理冲突, 温情, 角色互动, 校园生活, 情感纠葛, 搞笑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

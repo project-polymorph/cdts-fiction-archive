@@ -7,7 +7,7 @@ TXT 下载: [[改造]_关于我被改造成他的性奴隶这件事.doc]([改造
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于性转和变身的小说，讲述了一名高中男生在被同班同学林辰绑架后，经历了性别与身体上的极端变化。故事中，主人公从一开始的恐惧和绝望转变为对身体变故的混乱和羞耻之情。林辰展示了一种通过灵魂交易获得的能力，他的疯狂行为使得主人公在失去身体自主权的情况下，被迫体验了令人难以置信的肉体转变过程。主人公经历了乳房和阴道的形成，以及身体机能的极端扭曲，最终产生了复杂的情感反应。这种情节涉及了性别认同、自我挣扎、羞耻感以及性快感之间的矛盾心理，构成了一种对身体和身份的深入探索。文中大量描述了性器官变化的细节和亵渎性的场景，带有强烈的成人内容和限制级特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_关于我被改造成他的性奴隶这件事.doc]([改造
 | Size            | 43008 bytes                           |
 | MD5             | e995b3254882a43dea11fd90dbf09878                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 心理探索, 身体异化, 强制变身, 性奴隶, 变嫁, 折磨, 羞耻, 快感, 高校, 二次元, 科幻, 禁忌情感, 男性主角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

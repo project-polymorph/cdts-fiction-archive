@@ -7,7 +7,7 @@ TXT 下载: [[交换]_互換「公司篇」2-1_[.docx]([交换]_互換「公司�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别互换的小说，内容围绕两位角色李筱冰（高中生）与一名男老师（櫻井）在一次事故中意外交换身体后的生活与情感发展。故事通过李筱冰的视角展开，描绘了她在适应新的生活角色时的困惑与挑战。李筱冰在新身份下开始体验女性的生活，包括与同学的互动及对男老师的感情。故事中的情节涉及性别认同、自我探索以及身体与身份的冲突，具体描写了李筱冰在新身份中面临的各种情感变化和身体认知的冲击。此外，文中包含一些性相关情节，引发了角色对身体的探索与欲望的冲突，例如李筱冰在浴室中的羞涩与兴奋感，以及女学生对老师的挑逗行为。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_互換「公司篇」2-1_[.docx]([交换]_互換「公司�
 | Size            | 21073 bytes                           |
 | MD5             | 8019c44227b6160c11c97025247b4433                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别互换, 自我探索, 身体冲突, 高中生活, 师生情感, 性别认同, 性别身份, 性欲探索, 校园故事, 向前推进的情节, 性别表达, 青春成长, 性别流动, 情感纠葛, 欲望与羞耻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

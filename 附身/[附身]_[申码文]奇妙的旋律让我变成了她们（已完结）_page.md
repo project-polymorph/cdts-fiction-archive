@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[申码文]奇妙的旋律让我变成了她们（已完�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本档案馆的这份文件为一部性转小说，故事围绕男生李晨的奇幻经历展开。当李晨在课堂上感到孤独时，他开始思考如果能拥有朋友该多好。班长苏艳婷出乎意料地关心起他，这一切使李晨感到新奇。随着故事的发展，李晨通过随身听播放的一段旋律，意外体验到灵魂出窍的奇幻旅程，并进入刘岚的身体。他逐渐觉醒自己的女性身份，并体验女性的感官与心理变化。在这个过程中，李晨对自己内心的渴望与自我认知产生了深入的探索，人物心理描写细腻，情节紧凑，令人欲罢不能。该小说不仅关注角色的性别认同和自我探索，也涉及到诸多敏感主题，如性暗示、亲密关系及悖论冲突等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[申码文]奇妙的旋律让我变成了她们（已完�
 | Size            | 64000 bytes                           |
 | MD5             | 9c9b6da5e6c065069c48e5e56dd9a3df                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 女体化, 青春校园, 内心探索, 灵魂出窍, 女性视角, 轻小说, 伪娘, 自我认知, 幻觉, 意识交换, 二次元, 色情冒险, 小说, 情感纠葛, 班长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

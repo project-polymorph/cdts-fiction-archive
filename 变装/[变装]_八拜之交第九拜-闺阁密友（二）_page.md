@@ -7,7 +7,7 @@ TXT 下载: [[变装]_八拜之交第九拜-闺阁密友（二）.docx]([变装]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘和变装题材的小说，标题为《八拜之交第九拜-闺阁密友（二）》。故事围绕一次独特的情感与性别认同的探索，描述了两位男儿身的角色在进入父慈官情况下，逐渐适应女性身份与角色的过程。情节中包含他们与曹老爷之间的复杂关系，展现了在古代封建社会庞大的权力关系下，个体情感纠葛与性别认同的挣扎。小说通过细腻的笔触描绘了两位角色在情感与欲望的交织中所感受到的快乐与痛苦，既有对自我身体认知的探索，也极具情感深度。作品中的语言优雅但情节含有明显的色情描写，刻画了男儿身姐妹在与男性互动中的羞涩与逐渐适应。随着故事的发展，角色们不断反思自身的身份与处境，文笔中透露着对禁忌与道德的挑战与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_八拜之交第九拜-闺阁密友（二）.docx]([变装]
 | Size            | 19060 bytes                           |
 | MD5             | 94b44ae1dd1c4097132f706f1a558a7e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 性别认同, 强奸, 逆后宫, 调教, 女友换装, 古代情感, 恋情探索, 性转, 变嫁, 欲望, 欢乐与痛苦, 姊妹情, 权力关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

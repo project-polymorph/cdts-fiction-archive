@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_内衣下的秘密（邪恶完结篇）.docx]([皮物]_内
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《内衣下的秘密（邪恶完结篇）》，属于伪娘与跨性别相关的小说，讲述了一位教授张敏和名为李丽娜（李林）的女性角色在一个内衣店阁楼中的暧昧互动。故事通过柔和的灯光和精致的内衣描绘出诱人的氛围，教授与李林以酒为媒，进行了一场关于身体和欲望的复杂对话。故事中涉及到了性别认同与身体感知的主题，李林在穿上特殊“人皮”后，身体的敏感度增强，并逐渐被教授的魅力所吸引。随着情节的发展，揭示了更深层次的人物心理及契机，为故事增添了多层面的复杂性。该段落的语言带有明显的挑逗性，内容包含性暗示与催情药物的使用，刻画了角色在权力与欲望之间的拉锯战。同时，包含紧张气氛和冲突的描写，也引发了对于性别流动性及人类欲望本质的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_内衣下的秘密（邪恶完结篇）.docx]([皮物]_内
 | Size            | 22356 bytes                           |
 | MD5             | a5ffe686a6a9f17b9fe8631f35f6e647                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 内衣店, 教授, 爱情, 权力游戏, 自我认知, 身体异化, 性唤醒, 情感纠葛, 性别认同, 药物影响, 生活方式, 小说, 文学作品, 情欲关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

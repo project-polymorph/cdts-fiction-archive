@@ -7,7 +7,7 @@ TXT 下载: [[变装]_一个丢失的行李箱.doc]([变装]_一个丢失的行�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部作品讲述了一个角色在度假过程中丢失行李箱而产生的意外故事。故事的主角与妻子一起出去度假，途中由于行李箱的丢失而面临困扰。妻子提议借给主角她的衣物，主角因此开始体验穿着女性服装的过程，引发了一系列内心的冲突和性别认同的探索。作品中细腻地流露出主角对于穿着女性内衣的羞耻与兴奋交织的复杂感受，同时也叙述了夫妻之间在这种背景下的互动，以及逐渐适应和享受这种新身份的过程。随着故事的发展，主角开始接受自己的新形象与体验，最终在购物的过程中也愈加自信，甚至尝试了穿裙子。这一切都在充满生活气息的度假背景中不断展开，描绘了对性别认同的探索与自我接纳。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_一个丢失的行李箱.doc]([变装]_一个丢失的行�
 | Size            | 36864 bytes                           |
 | MD5             | bddb021a1ec3861589d2579d4f42bdb2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | didiwillis                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 妻子, 度假, 探索性别认同, 羞耻感, 兴奋感, 家庭关系, 自我发现, 穿裙体验, 内衣, 情感交流, 女性服装, 生活故事, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

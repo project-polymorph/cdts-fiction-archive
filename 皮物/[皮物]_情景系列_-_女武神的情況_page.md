@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_情景系列_-_女武神的情況.docx]([皮物]_情景系
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于一名少年发现一只奇异手套的故事。故事的主角四条望在一次放学回家的途中，在小巷中的垃圾堆里发现了一只看似女性手掌的手套。起初，他对这只手套感到好奇，同时又感到恶心，但最终还是决定将其戴上。当他戴上手套后，他的右手竟然变成了一只像女性般纤细的手掌。更令人惊奇的是，手套的变化并不仅限于手掌，随着时间的推移，四条的手臂皮肤也开始变得雪白。同时，他也感到了一种女人所特有的柔软和细腻。这引发了他更深层的思考，让他在自我认知和性别身份方面产生了矛盾与探索。整篇文字中还包含了关于社会安保的元素，例如在他回家的路上，附近因猎奇杀人事件而巡逻的警察，以及他对这种情况的慌张反应。故事探讨了对自我身份和变化的接受与理解，展示了性别认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_情景系列_-_女武神的情況.docx]([皮物]_情景系
 | Size            | 37074 bytes                           |
 | MD5             | 82a6fdbab95946c1d1b5b910f3bda009                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 手套, 变身, 女性意识, 性别认同, 自我探索, 奇异物品, 惊悚, 青春, 都市幻想, 未知事件, 心理冲突, 阴暗小巷, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

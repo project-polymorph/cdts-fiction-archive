@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_脱皮------防晒霜.docx]([皮物]_脱皮------防晒霜
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一段关于朋友发明的防晒霜引发的奇妙经历，主要围绕一位男性主角和他的女朋友展开。故事开始于男主接受了朋友发明的防晒霜，并与女朋友回到家中试用。女朋友在兴奋和好奇的推动下，迫不及待地想要试验这个新的产品。涂抹防晒霜后，男主发现涂抹的部位出现了奇异的感觉，仿佛被包裹了一层胶水。随后的尝试变得更加大胆，两人相继脱掉衣物，互相涂抹防晒霜。随着剧情的发展，防晒霜展现出神秘而奇特的效果，似乎让他们体验到了蜕皮的感觉，象征着某种转变。最后，两人甚至开始玩起了将对方的皮肤互换的游戏，产生了有趣而暧昧的互动。整个故事结合了幻想与暧昧色彩，令人联想到性别转换的主题，并带有一定的性暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_脱皮------防晒霜.docx]([皮物]_脱皮------防晒霜
 | Size            | 24421 bytes                           |
 | MD5             | b5a2980dc25063b07903b2c298c0fd8d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 防晒霜, 蜕皮, 性别转换, 奇幻, 恋爱, 二次元, 创意药物, 搞笑, 暧昧, 青春, 探索自我, 冒险, 科学实验, 性别认同, 伪娘, 奇妙体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

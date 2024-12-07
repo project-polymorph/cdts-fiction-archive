@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_科幻医学类：方杰的萝莉警察老婆〔序〕试�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《方杰的萝莉警察老婆》的试阅篇，主要围绕女主角林芳的内心斗争与情感经历展开。林芳是一名青春期的女孩，处于对爱情和自我性认同的探索阶段。她身体娇小，外表普通，但内心对班主任方杰怀有秘密的爱慕之心。文件中详细描写了林芳在校园生活中的点滴，以及她对方杰的崇拜心理和逐渐成长中的性觉醒。林芳开始尝试自慰，以此来应对情感上的空虚和对禁忌情感的渴望。此外，故事亦涉及到林芳与一位成熟女性之间的互动，暗示了更复杂的情感关系和潜在的危险。整体情节涵盖了性别认同、爱情禁忌以及青少年性探索等主题，具有一定的冲突与戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_科幻医学类：方杰的萝莉警察老婆〔序〕试�
 | Size            | 26432 bytes                           |
 | MD5             | e943070256f66685aa7e46ad8c7e86e1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 禁忌恋, 青春期, 性觉醒, 伪娘, 爱情, 校园, 复杂关系, 自慰, 情感探索, 色情内容, 刺激, 悬念                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

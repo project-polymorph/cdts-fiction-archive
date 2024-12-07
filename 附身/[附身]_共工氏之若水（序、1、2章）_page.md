@@ -7,7 +7,7 @@ TXT 下载: [[附身]_共工氏之若水（序、1、2章）.docx]([附身]_共�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部跨性别与性转主题的小说，主要围绕角色羽卿和文洛的复杂关系展开。在故事的开头，羽卿在豪华别墅内为男孩文洛解答习题，二人之间的互动充满了紧张氛围。随着文洛的阴险计划逐渐浮出水面，羽卿在不知情的情况下，饮用了含有药物的水，这导致她在浴室中体验到一系列奇妙而又禁忌的感受。故事深入探索了幻想与欲望交织的境地，描绘了羽卿的身体与心理状态的剧变，尤其是在沐浴时所产生的强烈感受，引发了她内心深处未曾意识到的欲望。这篇小说不仅涉及性别认同的主题，也含有明显的色情内容，内容暗示了一种非自愿的性转与控制，反映出角色之间错综复杂的关系与内心的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_共工氏之若水（序、1、2章）.docx]([附身]_共�
 | Size            | 20269 bytes                           |
 | MD5             | 7776f24531ca3596dc833ddf2c73ccb7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-07-18                                 |
+| Tags            | 性转, 跨性别, 幻想, 禁忌, 欲望, 药物, 性别认同, 心理变化, 青春, 复杂关系, 淫荡, 调教, 浴欲, 纯爱, 强奸, 逆后宫, 变嫁, 伪娘, 男娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

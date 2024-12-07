@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【翻译】局外人1.doc]([变身]_【翻译】局外人
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《局外人》是一部围绕主角凯尔·西蒙斯的故事，讲述了他在一个醉酒后的晚上见证一场争斗的离奇经历。在故事的开头，凯尔因朋友的生日聚会而喝酒过量，醉醺醺地走在回家的路上。他在邻居玛丽莎的家门口意外目睹了一场激烈的打斗，玛丽莎不仅勇敢地与袭击者斗争，还展现出了惊人的力量。随着故事的发展，凯尔的视角变得越来越模糊，他无法确定自己看到的一切是否真实。在酒精的作用下，他面对着现实与幻想的交织，感受到情感上的波动和心理上的迷乱。此文在描写两个角色间的突然接触时，揭示了性别认同和角色转变的微妙主题，同时也包含了动作描述和潜在的浪漫情节，展示了变身与跨性别主题的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【翻译】局外人1.doc]([变身]_【翻译】局外人
 | Size            | 94720 bytes                           |
 | MD5             | 5a8eeb941bac74fa8ae21bef5f1cc66f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Morpheus                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 身份认同, 自我探索, 惊悚, 超自然, 邻里关系, 酒精影响, 女性力量, 幻想, 视觉错觉, 非线性叙事, 青春烦恼, 拔剑与争霸, 情感冲突, 都市奇幻, 性别流动, 心理描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

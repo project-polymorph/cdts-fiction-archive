@@ -7,7 +7,7 @@ TXT 下载: [[附身]_7_我是腿控，但我那拥有凭依能力的挚友是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一个中二风格的小说章节，讲述了一个名叫佐藤的男孩，利用一本羊皮纸的超能力进行催眠和操控他人的故事。故事中的主要情节围绕佐藤和一位名叫朱音的美少女展开，佐藤通过施展的魔法能力成功催眠了朱音，并试图获取关于另一角色秋人的信息。文件中详细描写了角色之间的互动，以及催眠能力的效果，伴随着一些限制级的情节，涉及性暗示和暴力。这一章节探讨了自我认知、权力与操控的主题，展示了人物在催眠状态下的行为变化和心理状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_7_我是腿控，但我那拥有凭依能力的挚友是�
 | Size            | 45056 bytes                           |
 | MD5             | db060170666f41e51eed3f08299cb003                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 催眠, 伪娘, 霸道总裁, 超能力, 校园, 幻想, 调教, 强迫, 女仆, 奶控, 肉体交换, 巨乳, 逆后宫, 性别认同, 青春爱情, 魔法, 灵魂凭依, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

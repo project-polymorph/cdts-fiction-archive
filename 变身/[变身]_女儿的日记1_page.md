@@ -7,7 +7,7 @@ TXT 下载: [[变身]_女儿的日记1.doc]([变身]_女儿的日记1.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说主要围绕一个被困在女儿身体里的男人的心理挣扎与性别认同的变化展开。故事开始于一个男子在搬入新房时发现了原房主的日记，日记中写着他承受着精神崩溃与自我认知的痛苦，以及他逐渐转变为女性的过程。原来，这名男子一度是大学教师，但因工作与家庭的困扰，最终误入歧途，陷入精神错乱。随着故事的深入，读者了解到他在自我挫折与困境中遭受的痛苦，同时也要面对自己转变身份的现实。“我现在被困在我女儿的身体里。”这句简短却触动人心的话，充分体现了角色内心的无奈与挣扎。整个故事探索了性别认同、家庭角色与社会期待之间的复杂关系，并通过人与自己、与家庭、与社会的对抗描绘出了深沉的心理冲突与变化。日记式的叙述风格让人感觉到紧迫感以及作者深深的绝望与恐惧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_女儿的日记1.doc]([变身]_女儿的日记1.doc)
 | Size            | 52736 bytes                           |
 | MD5             | b309f6abbd6efd54da2bb55d745e1c12                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | darksoul                               |
+| Region          | 未知                               |
+| Date            | 2016-01-01                                 |
+| Tags            | 性别认同, 跨性别, 心理挣扎, 变身, 家庭角色, 社会期待, 自我探索, 精神崩溃, 日记体, 情感纠葛, 女性视角, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

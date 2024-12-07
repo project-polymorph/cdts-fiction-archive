@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（18-20）大结
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一部伪娘变身与跨性别主题的小说，名为《赵氏孤儿后传（18-20）大结局》，总字数约5432字。故事的中心围绕着主人公经历了一次极具戏剧性的变身过程，涉及性别认同、身体改造和自我探索等重要主题。在文中，角色们面临着生死、情感以及身体膨胀等复杂情感的交织。主人公回顾经历中，所承受的身体和精神上的痛苦，描绘了与母亲的肉体在自己的身体内融合的场景，呈现出一种奇异的母子关系。同时，文本涉及了身体变性和性别转换的细节，包含许多带有强烈情色暗示的内容，如“阳具被割离”、“身体内的母亲宫器”等，使得文本在叙述过程中充满了冲突和转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（18-20）大结
 | Size            | 41984 bytes                           |
 | MD5             | 96e5f8e569a92a9e84f2d8b00ef8a6ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | qilixiang                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-11-15                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 身体改造, 阴阳转变, 情色, 身体交换, 母子关系, 自我探索, 奇幻, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

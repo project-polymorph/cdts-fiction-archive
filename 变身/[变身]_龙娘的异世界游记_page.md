@@ -7,7 +7,7 @@ TXT 下载: [[变身]_龙娘的异世界游记.doc]([变身]_龙娘的异世界�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部設定在2050年的VR MMORPG游戏《勇者幻想：女神的轨迹》的小说，讲述了主角蒂娜在游戏中作为龙娘角色的冒险故事。小说通过详细的角色描写和游戏设定，展现了蒂娜的外貌特征，她的游戏职业“龙脉术士”，以及她在副本中的战斗表现和角色背景。故事中夹杂着现实生活的设定，例如主角叶隐是一名普通大学生，因不需到校而使用VR技术进行学习。小说还涉及了玩家之间的互动和游戏的独特机制，体现了虚拟世界与现实生活的交相辉映。蒂娜在游戏中的经历，尤其是她对战斗的掌控与对个人兴趣的追求，展示了游戏角色与玩家自我认同之间的复杂关系。此外，故事以蒂娜在游戏中奋力追求目标的描绘，引出了一系列自我探索与性别认同的思考，尽管光辉，但也暗示着潜藏的困境。文件整体融入了丰富的幻想元素和现代科技背景，具有极高的二次元特色。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_龙娘的异世界游记.doc]([变身]_龙娘的异世界�
 | Size            | 37376 bytes                           |
 | MD5             | 7ec042b9721fb6a46af5ffa81cffd12f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | VR技术, MMORPG, 龙娘, 性别认同, 角色扮演, 冒险故事, 虚拟现实, 自我探索, 奇幻, 二次元小说, 龙脉术士职业, 游戏机制, 剑与魔法, 故事设定, 青年题材, 奇幻世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

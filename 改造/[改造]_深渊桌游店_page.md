@@ -7,7 +7,7 @@ TXT 下载: [[改造]_深渊桌游店.doc]([改造]_深渊桌游店.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《深渊桌游店》的小说，主要围绕着男主角羽鸟彻平的冒险经历。故事开始于羽鸟的好友吉田慎一失踪，羽鸟通过手机发现了有关深渊桌游店的线索。小说描绘了羽鸟在寻找朋友的过程中遇到了一个名为奈亚拉托提普的角色，她是这家游乐店的“老板”。在与奈亚拉托提普的对话中，羽鸟逐渐意识到，慎一在这里经历了角色扮演游戏的情节，相比于过去的他，现在的他似乎已经完全变了。奈亚拉托提普的角色机制看似轻松，然而潜藏着深渊般的危险，她的性格天真却又带着疯狂，似乎在操控着人类的欲望。本小说探讨了性别认同与自我探索，充满了超现实的幻想与惊悚氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_深渊桌游店.doc]([改造]_深渊桌游店.doc)
 | Size            | 57856 bytes                           |
 | MD5             | 7da00a345b68c5c0c2df481ad01e7cab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 深渊桌游店, 变身, 性转, 伪娘, 自我探索, 奇幻, TRPG, 角色扮演, 邪神, 青春惊悚, 虚拟现实, 冒险, 心理斗争, 欲望, 跨性别, 非人化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

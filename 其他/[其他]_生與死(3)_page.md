@@ -7,7 +7,7 @@ TXT 下载: [[其他]_生與死(3).docx]([其他]_生與死(3).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一段关于名为雪奈的角色的小说摘录，采用第三人称叙述，以心理描写为重点，探讨了雪奈在经历创伤后对男性的恐惧和心灵的挣扎。故事开头描述了雪奈回到家中，发现父亲不在，因此她感到一丝解脱，因为父亲是她必须隐瞒真实想法的人。随着情节的发展，雪奈面临着与男友幸夫之间日益增加的隔阂，她对男性的恐惧来源于一次令人不安的经历，尽管幸夫对她的关心和爱意显而易见，但雪奈依旧选择躲避。文中展现了她在电车中由于男性靠近而感到的压迫感以及对幸夫态度的冷淡，幸夫的关心则引发了她内心更深的矛盾。最终，在一系列情感交流后，雪奈决定面对自己的恐惧，希望能恢复对男性的信任。文本中包含了对情感、性别认同与创伤后心理状态的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_生與死(3).docx]([其他]_生與死(3).docx)
 | Size            | 23919 bytes                           |
 | MD5             | 58382494707ad6a45ec2e11b1bffcdc2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 爱情, 心理描写, 性别认同, 创伤, 跨性别, 恐惧, 自我探索, 怀孕, 纯爱, 年轻女性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

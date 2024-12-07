@@ -7,7 +7,7 @@ TXT 下载: [[交换]_富人窮人那些事（下篇，完結）.docx]([交换]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是《富人窮人那些事（下篇，完結）》的内容摘要，主要围绕角色苏沁香与她的名义丈夫在偶然场合重逢后的情感纠葛。故事开篇描写苏沁香在KTV偶然遇见自己的丈夫，她由于饮酒过量而面露红晕，情绪复杂。苏沁香的举动和语言显露出她对自己身份的困惑与掩饰，她试图否认自己是丈夫的妻子，并与KTV的男公关发生亲密关系，进而导致情感危机。文本通过对话展现人物内心深处的矛盾与焦虑，例如苏沁香慌乱地掩饰美丽身姿和心情的描写，以及她对丈夫的闪避反应。小说中包含性暗示和情感冲突，也探讨了角色自我认同与情感关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_富人窮人那些事（下篇，完結）.docx]([交换]_
 | Size            | 37315 bytes                           |
 | MD5             | 6fb48e6716d52e5042e202d987891177                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 富人, 穷人, 自我认同, 性别角色, 情感纠葛, 婚姻, KTV, 重遇, 困惑, 欺骗, 性暗示, 苏沁香, 情欲, 逆转戏剧, 人物内心, 情感危机, 跨性别, 变身, 性转, 伪娘, 男娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

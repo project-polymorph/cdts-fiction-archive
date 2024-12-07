@@ -7,7 +7,7 @@ TXT 下载: [[变身]_無臉者_第四章.doc]([变身]_無臉者_第四章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《无脸者》第四章的文章，讲述了一个复杂的情节，涉及角色威廉·德瓦德在他管理的地区面临的挑战与压力。故事从威廉内心对自己工作的不满和对故人的怀念开始，提到他承受失去妻子的痛苦，以及因工作而感到的无奈与挫折。在此过程中，出现了名为斯戴拉的角色，她曾是帝国贵族的家庭教师，如今却与威廉的生活交织在一起，引起威廉的好奇和关注。斯戴拉巧妙地化身于另一种角色，以帮助威廉更好地照顾他的女儿梅莉，并在她与威廉之间建立了一种微妙的关系。文章涉及到的主题包括身份的转换和角色之间的心理博弈，以及对失去的爱与希望的反思。斯戴拉在故事中逐渐显露出她隐藏的复杂背景，甚至还谈及了她过去的经历，引发了梅莉的探寻与共鸣。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_無臉者_第四章.doc]([变身]_無臉者_第四章.doc)
 | Size            | 43520 bytes                           |
 | MD5             | 0062761ffecac71c01d7375281c18afb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lu9mimi                               |
+| Region          | 未知                               |
+| Date            | 2022-03-02                                 |
+| Tags            | 性转, 伪娘, 角色扮演, 心理博弈, 身份认同, 失去与希望, 阴谋, 情感纠葛, 二次元幻想, 末日背景, 家庭关系, 权力斗争, 自我探索, 跨性别”，“穿越, 悲剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

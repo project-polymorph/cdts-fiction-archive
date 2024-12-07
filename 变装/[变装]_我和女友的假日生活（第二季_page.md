@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我和女友的假日生活（第二季.docx]([变装]_我
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个伪娘角色在假日期间的变装游戏的小说，情节围绕主人公的性别转换经历展开。在故事中，主人公在女友的安排下被打扮成女孩子，体验了一系列充满刺激与羞耻感的活动。文章的开头描绘了主人公从睡梦中醒来，发现自己变成了女性，穿着性感的衣物。随着情节的发展，女友告诉主人公，她邀请了他的表姐来一起度过这个假期，并且安排了一些特别的活动。主人公内心充满了对身份暴露的恐惧，但同时也产生了对这种新体验的期待。文中还涉及了一些限制级的内容，包括角色之间的性暗示以及调教场景，特别是在女友和表姐的安排下，主人公需要完全遵从她们的指令。最终，文档展示了当伪娘与表姐相遇时的紧张和复杂的情感交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我和女友的假日生活（第二季.docx]([变装]_我
 | Size            | 23656 bytes                           |
 | MD5             | 0918c8764c7248305126a0e51f5193dd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 调教, 禁忌恋, 角色扮演, 恋爱, 性别认同, 内心冲突, 虚拟现实, 冒险, 青春校园, 爱情, 性启蒙, 猛男变女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

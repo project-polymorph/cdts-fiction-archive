@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《关于我和恶魔大小姐的日常》3.docx]([附身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《关于我和恶魔大小姐的日常》的性转小说，故事围绕着男主角江钊的身体被恶魔大小姐艾菲妮娅占据展开。小说设定在现代背景，讲述了江钊与其网友韩白相识并计划面基的过程。在L市市中心的洛丽塔店，韩白试裙子时，江钊在艾菲妮娅的控制下参与了这一切，展现了她们之间的友谊与互动。尤其是在逛街试衣的过程中，江钊虽然处于旁观者的身份，但对这个体验却感到意外的享受。故事推进到晚上，在酒店中，韩白向江钊（实际上是艾菲妮娅）表白，展现出角色间复杂的情感交织，暗示了进一步的发展。文中涉及的元素包括性别转换、角色扮演、以及友谊与爱情的模糊界限，这些都加深了故事的趣味性与复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《关于我和恶魔大小姐的日常》3.docx]([附身]
 | Size            | 31976 bytes                           |
 | MD5             | 08cf6b6f355e561aea8c84b30984e148                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-10-05                                 |
+| Tags            | 性转, 变身, 恶魔, 友情, 爱情, 现代, 洛丽塔风, 校园, 网络社交, 青春, 女装, 女孩, 自我认知, 身体交换, 情感探索, 心理描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

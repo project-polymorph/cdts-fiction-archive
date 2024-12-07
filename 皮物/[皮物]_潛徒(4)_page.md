@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_潛徒(4).docx]([皮物]_潛徒(4).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《潜徒(4)》为一篇描写女性之间复杂情感关系的小说，主要聚焦于角色安娜与莉莉之间的互动与冲突。故事中，安娜对莉莉产生浓厚的感情，并在一个私密的环境中向莉莉倾诉了她对伴侣凱特的问题。关键情节显示安娜承认对凱特的不当行为，引发了莉莉的震惊与不安。小说构造了一个紧张而富有情感张力的局面，描述了角色之间心理的纠葛与冲突。文中的对话生动且细腻，包含大量情感的流露和生理的描写，突显了性别与身份认同的问题，同时也涉及了一些敏感的性相关内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_潛徒(4).docx]([皮物]_潛徒(4).docx)
 | Size            | 24518 bytes                           |
 | MD5             | 534af8b57c46f675e273311db03e0c2e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 跨性别, 变身, 双性恋, 青春, 复杂情感, 爱情, 情感纠葛, 角色互动, 性别认同, 求爱, 强制性行为, 自我探索, 心理冲突, 性别关系, 都市恋情, 职场关系, 女性视角, 短篇小说, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（申码文重发）恕瑞玛之辉.doc]([皮物]_（申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘与变身主题的小说，围绕着角色卡特琳娜与卡西奥佩娅展开。故事设定在一个虚构的世界中，描述了卡特琳娜在得知她的妹妹卡西奥佩娅在恕瑞玛遭遇困境后赶赴救援的情节。文件中描绘了诺克萨斯的一处小庄园，表现金色阳光与荒凉沙漠的对比。随着故事推进，佣兵小队意外发现了象征恕瑞玛的太阳圆盘，并遭遇了诡异的光芒，最后众人被卷入光芒中，化为能量丝线。接下来，主角林珏因对太阳圆盘的兴趣穿越到了另一个世界，卷入了新的冒险中，面临变身与身份冲突的情节。文本中包含关于角色的详细心理描写，以及神秘的异世界背景。在内容中，涉及到了性别认同与自我探索的主题，同时也包含了一些限制级的内容元素
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（申码文重发）恕瑞玛之辉.doc]([皮物]_（申�
 | Size            | 50688 bytes                           |
 | MD5             | f4b2fed15b18f27b56fe4965c7d759b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 夜晚探险, 英雄联盟, 异世界穿越, 遗迹探险, 卡特琳娜, 太阳圆盘, 角色扮演, 冒险, 自我认知, 情感冲突, 蔓延的光芒, 佣兵, 性别转变, 身份危机                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑萝莉会所---1-3.docx]([皮物]_黑萝莉会所---1-3
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件的内容呈现了一种诡异而富有幻想色彩的场景，围绕着一个位于黑色壁柜中的躯体展开。这个躯体看似是一个裸体的儿童，其特征模糊不清，传达出一种神秘和压抑的氛围。随着故事的发展，躯体突然苏醒，揭示出其真实身份——一个约12岁左右的女孩。她通过将一张面具套在脸上，逐渐变得可爱起来，展现出与她初始状态截然不同的外貌。随后，场景转移到一个女仆装的女孩小玟，她与一位名叫海少爷的年轻人之间有着微妙而复杂的互动，透露出一种关于身份认同和性别角色的探讨。故事中的女仆和海少爷的交流则带有浓厚的成人向色彩，暗示着某种性交易或心理游戏的情节，整个故事弥漫着一种非传统的性别与性别认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑萝莉会所---1-3.docx]([皮物]_黑萝莉会所---1-3
 | Size            | 30957 bytes                           |
 | MD5             | d572f8013a59609331caead33dc5dd36                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变装, 成人向, 幻想小说, 角色扮演, 心理游戏, 自我认同, 性别角色, 变身, 黑暗幻想, 女仆文化, 年龄差, 禁忌互动, 魔法, 面具, 隐秘房间, 豪华会所, 青春幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

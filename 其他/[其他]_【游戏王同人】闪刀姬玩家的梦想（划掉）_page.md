@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【游戏王同人】闪刀姬玩家的梦想（划掉）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是关于一个名为'闪刀姬'的科幻小说，其中描绘了一个2037年的未来世界，融合了卡牌游戏与高度发达的科技。在这篇小说中，少年在一次非官方比赛中败北，回到家后与他的AI管家零衣进行互动。随着情节的发展，少年通过特定的时空与空间，使用纳米技术逐渐变身为他卡组中的角色—闪刀姬露世。故事深入探讨了性别认同、角色扮演及科技对人类生活的影响。文件中提及了少年的变身过程，从采取女装到被纳米无人机改造外形和声音，再到与零衣的亲密互动，情节发展强烈，包含了一些性暗示的内容与画面，这为研究未来科技与性别表现提供了独特的视角与素材。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【游戏王同人】闪刀姬玩家的梦想（划掉）.
 | Size            | 44544 bytes                           |
 | MD5             | 47db0b0e679a3f41a717ab47020567c1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2077-01-01                                 |
+| Tags            | 性转小说, 科幻, 游戏王, AI管家, 变身, 跨性别, 角色扮演, 未来科技, 情感关系, 少年, 女装, 纳米机器人, 性的探索, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

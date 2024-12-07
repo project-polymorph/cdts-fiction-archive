@@ -7,7 +7,7 @@ TXT 下载: [[其他]_面具女友，后记篇（上）.doc]([其他]_面具女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别相关小说的后记篇，讲述了主角秦越在出狱后的回顾与内心的挣扎。故事开始于秦越因多种罪名服刑十年，出狱后对自己过去的悔恨和对亡妻洛冰的思念。在会龙公园，他的沉痛回忆中提到了与洛冰和杨梅的复杂关系，以及自己在复仇与温情间的内心挣扎。秦越在墓前痛哭流涕，面对亡妻的墓碑，回忆起与洛冰的美好时光，以及自己在年轻时的错误选择。小说同时引入苏眉这一角色，她以面具示人，双面身份引发了秦越对过往的反思以及对未来的迷茫和希望。情节深入探讨了身份与认同，回忆与现实的交错，展示了复杂的人际关系以及情感的重新建立。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_面具女友，后记篇（上）.doc]([其他]_面具女�
 | Size            | 39424 bytes                           |
 | MD5             | d029bb7a4e28c801bd6b082361649116                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 面具文化, 复仇, 自我探索, 情感纠葛, 纯爱, 悲剧, 女性视角, 剧烈转换, 身份认同, 复杂关系, 心理冲突, 探索与救赎, 失去与悔恨, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

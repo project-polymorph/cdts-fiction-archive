@@ -7,7 +7,7 @@ TXT 下载: [[变性]_花开终有时_引子+第一回.docx]([变性]_花开终�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇变性及跨性别相关的小说，展现了主要角色张然与杜德运之间复杂的情感关系及其生活的变化。故事开篇描述了在沪埠经纬酒店内发生的亲密情景，描绘了张然与一个男人之间的激烈性行为，展现了人与人之间的欲望与冲突。在后续的情节中，两位角色从对立到建立信任与情感，最终在一系列人生变故后步入婚姻。故事涉及了审判、家庭、爱情等多个元素，伴随细致的情感描写与情节的起伏。例如，张然对杜德运说：“好，我们拉钩。”，显示出两者之间的承诺与信任。整体上，这篇小说不仅涉及性别认同和转变的主题，亦反映了人物在感情与道德层面的挣扎与选取。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_花开终有时_引子+第一回.docx]([变性]_花开终�
 | Size            | 40142 bytes                           |
 | MD5             | 57112660ada331aca5106d30cd80c27b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性小说, 跨性别, 情感冲突, 家庭生活, 性别认同, 现代爱情, 自我探索, 婚姻, 亲密关系, 审判与解脱, 生活变迁, 复杂情感, 职业生涯, 药物贩运, 情感承诺, 社会问题, 二十年时光                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

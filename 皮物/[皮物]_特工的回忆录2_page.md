@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_特工的回忆录2.docx]([皮物]_特工的回忆录2.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是一本关于特工的小说，内容描述了一名年轻特工安德烈的经历与内心挣扎。他因泄密被捕，经历了一系列惊险的事件。小说展现了复杂的政治环境和他所处的神秘机构。开头提到他在庆功宴上的轻松氛围，但很快转向他被告以叛国罪，并被逮捕的阴暗情节。在被秘密带往西伯利亚军事基地的过程中，安德烈经历了身体与精神的双重改变，成为了一名生物实验的牺牲品。随着剧情的发展，安德烈发现自己在特殊的体能与精神能力上有了变化，这使得他成为了一项神秘计划的关键角色。小说通过他的视角，深入探讨了身为一名特工在道德与任务之间的挣扎，并揭示了高层对他的期望与要求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_特工的回忆录2.docx]([皮物]_特工的回忆录2.doc
 | Size            | 22967 bytes                           |
 | MD5             | 0d3315797007d95dfa7602c59e57dba7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 特工, 跨性别, 性转, 神秘组织, 政治阴谋, 生物实验, 药物改造, 身份认同, 丧失自由, 精神能力, 命运转变, 克格勃, 权力斗争, 自我探索, 逆境成长, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

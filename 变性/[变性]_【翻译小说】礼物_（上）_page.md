@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译小说】礼物_（上）.docx]([变性]_【翻�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为名为《礼物》的小说的前半部分，作者为Betty Noone，主要讲述了霍华德和他的妻子玛丽之间关于性别认同和个人秘密的情感故事。故事中，霍华德是一位曾经的中层管理者，因军费削减而失业，同时他也是一名异装癖者。尽管霍华德在婚前向玛丽承诺戒掉变装的爱好，但随着时间的推移，他发现自己无法抑制这一欲望。在孩子们上大学后，玛丽决定与霍华德谈论他的秘密，并对他表示理解与支持，甚至提议让霍华德实现成为女性的愿望，称其为“礼物”。玛丽希望霍华德能够真实地面对自己的身份，而不是继续隐瞒自己的内心需求。整部作品探讨了性别认同、自我接纳、自我探索等深刻主题，包含了挑战与爱的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译小说】礼物_（上）.docx]([变性]_【翻�
 | Size            | 60715 bytes                           |
 | MD5             | 9318cbfe92e6dbcc93e249b59d11b25f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Betty Noone                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 异装癖, 性别认同, 自我探索, 婚姻关系, 女性化, 变装, 心理冲突, 情感支持, 家庭关系, 角色转变, 跨性别, 公开身份, 性别角色, 爱与理解, 文化接受, 压力释放                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

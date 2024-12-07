@@ -7,7 +7,7 @@ TXT 下载: [[附身]_一場鬧劇（4）.docx]([附身]_一場鬧劇（4）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及变身与跨性别主题的小说，主要围绕角色李霓与楊智之间的复杂关系展开。故事描绘了李霓这一角色作为公司的总经理，她所面临的个人需求以及与员工楊智之间的微妙互动。情节中包含了李霓与楊智的调情场面，李霓主动试探楊智，同时希望彼此间保持秘密。随着故事的发展，角色之间的关系逐渐复杂，潜藏在现实与个人欲望之间的冲突和探索浮出水面。此外，文中还提到了趙哥及其他角色的参与，揭示出在公司内部发生的由权力和性别角色扮演所引发的戏剧性情节。本篇小说不仅涉及性别认同和心理冲突，还包含了一些限制级与性相关的内容，呈现出复杂的情感经历和性别动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_一場鬧劇（4）.docx]([附身]_一場鬧劇（4）.doc
 | Size            | 23105 bytes                           |
 | MD5             | ae953cc29e0c2104757c2b5412e39713                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性别认同, 调情, 秘密关系, 校园, 职场小说, 性相关内容, 复杂人际关系, 角色扮演, 隐藏欲望, 个人探索, 禁忌情感, 办公室关系, 青春爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

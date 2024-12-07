@@ -7,7 +7,7 @@ TXT 下载: [[附身]_人生体验、附身之旅.doc]([附身]_人生体验、�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于灵魂附身的小说，讲述了主角通过一瓶神秘的附身药，成功转移到了一个年轻女孩的身体中。这部小说包含了灵魂出窍和身体窃取的复杂情节，探索了身体与性别认同的主题。主角在喝下附身药后，经历了灵魂出窍的状态，并观察了另一名女性正在日常生活中行走。随着故事推进，主角逐渐意识到自己对新身体的适应，以及随之而来的心理变化和身体感受。在新的身份下，主人公内心的挣扎和对性别身份的重新认识深入展现了变身后面临的困惑和自我发现。同时，作品中也涉及了一些成人向的情节，展现了通过附身所带来的快感和兴奋。文本中不乏描写生理反应的细节，对于非传统性别表达的探索，结合了快感与角色认同的相互博弈。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_人生体验、附身之旅.doc]([附身]_人生体验、�
 | Size            | 61440 bytes                           |
 | MD5             | 4666e710adebcc5eb3f09f4c40f1ee34                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 氏裸                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身, 性别认同, 灵魂出窍, 身体窃取, 女性视角, 自我探索, 青春校园, 自慰, 性别转换, 奇幻, 二次元, 药物, 高少女, 心理描写, 变态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_为美好的世界献上身体(同人)(1~4).docx]([附身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《为美好的世界献上身体》是一部基于热门轻小说《为美好的世界献上祝福！》的同人作品，讲述了主角佐藤和真因为一次意外死亡后，被女神引导重生于一个异世界的故事。在这个异世界中，佐藤和真不仅面临着新的冒险，还与不同性格的角色相遇，包括有些傻气的魔法师惠惠和抖M骑士达克妮斯。作品的情节围绕着他与女神和同伴们的互动，展现了搞笑的场景和对性别身份的探讨。在故事的一部分中，佐藤选择通过女神的帮助，以阿克娅的身体重新开始人生，这引发了一系列发生在异世界的情感和冲突。作品包含性别转换和自我认同的问题，并涉及穿越异世界的冒险情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_为美好的世界献上身体(同人)(1~4).docx]([附身]
 | Size            | 64107 bytes                           |
 | MD5             | ec033b5a765dc86a6414b87ebb07f0b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 同人小说, 异世界, 性转, 跨性别, 搞笑冒险, 女神, 魔法, 冒险者团队, 自我认同, 重生, 脑洞大开, 性别角色, 魔法师, 骑士, 性别转换, 重生冒险, 轻小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

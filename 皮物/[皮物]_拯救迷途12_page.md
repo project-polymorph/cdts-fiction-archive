@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_拯救迷途12.doc]([皮物]_拯救迷途12.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说《拯救迷途》中的一部分，重点描绘了主角木下花音在探索渡边智子家中的秘密时的经历。故事设定在一个充满魅惑的都市，花音经过精心策划，趁机潜入智子的家。在搜寻的过程中，她通过细致的观察和勇敢的行动，发现了可能隐藏的秘密，包括一个暗藏的密室。情节逐渐揭示出复杂的人际关系和潜在的阴谋，比如渡边智子与某个名为阳太的人之间的关系和智子的死亡秘密等。文本还涉及了关于实验和人体改造的暗示，显示了角色之间的紧张关系和秘密交织。最后，花音意识到自己所面对的绝不仅仅是简单的探险，而是牵扯到了更深层次的疑惑与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_拯救迷途12.doc]([皮物]_拯救迷途12.doc)
 | Size            | 35328 bytes                           |
 | MD5             | 6590a142248f44eff6a4cb0a01431f65                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 密室, 人皮实验, 阴谋, 都市奇幻, 自我探索, 性别认同, 暗格, 秘密基地, 角色冲突, 悬疑, 女性视角, 惊悚, 探索刺激                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

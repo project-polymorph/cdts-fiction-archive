@@ -7,7 +7,7 @@ TXT 下载: [[变性]_变化日记.doc]([变性]_变化日记.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了名为李威的角色从九岁起到初中时期的个人变化日记，详细记录了他的性别认同与身份探索过程。这些第一人称的叙述揭示了他与邻居同学王美美的互动，尤其是他对女性服装和形象的渴望与探索。在日记中，他表达了强烈的对女性穿着的向往，并通过偷偷穿戴王美美的衣物，体验女性的感受。这位角色的内心斗争和身体变化，伴随着他对性别的认知不断深化，逐渐明确了他想要成为女性的愿望。日记中经常出现的关键词包括“变化”、“裙子”、“胸罩”、“变身”等，展示了他对身体、性别以及身份的烦恼与探索。文件中的内容可能含有限制级和性相关的情节，例如对性快感的描述，以及他对身体变化的欲望与幻想。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_变化日记.doc]([变性]_变化日记.doc)
 | Size            | 42496 bytes                           |
 | MD5             | c34f2aba528ed28e80bfdcd994f894c1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转小说, 伪娘, 变身, 个体探索, 性别困惑, 自我认知, 青少年成长, 性别表达, 跨性别, 情感探索, 幻想, 变嫁, 魔法少女, 穿裙子, 日记, 个人成长, 非正常性行为, 药物影响, 社会压力, 反叛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

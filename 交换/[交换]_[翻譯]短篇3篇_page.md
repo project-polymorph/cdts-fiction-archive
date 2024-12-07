@@ -7,7 +7,7 @@ TXT 下载: [[交换]_[翻譯]短篇3篇.doc]([交换]_[翻譯]短篇3篇.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含三篇关于性别交换和性别认同的短篇小说，主要围绕男女角色在特定情境下互换身体的情境展开，引发了一系列与身体认同以及性别角色相关的探讨和情感纠葛。第一篇讲述了一名男生和女生交换身体后，男生在女生的身体里经历不同生活状态的困惑与新奇，例如对身体变化的敏感感知和对异性身体的体会。第二篇则描述了一位公主与一名不良少年交换身体的奇妙体验，带出性别角色的转换对于彼此身份和社会认同的影响。最后一篇则是关于学生们轻松幽默地讨论和交换身体部位的故事，在轻松的语境中，以诙谐的方式探讨了美的认同和身体的主观感受。整个文档在诸多情节中可能涉及一些色情和性暗示内容，但整体而言更侧重角色之间的关系与认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_[翻譯]短篇3篇.doc]([交换]_[翻譯]短篇3篇.doc)
 | Size            | 40448 bytes                           |
 | MD5             | e510831dc8ecfeff3d63f052cba41a0a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 跨性别, 身体认同, 性别角色, 文化祭, 喜剧, 校园小说, 青少年文学, 身体体验, 自我探索, 伪娘, 变身, 双性别, 女性视角, 青春成长, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

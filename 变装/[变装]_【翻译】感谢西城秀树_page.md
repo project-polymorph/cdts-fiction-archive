@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译】感谢西城秀树.doc]([变装]_【翻译】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇围绕末世背景展开的科幻变装小说，讲述了主人公早乙女千绘在经历一场致命病毒疫情后的孤独生活与自我认同的故事。小说内容充满了幻想与内心挣扎，千绘在寂静的死亡城市中，她既渴望着与温柔姐姐的邂逅，又在内心深处体验着羞耻与孤独。文本中描绘了千绘穿上水手服以及她对于未来和自我的思考，反映了角色对爱的无尽向往和自我身份的探索。故事氛围混合了脆弱与渴望，同时具有强烈的情感深度与生动的细节描写。虽然故事带有色情暗示，但核心依然是对角色心理状态的深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译】感谢西城秀树.doc]([变装]_【翻译】�
 | Size            | 47104 bytes                           |
 | MD5             | 68605fe9d374bc1084f645c6e8f71986                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 森奈津子                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 末世, 科幻, 自我探索, 孤独, 性别认同, 强烈情感, 内心挣扎, 幻想, 女性角色, 水手服, 涩涩想象, 拯救, 温柔姐姐, 生存主义, 清纯处女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

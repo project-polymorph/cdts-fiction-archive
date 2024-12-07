@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_如斯女友_[.docx]([皮物]_如斯女友_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说《如斯女友》围绕着男女主角之间发生的奇幻情节展开。故事的主角因与同居女友铃的奇特发现而卷入了一场性别转换的冒险。铃从外面带回一个神秘的盒子，能通过指纹将使用者变成任何人。经过一番好奇与探索，主人公最终被铃变成了她的模样，体验了穿越性别界限的奇妙感受。在这个过程中，主人公逐渐接受并感受到了女性身体带来的新体验，故事透露出性别认同与自我探索的主题。整篇文章融合了奇幻与性别转换的元素，既有搞笑也有深思，表现了主角之间复杂的关系及其演变的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_如斯女友_[.docx]([皮物]_如斯女友_[.docx)
 | Size            | 54424 bytes                           |
 | MD5             | 31aee5d04a3de94bd1d5648da115c808                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身小说, 自我认知, 奇幻冒险, 恋爱, 奇妙体验, 角色扮演, 情感探索, 性别认同, 生活日常, 互衣, 身体探索, 搞笑, 情趣                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《全家桶》第1章觉醒.doc]([改造]_《全家桶》
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部性转小说的第一章，标题为《全家桶》，主要探讨了角色王权的经历与心理变化。故事开头描绘了王权在绝境中的绝望状态，他经历了死亡并在一种没有时间与空间的状态中获得了新生，成为一种名为公平天魔的存在，这是一种代表正义与邪恶的合一形态。随着对自身情况的理解，王权决心帮助召唤他的人苏小小，后者因面对强劲的竞争对手钟离剑而感到不公平，王权的任务是帮助她实现对抗鐘离剑的愿望。文本中也提及了苏小小的背景，她是一名孤儿，同时拥有优异的学习成绩，却因外界的压力而心态崩溃。小说中包含了诸多关于性别认同、自我认识的探讨，角色间复杂的情感关系与心理斗争也是作品的核心。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《全家桶》第1章觉醒.doc]([改造]_《全家桶》
 | Size            | 40960 bytes                           |
 | MD5             | 0e9d07ca4bc9cecbbbcc8946d37058d5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, TSF, 自我探索, 性别认同, 异世界, 变身, 情感斗争, 伪娘, 男娘, 反乌托邦, 青春成长, 权力与压迫, 成长小说, Fantasy, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

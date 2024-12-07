@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人皮世界_游戏人间_（第五章-第六章）.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是伪娘/跨性别相关小说《人皮世界 游戏人间》的第五章和第六章，主要围绕女主角艾丽莎的内心斗争以及她与未婚夫斯蒂夫之间的矛盾。故事设置在一个关于权力、性别认同和身份的复杂背景下。艾丽莎被迫适应新的生活，她体验到的不仅是身体的变化，同时也伴随着精神上的挣扎和情感上的困境。文中提到艾丽莎对自己处境的不满，特别是与斯蒂夫的冲突，暗示了她在性别角色上的转变。通过对她的情感与身份的探索，小说触及了更深层次的性别认同议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人皮世界_游戏人间_（第五章-第六章）.docx](
 | Size            | 37238 bytes                           |
 | MD5             | 086232e238e2a56c18bc852a86a59216                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 艾丽莎, 斯蒂夫, 黑奴拍卖, 身份认同, 性别角色, 情感冲突, 自我探索, 耽美, 剧情发展, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

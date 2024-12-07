@@ -7,7 +7,7 @@ TXT 下载: [[变性]_彼岸_第三幕_第六回.docx]([变性]_彼岸_第三幕
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于性别转换及跨性别主题的小说片段，故事围绕主人公林莉在经历身体和性别转变后的复杂情感与身体体验展开。文本描述了林莉身为女性后的困扰，尤其是在穿着公主裙时如厕的尴尬情景，体现了角色的自我认知与社会角色之间的冲突。在一段关键情节中，林莉遭遇到了名为威廉的角色，他以暴力和性暗示的方式与林莉进行对话，企图揭露林莉与乔治公爵之间的秘密，整个情节充满张力与性别角色的反转。小说中的情感描写极为细腻，突破了传统性别界限，呈现了复杂的人性探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_彼岸_第三幕_第六回.docx]([变性]_彼岸_第三幕
 | Size            | 32278 bytes                           |
 | MD5             | 3661e37b879822506f8a30a080751645                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 伪娘, 变身小说, 自我探索, 身体认同, 欲望与快感, 复杂人际关系, 暴力与性暗示, 现代幻想, 情感冲突, 禁忌题材, 二次元文化, 情节设定, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

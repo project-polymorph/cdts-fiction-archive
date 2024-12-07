@@ -7,7 +7,7 @@ TXT 下载: [[附身]_夺势（二）.doc]([附身]_夺势（二）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《夺势（二）》是一本科幻题材的小说，故事发生在一个荒凉的星际环境中，讲述了一群幸存者探索一艘五十年前的星际飞船的过程。小说中，青年男人和年轻女人与他们的队友在探索飞船时，遇到了许多挑战和不确定性。在探索过程中，他们发现了一台古老的休眠舱，里面睡着一位年轻的男人。随着他的苏醒，故事的发展逐渐揭示了太空的复杂性和人类情感的交织。因此，故事不仅仅涉及科技与生存的探索，还包括自我认知与性别认同的细致探讨。小说中包含大量描写，尤其是关于角色之间互动、情感的流露以及性别表现的复杂性，展示了跨性别和性别认同相关的主题。在叙述中，有关于角色的外貌、服装的详细描述以及他们心理状态和彼此关系的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_夺势（二）.doc]([附身]_夺势（二）.doc)
 | Size            | 51712 bytes                           |
 | MD5             | 7adfe59d70129242d2a7dd488db81547                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 性别认同, 自我探索, 太空旅行, 变身, 年轻男性, 幸存者, 性别转换, 未知星球, 团队合作, 医疗物资, 星际飞船, 荒野生存, 情感纠葛, 古代科技, 异世界冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

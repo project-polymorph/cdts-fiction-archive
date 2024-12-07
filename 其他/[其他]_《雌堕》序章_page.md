@@ -7,7 +7,7 @@ TXT 下载: [[其他]_《雌堕》序章.doc]([其他]_《雌堕》序章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《雌堕》的序章，讲述了一个背景深刻的故事。在朝堂之上，戏剧性的场景展开：优雅的舞女在大王面前表演，然而大王却对此表现出毫无兴趣，并且下令处死。此时，一位勇敢的谏官挺身而出，试图劝谏大王，要他自省以免亡国，却受到了大王的无情惩罚。谏官被封入死牢后，他的命运与大王的昏庸行径密切相关。随着故事发展，谏官亲眼目睹了权力的腐化与个人的无助，也面临着身体上的苦难与心理上的挣扎。此外，故事探讨了忠诚和背叛的主题，特别是在权力与欲望交织的背景下，情节逐渐引向超自然诅咒和自我认知的转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_《雌堕》序章.doc]([其他]_《雌堕》序章.doc)
 | Size            | 38912 bytes                           |
 | MD5             | 8f8b2174cc6e2a94721ed578addfff7e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 谏官, 权力斗争, 仙女, 亡国之君, 自我探索, 昏庸大王, 忠义, 诅咒, 古代, 妖妇, 绝望, 强制变身, 性别困境, 宫廷斗争, 悲剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

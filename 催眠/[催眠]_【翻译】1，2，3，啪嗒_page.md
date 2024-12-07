@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_【翻译】1，2，3，啪嗒.doc]([催眠]_【翻译】1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《1，2，3，啪嗒》，讲述了一位男性角色布莱恩经历催眠表演后的性别转变故事。故事开始时，布莱恩在家中感到一阵迷惑，拥有了女性身份贝琪的意识。文中详细描绘了角色从男性到女性的身心变化过程，以及与丈夫哈里森的关系。随着情节的发展，贝琪对于自己胸部和阴道的感知变得愈加强烈，而曾经的布莱恩渐渐消失。文章探讨了性别认同及自我认知的主题，夹杂着一系列暗示性的内容，体现出催眠与角色变换的奇特效果。虽然内容涉及敏感的性相关描写，但整体情节以角色内心的挣扎与变化为中心，营造出了一种复杂的情感氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_【翻译】1，2，3，啪嗒.doc]([催眠]_【翻译】1
 | Size            | 28672 bytes                           |
 | MD5             | 8a182b5b0eb0f48b5c04efb201edbbd1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 性转, 自我认同, 跨性别, 角色变换, 夫妻关系, 梦幻情境, 女性化, 性别认同, 情感探索, 社会角色, 心理冲突, 性别动态, 成人内容, 奇幻小说, 心理描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

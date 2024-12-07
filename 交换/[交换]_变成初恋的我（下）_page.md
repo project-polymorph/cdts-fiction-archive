@@ -7,7 +7,7 @@ TXT 下载: [[交换]_变成初恋的我（下）.docx]([交换]_变成初恋的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部涉及变身与跨性别主题的小说，讲述了角色静儿在变身过程中对自我认知与身份认同的探索。主要探讨了一名男性在经过性别转换后，作为女性静儿如何适应新身体以及对爱情与责任的反思。故事描绘了俊生的妻子晓慧温柔贤惠的形象，而静儿则在不断自我对比中体验情感的复杂性。小说中包含了许多关于女性身体感受与情感的细腻叙述，如静儿在尝试适应女性身体时的疑惑与痛苦，以及通过对晓慧的回忆与心理挣扎，展示了在变身后对过去生活的怀念和对未来的不安。特定情节中也穿插了一些与女性生理相关的描写，表达了性别身份带来的直接影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_变成初恋的我（下）.docx]([交换]_变成初恋的
 | Size            | 70652 bytes                           |
 | MD5             | d66f52fc8c6ed3d753def5ebaf36d208                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 心理探索, 性别认同, 日常生活, 女性身体, 情感关系, 婚姻, 家庭, 自我认知, 情感冲突, 强烈情感, 内心独白, 性别转换, 身份危机, 社会认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

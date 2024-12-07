@@ -7,7 +7,9 @@ TXT 下载: [[变身]_【翻译】霍莉.docx]([变身]_【翻译】霍莉.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《霍莉》描写了一位名叫霍莉的角色在午夜接到电话时所经历的奇异变身。故事开始时，霍莉被打扰的电话铃声惊醒，电话那头是一个名叫查尔斯的熟悉声音。随着对话的进行，霍莉的身体开始经历不可思议的变化——她从一个男性的身份逐渐变为女性的形象。这一过程伴随着对她新身体的探讨与情感上的波动，霍莉感受到自己在身体和心理上的双重转变。
+
+霍莉的身体变化逐步深入，描绘了她从男装到女装的显著变化，以及身体各个部位发生的巨大改变，涉及到胸部的隆起、臀部的丰满以及面容的柔化。查尔斯的语音描绘让霍莉逐渐接受这一变化，甚至对之开始感到愉悦，而对未来的探索也开始涌现——她发现自己已经结婚并即将成为一位母亲。小说通过生动的描写，揭示了性别认同和自我认知的内心斗争，以及某种程度上的渴望与接受。整篇故事充满了对身份转换的情感探讨，以及在奇幻与科幻背景下的独特精神旅程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_【翻译】霍莉.docx]([变身]_【翻译】霍莉.docx)
 | Size            | 22253 bytes                           |
 | MD5             | fe94061cd6bc22d5259701bfc8cad322                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kim Ott                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 跨性别, 自我认同, 奇幻小说, 魔法, 爱情, 孕育, TSF, 自我探索, 情感冲突, 变嫁, 婚姻, 虚拟现实, 心理变化, 性别认同, 女性形象, 夜晚变身, 电话交谈, 身体改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

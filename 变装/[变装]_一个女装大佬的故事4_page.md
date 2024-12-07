@@ -7,7 +7,7 @@ TXT 下载: [[变装]_一个女装大佬的故事4.docx]([变装]_一个女装�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了伪娘与变装主题的故事，主要围绕角色林倩和她的女友欧阳晴的日常生活展开。故事开始于两人在一起度过的早晨，林倩因昨夜欢愉而感到疲惫，醒来后准备给自己的直播间更新动态。欧阳晴则被林倩在电脑前的声音惊醒，二人开始对话，形成一种可爱的互动。随着情节发展，林倩提到想要更新自己的变装装备，这引发了欧阳晴的好奇与幻想。后续描述了两人的购物经历，尤其是与林倩的母亲偶然相遇的情节，这一突发情况给了她们带来意外的情感考验，同时也展现了林倩对自己身份的探索与认同，具有一定的性别认同讨论的潜力。文中不仅有甜蜜的恋爱情节，还有关于变装与自我认知的细腻描写，充分体现了当下二次元文化中的多元性别视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_一个女装大佬的故事4.docx]([变装]_一个女装�
 | Size            | 31937 bytes                           |
 | MD5             | 0246fe69a59f2ea84a238b66232a0ed7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 恋爱, 性别认同, 二次元, 自我探索, 欧阳晴, 林倩, 变身, 跨性别, 女友关系, 甜蜜日常, 购物街, 家庭关系, 青春成长, 同伴支持, 情感冲突, 假阴装置, 变形性质探讨, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

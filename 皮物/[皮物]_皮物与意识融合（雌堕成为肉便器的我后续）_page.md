@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮物与意识融合（雌堕成为肉便器的我后续�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《皮物与意识融合（雌堕成为肉便器的我后续）》描述了一个充满科幻色彩和性别转换主题的故事，主要围绕着名为丽莎的角色展开。在一个充满粉红色的房间中，丽莎被一种巨大的触手侵犯，享受着与触手的复杂互动。文章深入探讨了丽莎如何在这个充满幻想的世界中适应角色的变化，并涉及到一些边缘化的性主题，比如肉便器和性奴。文中提到丽莎希望能体验到比触手带来的快感还要更真实的“人类精液”，以及她对自己现状的无奈与接受。在后续的情节中，丽莎与其他角色如雪儿进行互动，包含性别认同、身体改造以及愉悦与自我欲望的探索。通过这些情节，文档体现了跨性别和性别角色流动的复杂性，并展现了角色的情感深度和相互之间的权力关系。尽管文中包含大量露骨的性描写和刺激的场景，但这些描写都是围绕着角色自我探索和快感体验进行的。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮物与意识融合（雌堕成为肉便器的我后续�
 | Size            | 48128 bytes                           |
 | MD5             | 9af2930afd9310fcee020a923b56ea26                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 触手, 变身小说, 跨性别, 肉便器, 女仆, 色情, 自我探索, 强烈快感, 精神融合, 轮奸, 性感幻想, 科幻, 幻想, 角色扮演, 性奴, 创造物化, 性交, 女性体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]【旧文新翻变装】尘埃落定.doc]([变装]【旧文
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《尘埃落定》，是对小说《Dust on the Brain》的翻译作品。故事围绕邻居汤姆和萨拉展开，汤姆因大男子主义而与女性萨拉产生冲突。萨拉试图帮助汤姆解决水管问题，汤姆却对她的帮助表现出不屑。在一次意外中，萨拉使用了一种喷雾剂使汤姆变身成为女性塔米，随之而来的是对身份和自我认知的探索。塔米在新身份下经历了一系列转变和内心的挣扎，逐渐适应新的性别身份，并最终接受了作为女性的生活。这个故事不仅探讨了性别认同的变化，也表现了自我认知、角色转换以及社会对于性别角色的期待等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]【旧文新翻变装】尘埃落定.doc]([变装]【旧文
 | Size            | 32256 bytes                           |
 | MD5             | 1713261b618ff7dd3d7726169483ac1f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Paul G Jutras                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 变装, 自我认知, 邻里关系, 喷雾剂, 身份探索, 性别角色, 意识变化, 女性视角, 爱情, 夜总会, 社交, 生活方式, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

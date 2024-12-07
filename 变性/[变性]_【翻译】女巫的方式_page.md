@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】女巫的方式.docx]([变性]_【翻译】女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件内容是一个关于莉娜与泰瑞的故事，背景设定在一个典型的高中环境中。莉娜是一个来自传统女巫家庭的普通女孩，她偶尔遭到男同学泰瑞的欺负。为了报复，莉娜施展了她的魔法，对泰瑞施下了魔咒。随着魔咒的实施，泰瑞开始改变，不知不觉中融入了莉娜的生活，且逐渐体验到了与莉娜的亲密关系，这让他开始对自己的性别和身份产生了深刻的体验和变化。泰瑞在魔咒的影响下，不仅身体发生了变化，内心的认知和感受也随之变化，逐步接受了自己新身份的矛盾与冲突。整个故事探索了性别认同、自我认知的主题，并通过魔法的隐喻展示了人们在自我探索中所经历的各种情感与真实的转变。在这一过程中，莉娜与泰瑞的关系从对立渐渐转化为一种微妙的相互吸引和理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】女巫的方式.docx]([变性]_【翻译】女
 | Size            | 35848 bytes                           |
 | MD5             | d24b698df1cdd23bfdfebe5e2e3ac8bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jennifer White                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 魔法变身, 自我探索, 校园青春, 跨性别, 女巫小说, 青少年情感, 魔法与现实, 爱情, 友情, 成长故事, 性别转换, 魔法药水, 校园故事, 童话风, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

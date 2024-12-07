@@ -7,7 +7,7 @@ TXT 下载: [[附身]_死神空间——戒指（1_).doc]([附身]_死神空间�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档名为《死神空间——戒指》，内容描述了一群初中男孩之间的争执和奇异事件的发生。故事开头展现了几位男孩的性格特征，小胖因身体肥胖而有些自卑，小蛋在母亲的高期待下感到压力，而麻子的角色则显得更加成熟和镇定。随着故事发展，麻子在一次争执中戴上了一枚神秘的翡翠戒指，伴随而来的是一股无形的力量将他和戒指的秘密联系了起来。文中提到戒指的魔力、灵魂转化以及与一位家庭主妇的复杂关系，通过丰富的细节和对比描绘出青少年对性和自我认同的探索。同时，故事描绘了成年女性和青少年之间的不当关系，内容包含多次亲密接触和性暗示，引发对性别和性欲话题的深入思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_死神空间——戒指（1_).doc]([附身]_死神空间�
 | Size            | 99328 bytes                           |
 | MD5             | 38bf902251296ad7ee7de74f75f225c0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 魔法, 灵魂转化, 青少年, 禁忌关系, 翡翠戒指, 家庭主妇, 男孩, 自我探索, 欲望, 性别认同, 精神连接, 成年人, 伦理, 幻想, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

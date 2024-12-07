@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】娘化新娘－逃亡.docx]([变性]_【翻译
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部名为《娘化新娘－逃亡》的小说，译自Angela J.的作品，讲述了一名男性角色被迫接受娘化过程并即将步入婚姻的故事。小说中的主角克里斯因接受娘化治疗而转变为女性，却始终挣扎于性别认同与社会角色的压迫之中。故事在婚礼彩排时展开，克里斯面对亲友的认可与父母的期待，内心却涌动着拒绝与困惑之情。他强忍内心的挣扎，迫于情势努力假装快乐并迎接形象上作为“新娘”的角色，而在婚礼宣誓的过程中心中不安与羞愧不断交织。他感受到的肉体反应与内心的冲突形成鲜明对比，揭示了性别身份认同与社会压迫之间的矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】娘化新娘－逃亡.docx]([变性]_【翻译
 | Size            | 42454 bytes                           |
 | MD5             | ebc2204c2cb2029e0cd94f2c0a6cd120                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 娘化, 婚礼, 性别认同, 自我探索, 家庭压力, 内心挣扎, 社会角色, 魔幻, 科幻, 爱情, 高跟鞋, 传统婚礼, 羞耻, 生理反应, 逆境逃离, 成长, 心理斗争, 虚构世界, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

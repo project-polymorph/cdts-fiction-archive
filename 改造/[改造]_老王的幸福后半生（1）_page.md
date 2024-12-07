@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老王的幸福后半生（1）.doc]([改造]_老王的幸
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《老王的幸福后半生》的第一部，讲述了在新海国蜀地蓉城的一段复杂而奇异的故事。故事开始于一个阴暗的出租屋，重达200斤的光头老王因其干儿子江河的行为而感到困惑和愤怒。在将江河捆绑后，老王心中回忆起自己五年前的奇遇：一场意外的陨石雨意外地改变了他的命运。而随着江河的渐渐恢复理智，父子间的关系也在变动中探索各自的秘密和隐私。本文涉及家庭关系、阴暗交易和自我认同的复杂交织，同时有着一定的限制级内容，含有强烈的情感冲突和性别角色的反转。老王最终意识到，在当今这个充满奇迹和恶行的世界中，他与江河的关系可能不再简单。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老王的幸福后半生（1）.doc]([改造]_老王的幸
 | Size            | 51200 bytes                           |
 | MD5             | 5711dac8afdf24d7eb7b2f9d955c9911                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 家庭关系, 父子关系, 强烈情感, 自我探索, 阴暗交易, 社会变革, 奇幻, 都市, 变装, 混乱, 血统, 爱与恨, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

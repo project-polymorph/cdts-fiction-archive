@@ -7,7 +7,7 @@ TXT 下载: [[变装]_千年女裝.doc]([变装]_千年女裝.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名年轻女性在魔王城中与被俘的魔王之间互动的小说文本。故事设定在一个充满魔法的幻想世界，情节围绕着女子用魔法束缚魔王并将其变身为一件女性化的作品。女子展示了她的魅力，通过夸张的姿态和语气迎接魔王，并逐步操控他。在这过程中，魔王虽然身处困境，但展现出不屈的个性和从容，反映出他的内心挣扎。文中详细描绘了女子如何通过各种魔法和手段逐步将男子的身体和意识转变成女性的状态，同时强调了魔王的强大和女子的制衡力。整体情节包含大量性别转化和性别认同的探索，以及对于权力和欲望的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_千年女裝.doc]([变装]_千年女裝.doc)
 | Size            | 50688 bytes                           |
 | MD5             | fc94f78fd1de833040e83dfa1e16fb2b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 魔王, 性别转化, 调教, 幻想世界, 角色扮演, 魔法, 自我认知, 伪娘, 女装, 强权恋, 肉泥, 性别认同, 反抗, 身心变化, 刺激                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

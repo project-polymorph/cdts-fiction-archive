@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无尽异能_第二十七章.docx]([附身]_无尽异能_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段伪娘 TS 变身与跨性别相关的小说文本，主要围绕角色之间的复杂情感与性别认同展开。在第二十七章中，张紫幽一行人在虚雾山探险时感知到能量波动，但发现并无遗藏。随后，情节转向宁晨与男性角色的性行为描写，表现出角色在愉悦性交过程中对法晶的渴望与性能量的探索。作品详细描绘了角色们在性行为中所感受到的快感，以及他们如何利用这一过程来提升自身的修炼。文中涉及色情内容与性行为的描写，探讨性别的流动性及角色的身份认同。在小说的尾声，角色们讨论未来的目标，展现了对权力与力量的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无尽异能_第二十七章.docx]([附身]_无尽异能_�
 | Size            | 21090 bytes                           |
 | MD5             | 4f2dc5a664b99de8a702ec262aed3af0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身小说, 伪娘, 跨性别, 异能, 虚雾山, 性快感, 修炼, 情感纠葛, 性交易, 王朝争斗, 魔法, 二次元, 情色, 女性视角, 校园幻想, 强奸, 年龄差, 多人, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

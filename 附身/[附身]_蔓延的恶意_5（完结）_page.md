@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蔓延的恶意_5（完结）.doc]([附身]_蔓延的恶�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容围绕着一个名为矢田的角色，他能够附身于其他女性角色的身体，对她们进行精神上的操控和肉体的侵犯，展现出极端的性别转变与心理操控的情节。在文件的开头，矢田通过控制青梅竹马的山吹瞳，让她处于失去意志的状态，并在过程中透露出他对相川裕树的计划。通过对女性角色的身体和意志进行侵犯，矢田展示了他能够操控他人情感与欲望的能力，并在玩弄对方的过程中表现得极具施虐倾向。相川裕树则是在强烈的愤怒和绝望中试图拯救被侵犯的对象，他的无力感和对友情的珍视表现得淋漓尽致。在整个文件中，涉及了大量的性暗示、强烈的情欲描写和对角色心理的扭曲分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蔓延的恶意_5（完结）.doc]([附身]_蔓延的恶�
 | Size            | 53248 bytes                           |
 | MD5             | a18ed610de7730988a8d45d202b50ace                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 恶意附身, 角色操控, 心理操控, 强烈情欲, 伪娘, 男娘, 崩溃与救赎, 校服角色, 禁忌之爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

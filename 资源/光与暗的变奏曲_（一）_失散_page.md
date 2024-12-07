@@ -7,7 +7,7 @@ TXT 下载: [光与暗的变奏曲_（一）_失散.doc](光与暗的变奏曲_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《光与暗的变奏曲》的小说第一章，讲述了在广袤的索米亚平原上，人族与魔族之间的激烈对抗。故事开篇便描绘了一场魔王统帅魔族对人类的威胁场景，人类士兵在面对强敌时无所畏惧，号召着神圣的力量。随着圣女的祝福，人类士兵们在战斗中恢复力量，进行反击。随后，主人公的少年希尔与他的朋友达克斯在玩耍中展现了他们的梦想与潜力。希尔希望成为一名圣剑士，传承光明女神的力量，然而他作为男孩却无法使用光明神力，面临着身份与梦想的挑战。整篇章通过希尔的视角展现了人族的团结与人性光辉，探讨了性别与身份认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [光与暗的变奏曲_（一）_失散.doc](光与暗的变奏曲_�
 | Size            | 51200 bytes                           |
 | MD5             | 1ec9fbcf4d4005bc7c150b36156f5dac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 战争, 人族, 魔族, 少年梦想, 性别认同, 光明女神, 战士, 勇气, 反击, 冒险, 圣女, 友情, 自我探索, 光元素能力, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

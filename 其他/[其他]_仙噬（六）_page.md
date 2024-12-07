@@ -7,7 +7,7 @@ TXT 下载: [[其他]_仙噬（六）.docx]([其他]_仙噬（六）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档第六章讲述了主角沈妙依的修仙经历，包含了诸多关于灵兽、法器和修炼场境的描写。在这一章中，沈妙依炼化了藏神佩和天女竹，并且经过努力修复了受损的飞剑。在一次偶然的情况下，她与一只名为‘玄火帝女鸾’的灵兽建立了亲密的联系。这只鸾鸟小巧而强大，其血脉中蕴含了远古神兽的力量，预示着主角日后的非凡旅途。文中详细描述了沈妙依如何与灵兽互动，以及在一个充满禁制的洞府中获得修炼资源与心得的过程，展现了修仙者的艰辛与追求。在获取珍贵的修仙玉简后，沈妙依得以提升自己的阵法造诣，体现了修仙界的奥秘和悬念。最后，沈妙依在阳光下的自得与轻松，也暗示了她即将展开新的冒险。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_仙噬（六）.docx]([其他]_仙噬（六）.docx)
 | Size            | 19758 bytes                           |
 | MD5             | 8d02a2327456f90bed4e4aa33852ca94                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 修仙, 灵兽, 飞剑, 法宝, 幻阵, 游戏, 奇幻, 自我探索, 女性角色, 力量象征, 角色成长, 二次元, 异世界, 神秘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

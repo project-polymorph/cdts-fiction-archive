@@ -7,7 +7,7 @@ TXT 下载: [[交换]_自由市场（中二）.doc]([交换]_自由市场（中�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘与跨性别题材的小说，讲述了主角李洋在变身为女性后，面对情感与身体身份的复杂冲突。在故事开头，李洋意图掩饰自己男扮女装的身份，试图与一个中年男子刘爹进行互动，以此获得金钱支持。然而，随着情节的发展，李洋的内心挣扎与外界的期待交织在一起，展现了对自我认同与欲望的探讨。李洋在一次次自我肯定中，逐渐感受到自身性别身份的变化与过程，并在情感上产生出对他人和自我的复杂反应。小说中包含了性别认同、自我探索、情感交织等主题，同时带有一些露骨的性描写和情节，展示了角色心理与生理的多重矛盾。它深入探讨了在性转变过程中，角色对身体的认知与对自身身份的接受，情节中虽然有色情内容，但这些都是服务于角色发展的重要组成部分。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_自由市场（中二）.doc]([交换]_自由市场（中�
 | Size            | 57344 bytes                           |
 | MD5             | c35e738cccee28b49643ac3ae4299206                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 自我认同, 情感探讨, 男性视角, 性欲, 身体认知, 复杂身份, 伪装, 个人探索, 心理冲突, 欲望, 性别认同, 角色发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

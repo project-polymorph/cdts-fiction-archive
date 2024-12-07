@@ -7,7 +7,7 @@ TXT 下载: [[交换]_神奇杂货铺（一～五）.docx]([交换]_神奇杂货
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档名为《神奇杂货铺（1～5）》，讲述了一名大学毕业生林晓的奇幻经历。他在失业后走进了一家装饰古怪的杂货铺，遇到了店主梅姐。梅姐告知他这家杂货铺不同寻常，能够满足心愿，但每个愿望的实现都要付出一些代价。在参观过程中，林晓体验了一种特殊的皮物，能够让他暂时变成一位少女，并完全融入这个角色。随着变化的进行，林晓的身体和心理都发生了深刻的转变，感受到女生的奇妙体验。在梅姐的引领下，他进入了一个情欲体验的房间，故事含有大量性感内容和性转的细节描述。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_神奇杂货铺（一～五）.docx]([交换]_神奇杂货
 | Size            | 62564 bytes                           |
 | MD5             | e27454d97da39da06af289ccce96220a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 神奇杂货铺, 性转, 伪娘, 变身, 奇幻, 成年向, 幻想, 情欲, 角色扮演, 心理变化, 自我探索, 性别认同, 奇特道具, 青春, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

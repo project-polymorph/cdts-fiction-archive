@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_他和她的实验室(楔子+第一二章）.doc]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了一部名为《他和她的实验室》的小说的楔子和第一、二章。故事围绕一个少年在一个阴暗、冷酷的实验室中被拘禁的情节展开。少年被固定在床上，意识逐渐清醒，并感到身体的不适和被限制的恐惧。在压抑的环境中，少年发现自己关在月容老师的实验室，她以一种诱惑而又暴力的方式接近他，展现了对于他的控制和占有欲。月容老师的形象被描绘得既迷人又危险，穿着紧身衣，似乎预示着即将展开的折磨与操纵。随着情节的发展，小说揭示了性别、控制和欲望的复杂主题，同时包含了一些露骨的色情描写，反映出角色间非同寻常的关系和心理冲突。这是一部涉及伪娘、变身与跨性别等主题的小说，描绘了角色心理的复杂转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_他和她的实验室(楔子+第一二章）.doc]([皮物]
 | Size            | 45568 bytes                           |
 | MD5             | 3d1a1f9907f65fc41264a42b47ee0365                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 性别认同, 自我探索, 强烈情感, 控制与欲望, 黑暗幻想, 实验室, 紧身衣, 虐待与臣服, 成人内容, 心理恐惧, 秘密实验, 性爱场景, 性别转换, 关系复杂性, 青春期困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

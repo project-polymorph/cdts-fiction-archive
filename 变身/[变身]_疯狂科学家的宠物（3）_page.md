@@ -7,7 +7,7 @@ TXT 下载: [[变身]_疯狂科学家的宠物（3）.docx]([变身]_疯狂科�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《疯狂科学家的宠物（3）》为跨性别题材的小说，主要围绕角色的性别和身份转换展开。故事通过詹妮的视角讲述了她在被科学家艾尔文变为女性后，生活在愚蠢与性欲中不断挣扎的过程。起初，詹妮感受到身体变化带来的混乱和恐惧，并逐渐适应这种新的身份，尽管她内心深处的自我认同经历了剧烈的冲突。文中描绘了她无意识地沉迷于性爱和生活琐事，而与她原本身份的记忆逐渐模糊。尤其是对达芙妮这一角色的描绘，具有丰富的情感与性别变换的象征意义，进一步探讨了人性、性欲与生理性别之间的复杂关系。情节深入探讨了顺从、身份混淆、爱情与性欲的交织，以及主人与宠物之间扭曲的亲密关系。总体而言，该文本不仅仅是色情内容的展示，还涉及了自我认同与心理冲突的复杂内涵。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_疯狂科学家的宠物（3）.docx]([变身]_疯狂科�
 | Size            | 25324 bytes                           |
 | MD5             | ec512a9544f0f4ba42b4782e9b1faf61                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 自我认同, 愚蠢荡妇, 强奸, 顺从, 性爱, 狗, 实验, 精神控制, 人际关系, 身份危机, 性欲, 心理冲突, 性别转换, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

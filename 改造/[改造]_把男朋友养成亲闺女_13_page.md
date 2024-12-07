@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_13.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于跨性别和性转的小说第十三章，主要讲述了角色阿曼达和她的上司艾普丽尔在办公室的日常互动。故事中涉及阿曼达的职场挑战以及她与同事和女儿的关系。剧中描绘了角色在伪装成母女之间的微妙情感纠葛，这种设定反映出性别认同和角色扮演的主题。文本中不乏对角色内心感受的细腻描写，如阿曼达对德里克的复杂情绪，表现出对爱的渴望与社会身份之间的冲突。人物之间的对话生动，表现了他们在职场与个人生活的相互影响，以及在家庭与职业之间的努力平衡。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_13.doc]([改造]_把男朋友�
 | Size            | 35328 bytes                           |
 | MD5             | 2afe8329f0550b2f992887cb1f8a52ee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2022-05-18                                 |
+| Tags            | 跨性别, 伪娘, 性转, 职场戏剧, 家庭关系, 情感纠葛, 角色扮演, 自我认同, 女性视角, 浪漫喜剧, 情感探索, 变身小说, 职场恋情, 爱情, 办公室恋情, 女儿女友                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

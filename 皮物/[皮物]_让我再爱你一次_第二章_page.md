@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_让我再爱你一次_第二章.doc]([皮物]_让我再爱
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为第二章的内容，继续讲述了主人公董乔在性转后以蒋允荟的身份与赵长风和他的女儿月月之间的关系。故事中，董乔在照顾月月时，对她说谎称自己是阿姨，而月月因思念生理上并不在身边的母亲蒋允荟而情绪低落，依偎在董乔身边，展现了母爱般的温馨场景。随着故事进展，董乔逐渐适应了自己的新身份，并对蒋允荟的记忆产生了深入的探索，开始体会女性的感受与身体的敏感性。文中多处描绘了董乔与自己身体之间的冲突与认知，包含了她对性别身份的探索和对母爱的理解。整章内容情感细腻，涉及了变身、性转、亲情、性别认同等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_让我再爱你一次_第二章.doc]([皮物]_让我再爱
 | Size            | 43520 bytes                           |
 | MD5             | 1183e11403947a4f446247861e8c1194                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 亲情, 变身, 母爱, 自我认同, 身份探索, 董乔, 蒋允荟, 赵长风, 月月, 情感细腻, 生理性别, 性别转换, 女性感受, 心理变化, 二次元小说, 家庭关系, 温馨, 角色扮演, 自我探索, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

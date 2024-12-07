@@ -7,7 +7,7 @@ TXT 下载: [[附身]_阴阳大法（十二）_[复制链接].docx]([附身]_阴
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及性别转变与跨性别主题的小说，主要讲述了主角在逛街过程中感受到他人关注的情景，并逐渐体验到女性身体的快感与自我认知的转变。在与友情深厚的角色王雨晴互动中，主角表现出对女性形象的适应与享受，同时也反映了性别认同、自我探索等核心主题。文中描绘了丰富的内心活动与身体感知，特别是主角在进行阴阳大法的修行过程中，展现了对美丽女性形象的追求及与生理性别的冲突。多次提及的“按摩棒”、“乳头夹”等情节则暗示了性相关的内容，且文章对快感的细致描写呈现了一种强烈的身体体验。整体上，本文件结合了幻想、性别转换与自我发现的复杂感情，适合研究性别与性向相关的文学作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_阴阳大法（十二）_[复制链接].docx]([附身]_阴
 | Size            | 21316 bytes                           |
 | MD5             | b22edb919cec849c083905395846dda3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 伪娘, 变身, 阴阳大法, 成人内容, 性快感, 女性视角, 友情, 性别转换, 幻想文学, 性相关                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

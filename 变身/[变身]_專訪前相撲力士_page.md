@@ -7,7 +7,7 @@ TXT 下载: [[变身]_專訪前相撲力士.docx]([变身]_專訪前相撲力士
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位日本前相扑力士马场淳史（改名为马场温子）变身为女性后进行访谈的记录。故事从马场温子对自己相扑生涯的回忆开始，讲述了她在男子相扑界的经历，逐渐转向她在服用女性荷尔蒙后的身体与心理变化。温子提到自己曾因脱发而参加了一项针对生发剂的临床试验，结果显著改变了她的身体特征，使她的胸部逐渐隆起，身体外形越发女性化。访谈中，温子分享了她在性别转变过程中所经历的困惑与挑战，包括被媒体围攻和职业生涯的结束。在谈及现状时，她表示自己在接受身体变化后，逐渐适应并喜欢上作为女人的生活，并透露了她参与成人影片的原因，认为自己作为女性的性欲增强。整篇访谈展现了一个关于性别认同、自我探索与身体变化的复杂故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_專訪前相撲力士.docx]([变身]_專訪前相撲力士
 | Size            | 60135 bytes                           |
 | MD5             | 26c0990b1053d97c94cbed04d188b984                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 相扑, 女性荷尔蒙, 性别认同, 自我探索, 成人影视, 药物试验, 转变经历, 心理变化, 性欲增强, 个人成长, 访谈, 性别文化, 性别角色, 性转小说, 伪娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

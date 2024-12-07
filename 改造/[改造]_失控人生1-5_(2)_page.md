@@ -7,7 +7,7 @@ TXT 下载: [[改造]_失控人生1-5_(2).docx]([改造]_失控人生1-5_(2).doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《失控人生1-5》是一部围绕性别认同、变装与角色转换的小说，该作品以第一人称视角讲述了一位程序员阿言及其女友青青的故事。阿言生活在B市，拥有一个青梅竹马的恋人青青，青年的生活平静而幸福，直到他在帮女友搬家时，意外发现了与她之间的另一个隐秘兴趣。在搬家过程中，二人关系渐渐升温，青青的好奇心促使了阿言尝试变装的想法。作品开头描绘了阿言对于女友的崇拜与爱慕，而随着剧情的发展，二人也逐步开始探索与性别、角色和性欲有关的主题。文章中涉及了不少性感、离奇的情节，如阿言在浴室内衣物湿透后不得不穿上女友的衣服，在互相大胆的玩笑和调侃中，他们的关系悄然变化。作品激发了对性别转换、角色认同以及自我表达的深刻思考，且包含了一些可能不适宜未成年读者的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_失控人生1-5_(2).docx]([改造]_失控人生1-5_(2).doc
 | Size            | 45435 bytes                           |
 | MD5             | ebefdf64a49f0a46b4ca01c11c3c85eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 跨性别题材, 恋爱, 青春, 伪娘, 角色扮演, 自我探索, 变妻, 女性视角, 都市爱情, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

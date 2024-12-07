@@ -7,7 +7,7 @@ TXT 下载: [[变性]_南希.docx]([变性]_南希.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一本关于跨性别及变性主题的小说，主要讲述了一位名叫哈利的出租车司机的双重生活。在日常生活中，哈利是一名男性出租车司机，但在个人的每个周末，他会化妆并装扮成女性角色南希，以此来寻求自己内心认同和快乐。故事详细描述了哈利如何享受成为南希的过程，他在酒吧中的经历以及与陌生夫妇的邂逅。故事中，哈利对于变成女性的渴望和他与南希的生活之间的冲突形成鲜明对比，带出了跨性别者在自我认同和社会认同中的挣扎和探索。此文内容充盈着对女性生活的向往，以及在面对自我身份时的内心挣扎。“问心无愧，享受自我”是他的座右铭，展示了对自我认同与探索过程的积极态度。随着剧情的发展，他的生活被一对吸引他的夫妻打乱，这对夫妻也引发了他对真实身份的反思与探讨。整篇小说情节丰富，充满了深刻的心理描写及对性别认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_南希.docx]([变性]_南希.docx)
 | Size            | 24702 bytes                           |
 | MD5             | 5b2dd39813039201bf3783bac0730c77                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Samantha White                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变性小说, 伪娘, 双重生活, 自我认同, 女性形象, 性别探索, 酒吧故事, 情感纠葛, 性别冲突, 自我反思, 都市生活, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [【万万没想到】万万没想到.doc](【万万没想到】万�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《万万没想到》是一篇围绕职场争斗与情感权谋的小说，表现了角色间复杂的人际关系及其心理变化。故事的开头描绘了男子李强被迫辞职的情境，办公室内的陈美欣冷傲自信，显示出她的权威与决断力。而李强则因为工作业绩良好和与总经理的关系而感到不解与愤怒，明白自己被开除的原因后，情绪失控，在公司外向陈美欣愤怒地咒骂，表现出他内心的失落与不甘。在接下来的情节中，陈美欣的强势与李强的无助形成鲜明对比，再加上关于家庭和个人价值观的描写，展示了现代职场中的人性与斗争。整个故事架构中的主要角色陈美欣，由小职员晋升为公司高管，经历了权力与人性的考验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [【万万没想到】万万没想到.doc](【万万没想到】万�
 | Size            | 48640 bytes                           |
 | MD5             | cd50377bce1bcd581b599276f790012e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 职场, 职场斗争, 情感, 权谋, 自我认知, 女性角色, 强势女性, 情感纠葛, 权力争斗, 自我救赎, 公司文化, 社会压力, 婚姻, 家庭, 心理变化, 强奸, 逆后宫, 调教, 暴力, 情感操控, 情感剖析                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

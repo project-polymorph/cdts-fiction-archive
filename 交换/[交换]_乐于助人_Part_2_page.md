@@ -7,7 +7,7 @@ TXT 下载: [[交换]_乐于助人_Part_2.doc]([交换]_乐于助人_Part_2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说《乐于助人》第二部分，讲述了身体交换的奇妙情节。主角皮特与他的邻居卡萝尔夫人、以及其母朱莉亚进行了一场复杂的身体交换。文件中描绘皮特、朱莉亚与卡萝尔夫人三人之间因交换身体而引发的各种心理冲突与性趣的变化。朱莉亚在皮特的身体内感受到前所未有的性趣，对以往保守的生活产生怀疑，同时卡萝尔夫人在朱莉亚的身体内体验到性行为的纠葛。文件包含了身体交换后带来的伦理道德问题和性别认同的探讨，以及角色们在此过程中面临的内心挣扎。尤其是朱莉亚与罗恩之间围绕交换身体产生的种种复杂情感和情节交织，展现了换身的后果及个人意识的碰撞。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_乐于助人_Part_2.doc]([交换]_乐于助人_Part_2.doc)
 | Size            | 36352 bytes                           |
 | MD5             | 956872346723b15c34bec0cfd897590f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2017-04-23                                 |
+| Tags            | 身体交换, 伪娘, 变身, 跨性别, 混乱伦理, 性认同, 奇幻情节, 性趣, 家庭关系, 心理探索, 成人内容, 魔法, 性欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

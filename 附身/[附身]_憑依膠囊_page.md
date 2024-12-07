@@ -7,7 +7,7 @@ TXT 下载: [[附身]_憑依膠囊.doc]([附身]_憑依膠囊.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是以奇幻和幻想为背景的性转故事，名为《憑依膠囊》，首发于荊棘鳥論壇。故事围绕一位高中生阿星展开，他发现了一种神秘的药物，这种药物可以让使用者的灵魂出窍并附身于他人身上。在一次偶然的情况下，阿星成功使用了这种药物，附身到了他的好友小宇的母亲林如萱身上，之后发生了一系列探索自我认同、身体与性别变化的剧情。文中详细描绘了人物之间的互动，以及阿星在女性身体中的体验和感受，包括对性别、身体的认知等，情节充满了幻想与禁忌元素。全文不仅探讨了性别认同与自我探索，还涉及了许多敏感话题，可能包含限制级内容，因此需要谨慎处理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_憑依膠囊.doc]([附身]_憑依膠囊.doc)
 | Size            | 96256 bytes                           |
 | MD5             | 052724de899129d0ea45d9c6df6bdc5e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2020-06-07                                 |
+| Tags            | 性转, 附身, 伪娘, 跨性别, 青春, 幻想, 禁忌, 自我认同, 性别探索, 情感纠葛, 药物, 二次元, 变身, 青春期, 身体认知, 家庭关系, 心理冲突, 奇幻, 都市, 黑帮, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

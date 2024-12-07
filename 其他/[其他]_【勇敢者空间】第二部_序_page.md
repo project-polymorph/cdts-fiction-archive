@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【勇敢者空间】第二部_序.doc]([其他]_【勇敢
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《勇敢者空间 第二部》是一个关于角色性别转换和自我探索的小说，聚焦于几个不同年龄和性格的人物在一个奇异的空间内进行游戏的故事。故事的主角林风，是一名24岁的男码农，被迫转变为一个6岁小女孩的形象，并成为这个游戏的系统。通过与其他角色的互动，林风需要面对角色的身份认同挑战，以及如何利用系统权限来赢得游戏。在这个故事中，角色们被赋予不同的个性标签，如懒惰、傲慢、嫉妒等，同时也展现了他们各自的动机和背景，增加了故事的复杂性。故事中涉及到一些成人情节，如性别与自我认知的冲突，以及角色们在游戏中的互动，在情节发展中融入了幽默与戏剧化的元素。总的来说，这是一部探讨性别认同、游戏化生存与角色互动的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【勇敢者空间】第二部_序.doc]([其他]_【勇敢
 | Size            | 36352 bytes                           |
 | MD5             | 5311aeb42293edec09cf2dc53611a040                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 勇敢者空间, 性别转换, 角色扮演, 系统游戏, 身份认同, 幽默, 剧情反转, 奇幻, 跨性别, 自我探索, 儿童模特, 女性角色, 复杂人际关系, 心理斗争, 二次元小说, 搞笑元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

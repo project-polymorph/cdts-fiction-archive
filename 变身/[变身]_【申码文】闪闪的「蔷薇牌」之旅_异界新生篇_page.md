@@ -7,7 +7,9 @@ TXT 下载: [[变身]_【申码文】闪闪的「蔷薇牌」之旅_异界新生
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一场发生在异界的卡牌对决小说，主要涉及性别和身份转换的主题。故事中，少年通过一种名为“蔷薇牌”的卡牌游戏，与魅魔女王莉莉丝进行了一场激烈的博弈。少年希望通过决斗不仅获胜，还能感化魔王，让彼此在幸福的氛围中理解对方。文中提到少年在对决中使用了各种卡牌，描述了少女与魅魔之间复杂的情感纠葛与自我认知冲突，从强烈的情感变化到生理上的转变，展现出丰富的想象力和梦幻色彩。例如，有一句话提到：“被召唤而来的少年相信自己一定能让魔王明白卡牌是可以带来快乐的，而不是折磨与痛苦的！”
+
+故事的背景设定在一个充满魔法和异界生物的环境中，通过卡牌游戏这一载体，探讨了性别认同、情感依附与自我价值的问题。小说的叙述涉及了许多性转、跨性别及相关主题，为二次元文化中的此类作品提供了一种独特的视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_【申码文】闪闪的「蔷薇牌」之旅_异界新生
 | Size            | 51712 bytes                           |
 | MD5             | ce6eb630015262853cb5ad86a6ac4d46                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异界, 卡牌游戏, 魅魔, 性别认同, 跨性别, 自我探索, 魔法, 决斗, 情感纠葛, 少年与魅魔, 幻想文艺, 身份转换, 伪娘, 男娘, 性转, 魔法王国                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

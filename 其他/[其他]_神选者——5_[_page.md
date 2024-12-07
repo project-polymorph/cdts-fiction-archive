@@ -7,7 +7,7 @@ TXT 下载: [[其他]_神选者——5_[.docx]([其他]_神选者——5_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容是伪娘 TS 变身与跨性别相关小说的片段，讲述了一位名叫刘星梦的42岁普通保安的奇幻经历。在一次下班回家的路上，他遇到自称使徒072的神秘生物，获得了被选为神选者的资格，并赋予了一项名为‘皮囊’的特殊能力。此能力允许他通过肢体接触将他人变为薄薄的皮囊，并能够穿戴其外貌与记忆。随着故事的发展，刘星梦内心充满了对未来的期待与恐惧，他开始思考如何利用这一能力改变自己的生活。在尝试的过程中，他的内心斗争与逐渐的转变揭示了对自我认知、性别认同与欲望的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_神选者——5_[.docx]([其他]_神选者——5_[.docx)
 | Size            | 20378 bytes                           |
 | MD5             | 064968fa2cf52427555ed86d0341d28c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 神选者, 变身, 自我认知, 能力获取, 奇幻, 都市, 心理斗争, 性别认同, 变嫁, 女性视角, 成人内容, 异世界, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（旧文拉皮重发）春梦有痕.doc]([皮物]_（旧�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《春梦有痕》是结合了伪娘、变身和跨性别等元素的网络小说，叙述了一个年轻人陈奇与邻居女孩之间的爱情纠葛。在一系列情节中，作者通过生动的描写展示了陈奇的内心活动和对邻居女孩的迷恋。故事从陈奇的独白开始，他作为一名写手，生活在大学城附近，平日里沉迷于阅读与写作，性格内向，鲜少与他人交集。然而，一个突如其来的夜晚，女孩敲响了他的门，请求一同查看她的电脑文件，随之而来的是一系列充满性暗示的对话与肢体接触，最终演变成不可思议的夜晚情缘。小说中不仅有朦胧的爱情描写，还有对性与欲望的探索，涉及到权力与接受之间的微妙关系，文字直接而不失细腻，适合喜欢相关题材的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（旧文拉皮重发）春梦有痕.doc]([皮物]_（旧�
 | Size            | 32256 bytes                           |
 | MD5             | 1685fc6734f27b9b90b51831458ee260                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 青春爱情, 邻居, 大学生活, 欲望, 性别认同, 自我探索, 跨性别, 情感纠葛, 性暗示, 成年人内容, 校园, 性转, 互动关系, 幻想, 性觉醒, 都市生活, 情感交流, 奇幻, 神秘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

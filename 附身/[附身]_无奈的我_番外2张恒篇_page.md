@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无奈的我_番外2张恒篇.doc]([附身]_无奈的我_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名叫秦沐的年轻人在休息日出门散心的故事。故事的开头，秦沐描述了早晨清新的空气和他处于疲惫状态的心情，由于最近与三位女性的激烈互动感到身心俱疲。他决定去市图书馆放松心情。在图书馆，他遇到了一位神秘的女性，随着故事的发展，秦沐逐渐发现她竟然是他一直以来的死对头张恒，经过一个奇特的变身过程，张恒变成了一个性感的女性。两人之间的互动十分戏剧化，充满了复杂的情感和兴奋，甚至令人震惊的冲突与吸引。该文本探讨了性别转换和自我认同的主题，展现了角色之间的独特关系与发展的情节，也包含了明显的成人内容和性暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无奈的我_番外2张恒篇.doc]([附身]_无奈的我_�
 | Size            | 38400 bytes                           |
 | MD5             | 660dc6e5d61a155322bb8ef2757f4c2d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 青春, 家庭, 男女关系, 多元性别, 自我认同, 人际关系, 校园生活, 爱情, 强烈情欲, 性别探索, 惊悚, 戏剧性转折, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

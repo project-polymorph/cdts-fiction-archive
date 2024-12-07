@@ -7,7 +7,7 @@ TXT 下载: [[变性]_主妇的秘密（15）.docx]([变性]_主妇的秘密（1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘、变身和跨性别主题的小说片段，描述了主角钟海逐渐接受自身女性身份的心理斗争。故事围绕钟海在整形手术后，感受到他人对自己的不同目光，尤其是一个名为李纯的人对他的新关注。通过对话和内心独白，作品探讨了性别认同与社会角色之间的紧张关系，以及主角在面对性别二元对立时的挣扎。钟海对自身女性化的反应以及他与钟海的复杂关系引发读者思考女性所面临的社会期待和压力。情节中充满紧张的情感冲突和对欲望的探索，使整个故事既有感官刺激又不乏深度。而在面对欲求和身份危机的同时，主人公在心理上是否能找到自我认同值得深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_主妇的秘密（15）.docx]([变性]_主妇的秘密（1
 | Size            | 29686 bytes                           |
 | MD5             | 4a1293a45b64201f17b158fd63b3a33e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 女性化, 欲望冲突, 身份危机, 心里斗争, 情感纠葛, 强暴                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[附身]_波多野結依的悠遊卡(倒數第四次).doc]([附身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为一篇伪娘 TS 变身与跨性别相关的色情小说，讲述了主人公在拥有了波多野结依特殊版悠游卡后，逐渐陷入一系列与她身经历相关的幻想情节。从最开始的学校场景、同学的调侃，到主人公因携带的卡片而意外引发的性幻想，文中充满了对变身与性别的困惑和探索。
+
+故事描绘了多个情节，包括主人公在众人面前展现悠游卡的珍贵，引起同学们的围观；随之而来的，是国强不堪的反应与情欲的爆发，さらに人物之间的互动转变则将整个故事推向极端。从使用悠游卡获得的次数引申出对身体的探索与控制，再到主人公幻化进入波多野结依的世界里，与张教授的密切接触，展现出多种与性及心理的复杂关系，最终归于一种性肩负和身份认同与异化之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_波多野結依的悠遊卡(倒數第四次).doc]([附身]
 | Size            | 59904 bytes                           |
 | MD5             | 1017ade78e9835670df1d3e80105bfcb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性转, 波多野结依, NTR, 学生, 偷情, 成人内容, 幻想, 强奸, 调教, 援交, 年龄差, 自我探索, 变态, 伦理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

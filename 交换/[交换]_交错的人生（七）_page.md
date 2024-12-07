@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交错的人生（七）.doc]([交换]_交错的人生（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部探讨心理问题和性别认同的小说片段，主要围绕白蔷对其儿子性别认同问题的担忧与心理医生的交流展开。白蔷发现儿子偷偷穿着她的衣服，因而寻求心理医生的帮助进行咨询。医生通过对话引导白蔷思考在多元性别背景下如何更好地理解和支持孩子的性别表达。同时，文中涉及到医生的一些隐秘行为，这导致情节发展逐渐变得复杂，涉及权力和性的交换。整体以心理咨询为主，穿插了关于性别认同与家庭关系的探讨，情节带有一定的成人向色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交错的人生（七）.doc]([交换]_交错的人生（�
 | Size            | 51200 bytes                           |
 | MD5             | b93f90014980d6ea132265d9d761d8f7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 心理咨询, 跨性别, 家庭关系, 性别表达, 伪娘, 变身小说, 性转, 强奸, 调教, 逆后宫, 百合, 变嫁, 女性视角, 心理虐待, 伦理问题, 都市, 色情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

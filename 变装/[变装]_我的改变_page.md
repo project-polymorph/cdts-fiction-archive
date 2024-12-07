@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的改变.doc]([变装]_我的改变.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于变装与跨性别主题的小说《我的改变》，作者为didiwillis，译者为露娜·埃葵斯。故事的主人公由于失业搬进了岳母的家中，开始经历了一系列的变化。在一次家庭晚餐后，妻子爱丽丝提议让主人公尝试穿上她的旧衣服，虽然主人公最初抵触，但最终屈服于妻子和岳母的劝说，开始体验女性服装的穿着。在穿上连衣裙、胸罩、内裤以及高跟鞋的过程中，主人公渐渐感受到了一种前所未有的性别认同和身体认知上的转变，逐渐对女性化的装扮产生好感。小说还描绘了主人公在妻子和岳母指导下进行变装过程中的细腻心理变化，以及后续的亲密关系的展现。整体情节涉及性别认同、自我探索，以及与异性和同性之间的复杂情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的改变.doc]([变装]_我的改变.doc)
 | Size            | 60416 bytes                           |
 | MD5             | 887aad6706a25257fa4f80b2b819f9a0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | didiwillis                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变装, 伪娘, 性别认同, 自我探索, 性转, 双性恋, 高跟鞋, 内衣, 身体认知, 家庭关系, 情感纠葛, 禁忌恋, 温柔力量, 女性化, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

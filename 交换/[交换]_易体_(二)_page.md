@@ -7,7 +7,7 @@ TXT 下载: [[交换]_易体_(二).doc]([交换]_易体_(二).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《易体(二)》，讲述了主人公汤姆-威尔逊意外被困在色情主播佐伊的身体里的故事。故事开始时，汤姆意识到自己的意识与佐伊的意识发生了交叉。由于ID芯片更新时的故障，他的意识被传输到了佐伊的身体，而佐伊的意识则回到了汤姆的身体。这个突发的变故使汤姆措手不及，他不得不面对作为女性角色的各种奇怪和尴尬的体验以及身体的变化。文中详细描写了汤姆尝试适应新身体的过程，包括看到自己新身体的样貌、寻找衣物及与周围环境的互动。文档包含着性别认同、自我探索的复杂情感，以及汤姆在控制和逆境中的心理斗争。整体上，这个故事在探索科学幻想的范畴外，还触及了跨性别与性别转换相关的话题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_易体_(二).doc]([交换]_易体_(二).doc)
 | Size            | 49152 bytes                           |
 | MD5             | e4102fdb3be0157c7b99cff2b678d080                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身故事, 性别转换, 跨性别, 自我探索, 意识交换, 性别认同, 色情内容, 科幻, 心理斗争, 女性形象, 肢体感知, 奇幻, 二次元, 女性角色, 身体变化, 内衣探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

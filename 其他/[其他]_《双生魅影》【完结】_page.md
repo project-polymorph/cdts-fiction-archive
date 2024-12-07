@@ -7,7 +7,11 @@ TXT 下载: [[其他]_《双生魅影》【完结】.doc]([其他]_《双生魅�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于詹家栋的小说，故事的开头描绘了他的家庭背景与成长历程。詹家栋是一名木匠，生活在北京的郊区，家庭原本幸福美满，但因为父亲酗酒的恶习，家庭状况急剧恶化。父亲入赘到詹家，面对来自外部的压力和对女性的传统偏见，逐渐对妻子和儿子产生了暴力与酒精的依赖。 
+
+随着外公外婆的相继去世，父亲的酗酒愈发严重，最终母亲选择离婚，詹家栋随后与继母高蓉及其女儿高晓颖一起生活。高晓颖的到来给詹家栋的生活带来了屈辱与压力，他在孤独和恐惧中发展出一种身份认同的扭曲，表现出对高晓颖的依恋以及对自己性别认同的模糊。 
+
+高晓颖的嘲讽与家庭的冷漠使得詹家栋开始模仿高晓颖的形象，为此他会偷偷穿上她的衣物，试图在化妆中找到一种存在的满足感。故事在描绘这些内心挣扎的同时，也掺杂了他在家庭与社会的生活挑战，直到他独自打工维持生计，并在家具厂找到了一席之地。故事未完待续，后来还有父亲的意外去世与继母的压迫，以及詹家栋对生活的无奈与反抗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[其他]_《双生魅影》【完结】.doc]([其他]_《双生魅�
 | Size            | 231424 bytes                           |
 | MD5             | 49c7866a110dce777e11f64683bba7d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变性小说, 家庭悲剧, 自我探索, 强奸, 校园, 心理冲突, 情感复杂, 成长小说, 男性视角, 女装, 父子关系, 都市, 家庭暴力, 性别认同, 社会压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

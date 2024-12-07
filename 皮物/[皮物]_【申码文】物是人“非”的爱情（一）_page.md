@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文】物是人“非”的爱情（一）.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于大学生周涛与刘非之间友情与成长的小说。故事发生在大学的配音专业，围绕着两名男性同学的生活以及刘非因兼职而进行的性别扮演展开。小说通过细腻的描写展现了两人之间深厚的友谊，刘非在追求梦想的同时，面临自我认同与社会角色的冲突。周涛负责照顾刘非并支持他的决定。这一切发生在他们大学毕业的关键时刻，刘非因经济原因不得不寻找兼职，而他的选择则是扮演女性去酒吧工作。故事细致地描绘了这一过程，强调了性别认同、友谊与个人梦想的相互影响。文中多次提到刘非的变化，让周涛感到震惊与困惑，同时也对彼此的理解更为加深。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文】物是人“非”的爱情（一）.docx](
 | Size            | 70602 bytes                           |
 | MD5             | d6d257e1830432581835829c599cdcda                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 变装, 友谊, 性别认同, 青春成长, 兼职, 自我探索, 陪伴, 情感支持, 大学生活, 角色扮演, 二次元, 性别转换, 配音专业, 梦想与现实, 性别表达                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

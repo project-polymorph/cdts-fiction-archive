@@ -7,7 +7,7 @@ TXT 下载: [[交换]_男孩子的我，女孩子的我.doc]([交换]_男孩子�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于性别交换和性别认同的小说，描绘了两名高中生——男孩和女孩之间奇妙的身体互换经历。故事开始时，两位同桌之间几乎没有太多交流，但一次意外的碰撞让他们互换了身体。这个情节引出了许多与性别认同、自我探索和社会互动相关的主题。在体验对方身体的同时，他们不仅要应对生活中日常的挑战，更要面对自身身份认同的问题。随着故事的发展，男孩在女孩的身体中体验到生理上和心理上的变化，包括对性欲的探索，以及与好友的互动。情节中涉及了一些敏感的性行为，表现出在性别互换后的困惑和羞怯。故事以幽默和略显尴尬的方式反映出青春期少年的成长与自我发现，既有趣又引人深思，值得一读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_男孩子的我，女孩子的我.doc]([交换]_男孩子�
 | Size            | 48128 bytes                           |
 | MD5             | d5e02f6b909fa5b7c8b1d236a217060d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 跨性别, 自我探索, 青春期, 性认同, 伪娘, 性别认知, 女体化, 高中生活, 青少年心理, 性欲探索, 友情, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

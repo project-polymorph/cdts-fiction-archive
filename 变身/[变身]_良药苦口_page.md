@@ -7,7 +7,9 @@ TXT 下载: [[变身]_良药苦口.doc]([变身]_良药苦口.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档呈现了一部名为《良药苦口》的变身小说，讲述了主人公樱泽三郎在追求帅气形象与自我认同之间的探索。故事围绕樱泽三郎的日常生活展开，他是家中的长子，面临着自身外貌与性别认同的困惑。一次偶然的机会，他在化学部的朋友那里获得了一种神秘的变身药水，可以让他实现变成帅哥的愿望。这种药物伴随了一系列微妙的身体变化，但主人公在使用前需要考虑它的不可逆性带来的后果。
+
+整部作品通过樱泽三郎的内心独白和与好友的互动，展现了他对自我形象和家庭关系的思考。语言幽默风趣，情节引人入胜，使得这部小说不仅充满了变身元素，还包含了关于性别认同与自我探索的深刻主题，是一部具备二次元特色的性转变身小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_良药苦口.doc]([变身]_良药苦口.doc)
 | Size            | 159744 bytes                           |
 | MD5             | d805c4d1d7a807d6868374b46b7c042b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 岚山ＧＯ                               |
+| Region          | 未知                               |
+| Date            | 2022-02-27                                 |
+| Tags            | 变身, 性别认同, 青春成长, 自我探索, 校园生活, 科学幻想, 奇幻, 药物变身, 伪娘, 性转, 兄妹关系, 幽默, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

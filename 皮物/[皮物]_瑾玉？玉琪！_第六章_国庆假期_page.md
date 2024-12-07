@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_瑾玉？玉琪！_第六章_国庆假期.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别主题小说《瑾玉？玉琪！》的第六章，描绘了角色在军训结束后与好友之间的情感交流。故事从教官的离别开始，展示了角色们的情感波动，尤其是玉琪在身份转变后对教官的不舍。随着国庆假期的到来，角色们决定一起外出游玩，缓解刚才的伤感。在欢乐谷的过山车游玩过程中，玉琪的声音意外暴露了她的真实身份，引发了一系列紧张和幽默的场景。人物之间的互动体现了友谊和复杂的情感，包括对于性别认同和自我形象的探索。整体情节轻松幽默，却也不乏深刻的自我认知材料。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_瑾玉？玉琪！_第六章_国庆假期.docx]([皮物]_�
 | Size            | 27643 bytes                           |
 | MD5             | 812bd6c0de13aec27c4a4f7bed89dbd0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身小说, 青春爱情, 友谊, 国庆假期, 欢乐谷, 角色转变, 自我认同, 情感交流, 过山车体验, 校园生活, 男性视角, 女性形象, 心理成长, 青春烦恼, 虚拟与现实, 性别认同, 二次元, 搞笑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

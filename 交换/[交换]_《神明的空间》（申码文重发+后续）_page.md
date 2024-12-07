@@ -7,7 +7,7 @@ TXT 下载: [[交换]_《神明的空间》（申码文重发+后续）.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部围绕性别变换和末世生存主题的小说，故事设定在一个被病毒席卷的末世，角色面临生存的重重考验。故事的主角梓洛居住在H城，这是一座在病毒蔓延中仍能维持运作的城市，城内人民依靠其他城市的补给维持生存。故事开篇描绘了一种病毒在S国的爆发，决策者们试图封锁城池但仍然无济于事。接下来的情节围绕梓洛的委屈与困扰展开，他不仅需要应对恶劣的生活条件，还有他妹妹的重病急需治疗。为了解决经济问题，他捡到了一个石头并卷入了一场关于交换的游戏，游戏中不仅涉及到财富的获取，还有可能的身体变化和自我认知的挑战，尤其在他赢得一局后经历了身体变换的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_《神明的空间》（申码文重发+后续）.doc]([�
 | Size            | 244224 bytes                           |
 | MD5             | 8a92ddcc2731cef940942199e94b4053                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 末日, 病毒, 生存斗争, 性别变换, 异能, 神秘游戏, 角色自我认知, 经济危机, 家庭关系, 超能力, 现实与梦境, 女体化, 血腥暴力, 自我探索, 人生选择, 奇幻冒险, 变身, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

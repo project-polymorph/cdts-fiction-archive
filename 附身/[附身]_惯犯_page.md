@@ -7,7 +7,9 @@ TXT 下载: [[附身]_惯犯.docx]([附身]_惯犯.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述的是一个名为陈明的角色，他因借债而身处困境，最终提出一种极端的还款方式，即用他的妻子王琳的身体来偿还债务。故事开始时，陈明四处借债，总额已经超过300万元，法院无能为力，债主们开始围攻他。为了逃避责任，陈明提出了一份协议，声称如果债主们签字，同意他的还款办法，他的妻子可为每位债主提供一天的陪伴，价格高达10万元。部分债主对此表示认同，开始在协议上签字，而王琳对此毫无知情。
+
+随着故事推进，王琳发现自己的身体被迫卷入陈明的计划中，第一天发生了令她愤怒与羞辱的事情。虽然一开始十分愤怒，但在某个时刻，这个被强迫成女性的角色也开始体验到身体的感觉，逐渐迷失于新的感受中。女主在洗澡时发现身体的快感逐渐让她重新审视一切，结果面临着自我认同与欲望的冲突，伴随而来的是对自己身体的新体验。故事富含成人内容，涉及性别转变、心理冲突以及违反社会规范的情节，展现了在极端情境下的复杂人际互动与心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_惯犯.docx]([附身]_惯犯.docx)
 | Size            | 42114 bytes                           |
 | MD5             | 9946a867493b96a1b91da025ef95b3d1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 伪娘小说, 债务危机, 身体交换, 强制性行为, 成人内容, 自我认同, 心理冲突, 情色小说, 戏谑, 社会伦理, 爱情与欲望, 性别认同, 变身, 幻想小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

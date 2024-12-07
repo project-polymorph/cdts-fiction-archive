@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【新年贺文】高贵的骑士与漆黑的魔女（上�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一名高贵骑士与漆黑魔女之间的故事。故事开始于骑士与众多操控的人偶士兵作战，骑士意识到只有击败魔女才能解决眼前的困境。在经历了严峻的战斗之后，骑士成功地来到了魔女的居所，却意外地被魔女以美貌和亲密的言辞诱惑，希望求婚。魔女的胸前丰满，外表妖艳，与她的黑色裙子形成鲜明对比，得以展现出一种魅惑的气质。尽管骑士被这些吸引力所困扰，但他明确坚守好友与被变成石头的人的信念，拒绝了魔女的提议，并准备与其展开更为激烈的战斗。整个故事涉及性别认同与自我探索，描绘了魔女的狡诈与骑士的坚定，也暗示着一场关于心智和力量的斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【新年贺文】高贵的骑士与漆黑的魔女（上�
 | Size            | 92672 bytes                           |
 | MD5             | de70c23cc0bbf0f314c075e13734c4db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 骑士, 魔女, 变身, 求婚, 战斗, 自我探索, 性别认同, 黑暗幻想, 强烈对比, 心理战斗, 二次元, 妖艳角色, 混沌, 魔法, 爱情, 幻想小说, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_TG联盟【Ⅲ】，赵明镜的故事.doc]([其他]_TG联
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《赵明镜的故事》的小说，内容围绕主人公赵明镜展开，涉及他的家庭背景、童年成长经历以及与同学的相处故事。赵明镜出生在一个官宦家庭，其爷爷因早逝而留下的影响深刻，故事中通过赵明镜对爷爷的记忆，展示了他对黑暗的恐惧和爷爷的教导之间的矛盾。此外，文件中还描写了赵明镜在小学期间与同学小胖的互动，初次探讨性别认同与情感的困惑，以及他进入一所重点中学后的生活，特别是加入合唱部的经历。小说在细腻的笔触中探索了主人公在青春期的迷惘与成长，及其与同龄人之间的相处与竞争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_TG联盟【Ⅲ】，赵明镜的故事.doc]([其他]_TG联
 | Size            | 52224 bytes                           |
 | MD5             | 41953a23b2db122e53089983f9f739f0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 成长故事, 青春期困惑, 校园生活, 家庭关系, 跨性别, Cosplay, 伪娘, 友情, 竞争, 音乐合唱, 学习压力, 情感发展, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

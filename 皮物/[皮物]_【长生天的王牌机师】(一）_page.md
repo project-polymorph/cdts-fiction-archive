@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【长生天的王牌机师】(一）.doc]([皮物]_【长
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及伪娘、变身与跨性别主题的小说情节，描绘了角色x在一个人造基地环境中的生活与心理挣扎。在故事开头，角色x置身于高大的人工山脉乌孙山顶，享受着周围的美景，但却心中惦念着在怪物进攻中走失的女友，展现了他内心的孤独与不安。小说通过x与战斗人偶红原的互动，探讨了性别身份、角色控制与存在意义等主题。作为堆积的情节，x在与红原的交流中，感受到战斗的压力与存在的虚无。每次的情感与肉体的冲突都引导着他走向自我探索之路。文本中还有场景描绘战斗能力的展示，融入了强烈的幻想元素和一些明显的成人情节，暗示了发誓要摧毁敌人的决心与情绪的激烈。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【长生天的王牌机师】(一）.doc]([皮物]_【长
 | Size            | 45056 bytes                           |
 | MD5             | 758b993ea1f983d9d006a89c9f0e3426                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 自我探索, 失落, 怪物, 战斗, 控制, 虚拟现实, 情感冲突, 火焰, 科技幻想, 强势控制型, 心理挣扎, 深层次探讨, 未来世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

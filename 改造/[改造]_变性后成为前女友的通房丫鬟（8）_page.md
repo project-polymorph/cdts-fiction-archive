@@ -7,7 +7,7 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（8）.doc]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇涉及伪娘和跨性别主题的小说内容，描绘了角色在性别转换后的复杂情感与自我认知。我在与前女友阿苹重聚时，化身为她的通房丫鬟。故事的开头，我身着性感暴露的女装，情感与身体的认同面临冲突。在故事中，两人之间的关系从昔日恋人转化为主仆关系，展示了身体与权力转变的主题。小说内容包含大量羞辱与调教元素，阿苹不断地对我进行性别认同上的指导与身体上的要求，令我一方面感到羞愧无比，另一方面又渴望被她支配。小说情节细腻而大胆，深入探讨了伪娘在情感与性别认同上的复杂体验，且涉及强烈的性暗示和性行为，诸如自慰、淫荡等描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（8）.doc]([改�
 | Size            | 37888 bytes                           |
 | MD5             | ad13ecc654262c572c4adab9467ca573                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变性, 跨性别, 女装, 调教, 性转, 强烈性暗示, 自我认同, 同性恋, 情感纠葛, 通房丫鬟, 强奸, 年龄差, 淫荡, 多角关系, 暴露衣物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

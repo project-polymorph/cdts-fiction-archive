@@ -7,7 +7,7 @@ TXT 下载: [[交换]_[翻译]乐于助人—Part1.doc]([交换]_[翻译]乐于�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《乐于助人》带给读者的是一个关于多重身体交换的短故事。故事围绕26岁的程序员皮特展开，他在一个本应该悠闲的周六，接到了母亲朱莉亚的请求。朱莉亚和邻居卡萝尔夫人利用一种叫做换身术的能力，试图让皮特陪同他们去见一位名为罗恩的男性。朱莉亚向皮特解释，她和卡萝尔夫人已经交换了身体，这让皮特感到既惊奇又好奇。随着剧情的发展，皮特最终决定与卡萝尔夫人交换身体，并在全新的身体中探索极为陌生的体验，甚至体验到了女性的高潮。故事融合了性别认同、自我探索、以及带有轻微情色元素的多重身体交换的主题。整体而言，作者探索了对自我意识、性别与欲望的奇妙理解与感知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_[翻译]乐于助人—Part1.doc]([交换]_[翻译]乐于�
 | Size            | 33792 bytes                           |
 | MD5             | ae03c62070eb01a21001af22f63c6195                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 换身术, 性别认同, 自我探索, 电子编程, 家庭关系, 多重身体交换, 奇幻, 现代都市, 色情, 性高潮, 男性视角, 女性视角, 母子关系, 跨性别体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

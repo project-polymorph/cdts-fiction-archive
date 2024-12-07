@@ -7,7 +7,7 @@ TXT 下载: [[交换]_圣骑士的失败4.doc]([交换]_圣骑士的失败4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部有关性转与跨性别主题的小说，名为《圣骑士的失败4》。故事围绕角色卢西奥展开，她是一名神圣骑士，在情节中遭遇身心的双重转变，变为一名女性黑暗精灵。随着情节的发展，卢西奥体验到了深刻的羞辱与屈辱，成为了莉莉安的性奴隶。文中详细描绘了她在极端情况下的心理斗争和对身份的困惑。尤其在被迫接受与莉莉安的性行为时，卢西奥的内心充满了矛盾感与痛苦的快感。随着她被囚禁，她面临着更为极端的命运，包括被可怕的触手怪物侵犯。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_圣骑士的失败4.doc]([交换]_圣骑士的失败4.doc)
 | Size            | 40448 bytes                           |
 | MD5             | 367da605fd320d16a5a58a45a5879ac0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, TS, 奴隶, 情色, 强奸, 屈辱, 黑暗精灵, 触手, 性感束缚, 自我认同, 角色扮演, 自我探索, 魔法, 女性形象, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

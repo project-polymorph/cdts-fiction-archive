@@ -7,7 +7,7 @@ TXT 下载: [[变身]_人体泥塑.docx]([变身]_人体泥塑.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是一部跨性别及变身小说的叙述，围绕着一位男性角色在酒店的一次奇妙相遇而展开。在阳台上，角色感受到惬意的海风和香醇的美酒，接着一个名叫马尔科姆的陌生人出现，指出他内心深处的愿望：想成为女人。故事通过角色的心理斗争，与他对自己性别认同的探索，描述了他从孩童时代起对女性的向往和追求。随着故事的发展，马尔科姆向他展示了能够实现这一愿望的能力，包括对人体进行重新塑造的奇异天赋。在这个过程中，角色感受到身体的变化，体验一种矛盾而复杂的情绪。同时，文中涉及了一些限制级内容，包括性别转换和身体改造的情节，探讨了自我认同和性的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_人体泥塑.docx]([变身]_人体泥塑.docx)
 | Size            | 25935 bytes                           |
 | MD5             | 31be5fa93b6a136cf1f00026f100e422                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 人体改造, 自我探索, 性别转换, 变嫁, 变装, 女性化, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

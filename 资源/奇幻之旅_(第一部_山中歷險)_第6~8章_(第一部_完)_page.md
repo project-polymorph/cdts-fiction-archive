@@ -7,7 +7,7 @@ TXT 下载: [奇幻之旅_(第一部_山中歷險)_第6~8章_(第一部_完).doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件摘录自《奇幻之旅》第一部的第六至八章，主要描绘了一场以女性角色为主的比赛活动。竞赛的规则涉及到角色在比赛中的体现、创意及其表现分数，伴随而来的是对于每位参与者形象的评审和潜在的惩罚措施。故事中的参赛者于比赛前将自己的‘女士’角色准备妥当，与其他参赛者竞争。文中提到道出当衍生的规则不仅令参与者面临分数的加减，也存在着被强制惩罚的可能性，情况严峻。特别是对于“孕妇”角色，她不仅因为装备不足而违反了规则，最终被迫经历浣肠的情节，展现了故事对于角色自我认知和身体隐私的侵犯，加深了情节的矛盾与冲突，探讨了痛苦与愉悦的交织感受。整段文字在营造特定的比赛氛围的同时，一定程度上传达出对权力、性别认同的深层次批判。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [奇幻之旅_(第一部_山中歷險)_第6~8章_(第一部_完).doc
 | Size            | 76288 bytes                           |
 | MD5             | a067549228ebe9202ce3f40c1099cd1d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 竞赛, 女性角色, 痛苦与愉悦, 权力关系, 生理转变, 角色扮演, 性别认同, 比赛规则, 强制惩罚, 幻想, 极限体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

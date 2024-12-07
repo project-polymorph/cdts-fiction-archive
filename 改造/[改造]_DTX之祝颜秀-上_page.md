@@ -7,7 +7,7 @@ TXT 下载: [[改造]_DTX之祝颜秀-上.doc]([改造]_DTX之祝颜秀-上.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档涉及一个名为"祝颜秀"的节目，其中主持人祝颜与两位嘉宾张曼和叶琳进行对话。节目中揭示了张曼和叶琳的关系，尽管她们的外貌几乎相同，实际上她们并非双胞胎，而是一对夫妻。两人通过医学手段改变了自己的外形，原本希望能有一个孩子，因此进行了身体上的改善。张曼讲述了她们最初的渴望和经历，并表示这种变化不仅改变了外表，也改变了她们的性格和自信心。对话中还提到了她们的工作背景和教育经历，突显出她们在面对外界认知和自我接纳上的过程。整体呈现了性别认同与生理性别之间的复杂关系，以及社会对跨性别及变性人的多样化理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_DTX之祝颜秀-上.doc]([改造]_DTX之祝颜秀-上.doc)
 | Size            | 50176 bytes                           |
 | MD5             | 8cc50c1a40e73abcaad626ae1520eb91                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 医学美容, 自我认知, 夫妻关系, 变身小说, 性别认同, 身体改造, 自我探索, 外貌变化, 人际关系, 情感发展, 二次元, 多元性别, 媒体节目                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

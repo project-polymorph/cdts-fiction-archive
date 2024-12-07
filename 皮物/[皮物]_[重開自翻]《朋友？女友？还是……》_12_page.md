@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_12.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说《朋友？女友？还是……》第12章的内容。从文件内容来看，该章节主要围绕角色真一与其领队的对话展开，涉及演艺训练和角色扮演的主题。真一似乎是一名优秀的训练生，但他对实战经验的缺乏表示不满。在与领队的对话中，真一表现出一种对学习和了解自身不足的渴望。领队提及真一在后勤工作中的表现以及他作为人形模特的独特性，这可能暗示着对于角色理解和演绎的重要性。在对话中，领队提出了让真一猜测角色身份的计划，这种互动展现了角色之间的关系以及潜在的竞争与合作。整篇文章情节复杂，包含对角色性别与身份的探索，适合对跨性别题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_12.docx
 | Size            | 29171 bytes                           |
 | MD5             | 49e71737c9cf531d94c830cf2213a13b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 角色扮演, 性别认同, 变身, 训练生, 演艺行业, 人形模特, 自我探索, 实战经验, 领队与学员                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

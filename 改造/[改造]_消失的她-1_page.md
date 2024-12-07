@@ -7,7 +7,9 @@ TXT 下载: [[改造]_消失的她-1.docx]([改造]_消失的她-1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《消失的她》，描述了一场发生在泰国边境城市大其力的会所中的人妖秀表演。文章通过细致的描写展现了舞台上两只美丽的‘小蝴蝶’的翩翩起舞，以及观众对于表演的惊奇反应。文中讲述的会所背后暗藏着缅北军阀的势力，以及与色情生意相结合的复杂社会背景。
+
+细节描写中，作者提到了一名被固定在摇摇板上的华裔女性，与另一个男性朋友的对话与互动揭示出对于女性贬低的潜意识。文章内容涉及性交易、变嫁与伪娘的主题，深入讨论了身体的物化和人性尊严之间的对立。文中提到的道具和角色的设定，带给观众复杂的感受和深思，表现了对多元性别及性别认同的探讨，充满了争议和挑战传统观念的色彩。由于内容含有明显的成人向描写，适合在科学研究与学习的框架下进行分析与探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_消失的她-1.docx]([改造]_消失的她-1.docx)
 | Size            | 20200 bytes                           |
 | MD5             | 7b9ae66fc328121701c68b6ff7a9d884                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 成人内容, 人妖秀, 心理操控, 身体物化, 性别认同, 趣味表演, 商业化性交易, 异国情调, 残酷现实, 自我认知, 性欲探索, 社会禁忌, 人性观察                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

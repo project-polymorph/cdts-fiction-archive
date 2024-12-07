@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（免费）错乱（一）（1，2章）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说是伪娘与变身题材的结合，主要围绕着角色林寒和他所附身的尹小乔之间的复杂情感以及性别认同的探讨。故事开头，主角余笑因航空事故感到心痛，失去了至亲小乔，情感挣扎中，他灵魂意外附身在小乔的身体上。小乔其实设定为男主角余笑心中深处的那个人，她在故事进展中并不是真正的女性，而是在外形和身份上感受到了巨大转变。小说探索了性别归属、认同与自我意识，以及现代剧情中的心理冲突。随着情节的发展，林寒对于自我认知的挣扎愈发明显，反映出性别转换带来的身份危机。作品深入探讨了角色间的情感纠葛与自我探索，是一部充满幻想与现实交织、情感深邃的变身小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（免费）错乱（一）（1，2章）.doc]([皮物]_�
 | Size            | 43520 bytes                           |
 | MD5             | 9d8872dae3a793706f906367b8c469a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 自我认同, 精灵使, 附身, 情感纠葛, 心理冲突, 现代生活, 非人化, 身份危机, 奇幻, 剧烈情感波动, 男性视角, 青春成长, 孤儿院                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

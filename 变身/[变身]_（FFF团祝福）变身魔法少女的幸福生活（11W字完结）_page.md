@@ -7,7 +7,7 @@ TXT 下载: [[变身]_（FFF团祝福）变身魔法少女的幸福生活（11W�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于魔法少女与怪物对抗的变身小说。故事开篇描绘了一个被血色荒原笼罩的世界，残酷与绝望充斥着环境。四位充满自信的少女正面对一场与人形生物的激烈战斗，展示出她们的勇气与决心。小说通过角色之间的互动展现友情与信任，例如角色蒂娜的勇敢与同伴的彼此支持。在紧张的战斗过程中，故事不断提升悬念，巧妙运用诸如魔法加持与战斗策略等元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_（FFF团祝福）变身魔法少女的幸福生活（11W�
 | Size            | 372736 bytes                           |
 | MD5             | 0a4514c5788e64367ca3332b89be2e0a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 变身, 战斗, 友情, 自我认知, 怪物, 女性角色, 灵力, 魔法, 力量, 勇气, 信任, 千娇百媚, 二次元, 生死考验, 未来世界, 血腥                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

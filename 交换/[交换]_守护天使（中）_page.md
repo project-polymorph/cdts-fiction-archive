@@ -7,7 +7,7 @@ TXT 下载: [[交换]_守护天使（中）.doc]([交换]_守护天使（中）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一本关于伪娘（TSF，变身）的小说，讲述了一个名叫马库斯的角色与其守护天使安琪尔之间的故事。故事围绕马库斯的身份转变展开，在一次意外中，马库斯的身体被他的天使守护者安琪尔所占据，二者之间的灵魂互换引发了一系列自我认同和心理适应的问题。安琪尔在故事中表达出了对马库斯的关心和爱意，同时也透露出她在执行保护职责时的痛苦和无奈。马库斯在逐渐接受自己作为天使身体的事实的过程中，感受到身体的改变以及所附带的新的能力，但也在与安琪尔的相处中感受到纠结和困惑。通过他们的对话和互动，探讨了性别认同、自我探索等复杂主题。文中涉及到身体变化的描写以及对天使力量的探讨，极具引人入胜的幻想色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_守护天使（中）.doc]([交换]_守护天使（中）.
 | Size            | 36352 bytes                           |
 | MD5             | 2781091f8468e3c9bce829cac5c98c52                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 天使, 自我认同, 性别转换, 爱情, 奇幻, 灵魂交换, 角色成长, 二次元, 心理探索, 幻想文学, 天使与凡人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

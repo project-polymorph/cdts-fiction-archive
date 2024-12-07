@@ -7,7 +7,7 @@ TXT 下载: [[变性]_幸运还是不幸的我-1.docx]([变性]_幸运还是不�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于变性主题的小说，主角江宣是一个面临性别身份认同危机的年轻人。故事通过江宣的内心独白，描绘了他自卑的成长历程和对自身身份的不满。江宣和与自己有着密切关系的双胞胎妹妹江蕙一同被一对收养父母抚养长大，但由于养父母的偏爱和他的性别身份，使得江宣感到自己在家庭中的孤立与不被重视。随着时间的推移，江宣对自己作为男性的身份的厌恶愈加严重，开始寻求药物来抑制身体的男性化过程，内心充满困惑与挣扎。小说中还涉及了他与班上同学李延平之间的互动，在面对校园暴力及自我认同的同时，他们的关系逐渐发展。整个故事通过细腻的心理描写和生动的情节展现了复杂多元的性别认同主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_幸运还是不幸的我-1.docx]([变性]_幸运还是不�
 | Size            | 27013 bytes                           |
 | MD5             | 96539e4b0214e13899e3db26e00e11ad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变性, 自我探索, 药物治疗, 校园生活, 自卑, 成长, 家庭关系, 双胞胎, 职场目标, 男友, 跨性别, 暴力, 情感, 心理冲突, 人际关系, 孤独, 认同危机, 社会偏见, 生活困境, 青春期, 爱与挣扎, 伪娘, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

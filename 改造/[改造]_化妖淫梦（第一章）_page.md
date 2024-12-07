@@ -7,7 +7,9 @@ TXT 下载: [[改造]_化妖淫梦（第一章）.doc]([改造]_化妖淫梦（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《须眉化妖》的番外篇，内容主要围绕主人公王小凌与一名女性角色李晓兰的互动。故事开头详细介绍了主要角色的外貌、性格与背景，王小凌年龄11岁，外向阳光，而李晓兰则是一名34岁的销售经理，性格泼辣而温柔。该文根据设定的丰富人物背景，逐步展开故事情节。在情节发展中，涉及了一些时事新闻的讨论，包括涉及人口贩卖的丑闻，以及一个跨国制药公司的危机。同时，文件中掺杂了一些带有情色暗示的场景，探讨角色之间关系的复杂性。
+
+文中提到冯兰克林与女仆在权力与性欲的交织下的互动，显示出故事暗含的成人向情节。王小凌在屏幕前目睹母亲在调制神秘药水时，表明了情节向较为敏感的内容进展，其中带有心理悬疑的特征。整个故事通过环绕角色的心理变化与外部冲突，深刻展示了性别、权力和身份认同之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_化妖淫梦（第一章）.doc]([改造]_化妖淫梦（�
 | Size            | 49664 bytes                           |
 | MD5             | 3e59f5725957735d56977cd1425c9d98                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 情色, 权力, 性别认同, 自我探索, 都市, 心理悬疑, 情感纠葛, 王小凌, 李晓兰, 成人向, 国际刑警, 药物实验, 性启蒙, 暗恋, 阴谋论, 情感虐待                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

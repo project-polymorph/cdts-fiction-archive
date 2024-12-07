@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【翻译】一位很酷的阿姨.docx]([附身]_【翻译
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一部名为《一位很酷的阿姨》的性转小说的内容。故事围绕主角马尔科姆·威尔克森，一个普通的18岁高中生，他与自己非常酷的阿姨珍妮之间的互动。珍妮阿姨是一位31岁的单身女性，具有自由散漫的性格，与马尔科姆的母亲截然相反。故事的开头，马尔科姆因无法参加他和朋友期待的乐队演出而闷闷不乐。过程中，他向阿姨求助，希望她能帮他弄到假身份证。珍妮阿姨则提到了一些涉及魔法的古老戒指，可以让人占据他人的身体，展开了她与马尔科姆母亲年轻时的秘密。这些魔法与变身的主题使得故事充满了幻想色彩，过程中涉及到一些关于性别认同、自我探索和道德边界的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【翻译】一位很酷的阿姨.docx]([附身]_【翻译
 | Size            | 58855 bytes                           |
 | MD5             | 92e2fb84a2ce32e81c92280504bda8b6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | BluePossession                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 魔法, 自我认知, 跨性别, 家庭关系, 青少年, 哥特风格, 古代传说, 身份交换, 冒险, 禁忌, 秘密, 现代都市, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

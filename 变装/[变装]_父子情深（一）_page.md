@@ -7,7 +7,7 @@ TXT 下载: [[变装]_父子情深（一）.docx]([变装]_父子情深（一）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件的内容是一个名为《父子情深（一）》的变装小说，描写了少年托德与父亲迈克尔之间的故事。故事开始时，托德与父亲开车前往一个神秘的活动地点，父亲似乎精心安排了一项‘惊喜’的活动。托德由于没有见过母亲，跟随父亲长大，父子关系非常亲密。文中描述了两人在旅途中的互动与情感交流。随着故事的发展，托德了解到他们所在的活动实际上是一个‘父子舞会’，在舞会上，所有的父亲们都打扮成了女性的形象，引起了孩子们的惊讶与欢呼。整个活动的气氛既充满温情又带有愉快的幽默感，同时也探讨了父子之间的深厚感情以及父亲为了儿子所做出的努力和变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_父子情深（一）.docx]([变装]_父子情深（一）
 | Size            | 22848 bytes                           |
 | MD5             | cd1055f711ae4b786914da2de933174a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 父子情, 温情故事, 跨性别, 性别认同, 自我探索, 舞会, 家庭关系, 情感交流, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

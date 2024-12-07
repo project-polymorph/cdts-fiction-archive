@@ -7,7 +7,7 @@ TXT 下载: [[交换]_守护天使（上）.doc]([交换]_守护天使（上）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于马库斯·里德的小说，讲述了他在一次极限运动蹦极跳中经历的刺激与危险。在朋友的陪伴下，马库斯怀着兴奋的心情准备跳下去，但当他跳入河流时，由于突如其来的强风，他差点遭遇重大事故。在经历了一轮刺激与惊险后，马库斯意外地获得了一个自称是他守护天使的人的帮助，该天使显然对马库斯的冒险行为感到愤怒，并表达了对马库斯多次置身危险的无奈与关心。这篇小说描绘了极限运动的肾上腺素刺激，以及生命的脆弱，同时还引入了神秘的天使元素，使得故事情节更为精彩丰富。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_守护天使（上）.doc]([交换]_守护天使（上）.
 | Size            | 36864 bytes                           |
 | MD5             | 930c8014a509d5f3ffd5b8a1bb5895dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 极限运动, 蹦极跳, 守护天使, 冒险, 刺激, 生命的脆弱, 友情, 自我探索, 神秘, 危险幻想, 自我认知, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

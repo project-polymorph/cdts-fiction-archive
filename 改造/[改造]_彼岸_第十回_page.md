@@ -7,7 +7,7 @@ TXT 下载: [[改造]_彼岸_第十回.docx]([改造]_彼岸_第十回.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别和伪娘主题的小说片段，描绘了一场发生在手术室中的对话与情节。故事以林远为为主角，他在接听父亲的电话时显露出不安和愤怒。同时，角色妮妮展现出对林远为态度的愤慨和不满，暗示了一种复杂的关系和势力的博弈。故事中提到的处置和手术过程暗示了角色在进行某种性别或身体上的改造，且责任与嫌疑在各方之间进行推诿。情节中涉及了明显的权力关系以及人物间紧张的情感纠葛，具备强烈的戏剧性与暗黑色彩。整体而言，这段文字中透出的不仅是性别认同的探索，还有对角色内心冲突和身体局限的描述。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_彼岸_第十回.docx]([改造]_彼岸_第十回.docx)
 | Size            | 33762 bytes                           |
 | MD5             | afbb136638ee20f3fe8599ebaef67757                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 改变, 阴暗情节, 权力关系, 生理改造, 伪娘, 欲望, 控制, 自我冲突, 医院, 强制性别重塑, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人民警察的智慧《伪装&女？》上+下_完全版.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一部结合了伪娘和变身题材的小说，描绘了主人公王言顺的变身经历与警方的追捕。故事以一段夜晚的情节为开端，王言顺正在进行变装，化身为女儿身的王妍瞬，享受女儿身的生活。然而，警方因一起特大盗窃案对她展开调查，误认为她与偷窃案有关。整部作品探讨了性别认同、自我探索和对角色身份的迷惑。同时，小说中涉及了高科技伪装设备的描述和警察与嫌疑人之间的互动，展现了角色间的张力和紧张对抗。通过王言顺的视角，读者能感受到她对美丽和女性身份的渴望，也看到因误解而产生的冲突与戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人民警察的智慧《伪装&女？》上+下_完全版.
 | Size            | 35218 bytes                           |
 | MD5             | 836c74d4a9d25f71b38de6abfcc6d46f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 警察, 犯罪, 自我探索, 夜生活, 误会, 角色认同, 高科技设备, 伪装, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

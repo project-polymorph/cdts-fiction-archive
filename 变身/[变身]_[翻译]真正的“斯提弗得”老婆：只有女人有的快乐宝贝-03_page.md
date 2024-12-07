@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[翻译]真正的“斯提弗得”老婆：只有女人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件展示了一段关于性别转换和跨性别经历的小说片段，情节围绕着一位主角在经历身体性别转变后，与一位名为凯蒂的女性的亲密互动，以及未来婚姻生活的描绘。随着身体的变化，主角逐渐适应了女性身份，并在与丈夫的亲密关系中探索自我认同与心理变化。内容中详细描写了身体的变化及情感的交融，如‘我已经是一个女人，一个正在和自己丈夫新婚洞房的女人。’以及对性行为和身体感受的细腻描述，表现了对新身份的复杂情感和对幸福生活的向往。该小说不仅涉及性别认同的主题，还描绘了婚姻、家庭生活，以及角色与环境间的互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[翻译]真正的“斯提弗得”老婆：只有女人�
 | Size            | 19542 bytes                           |
 | MD5             | d71eb303a589259199ecccd493d2c4f0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Edwin Gay                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 跨性别, 性别认同, 家庭主妇, 纯爱, 女性成长, 自我探索, 婚姻生活, 亲密关系, Fantasy, NTR, 变嫁, 女体化, 强奸, 调教, 快感, 友情, 性感, 科幻, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [【万万没想到】脱不去的人皮衣.doc](【万万没想到�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于校园暴力和性别角色冲突的小说，名为《脱不去的人皮衣》。故事围绕角色刘锐展开，他是成功大学大一的学生，并拥有国家二级运动员的身份。他在一次即将来临的校运会前夕，遭遇了来自校花韩彩馨的威胁。在韩彩馨的逼迫下，刘锐面临着放弃比赛的压力，甚至遭到了暴力威胁。小说中详细描绘了刘锐内心的无助与恐惧，以及他与朋友李云立间的深厚友谊。当李云立看到刘锐受到威胁时，选择挺身而出，试图解救刘锐，却意外将韩彩馨击倒。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [【万万没想到】脱不去的人皮衣.doc](【万万没想到�
 | Size            | 122880 bytes                           |
 | MD5             | 8bd3a0693a662b2f8f9ff366115d54a5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园暴力, 性别角色, 自我探索, 友情, 运动会, 女性形象, 青春, 暴力, 心理冲突, 校园生活, 男主角, 恶毒女友, 救赎, 惊悚, 悬疑, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

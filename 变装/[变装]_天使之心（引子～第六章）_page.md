@@ -7,7 +7,7 @@ TXT 下载: [[变装]_天使之心（引子～第六章）.docx]([变装]_天使
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《天使之心（引子～第六章）》，讲述了主角吉米在继承了养父的财富和男爵头衔后的经历。吉米身处一个充满阴谋的世界，养父是一位有特殊癖好的贵族，主要进行偷窃活动。吉米内心矛盾重重，虽是继承了巨额遗产，但对养父并无敬意，反而对其不光彩的过去感到厌恶。随着养父的失踪，吉米决心潜入康顿庄园，在那里寻找传说中的珍宝“天使之心”——一块罕见的大红宝石。为了实现这个计划，吉米使用了一套高科技的变装道具以女子身份混入，从而开启了一段刺激的冒险旅程。本书中不仅展现了性别认同和自我探索的主题，还涉及到许多耸人听闻的情节，如欲望与挑战、身份的变化等，引发激烈的心理冲突与冒险。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_天使之心（引子～第六章）.docx]([变装]_天使
 | Size            | 43120 bytes                           |
 | MD5             | e969df3a40144067a3fbd43779f10ad8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 变装小说, 跨性别, 性转, 冒险, 心理探索, 自我认同, 幻梦, 代入感, 上流社会, 偷窃, 女仆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

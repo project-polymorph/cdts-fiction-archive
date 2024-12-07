@@ -7,7 +7,7 @@ TXT 下载: [[其他]_长生镜10.docx]([其他]_长生镜10.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个名为孔语蝶的角色的小说片段，包含大量关于她外貌的描述与与她相关的情感描写。文本详细描绘了孔语蝶的美丽与吸引力，通过一位观察者的眼睛传达出其强烈的欲望。故事情节涉及孔语蝶在私密空间中脱去衣物，展现出身体的美丽，整个过程伴随着角色的羞涩与自我探索的心理活动。内容中充满了强烈的性暗示与描写，特别是在她自我抚摸的场景中，通过细致的语言描绘了身体各部位的特征与情感反应。这种描写方式强调了角色的性感与诱惑，同时也带有一定的羞恼与不安的心理斗争，反映出复杂的情感状态与性欲望。《长生镜10》无疑在性转与跨性别的议题中展现了角色内心的自我认同与探索，同时也触及了一些限制级内容，适合对这类文学作品进行深入分析的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_长生镜10.docx]([其他]_长生镜10.docx)
 | Size            | 17146 bytes                           |
 | MD5             | 2be8f77cfad468d86161ad2de814cba2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 强烈欲望, 身体探索, 自我认同, 色情文学, 情感冲突, 心理描写, 女性形象, 性暗示, 自我玩弄, 诱惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

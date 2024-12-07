@@ -7,7 +7,7 @@ TXT 下载: [[交换]_人生狩猎游戏_第一夜.docx]([交换]_人生狩猎�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《人生狩猎游戏》，是一个围绕性别交换和自我认同主题的奇幻小说片段。故事的开头提出了几个引人深思的问题，例如对现状的厌倦以及幻想成为他人的愿望。主角王凡在无聊和焦虑中收到了一个关于参加‘人生狩猎游戏’的神秘邀请，这个游戏以他人的人生为猎物展开，参与者需要做出选择：是猎物，还是猎人。故事通过王凡的内心独白展现了他对未来的迷茫和无助。在邮件的指导下，王凡按照要求写下自己的名字并准备入睡，醒来后的场景是一个纯白的空间，和几位同样处于困惑中的参与者。这场游戏的设定让每个玩家能够交换身体，并获得目标角色的记忆，故事在探索性别认同、自我认识的过程中充满了悬念与哲思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_人生狩猎游戏_第一夜.docx]([交换]_人生狩猎�
 | Size            | 29161 bytes                           |
 | MD5             | 5d991bc84acd7588c945596c70bb6c07                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 奇幻, 变身, 心理游戏, 人生狩猎, 性别交换, 梦境, 参与者, 选择和决策, 思考人生, 剧情反转, 集体意识, 青春迷茫, 角色扮演, 人际关系, 身体交换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

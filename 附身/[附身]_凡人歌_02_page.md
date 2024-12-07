@@ -7,7 +7,7 @@ TXT 下载: [[附身]_凡人歌_02.docx]([附身]_凡人歌_02.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部描绘变身与性转题材的小说片段，主要围绕主人公林诗涵的心理与生理变化展开。故事开头提到了一则交通事故的新闻，随后切入到主人公的内心世界，展示了她复杂的情感与欲望。林诗涵在房间中回忆过去的经历，包括她与丈夫以及小叔子之间的情感纠葛，表现了对肉体欲望的渴求与道德困境的冲突。文中涉及大量生动的描写，例如她在自慰过程中对于过往与小叔子的关系感到羞愧又渴望，心理状态描绘细腻，同时融入了灵魂附身的奇幻设定，使整部作品呈现出奇幻、情色、内心挣扎等多重元素。整体内容具有明显的成人向特征，充满激烈的性暗示与生动的身体描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_凡人歌_02.docx]([附身]_凡人歌_02.docx)
 | Size            | 35609 bytes                           |
 | MD5             | bd5d51cdc07fc10514ebb82f3cb6c798                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 自慰, 灵魂附身, 婚外情, 心理欲望, 成人向小说, 自我认同, 性别探索, 肉体欲望, 幻想, 道德冲突, 情感纠葛, 二次元, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

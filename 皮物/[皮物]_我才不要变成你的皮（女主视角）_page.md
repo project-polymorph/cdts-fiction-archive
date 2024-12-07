@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我才不要变成你的皮（女主视角）.doc]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇伪娘TS变身小说，主要围绕女主角夏思卉的成长与自我认同展开。故事从夏思卉的一天开始，她因为忘记约定的街逛时间被朋友催醒。在日常生活中，夏思卉表现出对自身形象的自恋与享受，她在镜子前欣赏自己的美丽身材，引发对女性身体迷人的思考。然而，故事很快进入紧张情节，一个邋遢的男同学闯入她的家中，随后对她施加了某种药物，导致她的身体出现变化。随着药物的作用，她的意识与男性同班同学安鸿交错，整个过程充满了对性别与自我认知的探索。夏思卉在目睹自身变化时，内心充满了恐惧与迷惑，同时开始体会到作为女性身体的快感与敏感，故事深入探讨了性别身份的流动与内在冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我才不要变成你的皮（女主视角）.doc]([皮物
 | Size            | 49664 bytes                           |
 | MD5             | 6bc1869f12abc4dc979f945e7fe9f5b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 自我认同, 性别认同, 性转, 女性视角, 青春, 心理变化, 日常生活, 身体探索, 幻想, 异能, 身份交换, 感官体验, 敏感性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

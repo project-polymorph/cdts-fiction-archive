@@ -7,7 +7,7 @@ TXT 下载: [[附身]_巨乳咖啡店店长的身体所有权被全权夺取之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转变的小说，故事围绕一位名为翔太的男性角色，他意外获得了可以通过触碰他人来操控对方身体部位的能力。小说情节集中在翔太与咖啡店女店长的互动上，揭示了他如何利用这一能力进行强迫的冒险。故事中，翔太故意让店长使用自己的右手抚摸她的胸部，剧情逐渐深入到一些敏感和限制级的内容。随着情节的发展，店长在面对此种不适当行为时的内心挣扎和对自我认知的冲突被细腻地刻画。特别是涉及到身体的归属和自主权的问题，为整个故事增添了心理层面的复杂性。同时，小说也呈现了伪娘、跨性别和性别认同等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_巨乳咖啡店店长的身体所有权被全权夺取之�
 | Size            | 46080 bytes                           |
 | MD5             | 9c27634508b5abb44d1a3a086ff76f92                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 笹座早々                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 性别认同, 强迫, 情色, 自我探索, 身体控制, 女性视角, 角色扮演, 成人向, 心理冲突, 隐私侵犯, 魔法, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

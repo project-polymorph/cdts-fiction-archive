@@ -7,7 +7,7 @@ TXT 下载: [[变身]_花都狐影6~7.docx]([变身]_花都狐影6~7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《花都狐影》系列的第六章与第七章，讲述了主人公在校园中的一场秘密约会。故事围绕男主角赵胜与自我认同为女性的主角之间复杂的情感与性别转变。在第六章中，主角借助“夏洛”的外表与魅惑技巧，引导赵胜走入情感的深渊。在夜晚的校园，主角穿着连衣裙，与赵胜展开了一场充满挑逗与禁忌的互动，使用媚药提高赵胜的情欲，进而完成了情感与生理上的交合。文中描写了主角以娇羞、拒绝和诱惑相结合的方式，既展现了角色复杂的内心世界，也反映了转性与性别认同的冲突。第七章则揭示了两人约会后生活的日常，以及赵胜与好友之间的对话，增添了轻松但又透着尴尬的氛围，文本中充满了对传统性别角色与期望的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_花都狐影6~7.docx]([变身]_花都狐影6~7.docx)
 | Size            | 22893 bytes                           |
 | MD5             | 7ac1c0c6cbc64b4020e3d08010765237                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 校园恋爱, 伪娘, 性别认同, 情感探索, 强奸, 调教, 夜晚约会, 媚药, 娇羞, 逆后宫, 自我探索, 温柔陷阱, 黄逸尘, 欲擒故纵, 肉体关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

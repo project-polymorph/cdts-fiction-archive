@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丝域（进站重发）.docx]([变性]_丝域（进站重
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为老阿朔创作的小说《丝域》的开篇作品，描述了男主角进入一个名为“丝域”的神秘小店的经历。故事从主角的日常生活开始，作为一名普通的上班族，他因三天未出门而感到无聊，并决定外出觅食。在这个过程中，他意外收到了一封来自‘丝域’的邮件，邮件内容勾起了他的好奇心，随即他便踏入了这个布满异样气息的小店。在“丝域”，他遇到了一位魅惑的熟女，并被引导进入一个充满诱惑与神秘的游戏世界。小说涉及角色在游戏中体验的心灵与身体的双重过程，同时暗示着角色的性别认同的探索与变化。作品中含有大量对成人情节的描写，如角色间的互动，暗示性与色情的体验，尤其是进入游戏后的各种刺激体验。贵站虽允许相关内容的存储与分享，但提醒读者合理对待其中的情节与主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丝域（进站重发）.docx]([变性]_丝域（进站重
 | Size            | 32089 bytes                           |
 | MD5             | 52cf3831bda5c38f062a698ede318f78                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 老阿朔                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 丝域, 变身, 跨性别, 成人文学, 性别认同, 角色扮演, 游戏体验, 熟女, 性转, 御姐                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

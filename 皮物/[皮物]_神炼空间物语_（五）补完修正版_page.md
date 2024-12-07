@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_神炼空间物语_（五）补完修正版.docx]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《神炼空间物语》第五话的修正版，标题为“采购”。故事围绕角色在神炼空间中进行的自我提升和装备采购展开。角色在回想试炼经历的同时，反思自我实力，意识到能力的提升刻不容缓。文中详细介绍了角色能力的四大组成部分，包括属性能力、技能、装备以及智慧和运气等。角色游走于信息获取与物品采购之间，描述了各种店铺和市场的情况，如CDBOOK书店，TGGAME情报中心和中立大集市等，探索不同类型的商品和装备。具体提及了武器、装备、饰品的多样选择及各类属性及效果的详细介绍，特别是与皮物相关的特殊道具。此章节不仅展示了丰富的奇幻元素，还包含了角色在寻找自身身份及力量的过程中遇到的种种挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_神炼空间物语_（五）补完修正版.docx]([皮物]
 | Size            | 25427 bytes                           |
 | MD5             | 68531b10a7ec667883a78ff7326abed6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 魔法, 奇幻, 角色扮演, 武器与装备, 自我探索, 皮物, 试炼, 升级系统, 商店与市场, 角色发展, 冒险, 身份认同, 能力提升, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

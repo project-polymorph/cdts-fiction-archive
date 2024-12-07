@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文重发】千变门（贰）——入门.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描述了一个名为千机门的门派，主要涉及易容术的传承和学习。故事通过一位年轻人的视角，讲述了他在了解到千机门的背景后，经历的震撼和转折。老奶奶不仅是门派的掌门人，还是女主角王婷的母亲，他通过一场扭曲现实的变身过程，揭示了这门派真实的目的和潜在的秘密。文中提到，千机门表面上是一个美容中心，但其核心技能在于高超的易容术，能够将人的面貌完全变化。故事带有奇幻色彩和自我探寻的主题，挑战了传统性别认知的界限，让人思考外貌与身份认同之间的关系。随着剧情的发展，王婷向主角展示了地下的巨大化妆间，里面储存着各种各样的女性和男性的皮肤、化妆品、服装等，让人目不暇接，使人对易容术充满期待和好奇。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文重发】千变门（贰）——入门.doc]([
 | Size            | 31744 bytes                           |
 | MD5             | f20d8f0acb8f0e9bdf6da906ed02e8b4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 易容术, 跨性别, 自我探索, 变身, 美容中心, 身份认同, 奇幻, 家庭传承, 秘密, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

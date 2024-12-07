@@ -7,7 +7,7 @@ TXT 下载: [[改造]_DTX之祝颜秀-下.doc]([改造]_DTX之祝颜秀-下.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《祝颜秀（下）》为一段关于跨性别与双性人主题的访谈稿件，其中祝颜作为主持人与两位女性（张曼与叶琳）展开对话，探讨了她们从男性转变为女性的经历以及她们家庭生活的细节。文中提到，改变性别后的生活变化和两位女性如何共同承担家庭责任、处理怀孕与生育的过程，引发了对双性人身份认同的深入讨论。张曼和叶琳表达了对彼此的支持和分享，包括她们的女儿也成为了她们共同的生活和幸福的来源。在访谈中，张曼提到：“家庭中有些家务要男人来做”，反映了性别角色在变化后带来的新碰撞。在反复提及怀孕过程的同时，叶琳也分享了怀孕期间的特殊感受，展示了从男性到女性再到母亲的身份转变带来的情感与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_DTX之祝颜秀-下.doc]([改造]_DTX之祝颜秀-下.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | 6e162f7afa86534a55a626c5ed1629aa                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 双性人, 伪娘, 生育, 性别认同, 怀孕经历, 家庭生活, 女儿, 身份认同, 社会角色, 性别转换, 女性视角, 母亲, 父母角色, 爱情, 性别流动, 情感支持                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

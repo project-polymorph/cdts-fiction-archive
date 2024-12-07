@@ -7,7 +7,11 @@ TXT 下载: [[附身]_武器种族传说_02.docx]([附身]_武器种族传说_02
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《武器种族传说_02》，内容涉及一个关于角色性别认同与变身的幻想叙事，描绘了一个主角与龙族女皇之间的互动。故事中，主角借助梦妖儿的记忆与龙族女皇莱丽雅进行对话，试图揭开关于神战及其后续影响的秘密。文中提到的神战是一个古老的历史事件，对角色的发展和背景都产生了深远的影响。
+
+在交谈过程中，莱丽雅揭示了自己作为龙族女皇的身份，并暗示主角与她有着更多的关联，进一步引导主角走向一个充满未知和挑战的旅程。她提及了许多关于力量、命运和历史的复杂概念，同时也展现出主角与凌韵儿之间微妙的关系，以及情感的探索和自我认同的成长。
+
+在内容的后半部分，凌韵儿表露出自己孤儿的身份和对家庭的渴望，在二人对话中流露出情感的冲突与共鸣，让故事不仅具备了幻想冒险的外壳，更深入地探讨了个人情感与存在的主题。此文在语言和情节上都有较强的二次元风格，是一部典型的性转与变身相关小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[附身]_武器种族传说_02.docx]([附身]_武器种族传说_02
 | Size            | 49579 bytes                           |
 | MD5             | 1ab6106e515a68f7471656b88381f63c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 龙族, 幻想, 自我探索, 命运, 孤儿, 权力, 历史战争, 情感纠葛, TSF, 女皇, 伪娘, 二次元, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

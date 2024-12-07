@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[旧文重贴]我的同居女友前传.doc]([皮物]_[旧�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘变身小说的初稿，以第一人称视角描述了主人公小伟的经历和内心挣扎。故事开头，小伟正躺在床上幻想被人触碰胸部，展现出其对女性身体的兴奋和好奇。随后，他与姐姐赵晓静的互动逐渐深入，发现姐姐通过无理的请求希望他在她出国旅行期间，假装成她上课和生活。这种要求令人困惑，但小伟对变成姐姐的身体产生了极大的兴趣。在故事的展开中，涉及了一台神秘的机器，它能将小伟的生理性别改变，并让他穿上复制姐姐身体的“人皮”，进一步探索性别认同和身体认知的主题。随着小伟的变化以及与男性角色李明的复杂互动，小说探讨了性别流动、自我认知和性别角色的挑战。情节包含性暗示及对身体的强烈感觉，提供了一种引人深思的视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[旧文重贴]我的同居女友前传.doc]([皮物]_[旧�
 | Size            | 39424 bytes                           |
 | MD5             | c6767751a5bf4e25413b2c9c6c0eba0b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 青春校园, 幻想, 身体交换, 科技幻想, 自我探索, 性别流动, 角色扮演, 变嫁, 生物实验, 情感纠葛, 超现实主义, 二次元文化, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

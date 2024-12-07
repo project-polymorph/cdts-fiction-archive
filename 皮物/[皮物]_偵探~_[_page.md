@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_偵探~_[.docx]([皮物]_偵探~_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇短篇小说，围绕一位私家侦探跟踪一位富太太柳燕展开。故事开始于侦探在一辆轿车内观察柳燕的行为，期间暗示她似乎在外面秘密偷情。随着情节的发展，侦探通过隐藏的摄像头拍摄到了柳燕与一个中年男子之间的诡异互动，揭示了涉及肉体交换和使用特殊装置的奇异场景。柳燕与男子之间的对话暗示了皮肤的替换和变换，揭示了一种神秘的科技与欲望交织的情节。在一次实验后，柳燕因注射液体而出现强烈的身体反应，并表现出极为淫荡的情欲，最终吸引了侦探的注意并展开了私密的性行为。此作品探讨了性别转变、自我认同、欲望与权力的复杂关系，以及在科技和化妆术下的身体重塑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_偵探~_[.docx]([皮物]_偵探~_[.docx)
 | Size            | 27631 bytes                           |
 | MD5             | 91b2e1a78480aaffb20532c476ac1b47                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 私家侦探, 肉体交换, 美丽的富太太, 变装, 欲望, 科技幻想, 侵犯隐私, 淫荡, 肉欲, 男性视角, 强烈情欲, 身体改造, 偷窥, 刺激                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

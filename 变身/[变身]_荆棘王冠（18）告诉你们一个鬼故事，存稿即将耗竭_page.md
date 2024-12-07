@@ -7,7 +7,7 @@ TXT 下载: [[变身]_荆棘王冠（18）告诉你们一个鬼故事，存稿�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部以变身为主题的小说，标题为《荆棘王冠（18）告诉你们一个鬼故事》，属于性转和跨性别题材的作品。内容主要围绕年轻女孩爱丽丝的生活展开，描绘了她搬入自己新购房屋后与人互动的过程。故事开始于爱丽丝请求马车夫汉斯送她去新家，汉斯在路上分享了潘诺尼亚的历史，让这段旅程充满了趣味。到达后，爱丽丝欣然安排自己的新家，描述了房子的布局及其奢华的装潢。她还与汉斯的家人建立了雇佣关系，增加了角色间的温情互动。接下来的情节涉及到爱丽丝的自我认知及她对周围世界的探索，部分场景充满了幻想元素，例如她拥有的稀有“魔眼”，赋予她超凡的能力。小说综合了校园、魔法与自我成长的主题，呈现出一个充满奇幻与戏剧性的世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_荆棘王冠（18）告诉你们一个鬼故事，存稿�
 | Size            | 21605 bytes                           |
 | MD5             | 7b4ca7bac12f4345fd1df65cf3ca7acc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 魔法, 校园, 青春成长, 性别认同, 自我探索, 幻想小说, 伪娘, 男娘, 魔眼, 佣兵, 冒险, 人际关系, 家族, 奢华生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

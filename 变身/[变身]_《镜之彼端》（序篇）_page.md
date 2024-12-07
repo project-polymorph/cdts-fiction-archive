@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《镜之彼端》（序篇）.docx]([变身]_《镜之彼
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+在这篇关于《镜之彼端》的精彩序篇中，故事围绕着一个名叫爱丽丝的孤独贵族小姐展开。爱丽丝与一面神秘的镜子建立了特殊的情感联系，镜中显现出另一个名为利兹的女孩，她不仅是爱丽丝的玩伴，更是她情感和自我认同的一个倒影。随着故事的发展，爱丽丝在参与镜中与利兹的游戏时，开始体验到性别认同和内心探索的复杂情感。文章描绘了许多细腻的情感变化和角色间的互动，其中包括爱丽丝对自己外表变化的好奇，以及她逐渐陷入自我探索与心理冲突的过程。最终，故事以爱丽丝母亲的幻象出现为高潮，彰显了爱丽丝对于失去母亲后的孤独与绝望。文本不仅包含了温情色彩的细腻描写，也涉及了复杂的自我认同和心理问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《镜之彼端》（序篇）.docx]([变身]_《镜之彼
 | Size            | 26418 bytes                           |
 | MD5             | 5c9b2989e28995c04ef87c00ec5b57f5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 贵族生活, 双重身份, 镜子, 心理冲突, 童年友谊, 孤独, 情感纠葛, 女性成长, 中世纪幻想, 变身小说, 进阶爱, 幻想故事, 心灵治愈                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_在附身普遍存在的世界里的恋爱少女的故事.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇内容丰富的性转小说，讲述了名取雪借助附身技术与青梅竹马广君之间的微妙关系。故事从名取雪对附身现象的解释开始，逐渐展开她与广君的互动。当名取雪使用附身系统借用广君的身体时，在轻松的氛围中，暗藏着她对广君的复杂情感与欲望。文件中涉及科技发展的想象，将现实与奇幻结合; 她幻想着广君附身在她的身体上，而广君无意中成为了她希望寄托的对象。随着情节的发展，名取雪的心中产生了对广君的爱慕之情，最终两人的感情在一场危机中得以升华。本作包含色情及强烈暗示内容，特别是在附身之后的场景中，描绘了对身体感官的强烈探索与渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_在附身普遍存在的世界里的恋爱少女的故事.
 | Size            | 46080 bytes                           |
 | MD5             | ee28910dc89ec8932c891bf9a20a8406                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性转, 青梅竹马, 自我认知, 欲望探索, 身体交换, 科幻, 校园, 女生, 恋爱, 心理, 性别认同, 暗恋, 强烈色情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

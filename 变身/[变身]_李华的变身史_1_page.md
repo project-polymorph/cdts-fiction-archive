@@ -7,7 +7,7 @@ TXT 下载: [[变身]_李华的变身史_1.docx]([变身]_李华的变身史_1.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本讲述了一个名为李华的角色在一次意外中经历了性别的转变。在故事开始时，李华在外出时因为父亲去世而心情沉重。为了快速回家，他选择了穿越一条阴暗的小巷。在小巷中，李华摔倒后，奇怪地发现自己穿上了裙子，并且变成了一个可爱的女孩子。故事中有许多心理描写，李华在变成女孩后自我探索，感受到了身体的不同和性别认同的困惑。他反复自言自语，试图理解自己所经历的奇幻变化，并开始探索新身体带来的感受和变化，包括他对自己新身份的接受。本段落涉及幻想、性别转换和自我认同等主题，描绘了变身后的存疑与意欲，显现出一些性暗示的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_李华的变身史_1.docx]([变身]_李华的变身史_1.d
 | Size            | 20048 bytes                           |
 | MD5             | 7a9fe16b6582add5e161775724b5701d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 自我探索, 幻想, 李华, 奇幻, 身体认同, 性别认同, 性别转换, 心理描写, 奇妙体验, 角色扮演, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

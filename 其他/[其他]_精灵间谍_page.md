@@ -7,7 +7,7 @@ TXT 下载: [[其他]_精灵间谍.docx]([其他]_精灵间谍.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《精灵间谍》，讲述了一位名为于易·沃克的男子受教廷委托，前往精灵族进行间谍活动的故事。主角于易作为教廷异端裁判所的间谍，首次接到前往精灵族的命令。他被教皇带入教廷最大的禁地“七重锁狱”，目睹了被称为罪恶王冠的神器，以及一个精灵少女。故事围绕于易与精灵少女的精神交融展开，当二者的灵魂产生碰撞时，于易便陷入了身份与记忆的挣扎。他的身份意识与精灵若雨的记忆相互交织，形成了新的存在，探讨了性别认同与自我认知的问题。精灵少女亦在此过程中觉醒，混合着于易的人类人格与她自身的精灵记忆。整体情节既有奇幻色彩，也探讨了自我和身份的矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_精灵间谍.docx]([其他]_精灵间谍.docx)
 | Size            | 44077 bytes                           |
 | MD5             | fbfe8951271213c78ae1efee1bf60973                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 精灵, 间谍, 教廷, 性别认同, 魔法, 冒险, 自我探索, 跨性别, 奇幻, 角色变换, 灵魂交融, 异世界, 暗杀, 冒牌货, 身份危机                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

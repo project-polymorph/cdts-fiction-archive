@@ -7,7 +7,7 @@ TXT 下载: [[改造]人体改造《畸·恋》朗逸特别版.doc]([改造]人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《畸·恋》朗逸特别版通过主人公的第一人称视角，讲述了一个关于伪娘与人皮的奇特旅程。故事以主人公穿着高跟鞋在火车站的紧张与兴奋开场，随着带着人皮的旅行展开，探讨了性别认同与个人身份的复杂性。小说充满了对自我认知的冲突，主人公在试图扮演女性的角色中忍受身体与心理的双重压力。主人公戴上人皮后，开始了一段旅行，同时也引发了对自我性向及社会认同的深刻反思，穿插了生动的对话与幽默的自嘲。通过与路过者的观察，展现了对美的追求以及为了适应他人期望而产生的内心挣扎。整部作品在表面上流露出幽默感，实际上却揭示了隐秘的痛楚和社会的压迫感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]人体改造《畸·恋》朗逸特别版.doc]([改造]人�
 | Size            | 64000 bytes                           |
 | MD5             | eb27b3b4388016a075088f4a8ad7e2e8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 自我探索, 旅程, 人皮, 心理冲突, 二次元, 高跟鞋, 幻想, 社会压力, 身份认同, 性取向, 内心挣扎, 幽默, 奇幻, 受限的自由                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -21,7 +21,7 @@ TXT 下载: [[交换]_SCARLET-第二章[免费]1.docx]([交换]_SCARLET-第二�
 | Size            | 52762 bytes                           |
 | MD5             | 1da418a1e558d9beee16ec625686a472                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

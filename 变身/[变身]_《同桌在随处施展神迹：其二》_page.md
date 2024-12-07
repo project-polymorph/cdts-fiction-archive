@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《同桌在随处施展神迹：其二》.doc]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇以变身与跨性别主题为背景的小说，标题为《同桌在随处施展神迹：其二》。故事的主线围绕主人公直人和他的同桌樱岛纱织展开，充满了性别认同、自我探索以及变化引发的心理冲突的情节。始于直人在家中无法释怀与双叶老师的亲密体验，随后逐渐展开与樱岛纱织的互动与暧昧。纱织用女友的身份向直人传达了一种亲密感，但直人的内心却被对纱织的真实身份的挫折感困扰。故事中出现了致命的测试与逐渐扭曲的人物关系，涉及了一些性别与情感的探索。角色的身体变化与性别转换成为故事的核心，与此同时，对于性欲与身份的冲突同样成为角色之间的张力所在。情节包含了一些限制级的实践，包括性暗示与心理游戏，探讨了人类内心的欲望与性别认同的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《同桌在随处施展神迹：其二》.doc]([变身]_�
 | Size            | 62464 bytes                           |
 | MD5             | b01912e8fbdb82a813cd40444c65e764                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 伪娘, 性别认同, 自我探寻, 爱情, 情感游戏, 校园生活, 性暗示, 心理冲突, 性别转换, 男性角色转女性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

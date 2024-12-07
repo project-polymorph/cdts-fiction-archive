@@ -7,7 +7,7 @@ TXT 下载: [[其他]_末世之女神养成.doc]([其他]_末世之女神养成.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本档案讲述了一个名为张成的角色经历重生后，变成了一条虫子的故事。故事开始于张成在黑暗中苏醒，发现自己身处一个陌生的环境中，最初的惊恐让他感到迷惑。随着情节的发展，他逐渐意识到自己已经变成了一种寄生虫，并试图寻找生存的方法。故事穿插着对他新身体的探索与自我认知的冲突，比如他如何面对自身的畸形状态以及在女性身体内部的奇妙经历。令人震惊的是，他不仅要寻找食物生存，还要面对自身作为寄生虫对宿主身体产生的影响。文本的描写涉及了生存、性别身份、寄生和转变等复杂的主题，同时也带有一定的色情元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_末世之女神养成.doc]([其他]_末世之女神养成.
 | Size            | 65024 bytes                           |
 | MD5             | 54b8437985434007ae80a292d7bad9f9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 寄生虫, 性转, 跨性别, 自我探索, 生存, 虫体, 女性生殖, 神秘, 奇幻, 情欲, 重生, 科幻, 性别认同, 宿主影响                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

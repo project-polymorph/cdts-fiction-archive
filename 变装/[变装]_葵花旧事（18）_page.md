@@ -7,7 +7,7 @@ TXT 下载: [[变装]_葵花旧事（18）.doc]([变装]_葵花旧事（18）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于伪娘与变装的情节小说，主要围绕角色常苼南展开。故事设定在古代背景下，常苼南在突围后经历了一系列危险与意外。在前往寻甸府的途中，她遭遇了山贼的威胁，被误认为是娘娘腔男性，最终决意借此机会深入山寨，探寻有利信息。在情节中，常苼南多次运用智慧与武功，成功应对山贼的威胁，但也面临着身份暴露和被迫利用的风险。文中涉及对角色身份的探索与性别认同的讨论，结合紧张的情节及心理冲突，使得故事充满悬念与张力。文件的最后部分暗示了常苼南可能将面临的进一步挑战与情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_葵花旧事（18）.doc]([变装]_葵花旧事（18）.do
 | Size            | 49664 bytes                           |
 | MD5             | be42c84a262e803e5c75424e7b235ed5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 山寨, 性别认同, 自我探索, 情感纠葛, 武侠, 古代, 强奸, 按照身份绑架, 阴谋, 女性视角, 身份危机, 勇气与智慧, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_竞技场后日谈2.doc]([其他]_竞技场后日谈2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档名为《竞技场后日谈2》，主要讲述了一个名为卢尔的男性角色在竞技场中的经历。故事开篇描述了卢尔从法阵中返回自己研究室的狼狈情形，反映出他在竞技场中的艰难境遇。卢尔虽然外表丑陋，战斗力低下，但他的魔法才能和对黑魔法的热爱让他得以逃离危险。在竞技场，卢尔的主要任务是收集强大的皮衣，然而他的试验却失去了一个珍贵的皮衣。在随后的剧情中，卢尔与妓女发生一系列肉欲的故事，描绘了他在淫荡的环境中与情欲交织的复杂感情。文件中详细描写了不同角色之间的互动、性别的探讨，以及对身体和身份受侵扰的冲突，展示了在奇幻世界中存在的各种魔法与性色情的内容。此外，卢尔在与「妮娜」皮衣穿着者的互动中引发了关于自我认知和控制的更深层次探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_竞技场后日谈2.doc]([其他]_竞技场后日谈2.doc)
 | Size            | 51200 bytes                           |
 | MD5             | f18bb16f46063cec6c05ebb5bdb5c451                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 竞技场, 魔法, 性转, 变身, 皮衣, 黑魔法, 肉欲, 妓女, 角色扮演, 自我探索, 奇幻, 神秘研究, 性别认同, 情色, 幻想文学, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_万万没想到2.docx]([交换]_万万没想到2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一个性转小说《万万没想到》的第二部，内容围绕男女主角的日常生活、感情互动以及男主对女主的呵护展开。故事的一开始描写了女主在洗手间不慎暴露下体，场面尴尬，两人之间充满了羞涩与调侃。经历了一系列的搞笑和甜蜜场景后，女主开始逐渐适应男主对她的照顾，实际上慢慢地产生了依赖感。文章深入探讨了角色之间的情感变化与自我认知，特别是女主从最初的羞愧，到后来的归属感和自信心的提升，在与男主的相处中学会了如何接受自己的女性身份。文中有部分色情描写，通过细腻的情感和日常生活中的小细节，展示了两人关系的微妙变化和性别角色的对抗与融合。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_万万没想到2.docx]([交换]_万万没想到2.docx)
 | Size            | 53539 bytes                           |
 | MD5             | de6b9d36a27ccfc553b6ef3cc7678253                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转小说, 强奸, 羞耻, 调教, 情侣, 自我认知, 性别角色, 搞笑, 生活琐事, 感情发展, 性别认同, 青春, 日常, 恋足癖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

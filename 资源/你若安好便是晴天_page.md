@@ -7,7 +7,7 @@ TXT 下载: [你若安好便是晴天.doc](你若安好便是晴天.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文本档案记录了一段复杂的情感故事，涉及到性别认同及感情的冲突。故事的主线围绕着男主角与其女友小慧的关系展开。男主角刚来到大城市寻找工作，但现实却令他感到无助，女友小慧则在职场上蒸蒸日上，与此同时，两人的关系却因工作和情感的变化而产生了裂痕。随着小慧的升职加薪，她的性格和态度也发生了改变，男主感到了从未有过的威胁与不安。小慧向男主提出分手，并坦言与另一个客户有亲密关系，这一消息如晴天霹雳般打击了男主的心理。尽管男主不愿离开，女友坚持要他扮成女人以维持同居关系，经过一系列冲突与妥协，故事展示了男主在性别与情感的挣扎，以及小慧在这场关系中所扮演的复杂角色。整篇文章探讨了情感的脆弱与性别身份的流动，其间穿插了大量带有性别转换和情色元素的描写，形成了一种紧张而又微妙的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [你若安好便是晴天.doc](你若安好便是晴天.doc)
 | Size            | 128512 bytes                           |
 | MD5             | ada28977e58a3b0b6ee29bd88858aec4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 情感冲突, 变装, 自我认同, 伪娘, 女友背叛, 心理挣扎, 都市生活, 职场竞争, 强迫扮女, 自我探索, 情感纠葛, 青春爱情, 不忠, 复杂关系, 女权, 性别流动, 感情破裂, 情绪压迫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

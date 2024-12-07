@@ -7,7 +7,7 @@ TXT 下载: [[变装]_丈夫的女仆奇妙之旅3-4.doc]([变装]_丈夫的女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含了一篇关于性别转换和变装的小说，讲述了一位名叫克里斯的男子被迫以女仆身份生活的故事。故事开始时，克里斯的情绪复杂，他对妻子的命令感到矛盾和不安。在一系列的情节发展中，克里斯逐渐被迫接受穿女装的现实，在妻子的安排下，克里斯被称为黛比，其生活完全围绕女仆的角色展开。克里斯通过一场一场的比赛被不断羞辱，并最终完全接受了这种新的身份。随着故事的推进，克里斯的自我认知受到挑战，他在内心深处挣扎于性别认同和自我探索之间，变装和女仆的描写充满了细腻的情感和心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_丈夫的女仆奇妙之旅3-4.doc]([变装]_丈夫的女�
 | Size            | 43520 bytes                           |
 | MD5             | ab827687fe3610979ae73aeafb24d3f5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 跨性别, 伪娘, 女仆, 羞辱, 自我认知, 女性化, 社会角色, 性别探索, 强迫, 游戏, 情感冲突, 心理斗争, 家庭角色, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

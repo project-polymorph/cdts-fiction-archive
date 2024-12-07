@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_变成人皮衣服的少女（完结）.docx]([皮物]_变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转换与身份认同的小说，主要讲述了一名男性角色，通过变身成为女性，并伪装成同班同学的故事。小说开头提到主角正在填坑，经过长时间的码字，感觉写作并非易事，虽然有些不理想，但仍希望能够保有诚信。故事中，男主角被描述为穿上女性的人皮，混入校园中，表面上维持正常的学生生活，但内心却深藏邪恶企图。随着时间的推移，这个假冒的“我”开始与同学们互动，甚至暗恋自己的朋友香织。在故事的发展中，包含了一些暗示性的色情内容，角色在学校中隐秘进行不当行为，体现了其内心的纠结与扭曲。小说的情节不仅涉及性别认同的挑战，也反映了对自我探索与身份认同的深层次思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_变成人皮衣服的少女（完结）.docx]([皮物]_变
 | Size            | 37465 bytes                           |
 | MD5             | b7f213d1e7130774e2f5e57ab24484c5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 校园, 跨性别, 性别认同, 自我探索, 学校生活, 暗恋, 扭曲心理, 性暗示, 人皮, 长篇小说, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

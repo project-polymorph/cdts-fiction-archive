@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_交错的锁钥5.docx]([皮物]_交错的锁钥5.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档标题为《交错的锁钥5》，它是一部涉及性别转换主题的小说片段，描述了角色在寻找线索的过程中与他人之间的互动。故事的女主角以女性身份出现在校园环境中，脑海中却充满了混乱。在一次下楼的过程中，她回忆起前一天的情景，思考着一起案件的相关线索。她遇到了两位男性学生，尴尬而幽默的场景表现了她为与人交往而设下的身份障碍。在随后的对话中，她与李天杰的互动揭示了许多与性别、身份以及社会认知有关的深刻议题，包括在“cdbook”论坛上讨论的性别转换类型。而李天杰则提到了一种名为“皮物”的性别转换方式，让女主角意识到即使外表一致，内心也可以有巨大的差异。这些元素使得整篇小说不仅涉及娱乐性的话题，也引发了对性别认同和社会认知偏见的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_交错的锁钥5.docx]([皮物]_交错的锁钥5.docx)
 | Size            | 19679 bytes                           |
 | MD5             | 1d0cc2beea1024f304a48d677253b332                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 校园小说, 自我探索, 社会认知, 心理斗争, 男性视角, 二次元, 悬疑, 影视讨论, 情感关系, 身份认同, 男女关系, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

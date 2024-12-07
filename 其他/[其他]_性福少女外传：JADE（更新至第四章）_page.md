@@ -7,7 +7,7 @@ TXT 下载: [[其他]_性福少女外传：JADE（更新至第四章）.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《性福少女外传：JADE》的初步草稿，包含了一个涉及虚拟现实和异世界穿越的科幻故事。故事围绕着一个废弃的房间，展示了古老电脑和超智科技的结合，描述了角色的自我探索与认知过程。文本中涉及到了“底城”的背景描写，详细讨论了该地区的历史、生态和社会制度。与此同时，文中穿插着一段关于医疗中心和角色之间关系的情节，涵盖了现代社会中科技与人性的交织。此外，文本还包含了一些性描写，实现故事的情感与身体的连接。整体上，故事构建了一个复杂的角色与科技的对话，探讨了人类在未来社会中可能面临的伦理和认同问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_性福少女外传：JADE（更新至第四章）.doc]([�
 | Size            | 514560 bytes                           |
 | MD5             | 07f6e1968e47394ef64684fb42637195                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 科幻, 异世界, 虚拟现实, 医疗伦理, 自我探索, 强奸, 多元性别, 跨性别, 伪娘, 强烈情感, 身体认同, 脑神经科, 社会重建, 底城, 科技与人性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

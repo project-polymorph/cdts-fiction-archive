@@ -7,7 +7,7 @@ TXT 下载: [[变身]_假物化形_-_1_[.docx]([变身]_假物化形_-_1_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性别变身主题的虚构小说。故事的主角前田孝一发现他拥有一种神奇的能力，可以在穿上特定衣物后改变自己的身体形态与外貌，逐渐形成对自我性别认同的探索与困惑。情节围绕前田对藤川学姐的单恋，表现出他对她的羡慕和渴望。在尝试使用这种能力的过程中，前田的心态不断变化，从期待与兴奋，到面对性的迷惑和负罪感，展现出复杂的自我认同与自我探索的过程。书中详细描绘了他一次次借助变化后身体的感知和与藤川学姐的情感关系，结合甜蜜与禁忌之感，深入探讨了性别的流动性与个体的心理状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_假物化形_-_1_[.docx]([变身]_假物化形_-_1_[.docx)
 | Size            | 22786 bytes                           |
 | MD5             | 24e1ee8a04a15d8aca79e63d51376350                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转, 伪娘, 变身, 青春校园, 自我探索, 禁忌恋, 奇幻, 情感纠葛, 追求与渴望, 身体变化, 男性视角, 纯爱, NTR, 女体化, 调教, 跨性别, 魔法, 都市, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

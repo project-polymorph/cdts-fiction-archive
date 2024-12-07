@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【申请码重发】赵安迪的沉沦1-3.doc]([变性]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《赵安迪的沉沦》是一部围绕性别转换与跨性别主题展开的小说，作者为陈肥肥。故事从主人公赵棣安的视角出发，展示了其在夜总会的复杂经历。小说中的角色经历了从普通男性到伪娘的心理和生理上的变化，通过对人妖文化的描绘，探讨了个人身份与社会认同的冲突。故事始于两场酒吧的交锋，一方面是追求美丽与权力的男性，另一方面是身为人妖的朱迪，她的生活与选择折射出对性的消费与自我认同的挣扎。此外，小说的某些章节具体描述了性与权力、施虐与受虐的关系，引发对社会性别现象的深刻思考，如“我...我的身份是...淫乱变态的...不知廉耻的...人妖被虐娼妇——”描绘了极端的性别认同与身体被物化的情景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【申请码重发】赵安迪的沉沦1-3.doc]([变性]_�
 | Size            | 51712 bytes                           |
 | MD5             | d3bba58c1454fec278cff220162b99bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 陈肥肥                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 变身, 夜总会, 自我探索, 身份认同, 强奸, 虐待, 性别, 恋物癖, 受虐, 深夜故事, 社会议题, 禁忌恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

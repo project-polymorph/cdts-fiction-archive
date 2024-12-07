@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_宝葫芦的秘密_3-4.doc]([皮物]_宝葫芦的秘密_3-
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一段描绘性别转变和身体改造的小说片段，属于跨性别相关主题的伪娘/男娘小说。故事主要围绕角色柳一刀，通过一个神秘的宝葫芦经历了一系列复杂的变化和挑战，试图恢复他的男性身份。文件中详细描绘了葫芦的魔力及其与角色变身的关系，柳一刀在使用葫芦过程中尝试获取郭妍的记忆，并对自己的身体和女性身份感到困惑和焦虑。小说对角色的情感变化进行了细腻的刻画，包括柳一刀对身为女性的羞愧和对未来的不安。此情节还涉及王胖子和柳一刀之间的互动，展现了他们对于身份与性别认同的探索。这段内容中包含了一定的生物改造和奇幻元素，对于性别认同、自我探索等主题有较深刻的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_宝葫芦的秘密_3-4.doc]([皮物]_宝葫芦的秘密_3-
 | Size            | 76800 bytes                           |
 | MD5             | 73264a007891d1e5de066224f556810f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 自我认知, 跨性别, 伪娘, 情感探索, 魔法元素, 身份变化, 记忆获取, 身体改造, 奇幻, 困扰, 男女性别, 性别认同, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

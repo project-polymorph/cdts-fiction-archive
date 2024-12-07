@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我过得很辛苦啊！【一】【修订版】.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于伪娘和跨性别主题的小说，主要描绘了一位名叫陈妍言的年轻女性在夜店工作中的日常生活。故事围绕她接待中年男性客户的体验展开，带有性别认同与自我探索的元素。小说开头描写了陈妍言在清晨醒来时的心情，她被迫接受自己的工作环境和角色，尽管内心对周围充满无奈与挣扎。文中有清晰的对话和细腻的心理描写，例如，陈妍言在夜店中穿着暴露的制服，面对满嘴骚话的中年客户时的情绪波动。随着剧情的发展，陈妍言逐渐展现出对自身身份的思考，同时也批判了社会对女性的物化与性别角色的压迫。整篇小说通过对夜店文化的独特视角，探讨了性别和性欲之间复杂的关系，并触及了现代都市中年轻人的困境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我过得很辛苦啊！【一】【修订版】.docx]([�
 | Size            | 24830 bytes                           |
 | MD5             | 3b394834a3bf46f748695fbcd1ca198b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 夜店文化, 女性自我探索, 社会批判, 青春疼痛, 性别角色, 自我认同, 情色文学, 都市小说, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

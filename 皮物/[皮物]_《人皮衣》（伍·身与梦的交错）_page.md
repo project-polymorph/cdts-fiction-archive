@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《人皮衣》（伍·身与梦的交错）.doc]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《人皮衣》（伍·身与梦的交错）的部分内容，围绕着角色在性别转变与自我认知冲突的情节展开。故事中，主角通过更换他人皮囊来复仇，描绘了复杂的人际关系与神秘的凶案，同时探讨了人与人之间的嫉妒、欲望与复仇心理。小说从王君彦换上叶雨涵的皮囊开始，接着主角也试图穿上黄小婉的皮囊，该过程伴随着对身体感受的细腻描写，如“柔嫩挺拔的34C乳房”和“阴蒂充血勃起”等，展现了角色在新身份下的身体感受与心态变化。此外，文本还涉及黄小婉父亲黄石杰的道德败坏和性侵事件，揭示了其在学术界的丑闻以及对其他角色造成的影响。整个故事涉及了许多性别认同、自我探索及心理变化等主题，引人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《人皮衣》（伍·身与梦的交错）.doc]([皮物]
 | Size            | 44544 bytes                           |
 | MD5             | 9defa35fca4abd11f3b68b0f4e57050f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 性转, 复仇, 惊悚, 性侵, 学术丑闻, 灵异, 自我认知, 情感纠葛, 人际关系, 女性视角, 心理探讨, 耽美, 禁忌恋, 奇幻, 变装, 灵魂交换, 恶魔                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

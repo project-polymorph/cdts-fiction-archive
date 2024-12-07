@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_警花1—3合集.docx]([皮物]_警花1—3合集.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是名为《警花1—3合集》的跨性别小说，讲述了以女性身份生活的警察局长陈慧敏，其真实身份是警方通缉的犯罪嫌疑人刘枫。在一个繁华都市的夜晚，陈慧敏接手了一宗强奸案件，随着情节的发展，故事揭示了她隐藏的真实身份以及她为了保护这个秘密而进行的复杂斗争。文中通过细腻的描写展现了陈慧敏的外表与内心的冲突，以及与同伴之间微妙的关系，她既是正义的执行者也是潜在的罪犯。小说深入探讨了性别认同与社会角色之间的矛盾，同时揭示了在美丽的都市光影下，隐藏的黑暗与罪恶。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_警花1—3合集.docx]([皮物]_警花1—3合集.docx)
 | Size            | 35744 bytes                           |
 | MD5             | 439a7191a62b928151203a72ced1c945                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 警察故事, 性转, 犯罪, 夜生活, 强奸, 性别认同, 自我探索, 都市小说, 复杂人性, 女性角色, 伪娘, 变身, 心理斗争, 角色冲突, 女性视角, 骚扰, 隐秘身份, 同性恋, 百合                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

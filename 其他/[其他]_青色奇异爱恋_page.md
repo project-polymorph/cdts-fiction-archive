@@ -7,7 +7,7 @@ TXT 下载: [[其他]_青色奇异爱恋.docx]([其他]_青色奇异爱恋.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一部探索青少年性别认同与恋爱情感的小说，主要讲述了一名女高中生的自我认同与情感发展。在故事初期，主人公明确她自己是女性且只喜欢男性，然而随着故事的发展，她的身体与心理发生了一系列变化，逐渐开始对自己的性别认同产生疑惑。文件中的角色在日常生活中遭遇来自同龄女生的表白，但对自己女性魅力的认知并未改变。随着情节的发展，主人公的身体变化（例如：身材的前凸后翘）与性别认同的冲突交织，加之与一位男生的初恋经历，提供出丰富的情感互动及性别探索的主题。最终，文件探讨了在这个过程中，关于爱的真正意义与身体认同的细腻讨论，是对青春期困惑、自我认同，以及性别与情感关系的深刻反思。内容包含性相关描写，因此涉及了一些敏感话题，展现了主人公在性别认同和爱情之间的挣扎。总体上，该文本充满了对情感与生理变化之间微妙关系的描绘，反映了现代青少年对性别认同及恋爱经历的复杂感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_青色奇异爱恋.docx]([其他]_青色奇异爱恋.docx)
 | Size            | 23128 bytes                           |
 | MD5             | ba04321d77648fa82bf273f24b9ee87d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 情感发展, 高中恋爱, 青春期困惑, 自我探索, 变身, 伪娘, 恋爱经验, 身体变化, 性别转变, 情感细腻, 男性视角, 初恋, 青春爱情, 自我意识, 性相关, 二次元小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

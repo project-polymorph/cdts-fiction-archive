@@ -7,7 +7,7 @@ TXT 下载: [[附身]_噬魂_[.docx]([附身]_噬魂_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一位高中毕业后选择创业的年轻人，因与父亲的争吵不欢而散，离家出走。在一条小路上，他遭遇闪电，随后在黑暗中失去意识。当他醒来时，发现自己身处一个神秘的洞口，里面有一位神秘的少女静静躺在石台上。标题提到的“噬魂决”是一个强大的功法，能吞噬他人的灵魂以增强自我能力。在故事中，主角通过练习噬魂决，逐渐掌握其力量，并最终决定将少女的灵魂吞噬，与其灵魂融合，从而引发了一系列身体与灵魂的变化。作品描绘了性别转换的过程，主人公由男变女，经历了身体的痛苦转变和身份的重新认知。作品的情感深刻且复杂，探讨了自我认同、灵魂的关系以及性别的流动性等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_噬魂_[.docx]([附身]_噬魂_[.docx)
 | Size            | 16261 bytes                           |
 | MD5             | f4314e4ab4db0c0c839501c10beb15f8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 灵魂融合, 自我探索, 性别认同, 修真, 魔教, 二次元, 幻想, 变嫁, 灵力, 武侠, 穿越, 女性视角, 魔法, 青春, 爱情, 异世界, 伪娘, 男娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

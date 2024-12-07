@@ -7,7 +7,7 @@ TXT 下载: [[变性]_彼岸_第二幕_第六回.docx]([变性]_彼岸_第二幕
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部涉及变性与自我认同探索的小说章节。故事围绕一名主角在机场首次身穿女装的紧张体验展开。主角在公共场所的心理状态由兴奋逐渐演变为不安和困惑，表现出在不同性别角色间的复杂心态。在机场的嘈杂环境中，主角遇到了一名褐发的外国小哥，经历了一次尴尬而又带有温情的互动。在这段互动中，主角的感受和初次被关注的窘态相互交织，形成一种独特的情感张力，最终在蒋先生的介入下，故事转向更深层的冲突与转变。此外，文中涉及了性别认同、自我探索和社会认同的问题。整部小说充满了关于性别转换与自我认同的细腻描写，探讨了角色内心的挣扎与欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_彼岸_第二幕_第六回.docx]([变性]_彼岸_第二幕
 | Size            | 35326 bytes                           |
 | MD5             | 373d0287dd2dd777c928a39b1d46caae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 自我认同, 机场, 异性装扮, 心理挣扎, 温情互动, 激烈情感, 二次元小说, 伪娘, 跨性别, 情感探索, 性别转换, 社会认同, 角色冲突, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

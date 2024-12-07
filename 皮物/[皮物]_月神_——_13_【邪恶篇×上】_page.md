@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_月神_——_13_【邪恶篇×上】.docx]([皮物]_月�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部猎奇题材的网络小说，标题为《月神——13【邪恶篇×上】》，主要围绕色情内容与角色扮演展开。故事中的主要角色包括婷萱、菲娅与薇盈盈。婷萱与菲娅姐妹俩设计了一项邪恶的计划，准备对薇盈盈下手。文中描绘了角色们之间的关系与互动，包含了对角色外貌的详细描写，尤其是在打扮与外观上的刻画，比如菲娅穿着粉嫩的萝莉塔装束，而婷萱则是以不良少女的形象出现。随着晚上降临，她们在藏匿处埋伏，准备对毫无防备的薇盈盈施加攻击。接下来的情节描绘了一系列充满压迫与淫秽的行为，描述了野蛮暴力与性侵犯的交织，因此作品可能会引起一些读者的不适。整篇文章涉及角色的性转与身份认同的复杂关系，也反映了对性的探索与挑逗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_月神_——_13_【邪恶篇×上】.docx]([皮物]_月�
 | Size            | 28420 bytes                           |
 | MD5             | 6ffd886e772fe324939ea3b583d207cb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ambiva                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 强奸, NTR, 调教, 逆后宫, 恶魔, TSF, 女体化, 游戏, 都市, 科幻, 奇幻, 纯爱, 多人, 病态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

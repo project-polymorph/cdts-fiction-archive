@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_图书管理员.doc]([皮物]_图书管理员.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部作品《图书管理员》讲述的是玛丽安·苏安娜，一位身材高挑、外貌出众的图书管理员，在大学图书馆内与一名名叫桑德拉·博文哈特的学生发生的复杂互动。在故事中，玛丽安以其强势的个性和对他人行为的严格要求主导着图书馆的秩序，而桑德拉则是一个被称为‘爱睡的桑德拉’的金发女郎，性格轻松且常常惹麻烦。随着情节的发展，玛丽安对桑德拉逐渐产生了强烈的控制欲，并引发了两人之间的性关系。作品包含了多个性别和性别角色的互动，表现了女性角色的权力交换和性欲探索。故事中不乏色情内容和对性行为的直接描写，尤其是玛丽安对于桑德拉的强烈欲望和控制欲，描绘了一个关于权力、性和个人欲望交融的复杂故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_图书管理员.doc]([皮物]_图书管理员.doc)
 | Size            | 36352 bytes                           |
 | MD5             | 8e56ec3d81539bb0b897b8446f576a74                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Sam Moose                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 图书管理员, 玛丽安·苏安娜, 强势女性, 性别角色, 色情描写, 大学, 权力交换, 自我探索, 性欲, 性别认同, 桑德拉·博文哈特, 性转, 伪娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

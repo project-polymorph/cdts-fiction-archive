@@ -7,7 +7,7 @@ TXT 下载: [[变装]_爱的堕落.doc]([变装]_爱的堕落.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《爱的堕落》，讲述了一个男人闫立的变装和跨性别体验的故事。闫立是一位在公务员系统工作的男性，近期发现自己对变装的兴趣愈发明显。他偷偷打扮成女性，并在职场中慢慢展开他的变身旅程。故事的开头描述了闫立的生活现状，尽管已婚，但因其爱好的秘密而感到孤独与压抑。随着国庆联欢晚会的到来，闫立被女同事们羽翼相助，临时代替生病的同事在舞台上表演，戴上假发和高跟鞋的他意外地受到观众的欢迎。在之后的工作中，闫立又因局长的邀请，迫于无奈再次穿上女装表演。局长似乎对他的变装表现出很大的兴趣，同时也暗示着潜在的性暗示，故事在娱乐与欲望之间不断游走，探讨了性别认同与个人欲望的相互纠葛。整部小说围绕着角色的内心挣扎与外界压力，展示了一种复杂的情感交织和性别认同的自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_爱的堕落.doc]([变装]_爱的堕落.doc)
 | Size            | 54272 bytes                           |
 | MD5             | d9602161e8587f6f26ff98632b5e5a7c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 自我探索, 变身, 职场情感, 秘密生活, 丑小鸭变公主, 女性形象, 家庭关系, 领导与下属, 表演艺术, 办公室政治, 社会压力, 成人内容, 性暗示, 性别角色, 个人成长, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

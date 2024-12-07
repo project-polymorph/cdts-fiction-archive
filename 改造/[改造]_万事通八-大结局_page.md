@@ -7,7 +7,7 @@ TXT 下载: [[改造]_万事通八-大结局.doc]([改造]_万事通八-大结�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《万事通八》的大结局部分，整体分为中篇故事，包含复杂的角色关系与情感纠葛。故事围绕主人公与其爱人丽之间的情感展开，题材涉及性别转变和跨性别的主题。故事开篇描述了主人公面临的困境，并与混沌角色进行对话，要求对方延迟婚礼以便与丽共度最后一晚。随着情节的发展，角色之间的深厚情感得以体现，淋漓尽致地展现了他们在面对命运的挑战时的坚定与脆弱。在最后的夜晚，两人之间的互动充满了紧张的情感与身体上的探索，涉及到亲密关系与感官体验，情节饱含色情内容，描绘了她们相互依偎的柔和与激烈交融。结尾部分则结合了对未知未来的思考，以及对爱情的无奈与珍惜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_万事通八-大结局.doc]([改造]_万事通八-大结�
 | Size            | 81408 bytes                           |
 | MD5             | a20cfd983fb0f5b4909cbd9e7e7610d5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 爱情, 自我探索, 情感纠葛, 强烈感官体验, 夜晚约会, 角色关系, 最终结局, 幻想故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

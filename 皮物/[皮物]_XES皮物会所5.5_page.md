@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_XES皮物会所5.5.doc]([皮物]_XES皮物会所5.5.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为小说《XES皮物会所》第五集的剧本，描绘了一位名为秦明的男主角与周围角色之间复杂的关系。故事从秦明与一名可爱萝莉的调情开始，逐渐引入严肃的情节，涉及到土耳其总统雷杰普·塔伊普·埃尔多安与主角妖梦之间的阴谋与权力斗争。文中包含了一系列紧张的交流和心理斗争，例如妖梦在握手时的态度以及与总统的对话，充分展现了角色的性格与情节发展的紧迫感。故事还涉及梦境的多重解读，表达出对身份和现实的思考。整体上，文档包含了丰富的角色对话、心理描写和紧凑的情节推进，同时隐晦描绘了人皮的概念及其与权力的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_XES皮物会所5.5.doc]([皮物]_XES皮物会所5.5.doc)
 | Size            | 44032 bytes                           |
 | MD5             | 2a0bca15082970b14f92adf7e81edcc7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别幻想, 性别认同, 权力斗争, 秘密阴谋, 土耳其总统, 人皮手套, 梦境, 视觉共享, 强烈情感, 复杂人际关系, 社会名流, 恐怖主义, 冲突与合作, 科技幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

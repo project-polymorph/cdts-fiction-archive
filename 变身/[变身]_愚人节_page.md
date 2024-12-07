@@ -7,7 +7,7 @@ TXT 下载: [[变身]_愚人节.docx]([变身]_愚人节.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档名为《愚人节》，讲述了主角松山君在愚人节那天的一系列搞笑与梦幻的经历。故事以松山君收到同班同学上田的短信为起点，短信暗示上田喜欢松山君。松山君对这个告白感到兴奋不已，但很快发现这其实是上田的玩笑。文章中充满了青春校园的气息和轻松幽默的对话，描绘了松山君从期待到失望又到困惑的情感变化。此外，故事中还引入了一个名为四月的妖精的角色，这个妖精能够让人们的谎言成真。文中松山君在被人捉弄和失落的同时，最后却意外得到了真正的情感回应。这是一个涉及到青春、爱情、变身和自我认知的故事，反映了一些年轻人在成长中所遭遇的情感波动与幻想。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_愚人节.docx]([变身]_愚人节.docx)
 | Size            | 26649 bytes                           |
 | MD5             | 59e569c18307b02143ed85c30b2c32cd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 愚人节, 青春爱情, 校园小说, 幽默, 奇幻, 性别转换, 女性视角, TSF, 伪娘, 变身, 自我认知, 妖精, 虚幻与现实, 成长烦恼, 告白, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

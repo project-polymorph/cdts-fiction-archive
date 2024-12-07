@@ -7,7 +7,7 @@ TXT 下载: [[变装]_重发万能事务所1-2，看过无视=_=.docx]([变装]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《重发万能事务所1-2》，内容围绕一个名为‘万能事务所’的神秘机构展开。故事的主角张驰，一个身家过亿的中国人，带着达成某种愿望的决心，来到了这个事务所。该事务所声称能够实现任何愿望，但通常需要付出巨大的代价。在和黑衣人3号的对话中，张驰表示他愿意付出一切来实现自己的委托，目标是他的仇人唐剑飞。随着情节的推进，故事穿插了一名清洁工的角色，他在学校的校庆日中潜伏，最终以唐欣悦的身份出现，变装和化身为校庆日的重点人物。此文档包含一系列性别转变与身份认同的主题，描绘了角色在不同身份与欲望之间的复杂心理，尤其是在唐欣悦与清洁工之间的身份转换。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_重发万能事务所1-2，看过无视=_=.docx]([变装]_
 | Size            | 26527 bytes                           |
 | MD5             | 4fcb58a2e59f26ea09559d7ce8420f6f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 奇幻, 都市, 自我认同, 反转, 黑暗幻想, 情感纠葛, 身份变换, 愿望实现, 代价, 校园, 青少年, 神秘事务所, 冒险, 性别认同, 权力与欲望, 情感冲突, 阴谋, 青春期探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

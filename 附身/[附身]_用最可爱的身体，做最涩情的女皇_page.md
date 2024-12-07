@@ -7,7 +7,7 @@ TXT 下载: [[附身]_用最可爱的身体，做最涩情的女皇.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《用最可爱的身体，做最涩情的女皇》，是一本涉及跨性别和性转主题的小说，叙述了主人公卡尔因家族的政治斗争而选择背叛以求生存。他被迫与亲王签订了绝对服从的契约，并在一次偶然的机会中发现了被囚禁的公主洛伊娜。亲王以奢华的容貌和扭曲的性格操控卡尔，要求他成为女皇的替代者，进而获取权力与美丽的身体。故事描绘了卡尔在恐惧与欲望中的挣扎，以及他内心的冲突与变态的快感。文本中包含对权力、性别与身份认同的探索，以及对人性阴暗面的揭露，情节复杂，包含了多重心理和情感交织的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_用最可爱的身体，做最涩情的女皇.doc]([附身
 | Size            | 39936 bytes                           |
 | MD5             | ddf071a4a8e67d1690bda8fd6d8caa1d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 权力斗争, 心理冲突, 绝对服从, 历史奇幻, 邪恶气息, 女皇, 身份认同, 阴暗面, 政治阴谋, 恐惧, 欲望探索, 绝望, 自我认知, 男性视角, 幻想, 动态情节, 复杂的人际关系, 背叛, 忠诚, 魔法, 绝对忠诚, 暗黑色情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

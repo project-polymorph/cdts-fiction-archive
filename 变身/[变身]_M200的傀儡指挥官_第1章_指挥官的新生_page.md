@@ -7,7 +7,7 @@ TXT 下载: [[变身]_M200的傀儡指挥官_第1章_指挥官的新生.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是关于一个名为M200的傀儡指挥官的变身故事。在故事的开头，指挥官正在指挥他的部队进行山地行军，期间他展现出了即使经历了一天一夜的战斗依然坚定的决心。然而，在一次战斗中，指挥官遭遇了埋伏，受了重伤，意识模糊中被救回了自己的房间。在这里，他遇到了副官M200，并意识到自己已经变成了一个年轻的少女身体。这种变化引发了他对自我身份和性别认同的思考。故事中充满了对新身体体验的探索与自我认知的冲突，副官TMP在帮助指挥官适应这具新身体的同时，也表现出对她的关心和温柔。随着剧情的发展，指挥官经历了一些亲密的瞬间，让他的性别认知和情感经历都变得复杂而暧昧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_M200的傀儡指挥官_第1章_指挥官的新生.doc]([�
 | Size            | 46592 bytes                           |
 | MD5             | a29a2aaacb1f455c5920d5db0bde3e66                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 自我探索, 小说, 变嫁, 伪娘, 校园, 强吻, 暧昧, 战斗, 温柔, 角色扮演, 情感冲突, 心智转变, 少女成长, 未知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

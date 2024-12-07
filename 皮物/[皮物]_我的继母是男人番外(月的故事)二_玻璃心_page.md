@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的继母是男人番外(月的故事)二_玻璃心.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《我的继母是男人番外（月的故事）》是一个跨性别主题的长篇小说的部分内容。故事主要围绕主人公月的生活展开，他在与养父的互动中逐渐了解到养父女儿怡的特殊经历。怡是一个在火灾中受了重伤的女孩，其面貌和身体特征因事故而遭到严重破坏。为了让怡能够重新以正常的身份生活，养父决定创作一副可以让怡伪装的‘人皮’，以帮助她克服自卑和恐惧。文本描写了月对怡的关心与保护，以及怡在面对自己真实样貌时的敏感与羞涩。故事中也探讨了性别认同和自我接受等深层次主题，展现了复杂的情感交织。细腻的心理描写让人感受到角色之间的深厚情感和相互支持。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的继母是男人番外(月的故事)二_玻璃心.doc
 | Size            | 19096 bytes                           |
 | MD5             | 1d1ca1afb6c2ae39d69083ce0b596828                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身, 家庭关系, 自我接纳, 性别认同, 心理探索, 火灾, 亲情, 伪装, 生物技术, 情感支持, 成长, 灰暗的生活, 深层次关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

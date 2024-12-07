@@ -7,7 +7,7 @@ TXT 下载: [[变身]_妹妹的变身魔杖（3）下.docx]([变身]_妹妹的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《妹妹的变身魔杖（3）下》是一部涉及性别转换及自我认同的小说，讲述了一个哥哥和他的妹妹之间的奇妙冒险。在这部作品中，妹妹拥有一根变身魔杖，可以将她的身体与哥哥的身体融合，创造出一个猫娘的形象。故事开篇描述了哥哥在穿着妹妹身体的情况下，走在街上所感受到的压力和羞愧感。他虽然外表是普通的高中男生，但内心却充满了对周围人目光的敏感。妹妹的社交恐惧症在这个过程中显露无遗，她不停地催促哥哥回家，而哥哥则试图安抚妹妹，却无能为力。随着故事的发展，哥哥和妹妹之间的互动，充满了可爱与戏谑的元素，展现了性别转换带来的心理冲突和自我探索的复杂情感。通过这个设定，作者探讨了性别认同和亲情的深层关系，展现了他们在新身份下的成长与变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_妹妹的变身魔杖（3）下.docx]([变身]_妹妹的�
 | Size            | 68329 bytes                           |
 | MD5             | 6d34a4ebf67edfeb71cd92a69b5db90a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 性别转换, 伪娘, 跨性别, 亲情, 校园生活, 猫娘, 魔法, 心理冲突, 自我认同, 冒险, 爱与羞耻, 奇幻, 幻想, 青春, 成长, 精神冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

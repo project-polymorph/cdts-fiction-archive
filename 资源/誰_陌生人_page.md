@@ -7,7 +7,7 @@ TXT 下载: [誰_陌生人.doc](誰_陌生人.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了主人公欣迪对性别认同和自我探索的旅程。故事开头，欣迪在获得了一件黑色女仆装后，兴奋地在房间里试穿并拍摄短视频，感受到新衣服带来的不一样的自我认同。虽然家中环境显得有些压抑，欣迪对自己的性倾向和喜好仍然充满好奇与探索。他与另一位名为小路的网友建立了深厚的关系，尽管小路有些神秘，但欣迪从他那里获得了很多服装，这增强了他对女性形象的认同。随着故事的发展，欣迪发现自己的弟弟也对这条道路产生了兴趣，这让他内心复杂。同时，欣迪不断尝试通过拍照和分享来确认自己的性别认同。这篇作品不仅探讨了性别的流动性，还揭示了角色们在自我接受过程中的矛盾和挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [誰_陌生人.doc](誰_陌生人.doc)
 | Size            | 40448 bytes                           |
 | MD5             | cba0df517039c8e898152fe536c4bc97                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 性转小说, 伪娘, 跨性别, 黑暗幻想, 网络交流, 亲密关系, 家庭冲突, 自我认可, 秘密生活, 衣物收藏, 隐藏身份, 社会压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

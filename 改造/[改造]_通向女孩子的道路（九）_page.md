@@ -7,7 +7,7 @@ TXT 下载: [[改造]_通向女孩子的道路（九）.doc]([改造]_通向女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别相关小说《通向女孩子的道路》的第九章节，主要讲述了主人公小翼在保健室内的经历和沉浸的女体化计划。章节开始，小翼在保健室中醒来，周围弥漫着消毒液的气味，视觉上被白色透明的窗帘包围，他感到困惑，脑中一片混乱。在此过程中，小翼遇到了名为速水早纪的女医生，早纪用温柔而冷静的声音与小翼交谈。小翼对早纪的美丽感到迷惑和羞怯，随着情节推进，小翼开始关注自己身体的变化，深感自我认同危机。“小翼你为什么会有小鸡鸡？”这一句显现了小翼面对性别认同的内心挣扎与痛苦。在整个章节中，贯穿着对性别认知、自我探索及情感冲突的深刻描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_通向女孩子的道路（九）.doc]([改造]_通向女�
 | Size            | 104448 bytes                           |
 | MD5             | 161054c81651c7dccbea8077c468148c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 女体化, 心理冲突, 自我探索, 伪娘, 跨性别, 女性视角, 校园, 青春, 情感纠葛, 医师与患者关系, 保健室                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

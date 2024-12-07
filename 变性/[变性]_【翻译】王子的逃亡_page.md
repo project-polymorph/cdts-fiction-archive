@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】王子的逃亡.doc]([变性]_【翻译】王�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《转变与逃亡》，是一本围绕性别转换及跨性别主题展开的小说。故事的主角泰瑞娜在一觉醒来时发现自己被陌生人安德雷恩拥抱，他原本的身份、性别都发生了不可逆转的变化。通过对话，透过安德雷恩的解释和事实的揭示，泰瑞娜逐渐意识到自己已经转变为女孩，并且掀起了一系列关于性别认同、身份、以及自身内在渴望的探讨。文中通过回忆揭示了泰瑞娜的过去，她的母亲贾斯缇娜在她小时候曾希望她能够成为个女儿，而她的父亲则执意要她表现得像个男孩。在充满幻想与现实交织的背景下，泰瑞娜不断探索自己的真正身份以及感情归属。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】王子的逃亡.doc]([变性]_【翻译】王�
 | Size            | 127488 bytes                           |
 | MD5             | 50b5d171ac452ea4018aba481807f4d9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 身份认同, 性别认同, 爱情, 自我探索, 魔法, 奇幻, 情感纠葛, 女权主义, 童年回忆, 禁忌恋, 情感冲突, 成长, 自我否定                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

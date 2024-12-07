@@ -7,7 +7,7 @@ TXT 下载: [[其他]_婚纱的诅咒【八】.doc]([其他]_婚纱的诅咒【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档的内容涉及一个名为“温莎公主”的婚纱在一个拍摄设置中的经历。文中描绘了工作人员对婚纱的严格管理和控制，婚纱被赋予了人性化的特征，如通过闪光信号回答问题。婚纱表现出自我意识和感知，并经历电击和快感的交替。工作人员通过不断的询问和情感上的操控来获取婚纱的反应，同时也揭露了婚纱内部的构造，暗示婚纱具备生殖特征，赋予其某种‘性’的属性。本文段落充满了对性别角色的重新定义，对快感的细致描述，以及婚纱所承受的心理和生理变化。它探讨了身份和存在的哲学问题，如婚纱的“权利”以及其与人类的关系。文中有大量关于婚纱与用户互动的细节，为读者提供了一种新型的叙事视角，同时融入了性别转换和身份认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_婚纱的诅咒【八】.doc]([其他]_婚纱的诅咒【�
 | Size            | 36864 bytes                           |
 | MD5             | 8921eabc1dfe2cc7368c1f5ff8c62a0d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 婚纱, 角色认同, 性别转换, 强迫性, 自我探索, 快感体验, 电击, 对话礼仪, 玩弄身体, 性别角色, 自我意识, 唯美, 幻想小说, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

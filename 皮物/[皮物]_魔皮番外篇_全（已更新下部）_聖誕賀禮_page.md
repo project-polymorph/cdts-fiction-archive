@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔皮番外篇_全（已更新下部）_聖誕賀禮.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇与伪娘和跨性别主题相关的小说，内容涉及角色性别转换及其心理状态的变化。文中讲述了主角杜菲的内心独白，她对自身与世界的厌恶，以及与他人关系中的复杂情感，特别是对她父母的反感和对自身身份的认知过程。故事设定在一个充满黑暗和暴力的环境中，杜菲是一位年轻的女性董事长，她通过极端手段来压制和控制他人，表现出对自身痛苦的发泄。这篇小说不仅涉及性别认同和角色转变，还包含了凌虐、强奸和沉重的心理冲突等情节，体现了主角复杂的内心世界与对快感的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔皮番外篇_全（已更新下部）_聖誕賀禮.docx
 | Size            | 69759 bytes                           |
 | MD5             | 97c9adf1df847758522264eda1c2d83c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 强奸, 自我认知, 角色转变, 心理冲突, 兽耳, 机关, 阴暗, 人际关系, 社会压迫, SM, 超现实主义, 背叛, 复仇, 黑暗幻想, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_小艾的幸福_1、2章.doc]([变装]_小艾的幸福_1�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《小艾的幸福》讲述了一位名叫小艾的年轻人的故事，他与李经理一起出差，入住一家豪华酒店。小艾因与女友的异地恋而心情复杂，在母校周边徘徊时，偶遇一位穿着奇特的女孩，并对她的打扮感到好奇和兴奋。在酒店里，小艾意外发现李经理的房间似乎有人，出于好奇，他决定潜入查看，结果无意中见到了李经理女装的秘密与她私下里放荡的一面。故事互动激烈，围绕小艾的内心挣扎与性启蒙，探讨性别认同与自我发现的主题，情节包括打扮、偷窥、和愉悦感受等。他的心态从初始的羞涩演变为渴望与羡慕，最终在刺激与紧张交织的场景中，他有了第一手的感受与体验。文中包含一些限制级的情节描写，适合研究相关性别和性行为的文献。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_小艾的幸福_1、2章.doc]([变装]_小艾的幸福_1�
 | Size            | 80896 bytes                           |
 | MD5             | 970599b2774d7813d8c124c08884b651                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 女装大佬, 偷窥, 自我认同, 性别认同, 性启蒙, 异地恋, 情感纠葛, 激烈情感, 职场关系, 幻想]}}]}                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

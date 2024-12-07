@@ -7,7 +7,7 @@ TXT 下载: [[附身]_从路人开始的魔法少女_3~4.doc]([附身]_从路人
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇跨性别相关的小说片段，围绕吉田友香和她母亲吉田绘衣进行叙述。故事开头描写了母女两人在百货商场购物的日常经历，友香对美丽商品的向往以及绘衣的经济压力。这种平静的日常被突如其来的警报声打破，恶鬼的入侵使得场面变得紧张。友香被选中成为魔法少女苍蓝，面临入侵者的威胁。绘衣在失去女儿的掌控之下，心中满是焦虑与恐惧。接下来，苍蓝在人形与魔法少女的身份之间随之转变，面对恶鬼，展现了内心的冲突与战斗的期待。小说描绘了性别转换、身份认同与母女关系的复杂性，同时涉及魔法少女的幻想元素。本章带出了一种即将到来的危机感，并暗示了人物之间更深层次的纠葛和情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_从路人开始的魔法少女_3~4.doc]([附身]_从路人
 | Size            | 80384 bytes                           |
 | MD5             | 634110e7f8df4da7a3c35a8005c9aed5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 跨性别, 恶鬼入侵, 母女关系, 自我认同, 性别转换, 情感冲突, 战斗, 日常生活, 妖怪, 幻想文学, 变身, 伪娘, 成长故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

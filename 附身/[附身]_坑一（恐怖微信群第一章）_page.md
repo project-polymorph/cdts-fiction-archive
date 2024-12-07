@@ -7,7 +7,7 @@ TXT 下载: [[附身]_坑一（恐怖微信群第一章）.docx]([附身]_坑一
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位名为吕仁的角色的日常生活，他在春节假期后重返办公室，情绪显得有些低落和烦躁，怀疑自己患上了假期综合症。与同事张扬的互动反映了吕仁对自己职业生涯的思考和不安。他在工作期间被拉入一个名为‘老司机装逼群’的微信群，随即发现群内充斥着不雅图像，引发了他对群内成员的好奇与怀疑。在尝试退出该群的过程中，吕仁发现自己不断被重新邀请进群，同时群内的对话内容也让他震惊和困惑。这个群似乎涉及了一些神秘的任务和角色，同时吕仁感到一种无形的压力。这一章展现了角色内心的斗争、自我认知的变化及其对性别转换主题的引导。这种情节设计为后面的故事铺垫了悬念，同时也涉及到性别认同和自我探索的深层次主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_坑一（恐怖微信群第一章）.docx]([附身]_坑一
 | Size            | 45257 bytes                           |
 | MD5             | 5fe7b6f4aa6f4542999d6db0cd7b2083                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 群聊, 性别认同, 职场焦虑, 自我探索, 二次元, 神秘任务, 性爱, 视觉艺术, 社交媒体, 惊悚, 都市生活, 年轻人心理, 中国现代小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

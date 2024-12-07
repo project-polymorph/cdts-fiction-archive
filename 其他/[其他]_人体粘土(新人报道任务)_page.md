@@ -7,7 +7,7 @@ TXT 下载: [[其他]_人体粘土(新人报道任务).docx]([其他]_人体粘�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为来自新人fklido的报告，包含了一名泥塑店老板的故事，该老板同时利用一种名为“细胞粘土”的材料进行手术，帮助女性顾客进行身体改造。故事中的主要角色在进行手术时使用这种特殊的粘土替代顾客的乳房，并提到了一位大学生因胸部问题而寻求他的帮助。在手术过程中，角色表明自己对此过程的冷漠和对女性身体的占有欲。内容中涉及多种令人不安的情节，包括人体改造、性别认同、以及涉及身体部位的替换和敏感体验。从小说的叙述中，不仅可以看到身体异化和身份的冲突，也呈现了对身体和性别的复杂理解。文本中包含了一些明确的性相关情节，描绘了角色的心理变化及其在身体改造过程中的快感与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_人体粘土(新人报道任务).docx]([其他]_人体粘�
 | Size            | 26232 bytes                           |
 | MD5             | c221b9b510d2278a1b7d81819a70b86b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | fklido                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 身体改造, 变装, 细胞粘土, 手术, 乳房替换, 自我认同, 性别认同, 化妆, 实验室, 性欲, 身体异化, 女性视角, 生物技术, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

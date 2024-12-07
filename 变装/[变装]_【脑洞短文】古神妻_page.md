@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【脑洞短文】古神妻.docx]([变装]_【脑洞短文
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇短文名为《古神妻》，是一篇以克苏鲁题材为背景的变身小说，讲述了男主角林茵的奇异经历。故事中，林茵自小接触克苏鲁的故事，虽然知道这些神话生物可能并不存在，但内心仍然对它们充满恐惧。在一次噩梦中，他发现自己与古神之间的联系愈发紧密，甚至与一个古神展开了一段奇异的互动。古神试图化身为女子，并表示想要与林茵结为夫妻。在这场有关性别与身份的探讨中，林茵面对自己性别与身份的困惑，同时也体验了古神所带来的超自然且充满幻想的场景。小说细致描写了林茵与古神之间的关系变迁，探讨了爱、性别与自我认知的主题，充满了奇幻与情色元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【脑洞短文】古神妻.docx]([变装]_【脑洞短文
 | Size            | 15900 bytes                           |
 | MD5             | f6f5051d6971b186bce10c76897b32da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 古神, 性别转换, 克苏鲁, 变身, 幻想小说, 触手, 爱情, 性别认同, 超自然, 奇异经历, 男男恋, 自我探索, 异世界, 二次元, 伪娘, 变装, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

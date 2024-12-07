@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——魔方（三）.doc]([附身]_TG物语——
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《TG物语——魔方（三）》，内容围绕主人公胡军因意外死亡而转生进入一个女性身体的故事，展现了他从男性身份向女性身份的心理和生理转变。故事一开始，胡军得知自己已死，并且他的灵魂现在处在一个女性身体中，面对这一不可思议的现实，胡军内心充满困惑与不安。他尝试了解自己新身份的背景，但却发现除了身份没有任何可以证明自己的物品。随着故事的发展，胡军逐渐适应新的身体，他细致刻画了自己女性形态的美丽，甚至开始对新身体的感受露出好奇与欣赏，并思索如何利用新的身份与生活。与此同时，胡军决定以‘胡欣’作为新名字，借此开启全新的生活。此时，朋友余震的反应与接受度也为后续情节埋下伏笔，增加了剧情的复杂性与趣味性。整体体现了性别认同与自我探索的主题，还有对身体性别变化带来的内心斗争与自我认同的描述。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——魔方（三）.doc]([附身]_TG物语——
 | Size            | 45568 bytes                           |
 | MD5             | 2078f793f33944302d8de79ed5e8473e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 心理探讨, 变身, 女性认同, 自我探索, 身体变换, 情感纠葛, 都市生活, 性别角色, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_《三年女人》2.doc]([变装]_《三年女人》2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别主题小说，内容围绕安德鲁·汉密尔顿和他的妻子邦妮之间的日常生活，以及安德鲁在性别认同上的挣扎与转变。故事开始于安德鲁准备上班的情景，描写了他的外貌和对妻子的亲密互动。他们之间的对话透漏出安德鲁的内心冲突，尤其是在他与妻子亲吻后，内心的厌恶感随之显现。安德鲁逐渐卸下他的女装，包括胸罩和拖鞋，表现出对自己身体的羞愧和不安。接着，情节转入他的自我探索过程，描述了他在河边赤裸的内心斗争，特别是对自己女性化身体的复杂感受和对过去手术的悔恨。小说通过细腻的描写展现了性别转换所带来的情感波动，以及角色如何在这种情感状态中寻求自我认同和解放。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_《三年女人》2.doc]([变装]_《三年女人》2.doc)
 | Size            | 47616 bytes                           |
 | MD5             | f5fa687d6c6aa140ffd20b035e501ea3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 1992-05-10                                 |
+| Tags            | 跨性别, 性别认同, 性别转换, 家庭关系, 自我探索, 变装, 情感纠葛, 女性化, 内部冲突, 心理斗争, 角色发展, 男性与女性的双重身份, 性别认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

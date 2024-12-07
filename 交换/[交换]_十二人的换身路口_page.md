@@ -7,7 +7,7 @@ TXT 下载: [[交换]_十二人的换身路口.docx]([交换]_十二人的换身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说以一个繁忙的十字路口为背景，讲述了十二位不同人生的人在此相遇的故事。通过他们的生活片段，展现出各自不同的背景与情感。如少妇与女儿的温馨对话，面对邻居藤原时的微妙关系，青春期情侣之间表达爱的挣扎，以及跟踪狂对空姐的非理性迷恋。随着剧情的发展，一道神秘的红光闪现，似乎暗示着他们的命运会有新的转折，并引发一系列奇妙的变化。他们在这个十字路口的相遇，不仅是共通的地点更是连接彼此人生轨迹的交汇点，故事带有奇幻色彩，探讨了个人欲望、爱情以及人际关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_十二人的换身路口.docx]([交换]_十二人的换身
 | Size            | 49411 bytes                           |
 | MD5             | 13a5506608ac2970e1a47c08663d7bc4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 奇幻, 青春, 人物关系, 爱情, 自我认同, 跨性别, 幻想, 剧烈冲突, 生活片段, 心理斗争, 角色外观变化, 十字路口                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

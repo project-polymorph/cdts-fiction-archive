@@ -7,7 +7,7 @@ TXT 下载: [[附身]_破碎-命运之书（手记重制版）.doc]([附身]_破
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《破碎-命运之书（手记重制版）》，是一部探索复杂人际关系与性别认同的跨性别小说。故事的情节围绕着两位主要角色：孙沫涵与她的哥哥孙强展开。孙沫涵是一个性格扭曲、依赖性极强的女孩，她对哥哥的爱已然变质，表现出病态的占有欲与控制欲。第一章描述了孙沫涵作为国家暗部的队长，展现了她冷酷无情的一面，同时又在私下对哥哥的极端情感纠缠。此情节充满悬疑与紧张，涉及暗杀、监视与强迫等元素，揭示了青春期的扭曲与脆弱。此外，小说还涉及了诸如时间回溯、超能力等科幻设定，以及家庭关系中的复杂情感，令故事充满深度与戏剧性。后续章节继续发展这一病态但又引人入胜的关系，探讨了性别认同、自我探索等深刻主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_破碎-命运之书（手记重制版）.doc]([附身]_破
 | Size            | 75264 bytes                           |
 | MD5             | 70665b2d656ec6bb3cdaae7f4bb736a0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 病态恋情, 哥妹情深, 暗网, 家庭关系, 扭曲情感, 超能力, 强迫, 监视, 青春期, 自我认知, 女性视角, 成人内容, 情感控制, 精神病态, 社会实验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

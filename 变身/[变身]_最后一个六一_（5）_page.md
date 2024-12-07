@@ -7,7 +7,7 @@ TXT 下载: [[变身]_最后一个六一_（5）.doc]([变身]_最后一个六�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于复杂人际关系和情感纠葛的变身小说，围绕着两个主要角色：秦月明和陈磊展开。故事开始于秦月明因丈夫王皓的出轨而陷入离婚的困境。王皓回国后与小自己五岁的女性发生了感情，令与他维持十多年感情的秦月明备感失落与愤怒。故事情节紧接着陈磊的父母因债务破产意外去世，陈磊承受着人情冷暖，面临生活的困境。秦月明对陈磊表示关心，二人之间的关系也逐渐变得亲密。在一次酒后，秦月明和陈磊之间发生了激烈的情感纠葛，秦月明情不自禁地与变身为王皓的陈磊展开了亲密的关系，涉及到了强烈的性暗示和情欲互动。整个故事探讨了人际关系中背叛、情感需求与性别认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_最后一个六一_（5）.doc]([变身]_最后一个六�
 | Size            | 46080 bytes                           |
 | MD5             | 2b109974593a6099b4c87c20606d56c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 情感纠葛, 家庭关系, 性别认同, 三角恋情, 人生低谷, 暗恋, 婚姻危机, 现实主义, 女性视角, 情欲纠葛, 自我探索, 心理斗争, 人情冷暖, 强烈情感, 成长与蜕变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

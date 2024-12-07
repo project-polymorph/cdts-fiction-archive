@@ -7,7 +7,7 @@ TXT 下载: [[其他]_欲成仙_3_分神.doc]([其他]_欲成仙_3_分神.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一位名为岳阳的角色，通过使用名为'分神'的法术，试图控制其母亲的肉身，探索和体验女性身体的情感和感官。在故事中，岳阳因合欢子吞噬母亲的灵魂而经历了这种奇异的转变。他通过运用法术使自己的灵魂的一部分进入母亲的身体，产生了一种奇特的联结。在分神的引导下，岳阳和他母亲的灵魂之间产生了一种共同的感知，使得一系列亲密和感官的体验相互交织。在这个过程中，岳阳逐渐进入了对母亲身体敏感度的探索，体验到了一种全新的快感，故事的情节充满了情色的描写，展现了传统性别角色和身份认同的复杂性。这种体验引发了角色对自我身份认同的思考，情节涉及性别、身体、欲望及自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_欲成仙_3_分神.doc]([其他]_欲成仙_3_分神.doc)
 | Size            | 29696 bytes                           |
 | MD5             | 76115b12e39b39701f4c80a2b9c55f06                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 欲望探索, 自我认同, 母子关系, 肉体感知, 情感交流, 超自然, 情色, 双修状态, 灵魂转换, 法术, 敏感体验, 角色扮演, 内心冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老婆我爱你.doc]([改造]_老婆我爱你.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位男子通过科技手段进行性别转换的小说作品。故事围绕主人公与妻子柳晴的关系展开，反映了他的疑虑与不安。在五年的婚姻中，主人公感到妻子对他的冷淡与疏离，引发出他对她的怀疑，而他决定通过变装成女性的身份来亲近妻子，寻求真相。小说描绘了他与朋友之间的对话和实验过程，包括使用高科技药品和人造皮肤的细节。他在实验室里进行转变，涉及到身体的改变、药物的使用，以及对自己身份认同的探索。故事结合了性别认同、自我探索和科幻元素，是一部充满创意与挑战的变身类小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老婆我爱你.doc]([改造]_老婆我爱你.doc)
 | Size            | 299008 bytes                           |
 | MD5             | 221e4d1511398ed372a480f2aad8d7d9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 科技, 人造皮肤, 药物改造, 情感纠葛, 年龄差, 强奸, 逆后宫, 调教, 恋爱, 百合, 都市, 奇幻, 科幻, 男性视角, 虚拟现实, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

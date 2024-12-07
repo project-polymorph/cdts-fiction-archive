@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_月神_——_15_【正传·始】.docx]([皮物]_月神_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘 TS 变身与跨性别相关小说，描绘了一个名为 ARTEMIS-B 的先进机器和其周边人物的互动。故事开端设定在未来的2025年，某集团总部内，角色婷萱与黑衣男子就考古队发现的古老机器进行讨论。随着情节的发展，小说逐渐引入了科幻元素，涉及量子空间实验和人体改造的主题。文件中提及的机器 ARTEMIS-B 是一款多用途皮物制造机，能够制造皮质材料，这暗示了更深层的性别和身份的转换过程。文本中穿插了角色之间的互动和一些可能露骨的色情内容，例如人体的接触和性暗示，展现了性别认同和自我探索的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_月神_——_15_【正传·始】.docx]([皮物]_月神_�
 | Size            | 19331 bytes                           |
 | MD5             | 1d71b0105128cd826e4a4059c6dbc598                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ambiva                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 科技幻想, 量子实验, 角色变身, 未来科幻, 性别认同, 自我探索, 阴暗实验室, 人体改造, 虚拟现实, 妖狐, 性别表现, 派系斗争, 人际互动, 色情暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

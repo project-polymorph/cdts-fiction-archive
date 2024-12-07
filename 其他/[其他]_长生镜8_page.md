@@ -7,7 +7,7 @@ TXT 下载: [[其他]_长生镜8.docx]([其他]_长生镜8.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇围绕跨性别变身主题的小说，讲述了主角友安通过变身方式变成女性孔语蝶的过程。故事开篇，友安在梳妆台前准备进行变装，拿出多件女性服饰和配件，包括黑色内衣、连衣裙等，细致描写了他对这些女性衣物的渴望与好奇。随着变身的进行，友安的身体逐渐被女性化的皮肤包裹，最终在镜子中转变为美丽的孔语蝶。小说中涵盖了有关性别认同、自我探索和欲望的复杂情感，孔语蝶在变身后展现出一种既冰冷又充满诱惑的美感，并且在电话中与其他角色的对话中透露了她与李沛文的关系和即将启程的情节。整体文本充满了幻想色彩和对女性身体的描绘，暗示着性别及自我认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_长生镜8.docx]([其他]_长生镜8.docx)
 | Size            | 18846 bytes                           |
 | MD5             | 6c8beea5a1e1cc430f19f172f0dc9042                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性别认同, 自我探索, 欲望, 魔法, 幻想, 二次元, 变嫁, 女性视角, 角色扮演, 内心斗争, 衣物交易, 情感纠葛, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

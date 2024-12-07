@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_第五章_怪人的推理_(上).docx]([皮物]_第五章_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇跨性别及变身相关的小说，名为《怪人的推理》(上篇)，内容围绕一位自称‘怪人’的调查员与黑帮势力及政府之间的复杂关系展开。故事的背景设定在充满悬疑与阴谋的都市环境，怪人在调查过程中的发现让故事情节逐渐加深，涉及了黑帮走私、政府调查局的内幕等情节，推理过程与人物内心的冲突并行描写。此外，文本中融入了对人性与社会黑暗面的探讨，例如描述布拉迪这一角色的家庭关系及其借用黑帮势力的动机。文中也包含了一些较为露骨的对话，揭示角色之间的私密关系与情感纠葛。整体文本中充满了紧张与戏剧性的情感波动，角色心理的复杂性也是故事的一大特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_第五章_怪人的推理_(上).docx]([皮物]_第五章_�
 | Size            | 21192 bytes                           |
 | MD5             | 1f4697181383f802e8f2a92da52d399d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身小说, 调查员, 黑帮, 政府阴谋, 自我认知, 家庭关系, 社会黑暗面, 悬疑, 都市猎奇, 性别认同, 情感纠葛, 推理, 未知身份, 权力斗争, 秘密调查                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

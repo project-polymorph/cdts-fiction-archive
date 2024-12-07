@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】私人调查.doc]([变性]_【翻译】私人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为私人调查的小说，讲述了年轻的私人侦探约翰·威尔科克斯的故事，他试图介入业界令人瞩目的克林顿·克雷尔的特定领域。文件开头介绍了克雷尔的工作特点以及威尔科克斯对此的憧憬。随着故事展开，威尔科克斯接到了来自高地森林学院的请求，该学院是一所专注于为富有家庭的女儿提供教育与培训的特殊学校。艾博拉茜校长向他描述了学校的保密性质及其发生的紧急事件——三名学生失踪。威尔科克斯在接受委托前，决定先视察学校，期望能获取更多信息，以帮助解决失踪案。小说中描绘了他的观察与思考，以及对学校严密安全措施的关注和对美丽教职员工的吸引。此文件的内容涉及性别表现、自我认同及个人的复杂心理，特别是在私密且相对封闭的教育环境中。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】私人调查.doc]([变性]_【翻译】私人�
 | Size            | 135168 bytes                           |
 | MD5             | 3041c98158f30f7fdf6e4afc838e5491                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Karen Albright（翻译：魔之天涯）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 私人侦探, 高地森林学院, 失踪案件, 性别表现, 社会秘密, 教育培训, 神秘调查, 克林顿·克雷尔, 约翰·威尔科克斯, 艾博拉茜校长, 美丽女性, 安全性问题, 自我认同, 易装癖社区, 二次元, 奇幻写作, 情感纠结                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

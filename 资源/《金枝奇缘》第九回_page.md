@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第九回.doc](《金枝奇缘》第九回.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《金枝奇缘》第九回主要讲述了薛虎与顾萍、顾茹之间的情感纠葛。在一处修炼场所，顾长卿因接到首座的紧急召唤而匆匆离开，留下顾萍和她的二位师弟薛虎与顾茹。顾萍因疲惫而需要修养，薛虎出于对顾萍的爱慕与责任，为她提供帮助。在这一回中，顾萍从一种剧烈的疲惫状态中恢复后，展现出其与薛虎间暧昧的互动，她对薛虎的无意引诱引发了薛虎的情感斗争，导致了他们在一个封闭空间内产生的紧张与欲望。当顾萍开始揭露自己的身体时，薛虎感到既震惊又无可奈何，他陷入了一种强烈的道德困境与生理冲动之间的斗争。此时的顾萍发出了阵阵呻吟，显示出一种享乐与痛苦共存的状态，而薛虎面对任务艰巨又充满诱惑的局面，内心充满挣扎。整个章节在描绘情感与欲望的冲突中，表现出性别与身份认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第九回.doc](《金枝奇缘》第九回.doc)
 | Size            | 39936 bytes                           |
 | MD5             | 288c5abcbfd349169586b6c232136dca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 变身, 伪娘, 爱情, 师弟爱慕, 欲望, 暧昧关系, 师姐与师弟, 身体探索, 跨性别, 情感纠葛, 强烈的内心斗争, 魔幻修真                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

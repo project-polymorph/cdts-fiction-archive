@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《逆血》.doc]([皮物]_《逆血》.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一个名为《逆血》的伪娘/TS变身和跨性别相关的小说。故事的主角柳晨，一名普通高二学生，日常生活中经历了与新班主任和同学们的互动。故事开始时，柳晨在回忆起前一晚的模糊记忆，感到疑惑，之后在学校中与新同学郭雯和新班主任许丽相遇。随着情节的发展，柳晨发现了与郭雯的关系逐渐加深，也经历了与性别认同及外表变化相关的纠葛。小说涉及一些关于身份认同、自我探索等深刻的主题，结合了日常校园生活与奇幻的变身情节。同时，故事中涉及的一些角色和场景描绘，暗示了可能的性别转换与变装情节，带来了冲突与感情的发展，这使得整个故事更加引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《逆血》.doc]([皮物]_《逆血》.doc)
 | Size            | 38912 bytes                           |
 | MD5             | d2b8516e15474caf47c1717ff45cefbb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 逆血, 伪娘, 男娘, 变身, 跨性别, 爱情, 校园, 性别认同, 自我探索, 奇幻, 青春, 青春恋爱, 变嫁, 女体化, 强烈的情感纠葛, 药物影響, 男性到女性的转变, 疼痛与接受, 死党, 青春期烦恼                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

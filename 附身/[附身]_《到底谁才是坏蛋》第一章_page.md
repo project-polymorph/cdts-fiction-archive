@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《到底谁才是坏蛋》第一章.doc]([附身]_《到�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇小说的第一章，故事围绕着主角郭麒麟的生活展开。在一段描述中，郭麒麟在学校中面临复杂的人际关系与身份认同，包括与其前妻宓可岚的感情纠葛及与同学的互动。故事不仅涉及普通的校园生活，更引入了战国遗迹的神秘背景，铺垫了后续发展。《到底谁才是坏蛋》探讨了青春期的探索与自我认知，以及性别认同、友情、爱情等主题。内容中出现了多个角色的对话和内心描写，力求体现他们的个性与关系动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《到底谁才是坏蛋》第一章.doc]([附身]_《到�
 | Size            | 34816 bytes                           |
 | MD5             | d95159d929f53445067f91de32345164                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 青春期探索, 友谊, 爱情, 校园生活, 战国遗迹, 自我认知, 郭麒麟, 宓可岚, 三屌, 学校环境, 人际关系, 神秘事件, 角色互动, 伪娘, 变身, 变嫁, 心理冲突, 二次元, 奇幻元素, 性转小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

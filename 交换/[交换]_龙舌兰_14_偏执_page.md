@@ -7,7 +7,7 @@ TXT 下载: [[交换]_龙舌兰_14_偏执.docx]([交换]_龙舌兰_14_偏执.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节为伪娘题材小说《龙舌兰》第十四章，名为《偏执》。故事围绕主角杨立的身体转换和心理挣扎进行叙述。杨立被强制入替到女性身体中，面临着对自己身份认同的冲突与迷茫。他仍在思念着被他人替换身躯的妻子思琪和初恋蕊可，但同时也被卷入了复仇者与赵福源之间复杂的关系。杨立的内心感受通过他对周围人变化的思考展现得淋漓尽致，例如他对思琪和蕊可关系变化的困惑，以及在新身份下对身体的异样体验。情节发展中，赵福源的出现，加强了杨立的心理斗争，带来身体和身份的双重挑战。小说中含有明显的性别转换及性别认同主题，情节涉及强奸、性交易和自我探索等元素，且有较为激烈的性情描写和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_龙舌兰_14_偏执.docx]([交换]_龙舌兰_14_偏执.doc
 | Size            | 29257 bytes                           |
 | MD5             | a30117fb80749fcc2084361c4a8be728                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | yudi（ft3020997）                               |
+| Region          | 中国大陆                               |
+| Date            | 2015-03-01                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 自我探索, 强奸, 复仇, 心理斗争, 身份认同, 情感纠葛, 异性恋, 性别认同, 女性视角, 情欲, 性交易, 冲突, 阴暗面                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

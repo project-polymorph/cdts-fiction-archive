@@ -7,7 +7,7 @@ TXT 下载: [[变身]_复仇另类人生.docx]([变身]_复仇另类人生.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《复仇另类人生》的变身与跨性别相关小说。故事讲述了主人公龙宇，原本是一个事业有成的中年男人，因好友苏烈与秘书周琳的背叛而陷入绝境。在失去一切之后，为了报复，他决定使用一种名为基因修改剂的药物，企图通过变身为周琳来实施计划。小说中详细描述了龙宇在决定变身后的心理变化，以及他在进行基因修改过程中的痛苦与挣扎。故事不仅探讨了性别认同与报复的主题，还涉及到了家庭关系和心理状态的复杂性。由于药剂的特性，龙宇的身体经历了剧烈的变迁，形象转变为女性，甚至在变身过程中获得了周琳的记忆，这使得他的身份认同和过往的记忆产生了深刻冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_复仇另类人生.docx]([变身]_复仇另类人生.docx)
 | Size            | 27542 bytes                           |
 | MD5             | 235444c8ff2093bbe2b501afbda2adda                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 基因修改, 复仇, 自我认同, 家庭, 性别转换, 痛苦挣扎, 心理冲突, 记忆转移, 小说, 二次元, 禁忌情感, 生存斗争, 社会关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

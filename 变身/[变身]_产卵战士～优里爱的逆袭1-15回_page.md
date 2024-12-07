@@ -7,7 +7,7 @@ TXT 下载: [[变身]_产卵战士～优里爱的逆袭1-15回.doc]([变身]_产
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《产卵战士～优里爱的逆袭》的第一部分，作者为白纸，字数达到43820字。故事围绕一场激烈的战斗展开，主角太阳战士为了保护伙伴与敌人冥魔女菲娜展开生死搏斗，牺牲自己以完成使命。在这场惨烈的战役中，太阳战士面对着无敌的魔女和无数的杂兵，尽管自身受伤，也决心与之战斗。菲娜是冥魔的领导者，拥有令人畏惧的能力，能自愈和近乎刀枪不入的外壳。故事中紧张的气氛和英雄的喋血让人感受到勇气与牺牲的主题。文件还涉及科学实验室的部分，讲述了太阳战士神田的复活过程，结合了科技与魔法的设定，让人对角色的未来产生好奇与期盼。整体内容涉及了角色间的情感羁绊和战斗策略，构建了一个复杂的奇幻世界。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[变身]_产卵战士～优里爱的逆袭1-15回.doc]([变身]_产
 | Format          | Microsoft Word Document                               |
 | Size            | 186880 bytes                           |
 | MD5             | 1c29fa14c633e407e813e9a784e2ded6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 白纸                               |
+| Region          | 未知                               |
+| Date            | 2018-01-25                                 |
+| Tags            | 变身, 跨性别, 奇幻, 战斗, 自我探索, 太阳战士, 菲娜, 科学实验, 牺牲, 英雄主义, 逆袭, 生死搏斗, 魔法, 勇气, 复活, 异种入侵                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

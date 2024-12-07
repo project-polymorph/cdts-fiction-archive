@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_机甲师之殇.docx]([皮物]_机甲师之殇.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段关于机甲师的小说片段，描述了一名机甲师在遭遇印度军队越境行为时的紧张情境。故事开头，通过激昂的军号唤醒机甲师，他迅速从床上起身准备迎战。在与同伴交谈中，机甲师显现出他面对紧迫感的从容与自信，展现出他对国内先进军事装备的自豪感。这段故事不仅突出了机甲的高科技特性，还涉及到机甲师的心理变化，包含了对国家的忠诚和责任感。在准备驾驶机甲时，机甲师换上了一套女性外观的动态捕捉装备，这一细节引发了关于性别与战争之间的复杂关系的思考。整段文字塑造了人物的形象，以及在复杂军事环境中的应对决策，深刻而富有冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_机甲师之殇.docx]([皮物]_机甲师之殇.docx)
 | Size            | 27556 bytes                           |
 | MD5             | 4953454ad4b1481bd158c65b9a6c0cdf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-06-21                                 |
+| Tags            | 机甲战斗, 性别认同, 军事科幻, 自我探索, 国家责任, 动态捕捉装置, 男性角色变身, 科技与战争, 心理变化, 忠诚与自豪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

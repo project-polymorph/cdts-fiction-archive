@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【申请上浮】+不同的奧運代表.doc]([附身]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位前篮球国手老王在发生意外受伤后，生活陷入低迷，参加了一个名为“体育技能培养公司”的计划，该公司研发了一种能够实现灵魂转移的技术，致力于为运动员提供新的机会。老王、老周和老李三位老朋友，共同决定接受这个计划，进行灵魂附身，使他们能够变成三位年轻女性运动员，重回赛场。故事中展现了他们对过去的回忆与对未来的期望，尤其强调了对篮球的热爱与执着。同时，附身后的老王在尝试适应新身体的过程中，体验到了成为女性的全新感受。整篇文章以轻松幽默的风格揭示了运动员生活背后的不易与探索，以及性别转变带来的心理层面挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【申请上浮】+不同的奧運代表.doc]([附身]_【
 | Size            | 37888 bytes                           |
 | MD5             | 57f597cca8304f8b3f9749f87807039b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | joe2473                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 篮球, 灵魂转移, 变身小说, 伪娘, 运动员, 女性身份认同, 跨性别, 青春梦想, 团体合作, 科技与人性, 性别探讨, 性别认同, 体育, 华语文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

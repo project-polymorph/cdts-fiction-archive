@@ -7,7 +7,7 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书8.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于安德鲁在公司工作的情节描写，主要围绕他被迫穿着女性衣物而产生的心理冲突和尴尬经历展开。故事中，安德鲁在凯瑟琳的安排下换上了一套女性化的衣服，并催促他去杂货店购物。凯瑟琳的控制和安德鲁的反抗形成了明显的对比，表现出他对自己性别认同的困惑与挣扎。安德鲁在购物的过程中经历了羞辱与嘲笑，许多人注意到他身上穿着女性衣物，甚至有青少年向他提出犀利的问题，给他带来很大的心理压力。他的内心反复挣扎究竟是应该顺应自己的性别认同，还是屈从于外界的期待与压力。凯瑟琳的话充满了挑战，使他不得不面对自己内心的真实感受和对社会期待的无奈。整体来看，文件探讨了性别认同、自我探索和社会压力等深刻主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书8.docx]([变�
 | Size            | 20124 bytes                           |
 | MD5             | 299b0721cef35ab2f41e5f5094e1ba67                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 安德鲁, 凯瑟琳, 性别认同, 羞辱, 购物经历, 女装, 心理冲突, 自我探索, 社会压力, 跨性别, 变装, 角色转换, 女性化形象, 男性特征, 性别角色, 时尚与身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

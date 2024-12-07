@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_无尽异能_番外（三）_[.docx]([皮物]_无尽异能
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说是关于一个角色通过穿戴少女的皮囊而发生性别转变的故事，涉及强烈的性别认同和自我探索主题。故事的主角捡起一张'美人皮囊'，并经过一系列心灵和身体的转变，最终完全变成另一位角色李玑璇。在过程中，主角体验到从男性到女性的身体变化，伴随着脆弱的身体感受和不断增强的欲望。文中描绘了角色在快感与痛苦交织下的心理状态，其中包含细腻的心理描绘与对身体的探索，也探索了身份认同的复杂性。虽然故事有明显的成人向内容，但它依然试图展现自我认同与认知的斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_无尽异能_番外（三）_[.docx]([皮物]_无尽异能
 | Size            | 21084 bytes                           |
 | MD5             | 8e8bfed11d1351cb135cd34b6b6299d0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 身份认同, 自我探索, 幻想, 异能, 强烈欲望, 欲望与痛苦, 心理变化, 女孩皮囊, 女性视角, 深层体验, 变嫁, 虚拟现实, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

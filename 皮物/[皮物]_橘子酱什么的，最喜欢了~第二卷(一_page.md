@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~第二卷(一.docx]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为宫本艾丽莎的角色故事的小说章节，主要围绕艾丽莎和她的母亲之间的互动以及艾丽莎在参与神战中的挣扎与成长。故事开头描述了艾丽莎归家的场景，艾丽莎以撒娇的方式与母亲互动，询问晚餐的内容。随着情节的推进，艾丽莎的内心世界逐渐揭示，母亲宫本对她的关心与爱显而易见，艾丽莎却因为父亲的去世和自己正在进行的危险神战而感到内疚和歉疚。她渴望复活父亲，并为了这个目标接受神明给予的强大能力，尽管这意味着她会为此杀掉他人。文件中用细腻的心理描写展现了二者之间的深厚感情，艾丽莎对家庭的眷恋与对神明命令的无奈，以及她希望母亲参与危机的内心斗争，构成了故事的主线。结合轻松的日常生活与危险的神秘力量，使得小说情节紧凑而富有戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~第二卷(一.docx]([皮
 | Size            | 19278 bytes                           |
 | MD5             | ee9f598a7d90b19b501ee11430bf0a50                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 母女关系, 神战, 自我认知, 光能力, 父亲复活, 心理冲突, 二次元, 冒险, 超自然, 家庭剧情, 情感纠葛, 成长小说, 未知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

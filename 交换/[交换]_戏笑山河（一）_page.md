@@ -7,7 +7,7 @@ TXT 下载: [[交换]_戏笑山河（一）.doc]([交换]_戏笑山河（一）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《戏笑山河（一）》的第一部分，讲述了角色莫宗宇在一场家族斗争中的经历。故事开篇描绘了一幅海天交汇的美丽场景，突如其来的危机却打破了宁静。莫宗宇被母亲警告其大哥即将对他下手，随着剧烈的颠簸与枪声，情节进入高潮。他的母亲在激烈的追杀中表现出恐惧与无助，最终暴露出复杂的家庭关系与权力斗争。大哥的背叛以及母亲的变故使得莫宗宇陷入了绝境。文件中流露出情感的挣扎与家庭之间的背叛，引入了有关性别认同、权力与欲望的主题。逐步透露出母亲被操控的状态，反映了个人与家庭、情感与肉体的冲突和复杂性。此外，文中包含了一些禁忌和成人内容，充分展现了角色内心的冲突与人物关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_戏笑山河（一）.doc]([交换]_戏笑山河（一）.
 | Size            | 59392 bytes                           |
 | MD5             | 05d35720c2837a2ecd7cab597febf192                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 家庭斗争, 权力争夺, 背叛, 情感冲突, 禁忌, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

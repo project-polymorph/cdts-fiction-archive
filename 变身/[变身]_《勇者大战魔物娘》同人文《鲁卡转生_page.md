@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《勇者大战魔物娘》同人文《鲁卡转生.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《勇者大战魔物娘》的同人文《鲁卡转生》，由作者初ヶ瀬マキナ创作，并在pixiv网站发布。故事围绕着主人公鲁卡展开，他在进入梦魔村后遇到了强敌梦魔女巫。文中描述了若鲁卡未能战胜梦魔女巫，可能会迎来胎内回归的Bad End。而故事继续发展，讲述梦魔女巫经历身体上的奇异变化，发现自己怀孕的全过程。该作品通过魔女与村长的对话，巧妙地揭示了梦魔种族与人类之间的复杂关系，以及女巫对自己身体变化的困惑与反思。随着剧情的发展，魔女的身体不断变化，最终发现体内怀有勇者的后代，这不仅是个人身体上的变化，也是整个梦魔村计划进展中的重要转折点。作品在展现梦魔与勇者之间的奇妙交互时，也深入探讨了生育与权力、性别认同等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《勇者大战魔物娘》同人文《鲁卡转生.doc]([
 | Size            | 51200 bytes                           |
 | MD5             | fd21a2f616a06eee9d86f2d5eebac646                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 初ヶ瀬マキナ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 同人文, 梦魔, 勇者, 变身, 怀孕, 异世界, 魔法, 力量, 身体变化, 性别认同, 自我探索, 魔女, 战斗, 女神, 冒险故事, 魔物娘, 情感发展, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

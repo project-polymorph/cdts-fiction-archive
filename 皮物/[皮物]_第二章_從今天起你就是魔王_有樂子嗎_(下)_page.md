@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_第二章_從今天起你就是魔王_有樂子嗎_(下).d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别与变身类型的小说章节，名为《从今天起你就是魔王》。内容围绕名为拉克涅拉的阿拉克涅人与她的对手之间的争斗展开，主角桂花被迫面对林中的巨大蟑螂敌人，虽然她的任务是驱逐这些敌对生物，但她对这项任务的可行性感到深深的无力和困惑。在故事进展中，桂花想要尝试与大型蟑螂进行沟通，体现出她的勇气和希望，但随即遭遇到来自敌人的威胁，使得她不得不逃跑。小说的描写不仅包含了幻想世界的设定，还融入了时而幽默、时而紧张的场景，展现了角色在面对生理威胁时的心理斗争，同时还有安洁莉对桂花的奇特支持方式。这段情节充满了强烈的幻想和冒险元素，同时探讨了角色的身份与能力获得的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_第二章_從今天起你就是魔王_有樂子嗎_(下).d
 | Size            | 28842 bytes                           |
 | MD5             | 6395f288b6b1e0f12fdf4cb40c02741b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 幻想小说, 冒险, 女性角色, 魔王, 自我探索, 角色扮演, 奇幻, 幽默, 自我认知, 生存挑战, 生物对抗, 心理斗争, 阿拉克涅人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

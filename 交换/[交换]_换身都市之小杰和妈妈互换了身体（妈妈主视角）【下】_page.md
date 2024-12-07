@@ -7,7 +7,7 @@ TXT 下载: [[交换]_换身都市之小杰和妈妈互换了身体（妈妈主�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了一种奇特的身体互换情形，故事围绕着小杰和他的妈妈之间的角色互换展开。在故事中，母亲发现自己和儿子互换了身体，并开始探讨这种奇特的经历带来的欲望与心理冲突。从肉体的变化引发的欲望到内心的挣扎，故事呈现出强烈的禁忌之恋情节。文本中详细描写了两人互换后如何体验对方的身体，以及在情感和欲望的交织下所产生的复杂关系。小说中充满了性暗示和色情描写，母亲与儿子的互动过程包含了对身体的探索和自我认知的变迁，同时也引发了伦理道德的探讨。因而，这篇作品不仅涉及性别转变和身体欲望的主题，也挑战了读者对亲子关系的理解与接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_换身都市之小杰和妈妈互换了身体（妈妈主�
 | Size            | 23105 bytes                           |
 | MD5             | 57c5dfdb300c3a946a81346a294bbfb0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 家庭禁忌, 母子关系, 欲望探索, 身体互换, 禁忌恋, 自我认知, 变身, 性别认同, 女性视角, 情色, 二次元, 角色扮演, 青春期困惑, 情感纠葛, 强烈欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_灵魂管理器2型(3).docx]([附身]_灵魂管理器2型(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部关于灵魂管理器的短篇小说，主要围绕角色吴杰与其朋友之间的互动，以及吴杰利用灵魂管理器和附身他人身体的经历展开。故事中吴杰提到他和朋友一起租房，探讨灵魂管理器的功能，包括让没有灵魂的身体智能控制，生活状态类似科幻片中的智能机器人。小说中涉及到吴杰假借女友陈甜甜的身体，让故事情节包含跨性别及身份探索等主题。在混合现实和幻想的状态下，角色的性别与意识之间的冲突不断呈现。这段文字中包含一些性别转换的幽默桥段，轻松的对话展现了角色性格和复杂的人际关系。而且，还涉及吴杰与陈甜甜的关系发展，包括他想要追求她但计划受到吴杰的行为影响的情节。情节包含了一些成年向内容，诸如幽默的性别以及性行为描写，整体风格偏向轻松幽默并带有讽刺意味。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_灵魂管理器2型(3).docx]([附身]_灵魂管理器2型(
 | Size            | 22174 bytes                           |
 | MD5             | 71a2dfec8432e0e5ba32ff3611e89e76                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂管理器, 跨性别, 伪娘, 性别转换, 青春校园, 智能控制, 幽默, 自我探索, 奇幻, 性别认同, 友情, 性与爱, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_腐朽时代（二）.doc]([皮物]_腐朽时代（二）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容为一部小说的节选，讲述了主角西里尔在诺戈山的探险。在他的旅程中，他面对了巨大挑战和恐惧，原本只想躲避追捕的他，却意外发现了隐藏在山洞中的秘密。情节跌宕起伏，西里尔潜入一个洞穴，见到了魔物伪装成的人的死亡场面，以及一个包含古老秘密的华丽房间。故事中涉及了性别转换、魔法与自我认同等多种元素，引人深思。文中描绘了西里尔用魔法剑与魔物对抗的过程，增加了紧张氛围。此外，故事还揭示了教会的秘密，涉及魔物的真实身份，进一步展开了一条复杂且充满悬念的剧情线。文中充满了对于生理与心理状态的探讨，暗示了角色之间的情感交织以及伦理道德问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_腐朽时代（二）.doc]([皮物]_腐朽时代（二）.
 | Size            | 47616 bytes                           |
 | MD5             | 8d74af5016e770d260adff3102dc65da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 魔法, 冒险, 魔物, 跨性别, 自我探索, 神秘, 悬疑, 教会秘密, 变身, 心理斗争, 男性视角, 奇幻世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

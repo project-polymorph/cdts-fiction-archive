@@ -7,7 +7,7 @@ TXT 下载: [[改造]_疗养院的故事（一）_[.docx]([改造]_疗养院的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个名叫良辰的角色在疗养院的生活经历，讲述了他与女护士绿川和精神状态较弱的同伴雪儿的互动。良辰在疗养院中以奴儿的身份服侍女主人的情景，引入了一些性别认同和性别转换的元素。故事围绕着良辰在疗养院的日常，包括他与绿川护士的相处，以及他对于自己身体和性别的认同感，以及对雪儿的特殊情感。文中具体描绘了良辰的外表、内心感受及与女主人亲密的互动，呈现了一种双方都在角色扮演的动态关系，涉及到身体和身份的转变过程。同时也反映了良辰在心理与身体上的挣扎，以及在这种互动关系中的情感变化。故事不仅具有戏剧性，同时还透出一种探讨性的自我认知主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_疗养院的故事（一）_[.docx]([改造]_疗养院的�
 | Size            | 34986 bytes                           |
 | MD5             | aa171b61521a454aa13f719f801c64ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 疗养院, 女主人, 性别认同, 角色扮演, 自我探索, 情感纠葛, 药物影响, 同伴关系, 偷窥, 医疗护理, 二次元幻想, 欲望描写, 甜蜜羞涩                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

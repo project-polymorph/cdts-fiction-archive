@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我是腿控，但我那拥有凭依能力的挚友是巨�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《我是腿控，但我那拥有凭依能力的挚友是巨乳控！》，主要讲述了一位名叫秋人的少年与他的挚友龙也之间的互动，龙也拥有凭依他人身体的能力。本章聚焦于秋人与巨乳控少女朱音的争论，讨论腿部与胸部的魅力，反映出两人在性别认同与身体吸引力方面的差异。故事中包含了秋人和朱音在讨论个人喜好时的幽默对话，以及龙也使用凭依能力所引发的一系列尴尬与禁忌的情节。整体内容以轻松的语气描述少年间的友情与性别认同问题，同时包含了许多针对身体特征的调侃和探讨，呈现出CSF（性别转变）与青少年心理探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我是腿控，但我那拥有凭依能力的挚友是巨�
 | Size            | 56320 bytes                           |
 | MD5             | 34be265a8c780ecf712efb09befae9e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 变身小说, 腰控, 跨性别角色, 青春校园, 性别认同, 同性恋, 少年成长, 身体探索, 幽默对话, 禁忌情节, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

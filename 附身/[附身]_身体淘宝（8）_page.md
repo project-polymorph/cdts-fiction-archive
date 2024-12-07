@@ -7,7 +7,7 @@ TXT 下载: [[附身]_身体淘宝（8）.doc]([附身]_身体淘宝（8）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《身体淘宝（8）》的内容围绕一位名叫慕容紫嫣的16岁大小姐展开。文中描绘了她优雅的生活场景，包括她的钢琴演奏、与女仆的互动，以及她日常的美体护肤和塑形健身。在描述中，慕容紫嫣不仅外表出众，身材玲珑有致，还表现出令上司（她的父亲）倍感骄傲的品学兼优。文件深度刻画了慕容紫嫣的心理与情感冲突，尤其是她向往着男性身份的渴望，表达了对未来的期待与苦恼。她在一个粉色主题的大房间内，穿着惹眼的淡粉色吊带裙，表现出她的青春活力与性感气息。例如，她说：“还有两年才可以当男孩子啊……爸爸也真是的，早两年晚两年不一样嘛。”这句话展现了她对性别身份转换的期盼与无奈。此外，文中提到她对何年（一位男性角色）的想念，及她试图使用“身体淘宝”APP来实现性别转换的幻想。整体来看，文件细致地探索了跨性别主题和角色内心的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_身体淘宝（8）.doc]([附身]_身体淘宝（8）.doc)
 | Size            | 69120 bytes                           |
 | MD5             | 161e19f6919cbcda62a452cae626bf40                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 伪娘, 变身, 青春, 强烈心理冲突, 自我探索, 异性恋, 性别转换, 大小姐生活, 身体形象, 家庭压力, 未来期盼, 粉色房间, 隐秘软件                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

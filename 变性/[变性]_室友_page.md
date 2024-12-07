@@ -7,7 +7,7 @@ TXT 下载: [[变性]_室友.docx]([变性]_室友.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇短篇小说，讲述了主人公尼克和他的室友约翰在一次实验室事故后发生的奇妙变化。故事开篇描述了尼克和约翰的友谊及他们一起进行生化实验的情景。在一次实验中，尼克意外被合成的雌激素灼烧，随后发现自己的身体发生了巨大变化，体毛消失，甚至男性生殖器官也不翼而飞，变成了女性生殖器。在这一过程中，尼克和约翰的关系变得更加亲密，尼克对自己变化的反应复杂，包括羞愧与兴奋的混合感受。约翰作为朋友的关心以及他们之间隐晦的情感，也为故事增加了多层次的张力。整个故事不仅涉及性别认同的探讨，同时也渗透了对友谊及身体变化所带来的心理冲击的深刻描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_室友.docx]([变性]_室友.docx)
 | Size            | 26199 bytes                           |
 | MD5             | 9b06ddc8360ab81bba090d7a4b2d10c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Neo                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性转小说, 跨性别, 科幻, 自我探索, 友谊, 实验室事故, 身体变化, 男性与女性身份, 性别认同, 青春期烦恼, 情感纠葛, 性别转换, 同志题材, 校园生活, 性别角色, 奇幻, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

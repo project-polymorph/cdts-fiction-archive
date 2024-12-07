@@ -7,7 +7,7 @@ TXT 下载: [[交换]_极黑的换身日_(15%).docx]([交换]_极黑的换身日
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为《极黑的换身日》的伪娘 TS 变身与跨性别相关小说的档案记录。故事围绕女主角夏依洁展开，她是校花，性格甜美，深受同学们的喜爱。故事的开始描绘了一个阳光明媚的早晨，夏依洁与好友萧羽婷一起进入学校，并展开了亲密的交流。两人提到了一种特殊的仪式——换身日，这是由国家规定的一项政策，年满18岁的国民必须参加。在换身日中，男女学生会互换身体体验一天，以便更好地理解对方的生活和感受。出场的另一位角色是许冠华，他被描述为外貌丑陋且性格猥琐的男同学，夏依洁对此感到厌恶和反感。故事中细致描写了她在与许冠华的换身仪式中的矛盾心理，以及对即将发生的身体互换所带来的不安与抵触。整篇作品不仅探讨了性别转换的主题，也涉及个人的心理冲突与社会的规定。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_极黑的换身日_(15%).docx]([交换]_极黑的换身日
 | Size            | 19739 bytes                           |
 | MD5             | caf4422fba8bd55fc90473756477bc50                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RE                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 好友关系, 校园生活, 身体互换, 社会规定, 自我认知, 心理冲突, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《夫尊天下》第16章_皮物.doc]([改造]_《夫尊�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节讲述了古月乾与蛊之间的互动，他们进入古月家族的隐秘基地，探索与鬼魂相关的魔法和科技。古月乾得知他的魂火发生了异变，并与蛊合作，试图揭开古月家族的真相。在这个过程中，古月乾看到了各种与鬼相关的道具和技术，感受到了古月家的深邃与神秘。蛊展示了利用高科技制作的美人皮，并将一个鬼魂附身于其中，形成了一个萝莉外形的角色。最终，古月乾和萝莉角色逐渐深入了彼此的关系，散发出不可抑制的亲密感。此章节眉目清晰地展现了鬼魂、科技与性别转变的主题交织，带有浓厚的幻想色彩与成人情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《夫尊天下》第16章_皮物.doc]([改造]_《夫尊�
 | Size            | 40960 bytes                           |
 | MD5             | 4b054c337bd8b2a80a0a9402107787f1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 鬼魂, 高科技, 萝莉, 超现实, 自我认知, 家庭秘密, 灵魂附身, 魔法, 禁忌之爱, 古月家族, 成人情节, 幻想世界, 性感描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

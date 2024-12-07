@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《观阴歪传》　成亲记.doc]([变身]_《观阴歪�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《观阴歪传：成亲记》是一个以佛教文化为背景的变身小说，讲述了观世阴菩萨以女舞者的身份，为修建一座小桥而筹集善款的故事。故事的主人公是观世阴，她是观察世间阴德阴功的佛门修行者。故事开始时，观世阴注意到了一个善良的人——韦陀，他在努力为村民修建桥梁，尽管穷困潦倒，但始终乐于助人。观世阴决定帮助韦陀，但又不想直接运用法术，而是选择以舞女的身份进行表演，进行募捐。故事充满了幽默与思考，观世阴巧妙地利用人性中的欲望，通过舞台表演吸引观众的关注，联合众人之力为善业献策。整个事件中，她凭借自己的智慧和能力，策划了一场令人意想不到的义演，展现了角色的自我探索与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《观阴歪传》　成亲记.doc]([变身]_《观阴歪�
 | Size            | 124416 bytes                           |
 | MD5             | 3c29684562a54eb1d617a1dcd1fce642                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 佛教文化, 性别认同, 角色成长, 善行筹款, 二次元小说, 伪娘, 舞者, 自我探索, 戏剧性表演, 幽默, 都市奇幻, 善事, 社会热心, 角色生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_男人的友情(1)_[.docx]([变身]_男人的友情(1)_[.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《男人的友情(1)》是一部描绘男性好友之间深厚关系的小说。故事中心围绕尼克和山姆这对从小一起长大的朋友，他们的友情伴随着成长而逐渐变化。尼克体质瘦弱而内向，而山姆则是一个外向、开朗的摄影师。在大学毕业后，他们继续同住在一起，尽管性格的差异，友谊仍然稳固。然而，随着时间的推移，特别是在尼克经历了一段失恋及其带来的情绪波动后，二人的关系开始发生微妙变化。尤其是在尼克失去自信后，山姆开始为其寻找改变的机会。在一次偶然的机会中，山姆发现了一家奇怪的小店，并从店里得到一瓶声称可以增加自信心的药水。故事的后续便围绕着药水的效果展开，体现了两位主角在面对性别认同、友谊与自我探索方面的冲突与转变。整体而言，这部小说不仅描述了一段深厚的友情，也探讨了个人的成长与变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_男人的友情(1)_[.docx]([变身]_男人的友情(1)_[.d
 | Size            | 17353 bytes                           |
 | MD5             | 3f8e0c08f4ebb19ec38fcc28b67d325a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 友情, 自我探索, 失落, 自信心, 变身, 奇幻, 成长, 药水, 情感冲突, 校园, 都市, 男生, 变嫁, 变装, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_意外的人生转折1-10_上.doc]([变身]_意外的人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《意外的人生转折》，讲述了一个名叫杨平安的28岁男性的经历，他在成为一名优秀职员的同时，却也因父亲的病情而不得不面对生活的严峻挑战。他来自偏远的农村，经过不懈努力进入城市并取得事业上的成就，但在家庭遭遇突发事件时，他依然感受到生活的不可预测性和对未来的压力。在故事的开头，杨平安正准备回家探望父母，却意外发现父亲的病情严重。故事中通过他与父母的互动，展现了家庭亲情的深厚以及他对父母的感激和责任感。随后的事件更是让他不得不面对自身的困境和心态的变化，特别是在一次事故后发生的意外转折，让他的人生轨迹发生重大改变，预示着接下来的故事将朝向变身与性别认同的探索。整体上，文件内容体现了对人性、家庭、生命与自我认同等多方面的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_意外的人生转折1-10_上.doc]([变身]_意外的人�
 | Size            | 75776 bytes                           |
 | MD5             | ab7179f1269157fe464b33033e843b2f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 家庭关系, 自我探索, 职场, 亲情, 变嫁, 转变, 责任, 成长, 情感, 救赎, 强烈情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

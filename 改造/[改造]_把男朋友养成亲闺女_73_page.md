@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_73.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇描绘复杂情感关系的性转小说，主要角色包括阿曼达和她的男朋友德里克，同时涉及到阿曼达与年轻女孩贝丽之间的奇特感情与互动。小说中，阿曼达因贝丽特别的伪装与自己内心的斗争而感到内疚与矛盾。故事穿插了阿曼达对德里克的恋爱体验与对贝丽的特殊看法，尽管她试图将贝丽视为女儿。文中提到的情节包括生日宴会的筹备，角色之间的情感互动，以及对自我认知冲突的深入思考。这种复杂情感的描写真实地呈现出因性别与身份认同而产生的困惑与冲突，尤其是在阿曼达希望与德里克保持恋爱关系的同时又对伪装成女儿的贝丽产生特殊感情。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_73.docx]([改造]_把男朋友
 | Size            | 17690 bytes                           |
 | MD5             | 2cf9073ee907eef64624d3bca7ec6274                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 亲情与爱情, 内心冲突, 复杂情感, 自我探索, 男娘, 女性视角, 心理斗争, 家庭关系, 二次元, 角色扮演, 恋爱, 年龄差, 禁忌爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

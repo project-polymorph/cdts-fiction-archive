@@ -7,7 +7,7 @@ TXT 下载: [[变身]_美瓷复仇.doc]([变身]_美瓷复仇.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别相关的变身小说，名为《美瓷复仇》。故事内容设定在大宋时期，围绕两位兄弟李大和李二的生活与遭遇展开。故事开篇通过民间传说的引入，引出了一系列与手艺人相关的奇门故事，揭示了社会的等级与权力关系。主线围绕李大在街头卖瓷器时遇到权贵公子赵大公子的冲突，赵大公子因摔倒而要求李大赔偿，最终导致李大遭到暴力袭击，并被无辜拘禁。李二为保护哥哥进行反抗，并在过程中发现了家族秘法。通过李大与李二的对话，展现了当时社会对弱者的压迫与无奈，以及兄弟间的深厚情感。故事采用古风语态，穿插了许多形象生动的描写与幽默对白，使作品富有戏剧性与生活气息。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_美瓷复仇.doc]([变身]_美瓷复仇.doc)
 | Size            | 68096 bytes                           |
 | MD5             | 69274c1882478a9246816a364d6d4165                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 古代小说, 兄弟情, 复仇, 邪门法术, 社会压迫, 官民关系, 历史小说, 虚构故事, 情感探索, 抗争, 命运, 理想与现实, 民间传说, 权力斗争, 悲剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

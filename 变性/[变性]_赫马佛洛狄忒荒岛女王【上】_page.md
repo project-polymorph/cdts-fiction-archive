@@ -7,7 +7,7 @@ TXT 下载: [[变性]_赫马佛洛狄忒荒岛女王【上】.docx]([变性]_赫
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《赫马佛洛狄忒荒岛女王【上】》，讲述了一群在空难后流落荒岛的幸存者们的故事。故事的背景设定在一座神秘的小岛上，飞机坠毁后，八名乘客与机组人员被迫在荒岛上生存。文中详细描绘了这八名角色的个性、背景以及他们在绝境中试图求生的种种挣扎与挑战。严机长作为团队的领导者，面临着压力与责任，副机长小李则展现出对严机长的过度依赖，影响了团队的生存决策。两名年轻的夫妻阿强与小惠则因为彼此的情感支撑而共同度过这一艰难时刻。故事中还描绘了其他乘客的心理状态，以及他们如何共同面对外界的威胁与资源的短缺。文中不仅展现了人性的光辉，还有对生存意志的考验。随着时间的推移，随着食物的耗尽与对外联系的失去，角色之间的紧张关系与心理斗争也在加深。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_赫马佛洛狄忒荒岛女王【上】.docx]([变性]_赫
 | Size            | 53018 bytes                           |
 | MD5             | 6d80502886e7a6ce9b850335edd6a60c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 空难, 荒岛求生, 严机长, 副机长, 生存考验, 伪娘, 男娘, 自我探索, 角色发展, 人际关系, 情感支持, 团队合作, 求生欲望, 心理冲突, 冒险, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

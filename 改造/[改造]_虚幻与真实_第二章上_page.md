@@ -7,7 +7,7 @@ TXT 下载: [[改造]_虚幻与真实_第二章上.doc]([改造]_虚幻与真实
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名青年在实验室进行变身实验的小说片段，描绘了一个中年科学家与他的助手正在进行性别改造的过程。实验体被固定在金属椅子上，身穿紧身衣，周围连接着电线和机器。实验的目的是通过植入虫体和精神暗示，逐渐改变青年在身体和心理上的性别认同。片中涉及到了一定的限制级内容，如性别转换、性器化、前列腺刺激等生理反应；同时也渗透了科学与伦理的探讨。中年人对实验的兴奋描述着这一过程，包括对青年变化的细致描写，如「后庭已经完全性器化」和「他的性欲增强，性别转变的念头已经影响到他了」。此展现了科技与人性之间的复杂关系，挑衅着社会对于性别认同的理解与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_虚幻与真实_第二章上.doc]([改造]_虚幻与真实
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | 7ab1c5593ebd0653e1f7f3427ae3dfe8                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 实验室, 变身小说, 精神暗示, 生理改造, 前列腺刺激, 性欲增强, 暗示控制, 心理变化, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_憑依術講座,其三「應用篇」.doc]([附身]_憑依
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是第三章的内容，属于一部名为《憑依術講座》的长篇小说，主要讲述了关于角色附身的幻想故事。在这部分中，主人公体验到了通过镜子进行角色转变的过程。他走进女厕时，愈加紧张，最终在镜子中看到转变为女性角色柚実的自身。随着故事的展开，主人公享受着当自己成为柚実后，身体和声音的变化，甚至是柚実日常的活动和语调。文中详细描绘了主人公的内心活动以及对附身体验的兴奋，展现了性别角色的扭转和自我认知的矛盾。此文本适合对性别认同及变身主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_憑依術講座,其三「應用篇」.doc]([附身]_憑依
 | Format          | Microsoft Word Document                               |
 | Size            | 89600 bytes                           |
 | MD5             | c3f81e8d895f4ebc83feccf074130fbb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | トゥルー                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性转, 变身, 性别认同, 镜子, 柚実, 自我探索, 梦幻, 女性角色, 校园, 心理冲突, 二次元, 小说, 奇幻, 幻想, 角色扮演, 虚构                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

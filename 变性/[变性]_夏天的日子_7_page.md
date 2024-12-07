@@ -7,7 +7,7 @@ TXT 下载: [[变性]_夏天的日子_7.docx]([变性]_夏天的日子_7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部关于变性主题的小说，讲述了名为夏天的主人公在生日派对前的日常生活与内心感受。在故事中，夏天与朋友们一起购物，并讨论与男孩布拉德的邂逅，暗示着其性别认同的探索。故事中穿插了角色与家庭的互动，以及即将到来的狂欢节活动，展现出了一种温馨与成长的氛围。文中提到夏天委婉的表达了对布拉德的吸引，同时也反映了其作为跨性别者的内心挣扎与自我认同的过程。字里行间流露出对新生活的期待与成长的喜悦，特别在收到了父母送来的特别礼物——新的身份证明上性别的正式更改后，夏天感到自己身份的认可。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_夏天的日子_7.docx]([变性]_夏天的日子_7.docx)
 | Size            | 27215 bytes                           |
 | MD5             | 8971a2d3f364ad48c810c9c8d194307d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Annie Larson                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性别认同, 青春成长, 家庭互动, 温馨场景, 狂欢节, 自我探索, 角色发展, 友情, 青春恋爱, 生日派对, 女性形象, 二次元, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

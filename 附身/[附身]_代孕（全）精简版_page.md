@@ -7,7 +7,7 @@ TXT 下载: [[附身]_代孕（全）精简版.docx]([附身]_代孕（全）精
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇以代孕为主题的跨性别小说，讲述了一位名叫林美凤的女性角色的心理挣扎与情感纠葛。故事围绕着她与丈夫段宏的婚姻关系展开，揭示了她被丈夫隐瞒的不孕原因，以及随之而来的离婚与自我认同的冲突。林美凤在不断努力尝试怀孕的过程中，遭遇各种挫折，并最终发现是丈夫暗中使计，令她失去生育能力。小说从她怀着希望到失落，再到坚强自立的心路历程，展现了深刻的情感交织与人物内心的深邃探讨。随着故事的发展，林美凤面临着婚姻的破裂、内心的孤独感以及对段宏的新婚生活的好奇与嫉妒。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_代孕（全）精简版.docx]([附身]_代孕（全）精
 | Size            | 68355 bytes                           |
 | MD5             | aea746879257ec0a5168f8f9e79ee706                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 代孕, 离婚, 情感纠葛, 自我认同, 欺骗, 婚姻, 孤独, 女性视角, 心理斗争, 社会问题, 传统观念                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

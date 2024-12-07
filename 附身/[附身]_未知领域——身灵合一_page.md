@@ -7,7 +7,7 @@ TXT 下载: [[附身]_未知领域——身灵合一.docx]([附身]_未知领域
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一个名为梅丽来（Mélira）的少女在名为秘罗地（Píluódì）这个虚构世界的冒险故事。她本是被人称作“贱民”的禁锢者，但随着外敌非瑞克西亚（Fēirèikèxià）的侵略，梅丽来逐渐显露出自己的异于常人的特殊能力，转变为了人们心中的希望。在这个金属腐化的世界中，她与从她过去生活中背叛她的战士和叛乱者们的关系错综复杂，面对着来自同伴和敌人的重重威胁。故事中梅丽来与她的身份、认同以及内心的挣扎交织在一起，探讨了性别框架下的救赎与转变。文中有丰富的幻想元素，以及对于身体与身份的深刻探讨。梅丽来最终通过蜕变妖转变，体悟自身的真正价值与命运。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_未知领域——身灵合一.docx]([附身]_未知领域
 | Size            | 19715 bytes                           |
 | MD5             | 4b6fc4ab90157ba6e383260d90e79a49                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 异世界, 魔法, 女主角, 自我探索, 冒险, 幻想, 蜕变, 情感, 身份认同, 腐化, 女权主义                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

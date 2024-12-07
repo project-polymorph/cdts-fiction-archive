@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_18.doc]([附身]_武器种族传说_18.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是一部名为《武器种族传说》的性转小说，内容围绕一场重要的比赛展开，参赛者们通过异能进行战斗。故事中，主角文森特在比赛中面对实力强大的对手，比赛的激烈程度不断上升。在比赛过程中，角色之间的互动展示了心理战与战略思考，例如主角与队友之间的配合、对敌方实力的判断等。这场比赛不仅决定着胜负，还可能影响到角色的生死。此外，事件中出现了关于毒素的情节，进一步加深了悬疑与紧张感。文中揭示了比赛的规则，反映了角色的道德选择以及在生死存亡之际的决策过程。通过细致的场景描写与角色内心的挣扎，展现出性别认同与个人成长的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_18.doc]([附身]_武器种族传说_18.
 | Size            | 57344 bytes                           |
 | MD5             | 7dc1c6f8816e9b36b4136c11c808cfb3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 异能, 比赛, 角色成长, 心理战, 战略思考, 生死决策, 权力斗争, 队友合作, 剧情反转, 自我认同, 强者对决, 紧张气氛, 毒素能力, 团队协作, 对抗冲突, 神秘力量, 魔法元素, 冒险故事, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

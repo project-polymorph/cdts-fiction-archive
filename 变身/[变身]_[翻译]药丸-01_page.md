@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[翻译]药丸-01.docx]([变身]_[翻译]药丸-01.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于基因改变药品的小说，讲述了一名主角在追求改变性别体验的过程中所遇到的事件。故事的开头描述了作者对现代医科学研究的阐述，尤其是在基因结合和基因处理领域的迅速发展。主角在阴暗的街道上探讨了一种能够在一天内将男性改变为女性的药物，并最终在酒吧中与提供这种药物的黑市商人进行了交易。该药物的需求反映了人们在性别认同和自我探索方面的渴望与欲望。随着主角使用药物后身体变化的逐步揭示，文本还涉及对自我认知、身体变化的情感反应以及那些变化所带来的复杂体验。小说充满了一系列关于性别转换和自我发现的心理描写，并伴随有强烈的欲望表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[翻译]药丸-01.docx]([变身]_[翻译]药丸-01.docx)
 | Size            | 23750 bytes                           |
 | MD5             | c31ba77daf08c2ea07c5e116d13f6ffb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Karen Albright                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 基因改变, 药物实验, 自我探索, 身体变化, 黑市交易, 女性认同, 心理变化, 二次元文化, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

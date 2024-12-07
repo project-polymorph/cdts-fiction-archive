@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_】众生相_（从新整合前三章_）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇与跨性别和性转相关的小说，作者以”龙猫君“的名号进行创作，主要围绕几个角色的性别转换、跨性别体验以及角色之间的互动展开。小说中融入了丰富的情感描写和细致的实验室场景，比如角色之一为科研工作者，涉及到与人皮衣的制作和测试委托。文本以第一人称的视角，展现了角色与其伴侣之间的亲密关系，以及角色对自身身份与性别认同的探索。内容中包含了一些亲密互动及色情描写，并具体展示了角色间复杂的情感纠葛与自我认知的转变。作者通过细腻的描写，将性别身份的流动性及其对人际关系的影响进行深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_】众生相_（从新整合前三章_）.doc]([皮物]_�
 | Size            | 54784 bytes                           |
 | MD5             | 51d2de6d00833052fa26cb9b66e08d2b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 龙猫君                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 实验室, 情感关系, 性别认同, 肉体改造, 剧情描写, 科学探索, 心理冲突, 双向暗恋, 亲密互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

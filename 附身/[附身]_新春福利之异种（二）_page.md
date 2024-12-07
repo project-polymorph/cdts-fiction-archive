@@ -7,7 +7,7 @@ TXT 下载: [[附身]_新春福利之异种（二）.docx]([附身]_新春福利
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别与变身小说类作品，标题为《新春福利之异种（二）》。故事围绕主角林幽雪展开，讲述了她在一次意外中变成了女性的经历，面对身份变换的困惑与接受。故事中，林幽雪在公司遭遇了意外事件，误入男洗手间，引起旁人的惊诧与窘迫。随后，她感受到身体异样，却不得不面对自己身体的变化，以及随之而来的情感与心理挣扎。在其他角色的反应中，能感受到对林幽雪身份的探讨与认识。整个故事融入了性别认同、自我探索及社会互动的主题。文中多次描绘了林幽雪的心理状态与周围人对应情境的反应，突出了角色的内心矛盾与外部压力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_新春福利之异种（二）.docx]([附身]_新春福利
 | Size            | 28009 bytes                           |
 | MD5             | b4c458314ca24db92733ab49138dfd45                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 自我探索, 性别认同, 伪娘, 强烈心理冲突, 女性身体体验, 奇幻, 公司氛围, 情感挣扎, 未知身份, 肉体与精神的冲突, 职业生活, 吸引与窥视, 身份困境, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蜀山炼器师_第十三章-第十六章_完结.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说《蜀山炼器师》的第十三章至第十六章，详细叙述了魔道与正道修士在遥真仙洞府前的对峙，以及主角宋升与其师傅唐山在洞府中的冒险。故事中，宋升与唐山进入毫无生气的沙漠，通过遭遇巨大的手掌和神秘的机关人，逐步揭示洞府内的奥秘。随着故事的推进，宋升承担了重要的使命，与黑气及吞噬之气展开殊死搏斗。文中描绘了多种玄幻元素和性别转换的现象，尤其是通过对宋升的描述，展示了外表美丽的同时也有强大的内在力量。故事中交织着家族的情感、使命感与自我认知的探索，情节复杂而紧凑，展现了丰富的想象力与情感深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蜀山炼器师_第十三章-第十六章_完结.docx]([�
 | Size            | 42277 bytes                           |
 | MD5             | f561c039d08d329a206563ce0a057af7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 转生, 跨性别, 魔道, 正道, 冒险, 性别认同, 升华, 组织对抗, 灵药, 师徒情, 奇幻世界, 自我探索, 神秘机关, 生存挑战, 剧情反转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[翻译+改篇]_拉拉队性奴_-_查德篇_(2).docx]([改
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是“拉拉队性奴 - 查德篇”的翻译和改编版本，属于伪娘和TS变身类小说，情节围绕角色姬丝蒂与男主角鲍伯的互动展开。故事始于一个繁忙的商场，姬丝蒂是一名年轻的女性角色，正经历一系列心理和生理上的转变。她感受到鲍伯的目光时产生了奇怪的吸引力，随着情节的发展，鲍伯以一种不寻常的方式控制着姬丝蒂的思想与行为，使她逐渐屈服于他的命令。过程中涵盖了女性身体的剥夺、性别角色的颠覆、以及强烈的性别认同冲突，涉及到生理性别、权力关系和自我探索的主题。作品虽然是以娱乐为目的，但也反映了复杂的性别和权力动态，探讨了个体在权威面前的低下与屈从。本文内也有涉及一些限制级内容，描绘了姬丝蒂的羞耻与屈从心理，显示了角色之间创构的主从关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[翻译+改篇]_拉拉队性奴_-_查德篇_(2).docx]([改
 | Size            | 138138 bytes                           |
 | MD5             | 8fd5de273bf31afed02153e86c45ad4b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 强制, 心理控制, 自我认同, 性别角色, 羞耻, 权力动态, 奴役, 情感纠葛, 女性视角, 商场, 青春, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

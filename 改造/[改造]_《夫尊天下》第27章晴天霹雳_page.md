@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《夫尊天下》第27章晴天霹雳.doc]([改造]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是小说《夫尊天下》的第27章，标题为《晴天霹雳》。这一章节主要讲述了古月乾通过特殊的能力将物品从一个人的灵魂中取出，并对春花娘进行了身体上的改造，使她重新拥有生育能力。古月乾的能力显现出一种超凡的特色，他不仅能够改变他人的身体，同时表现出对权力与性别角色的玩味和挑战。文中提到了春花娘因身体的变更而感到欣喜，甚至幻想起穿婚纱的场景，而古月乾则沉浸在对自己力量的思考中，表现出对“女权”的不同理解。随着局势的变化，外界的雷电和古月乾内心的纠结形成了对比，呈现出他所面临的多重危机与抉择。章节最后，古月乾提到他计划建立一个组织来服务于自己的利益，以更好地掌控权力与影响力，彰显了他企图掌控一切的野心和决策能力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《夫尊天下》第27章晴天霹雳.doc]([改造]_《�
 | Size            | 43008 bytes                           |
 | MD5             | d05555e7f70449039585f8614b86aa5a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 超能力, 权力游戏, 女权, 幻想, 自我认同, 晋升, 身体改造, 婚姻幻想, 道德探讨, 社会压力, 女性心理, 情感紊乱, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

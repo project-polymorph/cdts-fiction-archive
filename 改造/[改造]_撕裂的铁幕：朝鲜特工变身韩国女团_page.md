@@ -7,7 +7,7 @@ TXT 下载: [[改造]_撕裂的铁幕：朝鲜特工变身韩国女团.doc]([改
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部小说名为《撕裂的铁幕：朝鲜特工变身韩国女团》，讲述了一位朝鲜特工在执行对韩国总统的刺杀任务过程中，因意外而变身为韩国女团偶像的故事。故事发生在2026年12月24日的汉城郊外，主角郑哲宇作为朝鲜人民军的王牌狙击手，被指派执行一个至关重要的任务：刺杀韩国总统尹锡悦。小说开篇描述了他在雪夜中隐藏、观察的紧张情形，伴随他对任务的回忆与思考。然而，当他准备实施狙击时，突发的意外将目标转换，让他卷入了复杂的情感与身份认同的冲突之中。此书不仅涉及对角色心理的深刻描写，也探讨了性别认同、自我认知等主题，是一部充满悬疑与转变的跨性别相关小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_撕裂的铁幕：朝鲜特工变身韩国女团.doc]([改
 | Size            | 752128 bytes                           |
 | MD5             | dd8d56eeb661ec8074ad8157df90865e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 韩国                               |
+| Date            | 2026-12-24                                 |
+| Tags            | 朝鲜特工, 跨性别, 变身, 刺杀行动, 狙击, 韩国女团, 性别认同, 悬疑, 刺杀总统, 自我探索, 变嫁, 伪娘, 二次元, 现代都市, 暗杀, 情感纠葛, 神秘任务                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

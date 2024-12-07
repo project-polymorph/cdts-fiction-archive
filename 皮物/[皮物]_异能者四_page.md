@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_异能者四.docx]([皮物]_异能者四.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部关于异能者和复杂人际关系的小说，主要围绕角色蕾与其他角色之间的互动展开。文本中描绘了角色蕾的外貌及特征，例如:“扎着马尾辫的褐色头发”、“紧身的运动装将她的凹凸有致的好身材表现的淋漓尽致”。文中展示了她的神秘身份以及与主角晓的冲突，晓试图寻找蕾所拥有的异能物品水珠。文本还描述了华倩倩的情感与性幻想，通过电话交流展现她对异能者的兴趣和欲望，涉及了一些性暗示与色情内容。整体而言，该作品探索了身份认同、欲望与权力的主题，同时包含了较为明晰的性暗示和异能元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_异能者四.docx]([皮物]_异能者四.docx)
 | Size            | 18255 bytes                           |
 | MD5             | fc7a005f438c856f1c61ca9916bfec2f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异能, 性别转换, 跨性别, 异能者, 幻术, 女性内心, 惊悚, 夜幕, 性感, 诱惑, 复杂人际关系, 自我认同, 性暗示, 都市幻想, 神秘角色, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

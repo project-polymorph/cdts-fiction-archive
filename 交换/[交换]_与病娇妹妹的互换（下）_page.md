@@ -7,7 +7,7 @@ TXT 下载: [[交换]_与病娇妹妹的互换（下）.doc]([交换]_与病娇�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《与病娇妹妹的互换（下）》属于性转小说类型，内容围绕着角色之间的身体互换与性别认同的探索。故事的主线以立花与其哥哥的角色互换为基础，哥哥在立花的身体中经历了各种情感与身体上的冲突，展现了性别转换所带来的心理变化与感官体验。在情节中，哥哥被迫体验立花的身体与加奈的关系，包括性爱行为，描述了强烈的性快感与对身体的认识。这段描写情感细腻且带有明显的性暗示，充分展现了角色在性别转变过程中的苦苦挣扎与探索。整个故事充满了各种性暗示与禁忌的内容，适合探讨性别与自我认同等深层主题的读者。此外，文件中也描绘了强烈的情欲场景，揭示了角色间复杂的情感关系与心理转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_与病娇妹妹的互换（下）.doc]([交换]_与病娇�
 | Size            | 39424 bytes                           |
 | MD5             | 72a6c01879eb16f5feb2b0f4b1e86f1b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 变身, 病娇, 跨性别, 伪娘, 性别认同, 身体交换, 幻想, 色情, 心理探索, 自我认同, 亲密关系, 情感纠葛, 性快感, 魔法, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

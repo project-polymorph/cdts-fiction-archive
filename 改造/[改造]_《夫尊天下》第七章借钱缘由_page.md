@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《夫尊天下》第七章借钱缘由.doc]([改造]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《夫尊天下》第七章，主要讲述了古月蒙与古月乾两兄弟之间的情感纠葛和对军事环境的反思。故事开头，古月蒙勇敢地向哥哥古月乾提出了借款请求，原本以为借钱是为了自己，却意外得知他的动机是出于对同袍贾旅的关心。古月蒙在军队中不断面临经费削减、边疆紧张局势等困境，对贾旅受伤后缺乏医疗物资感到忧心。同时，古月乾的态度在故事中也显得扑朔迷离，他对金钱的把控和对兄弟感情的分析，加深了故事的复杂性。章中详细描绘了士兵们面临的心理和情感冲突，揭示了军队内部权力和财富斗争的残酷，以及个体在阴暗环境中的无奈与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《夫尊天下》第七章借钱缘由.doc]([改造]_《�
 | Size            | 40448 bytes                           |
 | MD5             | 8c64c165f07e25550e5de883490f3afe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 变身, 跨性别, 军队, 情感纠葛, 经济压力, 英雄主义, 兄弟情, 暗黑中的斗争, 生死战友情, 自我认知, 借贷关系, 边缘地带, 政治压迫, 医疗短缺, 少数民族问题, 权力斗争, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

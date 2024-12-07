@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_坑…已经填满。。。。。.docx]([皮物]_坑…已
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部科幻题材的小说，其中主要描绘了一位名为其藤青木的角色与一起实验室爆炸事件的故事。故事开头，白发苍苍的老人正在实验室中进行科技实验，最终导致了一场巨大的爆炸，研究所化为废墟。其藤青木作为故事的主角，在事发后发现了一个装满神秘物品的箱子，并无意中释放出一名貌美的神秘女子，暗示着他身处于一个围绕生物科技和变身的奇幻世界。文中包含了一些禁忌与大胆的内容，如台长与女主播之间的私密关系，以及伪娘机器人等元素，突显了性别认同与身份冲突的主题。整个故事充满悬疑与奇幻色彩，特别是对人性与科技伦理的探讨，展现了作者对未来社会的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_坑…已经填满。。。。。.docx]([皮物]_坑…已
 | Size            | 36794 bytes                           |
 | MD5             | 1c92538dfce004351365e482da1cb77f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 性转, 变身, 伪娘, 机器人, 生化事件, 身份认同, 性别角色, 人性探讨, 年轻女性角色, 实验室爆炸, 神秘女子, 校园生活, 黑科技, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

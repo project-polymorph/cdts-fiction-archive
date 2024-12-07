@@ -7,7 +7,7 @@ TXT 下载: [[附身]_灵魂管理器2型(2).docx]([附身]_灵魂管理器2型(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部涉及灵魂附身与性别转换主题的小说，讲述了主角在与吴杰的互动中发现自己意外附身于一位女性角色王晓莹。这一变化带来了身心的巨大冲突和探索。故事中，吴杰以女性身份表现出调皮和挑逗，引发了与主角间复杂的感情纠葛。文件从主角的视角描述了转换后的身体感受，以及在这一过程中对性别与自我认同的反思与探索。同时，文本涉及大量性暗示和情色情节，包括与吴杰的亲密互动及性行为的细致描写。在探讨性别认同的背景下，文本揭示了对角色内心挣扎与欲望的深入挖掘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_灵魂管理器2型(2).docx]([附身]_灵魂管理器2型(
 | Size            | 27146 bytes                           |
 | MD5             | b12c8093d76abfa413437bbffb03b4ca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 灵魂附身, 跨性别, 伪娘, 强奸, 性欲探索, 女性身体, 情感纠葛, 青年恋爱, 教育工作者, 欲望与自我认同, 调教, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

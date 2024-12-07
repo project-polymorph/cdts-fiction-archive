@@ -7,7 +7,7 @@ TXT 下载: [[附身]_灵魂之战.doc]([附身]_灵魂之战.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《灵魂之战》的伪娘/跨性别题材小说的策划文档，主要围绕一场名为《灵祭》的奇幻战斗场景展开。在这个场景中，角色们面临着恶魔与圣女之间的对抗，其剧情描述了他们为了摧毁邪石的努力与冒险。主要角色包括陈家文、米娜等，他们需要在规定的时间内完成任务，否则将遭遇死亡的威胁。同时，内容中涉及对性别认同与自我探索的探讨，尤其通过角色们的能力与内心斗争展现了对灵魂本质的思考。在场景中，角色们将面临复杂的选择与紧张的局面，任务的性质从消灭邪石到个人的生存考验，构建了一个悬疑而又充满挑战的故事背景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_灵魂之战.doc]([附身]_灵魂之战.doc)
 | Size            | 51200 bytes                           |
 | MD5             | e24dbc7b77113a427eec18eadefc3518                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂之战, 同学, 恶魔, 圣女, 附身, 奇幻, 战斗, 自我探索, 任务, 生存挑战, 跨性别, 灵祭, 邪石, 剧情, 都市, 伪娘, 男娘, 校园, 情感冲突, 性别认同, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

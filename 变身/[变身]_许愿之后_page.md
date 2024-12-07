@@ -7,7 +7,7 @@ TXT 下载: [[变身]_许愿之后.doc]([变身]_许愿之后.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于性别转换的小说，主要叙述了一个名叫杨沐昕的男性角色在一次许愿后变身为女性的过程。故事开篇以清晨的醒来为引，主人公感受到自己的身体发生了巨大的变化，从原先的男性形态变成了一个身材纤腰、相貌清秀的少女。在了解到自己的身体和性别发生变化后，主人公从一开始的不适应到逐渐接受和享受这个新身份的过程。小说中不仅描述了性别转换带来的生理变化，还涉及到角色的心理变化，如面对他人对自己的认知和对新身体的探索与欣赏。主人公在变身后的生活中开始注重外貌，体验女性特有的生活方式，包括与女性好友一起逛街、购物等。整体而言，这部小说通过主人公的视角深刻探讨了性别认同与自我认知的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_许愿之后.doc]([变身]_许愿之后.doc)
 | Size            | 64000 bytes                           |
 | MD5             | 851ec77d71ef35d4d1ddee8dab07ed9c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, 伪娘, 自我探索, 二次元, 青春, 成长, 幻想, 喜悦, 女性视角, 魔法, 冒险, 奇幻情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮物】我的弟弟是偶像后传.doc]([皮物]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于青少年偶像歌手洛夕的小说，主要描绘了洛夕在舞台演出及与粉丝互动的场景，同时深入探讨了她内心对于性别认同与自我意识的复杂情感。在一个璀璨星空下，洛夕在舞台上展现着她的才华，面对热情洋溢的粉丝，愉快地享受着舞台带来的光辉。故事中描绘了洛夕与她的团队及母亲之间的互动，揭示了她身为一名伪娘的心路历程。在卫生间中，洛夕的一系列行为则进一步探讨了性别认同与个人身份的冲突和转变，表现出她对自我认知的探索。该文描写了多种角色关系，以及洛夕与其他角色如香草等人的情感纠葛，同时涉及了一些大胆的情节，探索了青春期青少年的潜在挣扎与身份认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮物】我的弟弟是偶像后传.doc]([皮物]_【�
 | Size            | 65536 bytes                           |
 | MD5             | ab24e16d66a9f0e87488a6633fce52b7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 偶像, 性别认同, 青少年, 转变过程, 跨性别, 偶像文化, 青春期, 自我探索, 描绘情感, 互动, 背德感, 拒绝继承                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

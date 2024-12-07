@@ -7,7 +7,7 @@ TXT 下载: [[变身]_九岁被变成女生的我将在18岁变回男生（2）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个名为林燃的九岁男孩被变成女孩子的故事。故事的开始，林燃正在打篮球，展现出他活泼好动的个性。然而，在回家途中，他捡到一本名为《switch book》的书，书中提到他将变成女孩并经历这样的生活。随着故事的推进，林燃发现自己真的变成了女孩林然，并开始逐步适应新的身份和生活。故事中，林然经历了日常生活的种种变化，包括使用女厕所、与女同学交往，以及逐渐接受自己的新身份。这部作品探讨了性别认同与自我探索的主题，通过林然的视角展现了性别转换后生活的尴尬与新奇。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_九岁被变成女生的我将在18岁变回男生（2）.
 | Size            | 39553 bytes                           |
 | MD5             | 1ce82b4a9d8abb392bc0b3632f531a3b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身, 伪娘, 青春, 校园生活, 魔法, 篮球, 女孩子的烦恼, 友谊, 成长, 性别转换, 心理变化, 身份认同, 幻想, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_重生破道第三章深山救人搏妖精，古观真人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于女性角色重生后与妖精对峙的小说摘录。故事开始于一位白衣女子在小道上迷失方向，希望返回云麓山，但不幸走错了路。在寻找方向的过程中，她遇到了一位焦虑的中年男子，后者正为他被妖精吞噬的儿子而感到绝望。为了拯救少爷，白衣女子决定前去妖精的巢穴。','其中描写了许多次她的旅程以及妖精的出现，这个妖精似乎对女子的美丽产生了贪婪的欲望并企图交换她的脸。小说通过描绘角色的自我探索与身世冲突，探讨了性别与身份认同等主题。女性角色在与妖精的对抗中展现了勇气与决心，情节扣人心弦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_重生破道第三章深山救人搏妖精，古观真人�
 | Size            | 27622 bytes                           |
 | MD5             | 9fb5aef5893d8afa36094108e948bdb4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 女性主义, 妖精, 自我认同, 武侠, 冒险, 重生, 生死存亡, 江湖, 纯爱, 剑术, 美丽, 心理战, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

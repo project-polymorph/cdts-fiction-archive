@@ -7,7 +7,7 @@ TXT 下载: [[其他]_真情-2.docx]([其他]_真情-2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了纳特在变身为娜塔莉后的一周经历。在这一过程中，他体验到了女性的性别认同和生活状况的转变。从开始使用假阳具进行自我探索，到后来决定体验作为女子与男人的真实性关系，纳特逐渐认识到女性面临的多重挑战，包括生理期的痛苦、社会歧视以及在事业与家庭之间的困境。文中描绘了他与吉吉的互动，以及他从男性转变为女性身份的内心冲突，通过慈善活动来理解女性的社会处境和相互支持的重要性。最终，纳特意识到作为女人的生活并不仅仅是外在的性感和欢愉，还包含了许多困难与责任。文中不乏重口味的描写，但也深刻反映了性别认同与社会认知的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_真情-2.docx]([其他]_真情-2.docx)
 | Size            | 21015 bytes                           |
 | MD5             | de51cacbbf764d3051df54190e750099                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 自我探索, 女性认同, 性别角色, 社会问题, 女性疾苦, 魔法, 性关系, 志愿者, 性转, 二次元, 爱情, 成长, 性别歧视, 情感, 高潮体验, 生理周期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

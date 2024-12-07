@@ -7,7 +7,7 @@ TXT 下载: [[附身]_真‧淫魔修女傳_第一至二回.docx]([附身]_真�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《真‧淫魔修女傳》，是与变身和跨性别相关的故事。故事的开头主角询问自己是否已经死亡，并与一个恶魔使者进行对话，描绘出他因追随邪恶力量而成为撒旦的僕人。叙述中提到角色内心的矛盾和恐惧，展现了死亡与永生之间的复杂关系。故事中充满了恐怖与欲望的冲突，描写了主角在灵魂转变及肉体改造中的挣扎。在情节展开过程中，出现了诡异的肉虫生物，它将主角的意识连接到一个新的身体，影射了性别转换和身体认同的主题。文本中含有敏感与限制级的内容，涉及穿越、附身、肉体改造等元素，同时包含对生死、权力和渴望的深刻探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_真‧淫魔修女傳_第一至二回.docx]([附身]_真�
 | Size            | 53181 bytes                           |
 | MD5             | 6f33684fd02197b6cbd613b703d6352e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 恶魔, 灵魂交易, 性别认同, 死亡与重生, 附身, 肉体改造, 恐怖, 欲望, 挑战自我, 禁忌主题, 异物侵入, 心理挣扎, 隐秘力量, 诡异生物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

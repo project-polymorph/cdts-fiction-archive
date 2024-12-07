@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【翻译】恶性循环.docx]([交换]_【翻译】恶性
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是以魔幻与科幻为主题的跨性别变身小说《恶性循环》的中文翻译版本，原著作者为Raven。故事围绕主人公大卫展开，他从一个普通的白人男子醒来后发现自己不知为何变成了一名非裔女性，名为莱娜妮。故事描绘了大卫面临身份转变、失去记忆与对新生活的不适，以及他如何逐渐接受自己作为女人的身份。文中充满了主人公的内心冲突与恐惧，展现了对性别认同与个人认同的深刻思考。大卫发现自己有一个小女儿塔妮莎，他的母性本能渐渐激发出来，但同时对过去生活的割舍则让他感到痛苦。本书涉及性别、母性、身份认同等重要议题，并探讨了男性气质与女性气质的交融和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【翻译】恶性循环.docx]([交换]_【翻译】恶性
 | Size            | 18855 bytes                           |
 | MD5             | 533f90e43044662c7546bc1f00f741f7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Raven                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 身份认同, 自我探索, 母性, 性别认同, 女性主义, 魔法, 情感冲突, 记忆丧失, 家庭关系, 社会问题, 内心挣扎, 性别转换, 女性视角, 奇幻元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

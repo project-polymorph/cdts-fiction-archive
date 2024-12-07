@@ -7,7 +7,7 @@ TXT 下载: [[改造]_云中怨_第四章.doc]([改造]_云中怨_第四章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为伪娘 TS 变身与跨性别相关小说的第四章，讲述了主人公在权力游戏中遭受的侮辱与屈辱。故事情节围绕着主人公在宫中所经历的变故展开，李桃枝作为权臣以公主身份剥夺了主角的男性身份，同时也将其爱妻元氏纳入自己的权力游戏中。文中细腻地描绘了主角的内心挣扎与无奈，诸如在面对权力的压迫和对爱的渴望之间的冲突。主角与元氏的深厚感情通过彼此间的对话与默契互相映衬，使得这一变故显得更为沉重。最后，主角决定忍辱偷生，接受新的命运，而这也隐含了对未来的希望。此章节展现了复杂的情感纠葛、权力斗争以及对性别认同的深层探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_云中怨_第四章.doc]([改造]_云中怨_第四章.doc)
 | Size            | 37888 bytes                           |
 | MD5             | 469f9bcdc7f2153e83aaade82ad2ba51                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 权力斗争, 情感纠葛, 自我认同, 宫廷生活, 伪娘, 强奸, NTR, 修罗场, 多重身份, 女性主义, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【申码文搬运】决斗！.doc]([变身]_【申码文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要讲述了一位名为清彦的男性选手在一场卡牌游戏比赛中获得冠军并变身成哥哥萝莉少女的经历。故事开始于清彦因努力训练而获胜，随后在返回途中与一名年轻人相遇，激起了他帮助他人以实现梦想的念头。一场未知的黑暗游戏开始了，清彦在游戏中受到攻击，经历了身体逐渐转变为女性的过程，结合了变身与自我认同的主题。随着比赛的进行，清彦的自我意识与肉体变化引发了一系列心理斗争和冲突，他必须在维持自我意识与陷入淫欲之间做出选择。文中涉及大量关于性别转换和身体改写的描绘，展现了角色在游戏与现实之间的挣扎与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【申码文搬运】决斗！.doc]([变身]_【申码文�
 | Size            | 36864 bytes                           |
 | MD5             | 39a70843036e4f550bfd00bd449ad830                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性转, 跨性别, 哥特萝莉, 卡牌游戏, 自我认同, 黑暗游戏, 身体改造, 淫欲, 强制快乐, 记忆转移, 男性化, 女性化, 自我探索, 爱情, 奇幻, 多重身份, 游戏, 幻想, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

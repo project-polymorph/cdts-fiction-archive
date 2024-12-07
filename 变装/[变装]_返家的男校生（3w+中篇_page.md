@@ -7,7 +7,7 @@ TXT 下载: [[变装]_返家的男校生（3w+中篇.doc]([变装]_返家的男�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于男校生在元旦晚会前后的生活片段，主要讲述了主人公诗昀与同学思瑶和柯颖之间的互动。故事设定在东城私立男校，讲述了男校转型为男女混校的前期。诗昀在晚会中的经历让他亲密接触到女性形象的展现，同时描绘了与同学之间的感情纠葛。小说中包含了关于性别认同的探索，主人公面临变身与性别认知的挑战。情节中穿插了对于女性身体的感知与探讨，以及对自我性别身份的反思。特别是在文本中提到的“卸妆水”与“解离药水”，暗示着一种生理上对性别转换的探索与体验，反映了主人公内心的复杂情绪。作为纯爱风格的小说，保存了亲情与友情的温暖，同时也流露出青春的困惑与对未来的期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_返家的男校生（3w+中篇.doc]([变装]_返家的男�
 | Size            | 124928 bytes                           |
 | MD5             | 1a3e3ebc3a22dab75b42164f3041f24d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 纯爱, 男校生, 性别认同, 变身, 跨性别, 青春故事, 二次元, 校园生活, 友情, 自我探索, 异性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鹰枭乱五（雄鹰化娇莺）.docx]([改造]_鹰枭乱
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档内容涉及了一个关于性别变换和跨性别的故事。故事的主角李在一场突如其来的事件中被变成了一个迷人女性的形象，经历了深刻的心理和身体上的转变。他在一系列的情节中面临自我认知的挑战，甚至被迫参与到性交易中去。文章的内容包含了一些敏感的情节，涉及药物催眠和性交易的主题，展现了角色在这种情况下的内心挣扎与痛苦。文中通过李与医生、他人的对话，透露了药物改变身体和心理状态的过程，以及主角如何在这种情况下尝试维持自己的身份。此作品探讨了性别认同、自我探索以及社会角色的扭曲等深刻的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鹰枭乱五（雄鹰化娇莺）.docx]([改造]_鹰枭乱
 | Size            | 27113 bytes                           |
 | MD5             | ecb038f51fac7735909153f87cd68680                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 跨性别, 催眠, 毒品, 社会角色, 极端心理, 自我探索, 性交易, 药剂, 心理控制, 身份危机, 二次元, 虚构人物, 扭曲人性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

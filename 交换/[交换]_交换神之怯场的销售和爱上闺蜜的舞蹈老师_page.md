@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交换神之怯场的销售和爱上闺蜜的舞蹈老师.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于小说《交换神之怯场的销售和爱上闺蜜的舞蹈老师》的第三篇，探索了复杂的情感和性别认同问题。故事围绕两位主角柳好和张艺展开。柳好是一个在性别和自我认同上处于困惑的男性角色，他渴望成为他的闺蜜杜惠，体验她的生活。而张艺则是一个英语教师，她的生活则因即将结婚而复杂。故事中两位女性闺蜜之间以及柳好对杜惠的情感交织在一起，探讨了情感的错位与心理冲突。戏剧性的情节如电话沟通、生活琐事，结合了友情与爱情的错综复杂，使得故事引人深思。文件的文风细腻且对角色内心在性别认同上的挣扎有着深入的描写，涉及了爱情、传统和个人探索等主题。此外，故事还触及了一些成人隐私内容，描写了主角们的情感互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交换神之怯场的销售和爱上闺蜜的舞蹈老师.
 | Size            | 23600 bytes                           |
 | MD5             | ef2ee266f9ba01a3b5e28065cb134617                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-04-28                                 |
+| Tags            | 性别认同, 跨性别, 同性恋, 性转, 情感, 青春, 身份探索, 友谊, 婚前性行为, 心理冲突, 爱情, 二次元, 奇幻, 变身, 文学作品, 青春校园, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

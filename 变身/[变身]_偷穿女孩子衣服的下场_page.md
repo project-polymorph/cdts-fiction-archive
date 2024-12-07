@@ -7,7 +7,7 @@ TXT 下载: [[变身]_偷穿女孩子衣服的下场.doc]([变身]_偷穿女孩�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《偷穿女孩子衣服的下场》，讲述了主角菲尼克斯在潜水吧的一段经历。故事的背景设定在一个充满霓虹灯和兴奋气氛的酒吧。菲尼克斯在收拾桌子时，意外发现了一个女士的挎包，打开后发现里面有一套完整的女式水手制服。作为一个对女性制服充满迷恋的年轻酒保，菲尼克斯在好奇心和工作的原则之间挣扎，最终选择脱光衣服尝试穿上那套制服。在穿衣过程中，他的身体和心理都发生了奇妙的变化，逐渐变得女性化并沉醉于这种女性所带来的快感。随着变化的深入，她意识到新的身份所带来的欲望和快感。最后，菲尼克斯在酒吧遇到室友托尼，主动暗示欲望，躲入宾馆进行关系。整个故事充满了对变性和性别认同的探讨，表达了对变身过程的细腻描写和心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_偷穿女孩子衣服的下场.doc]([变身]_偷穿女孩�
 | Size            | 45056 bytes                           |
 | MD5             | 44d4362163e8d89a1e94abd68dd75100                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 制服控, 女性化, 自我探索, 欲望, 性愉悦, 变嫁, 情感纠葛, 酒吧文化, 性转, 伪娘, 幻想文学, 性别流动, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

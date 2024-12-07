@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch08.doc]([皮物]_天使的救赎_Ch08.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《天使的救赎》第八章围绕仙蒂这个角色的日常生活展开，描述了她清晨的起床过程以及出发前往机场的紧张心情。仙蒂正在进行身份转换，面临与自身身份认同的冲突。在候机厅中，她感受到某个阴郁男子的注视，这让她感到不安与焦虑。随着登机过程的推进，她遇到了年轻政治议员戴维·诺瑞斯，二人展开了一段微妙而复杂的对话。诺瑞斯对她表示友好，似乎对她的面容感到熟悉，二人之间的交流逐渐加深，仙蒂内心掀起了自我审视的波澜。通过与诺瑞斯的相处，仙蒂体验到了与过去的自己截然不同的生活，充满了探索与期待。同时，小说探讨了性别认同、自我探索以及人与人之间潜在的情感联系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_天使的救赎_Ch08.doc]([皮物]_天使的救赎_Ch08.do
 | Size            | 46592 bytes                           |
 | MD5             | 5b7cc7584602030ace79a0ac3701aa58                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 自我认同, 人际关系, 政治人物, 身份转换, 心理冲突, 现代都市, 青涩爱情, 友谊, 女性视角, 角色塑造, 情感探索, 梦想与理想, 生活琐事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

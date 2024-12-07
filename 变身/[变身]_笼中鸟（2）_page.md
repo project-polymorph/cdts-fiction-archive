@@ -7,7 +7,7 @@ TXT 下载: [[变身]_笼中鸟（2）.doc]([变身]_笼中鸟（2）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇作品是关于角色爱丽丝在魔界生活的经历，她原本是一名男性，但现已被转变为一名天使。文中描述了爱丽丝的生活，她被强迫接受女仆的服侍和礼仪课程，同时她也试图通过研习草药学和化学知识制作毒药以提升自身战力，然而她的努力未能成功。随着对环境的逐渐适应，爱丽丝的内心状态发生了微妙的变化，虽然感到愤怒与羞辱，但她意识到只能隐忍，等待机会逃出魔界。在故事中，路西法作为存在的强大角色，对爱丽丝的身体和心理产生了影响，文中提到的“魅魔淫纹”契约，使得爱丽丝虽然心中不满，却无法抵抗身体的自我背叛，最终的情感与权力的微妙纠葛也在逐步展开。作品探讨了性别认同、自我探索以及权力关系的复杂性，同时兼具一些成人向的情节，对于相关主题提供了丰富的想象空间。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_笼中鸟（2）.doc]([变身]_笼中鸟（2）.doc)
 | Size            | 40960 bytes                           |
 | MD5             | ff1f8820fc9a2cb9d56ff6bfbc1a69bf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 天使, 魔界, 路西法, 女仆, 契约, 自我探索, 权力关系, 魔法, 禁忌爱情, 羞耻感, 变身, 幻想, 异世界, 情感纠葛, 性感, 身体自我背叛, 精神与肉体的冲突, 成人主题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

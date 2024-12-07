@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_深夜书店轶闻.doc]([皮物]_深夜书店轶闻.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件《深夜书店轶闻》是一则短篇小说，讲述了在一间深夜依旧营业的书店里，发生的一系列奇异事件。故事围绕着两名角色，女子张馨和书店的店员陈伟的互动展开。张馨是个美丽且知性的女子，尽管身边充满了追求者，她却保持禁欲主义的信仰。故事的冲突出现在深夜阁楼中，陈伟突然对张馨说出极具暗示性的话，导致张馨失去意识。故事在此转入一种悬疑与暗黑的氛围，暗示着在书店阁楼中可能发生的不可告人的秘密。接下来的部分则以张馨内心的独白展开，描述了她在自我认知和身体欲望之间的挣扎，以及对这一切的麻木与享受。文章中不断展现男女性别角色的交织与错位，极富想象力，同时也透露了对性自我探索的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_深夜书店轶闻.doc]([皮物]_深夜书店轶闻.doc)
 | Size            | 30208 bytes                           |
 | MD5             | 2b70310b6cfc2758e8863bd03931341a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 深夜书店, 性转, 变身小说, 禁欲主义, 幻想文学, 自我认知, 情色, 悬疑, 心理探索, 都市传说, 奇幻, 现代文学, 性别认同, 人际关系的复杂性, 心理描写, 女性视角, 变装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

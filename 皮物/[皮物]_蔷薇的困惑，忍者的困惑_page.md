@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_蔷薇的困惑，忍者的困惑.doc]([皮物]_蔷薇的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文主要讲述了一个关于性别身份转换的故事，涉及角色、变装、和心理冲突的情节。故事的主角是秘密组织“蔷薇少女”的成员蓝蔷薇，他接受了一个任务，意图通过变装术来替代大财阀的大小姐麻耶子。为了接近麻耶子，他先对她的朋友樫宫堇下手，将其昏迷后假冒其身份出席家庭聚会。然而，在伪装的过程中，堇感受到了一种异常的压力，尤其是来自麻耶子家女仆双叶的目光，双叶似乎察觉到了什么不对劲。随着故事发展，忍野清丸变身为女仆双叶，背负着保护麻耶子的使命使得情节变得复杂及紧张。文中积极探讨了自我认同、欲望与身份之间的冲突，以及对角色们内心世界的深入描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_蔷薇的困惑，忍者的困惑.doc]([皮物]_蔷薇的�
 | Size            | 92672 bytes                           |
 | MD5             | fcc0cc8b0001811824c138d3f31a0b77                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 月咲华灯                               |
+| Region          | 未知                               |
+| Date            | 2016-04-07                                 |
+| Tags            | 性别转换, 变装, 跨性别, 伪娘, 男娘, 秘密组织, 自我认同, 心理斗争, 情感冲突, 冒名顶替, 权力游戏, 爱情, 青春, 异世界, 药物相关, 忍者                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

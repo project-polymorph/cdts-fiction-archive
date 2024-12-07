@@ -7,7 +7,7 @@ TXT 下载: [[改造]_女寝发生强奸案_受害人与罪犯为同寝“闺蜜
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一起在大学宿舍发生的严重案件，涉及到一起强奸案，犯罪嫌疑人竟是受害人同寝半年的室友。案件曝光后，引发了广泛关注，因为嫌疑人“小琴”在外貌及性征上经过手术改变为女性，表面上一切看似正常。经过警方调查，发现“小琴”原本是男性，通过整形手术改变外貌，保留了男性生殖器官，并以女性身份参与大学生活。该文档不仅详细描述了事件经过，还涉及到医生的检查报告以及周围同学的反应，揭示了在性别认同与生理性别之间的复杂关系。总体来说，这起事件引发了人们对性别认同、宿舍安全以及社会认知的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_女寝发生强奸案_受害人与罪犯为同寝“闺蜜
 | Size            | 19944 bytes                           |
 | MD5             | 72a28c4089303bdf888624f5adf5fda6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-11-02                                 |
+| Tags            | 性别认同, 宿舍强奸案, 跨性别, 变性手术, 性别角色, 心理冲突, 二次元文化, 校园暴力, 受害者心理, 犯罪心理, 性别差异, 院校安全, 社会问题, 性别歧视, 大学生活, 强奸案件, 道德伦理, 法律问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

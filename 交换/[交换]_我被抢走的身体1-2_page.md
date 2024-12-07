@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我被抢走的身体1-2.docx]([交换]_我被抢走的身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘和变身相关的小说的一部分，围绕幸彦和知美之间的身体交换展开。故事中的幸彦以男性身份深入描绘了对知美身体的探索与侵犯。文字中包含了对知美美腿的细致描述，幸彦的行为融合了性别认同的模糊性及自我意识的冲突，表现出对身体的占有欲与欲望。文中有多处细致的描写，如幸彦说道：“你的腿真漂亮啊！”又或是他在抚摸知美的腿时，似乎是探索一种未知的快感，具有强烈的性暗示与侵犯色彩。整个故事充满了紧张感与不安的情绪，使得角色之间的关系显得复杂而纠结。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我被抢走的身体1-2.docx]([交换]_我被抢走的身
 | Size            | 24515 bytes                           |
 | MD5             | c6a4299394136548a7bdbdba65497333                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别交换, 侵犯, 自我探索, 性别认同, 情感纠葛, 美腿, 性暗示, 身体探索, 心理剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

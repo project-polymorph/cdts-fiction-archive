@@ -7,7 +7,7 @@ TXT 下载: [[变性]_借体重生3.docx]([变性]_借体重生3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于名为琉芭的角色经历性别转换与认同的故事。琉芭在一次神秘的仪式后重生为男性，面对身份认同的挑战和新的生活方式，她感到极为不适应。她怀念自己作为女性时的身体和平坦的胸部，对当前的性别角色感到困惑与焦虑。故事描绘了琉芭在新身体内的挣扎，以及她回忆起母亲遗言所带来的压力——在六十五岁时必须与男人发生关系。与此同时，迈克尔，琉芭的新身体的原主人，意识逐渐苏醒，却发现自己在无法控制的状态下被操控。故事交替展现两种意识的碰撞，以及琉芭对于转变自我性别的思考和决定。最终在珍妮丝的帮助下，琉芭尝试打扮成女性，并决定要进行变性手术，展现了她对新身份的接受与拥抱。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_借体重生3.docx]([变性]_借体重生3.docx)
 | Size            | 26490 bytes                           |
 | MD5             | 1ee00fabf7d37e0d9f83863c9b5ca6b6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变性手术, 伪娘, 自我探索, 情感困扰, 身份转变, 青春成长, 二次元文化, 心理冲突, 吉普赛仪式, 性别认同危机, 跨性别, 奇幻文学, 变身小说, 现代生活, 女性形象                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

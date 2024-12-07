@@ -7,7 +7,7 @@ TXT 下载: [[变装]_《未曾设想的生活》1-3.doc]([变装]_《未曾设�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《未曾设想的生活》的前几章节选，主要讲述了男主角林奇杰在女装嗜好的觉醒与自我探索的过程。故事开头回忆了林奇杰在早期偷穿母亲衣物的经历，这样的意识逐渐演变为他在高中住宿生活中对女装的渴望。伴随生活的压力，他期待在某个机会中能够穿上女装，为此他精心策划了在学校宿舍女装的行动。随着情节的发展，林奇杰成功地穿上了一条黑色包臀裙和高跟鞋，满心期待地走出宿舍的门，然而，这一行为的隐秘性使得他面临未知的风险。在一个废弃的教学楼内，林奇杰意外地遇到了他的仇敌楚强，后者发现了他的秘密，并以此进行羞辱和威胁。而接下来的情节则急转直下，描述了楚强如何乘机对林奇杰进行性虐待与侮辱，揭示了性别认同、欲望、羞耻等复杂而深刻的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_《未曾设想的生活》1-3.doc]([变装]_《未曾设�
 | Size            | 47616 bytes                           |
 | MD5             | 2ccd306c73ec51409333ef997f0cec55                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园, 强制性行为, 自我探索, 羞辱, 女装, 变身, 性别认同, 心理斗争, 欲望, 禁忌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

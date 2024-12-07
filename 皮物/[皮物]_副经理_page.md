@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_副经理.doc]([皮物]_副经理.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇有关伪娘和跨性别主题的小说，主要讲述了一位名叫苏婷的副经理在公司中的角色转变与复杂情感。故事开头提到苏婷曾是一名令人不快的女上司，但不久后她变得温柔且性感，吸引了公司男性员工的注意。文本描绘了这些男性对苏婷的幻想与性欲，并展示了她在职场内外的心理变化与相应的性格转变。随着剧情的发展，苏婷的真实身份与欲望被揭示，她与另一个女性角色周琪琪之间的关系变得紧张且充满暗示，甚至展开了超越职场上下关系的性互动。文中描绘的情感冲突、性别认同及性欲表达也反映了伪娘及跨性别文化的复杂性。请注意，该文本的内容存在成人向与色情成分，适合学术研究与分析.
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_副经理.doc]([皮物]_副经理.doc)
 | Size            | 48128 bytes                           |
 | MD5             | 866c72cff3cd42e2fe890c3119001d94                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 办公室恋情, 职场, 情感纠葛, 强烈欲望, 女性魅力, 自我认同, 人际关系, 权力游戏, 性别角色, 性幻想, 潜意识, 禁忌关系, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

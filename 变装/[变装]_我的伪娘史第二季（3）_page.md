@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的伪娘史第二季（3）.docx]([变装]_我的伪�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位男孩的变装经历和心理变化的小说片段，故事围绕着角色在生日聚会的准备和出席过程中，与朋友们的互动展开。角色高飞邀请主人公一起参加朋友黄峰的生日宴会，并要求他伪装成女朋友‘豆豆’，以满足黄峰的虚荣心。在逐步换装的过程中，主人公自我意识逐渐模糊，他意识到自己在变装中的适应性越来越强，甚至开始质疑自己的性别认同。文件中包含了丰富的对话和人物内心独白，揭示了角色之间的友情、虚荣心和自我探索的复杂情感。虽然故事带有幽默元素，但也潜藏着关于性别身份和心理认同的深刻主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的伪娘史第二季（3）.docx]([变装]_我的伪�
 | Size            | 17751 bytes                           |
 | MD5             | a3ec8660646b8304fda2bb2bbee7b4ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 跨性别, 自我认同, 友情, 生日派对, 虚荣心, 心理变化, 游戏交流, 都市生活, 二次元文化, 性别探索, 年轻人生活, 聚会, 心理矛盾, 心理成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_迷失地下城.docx]([变身]_迷失地下城.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说《迷失地下城》的文档，主要讲述了主角阿斯特-卡尔的冒险故事。故事背景设定在一个充满魔法与地下城的奇幻世界，卡尔作为事务所的老板，一直在等待生意上门。随着故事的发展，他接到了一个调查地下城的委托，然而阴谋悄然逼近，卡尔在进入地下城后被困，经过一系列奇遇，他体验到了身体的变化，成为了一名贵族少女。与此同时，故事通过卡尔的眼睛展现了他和贵族少女菲尼克斯-谢菲尔之间的微妙关系，以及他在地下城中与怪物的搏斗。最终，卡尔的身体与性别认同经历了巨大的转变，内心的挣扎与环境的影响交织在一起。文件中细腻描绘了卡尔的转变与感受，尤其是他如何在不同的角色与身份间挣扎，寻求自我认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_迷失地下城.docx]([变身]_迷失地下城.docx)
 | Size            | 19245 bytes                           |
 | MD5             | 0108b3ecd0c881bee1cf0d5faf89c22d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 地下城, 奇幻冒险, 魔法, 性别转变, 自我探索, 贵族关系, 魔物战斗, 魔法道具, 潜行技巧, 贪婪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

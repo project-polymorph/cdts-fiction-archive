@@ -7,7 +7,7 @@ TXT 下载: [[交换]_生日願望二.docx]([交换]_生日願望二.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《生日願望二》是一篇围绕性别转换主题的小说，讲述了主角小呆在一场醉酒后发生的奇异经历。在故事中，小呆醒来后发现自己变成了她好友嫣然的身体，身为雌性的人类，并必须慢慢适应这一变化。小说详细描述了小呆在新的身体里感受到的种种情绪与身体的变化，尤其是在浸浴和穿衣过程中的内心挣扎与自我认知转变。小呆的外貌和嫣然的完美身材形成鲜明的对比，让她在欣赏嫣然的同时也陷入了迷茫与不安之中。随着故事发展，小呆逐渐试着融入嫣然的生活，参加与嫣然叔叔的晚餐，期间开始感受起与自己过去记忆的交织，展现出复杂的情感与心理状态。同时，小说还涉及到性别认同、自我探索以及对美的欣赏等主题，构建了一个充满幻想与现实交错的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_生日願望二.docx]([交换]_生日願望二.docx)
 | Size            | 19126 bytes                           |
 | MD5             | 5a70ecbab4523f8ffd8bba8a3423b3bb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 自我认同, 幻想小说, 身体意识, 心理挣扎, 女性视角, 青春成长, 人际关系, 情感探索, 变身, 性转, 浸浴, 时尚穿搭, 家庭关系, 友谊                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

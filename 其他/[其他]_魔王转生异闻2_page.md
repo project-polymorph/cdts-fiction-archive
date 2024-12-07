@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魔王转生异闻2.doc]([其他]_魔王转生异闻2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档名为《魔王转生异闻2》，是一部围绕性别转换与自我认知的奇幻小说，字数约为11092字。故事围绕着一个失去女伴的男人展开，他在小镇上的酒馆里承包了狩猎任务，从而接触到了艾蕾，一个与他分享爱意的角色。情节通过两人之间的互动揭示了复杂的情感状态与内心挣扎。男人经历了一次幻术的破灭，在失去艾蕾的痛苦记忆中挣扎，而艾蕾则试图通过魔法实现某种解脱。文本探讨了角色的身份认同、记忆的干扰与幻象的双重性，在设定上呈现出二次元的奇幻色彩。文中提及角色在幻境与现实之间的转变，如“这是我与她日常地互相倾诉爱意…不过庆幸的是，这不是梦，艾蕾就在我的身边。”此外，故事的背景设定、人物形象丰富多样，充满了对自我认知与性别转换的深入思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魔王转生异闻2.doc]([其他]_魔王转生异闻2.doc)
 | Size            | 87552 bytes                           |
 | MD5             | 32a8535d83c88644f7dba30f41d25f0a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔王转生, 奇幻, 性别转换, 自我认知, 幻术, 爱意, 失去与痛苦, 二次元, 艾蕾, 狩猎任务, 身份认同, 幻影                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

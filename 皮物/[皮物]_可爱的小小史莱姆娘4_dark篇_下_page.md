@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_可爱的小小史莱姆娘4_dark篇_下.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容描述了一种变身与性别转换的情节。故事的主要角色在性别转换后，经历了一系列与身体和性别认同相关的情感和生理变化。文本中不仅涉及角色的性别变化，还包含了两位角色之间的亲密互动和探索他们新身份的快感。文中描写了具体的身体变化过程，例如从下腹到胸口的变化，以及角色认知的冲突，其中一名角色感受到以前没有的身体体验，引发了她对新身份的好奇和尝试。文本包含明显的成人内容、性行为的细节以及情感交互，这些情节围绕着角色的身体变形和内心冲突展开。文中出现了如“初体验”、“感觉还想再来一次？”等引人入胜的句子，表现了角色对性别转换后生活的新视角和体验。整体而言，该文献是伪娘与跨性别主题交织在一起的探讨，描绘了性别流动性及身体认同的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_可爱的小小史莱姆娘4_dark篇_下.docx]([皮物]_�
 | Size            | 30054 bytes                           |
 | MD5             | 6d4b378a8d2226c704247d9c0bfc88e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 性别认同, 成人内容, 性转, 情感探索, 身体变化, 色情小说, 自我认知, 二次元, 触手, 初体验, 漫画, 肉体快感, 关系发展, 角色冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

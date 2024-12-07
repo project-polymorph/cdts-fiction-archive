@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_情景系列_-_媽媽是特務的情況.docx]([皮物]_情
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一份名为《情景系列 - 妈妈是特务的情况》的文档，内容主要描绘了一个青少年名为如月拓夜的角色与其年轻母亲之间的互动与冲突。故事背景设定在一个普通的家庭中，但母亲的身份却是特工，负责特殊的政府任务。文中详细展现了拓夜的内心感受和他对母亲职业的理解与接受。拓夜的母亲年轻且活力四射，常常因为工作需要临时离开，导致拓夜不得不承担起替代母亲的责任，甚至需要穿上母亲的特殊战斗服来执行替身任务。故事中包含了关于性别认同与角色扮演的元素，逐渐揭示母亲特工身份背后的复杂性和拓夜对这种生活方式的无奈与接受。文档的情节展示了一些涉及变装和身份转换的概念，同时也渗透了青少年对父母职责的误解与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_情景系列_-_媽媽是特務的情況.docx]([皮物]_情
 | Size            | 27532 bytes                           |
 | MD5             | a03199e147f7e17e150d4b00f3221804                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 特工, 家庭关系, 性别认同, 角色扮演, 替身任务, 青少年成长, 母子关系, 虚拟技术, 战斗服, 自我探索, 变装, 伪娘, 跨性别, 心理冲突, 科技幻想, 特殊任务                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

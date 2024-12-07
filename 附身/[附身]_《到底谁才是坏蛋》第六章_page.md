@@ -7,7 +7,11 @@ TXT 下载: [[附身]_《到底谁才是坏蛋》第六章.doc]([附身]_《到�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一部涉及性别转换与自我认同的小说节选，讲述了角色们在神秘科技背景下进行身份交换与探索自我意识的故事。故事的开端在蓉城，多个角色之间的互动与心理斗争交织出复杂而富有张力的情节。法庭会议室内，关于未知文明与生物存储技术的讨论让人不禁思索人类灵魂与身体的关系，角色们在获取他人记忆及身份的过程中，经历了各种人性的拷问和性别认同的探索。
+
+传递着不安与欲望交织的气氛中，角色们在爱情、操控与背叛中进行着挣扎。字符如“张梦茹”与“王安易”的关系体现了传统与现代观念的冲突，性别与欲望的表达非常明确，甚至涉及了强烈的性暗示。这种性转与角色交换不仅让角色获得了新的身体，也让他们的内心世界经历着重要的蜕变与成长，尤其针对复杂的社会与内心焦虑做出深刻的反思与探索。
+
+故事中的许多细节暗示着角色们在权力与身份认同上的抉择、心理挣扎以及情感纠葛，尤其是变身之后的自我认知困扰，以及在外界压力下的幻想与现实对抗，具有明显的社会批判意味。其中文版文稿以生动的词语描绘了这些角色情感的真实与复杂性，同时结合少许限制级内容，构筑出引人深思的多元文化特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[附身]_《到底谁才是坏蛋》第六章.doc]([附身]_《到�
 | Size            | 36864 bytes                           |
 | MD5             | 0476851fecae0564f93227431041be77                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我认同, 角色交换, 现代社会, 多元性别, 精神探讨, 情感纠葛, 科技与人性, 爱情物语, 欲望与操控, 校园生活, 神秘事件, 跨性别小说, 伪娘小说, 暴力与冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

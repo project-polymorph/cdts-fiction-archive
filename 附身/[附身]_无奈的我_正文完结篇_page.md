@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无奈的我_正文完结篇.doc]([附身]_无奈的我_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了女性角色徐雅婷在一个奇特的情况下被迫进入男厕所的故事。徐雅婷原本是学校里的校花，今天她打扮得十分漂亮，穿着粉色连衣裙，走路的姿势却异常粗野，显示出某种身份的扭曲。故事描述了她如何因为生理上的紧急需求进入男厕所，随后意识到自己的性别认同和身体状态的矛盾。随着故事的发展，她在男厕所中的行为逐渐变得放纵，并且对身体的探索充满了新奇的快感。故事中有许多关于性别认同与自我意识的冲突，以及对身体的刺激描绘，揭示了她内心的挣扎与变化。作品蕴含着大量的色情、性别转换以及自我认知的主题，描述生动且富有冲击力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无奈的我_正文完结篇.doc]([附身]_无奈的我_�
 | Size            | 44032 bytes                           |
 | MD5             | eef77d2a406d2c3dab52e4072e7eada6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变身, 男厕所, 内心挣扎, 自我探索, 色情内容, 校园生活, 幻想, 心理转变, 欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

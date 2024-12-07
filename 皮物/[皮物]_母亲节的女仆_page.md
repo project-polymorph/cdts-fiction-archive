@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_母亲节的女仆.doc]([皮物]_母亲节的女仆.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于家庭关系及性别转换主题的小说。故事围绕主角莉迪亚展开，她在母亲节前往母亲家探望，发现自己与哥哥汤米在母亲心中的受欢迎程度存在巨大差异。莉迪亚感到压抑，努力证明自己并讨母亲欢心，但每次都与汤米的成就相比显得微不足道。故事中还描绘了汤米的奢华生活与莉迪亚的挣扎，暗示了家庭内部竞争与性别角色的对立。随着故事的发展，莉迪亚经过一系列反思，决定给汤米一个“女仆”角色的机会，通过一位名为迪维娅的朋友进行性别转变的计划。这种设定不仅带有戏剧性，还涉及更深层次的自我认知与转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_母亲节的女仆.doc]([皮物]_母亲节的女仆.doc)
 | Size            | 44544 bytes                           |
 | MD5             | 533eb3bc2f07408477569698c94bca7c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 母亲节, 家庭关系, 性别认同, 自我探索, 情感斗争, 生活变迁, 情节反转, 心理暗示, 身份转换, 女仆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_血族之谜前传1加申码文血族之谜.doc]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说的开端描绘了一位刚毕业的大学生，因求职失败而被一家公司招募参与一场求生比赛。故事以他穿过一个神秘而狭窄的地下洞穴为背景，展示了他的孤独与绝望。随着情节的发展，他发现自己已被置身于一个险象环生的环境，不再是单纯的求生秀，而是充满了未知与恐惧的实验。小说中提到，地下的红色结晶吸引了他的注意，此时他并不知道这些矿物的背后隐藏着更大的秘密。随着探索的深入，他发现了一个浑身赤裸、面容安详的小女孩，随后情节转向一种复杂的吸血鬼与人类的互动，以及由此引发的自我认知的迷茫和冲突。在与女性角色苏千的对峙中，男主角经历了身体与意识的剧烈变化，这使得小说充分探讨了性别认同与自我意识的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_血族之谜前传1加申码文血族之谜.doc]([附身]_
 | Size            | 59392 bytes                           |
 | MD5             | cc772c048fd8fe4499787c7d4a27db43                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 吸血鬼, 生存比赛, 自我认知, 地下探险, 冒险, 强烈快感, 性别关系, 商业阴谋, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

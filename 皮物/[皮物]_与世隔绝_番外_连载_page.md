@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_与世隔绝_番外_连载.doc]([皮物]_与世隔绝_番�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一个名为《与世隔绝》的虚构故事的开头部分，讲述了索尔帝国的圣女候选者艾米丽克·维斯塔娜正参与选拔过程的情节。故事开始于艾米丽克抵达选拔的地点，表现出她对境况的冷漠与淡然。随着情节的发展，艾米丽克了解到，此次选拔中将会有八位候选者，其中有一位隐藏的‘魔物’，她需要不仅要参与竞争，还要识别出该魔物以确保成功。情节中展示了艾米丽克的果敢与警惕，也暗示了整个选拔过程的尖锐与危险。选拔不仅是对候选者的考验，还渗透着权力争斗和潜在的生死考验。此段内容对角色的心理和环境有很好的描绘，营造了一种紧张的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_与世隔绝_番外_连载.doc]([皮物]_与世隔绝_番�
 | Size            | 43520 bytes                           |
 | MD5             | 9c3fecfc13d86c4bae837b7dea118f25                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 圣女候选, 选拔赛, 性别认同, 魔物, 自我探索, 超自然, 幻想, 权力游戏, 斗兽场, 未知身份, 社会游戏, 角色冲突, 奇幻, 冒险, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

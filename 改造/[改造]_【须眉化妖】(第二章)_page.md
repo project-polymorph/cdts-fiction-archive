@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【须眉化妖】(第二章).doc]([改造]_【须眉化�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《须眉化妖》（第二章）的小说部分，讲述了主人公王力在调查卖淫组织时被捕后的遭遇。在故事中，王力被带入一个神秘的改造基地，他的身心经历了极大的痛苦与羞辱。在文件的开头，王力被电流刺激，感受到身体的无力与失控，紧接着他被迫穿上高跟鞋，逐渐适应这种不适的感觉。随着故事的发展，他与其他被囚禁的男性一起接受高跟鞋穿着和特殊的训练，体验着屈辱与抗拒交织的复杂情感。文件通过生动的描写展示王力心理与身体的转变，探讨了性别认同、羞耻感及自我认知的冲突，同时也涉及了许多限制级与性相关的内容。虽然王力试图反抗，但他在新环境中的无力感和对快感的逐渐接受，反映了他内心深处对于身份变化的无奈与适应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【须眉化妖】(第二章).doc]([改造]_【须眉化�
 | Size            | 48128 bytes                           |
 | MD5             | 10bef700c17ac1e54b68de0cf70b7d0a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 改造, 高跟鞋, 性别认同, 羞耻, 自我探索, 跨性别, 心理冲突, 电击调教, 伪娘, 训练, 失控, 生理变化, 强迫, 快感, 奴役, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

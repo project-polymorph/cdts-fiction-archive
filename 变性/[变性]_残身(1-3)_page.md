@@ -7,7 +7,7 @@ TXT 下载: [[变性]_残身(1-3).doc]([变性]_残身(1-3).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部探讨变装与性别认同的小说，内容围绕年轻男孩李金凤的故事展开。故事由一个普通的医疗情境引入，一个事故导致李金凤受伤，随后经历了一系列人生的转变。诊所的白漆木招牌与简陋环境描绘了他生活的背景。随着男孩接受手术治疗，失去了生理上的男性特征。小说通过细腻的描写探讨了性别认同、自我探索与内心挣扎，尤其是李金凤在失去睾丸后逐渐转变为女性形象的过程。故事不仅描述了李金凤的外在变化，也描绘了他在心理和情感上的复杂状态，尤其是与医生刘栋的互动，透过亲密的关系探索性别与爱的多样性。随着剧情的发展，李金凤在逐渐适应新身份的过程中，展现出了对于自我的重新认识与社会身份的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_残身(1-3).doc]([变性]_残身(1-3).doc)
 | Size            | 48640 bytes                           |
 | MD5             | 1c2ee54967acd2db73c094d57e2d0fb6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 跨性别, 自我探索, 医疗事故, 青春成长, 双重身份, 内心挣扎, 医生与病人关系, 情感纠葛, 社会认同, 人生转变, 心理冲突, 现代都市, 家庭关系, 性别流动性, 戏剧性转折                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

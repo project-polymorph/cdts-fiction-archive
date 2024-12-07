@@ -7,7 +7,7 @@ TXT 下载: [[改造]_压寨夫人（1-10）.doc]([改造]_压寨夫人（1-10�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《压寨夫人》为一部性别转换相关的小说，讲述了年轻士子秦欢在湘鄂地区意外被劫持，成为女寨主于春语的"压寨夫君"的故事。故事开篇描述秦欢骑马游历，在古道上遭遇歹徒被绑，经历了一系列困惑与挣扎。女寨主春语因身为女儿身却因武功高强，在寨中名声显赫，她的兄弟们建议她抢一个中意的男人作为压寨夫君。秦欢在被劫持到寨中后，面对突如其来的命运，被迫接受身份转变成压寨夫人。情节进一步发展，王媒婆运用迷香和药物帮助春语驯化秦欢，将其改造成女性形象，秦欢在接受这个新身份的过程中面临了性别认同与自我意识的重大挑战。文中多次出现关于身份、性别、以及对抗强迫婚姻的主题，呈现了复杂微妙的心理变化和人物关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_压寨夫人（1-10）.doc]([改造]_压寨夫人（1-10�
 | Size            | 64512 bytes                           |
 | MD5             | 512ba4b48e0327e51127e370474335fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 压寨夫人, 跨性别, 强迫婚姻, 二次元, 武侠, 药物变身, 自我认同, 压寨生活, 情感探索, 卖身契约, 逃避与承受, 谋略与反转, 汉子与女子, 伪娘, 变嫁, 奇幻冒险, 爱情伦理, 反传统婚姻, 女性 empowerment                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女之少女日记_5.doc]([改造]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由作者cdbaby创作的一部小说《少女日记》第五章，内容以日记的形式记录了一个女孩在与其亲近的阿姨和朋友相处的一天中的点滴。文件开头提到女孩的阿姨梅根，她教她烘烤苹果派，并一同分享了甜蜜的生活片段。女孩通过日记表达了对阿姨的感激与对美食的期待。接着她讲述了与朋友坎迪及其父亲的互动，展现了一系列温馨的家庭氛围、游戏时的友谊及对美的向往。坎迪的父亲称赞女孩的厨艺，表现出对她未来的美好期许。与此同时，女孩也在期待购物以选购新裙子，显示出她对时尚的兴趣。整体来说，文章传达了家人和朋友间的亲情、快乐日常和青少年的成长细节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女之少女日记_5.doc]([改造]
 | Size            | 31744 bytes                           |
 | MD5             | f1eebcb4afc20e74c6a6cf4deddab110                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | cdbaby                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 亲情, 朋友, 游戏, 日记, 烘焙, 母女装, 时尚, 成长, 女性视角, 家庭, 甜蜜日常, 二次元, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

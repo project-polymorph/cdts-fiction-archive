@@ -7,7 +7,7 @@ TXT 下载: [[其他]_西游情厄传（第十九回）.docx]([其他]_西游情
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别主题的虚构小说《西游情厄传》（第十九回），故事围绕主角飞龙郡主展开，她因遭受劫难而转世成为人间少女，失去法力与记忆，并经历了诸多磨难和折辱。在求助过程中，她逐渐找回记忆，展开复仇，却因施法术屠戮生灵而招致天兵天将的追捕。故事里，飞龙郡主与道士艾真真之间的关系逐渐发展，伴随着迷情、救赎与性别变换的探讨。情节涵盖了惊险与情感的交织，反映出人物面临的选择与冲突，例如：责任、爱慕和自我认知，极具幻想色彩，并意外呈现出跨性别和双性身份的主题。文中出现了复杂的对话、情感起伏以及对环境的细腻描写，增强了文字的表现力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_西游情厄传（第十九回）.docx]([其他]_西游情
 | Size            | 25623 bytes                           |
 | MD5             | 95f6c5d01808cd9b91588e8d7a4ce285                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 复仇, 奇幻, 爱情, 女权, 自我认知, 迷情, 天兵天将, 生死考验, 妖界, 道士, 权力, 救赎, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

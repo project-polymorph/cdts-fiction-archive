@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[碟中谍]越狱_2.doc]([皮物]_[碟中谍]越狱_2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部伪娘 TS 变身与跨性别相关小说，内容围绕王劲松和万达强两位主角的监狱生活及其逃脱计划展开。在文本中，王劲松凭借一只具有特殊能力的戒指，能够将自己的外形与旁人的皮肤进行交换，展现出一种奇特的身体变换和跨性别体验。故事开头描写了王劲松在狱中的日常，以及与万达强的交谈，讨论囚犯日常和监狱环境。随着剧情的发展，王劲松向万达强展示了他带入监狱的关键道具——包含某种高科技功能的戒指，并通过该戒指变身为一位美丽的女性，从而展开一系列充满刺激和性的情节。此篇章描绘了深刻的性别认同、自我探索的主题，以及友情和背叛交织下的逃狱计划。文中包含了限制级与性相关的情节，用以表现角色的心理变化与性别转换的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[碟中谍]越狱_2.doc]([皮物]_[碟中谍]越狱_2.doc)
 | Size            | 37376 bytes                           |
 | MD5             | 48f74acaf2f8a2fe51ae0fc8a10301f3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 监狱生活, 友情, 性别认同, 自我探索, 逃脱计划, 高科技道具, 性相关内容, 男性向, 女人皮, 玉镯, 性转, 刺激                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

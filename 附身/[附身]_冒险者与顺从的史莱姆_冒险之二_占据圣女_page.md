@@ -7,7 +7,7 @@ TXT 下载: [[附身]_冒险者与顺从的史莱姆_冒险之二_占据圣女.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《冒险者与顺从的史莱姆-冒险之二-占据圣女》，讲述了一位冒险者与他的契约魔物史莱姆之间的互动。在故事中，史莱姆帮助召唤了三位女性，随后主人接到史莱姆的召唤，前往圣都探险。圣都有着神秘的宗教背景和强大的圣职者，主人希望得到更多的女性陪伴，史莱姆则提出了通过魔法来达成此目的的计划。故事中涉及了多种魔法，包括能够附身他人的附身术、分魂术与催眠术，反映了角色对于权力与欲望的追求。主角希望借助催眠将一位名叫克拉拉的美丽圣女带入自己的掌控中，展开一系列的冒险故事。文本中既有对角色外表的详细描述，也描绘了角色心理的变化和内心冲突，包含了一些限制级情节与性暗示，适合于对跨性别与性转文化进行研究与分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_冒险者与顺从的史莱姆_冒险之二_占据圣女.d
 | Size            | 30064 bytes                           |
 | MD5             | fa0e14a1f078ccec58ac8e73113096e0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 藻屑                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 附身术, 催眠, 冒险, 魔法, 女性角色, 调教, 神秘宗教, 心理控制, 暗属性魔法, 三位女性, 圣女克拉拉, 欲望, 自我认知, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

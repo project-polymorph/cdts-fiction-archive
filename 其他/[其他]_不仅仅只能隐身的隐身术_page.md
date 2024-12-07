@@ -7,7 +7,7 @@ TXT 下载: [[其他]_不仅仅只能隐身的隐身术.doc]([其他]_不仅仅�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文为一篇围绕隐身术的奇幻小说，主人公阿铭意外获得了一种隐身术，这种能力不仅使他隐身，还可以让身上的衣物一同消失，甚至能够穿墙而过。阿铭在经历了一番无聊的日常生活后，决定利用这个新能力进行恶搞。他最终选择的目标是房东的熊孩子，在发现熊孩子正在观看不宜内容后，阿铭出于好奇和恶趣味，用隐身的机会对熊孩子进行了不当的行为，包括用熊孩子的手进行性启蒙，甚至使用了贞操带来对此进行控制。整个故事充满了各种恶趣味的描写，展现了性别交换、跨性别等诸多主题。特别是对熊孩子的心理变化和身体的操控，展现了复杂的自我认知和身份认同问题。该作品包含了色情、幻想等内容，适合科研和学习使用，但其情节敏感，需谨慎处理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_不仅仅只能隐身的隐身术.doc]([其他]_不仅仅�
 | Size            | 34816 bytes                           |
 | MD5             | 53e8df5945e60f8c8e9d189029bb32be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 隐身术, 恶趣味, 跨性别, 自我探索, 性别认同, 性启蒙, 贞操带, 隐性暗示, 幻想小说, 二次元, 成人内容, 心理操控, 儿童教育, 社会问题, 伦理探讨, 角色扮演, 奇幻故事, 青少年, 悖论, 性 scandal                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

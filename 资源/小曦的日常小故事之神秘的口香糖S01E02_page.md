@@ -7,7 +7,7 @@ TXT 下载: [小曦的日常小故事之神秘的口香糖S01E02.doc](小曦的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是“神秘的口香糖”系列的第二季第二集内容，主要围绕一位主角在准备前往北京参加活动的经历。主角虽然准备充分，但因各种突发状况而显得狼狈，包括没有随身携带身份证、被朋友催促匆忙出门等情境。故事展示了主角在高铁上身着性感服装的状态，以及对周围男子注目与自己身份的内心挣扎，伴随对自身形象的思考。经过一系列细节描写，展现了主角在乘车旅途中所经历的尴尬情境与快感冲突，同时揭示出对性别表现及社会认同的隐秘探讨。文中提到的细节如“我的小红底”以及“华丽的胸型”等，能够引起读者对主角自我形象的更深层思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [小曦的日常小故事之神秘的口香糖S01E02.doc](小曦的�
 | Size            | 61952 bytes                           |
 | MD5             | c764073682fb12f774a2a109a26c2190                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘小说, 跨性别, 变身, 自我探索, 社会认同, 青春校园, 情感纠葛, 性别表现, 都市故事, 性别认同, 二次元, 戏剧 confession, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

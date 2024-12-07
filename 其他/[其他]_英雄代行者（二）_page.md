@@ -7,7 +7,7 @@ TXT 下载: [[其他]_英雄代行者（二）.docx]([其他]_英雄代行者（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是关于一个游戏情景的虚构小说，主角李洛意外地穿越到了一个充满科技感的游戏世界。在这个世界里，李洛发现自己穿着一身金属光泽的蓝色装甲，手持火箭发射器，正准备执行一个神秘的进攻任务。小说中包含了李洛与其他玩家互动的场景，揭示了角色们如何在游戏中变身为不同的形象，包括性别转换的主题。故事在轻松幽默的氛围中展开，推动着角色们在这个奇幻游戏中的冒险，同时涉及到他们对自我身份和身体状况的认知冲突。文中还提到了一些角色设计和游戏机制，如“猛禽系统”和队友的互动，表现出创作者对创作过程的思考。整体来说，这部作品融合了科幻与变身的元素，展示了一段充满探索与趣味的旅程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_英雄代行者（二）.docx]([其他]_英雄代行者（
 | Size            | 24964 bytes                           |
 | MD5             | 4f8ea8d1402d985b2d89cd25ab3cab6f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 虚拟现实, 科幻, 游戏, 性别转换, 自我探索, 冒险, 队友互动, 机器人, 角色扮演, 青春, 变身, 轻松幽默, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

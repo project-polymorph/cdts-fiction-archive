@@ -7,7 +7,7 @@ TXT 下载: [[附身]_都市传说（七）.doc]([附身]_都市传说（七）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《都市传说（七）》是关于杜漫妮和李青青两位女性角色在酒店中的惊悚故事。故事开头，杜漫妮被手机震醒，身边的周思暖同样迷糊。李青青的状态却让人担忧，她因昨夜被和尚打伤而流血不止。杜漫妮急切想要帮助李青青，然而李青青的虚弱让她感到绝望。随着情节的发展，叶倩的出现引发了杜漫妮与李青青之间复杂的情感与身体纠葛。杜漫妮的执着使她愿意牺牲自己的身体以救李青青，这体现了角色之间深厚的情感。整个故事充满了悬疑与情感的冲突，同时涉及到灵魂转移和身份认同的主题，在恐怖与超自然的背景中深入探讨了角色的内心冲突与自我救赎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_都市传说（七）.doc]([附身]_都市传说（七）.
 | Size            | 46080 bytes                           |
 | MD5             | e24ba08332762fd3203386106f765d31                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 都市传说, 灵魂转移, 超自然, 角色认同, 女性之间的情感, 恐怖故事, 酒精影响, 血腥, 母子情感, 牺牲与救赎, 身份纠葛, 冒险, 神秘和尚, 复杂人际关系, 未知力量                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

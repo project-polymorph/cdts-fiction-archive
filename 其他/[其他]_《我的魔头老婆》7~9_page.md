@@ -7,7 +7,9 @@ TXT 下载: [[其他]_《我的魔头老婆》7~9.doc]([其他]_《我的魔头�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《我的魔头老婆》系列小说中的第七至第九章，内容围绕主角江凡与他的姐姐姜丹之间的复杂关系展开，同时引入了一个名为白玥的小萝莉角色，她是一个具有神秘力量的女魔头。在这一部分，江凡奇妙地体验到自己性别的转换，逐渐接受他现在女性的身份，并与姐姐的亲密接触引发了一系列情感和自我认知的冲突。故事中充满了对性别转换的探索，角色情感的变化，以及对自我认知的反思，细腻地描绘了江凡在新身份下的心理斗争和成长。
+
+在事件中，江凡被白玥指导，尝试触碰姐姐的身体，通过这种身体的亲密接触，他逐步领悟到自己的性别身份是可以与他人的关系相互影响的，同时也显现出对自我欲望和身份的矛盾认知。情节的发展中，作者通过细腻的描绘让角色的情感波动与身体变化交织在一起，探讨了性别认同和家人之间的亲密感。在小说中，幽默和戏谑的语言风格，让整个情节显得轻松而不失深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_《我的魔头老婆》7~9.doc]([其他]_《我的魔头�
 | Size            | 48640 bytes                           |
 | MD5             | 15eb74e51d7652a0846e01634cb91e76                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 爱情, 家庭关系, 自我探索, 奇幻, 魔法, 女性视角, 情感, 成长, 身体改造, 现实主义, 二次元, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

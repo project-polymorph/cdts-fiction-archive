@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第十三章.doc]([皮物]_画
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节描绘了角色陆升在女装状态下的生活与心理适应过程。陆升与女友秦雨秋的对话揭示了他作为伪娘的成长与迷茫，逐渐习惯并享受作为女性的身份。章节中详细描述了陆升的形态特征，如穿着女装与拥有狐耳尾巴的样子，及其对自身身份的思考与挣扎。他在懒散中体会到生活的无奈，甚至自嘲这似乎与被当成宠物无异。此外，他的内心戏反映出面对外部世界带来的不安，以及对自己外貌的迷惑。整体上，小说兼具幽默与思考，体现出性别认同与自我探索的重要主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第十三章.doc]([皮物]_画
 | Size            | 58368 bytes                           |
 | MD5             | fb91cd19c89be613ae3f2c190dc97806                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 性别认同, 自我探索, 恋爱, 二次元, 情感纠葛, 尔虞我诈, 女性视角, 青春, 奇幻, 幽默, 日常生活, 幻想世界, 社交恐惧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

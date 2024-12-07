@@ -7,7 +7,11 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_12.docx]([交换]_卡扎菲的秘
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇性转主题的小说，描绘了一位角色经历性别与身份交换的情节。故事围绕一位年轻的男性角色扎伊德，在一场秘密实验中，其灵魂与另一位女性角色莎菲娅的身体交换。扎伊德在莎菲娅的身体中逐渐感知并回忆起扎伊德过往的生活，包括与其他角色的互动、情感经历及他对自我的认知冲突。
+
+故事开篇描述了角色之间复杂的关系和情感，莎菲娅在意识到自己身体的变化后，感受到了扎伊德的记忆和情感。这种身份的重叠使得她面临心理上的挑战与适应。随着故事的发展，角色之间的情感纠葛愈加复杂，充满了对自我身份的探索和对人际关系的重新审视。
+
+在文本中还涉及了一些关于人类记忆与意识传递的科学讨论，探索了灵魂与肉体之间的关系，以及在身份转换过程中所带来的身心冲突。通过瑰丽的描写，体现出角色的自我探索和身份认同的挣扎。整个故事在情感上十分丰富，包含了对人体构造和精神世界的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_12.docx]([交换]_卡扎菲的秘
 | Size            | 18591 bytes                           |
 | MD5             | 8bfcf9909ffbc8e397bab9f70237c504                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别身份, 转变, 灵魂交换, 自我认同, 心理冲突, 二次元, 变身, 科幻, 情感纠葛, 记忆传递, 女性视角, 角色关系, 幻想, 奇幻, 都市, 心理探讨, 成人内容, 情欲, 探索自我                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

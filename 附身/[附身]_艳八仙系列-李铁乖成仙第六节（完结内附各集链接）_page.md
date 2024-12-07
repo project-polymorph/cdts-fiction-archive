@@ -7,7 +7,7 @@ TXT 下载: [[附身]_艳八仙系列-李铁乖成仙第六节（完结内附各
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件属于多元性别小说档案馆的伪娘、变身与跨性别相关小说系列。该文讲述了李铁乖通过附身于已故的金星之躯而重生的故事。在经历了重生后，她对自己本体的家中事务感到挂念，决定寻机返回。故事中，李铁乖虽然变成了女子之身，但仍对她往日的爱慕对象小鹿怀有深情。在李铁乖等到小鹿的陪伴后，因小鹿丧父之痛而感到心痛，但最终却引发了一场超越生死的亲密关系。故事以其对女性身体与性欲的探索而深入探讨了性别认同，伴随的有欲望、情感与社会责任等复杂的情感纠葛。文中存在大量涉及成人内容的描写，描述了与小鹿之间关系的变化与发展，包含了色情、变身与性别角色转换的主题。结尾部分提到李铁乖的成仙之路，将其他角色引入了艳天。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_艳八仙系列-李铁乖成仙第六节（完结内附各
 | Size            | 29184 bytes                           |
 | MD5             | de64628ad2ee1f1a4867fab2de0990f1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 冒险, 爱情, 奇幻, 神秘, 性探索, 生死, 道德, 职场, 超自然, 性别认同, 悲剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

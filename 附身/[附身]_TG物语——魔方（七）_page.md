@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——魔方（七）.doc]([附身]_TG物语——
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一段关于余震在奇妙手机功能下的经历。余震在面临互换身体的选择後，因果性事件导致了自身与劫匪的身体交换。在记录的过程中，他对自己身边人的变化和性别认同有深入反思，特别是与朋友胡军的联系，以及对女性身份的逐步认同。文字详细描绘了余震对局势的紧张感和无奈，重现了他与劫匪面对面的冲突并最终互换身体的情节。文本中涉及复杂的情感与身体认同，伴随幻想与现实的交织，使得余震不得不面临自我救赎与对自我身份的重新审视。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——魔方（七）.doc]([附身]_TG物语——
 | Size            | 37888 bytes                           |
 | MD5             | 89953b7c1eaec5733dcb0b8237a5e2b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 身体交换, 身份认同, 女性视角, 青春气息, 欲望, 心理冲突, 互换身体, 情感复杂, 自我探索, 奇幻, 现代, 都市, 冒险, 悬疑, 黑暗, 惊悚, 调教, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

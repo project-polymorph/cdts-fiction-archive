@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~(十).docx]([皮物]_橘
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇描述角色性别转换和自我认知冲突的小说内容。故事围绕一个名为恭介的少年，他在一次意外中与一个名为橘子的角色展开了合作，橘子最初似乎被恶魔占据，而恭介则试图帮助她。在谈话过程中，恭介发现自己虽然穿着恶魔的皮衣，但仍保持男性身份，并且能够读心。他和橘子讨论着如何合作以及面对的挑战，包括寻找隐藏的力量和战胜对手。文中展现了恶魔、性别转换、以及角色之间复杂的情感关系。在故事中，出现了诸多幻想元素和紧张的心理斗争，恭介对自己内心的探究和橘子之间的互动彰显了性别和身体认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~(十).docx]([皮物]_橘
 | Size            | 20436 bytes                           |
 | MD5             | 60d7857101f95d5d616043d599094a54                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 恶魔, 合作, 自我认知, 角色转换, 幻想, 心理斗争, 性别认同, 魔法, 二次元, 人物关系, 自我探索, 梦境, 猫娘, 虚拟现实, 女权, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

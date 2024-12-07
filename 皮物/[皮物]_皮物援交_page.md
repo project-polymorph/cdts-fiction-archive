@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮物援交.docx]([皮物]_皮物援交.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含了一段关于一个年轻男子面临家庭经济困境的故事。在失去父亲后，他的家庭只能依靠母亲的微薄收入生活，债务不断增加。为了减轻家庭负担，主人公在朋友的介绍下，接触到了一个大胆而危险的工作机会——援助交际。虽然本能的反应是拒绝，但在对未来的考虑下，他决定尝试这种以女高中生身份与男性进行金钱交易的工作。文件中详细叙述了主人公如何通过一场奇特的经历，穿上了特殊的“皮衣”，体验了角色性别的转变以及随之而来的身体变化与心态的挣扎。故事涉及性别认同、自我探索等复杂的心理主题，并且伴随了一些性暗示及露骨的色情内容，同时也引发了对社会与法律的讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮物援交.docx]([皮物]_皮物援交.docx)
 | Size            | 28098 bytes                           |
 | MD5             | 44a5f7676ba71e3cc2f6175b43d216bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 援助交际, 伪娘, 变身, 心理探索, 家庭困境, 金钱交易, 成人内容, 女性角色, 性别认同, 幼儿情节, 社会问题, 情感纠葛, 人际关系, 禁忌主题, 未知, 奇幻, 虚拟现实, 情感支援, 次文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

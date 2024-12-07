@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《夫尊天下__开局娶了变性妻》第三章.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是伪娘 TS 变身与跨性别相关小说的一部分，属于《夫尊天下__开局娶了变性妻》的第三章。内容围绕主角古月乾的家庭背景展开，他利用所谓的“金手指”以孝敬的名义给了父母和二妈妈红包，观察到他们的性别和心理状态，展现了家庭情感和复杂关系。故事深入探讨了主角与妻子王忠贞之间的互动，描述了主角对妻子的保护欲和复杂的心理斗争，以及在一个男权至上的世界中，男女性别角色的反转和对立。小说中包含明显的色情暗示和权力动态，例如古月乾以“惩罚”的名义让王忠贞跪下，而王忠贞在内心中虽感到厌恶，却也因为无奈选择配合。文本中体现了人际关系的微妙变化，以及对性别认同与表现的深层次探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《夫尊天下__开局娶了变性妻》第三章.doc]([�
 | Size            | 41984 bytes                           |
 | MD5             | c7988526fbcf7714b22ff9c8229e90f2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变性, 跨性别, 男性角色, 女性角色, 性别认同, 自我探索, 性别转换, 家庭关系, 权力动态, 性别角色反转, 强制与合规行为, 情感纠葛, 情欲, 梦想与现实, 奇幻小说, 两性关系, 内心冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

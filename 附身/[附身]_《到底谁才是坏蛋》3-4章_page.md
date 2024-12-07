@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《到底谁才是坏蛋》3-4章.doc]([附身]_《到底�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说围绕女主角张梦茹的校园生活展开，描绘了她在面对同班同学王安易、李宁和李洪宝的威胁时的心理状态和不安。故事中，几个男生意图侵犯张梦茹，她原本的天真和纯粹在威胁和强迫的环境中受到极大挑战。张梦茹被迫面对感官上的刺激和身体的羞辱，逐渐陷入恐慌与绝望之中，从一开始的抵抗到最后的无能为力，展现了校园暴力与性别歧视的黑暗面。情节中有药物操控和身体侵犯的复杂描写，体现出人物之间权力和性别的逆转，以及身份的异化与纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《到底谁才是坏蛋》3-4章.doc]([附身]_《到底�
 | Size            | 45568 bytes                           |
 | MD5             | 8dd6eac1ba1815d4e0303730d97a7b32                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 校园暴力, 伪娘, 变身, 强奸, 药物控制, 青春, 青涩爱情, 性别认同, 自我探索, 暗黑童话, 青春期困惑, 性别互换, 情感压迫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

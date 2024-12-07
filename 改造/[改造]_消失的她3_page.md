@@ -7,7 +7,7 @@ TXT 下载: [[改造]_消失的她3.docx]([改造]_消失的她3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于失踪女性的小说，讲述了主角在观看一场小丑女魔术表演后，其妻子莫名失踪的悬疑故事。故事的开始，主角在一个杂乱的后台寻求妻子的踪迹，却发现周围空无一人，感到不安。在尝试报警后，警方无果，主角持续无望地寻找妻子的线索。最终，他在色情网站上发现可能与妻子有关的视频，视频中有穿着与妻子相似服装的女性。文件详细描绘了小丑女面具的设计及其对穿戴者的影响，探讨了失踪、性别与自我认同等复杂主题。文中还涉及了部分限制级内容，包括性别转换和伪娘描写，并以生动的语言展现了主角的焦虑与痛苦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_消失的她3.docx]([改造]_消失的她3.docx)
 | Size            | 17846 bytes                           |
 | MD5             | 189ac8af0cf8f99325da2ec45fea8552                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 失踪, 悬疑, 小丑女, 伪娘, 魔术表演, 性转, 性别认同, 焦虑, 性别转换, 色情视频, 泰国, 社会问题, 人性探索, 自我认知, 情感冲突, 网络色情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

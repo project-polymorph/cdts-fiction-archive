@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文重发】_迷宫.docx]([皮物]_【申码文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名特工在执行一项关于迷宫装置的监视任务的小说，故事从特工在凌晨醒来开始，详细描写了他的日常准备和对目标的考量。在执行任务的过程中，他需要伪装成女性，以便成功渗透到目标内德的生活中。文件中包含了对特工的心理状态、外貌伪装的技术细节、以及对目标家庭的观察细致入微的描写，描绘了变身与伪装带来的自我认知冲突。故事中提到了一种名为“人皮衣”的伪装技术，及其如何帮助角色完成任务。特工通过高科技设备与危险的行动，展示了Incog特工组织在间谍活动中的隐秘与专业，涉及了性别认同与伪装的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文重发】_迷宫.docx]([皮物]_【申码文�
 | Size            | 53583 bytes                           |
 | MD5             | 0d5f4fac31bf60719a29dd50c628b92d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪装, 性别认同, 间谍, 科技, 自我探索, 迷宫装置, 女性形象, 人皮衣, 特工任务, 心理冲突, 隐秘行动, 潜伏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

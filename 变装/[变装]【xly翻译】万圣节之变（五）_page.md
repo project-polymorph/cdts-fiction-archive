@@ -7,7 +7,7 @@ TXT 下载: [[变装]【xly翻译】万圣节之变（五）.doc]([变装]【xly
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是伪娘 TS 变身与跨性别相关小说《万圣节之变（五）》的翻译版本。故事主要围绕主角乔丹的经历展开，他在经历高烧后苏醒，发现自己被困在医院的床上，身边有医生格林照料。乔丹初始对自己失声感到困惑，并试图通过纸笔与医生沟通。格林医生逐渐揭示了乔丹的秘密，暗示他其实是男性，并为他开了女性荷尔蒙药物，意在帮助他改善身体状况。此时，乔丹意外得知自己在昏迷期间进行了一系列的美容程序，令他感到震惊和不安。故事体现了性别认同、自我探索和身体变化的主题，多次提到乔丹与妻子安娜的关系发展，并表现了乔丹对自身身份变化的困惑与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]【xly翻译】万圣节之变（五）.doc]([变装]【xly
 | Size            | 59904 bytes                           |
 | MD5             | fe6b6b945c960a8f93e47181daf7325f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 自我认同, 医疗故事, 女性荷尔蒙, 心理治疗, 身份认同, 爱情, 失声, 医院生活, 秘密, 乔丹, 格林医生, 自我探索, 美容变身, 医院护理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

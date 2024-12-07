@@ -7,7 +7,7 @@ TXT 下载: [[附身]_冒险者与顺从的史莱姆_冒险之三_堕落的公�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以艾莱娜王国为背景的奇幻小说，讲述了奥利维亚公主被宰相盖德斯阴谋废黜后的反抗故事。故事开篇简要介绍了国王的离奇死亡以及宰相攫取政权的过程，国家陷入混乱之中。面对宰相的阴险，奥利维亚公主不甘心自己合法的王位被剥夺，决定组织反抗军进行斗争。与此同时，宰相盖德斯因形势不利，妄想着如何将奥利维亚变为自己忠实的傀儡。在一名神秘旅人凯的出现下，故事的发展带入了更为复杂的魔法元素，凯提出通过特异的力量来帮助盖德斯解决反抗军的问题。最终，故事通过奥利维亚与凯的对话，暗示着更深层的阴谋即将展开。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_冒险者与顺从的史莱姆_冒险之三_堕落的公�
 | Size            | 31697 bytes                           |
 | MD5             | 707068e6698db66485995ea9823dd4da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 魔法, 反抗军, 权力阴谋, 傀儡, 冒险, 自我认知, 奇幻, 角色变身, 史莱姆控制, 王位继承, 内战, 女主角, 政治斗争, 美少女, 女性主义, 权力游戏, 转生, 魔物, 策略对抗, 深层正义                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

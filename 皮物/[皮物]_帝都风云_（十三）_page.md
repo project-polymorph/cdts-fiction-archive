@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝都风云_（十三）.doc]([皮物]_帝都风云_（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段关于伪娘 TS 变身与跨性别相关小说的文本，主要描述了温蒂妮这个角色在皇宫中经历的一系列情感波动与身份认同的冲突。故事背景设定在一个虚构的古代帝国，温蒂妮作为王妃，承受着来自父亲被治罪的悲痛以及与皇帝之间复杂的感情纠葛。文中通过梦境描写出她对于自身身份的迷惑和逐渐接受的过程，尤其是在梦中看到与自己相似的女子与皇帝纠缠，暗示了她对自我认同的探索。随着情节的发展，温蒂妮在皇帝的安抚下慢慢恢复情绪，但又在一次次亲密接触中体验到身体和心理的矛盾与冲突。全文充满了浪漫与性欲的描写，涉及权力、性别认同与个体心理的纠结，是典型的性转及跨性别小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝都风云_（十三）.doc]([皮物]_帝都风云_（�
 | Size            | 47104 bytes                           |
 | MD5             | 57decae1b3def7c69509e9aa02a3ccad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 王妃, 帝国, 自我探索, 身份认同, 梦境, 情感纠葛, 权力关系, 皇帝, 悲痛, 亲密关系, 妥协, 爱情, 性别角色, 自我认同, 性欲, 感官体验, 挑战传统, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

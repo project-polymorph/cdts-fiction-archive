@@ -7,7 +7,7 @@ TXT 下载: [[附身]_炼器师1（书接上文，你知道的！）.docx]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《炼器师1》，内容围绕一名男子与其女性伴侣的性幻想展开，涉及灵魂附身与性别转换的主题。故事中，男子通过一件名为‘淫梦丝袜’的法器与其妻子产生了复杂的情感与欲望关联。文中描写了一些露骨的场景，例如男女在性爱过程中的细节描写，特别是对丝袜的 fetish 情节，其中夹杂了泛滥成灾的淫荡与欲望。法器的相关说明中提到，其功能包括引发穿着者的欲望、借尸还魂以及伪装等，展现了对灵魂与欲望的探讨。此外，还提及该法器的成长以及其副作用，不断引发穿着者的性欲，最终可能导致其变为无意识的活尸。文中不断地反映出男子的性癖，在与妻子互动中，他感到享受与迷恋。整体来看，该文本集中在幻想与性需求的交织，且内容明显受到限制级内容的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_炼器师1（书接上文，你知道的！）.docx]([附�
 | Size            | 19131 bytes                           |
 | MD5             | 49a76832fd5e9339026c17c2d953fdd0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 灵魂附身, 欲望诱发, 变身, 异常性行为, 魔法道具, 性别认同, 角色扮演, 灵魂交换, 色情, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

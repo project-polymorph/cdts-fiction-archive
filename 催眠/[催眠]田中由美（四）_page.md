@@ -7,7 +7,7 @@ TXT 下载: [[催眠]田中由美（四）.doc]([催眠]田中由美（四）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部跨性别主题的小说，名为《田中由美（四）》。故事围绕主人公田中由美与她的同事木村之间的复杂关系展开。在第四章中，田中由美意外得到一个洗脑仪，并在与木村的互动中揭示了角色之间的权力斗争与心理游戏。故事开篇描绘了田中由美发现包裹的惊喜，她利用洗脑仪对木村实施控制，但也发现了自己被圈套的真相。随着情节的发展，她和朋友由纪子展开了一场复仇计划，利用洗脑仪对木村进行多重神经编辑，确保其绝对服从。这部作品探讨了性别认同、权力操控、爱情与背叛等主题，其中对洗脑和控制的描绘带有强烈的心理暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]田中由美（四）.doc]([催眠]田中由美（四）.do
 | Size            | 45568 bytes                           |
 | MD5             | e0d0593db66108c4fae5a919c0b7595d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 洗脑仪, 复仇计划, 权力斗争, 心理操控, 性别认同, 伪娘, 自我探索, 操控与被操控, 情感纠葛, 二次元, 现代小说, 强奸, 调教, 伪娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

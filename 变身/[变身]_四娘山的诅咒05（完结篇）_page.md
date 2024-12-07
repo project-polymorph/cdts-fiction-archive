@@ -7,7 +7,7 @@ TXT 下载: [[变身]_四娘山的诅咒05（完结篇）.doc]([变身]_四娘�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是名为《四娘山的诅咒05（完结篇）》的小说结局篇，讲述了四位主角孙晓峰、张子睿、陈晨和姜天勇在七年的时间里经历的变化与成长。在这个故事中，他们从男人的身份逐渐转变为女人，最终以母亲和家庭主妇的身份重聚。在四娘庙的神秘力量影响下，四位主角不仅经历了性别的转换，还在情感上找到了各自的幸福。故事强调了女性角色在家庭中的价值与母性之伟大，通过对话展现了她们对于自己变化的感悟与习惯，充满了感人的情感和对生活的新理解。文中以细腻的描写传达了角色们在重新审视生活与身份时的心理变化，以及她们之间深厚的友情和共同的女性经验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_四娘山的诅咒05（完结篇）.doc]([变身]_四娘�
 | Size            | 45568 bytes                           |
 | MD5             | 7ac5f5d449d6a8e1bfe89a7402a68413                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 跨性别, 四娘神, 家庭, 母性, 姐妹情, 情感探索, 自我认知, 二次元, 强烈情感, 女性视角, 婚姻, 友情, 生活变化, 社会角色修正, 奇幻故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

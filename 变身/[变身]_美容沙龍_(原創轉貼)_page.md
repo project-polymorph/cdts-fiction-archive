@@ -7,7 +7,11 @@ TXT 下载: [[变身]_美容沙龍_(原創轉貼).docx]([变身]_美容沙龍_(�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档记录了一段与美容沙龙相关的变身体验小说，故事围绕着男主角在美容沙龙进行体态调整的经历。男主因感到自己的体重增加而决定去一家知名的美容沙龙，故事中提到了他在咨询过程中感受到的心理冲突和对女性化形象的期盼。
+
+文中开头提到主人公和朋友之间的对话，反映了对体重管理的关注，接着他在朋友的鼓励下预约了美容沙龙的疗程。故事详细描绘了他到达美容沙龙后的场景，包括櫃台小姐的接待与交流，以及关于客户定位为女性的问题，展示了在传统性别角色与新体验之间的冲突。
+
+主人公在被邀请进行试用疗程时，内心的怀疑与期待交织，最终决定体验这一客制化疗程。随着故事的发展，读者可以感受到他对新身份的探索和自我认同感的变化。整个故事结合了科技与性别身份的主题，展示了当代社会对性别流动性和个人形象的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变身]_美容沙龍_(原創轉貼).docx]([变身]_美容沙龍_(�
 | Size            | 27131 bytes                           |
 | MD5             | d52964ab728f2371ac8429162287ff56                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2015-04-07                                 |
+| Tags            | 变身, 美容沙龙, 性别转换, 自我探索, 角色认同, 体态调整, 女性化体验, 心理冲突, 跨性别, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_艳八仙系列-幸福“三人”（曹国鸠篇）第一
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于三人之间奇异性爱体验的小说，涉及性别转化、身体交换和变装等情节。故事的开头描述了角色小曹与小鸠之间诡异的气氛，小鸠主动展开了对小曹的挑逗，令小曹陷入了一种既惊讶又无法拒绝的境地。在一系列奇异的情节中，小鸠在与小曹的亲密接触中，展现出女性角色的主动，同时令人震惊的是，她将自己的“胸部”赋予了小曹，导致小曹与小鸠之间展现出一种复杂的求欢关系。随后，小国的角色也参与其中，进一步加剧了三人之间混乱而又诡异的性互动。他们的身份彼此交错，并在交往中体验了不同的性别与身份，展现出一种奇特而又扭曲的性欲探索与自我认知。这种性别与身份的模糊使得作品具有了丰富的想象空间与深刻的探讨主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_艳八仙系列-幸福“三人”（曹国鸠篇）第一
 | Size            | 22061 bytes                           |
 | MD5             | 2568a082a1f8b75e45b59429a41f58a6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身, 跨性别, 身体交换, 伪娘, 男娘, 强奸, 调教, 逆后宫, 多人, 纯爱, 淫荡, SM, 魔法, 爱情, 虚拟现实, 奇幻, 二次元, 变嫁, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

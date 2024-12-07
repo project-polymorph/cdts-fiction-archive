@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（2）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文为丽妮原创的 TG 小说《赵氏孤儿后传（2）》的部分内容，描绘了一段复杂的角色性别转换故事。故事中，小将军被困在一个妓馆百媚馆中，身处危险之中。几个女子，包括公孙二娘、青玉、红蚌和阿书等，纷纷表示愿意保护他，展现出坚强和团结的女性朋友关系。这些女子背负着不幸的命运，过去的身份和家族背景被叙述得生动而感人。她们在逆境中互相扶持，不惜付出一切为小将军保驾护航。公孙二娘提醒小将军，现状即使困难，依旧要保持清醒的头脑，寻找脱身之计。故事中还包括了诸多古代背景设定，涉及权力斗争、性别认同以及对性别转换的探讨，情节多次通过生动的对话展现出角色的内心冲突和情感变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（2）.docx]([�
 | Size            | 19847 bytes                           |
 | MD5             | c037cdf6f60896e4095db36ebd2b8a78                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 丽妮                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 变身小说, 权力斗争, 性别认同, 女性团结, 古代背景, 嫖客, 妓馆, 命运多舛, 勇气, 自我探索, 爱情, 七情六欲, 忠诚, 牺牲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

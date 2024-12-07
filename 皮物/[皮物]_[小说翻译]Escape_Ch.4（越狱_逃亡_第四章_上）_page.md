@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_[小说翻译]Escape_Ch.4（越狱_逃亡_第四章_上）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《Escape》的第四章翻译稿，作者为sammig82。内容主要讲述了主角斯科特·皮尔森作为一家航空公司CEO的个人生活与心理变化，包括他与妻子克莱尔及女儿艾米丽之间的关系。故事情节涉及性别认同、欲望及权力的主题，许多情节充满了复杂的情感交织，尤其是斯科特在面对家庭与事业时所经历的心理斗争。
+
+在这一章中，斯科特回忆起自己从小的成长经历，以及他如何在父亲去世后接管家族企业。他自信的外表和内心的挣扎相互交织，使角色更加立体。文件中包含对斯科特外貌的详细描写，比如他「与生俱来的自信让他显得更加的神采飞扬」。此外，提到的角色关系也为小说增添了许多戏剧性，包括父女之间的衔接与对美的认知。
+
+ chapter的内容包含了一些较为敏感的主题，如手淫、乱伦，和强奸的轻描淡写。所有这些元素交织在一起，为读者呈现了一个复杂的情感与道德背景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_[小说翻译]Escape_Ch.4（越狱_逃亡_第四章_上）
 | Size            | 52562 bytes                           |
 | MD5             | 4aec9b57c6866c55f7ac269f5afa09c3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | sammig82                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 家庭关系, 欲望与权力, 心理斗争, 自我探索, 跨性别, TG, 乱伦, 强奸, 性感内衣, 航空产业, 现代都市生活, 权力游戏, 情感复杂, 自信男主人公, 亲子关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《灵祭》第二季_-_番外篇二（上）.docx]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《灵祭》第二季 - 番外篇二（上）讲述了两个主要角色苏伟锋与妮卡之间发生的亲密关系。故事开始于苏伟锋进入一个房间，看到妮卡只穿着性感内衣，她轻佻地邀请苏伟锋，而两人之间的互动充满了调情和性暗示。随着情节的发展，苏伟锋帮助妮卡换衣服，并且在过程中展开了一系列性活动。文本中详细描写了两人之间的亲密行为，使用的语言直接而充满挑逗性，包括穿丝袜、使用眼罩，以及各种肢体接触，体现了角色之间的性欲与欲望。此外，故事中也涉及了角色的梦境元素，探索了关于能力和自我认知的主题。在故事的后半部分，还出现了关于角色林武的梦，暗示了更多的魔幻元素和情节发展的潜力。整体内容较为成人化，适合特定群体阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《灵祭》第二季_-_番外篇二（上）.docx]([附�
 | Size            | 25154 bytes                           |
 | MD5             | 3f0c488e84f4171768bda9bcb9e2c670                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 调教, 强奸, 淫荡, 多角恋, 女体化, 刺激, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

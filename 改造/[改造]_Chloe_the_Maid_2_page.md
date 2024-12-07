@@ -7,7 +7,7 @@ TXT 下载: [[改造]_Chloe_the_Maid_2.doc]([改造]_Chloe_the_Maid_2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一位名为克洛伊的角色，她在一个令人恐惧的环境中被迫成为女仆，经历了一系列的磨难与屈辱。故事开始时，克洛伊被阿伯克龙比小姐控制，注射药物后失去意识，醒来后发现自己在一个小房间里，身着女仆装。阿伯克龙比小姐对她施加了严厉的训练和惩罚，她必须学会女性的举止，接受屈辱和身体上的伤害。在经历了超过三个月的折磨后，克洛伊的性别认同和自我价值发生了扭曲，她对自己的仇恨与主人施加的痛苦交织在一起。随着故事的发展，她面临着更加复杂和严酷的性别角色以及对她身体的控制。文本中涉及强烈的性别转换和伪娘主题，包含大量逼迫和屈辱的情节，探讨了角色在身体和心理上的双重痛苦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_Chloe_the_Maid_2.doc]([改造]_Chloe_the_Maid_2.doc)
 | Size            | 84992 bytes                           |
 | MD5             | 6a41d7ad3f08058e956767259f71fdd5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 女仆, 伪娘, 强迫治愈, 屈辱, 痛苦, 心理冲突, 阿伯克龙比小姐, 角色训练, 性别转变, 情感操控, 虐待, 自我接纳, 自我探索, 轮奸, 女性视角, 情感操控, 强奸, SM, 成人内容, 心理剧, 辛酸历程, 极端性格对比, 侵入性体验, 身体改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

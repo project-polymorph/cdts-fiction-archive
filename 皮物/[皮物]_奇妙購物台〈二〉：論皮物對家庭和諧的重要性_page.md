@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_奇妙購物台〈二〉：論皮物對家庭和諧的重�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为多元性别主题的档案馆收集的资料之一，以《奇妙购物台》为名，探讨了名为“人皮衣”的商品对家庭和谐的影响。文中模拟了一位用户Teresa Ma的购物体验，她对购买的商品表现出高度满意，并分享了此商品如何改善她和丈夫的关系。通过“人皮衣”，她希望丈夫能够更加尊重和理解她，避免出轨的问题。文章还描绘了在公园中主妇们之间的闲聊，讨论家庭琐事以及对彼此生活的关注。随着情节的发展，文中涉及了角色马静嫻与外甥女琪琪的互动，暗示着更复杂的情感和家庭关系。此类型的商品显然在特定社群中担任了情感寄托和实际功能的角色，同时也引发了对家庭、忠诚以及性别角色的深入思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_奇妙購物台〈二〉：論皮物對家庭和諧的重�
 | Size            | 48137 bytes                           |
 | MD5             | 9d7bd7464c1d29c7682843214e7767c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 家庭和谐, 情感寄托, 性别角色, 购物体验, 男女关系, 人皮衣, 婚姻问题, 文化探讨, 中年女性心理, 情感操控, 社群动态, 奇幻, 二次元, 前卫文化, 消费心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

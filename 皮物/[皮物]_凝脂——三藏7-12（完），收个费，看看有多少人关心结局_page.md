@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_凝脂——三藏7-12（完），收个费，看看有多
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《凝脂——三藏7-12（完）》描述了一位名叫小嫻的少女与玄奘之间复杂而微妙的关系。故事开头，小嫻为玄奘端来早齋，展示出她对他的关心。随着时间的推移，玄奘坚持为族人讲经说法，尽管他声称是出于对族人的责任，但小嫻相信他是为了她而留下。文本中充满了小嫻对即将成年的恐惧以及对传统的无奈，她要面对成年礼的压力。同时，玄奘不仅教授佛法，也对小嫻进行一些更深层次的教导，使两人之间的关系逐渐变得更为亲密。巴之旅中，小嫻与玄奘一起走出村庄，看似纯粹的友情中潜藏着更深层的感情。文中描述了她对于身份、传统与个人感情的挣扎，融合了性别探索的主题。整个故事运用细腻的心理描写，展示了角色间的情感纠葛和思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_凝脂——三藏7-12（完），收个费，看看有多
 | Size            | 52414 bytes                           |
 | MD5             | 6d80ed7c0fdde4e7131298acb381e9a2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 成长, 传统与现代, 情感探索, 自我认知, 教化, 师徒关系, 友谊, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

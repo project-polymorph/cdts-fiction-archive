@@ -7,7 +7,7 @@ TXT 下载: [[改造]_黑牢【第一至二章】.doc]([改造]_黑牢【第一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《黑牢》第一至二章的内容，主要讲述了主人公王英杰因对现状的不满而签署了一份看似诱人的合同，面临着被迫进行性别转变的过程。故事起始于王英杰的自我反思，描绘了他对生活的无奈与对财富的渴望。在经历了一场非比寻常的面试后，他被一位美丽的女性张媚琪选中，并承诺支付其巨额报酬。但是，随之而来的却是对自我身份和性别认同的挑战。王英杰在遭遇各种体罚、变装和训练的过程，逐渐认识到合约背后的真实意图与即将面临的命运。这种设定深刻探讨了性别认同、社会地位及自我价值等主题，并涉及强烈的性暗示和性别角色转换等情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_黑牢【第一至二章】.doc]([改造]_黑牢【第一�
 | Size            | 55808 bytes                           |
 | MD5             | c7c282f651bed197307be009fc2c2c92                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 强制变装, 性别认同, 心理冲突, 美艳女主, 合同交易, 性暗示, 富人圈, 自我探索, 社会地位, NTR, 调教, 都市幻想, 爱情, 心理控制, 豪车, 男性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

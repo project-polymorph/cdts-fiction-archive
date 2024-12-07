@@ -7,7 +7,7 @@ TXT 下载: [[变身]_願望_(原創轉貼).docx]([变身]_願望_(原創轉貼)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于角色性别转换的短篇小说，描绘了一名司机在执行送货任务时发生意外的故事。在一次紧急配送过程中，主角骑着摩托车遭到警车追捕，最后因行李箱内的神秘包裹而被卷入了变身的过程。故事中，主角的身体发生了变化，从原本的男性身份转变为幼女形态，伴随着一系列的自我认知冲突与神秘科技的探索。通过生动的描写，展示了主人公在面对新身份时的困惑与适应，尤其是在使用新身体能力时的真实感受与思考。小说不仅涵盖了性别认同和自我探索的主题，还揭示了在性转过程中性别表现和社会期待的碰撞。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_願望_(原創轉貼).docx]([变身]_願望_(原創轉貼)
 | Size            | 26040 bytes                           |
 | MD5             | d708649c214a1caca46910afa8004110                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2014-12-23                                 |
+| Tags            | 性别转换, 变身, 幼女, 摩托车, 跨性别, 自我认知, 科技幻想, 变身小说, 短篇故事, 奇幻冒险, 自我探索, 神秘包裹, 男人化身为少女, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

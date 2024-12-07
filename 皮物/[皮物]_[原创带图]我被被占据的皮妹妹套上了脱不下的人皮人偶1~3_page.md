@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[原创带图]我被被占据的皮妹妹套上了脱不�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位角色经历变身与身份危机的故事。故事的主人公是一个年轻的男性，在某个热天回家时，意外发现他的妹妹变成了一具人皮人偶，给他带来了强烈的震撼与恐惧。随着情节的发展，主人公对妹妹遭遇的恐怖场景感到无助，并在内心挣扎着接受这一切的残酷现实。文本中描述了丰富的心理冲突和恐惧感，伴随着对身体和性别认同的深入探讨。整个故事渗透着失去与绝望的情感，主人公将通过梦境和现实的交错不断探索自我认知的边界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[原创带图]我被被占据的皮妹妹套上了脱不�
 | Size            | 90112 bytes                           |
 | MD5             | 6ddb775023274128ab2e375ac47fb475                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 莓色瑠璃子                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 恐怖, 心理戏, 家人, 变换身份, 性别认同, 自我探索, 恐惧, 成年主题, 二次元, 超自然, 纠结, 绝望, 魔法, 阴暗, 怪物, 人皮, 肢体改造, 复杂的关系, 夜marre                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_彼岸_第四回.docx]([变装]_彼岸_第四回.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一段关于吴茂才与主角之间的职场矛盾，主角在面临工作危机时向父亲寻求建议。故事展示了主角的内心冲突和对父亲期待的无奈，且描绘出在职场上遭遇打击后，主角的失落与烦躁的情绪。同时，文件中描绘了主角与同事小刘之间的微妙关系，二人之间的互动透出一丝情感的萌芽，但又因工作压力而显得尴尬。整篇故事充满了现代都市职场的现实感与情感纠葛，反映了角色在性别与身份认同方面的复杂心理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_彼岸_第四回.docx]([变装]_彼岸_第四回.docx)
 | Size            | 28670 bytes                           |
 | MD5             | 17b82af2d3e622d08a004e9c3688311d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 职场小说, 心理冲突, 父子关系, 青春成长, 情感纠葛, 变装, 校园生活, 都市爱情, 性别认同, 人际关系, 自我探索, 职场斗争, 情感迷茫, 迷茫人生, 青春幻想, 复杂人际, 暗恋, 双重身份, 职场危机, 亲情, 自我救赎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

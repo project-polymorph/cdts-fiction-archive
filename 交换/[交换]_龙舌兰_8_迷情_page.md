@@ -7,7 +7,7 @@ TXT 下载: [[交换]_龙舌兰_8_迷情.docx]([交换]_龙舌兰_8_迷情.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《龙舌兰》系列的第八章，标题为《迷情》。故事围绕主角杨立展开，他在与自己的性别认同和外表之间的冲突中，经历了一系列情感与心理的波动。在这一章节中，杨立面临着因突然性转而带来的窘境和困惑，都市生活的细节被生动描绘，如阳光透过窗户照耀在房间内的场景，以及他与周围人物的互动，呈现出一种既幽默又悖论的生活体验。杨立在焦虑中寻找和蕊可的关系，表现出对自我身份的探索以及对于他人目光的敏感。同时，文本亦包含了对群体性别认同的探讨，体现了现代社会中个体面临的困扰与挑战。整体叙事风格活泼而带有几分轻松，同时又深刻地反映出性别变化对人生的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_龙舌兰_8_迷情.docx]([交换]_龙舌兰_8_迷情.docx)
 | Size            | 30143 bytes                           |
 | MD5             | 92f22411d0c8642a452854331ff62394                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 龙舌兰, 性转, 跨性别, 情感纠葛, 都市生活, 自我探索, 性别认同, 蕊可, 男娘, 心理冲突, 情感发展, 女性视角, 幽默, 细节描绘, 角色互动, 社会观察, 二次元, 恋爱, 性别角色, 生活困境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

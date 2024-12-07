@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_家族遗书.docx]([皮物]_家族遗书.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档包含了一部关于性别转变的小说，讲述了主人公川岛步梦在其祖母的遗书指引下进行性别变换的故事。故事开头，步梦接到一封由已故的祖母留下的遗书，遗书的内容要求她在15岁时以女性身份生活，并进入女子高中。尽管最初步梦对此感到困惑，但最终她在家人的支持下接受了这一变化。在故事中，步梦尝试穿上祖母赠予的纳米机器紧身衣，借此变身为一名高中的女性学生。文中详细描绘了她在变身过程中的内心冲突、身体感受以及身份认同的转变。整体上，该作品探讨了性别认同、自我探索以及家庭期望等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_家族遗书.docx]([皮物]_家族遗书.docx)
 | Size            | 20160 bytes                           |
 | MD5             | fa34f639f6580deb3258d7c3a60bcd1b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 自我认同, 青春校园, 家族遗书, 心理冲突, 性别认同, 纳米技术, 女性视角, 成长故事, 伪娘, 男娘, 心理变换, 双性别, 社会期望, 情感探索, 虚拟现实, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

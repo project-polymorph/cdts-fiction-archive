@@ -7,7 +7,7 @@ TXT 下载: [[变性]_CFO到娇俏秘书之路.doc]([变性]_CFO到娇俏秘书�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《CFO到娇俏秘书之路》，讲述了主人公贝斯·约翰逊的内心挣扎以及她的婚姻生活。故事围绕她的丈夫史蒂夫的性别认同变化展开，引发了贝斯复杂的情感反应。史蒂夫从一名成功的首席财务官逐渐变为艾碧盖尔，一个异装的身份，让贝斯感到困惑与痛苦。她对这一变化的不安和愤怒使她开始反思他们的关系，以及她对婚姻的期望与现实之间的冲突。贝斯试图通过各种方式来维护婚姻的完整，拒绝与史蒂夫发生性关系来诱导他回心转意。然而，她的努力并没有奏效，反而加深了两人之间的隔阂。贝斯最后决心策划一个特别的方式来面对这一切，以报复和羞辱史蒂夫，这个情节揭示了她对婚姻背景下的失落感和对彼此关系的巨大失望。整部作品深入探讨了性别认同、自我认同、婚姻维系等复杂主题，并展示了角色之间微妙的情感动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_CFO到娇俏秘书之路.doc]([变性]_CFO到娇俏秘书�
 | Size            | 420352 bytes                           |
 | MD5             | 64052e073e87acd57ad5efd1cef2b592                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Marina Kelly、Monica Rose                               |
+| Region          | 未知                               |
+| Date            | 2020-08-05                                 |
+| Tags            | 异装癖, 性别认同, 婚姻危机, 自我探索, 贝斯·约翰逊, 史蒂夫, 心理斗争, 情感纠葛, 报复计划, 情感失衡, 跨性别, 女性视角, 二次元, 成人小说, 性别转换, 角色扮演, 虚拟现实, 心理治疗, 社会阶层, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

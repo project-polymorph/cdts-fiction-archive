@@ -7,7 +7,7 @@ TXT 下载: [[变身]_新入学的新女孩（下）（双结局）.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+在这部名为《新入学的新女孩（下）（双结局）》的小说中，故事主要围绕主角内森展开，他在一夜之间经历了性别转变，逐渐变成女孩布里特妮。故事的开头，内森在早晨醒来时发现身体和衣柜的变化，引出了他对性别身份的探索与冲突。内森试图逃避这一变化，给母亲撒谎声称自己生病，试图拒绝穿上女性校服去上学。随着情节的推进，内森发现自己身边的人，甚至包括家人，似乎都天真地接受了他的变化，他的母亲把他当成了女儿。而内森内心的挣扎和不安随着他在学校的经历逐渐加剧，周围同学对他的称呼和期待让他感到无处可逃，他开始怀疑自己是否会在这种情况下永远成为一个女孩。最终，内森/布里特妮必须面对自己的身份和变化，寻找解决问题的途径。整部小说探讨了性别认同、自我认知以及社会对性别的期望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_新入学的新女孩（下）（双结局）.doc]([变身
 | Size            | 73728 bytes                           |
 | MD5             | 6f7bb9f45fb5b0b0528747bf4c50f21d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我探索, 变身小说, 青春校园, 性别认同, 内心冲突, 女性化, 家庭关系, 友谊, 角色认同, 心理挣扎, 双结局, 想象力, 社会期待, 校园生活, 故事叙述                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

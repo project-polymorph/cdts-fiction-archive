@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_腐朽时代（一）.doc]([皮物]_腐朽时代（一）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《腐朽时代（一）》描绘了一个堕落与混乱的奇幻世界。故事的背景设定在一场魔界大战之后，数百年来，魔物肆虐，普通民众在绝望与恐惧中挣扎生存。没有艺术和文化，人们只能寄希望于虚无的教会预言，等候着传说中的勇者降临来拯救苍生。教会逐渐掌握了政权，却对民众施加着高税和重徭役。在这压迫的环境中，信仰成为人们唯一的寄托，纵使接受折磨，他们依旧虔诚地祈祷，期待宗教的救赎。文件中引入了几个主要角色，包括一位贫苦老人和即将上任的红衣主教莉莉·彼得森，展示了个人命运在制度下的无奈与绝望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_腐朽时代（一）.doc]([皮物]_腐朽时代（一）.
 | Size            | 55808 bytes                           |
 | MD5             | e02eb65be702350fdc52689ce699897a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 奇幻, 组织腐败, 教会, 勇者, 信仰, 魔物, 百姓生活, 性别角色, 中世纪幻想, 文明堕落, 心理斗争, 政治阴谋, 教会权力, 个人救赎, 女性主教                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

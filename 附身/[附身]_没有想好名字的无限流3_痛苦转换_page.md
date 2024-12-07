@@ -7,7 +7,9 @@ TXT 下载: [[附身]_没有想好名字的无限流3_痛苦转换.doc]([附身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及性别转换和父女关系的跨性别幻想小说，其中心角色希里爱丽丝通过某种方式占据了一具萝莉的身体，并与她的父亲展开了一场复杂而扭曲的情感与欲望的碰撞。在故事中，希里爱丽丝的意识逐渐恢复，同时承载了被占有者李寺的记忆与情感，导致她面临着身份认同与欲望冲突的痛苦。希里爱丽丝在与父亲的互动中，反复唤醒其父亲内心的父爱与愧疚，并试图操控他的情绪，营造出一种扭曲的亲密关系。
+
+该文中描绘了希里爱丽丝与她父亲的互动，情感从怀念到扭曲再到冲突，在被父爱与贪欲交织的心理下，父亲逐渐迷失在超越伦理的欲望之中。作品包含性别认同、自我探索与父女关系的探讨，结合了魔幻与恐怖元素，制造出鲜明的对比与冲突。通过对细节的描写，如“她低下头，将自己粉色的裙子掀起来，看着里面印着小熊图样的纯白小内裤，上面还有着一大滩水渍”，揭示出角色内心的挣扎与外表的无辜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_没有想好名字的无限流3_痛苦转换.doc]([附身]
 | Size            | 38912 bytes                           |
 | MD5             | b2ec2c37cb17111ed1213f4c1f3f8742                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 父女关系, 欲望冲突, 身份认同, 扭曲亲密关系, 动态情感, 二次元, 异世界, 角色扮演, 自我探索, 性心理, 魔法, 恐怖元素, 情感纠葛, 心理操控, 幻想, 小说, 强烈情绪, 占有欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

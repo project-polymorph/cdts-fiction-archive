@@ -7,7 +7,7 @@ TXT 下载: [[变装]小曦的日常小故事之三个人的蜜月_中_S02E06.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘变身相关小说系列《小曦的日常小故事之三个人的蜜月》的第六集，主要讲述了角色小曦与朋友们在酒店度假的蜜月期间发生的性转及性别认同相关的幽默与挑逗情节。故事以小曦的视角展开，描绘了她和朋友们之间的亲密互动与暧昧氛围，充满了性暗示及调情。开篇描述了小曦下车时的意识到自己所穿着裙子的尴尬，随即便展现了她与杨楷、林溪之间的互动。这种深刻的角色扮演与性别转换所引发的内心冲突，生动体现了伪娘角色在现代社会中的复杂性和趣味性。文本中含有明显的色情内容与暗示，体现了该作品围绕伪娘文化和性别认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]小曦的日常小故事之三个人的蜜月_中_S02E06.do
 | Size            | 34304 bytes                           |
 | MD5             | ded9e16f44d7cad0058b0fcdbe88dfeb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身小说, 跨性别, 自我认同, 调情, 幽默, 性暗示, 变嫁, 反转情节, 蜜月, 性别探索, 恋爱, 奇幻, 青春, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

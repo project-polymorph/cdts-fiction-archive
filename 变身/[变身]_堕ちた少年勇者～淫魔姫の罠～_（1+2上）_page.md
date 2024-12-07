@@ -7,7 +7,7 @@ TXT 下载: [[变身]_堕ちた少年勇者～淫魔姫の罠～_（1+2上）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一名少年勇者在面对魔族威胁时的冒险与斗争的故事。故事以勇者的成长和身份转变为主线，展现了他从一名普通冒险者逐渐成长为王国英雄的过程。在这段冒险旅程中，少年勇者不仅要面对强大的魔王军团，还要克服自我认知的挑战。故事设定在古拉吉恩大陆的边境小国罗塞鲁斯，而冒险的背景则涉及到勇者与魔族的复杂关系。随着情节发展，勇者与公主之间的爱情故事也逐渐展开，最终二人走向婚礼，使得整个故事充满了戏剧性。文中还提到了一些元素，例如勇者的训练、战斗、与魔族的对抗，以及即将举行的婚礼。虽然故事目前为止并没有出现H场面，但后续的发展充满了悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_堕ちた少年勇者～淫魔姫の罠～_（1+2上）.do
 | Size            | 25839 bytes                           |
 | MD5             | 2910e9810ac70654331f54d943547586                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 勇者, 魔族, 爱情, 冒险, 魔法, 公主, 妖姬, 自我探索, 战斗, 幻想, 中世纪, 异世界, 英雄成长, 剧情反转, 身份认同, 王国, 阴谋, 婚礼                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

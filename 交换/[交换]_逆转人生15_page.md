@@ -7,7 +7,7 @@ TXT 下载: [[交换]_逆转人生15.docx]([交换]_逆转人生15.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档摘录了一段关于性别转换和情感纠葛的小说情节，描绘了一位角色在与男性伴侣亲密接触时所经历的复杂心理和身体反应。故事的开头描绘了角色刚刚躺下，身体逐渐接近伴侣，紧张而又羞涩。伴侣通过言语和动作试图表达对角色的爱意，角色虽然心中不安但亦感受到身体的本能反应，引出了性别认同和自我探索的主题。随着情节的发展，角色陷入了内心的挣扎，既有对伴侣的期待又有对自己身份的困惑，最终经历了一场生理和心理的交战。在伴侣的一系列热烈追求下，角色感受到一种无法言喻的屈辱与兴奋，融合了强烈的欲望和矛盾的情感。文中涉及多个露骨的场景，反映了性别转化中的身体感受与情绪冲突，同时也提到了对未来的迷茫和对所爱之人的歉疚。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_逆转人生15.docx]([交换]_逆转人生15.docx)
 | Size            | 18058 bytes                           |
 | MD5             | 3050fb6c4a0df1012ff5c2732195f924                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 情欲, 情感纠葛, 男性伴侣, 自我认同, 心理冲突, 伪娘, 转变, 情感, 身体反应, 屈辱感, 欲望, 复杂关系, 亲密接触, 情感迷茫, 成人视频, 成人文学, 二次元故事, 文学作品, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

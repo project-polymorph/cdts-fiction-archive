@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑洞_续章七_谍中谍补坑进行时.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是关于一部涉及伪娘与跨性别主题的小说的续章，标题为《黑洞 续章七：谍中谍补坑进行时》。文章通过细致的文笔描绘了复杂的人物关系与情节发展，展示了角色之间互动的紧张与冲突。主要角色包括凌墨、末修、太子等，他们在与警察和怪物的对峙中展开了一场生与死的较量。篇中提到的组织与角色有深厚的背景联系，增添了故事的悬疑感。文中以生动的对话和心理描写来展现角色的内心挣扎，例如凌墨对自己的嗜杀冲动的反思，这些都使得故事在紧张状态中流露出深刻的人性思考。此外，文中涉及的变身情节，如角色穿戴特殊的人皮，暗示了外表与内心的矛盾与冲突。更多情节以打斗、逃避和身份探究为主线，体现了该系列作品一贯的多元性别与心理探讨主题。内容中可能涉及一些成人向情节与限制级内容，需要读者谅解与注意。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑洞_续章七_谍中谍补坑进行时.docx]([皮物]_�
 | Size            | 19389 bytes                           |
 | MD5             | 317bbc42f5206d89ec58641b224feab2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 心理斗争, 二次元, 女性视角, 怪物, 犯罪, 组织阴谋, 情感纠葛, 战斗, 悬疑, 魔法, 身份混淆, 自我探索, 血腥                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

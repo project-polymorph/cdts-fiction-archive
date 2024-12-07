@@ -7,7 +7,7 @@ TXT 下载: [[改造]_黏土和雕刻刀_其二.doc]([改造]_黏土和雕刻刀
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇涉及性别转变和身体改造主题的小说，采用轻松的笔调描绘了猎奇的情节。故事围绕一位哥哥与他的妹妹之间奇特的关系展开。哥哥在妹妹的引导下，使用雕刻刀进行身体的重新连接，经历了身体与意识的探索。虽然包含一些令人不安的内容，如切割身体的情节，但整体仍然保持在虚构的二次元背景下。在这一过程中，兄妹二人展示了对身份转换和探索的冲动，以及对彼此身体的使用与理解。该文本也涉及了如“呕吐、快感”等对身体感受的描写，使得故事充满争议。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_黏土和雕刻刀_其二.doc]([改造]_黏土和雕刻刀
 | Size            | 35840 bytes                           |
 | MD5             | 1e7c3ae3acab555cef49e89cdfe9ef25                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2015-04-10                                 |
+| Tags            | 性别认同, 自我探索, 身体改造, 伪娘, 恶搞, 强奸, 调教, 校园, 幻觉, 虚拟现实, 兄妹恋, 性转, 变嫁, 人际关系, 奇幻, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[交换]_恶魔学妹竟在我身边？（1-5章）.doc]([交换]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部包含恶魔与校园日常元素的小说，故事的主线围绕男主角黎明与他的学妹黄婉宁展开。故事开篇设定在S市的大学校园，正值新生入学期，男主角在炎热的夏季日子里遇见了可爱的学妹。学妹的形象生动且细腻，拥有白皙的皮肤和水灵灵的大眼睛，穿着清新的服装。男主历经从社交恐惧逐步与学妹建立联系的过程，以陪伴学妹熟悉校园为想法，展开了一系列轻松而甜美的互动。
+
+故事中，男主乐于助人，尽责地为学妹搬运行李，展现了其温柔体贴的一面。然而，不知不觉中，学妹的身份似乎并不简单。小说通过黎明的内心独白及与朋友的对话，暗示出学妹黄婉宁可能存在着不为人知的秘密，甚至与恶魔有关。随着情节发展，男主逐渐意识到自己与学妹之间的关系不仅仅是学长与学妹的单纯互动，故事充满甜蜜又悬疑的气氛，探讨了校园恋爱中的情感变化及身份认同。整体来说，这是一部充满二次元色彩与性别认同主题的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_恶魔学妹竟在我身边？（1-5章）.doc]([交换]_�
 | Size            | 85504 bytes                           |
 | MD5             | 3e1c63af285a8f31537efc89e7660a5f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 校园, 恋爱, 恶魔, 轻小说, 二次元, 性别认同, 黄婉宁, 黎明, 甜蜜互动, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_极光冰山_1.docx]([皮物]_极光冰山_1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一段性转与自我探索的小说的开端，故事围绕主角小王的旅程展开。小王在一个寒冷的夜晚乘坐一辆黑暗的轿车，途经雪山，观察着车窗外的极光，这是他第一次见到如此美丽的夜景，内心充满了惊奇和欣喜。故事的开头细腻地描绘了四周的景色，以及小王与司机的互动。随后，小王抵达一处旅馆，遇到了一个神秘的外国女孩，二人开始交谈，揭示了小王的南方口音与她流利的北京方言间的微妙差异。整段情节设定了探索自我与认同的主题，展现了角色在一场特殊旅程中的心理状态与外界的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_极光冰山_1.docx]([皮物]_极光冰山_1.docx)
 | Size            | 19470 bytes                           |
 | MD5             | 250173e6e492d8be62be0d47945bb0df                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 我靠这样就写了两个小时                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 极光, 旅馆, 男主角, 外国女孩, 性转小说, 爱情, 神秘, 交谈, 山区旅行, 心理冲突, 幻想, 夜景, 情感交流, 旅途经历                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

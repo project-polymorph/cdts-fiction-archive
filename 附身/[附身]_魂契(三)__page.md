@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魂契(三)_.docx]([附身]_魂契(三)_.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于性别转换的小说，融合了伪娘与跨性别的元素。故事从角色周六醒来的情景开始，描述了主角在与母亲叶筱清的身体体验之中，逐步自我认知，并感受到性别身份的变化。在一系列内心独白中，主角回忆起昨天夜里与儿子的亲密接触，伴随羞愧与欲望的交织。随着情节的发展，主角在新身体的感知中，展现出对过去行为的反思及现状的接受。这部作品利用生动的细节，表现了角色的心理冲突与自我探索，含有一些露骨的性描写与性别认知的讨论。文中提及了多种服装选择，体现了角色对自身形象重塑的渴望与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魂契(三)_.docx]([附身]_魂契(三)_.docx)
 | Size            | 25819 bytes                           |
 | MD5             | 83c1d30bff21ceeb1ddf7b84355fef08                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 自我探索, 角色认同, 母子关系, 禁忌爱, 叛逆, 性欲体验, 羞耻感, 幻想, 身体改造, 性感形象, 情感纠葛, 心理冲突, 文学作品                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

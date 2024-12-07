@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的皮物女友第二章.docx]([皮物]_我的皮物女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别中文数字档案馆中的一篇伪娘 TS 变身与跨性别相关小说，标题为《我的皮物女友第二章》。在这一章节中，主要描绘了角色李莲被迫经历了一种极具羞辱性和身体变化的情境。李莲虽然渴望探索自己在性别认同上的经验，但强烈的羞耻感和心理挣扎始终伴随着他。他的身体被限制，失去了反抗能力，随着情节的发展，他与室友刘昊之间的关系变得更加复杂。李莲在机械声音的引导下，被强迫接受各种性玩具的刺激与操控，这一过程伴随着强烈的情欲与痛苦的体验。整个过程中，情欲的争斗和心理的挣扎交织，表现出对自我认同的深层探讨。文本中不仅涉及显而易见的性描写，也透露出角色内心的恐惧与无助。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的皮物女友第二章.docx]([皮物]_我的皮物女
 | Size            | 23085 bytes                           |
 | MD5             | ecfd8cfb8ab4664a7d113c652784c566                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 情欲, 自我探索, 性别认同, 强制, 羞耻感, 男性身份, 心理挣扎, 性玩具, 情景设定, 无能为力, 身体限制, 复杂关系, 欲望与痛苦, 生理变化, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

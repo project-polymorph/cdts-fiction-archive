@@ -7,7 +7,7 @@ TXT 下载: [[改造]_十色鸾（二）孽缘.docx]([改造]_十色鸾（二）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《十色鸾（二）孽缘》，主要叙述流派武林中的激烈冲突与情感交织。故事围绕武林盟主萧凡剑展开，他在神剑山庄面临着致命的危机。在魔教强敌的侵袭下，山庄沦为一片尸横遍野的惨状，萧凡剑与妻子唐千花共同抵御敌人，展现了牺牲与忠诚的深厚情感。在对抗敌人时，萧凡剑因身负重伤，不得不面临生死抉择，依然坚持保卫妻儿。整部作品不仅描绘了武侠的江湖情感和恩怨情仇，更融合了复杂的人物关系与性别认同层面的描写。在面对强敌的压迫下，然而，萧凡剑在绝境中释放出惊人的武力，最终选择了以命相搏。而故事中又揭示了武王爷与两名美少年之间的亲密关系，夹杂着对性别与认同的探讨。通过丰富的情节与细腻的心理描写，文件呈现了一个关于勇气、背叛与炙热爱的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_十色鸾（二）孽缘.docx]([改造]_十色鸾（二）
 | Size            | 25684 bytes                           |
 | MD5             | 7601960a7938188cbe8b428614687d92                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 武侠, 爱情, 江湖, 血腥, 背叛, 忠诚, 女性视角, 自我认同, 性别冲突, 强权, 牺牲, 性感, 英雄                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

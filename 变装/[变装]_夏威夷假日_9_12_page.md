@@ -7,7 +7,7 @@ TXT 下载: [[变装]_夏威夷假日_9_12.doc]([变装]_夏威夷假日_9_12.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是来自一部名为《夏威夷假日》的跨性别主题小说的第九章，主要描述了主角唐妮与母亲在购物过程中的亲密互动。故事以唐妮作为跨性别女性的视角展开，展现了她从男性身份转变为女性身份后的日常生活，比如与母亲讨论适合教师的服装，购物时的细节交流，以及对自身形象的认同。章节中还描绘了唐妮和丈夫米奇之间的关系，揭示了她在新的女性身份下的情感和心理变化. 文中提到的场景，如“连衣裙或套裙”，“化妆品柜台”和“香水”等，反映了传统女性生活的某些侧面。唐妮与母亲的对话不仅展示了母女之间的爱与理解，同时也透露了唐妮对自己新生活的逐渐适应与探索，以及在社会角色转换中面临的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_夏威夷假日_9_12.doc]([变装]_夏威夷假日_9_12.do
 | Size            | 62464 bytes                           |
 | MD5             | 50c7bb4196644e23150092a7d8d1a0d0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Clara                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 母女关系, 购物, 女性认同, 日常生活, 情感探索, 心理讨论, 社会角色, 自我认知, 教师生活, 性别转换, 家庭支持, 时尚, 香水                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

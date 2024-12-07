@@ -7,7 +7,7 @@ TXT 下载: [[附身]_哈利波特的新生伏地魔8.docx]([附身]_哈利波�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是有关哈利波特新生伏地魔的小说章节，主要以一个过渡性情节展开。故事以哈利回到格里莫广场12号的兴奋情绪开篇，展现了他与朋友们，特别是罗恩、小天狼星的互动。文中描绘了哈利对赫敏的思念以及他与金妮之间微妙的情感变化。在众人的友好交流中，哈利内心的冲突和对抗伏地魔的决心愈加坚定。随着夜幕降临，凤凰社成员的聚会增添了氛围，但又揭示出更深的危机：阿兹卡班被攻破，摄魂怪也叛变，显示出黑暗势力的复苏与威胁。故事内容包含性别转变及身份认同的暗示，虽然并未描写详细的色情内容，但感情与心理的探讨可为后续情节埋下伏笔。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_哈利波特的新生伏地魔8.docx]([附身]_哈利波�
 | Size            | 25402 bytes                           |
 | MD5             | deab71c735c8d32a02efc47cb130aa93                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 哈利波特, 伏地魔, 性别转变, 身份认同, 幻想小说, 过渡章, 情感纠葛, 自我探索, 魔法世界, 友情, 危机预警, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

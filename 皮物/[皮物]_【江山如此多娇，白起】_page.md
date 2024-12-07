@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【江山如此多娇，白起】.doc]([皮物]_【江山�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘 TS 变身与跨性别相关的小说，故事围绕主角白起展开。白起对一本名为《四美图》的小说感到愤怒与恶心，因其中角色的性别被改造成“男不男女不女”的存在。决定续写故事，白起动笔后却被吸入小说世界。在这个奇幻的世界里，白起成为了一团白中有黑的气，意图通过掌控美娇男来提升战斗力及改变这个世界的命运。小说基于古代历史背景，描绘了主角白起在异世中施展能力，帮助年轻书生王秀改变世道的过程。故事中不仅涉及权谋斗争，更有对人性、自我认同与命运的深刻思考。小说也包含对环境的描写，如“雨夜，荒村，破庙”等意象，增添了故事的神秘感和现实感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【江山如此多娇，白起】.doc]([皮物]_【江山�
 | Size            | 43520 bytes                           |
 | MD5             | 6b06b35959ae315d10e37dc30c01e00f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 异世界, 伪娘, 女体化, 权谋, 自我认同, 古代, 奇幻, 探索, 求变, 小说续写, 励志, 情感纠葛, 历史背景, 天命, 改变命运, 美娇男                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

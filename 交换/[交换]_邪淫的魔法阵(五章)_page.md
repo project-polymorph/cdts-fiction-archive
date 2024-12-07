@@ -7,7 +7,7 @@ TXT 下载: [[交换]_邪淫的魔法阵(五章).docx]([交换]_邪淫的魔法�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了一段名为《邪淫的魔法阵》的伪娘与变身主题小说的第五章内容。故事围绕阎忆伶(赵万金)、林佳慧(刘德明)、谢雅婷和陈湘湄(陈春水)几位角色展开，探讨她们在身体转变后所经历的复杂心理变化和感官体验。有插入不少关于角色们对女性身体的迷恋与自我探索的描写。文中通过角色的对话与内心独白，展示了她们在体会女性身份后的兴奋与绝望交織，诸如「好色～好爽～～」以及「这个身体视力真好～挖～～好大的胸部～」，在展现强烈欲望的同时，也反映出她们对自己身世的无奈与挣扎。整体内容涉及成熟的性别议题以及跨性别者的自我认知，情节也可能包含一些成人向与限制级的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_邪淫的魔法阵(五章).docx]([交换]_邪淫的魔法�
 | Size            | 23007 bytes                           |
 | MD5             | ec78658ca5bfec54c8ee17c9b9d66318                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RERE                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 心理变化, 自我探索, 女性身体, 欲望, 跨性别, 二次元, 强烈欲望, 情感挣扎, 友情与支持, 病态心理, 成人内容, 魔法, 幻想文学, 情感纠结, 社会偏见, 性别角色, 青春, 灵魂转移                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

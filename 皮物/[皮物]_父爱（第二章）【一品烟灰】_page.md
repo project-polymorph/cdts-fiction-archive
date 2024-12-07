@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_父爱（第二章）【一品烟灰】.docx]([皮物]_父
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《父爱（第二章）》的小说章节，主要描绘了角色通过一件虚构的皮物获得新的身份，展开了性别认同与转变的主题。故事中，角色在感受着皮物的逼真与温度，发生了对身份与转变的内心挣扎。此男性角色希望通过变身来接近与儿子之间的情感，然而过程中产生了身份认同的混淆与痛苦。文中详细描绘了穿戴皮物后的外貌变化，以及角色在镜子前自我认知的复杂感受。这一切揭示了角色的自我探索和在性别转换过程中所经历的情感波动，同时也引发对父子关系的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_父爱（第二章）【一品烟灰】.docx]([皮物]_父
 | Size            | 20632 bytes                           |
 | MD5             | febb978f85334c83f911e651a0b55e77                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 一品烟灰                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 父爱, 跨性别, 自我探索, 虚构世界, 内心挣扎, 情感波动, 身份转变, 二次元, 奇幻, 心理冲突, 假体, 现实与虚拟, 故事中的角色发展, 现代幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

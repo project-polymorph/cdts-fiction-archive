@@ -7,7 +7,7 @@ TXT 下载: [[改造]_包厢里的公主.doc]([改造]_包厢里的公主.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说《包厢里的公主》围绕着一个成功的年轻老板韦先生的夜晚冒险展开。他因为与一位名叫王兴的合作者的不愉快而选择在高档会所放松自己。在会所中，他选择了一位长得美丽的‘公主’晓琪。故事详细描绘了韦先生如何在紧张与兴奋中体验这次人生中的第一次，同时也探讨了他内心的羞涩与渴望。在换装的过程中，韦先生以一种十分羞涩的方式表达了他对变化的无奈和惊讶，最终跃入全新的境地，感受到前所未有的体验。小说涉及性别认同、自我探索等主题，丰富的情节展示了两人之间的互动与心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_包厢里的公主.doc]([改造]_包厢里的公主.doc)
 | Size            | 37217792 bytes                           |
 | MD5             | 9dd5e2116575a3ed439fe1119bc8ca13                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 韦惠芸                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-07-26                                 |
+| Tags            | 性转, 变装, 跨性别, 伪娘, 变身, 自我探索, 夜生活, 高档会所, 第一次, 角色扮演, 性别认同, 情感矛盾, 年轻老板, 暗恋, 细腻描写, 都市情感, 感官体验, 心理冲突, 成长故事, 成人小说, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

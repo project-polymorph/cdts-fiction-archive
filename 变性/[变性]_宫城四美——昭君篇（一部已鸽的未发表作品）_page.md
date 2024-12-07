@@ -7,7 +7,9 @@ TXT 下载: [[变性]_宫城四美——昭君篇（一部已鸽的未发表作�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《宫城四美——昭君篇》是一部未发表的校园类小说，讲述了主人公王斯宇的成长故事。小说通过描绘泰康集团的创始背景，引入了王家和康家的家族故事，并慢慢聚焦于王斯宇这个角色。故事开篇设定在夏日，翰林大学的校园生活中，展现了青春活力与复杂的人际关系。
+王斯宇是一位集财富与颜值于一身的男生，出现在众人瞩目的焦点。伴随他的是女友赵紫凝，她是校园中的校花，二人的感情线索贯穿整个故事。同时，竞争对手张超的出现为王斯宇增添了挑战与无形压力，塑造了他逐渐成长的心路历程。
+随着情节的发展，王斯宇在校篮球赛中的表现让他获得了胜利与认可，但在通宵庆祝后，意外发生了。他发现自己奇异地变身为一位女性，面临性别认同与自我接受的重大考验。这一巨变带来了角色的内心挣扎与情感困惑，小说通过生动细腻的描写探讨了跨性别与性别认同等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_宫城四美——昭君篇（一部已鸽的未发表作�
 | Size            | 75264 bytes                           |
 | MD5             | c434a8e4f500124487d679e131967f9e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宫城四美                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 校园, 青春, 跨性别, 恋爱, 自我认同, 篮球赛, 复杂人际关系, 家庭背景, 性别探索, 成长经历, 性别角色, 青春期困扰                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

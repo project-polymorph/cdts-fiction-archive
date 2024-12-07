@@ -7,7 +7,7 @@ TXT 下载: [[其他]_山间_第二章_笔记.docx]([其他]_山间_第二章_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一段关于个人与家族历史的笔记，主要涉及一幅名为ZS-05的画作。这堆笔记主要由作者的父亲和祖父留下，细致地分析了宗教、感知以及日常生活中对神明的认知。笔记中提到，作者的父亲在文中阐述了对于宗教起源的思考，认为神的存在应当超越我们五感的范围。文中多次提及儿子对于父亲研究的期望，以及父亲留给他的遗嘱和家族的研究理念。文件亦隐含对未来研究的深刻反思。某些笔记的内容指向可能的神秘经历与古代迷信，展示了一种持续的探索精神与对未知的恐惧与好奇。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_山间_第二章_笔记.docx]([其他]_山间_第二章_�
 | Size            | 20766 bytes                           |
 | MD5             | f6d0a5a8a0ee4218b760da777a505451                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2015-06-02                                 |
+| Tags            | 宗教起源, 家族历史, 个人笔记, 宗教信仰, 未知的秘密, 艺术探索, 科学研究, 童年记忆, 父亲的遗嘱, 神秘体验, 文艺复兴                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

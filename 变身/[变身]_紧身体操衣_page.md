@@ -7,7 +7,7 @@ TXT 下载: [[变身]_紧身体操衣.doc]([变身]_紧身体操衣.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《紧身体操衣》，讲述了一个名为迦勒的16岁男孩的故事。他是学校里的恶霸之一，但他的真正兴趣在于观看女子运动队的训练，尤其是体操队。当他试图偷偷拍摄体操队女孩的照片时，意外地被发现，并在随后的纠纷中被女孩们施以一种超自然的变身魔法。迦勒的身体经历了剧烈的变化，从一个普通男性角色摇身一变为一个女性形象，具体描绘了他身体的每个细微变化，包括胸部的隆起和身份的转变。随着这种变化，他不得不承受女性的身体感受，以及由此带来的身份认同困惑。文中不仅详细描述了他的心理变化，还展现了他在新的身份下的生活挑战和社交互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_紧身体操衣.doc]([变身]_紧身体操衣.doc)
 | Size            | 30720 bytes                           |
 | MD5             | 08959a5c68fec199b1bf07bedeafaed7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | TGComps2                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 身份转变, 超自然, 校园, 体育, 体操, 恶霸, 女性化, 心理冲突, 自我探索, 青春期, 性别转换, 二次元小说, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

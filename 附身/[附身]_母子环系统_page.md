@@ -7,7 +7,7 @@ TXT 下载: [[附身]_母子环系统.docx]([附身]_母子环系统.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《母子环系统》讲述了一个设定在2032年的未来世界，其中科学和量子技术的快速发展使得人类可以通过特殊的装置实现思维与身体的绑定与转换。故事围绕‘母子环系统’展开，强调了这样的技术如何影响了社会，尤其是权力结构的变化。文中提到，通过佩戴思维手环，个体可以直接控制他人的思维，这引发了诸多伦理和法律的问题。为了规范这项技术的使用，政府推出了‘思维条款法’，对绑定和操作进行了严格限制。文件中提及多个人物，包括对母子环系统持怀疑态度的李木，以及通过系统获得权力的王昆，展现了不同个体对新技术的态度。故事开头描绘了李木与其母亲白素之间的复杂关系，包含了一些带有色情暗示的情节，引发了一系列关于身份、自我认同和道德的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_母子环系统.docx]([附身]_母子环系统.docx)
 | Size            | 1188810 bytes                           |
 | MD5             | ece287937421d958fee7552938486aa0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 母子环系统, 思维控制, 科技伦理, 性别认同, 权力结构, 心理冲突, 角色转换, 未来城市, 禁忌关系, 科幻小说, 量子技术, 未来社会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

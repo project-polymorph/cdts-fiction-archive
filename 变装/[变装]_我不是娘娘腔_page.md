@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我不是娘娘腔.docx]([变装]_我不是娘娘腔.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《我不是娘娘腔》，描述了一位名叫乔的男性在与妻子奥丽安娜的婚姻中所经历的情感冲突和性别认同困扰。乔一直认为自己是男性，但在婚姻中逐渐感受到被妻子主导并贬低的过程。奥丽安娜从两年前结婚后，逐渐开始掌控乔的生活，甚至在言语上不断贬低他，要求他如幼儿般对待。当他们的大学同学马克斯再次出现时，婚姻中的不平衡更加显露，奥丽安娜在与乔和马克斯之间的互动中表现出对乔的轻视和对马克斯的青睐，乔则在无力反抗的情况下，接受成为性的玩物和性奴的角色。文中刻画了复杂的关系，并探讨了性别认同、权力游戏以及自我探索的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我不是娘娘腔.docx]([变装]_我不是娘娘腔.docx)
 | Size            | 37651 bytes                           |
 | MD5             | 8b1edc58f329b357983067df76079104                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 婚姻关系, 自我探索, 性奴, 操控与被操控, 情感冲突, 男性视角, 心理虐待, 婚姻不平衡, 校园回忆, 青春爱情, 强奸幻想, 弱者与强者之关系, 焦虑与自卑, 羞耻与欲望, 幽默与讽刺                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

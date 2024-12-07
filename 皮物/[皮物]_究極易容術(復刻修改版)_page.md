@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_究極易容術(復刻修改版).docx]([皮物]_究極易�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《究極易容術(復刻修改版)》，主要讲述一个关于性别转换与超自然易容术的故事。故事的背景设定在山中，主角与其母亲在登山时迷路，寻求一个老婆婆的庇护。在婆婆的家中，整个情节发展迅速，关于性与亲属关系的禁忌情感逐渐浮现。主角在梦中经历了与母亲的性行为，后又发现母亲的真实身份被揭露为一个男性，文中细致地描写了这种角色与身份的交替。随着情节的推进，主角发现一种神秘的易容术，能够将人的外形完美替换为其他人但并不影响其人生。此文档包含明显成人内容，包括亲子关系、变身、性行为等描写，其内容适合研究性别认同与跨性别身份的学术探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_究極易容術(復刻修改版).docx]([皮物]_究極易�
 | Size            | 21076 bytes                           |
 | MD5             | 5eb4ff04789ca1c284b98e5205d21817                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 易容术, 亲子关系, 跨性别, 变身, 超自然, 性转, 禁忌恋, 心理探索, 梦境, 魔法, 角色互动, 情感冲突, 身体认同, 异世界, 身份危机                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

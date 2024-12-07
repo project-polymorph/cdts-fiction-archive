@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_狩鬼-1_[.docx]([皮物]_狩鬼-1_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于王逸和赵翔两位大学生的奇幻冒险故事，涉及到灵异与校园生活的结合。故事的主人公王逸自称为‘狩鬼者’，他拥有特殊的能力，可以通过符咒控制鬼怪，而赵翔则是他的室友和朋友，常常被王逸拉入一些不寻常的事件中。情节开篇描绘了王逸在校园的懒散生活与他的奇怪嗜好，比如作弊和偷窥，随后引入了一个灵异事件——校园里艺术大楼的一件神秘凶杀案。王逸对这一事件表现出极大的兴趣，认为这会是他展现能力的契机，同时感到一些责任。文中不仅有悬疑与神秘，还有男子间的友情展现，以及对性别认同的潜在探讨。故事情节发展迅速，引人入胜，特别是针对王逸作为‘狩鬼者’的能力和内心的变化，让人好奇他如何处理与鬼怪的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_狩鬼-1_[.docx]([皮物]_狩鬼-1_[.docx)
 | Size            | 47737 bytes                           |
 | MD5             | 2ed0c644e693ed694a42201636e0e6e0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 狩鬼者, 校园灵异, 友情, 性别认同, 灵异事件, 鬼怪, 符咒, 自我探索, 强奸, 百合, 变装, 调教, 调戏, 校园生活, 虚拟现实, 奇幻, 现代幻想, 灵体交换, 恐惧, 男子间的情谊, 奇妙冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

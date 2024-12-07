@@ -7,7 +7,7 @@ TXT 下载: [[变装]_目击者part1.2.docx]([变装]_目击者part1.2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一个名叫汤尼扎内蒂的普通男孩，短短的二十四小时内经历了不可思议的事件。他目睹了本地黑帮头子胖艾迪的残忍行径，并发现自己被卷入了一场危险的局中。为了保护自己和家人的安全，汤尼不得不选择指证胖艾迪。而后，FBI给他派了两名女探员来保护他，并对他进行了女装打扮，以使他在法律程序中顺利完成指证。文中详细描绘了汤尼在被迫女装后的感受和紧张的心理活动，以及他与FBI探员朱丽叶的互动和培训过程。汤尼在被打扮成女人的过程中，从对抗到逐渐接受自己的新身份，展现自我认知的变化。故事揭示了性别身份和自我探索的话题，融合了动作、悬疑与变装的情节，展现了一种复杂的心理与社交状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_目击者part1.2.docx]([变装]_目击者part1.2.docx)
 | Size            | 18506 bytes                           |
 | MD5             | 64d6df99eddc6fc4e813d22b069192ef                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 跨性别, 黑帮, 复仇, FBI, 家庭保护, 自我认知, 心理挣扎, 身份认同, 变身, 女装, 二次元, 科幻, 悬疑, 情感, 青春成长, 社会压力, 性别认同, 流行文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蛇身3.docx]([附身]_蛇身3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《附身_蛇身3》，内容讲述了一名叫罗蒙的角色在被一条白蛇吞噬后，经历了身体和意识的巨大变化。故事开头描述了罗蒙被白蛇吞入后，身体出现奇异变化，随着白烟的升腾，罗蒙的身体发生了不可逆转的转变。最终，罗蒙醒来后意识到自己已经失去了原来的身体，变成了一个拥有蛇牙和红色眼睛的新身份。文件中提到的变化体现了一种自我认知的冲突和转型过程。故事随后转到另一角色晓雪身上，她在做噩梦后意识到自己的生活将会因为罗蒙的变化而发生翻天覆地的改变，暗示着她将走向未知的命运。这部作品涉及复杂的身体交换与身份认同，融合了奇幻与恐怖的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蛇身3.docx]([附身]_蛇身3.docx)
 | Size            | 15291 bytes                           |
 | MD5             | c0add55da3eb64627e7262741e9122a4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 月月雪                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-05-12                                 |
+| Tags            | 性转, 变身, 跨性别, 蛇妖, 自我认同, 奇幻, 青春, 变装, 意识交流, 梦境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

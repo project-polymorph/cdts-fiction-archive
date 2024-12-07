@@ -7,7 +7,7 @@ TXT 下载: [[附身]_美女与野兽.docx]([附身]_美女与野兽.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《美女与野兽》讲述了现代都市生活中的一段情感故事，主人公乔飞是一名求职的年轻人，他在一系列面试中遭遇失败，并在逃避现实的过程中无意中卷入了一个复杂的情感纠葛。故事的背景设定在一个东南亚岛国，开头提到该地区发生了一场地震，随后聚焦于乔飞的求职经历及其与周围人物的互动。面对激烈的竞争和不公的对待，乔飞的无奈和挣扎展现了当代青年的生活压力与情感追求。在一次面试中，他偶然遇到了名为林雨妍的女性，这位女性身世显赫，随即引发了一场出乎意料的亲密接触，结果遭到了她男友王子豪的非人道报复，导致乔飞身体受到伤害。整篇文章融合了恋爱、求职困境和性别认同等元素，揭示了人物内心的自我探索与认同冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_美女与野兽.docx]([附身]_美女与野兽.docx)
 | Size            | 46582 bytes                           |
 | MD5             | ed52a1617aa3aab56dd755ac67e0b8ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 现代爱情, 青少年成长, 事业挫折, 人际关系, 职场竞争, 跨性别问题, 性别认同, 情感纠葛, 暴力打斗, 伤害                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

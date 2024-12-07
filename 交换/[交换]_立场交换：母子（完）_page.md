@@ -7,7 +7,7 @@ TXT 下载: [[交换]_立场交换：母子（完）.doc]([交换]_立场交换�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《交换：母子（完）》，内容描绘了一段涉及性别与亲属关系的情节转变，主要围绕两个角色郑浩与郑安雅之间的互动展开。在这篇小说中，角色们经历了性别身份的转换，导致两者在性欲和心理上产生了复杂的情感纠葛。文本中多次提及郑浩的身体变化，描述他对自己性别认同的困惑，郑安雅则表现出不同的性感魅力和对郑浩的强烈吸引。内容具体描绘了角色们在性的探索中的生理反应与心理斗争，通过细腻的描写展示了他们之间的情感与肉体交融。在这段故事中，包括大量露骨的情节与性描写，展现了一个关于欲望、身份认同和母子关系畸变的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_立场交换：母子（完）.doc]([交换]_立场交换�
 | Size            | 54784 bytes                           |
 | MD5             | 45e431c9b5cb038aafa20b8ffd34a82f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 母子禁忌, 欲望, 身份认同, 亲属关系, 自我探索, 跨性别, 情感纠葛, 裸体与性行为, 心理斗争, 强烈的情感联系, 母亲与儿子的角色转换, 禁忌关系, 性别认同, 雌性欲望, 生理反应, 性感魅力, 生殖与性行为, 角色内心冲突, 幻想与现实的交织                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

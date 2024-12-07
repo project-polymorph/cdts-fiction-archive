@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_安妮和奶奶_Ep.2.doc]([皮物]_安妮和奶奶_Ep.2.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关小说的第二章，主要围绕角色史蒂夫在变身为女性角色米莉后对身体形象的探讨，尤其是肥胖与女性形象的关系。故事中，史蒂夫经历了身为米莉时与朋友的距离感，以及在母亲和化妆师的操控下进行身体变化的复杂体验。母亲对她的体重和身体变化提出了各类要求，在被迫接受身体的变化时，她有些无奈和绝望，但同时也逐渐适应了新的身份。在这一过程中，围绕性别认同、自我认知等主题展开，展现了角色在变性后的心理变化和外貌困扰。该章充满了对性别和身体的深刻探讨，展示了伪娘文化以及变身小说中特有的情感与困扰。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_安妮和奶奶_Ep.2.doc]([皮物]_安妮和奶奶_Ep.2.do
 | Size            | 72192 bytes                           |
 | MD5             | f7eecb777223d7f9e42f1a01cefe97d6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 伪娘文化, 性别认同, 自我探索, 女性形象, 身体完全, 化妆技巧, 角色扮演, 肥胖与美学, 心理冲突, 母子关系, 夸张设定, 幻想文学, 二次元, 社会认同, 身体羞辱, 肥胖女性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

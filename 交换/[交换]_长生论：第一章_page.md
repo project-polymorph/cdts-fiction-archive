@@ -7,7 +7,7 @@ TXT 下载: [[交换]_长生论：第一章.docx]([交换]_长生论：第一章
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《交换：长生论》第一章，描绘了一系列离奇事件和角色的心理变化。故事开始于2026年6月6日，已故大商贾的妻子吴氏在服装商场的试衣室内突发意外，最终因缺氧窒息死亡。随着时间推移，接连发生的事件引发了对药物和实验的关注，2026年9月9日，一私人生物实验室因大火导致所有科研人员遇难，并揭露出其私法进行违禁医药的真相。同年12月12日，在另外一起与药物相关的事件中，Z市海港发生大爆炸，进一步加深了事件的复杂性。文章的后半部分转向Z市的刑警队长王嘉欣的故事，她开始调查这些死亡事件的关联，揭示了一场潜藏的阴谋。该章节内容涉及性别认同与角色互换、药物实验失败后的后果、以及探讨自我认知和外貌转变的复杂性，还包含了一些可能的性暗示和挑战传统性别观念的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_长生论：第一章.docx]([交换]_长生论：第一章
 | Size            | 21522 bytes                           |
 | MD5             | e08018526a9dcd1edb3e6aa478586e5f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2026-06-06                                 |
+| Tags            | 性转, 伪娘, 变身, 阴谋, 死亡调查, 科技实验, 女主角, 心理变化, 角色互换, 药物实验, 悬疑, 都市, 警察故事, 神秘事件, 自我探索, 性别认同, 惊悚, 犯罪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_怪梦皮缘_第七章【完结】.doc]([皮物]_怪梦皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《怪梦皮缘》第七章的文本内容，该章主要围绕角色裴可芸与沈明轩的恋爱互动以及角色内心的体验与觉醒展开。剧情中，裴可芸在音乐会上感受到与沈明轩之间的心灵沟通，她与沈明轩的肢体接触及情感交流展现了一种甜蜜而又暧昧的气氛。裴可芸在享受音乐会的同时，利用遥控器操控着跳蛋，展现出隐秘的快感与羞涩。这段双重的感官体验构成了该章的主要情节，展现了角色之间的情感升华与心理复杂度。同时，文中还涉及一些具有性暗示的情节，增添了作品的情色元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_怪梦皮缘_第七章【完结】.doc]([皮物]_怪梦皮
 | Size            | 83968 bytes                           |
 | MD5             | 903f335e009a855857b7be98c36a5d7b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 跨性别, 情感互动, 变身小说, 伪娘, 恋爱, 性别认同, 自我探索, 情色小说, 音乐会, 心理描写, 隐秘快感, 多重身份, 恶趣味, 黑丝美腿, 女体化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

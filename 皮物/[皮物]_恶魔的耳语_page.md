@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_恶魔的耳语.doc]([皮物]_恶魔的耳语.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《恶魔的耳语》描绘了一个男高中生岛野明人对同班同学永井麻美的青涩暗恋，以及一个涉及奇幻元素的变身故事。故事开始时，岛野明人满怀羞涩地打算向麻美告白，但随着情节的发展，他发现麻美的外表和她的真实身份之间存在着令他震惊的秘密。在放学后的空教室里，麻美展现出了诡异的一面，她受到一个男性的操控，并且她的外表实际上是被变成了一层“皮”的外壳。故事探讨了性别变换和身份的混淆，同时掺杂着恐怖与奇幻的元素。特别值得注意的是，麻美掀开的“皮”的概念隐喻着对性别和身份认同的深层次思考，并描绘了主人公面对变故时的困惑和悲伤。文中包含对变身、皮物和角色之间关系的深刻探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_恶魔的耳语.doc]([皮物]_恶魔的耳语.doc)
 | Size            | 83456 bytes                           |
 | MD5             | ae7f84f1f6c33159d6efa0a9f3bba539                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 奇幻, 青春恋爱, 心理恐怖, 自我认同, 角色扮演, 男孩与女孩的角色错位, 药物变身, 男女关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

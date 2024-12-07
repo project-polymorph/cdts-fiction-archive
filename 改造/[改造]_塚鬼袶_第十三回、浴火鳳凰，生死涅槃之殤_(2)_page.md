@@ -7,7 +7,7 @@ TXT 下载: [[改造]_塚鬼袶_第十三回、浴火鳳凰，生死涅槃之殤
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是伪娘 TS 变身与跨性别相关小说的第十三回，标题为《浴火凤凰，生死涅槃之殇》，探讨了凌湘在与明王之间复杂而极具冲突的关系。故事中，凌湘被置于一种强烈的感官体验中，经历了自我认知与身体的变化，感受到来自明王的强烈、压倒性的情欲。内容反复描绘了凌湘在情感与身份方面的挣扎，以及在性别与自我认同上的纠葛。文中涉及大量的虐恋与性行为细节，文字风格较为露骨，包含大量与性相关的描述和情节，显示了角色在这种动态中如何与自己的性别认同发生冲突，并且在强制的情感联系中迷失自我。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_塚鬼袶_第十三回、浴火鳳凰，生死涅槃之殤
 | Size            | 31241 bytes                           |
 | MD5             | 5ca8b674f2c4ecaea312ed1b21bcf598                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 强奸, 淫荡, 逆后宫, 情欲, 身份认同, 身体变化, 男扮女装, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

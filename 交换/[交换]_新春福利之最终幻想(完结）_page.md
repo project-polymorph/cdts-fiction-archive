@@ -7,7 +7,7 @@ TXT 下载: [[交换]_新春福利之最终幻想(完结）.doc]([交换]_新春
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《新春福利之最终幻想》，是一篇涉及性转与跨性别主题的小说。故事围绕主角杨乐康展开，他在除夕夜的一个电话中接到了女董事长苏绮岚的求助。通过苏绮岚的电话，杨乐康得知她的身体可能被控制，并在紧急情况下赶往公司解救她。随着情节的发展，杨乐康与苏绮岚的身体发生了互换，杨乐康开始经历前所未有的状态和情感的混乱。小说中包含浓厚的色情元素，详细描绘了性转、性别认同、自我探索等复杂的情感和身体体验，突显了角色对性别身份和欲望的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_新春福利之最终幻想(完结）.doc]([交换]_新春
 | Size            | 70144 bytes                           |
 | MD5             | 8ef3d3a6e1f4deb0285597af2a020bfe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 苏绮岚, 杨乐康, 性爱, 身体互换, 权力关系, 自我认知, 性欲探索, 女董事长, 求救, 新年主题, 情趣用品, 情感纠葛, 强奸幻想, 调教                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

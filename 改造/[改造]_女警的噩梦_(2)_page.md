@@ -7,7 +7,7 @@ TXT 下载: [[改造]_女警的噩梦_(2).docx]([改造]_女警的噩梦_(2).doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以变身和绑架为主题的小说，主要讲述了一名女警范欣在结束卧底任务后归家，却发现丈夫和儿子失踪。通过电话联系，她得知自己被卷入了一场复仇阴谋，其背后是她曾查办的走私大案的主谋‘冷鹰’。在暗室中，范欣不得不目睹两个她最爱的人的身体被手术改变，通过一系列极端的整形手术，她的丈夫和儿子变成了女性角色，情节充满了对人体改造和心理承受的探讨。作品结合了性别转换、自我认知的冲突，表现了在极端情况下人类对自我身份及关系的挣扎与变化。文件情节涉及一些敏感和限制级的内容，描述了极端的手术过程以及人格的转变，展示了人性在极端情境下的脆弱与复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_女警的噩梦_(2).docx]([改造]_女警的噩梦_(2).doc
 | Size            | 37204 bytes                           |
 | MD5             | 8e9474d0a798323d3b465771ca6d227f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 强制变形, 虐待幻想, 家庭绑架, 身体改造, 女性化, 权力游戏, 自我认知冲突, 心理恐惧, 伦理困境, 女性视角, 反派角色, 色情内容, 雌堕, 变嫁, 调教, 强迫, 绝望, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮针·穿上美女的皮.doc]([皮物]_皮针·穿上美
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇包含皮物类元素的小说，讲述了大学生阿进和李强的故事。故事的开头两位角色因李强家中有事而暂时分开，随后的情节发展展示了阿进的孤单以及李强的神秘归来。李强带着一些不可思议的“收获”回到校园，暗示着一个更大的秘密。故事中涉及到李强与阿珍的暧昧关系，同时也有阿进对他们之间关系的困惑。随着情节的发展，故事的核心逐渐揭开了一个令人震惊的变身剧情，李强竟然在一次与阿进的互动中揭露了自己变身为燕雅琳老师的秘密，随之带出一系列关于身份认同和性的探索。文本中包含了较为明显的性暗示与相关内容，尤其在李强和阿珍的暧昧互动以及阿进与雅琳老师的亲密关系中。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮针·穿上美女的皮.doc]([皮物]_皮针·穿上美
 | Size            | 216576 bytes                           |
 | MD5             | bb70f86ffa68a67066ae49b308f5ab63                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 皮物, 变身, 伪娘, 校园, 情感, 身份认同, 性转, 青春, 幻想, 自我探索, 强烈性暗示, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

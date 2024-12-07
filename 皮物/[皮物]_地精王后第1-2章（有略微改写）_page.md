@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_地精王后第1-2章（有略微改写）.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于海曼诺尔王国的故事，主要描绘了国王达米恩和王后安娜斯塔西娅的生活与情感，同时引入了地精这一新型类人智慧物种的威胁。故事设定在一个繁荣富饶的王国，文中详细描述了国王的威严外表与王后的绝美容颜，营造出一种浪漫而又危险的氛围。情节的展开围绕着国王对王后安全的担忧，以及关于地精的背景资料，讲述了这些生物如何对王国构成威胁并引起国王的关注。故事中王后刚刚经历了分娩，正在恢复中，国王对她的关心与爱护体现了两人之间深厚的感情。同时，地精的存在暗示了潜在的冲突，可能是后续情节展开的关键。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_地精王后第1-2章（有略微改写）.docx]([皮物]_
 | Size            | 52087 bytes                           |
 | MD5             | 13b4fd0b21de57dac69156fed48c5c01                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 海曼诺尔王国, 国王达米恩, 王后安娜斯塔西娅, 地精, 围绕安全的情感冲突, 权力与责任, 王室贵族生活, 爱情与家庭, 性别角色, 幻想小说, 魔法与冒险, 二次元文化, 英雄主义, 跨性别议题, 塑造的社会与文化, 神秘生物与人类的关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

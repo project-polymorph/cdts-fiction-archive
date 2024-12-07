@@ -7,7 +7,7 @@ TXT 下载: [[变身]_想被侵犯的勇者３．_盜賊頭目是，惡魔姦_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部围绕性转与变身主题的小说，标题为《想被侵犯的勇者３．盜賊頭目是，惡魔姦》。故事设置在一个名为剑之村的地方，讲述了一个被恶魔取代的盗贼头目的情节。盗贼头目被魔王的手下占据，进行对周围村庄年轻女性的侵犯行为。故事中描述角色在游戏世界的冒险和斗争，以及所经历的性侵犯遭遇。女性角色的消失使得故事情节紧张，随着游戏的推进，主角逐渐深入这个充满挑战与污秽的世界。在游戏设定中，恶魔并不会给人类造成永久性伤害，其行为被描绘为一种对人类的“宠爱”的扭曲表现，强调性侵犯和权力关系的主题。通过对角色内心冲突的描写，揭示了自我身份和性别认同的深层探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_想被侵犯的勇者３．_盜賊頭目是，惡魔姦_�
 | Size            | 27883 bytes                           |
 | MD5             | 65ee7c4e7199e50db4a64d52c472bb3b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 恶魔, 盗贼, 性侵犯, 性别认同, 自我探索, 虚拟现实, 强奸, 冒险, 角色扮演, H游戏, 二次元, TSF, 魔王, 女性角色, 自我认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星云_第六章.docx]([皮物]_星云_第六章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档主要包含一个长篇小说的部分内容，涉及跨性别、性转和人皮相关的故事情节。开篇描绘了一场祭祀的仪式，描述了人们因祭祀而聚集的场景，强调了生与死的循环，以及人皮作为替代品的象征意义。以及婴儿的降生与祭祀的结合，触及了心理学与人性的探讨。在接下来的对话中，角色们讨论了人皮的意义和其在古代祭祀中的作用，通过对话的方式深入探讨了恋物癖、占有欲和伪装的主题。文本中穿插了现代与古代的反思，形成了一个对于人性与性别认同的深刻探讨，文字风格多变，有着丰富的想象力和对性别、身份等问题的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星云_第六章.docx]([皮物]_星云_第六章.docx)
 | Size            | 18877 bytes                           |
 | MD5             | ab566030f245254713daaec3e99cf49d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 人皮, 祭祀, 性转, 自我认知, 心理学, 恋物癖, 占有欲, 伪装, 身份, 生死, 伦理探讨, 神秘仪式, 现代与古代交融, 文化批判, 社会现象                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

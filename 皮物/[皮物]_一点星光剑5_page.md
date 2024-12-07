@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_一点星光剑5.docx]([皮物]_一点星光剑5.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部伪娘和变身主题的小说，情节围绕一名白衣女子与追捕江洋大盗的英雄之间的互动展开。故事始于一群英雄闯入该女子的府邸，恳求她允许他们搜查以确保没有恶人藏匿。白衣女子以冷静且警惕的态度回应，暗示她家中女眷的安全需要被优先考虑。文中描绘了角色之间的紧张对话和潜在的冲突，同时暗含了种种暗示，进而引入了一名男主角裘天杰的意外境遇，他在房间内被迫穿越到一个女性角色的身份，内心的挣扎与尴尬成为故事的中心。文中包含了一些较为露骨的描写，涉及到性别转换和对女性角色形象的塑造，具有较强的幻想与色情内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_一点星光剑5.docx]([皮物]_一点星光剑5.docx)
 | Size            | 17871 bytes                           |
 | MD5             | fe6ce9bc43674e8eab64139d285791ab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 幻想, 武侠, 性转, 情色, 江湖, 冲突, 自我探索, 古代, 女权, 权力游戏, 浪漫, 戏剧性, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

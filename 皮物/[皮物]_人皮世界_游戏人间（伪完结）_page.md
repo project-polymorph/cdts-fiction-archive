@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人皮世界_游戏人间（伪完结）.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《人皮世界 游戏人间（伪完结）》是一部围绕人皮与身份转变主题的小说，讲述了主角在一个奢华的酒会上经历的一系列心理冲突与感官刺激。故事以主人公 韩雪 的视角展开，她在酒会上因遇到一个她极度恐惧的女人而奋力逃离，反映了她内心的深层恐惧和身份危机。随着情节的发展，韩雪与她的好友李菲及李菲的相亲对象王斌之间的关系逐渐明朗。王斌对她的亲密举动更是使得她内心的矛盾加深，尽管她试图掩饰自己的身份秘密，但在性别和自我认同的探索中，她渐渐揭示出更深层次的痛苦和孤独感。故事加入了多种幻想元素，如人皮、时间循环、身份转换等。通过复杂的人际关系与人性的探索，展现了主人公过去的黑暗记忆和对爱的渴望，以及面对内心阴影的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人皮世界_游戏人间（伪完结）.docx]([皮物]_�
 | Size            | 79707 bytes                           |
 | MD5             | eb4bf54cf07b0c8b502dc21c4237b8ce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人皮, 性别转换, 身份认同, 心理冲突, 幻想, 酒会, 恐惧, 女性角色, 情欲, 历史角色, 自我探索, 权力动态, 复杂关系, 变身, 性别流动, 孤独, 内心斗争, 虚构角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

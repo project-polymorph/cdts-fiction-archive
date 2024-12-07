@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_民国奇遇记（三）.doc]([皮物]_民国奇遇记（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘了叶莲娜和达娜之间复杂关系的色情小说，涉及性别转换和跨性别主题。故事开场时，叶莲娜在夜晚与女儿达娜交谈，随后情节逐步发展至涉及刀具的暴力和性行为。达娜向叶莲娜请求上厕所，并在夜色中，两人走向隐秘地点。一场突如其来的暴力事件发生，达娜被刺伤，身体化为人皮，随后叶莲娜采用达娜的人皮，并诱惑蒋兰。故事细致描绘了两位角色之间带有复杂情感的身体和心理互动，包括对身体的新认知和探索，及其在这种情景下的性行为。小说通过精细的描述展现了性感而不失情节深度的场景，涉及父女关系等禁忌话题，使整个故事充满争议与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_民国奇遇记（三）.doc]([皮物]_民国奇遇记（�
 | Size            | 52736 bytes                           |
 | MD5             | 517542861e366b2a443dd9818df30626                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 禁忌, 亲情, 强奸, 性别认同, 人皮, 欲望, 自我探索, 魔法, 奇幻, 调教, 变态, 乱伦, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

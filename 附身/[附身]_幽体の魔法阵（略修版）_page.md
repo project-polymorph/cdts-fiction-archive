@@ -7,7 +7,9 @@ TXT 下载: [[附身]_幽体の魔法阵（略修版）.docx]([附身]_幽体の
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部魔法与灵魂相关的小说，主角悠斗与他的好友博也在博也的公寓进行了一次神秘的实验，试图通过一个魔法阵将悠斗的灵魂转移。故事开篇描述了悠斗与博也多年好友关系的背景，并展示了博也对超自然现象的执着追求。随着实验的进行，悠斗的身体逐渐变得透明，最后变成了灵魂状态，体验到了不同寻常的感受。
+
+在灵魂状态下的悠斗不仅无法与博也交流，也没有实体的身体来实现某些动作，导致他在寻找自己回归的方式中感到无助。在无意中进入了他好友步美的房间后，悠斗目睹了步美洗澡的情景，开始体验灵魂状态下的特殊感官刺激。故事深入探讨了性别及身体认知的主题，并出现了不少含有性暗示的场景，进一步描绘了悠斗从灵魂状态回归身体的复杂过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_幽体の魔法阵（略修版）.docx]([附身]_幽体の
 | Size            | 24222 bytes                           |
 | MD5             | 572da4c7c5ff4823af0e56579c1e6e5b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂转移, 魔法阵, 超自然, 变身, 自我探索, 性别认同, 性转, 伪娘, 青春校园, 性暗示, 主角成长, 友情, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

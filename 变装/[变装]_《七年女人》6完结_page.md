@@ -7,7 +7,7 @@ TXT 下载: [[变装]_《七年女人》6完结.doc]([变装]_《七年女人》
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《七年女人》是一部围绕跨性别主题的小说，讲述了主人公肖恩·特纳在经历了七年的隐姓埋名生活后，揭示其真实身份的故事。故事的开头，特纳在一次手术中等待外科医生的到来，表现出他对自己外表的极大不满以及强烈的自我认同冲突。在后续的剧情中，安德鲁（特纳的配偶）回家后发现家中环境的异常，并被迫观看了一段关于他的妻子邦妮的录像带。影片中，邦妮坦承自己其实是伪装的肖恩，并揭示出过去七年的诸多秘密，包括她的真实身份和生活的痛苦，面对着这一切，安德鲁的情绪愤怒而复杂。本故事探讨了性别认同、自我探索和情感冲突等多重主题，内容具有深度与张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_《七年女人》6完结.doc]([变装]_《七年女人》
 | Size            | 47104 bytes                           |
 | MD5             | 4e7b9a74111fde46f6c6f240082b275c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 自我认同, 情感冲突, 心理创伤, 变身, 性别转变, 家庭纠纷, 秘密生活, 女性化形象, 强烈情感, 剧烈反转, 隐私与身份, 性别表现, 情节扭曲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_穿越未来.doc]([其他]_穿越未来.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部穿越未来的科幻小说，描述了一个人类因科技爆炸而急剧减少的未来世界。该故事通过多个角色的视角，介绍了不同的科技方案，涉及灵能体、机械人类以及生物科技的进步。文件中提到，穿越者将在这个科技高度发达的世界中面临选择: 是成为没有实体的灵能体，享受永生但失去物质存在，还是选择机械化的身体，或是保留人类本质的肉体。不同的方案从各自的角度展示了未来科技带来的可能性，如基于意知上传科技的永生形式，个性化和自我重塑的可能性，以及选择自由与权力的主题。最重要的是，文件中还涉及了对人性的探讨和科技对人类本质的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_穿越未来.doc]([其他]_穿越未来.doc)
 | Size            | 32256 bytes                           |
 | MD5             | 83d9049156b05e2d92a85fbe7e8a5dd2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 穿越小说, 未来科技, 灵能体, 自我认知, 性别转换, 机械进化, 生物科技, 意知上传, 人类探讨, 自由选择, 角色扮演, 虚拟现实, 多重宇宙, 个性化身体, 科技伦理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

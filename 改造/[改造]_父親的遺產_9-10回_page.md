@@ -7,7 +7,7 @@ TXT 下载: [[改造]_父親的遺產_9-10回.docx]([改造]_父親的遺產_9-1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件摘录自一部关于性别变换主题的小说，主要讲述了角色魏依凡在与同学的交流中逐渐沦陷于被侵犯与操控的窘境。角色依凡的声音发生了变化，她的心理和身体逐渐被迫适应暴力和操控的环境，展现出从最初的抵抗到最终屈服的过程。文中多次提到了依凡与一个叫周子鸿的角色的电话交流，表达了依凡在经历了强暴和脅迫之后的心理挣扎与身体的反应。整部作品有明确的成人情节，涉及性行为、性奴隶、调教等敏感主题。内容描绘细致，语言露骨，且充满色情色彩，展示了一个关于性别和权力关系的复杂故事，侧重角色内心的矛盾与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_父親的遺產_9-10回.docx]([改造]_父親的遺產_9-1
 | Size            | 47851 bytes                           |
 | MD5             | 1db9d8a2335ff8916e18e44f453008d1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 调教, 性奴隶, 强暴, 自我探索, 性别认同, 情感操控, 情感困境, 变身, 成人内容, 人际关系, 心理冲突, 女性视角, 暴力, 欲望, 沉沦, 顺从                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

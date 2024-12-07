@@ -7,7 +7,7 @@ TXT 下载: [[其他]_古董衣精品店_(七)_完_吧。.docx]([其他]_古董�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于妮可和她在一家精品店工作的经历。在某次工作间隙，妮可将手机上的照片上传至店里的电脑，正当她沉浸在对一枚胸针的好奇之中时，常客马理纳太太走近柜台并展示了和照片中同样的胸针。这枚胸针是马理纳太太的母亲遗留下来的遗物，马理纳太太相信这枚胸针带来了好运，使她的丈夫在职场上得到提升。随后，妮可也分享了自己家里的胸针故事。文档中还穿插了历史日记，记载了妮可的曾外祖母的生活点滴，从家庭的变故到职业的挫折，以及与不同男性的关系，包括悲剧与命运的交织，用现实与情感的描写交织出一个复杂的家庭史。整体来说，文档内容围绕着家庭遗物的意义展开，反映了角色对身世与身份认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_古董衣精品店_(七)_完_吧。.docx]([其他]_古董�
 | Size            | 18839 bytes                           |
 | MD5             | e79af612fe85c3c08391d336bab4cdce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 胸针, 遗物, 家庭历史, 命运, 自我探索, 性别认同, 二次元, 跨性别, 情感纠葛, 悲剧, 职业生涯, 女性角色, 历史日记, 奇幻, 惊悚, 复仇, 情感关系, 亲情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

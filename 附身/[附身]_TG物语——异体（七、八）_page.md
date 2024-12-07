@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——异体（七、八）.doc]([附身]_TG物语
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《TG物语——异体（七、八）》，是关于一名男性角色在酒吧勾引女性并发生一夜情的故事。故事以第一人称的视角，描绘了一种复杂且充满紧张的心态，男主角在与女性的亲密接触中感受到的既刺激又矛盾的情感。在与穿着暴露的女性相遇后，男主角逐渐陷入激情之中，描述了他们在酒店房间中的亲密行为。然而，在此背景下，男主角似乎在进行某种试验，且伴随了一名名为柳月文的角色，她的出现为情节增添了悬疑。最后，文章描绘了男主在经历一场剧烈的身体变化和痛苦后，不知发生了什么，留下悬念：柳月文到底对他做了什么？可见文中涉及变身、性别认同和激情的主题，充满了情感和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——异体（七、八）.doc]([附身]_TG物语
 | Size            | 37376 bytes                           |
 | MD5             | 1924f8a1b01a887d38dc51deb2150f8c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TG物语, 性转小说, 伪娘, 变身, 跨性别, 自我探索, 八号试验, 激情, 情感冲突, 女性角色, 酒店一夜, 性别认同, 柳月文, 酒吧邂逅, 试验失败, 身体变化, 未知的真相, 一夜情, 角色互动, 文学创作                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

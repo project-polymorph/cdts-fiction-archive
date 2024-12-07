@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【盗圣前传之初次交锋】上篇.docx]([变身]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位名为明月的女性角色和她的姬妾之间错综复杂关系的小说。故事发生在一个充满幻想元素的世界，明月宫主是一位权力与魅力并存的女性，她的寝宫像是后宫般奢华。在小说开头，明月正在宠幸一位女子，却不知她的姬妾其实是个外表如女子般美丽的男子。情节通过细腻的描写展现了两者间的亲昵与激情，并通过一个黑衣贼人打破了这种宁静。贼人名为白玉堂，被称为盗圣，他来到明月宫中意图偷取一件秘籍。在两人初次对话中，白玉堂被名叫小青的女子吸引，并从中得知了这本可以令女子青春永驻的秘籍藏匿处。小青向白玉堂提出条件，希望能跟随他逃出宫外，而白玉堂在困境中表现出侠义精神，决定帮助她。小说不仅涉及性别转换的主题，还探讨了忠诚与信任的复杂性，以及角色间的权力动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【盗圣前传之初次交锋】上篇.docx]([变身]_【
 | Size            | 34804 bytes                           |
 | MD5             | ec2885fea1d7b14b725b602b774cc0f8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 恋爱, 侠义, 武侠, 禁忌之恋, 冒险, 悬疑, 幻想, 女性角色, 权力关系, 盗贼, 隐秘, 青春永驻, 募子逃跑, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

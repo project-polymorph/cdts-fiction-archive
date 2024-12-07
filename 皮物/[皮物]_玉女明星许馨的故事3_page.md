@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_玉女明星许馨的故事3.docx]([皮物]_玉女明星�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了玉女明星许馨参加慈善拍卖会的故事，全文围绕许馨如何准备参加慈善事件展开。故事开头，苏青青询问许馨计划捐赠的物品，并提到许馨的名气和影响力。许馨自信地考虑捐赠自己穿过的衣物，然而有朋友劝阻她，认为这样可能给她的名声带来负面影响。随着故事的发展，许馨在拍卖会上展示了她的优雅与魅力，吸引了众多富商名流的关注。拍卖会中的物品和参与者的互动揭示了上流社会的生活和许馨内心的挣扎与野心，展示了她从一个普通人的身份转变为公众人物的过程，暗示着角色的自我认同与性别认知的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_玉女明星许馨的故事3.docx]([皮物]_玉女明星�
 | Size            | 22971 bytes                           |
 | MD5             | cf6db62b4c103e21c7c2c0cbad780354                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 慈善拍卖, 玉女明星, 粉丝文化, 社会名流, 上流社会, 自我认同, 身份转变, 女性魅力, 时尚, 心理挣扎, 角色冲突, 公益活动, 性别认同, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

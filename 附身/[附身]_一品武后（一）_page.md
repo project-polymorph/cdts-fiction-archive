@@ -7,7 +7,7 @@ TXT 下载: [[附身]_一品武后（一）.docx]([附身]_一品武后（一）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《一品武后（一）》的第一部分，主要讲述了两位男性角色之间的剑术比拼与心理斗争。故事的背景设置在一个剑术盛行的古代环境中，情节中包含了友情与背叛的复杂关系。白衣儒装男子与蓝色劲装男子在竹林中相识，一开始是愉悦的剑舞，而后蓝色劲装男子因家庭压力、妻儿被敌人挟持而不得不背叛白衣儒装男子。当他向白衣儒装男子求助时，却因内心的挣扎选择了致命的攻击，最终伤害了白衣儒装男子。这个过程展示了剑术的华丽与角色内心的冲突，尤其是蓝色劲装男子身处两难境地的深刻描绘。故事插入了对环境的细腻描述与角色情感的描绘，让人感受到那个时代的武侠风情和人物命运的无常。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_一品武后（一）.docx]([附身]_一品武后（一）
 | Size            | 41968 bytes                           |
 | MD5             | 095850c5c1fa55315e55b498d90a0ec9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 剑术, 背叛, 古代武侠, 情感冲突, 友谊, 复杂关系, 剑舞, 家庭压力, 角色内心, 自我认知, 女性视角, 变身, 跨性别, 强烈情感, 痛苦, 牺牲, 权力斗争, 历史背景, 情节发展, 人物命运                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

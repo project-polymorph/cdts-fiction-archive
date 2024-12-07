@@ -7,7 +7,7 @@ TXT 下载: [[变身]_背刺魔王的日子_第一章.doc]([变身]_背刺魔王
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一个关于异世界穿越的变身小说，讲述了主角路岚在经历车祸后意外转生到一个新世界的故事。小说开篇描述了路岚在现实生活中的加班状态，他对生活充满无奈和消极的想法，甚至开玩笑地希望能转生到异世界当勇者。随后，他遭遇了一场车祸，意识到自己即将死去。在临死前，他删掉了手机中的敏感内容，希望在死后能保留自己的形象。转世后，他因为被神召唤到异世界，并获赐可以变身成他喜欢的角色的能力，而开始了一段新的冒险旅程。小说中不仅涉及转生与冒险，还表现了主角在新环境中面对的各种挑战，以及与女神的对话，揭示出隐含的性别认同和自我身份的探索。文中穿插了一些轻松幽默的对话，增强了故事的趣味性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_背刺魔王的日子_第一章.doc]([变身]_背刺魔王
 | Size            | 56832 bytes                           |
 | MD5             | 07e636b47c0590c3a3675a42efff8488                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 异世界, 小说, 性别认同, 冒险, 伪娘, 转生, 魔王, 女神, 自我探索, 搞笑, 奇幻, 游戏因素, 角色扮演, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

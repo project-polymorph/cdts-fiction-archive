@@ -7,7 +7,7 @@ TXT 下载: [[交换]_新的人生.docx]([交换]_新的人生.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为名为《新的人生》的小说，内容围绕一位少女宁卉凌和她的搭档阿坤在偏远农村拍摄节目《协作》的经历展开。故事开始时，宁卉凌因学校与父母的安排来到一个穷困的山区，与其他孩子一起参与到节目中。尽管她成就斐然，然而乡村的环境和身边的人让她经历了一系列的自我感知和反思。阿坤是一位在村子生活的男生，他的经历与宁卉凌形成鲜明的对比，反映出城市与乡村之间的巨大差距。随着故事的发展，宁卉凌逐渐开始理解和欣赏不同的生活方式，同时两人之间的关系也在交流中慢慢升温。最终，阿坤提出了一个引人深思的问题，关于“交换”的意愿，揭开了接下来故事的转折。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_新的人生.docx]([交换]_新的人生.docx)
 | Size            | 36449 bytes                           |
 | MD5             | 7e150c6fed9321b597198fa5ed02fcd1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 男娘, 都市生活, 乡村生活, 自我探索, 青少年成长, 性别认同, 社会差异, 人际关系, 发展心理, 梦想与现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

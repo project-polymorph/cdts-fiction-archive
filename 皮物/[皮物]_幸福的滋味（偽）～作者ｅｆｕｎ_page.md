@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_幸福的滋味（偽）～作者ｅｆｕｎ.docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘变装小说，讲述了一个男性角色通过各种手段进行身体变装，伪装成女性以满足其变装欲望与奇妙幻想。故事的主线围绕角色的内心挣扎、对变装的渴望及其与他人互动的经历展开。开头，角色自我欣赏在镜子前的女性形象，描述其驾驭的引人注目的外表和身体特点，且对自我性别的认同产生复杂的情感。随着情节的发展，角色不仅使用假阳具进行自慰，还通过网络聚会与他人互动，体现出对女性角色的探索与试图融入的愿望。书中充满了对性、尴尬、欲望的绳索与冲突，突显了社会对性别认同的关注。整体内容充满成人向描写，涉及局部色情及性行为，展现了角色在外表变装与内心斗争中追求快乐与刺激的真实体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_幸福的滋味（偽）～作者ｅｆｕｎ.docx]([皮�
 | Size            | 25799 bytes                           |
 | MD5             | 951001ed24555c27f3965b85f2015ebc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | efuns                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性转, 跨性别, 自慰, 自我探索, 性幻想, 社交互动, 内心冲突, 奇幻, 成人向, 情欲, 变嫁, 百合, 同性恋, TSF, 人皮套装, 变身小说, 饮食文化, 都市生活, 探索自我, 自我认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

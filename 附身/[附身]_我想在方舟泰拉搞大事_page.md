@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我想在方舟泰拉搞大事.doc]([附身]_我想在方�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于性别转换和自我认知探索的奇幻小说片段，主要讲述了主角在名为乌萨斯的冰雪大地上穿越后所经历的奇妙遭遇。故事开始于一颗流星的坠落，主角面临身体的剧烈变化并逐渐意识到自己变成了一个球形生物。与此同时，主角还发现了周围的环境充满了血腥和冲突，剧情充满了奇幻和紧张的气氛。文字中描绘了主角与其他角色的互动，展现了对生存的挣扎及对自身身份的思考。尤其是在主角了解到自己似乎通过附身的方式进入了一个新的身体，变成了一只白色的小鹿，与过去的自我产生了剧烈的内心冲突和欲望。此文件涵盖了性别认同、自我探索和变身的多重主题，包含了一些限制级内容，适合相关研究和分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我想在方舟泰拉搞大事.doc]([附身]_我想在方�
 | Size            | 56832 bytes                           |
 | MD5             | dfb006a9ae944c139ca7472ba0f1488b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 自我认知, 奇幻, 跨性别, 血腥, 穿越, 兽耳, 身份认同, 欲望, 异世界, 冒险, 人工智能, 小说, 文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第三卷_第一回.doc]([变性]_《蒹葭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《蒹葭录》第三卷第一回讲述了主角宋沚陵与朱兴言之间的复杂关系以及他们在动荡环境中的遭遇。故事开头，宋沚陵与朱兴言在天津的云雨之后各自分道扬镳，随后宋沚陵在凤凰山幽谷中误入充满危险与机遇的境地。与此同时，朱兴言因太子之位被废而陷入困境。两人虽经历重重困难，却仍相互牵挂。宋沚陵深受情感困扰，面对朱兴言的安危，他的内心充满无奈与绝望。在故事的后半部分，谭弘、赵青鸢和其它角色的出现使故事情节更加复杂，增加了权力斗争与身份揭露的主题。文中通过人物对话展现了角色间的情感波动，以及对权力与荣誉的深刻思考，触及了生死与命运的重大问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第三卷_第一回.doc]([变性]_《蒹葭
 | Size            | 59392 bytes                           |
 | MD5             | 8b4cd8f8b0e841e96b06bd416b3e1b87                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 情感困扰, 权力斗争, 自我探索, 武侠, 二次元, 幻想文学, 情感纠葛, 历史背景, 身份认同, 情感冲突, 英雄救美, 禁忌爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

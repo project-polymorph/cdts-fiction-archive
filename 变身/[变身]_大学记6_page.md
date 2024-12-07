@@ -7,7 +7,9 @@ TXT 下载: [[变身]_大学记6.doc]([变身]_大学记6.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《大学记6》是由作者人生万花筒创作的一部跨性别主题小说，主要围绕主人公李冰的生活展开，展现了她作为一名伪娘的自我探索与成长。在故事中，李冰经过周兵的帮助，逐渐接受了自己的新身份，体验了从男性到女性的转变。情节复杂，包含了相关的性行为描写与心理冲突，探讨了性别认同、情感纠葛以及个人成长。
+
+故事一开始，李冰醒来时发现自己身受鞭打，周兵即为施暴者却表现出温柔的关怀。随着情节的推展，李冰面临身体疼痛与复杂的情感纠葛，她与周兵的关系不断升温，彼此吸引的情感在欲望与道德之间徘徊。李冰在课堂上、宿舍和培训班中的各种经历进一步加深了其身份认同与性别认同方面的探索。这种性别进行中的冲突与挣扎正是小说深刻的内涵所在。文章内容涉及色情与心理相继的表述，展现出了伪娘文化与跨性别群体的现实故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_大学记6.doc]([变身]_大学记6.doc)
 | Size            | 44032 bytes                           |
 | MD5             | 83081d647081635cab0e33e4e7b8ffd8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 人生万花筒                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 大学生活, 性别认同, 跨性别, 伪娘, 自我探索, 情感纠葛, 心理冲突, 性转, 训练, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

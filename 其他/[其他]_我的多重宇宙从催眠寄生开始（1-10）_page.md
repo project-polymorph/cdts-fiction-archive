@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我的多重宇宙从催眠寄生开始（1-10）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了一部以多重宇宙与触手寄生为主题的小说前十章。故事以男主角陈立雄为中心，他是一名普通的大学生。小说开篇描绘了一场车祸，陈立雄的女友变成了丧尸，并对他产生威胁。而与此同时，陈立雄的意识与一个多重宇宙系统相连，能够获取其他角色的能力和记忆。文中探讨了角色在生存危机中的心理状态，以及对现实世界与异世界的交织。章节内容涉及了猎奇的异世界场景，以及男主角在面对丧尸与触手怪时的求生欲。在这个过程中，男主通过激活体内的能力，进而展开一系列的奇幻冒险。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我的多重宇宙从催眠寄生开始（1-10）.docx]([�
 | Size            | 86662 bytes                           |
 | MD5             | 595257a9d9846107d021ffc68c9a2cf4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | hanluu                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 冒险, 触手, 丧尸, 猎奇, 多重宇宙, 自我认知, 奇幻, 爽文, 刺激, 心理探索, 异能, 恐怖, 科幻, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_【白羽毛】（五）.docx]([皮物]_【白羽毛】（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一篇涉及伪娘与变身主题的小说，主要描绘了角色cc在经历一段极端情节后的心理和生理反应。故事开始于cc醒来时的不安，发现自己处于一片狼藉的广场上，经历了痛苦且复杂的性侵经历。尽管屈辱，她却内心挣扎于快感和痛苦之间，展现了角色对自我身份的模糊与认同。cc的经历充满了身体隐喻与性别探讨，对于快感和肉体的掌控有着奇怪的愉悦感，表明对自我认知的抵触与认同。此外，文中还采用了直白的色情描述，涉及强奸和愉悦混合的复杂情绪。
+
+故事展现了在极端环境下角色的自我探索过程与心理变化，包括被侵犯后的反应和心理机制。其中，cc对于自身快感与身份的理解复杂交织，使整个故事具有一定的心理深度与戏剧性。最后，角色kk计划复仇以恢复cc的名誉，构建了接下来的情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_【白羽毛】（五）.docx]([皮物]_【白羽毛】（
 | Size            | 22826 bytes                           |
 | MD5             | bac0f2fa6778d986feb58ece7a66c9e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 心理描写, 强奸, 性快感, 自我认同, 虐待与快感, 复仇, 角色扮演, 情感冲突, 身体认知, 二次元, 极端情节, 内心冲突, 复杂情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

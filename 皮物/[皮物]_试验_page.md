@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_试验.docx]([皮物]_试验.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《试验》描述了一个涉及性别转变和人工合成皮肤的实验情节。故事围绕一名被检体的女性展开，她被固定在试验台上，身体全身覆盖着连接着电线的纳米生物合成皮肤，面临着极大的身体和心理痛苦。文本中描述了她在实验中被迫经历的各种痛苦状况和心理挣扎，包括渴望解除束缚和对身体感觉的敏感反应。实验旨在研究和模拟女性的生理特征，包括制造拟似女性性器官和乳房，并探索如何通过刺激感知来实现自我认知的转变。整个实验过程充满了对身体感知和性别认同的探讨，同时伴随大量的生理和心理冲突。文中提及“完全失去了女性的模样，只剩下一个疲劳困倦还全身发痒的年轻男人”的结尾，突显了性别转变的虚幻和复杂性。此外，还有许多关于实验和身体感知之间的细则描述，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_试验.docx]([皮物]_试验.docx)
 | Size            | 17582 bytes                           |
 | MD5             | ec3043ea6b09ece76d2b4f38a9a98975                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 实验, 生物技术, 纳米科技, 人工皮肤, 性别认同, 身体探索, 拟似性器官, 自我认知, 痛苦体验, 心理冲突, 感官刺激, 科技幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

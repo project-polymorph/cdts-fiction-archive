@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【無名】君のことが大好きだから.doc]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是关于一个人在社会层面上试图完全“代替”另一个人的探索，涉及到穿上他人皮肤的奇幻情节。故事的开头描绘了一名女孩被困在小巷中，被一个男性角色追逐，男人意图将她“穿上”。在强烈的恐惧与不安中，女孩的意识逐渐模糊，随着男人的动作，她的身体也发生了变化，变得宛如玩偶一般失去控制。接后是对这一转变过程的细致描写，艺术地展现了“皮”这一主题，并将角色的内心感受和恐惧表现得淋漓尽致。故事中增添了姐妹之间的对话与情感，姊妹俩的生活环境和相互支持形成鲜明的对比，而这些也在后续的情节中加深了故事的层次和复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【無名】君のことが大好きだから.doc]([皮物
 | Size            | 47616 bytes                           |
 | MD5             | 8e426f7fd81f56a09c6a38a0b44c01e8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 皮物, 心理探讨, 恐惧, 强奸, 女性视角, 家庭关系, 奇幻, 自我探索, 伪娘, 男娘, 调教, 都市, 爱情, 惊悚, 黑暗幻想, 二次元, 诡异幽默, 身份认同, 性交互                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

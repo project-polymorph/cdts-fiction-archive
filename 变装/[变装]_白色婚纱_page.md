@@ -7,7 +7,7 @@ TXT 下载: [[变装]_白色婚纱.doc]([变装]_白色婚纱.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《白色婚纱》是一部关于性别转变和跨性别体验的小说，由didiwillis创作，翻译为中文后由露娜·埃葵斯进行传播。故事围绕主人公的婚礼准备展开，主人公对未婚妻婚纱的好奇以及内心潜藏的性别认同和转换的渴望，逐步揭示了他对女性服装的欣赏和尝试。小说深入描绘了主人公在婚礼前夕，尝试穿上女性内衣和吊袜带的心理变化与身体体验，展现了内心的矛盾与兴奋。主人公在准备婚礼的过程中，经历了剃除腿毛、穿着吊袜带和胸罩等一系列细腻的描写，最终以新娘的形象出现在婚礼上，充满了对性别角色的挑战和对自我认同的探索。故事了一种细腻而复杂的情感，交织着爱与性别认同的主题，给予读者一个在婚礼仪式中独特而私密的视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_白色婚纱.doc]([变装]_白色婚纱.doc)
 | Size            | 32768 bytes                           |
 | MD5             | c5a629627dabb6af0e781d3ab955e917                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | didiwillis                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 婚礼, 伪娘, 变装, 内衣, 爱情, 自我认同, 婚纱, 情感探索, 性别认同, 二次元, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

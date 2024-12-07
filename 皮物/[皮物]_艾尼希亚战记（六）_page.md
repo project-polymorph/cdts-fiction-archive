@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_艾尼希亚战记（六）.doc]([皮物]_艾尼希亚战�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说的档案之一，主要讲述了一个名叫拉泽尔的宰相与米安、塔蕾莎等角色的互动。故事设定在一个充满魔法与权力斗争的异世界中，拉泽尔在自己的小花园内与身着华丽礼服的米安进行了一段对话，米安向拉泽尔寻求帮助以获得骑兵亲卫队队长的职务。整个情节包含了权力、魅力与性别角色的复杂交织，尤其是米安身为女性武官，却以其丰胸与妩媚的形象吸引了拉泽尔的注意。同时，塔蕾莎虽然是拉泽尔的妻子，却也感受到对自己在这个世界中的地位与年龄的焦虑。随着故事的发展，塔蕾莎在侍女的建议下前去寻找一位流浪占卜巫师，这一情节反映了她内心的彷徨与不安。整部作品在描绘人物情感与权力动态的同时，也隐含了性别认同与身体转换的主题。内容中包含了许多关于角色的内心独白与复杂的情感纠葛，体现了丰富的二次元文化特色。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_艾尼希亚战记（六）.doc]([皮物]_艾尼希亚战�
 | Size            | 42496 bytes                           |
 | MD5             | 2781ef44971a9e2773921fbc03ba0270                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 权力斗争, 角色互动, 魔法, 异世界, 情感纠葛, 女权, 性别认同, 冒险, 奇幻, 女性魅力, 吸引, 宫廷, 占卜                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_特殊性癖满足服务公司.doc]([附身]_特殊性癖�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于李文超与他女友田雯静之间关系的变迁小说，围绕着性转与附身的主题展开。故事的开头描绘了李文超内心对女友的保守形象的无奈与不满，结合他潜在的SM倾向。在一次偶然中，他发现了一个专门满足各种性幻想的服务公司。在怀着试探的心态和对自己欲望的挣扎中，李文超最终决定下单，希望能够体验到他一直幻想的场景。在周五晚上，李文超如约前往女友家中，却惊讶地发现田雯静的变化，她穿着性感服装，与以往的形象形成强烈对比。这个角色的转变实际上是因为李文超的性幻想被实现，田雯静在他下单后被附身，变得陌生与魅惑。故事探讨了对于性幻想的满足带来的心理变化与冲突，特定情境中生成的欲望及其对人际关系的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_特殊性癖满足服务公司.doc]([附身]_特殊性癖�
 | Size            | 45568 bytes                           |
 | MD5             | 36c1ee939280a2b22efe736d288ad9b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, SM, 伪娘, 男娘, 强烈性反差, 性别认同, 心理探索, 逃避现实, 校园恋爱, 二次元, 幻想体验, 情感纠葛, 角色扮演, 变态心理, 爱情与欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

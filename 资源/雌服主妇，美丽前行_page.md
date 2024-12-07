@@ -7,7 +7,7 @@ TXT 下载: [雌服主妇，美丽前行.doc](雌服主妇，美丽前行.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《雌服主妇，美丽前行》是由作者Lisa Lovelace创作的一部关于性别认同与生活方式转变的小说。故事围绕主角亚崔迪展开，他在经历了一次严重的心脏病发作后，面临着生活方式的重大转变。故事中，亚崔迪不仅要处理健康问题，还需要考虑辞去高压工作的可能性。在与医生的对话中，他了解到自己需要完全远离工作，并开始学习如何承担原本由妻子埃琳娜承担的家庭事务。尽管起初感觉这些家务工作有些不合适，但亚崔迪逐渐意识到转变的必要性，并开始接受新身份的挑战。小说探讨了围裙代表的传统性别角色，以及在现代夫妻关系中，工作与家庭责任如何重新定义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [雌服主妇，美丽前行.doc](雌服主妇，美丽前行.doc)
 | Size            | 126976 bytes                           |
 | MD5             | 6473379f3456c03c99c7b7c5a465759b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lisa Lovelace                               |
+| Region          | 未知                               |
+| Date            | 2021-09-02                                 |
+| Tags            | 跨性别, 性别认同, 家庭角色, 健康生活, 性转, 女性视角, 家务分配, 压力管理, 情感关系, 自我探索, 生活转变, 伪娘, 男娘, 变嫁, 纯爱, 现代都市, 伦理冲突, 自我认知, 互动关系, 职业与家庭, 情感支持                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

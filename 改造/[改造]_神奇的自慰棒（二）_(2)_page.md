@@ -7,7 +7,7 @@ TXT 下载: [[改造]_神奇的自慰棒（二）_(2).docx]([改造]_神奇的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换与角色变身的小说片段，描绘了两个角色马特和艾伦在接受艾米丽的魔法操控下，经历生理性别与自我认知的深刻转变。在艾米丽的操控下，马特被变成了一名“娘炮”，失去了生理上的男性特征，并陷入强烈的欲望中。同时，艾伦也在不知情的情况下被卷入这一变化之中。作品同时探讨了性别身份、欲望与个人认同的复杂关系，并通过刺激的情节展示了阴蒂与阳具之间的欲望张力。文本使用了大量露骨的语言与描写，以突出角色内心变化与对欲望的追寻。对于性别和角色认同的探讨，结合了可能的心理变化，展示了对性别流动性的思考。全篇文字充满了色情暗示与生理描写，意在引发对性别认同与社会性别角色的讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_神奇的自慰棒（二）_(2).docx]([改造]_神奇的�
 | Size            | 20306 bytes                           |
 | MD5             | aab391cd08ef6597d38931dfe26e9ef8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 自我认同, 禁忌, 强烈欲望, 艾米丽, 马特, 艾伦, 两性关系, 魔法设定, 幻想, 角色扮演, 自我探索, 心理变化, 年龄差, 性别流动, 淫荡, 姐姐弟弟, 女仆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

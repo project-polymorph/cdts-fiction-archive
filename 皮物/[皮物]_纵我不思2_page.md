@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_纵我不思2.doc]([皮物]_纵我不思2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇以伪娘与变身为主题的小说，故事围绕主角冯麟浩的奇幻经历展开。他突然在一个黑暗空间中醒来，发现自己的灵魂变成了同学郑韵曦的形态，意识到自己与郑韵曦的灵魂产生了某种联系。在与郑韵曦的对话中，冯麟浩发现郑韵曦像一具人偶般顺从，称呼他为“主人”。整个情节充满了对身份、灵魂和性别认知的探讨，以及在这个过程中产生的困惑和恐惧。文本中包含了一些限制级的内容，涉及性别转变、灵魂出窍和控制等元素，描绘了主角在探索自我与他人之间关系的复杂心理状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_纵我不思2.doc]([皮物]_纵我不思2.doc)
 | Size            | 54784 bytes                           |
 | MD5             | 8543d738dde530fa70c2a2f160d17cb1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 灵魂出窍, 身体交换, 自我认知, 主从关系, 奇幻, 青春校园, 情感探索, 性别认同, 触碰, 控制, 经典二次元, 变身, 灵魂联系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_蕾蕾旧作《毕业——第一季》上半部.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《毕业——第一季》上半部，讲述了来自普通城市的学生林倪与其梦想的大学生活和恋爱的故事。故事以林倪为主角，描述了她与至爱伴侣的校园生活、毕业前的紧张准备以及对未来的憧憬。文中表达了林倪对音乐的热爱、对未来的期待，以及与恋人之间甜蜜的互动与情感交流。在即将毕业的时刻，林倪与恋人合作准备毕业演出，反映了年轻人的梦想和情感。然而，故事中也融入了大量情感与性相关的描写，展现了角色之间的亲密关系与心理挣扎。对信任、性别认知和恋爱的探索都在文中得到了体现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_蕾蕾旧作《毕业——第一季》上半部.docx]([�
 | Size            | 48149 bytes                           |
 | MD5             | afe6c478086cc958322b380bf1fab7a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 青春校园, 恋爱, 毕业, 自我探索, 甜蜜互动, 情感, 心理挣扎, 伪娘, 男娘, 强烈反应, 校园音乐, 只有你能解救, 情感交流, 未来憧憬                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

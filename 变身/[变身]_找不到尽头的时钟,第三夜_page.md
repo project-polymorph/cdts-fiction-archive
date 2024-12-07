@@ -7,7 +7,7 @@ TXT 下载: [[变身]_找不到尽头的时钟,第三夜.doc]([变身]_找不到
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《找不到尽头的时钟，第三夜》描绘了角色薇尔娜在一个因身体转换而崩塌的世界中的内心挣扎。故事开头，薇尔娜意识到自己已完全换了身体，并感受到前所未有的迷茫与无奈。随着情节的发展，薇尔娜被迫参加社交舞会，在舞池中，她的身体敏感地遭受到周围绅士的骚扰，内心充满了愤怒与痛苦。舞步虽然轻盈，却隐藏着巨大的压力，她不断努力逃避即将来临的厄运，却又一次次被迫舞动，直到体力不支。通过细腻的情感描写，本作品深刻探讨了性别认同与社会期望的冲突，并暗示了在这种极端环境下人物的自我探索与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_找不到尽头的时钟,第三夜.doc]([变身]_找不到
 | Size            | 40960 bytes                           |
 | MD5             | 013de9dafb325422adb92426f2be89d9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 舞会, 自我探索, 心理描写, 内心挣扎, 社交舞, 伪娘, 情感冲突, 角色变化, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

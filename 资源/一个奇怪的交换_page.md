@@ -7,7 +7,7 @@ TXT 下载: [一个奇怪的交换.doc](一个奇怪的交换.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《一个奇怪的交换》是一篇涉及性别转换与角色交换的小说摘录，讲述了男主角“手过留白”在一次意外中与一只母柴犬草莓发生了灵魂交换的故事。故事开头描述了“手过留白”被绑在椅子上，遭遇其死对头深港爱猫少女c的调戏与绑架。在无法动弹的情况下，他的灵魂被强行从身体中抽离，并逐渐进入到母柴犬草莓的身体里。随着情节的发展，男主角意识到自己正在变成一只狗，同时面临着身体与精神的极大冲突与挣扎。在一些挑衅和性暗示的对话中，深港爱猫少女c对这种变化表现出一种享受，故事涵盖了性别认同、自我探索和角色认知的主题。本文插入了一些限制级内容，适合成年人阅读，并强调了变身后两种身份的心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [一个奇怪的交换.doc](一个奇怪的交换.doc)
 | Size            | 28672 bytes                           |
 | MD5             | a8e2c39db4384df05bb8ae0c9e511b94                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 灵魂交换, 跨性别, 变身, 伪娘, 动物拟人, 戏谑, 强奸, 调教, 变嫁, 性暗示, 同性恋, 异种恋, 狗狗交配, 精神崩溃, 情色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

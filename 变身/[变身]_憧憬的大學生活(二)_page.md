@@ -7,7 +7,7 @@ TXT 下载: [[变身]_憧憬的大學生活(二).doc]([变身]_憧憬的大學�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《憧憬的大學生活(二)》为一部关于性别转换与自我认同的小说，主要描绘了角色泰咪在经历巨大的性别变化后，面对新身份带来的种种挑战与心理冲突。故事开始时，泰咪与男友泰纳一同离开豪华酒店，面对着她改变后的社会身份，内心充满了不安与焦虑。泰咪在心理上无法适应她的新生活，感受到来自社交圈的新压力，她的社交媒体上瞬间增加了大量追随者，但她却怀念曾经的自己。角色展现了对新身份的挣扎和对过去的眷恋，包含了强烈的情感冲突。随着故事的发展，泰咪在舞蹈室中逐渐融入周围的伙伴，虽然她的身体在舞蹈中表现出色，但内心仍感到挣扎。小说涉及到性别认同、自我探索和社会接纳等主题，刻画了角色在新生活中的痛苦与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_憧憬的大學生活(二).doc]([变身]_憧憬的大學�
 | Size            | 44032 bytes                           |
 | MD5             | af10fbed79bb2a7949ee18e201f7c667                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 跨性别, 社会适应, 自我探索, 男娘, 舞蹈, 青春故事, 情感冲突, 社交媒体, 青春成长, 女性化, 心理挣扎, 新生活挑战, 恋爱关系, 角色发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

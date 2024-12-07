@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_一点星光剑3.docx]([皮物]_一点星光剑3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《一点星光剑3》是一个包含性转、变嫁以及奇幻武侠元素的小说。故事围绕主角裘天杰展开，他在面临生死危机时意外发现自己力量的转变和性别的潜在变化。文章开头以惊悚的场景引入，裘天杰被四个老者围攻，并遭遇毒针的攻击，经过一番激烈的挣扎和逃跑，最终晕倒后被神秘女子救起。细节描写生动，展现出裘天杰面临的内心冲突与外在挑战，同时文章中涉及衣物解开、性别模糊和自我认同等主题，结合了一些禁忌和挑逗的元素，展示了色情内容和强烈的情感冲突。总体上是一个以武侠为背景的变身奇幻故事，结合了性别身份的探索和人性的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_一点星光剑3.docx]([皮物]_一点星光剑3.docx)
 | Size            | 19984 bytes                           |
 | MD5             | 962178b4939bb346acf629206970b60b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变嫁, 奇幻, 武侠, 跨性别, 自我认同, 情感冲突, 冒险, 解毒, 性感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

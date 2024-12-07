@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_特工的一天.doc]([皮物]_特工的一天.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘特工K的小说，描绘了K在衔尾蛇这个秘密组织中作为一级特工的生活与任务。故事开头描述了K在基地内面临的紧张工作环境，背景是机器的嗡鸣声和任务的压力。K是一名可以更换性别和身份的特工，文中详细描写了K如何在不同角色间转换，从而适应相应的任务，甚至涉及到与目标角色的性行为实践。随着情节发展，K逐渐展现出对身份和自我认知的矛盾心理，文件展示了K如何通过“玫瑰试炼”成为优秀的特工，同时经验与训练成为其生活的常态。文中的性描写色情而复杂，涉及了许多与性别认同、角色扮演相关的题材，挑战了传统的性别界限与社会身份。K与机器的互动，强烈的性别转换及情感的描述交织出一幅当代性别议题和自我探索的复杂画面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_特工的一天.doc]([皮物]_特工的一天.doc)
 | Size            | 43520 bytes                           |
 | MD5             | 7d2aa4b1edf9c38efe62f337917dc49c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 特工, 变身, 性别认同, 跨性别, 性转, 二次元, 自我探索, 玫瑰试炼, 成人内容, 心理冲突, 身份危机, 秘密组织, 角色扮演, 性行为, 任务执行                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

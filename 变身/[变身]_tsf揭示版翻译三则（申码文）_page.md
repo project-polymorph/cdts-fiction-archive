@@ -7,7 +7,7 @@ TXT 下载: [[变身]_tsf揭示版翻译三则（申码文）.doc]([变身]_tsf�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了三则有关变身与跨性别主题的短篇小说。这些小说探讨了角色从男性身份向女性身份的转变，以及在这一过程中的心理变化和性体验。第一则故事描绘了一个男性角色在梦中遇到一个金发女性，这位女性诱导他进入一个失去男性身份的幻境。在这个过程中，他体验到了身体的变化以及与女性特征相伴随的情感与欲望的冲突。第二则故事描绘了一个变成女性后在日常生活中对待性骚扰的态度转变，表现出对自身性别认同的困惑与探索，甚至在没有骚扰的情况下，她感到内心的不满足，发展出一种自慰成瘾的心理。第三则故事则短暂描绘了一位女性角色，解开自己的罩衫，展现出女性身体的柔 和与魅力，并暗示了与情欲和自我认同相关的主题。整体而言，文档提供了对性别认同、心理冲突、性欲及其表达的深刻探讨，含有多种限制级内容，适合于对跨性别和变身文化进行深入研究的学者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_tsf揭示版翻译三则（申码文）.doc]([变身]_tsf�
 | Size            | 48640 bytes                           |
 | MD5             | f13aadd51087f927e49174406c693cb3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身小说, 跨性别, 幻想主题, 自我探索, 性欲心理, 二次元文化, 成年内容, 女性化, 情欲冲突, 社会认同, 性骚扰, 自慰行为, 心理困惑, 梦境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

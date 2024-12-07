@@ -7,7 +7,7 @@ TXT 下载: [[交换]_康复设施.docx]([交换]_康复设施.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《交换_康复设施》，主要讲述了一位名叫美里的少女因虐待宠物而被父母送入一个特殊的动物康复设施。在这个设施中，美里与自己所虐待的狗—贝丝—进行了身体的交换。故事中描述了她作为一只狗的生活，通过这段体验，美里逐渐反思并理解了对动物的关爱与责任。文件内容包含美里对关系变化的困惑，以及与贝丝的互动，揭示了她的成长与改变。在体验过程中，美里不得不面对自己曾经的行为及其对贝丝造成的伤害，最终意识到对待动物的重要性与尊重。除了主线故事，还提到其他参与者武人君和彩乃酱的遭遇，引发了对因果报应的深思。通过幽默而富有教育意义的情节，形式上融合了奇幻与现实的元素，引起了读者对动物权利及人际关系的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_康复设施.docx]([交换]_康复设施.docx)
 | Size            | 15428 bytes                           |
 | MD5             | 912bee473406c552763bdc7335a5be12                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 教育意义, 人际关系, 动物保护, 自我探索, 奇幻, 情感成长, 心理变化, 反思责任, 虐待动物, 善待动物, 故事寓意, 环境互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

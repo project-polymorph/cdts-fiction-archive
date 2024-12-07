@@ -7,7 +7,7 @@ TXT 下载: [[变装]_女卧底的自述4.docx]([变装]_女卧底的自述4.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇短篇小说《女卧底的自述4》，描绘了一个女性卧底在执行任务中的心理和情感历程。故事开始于女主角从小黑屋中被萍姐带出，感受到阳光的洗礼与身体的疲惫。为了恢复体力，她和萍姐在一家沙县小吃就餐，呈现了当地生活的独特场景。然而，女主心中对即将到来的任务充满紧张，她意识到警方行动可能会引发变故，决定不休假，要保持警惕。接下来的情节描写了她与小茹的重聚，女主的身份与角色的转变引起了彼此间的感情波动，小茹的愤怒与担忧以及女主对两人关系的深思，最后化为燃烧的情欲与身体的亲密接触。整篇小说通过丰富的语言，细致描写了人物的内心挣扎及情感变化，同时透视了性别认同与社会角色之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_女卧底的自述4.docx]([变装]_女卧底的自述4.doc
 | Size            | 24793 bytes                           |
 | MD5             | 31377efc99dc465443d04ead683a10da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 卧底, 性别认同, 心理冲突, 情感纠葛, 夜总会, 暗恋, 双性, 自我探索, 同性关系, 爱情, 复杂关系, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

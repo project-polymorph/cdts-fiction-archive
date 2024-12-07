@@ -7,7 +7,7 @@ TXT 下载: [[交换]_互换身体的两人.doc]([交换]_互换身体的两人.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《互换身体的两人》，由作者 Jumboshirmp 创作，讲述了凯莉这一角色的故事。故事从凯莉的视角展开，她是一个害羞的女孩，在大学毕业前希望能够获得一次浪漫的约会。而为实现这个目标，她向好友马库斯提出了通过一条女巫赐予的神奇项链进行身体交换的请求。这条项链能够让两个佩戴者互换身体，而她的计划是借此机会与她喜欢的男孩特伦特约会。随着故事发展，凯莉和马库斯经历了身份的交换与适应，面对新的形象和感受，产生了一系列有趣且尴尬的事件。最终她的计划会如何发展，二人又将如何应对彼此的身份呢？文中通过对话展现了他们之间的幽默与微妙的关系，同时探讨了性别认同和自我探索的主题，同时该小说可能包含一些成人情节和性暗示，适合对性转和变身等题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_互换身体的两人.doc]([交换]_互换身体的两人.
 | Size            | 35328 bytes                           |
 | MD5             | a3d99900cbe4012a6cd5cd2b9990ca8e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jumboshirmp                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身体交换, 青春恋爱, 自我探索, 校园, 女性视角, 性转, 魔法, 关系, 幽默, 冒险, 校园派对, 变装, 热恋, 奇幻, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_温和派（4）完结.doc]([改造]_温和派（4）完�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于张玉的跨性别及婚姻生活的小说，内容以张玉的视角叙述了她从男性身份转变为阿拉伯妻子的过程与内心挣扎。故事开始于张玉在大马士革的清真寺完成皈依仪式，成为了麦尔丹的妻子，与此同时，她也面临着身为女性的新身份所带来的情感与性别认同的挑战。小说中张玉经历了一系列与麦尔丹的亲密互动，其中包含对自己性别认同的探索，以及她对过去身份的反思。随着时间的推移，张玉在婚姻与家庭生活中逐渐适应了作为一名穆斯林女性的角色，且对自我身份的接受也体现出对身体与性的复杂体验。学术的角度来看，文中涉及性别角色、文化适应、宗教信仰等重要主题，特别是如何在新的社会结构中重新定义自我。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_温和派（4）完结.doc]([改造]_温和派（4）完�
 | Size            | 62464 bytes                           |
 | MD5             | 9a503b61b9927d969933ca135b2924c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别转换, 婚姻, 情感探索, 自我认同, 宗教信仰, 女性视角, 励志, 二次元, 性转, 强奸, 调教, 逆后宫, 变嫁, 女性主义, 心理斗争, 性爱, 亲密关系, 文化冲突, 年龄差                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《单性异世界II》第3章　二次发育.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别小说《单性异世界II》的第三章，标题为“二次发育”。内容主要围绕两个角色帕拉与珍美之间的亲密互动展开，小说通过对话和细腻的心理描写展现了角色因性别变化而产生的复杂情感与生理反应。在这一章节中，帕拉与珍美在一系列挑逗与妥协之中产生了极为私密的互动，涉及到自慰、身体认同的主题，同时展现出性别转换带来的自我探索以及对身体的接受。情节中珍美穿着性奴装，对自己性别认同的挣扎，以及帕拉对珍美的调侃和欲望的表现，深刻描绘了在一个异世界中角色间充满张力的关系。文中提到的场景细节，如珍美的衣物、身体特征以及角色之间的互动，直观地展示了该小说的题材与情感核心。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《单性异世界II》第3章　二次发育.doc]([变身
 | Size            | 45568 bytes                           |
 | MD5             | ee934b6a3dbbbaf7ee954e77849743ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性转, 伪娘, 情感冲突, 自慰, 奇幻, 角色扮演, 自我探索, 性别认同, 性奴装, 二次元小说, 强烈情感, 多元性别, 校园，青春, 身体认同, 异世界冒险, 第一人称视角, 女主角, 羞涩, 欲望, 性技巧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

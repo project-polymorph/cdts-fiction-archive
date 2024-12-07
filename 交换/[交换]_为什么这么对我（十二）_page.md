@@ -7,7 +7,7 @@ TXT 下载: [[交换]_为什么这么对我（十二）.docx]([交换]_为什么
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为性转题材小说的第十二章，描述了主角在危机情况下的感官体验和内心感受。故事围绕着一个被绑架的角色，主角在一个箱子里被移动，面临身体和心理上的极端挑战，以及对自身身份的重新认知和冲突。开篇描绘了主角被背着搬动的情景，伴随着主人与运输者之间的对话，展现了矛盾与紧张的气氛。随着情节的发展，主角经历了温暖与恐惧的交替，感受到了身体的刺激和情感的挣扎。特别是在与一个无情的孩子的遭遇中，表现了主角无力反抗的状态，以及深切的屈辱感。故事的最后揭示了主角对自己身份的渴望与恐惧交错的复杂心情，突显了现实的残酷与内心世界的脆弱。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_为什么这么对我（十二）.docx]([交换]_为什么
 | Size            | 22823 bytes                           |
 | MD5             | 39119f81c56c2d82d01d2285d2c55a62                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 情感挣扎, 被绑架, 伪娘, 自我认同, 极端体验, 强烈心理, 情感冲突, 内心独白, 无助感, 社会观察, 都市生活, 青春成长, 奇幻冒险, 情感主题, 短篇小说, 现代文学, 个人探索, 人际关系, 心理描写, 性转文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

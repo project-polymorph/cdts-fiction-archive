@@ -7,7 +7,7 @@ TXT 下载: [[附身]_大烟民（10）.doc]([附身]_大烟民（10）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为名为《大烟民》的伪娘变身小说的第十章，通过主角皮阳的视角，描绘了他在女性杨弥儿的身体中适应生活的过程。在几天的时间里，皮阳学习了穿高跟鞋的技巧，但同时也面临着一名内衣窃贼的困扰。故事中涉及到角色之间的互动与情感交流，如皮阳与凌玥欣的约定和相互吸引。在对内衣被偷的事件调查中，皮阳和其他女性角色展现出幽默而复杂的心理和社会关系。文中不仅提到内衣的被盗，也暗示了潜在的性暗示与两性关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_大烟民（10）.doc]([附身]_大烟民（10）.doc)
 | Size            | 37376 bytes                           |
 | MD5             | 624083ea4b60be0dbccb5a41b4f42179                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 内衣盗窃, 强奸, 性感, 情感纠葛, 自我认同, 校园, 青春, 调教, 奇幻, 爱情, 女性视角, 代理身份, 真实身份, 性别探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

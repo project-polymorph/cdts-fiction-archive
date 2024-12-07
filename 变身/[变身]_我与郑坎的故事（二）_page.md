@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我与郑坎的故事（二）.docx]([变身]_我与郑坎
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描绘变身与跨性别主题的小说，讲述了主角与一个名为郑坎的角色之间的特殊关系。这段关系涉及角色的性别转换体验与自我认同的探索。故事中，主角经历了一段与“惠惠”相处的梦幻时光，尽管相处时间有限，但两人之间的感情却迅速升温。在郊游与日常互动中，主角与惠惠的关系逐渐加深，伴随着各种情感与身体上的探索，这种体验使主角对性别认同产生了新的理解和感悟。文本中提及了一些刺激性情节，通过细腻的描绘展现了两人之间的亲密行为与情感交融。整体而言，作品不仅涉及青春的探索和性别转换的主题，还探讨了对自我的认同及未来的不确定感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_我与郑坎的故事（二）.docx]([变身]_我与郑坎
 | Size            | 19504 bytes                           |
 | MD5             | 6eafda4284316250271f797023ee5fcf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 青春探索, 青春爱情, 伪娘, 情侣关系, 性转, 自我探索, 日常生活, 情感互动, 亲密关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [憑依.doc](憑依.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《憑依》描绘了一名宾馆经营者名仓俊之，他拥有一种特殊的能力——附身于他人，并利用这一能力对情侣进行恶劣的操控。这家宾馆有一个令人不安的传闻——“情侣来了一定会变得不幸”。小说中主要讲述了一对年轻情侣柚子和将司在这家宾馆入住后，经历了一系列不幸和悲剧的故事。名仓对他们的甜蜜爱情产生了妒忌，并通过附身于柚子的身体，使她开始进行自我毁灭的行为。柚子在失去意识后，竟开始上传自己不雅的行为，引发了更多的悲剧。最终，柚子因意外闯入深渊，她的男友将司也因此重伤，而名仓则在暗自得意的同时，继续着他的恶行。故事展现了附身能力带来的绝望和生活的扭曲，同时反映了人性中的黑暗一面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [憑依.doc](憑依.doc)
 | Size            | 95232 bytes                           |
 | MD5             | ceea8b30c483390c36d6d5e7312039a8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 七夜 诗希                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 心理惊悚, 情感操控, 悲剧, 都市传说, 青年情侣, 虐待, 自我毁灭, 奇幻, 恶人, 逆境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

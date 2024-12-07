@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_关于我在路人女主的故事里入替女主ntr主角�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇围绕安艺伦也与几位女性角色的复杂关系展开的小说，故事中主要描绘了安艺伦也在追求他心目中的美少女加藤惠以及与英梨梨、霞之秋诗羽的互动中逐渐发现她们之间的暧昧关系。随着情节的发展，安艺伦也意识到这段友情可能已经转变为鲜明的情感纠葛。在一次意外的情况下，他看到两位女性角色亲吻，感到震惊和困惑。此外，小说中还描绘了她们之间的闲聊和游戏策划，展示了青春期的微妙心理和性别角色认同的冲突。文本涉及到了性别转换的幻想元素以及贴近青年人的情感世界，同时伴随着强烈的百合元素，展示了当代年轻人在探索自我认同与性别表达过程中的矛盾与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_关于我在路人女主的故事里入替女主ntr主角�
 | Size            | 92672 bytes                           |
 | MD5             | 37fad6972fa7b766e2bd7359951f3854                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 百合, 虚拟现实, 角色扮演, 情感纠葛, 美少女, 自我认同, 社团活动, 青春, 性别表达, 游戏策划, 暧昧关系, 成长, 心理探索, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

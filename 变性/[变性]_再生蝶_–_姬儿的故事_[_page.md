@@ -7,7 +7,7 @@ TXT 下载: [[变性]_再生蝶_–_姬儿的故事_[.docx]([变性]_再生蝶_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《再生蝶 – 姬儿的故事》，由作者Flora创作。故事围绕主角加尔的性别转变展开。在第一章中，加尔醒来发现自己被囚禁在一个暗房间，遭到神秘女性艾丽卡的绑架。艾丽卡向加尔询问个人信息，并表现出对加尔母亲的仇恨。随着剧情发展，加尔被迫承受艾丽卡施加的身体和心理上的影响，而艾丽卡则暗示其对加尔的性别变迁有着更深层的计划与报复。加入了医学和人类实验的元素，展示了现代社会对性别认同和生理性别转换的复杂探讨，情节包含对加尔身体的医学改造及情感上的挣扎。该作品涉及性别认同、自我探索等主题，并含有明显的性暗示及成人内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_再生蝶_–_姬儿的故事_[.docx]([变性]_再生蝶_�
 | Size            | 136232 bytes                           |
 | MD5             | 0fcf258fa112de33328d92328f06bb29                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Flora                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性转, 医学实验, 性别认同, 绑架, 自我探索, 变嫁, 女主控, 精神控制, 恋母情结, 成年内容, 性暗示, 人工生殖, 情感冲突, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

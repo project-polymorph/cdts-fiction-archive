@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔界植物——愿望树（上）.docx]([皮物]_魔界
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部关于魔界植物"愿望树"的小说摘录，主要围绕主人公凌寒的成长与变身经历展开。故事开篇，凌寒在课堂上感到极度无聊，同时在期待着一个改变自己命运的机会，随着对奇异植物种子的遭遇，他的生活发生了巨大的转折。文中描绘了他从一个体重过重的少年，通过神秘的魔界种子，引发的身体与心理的极端变化。文中多次引用凌寒的内心独白及其与同学的互动，揭示了他对外貌变化的懊恼与自我认同的挣扎。种子的出现不仅改变了他的体型，也引发了他心中潜藏的渴望与向往。通过细腻的心理描写与奇幻的故事背景，作品探讨了性别认同与身体形象的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔界植物——愿望树（上）.docx]([皮物]_魔界
 | Size            | 17181 bytes                           |
 | MD5             | 0bb9e1deee49b06ded17c37ebe62d02f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔界, 植物, 愿望树, 性转, 变身, 心理变化, 自我认同, 青春成长, 幻想小说, 魔法, 冒险, 神秘种子, 校园生活, 心理斗争, 身体变迁, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

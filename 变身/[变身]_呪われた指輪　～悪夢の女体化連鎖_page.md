@@ -7,7 +7,7 @@ TXT 下载: [[变身]_呪われた指輪　～悪夢の女体化連鎖.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《被诅咒的戒指、噩梦的连锁女体化》, 内容主要讲述了一名年轻骑士塞西尔被敌人捕获并施加咒术，变成女人的过程。整个故事充满了对性别转换及女性身份认同的探讨，同时描绘了被强制成为性奴的情节。文中详细描述了塞西尔在性别转换后所经历的身体和心理上的冲突，以及她对新身份的无奈与困惑。比如，当塞西尔意识到自己的身体发生变化时，她产生了复杂的情感，既感到愤怒又感到无力。文章通过对塞西尔感受的细腻描绘，展现了她从一个年轻骑士到性奴的堕落过程。文中涉及了一些限制级内容，需要在科学研究与学习中谨慎使用。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_呪われた指輪　～悪夢の女体化連鎖.docx]([�
 | Size            | 33157 bytes                           |
 | MD5             | 6855b5b7fd99a30acd413b82c9514876                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 女体化, 性奴, 魔法, 强奸, NTR, 年龄差, 幻想, 暴虐, 自我认同, 情感冲突, 逆转, 身体改造, 堕落与救赎, 奇幻, 异世界, 伦理幻想, 绝望与希望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

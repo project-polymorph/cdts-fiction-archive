@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_妖淫皮(壹~参).docx]([皮物]_妖淫皮(壹~参).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性转与变身的小说，包含角色的性别转换和身份认同挑战。故事始于一个炎热的夏夜，讲述了一位中年男子与一位年轻女性之间的奇异相遇。男主角被困在衣橱中，目睹了一名中年男子穿上一件人皮，结果变成了年轻且身材健美的青少年。该小说多次提及性别与身体的变化，伴随角色间的冲突与欲望，涉及强烈的性暗示和露骨的性内容。通过多种角色间的互动和情感描写，展现了角色对身体认同和关系的探索，含有一些限制级内容。小说通过细腻的描写表现了各种复杂的会话和情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_妖淫皮(壹~参).docx]([皮物]_妖淫皮(壹~参).docx)
 | Size            | 41432 bytes                           |
 | MD5             | c7ced81b2b6162c9da8fdbb327f62446                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 强烈性暗示, 身份认同, 自我探索, 青年, 夜店, 变装, 幻想, 仲夏之夜, 人皮, 性别冲突, 成年人的情感, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

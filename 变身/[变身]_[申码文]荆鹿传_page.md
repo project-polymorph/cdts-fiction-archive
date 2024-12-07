@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[申码文]荆鹿传.doc]([变身]_[申码文]荆鹿传.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘TS变身与跨性别相关的小说《荆鹿传》，标志作者轻音w的处女作，故事主要围绕主角荆鹿在异变后的内心挣扎与身份重构展开。早在大四，荆鹿就已习惯了作为一名优秀男性学子的生活，而在一次噩梦之后，荆鹿惊觉自己变成了一名漂亮的女孩。随着身体的变化，她不得不面对不同于以往的生活与交际，原有的身份和日常生活瞬间被打破。文中描绘了荆鹿从身心变化中的意识觉醒，以及对新身份的接受与未来的不安。主角的情感挣扎、生理变化的接受、与周围朋友的互动都细腻地展现了她的内心世界，情节围绕性别认同、自我探索等主题展开，挑战了传统的性别观念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[申码文]荆鹿传.doc]([变身]_[申码文]荆鹿传.do
 | Size            | 221696 bytes                           |
 | MD5             | 07bc6ea2f3e2b77e674e1e35e185421e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 轻音w                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-01-17                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 自我认同, 青春, 校园生活, 心理变化, 情感纠葛, 新生, 身份危机, 成长, 勇气, 探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_5（非同�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为伪娘TS变身类小说的一部分，描绘了一个角色在意识和身体上的转变。故事的主人公通过复杂的心理和情感冲突，适应一个女性身体，并与未婚夫乔希的关系变得紧张和纠结。乔希的存在使得女主角面临巨大的心理压力，他试图通过各种方式重建与女主的亲密关系，而女主在努力找回自我认同的同时，又对新身体产生了混乱的情感反应。文中细腻地刻画了女主角对自身性别认同的疑问及对于自己变化的抵抗，加上乔希的痴迷和占有欲造成了一系列心理斗争。通过一系列内心独白和场景描写，作者探讨了性别、爱情及身份认同等复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_5（非同�
 | Size            | 40960 bytes                           |
 | MD5             | ec18aa3f9894cecef308d594f7bc138c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性别认同, 心理战, 爱情, 自我探索, 未婚夫, 情感纠葛, 催眠治疗, 癔症性遗忘, 性别角色, 心理斗争, 个人恢复, 身体意识, 荷尔蒙反应                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

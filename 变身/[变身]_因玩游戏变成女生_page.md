@@ -7,7 +7,7 @@ TXT 下载: [[变身]_因玩游戏变成女生.doc]([变身]_因玩游戏变成�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于变身小说的故事，标题为《因玩游戏变成女生》。故事围绕着角色清彦和孝明展开，清彦作为叙述者，见证了孝明因游戏而被转变为女性的过程。故事开头描绘了孝明的外貌变化，生理性别的改变引起的内心挣扎以及他在适应新身份时的心理冲突。该文本详细描述了孝明从外貌到心态的变化，包括他失去男性特征后所面对的状况，以及在全裸的状态下与清彦的关系如何演变。随着情节的发展，布局者通过游戏的输赢决定角色的命运，从而引发了清彦对权力、性别与自我认同的深刻思考。该文包含了一些性暗示和对身体变化的详细描写，尤其是与性别与性体验相关的内容，适合于研究跨性别主题与性别认同的学者和爱好者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_因玩游戏变成女生.doc]([变身]_因玩游戏变成�
 | Size            | 108544 bytes                           |
 | MD5             | 69f2e6e5d61e6ec9c9bbd044c5a7f892                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | hhziii                               |
+| Region          | 未知                               |
+| Date            | 2021-12-14                                 |
+| Tags            | 变身, 跨性别, 性别认同, 心理冲突, 游戏, 女性化, 自我探索, 身体变化, 性别转换, 伪娘, 猫耳, 纯爱, 游戏规则, 自我认知, 角色扮演, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

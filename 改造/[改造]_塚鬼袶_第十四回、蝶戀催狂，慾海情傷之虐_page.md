@@ -7,7 +7,7 @@ TXT 下载: [[改造]_塚鬼袶_第十四回、蝶戀催狂，慾海情傷之虐
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为伪娘和变身相关的小说文本，标题为《第十四回、蝶戀催狂，慾海情傷之虐》。故事围绕角色凌湘展开，情节充满戏剧性的冲突与情感纠葛。凌湘在复杂的权力与情感游戏中挣扎，她与其他角色之间存在复杂的关系，尤其是与魅九娘之间的对话流露出紧张的情感。随着故事的发展，凌湘面临着自身身份与情感的困惑，剧情深入探讨了性别认同与情感的交织。字里行间通过如“妳的身子果真下賤……受了點男人滋潤就變得更美了”等台词，展示了性别与性欲的复杂关系，并探讨了自我认知与他人认知之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_塚鬼袶_第十四回、蝶戀催狂，慾海情傷之虐
 | Size            | 30751 bytes                           |
 | MD5             | e06a927ad37eb126418850c1af5fdecc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | canykuo                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 情感纠葛, 自我探索, 性别认同, 强烈情感, 冲突, 爱欲, 权力游戏, 伤痛, 情欲, 复杂关系, 情感虐恋, 二次元, 性转小说, TSF, 古风, 异世界, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

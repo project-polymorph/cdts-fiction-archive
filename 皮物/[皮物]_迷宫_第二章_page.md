@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_迷宫_第二章.doc]([皮物]_迷宫_第二章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个伪娘 TS 变身与跨性别相关小说的章节，名为《迷宫》。故事围绕角色爱尔莎展开，她是一名冒险者，准备在一个充满奇异生物和战斗的迷宫中探险。文件的开头介绍了爱尔莎和她的队友们的任务，他们需要获取城市市民的皮衣以便顺利进入城市，提到这些皮衣需要通过击败稀有怪物获得。文件内的内容涉及冒险者之间的互动，关于女王蜘蛛和蛇女的讨论，以及角色之间暗示的情感关系，尤其是对女祭司的吸引。此外，文本中描绘了爱尔莎的变身过程，她在穿上不同的皮衣后经历了性别和身体的变化，对自身的认知产生了极大的冲突与探索。在小说的后半部分，爱尔莎与其他角色一起遭遇了巨蛇这一强大敌人，展现了团队间相互协作的战斗场景。文本的情节结合了奇幻、冒险和性别认同等主题，是一部富含视觉和情感体验的二次元小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_迷宫_第二章.doc]([皮物]_迷宫_第二章.doc)
 | Size            | 52224 bytes                           |
 | MD5             | a26398745b3d07b00d0599d79364673a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 冒险, 性别认同, 跨性别, 伪娘, 变身, 奇幻, TSF, 女同性恋, 权力游戏, 团队合作, 魔法, 战斗冒险, 异世界, 生存, 角色扮演, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

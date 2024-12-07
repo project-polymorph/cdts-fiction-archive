@@ -7,7 +7,7 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（3）.doc]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《变性后成为前女友的通房丫鬟（3）》主要描述了一个主人公在变性后与一个女性角色之间发生的亲密互动。故事中，男主人公在经历性别转换后，逐渐适应并接受自己的新身份。在一场澡堂的场景中，女性角色主动揭露了亲密的身体接触，男主人公虽感到尴尬，但也被这种触碰所刺激，开始体验不同于他以前身份的新感受。整个片段展示了角色间的情感纠葛和身体认同的细腻变化，以及他们在亲密接触中流露出的欲望与不安。文本中不乏关于身体接触、气氛渲染等描写，突显出情欲与身份认同交织的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（3）.doc]([改�
 | Size            | 39424 bytes                           |
 | MD5             | 6b73d9f006d425b9e9c89a05cc795a48                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 身体认同, 亲密关系, 情欲, 性感, 性转, 自我认知, 强迫, 角色互动, 浴室场景, 二次元, 幻想, 禁忌, 年轻女性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

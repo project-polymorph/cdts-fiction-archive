@@ -7,7 +7,7 @@ TXT 下载: [[附身]_神奇手机（第四章）.doc]([附身]_神奇手机（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件内容为一段关于方童及其性别转换经历的小说章节。故事围绕着方童获得一款神奇的手机应用，通过应用可以进行身体的附身与转换。方童在与一名年轻少妇李雨晴的身体重合后，获得了她的记忆和经历，从而开始了新的生活。李雨晴是克丽丝缇娜美体中心的区域总监，故事描述了方童从女性的视角体验生活，并逐渐认识到自己所面临的身份转变和内心的挣扎。小说中包括了许多关于性别认同、自我探索及复杂人际关系的情节，方童在享受李雨晴的外貌和生活时，也不得不面对与其他角色，尤其是与刘莉莉的关系的微妙变化。总的来说，该章节探讨了性别角色的流动性及其带来的情感冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_神奇手机（第四章）.doc]([附身]_神奇手机（�
 | Size            | 35328 bytes                           |
 | MD5             | 3c4e363601b951ca37cb33a435b7a627                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 附身, 自我认同, 跨性别, 伪娘, 痛苦的成长, 女性视角, 职场竞争, 情感纠葛, 小说, 二次元, 变身幻想, 都市奇幻, 记忆获取, 身体交换, 女性魅力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】七、化女生子（完�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于跨性别变身的小说，主要描写了角色在夜色下进行性别转换和跨性别的探索。故事围绕江湖郎中江郎的女儿江玉燕以及林仙儿之间的互动，展现了一个具有幻想色彩的情节：江玉燕在私密场合中与林仙儿进行亲密的接触，甚至涉及情欲的肆虐。通过对角色之间复杂关系的描写，突显出对性别认同、自我探索和身体转化等主题的探讨。文中出现了多种情节，包括幼女与成年角色之间的行为，涉及药物变性以及对身份的自我认知冲突等，细致描绘了角色的内心世界，以及他们在性别转换中的情感和身体体验。】【现可能含有敏感和限制级内容，请谨慎阅读。】【此小说是二次元题材，包含大量幻想和色情元素，具有一定的争议性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】七、化女生子（完�
 | Size            | 35097 bytes                           |
 | MD5             | 620186ce3493a14774ac9e9eb447cfe8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 男娘, 爱情, 性别认同, 情色, 幻想, 奇幻, 调教, 年龄差, 女体化, 药物, 地下拍卖, 淫荡, 角色互动, 剧情反转, 自我探索, 情欲戏, 幼女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

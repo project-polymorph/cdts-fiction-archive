@@ -7,7 +7,7 @@ TXT 下载: [[变性]_花开终有时_第四回_‘风起.docx]([变性]_花开�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为《风起》中第4回的内容，围绕杜思文在经历身体与性别转变后的情感与自我认知探讨。故事以杜思文被迫转变为名为蜜娅的女性角色为核心，展现了他在外貌和内心的反应变化。杜思文在神秘的环境中被施加了一种药物，导致他迅速变瘦并陷入幻觉中，逐渐接受与享受这一转变。在他的转变过程中，伴随着对性别与自我身份的模糊认知和强烈的性暗示。文中描绘了蜜娅与杨龙、萨莎之间复杂的情感和性关系，使用了大量挑逗与性相关的描写，展现了禁忌与内心挣扎，引发读者对于性别与个人身份认同的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_花开终有时_第四回_‘风起.docx]([变性]_花开�
 | Size            | 34378 bytes                           |
 | MD5             | 1ba573e215996b58c0bc868b645b66af                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 伪娘, 变身, 跨性别, 二次元小说, 自我认知, 药物影响, 情感纠葛, 强烈性暗示, 幻想与现实, 身体认同, 社会禁忌, 情欲探索, 性别模糊, 心理冲突, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_身体交换_[.docx]([交换]_身体交换_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《身体交换》，涉及一系列角色之间的对话和情节发展，主要围绕着一名名叫蓝雪芯的校花女孩。文中描写了主角与他的死党楚国的互动，楚国对蓝雪芯的迷恋及其兄妹之间的关系。故事中的女主角娃娃头在课外活动中受到意外事件的影响，进一步引出了一场身体交换的奇幻剧情。这个奇幻事件涉及了一个中年男子与蓝雪芯的身体交换，导致了她的身心痛苦。文章开头运用生动的语言描述了两位男生对女生的追逐和校园生活。随着故事推进，读者发现了蓝雪芯因遭遇而产生的自我认同危机和情感冲突，增强了故事的深度和复杂性。此外，文章中涉及了校园、青春以及性别认同的问题，引发了对性别与身体的讨论。整体情节描绘了角色们的内心挣扎、关系纠葛与奇幻现象的结合，旨在引起读者对性别转换主题的关注。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_身体交换_[.docx]([交换]_身体交换_[.docx)
 | Size            | 20264 bytes                           |
 | MD5             | b19e4e4b0f35b8b3da5c71e24070f6f9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 身体交换, 性别认同, 校花, 青春, 奇幻, 自我探索, 兄妹关系, 情感冲突, 校园生活, 奇幻小说, 伪娘, 变身, 强奸, 逆后宫, 调教, 百合, 穿越, 成人内容, NTR, 女体化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

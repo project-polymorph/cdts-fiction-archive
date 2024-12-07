@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[翻译]真正的“斯提弗得”老婆：只有女人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《真正的“斯提弗得”老婆：只有女人有的快乐宝贝》的第二节，讲述了角色经历性别转换后的心理和身体变化。故事中的角色原本是男性，但在经过变身后，成为了一名女性，并逐渐适应新的身份和生活。在这个过程中，角色经历了身体上的变化，包括乳房的发育和情绪的波动，同时也面临着对自己认同的挣扎。文件中提到了角色在美容院接受各种女性化训练的经历，以及在新的女性环境中，与其他女性角色进行交流与互动的情形，包括对彼此的身体的欣赏和性渴望的逐渐觉醒。文中展示了角色内心的混乱与享受并存的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[翻译]真正的“斯提弗得”老婆：只有女人�
 | Size            | 19394 bytes                           |
 | MD5             | f76bcddce0dac99671df4b6d47698a12                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Edwin Gay                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 性别认同, 女性化训练, 母性, 情感探索, 身体变化, 自我认知, 爱慕, 性欲觉醒, 社会适应, 情感冲突, 青春成长, 性转, 生活习惯, 情欲交流                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

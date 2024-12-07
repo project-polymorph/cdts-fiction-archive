@@ -7,7 +7,7 @@ TXT 下载: [[改造]_xj队长白冰iF线黑帮改造篇.docx]([改造]_xj队长
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一位名叫白冰的女性，她原为男性，因潜伏在犯罪组织中而遭受身体改造，变成了女性，并在变身后不得不面对身体和身份所带来的心理冲击与性欲困扰。故事开始时，白冰作为市刑警队的队长，尽管身处男性主导的环境，仍需保持威望，却又被身体的变化所影响，导致同僚们对她的异样关注与窃窃私语。她回忆起自己在犯罪组织期间的屈辱与经历，内心充满矛盾与挣扎，既想要掩饰自己的痛苦，又无法逃避身体和欲望的真实。文中充满对身份变化的深层次探讨，涉及跨性别认同、性欲与自我探索等主题，整体富有挑战性与争议性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_xj队长白冰iF线黑帮改造篇.docx]([改造]_xj队长
 | Size            | 32599 bytes                           |
 | MD5             | 8f2119a5d8b6a9ed97130714a4f96af3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 自我探索, 肉欲, 欲望, 身体改造, 伪娘, 女体化, 心理冲突, 职场性别角色, 强烈性暗示, 犯罪与警察, 社会压力, 都市故事, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

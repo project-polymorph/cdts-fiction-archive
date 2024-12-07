@@ -7,7 +7,7 @@ TXT 下载: [[交换]_花落花开（十）【大结局】.doc]([交换]_花落�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《花落花开》第十章（大结局），主要讲述了林文婵与丁铭栋在经历了一场情感波动和身份变化后的重聚。小说背景设定在一个充满个人成长与变化的情感纠葛中。在故事开篇，林文婵正面对搬家的情境，回忆起过往的甜蜜与忧伤。在与搬家工人告别时，她对过去的亲密关系充满了感慨。与丈夫丁铭栋的关系经历了名义上的婚姻和内心的情感交锋。随着情节发展，林文婵与丁铭栋之间展现出了彼此的深爱与内心的秘密。最终，二人决定共同展望未来，找回以前的温暖，并培养新的生活目标。文本中出现了关于情感、身体和自我认同的深刻思考以及一些性描写，反映出两位角色的情感纠葛与认同过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_花落花开（十）【大结局】.doc]([交换]_花落�
 | Size            | 77312 bytes                           |
 | MD5             | dd74514e002882a7cd1a0781612a8e38                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 婚姻, 情感纠葛, 自我认同, 爱情, 性别探索, 家庭生活, 相互依赖, 新开始, 都市生活, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

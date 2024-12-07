@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丹妮的报复（6）——TGI系列之四.docx]([变性]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是纯爱变性小说《丹妮的报复（6）——TGI系列之四》的节选，主要讲述了角色詹姆斯在经历性别转换后的生活适应与自我挣扎。故事围绕詹姆斯和哈蒙的日常互动展开，詹姆斯在早上醒来后，被迫接受了新的身份和外貌，与哈蒙共度酒会的情景展现了他内心的矛盾与不安。在参加酒会前，詹姆斯经历了一系列美容和身份重塑的过程，内心感受到羞辱与压抑。他通过回忆与自省，意识到自己的经济依赖以及作为女性身份的困扰，甚至担忧自己可能需要怀孕的现状。整个故事体现了角色在性别认同、自我探索与社会期待之间的挣扎，精彩地描绘了情感的复杂与内心的拉扯。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丹妮的报复（6）——TGI系列之四.docx]([变性]
 | Size            | 43230 bytes                           |
 | MD5             | 9b2bd89f79c30092b3fda4c7de86916f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性别认同, 角色发展, 自我探索, 心理挣扎, 美妆, 酒会, 情感纠葛, 繁琐日常, 羞辱感, 社会期待, 纯爱, 变嫁, 身体改造, 女体化, 精神冲突, 生活适应, 变装, 强迫性质, трансгендер, 二次元, TSF, NTR, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_替換人生_[.docx]([变身]_替換人生_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于性别转换的小说，围绕一个普通大学生的生活展开。这位大学生在情人节的前夕，准备与女友淑玲共度浪漫时光，然而他目睹了一场奇异的事件，令他的生活彻底改变。故事中，教授通过黑魔法使淑玲的身体与他的记忆融合，主角在这个过程中经历了身份的混乱与心理的挣扎。通过与好友雅婷的互动，渐渐揭示出主角的性别认同危机和自我探索的过程。小说涵盖了魔法、变身、情欲等元素，且有些情节具有强烈的性暗示，与其标签相关的内容丰富多样，适合对性别研究与身份认同感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_替換人生_[.docx]([变身]_替換人生_[.docx)
 | Size            | 21160 bytes                           |
 | MD5             | 1baac264af9203d7a0f8f976be350372                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 魔法, 性别认同, 情欲, 犹豫, 自我探索, 奇幻, 大学生活, 情人节, 记忆融合, 伪娘, 强烈性暗示, 黑魔法, 心理冲突, 女性化, 同性恋视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

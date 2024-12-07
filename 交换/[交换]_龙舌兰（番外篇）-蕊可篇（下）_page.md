@@ -7,7 +7,7 @@ TXT 下载: [[交换]_龙舌兰（番外篇）-蕊可篇（下）.docx]([交换]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是多元性别相关小说的番外篇，着重描绘了两位角色蕊可与陈琳峰之间复杂而激烈的情感和肉体关系。故事从午夜的洛杉矶居民区展开，描绘了一段在蕊可的住所发生的禁忌情事。蕊可，一个生理性别为女性却具备男性生殖器的角色，表现出强烈的性欲，并主导着与陈琳峰的性爱。文中详细描写了他们之间的身体互动，充满挑逗和欲望的语言揭示了蕊可作为一个转变性别后的角色在性行为中的主动与自信。情节不仅限于肉体的交融，蕊可与陈琳峰之间的对话暗示了更加复杂的个人情感，如报复和自我探索的主题。而在性爱高潮后的对话中，蕊可表现出对自身性别身份的困惑及对未来选择的思考，夹杂着对报复前夫的渴望。故事展示了性别与性欲的交织，以及心理的微妙变化.
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_龙舌兰（番外篇）-蕊可篇（下）.docx]([交换]
 | Size            | 26872 bytes                           |
 | MD5             | 88678fb72d594a42617629ce3dd15d13                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 番外篇, 跨性别, 性爱, 报复, 自我探索, 欲望, 女性视角, 洛杉矶, 变身, 情感关系, 禁忌, 诱惑, 情绪冲突, 性别认同, 双性人, 住房                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

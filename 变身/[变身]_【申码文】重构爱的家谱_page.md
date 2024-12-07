@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【申码文】重构爱的家谱.docx]([变身]_【申码
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《重构爱的家谱》是一个关于科学幻想与人际关系交织的变身小说。故事围绕主人公与学姐李婧的互动展开，描述了在面对个人与家庭的压力时，科学与情感的结合。故事开头，主人公感受到学业的压力，而李婧却用她的幽默与关心拉近了两人间的距离。随着情节发展，李婧展示了她的创新实验——构造再生系统，通过这套高科技装置，能够重塑人体结构、外貌，甚至基因。文件中提到，李婧使用了具有人类皮肤特征的材料，展示出她在生物工程方面的才能。最终，主人公在家中父亲的病床前，见证了实验的成果，潜在的伦理与情感冲突浮现出来。故事不仅探讨了变身与性别认同，还涉及了家庭、责任与成长的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【申码文】重构爱的家谱.docx]([变身]_【申码
 | Size            | 65871 bytes                           |
 | MD5             | 368c476f9b17bf36361152841316aabc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 高科技, 生物工程, 家庭关系, 女性角色, 自我探索, 情感联系, 心理冲突, 性别认同, 构造再生系统, 实验室故事, 伪娘, 青春校园, 科幻情节, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

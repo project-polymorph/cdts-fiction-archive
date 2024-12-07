@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[翻译]叶子-03.docx]([变身]_[翻译]叶子-03.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于伪娘和变身的小说，讲述了一个名叫叶子的角色在经历性别转变后，如何适应并接受这个新身份的故事。在文中，叶子醒来后发现自己的身体发生了变化，虽然生理特征依旧，但心理状态与自我认知逐渐改变。她体验着新的身体感受，开始关注自己的外貌，尝试穿衣打扮，进行体操锻炼，进行洗漱和化妆。与她的伴侣肯恩的互动中，展现了她在社交和情感上逐渐变得更自信，最终得到肯恩的赞美与亲密接触。文中包含了大量关于性别认同和角色转变的内心独白，以及与伴侣的情感发展，真实而细腻地描摹了角色的心理变化与性别认同探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[翻译]叶子-03.docx]([变身]_[翻译]叶子-03.docx)
 | Size            | 24888 bytes                           |
 | MD5             | 82afb8142b778c4fe9c431db4827cc91                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 爱情, 自我探索, 妆容, 情感发展, 性别认同, 生活日常, 人际关系, 心理变化, 角色认同, 机能变化, 社会适应, 情节发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

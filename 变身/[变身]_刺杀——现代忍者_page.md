@@ -7,7 +7,7 @@ TXT 下载: [[变身]_刺杀——现代忍者.doc]([变身]_刺杀——现代�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描写了一个现代忍者的故事，涉及性别变换的情节，展现了角色在执行任务时从女性身份转换为男性身份的过程。故事开始于一个盛大的宴会，主人公寺信是一个专职司机，同时也是一名保镖，负责保护一名女性忍者。在任务中，忍者通过饮用一种特殊的液体，完成了从女性到男性的变化，整个过程细致入微，让人感受到变身的奇异与复杂。作者以细腻的笔触描绘了角色的外貌变化和心理变化，反映出对性别认同的探讨和自我认知的冲突。尽管故事中涉及一些敏感话题，但整体仍保持一种戏谑的语气，加入了大量的对话和情节，使故事生动有趣。块状短段落的叙述，结合细腻的描写与角色内心独白，展现出一种现代都市与幻想交织的氛围。在故事结尾，随着宴会的进行，角色面临着权力、性别与自我认同的挑战，暗示着复杂的人际关系与情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_刺杀——现代忍者.doc]([变身]_刺杀——现代�
 | Size            | 35840 bytes                           |
 | MD5             | 571105cab651c8fb12f7a9ce8c778854                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 现代忍者, 变身小说, 跨性别, 角色自我认同, 都市幻想, 情感纠葛, 性别认同, 特殊任务, 奇异变身, 强壮的男性形象, 女性视角, 二次元文化, 盛大宴会, 隐秘身份, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的主人愛網購_(同人文)_原創_非翻譯.docx]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是基于日本轻小说《我的主人爱作怪》的同人创作，主要描绘了一位男主角中林义贵与女仆澤渡泉之间的互动与奇异事件。在故事中，中林收到了一包神秘的布料和魔法道具，能够让他变身为澤渡泉的外貌，从而引发了一系列关于性别、身份和欲望的情节。义贵在试穿过程中体验了澤渡泉的身体，伴随着身体的变化，他与澤渡泉展开了一场情感与肉体上的探索，融合了性别认同与自我欲望的主题。文本中包含了性暗示的情节，例如义贵在变身后的尝试与澤渡泉的身体亲密接触，引发了对性欲和心理欲求的深刻探讨。整体风格为成人向，涉及多个方面的性描写和幻想元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的主人愛網購_(同人文)_原創_非翻譯.docx]([
 | Size            | 23325 bytes                           |
 | MD5             | 113493f99201b3f09088cb4572197a0b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 同人文, 变身, 性转, 伪娘, 性骚扰, 魔法, 心理探索, 性别认同, 幻想, 性暗示, 人际关系, 情感纠葛, 二次元, 千人千面, 成人向, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

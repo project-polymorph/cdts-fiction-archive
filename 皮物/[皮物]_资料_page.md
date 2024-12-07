@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_资料.docx]([皮物]_资料.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这个文件包含了一部长篇跨性别小说的片段，情节围绕男主角马浩及其复杂的家庭背景展开。故事开始于五年前的C市，马浩与其父亲的感人最后时刻，表达了亲情的深厚与告别的痛苦。故事通过一系列的回忆和现实时刻描绘了马浩的成长与遭遇，父亲的逝去带给他巨大的打击，而他也在这个过程中展现了坚韧不拔的品质。在现代生活中，马浩努力工作，面对来自肥胖上司的刁难，显示了他对生活的诙谐态度。同时，在马浩的生活中，爱情也占据了重要角色，他和女友李雯之间的亲密互动充满了欲望与冲突。小说通过幻想与现实交织的故事情节，揭示了性别认同、自我探索与情感复杂性的主题。文中包含了大量色情内容，以及角色间的亲密关系和欲望的描写，这一切都围绕着马浩如何在各种关系中寻求自我认同与理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_资料.docx]([皮物]_资料.docx)
 | Size            | 32006 bytes                           |
 | MD5             | 4710bbed27574bc70642ba3556e88c11                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 爱情, 亲情, 自我探索, 欲望, 家庭, 悲伤, 职场压力, 转变, 文化, 性别认同, 脑洞, 科幻, 奇幻, 变身, 伪娘, 情感纠葛, 废弃工厂, 地下实验, 神秘药丸, 角色扮演, 动态关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

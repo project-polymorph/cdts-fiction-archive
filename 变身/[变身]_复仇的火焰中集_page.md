@@ -7,7 +7,7 @@ TXT 下载: [[变身]_复仇的火焰中集.docx]([变身]_复仇的火焰中集
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档名为《复仇的火焰中集》，是一个围绕着变身与跨性别主题的色情小说，情节复杂，包含了多个主要角色之间的关系纠葛和性行为描写。故事开篇描绘了温晓馨与雪芬在闺房的亲密场景，随后转向雪芬与杜公子杜秋生之间的性关系，文中描述了两人的亲密互动及雪芬为达成目的而使用的手段。文中涉及角色的性欲和情感交织，描绘了穿越、性别转换以及权力关系，充满了对两性关系的探索和自我认知的冲突，最终揭示了更深层次的阴谋和人性的复杂。文中出现了多种性行为的详细描写，情节语言直白而大胆，带有明显的成人内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_复仇的火焰中集.docx]([变身]_复仇的火焰中集
 | Size            | 20369 bytes                           |
 | MD5             | 2416052d9e8cde8b8098b29aaff9a0ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性转, 情色, 权力游戏, 爱情, 自我探索, 阴谋,  二次元, 强烈情感, 复杂人物关系, 法律纠纷, 社会伦理, 双性恋, 人性探讨                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

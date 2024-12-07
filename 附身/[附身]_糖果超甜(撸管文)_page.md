@@ -7,7 +7,7 @@ TXT 下载: [[附身]_糖果超甜(撸管文).doc]([附身]_糖果超甜(撸管�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本是一篇关于附身变换的性转小说，情节围绕着一位美妇和她的儿子之间的独特关系展开。故事开头描绘了一位美妇在沙发上酣睡的场景，她的美貌和气质被细腻地描写出来。小男孩因对母亲的期待而显得焦急，同时周围散落着糖果，暗示了隐秘的情感。在美妇从昏迷中醒来之后，儿子显得极为激动，表明他们之间的关系不仅仅是母子，更是围绕着变身与性别转换的复杂纠葛。接下来，故事通过小男孩与美妇的对话，逐渐揭示出他们利用奇幻糖果进行附身的计划，以及由此引发的身体与心理之间的冲突。文本中描绘了互相调侃的对话，暗含了亲密与禁忌的情感，也涉及了性别认同与探索的主题。人物的心境变化和身体感受被形象地表达，展现了变换身份后的心理状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_糖果超甜(撸管文).doc]([附身]_糖果超甜(撸管�
 | Size            | 52736 bytes                           |
 | MD5             | 875256bf060226180d2e04af3a2b0797                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身, 性转, 伪娘, 奇幻, 自我认同, 母子关系, 少年幻想, 调教, 探索欲望, 色情内容, 青春期困扰, 糖果魔法, 身体认同, 意识转移, 亲密关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

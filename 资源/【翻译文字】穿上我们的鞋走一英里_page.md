@@ -7,7 +7,7 @@ TXT 下载: [【翻译文字】穿上我们的鞋走一英里.doc](【翻译文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《穿上我们的鞋走一英里》是由作者SfcSam创作的一部以跨性别和性别认同为题材的小说。故事围绕一位名叫亚当的私人助理展开，他是一个颇受女性欢迎的男人，但同时也贪恋于与多个女性的短暂关系。故事的转折点在于一个年轻的实习生和其他女性同事们的报复计划，她们希望让亚当感受到‘站在她们的立场上走一英里’的滋味。通过一场看似慈善的派对，所有男性需要穿上高跟鞋，然而这一过程中，亚当被迫体验了女性所承受的痛苦与困扰，尤其是长时间穿高跟鞋带来的不适。故事描绘了亚当逐渐意识到自己所做的事情对女性的伤害，以及他在性感与自我认同上的挣扎。整体内容透露出对性别角色和性别认同的探讨，突出人物内心的变化和自我觉醒。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [【翻译文字】穿上我们的鞋走一英里.doc](【翻译文�
 | Size            | 120832 bytes                           |
 | MD5             | d6a6387aed3599de0386039c2727cfbc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | SfcSam                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 变身, 伪娘, 高跟鞋, 办公室文化, 报复计划, 自我探索, 情感纠葛, 女性视角, 悲喜剧, 人际关系, 意见冲突, 性别角色质疑, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

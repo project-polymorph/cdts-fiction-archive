@@ -7,7 +7,7 @@ TXT 下载: [[变性]_彼岸_第三幕_第五回.docx]([变性]_彼岸_第三幕
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关小说档案馆收录的傀儡引导变身小说的一部分，讲述了林立与其他角色之间错综复杂的关系。故事背景设定在一个充满争斗与政治的环境中，主要围绕林立作为一个被卷入权力游戏的角色展开。小杜与其他角色在故事中讨论了权力与情感的复杂性，老林作为权威人物表达了对林立未来的决定所带来的风险与不安。小说中涉及了多个人物关系，特别是围绕林立的身份认同与变化，展现了当权者之间的斗争和个人的无奈。可以看到在面对家庭关系时，林立与陈美霞之间的情感深厚以及冲突的复杂性。文中包含有激烈的对话与情感描写，并提到了一些暗示权力与性别变迁的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_彼岸_第三幕_第五回.docx]([变性]_彼岸_第三幕
 | Size            | 33062 bytes                           |
 | MD5             | 58ff8c1b5a9dfd8c739edc5d63b79068                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 权力斗争, 家庭关系, 性别认同, 自我探索, 心理冲突, 复杂人际关系, 情感纠葛, 养子身份, 伪娘, 变嫁, 社会压迫, 都市情节, 女性视角, 情感操控, 几何关系, 情感依赖, 深层心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

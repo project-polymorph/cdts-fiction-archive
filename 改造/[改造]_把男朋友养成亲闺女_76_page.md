@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_76.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《把男朋友养成亲闺女》第七十六章中的故事围绕主角梅根与艾普丽尔在咖啡店的一次对话展开。梅根展示了她为外侄女贝丽处理的照片，贝丽曾因性别认同问题而感到困扰，最终决定伪装成少女的生活。文件详细描绘了梅根对贝丽的支持，以及两人讨论贝丽的性别认同与生活状况的复杂情感。在这一章中，可以看到梅根自豪地使用PS软件将贝丽的照片修改得更为可爱，企图帮助贝丽获得更好的外观。随着对话的深入，艾普丽尔得知贝丽的真实情况，理解到贝丽所经历的挣扎与痛苦。在故事中，性别认同与心理自我探索成为了核心主题，突显了角色间的深厚关系与复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_76.docx]([改造]_把男朋友
 | Size            | 21258 bytes                           |
 | MD5             | 02b205a030cb054e0a99604a12b07b8f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 自我探索, 生活困扰, 心理挣扎, 家庭支持, 二次元小说, 强制角色扮演, 青春成长, 女人之间的对话, 社会性别问题, 情感支持, 真实身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

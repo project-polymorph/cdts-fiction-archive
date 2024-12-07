@@ -7,7 +7,7 @@ TXT 下载: [[附身]_朽木雕花（8）.doc]([附身]_朽木雕花（8）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及性别转变和附身主题的小说，包含描述角色郭俊廷附身于一位名为陈芷菡的女性身上的经历。故事开始时，郭俊廷因疼痛和记忆闪现而意识到自己已变成女性，内心经历着痛苦和挣扎。文件详细描写了他/她在新的身份中不得不应对的身体变化和随之而来的性冲突，包括与室友雪丽之间发生的暧昧和冲突，体现了性别认同和生理性别不一致之间的复杂关系。小说内容涉及强烈的性暗示和挑逗场景，揭示了人物间的冲突和欲望的交织。每一段描述都充满了生动细节，展示了在性别转换及其外部表现上的巨大反差。文中还提到了一些复杂情感和对身份的追寻，这使得整个故事不仅是性转的表面剧情，更是对自我认识和个人探索的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_朽木雕花（8）.doc]([附身]_朽木雕花（8）.doc)
 | Size            | 45568 bytes                           |
 | MD5             | de434110ad2bd584ba1003308a0e84f0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性别转换, 跨性别, 性幻想, 女生, 校园生活, 情感冲突, 自我探索, 禁忌关系, 性别角色, 强烈欲望, 青春期困惑, 队友关系, 复杂心理, 自我认同, 性别认同, 性冲突, 变装, 伪娘, 男娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

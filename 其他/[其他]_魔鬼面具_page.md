@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魔鬼面具.doc]([其他]_魔鬼面具.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《魔鬼面具》讲述了一个名为陈东祝的角色经历的一场突如其来的车祸，随后不知为何被转移到了一个神秘的世界。在那里，他遇到了一位奄奄一息的老人，老人声称拥有重宝，并请求陈东祝帮他逃进森林。故事中描绘了苍茫的山林和持有神秘力量的面具，陈东祝在帮助老人的过程中，发现自己卷入了一场意外的命运轮回。文中充满了奇幻的战斗场面，角色的性别变化、爱情和权力的斗争，以及最终走向不可逆转的悲剧。此外，故事的最后一部分渗透了色情元素，陈东祝与一名乡村女性的关系逐渐升级，形成了复杂而又紧张的情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魔鬼面具.doc]([其他]_魔鬼面具.doc)
 | Size            | 74240 bytes                           |
 | MD5             | a1ecff273e4b4f515e9f246bef113661                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别转换, 魔法, 奇幻冒险, 跨性别, 爱情, 转生, 黑暗元素, 命运冲突, 穿越, 变身, 淫荡, 多人关系, 强奸, 药物, 异世界, 血腥                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

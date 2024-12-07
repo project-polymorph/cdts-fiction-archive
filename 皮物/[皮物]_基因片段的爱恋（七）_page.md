@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_基因片段的爱恋（七）.doc]([皮物]_基因片段�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《基因片段的爱恋（七）》讲述了一个关于复活与性别转换的故事。故事设定在实验室中，主要人物琳绯与古小虫合作展开了一项关于复活汪婷的实验。在实验过程中，琳绯通过注射病毒来实现汪婷的复活并试图恢复她的意识，古小虫则是作为实验试体，与汪婷的意识进行同步。情节中充满了对性别认同的探讨和角色间情感的复杂交织，展现了在科技与情感之间的两难选择。故事深入探讨了自我认知、拯救与牺牲的主题，尤其在汪婷的意识空间中，古小虫为了救汪婷感到愧疚与自责，并展示出他对汪婷的深厚情感。最终，汪婷在古小虫的帮助下醒来，重归现实。该文本涉及的神秘和科学元素融入了情感冲突，并在阴暗的实验室背景下展现了人性的光辉。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_基因片段的爱恋（七）.doc]([皮物]_基因片段�
 | Size            | 33792 bytes                           |
 | MD5             | adf28412816114be5ad8c17244b09b75                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 复活, 实验室, 意识同步, 情感恢复, 科技与人性, 自我认知, 牺牲与救赎, 二次元, 伪娘, 变身, 强烈情感, 探索自我, 悲剧与希望, 青春烦恼                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

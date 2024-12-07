@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第二十三章.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了克里米亚光复后的紧张局势，女王艾琳西娅在战争还未结束的情况下并未筹备加冕，而是继续进行对外征战的准备。塔尼丝等人随后返回贝格尼奥，向萨娜姬汇报情况并请求出兵稳固局势。艾克团长接到女王召见，收到十万金币的赏金并表达谢意的同时，释出对国家重建的支持。在与老友弗尔卡的对话中，艾克得知父亲的过去及面临的危险，青铜纹章的秘密也逐渐浮现出来——它是封印邪神的容器，承载了历史上巨大的口碑与悲剧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第二十三章.docx]
 | Size            | 19044 bytes                           |
 | MD5             | 316f48f2d1b5e8fb96ba8ecec14000ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 克里米亚双重身份, 青铜纹章, 邪神封印, 剑术训练, 古雷尔佣兵团, 心理冲突, 战争后的重建, 人物之间的忠诚与信任, 父子之情, 克里米亚王国, 背叛与救赎, 历史悲剧, 女性形象, 情感纠葛, 英雄旅途, 冒险与探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

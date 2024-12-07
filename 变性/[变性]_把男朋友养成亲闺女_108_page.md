@@ -7,7 +7,7 @@ TXT 下载: [[变性]_把男朋友养成亲闺女_108.docx]([变性]_把男朋�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说的内容围绕一个名为贝丽的角色展开。故事中贝丽经历了一种梦境般的性别认同和自我探索过程。起初，她在梦中看到自己变身为一个年轻的女性，周围有多位女性角色对她进行言语上的调教和引导。贝丽逐渐被迫接受了她作为“乖乖女”的角色，接受指令，甚至回应性的要求。这一过程充满了对她内心深处的挣扎与矛盾。故事描绘了她被迫屈从于他人期望的场景，例如：“我是个乖乖女，快乐又骄傲。”当贝丽意识到这种角色的压迫时，她的性别认同再次被挑战，梦境的环境也伴随着她的内心变化而变幻。同时，作品也涉及了性和敏感场景，包括贝丽的情感困惑和自我认同的冲突。整体来看，这是一部探索个人性别认同与性的复杂关系的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_把男朋友养成亲闺女_108.docx]([变性]_把男朋�
 | Size            | 22705 bytes                           |
 | MD5             | 17a79fc68fd9dd4d0d6bf91f1d383983                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 梦想与现实的冲突, 性别认同, 乖乖女角色, 自我探索, 心理斗争, 调教, 性别转换, 跨性别, 女性化, 同性恋, 性别角色, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

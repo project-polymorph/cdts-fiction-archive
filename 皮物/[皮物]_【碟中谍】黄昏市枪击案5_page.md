@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【碟中谍】黄昏市枪击案5.doc]([皮物]_【碟中
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《黄昏市枪击案5》的部分内容，属于伪娘 TS 变身与跨性别相关小说，描绘了一个特工W的故事。在这个情节中，特工W在面临暗杀威胁的情况下，使用了催眠术和复杂的变身手段，通过伪装来逃避敌人的追捕。故事中有大量涉及催眠、变身、性别转换的情节，例如特工W催眠了一位年轻男子，并逐步进行身体的变化，以便于掩盖自己的身份。通过浓厚的情色描写，展现了特工W在变身过程中和年轻男子之间的亲密互动，包括使用人皮衣和粘合剂进行身体改造的细节。这部分文本也提到了一些限制级的元素，包含了较为露骨和淫荡的语言，为了符合仓库的主题，内容表现出一定的性暗示和身体变换。总体而言，该段故事以警匪、谍战为背景，混合了变身与性别认同的复杂情感和心理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【碟中谍】黄昏市枪击案5.doc]([皮物]_【碟中
 | Size            | 36864 bytes                           |
 | MD5             | ccecc8cb8888adc05d4dd24844ed436c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | mooncd                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 特工, 变身, 催眠, 伪娘, 跨性别, 隐形特工组, 情色, 枪击案, 变装, 自我认知, 性别认同, 强迫, 人皮衣, 青春, 自我探索, 危险游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

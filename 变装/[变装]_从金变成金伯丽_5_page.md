@@ -7,7 +7,7 @@ TXT 下载: [[变装]_从金变成金伯丽_5.docx]([变装]_从金变成金伯�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说档案中的一部分，章节来自于小说《从金变成金伯丽》第五章，讲述了主角金与他的姐姐凯伦及朋友斯科特之间的互动。开头描绘了金与凯伦欣赏浪漫喜剧时，凯伦接到斯科特的电话，产生了微妙的情感波动。金在电话中意外地被斯科特邀请去看篮球赛，随着故事的发展，金被迫继续扮演他的女性角色金伯丽，甚至在姐姐的劝说下，要精心打扮去约会。这一章节通过细致描写展现了主角在性别角色扮演中的挣扎与自我认同，同时也探讨了诸如姐妹之间的亲情与社会期待对个人选择的影响。最后，金在为即将到来的约会准备服装时，充满了对自己身份的困惑与期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_从金变成金伯丽_5.docx]([变装]_从金变成金伯�
 | Size            | 28115 bytes                           |
 | MD5             | 7a15970496d2ae3cc2dcb5f81291568a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 约会, 姐妹情, 性别认同, 角色扮演, 篮球赛, 青春期困惑, 自我探索, 浪漫喜剧, 都市生活, 情感冲突, 社会期待, 时尚搭配, 恋爱关系, 性别表达, 女装, 情感交流                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

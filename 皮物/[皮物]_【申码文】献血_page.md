@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文】献血.doc]([皮物]_【申码文】献血.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《献血》讲述了张翔在一次献血后昏迷，醒来发现自己身处一间诡异的房间，四周环境简陋且阴暗，只有一个铁闸门和一个小洞口。他感到极度困惑，不记得自己是如何来到这里的。张翔推测自己可能被绑架，企图通过呼喊寻求帮助但无果。在无奈之下，他开始检查房间，发现了一件看似非常诡异的人皮衣，内心产生了强烈的恐慌与疑虑。接下来，他尝试穿上人皮衣，希望能够借此逃离这个密室。整体文中不仅设置了悬疑的氛围，还涉及了性别转变与身份认同等主题，张翔面临着身体和心理的双重考验，而人皮衣的出现无疑进一步增加了情节的复杂性与危险性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文】献血.doc]([皮物]_【申码文】献血.
 | Size            | 56320 bytes                           |
 | MD5             | db8984de9ed08db3c0757fc019267e98                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 悬疑, 跨性别, 人皮衣, 密室逃脱, 自我认同, 心理惊悚, 性别转换, 社会实验, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

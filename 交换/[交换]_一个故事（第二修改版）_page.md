@@ -7,7 +7,7 @@ TXT 下载: [[交换]_一个故事（第二修改版）.docx]([交换]_一个故
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个跨性别主题的故事，叙述了一个年轻男性马克在酒吧邂逅一位美丽女性后的神秘经历。马克在与她共度一夜后，醒来发现自己身体发生了翻天覆地的变化，乳房的出现和阳具的消失，让他开始了新的生活，变成了女性凯特琳。故事深入探讨了身份转换后所面临的心理冲突和社会孤立，凯特琳努力向周围的人说明自己的真实身份，却被亲朋好友认为是精神错乱，遭遇了工作和经济上的困境。在经历了痛苦的自我认知与身体的暴力后，凯特琳开始接受自己变成女人的事实，并谋求生存之道。文字中细腻描写了角色的情感与身体变化，以及对新身份的探索和接受过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_一个故事（第二修改版）.docx]([交换]_一个故
 | Size            | 21671 bytes                           |
 | MD5             | 11e5c85a44ad63f05195c229e011fc93                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性转, 自我认知, 心理冲突, 社会孤立, 魔法, 酒吧邂逅, 身份转换, 女性角色, 生存困境, 情感体验, 庇护所寻求, 对抗与接受, 逆转人生, 性别角色, 身体认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

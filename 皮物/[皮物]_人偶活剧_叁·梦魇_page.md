@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人偶活剧_叁·梦魇.docx]([皮物]_人偶活剧_叁·
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《人偶活剧_叁·梦魇》是一篇描绘紧张氛围与心理挣扎的小说片段。在故事中，主人公抱着神秘的东西，急匆匆地奔跑，似乎在逃避某个恐怖的威胁。随着夜幕降临，周围的黑暗增强了恐惧感，主人公内心充满不安与抗争。他的回家之路充满了不确定性和压迫感，虽然明知即将面对困境，却仍然对家有着不切实际的信任。路途上，主人公遇到了一个诡异的小丑，后者似乎在用枪威胁主人公，产生了对抗与崩溃的双重矛盾。作者通过紧凑的叙述展现了角色的焦虑、恐惧与无法摆脱的命运，给人留下了深刻的印象。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人偶活剧_叁·梦魇.docx]([皮物]_人偶活剧_叁·
 | Size            | 30813 bytes                           |
 | MD5             | 3b64cd1f103c488bada76226be86e8eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 惊悚, 心理恐惧, 小丑, 逃跑, 夜晚, 紧张, 自我认知, 未知危险, 神秘物品, 黑暗氛围, 角色心理, 悬念, 恐惧心理, 都市传说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

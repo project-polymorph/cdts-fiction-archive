@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_艾尼希亚战记（七+八+九）.doc]([皮物]_艾尼�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《艾尼希亚战记》的第七、八、九章，内容围绕角色凡妮雅与碧姬的对话，以及她们与魔王伊勒的交流展开。女王莱雅在城堡的庭院中种植常青藤，试图掩盖干涸的井，井的存在成了她们对命运和力量讨论的背景。故事探讨了命运与力量之间的关系，其中伊勒以凡妮雅的皮囊与人类世界进行接触，借此吸收力量。凡妮雅在与碧姬的对话中提到命运的规则与魔族的力量，最终在一系列复杂的交流后，她的皮囊被伊勒一并抛弃，象征着她生命形式的变化。文中描写了诸多角色的心理变化与内心冲突，同时也暗示了关于生与死、权力与自由的深层讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_艾尼希亚战记（七+八+九）.doc]([皮物]_艾尼�
 | Size            | 75776 bytes                           |
 | MD5             | 7a06f92990a8f68c070bf9710a61d667                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 跨性别, 变身, 权力斗争, 性别认同, 命运, 自我探索, 魔王, 生与死, 异世界, 圣器, 角色变化, 皮囊, 社会规则, 角色心理, 二次元小说, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

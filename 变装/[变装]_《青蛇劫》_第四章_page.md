@@ -7,7 +7,7 @@ TXT 下载: [[变装]_《青蛇劫》_第四章.doc]([变装]_《青蛇劫》_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《青蛇劫》的第四章，主要围绕女主角小青为了赢得白素贞的芳心而选择女装的故事情节展开。小青与白素贞设定了一个‘假婚’计策，希望二妖可以远离人间，双宿双飞。在这个章节中，小青，在祭扫父母坟茔的许仙身边，内心充满矛盾与不安，一方面需要女装以完成计划，另一方面又担心自己的身份暴露。小青对女装的感受，通过细腻的描写，展现出其既有的羞耻与兴奋。在与许仙的偶遇中，二妖的计划逐渐展开，犹如一场追逐美好与荣誉的奇幻旅程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_《青蛇劫》_第四章.doc]([变装]_《青蛇劫》_�
 | Size            | 46080 bytes                           |
 | MD5             | e9a6bae8ac03b210bd270ac089567785                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 恋爱, 白素贞, 小青, 祭扫, 西湖, 偶遇, 清明, 妖怪, 强迫, 羞耻体验, 爱情故事, 双宿双飞, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

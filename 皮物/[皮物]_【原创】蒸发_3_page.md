@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【原创】蒸发_3.doc]([皮物]_【原创】蒸发_3.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘/变身小说的第三章，描述了一位男主角在变身之后的生活与思想冲突。故事开始于男主角经历了一次意外的沉睡，醒来后发现自己处于一个女性的身体里。他对自己所经历的感受感到复杂与羞愧，在卫生间内进行清洗以避免外界的影响。男主角还试图在清理现场的时候保持神秘，避免被他人发现其真实身份。文中含有许多对身体感触的细致描写，展现了男主在适应新身份的过程中的心理变化。随着故事的展开，男主还计划着一次重要的任务，涉及与黑道的交易，显示出其内心的矛盾与对自我认同的探索。整段文字围绕着变身、性别认同与角色扮演的主题展开，表现出浓厚的幻想色彩和Erotic元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【原创】蒸发_3.doc]([皮物]_【原创】蒸发_3.do
 | Size            | 36864 bytes                           |
 | MD5             | 251039856559cb8308ff58b7835130c0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 伪娘, 自我认同, 跨性别, 幻想, 二次元, 变嫁, 强烈刺激, 人皮, 生理感受, 任务交易, 心理冲突, 情感纠葛, 变装, 黑道, 倾向于色情, 实验室, 心理探索, 特工, 暗黑元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

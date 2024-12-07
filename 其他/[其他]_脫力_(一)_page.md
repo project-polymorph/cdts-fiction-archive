@@ -7,7 +7,7 @@ TXT 下载: [[其他]_脫力_(一).docx]([其他]_脫力_(一).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘角色性别认同与自我探索的跨性别相关小说，主要讲述了角色兆文在日常生活中经历的一些情感波动与心理变化。故事开篇描述了兆文在疲惫一天后，走在河边的小路上，偶然遇见一个细腿女孩，深深吸引了他的眼球。他在接下来的几天里不断期待再次见到她，却未能如愿。随着情节的发展，兆文的心理状态逐渐受到影响，影响了他在球队的表现。故事结合了校园背景与奇幻元素，包含了一些性别认同、幻想与青涩恋情的主题，使其成为对性别角色和认同探讨的一种文学表达。故事的后段更涉及到一些奇特事件，例如兆文意外获得一个闪烁着LED灯的控制器，并与神秘少女的接触，暗示着将来的进一步发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_脫力_(一).docx]([其他]_脫力_(一).docx)
 | Size            | 17255 bytes                           |
 | MD5             | 9049a4116f3d0d43f3646f43a97eaea2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 自我探索, 校园生活, 奇幻, 运动, 暗恋, 孤独感, 奇遇, 性转, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

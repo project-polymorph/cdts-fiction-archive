@@ -7,7 +7,7 @@ TXT 下载: [[变性]_你失去了自己的人生！.doc]([变性]_你失去了�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品《你失去了自己的人生！》由作者Dr. Otto创作，讲述了一个充满科幻元素的性转故事。故事的主线围绕一个名叫迪尔顿·多利的科学家，他发明了一种可以提取和转化人类精华的设备——精华提取器（E.E.）。尽管他希望通过该设备欺骗死亡，将自己的生命精华保存下来，但在多次尝试失败后，他决定寻找他人的DNA以实现该设备的功能。在一次偶然的机会下，贝蒂·库铂来到他的实验室，并请求迪尔顿帮她洗衣服。结果，迪尔顿在处理贝蒂的内衣时，意外启动了自己的性转过程，最终失去了男性身份，成为了贝蒂，并意识到她的记忆也正在被取代。故事在两位“贝蒂”的对峙中结束，带有强烈的心理变化与性别认同的探索。作品通过插科打诨的日常情节与科幻奇幻的转变，探讨了个人身份、性别认同和自我认知等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_你失去了自己的人生！.doc]([变性]_你失去了�
 | Size            | 33792 bytes                           |
 | MD5             | 7998538f08dcaf83a9f5e5a6718a01ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Dr. Otto                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我认知, 科学幻想, 精华提取, 男女身份交换, 记忆转移, 心理冲突, 实验室故事, 日常生活的超现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

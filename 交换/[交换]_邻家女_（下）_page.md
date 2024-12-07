@@ -7,7 +7,7 @@ TXT 下载: [[交换]_邻家女_（下）.docx]([交换]_邻家女_（下）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了一名年轻男性因某种原因变身为女性，并在拥有女性身体后经历的情感和身体的探索。在故事中，主角最初对自己新的身体感到惊讶和困惑，随即开始尝试与这个新身份互动。他描绘了对新身体的欣赏，例如“上帝啊，她...我真美”，并在镜子前观察自己，感叹身体的变化。随着情节的发展，主角进行了一系列关于自我探索的活动，包括锻炼，体验新身份的乐趣，最终感受到同时伴随而来的愉悦与羞涩。此故事中涉及性别认同、自我探索、身体变化等主题，描绘了在性别转换过程中的心理冲突和情感波动。由于内容涉及一定的成人主题，涉及性暗示和生理感受，读者需以科学、客观的态度进行理解和研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_邻家女_（下）.docx]([交换]_邻家女_（下）.doc
 | Size            | 48082 bytes                           |
 | MD5             | 809af7c55bb8f1a2f6d733776fa8965a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 身体探索, 变身, 性别认同, 自我探索, 青春, 二次元小说, 情感, 心理冲突, 性暗示, 成长, 运动, 女性身体, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

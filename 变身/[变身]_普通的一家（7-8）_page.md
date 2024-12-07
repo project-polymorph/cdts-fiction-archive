@@ -7,7 +7,7 @@ TXT 下载: [[变身]_普通的一家（7-8）.doc]([变身]_普通的一家（7
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一家人的变身经历，主要描绘了他们在墨克大学实验室进行性别转换相关测试的过程。故事围绕着伦诺克斯一家，讲述了曼蒂、汉娜、加勒特和肯德尔的心理变化与身体转变的复杂情感。各个角色在等待接受心理医生和专家的面谈期间，表现出紧张与期待。特别是汉娜希望能恢复成年男性身份，与加勒特分享了之前的经历。然而，加勒特意识到事情可能不会那么简单。故事深入探讨了个体在面对性别身份转变时的心理冲突，而医生们则在调查过程中发现了一些不寻常的案例背景。文件中不仅有角色的内心独白和互动，还涉及专业医生对变身案件的讨论，以及对相关实验的规章和伦理的严肃思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_普通的一家（7-8）.doc]([变身]_普通的一家（7
 | Size            | 51712 bytes                           |
 | MD5             | 271cf5335e1ea1566b2094728f876d88                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 心理医生, 家庭关系, 自我认知, 社会接受, 性别认同, 实验室, 变性, 个体心理, 青春期经历, 家庭支持, 情感冲突, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_面具女友，后记完本.doc]([其他]_面具女友，�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以性别转换和家庭关系为主题的小说，名为《面具女友》。故事围绕一位角色洛冰与另两位女性角色杨梅和月儿之间错综复杂的情感纠葛。故事开篇描述了洛冰和杨梅一起为女儿月儿准备早餐的温馨场景，但很快转向三人间的身份问题，洛冰希望被称作苏眉，试图从过去的阴影中解脱，而杨梅则因家庭的秘密感到愧疚。随着情节的发展，三人逐渐面对彼此的隐瞒与身份的错位。在复杂的情感与身份认同冲突中，女儿月儿逐步揭开了家庭的背负，从而使每个人在情感的深渊中开始寻找解脱与理解。文件中涉及性别认同与自我探索的主题，涉及情感挣扎和也包含了部分限制级内容，如涉及性别变换的情节和隐私讨论，具有一定的敏感性和挑战性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_面具女友，后记完本.doc]([其他]_面具女友，�
 | Size            | 56320 bytes                           |
 | MD5             | 1e502d454f0855714692cbb33204dfa1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 情感纠葛, 家庭关系, 变身, 跨性别, 自我探索, 百合, 面具角色, 隐藏身份, 情感冲突, 青春成长, 代际沟通, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

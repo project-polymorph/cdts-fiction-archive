@@ -7,7 +7,7 @@ TXT 下载: [[附身]_破碎拼圖（五）.docx]([附身]_破碎拼圖（五）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别小说《破碎拼图》的第五章，主要聚焦于叙述者与主角颜嘉宇（绰号阿怪）之间的关系，以及叙述者所具有的独特能力——拼图能力。该能力让叙述者可以观察他人内心的拼图状态，拼图代表着每个人的愿望和人生体验。作者在章节中探讨了不同人所需的拼图碎片是如何决定他们的生活状态，包括重症儿童的生命尽头、每日忙碌的老奶奶、任性千金小姐等角色。叙述者思考了拼图的完整与否如何影响个人的生活。他还提到自己无法对所有的拼图碎片施加影响，只有在特定情况下才能收集那些“无主”的拼图碎片。此外，章节中还涉及到叙述者对另一个角色白倩珊的讨论，反映了角色之间复杂的心理关系和自我认知的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_破碎拼圖（五）.docx]([附身]_破碎拼圖（五）
 | Size            | 21494 bytes                           |
 | MD5             | f87fa96a89d81e9b6e41ccac07dc5471                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 自我认同, 拼图能力, 性别转换, 人生探讨, 自我探索, 幻想, 心理戏, 角色关系, 情感纠葛, 成长, 多元性别, 二次元, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

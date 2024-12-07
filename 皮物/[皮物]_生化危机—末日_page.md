@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_生化危机—末日.docx]([皮物]_生化危机—末日
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部以生化危机为背景的跨性别变身小说，故事围绕爱丽丝和她的团队在安布雷拉公司的生物工程实验室 "蜂巢" 中进行的一场生死冒险。随着未知病毒的爆发，实验室被封闭，救援小组必须在未知的危机中对抗各种敌人和生物变异的挑战。文中详细描绘了角色们在绝境中的挣扎和斗争，特别是通过爱丽丝的超能能力，她的战斗和生存变得异常艰难。参与者们的身体与身份在这个过程中经历了不断的变化，面临着自我认同和生理性别的困扰。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_生化危机—末日.docx]([皮物]_生化危机—末日
 | Size            | 22647 bytes                           |
 | MD5             | cd520786f98432436d28c40a1f4e6387                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 生化危机, 跨性别, 变身, 恐怖, 自我认同, 生物实验, 安布雷拉, 冒险, 超能力, 病毒爆发, 角色转换, 心理斗争, 奇幻, 末日, 少女战斗, 情感探索, 伦理冲突, 权力斗争, 角色发展, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

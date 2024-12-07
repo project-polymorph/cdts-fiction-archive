@@ -7,7 +7,7 @@ TXT 下载: [[交换]_玄天妖女录.docx]([交换]_玄天妖女录.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文本档案《玄天妖女录》设定在一个名为玄天大陆的世界，正邪力量对立，正道四派以玄天宗为首，致力于铲除邪道三门的威胁。主要讲述了当代正道弟子李子秋英俊帅气，以正义为使命，为了破坏天魔宗的邪恶典礼，毅然决然魂入天魔女念奴娇的体内，成为众人唾弃的妖女。小说情节紧凑，描述了第一次战斗的壮烈与李子秋的内心挣扎，当他面对即将斩杀的敌人时，经历了正道与邪道之间的错位与抉择。作品深入探讨了性别认同与自我探索的主题，尤其在换身后李子秋所经历的心理变化，以及在解救与抉择之间的两难，彰显出复杂的情感与道德观念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_玄天妖女录.docx]([交换]_玄天妖女录.docx)
 | Size            | 76335 bytes                           |
 | MD5             | 246c22d3b7bf789e9b65dd839be3ce1b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 正邪对立, 魔法, 侠士, 修真, 角色扮演, 内心挣扎, 自我探索, 性别认同, 天魔女, 武侠, 玄幻, 二次元, 强奸, 爱情, 魔法少女, 反转, 伦理, 潜规则                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

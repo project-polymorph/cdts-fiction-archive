@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_爱之深1~4(申码文).doc]([皮物]_爱之深1~4(申码�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于复杂关系与生物科技实验的小说文本。故事围绕主角与其亡妻婕的家庭背景展开，涉及到情感纠葛与伦理冲突。主角在妻子去世后出于一系列情感纠葛，与助手菲丽发展出暧昧关系，并揭示了他与好友陈志的深厚友情。文件中含有对死亡的探讨、对科技伦理的反思，以及对主角内心挣扎的描绘。一个显著的情节为主角在处理其妻的尸体后，与好友共同开发一项生物技术，以改变身份、伪装成死亡的妻子，并引发一连串的伦理与心理危机。文本中包含多处细腻的情感描写和对人物内心的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_爱之深1~4(申码文).doc]([皮物]_爱之深1~4(申码�
 | Size            | 60416 bytes                           |
 | MD5             | 0a895d4daa7e686cfaee868feb354c58                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 生物科技, 伦理冲突, 性别认同, 伪装, 死亡, 情感纠葛, 自我探索, 复杂关系, 实验室生活, 角色心理, 推理, 科技幻想, 情妇, 兄弟情谊, 大尺度, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

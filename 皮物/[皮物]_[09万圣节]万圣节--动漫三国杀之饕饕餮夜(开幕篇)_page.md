@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[09万圣节]万圣节--动漫三国杀之饕饕餮夜(开
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇名为《万圣节--动漫三国杀之饕饕餮夜》的小说开幕篇，讲述了一位名叫叶的资深宅男在一次卡牌游戏中意外收到来自一个叫“地狱公爵”的神秘人物的邀请函，邀请他参加于万圣节举办的私人大赛。比赛奖品丰厚，包括1000万美金和一颗价值不菲的钻石。叶因此穿越到日本，遇到了许多异国参赛者和身穿女仆装的女佣。文中描写了他的心理感受、游戏经历以及对即将到来的比赛的期待与不安。文章中包含对日漫文化元素的引入，如角色扮演、游戏背景等，同时采用了第一人称视角，使读者感受到主角的兴奋与紧张。这些情节不仅涉及游戏竞技的对抗，还融入了神秘和奇幻的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[09万圣节]万圣节--动漫三国杀之饕饕餮夜(开
 | Size            | 38400 bytes                           |
 | MD5             | 8f1556cc9ac7e8df5cd43e98fde96792                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 如梦幻泡影                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 动漫, 万圣节, 三国杀, 跨性别, 变身, 游戏竞技, 魔法, 竞技比赛, 角色扮演, 幻想, 女佣, 私密聚会, 扑克游戏, Fantasy, 偶像文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

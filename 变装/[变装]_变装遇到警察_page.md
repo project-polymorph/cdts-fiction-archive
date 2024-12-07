@@ -7,7 +7,7 @@ TXT 下载: [[变装]_变装遇到警察.doc]([变装]_变装遇到警察.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件讲述了一名男子对女装产生好奇的经历和变装的计划。故事的主人公是一个身高1米7的男性，他因为对女性的好奇和自己的审美，决定尝试变装体验。他回顾自己成长过程中对女性装扮的向往，尤其是对女性穿着高跟鞋、繁复服饰的羡慕。他描述了通过网络结识朋友并开始尝试变装，购买女装和化妆品的心路历程。随着故事的发展，他详细列出自己准备的变装装备，包括假发、内衣、化妆品等，并分享了化妆、穿衣和变装过程中的感受。最后，他计划在上海世博会期间实施自己的变装梦想，但在执行过程中也充满了紧张与期待。本文探讨了性别认同与角色扮演的心理过程，以及社会对性别角色的认知和接受度的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_变装遇到警察.doc]([变装]_变装遇到警察.doc)
 | Size            | 61952 bytes                           |
 | MD5             | f071745fee117d42ca3b2d5031ac2bb8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 自我探索, 二次元, 女装, 变身, 幻想, 社会认知, 角色扮演, 性转, 心理斗争, 性别曲线, 世博会, 都市生活, 性别表达                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

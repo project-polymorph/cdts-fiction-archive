@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼　９.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说《小龙女狂想曲》的一部分，讲述了一段关于性别变换、角色认同和相互救助的故事。在这一章节中，描述了几位女犬由桃树阵中向外奔跑的情景，天色渐暗，气氛紧张。她们无意中卷入了一场对一位母女的施暴事件。女犬们出于正义感尽管面临自身的尴尬和身份困扰，依然勇敢选择替母女阻止施暴者。情节中包含了复杂的角色互动与心理挣扎，例如女犬们在面临暴力时的自我认知与责任感的冲突，以及对施暴者的一系列反应。心理描写细腻，展现了角色在极端情况下的勇气与果断。文中不断提到角色们的自身状态和内心斗争，通过这个事件探讨了性别认同、自我价值以及对弱势群体的保护等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼　９.doc]([变身
 | Size            | 45568 bytes                           |
 | MD5             | 13c5201c80e99c81a80f97c3060e1d81                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 性别认同, 正义, 暴力, 女性力量, 角色认同, 情感挣扎, 自我探索, 奇幻, 侠义, 爱与痛苦, 救赎, 二次元, 魔法少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

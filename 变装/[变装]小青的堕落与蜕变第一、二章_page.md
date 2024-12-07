@@ -7,7 +7,7 @@ TXT 下载: [[变装]小青的堕落与蜕变第一、二章.doc]([变装]小青
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《小青的堕落与蜕变》第一、二章讲述了白素贞与青蛇之间的故事，充满了奇幻与性别转换的元素。开篇描述了白素贞，作为千年修行的白蛇，她在观音菩萨面前求道，期望能够飞升，然而却因未报恩情而被阻。她回忆起曾经救过她的小牧童，决心去西湖寻找恩人。在她的冒险途中，遇到了青蛇，一个变成妖王的玄青大蟒，故事中充满了权力与欲望的斗争。白素贞巧妙应对青蛇的挑战，二者性别与身份的冲突以及相互吸引的情感悄然展开，使得小说充满了性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]小青的堕落与蜕变第一、二章.doc]([变装]小青
 | Size            | 52224 bytes                           |
 | MD5             | 882249835c1bc8c882e84e5e0ffd548a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 奇幻, 性别认同, 修炼, 妖王, 人妖之恋, 西湖, 自我探索, 灵异, 玄幻, 白蛇传, 青蛇, 斗法, 恩情, 爱情, 情感冲突, 成仙                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

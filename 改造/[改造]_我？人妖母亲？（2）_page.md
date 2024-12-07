@@ -7,7 +7,7 @@ TXT 下载: [[改造]_我？人妖母亲？（2）.docx]([改造]_我？人妖�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说，标题为《我？人妖母亲？》，主要围绕着一个名叫陈娟的女性角色展开。故事的情节始于她和邻居柳蕾的亲密关系，逐渐深入到陈娟与她的儿子陈威以及柳蕾的女儿林月之间的互动。小说描绘了陈娟在日常生活中与邻居相处的情景，包括朋友间的探访、学习以及情感交流等。尤其提到陈娟与柳蕾在一起逛街和挑选衣物的细节，展现了她们的密切关系及相互依赖。文中也提及了陈娟的魅力与成熟魅力，尤其是在穿着上更是引起他人关注。此外，故事还涉及到陈娟与陈威之间的母子情，也暗示了更为复杂的人际关系和潜在的情感纠葛。内容中包含一些较为露骨的描写，这些内容均为文学创作，并强调应当客观理解和研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_我？人妖母亲？（2）.docx]([改造]_我？人妖�
 | Size            | 27092 bytes                           |
 | MD5             | f03a4cd8f013894c00d26c6d5005626b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 人妖母亲, 邻居关系, 女性魅力, 母子情, 情感交流, 日常生活, 逛街购物, 陈娟, 柳蕾, 家庭关系, 性别认同, 成熟女人, 邻里情谊, 二次元小说, TS小说, 自我探索, 魔法, 奇幻, 虚拟现实, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

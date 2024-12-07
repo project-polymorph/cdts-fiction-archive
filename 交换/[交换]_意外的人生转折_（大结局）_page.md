@@ -7,7 +7,9 @@ TXT 下载: [[交换]_意外的人生转折_（大结局）.doc]([交换]_意外
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描述角色性别转换的小说的章节，主要讲述了一位变性人徐婉柔的内心交战与适应过程。故事围绕着她与另一名男性角色之间的复杂关系展开。在经历了性别转换后，徐婉柔面临着自我认同、家庭关系和情感纠葛的挑战。她的变化引发了父母特别是她父亲的情感反应，试图通过外表与内心的改变来赢得父亲的认同与接受。在情节中，她与男性的互动呈现出一种悖论——虽然开始时感到羞耻与反感，随着时间的推移，她却在无形中接受了女性的身份并享受与他的亲密接触。
+
+在大的情节中，她对于自我形象的重建以及对身体的新感知是一个重要议题，值得注意的是，文中描述了她对化妆与打扮的喜爱，似乎不仅仅是为了掩饰，而逐渐演变为一种自我认可。同时，本文充满了性暗示，通过对亲密行为的描写展现了她在性别认同上的矛盾与接受，特别是一些高潮的情节，突出了她内心的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_意外的人生转折_（大结局）.doc]([交换]_意外
 | Size            | 54272 bytes                           |
 | MD5             | a7f0d7ce8318baae3153efa5ab205779                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变性, 自我认同, 情感纠葛, 家庭关系, 化妆, 性别认同, 亲密行为, 女性身份, 心理变化, 人物发展, 二次元, 跨性别, 性别角色, 社会接受, 身体意识, 性别冲突, 虚拟现实, 变态, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

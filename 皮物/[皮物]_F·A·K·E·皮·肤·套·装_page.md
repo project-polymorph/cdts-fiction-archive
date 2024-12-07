@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_F·A·K·E·皮·肤·套·装.docx]([皮物]_F·A·K·E·
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档名为《F·A·K·E·皮·肤·套·装》，叙述了一位主角在一次偶然的机会中获得了可以替换自己身体部位的假肢皮肤，文中详细描写了主角如何通过购买杂志获取不同的假肢，体验变身为女性的感受。故事围绕主角的自我探索和性别认同展开，含有对话、思绪以及感官体验的详细描写。文中提到的“优香的手臂”和“释由美子的脚”是两种不同的假肢，主角通过特定的程序来使用这些道具，感受到性别转换带来的身体与心理的双重变化。文本涉及深层的性别意识，暗示了主人公对于性别和身体认同的复杂关系，同时也穿插了一些带有性暗示的细节，展现了一种探索与发现的过程。总体来说，文档是一部涉及跨性别、变装和自我认同的小说，通过奇幻和现实结合的手法探讨性别的流动性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_F·A·K·E·皮·肤·套·装.docx]([皮物]_F·A·K·E·
 | Size            | 61337 bytes                           |
 | MD5             | 91c513df14fc5ac7aa5f239ee4494190                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 作  うさ吉，译  rockx3                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 跨性别, 性别认同, 变装角色, 自我探索, 伪娘, 男性视角, 奇幻故事, 性幻想, 心理变化, 反派角色, 成年人内容, 异性恋, 性欲, 幻想与现实, 奇幻元素, 身体认同, 丰富的感官体验, 文化和性别研究, 性别流动性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

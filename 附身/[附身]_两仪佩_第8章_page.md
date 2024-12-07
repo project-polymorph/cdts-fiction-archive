@@ -7,7 +7,7 @@ TXT 下载: [[附身]_两仪佩_第8章.docx]([附身]_两仪佩_第8章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为载体小说《两仪佩》第8章，主要描写了主角李梓在经历了一场意识转移后，面临的自我认同与身体认知的挑战。故事开头，李梓独自一人在房间里反思这一天所发生的事情，感到困惑和焦虑。她经历了与同学姜俊的亲密接触后，内心涌起不安的情绪，并逐渐意识到自己体内似乎有另一个意识存在。更令人紧张的是，她发现与自己身体相关的一切都变得越来越陌生。小说深刻探讨了性别身份、个人欲望和自我认知等主题，并融合了贴身的情感纠葛与灵异成分，令人思考的同时也带有一丝的紧张感。后续的剧情中，李梓和朋友乐欣的互动，构建了更加复杂的人际关系，展示了角色们在生活中的矛盾和成长。整章以李梓的心理挣扎和对自身身份的再探讨为主线，通过细腻的描绘让读者感受到角色的内心变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_两仪佩_第8章.docx]([附身]_两仪佩_第8章.docx)
 | Size            | 23852 bytes                           |
 | MD5             | 70f5adeab08b43a21a3cc7fa7a72aa48                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性别认同, 自我探索, 意识转移, 伪娘, 心理斗争, 青春校园, 情感纠葛, 灵异, 反转剧情, 角色成长, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_28.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为贝丽的年轻女孩的成长故事，描述了她的家庭生活、与父母和姐妹之间的互动，以及她在变身和性别认同方面的经历。故事以贝丽和她的父亲德里克与她的“母亲”阿曼达的日常生活为背景，展现了他们之间深厚的情感联系与家庭关系，尤其是德里克在照顾贝丽成长过程中的温情瞬间和挑战。情节中不仅有关于穿高跟鞋所带来的美丽与痛苦的讨论，还有关于贝丽日常生活的细致描写，比如与姐妹的相处与温暖的家庭聚会。在这段故事中，性别角色的模糊化与个体自我认同的探索是主要主题。此外，文件中还涉及到一些限制级内容，如亲密行为和性别转换的情节，这为贝丽的成长带来了更多复杂的情感和心理挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_28.doc]([改造]_把男朋友�
 | Size            | 45568 bytes                           |
 | MD5             | 7f6e53815e7a44f18f0d27b2c7b14618                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2021-04-13                                 |
+| Tags            | 伪娘, TS变身, 跨性别, 自我探索, 家庭关系, 年轻女孩, 成长故事, 高跟鞋, 父女情, 女性认同, 情感冲突, 亲密关系, 校园生活, 爱情, 日常生活, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

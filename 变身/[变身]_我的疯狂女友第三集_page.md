@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我的疯狂女友第三集.docx]([变身]_我的疯狂女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一本关于变身和穿越题材的小说，主要围绕男主角通过一种药物实现性别转变的故事展开。故事中，男主角在服用药物后，不仅获得智力的提升，也开始进行身体的改变与外貌的变身。这种药物的效果使他变得更加敏锐，能够快速处理复杂的思考和观察。同学小花变成了女主角应梓的室友，计划在学校获取男主角的信息并引出他。通过巧妙利用快递的情节，男主角成功进入黄老师的家，利用电击器让她失去意识，从而实施一系列的计划，包括伪装成黄雅馨。文中详细描绘了角色变身过程中的身体变化以及男主角对黄老师外表的欣赏，情节涉及性别认同和自我意识的转换，包含强烈的性暗示和成人内容，展示了围绕性别和认同的复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_我的疯狂女友第三集.docx]([变身]_我的疯狂女
 | Size            | 15090 bytes                           |
 | MD5             | 4f4c14d38ee94dac5c9906d8ed38134a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 性别转换, 跨性别, 性转, 伪娘, 强奸, 自我认同, 药物影响, 校园, 幻觉, 情感冲突, 成人内容, 性别扮演, 潜规则, 身体改造, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [和我在一生.docx](和我在一生.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《和我在一生》是关于一种奇幻的性别转换故事，描述了一位女性角色萧萧在遭遇绑架后，经历了复杂的身体与身份转变的过程。在故事开始时，萧萧收到了一个包裹，其中含有能够改变身体的贴片，逐渐陷入了一场围绕性别和欲望的斗争。她的身体被一个男性角色王小控制，并最终经历了性别转换。在变身后的过程中，王小不仅获得了萧萧的身体，同时也接纳了她的记忆和经历，使得他在她的身份中体验到新的感受和生活。文件中的内容描绘了变性带来的心理挣扎与自我认知的转变，探讨了性别身份的流动性与身体的感知过程。具体情节包括王小利用萧萧的身体，玩弄性别与欲望的暗面，以及逐步接受女性身份带来的变化和高潮体验。整部作品充满了奇幻、性感与颠覆的主题，涉及角色之间复杂的情感互动，具有一定的限制级内容，并且含有大量对性行为的详细描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [和我在一生.docx](和我在一生.docx)
 | Size            | 26826 bytes                           |
 | MD5             | 16539460eee36c45008b8e27623845b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 性转小说, 伪娘, 生死控制, 性欲探索, 性别认同, 自我认知, 幻想文学, 限制级内容, 调教, 强奸题材, 淫荡场景, 角色互换, 男性视角, 女性身体, 亲密关系, 情感挣扎, 夜晚的秘密, 二次元文化, 另类幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

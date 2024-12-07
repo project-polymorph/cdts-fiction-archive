@@ -7,7 +7,7 @@ TXT 下载: [[附身]_聚会（咱也收个费）.docx]([附身]_聚会（咱也
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一个关于网络聚会和身份认同的故事，角色依依在网络中以女性身份活动，但她的真实身份是一个男人。故事围绕她与群里朋友的互动展开，细腻地描绘了她在网络聚会的期待与内心的挣扎。依依收到邀请，先是拒绝参加聚会，却在一次聊天中透漏了对变身的幻想。当她遭遇一个陌生人的警告，最终下载了一个可以使她移魂的程序，导致她变成了一个叫koko的美女，并被迫参加聚会。故事中充满了对性别认同、身份转换的探讨与挑战，以及对美色与诱惑的描绘，展现了角色在新的身份下的自我发现与情感经历。内容涉及性暗示，含有一定的情感与生理间的冲突，同时引出对自我的反思和对他人认同的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_聚会（咱也收个费）.docx]([附身]_聚会（咱也
 | Size            | 19357 bytes                           |
 | MD5             | 4a572d00162ea261aa1c923c3be09fbd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 网络聚会, 变身, TSF, 自我探索, 虚拟身份, 性转, 心理冲突, 情感纠葛, 跨性别, 禁忌之恋, 诱惑, 角色扮演, 暗恋, 幻想, 身份危机                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_去好友家玩结果变成了好友小妹的小妹.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个关于性别转换的故事。故事的主角小力收到好友小刚的邀请，前往小刚家中玩耍。然而，他并不知道小刚邀请他过来是为了让他照顾小妹小萌。小刚因为去参加武道班，无法照顾小萌，只能把她托付给小力。小萌希望能够和小力一起玩耍，但小力专注于新游戏机，导致小萌有些失落。小萌于是提出了试穿她的衣服这个游戏，小力起初拒绝，但在小萌的坚持下最终同意。小力穿上小萌的连衣裙，却发现自己看起来意外可爱。随后的情节进一步演绎了小力在这个过程中逐渐的尴尬和羞耻感，特别是遭遇小刚回家的时候，形成了一种令人捧腹的局面。整个故事透过小力的视角，展现了性别身份的一种轻松而幽默的探讨，同时包含了一些羞耻和尴尬的成分，在轻松的情节中反映了性别转换的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_去好友家玩结果变成了好友小妹的小妹.doc]([
 | Size            | 34816 bytes                           |
 | MD5             | 2ca5984a51422b52790f270ffe0a406f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 轻松幽默, 性别认同, 自我探索, 戏谑, 同性恋, 冬季假期, 二次元, 青春, 游戏, 羞耻体验, 少年, 性别表达, 幻想故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【申码文搬运】兔女郎笔记本.doc]([变身]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一名普通高中生在购买了一本名为"兔女郎笔记本"的神秘笔记本后，经历了性别转变和身份认同的故事。在文中，笔记本的拥有者因书中的魔力而变成了一名兔女郎，其过程伴随着心理与生理的双重变化。故事通过不同的视角，揭示了主人公变身后的感受和对新身份的接受，以及由此引发的冲突和情感。在变身后，主人公对自己新身体的迷恋和渴望交配的冲动被深刻展现，同时也包含了对社会性的反思和性别身份的探讨。关键情节包括主角在穿上兔女郎服装后的自我认知变化，以及在学校中发生的性爱场景和对自身角色的适应。整体内容涉及强烈的性暗示和不适合未成年人观看的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【申码文搬运】兔女郎笔记本.doc]([变身]_【�
 | Size            | 39936 bytes                           |
 | MD5             | 875a77334f4e8f5fffd8583b1d72482b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 兔女郎, 跨性别, 自我认知, 第二性别, 二次元, 成人内容, 魔法, 幻想, 强烈性暗示, 角色扮演, 心理变化, 社会规范, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

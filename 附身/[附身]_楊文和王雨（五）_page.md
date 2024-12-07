@@ -7,7 +7,7 @@ TXT 下载: [[附身]_楊文和王雨（五）.docx]([附身]_楊文和王雨（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于王雨和杨文的情节，展现了王雨在变身后的生活状态以及她的心路历程。故事开头描写了王雨在刚沐浴后的情景，她在床上悠然自得，体会着自己新身体所带来的愉悦感。文本中提到她对过往的不安得到缓解，内心充满了对过去十年的憎恨。随后，故事转向她等待一个女子的到来，这个女子似乎对王雨的身份变化感到欣赏，并对杨文有着明显的渴望与期盼。通过细腻的描写，读者可以感受到王雨从过去束缚中的解放，以及她在新身份中的得意和期待。故事涉及了性别认同、身体控制、权力游戏以及女性之间的微妙关系等主题，也有明显的情色元素，展现了变身后王雨的肉体享受与精神渴望交织的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_楊文和王雨（五）.docx]([附身]_楊文和王雨（
 | Size            | 34954 bytes                           |
 | MD5             | 446f7ea6c6dc2a15299443cd47e8d94c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 自我认同, 身体探索, 权力游戏, 情感冲突, 女性关系, 情色, 两性描写, 内心挣扎, 情欲, 十年禁闭, 刺激                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

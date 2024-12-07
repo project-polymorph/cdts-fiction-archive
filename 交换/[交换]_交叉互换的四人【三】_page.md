@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交叉互换的四人【三】.docx]([交换]_交叉互换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部描绘性别转化和角色探索的小说，主要围绕江心怡的生活以及她面对的身体和心理变化展开。故事开始于江心怡为了工作而不得不穿上职业女性的OL制服，随着剧情发展，她逐渐体验到了作为女性的独特感受和内心挣扎。文件中的细节描写生动地展示了江心怡在工作场合中的不适与无奈，以及她对自己身体的重新认知。这种转变不仅仅体现在身体的变化，更引发了她对母爱、责任感的反思，同时她不得不应对来自同事的骚扰和难堪场景。小说深入探讨了自我认知与性别认同之间的复杂关系，充满了情感的挣扎与冲突，也折射出对社会角色的思考。在工作中，她还遇到了邓肯等同事，展现了职场女性经常遭遇的性别歧视问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交叉互换的四人【三】.docx]([交换]_交叉互换
 | Size            | 33720 bytes                           |
 | MD5             | d7a016b4db3fdab4944def41bf00e869                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转化, 身体认知, 职场故事, 女性角色, 家庭关系, 羞涩与激动, 母爱, 职场骚扰, 自我探索, 情感冲突, 江心怡, OL制服, 变身小说, 伪娘书籍, 心理变化, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

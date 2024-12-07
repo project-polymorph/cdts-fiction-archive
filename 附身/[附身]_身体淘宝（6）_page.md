@@ -7,7 +7,7 @@ TXT 下载: [[附身]_身体淘宝（6）.doc]([附身]_身体淘宝（6）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一段关于一个名叫何年的角色在一间人造人基地体验身体转化的经历。何年通过交易获得了一具名为爱丽丝的人造小萝莉身体，并怀着兴奋与好奇的心态探索这具身体的特性。故事中描绘了何年对身体的初步感受，包括对身体变化的接受与好奇，以及与工作人员的互动。引导员0021号和少年的到来进一步揭示了人造人身体的特殊性质，包括这些身体在使用过程中所需的护理和特殊功能。情节包含对性别转换、身体自主权的探讨，以及围绕性欲与生理变化的复杂情感。整个故事的背景设定在一个高度商业化且伦理模糊的人造人服务设施中，暗示了人们对性别、身体和快感的探索与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_身体淘宝（6）.doc]([附身]_身体淘宝（6）.doc)
 | Size            | 56320 bytes                           |
 | MD5             | ce7ca96317f053002b0d3383d00c62d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 人造人, 伪娘, 身体掌控, 性别认同, 成人内容, 自我探索, 角色转换, 性快感, 虚拟体验, 道德伦理, 科技幻想, 养体师, 奇幻情节, 生育能力, 性敏感性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

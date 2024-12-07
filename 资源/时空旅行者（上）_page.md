@@ -7,7 +7,7 @@ TXT 下载: [时空旅行者（上）.doc](时空旅行者（上）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位名叫贾森的时间旅行者，他的身份复杂，既是一个29岁的男性，也是一个25岁的女性，名为海伦。故事围绕他通过意识传输的方式，与过去的身体进行灵魂交换。贾森生活在公元2283年，而他的意识旅行到1959年，选择了华裔女性海伦作为交流对象，为了更好地进行意识的深层交流，他们共同组装了一台时间机器。随着实验的深入，贾森体验到了女性身体的感觉，并对海伦的生活有了逐步了解。本文探讨了性别认同、意识与身体的交互，以及个体在跨时间与空间中的情感与科学探索。故事中涉及的量子物理与灵魂交换理论，让作品更具深度与科幻色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [时空旅行者（上）.doc](时空旅行者（上）.doc)
 | Size            | 44032 bytes                           |
 | MD5             | 109af0cd6806a045cc43126027795498                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 时间旅行, 灵魂交换, 性别认同, 量子物理, 意识传输, 女性身份, 科幻, 跨性别, 二次元, 角色转变, 自我探索, 科学实验, 意识交流, 心理探讨, 身体体验, 历史变迁, 科学幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

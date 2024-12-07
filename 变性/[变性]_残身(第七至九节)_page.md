@@ -7,7 +7,7 @@ TXT 下载: [[变性]_残身(第七至九节).doc]([变性]_残身(第七至九�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别中文数字档案馆收录的一篇关于变性与跨性别主题的小说，主要讲述了主角李金凤的内心挣扎与自我发现过程。文中，李金凤虽然生理性别为男性，但随着情节的发展，他逐渐欣赏自己的女性形象，并接受自己作为伪娘的身份。故事通过李金凤与另一角色刘栋的互动，展现了对性别认同的探索和情感的复杂性。李金凤的内心独白揭示了他对自己生理特征的矛盾感受，正如他所思考的：“我这是怎么了？”以及他对刘栋的依恋和渴望。“我别是爱了他吧？”这种情感让他感到困惑又兴奋。整篇作品不仅描绘了李金凤的心理变化，还涉及到性别认同、情感依附等深刻主题，表现了跨性别者在社会与自我认同之间的挣扎与迷茫。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_残身(第七至九节).doc]([变性]_残身(第七至九�
 | Size            | 49152 bytes                           |
 | MD5             | 007db6019765be24f2fcf030dce53497                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 伪娘, 变性, 爱情, 内心挣扎, 情感依附, 成长与变化, 社会压力, 跨性别体验, 青春期困惑, 情感复杂性, 变装, 家庭背景, 个人挣扎, 性别表现                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

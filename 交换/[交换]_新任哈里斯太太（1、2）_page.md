@@ -7,7 +7,7 @@ TXT 下载: [[交换]_新任哈里斯太太（1、2）.docx]([交换]_新任哈�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《新任哈里斯太太（1、2）》的部分章节，书中讲述了一位男性角色迈克（之后变成女性哈里斯太太）的性别转换与心理挣扎。在故事开头，迈克经历了一次意外的身体交换，完成了从男性到女性的转变，感受到自我认同和社会角色的巨大冲突。章节中描述了他的日常生活，如穿高跟鞋的习惯、与母亲的对话及内心的复杂情感。出现在咖啡店的情景中，迈克尝试适应女性的形象，如丰满的身材、打扮得体的外貌及与家人的互动。文件通过内心独白呈现了他在新身份下的困惑与愤怒，同时也探讨了性别认同和家庭关系等深层主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_新任哈里斯太太（1、2）.docx]([交换]_新任哈�
 | Size            | 22529 bytes                           |
 | MD5             | 19c84ec1a23cf4790ed04b51b4d743d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我探索, 心理挣扎, 女性视角, 跨性别小说, 伪娘, 变身, 家庭关系, 情感纠葛, 都市生活, 奇幻, 爱情, 吸烟, 性别认同, 社会角色, 内心冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

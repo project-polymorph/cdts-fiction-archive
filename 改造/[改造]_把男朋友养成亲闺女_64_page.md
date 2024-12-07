@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_64.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别题材相关小说，内容围绕艾普丽尔与她的上司阿曼达之间的互动，以及她们对阿曼达的女儿贝丽的关注。故事以周六为背景，艾普丽尔在办公室中为阿曼达端来咖啡，并伴随着聊天逐渐揭示出阿曼达与贝丽的关系的复杂性。阿曼达因工作与贝丽的关联而感到困扰，艾普丽尔则试图帮助阿曼达解决面临的问题。整个故事情节展现了女性角色之间的友谊，代际关系，以及性别身份和角色扮演的主题。文中提到的信息暗示了一些潜在的性别转变和伪娘的情节，并可能包含跨性别与女性化的探索。值得注意的是，文本中包含了一些情感和幽默的描写，使角色之间的互动充满了个性与深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_64.doc]([改造]_把男朋友�
 | Size            | 77824 bytes                           |
 | MD5             | 7dbc92002788da5099220e54983c99bc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 二次元, 女性友谊, 办公室情节, 强烈情绪, 性别角色, 家庭关系, 职场关系, 女性视角, 性别认同, 身份探索, 情感纠葛, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

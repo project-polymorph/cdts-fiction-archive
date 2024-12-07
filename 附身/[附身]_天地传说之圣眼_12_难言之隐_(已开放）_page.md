@@ -7,7 +7,7 @@ TXT 下载: [[附身]_天地传说之圣眼_12_难言之隐_(已开放）.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《天地传说之圣眼》是一部围绕性别认同与爱情自我探索的小说，聚焦于角色辛桐的情感经历与心理斗争。故事开始时，叙述者回忆起对辛桐的深情，描绘了她在沙发上安静入睡的场景，传达了一种对爱的渴望与无奈。随着情节的发展，辛桐的过往逐渐浮出水面，她的家庭背景与经历使得她对爱情产生了深刻的不信任。小说通过闪回的方式展示了辛桐与母亲的艰辛生活，以及她在失去母亲后与张紫妍的情感纠葛。叙述者的内心独白充满痛苦和挣扎，描绘了他对辛桐的深刻理解与无法实现的爱情。情节逐步演变出复杂的人际关系以及探索女性同性恋情的主题，同时包含了丰富的心理描写与情感互动，特别是在与张紫妍的一段亲密关系中，合并了浪漫和欲望的表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_天地传说之圣眼_12_难言之隐_(已开放）.docx](
 | Size            | 20596 bytes                           |
 | MD5             | 6447efa78f8e71f647f1db635127e9c7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 情感纠葛, 性别认同, 自我探索, 母女关系, 同性恋, 校园爱情, 情感心理, 变身, 禁忌恋, 都市爱情, 成长故事, 复杂人际关系, 青春痛苦, 性转, 伪娘, 变嫁, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

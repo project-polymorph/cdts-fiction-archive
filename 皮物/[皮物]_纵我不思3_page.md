@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_纵我不思3.doc]([皮物]_纵我不思3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为伪娘和变身主题的小说片段，描写了一系列角色之间的互动和情感变化。故事伊始，主角在阳光的照耀下，模糊地看到一名神秘女性，随着剧情的推进，逐渐揭示了角色之间的家庭关系和情感纠葛。主角的身份和性别变化成为故事的重要线索，带有强烈的性别认同和自我探索的主题，如同‘陈思雨’的身份混淆与与‘男人’的亲密互动，表现出强烈的情感和心理冲突。文中多次提到角色在情感和行为上的矛盾与挣扎，特别是在与‘男人’互动时，主角的内心感受和对自己身份的思考交织在一起。整段文字通过细腻的描写展现了角色们在复杂的人际关系和性别认同中的挣扎与探索，为读者提供了丰富的想象空间。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_纵我不思3.doc]([皮物]_纵我不思3.doc)
 | Size            | 55808 bytes                           |
 | MD5             | da650b154e131c68a83e733687f16a08                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 情感纠葛, 家庭关系, 自我探索, 性别认同, 青春, 现代生活, 视觉小说, 心理冲突, 豪车, 婚礼, 亲密关系, 跨性别, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

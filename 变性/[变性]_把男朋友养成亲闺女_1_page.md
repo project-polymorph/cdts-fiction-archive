@@ -7,7 +7,7 @@ TXT 下载: [[变性]_把男朋友养成亲闺女_1.doc]([变性]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇涉及变性与性别角色转换的小说，名为《把男朋友养成亲闺女》。故事围绕着一个男性角色贝利•安德鲁•史密斯展开，他因出轨而不得不假装成其女友阿曼达的女儿，以帮助她在职场上晋升。小说详细描绘了贝利对阿曼达的感情及其复杂的心理活动，情节中突出了角色的内心冲突和性别认同，展现了社会对性别角色的看法和对跨性别者的偏见。文件中包含了多个角色的详细描述，包括他们的外貌特征、性格以及背景故事。书中包含了一些强烈的色情描写与情感波动，尤其是涉及贝利的欲望与内疚，并探讨了性别流动与爱情的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_把男朋友养成亲闺女_1.doc]([变性]_把男朋友�
 | Size            | 1134592 bytes                           |
 | MD5             | 1c1b20a9d26d9de4ebf238a5d7be733f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42，译者：Lisa                               |
+| Region          | 未知                               |
+| Date            | 2021-04-17                                 |
+| Tags            | 变性小说, 性别转变, 跨性别, 伪娘, 爱情, 职场, 社会认同, 心理冲突, 强奸, 调教, 自我探索, 逆后宫, 纯爱, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第二十一回.doc](《金枝奇缘》第二十�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《金枝奇缘》的第二十一回描绘了复杂的人物关系和情感纠葛，讲述了顾安和陆瑶之间因顾萍的离去而引起的情感波动。陆瑶在故事中因顾萍的重伤几乎不治而哭泣，顾安对此心痛不已，感到自己的无能。更深层次的冲突也在三脉会武的设定中展现，讲述了不同派系弟子间的竞争与合作。特别是在秦风府对各弟子介绍之后，陆问天与众弟子的对话透露出他们之间的紧张关系与历史渊源。故事在黄昏时分结束，陆问天回到家中，与女儿陆瑶的互动中流露出父女情深，也暗示着后续情节的发展。这一回通过情绪的细腻描绘与人物的心理斗争，引导读者探讨生死、责任与情感的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第二十一回.doc](《金枝奇缘》第二十�
 | Size            | 40448 bytes                           |
 | MD5             | 242549041dd18ea9eab14dd4e136896f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 情感纠葛, 成长, 自我探索, 修真文化, 人物关系, 武侠, 三脉会武, 友谊, 父女情深, 青春, 强烈情感, 性别认同, 小说分支, 玄幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

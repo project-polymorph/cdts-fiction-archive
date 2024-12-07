@@ -7,7 +7,7 @@ TXT 下载: [[变身]_大学记5.doc]([变身]_大学记5.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《大学记5》是一篇描绘角色变身与性别认同之间关系的小说，主要围绕主人公李冰在变身为女生后的生活经历展开。文件中伴随着大量的性相关内容，涉及多种情节，例如主人公与周兵之间的性关系、对自己性别转变的自我认知，以及在校园生活中的际遇。通过与周兵及学姐的互动，探讨了性别认同、性爱与自我意识的复杂关系。故事中有多次性行为的描写，包括对身体的探索与自我调侃，展现了主人公逐渐适应女性身份并享受其中乐趣的过程。文中提及的设备如双头龙，暗示了现代情趣用品与角色扮演的相互结合，是对当代性文化的一种反映。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_大学记5.doc]([变身]_大学记5.doc)
 | Size            | 44544 bytes                           |
 | MD5             | a16b1c0e3a8f1eb251fabd75c69d31dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 人生万花筒7                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身小说, 跨性别, 校园生活, 自我探索, 情趣用品, 性别认同, 性行为, 男女性交换, 感情纠葛, 小说, 二次元, 强奸, 逆后宫, 调教, 百合, 变嫁, 雌堕, 魔法, 奇幻故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

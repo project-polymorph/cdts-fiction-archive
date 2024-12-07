@@ -7,7 +7,7 @@ TXT 下载: [[交换]_［申码文重发］北平，北平（一）.doc]([交换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《北平，北平（一）》是一部以北平沦陷为背景的跨性别主题小说，围绕着霍以轩的人物展开。故事通过细腻的描写展现了在战乱时期，北平城民众的恐慌与无助，透过霍以轩的视角，描绘了她在意外变成女子后所面临的身份认同与心理冲突。开篇描绘了黄昏时分破碎的北平城，士兵对战争即将来临的恐惧以及对国家的忠诚与绝望相对照，每个角色的心理活动和情感通过对话与内心独白逐渐展开。霍处长千方百计想要呵护自己的女儿，尽管霍以轩已不是以前的她，而是承载了新的记忆与身份的霍以轩。在泡澡的场景中，霍以轩感受到生理构造的差异带来的新奇与愉悦，内心掀起对自我性别认同的思考。故事进一步探讨了跨性别与爱情、自我探索、父女关系等多重主题，展现了在艰难时代下，个体对存在意义的追寻与对美好的向往。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_［申码文重发］北平，北平（一）.doc]([交换
 | Size            | 44544 bytes                           |
 | MD5             | 526ec898498b041a9283701fd22de611                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 自我探索, 家庭关系, 战争, 心理冲突, 女性主义, 身世认同, 历史背景, 情感纠葛, 日伪时期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

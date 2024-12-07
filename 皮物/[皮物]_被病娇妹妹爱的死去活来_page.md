@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_被病娇妹妹爱的死去活来.doc]([皮物]_被病娇�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《被病娇妹妹爱的死去活来》，叙述了一名高中生川岛白石与他的义妹奈奈子之间复杂而扭曲的关系。故事开篇描述了川岛白石刚参加完高中毕业典礼，收到了一位学妹的表白，然而在约定的见面中被放鸽子。失落回家的他却发现了在家为他准备晚餐的漂亮妹妹奈奈子。随着故事的发展，奈奈子的情感变得愈发扭曲，她对哥哥产生了强烈的依附和占有欲，最终通过药物和暴力的手段将其囚禁，并威胁与他一起生活。文中充满了对性别、身份和爱情的探讨，涉及到精神及肉体的变换，引人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_被病娇妹妹爱的死去活来.doc]([皮物]_被病娇�
 | Size            | 46592 bytes                           |
 | MD5             | 6b680afffad9f8ee15e726a735b0f13e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 病娇, 禁忌恋, 心理剧, 变身, 强制关系, 自我认同, 学园恋, 青春, 情感纠葛, 药物控制, 囚禁, 家庭与社会, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

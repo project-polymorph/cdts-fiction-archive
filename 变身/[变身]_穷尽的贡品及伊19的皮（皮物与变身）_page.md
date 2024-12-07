@@ -7,7 +7,9 @@ TXT 下载: [[变身]_穷尽的贡品及伊19的皮（皮物与变身）.docx]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件包含两部分内容，第一部分是名为《穷尽的贡品》的小说，讲述了一个小村庄为了祭祀水神，每半年需要献上一名女孩子作为贡品。然而由于近几年出生的大多数是男孩，村民们决定将最像女孩的男孩——宗平扮作女孩进行献祭。故事深入探讨了宗平在穿上女性服装后，面对即将到来的命运以及自己身份认同的内心冲突和变化。祭祀仪式充满了紧张与神秘，最终宗平被一种巨蛇拉入洞穴，预示着他将接受不可逆转的命运。 
+
+第二部分为《伊19的皮》，描绘了一名职场压力大的人在海边散步时意外发现海滩上的一件奇怪物品，似乎是一个少女泳衣和类似人的皮肤，名称上写着“伊19”。此时，主人公对其感到既好奇又恐惧，想要远离这个奇异的物件，同时也引出了对身份和存在的思考。整个文本不同于常见的二次元内容，透漏出对性别和身份认同的深入探讨，并结合了一些幻想元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_穷尽的贡品及伊19的皮（皮物与变身）.docx]([
 | Size            | 26992 bytes                           |
 | MD5             | d6d5dfe1c4c43b02a2e275756ca5592a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 神话, 献祭仪式, 村庄故事, 女性认同, 身份探讨, 奇幻爱情, 压力释放, 海边探索, 未知物品, 自我认知, 变装, 神秘生物, 幻想, 情感冲突, 社会适应, 二次元文化, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

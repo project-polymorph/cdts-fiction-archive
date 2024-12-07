@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_通过吧_第一章.docx]([皮物]_通过吧_第一章.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于《通过吧》的第一章，主要讲述了一个名为佑介的男子与邻家女孩千月之间的互动。故事开头，千月来到佑介家中向他提及自己不满的情绪，她希望佑介能够陪她出去玩。佑介则因工作原因无法应允，承诺会在将来陪伴。此时母亲户成和子出现在场，她对千月的安全感到担忧，因为女儿已经在外面待了太久未归。
+
+接下来，佑介意识到千月已经离开家一段时间，便决定出门寻找她。在这段寻找千月的过程中，佑介发现周围环境的寂静让他不安，最终在一个昏暗的角落找到了正在哭泣的千月。千月因为丢失了祖母留下的戒指而感到害怕，并表示自己迷路了。然而，随着故事的发展，一个不明的声音打破了宁静，千月神秘消失，留下的只有她的衣物和异常的气味，给佑介带来恐惧和不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_通过吧_第一章.docx]([皮物]_通过吧_第一章.doc
 | Size            | 30915 bytes                           |
 | MD5             | 40d713bdfe762946250b06080b84432f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 友情, 恐怖, 迷路, 家庭, 青少年, 情感, 悬疑, 日常生活, 成长, 自我探索, 惊悚, 冒险, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

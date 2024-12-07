@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_74.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为改造系列中的一部分，主要描述了角色贝丽与梅根阿姨一起去购物中心试穿裙子的经历。在这个过程中，贝丽从一开始的不情愿，到逐渐接受并享受变装的过程，体现了角色内心的探索与自我认同的变化。贝丽对自己的形象充满了困惑，她原本是一个假小子，但在梅根阿姨的指导下，她试穿了各式各样的裙子，从而感受到一种作为女孩的美丽与自信。故事中还涉及到贝丽对过去经历的回忆，尤其是她与女孩玛丽的约会经历，展现了性别认同与情感探索的交织。这种情节不仅描绘了贝丽的变化，也探讨了她在接受自我的过程中体验的愉悦和秘密。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_74.docx]([改造]_把男朋友
 | Size            | 18972 bytes                           |
 | MD5             | 7747a6494f616e20f26258438d9d7ee4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 变身, 自我认同, 购物中心, 女性化, 情感探索, 裙子, 青春幻想, 心理变化, 性别角色, 二次元, 男娘, 魔法, 社交                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

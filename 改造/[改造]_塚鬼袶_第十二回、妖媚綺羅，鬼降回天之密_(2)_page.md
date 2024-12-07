@@ -7,7 +7,7 @@ TXT 下载: [[改造]_塚鬼袶_第十二回、妖媚綺羅，鬼降回天之密
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇描绘性转、跨性别及变身情节的小说，具体描写了一名女性角色凌湘在一群和尚的淫乱过程中所经历的屈辱与觉醒。在故事中，凌湘遭到一群和尚的侵犯，肆无忌惮地撕扯她的衣物，并在这一过程中逐渐感受到身体与内心的矛盾。文本以详细且清晰的方式讲述了凌湘被动接受侵犯及随之而来的内心挣扎，她内心的抵抗与身体的反应形成鲜明对比。多次的细节描写突出了凌湘敏感体质对外部刺激的强烈反应，同时也暴露了她内心深处的恐惧和逐渐扭曲的渴望。文件中出现了大量明显的性暗示及描写，内容比较露骨，涉及强奸、调教、乱伦等情节，因此可能不适合未成年人阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_塚鬼袶_第十二回、妖媚綺羅，鬼降回天之密
 | Size            | 29358 bytes                           |
 | MD5             | b71f9ecee960457f45f3808451158f39                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性转, 强奸, 情感冲突, 自我探索, 调教, 乱伦, 成人内容, 二次元, 妖媚, 古风, 冒险, Fantasy                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

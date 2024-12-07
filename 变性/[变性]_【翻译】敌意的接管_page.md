@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】敌意的接管.docx]([变性]_【翻译】敌
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一位男性在经历一种神秘的超自然现象后逐渐产生女性化思维的故事。他感到沮丧与困惑，因为他的脑海中开始充满一种陌生的女性记忆，似乎有一个女人的身份正在慢慢接管他的思想。故事开头，他听到关于一位能够预测未来的神秘女性的传闻，决心去寻求她的帮助。在与这位叫做Hrbovsky女士的女性交谈时，他详细回忆起许多他从未经历过的女性生活片段，例如穿胸罩和化妆等事情，他惊恐地意识到这些记忆并不是他自己的。接着，H女士提出需要通过一种特殊的方式来引诱这个“接管”他思维的女性出来，而这涉及到他穿上女性的衣服，这让他感到极大的不适和羞愧，但他仍然愿意尝试。通过这个过程，他开始感受到自己正在变得越来越像一个女人，这种自我认同的冲突令人痛苦而困惑。此文涉及性别认同、内在挣扎以及自我探索的主题，具有强烈的精神和心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】敌意的接管.docx]([变性]_【翻译】敌
 | Size            | 48492 bytes                           |
 | MD5             | f12a5f0ee8362099194c9adebbad16ef                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jennifer White                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 超自然, 心理冲突, 变性, 女性化, 心理治疗, 幻想, 魔幻现实主义, 跨性别经历, 角色扮演, 情感冲突, 精神附身, 性别转换, 内心斗争, 女性身份, 多元性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

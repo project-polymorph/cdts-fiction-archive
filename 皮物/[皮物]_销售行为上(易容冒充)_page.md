@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_销售行为上(易容冒充).doc]([皮物]_销售行为�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是一部围绕李逸和张伪之间复杂关系的小说，探讨了性别认同与角色变换的主题。故事的开头描绘了李逸在职场上的困境，以及他与高中同学张伪相遇的情景。在一场酒局中，李逸向张伪倾诉自己的烦恼，随后张伪向他透露了一个“惊喜”。在剧情的发展中，张伪展现出了伪娘的特质，他的身份不断演变，最后以高夫人之身份与李逸发生了亲密关系，令人惊讶的是，这一切竟是张伪的变装计策。文本中涉及到了人性、性别角色及其社会期待等一系列深刻话题，表现了对于性别流动性及自我认知的探索，情节时而幽默、时而深刻，充满了对人性及性别认同的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_销售行为上(易容冒充).doc]([皮物]_销售行为�
 | Size            | 36352 bytes                           |
 | MD5             | dfb921f5241c682d3c07d50e16409a2b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 二次元, 职场困境, 复杂人际关系, 悬疑, 酒局, 性别角色, 幻想, 自我探索, 情感冲突, 变装, 欲望, 社会期待                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

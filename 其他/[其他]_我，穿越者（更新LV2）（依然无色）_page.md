@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我，穿越者（更新LV2）（依然无色）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部跨越了异界的穿越小说，讲述了一个普通的三十多岁上班族意外穿越到游戏世界，成为拉斯特尼亚王国的公爵家次女雅露蒂丝·葛特夫利德的故事。故事从他刚穿越之时开始，描绘了从熟悉的生活到全新环境的巨大变化。主角从一个成年人的视角重新体验婴儿的生活，虽然被转变为女婴，却保持着前世的记忆与思维能力。描写中提到他在女婴时期，几乎与女仆和家庭成员之间产生了互动，甚至对于自己新身份的种种逗趣的反应，让读者忍俊不禁。内容中提到对幼儿的成长教育和对魔法的向往，塑造出主角内心的复杂情感和理念。随着故事的推进，主角逐渐意识到他穿越来的这个世界是游戏中的设定，且国王为了争夺霸权而展开的战争也成为了他的新生活的一部分。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我，穿越者（更新LV2）（依然无色）.docx]([�
 | Size            | 63552 bytes                           |
 | MD5             | 13d0d0f0c431321d026d70e4f423de53                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异世界, 变身, 穿越, 女婴, 魔法, 战争, 王国, 成长, 自我探索, 搞笑, 女性角色, 性别认同, TSF, 女仆, 探索身份, 游戏世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

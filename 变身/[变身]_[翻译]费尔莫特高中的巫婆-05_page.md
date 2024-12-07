@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[翻译]费尔莫特高中的巫婆-05.docx]([变身]_[翻
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一部关于性转与跨性别主题的小说，主要讲述了主人公帕娜在体验性别转换后所面临的情感与社会冲突。故事在费尔莫特高中展开，主人公在与同学大卫的关系中，逐渐意识到自己内心的复杂情感与性别认同的矛盾。在一次深情的晚安吻后，帕娜复杂的情感引发了一系列心理斗争，并与好友凯蒂展开对话，涉及对性的渴望与内心对现状的不安。文本中包含了一些敏感内容，尤其是在性与情感的描写上，展现了角色面对性别身份转变时的挑战和自我探索。情节深刻，探讨了性别认同、自我认知以及情感关系变化等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[翻译]费尔莫特高中的巫婆-05.docx]([变身]_[翻
 | Size            | 27738 bytes                           |
 | MD5             | d5897496f541de1c8fb32fb8d7f2bcfd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性转, 青春校园, 性别认同, 情感冲突, 自我探索, 强烈吸引, 复杂情感, 性欲, 心理斗争, 友谊, 性教育, 社会压力, 情爱纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

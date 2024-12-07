@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】二、无花宫主.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《在下盗圣，有何贵干》第二部分《无花宫主》，是一部描绘性别变换与跨性别主题的小说作品。故事围绕主角楚飞展开，他潜入无花宫，一个充满神秘与魅惑的地方，参与擂台比赛，目标是寻找一本名为《易形诀》的秘籍。文中描写了楚飞与众多角色的互动，特别是与一名叫星儿的少女之间的关系。星儿意识到楚飞是盗圣，主动向他提供帮助，然而楚飞也对她保持警惕。在潜入过程中，楚飞遭遇了意外，最终发现自己的身份暴露。在整体情节中融入了性别认同、自我探索等主题，展现了楚飞的内心冲突及他在变性过程中所面临的挑战与选择。文中不仅有对擂台上激烈竞争的描述，还包含了对人物外表的细致描绘和感情的微妙变化，强调了性别身份在社会交往中的重要性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】二、无花宫主.doc]([
 | Size            | 43520 bytes                           |
 | MD5             | 808cd3270b1924abd7a2936f2131df2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 武侠, 爱情, 自我探索, 性别认同, 擂台比赛, 冒险, 秘宝, 青春, 幻想, 吸引力, 仙女, 潜入, 交易                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

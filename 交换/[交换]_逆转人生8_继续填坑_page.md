@@ -7,7 +7,7 @@ TXT 下载: [[交换]_逆转人生8_继续填坑.docx]([交换]_逆转人生8_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《逆转人生8_继续填坑》是一个围绕角色性别转换的小说，主要讲述了男主张惠兰在变身为其女儿涵涵的母亲后，与涵涵之间复杂情感的故事。文章开头描绘了张惠兰的职业生活，随之而来的则是回到家中与涵涵互动的细腻情景，包括涵涵依恋的撒娇、亲情的流露，以及夹杂着怀旧、复杂情感的亲情互动。故事中，涵涵向张惠兰透露自己交了男朋友的消息，这使得张惠兰内心波动不已，同时又不得不面对自己的身份和情感的纠葛。故事深入探讨了家庭关系、性别认同与爱的表达，突显了角色的内心挣扎与成长，这不仅是一个关于亲情的故事，也是一个关于身份和爱的自我探索。文中不乏细腻的情感描写和戏剧化的冲突，为读者呈现一个充满戏剧性的变身与自我探寻之旅。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_逆转人生8_继续填坑.docx]([交换]_逆转人生8_�
 | Size            | 19060 bytes                           |
 | MD5             | 2dcacf082ed99c7ac2fa0f305bb61338                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别认同, 亲情, 亲子关系, 情感纠葛, 逆转人生, 幻想, 自我探索, 爱情, 同性恋, 女儿, 家庭故事, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

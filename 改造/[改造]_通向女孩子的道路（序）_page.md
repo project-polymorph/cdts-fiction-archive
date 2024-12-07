@@ -7,7 +7,7 @@ TXT 下载: [[改造]_通向女孩子的道路（序）.doc]([改造]_通向女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部跨性别相关小说的序章，内容围绕一位名为末舛翼的少女与一位中年男子之间的关系描绘展开。故事设定在一个豪华的巴洛克风格的学园里，描述了翼在理事长怀抱中表现出羞涩与迷惘的情感，深刻展示了她在外表与心理之间的矛盾与挣扎。根据文本，翼的外表如美少女般华丽，但她的生理性别却是男性，这样的设定引发了多层次的认知冲突和性别表达的探讨。该文档内包含了大量露骨与限制级的描写，例如关于身体部位的细节和性行为的描述，探索了跨性别者在性认同和自我肯定中的内心世界。这部作品不仅涉及强烈的性暗示和不道德关系的探索，还可能引发对于角色身份认同与欲望的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_通向女孩子的道路（序）.doc]([改造]_通向女�
 | Size            | 70656 bytes                           |
 | MD5             | 68c0979638a4b82b30b0f67214961577                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 强烈性暗示, 关系冲突, 性别认同, 二次元, 变身小说, 自我探索, 禁忌关系, 成人内容, 华丽外表, 羞怯与迷惘, 情感纠葛, 深度描写, 角色心理, 幻想文学, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

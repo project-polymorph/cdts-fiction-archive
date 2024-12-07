@@ -7,7 +7,7 @@ TXT 下载: [[附身]_大巫秘书第二秘.docx]([附身]_大巫秘书第二秘
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档《大巫秘书第二秘》是一个关于周明和其妻子张曦之间诡异关系的性转小说。故事开始时，周明与刚经历亲密关系的妻子张曦发生了一场奇特的对话，张曦声称自己其实是周明的父亲。在一系列奇妙的梦境和记忆重构中，周明意识到妻子自从回到乡下老家后，性格与举止都发生了转变，似乎受到某种神秘力量的影响。小说探讨了性别认同、身份转变和自我探索的主题，并加入了古籍、梦境和家庭秘密的元素，使得情节更为复杂与引人入胜。文中充满了对身体与心理之间冲突的深刻描写，以及对传统与现代观念的思考与挑战。张曦在故事中逐渐意识到自己的身体变得越来越陌生，伴随紧身裙、高跟鞋等服装的压迫感，加深了她对自我的混淆。同时，父亲的失踪与过去的阴影也成为推动情节发展的重要因素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_大巫秘书第二秘.docx]([附身]_大巫秘书第二秘
 | Size            | 30789 bytes                           |
 | MD5             | d4a690ea3789b9405e8a275807a136bc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 梦境, 家庭秘密, 身份认同, 身体意识, 变身, 超自然, 情感冲突, 心理探索, 古籍, 性别转换, 纯爱, 调教, 年龄差, 变装, 女体化, 雌堕, 奇幻, 诡异爱情, 逆推情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

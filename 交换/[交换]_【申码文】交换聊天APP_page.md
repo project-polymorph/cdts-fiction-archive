@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】交换聊天APP.doc]([交换]_【申码文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于名为“S聊天”的虚构应用程序的小说，作者通过角色之间的对话展开了对于自我身份和性别认同的探索。故事的开始，主人公与朋友江奈在放学回家的路上谈及一款新发现的聊天APP，江奈推荐了其独特的功能——信息交换。主人公在好奇心驱动下安装了该APP，但在使用过程中却发现和朋友的名字互换后，对自己的身份产生了深刻的不安与疑问。小说中，角色们通过简单的对话引出了APP的许多奇特功能，包括年龄与性别的交换，进而探讨了身份認同和性别流动性这一主题。随着故事发展，主人公经历了对这种身份混淆的逐步适应，也体现了朋友间的支持和理解。最终，APP即将停止运行，主人公感到恐慌，并试图通知江奈，以避免不必要的身份交换带来的潜在后果。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】交换聊天APP.doc]([交换]_【申码文�
 | Size            | 61952 bytes                           |
 | MD5             | 3a11e26ad2e2cb51c6b1a238be0013b4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | メモット                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我探索, 信息技术, 虚构小说, 聊天应用, 身份认同, 友谊, 探索, 奇幻, 心理冲突, 性别流动性, 科技幻想, 日本文化, 青春, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

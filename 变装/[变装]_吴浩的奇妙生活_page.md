@@ -7,7 +7,7 @@ TXT 下载: [[变装]_吴浩的奇妙生活.docx]([变装]_吴浩的奇妙生活
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《吴浩的奇妙生活》讲述了一个名叫吴浩的年轻男子，在暑假期间因父亲的安排需出差，然而在此过程中揭示了复杂的家庭关系和性别认同的主题。故事开始时，吴浩沉迷于在互联网浏览关于美丽女性的图片，表达出对与她们亲密接触的渴望。父亲吴东明则是一位在商界活跃的总经理，同时他似乎也有着不为人知的嗜好，对皮革变装的热爱使得他在不知不觉中生活在双重身份之间。随着故事的发展，吴浩的出差计划被取消，他回家后发现父亲正在进行变装，透过这种私密的生活方式，展现了他们之间隐藏的情感和性别认同冲突。文中详细描写了吴东明如何穿上特制的乳胶衣和皮物，呈现出他对理想女性形象的追求，以及他和儿子之间错综复杂的父子关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_吴浩的奇妙生活.docx]([变装]_吴浩的奇妙生活
 | Size            | 56642 bytes                           |
 | MD5             | 894c624381ee35d67d69b41f756ca283                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 跨性别, 父子关系, 自我探索, 变身, 乳胶衣, 皮物, 二次元, 性别认同, 家教严格, 青春期困扰, 心理冲突, 虚拟与现实, 角色扮演, 复杂家庭                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

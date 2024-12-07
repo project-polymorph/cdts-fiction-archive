@@ -7,7 +7,7 @@ TXT 下载: [[其他]_平行世界之我是妻子(1).docx]([其他]_平行世界
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名叫张书秦的角色的性别转换故事。故事开头，张书秦醉酒回家，妻子邓雨涵关心地照顾他。随着情节的发展，张书秦在宿醉中醒来，发现自己不再是男人，而变成了一位女性。这个过程伴随着他对新身份的震惊与思考，描绘了他从男变女后的心理变化和身体感受。角色在镜子中看到自己女性化的面容，体验到了从未有过的身体感受，并逐渐接受了这个新身份。文件中的文字情感细腻，展现了角色对自我认同和身体变化的探索与困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_平行世界之我是妻子(1).docx]([其他]_平行世界
 | Size            | 18596 bytes                           |
 | MD5             | bf88496473b98cd27a64669925a79d93                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 跨性别, 婚姻生活, 自我认同, 心理变化, 男性视角, 角色发展, 情感纠葛, 生活琐事, 性别认知, 梦境与现实, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

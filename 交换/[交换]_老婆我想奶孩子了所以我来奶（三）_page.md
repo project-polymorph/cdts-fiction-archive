@@ -7,7 +7,7 @@ TXT 下载: [[交换]_老婆我想奶孩子了所以我来奶（三）.doc]([交
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描写了一对夫妻因受女巫附身而交换性别角色的故事。故事的开头，角色们计划在身体交换期间尝试扮演对方的角色，展现出一种新奇和有趣的态度。主角在穿上宽松的碎花连衣裙时，虽然并不习惯，但也暗自享受着这一变化。随着岳母和浅浅设计化妆方案以及挑选女装的过程，主角在反复的尝试中逐渐进入了这一新角色。在美容店时，主角体验到了一种久违的女性身份，同时享受美妆带来的变化和新体验。在漫画和幻想色彩浓厚的背景下，小说觊觎着性别认同和自我探索的主题，让人惊叹于角色变化过程中的幽默与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_老婆我想奶孩子了所以我来奶（三）.doc]([交
 | Size            | 43008 bytes                           |
 | MD5             | 0279cae5634b95368fa3889d793a748c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 美容沙龙, 角色扮演, 家庭关系, 化妆, 试衣间, 自我探索, 奇幻, 幽默, 情感, 母子关系, 性别认同, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_为这美丽的末世献上福利（第七章，回忆黑�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘、变身与跨性别相关的小说，其中描绘了一位名叫张大民的男性角色穿越至一个奇幻的末世世界，意外地附身于一位美丽少女碧琪的身体。故事开篇，张大民面临华丽而又陌生的环境，意识到自己竟然成为了一名性感少女。随着情节的发展，张大民在镜子中看到自己的新身体，展现出强烈的性别认同冲突和自我探索的过程。他体验到自己作为碧琪的感觉，逐渐融合了旧我与新我之间的记忆。在整个过程中，作品涉及到穿越、性别认同、身体探求等多层次的主题，并含有明确的性暗示和性感描写，尤其是在角色探索自己身体的场景中展现了较为细腻的内心独白与情感流露。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_为这美丽的末世献上福利（第七章，回忆黑�
 | Size            | 72232 bytes                           |
 | MD5             | 969a4cf3a891d5cab7ad515670ca9104                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 硕鼠硕鼠                               |
+| Region          | 未知                               |
+| Date            | 2015-02-22                                 |
+| Tags            | 伪娘, 穿越, 变身, 性别认同, 末世, 自我探索, 性感, 幻想, 青春, 角色扮演, 银发金瞳, 情感波动, 内心挣扎, 异世界, 身体探求                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

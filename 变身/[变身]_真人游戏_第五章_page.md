@@ -7,7 +7,7 @@ TXT 下载: [[变身]_真人游戏_第五章.docx]([变身]_真人游戏_第五�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《真人游戏》第五章，讲述了主角西门俊在一个奇异的虚拟游戏中与另一个玩家的互动。在游戏中，西门俊发现自己被隔于一个屏障之外，无法返回房间，系统响起的声音告知他任务正在执行。此时，他发现手腕上多了一个奇特的金属手表。通过手表的提示，他意识到有危险的敌方玩家接近。在这一章中，西门俊遇见了一个看似洋妞的角色，经过交谈发现对方实际上是一名男性玩家，且因为游戏契约变成这样的外表。交谈中，西门俊了解到对方的原身身份和游戏中面临的挑战，这不仅引发了他们之间的战斗场景，也揭示了角色们在游戏中面临的身份和性别认同的复杂问题。整体上，章节探索性别转换、身份认同及虚拟现实游戏所带来的心理冲突等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_真人游戏_第五章.docx]([变身]_真人游戏_第五�
 | Size            | 29643 bytes                           |
 | MD5             | c10b38b12edce3cf9613002ef83c5737                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 虚拟现实, 性别认同, 跨性别, 角色扮演, 游戏世界, 自我探索, 奇幻, 生存挑战, 男性角色, 女性外表, 惊悚, 互动剧情, 法术, 契约                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,11 @@ TXT 下载: [[变身]_狂人日记.doc]([变身]_狂人日记.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《狂人日记》的中文数字档案，讲述了一个男性角色在意外情况下性别被认定为女性后的生活琐事和心理挣扎。故事的开篇，角色描述了一种深感困惑的经历：他的家人和朋友们都认为他是一个女孩，尽管他自己确切地知道自己是男性。通过多次的内心独白，角色深刻反思了自我认同和家庭期待之间的冲突。
+
+文本中充满了角色对性别和身份认同的探索，例如，在家里他被家人强迫穿上校服、在学校中被认为是女生而无法进入男厕所等情节，使得这个角色逐渐明白他在周围人心目中的身份完全与他的自我认知背道而驰。每当他经过镜子时，总是感到一阵强烈的困惑和不安，这种状态随时间而改变，逐渐接受了女性身份。有趣的是，尽管他内心抵抗着“女性”的身份，却在不经意间享受了与女性朋友的互动和那些通常被视为“女性”生活中的乐趣。
+
+逐渐，这位角色开始适应他的生活，甚至发生了一段与男生的“恋爱”。通过一些细节描写，例如对约会装扮的关注和愧疚感的涌现，展示了个体在面对社会性别角色期待时内心的复杂情感。这部作品不仅仅是性别转换的叙述，更是对个体内心世界的深入挖掘和思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变身]_狂人日记.doc]([变身]_狂人日记.doc)
 | Size            | 48640 bytes                           |
 | MD5             | d8a266af5f6d04bacfaf3dbb7880a425                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 伪娘, 变身, 青春成长, 心理挣扎, 家庭关系, 社会期待, 恋爱关系, 女性视角, 自我探索, 校园生活, 日记体裁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

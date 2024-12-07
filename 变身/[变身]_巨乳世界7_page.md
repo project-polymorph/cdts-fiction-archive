@@ -7,7 +7,7 @@ TXT 下载: [[变身]_巨乳世界7.docx]([变身]_巨乳世界7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一部分关于变身题材的小说情节，围绕两个主要角色，敏明和晶彦的互动展开。故事开始于一个普通的日常场景，敏明和主角正在享用晚餐，讨论调查的事情，显得温馨而亲密。然而，当门铃响起，晶彦的突然到访打断了他们的对话。晶彦此时情绪低落，向敏明倾诉关于她女朋友的困扰——她的女朋友双叶的真实性别身份让她感到震惊和困惑。文件中描绘了晶彦对双叶的感情细腻而复杂，其间夹杂了对性别与身份认同的深入探讨。晶彦在面对感情的变故时，表现出脆弱的一面，传达出对社会性别认同的困惑。整体上，该小说既展示了人物的情感世界，也反映了在多元性别背景下的社会现象。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_巨乳世界7.docx]([变身]_巨乳世界7.docx)
 | Size            | 23850 bytes                           |
 | MD5             | 076a4f92941a22dbb220138bfe707607                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别认同, 情感纠葛, 日常生活, 温馨, 小说, 伪娘, 双性恋, 同性恋, 情感探索, 角色塑造, 人际关系, 心理描写, 高校生活, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

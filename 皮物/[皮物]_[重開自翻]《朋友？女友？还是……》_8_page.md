@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_8.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于伪娘主题的小说《朋友？女友？还是……》的第8章，主要描绘了角色换装的情景以及角色内心的复杂情感。故事中角色‘光’在真一的帮助下穿上紧身的套装，展现了其火辣的身材。整个过程不仅是对外形的改变，也是对角色内心冲突的深刻描写。从真一的视角可以看出，他对‘光’的换装行为感到既刺激又痛苦，夹杂着嫉妒和探究的情感。文件中多次提到身材的细腻描写，并透露出角色内心的挣扎和快感，似乎暗示了内在与外在之间错综复杂的关系。具体描述了如“裙子真够紧身的”、“この景象太让人痛苦了”等情节，突显了角色在换装过程中的疼痛与愉悦交织的感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_8.docx]
 | Size            | 27970 bytes                           |
 | MD5             | 0402c9df70062634d51c9becb293123e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别转换, 跨性别, 情感冲突, 换装, 自我认知, 内心挣扎, TSF, 性别认同, 紧身衣, 三人关系, 性感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

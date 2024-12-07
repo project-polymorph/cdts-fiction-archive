@@ -7,7 +7,7 @@ TXT 下载: [[附身]_一不小心就用妹妹的身體去sex的我-2.doc]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容是一部围绕性别变换主题的小说，描述了一名男性角色在附身到女性角色身体后的复杂心理状态与情感经历。故事主要围绕真由美与她的小伙伴优纪之间的互动：当真由美发现自己变成了女孩子后，她需要适应这种身份，课程中面临性别认同的挑战，尽管她的外貌变化让她体验到了身体的不同需求。文件涉及明确的成人主题，包含性行为的细腻描写与女主对于身体变化的心理反应与探索。这段情节呈现了身体的触感与性启蒙的过程，其中不乏对少年优纪的描写，随着故事的发展，隐藏着对性别认同与探索的深刻思考。该文本包含敏感内容，应以科学研究和学习的目的进行阅读与分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_一不小心就用妹妹的身體去sex的我-2.doc]([附�
 | Size            | 52224 bytes                           |
 | MD5             | cf413a70e60590a435d62c6e164fba9b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未定义                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 附身, 变身, 成人内容, 心理冲突, 自我探索, 情感纠葛, 青少年, 成长故事, 性教育, 幻想类小说, 二次元, 梦幻, 幻想, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

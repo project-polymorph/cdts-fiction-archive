@@ -7,7 +7,7 @@ TXT 下载: [[变装]_让我沉沦的意外之吻.doc]([变装]_让我沉沦的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一名男性角色因一次意外的亲吻而进入跨性别探索的故事。主角本是一名普通的男孩，拥有稳定的工作和女友，但一次聚会中的剧本杀游戏中，他被迫化妆和穿女装进行角色扮演。这一经历让他感受到前所未有的羞辱与刺激，同时也触发了他对于自我认同的思考。故事中，女友的朋友提出了一个惩罚——让他的女装照射被强吻，男友在愤怒中迫于无奈地执行了这个惩罚，导致一系列尴尬的后果。该作品深入探讨了角色的内心冲突、性别认同与个人欲望之间的关系，同时也涉及青春的迷惘与自我发现的复杂历程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_让我沉沦的意外之吻.doc]([变装]_让我沉沦的�
 | Size            | 304640 bytes                           |
 | MD5             | 644479844f1cd1b5dbf634045a1def3b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 角色扮演, 女装, 心理冲突, 强吻, 羞耻感, 性别认同, 自我探索, 聚会, 剧本杀, 女友, 恋爱, 同性恋, 情感纠纷, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

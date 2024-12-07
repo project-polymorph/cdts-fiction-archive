@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_月神_——_01_【含背景设定与剧情人物关系�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇围绕“月神”故事背景设定及剧情人物关系的伪娘 TS 变身小说的档案。故事发生在2035年，讲述了一个名为晓月的男生与其女朋友婷萱的互动，以及他们与朋友泷泽和泷泽的女友菲娅之间的关系。文件介绍了复杂的人际关系与情感动态，内容涉及到性别角色的转换与探索。小说使用了高科技设定，如高级仿生胶质材料的模仿与应用，描写皮物的制造与使用，以及通过技术手段获取生物三维模型的过程。内文包含一定的色情内容及情感描写，尤其是晓月被婷萱强制脱光后的心理变化与情感碰撞。通过对角色及其心理的细腻刻画，故事探讨了自我认知、性别认同和人际关系等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_月神_——_01_【含背景设定与剧情人物关系�
 | Size            | 19131 bytes                           |
 | MD5             | 138929e64e2721f50e66fc15c07875b7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | silverpine，ambiva                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 仿生科技, 情感关系, 青春校园, 科幻, 自我探索, 性别认同, 情节互动, 未来主义, 人物关系图, 男性视角, 特殊工艺, 角色扮演, 情感冲突, 异世界设定, 强制性行为, 恋爱关系, 男朋友, 女性命令                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

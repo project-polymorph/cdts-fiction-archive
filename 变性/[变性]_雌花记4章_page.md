@@ -7,7 +7,7 @@ TXT 下载: [[变性]_雌花记4章.docx]([变性]_雌花记4章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘性转与跨性别相关情节的小说第四章，标题为《雌花记》，主要围绕男主角秋美华的变性过程及其在家庭和社会中的角色转变。章节开头描绘了一个老人在寂静的阁楼中回忆，透过几幅照片，老人的内心挣扎与对女婿的无奈交织。秋美华的性别认同及其与丈夫李古之间的关系显露出复杂的情感和自我认同上的冲突。小说中间部分突显了秋美华在经历身体变革后，被欲望和社会角色所牵引的经历，尤其是伴随而来的身体变化和情欲冲突，这些情节充满了对性别与身份的探讨。同时，作者通过秋美华的内心独白和与李古的亲密互动，揭示了现代社会中跨性别者的复杂生活环境与情感纠葛。章节结尾则夹杂父子之间微妙的情感变化，表现出新父亲对儿子教育的关心以及秋美华作为母亲的责任感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_雌花记4章.docx]([变性]_雌花记4章.docx)
 | Size            | 25172 bytes                           |
 | MD5             | 9ae824054dc8427714a47f2ead8915e8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 自我探索, 性别认同, 情欲冲突, 父子关系, 社会角色, 情感纠葛, 伪娘, 强奸, 变嫁, 淫荡, 调教, 乱伦, 性转, 百合, 现代家庭                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

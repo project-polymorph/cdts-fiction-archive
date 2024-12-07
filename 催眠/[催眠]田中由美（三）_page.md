@@ -7,7 +7,7 @@ TXT 下载: [[催眠]田中由美（三）.doc]([催眠]田中由美（三）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部名为《田中由美（三）》的催眠小说第三章，讲述了主角田中由美在经历人格觉醒后的痛苦生活。故事围绕着她在木村和黑田的控制下，必须假装自己是一个精神过敏且性感的办公室妓女，由美在努力恢复自己真实自我的同时，不得不时刻维持她的伪装，以避免被揭穿。过程中，她描述了自己被迫接受的羞辱与操控，包括长时间的肛门塞和精液喂养的经历，同时还面临着监控与羞辱的双重压力。她的记忆中充斥着对曾经生活的渴望和对敌人的复仇心理，描绘了内心的挣扎与扭曲的自我认同。文中夹杂着主角对自己身体的认知和控制细节，以及在极端环境下的生存策略。此章节深入探讨了性别身份、欲望与控制之间复杂的关系，是一部充满挑战性的催眠小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]田中由美（三）.doc]([催眠]田中由美（三）.do
 | Size            | 40960 bytes                           |
 | MD5             | e61df235e342fc83e142677c04018c50                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 性别认同, 自我探索, 伪娘, 羞辱与操控, 办公室妓女, 人妖, 肛交, 精液喂养, 人格重置, 奇幻, 强烈的情感冲突, 反转与复仇, 监控与私生活, 极端扭曲的关系, 继承与改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

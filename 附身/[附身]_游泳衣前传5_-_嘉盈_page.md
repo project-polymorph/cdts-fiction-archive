@@ -7,7 +7,7 @@ TXT 下载: [[附身]_游泳衣前传5_-_嘉盈.doc]([附身]_游泳衣前传5_-
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于变身与跨性别相关的小说，讲述了角色胡素依在接受实验后获取女性身体的过程。故事围绕着素依如何逐渐适应新的身份，以及她和吕博士的互动展开。故事中，吕博士开发了一种新型的游泳衣，能够让穿着者的身体进行性别转换。随着时间的发展，素依发现自己愈发不愿意恢复原来的身体，而吕博士则希望进行更多实验。在夜晚，吕博士将素依的室友梁嘉盈作为实验对象，进行了身体的占有。文中详细描述了嘉盈被吕博士占有后，感受她的新身体的不安与兴奋，以及素依对此的复杂情感。文件的内容涉及性别认同与自我探索的主题，存在一定的限制级内容，包含了强烈的性暗示与露骨的情节描写.
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_游泳衣前传5_-_嘉盈.doc]([附身]_游泳衣前传5_-
 | Size            | 45568 bytes                           |
 | MD5             | e266ee067a9e9a9690c32c57319747b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别认同, 伪娘, 男娘, 游泳衣实验, 自我探索, 青春期烦恼, 身体交换, 情感纠葛, 性别转换, 强烈性暗示, 实验伦理, 复杂身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

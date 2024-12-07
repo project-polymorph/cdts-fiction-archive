@@ -7,7 +7,7 @@ TXT 下载: [[其他]_人性本恶(5).docx]([其他]_人性本恶(5).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章呈现了一个主角陈文的性别转变经历。故事从陈文醒来时的迷茫开始，得知自己正在经历非常规的变化，身体被紧身裙束缚，以及穿着裤袜的感觉使他意识到这一切的真实。通过与妻子许梦的对话，陈文了解到了一种新产品使他能够完成对声音和外形的转换。故事中描绘了陈文在酒店中穿着女性装束走出门时的羞愧和不安，旁人对他变化的注视与评价令他感到恐慌，同时内心的挣扎与兴奋相互交织。文章突显了对性别认同的探索，以及角色在自我认知上的变化，其内容涉及跨性别与性别转变的主题，是一部典型的性转小说，蕴含丰富的情感和心理描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_人性本恶(5).docx]([其他]_人性本恶(5).docx)
 | Size            | 16979 bytes                           |
 | MD5             | e2aacfb4337032e8d0c4ae629de3cc69                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 自我认知, 心理挣扎, 性转小说, 情侣关系, 女性装束, 羞愧感, 社会观察, 内心冲突, 自我探索, 科技幻想, 性别认同, 角色变化, 情感描写, 都市生活, 女性形象, 感官体验, 羞辱情节, 豪车                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

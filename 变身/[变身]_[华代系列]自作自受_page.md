@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[华代系列]自作自受.docx]([变身]_[华代系列]�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为伪娘相关的变身小说《华代系列》自作自受的内容，讲述了一位名叫真城华代的角色与客户间的互动，涉及角色心灵和身体上的烦恼解决。在一段奇妙的网络聊天中，太田在一个人生咨询网页中发起了对话，他对这个平台的免费服务感到好奇，希望能够寻求与女孩子相处的帮助。交流中，他们讨论了外貌、性格以及客户的特殊要求，展现了对性别认同和自我探索主题的关注。文中穿插了一些幽默的对话，体现了角色之间的互动与个性。整体文字风格轻松，涉及到一定的性暗示与性别角色的反思，是一部典型的性转与伪娘题材作品，适合对相关主题有研究和学习需要的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[华代系列]自作自受.docx]([变身]_[华代系列]�
 | Size            | 26606 bytes                           |
 | MD5             | 1fdee11c8d23d372367aaf9023c737ca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 性别认同, 自我探索, 幻想, 二次元, 女仆, 咨询服务, 隐私保护, 角色互动, 情感交流, 性暗示, 网络聊天, 心灵咨询, 压力释放, 强人所难, 奇幻背景, 青春期困惑, 委托关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

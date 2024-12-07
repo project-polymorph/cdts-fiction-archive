@@ -7,7 +7,7 @@ TXT 下载: [[变身]_「插图短篇」(淫魔的)血统相连的姐妹.docx]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《(淫魔的)血统相连的姐妹》描绘了一个充满魔幻与性别转换元素的故事。故事开始于一场事故后，一个男性角色在急救医院中昏迷，面临生死边缘。突然，有人问他是否想活下去，他的意识随之消失。在接下来的情节中，角色经历了一次性别转变，变成了一名少女，并且开始探索她的新身体和身份。小说中还出现了魅魔角色，强调了性别和身份认同之间的冲突和自我探索。故事包含了一些色情和幻想元素，描述了角色如何适应成为女性身份以及与其他角色之间的关系，特别是与同样是魅魔的姐姐之间微妙而亲密的互动。整个故事融合了变身、异世界和性别认同等主题，展现了一段复杂而充满幻想色彩的情感历程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_「插图短篇」(淫魔的)血统相连的姐妹.docx]([
 | Size            | 18310 bytes                           |
 | MD5             | 90d4be785f678f723cc4b4b9e5dd3d21                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 鎖連鎖                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 异世界, 魅魔, 性别认同, 色情文学, 幻想, 自我探索, 姐妹关系, 魔法, 生死边缘, 心理冲突, 性别转换, 魔幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[附身]_尘释录_[破镜篇]_3-4章.docx]([附身]_尘释录_[破
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《尘释录：破镜篇》包含了一个复杂而富有幻想色彩的故事情节，主要围绕角色李氿与杨樰的互动展开。故事中描述了杨樰在生死之间，经历了由鬼气引起的身体与意识的变化，展现了一种独特的双重意识的体验：李氿作为一个灵魂与杨樰的身体相互交织，李氿试图理解杨樰的情感和身体状态。随着情节的发展，杨樰因食用了过期的罐头而中毒，李氿意识到背后可能隐藏的阴谋。
+
+文本中充满了超现实与心理探索的元素，通过李氿的视角，作者展示出了对生与死、欲望与自由的反思。情节交错，构建了一个包含鬼气、躯体感知与内心纠葛的神秘宇宙，令人深思。文中包含了激烈的情感描写和对身体感觉的细腻刻画，例如对肉体力量的增强感和欲望的渴求，而这些体验完全是通过角色之间的精神联系所引发的。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_尘释录_[破镜篇]_3-4章.docx]([附身]_尘释录_[破
 | Size            | 31850 bytes                           |
 | MD5             | b026cf6b6e0e0e3fbe998beca2b05bd4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 鬼气, 心灵交融, 灵魂转移, 身体意识, 欲望, 自我认同, 双重意识, 幻想文学, 悬疑, 剧情反转, 超现实, 精神联系, 女主角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

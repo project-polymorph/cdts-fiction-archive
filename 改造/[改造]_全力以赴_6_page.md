@@ -7,7 +7,7 @@ TXT 下载: [[改造]_全力以赴_6.docx]([改造]_全力以赴_6.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是性转小说《全力以赴》第六章的内容，讲述了角色凯拉在新生活中的适应和心理变化。故事开头以凯拉和她的姐妹贝丝及朱儿丝在海滩晨跑为引，描绘了她们在阳光下的欢快情景和运动带来的新鲜感。凯拉感受到身体的变化和内心的振奋，体验到了在性别转变过程中新的身体感知。随着情节的发展，凯拉逐渐适应了新的身份，并开始享受女性的形象和打扮。姐妹俩帮助她进行着装和化妆的训练，凯拉在百货公司的购物中收获了自信，在姐妹的陪伴下，尝试了不同风格的服装，慢慢地融入了新的角色。在与其他舞伴的互动中，凯拉的性别认同和自我认知得到了进一步的挑战和认同。整章展现了凯拉在变身为女性的过程中，所经历的自我探索与情感成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_全力以赴_6.docx]([改造]_全力以赴_6.docx)
 | Size            | 52799 bytes                           |
 | MD5             | fe39532dd8b5eb4e912514bdb45c07e5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 自我探索, 姐妹情, 日常生活, 心理变化, 舞蹈, 购物, 女性化, 情感成长, 身份认同, 都市生活, 青春, 女性视角, 新生, 励志                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

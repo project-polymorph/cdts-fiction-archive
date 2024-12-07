@@ -7,7 +7,7 @@ TXT 下载: [[附身]_游戏就是我的人生.docx]([附身]_游戏就是我的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于角色穿越到游戏世界的小说，主要描绘了大学生陈清扬在某一天醒来时发现自己生活的世界实际上是个18禁的游戏。他的冒险开始于他面对这个陌生环境的适应和对游戏操作的探索。故事通过陈清扬的视角，呈现了他对这个世界的疑惑与挑战，尝试学习如何在这个由他自己决定剧情和角色发展的游戏中生存和冒险。随着情节的发展，陈清扬对自己的能力和人生目标进行探索，揭示了他内心的冲突，包括对自身欲望的反思和对游戏逻辑的运用。同时，文本中也涉及到社会性别和超能力的主题，呈现了一些幽默且富有创意的对话，尤其在他与其他角色的互动中，反映了二次元文化的特色。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_游戏就是我的人生.docx]([附身]_游戏就是我的
 | Size            | 29900 bytes                           |
 | MD5             | 8826fd95ea8440945df6aca1fb180c39                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 超能力, 催眠, 游戏, 二次元, 都市, 青春, 冒险, 性转, 角色扮演, 自我认知, 萝莉控, 强奸, 调教, 百合, 逆后宫, 虚拟现实, 魔法, 奇幻, 成年文                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

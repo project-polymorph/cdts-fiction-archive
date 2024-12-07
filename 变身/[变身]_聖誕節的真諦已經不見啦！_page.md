@@ -7,7 +7,7 @@ TXT 下载: [[变身]_聖誕節的真諦已經不見啦！.doc]([变身]_聖誕�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述的是一个关于信仰、圣诞节与性别变换的幻想故事。在北极的地底，小精灵们因信仰值的下降而感到忧愁。随着科技的进步，传统的圣诞节氛围逐渐淡去，人们对圣诞老人的信任也在降低。这篇小说通过薩坦，一个看似新任圣诞老人的角色来展开。薩坦不仅外表英俊，与传统印象截然不同，且他拥有独特的能力，能通过某种方式影响人类的信仰值。故事通过反映角色吳辰信的内心变化，探讨了信仰和自我认同的冲突。在一次意外情况下，因为吳辰信在网络上对情感的攻击而被薩坦施加魔法，最终经历了性别的转变。该故事展现了角色从一个窝里待着的单身宅男转变为一个拥有女人身体的女性，并在这一过程中与自身的身份认同产生冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_聖誕節的真諦已經不見啦！.doc]([变身]_聖誕�
 | Size            | 50176 bytes                           |
 | MD5             | 900ddbcf91993f7e1456ddffe0730dbf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘小说, 性别变换, 幻想故事, 圣诞节, 信仰, 自我认同, 小精灵, 网络暴力, 都市小说, 跨性别, 情感冲突, 魔法, 青春, 女装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

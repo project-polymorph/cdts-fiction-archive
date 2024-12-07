@@ -7,7 +7,7 @@ TXT 下载: [[交换]_新任哈里斯太太3-6.docx]([交换]_新任哈里斯太
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件名为《新任哈里斯太太》，包含了一段关于性别转换的小说情节。故事围绕两个角色在一次魔法事件后的身体互换展开，主人公从男性迈克变成了女性哈里斯太太，面临全新的身体和社会角色。随着故事的发展，迈克与哈里斯太太试图找回自己的身体，而他们在对方身份下的生活也让他们体会到各自身份的复杂性与挑战。迈克在新身体里经历的情感波动和心理变化，以及与哈里斯太太的互动，呈现出性别认同和自我探索的主题。小说不仅探讨了外在形象的转换，更深入地描绘了角色之间的情感矛盾与成长。这段文字中提到主人公对新身体的陌生感到困惑：“我愤愤地低下头，看着那两只留着闪亮长指甲的手……我能感觉到哈里斯太太的烦躁与怨念在不断的增长，而我也越来越害怕、越来越恐慌！”这些细节制造了一种身份错位的强烈感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_新任哈里斯太太3-6.docx]([交换]_新任哈里斯太
 | Size            | 31339 bytes                           |
 | MD5             | 224e0af9b4575093b59ebe4eda4bd1ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 魔法, 自我探索, 心理冲突, 丧失身份, 角色互换, 女性身份, 性别认同, 家庭关系, 悲伤与成长, 心理变化, 现代幻想, 情感发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

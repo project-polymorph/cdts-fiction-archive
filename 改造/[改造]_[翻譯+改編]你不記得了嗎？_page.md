@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[翻譯+改編]你不記得了嗎？.docx]([改造]_[翻�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性转与催眠的小说翻译及改编作品。故事围绕两位男性主角马可和杰克的重聚展开，他们之间讨论了曾经使用催眠的经历及其对他人产生的影响。故事中涉及对女性角色布兰克的描述和她在不知情下被催眠的情节，揭示了角色之间的道德冲突与自我认知的挑战。文章中多次提到性行为与催眠之间的关系，杰克声称他运用催眠对那些强奸者进行了惩罚，使其变成了自愿的性工作者，这引起了马可的质疑与反思。文本内容涉及成人向与性主题，且有较多不适合未成年人阅读的情节，尤其是关于催眠控制与性行为的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[翻譯+改編]你不記得了嗎？.docx]([改造]_[翻�
 | Size            | 24607 bytes                           |
 | MD5             | 591b45e9c9e872f6e50b39be1c303f4b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 催眠, 变性, 成人向, 性别认同, 变嫁, 跨性别, 伪娘, 强奸, 友谊, 道德冲突, 性别角色, 自我认知, 虚拟现实, 异世界, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

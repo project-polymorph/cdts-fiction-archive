@@ -7,7 +7,7 @@ TXT 下载: [[其他]_CD梦.doc]([其他]_CD梦.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《CD梦》讲述了小梦成长过程中的家庭故事和自我认同的探索。在一个四口之家中，小梦的父亲曾是高中的毕业生，但随着经济的发展和家境的改善，他逐渐变得自私与懒惰，最终与母亲关系紧张。小梦见证了父亲婚外恋和对家庭责任的逃避，而母亲则苦苦支撑这个家庭，经历了巨大的压力和痛苦。小梦在这样的家庭环境下成长，内心感到孤独与压抑。他开始怀疑自己的性别认同，渴望成为一个女孩，模仿姐姐的行为和穿衣风格。故事触及家庭关系、性别认同和自我发现等主题，描绘了小梦的奋斗和内心斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_CD梦.doc]([其他]_CD梦.doc)
 | Size            | 38400 bytes                           |
 | MD5             | d04b37022264ede3356a815e08531f24                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 家庭故事, 心理探索, 性别认同, 成长经历, 父子关系, 母子情深, 婚外恋, 社会压力, 自我发现, 青少年心理, 性别转换, 青春期困扰, 情感冲突, 逆境成长, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

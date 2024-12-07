@@ -7,7 +7,7 @@ TXT 下载: [[其他]_西游情厄传（第七至第八回）.doc]([其他]_西�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为《西游情厄传》中的一部分，主要讲述了行者（孙悟空）在未来世界与六贼相遇的奇幻经历。在第七回中，行者意外撞入未来的玉门，遭遇了曾经的敌人六贼。六贼以美妇人身份出现，试图剥夺行者的衣物和宝物，引发一场冲突。行者意识到自己失去了如意棒，开始思考自己在这个未来世界中的身份和处境。本回描写了行者在阎罗天子职务中的权力与责任，以及他如何处理冤屈和阴司事务。故事中出现了生死簿和阴司的繁杂事务，揭示了因果循环和轮回转世的主题。最终，行者决定替阎罗天子审理案子，对几个历史人物进行判决，并展开了一场精彩的审判过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_西游情厄传（第七至第八回）.doc]([其他]_西�
 | Size            | 33280 bytes                           |
 | MD5             | 6592b2fccd90c0d58624b01a766a9308                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 西方神话, 西游记, 跨界穿越, 审判, 轮回, 性别转换, 角色认同, 未来世界, 道德哲学, 神秘仪式, 奇幻文学, 性别议题, 自我探索, 权力与责任, 阴司, 历史人物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

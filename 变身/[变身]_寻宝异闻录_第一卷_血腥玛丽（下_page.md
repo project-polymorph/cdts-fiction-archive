@@ -7,7 +7,9 @@ TXT 下载: [[变身]_寻宝异闻录_第一卷_血腥玛丽（下.docx]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《变身_寻宝异闻录_第一卷_血腥玛丽（下）》，内容主要围绕主角李俊在遭遇魔法师伊丽莎白的阴影下，经历了一系列惊险且心理冲突的故事。在故事的开篇，李俊得知母亲的危机后，感到极大无力，但遇见了一名神秘女孩后，事情开始发生转机。女孩自信地声称可以帮助李俊追踪失踪的魔法酒杯，只要告知位置即可，而李俊则感到强烈的责任感，决心加入这场冒险。故事通过李俊与女孩的对话展示了对魔法和命运的探索，以及李俊对自我身份的重新认知。两人相互依赖，在绝望与希望之间不断挣扎，最终他们的命运将交汇于此。
+
+整个故事揭示了人物之间错综复杂的关系，以及在面对挑战时所展现的勇气与倔强。同时，文本中包含一些限制级内容，如魔法、控制与恐惧等情节，涉及性转与身份认同的主题，给读者带来深层次的思考与反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_寻宝异闻录_第一卷_血腥玛丽（下.docx]([变身
 | Size            | 52015 bytes                           |
 | MD5             | 1f0e0439b37dfb7ae716af6509dcf4fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 魔法, 冒险, 自我认同, 心理冲突, 黑暗魔法, 角色转变, 生存挑战, 女性形象, 心理描写, 青春成长, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

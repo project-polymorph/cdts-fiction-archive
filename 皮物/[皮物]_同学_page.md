@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_同学.docx]([皮物]_同学.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说的一部分，主要讲述了一名高中女生长岭佐纪在偶然的情况下发现自己在镜子中看到他人高木勇敢的脸，而自己却在男厕所里。故事围绕着角色自我认同的混乱展开，佐纪试图了解到自己和高木之间的关系，她甚至质疑自己的真实身份。在故事中，佐纪与高木的互动愈发复杂，包括提到是否可以恋爱的情景，同时带有心理上的深层探索和情感的挣扎。内容涉及自我认同与性别认同冲突，包含了一些限制级情节，具体描写了一些心理状态以及性暗示的场景，并触及亲密关系的建立。情节中穿插着青春校园生活的背景，为角色的发展提供了多元化的视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_同学.docx]([皮物]_同学.docx)
 | Size            | 22454 bytes                           |
 | MD5             | 60d4e2f7272c920e324d8b89d8b73efb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我认同, 伪娘, 青春校园, 心理探索, 变身, TSF, 爱情, 情感纠葛, 复杂关系, 限制级, 性暗示, 性别认同, 逆后宫, 校园生活, 打斗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

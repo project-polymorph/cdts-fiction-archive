@@ -7,7 +7,8 @@ TXT 下载: [[变装]_颠凰倒凤.doc]([变装]_颠凰倒凤.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于李纯与朴恩珠的变装与跨性别主题小说，内容围绕着李纯，一个被束缚的小脚皇帝的生活，以及他的身份认同和心理挣扎。故事开始时，李纯醒来后经历了一系列传统的宫廷生活细节，特别是缠足的过程，具体描绘了他对脚痛的习惯和对美丽小脚的认知。李纯逐渐适应了自己的角色，接受了对自己的束缚，内心却潜藏着对自由的渴望和对自我的思考。
+另一方面，朴恩珠则是作为当朝丞相之女，对于自己被安排进宫的命运心存不满。她主动隐藏自己的真实想法，显得更像一个男孩，追求自由和冒险。两位角色分别以相对的身份背景，展现了对性别认同与自我探索的矛盾和挣扎，反映了当时社会对性别与身份的压迫与期待。通过细腻的心理描写和生动的场景，小说探讨了传统文化对个人的影响，以及性别身份的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +22,10 @@ TXT 下载: [[变装]_颠凰倒凤.doc]([变装]_颠凰倒凤.doc)
 | Size            | 45568 bytes                           |
 | MD5             | bd7f9cacf7a9ca97e2c183f23979f909                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 缠足, 性别认同, 自我探索, 权力, 宫廷生活, 李纯, 朴恩珠, 小脚, 青春, 古代社会, 父权制, 心理描写, 内心挣扎, 个人自由                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

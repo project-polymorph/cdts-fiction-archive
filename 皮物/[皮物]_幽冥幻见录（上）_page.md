@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_幽冥幻见录（上）.doc]([皮物]_幽冥幻见录（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于穿越与鬼魂世界的幻想小说，描述了主人公在迷雾中恢复意识并发现自己身处陌生的地方。故事从主人公参加朋友婚礼并醉酒后失去意识开始，继而在鬼门关的背景下展开。主人公变成了一种透明的魂体，开始探索名为‘黄泉路’的神秘之地。途中，主人公发现鬼魂的状态及其模糊的外形，与某些传说相应的火红鲜花的映衬给了他些许生机。在经历与三眼鬼鸦的斗争后，获得了一名穿着蓝黑色警服的美女的救助，她展示了阴间的职能与装备，带领主人公进入下一个冒险。此文中的人物形象、奇幻场景、阴间法则与交锋情节，展现了生与死、欲望与道德之间的较量，以及自我认知的扭曲，充满了想象力的描绘和情感的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_幽冥幻见录（上）.doc]([皮物]_幽冥幻见录（�
 | Size            | 33792 bytes                           |
 | MD5             | c9ae45242e79470a8381a305c06086eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 穿越, 鬼魂, 黄泉路, 自我探索, 阴间, 鬼门关, 魂体, 幻想冒险, 女性角色, 警察, 灵异事件, 斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

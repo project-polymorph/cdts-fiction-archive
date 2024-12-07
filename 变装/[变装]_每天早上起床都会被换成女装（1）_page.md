@@ -7,7 +7,7 @@ TXT 下载: [[变装]_每天早上起床都会被换成女装（1）.doc]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描述了一名名叫申立轩的男性角色，他在一次醉酒后醒来时发现自己身体被迫镜像为女性形象，转变为一位打扮精致的女孩，身穿洛丽塔服装，并带着浓妆。这一奇异的变化让他感到震惊和困惑，尤其是他在镜子中看到的自己与他以往的形象差异悬殊。申立轩的内心充满自我认同的冲突，他时而对变装的美丽感到惊讶，时而对这一切感到反感和难以接受。文中详细描绘了申立轩的生活背景，包含他工作繁忙、饮酒应酬以及在职场中的不安与焦虑。通过他的内心独白，读者得以窥见他对性别认同和社会期望的思考。这篇文章探讨了性转和自我探索的主题，使读者对角色的感受产生共鸣。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_每天早上起床都会被换成女装（1）.doc]([变�
 | Size            | 56832 bytes                           |
 | MD5             | ea309026b339fb7ce706184ff8ab9120                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 自我认同, 社会压力, 内心冲突, 洛丽塔服装, 化妆, 醉酒, 性别探索, 女性形象, 都市生活, 奇幻, 年龄差, 强迫变装, 心理挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

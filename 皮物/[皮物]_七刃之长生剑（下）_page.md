@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_七刃之长生剑（下）.docx]([皮物]_七刃之长生
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《七刃之长生剑（下）》的文本，描绘了一个关于性别转换与科技交织的故事。在故事中，角色们探索隐藏在地下密室中的秘密，涉及到人造人和高科技商品的交易。主要角色赵宫铭与其同伴们通过一个隐秘的电梯到达地底密室，发现了一个形状奇特的匕首以及相关的高仿真自走型感应机器人。故事中提到的‘永恒之心’是一种关键材料，其调制方式及其与毒品之间的关系揭示了权力与欲望之间的相互作用。文本融合了科幻、跨性别及相关性暗示的元素，展现了角色们在复杂的社会环境中寻找自我与欲望的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_七刃之长生剑（下）.docx]([皮物]_七刃之长生
 | Size            | 31179 bytes                           |
 | MD5             | 39d8d0b91a92700ac708dac020373525                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 人造人, 性别转换, 电梯密室, 黑市交易, 科技幻想, 永恒之心, 午夜天使, 自我认知, 隐藏身份, 权力斗争, 科幻, 二次元, 猎奇, 变装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

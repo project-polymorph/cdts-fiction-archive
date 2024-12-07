@@ -7,7 +7,7 @@ TXT 下载: [[改造]_丽姿航空.doc]([改造]_丽姿航空.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身相关的短文，围绕丽姿航空这家新兴公司展开。文中描绘了一位名为高明的角色，他在经历了人生的重大变故后，登上了丽姿航空公司的航班。买票的原因虽是出差，但在这次航程中，他无意间遇见了一位空姐，空姐的形象似乎唤起了他对亡妻的回忆。二人之间的互动逐渐升温，充满色彩与欲望，尤其是当空姐解锁了一个特殊服务后，高明内心的挣扎与欲望交织在一起，形成了一段充满情感与交融的故事。全文情节牵动，涉及到人生的痛苦、失落，以及重燃激情的色彩，风格较为大胆，内容也包含了一定的性暗示与情绪回响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_丽姿航空.doc]([改造]_丽姿航空.doc)
 | Size            | 46080 bytes                           |
 | MD5             | fbd1ce9e9f2ff89ef380693570a2ffa3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, TS变身, 航空公司, 情感纠葛, 自我认知, 成人内容, 强烈情欲, 角色转变, 往事回忆, 冲突与和解, 空姐                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_揭露真相的人（上）.docx]([皮物]_揭露真相的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘变身与跨性别相关的小说，名为《揭露真相的人（上）》。故事设定在一座繁华的城市中，主要描绘了两位帅气年轻人的生活：私家侦探曲长卿和自称怪盗的侯芳玉。侯芳玉，一个科学鬼才，因对腐败的厌恶而选择了游侠的生活。他不仅是一名侦探小说爱好者，还是一个身份多变的怪盗，喜欢以人皮面具伪装成其他人。 在夜幕降临的城市中，侯芳玉对自己所扮演的角色感到自豪，并在与保安和其他角色的互动中展现了他复杂而狡诈的计划。情节中穿插了侯芳玉假扮成职场女实习生“夏莉莉”的细节，展现了他获得并利用他人信任的过程，以及他对美丽女性形象的考量与欲望。整部作品强调了性别认同、自我探索和身份转换等主题，并通过侯芳玉的视角施加了引人入胜的转折与悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_揭露真相的人（上）.docx]([皮物]_揭露真相的
 | Size            | 41796 bytes                           |
 | MD5             | 515842aeceaf2f7813a5722e8d150651                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 怪盗, 人皮面具, 身份转换, 性别认同, 自我探索, 剧情反转, 悬疑, 都市, 小说, 性转, 角色扮演, 性感办公室, 心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

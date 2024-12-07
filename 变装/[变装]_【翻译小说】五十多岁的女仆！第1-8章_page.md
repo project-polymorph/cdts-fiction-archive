@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译小说】五十多岁的女仆！第1-8章.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一份关于一位名为尼克的男性角色的小说文档，内容围绕他的提前退休决定和对生活方式的重新审视。故事中，尼克在与妻子帕姆的对话中，透露出他对成为家庭主妇（女仆）生活的兴趣，这引发了对性别角色和家庭责任的深入探讨。尼克回忆起自己对女性化角色的向往，以及多年来压抑这个愿望的经历。故事清晰地描绘了夫妻之间的对话，帕姆虽然最初表现出疑虑，但也逐渐理解和接受尼克的决定。文中提到的情节涉及到角色的心理变化，自我认同，以及家庭生活的安排，表现出复杂的感情和社会性别观念的交错。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译小说】五十多岁的女仆！第1-8章.docx](
 | Size            | 59305 bytes                           |
 | MD5             | 2b2a86c134885df7e7377c8174728b68                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 家庭主妇, 心理探索, 夫妻对话, 自我表达, 生活方式, 性别角色, 家庭责任, 养老计划, 女性化, 同性恋, 中年危机, 职场与家庭, 现代家庭                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

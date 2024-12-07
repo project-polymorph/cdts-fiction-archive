@@ -7,7 +7,7 @@ TXT 下载: [[其他]_变身女朋友去旅行【1】.doc]([其他]_变身女朋
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说以第一人称的视角讲述了作者为第一次旅行做准备的故事，细腻地描绘了人物的内心挣扎与自我认同的探索。故事的主人公与好友小米（米南）通过网络结识，一起策划到上海旅行。主人公在准备行李时，心中充满了忐忑与兴奋，担心别人的目光和对自我形象的认同。文章中详细描述了主人公为隐藏身份而面临的挑战，例如在安检时的心虚，以及与好友相处时的甜蜜感受。特别是在角色扮演时，主人公的心态转变和对女性形象的渴望，以及在旅行中的点滴互动都让人感受到愉悦。同时，故事也涉及到性别认同和社会认同等议题，充满了真实而又温柔的描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_变身女朋友去旅行【1】.doc]([其他]_变身女朋
 | Size            | 39424 bytes                           |
 | MD5             | 6015f6b59596ffe89fdd4e09b89d75bc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 性别认同, 角色扮演, 自我探索, 青春旅行, 友谊, 内心挣扎, 初次旅行, 伪娘文化, 网络交友, 情感描写, 女性形象, 社会认同, 高跟鞋, 短裙, 可爱外表, 男生穿女装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

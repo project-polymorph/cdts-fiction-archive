@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[短篇]就是要她的身體.doc]([附身]_[短篇]就是
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇性别变换题材的小说，讲述了一个名叫小威的男孩在经历了一系列的生活挫折后，通过召唤灵魂体进行身体交换的故事。小威的生活在其父亲自杀、母亲离家和女友背叛等事件后情绪崩溃，他在酒吧中买醉时偶遇了一位神秘中年人，从而引发了一系列超自然的事件。小威向这位巫妖献出了自我的血肉，期望能获得成为灵魂行者的机会以寻找新的身体。最终，小威选择了自己的前女友婷惟作为新的容器，在她的身体里展开了一段新的自我探索旅程。小说细腻地描绘了婷惟发现自己身体变化的种种体验，表达了对身体欲望的探索和对自我的重新认知。同时，作品也涉及了较为大胆和成人化的内容，包括性行为的描写。整体而言，小说通过变身情节探讨了性别认同、自我意识及欲望的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[短篇]就是要她的身體.doc]([附身]_[短篇]就是
 | Size            | 33280 bytes                           |
 | MD5             | 361a1adb93482525ba5d0bf3c1366697                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别变换, 跨性别, 灵魂交换, 欲望探索, 变身, 魔法, 青春, 爱情, 孤独, 自我认同, 二次元, 伪娘, 强烈情感, 悲剧, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

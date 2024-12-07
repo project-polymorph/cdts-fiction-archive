@@ -7,7 +7,7 @@ TXT 下载: [[变身]_恐怖微信群第六章.doc]([变身]_恐怖微信群第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《恐怖微信群》第六章，主要围绕角色吕仁的独特与神秘经历展开。本章开头描绘了午夜的车站氛围，吕仁在一个几乎无人候车的车站中等待着一趟奇怪的列车。随着列车进站，吕仁踏上了这段未知旅程，他心中充满疑虑与好奇，随着乘客们的出现，局面愈发让人感到不安。此外，文章中描绘了旗袍美女的形象，触发了吕仁内心的复杂情感。吕仁对列车乘客身份的探究，和对任务具体性质的怀疑，使得故事情节逐步紧张起来，暗示着后续可能发生的灵异事件。书中涉及对灵异世界的探讨，也是对角色内心冲突的深刻剖析。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[变身]_恐怖微信群第六章.doc]([变身]_恐怖微信群第�
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 385324af6471c691ff3fd2e4c9e44118                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 灵异, 悬疑, 列车, 伪娘, 自我认知, 情感冲突, 超自然, 奇幻, 都市传说, 任务, 夜间旅行                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

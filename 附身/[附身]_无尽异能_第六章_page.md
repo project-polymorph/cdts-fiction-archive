@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无尽异能_第六章.docx]([附身]_无尽异能_第六�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为“无尽异能”系列小说第六章，主要围绕角色张紫幽展开。故事开头描述了张紫幽醒来后的情景，她在阳光的照射下感到不满，随着情节深入，她意识到自己身体的性感和美丽。文本细致描绘了张紫幽日常生活的细节，包括洗澡的画面、对自身身体的欣赏以及外界的关注和调侃。张紫幽的内心独白透露出她对这具新身体的喜爱，同时表现出对过去自我的感谢。章节中的高潮部分是张紫幽在浴室中的独特体验，表明了性魅力与性欲的交织。之后，她与姐姐的互动展现了亲密的姐弟情，揭示了张紫幽的性格层面——既娇羞又活泼，充满依赖心理。本章节整体氛围暧昧，展现出青春时期的探索与自我认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无尽异能_第六章.docx]([附身]_无尽异能_第六�
 | Size            | 18652 bytes                           |
 | MD5             | 852386d9215b7943ed68c7bac1e5c35a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 异能, 青春, 姐弟情, 自我探索, 性别认同, 二次元, 蓝图故事, 冲突与转变, 强烈的性吸引, 浴室体验, 少女心, 心理描写, 日常生活, 魔法, 幻想世界, 美少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

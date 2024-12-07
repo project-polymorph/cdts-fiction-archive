@@ -7,7 +7,7 @@ TXT 下载: [[变身]_衣服（十）.doc]([变身]_衣服（十）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇将身体性别和心灵体验交织在一起的小说，以第一人称视角来描绘主角一个男生体验女性身份的心理变化与身体感受。故事背景设定在都市校园，融合了超能力和轻微色情元素，情节发展缓慢，以主角从探求女性自慰快感开始，逐步深入到探索自身性别认同与快感体验的复杂关系。主角在文中反复思考自己作为男性时的性冲动和作为女性时的欲望体验，表现出强烈的身份认同与生理感知的矛盾。此外，文中还描述了令人联想到高潮和快感的细致过程，包括对身体各部位触感的深度描写，如“随着我手指的动作，我的身体也再次变得如刚才那样火热起来”，以及对自身性感觉的自我探索，直至最终的意识恍惚与满足。这个故事不仅探讨性别身份的变化，也同时触及到性欲与快感的内在体验，是一篇集幻想与现实于一身的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_衣服（十）.doc]([变身]_衣服（十）.doc)
 | Size            | 66048 bytes                           |
 | MD5             | 1164bc208f4366b3051ca9742d4f9ae1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性别认同, 自我探索, 都市校园, 轻小说, 超能力, 抽插体验, 快感, 身体认知, 异能, 爱液, 第一人称, 内心戏, 心理变化, 女性视角, 情欲, 慢热, 高潮, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

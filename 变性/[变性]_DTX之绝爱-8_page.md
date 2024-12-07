@@ -7,7 +7,7 @@ TXT 下载: [[变性]_DTX之绝爱-8.doc]([变性]_DTX之绝爱-8.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇以性别转换和跨性别主题为背景的小说文本。故事围绕主人公的变身经历展开，描述了角色在变成女性后与旧识陈立峰的电话交流，以及与赵大海的合作关系。主人公通过变声器与陈立峰通话，表达了对过去的反思和对未来的期望。文本中还提到了医学实验的计划，具体是招募男性和女性进行性别转变的研究，显示了对性别认同的探索与探讨。这些情节涉及角色的心理变化、自我认同的矛盾以及与他人的关系，呈现出一个充满内心挣扎和社会议题的故事。值得注意的是，文件可能包含一些敏感和限制级的内容，但作者尽力以客观的方式呈现，以供学习与研究之用。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_DTX之绝爱-8.doc]([变性]_DTX之绝爱-8.doc)
 | Size            | 49152 bytes                           |
 | MD5             | 119a149aa26d0fcd05118791eb3cba02                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 变性小说, 自我探索, 情感纠葛, 医学实验, 角色转换, 心理挣扎, 社会议题, 变声器, 真实与虚幻, 清纯爱情, 友情, 性别认同, 自我反思, 技术改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

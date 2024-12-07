@@ -7,7 +7,7 @@ TXT 下载: [[其他]_丑汉子变装丑女上《伪娘释放》.doc]([其他]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《丑汉子变装丑女上《伪娘释放》》，内容围绕一个长相丑陋的男孩花满楼的伪娘生活及其参加的综艺节目展开。在综艺节目中，花满楼展现出其伪娘身份，尽管他深知自己的外表并不出众，却依然执着于这份热爱。文件中的叙述以音乐和镜头的切换为主线，生动地描绘了花满楼的内心撕扯和追求自我表达的过程。在节目中，他在观众和评委面前搞怪与调侃，营造了一个有趣而又充满挑战的伪娘生活。通过其与女主持浮云儿的对话，展现了他的性别认同及追求美的不同视角。尽管外界的眼光和评价不一，但他似乎找到了一种宣泄与自我认同。该作品涉及性别认同、自我探索等深层主题，以及伪娘文化和个体差异的表现，适合作为研究材料。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_丑汉子变装丑女上《伪娘释放》.doc]([其他]_�
 | Size            | 69120 bytes                           |
 | MD5             | ab777c845da828c5f194fb8a91e546fa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性别认同, 综艺节目, 内心探索, 自我表达, 特殊兴趣, 奇幻, 非主流文化, 人性化 depicted pressures, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

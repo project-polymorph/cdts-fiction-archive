@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[七宗罪·色欲篇]_拉修莉亚（表）·番外篇.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为《七宗罪·色欲篇》中‘表·拉修莉亚’番外篇的详细叙述，该角色是故事的平行版本，体现了现实世界与小说内容的交织。文中拉修莉亚是一名充满魅力的服装设计师，她在一次聚会上表现出强烈的自信和对传统权贵的挑战。文中通过对拉修莉亚以及她的搭档修的描写，展现了她们之间的亲密关系以及拉修莉亚内心深处对自我形象的独特看法。故事背景设置在现代都市，一方面描绘了拉修莉亚的优雅外表与对比修的可爱形象，另一方面探讨了她们对诱惑与美的理解。情节中包含现代都市生活的轻松气氛以及对身份探索的潜在反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[七宗罪·色欲篇]_拉修莉亚（表）·番外篇.do
 | Size            | 561438 bytes                           |
 | MD5             | ebe4f8e6f89a8f6a2585030061a8bc93                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 现代爱情, 自我探索, 男性向, 女性向, 二次元文化, 服装设计, 都市生活, 亲密关系, 性别认同, 轻松搞笑, 爱情纠葛, 奇幻元素, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_《办公室的故事》第三章.doc]([其他]_《办公�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为名为《办公室的故事》第三章的小说内容，讲述了一名男性角色在辞去公司职位后，逐渐沉浸于伪娘和SM幻想中，探索个人性别认同与角色转变的经历。故事中，主人公回忆辞职时的情景，并表达对于工作与性别认同的困惑。随着情节的发展，主人公在家庭环境中构建了自己的奴役幻想，体验各种束缚和调教的细节，展现了角色在对自我认同和欲望之间的挣扎与妥协。文中包含了许多涉及性和变态主题的具体描写，展现了主人公对异装与性别认同的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_《办公室的故事》第三章.doc]([其他]_《办公�
 | Size            | 65024 bytes                           |
 | MD5             | 69991c7dfbbbf3317f459683fe39dd02                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 性别认同, SM, 调教, 职场, 幻想, 自我探索, 禁忌情节, 性转, 心理戏, 情感冲突, 同性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

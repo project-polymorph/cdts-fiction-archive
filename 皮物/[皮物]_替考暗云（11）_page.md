@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_替考暗云（11）.doc]([皮物]_替考暗云（11）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是《替考暗云》的第十一章，情节围绕汪凯和一个神秘女生杨瑾在一个宴会中的互动展开。故事中，汪凯被卷入一个充满阴谋和权力斗争的组织。在宴会上，杨瑾与汪凯的会面引发了汪凯对她身份的怀疑，她穿着哥特风格的服饰，面具下隐藏着她的真实身份。宴会上展示了组织内部的结构和升迁的规则，甚至涉及影片中的黑暗交易和如何获取资源等，透过角色们之间的对话揭示出这个组织的庞大和复杂。汪凯意识到自己面临的危险，也对如何拯救母亲产生了困惑，而杨瑾则声称能帮助他。整章在揭示这个神秘组织运作模式的同时，也涉及到性别认同和个人欲望的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_替考暗云（11）.doc]([皮物]_替考暗云（11）.do
 | Size            | 39936 bytes                           |
 | MD5             | d7c528afbb771f62f693c3e9794f4913                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 阴谋, 黑暗交易, 年轻女孩, 身份认同, 权力斗争, 狂欢, 宴会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

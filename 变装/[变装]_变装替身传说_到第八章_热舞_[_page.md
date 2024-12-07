@@ -7,7 +7,7 @@ TXT 下载: [[变装]_变装替身传说_到第八章_热舞_[.docx]([变装]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《变装替身传说》描写了一位替身演员在事业上的挣扎与他与女友之间的感情故事。主人公生活在S市，虽然在替身演员这个竞争激烈的行业中没有获得成功，但他十分珍惜与女友苏情的关系。苏情是一名电影学院的毕业生，现在是助理导演，二人感情深厚，期待共同的未来。然而，女友的一次神秘提议将主人公卷入了意想不到的工作机会，这似乎需要他扮演女角色。故事中围绕着性别交换、职业挑战以及爱情的探索展开，涉及到角色心理、社会认知等层面。文中提到主人公对女友的观察以及他们的亲密互动，展现出微妙的情感变化。文本中包含一些成人内容，描绘了主人公与女友在亲密关系中的互动和情感冲突。对于该故事主题的反思和人物心理的细腻描写，使得这是一部富有深意的性转小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_变装替身传说_到第八章_热舞_[.docx]([变装]_�
 | Size            | 117612 bytes                           |
 | MD5             | dc28e69bcb71b4104f87e41eb60fdfaa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 替身演员, 爱情, 亲密关系, 女友, 生活挣扎, 变装, 成人内容, 情感探索, 娱乐圈, 自我认同, 职业挑战, 性别认同, 感情纠葛, 社会认知, 职场竞争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

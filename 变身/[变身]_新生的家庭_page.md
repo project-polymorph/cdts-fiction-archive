@@ -7,7 +7,7 @@ TXT 下载: [[变身]_新生的家庭.docx]([变身]_新生的家庭.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇故事以一个家庭为背景，描绘了一名21岁的大二学生及其家人日常生活中展现的温馨场景。然而，故事逐渐引入了奇幻和性别变化的主题。开头，两个模糊的物体在小巷子里交流，暗示了奇妙实验的前奏。随着情节的发展，弟弟身上发生的变化逐渐显现，开始呈现出女性的特征，令人震惊。在吃晚饭的过程中，弟弟的形象变化逐渐显露，最终他化作一位女性，语音变得清亮，身材曲线逐渐明显，形成鲜明对比的是哥哥对弟弟变化的惊愕与关切。整体上，作品以幽默的笔调探讨了性别认同与家庭之间的复杂关系，并引发了关于自我认知的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_新生的家庭.docx]([变身]_新生的家庭.docx)
 | Size            | 30096 bytes                           |
 | MD5             | d8e0897c14dfa64f9a078f3513b9d3c9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 家庭, 自我认知, 温馨, 奇幻, 性别变化, 青春, 校园生活, 性别认同, 男性转女性, 剧情发展, 兄弟关系, 人际关系, 日常生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_隐形的利刃.doc]([变装]_隐形的利刃.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为一篇变装小说，讲述了一名普通男性角色在执行任务过程中的变装经历。故事内容围绕着主角在暗网组织中作为一名卧底的故事展开。他的目标是一个涉及洗黑钱的银行家，通过使用变装技术，主角企图在一场内部年会上接近目标，以获取机密信息。文中描述了主角如何利用特殊的面具与义乳等道具，实现身份的完全转换，甚至包括外貌、衣物和行为习惯的细致模仿。故事深入探讨了角色的内心冲突与自我认同，呈现了一场关于性别与身份的探索之旅。随后的情节则展示了任务过程中出现的各种意外情况，包括对不同人物的关系处理以及最终在年会上的互动。文中还包含了错误的时间和合理化的性爱与性别转换的细节，增加了故事的戏剧性和吸引力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_隐形的利刃.doc]([变装]_隐形的利刃.doc)
 | Size            | 41984 bytes                           |
 | MD5             | 5b4dbd780e4ae14efd8b65d36be5c219                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 卧底, 洗黑钱, 艺术, 变身, 小说, 二次元, 性转, 身份认同, 复杂人际关系, 心理斗争, 情感纠葛, 秘密任务, 女装大佬, 恶趣味, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

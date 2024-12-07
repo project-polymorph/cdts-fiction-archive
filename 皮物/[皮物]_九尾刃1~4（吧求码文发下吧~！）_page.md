@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_九尾刃1~4（吧求码文发下吧~！）.docx]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部小说的摘录，讲述了主角帆的故事，背景设置在一个结合了现代与古代元素的世界。在千年后的今天，主角意外发现了一本名为《九尾刃传承》的古书，书中提到了一把源自古代的神器，并与主角的生活发生了交集。随着故事的发展，主角在书店老板的帮助下，试图解谜古书中隐藏的秘密，并计划前往某个地点寻找这个神器。文件中包含了关于神器的背景传说、主角的成长背景、他在大学生活中的孤独感、以及他对同龄人羡慕的心情。整体风格结合了奇幻与探险元素，情节展开引人入胜，充满了对未知的探索与自我认同的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_九尾刃1~4（吧求码文发下吧~！）.docx]([皮物]
 | Size            | 39244 bytes                           |
 | MD5             | 052f6fd81fc1cc5c2e2fbd16abea98c0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-XX-XX                                 |
+| Tags            | 性转, 奇幻, 冒险, 自我探索, 神器, 现代与古代结合, 孤独, 成长, 九尾狐, 古书, 校园生活, 探索, 悬疑, 神秘, 转变, 角色发展, 科技与魔法融合, 情感纠葛, 战斗, 友情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

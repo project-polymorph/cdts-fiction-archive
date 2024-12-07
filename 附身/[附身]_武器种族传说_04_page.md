@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_04.docx]([附身]_武器种族传说_04
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《武器种族传说》的变身小说的第四章。故事围绕新生艾奇奥与来自豪门的卡尔之间的竞争展开。艾奇奥的特殊能力使他能凭空召唤出一匹火焰骏马，而卡尔则依靠其家族的实力和异能者的身份施加压力。章节中包括了双方的赌注、学校的赛马比赛、以及艾奇奥如何利用自身的能力逆转局势，险些让卡尔陷入困境。同时，蕾和凌韵儿对艾奇奥的支持和情感展示了角色间复杂的关系。通过卡尔的反应可以看出，他不仅目中无人，还对艾奇奥的实力和身边的女孩产生嫉妒。在这一过程中，也揭示了权力、家庭背景与个人能力之间的联系。文中穿插了一些轻松幽默的互动，以及对人际关系的观察，尤其是在学校这样的环境下。整体而言，故事融合了变身、校园斗争及情感纠葛，展现了一个丰富多彩的二次元世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_04.docx]([附身]_武器种族传说_04
 | Size            | 34660 bytes                           |
 | MD5             | 2f79b1085e9d0618bcdfb59d29102bb8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, TSF, 变身, 校园, 异能, 小说, 竞争, 火焰骏马, 家族矛盾, 情感纠葛, 青春, 魔法, 赛马, 大叔, 冒险, 二次元, 自我认知, 身份认同, 逆境逆袭, 特殊能力, 女主角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

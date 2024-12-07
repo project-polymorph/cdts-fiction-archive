@@ -7,7 +7,7 @@ TXT 下载: [【万万没想到】双鱼玉佩3.doc](【万万没想到】双鱼
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部涉及伪娘 TS 变身与跨性别主题的小说，主要描绘了角色彭武与陈研、江萍之间复杂的情感关系和身份转换过程。故事的开头，两位角色在亲密关系中逐渐意识到性别认同与自我探索的重要性。彭武已经恢复了记忆，并在与陈研的互动中展现了对自身身份的困惑和接受。江萍（以彭武的身份出现）在主导的情景下，尝试用母亲的身份去影响江萍的想法，展现出一种错综复杂的师生和家庭关系。小说中夹杂着情感的探索与身体的改造，以及对女性形象的塑造，涉及到了诸如化妆、服装和外表改造等细节，描绘了这种变身过程的心理和生理变化，每个角色都在努力适应新的身份。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [【万万没想到】双鱼玉佩3.doc](【万万没想到】双鱼
 | Size            | 52224 bytes                           |
 | MD5             | 9198af5f921dcf3648f98b24c093fa81                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身, 性别认同, 幻想, 自我探索, 师生关系, 情感纠葛, 身份转换, 变嫁, 强奸, 调教, 年龄差, 逆后宫, 女装, 社会角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

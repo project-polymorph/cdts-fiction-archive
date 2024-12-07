@@ -7,7 +7,7 @@ TXT 下载: [[其他]_《雌堕》_续_3.doc]([其他]_《雌堕》_续_3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节以宋文珂与张然的对话为主线，主要探讨了性别认同及个人情感的发展。章节开头，张然关心宋文珂的睡眠状况，表现出她的温柔与关怀。随着情节的发展，宋文珂不断回忆起过往的个人经历，尤其是在提到与赵俊泽的恩怨时，流露出他的痛苦与挣扎。张然则以她的成熟和对宋文澄的支持来回应，展现了两者之间微妙的情感纠葛。后续，宋文珂被强迫面对自己的身份，成为宋家的掌门人，体现了对家庭责任的无奈与承担。本章还描绘了一些性别转换和变装的暗示，整体氛围充满了对身份认同的探讨和情感的波动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_《雌堕》_续_3.doc]([其他]_《雌堕》_续_3.doc)
 | Size            | 38912 bytes                           |
 | MD5             | efc32e4ceab7a5792015a90d8a5dc5d5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 跨性别, 家庭责任, 自我探索, 情感纠葛, 失踪事件, 青春, 个人经历, 友情, 情感冲突, 权力动态, 华夏文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

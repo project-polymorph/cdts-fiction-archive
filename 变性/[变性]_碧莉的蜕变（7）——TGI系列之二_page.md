@@ -7,7 +7,7 @@ TXT 下载: [[变性]_碧莉的蜕变（7）——TGI系列之二.docx]([变性]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为变性相关小说，标题为《碧莉的蜕变（7）——TGI系列之二》。在第十一章中，讲述了主角碧莉在经历了变性手术后的心理变化和对未来生活的迷茫。故事始于碧莉手术后的恢复期，她仍在静养，而医生与朋友们则策划如何引导她接受新身份。帕梅拉和汤尼担心碧莉一旦知晓手术结果，可能会出现精神崩溃。因而，他们构建了一种策略，试图通过信任与心理辅导来帮助碧莉渡过心理关，强调她仍然有可能恢复男性身份。文件深入探讨了变性手术后的心理辅导及其对个体认同的影响，引发关于性别认同和社会角色认知的思考。此文中涉及成年内容与情感复杂性，描绘了角色间的互动和对身份的认同危机。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_碧莉的蜕变（7）——TGI系列之二.docx]([变性]
 | Size            | 46587 bytes                           |
 | MD5             | 318378e7a66df93514dbe211b07099eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变性手术, 心理辅导, 性别认同, 女性身份, 情感纠葛, 自我探索, 社会角色, 雌性激素, 认知冲突, 变嫁, 二次元, 幻想, 医疗伦理, 角色转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

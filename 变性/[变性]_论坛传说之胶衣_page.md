@@ -7,7 +7,7 @@ TXT 下载: [[变性]_论坛传说之胶衣.docx]([变性]_论坛传说之胶衣
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件以小说形式讲述了一位论坛用户的奇幻经历，他因穿上乳胶紧身衣而引发了一系列奇妙而扭曲的变性体验。故事开始于这位用户在论坛上的一次尝试，他穿上紧身衣自慰后，体验到了前所未有的快感，甚至产生了紧身衣吞噬自己的幻觉。随着故事的发展，这件紧身衣似乎获得了意识，逐渐改变了他的身体和性别认同，导致他变成了一名依赖于胶衣生活的女性。这篇短文探讨了性别认同、自我探索以及个体适应的复杂性，涉及到滑稽和荒诞的情节，读者在其中可以感受到角色内心的挣扎和变化。文中描述了角色的幻觉以及梦境，令人深思。此外，作者运用了一些有趣且富有想象力的元素，使得故事充满了奇幻的色彩和对性别问题的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_论坛传说之胶衣.docx]([变性]_论坛传说之胶衣
 | Size            | 17809 bytes                           |
 | MD5             | 0c4a039ce42089fe1264669291f3bc68                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 重口味女王                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 乳胶, 自我认知, 幻想, 论坛文化, 身体改造, 性别认同, 凝视, 性幻想, 双性, 成人内容, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

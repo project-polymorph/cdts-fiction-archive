@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交错的人生（二）.doc]([交换]_交错的人生（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文档《交错的人生（二）》展示了罗悦与主人之间复杂的情感以及她内心深处的挣扎。故事开头描绘了炎热的夏天，罗悦在等待出租车时的心态，以及她对自己身体的认知和性别身份的模糊感。随故事发展，罗悦逐渐陷入了一种无法自控的快感中，表现出对主人强烈依赖与渴望的矛盾心态。在一次与主人亲密接触中，罗悦的自我认知出现分裂，她意识到自己只是一名“肉便器”，而内心的挣扎展现出对性别认同和自由意志的渴求。随着情节深化，罗悦试图夺回对身体的控制，然而却面对巨大的心理冲突与身体的非自愿反应。同时，罗悦与她哥哥之间的联系也暗示着家庭情感的复杂性。文中通过细腻的描写和强烈的情感对比，探讨了性别认同、欲望和自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交错的人生（二）.doc]([交换]_交错的人生（�
 | Size            | 40960 bytes                           |
 | MD5             | 5a05bcfee6aca0647c08e55e991d13b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 欲望, 真相探寻, 内心挣扎, 肉欲, 兄妹情, 角色扮演, 自我控制, 药物诱惑, 极端体验, 现代都市, 极端情感, 强烈依赖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

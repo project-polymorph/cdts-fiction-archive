@@ -7,7 +7,7 @@ TXT 下载: [[其他]_亵偶_第十二章（完）_[.docx]([其他]_亵偶_第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为短篇小说的第十二章，描绘了一个未来科技高度发达的城市在遭遇大规模停电后，人们因失去光明和信号而陷入恐慌与混乱的情景。故事围绕几个主要角色郑拓、尹平和舒展开，他们在城市黑暗中逐步揭示人和科技之间的复杂关系。夜幕降临，随着电力的消失，原本依赖科技的繁华城市变得无所依靠，显露出人们内心的恐惧与无助。郑拓面对人群的兴奋与绝望感到悲哀，他意识到人们已习惯于快速的信息流，却在失去这些后显得茫然。随着剧情的发展，三名角色进入一处被遗忘的实验基地，探讨他们过去与科技的交集及未来的命运。文件中还涉及关于虚拟与现实的反思，以及意识复制和人类情感的漠视等深刻话题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_亵偶_第十二章（完）_[.docx]([其他]_亵偶_第�
 | Size            | 20838 bytes                           |
 | MD5             | c0ec7c34a170b6ea35eb0a4d31322694                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 未来世界, 科技社会, 人性探索, 意识形态, 反乌托邦, 科幻小说, 角色发展, 群体心理, 停电事件, 实验基地, 虚拟现实, 情感漠视, 城市生活, 人机关系, 孤独感, 社会批判                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

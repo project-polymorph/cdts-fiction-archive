@@ -7,7 +7,7 @@ TXT 下载: [[变身]_美式小品文短篇集（一）.docx]([变身]_美式小
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于变身、性别转换和自我认同的美式短篇小说集，内容包括多个关于青少年性别转换的故事。故事的主人公科林，他因调皮捣蛋而被父母送往特殊诊所接受治疗。在一次奇妙的治疗中，科林经历了性别转换，变成了一个名叫科洛的女孩。新身份让他感到惊讶但最终欣然接受，乐于展现全新的自己。另一个故事围绕着马特和米歇尔的身体交换，包含父亲用精神操控器改变儿子性别与性格的情节，使马特完全融入女性身份中。文中还描绘了一个年轻女孩因生活危险而被迫接受新身份的情节，她通过这个过程逐渐适应她的新生活。每个故事探讨了性别认同、自我接受、家庭支持等主题，也涉及了一些精神操控和性别角色转换带来的社会文化讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_美式小品文短篇集（一）.docx]([变身]_美式小
 | Size            | 21978 bytes                           |
 | MD5             | 84c78fc89bf7b03dc9b5e037339aa3f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 青少年, 自我认同, 家庭支持, 精神操控, 女孩, 男孩换身体, 性别角色, 文化讨论, 心理变化, 科幻, 幻想, 小说, 短篇集, 美式小品文                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_艳八仙系列-阳奉阴威心理咨询诊所（张果篇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描绘英国人理查在中国心理诊所就诊的小说文本。在故事中，理查因性能力障碍而到访一家名为“阳奉阴威心理咨询诊所”的心理诊所，由他的妻子海伦推荐。这家诊所的医生福鲁特是一位美丽的中国女性，她的专业是治疗性功能障碍。在诊所中，理查与福鲁特进行了一系列私密而尴尬的沟通，涉及他的性能力问题以及与妻子的关系。故事描绘了理查的尴尬与福鲁特的专业态度，同时也展现了文化差异和性别角色的冲突。随着情节进展，故事中呈现了性别认同与自我认知方面的复杂关系，包含一些暗示性内容和性相关的描写。文件的内容可能对研究性别认同及性别角色的相关主题具有参考价值。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_艳八仙系列-阳奉阴威心理咨询诊所（张果篇
 | Size            | 18407 bytes                           |
 | MD5             | 26c4b1a3dde4f413b2ce53f1b317b849                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 性别认同, 心理咨询, 性能力障碍, 文化差异, 跨文化交流, 医生与病人关系, 性别角色, 心理治疗, 性暗示, 医患关系, 伪娘, 男娘, 强奸, NTR, 淫荡, 调教, 逆后宫, 年龄差, 疾病治疗, 异国情缘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

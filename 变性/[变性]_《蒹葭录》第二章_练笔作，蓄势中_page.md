@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第二章_练笔作，蓄势中.doc]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《蒹葭录》第二章主要讲述了江湖侠客之间的争斗与心灵的探索，该章节展现了角色在生死边缘的挣扎与情感的交织。主人公张归荑因为情感失意而沉沦于酒肆，体现了侠义与个人情感的冲突。在酒楼中，张归荑醉眼迷离，与另一名侠客宋沚陵展开了一场激烈的斗法，过程中引发了关于自我认知与武道境界的探讨。张归荑在斗争中感受到绝望，并在过程中体悟到“浮生若梦”的境界，暗示着他内心深处对自身价值的反思。让人深思的是，双方的争斗并不仅仅是武力的较量，更是心灵的较量。这段故事融合了武侠与心理探讨，使得情节充满张力与深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第二章_练笔作，蓄势中.doc]([变�
 | Size            | 50688 bytes                           |
 | MD5             | a8d294b26ad68fcdcb05318d905c14f2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 穿越, 武侠, 自我探索, 性别认同, 情感纠葛, 青莲宝剑, 侠客, 内功修炼, 精神境界, 浮生若梦, 醉酒, 斗法, 心灵纠缠, 江湖传说, 失意, 情感压抑, 酒肆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

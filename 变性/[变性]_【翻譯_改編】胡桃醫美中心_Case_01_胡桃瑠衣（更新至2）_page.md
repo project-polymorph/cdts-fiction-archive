@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻譯_改編】胡桃醫美中心_Case_01_胡桃瑠衣
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一个关于变性与伪娘主题的小说作品，包含了一部分原创内容与经过编辑的机翻部分。故事的主角是胡桃瑠衣，她是一名就读于朝日高中的二年级女学生，身高155公分，体重45公斤。瑠衣外表瘦削，个性内向，与同学的互动较少，尽管她在学校因美丽而受到钦佩。文件中描绘了她在参与社团活动中的经历，她作为一个受虐待的经理，努力适应自己在运动社团的角色，同时维护家庭与学校的关系。文件还提到该文档中包含了对于医美行业的讨论和描写，突出了一些社会现象与问题。整体来看，此文档涉及性别角色、青春成长，以及与美有关的社会议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻譯_改編】胡桃醫美中心_Case_01_胡桃瑠衣
 | Size            | 41984 bytes                           |
 | MD5             | 8426150bfdbd56dd76d593da5dcaac48                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | kéi-àpple                               |
+| Region          | 未知                               |
+| Date            | 2022-04-01                                 |
+| Tags            | 变性, 伪娘, 学生生活, 青春校园, 社团活动, 性别认同, 自我探索, 医美, 成长故事, 社会现象, 内心挣扎, 校园恋爱, 高年级生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

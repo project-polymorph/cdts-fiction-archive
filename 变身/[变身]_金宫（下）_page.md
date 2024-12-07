@@ -7,7 +7,7 @@ TXT 下载: [[变身]_金宫（下）.doc]([变身]_金宫（下）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《金宫（下）》的一部分，讲述了一个名叫迈克的男孩在经历性别认同和外貌改变的过程中产生的内心挣扎。小说开篇描述了迈克醒来时感到不适，他意识到自己的生活和身体正在发生微妙的变化。他的衣物和个人用品似乎被替换，洗发水的香味也让他感到困扰。在工作和日常生活中，他不断感受到衣物的改变，这引发了他的焦虑与困惑。随着情节的发展，迈克在发廊遭遇了对他性别身份的挑战，体验了自己变身为一名女孩的过程，以及因此而来的各种情感交织，包括羞怯和惊讶。在转变的过程中，迈克不仅对外貌感到不安，内心也产生了对自我认同的深刻反思。他细腻而复杂的情感描绘，展现了他在性别认同、自我认知和社会期望之间的挣扎，最终迈克开始接受自己的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_金宫（下）.doc]([变身]_金宫（下）.doc)
 | Size            | 48640 bytes                           |
 | MD5             | f542866e1ddbeead73e0a035be7c4432                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别认同, 自我探索, 二次元, 青春成长, 情感纠葛, 心理变化, 女性化, 男性视角, 性别转换, 内心挣扎, 社会期待, 家庭关系, 校园生活, 发型变化, 时尚杂志, 心理冲突, 情感接受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

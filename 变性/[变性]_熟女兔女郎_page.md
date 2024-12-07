@@ -7,7 +7,7 @@ TXT 下载: [[变性]_熟女兔女郎.docx]([变性]_熟女兔女郎.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕一位主角在一座被传闻为阴森恐怖的别墅探险的故事展开。主角是在一次与朋友打赌后，被迫独自来到这座被称为鬼屋的地方。传说这别墅曾经住着一位美丽的熟女，但由于其变态放荡的性格而被小镇居民所厌恶，最终导致她的死亡。故事开篇，主角充满勇气地迈入别墅，却逐渐被奇异的现象与诡异的发生所吸引。在别墅中，主角发现了一双神秘的手套，它们不仅有生命，更似乎能够改变主角的身体。随着情节的推进，主角的身体逐渐被神秘的力量改变，感受到由女性化带来的迷失与探索，使整个故事弥漫着魔幻与性转的奇异氛围。作品在细节上通过生动的描写，展现了角色内心的挣扎与转变，例如主角对手套的触感描述：“这竟然是活的...紫色丝绸就像是一条一蛇一样光滑，顺着我的手臂向上吞噬着。” 故事涉及性别认同、自我探索等深刻主题，同时也包含一些限制级的情节，使得整体内容多元且复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_熟女兔女郎.docx]([变性]_熟女兔女郎.docx)
 | Size            | 21005 bytes                           |
 | MD5             | 08755580d21e414f01eceb1bc3d979ef                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 魔法, 恐怖, 熟女, 冒险, 自我认同, 幻想, 奇幻, 超自然, 情感, 神秘力量, 改造, 性感, 乳胶, 黑色丝袜, 油画                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

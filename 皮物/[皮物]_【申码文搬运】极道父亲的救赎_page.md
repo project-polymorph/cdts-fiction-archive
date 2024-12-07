@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文搬运】极道父亲的救赎.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《极道父亲的救赎》，内容围绕主角小何（儿子）与其继母素子之间复杂的关系展开。小何的父亲是一名极道组织的组长，在一场内斗中身亡，家庭破裂，生活陷入困境。以此开篇，故事逐渐揭示了小何的内心挣扎与对亲情的渴望，尤其是对继母素子的依赖与情感纠葛。文中描述了小何在生日当天承受同学欺负和家庭变故后的孤独感，以及他对于母亲（继母）的感情。在一次窥视中，小何发现了继母与其他男性的交往，使他心中滋生了强烈的醋意与占有欲。故事后期揭示继母素子的真实身份和她与小何之间的情感纠葛，涉及到复杂的自我认同以及亲情与爱情的交错。整篇故事在细腻的描写下展现了人物内心的挣扎与身份的变迁。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文搬运】极道父亲的救赎.doc]([皮物]_�
 | Size            | 43008 bytes                           |
 | MD5             | 0ec346e18dae4d6fb00132215dfdeae0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 继母恋, 家庭纠葛, 自我认同, 情感探索, 青春期, 亲情与爱情, 人际关系, 身份转换, 心理斗争, 变身, 黑道背景, 禁忌关系, 父子情, 非传统角色, 情感依赖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

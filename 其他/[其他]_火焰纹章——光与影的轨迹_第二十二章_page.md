@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第二十二章.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件内容为火焰纹章系列小说的第二十二章，讲述了一群角色在神秘的房间内进行的探索与对话。主要角色伊风揭示了特里乌斯世界的真实构造及其历史，称这里是“生命摇篮——奥杜亚”。章节中详细叙述了创世神与泰坦如何塑造了特里乌斯世界，从没生命的荒芜状态到繁荣生机，直至上古邪神尤格萨隆的复活带来的恐怖威胁。角色们在惊异与恐惧中学习这段历史，也面临着未来可能面临的危机。文中描述了力量与神明的对抗，探讨了智慧生命与神的关系以及存在的意义，是一个融合幻想与哲学的奇幻故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第二十二章.docx]
 | Size            | 21278 bytes                           |
 | MD5             | 53913aa02cafbf11b205733ddcef591e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 火焰纹章, 奇幻, 性别认同, 泰坦, 上古邪神, 生命塑造, 自我探索, 战斗, 虚构历史, 角色冒险, 神话                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

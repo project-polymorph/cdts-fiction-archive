@@ -7,7 +7,11 @@ TXT 下载: [[变身]_定制女仆——牝妻唯爱（2）.doc]([变身]_定制
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是伪娘与跨性别主题相关小说《定制女仆——牝妻唯爱》的第二章。在这一章节中，主角勇大醒来后，发现自己变成了一名美丽的女性，名为栗林唯爱。他对这一变故充满屈辱和抗拒，尽管他逐渐意识到自己被强迫接受这样的身份。
+
+勇大在不断的自我认知和身体的变化中感受到巨大的痛苦与羞耻，甚至在使用厕所时也伴随着一种解脱与羞辱的双重体验。小说中的情节逐渐展开，勇大开始被一个自称男装丽人的女性调教，以适应新身份，并被迫接受作为大将妻子的命运。通过屈从和抗拒的内心斗争，以及与调教者之间的对话，揭示了对个体身份认同和性别角色的复杂探索。
+
+章节中描绘了诸多心理冲突和感官体验，包括勇大对自己新身体的惊讶与不适，以及对他人目光的敏感。同时，调教过程中的语言和行为暴露出权力的施加与抵抗，意图展现深层的性别主题和变身后的自我认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变身]_定制女仆——牝妻唯爱（2）.doc]([变身]_定制
 | Size            | 64000 bytes                           |
 | MD5             | 9d9d6ce37676eaf7ef46baac97650602                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 调教, 性别认同, 羞辱, 自我探索, 男性视角, 心理斗争, 强迫和屈服, NTR, 性爱, 女性身份, 调整过程, 身心变化, 爱欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

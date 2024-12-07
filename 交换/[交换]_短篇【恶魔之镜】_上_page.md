@@ -7,7 +7,7 @@ TXT 下载: [[交换]_短篇【恶魔之镜】_上.docx]([交换]_短篇【恶�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是以短篇小说的形式展开，讲述了一名名叫张业的少年在高考后随母亲返回其娘家的故事。故事开篇描绘了张业的生活背景，提到他考上了省内的一流名牌大学，这让他的母亲感到欣慰。叙述中着重描述了张业的母亲，其外貌特征和穿着颇具魅力，接着他们来到一个宁静的小村庄，享受与都市截然不同的生活。随后，故事转向深夜张业的好奇心——他看到一个废弃的仓库，因而在好奇心驱使下进入仓库，发现一面老式梳妆镜，并被神秘的光芒吸引。当他念出“镜中人”时，发生了惊人的变化，他被吸入了镜子中，进入一个空旷的光亮空间，遇见了越来越恐怖的自己的影像，故事逐步揭露出悬念和诡异的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_短篇【恶魔之镜】_上.docx]([交换]_短篇【恶�
 | Size            | 23248 bytes                           |
 | MD5             | 30a05f02e665c6484ca7b15b30474215                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 短篇小说, 性转, 镜中人, 高考, 母子关系, 神秘, 诡异, 自我认知, 冒险, 奇幻, 超自然, 成长, 探索, 内心冲突, 家庭, 心理, 暗黑, 反转, 穿越                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

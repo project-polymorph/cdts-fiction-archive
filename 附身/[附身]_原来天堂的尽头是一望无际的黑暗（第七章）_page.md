@@ -7,7 +7,7 @@ TXT 下载: [[附身]_原来天堂的尽头是一望无际的黑暗（第七章�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《原来天堂的尽头是一望无际的黑暗（第七章）》，是伪娘与跨性别主题小说的一部分，整体情节围绕着弟弟梁子成与其姐姐梁小依之间复杂且禁忌的关系。故事中，弟弟梁子成对姐姐的强烈爱慕逐渐演变为一种超越兄妹情感的性幻想，在多次与姐姐私密接触后，激发了他潜在的欲望。文中描写了他们之间涉及乳房、脚等细节的亲密行为，揭示了姐妹间的情感与性的交织。特定场景如姐姐帮助弟弟自我满足，以及他们之间令人不适的互动，彰显了性别认同及心理冲突所带来的复杂性。整个故事以极具色情暗示的交流为主线，引发对道德禁忌的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_原来天堂的尽头是一望无际的黑暗（第七章�
 | Size            | 39424 bytes                           |
 | MD5             | 84d88d40026f0f6262785109374eb33b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 禁忌恋, 兄妹情, 性别认同, 自我探索, 色情内容, 强烈欲望, 伪娘, 男娘, 变装, 家庭关系, 精神冲突, 女性视角, 幻想, 角色扮演, 恋物癖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

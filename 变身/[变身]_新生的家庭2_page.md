@@ -7,7 +7,7 @@ TXT 下载: [[变身]_新生的家庭2.docx]([变身]_新生的家庭2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个家中的变身故事，讲述了一个家庭成员性别身份的变化以及他们在新身份下的日常生活。故事中，家庭成员经历了性别的转变，母亲和父亲的角色被重新定义，父亲变成了一个女性，弟弟则变成了一个外貌青春但内心成熟的女子。在家庭互动中，这种变化引发了一系列搞笑而微妙的情感冲突和自我认知的困惑。主角描述新的弟弟身为女性的性感衣着，以及母亲的顺应这一变换而展现出的自信与解放。在这样的背景下，人物之间的关系受到挑战，并逐渐展开，他们在面对变身后角色的认同与习惯中，体验到了家庭关系的新动力和变换的滋味。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_新生的家庭2.docx]([变身]_新生的家庭2.docx)
 | Size            | 23328 bytes                           |
 | MD5             | bad707bbfda7256ab22fb7aa9291d063                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 家庭关系, 伪娘, 性别转换, 搞笑, 情感, 奇幻, 日常生活, 自我认知, 父母, 性别角色, 性欲, 身体变化, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

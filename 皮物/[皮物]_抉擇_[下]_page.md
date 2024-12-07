@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_抉擇_[下].docx]([皮物]_抉擇_[下].docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容围绕着名为嫲嫲的角色，讲述了她与子山的复杂关系及一场涉及身体变换和性别认同的情节。故事开始时，嫲嫲与家人解释自己将与朋友美儿玩乐，随后嫲嫲被子山带入酒店房间，两人之间的情感张力随着剧情的发展而加深。嫲嫲在与子山的亲密接触中，内心充满了复杂的情绪，文中多次提到她的迷茫与紧张。随着情节的发展，她在一个不寻常的情况下，用一根针筒对一位女性实施了身体的变化，最终她的身体被转变为那位女性的身体，但却在心中感到无法接受这种变化。嫲嫲的内心挣扎与生理上的变换令人深思，伴随着一系列的高潮与压抑的情感，故事逐渐展开了嫲嫲在性别认同上面临的冲突与反思。文本中涉及一些限制级内容，包括性行为的描述及性别转换的情节，使整个故事更具挑战性。文末提及嫲嫲在经历了一切事情后变回了年轻的样子，并且开始接受这个身份的转换。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_抉擇_[下].docx]([皮物]_抉擇_[下].docx)
 | Size            | 18042 bytes                           |
 | MD5             | b1bacfd21971020ebb222435570a53f8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, TSF, 女体化, 纯爱, 强奸, 变嫁, 调教, 逆后宫, 淫荡, 药娘, 雌堕, 异世界, 穿越, 奇幻, 科幻, 恋爱, 自我认同, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

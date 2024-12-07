@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火星開發觀光公團_(七).docx]([其他]_火星開發
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别主题的小说，讲述了女孩芽实与宇风之间复杂的关系。在故事的初始，芽实通过权限锁住了宇风，以防止他逃跑，也避免他发现不该看的东西。随着情节的发展，宇风逐渐意识到他被束缚的状态和身体的变化，以及他与一个陌生女人的相似性引发的自我认知冲突。宇风在他老爸的家中发现了一面展示墙，上面贴有与他家人和一个不知名女人的合照，并包含一些关于自己身份的疑问。故事包含了一些涉及变身、束缚、性别认同等元素，描绘了情感与探索自我的主题。在后续情节中，芽实与宇风之间的互动变得更为亲密，同时也渗透了一些色情和调教的情节，例如芽实使用自动穿衣系统和宇风的被动接受。这种情节不仅探讨了身体与性别认同的复杂性，还反映了角色内心的挣扎与变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火星開發觀光公團_(七).docx]([其他]_火星開發
 | Size            | 16557 bytes                           |
 | MD5             | 350943412d4f90aaf8b40b58504c5b85                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 性别认同, 自我探索, 伪娘, 调教, 束缚, 自动穿衣系统, 情感纠葛, 性别转换, 科幻, 异世界, 青春成长, 心理变化, 高根靴                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

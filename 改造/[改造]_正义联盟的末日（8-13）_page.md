@@ -7,7 +7,7 @@ TXT 下载: [[改造]_正义联盟的末日（8-13）.docx]([改造]_正义联�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是关于《正义联盟的末日》系列小说的第八章和第九章的内容，主要围绕着超恶女与神奇女侠之间的剧情展开。故事描述了超恶女与猫娘一起实施的计划，利用神奇女侠作为诱饵引诱正义联盟的其他成员。在小说中，猫娘与超恶女通过换装和配件的使用，成功地欺骗了正义联盟的其他成员。尤其令人注意的是，神奇女侠被迫变装成超恶女，且在这一过程中显示出她的痛苦与绝望。文件中包含了对角色变形、装扮以及反派角色的生动描写，情节紧凑且充满戏剧张力。整体风格呈现了伪娘文化下的性别角色颠覆，突显了自我认知与性别认同的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_正义联盟的末日（8-13）.docx]([改造]_正义联�
 | Size            | 62811 bytes                           |
 | MD5             | aa38c0b151b62d586ace874bf3678bab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 超恶女, 神奇女侠, 猫娘, 角色扮演, 伪娘, 变嫁, 虐待, 强制变装, 跨性别, 反派角色, 性别认同, 幻想小说, 二次元文化, 剧情扭曲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

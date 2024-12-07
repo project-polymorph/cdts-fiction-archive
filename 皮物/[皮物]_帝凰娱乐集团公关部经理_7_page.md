@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_7.docx]([皮物]_帝凰�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身与跨性别相关的小说，内容围绕角色的身份转换和心理探索展开。故事的主角在一个看似普通的日常中，被不明身份的男性司机接走，随即被带到一个危险的地点。在过程中，主角感受到强烈的不安，意识到自己可能陷入了一个骗局。对话中透露出有帮派的背景，情节逐渐向绑架、威胁和救赎发展，展现了强烈的对抗和自我求助的主题。这篇小说涉及到心理的极大冲突，以及性别身份的流动性，描写了主角从被动到寻求救助的变化。文中充满紧张刺激的情节以及生动的角色互动，使得故事引人入胜，同时也展示了性别变换和自我认同之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_7.docx]([皮物]_帝凰�
 | Size            | 22394 bytes                           |
 | MD5             | 4661c358b06526b57f51260951a5a560                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-05-17                                 |
+| Tags            | 性转, 伪娘, 变身, 绑架, 强盗, 侠义, 心理探索, 自我救赎, 都市, 帮派, 情感冲突, 逆转, 奇幻, 性别认同, 刺激, 爱情, 神秘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

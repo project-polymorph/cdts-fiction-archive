@@ -7,7 +7,7 @@ TXT 下载: [[交换]_玫瑰公主(完）.docx]([交换]_玫瑰公主(完）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讲述了一位名为玫瑰公主的故事，背景设定在一个富饶的王国。故事的开端描述了一位国王和王后因无子而感到苦恼，直到一条神奇的小鱼预言王后将生下一个美丽的女儿。这位公主在出生后受到了各位女巫的祝福，但是却因未邀请的女巫施下了诅咒，预言公主将在十八岁时经历痛苦并最终悲痛死去。尽管公主在成长过程中被描述为聪慧、美丽和优雅，但在她十八岁生日前的某一刻，她遭遇了诅咒，手指被纺锤刺破，陷入昏迷。随后，老太婆通过黑魔法变成公主的模样，并企图夺取公主的一切幸福。随着故事的发展，公主提出了三项考验以挑选心仪的伴侣，然而这三项考验似乎无人能够完成。故事中还掺杂了性别转变的元素以及性幻想的描写，公主在王宫浴室中进行的自我探索，以及其对自身身体变化的感受和反应，展示了她内心对性的觉醒与探索。整体上，该文本结合了传统童话与现代性别和性认同议题，为读者提供了一个复杂的叙事，通过美丽与欲望的交织，传达了角色内心的矛盾和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_玫瑰公主(完）.docx]([交换]_玫瑰公主(完）.doc
 | Size            | 26329 bytes                           |
 | MD5             | 90ca13e2dfbd89dd3d3c24679065c34e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 童话, 性别认同, 玫瑰公主, 黑魔法, 女性自我探索, 欲望, 二次元, 伪娘, 强奸, 淫荡, 调教, 逆后宫, 百合, 魔法, 都市, 奇幻, 残酷, 紧迫感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

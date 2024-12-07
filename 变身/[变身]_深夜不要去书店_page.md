@@ -7,7 +7,7 @@ TXT 下载: [[变身]_深夜不要去书店.doc]([变身]_深夜不要去书店.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档《深夜不要去书店》是一篇描绘了梦境与现实交织的变身小说。故事的主角在夜晚的书店中，沉醉于美人鱼的故事，恍惚间竟意外变身成美人鱼莉雅。情节描述了梦境中的探索与变化，主角身处于清澈的海水中，体验到了人鱼公主的真实感受与身心的转变。在剧情发展中，主角遇到了人类的公主蕾娜，被柔韧的魔网缠住，颇具幻想与刺激的情節逐渐展开。整体氛围渗透着神秘与诱惑，描述了蕾娜与主角之间的互动，并展现了一种调教与依附的关系，交织着爱情与幻想的元素。文中细致描绘了主角身体的变化，伴随情感上的摇摆与认同的探索。最后，故事在一片夜幕中落幕，留下悬念，引人深思，包括对性别认知与自我探索的深层题材。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_深夜不要去书店.doc]([变身]_深夜不要去书店.
 | Size            | 28160 bytes                           |
 | MD5             | d172f42bb359308ca3a68d0aa56ce776                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 人鱼, 美人鱼, 跨性别, 梦境, 调教, 爱情, 幻想, 自我探索, 夜店, 奇幻, 悬念, 性别认同, 魔法, 奇幻冒险, 清澈海水                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

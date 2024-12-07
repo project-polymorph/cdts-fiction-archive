@@ -7,7 +7,7 @@ TXT 下载: [[变身]_DT游戏王同人_4.doc]([变身]_DT游戏王同人_4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档为《DT游戏王同人》相关的变身小说，描写了主角秦霜越在一个充满奇幻色彩的世界中经历的一系列事件。故事开头通过描绘秦霜越从梦中醒来时的体验，展现了她身体的变化与内心的困惑。她发现自己身处于一个神秘的大屋中，身边有一位银发女子梅玲，具有黑森林巫女的特征。梅玲不仅容貌美丽，还带有神秘的魔法气息，令主角感到着迷。随着情节推进，秦霜越与梅玲的互动变得紧张而富有戏剧性，二者之间透漏出了一种微妙的情感。故事涉及到许多卡牌游戏的元素，描绘了卡牌背景与主角的关系，揭示了梅玲的身份与过去。通过对话与回忆，文中传达了对身份和自我认知的探讨，涉及性别转变和角色自我探索的话题。整体而言，这篇小说集幻想、冒险与情感于一体，是一部探讨自我认同的多元性别作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_DT游戏王同人_4.doc]([变身]_DT游戏王同人_4.doc)
 | Size            | 36864 bytes                           |
 | MD5             | 531eb74ce187962835debfde87511c8c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 自我探索, 魔法, 卡牌游戏, 奇幻, 冒险, 女性角色, 梦境, 爱与友情, 青春, 幻想文学, 二次元, 女巫, 黑森林, 情感纠葛, 角色互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

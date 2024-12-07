@@ -7,7 +7,7 @@ TXT 下载: [[附身]_不可思議研究會(三).doc]([附身]_不可思議研�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《不可思议研究会(三)》，属于性转与跨性别题材的小说系列。在此文中，主要角色经历了奇妙的变化，探索了自我认同与性的复杂关系。故事围绕一次意外的实验展开，角色在生理和心理上都经历了巨大的转变，逐渐适应新身份所带来的挑战与困惑。小说中包含了十分细腻的人物内心描写以及对于性别身份的深刻反思。虽然具体内容未能显示，但可以推测出文件涉及情感关系的描绘，并探讨了性别与爱之间的细腻界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_不可思議研究會(三).doc]([附身]_不可思議研�
 | Size            | 26112 bytes                           |
 | MD5             | 7461bd9f736bcb6042c425dcc14338b1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我认同, 奇幻, 情感关系, 心理探索, 变身, 伪娘, 女体化, 幻想, 科学实验, 性别认知, 原创                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

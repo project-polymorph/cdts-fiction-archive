@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_怪盜小子的另一面.doc]([皮物]_怪盜小子的另�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于名侦探柯南同人作品《怪盜小子的另一面》的一篇小说。故事围绕主角黑羽快斗展开，他在一次犯罪过程中利用特殊的‘人皮’变装成女主人公毛利兰，并通过外表的变化体验成为女生的快感。小说描写了快斗在变身后的自我认知和身体探索，表现出角色对女性身份的渴望与心理冲突。通过生动细腻的描写，作品揭示了性别认同、自我欲望等主题，尤其是对女性身体的细致描绘和快斗自我探索的过程，展现了一种扭曲又复杂的心理状态。小说中包含大量露骨且成人向的描写，例如快斗如何穿上毛利兰的制服，以及他内心对女性身体的渴望与刺激，涉及自慰、自我欣赏和性别转换等情节，可能包括一些限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_怪盜小子的另一面.doc]([皮物]_怪盜小子的另�
 | Size            | 46080 bytes                           |
 | MD5             | 6a6cbbeaad2c82b009ad70546c45e006                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 自主探索, 二次元, 成人向, 心理描写, 身份认同, 性别变换, 性愉悦, 幻想, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_圣诞之遇之后遇.docx]([皮物]_圣诞之遇之后遇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇作品《圣诞之遇之后遇》记录了作者因奇特经历引发的思考与感悟。故事围绕着角色黄明的生活展开，他在日常生活中逐渐感受到身体和心理的双重变化，尤其是他对于女性形象以及内心欲望的纠葛，与他的伪娘角色吴语冰之间的互动展现了复杂的性别认同和性倾向问题。文中夹杂着幽默和辛酸的自我反思，黄明一方面想保持纯洁的心态，另一方面却被周围环境和自身欲望所吸引，深入探讨了性别与情欲之间的微妙关系。通过生动的描写，作者探讨了人在社会期待与个人欲望之间的挣扎，以及对真实自我的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_圣诞之遇之后遇.docx]([皮物]_圣诞之遇之后遇
 | Size            | 18316 bytes                           |
 | MD5             | 7616798e983a074f7f2cd9a93991b769                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别认同, 自我探索, 幽默, 欲望, 变身, 校园爱情, 角色扮演, 情感纠葛, 性转, 心理斗争, 强烈的性暗示, 流行文化, 两性关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

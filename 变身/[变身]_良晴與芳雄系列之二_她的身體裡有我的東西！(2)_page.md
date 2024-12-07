@@ -7,7 +7,7 @@ TXT 下载: [[变身]_良晴與芳雄系列之二_她的身體裡有我的東西
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个多元性别主题的小说，名为《她的身体里有我的东西！》，是良晴与芳雄系列的第二篇。故事围绕良晴与芳雄的互动展开，描述了他们的日常生活和一些秘密计划。在文中，作者通过轻松的对话和生动的场景描绘出人物之间的感情联系。例如，良晴向芳雄展示了一张赛道女郎的照片，表现出对她的吸引力，从而引发一系列情节发展。整篇文本既包含了性别认同的探索，也融入了轻松幽默的元素，展示了角色们的成长和变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_良晴與芳雄系列之二_她的身體裡有我的東西
 | Size            | 29052 bytes                           |
 | MD5             | 330f2548eda67b26ca97a87a05c429a8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 友情, 青春, 冒险, 校园, 赛道, 变装, 人物成长, 角色探索, 幻想, 情感戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

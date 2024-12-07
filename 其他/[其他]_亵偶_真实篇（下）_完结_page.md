@@ -7,7 +7,7 @@ TXT 下载: [[其他]_亵偶_真实篇（下）_完结.docx]([其他]_亵偶_真
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《亵偶真实篇（下）》，包含一个关于未来科技与人类意识交融的虚构故事。故事发生在2100年，主要围绕着三位主要角色——舒、林平和雨爵，探索了意识互换和人工智能（AI）的主题。文中提到的GX01是一种通过人脑建立的AI系统，它反映着人类的情感与需求，暗示着对社会的监管与控制。随着情节的发展，角色之间的关系变得复杂，尤其是林平与舒之间的情感纠葛，以及雨爵作为一个没有植入芯片的“原生人”的角色身份。在一次实验中，通过意识的交融，三人关系发生了翻天覆地的变化，最终引发了一场情感的危机。整部作品涉及对人类存在、孤独、以及技术依赖的深刻反思，展现出人类在追求完美生活过程中可能面临的内心空虚。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_亵偶_真实篇（下）_完结.docx]([其他]_亵偶_真
 | Size            | 22971 bytes                           |
 | MD5             | 5c8ee22388f1b67436378b89db8d6f12                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2100-09-01                                 |
+| Tags            | 性转, 跨性别, 自我探索, 人工智能, 意识互换, 未来科技, 人类关系, 情感共鸣, 社会调控, 角色意识融合, 虚拟现实, 科技伦理, 女生角色, 青梅竹马, 欲望与孤独, 情感危机, 探讨人性, 心理冲突, 未来社会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

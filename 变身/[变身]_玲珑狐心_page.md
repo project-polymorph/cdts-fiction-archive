@@ -7,7 +7,7 @@ TXT 下载: [[变身]_玲珑狐心.docx]([变身]_玲珑狐心.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容是一篇关于两个大学生赵科和高雷的幻想题材小说片段。故事开始于两个朋友选择逃避上学，来到高雷的姥姥家游玩。在乡村的小山上，他们发现了一颗古老的玉石，赵科在无意中将其放入口中，导致他在接下来的梦中变成了女性，并且经历了一系列关于性别认同和个人探索的梦境。在这段旅程中，赵科感受到身体的变化与性别角色的混淆，伴随着对友人高雷的隐晦情感。作者通过细腻的描写展现了角色的内心戏剧与冲突。故事不仅触及了探索自我与性别认同的主题，更加引出了对友谊与欲望交织的思考。文中对角色外貌与心理状态的描写深入，通过对变化的描述和对梦境的借用，展示了角色在性别转换中的体验和自我认知的觉醒。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_玲珑狐心.docx]([变身]_玲珑狐心.docx)
 | Size            | 45123 bytes                           |
 | MD5             | 369a0d1e860ffbb66229718cdd38e45a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 幻想, 青春, 友谊, 自我探索, 性别认同, 梦境, 心理变化, 冒险, 古物探索, 待觉醒, 性别角色, 男性视角, 校园生活, 田园风光, 成长故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

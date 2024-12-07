@@ -7,7 +7,7 @@ TXT 下载: [[变身]_与外星人接触之后4_[.docx]([变身]_与外星人接
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及变身与性别转换的小说，故事的主角经历了身份的转变，融合了科幻与情感的元素。正文描述了主角在与外星人接触后，被寄生了名为纳米机器人的生物，影响其外貌与认知，进而展开了一系列关于自我探索及身份认同的情节。开篇时，主角正与一个名叫小六的角色发生冲突，表达了对其不满并逐渐决意分手，但在情感层面上却仍未放下对小六的执念。故事中还涉及到对名为张纯的女性身份的替代与转变，冲突与情感交织，反映出对女性形象的复杂思考与性别认同的深入探索。文中还描绘了一个充满隐喻的现代女性生活环境，对比展现了主角与其合租人黄月舒截然不同的人生观与价值观，突出了不同性别与身份的碰撞与理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_与外星人接触之后4_[.docx]([变身]_与外星人接
 | Size            | 26965 bytes                           |
 | MD5             | 56958587308174a90e96ef520148ccd0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 外星人, 自我探索, 纳米机器人, 情感纠葛, 身份替代, 都市幻想, 女性形象, 科幻, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

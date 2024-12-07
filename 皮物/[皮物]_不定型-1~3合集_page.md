@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_不定型-1~3合集.doc]([皮物]_不定型-1~3合集.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部拟态小说，主要描绘了一个中年男人李明成通过一团神秘的胶体物质变身为女性，利用这种变身能力逃避追捕并进行复仇的故事。开头部分描绘了李明成伪装成女子，接待了一位中年富商，并在床上展开了一段挑逗和激烈的亲密行为。随之而来是李明成如何利用这团胶体来改变自己的外形和性别，达到他的私欲与复仇的目的。故事包含了许多亲密和性行为的描写，以及关于性别与身份的探讨，涉及到伪娘、变身、复仇等主题。小说在叙事中加入了对社会关系的讽刺与自我认同的挑战。此外，该文本包含一些限制级内容，适合成年人阅读，强调了人性在极端情况下的多面性和变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_不定型-1~3合集.doc]([皮物]_不定型-1~3合集.doc)
 | Size            | 61952 bytes                           |
 | MD5             | 75bce77b2135fb460be8a4bf007fa8ce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 复仇, 变嫁, 成人小说, 跨性别, TSF, 女性视角, 极限情节, 修复关系, 自我认同, 地下交易, 情色, 成人娱乐, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

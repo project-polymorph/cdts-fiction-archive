@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我的基友会附身（三）.docx]([附身]_我的基友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《我的基友会附身（三）》，是伪娘和变身主题的小说章节之一，主要围绕角色王明和其母亲陈雅琪之间的变身和附身情节展开。在这一章节中，王明回到家中，发现他的朋友阿文附身到了他的母亲身上，导致了一系列有趣而略显尴尬的交流和互动。章节中描绘了陈雅琪以母亲的身份与王明进行互动，其间包含了一些调侃和对家庭角色的反转。例如，阿文借用陈雅琪的身份做出母亲般的行为，并讨论对王明的教育，甚至亲吻王明，导致王明感到困惑和不适。整个故事探讨了角色的性别认同、附身带来的心理冲突等复杂主题，同时也融入了一些轻松幽默的元素。在文中反复提至的“妈妈”的角色表现出了一定的调皮和亲密，使得整个情节既有趣又引起思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我的基友会附身（三）.docx]([附身]_我的基友
 | Size            | 28756 bytes                           |
 | MD5             | 07531c45960b598e67c42b27b287bbb1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身, 伪娘, 角色扮演, 家庭关系, 心理冲突, 性别认同, 轻松幽默, 青春校园, 教育关系, 双重身份, 亲密关系, 性别角色, 自我探索, 暗恋, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

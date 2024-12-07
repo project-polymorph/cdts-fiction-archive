@@ -7,7 +7,7 @@ TXT 下载: [[交换]_阴与阳，和妹妹交换身体_2.doc]([交换]_阴与�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于性别互换的变身小说，讲述了角色“丽莎”和她的兄弟“克雷格”之间的情感纠葛和身体交换的故事。在小说中，“丽莎”在昏迷后苏醒，发现自己在“克雷格”的身体里，而“克雷格”则意识到自己变成了“丽莎”。角色们在面对身体身份的变化时，经历了自我识别和情感上的困惑。文中详细描写了他们在医院中的互动，“克雷格”试图帮助“丽莎”适应身体的变化，以及父母在这一过程中所感受到的震惊与无奈。情感的表达深入人心，展现了兄妹之间深厚的情谊。在经历了一场精神和情感的风暴后，他们逐渐接受了这一变化，并努力保留彼此之间的关系。随着情节的发展，涉及对性别认同、身体感知和情感连接的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_阴与阳，和妹妹交换身体_2.doc]([交换]_阴与�
 | Size            | 57856 bytes                           |
 | MD5             | 42f914c31b35c00938e6bece3ac6c570                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kris K                               |
+| Region          | 未知                               |
+| Date            | 2010-11-25                                 |
+| Tags            | 性别互换, 跨性别, 兄妹情感, 身体认同, 自我探索, 医院日常, 情感冲突, 深厚的情谊, 心理斗争, 女性视角, 情感恢复, 成长经历, 身体变形, 身份认同, 亲情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

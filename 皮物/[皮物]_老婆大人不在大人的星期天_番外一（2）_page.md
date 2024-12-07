@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_老婆大人不在大人的星期天_番外一（2）.doc]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于伪娘角色的一次变装体验，详细描述了主人公如何通过使用特制的身体改造工具和服装进行性别转换，从而体验女性的生活。文本中描绘了主人公在变装小屋进行准备的过程，使用人皮面具、假乳、肉色短裤等变装工具，使自己看起来像一位年轻女性。文中对每一步骤进行了详细的描述，包括如何选择合适的服装、化妆以及配饰。特别提到假乳的使用和穿着特制的肉色短裤，这些细节展示了对这种变装体验的重视和对身体外观的关注。主人公还自述了她在外出时的感受和遭遇，表达了对于这种角色扮演的乐趣和复杂性。整篇文章反映了性别认同和自我探索的主题，同时也涉及到部分限制级内容，呈现出一种幻化女性身份的细腻刻画。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_老婆大人不在大人的星期天_番外一（2）.doc]
 | Size            | 39424 bytes                           |
 | MD5             | 0272fc0aa8792aba87c94de5dec22aac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 性别认同, 自我探索, 人皮面具, 假乳, 肉色短裤, 女性化, 体验, 双性恋, 成人内容, 变身小说, 幻想, 角色扮演, 真实感, 科幻元素, 细节描写, 二次元文化, 性别转换, 情感反应                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

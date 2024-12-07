@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_奇妙購物台.docx]([皮物]_奇妙購物台.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《奇妙购物台》是一部以奇幻购物节目为背景的伪娘 TS 变身相关小说，内容围绕一场现场购物直播展开。节目中，女主持人周心瑀和男主持人陈柏华介绍了一款名为《美女变身人皮衣》的特殊商品，声称其能够让任何人穿上后变身为年轻、漂亮的女性。节目通过轻松的对话和细致的产品展示，引出了对性别角色及外貌认同的探讨。主持人通过幽默的互动和观众引导，展示了三种不同风格的变身产品，每款都有独特之处，比如可爱、优雅和性感。在整个过程中，参与者和观众的心理需求和欲望也得到了充分展现，特别是对外貌和性别的渴望。其中，角色小李的采访问答，引出了对自我认同感以及希望转变外形的细腻描述，形成了对现代社会人们对身份认同困惑和追求的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_奇妙購物台.docx]([皮物]_奇妙購物台.docx)
 | Size            | 44651 bytes                           |
 | MD5             | 45c5d7e82f0a2d1b7f64aa6e3b124a11                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 性别认同, 购物节目, 人皮衣, 自我探索, 性别转换, 二次元文化, 跨性别故事, 奇幻商品, 外貌焦虑, 直播互动, 角色扮演, 年龄差, 转变过程, 性欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_勇者別囂張-聖母篇.docx]([变装]_勇者別囂張-�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《勇者別囂張-聖母篇》，由重口味女王创作，是一部涉及变装和跨性别主题的小说。故事围绕一个名叫露易丝杰瑞的年轻勇者与其母亲安洁儿的关系展开。小说开篇描绘了深渊中魔王的复苏以及勇者的命运预言。在一个平静的村庄中，勇者的母亲安洁儿，因为莫名的恐惧而深受折磨，她遇到了一位神秘的魔族男子，该男子暗示可以帮助她解决对儿子成为勇者的担忧。随着故事的发展，安洁儿逐渐与魔族男子展开了一系列亲密与禁忌的互动。小说深入探讨了母子之间复杂的情感纠葛和性别身份的模糊。内容中包含了大量有关性和权力的暗示，情节也涉及到心理上的冲突与自我认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_勇者別囂張-聖母篇.docx]([变装]_勇者別囂張-�
 | Size            | 32785 bytes                           |
 | MD5             | 1810526ef47215ecc18bf5d169ee3ec1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 重口味女王                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 禁忌爱情, 魔法, 母子关系, 勇者, 魔王, 性转, 暗黑幻想, 妓院, 性别认同, 妖娆美妇, 年轻母亲, 堕落, 禁忌, 禁欲, 吸乳, 调教, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

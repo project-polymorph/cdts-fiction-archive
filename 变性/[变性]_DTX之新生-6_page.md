@@ -7,7 +7,7 @@ TXT 下载: [[变性]_DTX之新生-6.doc]([变性]_DTX之新生-6.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档《DTX之新生-6》讲述了一位角色在经历性别转换后的生活与内心探索。故事开始于清晨，角色在醒来后回忆起与另一个角色苏漓的关系，体会到身体的变化及其带来的新体验和感受。角色感受到了一种母性的气息，暗示着性别认同与自我审视。接下来，角色参与了日常的社交活动，同时对王宗硕的注意引发了内心的紧张与期待。在与苏漓的互动中，角色坦诚表达了将第一次交给她的愿望，两人之间的对话不仅充满了情感，也揭示了双方对彼此关系的探索与期待。在之后的亲密接触中的描写，深情而生动，表现出角色对身体的新认知及性别变化带来的情感波动。内容中涉及的性行为与身体接触，加深了角色的身份认同与自我探索，让读者深思性别认同的复杂性与个体之间的情感互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_DTX之新生-6.doc]([变性]_DTX之新生-6.doc)
 | Size            | 51200 bytes                           |
 | MD5             | 74b28ce2b09b40b7307964336412a622                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 自我探索, 性别认同, 情感纠葛, 亲密接触, 性转, 伪娘, 跨性别, 女性视角, 身体意识, 青春, 性别冲突, 心灵成长, 情感沟通, 浪漫, 两性关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_双眼惹的祸：第四章_[.docx]([交换]_双眼惹的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节讲述了李凯在公司内遇到的问题以及随后紧急追赶女友江月婷的情节。故事从李凯因身体不适而请假开始，随后被他身旁的江月婷鬼魂催促着匆忙出门。在出租车追逐江月婷的过程中，李凯与出租车司机周青有了一段幽默而充满误解的对话。司机认为李凯是在追女朋友，并因此加速送他去医院，期间伴随着一系列搞笑和尴尬的情节。李凯在追逐过程中揭示出许多关于江月婷身份和过去秘密的细节，包括她背负的经济负担和豪华车的真相，这些信息使得故事的情节更加复杂且引人入胜。整体来说，本章涵盖了情感、误会和幽默的元素，同时也反映了角色们内部的心理斗争与身份探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_双眼惹的祸：第四章_[.docx]([交换]_双眼惹的�
 | Size            | 22426 bytes                           |
 | MD5             | 947a0a56f2e1768d56b0812904b02e0d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 情感纠葛, 幽默, 自我探索, 鬼魂, 出租车驱车追逐, 都市故事, 豪车, 心理斗争, 女性角色, 男角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

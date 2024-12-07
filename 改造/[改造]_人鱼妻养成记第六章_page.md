@@ -7,7 +7,7 @@ TXT 下载: [[改造]_人鱼妻养成记第六章.doc]([改造]_人鱼妻养成�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《人鱼妻养成记》第六章，主要围绕温蒂与莱克之间的互动及温蒂变身为美人鱼的过程展开。故事中，莱克作为教师准备上班，而温蒂则在泳池中努力与药力对抗，努力适应即将到来的变身。温蒂的身体正在悄然变化，她的胸腔似乎被改造成一个氧气容器，使她能够在水底长时间停留，同时表现出美人鱼的特征，例如增生的背鳍。温蒂与莱克的亲密关系不仅体现在感情的交流上，还有温蒂身体上充满诱惑的变化，她胸部丰满，外表性感，莱克对此表现出极大的留恋和渴望。从莱克的观察角度来看，温蒂的变化令人惊叹，但他也意识到温蒂逐渐适应水下生活带来的挑战。这一过程中，强调了温蒂的身份认同与身体变化之间的复杂关系，展现了跨性别主题的深入探讨。整体内容包含了一些限制级的情节，对温蒂身体的细腻描写与两人之间的亲密关系交织在一起，体现出性别认同与转变的心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_人鱼妻养成记第六章.doc]([改造]_人鱼妻养成�
 | Size            | 44544 bytes                           |
 | MD5             | fa8941efedbc1476df0a9cd0385ab663                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 美人鱼, 变身, 自我认同, 爱情, 幻想, 魔法, 亲密关系, 身体变化, 二次元, 伪娘, 跨性别, 强烈情感, 生理变化, 水中生活, 学术研究                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

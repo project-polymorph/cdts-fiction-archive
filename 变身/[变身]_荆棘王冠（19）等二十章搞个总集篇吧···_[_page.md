@@ -7,7 +7,7 @@ TXT 下载: [[变身]_荆棘王冠（19）等二十章搞个总集篇吧···_[
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇涉及伪娘和跨性别主题的小说，名称为《荆棘王冠》，包含多个章节，主要围绕角色爱丽丝及其三个佣兵的冒险经历展开。故事背景设定在一个奇幻的大陆，充满了魔法、冒险与契约。文章中描述了爱丽丝与三个佣兵的相遇，她慷慨地为他们提供了食物与住所，并通过签订契约将他们收入囊中。爱丽丝因其自信与狡黠的性格，展现出对佣兵们的控制与可能的情感纠葛。文本中包含了许多关于角色服装的描述，并探讨了角色的内心冲突和性别认同，特别是角色凯莉所承载的传统与自我认知的碰撞。故事中还穿插了爱丽丝与凯莉的互动，尤其是关于权力与服装的戏谑对话，展示了复杂的性别关系与权力游戏。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_荆棘王冠（19）等二十章搞个总集篇吧···_[
 | Size            | 21864 bytes                           |
 | MD5             | 7c1ce2a24ff7ab23adcda2f2007d2933                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 魔法冒险, 契约, 青春梦想, 角色自我认知, 权力游戏, 奇幻世界, 佣兵团, 冒险小说, 女性角色, 爱情, 性别认同, 食物描写, 传统与现代对比                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

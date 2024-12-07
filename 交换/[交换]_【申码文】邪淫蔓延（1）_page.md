@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】邪淫蔓延（1）.doc]([交换]_【申码
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部伪娘与跨性别主题的小说，名为《邪淫蔓延（1）》, 描述了一位名为山田靖郎的青年，他生活在东京的廉租房中，因社会阶级的固化而过着困苦的日子。故事开始时，他因意外发现一个神秘的木盒而被卷入了一场奇异的黑暗实验。在这个盒子中，黑雾缠绕着他，并向他提出效忠的要求。随着故事的发展，山田靖郎意识到自己被卷入了一场人与黑暗之主之间的斗争中，后来他还遭遇到了名为空城优的男性，这位男性附身在一名巫女的身上。小说中描绘了角色的性别转换和身体的占有，以及对自我身份的复杂探索，穿插着魔法元素和灵魂的交织。故事充满了魔幻色彩，涉及到黑暗力量和转变过程，情节曲折且紧张，展现了角色在自我认同与他人期待之间的冲突和挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】邪淫蔓延（1）.doc]([交换]_【申码
 | Size            | 69632 bytes                           |
 | MD5             | f4cf2cbce1ed6f19de2f42ae86fe159f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 黑暗力量, 魔女, 性别转换, 附身, 精神占有, 自我探索, 魔法与现实的冲突, 都市奇幻, 社会阶级, 灵魂交织, 腐化与救赎, 性别认同, 奇幻, 逆转剧情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

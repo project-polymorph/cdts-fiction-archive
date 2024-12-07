@@ -7,7 +7,7 @@ TXT 下载: [[变装]_父子情深（五）.doc]([变装]_父子情深（五）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《父子情深》中的一部分，主要描绘了一段复杂而敏感的父子关系。从晚宴的情景开始，主人公托德与其父亲迈克尔在就餐后表现出微妙而亲密的肢体接触，展示出一种超越了传统家庭关系的情感发展。故事中，托德对父亲的全新装扮充满了赞赏，通过细腻的心理描写展现了托德对父亲迈克尔的深厚情感。在晚餐之后，父子二人的关系逐渐升温，场景转向亲密的浴室，彼此的身体关系愈发紧密，包含了一些露骨的性描写和情欲互动。这一情节既展现了角色之间复杂的情感状态，也涉及了诸多伦理和道德的边界问题。全文中包含大量的成人内容，具有较为强烈的性暗示与明确的性行为描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_父子情深（五）.doc]([变装]_父子情深（五）.
 | Size            | 39424 bytes                           |
 | MD5             | c5df8e1eb24dbf69be9991dd4b05ff0e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 父子关系, 性转, 跨性别, 变装, NTR, 纯爱, 强奸, 调教, 乱伦, 情欲, 自慰, 同性恋, 露骨描述, 身体认同, 自我探索, 伦理边界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_玉女明星许馨的故事4（暂完）.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一个名为许馨的角色经历拍卖会以及随后的慈善舞会的故事。故事开始时，许馨捐赠的一条项链在拍卖会上引起了热烈的反响，竞标价格迅速上涨，从最初的10万元最终拍卖至2100万元。许馨对这条项链有特殊的情感，因其是她的初恋情人所赠。接下来的舞会中，许馨借着变身而得到了奢华的外表，但内心却充满了矛盾与妒忌，与昔日女友韩敏和其新男友相遇时，情感的纠葛渐渐浮现。许馨在舞会中虽然吸引了众多目光，但对富二代张哲的邀请却感到不快。最终，曾伟鸿找上她，提出让她假装他的女朋友，许馨内心复杂，但也对未来的利益产生了动摇。文中探讨了性别认同、外貌以及感情的多重主题，以及对过去情感的羁绊，让角色在权力与欲望之间进行挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_玉女明星许馨的故事4（暂完）.docx]([皮物]_�
 | Size            | 21624 bytes                           |
 | MD5             | d9f9c17642497269a8d3fad2ecc32f81                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 伪娘, 爱恨情仇, 社交场合, 奢华生活, 情感纠葛, 高跟鞋, 拍卖会, 慈善舞会, 嫉妒, 女主角, 身份认同, 爱情游戏, 女朋友假象, 角色冲突, 当代都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

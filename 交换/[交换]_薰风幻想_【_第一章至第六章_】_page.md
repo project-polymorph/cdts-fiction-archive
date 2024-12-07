@@ -7,7 +7,7 @@ TXT 下载: [[交换]_薰风幻想_【_第一章至第六章_】.docx]([交换]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《薰风幻想》的前六章描绘了一个充满奇幻色彩的故事，主要围绕着主角莎莎与一个名为凯特曼的男子之间的身体互换展开。在故事的开头，莎莎被魔族拘禁，她面临着与一名男子互换身体的恐怖选择。随着故事的发展，莎莎在绝望中尝试理解自己的新身份和身体的变化，她的内心冲突以及对过去身份的怀念显得尤为突出。文中描绘了莎莎被迫接受令人沮丧的现实，以及她与凯特曼之间逐渐建立的微妙联系，虽然最初充满了对彼此的误解和指责，但最终却在共同面对魔族的威胁中产生了新的理解和信任。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_薰风幻想_【_第一章至第六章_】.docx]([交换]_
 | Size            | 41419 bytes                           |
 | MD5             | b182a1bfe17b78d5385cfb63031e369c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RE                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 魔法, 身体互换, 跨性别, 奇幻小说, 女性视角, 自我探索, 情感冲突, 魔族, 动作, 冒险, 青春, 玄幻, 情节转折, 力量与脆弱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

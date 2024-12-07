@@ -7,7 +7,7 @@ TXT 下载: [[附身]_来自未知的馈赠-第5-6章.docx]([附身]_来自未�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别相关小说的第5至第6章，内容围绕一个角色使用附身能力的故事展开。主角在附身到刘静茹的母亲身上后，沉浸在探索新身份带来的快乐和冲动中。故事中描写了主角在母亲的身体里醒来、适应新身份以及与“女儿”刘静茹建立起复杂关系的过程。情节快速发展，主角通过操控母亲的形象与刘静茹展开了一系列亲密而刺激的互动，揭示出对性别和身份的探索，以及肉体与灵魂之间的界限。整个故事包含了一些限制级的内容，很可能涉及到母女间的伦理禁忌和性相关情节，因此需谨慎对待该文本的解读与使用。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_来自未知的馈赠-第5-6章.docx]([附身]_来自未�
 | Size            | 26003 bytes                           |
 | MD5             | 23e5c8edd590c259ab7801bb34034c0d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性转, 母女关系, 跨性别, 伪娘, 性别认同, 家庭伦理, 成人内容, 自我探索, 精神契约, 恋母情结, 身体改造, 角色扮演, 时尚, 二次元, 刺激情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

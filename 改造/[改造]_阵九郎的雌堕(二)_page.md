@@ -7,7 +7,7 @@ TXT 下载: [[改造]_阵九郎的雌堕(二).doc]([改造]_阵九郎的雌堕(�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于性别转变与自我认同的小说，讲述了主角饭纲阵九郎因被猫妖诅咒而病重，决定通过古老秘技“魂移”将自己的灵魂转移到一位健康的朝廷官员身上，却意外地进入了一名小萝莉的身体。故事通过阵九郎的视角深入探讨了身份的混乱和身体的变化，伴随着对女性身体的探索与感知，呈现了丰富而复杂的性别认同体验。在温泉中，他被一只妖狐绀菊引导进入了女性的身体体验，期间包含了对女性身体敏感部位的探索，展现了极强的身体快感与心理交织的羞耻感，揭示了性别流动的主题。文章包含较多成人内容，涉及性描写、情欲与身体的重新认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_阵九郎的雌堕(二).doc]([改造]_阵九郎的雌堕(�
 | Size            | 45056 bytes                           |
 | MD5             | 2008de1e0aa9b80d6c4b636b1ec4b762                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 灵魂转移, 女性认同, 自我探索, 妖狐, 快感体验, 混乱身份, 温泉, 神社, 东京幻想, 二次元, 冒险, 羞耻感, 少女, 古代武士, 异界奇幻, 力量的转变, 美少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_塑料模特.doc]([改造]_塑料模特.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《塑料模特》是关于一个角色名为珍的跨性别主题小说，讲述了她在目眩神迷中醒来后发现自己被绑架并处于一种极其危险的境地。故事中的珍是一个金发碧眼的美丽女子，因一次事故被一名穿着白大褂的女性博士绑架，并在过程中失去了对身体的控制。文中详细描述了珍的心理挣扎以及被迫接受变身成为塑料模特的过程。这不仅是对身体的改造，更是对自我认知和身份的剥夺。在一系列复杂的实验后，珍的意识被转移到了一个塑料制成的模特中，而她的身体则被另一个女人安娜所接管，故事充满了对性别认同、身体自主权和欲望的探讨。最终，安娜以珍的身份继续生活，暗示了身份和身体之间复杂且微妙的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_塑料模特.doc]([改造]_塑料模特.doc)
 | Size            | 47104 bytes                           |
 | MD5             | 7f8f1953acb1bb3f2d17480384b04b56                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身小说, 心理冲突, 身体控制, 奴役, 自我认知, 身份转变, 生理与心理, 情色, 科技幻想, 人偶, 道德困境, 权力关系, 身体交换, 弱势与强势, 二次元, 情感剖析, 自我探索, 伪娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_邪魔外道-起源（二）.docx]([附身]_邪魔外道-�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一部涉及伪娘与变身题材的小说的片段，情节围绕天剑派掌门姚星河和一位少女徐芊芊之间复杂的关系展开。故事开始于姚星河对门派弟子早亡的悲痛回忆，随着情节的发展，徐芊芊受到众弟子的指责，称其生活糜烂，淫奢成性，使得她陷入绝境。情感的冲突在后续的发展中更加剧烈，伴随着大量性暗示和情感纠葛。文本中还有对人际关系、性别角色和欲望的探讨，通过人物之间的对话和冲突，展现了角色的内心挣扎与自我认知的变换。文中描述细腻，情节修改急转而直，引人注目，也不乏露骨的性描写，令人震撼。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_邪魔外道-起源（二）.docx]([附身]_邪魔外道-�
 | Size            | 184109 bytes                           |
 | MD5             | a36de446e41bb4aab53eb2ef7ad66be6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 情感纠葛, 飞速情节, 强烈的性暗示, 天剑派, 男性幻想, 自我认知, 权力斗争, 角色转变, 欲望主题, 士人, 抉择, 女性角色, 受害者心理, 情感冲突, 复杂人际关系, 青春困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

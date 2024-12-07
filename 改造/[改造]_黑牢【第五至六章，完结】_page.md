@@ -7,7 +7,7 @@ TXT 下载: [[改造]_黑牢【第五至六章，完结】.doc]([改造]_黑牢�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换和跨性别主题的小说，讲述了角色们在监狱中的复杂关系与情感变迁。故事围绕主角与刘亚军、于哥之间展开，主角因刘亚军的强暴行为而对其展开惩罚，并对其进行阉割，从而导致刘亚军的自我认知和身体认同发生了巨大的转变。随着时间推移，刘亚军的性格逐渐改变，由于失去生理男性的身份而开始尝试化妆和扮演女性。在此过程中，监狱内部的权力斗争和性行为也不断交织，使得故事充满了复杂的人际关系与性别认同的探索。字里行间展现出角色对于身份的迷茫与欲望，特别是在强烈的情感与欲望交织的场景中，体现了人性的脆弱与渴望。最后，主角经历了重获自由，却发现自己内心深处的欲望与认同已经完全改变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_黑牢【第五至六章，完结】.doc]([改造]_黑牢�
 | Size            | 37888 bytes                           |
 | MD5             | ffc92b910021a1fb5cf757194e1f9aeb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 监狱, 变身, 自我认同, 情欲, 化妆, 禁忌情感, 欲望, 角色扮演, 自我探索, 权力关系, 复杂人际关系, 心理变化, 虐恋, 女性形象                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

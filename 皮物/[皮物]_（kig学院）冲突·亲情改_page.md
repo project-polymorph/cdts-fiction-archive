@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（kig学院）冲突·亲情改.doc]([皮物]_（kig学�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇探讨伪娘文化与家庭矛盾的小说，通过第一人称视角叙述了主角在认同自我爱好方面所遭遇的家庭压力和心理冲突。在作品中，主角因为对女装和皮物的爱好而与传统父母产生了严重的代沟。开头，主角提到自己在卖房的过程中受到了一些看似不怀好意的目光，暗示家庭关系的疏远与张力。接着，主角的回忆交代了他在漫展经历的尴尬、对父母的坦白以及随之而来的冲突。父母对其爱好的强烈反对，使用了“变态”等侮辱性语言，反映了传统观念与个人身份认同之间的冲突。此作品在揭示文化冲突的同时，也展现了个体在社会压力下的孤独与挣扎。全篇充满了对自我认同的深思和对家庭期待的无奈抵抗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（kig学院）冲突·亲情改.doc]([皮物]_（kig学�
 | Size            | 67072 bytes                           |
 | MD5             | 00dacb98d8d16bffdd822ee270c37fda                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 家庭矛盾, 自我认同, 女装, 文化冲突, 恐惧与孤独, 青春期探索, 二次元风格, 身份认同, 社会压力, 传统与现代, 心理冲突, Kig文化, 自我探索, 反叛, 悲剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

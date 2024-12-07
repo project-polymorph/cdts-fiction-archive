@@ -7,7 +7,7 @@ TXT 下载: [[其他]_勇者（序）.docx]([其他]_勇者（序）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容提供了一个虚构的奇幻故事背景。故事设置在公历345年，描述了大魔王率领的魔物军团对迪亚大陆的侵袭，导致大陆上的大部分区域被摧毁。神圣之国兰德以三千名少女作为活祭品，唤来了被称为七彩圣女的索菲亚，她佩戴着金色圣甲，持有强大的神剑，带领人民进行反抗，逐渐击退魔王的军队。随着时间推移，尽管迪亚大陆一度恢复了和平，但公历360年，魔物再度复活，故事中出现了一名与圣女索菲亚相似的红色魔女，其强大的魔法引发了大陆人民的恐慌和不安。文中不仅包含丰富的角色与剧情设定，还描述了战争的残酷及人们对英雄与恶魔的复杂情感。文档内容以一种叙述式的方式展开，夹杂了一些未修正的标记与电话号码等信息。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_勇者（序）.docx]([其他]_勇者（序）.docx)
 | Size            | 24057 bytes                           |
 | MD5             | 8652e1c33bf9d8b8c2c90f2892f0f718                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 冒险, 魔法, 战争, 英雄, 魔王, 圣女, 人类与魔物的对抗, 精神冲突, 自我认同, 迪亚大陆, 复仇, 转变, 角色成长, 魔法少女, 红色魔女, 神圣物品, 勇者, 反抗, 社会团结                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_沉醉月色_(1).docx]([皮物]_沉醉月色_(1).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件名为《沉醉月色 (1)》，内容涉及伪娘和跨性别主题的小说。故事围绕主角昭月展开，他在回家的路上收到了女友婷芳的暧昧信息，这使他充满期待。随着情节的发展，昭月回忆起和婷芳的关系，其中涉及到扮演女性角色的经历与性别认同的冲突。故事描写了他们两人的情感互动，透过昭月的内心独白，展现了他对这一切的困惑与接受。整个故事充满了性暗示、调侃和情感的交缠，尤其是在描写昭月回忆起被迫女装的那次经历时，他的挣扎与内心的动摇清晰可见。这种扮演与性别角色的颠覆，彰显了作品对性别认同和个人欲望的探讨。此外，文件中包含一些成人向的情节描写，体现了伪娘及相关性转文化的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_沉醉月色_(1).docx]([皮物]_沉醉月色_(1).docx)
 | Size            | 33964 bytes                           |
 | MD5             | 64c5c41ec7eac1d57e61ae4a163dcbe8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 调教, 纯爱, 强奸, 乱伦, 多人, 百合, 变嫁, 雌堕, 调情, 情欲, 校园, 都市, 非人化, 魔法, 互动式, 恶魔, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

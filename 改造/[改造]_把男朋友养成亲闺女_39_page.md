@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_39.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别相关小说的一部分，标题为《把男朋友养成亲闺女》。作品由作者Nicegent42创作，译者为Lisa。内容围绕角色贝丽的心理变迁及自我探索展开，讲述了她在与名为梅根的角色互动中经历的性别角色转换和心理压迫。在这个情节中，贝丽不得不面对自己对身份的困惑和他人对她施加的控制，表现出一种在异化和认同之间的拉扯。文本中包含了一些限制级的内容，如性行为的描述及与自我认知的冲突，表现出贝丽在尝试融入她所处的环境时的复杂心理状态。文本反复强调贝丽的挣扎，以及她对从女性视角出发的期待与现实的落差。故事中的生动细节让人能够感受到角色的脆弱和无助，同时也暗示着性别认同和社会期待之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_39.doc]([改造]_把男朋友�
 | Size            | 122368 bytes                           |
 | MD5             | 15b160478d309ea1e193738e613e3056                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 强迫角色扮演, 自我探索, 性别角色, 幻想性行为, 心理压迫, 成人内容, 情感冲突, 身份危机, 性转, 禁忌情节, 女性高潮, 情感操控, 性别流动性, 虚拟现实, 少女性感, 教师与学生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_彻头彻尾的改变_-5.docx]([变身]_彻头彻尾的改
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是一段关于艾琳的变身与自我认同的小说片段，场景设定在船厂的工作环境与一所社区学院。艾琳在经过一系列内心斗争与身份认同的挑战后，变身为一名女性，开始了她新的工作和学习生活。内容描绘了她与同事克里丝之间逐渐建立的情感联系，以及她在工作中的细致考虑，包括在船厂中如何查找和记录可能涉及安全隐患的可疑活动。文件突出了艾琳在新身份下的心理变化与挑战，尤其是在她作为艾伦时的经历与现在身份的对比。艾琳努力保持低调以避免引起主管的怀疑，同时也借助大压力学业与情感的发展，展现了个体在性别认同上自我探索的过程。文中包含了与情节相关的任务与行动计划的对话，展现了复杂的人际关系与潜在的安全危机。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_彻头彻尾的改变_-5.docx]([变身]_彻头彻尾的改
 | Size            | 36408 bytes                           |
 | MD5             | a77dc61ff289230300069cc6a3ba714f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 自我认同, 男女关系, 学院生活, 危险调查, 情感发展, 工作场所, 心理斗争, 性别角色, 伪娘, 爱情, 危险关系, 社会压力, 身份探索, 青春岁月                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

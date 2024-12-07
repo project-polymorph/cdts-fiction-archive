@@ -7,7 +7,7 @@ TXT 下载: [[其他]_传世之书.doc]([其他]_传世之书.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文围绕主人公徐道梅的生活与工作展开，展示了他在公司技术维修部的日常，以及与同事夏语冰和余胖子之间的互动。徐道梅性格内向，不擅长交际，但因工作能力突出，被公司安排在技术维修部。故事中，徐道梅需要帮助同事解决电脑问题，并接受瘾君子胖子请求翻译限制级日式漫画。随着情节发展，徐道梅对美丽同事夏语冰产生了好感，而夏语冰也对他逐渐有了依赖。在徐道梅的工作与同事关系中，表现出他面临的职场压力与挑战，并探索了性别与自我认同等主题。文中提到的“传世之书”则增添了对性与欲望的暗示，加深了情节的复杂性，主人公在好奇心驱动下打开包裹，却发现一本奇怪的书，引发了内心的冲突与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_传世之书.doc]([其他]_传世之书.doc)
 | Size            | 50688 bytes                           |
 | MD5             | 2086c2a61b87c85bfb4fd9f39ffbad67                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 职场小说, 伪娘, 自我探索, 跨性别, 纯爱, 神秘书籍, 科技与情感, 青春期迷茫, 社会关系, 性别认同, 情感纠葛, 校对, 虚拟现实, 职场压力, 友情与爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

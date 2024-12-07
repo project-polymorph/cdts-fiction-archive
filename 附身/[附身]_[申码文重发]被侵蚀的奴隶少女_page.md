@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[申码文重发]被侵蚀的奴隶少女.docx]([附身]_[
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及奴隶制与性别转变主题的小说，围绕一名被囚禁的少女展开。故事开始于她与其他奴隶女孩生活在同一个笼子里，面对被买卖的命运。少女们被奴隶商人展示给路过的贵族，期望能获得一位好心的主人。小说通过角色的内心独白描绘了她们的绝望与恐惧，特别是她对未来的彷徨和对被夺取自由的恐惧。文中详细描绘了贵族的丑陋与贪婪，她们即使流着泪，也只能通过微笑来迎合贵族的目光。最终，少女的命运在一位看似温柔的女贵族的出现下发生了转变，她决定买下这名奴隶。然而，随着故事的推进，贵妇人真正的身份显示出阴暗的一面，揭示出人性深处的欲望与掠夺。整篇小说探讨了性别认同、身份挣扎、奴隶制的非人道性以及复杂的人际关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[申码文重发]被侵蚀的奴隶少女.docx]([附身]_[
 | Size            | 24508 bytes                           |
 | MD5             | 367da54d691b4c532b7e9286de7bb131                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 奴隶市场, 贵族, 自我认知, 绝望, 温柔的贵族, 欲望, 身份冲突, 女性视角, 性别转换, 黑暗幻想, 自我救赎, 情感纠葛, 心理描写, 神秘身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

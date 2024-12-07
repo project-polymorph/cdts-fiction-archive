@@ -7,7 +7,7 @@ TXT 下载: [[变身]_蠟美人.docx]([变身]_蠟美人.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件的内容围绕着一个神秘的俱乐部——蠟美人俱樂部展开。这个不对外公开的俱乐部只接待极少数特定的客人，其中的场景令人惊叹——各种精美的蜡像女性，宛如真实美人一般，给会员们带来了沉醉的体验。小说通过角色木村与俱乐部主人井上之间的对话，揭示了俱乐部的独特之处。桕的蜡像不仅外观惟妙惟肖，更通过特殊的电力设备模拟了真实心跳，使之似乎栩栩如生。在与这些蜡像的互动中，木村体验到了一种奇妙的感官享受，体现出人对于美的追求和身心的冲突。情节中包含性暗示，展示了对欲望的探讨与人性的隐秘层面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_蠟美人.docx]([变身]_蠟美人.docx)
 | Size            | 31035 bytes                           |
 | MD5             | 2a4a7ad2c1dc7d0daf67540600ff374b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 变身小说, 蜡像, 自我探索, 欲望探索, 神秘俱乐部, 人造心脏, 东京, 艺术体验, 迷失自我, 真实与虚幻, 性别认同, 异世界体验, 情色文学, 成人主题, 幻想, SM, 医疗电力装置, 人物开锁, 肉欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

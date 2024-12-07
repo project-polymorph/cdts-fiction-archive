@@ -7,7 +7,9 @@ TXT 下载: [[变装]（申码文搬运）源源曲_更新番外一篇.doc]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一部跨性别题材的小说的番外篇，主要围绕角色陈源的日常生活与心理挣扎展开。故事始于陈源身穿白色蕾丝内裤的情境，让人看到他内心的矛盾与挣扎。陈源作为一名年轻的部门经理，面对着职业和个人的压力，尤其是在新婚生活中缺乏性生活的困扰。
+
+小说中陈源与其妻子文雯的关系是主要情节之一，他们的婚后生活因缺乏性经验而变得紧张。陈源感受到对妻子的愧疚，最终决定去看医生寻求帮助。文件描写了他们到诊所的情景及医生问询的过程，展现出陈源内心的不安和对未来的期望。整体风格具有对现代社会性别认同和性别角色的深入探讨，尤其是对男性在婚姻关系中所面临的困境的可以引发思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]（申码文搬运）源源曲_更新番外一篇.doc]([变
 | Size            | 177664 bytes                           |
 | MD5             | 4749c9f0673a1e72149d9adc421c4b63                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性转, 婚姻生活, 自我探索, 诊所, 心理咨询, 性别认同, 婚后困扰, 青春期, 工作压力, 现代生活, 剧烈冲突, 自我认知, 社交压力, 精神状态, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

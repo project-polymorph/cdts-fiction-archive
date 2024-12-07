@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_不可能错过你.docx]([皮物]_不可能错过你.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说以一个男性角色阿杰为中心，讲述了他的女朋友小雅在与他分开后进行了变性手术，令人意想不到的是小雅在变性后出现在阿杰的家中，情节围绕着他们之间的互动展开。故事开头描绘了阿杰在匆忙赶回家中，心中忐忑，因为他的女朋友刚提出同居，然而当他推开门时，看到的是一个与自己一模一样的裸体男子。经过一系列误会和对话，阿杰意识到这个变身的男子其实是小雅。两人之间的感情和亲密关系在变性和自我认同的冲突中经历了波折，故事包含了强烈的情感因素，以及对传统性别角色的挑战。文中表现了性别认同的复杂性和二人之间深厚的感情，同时涉及了变身、性转等主题，暗含了对社会性别规范的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_不可能错过你.docx]([皮物]_不可能错过你.docx)
 | Size            | 53644 bytes                           |
 | MD5             | 5c643876169ee2a216d2adc5381513a6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变性手术, 悬疑, 情感冲突, 跨性别, 强烈情感, 二次元, 幻想, 自我认知, 爱情, 变装, 伪娘, 激烈互动, 皮物, 变身, 情节反转, 都市幻想, 惊悚, 情感纠葛, 强奸, 幻想小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

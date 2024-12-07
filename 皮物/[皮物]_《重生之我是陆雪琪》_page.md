@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《重生之我是陆雪琪》.docx]([皮物]_《重生之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《重生之我是陆雪琪》的记录，讲述了主角陆学齐在经历了一场噩梦后，发现自己不再是人，而是一名吸血鬼姜老三。故事中，陆学齐穿越到一个充满修炼与斗法的世界，面对着众多正邪对立的势力和复杂的人际关系。小说的开头描绘了陆学齐从昏迷中醒来时的惊恐与困惑，他发现自己身体虚弱，周围是一个名为吸血老妖的角色，同时也随之展开了一段充满冒险和探索的旅程。在这个过程中，他不断反思自己的身份与认同，面对吸血鬼的身份和师父的期待，通过一系列斗争与遭遇，逐渐适应了新的生活环境。小说中涉及大量魔法、吸血、斗法等主题，展现了一个奇幻而危险的修真世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《重生之我是陆雪琪》.docx]([皮物]_《重生之
 | Size            | 237410 bytes                           |
 | MD5             | 0e5ee3737a84b0b4712b048e608f5529                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 重生, 吸血鬼, 修真, 穿越, 仙侠, 魔法, 自我探索, 身份认同, 异界冒险, 血脉传承, 斗法, 情感冲突, 跨性别, 黑暗幻想, 抽象概念, 虚幻与现实, 灵力滋养                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

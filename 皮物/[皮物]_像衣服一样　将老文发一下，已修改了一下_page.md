@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_像衣服一样　将老文发一下，已修改了一下.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部关于性别转换与自我认同的小说，描绘了一位年轻人在获得一个神秘水晶球后，经历了一系列奇异而复杂的事件。故事的开头，主角与一位美丽的女士交谈，并获得了她赠送的手机和水晶球。在意外的情况下，母亲因水晶球受到影响而发生变形，成为了一种具体化的存在。随着故事的发展，主角对母亲的身体产生了复杂而矛盾的情感，并在心理挣扎中体验到了一种禁忌的吸引力。文中涉及到的情节，表现出了对自我性别认同及家庭关系的深刻探索，同时也融合了强烈的色情元素和禁忌的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_像衣服一样　将老文发一下，已修改了一下.
 | Size            | 20964 bytes                           |
 | MD5             | dc0edfa961f125ab810f206bfbd553e8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我认同, 禁忌, 水晶球, 复杂关系, 色情, 母子关系, 心理挣扎, 情感冲突, 幻想类小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

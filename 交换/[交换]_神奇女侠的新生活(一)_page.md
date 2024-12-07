@@ -7,7 +7,7 @@ TXT 下载: [[交换]_神奇女侠的新生活(一).doc]([交换]_神奇女侠�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件的标题为《神奇女侠的新生活（第一部分）》，它描绘了著名超级英雄神奇女侠的生活转折。故事中，主角戴安娜公主应线人弗兰克·贝克的邀请，与其会面，探讨一件对她来说十分重要的事情。她在爱荷华州的一个偏僻卡车餐厅与贝克相见，餐厅里只有一名女服务员玛吉。随着情节的发展，神奇女侠开始揭开自己的内心压力与负担，面对身为超级英雄的生活所带来的孤独与焦虑。贝克尔向她提出了一个非同寻常的交易，声称可通过交换身体来让她体验一个普通人的生活，从而摆脱作为超级英雄的重责大任。故事通过戴安娜与玛吉的对话，探讨了个人身份、压力、和自我认知等深刻主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_神奇女侠的新生活(一).doc]([交换]_神奇女侠�
 | Size            | 53248 bytes                           |
 | MD5             | 7efe2170022b17f8dbc8a34fd735c25e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 身体交换, 超级英雄, 自我探索, 性别认同, 情感纠葛, 时空穿越, 奇幻故事, 心理斗争, 人生选择, 普通与伟大, 生活转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

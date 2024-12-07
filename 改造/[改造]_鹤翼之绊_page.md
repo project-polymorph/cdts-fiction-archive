@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鹤翼之绊.doc]([改造]_鹤翼之绊.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《鹤翼之绊》，是一个关于舰娘与提督之间互动的变身类故事。剧情围绕着提督面对战斗压力和身份认同的心理挣扎展开，描绘了其由男性转变为女性形象的过程。故事中，提督面临着是否使用瑞鹤舰娘的舰装的抉择，涉及到性别认同、自我探索与权力斗争的主题。从一开始提督对舰娘的了解局限于战斗表现，而今不得不面对穿着女装和使用舰娘能力的问题。文中包含了丰富的战斗描写以及对舰娘及其舰装的介绍，表现出提督心理的微妙变化。随着情节发展，提督在和翔鹤的对话中逐渐意识到尊严与成功的冲突，并最终决心接受挑战，尝试舰娘所需的服装和装备。文中存在互动趣味与潜在的色情暗示，不同的角色设定为故事增添了情感的层次和复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_鹤翼之绊.doc]([改造]_鹤翼之绊.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 62464 bytes                           |
 | MD5             | 17bb125029b85bc1e37219a45cb0f98e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 舰娘, 变身, 性别认同, 自我探索, 军事, 提督, 航母, 青春, 心理斗争, 二次元小说, 战斗, 交战报告, 转变过程, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

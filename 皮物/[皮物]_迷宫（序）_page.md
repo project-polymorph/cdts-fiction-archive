@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_迷宫（序）.docx]([皮物]_迷宫（序）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《迷宫（序）》描绘了一个奇幻的世界，故事设定在五纪元356年的利亚山岛，这里因突如其来的迷宫而吸引了大量冒险者。迷宫以其高难度和丰富的珍宝而闻名，尤其是独特的‘皮衣’吸引了众多学者的关注。故事的主角坎特原本是岛上的一名普通樵夫，但迷宫的出现让他成为了冒险者。尽管他数次冒险，险些丧命，却仍希望能在迷宫中获得财富。在一次探险中，他意外获得了一件女性冒险者的皮衣，随后发生了一系列纠葛，包括与自己的感情、与其他冒险者的争斗、以及皮衣自身的神秘性质。故事不仅涉及冒险与诅咒，还包含了对性别与身份的探讨，尤其是坎特与一个被他救下的少女之间微妙且复杂的关系。文中描绘了残酷的生存现实，以及迷宫中潜藏的诅咒和不可思议的变化，结尾暗示着更为复杂的情节即将展开。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_迷宫（序）.docx]([皮物]_迷宫（序）.docx)
 | Size            | 25846 bytes                           |
 | MD5             | d5245dd8c5a9d1958b88f317cdaa48e1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 迷宫, 冒险, 性转, 诅咒, 成长, 奇幻, 皮衣, 自我认知, 性别认同, 青少年文学, 幻想世界, 角色发展, 探索与发现, 人性与欲望, 地下冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_許願(2)免費.docx]([附身]_許願(2)免費.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容是关于一名交换学生李丽芬在学校生活中的故事，她是一位身材高挑、容貌出众的校花。故事描绘了她与另一位学生山田武的互动，李丽芬以命令的语气请求武在晚上带她去市里买东西。文中包含李丽芬自我反思和思考她的性格，她意识到自己有一些支配欲望，表现出了一种略带调皮的挑逗感觉。当李丽芬使用魔法物品后能够听到其他人物的思想，并因此陷入复杂的情感纠葛中，展示了她内心的矛盾与变化。故事着重探讨了性别认同与角色的自我重新定义，包含了种种情感因素和轻度的色情暗示。该文本涉及多元性别的主题，可能会包含一些边缘化的情节和元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_許願(2)免費.docx]([附身]_許願(2)免費.docx)
 | Size            | 19956 bytes                           |
 | MD5             | a1aa31ca5c17fa558a01b920ff5711c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 伪娘, 校园恋爱, 自我认知, 性转, 魔法, 强烈情感, 内心矛盾, 爱情, 调皮                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

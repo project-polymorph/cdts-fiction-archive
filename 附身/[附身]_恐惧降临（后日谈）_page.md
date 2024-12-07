@@ -7,7 +7,7 @@ TXT 下载: [[附身]_恐惧降临（后日谈）.docx]([附身]_恐惧降临（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇跨性别主题的后日谈小说草稿，标题为《恐惧降临（后日谈）》。故事描绘了一个男性角色在经历性别转变后的日常生活与心理变化，尤其放大了作为女性的自我认知和行为的变化。主人公在阳光明媚的清晨慵懒地醒来，发现自己变成了女人，感受到了女性身体带来的各种快感。文本中细致地描绘了她在清晨起床后的举动，展现了女性身体的细腻之处。主人公充当了她已故姐姐的角色，试图照顾妹妹，表现出一种扭曲的姊妹情深。小说中包含了一些露骨的色情元素，例如对身体部位的详细描述和性快感的描写，同时也涉及到了性别认同和角色颠覆的主题。尽管故事设定令人深思，但内容存在一些成人主题和限制级内容，适合从事相关研究和学习的成年受众。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_恐惧降临（后日谈）.docx]([附身]_恐惧降临（
 | Size            | 21605 bytes                           |
 | MD5             | 4b24dfe5edac367aec17f497c8dc7813                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 跨性别, 性别认同, 性转小说, 幻想, 成人内容, 另类家庭, 身心转变, 自我认知, 后日谈, 阴蒂, 阴唇, 姐妹情深, 连裤袜, 快感体验, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

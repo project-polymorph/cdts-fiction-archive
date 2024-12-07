@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我和老师的换头游戏——第五天与第六天_蜜
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部跨性别和变身相关的小说，讲述了新入职女教师银崎初芽与高中男生金谷弥城在一次游戏中交换了头颅，导致他们必须彼此生活在不同的身体中。故事围绕着角色在这一奇幻设定下的各种心理冲突与事件展开，包括性别认同和身体变化带来的困惑与挑战。银崎老师在习惯男生金谷的身体的同时，也遭遇了由游戏设定带来的惩罚，包括使周围人产生迷恋和身体变化的能力。情节中渗透着性别角色的困扰和性欲的觉醒，而随着故事发展，两位角色在不断调整自己的生活以及彼此间的关系。该文件详细记录了他们的内心独白与相互间的情感，尤其是银崎老师对金谷和游戏设定的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我和老师的换头游戏——第五天与第六天_蜜
 | Size            | 33837 bytes                           |
 | MD5             | d1cd119c5a389c1bc9b7bbdf77a7bff6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转小说, 跨性别, 变身佐嘉, 情感冲突, 自我探寻, 惩罚游戏, 爱情, 性别认同, 身体交换, 幻想世界, 校园生活, 青春期困扰, 心理描写, 角色扮演, 女性视角, 性欲觉醒, 男女性别角色, 青春爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

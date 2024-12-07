@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_雅加达不相信眼泪（中）.doc]([皮物]_雅加达�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《雅加达不相信眼泪（中）》的中篇，字数约11190字。小说描绘了一名名为陈世涛的男主角和他的团队在印尼执行一项秘密任务的故事。故事中，陈世涛伪装成阿拉伯人，目的是为了渗入印尼并绑架印尼军队总司令苏哈托。过程中，小说展示了角色之间的交流与互动，特别是陈世涛与其他伪装者之间的碍于语言障碍的有趣对话，以及他对自己伪装身份的内心纠结。小说融入了一定的性别流动隐喻，陈世涛经常被描述为具有女性特征的形象，受到周围男性的关注。此外，故事中涉及到的政治背景为小说增添了现实中的冲突与紧张气氛，展示了角色们在完成任务时的心理状态与人与人之间的复杂关系，具有深刻的社会与文化反思。整体语言风格幽默诙谐，又兼具了对严肃话题的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_雅加达不相信眼泪（中）.doc]([皮物]_雅加达�
 | Size            | 75264 bytes                           |
 | MD5             | 4576ed40689cc29b7f4a01c6b02bff84                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 绑架, 政治阴谋, 二次元, 角色伪装, 自我认知, 东南亚, 秘密任务, 虚构文学, 社会冲突, 性别身份, 阿拉伯文化, 情感交流, 文化碰撞                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

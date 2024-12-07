@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_Skindom（陆·人心似海深难测）.docx]([皮物]_Ski
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一段复杂而引人入胜的科学幻想故事，围绕一个名为‘替身201814543’的青年方俊凯展开，他希望通过高端科技手术成为一个Skinner，替代名为周卉心的女性。文件内容详细描述了方俊凯在手术前后的心理变化及身体转变的过程。故事情节涉及高科技手术、身体改造、性别身份的探索与认同，背景设定在一个高度未来化的环境，人物之间的对话展现了对技术和身份的思考。手术中，主角经历了多项复杂的身体改造，包括髋骨与锁骨的移植，以及通过高频电荡和其他手段进行的塑形，充分展示了生物技术的潜力与尖端医学的极限。最终，手术成功后，方俊凯不仅在身体上变身为女性周卉心，甚至拥有了她的感知与经历，故事深入探索了性别转换与个体认同的冲突与融合。此外，内容中还涉及一定的限制级情节与性暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_Skindom（陆·人心似海深难测）.docx]([皮物]_Ski
 | Size            | 26652 bytes                           |
 | MD5             | b1a51a9f0cb406373f19589af8d255e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 生物科技, 替身, 身体改造, 跨性别, 心理探索, 虚拟现实, 未来科技, 医学伦理, 情感纠葛, 变身, 匠人精神, 科幻小说, 改造手术                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

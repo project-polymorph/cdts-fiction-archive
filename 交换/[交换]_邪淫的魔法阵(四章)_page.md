@@ -7,7 +7,7 @@ TXT 下载: [[交换]_邪淫的魔法阵(四章).docx]([交换]_邪淫的魔法�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘与跨性别相关的小说，讲述了主角李运发的灵魂意外融入了女孩谢雅婷的身体，并描述了她在新的身份下的心理变化与冲突。开篇提到作者希望读者能细心品味角色的心理变化，故事中展现了李运发转变为谢雅婷后对新身体的惊讶与欣赏，包括她对自己双手和身体的探索，以及对身份变化的适应和挣扎。当她面临必须与他人交换身体的选择时，展现了伙伴之间的犹豫和不安，尤其是对大叔身体的恶心，突出角色们的内心挣扎和对今后生活的恐惧。故事不仅涉及性别认同问题，也探讨了人际关系的复杂性和对自身身体的认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_邪淫的魔法阵(四章).docx]([交换]_邪淫的魔法�
 | Size            | 18356 bytes                           |
 | MD5             | 1ca0b48ca51c0e31097f113d7923bdd3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别转换, 跨性别, 自我探索, 心理冲突, 魔法, 性别认同, 身体交换, 女性视角, 二次元, 都市, 变身, 剧烈情感, 角色扮演, 阴暗主题, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

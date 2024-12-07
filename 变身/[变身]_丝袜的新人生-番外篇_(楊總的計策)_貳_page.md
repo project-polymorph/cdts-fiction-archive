@@ -7,7 +7,7 @@ TXT 下载: [[变身]_丝袜的新人生-番外篇_(楊總的計策)_貳.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一篇涉及伪娘与变身主题的小说番外篇，讲述了主角在变身为女性后参加夜店的情景。主角的身份是‘艳芳’，他的任务是伪装成夜店的女服务员，并与一位男顾客沈安的儿子沈傲互动。在故事中，主角利用自己的新身份进行暗中操作，但在与沈傲相处时，意外引发了一系列情感和身体上的冲突。主要情节包括主角在夜店内的自我认同、对性别转换的适应，以及与顾客间发生的暧昧关系。随着故事的发展，主角体验到了女性身体的敏感与欲望，情节逐渐发展到亲密互动与性行为的描写。整篇文章用细腻的语言描绘了身份的转换与性欲的觉醒，同时涉及到一些社会与伦理的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_丝袜的新人生-番外篇_(楊總的計策)_貳.doc]([�
 | Size            | 54272 bytes                           |
 | MD5             | 084935ee141143ac2b76606dead138c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 夜店, 性别认同, 跨性别, 强奸, 调教, 淫荡, 爱情, 强迫, 人际关系, 进化, 性欲, 暗黑, 夜生活, 成人小说, 偶像幻想, 自我探索, 情感冲突, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

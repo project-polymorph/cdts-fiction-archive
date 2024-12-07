@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我叫夏莺.doc]([交换]_我叫夏莺.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《我叫夏莺》详述了一个复杂的家庭故事，主角由眼前美满的生活逐渐走入心理深处的矛盾情感。故事开篇在产房，主角夏莺迎来了她的女儿，表面上生活幸福美满。然而，随着叙述的发展，主角的内心却充满了对过去的怀念和对梦境的困惑。在不断的梦境中，她是她丈夫的儿子，名叫陈天乔，这种奇妙的性别转换引发了她对自身性别认同的探索。故事通过夏莺的视角深入探讨了家庭关系，尤其是她与继母之间渐渐模糊的界限和潜在的欲望。小说中多次描绘了青少年在成长过程中的自我认知与身体变化，表达了一种对性别、爱的探索，以及伴随而来的心理冲突。通过不断的触觉、梦境与自我欲望的描写，小说挑战着性别传统观念和角色期望，留下了读者对于性与爱的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我叫夏莺.doc]([交换]_我叫夏莺.doc)
 | Size            | 60928 bytes                           |
 | MD5             | 3712d06a5ad1885c416f7713cdc7c8d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 家庭关系, 青少年成长, 自我探索, 心理困惑, 性转, 继母, 梦境, 欲望, 多重身份, 角色模糊, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

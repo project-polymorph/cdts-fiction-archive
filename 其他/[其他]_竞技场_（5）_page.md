@@ -7,7 +7,7 @@ TXT 下载: [[其他]_竞技场_（5）.doc]([其他]_竞技场_（5）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一个名为《竞技场S区》的小说稿件，字数约21039字，主要围绕一个设定在叫做竞技场S区的斗技场景展开，该场景聚集了一些极具实力的角色，特别是魔女拉娜和火之魔法师莉莎之间的对决。故事的开头提到，竞技场S区的开放仅限于排名前50的强者与特定达官贵人，拉娜被描绘成魔法强大且魅力无人能敌的角色，曾以其恐怖的声名统治过一片大陆。她在赛事的参与中再次显露实力，引起观众的欢呼与期待。随着比赛的进行，拉娜用强力的水系魔法快速击败了莉莎，并利用史莱姆控制对手，过程中夹杂了多重刺激的性暗示，令观众感到兴奋和紧张。在故事的高潮部分，已消失多年的英雄将领爱因突然出现，对拉娜发动攻击，使得局势变得扑朔迷离。整篇小说不仅涉及战斗，还涉及对性别及角色认同的探讨，尤其是在拉娜这一角色身上表现得更加明显。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_竞技场_（5）.doc]([其他]_竞技场_（5）.doc)
 | Size            | 80384 bytes                           |
 | MD5             | a7bfa5f2d3403b3c27b63b0758aa1e82                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | lalala03                               |
+| Region          | 未知                               |
+| Date            | 2015-10-18                                 |
+| Tags            | 竞技场, 魔女, 性别认同, 魔法师, 火之魔法师, 斗技场, 莉莎, 拉娜, 史莱姆, 战斗小说, 二次元, 幻想世界, 强者对决, 魔法对抗, 情感冲突, 生死之战, 人物关系, 刺激性剧情, 魔法斗争, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

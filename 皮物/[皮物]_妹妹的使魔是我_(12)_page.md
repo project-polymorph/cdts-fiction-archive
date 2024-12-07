@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_妹妹的使魔是我_(12).docx]([皮物]_妹妹的使魔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别相关小说的一部分，标题为《妹妹的使魔是我?》，主要讲述了两位角色在游乐场的玩乐经历。故事开篇描绘了角色在早餐后匆忙抵达游乐场的情景。主角因迟到而道歉，但在伴侣洛琳的牵引下，他们一起进入游乐场，享受周末假日的欢乐气氛。文件中详细描写了主角对游乐园的怀念以及对刺激项目的恐惧和快感交织的体验。在游乐场的一系列活动中，角色之间的互动逐渐展现出彼此的情感，主角对洛琳的照顾和关心显得尤为重要。随着剧情的发展，角色们在游乐场中体验刺激项目的同时，也引发了对过去的回忆和情感波动，展现了一种温暖而复杂的人际关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_妹妹的使魔是我_(12).docx]([皮物]_妹妹的使魔�
 | Size            | 23962 bytes                           |
 | MD5             | 6c5bcc619579cdcfa10df3e1c8780d38                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 游乐场, 姊妹情, 心理变化, 刺激体验, 性别认同, 甜蜜回忆, 自我探索, 角色互动, 情感发展, 青春, 二次元, 变身, 伪娘, 心跳, 快感体验, 游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

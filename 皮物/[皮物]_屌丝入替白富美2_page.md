@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_屌丝入替白富美2.docx]([皮物]_屌丝入替白富�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一位角色在经历强烈的性转和变身后，与一名叫赵龙的男性之间发生的复杂情感和身体关系。故事开头，主角在一个看似强迫的情境中，感受到赵龙的侵犯，初时抵抗，最终却因身体感受而渐渐接受并享受与他的亲密关系。随着情节的发展，主角在一场高潮中获得了另一个女人——秦宁宁的记忆，体验到了她的生活，包括第一次月经、第一次恋爱等重要时刻，同时也感受到自己身躯的变化与转变后的身份认同。剧中描绘了强烈的自我探索和身份冲突，包括在与赵龙的性生活中，主角经历的快感与情感的纠葛，体现了性别、肉体以及心理之间的复杂关系。这个故事充满了明显的性暗示及相关情节，并描绘了男主角对女性身体的欣赏与渴望，以及在被迫接受新身份后，内心的挣扎与逐渐的适应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_屌丝入替白富美2.docx]([皮物]_屌丝入替白富�
 | Size            | 21807 bytes                           |
 | MD5             | f9e15356a3982593844f3fc7abc13416                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 强奸, 自我探索, 情感纠葛, 记忆融合, 身体认同, 性经历, 心理冲突, 女性视角, 爱情, 成人内容, 幻想, 奇幻, 逆转, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

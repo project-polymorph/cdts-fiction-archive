@@ -7,7 +7,7 @@ TXT 下载: [[变性]_十字路口的女恶魔.docx]([变性]_十字路口的女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《十字路口的女恶魔》，讲述了一位名叫重铭的年轻人的奇幻转变故事。重铭原本是一名大学刚毕业的程序员，面临生活的压力与内心的挣扎，他接受了一次灵魂交易的机会，进入了一个平行世界。在这个新世界中，重铭变成了一名外表女性的男孩，必须以伴娘的身份参加自己姐姐的婚礼。随着故事的发展，重铭经历了身份与性别的复杂转变，面临家人对他氏的困惑与期待，以及自身对性别认同的探讨。文件中描绘了重铭被迫接受女性角色所带来的尴尬与不适，他在挑选伴娘礼服的过程中逐渐接受了自身的变化，但也面临着被迫剥夺身份与反抗的窘境。整个故事探讨了性别认同、自我认知以及家庭关系等深刻主题。此外，涉及一些限制级的内容，展示了内心斗争及外在压力的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_十字路口的女恶魔.docx]([变性]_十字路口的女
 | Size            | 28806 bytes                           |
 | MD5             | 04e53809d5055eefed0121dc3518f4ca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性别认同, 鬼魂交易, 平行世界, 自我探索, 爱情, 伴娘, 家庭关系, 心灵挣扎, 女性角色, 性别转变, 变装, 青春期烦恼, 幻想小说, 心理斗争, 身份迷失                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

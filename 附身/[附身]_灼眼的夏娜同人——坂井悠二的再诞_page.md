@@ -7,7 +7,7 @@ TXT 下载: [[附身]_灼眼的夏娜同人——坂井悠二的再诞.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是《灼眼的夏娜》的同人小说《坂井悠二的再诞》。故事围绕主角坂井悠二的变身过程展开，描绘了他在重生为女性形象来对抗敌人的过程，以及与女主角夏娜之间的复杂关系。小说中融合了对角色变化的深入探讨，如悠二从男性变为女性的外貌、态度变化，及其对自我认同的冲突。文本中提到“悠二恐怕也已经死了。稀薄的肉体是无法承载神力的”，展现了悠二在神力影响下发生的巨大变化，这种变化使得她需要与夏娜进行战斗。整体故事情节充满了魔幻色彩，涉及到神秘力量和角色的自我探索，以及两者之间情感的微妙变化。尽管小说含有奇幻色彩，故事却也不乏对人性、勇气和牺牲的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_灼眼的夏娜同人——坂井悠二的再诞.docx]([�
 | Size            | 25702 bytes                           |
 | MD5             | efe8a902055b517098634524b577fad0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灼眼的夏娜, 坂井悠二, 变身, 跨性别, 神话, 奇幻, 角色认同, 女性角色, 强烈情感, 自我探索, 冒险, 火雾战士, 神力, 同人小说, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

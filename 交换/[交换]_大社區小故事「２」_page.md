@@ -7,7 +7,7 @@ TXT 下载: [[交换]_大社區小故事「２」.docx]([交换]_大社區小故
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了一位普通男性在一次意外事故中变成了女性角色林羽嫣的故事。故事以单元剧的形式展开，主要讲述了角色在新的身份中生活的种种挑战与自我认知的挣扎。开篇展示了清晨的宁静，主角在被窝中回忆起自己变身的经历，以及与老公的日常对话。故事逐渐揭示，由于一次电流事故，主角和一名女性互换了身份，主角不得不适应成为一名年轻女性的生活，包括应对丈夫的日常琐事和情感纠葛。文中多次强调角色自我认知的冲突，以及在新身份下的感情波动和困扰。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_大社區小故事「２」.docx]([交换]_大社區小故
 | Size            | 43632 bytes                           |
 | MD5             | 258ff6722f591119b8546afe52158476                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 情感纠葛, 自我认知, 家务生活, 身份冲突, 温暖的怀抱, 意外变换身份, 日常生活, 角色互换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

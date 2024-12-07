@@ -7,7 +7,7 @@ TXT 下载: [[变装]_卧底系列登场人物绍介.docx]([变装]_卧底系列
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《卧底系列登场人物绍介》，主要介绍了故事中的主要人物和地理背景，涉及的情节较为复杂且深刻。文件中首先详细描述了地名，其中包括昏黄市和五钟市的历史背景和重要性。昏黄市被描述为南疆自治区的安全防线，与多个国家接壤，拥有重要的交通运输路线，政治地位特殊。五钟市则是南疆自治区的第一大城市和重工业中心。接下来，文件介绍了主要人物，包括他们的年龄、性别、职业、性格特征及其在故事中的重要性。沈茹为女警，谭孟伟为禁毒支队主任，林队为支队长，他们之间错综复杂的关系以及跨性别情节使得故事充满了悬疑与情感冲突。其他人物如林薇、萧黎等也都在黑道与警察之间游走，涉及诸多复杂的人际关系和情感纠葛。故事主题围绕着性别认同、社会正义、个人救赎等，引发读者对性别和社会现象的深入思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_卧底系列登场人物绍介.docx]([变装]_卧底系列
 | Size            | 18868 bytes                           |
 | MD5             | 32460d03b0a6082255aff52e866d199c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 卧底, 性别转换, 禁毒, 警察, 黑道, 伪娘, 情感纠葛, 情节复杂, 昏黄市, 五钟市, 社会正义, 自我认同, 变装, 悬疑, 跨性别, 角色探索, 青春, 心理冲突, 时代背景, 人物关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【翻译】调查（中）1.docx]([皮物]_【翻译】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一部围绕跨性别、伪娘和性转主题的小说片段，主要讲述了一名女性角色的心理探讨与自我认同的冲突。故事中，邓斯特一家在面对继母凯特琳的康复过程中，逐渐揭露了这个家庭受到的伤害与痛苦。小说涉及了角色间复杂的人际关系，以及围绕性别和认同的深刻讨论。文本详细描绘了艾普丽尔与她继母的亲密关系，并表达了对凯特琳健康的关注。与此同时，文中穿插了艾普丽尔对于其性别特色的自我探索和生理需求的表达，场景描写上有较为露骨的生动刻画。整个故事在情感、伦理和心理层面探讨了跨性别和伪娘角色的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【翻译】调查（中）1.docx]([皮物]_【翻译】�
 | Size            | 19876 bytes                           |
 | MD5             | 0bb19cefcc80e5a75a4b66706d2fa50c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 自我探索, 心理辅导, 家庭关系, 女性认同, 情感纠葛, 性别认同, 二次元, 强奸, 调教, 淫荡, 逆后宫, 变身小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

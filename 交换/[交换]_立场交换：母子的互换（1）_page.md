@@ -7,7 +7,7 @@ TXT 下载: [[交换]_立场交换：母子的互换（1）.doc]([交换]_立场
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部性转题材的小说，讲述了初中生许郑浩与他的母亲郑安雅之间的奇幻故事。故事开端，许郑浩感到上学的疲惫，希望能体验生活的轻松。在他的幻想中，他想象着能够与母亲互换身份，成为家庭主妇，享受不受学业压力的生活。他找到一本神秘的魔法书，书中提到可以通过交换认知实现角色转换。故事中，许郑浩满怀期待地进行尝试，却意外地发现这种改变是不可逆转的。母亲郑安雅在得知情况后，虽感震惊但也决定尝试履行儿子的请求，换上宽松的男装以代替他上学。此过程中，描绘了许郑浩的心理变化和郑安雅的内心挣扎，以及对性别认知的探讨。除此之外，本作品还包含了性别角色的模糊、母子关系的考量以及生活方式的安排等情节。整体情节幽默且带有些许的悖论，探讨了家庭、身份认同与社会角色的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_立场交换：母子的互换（1）.doc]([交换]_立场
 | Size            | 51200 bytes                           |
 | MD5             | 17f1063c0e929952c073c0a8870725e0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 家庭关系, 自我认知, 角色交换, 魔法, 青少年成长, 母子关系, 代入体验, 心理探讨, 性别认同, 奇幻, 学业压力, 人生转变, 社会角色, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

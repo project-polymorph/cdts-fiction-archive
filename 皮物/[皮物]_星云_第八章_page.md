@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星云_第八章.docx]([皮物]_星云_第八章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的一部分，描绘了角色在一个空荡荡的村庄探险的经历。开篇描写了角色们在狂风暴雨中到达一个荒凉的村庄，三名角色在雨中走过湿透的道路，描述了村庄的幽静与荒废，旧木屋和无人问津的杂货店增添了几分阴森。随着故事发展，角色们进入一座灰色房屋，决定在此暂时栖息。与此同时，角色之间的互动反映出一种迷茫与自我认知的探索。整个故事围绕着自然恶劣环境下的生存和人与人之间的关系展开，带有悬疑与超现实的色彩。文中提到，随着夜晚的降临，角色的心理感受愈发显著，令人思考身份与现实的交错。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星云_第八章.docx]([皮物]_星云_第八章.docx)
 | Size            | 19024 bytes                           |
 | MD5             | 431fec0524739d09ec7cf67b3118fc10                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, TS变身, 跨性别, 角色探索, 悬疑, 心理描写, 阴森氛围, 孤独, 生存, 自我认知, 二次元, 虚构故事, 冒险, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

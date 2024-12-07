@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_81.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘跨性别角色变身经历的小说，第八十一章主要描绘了角色贝丽即将进行变性手术的心路历程。故事中，贝丽对于即将接受的手术感到震惊和恐惧，尽管她内心有着对女性身份的渴望，但对变性手术的真实意图感到无所适从。艾普丽尔作为她的伴侣，试图鼓励并支持她的决定。贝丽在护士与医生的陪同下接受身体检查，护士安吉拉的暖心话语让贝丽感受到一丝安慰，但她仍然在自我认同与生理性别的冲突中挣扎。在医院的办公室里，医生与护士进一步向她解释即将进行的程序，同时贝丽感受到身体与心理上的双重压力。此章节深刻探讨了性别认同、内心冲突以及跨性别者面临的困难，结合变性手术的实际医学程序，呈现出复杂的情感与情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_81.docx]([改造]_把男朋友
 | Size            | 21858 bytes                           |
 | MD5             | f350126bc2396cf2e5fb37129d98d9dd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 跨性别, 角色自我认同, 医学研究, 变身小说, 性别转换, 心理冲突, 情感探索, 护士与患者关系, 医疗程序, 女性身份, 亲密关系, 性别认同, 医院场景, 青春期困惑, 身体隐私, 性别表达, 心理健康, 性别多样性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

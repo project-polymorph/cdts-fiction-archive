@@ -7,7 +7,11 @@ TXT 下载: [[变身]_我的疯狂女友（7-27修改）.doc]([变身]_我的疯
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一位男性的奇幻经历，他的女友在一次意外事件后发生了令人难以置信的变身，化身成了一位外貌出众、美丽动人的女性。在故事的开头，男主对女友外貌的描述显得既无奈又幽默，他描述了女友在化妆前后的巨大差别，甚至提到了自己曾在酒吧遇见她时的情境。
+
+随着故事的发展，男主在一次回家时意外发现卧室里出现了一个陌生的美丽女孩，起初他认为是梦境，随后才认出这个女孩正是他的女友小花。女友回忆起她的转变过程中，有着对外貌自信的渴望和对身材的羡慕，并揭示了这一切发生的原因。男主内心的情感波动以及两人之间的亲密互动引发了读者的情感共鸣，读者可以感受到男主对女友从未改变的爱的深情。
+
+整篇小说结合了幽默与情色元素，描绘了性别认同与外貌期待之间的冲突，同时也表现出男主对女友外貌变化的接受和爱。可见，这部作品深刻地探讨了关于自我认同、外貌与内心爱的关系，透过轻松幽默的叙述，展现出对人际关系的思考和对爱的真实解读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变身]_我的疯狂女友（7-27修改）.doc]([变身]_我的疯
 | Size            | 69120 bytes                           |
 | MD5             | 0a5d11396b45228503fd2576ea816a7c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, TSF, 爱情, 幻想, 自我认同, 女性视角, 幽默, 情感, 二次元, 日常生活, 性别探索, 纯爱, 魔法, 变嫁, 女体化, 调教, 梦境, 性别欺骗, 黑色幽默, 都市幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

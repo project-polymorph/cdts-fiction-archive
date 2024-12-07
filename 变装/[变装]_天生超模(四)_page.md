@@ -7,7 +7,7 @@ TXT 下载: [[变装]_天生超模(四).docx]([变装]_天生超模(四).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇变装小说，标题为《天生超模(四)》，原著作者为Melissa N，主要讲述了角色单邈峨经历性别转变与成为模特的生活。故事开头，单邈峨因激素注射而经历身体变化，他开始感受到自己身体的细微转变，包括乳房的隆起和皮肤的细腻。在被朋友羋艺婭催促的情况下，单邈峨努力适应模特生活，穿着女装走台步。此过程中，他对自己的性别认同与外貌产生了强烈的冲突和复杂的情感，经历了从自我接受到紧张的情绪波动。故事中描写了他与时尚界的接触，以及在沙龙中为自己改造形象的过程，其中包括改变发型和丰唇的情节。这不仅是身体上的变化，也是他内心认同和自我探索的旅程，体现了性别流动与社会期待之间的关系。在与同学的互动中，单邈峨经历了自我怀疑与再次接受自己女性形象的挑战，展现了人物心路历程和心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_天生超模(四).docx]([变装]_天生超模(四).docx)
 | Size            | 41206 bytes                           |
 | MD5             | ffabb148bdeb557192fd592573225cd6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 模特生活, 自我探索, 性别认同, 时尚, 情感波动, 身体变化, 友情, 校园生活, 性别转换, 女性化, 心理冲突, 成长, 社会期待                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

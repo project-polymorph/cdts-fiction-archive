@@ -7,7 +7,7 @@ TXT 下载: [女神爱上吊丝（已完结）.doc](女神爱上吊丝（已完�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《女神爱上吊丝》，是关于一位名叫程易文的屌丝青年生活的小说。故事围绕着程易文的生活困境展开，开头他因母亲的胃病而急需借款，进而引出了他与老杨和楚冬萱的情感纠葛。程易文曾暗恋的学妹楚冬萱，因其出身优越而最终与他分手，成为一位白富美。小说描绘了程易文的内心挣扎与成长，透视了贫富差距对爱情与人际关系的影响。在一次偶然的机会中，程易文得知楚冬萱与老杨的女神夏蓉的秘密，与轻松幽默的风格交织了戏剧性的情节，甚至涉及到夺取人皮、变身等奇幻元素，使得故事发展复杂而引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [女神爱上吊丝（已完结）.doc](女神爱上吊丝（已完�
 | Size            | 83968 bytes                           |
 | MD5             | 0c0399d0a9fb51ee8d8f7fd374898d9d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 屌丝, 爱情, 变身, 穿越, 奇幻, 自我认知, 传统观念, 贫富差距, 情感纠葛, 成长, 校园生活, 二次元, 伪娘, 兄弟情, 宿舍生活, 都市, 幻想作品                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

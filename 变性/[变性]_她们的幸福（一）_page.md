@@ -7,7 +7,7 @@ TXT 下载: [[变性]_她们的幸福（一）.doc]([变性]_她们的幸福（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身小说，标题为《她们的幸福（一）》，作者为九缠。故事围绕女主角苏静雯展开，她是一名32岁的国贸系辅导员，拥有迷人的外貌和温柔的性格。文件开头描述了苏静雯的日常生活以及她与女学生李玥之间的亲密关系。在与李玥的对话中，苏静雯展现出作为老师的关怀，同时也透露出她自身的伪娘身份。在后续情节中，苏静雯的性别和外形逐渐暗示出她的真实身份，展现出内心的矛盾与挣扎。本文不仅充满了性别认同的探索，也涉及性与爱的主题，尤其是苏静雯与丈夫之间的亲密互动，以及对生活的细腻描述，包含了一些限制级内容。整篇文章探讨了女性外貌如何与内在身份相结合，展示了复杂的人际关系和自我认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_她们的幸福（一）.doc]([变性]_她们的幸福（�
 | Size            | 47616 bytes                           |
 | MD5             | 66de1649fee901f87039a1ba58a11193                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 九缠                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 纯爱, 校园, 女老师, 学生, 自我探索, 性别认同, 情感纠葛, 成年人的爱情, 师生关系, 内心挣扎, 生活日常, 情感支持, 都市小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

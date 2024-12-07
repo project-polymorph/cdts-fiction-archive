@@ -7,7 +7,7 @@ TXT 下载: [[附身]_鬼想要我的身体.docx]([附身]_鬼想要我的身体
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《鬼想要我的身体》，讲述了一名少女因鬼魂附身而经历的一系列悲惨故事。故事以少女疯狂地用菜刀剁杀灵魂已经被鬼附身的母亲开篇，带动了她陷入深深的心理冲突与混乱之中。少女在杀死母亲后，感到强烈的恐惧，虽然她努力保持冷静，却无法逃脱内心的愧疚与绝望。此后，故事转向少女与警察局的对话，随着案件的展开，读者感受到她的无助与绝望。整篇故事充满了超自然的色彩与心理描写，探讨了生死、身份变换以及母女关系的复杂情感。最后，少女在浴室中陷入自我反思，展现出鬼魂附身后的身份混淆与自我救赎的挣扎。文章中包含了一些露骨的情节，涉及到鬼附身、谋杀与自我觉醒等主题，这些元素增添了故事的复杂性与争议性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_鬼想要我的身体.docx]([附身]_鬼想要我的身体
 | Size            | 18928 bytes                           |
 | MD5             | 7a3181d2599df6308433beba4fa70fd9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 鬼附身, 心理冲突, 超自然, 灵异杀人, 自我救赎, 绝望, 身份变换, 母女关系, 悬疑, 恐惧, 强烈情感, 反思, 二次元, 伪娘, 变身, 阴谋, 青春, 孤独, 扭曲爱情, 悲剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_從今天起你就是魔王_第3章_本宮要在後面_(�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以性别转换和奇幻冒险为主题的小说章节，讲述了角色桂花与金发女子米莉姆的相遇与互动。故事开场时，桂花正准备出发，米莉姆则在她身后默默注视，带有一种高贵而神秘的气质。米莉姆的出现打破了桂花的宁静，她以一种温吞的语气表达了对桂花的关注，提到自己想要成为她的帮手，似乎暗示着一些更深层次的关联。随着情节的发展，桂花回忆起与米莉姆相遇的场景，提及了两人在大雪山上的经历，特别是桂花在冰冷环境中为了保暖而不得不应对自身的性欲。整部作品不仅探讨了角色之间的关系，同时也涉及到魔法和自我认知的主题，这使得故事更加复杂和引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_從今天起你就是魔王_第3章_本宮要在後面_(�
 | Size            | 25602 bytes                           |
 | MD5             | f0cfcfb17651472290e5c0ecf5cade69                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 奇幻, 魔法, 自我探索, 女性角色, 魔王, 高贵, 陌生人, 内心挣扎, 童话, 冒险, 性欲, 人皮衣, 黑色衣物, 升华, 情感发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

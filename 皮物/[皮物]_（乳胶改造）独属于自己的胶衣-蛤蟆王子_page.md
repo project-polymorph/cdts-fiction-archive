@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（乳胶改造）独属于自己的胶衣-蛤蟆王子.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《独属于自己的胶衣》由作者蛤蟆王子创作，讲述了高中生大明与其女友罗雪之间的情感故事。故事开始时，大明的生活单调且压力重重，直到罗雪的出现让他的生活发生了翻天覆地的变化。他们在日常生活中逐步拉近了距离，但随着故事的发展，罗雪无意间带回了一件带有奇特魔力的乳胶紧身衣，这件衣物不仅引发了罗雪的困扰，也让大明卷入了奇幻的经历之中。罗雪穿上这件乳胶衣后，竟然无法脱下来，拉链仿佛消失，让她十分恐慌。大明在罗雪无助而焦虑的情况下，决定帮助她解决这个问题。文件中描绘了他们之间温馨而紧张的互动，以及双方的感情发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（乳胶改造）独属于自己的胶衣-蛤蟆王子.do
 | Size            | 23661 bytes                           |
 | MD5             | 2f788947459db42e3915c328e470fb9d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 蛤蟆王子                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-03-15                                 |
+| Tags            | 性转, 变身小说, 伪娘, 跨性别, 魔法, 爱情, 校园, 奇幻, 调教, 乳胶, 紧身衣, 少女, 自我探索, 甜蜜, 青涩爱情, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

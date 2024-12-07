@@ -7,7 +7,7 @@ TXT 下载: [[附身]_逆命诀8-13.doc]([附身]_逆命诀8-13.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇涉及性别转换与附身情节的小说，描绘了一位名为赵皑的男性角色在修行过程中，通过一种名为逆命诀的功法实现灵魂出窍，附身到几具女性躯体上的经历。故事始于赵皑学习逆命诀的过程中，天尊大帝传授他如何利用灵魂出窍的能力，并将四具女性的躯体作为修行的基础。文件通过对这些女性躯体的细腻描写，表现了赵皑在面对性别变化和自我认知冲突时的内心挣扎，以及他对女性身体的复杂感受。小说情节还涉及到异世界的冒险、修行和战斗，赵皑在修行过程中不仅需要应对强敌魔兽，还意外地拯救了一支遭遇危险的凡人车队，展现了他成为女性躯体后的力量与责任。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_逆命诀8-13.doc]([附身]_逆命诀8-13.doc)
 | Size            | 60928 bytes                           |
 | MD5             | 7394228b86d5abba2a74090a526bdddc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 噩梦, 灵魂出窍, 女孩, 修仙, 冒险, 女性角色, 附身, 奇幻, 战斗, 自我认知, 修行, 异世界, 强者, 女修, 求救, 救命                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

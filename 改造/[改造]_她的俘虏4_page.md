@@ -7,7 +7,7 @@ TXT 下载: [[改造]_她的俘虏4.docx]([改造]_她的俘虏4.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘尤其是跨性别及性转相关的小说，围绕角色魅希与桥本的互动展开。故事中，魅希缠绕着对性的探索，描述了一种被俘虏的快感与羞耻。剧中通过镜子映照出角色内心的冲突，揭示了角色面对自己身体和性别认同的复杂情感。而与此同时，故事中混合了强烈的性暗示和角色之间的亲密关系，展现了一系列性行为和心理变化。内容涉及许多成人主题，包括性转、强烈的性描写及羞辱玩具等，表现出对性别流动性、认同和身体自主权的挑战。具体情节描述有：“你的惩罚我之后再考虑考虑，现在要不要再来一次？”以及“呀啊！不要！啊啊啊啊啊！”表达了角色在性行为中经历的痛苦与快感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_她的俘虏4.docx]([改造]_她的俘虏4.docx)
 | Size            | 23685 bytes                           |
 | MD5             | ac7847b2b67f4710146d113020de264d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 性行为, 自我探索, 成人内容, 角色扮演, 羞辱, 心理冲突, 性别认同, 奇幻, 情色小说, 性暗示, 角色互动, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

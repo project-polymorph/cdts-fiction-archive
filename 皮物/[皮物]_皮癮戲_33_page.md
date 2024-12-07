@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮癮戲_33.docx]([皮物]_皮癮戲_33.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别小说《皮癮戲》第33章的内容，聚焦于角色之间复杂的性别与身份认同，涉及人皮入替及监狱场景。故事中的主要角色包括刘凯利、周乃虹、王武雄以及Shelly，他们之间由于基因融合与外表替换而产生的冲突和情感交织，围绕角色的自我认知和适应展现出多层次的心理变化。此外，角色们在监狱与医院环境中的互动，描绘了女性角色的性感形象与权力斗争，场景中也夹杂着激烈的情感冲突与性别认同探索。具体情节包括周乃虹的OL形象与性格，通过外表的转换与角色心理的碰撞，在女性身份的塑造上展现出多重视角。同时，描绘了Shelly与Kelly的身体对比与性别身份的争夺。这种深层次的身份探讨，隐含着对性别认同及自我探索的更广泛议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮癮戲_33.docx]([皮物]_皮癮戲_33.docx)
 | Size            | 58199 bytes                           |
 | MD5             | 821c2e767ba084c8bc0cce256d0d5b72                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Fdisguise                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 人皮入替, 情感冲突, 女性权力斗争, 性别认同, 自我探索, 跨性别经历, 监狱生活, 医疗场景, 催眠, 角色扮演, 虚拟身份, 女性视角, 色情内容, 都市奇幻, 性感美女, 社交动态, 伦理与道德, 力量与弱势, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_河神.doc]([变身]_河神.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转变及自我探索的小说，题为《河神》。故事围绕着主人公苏糸展开，讲述了他作为一名男生在校园中遭遇欺凌的经历，以及他在河边放松时偶遇神秘的河神。小说开头描述了同学之间的嘲弄与欺负，其中包含了校园文化中的痛苦与孤独感。苏糸常常在河边做作业，并与自家小猫库萝一起度过安静的时光。然而，事情的转折发生在他的猫猫意外掉入河中，苏糸试图救猫时，竟然看到了河神的显现。河神不仅帮助他找回了猫猫，还意外送给了他两个猫娘，有趣的魔幻冒险由此展开。小说通过苏糸与河神以及两位猫娘角色的互动探讨了性别认同、自我认知和人际关系等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_河神.doc]([变身]_河神.doc)
 | Size            | 97280 bytes                           |
 | MD5             | c9a27b3f46a498a074562fe9cba7bbbb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园, 魔法, 自我探索, 跨性别, 幻想, 河神, 猫娘, 青少年, 逆袭, 友情, 罪与罚, 心理成长, 变嫁, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

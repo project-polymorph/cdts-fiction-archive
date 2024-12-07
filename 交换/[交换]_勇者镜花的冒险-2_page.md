@@ -7,7 +7,7 @@ TXT 下载: [[交换]_勇者镜花的冒险-2.docx]([交换]_勇者镜花的冒�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《勇者镜花的冒险》的小说摘录，主要讲述了主角勇者清彦和他的妹妹清香经历的一场奇幻冒险。在故事中，清彦被困在一张床上，发现自己的身体与魔女双叶互换了。故事情节围绕角色的身份交换与自我认知的冲突展开，清彦试图说服清香相信他实际上是清彦，而不是双叶。目前的状况让他毫无能力挣脱，清香的身体则被双叶占有。整段对话生动展现了角色之间的关系与情感，同时透漏出魔女双叶所施加的诅咒及其后果，涉及性别转换的主题和自我认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_勇者镜花的冒险-2.docx]([交换]_勇者镜花的冒�
 | Size            | 38890 bytes                           |
 | MD5             | 700298327c254e7895984d11a9881431                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | teru                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 勇者, 冒险, 性别转换, 魔法, 自我认同, 清香, 双叶, 身体交换, 奇幻, 小说, 女性角色, 魔女, 清彦, 灾难, 召唤, 暗黑幻想, TSF, 情感冲突, 冒险故事, 异世界, 魔法少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

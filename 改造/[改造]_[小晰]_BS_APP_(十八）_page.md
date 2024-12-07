@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(十八）.doc]([改造]_[小晰]_BS_APP_(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部围绕性别转换、跨性别和自我认同主题的小说，讲述了一位名为小晰的角色在情感和身体认同中所经历的复杂感受。故事从小晰艰难回到十楼的家开始，描绘了她在温馨的环境与内心的矛盾之间的挣扎。小晰的家庭环境被描绘得狭小而温暖，然而她的内心却感到格格不入。随着情节的发展，小晰回忆起与好友宇的情感纠葛，并且在背叛自己的男友后，对自身的性别和身体产生了新的认知。书中含有大量关于个人认同、暴露与自我探索的细腻描写，透露出主角在面对自身欲望与社会期望时的深刻困惑与反思。同时，文件中还包含了一些露骨的情节与成人内容，体现了在性别归属与性欲之间的张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(十八）.doc]([改造]_[小晰]_BS_APP_(
 | Size            | 61440 bytes                           |
 | MD5             | 25007a48c5aabcc2f28c8fb5823aa1db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 跨性别故事, 伪娘, 欲望与背叛, 情感纠葛, 探索与认知, 青春成长, 内心挣扎, 性转小说, 浴室场景, 社会期待与自我感受, 清洁与羞耻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

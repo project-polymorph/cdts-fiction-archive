@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_3.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于伪娘和跨性别主题的小说，内容围绕角色贝丽在变身为女性的过程中所经历的情感和身体变化。故事描绘了贝丽的女朋友及其姐妹的影响，她们帮助贝丽进行女性化的过程，包括藏男性生殖器、穿上女装、化妆等。小说的情节深入探讨了贝丽对自身性别身份的困境与抗争，并通过一系列细腻的描写，展现了角色的心理状态和在女性装扮中的羞涩与不安。例如，贝丽被要求坐着如同女孩一般小便，体验着紧张和不适。整体上，小说表现了性别认同、自我认知以及在变性过程中可能遭遇的困扰和挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_3.doc]([改造]_把男朋友�
 | Size            | 93696 bytes                           |
 | MD5             | 6ce5c5509703b9a974fa3666b022ae0a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2022-05-20                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 性别认同, 性别转换, 羞耻与自我认知, 女装癖, 强迫女装, 身体变性, 情感冲突, 青春成长, 性别角色, 男女装扮, 自我探索, 内心斗争, 姐妹关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

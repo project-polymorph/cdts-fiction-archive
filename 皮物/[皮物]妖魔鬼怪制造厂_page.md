@@ -7,7 +7,7 @@ TXT 下载: [[皮物]妖魔鬼怪制造厂.doc]([皮物]妖魔鬼怪制造厂.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇原创小说，标题为《妖魔鬼怪制造厂》，由作者wlw崔创作。故事的主角是名叫明的大学生，他在一起去游乐场游玩的过程中，体验了一个名为‘鬼屋’的惊悚项目。在鬼屋的探险中，明和他的同学们遭遇了一系列令人恐惧的鬼怪，奇妙而幽暗的情节让他们一度感到不安。特别是一个身穿护士服的女鬼，她的奇特表现使得这场惊险旅程更添神秘感。随着故事的发展，明意外地获得了一张神秘的卡片，上面记录了一个电话号码。通过拨打这个号码，明得知自己可以申请进入一个专门制造扮鬼道具的组织，标志着他即将踏入一个未知的鬼怪世界。在文中，作者利用轻松的幽默与紧张的情节交错，使得整个故事既有趣又引人入胜。读者在阅读过程中不仅能够感受到角色的恐惧与兴奋，也能体验到故事发展的悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]妖魔鬼怪制造厂.doc]([皮物]妖魔鬼怪制造厂.do
 | Size            | 48640 bytes                           |
 | MD5             | 38539fce0fdf28a02b364ed07d026cb0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | wlw崔                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TFS, 鬼屋, 幽灵, 游戏, 妖魔, 校园, 恐怖, 超自然, 夏季实习, 角色扮演, 自我探索, 恐怖小说, 二次元, 变身, 人外娘, 神秘组织                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

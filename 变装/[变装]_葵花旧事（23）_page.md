@@ -7,7 +7,7 @@ TXT 下载: [[变装]_葵花旧事（23）.doc]([变装]_葵花旧事（23）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《葵花旧事（23）》，为一部伪娘及变装小说的部分章节。故事围绕角色胡濙、高飞及其师爷前往有悔庵的经历展开。章节描述了他们化妆成乡间富绅，以此隐藏身份，前往宁静的有悔庵就想一睹传说中的小尼姑（素仪）的风采。在这个过程中，不仅探讨了角色对于美与性别的不同理解，同时也融入了关于佛教信仰的元素。胡濙与同行者们与轿夫和尼姑之间的对话展现了对小尼姑素仪的态度和其他男性角色对性别角色的看法。故事展示了女性修行者的优雅与魅力，以及男性与女性角色之间的互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_葵花旧事（23）.doc]([变装]_葵花旧事（23）.do
 | Size            | 38912 bytes                           |
 | MD5             | 0b4842eda4d1759be281230214005ed2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性别转变, 跨性别, 佛教, 尼姑, 乡间故事, 幻想, 角色扮演, 自我探索, 文学, 爱情, 性别认同, 古代背景, 女性主义, 情感冲突, 社会角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

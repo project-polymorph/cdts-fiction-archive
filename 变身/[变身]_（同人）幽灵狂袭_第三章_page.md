@@ -7,7 +7,7 @@ TXT 下载: [[变身]_（同人）幽灵狂袭_第三章.doc]([变身]_（同人
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节主要讲述了雪幽、古城和瓦托拉之间的复杂关系及战斗场面。在古城与瓦托拉的对峙后，古城发现雪幽受了重伤，感到非常愤怒，同时也为特区警备队的危机感到担忧。瓦托拉与古城之间的对话揭示了他们对此场战斗的不同看法。雪幽愈合能力异常而快速，让古城对她的身份产生了更多疑问。之后，雪幽与加多鲁修展开了一场激烈的战斗，表现出她强大的个人能力。尽管受了重伤，雪幽仍然奋力追赶并最终打败敌人，展现了她的勇气和决心。在战斗中，雪幽获得了新的能力与武器，能够骑乘天马飞翔，体现出她的非凡之处。整体上，故事围绕着角色之间的关系、战斗和个人成长展开，包含了大量的幻想元素与冒险情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_（同人）幽灵狂袭_第三章.doc]([变身]_（同人
 | Size            | 61952 bytes                           |
 | MD5             | 79a279de98316a1ef88906a6d5f322cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 雪幽, 古城, 瓦托拉, 魔法, 战斗, 冒险, 角色成长, 幻想, 双胞胎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

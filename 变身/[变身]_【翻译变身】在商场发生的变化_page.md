@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【翻译变身】在商场发生的变化.doc]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换和变身主题的小说，标题为《在商场发生的变化》，由Hello329创作，露娜·埃葵斯翻译。故事围绕主角布莱恩展开，他在一次意外中被施展魔法后，经历了从男性变为女性的过程。小说中，布莱恩在商场中遭遇了一系列变身与自我认知的冲突，面对周围人群的目光与性别认知的挑战，故事展现了从男性到女性身份转变的复杂情感。主要情节包括布莱恩变身后的震惊与恐慌，以及他对自己新身份的逐渐接受与探索。此事件交织着强烈的自我探索与外部压力，同时包含了一些成年向的情节。小说探讨的主题涉及性别、认同及社会期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【翻译变身】在商场发生的变化.doc]([变身]_�
 | Size            | 33280 bytes                           |
 | MD5             | eee83ee33159ef9b65c90efa828d68b4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Hello329                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 自我认同, 魔法, 商场                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

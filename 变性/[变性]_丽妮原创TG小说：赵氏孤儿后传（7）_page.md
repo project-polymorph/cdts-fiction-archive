@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（7）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于伪娘与变身主题的原创小说《赵氏孤儿后传》第七篇，主要讲述了主人公在百媚馆的奇妙经历。在故事中，主人公被两个女孩推入一个神秘的房间，房间中有三个温泉，每个温泉的水质不同，具有各种奇特的功效。随着故事的发展，主人公首先浸泡在第一坑水中，体验到各种奇香弥漫的异样感觉，但也感到身体受到痛苦的折磨。随后在第二坑水中的享受与疼痛交织，身体似乎经历了一场变幻莫测的体验，特别是随着时间的推移，全身感受到了前所未有的敏感。最终，主人公的白帛被剪开，身体得以恢复，身份也因而变得清晰。整篇小说深入探讨了性别认同与自我探索的主题，包含了对女性形象的描绘和对男性身分的反思，彰显了伪娘与变身的文化特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（7）.docx]([�
 | Size            | 18213 bytes                           |
 | MD5             | 91d0df9b0750a16ed041fa2b6b17f654                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 丽妮                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 温泉, 性别转换, 自我认知, 奇幻, 女体化, 经历, 百媚馆, 女性视角, 姐姐, 调教, 逆后宫, 淫荡, AA制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

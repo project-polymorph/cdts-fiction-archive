@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝都风云_（番外篇一）莉迪亚忙碌的一天.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说为《帝都风云》系列的番外篇，讲述了莉迪亚这一角色在兰佩斯顿帝国的一天忙碌生活。故事设定在大陆新历775年，描绘了帝国皇帝科罗多拉三世及其皇后艾拉·特伦·科罗多拉的统治背景，以及帝国大军征服塞德纳王国后，皇后的忌惮与行动计划。小说细腻地描绘了帝国议事厅的讨论过程，展现了角色之间的权力斗争与情感纠葛。莉迪亚作为潜伏的侍女与车夫的双重身份在情节中起到了关键作用，她不仅需要完成任务，还要应对复杂的人际关系。文中多次强调了情报的重要性和潜在的阴谋，让故事充满紧张感和悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝都风云_（番外篇一）莉迪亚忙碌的一天.do
 | Size            | 27135 bytes                           |
 | MD5             | 677ea209e7ffa0cef5c37dfd2d1f21cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 帝国, 权力斗争, 侍女, 潜伏, 情报网, 双重身份, 阴谋, 任务, 皇后, 皇帝, 政治, 幻想, 日常生活, 冒险, 战斗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

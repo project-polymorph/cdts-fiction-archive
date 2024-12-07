@@ -7,7 +7,7 @@ TXT 下载: [睡辫子_我想受欢迎_快乐妈妈三篇短篇翻译.doc](睡�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一本收录了伪娘、变身和跨性别相关短篇小说的文档。其中包含三篇短篇故事，分别探讨了角色在精神治疗过程中经历的身体和性别转变。故事的主线围绕两位患者，首先是一名因工压力而失眠的年轻男性，他在心里医生的干预下发生了戏剧性的性别变化，从一名男性转变为一名青春可爱的女学生，化身为身着水手服的少女，并接受了她的新身份。第二个故事集中于一名17岁的高中生，他因性格内向而受到欺凌，通过治疗获得了开朗性格，外形也变成了一位身材修长的女孩，受到了大家的欢迎。最后一名患者叙述了一名25岁的男性，他因身体不适而寻求治疗，但文中关于这一部分的内容并不完整。整体来看，这些故事充满了对心理变化和性别认同的探讨，展示了角色对新身份的适应与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [睡辫子_我想受欢迎_快乐妈妈三篇短篇翻译.doc](睡�
 | Size            | 40448 bytes                           |
 | MD5             | c8d1c1cf5a4cdfcc38e63581de210132                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 心理治疗, 青春成长, 二次元, 女性化, 性别认同, 自我探索, 男性转女性, 学校生活, 性格改变, 水手服, 开朗性格, 心理医生, 青春期挑战                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

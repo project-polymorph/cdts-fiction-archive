@@ -7,7 +7,7 @@ TXT 下载: [[附身]_三个人的午餐时间（上）.doc]([附身]_三个人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《三个人的午餐时间（上）》，讲述了三个女性在咖啡店里的初次见面及自我介绍的场景。故事发生在夏季即将结束之际，三位性格迥异的女性聚集在一起，进行了一场互动丰富的午餐会。每位角色通过自我介绍表达了自己的职场身份和个性特征，比如大路久美子是公司的事务部职员，月岛优香是设计师，而佐原晴香则是一位经理。文中详细描绘了她们的穿着和外貌，突出她们的魅力和个性。随着自我介绍的展开，三人的氛围逐渐变得轻松友好，彼此共享的话题让她们看起来像是多年的老友。随后，文中揭示了她们的照片在社交网站上引发了关注与投票，显示了她们背后有一群男性在关注这一事件。此时，人物关系开始变得复杂，涉及了附身和身份的交换，暗示着接下来的故事将会围绕更多性别与角色认同的主题展开。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_三个人的午餐时间（上）.doc]([附身]_三个人�
 | Size            | 37376 bytes                           |
 | MD5             | 228f2b1e398397d678d1914908ca6cb4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 午餐聚会, 角色扮演, 跨性别, 自我认同, 二次元文化, 社交网络, 日常生活, 男性视角, 女权主义, 友情, 情感探索, 变身题材, 美丽女性, 职场故事, 心理描写, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

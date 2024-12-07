@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_往日的皮肤已经不存在了（续）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述的是一个名为阿封的少年在经历了一场意外后，因家庭与科技的契机，被迫接受了一系列改变自己身体和生活的事件。故事开篇描述了阿封夫妻间的争执，他的儿子在调皮捣蛋，而阿封的身体则在四年前因一次意外，变成了女性，经历了生理上的巨大改变。接着，阿封访问了一家名为“绿色换装公司”的地方，得知了该公司的技术可以让人通过‘换肤’的方式改变外观，进而引发了一系列心理和生理上的挣扎。随着剧情发展，阿封面临母亲对他身体问题的解决方案——通过移植过世女子的皮肤来修复自己的伤疤。这一过程中涉及了善与恶、身体认同与性别认同的冲突，以及科技伦理等多个主题。整篇故事充满了对自我身份的深刻思考，展现了个人在现代科技面前的无力感和无奈。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[皮物]_往日的皮肤已经不存在了（续）.doc]([皮物]_�
 | Format          | Microsoft Word Document                               |
 | Size            | 33280 bytes                           |
 | MD5             | 591e94cf2b2ca31b4cbd9601e094440a                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 科技伦理, 自我探索, 家庭关系, 换肤技术, 性别认同, 心理冲突, 身份认同, 成长故事, 虚拟现实, 青春, 都市奇幻, 变嫁, 虫洞科技                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

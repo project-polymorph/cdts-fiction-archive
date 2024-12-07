@@ -7,7 +7,9 @@ TXT 下载: [[催眠]_蜘蛛女郎的妖淫艳习第二章.doc]([催眠]_蜘蛛�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文件名为《催眠·蜘蛛女郎的妖淫艳习第二章》，由重口味女王创作，内容围绕角色理树在催眠状态下的奇幻经历展开。故事描述了理树在被同班同学以及其老师所施加的催眠下，身体及意识经历了奇特的变化，他的性别认同逐渐模糊，开始沉溺于一种深刻的快感与欲望的矛盾中。文章中的场景生动而具体，展现了理树如何在催眠与主人的操控中迷失自我，直至身体被完全改造后，成为一个只知审美与快感的生物。
+
+文件详细描写了理树在经过身体改造后产生的强烈的生理反应，尤其是对身体如丝袜和精液等刺激的敏感度。在这一过程中，处于双重角色的仓田凌和礼奈老师利用催眠与操控精灵，将理树的意识引导至深不可测的快感中。文本中的描写，包括身体变化时的细腻感受，以及对个人欲望的逐渐启蒙，展示了对性别认同与心理变化的刻画。文章内容虽涉及敏感及成人主题，但通过角色自我探索的方式，揭示了性别与欲望间复杂的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[催眠]_蜘蛛女郎的妖淫艳习第二章.doc]([催眠]_蜘蛛�
 | Size            | 44032 bytes                           |
 | MD5             | 70f203fb4eeb5c7365647a0609229e64                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 重口味女王                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 催眠, 变身, 性别认同, 自我探索, 虐待, 调教, 淫荡, 非人化, 奇幻, 二次元, 年龄差, 校园, 禁忌, 病态, 性爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

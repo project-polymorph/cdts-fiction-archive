@@ -7,7 +7,7 @@ TXT 下载: [[附身]_死神空间——戒指_完.doc]([附身]_死神空间—
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部以性转与跨性别为主题的小说，主要讲述了角色小蛋与其母亲陈良玲之间的复杂关系和极端情节。故事中，陈良玲被一个名为小胖的角色所控制，导致母子之间的互动变得扭曲和充满了冲突。小蛋试图唤醒被控制的母亲，却发现母亲的身体被小胖操纵，在一系列令人不安的情节后，母亲最终选择了自我了断，在对儿子发起凶狠攻击的同时，自己也无法逃脱死亡的命运。整篇故事涉及了亲情的扭曲、性别的转换、自我认知的冲突以及包含一些限制级内容。小说描写的场景充满了戏剧性和压迫感，情节设定具有强烈的反讽与黑暗色彩，让人思考性别认同与身体自主权之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_死神空间——戒指_完.doc]([附身]_死神空间—
 | Size            | 40960 bytes                           |
 | MD5             | ec9a931d178748d1027774ec8d27bf78                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 亲情, 控制, 极端情节, 自我认知, 死亡, 母子关系, 黑暗幻想, 情色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

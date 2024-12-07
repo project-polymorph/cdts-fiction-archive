@@ -7,7 +7,7 @@ TXT 下载: [[变身]_粉欲之书（1~2）.docx]([变身]_粉欲之书（1~2）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《粉欲之书（1~2）》为多元性别主题的文学作品，内容围绕在一个虚构的王国雷德泰尔。有着浓厚的奇幻色彩，作品中的主要角色为艾特和他的女仆维拉。艾特是一名年轻的王室成员，虽然拥有王室血统，但因种种原因与王位无缘，转而专注于魔法的学习与研究。文件开头描绘了雷德泰尔国的安定以及背后两个强大的守护者——大祭司与大法师。接下来，艾特在王立图书馆中搜索魔法书籍，与女仆维拉间的互动充满温馨而微妙的情感。维拉对于艾特的关心和照顾让两人之间的关系更显亲密。作品不仅呈现了角色间的友情和亲情，也涉及到魔法学习与自我认同的探索。此外，故事中还有关冒险者团队的描述，反映了奇幻世界中的探险元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_粉欲之书（1~2）.docx]([变身]_粉欲之书（1~2）
 | Size            | 31919 bytes                           |
 | MD5             | 0fc5f5a6b66b4dcb27e4aa77bff22f80                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法, 奇幻, 冒险, 性别认同, 王室, 女仆, 友情, 探索, 施法者, 虚构世界, 角色发展, 亲密关系, 成长, 情感纠葛, 魔法书                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

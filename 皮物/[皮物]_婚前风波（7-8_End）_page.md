@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_婚前风波（7-8_End）.docx]([皮物]_婚前风波（7-
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件《婚前风波（7-8_End）》为一部集变身、伪娘及跨性别元素的小说，内容围绕角色琪琪和仲泽之间错综复杂的情感在性别转换后的冲突展开。在第七章中，琪琪在一个疯狂的夜晚中与男人发生了亲密关系，却在醒来后面临对自己行为的回忆与悔恨，发现自己留有他人探访后的痕迹；而仲泽同样面临着内疚与自责，因为他和少女小月之间的关系因一时的迷乱而改变。故事通过对情感的描写，展现了角色在面对性别认同与个人道德之间的挣扎与困惑。第八章则揭示了小月的秘密，她的身份与真实面貌引发了观众对于性别与身份之间关系的深思。整部作品涉及了性别认同、情感纠葛、权力与欲望等深刻主题，情节丰富、矛盾激烈，尤为突出角色之间在复杂境遇下的内心挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_婚前风波（7-8_End）.docx]([皮物]_婚前风波（7-
 | Size            | 23502 bytes                           |
 | MD5             | f17f2bc56507ee4cca9ef0101a1264d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 情感纠葛, 自我认同, 强烈的内心挣扎, 变身小说, 欲望与权力, 人际关系, 道德冲突, 女性视角, 喜剧与悲剧结合, 极端体验, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

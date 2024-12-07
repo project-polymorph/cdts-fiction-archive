@@ -7,7 +7,7 @@ TXT 下载: [女友的复仇.doc](女友的复仇.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《女友的复仇》，由作者whh创作，主要描绘了一个涉及变身与换身的浪漫故事。故事围绕林毅与若干女性角色的复杂关系展开，包含了夜总会的场景以及角色之间的情感纠葛。小说在描写林毅与清纯美女李娜的亲密关系时，使用了直白的语言，展现出强烈的性欲及情感的冲突与转变。同时，故事逐渐转向了女主角夏晴雪的心路历程，从被动的爱到主动的反击，展现出她对林毅的复杂情感，以及在一系列情感冲突后所作的选择。嵌入的情节涉及性别交换，增添了故事的戏剧性与冲突感。作品结合了性爱、情感、性别认同等多个层面的主题，适合对性转及跨性别题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [女友的复仇.doc](女友的复仇.doc)
 | Size            | 45056 bytes                           |
 | MD5             | 2a780f1f3453fd0154d287f4e60764db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | whh                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 夜总会, 性别认同, 强烈的情感, 清纯美女, 浪漫故事, 角色交换, 情感纠葛, 夜生活, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

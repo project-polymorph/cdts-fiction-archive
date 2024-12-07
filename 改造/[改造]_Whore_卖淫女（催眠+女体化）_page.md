@@ -7,7 +7,7 @@ TXT 下载: [[改造]_Whore_卖淫女（催眠+女体化）.doc]([改造]_Whore_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《Whore（卖淫女）》是一篇探讨性欲、卖淫、双性恋和上层社会阴暗面的小说。故事以第一人称的视角展开，叙述者在一种醉酒状态下被一群性感女子围绕，逐渐意识到自己与她们的复杂关系。这篇小说描绘了一个奇异而梦幻的场景，讲述了主角在一群穿着暴露的女子之间的困惑与迷失。现代社会中，对于性别、性欲和个人认同的探讨在文本中交织，突显出人性的多面性和复杂性。文本中含有大量的性感描绘和对话，涉及催眠、性别转换等主题，带给人强烈的视觉与心理冲击，尤其是在性别角色与社会认同之间的探讨方面。虽然内容复杂，但在翻译过程中，翻译者努力保留了原作者的意图与风格，提供了一个关于欲望和身份的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_Whore_卖淫女（催眠+女体化）.doc]([改造]_Whore_
 | Size            | 84480 bytes                           |
 | MD5             | fb57484eeeb361dc734021f9bbc146f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Vickie Tern                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 跨性别, 催眠, 卖淫, 双性恋, 自我认同, 欲望探索, 社会问题, 性别角色, 伪娘, 肉体交易, 强奸, 成人内容, 心理斗争, 狂欢, 性别认同, 女性视角, 生理性别, 幻想小说, 阴暗面                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

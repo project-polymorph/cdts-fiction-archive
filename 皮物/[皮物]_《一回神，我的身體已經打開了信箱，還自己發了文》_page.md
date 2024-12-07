@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《一回神，我的身體已經打開了信箱，還自�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一名男性角色在生活中遭遇性别转变的故事，内容涉及到他如何逐渐接受自己的新身份，以及与朋友之间的复杂关系。故事的开头，主人公收到一封神秘的消息，随后展开了一系列奇怪且富有幻想色彩的经历。在众多性别和身份变化的元素中，他与好友若若的互动极为引人注目，尤其是在若若变身为女性后，两人之间的交流和探索更是充满了青春的暧昧与探索。文中涵盖了关于性别认同、社会压力和自我认知的主题，也通过细腻的心理描写展现了人物在性别转变后的情感冲击。在整篇故事中，结合了魔法、超能力等奇幻设定，使得整体叙事充满了创意与吸引力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《一回神，我的身體已經打開了信箱，還自�
 | Size            | 48640 bytes                           |
 | MD5             | 631dd4349856161d3e976b7a36e489cd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 青春, 自我探索, 幻想, 奇幻, 同性恋, 友谊, 性别认同, 情感冲突, 二次元, 魔法, 心理描写, 社会压力, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

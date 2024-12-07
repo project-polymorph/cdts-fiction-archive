@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_基因片段的爱恋11.doc]([皮物]_基因片段的爱�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容为一部描写跨性别和变身主题的小说，情节围绕角色苏小冉与另一个角色的变身和控制展开。故事中，主角通过注射病毒使苏小冉的身体发生了变形，使其逐渐失去了意识和控制权。小说以高度的色情描写和心理戏为基础，展现了对性别身份和身体变化的探索，不乏对权力与控制的深刻探讨。在故事中，主角不断强化对苏小冉身心的掌控，直到最终的皮囊化过程，直至角色的自我认知与身份的完全被剥夺。文中包含大量的露骨描写，例如“我已做好了把她永久‘收藏’在我的实验水箱中”，这种描写显示了主人公对他人身体的强烈占有欲和对自由意志的侵犯。内容情节复杂，涉及人际关系、身体相关的心理冲击、不安的自我认同等主题，且包含显著的性暗示与潜在的 BDSM 元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_基因片段的爱恋11.doc]([皮物]_基因片段的爱�
 | Size            | 33280 bytes                           |
 | MD5             | 5c0c92f8e71c9f0e647b05d9d19ebd5a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 操控, 皮囊化, 性别认同, 病毒变身, 心理控制, 色情, 权力与控制, 实验室, 女体化, 自我探索, 意志剥夺, 身体改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

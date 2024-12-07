@@ -7,7 +7,7 @@ TXT 下载: [陌生的枕边人.doc](陌生的枕边人.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了年轻的体育主播张斌和他的女友李佳羽之间的情感故事。故事发生在一个老旧的小区，描绘了张斌刚毕业后的生活与工作压力，以及他与李佳羽之间温馨而时常伴随苦恼的日常。李佳羽虽然温柔体贴，却常常因自卑而感到不安，张斌则在外工作疲惫，却时刻关心着李佳羽。在一次深夜工作后，张斌决定匆匆赶回家陪伴李佳羽，展现了两人之间深厚的感情和对未来幸福生活的憧憬。小说开篇描绘了一些张斌对李佳羽的思念和对未来的期许，后续则深入到两人之间的亲密互动以及李佳羽面临的职场挑战。随着故事的发展，李佳羽决定参加一份高薪的面试，在不确定中探索自我价值，她在面试中遭遇到的情形也引发了人对现代职场和性别角色的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [陌生的枕边人.doc](陌生的枕边人.doc)
 | Size            | 72704 bytes                           |
 | MD5             | 99d6a52c253d19fe2f05c9d6f49179fb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 强奸, 婚姻, 性冷淡, 职场爱情, 青春, 情感, 家庭, 异性恋, 自我探索, 体育主播, 大学毕业生, 温馨, 自卑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

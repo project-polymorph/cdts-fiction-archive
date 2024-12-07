@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【翻译】灭口.doc]([变身]_【翻译】灭口.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是名为《灭口》的跨性别小说，作者为Elarys，翻译者为魔之天涯。故事围绕汤姆的调查经历展开，他是一名调查记者，因揭露一个名为萨尔瓦托·加布里埃尔的商人的阴暗交易而卷入了一场危险的潜行行动中。在寒流中，汤姆试图跟踪加布里埃尔的交易，期间他不得不在荒凉的环境中小心行事，以免暴露自己的行踪。文中详细描写了汤姆潜入废弃工厂盗取证据的紧张过程，随着他逐步接近案件的真相，危险和紧迫感逐渐升级。同时，故事还描绘了汤姆与妻子露丝之间的亲密关系，以及他在调查过程中内心的冲突与苦恼。小说风格生动，情节紧凑，不仅涉及性别认同的问题，也探讨了道德选择与人际关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【翻译】灭口.doc]([变身]_【翻译】灭口.doc)
 | Size            | 206336 bytes                           |
 | MD5             | c6961d06fa5161975a5eaec90aef1e7e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Elarys，翻译：魔之天涯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 调查小说, 惊悚, 爱情, 伪娘, 变身, 暗黑交易, 紧张, 自我探索, 都市, 情感纠葛, 伦理, 禁忌, 权力斗争, 家庭                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

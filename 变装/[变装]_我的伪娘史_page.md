@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的伪娘史.docx]([变装]_我的伪娘史.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《我的伪娘史》的文本记录了一个男生在一次寒假与女朋友的旅行中进行女装变装的经历。故事开头，作者回忆起在下雪的冬天，和女友准备返家途中意外摔倒弄脏了服装，因此开始了换装的体验。在女友的催促下，作者首次尝试了女性服装与化妆，细致地描述了自己穿上的服饰，包括淡黄色大翻领毛线衣、肉色连裤袜、黑色长筒丝袜等。体验过程中，作者感受到穿女装的奇妙，同时也产生了对自身性别认同的探索。之后在火车上与同班同学相遇，竟然没有被识别出，让故事产生了不少了趣和紧张。在夜晚回到男生家时，因为自己假装成哑巴，而遭遇了一系列尴尬场景，包括被他的家庭误认为是媳妇，引发大家的热议，最后以一个意外的短消息结束了这一夜的经历。文本结合了性别认同、跨性别表现的主题，展现了变装的心理历程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的伪娘史.docx]([变装]_我的伪娘史.docx)
 | Size            | 16190 bytes                           |
 | MD5             | 9f38bc2222738795f6309924ed62e497                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 性别认同, 自我探索, 爱情, 校园, 冬天, 旅行, 家乐福, COSPLAY, 男生变装, 初次体验, 女装, 心理冲突, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

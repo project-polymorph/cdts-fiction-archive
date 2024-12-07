@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_由一个神秘十字架引发的系列事件8-9_[.docx]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以伪娘与跨性别主题为主的小说，是关于角色天在一次神秘事件中，利用十字架的力量进行人身与性别的变化的故事。故事主要围绕天与乐乐、小歌等角色间的复杂关系展开，通过对性别认同与身体交换的探讨，涉及了一系列带有情色与暗黑色彩的情节。文件中描写了角色在进行性别转变、战略计划与肉体关系中的心理斗争与情感碰撞，如“为了兄弟，这条不归路，我‘走’了！”的自我纠结。同时文件的情节设定包含了一些极端的性相关内容，表现出角色间强烈且复杂的肉体欲望。此文分析了角色对身份的认同过程，以及在外界压迫和自身挣扎下，如何寻求内心的平静与欲望的满足。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_由一个神秘十字架引发的系列事件8-9_[.docx]([
 | Size            | 20894 bytes                           |
 | MD5             | 5495ef82646fe68fc175e25998631de0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 随便                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别转换, 变身, 十字架, 肉体关系, 心理斗争, 自我认同, 情色, 暗黑, 兄弟情, 恋爱, 强奸, NTR, 逆后宫, 人体改造, 调教, 药物, 奇幻, 恋物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

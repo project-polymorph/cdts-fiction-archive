@@ -7,7 +7,11 @@ TXT 下载: [[附身]_[分魂]后排的风光真不戳.docx]([附身]_[分魂]�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《[附身]_[分魂]后排的风光真不戳》，主要内容是一篇描绘校园生活与性别转换相关情节的小说。故事的开篇描述了午餐后的教室，阳光透过窗户洒入，老师正在讲课，然而学生们的注意力显然不集中，氛围轻松随意。主人公观察到一个名为模部忠雄的男生，在课堂上偷偷忙碌着，随后展开了一系列奇特的互动。
+
+随着剧情的发展，模部忠雄与女生浦崎小姐之间的互动愈发大胆，浦崎小姐开始在课堂上不断做出令人惊讶的行为，包括抚摸自己的身体，这引发了周围同学的注意与讨论。小说对校园内部人际关系的细致描写，以及对性别认同与身体认知的探讨，使得整个故事充满了复杂而微妙的情感。
+
+文件中包含明显的成人内容，涉及色情场景及性暗示，强调性别转换的主题，典型的伪娘与变身情节。通过角色的内心冲突与身体感知，探讨了青春期少年的性探索与自我认识。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[附身]_[分魂]后排的风光真不戳.docx]([附身]_[分魂]�
 | Size            | 24228 bytes                           |
 | MD5             | 3be992a60a72ce395cddc4c73facaf78                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 和泉たどる                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 校园恋情, 性别转换, 自我探索, 成人内容, 性暗示, 青春期, 人际关系, 情感描写, 性别认同, TSF, 附身, 分魂, 调教, 逆后宫, 魔法, 触手, 变态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

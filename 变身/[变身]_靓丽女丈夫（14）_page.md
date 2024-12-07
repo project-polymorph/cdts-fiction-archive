@@ -7,7 +7,7 @@ TXT 下载: [[变身]_靓丽女丈夫（14）.docx]([变身]_靓丽女丈夫（1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容是关于一个以伪娘和跨性别为主题的小说情节，描绘了主人公的日常生活与心理变化。文章中，主人公经历了由男性转换为女性的过程，并在职场与家庭生活中，维持着一种复杂的三角关系。通过与上司张处长的肉体关系，探讨了性别转换后面对性的认知与执念。文章中提到，主人公的性冲动与需求的变化，谈及了与妻子小晶的感情交流与心理状态，描绘了双方对于角色扮演的适应与挣扎。小说包含了较为直白的性内容与情感描写，例如：“我纠结了好久对他说：‘要不……我用手给你……’”同时，文章涉及到了人物对彼此关系的隐秘性与社会压力的感知。整体来看，这是一部集性别身份、自我探索和性欲表现于一体的跨性别主题作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_靓丽女丈夫（14）.docx]([变身]_靓丽女丈夫（1
 | Size            | 21035 bytes                           |
 | MD5             | 25592d404b49e632ac1184ed79fc2931                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 情感纠葛, 性别认同, 性转, 职场爱情, 心理挣扎, 家庭生活, 角色扮演, 男女关系, 自我探索, 情欲关系, 社会隐秘, 身份认同, 生活状态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

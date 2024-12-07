@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_10.docx]([变身]_【渣
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《勇者弱体化封印》是关于一名勇者艾伦在经历性别转换和自我认同冲突的故事。故事开始于艾伦从睡梦中醒来，发现自己身穿女性睡衣，而内心却充满疑惑和不安。随着情节的发展，艾伦与其他角色间的关系逐渐复杂化，特别是她与王子之间的情感交错。王子在进入艾伦之前表达了“我爱你”，让艾伦在内心深处感到矛盾与痛苦。在她的内心戏中，艾伦承认自己对王子的感觉，但又无法接受这种变化。此外，故事随着魔族近卫队长哈因的出现而变得更加紧张，他试图影响艾伦的身份和认同。文件中详细描绘了艾伦从女性形象中感受到的羞耻与无奈，以及她对周围复杂人际关系的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_10.docx]([变身]_【渣
 | Size            | 39501 bytes                           |
 | MD5             | b6b46443a407a4317144f6e12ce6b790                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 勇者, 性别转换, 自我认同, 女性主义, 魔族, 情感冲突, 勇者与王子, 羞耻与爱慕, 变身, 魔法, 女仆, 魔法少女, 角色扮演, 女性形象, 叙事心理, 奇幻小说, 二次元, 恋爱, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

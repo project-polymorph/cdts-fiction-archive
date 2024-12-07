@@ -7,7 +7,7 @@ TXT 下载: [[附身]_轉身體驗快門(二).docx]([附身]_轉身體驗快門(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一篇以性别转换为主题的小说，讲述了一个男人通过一台神秘相机进入了一个女性的身体，并在这一过程中经历了奇异的自我认知和身体的操控。故事中，主角经历了身体的极大变化，从最初的震惊和无法控制，到逐渐熟悉新身份后心态上的冲突与探索。文本生动地刻画了主角在新身份中的感受，涉及到酒精、派对、性行为及角色间的互动。奇奇怪怪的体验让他感到困惑不已，同时又无法抵制身体本能的驱动，尤其是对他所倾慕的女性角色雅詩莉的探索和接触。小说的高潮集中在主角对于外界刺激的反应，以及他对自身身份的挣扎与复杂心理的描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_轉身體驗快門(二).docx]([附身]_轉身體驗快門(
 | Size            | 24581 bytes                           |
 | MD5             | 3a742fc977ce9d21110340a326a6dfeb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 身体交换, 青春校园, 异性恋情, 性别认同, 自我探索, 醉酒情节, 派对, 性幻想, 情感困境, 角色扮演, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

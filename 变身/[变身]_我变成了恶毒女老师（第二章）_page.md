@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我变成了恶毒女老师（第二章）.doc]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于超自然变身与性别角色探索的小说，主要讲述了一位高中的女性教师因魔法变身为恶毒女老师，并因此陷入复杂的人际关系和自我认同的困境。文件内容中详细描绘了角色的日常教学与人际互动，令人印象深刻的对比与变化。该部分故事突出了教师与学生之间的情感纠葛，以及因嫉妒而生的冲突，尤其是与同事苗慧的竞争关系。随后，角色在尝试探索魔法书的过程中遭遇了阴险的中年男性的迫害，经历了身体与生命的转变，变成了一只黑狗，并面临着无法逃脱的痛苦和屈辱。文件中的描述充满了强烈的冲突与心理变化，同时也探讨了魔法对个体身份及其认知的深刻影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_我变成了恶毒女老师（第二章）.doc]([变身]_�
 | Size            | 56832 bytes                           |
 | MD5             | bcaf4d704d18a4204ca20070febc3171                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 角色变身, 跨性别, 自我认同, 教师与学生, 嫉妒, 强奸, 兽化, 暗黑幻想, 性别探索, 心理折磨, 变身小说, TSF, 异世界, 女性视角, 学院故事, 都市奇幻, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

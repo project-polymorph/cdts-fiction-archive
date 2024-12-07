@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[申码文重发]我的订单是你①②～完～.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《我的订单是你①②～完～》是一部围绕性别转换和附身主题展开的小说，讲述了主角近井幸男在一次点披萨的过程中，意外获得了“凭依别人的力量”。他意识到自己可以附身在女性角色菜月美的身体上，随即经历了一系列趣味而尴尬的情节。这部作品深入描绘了主角在菜月美的身躯中感受到的女性体验，以及他对女性身体的探索与快感。故事中涉及了披萨配送、日常生活，以及性别认同与欲望等主题，塑造了一种轻松搞笑而又带有暗黑幽默的氛围。尤其是主角用女性身份进行各种日常活动的描写，使得这部小说在性别转换类作品中独树一帜。文本中不乏香艳场景和敏感内容，适宜科研和性别研究等领域的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[申码文重发]我的订单是你①②～完～.doc]([�
 | Size            | 55808 bytes                           |
 | MD5             | 62e59cbc2aec549c9dcd5c07bc9fb9c3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 伪娘, 跨性别, 奇幻, 性别认同, 欲望探索, 二次元, 轻小说, 成人内容, 都市幻想, 披萨配送, 自我认知, 快感体验, 角色扮演, 逗趣剧情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

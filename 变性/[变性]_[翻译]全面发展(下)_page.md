@@ -7,7 +7,7 @@ TXT 下载: [[变性]_[翻译]全面发展(下).docx]([变性]_[翻译]全面发
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于变性与跨性别相关的小说，题为《全面发展》，原著由 Denise 创作。在故事中，主人公经历了一次性别的转换，进入了一个以她为中心的全新世界。故事开头，主人公在一次性转变后，感受到身体与心理上的剧烈冲突，逐渐被迫接受新的自我认知。文中描绘了角色在变装后面对的外界压力与个人欲望的矛盾。随着剧情的发展，看似是一个悲剧中的解脱，同时也引出了她与过去的肉体与精神的斗争。文本包含一些限制级和性暗示的元素，如对性行为的直接描写，体现了自我探索与性别认同的复杂交织。整体上，这部小说不仅探讨了跨性别者的内心挣扎，还涉及了权力关系、个人身份与社会期待等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_[翻译]全面发展(下).docx]([变性]_[翻译]全面发
 | Size            | 21439 bytes                           |
 | MD5             | 48694353ec6608fd7114bdc737b4f49a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Denise                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性转, 自我探索, 性别认同, 变装, 悲剧, 欲望, 权力关系, 社会期待, 伪娘, 女体化, 强迫, 女性视角, 性冲突, 角色转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

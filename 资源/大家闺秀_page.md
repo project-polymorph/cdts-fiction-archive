@@ -7,7 +7,7 @@ TXT 下载: [大家闺秀.docx](大家闺秀.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《大家闺秀》，是一部描写古代穿越与性别转换的小说，主人公苏婉儿是前世为男性的角色，在穿越后变为古代富家千金，接受传统女性教育与责任。小说开篇即展现了苏婉儿从前的回忆，到达如今的身份与环境的冲突，描述了她作为一名女性面临的社会压力和家庭期望。故事通过日常生活展现了古代女子的地位、家族关系以及性别角色的束缚，读者能感受到苏婉儿在转身为女子的过程中内心的挣扎与变化。有趣的是，苏婉儿对周围女性的观察与对自身男性身份的反思极具戏剧性，充满了矛盾与冲突，反映出小说作者对于性别与身份认同的深入思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [大家闺秀.docx](大家闺秀.docx)
 | Size            | 44668 bytes                           |
 | MD5             | c40346bdc99af972bfcc2c8f9699a1ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 穿越, 性别转换, 古代小说, 少女成长, 性别认同, 跨性别, 爱情, 古代社会, 家庭责任, 自我探索, 女子地位, 美人, 日常生活, 人生选择, 身份危机, 传统教育                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

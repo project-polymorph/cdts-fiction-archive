@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人仙之皮.docx]([皮物]_人仙之皮.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《人仙之皮》设定在公元4013年，描绘了一个科技与神仙并存的世界。在这个高度发达的文明中，修仙成为广泛追求的力量来源。然而，故事的主人公李小仙由于天生的资质不足，遭遇了修仙门派的拒绝，陷入了无奈却又渴望的境地。文件详细描述了李小仙的背景、内心挣扎，以及在人生的十字路口面临的挑战。李小仙在其父母出征求道之际，孤身一人探访老宅，意外发现了小姨的遗留物品和一份珍贵的秘籍——画皮术。尽管这份法术并不直接助益于修仙，但却为李小仙的后续冒险埋下了伏笔。文中穿插了关于修仙、武术、家庭背景及李小仙个人成长的深刻探讨，展现了角色心理的复杂性和自我认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人仙之皮.docx]([皮物]_人仙之皮.docx)
 | Size            | 17955 bytes                           |
 | MD5             | 3dc0cf7e964175612336763894baf49d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 修仙, 科技, 自我探索, 变身, 魔功, 人生挑战, 家庭背景, 古代遗物, 女性化, 心理挣扎, 成长故事, 秘法, 社会挑战, 个人奋斗, 幻想元素, 二次元, 虚拟现实, 斗争, 科幻, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

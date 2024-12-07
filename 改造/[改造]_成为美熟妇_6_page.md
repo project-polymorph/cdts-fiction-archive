@@ -7,7 +7,7 @@ TXT 下载: [[改造]_成为美熟妇_6.doc]([改造]_成为美熟妇_6.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于转换性别角色的小说，主要叙述了一个名为啊俊的角色如何被迫变成其美丽温柔的母亲小娥。故事从他变身为小娥后的第一天开始，包含了他在新身份下的自我认知冲突与心理挣扎。文中详细描述了啊俊在发现自己身体变化后的情感反应，以及对母亲身体的探索和逐渐适应，同时也触及了受众幻想和转变的不同角度。故事情节交叉地展示了性别认同、身体感知等主题，同时伴随一些限制和性相关的细节，体现出一定的情色元素，如对身体的自我观察、对内心欲望的冲突。全文语句流畅，描绘了角色由男性向女性转变过程中体验到的复杂情感，诸如“我……真的变成妈妈了……”等，展示了个体对身份变化的反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_成为美熟妇_6.doc]([改造]_成为美熟妇_6.doc)
 | Size            | 35328 bytes                           |
 | MD5             | bd1e65dd05fe3c8b74be6f808dae2272                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 男娘, 自我探索, 角色扮演, 心理冲突, 情感挣扎, 身体认同, 性别角色, 幻想, 现代都市, 禁忌, 母子关系, 欲望与渴望, 变身主题, 调教, erotic, 成人内容, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

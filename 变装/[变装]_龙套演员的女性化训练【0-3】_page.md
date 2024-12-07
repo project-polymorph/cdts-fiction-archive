@@ -7,7 +7,7 @@ TXT 下载: [[变装]_龙套演员的女性化训练【0-3】.docx]([变装]_龙
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于伪娘和跨性别主题的小说，讲述了主人公潘毅因外形原因无法找到演戏机会而选择女装作为一种自我放松和表达的方式。故事开头，潘毅回忆起自己的学习经历以及对表演的热爱，但因身材矮小且阴柔的外形，在演艺行业中难以立足，只能演小角色。毕业后，他在一次偶然的机会中，以女装的身份与前女友黄宁雅相遇。黄宁雅是他大学时的同学，曾因其微电影与潘毅展开了一段短暂的恋情。两人在街头重逢，潘毅因穿着女装而感到不安，但黄宁雅并未对他选择女装表示不解，反而表现得轻松自然。在接下来的交流中，两人都感受到一种暧昧的气氛，而潘毅内心则充满挣扎与困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_龙套演员的女性化训练【0-3】.docx]([变装]_龙
 | Size            | 33684 bytes                           |
 | MD5             | 8ff6d7a24cfc59c77bcd45c418e9a980                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变装, 学校生活, 爱情, 自我探索, 青涩爱情, 女装癖, 演员, 影视, 青春成长, 性别认同, 性转, 情感纠葛, 女装, 重逢, 社会压力, 自我认同, 女生时尚, 高跟鞋, 微电影                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_圣诞的极黑夜(上).docx]([交换]_圣诞的极黑夜(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部跨性别主题的小说，标题为《圣诞的极黑夜》。故事围绕着主角李宏益的内心挣扎与欲望展开。李宏益是一个在校高中生，因学业、家庭及外貌而感到自卑。在圣诞夜，他未被同学邀请参加聚会，孤独的他设定了一个计划，通过一个神秘的水晶球与女同学徐希婷互换身体，以此来获得她的信任和了解她的秘密。随着故事发展，李宏益不仅感受到强烈的性欲，同时也开始对自我身份与性别认同产生困惑和思考。整个内容包含了大量对性与个人欲望的描写，涉及庞杂的情感与心理状态，以及跨性别者的视角与体验，包含了部分令人不安的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_圣诞的极黑夜(上).docx]([交换]_圣诞的极黑夜(
 | Size            | 22838 bytes                           |
 | MD5             | c7a02f89137c5914d054813c7f578b8b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RE                               |
+| Region          | 未知                               |
+| Date            | 2013-12-23                                 |
+| Tags            | 伪娘, 跨性别, 性转, 强烈性欲, 身体互换, 青春, 自我探索, 禁忌爱, 校园, 性别认同, 暗恋, 情感纠葛, 生理性别与性别认同, 幻想, 黑暗, 心理, 暴露欲望, 圣诞节, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

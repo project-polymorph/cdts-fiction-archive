@@ -7,7 +7,9 @@ TXT 下载: [[附身]_半鬼之折磨（3）.doc]([附身]_半鬼之折磨（3�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇来自多元性别文化背景的阴暗小说，名为《半鬼之折磨》，故事围绕李国强及其女友May展开。开篇描述了李国强因杀人事件而心事重重，并与女友一同回到家中，意外发现邻居家发生的恐怖事件。隔壁邻居的女儿袁莉因附身于恶鬼而变得疯狂，持枪威胁李国强和他的女友May，深藏的仇恨和对杀戮的渴望在她的身上得到释放。故事情节发展至李国强因绑架事件和恶鬼报复深陷危机，不得不面对内心的恐惧与痛苦。
+
+随着情节的发展，李国强过去的行为被揭示出，牵扯出与May之间的感情裂痕。故事中不乏血腥与暴力的描写，女主May在面临新的身份与生命的交错，与庞医生之间的接触预示着潜在的性别和身体转变。整体氛围充满了紧张、未知与边界模糊的人性探索，体现了对性别认同与自我认知的深刻思考。小说包含了一些限制级设定，包括性幻想与性别转换等情节，适合具有一定心理承受能力的读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_半鬼之折磨（3）.doc]([附身]_半鬼之折磨（3�
 | Size            | 35840 bytes                           |
 | MD5             | 1a9a070a1ea1fb00546daafb7000c269                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 跨性别, 心理惊悚, 暴力, 灵异, 青春校园, 身份认同, 恶鬼, 情侣关系, 权力斗争, 自我探索, 二次元文化, 性别探索, 都市恶梦, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

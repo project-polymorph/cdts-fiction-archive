@@ -7,7 +7,7 @@ TXT 下载: [[附身]_回家路上番外篇——去而复返（2）.doc]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于附身与性别转换的小说番外篇，主要围绕主人公在高铁旅程中对自己附身能力的探索和恶作剧展开。故事开头描述了主人公怀着兴奋和期待的心情，回忆起一年前使用附身能力的经历，以及对回家探望亲人的期待。随着列车的开动，他逐渐入睡，随后被旁边一位阿姨的喧闹声吵醒。小说通过主人公与这位阿姨的互动，展示了他如何通过灵魂力控制对方的身体，并引发一系列的恶作剧。故事中包含了性别认同、身体控制等主题，并对角色心理和自我认知的冲突进行了描绘。具体情节涉及角色的身体特征和内心感受，表现了肉体与灵魂的紧密联系，以及在极端情况下的自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_回家路上番外篇——去而复返（2）.doc]([附�
 | Size            | 49664 bytes                           |
 | MD5             | d001ecd5b2cecde4b2852237f53a35d2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身, 性别转换, 恶作剧, 灵魂力量, 自我认知, 列车旅行, 女装, 审美观, 身体控制, 性别认同, 青春期, 内心冲突, 迷惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【碟中谍】黄昏市枪击案4.doc]([皮物]_【碟中
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《黄昏市枪击案4》是一本包含警匪情节的伪娘文小说，讲述了一个因欲望而引发的暴力事件。故事中，主角在夜晚的一个巷子里，目睹了流浪汉欲强奸喝醉的女性角色，结果却引发了一起巨大的火灾，最终发现了男尸及与高官相关的神秘案件。小说中包含了许多涉及性主题的情节，包括角色的性转、调教与欲望的表达。主角在会所中与盲人帅哥展开了一系列激烈的性行为，描绘了其皮肤与感官的变化，以及与高官的关系揭露。情节复杂，涉及性别认同与欲望的纠缠，是一部以强烈视觉与感官描写构建的跨性别、变身主题的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【碟中谍】黄昏市枪击案4.doc]([皮物]_【碟中
 | Size            | 39936 bytes                           |
 | MD5             | 49c07c8582afb8577b06ea66902bf11f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 周蕊                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 警匪, 伪娘, 强奸, 淫荡, 调教, 性转, 变身, 肉体交互, 高官, 阴暗面, 性别认同, 性欲探寻, 夜生活, 暴力事件, 隐藏身份, 调戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

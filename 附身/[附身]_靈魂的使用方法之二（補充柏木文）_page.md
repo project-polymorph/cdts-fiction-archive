@@ -7,7 +7,7 @@ TXT 下载: [[附身]_靈魂的使用方法之二（補充柏木文）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《灵魂的使用方法之二（补充柏木文）》的文档，内容围绕一群年轻人在期末考试后计划举行聚会(P-party)的故事展开。在文件中，故事的主角山崎和志村两人讨论了将要举行的派对，山崎的青梅竹马柏木同学也对派对表现出兴趣。从一段轻松的校内对话开始，逐步扩展到包含意识交换的幻想元素，探讨灵魂出窍与附身的主题。文中包含了一些关于角色之间的互动，尤其是山崎的姐姐意外地参与到志村与山崎的聚会之中，这一情节描绘出性别角色与欲望的复杂交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_靈魂的使用方法之二（補充柏木文）.docx]([�
 | Size            | 40090 bytes                           |
 | MD5             | 8a765298237737111ee1c6dfee723d5c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 双性恋, 灵魂出窍, 青春校园, 附身, 性别认同, 伪娘, 强奸, 调教, 逆后宫, 年龄差, 药物, 性转, 成人内容, 角色扮演, 青梅竹马, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

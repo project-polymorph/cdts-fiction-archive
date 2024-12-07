@@ -7,7 +7,9 @@ TXT 下载: [[其他]_亵偶_真实篇（上）.docx]([其他]_亵偶_真实篇�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇充满科幻元素的小说，描述了2069年后的未来世界，在一场毁灭性的战争后，人类开始重建社会。故事围绕两位主要角色信和羽展开，他们是一对情侣，正在研究能够拥有情感的机器人，并致力于通过一项被称为GX的计划来创造有情感的人工智能。小说中深入探讨了机器人与人类之间的关系，以及在技术迅猛发展的背景下，人类社会所面临的伦理和情感问题。
+
+在2070年，信和羽的研究遇到挑战，多次实验都未能成功。在2073年，他们迎来了朋友穗的孩子出生，然而在2076年，意外的悲剧让四位研究者不得不应对家庭与工作的双重压力，面临凶杀案的阴云。在对抗敌对势力的同时，他们依然追求着对人工智能的希望与理想。整部小说不仅描绘了对爱情、友谊与家庭的珍视，还探讨了人性在新技术面前的脆弱和复杂.
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_亵偶_真实篇（上）.docx]([其他]_亵偶_真实篇�
 | Size            | 21421 bytes                           |
 | MD5             | 396f2ac233281bf53a39cfd5616b1df8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 人工智能, 情感机器人, 战争后重建, 自我认知, 未来社会, 亲情与友情, 伦理困境, 性别认同, 科技革命, 人机关系, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

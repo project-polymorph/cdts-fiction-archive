@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_富士山——被压抑的暴怒（2）.doc]([皮物]_富
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一名漫画家雾崎申司的故事，他与两位拥有不同背景的男性，前自卫队员山上徹也和研究员土屋枡次，形成了一个复仇联盟。故事揭示了他们共同的目标是消灭一名军国主义头子，这一人物与三人过去的创伤密切相关。雾崎申司由于父亲的死而对这个国家的军国主义心怀不满，于是放弃了漫画创作，转而加入工厂工作，观察他人以准备复仇。在这个过程中，三人探讨了材料的实验与应用，意图替换掉一个人。文件展示了他们间的互动与对各自计划的思考，以及对于周围社会与权力的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_富士山——被压抑的暴怒（2）.doc]([皮物]_富
 | Size            | 48128 bytes                           |
 | MD5             | 5cda7d05a3924b315967ee76b55856b1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 复仇, 军国主义, 自我探索, 复杂人际关系, 实验材料, 社会观察, 权力斗争, 情感冲突, 男性角色, 野心与阴谋, 都市幻想, 心理描绘, 变装, 横行霸道, 二次元, 漫画                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_从花花公子到花瓶妻子（上）.doc]([改造]_从�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部小说的第一部分展现了一个名为雅各布·布朗的角色，他是社交圈中的一员，生活在充满奢华与权力斗争的环境中。小说开篇描绘了雅各布的生活，他身为百万富翁，每天都在关注股市的起伏，同时也反映出他与朋友们之间的复杂关系与较量。小说中涉及到的角色包括阿曼达·皮尔森、波莉·尼科尔斯、丹尼尔·理查森等，他们都是社会上层人士，拥有特权与财富，但同时也充满了宠辱不惊的社交游戏与权力斗争。文中也提到了彼得·斯卡利亚这样的角色，他的同性恋身份暴露后受到排挤，进一步揭示了社交圈的冷漠与无情。雅各布对周围人的厌恶与不满不断增加，他意识到自己也可能成为社交圈的下一个牺牲品。整个文本充满了对人性、友情和财富的深刻反思，暗示了人物的身份与社会地位之间的矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_从花花公子到花瓶妻子（上）.doc]([改造]_从�
 | Size            | 54272 bytes                           |
 | MD5             | 6b0675d858deb66cc4431bed4dea7198                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 社交圈, 权力斗争, 财富游戏, 性别认同, 自我探索, 心理冲突, 伪娘, 男性角色外表变化, 精英文化, 社会阶层, 友情与背叛, 奢华生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

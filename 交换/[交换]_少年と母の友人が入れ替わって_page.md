@@ -7,7 +7,7 @@ TXT 下载: [[交换]_少年と母の友人が入れ替わって.docx]([交换]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一名名叫细井翔琉的男高中生与其母亲的朋友太田周子的身体互换经历。故事开始时，细井翔琉发现自己正在体重计上，然而他意识到自己现在的身体是一个四十多岁的女性，太田周子的身体。这一突如其来的身份交换使他感到困惑和不安。他描述了自己穿着女性内衣的感触、自己的焦虑以及与家庭成员之间的尴尬互动。文件深入探讨了性别身份和身体认知的问题，以及翔琉在适应太田周子生活过程中的自我认知和探索，包括其对女性身体的体验与内心的新感受。同时，翔琉还面临着加入家庭角色的挑战，尝试扮演母亲的每天生活，包括做家务、照顾孩子等，展现了他对这一新身份的挣扎与思考。故事中还包含了一些关于性与欲望的复杂描写，通过翔琉的内心独白可以感受到强烈的性别矛盾和心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_少年と母の友人が入れ替わって.docx]([交换]_
 | Size            | 17563 bytes                           |
 | MD5             | 86586c30fd1407f25b59608b2459d907                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别互换, 跨性别, 自我认同, 家庭关系, 心理冲突, 内心独白, 二次元文化, 变身小说, 角色扮演, 青春成长, 课堂生活, 母子关系, 性别探索, 快感体验, 日常生活, 情感纠葛, 亲子关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]【翻译】【改造】我是女仆机器人_第5章_新�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个与伪娘机器人相关的小说章节，主要讲述了女仆机器人杰基在新的女主人的控制下的生活。故事中，杰基经历了主人的替换，她的替代者已经移居海外，导致杰基被留在女仆机器人系统的严格管理之中。随着新女主人的到来，杰基逐渐意识到家庭的变化，她必须适应新的命令和职责。文中的描绘详细描写了女仆机器人的生活状态，以及新的女主人的性格与行为，这引发了杰基的情感与自我认知的冲突。目前，杰基与新女主人的关系逐渐深入，故事内容涉及了性别角色与生理结构之间的复杂想象以及对自我身份的探索。文中包含了一些复杂的情感和性暗示，比如萨曼莎对杰基身体的欣赏，以及两者之间潜在的从属关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]【翻译】【改造】我是女仆机器人_第5章_新�
 | Size            | 48128 bytes                           |
 | MD5             | baec502e216222018101cb6da14b4f8d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 变身, 女仆机器人, 跨性别, 性别认同, 强控制, 自我探索, 机械人, 家庭关系, 女性角色, 权力动态, 科技幻想, 情感冲突, 身份认同, 程序控制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

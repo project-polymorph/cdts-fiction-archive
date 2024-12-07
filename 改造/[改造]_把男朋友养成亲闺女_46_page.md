@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_46.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一部名为《把男朋友养成亲闺女》的变身小说的章节，作者为Nicegent42，译者为Lisa。故事围绕着两位女孩，贝丽和坎迪的亲密互动展开。贝丽在故事中经历性别认同的冲突，逐渐被坎迪引导着进入一种狼狈的身体变换与自我认同中。在这章中，坎迪提议为贝丽拍摄一个换装视频，贝丽虽然心生抵触，但看到坎迪兴奋的神情，最终还是决定参与。文本富含性转、伪娘和跨性别的主题，描绘了贝丽内心的挣扎与复杂情感。故事中包含对年轻女孩形象的细致描绘，展现了她们对身份与性别认同的探索。同时期望回避对方隐私的细节，贝丽对坎迪的关心产生了更深的联系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_46.doc]([改造]_把男朋友�
 | Size            | 39936 bytes                           |
 | MD5             | bfae60f634bcf22b4197f2ec1194fde0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 性别认同, 伪娘, 跨性别, 变装, 强奸, 纯爱, 调教, 二次元, 少女之间的亲密关系, 青春成长, 药娘, 百合, 性转, 情感探索, 社会认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

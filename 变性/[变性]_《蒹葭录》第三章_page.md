@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第三章.doc]([变性]_《蒹葭录》第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《蒹葭录》的第三章，主要描写了角色们在庙堂的相遇与冲突。故事开始于一位老尼姑在庙堂的守护，目睹了追杀事件的发生。易鹧鸥作为主角之一，试图对宋沚陵施加致命一击，却被老尼姑的佛法所阻止。老尼姑使用了高深的佛法技巧，使得追杀者失去了战斗的勇气，最终被迫退却。与此同时，宋沚陵因重伤被老尼姑救下，老尼利用她的内力守护他的生命。在经历了重伤和对过往的回忆后，宋沚陵最终缓缓苏醒，面对着他的师太一念，并被传授重要的成年礼仪。整章充满了对生命的思考，同时触及到人性与修行的关系，以及角色们之间的情感纠葛与宗教信仰的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第三章.doc]([变性]_《蒹葭录》第�
 | Size            | 50688 bytes                           |
 | MD5             | a8996cf22c2e9066cbde01dc4ce0c20a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 友情, 自我探索, 佛教, 武侠, 青春成长, 生命哲学, 师徒关系, 药物治疗, 内力修习, 江湖恩怨, 宗教信仰, 性别认同, 性别法则, 弱冠礼仪, 岁月流转, 生死考验, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

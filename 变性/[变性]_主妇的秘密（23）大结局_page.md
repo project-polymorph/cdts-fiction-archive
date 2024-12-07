@@ -7,7 +7,7 @@ TXT 下载: [[变性]_主妇的秘密（23）大结局.docx]([变性]_主妇的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《主妇的秘密（大结局）》的最后一部分，主要讲述了角色从催眠状态中觉醒，恢复记忆后与伴侣之间的情感牵绊。在经历了一系列的心理冲突与自我认知后，主角李洁意识到自己与季扬的过去，随后两人产生了更深的情感联系，重聚后的亲密行为彰显了他们复杂的爱恋及欲望。故事涉及变性、性别认同，以及对失去与变化的体验，尽管有明确的性描写与情感纠葛，但也展现了对爱的真挚追求与理解，反映了在变性过程中的身体与心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_主妇的秘密（23）大结局.docx]([变性]_主妇的�
 | Size            | 37416 bytes                           |
 | MD5             | 42ad2207aab7bffa6b887f008c89b310                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 催眠, 情感纠葛, 自我探索, 性别认同, 主妇, 甜蜜爱情, 情欲, 双重人生, 重聚, 跨性别, 心理冲突, 二次元, 强烈爱情, 变嫁, 女性视角, 身体改造, 移动器官, 阴道和阴蒂移植, 爱的真谛, 情感支持                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

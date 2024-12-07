@@ -7,7 +7,7 @@ TXT 下载: [[变性]_女仆交易_1.doc]([变性]_女仆交易_1.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《女仆交易》的跨性别相关小说的一部分，内容主要围绕一位名叫丽莎的男孩被N女士训练成女仆的日常生活。这位女仆经历了性别认同和自我探索的过程，逐渐适应了女性化的身份与角色，文中描绘了她对服装、外表、内衣以及与N女士的关系的复杂感受。在故事中，丽莎需要遵循N女士设定的各种严格规矩，同时在完成艰难的家务活中感受到羞辱和快乐的交织。文中出现了许多与性别表达相关的细节，例如丽莎穿着的女仆服装、内衣的选择，以及她在服务客人时的心态和反应。小说中涉及到的主题包括性别转换、自我认同、权力与服从，以及羞辱与惩罚的双重关系，这些都通过丽莎与N女士的互动表现得淋漓尽致。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_女仆交易_1.doc]([变性]_女仆交易_1.doc)
 | Size            | 43520 bytes                           |
 | MD5             | e13b3599d2a0ca3b477fa9e79a13eb73                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 女仆, 性别认同, 羞辱, 自我探索, 权力关系, 性别表现, 跨性别, 心理冲突, 女性化, 惩罚与奖励, 伪娘, 调教, 服装设计, 情感依赖, 角色扮演, 纯爱, 幻想, 成长故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

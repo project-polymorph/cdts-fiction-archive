@@ -7,7 +7,7 @@ TXT 下载: [[改造]_原神同人_深渊魔女的诞生，神里绫华的新生
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于角色神里绫华的二次元性转和跨性别主题的同人小说，内容围绕神里绫华与名为小春的角色之间的亲密互动展开。故事开头描绘了神里在阳光明媚但略显凉意的早晨醒来时的情景，她发现自己赤裸的身体，并回忆起昨晚同小春发生的事情。随着故事的发展，神里与小春之间的亲密接触逐渐升级，小春帮神里挤压身体的情节，以及神里对自己身体变化的羞耻感和内心忐忑相结合，表现了角色的自我认知与情感探索。特别是在乳汁分泌的描绘中，反映出角色对亲密关系与性的认知冲突。这部作品展示了关于性别认同、身体变化以及情感连接的主题，具有一定的限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_原神同人_深渊魔女的诞生，神里绫华的新生
 | Size            | 64174 bytes                           |
 | MD5             | 14558827e670446b66e2fc2fb814e060                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 女体化, 二次元, 强烈情感, 性探索, 自我认知, 亲密关系, 泌乳, 羞耻感, 角色互动, 奇幻, 色情, 爱情, 身心变化, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

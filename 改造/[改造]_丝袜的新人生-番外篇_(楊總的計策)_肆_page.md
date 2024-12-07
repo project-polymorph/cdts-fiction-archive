@@ -7,7 +7,7 @@ TXT 下载: [[改造]_丝袜的新人生-番外篇_(楊總的計策)_肆.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为小说的一部分，主要描绘了一段 erotica（色情文学）情节，涉及到角色之间的性行为和性转变的描写。故事中，角色在办公室中进行亲密互动，描绘了愉悦的性爱场景和情感交流。男女主角之间的关系由性别转换引发了一系列心理和生理上的变化，尤其是男主角经历了从男性到女性的性转，其体征和感受经历了矛盾与接受，并伴随着细致入微的生理描述。这些描写涉及到性行为、快感和角色在性别转换过程中的心理探讨，如：“看他這樣我再次將舌頭深深地探入其中吸吮、舔舐。”同时，文中也提到了高科技 material（如丝袜和义乳）的变换，为故事增加了奇幻和科幻的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_丝袜的新人生-番外篇_(楊總的計策)_肆.doc]([�
 | Size            | 39936 bytes                           |
 | MD5             | 3027d1e2ad291f9646794089d68528bf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 跨性别, 强烈快感, 情欲, 办公室恋情, 自我探索, 奇幻, 科技, 爱情, 情趣用品, 二次元, 内部视角, 异世界, 调教, 淫荡, 强奸, 多人, 玉体横陈, 丝袜, 魔法少女, 夜总会, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

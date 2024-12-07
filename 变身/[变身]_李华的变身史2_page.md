@@ -7,7 +7,7 @@ TXT 下载: [[变身]_李华的变身史2.docx]([变身]_李华的变身史2.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身小说，主要讲述了李华在经历了一次性别转换之后的内心挣扎与自我探索。故事开篇，李华在镜子前欣赏新的女性形象，这个过程充满了对自我身份的困惑与快感。她意识到，自己变成了一个可爱的少女，但同时对于失去原有身份和家庭的恐惧感随之而来。随着情节的发展，李华揭示出父亲留下的神秘遗物，这个遗物使她获得了一系列特殊的能力，如和女性换灵魂的能力等，进一步深化了她对这种新身份的探索与认知。小说中包含了许多与性别认同、外貌变化及自我认同相关的主题，展现了角色在变身后的心路历程。同时，文中涉及了一些性暗示的内容，以反映角色在新形象下对自身性别和身份的摸索与理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_李华的变身史2.docx]([变身]_李华的变身史2.doc
 | Size            | 17375 bytes                           |
 | MD5             | 58f0900f3c52905f27fef7016854475d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 自我探索, 性别认同, 魔法, 灵魂互换, 女体化, 奇幻, 成长, 青春, 心理挣扎, 家庭关系, 能力觉醒, 二次元, 虚拟现实, 多重身份, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

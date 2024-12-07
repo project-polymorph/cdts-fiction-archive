@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_『申码文重发』一个腹黑萝莉女仆和自家大�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《申码文重发：一个腹黑萝莉女仆和自家大小姐的故事》，主要描述了一位看似普通的白发萝莉莫莉，实际上她具有复杂的身份背景和心理斗争。故事发生在一个热闹的市场，莫莉因为担忧一名白毛萝莉的安危而采取了反跟踪的手段。故事推进中，莫莉与大小姐赵琳之间的互动透露出她们之间的深厚关系，同时也展现了莫莉身为女仆的忠诚和她内心的嫉妒。文件中包含了伪装、性别身份的变换以及角色心理变化等元素。尤其是描写了莫莉为了确保赵琳的安全，考虑采取极端的手段来应对假扮男友的情况，突显出她的复杂性格。这种紧张而又异于常人的情感，混合了纯爱与暗恋的元素，使得故事更具吸引力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_『申码文重发』一个腹黑萝莉女仆和自家大�
 | Size            | 38440 bytes                           |
 | MD5             | 549e62ed72540572061e318e5eecab57                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 腹黑女仆, 萝莉, 伪娘, 性别转换, 心理斗争, 二次元, 情感纠葛, 假装恋爱, 角色扮演, 逆后宫, 保护欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

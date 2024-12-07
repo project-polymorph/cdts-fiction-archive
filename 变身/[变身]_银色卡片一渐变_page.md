@@ -7,7 +7,7 @@ TXT 下载: [[变身]_银色卡片一渐变.docx]([变身]_银色卡片一渐变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《银色卡片一渐变》是一篇涉及性别转换和自我探索的奇幻小说，讲述了一对兄妹在遇到一张神秘卡片后，生活发生了戏剧性的变化。故事开始于日常生活中，女主（哥哥）在无意中购得一张神秘的银色卡片，意外地导致了性别的转变。小说中描绘了哥哥变成妹妹后的心路历程，以及他与妹妹之间微妙的关系，探讨了性别认同与家庭关系。前两章为情节铺垫，主要描述了兄妹俩的日常琐事和卡片的首次显现，而第三章开始则聚焦于转变后的身体和心理变化。作品全长，提供了丰富的情节和角色发展，有助于理解当下对性别流动性和自我认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_银色卡片一渐变.docx]([变身]_银色卡片一渐变
 | Size            | 58019 bytes                           |
 | MD5             | 766eb322974de614a1c766a84b1c14e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 自我探索, 兄妹关系, 奇幻, 神秘卡片, 妹妹视角, 青春成长, 性别认同, 家庭, 情感纠葛, 幻想, 日常生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

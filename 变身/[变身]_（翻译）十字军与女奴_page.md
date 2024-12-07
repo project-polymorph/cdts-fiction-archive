@@ -7,7 +7,7 @@ TXT 下载: [[变身]_（翻译）十字军与女奴.docx]([变身]_（翻译）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是名为《十字军与女奴》的性转变身小说，主要讲述了一个十字军骑士与希腊女奴之间的故事。骑士在征战中俘获了这名少女，并对她进行控制与占有。这部作品描绘了权力与身体的交织，探讨了在极端情境下的性别认同与人际关系的复杂性。小说采用生动的语言描绘了骑士对女奴的欲望，以及女奴对自由的渴望与挣扎。比如，女奴在诗意的描写中被定义为“豹一样修长健美的身材，丰满结实的臀”，而骑士则对她的外表和身份产生了利欲攀附的幻想。整个故事中渗透着压迫与反抗的主题，包括性别划分、身份认同等议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_（翻译）十字军与女奴.docx]([变身]_（翻译）
 | Size            | 49335 bytes                           |
 | MD5             | de942c5b4b97c37f3e61b87e963df8e5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 十字军, 女奴, 权力关系, 占有欲, 性别认同, 自我探索, 历史背景, 强制与服从, 戏剧冲突, 欲望与挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

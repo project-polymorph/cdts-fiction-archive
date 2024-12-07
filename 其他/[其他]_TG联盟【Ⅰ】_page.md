@@ -7,7 +7,7 @@ TXT 下载: [[其他]_TG联盟【Ⅰ】.doc]([其他]_TG联盟【Ⅰ】.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一位名叫赵明镜的伪娘角色的故事，始于一个线上聚会的线下活动。他花费大量篇幅描绘了自己在尝试完美变身为女性的过程中，如何在学校的厕所里进行复杂的化妆和着装准备。赵明镜有着完美主义的个性，通过化妆、穿着以及使用胸罩、皮肤粘合剂等方式来塑造自己理想中的女性形象。文中详细描述了他对自己身体的自我剖析，以及在公共场合中享受目光追逐的心理状态。故事中，他在地铁上引起了众多目光，并与另一位美丽女子发生偶然的互动，这让他感受到了竞争与被抢夺目光的困扰。整个故事探讨了性别认同、社会认同及自我认知等主题，展现了现代年轻人在性别观念和自我形象方面的挣扎与追求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_TG联盟【Ⅰ】.doc]([其他]_TG联盟【Ⅰ】.doc)
 | Size            | 33280 bytes                           |
 | MD5             | 90d09f81ca9f46123deae3c600931a2f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 完美主义, 青春成长, 社会认同, 聚会, 地铁经历, 心理冲突,  LGBT, 性别转换, 二次元, 角色扮演, 友情, 心灵探索, 时尚, 自我价值                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

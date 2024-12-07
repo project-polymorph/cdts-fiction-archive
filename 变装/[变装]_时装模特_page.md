@@ -7,7 +7,7 @@ TXT 下载: [[变装]_时装模特.doc]([变装]_时装模特.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《时装模特》是由YancyVoss创作的一篇伪娘主题小说，主要围绕角色蕾娜和奥布里之间互动展开。在故事中，蕾娜希望开设一家网店销售女性时装，但因缺乏合适的模特而感到沮丧。为了帮助她，奥布里最终被说服穿上女性服装试穿，同时享受着帮助自己提升学业成绩的好处。小说详细描写了奥布里从一开始的拒绝到最终好奇尝试穿女装的心理变化，他穿上女装后的自我认知变化，以及两人在拍照和交流过程中的趣事和心理冲突。这篇小说在探讨性别认同、自我探索等主题的同时，也包含了伪娘和性别转换的情节，展现了奥布里内心的挣扎与接受。总体来看，这部作品描绘了性别角色的流动性，以及个人对于自我形象的认可与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_时装模特.doc]([变装]_时装模特.doc)
 | Size            | 37888 bytes                           |
 | MD5             | c8cc5d00a46d5fdeb27eae0bf2023191                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | YancyVoss                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性别认同, 自我探索, 时装, 青春校园, 友谊, 心灵成长, 二次元, 角色扮演, 心理变化, 女性形象, 服装展示, 学业辅导, 网店, 流行趋势                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

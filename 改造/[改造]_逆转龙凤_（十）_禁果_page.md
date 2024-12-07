@@ -7,7 +7,7 @@ TXT 下载: [[改造]_逆转龙凤_（十）_禁果.doc]([改造]_逆转龙凤_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容为一部伪娘和性转题材的小说，主要围绕天光城的一位少年在青楼中的经历展开。故事以少年的内心挣扎和身体变化为主线，通过他与其他角色的互动，展现出性别认同和自我探索等复杂主题。文中描写了少年在接客过程中的心理变化和对自己新身份的接受与抗拒，同时也描绘了他的身体被男性碰触而产生的复杂感受，如“少年但其实是一个男人，被男人的手抚摸着身体”。在故事中，少年与客人之间的关系逐渐由单纯的雇佣关系演变为更加细腻的互动，其中涉及亲吻、抚摸等场景，反映出角色之间情感的冲突与转变。整部作品的叙述带有幻想色彩，交织着青楼生活的阴暗面与人际之间的微妙情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_逆转龙凤_（十）_禁果.doc]([改造]_逆转龙凤_�
 | Size            | 61952 bytes                           |
 | MD5             | 2c71a9c6b2ae23f1dbdda3974a731fe5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 青楼, 自我探索, 情欲, 跨性别, 强迫, 调教, 药物, 情感冲突, 变嫁, 逆后宫, 冤屈                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

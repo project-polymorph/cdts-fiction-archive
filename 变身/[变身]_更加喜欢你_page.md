@@ -7,7 +7,7 @@ TXT 下载: [[变身]_更加喜欢你.doc]([变身]_更加喜欢你.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换主题的小说，标题为《更加喜欢你》。故事的主角麦克斯在一次意外中被他的女友萨莎用实验液体变性，从而经历了一系列身份和自我认知的冲突。小说通过详细描绘麦克斯的心理变化和身体感受，展示了他从男性转变为女性的过程。起初，麦克斯对变化感到震惊与抵触，但在萨莎的引导下，逐渐感受到自身变化带来的新体验和情感冲突。随着故事的发展，麦克斯的性别认同和情感取向发生了变化，最终接受了这个新身份，并与萨莎进行了亲密的互动，表达了对彼此的喜欢与依恋。文本中包含了大量细致的身体描写和情感交流，探讨了性别与爱情之间的复杂关系，涉及了强烈的性暗示与情感纠缠，并反映了角色对自我认同的探索与接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_更加喜欢你.doc]([变身]_更加喜欢你.doc)
 | Size            | 44032 bytes                           |
 | MD5             | 57ff0068d7ac160bdc5ad010fed380e0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 跨性别, 角色自我认知, 情感纠葛, 实验室事故, 女性身份, 情感探索, 爱情, 性别认同, 恋爱关系, 男变女, 双性恋, 自我探索, 亲密关系, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

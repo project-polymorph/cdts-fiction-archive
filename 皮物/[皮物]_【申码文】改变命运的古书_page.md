@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文】改变命运的古书.doc]([皮物]_【申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《改变命运的古书》，讲述了一个大学生李立在父母去世后，被迫依赖伯父家庭生活的艰辛。故事的开头，李立了解到自己所存下的积蓄被伯父一家挥霍殆尽，愤怒之下他离开了伯父的家。在经历了一段时间的孤独和无助后，李立在市集上偶然购买了一本破旧的古书，起初认为这是他完成学校任务的材料。但随着剧情的发展，李立在翻译这本书的过程中，逐渐揭开了一段涉及邪恶秘术和身体变换的历史，书中记载的两种法术让他脑海中浮现出奇异的设想和恐惧。故事在李立的梦境中达到高潮，显露了他在身体性别认同上的困惑及渴望，带有探索与自我认知的主题，该作品同时涉及到一些限制级内容和幻想色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文】改变命运的古书.doc]([皮物]_【申�
 | Size            | 75264 bytes                           |
 | MD5             | 05a4ff5f7613a1566e238328f326744e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 无法总结的古书, 自我探索, 邪教秘术, 大学生, 反转剧情, 孤独, 梦境, 身体认同, 奇幻, 邪恶, 性别转换, 社会实践, 古代历史                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

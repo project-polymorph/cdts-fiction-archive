@@ -7,7 +7,7 @@ TXT 下载: [[交换]_（申码文重发）超感双生.doc]([交换]_（申码�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于性转与跨性别主题的小说，主要讲述了主角与自己的姐姐之间的复杂关系及个人情感的探索。故事的开头，主角介绍了自己与姐姐的近况，并描绘了姐姐的男友的形象，突出两姐弟的相似性。随着故事的发展，主角在与姐姐及其男友的互动中逐渐产生了性别认同与性欲的困扰，特别是在目击姐姐和男友之间亲密举动后，触发了自己的欲望与幻想，引出了一系列梦中与性相关的情节。梦里，主角经历了强烈的欲望与幻想，甚至在地铁上产生梦遗，展示出他内心对于自我的迷惑和探索。最后，故事以主角决定去姐姐那里讨论自己近期的梦境为结尾，暗示了他希望通过姐姐的帮助来解决自我认同的问题。整个文本充满了对性别认同、欲望与自我探索的探讨，情节隐晦却充满暗示，适合用于相关研究与探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_（申码文重发）超感双生.doc]([交换]_（申码�
 | Size            | 58880 bytes                           |
 | MD5             | 2927bd2d7445abab9ba7526f5d7e7b1d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我探索, 欲望, 性别认同, 姐姐, 梦境, 情感纠葛, 家庭关系, 幻想, 禁忌, 心理冲突, 青春, 内心矛盾, 女性视角, 现代都市, 二次元文化, 性别角色, 性别表现, 同性恋, 伪娘, 幻想性经历, 都市生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

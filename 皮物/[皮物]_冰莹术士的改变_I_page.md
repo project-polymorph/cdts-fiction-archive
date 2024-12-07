@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_冰莹术士的改变_I.doc]([皮物]_冰莹术士的改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部以性转与跨性别为主题的小说，描绘了名为冬妮娅的少女在璃月天衡山逃跑的情景。故事从冬妮娅试图逃脱千岩军士兵的追捕开始，她身着冰莹术士的制服，但因制服的束缚而行动缓慢。在逃跑过程中，冬妮娅意外跌入水潭，之后她心急如焚地寻找一个隐蔽的藏身处，试图从盒子中取出她的新装备，这个装备是愚人众最新研制的伪装皮物。冬妮娅经过一系列尝试后，成功穿上了这件皮物，形成了一种自我认同的转变。“冬妮娅呆呆地看着新生的左脚，感受着空气拂过肌肤的畅快感，仿佛是在做梦。”随着身心的交融，冬妮娅体验到前所未有的快感和对自我的重新定义。小说围绕性别认同、自我认识和一种奇幻的变形过程展开，蕴含丰富的幻想与心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_冰莹术士的改变_I.doc]([皮物]_冰莹术士的改�
 | Size            | 34816 bytes                           |
 | MD5             | 79b79c41b0187aaecdfdaf36426535c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 自我探索, 幻想, 魔法, 女仆, 青春, 冒险, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_朽木花雕（3，4）.doc]([附身]_朽木花雕（3，4
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是以悬疑与变身元素为核心的小说章节，叙述了一系列由警察和黑帮成员展开的惊险故事。这一段讲述了黄耀文与同事林青晴伪装成情侣，试图在金银店内抓捕与毒枭交易的嫌疑犯。经历了激烈的枪战和混乱的局面，黄耀文被子弹击中，随后紧急情况下，林青晴在触发器被击中，身体发生了异样反应。在情节的发展中，冯春燕成为了关键角色，她的性格在故事中出现了明显的变化，并逐渐揭示了一些复杂而纠结的恋爱关系。同时，文中涉及了阵痛、记忆丧失和性别角色转换的主题，这使得情节更为曲折与新颖。诸多情节中，冯春燕与郭俊廷的互动，表现了在极端情况下人性的探索。该小说不仅是变身和性别认同的探讨，也表现出在极端情况下人际关系的错综复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_朽木花雕（3，4）.doc]([附身]_朽木花雕（3，4
 | Size            | 44032 bytes                           |
 | MD5             | dd698f5c781d11b4c1f247792a37a38f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 悬疑, 警匪, 互换身体, 情感纠葛, 性别角色转换, 枪战, 纯爱, 自我探索, 记忆丧失, 恋爱心理, 都市幻想, 禁忌爱情, 二次元, 异士情节, 暗恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

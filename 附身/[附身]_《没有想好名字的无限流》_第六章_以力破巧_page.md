@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《没有想好名字的无限流》_第六章_以力破�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《没有想好名字的无限流》第六章的文档，主要围绕角色约翰王的冒险经历展开。故事的背景设定在一个被丧尸病毒肆虐的世界，约翰王与其队友们乘坐军用悍马，努力在敌人之后逃生。章节描述了主角团试图完成护送任务的过程，以及他们在逃亡途中所遇到的艰难险阻。在这段逃亡中，约翰王作为一个资深的轮回者，内心充满了隐忧与不安，因为现实剧情已经开始偏离预设的轨迹。他身边的希里爱丽丝是一名看似天真无邪的小女孩，但在特定情境下她与其他女性角色之间呈现出的互动却蕴含了复杂的情感纠葛与性暗示。整章围绕着生存与背叛的主题，夹杂着少许的情欲描写，展现了角色之间的微妙关系与心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《没有想好名字的无限流》_第六章_以力破�
 | Size            | 41472 bytes                           |
 | MD5             | 0556765d9deb6e898ccde3a3b25640e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 丧尸, 校园, 冒险, 二次元, 心理斗争, 性别认同, 团队合作, 生存游戏, 纯爱, 变嫁, 调教, 强奸, 淫荡, 女性视角, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_逍遥法外（中）.docx]([附身]_逍遥法外（中）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《逍遥法外（中）》是一部关于角色性别转换与自我探索的小说。故事的背景设定在北海市的大学校园，描绘了一位名为柳明惠的男性角色在尝试以女性身份方莲芩入学的过程。开篇描绘了燕熙熙攘的校园环境与人群中的互动，柳明惠在外表上通过精心打扮和装备，试图掩盖其男性身份。然而，在与周围同学的相处中，他面临着内心的冲突与不安。随着情节的发展，柳明惠在校园中引起了许多女同学的注意，尤其在她遇到一位对她表示关心的男性时，矛盾愈发明显。柳明惠对其外表的紧张与对他人的期待形成鲜明对比，揭示了在性别角色转换中的复杂心理状态。该作品深入探讨了性别认同及社会交往中存在的挑战与变化，使人对性别关系有更深入的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_逍遥法外（中）.docx]([附身]_逍遥法外（中）
 | Size            | 43857 bytes                           |
 | MD5             | 2a1b1aff1db3ff8f9c970a641cf13663                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 大学生活, 女装, 自我探索, 校园爱情, 角色扮演, 心理冲突, 性别认同, 浪漫, 社会压力, 青春, 人物关系, 男性视角, 女性视角, 异性吸引, 现代恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

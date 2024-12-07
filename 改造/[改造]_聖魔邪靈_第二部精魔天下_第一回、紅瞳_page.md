@@ -7,7 +7,7 @@ TXT 下载: [[改造]_聖魔邪靈_第二部精魔天下_第一回、紅瞳.doc]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《聖魔邪靈》系列小说的第二部第一回，作者为白紙。内容围绕角色丽芙及其同伴碧莉丝公主的冒险故事。小说开始于丽芙姊妹前往东之国参加婚礼的途中，意外落入妖魔设下的陷阱中。丽芙被附身后，引发了一连串凶险事件，造成东之国王室的动荡。碧莉丝公主为了拯救丽芙而努力，但却因力量影响使情况更加复杂。此外，情节中涉及身体变换、操控、魔化及冒险元素。故事中扭转的角色关系及复杂的魔法设定，为后续的剧情发展埋下了伏笔，充满悬疑与惊险的气氛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_聖魔邪靈_第二部精魔天下_第一回、紅瞳.doc]
 | Size            | 81920 bytes                           |
 | MD5             | 6e2649f50df84541a198251a54bbbe18                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 白紙                               |
+| Region          | 台湾                               |
+| Date            | 2013-07-17                                 |
+| Tags            | 性转, 魔法, 冒险, 变身, 跨性别, 自我认知, 女主角, 妖魔, 禁忌恋, 权力斗争, 青春, 幻想, 血魔, 精魔, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

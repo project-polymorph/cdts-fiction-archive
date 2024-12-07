@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_原神：琴与丽莎的皮物奏鸣曲【3-4】.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇涉及角色性别转换、伪娘与跨性别的小说，名为《原神：琴与丽莎的皮物奏鸣曲》。在这个故事中，角色罗泽在深夜的骑士团办公室遭遇了复杂的情感纠葛，因为他试图利用魔神匕首的力量控制琴的身体，而丽莎则选择以牺牲自己的方式帮助他。丽莎将自己化作一件皮物，赋予罗泽新的身份，让他得以在琴和她之间选择。在丽莎牺牲后，罗泽不得不承受她的记忆与情感，这一过程中描绘了复杂的角色关系、对自我身份的探索以及情感的纠葛。通过丽莎的皮物，罗泽体验到身体的变化，也带来了对于性别认同的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_原神：琴与丽莎的皮物奏鸣曲【3-4】.doc]([皮
 | Size            | 78848 bytes                           |
 | MD5             | 3f411f035d2537c69cfa80db5f3318b4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 角色扮演, 皮物, 奇幻冒险, 情感纠葛, 泪水与牺牲, 二次元幻想, 魔法, 轻小说, 青春, 幻想世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

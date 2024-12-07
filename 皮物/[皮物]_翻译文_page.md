@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_翻译文.docx]([皮物]_翻译文.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一部涉及跨性别主题的小说，讲述了一个名为小山琴美的初中生，在一天放学回家的路上遭遇一名中年男性的绑架。她被迫吞下药丸后，意识逐渐模糊，最终醒来发现自己被捆绑在一个实验室中。故事描绘了小山琴美在被邪恶男性控制身体后，意识与身体分离的痛苦经历。文章包含了许多关于性别认同和身体控制的元素，通过引导读者深入体验角色所面临的困境和心理冲突。文中提到的关键情节如被迫吃药、身体被占据的描写，展现了角色内心的绝望与无奈，同时也透露出对身份认同的思考以及对他人意图的无力反抗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_翻译文.docx]([皮物]_翻译文.docx)
 | Size            | 21973 bytes                           |
 | MD5             | d2914db0ddc0f3c59540b1ecfa623698                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 身体控制, 药物影响, 自我认知, 反乌托邦, 心理恐怖, 邪恶男性, 身份认同, 恐怖, 成人内容, 暗黑幻想, 实验室, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

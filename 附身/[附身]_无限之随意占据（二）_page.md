@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无限之随意占据（二）.docx]([附身]_无限之随
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《无限之随意占据（二）》讲述了野村大河与一个神秘的系统之间的互动。在故事中，野村大河发现自己可以通过视觉链接探索其他人的感知和能力，而他的任务似乎是通过这种方式学习他人的匠心。在一个繁忙的商业街，野村大河首次使用这个系统，试图链接到一位主厨的视野。但随着链接的深入，他意识到自己对身体的控制变得模糊，甚至出现危险情境，比如主厨因失去控制而遭遇意外。故事探讨了通过他人视角获取知识的过程，甚至引发了一场关于身体与意识控制的讨论。文本中提到的描写与情节令人深思，比如野村大河在链接与现实之间迷失的经历，以及系统中存在的身体控制开关引起的混乱。该作品涉及到性别认同与角色转换等主题，适合研究跨性别与变身类的文学作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无限之随意占据（二）.docx]([附身]_无限之随
 | Size            | 21935 bytes                           |
 | MD5             | a2c7dd2e3fffb00639c16aba35e824a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 心灵链接, 自我探索, 匠心系统, 性别认同, 失去控制, 社会互动, 视觉共享, 学习与成长, 逆转角色, 灵魂转移, 幻想主题, 二次元文化, 超能力, 都市冒险, 美食文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

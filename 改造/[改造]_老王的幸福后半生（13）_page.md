@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老王的幸福后半生（13）.doc]([改造]_老王的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一部关于伪娘与变身的小说，故事围绕老王和齐梦伟一家展开。齐梦伟经历了性别转换，内心充满了自我认同的冲突，而老王则处于这一复杂家庭关系的中心。故事开头，老王被齐梦伟的父母俩用美丽的肉体诱惑而惊醒，剧情随即转向他们之间复杂的情感与心理斗争。齐梦伟虽然身体变成了女性，却依然承受着作为男子的心理压力，同时与曾经的自我产生了冲突。老王试图维护与齐梦伟一家之间的良好关系，并暗示他和齐梦伟之间的情谊是深厚的，但是随着齐梦伟逐渐意识到自己的想法以及对老王的仇恨，故事引发了紧张的对峙与情感斗争。齐梦伟与母亲冯木兰之间的互动也展示了家庭关系中的复杂性，正如冯木兰努力保护齐梦伟，但齐梦伟却始终无法释怀内心的仇恨与痛苦。整个故事充满着探索自我、性别认同等主题，包含了情感的挣扎与性别转换的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老王的幸福后半生（13）.doc]([改造]_老王的�
 | Size            | 37888 bytes                           |
 | MD5             | 4951370ca748830379defb35ed409094                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 家庭关系, 情感冲突, 性别认同, 自我探索, 复杂情感, 酒精的影响, 军中精锐, 内心挣扎, 爱与仇恨, 醉酒美人, 女性角色, 家庭纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

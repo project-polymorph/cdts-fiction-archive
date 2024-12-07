@@ -7,7 +7,7 @@ TXT 下载: [[变装]_酒后的立场交换.docx]([变装]_酒后的立场交换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含一段关于夏洛特和他的女友莲莉之间的亲密对话，描述了两人在冬天的夜晚，共同享受浪漫约会的场景和随后的酒吧活动。在酒精的影响下，他们的谈话逐渐变得调皮，涉及到了性别角色和身体认同的话题，明确指出夏洛特虽然生理性别为男性，但却拥有女性的外观和打扮。莲莉在此过程中引导夏洛特尝试穿着女性的服饰，包括高跟鞋、尼龙裤袜及情趣内衣，强调了这段经历对他们两人的关系和自我意识的影响。整个文本倡导了性别流动性和自我接受，描绘了他们在性别表现中所产生的乐趣与探索，同时也涉及了一些成年人的情感与性方面的主题。文中有对角色状态和情绪的细腻描绘，使得整段对话既有趣又富有戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_酒后的立场交换.docx]([变装]_酒后的立场交换
 | Size            | 44711 bytes                           |
 | MD5             | 670c485c022b1160116c19df679a97f7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 跨性别, 伪娘, 男娘, 亲密关系, 自我认同, 性别探索, 酒精影响, 情趣内衣, 女装, 青春, 浪漫, 二次元, 情感关系, 玩笑, 性别流动性, 女性形象, 男性视角, 装扮                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

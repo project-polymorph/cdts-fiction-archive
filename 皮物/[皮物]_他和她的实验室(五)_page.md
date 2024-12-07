@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_他和她的实验室(五).doc]([皮物]_他和她的实�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部关于伪娘、变身与跨性别情节的小说章节，包含了对角色身份和性别的探索。故事围绕小娅和小菲的复仇、被绑架与角色调换等情节展开。在小娅失去意识后，她被关在房间里，经历了一番情感与身体的抵抗，而小菲也在进行着复杂和黑暗的代入。情节逐渐变得扭曲与变态，包含了强烈的控制与支配关系。故事中的角色通过扮演他人，探索了母女关系与权力不平等的情节，同时也涉及了邪恶的调教与变装情节。这样的书写不仅展示了角色的感官刺激和心理变化，还反映了更深层次的性别认同和自我认知的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_他和她的实验室(五).doc]([皮物]_他和她的实�
 | Size            | 40448 bytes                           |
 | MD5             | ca546bdc2e4c881c88ebcc59042a1549                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 调教, 强奸, 百合, 逆后宫, 身份认同, 心理探索, 邪教幻想, 人身控制, 性爱, 母子关系, 强迫而爱, 自我认知, 受虐, 病态心理, 暗黑幻想, 禁忌之爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

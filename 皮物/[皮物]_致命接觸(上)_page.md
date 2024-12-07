@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_致命接觸(上).doc]([皮物]_致命接觸(上).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《致命接触(上)》是一部包含奇幻与恐怖元素的性转小说。故事情节围绕两个孩子，奕帆和筱柔，展开的冒险与惊悚。在1986年，随着哈雷彗星的到来，某种神秘的透明卵状物落到了地球上，尤其是在A市的一处路段，成为了故事的起点。当奕帆和筱柔追逐他们的小狗时，意外发现了被漠视的隔板下的可怕景象。筱柔在试图揭开真相时遭遇了异变，逐渐被神秘力量摧毁，甚至身体开始萎缩。故事通过奕帆的惊恐反应，再现出成长过程中对未知与恐惧的天真的反应，伴随着对姐姐的保护欲和失落感。文中交错着童真与异化的恐怖，细致描绘了一场关于生存、家庭和自我认同的心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_致命接觸(上).doc]([皮物]_致命接觸(上).doc)
 | Size            | 722944 bytes                           |
 | MD5             | edb43397ee0be5455d034068b3b65a89                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 童话, 奇幻, 恐怖, 家庭, 冒险, 自我认同, 生存, 未知生物, 奇幻生物, 恐怖故事, 儿时梦想, 童年回忆, 成长, 人性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

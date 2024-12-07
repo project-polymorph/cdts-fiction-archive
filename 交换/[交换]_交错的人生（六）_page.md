@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交错的人生（六）.doc]([交换]_交错的人生（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件以第一人称的视角，讲述了一个名为罗悦的女高中生在经历性别转换后，变成了男大学生的复杂心理和生活体验。故事中，罗悦逐渐适应并接受了自己作为哥哥的身份，然而她内心对于自己身份的混乱与挣扎从未停止。她在享受新身分带来的生活的同时，也在内心深处承受着对自己真正身份的压抑和渴望。罗悦体验到在他人眼中作为男性的全新生活，却又深陷于内心的欲望与道德的挣扎之中。罗悦的故事中充满了对自我认知、性别认同的探索与疑问，以及对家庭、欲望和社会角色的思考。文本中不乏描绘罗悦在家中与母亲、妹妹的互动，以及她如何面对自己性别身份带来的变化的细腻情感。一开始她对成为哥哥感到羞愧，但随着时间的推移，她逐渐迷失在这个身份之中，并沉迷于哥哥的生活方式和欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交错的人生（六）.doc]([交换]_交错的人生（�
 | Size            | 56320 bytes                           |
 | MD5             | 90d938c94177f8a71b95b72ffe3e866a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 家庭关系, 内心冲突, 身份认同, 欲望挣扎, 自我探索, 角色扮演, 二次元, 变身小说, 男性视角, 情感纠葛, 青春成长, 性别认同, 社会角色, 心理小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

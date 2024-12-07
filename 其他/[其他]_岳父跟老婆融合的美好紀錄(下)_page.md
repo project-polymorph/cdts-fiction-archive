@@ -7,7 +7,9 @@ TXT 下载: [[其他]_岳父跟老婆融合的美好紀錄(下).doc]([其他]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档记录了一个关于岳父和女婿之间关系的故事。故事通过第一人称视角描绘了一段禁忌而欲望强烈的情节。在开始时，岳父正在工作，而女婿在家中等待着前往公司，试图给岳父一个惊喜。在无意中进入女厕所后，女婿与岳父之间展开了一段激情的交流。文中对情感互动进行了细腻而露骨的描写，描绘了两人之间的身体接触及心理变化。
+
+故事中包含大量直白的性描写，模拟了一种情感与肉体交融的状态，展现了男女主角对彼此身体的渴望和情感上的交织。随着情节的发展，他们的交流越发深入，岳父好几次表现出对女婿的依赖与渴望，而女婿同样展现了对岳父身体的迷恋。故事充满着禁忌和快感，描绘了一个复杂而富有情感纠葛的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_岳父跟老婆融合的美好紀錄(下).doc]([其他]_�
 | Size            | 45568 bytes                           |
 | MD5             | 656bf24f63bbb0306d3bf1d95c4d88a2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 强奸, 乱伦, 调教, 淫荡, 逆后宫, 女体化, 成人小说, 性转, 变身, NTR, 奇幻, 都市, 禁忌关系, 情感探索, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_AV改变我（9000字上集）.doc]([变性]_AV改变我�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描写了一名男性角色奈奈因经济压力而进入成人影片（AV）行业的故事。随着情节的推进，奈奈面临公司的要求：进行整容手术和服用雌性激素，以便转变为女性形象，成为人妖演员。故事开头提到奈奈的经济困境，以及他在AV行业的首次拍摄经历，由于不符合导演的要求而被放弃。为了不失去继续工作的机会，奈奈在彷徨之中做出了接受整容和转性别的决定。小说中详细描绘了奈奈的心理变化、身体变化和对女性生存方式的逐步适应，过程中既有内心的挣扎，也包含了身体的变迁，包括他对手部和身体的种种变化承认，以及与其他人妖演员之间的互动。而随着训练的深入，奈奈逐渐适应了这种新身份，甚至在社交中开始享受女性带来的关注和体验。整篇故事探讨了性别认同、自我探索以及在压迫与期待下的顺应和转变，引导读者思考性别、社会角色以及个人选择之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_AV改变我（9000字上集）.doc]([变性]_AV改变我�
 | Size            | 52224 bytes                           |
 | MD5             | 00ab064fe1f17c726b49717ca4fc1c6a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身, 性别认同, 成人内容, 性转, 心理变化, 自我探索, AV行业, 整容手术, 雌性激素, 人妖演员, 女性化, 男性尊严, 女性体验, 社交压力, 职场竞争, 自我认同, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

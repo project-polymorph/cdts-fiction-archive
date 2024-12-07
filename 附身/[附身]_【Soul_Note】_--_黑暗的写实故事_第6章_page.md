@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【Soul_Note】_--_黑暗的写实故事_第6章.doc]([附
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《黑暗的写实故事》第六章，主要讲述了男主角通过一本神秘的笔记本实现了“附身”的能力，开始探索与异性之间的关系。在校园生活中，男主经历了冲动的欲望，与身边朋友的互动，以及对性别转换后新生活的适应和探索。剧情中他观察班级女生，对每个细节充满好奇与探索。在一次次穿越感与现实生活的交织中，男主对自己身份的思考不断深化，情感的纠葛与性别认同的冲突交织在一起。内容涉及对女性身体的细致描写，展示了性欲与身份认同的复杂关系，反映出主角的性别认同与社会环境的摩擦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【Soul_Note】_--_黑暗的写实故事_第6章.doc]([附
 | Size            | 81408 bytes                           |
 | MD5             | 98c2f5d554af59eddef1685ee56d7f93                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 校园, 性别认同, 探索欲望, 青春期, 异性关系, 自我认知, 性别冲突, 内心挣扎, 伪娘, 强烈欲望, 堕落, 禁忌, 情感纠葛, 青春成长, 二次元, 幻想, 现实, 生活变化, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

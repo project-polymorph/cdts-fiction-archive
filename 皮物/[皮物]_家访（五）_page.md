@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_家访（五）.docx]([皮物]_家访（五）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《家访（五）》，是一篇以伪娘和跨性别为主题的小说。故事发生在沈老师的办公室，主要人物包括沈敏、方英（沈敏的母亲）、雪丽（沈敏的女儿）和李淑婷（班上的学习委员）。情节围绕着沈老师意外被揭露其性别秘密展开，沈老师被绑在办公室中，面临两个女学生的惊讶与冲击，尤其是李淑婷对沈老师身份的无法接受。故事中包含了对性别认同和性别转换的探讨，描绘了复杂的情感纠葛和性幻想情节。语境中不乏禁忌话题，涉及到令人困惑的性爱和权力动态。在方英和雪丽的操控下，沈老师的真实性别被揭示，进而发展出一系列性暗示和情感纠缠，最终使得隔离的道德界限模糊不清。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_家访（五）.docx]([皮物]_家访（五）.docx)
 | Size            | 23683 bytes                           |
 | MD5             | 66e7f96e73fb2768a7f3fc4a42a4725d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 性转, 变装, 禁忌, 教师与学生, 校园, 性幻想, 心理冲突, 情感纠葛, 权力动态, 强奸, SM, 百合, 药娘, 双性恋, 身体异化, 性别角色, 人皮, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

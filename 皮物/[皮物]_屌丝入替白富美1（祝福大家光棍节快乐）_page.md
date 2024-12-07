@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_屌丝入替白富美1（祝福大家光棍节快乐）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于光棍节的伪娘 TS 变身与跨性别小说，讲述了一个名为老郑的年轻人在光棍节前夜的孤独感受与经历。故事中，主角在与朋友刘兵的对话中，表达了对单身生活的无奈与对爱情的渴望。随着情节的发展，老郑在街上意外跟踪了校花秦宁宁，发现她的秘密生活，甚至目击了她被绑架的过程。主角在面对危险时，内心产生了复杂的情感与自我救赎的欲望。由于小说涉及性别转换与变身的主题，描绘了一些与性相关的情节，同时也反映了社会对光棍一族的偏见以及对美好爱情的追寻。整体上，文章通过这种复杂的情节设置，探讨了性别认同与个人救赎的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_屌丝入替白富美1（祝福大家光棍节快乐）.do
 | Size            | 25492 bytes                           |
 | MD5             | d533626e714278ab05388530066011b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 变身小说, 跨性别, 光棍节, 青春, 爱情, 绑架, 校园, 自我探索, 孤独, 欲望, 情感冲突, 性别认同, 混乱, 成长, 社会问题, 心理战, 奇幻, 都市异能                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

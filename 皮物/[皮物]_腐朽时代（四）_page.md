@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_腐朽时代（四）.doc]([皮物]_腐朽时代（四）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名商会会长比尔马在面临教会军队干扰和生意困扰时的故事。小说描述了会长与一位自称教会成员的女性朗希尔德的会面。朗希尔德不仅外貌吸引，且手持圣剑，象征着她的特殊身份。在交流中，朗希尔德请求商会提供粮草，情节充满了比尔马对朗希尔德身体的欲望与内心的挣扎。这部作品描绘了一个充满幻想与奇幻元素的世界，其中涉及教会、商会和革命等复杂的社会关系。故事中包括蓝色荧光的圣剑的出现，使情节更具有神秘色彩。后续描写了难民的悲惨处境和对教会的不满，深化了社会矛盾的主题。整体而言，文本中含有大量涉及性别与欲望的描写，是一部具有浓厚二次元色彩的变身与跨性别题材小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_腐朽时代（四）.doc]([皮物]_腐朽时代（四）.
 | Size            | 50688 bytes                           |
 | MD5             | 170d6b8ccde85535b8052f894da3e289                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 幻想, 奇幻, 宗教, 社会冲突, 权力, 欲望, 革命, 教会, 商会, 女权, 角色扮演, 成长, 自我探索, 剧情引导, 社会批判, 人性探索, 伦理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

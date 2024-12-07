@@ -7,7 +7,7 @@ TXT 下载: [[附身]_拿什么拯救你，我的爱人（二）.doc]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于性别转化与跨性别主题的小说，围绕着名为新月会所的设定展开，描绘了一场特殊的拍卖会。拍卖会上，主人公新月将一位顶级偶像欧阳筠筠作为商品进行拍卖，并通过药物与催眠的方式实现角色附身的情节。这个故事探讨了欲望、身份认同与性别流动之间的复杂关系，涉及到的剧情包括角色的性别转变、欲望的追寻，以及在这种交易中所包含的潜在伦理问题。拍卖会上，客户们对于欧阳筠筠这个“商品”表示热烈欢迎，最终获胜者通过药物进入她的身体，引发一连串戏剧性的转变与情感冲突。人物对话中提及了不少妇女“商品”的设定以及背后的阴暗交易，整体情节充满悬疑和诱惑，具有强烈的戏剧性和表现张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_拿什么拯救你，我的爱人（二）.doc]([附身]_�
 | Size            | 40448 bytes                           |
 | MD5             | 0ee6dd52c2195387b6ba46cebb3a51a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 拍卖会, 欲望, 角色附身, 药物, 混血少女, 偶像, 自我认同, 阴暗交易, 情感冲突, 性别流动, 身份认同, 幻想, 刺激, 宠辱不惊, 社会问题, 性别政治                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

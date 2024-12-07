@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_月神_——_14_【邪恶篇×下】.docx]([皮物]_月�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘主题的变身小说，讲述了主人公林杰与女友薇盈盈的禁忌之恋。在故事开头，林杰被描绘为一名清纯而内敛的大学生，尽管他有许多女性同学的青睐，但与薇盈盈的感情日渐倾深。在一个特别的晚上，薇盈盈为林杰准备了一些惊喜，在温柔的气氛中两人逐渐升温，开始探索彼此的身体与情感。故事中融入了变装、性别认同与自我探索的元素，表现出角色在情感与性欲中的挣扎与满足。随着情节的发展，薇盈盈展现出了她的变身性质，融合了恐怖与情色的特征。作品中包含了丰富的感官描写和强烈的情感冲突，使得这一段青春的禁忌恋情在幻想与现实的交错间愈发迷人。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_月神_——_14_【邪恶篇×下】.docx]([皮物]_月�
 | Size            | 27654 bytes                           |
 | MD5             | 34dc41dd8cb087ddb7161e4b5dd79994                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 青春校园, 恐怖片, 禁忌恋, 自我探索, 感官描写, 情感冲突, 魔法, 奇幻, 纯爱, 调教, 百合, 女体化, SM, 变嫁, 强奸, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

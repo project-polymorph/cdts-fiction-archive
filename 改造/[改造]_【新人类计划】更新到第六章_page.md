@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【新人类计划】更新到第六章.doc]([改造]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《新人类计划》，属于伪娘与变身小说类型，描绘了一个男主角郑奕的奇幻经历。故事开始时，郑奕因过劳在夜总会工作中突然晕倒，醒来后发现自己与一名贫乳短发少女全身赤裸地躺在草丛中。他惊恐地意识到自己的身体发生了怪异的变化，变得娇嫩纤细，甚至器官也变得不一样。随着故事的发展，郑奕的身体逐渐吸引着他，他与少女之间产生了复杂而微妙的情感，几番纠结中他们的关系渐渐深入。文中包含大量关于身体变化、性别认同以及性的探索情节，涉及令人惊艳的描写，展现了角色在身份和感情上的冲突和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【新人类计划】更新到第六章.doc]([改造]_【�
 | Size            | 88576 bytes                           |
 | MD5             | 6daf1931ca1be8ef7abf8477ad01ba99                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 情色, 强烈情感, 奇幻换身份, 身体转变, 性欲觉醒, 青春迷茫, 幻想爱情, 二次元, 魔法少女, 精神冲突, 性别混淆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

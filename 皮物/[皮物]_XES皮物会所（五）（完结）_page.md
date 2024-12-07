@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_XES皮物会所（五）（完结）.doc]([皮物]_XES皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一部关于跨性别角色与性转变身的小说，内容围绕着主要角色秦月(秦明)与她的外甥女秦思语之间的复杂关系，以及她们在XES会所的经历展开。故事中，秦月经历了性别转换，她的身体感知与身份认同出现了混乱和冲突。文中描写了秦月在家中与外甥女的亲密互动，但却被会所的老板妖梦以监控和惩罚的方式打断，并展开了一系列强烈的性别和性行为的描写。故事情节包含了大量限制级内容，如人与人之间的权力关系、性欲的被动与主动的交错、以及对自我身体认知的扭曲与探索。文中多次出现对性欲的直白表达、强烈的色情场景以及情感的纠葛。尽管文字中包含了许多不适合未成年人或敏感受众的内容，但这些情节和角色的冲突也反映了对性别认同，自我探索和人际关系的深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_XES皮物会所（五）（完结）.doc]([皮物]_XES皮�
 | Size            | 59904 bytes                           |
 | MD5             | 13e48cb5c16dc2162037c1899a94e1e6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 性转, 伪娘, 男娘, 强烈色情, 虚拟现实, 心理冲突, 权力关系, 自我探索, 身体变换, 家庭关系, 青春成长, 同性恋, 成人内容, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

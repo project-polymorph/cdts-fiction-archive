@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_通皮术系统.doc]([皮物]_通皮术系统.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《通皮术系统》主要描绘了主人公林龙在意外重生后所经历的事件。在初中同学聚会上，林龙因为从车祸中故去而回到了18年前的自己，而重生的地点却是一间女厕所，且没有衣物可穿。林龙在醒来后，脑海中响起了‘通皮术系统’的声音，声称可以帮助他变换外形，但必须满足一定条件才能启动操作。故事中充满了自我探索和性别认同的元素，林龙试图利用这个系统来解决困境，并经历了一系列的心理斗争。内容涉及伪娘、变身、性别转换等主题，并探讨了林龙在面对身体与性别认同时的挣扎和思考。文中出现的强烈情节与角色心理刻画，展示了复杂的性别认同与欲望主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_通皮术系统.doc]([皮物]_通皮术系统.doc)
 | Size            | 36352 bytes                           |
 | MD5             | dd1d5a6add7f1679dcd48927ad59ebae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 通皮术, 变身小说, 重生, 伪娘, 性别转换, 自我认同, 幻想, 二次元, 年轻时代的冲突, 心理斗争, 男变女, 变装, 青春文学, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

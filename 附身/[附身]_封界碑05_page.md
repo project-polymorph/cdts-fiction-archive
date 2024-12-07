@@ -7,7 +7,7 @@ TXT 下载: [[附身]_封界碑05.doc]([附身]_封界碑05.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部性转和跨性别主题的小说《附身_封界碑05》的章节内容。故事围绕主角陆冥展开，他意外地附身在一位17岁女孩陆紫微的身上。陆冥在尝试适应新的身份和生活时，不禁对这样的变化感到困惑和不安。他犹豫是否走进自己‘家’的大门，一方面想要继承陆紫微的生活，另一方面又为夺走她的一切而感到愧疚。在电话中接听父亲的信息时，他感受到家庭的温暖与压力。陆冥在与家人亲密接触后，不仅要面对性别角色的转换，还要适应与家人的关系，尤其是和其化妆成女孩子的弟弟陆紫凌的复杂情感。这个过程充满了幽默与戏剧性的应对，也涉及到对新身份的探索和适应。文本精细描绘了情感冲突和角色之间的互动，从而突显了性别认同和自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_封界碑05.doc]([附身]_封界碑05.doc)
 | Size            | 36352 bytes                           |
 | MD5             | 5b28694624f1c6518e875f2e1d07c884                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 附身, 家庭关系, 自我探索, 情感冲突, 角色扮演, 青春, 心理变化, 性别认同, 二次元, 男娘, 伪娘, 成长, 幻想小说, 奇幻, 男性视角, 女性视角, 弟弟                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

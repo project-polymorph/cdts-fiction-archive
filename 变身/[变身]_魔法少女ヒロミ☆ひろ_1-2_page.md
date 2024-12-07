@@ -7,7 +7,7 @@ TXT 下载: [[变身]_魔法少女ヒロミ☆ひろ_1-2.docx]([变身]_魔法�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档《魔法少女ヒロミ☆ひろ》的内容围绕一个角色——鹰志，讲述了他与魔法少女变身之间的故事。文章开头，角色经历了一种奇幻的变身，变成了一名女性魔法少女。变身后，他感受到身体的巨大变化，对新身份的认同及冲突成为情节的主要探索方向。故事涉及鹰志与其他角色之间的互动，尤其是他对变身后形象的迷惑与好奇。随着故事发展，鹰志开始逐渐接受新的身份，同时伴随着自我认知的冲突和探索。文中还包含了一些限制级内容，描绘了角色在变身后的心理感受和身体反应，展现出转变过程中的羞涩与欲望。该文档不仅展示了性别认同与角色转变的主题，也涉及了一些理想化的魔法少女形象和动态角色关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_魔法少女ヒロミ☆ひろ_1-2.docx]([变身]_魔法�
 | Size            | 20771 bytes                           |
 | MD5             | 6aa982f13bd7c6ebaae90fa1e3e4df79                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法少女, 跨性别, 自我探索, 性别认同, 奇幻, 二次元, 少女心, 角色扮演, 个体冲突, 心理转变, 身份认同, 青春成长, 性别转换, 魔法, 男性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

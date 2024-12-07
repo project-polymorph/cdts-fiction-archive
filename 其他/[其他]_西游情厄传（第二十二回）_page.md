@@ -7,7 +7,7 @@ TXT 下载: [[其他]_西游情厄传（第二十二回）.docx]([其他]_西游
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《西游情厄传》第22回，内容主要围绕逍遥王与其徒弟妩箜的情感与性关系展开。文中详细描写了妩箜在逍遥王的引导下，从早期的羞怯逐渐转变为主动亲密互动的过程。故事中包含了逍遥王对妩箜的调教和药物的使用，使妩箜的身心体验不断变化，并引入了其他女子妩婧与妩媆的参与，体现出一种多重的、复杂的性别与性爱关系。文中强调了角色之间的肉体欲望及情感依赖，以及通过饮酒嘉年与欢愉活动，此情此景浓郁而细腻。整体文学风格隐喻与直接描写并存，反映出古代文化中关于性、权力及身份的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_西游情厄传（第二十二回）.docx]([其他]_西游
 | Size            | 19550 bytes                           |
 | MD5             | a922521f961e8a5724c6e84c074399d6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 强奸, 调教, 逆后宫, 炎热夏季, 古代背景, 欢愉活动, 情感依赖, 饮酒欢聚, 角色自我探索, 三角关系, 剑与魔法, 个体身份, 欲望与权力, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

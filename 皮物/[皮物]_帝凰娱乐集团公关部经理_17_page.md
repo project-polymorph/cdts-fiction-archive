@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_17.docx]([皮物]_帝凰
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个名为晓燕的角色在跨性别状态下工作的生活描述。故事中晓燕在晓乐的公司工作，期间与身边人的关系逐渐发展，同时也涉及了与田海和晶晶等人的复杂互动。在工作近一年的时间里，晓燕经历了性别身份的认知与矛盾，与晓乐的亲密关系引发了性别认同的思考，尤其是在晓乐向她表白之后产生的内心挣扎。晓燕对于自己作为一个男性的身份和以女性形象出现的内心冲突进行了一系列的反思。与此同时，她收集了“人皮扩张液”的配方并计划出国，与田海的交流使她了解到可能的解决方案。文中提及晓燕对自己破碎家庭状态的无奈，以及她与女儿晶晶的感情，在即将回忆起妻子忌日时，也流露出忧伤与孤独。整篇描写呈现了一个在双性别身份间挣扎的角色内心，以及对失去、关系、亲情和自我的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_17.docx]([皮物]_帝凰
 | Size            | 21408 bytes                           |
 | MD5             | eb2e4b1b1931d0f8b3b9b16fbd4f1702                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 伪娘, 变身, 自我探索, 情感复杂, 家庭关系, 职场生活, 女人身份, 内心挣扎, 爱情关系, 人皮扩张液, 自我认知, 出国旅行, 美国生活, 心理冲突, 情感表达, 社交互动, 服饰, 亲情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

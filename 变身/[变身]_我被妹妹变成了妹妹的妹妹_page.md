@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我被妹妹变成了妹妹的妹妹.doc]([变身]_我被�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一名年轻男子突然发现自己在梦中变成了女性的猫耳娘，通过与朋友的对话逐渐意识到自己的身份变化。故事以第一人称的视角展开，结合幽默和困惑，描绘了主角从男性到女性的转变过程以及随之而来的性别认同挑战。文中描绘了对身体变化的惊讶，包括失去喉结和变得更加柔软的身体感觉，以及如何面对这种突如其来的变化。主角一边尝试接纳新身份，一边引入与朋友的互动，探讨性别和自我认同的主题，同时还夹杂着一些搞笑和轻松的情节。文中充满了流行文化的元素和网络用语，展现了年轻人在面对不确定性时的迷茫和幽默。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_我被妹妹变成了妹妹的妹妹.doc]([变身]_我被�
 | Size            | 169984 bytes                           |
 | MD5             | 23bf717e8f4e809907f5710733c7bea7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | WAWAWAW                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-12-07                                 |
+| Tags            | 变身, 猫耳娘, 性别认同, 幽默, 青春成长, 二次元, 自我探索, 跨性别, 友情, 性转, 幻想, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

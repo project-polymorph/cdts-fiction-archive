@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_XES皮物会所（二）.doc]([皮物]_XES皮物会所（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘与跨性别主题的小说，描绘了角色苏珊在会所工作的故事。故事背景设定在充满性暗示的环境中，角色们的互动充满了紧张与冲突。苏珊身着诱人的服装，她与老板妖梦的关系呈现出复杂的情感纠葛。文中详细描绘了苏珊对自身形象的认同与渴望，涉及大量敏感内容，展现了她对女性身体的渴望与内心的挣扎。整体情节紧凑，充满戏剧性，带有明显的性别转换与性意识觉醒的主题。文件中还包括一些带有色情性质的情节与细节描写，体现了角色们对自我身份与欲望的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_XES皮物会所（二）.doc]([皮物]_XES皮物会所（�
 | Size            | 70144 bytes                           |
 | MD5             | 20c515443f5953678ec1f34dc192fc9d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别转换, 欲望探索, 情感冲突, 性意识觉醒, 强烈情感, 性感女郎, 会所文化, 自我认同, 高潮体验, 性描写, 成人内容, 黑丝, 深V裙, 角色心理, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

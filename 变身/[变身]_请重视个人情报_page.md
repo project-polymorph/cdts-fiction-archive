@@ -7,7 +7,7 @@ TXT 下载: [[变身]_请重视个人情报.docx]([变身]_请重视个人情报
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个年轻男性在无意中访问一个声称可以获得他所希望的"个人情报"的网站后，经历了一系列奇怪事件的故事。故事开始于主角在浏览色情网站时，发现了一个涉及个人信息转让的网站。试图查询一个女学生的相关信息后，他意外收到了她的学生证，接着发生了身体的变化。他发现自己的头发颜色和长度都发生了变化，且体型也在不断地向目标女孩靠拢，最终变成了那位女孩的模样。整个故事充满了性别身份认同和身体变换的探讨，涉及了对个人情報侵犯的恐惧以及性别认同的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_请重视个人情报.docx]([变身]_请重视个人情报
 | Size            | 31038 bytes                           |
 | MD5             | ec110d2ee704ccf12d6080d5d4e38779                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | tsfのF3                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 身体变形, 二次元文学, 伪娘, 校园小说, 奇幻, 变身, 网络诈骗, 性别转换, 男性视角, 心理变化, 青春成长, 奇异事件, 角色变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

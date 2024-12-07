@@ -7,7 +7,7 @@ TXT 下载: [[变身]_损友的奇葩超能力（五）.docx]([变身]_损友的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇伪娘 TS 变身与跨性别相关小说，讲述了主人公在斗罗大陆的奇特经历。故事开始于比比东对林云的攻击，她命令鬼斗罗按住林云，并准备施加催情药。在旁观的千寻疾试图劝阻时，氛围逐渐变得紧张而色情。主角在被压制的状态下，陷入了伪娘角色的性别扭转和自我认知的冲突之中。随着事件的发展，描述了主角在身体变换后的羞耻感，以及无法反抗的情节。小说中出现各种变身与性别认同的讨论，并融入了强奸、催眠、调教等限制级内容。最终，故事以角色变身和超能力的设定，造成了极度混乱的局面，包含了一些较重的色情描写和角色间复杂的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_损友的奇葩超能力（五）.docx]([变身]_损友的
 | Size            | 25168 bytes                           |
 | MD5             | eba3c466940c5838a510f58afcec8a8c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 情色, 强奸, 催眠, 调教, 变嫁, 百合, 爱情, 魔法, 角色扮演, 性别转换, 超能力, 羞耻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

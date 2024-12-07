@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人皮巧克力（引子）博客漫画联动.docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及伪娘和跨性别变身主题的小说，主要讲述了一个机械专业的大学生赵亮与他的女朋友周娟及同班同学王晓琪之间复杂的情感互动。故事开始于赵亮回到自己的租屋，期待与女朋友见面，却意外发现王晓琪在他的房间里，而周娟因为有事未能到来。接下来，王晓琪对赵亮表达了倾慕之情，两人之间的紧张气氛引发了一系列情感波折。在故事的发展中，周娟突然出现，并误导赵亮以王晓琪的身份进行角色扮演。周娟还使用神秘的巧克力让二人实现了身体的变化，赵亮的皮肤被剥离，并被周娟穿上，这是一个充满幻想和惊悚色彩的情节，涉及自我身份认同、性别转换以及复杂的人际关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人皮巧克力（引子）博客漫画联动.docx]([皮�
 | Size            | 22510 bytes                           |
 | MD5             | d1c460551c65e96cac93752abe4eee96                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 人皮巧克力, 情感纠葛, 自我认同, 校园恋爱, 奇幻小说, 身体互换, 性别转换, 幽默, 魔法, 紧张感, 心理冲突, 年龄差                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

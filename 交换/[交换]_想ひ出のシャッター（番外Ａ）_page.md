@@ -7,7 +7,11 @@ TXT 下载: [[交换]_想ひ出のシャッター（番外Ａ）.docx]([交换]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为小说《想ひ出のシャッター（番外A）》的内容简介，主要讲述了女中学生梨菜和里香的身体互换故事。在这个故事中，她们的身体被两个中年男性朔义和秀德所交换，冒充她们生活。故事发生在关东地区，背景设定在一个寒冷的季节中，情节通过对话和描写探讨了身份认同及性别转换的主题。
+
+小说中，梨菜（实际上是朔义）与里香（实际上是秀德）在假冒身份的情况下相互交流，并借助特殊的相机进行身体的转变。故事含有露骨的描写，包括男女可交换的生理特征以及角色之间的互动，表现出一种变身和自我认同冲突的心理过程。
+
+在一些段落中，里香（秀德）用男性的语气与梨菜（朔义）交谈，描绘出身体交换带来的奇妙感觉，从冒充到建立新的认同感过程，情节包含了一些性的暗示和描述。例如，里香展示的照片中包含了男性生殖器的描写，还提到她们互相拍摄私密的情景，体现了某种程度的淫乱和探索。整体上，这是一部涉及变性、冒充和性别角色混淆的成人小说，面向特定小众群体。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[交换]_想ひ出のシャッター（番外Ａ）.docx]([交换]_
 | Size            | 27201 bytes                           |
 | MD5             | 70ad791fb38e66fc319d76e412025ee4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 搭杢煉瓦                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 跨性别, 伪娘, 男娘, 冒充, 青春校园, 性别认同, 自我探索, 特殊相机, 成人内容, 变装, 性趣, 裸体, 淫乱, 校服, 故事情节, 心理冲突, 身份混淆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

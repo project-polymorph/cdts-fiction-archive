@@ -7,7 +7,7 @@ TXT 下载: [[改造]_百变娇娃是大叔！第一章_怪大叔呀怪大叔.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一个名叫李浪的角色的变装与性别探索的故事。故事开始于李浪，17岁，正在努力解决物理问题，同时对自己复杂的性别认同产生了兴趣。他的表姐颜可与他同住，设定了许多规矩，尽管她的穿衣风格相对开放。在独处时，李浪对变装产生了极大的热情，偷偷在网上购买了多种女性服饰和道具，幻想着自己变身为女性的形象。李浪在准备变装的过程中，展示了他的内心挣扎与自我认同性别的强烈渴望。文中多次提到李浪尝试穿上丝袜、高跟鞋及连衣裙，并通过镜子的反射对自己变装的形象感到陶醉。故事情节涉及李浪未来对自身性别认同与社会角色的探索，同时也展现了一些限制级的情节，例如他对自己的身体反应的复杂心理。整体来看，这是一篇围绕性别转换与自我认同的小说，涉及变装、性别探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_百变娇娃是大叔！第一章_怪大叔呀怪大叔.do
 | Size            | 32768 bytes                           |
 | MD5             | 06133e5c7264af8db46c3bad88c176e0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 跨性别, 自我探索, 性别转换, 幻想, 内心挣扎, 青少年, 秘密, 压抑, 情感冲突, 成年后的期待, 姐姐与表弟关系, 都市生活, 心理变化, 社交偏差                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

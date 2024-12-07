@@ -7,7 +7,7 @@ TXT 下载: [[改造]_全力以赴_11_(2).docx]([改造]_全力以赴_11_(2).doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关小说中的一章，描绘了主角妮古拉在节礼日早晨醒来，打算面对亲戚的场景。故事中主要探讨了妮古拉作为跨性别者的自我认同和家庭关系的复杂性。她一边享受着穿着女性服装的感觉，一边又面临父母的传统观念和接受度的挑战。妮古拉与姐姐克莱尔的互动展示了亲情与认同之间的冲突与支持：克莱尔对妮古拉的转变感到不可思议，但也为她的美丽和勇气感到自豪。两人一起进行化妆和装扮，从而展现出对女性形象的探索与自信。文本涵盖了对性别认同、外表与自我表达的讨论，以及如何在家庭中处理这种转变的微妙动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_全力以赴_11_(2).docx]([改造]_全力以赴_11_(2).doc
 | Size            | 43105 bytes                           |
 | MD5             | fc57434ae5b07426833d8c79907b1fca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 自我探索, 变装, 家庭关系, 青春期, 亲情, 接受与抵抗, 女性形象, 社会互动, 个人成长, 自信, 时尚, 心理冲突, 情感关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

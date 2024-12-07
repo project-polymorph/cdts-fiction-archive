@@ -7,7 +7,7 @@ TXT 下载: [[变性]_我美丽的第二人生.doc]([变性]_我美丽的第二�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是YancyVoss创作的小说《我美丽的第二人生》的中文翻译。故事内容围绕高中生阿什利展开，他因车祸失去家人在悲痛中经历自杀未遂，在他的表弟爱德华的阻止下，开始探索自我认同和性别认同的问题。随着剧情的发展，阿什利试着穿上已故姐姐琳西的衣服，并渐渐接受自己的女性身份。在阿什利的内心挣扎与转变中，他与爱德华之间的情感逐步加深，展现了复杂的人际关系和深刻的情感挣扎。该文件详细描绘了角色的心理变化和情感发展，尤其是在接受性别转换过程中所经历的自我认知冲突。同时，故事也可能涉及一些敏感情节，包括性暗示和自我探索等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_我美丽的第二人生.doc]([变性]_我美丽的第二�
 | Size            | 40448 bytes                           |
 | MD5             | 780e1f6441a67f16c6766f2c5ee8a9d7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | YancyVoss                               |
+| Region          | 未知                               |
+| Date            | 2007-04-09                                 |
+| Tags            | 性转, 跨性别, 心理转变, 自我认同, 二次元, 青春, 家庭, 悲伤, 情感纠葛, 成长, 二次元文化, 个人探索, 性别表达                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

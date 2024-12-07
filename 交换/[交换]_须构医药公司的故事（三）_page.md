@@ -7,7 +7,7 @@ TXT 下载: [[交换]_须构医药公司的故事（三）.doc]([交换]_须构�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个关于性转的故事，围绕着一个名为曾波的角色展开。他在一次药物实验中因经历大量痛苦和身体变化而意外复活，过程中涉及到对尸体的身体部位的重塑和吸收能量的能力。故事描写了曾波在失去意识后逐渐清醒，自我认知发生了巨大的变化，身体从男性变为女性，面临生理与心理的双重压力。在苏醒后，他意识到自己具有吸收他人能量以达到生存的能力，这引发了他新的征程和对自我认知的探寻。同时，文中还涉及了与其他角色的互动以及对生命、死亡和性别认同的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_须构医药公司的故事（三）.doc]([交换]_须构�
 | Size            | 36864 bytes                           |
 | MD5             | 5b3addb1683b8be9e974b41c525f13ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 跨性别, 自我认知, 医学实验, 异能, 吸收能量, 身体裁剪, 停尸房, 女性身体, 心理冲突, 离奇经历, 角色重塑, 性别变化, 药物实验, 奇幻元素, 虚构故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

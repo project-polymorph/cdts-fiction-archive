@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_9.docx]([皮物]_帝凰�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘题材的小说，名为《帝凰娱乐集团公关部经理》第九章。从内容来看，讲述了一名生理性别为男性的角色在高跟鞋的影响下，被一名青年骚扰的经历。在情节中，角色试图用手机报警，但被骚扰者夺走手机，形成了一幕强迫和对抗的情节。角色在过程中体现出清纯和无辜的形象，而骚扰者则表现出猥琐与强硬。随着紧张局势的升级，角色以其男朋友的名义试图吓退骚扰者。小说通过这一情节探讨了社会性别和权力动态，以及角色的自我认知与抗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_9.docx]([皮物]_帝凰�
 | Size            | 22800 bytes                           |
 | MD5             | a2bd48ff6701d9b84a088223011ee3cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 骚扰, 高跟鞋, 紧张氛围, 角色抗争, 性别认同, 自我探索, 都市生活, 青春, 权力动态, 强迫, 情感纠葛, 青年的猥琐, 男朋友的支持, 社会挑战, 情节反转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

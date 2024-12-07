@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魂石6.docx]([皮物]_魂石6.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段关于李拓与小曼的对话，情节围绕角色李拓在异世界中的冒险经历。经过小曼的威胁，李拓不得不起来面对复杂的局势，小曼要求他去神族墓地寻找神族魂石。文本涉及角色的性别转变与自我认同的冲突。同时，李拓被迫穿上女装，体验到了异样的感受，引发了他的内心冲突和欲望。这一部分尤其突出李拓在面对变身带来的变化后的反应，以及在异界生存的艰难。文中提到的獠牙猪将与刘洋之间的恩怨则增加了故事的紧张感。此外，文中包含刺激与色情元素，涉及角色穿着和身体情感体验的描写，使得整体情节复杂而富有张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魂石6.docx]([皮物]_魂石6.docx)
 | Size            | 19306 bytes                           |
 | MD5             | 7933632876ebd9060ccb7b3afe00823b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 变身, 伪娘, 异世界, 身体交换, 魔法, 强奸, 淫荡, 调教, 逆后宫, 血统, 变嫁, 女体化, 雌堕, 游戏, 奇幻, 校园, 熟女, 变装, 春药                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

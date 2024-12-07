@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把我几年前的一篇文章再发出来吧.doc]([改造
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一个年轻男子林侃与一名名叫菲菲的女性租客之间的故事。故事开始于林侃的公寓，菲菲前来租房，表面和善可人，但背后似乎隐藏着秘密。随着两人的相处，林侃渐渐对她产生了好感，并帮助她安排了住处与生活。菲菲的真实身份是绿星公司的假面模特，因工作原因不得不穿着可怕的面具和皮肤，与外界的形象保持不符。菲菲在一次意外中受伤，为了不失去工作，她向林侃求助，请他代替她去公司工作。林侃被她的诚恳和坚强所打动，愿意承担这个任务，故事也深化了他们之间的情感和自我认同的主题。文章细腻地描绘了性别认同的复杂性，以及个人对自我与他人看法的挣扎和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把我几年前的一篇文章再发出来吧.doc]([改造
 | Size            | 89088 bytes                           |
 | MD5             | b9b1d2ea03e04ba62b886bc1fad4d7f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 假面模特, 个人探索, 爱情, 自我认同, 意外事件, 情感发展, 紧急情况, 都市生活, 租房, 女性角色, 男性视角, 青春故事, 心理冲突, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_美少女万华镜：巫女与侍女.doc]([改造]_美少�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于性转题材的小说，主要围绕角色凉太与其好友真树的故事展开。故事在秋叶原开始，凉太对偶像天堂彩夏充满崇拜，并在一个神秘与恐怖交织的情节中，目睹了偶像团体Shining Heart的成员被谋害。故事不仅描述了惊悚的现场，还揭示了凉太与真树之间的友谊，以及凉太所承载的家族传承的秘密。随着情节的发展，凉太的性别也发生了转变，揭示了自我认同与身份认同的复杂层面。同时，故事中混合了青涩的爱恋与悬疑的氛围，深刻展现了角色在极端情况下的心理变化与成长。诸如玉佩这样的物品也成为解开谜团的关键。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_美少女万华镜：巫女与侍女.doc]([改造]_美少�
 | Size            | 56320 bytes                           |
 | MD5             | 86cd22a851782a15a98ac05a5757d073                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 伪娘, 悬疑, 青春, 爱情, 自我探索, 偶像, 神秘, 惊悚, 家族传承, 阴谋, 恐怖, 身份认同, 秋叶原, 演唱会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

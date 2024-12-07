@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_TG物语——档案（一、二）.doc]([皮物]_TG物语
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《TG物语——档案（一、二）》，内容主要讲述了主角林芷荷的堕落故事。林芷荷是一名年轻漂亮的女学生，因富有的男朋友抛弃而失去经济支持，最终选择去夜总会当公关小姐以维持生活。文中详细描绘了林芷荷的外貌和其对新工作的思考，呈现了她在面试中与神秘女秘书的相遇，暗示了未来可能发生的阴暗情节。故事的前半部分集中描述了她在夜总会的经历及其心理变化，而后半部分则转向新警官李云的故事，他被分配到档案室工作，展现出他面临的职场困境与烦恼。整部作品围绕性别转换、身体与身份的认知冲突，探讨性别认同与社会角色的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_TG物语——档案（一、二）.doc]([皮物]_TG物语
 | Size            | 43008 bytes                           |
 | MD5             | 70c23bbf6997524ca163cf2609b0f353                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 夜总会, 堕落, 强奸, 女秘书, 警察, 档案管理, 自我认知, 情感挣扎, 性感装束, 身体交换, 都市小说, 社会现实, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新人报道《情感捕获》.doc]([皮物]_新人报道�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《情感捕获》是一部描绘了复杂人际关系与情感纠葛的小说。故事以流浪汉黑七在荒废的烂尾楼里独自面对内心的挣扎为开端，展现了他与不同角色的互动以及对女性身体的幻想。随着情节的发展，黑七的行为与内心的独白显现出他对女性的渴望和嫉妒，特别是对王可儿的关注。他回忆起与可儿的甜蜜瞬间，尽管内心充满了自我怀疑和对他人的怨怼。在此之后，情感的重心转向了陈叶与王可儿之间的爱情故事，描绘了他们甜蜜而富有情感的互动。可儿在陈叶的陪伴下找到了安全感，对于身份和感情的探索在两人之间不断交织，最终将情感的温暖与生理的接触结合在一起。伴随着他们之间的浪漫关系，本作品探讨了性别、欲望与情感的交融，尤其是当角色身份和性别认同不再单一时，情感体验如何变得更加复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_新人报道《情感捕获》.doc]([皮物]_新人报道�
 | Size            | 46080 bytes                           |
 | MD5             | 575aea361b3e6ff81d527641169fe609                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 情感捕获, 性别转换, 跨性别, 恋爱, 二次元, 欲望, 甜蜜爱情, 人际关系, 自我探索, 流浪汉                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

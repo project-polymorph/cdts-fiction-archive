@@ -7,7 +7,7 @@ TXT 下载: [[交换]_回到那个家（7）.doc]([交换]_回到那个家（7�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘、变身与跨性别相关文学作品的一部分，讲述了角色林雨磬在遭遇变身与身份认同冲突后的故事。故事开始于林雨磬与罗凯复的对峙，她面临着自我认知和过往伤痛的挑战。随着情节的发展，林雨磬的身体和心灵都遭遇了变化，在医院的走廊中与罗凯复的对话中，她的情绪变得愤怒而慌乱。两人随后来到一个偏远的垃圾场，开始了一场激烈的斗争。在这场斗争中，林雨磬试图运用她的技巧，但终因身体不适而陷入窘境。此时，罗凯复突然表现出意外的关心，前往市区购买女性用品，展现出他作为对手外的另一面。整个故事中，涉及探索性别身份、自我冲突及与他人的情感互动，带有浓郁的心理感受与生理冲突的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_回到那个家（7）.doc]([交换]_回到那个家（7�
 | Size            | 44032 bytes                           |
 | MD5             | 9d555594cd82c87d6f102069d3c7cce5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 情感冲突, 战斗, 医院, 隐私, 女性视角, 身体变化, 大姨妈, 青春期, 自我救赎, 社会压力, 心理斗争, 女性用品, 情感联系, 身份危机, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

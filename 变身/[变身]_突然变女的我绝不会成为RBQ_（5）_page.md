@@ -7,7 +7,7 @@ TXT 下载: [[变身]_突然变女的我绝不会成为RBQ_（5）.doc]([变身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于伪娘与变身主题的小说，故事围绕男女主角袁修与罗甜甜之间的互动展开。文中描写了袁修在与罗甜甜的约会过程中的内心挣扎与情感发展。在城市的夜晚，两人一起享受美食，探讨生活与感情。当袁修在约会时回应了罗甜甜的关切与微妙的情感，体现了他对这段友谊向爱情转变的矛盾心理。故事中还包含了一些幽默的元素，比如袁修的室友对他情感状态的调侃，以及与众不同的约会经历。整体上，这部作品探讨了性别认同，自我探索，及青春期的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_突然变女的我绝不会成为RBQ_（5）.doc]([变身]
 | Size            | 54272 bytes                           |
 | MD5             | 886bad5282397efb6a817ccb06d5bec0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 青春, 爱情, 约会, 自我认同, 校园生活, 心理斗争, 男女性别角色, 友情向爱情, 心理描写, 美食, 两性关系, 情感发展, 轻松喜剧, 都市恋爱, 内心独白, 青少年, 成长故事, 奇幻元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

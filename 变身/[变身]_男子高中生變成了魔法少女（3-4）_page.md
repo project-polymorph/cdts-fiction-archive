@@ -7,7 +7,7 @@ TXT 下载: [[变身]_男子高中生變成了魔法少女（3-4）.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《男子高中生變成了魔法少女（3-4）》讲述了一个男子高中生通过魔法变身为魔法少女的奇幻故事。在故事中，主角的身体在某个瞬间恢复原貌，却感受到一丝奇怪的违和感，例如身高的变化和声音的变化。他与一个看似布偶的角色展开了对话，该角色介绍了平行世界的概念并解释了魔法少女力量的来源。这种力量与其他平行世界的少女相关联，且涉及到一些特殊的魔法与自我认同的探索。故事中提到了对其他世界的防御与干预，突出异世界的战斗与生存主题。在这个过程中，主角不仅要面对自身的转变，还要了解平行世界之间的冲突和联系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_男子高中生變成了魔法少女（3-4）.doc]([变身
 | Size            | 44032 bytes                           |
 | MD5             | e5fabc928327a9bd13c41a4df60694f8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 7011768（P站ID）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法少女, 平行世界, 性别认同, 奇幻, 二次元, 冒险, 自我探索, 异世界, 少年, 角色转变, 魔法, 冲突, 战斗, 魔法力量, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

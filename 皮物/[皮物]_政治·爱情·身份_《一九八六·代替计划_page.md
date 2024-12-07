@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_政治·爱情·身份_《一九八六·代替计划.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《一九八六·代替计划》讲述了一个设定在反乌托邦时代的跨性别故事。故事围绕一名名叫高戬立的国安局特工展开，他被迫以女性身份王深秋的皮肤愚弄系统的监视与控制。在东亚国的政权统治下，思想罪成为了主要的恐惧，而高戬立在执行替代计划的过程中体验到了强烈的身份认同危机。文中描绘了他与另一名角色的缠绵，以及在监视与压迫下对生存的无奈和对被替代者命运的同情。用极具科幻色彩的高科技手段描绘了人皮的使用，产生了一种对人性和技术的深刻反思。整篇故事具有明显的政治隐喻，涉及政治迫害、自我认同等主题，同时也包含了带有性别变换和色情色彩的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_政治·爱情·身份_《一九八六·代替计划.docx]
 | Size            | 22341 bytes                           |
 | MD5             | b38f913bbda35dd4efbf0d76547c1d98                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 反乌托邦, 科技幻想, 自我探索, 代替计划, 监控社会, 身份危机, 政治压迫, 未来世界, 人皮技术, 思想罪, 悲剧, 悲凉, 情感纠葛, 科技与人性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

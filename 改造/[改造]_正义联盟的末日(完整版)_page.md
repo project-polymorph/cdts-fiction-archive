@@ -7,7 +7,7 @@ TXT 下载: [[改造]_正义联盟的末日(完整版).doc]([改造]_正义联�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《正义联盟的末日》是一部围绕超级英雄正义联盟的变身与跨性别主题的小说，原作者为SteveZ。故事借用知名美国漫画中的角色，通过极具创意的情节，展现了克拉克·肯特（超人）和其他英雄在面临莱克斯·卢瑟的威胁时的各种挑战。本文包含多达30345字，掩饰了洗脑、恶堕等变身情节，促使角色经历身份认同与自我意识的转变。小说开篇描述了超人与露易丝在宁静的早晨被警报惊扰后，急忙投入到拯救世界的斗争中。其后，卢瑟使用新型气体企图对正义联盟成员进行记忆删除，进而削弱他们的战斗力。故事情节紧凑，不同角色之间的互动和心理变化引人入胜，结合了科幻和幻想的元素，同时探索了性别与身份的流动性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_正义联盟的末日(完整版).doc]([改造]_正义联�
 | Size            | 168448 bytes                           |
 | MD5             | f840dfcdb4deed0e2e1be339f69faf86                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | SteveZ                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 正义联盟, 跨性别, 变身, 超级英雄, 洗脑, 恶堕, 变嫁, 情节扭曲, 性别认同, 科幻小说, TSF, 超级英雄改造, 故事情节, 角色发展, 自我探索, 二次元, 心理变化, 记忆删除, 动作冒险, 超能力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

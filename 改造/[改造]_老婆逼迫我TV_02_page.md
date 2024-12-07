@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老婆逼迫我TV_02.docx]([改造]_老婆逼迫我TV_02.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转换和跨性别体验的小说，讲述了一名男性角色在女性伴侣琳达的主导下经历的变装与性别认同转变的故事。故事开头，主人公在一个周末内被要求穿上女性服装，经历了从生理到心理的双重挑战。随着情节的发展，主人公沉浸在琳达的严厉训练下，不得不习惯使用女性的身体装束和特定的心理状态。整部作品详细描绘了主人公的内心冲突与身体变化，包括对女性服装的适应，一系列困难的家务劳动，以及使用生理用品的不同体验，而这些都成为了他身份转变的重要组成部分。总体上，这部小说呈现出了性别身份的复杂性及其对个人自我认知的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老婆逼迫我TV_02.docx]([改造]_老婆逼迫我TV_02.d
 | Size            | 36514 bytes                           |
 | MD5             | a307652dfa3dd11ab77c1a28563f11a0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 变装, 女性认同, 自我探索, 强迫变装, 女性服装, 情感操控, 心理性别认同, 性别角色, 药物影响, 情感纠葛, 欧美文化, 性虐待, 双重身份, 雌堕, 性别流动性, 女性主义视角, 自我发现, 社会性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

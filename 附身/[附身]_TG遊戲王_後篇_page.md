@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG遊戲王_後篇.doc]([附身]_TG遊戲王_後篇.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于人身附身与性别转换相关的小说。故事叙述了主角在游戏中经历性别转换后的情感与认知挑战。在过程中，主角体验到以女性身份与男性朋友流星共同探索令人困惑的情感，同时涉及到友情与性别认同的复杂关系。故事中使用了游戏术语，比如生命值（lp）的变化以及不同卡片的使用，展现出一种独特的奇幻色彩。主角对于自我身份的困惑与对朋友流星的情感交织在一起，使整个情节充满戏剧性。该篇小说通过游戏化的叙述手法探讨了诸如初恋、性别认同等主题，表现出一种年轻人的心理探索与情感挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG遊戲王_後篇.doc]([附身]_TG遊戲王_後篇.doc)
 | Size            | 37376 bytes                           |
 | MD5             | 67cf3b41b432ffc561bb153db2b28775                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | wai0906                               |
+| Region          | 未知                               |
+| Date            | 2011-05-01                                 |
+| Tags            | 性别转换, 游戏幻想, 情感探索, 青春, 友谊, 初恋, 男性视角, 附身, 伪娘, 卡片游戏, 奇幻, 自我探索, 灵魂互换, 心理冲突, 变身, 奇妙冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

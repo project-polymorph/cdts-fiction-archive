@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_女性服飾專賣店1~3.docx]([皮物]_女性服飾專賣
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《女性服饰专卖店》，主要内容围绕四个男性角色进入一家新开设的女性服饰专卖店的经历。文章描述了男生们对于女性服饰店铺的好奇与探索，并描绘了角色在店内试穿变身为女性的奇幻过程。故事首先展示了男生们的校园生活与周末打算，然后他们偶然发现了店外的招牌，进而好奇地走入店内。在与店员的互动中，男生们被引导进入更衣室，试穿了一套特殊的女性皮肤与服装。随着男生们穿上女性的外观，文章对角色的自我认知和性别转变进行了详细刻画，展示了他们从男性身份向女性身份的转变过程，最终化身为四个少女，享受着新的女性角色带来的喜悦与期待。这个过程充满了魔法与科技的奇妙融合，挑战了传统的性别边界。文中包含了一定的性别认同和自我探索主题，并含有一些可能的色情元素，是对跨性别和变身类题材的探索与展示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_女性服飾專賣店1~3.docx]([皮物]_女性服飾專賣
 | Size            | 25794 bytes                           |
 | MD5             | ccd07d0aa2f8d7a8a204efa0bfe73822                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 女性服饰, 性别认同, 青春校园, 奇幻, 魔法, 自我探索, 跨性别, 女性视角, 水手服, 裙子, 校园生活, 性别转换, 购物, 姐妹情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

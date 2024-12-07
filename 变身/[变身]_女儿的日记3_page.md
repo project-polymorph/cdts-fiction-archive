@@ -7,7 +7,7 @@ TXT 下载: [[变身]_女儿的日记3.doc]([变身]_女儿的日记3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇日记讲述的是一位父亲被迫进入女儿身体后的生活经历。作者在日记中详尽叙述了自己如何被锁在女儿的身体中，以及为此而发生的心理和生理上的变化。日记的开头提到，作者努力调查日记的真实性，却发现关于这一家人的信息是伪造的，使他感到恐慌和不安。他描绘了自己在校园生活中扮演少女角色的困境与挣扎，包括穿着女装上学和与同龄女性的交往。作者逐渐在这种压力下产生了对新身体的矛盾认同，频繁地思考性别和社会角色之间的关系。随着日记的展开，他开始感受到身体上的变化和心理上的冲突，令人不安的身体认同逐渐浮现，同时也追索着他与邪神的连接。整篇日记充满着哲学思考和对身份认同的探讨，具有一定的心理恐怖和变身题材的特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_女儿的日记3.doc]([变身]_女儿的日记3.doc)
 | Size            | 34816 bytes                           |
 | MD5             | bbf1539b67f1c6ee741251ebbd457d08                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2016-09-05                                 |
+| Tags            | 变身, 跨性别, 性别认同, 日记, 心理探索, 校园生活, 家庭关系, 社会压力, 自我认知, 邪神, 青年虐待, 违背常理, 女儿, 伪娘, 生理变化, 哲学思考, 青春期, 女性身体, 身份危机, 男性视角, 异域符号                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

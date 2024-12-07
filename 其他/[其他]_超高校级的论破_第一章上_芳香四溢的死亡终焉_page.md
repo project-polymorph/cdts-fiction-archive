@@ -7,7 +7,7 @@ TXT 下载: [[其他]_超高校级的论破_第一章上_芳香四溢的死亡�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个以经典推理与TG（性别转换）元素结合为主题的小说第一章，标题为《芬芳四溢的死亡终焉》。故事发生在一所名为“私立希望之峰学园”的封闭学校，主角佐藤在某天醒来后发现自己被困在这所学校中，四周被封闭，只能通过杀戮来取得自由。在一系列对话与探索中，角色们逐渐了解到彼此的处境与内心动机，同时也面临着相互间的信任危机与随时可能爆发的暴力冲突。文本中蕴藏了推理、悬疑与心理游戏等元素，并通过角色们彼此间的互动推动剧情的发展。小说开头的序言提到了一些原作的角色融合与创新构建，展现了作者希望在传统推理的框架内注入新意的意图。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_超高校级的论破_第一章上_芳香四溢的死亡�
 | Size            | 82944 bytes                           |
 | MD5             | cc462a4d159711e13941b45807de7ea5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 推理, TG, 悬疑, 校园, 科幻, 杀人, 密室逃脱, 角色互动, 心理游戏, 探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

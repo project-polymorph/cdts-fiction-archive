@@ -7,7 +7,7 @@ TXT 下载: [[变性]_夏天的日子_5.docx]([变性]_夏天的日子_5.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《夏天的日子》的小说主要围绕主人公夏天的生活展开，通过日常的细节描绘其在家人与朋友之间的互动，内心的挣扎与认同。故事开始于一个阳光明媚的午餐时光，夏天与妈妈和鲍勃叔叔留下一些温馨的对话。鲍勃叔叔在文中扮演了医生的角色，为夏天进行体检，而整个过程中，夏天努力掩饰内心的紧张和不安，表现出坚强的一面。体检结束后，鲍勃叔叔对夏天的健康状况表示满意，并提到即将进行的讨论和测试，这暗示着夏天可能正在经历关于性别的测试与身份的探索。接下来的情节中，夏天与表妹珍妮弗讨论了性别认同和个人感受，展现了夏天对于自己身份的疑惑以及对未来的憧憬。整篇作品不仅探讨了性别认同的主题，还通过细腻的描写让读者感受到人物深处的情感与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_夏天的日子_5.docx]([变性]_夏天的日子_5.docx)
 | Size            | 28112 bytes                           |
 | MD5             | 1c690d735f21bb266cea7299f0e5420f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Annie Larson                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 家人关系, 心理成长, 日常生活, 情感交流, 性别转换, 跨性别, 伪娘, 变嫁, 体检, 青春, 成长, 亲情, 思考, 现代社会, 个体差异, 人际交往, 个人发展, 复杂情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[七宗罪·色欲篇]_拉修莉亚·继.docx]([皮物]_[�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为名为《七宗罪·色欲篇》的跨性别相关小说，主要设定在一个虚构的王国，描绘了权利、欲望与信仰之间的复杂关系。故事围绕女主角拉修莉亚与她的丈夫克里斯都伯爵展开，描述他们在统治与信仰之间的挣扎。在故事的一开始，王城的庞大与权贵的蔑视深深影响着底层人民。大主教对于教会与王权之间的微妙关系进行内省，强调遵循高层的规矩与底层信条。随着故事的发展，拉修莉亚面临教会与王室的压力，包括民众对“色欲之女”的误解和自我奉献的现象，体会到权力与信仰之间的斗争。该文本涉及复杂的政治阴谋、信仰操控，以及性别认同的探讨。文中融入了各种文本细节，展现了角色之间的关系与心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[七宗罪·色欲篇]_拉修莉亚·继.docx]([皮物]_[�
 | Size            | 33170 bytes                           |
 | MD5             | 989aafad6722294ccddf0db65caf1969                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性转, 权力斗争, 欲望, 信仰, 教会, 自我探索, 王国, 角色变化, 复杂人际关系, 政治阴谋, 色欲, 虚构世界, 女主角, 男性与女性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_（穿胶皮）梦中的乳胶妖精生活123未完.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇以性转和异世界为主题的小说名为《梦中的乳胶妖精生活》。故事的男主角阿明在经历了一晚的梦境之后，发现自己竟然转世成为了一只可爱的乳胶妖精。文中描绘了阿明在异世界中的初次体验以及与其他精灵的互动，他的生理性别发生了变化，面临自我认知的困惑。故事中融合了大学生活的元素，开篇描绘了阿明在课堂上的状态，以及与女友的情感互动。随着情节深入，阿明意识到身边的妖精们都是被捕捉的存在，面临安全隐患。小说不仅创造了丰富的幻想元素，还涉及了性别认同、自我探索等主题，展现了角色内心的变化与外在的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_（穿胶皮）梦中的乳胶妖精生活123未完.doc]([
 | Size            | 91136 bytes                           |
 | MD5             | 9cdf2905894b7f90bcbbcec31ebe39d9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 异世界, 变身, 乳胶妖精, 自我认知, 青春校园, 冒险, 幻想, 魔法, 生理性别变化, 角色扮演, 自我探索, 萌属性, 囚禁异族, 经典幻想, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

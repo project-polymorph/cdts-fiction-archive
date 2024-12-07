@@ -7,7 +7,7 @@ TXT 下载: [[附身]_从少女开始的的异世界冒险(0~7).doc]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这个文件名为《从少女开始的的异世界冒险》，其内容灵感来源于日本RPG游戏，并融合了伪娘和变身的情节。故事设定在一个名为光辉大陆的奇幻世界，描述了勇者比尔在经历了二十年的和平时期后，得到一个关于异世界传送通道的消息。比尔曾是辉煌的勇者，如今却沦落为骑士学院的荣誉讲师，心中渴望战斗与冒险。故事通过比尔与他的同伴兰斯的对话，展现了对过去的怀念和对未来的渴望。虽然外表上看似平静的大陆实则暗流涌动，勇者的角色地位正在受到考验。故事的转折点在于，一个能够让人凭依到女性身体的灵魂魔法，给勇者即将展开的新冒险引入了更多的可能性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_从少女开始的的异世界冒险(0~7).doc]([附身]_�
 | Size            | 203776 bytes                           |
 | MD5             | 15f466702c531d18056a62c98079f1c5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 异世界, 冒险, 伪娘, 变身, 性别转换, RPG, 勇者, 魔法, 灵魂魔法, 自我探索, 角色扮演, 黑魔法, 战斗, 探索, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

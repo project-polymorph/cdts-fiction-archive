@@ -7,7 +7,9 @@ TXT 下载: [[变身]_彻头彻尾的改变_-4.docx]([变身]_彻头彻尾的改
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部性转小说，讲述了角色艾琳在一次按摩治疗后逐渐接受自己性别身份转变以及与周围人互动的故事。在故事开头，艾琳因醉酒而跌倒在房间里，受到她的保护者克里丝的关心。艾琳的心态变化通过与克里丝和唐娜的对话展现了她对自身状况的幽默和接受。随着情节的发展，艾琳在与其他女性的交往中表现出对男性的焦虑感，并且对她的男性按摩师持中立态度，从而展示出她对性别和性别认同的探索。
+
+故事中夹杂了耳语式的对话，描绘了克里丝与唐娜对于艾琳未来的期待和担忧，反映出他们之间深厚的情感纽带以及对于性别认同的复杂看法。文本深入探讨了性别认同与个人经验之间的对立，以及不同性别间的微妙关系，也涉及了社会对跨性别者的期望和反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_彻头彻尾的改变_-4.docx]([变身]_彻头彻尾的改
 | Size            | 40588 bytes                           |
 | MD5             | ba764011e20fd738f1e8369b049ce1e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 角色探索, 性别认同, 自我接受, 友谊, 幽默, 按摩, 女性视角, 青春成长, 情感交流, 女仆, 二次元, 都市冒险, 生活片段, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

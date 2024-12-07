@@ -7,7 +7,7 @@ TXT 下载: [[变身]_皮条王的下场_第一章_多图给力.docx]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为格雷的天赋出众的基因研究员的故事。他具有将美少女角色变身的超能力，但这次他的上司要求他在极短的时间内安排一次约会。故事通过格雷的视角，展示了他的内心挣扎和对工作的无奈。这一章节详细讲述了格雷的研究背景及他如何运用自己的技术来满足高层需求，同时展示他对女性角色的利用和物化的态度。本文涉及基因研究、变身科技以及实验对象的伦理问题，探讨了美丽、身体和性别认同之间的联系。文中包含了格雷与一位无家可归的老人的互动，以及他在实验中可能造成的伦理后果。在紧张的时间压力下，格雷如何面对自己的技术对他人的影响，最终决定将这位老妇人作为实验对象，这反映出他复杂的心理状态和对权力的追求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_皮条王的下场_第一章_多图给力.docx]([变身]_�
 | Size            | 33657 bytes                           |
 | MD5             | 0771e6e2d7c588d866a368be24e6c00a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 基因研究, 性别认同, 伦理问题, 实验, 女性角色, 自我认知, 科技与社会, 主人与实验对象, 青春期, 权力关系, 城市生活, 性别转换, 自我探索, 科幻, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

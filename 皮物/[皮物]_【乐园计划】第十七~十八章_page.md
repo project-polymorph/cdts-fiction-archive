@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【乐园计划】第十七~十八章.doc]([皮物]_【乐
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《乐园计划》的第十七和第十八章，内容涉及复杂的角色关系和奇幻的转变情节。故事围绕一名有着褐色长发的萝莉角色展开，她无意中与一颗恶魔宝石产生了联系，导致她经历了一系列痛苦而奇异的变化。萝莉在抵抗宝石的邪恶影响的过程中，感受到身体的异样，甚至开始接受这种能量。与此同时，两位角色香草和星夜正在实施一个计划，试图利用骷髅亚巴顿的力量来实现他们的目标，逐渐揭示了恶魔与人类之间的奇妙交互。故事通过带有性暗示的场景，探讨了自我认知、权力操控和身体体验等主题。在这一过程中，多个角色的命运交织，展现了人类与恶魔之间复杂的关系与对抗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【乐园计划】第十七~十八章.doc]([皮物]_【乐
 | Size            | 43520 bytes                           |
 | MD5             | 172cbc6a10853ac669a8bfb2b9ea7042                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 恶魔, 萝莉, 自我认知, 身体控制, 异化, 权力关系, 性转, 冒险, 奇幻, 探索, 虚构, 剧情发展, 情感冲突, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

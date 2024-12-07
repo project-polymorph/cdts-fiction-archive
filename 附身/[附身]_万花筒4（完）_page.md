@@ -7,7 +7,7 @@ TXT 下载: [[附身]_万花筒4（完）.doc]([附身]_万花筒4（完）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《万花筒4（完）》是一篇关于青春、悔恨与自我探索的小说，故事通过主角的内心独白及对过往回忆的剖析，描绘了一段关于爱、失去和寻找自我认同的旅程。小说的开头主角感慨写完了这篇文章，尽管与他以往的风格有所不同，但却是他内心深处真正想要表达的情感。文中角色在追寻属于自己的生活方式时，回忆起了与朋友们的美好时光，尤其是与一位勇敢少女的点滴交集和珍贵记忆。随着剧情的发展，女主的突发山洪意外去世，主角对这份失去感到无比的愧疚与痛苦。在经历一系列的自我反思和对现实的逃避后，他被卷入了一个象徵性的万花筒世界，似乎想要通过换一种身份来逃避对痛苦的记忆。最终，故事在结束时留下了对青春短暂和人生命运无常的思考，主角通过万花筒的隐喻，寄托了对重生和机会的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_万花筒4（完）.doc]([附身]_万花筒4（完）.doc)
 | Size            | 47616 bytes                           |
 | MD5             | 836b18af14cf5ea0f9bdbdf05b39a4e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 青春, 悔恨, 自我探索, 失去, 回忆, 成长, 爱与渴望, 逃避, 勇敢, 命运, 内心独白, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

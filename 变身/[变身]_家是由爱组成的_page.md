@@ -7,7 +7,7 @@ TXT 下载: [[变身]_家是由爱组成的.doc]([变身]_家是由爱组成的.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《家是由爱组成的》是一部以性别转变为主题的小说，作者为Anon Allsop。故事围绕一位16岁青少年与他酗酒的母亲之间的冲突展开。文章开头描绘了主角的逃离，试图摆脱家庭暴力的阴影。随着他的逃跑，主角内心的挣扎与痛苦逐渐显现，反映出他对生活的渴望和对过去的怀念。在逃离的过程中，主角发现了一间废弃的小屋，并产生了想要躲藏在此的念头。然而，随着故事的发展，主角开始经历身体和性别的变化，最终逐渐意识到自己变成了一名年轻女性。这个奇异而又令人震惊的转变促使他面临自我认同和身份的探索，同时也引发了一系列的反思与情感的纠葛。文本深入描绘了角色的心理变化和性别认同的问题，展现了家庭暴力对青少年心理健康的深远影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_家是由爱组成的.doc]([变身]_家是由爱组成的.
 | Size            | 67584 bytes                           |
 | MD5             | 62b08e494bd3efec210e5297d5837c35                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Anon Allsop                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 家庭暴力, 自我探索, 跨性别, 情感冲突, 逃避, 身份认同, 青少年, 梦幻现实, 心理变化, 变身, 伪娘小说, 成长故事, 古典建筑, 田园风光, 孤独                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

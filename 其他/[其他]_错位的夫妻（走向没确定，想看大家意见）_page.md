@@ -7,7 +7,7 @@ TXT 下载: [[其他]_错位的夫妻（走向没确定，想看大家意见）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为作者鬼畜奏所创作的性转题材小说的开头部分，讲述了主要角色叶云诗与其妻子林温婉以及情人路小爱的复杂关系。故事开始于一个深夜，叶云诗从浴室出来后与情人小爱亲密互动，同时展现出他对家庭责任的逃避和与妻子之间的冷淡关系。叶云诗与妻子温婉的互动揭示了两人关系的疏远与矛盾，温婉对婚姻的沉默承受以及叶云诗的背叛让故事充满张力。小说的设定中，温婉在流星许愿后，叶云诗的角色身份将面临性别的转变，带来新的情节发展与冲突。文中多次使用对话和细腻的心理描写，展示了角色内心的挣扎与复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_错位的夫妻（走向没确定，想看大家意见）.
 | Size            | 36864 bytes                           |
 | MD5             | aa7c5d770c3e34e5732d20b31efc1005                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 鬼畜奏                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 婚外情, 家庭关系, 情感纠葛, 自我探索, 冷淡夫妻, 情感冲突, 流星许愿, 自我认同, 现代爱情, 心理戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

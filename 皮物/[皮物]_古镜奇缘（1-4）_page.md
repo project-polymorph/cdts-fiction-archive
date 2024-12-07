@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_古镜奇缘（1-4）.doc]([皮物]_古镜奇缘（1-4）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《古镜奇缘》是一部结合多种文化元素的跨性别相关文学作品，总体包含四章，字数达到9343字。故事围绕一位名叫白诗妍的大学生展开，她在图书馆午休时遭遇了偷窥者陈津的侵犯。陈津在白诗妍无意识之时，试图对她进行猥亵，所描绘的情节透露出强烈的欲望与自我认知的冲突。随着故事的发展，陈津意外获得了一面名为‘轩辕镜’的古镜，涉及妖怪与灵异的情节。这面古镜的出现不仅改变了陈津的命运，也让故事情节产生了意想不到的转折，诸如他如何与一只白色狐狸妖怪的互动，以及幻想穿上白诗妍的皮囊来体验她的感觉等。整个作品不仅触及了性别转换与自我探索等心理主题，还融入了一些魔幻元素，引发了关于身份、欲望与道德的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_古镜奇缘（1-4）.doc]([皮物]_古镜奇缘（1-4）.
 | Size            | 49664 bytes                           |
 | MD5             | ea17aa3fe81e6f940ebffaededa43e36                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 伪娘, 强奸, 偷窥, 魔法, 妖怪, 校园, 古镜, 白诗妍, 陈津, 心里欲望, 灵异, 奇幻, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

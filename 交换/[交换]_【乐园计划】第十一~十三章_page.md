@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【乐园计划】第十一~十三章.doc]([交换]_【乐
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《乐园计划》第二部分的章节内容，主要描述了在魔法师协会内，角色星夜、香草以及帕兹之间关于身体与性别转变的奇幻冒险与性感情节。故事呈现了美少女角色星夜体验跨性别变身的过程，伴随着性行为与感情的纠葛；其中包含了对身体感知的茫然和自我探索的冲突，创造出多重角色身份(星夜、帕兹)间的心理与生理交互。故事中，星夜在香草的引导下，逐步融合并接受了新的身份，最终在交融快感中获得“新生”。内容中穿插了幻想元素及具有挑战性的性描写，体现出对性与爱、快感和认同感的探索与表达。整体情节涉及到生理及心理的双重转化，包含丰富的感官与情感交流。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【乐园计划】第十一~十三章.doc]([交换]_【乐
 | Size            | 52736 bytes                           |
 | MD5             | 1479f409510a8fc057a8b36112fa7f45                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 生理转换, 幻想小说, 伪娘, 性转, 恋爱, 姐妹情, 自我探索, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

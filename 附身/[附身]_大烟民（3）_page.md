@@ -7,7 +7,7 @@ TXT 下载: [[附身]_大烟民（3）.doc]([附身]_大烟民（3）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《大烟民》的第三章，主要描述了角色周尧与皮阳在高考后的日常生活及其奇异经历。故事开始于早晨，周尧穿着性感的睡衣，随后两人的对话提及了一包香烟的秘密，暗示跟变身和化学实验有关。皮阳利用化学实验室的条件，尝试分析一种被怀疑有问题的香烟，在此过程中，他进行了一系列实验，最终吸入过量尼古丁，结果造成了身体的奇异变化。整个章节通过皮阳的视角展示了他对于身体变化的探索与理解，同时夹杂着年轻人的情感和对未来的迷茫。特定细节情节如皮阳的疑惑与实验过程，以及与同班同学庄晓梦的互动，增添了角色之间的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_大烟民（3）.doc]([附身]_大烟民（3）.doc)
 | Size            | 34304 bytes                           |
 | MD5             | e4490a84233ab6dc271ea88e451ac8fa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 二次元, 化学实验, 尼古丁, 青春, 自我探索, 性感, 奇幻, 校园, 禁忌题材, 实验室                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

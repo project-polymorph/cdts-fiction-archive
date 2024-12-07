@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无尽异能_第七章（早起码字，略短，勿怪）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘相关的变身小说第七章，延续了前章的故事情节，主要围绕张紫幽与张紫若的互动展开。张紫幽作为主要角色，经历了异能觉醒的反应，她原本的男性意识在此刻被重塑为女性身份，使她在与张紫若的亲密接触中产生复杂的情感和生理反应。文本通过细腻的描写展示了少女之间的情感纠葛与生理感受，透露出张紫幽内心对自身新身份的困惑和自我探索的过程。小说内容包含一定的性暗示和亲密场景，展示了张紫幽在异能觉醒后的迷茫与期待，同时也强调了两个角色在血腥家族背景下的关系动态。整篇文章融合了奇幻与青春的元素，把读者带入了一个充满探索和情感冲突的二次元世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无尽异能_第七章（早起码字，略短，勿怪）
 | Size            | 18494 bytes                           |
 | MD5             | 22a6da607b6a22ba9cd2dedd5fba9444                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 同性恋, 异能觉醒, 性别认同, 少女情感, 家族纷争, 青春成长, 耽美, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

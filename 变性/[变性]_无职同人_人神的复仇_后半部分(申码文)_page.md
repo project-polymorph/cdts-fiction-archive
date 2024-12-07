@@ -7,7 +7,11 @@ TXT 下载: [[变性]_无职同人_人神的复仇_后半部分(申码文).doc](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是名为《无职同人的复仇 后半部分(申码文)》的变性小说的后半部分，描绘了主人公与人神之间复杂而亲密的关系。在一个白色、无色的世界中心，主人公正在与人神展开互动，内容充满了性暗示与变身情节。
+
+章节中，主人公与人神之间的对话展示了他们之间的游戏和性关系，伴随着主人公特有的能力与魔法的应用。人神对主人公的身体以及能力表现出极大的关注，例如提到主人公的身材和战斗能力。整篇文章采用了许多露骨的描写，包含了生理结构的细节与人格关系的矛盾冲突，尤其是在主人公对人神独占欲的感知与自我认同的探讨。同时，作品中也不乏有关魔法和战斗的策略讨论，展现了作者在世界构建方面的深度。
+
+文件中多次提到性行为和身体的细节描写，体现了角色之间的亲密关系以及性别转换后的身份认同。整体上，这篇小说对伪娘、变身狂欢和自我发现等主题进行了生动的展现，是一部典型的跨性别文学作品，充满了幻想与成人向的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变性]_无职同人_人神的复仇_后半部分(申码文).doc](
 | Size            | 77312 bytes                           |
 | MD5             | 4498adaef5a351033f1b97e023d834f9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变性, 性转, 成人向, 奇幻, 魔法, 跨性别, 角色扮演, 自我认同, 游戏设定, 精液, 口交, 强制性行为, 乳胶, 战斗策略, 角色之间的互动, 幻想世界, 恋爱, 尸体交换, 性幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

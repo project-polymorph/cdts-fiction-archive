@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_女性店员.doc]([皮物]_女性店员.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及跨性别和变身主题的小说，主要讲述了一名年轻男性在超市工作的故事。他对一位成熟女收银员产生了不可抑制的迷恋，并在幻想的驱动下，进行了一系列极端的行为，包括使用特殊药物到达性别转换。这位年轻人不仅沉迷于这位女性的气味，甚至计划通过施用药物使自己变成她，获得她的身体与感知。这部作品融合了心理变态与性别认同的复杂主题，描绘了角色的内心挣扎与变身后的快感体验，情节含有强烈的性暗示和压抑的欲望。最令人震惊的是，这部作品在性别转换的过程中展现了角色如何完全沉沦于新的身份与欲望之中，包含了诸多色情元素，如对身体的迷恋、药物的使用以及极端情感的表达。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_女性店员.doc]([皮物]_女性店员.doc)
 | Size            | 34816 bytes                           |
 | MD5             | ad92555c39dac2f749598c7297282766                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 恋物癖, 色情, 自我探索, 医疗实验, 强烈情感, 角色认同, 性别转换, 女性视角, 醇厚的沾染, 黑暗幻想, 极端行为, 心理创伤, 欲望救赎, 奇幻, 电子游戏, 超现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

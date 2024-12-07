@@ -7,7 +7,11 @@ TXT 下载: [[变身]_巨乳世界_1.docx]([变身]_巨乳世界_1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个穿越到平行世界的年轻男孩的变身故事。在他掉入一个平行世界后，他意识到这是一个与众不同的世界，所有人无论男女都拥有巨乳的特征。他最初在医院接受治疗，因在这个世界里他的身体被视为发育不良，另外，他的身体逐渐发生变化，变得更加女性化。故事中描述了他与护士敏明发生的关系，尽管敏明的生理性别是男性，但她的女性外表令主角感到困惑和羞涩。
+
+通过一系列的事件，该男孩了解到由于其身体的改变，他的男性生殖器官无法恢复，最终接受了这种新的身份和体型。这一过程充满了对自我身份的探索和心理上的挣扎，同时也包含了一些性暗示的内容。
+
+文中提到的“巨乳”概念和世界观构成该故事的重要特点，令人思考性别、身体形象和社会认同等复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变身]_巨乳世界_1.docx]([变身]_巨乳世界_1.docx)
 | Size            | 18440 bytes                           |
 | MD5             | a48b37bf4487bca6006c7716f817a974                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 巨乳, 跨性别, 自我认同, 护士, 平行世界, 剧情发展, 心理斗争, 女性化, 性别探索, 二次元小说, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑色邀请函·序章.docx]([皮物]_黑色邀请函·�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一封黑色邀请函的序章，故事的主人公在某个星期五剛下班回家时，发现信箱中夹杂着一封与众不同的黑色信笺，内容为一封邀请函，邀请他和女朋友徐末参加“蔷薇少女”的新品发布会。信的背后是一种名为火纸的特殊纸张，作者通过对这种纸的描述引入了一个嗜纸如命的爵士。邀请函中还附带有两张写着他们名字的飞机票，时间是国庆节，地点是上海。这封邀请函围绕着主人公对邀请者和邀请内容的疑问展开，充满了悬念与轻松幽默的气氛。此外，主人公和徐末之间的互动展示了两人之间亲密而有趣的关系，在略带神秘与好奇的情节中引发对未来事件的思考与猜测。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑色邀请函·序章.docx]([皮物]_黑色邀请函·�
 | Size            | 19388 bytes                           |
 | MD5             | aba7206a90704cf26d8cfca97a9b3327                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 黑色邀请函, 邀请函, 国庆节, 蔷薇少女, 上海, 亲密关系, 悬疑, 轻松幽默, 纸张, 角色互动, 二次元, 变装癖好, 恋爱, 旅游, 小说, 故事开篇                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

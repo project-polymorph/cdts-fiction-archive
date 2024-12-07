@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_幻想里世界的大冒险【二】.docx]([皮物]_幻想
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇幻想类小说，内容围绕男主角在一个游戏世界中的冒险展开。在故事中，男主角通过与角色的互动，经历了性别变化的奇妙体验。例如，男主突然发现自己通过一个名为特蕾莎的角色进行身体的入侵，感受到了女性身体的真实感觉，同时也探索了包含战斗、角色扮演和性别认同的复杂情节。文中包含了多种与性别和身份认同相关的元素，像是角色对自我的认知和变化，游戏机制与女性角色的细节描写，使得整个故事在幻想与现实交汇的背景下呈现出一幅丰富的画面。此外，特蕾莎这个角色被描绘为一个可爱的修女，而故事中对她的特征和背景描写进一步增添了角色的层次感与复杂性，同时故事的情节发展也暗藏了多重选择与NTR等情节的可能性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_幻想里世界的大冒险【二】.docx]([皮物]_幻想
 | Size            | 24990 bytes                           |
 | MD5             | 34cda5e94c0f01964f7b5492826d3ab0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 幻想, 性别转换, 角色扮演, 男主变性, 虚拟现实, RP游戏, 二次元, 交互式小说, 女性视角, 冒险, 性别认同, 特蕾莎, 修女, 巨乳, NTR, 游戏世界, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

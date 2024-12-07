@@ -7,7 +7,7 @@ TXT 下载: [[交换]_薰风幻想_【_第五章_】.docx]([交换]_薰风幻想
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《薰风幻想》的第五章，标题为《意外的盟友》。故事围绕角色莎莎展开，她在魔族的控制下，被迫面临身体互换的魔法阵。莎莎的内心充满恐惧，她试图理解自己所面临的困境，场景中描述了她被魔族军团长亥逼迫的情形。莎莎强装镇定，但内心的不安显露无遗。魔法阵的操控者想要利用这种魔法使莎莎和另一名男性互换身体，莎莎强烈反抗并表露出对自己身体变化的深深不满。通过与凯特曼的交流，莎莎意识到现在的魔族威胁和自己身处的危机。章节深入探讨了角色的心理状态以及性别认同与身体变化的冲突，包含了詹妮特与魔族之间的对抗以及对自身身份的认知冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_薰风幻想_【_第五章_】.docx]([交换]_薰风幻想
 | Size            | 28749 bytes                           |
 | MD5             | 7cd3709b4ad0afe03b8f77c515fc0221                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 魔法, 身体互换, 心理斗争, 魔族, 自我认知, 角色对话, 幻想文学, 冒险, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[附身]_诱拐脱离（外传）.docx]([附身]_诱拐脱离（外
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《诱拐脱离（外传）》，属于伪娘 TS 变身与跨性别相关小说，其内容主要围绕主人公一哉在尝试尝试性别转换的过程中，进行了一系列的探索和实验。一开始，一哉对一种药水的制作感到兴奋，认为通过药水的改进，他的附身时间将会延长，而他对将要附身的女孩子充满期待。这种附身于女性身体的情节不仅涉及生理性别的转换，也带出了一种自我认知的冲突与变化。文中一哉思考着潜入女校的计划，表明他希望通过这种方式体验作为女性的生活和感受，同时又对即将遭遇的另一个身份充满了好奇与期待。
+
+在与朋友的通话中，提到了即将在东京举办的与街头艺人和舞者相关的聚会，表明了他对变装和社交的向往。文中穿插着一哉与好友交流的内容，最终他选择了独自进行实验，喝下自己制作的药水，企图附身在他所渴望的女孩身上，以及在校园中寻找目标的心理描绘，展示了他对女孩子的喜爱。同时，这一过程伴随一定的内心挣扎和情感动荡，展现了性别认同和自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_诱拐脱离（外传）.docx]([附身]_诱拐脱离（外
 | Size            | 26161 bytes                           |
 | MD5             | 86dce3c6627202d3f172b1f6ebbbeb42                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 性别转换, 伪娘, 附身, 自我探索, 校园生活, 药物实验, 性别认同, 女性视角, 变装, 东京, 青春期困惑, 角色扮演, 心理冲突, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

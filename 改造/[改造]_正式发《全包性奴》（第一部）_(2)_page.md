@@ -7,7 +7,7 @@ TXT 下载: [[改造]_正式发《全包性奴》（第一部）_(2).docx]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位名叫方南的男孩的个人故事，叙述了他如何在大学时期被引导进入女装和乳胶衣的世界。随着情节的发展，方南回忆了他与已故的学长间的关系，以及这个学长为他准备的特别生日礼物——一套超高级的乳胶衣和相应的改造工具。故事中充满了关于性别认同、自我探索与身体改造的主题，其中涉及激素注射、个体的身体感知与习惯的改变等情节。同时，作品通过细腻的文字描绘了方南在怀念、痛苦和快乐中的复杂情感，以及他对自我身份的不断探索。方南的生活因收到来自逝者的包裹而被打乱，同时引发他对过去的记忆与深深的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_正式发《全包性奴》（第一部）_(2).docx]([改�
 | Size            | 44334 bytes                           |
 | MD5             | 62206620d21036570301affecc9b8fbd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-07-01                                 |
+| Tags            | 性别认同, 身体改造, 乳胶衣, 女装, 自我探索, 激素, 情感关系, 痛苦与快乐, 转变, 怀念, 变身, 虚拟现实, 皮肤护理, 自我接受, 性别角色, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

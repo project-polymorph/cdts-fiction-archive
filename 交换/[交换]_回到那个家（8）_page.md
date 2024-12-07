@@ -7,7 +7,7 @@ TXT 下载: [[交换]_回到那个家（8）.doc]([交换]_回到那个家（8�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《交换_回到那个家（8）》讲述了主角林雨磬在都市中的生活片段，夜幕降临，街道灯火璀璨。林雨磬为自己购买补血的用品，同时带着对过去的回忆，尤其是对自己妻子的照顾，展现出一种柔情与坚强的对比。她曾为妻子准备痛经所需的补给，如今自己又陷入相似的处境。文中详细描写了林雨磬在夜辣街道上的魅力与困扰，以及她与周围男性的互动。接着，故事转向一个富有悬疑色彩的事件，林雨磬被邻居的惨叫声惊醒，接着与一只黑色的受伤猫展开了一场惊心动魄的对抗。黑猫的出现伴随着超自然的元素，智力与力量的斗争不仅揭示了角色的脆弱，也反映了内心的斗争。随着剧情的发展，林雨磬与另一位女性角色林映薇共同面对着黑猫所带来的威胁，不断反抗与生存。文中在细腻的描写中加入了一些奇幻和恐怖元素，使得整部作品紧张而具吸引力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_回到那个家（8）.doc]([交换]_回到那个家（8�
 | Size            | 40448 bytes                           |
 | MD5             | a3f41548b4ed5eb29b179638a41c9513                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 都市, 奇幻, 女性角色, 痛经, 黑猫, 超自然, 飞刀, 情感纠葛, 自我探索, 悬疑, 夜生活, 猫与人类的斗争, 婚姻关切, 变身, 魔法, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

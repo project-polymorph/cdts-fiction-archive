@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——魔方（十四）.doc]([附身]_TG物语—
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《TG物语——魔方》系列的第十四章节，主要描绘了角色余震在宁城的经历。故事开始于余震抵达一个陌生的地点，计划用他好友周鑫悦的身份证购票前往海城。在此过程中，他检查了周鑫悦的行李，发现其携带的物品简单，除了零食和几套衣服，还有两双未开封的黑丝袜。这引发了余震的兴趣，他开始尝试穿戴这些黑丝袜，并在洗手间的镜子前对比自己的形象。余震盛赞自己，觉得自己更像一个女孩。此后，他乘坐动车前往海城，车上只与一个屌丝男同处一室，屌丝男对余震表现出明显的窥视行为。随着夜晚的降临，余震开始享受腿部被黑丝袜包裹的感觉，并无意中引发屌丝男的幻想。故事逐渐转向了屌丝男的欲望，他开始冒险地接触周鑫悦的脚，甚至用舌头进行侵犯。这一行为令周鑫悦感到意外的刺激，她决定进一步勾引这名男角色，形成一场欲望交织的戏码。这一章节充满了性别认同与性欲的复杂交融，探讨了在性转状态下的人物心理与互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——魔方（十四）.doc]([附身]_TG物语—
 | Size            | 48128 bytes                           |
 | MD5             | 51eeca652bb3566b850809826f002e28                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 屌丝, 黑丝袜, 性欲, 快感, 自我认同, 青春, 旅途, 阴暗心理, 身体接触, 偷窥                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

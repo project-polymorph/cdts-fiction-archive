@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_31.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘变身与跨性别主题的小说，主要描绘了角色贝丽与她的朋友坎迪在水上乐园游玩的情景。在故事中，贝丽内心对她的男朋友德里克产生复杂的情感，因为德里克在与她的女友交往时表现得温柔关怀，贝丽对这种情感的抵触和心灵的挣扎在文中得到了细腻的展示。故事通过贝丽的内心独白，深刻展现了她对自我身份和情感关系的探索。情节中穿插了轻松愉快的水上活动，两个女孩手牵手、嬉戏玩耍的场景展示了一种青春与友谊的美好。随着故事的发展，贝丽和德里克之间的互动也逐渐在情感的层面上深入，尤其是德里克与阿曼达之间的亲密吻别，反映了小说主题中的爱情和复杂的人际关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_31.doc]([改造]_把男朋友�
 | Size            | 31744 bytes                           |
 | MD5             | 9e4cf3481ad12f39ea32725fc0e09572                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2021-04-14                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 青春友情, 水上乐园, 复杂情感, 女性视角, 亲密关系, 自我探索, 角色身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_衣服（二）.doc]([变身]_衣服（二）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部关于性别转换的轻小说，采用第一人称视角，讲述了一名16岁少年的自我探索与性别认同的故事。故事设定在都市校园，伴随异能的元素，引发了角色对自我身份的认知冲突。主角在意外获得了女性手部特征的能力，这使他开始观察与寻找这一特征的真正主人，逐渐揭开隐藏在变身背后的神秘。作品描绘了他对自身变化的复杂情感，既有对美丽女性的憧憬，又渗透着欲望与困惑。文本中多次反映出主角对捕捉并理解这个新身份的渴望，同时对周围人物的细致观察。由此，故事不仅关注性别的变化，也探讨了青春期的迷茫与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_衣服（二）.doc]([变身]_衣服（二）.doc)
 | Size            | 58880 bytes                           |
 | MD5             | f831d4f703f738607dd94c5931ff1cc2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 青春校园, 超能力, 观察, 欲望, 自我探索, 第一人称, 成长小说, 轻H, 都市异能, 伪娘, 情感冲突, 性别转换, 校园恋爱, 细腻描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

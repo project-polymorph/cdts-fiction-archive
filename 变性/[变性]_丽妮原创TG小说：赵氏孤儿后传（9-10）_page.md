@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（9-10）.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部手法细腻的变性小说，讲述了主角在一个充满挑战和变故的环境中接受性别身份变化的训练与探索。故事的背景设定在一个名为百媚馆的地方，主角被迫学习各种阴柔的技艺，以便能够在该环境中生存。文本开篇描述主角从一个武艺高强的男子，逐渐被要求扮演女性，并接受严格的训练。训练中包括了各种调教和针对女性角色特性的学习，主角虽有忸怩不安，但随着时间的推移，他的身体和心理都在变化，开始接受自己的新身份。文中涉及到的情节包括初次的羞耻和强烈的自我冲突，逐渐适应后又隐隐涌现出对新身份的接受与迷恋。尽管主角心中始终记挂着复仇的执念，但在百媚馆的环境中，他的感受和身体变化让他产生了复杂的心理状态，对未来充满了未知的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（9-10）.docx](
 | Size            | 29930 bytes                           |
 | MD5             | 011654b34ab0b65a2e5d8a0a47f6a67f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 丽妮                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 训练, 性别认同, 自我探索, 色情内容, 情欲教育, 台词深入, 角色心理, 自我冲突, 古代背景, 女性化训练, 心灵转变, 禁忌之恋, 强烈对比, 复杂情绪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

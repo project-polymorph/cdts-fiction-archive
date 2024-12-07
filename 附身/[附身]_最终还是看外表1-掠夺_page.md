@@ -7,7 +7,7 @@ TXT 下载: [[附身]_最终还是看外表1-掠夺.doc]([附身]_最终还是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于人类外表与内在之间关系的虚构故事。故事围绕着一名叫北原纯奈的高中女生展开，她外表可爱，性格善良，深得同学们的喜爱。故事开启于她在图书室工作时，一位同班女生提到了校内的一个问题学生——十林辉明。辉明以不良生而闻名，因偷窥女生而被带入训导室。虽然纯奈在谈论这个问题时表现出关心，但内心对辉明的恶行感到困惑和无奈。之后，纯奈无意中卷入了一种互换药的事件，导致她和辉明的身体发生了互换。这种经历让纯奈的性格和欲望发生了变化，显示出她内心深处黑暗和险恶的一面，最终她露出了扭曲的微笑，并计划要破坏辉明的生活。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_最终还是看外表1-掠夺.doc]([附身]_最终还是�
 | Size            | 43520 bytes                           |
 | MD5             | db1f4a2f7269b16d5f22f86b23f80046                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 自我探索, 互换药, 校园暴力, 善恶交织, 心理变化, 性别认同, 高中生活, 扭曲的爱, 内心的黑暗, 追求完美, 情感冲突, 暗黑剧情, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

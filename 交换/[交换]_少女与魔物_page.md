@@ -7,7 +7,7 @@ TXT 下载: [[交换]_少女与魔物.docx]([交换]_少女与魔物.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部描绘性别转换与魔物对战的小说，设定在星洛帝国，这是一座充满魔法的幻想世界。故事的主角是一名来自没落贵族家庭的少女，因对父亲的禁止感到不满，私奔出去探索与魔物的对战。在她挑战‘最邪恶魔物’的过程中，发生了一系列诡异的事件，最终被魔物捕获，并在一次奇怪的仪式中开始经历身体的交换。小说内容探讨了性别认同、自我探索等复杂主题，涉及魔物的恐怖与少女的无助，情节紧张又充满悬疑，令人好奇这一系列事件的最终结果。其间不乏固有的幻想元素以及对角色内心的描绘，适合关注变身与变换主题的读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_少女与魔物.docx]([交换]_少女与魔物.docx)
 | Size            | 27139 bytes                           |
 | MD5             | d0bf9f17195f0a2a10e9943e965c574c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 魔物, 冒险, 少女, 魔法, 幻想, 自我认知, 身体交换, 黑暗幻想, 孤独, 冒险故事, 恶搞, 魔法阵                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

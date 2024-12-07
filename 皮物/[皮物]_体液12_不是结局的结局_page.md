@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_体液12_不是结局的结局.doc]([皮物]_体液12_不�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇性转及变身相关的小说，故事围绕主角良的变身体验和随之而来的挑战展开。开头描述了一辆白色救护车驶入S大，一个传说中精英辈出的大学，设定了一个紧张而神秘的氛围。主角良在一次变身过程中，发现自己不仅要面对外部的危险，还要处理变化带来的内心挣扎。在文中，他与几位医师和护士的互动引出了一系列剧情冲突，最终通过一场逃生的惊心动魄的经历，表现了变身后的痛苦和对身份的寻求。随着故事的发展，巨大的身体变化和心理上的恐惧感交织，表现了对自我认知和身份归属的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[皮物]_体液12_不是结局的结局.doc]([皮物]_体液12_不�
 | Format          | Microsoft Word Document                               |
 | Size            | 47616 bytes                           |
 | MD5             | 35a33a02333193f29430decc81a90f70                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 跨性别, 身份认同, 生理与心理冲突, 恐怖逃生, 青春大学, 女性形象, 变嫁, 二次元幻想, 伪娘, 女体化, 人体改造, 奇幻, 校园剧情, 灵异事件                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

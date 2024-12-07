@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译变装】逃出生天.doc]([变装]_【翻译变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《逃出生天》是一篇描绘了性别角色互换的故事，背景设定在历史时期。故事的女主角为救囚禁在监狱中即将被处死的丈夫，提出了一个大胆的计划：让她的女仆扮演丈夫并逃出监狱。她认为，如果女仆能够穿上丈夫的衣服，经过妆扮，可能不会被守卫识破。为了实施计划，她和女仆以及几位信得过的女性朋友一起策划。通过让丈夫化妆，穿上女仆的服装，小说探讨了性别身份和角色扮演的问题。在这个过程中，丈夫从刚开始的抗拒，到接受并逐渐享受这种角色转换，体现了角色之间的心理变化和情感纠葛，尤其是在权力和支配关系上的探讨。这篇作品还涉及了性别认同、自我探索以及婚姻关系中的权力动态等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译变装】逃出生天.doc]([变装]_【翻译变�
 | Size            | 31232 bytes                           |
 | MD5             | 358860c4f9f85f2ffd55dfa7a385e904                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Angela Collins                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别角色互换, 逃脱计划, 自我认同, 心理转变, 女仆, 历史背景, 权力动态, 女性友谊, 婚姻关系, 性别认同, 意外剧情, 戏弄与羞辱, 调教, 伪娘, 奴役                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

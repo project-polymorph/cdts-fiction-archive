@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_许愿游戏机_皮之力.doc]([皮物]_许愿游戏机_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了主人公陈凯在失业后的孤独与迷茫之际，意外遭遇一台神秘的街机。陈凯在一个夜晚走出酒吧，感到生活的失意与压力，坐在街头反思自己的处境。一天晚上，他在一条街道上，意外发现了一台古怪的街机，街机声称能够实现他的一个愿望。在应对神秘声音发送的挑战时，陈凯发现自己在面临超自然力量的考验，任务的完成与否将影响他的命运。作为一个中年失业人士，陈凯的内心经历了对自身价值的质疑和希望的挣扎。这篇小说展现了孤独、迷茫与探索自我认同的主题，同时也涉及了神秘的游戏与愿望实现的设定。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_许愿游戏机_皮之力.doc]([皮物]_许愿游戏机_�
 | Size            | 124928 bytes                           |
 | MD5             | 8767a8748ada4b664bacbf1b59675934                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 孤独, 自我探索, 性别认同, 超自然, 愿望实现, 陈凯, 街机, 挑战, 失败的惩罚, 生活压力, 迷茫, 神秘力量, 二次元, 变身, TSF, 变嫁, 异世界, 变装, 魔法, 游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

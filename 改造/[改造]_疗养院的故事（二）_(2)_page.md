@@ -7,7 +7,7 @@ TXT 下载: [[改造]_疗养院的故事（二）_(2).docx]([改造]_疗养院�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及变身与伪娘题材的小说，背景设置在一个疗养院内。主要描写了角色与主人之间复杂的关系，以及角色从生理与心理上适应女孩子身份的过程。故事的内容侧重于角色在疗养过程中经历的身体变化和角色认同的挣扎，例如主人给予角色的药物使其身体逐渐变得柔弱，角色所表现出的顺从与可爱，让主人对此感到满意。文中表现出强烈的依赖与调教关系，主人对于角色的惩罚与呵护形成鲜明对比，体现了二者之间复杂的心理游戏。特别是通过一些细节描写，例如角色在坐姿的尝试以及主人对角色身体的操控，展示了性别认同与自我探索的主题。此外，故事中也涉及了色情元素，如角色在受到惩罚时经历的羞愧与兴奋，这些情节表明角色内心的复杂情感与体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_疗养院的故事（二）_(2).docx]([改造]_疗养院�
 | Size            | 53356 bytes                           |
 | MD5             | e71d059b47730b6f0fd92c0c06555e3f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性转小说, 疗养院, 强制调教, 角色认同, 自我探索, 心理游戏, 依赖关系, 调教, 反转角色, 性别认同, 情感交流, 温泉, 羞耻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

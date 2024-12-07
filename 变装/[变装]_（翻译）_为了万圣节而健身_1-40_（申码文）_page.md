@@ -7,7 +7,7 @@ TXT 下载: [[变装]_（翻译）_为了万圣节而健身_1-40_（申码文）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为伪娘 TS 变身与跨性别相关小说的一部分。故事围绕主角詹姆斯与他的好友凯蒂展开，主题主要聚焦在他们为即将到来的万圣节所做的准备。通过詹姆斯在恢复身体健康过程中的内心斗争和对凯蒂吸引力的感知，揭示了性别和身体认同的复杂性。詹姆斯在疫情期间经历了体重增加和健康问题，最终决定跟随凯蒂的脚步参与跑步锻炼，以改善自己的身体状态。在一次5公里的慢跑活动中，詹姆斯尽管身着不符合的运动装备，但依然努力完成比赛，体现了他对于挑战自我的积极态度。故事也提到詹姆斯收到了一封邀请函，邀请他参加在万圣节的聚会，暗示着未来可能的性别角色扮演和与凯蒂之间的潜在关系发展。整体来说，这不仅是一段关于健康和运动的旅程，也是对自我认知和性别探索的一次深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_（翻译）_为了万圣节而健身_1-40_（申码文）
 | Size            | 202375 bytes                           |
 | MD5             | ef5f339f9ebe9685a54444acedc4962e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2022-10-29                                 |
+| Tags            | 万圣节, 健身, 性别认同, 变身, 伪娘, 自我探索, 疫情影响, 跑步活动, 友谊, 性别角色扮演, 身心健康, 社交聚会, 心理冲突, 性别表达, 社会活动, 青少年成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

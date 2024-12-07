@@ -7,7 +7,7 @@ TXT 下载: [[改造]_毕业前的意外.doc]([改造]_毕业前的意外.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一段充满激情与冲突的故事，讲述了主人公曾凌在毕业前的复杂情感经历。故事开头，曾凌在酒吧偶遇了神秘女友吟香，并与她展开了一段欢愉又令人困惑的恋情。随着毕业论文的压力逐渐增大，曾凌发现自己陷入了矛盾的境地，一方面他渴望与吟香的亲密互动，另一方面则被学业所驱使。文中多次描写了他们之间的肉体关系，而曾凌内心深处也期望这种关系能有所延续，而不仅仅是短暂的快乐。同时，故事展现了他的好友黄子明对待感情的视角与态度，带有一定的讽刺意味。在一场醉酒后，黄子明使用一种奇怪的科技手段，试图取代吟香，展现了对权力与身份的扭曲欲望。整体文本充满了对性别认同、爱情与权力关系的探讨，带有明显的二次元文化色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_毕业前的意外.doc]([改造]_毕业前的意外.doc)
 | Size            | 50688 bytes                           |
 | MD5             | 19989e85ec348872b6e05aa588a8659e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 情感困扰, 毕业季, 酒吧邂逅, 肉体关系, 权力游戏, 自我探索, 都市爱情, 神秘女友, 青春危机, 二次元文化, 欲望与情感, 复杂人际关系, 科技奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_喉舌计划人物以及樱花组织内部分级.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档题为《樱花组织内部分级》，内容详细描述了一个名为‘樱花组织’的内部结构与职级体系。文中指出，‘樱花组织’系统地划分了九个级别，从总指挥的九级到刚完成训练的一级，描述了每个级别的职责和结构。例如，九级是明光天皇和武光天皇，分别是前任和现任的天皇；八级作为副总指挥，负责全球各大洲的计划；其余级别各有其职能，包括人事管理、军事指挥、研究开发等。文中还涉及了多个具体人物，包括华国与倭国的特定成员，并描述了这些人物在樱花组织中的角色和经历。同时，文档的内容中也夹杂了一些关于成员被转换成“皮物”的情节，暗示了某种涉及性别转变或变装的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_喉舌计划人物以及樱花组织内部分级.doc]([皮
 | Size            | 34816 bytes                           |
 | MD5             | 1aa669508004c5bec90c8cf77846514d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 樱花组织, 级别制度, 间谍活动, 性别转换, 二次元, 武光天皇, 喉舌计划, 人物关系, 手段阴暗, 内部分级, 权力结构, 政治阴谋, 剧情设定, 皮物, 幻想元素, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

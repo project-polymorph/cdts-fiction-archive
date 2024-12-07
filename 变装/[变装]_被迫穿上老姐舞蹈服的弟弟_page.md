@@ -7,7 +7,7 @@ TXT 下载: [[变装]_被迫穿上老姐舞蹈服的弟弟.doc]([变装]_被迫�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《被迫穿上老姐舞蹈服的弟弟》的小说，描绘了一名弟弟在其姐姐的影响下，被迫代替姐姐去舞蹈班上学的故事。小说开头描绘弟弟对于姐姐的无奈与烦恼，姐姐报名舞蹈班后又不愿意去，最终强行将弟弟拉去代替她。在家人支持的情况下，弟弟被迫穿上舞蹈服，接着他体验到了身着女性服装的羞涩与不适。故事接下来展现了弟弟在舞蹈班上与其他女孩子的相处，以及他对自己新身份的困惑和自我认知的变化。弟弟逐渐感受到身体的不同，内心情感的复杂性在舞蹈中凸显，最后被迫承认他将代替姐姐继续学习舞蹈。整篇小说包含了性别角色的挑战与自我探索的主题，并融合了一些幽默及戏谑的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_被迫穿上老姐舞蹈服的弟弟.doc]([变装]_被迫�
 | Size            | 37376 bytes                           |
 | MD5             | 78b424440123a88d22c0fa45502cd432                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 舞蹈, 家庭, 性别认同, 喜剧, 青春, 探索自我, 家庭关系, 跳舞, TSF, 心理冲突, 性转, 二次元, 羞耻, 自我认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

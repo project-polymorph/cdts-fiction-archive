@@ -7,7 +7,7 @@ TXT 下载: [[变装]_只是在天堂的又一天_-1_.docx]([变装]_只是在�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于两个大学室友亚历克斯和尼克的旅行故事的小说片段，标题为《只是在天堂的又一天》。故事开始于他们前往夏威夷度假的前期，由于行李箱意外掉包，导致亚历克斯拿到了一个女孩的衣物，包括粉色比基尼的情节。故事描绘了他们在机场遭遇的种种不顺，及最终到达酒店时的失望。而在接下来的探索中，他们两人尝试让这个假期变得美好。特别是对性别认同和变装的暗示，亚历克斯所面临的衣物丢失情况，让他面对与自己识别的冲突。尽管故事中涉及到一些限制性内容，但主要集中在两位角色的友谊和在不如意的假期中的互动与探寻。整个故事围绕着他们的旅行以及相关的身份认同危机展开，具有一定的幽默感和人性化的描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_只是在天堂的又一天_-1_.docx]([变装]_只是在�
 | Size            | 41446 bytes                           |
 | MD5             | 5d2740e0fb2aa03aeb2c6bc2ef94acb3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kasumi                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 旅行故事, 校园生活, 冒险, 幽默, 友谊, 自我探索, 夏威夷, 度假, 失物, 错拿行李, 幽默小说, 男孩与女孩身份互换, 少男少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

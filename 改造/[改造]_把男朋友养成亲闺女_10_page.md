@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_10.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段关于性别认同与变身主题的小说文字，章节描绘了角色贝丽与女友阿曼达之间的亲密互动。故事中，贝丽在玩耍角色扮演的过程中，逐渐融入女装的状态，并在与阿曼达的情感探索中，面对自我性别认同的冲突与愉悦。文本重点强调了情感与性欲念的交织，贝丽在试图扮演女儿形象的同时，也误入了更加复杂的性别互动中。情节涉及穿着、身体认知的探讨，同时不乏对两位角色身体接触的详细描写，展现出一系列亲密的场景，这些情节可能引发读者对性别流动性以及自我接受的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_10.doc]([改造]_把男朋友�
 | Size            | 36352 bytes                           |
 | MD5             | b64e3eb7c28a2221022f3c0d56e40485                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2022-05-08                                 |
+| Tags            | 性别认同, 角色扮演, 跨性别, 情感探索, 性欲冲突, 亲密关系, 性别流动性, 女装, 自我发现, 青春期, 爱与欲望, 变身, 伪娘, 女性视角, 心理斗争, 社会禁忌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

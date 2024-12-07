@@ -7,7 +7,7 @@ TXT 下载: [[附身]_憑依した宿主の趣味嗜好を歪める話.doc]([附
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部关于凭依与性别转换的小说，讲述了一名男性主角获得了附身女性的能力，并通过这一能力体验女性的生活与情感。故事的开头显示主角意外获得凭依能力，接着描述他如何通过与目标女性进行目光接触和心中充满欲望来实现附身。主角附身到了女子高中生绫濑诗织的身体，期间体验到女性身体的感觉与记忆，并逐渐迷失于对这种新身份的享受。随着情节的发展，他不仅读取了宿主的记忆，还能力所及地操控了宿主的行为和意识，甚至涉及对他人性行为的操控和试验，揭示了其在使用这一能力过程中的道德与心理冲突。文中含有关于心理操控、性别认同、自我探索等主题，情节中不乏色情和性暗示的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_憑依した宿主の趣味嗜好を歪める話.doc]([附
 | Size            | 58880 bytes                           |
 | MD5             | 2fc9134ba482f2697033260815f50af7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ごみん                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性别转换, 跨性别, 心理操控, 性幻想, 情色, 女高中生, 角色扮演, 身体暴露, 自我认同, 自我探索, 随心所欲, 操控他人, 二次元, 虚构小说, 伪娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

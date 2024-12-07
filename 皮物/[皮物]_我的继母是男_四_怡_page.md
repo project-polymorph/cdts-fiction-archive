@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的继母是男_四_怡.docx]([皮物]_我的继母是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了一段关于伪娘（男娘）与继母之间关系的情节，故事通过第一人称的视角讲述了主人公与继母的互动和情感冲突。主人公开始了与其继母共同居住的生活，并探讨了渐渐对继母产生的情感。在文中，继母被描绘成一个外表妩媚、具有引导性的角色，她不仅对主人公施以诱惑，也在性别认同的过程中扮演了关键角色。主人公对即将进行的人体改造和成为女性身份的兴奋与不安贯穿全文，形成了悬念与期待。同时，文本包含部分露骨的语言，涉及身体变化、性别转换与性别认同的主题，这表明整个过程不仅仅是身体外貌的改变，更是自我认知的探索。文中多个情节展示了主人公对性别认同的思考与挣扎，如在购物时与继母的对话，以及对待即将体会到的女性身份的紧张与期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的继母是男_四_怡.docx]([皮物]_我的继母是�
 | Size            | 18574 bytes                           |
 | MD5             | e99b76fbf0a042d14bf772087a56f22c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 人体改造, 母子关系, 性别转换, 幻想, 情感纠葛, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_71.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由作者Nicegent42创作的伪娘/男娘类小说，主要描绘了角色贝丽和梅根阿姨之间的强烈而复杂的情感互动。故事开篇描绘了贝丽在晨起时的情境，感受到来自梅根阿姨的强烈挑逗。梅根阿姨试图控制贝丽的行为，强迫她接受一系列的侮辱和性暗示，包括贝丽需要对自己的性欲进行表现和表达。在互动中，梅根以一种严厉而又亲密的方式引导贝丽，甚至给她施加了一些羞辱性的言语，把贝丽的敏感和脆弱充分展现出来。这种情节交互不断强化了角色自我认同的混乱和矛盾，展现了两者之间扭曲的性关系，以及对性别角色的重新定义。此外，文件包含大量成人内容，涉及强奸和调教等情节，展现了跨性别角色的探索与自我认同的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_71.docx]([改造]_把男朋友
 | Size            | 17423 bytes                           |
 | MD5             | a5e15a8e64fd8532009a642c6277031c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 成人内容, 调教, 性欲, 自我认同, 强奸, 情感操控, 性别角色, 二次元, 女体化, SM, 年龄差, 魔法, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

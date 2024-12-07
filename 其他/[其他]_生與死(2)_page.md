@@ -7,7 +7,7 @@ TXT 下载: [[其他]_生與死(2).docx]([其他]_生與死(2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含一段关于一位名叫雪奈的角色的梦境和日常生活的叙述。故事开头，雪奈在黑暗中摸索，遇见了一位她感到恐惧的女性，并看到她流血的样子，随之而来的惊醒使她感到极度疲惫。雪奈的内心矛盾与对周围环境的观察相结合，展现了她缺乏安全感的状态。随着情节的发展，雪奈的形象逐渐清晰，她是一名优秀的学生，受到同学的关爱，并且与另一位女生由香建立了友好的关系。由香分享了与男性交往的细节，让雪奈感到愤怒和不适。故事最后，雪奈遭遇了袭击，被几名男性绑架，情节逐渐转向紧张与恐惧，描述了她对未知命运的恐惧并夹杂着一些关于性别认同及自我探索的复杂情感。整体内容在性别与性相关主题上突破了常规，涉及了性转与跨性别的融合。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_生與死(2).docx]([其他]_生與死(2).docx)
 | Size            | 37714 bytes                           |
 | MD5             | c0dd0c0d28c571d3b125a25e626d0dca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 强奸, 梦境, 心理恐惧, 自我探索, 校园生活, 女性友谊, 身份认同, 性别转换, 惊悚, 情感冲突, 青春, 成年与成长, 社会现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《犯罪嫌疑人在女子高中被当作TS药实验的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为小说《犯罪嫌疑人在女子高中被当作TS药实验的教材》的内容，主要讲述了一个男性角色因殴打上司被捕后，成为了一项名为“TS药物”实验的对象。在实验中，角色被迫服用能够改变性别的药物，经历身体的剧烈变化以及心理的冲突。在这个过程中，他在女高中生面前被当作实验教材，经历了羞辱与变身的痛苦，逐渐从男性身份转变为女性身份。文中详细描绘了角色变化的细节与周围人物的反应，其中夹杂着对性别认同、自我身份以及社会压迫等主题的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《犯罪嫌疑人在女子高中被当作TS药实验的�
 | Size            | 57112 bytes                           |
 | MD5             | eb196c90becbf4001c518d469774c222                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 性转, 跨性别, 伪娘, 药物实验, 自我认知, 社会角色, 性别认同, 女性化, 心理变化, 羞辱, 高中生, 教育实验, 奇幻, 科幻, 性别多样性, 情感探索, 青春期冲突, 性别转换, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

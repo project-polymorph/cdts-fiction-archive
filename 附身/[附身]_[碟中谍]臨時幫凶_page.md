@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[碟中谍]臨時幫凶.doc]([附身]_[碟中谍]臨時幫
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件名为《[附身]_[碟中谍]临时帮凶》，属于伪娘与跨性别相关的小说。这篇小说围绕着两名女性角色小憐和涼子的日常生活进行叙述，情节发展迅速，从简单的日常对话逐渐转向亲密的身体接触及性暗示。故事开头描述了小憐和涼子一同准备去参加联谊会的情景，小憐对于自身外貌的自豪以及对涼子的情感倾诉渐渐展开。在更衣室的私密环境中，涼子突然主动靠近小憐，这种突兀的举动引发了一系列调情和身体接触的描写，展现了角色之间复杂的感情以及涼子性格的突然转变。卡在更衣室里，两人之间微妙的权力和欲望关系，以及附身的悬念，构成了故事的核心主题。整体氛围充满了挑逗和情感的交错，同时也探索了性别认同和自我认知的主题。这篇小说涉及的情节极具挑衅性，包含了不适宜的性内容，适合在研究性别与性取向方面进行分析和讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[碟中谍]臨時幫凶.doc]([附身]_[碟中谍]臨時幫
 | Size            | 61440 bytes                           |
 | MD5             | 678e9f3c479b2d41bbde9bfbcc33a5f9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 跨性别, 调情, 附身, 恋爱, 职场, 私密场景, 青春, 女性视角, 力量关系, 自我探索, 情感纠葛, 欲望, 二次元, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

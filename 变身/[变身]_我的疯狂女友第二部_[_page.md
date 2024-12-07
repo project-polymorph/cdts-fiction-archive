@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我的疯狂女友第二部_[.docx]([变身]_我的疯狂�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于变身与性别转换的小说，描述了主角在复杂情境中与弟妹的互动，以及小花在间谍组织中的逆转角色。小说情节包含了悬疑、变身与强烈的情感冲突，以及对性别十字架主题的探讨。故事开始时，主角和小妹逃离一个地点，试图躲避追踪者，同时窥探小花的动向。随着情节的发展，出现了对小花在变身后展现出的性感与权力的描绘，以及主角对小花遭遇的愤怒与无力感。故事中小花在组织内部的变化与遭遇，不仅反映了权力的转变，也描绘出了角色之间紧张的关系和情感的复杂纠葛。尤其是小花的转变从无助到掌握权势，以及她对老四的挑逗双方的心理战，使得整个故事更显波澜起伏。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_我的疯狂女友第二部_[.docx]([变身]_我的疯狂�
 | Size            | 21577 bytes                           |
 | MD5             | 88a2cf7652beb8731e044c77162f8d2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 权力转变, 情感纠葛, 二次元, 伪娘, 强奸, 逆后宫, NTR, 调教, 强势角色, 邻里关系, 悬疑, 性探索, 自我认知, 恐惧与权力, 心理战                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

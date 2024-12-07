@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_喉舌计划——（一到五章）.doc]([皮物]_喉舌�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《喉舌计划》，描述了一种由倭国秘密研发的药物和相关计划。药物H和药水M的结合可导致人类变为所谓的“皮物”，而这些“皮物”可以被穿戴，以读取其记忆。文中提到的另一种液体黑姆，则是为了强化这一计划而研发的，能够让变成皮物的人继续控制行动。整个计划被称为“喉舌计划”，旨在通过潜入各国的高层职位，最终控制国家舆论和政策，从而影响国家的内政与外交。该文章包含大量关于这一变身的详细描写和计划背景，涉及性别转换、着装、身份认同等主题。尤其是在描述裹着女性皮肤的男性对其性别认同的矛盾感，及其对其身份的享受时，文中使用了诸多细腻而生动的描写。文件后半部分涉及性暗示和性行为的具体描述，并表现了角色对自己身份的探索和享受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_喉舌计划——（一到五章）.doc]([皮物]_喉舌�
 | Size            | 94208 bytes                           |
 | MD5             | 7ec2cebf2dc93867fdd240305c901c3c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 药物H, 黑姆液体, 樱花组织, 自我认知, 舆论控制, 性别探索, 二次元, 性转, 未来科技, 暗黑科幻, 身份转换, 性暗示, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_丧失之城3.docx]([其他]_丧失之城3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说的档案之一，内容描绘了一个复杂而微妙的情节，涉及性别转换、家庭关系及社会冲突。故事围绕两个黑衣人和他们的计划展开，其中包含了暴力及与女性角色之间的互动。经典的性转情节与人物动态被细致描写：一名女性角色和一名男性角色在小巷子里的激烈互动充满了激情、快感与阴暗的转折。此外，文件中还展现了一个警官的日常生活与妻子之间的温馨场景，突显了强烈的对比。这个故事通过不同角色的视角探索了性别认同与自我探索的主题，同时可能涉及一些敏感及限制级内容。以下是故事中的一句话，彰显了情节的紧张感与情欲：“她的身体真的太爽了。”。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_丧失之城3.docx]([其他]_丧失之城3.docx)
 | Size            | 51610 bytes                           |
 | MD5             | 0dc373fd36560d93cd73b57fce05f863                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 家庭关系, 性别认同, 暴力, 激情, 阴暗转折, 性转, 都市, 亲情, 权力斗争, 社交冲突, 怀孕, 警察故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

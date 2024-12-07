@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_潜入“深海”第三章.docx]([皮物]_潜入“深海
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为玄幻色彩的小说《潜入“深海”第三章》，描绘了一名提督与其秘书舰金刚之间的复杂关系。提督因即将执行充满危险的间谍任务而感到重重压力，对曾经的战友榛名的遭遇心怀愧疚。在金刚的关心与安慰下，提督面临着情感与责任的冲突。故事中，金刚试图通过身体上的亲密接触来帮助提督释放压力，其行为逐渐演变为具有明显色情内容的场景。金刚与提督之间的互动充满了紧张的气氛，展现了角色在情感与职务之间的挣扎，同时也融入了浓厚的性别话题与体验，描绘了提督从未经历过的强烈快感与身心的解放。整体上，小说涉及到性别认同、跨性别角色表现，以及权力与情感的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_潜入“深海”第三章.docx]([皮物]_潜入“深海
 | Size            | 17774 bytes                           |
 | MD5             | 1dc2d5902435428b02e5f4dd16c61096                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 潜入, 深海, 提督, 金刚, 间谍, 舰娘, 性转, 情感冲突, 自我探索, 亲密关系, 色情内容, 职务责任, 性别认同, 压力释放, 创伤后应激障碍, 二次元, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

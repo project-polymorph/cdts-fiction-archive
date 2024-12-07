@@ -7,7 +7,7 @@ TXT 下载: [[变身]_月中折桂子飘香，后羿射日月无光（下）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性别转换和跨性别交往的小说，讲述了角色达芙妮与阿尔忒弥斯之间复杂而热烈的情感纠葛，以及她们在性别认同、同性恋情中探索自我。故事开头，阿尔忒弥斯对达芙妮的疑惑表情感到不解，随即被情欲所覆盖。随着情节的发展，达芙妮和阿尔忒弥斯体验了身体和性别的转变，深入探讨了相互爱抚的感受和亲密关系中的权力动态。小说中穿插了对同性恋情的反思和对传统性别角色的挑战，结尾部分出现了一名年轻男子阿波罗的悲剧性死亡，进一步复杂化了人物间的关系。整体风格大胆而直接，涉及多种限制级内容，如身体转换、亲密接触等，展现了角色间的强烈情欲和自我认知的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_月中折桂子飘香，后羿射日月无光（下）.doc
 | Size            | 34304 bytes                           |
 | MD5             | 138a10caaee28003fc432eaa03fcf7a0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 女体化, 强烈情欲, 自我探索, 同性恋, 魔法, 爱情, 悲剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【我的舅舅是高官】下篇.doc]([变性]_【我的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《我的舅舅是高官》下篇，属于伪娘与变性相关的小说，内容围绕角色之间复杂的情感和性别认同问题展开。故事开头描绘了杜筏与李巧香的关系逐渐升温，然而伴随着社会与家庭的压力，剧情进入了紧张的冲突阶段。杜筏的心理状态变得愈发不稳定，甚至表现出攻击性，在一场意外中对胡透施加了暴力。在随后的情节中，胡透与校长江娇之间的交互变得暧昧，同时揭示了更多关于性别认同和心理状态的探讨。胡透使用催眠卡片尝试控制江娇，来实现他对她的欲望，从而引出了更多关于权力与性关系的复杂主题。该文的最后部分探讨了压抑与释放、操控与反操控之间的矛盾。文中包含一些明显的限制级内容，不适合未成年人阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【我的舅舅是高官】下篇.doc]([变性]_【我的�
 | Size            | 77824 bytes                           |
 | MD5             | 038d9d2a2498a5e6d8e3054e99c012ce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变性小说, 性别认同, 催眠, 权力游戏, 复杂人际关系, 情感冲突, 心理探讨, 性意识觉醒, 二次元文学, 恋爱, 强烈情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

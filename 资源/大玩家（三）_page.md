@@ -7,7 +7,7 @@ TXT 下载: [大玩家（三）.doc](大玩家（三）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《大玩家（三）》是一本以跨性别与性转为题材的小说，内容充满了情色元素和性别认同的探索。故事围绕角色凯尔西·查普林（又名卢慕雪），她体内有一个黑人灵魂的控制权，这种设定使得她在身体和意识上都经历巨大的冲突与挑战。从故事中，凯尔西在身体上的控制权被逐渐夺走，面临着心灵和肉体的撕扯。文中描绘了凯尔西内心的挣扎与无奈，她一方面感受到身体的欲望，另一方面又不愿意屈服于外界的影响。小说通过一系列露骨的性行为描写，例如与黑人查尔的互动，展现了角色内在的矛盾与欲望。同时，涉及了一些人际关系和权力斗争的元素，使得整个故事充满张力与冲突。尽管是以性为核心，但更多地反映了角色对性别与自我的认知与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [大玩家（三）.doc](大玩家（三）.doc)
 | Size            | 86528 bytes                           |
 | MD5             | 0924ee5113ed70c2ccf295d19a0482fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 调教, 奴役, 少妇, 白人, 黑人, 欲望, 精神控制, 混合型灵魂, 自我探索, 强权与弱势, 青春期困惑, 二次元, 幻想, 超自然, 情感纠葛, 暴露, 无力感, 调皮, 黏糊糊, 生理与心理的冲突, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

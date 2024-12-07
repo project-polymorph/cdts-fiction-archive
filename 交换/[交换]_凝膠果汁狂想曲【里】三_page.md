@@ -7,7 +7,7 @@ TXT 下载: [[交换]_凝膠果汁狂想曲【里】三.docx]([交换]_凝膠果
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《凝胶果汁狂想曲》是一部围绕角色性别转换和跨性别主题的小说，故事主要描绘了纯和真衣之间复杂的心理与身体经历。小说开始时，纯因为生病在家休息，真衣的妈妈非常细心地照顾纯，给他换衣服和倒水，展现了一种温柔的关怀。虽然肉体上表现为小女孩的纯，内心却是一个中年男人，那种身心的不一致产生了显著的冲突。随着情节的发展，真衣开始展示对纯身体的占有欲，甚至试图之间的身体互动，这引发了纯内心的恐惧与绝望。真衣的行为越来越大胆，令人感到不安，小说探讨了身体与性别认同、权力和控制之间的微妙关系，以及在这种关系下个体的无力感。整部作品显露出性别认同与内心冲突的复杂性，充满了挑战在社会与自我认知之间的张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_凝膠果汁狂想曲【里】三.docx]([交换]_凝膠果
 | Size            | 21275 bytes                           |
 | MD5             | e167846f210b31600ca31513b2c3c15e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | せなちか                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 心理冲突, 伪娘, 变身, 自我探索, 强奸, 逆后宫, 调教, 纯爱, 年龄差, 医疗, 女仆, 身体互动, NTR                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

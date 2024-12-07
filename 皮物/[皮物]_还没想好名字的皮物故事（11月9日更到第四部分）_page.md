@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_还没想好名字的皮物故事（11月9日更到第四�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇故事讲述了主人公杜明浩在经历了一场突如其来的分手后，回家照顾新生妹妹的日常生活。故事开始时，主人公因宿醉而回忆起与女友阮玲的悲惨关系，尤其是在得知她与富二代孟伟交往后，感到愤怒与失落。在电话中，父亲对他表示关心，但实际上是希望他能在家庭事务中提供帮助，尤其是在母亲刚刚生产的情况下。故事深入探讨了家庭关系的复杂性，尤其是在父亲与继母柳晓妍的婚姻中，主人公内心的挣扎与情感波动。讲述了他如何面对与继母的微妙关系，伴随着对过去的思念与对未来的迷茫。随着剧情的发展，主人公逐渐了解到家庭成员之间的情感与期待，每一个角色的关系交错，给他带来了新的思考与感悟。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_还没想好名字的皮物故事（11月9日更到第四�
 | Size            | 56670 bytes                           |
 | MD5             | a92ed3d0081b4ba4e1a4a10f87dbd7d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-11-09                                 |
+| Tags            | 宿醉, 家庭关系, 继母, 性转, 恋爱与分手, 情感挣扎, 生活琐事, 青春成长, 自我认同, 大学生活, 情感纠葛, 女性视角, 父子关系, 办公室恋情, 职场 drama, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

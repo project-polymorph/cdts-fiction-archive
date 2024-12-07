@@ -7,7 +7,7 @@ TXT 下载: [[附身]_这就是崩坏（2）_笨蛋舰长一日游.docx]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说内容围绕一名舰长与他的女武神部下的互动展开，情节充满了幽默和夸张。故事开头，舰长抱怨自己在做清洁工的工作，言辞中透出对于当上舰长的无奈。随着情节发展，舰长利用一种名为‘意志强化同调器’的设备，试图将自己的意识附加到女武神身上，以减少她的责任感，并借此机会调皮捣蛋。文中提到，女武神在接受意志同调后，展现出可爱的一面，令整个氛围轻松而风趣。小说中的角色生动活泼，尤其是女武神诞生出的邪恶可爱笑容，令人印象深刻。整篇小说充满了二次元文化的幽默元素，展示了角色之间的互动及性别角色的变换。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_这就是崩坏（2）_笨蛋舰长一日游.docx]([附身
 | Size            | 26640 bytes                           |
 | MD5             | c4242cebf5321a606c3b7649d5b022b8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 舰长, 女武神, 意志强化同调器, 幽默, 二次元, 角色变换, 校园, 青春, 科幻, 战斗, 超能力, 魔法少女, 恶搞, 性别转变, 学院                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

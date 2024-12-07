@@ -7,7 +7,7 @@ TXT 下载: [[变装]_变装替身传说_第十四章_混水摸鱼.docx]([变装
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《变装替身传说》中的第十四章，围绕主角在赵阳的威逼下，身穿性感而屈辱的服装，探索性别与身份的模糊界限。故事情节涉及主角被迫穿上捆绑衣物、丝袜和束口球，展示了复杂的权力动态与心理斗争。赵阳在故事中扮演操纵者的角色，注重于提升角色屈辱感与强烈的性别角色体验。随着情节的发展，主角心理逐渐从挣扎到屈服，最终经历了一系列极端的情感与身体刺激。本章充满了对性别、欲望和权力的深刻探讨，同时也描绘了跨性别身份认同的冲突与挑战。涉及的关键情节包括入口被丝袜堵嘴、被捆绑到医院进行神秘实验的情形，以及对自身角色的审视与反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_变装替身传说_第十四章_混水摸鱼.docx]([变装
 | Size            | 25943 bytes                           |
 | MD5             | 931f67479df23f84a096c417111e0239                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 自我探索, 权力游戏, 性奴, 捆绑, SM, 羞辱, 性转, 性感服装, 心理斗争, 欲望, 角色扮演, 压迫, 争斗, 混乱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

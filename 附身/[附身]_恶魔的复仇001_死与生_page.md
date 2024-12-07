@@ -7,7 +7,7 @@ TXT 下载: [[附身]_恶魔的复仇001_死与生.docx]([附身]_恶魔的复�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容讲述了角色希利卡在魔界中遭遇的背叛与死亡，希利卡被其亲姐妹及魔界公主们联合刺杀，情节充满了戏剧性和残酷性。故事描绘了魔界的权力争夺与女性角色之间的复杂关系，尤其是姐妹间的竞争与揭露。开篇便是希利卡遭受致命攻击的过程，反映出对生死的漠然和权力游戏的无情。文本中涉及大量的血腥描写，如"将希利卡的头部割开成了两半"和"将希利卡四分五裂"，展现了魔界生物的残酷与肮脏的斗争，同时也穿插了角色对尸体处理的无奈对话，丰富了角色间的互动与对比。随着情节的发展，角色艾儿对死亡的否认及后续的尸体处理展开了新的冲突，增添了不安的气氛，最后尤迪与艾斯的对话更是突显了魔界的生存残酷与角色交互的紧迫感。整体而言，这部作品通过血腥剧情探索了权力、亲情与生死的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_恶魔的复仇001_死与生.docx]([附身]_恶魔的复�
 | Size            | 18882 bytes                           |
 | MD5             | 12569d5871cadbe507a4939f125b6f9d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 魔界, 权力斗争, 背叛, 伦理冲突, 血腥, 姐妹关系, 残酷, 自我认同, 灵魂转换, 幻觉, 权力, 爱情, 魔法, 死亡, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

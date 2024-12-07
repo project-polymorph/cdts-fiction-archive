@@ -7,7 +7,7 @@ TXT 下载: [[变装]_误解螺旋（第二章）.docx]([变装]_误解螺旋（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为变装小说《误解螺旋》的第二章，主要描绘了角色亚历克斯在妻子杰西的陪伴下体验女性化服装以及情感上的波动。故事的开头，亚历克斯在观看自己打扮成小女孩美乐蒂的视频时，感到羞愧而又惊慌，妻子杰西却欣赏他的装扮，甚至向他表达了爱意。随着剧情的发展，两人之间的亲密关系逐渐加深，但亚历克斯对自己性别角色的认同却陷入了困惑。杰西在试图安慰他的同时，也无意中向邻居说明了亚历克斯的性别和身份，从而引发了一系列误会与困惑。小说通过描写夫妻之间温馨而亲密的互动，以及亚历克斯内心的纠结，探讨了性别认同与自我认知的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_误解螺旋（第二章）.docx]([变装]_误解螺旋（
 | Size            | 54011 bytes                           |
 | MD5             | e8b45619c666a1bdec330591ee7d5c5e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 强吻, 情感探索, 女性化, 变装, 自我认知, 亲密关系, 邻里互动, 误解, 羞愧, 甜蜜, 爱情, 角色扮演, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

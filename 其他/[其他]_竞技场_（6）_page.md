@@ -7,7 +7,7 @@ TXT 下载: [[其他]_竞技场_（6）.doc]([其他]_竞技场_（6）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为"竞技场"的虚构世界中的故事片段，主要描绘了一个奢华的住宅区。故事以魔女拉娜与女孩珍妮之间的对话开始，拉娜正在审视珍妮的身体，展示了包含权力与征服主题的情节。珍妮被描述为被大恶魔操控的个体，她与拉娜之间的互动揭示了身体与身份的冲突。接着，文件深入到一个豪华的舞会上，玛丽夫人是这一场合的主角，她利用舞会促进商业交易与社交。舞会不仅是权力游戏的场所，也充满了性暗示及放纵的潜在情节。随着剧情的发展，妮娜与米娅的关系也进一步探讨了生命、身体控制和欲望的复杂性。文件整体上充满了对性别认同、身心转变及性欲的复杂视角，尤其是在异世界设定下的情境中。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_竞技场_（6）.doc]([其他]_竞技场_（6）.doc)
 | Size            | 74240 bytes                           |
 | MD5             | ef3b9fa348d968661e251143a71662a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 魔法, 变身, 跨性别, 性别认同, 女性视角, 权力游戏, 奢华舞会, 调教, 演戏, 情欲, 二次元, 魔女, 大恶魔, 少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

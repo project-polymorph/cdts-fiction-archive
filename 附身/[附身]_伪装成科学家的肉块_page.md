@@ -7,7 +7,7 @@ TXT 下载: [[附身]_伪装成科学家的肉块.docx]([附身]_伪装成科学
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一位名叫六井爱良的女性研究者在人体器官移植方面的突破性研究。她的研究目的是克服器官移植中的排斥反应，开发出一种‘可供任何人移植的细胞’。在一次意外中，成功地完成了研究。文件中描绘了她在实验室的场景，爱良兴奋地看着自己的研究成果，准备放松一下自己。当她离开实验室时，培养胶囊中的万能细胞开始自我增殖，接下来发生了一系列恐怖的事件。最终，这些细胞形成了一个以她为模型的女性形态，仿佛吸收了她的意识，呈现出她的样貌。文件详细描述了这一转变过程，体现了科幻与惊悚的元素，同时探讨了关于身份、身体和科技的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_伪装成科学家的肉块.docx]([附身]_伪装成科学
 | Size            | 25835 bytes                           |
 | MD5             | 6873fdb1017302fcc30b78f5d5cca4d6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 生物技术, 人体改造, 恐怖, 自我认知, 身份困惑, 科学幻想, 变身, 肉体与意识, 实验室研究, 万能细胞, 科幻, 女权, 都市, 探索自我, 女性视角, 生命伦理, 医疗创新, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

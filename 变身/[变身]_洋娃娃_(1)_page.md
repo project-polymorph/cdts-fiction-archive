@@ -7,7 +7,7 @@ TXT 下载: [[变身]_洋娃娃_(1).docx]([变身]_洋娃娃_(1).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讲述了一个关于性别认同与侵犯的故事。故事的主人公在夜间走路时，被几名男子绑架进一辆车中。她被捆绑并遭受言语和身体上的侵犯，逐渐被迫接受自己的身份转变为‘洋娃娃’。在被侵犯的过程中，她感受到身体的绝望与无力，同时又逐渐麻木。这一过程带有强烈的心理冲突与挣扎，主人公在与施暴者的对抗中寻求自我保护的同时，也被迫面对自我认同的转变。在故事的后段，一位陌生男子出现，并对主人公表现出关心，提出复仇的建议，但主人公则对这件事感到无能为力，甚至在精神上选择了沉默，如同洋娃娃般任人摆弄。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_洋娃娃_(1).docx]([变身]_洋娃娃_(1).docx)
 | Size            | 21473 bytes                           |
 | MD5             | e72380d15f1c02b1dc7afb21a1241b2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 洋娃娃, 强奸, 自我认同, 心理冲突, 女性视角, 性别身份, 性转, 男性施暴, 反抗与沉默, 复仇, 心理创伤, 校园故事, 都市, 二次元, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

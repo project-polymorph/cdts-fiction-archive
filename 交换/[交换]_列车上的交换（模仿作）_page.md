@@ -7,7 +7,7 @@ TXT 下载: [[交换]_列车上的交换（模仿作）.docx]([交换]_列车上
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘 TS 变身与身体交换相关的小说，讲述了刘啵这一角色在地铁上的奇幻经历。他意外获得了进行身体交换的能力，伴随一场神秘的醉氧事件，剧情围绕着他与同班女生周书仪的身体交换展开。故事中，刘啵渴望变成周书仪，经过一系列幽默与奇幻的情节，他成功吸入了神秘的紫色气体，身体发生了奇异的变化，不仅感受到了女生身体的舒适，而且还与周书仪开展了一段令人迷醉的情感纠葛。整个故事充满了性别认同的探索、角色转变以及社会对于性别和性欲的多元描写，涉及较多限制级内容，读者在阅读时需保持谨慎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_列车上的交换（模仿作）.docx]([交换]_列车上
 | Size            | 22800 bytes                           |
 | MD5             | 3a2b97e588782e715a136c70fb1d377d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 身体交换, 伪娘, 强奸, 乱伦, 校园, 超自然, 奇幻, 情感纠葛, 自我探索, 性欲, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

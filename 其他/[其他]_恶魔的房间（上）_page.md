@@ -7,7 +7,7 @@ TXT 下载: [[其他]_恶魔的房间（上）.doc]([其他]_恶魔的房间（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《恶魔的房间（上）》讲述了秦笙面临的一系列戏剧性情境，涉及性别转换、角色冲突和情感纠葛。故事开始时，秦笙的未来女友来到家中探访，却发现秦笙与他的死党李岚共享一个空间。李岚在小说中展现出一副迷人面貌，但有着复杂的身份背景，令情节更加扑朔迷离。随着故事的发展，赵可欣意外介入，她对秦笙的关系感到不满，局面不断发展，引发种种误会与冲突。本文中充满了戏谑与幽默，例如李岚的妩媚行为和秦笙的反应，使得情节更具悬念。整篇作品不断探讨着身份、友情、谎言和自我认知，揭示了角色之间复杂的情感链。虽然故事情节涉及一些敏感话题，但作品的主要意图是研究与探索性别认同和关系动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_恶魔的房间（上）.doc]([其他]_恶魔的房间（�
 | Size            | 53760 bytes                           |
 | MD5             | 76afb02934986f7bda0a8c96238d713e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 校园, 情感纠葛, 角色冲突, 展览馆, 身体交换, 副角色, 隐藏身份, 情感迷惑, 时间扭曲, 异空间, 自我认知, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

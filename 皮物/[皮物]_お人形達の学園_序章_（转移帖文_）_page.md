@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_お人形達の学園_序章_（转移帖文_）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘未来日本特殊男子学院的小说序章，设定在西历20XX年，描述了一所名为男子学院的寄宿制学校，该校以培养将男生转变为女生的学生为目标。学院入学条件严格，要求申请者经过心理测试和考试，并在第一年内完全隔离在校。接下来的年级中，表现优秀的男生将有机会接受‘女体化’训练，穿戴一种特殊的人偶皮装，体验女性生活。该皮装不仅在外观上让穿戴者变成女性，更是在内部通过科技手段与身体感受相结合，营造出强烈的快感，要求学生忍耐这一状态以维持设备的正常功能。文中详细描述了该学校的特殊教育方针和心理训练，以及学生在学习与性别认同上所面临的种种挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_お人形達の学園_序章_（转移帖文_）.docx]([�
 | Size            | 21423 bytes                           |
 | MD5             | 74c24e04a6f3e838fb7b47fbe2d2d0da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 女体化, 男子学院, 未来科技, 性别认同, 校园生活, 特殊教育, 心理测试, 人偶皮装, 角色转变, 青春期压力, 科幻, 女性化, 性别探索, 心理训练                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

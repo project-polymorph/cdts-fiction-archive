@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_密室的12小时.docx]([皮物]_密室的12小时.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档标题为《密室的12小时》，内容主要围绕一个由游戏制作公司提出的"兼职工作"展开。主角川岛被邀请参与一次保密实验的试用，工作时长为12小时，并承诺将支付10万日元的报酬。文章中包含对主角内心的疑虑与对工作的好奇。当川岛提出对工作的细节疑问时，雇主椎名并未明确解答，而是强调必须签署保密协议。随着故事的发展，川岛被要求在一个隐秘的地点换上特定的服装，涉及了性别与身份的转换。文中渗透出对性别认同、自我探索与体态改造等主题的讨论，并包含了一些可能引起不适的内容，如身体束缚和性别角色的期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_密室的12小时.docx]([皮物]_密室的12小时.docx)
 | Size            | 36846 bytes                           |
 | MD5             | 02eb0240b757eb996d37b985cd644762                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 自我认知, 禁忌恋, 保密协议, 兼职工作, 神秘实验, 性别认同, 恐惧与欲望, 心灵探索, 身份变化, 紧身衣, 性别角色, 特殊场所, 心理冲突, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

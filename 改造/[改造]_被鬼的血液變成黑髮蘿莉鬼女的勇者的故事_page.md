@@ -7,7 +7,7 @@ TXT 下载: [[改造]_被鬼的血液變成黑髮蘿莉鬼女的勇者的故事.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品是一篇关于勇者与魔族之间冲突的奇幻小说，情节围绕着一个勇者在战斗中被魔道士捉住的故事。勇者在与魔族的战斗中遭到意外捕捉，被要求成为魔道士复生其女儿的媒介。魔道士使用其女儿的血液，对勇者的身体进行改造，使其转变为鬼女。在过程中，勇者经历了身体和心理上的极大变化，从一个强大的战斗者沦为软弱的鬼女。故事深入探讨了身份的转变、自我认知的冲突与恐惧，以及被迫接受新身份的痛苦。文中包含多次情绪激烈的描写，例如「啊啊啊啊啊啊！」和「哈啊♥咿呀......♥」等，展现了角色内心的挣扎与外在的身体变换。整个故事充满了超自然的元素和复杂的情感，有强烈的转变与重生主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_被鬼的血液變成黑髮蘿莉鬼女的勇者的故事.
 | Size            | 51200 bytes                           |
 | MD5             | a37dc1075fe39517de87cd062b352f6c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 鬼女, 魔道士, 勇者, 奇幻, 身体改造, 自我认知, 身份转变, 血液, 复生, 情感冲突, 非人之物, 传统勇者, 魔族, 性别变化, 故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_从总裁到秘书（下）.docx]([变身]_从总裁到秘
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《从总裁到秘书》（又名《OL控的故事》），讲述了主角在工作中逐渐融入女性角色的经历。故事开篇描绘了主角初次以女性身份进入公司，充满兴奋与羞涩。在办公室中，主角以华丽的女性装扮出现，引起同事的惊讶与赞美。主角与女同事们的对话中，隐含着对性别认同与自我认知的探索，面对外界对其性别角色的重新定义，主角表现出开心与窘迫的复杂情感。凯西、安吉拉和凯瑟琳等人的评价，加之主角对穿着高跟鞋的从容，揭示了其内心对于女性身份的向往与拥抱。随着情节的发展，主角逐渐接受了新身份，最终选择了一个女性名字‘蕾切尔’，象征着自身认同的转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_从总裁到秘书（下）.docx]([变身]_从总裁到秘
 | Size            | 42206 bytes                           |
 | MD5             | 237cf3618e2fd0cc599c1f4eaa245874                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 跨性别, 自我探索, 办公室恋情, 女性身份, 职业女性, OL文化, 情感认同, 时尚搭配, 社交互动, 职场挑战, 角色转变, 女同事的视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_奴隶“女”社员（1-10）.doc]([变装]_奴隶“女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于职场中性的变装与跨性别主题的小说。故事围绕两位主角梓入与小俊展开。梓入作为一个性感的女职员，邀请大家参加下班后的聚会，展现出她的优雅与魅力。然而，与她对比鲜明的是内向的男职员小俊，他因拒绝邀请而成为叹息的对象。故事情节包含了职场男女的微妙关系，以及对性别认同的探索。在酒吧聚会后，梓入与小俊外出购物，期间他们的互动暗示了潜在的情感与性别转变的主题。文章中穿插了对外表与内心冲突的描写，包括小俊的自我抚摸幻想，及他对女装的喜好，反映出角色的身份挣扎与内心渴望。整体文风挑逗而细腻，体现了二次元文化中对性别流动性与认同的关注。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_奴隶“女”社员（1-10）.doc]([变装]_奴隶“女
 | Size            | 48128 bytes                           |
 | MD5             | 6372713333347eeda1b32c3990a56f3d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 职场小说, 性别认同, 自我探索, 情感冲突, 达成共识, 酒吧聚会, 时尚社交                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

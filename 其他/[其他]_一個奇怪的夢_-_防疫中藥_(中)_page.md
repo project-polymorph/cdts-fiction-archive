@@ -7,7 +7,7 @@ TXT 下载: [[其他]_一個奇怪的夢_-_防疫中藥_(中).doc]([其他]_一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档是关于一个角色性别转换的故事，描述了一位男性角色在接受变身药物后，逐渐变成女性，并在其转变后与两位室友之间发生的多重亲密行为。文中详细描绘了角色逐渐适应女性身体的过程，以及伴随而来的性探索和羞耻感。角色不断尝试适应新身份的过程中，逐渐陷入对自己新身体的迷恋与复杂情感的纠葛之中，表现出对性别认同的探索与自我理解。情节包括角色在被室友玩弄乳房、胸部感受到的快感，以及由此引发的性反应与心理冲突，涉及强烈的性暗示和露骨的身体接触。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_一個奇怪的夢_-_防疫中藥_(中).doc]([其他]_一�
 | Size            | 61952 bytes                           |
 | MD5             | 5bf11775ba836ce26356322fccf2e74a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 男娘, 情感探索, 自我认同, 强迫, 羞耻, 性高潮, 性别认同, 身体探索, 淫荡, 无力反抗, 互动性行为, 乳房玩弄, 男女关系, 感官刺激, 欲望, 群体行为                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

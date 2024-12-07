@@ -7,7 +7,7 @@ TXT 下载: [[交换]_秘密（上）.doc]([交换]_秘密（上）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容为一部涉及伪娘与跨性别主题的小说，故事围绕一位杀马特发型的男人张子明展开。他在一个喧闹的市场中与一个看似低微的喽啰进行对话，涉及药品交易和性欲的刺激。随着情节的发展，张子明发现隐藏的阴暗面，涉及新型春药的买卖，引发了一系列对抗与冲突。故事中包含了种种复杂的人际关系和性欲情景，例如在KTV包间内，男女角色的肉搏和细腻的心理描写，以及潜藏的暴力和刺激紧张感。在这一场景中，涉及了性别身份的探索与角色的自我认知以及欲望与权力的斗争等多个层面，内容既包含了情感冲突，也揭示了社会的阴暗角落。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_秘密（上）.doc]([交换]_秘密（上）.doc)
 | Size            | 65536 bytes                           |
 | MD5             | aee700b0ade0aaddf541f005c04e4541                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 新型春药, KTV, 暗黑情节, 性欲探索, 身份认同, 人际关系, 暴力与刺激, 都市小说, 奇幻, 人物关系, 性取向, 青春, 强烈情感, 欲望, 性别身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

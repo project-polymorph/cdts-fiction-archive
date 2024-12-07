@@ -7,7 +7,7 @@ TXT 下载: [[变身]_重读长辈这本书：拾花入梦.doc]([变身]_重读�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一本关于变身与跨性别主题的小说，标题为《拾花入梦》。故事围绕主角在祖父病危的情况下，被迫去整理阁楼中一个神秘的樟木箱。在箱子里，他发现了一本名为《拾花笔记》的书，该书记录着过去的少女日记，展现了少女情怀和进步思想的碰撞。随着主角翻阅书籍，他意外地变身为书中那位可爱的混血少女，沉浸在与心中爱慕之人的欢愉时光中。故事掺杂着梦境与现实的交错，最终揭示了关于爱与牺牲的深刻主题，伴随着对家族历史和革命故事的探索。文本中原有强烈的情感描写与人物内心的变化，形成了一幅深刻的跨性别认同与性别转换的画卷。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_重读长辈这本书：拾花入梦.doc]([变身]_重读�
 | Size            | 29696 bytes                           |
 | MD5             | cb1a06de199cf672ad0582d53abf934b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 皮师                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 历史, 家族, 爱情, 少女, 梦境, 政治, 革命, 悬疑, 自我探索, 情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

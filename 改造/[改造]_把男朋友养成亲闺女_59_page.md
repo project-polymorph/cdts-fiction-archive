@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_59.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘与跨性别题材的小说章节，讲述了角色贝丽在情感和自我认同方面的挣扎。故事围绕贝丽与她的女朋友阿曼达之间的争吵展开，贝丽对自己伪装成少女的身份表示无法继续，同时感到愤怒与困惑。这一章节展示了角色复杂的情感状态，包括对性别角色的抗拒和自我认同的探索。在这一过程中，贝丽面临着外部压力和内心的冲突，情节深入探讨了性别认同、自我表达以及情感关系的脆弱。贝丽与阿曼达之间的关系因贝丽对自己身份的抗拒而变得紧张，反映出角色在二次元世界中的典型性别转换与情感波动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_59.doc]([改造]_把男朋友�
 | Size            | 39424 bytes                           |
 | MD5             | 81ef34957e2ef1a7a482f942237f0b89                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 情感纠葛, 自我认同, 性别转换, 强吻, 争吵, 情感关系, 角色冲突, 女友之间的误解, 情绪表达, 年轻情侣, 醉酒, 夏令营, 隐秘的自我                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

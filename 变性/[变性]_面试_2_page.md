@@ -7,7 +7,7 @@ TXT 下载: [[变性]_面试_2.doc]([变性]_面试_2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件记录了N女士与雇员之间的对话，主要围绕一份涉及女仆工作的新雇员的招聘过程。文件详细描述了工作内容、工作环境、制服要求以及雇佣合同的细节。雇员路易斯对工作感到欣喜，尤其是提供的高工资和免费的住处。然而，随着对工作要求的深入了解，路易斯发现自己将被要求穿女仆制服，这一点让他内心产生了矛盾与惊讶。N女士逐步引导路易斯适应工作的角色，她提到路易斯的服装需求，包括多种风格的女仆装。文件通过细腻的描写展现了路易斯的内心冲突以及N女士的坚定要求。此文本涉及性别角色的转变和自我认知的主题，包含对角色未来身份认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_面试_2.doc]([变性]_面试_2.doc)
 | Size            | 48640 bytes                           |
 | MD5             | 85dce0c2f736fd8ebe281c095d8a68f1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 女仆, 角色扮演, 性别认同, 制服, 雇佣关系, 二次元, 自我探索, 性别角色, 女仆装, 家务劳动, 职场, 房屋安排, 异性恋情节, 个人深度发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

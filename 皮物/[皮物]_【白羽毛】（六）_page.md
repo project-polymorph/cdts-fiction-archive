@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【白羽毛】（六）.docx]([皮物]_【白羽毛】（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及伪娘与跨性别题材的小说，主要讲述了角色kk在与好友jerry的互动中，经历了一系列与性别认同、自我探索相关的情感成长。故事背景设定在现代都市，kk以cc的身份与jerry交往，文中通过生动的对话描绘了两人复杂的情感纠葛与内心冲突。kk在角色转换过程中，逐渐适应了女性形象，并展现了她内心的挣扎，例如在试穿女装后的自我认同以及对性别角色的思考。jerry作为一位职场女性，对婚姻和生育持有独特的看法，她与cc的关系不断深化，从一开始的酒友到无话不谈的闺蜜。随着情节的发展，二人之间不仅有情感上的依赖，还有对彼此内心孤独与空虚的理解。文中探讨了伪娘的生活细节与情感世界，更深入地分析了现代女性在社会性别角色面前的反抗与自我认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【白羽毛】（六）.docx]([皮物]_【白羽毛】（
 | Size            | 37179 bytes                           |
 | MD5             | e0c1d2885aa67939c6bf2af22b02f4b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 情感探索, 青春, 同性恋, 自我认同, 都市生活, 好友关系, 女性视角, 心理斗争, 角色扮演, 性别角色, 细腻描写, 情感细节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

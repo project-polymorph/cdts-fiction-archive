@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【翻译换身】拜金女的下场.doc]([交换]_【翻�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部名为《拜金女的下场》的伪娘小说，原作者为Morpheus，由露娜·埃葵斯翻译。故事围绕主人公菲利普和他的秘书卡莉展开。他是一位白手起家的成功人士，年近三十却依然单身。小说开头描绘了菲利普对其豪宅的欣慰，以及他与红发秘书卡莉之间逐渐升温的关系。尽管菲利普明确表示不会娶卡莉，但不可否认他对她的情感。在一次饮酒聚会中，卡莉向菲利普提出加入一种春药，企图增进双方的亲密关系，却导致了一个戏剧性的转变：他们的身体意外交换。结果，菲利普必须面对卡莉身为自己的女性角色，而卡莉则告诉他这一切是为了她所追求的金钱和地位。小说涉及了性别交换、欲望、欺骗和关系的复杂性，情节生动，情感真实。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【翻译换身】拜金女的下场.doc]([交换]_【翻�
 | Size            | 38400 bytes                           |
 | MD5             | 64672fec84ca23d3dbb110842e99bb03                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Morpheus（原作者），露娜·埃葵斯（译者）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 跨性别, 伪娘, 春药, 爱情, 自我认知, 欲望, 情感冲突, 情感操控, 性别认同, 职场关系, 欺骗, 人际关系, 都市生活, 心理变化, 变身戏剧, 性别角色, 爱情游戏, 情感纠纷                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

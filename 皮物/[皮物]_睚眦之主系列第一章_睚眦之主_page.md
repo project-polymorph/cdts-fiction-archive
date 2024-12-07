@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_睚眦之主系列第一章_睚眦之主.doc]([皮物]_睚
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《睚眦之主》是一个以性别转换和报复为主题的长篇小说，讲述了安东尼，一个身材矮小、性格偏执的男子，他在斯旺西的交通管理局工作，生活中几乎没有社交，仅与朋友伯纳德一同饮酒。在小说中，他自称为“睚眦之主”，利用职务之便，追踪怠慢过他的人的私人信息，并进行复杂的报复行为。安东尼将自己的外表与其他人的外貌进行变化，制作面具，甚至涉及到穿戴皮物套装进行伪装，细致描写了其报复心理和扭曲的性别认同。故事中包含了角色不断的自我探索以及对性别与身份的挣扎，包括使用全身假皮套装以及假装成女性的种种细节，渗透着对性别认同和身份过渡的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_睚眦之主系列第一章_睚眦之主.doc]([皮物]_睚
 | Size            | 60416 bytes                           |
 | MD5             | b52fcbc33c503439c628ca13e24eb4e6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 睚眦之主, 性别转换, 自我认同, 报复, 伪装, 跨性别, 变身, 皮物套装, 心理扭曲, 性别探索, 社会偏见, 城乡生活, 身份危机, 男性角色, 小说, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

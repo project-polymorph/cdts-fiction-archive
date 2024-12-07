@@ -7,7 +7,11 @@ TXT 下载: [暗月杀机之降临.doc](暗月杀机之降临.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一则关于A市神秘组织“暗月”的悬疑小说，故事背景设定在夜色璀璨的A市，充满了夜生活的喧嚣与偷偷揭开的惊悚事件。故事通过一个中年男子在夜总会饮酒后突然死亡的开始，引出了一系列恐怖的命案。媒体揭露的头版新闻《神秘“暗月”再现，着名企业家接连遇害》让全城陷入恐慌。
+
+随着故事的发展，警方对这一系列离奇死亡事件的调查变得愈发复杂。每一位受害者的信息在他们被杀前就已在一个神秘的网站上发布，且这些人死因皆为心脏麻痹，且法医无法找到任何毒素或外伤。因而，警方怀疑这些案件与黑市组织“黑虎帮”有关，并决定派遣警员许世杰卧底潜入该帮派，以获取更多信息。
+
+故事中充满紧张的追逐与阴暗的地下交易，许世杰面临着重重困难和生命危险，展现了年轻警员的勇气与决心，暗示着潜藏于社会深处的黑暗与背叛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [暗月杀机之降临.doc](暗月杀机之降临.doc)
 | Size            | 72192 bytes                           |
 | MD5             | 48cf44f4518e6c233ea47a0cea525bea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 悬疑, 犯罪, 夜生活, 卧底, 神秘组织, 社会恐慌, A市, 暗月, 黑虎帮, 警察, 年轻勇者, 惊悚, 悬念, 阴谋, 暴力, 性转, 变身, 跨性别, 非人化, 自我认知, 心脏麻痹                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_逆转龙凤_（七）_矫变.doc]([改造]_逆转龙凤_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别主题小说《逆转龙凤（七）》的部分章节，主要讲述了一位少年皇帝在被迫接受性别矫正的过程中面临的挑战和内心的挣扎。文中描绘了少年在矫正过程中的情感变化，包括穿着女子猎装的不适和对自身身体变化的苦恼。少年逐渐意识到自己的外在和内心正在改变，而矫正过程中的严厉训练，如佩戴具有束缚性的矫正器具和学习优雅的女性举止，带来的巨大心理压力与痛苦。王婆和两位辅助妇女不断监控和指导少年的转变，强调社会对性别角色的期待与规范，以及对他心理的打击与改造。整段文字用细腻的语言表达了性别认同和自我探索的主题，也交织了对权力和身份的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_逆转龙凤_（七）_矫变.doc]([改造]_逆转龙凤_�
 | Size            | 49664 bytes                           |
 | MD5             | a69cb7f6da08f5b2e62927a83d2b9574                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 自我认同, 压迫, 变身, 戏剧, 束缚, 痛苦, 女性化, 心理变化, 社交规范, 矫正, 二次元, 奇幻, 恋爱, 严苛训练, 身份遇袭, 臣民身份, 权力关系, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

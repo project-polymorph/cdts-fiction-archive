@@ -7,7 +7,11 @@ TXT 下载: [入替大美女！附身电棒奇遇.doc](入替大美女！附身�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《入替大美女！附身电棒奇遇》是一部关于性别转换和自我认知冲突的跨性别题材小说。故事围绕李健，一个普通大学生，他在一次偶然的机会中获得了一根神秘的电棍，能够让他实现附身。故事开始于李健的朋友阿恒跟前女友婉洁分手，并因为一个富家子弟的强势介入而深受打击。在一次路上，李健遇到了一位流浪老人，并出于同情将其请去吃快餐，老人为了报恩将电棍送给他。
+
+当李健试用这根电棍时，他不慎附身到了老人的身体里，接着又因某些事件附身到了婉洁的身体。这一系列的变化使得他在体验女性身体的同时，逐渐对性别以及情感间的关系有了不同的认知。文件中包含了复杂的人际关系和情感纠葛，以及对附身后的奇妙体验，通过李健不断地挑战和否定性别规范，展现了主人公的内心成长与挣扎。
+
+该小说的情节涉及现代社会中普遍存在的物质与情感之间的对抗，揭示了不少年轻人在情感中对物质利益的追求。在情感描写上，诸如阿恒与婉洁的暧昧关系与背叛，以及李健在附身过程中产生的各种奇妙情感交互，加深了作品的复杂性和冲突感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [入替大美女！附身电棒奇遇.doc](入替大美女！附身�
 | Size            | 50688 bytes                           |
 | MD5             | c9ec38abe701197477188c7d54183a2d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 附身, 校园爱情, 自我认知, 欲望探索, 物质与爱, 奇幻, 二次元, 情感纠葛, 现代社会, 爱情, 变身小说, 伪娘, 强奸, 逆后宫, 调教, 百合, 淫荡, 强势介入                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

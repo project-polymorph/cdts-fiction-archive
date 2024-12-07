@@ -7,7 +7,7 @@ TXT 下载: [[变装]_舞蹈老师.doc]([变装]_舞蹈老师.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品名为《舞蹈老师》，由作者Bruce B创作，最初发布于2021年6月25日，文字总计约2.5万字。故事围绕主角娜丁和德文之间的关系展开，娜丁是一个主导性格强势的舞蹈老师，在与新同事德文互动中，她开始幻想和设想如何完全控制和改造德文。作品采用双视角叙述，透过娜丁和德文的视角，描绘出一种对权力与控制的地下探索。娜丁利用药物和心理操控手段，将德文转变为一个完全女性化的形象，并将其置于公开的羞辱与暴露环境中。作品虽然侧重于身体的改造过程，却也融入了心理变化的讨论，展示了性别认同与自我探索的主题。虽然情节涉及一些限制级内容，但仍以其独特的叙述方式和心理深度吸引读者。在故事中，德文被迫面对自身性别转换后的困境，以及对于身份重塑的惊恐和迷茫。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_舞蹈老师.doc]([变装]_舞蹈老师.doc)
 | Size            | 116736 bytes                           |
 | MD5             | cdf9c1fb34ea66d2dc62942d0c96bf4b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Bruce B                               |
+| Region          | 未知                               |
+| Date            | 2021-06-25                                 |
+| Tags            | 舞蹈老师, 性别改造, 自我探索, 控制欲, 羞辱, 女性化, 粉色裙子, 双视角, 社会身份, 心理操控, 跨性别, 变身, 伪娘, 剧情“发展”, 权力游戏, 二次元幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

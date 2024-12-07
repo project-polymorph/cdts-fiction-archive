@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译】【改造】我是女仆机器人_第4章_变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的第四章，标题为《变化》。故事围绕女仆机器人杰基与其主人之间复杂的情感和角色替换展开。杰基逐渐适应了作为女仆机器人的身份，开始感受到与人类身份的冲突。杰基的丈夫在事业上需用到一个吸引董事会的“妻子”，而杰基却被视为只是一名普通的女仆机器人。随着情节的发展，杰基体验到自我认知的混乱和内心的痛苦，特别是当她目睹自己的主人和新的妻子杰姬享受亲密关系时，感到背叛和失落。整章探讨了身份认同、权力关系以及机器人的自主性等主题，展现了杰基内心的挣扎和对自身角色的思索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译】【改造】我是女仆机器人_第4章_变�
 | Size            | 46080 bytes                           |
 | MD5             | 9bc66076f375172ff58e45bf2fcce04a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 女仆机器人, 角色变换, 性别认同, 情感纠葛, 自我认知, 背叛, 虚拟情感, 机器人, 性别冲突, 家庭关系, 自我探索, 科技幻想, 情欲, 心理创伤, 情感操控                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_无双三国1.docx]([皮物]_无双三国1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于TS (变性) 爱好者黄松穿越到一个虚拟世界的小说。角色黄松在游戏中自定义了多个属性，结果意外穿越到一个名为“无双三国”的游戏环境中。故事从黄松目前面临的困境开始，他需通过一个名为“穿越系统”的机制完成一系列任务，以寻找回家的途径。黄松的内心实际上是一个TS爱好者，渴望体验女性的身体与生活。故事中通过对黄松试图穿上人皮的描写，探索了身份认同、自我探索和性别转换的问题。文本中提到的一些敏感内容反映出黄松对于自我认知的挣扎与欲望。整篇小说交织着奇幻与现实，展示了一个对变性体验的幻想与追寻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_无双三国1.docx]([皮物]_无双三国1.docx)
 | Size            | 19539 bytes                           |
 | MD5             | cc5757042c33e67f8c2163b32f93674d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS, 变身, 性别转换, 虚拟现实, 自我探索, 穿越, 武侠, 角色扮演, 幻想小说, 二次元, 奇幻, 性别认同, 内心挣扎, 游戏MOD, 变性幻想, 女性视角, 沉浸体验, 冒险故事, 角色属性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

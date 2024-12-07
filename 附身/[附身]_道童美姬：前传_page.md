@@ -7,7 +7,9 @@ TXT 下载: [[附身]_道童美姬：前传.doc]([附身]_道童美姬：前传.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于道士与妖女之间冲突的小说内容，展现了主角柳承章在众多修道者和妖族势力的对峙中所经历的激烈战斗。故事背景设置在一个充满武侠元素的小镇，残阳似火，场面悲惨，生者哀嚎，死者仰卧于血泊之中。柳承章因无故惨死的门人而愤怒，与其他门派的修士进行激斗。文件中多次提及柳承章出剑时的气势和与其他高手之间的较量，如"腰间佩剑嗡嗡作响"，强化了角色的强大与无畏。
+
+在战斗中，柳承章的妻子紫荆妖女出场，使用了强大的法术"天魔解体大法"，最终以自我牺牲的方式结束了战斗，予以强烈的情感冲击。文件的最后部分讲述了柳承章和紫荆之间复杂的感情，以及紫荆施法后留下的结果，充满了对命运和轮回的沉思。整个故事充满了悬念与戏剧冲突，探讨了爱情、 sacrifice和自我认知等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_道童美姬：前传.doc]([附身]_道童美姬：前传.
 | Size            | 43520 bytes                           |
 | MD5             | 386eb525348c4d50f0edd2133b644d06                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 道士, 妖女, 武侠, 性别认同, 自我牺牲, 剑术, 剑气, 黑气, 阴影, 战斗, 悲剧, 情感, 悬念, 生与死, 轮回, 修真, 强者对决, 情感冲突, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_夜には別の顔（後編）.docx]([附身]_夜には別
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一篇关于精神附身与性别转换的短篇小说，《夜には別の顔（後編）》。故事围绕着主角与其妻子纪惠之间的关系进行展开，情节充满悬念和心理冲突。在开篇，主角感受到一种陌生的温度，发现妻子纪惠发生了变化。他努力去唤醒她，却发现她的反应异常，甚至说出了夺取身体的可怕言论。随着故事的发展，主角逐渐意识到，纪惠的身体似乎被他人控制，且那个人对主角显露出敌意与嘲弄。观众随着主角的视角，体验到紧张与恐惧，思考着关于身份、身体与控制的深层次主题。文本包含个人探索和性别认同等复杂问题，并涉及刺激的情节，但主要集中于心理斗争与对话。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_夜には別の顔（後編）.docx]([附身]_夜には別
 | Size            | 35142 bytes                           |
 | MD5             | 0c59ecbeecb659911817efeaac053c2b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 精神附身, 性别转换, 悬疑, 心理斗争, 自我认知, 强烈反转, 婚姻危机, 身份认同, 幻想, 二次元, 跨性别, 女主, 情感纠葛, 惊悚, 奇幻, 禁忌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

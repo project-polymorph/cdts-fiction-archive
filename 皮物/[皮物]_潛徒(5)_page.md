@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_潛徒(5).docx]([皮物]_潛徒(5).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一段伪娘变身情节的小说片段，描述了一个名为97号的角色如何通过试作型生物皮衣发生了性别转换。故事以97号为视角，呈现了她在遇到负责实验的艾丽后，意外发现了隐秘的实验室，并在穿戴了这种奇特的皮衣后，体验了由女性形象变为少女形态的过程。随着形态的变化，故事逐渐引入了神秘的中性角色，她们的对话充满调侃与戏谑，同时也流露出权力与控制的暗示。文本讨论了性别认同、身体变化、自我探索等主题，夹杂了一些限制级的情节，例如角色间的对话暗示着权力关系及调教的情境。这种设定让人对角色的未来发展和心灵冲突产生深刻的思考
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_潛徒(5).docx]([皮物]_潛徒(5).docx)
 | Size            | 24665 bytes                           |
 | MD5             | f4ce5a5d949915bcceea5c687d1d56b1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别转换, 生物科技, 暗黑情节, 科技, 权力游戏, 调教, 心理探索, 神秘角色, 年龄差, 人际关系, 情感纠葛, 自我认知, 情欲, 虚构世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

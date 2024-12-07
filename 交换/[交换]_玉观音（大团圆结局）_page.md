@@ -7,7 +7,7 @@ TXT 下载: [[交换]_玉观音（大团圆结局）.docx]([交换]_玉观音（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段伪娘和变身小说，内容涉及两位女性角色在私密空间内的感情及身体的复杂变化。故事背景设定在中海普陀区某高档别墅，描绘了当夜的阴森冷清与室内两位女子之间的亲密行为。故事从2011年冬开始，详细描述了她们之间混乱而强烈的欲望。角色艾姐和小纯在进行身体交融的同时，身体特征也随着情感的深化发生巨变，充满了性别认同与自我探索的冲突和转变。文中提到的玉观音成为二人互动和身体变化的重要媒介，表现了对性别和身体控制的主题。整个故事混合了性欲、身份转变，以及对身体与心理极限的探索，适合对相关题材感兴趣的读者学习和研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_玉观音（大团圆结局）.docx]([交换]_玉观音（
 | Size            | 29600 bytes                           |
 | MD5             | 0a488e816cad809b09b4d356127bb371                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-12-01                                 |
+| Tags            | 性转, 变身, 伪娘小说, 跨性别, 强烈性欲, 自我认知, 情感混乱, 玉观音, 女性的身体认同, 肉体交换, 夜间冒险, 私密关系, 身份认同, 欲望探索, 禁忌情感, 角色混淆, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

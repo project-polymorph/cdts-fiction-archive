@@ -7,7 +7,7 @@ TXT 下载: [[其他]_神秘家族之二初入校园4，5.docx]([其他]_神秘�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部性转与伪娘主题的小说章节，名为《神秘家族之二初入校园4，5》。故事围绕一位年轻学生与其女神郎颖的复杂关系展开。故事开始于一间宾馆的客房，男主角在这里遇到了权威历史教授陈正，他受到了两名年轻人的威胁和折磨。教授被逼问关于一件古物的下落。随后情节转至男主与女神郎颖在宾馆的相遇，展现了一种紧张又暧昧的气氛。郎颖揭示了她的背景，声称是金家族世代传承的侍卫，并引发男主对自己家族身份的深入思考。文中描绘了角色们的心理状态与情感变化，尤其是男主对郎颖的迷恋与尴尬。故事蒙上了一层悬疑与探究家庭秘密的色彩，同时还涉及一些性暗示和社交困境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_神秘家族之二初入校园4，5.docx]([其他]_神秘�
 | Size            | 31602 bytes                           |
 | MD5             | e9a9992eb9731b64766be73a7fdbd20b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园, 悬疑, 跨性别, 权力游戏, 家庭秘密, 暗恋, 男主角成长, 青少年题材, 豪华房间, 权威与反叛, 历史教授, 身世探究, 情感探索, 自我认知, 家族传承                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

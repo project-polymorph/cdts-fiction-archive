@@ -7,7 +7,7 @@ TXT 下载: [[改造]_丝袜的新人生-番外篇_(楊總的計策)_叁.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于变身与性别转换主题的小说，以小毛（美艳）的视角叙述其与丈夫杨炎之间的关系和经历。故事场景设置在办公室，包含了有关性别变化和性行为的内容。小毛回忆起了上个月与杨炎在他变身为女人的状态下的同性之爱，同时描绘了他们日常生活中的互动及工作中的情节。故事涉及了一些成人主题，包括办公室场景的性行为和男女主角之间的私密关系。随着情节的发展，小毛还发现了丈夫办公桌下的秘密：一些特殊产品，表示他们在性行为中使用了玩具和道具。整篇文章充满了暧昧与欲望，同时也涵盖了商业合作与关系的动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_丝袜的新人生-番外篇_(楊總的計策)_叁.doc]([�
 | Size            | 45056 bytes                           |
 | MD5             | 8a0b9f2c173865968e2afdb3bb719cbd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 办公室恋情, 成人内容, 强奸, 调教, 多角关系, 性别认同, 自我探索, TSF, 淫荡, 变嫁, 爱情, 暴露癖, 淫乱, 魔法少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

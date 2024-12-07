@@ -7,7 +7,7 @@ TXT 下载: [[变性]_完美的妥协（8）完结.doc]([变性]_完美的妥协
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一部关于性别转换与跨性别主题的小说内容，涉及角色珍娜·达灵顿的个人故事。整部作品描写了珍娜从一个男性身份转变为女性，嫁给名为杰西的男性，并探索了她作为新女性在豪门家庭中生活的感受与挑战。小说通过珍娜的视角展示了她如何适应其新生活，包括情感、身体上的变化，以及与杰西之间的亲密关系。文中提到珍娜的外貌变化和她在生活中面临的情感冲突，比如怀孕的经历、与家庭的关系和身为“完美女人”的自我认知。文中还涉及了不少露骨的性描写，尤其是在新婚之夜、蜜月期间的性体验，反映了性别角色和权力关系的变化。整体氛围复杂，交织着温馨与迷茫，既表现了角色对新身份的期待，同时也揭示了深层的自我探索和对传统性别规范的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_完美的妥协（8）完结.doc]([变性]_完美的妥协
 | Size            | 40960 bytes                           |
 | MD5             | f9b272feb7dfa3b3c2f141282ae41488                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 婚姻, 家庭关系, 性别认同, 自我探索, 豪门生活, 性教育, 性行为, 情感依恋, 女性视角, 性别角色, 身体转换, 现代文学, 爱情, 女性主义, 婚姻生活, 二次元文化, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

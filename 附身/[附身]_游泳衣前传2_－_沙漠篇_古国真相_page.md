@@ -7,7 +7,7 @@ TXT 下载: [[附身]_游泳衣前传2_－_沙漠篇_古国真相.doc]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为凤如的年轻女性的故事，她在农村探望年迈的奶奶，并展现出对家庭的深厚情感和责任感。故事发生在1992年的衢州，描绘了古老徽州村落的美丽景象和简单生活。凤如是一名考古学研究员，她计划完成已故父亲的未竟之业，并希望通过研究古文明来实现对父亲的追思。文中穿插了凤如的内心挣扎，尤其是在性别认同与自我形象上，她的身体变化让她对过去的自我充满矛盾和痛苦。随着剧情发展，她回忆起与奶奶、父亲的亲密关系，以及对家人的责任感。凤如努力在传统家庭观念与个人自我认同之间找到平衡，同时追回失去的亲情和家庭的秘密。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_游泳衣前传2_－_沙漠篇_古国真相.doc]([附身]_
 | Size            | 50176 bytes                           |
 | MD5             | abe2f8de47924a08cc2b7d8d4b03d187                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 1992-06-01                                 |
+| Tags            | 伪娘, 跨性别, 家庭关系, 考古研究, 古国真相, 成长故事, 自我探索, 性别认同, 茶文化, 农村生活, 父女情, 亲情, 时代变迁, 秘书, 温情, 心理冲突, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

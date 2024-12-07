@@ -7,7 +7,7 @@ TXT 下载: [[变身]_FAKE_TIME_出租屋风波1.docx]([变身]_FAKE_TIME_出租
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档通过角色林枫与蔡卓的视角，描绘了在东海市的一间出租屋中发生的一系列事件。在这个出租屋里，原本只有林枫和蔡卓两名年轻的上班族，直到他们的室友乔音，这位来自985大学的漂亮女大学生搬进来。然而，变故发生，当乔音的内衣和其他衣物接连失踪时，令她不得不向房东求助，并最终选择搬出。令人意外的是，蔡卓在清理出租屋时，无意中发现了一名男盗贼，这名男性不仅偷了乔音的衣物，还在其地下室中实施了异装癖的行为。随着故事的发展，蔡卓目睹了男盗贼的身体逐渐变得纤细，形成了一种男性与女性特征杂糅的状态，揭示了变身与性别认同的复杂关系。整个故事在探讨性别转换与自我认同的同时，还涉及到某种程度的性暗示和身体变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_FAKE_TIME_出租屋风波1.docx]([变身]_FAKE_TIME_出租
 | Size            | 21901 bytes                           |
 | MD5             | 5ec136038266ec490d20173906190b7e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 伪娘, 出租屋, 自我认同, 异装癖, 爱情, 强奸, NTR, 变嫁, 变装, 性转, 情感纠葛, 身份危机, 奇幻, 校园, 都市, 性别认同, 药物效应, 剧情反转, 黑暗幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

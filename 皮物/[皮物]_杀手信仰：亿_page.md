@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_杀手信仰：亿.doc]([皮物]_杀手信仰：亿.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于伪娘及跨性别小说的创作，结合了历史与虚构的元素，讲述了在1918年俄罗斯帝国动荡时期，沙皇尼古拉二世及其家族的处境。故事开场描绘了一位守卫在沙皇家族囚禁地点的士兵，他因为无聊而饮酒，面对即将到来的变革，心中充满了疑虑和不安。紧接着，一个神秘的角色骑着黑马出现，揭示了其真实身份是一位伪装成男人的女性，然而她的目标却是取代阿纳斯塔西娅公主。文中展现了角色的性别流动性与伪装身份之间的关系，强调了对女性身体与身份角色的复杂探索。同时，故事也隐喻了历史事件与个人命运的交织，以及革命背景下可悲的结局。在故事的结尾，展现了历史的残酷和无奈，表明了真正的真相将被掩盖。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_杀手信仰：亿.doc]([皮物]_杀手信仰：亿.doc)
 | Size            | 32768 bytes                           |
 | MD5             | 6c624f7f5568290949c162ed020a480e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 历史小说, 沙皇时代, 身份认同, 变身, 革命, 政治斗争, 性别转换, 虚构历史, 伪装术, 密谋, 情节扭转, 自我探索, 男性视角, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

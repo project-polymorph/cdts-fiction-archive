@@ -7,7 +7,9 @@ TXT 下载: [[附身]_絲魅（下）.docx]([附身]_絲魅（下）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说是中篇作品【丝魅】系列的下篇，主要描绘了角色在性别转换后与母亲之间复杂而禁忌的关系。故事中的主角经历了性别认同的挣扎，并与自己身为女性的母亲之间产生了一系列暧昧和刺激的互动。小说的开头描绘了主角早上吃早餐时，感受到母亲不寻常的性感打扮，这样的情境令主角感到惊讶和困惑。
+
+小说中，主角对母亲性感的打扮非常怦然心动，并想起了母亲曾给予的温暖的亲吻，随着情节的发展，主角内心的欲望与社会的禁忌发生了激烈的碰撞。作品通过细腻的心理描写探讨了角色的自我探索与性别认同，以及在这一过程中产生的情感和冲突。诸多敏感与争议的元素穿插其中，包括自我认知的转变和性别关系的复杂性，使读者对角色的心理状态有更深的理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_絲魅（下）.docx]([附身]_絲魅（下）.docx)
 | Size            | 22463 bytes                           |
 | MD5             | 49f6cf8f043d742d77ed90ab3d9fd197                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 禁忌恋, 自我探索, 情感冲突, 母子关系, 伪娘, 变性, 跨性别, 情欲, 内心挣扎, 刺激, 二次元, 强奸, NTR, 乱伦, 淫荡, 调教, 多人, 逆后宫, 年龄差, 人体改造, 药娘, 阉割, 姐姐, 变装, 女仆, 学生, 老师, 催眠, 变嫁, 女体化, 雌堕, 春药, 养成系, 魔法, 奇幻, 虚拟现实, 都市, 古代, 附身, 机械, 科幻, 穿越                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

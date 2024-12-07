@@ -7,7 +7,7 @@ TXT 下载: [[其他]_《我张傲宸是来当起点男主不是来当H游戏女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇科幻小说的草稿，故事设定在2076年，描述了随着虚拟实境技术的发展，人类的娱乐方式发生了剧烈变化。主角张傲宸是一个20岁的年轻人，他对网络小说产生了浓厚的兴趣，尤其是起点的实境小说。故事深入探讨了他对性相关内容的渴望，以及在严格的内容管制环境下所经历的沮丧。张傲宸通过一个盗版小说网站进入了一个充满诱惑的小说世界，期待体验无尽的乐趣。但当他试图进行高阶体验时，一系列意想不到的事件发生，使他意识到现实与虚拟之间界限的模糊，以及潜在的风险。该作品混合了对网络文化和未来社会的评论，展现了现代青年对于性、关系及自我认同的复杂体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_《我张傲宸是来当起点男主不是来当H游戏女
 | Size            | 33792 bytes                           |
 | MD5             | db638a5b43b7b92edf14b1cbdf9ccd0d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 虚拟现实, 网络小说, 科幻, 性相关内容, 自我认同, 情感纠葛, 盗版, 技术监管, 娱乐方式, 未来科技, 角色扮演, 后宫, 幻想, 社会评论, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

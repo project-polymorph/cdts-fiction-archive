@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_妖淫皮(拾陆)_我的护花使者.docx]([皮物]_妖淫
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一位名为小瑜的女主角及其护花使者小杰的温馨爱情故事。故事发生在寒冷的冬天，小瑜在与小杰相遇时感受到对方细腻的关怀与保护。文本中描绘了小杰为了接送小瑜而不顾寒冷，每天骑车到车站等她的情景，展现了他们之间的暧昧和甜蜜。随着故事的发展，小瑜在某种程度上被小杰的性格所影响，她逐渐在人格上表现出女性化的特征，且内心对小杰产生了一种越来越强烈的依赖与情感。文中包含了大量细腻的情感描写与互动细节，增加了故事的亲密感，例如小瑜对小杰的调侃与撒娇。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_妖淫皮(拾陆)_我的护花使者.docx]([皮物]_妖淫
 | Size            | 22778 bytes                           |
 | MD5             | 2c3d76070d830bd564879c6cb987f1ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 变身, 青春爱情, 暧昧关系, 校园生活, 自我认知, 性别认同, 妖力, 护花使者, 冬季, 感情发展, 角色发展, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

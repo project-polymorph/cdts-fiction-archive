@@ -7,7 +7,7 @@ TXT 下载: [[交换]_逆转人生_10.docx]([交换]_逆转人生_10.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一位母亲与其女儿之间复杂而禁忌的感情，内容围绕着性别转换与角色互换展开。故事的开头，母女二人在衣帽间改变衣物，充满了亲密的气息，体现出一种特殊的亲情与依恋。同时，伴随着身心的转换，角色之间的界限变得模糊。小说描绘了母亲对于女儿的赞美与爱慕，展现了对角色性别及身份认同的深刻思考。随着情节的发展，母亲在欲望与责任之间挣扎，电话的响起又打断了她的沉浸，揭示出家庭关系与社会道德的冲突。整个故事通过细腻的心理描写和情感表达，深入探讨了性别与爱的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_逆转人生_10.docx]([交换]_逆转人生_10.docx)
 | Size            | 20566 bytes                           |
 | MD5             | 3724d52633e1f0d7bd71af5c9a1ff00e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 母女关系, 禁忌之爱, 性别认同, 欲望, 角色互换, 情感纠葛, 二次元文化, 青春, 自我探索, 家庭关系, 女性视角, 成人内容, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

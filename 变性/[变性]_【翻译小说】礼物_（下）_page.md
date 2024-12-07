@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译小说】礼物_（下）.docx]([变性]_【翻�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一位名叫霍华德（后改名为贝蒂）的跨性别者的转变过程的小说章节。故事开始于贝蒂选择了一件新买的夏装，她在女性朋友玛丽的指导下，努力打扮自己并体验女性的生活。在与医生的约见中，贝蒂谈到她失去了男性性欲，身体正在由男性特征向女性特征变化，医生的反应显示了医学上的一系列观察。贝蒂和玛丽随后经历了一系列法律程序，包括在法院改名为贝蒂·布兰迪，之后她们更新了驾照和银行账户，正式开始了新的生活。在这个过程中，贝蒂感受到了作为女性的生活变化，以及她与玛丽之间情感的加深。小说着重描绘了贝蒂的内心变化以及对自己新身份的认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译小说】礼物_（下）.docx]([变性]_【翻�
 | Size            | 61865 bytes                           |
 | MD5             | 4d58c08623c06843bd7c820f10cc9a3f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 变性, 女性形象, 自我探索, 法律程序, 心理咨询, 医治过程, 情感关系, 生活适应, 转变, 伪娘, 变嫁, 百合, 年龄差, 校园生活, 都市, 现代爱情, 情感, 性别变换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_破茧的黑之翼5.doc]([皮物]_破茧的黑之翼5.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇涉及性别转变和跨性别主题的小说，主要讲述了角色艾尔薇与其母亲雅尔菲德之间的复杂关系。艾尔薇回忆起与母亲共同度过的快乐时光，然而母亲被称为魔女并被杀害的消息让她陷入痛苦之中。在母亲的影响下，艾尔薇逐渐开始接受自己魔女的身份，以及随之而来的身体变化和性别认同的困惑。故事中描绘了性欲与魔法之间的关系，以及主教对艾尔薇的压制与操控。通过对话和内心独白，读者得以窥见艾尔薇内心的冲突和成长，展现了魔法与自我认同的复杂交织。内容涉及成人礼、性欲的探索和身体的变化，呈现出强烈的色情与心理层面的叙述，是一部典型的变身与跨性别题材小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_破茧的黑之翼5.doc]([皮物]_破茧的黑之翼5.doc)
 | Size            | 41984 bytes                           |
 | MD5             | 364b77fb5d88095f5e253e2c15b3a5e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 魔法, 母女关系, 成人礼, 自我认同, 欲望探索, 情感冲突, 黑暗奇幻, 另类教育, 角色扮演, 魔女传说, 生理变化, 魅魔化, 潜意识, 家庭秘密                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

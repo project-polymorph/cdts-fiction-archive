@@ -7,7 +7,7 @@ TXT 下载: [[变装]_老婆要嫁人我成了陪嫁6--7.docx]([变装]_老婆�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一个关于伪娘和性转主题的小说片段，描绘了角色在社交场合中的复杂互动及心理状态。故事主要围绕男主人公丽丽与他的妻子诗诗，以及另一位女性角色妍姐之间的关系展开。内容包含对丽丽的外貌、内心感受及自我认同的探索，以及他在家庭内的地位和角色转换。场景中充满了对于男女角色的反思和讨论，特别是在涉及家庭规则、性别认同和社会期待的方面。妍姐的态度显示了对于传统家庭结构的维护与挑战，尤其是在要求丽丽执行女性角色的期望时。文中还涉及了SM、家法等成人内容，展示了特殊的家庭文化和性暗示，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_老婆要嫁人我成了陪嫁6--7.docx]([变装]_老婆�
 | Size            | 19498 bytes                           |
 | MD5             | 81e7b2602ef6be68dfa2aa185c54eaeb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 家庭虐恋, 情感纠葛, SM, 社会期待, 自我认同, 恋爱, 年龄差, 女性角色, 传统家庭, 情趣用品, 地下室情节, 角色扮演, 强制情境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

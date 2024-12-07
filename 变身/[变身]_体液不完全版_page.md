@@ -7,7 +7,7 @@ TXT 下载: [[变身]_体液不完全版.doc]([变身]_体液不完全版.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档包含了一部涉及跨性别和变身主题的小说，讲述了主人公王雪在追查一起离奇案件的过程中，遭遇到一个可以变身为他人模样的罪犯。故事开始于王雪作为私人侦探调查一个神秘的检验学医师良，她发现良的行为异常，并在一次潜入中发现了与她有关的秘密。在她的冒险过程中，描绘了许多关于性别转化和自我认知的复杂描写。例如，其中一幕中，王雪目睹了一名变身女性的角色充满诱惑地展示自己的身体，以及伴随而来的性幻想和自我冲突。此外，小说还利用了诸多带有情色色彩的场景，增添了故事的复杂性与情感纠葛。整体而言，该文档不仅探索了性别认同，还包含了悬疑与性冲突的元素，突显了角色在面对自身性别与外在身份之间的挣扎和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[变身]_体液不完全版.doc]([变身]_体液不完全版.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 76800 bytes                           |
 | MD5             | f8c674dd4bfe7b1ad815c8adc5ca5236                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | rollgirl                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 伪娘, 侦探, 自我认同, 犯人, 超能力, 性幻想, 冒险, 情色, 悬疑, 女性视角, 反转, 阴暗面, 心理斗争, 身体交换, 青春, 复杂关系, 秘密                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

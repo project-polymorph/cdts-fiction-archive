@@ -7,7 +7,7 @@ TXT 下载: [[交换]_万万没想到终章.docx]([交换]_万万没想到终章
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描写了一位名为刘梦洁的角色在性别转变后的生活与内心世界，故事围绕着她与伴侣的亲密关系、日常生活与回家过年时的情感冲突展开。开篇描述了角色在职场中即将放假回家过年，她与伴侣的生活充满激情，反复进行的亲密接触使她已适应了女性的生活。随着情节的推进，角色逐渐体验到身为女性的自我认同与环境的变化。在回家的过程中，角色的伴侣要求她穿上性感的高跟鞋，但刘梦洁内心挣扎，一方面享受着变化带来的新身份，另一方面又对家庭的传统观念与自我形象感到不安。文中描绘了两人间的互动与情感升温，以及她面临与父母见面的紧张与期待。她逐步接受了自己的新身份，并决心展现出更完美的女性形象。文章的最后展现了她与父母重逢的温馨场景，体现出亲情的温暖。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_万万没想到终章.docx]([交换]_万万没想到终章
 | Size            | 27874 bytes                           |
 | MD5             | 1852d061538a1b788cf73047a58c1181                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 亲密关系, 高跟鞋, 情感纠葛, 家庭关系, 自我认同, 女性视角, 内心挣扎, 春节, 日常生活, 角色转变, 自我探索, 爱情, 撒娇, 甜蜜, 痛苦与快乐, 性别认同, 外表塑造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

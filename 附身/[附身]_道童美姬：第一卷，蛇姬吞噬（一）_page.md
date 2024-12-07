@@ -7,7 +7,7 @@ TXT 下载: [[附身]_道童美姬：第一卷，蛇姬吞噬（一）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《道童美姬：第一卷，蛇姬吞噬（一）》是一部描绘角色性别转换与自我认同故事的小说。故事背景设定在小江镇，开篇描绘了月静夜寒的情景，王老员外及其独女王婼彤的生平故事逐渐展开。王老员外是一位仁厚的药材商人，为了保护女儿举办了盛大的生日庆祝，但半夜却遭遇了不明的威胁，一个带血的字条刺在大门上，暗示着即将发生的危险。为保护王婼彤，王老员外请求衙差的帮助，同时在悬念不断加深的气氛中，王婼彤被限制在人们的保护之中，展现了她渴望自由的内心冲突。整部作品通过紧张的情节、角色的性别认同问题以及古代社会中的权力与道德对立，展现了深刻的主题。文中描述了王老员外的慈爱、王婼彤的美丽与聪慧，以及外部威胁所带来的压迫与恐惧感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_道童美姬：第一卷，蛇姬吞噬（一）.docx]([�
 | Size            | 27041 bytes                           |
 | MD5             | e67d13f890562e797fd7978f61d6e5f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 道童, 古代, 王婼彤, 王老员外, 自我认同, 悬疑, 家庭, 危险, 夜晚守护, 王府, 药材商, 社会压力, 青春成长, 性别意识, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_6.docx]([变身]_【渣�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于勇者被变身和性别转变的小说，描写了勇者艾伦在遭遇魔王和魅魔的过程中，逐渐失去作为男人的身份，并被迫接受女体化的过程。故事中，艾伦身处于一个神秘而危险的环境，身体被梅德因的胸衣封印，遭遇了触手的攻击。随着情节发展，艾伦的自我认知和性别认同被不断挑战，面对身体上的变化，他的反应从愤怒与抵抗逐渐转向了羞耻与快感。魅魔对艾伦的调戏和侮辱也使得他的内心感到极度的困惑和痛苦。在这一过程中，涉及了许多与性别转化、刺激和身体境遇相关的情节，展现了角色内心深处的挣扎和变化。整体作品充满了曲折离奇的幻想情节和限制级的描写，适合对变身和性别议题感兴趣的读者阅读、研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_6.docx]([变身]_【渣�
 | Size            | 28709 bytes                           |
 | MD5             | 1724ae266c06c6e657de94149a5faf55                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 勇者, 魅魔, 触手, 性别转变, 自我认知, 羞耻, 变装, 调教, 变身小说, 奇幻, 调教, 逆后宫, 身体改造, 魔法, 情感冲突, 心灵挣扎, 异世界, 女体化, 性别认同, 快感探索, 梦境与现实区别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_DT游戏王同人1.doc]([变身]_DT游戏王同人1.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以魔女和异世界为主题的设定小说，描述了一个紫发少女在名为遗忘世界的地方的冒险过程。故事以第一章为开始，聚焦于主角的外貌特征和她所处的环境。少女额头上的第三只眼和她使用的魔法书暗示了她的不寻常身份。她在一个温暖而昏暗的房间内阅读火红色的魔法书，但外界的冷风及其传来的异响引起了她的注意。随之，她决定走出森林，进入一片由多个支离破碎的片段组成的奇异世界。对周遭环境的详细描写，展现了一个充满未知与危险的异世界景象。小说在描写少女自我探索和遭遇凶险的同时，也呼应了自我认知与身份认同的主题。主角在探索的同时感受到各种恐惧与神秘并存的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_DT游戏王同人1.doc]([变身]_DT游戏王同人1.doc)
 | Size            | 32256 bytes                           |
 | MD5             | 4b63292c731977dd186733469762e4c2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔女, 异世界, 自我探索, 冒险, 紫发少女, 魔法书, 黑森林, 奇幻, 灵异, 少女文学, 科幻, TSF, 角色交互, 神秘力量, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

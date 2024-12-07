@@ -7,7 +7,7 @@ TXT 下载: [[改造]_调教东方.doc]([改造]_调教东方.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以《笑傲江湖》为背景的同人小说，讲述了主角杨连庭意外穿越到古代，代入了原著情节中。他在一场长达十小时的手术后沉沉入睡，却醒来发现自己身处于黑木崖的大殿，面临着众多古代武林人物的威逼。在此情境下，杨连庭不得不小心翼翼地应对向问天、东方不败等人的威胁，同时还要保护自己的生命。小说中涉及了对角色身份的探讨以及在面对危险时的心理斗争。杨连庭不仅要面临身体的疼痛，更要操控局势，使周围的人相信他的决策是为他们的好。故事以细腻的描写为背景，突出了角色之间复杂的人际关系与感情纠葛，尤其是杨连庭在面对名震江湖的东方不败时所感受到的矛盾和尴尬。这篇同人作品展现了风格化的角色塑造和古风情节交织，具有一定的阅读趣味和思想深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_调教东方.doc]([改造]_调教东方.doc)
 | Size            | 248832 bytes                           |
 | MD5             | c4186065d6c21d1e7a2ae5a9e3ea7fec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 同人小说, 性别认同, 穿越, 武侠, 东方不败, 杨连庭, 角色扮演, 心理斗争, 古代, 自我探索, 情感纠葛, 男人与女人的界限, 人际关系, 奇幻, 冒险, 身份认同, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

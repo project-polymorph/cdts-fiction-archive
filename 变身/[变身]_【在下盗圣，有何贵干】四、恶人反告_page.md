@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】四、恶人反告.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件摘录自一篇变身小说，名为《在下盗圣，有何贵干》，其内容围绕主角楚飞在无花宫经历的一段冒险故事展开。故事开头，楚飞因内力受损，由小白和小青两位女性角色照顾，包含了他们之间的对话与暗示，展现了楚飞在身体和心理上的变化。随着情节发展，楚飞计划揭穿无花宫的真相，并复仇的决心。文中描绘了楚飞如何在聚义庄探寻情报的过程以及同行人对他暗示的性别与身份的双重关系。情节涉及了角色间的互相依赖与情感，揭示了角色们在性别认同和自身探索中不可避免的困惑和挣扎。文件中有大量描写角色之间的肢体接触和微妙的情感交流，突显了性别流动与角色塑造的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】四、恶人反告.doc]([
 | Size            | 40960 bytes                           |
 | MD5             | ac8eafaaab10d93a7a70489601319f01                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 武侠, 冒险, 性别认同, 自我探索, 恋爱, 江湖, 搞笑, 女性视角, 权力斗争, 情感发展, 神秘组织, 武功, 反转设置                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

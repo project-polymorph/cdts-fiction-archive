@@ -7,7 +7,7 @@ TXT 下载: [[改造]_朱颜血_萱草(零到七）.docx]([改造]_朱颜血_萱
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《朱颜血 萱草（零到七）》主要描写了一个青年在太行山脉中醒来的故事。青年身穿儒生装扮，名为柳无言，透过他的视角，读者见证了一个神秘的少女，名为萱，出现在他身边。两人虽是偶然相遇，却因为在大山深处的生存挑战而渐渐建立了情感联结。随着故事发展，柳无言与萱面临巨熊的攻击，表现出了一种勇敢与互助的精神。在叙述中，作者用细腻的笔触描绘了角色内心的挣扎与成长，同时也传达了人与人之间情感的炼成。作品可能包含某些性暗示与情感纠葛的暗线，表现出了性别认同与个人探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_朱颜血_萱草(零到七）.docx]([改造]_朱颜血_萱
 | Size            | 62586 bytes                           |
 | MD5             | b8bde2a4692a8531dcb941046248dc29                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 奇幻, 勇气, 人际关系, 生存, 自我探索, 角色发展, 冒险, 爱情, 男性视角, 灵异, 青春, 深山探索, 巨兽对抗, 命运, 情感纠葛, 青春成长, 无名之旅                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

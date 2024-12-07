@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_无面者（2）.doc]([皮物]_无面者（2）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件以小说的形式描绘了一个名为"无面者"的角色经历性别转换的过程。主角在一套神秘的皮衣的影响下，从一名男性逐渐变身为女性，体验着由此带来的身体与心理的双重变化。故事开头，主角感受到自己身体的变化，开始低落的生活逐渐被皮衣带来的渴望所填补。在一次次沉迷于幻想与欲望中，他忍不住试穿皮衣，逐渐感知到女性身体的奇妙与性感，尤其是胸部的变化让他感到前所未有的愉悦。随着故事的发展，主角逐渐接受自己新的身份，体验女性服装带来的乐趣，并在外出时选择性感的女装，引发周围男性的注意。整部小说通过丰富的内心独白反映性别认同和自我探索的复杂过程，展示了个体在身体和心灵之间的挣扎与融和。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_无面者（2）.doc]([皮物]_无面者（2）.doc)
 | Size            | 40960 bytes                           |
 | MD5             | 1e935dec20eb5dd5c39dc056d13d0cc8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 身体转换, 跨性别, 性别探索, 幻想, 色情, 女性化, 自我认同, 欲望, 皮衣, 独白, 二次元, 虚拟体验, 角色扮演, 情感冲突, 脱离常规,  surrealism, 小说, 幻想文学, 心理描写, 催眠, 性转, 男娘, 羞耻心, 新奇体验, 女性姿态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

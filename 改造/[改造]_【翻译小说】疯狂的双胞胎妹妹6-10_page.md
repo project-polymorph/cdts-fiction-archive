@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译小说】疯狂的双胞胎妹妹6-10.docx]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的档案内容，详细描绘了布里安娜和她哥哥布莱恩之间的复杂关系。布莱恩被迫假装成其妹妹布里安娜，并逐渐沉迷于妓女生活。故事中涉及布莱恩的性别身份的转变、心理的挣扎与快感的追逐，以及被迫从事性交易后的心理冲突。情节生动地展示了其内心的矛盾和外部环境对其命运的操控，例如，布莱恩在酒吧中和其他“娘娘腔”们的互动及对自身身份的怀疑。该文本涉及较强烈的成人内容，特别在性行为描写和毒品使用方面，强调了压迫与释放之间的拉锯。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译小说】疯狂的双胞胎妹妹6-10.docx]([改�
 | Size            | 59906 bytes                           |
 | MD5             | feef38a4d50c1d3ac651ecda84ca69da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 妓女生活, 吸毒, 自我认同, 心理斗争, 性别转换, 操控与抵抗, 爱情与欲望, 女性主义, 性别流动性, 都市生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

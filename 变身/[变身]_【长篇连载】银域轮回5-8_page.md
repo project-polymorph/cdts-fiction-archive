@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【长篇连载】银域轮回5-8.doc]([变身]_【长篇�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部以虚拟网游为背景的长篇连载小说，名为《银域轮回5-8》。故事围绕主角在一个与现实世界有联系的异世界网游中展开，主角因触发神秘bug而进入真实模式，逐渐被游戏角色的吸引而陷入淫堕的过程。文中探索了角色的转变与自我认知的复杂心态，以及在游戏中对色情与性别身份的探讨。内容涉及对角色职业、技能及情感关系的详细描述，如主职业的战斗能力和副职业的情感属性，让角色面对自身的性别与欲望冲突。此外，文本中包含了不少对性骚扰与女性身体反应的细致描写，表现出角色在两性关系中的复杂情绪和社会互动。'
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【长篇连载】银域轮回5-8.doc]([变身]_【长篇�
 | Size            | 69632 bytes                           |
 | MD5             | 843cfbc1891ba5a1361ac4bc2f64db5d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 口吞日月                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 虚拟网游, 性转, 跨性别, 自我探索, 角色扮演, 淫堕, 情感关系, 梦魔, 游戏设定, 男性视角, 女性身体反应, 声音骚扰, 欲望冲突, 游戏系统, 身份认同, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_商场秘闻：舞会新人.doc]([变身]_商场秘闻：�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《商场秘闻：舞会新人》的变身小说的一部分，主要讲述了两个双胞胎兄妹亨特和汉娜在商场的经历。故事开头描绘了他们的母亲杰西卡计划带两人去商场购物，以及兄妹间的调侃和互动。亨特对于商场的兴趣不如妹妹汉娜，后者对逛商场表现出极大的热情。故事中结合了一些关于性别认同和角色表现的讨论，在汉娜的推动下，亨特被提议尝试穿女性服装，这引发了他内心的挣扎与探索。小说融入了青少年探讨性别角色、时尚和自我认同的主题，体现了变身小说中常见的性别转换与社会期望的互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_商场秘闻：舞会新人.doc]([变身]_商场秘闻：�
 | Size            | 65024 bytes                           |
 | MD5             | dc3a82ff7132b3721482c68aab484cdc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | coutney captisa                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 伪娘, 少年成长, 性别认同, 商场生活, 兄妹关系, 少女服装, 购物经历, 生活琐事, 青少年探索, 性别角色, 家庭互动, 变嫁, 舞会裙                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

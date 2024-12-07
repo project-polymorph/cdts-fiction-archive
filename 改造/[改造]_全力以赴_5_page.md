@@ -7,7 +7,7 @@ TXT 下载: [[改造]_全力以赴_5.doc]([改造]_全力以赴_5.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为跨性别题材的小说，主要描绘了角色凯拉在性别认同与自我探索过程中的成长与变化。在故事中，凯拉受到好友贝丝的帮助与指导，开始锻炼以适应女性身份。文件中具体描写了她在锻炼过程中的心里挣扎与逐渐的适应，比如穿上紧身衣的紧绷感、化妆与穿高跟鞋的不自然，展现了她在女性化过程中面临的挑战与困惑。随着时间的推移，凯拉在锻炼与生活中逐渐找到自信，享受和同伴的日常互动，这让她意识到自己追求的目标与生活的意义。整篇小说通过细致的描写，探讨了性别认同、身体形象与个人成长等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_全力以赴_5.doc]([改造]_全力以赴_5.doc)
 | Size            | 31744 bytes                           |
 | MD5             | 5c763a938d5dc1ffba825960d88e85e6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 自我探索, 变身小说, 伪娘, 锻炼, 舞蹈, 高跟鞋, 心理成长, 友情, 青春, 女性化, 音乐, 化妆, 生活日常, 身体形象, 社交压力, 内心挣扎, 支持系统, 自我接纳, 性别表达                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

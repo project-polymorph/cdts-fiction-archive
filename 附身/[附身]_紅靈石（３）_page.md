@@ -7,7 +7,7 @@ TXT 下载: [[附身]_紅靈石（３）.docx]([附身]_紅靈石（３）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于性转与跨性别主题的小说章节，主要讲述了主角与他的二姐陈小敏及朋友子恩之间的复杂关系。在故事中，主角经历了性别认同与自我探索的心路历程，同时穿插了一些关于他们家庭背景的情节。小说通过对话和内心独白展现了角色之间的情感纠葛与心理冲突，特别是主角对过去事件的反思和对当下情感的迷茫。文本中还涉及了一些设定情节，比如主角与子恩之间的亲密行为以及二姐对主角物品的翻找，这些都加深了人物关系的复杂性。读者可以感受到主角在面对家庭和情感关系中的困惑与不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_紅靈石（３）.docx]([附身]_紅靈石（３）.docx)
 | Size            | 19268 bytes                           |
 | MD5             | 64e9611d4a066e922b3f96df48b0319f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2011-02-04                                 |
+| Tags            | 性别认同, 自我探索, 家庭关系, 情感纠葛, 伪娘, 跨性别, 强奸, 调教, 淫荡, 逆后宫, 爱情, 春药, 孤独, 心理描写, 校园生活, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

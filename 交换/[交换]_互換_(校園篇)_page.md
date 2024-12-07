@@ -7,7 +7,7 @@ TXT 下载: [[交换]_互換_(校園篇).docx]([交换]_互換_(校園篇).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于校园变身和性别互换的小说，故事围绕一起毕业旅行中的意外展开。这起事故导致主角与班上的班导老师发生身体互换。主角原本是一个体育健将，但因为意外而变成了自己班上的漂亮女老师，经历了身体和身份上的极大转变。在接受这个新身份的过程中，主角感受到了身为女性的种种体验，包括被同学排挤、身体感知和性别认同的冲突。故事中，主角逐渐适应了女性的生活方式，同时也面临着与原身体交换者的沟通与理解。在经过多年的生活适应与感情发展后，主角已成为两孩之母，却又接到有机会恢复原来身体的消息，这引发了内心的恐慌和犹豫。整个故事深刻描绘了性别认同、生理变化和心理适应等主题，同时也涉及一系列与性以及人际关系相关的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_互換_(校園篇).docx]([交换]_互換_(校園篇).docx)
 | Size            | 20488 bytes                           |
 | MD5             | 385f915a0316474f08ad8eade08a7d1d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别互换, 校园小说, 变身, 自我认同, 心理冲突, 转变过程, 援交, 老师, 女生生活, 美丽与悲伤, 学生, 成长故事, 纯爱, 老师与学生的复杂关系, 二次元文化, 女性身体                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

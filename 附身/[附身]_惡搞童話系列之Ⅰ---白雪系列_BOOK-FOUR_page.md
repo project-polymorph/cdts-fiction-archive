@@ -7,7 +7,7 @@ TXT 下载: [[附身]_惡搞童話系列之Ⅰ---白雪系列_BOOK-FOUR.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《惡搞童話系列之Ⅰ---白雪系列》，内容围绕白雪公主的变身情节，深刻描绘了她在魔镜前自我欣赏与享受她新身体的过程。故事开头，白雪公主站在镜子前，回顾自己诱人的身姿，仿佛在进行一场身体的自恋仪式。她描述了她的身体特征，称赞着自己的魅力与美丽，内容不乏淫荡的侧写，展现出角色在获得新身份后的自信与迷恋。随后，魔镜与她进行对话，暗示了角色转换的背景，同时引入了侍女小如的情节，她无意中进入公主的房间，遭遇了魔镜中的黑魔导士的险恶阴谋，最终被吞噬。小如的身体被魔镜中的恶魔侵占，经历了惊恐之后，她的表情逐渐变得舒爽，体现出在压迫与操控下内心的复杂转变。整体来看，这是一部交织了性别转变、权力斗争与身体夺舍等多重主题的小说，并展现了恶搞与挑逗的色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_惡搞童話系列之Ⅰ---白雪系列_BOOK-FOUR.docx]([�
 | Size            | 20409 bytes                           |
 | MD5             | 48e457d9d871616bf63e19dd280cc7e6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 恶搞, 变身, 黑魔导士, 官员与侍女, 权力转移, 自我认知, 幻想, 魔法, 身份认同, 二次元, 身体交换, 淫荡, 调教, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

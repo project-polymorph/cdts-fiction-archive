@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮化症_-_蚀.docx]([皮物]_皮化症_-_蚀.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《皮化症 - 蚀》，是多元性别相关小说中关于皮化症的变身情节。故事围绕角色灵儿和男主阿杰展开，讲述了灵儿的身体从干瘪的状态恢复至丰满厚实时，男主的惊喜与内心的挣扎。文本中包含了许多与性别认同相关的讨论，例如灵儿对身体的自我意识和男主对灵儿的欣赏等情感交织。在亲昵互动中，体现了角色间的信任与关系的复杂性。文件内容含有一定的限制级内容，涉及了角色的裸体表现、亲密行为等情节。同时，故事探讨了个体与性别身份的关系，角色间在面对自我认知变化时的情感体验与心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮化症_-_蚀.docx]([皮物]_皮化症_-_蚀.docx)
 | Size            | 42849 bytes                           |
 | MD5             | 7bd0c96e06db7d6423c581800f2a8b82                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 情感探索, 亲密关系, 角色认同, 自我接受, 夜晚, 感情纠葛, 青少年, 成长故事, 幻想, 现代生活, 心理冲突, 身体转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

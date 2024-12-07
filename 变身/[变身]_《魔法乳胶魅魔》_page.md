@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《魔法乳胶魅魔》.doc]([变身]_《魔法乳胶魅�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《魔法乳胶魅魔》是一部结合了科幻与奇幻元素的变身小说，故事围绕主人公雪拉在未来的银河联邦星球玉门星的生活展开。雪拉穿越到未来，却发现自己变成了一名乳胶衣爱好者。她在一次偶然的情况下收到了一个奇怪的箱子，里面除了华丽的乳胶衣，还有一本古书和一条魔法阵毯子。小说通过雪拉的视角，描绘了她在陌生的环境中对自我身份的探索与认知，突显了性别认同与自我认知的主题。整体故事充满了奇幻色彩，融入了现代科技与古代神秘元素，表现了雪拉的内心冲突与期待，尤其是她对那件乳胶衣的好奇与渴望。情节发展中，令人期待乳胶衣的神秘功能及雪拉如何与之互动，故事充满悬念和探索的乐趣，同时也引发对性别与认同的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《魔法乳胶魅魔》.doc]([变身]_《魔法乳胶魅�
 | Size            | 73216 bytes                           |
 | MD5             | 34ded65d329732c8d1da3e4bf5336bcb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 乳胶衣, 奇幻, 银河联邦, 穿越, 性别认同, 未来世界, 魔法, 自我探索, 科幻故事, 探索遗迹, 学渣, 多功能紧身衣, 消逝的古文明, 密封设计, 未来科技, 魅魔                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_欲望忍法_皮物之术.doc]([皮物]_欲望忍法_皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个包含跨性别和变身主题的小说，叙述了一个年轻女孩朱里与好友小秋在游泳馆的厕所内发生的奇异事件。在高潮情节中，故事的主角肝太郎使用了一种名为“皮物之术”的忍法，能够让他扮演女性角色，甚至能够换取他人的皮肤。随着情节的发展，肝太郎在偷窥小秋的过程中施展了这一法术，将小秋的身体与自身的意识进行融合，这一过程充满了对性别转换和身体认同的探索。整部作品以一种偷窥与侵犯的视角呈现，暗示了主角的肥宅对萝莉的病态崇拜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_欲望忍法_皮物之术.doc]([皮物]_欲望忍法_皮�
 | Size            | 47104 bytes                           |
 | MD5             | 762357deb23ca910dd9b911f37ff1bff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 偷窥, 性幻想, 乱伦, 强奸, 小学生, 游泳馆, 跨性别, 变化身体, 魔法, 情感认同, 自我探索, 变态, 身体融合, 萝莉控, 第一人称视角, 幻想故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

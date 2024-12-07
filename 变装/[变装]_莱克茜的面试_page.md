@@ -7,7 +7,7 @@ TXT 下载: [[变装]_莱克茜的面试.doc]([变装]_莱克茜的面试.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《莱克茜的面试》描绘了一位名叫莱克茜的白人男孩面临着变身与性别认同的挑战，正在参加一个重要的职位面试。故事发生在一个白人男孩逐渐被社会边缘化的未来美国，由于社会期望的变化，男孩们被鼓励呈现出更女性化的形象。莱克茜努力地调整自己的外貌，以满足当今社会对男性性别特征的苛刻标准。\n\n在面试开始前，莱克茜精心打扮，确保自己在外形上符合招聘者的期望。在这场面试过程中，除了专业知识外，莱克茜也必须考虑性别角色的适应，面临以性服务换取工作的潜在机会。文中提到，他服用了名为“宁静”的药物，使他的外貌更加光滑和女性化并造成了性别认同的混乱。随着对白人男孩形象的改变，莱克茜内心的冲突与对男性的吸引也在不断加剧，对未来的不确定感与自我价值的探寻演绎出一个复杂的转变故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_莱克茜的面试.doc]([变装]_莱克茜的面试.doc)
 | Size            | 48128 bytes                           |
 | MD5             | 4ca45e089203dd94548e4bd3a14b309f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 伪娘, 社会变化, 未来世界, 跨性别, 招聘, 女性化, 欲望, 性别角色, 莱克茜, 心灵冲突, 面试, 自我探索, 药物影响, 社会边缘化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

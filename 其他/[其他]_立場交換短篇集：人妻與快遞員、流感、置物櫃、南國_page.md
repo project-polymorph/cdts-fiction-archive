@@ -7,7 +7,7 @@ TXT 下载: [[其他]_立場交換短篇集：人妻與快遞員、流感、置�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描写性别立场交换的短篇小说，原创内容围绕两位主角金嶋真里子和快递员芝崎雄次展开。在一个炎热的夏日，金嶋真里子作为家庭主妇，在送丈夫出门后，接到了一个来自不明号码的短信，内容提到她将与第一位说话的异性交换立场。随即，当她开门迎接快递员芝崎雄次时，奇异的事情发生了：两人不知不觉地交换了身体与身份。故事深化了金嶋真里子在变为男性的体会，她在快递车上探索着新的身体伴随的欲望与迷惑。文中描绘了她在掌握性别身份转换中性欲升腾的复杂心情，配合着快递员身份带来的全新体验。这是一篇综合了性别认同、身体探索以及自我意识冲突的作品，同时也涉及了如流行病季节的立场交换等引人深思的社会现象，将传统文学与现代性别观念相结合。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_立場交換短篇集：人妻與快遞員、流感、置�
 | Size            | 54272 bytes                           |
 | MD5             | eed22c7d64c44886978d5ae7656dff97                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 立场交换, 变身小说, 跨性别, 欲望探索, 角色互换, 人妻, 快递员, 都市生活, 身体认同, 自我认知, 奇幻, 短篇小说, 心理冲突, 成人内容, 同性恋情节, 探索自我, 二次元, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

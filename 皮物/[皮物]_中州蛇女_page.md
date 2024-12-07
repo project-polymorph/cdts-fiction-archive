@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_中州蛇女.doc]([皮物]_中州蛇女.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《中州蛇女》为一部围绕性别转换、欲望与自我探索的奇幻小说，故事设定在中州大地，时间背景为统一后的夏朝。主角易南原是修道学院的一位年轻天才，但他因心魔障碍而无法精进。故事开始于他经历噩梦，梦中发现自身心魔与欲望的交错。他与师兄李长歌的对话揭示了他内心深处对情欲的纠葛。
+
+随着剧情发展，易南踏上寻找自我与心魔的旅程，最终来到了方寸山，与蛇妖柳烟相遇。柳烟是一只美丽的妖怪，她渴望变为人类，并想通过易南的“精华”获得力量。故事中描绘了易南与柳烟之间的纠葛，充满了对欲望的强烈探讨，涉及了蜕变与身份认同的冲突。易南在面对诱惑与心魔的同时，也在思考自我与价值。文中既有对角色心理的深刻描绘，也夹杂着丰富的性暗示与妖艳元素，令人既感到惊异又引人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_中州蛇女.doc]([皮物]_中州蛇女.doc)
 | Size            | 71680 bytes                           |
 | MD5             | 3e901a0509baa3251691c1c27d4f8607                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 性转, 心魔, 欲望, 自我探索, 妖女, 修炼, 青春期困扰, 人妖关系, 武侠, 蛇妖, 情感纠葛, 变身, 师兄弟情, 诱惑, 探索身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

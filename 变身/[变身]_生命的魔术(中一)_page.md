@@ -7,7 +7,7 @@ TXT 下载: [[变身]_生命的魔术(中一).doc]([变身]_生命的魔术(中�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《生命的魔术(中一)》，内容讲述了一位经历复杂性别变化、渴望探索自我与情感的角色在医院的日常生活。叙述中，角色在医院中遇到一位名叫方医生的医务工作者，方医生以其温和、细心的态度吸引了角色的关注。小说详细描绘了角色想要达到的目标，包括将目前的身体归属于自己，并且使用一些阴暗手段来实现。此外，角色与周围角色的对话和内心独白让读者感受到角色对性别认同、自我价值和复杂情感的探索。整个文本围绕着医院环境展开，穿插了一些生动的场景描写和心理活动，展现了主角面对身体和心理的双重转变所产生的冲突与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_生命的魔术(中一).doc]([变身]_生命的魔术(中�
 | Size            | 56320 bytes                           |
 | MD5             | 805592151e0cf6afc59c8d5029484757                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 医院生活, 自我探索, 性别认同, 情感纠葛, 医务人员, 性别转换, 角色对话, 身份冲突, 阴暗手段, 双重身份, 社会压力, 权力关系, 角色心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

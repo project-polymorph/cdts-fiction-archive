@@ -7,7 +7,7 @@ TXT 下载: [[变性]_卧底记者（4）.docx]([变性]_卧底记者（4）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《卧底记者》主要讲述了角色肯恩在执行任务过程中遭遇危险与性别身份认同冲突的故事。在故事中，肯恩作为卧底记者准备返回纽约，却在酒吧偶遇了达尼恩及其保镖，开始了一段复杂的互动。在酒吧中，达尼恩向肯恩示好，但随后的情节却出现了戏剧性的转变。在一场酒会上，肯恩被下药，失去意识后被达尼恩侵犯，这一事件引发了他对性别和自我的深入思考。小说探讨了性别认同、自我探索以及在权力关系中被侵犯的恐惧和羞辱，展现了角色在生理与心理上的双重斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_卧底记者（4）.docx]([变性]_卧底记者（4）.doc
 | Size            | 30243 bytes                           |
 | MD5             | b513ea68eb5b4792a99cd6abbd2f5543                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性别认同, 性转, 情感冲突, 强暴, 自我探索, 权力关系, 卧底故事, 酒吧互动, 人际关系, 心理斗争, 伪娘, 暗黑风格, 女性视角, 虐恋, 都市幻想, 悬疑, 恐惧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

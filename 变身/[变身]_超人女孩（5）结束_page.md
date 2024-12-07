@@ -7,7 +7,7 @@ TXT 下载: [[变身]_超人女孩（5）结束.docx]([变身]_超人女孩（5�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述的是超人因为一个神秘的芭比娃娃变成了金发女郎后的一段故事。故事围绕着超人被莱克斯·卢瑟迷恋的情节展开，展示了他作为一名女性角色的心理斗争和性别认同的探索。超人在一个充满魅力的派对上与其他女性互动，渐渐接受了她的新身份。文本中包含对超人外貌的详细描写，以及她在与莱克斯及其他女性的相处中，内心情感的转变和探索性别认同的历程。最后，超人在派对结束时反思自己作为女性的身份，体现出对自我认知的真实挣扎与迷惑，诸如此类的情节为读者展现了复杂的身份认同问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_超人女孩（5）结束.docx]([变身]_超人女孩（5�
 | Size            | 22775 bytes                           |
 | MD5             | a668e3c427338acb293840cd15b06876                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 超人, 变身, 性别认同, 跨性别, 爱情, 莱克斯·卢瑟, 女性探索, 派对, 心理斗争, 二次元, 芭比娃娃, 自我接纳, 秘密身份, 性转, 女体化, 青春期困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

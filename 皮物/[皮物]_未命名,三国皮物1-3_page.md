@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_未命名,三国皮物1-3.docx]([皮物]_未命名,三国�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《三国皮物1-3》，内容涉及一个穿越时空的故事，主角曹良因其徒弟小六子挖掘墓道而进入异世界。故事开头描述了曹良与小六子的互动，展现了他们作为盗墓者的情境。随着剧情的发展，曹良在一个神秘的洞穴中遭遇重伤，随后遇到了自称于吉的道士，得知自己被贬入凡间的原因及将要面临的命运。于吉给了他一件名为“缚妖镯”的法宝和一本《御皮之道》的书，描述了如何借用他人的皮肤进行身份的转换。文件中还包含了现代背景下对古代人物的重新想象，特别是与何太后相关的情节，展现了主角在异世界的冒险与挣扎。整篇小说围绕性别转换、身份认同等主题展开，穿插了许多想象丰富的奇幻元素和性暗示的情节，情感建设与自我探索交织在一起。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_未命名,三国皮物1-3.docx]([皮物]_未命名,三国�
 | Size            | 21173 bytes                           |
 | MD5             | 40ff5c6efa4210bf7223fb6d86a7f37d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 穿越, 性别转换, 盗墓, 奇幻, 自我认同, 异世界, 阉割, 宫斗, 女性角色, 经历对比, 法术, 皮物, 身份认同, 前世今生, 历史背景, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

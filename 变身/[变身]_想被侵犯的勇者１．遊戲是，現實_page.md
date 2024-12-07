@@ -7,7 +7,7 @@ TXT 下载: [[变身]_想被侵犯的勇者１．遊戲是，現實.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档主要是关于名为《勇者は犯されたい》的成人色情游戏《魔王雷古諾斯》的讨论，详细说明了该游戏的玩法及其主要特点。文件提及了游戏的成人内容和RPG游戏机制，包括3D视角的选择、角色性别变化、各种战斗自由度以及游戏中的情节设计。作者描述了自己玩过多次游戏后开启的新选项，其中包括性别变更功能，这对游戏的体验和玩法产生了显著影响。文章中还提到游戏的画面以及玩家在体验游戏时的心态，这表明该游戏不仅仅是个娱乐产品，还涉及到性别认同和角色扮演的深层次主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_想被侵犯的勇者１．遊戲是，現實.docx]([变�
 | Size            | 23176 bytes                           |
 | MD5             | 536e912237852f52515768bce158ff90                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 游戏, 成人内容, 变身, 角色扮演, 冒险, 魔法, 性别发掘, 3D RPG, 自我认知, 玩家体验, 性别转换, 力量成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

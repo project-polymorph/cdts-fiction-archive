@@ -7,7 +7,7 @@ TXT 下载: [[改造]_保母的魔力.doc]([改造]_保母的魔力.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《改造_保母的魔力》围绕一个名叫淳智的角色展开，他获得了可以改变任何女孩或女人外表的能力。故事开始于淳智醒来时发现自己变成了母亲的模样，之后他迅速恢复原状并回到家中。他的保姆芽衣与他互动，而在游戏的提议中，淳智开始随意将芽衣变成猴子。在这个过程中，芽衣的身体发生了变化，她许多生理特征转变为了猴子，淳智对这个过程感到惊奇，并对自己的能力感到满意。此文包含了许多未成年人和性相关的情节，探讨了性别身份认同和幻想的界限。文章的结尾部分暗示着一种性兴奋的心理状态，是一个较为复杂的且可能引发争议的主题。整体内容以幻想与科幻结合的方式呈现，涉及人体改造、性别转换及性欲等敏感话题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_保母的魔力.doc]([改造]_保母的魔力.doc)
 | Size            | 41472 bytes                           |
 | MD5             | 508a8d69fc683b056ed8abf29d5c7fa9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 幻想小说, 角色扮演, 药娘, 改造, 青春期探索, 性欲, 女体化, 超自然能力, 人际关系, 二次元, 伪娘, 童年回忆, 自我认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

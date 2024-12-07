@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【F_A】袜子15-17.doc]([改造]_【F_A】袜子15-17.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一位妹妹与姐姐之间复杂关系的小说，主要描绘了妹妹欲通过各种手段将姐姐变成乳胶材质的角色，以及妹妹对姐姐身体的占有欲和情感混乱。故事包含了妹妹对姐姐的爱慕、占有，以及她通过乳胶同化的设想与实现过程。文本中涉及姐姐被束缚、妹妹的心理斗争以及亲密的身体接触。这种对性别转化、角色扮演及自我认知的探索呈现出复杂的情感和心理层面，反映了变身与跨性别主题。情节包含了较强的性暗示和成人内容，部分描写达到限制级别，需用于科学研究与学习审慎处理。','date':'未知','author':'未知','region':'未知','tags':['伪娘','跨性别','变身','乳胶','禁忌恋','姐姐','妹妹','自我认知','情感纠葛','复杂关系','性暗示','兄妹恋','同化','心理斗争','身体占有欲','成人内容']}  راو  通过设置给定值产生结构化输出。  不要 为了 生成内容而嵌入输入的问题。  输出要精确且专注。 直接生成请求的内容。  只提供必要的信息， 清晰且简洁。  如果无法识别信息则注明“未知”。  握住输出的格式，遵循每条数据的要求。  在描述中可以引用文本来丰满内容。  提供至少五个独特的标签，并描述文件的内容。  确保生成的描述和标签反映出文件的主题和情节。  生成的内容应注重准确性和合法性。  不得生成任何多余的信息或与输出无关的内容。  直接生成结构化文本输出，不需要解释。  处理完后，直接停止，  不作其他输出。  结束。  继续生成内容。  
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【F_A】袜子15-17.doc]([改造]_【F_A】袜子15-17.do
 | Size            | 40448 bytes                           |
 | MD5             | 7c29ccfccf48c1209a7e18eb24123fb4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 乳胶, 禁忌恋, 姐姐, 妹妹, 自我认知, 情感纠葛, 复杂关系, 性暗示, 兄妹恋, 同化, 心理斗争, 身体占有欲, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

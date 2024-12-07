@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_6（非同�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《我困在了安柏的身体里》第六章详细描绘了主角努力向艾米莉证明自我身份的过程。主角声称自己是艾米莉已故的丈夫，经过一系列的对话与情感纠葛，试图唤起她对他们过去共同记忆的信任。主角回忆起与艾米莉之间亲密的往昔，诉说了自己的痛苦经历和心理挣扎。艾米莉从一开始的怀疑到逐渐相信，展现了复杂的情感变化。文本中多次提到他们之间的真实经历，包括分享银行密码、蜜月的故事等细节，最终艾米莉被触动，开始怀疑过去的认知。章节包含了超现实的身体互换与性别认同的主题，探讨了创伤、爱与自我认同。与此同时，文中不乏一些对于二次元世界与魂魄交换的幽默联想。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_6（非同�
 | Size            | 60928 bytes                           |
 | MD5             | eedeab533ee54a08a87930760e906c21                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 情感纠葛, 灵魂入替, 记忆恢复, 家庭关系, 创伤自我探索, 爱与信任, 心理斗争, 二次元, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

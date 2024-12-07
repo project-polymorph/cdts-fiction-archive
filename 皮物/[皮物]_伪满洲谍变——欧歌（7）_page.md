@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_伪满洲谍变——欧歌（7）.doc]([皮物]_伪满洲
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪满洲谍变系列小说中的第七章，故事设定在1937年11月6日早上，地点为伪满洲国新京的大同大街上的京华楼。在这一章中，主要讲述了店老板彩姐的日常生活和她与留里克女性角色欧歌及其同事的互动。彩姐在清点账目时，回忆起她的姐妹和经营的难处，并迎来了突如其来的客人，两个外表高挑的女子。这两位女性以傲人的身形和异域风情引起了彩姐的注意。年轻金发女子对彩姐的态度极为不尊重，随后她们揭示出需要彩姐的帮助以应对某种危险。通过角色间的对话，展现了在伪满洲国复杂的暗涌和情感交织。在该章节中包含了对情感的描写和人际关系的探索，突显了时代背景下的矛盾与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_伪满洲谍变——欧歌（7）.doc]([皮物]_伪满洲
 | Size            | 70656 bytes                           |
 | MD5             | 499ca8214826df05dc9689a1d5327864                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 伪满洲国                               |
+| Date            | 1937-11-06                                 |
+| Tags            | 伪娘, 跨性别, 变身, 暗语, 政治阴谋, 岁月的流逝, 在危险中的相互依存, 爱与友谊, 女性角色, 历史小说, 烟酒文化, 社交场所, 青涩的情感, 异国情调                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

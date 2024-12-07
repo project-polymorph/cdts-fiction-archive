@@ -7,7 +7,7 @@ TXT 下载: [[附身]_原来天堂的尽头是一望无际的黑暗（第5章上
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一章跨性别变身类小说，名为《原来天堂的尽头是一望无际的黑暗（第5章上集）》。故事围绕主角陈强及其女友林馨展开，两人之间的关系因一块神奇的石头而发生变化。林馨以性感打扮陪伴陈强出行，两人享受着彼此间的亲密关系。随着故事的推进，陈强和林馨之间的关系愈加复杂，出现了第三者梁小依，剧情逐渐发展到一场露骨的争夺戏，揭示了角色心理的深层冲突与性欲的挣扎。这篇章通过细腻的描绘展现了性转进程中的自我认知变化以及人际关系的扭曲。文中包含大量色情描写，通过角色之间的对话传达生动的情感纠葛与性冲突，尤其是林馨和梁小依对陈强的感情竞争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_原来天堂的尽头是一望无际的黑暗（第5章上
 | Size            | 939008 bytes                           |
 | MD5             | b9e909a9f299b27b858fe736f2252303                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 强奸, 变嫁, 豪放, 操控, 自我认知, 多角关系, 网络小说, 青春, 爱与欲望, 成人向, 情感纠葛, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_梦日记01.docx]([皮物]_梦日记01.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇包含性别转换元素的小说，采用梦日记的形式叙述，主要讲述了一名女性角色世伦在变身后所经历的情感与身体上的变化。故事开头，世伦在床上欣喜地发现自己已变成了凌晏，表现出非常兴奋与惊讶的情绪。她爱抚着自己的身体，展现出对于新身份的探索与认同。
+
+在一名男子的陪伴下，世伦与其展开了对话，内容涉及到她变身后的各种感受，以及关于一件特殊“皮衣”的讨论，暗含着性别转变与身份认同的主题。随着情节的深入，世伦展示出越来越强烈的身体欲望，与之形成对比的是男子的理性思维，他试图将话题引向更重要的事情，却被世伦的兴奋状态所打断，暗示着欲望与理智的冲突。整个故事通过细腻的描写展现了角色的内心活动与身体反应，涉及大量性暗示和少量的露骨描写，具有强烈的成人向色情内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_梦日记01.docx]([皮物]_梦日记01.docx)
 | Size            | 20385 bytes                           |
 | MD5             | 3a418e08729e7fe6f1048466f58dadb1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RE                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘小说, 变身小说, 梦境, 身体探索, 色情, 自我认同, 情感冲突, 性欲, 身份认同, 皮衣, 女性角色, 高潮情节, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

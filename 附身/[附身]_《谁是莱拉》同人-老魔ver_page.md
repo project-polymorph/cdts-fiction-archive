@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《谁是莱拉》同人-老魔ver.doc]([附身]_《谁是
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《谁是莱拉》同人小说，描绘了一位名叫虎妞的女孩的内心挣扎与自我探索。故事发生在冬季的一个公寓里，虎妞是一名孤儿，天生面部肌肉不协调，她很难表达情绪，总是呈现出一种龇牙咧嘴的滑稽模样。小说开头，虎妞独自面对镜子，反思自己的外貌与情感，感到深深的孤独与厌恶。随着情节的发展，虎妞在楼道中看到一则寻人启事，心中涌现出对生与死的思考，但她意识到这些与自己无关，只是陌生人间的闲谈。各色人物的互动，尤其是与房东徐姐的对话，展示了虎妞在日常生活中的挣扎与无奈，这是一部关于自我认同和情感隔阂的内心独白。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《谁是莱拉》同人-老魔ver.doc]([附身]_《谁是
 | Size            | 44544 bytes                           |
 | MD5             | dfc7cbbd0c579393fd2fa5e800c76eaa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 自我探索, 孤独, 情感, 内心独白, 虎妞, 寻人启事, 生活, 隔阂, 成长, 孤儿, 党派, 温暖, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

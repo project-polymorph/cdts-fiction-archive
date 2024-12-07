@@ -7,7 +7,7 @@ TXT 下载: [[改造]_竞技场.doc]([改造]_竞技场.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于地下竞技场的小说，包含了角色甲以炳的冒险经历。故事开头描绘了甲以炳的外貌和他来到一处废弃建筑的情形，随后他遇到了一位年轻女孩，并被带入一个神秘场所。女性角色似乎是这个地下竞技场的工作人员，她通过自己的魅力吸引了甲以炳，并引导他了解这里的规则。随着故事的发展，甲以炳渐渐意识到这个地方的残酷本质，实际上是一个以身体改造后的人进行比赛的场所，并涉及到非法赌博和扭曲的欲望。文件中涉及多种性别和身份认同的探讨，突显了现代社会对身体和性别的非传统理解。此外，文件包含了一些可能的色情内容，并详细描写了一些角色的身体特征和情感冲突，展示了在这一背景下的复杂心理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_竞技场.doc]([改造]_竞技场.doc)
 | Size            | 126976 bytes                           |
 | MD5             | 881daa2160d7ac371ff088fefcb82cd0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 地下竞技场, 身体改造, 冒险小说, 性别认同, 跨性别, 非法赌博, 性转, 伪娘, 胆量游戏, 青春, 欲望游戏, 社会批判, 黑暗幻想, 都市奇幻, 青年文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[其他]_新世界_二.docx]([其他]_新世界_二.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及伪娘及性转题材的小说，内容描绘了一位名为林小雨的少女在特定环境下的心理与生理体验。故事开篇，她在训练时因意外大喊引起他人的注意，接着描写了她与同学间微妙的恋情以及性认同的探索。
+
+随着故事的发展，林小雨发现自己拥有一条神秘的尾巴，对此不仅感到困惑，同时在体育课更衣室内目睹了同班同学与老师的亲密行为，情景给她带来了强烈的好奇与困扰。逐渐，林小雨在内心的冲突中，开始探索自己对于性别和自我的认同。文中包含了大量关于性转现象的细腻描写，涉及角色的身体变化、自我认同与性欲的交织。在与同班美少女刘思涵的冲突与互动中，林小雨开始发掘隐藏在内心深处的欲望与痛苦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_新世界_二.docx]([其他]_新世界_二.docx)
 | Size            | 24547 bytes                           |
 | MD5             | 9c2265ad8551fb06006288ac6e91b8cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 同性恋, 困惑, 自我探索, 校园, 强烈性欲, 性别认同, 心理冲突, 尾巴特征, 魔法设定, 青春成长, 性教育, 禁忌爱情, 肢体交流, 身体意识, 道德困境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

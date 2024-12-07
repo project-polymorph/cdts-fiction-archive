@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_转瞬双生17.docx]([皮物]_转瞬双生17.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个名为「徐平」的角色在公司内的情感和心理冲突。他发现自己父亲李顺国可能面临法律麻烦，并且不得不面对与「茉莉」的复杂关系。在办公室内，他们之间的对话揭示了「徐平」对「茉莉」的愤怒和不满，特别是对「茉莉」可能利用公司内幕信息的质疑。随着情节的发展，「徐平」意识到自己在这场权力游戏中处于劣势，并开始努力接受自己内心的女性意识，同时渴望重新获得自己的身份。此外，文中描写了「茉莉」逐渐适应成为女性的经历，包括穿着女性衣物和逐步接受自身的新身份。文档深刻探讨了性别认同和自我认知的主题，探索角色对性别和权力的认知变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_转瞬双生17.docx]([皮物]_转瞬双生17.docx)
 | Size            | 26141 bytes                           |
 | MD5             | 2ea1b68545ea89504646fea92d4db879                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别认同, 自我探索, 变身, 职场斗争, 情感冲突, 跨性别, 权力游戏, 女性视角, 情感纠葛, 教育成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

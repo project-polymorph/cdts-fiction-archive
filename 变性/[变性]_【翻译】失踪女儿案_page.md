@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】失踪女儿案.doc]([变性]_【翻译】失�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《失踪女儿案》是由skybound创作的一部悬疑小说，讲述了一名小女孩朱莉·萨默斯失踪多年的案件。故事的开头描述了有关小女孩失踪的背景，关键嫌疑人是保姆奥尔加·布斯克。随着探员哈默的回忆与调查展开，读者了解到案件并未被广泛报道，但经过多次重新调查始终没有突破，案件进入悬案档案。小说通过侦探的视角，回忆起自己参与的案件以及对失踪女孩家长的探访，家长对女儿的深切怀念和他们为女儿设立的信托计划增加了案件的复杂性。故事中揭示出小女孩的外貌特征，以及保姆失踪前的不寻常行为为后续调查提供了重要线索。同时，文中还提到侦探对失踪案件的执念、对奖金的渴望、以及与失踪案相关的道德思考。整部小说紧紧围绕失踪女孩和保姆展开，期间穿插着侦探的情感状态和对案件的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】失踪女儿案.doc]([变性]_【翻译】失�
 | Size            | 125952 bytes                           |
 | MD5             | ca040cbf0d97e40b6642a36e6bcb426b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | skybound                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 悬疑, 失踪案, 侦探小说, 心理探案, 跨性别, 女儿失踪, 保姆, 案件调查, 家庭悲剧, 社会伦理, 自我探索, 复仇, 人性阴暗面, 案件重启, 情感纠葛, 儿童保护                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

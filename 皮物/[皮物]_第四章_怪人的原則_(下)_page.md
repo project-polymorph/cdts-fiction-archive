@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_第四章_怪人的原則_(下).docx]([皮物]_第四章_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇跨性别相关的小说，讲述了新人记者爱丽在报社中的一段经历。爱丽面临着性别歧视和工作挑战，她因外貌被同事视为土包子，同时也渴望有一个机会证明自己的能力。故事的高潮在于她与一位老练的前辈克拉克共同进行一次重要采访，爱丽在采访过程中遭遇了职场性骚扰，并逐渐展现出她的反抗态度。故事中的怪人在此过程中利用从爱丽那里获得的身份进行调查，涉及了权力滥用和对女性同事的不当行为，展示了复杂的人际关系和对性别身份的探索。该作品扣人心弦，充满了心理战和权谋斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_第四章_怪人的原則_(下).docx]([皮物]_第四章_�
 | Size            | 26631 bytes                           |
 | MD5             | 361908d9592fd62f476e541915e12520                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性转, 伪娘, 职场骚扰, 人物成长, 采访, 权力滥用, 心理战, 自我认知, 女性视角, 社会问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

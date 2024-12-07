@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——B路线义姐の绯（两难
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名高中生大木一郎的内心独白与他奇异经历的小说文本。故事讲述了大木一郎在对同班同学北见丽华的暗恋中，因意外变成幽灵，与身体外化后体验到的身体认知冲突和奇妙变化。文本中描绘了大木一郎初醒来时的惊慌失措，进入了自己继母的身体，随着故事发展，揭示了极其复杂的性别认同与自我的探索。在这一过程中，他经历了身体与灵魂的置换，逐渐探索自我身体的感受，感受身份与欲望交织的冲击与混乱。下半身的欲望与变化在描写上相当explicit，展示了其在女性身体中面对的快感与冲突，使得这部作品涉及许多深刻的性别和心理主题，适合专业研究分析。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——B路线义姐の绯（两难
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | b577f2e5ba60c061fe2831f6d6f21713                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 自我探索, 身体认同, 灵魂交换, 性别认同, 高中生, 爱恋, 欲望, 幽灵, 家庭关系, 禁忌, 两难选择, 探索自我, 性幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

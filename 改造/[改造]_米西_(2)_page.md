@@ -7,7 +7,7 @@ TXT 下载: [[改造]_米西_(2).docx]([改造]_米西_(2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了角色理查德的个人生活与心理变化，反映了他在与妻子玛莎的婚姻生活中逐渐接受和转变为女性形象的过程。在故事中，理查德为了取悦妻子开始进行了一系列的身体与外观上的改变，包括体重管理、服装风格的变化，以及试图迎合玛莎对他的期待。这些改变让他在性别认同和自我认知上产生了困惑和冲突。此外，文件中详细描绘了理查德的日常生活，包括他如何脱去衣物、卸妆和准备入睡等细节，展示了他对待个人形象的细腻关注以及从生理男性到女性形象的转变过程。理查德也在反思自己与妻子的关系，以及他的新形象在家庭与社会中的接受度，同时揭示了对性别角色的探索和个人身份的重塑。整体内容虽然涉及性与身体转变，但以较为细腻与隐晦的方式表达，对相关主题有着一定的深度和思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_米西_(2).docx]([改造]_米西_(2).docx)
 | Size            | 33302 bytes                           |
 | MD5             | 621c6affe8bd086ee8dab1750d738d58                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转变, 跨性别, 性别认同, 女性化, 婚姻关系, 自我认知, 都市美男, 另类生活, 日常琐事, 心理斗争, 角色扮演, 情感探索, 内衣护理, 体重管理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

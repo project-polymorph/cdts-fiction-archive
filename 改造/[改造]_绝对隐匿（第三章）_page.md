@@ -7,7 +7,7 @@ TXT 下载: [[改造]_绝对隐匿（第三章）.doc]([改造]_绝对隐匿（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一本关于伪娘与变身相关的小说，第三章描绘了主角在一医疗设施中通过注射雌激素和身体改造训练，经历了自我认知的困惑与转变。王丹带领主角接受了疼痛的身体改造程序，使用复杂的仪器抽血和扎针，以测试身体的适应性。章节中描写了多次与不同女性角色（如李彩霞和林荫）的互动，这些互动包括角色的性感与身体的探索，随着激素的影响，主角逐渐对这些性刺激失去了感觉。文中细致的描写了主角感受到的疼痛与快感，以及在这过程中内心的挣扎与接受，反映了跨性别与性别认同的主题。整体内容涉及了身体改造的痛苦体验、性别认同的模糊界限及对身体和性别角色的再认识。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_绝对隐匿（第三章）.doc]([改造]_绝对隐匿（�
 | Size            | 42496 bytes                           |
 | MD5             | 9af966a926c98976476c12f68f4f39c9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身小说, 雌激素, 身体改造, 角色互动, 疼痛与快感, 自我探索, SNM训练, 伪娘, 跨性别, 性别转换, 情感挣扎, 现代小说, 成年人内容, 健康与医学, 心理感受, 性别动态, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

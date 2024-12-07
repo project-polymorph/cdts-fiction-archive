@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【申码文】卡罗特战记.doc]([附身]_【申码文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇关于卡罗特和艾莉西亚公主的奇幻小说。故事围绕着卡罗特——纽伦伯爵之子，与艾莉西亚公主在圣城的冲突展开。故事描绘了一位身着华服手持利剑的少女，她藐视卡罗特的手下，展现出无畏的气概。公主艾莉西亚在遭遇对方不法行为时，采取了捍卫弱者的立场，平衡了权力与正义之间的关系。她不仅通过法律制裁卡罗特，还对他的驱逐展现出温柔的保护。故事中暗示了更多权力斗争和角色内心的复杂变化。例如，卡罗特的家奴因执行公主的命令而受到惩罚，显示出其主人的绝对控制。文章通过对话与动态描写，勾勒出角色的个性，展现出权力、责任与个人欲望之间的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【申码文】卡罗特战记.doc]([附身]_【申码文�
 | Size            | 42496 bytes                           |
 | MD5             | 0bbb38d95357a960cefe04595f3769c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 奇幻, 权力斗争, 自我认同, 公主与贵族, 黑魔法, 冒险, 暴力, 情感冲突, 角色发展, 法律与正义, 女性力量, 中世纪幻想, 魔法书                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

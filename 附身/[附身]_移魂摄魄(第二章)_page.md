@@ -7,7 +7,7 @@ TXT 下载: [[附身]_移魂摄魄(第二章).doc]([附身]_移魂摄魄(第二�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇有关附身小说的第二章，作品通过主角的视角展开了一段关于灵魂转换和修真功法的奇幻冒险故事。在开篇中，主角因回忆的冲击而昏迷，醒来后发现自己身处一个灰色的空间，并且变成了魂体。随着故事的发展，主角遇到了名为九婴的神秘存在，九婴是一个上古大妖，向主角传授了关于魂魄修炼的功法：移魂摄魄。这个功法共分为九层境界，其中前三层功法为主角所学习，而后六层则受到禁制，需要完成特定使命才能解开。主角在学习过程中体验到了灵魂攻击和灵魂分裂等能力。同时，文本中涉及了一些关于人类起源的背景故事，增添了神秘感和宏大的世界观。此章节描述了主角对于修炼的兴奋与期待，以及伴随而来的诸多挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_移魂摄魄(第二章).doc]([附身]_移魂摄魄(第二�
 | Size            | 31744 bytes                           |
 | MD5             | 39312b88a23a2685cb29bd241137e514                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 灵魂转换, 修炼, 仙侠, 变身, 九婴, 移魂摄魄, 奇幻, 自我探索, 古代神话, 魂体, 冒险, 灵魂能量, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

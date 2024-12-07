@@ -7,7 +7,7 @@ TXT 下载: [[变性]_霓裳羽衣_第五章.doc]([变性]_霓裳羽衣_第五�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《霓裳羽衣》第五章，故事围绕着一个充满雾气的梦幻世界展开。主角在这个世界中体验了一种前所未有的舞蹈感受，逐渐感知到自己身体的变化及与舞蹈之间的亲密关系。角色在舞蹈时感受到身体的自由与愉悦，尤其是在脱去束缚衣物后，内心感受到一种巨大的成就感。随着情节的发展，主角经历了舞蹈带来的身体变化与情感波动，同时也面临着来自自我认知的疑惑和恐惧。最后，主角在流月阁与姐妹们相聚，其中透露出妈妈希望主角将成为新花魁的期待。整个章节深入探讨了性别认同、自我探索和身体觉察等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_霓裳羽衣_第五章.doc]([变性]_霓裳羽衣_第五�
 | Size            | 39936 bytes                           |
 | MD5             | 9c7f6554494b7ec361d66528788a92e6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 舞蹈, 性别认同, 自我探索, 古代, 流月阁, 花魁, 姐妹情, 心理变化, 性别转换, 舞蹈训练, 感官觉醒, 女性视角, 幻想, 情感冲突, 身体意识, 角色成长, 性感, 服装束缚, 魔幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_怪梦皮缘_第三章[开始进入正式剧情了……].
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章内容主要围绕角色沈鹏飞在变身成为女性夏琳后面临的各种心理和生理冲突。故事开头，沈鹏飞惊讶地发现自己并不在熟悉的男生宿舍，而是身处于异能与人皮相关的环境中。经过一番思考，他意识到自己在这种状态下不仅外貌变为女性，连生理特征也随之改变，体内的男性特征依然存在。剧情中通过与陆涛的电话交流以及与裴浩的互动，展现了角色的内心挣扎与自我认知的变化。这章的情节涉及到早晨的困惑、角色间的亲密互动及女性身份下的生活体验。特别是角色对自己身体的感知与对周围男性角色的吸引力，引入了对角色性别认同的探讨，描绘了复杂的情感和心理状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_怪梦皮缘_第三章[开始进入正式剧情了……].
 | Size            | 56320 bytes                           |
 | MD5             | 4c8a7f794d36d13691af04060c92c575                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 心理冲突, 性别认同, 青春校园, 人际关系, 自我探索, 人体改造, 异能, 恋爱, 情感经历, 青春期困惑, 友情, 性别转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_十二時鐘聲+後記.docx]([变身]_十二時鐘聲+後�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《十二时钟声（后记）》的小说档案，内容主要围绕一场华丽的舞会展开。在舞池中，男女们翩翩起舞，而男女主角之间的情感纠葛成为了故事的重点。少女依偎在男子的肩膀上，表达出希望与爱意，男子则深情回应，承诺可以永远共舞。故事进一步引入了一位法师及王子的对话，暗示王子身处的复杂境遇，以及与法师共同探讨安全问题的情节。此外，文件中还涉及了女伶与女仆之间关于性转与变装的主题，描写了女仆的蜕变和敏感的情感，并描绘了人与人之间细腻却又紧张的情感纠葛。整体来看，该文具有强烈的情感表达与暧昧气氛，同时也含有塑造角色心理变化的深层主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_十二時鐘聲+後記.docx]([变身]_十二時鐘聲+後�
 | Size            | 32540 bytes                           |
 | MD5             | f15e2f9f9fef9df46f4fe1b98ea2e469                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 舞会, 强烈的情感纠葛, 性别转换, 伪娘, 幻想, 自我探索, 魔法, 青春, 情感戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

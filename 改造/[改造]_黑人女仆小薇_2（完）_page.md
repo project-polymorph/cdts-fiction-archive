@@ -7,7 +7,7 @@ TXT 下载: [[改造]_黑人女仆小薇_2（完）.doc]([改造]_黑人女仆�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇描写性转话题以及相关人际关系的小说，讲述了主角小薇在斯莫基酒吧与朋友们的聚会、对人际关系的讨论，以及她在家庭中的角色。小薇是黑人女仆，她在社交场合中经历了种族和性别认同的复杂情感，讨论了对黑人和白人的看法，以及自己的变性经历。故事中包含了对黑人女性的刻板印象、家庭关系的磨合，以及她向外界展现的形象与内心的挣扎。在与男性的交往中，小薇不得不面对自我认同和家庭期待的矛盾，展现出强烈的性别意识和自我反思。故事中穿插着一些令人不安的场景，例如小薇与母亲及雇主之间的复杂亲密关系，引发对于边界和自我价值的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_黑人女仆小薇_2（完）.doc]([改造]_黑人女仆�
 | Size            | 58368 bytes                           |
 | MD5             | 5a0e43215f20009daf46114b6a90fb29                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 黑人女仆, 人际关系, 性别认同, 自我探索, 都市, 家庭, 爱情, 社交, 种族问题, 职场环境, 禁忌关系, 心理冲突, 文化碰撞, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

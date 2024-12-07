@@ -7,7 +7,7 @@ TXT 下载: [[改造]_Echoes　回音.docx]([改造]_Echoes　回音.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《回音》是由作者Serenity创作的跨性别主题小说，主要讲述了一名中年男子在其婚姻生活中遭遇危机，以及一个神秘年轻人的超自然提议如何在不知不觉中影响了他的现实生活。故事开篇以‘二十五年’这一数字引入，引发出角色内心的挣扎与对人妻的反感，并揭示了他与妻子关系的冷淡及婚姻的疲惫。随着剧情的发展，一位神秘的年轻人出现，他声称拥有改变人类情感和外貌的能力，提出能使角色的妻子变得更年轻美丽的建议。受到诱惑的主人公同意了提议，但随之而来的变化超出了他的预料——他的妻子头发的颜色变化，以及两人之间情感的回暖，带来了回音效应，让他开始反思自己曾经的感情。本文探讨了关于婚姻、超自然干预、性别角色以及内心冲突的深层主题，描绘了角色在自我认同和故事进程中经历的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_Echoes　回音.docx]([改造]_Echoes　回音.docx)
 | Size            | 30706 bytes                           |
 | MD5             | d3ebba1615bd9b6fc681089aee044668                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Serenity                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 婚姻危机, 自我探索, 情感干预, 超自然力量, 岁月流逝, 回音效应, 性爱, 情感的重建, 男性视角, 性别认同, 角色转换, 家庭问题, 魔法, 都市幻想, 婚姻与爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

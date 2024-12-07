@@ -7,7 +7,9 @@ TXT 下载: [[变身]_神奇刮胡刀1.docx]([变身]_神奇刮胡刀1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容为一篇关于杰克使用一款名为“传撕刮胡刀”的刮胡刀的变身小说。故事围绕主角杰克日常生活中的烦恼展开，他因浓密的胡子而受到女友露西的抱怨，最终选择购买了这款刮胡刀。杰克使用后感受到与往日不同的光滑效果，渐渐发现确保胡子光滑后，他的性生活也因而发生变化。他的胡子生长速度大大减缓，取而代之的是一种意想不到的转变，这让他们的亲密关系变得更加亲密且多姿多彩。
+
+整个故事充满了性暗示和性转的元素，杰克的胡子问题不仅是日常生活的烦恼，还是引发了他和女友之间情感和身体关系变化的元素。随着杰克体验到使用刮胡刀后的不同，他在不知不觉中开始探讨自己的性别和角色认同问题，故事也逐渐进入了一种生理与心理双重探索的境地。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_神奇刮胡刀1.docx]([变身]_神奇刮胡刀1.docx)
 | Size            | 16786 bytes                           |
 | MD5             | 7415aaa90f950d9f76cd1ed4437fb20a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 变嫁, 强奸, 淫荡, 调教, 变装, 离奇物品, 恋爱, 性别认同, 自我探索, 光滑, 奇幻元素, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

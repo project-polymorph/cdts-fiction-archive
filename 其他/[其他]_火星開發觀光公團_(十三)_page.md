@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火星開發觀光公團_(十三).docx]([其他]_火星開
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一段复杂的故事情节，围绕主人公芽实在经历了身体与身份的交替之后的内心挣扎与探索展开。故事的开头描绘了芽实从睡梦中醒来，感受到下体的痛苦，同时意识到自己的身体与身份发生了变更。她发现了身边的猫，并对猫如何来到自己的床上产生疑惑。随着情节的发展，芽实穿上长久未穿的制服，准备前往公团，以确定自己身上的金属物品的成分。芽实自我意识逐渐回归，她回忆起自己的过往，通过与M6的相互作用，揭示了自己的真实身份是史密斯太太的实验性复制人。故事探讨了自我认同、身体的异化与意识的觉醒，以及技术如何侵蚀人类情感的深层次主题，尤其是涉及到克隆与基因改造的伦理问题。最后，芽实发现自己依旧是一个有情感的人，并拥抱了自己的身份与存在。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火星開發觀光公團_(十三).docx]([其他]_火星開
 | Size            | 17897 bytes                           |
 | MD5             | 040014c3d82d97a35061d44db6e657f1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 自我探索, 精神冲突, 基因改造, 伪娘, 意识觉醒, 实验复制人, 科幻, 肉体异化, 情感伦理, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

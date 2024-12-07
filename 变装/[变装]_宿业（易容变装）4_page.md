@@ -7,7 +7,7 @@ TXT 下载: [[变装]_宿业（易容变装）4.doc]([变装]_宿业（易容变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了角色钟波在变装成女性时的心路历程。故事从钟波对着镜子自我审视开始，他在化妆和穿戴的过程中，逐渐完成了对自己的身份和外貌的转变。文中描写他使用面具和化妆技巧将自己打扮成一位名为孙艺珍的女性，并通过描述他的外貌变化，揭示了角色对自己的内心认同和追求。此外，故事引入了钟波与周海阳之间的互动，将两人相互扮演的情节穿插其中，表露出对女性形象的模仿与认同。小说中还涉及了一些限制级内容，诸如对角色与其母亲之间关系的描写，以及角色之间的情感冲突和欲望表达。整体上，小说探讨了性别角色的转换、个人认同的挣扎，以及由此引发的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_宿业（易容变装）4.doc]([变装]_宿业（易容变
 | Size            | 33792 bytes                           |
 | MD5             | 0e0a633aad4e2ca2225fd3151faba3f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 变装, 强奸, 调教, 戏仿, 情感冲突, 女性身份, 角色扮演, 自我探索, 悬疑情节, 阴暗心理, 性转, 变嫁, 都市情节, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_男女友互换.doc]([交换]_男女友互换.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含了一部有关男女友互换身体的小说的部分内容，讲述了男主角达蒙在一次意外中与他女朋友茉莉互换了身体。故事开始时，达蒙醒来发现自己变成了茉莉，面临着穿着高跟鞋和丝袜的困惑与不适。在茉莉细致的“指导”下，他/她努力适应新的身份，而这段奇妙的经历逐渐引发了达蒙内心的复杂情感变化。随着故事的发展，达蒙体验了穿着女性衣服的感受，以及与周围人互动的改变，甚至在与茉莉的亲吻中感受到身体的变化和感官的刺激。人物的内心斗争和性别认同的探索贯穿全文，展现了性别角色的流动性和身份认同的多重性。文中描述了不少关于心理及情感的细腻刻画，展现了达蒙在接受新身体的同时，逐渐被茉莉的生活方式所影响，并开始思考自身的身份定位。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_男女友互换.doc]([交换]_男女友互换.doc)
 | Size            | 39936 bytes                           |
 | MD5             | 109928f3c3f0d8daea4f08b743bd52d5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别互换, 变身小说, 跨性别, 自我探索, 爱情, 校园, 女性视角, 心理变化, 恋爱, 互换身体, 角色扮演, 成长与认同, 奇幻, 惊喜, 身份认同, 恋爱动态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

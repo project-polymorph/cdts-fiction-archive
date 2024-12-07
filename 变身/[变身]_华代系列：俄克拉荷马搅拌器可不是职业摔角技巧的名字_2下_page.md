@@ -7,7 +7,7 @@ TXT 下载: [[变身]_华代系列：俄克拉荷马搅拌器可不是职业摔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为伪娘和变身类小说的一部分，标题为《俄克拉荷马搅拌器可不是职业摔角技巧的名字》。文本中描绘了角色凉子在变身为女性后的内心挣扎与心理描写，展现了她在女洗手间时的犹豫与不安。故事涉及到凉子转变为女性后面对的种种困扰，尤其是在身份认同方面的挑战，她在面对如厕等生理需求时，感受到身体与认知的不一致。凉子的体验被细腻地捕捉，表达了她对新身体的复杂情感，包括羞涩、困惑与自我接纳的冲突。文本中也配有作者对翻译过程中所面临的挑战的反思，以及对日文拟声词处理的讨论。整体而言，作品深刻地探讨了性别认同和自我认知的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_华代系列：俄克拉荷马搅拌器可不是职业摔�
 | Size            | 28367 bytes                           |
 | MD5             | a45ce229fafa54eb1d8657aecf04e1a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 心理描写, 性别认同, 自我探索, 女装, 校园生活, 女性视角, 强烈内心冲突, 羞涩, 青春成长, 性别转换, 生理需求, 身份认同, 人际关系, 情感纠葛, 女性形象                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我家女友不定形_【第八章】.doc]([皮物]_我家
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节讲述了李林与他的女友修依的日常生活，他们是一对热恋中的情侣。故事开头描述了他们在温暖的早晨共同享用早餐及进行亲密的互动，包括喂食等甜蜜行为，展示了他们的恋爱气氛。随后，他们在校园的生活中也充满了甜蜜与互动，李林的父亲对他们的关系表示支持，甚至打算在假期时安排见面。同时，故事中李林同时也在体验穿着皮物带来的美妙感觉，这是他对女体体验的另一种追求。晚间的自由时间他们选择享受彼此的陪伴，尽管并不每天都有亲密行为，却保持着一种轻松愉快的感情交流。修依的身份虽然是一种拟态，但无疑给李林的生活带来了异样的乐趣。故事中还暗示了苏颖及其同学们对李林与修依关系的猜疑和担忧，增添了剧情的紧张感。整个段落以一种似乎普通却蕴含深情与复杂性的方式讲述了两人的生活，探讨了爱情的多样性与青春的美好。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我家女友不定形_【第八章】.doc]([皮物]_我家
 | Size            | 51200 bytes                           |
 | MD5             | d7afb65780016cd24474e3da795fef96                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 恋爱, 校园, 甜蜜, 皮物, 跨性别, 女体体验, 日常生活, 修依, 李林, 情感交流, 拟态, 青年学生活动, 自我探索, 情感困惑, 强烈的情感, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

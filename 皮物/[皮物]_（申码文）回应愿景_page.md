@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（申码文）回应愿景.doc]([皮物]_（申码文）�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容为一部伪娘/男娘题材的小说，描绘了一个男性角色通过特殊手段变身为女性的细腻过程。故事开始于一个阴沉的天色，描绘了角色在一座小山的神社等待着新的身体的到来。在漫长的等待过程中，角色遇见了一位年轻的大学生少女，并伪装成做问卷调查。随着情节的发展，角色使用一种伪装成笔的针刺入少女的脖子，实现了身体的交换。小说详细描写了变身的过程，包括少女身体的变化和角色对这种转变的疯狂渴望。随着角色变成少女，小说不断探讨性别认同和身体的奇妙感，在享受新身体的同时，展现出角色的外在与内在的冲突。从高潮的描写中可以感受到角色在对新身体的探索过程中的快感与自我认同的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（申码文）回应愿景.doc]([皮物]_（申码文）�
 | Size            | 45568 bytes                           |
 | MD5             | 2bf49c5e2a0d95ee698d1af639ee8e2a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 身体交换, 小说, 情色, 强烈性感, 自我探索, 奇幻元素, 变态青年, 青春校园, 阴谋与欲望, 心理冲突, 女性视角, 身体改造, 女性身体的愉悦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

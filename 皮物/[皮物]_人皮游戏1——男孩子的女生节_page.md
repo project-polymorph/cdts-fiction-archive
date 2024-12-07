@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人皮游戏1——男孩子的女生节.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇伪娘和变身主题的小说，名为《男孩子的女生节》。故事围绕主角小峰展开，他是一名大学学生会主席。故事从准备学校女生节的活动开始，描述了小峰对于活动情况的处理和自己内心的图谋。随着情节的发展，小峰使用了神秘的喷雾和装置，逐渐将自己的身体转变为女性的形态，小说详细描绘了这一过程，展现了他从男性到女性的身体变化及内心感受。此外，文中还涉及了对声带的调整以及穿着女性服装后的形态和心态变化。整部作品充满了幻想成分，并大胆探讨了性别认同与角色扮演的主题，展现了跨性别者的体验和挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人皮游戏1——男孩子的女生节.docx]([皮物]_�
 | Size            | 24166 bytes                           |
 | MD5             | 76c4b4e589291d4087212b1989280743                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 恋爱, 校园, 性别认同, 幻想, 角色扮演, 自我探索, 女装, 调教, 调戏, 性别转换, 小号, 社交                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

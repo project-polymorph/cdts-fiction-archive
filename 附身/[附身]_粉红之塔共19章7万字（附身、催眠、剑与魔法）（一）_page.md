@@ -7,7 +7,7 @@ TXT 下载: [[附身]_粉红之塔共19章7万字（附身、催眠、剑与魔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《粉红之塔》是一部以西方魔幻为背景的小说，包含了19章和约7万字。故事围绕主角嬴荡展开，他是一名宅男，因游戏中被视为最强梦魇的角色而被魔法阵召唤。小说中包含了附身、催眠、剑与魔法等元素，主线围绕神秘的法师塔与梦魇的世界，涉及角色的性别、身份及能力的变化，以及与小恶魔的互动和契约等情节。小说中的悬念吸引人，情节紧凑，展现了主角在奇幻世界中的冒险与挑战。作品的叙述风格穿插了一些调侃和幽默，情节发展有趣且富有创意。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_粉红之塔共19章7万字（附身、催眠、剑与魔�
 | Size            | 131072 bytes                           |
 | MD5             | 03ebacda6fde27062a75c35174ba3097                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 大萌术士                               |
+| Region          | 未知                               |
+| Date            | 2014-10-29                                 |
+| Tags            | 附身, 催眠, 剑与魔法, 西方魔幻, 宅男, 恶魔契约, 法师塔, 梦魇角色, 幻想冒险, 奇幻元素, 自我探索, 性别认同, 幽默, 魔法战争, 游戏世界, 角色扮演, 奇幻小说, 年轻法师, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

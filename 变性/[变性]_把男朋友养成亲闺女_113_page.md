@@ -7,7 +7,7 @@ TXT 下载: [[变性]_把男朋友养成亲闺女_113.docx]([变性]_把男朋�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件的标题为《把男朋友养成亲闺女》，是一个围绕艾普丽尔·盖茨的故事，讲述她在职场中的压力与晋升机会。故事的开头描述了艾普丽尔面临紧急会议的困惑，急于完成工作清单并且希望能够升职。她与上司阿曼达之间的互动刻画了办公室的紧张气氛，暗示着艾普丽尔对升职的渴望以及对未知会议的忧虑。在参加会议的过程中，艾普丽尔意外地发现此次会议的内容与她的升职机会有关，而并非她所担忧的被解雇。会议中，德里克先生向艾普丽尔传达了即将面临的职位变化以及她朋友阿曼达的情况，揭示了公司内部的竞争与晋升的不平等。整篇故事深入展现了职场中的性别认同与个人发展，艾普丽尔的情感纠葛和对未来的期望形成鲜明对比。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_把男朋友养成亲闺女_113.docx]([变性]_把男朋�
 | Size            | 19897 bytes                           |
 | MD5             | 183e7bcd0b9299435355dc5a8ad499dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 职场晋升, 性别认同, 女性职场, 自我探索, 情感纠葛, 二次元, 变身小说, 成长故事, 友情, 职场压力, 未知, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

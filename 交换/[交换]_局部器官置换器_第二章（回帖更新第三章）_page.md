@@ -7,7 +7,7 @@ TXT 下载: [[交换]_局部器官置换器_第二章（回帖更新第三章）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别转换的小说，名为《局部器官置换器》，内容涉及科技与性别关联的幻想。故事开头描述了一种可调整局部器官的神秘设备，主角胖宅在启动该程序后经历了身体的巨大变化，令人意想不到的是，他的生理男性特征被转变为女性特征。】【“恒定器官置换程序已启动，正在调整局部差异值，请稍候”。随着程序的运行，胖宅的身体体验到了改造带来的混乱与困惑，“身上那唯一让他自豪的玩意真的不见了，只摸到一条温暖柔滑的肉缝”。】【故事逐渐过渡到胖宅与班花穆妍冰身体置换后的奇异体验及内心挣扎，逐步展开了对性别认同和欲望的深刻探讨。他心中充满对新身体的好奇与尴尬，同时伴随着对自己男性特征的强烈怀念与强烈冲突。它通过一种半科幻的状态探讨了人类在科技高度发达时，性别及性认同的问题，并将其与身体欲望和虚拟化结合。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_局部器官置换器_第二章（回帖更新第三章）
 | Size            | 19020 bytes                           |
 | MD5             | 2d23770f522831240e4ef7e6e72e1511                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 伪娘, 跨性别, 性别认同, 科技幻想, 自我探索, 身体置换, 男性欲望, 女性特征, 班花, 复杂心理, 科幻, 二次元, 情感纠结, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

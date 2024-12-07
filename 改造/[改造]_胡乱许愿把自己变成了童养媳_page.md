@@ -7,7 +7,7 @@ TXT 下载: [[改造]_胡乱许愿把自己变成了童养媳.doc]([改造]_胡�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文讲述了一个名叫阿威的角色意外获得了一个能实现愿望的戒指。故事开始时，阿威希望自己变得更聪明，然而由于戒指的反射效果，他的愿望恰恰相反，导致他变得愚笨。阿威在被送到一所小学后，由于他所具备的成长经验和理解能力，虽然智力变得如同小孩，但他仍然能够快速回答老师的问题，赢得了同班小朋友的关注和喜爱。随着故事的发展，阿威许下的愿望开始不断实现，甚至变成了小男孩的“童养媳”，令他在与周围小女孩的竞争中陷入情感的混乱。他开始感受到身份和情感的错位，对自己的性别认同产生了疑惑。整篇文章涉及了奇幻元素与性别认同的主题，并通过阿威的变化展开了一场关于自我探索的故事，描绘了角色在无尽的愿望实现中所面临的社会与自我认知的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_胡乱许愿把自己变成了童养媳.doc]([改造]_胡�
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | bd963f22080d6525e09ad26c68277114                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 童养媳, 自我认知, 愿望实现, 奇幻, 校园生活, 角色扮演, 性别认同, 情感混乱, 伪娘, 男孩, 小学生, 喜欢男孩, 戒指                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

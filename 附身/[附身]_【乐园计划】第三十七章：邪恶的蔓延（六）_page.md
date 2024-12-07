@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【乐园计划】第三十七章：邪恶的蔓延（六�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《乐园计划》第三十七章，标题为《邪恶的蔓延（六）》。故事围绕主角浅夏在图书馆内研究一种具有危险性的魔法手套，这种手套能够交换生物的灵魂。浅夏发现她的朋友香草在不知不觉中被魔族所操控，同时探讨了数名少女在贵族学校内的异常变化。故事中涉及魔法、身份认同、身体控制等主题，描绘了浅夏对局势的深刻思考，以及她对即将发生的危机的担忧。内容中还有对这些变化的隐喻描写，以及新生与挣扎的情感，体现了角色们在面对外部威胁时的脆弱与无奈。整章有一定的限制级内容，包括生理和情感的探索，适合成年读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【乐园计划】第三十七章：邪恶的蔓延（六�
 | Size            | 35328 bytes                           |
 | MD5             | ee929f295e6b275b5061de970048835d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 灵魂交换, 身体控制, 自我认知, 暗黑, 青年, 校园, 魔物事件, 双性别认同, 心理探索, 身份转换, 女主角, 跨性别, 性转, 伪娘, 异世界, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

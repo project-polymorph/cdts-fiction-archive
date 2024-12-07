@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_天上人间.docx]([皮物]_天上人间.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇短篇小说，标题为《天上人间》，主要围绕两名空姐，在波音747客机上发生的情节展开。故事的主人公村上由纪子和吉田奈美，分别是飞机上的乘务长和新进空姐。村上因对吉田的出现感到威胁，开始故意刁难她，而吉田则以积极的态度应对。情节发展到关键时刻，吉田被古馆这位乘客施加了春药，导致两人的欲望闯入洗手间，产生了一系列挑逗与亲密的互动。故事在探索职场竞争与性别认同之间的纠葛中，涵盖了一些敏感的成人内容与幻想的元素，体现了性别角色与权力关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_天上人间.docx]([皮物]_天上人间.docx)
 | Size            | 26335 bytes                           |
 | MD5             | 27a5d7b14bf020be7bb8c14c5fef8330                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 空姐, 波音747, 性转, 春药, 职场竞争, 女同性恋, 偶然相遇, 情感纠葛, 洗手间, 禁忌恋情, 成年人内容, 暗恋, 强烈欲望, 性幻想, 权力游戏, 飞行, 二次元, 空中故事, 神秘乘客, 刺激体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

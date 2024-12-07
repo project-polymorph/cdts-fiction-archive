@@ -7,7 +7,7 @@ TXT 下载: [[附身]_青空&银奈学园的凭依能力者们（持续更新）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《青空&银奈学园的凭依能力者们》小说的一部分，讲述了在青空学园的高中生北条和也与其挚友岛琦优一之间发生的奇妙事件。故事设定在两所学术优异的学校之间，两位主角在一系列充满幻想与性别转变的情节中展开互动。角色岛琦优一在故事中因某种未知的凭依术变身成了外形美少女的状态，随着情节发展，和也探索着这段关系的复杂性，同时面对性别与身体认同的冲突。书中包含了一些成人内容和性暗示的情节，例如优一对自身身体的探索及与和也的亲密接触，营造出一种强烈的性别与心理上的张力。由于文本中涉及到性转、跨性别等主题，适合对性别与身份认同感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_青空&银奈学园的凭依能力者们（持续更新）
 | Size            | 46627 bytes                           |
 | MD5             | 1178b3c6fedaaed7cb2e8715436ea6bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 成长, 幻想, 心理探索, 青春期, 情感纠葛, 友谊, 自我认知, 身体认同, 性别认同, 稀奇古怪的力量, 日本校园, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

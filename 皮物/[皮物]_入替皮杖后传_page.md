@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_入替皮杖后传.doc]([皮物]_入替皮杖后传.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身与跨性别相关小说的章节，叙述了主人公曾达从繁忙的工地工作中回到都市的生活。他在工地完成一整天的工作后，骑着电瓶车穿梭于城市的街道，心中懷念着过去的种种。随着故事的推进，曾达意识到自己的生活陷入了寂寞和迷惘，他试图通过为朋友庆祝生日来缓解自己的孤独。故事中还介绍了曾达与朋友小伟的友情，以及他们在一起庆祝生日时的欢声笑语，但随着一场火灾的发生，事情的发展令故事变得复杂。火灾引发了一系列的误会与冲突，尤其是当曾达被怀疑与火灾有关时，随着调查的深入，更多的细节开始浮出水面。故事融合了友情、职场压力和生活的种种不易，展现了角色们的内心挣扎和对于未来的希望与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_入替皮杖后传.doc]([皮物]_入替皮杖后传.doc)
 | Size            | 428032 bytes                           |
 | MD5             | 6a1c0b5e432818c056f893deccb2a43c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | hedian                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-12-10                                 |
+| Tags            | 变身, 跨性别, 友情, 都市生活, 火灾, 职场压力, 生日庆祝, 心理冲突, 青春回忆, 自我认同, 误会, 危机处理, 职场政治, 情感纠葛, 二次元, 伪娘, TS变身, NTR, 纯爱, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

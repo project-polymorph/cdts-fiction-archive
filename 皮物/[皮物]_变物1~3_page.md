@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_变物1~3.doc]([皮物]_变物1~3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以伪娘和变身为主题的跨性别相关小说，讲述了一个名为K的杀手，他通过一块神秘的胶水和科学家的皮肤，实施一系列谋杀和变身的故事。故事开头，K被一个肥胖的中年人威胁，然而K却毫不犹豫地将其杀死，揭示了其冷酷无情的杀手本性。随着故事的发展，K拥有了科学家的记忆和外貌，成为了一名能够在女性形态中游刃有余的杀手。作品中提到了K配合外星胶水和轮换身份的能力，反映了对身份认同和自我探索的探讨。情节涉及多个男女角色间复杂的关系和情感，尤其是K对女警叶明倩的威胁和操控。整部作品充满了紧张感和戏剧性，同时也突出了对性别流动性和身份转换的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_变物1~3.doc]([皮物]_变物1~3.doc)
 | Size            | 44544 bytes                           |
 | MD5             | 73a1311702e7bf2b444dc18c1f140f6e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 杀手, 跨性别, 犯罪小说, 异世界, 女性角色, 身份认同, 心理斗争, 超自然, 血腥, 悬疑, 纯爱, 强奸, 男变女, 跟踪, 情色, 科幻, 杀人, 探讨自我, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

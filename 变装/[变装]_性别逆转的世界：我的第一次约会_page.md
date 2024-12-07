@@ -7,7 +7,7 @@ TXT 下载: [[变装]_性别逆转的世界：我的第一次约会.doc]([变装
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品《性别逆转的世界：我的第一次约会》由Sonnyjimjr创作，讲述了一个有关性别认同和自我探索的故事。故事的主角是詹姆斯，他即将与名为艾米丽的女孩约会，这是他第一次约会，情绪紧张。作品详细描绘了他的准备过程以及与艾米丽在嘉年华度过的愉快时光。主角穿着可爱的露肩连衣裙，化妆打扮，让人感受到他在性别角色转换中的矛盾心情与自我认同的发展。两人一同享受游戏和美食，最终在摩天轮上的吻升华了他们之间的情感，为这个性别逆转的美好夜晚书写了浪漫的篇章。整部作品在展示青春约会的同时，给予了读者思考性别认知和爱的多元可能的空间。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_性别逆转的世界：我的第一次约会.doc]([变装
 | Size            | 30720 bytes                           |
 | MD5             | 646e7d0542d95d4e134e77aa9e64e986                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Sonnyjimjr                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 约会, 青春, 自我探索, 爱情, 情感发展, 伪娘, 变身, 第一次约会, 青春期, 二次元, 同性恋, 嘉年华, 亲吻, 摩天轮, 泰迪熊                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

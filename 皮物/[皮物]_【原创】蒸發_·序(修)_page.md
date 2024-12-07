@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【原创】蒸發_·序(修).doc]([皮物]_【原创】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇名为《蒸发·序》的原创小说，主要围绕一位名为“The Lady”的商人展开，故事揭示了她在地下世界的身份和职业，专门提供人间蒸发服务的能力。小说开始于一名检修工人在高档别墅区遭遇电力盗用事件，而在地下室里，则隐藏着独特的实验室和一位使用科技进行自我转变的女性。随着故事发展，揭示了她的秘密技术——能够将男人转变为绝世美女的身体套件，以及她在实验中对感官刺激的追求，表现出深度的性别认同和生理体验。文本细腻地描绘了实验过程中的感官体验，夹杂着对身份的探索与自我认知的挣扎。该作品虽然涉及一些限制级的色情内容，但主要聚焦于科技与性别之间的复杂关系，探讨了人类的欲望与自我认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【原创】蒸發_·序(修).doc]([皮物]_【原创】�
 | Size            | 45568 bytes                           |
 | MD5             | 5670b447f982a88470607cee8f5a73cb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 蒸发服务, 性别转换, 科技幻想, 实验室, 感官刺激, 伪娘, 触感模拟, 角色转换, 身份危机, 地下世界, 黑道, 情感纠葛, 女性视角, 生理体验, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

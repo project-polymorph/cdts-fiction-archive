@@ -7,7 +7,7 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟.doc]([改造]_变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说主要讲述了男主角王曦鹏在回到上海后，发现自己的前女友已经结婚生子。男主被迫接受前女友丈夫的性别改造与调教，最终转变为前女友的通房丫鬟。在这个过程中，他经历了羞辱和身心的完全堕落。这部小说深入探讨了性别认同与自我认知的转变，生动描绘了他在女性形象下的羞耻与淫荡的生活。小说中有细腻的情感描写与生动的场景重现，比如男主穿着前女友内衣与她一同入眠、求婚、交流等亲密互动，展现了复杂的人际关系与情感纠葛。这些情节以浓烈的性暗示为背景，充满学校、温泉等多处场景的生活细节与角色之间的互动，反映了社会与人性的交错。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟.doc]([改造]_变�
 | Size            | 65536 bytes                           |
 | MD5             | 5658d7c9a1476fbd16e4ce453b69615a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变性, 通房丫鬟, 羞辱, 调教, 性别认同, 自我探索, 恋爱, 现代都市, 性转, 淫荡, 情趣内衣, 男性变女性, 动态关系, 情感纠葛, 性关系, 校园爱情, 性别转换, 身心矛盾                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

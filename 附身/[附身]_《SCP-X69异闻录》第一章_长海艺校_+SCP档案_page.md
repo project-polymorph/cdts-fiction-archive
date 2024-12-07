@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《SCP-X69异闻录》第一章_长海艺校_+SCP档案.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《SCP-X69异闻录》第一章，围绕一个名为SCP-X69的物品展开，讲述了其神秘的特性及其对人类的影响。SCP-X69为一个形状类似移动电话的青铜器物，当与人类血液接触后，会经历剧烈的转变，最终转化为一种具有血肉的生物组织，且能够寄生于有机生命体内。一旦寄生，SCP-X69便可以通过电磁波控制宿主，实现对他人意识的干预，操控宿主的行为。故事的开头，主人公陈兴在长海艺术学院等待新生，并在与好友王胖子的对话中透露出自己被古董划伤的细节。随着情节发展，揭示了SCP-X69的背景及其在秦代文化中的重要性，以及与宿主身份密切相关的困境和变化。此作品融合了科幻与悬疑的元素，探讨了身份、控制及人际关系等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《SCP-X69异闻录》第一章_长海艺校_+SCP档案.do
 | Size            | 147187 bytes                           |
 | MD5             | 7260497d662f41233bb68f969dd25617                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | SCP情节, 变身, 科幻, 悬疑, 跨性别, 控制意识, 宿主寄生, 秦代文化, 古董, 青春校园, 奇幻, 血肉转化, 电磁波干扰, 人际关系, 青春恋爱, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

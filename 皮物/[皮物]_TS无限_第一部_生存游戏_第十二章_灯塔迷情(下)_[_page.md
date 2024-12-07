@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_TS无限_第一部_生存游戏_第十二章_灯塔迷情(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是小说《TS无限》的第十二章，标题为《灯塔迷情（下）》。故事中，主要角色“我”与男友七原秋也在一座灯塔内展开了一系列紧张而又香艳的情事。在前情提要中，角色们经历了一场生存游戏的残酷争斗，他们不仅要面对外界的威胁，还要处理彼此复杂的情感。在这一章中，作者描绘了在浴室中我与七原秋也发生的亲密关系，以及随之而来的暗流涌动。在灯塔中的追击与冲突，使得角色们的命运交错、更加复杂，在战斗准备期间，展示了男主在情感上的犹豫与渴望。此外，描述了角色内心的挣扎与应对情感的复杂心理。书中提及了人际关系的微妙变化及角色对彼此感情的期待和捆绑，暗示着未来可能的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_TS无限_第一部_生存游戏_第十二章_灯塔迷情(
 | Size            | 16989 bytes                           |
 | MD5             | 1239963f43c91a722e714b669e25d1f9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 爱情, 血腥, 厕所场景, 宿舍生活, 角色互动, 生存游戏, 青少年, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

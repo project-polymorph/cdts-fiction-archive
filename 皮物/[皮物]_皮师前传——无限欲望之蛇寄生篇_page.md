@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮师前传——无限欲望之蛇寄生篇.doc]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘及跨性别主题的小说，围绕角色谢诗旋及其母亲的复杂关系展开。在故事中，女友以华丽的女性形象示人，但实际上存在心理和身体上的异化，情节发展中加入了催眠、欲望寄生等超自然元素。在快节奏的对话中，探索了亲密关系中的权力动态和性别认同问题。尤其值得注意的是，故事通过母亲与女友之间的互动，揭示了由欲望驱动的复杂情感，并运用了对话和幻想等叙述手法进行深入刻画。故事中的角色面临着身份危机与欲望困扰，涉及的主题具有一定的成人内容，特别是在家庭与爱情、滥交与性爱之间的界限上。整体情节充满了紧张与诱惑的对峙，模糊了爱与欲、真实与幻觉的界限。细腻的心理描写及对角色内心冲突的深刻剖析，使得作品在情感层面上显得格外引人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮师前传——无限欲望之蛇寄生篇.doc]([皮物
 | Size            | 40448 bytes                           |
 | MD5             | 5aa8149fe248d9c4f85196d062ef1495                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 催眠, 亲密关系, 母女情, 欲望寄生, 伪娘, NTR, 家庭伦理, 成人内容, 代入感, 情感冲突, 心理剖析, 幻想文学, 二次元, 强烈描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

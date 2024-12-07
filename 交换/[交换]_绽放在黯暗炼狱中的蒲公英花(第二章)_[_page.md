@@ -7,7 +7,7 @@ TXT 下载: [[交换]_绽放在黯暗炼狱中的蒲公英花(第二章)_[.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《绽放在黯暗炼狱中的蒲公英花》的第二章，以虚构的幻想世界为背景，描绘了角色宇廷在一个不明环境中的醒来过程。在这个充满奇异气息的房间里，宇廷遇见了一位名叫凝凝的少女，她试图照顾宇廷，带来了一种温暖的存在。宇廷逐渐意识到自己看起来已经变成了另一名女性角色——白凌艳，并对这一变化感到疑惑。不仅有饥饿感和身体的虚弱，宇廷的内心也充满了对自己身份和境遇的困惑。在与凝凝的对话中，宇廷发现她似乎对自己有着特殊的情感，凝凝的哭泣和她的言语提示着两者之间潜藏的秘密。这一章通过宇廷与凝凝的互动，揭示了角色心理的变化以及对身份的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_绽放在黯暗炼狱中的蒲公英花(第二章)_[.docx]
 | Size            | 26294 bytes                           |
 | MD5             | dc9494f19d780f58c6e7035d32ab756b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RE                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 虚构, 女性角色, 自我认同, 幻想世界, 心理冲突, 温暖情感, 角色关系, 改变与适应, 奇幻小说, 二次元, 耽美, 奇异体验, 药草料理, 成长主题, 情感纠葛, 身体变换, 天使形象, 梦境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

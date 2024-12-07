@@ -7,7 +7,7 @@ TXT 下载: [混混的报复.docx](混混的报复.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一个从监狱释放的男人石井光，在经历一系列事件后，跟随一个神秘的老头获得了性别转化的机会。故事开头，石井光在监狱门口骂骂咧咧地走出，情绪激动，立刻去喝酒。他在夜店遇到一名女孩后，因误会被警察抓住，经历了一番审讯后被拘留。七天后，他又遭到了一名穿女装的男子的挑逗，并在一次交合后与神秘人交谈。老头表示他可以变成任何他想成为的样子，因此带来了矿泉水，这些矿泉水能够让女人的身体变成他想要的模样。故事以石井光接受这一奇异变化的过程结束，展示了他心理的挣扎与欲望的体现。文章以丰富的细节描写了人物的心理状态与行为，涉及强烈的性暗示与变身设定，有诸多成人向与幻想元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [混混的报复.docx](混混的报复.docx)
 | Size            | 114870 bytes                           |
 | MD5             | 367bbc807cca8e4880a980860ad886d0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 跨性别, 自我探索, 道德冲突, 监狱生活, 酒吧文化, 性暗示, 奇幻, 二次元, 幻想元素, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

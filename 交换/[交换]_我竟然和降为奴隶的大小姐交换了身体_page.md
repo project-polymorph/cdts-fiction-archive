@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我竟然和降为奴隶的大小姐交换了身体.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一本关于性别转换的小说，主要围绕主人公与一位高贵的贵族千金索菲亚之间的身体交换展开。故事描述了主人公如何在与索菲亚的身体交换后，成为了她的主人，并对她施加了奴役。本文深刻探讨了权力关系、控制和屈从等主题。在故事中，主人公使用奴隶颈圈对索菲亚施加命令，使她不得不完全服从并接受羞辱与屈辱。故事中的描写具有强烈的视觉效果与情感冲突，尤其是对角色内心挣扎的细腻刻画。此外，涉及到操控、调教与性别认同等复杂的主题，适合对跨性别、性别角色及其变化感兴趣的读者。文中包含多处情节描写，例如当主人公冲撞索菲亚的心灵时，索菲亚的反应充满了悲愤与无力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我竟然和降为奴隶的大小姐交换了身体.docx](
 | Size            | 31241 bytes                           |
 | MD5             | 95ab2513648cb0ef13e681781121d23d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 奴役, 权力关系, 调教, 跨性别, 自我认知, 心理冲突, 权威, 身体交换, 二次元, 伪娘, 男娘, 冒险, 奇幻, 性满足, 性别角色, 暴力, 情感操控                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

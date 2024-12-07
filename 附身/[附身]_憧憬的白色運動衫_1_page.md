@@ -7,7 +7,7 @@ TXT 下载: [[附身]_憧憬的白色運動衫_1.docx]([附身]_憧憬的白色�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是以中文撰写的变身小说，围绕着高中生活和灵魂附身的设定展开。故事中有一位年轻的女老师信河瑠那，她与学生们亲密相处，实际上更像是他们的姐姐。故事描述了两名男学生唯人和春樹的计划，使用一种神奇的药物实现灵魂出窍，附身在瑠那的身体上，以体验女性的生活与情感。他们在上课期间开玩笑，并讨论着这个非常规的计划，带有幽默且略显不安的氛围。此外，情节中涉及一些可能的伦理和道德问题，如性别认同和自我探索。文件中也包含了关于老师的个人特征和他们之间的互动，展示了青春期的懵懂与困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_憧憬的白色運動衫_1.docx]([附身]_憧憬的白色�
 | Size            | 17887 bytes                           |
 | MD5             | 2f8081c820c975523df57dd359ee52eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 附身, 高中生活, 性别认同, 灵魂出窍, 师生关系, 青春期, 自我探索, 幽默, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

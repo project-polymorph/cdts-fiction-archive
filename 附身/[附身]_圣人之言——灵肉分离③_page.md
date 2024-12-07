@@ -7,7 +7,7 @@ TXT 下载: [[附身]_圣人之言——灵肉分离③.docx]([附身]_圣人之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《圣人之言——灵肉分离③》围绕着一个关于附身与自我认同的故事展开。故事的主要角色通过附身在某个女性身上，与对手进行精神上的较量。故事中展现了复杂的心理斗争，主角不仅在操控他人，而且探讨了权力、选择和性别认同等议题。文中角色展示出在面临身份和权力转变时的内心冲突，以及对他人欲望的剖析。小说通过对角色心理的深刻挖掘，探讨了选择的自由与命运的不可预知，结合了一些色情的元素，使得故事的情节更为复杂和引人入胜。在一段激烈的对话中，主角不耐烦地质问对方，并引导她意识到自己的无知，展示了他对心理操控的驾驭。此文内容包含了暴力、操控等情节，适合对性别认同和附身主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_圣人之言——灵肉分离③.docx]([附身]_圣人之
 | Size            | 23281 bytes                           |
 | MD5             | 82d2d56ee60dfa9a35d6d9cda3afeb73                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 灵肉分离, 心理斗争, 性别认同, 操控, 暴力, 复杂人际关系, 二次元, 奇幻设定, 内心冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

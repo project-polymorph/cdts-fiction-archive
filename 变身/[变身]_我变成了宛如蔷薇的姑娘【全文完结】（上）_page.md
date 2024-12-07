@@ -7,7 +7,9 @@ TXT 下载: [[变身]_我变成了宛如蔷薇的姑娘【全文完结】（上�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《我变成了宛如蔷薇的姑娘》，讲述了一个男孩意外变成美少女的奇幻经历。故事开始时，主角描述了自己变成女孩后的感受，感叹自己原本是男性，却如今变得光滑纤细，穿着汉风襦裙，仿佛蔷薇般美丽。小说中有描述初变成女孩的懊恼与羞愧，以及对变身过程的感知。
+  故事中还涉及了角色之间的互动，主角与一位名叫沙利文的男巫成为同班同学。沙利文来自英国，他在学习中文和中国文化的过程中与主角建立了友谊，他们共同行动，讨论文化差异，以及对魔法的理解。
+  整个故事包含了对性别认同问题的探索，同时融合了青春校园生活的描绘，带有幻想色彩的情节设置使其充满娱乐性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_我变成了宛如蔷薇的姑娘【全文完结】（上�
 | Size            | 87452 bytes                           |
 | MD5             | 2f27fde8f58ec9b5e42afc341da661f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 校园生活, 幻想, 跨文化交流, 魔法, 青春, 美少女, 自我探索, 友谊, 奇幻, 伪娘, 二次元, 男巫, 汉风, 文化差异                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

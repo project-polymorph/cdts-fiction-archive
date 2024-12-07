@@ -7,7 +7,7 @@ TXT 下载: [[其他]_永夜—序之篇（二）.docx]([其他]_永夜—序之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《永夜—序之篇（二）》，内容是一个围绕角色杜鹃展开的奇幻故事。故事开头描绘了杜鹃在夜深人静时醒来，因寻找阿哥而向族长求助。其后，杜鹃面临着一个恐怖的祭品仪式，令她感到绝望。作品通过描写杜鹃被困于虫皇的故事，不仅展现了她战斗与求生的决心，还展现了与父、祖辈之间的情感羁绊。随着情节的发展，杜鹃在与虫皇的斗争中经历了生与死的考验，最后成为了虫皇的灵魂寄托，身受巨型虫涎的侵蚀。故事中有大量关于虫兽和灵魂夺舍的细节，这些幻想元素丰富了故事的层次和复杂性。此外，作品也涉及了生死、转变与复仇的主题，突显角色对命运的抗争和对过往的执念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_永夜—序之篇（二）.docx]([其他]_永夜—序之
 | Size            | 21230 bytes                           |
 | MD5             | 3a26f66681e14bf95071a1ef4343c6c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 蜕变, 生命与死亡, 复仇, 灵魂交换, 伪娘, 虫皇, 性别认同, 家族情感, 自我探索, 生死考验, 异能, 吸引与消化, 古代遗迹, 神秘仪式, 异兽                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

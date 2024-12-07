@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_喉舌计划——（六到九章）.doc]([皮物]_喉舌�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件主要内容为《喉舌计划》的第六章至第九章，描述了一名女子（玄子）在王威手下的遭遇，涉及性暴力、强迫和变身的情节。故事开头，王威利用权力和暴力对待玄子，逐步展现出一种欲望驱动的兽性行为。随着情节的发展，玄子被描绘成一名无助的少女，在被绑架和侵犯的过程中感受到复杂的情绪，这体现了对权力与性别权利的深刻探讨。此外，后续发展中，王威与几名同伴之间的阴谋交织也表现出了更为复杂的性与权力的关系，突显出社会结构中的背叛与操控，令人不安的氛围贯穿始终。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_喉舌计划——（六到九章）.doc]([皮物]_喉舌�
 | Size            | 84992 bytes                           |
 | MD5             | f5f48ee0f638856db496546f3373c434                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 强暴, 地下组织, 阴谋计划, 权力游戏, 自我认知, 性别角色, 情感冲突, 社会背叛, 心理斗争, 变身, 黑暗幻想, NTR, 强制性行为, 变嫁, 受害者心理, 伦理困境, 都市奇幻, 男性视角, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

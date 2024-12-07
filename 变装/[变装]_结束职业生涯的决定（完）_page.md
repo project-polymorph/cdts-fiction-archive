@@ -7,7 +7,7 @@ TXT 下载: [[变装]_结束职业生涯的决定（完）.docx]([变装]_结束
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于跨性别和变装主题的小说，主要讲述了主人公刘易斯（化名丽莎）的心理变化和屈辱经历。故事开篇描绘了门铃响起时刘易斯的紧张情绪，以及他在高跟鞋中走动的种种不安。随着剧情的发展，刘易斯的身份被人的目光审视，逐渐接受了作为家中的女仆身份，面对丈夫萨拉和她的客人迪克之间复杂且带有性暗示的关系。文中细腻地描绘了刘易斯被迫接受的身份转变与内心的冲突，同时融入了强烈的性别角色倒错和羞辱的情节。小说展示了性别认同、自我探索等主题，并通过对话和心理描写反映了主人公的挣扎与屈从。文中涉及的内容较为成人向，带有明显的性暗示和伦理controversies。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_结束职业生涯的决定（完）.docx]([变装]_结束
 | Size            | 79799 bytes                           |
 | MD5             | 6ccf5c02555b0a571363fe89da6ec107                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变装, 伪娘, 羞辱, 臆想, 强奸, 混淆性别, 家庭, 女仆, 情感冲突, 自我认同, 醋意, 性别角色, 奴役, 成年人内容, 强制性行为, 痛苦的选择, 自我放逐                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

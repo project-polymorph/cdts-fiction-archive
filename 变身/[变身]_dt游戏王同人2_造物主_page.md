@@ -7,7 +7,7 @@ TXT 下载: [[变身]_dt游戏王同人2_造物主.doc]([变身]_dt游戏王同�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部与变身与跨性别相关的小说，内容围绕着一位名叫秦霜越的青年的奇妙经历展开。故事开篇描写了他与一位身穿不合身男士衣物的白色少女的相遇，随着时间的推移，他们建立了深厚的情感联系。秦霜越虽然失去了过去的记忆，但他仍然是一位游戏王纸牌游戏的高手，追求触及一个包含无穷生命的世界。他埋头于案例创作，尽管面临着失落与孤独，但他的内心渴望通过自己的创作去改变世界，甚至希望能与创造的角色互动。在与名为诺姆维斯柯的女神的对话中，揭示了他内心深处的梦想与对即将展开的冒险的期待。他面临着创作与现实的交错，将要经历设定的惩罚与成长。故事以深刻的角色心理描写与奇幻的设定为特色，探索了梦境与现实之间的界限，以及跨越这两个世界需要承担的责任与痛苦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_dt游戏王同人2_造物主.doc]([变身]_dt游戏王同�
 | Size            | 33792 bytes                           |
 | MD5             | 422ea09a3fefbb4d270855b1d87977aa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 游戏, 纸牌游戏, 幻想, 角色互动, 自我探索, 命运, 创作梦想, 女神参与, 设定集, 文学作品, 青春, 奇幻冒险, 心理成长, 人物塑造, 次元裂缝, 神秘因素, 孤独                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

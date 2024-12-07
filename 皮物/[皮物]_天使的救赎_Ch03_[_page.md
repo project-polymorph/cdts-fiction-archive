@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch03_[.docx]([皮物]_天使的救赎_Ch03
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为标题为《天使的救赎》的小说第三章，内容描写了一位名叫诺瑞斯的男性角色在与女性角色艾米的对话中，探讨面临的选择以及其背后的复杂情感。诺瑞斯与艾米回到公寓后，进行了关于自我认知与选择的深入讨论。在这段情节中，诺瑞斯面临成为总统与追求爱情的选择，艾米则用一种神秘的方式展示能让人伪装成他人的超自然道具，进一步揭示了性别与身份的变化。艾米逐步揭开了她所使用道具的秘密，该道具与角色的身体和外貌改变密切相关，使得诺瑞斯的认知产生了巨大的冲击。作品融入了虚构的元素以及对人性、选择和性别认同的深刻探讨，为读者提供了引人入胜的阅读体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_天使的救赎_Ch03_[.docx]([皮物]_天使的救赎_Ch03
 | Size            | 26241 bytes                           |
 | MD5             | 7b4134ec41641f5935f785ad7c7d0b51                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 虚拟现实, 道具变身, 暗黑奇幻, 跨性别, 男主角, 角色扮演, 伪装, 艾米, 诺瑞斯, 选择的困境, 爱情与权力, 幻想, 惊悚, 独特道具, 科幻, 次元穿越, 心理斗争, 身体变迁, 超自然能力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

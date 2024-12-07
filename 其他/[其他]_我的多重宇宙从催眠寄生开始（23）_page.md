@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我的多重宇宙从催眠寄生开始（23）.docx]([其
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是《我的多重宇宙从催眠寄生开始》的第23章，故事围绕一位金发年轻女孩的奇幻经历展开。故事的开端，女孩在孤岛的密林中醒来，感到自己身体的变化，她惊奇地发现自己已经被转变为女性状态，同时意识到她在其他宇宙中的‘自己’通过魂穿的方式进入了她的身体。文中详细描绘了她对新身体的探索与感知，表现了她对自身变化的不可思议与心理冲突；同时剧情中也包含了关于权力与身份的反思，例如她考虑到自己在另一个宇宙的身份，以及如何在拥有神奇能力的情况下适应新的性别角色。整体故事带有一定的科幻色彩，涉及到性别认同、自我认知与性别角色的复杂关系，伴随着一定程度的成人向内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我的多重宇宙从催眠寄生开始（23）.docx]([其
 | Size            | 38036 bytes                           |
 | MD5             | 3c2c913851ab74d2fca3b37510b3cf61                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 魂穿, 幻想小说, 两性, 女性自我探索, 性别认同, 成人向, 虚拟宇宙, 自我意识, 性别转换, 心路历程, 奇幻冒险, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

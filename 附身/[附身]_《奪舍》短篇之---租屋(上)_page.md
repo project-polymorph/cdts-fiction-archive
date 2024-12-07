@@ -7,7 +7,9 @@ TXT 下载: [[附身]_《奪舍》短篇之---租屋(上).doc]([附身]_《奪�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是短篇小说《奪舍》中的第一部分，讲述了一位年轻女性小如在寻找租屋的过程中，经历了一系列与房东阿飘姐和房客小呂之间复杂的互动。故事开头小如来到一栋三层的独栋大楼前，通过同事的介绍来查看房间，描述了她与房东的第一次见面以及房东的背景。阿飘姐向小如介绍房间的租赁情况，并特别提到不要上三楼，暗示着三楼隐藏的秘密。
+
+随着故事的发展，小如搬入新房后被周围的怪异事情吸引，她察觉到房东阿飘姐与房客小呂之间的不寻常关系。故事中夹杂着对小如内心的独白，她对小呂与阿飘姐之间的关系感到好奇和疑惑。叙述的风格轻松幽默，但也暗藏了性别角色和私人身份的复杂探讨，是跨性别和角色变换主题的一部分。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_《奪舍》短篇之---租屋(上).doc]([附身]_《奪�
 | Size            | 30208 bytes                           |
 | MD5             | 853664d7f6ceed754be23d381a5b1389                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 租房, 奇幻, 爱情, 性别认同, 自我探索, 青春, 都市生活, 性转, 女主角, 房东, 房客, 复杂人际关系, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

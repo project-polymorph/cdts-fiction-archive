@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_欺诈行为2.doc]([皮物]_欺诈行为2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部伪娘 TS 变身与跨性别相关小说，主要讲述了角色斯内普伪装成他的姐姐雪莉娜后，所发生的一系列情节。故事开篇描述了斯内普在周末中继续保持伪装，并住在雪莉娜的房间。在与里奥的互动中，里奥意识到两人之间有了微妙的变化，尤其是在雪莉娜的举动上，虽然表面上没有变化，但内心的挣扎与情感的纠葛逐渐显露。随着情节的发展，斯内普与里奥之间的关系逐渐加深，斯内普在面对外界的评价和内心的认同时，展现了复杂的情感过程。此外，同伴之间的对话细致描绘了他们的日常生活与内心世界，涉及到社交、支持、认同等多重主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_欺诈行为2.doc]([皮物]_欺诈行为2.doc)
 | Size            | 46080 bytes                           |
 | MD5             | d94ce25e91d69fff76e6bbd150f31d85                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 变身, 自我探索, 动漫, 青春, 跨性别, 角色扮演, 心理斗争, 情感纠葛, 家庭关系, 二次元, 校园生活, 亲情, 友情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

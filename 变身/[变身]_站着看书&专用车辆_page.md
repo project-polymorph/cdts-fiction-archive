@@ -7,7 +7,7 @@ TXT 下载: [[变身]_站着看书&专用车辆.doc]([变身]_站着看书&专�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含两个短篇小说故事，分别是《站着看书》和《专用车辆》。第一个故事围绕一个大学生崎野高志，他习惯在书店偷翻书籍，然而他的身体在某次阅读过程中逐渐发生了变化，由男性变为可爱的少女。故事情节展示了性别转换的渐进过程以及角色的内心冲突，同时也反映了书店中不同顾客之间的微妙互动及社会观察。第二个故事描述了一位名叫田波的社会新人，他在工作和日常生活中经历的压力和疲惫，与世岛局长的对话为其工作带来一丝轻松感。通过这两个故事，作者探讨了性别认同和社会压力等主题，暗示了角色在身份和自我认知方面的挣扎与变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_站着看书&专用车辆.doc]([变身]_站着看书&专�
 | Size            | 45568 bytes                           |
 | MD5             | f882ac283c00be8cf1c807c517740c54                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 山田天授、高居空                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 自我探索, 大学生活, 社会压力, 变身, 性别转换, 心理变化, 年轻人的烦恼, 剧情发展, 轻小说, 日常生活, 青春成长, 书店文化, 奇幻, 女性化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[附身]_【诸天：从成为天魔开始】（1-2）.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《诸天：从成为天魔开始》是一部以现代穿越与奇幻为主题的小说，描绘了一名年轻道士与天魔之间的斗争。故事开始于一座偏僻的道观，主人公在与天魔的斗争中，坚定地意识到自己不能任由天魔危害人间。经过一番交锋，主人公最终成功将天魔困入自己的身体中，展现出浓厚的奇幻色彩和自我牺牲的英雄情怀。
+
+在经历天魔的侵扰与个人内心的挣扎后，主人公意识到自己已穿越到一个全新的世界，并体验到了天魔饥饿与力量的交融。小说不仅探讨了性别的界限与认同，也涉及到道教的符咒文化与其在现代社会中的运用。通过一系列与人交流的情节，主人公逐渐了解到怎么利用自己的能力来改变周围人的欲望，反映出复杂的人性和社会关系。此作品包含了丰富的想象力和灵异色彩，同时也不断探索角色的自我认知与成长，适合喜欢奇幻与穿越题材的读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_【诸天：从成为天魔开始】（1-2）.doc]([附身
 | Size            | 50688 bytes                           |
 | MD5             | 5106029ab4569ee4e88ec50081bb000e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 穿越, 天魔, 道教, 自我认知, 奇幻, 冒险, 欲望, 英雄, 年轻道士, 符咒文化, 现代奇幻, 黑暗幻想, 心理斗争, 灵魂空间, 系统, 道门复兴, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

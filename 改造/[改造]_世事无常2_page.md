@@ -7,7 +7,7 @@ TXT 下载: [[改造]_世事无常2.doc]([改造]_世事无常2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为伪娘 TS 变身与跨性别相关小说的一部分，主要讲述了主人公温蒂在修炼化妆技巧的过程中的经历和心路历程。故事开始于温蒂与化妆师安娜的初次见面，安娜介绍了各种护肤及化妆产品的使用方法，强调了后天保养对提升女孩美丽的重要性。在随后的几天中，温蒂在安娜的指导下逐渐掌握了化妆技巧，并学习了如何走路、站姿和坐姿等女性礼仪。安娜的细致教导让温蒂逐渐适应了女性的生活，并开始享受这种充实而安逸的生活，从最初的抵触演变为现在的乐在其中。故事最后，温蒂在化妆与女性身份的认同中找到了一种奇妙的平衡，展现了性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_世事无常2.doc]([改造]_世事无常2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 73728 bytes                           |
 | MD5             | d8a8c71daccda1c66ea3c26b27dd7515                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 化妆技巧, 自我探索, 性别认同, 日常妆容, 身体转变, 女性礼仪, 恋爱关系, 双性恋, 变装, 化妆师                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

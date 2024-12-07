@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(十一）.doc]([改造]_[小晰]_BS_APP_(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《小晰》系列的第十一章，主要讲述了男主角宇在梦醒时分对自己身份的探索和对于女友小晰的思念。从一开始的惊醒至对情感和身份的困惑，宇通过一系列与小晰和同学的互动，展现出他内心深处的矛盾和对情感的渴望。故事中描绘了校园生活与角色间的感情发展，细腻地刻画了角色们的心理变化，尤其是男主角对小晰的深切关情和对其他角色的复杂情感。同时，该章节还涉及到两个角色对彼此的依赖和彼此理解，使情节更加深入。整体故事情节紧凑，角色塑造鲜明，适合对跨性别或性转主题感兴趣的读者，且可能涉及一些限制级内容，需读者自行判断是否适合阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(十一）.doc]([改造]_[小晰]_BS_APP_(
 | Size            | 61440 bytes                           |
 | MD5             | 586e6557f1acba680571a20ecb7a8589                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 校园爱情, 情感探索, 跨性别, 伪娘, 二次元, 女友, 自我认同, 强烈情感, 校园生活, 梦境, 心理变化, 情感纠葛, 甜蜜关系, 青涩爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

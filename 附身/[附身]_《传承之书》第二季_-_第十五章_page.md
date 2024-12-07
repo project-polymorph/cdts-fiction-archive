@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第十五章.docx]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《传承之书》第二季第十五章由作者紫依创作，故事围绕多个角色在一系列复杂情节中的互动展开。角色古城与容斋讨论了POE量产的进展以及相关的配方优化，体现了他们在工作中对技术进步的追求与困扰。此章节中暗示了对药物的依赖及提供能力提升的风险，与催眠及性侵犯的暗示情节交织；是角色性别、人格及自我认同探索的重要转折点。马洪是一个拥有预知未来能力的角色，但他逐渐意识到自己另一个人格的存在，且该人格的觉醒使他在控制与失控之间挣扎。情节中穿插对催眠及控制他人的潜在性暗示，并描绘了角色之间的复杂关系和情感纠葛。随着情节推进，角色的欲望与安全感交织，展现了对权力、控制及自我认知深刻的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第十五章.docx]([附身]_
 | Size            | 22291 bytes                           |
 | MD5             | 8d779a2e87f7a4115f14ff76f7d1df72                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 催眠, 药物, 自我探索, 人格转变, 跨性别, 权力游戏, 复杂关系, 现代都市, 科技幻想, 情欲, 异能, 强奸, 调教, 淫荡, 逆后宫, 百合, 变嫁, 女体化, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

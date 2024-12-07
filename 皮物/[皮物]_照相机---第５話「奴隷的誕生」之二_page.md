@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_照相机---第５話「奴隷的誕生」之二.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个名为‘照相机’的伪娘神秘变身故事的第五章，标题为‘奴隶的诞生’。故事描绘了一位名为纱枝的角色深深迷恋于隆弘，在她充满渴望的目光中，逐步展现出强烈的情感和身体上的亲密互动。纱枝用几近嘶哑的声音在隆弘耳边低语，让隆弘经历第一次由对方主动出击的感受。文中充满了对接吻与亲密行为的细致描写，表现出角色们之间复杂的心理状态和生理感受。纱枝的接吻不仅让隆弘感受到愉悦，还逐渐引发了他内心深处波涛汹涌的欲望，最终导致了激烈的亲密行为，文中对这一过程的描写极具挑逗性和淫荡色彩。此文件内容充满了性暗示与色情场景，明确涉及性别转换后角色的生理反应与情感冲突，是对性转与跨性别题材的一种极端表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_照相机---第５話「奴隷的誕生」之二.docx]([�
 | Size            | 16950 bytes                           |
 | MD5             | d88554fa34dd9b85d8aee8b1ef55a657                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 强吻, 性爱, 色情, 欲望, 自我认知, 情感纠葛, 亲密关系, 春药, 心理冲突, 激烈快感, 身体感受, 性别认同, 人际关系, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我奇怪的人生篇章_1，2.docx]([变身]_我奇怪的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《我奇怪的人生篇章》是一部关于性别认同与自我探索的小说，作者迈克·托德以第一人称视角叙述了主角CJ斯奈德的成长故事。故事开始于CJ的童年，他在新罕布什尔州的一个小镇生活，家庭背景和历史被细致描绘，展现了悠久的家族传统和生活日常。CJ与邻居女孩萨曼莎的友谊是故事的主线之一，而他在成长过程中对于性别角色的认识和自我认同的探讨贯穿始终。具体来说，CJ在与萨曼莎一起玩耍时逐渐接触到了玩洋娃娃等传统女性活动，但随着学校和社会的规则，他不得不适应被期待的男性角色，甚至开始怀疑自己对玩耍的兴趣和对自己性别的认同。小说中包含了许多关于家庭、友谊和性别认同的细腻描写，也触及了性别差异和社会期待对个人成长的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_我奇怪的人生篇章_1，2.docx]([变身]_我奇怪的
 | Size            | 29898 bytes                           |
 | MD5             | 94fc27c073974474ab73fa735ceca099                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 迈克·托德                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 成长小说, 性转, 家庭历史, 朋友关系, 男性角色, 女性形象, 传统期望, 童年经历, 跨性别主题, 二次元文化, 社交压力, 萨曼莎的派对, 社区生活, 生活回忆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

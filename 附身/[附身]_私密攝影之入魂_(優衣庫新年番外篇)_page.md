@@ -7,7 +7,7 @@ TXT 下载: [[附身]_私密攝影之入魂_(優衣庫新年番外篇).doc]([附
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一篇伪娘与跨性别相关的小说，讲述了主角和朋友通过入魂（灵魂转移到他人身体）体验不同性别角色的冒险故事。故事中，主角通过入魂不断探索女性身体的感觉，与朋友小旺经历了尴尬与兴奋的情节，比如进入不同的身体进行游戏、消费和性行为。故事细节涉及强烈的性暗示，从主角与朋友进行女同角色的体验中，表现了对身体转换的探索与满足。文本中同时描绘了对女性身体的细致描写，以及角色间的情感互动。整体而言，该作品围绕性别认同、自我探索和情色体验展开，包含大量露骨的色情内容并涉及一些复杂的性和心理主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_私密攝影之入魂_(優衣庫新年番外篇).doc]([附
 | Size            | 51200 bytes                           |
 | MD5             | d09e158e4d903531d8f6016e8775c262                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 入魂, 女同, 变身, 性别认同, 情感探索, 身体转换, 禁忌恋, 性冲突, 恋物癖, 奇幻冒险, 幻想类型, 二次元, 刺激体验, 探索自我                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

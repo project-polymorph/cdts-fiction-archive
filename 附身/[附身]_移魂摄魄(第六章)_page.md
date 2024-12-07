@@ -7,7 +7,7 @@ TXT 下载: [[附身]_移魂摄魄(第六章).doc]([附身]_移魂摄魄(第六�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《移魂摄魄（第六章）》，描写了一位修炼者在太平间进行灵魂修炼的情节。环境阴森冷清，作者通过生动的描述展现了冷酷的太平间、腐烂的尸体以及阴暗的灵魂能量吸收过程。故事的主角在空荡的太平间里，忍受着令人作呕的腐臭，吸收尸体上的灵魂能量以增强自身的修为，并且通过变身术和伪装术夺取两具尸体的肉身，实现角色的性别转换与身体重塑。既有对超自然修炼的刻画，也暗示了角色性别和身份认同的复杂性。整个章节围绕生与死、欲望与身份探索展开，反映了人物的内心斗争和突破。文中提到的情节与语言都有明确的限制级倾向，融入了修炼、变身、尸体、性别转换等多重主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_移魂摄魄(第六章).doc]([附身]_移魂摄魄(第六�
 | Size            | 32256 bytes                           |
 | MD5             | 488fe71718238470c73ee7f01a055106                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 灵魂修炼, 太平间, 超自然, 尸体能量, 自我认知, 性别认同, 禁忌主题, 冷酷环境, 奇幻, 阴暗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_商场秘闻：新形象（上）.doc]([变身]_商场秘�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《商场秘闻：新形象（上）》，属于伪娘与变身类型的小说，主要讲述了一名名叫亨特的男性角色在商场中经历的奇妙变化。在初始情节中，亨特感到闷闷不乐，并计划在商场里剪发，他在发廊遇到了一位新的发型师阿丽莎。阿丽莎对亨特的头发进行了一系列改变，亨特在毫无察觉中经历了头发的迅速生长，对新形象的反应充满了惊讶与不安。随着情节的发展，亨特的手和其他身体部位也在不知不觉中发生了变化，逐渐向女性特点靠拢。这种奇妙的变化让亨特感到错愕，同时也对自己全新的形象充满了复杂的情感。文中涉及了性别认同、自我认知与外貌变化等主题，充满了对于身份与美的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_商场秘闻：新形象（上）.doc]([变身]_商场秘�
 | Size            | 54784 bytes                           |
 | MD5             | ba5827029a3238bdb9bfc8ac8c9c1fd6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 自我认知, 身份认同, 美容院, 商场, 女性化, 角色变化, 奇幻, 现代都市, 二次元题材, 心理变化, 情感探索, 头发变化, 性别冲突, 奇妙经历, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

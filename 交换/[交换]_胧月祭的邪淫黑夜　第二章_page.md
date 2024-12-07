@@ -7,7 +7,7 @@ TXT 下载: [[交换]_胧月祭的邪淫黑夜　第二章.docx]([交换]_胧月
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《胧月祭的邪淫黑夜（第二章）》是由作者RE创作的一部伪娘与跨性别相关的小说作品。故事围绕着几个角色在一个名为矮神殿堂的场所进行的神圣仪式展开。羁绊于各自的身份和欲望，角色们呈现出复杂的情感交织，尤其突出的是男性祭司森谷信二的两面性，他在仪式中的转变和言语让其他角色感到震惊与不安。故事中，水川美咲和相泽萌衣的互动展现了对即将发生的神秘仪式的恐惧与不安，尤其是萌衣作为巫女面临的身份转换与性别交换的恐惧。此外，小说中包含有强烈的色情暗示与性别认同的冲突，揭示了角色们在群体中被观看的情境和内心挣扎，故事逐渐揭开了他们欲望和恐惧的另一面。整体叙事具有刺激性和挑战性，能够引发读者对性别认同及角色自我探索的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_胧月祭的邪淫黑夜　第二章.docx]([交换]_胧月
 | Size            | 40561 bytes                           |
 | MD5             | e671638259f3b73410d7f94cfdd96d19                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RE                               |
+| Region          | 未知                               |
+| Date            | 2018-07-27                                 |
+| Tags            | 伪娘, 变身, 跨性别, 强奸, 年龄差, 调教, 逆后宫, 淫荡, 百合, 女体化, 女仆, 奇幻, 游戏, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

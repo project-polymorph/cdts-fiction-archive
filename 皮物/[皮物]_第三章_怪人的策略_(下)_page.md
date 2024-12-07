@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_第三章_怪人的策略_(下).doc]([皮物]_第三章_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文为伪娘 TS 变身与跨性别相关小说的第三章，讲述了角色怪人以礼子的身份进入她的家中，并与角色礼奈展开了一场充满悬念的对话和博弈。在这一章节中，怪人在与礼奈的互动中展现了紧张与幽默并存的场景，礼奈一开始因为看到怪人假扮的姐姐而感到欣喜，但随即在发现其真实身份后变得愤怒。这一变化引发了一连串的冲突与谈判，怪人试图通过举起装有礼子亲手做的料理的保温锅来阻止礼奈的攻击，同时提出要与她进行协商和谈。在电话干预后，气氛得以稍微缓和，怪人尝试通过掷骰子的方式来决定自己的命运，最终却因运气不佳而面临被礼奈要求偿还欠条的结局，反映出他内心的挣扎和对自己境遇的无奈。整章内容融合了幻想与现实元素，探讨了角色在性别身份认同及情感上的复杂情绪。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_第三章_怪人的策略_(下).doc]([皮物]_第三章_�
 | Size            | 38912 bytes                           |
 | MD5             | 3f8fa71c1d0d3b83a28f63a4922c521a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 强迫, 变身, 幻想, 心理战, 代入感, 家庭关系, 身份认同, 幽默, 情感挣扎, 性别转换, 轻松搞笑, 悬念, 职场挑战, 爱与恨                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

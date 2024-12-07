@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《勇者成为魔王2_精灵的部落》.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《勇者成为魔王2_精灵的部落》，为一篇围绕奇幻冒险题材展开的小说。故事讲述了勇者迪凡及其同伴们在诺艾尔森林探索的经历，这里一度是精灵族的栖息地，但近期却神秘消失。而勇者小队因女王的命令来到此地侦查异常，过程中他们发现了白骨尸体、隐秘的魔物以及伪装成受伤旅人的精灵少女。在与精灵少女的冲突中，他们不仅要面对强大的敌人，还要解开森林中的秘密。文中充满了对角色内心挣扎的描写，尤其是迪凡对自己的力量感到自卑，决心提升自己以解救同伴的情节，深刻探讨了勇者的责任与使命感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《勇者成为魔王2_精灵的部落》.docx]([皮物]_�
 | Size            | 196384 bytes                           |
 | MD5             | e17a9319a5457d41e1e80b33d67a78ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 冒险, 勇者, 精灵族, 性别转换, 变身, 自我认知, 魔法, 生态互动, 女性角色, 魔物战斗, 森林探险, 情感探索, 角色成长, 食人蜈蚣, 幽闭恐惧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

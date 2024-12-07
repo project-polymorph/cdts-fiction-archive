@@ -7,7 +7,7 @@ TXT 下载: [[变装]_花将军外传（9-10）---------拟更名《四美图》
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《花将军外传（9-10）》是一篇描绘二次元性别转换与伪娘情节的小说，故事围绕角色花旗展开。花旗原为女儿身，但在故事中以女将形象出现，承载了复杂的情感与战斗情节。在情节中，花旗因家庭原因被迫嫁入他家，期间面对家族的支持与外部威胁，以女将身份参与了战斗。在多个角色之间的互动中，展现了权力、性别认同以及人际关系的深刻冲突。文本中包含了强烈的性暗示与情色描写，诸如花旗与胡鹏之间的亲密关系和令人遐想的场景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_花将军外传（9-10）---------拟更名《四美图》
 | Size            | 26754 bytes                           |
 | MD5             | e6f891b95ffb2f9704af36c8debd4c1b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性别认同, 强奸, 战争, 纯爱, 年龄差, 调教, 多元性别, 女性视角, 跨性别, 二次元, 奇幻, 淫荡, 强势角色, 戏剧冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

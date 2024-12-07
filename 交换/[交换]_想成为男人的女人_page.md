@@ -7,7 +7,7 @@ TXT 下载: [[交换]_想成为男人的女人.docx]([交换]_想成为男人的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个围绕游泳和角色性别体验展开的小说，讲述了游泳教师赤河紗緒与学生吉沢栄樹之间的互动。作品描绘了男主角荣树因追求更快的游泳成绩，向教师请教，同时也展现了他在换泳衣时的羞涩与兴奋之情。故事中，赤河紗緒提议荣树尝试穿上她的竞技泳衣，以求提升游泳成绩，在这个过程中，荣树经历了性别认同的挣扎与探索。文中提到的对话展现了角色之间的亲密关系，以及荣树在穿着女性泳衣时心中产生的复杂情感，流露出对性别角色的探索与自我认知的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_想成为男人的女人.docx]([交换]_想成为男人的
 | Size            | 26961 bytes                           |
 | MD5             | f459d99525bf7279f1dd240a5a59d48d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 游泳, 性别转换, 自我认知, 教师与学生, 羞涩体验, 竞技泳衣, 性别认同, 青春校园, 性别探索, 心灵挣扎, 男性角色崛起, 羞耻与兴奋, 心理变化, 如梦似幻, 女性视角, 情感纠葛, 性别角色, 变性, 青少年成长故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

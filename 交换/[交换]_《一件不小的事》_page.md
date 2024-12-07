@@ -7,7 +7,7 @@ TXT 下载: [[交换]_《一件不小的事》.doc]([交换]_《一件不小的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《一件不小的事》，主要讲述了一名名为阳明的男学生，在一次魔法仪式后，经历了身体的交换与性别的转换。阳明从一个普通成绩和生活都不理想的学生，变成了与他同班的美少女李子柔的身体。在故事的开头，阳明对于自己的身份和生活感到厌倦，然而在变成李子柔后，他走入了她的生活与内心，感受到了她的美丽与智慧，同时也对她产生了嫉妒与占有欲。在享受新身份带来的快感的同时，阳明陷入了道德的挣扎，尤其是在他意识到杀掉李子柔以保住自己身份的可能性后。文中包含了许多对阳明心理变化的细腻描写，展现了他在性别转换过程中复杂的情绪，以及对身份的认同与探索。故事涉及了许多敏感的主题，例如性别认同、自我探索、嫉妒、占有欲以及道德困境等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_《一件不小的事》.doc]([交换]_《一件不小的�
 | Size            | 51712 bytes                           |
 | MD5             | 459a024adde1b90cc4fe92e3b2134ae6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身体交换, 自我探索, 阴暗心理, 青春校园, 魔法, 禁忌恋, 强烈的占有欲, 人生选择, 心理冲突, 伪娘, 男性视角, 变嫁, 伦理道德, 校园生活, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

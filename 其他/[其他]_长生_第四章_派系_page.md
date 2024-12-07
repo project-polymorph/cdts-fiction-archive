@@ -7,7 +7,7 @@ TXT 下载: [[其他]_长生_第四章_派系.docx]([其他]_长生_第四章_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《长生》第四章，名为《派系》，讲述了主要角色王承及其女儿王月儿在家族老宅前祭拜先祖的故事。在清明节的小雨中，王承对长生计划的威胁发誓要摧毁，同时表现出对已故亲人的追忆及愤怒情绪。故事中，神秘的黑衣人出现，揭示了自己与王承父子之间复杂的关系，并讲述了过去三十年前的事件，包括长生计划及其背后的阴谋。黑衣人提及通过基因学的变化战胜长生的能力，使得故事增加了科幻与悬疑的元素。情节涉及对亲情、仇恨和人性的探讨，黑衣人通过变身技巧展示了身体与身份的复杂关系，增添了故事深度与思想性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_长生_第四章_派系.docx]([其他]_长生_第四章_�
 | Size            | 20420 bytes                           |
 | MD5             | 2e27860bc08783b7d4154ca7446897e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | worker                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-04-18                                 |
+| Tags            | 性转小说, 伪娘, 变身, 跨性别, 家族关系, 阴谋, 恐怖, 复仇, 基因学, 科幻, 情感纠葛, 父女情, 黑暗幻想, 身份认同, 人性探讨, 清明节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

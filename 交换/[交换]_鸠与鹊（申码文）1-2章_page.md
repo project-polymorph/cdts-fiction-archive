@@ -7,7 +7,7 @@ TXT 下载: [[交换]_鸠与鹊（申码文）1-2章.doc]([交换]_鸠与鹊（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《鸠与鹊》（申码文）的前两章，主要讲述了两个男生的故事。文件开头描绘了一场凶杀案的发生，随即转入两个男生的对话，背景设定在巡天大学的男生宿舍内。赵长风向他的室友刘篁成借钱，但被拒绝后，赵长风表现得十分急迫，并提及一个秘密。之后，故事发展到他们前往一个废弃工厂的情节，赵长风试图向刘篁成揭示某个重大秘密，并逐渐引导刘篁成进入一个隐藏的实验室，那里有一个虚弱的少年，似乎与他们的命运息息相关。整个故事涉及神秘的实验、友情的考验以及潜在的危机，透露出紧张的氛围和复杂的人物关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_鸠与鹊（申码文）1-2章.doc]([交换]_鸠与鹊（�
 | Size            | 50176 bytes                           |
 | MD5             | f58f23ec26b9b64386e7a7510081cccc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 校园奇幻, 秘密实验, 友情, 成熟女性, 青春, 自我探索, 性别认同, 悬疑, 心理剖析, 魔法元素, 青春期烦恼, 生活斗争, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

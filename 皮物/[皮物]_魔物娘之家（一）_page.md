@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_魔物娘之家（一）.doc]([皮物]_魔物娘之家（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一名失业男子零波的绝望生活与变身经历。他年近30岁，在高度自动化的社会中失去了工作。面对沉重的经济压力，他在绝望中找到了一个看似高薪的素人工作，接受了一系列极端的身体改造，最终变身为魔物娘的一员。他的故事描绘了在未来社会的残酷现实，探讨了身份与性别的关系，以及人在极端佣奴制下的境遇与内心冲突。
+
+文件详细描述了零波如何在经历全身麻醉和身体改造后，与仿生皮肤的蜘蛛娘角色融合，展现了未来科技对人类身体的影响。其间涉及到的改造过程残酷而真实，映衬出社会对于人的异化和对个体尊严的剥夺。零波在被迫接下工作后，面临的不仅是生理层面的转变，更是身份与自我认知的巨大挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_魔物娘之家（一）.doc]([皮物]_魔物娘之家（�
 | Size            | 1139200 bytes                           |
 | MD5             | fbbc85d94ff0f945b584f023a3b84293                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 变嫁, 跨性别, 伪娘, 强制劳动, 身体改造, 魔物娘, 绝望, 自我探索, 社会批判, 身份认同, 未来科技, 仿生皮肤, 奇幻, 色情产业                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

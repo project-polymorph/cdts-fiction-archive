@@ -7,7 +7,7 @@ TXT 下载: [[其他]_黑暗英雄傳說_第二卷.docx]([其他]_黑暗英雄�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《黑暗英雄传说 第二卷 遁入森林》是由作者FP创作的一部伪娘和变身题材的小说。在故事中，主人公卢卡库经过一番波折，急速变回了他的原本形态，逃避追捕以寻找自我生存的希望。故事开篇描绘了他在黑暗的森林中的孤独旅程，直面危险的精灵队伍，并在潜行过程中回溯了他作为魔族的经历与掠夺下来的魔器的使用。随着故事的发展，卡萝，作为树精灵一族的公主，准备进行重要的加冕仪式，在她的母亲病重的背景下，体现了种族与责任交织的复杂关系。卡萝的冒险与卢卡库的逃亡相互交织，增添了情节的悬念与深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_黑暗英雄傳說_第二卷.docx]([其他]_黑暗英雄�
 | Size            | 34568 bytes                           |
 | MD5             | 46260db1537e0fa620e734c6b7d426db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | FP                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 黑暗英雄传说, 伪娘, 变身, 树精灵, 孤独旅者, 魔族, 加冕仪式, 自我探索, 神树, 森林, 冒险, 精灵, 角色转换, 命运, 求生技能, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【DVW系列】四篇短篇小说.doc]([变装]_【DVW系�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了四篇短篇小说，均围绕人物性别转换的主题展开，属于伪娘和变身类小说范畴。这些小说描绘了角色在经历性别改变后的心理与生理变化，以及与家人、朋友的关系转变。第一篇《棘手的哥哥和可爱的妹妹》讲述了凯莉和她的哥哥迈克尔之间的故事，迈克尔逐渐受其影响而变得女性化，最终实现了变性梦想，成为了米莉。第二篇《兄弟不再》则聚焦瑞安与他的兄弟们，他们因TY病毒发生性别和年龄的变化，最终接受新身份，成为姐妹。第三篇《取代姐姐的位置》描绘了主人公本被迫代替受伤的姐姐参加芭蕾舞表演，并因此逐渐认同自己的女性身份。最后一篇《杰克和珍妮互换身体》则讲述了两名青少年因意外而交换身体的奇幻经历，以及杰克在女儿身份中产生的新体验。整个系列深入探索了性别认同、自我接受等复杂主题，同时涉及一些成人内容，适合研究者与对性别议题感兴趣的人士阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【DVW系列】四篇短篇小说.doc]([变装]_【DVW系�
 | Size            | 34816 bytes                           |
 | MD5             | 18ccafa612f39fa68903fbdfb64b175a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 变身小说, 青少年, 家庭关系, 自我认同, 青春期, 变性手术, 性别认同, 心理变化, 青春爱情, 社会适应, 身份认同, 奇幻故事, TG变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

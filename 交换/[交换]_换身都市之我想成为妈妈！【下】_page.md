@@ -7,7 +7,7 @@ TXT 下载: [[交换]_换身都市之我想成为妈妈！【下】.docx]([交�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于性转题材的小说，情节围绕角色性别的互换与相关的性体验展开。故事中的女性角色经历了从男性到女性的变换，叙述了她在新身份下的种种体验和心理斗争。文中包含了众多色情及情感描写，例如角色与司机之间的亲密接触，以及对身体变化的感受与社交关系的进一步发展。角色对新身份的认同与享受在整体故事中占据了重要位置，通过一系列互动展示出性别认同、支配与被支配的主题。细节描写直接、生动，但部分内容显得较为敏感和成人化。作品涉及禁忌与伦理冲突，如亲子间的复杂情感表现，因此适合成熟读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_换身都市之我想成为妈妈！【下】.docx]([交�
 | Size            | 22206 bytes                           |
 | MD5             | a51f038a4225937eab47e9d3c566df60                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身小说, 性别认同, 成人内容, 强奸, 淫荡, 调教, 人妻, 情热, 都市幻想, 另类伦理, 心理探讨, 家庭关系, 日常生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

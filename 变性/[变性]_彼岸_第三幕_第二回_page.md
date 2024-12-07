@@ -7,7 +7,7 @@ TXT 下载: [[变性]_彼岸_第三幕_第二回.docx]([变性]_彼岸_第三幕
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《彼岸 第三幕 第二回》，内容围绕着乔治公爵对他女儿丽安娜的健康问题展开。故事设定在上京的医疗设施，公爵在得知女儿丽安娜的情况后，心情复杂，既有忐忑，也有希望。他在医疗室与威廉的对话中，努力掩饰对女儿的担忧，同时眼中流露出无限的父爱。随着情节的发展，公爵发现自己面临着心理上的道德困境与选择，而威廉可能隐藏着更深层的秘密和动机。文本中包含了对角色内心冲突的细致描写，例如公爵冲击自我认知的情感变化、以及他与威廉之间的紧张关系。气氛展现出一种古典的阴郁与隐秘感，突显出角色间情感的深邃与复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_彼岸_第三幕_第二回.docx]([变性]_彼岸_第三幕
 | Size            | 34262 bytes                           |
 | MD5             | 13f0cde3c8256f9f3d603b4be5e013f0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 父女情, 医疗伦理, 内心冲突, 隐秘关系, 心理困境, 古典幻想, 戏剧性, 角色发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

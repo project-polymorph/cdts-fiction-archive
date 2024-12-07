@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【申码文重发】室友的诱惑（小琦和小玉）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇原创的性转题材小说，围绕男主人公李玉的性别转换和自我认同的经历展开。在小说开头，李玉以一个娇小美丽的女生形象出现，实际上他是一个男生。故事描述了李玉在美国私立学校的生活，其中他的室友徐小琦对他关怀备至，李玉渴望融入女性角色，在不断的心理挣扎与惊悸中，逐步接受自己的身份。同时，小说中涉及了对性别认同、自我探索及情感纠葛的细致描绘，带有一定的情色暗示。文中用轻松幽默的笔触描绘了李玉与女性角色间的亲密互动，以及他在探索自己身份过程中的纠结与成长。此外，故事涉及的场景包括校园生活、首次邂逅与朋友间的互动，情节起伏引人入胜，吸引了喜爱这一题材的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【申码文重发】室友的诱惑（小琦和小玉）.
 | Size            | 41558 bytes                           |
 | MD5             | 6068bb6b688323b551d36b04fbee3d27                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园恋情, 自我认同, 探索性别, 友情, 成长, 情感纠葛, 变装, 性别转换, 美籍华人, 二次元, 青春, 强烈情感反应, 非传统性别角色, 文化碰撞                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

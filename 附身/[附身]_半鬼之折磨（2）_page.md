@@ -7,7 +7,7 @@ TXT 下载: [[附身]_半鬼之折磨（2）.doc]([附身]_半鬼之折磨（2�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《半鬼之折磨（2）》围绕李国强，一个经历了诡异事件的警察展开。故事从一桩神秘的自杀案开始，自从罪犯陈福跳崖之后，李国强的生活变得相当不寻常。他能够看到鬼魂穿越身体，看到尸体突然坐起，甚至得知自己的女友怀孕的信息。随着他在杂物科工作的深入，李国强发现这个科所处理的“灵异事件”并不简单。他不仅要处理外在的恶鬼，还要面对亲密关系中的紧张，尤其是在与女友和妹妹的互动中。小说探讨了性别认同、自我探索等心理主题，同时包含一些恐怖和超自然的元素，例如恶鬼附身与生死的界限。情节复杂，混合了悬疑和超自然的恋爱情感，给读者传递了关于人性与灵异世界的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_半鬼之折磨（2）.doc]([附身]_半鬼之折磨（2�
 | Size            | 33792 bytes                           |
 | MD5             | 9919c158bbc81747ca7b801145cccbf9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 超自然, 灵异事件, 恐怖, 爱情, 自我认同, 警察, 恶鬼, 怀孕, 伪娘, 非人化, 都市, 心灵探险, 惊悚, 剧情反转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_申码文《为人妻为人母》应大家要求把前段�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一个名为陈欢的男主角的故事，他来自一个偏远小山村，拥有良好的学业成绩与美好的生活，但因投资失败导致生活陷入困境。失去工作与女友后，他成为一名家庭教师，意外被中年男子老田雇佣，老田的儿子小飞因缺乏母爱而与陈欢产生亲近感。故事发展到陈欢开始扮演小飞的母亲，给这个家带来久违的温暖与色彩。通过细致的心理描写，展现了陈欢在性别认同与角色转换中的挣扎，情感纠葛与身份认同的复杂性。在逐渐深化的关系中，陈欢的女装扮演成为一种自我探索的方式，究竟是纯粹的角色扮演，还是他内心真实需求的体现，充满了情感与心理的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_申码文《为人妻为人母》应大家要求把前段�
 | Size            | 58911 bytes                           |
 | MD5             | ea041a07e534582272516cb49382ab6d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 家庭教师, 情感纠葛, 性别认同, 自我探索, 孤独, 家庭, 温暖, 角色扮演, 跨性别, 男娘, 成长, 爱情, 代入感, 社会生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

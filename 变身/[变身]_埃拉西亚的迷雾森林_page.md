@@ -7,7 +7,7 @@ TXT 下载: [[变身]_埃拉西亚的迷雾森林.doc]([变身]_埃拉西亚的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《埃拉西亚的迷雾森林》是一部描绘冒险与探索的奇幻小说，故事发生在埃拉西亚大陆的迷雾森林，这片森林横跨人族与恶魔的领土，充满了未知和危险。小说以一群冒险者的视角展开，主要角色包括经验丰富的人族战士罗兰德、凯尔、彼得，以及听起来无害却身份特殊的精灵女吟游诗人艾琳。他们的目标是寻找传说中的索尔塔拉宝藏。但在森林中，他们遭遇了各种魔物袭击，面临生死考验。故事的转折点在于他们遇到了强大的祭司凯瑟琳，她用神圣的力量驱散了围攻他们的恶魔。随着冒险的深入，角色之间的情感纠葛和自我探索也逐渐浮出水面，彼得与艾琳之间的爱情在生死时刻愈加坚定。整部作品不仅涉及激烈的战斗场景和魔法对决，还展示了人与人之间的情感纽带与支持，流露出对生命的珍视与对爱情的向往。小说充满了奇幻元素，与冒险主题交织在一起，给读者带来了一场视觉与心灵的奇妙旅程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_埃拉西亚的迷雾森林.doc]([变身]_埃拉西亚的�
 | Size            | 39936 bytes                           |
 | MD5             | c0eedb5ab0f28818b53dd4425b7db959                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 冒险, 奇幻, 埃拉西亚, 迷雾森林, 魔法, 跨种族爱情, 角色成长, 寻找宝藏, 生死考验, 战斗, 精灵, 祭司                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

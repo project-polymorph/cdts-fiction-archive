@@ -7,7 +7,7 @@ TXT 下载: [[附身]_憑依アプリと訪問者（附身应用程序.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于附身应用程序的小说，故事发生在一个平凡的休息日。主角在收到一个名为『附身应用』的通知后，打开了这个应用。应用的功能是让用户能够强制附身于某个人身上，持续24小时。主角出于好奇和兴奋，输入了他崇拜的偶像榎本由紀的名字，随后真的附身到了她的身体里。附身完成后，主角体验到了身为女性的种种感觉，包括对自己身体的探索和对他人目光的敏感。随着情节的发展，故事探讨了性别认同、自我意识和欲望之间的冲突。整体故事包含了一定的色情内容，并涉及自我探索和角色处境的复杂性。从一开始的好奇，到后来的淫荡和优越感，主角对由紀小姐身体的掌控引发了各种情感，尤其是在与自己本体的对比中。本作品旨在通过幻想的故事形式，探讨性别和自我认知的话题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_憑依アプリと訪問者（附身应用程序.docx]([�
 | Size            | 31272 bytes                           |
 | MD5             | 84c51bee383d02a9bb3c07007be045bf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性别认同, 自我探索, 跨性别, 女性身体体验, 偶像, 性欲, 欲望, 禁忌, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_体液_贺岁释疑篇1(尚未补完篇，正在更新中1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一位名叫罗赓的男性角色的变身和跨性别体验的小说。故事开头，罗赓作为一家医疗器械公司的董事长，面临着巨大的工作压力和家庭纠纷。他的妻子林若诗家境优渥，而罗赓则是凭借自己的努力才攀升至这样的职位。文中描绘了罗赓对自身变化的复杂感受，尤其是在与女性角色小英的互动中，故事逐渐引入了性别转换元素。文件中的具体场景包括罗赓在进行身体改造和装扮的细节描写，涉及义乳、化妆品和改造工具的使用，构建了一个对于女性魅力与性别角色的深入探索。通过这些描写，作品挑战了传统性别概念与自我认同的界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_体液_贺岁释疑篇1(尚未补完篇，正在更新中1
 | Size            | 24958 bytes                           |
 | MD5             | 3baeb13956988caf8e8da40ab9b9ab17                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 女性化, 医疗器械, 自我探索, 性别认同, 角色扮演, 化妆艺术, 性别转换, 都市, 奢侈生活, 情感纠葛, 权力与地位, 纯爱, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,11 @@ TXT 下载: [[变身]_小学生.docx]([变身]_小学生.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于变身与性别转换的小说，主要讲述了一个男性角色的身体逐渐变成小学生女孩的故事。故事开头提到角色面临性别转换的困扰，展现了他身体逐渐变小的过程，以及对身体变化的心理斗争和挣扎。随着身体特征的改变，角色的认知和自我意识也发生变化，开始体验到新的感受和性别认同。
+
+文本中提到，角色的班主任认为他需要从小学开始学习，以适应新的身体状况。此外，角色在适应过程中体验到了身体敏感性提升所带来的困惑和羞耻，同时也伴随着一些性暗示的情节。
+
+随着故事的发展，角色在反复练习中终于恢复了部分能力，但最终仍无法完全回到原来的性别，身体不断变化为一位性别为女性的中学生，面对成熟的生理变化感到混乱和无助。整篇文章通过细腻的描述探讨了性别认同和身体变化对个人心理的影响，具有较强的类型特征和性暗示内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变身]_小学生.docx]([变身]_小学生.docx)
 | Size            | 21407 bytes                           |
 | MD5             | fdad555ff49ec5e557a57046c6bd2453                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 性别转换, 伪娘, 性别认同, 自我探索, 二次元, 青少年生活, 敏感体验, 心理变化, 身体变化, 成长故事, 校园生活, 性别困扰, 中学生, 女性成长, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

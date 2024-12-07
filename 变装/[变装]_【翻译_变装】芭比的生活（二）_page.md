@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译_变装】芭比的生活（二）.doc]([变装]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是伪娘 TS 变身与跨性别相关小说《芭比的生活（二）》的翻译作品，详细描绘了主角克里斯在身体性别转变过程中所经历的内心挣扎与变化。随着女性荷尔蒙的注入，克里斯的身体逐渐女性化，外貌上的变化引发了他内心的困惑和痛苦，对自身认同产生了严重的冲突。克里斯在面对这一切的时候感到无助和绝望，并在社交场合和学校生活中经历了尴尬与羞辱。随着剧情的发展，他找到了一个学习伙伴——马丁，开始彼此的友谊，并在此过程中悄然探索自身的性别认同和情感变化。故事中，克里斯需要面对校长的苛责，参加模特拍摄，经历成长与自我接纳的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译_变装】芭比的生活（二）.doc]([变装]_
 | Size            | 65024 bytes                           |
 | MD5             | edba3eb60c04819a38314fa726da230b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 男娘, 变身小说, 性别认同, 青春期, 自我探索, 情感纠葛, 友情, 模特拍摄, 学校生活, 自我接纳, 生活困境, 青少年心理, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

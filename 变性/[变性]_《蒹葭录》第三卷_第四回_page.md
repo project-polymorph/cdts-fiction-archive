@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第三卷_第四回.doc]([变性]_《蒹葭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《蒹葭录》第三卷第四回是一部有关跨性别和变身主题的小说，主要讲述了女主角苏瑶的冒险故事。故事设定在一个充满魔法和异能的奇幻世界。在这一章节中，苏瑶化名苏瑶，前往塞外寻求昆仑玉虚宫的权杖，以解开自己身上的诅咒。在她的旅程中，她遇到了明空师太，并卷入了离魂教的争端。通过一系列紧张的情节，苏瑶展现出她不断自我认知和身份探索的过程。故事中提到的神王与苏离的对抗，以及她在密室中的情节，增添了故事的戏剧性和悬念。同时，该章节描绘了强烈的情感冲突和权力的斗争，涉及权杖、咒语和诅咒等元素，展现了作者对人物复杂心理的深刻理解。整部作品在情节上含有一些限制级内容，处理了关于性别转换和性别认同的敏感话题，体现了多样性和深刻的自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第三卷_第四回.doc]([变性]_《蒹葭
 | Size            | 57856 bytes                           |
 | MD5             | 82df1f2e6e275b9c8f866686f19acb71                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 变身, 魔法, 冒险, 权力斗争, 情感冲突, 离魂教, 自我探索, 古代奇幻, 现实与幻想, 女性强势角色, 隐藏身份, 诅咒, 权杖, 奇幻世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

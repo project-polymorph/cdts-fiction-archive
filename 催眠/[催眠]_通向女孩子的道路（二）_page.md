@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_通向女孩子的道路（二）.doc]([催眠]_通向女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《通向女孩子的道路（二）》的内容，围绕着主人公翔的成长经历展开。翔对未来充满憧憬，立志成为一名顶尖的足球运动员。他每天努力练习，期待着自己能像偶像梅西一样出色。在此过程中，翔获得了一颗新的足球，心情愉悦。他常常回想起他在幼儿园的奋斗历程，努力回忆和数算自己的练习次数。然而，翔也面临着自我认知的挑战，因为他正在经历一段特殊的治疗。这个治疗是一种魔法似的过程，因为他被告知戴上一顶特制的帽子后，能力会得到提升。在这些过程中，翔感受到一种迷迷糊糊的状态，同时伴随着叔叔的低语，他感到安心和舒适。叔叔的话让他不断确认自己的自我认同，逐渐对自己的身份产生了新的理解。故事中涉及性别认同、身份探索以及成长的主题，展现了主人公内心的变化和对自我认知的追求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_通向女孩子的道路（二）.doc]([催眠]_通向女�
 | Size            | 50176 bytes                           |
 | MD5             | 0687c8b8d76a1c9acc644b9274e225de                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 成长故事, 伪娘, 催眠, 魔法少女, 青春, 足球运动, 内心冲突, 神秘治疗, 角色变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

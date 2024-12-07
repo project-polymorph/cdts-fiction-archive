@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【翻译】师父大人说的话——在启程前便结�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部关于少年兰德的奇幻冒险小说，故事背景设定在一个充满魔法与预言的异世界。主角兰德在其13岁生日时被教会的神父告知自己是预言中的勇者，承载着拯救世界的重任。为了训练兰德，师父大人采用了不寻常且逐步严苛的训练方法，包括让兰德穿上带有女性色彩的紧身衣，接受舞蹈训练，渐渐地，兰德的身份和性别认知开始变得模糊，体验到自我探索与成长的过程。故事中包含了兰德对自己勇者身份的怀疑与挣扎，以及与师父大人之间微妙的师徒关系。在训练过程中，兰德的力量逐渐被限制，形成了一种对于女装的羞耻感与内心冲突。整体而言，文中不仅描绘了一个具有变身与性别认同的成长故事，也探讨了角色在面对预言与期待时的心理历程与困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【翻译】师父大人说的话——在启程前便结�
 | Size            | 45568 bytes                           |
 | MD5             | 24c799eb65a3011767eef156e851f2c7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 勇者, 性转, 变身, 自我探索, 师徒关系, 魔法, 少女, 男儿身, 成长故事, 紧身衣, 舞蹈训练, 性别认同, 异世界冒险, 魔法道具, 心理冲突, 预言                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_长梦第一部·上.doc]([皮物]_长梦第一部·上.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《长梦第一部·上》是一部关于跨性别与伪娘主题的小说，主要描绘了一位名叫李然的男子，因父母早逝而转变生活方式，移居美国与他的两位白人朋友尼克和贾森一起进行冒险与创业。在生活的变迁中，李然因一次医疗事故而面临巨额债务，并接到了黑帮的赎金任务。情节交织着性别认同、自我探索、以及强烈的人际关系与情感冲突。故事中穿插了对西莉这位女性角色的细腻描写，其体态与美貌引发了一系列复杂的心理与道德考量。作品涉及了诸多成人内容，包括药物诱惑、隐私侵犯等情节，体现了对边缘人物群体的关注与探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_长梦第一部·上.doc]([皮物]_长梦第一部·上.do
 | Size            | 48128 bytes                           |
 | MD5             | f0da6b7af087aff881092aa80d54906f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 青蓑                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 强奸, 药物, 黑帮, 性别认同, 自我探索, 都市冒险, 角色扮演, 心理斗争, 美容行业, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

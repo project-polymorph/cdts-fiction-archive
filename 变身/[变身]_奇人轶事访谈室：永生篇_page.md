@@ -7,7 +7,7 @@ TXT 下载: [[变身]_奇人轶事访谈室：永生篇.doc]([变身]_奇人轶�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《奇人轶事访谈室：永生篇》的文本记录，内容通过对话的形式呈现。一位名为徐女士的嘉宾分享了自己非凡而坎坷的经历。她透露自己出生于1882年，家庭环境困苦，因病重面临生死存亡。故事的转折点在于一位高龄的地主老祖宗出现在她生命中，她向徐女士提出以她的命格冲喜的奇异请求。徐女士同意后，被施以某种神秘的邪术，令她的灵魂经历了一场奇幻的变身，化身为一个育婴妇女的身份。在这过程中，她逐渐失去原有的男性角色，同时在命运的压迫下，进入了一种复杂的自我认知与性别认同的状态。文本细致描写了她在男性与女性身体之间的挣扎与调整，体现了传统社会中对女性的压迫与命运的无奈。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_奇人轶事访谈室：永生篇.doc]([变身]_奇人轶�
 | Size            | 45568 bytes                           |
 | MD5             | 4bbc73d674c5dcb244a41d092c8d3964                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 变身, 性别认同, 命运纠葛, 奇幻, 跨性别, 历史背景, 灵魂转生, 封建社会, 女性身份, 神秘术法, 成长与适应, 生活百态, 自我探索, 家庭关系, 母性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

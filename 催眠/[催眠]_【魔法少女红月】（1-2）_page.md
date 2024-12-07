@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_【魔法少女红月】（1-2）.doc]([催眠]_【魔法�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了一篇名为《魔法少女红月》的小说，字数约为26577字。故事围绕主角李圣道展开，他是一名普通高中生，意外获得了一个变身护腕，能够变身为拥有强大力量的魔法少女红月。小说设定在一个充满魔法与怪物的现代城市中，充满了紧张的战斗情节。开篇描绘了一个在狼人威胁下的女性，突显了魔法少女的出现与正义。李圣道与红月之间存在着特殊的契约关系，尽管他在变身时对自己的身体和行动没有控制，但他逐渐接受自己作为魔法少女代号红月的身份及责任。小说随后发展出妖怪集团与魔法少女的对抗，一群妖怪组成了联盟，秘密策划着消灭红月，这一切为后续的故事埋下了伏笔。文中涉及了勇气、责任与自我认同等深刻主题，融入了丰富的魔法与奇幻元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_【魔法少女红月】（1-2）.doc]([催眠]_【魔法�
 | Size            | 137728 bytes                           |
 | MD5             | e24521ad49852fc1d2859d0030c5b80f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 变身, 妖怪, 自我认同, 现代奇幻, 动作冒险, 青春校园, 性别认同, 神秘事件, 勇气与责任, 强大力量, 冒险旅程, 城市生活, 奇异生物, 战斗与对抗, 幻想故事, 契约与使命                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

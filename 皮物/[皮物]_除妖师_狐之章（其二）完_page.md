@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_除妖师_狐之章（其二）完.doc]([皮物]_除妖师
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容结合奇幻和恐怖元素，讲述了大学校园中发生的一系列神秘失踪案件。故事围绕主角林风与他的朋友牧棉展开，他们作为除妖师在调查一名狐妖的行为。开篇描绘了两名角色在图书馆和寝室内的互动，牧棉因每天处理寻找失踪女生的案件而感到心痛。接着，他们发现警方在失踪案件中的残酷证据，并聚焦于作案动机与个案背景。文件中通过林风与一名狐妖的对话，探讨了关于性别认同与个人身份的冲突，表现出这个狐妖起初是个性别焦虑的男孩，被妖怪附体后变得疯狂。故事节奏紧凑，情节交错典型，展现了不断深化的紧张气氛，同时也反映了现代社会中对于性别认同与自我探索的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_除妖师_狐之章（其二）完.doc]([皮物]_除妖师
 | Size            | 34816 bytes                           |
 | MD5             | 5b96d51a4f40afb22281c08de56e44ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 异世界, 狐妖, 妖怪, 失踪案件, 身份认同, 校园恐怖, 自我探索, 恐怖小说, 链式反应, 阴暗面                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

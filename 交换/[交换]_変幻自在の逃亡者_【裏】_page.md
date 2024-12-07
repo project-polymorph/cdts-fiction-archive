@@ -7,7 +7,7 @@ TXT 下载: [[交换]_変幻自在の逃亡者_【裏】.docx]([交换]_変幻�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《変幻自在の逃亡者～裏～》是一篇围绕身份互换和跨性别主题的短篇小说。故事的主线围绕凶恶犯罪者室井哲也展开，他通过一种入替药不断交换身体，并实施各种犯罪行为。在警方的暗部组织中，早川警视正专门处理这些非法案件，指派潜入搜查官里音作为诱饵接近室井。小说中有大量描写遗失与自我认知冲突的情节，例如室井在长时间占有里音身体后与警察御子柴的关系发展。同时，故事还涉及了室井与流浪汉的身体交换，以及他利用这些身份为所欲为的情节。最终在复杂的权力与欲望的交织中，早川的计划失败，导致更深的道德堕落和身份的错位。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_変幻自在の逃亡者_【裏】.docx]([交换]_変幻�
 | Size            | 17795 bytes                           |
 | MD5             | 16170b2df0329aa08668316a5e4146ee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 无名＠純白の憑依人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 身份交换, 犯罪, 黑帮, 诱惑, 强奸, 堕落, 警察, 女高中生, 流浪汉, 偷窥, 调教, 背叛, 腐化, 二次元, 性别认同, 自我探索, 秘密, 逆转剧情, 黑暗故事, 奇幻, 引诱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魔物大陆_第二章_[.docx]([其他]_魔物大陆_第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为魔物大陆的第二章，主要讲述了主角查尔斯参与讨伐魔物的故事。开篇描绘了查尔斯用剑刃劈开阿娜温的头颅，从中寻找核心的情节，细致入微地描绘了查尔斯内心对魔物的复杂情感。他并非出于对魔物的厌恶而参与讨伐，而是因为生活的无奈与贫困。描述了魔物与人类之间的关系，以及人类所拥有的信仰之力如何影响着双方的命运。故事中，魔物不仅出现了女性的形象，还能够使用信仰之力，使人们对她们更加厌恶，因此教会开始派出讨伐者。文件深入探讨了魔物的出现对人类社会的冲击，尤其是男性角色的被掠夺，以及人类和魔物之间不断加剧的矛盾。这一章节还涉及到教会和城镇之间的政治和经济关系，暗示了即将到来的战争及其可能带来的后果。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魔物大陆_第二章_[.docx]([其他]_魔物大陆_第�
 | Size            | 20828 bytes                           |
 | MD5             | b274df1c046f66527c683d981f020c40                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔物大陆, 性转, 讨伐者, 生存斗争, 信仰之力, 男性角色, 自我探索, 昂贵的魔物核心, 城市与魔物的协议, 战争爆发前夕, 跨性别, 冒险与斗争, 魔物与人类, 利益与牺牲, 囤积物资, 少女魔物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

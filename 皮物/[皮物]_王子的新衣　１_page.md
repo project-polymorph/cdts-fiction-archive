@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_王子的新衣　１.docx]([皮物]_王子的新衣　１
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《王子的新衣》是早期的一部性转练习小说，尚未完成，预计为中长篇。故事围绕一名沉迷于网络的宅男王子展开，他性格懦弱，不敢与人交流，常常在家中度过超过二十小时的时间，沉浸在性幻想之中。故事中，王子常常偷窥邻居的母女，幻想自己的角色，并逐渐展现出他对他们的强烈兴趣。小说里的情节描绘了王子的心理状态，以及他对母女两人的复杂情感，包含了偷窥、性幻想等内容。在一次次的偷看中，宅男开始对邻居的女儿和母亲产生奇怪的情感，并试图理解她们之间的关系，而故事逐渐演变成浸淫于禁忌之中。文章虽然未完成，但已能感受到角色内心的冲突与复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_王子的新衣　１.docx]([皮物]_王子的新衣　１
 | Size            | 19736 bytes                           |
 | MD5             | 9631ff5a4a079759609819ee928b4161                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | sunlokf                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 偷窥, 禁忌, 心理探索, 宅男, 母女情, 性幻想, 网瘾, 邻居关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_长生_（一）.docx]([附身]_长生_（一）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为长篇小说《附身》的第一章，主要围绕角色王天和的内心斗争及谋略展开。在故事中，王天和感到疑虑重重，尤其是关于祖辉的神情异常。他在书房中思索，试图还原祖辉离开的真相，并与李执事进行对话。通过李执事的回忆，王天和了解到祖辉与彭大人之间隐藏着的神秘盒子，以及可能与其相关的秘密。通过对孤本书籍的调查，王天和逐渐揭开了一个涉及医术与权力的秘密，该秘密甚至导致慈禧太后对此事产生愤怒，最终牵扯到祖辉及其妻子的失踪。整篇小说涉及了权力斗争、神秘阴谋，以及角色对彼此思想与行为的猜疑，是一部充满悬疑与情感冲突的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_长生_（一）.docx]([附身]_长生_（一）.docx)
 | Size            | 16218 bytes                           |
 | MD5             | 436a8b4f53abb48689f4427261c3529e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 1900-01-01                                 |
+| Tags            | 性转, 变身小说, 权力斗争, 医学孤本, 血书, 阴谋, 古代, 心灵冲突, 失踪, 忠诚与背叛, 情感纠葛, 家族秘密                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

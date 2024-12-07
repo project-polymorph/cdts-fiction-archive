@@ -7,7 +7,7 @@ TXT 下载: [[变身]_小心你说的话（4-5）.doc]([变身]_小心你说的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别和变身题材小说《小心你说的话》的部分内容，作者为 Serena Lawhead。故事围绕两个男孩扎克和理查德在一次神秘经历中，遭遇性别转变的奇幻冒险。两人醒来时发现自己的衣物和身体发生了变化，甚至变成了较为女性化的样子。故事通过扎克和理查德的视觉，展现了他们从男孩变为女性化形象的心理挣扎与接受过程。情节中涉及到的魔法、变身效果，以及社会对性别角色的期待和偏见相互交织，展现了性别认同的复杂性。文本通过细腻的描写，描绘了角色们对自身与周围环境的感知变化和心理活动。故事情节充满了奇幻与反思，挑战了传统的性别观念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_小心你说的话（4-5）.doc]([变身]_小心你说的�
 | Size            | 43008 bytes                           |
 | MD5             | 9ad884b6b73976b08084e91404097d72                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Serena Lawhead                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 魔法, 性别认同, 幻想, 心理挣扎, 社会压力, 伪娘, 男性身份, 女性化, 青少年成长, 友情, 自我探索, 自我认知, 魔法咒语, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

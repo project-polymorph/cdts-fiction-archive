@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_89.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《把男朋友养成亲闺女》第八十九章，主要描绪的是两个少女贝丽与坎迪在生日派对结束后的情感交往与互动。故事中，贝丽在冷风中穿着她男友奥古斯特的连帽衫，展现出她娇小可爱的形象。在夜晚的拥抱中，贝丽和奥古斯特的恋情愈加亲密，充满了温暖与暧昧。故事通过细致的心理描写，展现贝丽对爱情的期待与恐慌，同时在她心中，德里克（她父亲）对她的关心也让她倍感矛盾与温暖。随着剧情的推进，父女之间的交流与理解成为了故事的一部分，体现了亲情与情感的交织。贝丽的内心世界丰富而复杂，展现了年轻人在情感面前的挣扎与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_89.docx]([改造]_把男朋友
 | Size            | 18106 bytes                           |
 | MD5             | d508c1403b71272a1306fa67c3c39ce4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 爱情, 校园, 父女情, 情感探索, 温暖, 甜蜜, 日常生活, 青春, 性别认同, 自我发现, 美好回忆, 约会, 亲密关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_异形女郎第二册的短篇小说(部份).docx]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《异形女郎》第二册的短篇小说，讲述了一群女囚因一位新的女囚而打乱了逃脱计划。故事开始时，她们被囚禁在昏暗的囚室里，无法判断时间和空间。随着外部世界的动荡不安，她们在一次意外中得知了一位被女匪徒带走的同伴经历了生死搏斗和改造，并且外面存在一个充满外星生物和女匪徒的复杂地下基地。文本涉及了女囚们的身份背景，包括一名英国MI6的女间谍和中华联邦调查局的女特工，她们在极端的境遇下尝试团结合作以逃出生天。故事以强烈的生存压力、心理冲突及科幻色彩呈现了女性的脆弱与坚韧，体验了性别、身份与权力的复杂交织。内容中包含了较为明显的心理和生理压迫的描绘，以及涉及改变、逃脱的紧张气氛，具有重要的文学及研究价值。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_异形女郎第二册的短篇小说(部份).docx]([附身
 | Size            | 45615 bytes                           |
 | MD5             | 4ecaee5a0c56bae45098c48e3cea5dbf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 红毛猪                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 女囚, 异形, 科幻, 生死搏斗, 逃脱, 改造, 女特工, 心理压迫, 身份认同, 极限生存, 外星生物, 女性团结, 性别冲突, 人性探索, 自我救赎, 幻想冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

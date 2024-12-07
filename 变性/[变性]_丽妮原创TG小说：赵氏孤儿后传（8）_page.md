@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（8）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为原创的变性文学作品《赵氏孤儿后传（8）》的一部分，主要围绕主角在一次变身过程中的心理变化及身体变化展开。在故事中，主角被药物影响，经历了从男儿身变为少女身的痛苦转变。当他意识到身体发生了巨大的变化后，表现出强烈的心理冲突与绝望，甚至一度想要了结自己的生命。文中通过主角与周围角色（如姑姑与红蚌）的互动，描绘了对这一变身现象的不同反应。特别是主角对自己新身体的惊恐与不适，使得故事充满了紧张感，同时也反映出对性别认同与自我形象的探讨。文本深刻触及了性别流动、自我探索等主题，并涉及一些禁忌与成人向内容，并非所有听众适合。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（8）.docx]([�
 | Size            | 17169 bytes                           |
 | MD5             | 0826281d6b322319b9eb3216617244cc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 丽妮                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 自我探寻, 身体变化, 性别认同, 心理冲突, 伪娘, 魔法, 成人向, 心理剧, 变身, 成长故事, 性别流动, 双性特征, 情感纠葛, 古风小说, 幻想文学, 虚构传说, 二次元, 奇幻世界, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

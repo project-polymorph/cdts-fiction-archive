@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人皮战争（1-4）.docx]([皮物]_人皮战争（1-4）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《人皮战争》是一部融合了奇幻与青春文学元素的小说，描绘了女孩杨伊莲与表哥杨文斌之间复杂而深刻的感情。故事背景围绕一个被家族权谋和世俗束缚所影响的古代环境，女孩面临着即将分离的痛苦。小说开篇描写了冬雪中的花园，一位年轻的少女在孤独中与自己的心声对话，暗示着其内心的柔情与坚韧。女孩对她权势滔天的表哥怀有深厚的情感，崇拜他的才华和人格，甚至在离别前希望能够向他坦白自己的心声。文中引用了很多关于“人”的道理，探讨了人性与家庭之间的纠葛，展示了一个少女在传统观念与自我探索之间的矛盾与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人皮战争（1-4）.docx]([皮物]_人皮战争（1-4）
 | Size            | 61818 bytes                           |
 | MD5             | 03767d06d8e3714385e18e166f2cfeff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 男性角色变女性, 自我探索, 家庭矛盾, 爱情, 成年仪式, 青春成长, 权力斗争, 古代背景, 女性独立, 自我认同, 情感纠葛, 命运                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

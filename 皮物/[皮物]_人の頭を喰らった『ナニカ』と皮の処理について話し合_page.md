@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人の頭を喰らった『ナニカ』と皮の処理に�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一个名为朝倉浩人的角色在与一种不明生物的相遇后的奇异经历。在一个闷热的夏夜，浩人发现地上有一具没有头的女性皮肤，随着故事的发展，他与这只不明生物的关系逐渐变得亲密，不明生物形态多变，通过与浩人的互动展开了一系列复杂而荒诞的情节，包括性行为及其对于人类生理的描绘。这种不明生物以其特有的方式与浩人生活在一起，甚至在浩人的身上进行性行为以苟延残喘，深刻探讨了欲望与性别认同之间的奇特关系。故事的内容涉及一系列生理细节，表达了浩人与不明生物之间情感的发展与冲突，同时也揭示了真实与幻觉的边界模糊。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人の頭を喰らった『ナニカ』と皮の処理に�
 | Size            | 32040 bytes                           |
 | MD5             | 73bc5201aeb29f4e0217d1faea89c020                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 触手, 性别认同, 二次元, 幻想, 非人类, 情色, 奇幻, 异世界, 怪物角色, 自我探索, 混乱关系, 生理细节, 强烈情感, 禁忌主题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

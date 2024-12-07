@@ -7,7 +7,7 @@ TXT 下载: [[变装]_情有所属，身归何处.docx]([变装]_情有所属，
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一篇原创性转小说，主要围绕一个名叫霍思驰的男主角展开。他是一个文静而自卑的男孩，因身材和性格而感到格格不入。故事描绘了他的成长经历，父母希望他能早日成家，最终促成了他与女孩韩小雪的相识与恋爱。霍思驰与韩小雪发展出了一种既像姐妹又像恋人的关系，小雪对思驰的阴柔非常包容和接受。在一次次逛街试衣的过程中，思驰越来越接受自己扮演女性形象的角色，并在婚后逐渐展现出内心的自信。小说中涉及了性别认同、亲密关系及自我探索等主题，体现了思驰在身为男性与女性之间的角色认知冲突。情节中还融入了诸多对性相关的刻画，表现出霍思驰在情感和性方面的复杂感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_情有所属，身归何处.docx]([变装]_情有所属，
 | Size            | 93114 bytes                           |
 | MD5             | 6bf41f5fc71312256b0eaabba7bafc37                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变装, 爱情, 成长, 自我认同, 婚姻, 女性视角, 初恋, 亲密关系, 心理冲突, 性别角色, 日常生活, 二次元, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

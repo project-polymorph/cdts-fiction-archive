@@ -7,7 +7,7 @@ TXT 下载: [[变身]_女子力のエッセンス_上.docx]([变身]_女子力�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于角色性别转变的小说内容摘录，着重描绘了角色在日常生活中对自身形象和性别认知的探索。故事通过主角的日常生活细节，展示了其与妹妹惠美的互动，以及一份关于美妆秘籍杂志的借用和使用。主角意外发现杂志中的美容技巧，并尝试通过这些方法来提升自己的外表。这一过程不仅涉及生理上的变化和性别化装扮，此外，也反映了主角在性别认同方面的权衡与挣扎。文中提到：“要说的話，惠美應該算是捲髮，不過我還是覺得嘩嘩的長髮更有味道呢。”这样的描述展现了角色在探索自我美感过程中的挣扎与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_女子力のエッセンス_上.docx]([变身]_女子力�
 | Size            | 36025 bytes                           |
 | MD5             | bbffc17028e201abaabb56495e001ba9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 美容秘籍, 性别认同, 姊弟互动, 自我探索, 生活日常, 女性形象, 成长, 心理变化, 日常琐事, 二次元, 伪娘, 角色扮演, 变化与认同, 青少年, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

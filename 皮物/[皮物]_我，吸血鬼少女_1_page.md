@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我，吸血鬼少女_1.docx]([皮物]_我，吸血鬼少�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《我，吸血鬼少女》是一部吸血鬼类的小说，围绕吸血鬼猎人和吸血鬼女王克莉丝之间的斗争展开。故事设定在一个人类与吸血鬼持续斗争数百年的世界，描绘了吸血鬼猎人辛达尔与吸血鬼女王克莉丝的一场殊死搏斗。主要角色蒙其是辛达尔的学徒，他在这场激烈的战斗中见证了老师的英勇与悲壮。当辛达尔最终用传说中的‘桩’武器将克莉丝制服后，克莉丝的形象从一个残忍的吸血鬼女王转变为一名无辜的少女，蒙其心中对她的复杂情感不断涌现。文本中充满了吸血鬼猎人对吸血鬼恐惧与憎恨的心理，以及对失去亲人的悲痛，对自我身份的探寻与冲突。此外，故事涉及到了血腥的斗争、性别变换的幻想和对禁忌的探索，融入了某种性暗示的元素，为本小说增添了一层阴暗而紧张的气氛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我，吸血鬼少女_1.docx]([皮物]_我，吸血鬼少�
 | Size            | 18458 bytes                           |
 | MD5             | 771f74b91bb79d4b7f4f4860cd40277b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 吸血鬼, 猎人, 克莉丝, 蒙其, 性别转变, 自我认知, 血腥, 幻想, 冒险, 禁忌关系, 悲剧, 成长, 情感冲突, 二次元, 跨性别, 探索欲望, 活的皮物, 吸血鬼与人类的战争, 青少年, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

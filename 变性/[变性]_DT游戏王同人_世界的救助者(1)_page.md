@@ -7,7 +7,7 @@ TXT 下载: [[变性]_DT游戏王同人_世界的救助者(1).doc]([变性]_DT�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部跨性别与变身主题的小说，讲述了名为诺姆维斯珂的角色经历了性别转换和时空穿越的故事。故事中，诺姆维斯珂在经历了复杂的心理挣扎后，决定寄宿于自己的过去，同时为过去的自我感到抱歉。她在自己的自我认知中反思未来，并探索如何帮助曾经的自己成长。小说情节紧凑，涉及角色的心理变化，命运的选择及自我救赎等主题。全文充满了二次元的幻想元素，并在情感的描写上显得细腻，其中“她想到了两个方法…”的片段充分表达了角色内心的复杂和挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_DT游戏王同人_世界的救助者(1).doc]([变性]_DT�
 | Size            | 31232 bytes                           |
 | MD5             | 6d4a39b3debdfe09792b72989041ba36                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2012-01-01                                 |
+| Tags            | 伪娘, 变身, 跨性别, 二次元, 性别转换, 幻想, 自我探索, 时间旅行, 成长, 心理挣扎, 命运                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

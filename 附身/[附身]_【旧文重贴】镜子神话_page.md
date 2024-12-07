@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【旧文重贴】镜子神话.doc]([附身]_【旧文重�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇故事围绕着一面特殊的镜子展开，镜子有着吸引人进入的力量，使主角与朋友余霄逐渐探寻其背后的秘密。主角在进入镜子后，发现自己误入了另一个世界，并意外地变成了校花林雪兰的身体。在这个充满幻想和异世界色彩的故事中，镜子象征着探索自我与性别认同的迷惑，描绘了主角在陌生身体中面对的冲突及内心挣扎。故事中夹杂了偷窥与欲望的元素，展示了青少年对于性与爱情的困惑与渴望，究竟这面镜子究竟有什么魔力，将会揭开各种复杂情感的面纱。随着情节的推进，主角不仅要面对自我身份的变化，还要处理与好友之间因欲望而产生的摩擦与冲突。文中写道：“男人嘛，除了钱，就是女人。”以及主角对林雪兰的单纯崇拜和保护，让故事充满了戏剧性与张力，揭示了青少年的不安与迷惘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【旧文重贴】镜子神话.doc]([附身]_【旧文重�
 | Size            | 44544 bytes                           |
 | MD5             | b53a8bc7524f6f09fd68ee0d8d608a1d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 幻想小说, 跨性别, 变身, 偷窥, 情感冲突, 青春, 自我探索, 异世界, 欲望, 伪娘, 强烈感情, 魔法, R18, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

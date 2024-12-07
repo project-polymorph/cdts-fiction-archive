@@ -7,7 +7,7 @@ TXT 下载: [[变性]_主妇的秘密（2）.docx]([变性]_主妇的秘密（2�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘变性相关的小说章节，内容围绕女主角李洁在杭州的回忆与探索。故事开始于她在西湖边的恍惚，描述了她身着优雅服装，感受到西湖的女人味。与此同时，她内心的惶恐与迷茫逐渐显露出来。在经过多年的失忆后，李洁发现自己不再是原来的自己，并拼命寻找父母的下落。文本描写了她与周围人互动的情节，包括与一位阿姨的对话，表明很多人误以为她已经去世。李洁努力回忆起自己过去的生活，甚至走访了母校，却发现记忆模糊，这一切都让她感到困惑和焦虑。小说探讨了性别认同、自我探索，以及一个女性角色在遭遇失忆后的身份认同危机。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_主妇的秘密（2）.docx]([变性]_主妇的秘密（2�
 | Size            | 24823 bytes                           |
 | MD5             | e58f3c8e5ed26531e26c18a99025eb02                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 失忆, 自我认同, 性别探索, 杭州, 西湖, 亲情, 身份危机, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

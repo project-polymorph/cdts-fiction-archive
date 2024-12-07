@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_美人皮的故事四.docx]([皮物]_美人皮的故事四
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇以个人视角叙述的伪娘/变身主题的小说。故事主要讲述了男主角与唐影的关系发展，情节围绕着他们在街上逛街购物的场景展开，描绘了唐影通过展示自己的女性魅力来吸引陈辉。陈辉内心渴望与唐影建立更亲密的关系，同时又不乏对其性别身份的复杂情感。随着情节的发展，唐影故意诱惑陈辉，使其喝下掺有药物的酒，以达成自己的目的。故事中提到的“宝贝”不仅指代物品，也具有象征性，暗示着对权力和性别认同的探索及斗争。此外，小说中还融合了一些超自然元素，如舍利子的使用等，丰富了人物之间的冲突和剧情的多样性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_美人皮的故事四.docx]([皮物]_美人皮的故事四
 | Size            | 18248 bytes                           |
 | MD5             | 9bf1dfbb558499d2d72aef7357fec042                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身小说, 自我探索, 感情戏, 催眠, 情色, 魔法, 女性角色, 欲望, 都市, 情感แข่งขัน, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【少前文】喜欢我的索米小姐.doc]([变身]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部互动性极强的变身小说，主要围绕角色索米展开。故事设定在未来的 S09 战区，格里芬所属的基地，通过对话和事情的发展，表现了索米对指挥官的情感上的暗示与实际动作的对比，以及角色性别转换的科学幻想元素。故事中，索米是一名漂亮的亚麻色长发少女，身穿蓝色军装，内心暗恋指挥官却苦于无法向其表白。通过一系列情节，包括她对指挥官的调侃和互动，展示了性别认同和自我探索的主题。在一次偶然的机会下，索米得到了促使她和指挥官感情进展的药物，并引发了一系列意想不到的事情，包括两人身份的转换与情感的进一步发展。这部作品细腻地描绘了性别转换的心理状态，也涉及了一些限制级内容，角色之间的亲密互动满是张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【少前文】喜欢我的索米小姐.doc]([变身]_【�
 | Size            | 39936 bytes                           |
 | MD5             | a858a95be4ae458d7d1b211e4b07bfb0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 爱情, 自我探索, 科学幻想, 伪娘, 情感冲突, 性别认同, 角色转换, 互动小说, 性转, 药物影响, 青少年, 调侃, 亲密关系, 未来设定                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

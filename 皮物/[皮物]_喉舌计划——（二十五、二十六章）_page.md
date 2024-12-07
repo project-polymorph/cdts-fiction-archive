@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_喉舌计划——（二十五、二十六章）.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘 TS 变身与跨性别相关小说的一部分，主要讲述了一系列围绕华国齐市郊区军用机场发生的紧张剧情。故事围绕角色夏希玲叶展开，她作为一个权力充沛的角色，正在为即将到来的高层访客做准备。情节设定在一个阴险的策划背景中，包含了一些关于政治和阴谋的元素。在第二十五章中，夏希玲叶与她的卫队成员们准备接待重要人物，并描绘了机场到达时紧张的氛围，随后展开了一场关于权力与忠诚的博弈。同时，故事中还涉及到性别认同、角色身份转变及对人性的探讨。该部分内容转折互动频繁，夹杂了一些成人情节，且有明显的色情暗示。文中名称如“夏希玲叶”、“山姆公爵”等，同时描绘了多种角色性别与权力的冲突。对于细节例如“山姆公爵殿下为我们国家赢得了那么多荣誉”等描写使得人物关系复杂且充满张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_喉舌计划——（二十五、二十六章）.doc]([皮
 | Size            | 67072 bytes                           |
 | MD5             | 84cf5f43eb07753ab48b1382b32138e3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 军用机场, 力量游戏, 性别认同, 情感纠葛, 暴力, 权力斗争, 成人内容, 阴谋, TSF, 魔法少女, 虚拟现实, 古代, 奇幻, 科幻, 游戏, 校园, 末日, 调教                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

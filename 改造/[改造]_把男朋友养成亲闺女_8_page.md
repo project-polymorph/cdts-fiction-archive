@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_8.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇跨性别题材小说的第八章，标题为《把男朋友养成亲闺女》。故事围绕贝丽和她的两个好友坎迪与瑞恩展开。贝丽为了融入女性角色，努力模仿坎迪所描述的走路方式。在他们的聚会上，贝丽与另一位男孩奥古斯特之间产生了微妙的情感互动，典型的青少年恋爱元素展现于两人的交流中。文中描绘了贝丽与坎迪在参加游戏时的欢笑，也体现出贝丽在挑战自我认知和性别身份上的迷茫，尽管她面临性别认同的冲突，她还是努力享受与朋友相处的快乐。章节中充满了年轻人的热情与探索，包括友谊、恋爱和自我发现的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_8.doc]([改造]_把男朋友�
 | Size            | 47616 bytes                           |
 | MD5             | 0caa4d39e1fca1a8f7f9406acbef8986                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2022-05-10                                 |
+| Tags            | 跨性别, 性别认同, 青春恋爱, 自我探索, 友情, 性别转换, 女孩生活, 恋爱互动, 青少年, 女性视角, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

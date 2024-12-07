@@ -7,7 +7,7 @@ TXT 下载: [[变身]_愿望_幕间_无H_[.docx]([变身]_愿望_幕间_无H_[.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于变身与愿望实现题材的小说片段。故事的主角是一个少年，他怀着渴望成为神的愿望与灯神进行对话。灯神对此表示无法实现，但却给了少年选择的余地—通过三个愿望来成为灯神。整个故事围绕着少年如何逐步理解自己的愿望与性别身份的冲突展开，最后在一次愿望实现中，少年意外地转变成了女性的形象，并感受到身份变化带来的困惑与现实。他不断尝试使用新获得的力量来恢复自己的性别，却发现一切都已无法逆转。文本中巧妙融合了幽默与反思，令人思考性别认同、欲望与自我探索的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_愿望_幕间_无H_[.docx]([变身]_愿望_幕间_无H_[.d
 | Size            | 19393 bytes                           |
 | MD5             | ec88d90c7f998d14a720a3cad73a5dde                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 灯神, 愿望, 性别转变, 性别认同, 自我探索, 幻术, 幽默, 友情, 奇幻, 魔法, 情感纠葛, 女性化, 青春成长, 二次元, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

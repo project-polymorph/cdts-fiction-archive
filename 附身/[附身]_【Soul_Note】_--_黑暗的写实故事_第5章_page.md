@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【Soul_Note】_--_黑暗的写实故事_第5章.doc]([附
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘、TSF（变身女性）小说《黑暗的写实故事》的第五章，内容围绕主角在校园中的经历展开。通过灵魂笔记本，主角能够控制其他人的身体，体验不同的身份与欲望。章节始于主角夜间的思索与自我认知的冲突，在情节中，主角与名为芮然的同班女生互动，表现出一种复杂的权力关系与性别认同的探索。主角对芮然的身体产生了强烈的欲望，而芮然则以一种傲慢的方式对待主角。在这一章节中，文本大量描绘了双方的心理状态以及由此带来的情绪波动，尤其是主角在掌控他人身体后感受到的兴奋和复杂心理。此外，文本也涉及了青少年的性意识和成长的探索，充满了对人际关系和自我认知的思考。章节最后，主角依旧计划着他的“娱乐行动”，展现出对力量和欲望掌控的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【Soul_Note】_--_黑暗的写实故事_第5章.doc]([附
 | Size            | 79360 bytes                           |
 | MD5             | d2a35f2a3b36a47d6a318f679876d713                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 性别认同, 校园, 灵魂交换, 青少年, 情感冲突, 权力关系, 欲望探索, 青春期, 情节复杂, 美少女, 女装, NTR, 调教, 强奸                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

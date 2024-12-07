@@ -7,7 +7,7 @@ TXT 下载: [[交换]_誅仙後續邪傳2_[.docx]([交换]_誅仙後續邪傳2_[
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《誅仙後續邪傳2》，主要围绕主人公陆雪琪的性别转换经历展开。故事描写了一场由男身转至女身后的复杂情感与自我探索，内容涉及对仙子身体的强烈欲望和人际关系的冲突。文件开头描述了主人公在绝境中的恐惧与惊慌，当他意识到自己的身体变化后产生的淫荡想法和行为。随着情节的推进，陆雪琪尝试习惯新的身体并掌握法力，同时又不自觉地陷入了一系列与其他女性角色的暧昧关系之中。这种性别认同的探讨与欲念的冲动成为了故事的主要主题，同时也流露出对于自我身份的思考与探索。该文本包含了一些限制级的性暗示与情节，适合研究性别与性转相关的文学作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_誅仙後續邪傳2_[.docx]([交换]_誅仙後續邪傳2_[
 | Size            | 35536 bytes                           |
 | MD5             | 6e9b3702b0ab826def72e08f965916dd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我探索, 欲望, 人际关系, 女主角, 仙侠, 情感冲突, 性别认同, 性幻想, 男娘, 变身, 强烈欲望, 魔法, 修真, 异界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

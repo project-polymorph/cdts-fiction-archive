@@ -7,7 +7,7 @@ TXT 下载: [获得幸福的三人.doc](获得幸福的三人.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《获得幸福的三人》讲述了两位双胞胎姐妹沈盈盈和沈珊珊在地铁上发生的一系列奇幻与情感交织的故事。沈珊珊在地铁中感到心悸，似乎与姐姐沈盈盈之间有一种特殊的心灵感应。与此同时，旁边的年轻人王小明因生活的不如意，喝下了一瓶奇怪的药水，意外地将自己的意识转移到了沈盈盈的身体中，剧情由此展开。该故事探讨了性别认同、自我探索、欲望与身体的关系。通过沈盈盈的视角，王小明开始体验作为女性的生活，并引发了与妹妹之间复杂的情感与欲望交织。文件内容涉及到性别转换、身心交替以及对身体新体验的探索，描绘了一种复杂而深刻的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [获得幸福的三人.doc](获得幸福的三人.doc)
 | Size            | 47616 bytes                           |
 | MD5             | ec342ef14c78ea6647eeaeb6dc66d1c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 双胞胎, 心灵感应, 身体转换, 跨性别, 内心挣扎, 欲望探索, 奇幻, 青春, 情感纠葛, 自我认知, 生活转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

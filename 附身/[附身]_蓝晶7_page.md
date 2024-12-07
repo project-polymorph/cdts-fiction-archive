@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蓝晶7.docx]([附身]_蓝晶7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇围绕伪娘与性转主题的小说，主要讲述了角色阮媚（李天）通过蓝色小球进行灵魂附身，导致意外跌入一系列复杂而充满危险的境地。在故事开头，阮媚的灵魂附身在一个陌生的护士身上，随后与黑衣保镖展开了冲突，揭示出关于朱总与阮媚之间错综复杂的关系。阮媚本是小三身份，生活安逸，然而因灵魂转移被卷入黑暗势力中，面对一群威胁与勾心斗角的人，她不得不寻找逃脱的机会。小说的情节包含了性别转换、自我认知的冲突以及与权力的斗争，情节发展伴随丰富的情感和生理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蓝晶7.docx]([附身]_蓝晶7.docx)
 | Size            | 26973 bytes                           |
 | MD5             | 909ef2396b45359b79486f5538740b49                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 附身, 灵魂交换, 成熟角色, 黑暗势力, 自我认知, 情感斗争, 情节发展, 挣扎与反抗, 危机与解决方案, 人际关系, 强烈的情感冲突, 制服诱惑, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

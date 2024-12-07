@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【邪恶道具】人皮拍立得（2）.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及伪娘和跨性别主题的小说，讲述了吴星宇这一名角色的复杂心理与婚姻安排。故事开始于吴星宇回国，第七天，他被家族安排成为千通集团的首席执行官助理，并面临与未婚妻的政治联姻。然而，吴星宇对这桩婚事兴趣寥寥，心中充满反感。同时，他对公司一名名叫周晨莹的实习生产生了浓厚的兴趣。周晨莹以清纯的形象和青春的气息吸引了他，他们的关系逐渐发展。文件详细描绘了吴星宇的内心冲突、周晨莹的心理变化以及他们之间情感的纠葛，包括色情内容的描写，如吴星宇计划通过金钱来赢得周晨莹的心，以及他们之间发生的亲密关系。这部作品不仅探讨了性别和身份的主题，还涉及了权力、金钱与情感的复杂互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【邪恶道具】人皮拍立得（2）.docx]([皮物]_�
 | Size            | 22373 bytes                           |
 | MD5             | 19f9d549ff4d6619fd6295aaf702763c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 情感纠葛, 政治联姻, 性别认同, 财富与权力, 青春, 青春校园, 女性视角, 爱情, 快感体验, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

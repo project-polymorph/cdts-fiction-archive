@@ -7,7 +7,9 @@ TXT 下载: [[变装]_柔弱大学生的雌堕_VI.doc]([变装]_柔弱大学生�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇伪娘 TS 变身相关的小说，围绕着一个大学生角色的性别转换与性别认同的探索展开。主角在夜晚的聚会上，试图吸引他的朋友阿龙，穿着一件普通的灰色外套下搭配红色肚兜的衣物。两人的互动涉及亲密的身体接触与情侣之间的感情交流，但随着故事的推进，主角逐渐陷入更深层次的性与情感的探索，展现出他对身体与性别身份的冲突与认同。情节中包含了大量的性暗示以及对性行为的描写，在某种程度上探讨了跨性别者的内心世界与情感需求。
+
+小说中，通过对主角与阿龙之间激烈的情感和身体互动的描写，反映了性欲与女性认同的交织。随着故事的发展，主角不仅在生理上实现了变身，还在心理上经历了复杂的自我认知转变。内容中大量色情描写及情欲场景，反映出强烈的身体感知与心理渴望，使作品具有一定的研究价值，尤其在性别研究和心理探索领域。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_柔弱大学生的雌堕_VI.doc]([变装]_柔弱大学生�
 | Size            | 70144 bytes                           |
 | MD5             | 381543c91fc7586c00b81d24862d4306                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别转换, 强奸, NTR, 跨性别, 淫荡, 变身, 青春校园, 纯爱, 强烈的情欲, 二次元, 性探索, 自我认同, 情感关系, 男同, 女体化, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

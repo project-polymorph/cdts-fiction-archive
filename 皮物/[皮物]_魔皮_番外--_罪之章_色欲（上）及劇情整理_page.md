@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔皮_番外--_罪之章_色欲（上）及劇情整理.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘 TS 变身与跨性别相关的小说的番外篇，围绕着一位名为杜菲的女主角展开。杜菲是XX市某集团的董事长，拥有显赫的背景和完美的外表，但内心却充满了对世界的厌恶和对人类的失望。文中描述了她通过极端方式发泄内心的愤怒和痛苦，包括对她母亲的虐待和对其他女性的强迫行为。这一系列行为反映出她复杂的性格和心理状态，同时揭示了她对自己身世的痛苦认识，以及对父母不伦关系的心理创伤。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔皮_番外--_罪之章_色欲（上）及劇情整理.d
 | Size            | 34644 bytes                           |
 | MD5             | c6e8f80496e981f064ec70e8911ba374                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, TS变身, 跨性别, 性别认同, 自我探索, 强奸, 虐待, 复仇, 父母关系, 痛苦心理, 黑暗爱情, 二次元小说, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_小流氓_第四章_(2).docx]([改造]_小流氓_第四章
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一名角色名为白杰的伪娘或变身角色的故事，包含了强烈的性暗示和性行为的描述。故事开端描写了白杰与另一角色周小虎之间的亲密互动，涉及到一些情欲行为，例如足交和对彼此身体的玩弄。随着情节的发展，白杰提到与罗刹教的地下产业有关的正事，这一部分引入了更深层次的情节发展。文本内容包含了大量露骨的性行为描述以及角色之间复杂的性关系，诸如白杰作为女性形象的表现以及对自己身体的探索。白杰的心理变化、角色扮演的游戏性以及对性别角色的挑战是故事中重要的主题。整体作品反映了性别认同与性探索的冲突与融合，包含了大量限制级的内容，适合用于对相关主题的学术研究和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_小流氓_第四章_(2).docx]([改造]_小流氓_第四章
 | Size            | 20313 bytes                           |
 | MD5             | 12ff55a208d86b20d88344295894eec6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 强烈性暗示, 性别认同, 地下产业, 跨性别, 性行为, 情欲关系, 角色扮演, 自我探索, 白杰, 周小虎, 罗刹教, 情感纠葛, 禁忌, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

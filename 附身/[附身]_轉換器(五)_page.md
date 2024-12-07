@@ -7,7 +7,7 @@ TXT 下载: [[附身]_轉換器(五).docx]([附身]_轉換器(五).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《转换器(五)》，是系列关于性别转换、附身的小说。这一章节重点讲述了主角获取了一种神秘的转换器，拥有改变他人思想和记忆的能力。故事开始时，主角正在测试转换器的按钮，怀着好奇心和恶作剧的心态，逐渐展开了一系列与同学和老师之间的互动。主角利用转换器诱导身边的人，尤其是美丽的梁老师，激发了情感和欲望，并设下邪恶的计划以报复那些曾经在背后说他坏话的同学。文中描绘了主角如何通过附身变换外表和操控他人情感的过程，同时也展现了一些成人情节和讽刺性的幽默，整体基调较为轻松却又不乏阴暗面。此作品可能涉及的主题包括性别认同、自我意识的转变，以及对他人记忆的操控等。内容较为露骨，适合成年读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_轉換器(五).docx]([附身]_轉換器(五).docx)
 | Size            | 26231 bytes                           |
 | MD5             | 731678a2054bab4f68fcabda0c01620e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 附身, 自我探索, 二次元小说, 伪娘, 变身, 恶作剧, 成年人内容, 心理操控, 师生关系, 情感操控, 校园生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

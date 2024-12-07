@@ -7,7 +7,7 @@ TXT 下载: [[附身]_糖果超甜续.doc]([附身]_糖果超甜续.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是《糖果超甜续》的续集，主要以第一人称的视角叙述了两个小孩在制作一种特殊糖果的过程中，发生的一系列奇幻和搞笑的故事。这种糖果有著特殊的力量，可以实现角色的附身，主角通过这种糖果可以进入到母亲的身体中，在家庭环境中进行多种有趣甚至是调皮的行动。故事中涉及到母亲温柔的形象，对主角行为的无奈和关心，同时通过对话展现了主角的顽皮与小胖子之间的友谊。内容包含了一些限制级的情节，尤其是在角色附身后进行的行为，描绘了青少年对性与自我认知的探索。在故事中，角色们对糖果效果的好奇与尝试使情节愈加紧张与有趣，体现出一种无厘头的幽默感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_糖果超甜续.doc]([附身]_糖果超甜续.doc)
 | Size            | 45568 bytes                           |
 | MD5             | 97c662799cc29be0b8046f77b815c5cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 糖果, 幽默, 调皮, 性转, 亲子关系, 第一人称, 青少年, 探索自我, 友情, 魔法, 变身, 怪异, 搞笑, 家庭, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

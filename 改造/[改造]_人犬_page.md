@@ -7,7 +7,7 @@ TXT 下载: [[改造]_人犬.doc]([改造]_人犬.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《人犬》是一部涉及生物科技与人身改造的小说，主要讲述了富二代吴飞的身份被迫改变的故事。他由于与杜公子的女友发生关系而被杜公子抓住，随后被绑住进行极端的手术，身体经过一系列的残酷改造，使其变成一名具有人类特点的"母狗"。小说详细描述了手术过程中的痛苦与改造的细节，包括对吴飞身体的改造、感官的敏感化和性别特征的改变。本作涉及的主题包括性别转换、自我认同、身体改造等，极具争议性和刺激性。内容包括对手术细节的详细描写以及改造后的生活状态，吠叫声等动物特征的显现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_人犬.doc]([改造]_人犬.doc)
 | Size            | 37888 bytes                           |
 | MD5             | 0eecbc25045ae01d96da5ac2f6bc9273                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 身体改造, 跨性别, 伪娘, 生物科技, 性别认同, 人兽, 整形手术, 非人化, 惊悚, 伦理争议, 药物影响, 极端改造, 二次元, 性幻想, 病态心理, 色情小说, 人性探讨                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_碧莉的蜕变（2）——TGI系列之二.docx]([变性]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别主题的一篇小说，主要叙述了主角比尔在经历性别转变后的心理与外貌变化。故事开头，比尔走进卧室，发现衣柜中的女性服装和饰品，让他不禁惊讶于自己如今的形象。详细描绘了他试穿不同的女性衣物，如裙子、高跟鞋、内衣和丝袜。比尔沉浸在镜子中的自己，感受到强烈的女性认同。随着故事的发展，他开始思考自己的身份，以及在这种女性化造型下的社会交往与自我接纳。小说也涉及比尔与他人（如帕梅拉）的互动，展现出他在面对社交场合时的犹豫与期待。整个故事围绕自我认知和性别认同的主题展开，触及变装、变身和心理变化等多重元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_碧莉的蜕变（2）——TGI系列之二.docx]([变性]
 | Size            | 47848 bytes                           |
 | MD5             | aeddcf35aa3430b35ef7c87028a7db56                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 自我认知, 女性化, 心理变化, 社交场合, 性别转变, 服装试穿, 自我接纳, 二次元, 强烈的女性认同, 情感探索, 镜子中的自我, 内衣, 高跟鞋, 裙子, 女性时尚, 情节发展, 性别身份, 角色探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

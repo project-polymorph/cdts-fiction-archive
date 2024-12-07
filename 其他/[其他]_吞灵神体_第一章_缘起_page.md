@@ -7,7 +7,7 @@ TXT 下载: [[其他]_吞灵神体_第一章_缘起.docx]([其他]_吞灵神体_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《吞灵神体》第一章讲述了唐昊和林云丹之间的感情故事。两人从小一起长大，共同经历了许多重要的时刻，彼此感情深厚。就在唐昊准备求婚的时刻，他们在江边却遭遇了一位道士，后者想要收林云丹为弟子，唐昊因灵根被判定为废物无缘修仙，林云丹面临选择。最终，林云丹在成为修仙者后拒绝了唐昊，提出分手，带着无情的冷漠留下唐昊在原地失落。故事情节涉及了性别认同、自我探索和梦想追求等主题，也展现了角色在面对人生重大选择时的复杂情感和心理挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_吞灵神体_第一章_缘起.docx]([其他]_吞灵神体_
 | Size            | 20685 bytes                           |
 | MD5             | 396ef0f340abdc94b9f321447f8e4ee0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 修仙, 初恋, 分手, 情感纠葛, 梦想追求, 灵根, 道士, 心理冲突, 女主成长, 魔幻, 青涩爱情, 自我探索, 超自然, 青春, 古代奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

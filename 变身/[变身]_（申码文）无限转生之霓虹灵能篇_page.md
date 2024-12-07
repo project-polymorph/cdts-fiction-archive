@@ -7,7 +7,7 @@ TXT 下载: [[变身]_（申码文）无限转生之霓虹灵能篇.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一部围绕跨性别主题的小说，故事设定在一个名为霓虹的世界，鬼怪与灵能力者共存。小说的主人公是野泽桃衣，一位转生的女性，她的性别经历了变化。在故事中，桃衣与她收养的青年北川稜真之间发展出复杂的感情，在性别认同和自我探索的过程中，桃衣逐渐发现自己的欲望与情感。文中详细描写了桃衣的身体特征，情感波动，以及她对自身性别的认同和过去经历的回忆，展现出她从男性转生为女性后的心理挣扎与情感发展。故事中涉及亲属关系的模糊与情欲的勾结，内容较为露骨，描绘了两人之间的关系演变，以及桃衣在灵能的影响下展现出她的掠夺与被占有的欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_（申码文）无限转生之霓虹灵能篇.doc]([变身
 | Size            | 91648 bytes                           |
 | MD5             | bc7b538d56154e67f933683125c09214                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 灵能, 伪娘, 情感波动, 自我探索, 变身, 成长, 情欲, 亲属关系, 禁忌爱情, 逆后宫, 多元性别, 美少年, 母与子关系, 调教                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

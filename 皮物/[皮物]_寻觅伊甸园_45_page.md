@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_寻觅伊甸园_45.docx]([皮物]_寻觅伊甸园_45.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕苏眉和另一名角色的冒险展开，情节紧张刺激。故事开始于苏眉跟随警车来到了医院，计划捕捉一个正在进行可疑活动的人。苏眉要求主角换上她的皮肤，以避免被识别。故事中涉及到面具与皮肤的替换，以及角色之间的混淆与身份认同。在医院内，主角与敌人与苏眉的互动不断引发冲突，伴随着激烈的打斗场景。在一场混乱的斗争中，主角用注射器成功注入镇静剂到敌人身上，而苏眉则在战斗中受伤。随着故事的发展，两人需要团结合作，探寻藏匿在冷冻实验室中的秘密，内容探讨了生理性别与角色认同的复杂性，交织了悬疑、动作与部分情色元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_寻觅伊甸园_45.docx]([皮物]_寻觅伊甸园_45.docx)
 | Size            | 20427 bytes                           |
 | MD5             | be43c3470762bbd709400fa8481b12bb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 伪娘, 悬疑, 动作, 跨性别, 自我认同, 医疗实验, 恋爱, 强奸, 调教, 斗争, 冷冻实验, 易容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

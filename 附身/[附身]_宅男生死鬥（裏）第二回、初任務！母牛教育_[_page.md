@@ -7,7 +7,7 @@ TXT 下载: [[附身]_宅男生死鬥（裏）第二回、初任務！母牛教�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇有关性别转换与跨性别主题的小说，描绘了主角魏宇婕在变身为女性后，逐步探索女性身体的感受与自我认知的过程。故事开头，魏宇婕在清晨独自在家，她好奇地抚摸着自己新身体的丰腴部位，感受到与男体截然不同的敏感与快感。随着情节的发展，她逐渐陷入对身体的迷恋，并在独自探索中体验到女性高潮的快感。文中有不少强烈的性暗示和淫荡的表现，如“宇婕的身体好敏感……”“好想要……”，显示了角色的心理挣扎与性欲冲动之间的冲突。同时，故事中提及了一些地下任务，涉及到她的转变和对新身份的抗拒与甜蜜的纠结。整体情节包含大量的色情元素与自我探索，所描绘的场景或许适合成年读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_宅男生死鬥（裏）第二回、初任務！母牛教�
 | Size            | 28171 bytes                           |
 | MD5             | 1415fdafe26c9795e75c974ce26afb30                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 自我探索, 女性身体, 淫荡, 快感, 奇幻, TSF, 角色扮演, 性幻想, 牛头人, 任务系统, 恋物癖, 动漫风格, 两性关系, 自我认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

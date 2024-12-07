@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鲜奶订阅服务.doc]([改造]_鲜奶订阅服务.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于牛凯晨的科幻小说，章节描绘了其刚毕业的生活及一些夸张的奇幻情节。故事开始于牛凯晨与弟弟牛凯曦的日常生活，他们的父母是省会大学的老师，平时两兄弟互相照顾。牛凯晨刚找到一份新的工作，令弟弟十分兴奋。然而，事情的发展出现了奇怪的转折，牛凯晨在家中收到一个奇特的牛奶配送盒，该盒子宣称能够将用户改造成可以自产牛奶的装置。随后，牛凯晨被迫经历了一系列不可思议的变身过程，涉及到了身体的改变、清理过程和奇异的机械装备。文中探讨了性别认同和身份的主题，以及在变身过程中牛凯晨的内心挣扎和矛盾。他在这种非自愿的变化中，表现出对身份的困惑与无奈，揭示了深层次的社会和个人认同问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鲜奶订阅服务.doc]([改造]_鲜奶订阅服务.doc)
 | Size            | 52736 bytes                           |
 | MD5             | ae13e41639bdb5d340882a31b04da218                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 科幻小说, 跨性别, 自我认同, 奇幻, 牛奶配送, 社畜生活, 青春, 兄弟情, 角色扮演, 奇异装置, 身份探索, 清理与改造, 科技幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

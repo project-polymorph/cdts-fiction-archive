@@ -7,7 +7,7 @@ TXT 下载: [[交换]_高贵的骑士与漆黑的魔女（下）.doc]([交换]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇档案馆中的小说《高贵的骑士与漆黑的魔女（下）》讲述了一个魔女与英雄交织的故事。在封闭的地牢中，主角逐渐意识到自己身体的异常，这可能与他被夺走身体的魔女相关。在艰难的生活中，虽然对外界的情况一无所知，但主角为了维持生存，试图用魔女的身体自慰来缓解自己的不安和压力。随着剧情的发展，主角的未婚妻梅丽尔揭示出她对周围人异常变化的怀疑，来访后她询问关于埃里克的真实情况，然而由于主角在魔女的身体中无法说出自己身份的困境，让情节愈发复杂。文本细腻地描绘了主角在无助与欲望之间的挣扎，同时探讨了性别与身份认同的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_高贵的骑士与漆黑的魔女（下）.doc]([交换]_�
 | Size            | 79360 bytes                           |
 | MD5             | 7f0af493b0474f5a7bb709d678c57e0a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔女, 骑士, 性别转换, 身体异化, 自我探索, 欲望, 禁忌, 爱情, 英雄, 奇幻, 幻想文学, 唐突对话, 情感冲突, 心理斗争, 性别认同, 魔法, 牢狱生活, 情感纠葛, 身份迷失, 魔法与谋算                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

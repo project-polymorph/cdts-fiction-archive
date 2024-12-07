@@ -7,7 +7,7 @@ TXT 下载: [[其他]_星球护卫者(申码文)(第二部分).doc]([其他]_星
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别主题的跨性别相关小说的第二部分，主要讲述了萧雨柔在调查局进行任务的经过。故事以第七章开始，萧雨柔驾驶汽车驶进H市的老城区，寻找她的临时居住点。她与李慕蓉之间的关系复杂，融入了隐秘的调查活动。萧雨柔为李慕蓉提供帮助，并准备开始一项特殊的任务，涉及青族族长寄生在人身上的细节，这揭示了更大的阴谋，而对敌人毫不留情地方式让人印象深刻。在第八章中，王梦璇作为主要女性角色之一，与王部长的关系较为暧昧，情节中充满了性暗示和权力斗争。该文件涉及性别认同、心理冲突等主题，同时描绘了许雅芸的人物背景，为后续情节的发展埋下伏笔。整体内容包含详细的角色互动和潜在的性暗示，适合用于多元性别及跨性别研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_星球护卫者(申码文)(第二部分).doc]([其他]_星
 | Size            | 72704 bytes                           |
 | MD5             | cd3a8294e688fef1bb6fe1726f506239                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 王梦璇, 萧雨柔, H市, 调查局, 青族, 寄生, 自我认同, 心理斗争, 权力斗争, 情感纠葛, 隐秘任务, 黑色高跟鞋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

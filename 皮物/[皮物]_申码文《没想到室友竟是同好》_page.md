@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_申码文《没想到室友竟是同好》.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《没想到室友竟是同好》，展现了一段关于两位室友间的隐秘交流，围绕着性别认同与角色扮演展开。故事主角徐彬是一名追求二次元文化的学生，偶然得知室友许明的终极秘密——他也是一位女装爱好者。徐彬通过网络论坛与许明展开对话，逐渐加深了彼此的情感以及对性别表达的理解。文中徐彬对许明的粉丝身份充满惊讶，随后两人互相探讨和分享女装的装备与体验，构建了一个轻松而又微妙的友谊。小说深入探讨了角色的自我认知与内心的迷惑，伴随一系列幽默与暧昧的互动。内容不仅揭示了角色变换带来的身体体验，还触及了性别认同以及与之相关的社会文化背景，为读者带来了丰富的想象空间。特定情节涉及性暗示，但仍然保持在合适的范围内。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_申码文《没想到室友竟是同好》.doc]([皮物]_�
 | Size            | 46080 bytes                           |
 | MD5             | 6ca6488a230b728e466123cc05a54bcd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 性别认同, 女装, 角色扮演, 自我探索, 变身, 虚拟与现实, 青春, 纯爱, 校园生活, 性转, 伪娘, 情感交流, 秘密                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

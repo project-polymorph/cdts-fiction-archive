@@ -7,7 +7,7 @@ TXT 下载: [[变身]_拥有变身能力的坏朋友.docx]([变身]_拥有变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个拥有变身能力的角色，他的名字叫一树。故事开始于一树使用他的超能力，变身为他的女性朋友小日向美穗，去见他的好友达也。在他的家中，一树试图挑逗达也，并探测他对女性身体的反应。故事充满了性别转换与角色之间的亲密互动，穿插了许多调情与暗示的情节。一树变身后的身体和达也的反应融合了性别角色与自我认同的探索，展示了强烈的个人欲望和对他人的性吸引。整个故事包含了多种复杂情感及自我意识的冲突，同时触及了敏感的性别与性欲主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_拥有变身能力的坏朋友.docx]([变身]_拥有变身
 | Size            | 21799 bytes                           |
 | MD5             | 9103920c98249a7b17d10b604fe010d6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身能力, 性别流动, 超能力, 角色扮演, 调情, 性欲, 跨性别, 青春, 友谊, 自我探索, 偶像文化, 女性视角, 性别认同, 情感纠葛, 二次元, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

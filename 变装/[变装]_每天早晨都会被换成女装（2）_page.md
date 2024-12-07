@@ -7,7 +7,7 @@ TXT 下载: [[变装]_每天早晨都会被换成女装（2）.doc]([变装]_每
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段描写现代伪娘文化与性别转换体验的小说，讲述了男主角申立轩被迫在早晨被换上女性妆容和服装的奇妙经历。在内容中，作者细致地描绘了申立轩对化妆的感受、内心的挣扎以及对于自我认同的探讨。申立轩在经历变装后，逐渐察觉到自己身体和性别认同的转变，面临着社会对性别的开放与个人身份的认同之间的冲突。文中不乏细腻而真实的内心独白，以及对自我审视、欲望与身体快感的探索。虽然充满色情描写，但也反映出深层的社会文化现象和个人心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_每天早晨都会被换成女装（2）.doc]([变装]_每
 | Size            | 58368 bytes                           |
 | MD5             | 5173af334e7e5e57e00d6ccb69fb8a95                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别转换, 变装文化, 跨性别, 自我认同, 身体快感, 内心挣扎, 现代恋爱, 社会性死亡, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

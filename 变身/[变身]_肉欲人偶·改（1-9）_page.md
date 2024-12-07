@@ -7,7 +7,7 @@ TXT 下载: [[变身]_肉欲人偶·改（1-9）.docx]([变身]_肉欲人偶·�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部关于性别变迁的小说，主要描述了主角安吉自我认同的挣扎与身体的蜕变。故事开始于安吉对自己生理性别的不满，他在梦中想象自己穿上裙子、化妆的情景，体现了他内心深处对女性身份的渴望。在他意识到自己与他人不同后，进行了一系列自我改造的实验，服用阉割药剂，尝试把自己变成理想中的女性。然而，安吉在变身过程中的痛苦与挣扎描绘得细致入微，体现了他的疯狂与不安。最终，安吉在一次极端的精神崩溃中，通过撕扯肉身达到了一种令人毛骨悚然的转变，变成了一个毫无生气的人偶，这一过程表现出他对自身身份认同的彻底否定与认同的重塑。整部作品探讨了性别认同、身体变换与自我认知等复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_肉欲人偶·改（1-9）.docx]([变身]_肉欲人偶·�
 | Size            | 47845 bytes                           |
 | MD5             | 67dea6b085c76395f544cbe1c82d9ad0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 幸运星                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身, 阉割药剂, 女性身体, 男性身份危机, 精神崩溃, 身体改造, 心理挣扎, 幻想与现实, 人偶化, 反乌托邦, 强烈欲望, 二次元文化, 怪诞, 内心冲突, 性别变幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

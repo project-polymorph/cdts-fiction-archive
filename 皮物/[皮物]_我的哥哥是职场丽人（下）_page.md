@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的哥哥是职场丽人（下）.docx]([皮物]_我的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一部性转与变身相关的小说，主题围绕兄弟之间的复杂关系和性转的幻想。故事讲述了何小武在哥哥何小文穿着人皮假装成嫂子罗茜的情景中，发现真相后的心理斗争与情感冲突。在小说中，何小武和罗茜的互动充满了情感和生理上的纠葛，表现出对身份、性别与欲望的探讨。情节描绘了何小武对嫂子身体的幻想，以及哥哥以罗茜的身份体验与弟弟之间强烈的性张力和复杂的情感，涉及了角色的深刻自我认知和体验。这种特殊的融合关系使得两人的身体和心灵产生了冲突与碰撞，使得整个故事不仅仅是色情内容，也深入探讨了性别认同与心理变化的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的哥哥是职场丽人（下）.docx]([皮物]_我的
 | Size            | 67083 bytes                           |
 | MD5             | 981807c5f1df8ba751c8eb9e71efc7a3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, TSF, 兄弟恋, 人皮, 生物工程, 性转, 内心冲突, 性欲, 心理变化, 角色融合, 禁忌情感, 纯爱, 后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

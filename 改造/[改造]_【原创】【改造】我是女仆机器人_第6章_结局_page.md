@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【原创】【改造】我是女仆机器人_第6章_结�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件第六章描述了主角杰基在女仆机器人控制系统下的体验。杰基是一位富有的女性，因家庭生活感到无聊，朋友推荐她使用名为“Stacy Maid-bot”的控制系统，让她能够体验女仆机器人角色。文件详细描绘了杰基与技术人员的互动，以及她在被控制系统调控下逐渐适应并享受女仆机器人身份的过程。在技术人员的指导下，杰基测试了该系统并感受到身体控制与意识分离的奇妙体验。文件中提到了对控制的疑虑与兴奋交织的心理状态，反映了对性别角色与身份认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【原创】【改造】我是女仆机器人_第6章_结�
 | Size            | 134656 bytes                           |
 | MD5             | 6fb6a194c83361902cf2b73dc01d0e3d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 女仆机器人, 身份认同, 性别转换, 控制系统, 科技幻想, 自我探索, 情感体验, 心理控制, 角色扮演, 女性视角, 性别角色, 色情内容, 人机交互, 性别认同, 性转主题, 科技与性别, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

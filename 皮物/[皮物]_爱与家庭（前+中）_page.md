@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_爱与家庭（前+中）.doc]([皮物]_爱与家庭（前
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于陆轩与其妹妹雨心在Z市的日常生活的小说，描绘了在炎热夏季中，他们逛街购物的情景。故事开头描述了酷热的天气，陆轩为了保护妹妹雨心免受阳光照射，手持阳伞陪同她购物。雨心的装扮显得与其他小女孩不同，她穿着华丽的洛丽塔裙，给路人留下了深刻的印象。故事中陆轩与学妹们的互动与调侃描绘了校园生活的轻松气氛，而在家庭中，陆轩照顾妹妹，表现出兄妹之间深厚的感情和默契。随着情节的发展，妹妹的特殊情况和对待身体的处理，逐渐揭示了更深层次的情感和社会现实。该小说兼具轻松的日常生活与复杂的家庭问题，涉及到性别认同与个人探索的主题，以及在身体和心理上的转变与适应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_爱与家庭（前+中）.doc]([皮物]_爱与家庭（前
 | Size            | 54784 bytes                           |
 | MD5             | 5f10825a288cab5401d2290effe78270                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 兄妹情, 日常生活, 校园生活, 洛丽塔, 家庭护理, 生活风格, 青春, 强烈情感, 医疗处理, 隐秘身份, 社会现实, 个体挣扎, 情感纠葛, 兄妹关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

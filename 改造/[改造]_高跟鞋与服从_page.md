@@ -7,7 +7,7 @@ TXT 下载: [[改造]_高跟鞋与服从.docx]([改造]_高跟鞋与服从.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《高跟鞋与服从》描绘了一个充满性暗示与控制关系的故事，主要设定在一个专门提供特殊服务的俱乐部。在这个俱乐部中，所有女员工穿着各种高跟鞋，以提供令人瞩目的视觉享受。小说中的主人公J到达俱乐部后，接待小姐的优雅与该场所的独特文化深深吸引了他。随着故事发展，J了解到这个俱乐部背后隐藏了复杂的催眠与洗脑过程，真正的吸引力在于控制与服从。在高跟鞋的诱惑中，不同的角色展现了她们被操控和魅惑的双重身份，尤其是兔女郎和红桃A之间的互动，突出了女性身体、性别身份与权力之间的微妙关系。程序性的催眠与情感牵扯交织，使得角色在自我认同与外界期望之间产生了激烈的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_高跟鞋与服从.docx]([改造]_高跟鞋与服从.docx)
 | Size            | 94603 bytes                           |
 | MD5             | f7070ffabc52115f6f239ee79d28a770                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 催眠, 高跟鞋, 性奴, 暗黑向, 角色扮演, 控制, 身份认同, 女性主义, 心理操控, 爱情与性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

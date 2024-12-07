@@ -7,7 +7,7 @@ TXT 下载: [[改造]_卡文了转换心情《李沐权的母狗游戏》.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描绘性别转换和伪娘题材的小说，标题为《李沐权的母狗游戏》。故事的主人公李沐权，一位普通的男性社畜，与好友刘洱荀有着近乎兄弟的关系。由于好奇，李沐权在一次与刘洱荀的聚会中按下了一个神秘的遥控器，导致他经历了痛苦而奇特的身体变化，从男性转变为女性。随着身体的变化，李沐权不得不面对自身身份的改变以及逐渐增大的自我认知冲突。小说中展现了对性别认同、自我探索以及堕落的探索，风格独特且带有一定的极端情节和性暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_卡文了转换心情《李沐权的母狗游戏》.doc]([
 | Size            | 54272 bytes                           |
 | MD5             | cfbcdf1f35d61568cab891c073504ca4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 自我探索, 奇幻, 强烈性暗示, NTR, 调教, 逆后宫, 逗趣, 成人小说, 性转, 狗角色扮演, 白袜控, 短裙, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

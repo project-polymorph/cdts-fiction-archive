@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【诸天黑牙商】（8）.doc]([改造]_【诸天黑牙
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《诸天黑牙商》的第八章，主要描绘了角色慕容复运用媚功对古月施展魅惑的情节。在这个章节中，慕容复为了获取古月的力量，使用了媚功，并伴随着强烈的性暗示。古月最初感到恐惧，但在慕容复的调侃和行动下，逐渐表现出依赖和爱慕的迹象。文件中提到了一种名为“后土光辉”的重要力量，它对鬼魂有保护作用，且具备魅惑人的效果。慕容复想要通过和古月的亲密关系来增加自己的气运，并经过一番讨价还价，与古月达成了一个需要他日常献祭的协议。这个章节展示了角色之间的权力动态与性别角色的转换，以及占有欲与操控欲的结合。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【诸天黑牙商】（8）.doc]([改造]_【诸天黑牙
 | Size            | 36864 bytes                           |
 | MD5             | a50214353af6aa81854e439d6b51b4a6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 媚功, 气运, 交易, 权力动态, 自我探索, 强烈性暗示, 古代奇幻, 男女关系, 角色转变, 幻想, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

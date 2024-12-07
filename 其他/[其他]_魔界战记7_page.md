@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魔界战记7.docx]([其他]_魔界战记7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《魔界战记》第七章，讲述了主角贾奈在小镇赛路提亚的冒险经历。在这一章中，贾奈被一位自称命运之子的少女爱尔温•德•穆普利亚所接触，后者是吸血鬼真祖，向贾奈讲述了她被封印的力量以及寻找魔界三神器的任务。贾奈虽然对自己的身份感到疑惑，但在与爱尔温的交流中产生了合作的可能。故事展现了贾奈与爱尔温之间的互动，以及贾奈在异世界的探索与成长。小说讨论了命运、力量、契约等主题，同时包含了一些幻想元素和吸血鬼文化的描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魔界战记7.docx]([其他]_魔界战记7.docx)
 | Size            | 18690 bytes                           |
 | MD5             | b75202c97858e087f87b1d624ca60396                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔界战记, 吸血鬼, 命运之子, 变身, 奇幻冒险, 契约, 力量探索, 自我认知, 幻想文学, 角色互动, 异世界, 魔法, 扫描, 伪娘, 性别认同, 冒险, 携手合作, 女主角, 女孩子                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

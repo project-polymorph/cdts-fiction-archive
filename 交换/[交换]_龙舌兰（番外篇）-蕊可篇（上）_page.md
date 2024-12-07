@@ -7,7 +7,7 @@ TXT 下载: [[交换]_龙舌兰（番外篇）-蕊可篇（上）.docx]([交换]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为小说《龙舌兰》的番外篇，聚焦于角色蕊可的内心世界与夜生活场景。故事开始于平安夜前夕，地点设定在美国洛杉矶，描绘了一个穿着紧身黑色皮衣的美艳女性蕊可，她步行在寒冷的街道上，显得孤独且与世隔绝。作为一位离婚的女性，蕊可在酒吧中寻找片刻的安宁，面对着陌生人的调侃与搭讪。在她与调酒师的对话中，可以感受到她内心的烦闷与对过往生活的追忆。本文以细腻的笔触刻画了蕊可从曾经的幸福到如今的失落，并反映出她在寻找情感寄托与生理需求之间的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_龙舌兰（番外篇）-蕊可篇（上）.docx]([交换]
 | Size            | 29784 bytes                           |
 | MD5             | a5479335fefbbd476697ec13b12306f8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 夜生活, 蕊可, 洛杉矶, 离婚, 情感探索, 自我认知, 成人内容, 酒吧, 心灵孤独, 强烈女性视角, 美艳女性, 情感空窗, 刺激与放纵, 夜晚狂欢, 男性角色, 性暗示, 内心纠结                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

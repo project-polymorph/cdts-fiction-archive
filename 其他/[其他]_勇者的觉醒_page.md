@@ -7,7 +7,7 @@ TXT 下载: [[其他]_勇者的觉醒.docx]([其他]_勇者的觉醒.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部性转题材的小说《勇者的觉醒》，故事围绕一名勇者被召唤到魔法世界，面对魔王威胁的情节展开。主人公在接受使命时，内心充满对自己剑术的渴望与对新世界的好奇，反映出其英雄梦与现实的冲突。本文中描绘了勇者殿下与尼娜等女角色的互动，带有一定的性暗示与女性的依附角色设定。具体的情节包括浴室的洗浴场面及勇者觉醒仪式，文字中涉及男性对女性的视角以及对美丽女仆的欣赏，并借用夸张的手法表现勇者在新世界的享乐与权力象征。由于行文包含了一些性别转换和性方面的内容，读者需考虑年龄与接受程度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_勇者的觉醒.docx]([其他]_勇者的觉醒.docx)
 | Size            | 33591 bytes                           |
 | MD5             | 24976ccf6c4a1beddcac48be00a74e4c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 原作・あむぁい（加筆編集・風祭玲）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 勇者, 性转, 女仆, 魔法, 异世界, 性别认同, 浴室, 英雄主义, 女性角色, 强权, 性暗示, 勇者觉醒, 自我探索, 性别转换, 魔王, 尊敬与憧憬, 温顺, 依附角色, 冲突与转变, 吸引力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

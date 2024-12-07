@@ -7,7 +7,7 @@ TXT 下载: [[改造]_万事通三.doc]([改造]_万事通三.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件主要讲述了一对情侣在海滩度假的日常，情侣之间的互动充满调侃与冲突，尤其是随着故事的发展，男主角的性别和生理情况发生了奇妙的变化。文本详细描写了他们在海滩上悠闲漫步的场景，随着情节的推进，男主角逐渐意识到自己体内发生的变化，还透露出一些涉及性别和身份认同的主题。故事中的对话生动活泼，包含了一些暧昧和幽默的元素，尤其是男主角与女友丽在改变后的新生活中探索彼此身体和性别角色的微妙变化，展现了性别认同与心理冲突之间的复杂联系。整篇文章在轻松的语气中潜藏着对未来的担忧和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_万事通三.doc]([改造]_万事通三.doc)
 | Size            | 64000 bytes                           |
 | MD5             | 06eff2c4f98f60cb6e5d58520c5d6c26                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | lwen23                               |
+| Region          | 未知                               |
+| Date            | 2021-04-09                                 |
+| Tags            | 性别认同, 变身, 心理探索, 幽默, 跨性别, 恋爱, 海滩, 日常生活, 自我认知, 性别角色, 两性关系, 双性向, 悖论, 情感纠葛, 奇妙的变化, 自我保护                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

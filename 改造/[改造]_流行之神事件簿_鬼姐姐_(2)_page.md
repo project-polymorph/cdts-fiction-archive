@@ -7,7 +7,11 @@ TXT 下载: [[改造]_流行之神事件簿_鬼姐姐_(2).docx]([改造]_流行�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《流行之神事件簿：鬼姐姐》是一部以超自然现象和复杂人际关系为主题的小说，围绕着两位主角——植物人姐姐和她的妹妹展开。故事发生在东京警视厅地下五层，里面存放着一些非常罕见和不为人知的案件。主角风海纯警部抽出了一份关于鬼魂的口供，展现了一个关于灵魂、他人记忆以及人际羁绊的故事情节。
+
+小说中，鬼姐姐以一种幽默而又略带悲伤的语气描述了自己作为鬼魂的生活，提及了她对妹妹的感情和过去的回忆。情节中包含了对角色性别及身份认同的探讨，鬼姐姐的双重身份引发了对自我理解的思考。故事的核心探究的是生死、互相依偎与存在的意义，令人深思。
+
+此外，文本中夹杂了许多富有想象力的描绘，以及对于幽灵和生死关系的探讨，特别在两个姐妹之间渗透着一种血肉相连却又无可奈何的情感。文本涵盖了兄妹情的深度描写，同时也涉及到诸如变身、鬼魂、情感依赖等复杂主题，展现了对生命及灵魂的多角度反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[改造]_流行之神事件簿_鬼姐姐_(2).docx]([改造]_流行�
 | Size            | 21082 bytes                           |
 | MD5             | 00ed469913f13713e29b552f37cb6b4b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | qilixiang                               |
+| Region          | 未知                               |
+| Date            | 2013-08-17                                 |
+| Tags            | 超自然, 灵魂, 鬼魂, 姐妹情, 身份认同, 性别转换, 自我探索, 心灵羁绊, 变身, 悲爱情节, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

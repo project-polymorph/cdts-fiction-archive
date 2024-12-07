@@ -7,7 +7,7 @@ TXT 下载: [[附身]_有了女友，兄弟不要了？（上）.docx]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章属于作者创作的“女友系列”日常小说，描绘了主角杨杰与女友邱文静在大学生活中的小故事。小说开头回忆了两人第一次相遇的情景，描绘了邱文静的文静与内向，逐渐开启了他们的恋爱与同居生活。故事中提到他们在校外租住一房一厅的出租屋，在相伴与校园生活的点滴中，展现了一种平淡而幸福的生活方式。同时，小说中描写了他们的亲密关系，包含了一些内容细节，如第一次亲密接触时的羞涩，感情中的小互动。此外，故事也涉及到主角与友人阿和的交往，关于看世界杯的幽默对话以及阿和带来的一些奇怪物品的讨论。整体上，这是一部充满青春气息的成长小说，侧重于细腻的人际关系与情感描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_有了女友，兄弟不要了？（上）.docx]([附身]_
 | Size            | 42412 bytes                           |
 | MD5             | 88d94a4d1543daeff0e115e8140ad308                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校内恋情, 大学生活, 同居, 亲密关系, 青春成长, 日常生活, 第一视角, 情感波折, 校园交友, 轻松幽默, 女友系列, 文学创作, 恋爱故事, 青春校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

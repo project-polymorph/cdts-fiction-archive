@@ -7,7 +7,7 @@ TXT 下载: [[变装]_女卧底的自述.docx]([变装]_女卧底的自述.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档《变装：女卧底的自述》是一篇描写一名男性卧底警察为了执行任务而变性为女性的色情小说。在故事中，主人公通过伪装成妓女混入毒贩圈子，随着时间的推移，他逐渐陷入了这种生活的漩涡，体验到了复杂的欲望和羞辱。文中详细叙述了他在夜总会的生活，包括和毒贩刘哥的关系，以及在与其他客人的交往中产生的内心矛盾和心理变化。主人公的情感反应十分明显，比如他在被迫接受自己新身份时的挣扎，和在任务进行中的各种冲突，尤其是他对家庭妻子小茹的愧疚与内心的真实欲望之间的张力。文本描绘了性交易环境的细节，以及主人公由此产生的性别认同困惑、欲望的觉醒与麻木感。这是一篇具有很强情感冲突和色情内容的作品，适合研究性别认同和跨性别主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_女卧底的自述.docx]([变装]_女卧底的自述.docx)
 | Size            | 51577 bytes                           |
 | MD5             | 68c2875f0733d90bda7862afd08cff26                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 小轩窗                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-07-17                                 |
+| Tags            | 变装, 性别认同, 卧底, 色情, 夜总会, 毒品交易, 自我探索, 心理挣扎, 家庭矛盾, 性转, 跨性别, 社会边缘, 复杂情感, 女性化, 卧底生活, 欲望与羞辱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

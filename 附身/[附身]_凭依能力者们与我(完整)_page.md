@@ -7,7 +7,7 @@ TXT 下载: [[附身]_凭依能力者们与我(完整).docx]([附身]_凭依能�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《凭依能力者们与我》，其内容涉及了一个围绕附身和身体占有的成人主题故事。在这个故事中，角色们通过附身能力来占有他人的身体，展开了一系列复杂而亲密的情节。文章开头描述了双胞胎姐妹在床上发生的亲密行为，伴随着生动且细腻的语言描绘了性行为的过程，包括舔、亲吻和身体交缠等场景。文中同时探讨了角色在身体占有状态下的内心挣扎与自我认知的变化，以及对这种状态的无奈与接受。故事中不仅有对身体的欣赏，也包含了对于性别角色的挑战与反转，涉及跨性别和性别认同的问题。整个文本夹杂了大量的性暗示与成人内容，描绘了性行为的多样性。这部作品出现在二次元的成人平台上，内容适合成年观众，仅供科研与学术学习使用。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_凭依能力者们与我(完整).docx]([附身]_凭依能�
 | Size            | 31225 bytes                           |
 | MD5             | 27d3381023bb65ad893ae82a7aa08cb6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身, 性转, 跨性别, 双胞胎, 百合, 亲密关系, 自我认同, 性行为, 情感探索, 强烈欲望, 角色扮演, 性别交换, 青年, 二次元文化, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

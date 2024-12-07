@@ -7,7 +7,7 @@ TXT 下载: [[交换]_急性換身慾望—醫院篇〈七〉：與丈夫的初�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《急性换身欲望——医院篇（七）：与丈夫的初体验》的章节，主要讲述了角色在一次神秘的超自然现象影响下，和另一位角色发生身体交换的故事。在这个过程中，角色们在新的身份和身体里探索自我认同以及伴随而来的情感与欲望。故事聚焦于角色在性别身份转换后所产生的复杂情感与身体感知，详细描绘了角色在换身初期对自身身体的新认知与逐渐适应的过程：比如角色在日常生活中对女性身体的探索与新感受，以及对过去身份的反思。内容中融入了性行为的描写，表现了角色在肉体与身份上的纠葛和情感。这部作品涉及急性换身欲望的设定，包含性行为、角色互换等情节，反映了性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_急性換身慾望—醫院篇〈七〉：與丈夫的初�
 | Size            | 76288 bytes                           |
 | MD5             | a85f5cb941f074d9b86d432c7fb9901f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 急性换身, 性转, 身体交换, 女性认同, 自我探索, 性行为, 非直线叙事, 超自然现象, 黑道背景, 职业女性, 心理冲突, 日常生活, 性欲, 深入描写, 角色认同, 情感交流, 变装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

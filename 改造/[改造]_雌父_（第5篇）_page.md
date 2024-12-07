@@ -7,7 +7,7 @@ TXT 下载: [[改造]_雌父_（第5篇）.docx]([改造]_雌父_（第5篇）.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说档案中的一篇，通过描述汉城在飞往眠州的航班上发生的变化，引入了角色性别转换的情节。故事开头，汉城在飞机上神思恍惚，随后揭示出他的外貌在四天前经历了巨大的变化，已经无法与过去的自己联系起来。文中详细描写了角色从男装到女装的转变，以及在夜澜国际商贸中心的经历。在这个繁华的商业区，韩晋和小水两位角色在店内换衣时，面临的种种情感与心理纠葛逐渐显现。随后，两人之间产生了曖昧与性欲交织的情节，带来了同性恋及性别认同的探讨，并以换衣间的场景展现出他们在公共场所的私密互动。这篇小说以细腻的心理描写和生动的场景设置，展现了转变与自我认同的冲突，涉及强烈的性暗示和性相关内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_雌父_（第5篇）.docx]([改造]_雌父_（第5篇）.d
 | Size            | 43756 bytes                           |
 | MD5             | 053d96eaa474a094f883e4ab4e0a9815                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变性, 性别转换, 情欲, 二次元, 性取向, 变身, 变装, 同性恋, TSF, 成人内容, 人物关系, 心理冲突, 情感探索, 角色认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

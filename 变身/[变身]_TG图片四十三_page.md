@@ -7,7 +7,7 @@ TXT 下载: [[变身]_TG图片四十三.doc]([变身]_TG图片四十三.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含多则关于变身和性别转换的小说片段，主要围绕主角因室友的恶作剧而变身为猫耳娘的经历，以及在不同情境下角色的自我认知和冲突。其中有室友通过一个魔法项圈将主角变成猫耳娘，主角在变身后的体验和心态变化被详细描绘，强调了角色在新的身体状态下对于自身身份的困惑与适应。此外，文中还涉及了其他角色变身后的情感和心理变化，如女队长在身体转换后面临的性别认同和欲望的冲突，构成了丰富的叙事层次。文中带有较多色情描写，涉及性别、欲望和自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_TG图片四十三.doc]([变身]_TG图片四十三.doc)
 | Size            | 35840 bytes                           |
 | MD5             | 1d9843128727c9074a96785c42b9eb47                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 猫耳娘, 性别认同, 恶作剧, 魔法, 欲望, 自我探索, TSF, 跨性别, 心灵转变, 女性视角, 恶搞, 异世界, 幻想, 性别角色, 调教, 纯爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

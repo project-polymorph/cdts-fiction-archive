@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_喉舌计划（利卡洛外传）.doc]([皮物]_喉舌计�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《喉舌计划（利卡洛外传）》，内容属于伪娘及变身类小说，主要讲述了利卡洛公主在皇宫内的一系列日常生活和禁忌情感的探索。故事通过细腻的描写展现了利卡洛公主的华丽宫装和她在高跟鞋步伐下的优雅，同时隐含了她身体内的身份纠葛。作品中涉及的角色包括公主、皇后和她的妹妹琳达，透过细腻的对话与场景描绘，展现出其之间复杂的情感互动与内心挣扎。故事中还包含了一些限制级的情节，如对身体的探索与性暗示的描写，给读者带来了强烈的视觉与心理冲击。将角色的身心体验融合，表现在小说的叙述之中，比如”裙底下，一双修长的美腿夹紧自己露出的光滑的小穴“，以及利卡洛对母后与妹妹的复杂情感交织。总体而言，作品在展示角色内心的同时也探索了性别认同的深层次主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_喉舌计划（利卡洛外传）.doc]([皮物]_喉舌计�
 | Size            | 84480 bytes                           |
 | MD5             | bbf8e0744456f701e2be185afe88241e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 王室生活, 禁忌情感, 皇宫贵族, 华丽宫装, 性别探索, 情感纠葛, 性暗示, 年龄差, 妹控, 强奸, 人际关系, 身体认同, 自我探索, 渴望, 权力与身份, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

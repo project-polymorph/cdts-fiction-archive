@@ -7,7 +7,9 @@ TXT 下载: [[变性]_DTX之新生-9.doc]([变性]_DTX之新生-9.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位角色在一天中的日常生活，特别是她作为转变成女性后的新身份体验。故事设定在一个周六的早晨，角色早上起床后在家中的活动室进行锻炼，以保持体力。在剧中，她提到自从身体改造后，体力有所下降，从而希望能透过运动来改善自己的状态。角色以运动文胸和压力裤的形象出现，与她的身体变化相适应，也展现出对她新身份的自我认知。
+
+在运动过程中，她意外遇见了王茜，自己曾经的爱人，情感复杂。两人的互动中透露出对过去感情的回忆与纠葛，角色对自己的外貌感到羞愧，紧张且不安。尽管如此，王茜对她表现出了一定的友好，给她带来了奢侈品作为礼物，两人还围绕工作大纲展开了讨论，增添了彼此之间的亲密感和信任感。文中细腻描写了角色的心理变化和女性特征，展现了性别认同与自我探索的主题。这段经历看似平常，却隐含着深刻的情感交流与角色之间的相互理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_DTX之新生-9.doc]([变性]_DTX之新生-9.doc)
 | Size            | 49152 bytes                           |
 | MD5             | d12e15cb7fd34a4a77b492dbc399a093                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 角色转变, 恋爱关系, 运动, 奢侈品, 日常生活, 心理变化, 人际关系, 女性视角, 情感交流, 友谊, 成长, 变身, 二次元, 跨性别文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

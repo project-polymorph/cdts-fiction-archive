@@ -7,7 +7,7 @@ TXT 下载: [[变装]蓝荆花档案_第四章.doc]([变装]蓝荆花档案_第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《蓝荆花档案》第四章，内容围绕五名女性角色的培训期进行故事叙述。她们在任务执行前经历了外貌上的调整，借助药物和医疗手段，每个人都发生了很大的变化。韩齐与张眉两位角色在这一章中以对话的形式表露出自己对于变化的不满与自嘲，讲述了她们各自的任务和未来的期待。在训练中，角色们身着修身的服装，展现出优美的身姿，捕捉了人们目光。两个角色对彼此的外貌变化有着复杂的情感，既感到疑惑又随着变化而产生些许魅惑与痴迷。整体故事展现主题包括性别转换、外貌改造及角色自我认知的转变，还涉及到社会对角色们新身份的看法与接纳。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]蓝荆花档案_第四章.doc]([变装]蓝荆花档案_第�
 | Size            | 32768 bytes                           |
 | MD5             | 9dd25290f3b61effde16f1ccba110a95                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 外貌改造, 角色自我认知, 二次元小说, 青春成长, 职业任务, 公众身份, 魅惑与吸引, 团队合作, 现代都市, 删繁就简, 社交形态, 强烈的个人体验, 反差萌, 人际关系, 转变与适应                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

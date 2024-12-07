@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【乐园计划】第三十三章：邪恶的蔓延（二�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别主题小说的第三十三章，标题为《邪恶的蔓延（二）》。故事围绕着角色浅夏、柯蕾雅及其他角色的互动展开，情节中涉及魔族的阴谋与角色的变换。浅夏在醒来后感到监视器失联，推测柯蕾雅在隐瞒什么。她随即前往柯蕾雅的住处，发现房间散发淫靡气味，暗示着某种邪恶活动。随着情节的发展，乌塞的强盗首领身份与柯蕾雅的阴暗交易也逐渐浮出水面。柯蕾雅用魔法月光改造乌塞的身体，使他从一个强盗首领转变为年轻漂亮的少女露丝。小说融合了变性及魔法等元素，展现了性别认同与自我探索的复杂心理过程。作品中涉及许多禁忌和性暗示的情节，内容适合成年人阅读，以探索性别与身份的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【乐园计划】第三十三章：邪恶的蔓延（二�
 | Size            | 21201 bytes                           |
 | MD5             | 333e7c4fa142e112d1e45d7d2eb8f8d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 变身, 性别转换, 跨性别, 阴暗交易, 自我认知, 青春, 魔族, 角色扮演, 冒险, 奇幻, 欲望, 身体改造, 黑暗幻想, 女性角色, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

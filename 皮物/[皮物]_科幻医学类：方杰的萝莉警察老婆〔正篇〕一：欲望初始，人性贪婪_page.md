@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_科幻医学类：方杰的萝莉警察老婆〔正篇〕�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《方杰的萝莉警察老婆》是一本涉及科幻及医学主题的小说，围绕人物方杰和他的女友王雪柔展开。故事从人性的探讨和对外太空生物的研究切入，逐渐引入失踪案的神秘情节。小说中，方杰作为学生面对女友的异样关心，同时卷入了林芳失踪案的调查。随着情节的发展，涉及神秘的外太空生物与人类基因的结合，探讨了人性、欲望和科技的极限以及身份的复杂性。据文中所述，失踪案牵扯到绑架和枪战，警局的相关人员也引发的种种疑问，邻近的宠物狗似乎隐藏着更多的秘密。通过王雪柔的内心独白，进一步揭示了身份的错位与情感的纠葛，使整部作品富有层次和深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_科幻医学类：方杰的萝莉警察老婆〔正篇〕�
 | Size            | 23401 bytes                           |
 | MD5             | 1babc310e8fbb3bbf2af909f56a0afc4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 外太空生物, 基因研究, 人性贪婪, 失踪案, 绑架, 情感纠葛, 身份认同, 宠物狗, 警察, 欲望, 精神状态, 心理探索, 校园, 阴谋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

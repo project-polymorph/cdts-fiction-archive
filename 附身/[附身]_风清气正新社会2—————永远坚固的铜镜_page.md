@@ -7,7 +7,7 @@ TXT 下载: [[附身]_风清气正新社会2—————永远坚固的铜镜
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件详细介绍了名为"铜镜计划（BRISM）"的绝密人口净化项目，其由c国国家卫计委于2120年启动，目的是为了通过考试销毁被认为是"低素质"的人口。这项计划引起了广泛的社会反响，2135年，前法刑警冯清向媒体披露了该计划的有关信息，随后遭到c国政府通缉。文件中的内容描述了冯清的逃亡过程以及相关的政治斗争。此外，文中提到了一种通过改造的麦角菌实现对人脑的控制技术，揭示了该计划涉及的深层次伦理问题。内容中也交织着科技与阴谋的主题，并包含对角色内心冲突和自我认知的探讨，展示了一个对现实社会深刻反思的虚构故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_风清气正新社会2—————永远坚固的铜镜
 | Size            | 38400 bytes                           |
 | MD5             | 04f9ce5894928a657f85a4b3ccde235b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2135-06-06                                 |
+| Tags            | 铜镜计划, 人口净化, 冯清, 控制舱, 政治阴谋, 科技伦理, 跨国斗争, 绝密计划, 角色内心冲突, 社会反响, 人物追逐, 意识控制, 科幻小说, 政治避难, 城市管理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

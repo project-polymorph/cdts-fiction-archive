@@ -7,7 +7,7 @@ TXT 下载: [[交换]_肉体は役、精神は演者な入れ替わりの話（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及性别交换和跨性别主题的小说，描绘了角色之间的身体与精神的互换。故事围绕主人公在寒冷的天气中回家，与其母亲的日常对话展开。随着情节发展，主人公展现出一种特殊能力，能够与他人交换身体和记忆，进入他人的生活。角色的性别动态变化带来了一系列尴尬和有趣的场景，尤其涉及家庭成员与朋友之间的互动。文中提到的能力使得角色身份的转换变得轻而易举，在这样的设定下，角色扮演的心理变化和社会认同的问题显得十分突出。小说的情节涉及对亲子关系、性别认同的探讨，以及角色之间微妙的情感和伦理困境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_肉体は役、精神は演者な入れ替わりの話（�
 | Size            | 54784 bytes                           |
 | MD5             | 17c87bf05fbc5510d41097fe7bf190c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 身体交换, 角色扮演, 伦理困境, 家庭关系, 少年成长, 自我探索, 二次元文化, 身份认同, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

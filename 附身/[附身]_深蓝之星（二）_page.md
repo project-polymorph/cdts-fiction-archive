@@ -7,7 +7,7 @@ TXT 下载: [[附身]_深蓝之星（二）.doc]([附身]_深蓝之星（二）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《深蓝之星（二）》为一部以附身与性转为主题的小说，主要讲述了清宫优子与她复生的妹妹清宫优香之间复杂而扭曲的关系。故事中，妹妹优香在被使徒附身后，具备了强大的吸取他人能力并向姐姐提出了要求。文本通过细腻的描写展示了优子内心的挣扎与不安，以及她在面对被附身的妹妹时的绝望。故事情节包含强烈的情感冲突与身体转变，在权力与欲望的交错中往复，展示出角色之间的深刻联系和复杂的心理变化。在故事中，优香主动向优子索取魔力，并进行了一系列情感与肉体上的互动，突出表现了她们身份与欲望的纠葛。作品中的魔法元素与附身情节增添了虚幻的色彩，使得情节更加吸引人。这种交错的亲情与欲望探索出了一条不寻常的道路，引发读者对于性别、身份及人际关系的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_深蓝之星（二）.doc]([附身]_深蓝之星（二）.
 | Size            | 46080 bytes                           |
 | MD5             | 2cae83bb1152814a2bba5ace5a496566                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性转, 跨性别, 魔法, 两性关系, 欲望, 绝望, 青春, 角色扮演, 痛苦挣扎, 复杂情感, 黑魔法, 姐妹关系, 肉体, 自我认同, 人格分裂                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

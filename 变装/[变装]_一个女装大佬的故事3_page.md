@@ -7,7 +7,9 @@ TXT 下载: [[变装]_一个女装大佬的故事3.doc]([变装]_一个女装大
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了女装大佬林倩与学姐欧阳青之间的一段亲密故事。在一个夜深人静的时刻，刚结束直播的林倩在门口遇见了学姐欧阳青。两人的对话透漏出彼此的好感与暗恋。林倩对夜宵的邀请迟疑，但最终在学姐的热情下答应了。一路上的驾车与对话中，林倩对学姐的身份与家庭背景投去好奇的目光，暗自感慨，而学姐则以某种方式回应她的疑虑。
+
+在一家夜宵店里，林倩因为紧张而感受到身体的变化，却在学姐的保护下度过了难关。当夜宵结束，两人回到林倩的公寓，随着酒意上来，气氛逐渐趋向暧昧，最终两人之间的关系发生了改变，林倩大胆地表达了对学姐的爱意，并展开了一系列亲密的举动，双方都沉溺于彼此的情感与身体之中。文中夹杂了一些性感与性暗示的内容，展示了两人从朋友到恋人间的转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_一个女装大佬的故事3.doc]([变装]_一个女装大
 | Size            | 37888 bytes                           |
 | MD5             | 22352dfffad6272881fdfa725031ff28                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 恋爱, 伪娘, 青春, 自我认同, 暗恋, 女装大佬, 夜宵约会, 酒后情事, 亲密关系, 学姐, 校园, 午夜, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

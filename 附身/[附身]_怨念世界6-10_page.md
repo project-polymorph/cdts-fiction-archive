@@ -7,7 +7,7 @@ TXT 下载: [[附身]_怨念世界6-10.doc]([附身]_怨念世界6-10.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别相关小说《怨念世界》的第六到第十章，讲述了主角陈柯在怨念空间中与其他角色的互动。陈柯通过怨念空间APP将建筑转变为可以容纳更多人居住的空间，重点描述了他如何收服角色并安排他们的居住方式。小说细致描写了几个角色（如唐大少、林夏和林春）在被收服后如何面临身份和身体的变化，以及人物间的冲突与戏剧化的情节发展。随着故事的发展，角色之间的关系逐渐紧张，由起初的懵懂和敌意，转变为对新生活状态的探索和应对。文中也涉及角色们在身体和自我认知上的强烈冲突以及心理挣扎，尤其是唐大少在变成伪娘后显现出的羞涩与抵触情绪。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_怨念世界6-10.doc]([附身]_怨念世界6-10.doc)
 | Size            | 78336 bytes                           |
 | MD5             | 8e0b491e85c5abe43321b4ebbcf6f478                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 怨念空间, 性别转换, 变身, 跨性别, 角色扮演, 心理冲突, 都市奇幻, 自我探索, 伪娘, 男娘, 系统游戏, 建筑升级, 代练, 收服玩家, 奇幻冒险, 成长, 身份认同, 角色关系, 性别认同, 戏剧化, 互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_原神同人_深渊魔女的诞生，神里绫华的新生
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《原神》同人小说，讲述了神里绫华在稻妻城的生活和经历。故事的背景设定在稻妻城的容彩祭期间，神里绫华因身体不适而缺席，引发城中居民的猜测。随着故事的发展，出现了一位神秘的须弥舞娘，她的医术卓越，为一些怪病患者带来了希望。此外，神里在房间中发生的一系列私密行为，揭示了她内心的挣扎与渴望。在经历了一系列的自我探索、欲望释放及与病人的接触后，她的身体逐渐发生变化，这似乎与她所接触的那些病人身份及其所吸取的“毒液”有关。文中包含对神里绫华情感与身体变化的细致描写和对抗内心矛盾的深刻刻画，同时也反映了她的身份与责任感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_原神同人_深渊魔女的诞生，神里绫华的新生
 | Size            | 74127 bytes                           |
 | MD5             | e21a36ed0338ff2ac36922835caa9a74                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 原神, 神里绫华, 性转, 伪娘, 变身, 跨性别, 自我探索, 医术, 怪病, 欲望, 身心变化, 二次元, 幻想, 魔法, 性别认同, 神秘舞娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

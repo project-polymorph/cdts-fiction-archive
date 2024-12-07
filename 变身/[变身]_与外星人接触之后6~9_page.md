@@ -7,7 +7,7 @@ TXT 下载: [[变身]_与外星人接触之后6~9.docx]([变身]_与外星人接
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于伪娘和变身相关的小说，内容围绕主人公经历了复杂的性别转变与自我认知的探索。故事中，主人公在与外星人接触后，通过纳米机器人技术实现了自己的性别转变，体验到了一种全新的女性身体的感受。文中详细描绘了主人公脱下女性皮囊之后，身体的变化以及心理的挣扎，表现了对女性美的赞美和对外在形象的迷惑。伴随纳米机器人的出现，主人公不仅需要重新学习和适应新的身体，还需学习如何使用与外星技术相关的生命能量。这篇小说有性别认同、自我探索及科技对身体变革影响等丰富的主题，通过主人公的视角展示了对人际关系及性别身份认同的深刻思考。同时，作品中出现了多个角色的背景介绍，展现了伪娘文化下的多样情感和社会互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_与外星人接触之后6~9.docx]([变身]_与外星人接
 | Size            | 72551 bytes                           |
 | MD5             | 76b573953a4cad2acff3fe0bd73a154b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 伪娘, 变身, 自我探索, 外星科技, 生命能量, 社交互动, 纳米机器人, 角色扮演, 心理冲突, 女性身份, 二次元文化, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

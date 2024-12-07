@@ -7,7 +7,7 @@ TXT 下载: [[改造]_我还是懒懒不想取名字直接发帖第二期.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身与跨性别相关的小说，故事围绕着一位前台员工与李医生的互动展开。在接受客户后，李医生允许员工享受半天假期。同时，故事涉及到角色之间关于身体转换和性别认同的对话。作者以幽默且细腻的笔触描写了角色对自身外貌和属性的思考，如角色渴望更换眼睛、对自身身份的认同以及对新姿态的期待。文章中提及了精致的世界观设置，例如高端健身会所的复杂人际关系和角色们的变身能力。文件段落之间展现了角色感情的细腻变化，以及在性别流动过程中所引发的内心冲突，展现出一种轻松但深刻的探讨。在最后，作者表达了自己写作的激情和希望，含有若干可能暗示虚幻与真实之间的细节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_我还是懒懒不想取名字直接发帖第二期.doc]([
 | Size            | 35840 bytes                           |
 | MD5             | b777c17afd40d8170b823bc35a16c471                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 伪娘, 变身小说, 人际关系, 角色探索, 身体变化, 青春, 自我认知, 社会期待, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

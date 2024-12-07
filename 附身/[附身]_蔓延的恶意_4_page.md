@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蔓延的恶意_4.doc]([附身]_蔓延的恶意_4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《蔓延的恶意》，是从一部围绕附身与精神操控主题的变身小说中提取的内容。故事的主角是相川裕树，他在一段时间内遭受周围人的冷漠和孤立，甚至被无端地指控为强奸犯，承受着极大的心理压力。随着情节的发展，相川的家人神秘失踪，他的内心愈发崩溃，唯有青梅竹马的山吹瞳始终陪伴在他身边，给以支持。两人之间的感情在困境中逐渐升温，并发生亲密关系。然而，一切并不如表面那么简单，学校内流言四起，他周围的人被同一个操控者矢田和也所洗脑，成为其奴隶，这个操控的真相让相川感到震惊。他亲身经历了情感的挣扎与背叛，面对的是真实与幻觉的交错。文件内容包含一定的成人情节，涉及性关系的细节与心理冲突，适合特定研究领域的深度分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蔓延的恶意_4.doc]([附身]_蔓延的恶意_4.doc)
 | Size            | 40960 bytes                           |
 | MD5             | 8bf6733b3fc7f075deb9f27d05bea3db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 附身, 强奸, 心理操控, 校园, 青梅竹马, 强烈情感, 洗脑, 精神操控, 心理斗争, 变身, 爱情, 青春, 成人内容, NTR, 情感冲突, 故事叙述                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

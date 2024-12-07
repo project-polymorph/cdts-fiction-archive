@@ -7,7 +7,7 @@ TXT 下载: [[变装]_最佳炮友.docx]([变装]_最佳炮友.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《最佳炮友》是个关于变装和跨性别主题的短文，讲述了一个伪娘角色的内心世界与性探索。主人公从八年前开始变装，经历了巨大的生理与心理变化，最终找到了真实的性兴趣与情感归属。故事中充满了性探索的细腻描写，尤其是与不同男性的关系及相关情节。文中合理穿插了性的自我认同、与男性的亲密接触，以及伴随而来的心理波动与生理反应。主角的冒险经历展示了对自我的探索以及对性和爱的渴望，情节包含大量生动的细节和富有挑逗性的语言。这篇作品突出表明了主人公对变装与性伴侣的渴望，以及在两者之间寻求平衡的复杂心理状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_最佳炮友.docx]([变装]_最佳炮友.docx)
 | Size            | 28015 bytes                           |
 | MD5             | 6bbfd6e5d800c5674dccde0635c37292                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变装, 性探索, 爱情, 同性恋, 心理变化, 性别认同, 情感关系, 成人内容, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

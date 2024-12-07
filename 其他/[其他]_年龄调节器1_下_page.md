@@ -7,7 +7,7 @@ TXT 下载: [[其他]_年龄调节器1_下.docx]([其他]_年龄调节器1_下.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于年龄调节器的性转小说，讲述了主人公利用年龄调节器改变他和姐姐的身体与年龄。故事开头，主人公尝试调节姐姐的年龄，伴随着调节过程，姐姐的身体与精神状态均发生了变化。在调节过程中，姐姐的行为显得像个小学生，表现出害羞和娇弱的性格。主人公和姐姐的互动中展现了家庭关系的细腻，同时也描绘了性别和年龄调节带来的心理变化。文中具体描述了年龄调节器的功能，讨论了调节后产生的性别认同和社交情境，涉及了温馨最终回归日常生活的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_年龄调节器1_下.docx]([其他]_年龄调节器1_下.d
 | Size            | 23677 bytes                           |
 | MD5             | fab9462fed232ff94de261948c575e16                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 年龄调节器, 家庭关系, 性别认同, 自我探索, 奇幻, 冒险, 文艺, 日常生活, 年龄变化, 情感纠葛, 角色转变, 心理变化, 百合, 青春, 校园故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

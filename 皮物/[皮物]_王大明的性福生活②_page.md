@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_王大明的性福生活②.docx]([皮物]_王大明的性
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘 TS 变身与跨性别主题相关小说的第二章，主要讲述主角王大明在大学期间的社团生活。故事开始于主角的社团活动，主角意外地加入了“现代视觉文化研究会”，原本以为社团是轻松的同好会，却发现其中的工作和责任远超想象。主人公与社团内的同学们，尤其是拥有强大资金支持的社长及其团队形成了对比。内容中融入了校园生活、社团活动的繁忙以及主角对社团中美丽角色的羡慕与向往。更为引人注目的是对变装文化的初见，以及主角在社团活动和性别认同上的探索。文中包含了一些暗示性与性别相关的情节，尤其在描述一位被捆绑的女性角色时，充满了欲望与紧张的气氛，展现出对性别角色的挑战与混合。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_王大明的性福生活②.docx]([皮物]_王大明的性
 | Size            | 25399 bytes                           |
 | MD5             | e3fd902c61fc42aad21dff6335612c4e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 校园, 社团, 性别认同, 灵魂转移, COSPLAY, 人体改造, 青春, 恋爱, 黑丝, 少女, 剖析自我, 自我认知, 情感纠葛, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

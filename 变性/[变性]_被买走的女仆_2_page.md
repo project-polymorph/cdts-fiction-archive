@@ -7,7 +7,7 @@ TXT 下载: [[变性]_被买走的女仆_2.doc]([变性]_被买走的女仆_2.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为由作者Lisa Lovelace创作的性转题材小说，讲述了一个被雇为女仆的男性角色的故事。故事的开头介绍了主角得到这份工作的情况，包括丰富的福利和住宿条件，使得主人公感到十分满意。接着，故事详细描绘了主人公在新雇主N女士家中的生活，房间的布置也突出了一种女性化的气息，涉及到服装的变化与内心的挣扎。尤其是N女士要求主角穿女仆制服的情节，展现了性别认同与性别角色的冲突。整部作品通过细致的氛围及主角的内心独白，探讨了角色对性别的认知和适应过程，同时涉及女性服饰及生活细节，给予读者一种强烈的沉浸感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_被买走的女仆_2.doc]([变性]_被买走的女仆_2.do
 | Size            | 50176 bytes                           |
 | MD5             | 88d5d572f712958b6fbfe3a6ee2bc917                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lisa Lovelace                               |
+| Region          | 未知                               |
+| Date            | 2019-07-13                                 |
+| Tags            | 性转, 女仆, 跨性别, 自我认知, 性别角色, 女性化, 生活描写, 社会性别, 职业变身, 职场性别认同, 变性幻想, 角色扮演, 都市生活, 女性服饰, 心理变化, 纯爱, 家庭, 仆人关系, 性别认同, 骚扰                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

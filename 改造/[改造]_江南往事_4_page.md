@@ -7,7 +7,7 @@ TXT 下载: [[改造]_江南往事_4.doc]([改造]_江南往事_4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说的内容发生在民国时期，主要围绕男主角李长青的秘密行动展开。他假装成留学归来的园林设计师，潜入庄园，企图寻找有关汪克敏勾结境外势力贩卖人口和走私文物的机密文件。故事的情节跌宕起伏，李长青在潜入过程中意外发现了被侵害的女子牡丹。牡丹在服用毒品后，表现出强烈的欲望和痛苦的挣扎，她与李长青之间的互动充满了紧张和危险。李长青首先是作为牡丹的拯救者出现，但事态逐渐变得复杂，牡丹对汪克敏的顺从和反抗交替出现，揭示了人物内心深处的矛盾与挣扎。整个情节紧密联系，展现出人性中的欲望、反抗与屈服，伴随着对权力与控制的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_江南往事_4.doc]([改造]_江南往事_4.doc)
 | Size            | 45568 bytes                           |
 | MD5             | aecc5ef109c98db633f17c84f46b4f9b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 鬼畜奏                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 伪娘小说, 变身小说, 民国, 人性的挣扎, 权力与欲望, 暗恋, 秘密, 情欲纠葛, 自我探索, 逃离, 吸毒和依赖, 紧张情节, 反抗与顺从, 秘密文件                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

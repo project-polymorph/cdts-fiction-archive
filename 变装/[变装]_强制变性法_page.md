@@ -7,7 +7,7 @@ TXT 下载: [[变装]_强制变性法.doc]([变装]_强制变性法.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件名为《强制变性法》，描述了在2030年的华国，由于男女比例失衡，政府出台了一项强制变性法，要求所有私有制公司的男女员工比例必须为1:1，否则公司将被国有化并强制变性部分员工。文件中详细讲述了主人公兰斯在工作中面临的困境，这位市场总监的行政助理在公司会议中得知自己可能面临被强制变性的命运。为了保住工作，兰斯面临着选择参与自愿女性化项目，该项目的要求是外表和行为都需女性化，但在这一过程中，兰斯经历了对于自身性别认同的挣扎与思考。文中描述了锦绣前程背后的恐惧，以及与妻子冯伊的对话，反映了在新时代背景下，性别认同的问题与社会压力之间的冲突和矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_强制变性法.doc]([变装]_强制变性法.doc)
 | Size            | 83456 bytes                           |
 | MD5             | 20984f9e4680934cbd25c0db2cdab1c9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 强制变性法, 自愿女性化, 性别认同, 职场压力, 性别转换, 社会实验, 二次元设定, 心理冲突, 女性化培训, 2020年代社会问题, 冒名顶替, 生存困境, 职场性别歧视                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

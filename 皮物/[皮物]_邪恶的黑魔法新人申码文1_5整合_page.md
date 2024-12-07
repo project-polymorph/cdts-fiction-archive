@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_邪恶的黑魔法新人申码文1_5整合.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说《邪恶的黑魔法》的整合版，主要讲述了一个高二学生马建超在施展黑魔法后的奇幻经历。故事开始时，马建超的记忆中渐渐浮现出与校花许星艾有关的记忆，他通过黑魔法实现了灵魂的互换，生活也因此发生了翻天覆地的变化。作为一名具有魔法能力的少年，他探索了多种魔法，尤其是黑魔法的潜力。在故事中，存在与少女的强烈欲望和操控的情节，使得内容涉及强奸、调教以及其他限制级元素，反映了被边缘化的主人公与他施加于他人身上的权力关系。整个文件包含丰富的色情描写和对女性身体的细致描绘，以及性欲的表现与少女无力反抗的冲突。小说不仅探讨了魔法的阴暗面，同时也触及了性别认同及自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_邪恶的黑魔法新人申码文1_5整合.docx]([皮物]_
 | Size            | 75414 bytes                           |
 | MD5             | aaaf398606268968a0d7ee7148dca6d7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 黑魔法, 性别转换, 校园小说, 超自然, 强奸, 调教, 灵魂互换, 欲望, 自我探索, 未成年, 限制级, 少女, 奇幻, 恶趣味, 伪娘, 性别认同, 高潮, 魔法少女, 梦境, 心理操控, 调皮捣蛋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

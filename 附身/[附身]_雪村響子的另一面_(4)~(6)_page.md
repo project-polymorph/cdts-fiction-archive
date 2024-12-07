@@ -7,7 +7,7 @@ TXT 下载: [[附身]_雪村響子的另一面_(4)~(6).docx]([附身]_雪村響�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《雪村響子的另一面》是一本围绕着性别转换和附身主题的小说，主要讲述了主角雪村響子在意识被他人操控的情况下，努力寻找自己身体被夺取的原因和过程。故事中，響子设置了一台计数器以记录自己在被操控时失去意识的确切时间。随着故事的发展，響子不断进行实验，通过科技手段试图掌握由恶魔控制的自己的身体。小说深入探讨了女性身份的困惑和面对身体被他人利用时的无力感。内容明示了是在进行多次女性身份与社会期待之间的挣扎，同时也暗示了对性欲及梦境状态的探讨。文中涉及的主题包括：附身、性别认同、身体控制等，情节设定在一种模糊的黑暗中，探讨深刻而复杂的人性与欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_雪村響子的另一面_(4)~(6).docx]([附身]_雪村響�
 | Size            | 32343 bytes                           |
 | MD5             | d78fc597c157c90ff205c43c5c1bded6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性别认同, 恶魔, 自我探索, 意识控制, 身体干预, 黑暗幻想, 二次元文化, 性别转换, 女性视角, 情感纠葛, 身份危机, 快感体验, 科技实验, 心理斗争, 性别身份, 青春校园, 美少女, 幻想故事, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

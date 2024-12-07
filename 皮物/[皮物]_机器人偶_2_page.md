@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_机器人偶_2.docx]([皮物]_机器人偶_2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含了一段名为《禁断的测验》的小说章节。故事发生在一个高科技测试实验室，主人公小早川长月是该实验室的测试主管，她与一位名为乌鲁滋的同事进行互动。故事描写了他们对新型女性机器人（名叫Hatsune miku）的测试情节，并透过人物对话与行为展示了机器人和人类之间微妙而又复杂的情感交织。在测试中，小早川对机器人进行了一系列的检查和调试，同时显示出她对机器人的某种主导欲望。随着剧情的推进，机器人展现出自我意识和情感反应，引发了小早川的兴趣与冲突。片段中提到了一些与情感、身份以及性别认同相关的主题，同时也包含了一些暗示和性相关的内容，比如对机器人的外肤触感的描写以及与前辈的互动。整个故事以一种奇幻的科幻背景为依托，探讨了人机关系以及性别转换等多重主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_机器人偶_2.docx]([皮物]_机器人偶_2.docx)
 | Size            | 21534 bytes                           |
 | MD5             | 3b686a98bf9162272ce581ce641779ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 机器人, 科幻, 情感探索, 性别认同, 技术实验, 情欲, 自我认知, 女性角色, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

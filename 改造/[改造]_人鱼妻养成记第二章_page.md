@@ -7,7 +7,7 @@ TXT 下载: [[改造]_人鱼妻养成记第二章.doc]([改造]_人鱼妻养成�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部名为《人鱼妻养成记》的性转相关小说的第二章，讲述了角色莱克与温蒂之间的互动与情感纠葛。故事开始于莱克为温蒂熬制的药物，引出了温蒂因为喝下药物而感到不适的情节，莱克则表现出关心。当温蒂决定穿着乳胶人鱼泳装时，情节更是向外探索她的性别认同与自我实现的道路。小说中包含了魔法、性转、药性变化等元素，同时也涉及了角色间亲密关系的描写，多次展示了两人之间的调情和性暗示。温蒂为了追求自己的魔法能力，奋斗于学业与心灵的冲突，表现出了对自我价值与性别认同的探索。文中包含大量细节描述、情感起伏，及带有幻想风格的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_人鱼妻养成记第二章.doc]([改造]_人鱼妻养成�
 | Size            | 39936 bytes                           |
 | MD5             | 1c33fdcc0695d97c545c5e1fd42c359d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 魔法, 恋爱, 乳胶服, 人鱼, 修炼, 强奸, 调教, 多人, 男男恋, 奇幻, 古代, 都市, 魔法少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]柔弱大学生的雌堕_I.doc]([变装]柔弱大学生的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《柔弱大学生的雌堕 I》是关于一位名叫阿文的大学生的内心挣扎与身份认同的故事。他在大学的公共浴室里遭到室友们的嘲笑，因其身体的异常发育，使其在男性身份与女性特征之间产生冲突和困惑。阿文的故事展开在他向新室友晨哥租住的过程中，细腻地描写了他对自我身体的不安以及对周围人目光的恐惧。他偷偷购买女性内衣以掩饰自己的身体，但也同时渴望被接受，面临着性别认同的挑战。故事中充满了关于性别认同的思考和自我探索。阿文的一系列行为表现出他在自我认同上的迷茫和探索，例如他尝试通过身体的展示来引发晨哥的反应，以此来转移对自己身体缺陷的注意。在这个过程中，他的羞耻与炫耀，恐惧与期待交织在一起。此文描绘了一个复杂而敏感的主题，触及自我认知、社会期待与性别认同之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]柔弱大学生的雌堕_I.doc]([变装]柔弱大学生的�
 | Size            | 68608 bytes                           |
 | MD5             | 49bf2d20b9e3e3ac8c75f711d11c4203                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 性别认同, 校园生活, 羞耻与自我接纳, 角色冲突, 青春期困扰, 情感探索, 自我反思, 性别模糊, 社会压力, 房东与租客关系, 大学生活, 人际关系紧张, 身体羞辱, 性别表现, 心理挣扎, 性别认同的挑战                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

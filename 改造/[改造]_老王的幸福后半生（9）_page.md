@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老王的幸福后半生（9）.doc]([改造]_老王的幸
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《老王的幸福后半生（9）》的小说，是一篇以性转和跨性别为主题的作品。在故事的开头，一位身穿军装的女主持人在万钧的生日宴会上发言，透露出世界缘于变革而变得古怪。在宴会上，众多曾获得神奇力量的人们进行讨论，其中老王因看到屏幕上万钧的老婆变身成为万钧本人而感到困惑。万钧接着讲述了自五年前剧变以来的局势，提到某些人获得力量后纵欲放纵，尤其指出了自封为“红尘女侠”的苏飘的恶行。随着情节的发展，江河作为嘉宾之一，公开展示自己的变化，转变为类似女性的形象，展示了性别认同和自我价值的主题。整篇作品充满了对 gender identity 的探索与反思，以及对角色与自我认知的冲突的深入描述。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老王的幸福后半生（9）.doc]([改造]_老王的幸
 | Size            | 40960 bytes                           |
 | MD5             | 4cde6dee6ee2f77b4b8811f0dfa4388c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 伪娘, 红尘女侠, 自我认知, 权力与欲望, 社会变革, 角色冲突, 魔法, 军队, 二次元, 情节反转, 女性形象, 奇幻, 爱情, 斗争, 身份认同, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

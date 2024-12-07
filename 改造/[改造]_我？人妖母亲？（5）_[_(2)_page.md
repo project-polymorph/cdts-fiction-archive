@@ -7,7 +7,7 @@ TXT 下载: [[改造]_我？人妖母亲？（5）_[_(2).docx]([改造]_我？�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于性转与跨性别主题的小说，标题为《我？人妖母亲？（5）》。故事主要围绕一位名叫陈娟的女性角色，笔者通过她的视角讲述了她的日常生活以及潜在的心理变化。小说的开头描绘了陈娟在一个周末的早晨，起床后遇到了一些不同寻常的情境，例如她注意到身体上有异常的生理反应。这引发了她对自身性别认同和性欲的思考。同时，家庭中的另一角色陈威，似乎对母亲表现出不寻常的关注与欲望，暗示着一些禁忌的家庭关系。之后，这种复杂的情感在故事中不断交织，陈娟在无意中展现出对自己的性别身份和欲望的探索。情节中包含了一些较为露骨的描写，涉及性欲及其对角色心理的影响，反映了社会对性别认同与家庭关系的复杂看法。具体情节如陈威在房间中对母亲施加怪异行为，以及陈娟在困境中的挣扎，显示出作者对于这些主题的深刻探索和描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_我？人妖母亲？（5）_[_(2).docx]([改造]_我？�
 | Size            | 28039 bytes                           |
 | MD5             | b9deb2c66463e1cc44c0c379a0d1ec33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 默默不语                               |
+| Region          | 未知                               |
+| Date            | 2016-11-23                                 |
+| Tags            | 性转, 跨性别, 禁忌关系, 心理探索, 家庭, 欲望, 夕阳下的自我认同, 人妖, 伪娘, 变装, 强奸, 逆后宫, 淫荡, 调教, 变嫁, 一夜情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

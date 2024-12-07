@@ -7,7 +7,7 @@ TXT 下载: [[交换]_短篇【恶魔之镜】下.doc]([交换]_短篇【恶魔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇短篇小说《恶魔之镜》的最终章，情节围绕着主角性别转换后与父亲之间错综复杂的关系展开。故事中，主角意外地发现自己灵魂穿越到了母亲的身体，并经历了一系列心理斗争与身体反应。情节描写了主角对自身新身体的探索和与父亲的亲密互动，这种互动在性上呈现了混乱和冲突的情感。故事中包含大量色情内容，尤其是父亲与“母亲”之间的性爱描写，同时涉及自我认知、性别身份和伦理道德的探讨。虽然故事以作坊式的速写风格呈现，但却引发对性别认同和亲情界限的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_短篇【恶魔之镜】下.doc]([交换]_短篇【恶魔�
 | Size            | 50176 bytes                           |
 | MD5             | a94fd75bc7a3a4fe65d29b374fb8537b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 伦理冲突, 性别认同, 快感探索, 自我认知, 家庭关系, 幻想, 短篇小说, 成人内容, 亲子关系, 心理斗争, 角色扮演, 奇幻, 恋父情结, 禁忌关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

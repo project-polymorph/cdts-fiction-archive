@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_同學你有什麼困難可以說阿說不定我們可以�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一部关于男孩阿和在学校生活中的心理挣扎和情感探索的小说片段。阿和在男校读书，从未接触过女生，对于具有神秘感的女生世界充满好奇与憧憬。故事开始于阿和对班上一位叫筱祈的同学的暗恋，他勇敢地写下情书，却面临校花依馨的阻力。小说通过细腻的描写展现了阿和对爱情的期待与失落，以及他与朋友之间的互动。文中描绘了校园生活中的友谊与竞争，充满了青春的气息。情节中，阿和的好友清人则计划用一个名为“灰姑娘计划”的办法帮助阿和，让他有机会接近筱祈。文件的内容具有一丝幽默感和紧张感，吸引读者对后续发展充满期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_同學你有什麼困難可以說阿說不定我們可以�
 | Size            | 42453 bytes                           |
 | MD5             | df24c97df18240b536ad66d08359cf60                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 校园爱情, 伪娘, 情书, 青春, 情感探索, 男生与女生的互动, 强烈友谊, 暗恋, 青少年, 成长故事, 变身计划, 心理描写, 性别认同, 勇气, 同学间的调侃, 奇幻情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

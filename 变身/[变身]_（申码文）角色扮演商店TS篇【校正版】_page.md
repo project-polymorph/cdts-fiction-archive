@@ -7,7 +7,9 @@ TXT 下载: [[变身]_（申码文）角色扮演商店TS篇【校正版】.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为一篇关于变身与角色扮演的小说，原作者为日本创作者Sandever，作品名为《コスプレショップ　TS編》。故事围绕一个名叫‘真’的小男孩，他在一次偶然中得知有一家专门进行角色扮演的店铺，决定前往体验他的变身愿望。文中描述了小男孩怀着幼稚而又纯粹的好奇心，面对女性身份装扮的期待与羞怯。
+
+在店铺里，真遇到了一位美丽的女店员，她热情地向他介绍各种服装，并引导他尝试穿着。在经过一番探讨后，女店员向真提出，即使是男孩也能尝试女性的服装，逐渐展开了关于性别边界的探讨。整篇小说探讨了性别认同、自我探索、青少年的身份问题，展现了角色在体验过程中的心理变化和成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_（申码文）角色扮演商店TS篇【校正版】.docx
 | Size            | 43861 bytes                           |
 | MD5             | 3bf3c7343a4504f84b625069eb4f8edb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Sandever                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 角色扮演, 性别认同, 跨性别, 青春期困惑, 纯爱, 女装, 小男孩, 自我探索, 幻想, 女性形象, 店铺                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

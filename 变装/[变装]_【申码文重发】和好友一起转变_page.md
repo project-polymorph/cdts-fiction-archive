@@ -7,7 +7,9 @@ TXT 下载: [[变装]_【申码文重发】和好友一起转变.doc]([变装]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个性转及跨性别主题的短篇小说，叙述了直哉与好友勇太之间的互动，以及直哉对其姐姐的内心迷恋和幻想。小说通过直哉的视角探讨了性别认同和自我探索的复杂过程。故事中，直哉因为姐姐的关系逐渐感到孤独，进而尝试借助女装来感受姐姐的存在。故事充满了青春期男生对性与身份的探索，同时又夹杂着对亲情和欲望的扭曲感。
+
+小说开头，直哉好奇地被好友勇太引导前往公园窥探情侣，然而在这一过程中，他的内心冲突也逐渐显露——他对姐姐的情感与性取向的困惑交织在一起。随着情节的发展，直哉回忆起与姐姐的共处时光和对她身体的渴望，最后在女孩与男孩之间的相对关系中，表现出强烈的禁忌与嫉妒。在小说的后半部分，直哉与勇太共同女装出门，并产生了更多暗示性的情感交流，尤其是在他们共用一个狭窄的视窗，窃取他人亲密活动的情节中，二人之间建立了更加复杂的情感连接，让直哉不得不面对自己真实的欲望与身份认同的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_【申码文重发】和好友一起转变.doc]([变装]_�
 | Size            | 41984 bytes                           |
 | MD5             | d6a270511e6b5fb1b858651093e2df89                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | solenanthus                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转, 跨性别, 恋妹, 女装, 自我探索, 青春期, 禁忌恋, 欲望冲突, 青少年成长, 情感纠葛, 社会禁忌, 视角转换, 心理变化, 情感纠结                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

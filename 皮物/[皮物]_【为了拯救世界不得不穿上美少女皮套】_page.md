@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【为了拯救世界不得不穿上美少女皮套】.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一名少女在末世背景下与怪物战斗的故事。主角铁月在浑浊的世界中奋力对抗异兽，并寻求生存的希望。故事揭示了在绝望的情境下，少女的力量和勇气仍然存在，尽管世界已经陷入黑暗。文中提到了一种皮物，原为女武神的战斗服，它在特殊情况下能够赋予穿戴者近乎无敌的力量，而这些皮物的内在则与生死相互交织。铁月在某次战斗后，疲惫地回到房间，开始处理身上的战斗服，由此展开了一系列关于性别与身份认同的探索。同时，故事也包含了相当多的成人内容与描绘，具体刻画了生死、战斗与欲望的交融。该文展示了性别转换及自我认同的复杂性，引发读者对性别与生存的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【为了拯救世界不得不穿上美少女皮套】.doc
 | Size            | 38912 bytes                           |
 | MD5             | 8f767dbac2c5639f25d73fe29d6335d0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 3023-XX-XX                                 |
+| Tags            | 伪娘, 变身, 末日灾难, 女武神, 战斗服, 求生, 性别认同, 末世, 科幻冒险, 自我探索, 成人内容, 恐怖, 异兽                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

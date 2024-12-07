@@ -7,7 +7,7 @@ TXT 下载: [[改造]_朱颜血_萱草（八，九）.doc]([改造]_朱颜血_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含了一段跨性别相关的小说内容，主要围绕角色柳无言与萱之间情感的纠葛及其复杂的性别认同问题展开。情节以柳无言爱护萱、为其施术以恢复伤势为起点，探讨了柳无言对自己的灵魂分割以及萱的身体与身份认同的冲突. 故事中包含一些带有情色暗示的情节，如两人之间亲密的互动，以及对于身体的探索与情感的表达，突出个体在性别与情爱中的挣扎与接受。同时，文本尚有一段关于墨茹的描写，其身份及心理状态也暗示了作品的多元性别特征。整段文字不仅描绘了角色之间的情感关系，还涉及仙侠、医术与灵魂哲学的考量。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_朱颜血_萱草（八，九）.doc]([改造]_朱颜血_�
 | Size            | 39936 bytes                           |
 | MD5             | 024a021fc7c475a3f95b686c590317db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 性转, 情感纠葛, 精神契约, 修道, 自我探索, 性别认同, 角色互动, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

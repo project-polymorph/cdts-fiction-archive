@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_关于我在路人女主的故事里入替女主ntr主角�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘与变身主题的小说，讲述了主角瀬沼悠生的内心烦闷与情感纠葛。在放学后的咖啡馆中，他默默观察着与他关系密切的“学校第一的美少女”们，心中充满了妒恨与无奈。故事中提到他在一个奇异的商店中遇到卖变身道具的情况，内心涌起了对改变命运的渴望。主角的情感挣扎及对自己性别认同的探索，推动了故事的发展。该文献涉及跨性别、变身、伪娘以及性别认同的主题，提出了多个关于自我探索和人际关系的疑问，同时也包含了一些限制级的内容描写。故事的情节引发了对于性别与自我认同的深刻反思，并通过主角的视角展开了一系列的变化与探索。以上情节及细节展示出作者对这一主题的敏锐洞察力与独特理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_关于我在路人女主的故事里入替女主ntr主角�
 | Size            | 69120 bytes                           |
 | MD5             | fd62c91a715d96ddb382ba59f788f06d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 情感纠葛, 性别认同, 自我探索, 二次元, 强烈妒恨, 奇异商店, 化皮药丸, TSF, 校园生活, 母子关系, 幻想, 性别转换, 奇幻冒险, 个人斗争, 爱情, 青少年成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

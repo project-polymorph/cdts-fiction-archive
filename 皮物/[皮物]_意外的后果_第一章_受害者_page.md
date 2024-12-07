@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_意外的后果_第一章_受害者.docx]([皮物]_意外�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于瑞切尔的校园生活小说的第一章。故事围绕瑞切尔的成长经历展开，特别是她与同学杰克之间的复杂关系。杰克自小就对瑞切尔进行各种欺负，从幼儿园起便是如此。他常常嘲笑瑞切尔的名字，甚至在她上初中和高中时继续对她进行恶意骚扰。随着性意识的觉醒，杰克开始利用社交网络和学校的冷漠对瑞切尔进行网络暴力，散播关于她的不实谣言，甚至伪造她得病的信息。瑞切尔在校园内处于被孤立的状态，直到一次舞会的邀请让她的生活更加复杂。杰克的恶劣行为引发了一系列的事件，瑞切尔的母亲为此感到不安，这也使得瑞切尔与校长克瑞斯蒂之间的关系逐渐升温。小说以瑞切尔的痛苦与渴望为主线，探讨了性别认同、校园欺凌以及对爱的追求等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_意外的后果_第一章_受害者.docx]([皮物]_意外�
 | Size            | 27633 bytes                           |
 | MD5             | 49f5e5cdd592687087535a238417de11                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 校园欺凌, 性别认同, 自我探索, 网络暴力, 师生恋, 青春, 情感纠葛, 性骚扰, 少女成长, 公开羞辱, 社交网络, 恶作剧, 友谊, 隐私侵犯, 身份认同, 内心挣扎, 爱与痛苦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

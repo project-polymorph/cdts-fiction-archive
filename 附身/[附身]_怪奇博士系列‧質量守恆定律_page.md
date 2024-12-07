@@ -7,7 +7,7 @@ TXT 下载: [[附身]_怪奇博士系列‧質量守恆定律.docx]([附身]_怪
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件属于怪奇博士系列短篇集的其中一篇，主要围绕实验的主题展开，特别是探讨质量守恒定律与灵魂的关系。文章开头提到，质量永远不会消失，尽管其数值可能会减少，但这意味着能量的增加，这一概念可用于灵魂学中。作者通过描绘怪奇博士的实验，展示了张羽这一角色从光鲜的财团董事长转变为家庭被背叛的可怜者，最终接受了一种可疑的交易——他愿意成为实验对象以实现其心中的怨恨与欲望。文件中还涉及到奇怪的建筑、怪异的交流及对实验对象的刻画，章法独特而富有幻想色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_怪奇博士系列‧質量守恆定律.docx]([附身]_怪
 | Size            | 24515 bytes                           |
 | MD5             | f3983dacc41bf710cccdd21683ab678b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 怪奇博士, 实验, 灵魂学, 质量守恒定律, 性别转变, 自我探索, 心理冲突, 变身, 欲望, 家庭背叛, 阴暗交易, 奇幻, 都市幻想, 角色扮演, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

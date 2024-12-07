@@ -7,7 +7,7 @@ TXT 下载: [[附身]_6_我是腿控，但我那拥有凭依能力的挚友是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是章节六的内容，主要描绘了一名勇者在梦中与一位魔王的对抗场景。梦中，勇者小队的成员被魔王附身，男队友自杀，而女队友则沦为魔王的性奴。勇者面对失去同伴的绝望，最终被魔王打败。同时，梦境随着勇者的醒来被打断，转而描写他与龙也之间的亲密互动，以及与其他女性角色朱音的互动。这一内容涉及角色的性别与身份的变化，融入了性转、变身及幻想等元素，描写了角色在各类交换身体和性别认同上的体验。此外，文中也包含了大量的性暗示与性行为的细节，适合研究相关的二次元性别与性转文化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_6_我是腿控，但我那拥有凭依能力的挚友是�
 | Size            | 47104 bytes                           |
 | MD5             | 119f4411ec6ca8097f13873ab598e78f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 魔王, 勇者, 幻想, 亲密关系, 性奴时代, 自我认同, 梦境, 冒险, 角色扮演, 社会关系, 青春, 二次元文化, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

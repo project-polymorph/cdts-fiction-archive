@@ -7,7 +7,7 @@ TXT 下载: [[变性]_难忘的婚礼2.docx]([变性]_难忘的婚礼2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《难忘的婚礼2》是一篇涉及跨性别及性转主题的成人小说，文本描述了一名男性角色经历变身为女性的过程，围绕这一过程展开了一系列与性相关及自我认知的叙述。故事的开头情节围绕情趣店的经历，角色与店老板的互动充满了露骨的性描写，表现出角色从最初的抵抗到逐渐接受和沉浸在刺激中的心理变化。文本中详细描写了角色在性行为中的感受，包括身体的变化，以及随之而来的心理屈从和性欲的高涨，展现了较为明显的自我探索与身份认同的主题。角色在这一过程中不仅经历身体上的改造，也面临着心理层面的挣扎和变化，它隐含着对传统性别角色和性行为边界的探讨。文本中还提及角色在生活中持续跟从他人的指令，反映出在角色身份认同与社会期望之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_难忘的婚礼2.docx]([变性]_难忘的婚礼2.docx)
 | Size            | 20582 bytes                           |
 | MD5             | e048a7a4951cfa856de8eff3b8d2b479                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性转, 成人小说, 自我探索, 身份认同, 强奸, 调教, 逆后宫, 伪娘, 男娘, 性别角色, 情趣商品, 身心改造, 性行为, 淫荡, 情趣店, 刺激体验, 社会期望, 性欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

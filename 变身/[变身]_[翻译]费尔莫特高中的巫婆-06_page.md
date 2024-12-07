@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[翻译]费尔莫特高中的巫婆-06.docx]([变身]_[翻
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为“费尔莫特高中的巫婆”，讲述了角色帕娜的日常生活片段，特别是她的性别认同和情感经历。故事中，帕娜作为曾经的男孩保罗，现在在女儿身的身份下努力适应新的生活，面临着历史考试的压力和与朋友大卫的关系。文件内容描述了她的内心冲突与转变，展现了她对自身性别的认同。帕娜为迎接大卫的到来精心打扮，渴望在感情上与大卫更进一步，显示出她对自己身份的逐步接受和向往。情节包括与家庭成员的互动以及帕娜与凯蒂的友谊与支持。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[翻译]费尔莫特高中的巫婆-06.docx]([变身]_[翻
 | Size            | 27980 bytes                           |
 | MD5             | 3f47bfbf0b81cc1e21b315d29dab17c9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 情感探索, 校园生活, 伪娘, 亲密关系, 青春, 友谊, 女生成长, 历史考试, 打扮, 心理转变, 浪漫, 女性视角, 现代社会, 自我接受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

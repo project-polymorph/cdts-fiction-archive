@@ -7,7 +7,7 @@ TXT 下载: [[变身]_曾经是男孩，现在是女孩1-2.doc]([变身]_曾经�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一个名叫比利的16岁男孩，他无意中发现了一个名为“愿望出让方”的网站，并在上面写下了自己的愿望，希望变成女孩。随着愿望的实现，比利经历了从男孩到女孩的变身过程，面临着自我认同的困惑与环境的挑战。文章详细描绘了比利在梦中变为女孩的感受，以及醒来后发现自己身体变化的震惊与不安。他与母亲的对话揭示了他内心的挣扎与对新身份的接受，同时也反映了亲子关系的复杂性。文中通过比利的视角，深入探讨了性别认同和家庭角色的交替，细致描述了他在新身体和新身份面前的迷茫与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_曾经是男孩，现在是女孩1-2.doc]([变身]_曾经�
 | Size            | 30208 bytes                           |
 | MD5             | 15bd5cc7dc94a97416d1d339c1e5234b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 自我认同, 家庭关系, 成长小说, 涩情, 二次元, 幻想, 青少年, 性别身份, 母子情, 角色转换, 心理变化, 青春期, 电流感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

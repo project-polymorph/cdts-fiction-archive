@@ -7,7 +7,7 @@ TXT 下载: [[其他]_钥匙(1).docx]([其他]_钥匙(1).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于复仇、欲望和变换身份的跨性别小说，讲述了男主角方嶽因女友左霏的背叛而陷入绝望与愤怒，最终通过与恶魔的交易得到了复仇的能力。故事开篇描绘了一个阴暗的场景，方嶽站在昏迷的左霏身边，内心充满了复仇的欲望。随着情节的发展，方嶽初恋的甜蜜与被背叛的痛苦交错，展现了他复杂的情感纠葛和对爱的渴望。在获得恶魔给他的“钥匙”后，方嶽使用这把钥匙控制了左霏的身体，进行他所想要的复仇，甚至完全剥夺了左霏的灵魂，这种极端的情节揭示了他内心对痛苦的追求以及自我价值的崩溃。文件内容深刻探讨了性别、身份、愤怒以及爱的扭曲，充满了强烈的冲突和心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_钥匙(1).docx]([其他]_钥匙(1).docx)
 | Size            | 18615 bytes                           |
 | MD5             | 98ba7968c259884c4b54bc985fe50822                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 复仇, 跨性别, 欲望, 痛苦, 恶魔交易, 性转, 情感纠葛, 身份纷争, 欲望与控制, 自我探索, 灵魂剥夺, 悲剧性结局, 复杂关系, 心理探讨, 非人化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

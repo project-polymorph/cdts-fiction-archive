@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交换装置-女高中生和小白.docx]([交换]_交换�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件标题为《交换装置-女高中生和小白》，内容围绕一位女高中生与她的宠物狗小白之间的奇妙体验。在一个暑假的下午，女高中生正在玩乙女向的galgame时，发现了一个奇怪的装置，并因好奇而触发，导致她与小白的性别器官交换。在随后的情节中，她经历了由此带来的身体和心理上的混乱和社交困境，尤其是在尿尿时遇到的尴尬和难堪。角色为了应对这种突发的变化，尝试了各种方法，并感受到由此引发的自我认知的挑战。整个故事探讨了性别身份、角色认同与自我探索的主题，同时融入了一些限制级和性相关内容，展示了角色在经历变身后的内心想法和情感。在这段叙述中，内容的带有挑衅性和对性行为的隐喻，展示了对于性别转换和宠物角色之间互动的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交换装置-女高中生和小白.docx]([交换]_交换�
 | Size            | 23734 bytes                           |
 | MD5             | 4131d4bceb23fc0bbf97388dcdb54b81                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 男娘, 尿尿尴尬, 角色认同, 狗和人的关系, 奇幻, 自我探索, 青春, 另类经历, 神秘装置, 个人冲突, 暑假冒险, 现实与幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

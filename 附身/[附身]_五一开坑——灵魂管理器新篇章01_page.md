@@ -7,7 +7,7 @@ TXT 下载: [[附身]_五一开坑——灵魂管理器新篇章01.docx]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一个虚构角色的心路历程，通过赵晓天与他的相亲对象李佳雯之间的对话，探讨了复杂的性别认同和性别转换主题。故事开始于两人相亲的场景，赵晓天自我感知为一个平凡的宅男，而李佳雯则以美丽的女性形象出现，但最终李佳雯透露其灵魂实际上是一个男性吴波的灵魂。文章通过他们的互动，深入探讨了性别认同的困惑与自我接受的问题，从而引发了关于社会认同与自我认知的思考。文中提到李佳雯的灵魂管理器，展示了她的灵魂如何进入另一个身体，并对其新身份的适应过程。内容较长，其中多处信息涉及到角色的情感和对彼此的认知，展现了一种微妙的情感变化和社会压力下的相处模式。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_五一开坑——灵魂管理器新篇章01.docx]([附身
 | Size            | 19829 bytes                           |
 | MD5             | 7390018e1683b877ddcb046399d3a19e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 附身, 灵魂转换, 伪娘, 变性, 动漫宅男, 相亲, 自我探索, 社会认同, 情感纠葛, 强烈好奇心, 性别表达, 青春爱情, 性别意识, 短篇小说, 科幻元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_等价交换1-7.docx]([交换]_等价交换1-7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《等价交换》是伪娘 TS 变身与跨性别相关小说的一部分，主要讲述的是主角由志的故事。他是一名普通的化学教师，突然发现自己拥有超能力，能够进行物体的形态与物质转换。故事从他首次体验这种异能开始，随着情节的发展，交代了他是如何逐步掌握这种能力并尝试进行更加复杂的转换。由志的能力源自一起超新星爆炸，涉及到对变异的探索。小说的情节紧扣异能者的出现、心理的挣扎、性别认同的流动和对自我认知的探讨。情节中还包含了一些可能的性别转化、角色扮演的情节，并逐渐引向他尝试着通过能力进行身份的转换，这里也为后续的伪娘变身埋下了伏笔。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_等价交换1-7.docx]([交换]_等价交换1-7.docx)
 | Size            | 76451 bytes                           |
 | MD5             | cc0e9a8b0a13f29c89b0209957c72b71                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, TS变身, 超能力, 变身小说, 性别认同, 自我探索, 异能, 奇异转换, 物质转换, 形态转换, 情感纠葛, 校园生活, 性别角色扮演, 幻想小说, 二次元文化, 变女, 男性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

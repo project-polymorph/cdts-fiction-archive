@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【偽短篇】夢中的舞台_-_上，中，下.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘TS变身与跨性别相关小说，故事发生在上海迪士尼乐园，包含角色之间的恋爱动态与自我认知的探索。主要角色包括男主角山下知良，一名被调派至上海迪士尼的替身演员，以及女主角前园桃子，一位交流生。文中描绘了他们的日常生活与情感发展，知良面临职业与个人生活的平衡，桃子的可爱与俏皮在故事中过于突出。小说中还涉及男主的工作压力与同事的互动，并通过角色之间的关系展现了跨文化的碰撞。整体语言幽默生动，同时穿插了一些恋爱情节，如男主对女友的思念与职业压力的宣泄。来说尽管两人同居但并未发生关系，揭示了他们之间的细腻情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【偽短篇】夢中的舞台_-_上，中，下.doc]([皮
 | Size            | 211456 bytes                           |
 | MD5             | e15a741cf8ed57868a884ba0e2099aa5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | siuson1234                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-05-31                                 |
+| Tags            | 伪娘, 跨性别, 恋爱, 替身演员, 上海迪士尼, 校园生活, 自我认知, 二次元, 交流生, 情感冲突, 日常生活, 青春, 文化交流                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

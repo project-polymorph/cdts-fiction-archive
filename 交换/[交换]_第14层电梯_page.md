@@ -7,7 +7,7 @@ TXT 下载: [[交换]_第14层电梯.doc]([交换]_第14层电梯.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《第14层电梯》是一部围绕都市传说和年轻人职场生活的小说。故事从一个神秘的电梯传说开始，提到如果乘坐电梯到达第14层，会发生不可思议的事情。然而，在这座城市里，电梯并没有14层的按钮，因为‘14’在中文中与‘要死’谐音，引发了人们对这一禁忌的思考。主人公崔世缘是一名普通的社会青年，他在日常生活中感到乏味且无聊，面对996工作制感到无奈。小说通过崔世缘的视角，描绘了他对生活的感悟与思考。尤其是在遇到同事柳梦琪时，崔世缘对她的容貌和性格充满了欣赏，并在内心深处对于自己的平凡感到一丝自卑与惆怅。短暂的工作生活与期待交织在一起，使得人物内心的冲突愈加明显。整体来说，这是一部涉及现代职场生活与情感探索的作品，蕴含着对人生的反思与向往。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_第14层电梯.doc]([交换]_第14层电梯.doc)
 | Size            | 66048 bytes                           |
 | MD5             | 8055b4fa70f77c2c70169fedaa7a7fd7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 都市传说, 职场生活, 自我探索, 年轻人, 爱情, 社会青年, 平凡与美丽, 日常生活, 性别认同, 人生重来, 996工作制, 内心冲突, 柳梦琪, 崔世缘, 电梯, 神秘事件, 生活琐碎, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

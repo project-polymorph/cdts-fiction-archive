@@ -7,7 +7,7 @@ TXT 下载: [[附身]_共和国，我为你拍照.doc]([附身]_共和国，我�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部反映历史与性别认同的跨性别小说，背景设置在中国从1840年到2000年间的重大历史事件之中。故事的叙述者经历了民族与个人的双重挣扎，表达了对外部社会变化的不满与自我的反抗。随着篇章的推进，角色的性别认同和社会身份发生了复杂的转变，揭示了在变化的社会环境中个体如何寻找自我定位的故事。文中提到的‘我’在1840年面临外来侵略后，逐渐觉醒并在政治动乱中寻求改变，同时也经历了被社会当作“男人的玩物”的屈辱，展现了深厚的时代背景与个人的脆弱。此小说以丰富的情感与历史事件为背景，混合了对政治、性别以及个人欲望的探索，最终以‘我’的自我解放与身份重塑告终。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_共和国，我为你拍照.doc]([附身]_共和国，我�
 | Size            | 28160 bytes                           |
 | MD5             | 708145b618de516eec87c09add345425                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 历史, 自我探索, 性别认同, 社会变革, 反抗, 身份重塑, 政治斗争, 革命, 情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

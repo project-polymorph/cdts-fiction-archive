@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第十八章+登场�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《火焰纹章——光与影的轨迹》的第十八章，主要讲述了克里米亚复国战争的开端。章中，萨娜姬王后在大神殿玛奈尔中宣布复国的计划，并讨论如何帮助克里米亚复兴。她与艾琳西娅姐妹及佣兵团代表艾克的交谈中，涉及到身份、爵位的授予以及军队指挥权的相关问题。艾克起初对成为贵族表示拒绝，但为了大局最终同意接受。在章节的后半部分，描绘了即将出发的军队及国王塞菲鲁的政治局势，表现出对抗反抗势力的决心。同时，引入了诸多出场人物，如塞菲鲁、希蕾妮等，他们在复国战争中各自扮演着举足轻重的角色。文本中也夹杂着一些讨论政治、战争及权力斗争的冲突，表现出复杂的内外局势。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第十八章+登场�
 | Size            | 26629 bytes                           |
 | MD5             | f3f30250ed81ac542c4bcef06486eb5b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 雨蝶清                               |
+| Region          | 未知                               |
+| Date            | 2013-07-01                                 |
+| Tags            | 复国战争, 克里米亚, 权力斗争, 骑士, 贵族身份, 政治阴谋, 佣兵团, 历史幻想, 英雄人物, 战争策略, 民族冲突, 女王与将军, 角色发展, 魔法, 神话传说, 帝国争霸                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

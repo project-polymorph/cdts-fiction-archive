@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_无尽异能_番外（四）.docx]([皮物]_无尽异能_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为《无尽异能》的番外章节（四），以第一人称的视角讲述角色李玑璇的变身与心理变化。故事的开头描述了主人公走出废弃房屋后的心情和神态，表现出与原本身份的冲突和认同。这名角色经历了一次彻底的性别转变，融入了李玑璇的身份，并表现出对自身新身体的强烈探索和欲望。在后续的描写中，角色通过自我自慰和对镜子中自己形象的沉醉，展现出对新身份的接受和享受。文中不断提及与欲望和性的直接联系，以及对待身体的细腻描写，表明了角色对情感与快感的复杂感悟。此作品涉及了跨性别、自我认同、性别转换、欲望、强烈的成人内容以及角色之间的感情纠葛等主题，适合对相关题材进行深入研究的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_无尽异能_番外（四）.docx]([皮物]_无尽异能_�
 | Size            | 22400 bytes                           |
 | MD5             | c0ed37b834f3db2f9390343210d62323                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 李玑璇, 欲望, 成人内容, 第一次, 自慰, 心理变化, 女体化, 情感纠葛, 自我探索, 强烈快感, 角色扮演, 性转, 自慰描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

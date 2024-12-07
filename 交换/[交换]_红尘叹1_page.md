@@ -7,7 +7,7 @@ TXT 下载: [[交换]_红尘叹1.docx]([交换]_红尘叹1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《红尘叹1》是一本涉及复杂家庭关系与性别认同主题的小说。在故事中，主角的姐姐因触犯严重法律而受到惩罚，使得亲人陷入了深深的痛苦之中。女主角担心姐姐的命运，并希望她的丈夫阿明能出手相救，但女主角却隐瞒了自身身患血癌的真相，担心家中的其他成员受到影响与打击。情节通过父女之间的对话逐渐揭露出家中困境，以及女主角内心深处的挣扎与对痛苦的无奈。小说有丰富的对话、情感冲突与自我认知，探讨了病痛、家庭关系、以及女性在困境中的韧性。本作品在性别认同与跨性别主题方面也有所涉及，虽不如其他典型性转小说直白，但也表明了角色在身体与身份认同上的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_红尘叹1.docx]([交换]_红尘叹1.docx)
 | Size            | 27604 bytes                           |
 | MD5             | 3a19a86cdcfb883ae731d6c6f20f78f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 血癌, 家庭关系, 情感冲突, 藏匿秘密, 自我认知, 强奸, 妹控, 情感纠葛, 身体疾病, 暗黑幻想, 二次元风格, 都市奇幻, 伦理关系, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

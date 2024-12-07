@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_今魔_第8章.docx]([皮物]_今魔_第8章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关的小说第一部分，主要讲述了在魔王城的一系列事件。故事开头，女主角桂花刚刚结束了旅程，正对着声称是隐藏大魔王的安洁莉表现出极大的敬意并下跪。此时桂花因带回了其他人而感到内疚，但安洁莉却冷淡地回应她，并未对她的行为表示谴责。接下来的情节充满了对桂花的调侃与戏弄，安洁莉展现出她强大的压制力，让桂花在极度羞辱中陷入失神状态。在一系列的互动中，桂花与身边的角色们的关系逐渐展现，同时暗示出人物间复杂的感情线和对自己身份的探索。整体内容含有生动的对话与场景描写，表现出角色们在魔法与现实交织的背景下对权力、性别与自我认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_今魔_第8章.docx]([皮物]_今魔_第8章.docx)
 | Size            | 31973 bytes                           |
 | MD5             | e0cd6a9d29674ad57427e959f5e1d805                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 魔王城, 性别认同, 自我探索, 角色互动, 羞辱调教, 女性角色, 变身, 恋爱, 剧情发展, 二次元, 性转, 纯爱, 暗恋, 设定复杂                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

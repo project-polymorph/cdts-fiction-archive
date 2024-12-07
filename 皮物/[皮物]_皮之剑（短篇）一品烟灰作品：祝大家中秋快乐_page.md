@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮之剑（短篇）一品烟灰作品：祝大家中秋�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇短篇小说《皮之剑》围绕着一个令人毛骨悚然的魔法物品——一个剑型吊坠展开。故事的叙述者是一位中产阶级男子，他在获得这个吊坠后，发现它的强大功能可以将一个人的皮肤剥离开来，并由他人穿上，创造出一种无性无欲的存在。通过这种方式，叙述者开始利用这个物品进行一系列针对他人的操作，借助这种改变身份的手段来实现自己的财富获取和操控欲望。随着故事的发展，叙述者与一位歌舞明星产生了短暂而奢华的关系，但最终又将她作为下一次实验的对象。小说涉及性别的转变、身份的剥离、自我认同的探讨，以及人际关系的操控，充满了对人性和欲望的深刻思考。该作品探讨了关于性别、身份、欲望以及权力的复杂主题，让人感到折磨和不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮之剑（短篇）一品烟灰作品：祝大家中秋�
 | Size            | 17301 bytes                           |
 | MD5             | d3286febd29b7592d9cae077d7e93f5c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 一品烟灰                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别转换, 魔法, 血腥, 操控欲, 身份剥离, 奢华生活, 欲望, 自我探索, 惊悚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

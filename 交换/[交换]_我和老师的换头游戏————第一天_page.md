@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我和老师的换头游戏————第一天.doc]([交
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《交换——我和老师的换头游戏————第一天》讲述了一场奇特的换头游戏，主角金谷弥城意外获得一种能力，可以将自己的头与他人交换。故事开始于金谷弥城放学后被女友铁桥凉那叫到教室，而教室中还有他的数学老师银崎初芽。在误会中，铁桥凉那认为金谷与银崎老师有不正当关系，导火索渐渐引出了一场混乱的换头仪式。金谷的头被换到老师的身体中，老师的头则被换到金谷的身体上，两人必须在一周内互相适应对方的生活，并努力隐藏这一改变。文中细致描写了金谷在变成老师身体后的感受，以及他与老师之间微妙的感情变化，探讨了性别认同和自我探索等主题。情节包含了许多色情暗示与性别转换的元素，展现了角色在身体与心理上的冲突和成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我和老师的换头游戏————第一天.doc]([交
 | Size            | 57856 bytes                           |
 | MD5             | 9dd0c865db601ed79f1c0c5827eafc6d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 校园, 奇幻, 爱情, 自我探索, 性别认同, NTR, 强奸, 调教, 乱伦, 逆后宫, 身体交换, 百合                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

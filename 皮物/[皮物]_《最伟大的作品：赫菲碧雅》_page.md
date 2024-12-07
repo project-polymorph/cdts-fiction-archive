@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《最伟大的作品：赫菲碧雅》.docx]([皮物]_《
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《最伟大的作品：赫菲碧雅》小说的一部分，围绕巴维亚王国及赫菲碧雅公主展开。故事设定在巴维亚王国的月亮湖中央，蕴含了丰富的幻想元素与复杂的人物关系。赫菲碧雅公主是国王阿莱尔的爱女，故事讲述了公主即将成年之际，她的父亲为了她准备的一场盛大成年礼和赠送的珍贵礼物——“蒂斯阿斯特”月亮宝石。由此引发的政治纷争，西岚帝国的侵略与巴维亚大公的抵抗，使得整个故事充满了紧迫感与冲突。随着故事发展，巴维亚王国面临灭亡，弥漫着亡灵诅咒的恶意和血腥的斗争，最终赫菲碧雅面临了生死之劫，展现了权力与命运的无情。小说中穿插了丰富的情色暗示和对性别议题的探讨，尤其是赫菲碧雅的身份逐渐变得复杂和多元，符合伪娘与TSF的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《最伟大的作品：赫菲碧雅》.docx]([皮物]_《
 | Size            | 40870 bytes                           |
 | MD5             | dffe799fabe3b1bcf00fa31b59e8d8fd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 权力斗争, 亡灵诅咒, 政治阴谋, 幻想, 青春成长, 爱情, 牺牲, 冒险, 黑暗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

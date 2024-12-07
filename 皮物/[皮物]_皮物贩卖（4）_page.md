@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮物贩卖（4）.doc]([皮物]_皮物贩卖（4）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇以性转与变身为主题的小说，主要讲述了一个名叫小白的小男孩在接受堕落之种的影响之后，获得了变成女性的能力。小白的变身过程伴随着与他朋友小智和小刚的互动，以及意外进入女厕所与大小姐茉莉的情节交织。故事中，小白一开始对变身毫无兴趣，但随着堕落之种的诱惑，他开始逐渐接受这一能力。情节的高潮在于小白最终成功地变成了茉莉，并在使用她的身体的过程中体验到与性别相关的冲突与探索。此外，文件中还包含大量生动的描写，包括角色的感情变化、身体感知与环境反应，可以看出作者对细节的关注，同时也涉及了性别认同和自我意识等深层次的主题。整体而言，文本内容较为复杂，包含一定的限制级与性相关内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮物贩卖（4）.doc]([皮物]_皮物贩卖（4）.doc)
 | Size            | 57344 bytes                           |
 | MD5             | 0e689c21d85c78e0ec41735178e2de3c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 青春幻想, 奇幻, 性别认同, 二次元, 都市, 魔法, 冒险, 隐私侵犯, 性探索, 情感冲突, 搞笑, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

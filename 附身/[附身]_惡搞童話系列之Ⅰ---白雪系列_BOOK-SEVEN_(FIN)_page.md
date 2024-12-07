@@ -7,7 +7,7 @@ TXT 下载: [[附身]_惡搞童話系列之Ⅰ---白雪系列_BOOK-SEVEN_(FIN).d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为恶搞童话系列中的一部分，书名为《白雪系列》。故事围绕角色白雪公主展开，描绘了一系列复杂而偏激的情节，包含强烈的性暗示和颠覆传统童话的内容。文本开头提到，作者费时数千字多次修改结局，显示了作品的构思过程。文件中描绘了一个清凉薄纱睡衣的女子被锁定在房间中，随后的情节则涉及到一系列与国王、王后及王子之间的道德和生理关系，强化了色情和权力交织的主题。通过对话与描写，文件展现了角色之间的心理状态及对权力变化的不适感，如王子对待母亲和公主的轻蔑，以及反复提到的转生与权力控制。整体来看，作品以一种极端内容呈现了性别与权力关系的复杂性，适合对相关主题感兴趣的研究者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_惡搞童話系列之Ⅰ---白雪系列_BOOK-SEVEN_(FIN).d
 | Size            | 25135 bytes                           |
 | MD5             | 6951dfc82835d482a57231ecb2cfb4a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 强奸, 乱伦, 跨性别, 城堡, 白雪公主, 魔镜, 权力游戏, 家庭关系, 色情冒险, 自我认同, 黑暗童话, 异世界, 性转, 淫乱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

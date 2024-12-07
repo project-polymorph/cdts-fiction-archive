@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_副作用_by_sammig82.docx]([皮物]_副作用_by_sammig82
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文本是由作者秦贾董创作的，主要讨论了一篇主题为变装和皮物（人皮道具）的小说。文件的内容简介涵盖了故事的背景、角色及其性别身份的复杂性。故事设定在一个富裕的郊区社区，描绘了一个名为鲍勃·多诺万的成功华尔街经纪人与他的妻子柯特妮的平凡生活。随着柯特妮怀孕的消息传开，邻里之间的互动展现了一种和谐的社区生活。然而，文本的重点并不在于这个温馨的家庭生活，而是通过一些科幻设定（例如伪装衣）探讨性别身份和人在社会中的地位，意图引发对社会性别自由和个体权利的深思。作者在文中也思考了关于同性恋权利和社会接受度的议题。
+
+整体上，这篇小说以充满细致描写的方式层层展开，彰显出科技对人类生活的影响，并通过隐喻探讨了人类在面对性别归属、社会期待之间的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_副作用_by_sammig82.docx]([皮物]_副作用_by_sammig82
 | Size            | 42104 bytes                           |
 | MD5             | 1b63c79a7dba80c21c4b2592aa6a8795                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 秦贾董                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 皮物, 伪装衣, 性别认同, 社区生活, 家庭关系, 科技与人性, 性别自由, 心理冲突, 自我探索, 怀孕, 邻里关系, 科幻小说, 个体权利, 社会接受度, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

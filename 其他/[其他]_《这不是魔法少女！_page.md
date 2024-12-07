@@ -7,7 +7,7 @@ TXT 下载: [[其他]_《这不是魔法少女！.doc]([其他]_《这不是魔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一部设定复杂的奇幻小说的摘要和设定说明，涉及多个重要角色和神秘力量的对抗故事。文件内容详细描述了触手胶魔的三次宇宙入侵及其后果，其中大部分女神在神战中消失，福奥与皮奥拉的阴谋，以及魔法少女与魔女之间的斗争。魔法少女力量的本质是人与欲望的结合，负面情绪的积累将导致魔法少女的堕落，此后她们将化身为更强大的魔女。故事还提到黑魔法少女的隐秘存在，和她们与魔法少女之间复杂的关系。整体情节围绕着性别的变换、权力的斗争和生存的欲望展开，为研究多元性别的科幻作品提供了丰富的素材。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_《这不是魔法少女！.doc]([其他]_《这不是魔�
 | Size            | 266240 bytes                           |
 | MD5             | 3f81b2e6e7e6a1f825a758652f6e3d95                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 变身, 跨性别, 魔法少女, 神话, 触手, 魔女, 黑魔法少女, 欲望, 自我认同, 力量斗争, 女神, 性转, 性别认同, 情感与欲望, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

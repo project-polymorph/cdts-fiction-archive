@@ -7,7 +7,7 @@ TXT 下载: [[附身]_粉红之塔共19章7万字（附身、催眠、剑与魔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部包含19章、约70,000字的小说，标题为《粉红之塔》。其情节围绕角色的性转换和催眠控制展开。故事的主线包括了角色嬴荡与女主角丽雅之间复杂的关系，设定在一个魔法与剑的奇幻世界中。文中详细描写了傀儡控制的场景，嬴荡通过催眠操控丽雅，使其成为无意识的傀儡。小说涉及性和权力控制、角色洗脑、自我意识转变等主题，刻画了角色之间的冲突与性欲。内容表现出了一些带有争议的描写，包括性行为和对女性角色的物化，形象地描绘了一种没有感情的性行为模式，以及角色在肉体与意识之间的挣扎。此文包含大量不适宜未成年人阅读的情节，适合于研究跨性别、性转等主题的学术讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_粉红之塔共19章7万字（附身、催眠、剑与魔�
 | Size            | 48640 bytes                           |
 | MD5             | 1a5c8b6db5127a3d64eaad384fec6073                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 傀儡控制, 性转, 权力动态, 意识转变, 肉体与意识的冲突, 跨性别文学, 奇幻, 魔法, 角色自我探索, 无意识状态, 性欲渴望, 洗脑, 二次元, 强制控制, 奴役幻想, 幻想文学, 成人内容, 奇幻小说, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

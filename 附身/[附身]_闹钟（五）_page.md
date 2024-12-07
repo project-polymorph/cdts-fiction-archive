@@ -7,7 +7,7 @@ TXT 下载: [[附身]_闹钟（五）.doc]([附身]_闹钟（五）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于大学图书馆中发生的微妙情感交流的短篇小说，讲述了主角朱颜在图书馆的内心独白与情感挣扎。朱颜是个喜欢看书的女孩，然而在一次偶然的情况下，她被一个与自己有过暗恋情节的校花所吸引。在这个故事中，我们看到朱颜对美少女的深深迷恋，以及她因缺乏勇气而未能主动打招呼的心理斗争。故事描绘了她对这段情感的期待与困惑，突显了她内心的两个角色，左蒙与朱颜之间的冲突与融合。描写细腻，给人一种青春青涩的感怀。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_闹钟（五）.doc]([附身]_闹钟（五）.doc)
 | Size            | 36864 bytes                           |
 | MD5             | 7b7d167af8246b32e914cd15be519531                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 青春, 自我探索, 情感纠葛, 心理成长, 校园生活, 图书馆邂逅, 暗恋, 勇气缺失, 性别认同, 女性视角, 恋爱, 女性角色, 社交恐惧, 成长小说, 书籍与情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

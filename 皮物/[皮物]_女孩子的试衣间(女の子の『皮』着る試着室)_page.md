@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_女孩子的试衣间(女の子の『皮』着る試着室
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是小说《女の子の『皮』着る試着室》的中文翻译文稿，内容围绕一名男性客人大鹰在一家特殊服装店中的经历展开。故事开头介绍了环境：一个昏暗水泥制成的通道和一扇厚重的金属门，暗示了这家店的极为隐秘性。随着剧情的发展，大鹰进入了亮堂的店内，展示了许多服装搭配的人体模型，包括普通衣物、校园泳衣以及性感内衣。然而，这些模型的细致程度，让人感到仿佛真实的人类。店员藤宫介绍该店的理念，使客人通过试穿衣物实现心灵与外形的重生。故事中不仅涉及试穿过程，也描绘了大鹰经历衣物变换时的奇异感受，强调了性别与身份认同的主题。整个小说充满了对角色转换的幻想，同时包含了一些暗示性和性暗示内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_女孩子的试衣间(女の子の『皮』着る試着室
 | Size            | 25345 bytes                           |
 | MD5             | f166a158921d3b9322a2877c01bdb50f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 试衣间, 性别转换, 伪娘, 男娘, 内衣, 暗示性内容, 自我探索, 性别认同, 幻想, 二次元, 衣物试穿, 特殊服装店, 情色, 隐秘商店, 人体模型, 生活方式变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

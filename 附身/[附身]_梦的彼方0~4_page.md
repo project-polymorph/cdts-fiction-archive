@@ -7,7 +7,7 @@ TXT 下载: [[附身]_梦的彼方0~4.docx]([附身]_梦的彼方0~4.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《梦的彼方》是一个结合了网游与虚拟现实设定的轻小说作品，主要围绕主人公王二的冒险经历展开。王二是一个生活贫困的学生，他突然获得了一台先进的梦境模拟机，这台设备可以让人进入一个虚拟的梦境世界。故事开头讲述了王二如何接收到这个炙手可热的奖品，并充满期待地准备好进入梦境世界。在梦中，王二的身份被转变为一个年轻的小男孩，他在一个卡通风格的世界中开始他的冒险。这一设定不仅包含了性别转变的元素，还探索了角色自我认知的冲突。王二首先要面对的是系统的各种挑战，以及幽默而且有些恶意的互动。整部小说流露出尝试轻松幽默的风格，虽然背景中也掺杂了一些邪恶的情节，给人带来一种诙谐与紧张并存的阅读体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_梦的彼方0~4.docx]([附身]_梦的彼方0~4.docx)
 | Size            | 68983 bytes                           |
 | MD5             | b61b016801ba0e089317997dc2248632                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 梦境模拟, 虚拟现实, 卡通风格, 自我探索, 冒险, 幽默, 角色扮演, 青春, 社会问题, 孤独, 科技发展, 轻小说, 奇幻, 游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

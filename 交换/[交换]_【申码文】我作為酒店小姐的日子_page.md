@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】我作為酒店小姐的日子.doc]([交换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《我作为酒店小姐的日子》，内容围绕一个性别辽阔的角色在夜总会和酒店的经历展开。故事以主人公的第一人称视角讲述了她的日常生活，从最初在厕所内的呕吐开始，到与朋友在酒吧的畅谈，再到在酒店包厢与小姐们交互的情景。主角在一个喧嚣的夜生活中逐渐沉浸，同时也反映出角色的内心挣扎和心理变化。文本中提到的主题包括性别认同、社会角色、经济压力等，展示了在酒精和交际的掩饰下，角色所面临的真实问题。整体氛围挣扎且复杂，涉及伪娘、变身、强制与自我探索等情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】我作為酒店小姐的日子.doc]([交换
 | Size            | 66048 bytes                           |
 | MD5             | 35f8bd0f878feca0f072172c2a07f609                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 夜生活, 性别认同, 性别转变, 酒吧文化, 酒店小姐, 自我探索, 都市, 强制性事务, 情感纠葛, 性交易, 二次元, 变身小说, 夜总会, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

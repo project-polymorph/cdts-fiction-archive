@@ -7,7 +7,7 @@ TXT 下载: [[改造]_塚鬼袶_第十回、九龍貫珠，六道鎖身之辱.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的第十回，情节围绕着湘娃在囹圄中的无助与痛苦，以及她与鬼女之间的斗智斗勇展开。在这一回合中，湘娃因为心系爱妻鳳丹的安危而陷入极度不安和焦虑的情绪中。她在梦中无法想象爱妻可能遭受的凌辱，经历愤怒与羞耻。当她面对一名同样绑住她的鬼女时，情节发展充满了紧张感和冲突。湘娃突遭变故，面临体态和身份的剧变，她被迫在这个新身份下体验女性的挣扎与内心的矛盾。随着剧情的发展，鬼女的语言和行为透露出一些威胁，湘娃则在惧怕与不甘中经历了一场自我认同的挑战。整个故事在阴暗的情感中游走，涉及到性别认同、自我探索和力量的动态对抗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_塚鬼袶_第十回、九龍貫珠，六道鎖身之辱.do
 | Size            | 28946 bytes                           |
 | MD5             | f76fd9e4c822ca97bb9dafadfeb1cfbf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 女士身份, 囚禁, 情欲, 女性之战, 自我认同, 武功争斗, 心理斗争, 阴险角色, 情感挣扎, 魔法, 身份冲突, 强烈情绪, 阴暗幻想, 古代背景, 变嫁, 绝望与挣扎, 致命诱惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

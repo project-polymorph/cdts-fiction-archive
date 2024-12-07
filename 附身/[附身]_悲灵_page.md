@@ -7,7 +7,7 @@ TXT 下载: [[附身]_悲灵.doc]([附身]_悲灵.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《悲灵》讲述了一个设定在无法律的世界，实力成为统治的一切的奇幻故事。故事围绕光之精灵族展开，他们因拥有卓越的天赋与人类其他种族之间的冲突而渐渐消亡。文中描绘了一位名为暗星的角色，从小被认为是神的孩子，但她内心充满疑惑与恐惧。随着故事的发展，暗星踏入了禁地探寻自己的身世，进而引发了一系列不可预知的事件，甚至可能会导致整个光之精灵族的灭亡。文中对角色内心的描绘细腻，特别是在面对自我认同与族群的期望之间的挣扎，两者间的冲突使故事更具深度。此文档不仅包含奇幻冒险的背景设定，也探讨了性别认同与自我探索的主题，暗示了复杂的人际关系和情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_悲灵.doc]([附身]_悲灵.doc)
 | Size            | 64512 bytes                           |
 | MD5             | 563744f060dbd39c24007ca0221f6fc2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 光之精灵, 性别认同, 自我探索, 奇幻, 冒险, 黑暗幻想, 跨种族, 挣扎与救赎, 灵魂契约, 禁忌探险, 神秘力量, 母爱与牺牲, 命运, 血脉传承, 禁地, 神话传说, 奇异种族, 内心冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（申码文）反转的人皮试剂.docx]([皮物]_（申
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《反转的人皮试剂》，内容围绕着一名叫周立豪的业务员，他在一个特殊的商业会议上，与知名公司高管李新怡进行谈判。周立豪暗中使用了一种神秘的试剂，该试剂能够使人变成一层人皮，并悄悄释放了这些试剂，导致李新怡无意间吸入。随着时间的推移，李新怡逐渐失去意识，最终变为一具可穿戴的人皮。在观察李新怡变成的人皮后，周立豪决定穿戴它，希望借此获取她的身份和一切。该故事探讨了性别认同、自我意识和道德界限等深层次主题，同时包含了一些恐怖元素，暗示了科技和人性的扭曲。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（申码文）反转的人皮试剂.docx]([皮物]_（申
 | Size            | 24634 bytes                           |
 | MD5             | 6f42eb2b2bb3b9cf6f7c08efc6824bcc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 恐怖, 科技, 人皮衣, 自我认知, 性别认同, 剧情反转, 道德探索, 商业阴谋, 人性扭曲, 试剂, 无色无味, 实验室                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

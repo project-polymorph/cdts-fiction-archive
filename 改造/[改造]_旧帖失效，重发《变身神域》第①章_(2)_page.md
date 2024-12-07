@@ -7,7 +7,7 @@ TXT 下载: [[改造]_旧帖失效，重发《变身神域》第①章_(2).docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是伪娘类TS变身小说《变身神域》的第一章。故事围绕一位身材娇小的少女与一只巨大的狼人之间的情感和肉体关系展开，充满了情色内容与强烈的性别转换设定。开头描述了角色的情境，随后详细讲述了他们之间的亲密接触，包含了生动的描绘和强烈的感官细节。文字中频繁出现呻吟声和侵入性的生理描写，展现了角色之间的矛盾和情感纠葛。同时，增添了超自然的元素，如“色孽女神”的加持以及角色的属性提升，这些都为整个故事增添了奇幻色彩。作品中也提到了一些角色的背景，例如狼人的等级与角色的职业，暗示了小说可能设定在一个游戏或奇幻的世界中。最终，两位角色的互动透露出更多性别认同和自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_旧帖失效，重发《变身神域》第①章_(2).docx]
 | Size            | 51361 bytes                           |
 | MD5             | 0c5ff247f7b28a48ddc18a1bf640b625                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 情色, 奇幻, 性别认同, 自我探索, 狼人与少女, 性转, 虚拟现实, 强情感, 角色扮演, 游戏世界, 幻想小说, 激烈描述, 性行为                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

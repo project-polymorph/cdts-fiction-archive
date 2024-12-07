@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[旧文重贴]四个好朋友快乐的温泉之旅.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描述了一次大学生的温泉之旅，主要围绕主角唐俊和他暗恋的女孩王晓雪之间的互动。故事初始，唐俊与好友周锋规划了一次旅行，并邀请王晓雪同行。旅行途中，描绘了唐俊对王晓雪的迷恋与对她身材的遐想。随着故事发展，唐俊与王晓雪的关系逐渐升温，他们在温泉中的亲密接触加剧了情感的升华。在小说的后半部分，唐俊在意外情况中发现了一张疑似王晓雪的人皮，似乎暗示了更深层次的情节发展。整篇小说不仅呈现了青春的懵懂与迷恋，也通过对角色内心世界的细腻描写，引发了读者对性别认同与自我探索的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[旧文重贴]四个好朋友快乐的温泉之旅.doc]([�
 | Size            | 45056 bytes                           |
 | MD5             | 57d9e6e31bfa09f9c603949044cee0d1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 温泉旅行, 青春爱情, 性别认同, 暗恋, 校园生活, 自我探索, 伪娘, 情感升华, 亲密接触, 意外发现, 悬疑, 温泉, 友情, 宿舍生活, 校园故事, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

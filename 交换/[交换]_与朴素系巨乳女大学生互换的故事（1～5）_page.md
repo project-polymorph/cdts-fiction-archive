@@ -7,7 +7,7 @@ TXT 下载: [[交换]_与朴素系巨乳女大学生互换的故事（1～5）.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《与朴素系巨乳女大学生互换的故事（1～5）》，主要描述了一名大学男生悠一的奇妙经历。在故事开始时，悠一是某地方国立大学的工学部学生，每天忙于实验，生活平凡无奇。某天，他与同学水树在研究室偶然间展开了对话，水树是个身材丰满的女大学生，但她的外表并不引人注目。随着剧情的发展，水树邀请悠一帮她解决家中的一些小问题，引发了一系列不可思议的事件。特别是在悠一喝下水树准备的咖啡后，意识到自己的身体发生了巨大变化，性别发生了转变，由男性变为女性，这一变故让他感到震惊和困惑。此后，悠一以女性的身份经历了自我认知的冲突，思考自己的性别认同，而水树则对此情事显得颇为得意，虽然悠一试图寻找恢复原状的办法，但似乎一切都变得复杂而难以掌控。整部作品涉及性别转换、身份认同与人际关系等深刻主题，同时也包含了一些青春校园爱情的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_与朴素系巨乳女大学生互换的故事（1～5）.d
 | Size            | 82944 bytes                           |
 | MD5             | db7c60172832d600907d579118edfbfe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 校园爱情, 跨性别, 自我认知, 奇幻事件, 男性变女性, 奇幻, 青春, 男女关系, 性别认同, 女大学生, 科技与魔法融合, 青春奋斗, 友谊与爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

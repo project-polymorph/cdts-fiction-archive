@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【诸妖之野】（_第四章）.doc]([改造]_【诸妖
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《诸妖之野》第四章是由作者山雨创作的一部涉及性别转换与跨性别主题的小说。内容描绘了少年在陌生环境中反思自己性别认同的过程，涉及到家庭暴力、强奸和自我认知的崩溃等敏感话题。故事中的少年与女性角色之间发生了复杂而痛苦的互动，展现了角色心理与身体之间的矛盾。章节从温暖的浴室场景切入，引入了少年被父亲侵犯的悲惨经历，以及他对女装的特殊喜好，伴随着渐渐失控的情感与身份认同的冲突。作品用细腻而大胆的描写展现了性别转变带来的生理与心理上的挣扎，并探讨了在极端条件下人性的扭曲与变迁。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【诸妖之野】（_第四章）.doc]([改造]_【诸妖
 | Size            | 47616 bytes                           |
 | MD5             | cccb85eed615aab13b6fcb2229e55533                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 山雨                               |
+| Region          | 未知                               |
+| Date            | 2015-09-15                                 |
+| Tags            | 性别认同, 家庭暴力, 跨性别, 强奸, 心理冲突, 年轻人, 自我探索, 女装癖, 性奴, 监狱生活, 变身, 性转, 社会压迫, 禁忌恋, 经历重塑, 自我救赎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

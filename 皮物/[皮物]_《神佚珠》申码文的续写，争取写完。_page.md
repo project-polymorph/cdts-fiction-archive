@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《神佚珠》申码文的续写，争取写完。.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为跨性别和变身小说的一部分，主要讲述了角色柯儿和主角在神秘宝物神佚珠的作用下进行的性别转换及性别认同相关的情节。故事中，柯儿通过神佚珠的能力进行自我转换，展现了生理身份与心理认同的交织。在文中，角色之间复杂的情感纠葛也伴随着变身效果而衍生出来，形成一种新的人际关系。文中涉及的情节包括柯儿通过穿戴人皮进行角色认同与自我探索，以及对过去经历的反思。主演在经历个人情感的挣扎后逐渐接受这种变迁，体现了对性别流动性的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《神佚珠》申码文的续写，争取写完。.docx](
 | Size            | 59090 bytes                           |
 | MD5             | df9a97e19e985b8a984c3f3d711a2dfa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别认同, 自我探索, 伪娘文学, 性别转换, 魔法, 二次元, 青春, 爱情, 虚拟现实, 奇幻, 氛围描写, 角色发展, 情感纠葛, 主体性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

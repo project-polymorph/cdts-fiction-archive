@@ -7,7 +7,7 @@ TXT 下载: [[其他]_岳父跟老婆融合的美好紀錄(中).doc]([其他]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一段情感复杂且亲密的关系，主角与其岳父之间的关系发生了戏剧性的转变。在故事的初段，主角提到他与岳父的暧昧互动，描述了多次肢体接触和调情行为，通过一些色情细节强调了岳父在新身份下展现出来的女性魅力。随着情节的发展，岳父不仅在外表上更加女性化，其性格和行事方式也变得更加开放和主动，反映出两者之间逐渐升温的情感和性关系。在家庭场景中，岳父以性感的服装诱惑主角，两人的关系充满了紧张的性暗示和欲望冲突，尤其是在描写身体接触的细节时，使用了大量形容词以增强画面感。整篇故事充斥着性暗示和直白的语言，强调了两者之间的情欲交织和文化禁忌的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_岳父跟老婆融合的美好紀錄(中).doc]([其他]_�
 | Size            | 46080 bytes                           |
 | MD5             | ac8298223b821b87dee0e552e6392da4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 跨性别, 家庭关系, 色情内容, 性欲, 调教, 身体转变, 情感探索, 亲密关系, 禁忌恋, 强烈性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

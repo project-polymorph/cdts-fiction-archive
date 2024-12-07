@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第十九章.docx]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《传承之书》第二季第十九章，讲述了角色高康毅与谷爷的对话，讨论了一个名为唐元鑫的角色及其控制能力。高康毅与谷爷讨论了合作的计划，目标是干掉唐元鑫，以解救被他操控的郑心怡。文中设定了唐元鑫的特殊能力‘扯线木偶’，能够控制他人，且高康毅需通过其独特的能力去感知和切断控制的丝线。故事中还引入了高康毅的老下属沈玥琦与陆洁琳，她们扮演了关键角色，参与到计划中。整个章节围绕敌我对抗与人工控制展开，融合了奇幻与战斗元素，带有紧张的悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第十九章.docx]([附身]_
 | Size            | 19572 bytes                           |
 | MD5             | fa7b91f964ce21635e78a339c537a641                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 虚拟现实, 控制能力, 自我探索, 战斗, 合作, 暗区, 操控, 角色发展, 情感纠葛, 策略, 冒险, TSF, 附身, 阴谋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

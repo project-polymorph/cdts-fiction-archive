@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_TG物语——档案（七、八）.doc]([皮物]_TG物语
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《TG物语——档案（七、八）》，描绘了顾文博进行实验的故事。顾文博以流浪狗为实验对象进行性别转换的尝试，但由于种种原因，实验失败。顾文博情绪低落，在酒精的影响下，他带回了一名嫖客，意图宣泄情绪，但却因性功能障碍未能如愿。随后，他突然决定将嫖客作为实验对象，施加了一枚传说中的玉针。实验后，顾文博发觉嫖客竟然消失，但留下了一件女性衣物和一张完整的人皮，情节发展至此开始走向血腥与惊悚。整个故事围绕着性别变迁、身份认同与自我探索等元素展开，展现了顾文博内心的挣扎与恐惧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_TG物语——档案（七、八）.doc]([皮物]_TG物语
 | Size            | 43008 bytes                           |
 | MD5             | 67de00c7e5e0ec2392f64ebd230c6d3c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 实验, 惊悚, 妓女, 酒精, 自我探索, 身份认同, 伪娘, 人皮, 玉针, 强奸, 毒药                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

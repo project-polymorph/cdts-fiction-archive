@@ -7,7 +7,7 @@ TXT 下载: [[附身]_天地传说之圣眼_11_[.docx]([附身]_天地传说之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《天地传说之圣眼》是一部描绘职场、爱情与性别转变的小说。本章节的故事围绕主角宋飚飚展开，他在时光流转中，穿梭于工作与感情之间，展现了他与同事辛桐的初次相识，及其后续的工作生活。小说开篇描绘了宋飚飚与辛桐在公司门口邂逅的情景，辛桐作为面试者与主角的轻松对话暗示着未来的情感发展。作者深入刻画了职场氛围及人际关系，特别是男女同事之间的调侃与默契。同时，文中还涉及对性别认同和情感探索的隐含主题，展现了角色在复杂的情感网络中自我寻找的过程。自我认知、职场挑战与微妙的人际关系交织在一起，构成了一幅职场生活的画卷。小说不仅仅着眼于个人情感，也反映了现代社会对性别与角色的探讨，使得整个作品融入了当代社会的思考与争议。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_天地传说之圣眼_11_[.docx]([附身]_天地传说之�
 | Size            | 20550 bytes                           |
 | MD5             | d644757f0534a44ab98d7dd41257de96                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 职场, 爱情, 性别认同, 自我探索, 情感纠葛, 现代生活, 男性视角, 恋爱, 公司生活, 工作压力, 职场挑战, 人物互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_网络与现实_序.docx]([皮物]_网络与现实_序.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一份关于性别转换与变身题材的小说序章，故事主要围绕着一位年轻男性角色如何通过穿上女性人皮而体验到成为女性的生活和情感。故事开头，角色在玩游戏时以可爱的萝莉形象出现，并与游戏中的其他角色进行互动，表现出对性别认同和社会期待的困惑。随着情节的发展，角色在街头遇到一些不友善的评论，对于自己作为一名“人妖”的身份感到愤慨。在故事中，角色还提到了与一位名为“莫叔叔”的人物的联系，暗示着其在探索新生活的同时，也在履行一些责任。而在半年前，角色无意中发现了一件女性人皮，开启了他身份转变的旅程，并引发了一系列自我认知和欲望的冲突。整体上，该文本涉及自我探索、性别认同以及人际关系中存在的期待与偏见等主题，情节中可能包含一些暗示性的性内容，适合科研和文学研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_网络与现实_序.docx]([皮物]_网络与现实_序.doc
 | Size            | 15351 bytes                           |
 | MD5             | 0cf19164a83b1cac01b237022b2a243c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 伪娘, 萝莉, 自我探索, 社会认同, 欲望, 人际关系, 上海, 网络文化, 虚拟与现实, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

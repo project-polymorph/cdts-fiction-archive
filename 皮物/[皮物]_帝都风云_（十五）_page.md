@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝都风云_（十五）.doc]([皮物]_帝都风云_（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为伪娘 TS 风格的小说第十五章，讲述了皇帝科罗多拉三世在大陆新历776年12月26日宣布将皇位传给菲尼克斯亲王的重大决定。文中描述了大臣们对皇帝此决定的不解与支持，同时引入了王妃温蒂妮的角色，她在与侍女莉迪亚的对话中展现出自己作为伪装的王妃的艰难境遇。王妃在对自己的真实身份产生疑惑以及随后准备离开皇宫的过程中展现出复杂的人物情感。故事中的一个重要情节是温蒂妮与王妃之间的身份交错，她借助炼金术伪装成王妃，与王妃相遇。整个章节充满了戏剧性和悬念，描绘了权力斗争背后的个人情感。随着故事的推进，情感与权力之间的矛盾也愈发明显，最终在即将举行的加冕仪式前夕，角色之间的关系愈加复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝都风云_（十五）.doc]([皮物]_帝都风云_（�
 | Size            | 46080 bytes                           |
 | MD5             | 116cd9cf5fd9f4777640d1652c4d2c28                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 权力斗争, 皇室, 奇幻, 二次元, 跨性别, 炼金术, 自我探索, 情感纠葛, 加冕仪式, 女性角色, 魔法设定, 历史幻想, 角色扮演, 生理性别与性别认同, 情感冲突, 宫廷, 戏剧, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

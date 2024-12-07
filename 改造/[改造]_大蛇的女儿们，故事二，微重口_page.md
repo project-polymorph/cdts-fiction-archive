@@ -7,7 +7,7 @@ TXT 下载: [[改造]_大蛇的女儿们，故事二，微重口.doc]([改造]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该份文件标题为《嫁给自己的伯爵》，讲述了帕克伯爵与克劳德之间的复杂关系。故事设定在一个奇幻的背景中，帕克一觉醒来发现克劳德，生理性别为男性的角色，经过某种变身成为了名为克丽丝的少女，并以极为淫荡的方式展示了她的欲望。帕克对这个少女既感到恐惧又充满困惑，承受着来自克丽丝的强烈占有欲，其间充斥着强烈的性暗示与极端的情欲描写。克丽丝用身体和魔法操控帕克的欲望，让帕克陷入了极端的恐惧与无法逃脱的强迫关系之中。故事中还描绘了克丽丝在强烈的独占欲下对帕克的操控与奴役，而帕克则在绝望中几度求饶，最终沦为克丽丝的玩物。整体情节带有明显的成人向色情内容，涉及性转、性别认同、权力关系等多重主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_大蛇的女儿们，故事二，微重口.doc]([改造]_�
 | Size            | 43520 bytes                           |
 | MD5             | 5958b98c7a3024fc01e3fd7af09a68ee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 跨性别, 伪娘, 性转, 强迫关系, 魔法, 淫荡, 恐惧, 心理操控, 强烈占有欲, 奴役, 成人, 色情内容, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

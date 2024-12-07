@@ -7,7 +7,7 @@ TXT 下载: [[其他]_橡胶娃娃（译）（风铃）.doc]([其他]_橡胶娃�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部涉及性别转换和机械改造主题的小说，标题为《橡胶娃娃》，作者为风铃。故事的主角在一次实验中被机械手臂抓住，体会到了身体性别的剧烈转变和生理结构的异变。开头部分描述了主角在冰凉的真空乳胶床上被包裹，语气略显惊恐，充满了被控制的无奈和恐惧感。当机械的声音宣布实验开始时，主角意识到自己即将经历一系列痛苦的改造过程，这其中包括身体的生理改造，角色的性别转换，以及随之而来的身份认同上的挣扎。通过具体细节的叙述，尤其是对身体改造的描绘，如身体被包裹在乳胶套装和机械装置，被强制穿戴芭蕾舞鞋等，营造了强烈的不安和异化感。结尾部分，主角甚至被拍卖，表达了对身体自主权的彻底丧失和被物化的恐怖感。整篇小说围绕着性别转换、自我认知、身体改造等主题，且含有明显的限制级成人内容，适合于对相关议题进行学术研究和探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_橡胶娃娃（译）（风铃）.doc]([其他]_橡胶娃�
 | Size            | 30208 bytes                           |
 | MD5             | 21bdd56c8939098e78b3567b153d034c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 风铃                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 儿童色情, 自我认同, 身体改造, 机械改造, 成人内容, 性转, 强制改造, 物化, 拍卖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑丝带来的诱惑_3.docx]([皮物]_黑丝带来的诱�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为张莹的角色在经历性别转变后生活的第三章故事。在这一章中，主角第一次感受到女性的高潮，陷入对女性身份的迷茫与兴奋中。故事描绘了她对自身新身份的认知与接受，包括穿着女性内衣、黑色丝袜及化妆的细节。主角在清晨醒来时感到身体的巨大变化，看到自己胸前的乳房，意识到这个新身份的责任与联系。随着李晶晶的到来，故事进一步展开，表现出角色们之间的互动以及对工作的准备。随着情节的展开，似乎暗示了主角与刘总之间复杂的关系和潜在的性暗示，预示着更复杂的情感与身体探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑丝带来的诱惑_3.docx]([皮物]_黑丝带来的诱�
 | Size            | 19574 bytes                           |
 | MD5             | 67bcc00b40503c252e4c90270d6331a5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 伪娘, 黑丝, 自我认知, 女性身体, 强奸, NTR, 办公室恋情, 身体敏感, 变身小说, 跨性别, OL制服, 化妆, 女性情感, 感官探索, 生活习惯, 性别认同, 情感纠葛, 恋爱心理, 性感, 女性内衣                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

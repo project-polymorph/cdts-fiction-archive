@@ -7,7 +7,7 @@ TXT 下载: [[附身]_缠魂米四.doc]([附身]_缠魂米四.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《缠魂米四》，内容围绕一个名为荆棘鸟的组织进行，描述了组织内部的争斗与权力斗争。故事开始于一次组织会议，会议主角金乌面具下的名字不是人们熟知的身份，但却是组织内部的核心。文中揭示了组织成员面临的严峻形势以及内部消耗的情况。随着故事的发展，其中一个名为寅虎的角色被赋予了新能量，将另一个女人周婉音附身，意味着角色之间复杂的记忆和身份交错。周婉音之前是一个高级骨干，她能够为组织提供极为重要的信息。在对话中，角色之间充满了阴谋、背叛与权力游戏，多次提到缠魂米，暗示着附身与角色变换的主题。涉及情感冲突及智力斗争，整体叙事风格倾向于悬疑与紧张的情节推进。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_缠魂米四.doc]([附身]_缠魂米四.doc)
 | Size            | 97280 bytes                           |
 | MD5             | 173da9bc1ea784ac0570cfc25eb5859c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 荆棘鸟, 缠魂米, 附身, 角色变换, 跨性别, 情感冲突, 权力斗争, 悬疑, 阴谋, 自我探索, 角色身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_正反难辨（第二季）（序与第一章）.doc]([附
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文档《正反难辨（序与第一章）》讲述了一个发生在遥远玄古大陆的故事，该大陆经历了一场浩劫，最强大的修真门派天香殿被神秘的黑袍人攻击。故事的开端描述三名高人和她们的弟子在拼命逃跑，并逐步揭示了黑袍者的真相：他们是自愿被改造的傀儡。殿主帝姬雅被黑暗教堂的力量所侵蚀，向其叛变，最终天香殿改名为“淫女教”。故事的后半段转向一个名叫丁胖的胖子，他利用自己的控制能力强迫身边的女子顺从自己，他的母亲和姐姐也成为他控制的对象。这一过程充满了恐怖与禁忌，同时也反映了角色之间复杂的关系。文本涉及跨性别、性别认同等主题，以及强烈的暗黑幻想元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_正反难辨（第二季）（序与第一章）.doc]([附
 | Size            | 41472 bytes                           |
 | MD5             | 783b9fdf0102d063b41b053f5f7366e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 黑暗教堂, 性转, 强迫, 自我认知, 女性形象, 魔法, 玄幻, 伦理困境, 禁忌关系, 丧失自我, 操控行为, 恐怖与幻想, 权力与服从                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

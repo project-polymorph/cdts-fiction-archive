@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星际争霸同人_【第三章_不安其室】.docx]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于公元2505年的科幻小说，主要围绕游骑兵领袖吉姆·雷诺和阿格瑞亚星殖民地的管理者艾蕊尔·汉森博士展开。故事起始于雷诺一行人成功解放了多个殖民地，许多人选择加入游骑兵，给他们的舰船——休伯利安号带来了新的活力。故事中的角色们在即将到来的圣诞节时展现出团队之间的友情与情感，期间穿插了对人类历史和生存状态的深刻反思。随着情节的发展，他们接收到求救信息，雷诺与游骑兵们积极展开救援行动。汉森博士的聪慧与其对救援队伍的感激展现了角色个性的丰富，表达了对未来希望的向往及勇于探索的精神。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星际争霸同人_【第三章_不安其室】.docx]([皮
 | Size            | 31425 bytes                           |
 | MD5             | 2156ae2d665bc6a9accd4b4882cf9a63                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2505-12-01                                 |
+| Tags            | 科幻, 跨性别, 自我认知, 救援行动, 团队友情, 角色发展, 星际旅行, 人类历史, 性别探讨, 二次元, 变身, 游骑兵, 异虫进攻, 殖民地, 电子战, 未来世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

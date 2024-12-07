@@ -7,7 +7,9 @@ TXT 下载: [[附身]_哎呦!!衣服穿反了!!.doc]([附身]_哎呦!!衣服穿�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《哎呦!!衣服穿反了!!》是一本围绕兄妹关系展开的伪娘与变身主题小说。故事背景设定在一个美丽的港口渔村，主要讲述了青年与其小妹茉儿的日常生活。青年正在为生活奔波，努力养活自己的妹妹茉儿。小说开头描绘了渔村的热闹场景及两人温馨的互动。通过对话和情景展示出青年的关心与责任感。
+
+随着情节的发展，茉儿因穿反衣服而引起哥哥的关注，随后出现了茉儿一系列不寻常的行为，逐渐揭示出她在经历身体与性别认同方面的探索和冲突。小说接着展开了更敏感的情节，涉及茉儿探索自己身体的过程，而哥哥面临道德与情感的挣扎，引人深思。这部作品不仅描绘了传统家庭关系中的关爱与牺牲，还探讨了性别身份的复杂性和自我认知的艰难旅程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_哎呦!!衣服穿反了!!.doc]([附身]_哎呦!!衣服穿�
 | Size            | 45056 bytes                           |
 | MD5             | e8bae1c18a02619c2f95493aec080be3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 兄妹情, 性别认同, 日常生活, 温情故事, 变身, 身体探索, 自我认知, 都市生活, 剧情发展, 情感冲突, 家庭关系, 生活压力, 性别转换, 情感纠葛, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

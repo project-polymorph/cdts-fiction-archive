@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_牢笼（1）.docx]([皮物]_牢笼（1）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《牢笼（1）》以第一人称视角描绘了一位男性在使用一种奇特的‘人皮’道具后所经历的奇幻和色情冒险。在一个颓废的午后，主角林晓发现门外有一个神秘包裹，里面装着一种可以变换身份的‘人皮’和相应的说明书，使用后可以体验女性的生理反应和生活。在尝试穿上人皮的过程中，主角感受到前所未有的兴奋和迷惑，充满了对女性世界的好奇。文中描绘了从最初的兴奋到陷入自我探索和欲望的复杂内心斗争，包括对女性身体的感知和性体验。故事通过对身体感知和性别认同的探讨，表达了主人公在新身份下的混乱与迷失。最终，主人公意识到他和自己女友之间复杂的关系，此时他与女友的交往也变得微妙而紧张，故事结束在一股不安的情绪中，留下悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_牢笼（1）.docx]([皮物]_牢笼（1）.docx)
 | Size            | 21621 bytes                           |
 | MD5             | f3786b27a88353d9411b4ecaf7c9e4b7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 身体探索, 性别认同, 奇幻, 男性视角, 欲望, 自我认知, 失落感, 女性体验, 超现实, 同性恋情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

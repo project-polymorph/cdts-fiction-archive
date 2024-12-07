@@ -7,7 +7,7 @@ TXT 下载: [[改造]_通向女孩子的道路（十二）.doc]([改造]_通向�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘/男娘小说的第十三章，主要围绕两位主人公的心理变化及性别认同展开。在公园中，两位外貌相似的姐妹香织和翼窃窃私语，讨论着前来公园的著名女演员。一方面通过她们的对话，体现出她们对这位女演员的关注与好奇，另一方面也展现出人物之间的微妙情感联结。故事中通过翼对自己过往经历的反思，展现了她作为名为“男孩”的身体里的女性内心的挣扎与自我认知的发展。随着情节的发展，翼开始逐渐面对从前的自己与周围的人际关系，甚至在学校再次遭遇熟悉的欺凌者，并对与男孩健治的复杂情感表达了不解与内心挣扎。文中包含一些对心理状态的深度描写，以及对角色性别认同的敏感探索，既有爱情线索，也潜藏着紧张和冲突的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_通向女孩子的道路（十二）.doc]([改造]_通向�
 | Size            | 49664 bytes                           |
 | MD5             | 979cd5e6c220b2118e2cb07fa6faf721                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 变身, 跨性别, 自我认同, 爱情, 校园, 心理探索, 敏感话题, 姐妹情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

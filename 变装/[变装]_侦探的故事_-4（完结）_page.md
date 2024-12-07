@@ -7,7 +7,7 @@ TXT 下载: [[变装]_侦探的故事_-4（完结）.docx]([变装]_侦探的故
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个性转与变装相关的小说，故事围绕一名男性角色的性别与身份转换，描述了他在自我放纵和追求新生活过程中面临的挑战和经历。在故事中，主角通过打扮和性别角色的认同，逐渐接受自己作为女性的身份，并考虑如何将这种新身份融入到未来的职业生涯中。文本中详细描绘了主角的心理变化、与他人（包括潜在情人和同事）之间的关系，以及对性活动的期待和探索。故事同时涉及了强烈的性相关情节，描述了主角在复杂社交场合中与他人互动的种种生动细节，反映出在性别认同和性欲交织的背景下，主人公所经历的自我发现之旅。文件中有诸多露骨的性描写，以及对对方身体的感官体验，显示出明显的成人向内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_侦探的故事_-4（完结）.docx]([变装]_侦探的故
 | Size            | 43362 bytes                           |
 | MD5             | 91e306bf228aa076966e001c0b44d2a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 婚礼, 性活动, 高级妓女, 自我认同, 性别探索, 冲突与转变, 成年情节, 变嫁, 故事叙述, 成人内容, 爱情, 欲望, 戏剧化人际关系, 二次元文化, 心理变化, 性教育, 夜生活, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

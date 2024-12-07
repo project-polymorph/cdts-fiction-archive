@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】可爱的一对（夫妻）.docx]([变性]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件呈现了一对名为马克和凯瑟琳的夫妻的生活故事，开头描述了他们的相遇及初始的甜蜜生活，包括富裕的生活方式与度假活动。然而，随着时间的推移，故事转向了凯瑟琳逐渐感受到生活中的压力和矛盾。马克在婚后表现出霸道和自私的一面，频繁指责凯瑟琳的生活选择，逐渐使她感到失望与孤独。凯瑟琳陷入了经济依赖、社会孤立的境地，不得不忍受婚姻中的压迫。在一次与好友的午餐中，凯瑟琳向好友倾诉了她的痛苦与挣扎。故事的高潮转向了马克的健康危机，凯瑟琳需要面对他可能患有的癌症，这为两人的关系带来了新的复杂性和悬念。这是一部涉及婚姻、性别角色及心理压迫的作品，探讨了女性在传统婚姻中的地位及自我认知的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】可爱的一对（夫妻）.docx]([变性]_【
 | Size            | 29874 bytes                           |
 | MD5             | b7beca6deb9463826511e886c5401d89                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jennifer White                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 婚姻, 性别角色, 心理压迫, 女性自我认知, 亲密关系, 霸道男, 家庭斗争, 痛苦故事, 婚后生活, 健康危机, 爱的觉醒, 性别转换, 经济依赖, 社会孤立, 心理健康, 友谊支持, 情感危机, 变身, 爱情失落, 心灵旅行                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

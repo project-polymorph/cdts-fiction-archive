@@ -7,7 +7,7 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第五节.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为‘艳八仙系列’中的一节，主要围绕主角及其与玉和之间的关系展开。故事通过主角的自我认知变化，描绘了性别与性取向的复杂关系。主角在经历亲情和爱情的交错后，逐渐意识到自己对玉和的依赖与情感。文本中涉及到了性别转换、性欲的表达、家庭对个体选择的干预等主题。通过主角对玛利亚的崇拜，可以看出她对宁静生活的向往，而与玉和之间的情感也在不断升温，尽管充满了困惑与挑战。文中出现了许多情感交织的瞬间，特别是一段怀念与期待的部分：‘好温暖啊！好想你啊，玉和！’同时，故事揭示了因特殊体质而导致的变异，玉和在实验后变成女性样貌，进一步挑战了角色的性别认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第五节.docx
 | Size            | 18248 bytes                           |
 | MD5             | 27021b5a50235899a1f17b01c671ac6e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 性别认同, 情感, 二次元, 家庭关系, 自我探索, 宗教信仰, 性欲, 青春期, 魔法, 身体改造, 都市, 奇幻, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

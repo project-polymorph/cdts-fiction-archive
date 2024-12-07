@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_把皮上下倒过来穿[皮を上下逆に着てみる].d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个名为“把皮上下倒过来穿”的性转小说。故事主要围绕大学生滨中有里展开，她在一次奇怪的遭遇中被邻居用一种奇特的刀具变成了一个皮肤。故事描绘了该男子将有里的皮上下颠倒着穿在自己身上，形成了奇特且变态的身份认同和身体行为。这段情节充满了猎奇与重口味的描写，包含了对性别和身份的复杂探讨，涉及到性别转换、身体的异化、以及对自我认同的冲突。在这个过程中，有里在被反向穿戴后，经历了身体和感官的极大扭曲，她的头部转变为男性的生殖器，并通过这样的状态感知这个世界。文件内容可能涉及一些限制级的情节，以及性和排泄的过度描写。整体呈现了对性别角色与身体认同的极端探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_把皮上下倒过来穿[皮を上下逆に着てみる].d
 | Size            | 39936 bytes                           |
 | MD5             | 9ff46c5723825a58a7edb13273a98f9e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | sioDL                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 猎奇, 强烈色情内容, 身体异化, 性别认同, 性别角色, 虚拟现实, 肢体操作, 个人冲突, 奇幻, 极限体验, 下流行为, 非人化, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

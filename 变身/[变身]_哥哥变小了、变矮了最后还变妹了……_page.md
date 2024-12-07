@@ -7,7 +7,7 @@ TXT 下载: [[变身]_哥哥变小了、变矮了最后还变妹了…….doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个名为凯利的男孩在经历了一次奇特的变身后，变成了一个小女孩的故事。凯利本是一名高中毕业生，暑假即将来临，却不幸遭遇了返老还童的诅咒，身体回到了幼儿期，身高甚至比自己的妹妹还要矮。因而感到十分郁闷的他为了避免外出被人嘲笑，选择了独自呆在家中。然而，随着妹妹的出门和一系列偶然的事件，他的形象逐渐被改变。在一番纠结与斗争中，凯利最终决定试穿妹妹的泳衣，并且在沙滩上，由于老奶奶的误认，凯利被迫穿上了连体泳衣和纸尿裤，面临着被当做小女孩的窘境。在故事的后半部分，凯利经历了被喂奶、沉迷于VR游戏等情节，逐步融入了小女孩的身份，令人感到既幽默又尴尬。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_哥哥变小了、变矮了最后还变妹了…….doc]([
 | Size            | 34816 bytes                           |
 | MD5             | e2af3a17fcd22203e2f25c4d79c1c1b6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性别转换, 家庭关系, 虚拟现实, 幼儿期, 玩耍, 自我认同, 童年, 奇幻, 调皮, 错位身份, 甜蜜, 探索自我, 搞笑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

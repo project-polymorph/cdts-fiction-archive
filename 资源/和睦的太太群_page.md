@@ -7,7 +7,7 @@ TXT 下载: [和睦的太太群.doc](和睦的太太群.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档由QYZ撰写，以"妻子的转变"为主题，展示了一位新时代独立女性李秋雨的生活和内心世界。故事中，李秋雨是一位专注于事业的女性，尽管有一个富有且关心她的丈夫李明，夫妻之间的感情却因工作繁忙而显得平淡。李明的爱尽管细致，但李秋雨对传统女性角色的抵触和对自我职业发展的执着，使她始终难以完全融入家庭生活。文中详细描绘了李秋雨的变化过程与内心的矛盾感受，以及她在遇见曾经的偶像赵颖后所感到的失望与不安。故事通过李秋雨的日常与一系列与太太群相关的活动，探讨了女性在现代社会角色认同、性别期待和职场压力的复杂关系。该文还融入了一些描绘独立女性的期望与现实之间的冲突，特别是在家庭与事业两者之间的拉扯。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [和睦的太太群.doc](和睦的太太群.doc)
 | Size            | 45056 bytes                           |
 | MD5             | 0c0e57f01d8cfca2cb635b3a7ff2b237                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | QYZ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 女性独立, 跨性别, 现代生活, 伪娘文化, 家庭生活, 职场压力, 太太群, 内心冲突, 自我探索, 社会期待, 情感纠葛, 性别期待, 红玫瑰与白玫瑰                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

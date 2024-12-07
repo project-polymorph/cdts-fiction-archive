@@ -7,7 +7,7 @@ TXT 下载: [[变身]_疯狂科学家的宠物（1）.docx]([变身]_疯狂科�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个名为雅各布的年轻助手在一个阴森的庄园中工作经历的短篇小说。故事围绕着雅各布与欧文博士的互动展开，雅各布被召唤到欧文博士的庄园，准备参与一项神秘的实验。起初，雅各布对于博士的设定和庄园环境感到不安和困惑，但对实验设备的探索引发了他的兴趣。经过多次的对话与观察，他逐渐意识到自己可能成为实验的试验对象。随着剧情的发展，雅各布在实验室中被困住，并在博士身后意识到实验的真实意图：改变一个人的DNA，并将其性别转变。这种转变的过程充满了神秘与恐惧，最终雅各布逐渐失去了对自身身份的控制。文件包含对实验设备的细致描写以及对角色心理状态的深入刻画，体现出跨性别与变身题材的特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_疯狂科学家的宠物（1）.docx]([变身]_疯狂科�
 | Size            | 25726 bytes                           |
 | MD5             | b9d6275b6c172fb39941e598cb47435c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 实验室, 改变DNA, 伪娘, 男娘, 古怪的科学家, 恐怖故事, 自我认知, 自我探索, 阴森的氛围, 科学实验, 性别转换, 医学伦理, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

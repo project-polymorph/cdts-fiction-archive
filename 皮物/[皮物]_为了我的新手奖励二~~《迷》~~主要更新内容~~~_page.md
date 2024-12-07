@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_为了我的新手奖励二~~《迷》~~主要更新内容
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一名十七岁的高二学生李晓恩在一次商场枪战事件中的遭遇。故事开始时，李晓恩刚刚打理完家中卫生，准备做饭。在厨房中，他煮了一锅肉粥，随后走进卧室，看到床上睡着一名女子，令人遐想。回忆交织着现实，李晓恩回想起三个月前他在立华商场的遭遇——他在商场遭遇了一场由服务员发起的枪战。在紧张氛围中，李晓恩目睹了枪声和混乱，最终昏迷过去。故事结尾暗示着被神秘的服务员和大姐所救，但对于李晓恩的未来则充满未知与悬念。这部小说探讨了性别与身份认同、暴力与脆弱的主题，具有一定的情感深度与心理描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_为了我的新手奖励二~~《迷》~~主要更新内容
 | Size            | 79083 bytes                           |
 | MD5             | 112f7a04846ab5b1a39730593f9b664a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 枪战, 青春, 自我认同, 悬疑, 情感纠葛, 暴力, 阴谋, 青少年                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

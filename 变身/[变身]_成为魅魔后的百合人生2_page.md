@@ -7,7 +7,11 @@ TXT 下载: [[变身]_成为魅魔后的百合人生2.doc]([变身]_成为魅魔
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部围绕杜智（后变成杜紫）变身为魅魔后生活的小说。故事开篇描述了杜智在一觉醒来后发现自己失去了生理男性的特征，体验到一系列身体和心理的变化。他感受到自身蜕变为女性的快感，内心对与百奈同学的爱情充满期待与向往。小说通过杜紫的视角刻画了变身后的生活与情感冲突，涉及同性恋合法化、性别认同等社会议题。
+
+在更深入的情节中，杜紫不断调整自己与外界的认知，并借助一个神奇的笔记本改变自己的身份信息，最终实现了从杜智转变为杜紫的身份转换。而与此同时，她也逐渐接受了作为魅魔的自我，以及与新家人（妈妈们）的关系，体现出家庭的温暖与接纳。
+
+这个故事不仅反映了性别认同和自我探索问题，也包含了对人际关系的探讨，如杜紫与她的‘姐姐大人’百奈之间的甜蜜互动，渗透着些许色情内容但更多的是对爱的思考与接受。文本中采用了丰富的描写，比如在成熟女性出现时杜紫感受到的身体反应，这些细节让人物的感情和身份变化更加真实。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变身]_成为魅魔后的百合人生2.doc]([变身]_成为魅魔
 | Size            | 45056 bytes                           |
 | MD5             | 2fa59c1af7a8596977ccbeee1ea8f68f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魅魔, 性别认同, 同性恋, 跨性别, 自我探索, 纯爱, 爱情, 家庭, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

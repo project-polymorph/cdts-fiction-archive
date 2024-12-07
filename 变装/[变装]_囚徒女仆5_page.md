@@ -7,7 +7,7 @@ TXT 下载: [[变装]_囚徒女仆5.doc]([变装]_囚徒女仆5.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部描绘跨性别主题的小说，标题为《囚徒女仆5》。故事围绕一个名叫杰西卡的男性角色展开，他在一位名为阿曼达的女性主人身边工作，却被迫扮演女性角色。小说描绘了杰西卡在面对罗伯托这一角色时的复杂情感，虽然罗伯托曾对他表现出霸道和不尊重，但现在却展现出绅士般的一面，试图邀请杰西卡共进晚餐。故事探讨了性别认同、自我探索以及社会角色的期望等主题。文件中的对话和情节揭示了性别转换带来的心理冲突，以及杰西卡对于这种转换的接受与反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_囚徒女仆5.doc]([变装]_囚徒女仆5.doc)
 | Size            | 40960 bytes                           |
 | MD5             | e26c292031836399a0d947c3a153f380                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身, 性别认同, 杂谈, 社交, 复杂情感, 约会, 社会角色, 自我探索, 女性化, 情节发展, 人际关系, 心理冲突, 意大利餐饮, 情感交流                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

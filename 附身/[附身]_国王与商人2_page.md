@@ -7,7 +7,7 @@ TXT 下载: [[附身]_国王与商人2.docx]([附身]_国王与商人2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《国王与商人2》的变身与跨性别相关小说，讲述了一位国王与流浪法师的故事。故事发生在一个美丽的城邦王国，王国的百姓勤劳善良，军队忠诚强大。然而，国王在一次游猎中结识了流浪法师，并恳请法师担任宫廷大法师。随着时间的推移，《国王与商人2》的情节逐渐展开，展示了国王在妻女的诞生以及王国遭遇黑死病后的绝望。在法师的帮助下，国王决定启动一个有风险的魔法阵，企图驱散病魔。随着故事的发展，揭示了法师的真实身份与意图，原来这个法师是一个隐匿的死灵法师，为了延续生命而策划了一场阴谋，试图通过抽取死者灵魂来获得力量。整个故事充满了自我认知的冲突、危险的魔法，以及权力与信任的游戏。内容中涉及到一些刺激性的元素，包括角色的伪娘形象以及征服与调教的情节，使得这一小说适合成人读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_国王与商人2.docx]([附身]_国王与商人2.docx)
 | Size            | 30961 bytes                           |
 | MD5             | a4ca077c4f4cf18cc3b8c247a2d06498                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 魔法, 自我认知, 灵魂抽取, 死亡, 法师, 王国, 黑死病, 伪娘, 权力斗争, 冒险, 奇幻, 亲密关系, 调教, 反转结局, 二次元, 剑与魔法, 成人情节, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

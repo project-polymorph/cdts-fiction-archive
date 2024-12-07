@@ -7,7 +7,7 @@ TXT 下载: [[附身]_艳八仙系列-李铁乖成仙第三节.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《艳八仙系列-李铁乖成仙第三节》是一部跨性别及变身题材的小说，重点围绕主人公李生的性别转变与自我探索展开。在这一节中，李生在一次神秘经历后，被神仙金星告知自己的灵魂将在三日内脱离肉身，接受在艳天天堂的试炼。在这个过程中，李生与一位老者之间展现了复杂的关系，老者似乎以吸收李生的阳气为手段寻求救赎。故事展示了李生对自我身份的探索，以及转变过程中所面临的挑战和内心的矛盾。文中涉及性别、欲望及情感交织等主题，内容包含隐晦的性描写，反映出对性别认同及自我实现的探讨。在一段激烈的情节描述中，李生对老者的情感转变和接受是故事的关键，揭示了人物内心的挣扎与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_艳八仙系列-李铁乖成仙第三节.docx]([附身]_�
 | Size            | 17526 bytes                           |
 | MD5             | 37d7f572c2555b18d2307b1fb048991b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 自我探索, 强烈的自我认同, 男男爱, 丽人, 欲望纠葛, 神话元素, 灵魂出窍, 妖精, 青少年性教育, 女性视角, 全人类的爱, 情感矛盾, 探索与救赎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

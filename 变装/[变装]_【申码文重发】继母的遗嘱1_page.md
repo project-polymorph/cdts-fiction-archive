@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【申码文重发】继母的遗嘱1.doc]([变装]_【申
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换和遗产继承的小说，主要讲述了男主角拉里在继母去世后，必须遵循一份不寻常的遗嘱。遗嘱的条款要求他必须采用新的女性身份，像名为丽莎·史密斯的年轻女性一样生活，而这项限制是其继母为了阻止他与过去的朋友重聚所设定的。随着故事的展开，拉里逐渐陷入为了获取三百万美元的遗产而不得不屈从于继姐莎拉的控制，成为她的“女仆”。小说中涉及了一些自我认知的冲突，男主对自己性别角色的重新定义，以及在家庭背景复杂的环境下的心理挣扎。具体内容包括：拉里在遗嘱宣读时的震惊与不满，他对新身份的反抗，他与莎拉之间复杂的关系，以及最终接受莉莎这个身份等情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【申码文重发】继母的遗嘱1.doc]([变装]_【申
 | Size            | 73216 bytes                           |
 | MD5             | b58b6b134243dcab7fc564cc533bdbd1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, TS变身, 家庭关系, 遗嘱, 身份转变, 强制变装, 青少年心理, 自我探索, 性别认同, 情感纠葛, 戏剧性冲突, 财富与控制, 女性化教育, 性别角色, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

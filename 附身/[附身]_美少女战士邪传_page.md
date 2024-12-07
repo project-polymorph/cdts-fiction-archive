@@ -7,7 +7,7 @@ TXT 下载: [[附身]_美少女战士邪传.docx]([附身]_美少女战士邪传
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部与美少女战士相关的伪娘与跨性别主题的小说，描绘了魔王与小妖在阴暗地下宫殿中策划抓捕美少女战士的情节。故事开始于魔王对手下小妖的不满，他们派去侦查的妖怪未能如期返回，甚至损失惨重。魔王因无法吸取‘极阴之女’的阴元而显得异常恼火。经过一番波折，最终抓住了美少女战士水野亚美，这名角色以优雅的外表和强大的力量著称，魔王开始打算如何处置她。随着情节的发展，奥斯这位妖怪决心要成为亚美，计划通过某种术法占有她的身体。这部小说融合了强烈的性转和性别认同主题，描绘了角色在外部与内部的挣扎和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_美少女战士邪传.docx]([附身]_美少女战士邪传
 | Size            | 27386 bytes                           |
 | MD5             | ce30840dba5f983281439a36334f9bbc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 美少女战士, 伪娘, 跨性别, 魔王, 妖怪, 变身, 阴暗地下宫殿, 挣扎与冲突, 青少年, 奇幻冒险, 情感纠葛, 性别认同, 极阴之女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

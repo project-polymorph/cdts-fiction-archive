@@ -7,7 +7,7 @@ TXT 下载: [[变装]_囚徒女仆2.doc]([变装]_囚徒女仆2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别转变和角色认同的小说摘录，叙述了男主角杰西因某种原因被迫穿着女性服装（女仆装）在不同角色之间挣扎的情节。在故事中，杰西的内心充满了对身份的混淆和对外界压力的反抗，竟然不得不服从他人对他的命令，以适应他的新身份‘杰西卡’。作者通过对细节的描写，如杰西对穿女仆裙子的屈辱感，以及他和女性角色阿曼达的互动，展现了角色间权力的动态和平衡。此文中涉及强迫与服从的主题，还有一些性别角色扮演的元素，展示出服装对于角色自我认同的重要性。文件中生动描绘了角色们的情感冲突，提供了对于性别变化及其情感影响的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_囚徒女仆2.doc]([变装]_囚徒女仆2.doc)
 | Size            | 42496 bytes                           |
 | MD5             | 9234740fd9cad162fb03705ffda74c06                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 跨性别角色, 女仆制服, 性别认同, 角色扮演, 内心挣扎, 自我探索, 性别转换, 强迫服从, 女性化, 羞耻感, 权力动态, 心理关系, 性别冲突, 二次元小说, 幻想, 性别角色, 女仆文化, 情感戏剧, 避难所, 社会压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

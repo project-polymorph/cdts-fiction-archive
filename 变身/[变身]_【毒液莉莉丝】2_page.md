@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【毒液莉莉丝】2.doc]([变身]_【毒液莉莉丝】
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件展示了一段关于角色性别转换及自我认同冲突的故事，围绕着主要角色莉莉丝和韩雨瞳的互动展开。故事开篇，莉莉丝在一个陌生的环境中醒来，感到身体被限制，无法动弹，嘴里被塞住，随后她与韩雨瞳的对话揭示了她的身份以及被困的原因。韩雨瞳是一位拥有暗红色长发，穿着暴露的女性角色，她在与莉莉丝的对峙中透露出自己的真实身份及目的，展现出一种双重身份的危险感。故事中隐含了性别认同、身体掌控以及复杂的人际关系，通过描述莉莉丝的反抗与绝望，表达了角色在不断变换的自我认知中所面临的心理斗争。随着故事发展，韩雨瞳的真实身份逐渐显露，揭示出涉及到怪物、实验以及变身的主题，最终引导莉莉丝面临选择。整个文本通过生动的叙述和紧张的情节进展，探讨了性别、身份与欲望之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【毒液莉莉丝】2.doc]([变身]_【毒液莉莉丝】
 | Size            | 56320 bytes                           |
 | MD5             | dacb78232877acab9fb65df0aeb1d7ab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, 心理斗争, 角色互动, 秘密身份, 莉莉丝, 韩雨瞳, 恐怖, 幻想, 转校生, 实验, 情感纠葛, 绑架, 自我探索, 暗红色长发, 胶衣                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_奪った友人と、奪われたクラスメイト.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是对一篇日本小说的翻译，原文名为《奪った友人と、奪われたクラスメイト》。故事围绕一位名叫佐仓理穗的少女展开，她的性格在一次事故后发生了巨大的变化。故事开始时，班级的同学竹中敦因雷击而去世，班级气氛因此变得沉闷。然而，在搬走竹中座位的时候，佐仓意外接触到竹中的课桌，身体产生了异样，并开始发生性格上的改变。之后，读者发现竹中的灵魂进入了佐仓的身体，导致她的个性与行为发生了巨变。竹中通过获得佐仓的身体开始享受作为女生的生活，进行各种之前不曾有的冒险和放纵。文件中详细描述了角色的内心挣扎、性别认同与性行为的复杂性。这段故事结合了伪娘、性转、跨性别等多重元素，探讨了性别和身体的关系，涉及了许多色情和意味深长的场景，值得深入研究与分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_奪った友人と、奪われたクラスメイト.doc]([
 | Size            | 55296 bytes                           |
 | MD5             | 96ff3f3df9f69a382318ec27a64bf091                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ファンタのコーラ味                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 灵魂附身, 校园, 爱情, 自我探索, 性认同, 禁忌爱, 改变, 二次元, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

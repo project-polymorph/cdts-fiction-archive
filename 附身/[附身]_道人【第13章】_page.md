@@ -7,7 +7,7 @@ TXT 下载: [[附身]_道人【第13章】.docx]([附身]_道人【第13章】.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为小说《道人》第13章，围绕主角刘云青与一只鬼魂之间的对话展开，涉及复杂的法术和身份转换的情节。故事中，刘云青收到了一种可以让他披上他人皮肤的法术，这种法术不仅可以改变外貌，还能借用他人的身份。鬼魂向刘云青详细解释了如何将活人皮肤剥离并披在自己身上，暗示了剧中可能出现的复杂情感和伦理问题。在这个过程中，刘云青被诱惑，陷入了一个充满欲望与道德挣扎的困境。他的内心挣扎与外界的生死攸关的局面交织，使得整个情节充满悬念。本章节的情节也涉及到一些阴暗的主题，比如操控、身份盗用与超自然力量等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_道人【第13章】.docx]([附身]_道人【第13章】.d
 | Size            | 26840 bytes                           |
 | MD5             | 56215d0204a1a4992ba5ab29379edb41                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 鬼魂, 道教, 欲望, 身份认同, 操控, 生死, 伦理, 穿越, 法术, 悬疑, 奇幻, 暴力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

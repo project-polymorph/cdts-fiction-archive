@@ -7,7 +7,7 @@ TXT 下载: [[附身]_琉璃魂玉--上.doc]([附身]_琉璃魂玉--上.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个名叫孔白的中学生与其母亲芮一帆之间的故事。孔白在学校遭遇母亲的训斥，因为其母对他的学习态度颇为关注。故事中，孔白的父亲由于工作上的失误而陷入低谷，导致家庭关系紧张。在偶然的情况下，孔白遇到了一位老头，并获得了一个名为琉璃魂玉的神秘玉佩。这个玉佩似乎具备使人灵魂出窍并控制他人身体的奇特能力。为了摆脱母亲对他的严格管教，孔白鼓动同学宋杰使用这个玉佩来附身于他母亲。故事探讨了孔白在使用这块神秘玉佩后所带来的因果关系和道德冲突，以及他与母亲之间逐渐变化的关系。随着故事的发展，孔白开始怀疑这块玉佩的真实性及其潜在的危险。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_琉璃魂玉--上.doc]([附身]_琉璃魂玉--上.doc)
 | Size            | 73728 bytes                           |
 | MD5             | ce5269c065ca580e462d98874ee4e46d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 附身, 琉璃魂玉, 母子关系, 青春期, 自我探索, 家庭问题, 奇幻, 魔法, 二次元, 异宝, 校园小说, 角色扮演, 灵魂出窍, 控制他人, 自我认同, 道德困境, 游戏文化, 友情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

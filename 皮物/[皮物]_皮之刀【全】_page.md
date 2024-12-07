@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮之刀【全】.docx]([皮物]_皮之刀【全】.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕着主要角色李贺与他的女朋友黄艾以及朋友老郭之间错综复杂的关系展开。开篇描绘了李贺追求美丽的罗娜失败的心态，带出了他的性格和生活状态。当李贺去见幼友黄艾时，意外地发现她一人在隐私空间中进行自慰，呈现了一场男女间不同的性快感体验。黄艾的一些自述让李贺困惑，尤其是在黄艾表现出一副‘女性’和‘男性’各自在身体体验上的严重矛盾时。随着情节的发展，黄艾的身份被揭露为实际上是朋友老郭对她身体的占有，带出了一系列关于自我认同、性别身份与身体控制的复杂讨论。故事中不乏露骨的情节描述，尤其是涉及黄艾和老郭之间的身份错位，以及对性别体验的探讨，在某种程度上，提供了对变身与性别流动性话题的反思与想象。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮之刀【全】.docx]([皮物]_皮之刀【全】.docx)
 | Size            | 42511 bytes                           |
 | MD5             | af98e98465432e47695a5cc4364eeb48                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 身体交换, 强奸, 淫荡, 调教, 多重身份, 女性视角, 青春爱情, 秘密花园, 自我探索, TSF, 奇幻, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

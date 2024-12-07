@@ -7,7 +7,7 @@ TXT 下载: [[交换]_钢铁慈悲女神的艺术品（三）.docx]([交换]_钢
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《钢铁慈悲女神的艺术品》系列小说的第三部分，继续讲述主人公凯尔谢的冒险故事。凯尔谢是一名年轻的马车夫，在一次运货途中遭遇不法分子的攻击，并被神秘物品占据身体。在银发少女卡米拉和黑发青年梓岛的帮助下，凯尔谢得以逃脱，但却自愿将身体借给梓岛，以追查事件的真相。故事中展现了灵魂交换、身份混淆和紧张的潜入行动，角色们面临着诸多身份和情感的挑战。文件中有丰富的角色描绘，包括凯尔谢、娜莎、卡米拉及梓岛等，涉及至神艺的神秘力量以及角色间复杂的关系脉络。文本中还包含限制级的情节，例如情感纠葛与身体探索的描写，引发对性别与身份认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_钢铁慈悲女神的艺术品（三）.docx]([交换]_钢
 | Size            | 31548 bytes                           |
 | MD5             | 89f63d7f4a6fb3485037a5c76fb89b5e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转题材, 灵魂交换, 角色扮演, 冒险, 青春期困惑, 二次元小说, 强制附身, 友情与信任, 探索自我, 身份认同, 跨性别元素, 禁忌关系, 奇幻冒险, 情感纠纷, 谍战, 情感升华, 未知力量                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

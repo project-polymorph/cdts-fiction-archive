@@ -7,7 +7,7 @@ TXT 下载: [[交换]_花开花落（六）.doc]([交换]_花开花落（六）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《花开花落（六）》是一篇围绕一起猛虎伤人事件展开的故事，描绘了社区内人们对事件的关注和警方的处置行动。故事中的主人公杨蕾作为一名警官，负责指挥抓捕一头在小区内活动的黄纹老虎。她面临的不仅是对老虎的捕捉任务，更是对人群的安抚和误会的解决。在故事的发展中，杨蕾误认为一名被押的男人是指挥老虎的嫌疑人，但经过调查确认后，警方对他表示了歉意。随着事件的推进，杨蕾发现自己体内是否能保住老虎的生命，她心中对生命的权衡与角色的心理挣扎都被鲜明地描绘出来。故事的后半部分，杨蕾与儿子郭哲明的重聚，再次增加了情感的深度，描绘了家庭间的关爱与误解。故事中对于人物之间关系的描写，以及对生命和自由的深刻思考，使得这篇小说充满张力与魅力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_花开花落（六）.doc]([交换]_花开花落（六）.
 | Size            | 76288 bytes                           |
 | MD5             | a1e0feb3b2198a756901af6b357b5bf6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 猛虎, 警察, 家庭关系, 性别认同, 误会, 情感冲突, 动物保护, 社区事件, 亲情, 自我探索, 变形, 危机处理, 心理斗争, 人兽关系, 社会关注, 社会责任                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

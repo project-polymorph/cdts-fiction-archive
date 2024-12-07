@@ -7,7 +7,7 @@ TXT 下载: [[变装]_淘金者2.doc]([变装]_淘金者2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换与跨性别主题的小说，描述了主人公西里尔在父母的支持下接受女性形象的转变。西里尔在故事中体验了穿着母亲衣物的兴奋，逐渐接受了作为女孩的生活和角色。故事详细描绘了她挑选校服、假发、内衣及各种女性服饰的过程，并与“父母”克里斯和乔一起逛街购物的情节。这些环节充满着性别认同、自我探索的主题。伴随性别认同过程的还有心理上的波动和对自我形象的重新定义，表现出其内心的转变与成长。文件中包含了一些涉及至性暗示和跨性别主题的细节，为进一步研究相关性别话题提供了丰富的素材。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_淘金者2.doc]([变装]_淘金者2.doc)
 | Size            | 39936 bytes                           |
 | MD5             | ce78732da123cf7b8497d11cf5ea65fb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 自我探索, 女性形象, 家庭关系, 心理转变, 购物体验, 性别认同, 青春期, 跨性别, 内衣文化, 母子关系, 父女关系, 二次元文化, 情感纽带, 成长故事, 角色扮演, 社会认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

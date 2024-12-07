@@ -7,7 +7,7 @@ TXT 下载: [[附身]_月，魔界的崛起(一).docx]([附身]_月，魔界的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部性转题材的小说，名为《月，魔界的崛起》。故事发生在一个大学校园中，主人公李佳林是新入学的学生，怀揣对大学生活的憧憬与期待，初次踏入校园。在描写校园生活的过程中，他对周遭的美丽事物产生浓厚的兴趣，特别是对女性的吸引力，展现出他对自身性别认同的探索。文章通过细腻的心理描写和对校园环境的描绘，呈现了李佳林的成长历程以及他逐渐意识到的自我认同危机。在李佳林与学姐王晓玥的互动中，展现出角色间的吸引与幻想，暗示了一个更为复杂的身份认同问题。故事中提及的神秘「魔标」将会成为改变李佳林命运的关键，预示着他即将经历的变化与冒险。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_月，魔界的崛起(一).docx]([附身]_月，魔界的�
 | Size            | 16229 bytes                           |
 | MD5             | 55a0544435e73ac0bbb246dca5cea10c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 校园, 跨性别, 魔法, 青春, 自我探索, 角色认同, 变身, 伪娘, 女神, 情感纠葛, 新生, 魔界, 梦境, 魔法标记, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_魔鬼又在人间（上）.docx]([交换]_魔鬼又在人
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《魔鬼又在人间（上）》描写了一个关于混沌时代两种智慧生物的故事。这些生物无固定外形和性别，具有强大的法力，能够与你在肉体世界有所联系。故事开头提到，这两种生物分别通过促进或阻碍其他生物的繁殖来获取力量，导致极大的生物灭绝和环境变化。在长时间的冲突后，双方达成和解，创立了各自的领地：天界和地狱。主角是下界的统治者，整天忙于调配资源、规划未来以及召开各种会议，但在此过程中的浮躁，促使他思考闲暇之下的意义。此篇小说融入了性别转换、身份认同等多重主题，正文中展现了主角与助手之间的互动、思考与对人类世界的好奇。整体来看，作品围绕生物与生物之间的不同境遇与冲突，穿插了友谊与自我寻找的元素，将两种生物的性别与自我认同的话题结合，将复杂的情感与道德抉择呈现给读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_魔鬼又在人间（上）.docx]([交换]_魔鬼又在人
 | Size            | 21998 bytes                           |
 | MD5             | d331f4b66fba189d5255d41e6ffb0387                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 性别转换, 身份认同, 恶魔, 和解, 自我探索, 友谊, 下界, 天界, 条约, 历史, 奇幻, 二次元, 人类互动, 冒险, 混沌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

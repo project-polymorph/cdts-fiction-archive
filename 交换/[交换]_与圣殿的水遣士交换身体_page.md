@@ -7,7 +7,7 @@ TXT 下载: [[交换]_与圣殿的水遣士交换身体.docx]([交换]_与圣殿
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《与圣殿的水遣士交换身体》，描绘了一位勇者在异世界与名为水遣士的角色交换身体后，经历了一系列挑战与困惑的故事。故事开篇介绍勇者为了讨伐魔王而踏上旅程途中，源于与哥布林BOSS的战斗意外地触发了一件魔法道具，使他和水遣士身体互换。文件内容通过他们的对话，展示了各自对自身身份和身体变化的惊愕与羞涩。勇者在水遣士的身体里发现自己拥有女性特征，而水遣士则在勇者的身体里感到陌生与困惑。两人经历了无数尴尬和不适，同时也展开了对彼此性别认同和身体特性的深入探讨。整篇小说充满了奇幻色彩，也触及了对性别与身份的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_与圣殿的水遣士交换身体.docx]([交换]_与圣殿
 | Size            | 38423 bytes                           |
 | MD5             | 8c68fff15c675895ff278169b6474c72                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 异世界, 勇者, 水遣士, 魔法道具, 女性身份, 青年心理, 自我认同, 奇幻小说, 身体互换, 羞耻感, 魔物战斗, 成长, 探索自我, 身体认知, 角色转换, 纵欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

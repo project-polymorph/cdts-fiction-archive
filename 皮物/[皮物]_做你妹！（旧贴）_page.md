@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_做你妹！（旧贴）.docx]([皮物]_做你妹！（旧
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕一个高中生的身份变换故事展开。在C市第一高中校门口，女孩与一位迷路的老者的偶遇，展示了人性中的善良与细腻，展现了校园的日常。然而，故事的核心却转向了主角李峰，他在某种情况下经历了性别的转变，变成了一个名叫孙晓茹的漂亮女孩。李峰对自己的新身份感到惊讶和冲突，书中详细描写了他如何适应新的身体，探索自己变身后的心理变化，充满了自我认知和性别认同的复杂体验。在描述中，许多细节描写了孙晓茹在镜子中的反应以及内心的挣扎，妥善捕捉了情感的复杂性和身体感知的自由。与传统的性别转换故事不同，故事中还融入了很多关于性、欲望和身份认同的元素，丰富了剧情的层次感。尽管初期的情节似乎透露出少年少女之间的清纯互动，但随后的内容逐渐向更为成熟的主题发展，探讨了性欲和身体自主等更为深刻的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_做你妹！（旧贴）.docx]([皮物]_做你妹！（旧
 | Size            | 41912 bytes                           |
 | MD5             | 624d5d76e943b6aaf933e3e8d335b24b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 角色扮演, 青春校园, 自我探索, 跨性别, 性别转换, 欲望, 内心挣扎, 青春期, 女性视角, 二次元, 伪娘, 奇幻, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

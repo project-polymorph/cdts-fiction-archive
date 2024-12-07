@@ -7,7 +7,7 @@ TXT 下载: [[交换]_急性换身欲望（校园篇）：学霸×太妹.docx]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇校园题材的性转小说，讲述了男主王景岐与女同桌孙昕佳的互动与冲突。故事开头，王景岐因孙昕佳的行为向班主任请求更换同桌，孙昕佳则是一位全校知名的女混混，个性强势、叛逆。随着情节的发展，孙昕佳通过一个神秘喷雾，逐渐引发了一系列意想不到的事件，导致王景岐的性别意识受到挑战，产生了许多性幻想和混乱的情绪。小说通过角色的对话与内心独白，探讨了家庭背景、社会地位等对个人成长的影响，以及性别认同与欲望之间的复杂关系。文件内容包含一些成人向情节和性幻想的描写，涉及性别转换、自我认知等主题。特定情节如“在欲望的驱使之下，我双腿不停交叉”等，展示了男主对性欲的无奈与排斥。此作品整体上有较为明确的性暗示和性行为的描述，适合成年读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_急性换身欲望（校园篇）：学霸×太妹.docx]([
 | Size            | 447971 bytes                           |
 | MD5             | 1a4b05e307d93462a9e389a8cc8c32ee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 校园, 伪娘, 青春, 性欲, 性别认同, 自我探索, 青少年的冲突, 成人内容, 异性之间的互动, 欲望与压抑, 社会阶层, 角色扮演, 神秘喷雾, 情感纠葛, 叛逆与成长, 情欲, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

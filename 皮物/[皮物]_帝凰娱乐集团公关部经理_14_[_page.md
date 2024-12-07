@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_14_[.docx]([皮物]_帝�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘 TS 变身与跨性别相关小说的第十四章，主要描绘了角色夜风在一个危险的环境中与其他角色互动的情节。在这段内容中，夜风走进了一栋办公楼，目睹了帮会成员之间的权力对峙和斗争。文中描写了许多角色的外貌和武器，展示了一种激烈的氛围。这章通过夜风的角度展开，揭示了帮会内部的动态，并在多次战斗和争论中探索了角色之间的关系和力量斗争。同时，文本还涉及到了一名神秘女子的出现，她在帮会内部的对峙中扮演了重要角色。整体上，这个章节充满了悬疑和紧张感，并对角色的内心想法进行了深入的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_14_[.docx]([皮物]_帝�
 | Size            | 25138 bytes                           |
 | MD5             | 37ab54efd9233e9777d94519d419026f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 帮会, 争斗, 权力斗争, 女性角色, 武器, 危险环境, 夜风, 神秘女子, 暗黑风格, 自我探索, 情感冲突, 都市背景, 未知身份, 暴力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_女间谍的日常8-23.doc]([皮物]_女间谍的日常8-2
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《女间谍的日常》第八章的节选，主要描绘了角色许伟（现在以女性身份称为许佳莹）在职场生活中的经历和想法。故事以许佳莹在商场购物开始，描绘了她身穿职业装后的心态变化，展示了其性的魅力与内心的挣扎。许佳莹在购买高跟鞋时表现出的对穿着的犹豫，以及在宾馆休息前的细腻心理描写，塑造了这一角色的生活场景及情感。接着，描述了她在公司中与同事（如李燕和张静妍）之间的互动，暗示了许佳莹在职场中面临的性别挑战与复杂的人际关系。此外，角色们之间的亲密接触与暗示性的对话，展示了跨性别与女性身份认同的主题。整体叙述围绕着许佳莹对于新角色的适应过程与情感冲突，同时也涉及到办公室权力结构与性别动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_女间谍的日常8-23.doc]([皮物]_女间谍的日常8-2
 | Size            | 124928 bytes                           |
 | MD5             | 693f4f42e7bd78698d8fcb2da97c7f61                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 职场生活, 性别认同, 情感冲突, 办公室恋情, 职业装, 女性视角, 自我探索, 性别角色, 双性恋, 都市情感, 成人内容, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

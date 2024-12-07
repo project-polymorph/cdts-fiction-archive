@@ -7,7 +7,7 @@ TXT 下载: [[其他]_[非首發]_沒有名字_二章之零_二章之四四A番�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件内容包含了一段关于一名女性在进行面试及其后续经历的虚构故事。在故事的开头，女主小武在一家意大利餐厅进行面试，接待了一些参与者。她与这些人进行交流，并要求他们在特定车上等候，以便前往面试地点。在途中，她将自己伪装成中年男子以避免身份暴露。随着情节的发展，女主与其他面试者之间的对话揭示了他们对即将进行的测试的疑虑和期待。整个故事涉及到虚拟测试员招募的广告，若干关于身份、性别与个人认同的暗示，表现了对现代科技影响自我认知的探讨。如片段所述，”他們倆個用一種非常不自然的慢動作抱在一起滾下河堤”，在此处理了角色之间的情感与自我探索的主题。后半部分则侧重于女主静芬对神秘跑者的追寻，以及她与自己身体变化和梦境的探索，逐步引入关于性别与认同的复杂话题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_[非首發]_沒有名字_二章之零_二章之四四A番�
 | Size            | 43008 bytes                           |
 | MD5             | 36e6cbd56adea72590358e6a017b5fe9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 自我认同, 现代科技, 面试经历, 角色伪装, 身份探索, 虚拟现实, 心理冲突, 青春, 人际关系, 梦境, 青春成长, 神秘跑者, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

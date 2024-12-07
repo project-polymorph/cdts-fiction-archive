@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_美丽的童话_第一章.docx]([皮物]_美丽的童话_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为伪娘与跨性别相关小说的长篇连载，故事围绕几个角色的生日聚会展开，设定在B市的一个别墅区。故事的开始以一个生日宴会作为背景，描述了角色们围绕生活琐事的对话与互动，展现了角色间的友情与冲突。同时，故事逐步引入主角张岩的背景，他是一名大学生，因爷爷的去世而感到失落，并在回忆中反思自己的生活和未来。文中涉及跨性别角色的自我认同，以及张岩对过往的追忆与痛苦，使得整篇小说不仅仅是性转的故事，更是个体对情感和身份探索的描绘。整体气氛较为温馨，也带有一丝悲伤，体现了独立和自我成长的重要性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_美丽的童话_第一章.docx]([皮物]_美丽的童话_�
 | Size            | 24310 bytes                           |
 | MD5             | 283cb2f3294228606e758fb1c6472bed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 自我认同, 亲情, 悲伤, 成长, 家庭, 校园生活, 生活琐事, 友情, 性别探索, 情感纠葛, 文艺, 心理描写, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

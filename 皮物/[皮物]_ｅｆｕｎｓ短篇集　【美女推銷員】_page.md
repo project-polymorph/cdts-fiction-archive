@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_ｅｆｕｎｓ短篇集　【美女推銷員】.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是名为《ｅｆｕｎｓ短篇集　【美女推销员】》的短篇小说，讲述了一位年轻女性在家中遇到了一位推销情趣用品的美女小芬，两人之间的互动带有明显的性暗示和情感交流。内容围绕着推销员向这位太太传达如何改善她与丈夫之间的亲密关系，强调情趣和环境重要性。小芬不仅推销情趣用品，还逐步引导太太从自我形象到情感行为上进行一系列的改变。在过程中，太太逐渐被推销员的魅力吸引，最终在性暗示的气氛中，展现了对自我身份和性别角色的探索与挑战。何以达到吸引丈夫的目的，给读者呈现出情趣、诱惑和性别认同的复杂性。内容涉及性别角色、性意识的转变以及自我探索，情节细腻而含蓄，是一部具有特定文化背景与趣味的性转小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_ｅｆｕｎｓ短篇集　【美女推銷員】.doc]([皮
 | Size            | 78848 bytes                           |
 | MD5             | 7063b8e12b73928de8f651448cf9e49e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 推销员, 情趣用品, 自我探索, 性别角色, 变装, 情感关系, 性暗示, 女性视角, 家庭生活, 青春, 性教育, 情感沟通, 亲密关系, 女性 empowerment                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_无名神的报恩_1-4.docx]([交换]_无名神的报恩_1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别主题的小说《无名神的报恩》的第一卷，内容围绕男主角林健的性别转换经历展开。故事开始于一个阳光明媚的早晨，林健醒来发现自己身体的变化，引发了一系列的心理和情感冲突。在家中，他发现自己之前与无名神相关的小册子，以为是寻找对方的希望，但结果一无所获。林健在与常勇的互动中，表现出对于朋友的关心，以及希望恢复正常状态的焦虑。此外，林健与邱露凝发生了一系列微妙的情感互动，最终因误会而导致两人之间的紧张局面。整个故事通过细腻的心理描写和情感冲突展现了性别认同、自我探索等深刻主题，同时也包含了些许青春校园的生活元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_无名神的报恩_1-4.docx]([交换]_无名神的报恩_1
 | Size            | 22040 bytes                           |
 | MD5             | 656023952cf9dddbc88bc81aea2d8d4c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 男主角, 心理冲突, 情感互动, 青春校园, 伪娘, 女体化, 异性恋, 性别认同, 自我探索, 友情, 误会, 生活琐事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

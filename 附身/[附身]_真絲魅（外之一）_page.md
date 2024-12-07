@@ -7,7 +7,7 @@ TXT 下载: [[附身]_真絲魅（外之一）.docx]([附身]_真絲魅（外之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档描绘了主人公陈东与妻子亚美在新婚旅行中的亲密互动，情节逐渐展开，内容包含性转与跨性别主题。故事开篇描述了陈东对婚姻的幸福感，以及他们在旅馆房间内的亲密行为。随着情节的推进，亚美逐渐展现出明显的性感特征，二人之间的互动在轻松、幽默中充满了暧昧。故事中还涉及了亚美的自我认知与性别认同，展现出角色对自身性别及欲望的探索。文中不乏对身体特征的细腻描写，特别是亚美的性感装束与肢体表达，这些都增加了情节的复杂性和趣味性。此段落最后转向了紧张的情节，陈东发现自己被绑在床上，担恐与惊慌交织，进一步提升了故事的悬疑感和戏剧张力。整体上，这份文件以轻松的对话与生动的场景描述展现了性别与情感的深层面，适合对多元性别主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_真絲魅（外之一）.docx]([附身]_真絲魅（外之
 | Size            | 26547 bytes                           |
 | MD5             | f290229bf5088457f58759afed83243d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 新婚旅行, 亲密互动, 自我认知, 性别认同, 性感, 人体描写, 暧昧, 警察, 悬疑, 心理探讨, 婚姻关系, 角色探索, 现代爱情, 灵异                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

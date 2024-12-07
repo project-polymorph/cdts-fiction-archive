@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔皮（6-10章）.doc]([皮物]_魔皮（6-10章）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件摘录自一部伪娘和跨性别主题的小说，情节围绕着主角Mandy的转变与自我认知展开。故事中，Mandy以女性身份度过国庆假期，但因工作需要匆忙返回，公司要求她加班。回到公司后，由于没有带男装，Mandy不得不选择穿了女性服装。在着装的过程中，Mandy对自己的女性身份产生了复杂的情感，不仅体验到女性装扮的美妙与自信，还与同事小倩的关系愈加亲密。一段描绘Mandy试衣服的场景，展现了她对女性身体和身份的探索，包括穿戴内衣胸罩等细节，细腻地表现出其内心的慌乱与兴奋。此外，Mandy在偶然中发现了小倩为她准备的私密用品，进一步引发了她的内心冲突和欲望。整篇作品充满了对性别认同和自我认知、欲望探索的深刻思考，情节生动而细致。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔皮（6-10章）.doc]([皮物]_魔皮（6-10章）.doc)
 | Size            | 91648 bytes                           |
 | MD5             | 56849882ec6e0156037519d1682d5d4a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 自我探索, 内衣试穿, 情感纠葛, 女性视角, 激动, 欲望, 神秘, 都市异性交往, 青春成长, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

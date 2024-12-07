@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身人生路（6-8）.doc]([变身]_变身人生路（6
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《变身人生路（6-8）》是《变身人生路》系列中第六和第七章的内容，围绕着主角的变身经历展开。故事记述了主角从男性转变为女性后，对其关系的反思和生活的适应。文中主角在收到前男友的表白后，感受到复杂的情感，既有感激也有困惑。在与好友艳芳的互动中，主角经历了性别认同的挣扎和自我认知的变化。在走出家门的准备过程中，主角意识到女孩子的生活方式与之前的男性身份形成鲜明对比，同时也体会到了友情的温暖而非单恋的悲伤。尤其在与艳芳共享生活点滴时，二人感情的微妙转变充满了温馨与幽默。故事的最后描绘了主角与好友共度雨夜与宿舍生活的情景，反映了对感情角色的重新定义与接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身人生路（6-8）.doc]([变身]_变身人生路（6
 | Size            | 58880 bytes                           |
 | MD5             | ac8b70e81cd6cd4d227620b860c25601                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 异性恋, 友情, 自我探索, 校园生活, 伪娘, 男娘, 性别转换, 复杂情感, 变嫁, 心理冲突, 二次元, 女性视角, 成长故事, 生活琐事, 青春爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

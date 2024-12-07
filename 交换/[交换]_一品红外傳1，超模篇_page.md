@@ -7,7 +7,7 @@ TXT 下载: [[交换]_一品红外傳1，超模篇.doc]([交换]_一品红外傳
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《交换_一品红外傳1，超模篇》呈现了一段情节复杂的性转与跨性别题材故事。故事的主线围绕着一个名为阿贤的男子，他在父亲的指示下被迫将意识转移至一位昏迷的女子身上。这位女子是最近崭露头角的超模爱薇儿•斯蒂芬。故事开头描述了阿贤对变身的恐惧和对父亲指令的抵抗，随着故事的发展，女子的灵魂似乎反向吞噬了阿贤的意识，导致一系列恐惧、迷茫与欲望交织的情节。故事的内容包含了大量的性暗示与成人向描述，展示了角色在性别与身份之间的挣扎。文中多次描写了阿贤对超模身体的占有欲与性幻想，以及他与父亲之间的复杂关系，加入了对玛雅文化的暗示，以及对人性的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_一品红外傳1，超模篇.doc]([交换]_一品红外傳
 | Size            | 40448 bytes                           |
 | MD5             | cb1bcdb698b01ed230cd9465519ffa9a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 超模, 自我探索, 欲望冲突, 玛雅文化, 身份认同, 性别认同, 恶搞, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

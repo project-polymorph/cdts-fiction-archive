@@ -7,7 +7,7 @@ TXT 下载: [[变身]_夫妻.docx]([变身]_夫妻.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于企业破产与重生的跨性别小说，描写了一位企业领导在经历商业上的巨大挑战与失败后，神秘地被转移到他人的身体中。在故事开头，主角是一位正在紧急应对公司经营危机的CEO，由于市场的恶化和供给链的问题，公司面临破产的风险。随着股东们的质疑和经济压力的加大，主角发现自己被竞争对手暗算，最终在绝望中走到公司大楼的顶端。正当他准备自杀时，遇到了他的宿敌，并在对话中被其手下抓住。在昏迷醒来后，他发现自己在真谷集团总部，并且不知怎的变成了女性，完全失去了自己的原有身份。小说通过主人公在女身体中的探索和自我认知的变化，反映了性别认同、自我形象、以及与社会角色的抗争。从最初的混乱到逐步接受这一切，故事展现了复杂的情感与社会期待之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_夫妻.docx]([变身]_夫妻.docx)
 | Size            | 60987 bytes                           |
 | MD5             | d3cfc715e51f26c57d819d906307d4be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 转变, 企业危机, 自我探索, 变身, 跨性别, 故事叙述, 角色冲突, 都市生活, 社会压力, 女性视角, 经济压力, 精神迷失, 商战, 身份转变, 惊悚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

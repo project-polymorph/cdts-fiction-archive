@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魔壞新文之分身（一）.docx]([附身]_魔壞新文
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于公务员考试前的心理描写与人物互动的小说，主人公桂林在经历了几次公务员考试失利后，期待这次能考上公务员，改变自己的人生。故事开始于四月二十号，桂林和朋友宁南在一起聚会，却因醉酒而对未来感到迷茫。第二天，他参加了公务员考试，在考场中，他被一个拥有丰满胸部的女孩吸引，尽管他对美女保持着尊重，但这次遇见让他对未来充满了新期待。整段故事通过细腻的心理描写与环境渲染，表现了主人公的烦恼、期待和对美的向往，同时也揭示了社会对公务员的认可与追求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魔壞新文之分身（一）.docx]([附身]_魔壞新文
 | Size            | 40773 bytes                           |
 | MD5             | e3dee683e89018ef1ff5f6da3cb40480                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 公务员考试, 梦幻追逐, 男主角内心独白, 校园爱情, 熟女控, 心理描写, 烦恼与期望, 青春梦想, 性别认同, 考试压力, 二次元文化, 变身幻想, 温柔调侃, 友谊, 自我探索, 偶遇                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

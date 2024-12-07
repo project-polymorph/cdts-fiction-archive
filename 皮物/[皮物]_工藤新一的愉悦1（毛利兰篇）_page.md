@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_工藤新一的愉悦1（毛利兰篇）.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇关于工藤新一与毛利兰的性转小说，围绕工藤新一通过一种药物变为成年男性后与毛利兰之间的情感与身体交互展开情节。故事开场于一个隐秘的房间，经过一番打斗后，工藤新一获得了变身成成年男子的机会，而毛利兰则在戏剧性的时刻支持着他。随着情节的发展，两位角色之间的情感逐渐升温，并呈现出复杂而禁忌的互动，包括对性与身份的探索与疑惑。文中描绘了工藤新一对成长的期望与面对自我转变的挣扎，以及与毛利兰之间多层次的心理与情感交融。小说的高潮部分涉及他们在房间内的亲密行为，伴随着激烈的情感交流与身体上的愉悦。整体故事通过幻想与性别角色的交替探讨了自我认同与人际交往的微妙关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_工藤新一的愉悦1（毛利兰篇）.docx]([皮物]_�
 | Size            | 19732 bytes                           |
 | MD5             | 13aedbae8f606c5084384506fc670af8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 科幻, 爱情, 禁忌关系, 幻想, 自我探索, 情感交融, 心理斗争, 少年成长, 双性恋, 药物影响, 人际交往, 绅士与少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

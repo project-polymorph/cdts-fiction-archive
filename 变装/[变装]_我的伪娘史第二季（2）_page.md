@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的伪娘史第二季（2）.docx]([变装]_我的伪�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《我的伪娘史第二季（2）》的部分内容。故事围绕主人公林可展开，他在一周内接受变化，习惯与朋友们的互动。作品描绘了他在某晚宴上的体验，表现了主角因打扮成女性的自我认知及身份危机。在宴会上，林可穿着晚礼服，努力维持女性形象，却不幸与熟人相遇，情节中的不安与窘迫感跃然纸上。通过角色间的对话，展示了对性别认同和自我探索的思考，同时包含幽默和轻松的元素。作品将视觉的变化与内心的挣扎结合，让人在阅读中感受到角色的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的伪娘史第二季（2）.docx]([变装]_我的伪�
 | Size            | 22229 bytes                           |
 | MD5             | 7e0219509b40336ff5570d32a8b21cb0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 跨性别, 性别认同, 自我探索, 晚礼服, 角色扮演, 社交尴尬, 性别角色, 青春, 游戏文化, 二次元, 恋爱, 女性化, 聚会, 轻小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

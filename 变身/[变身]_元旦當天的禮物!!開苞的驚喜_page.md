@@ -7,7 +7,7 @@ TXT 下载: [[变身]_元旦當天的禮物!!開苞的驚喜.docx]([变身]_元�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个跨性别主题的小说，具体讲述了一个高中生在元旦这天被神秘礼物影响，性别转换成女性的经历。文本展现了主角从一名男性逐渐变为女性的过程，并从心理和生理两方面探讨角色的自我认知与感受。故事开始于主角与表哥在一起玩游戏，之后收到一个充满神秘感的小礼物，打开后不慎被神奇液体淋到，导致性别发生转变。随着故事的发展，主角逐渐体验到女性身体的变化，并对表哥的反应感到惊讶与困惑。作品涉及了性别转换、对新身份的适应、以及角色之间复杂的情感动态，内容包含部分限制级与性相关情节，通过对情感与生理的描写，展示了角色的内心挣扎与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_元旦當天的禮物!!開苞的驚喜.docx]([变身]_元�
 | Size            | 25547 bytes                           |
 | MD5             | 29bdb3a0d81bcc47dd650b176eb4ae81                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2016-01-01                                 |
+| Tags            | 性别转换, 变身, 跨性别, 青春期探索, 家庭关系, 男女性别认同, 神秘礼物, 自我认知, 身体变化, 性别身份, 禁忌爱情, 心理冲突, 自我接纳, 奇幻, 成人内容, 情感纠葛, 青春恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

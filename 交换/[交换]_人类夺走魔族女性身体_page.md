@@ -7,7 +7,7 @@ TXT 下载: [[交换]_人类夺走魔族女性身体.doc]([交换]_人类夺走�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇设定在奇幻世界的小说，情节围绕着人类与魔族之间的冲突和后果展开。在这场长达40年的战争中，人类的勇者成功击败了魔族的魔王，使人类取得胜利。然而，胜利后的人类并未停止对魔族的迫害，战后，人类迫使投降的女魔王及她的部下在王宫被囚禁，并成为人类的实验对象。在这场险恶阴谋的背后，国王和大臣使用了一种名为“换魂装置”的奇异装置，将女魔王的灵魂转移到流浪汉的身体里，从而让魔族的灵魂被困在弱小的人类身体中。故事中描绘了女魔王和她的部下在失去魔力和尊严后，面临的绝望与屈辱。这部小说探讨了性别身份、权力与生存的主题，同时采用了夸张与黑暗的情节设定，以讽刺人类对于魔族的优越态度与残忍行径。小说中包含了许多对人类与魔族关系的深层次反思以及对权力滥用的批判。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_人类夺走魔族女性身体.doc]([交换]_人类夺走�
 | Size            | 67584 bytes                           |
 | MD5             | 8abccc283ec7af89ea95ebc80a3a9c61                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔族, 勇者, 人类, 女魔王, 灵魂交换, 权力, 战争, 性别身份, 绝望, 黑暗幻想, 生存, 转变, 强权, 统治, 反乌托邦, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

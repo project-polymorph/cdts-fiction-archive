@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_聖誕結.doc]([皮物]_聖誕結.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是一部关于跨性别与魔法元素结合的小说，讲述了一个名为天行的角色与一个神秘的圣诞老人之间的奇幻故事。在故事中，天行的女儿卧病在床，而他作为父亲受到重创。故事的开头描述了天行的家庭困境，他的妻子因脑癌去世，令他只能带着女儿相依为命。在圣诞节的夜晚，传统的圣诞老人形象却变得怪诞与神秘，带来了一瓶能够改变人生的魔法药物。天行在极度的悲伤和对母亲的怀念中被卷入了魔法的漩涡，面对重大的选择和自我认知的变迁。在通过魔法手段恢复母亲的过程中，逐渐揭示了关于身份、爱的复杂主题。小说深入探讨了角色的内心世界，涉及了性别认同、亲情、魔法与自我牺牲等元素，形成了一幅色彩斑斓而又引人深思的情感画卷。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_聖誕結.doc]([皮物]_聖誕結.doc)
 | Size            | 34304 bytes                           |
 | MD5             | 7f8ee93471054107509884ad510e60a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 魔法, 圣诞节, 奇幻, 角色转变, 自我认同, 爱与牺牲, 女性角色, 魔法药物, 家庭关系, 失去与重生, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

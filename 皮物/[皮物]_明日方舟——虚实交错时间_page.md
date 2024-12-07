@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_明日方舟——虚实交错时间.docx]([皮物]_明日
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于角色扮演游戏《明日方舟》的原创小说，围绕一名失忆的博士在罗德岛（一个虚构的制药公司及战斗组织）中的日常生活展开。故事通过第一人称视角，描述了博士与助手阿米娅以及其他干员之间的互动。开头提到博士因查看典籍而发现罗德岛的危机，随后有多位角色的日常对话，诸如阿米娅的形象、博士与黑角的互动，以及博士与安塞尔的亲密举动，展现了角色的可爱与幽默，同时也暗示了跨性别与性别认同的话题。在这些对话中，博士表现出对年轻干员安塞尔的调侃和兴奋，故事中穿插着各种张力和幽默，使得角色形象生动。值得注意的是，本文件的内容可能涉及性暗示及对性的探讨，符合某种成人向小说的特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_明日方舟——虚实交错时间.docx]([皮物]_明日
 | Size            | 84648 bytes                           |
 | MD5             | 7e5562fbc23741b672840962c2fc6836                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 彤琦瑞、雪风                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 明日方舟, 伪娘, 变身, 跨性别, 角色扮演, 性感, 幽默, 日常生活, 医学, 战术指挥, 青春冒险, 虚拟现实, 互动, 性别角色, 调侃, 热血                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_花都狐影前传之阴阳大盗1~2.docx]([变身]_花都
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件是小说《花都狐影》的前传，名为《阴阳大盗》。故事围绕一名光头男性仆人与大小姐之间的复杂关系展开，暗藏了性别与权力的双重游戏。开篇描述了一个夜晚，光头仆人搀扶着外貌柔媚的女子到达她的闺房。在此情此景中，女子似乎对仆人产生了挑逗，进而发生了肉体关系。文中详细描绘了两人间的旖旎情景以及随之而来的冲动与欲望。情节急转直下，揭示了与该女子长得一模一样的阴阳大盗作案，用其外貌勾引受害者及其亲近的仆役，形成了一系列的乱事。此文充满了色情描写与暗黑爱情，其中不乏对性别流动与身份认同的探讨。虽然相关情节让人震惊，但文中正在调查的吃香道德问题与受害者的身心困扰，同时也为后续的情节埋下了伏笔。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_花都狐影前传之阴阳大盗1~2.docx]([变身]_花都
 | Size            | 21895 bytes                           |
 | MD5             | e7f680813baef61da1a4f9b69505875b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 强奸, 阴阳大盗, 女体化, 自我认知, 身份认同, 性别转换, 禁忌之恋, 跨性别, 奇幻, 东亚文化, 都市奇幻, 成人小说, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

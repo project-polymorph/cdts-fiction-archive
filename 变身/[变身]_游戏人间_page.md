@@ -7,7 +7,7 @@ TXT 下载: [[变身]_游戏人间.doc]([变身]_游戏人间.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《游戏人间》讲述的是一位富二代庆子文在一次意外车祸中，透过神秘男子的指引，进入一个充满虚幻与欲望的白色空间。在这个空间中，庆子文首先面临着生死的抉择，逐渐意识到自身的空虚和对欲望的渴望。故事展现了他内心的挣扎，如何面对内心的欲望与道德的限制，并在潜意识中驾驭即将到来的险境。在神秘男子的安排下，庆子文获得了一个体验系统，这个系统可以帮助他释放潜藏的欲望，通过身体交换、附身等手段体验不同的人生。文中融合了若干性转、变身和超现实的元素，探讨了人性、欲望以及身份认同等深刻主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_游戏人间.doc]([变身]_游戏人间.doc)
 | Size            | 122368 bytes                           |
 | MD5             | 94773b4e318d2dc343c7b16f9dbbf6d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 欲望探索, 自我认同, 超现实主义, 人生意义, 身体交换, 富二代, 虚拟实境, 青春迷茫, 心理斗争, 财富与空虚, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

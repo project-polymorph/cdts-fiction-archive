@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_便利店的鹿岛小姐代理_上.docx]([皮物]_便利�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一位名叫单海提督的普通便利店员工与新来的同事鹿岛小姐之间的互动故事。故事开始于春天，单海提督正忙于便利店的工作，而鹿岛小姐是最近新加入的女员工。鹿岛小姐是一位穿着可爱制服的女孩，性格开朗，身材纤细，给人一种二次元角色的感觉。两人在工作中经常互动，互相交流，单海提督对鹿岛小姐的外貌感到欣赏，常常在心中为鹿岛充满魅力的表现而感到心跳加速。随着两人一起工作，单海提督内心的情感渐渐滋生，充满了对鹿岛的好奇和暗恋的心态。故事中还穿插了单海与鹿岛在休息时间的对话，通过细腻的心理描写展现了他们之间的重要时刻，包括鹿岛对单海的信任及请求代班的情节，这一切都在逐渐加深他们的关系。整体来说，这是一部围绕恋爱主题的温馨作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_便利店的鹿岛小姐代理_上.docx]([皮物]_便利�
 | Size            | 26333 bytes                           |
 | MD5             | bc8c3a1f1a1706ba1bf3abca45a70a7c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 便利店, 恋爱, 单海提督, 鹿岛小姐, 二次元角色, 青春, 工作生活, 角色互动, 自我探索, 情感关系, 心理描写, 暗恋, 萌系角色, 社交互动, 职场恋情, 纯爱, 轻小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

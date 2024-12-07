@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_往日的是、皮肤已经不存在了（续）2.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性别转换和跨性别主题的小说。故事的主人公经历了生理和心理上的巨大变化，描绘了他在社会和个人生活中面临的挑战。内容的开头描述了主人公在家中洗澡时发现自己身体变化的一幕，感到惊讶与恐惧。随着情节发展，主人公与女友小银之间的亲密互动逐渐展现出来，包含了细腻的情感描写与性暗示。在故事中，主人公不仅要面对自我认同的问题，还要处理与女友的关系和隐私的困扰。文本中深入探讨了性别认同、自我暴露等复杂的心理状态，并伴随着一些性相关的情节。作品在刻画情感和心理冲突方面颇具深度，同时也包括了一些露骨的性描写，展现了伪娘与变身主题下的人物关系等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_往日的是、皮肤已经不存在了（续）2.docx]([�
 | Size            | 16542 bytes                           |
 | MD5             | e586ae72836f6b2cceb6dbea8a444be9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 情感冲突, 自我认同, 强烈的性暗示, 女性视角, 心理压力, 亲密关系, 性别动态, 变装, 约会, 初恋, 身体认知, 社会接受, 生理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

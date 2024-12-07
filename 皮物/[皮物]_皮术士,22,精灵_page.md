@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮术士,22,精灵.docx]([皮物]_皮术士,22,精灵.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容为一部涉及性别转换与角色变身的原创小说。主要讲述了角色苏翎在经历了多次变身与转化后，获得了一具特殊的身体。苏翎沉睡三天醒来后，意识到自己的身体与尸妖攸妮的身体发生了融合，形成了新的生命体。这具新的皮囊具有少女的外貌和尸妖的特征，允许苏翎在外界与身体之间随意转换，使得他能够体验不同的身份与能力。在故事中，苏翎在探索与学习魔法的过程中，面临着力量的获取与自我认知的挑战，并逐渐展开与其他角色的互动，涉及到魔法、战斗与个人成长等主题。诸如“攸妮与尸妖的混合体成为了苏翎的另外一个身体”与“苏翎不得不开始审视如今攸妮的皮囊所具有的能力”等情节，潜在涉及性别认同与个体自我探索的命题，同时伴随一些含有性暗示的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮术士,22,精灵.docx]([皮物]_皮术士,22,精灵.doc
 | Size            | 26125 bytes                           |
 | MD5             | d6df8e878f4433175f2bbd31ef2c6c28                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 角色变身, 伪娘, 跨性别, 魔法, 自我认知, 探索 identity, 变嫁, TSF, 奇幻, 异世界, 魔法少女, 人体改造, 战斗, 虚拟现实, 阴暗幻想, 爱情, 药物, 强叛, 少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

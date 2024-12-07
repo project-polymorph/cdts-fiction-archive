@@ -7,7 +7,7 @@ TXT 下载: [[附身]_分魂公司·部長篇（舊文帶圖）.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一篇性转主题的小说《分魂公司·部長篇》，该作品描写了主人公村上明与他的上司前园遥之间的亲密关系。故事核心围绕两位角色在孤独的房间中相遇，随着情节的发展，他们的亲密互动逐渐升级，涉及热烈的接吻和激情的身体接触。文中细腻描绘了唇舌相交和双手相拥的情景，不乏有关身体刺激与性欲的描写。此外，故事设置了TSF（性别转变）和伪娘的元素，展现出角色在性别认同方面的冲突和探索。尽管文本中充满了暧昧与性暗示的语句，整体呈现出一种幻想与现实交织的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_分魂公司·部長篇（舊文帶圖）.docx]([附身]_�
 | Size            | 46811 bytes                           |
 | MD5             | d7151aec6bd28b37d02a1070dd2814a5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 百合, 成熟爱情, 办公室恋情, 自我认同, 孤独, 幻想, 激情, 调教, 身体接触, 性探索, 情感纠葛, TSF, 学生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

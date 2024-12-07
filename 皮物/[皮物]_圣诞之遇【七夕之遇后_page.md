@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_圣诞之遇【七夕之遇后.docx]([皮物]_圣诞之遇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇以圣诞节为背景的变身小说，主要讲述了一位男性与其伪娘伴侣之间的性关系和情感纠葛。故事中，男主角在经历了一系列的欲望与关系探索后，最终决定要给他的伪娘妻子准备一份圣诞礼物，来表达他的爱意。文中涉及多次关于性欲和身体欲望的细节描写，特别是主角与伪娘的亲密关系，体现了他们之间的爱情与欲望交织的复杂情感。小说包含了对角色心理的探讨与对性别角色的游戏，同时也反映了当代年轻人对待爱情和性关系的开放态度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_圣诞之遇【七夕之遇后.docx]([皮物]_圣诞之遇
 | Size            | 21631 bytes                           |
 | MD5             | 0a162fd7439176405a385c8a07d0a032                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 欲望, 跨性别, 圣诞节, 爱情, 两性关系, 强烈的性描写, 青春, 自我探索, 情感纠葛, 性幻想, 角色扮演, 开放式关系, SLG                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

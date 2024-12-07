@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】四、百花花魁.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《盗圣番外之寻找盗圣》是一篇关于变身与跨性别主题的小说，主要叙述了角色飞飞在变身为女性后，经历的冒险与情感纠葛。在充满奇幻的背景下，飞飞为了拯救花子虚，不惜以身相许，体验了一系列激情与情欲的征程。故事中描绘了飞飞如何利用自己的女儿身伪装，接受爱情与欲望的考验。文中包含不少明显的性暗示，如“飞飞浑身赤裸伏在自己的身上，面色羞红梨花带雨泣不成声”，“飞飞只觉得全身立时酥软，被花子虚玩弄的爽快呻吟出来”等情节，展示出角色之间复杂而又旖旎的关系。此外，飞飞在经历了各种探险后，试图找到失踪的伙伴小白，展现了人物自我探索与性别认同的内心旅程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】四、百花花魁.doc]([
 | Size            | 57856 bytes                           |
 | MD5             | b64d7f62f305761c24ffc4cd023c8110                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 自我探索, 二次元小说, 情感纠葛, 幻想, 爱情, 冒险, 春药, 女体化, 伪娘, 强奸, 调教, 淫荡, 多个角色, 弱化性别界限                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

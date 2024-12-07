@@ -7,7 +7,7 @@ TXT 下载: [[附身]_道童美姬：第二章.doc]([附身]_道童美姬：第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《道童美姬：第二章》的文档，描绘了一位名叫王若彤的大家闺秀的奇幻故事。故事开头，王若彤感到奇怪，似乎刚从梦中醒来，梦中体验了身体的异样。故事通过她与丫鬟小翠的互动展现了她的矜持与羞怯，逐渐揭示她对新身体的不适感。在一次奇怪的经历中，王若彤意外地展现了自己操控元素的能力，与道士月承章有一段情感上的冲突。随着故事的推进，王若彤在迷雾般的情节中逐渐沉沦于自身的妖异力量，最后导致了小翠的悲惨结局。通过这一段奇幻的转变，文中探讨了性别认同和自我探索的问题，同时也描绘了角色内心的斗争与心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_道童美姬：第二章.doc]([附身]_道童美姬：第�
 | Size            | 45568 bytes                           |
 | MD5             | 35fad8bd5c2d8b4c6627b0d83bf423d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 幻想, 妖怪, 自我探索, 王若彤, 丫鬟小翠, 道士月承章, 春梦, 神秘力量, 爱与欲望, 悬疑, 血腥, 情感纠葛, 女性视角, 弱肉强食, 角色成长, 反转, 奇幻世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

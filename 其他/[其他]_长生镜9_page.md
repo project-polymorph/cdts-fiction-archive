@@ -7,7 +7,7 @@ TXT 下载: [[其他]_长生镜9.docx]([其他]_长生镜9.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇伪娘 TS 变身与跨性别相关的小说，讲述了角色南烟与孔语蝶的故事。故事包含了复杂的人际关系和背后的权谋斗争，情节逐渐展开，揭示出妖族与李家之间的阴谋与斗争。角色南烟经历了身份的转变与自我认知的冲突，故事里穿插了关于性别认同与自我探索的主题。人物对话生动且富有情感，展现了角色们内心深处的挣扎与思考。小说中包含了一些含蓄的性暗示和性别转换的描写，反映出多样的性别文化背景以及人物之间的互动与情感纠葛。人们对南烟的身份是否真正归属于她自身的问题也引发了故事中的讨论与思考，同时在细节中也描写了一些禁忌与欲望的交织。故事设定在现代都市及其周边，展现出一种宁静却暗藏风波的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_长生镜9.docx]([其他]_长生镜9.docx)
 | Size            | 18823 bytes                           |
 | MD5             | 9601d93b78b8fb4842208172a590960d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 妖族, 权谋, 性别认同, 自我探索, 都市, 青春, 情感纠葛, 性暗示, 变身小说, 幻想, 复杂人际关系, 身份转变, 阴谋, 爱情故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -22,7 +22,7 @@ TXT 下载: [[交换]_47岁的已婚大叔，变成了自己儿子的女友.doc]
 | Size            | 72192 bytes                           |
 | MD5             | 2204d24110baabc59e80513cd49b2fc5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

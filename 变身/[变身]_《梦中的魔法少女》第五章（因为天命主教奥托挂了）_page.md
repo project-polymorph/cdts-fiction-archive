@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《梦中的魔法少女》第五章（因为天命主教�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一部名为《梦中的魔法少女》的变身小说的第五章，描绘了角色加奈美与她的另一个自我之间复杂的关系。故事中，加奈美获得了改造后的能力，她的身体体验着快感与痛感的交替，这引发了一系列自我认知的挣扎与心灵的冲突。主角因与加奈美的身体和快感相连接，对她的行动产生担忧，同时又对两者之间似兄妹关系的情感进行反思。故事过程中，主人公逐渐适应了新身份，并与加奈美一同应对外部威胁，面对冲突与和解。内容涉及到性别认同、身体改造、性欲的探讨，以及对于爱情、亲情和友情的多层面探索，呈现出了多维的情感和心理状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《梦中的魔法少女》第五章（因为天命主教�
 | Size            | 49664 bytes                           |
 | MD5             | 8d312b5aa2f818d0fb75299917c562e1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 魔法少女, 自我认知, 身体改造, 性别认同, 恋爱, 幻想, 剧情发展, 心理冲突, 快感互通, 女性视角, 斗争与和解, 挑战与成长, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

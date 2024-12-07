@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_转学来的校花5.docx]([皮物]_转学来的校花5.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《转学来的校花5》是多元性别与变身主题小说的一部分，主要讲述了苏雪与王梦涵之间的对话与互动。故事从苏雪给王梦涵打电话开始，表达了她的思念，并安排见面。交谈中，两人讨论了苏雪近期的心情与决定，尤其是苏雪对于参加音乐社和迎新晚会的态度。王梦涵对苏雪的外形变化给予了肯定，并调侃道出苏雪用的香水。随着故事发展，苏雪透露了她参与音乐社的原因，因好友薛佳佳的请求而感到无法拒绝。二人还分析了可能的身份暴露风险，尤其是王爷爷的身份背景，引发了对友谊与身份认同的思考。整个过程充满情感波动与心理探索，涉及了成长、自我认知及性别认同等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_转学来的校花5.docx]([皮物]_转学来的校花5.doc
 | Size            | 50194 bytes                           |
 | MD5             | 7d8dc42d561ec2a752410b4b6c40e75e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 成长, 友情, 转变, 自我探索, 伪娘, 男娘, 校园恋情, 音乐社, 迎新晚会, 情感纠葛, 身份隐秘, 王爷爷, 强烈情感, 心理冲突, 心灵成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

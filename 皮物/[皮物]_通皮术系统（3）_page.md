@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_通皮术系统（3）.docx]([皮物]_通皮术系统（3�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘性别转换及跨性别主题的小说，旨在探讨通过一种名为"通皮术系统"的能力实现角色之间的身体和意识转换。故事的主角林龙利用这一系统，穿上了名为"陈丽莎"的皮物，融入她的记忆和情感，体验到不同的性别角色所带来的身体感受及内心冲突。在小说中，林龙通过精神连接与陈丽莎建立联系，能够感知她的内心思想与情感，揭示了两者之间复杂的关系和人物内心的自我探索与认同的过程。小说包含了性别认同、自我探索等主题，情节涉及诸多生动而强烈的描写，体现了人际关系的微妙与变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_通皮术系统（3）.docx]([皮物]_通皮术系统（3�
 | Size            | 151448 bytes                           |
 | MD5             | 77a8ff969f73f0e8e9bd9716b3d02c80                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 角色扮演, 心理探索, 自我认同, 小说, 伪娘, 变身术, 精神连接, 青春校园, 女生视角, 女性意识, 二次元, 奇幻, 视觉体验, 故事情节, 情感纠葛, 社交关系, 身体意识, 艺术生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

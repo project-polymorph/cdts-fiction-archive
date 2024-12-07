@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新生的美少妇（七）.doc]([皮物]_新生的美少�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别题材的小说，描绘了主角武京与他变身为女性的哥哥武飞之间复杂的情感纠葛。故事开始时，武京看着化身为美少妇陈璐的哥哥，心中充满了一种既陌生又亲密的情感。他们的关系逐渐转变，武京不仅对变成女性的哥哥产生了浪漫的情感，同时也回忆起两人之间的深厚兄弟情。在进行亲密关系的同时，陈璐对过去的思考和对于今后生活的期待交织其中；随着情节发展，武京对陈璐的爱愈发强烈，表现出一种无法言说的占有欲和保护欲，甚至对陈璐的其他关系感到深深的嫉妒。整个故事充满了对性别认同、自我探索和家庭情感的深刻思考，同时也涵盖了对性关系的直白描写，涉及一些成人内容。同时，作者利用了对话方式展示角色的内心挣扎和感情变化，使得文本更加生动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_新生的美少妇（七）.doc]([皮物]_新生的美少�
 | Size            | 39936 bytes                           |
 | MD5             | 6763230e0f0e198f5215f683a0a4fdfa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 兄弟恋, 变身, 成年内容, 自我探索, 爱情, 传统家庭价值, 性交易, 情感冲突, 阉割幻想, 双性恋, 禁忌恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

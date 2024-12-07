@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_【审码文重发】千变门（壹）——初碰.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性别转换与自我认同的小说片段。故事围绕男主角方毅展开，讲述了他在被父亲逐出家门后生活的艰辛与意外的邂逅。方毅在迷茫中不知该去何方，面对生存的压力，他未能保持自尊，开始在街头寻求食物。这期间，他意外救助了一位撞倒他的老奶奶，之后被邀请到她的家中居住并成为她的‘保姆’。随着时间推移，老奶奶的女儿归来，方毅的日常生活发生了变化，并引出了一系列关于身份与角色的探讨。文中融合了强烈的日常生活描述与内心独白，使得角色的心理挣扎更为生动。
+
+故事中的场景与人物均为虚构，反映了现代年轻人对未来的不安与对传统家庭关系的思考。小说包含了一些跌宕起伏的情节，展现出生活的复杂性与微妙的人际关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_【审码文重发】千变门（壹）——初碰.doc]([
 | Size            | 39424 bytes                           |
 | MD5             | 67d9e7f98697505d7ade06fddd525daf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我探索, 成长故事, 家庭关系, 生活困境, 普通人物, 都市故事, 性别认同, 人际关系, 情感纠葛, 强烈心理描写, 虚构故事, 社会现实, 亲情剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

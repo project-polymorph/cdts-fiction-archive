@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的继母是男人一_继母是美女？.docx]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了主人公弘的生活变迁。他在孤儿院长大，直到被收养，后继续在养父的庇护下生活。故事开始时，弘得知养父去世的消息，并在遗产继承中陷入了对未来的思考。特别是他的继母即将来到他的生活中，让他对新生活充满期待。小说描绘了继母的美丽和年轻，带来了一系列引人注目的情节与心理冲突。故事中包含学校生活、对继母的好奇和期望，以及对继承财富之后所需承担的责任。整个过程中，弘体现了一种叛逆与逃避的青春气息，形成了一种新旧生活的对比，同时也暗含对性别与身份的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的继母是男人一_继母是美女？.docx]([皮物]
 | Size            | 23455 bytes                           |
 | MD5             | 184f2cb2ad43fea1893f379efbf7685f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 继母, 青春, 学校生活, 遗产, 心理冲突, 家庭, 自我探索, 美丽, 性别认同, 母子关系, 成长, 校园恋爱, 强烈期待                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

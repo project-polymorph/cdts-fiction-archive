@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_商学院的那些事.docx]([皮物]_商学院的那些事
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描述了一位过气女明星小依踏入黄河商学院的故事，她希望通过商学院结识高层人士以改善自己的生活。在商学院中，小依意外吸引了董事长徐东的目光，而后事情逐渐走向不可预知的方向。文中提及商学院的名声与小三培训班的争议，并通过小依的经历展示了名利场的复杂与险恶。情节中小依的遇险，尤其是她被一群穿白大褂的人绑架后，情况急转直下，令人不寒而栗，展现了对人性和欲望的深刻思考和批判。整篇故事围绕权力、欲望与身份的转换展开，以贴近社会热点的题材引发读者反思。
+
+整篇文章中涉及了性别认同与身体改造等主题，剧情的转折与高潮处充满了惊悚与悬疑的元素，以至于读者能感受到角色内心的恐惧与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_商学院的那些事.docx]([皮物]_商学院的那些事
 | Size            | 19767 bytes                           |
 | MD5             | 00cc58c14257dae7020e334804f381b6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 商学院, 权力游戏, 女明星, 身份转换, 惊悚, 现代社会, 商战, 性别认同, 欲望, 自我探索, 圈内人士, 高管, 名利场, 小三培训班, 残忍阴暗的现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

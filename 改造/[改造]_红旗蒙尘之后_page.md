@@ -7,7 +7,7 @@ TXT 下载: [[改造]_红旗蒙尘之后.doc]([改造]_红旗蒙尘之后.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说以1992年和1993年的苏联解体后为背景，主要讲述了一支名为第77空降旅的军队在发生巨大的社会和政治变革时的苦涩挣扎。故事的第一章设定在乌克兰的敖德萨，描述了一位营长与一名军火商之间的紧张对话，展现了军方内部因贩售国家财产而产生的道德冲突与矛盾。随着苏联的崩溃，这支曾经骄傲的部队逐渐失去了归属感，面临着被解散的命运。接下来的段落回忆了1993年在俄罗斯圣彼得堡的生活，描述了营长与家庭生存困境的对比和深刻的社会问题，尤其是因经济衰退造成的困苦与失望。营长的女儿因饥寒交迫而去世，进一步揭示了战争和政治变动对普通人生活的深刻影响。整部作品不仅展现了军人生活的无奈与荣耀的消逝，也深入探讨了家庭、经济、国家身份等层面的困境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_红旗蒙尘之后.doc]([改造]_红旗蒙尘之后.doc)
 | Size            | 183296 bytes                           |
 | MD5             | 1a7641673f5a8665bc1d4b7e087bc7ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 1992-02-20至未知                                 |
+| Tags            | 军人生活, 苏联解体, 家庭困境, 战争后果, 社会变革, 自我认知, 失落与希望, 政治腐败, 男主角的挣扎, 历史小说, 内心冲突, 悲剧, 经济衰退, 情感描写, 人性探索, 精神危机, 个人荣誉与价值, 两性关系, 权力游戏, 历史背景                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

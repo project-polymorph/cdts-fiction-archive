@@ -7,7 +7,7 @@ TXT 下载: [[变装]_无奈的转变（5）.doc]([变装]_无奈的转变（5�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性别转变的小说，主要讲述了一位男主角李小峰在经历了一系列变身和性别认知的过程中，逐渐适应了作为女性角色的生活。这篇作品围绕李小峰因生病而经历的手术，导致他变成了外表娇美的女性，引发了一系列身份认同与性别认同的冲突。故事中，李小峰面临不仅是外貌的改变，还有与周围人，尤其是女性角色小娟、小梅间的互动，以及他在新的身份下所需经历的职场挑战，展现了心理和生理上的双重转变。随着情节的发展，李小峰渐渐接受了这个新身份，甚至在工作中以女性秘书的身份被安排，同时也意识到与朱总关系的复杂性和对女性身份的羞辱体验。这样的情节探讨了性别角色的流动性以及对传统性别认同的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_无奈的转变（5）.doc]([变装]_无奈的转变（5�
 | Size            | 31744 bytes                           |
 | MD5             | adf146acd7294f8f654c3f6aebc6b32f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 变装, 跨性别, 自我探索, 女权主义, 情感冲突, 办公室情节, 职场性别角色, 伪娘, 变嫁, NTR, 强奸, 幼女, 调教, 性爱, 洗礼, 身份认同, 二次元, 生活变迁, 情感依赖, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

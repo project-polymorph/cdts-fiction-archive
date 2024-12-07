@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译小说】女仆_第四部分（共5部分）.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是跨性别和伪娘主题的小说第四部分，围绕角色查尔斯的日常生活展开。故事描绘查尔斯身穿简的裙子与连裤袜，展现其性别认同和角色扮演的过程。文中描述了查尔斯与简的互动，他在打扫房间时思念简，并幻想两人之间的亲密关系。当简提到与健身教练的约定时，查尔斯表现出对自己身材变化的焦虑。随着情节的发展，查尔斯与简的对话中透露出角色之间的情感纠葛以及关于身体形象的探讨。文件以轻松幽默的方式探讨性别认同与自我形象的问题，并提及查尔斯在与简互动中产生的情感波动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译小说】女仆_第四部分（共5部分）.docx
 | Size            | 34829 bytes                           |
 | MD5             | c0508b0fcf8bbe9c77e8fb6a7453c26a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别认同, 跨性别, 日常生活, 角色扮演, 情感纠葛, 自我探索, 体重焦虑, 轻松幽默, 成长经历, 变身小说, 恋爱, 心理变化, 性别角色, 健身教练                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

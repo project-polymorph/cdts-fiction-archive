@@ -7,7 +7,7 @@ TXT 下载: [[变身]_雙子星實驗第二部(Mann_03)_1問題_[.docx]([变身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一间实验室内同事之间的日常工作互动，讨论了实验进展及个人生活问题。故事围绕两名主要角色小王和小马的工作经历展开，描述了他们在进行细胞重组实验过程中所面临的挑战。在实验室的日常会议中，导师对他们的工作给予了表扬，并提到了可能的奖金和升迁机会。这一过程也带出了角色之间的情感纠葛，小王在与同事之间的互动中表达了对个人生活和工作的担忧，尤其是他与名叫凤娟的女子的关系。此外，文中穿插着对同事外貌和性别角色的细致描写，反映了对性别认同的探索。文末主要表达了小王在性事方面的困惑，带有一定程度的幽默。在这个看似平常的实验室环境中，隐藏着微妙的人际关系和性别认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_雙子星實驗第二部(Mann_03)_1問題_[.docx]([变身]
 | Size            | 22574 bytes                           |
 | MD5             | 010e6fd83dc16197d6a2f6de76c10c16                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 谢菜鸟                               |
+| Region          | 未知                               |
+| Date            | 2015-06-19                                 |
+| Tags            | 实验室, 细胞重组, 性别认同, 人际关系, 个人困扰, 情感纠葛, 科研, 工作压力, 日常生活, 幽默, 跨性别, 男性视角, 恋爱, 自我探索, 青春烦恼, 办公室文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

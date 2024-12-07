@@ -7,7 +7,7 @@ TXT 下载: [[其他]_在那棵樹下.docx]([其他]_在那棵樹下.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一个名为陆无双的角色，他生于一个显赫的家族，但因家族内部的权力斗争而遭遇了巨大的困境。文本开篇提到陆家与当朝宰执的关系，以及陆无双身为分家长子却无权无势的窘境，表达出他内心的无奈与追求简单生活的愿景。随着故事的发展，陆无双的家族因谋反而遭到灭族，他面临被处罚的命运。他对未来的追求与现实的冲突，以及家族悲剧的无奈，使得故事充满了沉重的情感。文中还提到其他角色的困境，特别是女性角色从荣耀到沦为奴婢的转变，展现出家族巨变带来的惨痛后果。整体来看，这篇文章不仅涉及性别与权力的主题，还反映了个体在家族覆灭面前的脆弱与无助。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_在那棵樹下.docx]([其他]_在那棵樹下.docx)
 | Size            | 33790 bytes                           |
 | MD5             | 70427db4b03a3fb4f825c9c5a81b4a37                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 灵玲玲                               |
+| Region          | 未知                               |
+| Date            | 2014-11-22                                 |
+| Tags            | 家族悲剧, 权力斗争, 性别认同, 角色内心冲突, 历史背景, 虐待与压迫, 女性困境, 经典文学, 伦理道德, 自我探索, 心理描写, 社会变革, 二次元文学, 伪娘, TS, 变装, 历史小说, 情感纠葛, 命运抉择                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

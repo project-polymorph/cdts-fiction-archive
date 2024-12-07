@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【短篇】血淋淋的人皮衣_之_吃个桃桃.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《血淋淋的人皮衣之吃个桃桃》，属于伪娘 TS 变身与跨性别相关的短篇小说。故事围绕新婚丈夫武大郎与其妻子潘金莲之间的情感纠葛展开，表现了武大郎因发现妻子出轨而愤怒和绝望的心理状态。故事中，潘金莲在直播间的表现引发了武大郎的怀疑，并最终使得他得知了她出轨的事实。面对妻子的背叛，武大郎感到愤怒和伤心，最后在激愤之下杀死了潘金莲。更为惊悚的是，他计划将她的尸体处理成一件人皮衣，以此来获取对他妻子出轨的报复与心理满足。文中涉及了许多黑暗和病态的心理描写，以及对尸体处理的各种想象，反映了一种极端和疯狂的思维。整体故事情节紧凑、设置阴暗，是一篇充满争议和血腥元素的小说，适合研究性别认同与心理扭曲的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【短篇】血淋淋的人皮衣_之_吃个桃桃.doc]([�
 | Size            | 64000 bytes                           |
 | MD5             | ab4acb55a61d9e7a73cce23ef0e3132f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 强奸, 死亡, 跨性别, 残酷, 心理扭曲, 自我认知, 婚姻, 复仇, 黑暗幻想, 性别转换, 惊悚, 二次元, 人皮衣, 禁忌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

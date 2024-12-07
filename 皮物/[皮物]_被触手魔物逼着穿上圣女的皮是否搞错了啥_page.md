@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_被触手魔物逼着穿上圣女的皮是否搞错了啥.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容讲述的是一个奇幻的性转故事。故事的主角林可是一位普通的猎人，在与触手魔物的遭遇中，面临着穿上被称为皮物的生物型魔器的选择。而这个皮物本是被炼化的圣女雅儿卡，同时也是一个寄生型魔器，名叫巴巴塔。在林可穿上皮物后，发现其身体发生了巨大的变化，逐渐变成了一位金发少女，经历了一系列关于性别认同和自我探索的情节。林可的冒险带出了一连串奇遇与挑战，从最初的惊慌到后来的接受与探索，故事充满了奇幻色彩和复杂的情感纠葛。同时，这个故事也涉及到了魔物与人类之间的关系，以及对性与身份的进一步探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_被触手魔物逼着穿上圣女的皮是否搞错了啥.
 | Size            | 96768 bytes                           |
 | MD5             | 4513cd4eb8c95ab53c5682b037673176                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, TS, 触手, 魔物, 变身, 伪娘, 异世界, 奇幻, 自我认同, 生物型魔器, 圣女, 年龄差年下, 调教, 幸福感, 性别探索, 幻想, 小说, 血统, 生理性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

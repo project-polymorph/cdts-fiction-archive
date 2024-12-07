@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_喉舌计划——（十三到十五章）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《喉舌计划》第十三到十五章，故事背景设定在一个虚构的日本古代背景中，涉及权力斗争、阴谋和跨性别角色的元素。章节中，主要角色包括一名身穿巫女装的少女以及她的手下渡边雄，他们在大和神社策划如何应对一个名为旧党的反叛组织。巫女角色展现了权威与冷静的形象，她围绕着对忠诚与背叛的观察，采取极端措施来巩固自己的权力。故事进一步探讨了权力背后的复杂关系与对自我认同的探究，尤其是角色的双重身份与性别角色的流动性。文本包含对药物、阴谋、权力以及若干含有性暗示的描写，整体风格严肃而包含色情元素，适合专门的研究与分析。章节中多次提到的实施计划与对话揭示了角色之间的微妙互动与心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_喉舌计划——（十三到十五章）.doc]([皮物]_�
 | Size            | 81408 bytes                           |
 | MD5             | 52d4109a53e3257ad3f86a4a9e90e73d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 阴谋, 权力斗争, 跨性别, 幻想, 权威, 间谍, 自我认同, 生理与心理冲突, 药物实验, 性别流动, 历史虚构, 权力与背叛, 情感纠葛, 阴暗面, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

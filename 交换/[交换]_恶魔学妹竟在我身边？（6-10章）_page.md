@@ -7,7 +7,7 @@ TXT 下载: [[交换]_恶魔学妹竟在我身边？（6-10章）.doc]([交换]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一部包含性别转换与恋爱主题的小说内容，讲述了主角与名为宁宁的女生之间复杂的情感关系。在故事中，主角在一次交换身体的经历中，面临着生理与心理的双重变化，感受到了女生的生活与心态。文本通过细腻的描写，呈现了两位角色在情感与性别认同方面的探索。例如，“今天的家教也很顺利呢。”及“我怀着这份期待，走上了城际公交。”等句子突显了男主角内心的矛盾与期待。在情节发展中，角色的互动充满了幽默与欲望，例如宁宁的“今天就让你体验一下我们女生的快乐吧～”与主角的挣扎，展现了一段既轻松又紧张的感情发展。整部小说充满了对性别与自我认同的探讨，辅之以细腻的情感描述，适合对跨性别与性别转换题材感兴趣的读者研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_恶魔学妹竟在我身边？（6-10章）.doc]([交换]_
 | Size            | 92672 bytes                           |
 | MD5             | d2b224e734bbc6229f38606d49700a7f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 暗蓝alan                               |
+| Region          | 未知                               |
+| Date            | 2021-07-16                                 |
+| Tags            | 性别转换, 跨性别, 恋爱, 伪娘, 自我探索, 恶魔主题, 性别认同, 身体交换, 校园生活, 青春小说, 女主角, 情感冲突, 幽默, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【翻译】扎伊尔博士_家庭治疗师.docx]([交换]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《扎伊尔博士:家庭治疗师》的翻译版本，讲述了一家人到家庭治疗师扎伊尔博士的办公室进行咨询的故事。文件中介绍了艾丽莎·莫里斯夫人及其丈夫杰克和女儿米琪丽娜的家庭背景，探讨了他们之间的紧张关系。杰克在经历工作事故后失业，整日宅在家中，这导致家庭氛围变得紧张。艾丽莎希望通过家庭治疗改善夫妻间的关系，以及杰克与女儿之间的相处。随着故事的发展，揭示了扎伊尔博士并非真正的医疗工作者，而是一名利用催眠能力操控他人的陌生人。文件对登场人物的内心冲突进行了深入的描写，展现了角色在家庭关系中的挣扎，特别是米琪对继父的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【翻译】扎伊尔博士_家庭治疗师.docx]([交换]
 | Size            | 71029 bytes                           |
 | MD5             | d52045d9f2722feef8d0307c6c3d4795                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 家庭治疗, 性别认同, 自我探索, 催眠, 角色关系, 情感冲突, 伪娘, 变身, 青春成长, 家庭矛盾, 社会问题, 神秘角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

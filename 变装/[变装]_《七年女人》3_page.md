@@ -7,7 +7,7 @@ TXT 下载: [[变装]_《七年女人》3.doc]([变装]_《七年女人》3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容是一部包含性转、变装和跨性别主题的小说，围绕主人公肖恩·特纳（Shane Turner）的生活展开。特纳在故事中经历了性别角色的转换和情感的复杂冲突，涉及到与女性索菲的亲密互动及他内心对自身性别认同的挣扎。文本中描绘了性转过程中的各种情境，包括主人公穿着女性服装、与女性角色之间的性关系，以及他如何在男性与女性之间不断切换的困惑。情节穿插了性行为的直接描写，展现了一些限制级的内容；这类情节不仅描绘了性欲的显现，也包括了对性别身份的探索。文中提到的角色与情节反映了性别流动性和认同问题，同时也展示了与家庭相关的情感复杂性。举例而言，特纳在场合中试图隐藏自己的生理特征，表现出他对社会期望与自身真实感受之间的矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_《七年女人》3.doc]([变装]_《七年女人》3.doc)
 | Size            | 82432 bytes                           |
 | MD5             | 193c565983b232434c334d37ff412e82                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 1996-02-27                                 |
+| Tags            | 性转, 变装, 跨性别, 自我认同, 情感纠葛, 限制级内容, 性别探索, 性行为描写, 家庭关系, 角色转换, 心理冲突, 女性化, 社会期望, 内心挣扎, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[变性]_直到煙火綻放時_CH1-1.docx]([变性]_直到煙火綻
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文本探讨了角色依莉的悲剧人生，通过对她成长过程中性别和家庭角色的冲突描绘了心理上的深度困惑与痛苦。依莉出生在澳大利亚的一个农场，在父母充满期待的目光中降临，但作为一个表面上是女孩、实则拥有男性生理特征的孩子，依莉的命运从出生那一刻就被注定。文本中描述了她的家庭背景，尤其是消逝的姐姐对家庭的影响，以及依莉在成长过程中不断遭遇的性别角色期待与自我认知之间的矛盾。
+
+随着故事的发展，依莉对自身身份的探索以及对社会角色的反抗逐渐显现。从她初尝站立尿尿的惊喜到对传统性别角色的不满，反映了她对自身性别认同的困惑。文本使用了大量生动的比喻，例如“没有璀璨的火花，只有腥臭的鲜血，残缺的内脏”，来凸显依莉生命的悲剧性，最终表现出她在痛苦中寻找幸福的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_直到煙火綻放時_CH1-1.docx]([变性]_直到煙火綻
 | Size            | 27354 bytes                           |
 | MD5             | 91c0bbbd97dde28b00951ce94fc4045f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | frits                               |
+| Region          | 澳大利亚                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变性, 痛苦与幸福, 悲剧人生, 心理冲突, 家庭影响, 角色期待, 性转, 伪娘, 成长故事, 儿童心理, 逆境, 身份认同, 虚构故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

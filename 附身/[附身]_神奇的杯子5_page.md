@@ -7,7 +7,7 @@ TXT 下载: [[附身]_神奇的杯子5.docx]([附身]_神奇的杯子5.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部关于性别转变的小说，描绘了男主角林飞凌在一次奇妙的经历中，进入了女班主任小芸的身体。故事开头，林飞凌在沉睡中醒来，发现身体的不适感减轻，但对此次变化感到十分无奈。随着情节的发展，林飞凌被迫接受一系列任务，包括在教室中以女班主任的身份出现，面临来自学生大飞的挑衅和挑战。在教室里，林飞凌感受到学生们的目光，同时也陷入了与大飞的对话与身体快感之间的矛盾。大飞的调侃与挑逗，让林飞凌在自我认知和情感表达之间挣扎，最终展现出一种复杂的性别认同体验。小说内容涉及性别转换、身份认同、以及涉及性行为的情节，呈现出一系列矛盾与心理冲突，探索了角色在性别转换过程中所面临的内心挑战和变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_神奇的杯子5.docx]([附身]_神奇的杯子5.docx)
 | Size            | 16836 bytes                           |
 | MD5             | 60faa80f2364de03b4b62389ddf0f380                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 青春校园, 男主角变身女主角, 自我探索, 情感纠葛, 身体快感, 教育主题, 师生关系, 调教, 纯爱, 强奸, 逆后宫, 淫荡, 女体化, TSF, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

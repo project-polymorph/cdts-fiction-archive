@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(五）代班當家教的一天.doc]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讲述了一名叫小宇的角色，他经历了一场个人身份与性别认同的挣扎。故事从小宇与他的女朋友小晰放学路上的对话开始，他感到疲惫和内心的愧疚，因为他的身体在使用某个名为BS app的应用后发生了变化。小宇在两周前因一场篮球比赛受伤，而随着性别的转换，他发现自己对身体的感知与性快感的体验被大大放大，陷入无法自拔的状态。他对小晰感到愧疚，隐瞒了自己的秘密。在一次意外的冲突中，小宇遇到他的情敌阿瑋，阿瑋对小晰的情感表现得十分强烈，甚至对小宇施加了暴力。小晰勇敢地为小宇解围，展现出她的强势与温柔，同时小宇也开始反思自己的无能与愧疚。故事揭示了复杂的情感纠葛、性别认同的困扰，以及在青春期对于爱的理解。文件中包含许多有关性别角色转换及其对个人心理影响的细节和描写，提供了对变身小说常见主题的深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(五）代班當家教的一天.doc]([改�
 | Size            | 77312 bytes                           |
 | MD5             | 464efb704c60054339746900731f2652                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 青春期, 个人认同, 情感冲突, 伪娘, 女友的支持, 暴力事件, 自我探索, 都会青春, 变身, BS app, 学校生活, 恋爱心理, 性别认同, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

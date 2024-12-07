@@ -7,7 +7,7 @@ TXT 下载: [[改造]_被变成巨乳家畜TS娘的男人逐渐发生内心变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性别转换与角色认同的小说，讲述了一名男性在接受非传统工作后遭遇的奇幻经历。故事中的主人公因背负巨额债务而进入一家神秘的工作场所，听从了一位女员工的介绍，参与照顾所谓的“家畜”的工作。在了解工作内容时，他发现那些在铁栅栏中照顾奶牛样的女人实际上是工作的志愿者，她们自愿接受这样的生活。在故事的转折点，主人公被要求体验与这些女性相同的生活，结果意外地发生了性别转换，从一个男人变成了女性，在身体和认知上都经历了巨大的变化。作者通过细腻的笔触描绘了转变过程中的内心冲突和自我探索，使这部作品充满了深度与复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_被变成巨乳家畜TS娘的男人逐渐发生内心变�
 | Size            | 27784 bytes                           |
 | MD5             | 69cbe7aca9462a40a7a5219112a2220b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | メス牡蠣                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 自我认同, 奇幻, 色情小说, 债务危机, 角色转换, 内心冲突, 非传统工作, 女性意识觉醒, 自我探索, 幻想, 成人主题, 改变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

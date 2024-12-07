@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[小说翻译]Escape_Ch.4（越狱_逃亡_第四章_下）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说的档案的一部分，主要讲述了一位FBI特工弗雷德里克·琼斯在执行任务期间发生的一系列事件。故事围绕一座看似安静的别墅展开，琼斯试图潜入该别墅安装监控设备，但因与女主人之间的友好交流而导致任务出现变数。文件中包含丰富的情节，例如琼斯与女主人的对话，发现的线索，以及对于接下来的行动计划的描述。同时，作品也涉及到了角色的自我探索及对周围环境的敏锐观察，描绘出内心的复杂性。此外，故事线索还引入了中情局的行动，增加了悬疑和紧张感。整段文字通过细腻的叙述展示了角色之间的人际互动与冲突，并在潜在的色情内容下展现人类情感的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[小说翻译]Escape_Ch.4（越狱_逃亡_第四章_下）
 | Size            | 35753 bytes                           |
 | MD5             | f1f29d939c7d00896652f490ee39df99                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 悬疑, 情感冲突, 行动计划, 自我探索, 特工故事, 秘密任务, 女性视角, 都市生活, 角色互动, 情感复杂性, 机密情报, 日常生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

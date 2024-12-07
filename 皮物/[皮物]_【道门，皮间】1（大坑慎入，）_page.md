@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【道门，皮间】1（大坑慎入，）.doc]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及道教背景的幻想小说，主要围绕角色天涯的故事展开。小说分为三个时间段：元末明初、永乐时期和现代。在剧情中，角色们通过围棋对弈等情节设定展现出复杂的权力斗争与阴谋。故事的开头描绘了天涯与陈友谅的初次会面，二人通过棋局暗示了各自的策略与立场。随着情节的发展，涉及到关于忠诚、权力与命运的深刻讨论，以及角色内心的挣扎与抉择。小说中提到了“龙骨”、“朱元璋”等历史元素，这些背景设定为情节增添了层次感和复杂性。同时，情节也暗示了皮物等超自然力量的运用，进一步加深了作品的奇幻色彩。文中还包含了不少关于角色身份和思想的探讨，足以引发读者对性别和自我的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【道门，皮间】1（大坑慎入，）.doc]([皮物]_
 | Size            | 38912 bytes                           |
 | MD5             | e3f8c4283d4deaa1966cd0d6f644cdd9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 道教, 历史幻想, 权力斗争, 性别身份, 自我探索, 超自然力量, 阴谋, 棋局策略, 元末明初, 永乐时期, 武侠, 幻想小说, 角色扮演, 人性, 权谋, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_丝魅同人篇——丝魅贰记.doc]([附身]_丝魅同�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文章是基于1111大大的授权而写的同人创作，故事围绕主角梁劲与黄老师的互动展开。梁劲在期中考试中失利，心中却因监考老师的性感打扮而分心。故事中描绘了黄老师的形象变化，从严肃到性感，展示了人物的性格转变和情感交织。在黄老师的办公室中，梁劲被要求为她按摩腿部，展现了两者之间暧昧而又矛盾的关系。故事继续发展到梁劲和他的朋友张正在公园中的讨论，涉及到一种名为“丝魅”的特殊丝袜，这种丝袜具备附身的魔力，可以让使用者控制他人身体。在一次计划中，梁劲试图用这种丝袜附身于邻居林佩茹身上，以实现他的幻想。在这过程中，出现了意想不到的结果。整体故事结合了性转、身体交换、性幻想等主题，展现了角色在性别和自我的探索过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_丝魅同人篇——丝魅贰记.doc]([附身]_丝魅同�
 | Size            | 44032 bytes                           |
 | MD5             | abb8ebaec8d4179fee2ca44eeff3ac30                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 强奸, 调教, 自我探索, 丝袜, 身体交换, 跨性别, 幻想, 冒险, 反转, 友情, 教师, 年龄差, 都市, 恶搞, 青春, 明示暗喻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

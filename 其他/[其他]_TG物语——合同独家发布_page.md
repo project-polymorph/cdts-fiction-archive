@@ -7,7 +7,7 @@ TXT 下载: [[其他]_TG物语——合同独家发布.doc]([其他]_TG物语—
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件内容是一个关于跨性别和愿望实现的小说片段，讲述了一位年轻女孩在一家神秘咖啡店中与店主之间的对话。女孩希望通过某种方式让所有男人无条件地爱上她，这引发了店主的好奇。店主向女孩解释，实现她愿望的费用是需要她签署一份合同，授权他在愿望达成一个月后进行某种行为。女孩对这个提议感到怀疑，却最终被自己的占有欲所驱使，选择签署合同。采用了隐喻和象征的手法，文本也探讨了人类欲望的不满足和追求。故事展现了角色之间的微妙心理变化和性别认同的主题，尽管内容中可能含有性别转换的暗示和社会性的挑战，但并未显露具体的色情细节，更多的是围绕愿望与后果的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_TG物语——合同独家发布.doc]([其他]_TG物语—
 | Size            | 36352 bytes                           |
 | MD5             | c7994d02c2558d7844dbc93ab3bf193a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 愿望实现, 咖啡店, 欲望, 自我认同, 合同, 心理变换, 神秘, 占有欲, 青春, 时尚, 奇幻, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

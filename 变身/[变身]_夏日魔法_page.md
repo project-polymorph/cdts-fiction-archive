@@ -7,7 +7,7 @@ TXT 下载: [[变身]_夏日魔法.docx]([变身]_夏日魔法.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章名为《夏日魔法》，讲述了一个名叫迪伦的男性角色，在一家二手店试穿女装后，意外地被魔法转变成他的女性朋友凯莉的经历。故事开始于迪伦的尖叫，周围的人对此感到困惑。女友特蕾西和她的女儿蒙安对此事件有着直接的反应，并国产探讨迪伦的变化。在一次短暂的混乱和惊诧中，迪伦逐渐意识到他现在的身体并不是自己的，而是一名金发女郎。在一系列幽默而尴尬的对话后，店主珍妮丝解释了这家店经过改造，导致这种魔法的发生。当一个人穿上别人曾经穿过的衣服并站在镜子前时，魔法会将他们转变成那个人。本文结合了青春的探索、性别认同的冲突以及性别角色的转变，展现了当代性别流动性的思考和幽默的展现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_夏日魔法.docx]([变身]_夏日魔法.docx)
 | Size            | 48415 bytes                           |
 | MD5             | a934f469ec3716a9c41da05bd4d0be33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法, 性别认同, 幽默, 青春探索, 伪娘, 女性视角, 二次元, 关系, 魔法商店, 角色转变, 幻想, 社会现实, 情感关系, 自我探索, 性别角色人群, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

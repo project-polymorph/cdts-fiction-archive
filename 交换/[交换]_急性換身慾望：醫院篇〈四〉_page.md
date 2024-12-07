@@ -7,7 +7,7 @@ TXT 下载: [[交换]_急性換身慾望：醫院篇〈四〉.doc]([交换]_急�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《急性換身慾望：醫院篇〈四〉》的内容，涉及一系列超自然的性别交换情节。故事从黑道老大陈金水探视被其对手打伤的小弟林家豪开始，受到了急性换身欲望的影响，两人随后与护士李又菁互换身体。随着情节的发展，黑道份子与医师之间也发生了类似情况，导致性别和身份的混淆。故事结合了性欲与身体交换的主题，描写了人物在急性换身欲望的支配下与对方发生的性关系，以及通过身体交换带来的奇幻体验。文中描述了角色的性别认同感的变化、对身体的自我认知和性的探索，包含了明显的成人内容和情节，涉及多次的性行为和身体变换，充分展现出性转及跨性别题材的特点。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_急性換身慾望：醫院篇〈四〉.doc]([交换]_急�
 | Size            | 54272 bytes                           |
 | MD5             | 725f264fa73a4f47ed5b9b549f047f6c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 急性换身欲望, 身体交换, 恋爱, 成人内容, 伪娘, 强奸, 药娘, 多重身份, 异世界, 现代都市, 强迫与自愿, 生理性别与心理性别, NTR                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

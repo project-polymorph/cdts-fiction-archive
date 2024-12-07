@@ -7,7 +7,7 @@ TXT 下载: [[附身]_絲魅（中）.docx]([附身]_絲魅（中）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档是一部关于附身与性别转换的小说，情节围绕一名男孩与他的母亲之间奇妙和冲突的互动展开。故事始于男孩回家后，无所事事地沉迷于游戏，在这一过程中，母亲回家并表现出改变形象的倾向，购买了性感的衣物。男孩对此表示羡慕，随后在无意间窥视到这些衣物，产生了复杂的情感。随着情节的发展，男孩逐渐沉浸在对母亲的身体和性感的衣物的幻想中，而这些情节则通过夸张和露骨的描写展现出来。特别是母亲在享受丝袜和高跟鞋的同时，表达出对性感形象的自信和满足，这不仅引发了男孩的混乱思绪，也让人困惑于他们之间的角色关系与情感界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_絲魅（中）.docx]([附身]_絲魅（中）.docx)
 | Size            | 20389 bytes                           |
 | MD5             | 0cef15411c5590275a664d49c48bb4db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性别转换, 伪娘, 母子关系, 性感衣物, 游戏, 情欲, 禁忌恋, 青春, 自我探索, 身体认同, 家庭, 奇幻, 变态, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

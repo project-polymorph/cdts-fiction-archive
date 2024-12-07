@@ -7,7 +7,7 @@ TXT 下载: [[附身]_奇異的石頭_序到十三章_有附身和皮物.docx]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是伪娘 TS 变身与跨性别相关小说的一部分，讲述了一个设定在未来世界的故事。故事背景设定在西元2750年，人类的文明达到了顶峰，但由于科技与超自然力量的发展，导致了人类与真正的“神”发生了冲突，最终人类被屠杀到只剩下500人，失去了所有知识与记忆。两千年后的2015年，故事的主角陈志潮原本是一个修炼天才，但因故失去了修为，成了一个废物。故事通过王筱琪对陈志潮的攻击和陈志潮的反击展开，涉及到了性别与身份的争论。当王筱琪将陈志潮杀死后，陈志潮却在王筱琪的身体中复活，开始体验女孩子的身体，展现了性别认同与身体交换的主题。文本中涉及了大量武术和魔法的元素，以及对生命和力量的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_奇異的石頭_序到十三章_有附身和皮物.docx]([
 | Size            | 60165 bytes                           |
 | MD5             | db001229f2ffeb69ed8d306254009e9e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 伪娘, 武斗, 魔法, 生存斗争, 人际冲突, 自我认知, 身体交换, 未来幻想, 校园, 情感纠葛, 神与人类的冲突, 修炼, 角色扮演, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

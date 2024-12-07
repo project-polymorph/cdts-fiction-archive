@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《古镜奇缘》7-8.docx]([皮物]_《古镜奇缘》7-8
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档是名为《古镜奇缘》的小说，内容围绕一对年轻角色古无妄和古灵素进行的一系列冒险。故事开始于龙州市，讲述了两位角色从古镇阳老者那里接受除妖使命的过程。古镇阳强调了他们古族的传承和责任，并传授给他们一些法宝以保护自己。故事中出现了不死骨、狐妖等妖怪元素，体现出中国传统文化中的修道与妖怪的对抗。在第七章中，他们准备下山除妖，而在第八章中，他们在抵达杜州后接到求助，涉及到失踪的玉琴姐，并开始调查骨魔洞的危险。在这个过程中，不仅有激烈的战斗情节，还有对古族传承的思考与角色成长的描绘。整体而言，故事结合了奇幻、冒险与战斗元素，层层推进角色的心理和情感变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《古镜奇缘》7-8.docx]([皮物]_《古镜奇缘》7-8
 | Size            | 25217 bytes                           |
 | MD5             | 25a155bf72ea44dcbf8f50b9a6800e76                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 冒险, 除妖, 古族传承, 修道, 妖怪, 古镜奇缘, 角色成长, 故事中的妖怪, 传统文化, 青春, 兄妹情, 兄弟情, 励志, 探索, 自我认知, 道教文化, 古代背景, 行业探讨, 冒险旅程                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

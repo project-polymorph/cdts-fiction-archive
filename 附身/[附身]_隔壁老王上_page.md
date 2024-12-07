@@ -7,7 +7,7 @@ TXT 下载: [[附身]_隔壁老王上.docx]([附身]_隔壁老王上.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文围绕主角老王展开，他是一个35岁的村庄羊倌，因受限于学历和经济条件，被村民称为“傻子”。故事开始于一个夏天，老王在放羊时捡到一块神秘的古代令牌，上面刻有“主奴令”。尽管他不相信这块令牌会有任何魔法，但好奇心促使他尝试使用它。在一个偶然的机会下，他把令牌指向了一位村民，并意外地发现自己能够将她变为自己的奴隶。故事描述了老王在这个新发现后，如何进入一个异世界，并遇见变成他奴隶的演员李娇娇。李娇娇的出现让老王感到震惊与兴奋，随着故事的发展，主角的生活开始发生翻天覆地的变化。小说涵盖了性别角色转换、主奴关系、以及个体自我认同的冲突等主题，构建了一个充满玩乐与探索的幻想世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_隔壁老王上.docx]([附身]_隔壁老王上.docx)
 | Size            | 17870 bytes                           |
 | MD5             | dba14427b98d6c1e7ad77711b97ca9e0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身, 主奴角色, 二次元幻想, 自我探索, 主奴令牌, 李娇娇, 村镇生活, 经济困境, 性别认同, SM, 虚拟现实, 调教, 恋爱, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

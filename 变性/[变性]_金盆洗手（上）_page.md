@@ -7,7 +7,7 @@ TXT 下载: [[变性]_金盆洗手（上）.docx]([变性]_金盆洗手（上）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《金盆洗手（上）》是一篇描绘黑帮生活与性别转变主题的小说，主要围绕主角胡里奥·马丁内斯展开。故事讲述了这位26岁的黑帮首领厌倦了刀光剑影，渴望过上平静生活却难以摆脱过去的阴影。小说中描述了他在一个阳光明媚的午后，与朋友曼纽尔坐在门廊上，突然遭遇到敌对帮派的袭击，曼纽尔因此被杀。此事件让胡里奥心存复仇之念，在得知敌手玛丽索被捕后，他开始思考如何隐秘接近她并实施复仇。随着情节的发展，胡里奥逐渐考虑通过性别转变的方式来完成他的计划。文本中不仅有丰富的情感描写，还有对暴力事件以及复杂的人际关系的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_金盆洗手（上）.docx]([变性]_金盆洗手（上）
 | Size            | 31236 bytes                           |
 | MD5             | 0413bf5f4aeff82e11e15a2519905d6d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Katherine Leigh                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 黑帮, 变身, 复仇, 性别转换, 暴力, 犯罪, 情感, 洛杉矶, 同伴关系, 心理冲突, 自我探索, 性别认同, 女人与权力, 跨性别, 阴影与救赎, 美国文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

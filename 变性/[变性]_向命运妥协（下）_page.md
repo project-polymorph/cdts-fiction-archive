@@ -7,7 +7,7 @@ TXT 下载: [[变性]_向命运妥协（下）.docx]([变性]_向命运妥协（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于变性及其他相关主题的小说片段。主要叙述了一位男性角色因某种原因变性为女性后，与一名男性角色间发生的情感与身体上的复杂互动。故事深入探讨了角色的内心斗争与屈辱感，尤其是面对性别转换带来的自我认同与社会关系的变迁。文本中多次提到角色对于性别转变及相应体验的抵触与挣扎，包括身体的不适与精神上的痛苦。小说情节涉及了强迫、情感操控及对于女性形象的外在包装等内容，给人以强烈的感知与反思。文字描述丰富，场景生动，带有一定的戏剧性和冲突情绪，体现了社会对性别与身份认同的复杂态度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_向命运妥协（下）.docx]([变性]_向命运妥协（
 | Size            | 46392 bytes                           |
 | MD5             | 935f0e2a256cc1aa53987ff2362a38f3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 自我探索, 屈辱, 情感操控, 身份认同, 强迫, 性别冲突, 高跟鞋, 情妇, 屈从, 变装, 日常生活, 少女情怀, 心理斗争, 禁忌, 人体改造, 幻想文学, 两性关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

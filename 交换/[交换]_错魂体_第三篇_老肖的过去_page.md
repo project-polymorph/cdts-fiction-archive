@@ -7,7 +7,7 @@ TXT 下载: [[交换]_错魂体_第三篇_老肖的过去.docx]([交换]_错魂�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本档案文件讲述了一个名为老肖的父亲在失去妻子后，如何独自抚养女儿肖丽丽的故事。在妻子生下肖丽丽时因难产去世，老肖作为单亲父亲，尽其所能将肖丽丽培养成一个聪明而善解人意的少女。然而，老肖因忙于事业与女儿的关系逐渐疏远，造成肖丽丽内心的空虚，最终她选择了叛逆的生活。不幸的是，肖丽丽在离家出走后失联，老肖内心充满悔恨与自责，渴望再次见到女儿的心情贯穿全文。故事中还涉及到老肖喝酒后开车导致迷失方向的情节，以及与一个陌生女人的互动，这一切都让人对肖丽丽的去向充满悬念。整个故事深刻探讨了父女关系、失落与悔恨的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_错魂体_第三篇_老肖的过去.docx]([交换]_错魂�
 | Size            | 25061 bytes                           |
 | MD5             | 7561152021e2cf73eb3372d6c3650cb2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 父女关系, 单亲家庭, 自我探索, 悔恨, 成长, 虐心, 失踪, 责任, 叛逆, 成人内容, 情感纠葛, 情节反转, 情感伤害, 心理描写, 探索与救赎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

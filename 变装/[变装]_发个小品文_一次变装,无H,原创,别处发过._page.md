@@ -7,7 +7,7 @@ TXT 下载: [[变装]_发个小品文_一次变装,无H,原创,别处发过..doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章描述了一个男性在工作日选择变装成女性上班的经历。故事的主人公因公司经营问题而感到压抑，决定突破自我，在没有人注意的情况下，通过变装来释放自我。文中详细描绘了他准备变装的过程，包括挑选衣物、化妆等步骤，最后成功以女性的形象走入办公室，并描述了在同事间穿过时的紧张心情。随着故事的发展，主人公勇气渐增，甚至尝试乘坐地铁，穿着裙子走在大街上，感受到了返回自我的快感。文中富有情感的描写让读者感受到性别认同与自我探索的主题，以及变装所带来的欢愉与冒险的刺激。同时也涉及到与周围人互动的细腻感受，呈现了一个性别流动的体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_发个小品文_一次变装,无H,原创,别处发过..doc
 | Size            | 17458 bytes                           |
 | MD5             | a289a8f474fd63a2d92a65c9d2be15f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 自我认同, 跨性别体验, 性别探索, 办公室生活, 地铁冒险, 内心冲突, 女装, 二次元, 心情变化, 女性视角, 勇气, 城市生活, 职场压力, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

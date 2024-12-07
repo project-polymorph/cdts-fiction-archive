@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_谍海商战1.docx]([皮物]_谍海商战1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于商业交易和暗潮涌动的跨性别相关小说。故事围绕星尘公司总裁紫阳与麦道公司CEO赵欢之间的重要房地产交易展开。故事开始于两人在电梯间的相遇及签约仪式，之后发展到其背后暗藏的复杂情节。赵欢的女秘书显得格外不寻常，女秘书的美丽和她与赵欢的关系引发了紫阳的关注。在交易之后，故事通过一系列的场景，描绘了赵欢的秘密身份变化，以及与一个叫“X”的人的交接。赵欢与美女秘书一起进入了一个豪华别墅，并通过衣柜的暗门进入另一个空间。在这里，女秘书与赵欢似乎有着更加复杂的关系，涉及到角色的性别及身份交换，展现了她们在隐秘生活中的复杂需求和欲望。小说的后半部分描述了女秘书如何利用人皮衣进行身份转变，并探索了内心的变化与欲望的体验。文字中展现了个体在性别认同、权力游戏与自我认知的纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_谍海商战1.docx]([皮物]_谍海商战1.docx)
 | Size            | 19487 bytes                           |
 | MD5             | c8f32977a24c5c8beffab2bf10b1b77d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身小说, 商业交易, 性别认同, 美丽女秘书, 暗潮汹涌, 身份交换, 性别变化, 心理探索, 个人欲望, 神秘组织, 房地产开发, 秘密行动, 豪华别墅                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

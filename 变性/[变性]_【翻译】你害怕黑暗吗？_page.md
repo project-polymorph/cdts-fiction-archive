@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】你害怕黑暗吗？.doc]([变性]_【翻译�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部涉及变性与恐怖元素的小说摘录，讲述了主角罗伯特在一个声称可以获得奖金的鬼屋内探险的经历。故事开头，罗伯特与朋友迈克走进了一个新建的鬼屋，目的是为了寻找隐藏的钥匙并赢得奖金。但随着他逐层深入，罗伯特经历了一系列超自然现象，房间里充满了令人恐惧的玩偶和诡异的环境，引发了他的恐惧与自我身份的混乱。尤其是当他对着镜子看到自己变化成女性形象时，他无法接受自己正在转变的事实，从而引发了一系列自我探索与性别认同的困惑。文件中详细描述了罗伯特的身体变化，以及他在恐惧与新身份之间的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】你害怕黑暗吗？.doc]([变性]_【翻译�
 | Size            | 50688 bytes                           |
 | MD5             | 91a6d17342b9120ecf4b8ba609bc4108                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 恐怖, 小说, 性别认同, 自我探索, 鬼屋, 变装, 虚拟现实, 魔法, 心理冲突, 超自然, 成年人主题, 变娘, 二次元, 转变, 自我认知, 女体化, 游戏, 幻想, 哀悼和接纳, 身份危机, 内心斗争, 转变过程                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

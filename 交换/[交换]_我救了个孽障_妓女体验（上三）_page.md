@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我救了个孽障_妓女体验（上三）.doc]([交换]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一段关于性别交换和自我认知的故事，主人公通过某种神秘的力量交换了身体，体验到作为女性角色的生活和感受。在故事的开始，主人公惊讶于自己体会到的身体变化，以及身体动作的自然流畅，显示出一种内心与身体间的冲突和不解。例如，主人公在表现出对于身体的探索时，因下体的疼痛而感到困惑，并逐渐意识到自己可能继承了女性身体的某些习惯，这让其开始深思身体与意识之间的关系。文件中详细地描绘了主人公在妆容、穿着、行为等方面的适应过程，还有身体上的自然反应，被迫面对的性别认同等问题。主人公在换身后发现了身体不仅是生理的改变，还包括习性和行为的潜在转变，这种现象极大地影响了自我的认知和理解。整个故事不仅包含对身体变化的叙述，还有对性别与认同困惑的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我救了个孽障_妓女体验（上三）.doc]([交换]_
 | Size            | 47104 bytes                           |
 | MD5             | 2d8b22a7da22d88e5aa193175f1b15a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 自我认知, 身体交换, 角色体验, 女性形象, 潜意识, 性别认同, 奇幻, 二次元, 变身, 探讨自我是性别的流动性, 古董奇物, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮术士，其之六_神殿.docx]([皮物]_皮术士，�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《皮术士，其之六，神殿》的作品主要描绘了角色攸妮作为圣女候补在古代神殿接受考验的故事。故事开始时，攸妮需独自承受孤独，并随着贴身护卫昆丁一同深入神殿的各层。在神殿的阴暗和压抑氛围中，攸妮和昆丁之间的情感不断纠葛，昆丁对攸妮的保护与感情在沉默中逐渐升温。文中还涉及关于圣女仪式的讨论，强调这一仪式与爱情和牺牲之间的关系，并揭示了角色们内心的挣扎与欲望。随着故事的发展，圣女角色的出现为两位主角解锁了一种特殊的结合仪式，涉及性别与魔法的潜能开发，以及对爱情的考量。整体故事情节复杂多样，充满强烈的情感冲突和哲理思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮术士，其之六_神殿.docx]([皮物]_皮术士，�
 | Size            | 21796 bytes                           |
 | MD5             | 65e0f47e34f737caf48cd9cfed64b777                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, 冒险, 爱情, 神殿, 仪式, 自我探索, 古代神话, 爱情与欲望, 孤独, 角色发展, 青春, 复杂情感, 悬疑, 禁忌的爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

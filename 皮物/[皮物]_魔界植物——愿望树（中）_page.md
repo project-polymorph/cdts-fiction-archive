@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_魔界植物——愿望树（中）.docx]([皮物]_魔界
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章名为《魔界植物——愿望树（中）》的章节，内容讲述了一个魔界植物‘愿望树’的背景和使用方法。愿望树并非直接实现愿望，而是通过接受主人的意愿制造出想要的物品。其原名为万能制造树，是由前任主人郝德仑那德博士发明的。博士曾致力于通过植物与灵魂的结合，创造出可以在魔界使用的多种魔植器具。在一次实验爆炸中，愿望树被意外带到地球，并进入休眠状态，后被主角凌寒认主。
+
+凌寒对愿望树的功能感到兴奋，然而他很快就发现了该植物的一些限制，例如受地球环境影响，愿望树的制造效率会显著下降，且制作物品需要更多的材料。尽管如此，愿望树能通过植物生长的方式进行制造，且还可以在成品中孕育灵魂。
+
+文章中提到，凌寒计划利用愿望树制造具有愈合能力的物品，并通过一系列的实验启动了愿望树的工作。文中细致描绘了愿望树的外观和液体注入的过程，体现了这种魔法植物的独特能力及其潜在的用途，同时也暗示了未来可能出现的更多剧情发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_魔界植物——愿望树（中）.docx]([皮物]_魔界
 | Size            | 17192 bytes                           |
 | MD5             | a4960cbcbec130a119019f038a09b568                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 如梦幻泡影                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔界, 愿望树, 跨性别, 性别转换, 植物学, 魔法, 自我认知, 灵魂, 幻想小说, 科技与魔法结合, 改造, 性别认同, 二次元, 科幻, 药物, 变身, 非人化, 异世界, 修真                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

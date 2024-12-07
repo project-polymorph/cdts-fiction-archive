@@ -7,7 +7,7 @@ TXT 下载: [[其他]_黑暗籠罩-1.docx]([其他]_黑暗籠罩-1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《黑暗籠罩》第一章讲述了普通上班族瀧木徹平的非凡遭遇。在一次拯救少女的英雄行为后，他被不良少年打伤，并在昏迷中意识到自己与少女的身体发生了交换。穿越到少女身体中的他，经历了极大的恐惧和误解，迫切想要还回自己的身体。在黑暗的房间中，他发现自己的身体被邪恶的存在所操控，而这个邪灵不仅控制了他的身体，还试图将他的家人化为自己的玩物。故事中涉及了身体交换、性别认同与性别探索的主题，令人感受到不安与压迫。与此情节相关的很多元素涉及到不健康的性幻想与操控，包含了强烈的色情暗示和精神暴力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_黑暗籠罩-1.docx]([其他]_黑暗籠罩-1.docx)
 | Size            | 27790 bytes                           |
 | MD5             | 4951f27435c4f9ca5287d3e03129f8d5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 身体交换, 性别认同, 心理操控, 强奸, 调教, 邪灵, 女仆, 奴隶, 黑暗幻想, 自我探索, TS变身, 冒险, 家庭关系, 恐惧, 性幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

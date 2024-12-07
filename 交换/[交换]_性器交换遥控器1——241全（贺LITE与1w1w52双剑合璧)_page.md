@@ -7,7 +7,7 @@ TXT 下载: [[交换]_性器交换遥控器1——241全（贺LITE与1w1w52双�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一名叫莫娜的女性在工作日的常规生活中，偶然发现了一个神秘的黑色遥控器，引发了一系列奇特的事件。莫娜对于这个遥控器感到好奇，推测它可能与身体变化或性别转换有关。在尝试后，她发现可以通过遥控器实现身体的交换，令她体验到了另一种性别的生理感受。随着情节的发展，莫娜在工作的环境中面临着自我探索与欲望的冲突，揭示了她对性别认同和自我体验的深刻思考。文本中包含了莫娜使用遥控器后的兴奋和惊愕，以及她对新体验的欲望，尤其是在她对另一种性别身体感受的关注和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_性器交换遥控器1——241全（贺LITE与1w1w52双�
 | Size            | 262338 bytes                           |
 | MD5             | 3e0392f9a745a8229cbbc01181f7868d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性器交换, 跨性别, 变身, 性别认同, 自我探索, 二次元, 奇幻, 伪娘, 性转, 幻想, 冒险, 情欲, 强烈自我认知, 身体交换, 情色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

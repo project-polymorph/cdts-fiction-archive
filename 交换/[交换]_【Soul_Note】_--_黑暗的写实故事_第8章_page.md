@@ -7,7 +7,9 @@ TXT 下载: [[交换]_【Soul_Note】_--_黑暗的写实故事_第8章.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘 TS 变身小说的第八章，故事通过细腻的描写展现了角色之间的关系与复杂的情感交织。章节开场设定在一个充满欧洲中世纪氛围的别墅中，主人公乐奚莹在悠扬的钢琴声中等待着其他角色的到来。随着情节的发展，乐奚莹与主人公之间的互动显示出她的青春可爱和优雅，同时又流露出些许羞涩和对交流的期待。
+
+在这一回合中，故事围绕着一个关于身体交换的魔法笔记本展开，乐奚莹表现出对魔法的好奇，并提出要与主人公尝试短暂的身体交换。这一情节不仅展示了角色们对魔法和神秘事物的好奇，同时也暗示着他们彼此间逐渐升温的情感。该章节通过优美的语言、细腻的心理刻画以及生动的环境描写，营造了一种浪漫而神秘的氛围，也揭示了主人公内心深处对乐奚莹的好感与向往。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_【Soul_Note】_--_黑暗的写实故事_第8章.docx]([�
 | Size            | 46114 bytes                           |
 | MD5             | 84e3ee565698cf539b7ab6f3cbc23562                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 魔法, 身体交换, 青春恋爱, 情感探索, 中世纪, 幽默, 心理描写, 二次元, 幻想, 校园, 细腻认知, 浪漫, 性别认同, 神秘, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

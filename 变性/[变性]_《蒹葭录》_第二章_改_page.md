@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》_第二章_改.doc]([变性]_《蒹葭录�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《蒹葭录》第二章描绘了金陵城内的偶然命案与复杂人际关系。故事开始于午夜，怡红楼中的喧闹逐渐平息，一些恩客在此消费后离去，楼里的老鸨开始感叹生意不如往日。此时，老鸨收到一名龟奴的惊慌举报，称在后巷发现了一个死者，可能与近期的吸血命案有关。随即，老鸨与其心腹急忙前往查看，发现死者确实是打更的老李头，且死状极为凄惨，颈部有明显的咬痕。故事在此逐渐铺展，老鸨为了保护自身利益，试图将与此事件的关系撇清，反映出这座城市中复杂的权力游戏与生存压力。整个章节通过对夜晚场景的细致描写与角色心理的深刻挖掘，展现了在乱世之中，人们怎样在绝望与生存欲望之间挣扎。章节包含了权谋、命案、性别身份等多个层面的描写，为后续情节的发展埋下伏笔。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》_第二章_改.doc]([变性]_《蒹葭录�
 | Size            | 50688 bytes                           |
 | MD5             | d971af13eb205cbd2915a103600e2c78                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 变身, 吸血鬼, 权谋, 命案, 夜生活, 金陵城, 复杂人际, 自我认知, 阴暗面, 情色, 暴力, 冒险, 悬疑, 社会批判                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

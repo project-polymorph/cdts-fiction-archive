@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_顾秋妍的假期二.docx]([皮物]_顾秋妍的假期二
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于跨性别和伪娘主题的小说，讲述了名为李力的男孩与其母亲顾秋妍之间的关系，李力逐渐表现出对女性身份的认同。在故事中，李力因为看到对其性别认同和心理转变的重要物品而感到内心的躁动与渴望。他与母亲之间的对话体现了对性别角色和身份认同的探索，同时含有一些涉及成人内容的情节。故事中，李力希望能够体验女性的生活，甚至在母亲的提议下进行了一场“例假”的心理暗示游戏。整篇作品通过性别认同、家庭关系及自我探索等主题展现了李力对自我身份的追寻与挣扎。文中角色之间的互动带有一定的戏谑和幽默，并且含有一些模糊的性暗示和性别角色挑战的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_顾秋妍的假期二.docx]([皮物]_顾秋妍的假期二
 | Size            | 28533 bytes                           |
 | MD5             | 391fc8d506c8a8bd12a252888d7d8102                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 家庭关系, 心理暗示, 姐妹情, 成人内容, 青春, 女性身份, 自我探索, 变装游戏, 情感戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

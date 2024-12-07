@@ -7,7 +7,7 @@ TXT 下载: [[其他]_年龄调节器3_一整章.docx]([其他]_年龄调节器3
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为名为《年龄调节器3》的小说章节，内容围绕一个可以自由改变人性别和年龄的道具展开。故事中的主角山冈信夫在获取该道具后，经历了与青梅竹马森纱代和姐姐山冈智恵的互动。情节涵盖了性别与年龄的调节带来的趣味冲突，以及角色间之间的轻松幽默对话。信夫通过道具将他的姐姐变成幼儿，使得周围的人对于她的变化感到震惊和不解。诸如“人家，长大了哟！”等台词，展现了角色的性格与幽默感。同时，通过反复的年龄调节器操作，引发了一系列有趣的故事情节，如信夫变成各种年龄的情境，体现出角色对自我认知的探讨及性别和年龄所带来的不同体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_年龄调节器3_一整章.docx]([其他]_年龄调节器3
 | Size            | 31087 bytes                           |
 | MD5             | d23230dabd371ea5819fbf73ba809468                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 年龄调节, 幽默, 家庭关系, 青梅竹马, 伪娘, 变身, 校园故事, 自我探索, 性别认同, 性别氛围, 恶作剧, 成长困惑, 情感探索, 日常生活, 魔法道具, 轻小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

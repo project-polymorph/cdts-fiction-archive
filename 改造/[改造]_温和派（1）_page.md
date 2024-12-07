@@ -7,7 +7,7 @@ TXT 下载: [[改造]_温和派（1）.doc]([改造]_温和派（1）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于大学生张玉参加志愿者活动的小说片段。故事围绕张玉的生活和思想展开，起初他在论坛上与室友讨论社会和宗教问题，表现出对伊斯兰教的理解与尊重。接着，张玉接到老师的电话，参与到一个前往叙利亚难民营的志愿者活动中。在这个活动中，张玉不仅分发食物和水，而且通过蹩脚的阿拉伯语与难民进行交流，了解到他们困境的深重。他对难民的状况产生同情，决定通过一个秘密通道进入难民营，试图帮助那些被隔绝的人。在新的环境中，张玉与另一位女孩玛丽一起面临重重挑战，逐渐揭示了战争带来的惨烈与人性的光辉。文件的内容丰富，涉及社会问题、文化冲突与人性探索等多重主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_温和派（1）.doc]([改造]_温和派（1）.doc)
 | Size            | 53248 bytes                           |
 | MD5             | da768683d0e3329051c119ba6702021b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2019-07-01                                 |
+| Tags            | 志愿活动, 伊斯兰教, 难民问题, 文化冲突, 青年探索, 自我认知, 中东, 战争与和平, 青年志愿者, 跨文化交流, 社会责任, 理解与尊重                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

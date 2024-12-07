@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【無名】悪魔の囁き.doc]([皮物]_【無名】悪�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于恶魔与人类角色之间复杂关系的幻想小说，主要围绕角色岛野明人与同班同学永井麻美的互动展开。故事的开场是明人心怀表白之意，满脸通红却又紧张不已。他的密友香澄对此进行调侃，展现出两人之间的青涩与默契。随着情节的发展，明人终于鼓起勇气向麻美表白，然而麻美的反应却是他始料未及的。随着情节的推进，明人与麻美之间的互动变得更加复杂和阴暗，麻美的真实身份在故事的高潮部分被揭示，实际上她是一个利用剧本控制其他角色命运的恶魔，里面的“大叔”通过药物获得了她的外表和身体，操控着麻美的意识与感受。整篇作品探讨了性别认同、人性与本质、操控与被操控等主题，情节中充满了悬疑与惊悚的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【無名】悪魔の囁き.doc]([皮物]_【無名】悪�
 | Size            | 57856 bytes                           |
 | MD5             | 1a5b7d580cc5d79279d14726f788190e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 恶魔, TSF, 幻想, 心理战, 自我认知, 扮演, 操控, 惊悚, 悬疑, 青春校园, 阴暗, 药物控制, 角色扮演, 情感纠葛, 身体异化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

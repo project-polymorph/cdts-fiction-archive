@@ -7,7 +7,7 @@ TXT 下载: [[交换]_把戲7-10.doc]([交换]_把戲7-10.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部跨性别或性转题材的小说，围绕角色尼克和泰咪的关系展开。故事中，尼克接收了来自朋友萊拉的衣物，去拜访泰咪，在这过程中，介绍了泰咪与其男朋友丹尼尔之间的复杂情感，以及尼克的内心挣扎。随着故事的发展，尼克不知不觉中对自身性别身份产生了混乱，并与丹尼尔之间的互动充满了张力。特别值得注意的是，尼克在奇特境遇下逐渐接受了自己身体的改变，并在丹尼尔的影响下开始探索自己的性欲和欲望。故事通过对角色心理变化的细腻描写，探讨了性别认同、亲密关系以及自我接受等重要主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_把戲7-10.doc]([交换]_把戲7-10.doc)
 | Size            | 47616 bytes                           |
 | MD5             | 26b273b4f49f7aa07c6d3209bbd2cc3b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别转换, 自我认同, 情感冲突, 欲望探索, 男性与女性的关系, 性别认同, 亲密关系, 角色发展, 内心挣扎, 青春期, 复杂情感, 现代都市, 两性关系, 同性恋情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

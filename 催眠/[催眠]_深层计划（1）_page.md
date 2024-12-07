@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_深层计划（1）.doc]([催眠]_深层计划（1）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《催眠_深层计划（1）》，其内容围绕一个名为艾格尼丝的女性与研究员之间的对话展开。艾格尼丝的丈夫莱恩是一个变装者，而她为了让丈夫体验成为一位50年代家庭主妇的生活，制定了一个三十年的深层模拟计划。在这个模拟中，她希望莱恩能完全沉浸在女性角色中，体验作为家庭主妇的生活，包括美容、购物以及应对作为女性的各种社会压力和困境。文件具体讨论了模拟的细节，包括艾格尼丝对丈夫假期的想法、模拟内容的保密性、以及对模拟过程的各种安排。整个情节揭示了艾格尼丝的复杂情感，包括对丈夫兴趣的厌恶和对他的爱，同时也探讨了性别认同与自我体验的主题。通过这种深层的模拟，艾格尼丝希望改变丈夫对于变装的看法，让他体验到家庭主妇生活的不易，是一种对丈夫行为的惩戒与启示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_深层计划（1）.doc]([催眠]_深层计划（1）.doc)
 | Size            | 38912 bytes                           |
 | MD5             | 59e7d30c7858ca82c3529cb823b4a240                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 家庭主妇, 模拟体验, 性别认同, 自我探索, 跨性别, 科技未来, 心理实验, 生活模拟, 社会角色, 女性视角, 深层催眠, 科幻, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

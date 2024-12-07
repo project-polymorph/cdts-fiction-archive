@@ -7,7 +7,7 @@ TXT 下载: [[附身]_身体淘宝（1）.doc]([附身]_身体淘宝（1）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容围绕着何年和他的同班同学苏小萌之间的复杂关系展开。何年一直暗恋着苏小萌，观察着她的举动，然而苏小萌近期的行为让何年感到困惑。她的穿着从短袜变成长筒袜，性格也时有改变，似乎对自己的身体表现出异常的关注。在一个放学的下午，何年目睹了苏小萌在教室内的私密行为，这使他更加震惊。与此同时，苏小萌的好友萧雨柔介入，暗示何年小萌所经历的事情背后有更复杂的利益团体。萧雨柔提到一个名为“身体淘宝”的应用，暗示苏小萌正在利用这个软件来探索自我。这是个涉及性别认同和自我意识转变的故事，描绘了青少年在成长过程中对性别、身体以及情感的探索与困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_身体淘宝（1）.doc]([附身]_身体淘宝（1）.doc)
 | Size            | 64000 bytes                           |
 | MD5             | 055679069b6d6a99b79735d1bf102eba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 青少年, 暗恋, 身体认同, 自我探索, 校园生活, 女性角色, 性别研究, 心理成长, R18, 少男少女, 黑丝, JK制服, 班花, 萝莉, 好友关系, 双性恋, 软件应用, 教育系统                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

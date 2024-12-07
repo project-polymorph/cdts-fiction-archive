@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG联盟【Ⅴ】（待续）.doc]([附身]_TG联盟【Ⅴ
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部小说围绕一个身体微胖的少年家政展开。他在高考前的压力下，通过一个神秘的念珠体验了一次奇幻的变身之旅。故事中，家政在无意间启动了念珠的力量，身体变得半透明，随后他开始探索自己和周围环境。在他浮游四处的过程中，他目睹了美美和她姐姐媛媛的私密生活，情节充满了梦幻与禁忌的情感。随着剧情的发展，家政对两位女性的强烈欲望和心理挣扎交织在一起，形成了一种复杂而又禁忌的情节，探讨了性别认同和自我发现的主题。一方面，他在这个过程中的兴奋和好奇心不断加深，另一方面，面临着身份认同和生理变化的冲突，让人反思性别的模糊性。整个故事呈现了青春期的迷茫与探索，穿插着对身体和性之间关系的观察与理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG联盟【Ⅴ】（待续）.doc]([附身]_TG联盟【Ⅴ
 | Size            | 41472 bytes                           |
 | MD5             | 500805eda4e14d28d6c6956ee6bdeb79                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 青春期探索, 身体认同, 禁忌爱情, 心理变化, 二次元, 自我发现, 幻梦体验, 性别模糊, 家庭关系, 美少女, 梦幻情节, 性别认同, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

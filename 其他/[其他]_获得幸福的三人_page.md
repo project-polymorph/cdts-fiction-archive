@@ -7,7 +7,7 @@ TXT 下载: [[其他]_获得幸福的三人.doc]([其他]_获得幸福的三人.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个关于心灵感应和身份转变的故事。故事中的主角沈珊珊和沈盈盈是一对双胞胎姐妹，她们因各自的特殊情况在地铁上感受到奇怪的心悸感。沈珊珊感到难受，依偎在姐姐身边，而沈盈盈则在内心暗涌着另一种感受。与此同时，故事引入了一个名叫王小明的年轻人，他在经历人生低谷时意外购买了一瓶神秘药水。在地铁上，王小明喝下药水，意外地将自己的意识复制并进入了沈盈盈的身体。随着王小明的意识浸入沈盈盈的身体，故事展开了一系列情感和身体探索的复杂情节，揭示了两个角色之间逐渐模糊的界限。文件中描绘了青春期的渴望与性别认同的摸索，涉及了乘坐公共交通时的亲密互动和强烈的性欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_获得幸福的三人.doc]([其他]_获得幸福的三人.
 | Size            | 47104 bytes                           |
 | MD5             | 4dbb93e975b07655aabfabc20cc80991                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 双胞胎, 心灵感应, 自我探索, 身份转变, 青春, 欲望, 穿越, 伪娘, 变嫁, 恋物癖, SM, 女体化, 现代都市, 虚拟现实, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

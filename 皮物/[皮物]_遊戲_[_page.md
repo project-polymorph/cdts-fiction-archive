@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_遊戲_[.docx]([皮物]_遊戲_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述的是一位名为李朝光的年轻金融巨头在参加一场世界级演奏会时的遭遇。他与一位神秘的女性伴侣在媒体的关注下引起了极大的轰动。女子穿着白色的紧身衣，被多条红色麻绳束缚，透露出一种令人不安的暗示。文中详细描绘了李朝光如何调教这位女性，逐步揭开她其实是名男子的身份。整个情节围绕着性别转变和极端调教进行，包含了对待被捆绑者的各种精神和生理上的挑战，包括疼痛与快感的交织。在音乐演出期间，这场性和权力的游戏无情地展开，揭示了李朝光控制与调教的欲望，以及被束缚者内心的挣扎与屈辱。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_遊戲_[.docx]([皮物]_遊戲_[.docx)
 | Size            | 25311 bytes                           |
 | MD5             | 9848e626d5d7cfc6971ca3aea527690b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 绑缚, 调教, 性别转变, 阴暗心理, 权力游戏, 性与快感, 极端性幻想, 城市生活, 音乐会, 虐待与屈辱, 假阳具, 心理控制, 惩罚与服从, 捆绑艺术, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

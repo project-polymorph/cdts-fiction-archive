@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_英国女仆-3.doc]([催眠]_英国女仆-3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件为一篇跨性别题材的小说，围绕角色米奇和其妻子莉莉的生活展开。故事描绘了莉莉在接触到一位名叫格里高的男性后，性格和穿着习惯的巨大变化，她逐渐被格里高吸引，并希望与他一起参加老爷车拉力赛。同时，米奇对于莉莉与格里高的关系表现出一种复杂的情感，既感到无所谓又微微的兴奋。格里小姐则似乎在对米奇进行性别认同的引导，希望米奇能够体验成为女性的过程。随着故事的发展，格里小姐希望米奇能够以一个女人的身份与她一起生活，这暗示着角色之间的性别和情感的复杂交织。文本中包含了对角色外表变化的详细描写，以及对于自我认知和性别感知的探讨，涉及到的情节可能适合成年人阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_英国女仆-3.doc]([催眠]_英国女仆-3.doc)
 | Size            | 38912 bytes                           |
 | MD5             | f56ccb46bc83215ac08f95115b545b70                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 自我认知, 爱情, 奇幻, 同性恋, 情感纠葛, 心理挑战, 角色扮演, 身体改造, 清纯, 女人, 男性角色变化, 性别角色, 经典二次元, 现代生活, 日常关系, 社会心理, 性别认同, 未知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《全家桶》第六章.doc]([改造]_《全家桶》第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《全家桶》第六章的性转小说，主要描绘了角色钟离剑在一次女装直播中的痛苦及快感交织的体验。内容涉及钟离剑被施加了绿帽咒，强迫其进行性行为，同时他在生理和心理上的冲突，感受到了无法言表的快感与屈辱。小说详细描绘了在直播间的互动，观众对于这种内容的反应以及钟离剑内心的挣扎，表达了性别认同、自我探索等主题。剧情发挥了角色在体验肉体快感与心理痛苦之间的矛盾，共同塑造了一幅强烈的性别与欲望交织的画面。同时，该章节的内容包含较多限制级的色情描写，涉及了强奸、伪娘、调教等敏感主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《全家桶》第六章.doc]([改造]_《全家桶》第�
 | Size            | 40960 bytes                           |
 | MD5             | ac5b326dd81683171ed7820259f8d47f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 直播, 变身, 强暴, 淫荡, 双重刺激, 心理斗争, 自我认知, 性别探索, 强奸, 男娘, 冲突, 刺激性爱, 性欲, 羞辱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

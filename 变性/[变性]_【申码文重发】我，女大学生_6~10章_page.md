@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【申码文重发】我，女大学生_6~10章.doc]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了伪娘变身与跨性别相关小说的第六至第七章的内容，主要描绘了角色在一次聚餐活动中的互动和交流。故事围绕着男女主角之间的情感发展进行，包含了校园生活的日常细节，如用餐、交流和互动中的微妙情感变化。在聚餐过程中，班长与同学们之间的友谊逐渐加深，男主角林平对女主角东方兰表达了好感，两人之间的关系引发周围同学的议论和调侃。故事在轻松幽默的氛围中逐步揭示了角色的内心冲突与自我认知，特别是女主角对自身性别身份的不安与探索。文中多次提到角色的心理活动，展现了他们在面对社会认同与个人身份之间的挣扎与自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【申码文重发】我，女大学生_6~10章.doc]([变�
 | Size            | 58880 bytes                           |
 | MD5             | cc29f88b537878b7c625e426c989f695                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 校园生活, 友情, 情感发展, 自我探索, 性别认同, 幽默, 人际关系, 聚餐, 心理冲突, 轻小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

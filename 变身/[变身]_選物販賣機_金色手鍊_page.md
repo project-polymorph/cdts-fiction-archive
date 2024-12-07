@@ -7,7 +7,7 @@ TXT 下载: [[变身]_選物販賣機_金色手鍊.doc]([变身]_選物販賣機
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了早田勇太的奇幻故事。在学校担任风纪股长的他，性格严谨，成绩优异，却因一个金色手链的意外而改变了自己的命运。这个手链拥有神奇的变身能力，能够让佩戴者脱胎换骨，变成华丽的辣妹。故事开始于他与不良少女白崎乙女的相遇，她向他展示了这个手链并且迫不及待地想要试用。在体验手链魔力的过程中，勇太的外表和性格都发生了剧变，他的智力逐渐下降并且开始沉浸在新的生活方式中。随着剧情的发展，勇太经历了一系列自我意识的冲突和情感的探索。在被迫接受自己新身份的同时，他也发现了新的快感和欲望，这种角色的转变让他的人生彻底改变，从一个优秀的学生变成了一个沉迷于享乐的女生。小说中描绘了性别认同的探索以及角色在自我认同与生理变化之间的斗争，潜含着复杂的心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_選物販賣機_金色手鍊.doc]([变身]_選物販賣機
 | Size            | 47104 bytes                           |
 | MD5             | 97f37f08c29a61796d853f84a4e13806                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 自我探索, 小说, 色情内容, 金色手链, 华丽辣妹, 校服, 青春期, 禁忌, 都市奇幻, 性转, 角色重塑, 心理变化, 自我放逐                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

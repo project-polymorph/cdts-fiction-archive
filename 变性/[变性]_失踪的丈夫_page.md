@@ -7,7 +7,7 @@ TXT 下载: [[变性]_失踪的丈夫.docx]([变性]_失踪的丈夫.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《失踪的丈夫》讲述了一个名为乔纳森的丈夫在一场旅行归来后神秘失踪的故事。小说的主人公，乔纳森的妻子，因丈夫的突然离去而陷入深深的焦虑与痛苦。尽管一开始两人之间的婚姻看似幸福美满，但随着失踪事件的发生，她开始怀疑一切。在对周围亲友的询问中，她不断遭遇挫折，警察调查无法找到任何线索，这让她产生了关于丈夫出车祸或遭遇绑架的各种猜测。随着时间的推移，妻子逐渐接受了乔纳森可能再也不会回来的现实，但内心始终无法摆脱他存在的影像。经过对银行账单的查阅，她意外发现了丈夫其他的秘密，牵涉到名为Transamazon的抵押贷款公司，并开始怀疑丈夫是否有其他的经济问题，甚至可能为此选择了新的生活。最终，她追踪到了一个名为迪莉娅·安妮·菲尔丁的女子，并怀疑她和丈夫之间有着不为人知的关系。故事揭示了身份的混乱和性别认同的暗示，展现了失踪背后复杂的情感和生活的真相。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_失踪的丈夫.docx]([变性]_失踪的丈夫.docx)
 | Size            | 30169 bytes                           |
 | MD5             | 15ffac70fb3154f38e33b8756213dabc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Maryanne Peters（原著）                               |
+| Region          | 未知                               |
+| Date            | 2018-11-23                                 |
+| Tags            | 失踪, 婚姻问题, 性别认同, 自我探索, 悬疑, 心理描写, 家庭关系, 房地产, 经济压力, 情感纠葛, 女性视角, 孤独, 身份迷失, 二次元, 跨性别, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

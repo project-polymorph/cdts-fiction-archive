@@ -7,7 +7,7 @@ TXT 下载: [[附身]_缠魂米三（2）.doc]([附身]_缠魂米三（2）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别相关的小说，名为《缠魂米三（2）》。故事围绕十二家主进行情报搜集和任务分配的会议展开，涉及到性别转换和角色之间复杂的关系。关键角色包括金乌、戌狗和午马等，在会议中，他们讨论了对怀疑目标的行动策略，主要聚焦于抓捕和获取情报。文中描绘了戌狗内心的挣扎和自我认知的冲突，同时也展示了其他角色之间的互动与张力。例如，戌狗因被赋予新的身份而感到困惑，想要完成任务但又面临情感上的挑战。整体情节中穿插着悬疑和戏剧成分，涉及的主题包括性别认同、自我探索、情感冲突及对权力的操控。同时，故事为读者提供了一些黑暗的情节，如强奸、杀人等，这些设定使得整个故事情节更加复杂而引人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_缠魂米三（2）.doc]([附身]_缠魂米三（2）.doc)
 | Size            | 92160 bytes                           |
 | MD5             | 216fd4000b71fcca06d2de99cc9772ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 自我探索, 情感冲突, 悬疑, 强奸, 角色扮演, 情报工作, 复杂人际关系, 权力操控, 黑暗幻想, 角色发展, 心理挣扎, 神秘组织, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

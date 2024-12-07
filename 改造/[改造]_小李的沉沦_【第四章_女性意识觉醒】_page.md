@@ -7,7 +7,7 @@ TXT 下载: [[改造]_小李的沉沦_【第四章_女性意识觉醒】.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说以李君子为主角，讲述了他从男性身份逐渐沉沦到女性身份的过程。李君子在一场意外中陷入了套路贷，沦为桑拿会所的兼职男工，生活的艰辛使得他不得不与女性角色林菲建立了深厚的关系。在林菲的引导下，李君子尝试着模仿女性的生活，通过化妆和穿着女性服装来弥补自己生活的缺陷。随着剧情的发展，李君子在一次相亲安排中被迫穿上女装，接受了一系列性别转变的挑战。在此过程中，他的内心不断挣扎，面对自我的认同以及对女性身份的逐步接受。最终，在与张云山的亲密接触中，他彻底沉浸在新的身份中，并开始探索这段关系所带来的复杂情感与欲望。小说包含了一些社会性别角色的挑战和对个体自我的探讨，同时也涉及性别认同和自我探索的主题。剧情中包含了较多的性暗示和复杂的人际互动，展现了一个在社会角色与自我认同之间游走的角色经历。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_小李的沉沦_【第四章_女性意识觉醒】.doc]([�
 | Size            | 39424 bytes                           |
 | MD5             | b209b86cf600682569535d58b37e413c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 自我认同, 闺蜜关系, 爱情, 性探索, 变装, 欲望, 女性意识觉醒, 社会性别角色, 性别认同, 情感纠葛, 操控, 沉沦, 实验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_拥有测试装置的女友（4）.doc]([交换]_拥有测
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一位女性角色与她的男友一起经历的一段奇特事件。在一次电梯中，他们被一个小男孩注意到，男孩毫不掩饰地盯着她的裙子。女主因感到被盯着，做出了戏谑的反应，开始展示自己的装置，该装置能够进行身体的交换与变形。女主与她男友伊万之间的互动展现了跨性别和性别认同的主题。有趣的是，女主试图用这个装置进行性别和性吸引力的实验，探索自我认同和他人眼中身份的变化。同时，文本中涉及了一些限制级内容与性暗示，例如提到内衣和身体的露骨描写，表现出一种对于性别与性相关情节的高度关注。整个故事围绕着角色身份的转变、性别动态，以及社会对性别表现的看法展开。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_拥有测试装置的女友（4）.doc]([交换]_拥有测
 | Size            | 64512 bytes                           |
 | MD5             | b8fa24e86fed2ee64696eca1f21b2954                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 变身, 性别认同, 性暗示, 电梯情节, 角色互动, 自我探索, 奇幻元素, 都市情节, 女性视角, 性别动态, 伪娘小说, 幻想, 装置, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

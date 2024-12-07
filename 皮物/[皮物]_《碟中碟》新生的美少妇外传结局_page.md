@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《碟中碟》新生的美少妇外传结局.doc]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转换与权力游戏的小说《碟中碟》的外传结局，主要讲述了女主角张茜的复杂情感与欲望。当张茜与上司李京之间的关系逐渐升温时，张茜试图以冷艳的形象取悦李京，目的是想在职场中获取更大的优势。随着二人私密关系的深化，张茜开始利用自己的魅力和智慧谋划反击，以获取李京贪污走私的证据。文件中深入描绘了张茜的心路历程以及性别认同的探索，包括她通过性别角色的转换来增强自身的控制欲和施压的手段。整部作品交织着情感、权谋与性别议题，引发读者对于性别与权力之间复杂关系的思考。内容中包含较为露骨的性描写，以及关于女王游戏的情节，暗示了性别角色的反转与权力动态的微妙变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《碟中碟》新生的美少妇外传结局.doc]([皮物
 | Size            | 39936 bytes                           |
 | MD5             | 112e75bbd50063a5c6cc2524eb9c7c06                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 职场权力游戏, 冷艳气质, 女王游戏, 情感纠葛, 自我探索, 暗网交易, 毒品走私, 贪婪与背叛, 羞辱与顺从, 冷艳女性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

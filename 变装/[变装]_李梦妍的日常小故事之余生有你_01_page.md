@@ -7,7 +7,7 @@ TXT 下载: [[变装]_李梦妍的日常小故事之余生有你_01.doc]([变装
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇作品是李梦妍的日常小故事的开篇，讲述了她作为一名自由职业者的生活，穿插着对个人情感经历和职业选择的反思。故事从她对自己的外貌和性格的自信入手，逐渐展开对生活的描绘。李梦妍自我介绍为一名25岁的女孩，身材姣好，大学时是校花。她的工作不仅包括给淘宝店做模特，也涉及在酒吧驻唱。文中提到她的感情经历，虽然有众多追求者，但她曾经历过几段短暂的感情，现阶段处于情感空窗期。文章详细描绘了她与“姐姐”的故事开端，设定在平安夜，突出节日的氛围与她的奇遇，展现出她的生活细节与内心独白。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_李梦妍的日常小故事之余生有你_01.doc]([变装
 | Size            | 37376 bytes                           |
 | MD5             | 1219e826e421350789cbf106203aaf47                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 李梦妍                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-12-24                                 |
+| Tags            | 性转, 变装, 跨性别, 校园, 情感, #女性视角, 日常生活, 个人成长, 模特, 夜生活, 2021, 平安夜, 奇遇, 自我认同, 自由职业者, 二次元文化, 伪娘, 变嫁, 浪漫, 青春, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

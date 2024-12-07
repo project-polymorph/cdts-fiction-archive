@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星瀚.docx]([皮物]_星瀚.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件以科幻背景为舞台，讲述了一个关于即将发生的太阳黑子爆发以及其对地球文明的毁灭性影响的故事。主人公是年轻的天文学家Daniel和他的同事Lily，他们发现地球内部温度急剧升高，并联系上了太阳黑子的活动。为了拯救人类，各国政府秘密建造了一艘名为“星瀚”的宇宙飞船，计划把1000名年轻有为的科学家送往宇宙，以延续人类的文明。文件描绘了飞船离开地球后的情节，以及Daniel与Lily之间由于家庭纷争而产生的情感冲突。在飞船上，Lily因无法与父亲同在而被迫离开地球的情境让两人关系更加复杂。随着故事发展，两人之间的感情在极端情况下暴露出众多欲望与冲突，同时也揭示了他们自我认知的困惑。最后，故事展示了Lily对这次变身的隐秘情感以及在追求性别认同与生理变化结合的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星瀚.docx]([皮物]_星瀚.docx)
 | Size            | 17571 bytes                           |
 | MD5             | cd92abe09f7af07f5870a44fa4991077                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 科幻, 两性关系, 宇宙飞船, 人类文明, 自我探索, 欲望, 家庭纷争, 青春爱情, 同性恋, 角色变身, 人际关系, 性别认同, 心理冲突, 灾难题材, 未来世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

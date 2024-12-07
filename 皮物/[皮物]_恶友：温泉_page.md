@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_恶友：温泉.docx]([皮物]_恶友：温泉.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《恶友：温泉》是一部以伪娘元素为主题的性转小说，主要讲述了在一个旅馆的浴场中，男高中生木村孝彦与伪娘角色织田美琴之间的亲密互动。故事发生在夜深人静的旅馆中，美琴循着好奇心与欲望进入了女澡堂，逐渐展开了与孝彦之间的挑逗和调情。美琴身为旅馆老板娘的女儿，描写了其丰满的身材与身体的诱惑力，引发了男方的强烈反应。小说中细腻刻画了角色在浴池中的亲密接触，包含了大量生动的肢体描述与心理描写，如美琴对自己身体的欣赏，孝彦的羞涩与兴奋。情节中穿插着性别转换后的自我认知冲突，并呈现了对身体、性别与欲望的多重反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_恶友：温泉.docx]([皮物]_恶友：温泉.docx)
 | Size            | 19089 bytes                           |
 | MD5             | 0f3857958f9e838310c2fbcb19e983a0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 温泉, 亲密接触, 性转, 调情, 浴场, 幻想, 肉体欲望, 性别探索, 宿命论, 青春, 欲望, 幻想小说, 二次元, 情感, 身体认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

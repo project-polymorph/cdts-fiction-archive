@@ -7,7 +7,7 @@ TXT 下载: [[其他]_田中同學的銀色長影.doc]([其他]_田中同學的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个名叫田中的男生在旅行途中意外经历性别转换的故事。故事开头，田中在公车上睡觉时，突然醒来感到身体上有奇怪的重量，随后发现自己长出了胸部。跟随这一 shocking 的发现，他意识到自己似乎变成了一个白发红瞳的女孩，但周围的同学对此却毫无反应。随着情节的发展，田中开始对自己变化的性质进行探索，遭遇了心理上的困惑和对自我的重新认知。他在生活中试图适应这一变化，与家人和朋友之间保持着原有关系，然而内心的挣扎与幻觉始终困扰着他。整篇故事通过田中的视角探讨了性别认同、自我探索、以及社会认知的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_田中同學的銀色長影.doc]([其他]_田中同學的�
 | Size            | 44032 bytes                           |
 | MD5             | 88ba375948af929fefd05fb080669768                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我认知, 幻觉, 青春文学, 男生变女生, 性别探索, 个人成长, 心理斗争, 日常生活, 友谊, 校园生活, 异样经历, 自我接受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

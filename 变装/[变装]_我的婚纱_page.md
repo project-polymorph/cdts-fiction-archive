@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的婚纱.doc]([变装]_我的婚纱.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《我的婚纱》是由作者Nancee Husband创作的一篇关于性别探索和自我认同的小说。故事的主人公莱恩，一名男性，讲述了他在购买婚纱过程中的心理历程。莱恩的故事开始于他在一次单独的夜间旅行中偶然经过一家婚纱店，他被那里的氛围吸引，并决定预约试穿婚纱。这是他首次勇敢面对自己内心的渴望，他希望能穿上婚纱，不再掩饰自己的真实感受。在试穿的过程中，莱恩对自己的女性形象感到惊喜和幸福，反映出他对身份的探索与认同。在这个过程中，他不仅体验到了穿上婚纱带来的喜悦，也在内心深处接受了自己的性别认同。整篇故事传达了鼓励读者追求梦想、接受自我的重要性。莱恩在这一过程中展现出的勇气和对美丽的追求，赋予了婚纱更深层次的意义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的婚纱.doc]([变装]_我的婚纱.doc)
 | Size            | 30208 bytes                           |
 | MD5             | 571382a551f9301499e4aa5d3f552484                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nancee Husband                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 婚纱, 自我探索, 男性, 变装, 心理历程, 勇气, 穿着体验, 自我接纳, 婚礼                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

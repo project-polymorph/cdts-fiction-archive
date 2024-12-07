@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_精灵之歌_序+第一章.docx]([皮物]_精灵之歌_序
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部西方奇幻类小说的开端，标题为《精灵之歌》。序部分提供了小说的背景设定，描绘了索拉大陆的世界观和其中主要种族的文明，包括人类、精灵和野蛮人。文中详细介绍了这几种族群的栖息地、信仰体系以及各自的生活方式。文件深入探讨了精灵族的文化，特别是白精灵和暗精灵之间的对立，以及艾尔克斯族群的历史背景，包含了信仰与神祇的影响。同时，故事描述了艾尔克斯们因对众神的怀疑而导致的内战，以及随之而来的文明衰落和异维人类的来临，从而丰富了整个大陆的文化与魔法体系，引发了新的冲突与合作。文风细腻且注重世界观的构建，设定复杂，角色众多，为后续情节的发展埋下了伏笔。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_精灵之歌_序+第一章.docx]([皮物]_精灵之歌_序
 | Size            | 35683 bytes                           |
 | MD5             | 17eabfeb4cc50f289c2bce445c5c2942                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 精灵, 种族文化, 信仰与宗教, 历史背景, 魔法, 自我探索, 内战, 跨种族合作, 艾尔克斯文明, 暗精灵, 白精灵, 人类, 异次元, 文明衰落, 神话传说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

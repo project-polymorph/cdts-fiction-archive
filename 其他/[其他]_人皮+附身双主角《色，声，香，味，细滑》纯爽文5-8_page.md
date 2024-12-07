@@ -7,7 +7,7 @@ TXT 下载: [[其他]_人皮+附身双主角《色，声，香，味，细滑》
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一本关于伪娘与跨性别主题的小说，讲述了角色在性别与身份认同上的探索。通过丰富的想象力，作者描绘了童梦舒和张祥云这两个角色在身体与灵魂之间的复杂互动。在第六章中，两位角色经历了身份的转换、身体的变化以及心理的探讨，细腻地表现了不同生理状态所带来的情感体验与意识冲突。故事中包含了许多心理描写和性暗示，例如童梦舒在体验高潮时的感受：她感叹“女人的身体”带来的愉悦与满足。此外，剧情中涉及到关系交错、身体控制与灵魂操作的设定，使得整个故事充满了悬念和对性别流动性的探讨。整部小说不仅触及了性别认同的话题，也涉及了亲密关系和社会角色的讨论，反映了现代人对性别的理解与认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_人皮+附身双主角《色，声，香，味，细滑》
 | Size            | 69120 bytes                           |
 | MD5             | 64cd1af06cda481ee76178b82849d152                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 性别认同, 身份探索, 自我认知, 情感冲突, 身体控制, 心理描写, 青春, 纯爱, NTR, 强奸, 百合, 调教, 多重身份, 灵魂转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

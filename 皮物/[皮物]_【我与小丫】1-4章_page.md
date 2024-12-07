@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【我与小丫】1-4章.doc]([皮物]_【我与小丫】1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《我与小丫》是一部皮物类的小说，故事围绕着主人公六月与他的女友小丫展开。小说从六月的视角出发，描述了他与小丫的恋爱生活，以及他们日常相处中的温馨细节和幽默互动。六月对小丫的可爱和单纯感到十分珍惜，双方在一起的每一天都充满了甜蜜与爱意。例如，小说开篇提到六月对小丫的初见及其独特的魅力，令他深深着迷。此外，随着故事的发展，六月逐渐发现小丫的性格中还带有一些调皮的成分，有时会作弄他，使二人关系趋于更加亲密。但在故事的关键情节中，六月因为一次饮酒而意外变成了小女孩，这一变化引发了一系列幽默与爱情交织的情节发展。整部作品语言轻松幽默，描绘了恋爱中的心理变化与性别认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【我与小丫】1-4章.doc]([皮物]_【我与小丫】1
 | Size            | 77312 bytes                           |
 | MD5             | 6595a81a5b6002d74e9d9a94f0851d53                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 悲剧的小咯里ll                               |
+| Region          | 未知                               |
+| Date            | 2013-01-01                                 |
+| Tags            | 皮物, 变身小说, 恋爱, 青春, 自我认同, 幽默, 大学生活, 甜蜜, 性别转换, 角色之间的互动, 青涩恋情, 调皮小女孩, 日常生活, 感情发展, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

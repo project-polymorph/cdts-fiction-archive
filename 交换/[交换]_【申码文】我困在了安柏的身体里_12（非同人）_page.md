@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_12（非同�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别转换主题的小说章节，主要讲述了一个男主角在名为安柏的女性身体中体验生活的情节。在这章节中，男主角在健身房遇到了老朋友朱莉娅，二人之间的重聚既充满了温暖的友谊也带来了微妙的尴尬。男主角经历了对自己身份的重新认识，混淆了过去与现在的关系，感受到身为女性后所产生的不同社交体验。随着他们在健身房的相遇，男主角在逐渐适应女性身份的过程中，最终找到了对于生活的热情和友情。小说不仅探索了性别认同与身体认知的冲突，也展示了角色与过去生活的挣扎与重新接纳。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_12（非同�
 | Size            | 36864 bytes                           |
 | MD5             | 2edc1e12ee26c2948b831f1161c06eaa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 友谊, 自我探索, 身体认知, 温情, 换身, 健身, 女性化, 社交互动, 心理斗争, 角色发展, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

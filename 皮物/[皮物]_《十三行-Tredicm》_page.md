@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《十三行-Tredicm》.docx]([皮物]_《十三行-Tredic
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于贵阳市木偶剧团演出活动的描述，特别聚焦在木偶剧《侗寨寻歌》的表演及其背后的故事。剧中，法国青年音乐制作人路易由于偶然看到中国侗族的琵琶歌而想重新寻回童年记忆，前往侗寨学习侗歌。在这一过程之中，他遇见了热情好客的侗族人民，了解到侗歌及侗族文化的美丽。演出现场气氛热烈，然而突如其来的巨响引发观众的恐慌，使得许多观众选择离开。亟留在场的陈繁与木偶剧团团长刘博勋进行了深入的对话，刘团长向他分享了自己身患肌萎缩侧索硬化症的感受以及对生活的独特见解。其中，刘博勋甚至将自己制作的木偶作为护身符送给了陈繁，寓意深刻。经历了一场精彩的木偶戏后，陈繁发现剧场外发生离奇的凶杀案，死亡的女童被恰巧放置于一个精美的箱子当中，犹如一场真实的剧情揭幕。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《十三行-Tredicm》.docx]([皮物]_《十三行-Tredic
 | Size            | 141919 bytes                           |
 | MD5             | f68b55ad3af1a27380d218d65e2f999c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-09-06                                 |
+| Tags            | 木偶剧, 侗寨文化, 跨性别, 生死, 人生哲学, 音乐剧, 贵州, 离奇案件, 角色认同, 心理冲突, 仅存的观众, 珍贵的木偶, 代代相传, 青年成长, 文化交流, 悲剧, 自我认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

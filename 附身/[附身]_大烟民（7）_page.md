@@ -7,7 +7,7 @@ TXT 下载: [[附身]_大烟民（7）.doc]([附身]_大烟民（7）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为第七章，主要讲述了角色皮阳和何熠之间的紧张互动。故事发生在一个拍摄剧组中，皮阳发现了何熠尾随女主角凌玥欣，充满了疑虑和不安。在剧组外，皮阳意外目睹了何熠使用一种神秘的魔烟，企图夺取凌玥欣的身体。故事描绘了角色们的心理活动与情感冲突，随着情节的发展，何熠不仅使用魔烟化为白色烂泥，还试图控制小孟的身体，整个过程紧张而充满悬念。小孟在被控制后，对何熠的变化感到恐惧而无能为力，增添了故事的恐怖与神秘色彩。此章节探讨了身份的流动性，性别的变换，以及自我认知的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_大烟民（7）.doc]([附身]_大烟民（7）.doc)
 | Size            | 38400 bytes                           |
 | MD5             | b30268104e3a7a93d4e17943327346b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 附身, 魔法, 恐怖, 心理冲突, 自我探索, 变身, 酷儿文化, 二次元, 伪娘小说, 悬疑, 都市奇幻, 青春, 阴暗面, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

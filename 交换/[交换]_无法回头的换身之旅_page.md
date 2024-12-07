@@ -7,7 +7,7 @@ TXT 下载: [[交换]_无法回头的换身之旅.docx]([交换]_无法回头的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《无法回头的换身之旅》是一部围绕性别转换故事的小说，讲述了一名学生小吉在一次地震中与班主任周老师发生神秘的交换，导致两人互换了身体。故事通过小吉的视角描述了他变成周老师后，经历身体变化所带来的心理感受与生理探索。小说开头通过一则新闻引入地震的背景，随后刻画了小吉对班主任的仰慕与性别认同的挣扎。在经历了一次意外的晕倒后，小吉发现自己身处在老师的身体里，初次体验作为女性的感觉，以及随后与周老师的互动。内容中包含对性别认同、自我探索及性体验的描写，深入挖掘角色内心的感受和身体变化带来的冲击。整个故事围绕着自我认知、身体的愉悦以及性别之后的自我解放展开，情节涉及大量与性相关的内容，具有一定的限制级特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_无法回头的换身之旅.docx]([交换]_无法回头的
 | Size            | 64440 bytes                           |
 | MD5             | 94d0b87975482c1dc7db8f33fc7c4099                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 自我探索, 身体交换, 禁忌恋, 冲突, 性别认同, 女性视角, 欲望, 校园, 幻想, 初体验, 变化, 欢愉, 心理探索, 神秘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

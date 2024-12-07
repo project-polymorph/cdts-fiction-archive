@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_意外的后果_第四章_计划进行中3.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个伪娘 TS 变身与跨性别相关小说的章节，描绘了主角杰克在一次意外中经历了性别转换的过程。故事开头，杰克醒来发现自己身处封闭的空间，他发现自己的身体发生了巨大的变化，手臂变得纤细、胸部出现乳房，这让他感到震惊和困惑。随着故事的展开，他逐渐探索自己的新身体，并产生了一系列复杂的情感和性别认同的问题。文中详细描述了杰克的身体变化和心理挣扎，例如：“我的大鸡巴已经变成了女人的小穴。”以及在护士的检查下，他对自身新身份的感受。在护士的过程中，杰克经历了身体和意识上极大的冲突与挣扎，这也引发了他对新身体的渴望和恐惧。通过护士的对话，进一步揭示了他的境遇和所承受的实验压力。这种复杂的情感与生理反应体现了性别认同、自我探索和性别转换的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_意外的后果_第四章_计划进行中3.docx]([皮物]_
 | Size            | 24379 bytes                           |
 | MD5             | 968775c0070f157cfdcad92c30c2e770                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 自我探索, 身体认同, 情感挣扎, 女性身体, 性别转换, 身体实验, 快感, 女性视角, 医疗, 心理冲突, 现代科幻, 身体变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

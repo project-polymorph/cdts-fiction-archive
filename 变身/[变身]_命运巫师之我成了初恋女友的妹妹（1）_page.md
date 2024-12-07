@@ -7,7 +7,7 @@ TXT 下载: [[变身]_命运巫师之我成了初恋女友的妹妹（1）.doc](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本档案讲述了主角李正义的故事，他是一名年轻的记者，在担任采访工作时被迫前往一场婚礼现场。在婚礼上，他的初恋女友项彩樱与其家族企业的竞争对手任尚天结婚。整个故事围绕着李正义的感情、家庭及事业的冲突展开。他在努力揭露任氏集团贪污受贿事件过程中，遭遇了背叛与挫折，最终从一个有前途的记者沦落为三流八卦记者。内心的挣扎和对初恋的深刻情感让他在逐梦与现实之间徘徊，同时也涉及了命运巫师的超自然因素。故事中包含了爱情、职场竞争、背叛及社会正义的主题，使其成为一部情感丰满的青春变身小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_命运巫师之我成了初恋女友的妹妹（1）.doc](
 | Size            | 40448 bytes                           |
 | MD5             | d3bf533f33964b1f0181f8f1f20e0950                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 爱情, 职场, 初恋, 背叛, 大学生活, 社会正义, 命运, 超自然, 婚礼, 青春, 情感, 心理冲突, 成长, 巫师, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_蘿莉控.docx]([皮物]_蘿莉控.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容围绕一个金发萝莉的幻想故事展开，充满了性别认同和性别转换的主题。故事以第一人称视角描述了一个萝莉角色与镜中倒影互动的过程，展现了她对自身形象的欣赏和对欲望的探索。文本中不仅描绘了萝莉主角的可爱形象与天真无邪，还渗透了性暗示与不雅行为的情节，如角色的自我抚摸、对隐私的探索以及对自己身材的评价等。特别是关于“深渊实验”的独白，映射出人物内心的挣扎与欲望。此外，文中提到的各类心理活动和性幻想让故事深具争议性，涉及诸多限制级内容。从叙述中可以看出作者试图描绘一个复杂的内心世界，既有对纯爱的向往，又有对禁忌的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_蘿莉控.docx]([皮物]_蘿莉控.docx)
 | Size            | 27007 bytes                           |
 | MD5             | 607f8452a8382625c1efa7e33f83d842                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 女大學生                               |
+| Region          | 未知                               |
+| Date            | 2017-10-23                                 |
+| Tags            | 萝莉控, 幻想, 深渊实验, 性别探索, 青春, 性转, 心理描写, 欲望, 禁忌, 内心挣扎, 自我认知, 镜子, 二次元, 角色扮演, 可爱, 性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

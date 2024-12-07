@@ -7,7 +7,7 @@ TXT 下载: [[变装]_萬聖劫後_.doc]([变装]_萬聖劫後_.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是关于一位年轻的销售代表符壬科，在万圣节派对上打扮成性感秘书的故事。文章详细描绘了他在派对前的准备过程，包括选择衣服、化妆及穿高跟鞋的挑战。最终，他的打扮获得了大家的赞赏，并且在聚会上引起了他的同事徐荷妮的注意。二人之间的互动透露出浓厚的暧昧气氛，而派对结束后的他们也有了更进一步的交流，符壬科更是从中感受到了一种自我认同的变化。故事中探索了性别角色的扮演、性别认同与社交关系的复杂性，以及酒精对人际关系的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_萬聖劫後_.doc]([变装]_萬聖劫後_.doc)
 | Size            | 49664 bytes                           |
 | MD5             | 35698a455ae78d37a7719b0478c914a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Cherry（原著） / 0894mitsuna（翻译）                               |
+| Region          | 未知                               |
+| Date            | 2021-01-07                                 |
+| Tags            | 变身, 万圣节, 女装, 秘书, 办公室恋情, 性别认同, 自我探索, 派对, 暧昧, 高跟鞋, 性感, 女性化, 职场, 互动, 喜剧, 社交, 挑挑战, 化妆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

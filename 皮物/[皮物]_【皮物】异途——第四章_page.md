@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮物】异途——第四章.docx]([皮物]_【皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一篇涉及伪娘和跨性别主题的小说，描绘了角色在妖穴中进行的一系列亲密互动与自我认知冲突的情节。故事以角色青木为中心，他在完成任务期间假扮成画妖沐晴，进入妖穴以执行探查任务。然而，在与画妖姐妹的亲密接触中，青木的自我意识逐渐模糊，面对妖气影响及欲望的卷土重来，他陷入了一种身份认同的挣扎之中。文中详细描写了两位画妖之间的情感交流和肉体交融，呈现出浓烈的情色氛围和妖物对人类阳精的渴求。最终，青木在反复的肉体交互中丧失理智，忠于原来的身份的挣扎也变得虔诚，小说探讨了性别认同、欲望和个体的自我迷失等复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮物】异途——第四章.docx]([皮物]_【皮物
 | Size            | 20382 bytes                           |
 | MD5             | bd8d9fc3c7e96a124c04bde907e09fdf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 妖物, 性别认同, 情色, 自我探索, 青木, 欲望, 妖穴, 画妖, 内心挣扎, 情感纠葛, 性事, 人类阳精, 修道, 任务, 幻想, 非人化, 肉体交融, 幻想小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_星耀_第五话_旗布星峙之疑.docx]([其他]_星耀_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关小说《星耀》第五话，描绘了以傅思恺和傅思达姐弟为主的故事情节。故事开篇描述了傅思恺的受伤情况，左手的骨折和身上绷带、血迹的形象引发了弟弟傅思达的关切和无助。随着情节的发展，傅思恺因为警局的事件觉星，面对突发的袭击和自我身份的转变，展现出冷漠与理性的极端表现，而傅思达则在深感困惑和痛苦中，努力挽回与姐姐间昔日的情感联系。文本探讨了性别认同和情感缺失的问题，揭示了傅思恺在觉星后所经历的巨大变化，以及傅思达对这一变化的无奈与渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_星耀_第五话_旗布星峙之疑.docx]([其他]_星耀_
 | Size            | 24513 bytes                           |
 | MD5             | 215b1324931d3b9127eb93cb4cd40d52                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rockx3                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 姐弟, 伤害, 冷漠, 感情缺失, 性别认同, 觉星, 警局事件, 自我探索, 混乱, 痛苦, 情感挣扎, 超能力者, 转变, 情感联系, 科幻, 都市, 玄幻, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

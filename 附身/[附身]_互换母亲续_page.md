@@ -7,7 +7,7 @@ TXT 下载: [[附身]_互换母亲续.doc]([附身]_互换母亲续.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于母子关系的限制级小说，围绕着角色的母亲与其儿子之间的情感与欲望展开。故事的开头描绘了母亲穿着透明短裙的性感形象，儿子对母亲的外貌充满了渴望与冲动，情节充斥着对母亲身体的细致描写，并通过对话与心理活动展示了角色间复杂而禁忌的情感。文中不断涉及到母亲故意勾引儿子，双方在性欲的驱使下，展开一种禁忌而淫荡的互动，透漏出对彼此身体的渴求与探索。内容多次使用生动的性暗示和挑逗性语言，展示了母子在性欲与身份认同上的冲突，情节偏向于强烈的色情描写，并融合了变态与幻想元素。是否应该被视为文学作品，存在较大的争议。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_互换母亲续.doc]([附身]_互换母亲续.doc)
 | Size            | 35328 bytes                           |
 | MD5             | b7fe7d911bd04945ee90991157992756                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 禁忌, 母子关系, 性转, 强烈色情, 角色扮演, 自我认知, 心理冲突, 性欲探索, 透明服装, 挑逗, 二次元, 虚拟现实, 奇幻, 现代伦理, 身份认同, 小说, 伪娘, 变身, 性幻想, 情感问题, 青少年成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

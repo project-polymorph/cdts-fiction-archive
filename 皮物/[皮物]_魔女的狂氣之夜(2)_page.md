@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔女的狂氣之夜(2).docx]([皮物]_魔女的狂氣之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《魔女的狂氣之夜(2)》的章节内容，描绘了一个角色被迫成为另一个角色的使魔，并经历了一系列复杂的性别转变与性活动。故事以第一人称叙述，主角在被妹妹召唤后，变身为恶魔形态并与妹妹进行亲密的互动。文件中充满了强烈的情色描写，包括主角的自我认知冲突和被掌控的感觉，描写了角色在变身过程中的身体与心理变化，以及他们之间的嬉戏和淫荡活动。通过具体的描绘，读者能够强烈感受到角色在角色扮演中的复杂感受，以及对身体感知的细腻描写。在故事的后半部分，角色还体验了与妹妹的深入互动，涉及了使用触手的场景，显露出了对性的强烈渴求与依恋。此作品涉及大量的成人内容，对应的情感与剧情设置刻画相当细致，是一部典型的伪娘/男娘与变身主题的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔女的狂氣之夜(2).docx]([皮物]_魔女的狂氣之
 | Size            | 21572 bytes                           |
 | MD5             | 6ee87974d66621279a89806efad99a98                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 恶魔, 性别认同, 强制, 性玩具, 自行探索, 禁忌恋, 双性, 触手, 淫荡, 强奸, 瞬间变身, 亲密关系, 男性视角, 角色扮演, 魔法, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_お人形達の学園_１年２組・船越光男君の日
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一位名叫船越光男的角色日记，内容展现了其在学校的日常生活及与同学君嶋的互动。故事围绕他们搬运实验道具展开，描写了君嶋同学作为男生变装成女生时的心理及身体感受。随着情节发展，可以感受到角色之间潜在的性别认同与相互观察的微妙关系。「君嶋同学」在搬运过程中因胸部受到压迫而身体出现反应，这使得船越光男开始对她的真实性别产生了疑问和担忧。临近结尾，君嶋透露了女孩子在日常生活中为遵循社会规范而必须忍耐的心理挣扎，让人对性别角色的理解有了更深的思考。在这篇文章中，性别之间的身份认同与内心的矛盾得到充分表现，尤其是角色之间的对话展现了生活在性别期待下的复杂感受与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_お人形達の学園_１年２組・船越光男君の日
 | Size            | 24740 bytes                           |
 | MD5             | 8214a5dd78b696c704be359d9c2b7413                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 校园恋爱, 身体感知, 日记体小说, 性转, 男扮女装, 心理斗争, 青春校园, 互动关系, 性别期待, 性别角色, 情感探索, 自我认同, 青少年成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

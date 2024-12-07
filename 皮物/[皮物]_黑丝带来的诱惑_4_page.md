@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑丝带来的诱惑_4.docx]([皮物]_黑丝带来的诱�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇围绕性别转换与自我认同展开的小说，讲述了主角在一次奇特经历后获得了他人记忆与身体的故事。故事的开头，主角和刘总的关系紧张，随着故事的发展，主角通过一个神秘戒指获得了张莹的记忆。这种记忆的转移让主角体验了张莹的生活，并逐渐理解她的内心感受。随着故事推进，主角决定结束与刘总的关系，并设法索取生活费用。文中还描述了主角换上张莹的衣服，探索她的身份与身体，展现了主角在性别与自我认同上的挣扎与变化。最后，主角尝试穿戴张莹的“皮”，并与她进行身体的交融，反映了对身份的进一步探索与挑战。文件内容部分涉及到敏感与成人情节，主要描绘了性别、记忆、欲望等复杂交织的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑丝带来的诱惑_4.docx]([皮物]_黑丝带来的诱�
 | Size            | 18158 bytes                           |
 | MD5             | 2b9d2137d3bfc6e90f5105fd284f34ab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我实验, 记忆转移, 身体认同, 情感纠葛, 禁忌关系, 黑丝袜, 酒吧邂逅, 性别探索, 微妙欲望, 伪娘, 男娘, 强奸, 变装, 淫荡, 女体化, 纯爱, 变嫁, 调教                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

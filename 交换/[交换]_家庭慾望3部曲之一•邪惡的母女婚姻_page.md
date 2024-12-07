@@ -7,7 +7,7 @@ TXT 下载: [[交换]_家庭慾望3部曲之一•邪惡的母女婚姻.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一段复杂的母女关系故事，围绕着女主角雪琪及其母亲芝嵐的生活展开。故事的背景设定在一个传统的村落，母亲从小就遭遇不公。七岁时，母亲被外婆卖给了村委书记当童养媳，处境极为艰难。母亲经历了无数的磨难与痛苦，直到长大后与一个智障儿子结婚。尽管婚姻未能给她带来真正的幸福，她依然努力抚养女儿雪琪，并为其教育付出不懈的努力。女儿雪琪回忆起母亲的艰辛，同时描述了自己大学生活中的爱情故事，描述了与富二代齐昊的相识相恋及订婚的过程。这个故事不仅描绘了传统与现代家庭之间的冲突，还揭示了女性在社会中的艰难处境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_家庭慾望3部曲之一•邪惡的母女婚姻.docx]([�
 | Size            | 22128 bytes                           |
 | MD5             | 1c2c03e1bca010d5a0921814071faaaa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 家庭, 母女关系, 爱情, 教育, 传统文化, 社会问题, 女性自我觉醒, 婚姻, 命运, 自我探索, 穿越, 身份认同, 逆境成长, 性别探索, 心灵成长, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

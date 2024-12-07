@@ -7,7 +7,7 @@ TXT 下载: [[变身]_哈利·波特与翡翠女巫的诅咒（三）.doc]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《哈利·波特与翡翠女巫的诅咒（三）》的第三部分，讲述了主角海瑟·波特在被翡翠女巫的诅咒后被迫成为斯莱特林学院的一员的故事。在黑暗的斯莱特林地下室，海瑟感到极度的痛苦和无助，她身体的变化让她无法回到格兰芬多。她在孤独与绝望中试图找到邓布利多教授，却因为学院的诅咒和身心的双重困扰而无能为力。海瑟渐渐意识到她的身份正在被剥夺甚至消失，她的标志性伤疤也不再，而此时她的内心却不断被一种名叫阿丽斯的声音所困扰。故事描绘了海瑟从暗淡的斯莱特林公共休息室到图书馆的探索，试图寻找有关翡翠女巫的历史与自己的身份的线索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_哈利·波特与翡翠女巫的诅咒（三）.doc]([变�
 | Size            | 75776 bytes                           |
 | MD5             | 9915a12e9fd4e492e88751188369ebc3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 哈利·波特, 斯莱特林, 女巫, 自我认同, 心理冲突, 魔法, 青春探索, 情感纠葛, 身份认同, 诅咒, 二次元, 幻想, 魔法故事, 文学创作                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

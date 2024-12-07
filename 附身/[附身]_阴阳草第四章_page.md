@@ -7,7 +7,7 @@ TXT 下载: [[附身]_阴阳草第四章.docx]([附身]_阴阳草第四章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《阴阳草》第四章，主要描绘角色陈诚的内心挣扎和转变。故事开头以陈诚的噩梦为引，展示她的恐惧与无助。噩梦中，陈诚遇到了一位外表强壮却打扮奇怪的男人，随后被他强行拉入房间，接下来的情节则围绕着陈诚的挣扎与恐惧，通过对权力与性别角色的探讨，展现出她内心的自我认知冲突。在梦境与现实交错中，陈诚努力消化自己变成张燕身体的事实，并计划与一个神秘人见面，显现出她在性别认同与复仇欲望之间的复杂关系。书中描绘了陈诚在新的身体中所经历的种种不适与挑战，尤其是在体验穿高跟鞋时的狼狈，突显了她对女性身份的挣扎与转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_阴阳草第四章.docx]([附身]_阴阳草第四章.docx)
 | Size            | 19357 bytes                           |
 | MD5             | 0bd0d3331ad34310396e7d89825600d1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 噩梦, 心理挣扎, 自我认知, 变身, 复仇, 高跟鞋, 角色混淆, 女性身份, 恐惧, 权力关系, 性别探讨, 爱情, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

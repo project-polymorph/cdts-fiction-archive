@@ -7,7 +7,7 @@ TXT 下载: [[改造]_最高境界的调教（三）一品烟灰作品_(2).docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说《最高境界的调教（三）》的第三部分，作者为一品烟灰。内容围绕主人公被迫改变身体和性别认同的过程。故事以第一人称视角展开，描绘了角色在监禁和调教过程中所经历的痛苦与屈辱。他被迫穿着女性鞋子趴在地上，感受到了作为男性的自尊心被剥夺的耻辱。伴随着痛苦的手术过程，角色被迫接受身体的改变，包括去除毛发、进行喉部手术以及植入生物器官。这份文件中充满了强烈的调教与跨性别转变情节，涉及诸如麻醉、手术、性别再造等极端内容，同时反映了主人公在忍受痛苦和屈辱中逐渐适应的新身份。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_最高境界的调教（三）一品烟灰作品_(2).docx]
 | Size            | 18683 bytes                           |
 | MD5             | fad28ec85fca7f6f4fafa7d5249e0f0f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 一品烟灰                               |
+| Region          | 未知                               |
+| Date            | 2011-08-19                                 |
+| Tags            | 性别转换, 调教, 跨性别, 变身小说, 强制手术, 痛苦体验, 性别认同, 生物改造, 囚禁, 屈辱, 自我认知, 伪娘, 魔法元素, 实验室, 反乌托邦, 变态情节, 性别现实性探讨                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

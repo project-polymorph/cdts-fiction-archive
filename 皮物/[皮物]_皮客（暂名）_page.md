@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮客（暂名）.docx]([皮物]_皮客（暂名）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个名为"皮客"的小说的初步构思，其内容包含了绑架、变态和性别变换等元素。小说中描绘了一个绑架女孩的场景，绑架者声称是犯罪集团的成员，但实际上只有他一人。绑架场景设置充满了紧张和压迫感，尤其是女孩因惊慌而无法呼喊。绑架者利用药物对女孩实施控制，从而在心理和生理上都对她产生了压迫。接着，故事的发展涉及到绑架者利用变身术将女孩的皮肤剥离并融入到自己的身体中，表现了性别认同与自我探索的复杂关系。文中描述了角色的心理变化以及对女性身体的好奇与探索，形成了一种扭曲的情色暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮客（暂名）.docx]([皮物]_皮客（暂名）.docx)
 | Size            | 17087 bytes                           |
 | MD5             | bbab3f2e942f08e73ff83816d714f32c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 绑架, 性别转换, 自我认知, 变态, 心理操控, 药物影响, 阴暗, 惊悚, 强奸, 纯爱, 逆后宫, 跨性别, 女仆, 调教, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

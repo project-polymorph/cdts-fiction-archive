@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老王的幸福后半生（4）.doc]([改造]_老王的幸
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于老王的幸福后半生的小说。故事围绕着主角老王在与江河的交易中所经历的种种变化进行展开。为了避免江河的怀疑，老王采取了伪装的方式，他与妻子一起在城中心开了一家新的超市，并购置了一套房子。老王的生活表面上看似正常，实际上却是和秦小姐在私下里进行各种禁忌的行为，如赤裸逛街和角色扮演等。随着情节的发展，老王在郊区与秦小姐的关系逐渐深入，但在一次偶然的机会中，他意外地发现了涉及警局的内幕，警局的美女警察给他的生活带来了更多的复杂性和变化。该故事探讨了性别认同与自我认知的冲突，同时涉及到了一些性相关的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老王的幸福后半生（4）.doc]([改造]_老王的幸
 | Size            | 54784 bytes                           |
 | MD5             | 0c552aaa77b5e5afde5abb77d405807c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 调教, 强奸, 逆后宫, 角色扮演, 成人内容, 心理战, 女性视角, 城市生活, 警察局, 青少年, 背叛, 幻想, 性别认同, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

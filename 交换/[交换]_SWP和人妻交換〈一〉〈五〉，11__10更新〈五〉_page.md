@@ -7,7 +7,7 @@ TXT 下载: [[交换]_SWP和人妻交換〈一〉〈五〉，11__10更新〈五�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别交换的小说，描述了一位富裕的投資人因厌倦日常生活而探索身体交换的可能性。故事的主人公在偶然间接触到了一个"交换APP"，通过该平台与一位家庭主妇达成了交换身体的协议。在几次交谈后，主人公了解到，家庭主妇希望借此休假，体验男性的生活。故事详细描绘了交换过程中的细节，包括身体的变化和情感的冲突。主人公对家庭主妇的身体感到新奇与迷惑，从而引发一系列的情感与性幻想。最后，故事展现了男女身体交换后的奇妙体验和心理状态，同时涉及潜在的性别认同和自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_SWP和人妻交換〈一〉〈五〉，11__10更新〈五�
 | Size            | 47458 bytes                           |
 | MD5             | 1b7a4c0125d539f6c4249fd8613ff9ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 变身, 身体交换, 自我探索, 情感冲突, 生活体验, 跨性别, 性幻想, 家庭主妇, 男性视角, 富人生活, 现代都市, 秘密交流, 心理变化, 短期休假, 真实与虚拟, 恋爱关系, 奇妙体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

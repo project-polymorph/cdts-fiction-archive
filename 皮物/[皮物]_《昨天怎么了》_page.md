@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《昨天怎么了》.docx]([皮物]_《昨天怎么了》
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于角色变身与性别认同主题的小说，作者通过主人公克里斯汀的视角，讲述了他通过穿上肖恩的装扮进行角色扮演的经历。故事开始于克里斯汀在汽车旅馆醒来，回忆起前一晚与高田小姐的游戏。克里斯汀尝试穿上肖恩的高田小姐套装，伴随着对自我认知和性别认同的探索，逐渐进入这个由男性形象构建的角色。他的角色扮演包括到健身房的经历，与陌生人的互动，以及被针对性调侃的情节。随着情节的发展，克里斯汀也揭示了他对自己身份和伴侣感情的内心挣扎，特别是当他意识到伴侣对“女生克里斯汀”的兴趣远大于真实的他，增添了情感上的复杂性。整篇故事结合了角色扮演、性别转化以及对个人身份的探讨，情节中也包含了潜在的限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《昨天怎么了》.docx]([皮物]_《昨天怎么了》
 | Size            | 19299 bytes                           |
 | MD5             | 9d1fa9318d529ccb23c9755d5039c710                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 角色扮演, 二次元, 变身小说, 跨性别, 变嫁, 锋男, 情感挣扎, 虚拟身份, 成人主题, 奇幻冒险, 情侣互动, 自我探索, 生理与心理的冲突, 性别期望, 幻想情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《蛇媚》(第四章·沉迷女体的温柔乡).docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇关于伪娘和跨性别主题的小说章节，主要描写了角色于性别转换后的情感与生理体验。故事围绕萧羽、朱瑜和秦菲菲三位角色展开，萧羽通过使用一根蛇头，进行了一种奇特的身体转换和操控，菲菲和瑜瑜在相互迷恋的过程中，逐渐融入了萧羽的欲望与性癖中。本文详细描绘了角色对女体的迷恋、情感纠葛以及由此产生的身份认同的转变与冲突，展现了复杂的三角关系以及在性欲驱动下的互动场景。文字中出现了角色们在场景中的心理活动，如“我不会抛弃你的哦～人家会一直，永远，无限次享受赵瑜的人生的～”，生动传达了角色在体验身体与性别转换时的内心挣扎与快乐。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《蛇媚》(第四章·沉迷女体的温柔乡).docx]([�
 | Size            | 18261 bytes                           |
 | MD5             | 8ee295228fb3af6dd4cdb2e3666cc492                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 情感纠葛, 三角关系, 欲望成瘾, 心理探索, 身份认同, 女性身体, 性别认同, 逆后宫, 成人内容, 角色互动, 性癖, 特殊能力, 幻想类                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

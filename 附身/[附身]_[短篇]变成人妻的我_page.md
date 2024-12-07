@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[短篇]变成人妻的我.docx]([附身]_[短篇]变成�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于变身和性别转换题材的小说，标题为《变成人妻的我》，作者为True。故事开篇描绘了一名30岁男子在时常幻想邻居太太的同时，意外地发现自己在早上醒来后已经变成了那个邻居太太。情节展开后，男主角的意识转移至太太的身体，体验了她的生活和情感，内心不断涌现对邻居丈夫的欲望。在这个过程中，男主逐渐接受了自己的新身份，并感受到作为女人的吸引力和自我认同。在探索邻居家庭生活的过程中，他的幻想逐步演变成现实，涉及了许多关于性别和身份认同的复杂情感。整体故事充满了性暗示和对性别角色的挑战，同时又不乏情色元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[短篇]变成人妻的我.docx]([附身]_[短篇]变成�
 | Size            | 18641 bytes                           |
 | MD5             | f5f46b3eed3f7dae2772a78e9c63d807                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | True                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, 情色, 人妻, 幻想, 自我探索, 邻居关系, 身体交换, 性欲, 变嫁, 二次元, 调教, 女性视角, 人的欲望, 自我认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

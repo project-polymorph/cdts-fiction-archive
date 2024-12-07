@@ -7,7 +7,7 @@ TXT 下载: [[改造]原创文字鹰枭乱之极致改造.doc]([改造]原创文
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《鹰枭乱之极致改造》是一部围绕男警察李愿翔发生的变装与性别转变的小说。故事起始于李愿翔在打击贩毒行动中获得上级嘉奖，但因得罪黑帮而被策划捕获。李愿翔目睹了自己的家受到破坏，并在昏迷后被迫进入一个充满阴暗交易的世界。在这个过程中，他被注射药物，经历了催眠和性别意识的改变，逐渐转变为一名在夜总会工作的风骚双性人妖。作者通过李愿翔的堕落与重生，探索了性别认同和自我认知的主题，展现了他从一名英勇的男警转变为被催眠操控的女子形象，以及身份认同之间的冲突与挣扎。作品中包含大量性暗示与刺激的情节，挑战着传统性别界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]原创文字鹰枭乱之极致改造.doc]([改造]原创文
 | Size            | 43520 bytes                           |
 | MD5             | 42d37106e5135f1d498b5e9fe9dfc760                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | james会得瑟                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变装, 催眠, 自我认同, 堕落, 夜总会, 伪娘, 男娘, 变化, 黑帮恩怨, 药物洗脑, 性别意识, 淫荡, 超现实主义, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

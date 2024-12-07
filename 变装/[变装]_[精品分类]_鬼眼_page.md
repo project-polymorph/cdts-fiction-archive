@@ -7,7 +7,7 @@ TXT 下载: [[变装]_[精品分类]_鬼眼.doc]([变装]_[精品分类]_鬼眼.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+作品《鬼眼》由作者纳兰珍创作，属于变装和改造类别，融合了悬疑、职场和言情等元素。故事围绕一位男主角因卧底任务而女装的经历展开，他不仅面临法律与道德的挑战，还要处理与女主之间复杂的情感联系。男主在执行任务中逐渐向往女性身份，渴望过上平静生活，而这一切都被一系列离奇的杀人案件打乱。故事以其凝重的情节和内在的情感冲突吸引读者。作品中描写了男主女装后的心理挣扎与身份认同，伴随着情感与解决案件的双重叙述，展现出其多重性别认同的主题。与此同时，文中不乏直接的性描写，涉及到对性的探索与表现。通过刑警与法医的身份交织，推动了情节的悬疑和紧张氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_[精品分类]_鬼眼.doc]([变装]_[精品分类]_鬼眼.
 | Size            | 320000 bytes                           |
 | MD5             | 8eefae0937e74118c611f91d1973fd0f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 纳兰珍                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-10-11                                 |
+| Tags            | 变装, 悬疑, 职场, 言情, 伪百合, 卧底, 义乳, 塑身衣, 后庭玩弄, 手术改变, 自我认同, 性别身份, 跨性别, 情色, 男主女装, 推理, 情感纠葛, 警匪, 女性视角, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_【黄蓉，助我修行】（4）.doc]([催眠]_【黄蓉
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一部以催眠与性转为主题的小说段落，主要讲述了角色欧阳克在欲望与控制之间的矛盾及其对黄蓉的操控。故事发生在白驼山庄，角色们在情欲与权力的游戏中经历心理与生理上的冲突。欧阳克通过催眠手段，试图对黄蓉及郭靖进行操控与调教，揭示了性欲、权力与身份认同等复杂主题。文中描绘了黄蓉在被欲望和控制侵袭下的挣扎，体现了角色面临的内心冲突。例如，黄蓉一方面试图呼唤郭靖的返回意识，另一方面却在催眠等手段下逐渐沉沦。小说包含了一些限制级的情节，包含强制与欲望的描绘，面临争议。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_【黄蓉，助我修行】（4）.doc]([催眠]_【黄蓉
 | Size            | 114176 bytes                           |
 | MD5             | 6dc2d9d962ce9367e5208fc705ee5d93                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 性转, 欲望, 操控, 黄蓉, 欧阳克, 跨性别, 心理冲突, 强迫, 奴役, 情欲, 权力游戏, 二次元, 变身, 恋爱, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

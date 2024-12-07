@@ -7,7 +7,7 @@ TXT 下载: [[其他]_（申码文）短篇集.docx]([其他]_（申码文）短
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇包含对话形式的短篇小说，围绕角色性别转换与自我认同的主题展开。故事的主线是一个名为西西弗斯的少年渴望力量，通过与神秘存在的对话寻求提升自身能力。对话中，少年反复尝试使用各种魔法道具，如高跟鞋、内裤和丝袜，来增强自己的速度和魔力。这些道具的使用引发了少年对自我形象与认同的探索，同时也暗示了性别身份与魅力的关系。**作品中反复出现对高跟鞋和内衣的描述，体现了对角色外形的重视，并伴随角色内心的矛盾和困惑。** 作为故事的另一条线索，随着剧情的发展，少年与“神”的互动逐渐深入，最后形成了一种奇异的依赖关系。整体来看，这是一部结合了奇幻与性别探索的变身题材小说，涵盖了诸多值得探讨的社会与心理议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_（申码文）短篇集.docx]([其他]_（申码文）短
 | Size            | 33404 bytes                           |
 | MD5             | e57694251dac948fdf4906e419c7ff6b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 自我认同, 魔法道具, 高跟鞋, 内衣, 情感探索, 奇幻, 二次元, 青春成长, 性别认知, 角色扮演, 自我提升, 心理矛盾, 神秘存在                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

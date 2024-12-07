@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_伪满洲谍变——欧歌（1-2）.doc]([皮物]_伪满�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《伪满洲谍变——欧歌》第一章的文本内容，叙述了主人公欧歌在1931年日龙战争时期的遭遇。故事以欧歌的视角展开，描绘了她在十三岁时目睹父母被大和士兵残忍杀害和侵犯的血腥场景。面对如此悲惨的遭遇，欧歌决心复仇，心中铭刻下对杀害她父母的士兵川崎浩的仇恨。随着故事的发展，欧歌被发现并收养，成为一名特工，在留里克远东的情报学院学习。她的能力得到了严肃的认可，并接下一个危险的任务，涉及伪装成敌方的士兵。故事中不仅包含了对战争的控诉，也涉及到个人的成长与性别认同。文本的语言直白而富有冲击力，展现了战争的残酷和对人性的压迫。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_伪满洲谍变——欧歌（1-2）.doc]([皮物]_伪满�
 | Size            | 92160 bytes                           |
 | MD5             | c8ece75b70f0a623e15ed5269270f9ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 战争, 复仇, 特工, 情报, 伪满洲国, 性别认同, 自我探索, 二次元, 血腥, 暴力, 成长, 伪装人身, 谍战, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

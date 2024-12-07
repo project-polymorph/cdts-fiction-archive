@@ -7,7 +7,7 @@ TXT 下载: [[附身]_赘婿之三个愿望.doc]([附身]_赘婿之三个愿望.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一个涉及伪娘、TS变身和跨性别主题的小说片段，叙述了一位男性角色乌启豪因饮酒后，意外获得了变成他心爱之人苏檀儿的身体的机会，故事中的角色经历了身体与身份的转变，感知到了作为女性身体的感受和情感冲突。在文中，角色对于变身后的新身份的迷惑，从“难道我酒醉后不小心闯进这里了？”到最后面对镜子时的自我认知与自我探索。“我，我居然变成了女儿身”，表现了角色内心的挣扎与复杂情感。此外，文中还涉及了一些涉及性暗示与情感纠葛的情节，表达了对角色身体的好奇和反复探讨，使得角色在奇妙的设定下逐步接纳新的身体与感情。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_赘婿之三个愿望.doc]([附身]_赘婿之三个愿望.
 | Size            | 54784 bytes                           |
 | MD5             | 4f8d0cf42b36c1680a2166a51f3d81ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 角色认同, 自我探索, 性别转换, 情感纠葛, 身体交换, 愿望实现, 二次元, 性暗示, 幻想文学, 强烈欲望, 社会认同, 情感冲突, 自我认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

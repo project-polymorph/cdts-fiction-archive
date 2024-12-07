@@ -7,7 +7,7 @@ TXT 下载: [[改造]_卧底丈夫6~7_(2).docx]([改造]_卧底丈夫6~7_(2).doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容涉及一段复杂的性别角色和权力关系的描绘，描写了一位名叫米歇尔的角色在其女主人维多利亚的支配下经历的惩罚和调情的场景。情节中提到了米歇尔因违背某些规则而接受惩罚，被鞭打至屁股通红的情形。她的女主人虽然怀有歉意，但舍不得明确放松对她的控制。文中进一步探讨了米歇尔在应对家中即将到来的股东客人时的心态和准备工作。维多利亚希望借助米歇尔的性感形象来吸引客人，使得即将进行的交易顺利进行。随着情节发展，文章描述了米歇尔的女仆装扮和她在社交场合中的表现，以及维多利亚对米歇尔的性别呈现和行为的控制与期望。总的来说，该文档以性别转换后的身份认同和角色之间的复杂互动为主题，含有一些具有挑战性的情节，涉及调教、调情和性别角色等元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_卧底丈夫6~7_(2).docx]([改造]_卧底丈夫6~7_(2).doc
 | Size            | 18452 bytes                           |
 | MD5             | 40dfb85340fc6304ccd7e648e15d39ea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 调教, 调情, 性别认同, 权力关系, 家庭, 股东会议, 性别角色, 情感纠葛, 房间服务, 法式女仆装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

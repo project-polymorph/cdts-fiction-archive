@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——魔方（一、二）.doc]([附身]_TG物语
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘与变身主题的小说，主要围绕角色余震与其朋友胡军的生活展开。故事设置在一个城市的公房中，描述了两位年轻人面临生活困境和工作瓶颈的场景。余震在失去胡军后，思考着人生的意义及其兄弟情。故事通过细腻的描写，引入了一个自称是胡军女友的女孩胡欣，伴随着隐秘而复杂的情感纠葛和对身边事物的思索。胡欣的出现不仅打破了余震的单调生活，还埋下了关于魔方的悬念，暗示着接下来的情节将与魔方的神秘性质相关联。文件中充满了对角色性格、外貌以及情感变化的描写，展示了如何在失去中反思自我及对未来的未知探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——魔方（一、二）.doc]([附身]_TG物语
 | Size            | 55296 bytes                           |
 | MD5             | 0ad0fde8b0a8e3a559beac91535ad125                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 情感纠葛, 失去, 兄弟情, 青春, 自我探索, 魔方, 夜总会, 都市生活, 吸引力, 心理冲突, 神秘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

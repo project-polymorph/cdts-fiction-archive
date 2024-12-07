@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【乐园计划】第三十五章：邪恶的蔓延（四�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部涉及性别变换与恋爱主题的文学作品，叙述了一位少女与其曾为男性身份的强盗团之间的互动。故事中，少女通过自己的魅力和智慧，不仅让曾经的强盗重新认识自我，还让他们接受了身体的变换，成为了女性角色。文本描写了多个角色之间的复杂关系和情感摸索，伴随着许多露骨和挑逗的对话，展现出强烈的性暗示和色情内容。例如，少女调侃曾经的部下用「老大」称呼自己，甚至带有命令和玩弄的色彩。涉及的主题包括性别认同、身心体验的变换以及对传统性别角色的挑战等。整部作品在氛围上充斥着一种暗黑的诱惑，同时也掺杂着冒险和自我发现的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【乐园计划】第三十五章：邪恶的蔓延（四�
 | Size            | 21717 bytes                           |
 | MD5             | 08a4f44b8f209d32769b58990900066f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变装, 强盗团, 女性角色, 自我探索, 情色, 冒险, 未知自我, 情感纠葛, 身体认识, 强权与臣服, 幻想文学, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

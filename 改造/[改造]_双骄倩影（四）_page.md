@@ -7,7 +7,9 @@ TXT 下载: [[改造]_双骄倩影（四）.doc]([改造]_双骄倩影（四）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部涉及性转、伪娘和跨性别主题的小说，主要描绘了角色之间复杂的情感与身体的转变。故事开始于银月会馆前，一辆白色鲜艳的轿车缓缓驶来，主要人物王银和陈文源正在相互调侃与互动。片段中，陈文源被描写成一位看似柔弱的美少年，白皙的肌肤与女性的形象在情节中引发一系列冲突与感情纠葛。随着情节 déroulement，王银与陈文源之间的亲密举动逐渐加深，包含了对身体接触和情感的细腻描写。
+
+当他们走进一个房间时，面对一位被囚禁和改造的角色，情节转向更为黑暗和扭曲的探索。谢天飞被描绘成一个不再符合自己生理性别要求的角色，展现了生理与心理的纷争，以及对身体的强制改造。这段故事的設定不乏对性别认同的探寻，以及伴随此过程而来的浓重情欲描写，涉及了强迫、羞辱和情欲的主题。随着情节发展，王安和甄医生等角色的出现进一步加深了这种压迫感，透露出人物之间的权力关系与欲望的纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_双骄倩影（四）.doc]([改造]_双骄倩影（四）.
 | Size            | 38400 bytes                           |
 | MD5             | 8279170b608ffb31bb54e6d16a263191                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 情欲, 强奸, 心理探索, 身份认同, 权力斗争, 黑暗幻想, 禁忌爱好, 另类现实, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

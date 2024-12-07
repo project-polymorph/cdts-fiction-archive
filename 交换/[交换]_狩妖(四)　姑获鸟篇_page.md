@@ -7,7 +7,7 @@ TXT 下载: [[交换]_狩妖(四)　姑获鸟篇.doc]([交换]_狩妖(四)　姑
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《狩妖(四) 姑获鸟篇》的部分内容，讲述了王空与季白兄妹在夜磷村的冒险故事。故事设定在酷暑的八月，兄妹二人应师门要求到深山中的据点进行考察与修行。夜磷村是一座出产灵石的小村落，在村中，他们遇到了村子的总管叶子瑄，并开始熟悉村子的环境。在游览过程中，兄妹俩秘密地互换了身体，王空在季白的身体里体验到了新的感受。季白穿着清凉的水手服，吸引了许多人的注意，而王空则沉浸在利用季白身体的感觉中。通过描绘兄妹之间复杂的情感和身体的冲突，故事探讨了性别认同和自我探索的主题。此外，故事中出现了叶子瑄与其一家人的情感线索，暗示了村子背后潜在的秘密和更深的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_狩妖(四)　姑获鸟篇.doc]([交换]_狩妖(四)　姑
 | Size            | 68096 bytes                           |
 | MD5             | d46069d7f017cfc5768cf3cf5f2132be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 兄妹, 自我探索, 夜磷村, 灵石, 妖怪, 身体互换, 性别认同, 深山探险, 青春, 奇幻, 情感纠葛, 探索, 村落, 异世界, 魔法, 家庭, 欲望, 兄妹情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

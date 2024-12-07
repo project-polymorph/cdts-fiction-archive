@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【中秋禮物】小娥的秘密.doc]([皮物]_【中秋�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部作品名为《小娥的秘密》，主要讲述了一位名叫小娥的仙女的日常故事。故事开始于一个荒凉的世界，阳光普照，但却没有生机。小娥身为"大寒宫"的仙女，过着任性又富有幻想的生活。她在宫殿内表现出娇气和任性的一面，比如不满意自己的食物，只想吃烤肉，而对陪伴她的月兔们表现出暴戾的一面。小娥时而展现神秘的法术，时而又与外界的犹豫与挑战进行对抗。在一则插曲中，她遭遇一个怪叔叔的骚扰，幸运的是得到了一位英俊男子的救助，进而产生了微妙的情感交流。整个故事融合了仙侠与奇幻元素，同时流露出对两性关系及自我认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【中秋禮物】小娥的秘密.doc]([皮物]_【中秋�
 | Size            | 59904 bytes                           |
 | MD5             | f0d16b703312153f1fe6e4c71f6e44d3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 仙女, 奇幻, 性别认同, 暴力, 奇幻爱情, 自我探索, 日常生活, 神话, 角色发展, 未成年, 异世界, 调教, 都市传说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

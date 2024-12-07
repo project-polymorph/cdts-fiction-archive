@@ -7,7 +7,7 @@ TXT 下载: [[附身]_双面特工.docx]([附身]_双面特工.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《双面特工》是一部围绕特工与性别转换主题的小说，讲述了主角劳伦斯接受一项危险的任务：他的个性将被转移到一个年轻女性身上，从而潜入犯罪组织收集情报。小说开篇以劳伦斯与上司的对话为开始，深入揭示了关于PTM项目的背景，强调任务的危险性和复杂性。劳伦斯在面对任务时内心充满恐惧与矛盾，他对自己能否成功融入女性角色感到怀疑。同时，故事中提到的女孩对即将发生的事情的愤怒反映出对这一实验的不满与恐惧，为整个故事增添了紧张气氛。在劳伦斯经过实验后，他感受到自己转变为女性后的身体感受，开始面临全新的身份与社会角色。该作品探讨了性别认同、个人身份以及自我探索等深刻主题，同时掺杂了科幻和悬疑的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_双面特工.docx]([附身]_双面特工.docx)
 | Size            | 204444 bytes                           |
 | MD5             | b63318329fe2c18c05cee98fbc1ea79a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Chrissy 和 Bashful                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 特工, 科幻, 心理纠葛, 身份认同, 自我探索, 跨性别, 性别角色, 二次元, 实验性小说, 情感冲突, 性别认同, 危险任务, 情报收集, 科技幻想, 虚构故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

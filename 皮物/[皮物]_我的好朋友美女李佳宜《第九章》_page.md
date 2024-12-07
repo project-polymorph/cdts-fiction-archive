@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《第九章》.doc]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别题材的小说摘录，描绘了两个女性角色小可和小爱在某个特殊训练课程中的相遇与互动。故事开头，小可在看到与自己有着相同面容的女生小爱时感到意外与疑惑。面对外界的批评和自我身份的认同困惑，小可沉浸于内心挣扎，常常因新的身份而感到不适与不安。作品详细刻画了他们在课程中逐渐适应新身份的心路历程，以及各自面临的心理与生理压力。文中包含了多种情感的复杂交织和对传统性别角色的挑战，同时也探讨了对自身性别认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《第九章》.doc]([皮物
 | Size            | 50176 bytes                           |
 | MD5             | c05c841e73fc19cd6dd232b69efa5512                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 自我探索, 伪娘, 变身, 校园, 心理挣扎, 社交互动, 女性形象, 身份转换, 师生关系, 训练课程, 情感纠葛, 生理反应, 心理压力, 二次元, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

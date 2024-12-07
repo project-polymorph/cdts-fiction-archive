@@ -7,7 +7,7 @@ TXT 下载: [[交换]_半条坠饰（全5章）.doc]([交换]_半条坠饰（全
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转变与自我认同的小说，名为《半条坠饰》。故事围绕两个主角展开：赵茜和她的弟弟赵康。开篇描绘了在夏日雷阵雨的背景中，乞丐与赵茜之间的偶然互动，展现出社会对边缘人群的态度和冷漠。在接下来的情节中，赵茜经历了一起交通事故，她在事故中得到了一名神秘英雄的救助，但事故后竟出现了一系列关于自己身体变化的奇异经历。赵茜从原本的自信职业女性，逐渐面临越来越多的身体与心理的困扰，特别是在她发现自己的生理性别发生变化后，这让她不得不重新审视自己的性别认同与角色定位。通过一系列心理活动和情感冲突，读者能感受到赵茜内心的恐慌与挣扎。小说不仅涉及跨性别体验，也进一步探讨了家庭关系与社会压力对个体的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_半条坠饰（全5章）.doc]([交换]_半条坠饰（全
 | Size            | 80384 bytes                           |
 | MD5             | 7ffb4b800b467434851083850de3f263                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我探索, 救赎, 心理变化, 家庭关系, 社会冷漠, 角色扮演, 人生转折, 情感冲突, 强烈变化, 都市生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

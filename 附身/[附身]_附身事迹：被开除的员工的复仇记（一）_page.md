@@ -7,7 +7,9 @@ TXT 下载: [[附身]_附身事迹：被开除的员工的复仇记（一）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性转题材的小说，主要讲述了一名女子林诗雨在神秘情况下失去意识后醒来时，发现自己附身在一个年轻女孩林晓晓的身体中，并且灵魂穿越了15年的时间。在这个陌生的环境中，林诗雨感到极度困惑和不安，同时面临着身份的认同和适应。小说中穿插了林诗雨的回忆与现实的交叉，她逐渐意识到自己所经历的变化以及对她的家庭、工作及自我认同的冲击。
+
+文件开头描述了林诗雨初醒时的环境，她惊讶于自己身处一个陌生的房间，并被告知自己已经进入了未来。随着故事的发展，附身的能力被揭示，描绘了一名男人刘建国在被开除后获得的附身他人的能力，以及他对这个能力的兴奋和后续的探索。章节中夹杂着男女角色之间复杂的情感互动，以及对性别与身份的探讨。整体情节包含了性别认同、自我认知以及穿越时空的奇幻元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_附身事迹：被开除的员工的复仇记（一）.doc
 | Size            | 24808 bytes                           |
 | MD5             | 122044ed8aa7a0fd7f7dc91d1949cf55                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 跨性别, 自我认同, 情感互动, 女性视角, 成人内容, 奇幻, 变身, 心理探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

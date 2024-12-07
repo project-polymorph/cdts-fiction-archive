@@ -7,7 +7,7 @@ TXT 下载: [[变性]_[翻译]我的人生在跑步时完全改变(很长的一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别转变的小说，讲述了年轻男孩杰瑞·瓦特在一次跑步过程中遭遇意外，被著名外科整形手术专家艾伦·怀特博士撞到。故事设置在美国中西部的蒙顿小镇，背景详细描述了杰瑞的家庭，包括他的母亲、父亲以及兄弟姐妹。事发后，怀特博士因恐惧而选择将杰瑞带回家进行紧急手术，而非将他送往医院。这一决定不仅可能影响到杰瑞的未来，也牵扯出怀特博士对职业生涯和家庭的深思。在手术过程中，博士意识到杰瑞的身体状态不容乐观，必须进行大规模的整容和激素治疗以帮助杰瑞适应未来的生活。小说从多个角度探讨了性别认同、自我探索以及道德困境等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_[翻译]我的人生在跑步时完全改变(很长的一�
 | Size            | 56097 bytes                           |
 | MD5             | 7fab199d6fecaaa54d6c17b05ea55765                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 变身小说, 自我认同, 伦理困境, 家庭关系, 悬疑, 整形手术, 心理调整, 青春成长, 道德选择, 意外事故, 跨性别, 魔幻, 科幻, 人生转折, 医疗事故                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

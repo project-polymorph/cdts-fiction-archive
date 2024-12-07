@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的女友江月白1.docx]([皮物]_我的女友江月�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一名大学生与其女友江月白之间的日常生活和感情发展。故事始于男主角回到家中，与温柔美丽的女友相聚。两人相恋已有多年，通过平常的互动和关照，描绘了甜蜜的大学生活场景。在此过程中，女友身体不适的情节引发了男主的关心，并表达了对她的珍视与爱意。随着情节的发展，江月白向男主提出了更进一步的关系要求，使得两人的感情迈向了新的阶段。通过细腻的描写，读者能够感受到两人之间深厚的情感联系和生活中的温馨细节。故事中涉及到的爱情与性相关话题，反映了年轻情侣之间对于情感与责任的讨论与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的女友江月白1.docx]([皮物]_我的女友江月�
 | Size            | 15383 bytes                           |
 | MD5             | 473d463ba6d12c58645b38c79df3c270                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 爱情, 校园生活, 甜宠, 大学生, 亲密关系, 情感发展, 性别认同, 自我探索, 日常互动, 生活琐事, 甜蜜生活, 情趣服装, 熟悉感, 身体接触, 成长与变化, 情感成熟                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

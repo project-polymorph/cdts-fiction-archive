@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_兄弟！（完整版）一品烟灰作品.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一品烟灰创作的伪娘小说《兄弟！》的完整版，以男主小德为视角，讲述了他与好友小杰之间深厚的兄弟情谊以及小杰在恋爱后情感变化的故事。故事最初描绘了小德与小杰从小一起长大的情景，强调他们的友情如同兄弟般亲密。但随着小杰开始追求校花冉洁，两人的关系开始产生微妙的变化。小德表达了担忧，认为小杰的情感变得异常复杂。更为戏剧的是，冉洁暗中与另一男性交往，令小德感到震惊和愤怒，他选择介入来保护兄弟。整个故事情节紧凑，情感刻画细腻，体现了在爱情与友情之间的冲突与挣扎。文中不乏对性别角色和自我认知的探讨，暗示了跨性别和伪娘文化相关的情节，以及对社会性别期望的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_兄弟！（完整版）一品烟灰作品.docx]([皮物]_
 | Size            | 30413 bytes                           |
 | MD5             | 4e2719340a8463f89b428194fb4f7650                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 一品烟灰                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 情感纠葛, 青春校园, 男性视角, 兄弟情, 背叛, 恋爱, 大学生活, 校花, 友情与爱情, 性别认同, 成长故事, 自我探索, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

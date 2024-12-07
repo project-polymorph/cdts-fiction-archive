@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我.doc]([变身]_我.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了角色羅伯特．史皮的变身过程，他最初是一名25岁的男性，拥有不错的工作和女友。在一个炎热的星期五，他决定在家中独自一人，开始撰写关于他理想女性形象的文章。在写作过程中，他感受到了一种奇怪的变化，自己开始经历性别转换，身体逐渐变得越来越女性化。故事详细描写了他的心理活动与身体变化，如腿部肌肉萎缩、胸部和臀部的扩张，以及阴茎的萎缩和阴道的形成等，展现了性别认同与自我认知的冲突与转变。此过程不仅是生理上的改变，还伴随着心理上的挣扎与接受。文中对角色的心理变化进行了细致的描绘，充满了对女性身体特征的幻想与自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[变身]_我.doc]([变身]_我.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 100864 bytes                           |
 | MD5             | 64f4f643fba5bcb10c77af0bf8293c32                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 自我探索, 心理变化, 幻想, 女性认同, 性别认同, 跨性别, 二次元, 性转小说, 身体变化, 身份认同, 情感冲突, 性高潮, 反转, 虐恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

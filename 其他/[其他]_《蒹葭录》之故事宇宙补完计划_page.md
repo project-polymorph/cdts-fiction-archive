@@ -7,7 +7,7 @@ TXT 下载: [[其他]_《蒹葭录》之故事宇宙补完计划.doc]([其他]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《蒹葭录》之故事宇宙补完计划主要内容是构建一个包含多个篇章的小说宇宙，其中包括扶桑篇、圣庭篇、贤度篇、罗刹篇、大食篇和花旗篇等。文中提到为确保角色之间的关系和情节的连贯性，计划开发每篇小说大约控制在4000字以内，通过这些篇章的相互关联与交融，探讨人物的性别认同、自我探索等主题。一方面，小说探讨了历史和传统的交织，描绘了两家豪族的争斗与联姻计划，另一方面，部分角色展现了伪娘及角色性别转换的情节，体现了跨性别身份的探索。文中多处提到角色之间的复杂关系和情感发展，尤其是高川家与木下家之间的联姻如何受到历史恩怨的影响。文件还提到了一些角色的想法和情感变化，表达了他们对未来命运的不安与期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_《蒹葭录》之故事宇宙补完计划.doc]([其他]_�
 | Size            | 60928 bytes                           |
 | MD5             | 2e62a27980cd9d91436aa73aa9cd105b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 蒹葭录, 故事宇宙, 扶桑篇, 跨性别, 伪娘, 角色发展, 情感探索, 联姻计划, 传统与现代冲突, 家族恩怨, 历史背景, 人物关系, 幻想文学, 性别认同, 自我探索, 忍者, 武士文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

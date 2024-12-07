@@ -7,7 +7,7 @@ TXT 下载: [[变装]_葵花旧事（20）.doc]([变装]_葵花旧事（20）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一个名为《葵花旧事》的伪娘变装小说的第二十章，主要讲述了主角常苼南在一个山寨中施展其武力和影响力的故事。常苼南在山寨中地位显赫，负责安排手下打探家中消息。在探知家族成员被官府抓捕后，他决定派人去营救被抓的丫鬟，并设下火灾掩饰逃脱。在过程中，常苼南发现自己已经怀孕，必须在男尊女卑的社会中维护自己的领导地位，并寻找合适的方法来解决危机。夏雨和韩露等人则逐渐意识到权力的游戏，并愿意为常苼南立功建业。整章描绘了人物之间复杂的权力关系、紧张的情节发展和角色身份的探索，展现了对性别认同和自我认知的深度思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_葵花旧事（20）.doc]([变装]_葵花旧事（20）.do
 | Size            | 60416 bytes                           |
 | MD5             | 93c00286e8f3cb375240265f7ee3cea9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性别认同, 怀孕, 权力游戏, 山寨, 武功, 拯救, 自我探索, 情感纠葛, 性转, 逆后宫, 女性视角, 爱情, 古代, 转啊                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

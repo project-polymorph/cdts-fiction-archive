@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我的基友会附身同人.doc]([附身]_我的基友会�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是九九雷姆授权的同人小说，围绕着一个名叫王明的年轻人及其母亲的故事。故事开头，王明受到考试成绩差的压力，担心母亲的反应。在回家后的对话中，王明发现母亲的反应奇怪，不如往常那样严厉，反而有些心虚和避讳。随着情节的推进，王明的同学张浩意外地出现在家中，并透露出他拥有一种名为“精神污染”的超能力，能够以精神为载体，控制他人的身体。正当王明震惊于这一切时，张浩竟然声称自己与王明的母亲融为一体，彼此共享记忆和控制权。故事通过张浩与王明母亲的互动，描绘了一系列令人震惊且暧昧的场景，包括张浩借用王明母亲的身体进行亲密行为的细节，挑战了角色的边界与性别认同。同时，小说包含了一些限制级内容及强烈的性暗示，为情节增添了冲突和复杂性，涉及自我探索与性别认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我的基友会附身同人.doc]([附身]_我的基友会�
 | Size            | 40960 bytes                           |
 | MD5             | 0a61317c99a7315f3793d34176b5634b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 九九雷姆                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 精神污染, 附身, 性别认同, 强烈性暗示, 家庭关系, 自我探索, 男女性别改变, 奇幻元素, 青春期烦恼, 心理冲突, 超能力, 幻想小说, 二次元, 禁忌之恋, 复杂的亲子关系, 同性恋情节, 精神与身体的关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_圣艾格尼丝私立中学_3_(完）.doc]([改造]_圣艾
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一位名叫丽莎的角色在圣艾格尼丝私立中学的生活经历，重点描绘了她的内心挣扎与自我认同。在和她的朋友安妮的对话中，丽莎分享了自己因为性别认同而面临的困难，尤其是在圣诞节后被亲近的人误解的问题。文件描述了她在学校的跨年晚会和时装秀上的经历，其中她穿上自己制作的裙子，渐渐接受了自己的女儿身份。通过与米歇尔和安妮的互动，展示了她在这一过程中逐渐建立的自信与自我接受。此文件深入探讨了性别认同、自我探索和相关的社会期待以及对于变性人群体的讨论，让人对丽莎的未来充满期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_圣艾格尼丝私立中学_3_(完）.doc]([改造]_圣艾
 | Size            | 78848 bytes                           |
 | MD5             | d983a41a9ce400ba3a96974d684706d3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变性人, 圣艾格尼丝中学, 跨性别, 校园生活, 青春, 女性化, 荷尔蒙治疗, 友谊, 身份危机, 时装秀, 美丽追求, 个体成长, 社交压力, 情感支持                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

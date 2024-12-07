@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_33.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部作品名为《把男朋友养成亲闺女》，由Nicegent42所创作，翻译者为Lisa。故事围绕两位金发少女贝丽和坎迪展开，她们在水上乐园的经历突显了青春期的困惑与情感。在一场意外中，贝丽的比基尼上衣在玩滑梯时脱落，警卫误以为她在裸奔，随即将她和妹妹坎迪带进禁闭室。小说通过生动的对话与情感描写，展现了女孩们在面临误解与羞辱时的脆弱与友情。在紧张的情节背后，反映出性别认同与自我探索的主题，以及未成年人对成人世界事物的无助感和对彼此的保护欲。作品中充满了年轻女孩之间纯真而复杂的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_33.doc]([改造]_把男朋友�
 | Size            | 44032 bytes                           |
 | MD5             | 17641ff495d4bc4583954f01ab6af6ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2021-10-08                                 |
+| Tags            | 性转, 伪娘, 青春期困惑, 友情, 误解, 水上乐园, 性别认同, 自我探索, 禁闭情节, 勇气与支持, 情感纠葛, 比基尼遭遇, 校园生活, 少女成长, 情感保护, 打破常规                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

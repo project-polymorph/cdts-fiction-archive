@@ -7,7 +7,7 @@ TXT 下载: [[其他]_寄生兽_[.docx]([其他]_寄生兽_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《寄生兽》的小说，作者为宅路人。故事围绕多个神秘的失踪案件展开，通过细腻的描写，展现了一副都市犯罪的阴暗面。文中开篇介绍了案件的背景，提到本市连续发生了多起失踪事件，警方在不断排查过程中，发现失踪的男性多与年轻貌美的女性有关，这种隐约的连接让人物间的关系愈发复杂。故事中的角色，包括警方的女警和她的搭档，通过对案件的探讨，展现出对于人性和情感的多重探索与思考。文件文字部分流畅，引人入胜，同时夹杂着一些轻松的对话，让整体氛围更加多样化。在悬疑氛围与角色心理描写中，这部小说揭示了当代都市生活中的各种关系与潜在的欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_寄生兽_[.docx]([其他]_寄生兽_[.docx)
 | Size            | 27983 bytes                           |
 | MD5             | 55eda67ed16d5aafa36f8f1f96d1133b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 寄生兽, 悬疑小说, 都市犯罪, 角色心理, 失踪案件, 性别转换, 女性角色, 情感探索, 都市生活, 警匪故事, 阴暗面, 自我认知的冲突, 人性探讨, 青春, 剧情反转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

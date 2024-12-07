@@ -7,7 +7,7 @@ TXT 下载: [[附身]_愛人。安安.doc]([附身]_愛人。安安.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于角色之间复杂关系的性转小说，主要围绕着小男孩何语轩与他的妹妹妮妮之间的互动展开。故事情节涉及灵魂转移和性别认同等主题。在情节的展开中，亡灵阿毅附身于他的好朋友何语轩的妹妹身上，试图引发一系列奇特而禁忌的情感交流。文本中包含性暗示和探索个人欲望的过度讨论，尤其是关于初次性体验的疑惑与探索。该小说的语言风格直白而大胆，同时穿插了诸多性相关话题，试图通过幽默和对话挖掘人物内心的矛盾和困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_愛人。安安.doc]([附身]_愛人。安安.doc)
 | Size            | 139264 bytes                           |
 | MD5             | d19db4218ca656931e85291e242862e0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 白紙                               |
+| Region          | 未知                               |
+| Date            | 2013-07-13                                 |
+| Tags            | 性转, 灵魂附身, 兄妹关系, 初恋, 探索欲望, 伪娘, 禁忌恋, 灵异, 自我认同, 青春期困扰, 性别转换, 幻想, 恋爱, 刺激情节, 逆后宫, 暴露情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

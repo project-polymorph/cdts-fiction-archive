@@ -7,7 +7,7 @@ TXT 下载: [[变身]_衣服（十九）.doc]([变身]_衣服（十九）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位角色在都市校园环境中的轻H故事，主要围绕着她与好友阮敏之间的情感发展。故事采用第一人称视角，展现了丰富的内心戏与情感纠葛。初始时，女孩面对阮敏的告白，感到惊讶与感动，尽管心中仍留有些许羞愧与不安，但在情感的流动下，内心逐渐柔软，感受到两人之间的特殊联系。随着剧情的发展，女主表达了对阮敏的爱慕，情感氛围愈发浓烈，甚至有着一些轻微的暧昧与性暗示。文中描绘了两位角色在情感与身体认同上的探索，以及对彼此身份的认同，最终形成了一段甜美而带有冲突的恋爱故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_衣服（十九）.doc]([变身]_衣服（十九）.doc)
 | Size            | 67584 bytes                           |
 | MD5             | a01749e3957437989caf5a9d37bf9479                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 恋爱, 都市校园, 第一人称, 内心戏, 情感纠葛, 轻H, 告白, 自我探索, 伪娘, 姐妹情, 女性视角, 情感发展, 暧昧关系, 身体认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

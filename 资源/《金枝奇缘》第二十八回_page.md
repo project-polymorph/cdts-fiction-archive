@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第二十八回.doc](《金枝奇缘》第二十�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《金枝奇缘》第二十八回，内容围绕主要角色赵成子与几个女弟子展开，描绘了一场涉及吸取精魂的情节。故事背景设定在神秘的血狱山，赵成子在施行“万鬼噬魂大法”后重伤，需要通过吸取其他角色的精魂来恢复自身的力量。文中详细描述了几个容貌绝佳的女弟子如何被赵成子捕获、折磨与吸取精魂的过程，展现出了一幅阴暗且充满压迫的场景，女弟子们在绝望中求饶却无济于事。随着情节的发展，赵成子与女弟子的命魂也展开了激烈的争夺，最后胡济生在意外中获得了赵成子的身体与命魂的控制，使得情节复杂化。文中对部分情感与欲望的冲突进行了细腻的描写，让角色间的关系错综复杂，充满张力与冲突。整体上，文章呈现了一种融合了魔法与跨性别主题的奇幻故事，探索了角色性别转变和自我认同的深层次主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第二十八回.doc](《金枝奇缘》第二十�
 | Size            | 35328 bytes                           |
 | MD5             | cd4e1847ee7183873d60623efd06230f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 精魂吸取, 奇幻, 魔法, 阴暗, 情欲, 角色争夺, 自我认知, 命魂, 女弟子, 祭品, 血祭, 胡济生, 赵成子, 妖邪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

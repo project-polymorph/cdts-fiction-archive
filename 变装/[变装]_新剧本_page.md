@@ -7,7 +7,7 @@ TXT 下载: [[变装]_新剧本.docx]([变装]_新剧本.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《变装_新剧本》，内容围绕着三名大学生七染、花涧和音之间的友谊与共同爱好展开。他们都对女装有着浓厚的兴趣，彼此鼓励与分享。在一次宿舍活动中，七染决定与两位室友尝试穿女装外出，但最终选择在家中度过。三人来到了一家美容院，享受女装体验并进行角色扮演。文中详细描写了他们的化妆、穿衣过程及角色剧本，尤其是涉及到的调教和性幻想场景。三人的角色扮演不仅是表演，更涉及到了其大胆的色情欲望，其中七染对女装后的堕落快感表现尤为突出。故事情节在转变中出现了绑架的悬疑，三人被一群蒙面人袭击，音与花涧的迷失与转变构成了情节的高潮，花涧在这种情况下面临了未知的性别和角色的改变，而角色扮演的深层欲望与现实交织在一起，展现出复杂的性别认同与自我探索。整体内容蕴含丰富的性别和心理主题，适合对性转与跨性别相关小说感兴趣的研究者阅读与研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_新剧本.docx]([变装]_新剧本.docx)
 | Size            | 39512 bytes                           |
 | MD5             | f0dfcffaeef65762d29010f6de037de7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 跨性别, 角色扮演, 女装, 恋物癖, 情趣内衣, 大学生活, 自我探索, 欲望, 调教, 魔法, 姐妹情, 嫁接, 绑架, 女体化, 三人行, 宿舍生活, 强奸幻想, 暗黑趣味                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

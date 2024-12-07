@@ -7,7 +7,7 @@ TXT 下载: [[变性]_绝密身份（八）_校园趣事.docx]([变性]_绝密�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部关于校园生活的伪娘变身小说，描绘了角色在清华大学报到的体验。故事围绕主角（伪娘）和新同学王二山的相遇展开，表现出主角内心对于家庭的牵挂与孤独。文中通过对环境的细致描写，展现了清华大学的校景和师生互动，以及主人公如何在陌生的环境中逐渐融入。故事中有家长送孩子报到的温情场景，以及多个角色之间的幽默对话，尤其是王二山的父亲对儿子的期望，展现了中国家庭对教育的重视。主角与另一位大二学生谢辉的交往增添了情节的复杂性，展示了性别认同与校园生活中的互动。整体情节流畅，通过戏剧性的对话与内心独白呈现出角色的心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_绝密身份（八）_校园趣事.docx]([变性]_绝密�
 | Size            | 26314 bytes                           |
 | MD5             | 44deeeb5db8b08ec5d519c0cd360a573                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 校园生活, 性别认同, 清华大学, 角色互动, 家庭期许, 新生报到, 青春, 自我探索, 感情发展, 成长故事, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交换爱.docx]([交换]_交换爱.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《交换爱》包含三个以性别交换为主题的小短文，探讨了夫妻间的关系、性别认同及爱在生活中的多样性表现。文章的第一篇描绘了一位全职主妇在春节准备期间与丈夫的互动，强调了二人之间的亲密与理解，并通过性别交换的情境展现了性的表达与爱的沟通。第二篇故事以挖掘机司机和其体育老师妻子为主角，讨论了性别角色的转换给双方带来的新体验和认知，尤其是对家庭生活和爱的理解。第三篇则从妻子的视角出发，讲述了丈夫在东莞打工期间的婚外情，结合性别交换的设定，让妻子理解丈夫的需求与困境，展现了传统婚姻中潜在的裂痕。整篇文章围绕性别认同、自我探索及夫妻关系展开，涉及情感交流和身体的交换，对性与爱的复杂关系进行了深刻的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交换爱.docx]([交换]_交换爱.docx)
 | Size            | 20845 bytes                           |
 | MD5             | db1d82b8c53125c03483c276edfd6516                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 跨性别, 夫妻关系, 爱情, 自我探索, 情感交流, 性别认同, 伪娘, 男娘, 变身, 强奸, NTR, 乱伦, 调教, 多角关系, 逆后宫, 百合, 异世界, 奇幻, 科幻, 游戏, 古代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

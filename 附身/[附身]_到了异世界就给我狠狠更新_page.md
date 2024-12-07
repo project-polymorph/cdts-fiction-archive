@@ -7,7 +7,7 @@ TXT 下载: [[附身]_到了异世界就给我狠狠更新.doc]([附身]_到了�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨越次元的轻小说，以一名普通上班族的视角展开，讲述了他在现实生活与小说创作间的挣扎和自我认知的冲突。故事开头，主角在公共汽车上接到来自粉丝的信息，五年来一直催更的他感到烦躁，而他所写的小说内容中包含角色的性别转换与变身情节。文中提到主角的写作往事，以及他作为“污妖王”的称号，暗示着他作品中的丰富情节与主题。在一次突发的意外中，主角遭遇车祸，意识模糊之际，他恍惚间听到来自粉丝的催更信息，这为后续的异世界冒险埋下了伏笔。文件充满了幽默与自嘲，展现了作者对创作行业的思考和自我调侃。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_到了异世界就给我狠狠更新.doc]([附身]_到了�
 | Size            | 71168 bytes                           |
 | MD5             | abf6e2d669966dcc656da40c2d29d983                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 异世界, 自我认知, 轻小说, 都市故事, 现代幻想, 角色扮演, 粉丝文化, 人际关系, 创作与灵感, 幽默, 讽刺, 励志                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

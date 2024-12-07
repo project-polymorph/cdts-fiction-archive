@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_3.docx]([变身]_【渣�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部变身类小说的摘录，主要描述了勇者艾伦在进入一个神秘的通道后，遭遇魔物的攻击和身体的变异。在战斗中，艾伦感到自己身体的反常，伴随着对魔法的咏唱无法顺利完成。他在与敌对魔物周旋时，逐渐感受到身体上的变化，尤其是借助耳环的魔法影响，艾伦的外表和生理现状发生了显著的性别转变。荣耀的勇者逐渐被迫接受自己变得更加女性化的状态，这一过程伴随着内心深处的挣扎与混乱，文中描绘了他身体的变化，如乳房的隆起、肌肉的消失、声音的改变等，及其自我认同的冲突。故事通过艾伦身上所发生的变化探讨了性别认同和自身认知等深刻的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_3.docx]([变身]_【渣�
 | Size            | 22251 bytes                           |
 | MD5             | e9e0812bdf3a3c461ef07217d472560b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 勇者, 魔法, 自我认同, 身体变化, 冒险, 奇幻, 性别认同, 二次元, 幻想, 精神冲突, 内心挣扎, 角色发展, 女性化, 魔物, 战斗, 羞耻感, 心理变化, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

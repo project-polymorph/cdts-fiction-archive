@@ -7,7 +7,7 @@ TXT 下载: [皮男1.doc](皮男1.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件主要讲述了一个名为 "皮男" 的角色，他通过一种名为 "皮机器" 的机械实现了性别的转换与身份的交换。故事开头，角色描述了自己作为一个只有外皮的男人，内心的自我与身体的冲突，以及他对变身成为某个女性角色的渴望。文件内容包含了对于该机制的详细解释，具体到如何通过输入照片复制出他人的皮肤，并披上后进行交换。角色在经历这一过程中的喜悦与奇妙感受被详尽描述，同时涉及对新身体的探索与自我认知的转变。不过，内容也包含了一些可能被视为敏感的情节，例如对性行为的描写、自慰等，体现了角色在变身后对自己新身份的感受和冲动。整篇作品探讨了性别认同、自我探索及其带来的心理变化，同时富有幻想和科幻元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [皮男1.doc](皮男1.doc)
 | Size            | 43520 bytes                           |
 | MD5             | 209bdfde700bab6f0e9187b69e61e781                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 伪娘, 自我认同, 性转, 幻想小说, 跨性别, 内心冲突, 二次元, 科技幻想, 身体探索, 性行为, 性暗示, 自我探索, 身份交换, 生理性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

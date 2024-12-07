@@ -7,7 +7,7 @@ TXT 下载: [[交换]_星棋山庄_[.docx]([交换]_星棋山庄_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+在本章中，主角宗緈经历了显著且富有戏剧性的变化，她突然觉醒，发现自己身处于一个陌生的女性身体中。故事开头描述了宗緈从信州到达星棋公寓后，因疲惫而小睡的情景。醒来时，她感受到了身体异样的感觉，尤其是穿着丝质睡裙的触感，让她不知所措。随着故事的发展，宗緈逐步意识到自己与周围环境和人际关系的微妙变化，面对自我认同和身体认知的冲突。她在洗手间的镜子前看到了自己身穿睡裙的模样，初次面对这一全新的女性身份，内心不断涌现出惊恐、不安与对自身变化的探索。此外，小说中还暗示了一些复杂的人际关系，尤其是在宴会中宗緈与其他角色如元白和付青青之间的互动，以及她对女性角色的自我探索与接受。整部作品围绕性别认同、自我探索及情感冲突展开，展现了角色如何在这种迷茫中逐渐面对真实的自我。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_星棋山庄_[.docx]([交换]_星棋山庄_[.docx)
 | Size            | 47495 bytes                           |
 | MD5             | f053c873b9e7737fb94e4184541b33a6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身小说, 跨性别, 情感冲突, 伪娘, TSF, 情感纠葛, 青春, 成人内容, 恋爱, 奇幻, 二次元, 心理变化, 职场女性, 同居生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

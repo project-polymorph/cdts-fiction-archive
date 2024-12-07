@@ -7,7 +7,7 @@ TXT 下载: [[附身]_幽體人的出現.docx]([附身]_幽體人的出現.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇短篇小说讲述了主角在街头遇见一个名为"幽体人"的神秘存在。故事开始于主角在玩手机时，感到旁边有个人经过，却发现周围没有人。接着，主角目睹了一个"透明人"的出现，并观察到了这种带有超自然属性的存在。透明人突然拥抱了一位女子，使她陷入惊恐，一时间令人不得不联想到恶作剧或科幻情节。随着故事的发展，女大学生似乎被透明人所控制，参与到一种异常行为中来，表明这个幽体人实际上是与人的意识相连的超自然生物，还有着对人类身体与灵魂的独特理解。通过诙谐且具有悬疑感的对白，小说探讨了意识与肉体之间的关系，以及超自然现象的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_幽體人的出現.docx]([附身]_幽體人的出現.docx)
 | Size            | 31839 bytes                           |
 | MD5             | 550c1d176ece90b63b2901c6d675156e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | トゥルー(TRUE)                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 幽体人, 超自然, 透明人, 灵体, 意识, 性转, 控制, 幻想, 恐怖, 街头, 灵魂出窍, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

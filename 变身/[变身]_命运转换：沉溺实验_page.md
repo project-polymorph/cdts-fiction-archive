@@ -7,7 +7,7 @@ TXT 下载: [[变身]_命运转换：沉溺实验.doc]([变身]_命运转换：�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《命运转换：沉溺实验》讲述了主人公艾迪意外获得一个能够转变身体的魔法奖章。故事从艾迪送女友简去度假后开始，艾迪在触碰奖章时意外变成了女性，这一变化令他感到震惊和困惑。故事记录了艾迪作为女性的种种经历，从最初的惊慌失措到后来的沉迷与探索，逐步接受并享受作为女性的身份。艾迪在明确了变身后身体与精神的变化后，开始探索女性的生活，体验各种以往未曾经历的感觉，如穿衣、化妆和与男性的交往。随着实验的深入，艾迪的精神状态逐渐受到影响，他开始迷失在女性身份与本身的男性意识之间，最终与一位男性发生关系，充分体验了作为女性的快感与满足。整篇故事围绕性别转换、身份认同以及对自我的探索，深刻反映了个人在不同身份中所面临的心理挣扎与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_命运转换：沉溺实验.doc]([变身]_命运转换：�
 | Size            | 42496 bytes                           |
 | MD5             | 70f8a335c3b0f58e9e5c9c6df46c4899                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 自我探索, 魔法, 变嫁, 伪娘, 体验, 纯爱, 心理变化, 异世界, 青年成长, 性转, 春梦, 性启蒙, 身份解放, 女性视角, 实验, 爱好者文化, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

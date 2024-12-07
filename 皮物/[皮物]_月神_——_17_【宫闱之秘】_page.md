@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_月神_——_17_【宫闱之秘】.docx]([皮物]_月神_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇描绘古代背景下角色变性的小说，故事围绕伪娘妲己展开，情节包含复杂的人际关系和权力斗争。主角婷萱通过伪装成妲己进入宫中，意图利用其美貌和智慧来影响纣王，最终陷入了火热而又危险的宫廷生活。内容中包含了关于角色的自我认知、身体的细致描绘以及涉及权力、欲望和操控的深刻层面。小说不仅描写了妲己与纣王之间的冲突与关系，还引入了其他宫中人物对权力的难以忽视的争夺。文章中详细描述了妲己的外表和吸引力，以及她如何利用药物和心理战术影响纣王，使其成为自己计划中的棋子。文中有着大量的情感纠葛与心理斗争，展示了角色在宫廷戏剧化环境中的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_月神_——_17_【宫闱之秘】.docx]([皮物]_月神_
 | Size            | 34374 bytes                           |
 | MD5             | 537133de42af804bbd32e7d011fc95d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 古代, 权力斗争, 性转, 宫廷, 情感纠葛, 角色扮演, 自我探索, 欲望控制, 变装, 心理战术, 禁忌恋, 人际关系, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

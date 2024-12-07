@@ -7,7 +7,7 @@ TXT 下载: [[变身]_梦01-寻找少女的摄影师.docx]([变身]_梦01-寻找
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于摄影师源的虚构故事，讲述了他如何运用现代科技，通过梦境来拍摄女性模特的经历。在故事中，源面临着工业化都市中难以捕捉自然之美的挑战。因此，他决定利用公司研发的梦境视频技术，成为一名“梦境摄影师”。通过启动装置，他进入了一个奇幻的梦境。流畅的叙述展现了他在赛博风格的街道上寻找绿地和美少女的艰辛旅程。在追踪重要摄影器材的过程中，源经历了一系列奇妙而又扭曲的场景：从目睹一个壮汉强暴少女的瞬间，再到他自身身份的转换，甚至变成了那个施暴者。最终，源成功地将一张不完整的图片融入自身，获得了一个女性的体态和感知，而这位少女也反过来帮助他实现梦想。整部作品充满了梦幻与幻想的元素，探讨了自我认知与性别认同的主题，最后以源在梦中追求理想的模特为结尾，表现出对美丽的执念与追求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_梦01-寻找少女的摄影师.docx]([变身]_梦01-寻找
 | Size            | 29719 bytes                           |
 | MD5             | 973d11d7dcb988cdf157d67f5eb7b54a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 梦境摄影师, 性别认同, 自我探索, 赛博风格, 梦境, 模特, 奇幻, 男变女, 摄影, 童话故事, 都市幻想, 科技幻想, 人物转换, 柔美                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

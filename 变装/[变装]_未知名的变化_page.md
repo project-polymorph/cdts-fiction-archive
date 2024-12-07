@@ -7,7 +7,7 @@ TXT 下载: [[变装]_未知名的变化.docx]([变装]_未知名的变化.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《未知名的变化》，内容描述了一个角色在经历一种未知的变化过程中，逐逐渐意识到身体和精神之间的矛盾。主角在开头提到最近非常糟糕，感到自己仿佛是某种恶作剧的受害者，并且随着日子的推移，主角开始习惯身体的变化，但内心却无比煎熬。文中通过角色的内心独白，展现了其对自身变化的恐惧与无力感，同时提到外界对其变化的关注及反应，诸如偷偷指指点点的目光和对其变化支持的家人。角色的情感波动十分丰富，从愤怒到无奈，从隐藏自我到渴望被理解，描述了一场关于自我认同与性别认同的深刻探索。文中多次对一种难以言喻的感受进行了细腻的描摹，如“我的灵魂在哭泣”，让人感受到角色的苦闷与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_未知名的变化.docx]([变装]_未知名的变化.docx)
 | Size            | 20387 bytes                           |
 | MD5             | 5cc72a368e25a958c2811c702e085ac8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身, 精神煎熬, 社会压力, 跨性别, 角色变化, 情感纠葛, 家庭支持, 恶作剧, 思想斗争, 身体与精神的矛盾, 伪娘, 成长经历, 痛苦与挣扎, 二次元, 内心独白, 文学创作                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_一个人的捉迷藏.docx]([交换]_一个人的捉迷藏
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个叫做“一个人的捉迷藏”的恐怖都市传说的小说。故事的主角在朋友的怂恿下尝试玩这个都市传说所需的仪式，并在过程中经历了一系列恐怖的事件。主角在进行操作时需使用布偶、盐水、刀具等材料，最终因害怕而放弃，但却在接下来的情节中感到被诅咒的恐惧。故事深刻探讨了个人对恐惧的无能为力和自我认知的改变，是一篇温暖又充满恐怖氛围的小说。其中，主角雾崎响也的内心斗争与外部恐怖事件形成鲜明对比，令人紧张不已。文中大段描写了主角的感受与恐惧，最后揭示了不幸的循环与命运的无常，构建了紧凑而引人入胜的故事情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_一个人的捉迷藏.docx]([交换]_一个人的捉迷藏
 | Size            | 22912 bytes                           |
 | MD5             | 510cc47575012e5ee752c1cae9b1f75c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 恐怖, 都市传说, 变身, 灵异事件, 自我认知, 恶寒, 不可思议, 超自然, 心理恐惧, 主体意识, 玩偶, 阴影, 重生, 命运, 游戏, 生命与死亡, 心理剧, 青春, 高中生活, 恐惧故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

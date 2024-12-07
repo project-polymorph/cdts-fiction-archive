@@ -7,7 +7,7 @@ TXT 下载: [[附身]_附体短篇集——灰色の支配者.doc]([附身]_附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于角色意识转移的短篇小说，设定在一所高中课堂中，主角在课堂上因昏昏欲睡而意外释放出一种灰色的气体，此气体似乎与主角的意识相连接，可以在教室内自由移动。主角发现，他可以通过这团灰色的云操控自己的老师美崎的行为，并进行各种恶作剧。故事中通过非常直白和夸张的方式展现了主角对老师身体的控制与趣味恶搞的过程，涉及许多性暗示和不当行为，含有较为明显的色情成分。此外，文本中使用了许多内心独白，展现了主角的兴奋与沮丧交替的情绪。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_附体短篇集——灰色の支配者.doc]([附身]_附�
 | Size            | 51200 bytes                           |
 | MD5             | 289b4f75274dd714cb4d1ab93b674b77                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | トゥルー（真）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 意识转移, 恶搞, 操控, 高中生, 老师, 恶作剧, 性暗示, 幻想, 凌辱, 调教, 奇幻, 二次元, 现代, 心灵控制, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

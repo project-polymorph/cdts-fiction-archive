@@ -7,7 +7,7 @@ TXT 下载: [[变装]末世（4）（全肉，不喜误入）.doc]([变装]末�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《末世（4）（全肉，不喜误入）》是一部涉及伪娘和跨性别主题的小说，作品描绘了在一个末世背景下，角色之间的复杂情感和性别转换过程。故事围绕张书秦和邓雨涵的互动展开，展现了张书秦在被强迫进行性行为过程中的心理挣扎和肉体体验。文件描写了张书秦在邓雨涵的强强势下体会到的奇异感觉，包括最初的恐惧和随之而来的快感，表现出了性别认同与自我探索的困境。此类内容可能涉及针对性的性描写，包罗了肉体欲望与心理复杂的交织，属于限制级别的成人主题。文件的风格直接而充满戏剧性，细腻地描绘了角色内心的变化和情感的流动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]末世（4）（全肉，不喜误入）.doc]([变装]末�
 | Size            | 31744 bytes                           |
 | MD5             | b0ce38155746aba9be2213d9be7972b2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 末世, 变身, 强奸, 自我探索, 性别认同, 成年人内容, 肉体快感, 情感冲突, 强势女性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

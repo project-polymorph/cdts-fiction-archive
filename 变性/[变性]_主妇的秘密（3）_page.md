@@ -7,7 +7,7 @@ TXT 下载: [[变性]_主妇的秘密（3）.docx]([变性]_主妇的秘密（3�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《主妇的秘密（3）》，主要叙述了一位名为李洁的女性的故事，她在经历了一场意外后失去了记忆。故事发生在绍兴，李洁接到了丈夫的电话，得知自己似乎与一个名为季扬的男人有着复杂的关系。电话中提及她的头痛病使得她无法回忆过去，这让她感到更加困惑。李洁决定寻找真相，拜访了季扬的叔父，逐步揭开了一系列关于季扬和自己过去的蛛丝马迹。季扬因心理创伤发展出精神病，自认为未曾死去，而李洁的回忆也因为失忆症而变得模糊。她的内心挣扎与对自己和季扬过去的探寻交织在一起，情节中不断呈现出文化对于性别的期待以及个体对于自我的认同与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_主妇的秘密（3）.docx]([变性]_主妇的秘密（3�
 | Size            | 19511 bytes                           |
 | MD5             | 7f449ee0231caf0e2bca9f4c26282170                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 失忆症, 自我探索, 跨性别, 精神病, 情感心理, 社会角色, 家庭关系, 文化冲突, 二次元, 变性手术, 男女身份, 乡村生活, 情感纠葛, 草根阶层, 女性视角, 爱情与痛苦, 现代生活, 寻根之旅                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

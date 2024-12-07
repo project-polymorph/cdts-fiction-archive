@@ -7,7 +7,7 @@ TXT 下载: [[变身]_好朋友得到现实改变软件(后篇).docx]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的一部分，讲述了主人公佐藤裕也和他的好友山崎大辅之间的故事。大辅拥有一个名为‘现实改变软件’的应用程序，可以随意修改身边人的身体特征、性别及其常识。故事开始于一次课堂上，裕也注意到大辅正在暗中操作这个软件，改变班上同学的外貌与性别。随着剧情的推进，裕也意识到自己也被大辅的不当行为所影响，变成了‘巨乳美少女的身体’，虽然内心仍然感到自己是个男人。内容中涉及对性别角色的探索与自我认知的挣扎，并带有一定的色情描写。通过对清水君这一角色的变更，展现了软件的强大和现实的荒谬。整个故事充满了悬疑和调侃，作者通过这些变身与改善的细节，探讨了身份认同与性别流动等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_好朋友得到现实改变软件(后篇).docx]([变身]_�
 | Size            | 567074 bytes                           |
 | MD5             | e57e608c094eeeffe7dfc3efbc529ee1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 色情, 现实改变软件, 巨乳美少女, 魅魔, 自我探索, 性别认同, 校园小说, 奇幻, 二次元, 恶搞                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

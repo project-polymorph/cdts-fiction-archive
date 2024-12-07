@@ -7,7 +7,7 @@ TXT 下载: [[变身]_系上缎带~成为变不回去的啦啦队女孩.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一位高中男生双羽智明在一次期末考试输给他的儿时玩伴清濑若菜后，被迫加入啦啦队的故事。故事发生在梅雨季节刚刚结束的7月中旬，智明对于加入啦啦队感到困惑，但为了履行赌约，他最终同意了。随着故事的发展，智明在啦啦队的生活中发现了新的体验与自我认知，不仅结识了许多可爱的队员，还深切感受到被众星捧月的感觉。随着暑假的到来，意外的事情发生了，他被要求上场替代脚受伤的学姐，这使他不得不穿上女装，接受成为啦啦队员的一部分。整个文件中围绕着性别认同和自我探索的主题，以及面对传统性别角色的挑战与冲突。从智明的语境中可以看到，他对自己性别的认同与周围人期待之间的拉扯，以及逐步接受自己处境的心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_系上缎带~成为变不回去的啦啦队女孩.docx]([�
 | Size            | 23844 bytes                           |
 | MD5             | d2d5b37f484673287150b40f199d6f16                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | K C A                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 啦啦队, 青春校园, 自我探索, 逆后宫, 男生变装, 女装, 友谊, 暑假                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_杀手四人组，卷一（叁）.docx]([皮物]_杀手四
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说《杀手四人组，卷一（叁）》。故事围绕着一场错综复杂的身份置换与性别转变展开，主要角色苏芬与刘小丽の身份在不同的情境中相互纠缠。苏芬在一场悲剧中被日本女杀手木上樱花所取代，回国后再度进入她原本的生活，令家人和好友陷入困惑。文件中描写了复杂的情感关系与身体的变化，尤其是对性别认同与自我探索的深刻描绘。
+
+在小说的情节中，苏芬既要面对她被剥夺了的身份，又要处理与家人、朋友之间错综复杂的感情。当她发现刘小丽似乎是个“狐狸精”后，她的内心充满了愤怒与困惑，质疑父亲对她的认知与态度。同时，故事中的“禁忌”力量也代表了对深层自我认知和性别认同的挑战。这部小说以细腻的心理描写和跌宕起伏的情节，探讨了身份认同、性别转换、家庭关系等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_杀手四人组，卷一（叁）.docx]([皮物]_杀手四
 | Size            | 25067 bytes                           |
 | MD5             | fe7aa5932e2a5a3ad42c2f89df2c225c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 涉及性别转换, 身份置换, 跨性别主题, 女性角色, 日本杀手, 情感纠葛, 性别认同, 自我探索, 复杂关系, 禁忌力量, 伪娘, 变装, 反转剧情, 权力斗争, 命运交错, 奇幻元素, 现代都市, 情感纠纷, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

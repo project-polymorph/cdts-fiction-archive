@@ -7,7 +7,7 @@ TXT 下载: [[变身]_被丝袜变成女身7.docx]([变身]_被丝袜变成女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于伪娘/男娘相关的变身小说，主要描绘了一位名叫宵锦的角色在李方的家中穿着李方的男生T恤，展现出性别角色的混淆与心理变化。在故事中，宵锦一方面感受到穿着男生衣物后的奇妙体验，另一方面则被李方的香气和衣物的贴身感刺激，逐渐产生了强烈的身体欲望与情感冲动。内容涉及对角色身体变化的细腻描写，例如：“身上白色T恤被汗水浸透，显得格外紧身，隐隐约约露出内衣花纹。”在性欲的驱动下，宵锦开始进行私密行为，但又因为李方的靠近而紧张。这种角色的自我探索与性别认同的复杂体验为故事增添了层次，表达了对性别流动和身份认同的探讨。整体文本富有情感张力与性暗示，反映出角色之间肉体与心理的交织关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_被丝袜变成女身7.docx]([变身]_被丝袜变成女�
 | Size            | 33191 bytes                           |
 | MD5             | c36d5b8125f2720267c03b2bc7e87b14                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性别认同, 性转, 自我探索, 婷婷娇羞, 香水气味, 情感冲突, 身体欲望, 内衣, 窥探癖, 情欲, 姐姐, 梦境与现实, 潮湿感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

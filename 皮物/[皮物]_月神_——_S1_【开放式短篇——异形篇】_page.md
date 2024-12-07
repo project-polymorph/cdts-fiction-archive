@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_月神_——_S1_【开放式短篇——异形篇】.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件展示了一段关于异形与人类角色的互动故事，引发了关于自我认同与身体变迁的主题探讨。故事开头提到角色婷萱与另一角色菲娅之间的关系，婷萱正准备给菲娅一个以其为原型制作的异形皮套，并表现出对这一想象的期待与好奇。随着情节的发展，婷萱将自己包裹在一个诡异的皮物中，变身为异形少女，伴随着奇异的自我探索与身体认同的冲突。故事不仅涉及了对异形的可怕描绘，同时也涉及了身体与性别认同的复杂关系。最后，角色婷萱将异形皮套脱下，似乎是为了展示另一个层面的身份。这种作品常用于探索性别流动性、变迁与身体的交互。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_月神_——_S1_【开放式短篇——异形篇】.docx
 | Size            | 15550 bytes                           |
 | MD5             | b596fd0ffe2a5cd4ea33ac222c0fff7b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异形, 身体变迁, 自我认同, 性转, 奇幻, 角色扮演, 奇异皮物, 少女, 想象力, 探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

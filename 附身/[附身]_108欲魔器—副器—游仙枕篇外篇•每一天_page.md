@@ -7,7 +7,7 @@ TXT 下载: [[附身]_108欲魔器—副器—游仙枕篇外篇•每一天.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《游仙枕篇外篇•每一天》的小说描绘了一个跨性别主题的故事，主角是一个男孩，他在与朋友的互动中逐渐意识到自己对性别及自我认同的探求。故事从两位小男孩的友谊开始，随着时间的推移，他们的关系也在悄然改变。男孩从小开始表现出对女性角色的喜爱，渴望成为那个他心目中的淑女。随着年龄的增长，他不断尝试模仿女孩子的举止，并在朋友的支持下逐渐接近他的目标。最终，通过一种神奇的道具，他成功地实现了自身性别的改变，这不仅改变了他的外貌，也改变了他的生活。小说探讨了性别认同、自我探索与个人梦想等主题，呈现了一个关于成长、友谊与爱的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_108欲魔器—副器—游仙枕篇外篇•每一天.doc
 | Size            | 29696 bytes                           |
 | MD5             | 346c58190f441ae1805ad21b3c760b81                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 苍茫                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 友情, 自我认同, 性别探索, 成长, 梦想实现, 舞蹈, 文学, 二次元, 幻想, 个人转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

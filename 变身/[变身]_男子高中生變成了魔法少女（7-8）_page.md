@@ -7,7 +7,7 @@ TXT 下载: [[变身]_男子高中生變成了魔法少女（7-8）.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇有关变身与魔法少女主题的小说片段，主要讲述了一个男子高中生变身为魔法少女的过程。在这一段落中，主角因魔力的强大而面临身体的转变，内心充满对自身新形象的不安与抗拒。故事中涉及到的魔力的获取与使用，详细描写了主角与一位学长之间的互动，探讨了魔法力量的控制与身体转换的理念。文中提到的关键情节包括：角色如何获取魔法力量、如何进行魔法少女的变身，以及通过减少输入的魔法量来控制变身的完整性等。在此过程中，主角对于自己身体变化的接受与挑战，以及与学长之间紧张又关怀的关系成为了故事的一个重要主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_男子高中生變成了魔法少女（7-8）.doc]([变身
 | Size            | 52736 bytes                           |
 | MD5             | b4f88ec118b2cd7a7135da3dbe501b57                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法少女, 性别转换, 魔力, 男子高中生, 自我认知, 友谊, 青春, 魔法, 奇幻, 校园, 魔法少女体, 身体变化, 角色认同, 变装, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

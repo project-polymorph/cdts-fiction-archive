@@ -7,7 +7,7 @@ TXT 下载: [[变性]英伦玫瑰（1-2）.doc]([变性]英伦玫瑰（1-2）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《英伦玫瑰》的第一和第二节，讲述了主人公拉尔夫在美国拉斯韦加斯的奇遇。故事开始于1999年独立日，拉尔夫在街上遭遇抢劫，受了伤且失去了护照与资金。在被一个名叫杰克的中年男子救助后，他被带回杰克的豪华别墅接受治疗。杰克为拉尔夫提供了帮助，包括提供新衣服和护照，这是拉尔夫实现美国梦的机会。然而，在接受帮助的过程中，拉尔夫对杰克的动机感到困惑和警惕。随着情节的发展，拉尔夫逐渐意识到他与杰克之间可能的不寻常关系，并在内心掂量如何面对自己的性别认同问题。此小说探讨了性别身份、自我认知、以及在异国他乡的孤立感等主题，情节设置在一个充满诱惑和危险的环境中。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]英伦玫瑰（1-2）.doc]([变性]英伦玫瑰（1-2）.do
 | Size            | 41984 bytes                           |
 | MD5             | eb672c1f0120a675ca883c47bd82717f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 1999-07-04                                 |
+| Tags            | 变性, 自我探索, 性别认同, 异国情节, 跨性别, 拯救与依赖, 拉斯韦加斯, 伤痛与治愈, 隐秘动机, 社会边缘人, 豪华生活, 心理挣扎, 性别模糊, 年上攻, 情感纠葛, 友谊与信任                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

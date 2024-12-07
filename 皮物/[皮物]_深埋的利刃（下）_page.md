@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_深埋的利刃（下）.docx]([皮物]_深埋的利刃（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部与伪娘、跨性别相关的小说，讲述了方天和魏东等人的故事，背景设定在一个警察局的日常生活中。但在日常背后却隐藏着不为人知的势力与阴谋。故事围绕着几位角色的关系展开，特别是在医院中对杨曦受伤的关心，以及对神秘势力的探讨。通过魏东的聚会，读者得以揭开角色间复杂的情感和潜在的矛盾。
+
+故事的开头讲述了方天和魏东陪着受伤的战友去了医院，随后对杨曦的关心显示出他们之间的情感联系。随着情节的发展，方天逐渐感受到周围事物的异样，特别是关于杨曦健康状况的可疑之处，结合林茜媛的角色，充满紧张感的氛围在聚会中加剧。此外，小说也提到了一些感情线索，方天与林茜媛之间的互动暗示了一种复杂关系。本故事贯穿悬疑与情感，为读者提供了跨性别主题的独特视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_深埋的利刃（下）.docx]([皮物]_深埋的利刃（
 | Size            | 41016 bytes                           |
 | MD5             | 8d4a14f44383d44efde7943d9303edf0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 医院, 悬疑, 情感, 复杂关系, 黑暗势力, 警察局, 庆功宴, 角色互动, 自我探索, 心灵冲突, 身份认同, 探索性别角色, 都市, 心理, 阴谋, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

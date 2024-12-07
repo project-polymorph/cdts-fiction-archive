@@ -7,7 +7,7 @@ TXT 下载: [[其他]_神选者——4_[.docx]([其他]_神选者——4_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容描写了一个涉及角色共享意识和身心经历的复杂故事，主角程慎通过操控他人身体来体验不同的感知。他与名为凌美茹的人物共享身体，经历了身份认同和感官共享的奇妙体验。在一场晚餐中，程慎感知到凌美茹与其他人的互动，以及他自己在另一个身体上的活动。同时，故事深入探讨了角色在面对危险时的紧张瞬间，以及身份转换带来的心理冲突。尤其在末尾，程慎发现通过干预自己与凌美茹的分享意识，他能在睡梦中重新激活对另一个身体的控制，展现了强大的操控能力。整个叙述流畅，将幻想与现实交织，是一部充满悬疑与探索的跨性别主题小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_神选者——4_[.docx]([其他]_神选者——4_[.docx)
 | Size            | 18894 bytes                           |
 | MD5             | 0d1a0f31c70fccaf4cd3af480e955d8e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 共享意识, 身份认同, 奇幻, 心理冲突, 灵魂交换, 跨性别, 女性角色, 感官体验, 晚餐与互动, 魔法, 奇幻故事, 危险与逃生, 身体控制, 自我探索, 都市奇幻, 女主角塑造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

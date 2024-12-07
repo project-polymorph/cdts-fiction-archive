@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_24.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《把男朋友养成亲闺女》的小说文件，作者为Nicegent42，翻译为Lisa，添加日期为2021年3月22日。内容主要描述角色贝丽在假扮闺女的过程中与母亲曼迪的互动，以及她如何应对自身性别身份的困惑与变换。故事详细描绘了贝丽试图表现得像一个好女儿的过程中，怎样调整自己的妆容与服饰，心中对自我身份的反思，及与曼迪的亲密关系。贝丽经历了一系列的妆容准备和家务安排，同时也面临着心理上的冲突与自我认同的挑战。此外，故事中穿插了贝丽与警官的互动，使得情节更加复杂，警官对贝丽的怀疑加深了贝丽内心的焦虑与恐惧。文中不仅涉及角色扮演的细节，也不乏对性别认同、性别角色的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_24.doc]([改造]_把男朋友�
 | Size            | 39424 bytes                           |
 | MD5             | c589d8da74bc1c66c8a9deb15e8470ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2021-03-22                                 |
+| Tags            | 伪娘, 性别认同, 变身, 青春期困扰, 母女关系, 警察描写, 恋爱, 家庭生活, 自我探索, 高跟鞋, 角色扮演, 性转, 性别角色, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

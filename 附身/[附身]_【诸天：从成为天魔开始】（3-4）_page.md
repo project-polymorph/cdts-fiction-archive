@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【诸天：从成为天魔开始】（3-4）.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《诸天：从成为天魔开始》中的第3章主要描写了主角王胜与戴无忌之间复杂的情感和性别角色交换。在这一章节中，王胜施展了名为【斡旋造化】的技能，使粉色的光球转化为催情雾气，导致戴无忌和王胜陷入欲望的漩涡中。情节生动地刻画了戴无忌在被催情后从理智到疯狂的变化，他试图反抗及逃离王胜的追捕，但最终未能逃脱，反而在欲望的驱使下与王胜展开了一场激烈而又混乱的性爱场景。内容中描写了两个人物在情欲中忘却所有的恩怨与隔阂，最终迷失在了肉体的欢愉中。该章节涉及的主题包括性别认同、自我探索、欲望等，并包含大量色情内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【诸天：从成为天魔开始】（3-4）.doc]([附身
 | Size            | 42496 bytes                           |
 | MD5             | f20e73b7214cfb6fc6f45b9923b78ed8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 催情, 自我认知, 混乱的情欲, 禁忌的爱, 二次元小说, 伪娘角色, 强烈的身体欲望, 幻想与现实的交融, 情欲战争, 都市奇幻, 变身情节, 情感探索, 角色互动, 中度成人内容, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

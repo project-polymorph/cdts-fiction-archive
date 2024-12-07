@@ -7,7 +7,7 @@ TXT 下载: [[变性]_神奇的连裤袜.doc]([变性]_神奇的连裤袜.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一个名为克里斯的24岁男性，在经历了一段焦躁不安的生活后，捡到了一条神奇的连裤袜，随之引发了一系列关于性别认同和身体变化的故事。在办公室里，克里斯本来是一位普通的上班族，却因为这条连裤袜而开始怀疑自己的性别认同。他对穿着连裤袜的感受产生了兴趣，并在一次次的内心挣扎中，逐渐接受了自己想要尝试和体验的女性化身份。故事里包含了他与连裤袜之间的对话，连裤袜的拟人化使得克里斯的心灵冲突更为生动。本章节通过详细的内心独白和情感描写，剖析了他如何在面临自我认同和社会期待之间进行选择和抗争。这段描述充满了对变身和性别流动的探讨，是一部典型的性转小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_神奇的连裤袜.doc]([变性]_神奇的连裤袜.doc)
 | Size            | 105984 bytes                           |
 | MD5             | ed93751ca1c4228285077464dff678f0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 自我探索, 内心挣扎, 女性身份, 连裤袜, 魔法元素, 性别认同, 奇幻体验, 情感冲突, 都市生活, 心理变化, 青春期, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

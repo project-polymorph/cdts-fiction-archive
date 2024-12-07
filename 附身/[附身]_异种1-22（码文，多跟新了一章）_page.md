@@ -7,7 +7,7 @@ TXT 下载: [[附身]_异种1-22（码文，多跟新了一章）.docx]([附身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及伪娘、变身及跨性别主题的小说摘录，故事发生在一个名为林荫市的地方，主要描绘了一名乞丐李三的悲惨经历与转变。在繁华的花街上，李三每天以乞讨为生，但却遭遇了中年男子的暴力对待，最终在遭受重伤后不知所终。文件记录了李三被黑西服男子绑架，并在实验室中接受神秘实验的过程。在实验中，他的身体经历了极端的改造，从人类形态逐渐变为液体形态，这一过程伴随着他对生命的苦闷和对复仇的渴望。小说在细节上描绘了实验的恐怖与不安，同时也反映出对人性与自我认知的深刻思考。该文本内容可能涉及扭曲身体、性别转换等情节以及与性相关的暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_异种1-22（码文，多跟新了一章）.docx]([附身]
 | Size            | 147214 bytes                           |
 | MD5             | b2661f8963f981749056f89f0d4645f5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 实验, 自我认知, 暴力, 乞丐, 液体形态, 鸠占鹊巢, 人格冲突, 科幻, 黑暗幻想, 人性, 生命, 报复, 惊悚, 恐怖, 生存, 性别探索, 社会底层                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第二十回.doc](《金枝奇缘》第二十回.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别主题的小说《金枝奇缘》第二十回，主要描述了角色之间在面对魔血丹和迷乱咒时的复杂情感与心理冲突。在这一回中，秦灵儿与秦疏影面对魔血丹的情况展开了一系列对话，探讨了魔血丹的起源及其在角色性别转换及自我认知过程中的重要性。秦疏影凭借魔血丹的力量，帮助了一具快要失去生机的身体重新复苏，涉及了生死、气血与灵魂操控等深刻主题。此外，故事中融入了师徒之间的情感，以及对自我认知与性别认同的探讨，展现了复杂的人性与生存的挣扎。该文件描绘了较为细腻的情感，常伴随古风元素，适合研究跨性别及变性题材的文学作品研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第二十回.doc](《金枝奇缘》第二十回.
 | Size            | 38912 bytes                           |
 | MD5             | c381486bcb7ffdd6da29aae9dc530771                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 魔血丹, 性别转换, 跨性别, 自我认知, 迷乱咒, 修炼, 生与死, 情感纠葛, 灵魂控制, 古代奇幻, 魔法世界, 药物, 二次元, 角色扮演, 变身小说, 宫斗, 魔法少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

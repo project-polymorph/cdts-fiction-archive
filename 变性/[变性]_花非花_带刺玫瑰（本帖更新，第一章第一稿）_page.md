@@ -7,7 +7,7 @@ TXT 下载: [[变性]_花非花_带刺玫瑰（本帖更新，第一章第一稿
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位名叫李琦的男性角色，他在接到东安刑警支队的电话后，得知多年未联系的朋友王伟楠发生了一些离奇的事件，王伟楠在夜总会被警方解救出。在警局，李琦见到了变性后的王伟楠，现以女性身份出现，并被称为“小楠”。文中通过对话和心理独白，描绘了李琦对于好友变性后的复杂情感，包括惊讶、回忆和即将面对的情感冲突。文件深入探讨了性别认同和好友之间的关系，以及由于性别转换带来的情感和社会适应的难题。文本中包含了对角色形象的细致描写和暗示性的情节发展，且涉及了一些成人话题和冲突情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_花非花_带刺玫瑰（本帖更新，第一章第一稿
 | Size            | 34816 bytes                           |
 | MD5             | 3f7169b8ac16f27160ae82f401ac4f8a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变性, 性别认同, 友谊, 成人情节, 男性视角, 推理, 夜总会, 警察局, 心理斗争, 自我探索, 情感冲突, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

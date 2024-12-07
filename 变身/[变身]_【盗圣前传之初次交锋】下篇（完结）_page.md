@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【盗圣前传之初次交锋】下篇（完结）.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《盗圣前传之初次交锋》下篇（完结），主要讲述了两位角色小青与小白之间的情感纠葛与战斗经历。故事设定在三月的游人众多的场景中，展现了小青与小白在面对外界干扰，尤其是赵无忌的追求与威胁时，彼此之间的情感支持与武力相助。小青不仅是小白的心上人，更是她的保护者。在与赵无忌及其随从的冲突中，小青优雅地展示了她的武术才能，同时亦流露出对小白的深情厚谊。随着情节的发展，她们的关系愈加紧密，与外界的挑战相映成趣；在故事的尾声，两位角色的稳固情感和对未来的期待自然流露。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【盗圣前传之初次交锋】下篇（完结）.docx](
 | Size            | 32529 bytes                           |
 | MD5             | f4c95e86bae2de21f007fde0d5227fcf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 伪娘, 强奸, 情敌, 纯爱, 乱斗, 古代武侠, 女双, 女同性恋, 情感支持, 武力争斗, 豪门冲突, 自我认同, 婚姻期待, 美少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

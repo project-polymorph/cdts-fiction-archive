@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_藥水(下)偽接續_不知不又到中秋,奇怪今年收
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身与跨性别相关的小说，内容描绘了主角在平凡的一天中，由于不满自己的生活，意外开启了一段奇妙的旅程。故事从主角发现自己肚子饿开始，描述了他去网吧的过程。在网吧中，主角通过 QQ 连线与日文老师互动，这种互动逐步演变成一场充满性暗示和幻想的情节。主角通过观看老师的美腿及相关动作，感受到一种强烈的性吸引和冲动。故事最后，主角发现老师在自己的寝室里，这暗示了他们之间的关系可能进一步发展。文本整体融合了性别转换、自我认知和性别认同的主题，突破了常规的界限，包含了一些脆弱且敏感的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_藥水(下)偽接續_不知不又到中秋,奇怪今年收
 | Size            | 26963 bytes                           |
 | MD5             | c6236ffeaf567a25589b976801711fdb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2010-09-21                                 |
+| Tags            | 性转, 伪娘, 变身, 黑丝美腿, QQ互动, 幻想, 日文老师, 足交, 校园, 性别认同, 自我探索, 跨性别, 互动情节, 网络文化, 偷窥, 性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

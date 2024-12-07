@@ -7,7 +7,7 @@ TXT 下载: [[变身]_代发【十丈红尘】不科学的健身房（申码文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转变和身份探索的小说，讲述了主人公王猛在一家特殊健身房面试成为健身教练后，经历了性别转换的奇幻故事。故事开始于王猛的面试，他作为一个普通男性，通过签署一份看似普通的劳动合同而进入了一个不寻常的健身房。然而，签名的瞬间发生了奇妙的变化，王猛的身体开始变化，最终由一个成人男性转变为一个七岁的小男孩，随后又经历了一系列身体的数据重塑，最后变成成年女性。这种转变不仅仅是身体上的改变，还伴随着身份认同和自我探索的挑战。王猛在这个过程中面对自己新身份的困惑以及如何适应自己被迫改变的现实，包括对自己原本男性身份的怀疑与重塑。整个故事结合了魔法与奇幻元素，描绘了角色在性别转换后所产生的心理冲突和成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_代发【十丈红尘】不科学的健身房（申码文�
 | Size            | 106496 bytes                           |
 | MD5             | 692584ba4558cdbade50e94c273b7d87                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 女性视角, 身份认同, 奇幻, 魔法, 自我探索, 角色换位, 青春成长, 幻想文学, 性别角色, 健身房, 员工卡, 奇妙合同, 身体重塑, 魔法阵                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

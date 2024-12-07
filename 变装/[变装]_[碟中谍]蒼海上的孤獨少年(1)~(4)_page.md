@@ -7,7 +7,7 @@ TXT 下载: [[变装]_[碟中谍]蒼海上的孤獨少年(1)~(4).doc]([变装]_[
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是基于轻小说《苍海的少女们》创作的同人小说，围绕着名为那迦的少年在一艘被214名少女组成的军舰上的经历展开。故事设定在一个虚构的海洋世界，描绘了那迦作为间谍渗透敌国的情节。他在面临214名裸女的情况下，内心充满挣扎与困惑，因为他不仅要保持其男生身份，还必须伪装成女性。文中通过那迦和其他角色之间的对话和互动，展现了他对性别身份的探索与冲突，以及对“女装”的羞愧和困惑。这一切揭示了与身份、性别认同、和自我价值等主题相关的复杂关系，是一部充满想象力和情感张力的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_[碟中谍]蒼海上的孤獨少年(1)~(4).doc]([变装]_[
 | Size            | 57344 bytes                           |
 | MD5             | 00a793478628082376cee74d2397d2c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 间谍, 军舰, 少女, 同人小说, 自我探索, 女装, 性别认同, 海洋世界, 强烈的性别对比, 友情, 成长, 异世界, 紧张关系, 青春期的迷茫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

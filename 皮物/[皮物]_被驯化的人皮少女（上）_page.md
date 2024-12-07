@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_被驯化的人皮少女（上）.doc]([皮物]_被驯化�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个伪娘和变身相关的小说，围绕一名十五岁少女程璧君的故事展开。故事开始于一个偏僻小巷中，程璧君被一名中年男子截住，并在男子的袭击下失去意识。当她醒来后，发现自己身处一个充满女性衣物与恐怖气息的环境中，男子已经对她进行了一种奇怪而恐怖的控制。在接下来的情节中，程璧君的身体与男子的身体发生了令人毛骨悚然的融合，导致她的意识被困住，无法控制自己的身体。这部小说包含大量性别转换与性别认同的主题，展现了对自我与身体的挣扎与扭曲，同时描绘了令人不安的性暗示与变身情节。随着程璧君的身体逐渐被外界欲望吞噬，她的内心逐渐被混乱的欲望所占据，形成了一个极具争议和限制级特质的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_被驯化的人皮少女（上）.doc]([皮物]_被驯化�
 | Size            | 33280 bytes                           |
 | MD5             | 5c25cc8daa93da9f2baea1feef44af70                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身, 跨性别, 强奸, 精神控制, 自我认同, 年龄差, 脑袋互换, 变态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

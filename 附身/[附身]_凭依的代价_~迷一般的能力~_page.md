@@ -7,7 +7,7 @@ TXT 下载: [[附身]_凭依的代价_~迷一般的能力~.doc]([附身]_凭依�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一个名叫井岛一平的男子，他过着墨守成规的日子，每天在便利店打工，生活单调乏味，几乎没有乐趣和朋友。故事开始时描述了他在超市购买便当和酒，然后回到三十多年前的老公寓，通过他的日常活动展示了他对生活的无趣与疲惫。井岛一平在一次回家的路上，遇到了神秘的美少女，她提出一个让人困惑的能力——‘附身于他人的能力’。对这样的提议，井岛一平起初表示懷疑并试图无视，但在与美少女的交流中，他逐渐思考自己的生活缺乏色彩，是否真的有可能通过附身改变人生。整篇故事围绕个人自我认知的冲突，性别认同、孤独与自我探索等主题展开，构建出一种迷惘而又渴望改变的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_凭依的代价_~迷一般的能力~.doc]([附身]_凭依�
 | Size            | 42496 bytes                           |
 | MD5             | 865a8d9cb0f2820d1d34ee41985e1248                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 自我认知, 孤独, 日常生活, 迷茫, 女性角色, 生活压力, 改变, 超自然能力, 反思人生, 情感探索, 奇幻, 神秘少女, 能力交易, 性别探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_66.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段跨性别题材小说的第六十六章，主要围绕角色贝丽的内心挣扎与自我认知展开。故事开场时，贝丽在梅根家中醒来，意识到自己身着儿童服装，这让她感到羞耻与困惑。她努力回忆起自己如何上床睡觉，并发现周围环境中有两个穿制服的警官，心中充满恐惧。贝丽的身份受到质疑，她必须在两名警官和她的阿姨梅根之间周旋，企图保护自己的真实身份与隐私。梅根的控制与处罚让贝丽感到无助，她被迫接受惩罚，并承担伪装乖乖女的角色。文件体现了性别认同、自我探索、羞耻感等复杂主题，情节中夹杂着权威与违抗的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_66.doc]([改造]_把男朋友�
 | Format          | Microsoft Word Document                               |
 | Size            | 40448 bytes                           |
 | MD5             | 2bdcb909767c9d8232d3604f3115d197                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身小说, 心理挣扎, 自我认同, 羞耻感, 权威与反抗, 成年与未成年人, 性别角色, 情感操控, 社交困境, 二次元文化, 荒唐剧情, 少女成长, 复杂人际关系, 警察与未成年人, 虐待与惩罚, 心理成长之路, 奇幻幻想, 爱情与困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

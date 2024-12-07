@@ -7,7 +7,7 @@ TXT 下载: [[附身]_附体聊天室.doc]([附身]_附体聊天室.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于附身药的小说，故事设定在一个虚构的校园场景中。主角大辅与裕太一起使用一种名为“附身药”的药物，意外地进行灵魂出窍并试图附身在女同学绫子身上。故事通过角色之间的对话展开，描绘了一系列涉及性别转换、性关系和个人探索的情节。在故事中，大辅兴奋地探索附身后的感受，惊叹于自己化身为绫子的身体并经历与其生活的心理冲突和兴奋。文中使用了大量描述细腻的情感和情节安排，表现了性别认同的复杂性。该文档同时涉及一些限制级内容，包括性关系及性别认同的主题，适合二次元和跨性别文化的研究者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_附体聊天室.doc]([附身]_附体聊天室.doc)
 | Size            | 58880 bytes                           |
 | MD5             | 5bc09475869a24431d2f46343d1839c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附体, 灵魂出窍, 性别转换, 校园小说, 伪娘, 二次元, 附身药, 自我认同, 探索, 幻想, 青少年, 青春期, 心灵探索, 虚构, 性体验, 成长, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

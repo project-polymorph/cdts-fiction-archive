@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_杀手信仰前传：血月.doc]([皮物]_杀手信仰前�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部分大型跨性别与变身相关的小说，围绕主人公云腾敬田中尉在南极的秘密地下基地展开。故事设定在1995年，当时正值日本经济泡沫崩溃的时期。云腾敬田进入一个由日本政府资助的地下实验室，发现这里进行着非人道的实验，培育瘦弱的孩子，使其具备强大的战斗力，并通过特殊的药物和技术达到伪装成女性的效果。小说描绘了云腾敬田对地下工厂的震惊，以及对其中孩子们命运的深切思考。文中涉及了角色的性别变换、对身体的改造，以及对人性和道德的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_杀手信仰前传：血月.doc]([皮物]_杀手信仰前�
 | Size            | 52736 bytes                           |
 | MD5             | e9a3201165080aa86f0ead9cba8f6722                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 地下实验, 经济危机, 自我认同, 伪娘, 生物改造, 伦理争议, 南极科考站, 权力与剥削, 儿童实验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

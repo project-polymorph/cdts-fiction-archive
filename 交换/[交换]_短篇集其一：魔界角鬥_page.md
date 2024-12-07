@@ -7,7 +7,7 @@ TXT 下载: [[交换]_短篇集其一：魔界角鬥.docx]([交换]_短篇集其
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+在这篇名为《魔界角鬥》的短篇小说中，主角狂王布隆以其奇特的交战风格成为暗黑界的焦点。他总是在每场战斗开始前撕掉自己的衣服，以此来感受战斗的急迫感。故事围绕着一场死亡角斗的比赛展开，布隆的对手是聪明的术士丝诺。为了避免伤到彼此，他们达成了一项特殊的约定——在比赛中不允许用手触碰对方。最终，经过一番较量，二人通过魔法交换了身体，然而，布隆意外地撕掉了丝诺的衣服，使得丝诺在战斗中失去了施法的机会。故事以意料之外的方式结束，布隆得意洋洋地宣布博得胜利，并开玩笑地询问周围的战友是否想要“享用”丝诺的身体。整篇小说充满了对性别角色及身体特征的俏皮探讨，暗黑界的设定与角色间的互动增添了情节的趣味性和挑战性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_短篇集其一：魔界角鬥.docx]([交换]_短篇集其
 | Size            | 17222 bytes                           |
 | MD5             | efe3ba9024cfee2f0c64d5c50fe8a9c7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔界, 角斗, 性别交换, 暗黑界, 狂王布隆, 术士丝诺, 身体交换, 竞技, 搞笑, 性别认同, 奇幻, 动画风格, 虚拟战斗, 冒险, 诙谐, 身心冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

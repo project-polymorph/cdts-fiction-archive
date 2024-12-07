@@ -7,7 +7,7 @@ TXT 下载: [[附身]_タイツ狂い(裤袜狂）1-2.doc]([附身]_タイツ狂
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《裤袜狂》是由无名创作的一部涉及待审内容的小说，全篇围绕主角对连裤袜的变态癖好展开。故事的主人公是学校里的优等生，外表光鲜，但暗地里却对女性的连裤袜有着病态的迷恋。文章开头介绍了主角的内心挣扎，他努力维持着自己的正常生活，与温柔可爱的女友笹原凉香的平淡关系，同时又无法抑制自己对连裤袜的强烈欲望。在一次机会中，主角使用了一种名为“附身药”的药物，试图以此达到更深层次的欲望满足。随着故事的发展，主角和女友的关系经历了极端的变化，最终他成功地夺取了凉香的身体，文中充满了禁忌、变态与狂热的元素，以及对性别与身份认同的探索。文件特有的高H度情节，可能不适合所有读者，包含了一系列关于欲望与身体的描绘，适合进行性别研究和心理分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_タイツ狂い(裤袜狂）1-2.doc]([附身]_タイツ狂
 | Size            | 47104 bytes                           |
 | MD5             | f387de0280af2412011a5e8599332ff4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 无名                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 附身药, 变态癖好, 内心挣扎, 性别认同, 欲望冲突, 兄妹情, 校园生活, 强烈的性癖, 女性视角, 禁忌爱情, 身体占有, 自我认知, 偷窥癖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

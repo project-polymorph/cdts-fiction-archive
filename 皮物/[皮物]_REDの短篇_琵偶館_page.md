@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_REDの短篇_琵偶館.doc]([皮物]_REDの短篇_琵偶�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇故事以一个夏日的高中为背景，讲述了一位女高中生雅美的经历。故事开始于雅美与好友春奈的互动，春奈邀请雅美去她的朋友店里打工，初出的场景充满阳光与青春气息。店铺名为‘琵偶館’，是一个玩具店，雅美在与店长英理的交谈中得知，店员需要特别的全身移动装置来工作。接着，雅美发现春奈的神秘一面，春奈在更衣间中换装成另一种形象，展示了店铺运用的可变身份特性。故事深入探讨全身型套装的制作过程和雅美的心理变化，从开始的惊讶到后来的好奇和尝试，展现了个人身份和外在形象的关系。故事的最后，雅美决定尝试，给人一种探索与自我认知的感觉。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_REDの短篇_琵偶館.doc]([皮物]_REDの短篇_琵偶�
 | Size            | 96256 bytes                           |
 | MD5             | 324b683773045fde68605764be598a35                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 皮物, 高中, 伪娘, 变装, 玩具店, 青春, 自我认知, 角色转换, 性别认同, 魔法元素, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

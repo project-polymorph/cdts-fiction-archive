@@ -7,7 +7,7 @@ TXT 下载: [[附身]_短篇《刘佳怡很漂亮》上、中、下，完结.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为短篇小说《刘佳怡很漂亮》的上、中、下部分，讲述了刘佳怡与她哥哥刘佳辉之间复杂而微妙的关系。刘佳怡是一位年仅十八岁的女孩，因其出众的外貌和即将与男友约会而感到兴奋，但她和哥哥的关系却因家庭变故而变得紧张。她的父母在三年前的车祸中双亡，哥哥成为她的监护人。故事中，刘佳辉对妹妹的关心和保护显而易见，但这份保护也带有控制的意味。在故事后半部分，刘佳辉通过咒语与诡异的佛像进行了一场灵魂转移的仪式，刘佳怡的灵魂被转移到她哥哥的身体里，令人不安的情节进一步发展，突显出性别身份与家庭关系的扭曲。文件内容涉及灵魂转移、复杂家庭关系以及性别认同等主题，情节发展充满了悬疑与惊悚的色彩，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_短篇《刘佳怡很漂亮》上、中、下，完结.doc
 | Size            | 65536 bytes                           |
 | MD5             | 73eea985b5bd3caad9c47ec43c06f431                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 短篇小说, 性别认同, 灵魂转移, 家庭关系, 青春, 爱情, 悬疑, 变身, 伪娘, 哥妹关系, 奇幻, 心理冲突, 二次元, 伦理, 跨性别, 都市奇幻, 魔法, 青春成长, 复杂情感, 心理阴影, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

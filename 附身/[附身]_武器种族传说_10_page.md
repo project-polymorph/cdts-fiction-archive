@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_10.docx]([附身]_武器种族传说_10
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容涉及到一场竞技比赛的团队战，角色之间的互动充满了轻松的对话与幽默感。主角在比赛前与队友凌韵儿进行沟通，调整战术，并展现出一些轻松的调侃。文中反复提及背景的对抗以及角色之间的亲密关系，凌韵儿作为主角的侍女，二人之间有一定的情感暗示。在比赛中，主角通过契约的方式与凌韵儿合作，表现出强大的战斗能力，并利用火焰进行攻击，场面激烈而充满戏剧性，赛场内的欢呼声与角色的心理状态形成鲜明对比。最后，主角利用变身能力与另一个女性角色展开意想不到的互动，涉及一些性暗示的情节，强调了故事的变身和跨性别主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_10.docx]([附身]_武器种族传说_10
 | Size            | 38074 bytes                           |
 | MD5             | c0d9bb7f724ec32e4e499ebbef0cf97e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 竞技, 团队战斗, 火焰, 轻小说, 二次元, 幽默对话, 情感互动, 女性角色, 契约, 主角与侍女关系, 竞技场                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_转换心情的短篇《骗人是小狗》完结.doc]([改
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《骗人是小狗》，是一篇跨性别与变身小说，讲述了王维与妻子丽丽之间复杂而又富有幻想的故事。故事以王维的生活为起点，他正在与好友一起进行网吧游戏，因而对妻子编造谎言。故事迅速转向一种实验情节，丽丽使用了一种神秘的装置，将王维的身体转换为女性化的形态，并伴随着强烈的身心冲击和身份认同的危机。王维变成了一只乳胶母狗，经历了一系列奇怪而又刺激的性体验。文本详细描写了王维在变身后的挣扎、适应以及与丽丽之间的情感互动，涉及了权力、角色扮演和性别认同等主题。小说中还包含许多露骨的内容与情节，以及人物间的性行为描写，探讨了欲望与身体的界限。最终，两位主角都变为狗，展现了身份的彻底转变和对自我认知的模糊。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_转换心情的短篇《骗人是小狗》完结.doc]([改
 | Size            | 36352 bytes                           |
 | MD5             | 04b8508fd9e61f9287370ac3251cc7b4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性别认同, 自我探索, 强奸, 淫荡, 调教, 逆后宫, 家居生活, 奇幻, 爱情, 狗变人, 实验室, 异世界, 溶解与融合                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

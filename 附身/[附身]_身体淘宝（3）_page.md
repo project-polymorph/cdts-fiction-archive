@@ -7,7 +7,7 @@ TXT 下载: [[附身]_身体淘宝（3）.doc]([附身]_身体淘宝（3）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《身体淘宝（3）》讲述了一段围绕跨性别和附身主题的故事。故事的背景设定在市中心的一家拉面馆，主要人物是苏小萌和何年。在交谈中，苏小萌透露了她的姐姐被陌生男子注射了奇怪的液体，导致她的身体遭到抢占，暗示可能涉及到一种超自然或科技手段的附身现象。苏小萌的外表是清纯可爱的学生形象，但她的谈话内容却涉及了许多复杂且敏感的性话题，例如她因姐姐的境遇而进入成人行业的心路历程。此文中通过角色之间的对话，展现了性别认同、自我探索与社会接受等紧密相关的主题。在谈话过程中，何年对于苏小萌的理解与关心显示了他对这段关系的复杂感情，同时也揭示了社会与青春时代的稚嫩以及复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_身体淘宝（3）.doc]([附身]_身体淘宝（3）.doc)
 | Size            | 59904 bytes                           |
 | MD5             | 70ec711467c7b94b61a32bb2f2c7e140                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性转, 附身, 伪娘, 青春, 社会认同, 物流行业, 自我探索, 心理冲突, 性别认同, 拉面馆, 奇幻, 成人内容, 学园生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

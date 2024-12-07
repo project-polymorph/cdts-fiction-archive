@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_月女神面具.doc]([皮物]_月女神面具.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《月女神面具》描绘了一名叫王小卫的普通男人经历神秘转变的故事。故事开始于他清晨醒来，发现自己从一个相貌普通的男人变成了一个美丽的女性，尽管他的记忆与身份依然在。他对这种变化感到极大的困惑和恐惧，想要寻找变回自己的方法。文中穿插了他对身体变化的细腻描写，包括怀疑与探索自己新身份带来的快乐与困境。内容中涉及了一些带有色情暗示的情节，包括对身体的自我探索以及与一位富婆的亲密关系，也是故事发生的转折点。在享受转变身体所带来的快感的同时，主人公对于男性与女性之间的差异、性别认同、以及情感上的渴望与焦虑都进行了深刻的自我探讨。整个故事包涵了对于欲望、身份，以及社会层面的未解之谜，反映了当代对性别流动性的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_月女神面具.doc]([皮物]_月女神面具.doc)
 | Size            | 104448 bytes                           |
 | MD5             | 4bd9c6b882b039a6eb2e2682b8bf81d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 欲望, 社会探索, 色情, 自我探索, 幻象, 青少年, 城市生活, 性转, 富婆, 快递员, 中介, 性感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

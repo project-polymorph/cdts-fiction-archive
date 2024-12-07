@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【翻译】誘拐離脱（一）.docx]([附身]_【翻译
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是名为《誘拐離脱（一）》的翻译作品，主要描写了一位青年在实验室中完成一种可以让人附身于他人身体的药物后，与他的好友小辅进行的对话。该对话探讨了药物的特性、使用方法以及对女性身体体验的向往。内容中包括两位主角的性别认同和对变身后的期待，伴随着许多调侃和性暗示。文中提及的实验涉及高风险和伦理问题，揭示了药物可能带来的社会后果，同时也表现出角色间的密切关系和对彼此的信任。对于想体验女性身体快感的主角，讨论了如何在实践中保持秘密及其可能引起的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【翻译】誘拐離脱（一）.docx]([附身]_【翻译
 | Size            | 19076 bytes                           |
 | MD5             | 0e4fdcd754d29a6ab0f7a5c7f4d1521e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 实验室, 药物, 附身, 青少年, 自我探索, 友情, 性别认同, 女性体验, 都市幻想, 变身, 伦理问题, 自我认知, 性别转换, 青年的梦, 冒险, 调侃, 实验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

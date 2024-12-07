@@ -7,7 +7,7 @@ TXT 下载: [星期六的角色扮演.doc](星期六的角色扮演.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身与跨性别题材的小说，标题为《星期六的角色扮演》。故事围绕主角林枫与其女友安的角色扮演活动展开，涉及生物技术、智能机械及角色扮演的情节。林枫是一名研究领域的佼佼者，但他的生活不仅仅限于学术，他与女友间的关系中融入了丰富的角色扮演元素。 小说开篇描述了林枫的背景，同时也带出了他与女友的日常互动。在一次讨论中，林枫激发了自己和女友之间的角色扮演计划，体现了两人之间亲密的关系和彼此的信任。角色扮演的设定涉及林枫化身为一名科学家，而女友安则将扮演一个魔物娘。随着故事的发展，他们的角色准备过程细致入微，包括使用高科技紧身衣以及设计构思，展现了角色扮演的重度参与和复杂性。两人之间通过角色扮演探索更深层的情感和性别认同问题，表现了现代跨性别文化的某种解构与重塑。整个故事在风格上结合了科幻和色彩斑斓的幻想元素，夹杂着强烈的性暗示和个人探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [星期六的角色扮演.doc](星期六的角色扮演.doc)
 | Size            | 55808 bytes                           |
 | MD5             | fd4c5e38dc749e15fe6b643d8f793a24                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 云霄雨霁                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 穿越, 角色扮演, 生物科技, 跨性别, 魔物娘, 性别认同, 科学幻想, 情感探索, 紧身衣, 二次元, 自我探索, 情感交流, 色情元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

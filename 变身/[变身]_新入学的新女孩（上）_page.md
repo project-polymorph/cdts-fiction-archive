@@ -7,7 +7,7 @@ TXT 下载: [[变身]_新入学的新女孩（上）.doc]([变身]_新入学的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一名名叫内森的学生在普莱赛德学院的第一天的经历。他对新学校的适应困难以及内心的不安通过他的视角被详细描述出来。在文中，内森回忆了他与父母关于搬家到新城市的冲突和家庭的经济变化。尽管家庭的经济状况因父亲的新工作有所改善，但内森仍然面临着新环境的孤独与社交挑战。他在学校中感到被忽视，被同学们的社交圈排斥，内心充满不安和疑惑。“拿到驾照后即使周末能返校见到朋友”也成为了他心中一丝微弱的安慰。随着内森逐渐了解新的校园，他发现自己在午餐时的孤独以及在课堂上逐渐勇敢的表现，但仍对友谊的渴望和建立信任感感到无力。故事在他意外发现储物柜里存在另一个女孩的属于她的旧物品后达到高潮，他对这个女孩的好奇与内心的不解成了他接下来探索的目标。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_新入学的新女孩（上）.doc]([变身]_新入学的�
 | Size            | 74752 bytes                           |
 | MD5             | 7142bc4aada519dda47a830d871af9e1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 校园生活, 社交挑战, 人际关系, 性转, 变身, 青春故事, 孤独感, 适应环境, 男孩与女孩, 私立学校                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]【原创文字】巨根伪娘改造广告.doc]([改造]【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于伪娘改造的小说，主要讲述了一名名为马丁的普通公司职员，因对自己小巧阴茎的不满而寻找改变的方法。文中详细描述了马丁的心理与生理变化，及其与女友小玥之间的感情纠葛。故事开始于马丁收到一则关于改造的广告，随后他决定进行改造，接受了一系列的药物和程序以增大阴茎并改变外形。小说探讨了性别认同和自我意识的转变，同时涉及到人体改造、催眠、性奴隶等复杂的主题。随着故事发展，马丁最终变成了女性化的伪娘玛丽，并成为同事的性奴隶，文中还有对其他角色如实验员小爱和女友小玥的描述，展现了他们在改造过程中的角色转变与性别认同的混淆。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]【原创文字】巨根伪娘改造广告.doc]([改造]【
 | Size            | 58368 bytes                           |
 | MD5             | e4de08754c0b3347b104eaf5010f9f2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 堕落的Fox                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 人体改造, 催眠, 性奴隶, 跨性别, 性别认同, 巨根改造, 自我探索, 性欲, 暗线情节, 强奸, NTR, 变嫁, 宫斗, 幻想, 都市, 情感纠葛, 心理暗示, 药物改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

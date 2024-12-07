@@ -7,7 +7,7 @@ TXT 下载: [[附身]_深蓝之星（一）.doc]([附身]_深蓝之星（一）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是以魔法为背景的变身小说，主要描述了角色之间的复杂关系和性别转换的过程。故事围绕一个哥哥和他的妹妹雪野美游展开，哥哥在意外得知美游的魔法修行日即将到来时，发现妹妹已经偷偷离开，与青梅竹马的诗音一起出行。美游为了追随魔法师泉姐，选择了一种特殊的魔法让自己的灵魂进入一只猫的身体，并希望哥哥能代替她完成修行。故事中的转身过程充满了魔法、神秘以及自我探索的主题。哥哥突然被迫进入妹妹的身体，面临着变性和身份认同的挑战，最终展现了在新身体中生活与修行的种种体验和感受。同时，作品细腻地描绘了变身后身体的感知差异和对女性形象的探索，涉及到了性别认同等议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_深蓝之星（一）.doc]([附身]_深蓝之星（一）.
 | Size            | 72192 bytes                           |
 | MD5             | 3d2556aba2bcda32d144eb2db083dda9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法, 性别转换, 跨性别, 自我认同, 梦魇, 心灵探索, 灵魂互换, 伪娘, 日常生活, 青梅竹马, 修行, 魔法师, 二次元, 校园, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

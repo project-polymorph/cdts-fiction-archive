@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_九尾刃第六章.docx]([皮物]_九尾刃第六章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《九尾刃》第六章描绘了主角在梦境与现实之间的交错经历，开篇通过石像与狐狸的梦境反映主角的恐惧与不安。主角在梦中遭遇了一只白色狐狸，这只狐狸不仅令人害怕，还与主角的担忧情绪紧密相连。梦醒后，主角发现自己在现实中仍处于不安的状态，决定开始修炼以应对潜在的危险。在翻阅一本修真书籍时，主角对书中提及的内容产生怀疑，并试图探索灵魂的独立存在，最终发现与九尾刃的联系。章节最后提到全国范围内报告变成石像的事件，暗示了一系列将要展开的危机。这个章节充满了悬念与冒险，结合了修真与奇幻元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_九尾刃第六章.docx]([皮物]_九尾刃第六章.docx)
 | Size            | 19281 bytes                           |
 | MD5             | 08856f2db9a09a5575767051586302ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 修真, 变身, 梦境, 狐狸, 自我探索, 九尾刃, 灵魂修炼, 奇幻, 冒险, 超自然, 危机, 石像, 灵魂独立, 心理恐惧, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

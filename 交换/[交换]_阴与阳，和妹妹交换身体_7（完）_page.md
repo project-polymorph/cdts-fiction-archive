@@ -7,7 +7,7 @@ TXT 下载: [[交换]_阴与阳，和妹妹交换身体_7（完）.doc]([交换]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于角色性别转换与怀孕经历的小说，主要讲述了一名男性角色克雷格通过与其妹妹丽莎的身体交换，体验怀孕过程的故事。文件描述了克雷格在新身份下的内心挣扎与变化，从起初对女性身体的排斥，到逐渐接受并理解怀孕所带来的支持与关爱。同时，文本中涉及了许多与怀孕相关的情感与心理观察，例如对母性的理解、女性间的团结支持，以及对自我认同的重新审视。在课程的背景下，克雷格体会到其他女性的母性关怀与分享，从而形成了一种新的身份认同。随着剧情的发展，克雷格经历了身体的不适与精神的觉醒，最终在分娩时感受到生命的来临和家人之间的支持。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_阴与阳，和妹妹交换身体_7（完）.doc]([交换]
 | Size            | 56832 bytes                           |
 | MD5             | 21459b1f87a1cdb61ac777be069a596a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 怀孕, 身体交换, 母性, 女性友谊, 自我探索, 情感支持, 亲情, 女性视角, 心理成长, 克雷格                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

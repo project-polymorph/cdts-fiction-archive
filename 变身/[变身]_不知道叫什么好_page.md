@@ -7,7 +7,7 @@ TXT 下载: [[变身]_不知道叫什么好.doc]([变身]_不知道叫什么好.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇有关性别转换和恋物癖的小说，作者通过细腻的描写展现了主角的内心活动和心理冲突。故事围绕一名男性角色展开，他对地铁上常见的一位年轻女性产生了强烈的迷恋，但却不具备与她交流的勇气。主角有恋物癖，特别渴望触碰与女性的丝袜等物品。在一次偶然的情况下，主角因为长时间的幻想，误入了自我转变的奇幻体验中，开始经历身体和性别的显著变化，最终在镜子中看到了与自己幻想中的女性相似的形象。文中逐渐加重的心理冲突和性别认同的探索，使得作品在展现色情内容的同时，也引发了对性别认同和个人欲望的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_不知道叫什么好.doc]([变身]_不知道叫什么好.
 | Size            | 30720 bytes                           |
 | MD5             | d8f4616f2fcd5a095413c89211127855                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2013-03-30                                 |
+| Tags            | 性别转换, 恋物癖, 护士, 男性转女性, 地铁, 幻想, 自我探索, 心理冲突, 性别认同, 丝袜, 奇幻, 变身, 偷窥, 性欲, 青春, 都市情感, 社会心理, 异性恋, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_神王印（申码文）.doc]([附身]_神王印（申码�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于变身与附身的小说，讲述了主角蓝颜织在漫展上获得超能力的奇遇。在梦幻般的漫展上，她遇到了名为艾米莉亚的美丽角色并对其产生了好感。通过一种神秘的能力，蓝颜织实现了灵魂的离体，并能够附身在他人身上，体验不同的性别和身体感受。小说中融合了恍惚、探索自我与奇幻的元素，主角内心深处的觉醒与对新身份的兴奋交织在一起，引发出许多关于性别认同与角色扮演的思考。文中涉及的情节包括对身体的感知、情感的纠葛及超能力的探索，而艾米莉亚与雷姆之间的互动则进一步推动了情节的发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_神王印（申码文）.doc]([附身]_神王印（申码�
 | Size            | 652800 bytes                           |
 | MD5             | a587b6061ab5d6b66e11004a51eef1da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 灵魂离体, 漫展, 超能力, 角色扮演, 女性视角, 自我探索, 青春, 奇幻, 梦想, 性别认同, 激情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

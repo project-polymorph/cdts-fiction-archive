@@ -7,7 +7,7 @@ TXT 下载: [[变身]_爱的对面不是恨，而是……（上）.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于男主角陆石在二次重生后，试图改变自己爱情命运的变身小说。在故事中，陆石经历了两次生死，由于初次的背叛而心灰意冷，发誓要与女友林璇撇清关系。在重生后，他努力修正过去的错误，但最终又遭遇了同样的背叛。在故事中，他的意识在温暖和痛苦之间徘徊，充满了对自我身份的挣扎和性别认知的挑战。文本详细描述了陆石在重生后经历的一系列情感纠葛和身体变化，包括与陌生男子的激情冲突，以及在镜子中看到的是自己最爱的女性形象。文中涉及了肉体关系的细致描写，反映了性别和自我认同的复杂交织。整体故事以男主的内心独白为线索，展现了人性的脆弱与渴望，以及对性别与身份的深层探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_爱的对面不是恨，而是……（上）.doc]([变身
 | Size            | 30208 bytes                           |
 | MD5             | d057c97153ea1d5676f4d314085ddd3a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 重生, NTR, 爱情, 自我探索, 激情, 肉体关系, 伪娘, 性转, 痛苦与快乐, 灵魂挣扎, 反转剧情, 心理冲突, 虚拟与现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

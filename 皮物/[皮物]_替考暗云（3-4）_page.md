@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_替考暗云（3-4）.doc]([皮物]_替考暗云（3-4）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘 TS 变身与跨性别相关的小说，描述了主角汪凯在参加高考前夕所面临的奇异经历。汪凯在学校参加替考，意外发现自己需要伪装成他所仰慕的学姐赵佳文。过程中，他得到了一个秘密箱子，里面含有与替考有关的人皮衣和证件。在好奇心驱使下，汪凯体验了通过这件“人皮衣”改变性别的过程，描述了他从穿上人皮衣到完全变成学姐的细腻心路和身体感受。本作品探讨了性别认同、自我探索和心理转变等主题，包含一些限制级的色情内容，描绘了汪凯初次体验女性身体的细致情感与感官反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_替考暗云（3-4）.doc]([皮物]_替考暗云（3-4）.
 | Size            | 47616 bytes                           |
 | MD5             | ac58c82aa92c2ec6e0c76ec7d20ab0e8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 高考, 青春, 自我探索, 身份认同, 奇幻, 恋爱, 成人内容, 人皮衣, 心理描写, 青春校园, 性别转换, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_神奇的网购体验1-5.doc]([其他]_神奇的网购体�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《神奇的网购体验》的第一部分，围绕两位女大学生孙苒苒和苏沐沐的幽默互动展开。故事开始于孙苒苒请求苏沐沐帮忙解决电脑蓝屏的问题，随后描述了二人之间轻松调皮的对话，展现了孙苒苒呆萌的性格和苏沐沐的高挑御姐形象。接着，苒苒无意中购买了一些奇怪的商品，包括一把名为“切割之刃”的神秘工具，能够在不流血的情况下实现身体的一部分切割与再生。逐渐，苒苒在好奇心驱使下尝试了这个工具，从而展现了她的兴奋与探险精神。在与苏沐沐没心没肺的互动中，蕴含着对美容、身体认同和友谊的探讨，尤其是最后两人剪切肢体的奇特体验，展现了对异性别和性别认同的玩笑与探讨。整体故事充满了二次元的趣味与想象，适合有相关兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_神奇的网购体验1-5.doc]([其他]_神奇的网购体�
 | Size            | 64000 bytes                           |
 | MD5             | d1c461f43910b7c73856c9e84dfbc8fb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 二次元, 强奸, 药娘, 逆后宫, 调教, 人体改造, 百合, 魔法少女, SM, 虚拟现实, 青春校园, 友谊                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

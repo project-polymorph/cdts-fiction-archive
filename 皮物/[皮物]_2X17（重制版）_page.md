@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_2X17（重制版）.doc]([皮物]_2X17（重制版）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《皮物》中的章节 2X17（重制版），内容描绘了一种未来的虚拟与现实交织的生活场景。故事中的主人公趴在沙发上浏览网上商店，身穿粉红色露脐胸衣和牛仔短裤，通过电子手环进行购物，展示了一种高科技、且充满个性选择的生活方式。通过描述“在360度无死角的展示比较”后，主人公选择了一件连衣裙，体现了对美的追求。接下来的情节转向医疗中心，主人公接受了皮肤的整形手术，描绘了人类在现实中为了生存而不断改变自我形态。文本提到，随着社会和环境的变化，个体对自我的认同与外貌的选择成为一种新的常态，反映了科技发展带来的机遇与人类存在的矛盾。整体内容探讨了性别认同、身体改造与自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_2X17（重制版）.doc]([皮物]_2X17（重制版）.doc)
 | Size            | 28160 bytes                           |
 | MD5             | 425863e89fc1c5bad6808afb5ab41b89                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2017-06-02                                 |
+| Tags            | 伪娘, 变身, 跨性别, 高科技, 身体改造, 虚拟现实, 自我认知, 医疗, 性别认同, 未来主义, 社会问题, 心理探索, 脱离现实, 机械结构, 情感选择, 生理转变, 美学, 身心合一, 科技与人类                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

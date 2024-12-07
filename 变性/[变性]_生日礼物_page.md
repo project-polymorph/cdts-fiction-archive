@@ -7,7 +7,7 @@ TXT 下载: [[变性]_生日礼物.docx]([变性]_生日礼物.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《生日礼物》是一部围绕性别转换与自我认同主题的小说，讲述了达伦和妻子艾梅柏之间的故事。故事开场，艾梅柏带着达伦到一家名为‘明星品质’的商店，百货商店表面上看似平常，但实际上提供了一系列非常大胆的服务。随着故事的发展，达伦意识到自己长期隐瞒的秘密即将被揭露。艾梅柏发现了达伦藏匿的裙子和高跟鞋，并告诉他，她决定帮助他实现愿望，这个愿望在达伦的生日聚会上揭示出来。最终，达伦在一次手术后失去记忆，醒来时发现自己变成了女性，并且被指认为名为德西蕾的角色。在一场混乱和自我认知的重塑中，德西蕾逐渐面对自己的新身份和新的生活。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_生日礼物.docx]([变性]_生日礼物.docx)
 | Size            | 41088 bytes                           |
 | MD5             | 7a3ded9ad2060efdfa70e662d61a3cc9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kriz                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我认同, 伪娘, 变身, 婚姻关系, 秘密揭露, 身体转变, 性别认同, 情感冲突, 药物影响, 性别角色, 跨性别, 社会认同, 爱情, 性别认同问题, 女性视角, 心理剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

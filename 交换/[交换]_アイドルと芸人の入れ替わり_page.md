@@ -7,7 +7,7 @@ TXT 下载: [[交换]_アイドルと芸人の入れ替わり.docx]([交换]_ア
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及灵魂交换主题的小说，标题为《交换：偶像与搞笑艺人的灵魂互换》。故事围绕一档名为“超绝!神业SHOW”的电视节目展开。节目的主持人入川与兵井邀请了两位嘉宾：偶像清木卡伦与搞笑艺人盆尾达郎，前者因其出众的外貌受欢迎，后者则因其独特的搞笑才能而著名。节目中特邀的魔术师宣称可以实现灵魂的交换。在经过准备后，两位嘉宾被固定在椅子上，并在魔术师的引导下进行灵魂交换。故事随即展开，清木卡伦在交换后开始探索自己的新身体，并对胸部、臀部等感到惊奇，而固定在椅子上的盆尾达郎则感到困惑与不安。他希望其他人能帮助他解除束缚，但无人理会。随着故事推进，卡伦以盆尾的身体在镜头前表演了其“标志性手法”，这一过程充满了荒诞与戏谑，同时也探讨了灵魂交换带来的自我认知与身份混淆的体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_アイドルと芸人の入れ替わり.docx]([交换]_ア
 | Size            | 22169 bytes                           |
 | MD5             | 791164f9a76d6d8ea1349803ef5d2a21                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂交换, 跨性别, 偶像, 魔术, 自我认知, 性别认同, 搞笑艺人, 幽默, 性转, 古怪演出, 变性, 性别身份, 搞笑节目, 二次元, 电视剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

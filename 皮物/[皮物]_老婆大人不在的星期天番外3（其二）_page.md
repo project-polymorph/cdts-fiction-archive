@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_老婆大人不在的星期天番外3（其二）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘伪娘变身及跨性别相关主题的小说，故事围绕一名男性穿着女性服装走在冬季街头的经历展开。开篇描述了主角在冬日冷风与温暖的家庭环境之间的差异，隐约流露出内心的紧张与期待。随着情节的发展，主角在商场等候某个熟人，并遭遇了一名搭讪的男性。主角尝试婉拒他的邀请，并巧妙地用声音的变化掩盖性别身份，但随即又与一名陌生的女性相遇，展现了其复杂的社会互动与身份认同。小说中还涉及一系列关于性别认同与自我探索的主题，情节随着主角与年轻女性的互动加深，进一步推进了剧情。最终，故事向着更为复杂和具有冲突的情节发展，涉及身体、性别以及身份的解绑，主角甚至还使用了特殊物品以达到自己目的，展现其伪装与身份转换的心理与行为。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_老婆大人不在的星期天番外3（其二）.docx]([�
 | Size            | 26410 bytes                           |
 | MD5             | 5df617739196f878476a62db0eac08f9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 变身, 男女关系, 自我认同, 街头搭讪, 社会互动, 迷药, 身份冒充, 悬疑, 戏剧性, 性别表达, 情感纠葛, 青春, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

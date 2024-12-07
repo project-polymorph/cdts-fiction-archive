@@ -7,7 +7,7 @@ TXT 下载: [[其他]_西游情厄传（第十六回）.docx]([其他]_西游情
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《西游情厄传》的第十六回，标题为“喜宴翻作修罗场 锦匣幻出逍遥宫”。故事围绕双龙激烈的战斗展开，场面紧张且充满戏剧性。主要角色包括飞龙与其母亲宫主，公子，其代表了多样化的人物设定和复杂的性别角色。在这一回中，双龙的较量展示了力量与技术的对抗，而途中突现的九头虫添加了更多悬念与戏剧冲突。随着情节的发展，公子与飞龙郡主之间的姻缘正在构建，一场盛大的婚礼即将举行，但计划却突遭变故。公子在面对宫主的提亲时表现出对责任与情感的纠结，角色之间的对话在轻松与紧张之间游走。最终，喜庆的婚礼气氛急转直下，突现的杀戮场景进一步揭示了本回深刻的情感冲突与戏剧情节。文中描绘了复杂的人际关系、身份和女性角色的表现，结合奇幻色彩，提供了多维度的叙述。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_西游情厄传（第十六回）.docx]([其他]_西游情
 | Size            | 26527 bytes                           |
 | MD5             | 8a8adc32d4014644e3f1bf008fa6e7ce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 传统文学, 性别认同, 西方神话, 婚姻与爱情, 角色转变, 奇幻冒险, 亲情纠葛, 自我探索, 权力斗争, 女性角色, 双龙对决, 公子与飞龙                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

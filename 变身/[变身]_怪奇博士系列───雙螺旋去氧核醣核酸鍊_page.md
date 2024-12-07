@@ -7,7 +7,7 @@ TXT 下载: [[变身]_怪奇博士系列───雙螺旋去氧核醣核酸鍊.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇以跨性别与史诗情节为主题的小说，名为《怪奇博士系列───双螺旋去氧核糖核酸链》。故事的核心围绕着一位被称为怪奇博士的人物，他在实验室中进行着关于DNA和身体改造的实验。故事中，博士通过高科技手段将一名壮汉汉斯的意识转移到一个年轻女孩珍娜的身体中。文件详细描写了实验的过程，以及汉斯与珍娜在身份和身体转变中所面临的心理冲突与适应。文字中涉及了复杂的生物学概念和科学幻想，概述了从肉体到意识的转变过程，以及改造后珍娜所经历的觉醒和自我认同。整个故事展现了对性别认同与身体转换的探讨，并包含了潜在的伦理与道德问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_怪奇博士系列───雙螺旋去氧核醣核酸鍊.
 | Size            | 39936 bytes                           |
 | MD5             | f20120a3c6a45a8e01850d20221a7097                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 双螺旋去氧核糖核酸, 跨性别, 实验室, 身体改造, 自我认同, 奇幻, 科幻, 性别转变, 心理冲突, 科幻小说, 交错的身份, 生物技术, 伦理问题, 性别认同探索, 身体意识, 双重身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

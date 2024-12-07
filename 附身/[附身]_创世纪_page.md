@@ -7,7 +7,7 @@ TXT 下载: [[附身]_创世纪.doc]([附身]_创世纪.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个虚拟现实游戏《创世纪》的小说，设定在2217年，讲述了主角张伟杰和他的妹妹张晓洁在游戏中的冒险经历。故事开头描述了创世公司成功研发了全息虚拟头盔，该设备让用户沉浸在高度真实的虚拟世界里，并引发了全球网络游戏的热潮。在游戏中，张伟杰作为战士，与朋友吴子卓（魔法师）和妹妹（弓箭手）一同组成公会，共同探险。在一次任务中，他们意外地遭遇了神秘的乞丐NPC，妹妹被吸入了黑色气体，导致一系列奇怪的变化。最终，张伟杰发现妹妹的身体被某种未知的力量占据，面临着复杂的亲情与身份认同的冲突。文件内容可能包含虚构的跨性别及变身元素，以及情感的觉醒和自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_创世纪.doc]([附身]_创世纪.doc)
 | Size            | 46592 bytes                           |
 | MD5             | 9aa73e83bb099de53e869d2abc788989                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 虚拟现实, 跨性别, 性别认同, 变身, 兄妹关系, 全息游戏, 奇幻冒险, 自我探索, 冲突与认同, 黑暗元素, 情感纠葛, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

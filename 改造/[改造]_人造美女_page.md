@@ -7,7 +7,7 @@ TXT 下载: [[改造]_人造美女.doc]([改造]_人造美女.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《人造美女》，记录了一个关于角色性别转换和自我认同的故事，情节围绕两个主要角色妮娜和一个被称为娃娃的角色展开。故事涉及性别认同、自我探索和角色之间的复杂关系，包含了一些成人内容。妮娜把娃娃摆放在床上，随后她们之间开始了亲密的互动。描写了她们的身体和情感的变化，伴随着激情的交流。该文档用一种直白的风格描述了角色之间的互动，而且包含了许多性暗示和露骨的情节。另一方面，文中提到的角色九月是一个重要支撑角色，关于她的一些背景故事也让整个情节更为复杂和引人入胜。总体来看，这是一个涉及角色变性、性认同以及性行为的情节化故事，其内容适合用于性别研究与文学分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_人造美女.doc]([改造]_人造美女.doc)
 | Size            | 67584 bytes                           |
 | MD5             | f55248787eccb456abba6178189dbf06                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 自我认同, 性别探索, 青少年, 二次元, 幻想, 剧情发展, 成人内容, 女体化, 幻想小说, 性别理论, 人造人, 社会角色, 亲密关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

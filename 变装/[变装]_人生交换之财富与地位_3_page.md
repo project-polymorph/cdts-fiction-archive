@@ -7,7 +7,7 @@ TXT 下载: [[变装]_人生交换之财富与地位_3.docx]([变装]_人生交�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本档案讲述了一个角色伊莎贝拉的生活转变，她从女仆生活中蜕变为上流社会的名媛。在故事中，伊莎贝拉准备迎接自己的朋友们，对自己新身份感到得意。她的女仆在她身边担任服务角色，伊莎贝拉则以华丽的外表和新的社交圈展示着她的变化。文本细致描绘了她的服饰、外貌、社交互动，以及女仆从最初的不安到逐渐接受自己新身份的心理变化。通过对环境的对比，展现出伊莎贝拉的华丽生活和女仆的卑微处境之间的冲突与反差。文本中也提及女仆对社会地位和人际关系的思考，突显出角色们在性别与身份上的复杂认同，以及个人之间的羡慕与嫉妒的情感。最后，女仆逐渐适应并接受了自己新生活的角色，这也引发了对社会阶层流动性的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_人生交换之财富与地位_3.docx]([变装]_人生交�
 | Size            | 27057 bytes                           |
 | MD5             | f941f4d7f928f619578b6802fec7fd07                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Belladonna D' z                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 角色扮演, 伪娘, 女仆生活, 上流社会, 社交名媛, 羡慕与嫉妒, 个人身份探索, 生活交换, 心理变化, 奢侈生活, 性别转换, 女性成长, 情感冲突, 社会阶层                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

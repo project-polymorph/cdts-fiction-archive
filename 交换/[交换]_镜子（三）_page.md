@@ -7,7 +7,7 @@ TXT 下载: [[交换]_镜子（三）.docx]([交换]_镜子（三）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘主题小说《镜子（三）》的第三章，描绘了人物苏宁在变身为女性后的情感与身体体验。故事开头，苏宁描述了重获身体的强烈快感，内心却充满了对自己新身份的复杂情感。她对比自己以前的身体，并感慨体会到作为女性的美丽和诱惑。在继续的情节中，苏宁逐渐放弃对身体的怀旧，沉浸于与他人的关系中，并体验到情欲交织的复杂心情。作品涉及强烈的性别认同和自我认知的冲突，同时描述了女性身体的性感魅力以及性幻想的心理。情节的发展也暗示着人与人之间深层次的情感冲突与欲望的纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_镜子（三）.docx]([交换]_镜子（三）.docx)
 | Size            | 20363 bytes                           |
 | MD5             | c5fb822a8334276c93974972bb465be8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 情感探索, 自我认同, 身体认同, 欲望, 禁忌, 情欲, 交换身体, 慢性自残, 自我探索, 女性视角, 性感, 情感纠葛, 荒诞, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

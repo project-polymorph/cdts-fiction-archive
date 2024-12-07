@@ -7,7 +7,7 @@ TXT 下载: [[其他]_钢铁猎姬（序~9）.docx]([其他]_钢铁猎姬（序~
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《钢铁猎姬（序~9）》为一部设定在虚拟游戏世界中的小说，主要讲述了角色艾萨克在与队友探索新版本的游戏过程中所遇到的种种情节。开篇描绘了艾萨克通过神经接触器接入虚拟世界的经过，他在现实中对这种技术感到厌恶，却在虚拟世界中找到了某种安慰。故事中提及了一些具有强烈个性的角色，包括一个红发的少女和一名黄发年轻人，他们的互动展现了团队合作中的幽默与冲突。小说中还描述了游戏的等级系统和玩家之间复杂的关系，此外，还透露了一些游戏机制，例如特殊物品的使用方法以及如何影响角色属性。通过这些细节，读者能够感受到角色的内心冲突及对自身身份的再次探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_钢铁猎姬（序~9）.docx]([其他]_钢铁猎姬（序~
 | Size            | 61943 bytes                           |
 | MD5             | 20dc2ff151bfde01191014127b86c240                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 虚拟现实, 游戏, 团队合作, 角色扮演, 自我认知, 冒险, 青少年, 科技幻想, 心理探讨, 女性角色, 克隆人, 致幻剂, 古龙种, 换装, 非时果实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_美少女战士邪传（四）.doc]([附身]_美少女战�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《美少女战士邪传（四）》的部分章节，内容围绕几个女性角色经历了性别及生理变更的情节，包含了亲密接触及性幻想场景。在故事中，字符亚美意外地出现了一根男性生理特征的肉棒，震惊的好友真琴试图安慰她并寻找解决之道。两人的互动逐渐变得亲密，涉及对彼此身体的探索与理解。更深层的内容展现了角色在性别认同与自我意识方面的冲突与挣扎，同时也蕴藏着变身与附身的幻想情节。一些色情内容与幻想情节交织在一起，突显角色间复杂的情感和性别认同问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_美少女战士邪传（四）.doc]([附身]_美少女战�
 | Size            | 176640 bytes                           |
 | MD5             | b27529156f3e548d47f0873c6007add2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 强制变身, 魔法少女, 友谊, 性探索, 自我认同, 生理变更, 二次元, 情感冲突, 幻想故事, 同性恋, 性别角色, 勇气与欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

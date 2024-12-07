@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蜀山炼器师_第七章-第九章.docx]([附身]_蜀山�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《蜀山炼器师》第七章至第九章的内容，主要围绕七仙镇的修真界事件展开。故事中涉及角色之间的互动与冲突，描绘了正魔两道的对立，以及修真者之间复杂的关系。故事的开头提到七仙镇的掌柜王利发在给食客讲述过去七仙镇的历史，提及了传说中的飘渺七仙，他们的传奇修行与影响力，以及目前正魔对立的局势。此外，文中描绘了一名女子与其侍从黑蝎走在街上，正巧遇到正魔大战的号角声响起，她们决定前往战场探查。期间，两位女子通过使用“天魔易形丹”实现了角色变换，青情化为魔道女子宋升，而宋升则化为正道女子，以便于潜入正魔战场进行夺宝行动。在这一过程中，她们不仅受到修真者的追捕，还面临了力量较强的元婴期修真者的威胁。整章情节紧张，充满悬念，描绘了修真者之间的智斗与潜伏。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蜀山炼器师_第七章-第九章.docx]([附身]_蜀山�
 | Size            | 58174 bytes                           |
 | MD5             | 127e599d26067ee1c5924814141bfc50                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 修真, 异世界, 变身, 正魔大战, 仙侠, 角色扮演, 妖族, 肉身变换, 冒险, 夺宝, 女性主角, 仙女, 剑斗, 剧情反转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_《办公室的故事》第一章.doc]([其他]_《办公�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是描绘一个名为任隽馥的角色在办公室和私生活中的情感与心理探索的小说。文章从角色的职业生活展开，描述了他在工作中与下属的互动，以及个人生活中的孤独与内心冲突。任隽馥作为一位29岁的单身贵族，享有经济上的成功，但他内心充满了复杂的情感与需求。角色对于自己的性别认同感到困惑，并在家庭、社会与自我性别认同之间夹杂着羞耻与渴望，对他的伪娘身份与自我探索展开了一系列内心戏。文中提到角色对女性形象的渴望与自我行为的羞耻感，有描述到他在家中独处时穿着性感衣物的场景，表现出他对性别角色的模糊认知和对自我的探索。同时，文中还涉及了一些性行为的细节，涵盖了其性幻想和角色心理的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_《办公室的故事》第一章.doc]([其他]_《办公�
 | Size            | 60928 bytes                           |
 | MD5             | 11f3a7fc89a614cdfdd5fbf408163e78                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 伪娘, 变身, 情感纠葛, 单身生活, 经济成功, 办公室恋情, 性行为描写, 羞耻感, 角色心理, 性转小说, 强烈情欲, 男人与女性化, 情欲幻想, 心理挣扎, 家庭关系, 内心冲突, 社会压力, 药物影响, 情感深度                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

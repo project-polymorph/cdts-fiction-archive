@@ -7,7 +7,7 @@ TXT 下载: [[附身]_小子，你怎是女人！〔序篇〕（二）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《小子，你怎是女人！〔序篇〕（二）》，内容围绕一群年轻男子在偏僻神社的交流与探讨展开。几个主要角色——古川、川岛和吉野等人在神社对古川的了解进行争论，其中涉及对八岐神社的历史和传说的讨论。古川因对自己民族和文化的理解而感到尴尬，并试图保持友好的态度。在讨论中，和尚插入一段关于古社和神灵的故事，引起众人的好奇心。此外，作品还提到了一些历史背景，例如上世纪的社会运动与日本历史上对于古庙的冲击。这段故事展示了角色间的冲突与互动，以及对文化遗产的思考，对性别与身份的探索藏于其中。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_小子，你怎是女人！〔序篇〕（二）.docx]([�
 | Size            | 22296 bytes                           |
 | MD5             | 7e5bbef0d11d36c898517c9fe69dab13                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 跨性别, 神社, 历史背景, 文化传说, 青年文化, 友谊, 社会运动, 角色互动, 诙谐, 古代神话                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

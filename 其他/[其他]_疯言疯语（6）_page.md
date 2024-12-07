@@ -7,7 +7,7 @@ TXT 下载: [[其他]_疯言疯语（6）.docx]([其他]_疯言疯语（6）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一段关于两个角色之间的互动描写，主要涉猎了伪娘和性别角色扮演的主题。故事中的小J与另一名角色在私密的环境中，进行了一场带有性暗示的梦幻游戏。在昏暗的空间中，她们以面具装扮，展现出对彼此的欲望与探索。片段中使用了细腻的语言描绘角色们的情感和身体接触，例如“小J指了指床边放着的面具”，展示了她们之间的亲密关系与相互之间的调侃，形成了紧张而兴奋的氛围。随着她们的外出，去参加假面派对，情节进一步展开，描绘出充满刺激与紧张的夜晚体验。整体而言，文本涉及了角色对性别认同和自我探索的主题，引发了关于欲望、身份和个人隐私的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_疯言疯语（6）.docx]([其他]_疯言疯语（6）.doc
 | Size            | 19465 bytes                           |
 | MD5             | fcdbd2e3fe43fade75d31a0c3afa3cab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别转换, 角色扮演, 变装, 夜生活, 激情, 亲密关系, 性别认同, 暗示, 假面派对, 自我探索, 粉色幻想, 荒诞, 都市冒险, 性暗示, 调教, 双重身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_身体结构复制机器（改）.docx]([改造]_身体结
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位年轻人的奇幻经历，他在一次意外中通过一个神秘的身体结构复制机器成功实现了性别的转换。在这个过程中，他深入探索了自己的内心与身体变化的复杂感受。故事的主人公原本是一位男性，因长时间的经济压迫而失去就业机会，逐渐依赖网络生活，最终对性转换产生浓厚兴趣。在触摸到这一机器后，他决定尝试复制女性的身体结构。在经历了一系列兴奋与羞耻的情感波动后，他成功体验到了作为女性的身体感受，逐渐接受了这一变化并开始规划未来生活。本文件详细描绘了他对身体变化的观察与思考，包括对新生理特征的迷恋与恐惧，展示了性别认同与自我探索的话题，并涉及一些情感与生理上的亲密细节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_身体结构复制机器（改）.docx]([改造]_身体结
 | Size            | 21119 bytes                           |
 | MD5             | ebce3206d9970cceec00c87c36e89dc0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 自我探索, 性别认同, 身体结构复制, 女性身份, 幻想, 内心冲突, 科技与人性, 虚拟身份, TG文化, 性别流动, 身体认知, 女性健康, 内衣购买体验, 情感与性欲, 心理变化, 二次元文化, 性转小说, 科幻短篇                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

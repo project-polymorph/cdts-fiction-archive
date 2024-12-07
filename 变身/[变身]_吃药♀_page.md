@@ -7,7 +7,7 @@ TXT 下载: [[变身]_吃药♀.doc]([变身]_吃药♀.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《吃药♀》讲述了一个关于性别转换和自我认同的故事。故事的主角是一个从小被父母教育成资本家接班人的少年，生活在充满金钱和利益的环境中，逐渐失去了朋友和快乐。某天，他遇到了一家名为“黑井制药”的公司，因而陷入了极端的境地。当他饮用了含有药物的红茶后，便开始经历身体和身份的剧烈变化：原本的男性身份逐渐消失，取而代之的是对新身份的迷茫与享受。随着药物的作用，他的身体开始转变为少女，内心却仍未完全认同这一切。在失去判断力后，他被两名男性侵犯，成为了被动接受者，丧失了对自我的控制。这篇小说描绘了一种极为扭曲的性别体验及身份认同的问题，包含了多重层面的性别与权力关系的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_吃药♀.doc]([变身]_吃药♀.doc)
 | Size            | 40960 bytes                           |
 | MD5             | f47c604d77e7ca9a170d60bc4a2a4cf2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 跨性别, 精神控制, 情欲, 自我认同, 少女, 男性身份丧失, 性感染, 药物影响, 调教, 性侵犯, 虚拟现实, 身体变化, 心理冲突, 身份困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

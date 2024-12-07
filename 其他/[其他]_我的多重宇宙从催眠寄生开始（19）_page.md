@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我的多重宇宙从催眠寄生开始（19）.docx]([其
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多重宇宙背景下的跨性别变身小说中的第19章，在这一章中，主角陈立雄与同伴白琳琳合作整理办公室，准备接待贵宾。文中详细描绘了角色之间的互动及陈立雄的心理变化，尤其是在变身及性别认同方面的刻画。陈立雄最近刚从虚拟宇宙返回，使用魅魔念分身能力进行沟通，与不同宇宙中的科技及灵能进行对比，体现出角色在多元宇宙中的复杂心理和体验。文件中涉及的情节包括角色的性别期待、心理状态以及生活中的小细节，增添了故事的生活气息和虚拟与现实交错的趣味。此章还展示了角色穿着女性服装后的心态变化和紧张感，增加了情节的可看性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我的多重宇宙从催眠寄生开始（19）.docx]([其
 | Size            | 34492 bytes                           |
 | MD5             | b45915ff08bbee6c50ef3ab1ef5233a8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 伪娘, 情感互动, 多重宇宙, 性别认同, 虚拟现实, 生活碎片, 角色发展, 心理探索, 性别角色, 魔法, 灵能, 办公室情节, 青春, 校园, 魔法少女, 爱情, 探索自我, 青春烦恼                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

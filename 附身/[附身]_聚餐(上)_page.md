@@ -7,7 +7,9 @@ TXT 下载: [[附身]_聚餐(上).docx]([附身]_聚餐(上).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是围绕一名大学生李彬的内心冲突与转变，描绘了其对自己生活的失望与对他人生的妒忌。故事开头，伴随着社团干部聚会的结束，李彬感到孤独与被忽略，认为自己在同龄人中毫无优势。聚会期间，他观察到社联主席陈鑫的光彩夺目与优越家庭背景，心中满是愤恨与无助。在回校途中，李彬忍不住爆发出对生活的不满，产生了轻生的念头。此时，一个神秘的蛇妖灵魂和他沟通，提出帮助李彬实现复仇的请求。故事进一步展开，李彬被要求帮助蛇妖重生，以此来进行复仇。
+
+整篇小说探索了性别认同、自我价值、渴望与冲突等主题。文中包含对李彬内心挣扎的细致描绘，以及与蛇妖的交易约定，暗示着李彬的命运将如何改变。关键情节涉及灵魂转移、复仇动机和善恶对立的深刻思考，为后续发展埋下伏笔。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_聚餐(上).docx]([附身]_聚餐(上).docx)
 | Size            | 17924 bytes                           |
 | MD5             | 9b8ac6f379c785ac23243af36e009775                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 蛇妖, 复仇, 灵魂交换, 奇幻, 校园生活, 自我认同, 恶作剧, 心理戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

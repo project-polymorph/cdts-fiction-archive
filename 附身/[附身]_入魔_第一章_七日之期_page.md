@@ -7,7 +7,7 @@ TXT 下载: [[附身]_入魔_第一章_七日之期.docx]([附身]_入魔_第一
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个少年与恶魔之间契约的小说，描绘了少年对力量的渴望与对生命的思考。故事开篇描述了在一个阴暗的房间内，少年专注地进行某种仪式，以召唤恶魔。在过程中，少年经历了生理与心理的冲突，最终成功召唤出一位长着蝙蝠翅膀的恶魔少女。两人之间关于契约及愿望的互动，揭示了少年的内心挣扎。少年在契约中希望施加对一个名为楚军的人极端的复仇，表现出他对生命的绝望和对自我价值的探寻。文件中也涉及到力量的交换与恶魔的特性，以及少年与恶魔之间幽默而紧张的互动。文中有丰富的描绘导致故事氛围充满神秘与紧迫感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_入魔_第一章_七日之期.docx]([附身]_入魔_第一
 | Size            | 50482 bytes                           |
 | MD5             | 10c55305755435fe01640ebe75a042d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 召唤, 恶魔, 契约, 力量交换, 复仇, 自我探索, 奇幻, 少年, 黑暗, 心理斗争, 生死, 生命意义, 幽默, 二次元, 幻想文学, 性别转变, TS, 变身, 变装, 魔法, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_仙噬_10.docx]([其他]_仙噬_10.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《仙噬》的第十章，讲述了女主角沈妙依对心神禁制“魂牵梦绕”的研究与应用。故事中的沈妙依在探索禁制的过程中，识别出了潜伏在九华山的魔修势力的迹象。她通过一系列的行为，将自己的力量融合到南宫凰的神念之中，从而揭示了隐藏在角色间的复杂关系和权力斗争。沈妙依在使用魔法的同时，无意间展现出了她的变身能力，使她在角色扮演中不断地变化形象，吸引了沈凡的注意。文中充满了性别认同与角色关系的探索，体现了复杂的心理和自我认知过程。整体情节紧凑，富有奇幻色彩，涉及魔法、角色变换等元素，为读者展现了一个丰富的二次元世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_仙噬_10.docx]([其他]_仙噬_10.docx)
 | Size            | 20301 bytes                           |
 | MD5             | 5e91d7c1f977c0aaa0c653fb458a4fd1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 魔法, 仙侠, 灵根, 禁制, 角色扮演, 权力斗争, 自我认同, 性别探索, 二次元, 奇幻, 沈妙依, 南宫凰, 清猗仙子, 魔界, 吞噬术, 转生, 灵魂压制, 女性视角, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

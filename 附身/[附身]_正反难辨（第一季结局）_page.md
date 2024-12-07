@@ -7,7 +7,7 @@ TXT 下载: [[附身]_正反难辨（第一季结局）.doc]([附身]_正反难�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《正反难辨》，是一部围绕陆天康与黑星公司的犯罪与性转主题的小说。故事以陆天康的警官生涯与其妻子孙心丽为背景，情节复杂，交织了非法交易、卧底、催眠和性别转变的元素。故事开头，陆天康在执行任务时被卷入黑星公司的阴谋，妻子孙心丽在得知丈夫去世后接受了七号的控制与催眠，逐渐沦为他的新玩物。随后的章节中，七号与韩丽君的关系交错复杂，涉及性别、身份与权力的转变。在层层迷雾中，情节不断引发读者对自我认知与欲望的思考。文件中有着明显的色情内容，描写了角色之间的调教与情感冲突，以及对女性身体的细致描摹。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_正反难辨（第一季结局）.doc]([附身]_正反难�
 | Size            | 144896 bytes                           |
 | MD5             | b1fcb7690d18e7ac20d34ac3b0aff7d9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 卧底, 催眠, 调教, 变身, NTR, 性别认同, 阴暗交易, 黑暗爱情, 强奸, 女警, 异能, 洗脑, 情感扭曲, 情欲, 性转, 人性探索, 现代都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

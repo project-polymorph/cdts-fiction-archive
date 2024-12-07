@@ -7,7 +7,7 @@ TXT 下载: [[附身]_都市怪谈：〔一〕猫妖，蛇女！1.docx]([附身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《都市怪谈：〔一〕猫妖，蛇女！1》，描绘了一场发生在古老山洞中的离奇事件。故事围绕一位少女与其已故母亲之间的情感纠葛展开，展现了少女因母亲离世而感到的巨大的悲痛和对族规的无奈。在叙述中，山洞作为族人的埋葬之地，充满了腐臭和阴森的氛围。小说中出现了一条精怪的巨蟒，因其对刚死之人的魂魄产生贪婪之心。蟒蛇自嗟不已，思忖着过往的报复与活人之间的关系，它在尝试吞噬尸体的心脏过程中的细腻描写，结合了恐怖与奇幻元素。紧接着，一只小猫也登场了，它不仅能够说人类语言，还跟巨蟒展开了激烈的对峙，通过神秘的力量操控局势，表现出强大的控场能力和异类的高贵气质。整个故事采用了大量的象征手法和喻体，意图探讨生死、命运与族规的主题，令人引发对自我认知与身份认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_都市怪谈：〔一〕猫妖，蛇女！1.docx]([附身]
 | Size            | 31674 bytes                           |
 | MD5             | 204a54d52cc2cfb273b3e68c6b212ded                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 都市怪谈, 猫妖, 蛇女, 山洞, 精怪, 灵魂, 族规, 生死, 情感纠葛, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_りある・りふれくしょん.docx]([附身]_りある
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说以男主角冈田武志为中心，描绘了一个奇妙的校园幻想故事。故事开始时，冈田因为不喜欢长跑的体育课而假装身体不适，前往保健室。在路上，他偶然发现了一台奇特的游戏机，并将其捡起。这台游戏机具有神奇的功能，能够实时反映学校中的人物活动。当冈田在保健室中打开这台游戏机时，他发现游戏中的场景与现实世界中的学校完全一致，并且能控制游戏中的角色移动。随着他深入探索，他无意中将自己传送到了校园屋顶并体验了瞬间移动的刺激。故事情节进一步发展，当冈田通过游戏机意外进入了女子游泳部的更衣室，戏剧性和冒险感十足。整篇小说充满了对性别转换与自我认同的探索，性别的模糊与角色的置换，带来了心理与情感上的冲突与思考。虽然情节中包含了一些限制级内容，但更深层次地展现了对个体身份及其社会认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_りある・りふれくしょん.docx]([附身]_りある
 | Size            | 45788 bytes                           |
 | MD5             | 4e1a1c827cd52b76a50e5da40a140bf7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 奇幻, 性别转换, 变身, 自我探索, 游戏机, 偷窥, 瞬间移动, 女性角色, 性别认同, 冒险, 普遍关注的社会问题, 二次元文化, 奇妙机械, 青春故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

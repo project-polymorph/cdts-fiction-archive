@@ -7,7 +7,7 @@ TXT 下载: [[变性]_卧底记者（3）.docx]([变性]_卧底记者（3）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了主人公肯恩（凯伦）在萨伏依公司作为卧底记者的生活经历。故事开始于肯恩回到家中，面对着只属于女性的高跟鞋，内心对自己穿着女性服饰的矛盾感情逐渐显露。他回忆起在公司工作的这一年，欣忭自己的出色表现和职业发展，以及内心对自身身份转换的迷茫与自我认同的逐步接受。肯恩在不断适应女性生活的同时，也在寻求过往性别认同的解答。他面临身体上的变化，如因长期服用女性荷尔蒙导致生理特征的改变，并与安琪之间的性关系也因此变得复杂，二人之间的情感在这种变化中更显珍贵。小说中的对话和细腻的心理描写展示了肯恩在职场和个人生活中不断挣扎与探索的过程。他面对着同事们的热情与自己内心的孤独，寻求着真正的自我并考虑接受变性手术的重大决定。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_卧底记者（3）.docx]([变性]_卧底记者（3）.doc
 | Size            | 30298 bytes                           |
 | MD5             | f53497c9c50875768a8df6779f516c69                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 伪娘, 变性, 女性生活, 情感探索, 职场性别问题, 自我认知, 心理挣扎, 性别转换, 荷尔蒙治疗, 婚姻关系, 女性赋权                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

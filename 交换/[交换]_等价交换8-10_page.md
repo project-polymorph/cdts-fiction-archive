@@ -7,7 +7,7 @@ TXT 下载: [[交换]_等价交换8-10.docx]([交换]_等价交换8-10.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇涉及性转与跨性别主题的小说，主要描写了男女主角之间复杂的情感互动和性别身份的转换。故事的主线围绕由志与薇薇安之间展开，作者通过细致的描写展现了由志从一名男子变化为可爱的女性薇薇安的过程，以及这一过程中所经历的身体与心理的重塑。文中提到由志在观察薇薇安的过程中，从她的浴室窥探其娇嫩的身体，表现出强烈的欲望与冲动。随着情节的发展，由志逐渐完成了对薇薇安身体的占有和融合，表现出一种对于性别认同与自我的复杂感受。故事中涉及催眠、强制、身体转换等情节，带有明显的限制级内容，且情感表达较为露骨。通过对这些情节的刻画，作者试图探讨性别、身体和欲望间的交织与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_等价交换8-10.docx]([交换]_等价交换8-10.docx)
 | Size            | 33392 bytes                           |
 | MD5             | 8078c159f485fd79af5ed2abcd0dbb85                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 自我认同, 强制, 身体交换, 性别冲突, 异世界, 奇幻, 幻想文学, 成年内容, 情欲, 心理探索, 文学创作, 二次元文化, 性别多样性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

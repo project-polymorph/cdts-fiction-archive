@@ -7,7 +7,7 @@ TXT 下载: [[附身]_妄想发明：魂枪.docx]([附身]_妄想发明：魂枪
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章名为《妄想发明：魂枪》，是作者于2009年在TGG圣诞区发布的第一篇TSF（变身）小说。该文围绕一个名为阎的小男生展开，他是某大学的生物和哲学教授。阎通过结合自己20年的研究成果，创造出一种名为“魂枪”的道具。这种道具可以提取和灌输灵魂，且具有强烈的科幻色彩。故事开始于阎使用魂枪对一名女性进行实验，试图将自己的灵魂灌输到那名女子身上。通过疯狂的实验，阎成功地将灵魂灌输给女性角色陈菁菁，并以她的身份回到家中。文章包含了多处生动的描写，尤其是在阎接受女性角色的身份后，她在圣诞夜与她丈夫之间的暧昧情节，同时也探讨了性别认同和情感复杂性。作品可能因为涉及较多的成人情节而有一定的争议，但其深度探索了性别转换和自我认知的问题，使之不仅仅是简单的变身小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_妄想发明：魂枪.docx]([附身]_妄想发明：魂枪
 | Size            | 20892 bytes                           |
 | MD5             | e6420cb849d6e36b0578324e53647e92                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2009-12-25                                 |
+| Tags            | 变身, 跨性别, 魂枪, 自我认知, 剖析性别, 科幻, 心理探讨, 女性视角, 情感纠葛, 实验性质                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

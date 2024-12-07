@@ -7,7 +7,9 @@ TXT 下载: [[变装]_我的伪娘史第二季（1）_[.docx]([变装]_我的伪
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了一个关于性别转换与自我认同的故事，主角经历了一次具有挑战性的伪娘特训。在故事开头，主角看到自己的昔日着装，对于自己刚刚经历的角色扮演产生了疑惑。随后，林可的拜访为主角带来了改变，他带来了关于如何化妆与打扮的指导，强调要让主角看起来像豆豆，进行一系列的外观调整。文中详细描写了主角在穿上裙子和进行脱毛过程中的心态变化，包括尴尬与不适，经历自我认同的挣扎。
+
+故事中还穿插了与朋友高飞的互动，以及主角与林可患难与共的友谊。在一次醉酒后的聚会上，他们欢笑嬉闹，展现出轻松愉快的社交氛围，尽管主角面临着来自社会与自我认同的压力。随着情节的发展，主角在学习如何化妆与打扮中逐渐接受自己伪娘身份的可能性，呈现出对性别认同、友谊与自我探索的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_我的伪娘史第二季（1）_[.docx]([变装]_我的伪
 | Size            | 22037 bytes                           |
 | MD5             | 9c10737ffc2503fccada102b5c1b9f02                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 跨性别, 自我认同, 化妆技巧, 友谊, 心理冲突, 生活日常, 角色扮演, 女性形象, 社交恐惧, 情感探索, 二次元文化, 变身小说, 校园生活, 友情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

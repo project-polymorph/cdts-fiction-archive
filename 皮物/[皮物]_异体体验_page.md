@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_异体体验.doc]([皮物]_异体体验.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇异体体验主题的小说，主要讲述了外星生物与人类角色之间的性别转换与身体体验，内容涉及大量带有性暗示的情节。在故事中，角色阿弘和美咲之间的恋爱关系通过一次身体交换达到了新的高度。作者描述了他们在身体宿主间的感官探索，从生理杂交到心理感受的融合，作品内用细腻的笔触展现了二次元世界观中性别认同与生理结构的冲突。包括对性行为的直观描写，如“啊♥就是那里，用力一点♥”以及互相体验与模仿的细节描述，展现了两位主角对人类情感和肉体的深刻理解与沉醉。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_异体体验.doc]([皮物]_异体体验.doc)
 | Size            | 35840 bytes                           |
 | MD5             | a7ea7502db4fc32fb63a4b5d753b1977                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 异体体验, 肉体交换, 恋爱, 二次元, 科幻, 触手, 快感, 自我探索, 女性视角, 强烈刺激, 快感体验, 伪娘, 变身, TSF, 爱情, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交换神符-被夺取的人妻（上）.doc]([交换]_交
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于交换神符的玄幻小说的上部，讲述了主人公林远在校园生活中的一段神秘经历。他在收到一个来自未知来源的神符后，陷入了一场涉及身体交换和面临身份危机的事件。故事开头，林远接到室友关于宿舍被盗的信息，他疑惑小偷的目标是什么。在清理宿舍时，他找到了一个神秘的交换神符，通过他在网络上的一次意外点击而获得。神符声称可以在一定时间内交换身体，并伴随部分记忆的传递。激发了林远的好奇心，让他思考寻求适合的对象进行实验。然而，随即他遇到了一个声称是自己的家教学生的母亲的乞丐，乞丐声称自己是被交换了身体的许婉茹。这一设置让林远陷入了一个复杂的身体交换漩涡，他开始思考如何帮助乞丐找回原来的身体，同时也思索着如何利用神符的力量。文件中运用了多种对话和心理描写来增加情节的张力，探讨了身份认同、身体交换带来的心理冲突及探索欲。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交换神符-被夺取的人妻（上）.doc]([交换]_交
 | Size            | 40960 bytes                           |
 | MD5             | 7f7f5f8ba2e5adf5e6449f37e4f19f31                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 交换神符, 身体交换, 身份认同, 玄幻小说, 校园生活, 自我探索, 奇幻, 性别转换, 纯爱, 神秘事件, 角色心理, 欲望商店, 男女性别角色, 青春, 自我冲突, 超自然现象                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

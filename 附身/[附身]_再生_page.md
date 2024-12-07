@@ -7,7 +7,7 @@ TXT 下载: [[附身]_再生.docx]([附身]_再生.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《再生》讲述了一个名叫卓的角色，他在购买的古老饰物盒中发现了一块神秘的黑色水晶，自此他的梦境中开始出现一个魅惑的恶魔。在追求与恶魔的亲密关系的过程中，卓逐渐被其吸引并卷入了一场魔法与欲望交织的奇幻旅程。小说呈现了卓深陷于梦境与现实交错的状态，同时揭示了他内心对恶魔的渴望和最终的沉沦。随着故事的发展，卓通过黑水晶与魔法阵施法，成功召唤出恶魔，但伴随着召唤的，似乎也有无法预知的代价在等待着他。小说描绘了恶魔的诱惑、肉体的交换与自我认知的挣扎，情节中涉及强烈的情感与欲望的交织，最终将卓引向了不可逆转的命运。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_再生.docx]([附身]_再生.docx)
 | Size            | 21140 bytes                           |
 | MD5             | 731d411dac7158aa2a7e3931b28223ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | kk9700                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 恶魔召唤, 黑水晶, 自我探索, 欲望与沉沦, 异界魔法, 梦境与现实, 生命能量, 身体交换, 诱惑与背叛, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

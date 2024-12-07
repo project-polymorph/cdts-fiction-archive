@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】【幻剑有情·青楼有义】（1-3）.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的档案库之一，名为《幻剑有情·青楼有义》，该文讲述了主角朱洪峰的坎坷命运。在一次意外中，朱洪峰在女娲庙祈祷求助后，灵魂穿越并占据了他意外杀死的妓女周雅欣的身体。故事以他的性别转换为背景，探索了他在新身份下的自我认同以及对复仇的执着。文件中详细描绘了朱洪峰面临的新身份带来的身体变化和心理斗争，以及他在青楼生活的复杂经历。整个情节围绕着情感、身份和对抗的主题进行展开，包含了一些敏感和成人内容，适合进行性别与文化研究。此外，文中涉及多个角色与情节，例如朱洪峰的复仇计划，以及他与妓女身份的冲突与认同等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】【幻剑有情·青楼有义】（1-3）.d
 | Size            | 56832 bytes                           |
 | MD5             | 3f1114dca9a2789ecfc1ea985c0015aa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 青楼, 复仇, 自我认同, 奇幻, 双修, 武侠, 成人内容, 情感纠葛, 女性视角, 真相探索, 身份认同, 血腥复仇, 社会隐喻, 人性考验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

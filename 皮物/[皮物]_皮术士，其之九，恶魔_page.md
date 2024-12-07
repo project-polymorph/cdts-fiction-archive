@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮术士，其之九，恶魔.docx]([皮物]_皮术士，
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《皮物_皮术士，其之九，恶魔》描绘了一个充满阴暗与邪恶的奇幻世界。故事中的角色苏翎在一个名为卡赞村的密室内，与通过身体与精神相互交织的角色丁娜和村长展开了一场复杂的欲望与权力游戏。文中描述了苏翎如何操控他人的皮肤，进行献祭仪式，以获取更加强大的力量与能力。整个村庄内的生物都已沦为其献祭的对象，展现出血腥和病态的美学，揭示了角色内心的暗涩与无情。文中多次提到爱欲与折磨的结合，描绘了一种超越传统道德的角色探索和自我认知的冲突，且最后苏翎意识到自己正在被某种存在操控，成为一场邪神游戏下的棋子。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮术士，其之九，恶魔.docx]([皮物]_皮术士，
 | Size            | 23765 bytes                           |
 | MD5             | 4f831395266d07451ca8999861de9179                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 献祭仪式, 神秘仪式, 爱欲游戏, 权力游戏, 黑暗幻想, 残忍, 自我探索, 邪神, 奇幻,  TSF, 血腥, 皮肤操控, 阴暗心理, 恐怖, 超自然, 魔法, 斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

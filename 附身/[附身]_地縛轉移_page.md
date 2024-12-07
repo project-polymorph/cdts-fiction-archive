@@ -7,7 +7,7 @@ TXT 下载: [[附身]_地縛轉移.docx]([附身]_地縛轉移.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇关于地缚灵附身于好友身体的性转小说，讲述了主人公经历交通事故后，灵魂留在现世，偶然附身在心中爱慕的伙伴身上奈津美的故事。故事开篇描绘了主角对爱恋对象小瑶的思念以及因车祸转世成为地缚灵的情节。随着情节的发展，主角逐渐习惯了通过奈津美的身体生活，见证了她与小瑶日常的互动。主角的灵魂虽然无法直接影响奈津美的生活，但却借此机会了解了小瑶的种种烦恼与秘密。该作品中还描写了许多与青春期性探索相关的内容，包括奈津美私密的自慰场景，突出了性别转换带来的身体体验与心理变化。最终，主人公成功操控奈津美的身体，体验到了作为女性的生理快感，增添了对奈津美的情感，反映了对自我认同与性别认知的复杂探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_地縛轉移.docx]([附身]_地縛轉移.docx)
 | Size            | 54917 bytes                           |
 | MD5             | 4730538b5a4ccd7d86a8b72fe81aff64                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ファンタのコーラ味                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 灵魂附身, 青春, 自我探索, 跨性别, 伪娘, TSF, 青春期, 身体意识, 欲望, 情感发展, 同性恋, 性觉醒, 情感纠葛, 心理冲突, 友谊, 多元性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

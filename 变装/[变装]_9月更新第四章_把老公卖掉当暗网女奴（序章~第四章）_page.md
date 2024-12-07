@@ -7,7 +7,7 @@ TXT 下载: [[变装]_9月更新第四章_把老公卖掉当暗网女奴（序�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于林平和高阳雪的变装与性奴隶的科幻类型小说。林平，一个成功的年轻创业者，表面上是一个成功的男性，而实际上他有着穿女装的秘密。故事围绕林平的女装癖和他妻子高阳雪的一段极限关系展开。她支持林平追寻自己的欲望，甚至建议他在暗网中成为一种性奴。在经历了一系列复杂的心理与生理准备后，林平与高阳雪共同计画将他卖掉，作为一种极端的情欲探索与自我认同的实验。文件内容涉及极具挑衅的性情节，包括女装、性奴、调教等元素，以及对他们心理状态的深度剖析。文章中对暗网的解读、对性奴角色的渴望的描绘，以及两人的互相支持与操控，构成了这个独特而刺激的故事主线。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_9月更新第四章_把老公卖掉当暗网女奴（序�
 | Size            | 44032 bytes                           |
 | MD5             | e172737ee643ef030e44ca884081a973                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 李煌先森                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性奴, 暗网, 调教, 自我探索, 性别认同, 女性化, 强欲, 伪娘, 现代爱情, 跨性别体验, 极限情感, 性交易, 伦理争议, 心理游戏, 性别角色交换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

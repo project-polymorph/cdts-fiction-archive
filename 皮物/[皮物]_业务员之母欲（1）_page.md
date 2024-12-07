@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_业务员之母欲（1）.docx]([皮物]_业务员之母�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为一篇伪娘相关的变身小说，展现了主要角色江心在职场中的挣扎与生活状态。故事开始时，江心受到严厉的经理训斥，面临业绩不佳的困境。他内心充满了无奈与压抑，尽管表面上表现得恭顺，心中却对经理愤愤不平。文章通过对江心心情的描绘，展现了他在职场中的不顺与对自我价值的怀疑。
+
+在回家的路上，江心感到对社会地位的不满，他内心的情绪多次积压到极限。在与母亲的互动中，展现出家庭关系的紧张与代沟。此时一个意外的推销员闯入了他的生活，江心在面对命运的转折时，内心忽然涌现出改变的欲望，并暗示了角色即将进入一个未知的变革之中。文中包含了一些性暗示内容，探讨了欲望与社会压力的交锋。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_业务员之母欲（1）.docx]([皮物]_业务员之母�
 | Size            | 21706 bytes                           |
 | MD5             | 376b03145a0b4b00d3bcba4c4f824735                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 职场小说, 变身小说, 家庭关系, 自我认知, 欲望, 职场压力, 角色转变, 心理斗争, 性别身份, 青春成长, 母子关系, 社会地位, 性转, 情感压抑, 心理小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

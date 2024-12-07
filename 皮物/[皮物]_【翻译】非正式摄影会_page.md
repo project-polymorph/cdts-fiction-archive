@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【翻译】非正式摄影会.doc]([皮物]_【翻译】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档是对名为《非官方摄影会》的伪娘相关小说的翻译，原作由とん太创作，翻译者为Joseta6。文本详尽地描绘了主角富泽浩二在HOBBY 21公司工作两年后的生活，并描述了他与四位美少女人偶进行的一场非正式摄影会的经过。在文中，主角通过秘密的方式联络受邀者，安排与这些美少女们的见面，气氛中混合了性别认同与角色扮演的情感冲突。随文中多次出现的对角色外表和其扮演者在复杂表演服装中的痛苦与快感的描写，揭示了角色与自身性别认同之间的矛盾与探讨。此外，小说还涉及了一些成人向的内容，包括对美少女人偶的外貌和气味的细致描写，以及参与者们的反应与期待，这些都为理解角色的内心世界提供了重要线索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【翻译】非正式摄影会.doc]([皮物]_【翻译】�
 | Size            | 76800 bytes                           |
 | MD5             | 1d58fa9ff406a3278eae9a0d2302b87c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 摄影会, 伪娘, 角色扮演, 人偶服装, 性别认同, 自我探索, 成人内容, 二次元文化, HOBBY 21, 美少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老王的幸福后半生（8）.doc]([改造]_老王的幸
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《老王的幸福后半生（8）》，描写了一位名叫老王的男性与两位女性之间的复杂关系。文中老王身处一个监控设备环绕的环境，面对着他昔日的干女儿齐平之和她的母亲冯木兰的主动撩拨。两位女性的举动令老王感到既美妙又困惑，在强烈的感官刺激和伦理冲突中，他内心不断挣扎。齐平之对老王表达了自己成为他妻子的愿望，而老王在看似无奈的情况下，逐步投入到这场不可逆转的情欲关系中，情节发展涉及性行为、角色间的情感纠结和身体的变化，对性别和性取向的探索也在其中体现。随着情节的深入，老王接受了与这对母女的亲密关系，而文中多次提到的心理斗争与快感交织使得整个故事极具戏剧性和冲突感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老王的幸福后半生（8）.doc]([改造]_老王的幸
 | Size            | 51712 bytes                           |
 | MD5             | 8e58f45a2df84c18fd82b0d0c55b0474                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身小说, 跨性别, 父女恋, 强制性行为, 情欲冲突, 不伦关系, 调教, 成人内容, 女体化, 家庭伦理, 异世界, 奇幻, 魔法, 变态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第二回.doc](《金枝奇缘》第二回.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于人物胡济生的变身幻想故事。在药寮深夜，胡济生穿上了顾茹的粉色衣裙，产生了对她身体的迷恋。文中描写了他对女性衣物的盗窃和对女弟子的窥视，逐渐发展到对女性身体的欲望。这种欲望与他的变态心理交织在一起，推动了情节的发展。随着故事的推进，胡济生开始偷穿其他女弟子的衣物，并试图进行更大胆的行为。当他偷窥到顾茹与黑衣人（朱肥）之间的秘密交流后，发现了顾茹实际上有计划通过服用丹药互换身体的秘密。故事深刻探讨了性别认同、欲望以及自我探索等复杂主题，情节中包含了大量对性行为的露骨描写与生理细节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第二回.doc](《金枝奇缘》第二回.doc)
 | Size            | 39936 bytes                           |
 | MD5             | 222b8686a6244dc6cb775bef135cfc32                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 变态心理, 偷窥, 双重身份, 禁忌之恋, 幻觉与现实, 自我认同, 魔法, 欲望, 性别游戏, 丹药, 换身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

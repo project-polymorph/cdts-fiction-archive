@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_民国奇遇记（二）.doc]([皮物]_民国奇遇记（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品《民国奇遇记（二）》描绘了一段发生在民国时期的奇幻故事。故事围绕两个主要女性角色蒋兰和李红梅，他们在篝火旁观察到一对外国母女，因其靓丽外貌而动心，计划实施一个阴险的计谋：借助皮刀将该外国女性变为可穿戴的人皮。随着情节发展，李红梅成功地将一位性感贵妇的生命夺去，并穿上她的人皮，化身为‘叶莲娜夫人’。作品中充满了性别转换、欲望探索、阴暗的欲望等主题，并伴随有残酷与恶心的情节描写，比如清晰地描绘了受害者死亡后引发的恶心场景，以及角色们对于性幻想和自我认知的挣扎。整体故事以奇幻与恐怖相结合的方式呈现，挑战着传统的性别认同与欲望界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_民国奇遇记（二）.doc]([皮物]_民国奇遇记（�
 | Size            | 46592 bytes                           |
 | MD5             | 8e8fe224bfd8470fec9a8402e2619387                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 民国, 奇幻, 血腥, 欲望, 人皮, 外籍, 异国情调, 女性, 成人, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

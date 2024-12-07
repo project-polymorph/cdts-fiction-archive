@@ -7,7 +7,7 @@ TXT 下载: [[其他]_星耀_第二话_运命觉星之时.docx]([其他]_星耀_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是跨性别与变身小说的一个章节，标题为《星耀 第二话 运命觉星之时》，由作者Rockx3创作。故事围绕主角傅思达展开，他在某个晚上意外发现了教室里一名衣冠不整的女学生，并与其交流时发生了一系列情感纠葛。故事的叙述充满了紧张与暧昧的气氛，傅思达在察觉到这名女孩的不寻常后，试图掩饰自己的好奇并与她展开对话。剧情中还加入了一些幻想元素，特别是关于星耀的觉醒过程，随着主角中原夏希的神秘光芒闪耀，整个情节逐渐向奇幻方向发展，这样的设定给了角色们更深的性别探索和认同感。本文中涉及了强烈的情感波动、性别认同的探索，以及一些暗示性的场景，适合对异性别者和性转题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_星耀_第二话_运命觉星之时.docx]([其他]_星耀_
 | Size            | 23593 bytes                           |
 | MD5             | 14c5ef310813d6bc7898eb145c18222a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rockx3                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 校园, 跨性别, 自我探索, 强光, 幻想, 星耀觉醒, 情感纠葛, 人际关系, 夜晚, 暧昧, 情节紧张, 内心独白, 女性视角, 角色发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

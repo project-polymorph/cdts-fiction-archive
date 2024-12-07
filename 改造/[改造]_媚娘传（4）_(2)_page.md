@@ -7,7 +7,7 @@ TXT 下载: [[改造]_媚娘传（4）_(2).docx]([改造]_媚娘传（4）_(2).d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《媚娘传》（第四折），主要描绘了角色梅良在经历性别转变后的生活情境。故事发生在一个含蓄而深具古典底蕴的环境中，深秋的王府后院，红枫落叶如血，展现出一种浓厚的色彩对比。梅良，此前为男子，现在的形象却变得优雅且脆弱。他躺在软榻上，阳光洒在他的肌肤上，描绘出一种温暖而又挑逗的场景。随着药物的影响，梅良不仅外形上发生了变化，角色的自我认知和身份的转变也引发了内心的冲突。他逐渐接受了自己作为«宫奴»和即将成为«奶娘»的身份。除了生理上的变化，梅良的心理状态也在不断调整，他努力习惯于这一新身份，遇到旧识静慧时，感到既羞愧又欣喜。通过文字的细腻描写，展现出角色的内心挣扎和外部环境的压迫，有浓厚的情感基础，充盈着伤感与期待感的交错。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_媚娘传（4）_(2).docx]([改造]_媚娘传（4）_(2).d
 | Size            | 17315 bytes                           |
 | MD5             | 96677dcc4b2d954aa21a8ece7fc20e25                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 宫奴, 跨性别, 自我探索, 情感冲突, 药物影响, 女性角色, 古代背景, 身份转变, 同性情感, 奴婢生活, 内心挣扎, 宫廷生活, 兄妹情深                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

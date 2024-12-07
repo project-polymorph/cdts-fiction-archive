@@ -7,7 +7,9 @@ TXT 下载: [[附身]_新春福利之异种（一）.docx]([附身]_新春福利
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《异种（一）》是一部包含强烈幻想色彩和无限可能性主题的小说，以现代都市背景为基础，叙述了一群上班族在年底公司旅游中的奇遇。故事伊始，公司老总出乎意料地宣布不需加班，并计划选出员工代表前往欧美旅游，但此举暗含剥削意图。一方面，员工们对这一安排感到不满和愤慨；另一方面，主角于诚由于与老总的儿子有旧识而幸运入选，与其死党汪家卫一起踏上了国际旅游之旅。
+
+小说在描写旅游过程中豪华宴会的热闹场景及角色们的心理活动时，插入了厄运的铺垫，尤其是在他们遇到神秘敌对势力时，情节发展突如其来，展现出角色性格的冲突和转变。在对话中，通过汪家卫醉酒后的失态，展现出青年男性的性幻想与幽默，营造出轻松却又暗含紧张的氛围。至于情节的后半部分，角色们面临怪异生物的袭击，带有强烈的悬疑和惊悚元素，预示着他们将在异国他乡遭遇不可思议的遭遇。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_新春福利之异种（一）.docx]([附身]_新春福利
 | Size            | 27829 bytes                           |
 | MD5             | d0a8448c253b0405c518a3c17d4fb09a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 幻想, 异能, 都市小说, 旅游, 公司文化, 幽默, 惊悚, 超自然, 男性向, 角色转变, 友情, 冒险, 悬疑, 伪娘, 变身, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

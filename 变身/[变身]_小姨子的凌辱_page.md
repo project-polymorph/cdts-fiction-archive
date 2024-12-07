@@ -7,7 +7,7 @@ TXT 下载: [[变身]_小姨子的凌辱.doc]([变身]_小姨子的凌辱.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇改编的短篇小说，叙述了一个复杂的同性恋爱情故事。故事的主角在一家PUB与朋友聚会时，与名为陈刚的年轻人相识。随着情节的发展，主角发现陈刚的妹妹千惠对他产生了不同寻常的兴趣，并计划用极端的方式来报复她的哥哥。小说通过细腻的笔触描绘了人物之间复杂的情感纠葛，以及在醉酒状态下到达的出人意料的情境。主角在房间里突然失去意识，醒来发现自己被绑住，周围充满着不安的气氛。在此过程中，陈刚因某种原因改变了性别，变成了一位女性，而整个事件的背后则是一场阴谋，尝试揭示了更深层的情感与权力关系。这篇小说不仅涉及了性别转换和异性恋与同性恋之间的复杂关系，还深入探讨了自我认同及克服社交界限的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_小姨子的凌辱.doc]([变身]_小姨子的凌辱.doc)
 | Size            | 47104 bytes                           |
 | MD5             | fba0a4c028e0ad698637eb1a93c6d6b2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 同性恋, 性转, 情感纠葛, 阴谋, 醉酒, 自我认同, 性别认知, 情欲, 苦涩的爱情, 年轻人, PUB文化, 复杂的情感关系, 极端报复                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

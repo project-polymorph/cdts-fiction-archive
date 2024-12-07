@@ -7,7 +7,7 @@ TXT 下载: [[变身]_哈利波特与翡翠女巫的诅咒_第九章.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《哈利波特与翡翠女巫的诅咒》的第九章，描绘了霍格沃茨城堡内一场激烈的战斗。故事中，城堡里的学生们与被邪恶魔法感染的石像骑士作斗争，情节紧张刺激，描写了多位角色的战斗情况与心理变化。文件开头描述了麦格教授与斯普劳特教授的拼搏，随后金发女孩德拉科·马尔福变身为女孩阿丽斯，展示了激烈的战斗场面和角色间的对话。阿丽斯与邓布利多、斯内普的对抗将故事推向高潮，尤其是斯内普的死亡，令邓布利多陷入极度的悲痛与恐惧之中。整个章节充满了幻想战争的暴力美学，展示了角色间复杂的关系与情感，涉及自我认知及性别认同等主题。这一章节的情节紧凑，引人入胜，展现了魔法世界的黑暗与光明的对抗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_哈利波特与翡翠女巫的诅咒_第九章.docx]([变�
 | Size            | 22013 bytes                           |
 | MD5             | ffb1dc7fab7e7abd762f57b2ea0b2939                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 魔法, 城堡战斗, 自我认知, 邓不利多, 斯内普, 阿丽斯, 角色转变, 学生们的勇敢                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_绝妙的假期（申码文）.docx]([其他]_绝妙的假
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档展示了一段关于小叶和她的大发明家先生之间轻松幽默对话的情节，涉及了他们的假期计划。小叶充满期待地询问如何度过假期，而大发明家则答应要让她尝试一种新研制的道具，尽管他警告她这一设备主要是为了医疗用途。文本中描述了他们的互动，表现出小叶的顽皮与依赖，尤其是在信用与美味食物之间的挣扎。随着情节的发展，他们前往实验室进行相关的清洁与准备工作，探讨了一些更为私密的主题，如身体改造、性别认同等。这段故事不仅展示了二人之间的温暖与互相理解，同时也深切触及了性别与身体认同的更多复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_绝妙的假期（申码文）.docx]([其他]_绝妙的假
 | Size            | 28114 bytes                           |
 | MD5             | 1829f8c881320781826c833992854e0b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 实验室, 轻松幽默, 医用设备, 自我探索, 爱情, 身体改造, 新陈代谢抑制剂, 校园恋情, 反传统, 奇幻色彩, 温馨互动, 科技幻想, 二次元生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

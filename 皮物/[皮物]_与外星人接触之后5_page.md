@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_与外星人接触之后5.docx]([皮物]_与外星人接�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一个涉及变身与外星人接触的奇幻故事。故事的主角通过外星人特殊的手机系统接收了一条信息，了解到一名杀人魔偷走了外星人的物品，并被外星人要求惩罚此人。主角虽然感到惊恐，但还是决定接受这个任务以确保自身安全。在故事中，描述了外星人给予主角的纳米机器人和高级手机系统，如何在这些科技的帮助下进行身体的变身和复制。故事的基调是对角色性别和身体形态的探索，伴随着性别认同和自我意识的冲突。随着情节发展，主角面对的道德和心理压力逐渐增加，尤其是在复制出理想对象的过程中所遇到的挑战与诱惑，流露出对身体与欲望的深刻思考。文中涉及了变身、性别化以及纯爱、性幻想等主题，内容丰富而具有探索性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_与外星人接触之后5.docx]([皮物]_与外星人接�
 | Size            | 25816 bytes                           |
 | MD5             | bfbd4d177c1945deee12cbeac78d0921                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 外星人, 纳米机器人, 性别认同, 欲望探索, 科幻, 虚拟现实, 身体变换, 情色, 跨性别, 强奸, 杀人魔, 科技幻想, 角色扮演, 心理冲突, 性幻想, 男性视角, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

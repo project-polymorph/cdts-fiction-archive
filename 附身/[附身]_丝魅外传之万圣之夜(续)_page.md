@@ -7,7 +7,7 @@ TXT 下载: [[附身]_丝魅外传之万圣之夜(续).docx]([附身]_丝魅外�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为伪娘TS变身主题的小说，背景设定在一个温暖而又糜乱的聚会现场，描绘了角色在经历性别转换后，与美丽的女性交织在一起的复杂体验。故事以第一人称视角呈现，主角在转变成女性的身体后，感受到与自己性别认同的冲突，以及与其他女性角色的交互中获得的探索与享受。小说开始于一个充满诱惑和兴奋的聚会场景，随着角色的体验深入，展现了关于性别认同、自我探索及肉体快感的冲突描写。“我很享受这个状态，但可不能接受凹凸的事情，” 通过生动的描写，展现出角色心理上的挣扎与身体上的快感交织在一起的复杂情感。随着故事的发展，角色回归本体后，对身份的不确定性与对变身经历的反思，也为整体故事增添了一层深意。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_丝魅外传之万圣之夜(续).docx]([附身]_丝魅外�
 | Size            | 20411 bytes                           |
 | MD5             | 670b00c956256d7cd032f6e37e622001                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 心理冲突, 伪娘, 变身, 青春, 二次元, 夸张表现, 肉体关系, 幻想, 强烈情感, 美丽, 聚会, 角色扮演, 情欲, 青春悸动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

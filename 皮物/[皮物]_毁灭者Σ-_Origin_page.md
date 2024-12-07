@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_毁灭者Σ-_Origin.docx]([皮物]_毁灭者Σ-_Origin.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《毁灭者Σ- Origin》是一部科幻类型小说，围绕着神秘的宇宙魔魇称为‘毁灭者’展开。该作品描绘了一个充满神秘与恐怖的宇宙，‘毁灭者’以其无与伦比的毁灭能力，而被众多文明所忌惮。故事开篇提到，‘毁灭者’的来历并不明确，传闻其为灰色审判团的最高领导者，然而这一说法却遭到否定，其恐怖的历史也伴随着无数文明的毁灭。 
+
+在故事的发展中，另一条主要线索揭示了某位高阶女性角色，洁董事长的焦虑与不安，显示出她与‘毁灭者’及一个邪器的追查有关。随后的情节切换至一户人家，在夜晚中逃亡，展现了人类面对强大势力时的绝望与无奈。场景中穿插着充满戏剧性的冲突和枪声，表现出对生存的渴望与对命运的抗争。最后，少年在经历一系列悲剧后，似乎被卷入了黑洞，留下悬念。 
+
+整个故事探讨了权力、绝望与生存的主题，结合了科幻元素与人性的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_毁灭者Σ-_Origin.docx]([皮物]_毁灭者Σ-_Origin.doc
 | Size            | 17582 bytes                           |
 | MD5             | 13cc411d0c7033e4e05abd5dace96359                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 恐怖, 宇宙, 权力斗争, 生存, 人性, 绝望, 逃亡, 女性角色, 黑洞, 毁灭者, 邪器                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

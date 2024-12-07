@@ -7,7 +7,7 @@ TXT 下载: [[变身]_突然变女的我绝不会成为RBQ_（7）.doc]([变身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容主要围绕男女主角袁修和罗甜甜之间的情感纠葛与生理变化。故事的核心在于主角袁修经历了性别转变，从男性变成女性，与女友罗甜甜之间的关系变得复杂。一方面，袁修需要面对作为女性的生理现象，比如月经和乳汁的分泌，以及与室友之间因性别转变引发的误会；另一方面，二人之间因性别角色的转变，产生了对彼此的探索与调情，充满了暧昧和尴尬。文中使用了诸多情节和细节描绘了女身的心态与生理感受，例如：袁修在经历生理变化后的心理挣扎，流露出对自己身体反应的困惑和疑问，同时也有与罗甜甜的温馨互动，表现出一种新奇且甜蜜的恋爱体验。整篇小说情节紧凑，充满戏剧性，描绘了两位角色在此过程中对自我认同与情感认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_突然变女的我绝不会成为RBQ_（7）.doc]([变身]
 | Size            | 45568 bytes                           |
 | MD5             | 52d0c798d60d7de14651a829382ee486                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别故事, 生理变化, 情感纠葛, 女频小说, 变身, 女性成长, 月经, 亲密关系, 二次元, 温馨互动, 少女心                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

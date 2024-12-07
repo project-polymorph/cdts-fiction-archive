@@ -7,7 +7,7 @@ TXT 下载: [[变装]_大毒枭_第四章.docx]([变装]_大毒枭_第四章.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别小说《大毒枭》第四章的内容，描绘了一系列角色性别认同与转变的情节。故事围绕角色八孔和一个名叫谭孟伟的男性展开。他们在毒品勾当中进行复杂的权力斗争，同时涉及伪装与性别转换的主题。章节中提到八孔负责金三角的毒品货源，而主人公则计划与哥伦比亚的大毒枭接触以求转机。情节中提到了汉娜、阿冰和赛义姆等多个角色，并展示了他们在权力与性别认同之间的矛盾与冲突。例如，阿冰尝试适应高跟鞋，为将来的性别转换生活做准备；同时，赛义姆与教授的互动则揭示了关于毒品提纯的技术与道德的探讨，暗示了人际关系中的操控与真实身份的挣扎。核心情节集中在权力游戏与个人身份之间的拉扯，使故事层次更加丰富。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_大毒枭_第四章.docx]([变装]_大毒枭_第四章.doc
 | Size            | 21624 bytes                           |
 | MD5             | 99741f271704cc35f972a936fbe2c9ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 毒品交易, 变装, 伪娘, 权力斗争, 角色转换, 性别变化, 社会问题, 自我探索, 男子气概与柔弱, 自我认知, 心理冲突, 邪教, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

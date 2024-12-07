@@ -7,7 +7,7 @@ TXT 下载: [[改造]_成为美熟妇1、2.doc]([改造]_成为美熟妇1、2.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别小说，描绘了主人公小杰的变身经历。故事从一个普通大学生的视角切入，讲述了他如何穿上女性衣物来探索自己的性别认同。小杰在某次意外中收到了神秘邮件，邮件中声称可以实现他的愿望，变成他崇拜的舅妈小玉，随后他在夜晚的车站与一个神秘组织接触而进入了一个充满幻想和危险的境地。故事中充满了对自我认同的挣扎，性别模糊的情节，以及与女性角色的复杂互动。文件具体描绘了小杰对变身后的身体的探索与感受，包括对美熟妇形象的魅惑和自身身份认同的纠结。情节涵盖了强烈的性暗示、诱惑和变装的主题，是一部充满成人内容的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_成为美熟妇1、2.doc]([改造]_成为美熟妇1、2.do
 | Size            | 88576 bytes                           |
 | MD5             | 19986fd0dd06c9985c53e75097f891c9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 默默不语                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-11-15                                 |
+| Tags            | 变身, 跨性别, 性别认同, 伪娘, 美熟妇, 女性化, 自我探索, 性幻想, CD文化, 成人内容, 欲望, 禁忌恋, 奇幻, 心理冲突, 成长, 抽象文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

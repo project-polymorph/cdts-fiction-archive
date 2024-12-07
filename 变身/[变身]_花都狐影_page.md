@@ -7,7 +7,7 @@ TXT 下载: [[变身]_花都狐影.doc]([变身]_花都狐影.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《花都狐影》是一部围绕性别转换与令人沉迷的情感纠葛展开的小说。故事以第三人称叙述，一开始主人公在经历了一段神秘的长时间沉眠后苏醒，发现自己正处于一个陌生的环境。作者以非常细腻的笔触描绘了角色的内心世界和性别认同的冲突，首先由一名具备狐妖血统的男性转化为女性的故事情节。 书中涉及到的情节包括主角通过附身术转化身体与他人发生关系，伴随着对自身身份的迷茫与挣扎，探索者的欲望与法力逐渐得以恢复，在这个过程中又不乏轻松幽默的对话，角色互动幽默而又不失激情。小说深入探讨了冲突的欲望与道德界限，并聚焦于传统观念与现代社会间的碰撞。书中包含多个极具挑战性的情节，比如性别角色的颠覆、附身术的使用等，为角色带来了不可避免的心理变化。整部作品结合了变性、附身以及法术等元素，营造出一个既奇幻又贴近人性探索的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_花都狐影.doc]([变身]_花都狐影.doc)
 | Size            | 105472 bytes                           |
 | MD5             | 09eb98a02c234045d4d48f590a2918ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 狐妖, 附身术, 魔法, 欲望, 自我认知, 校园, 幻想, 情色, 超能力, 二次元, 强奸, 少女性爱, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

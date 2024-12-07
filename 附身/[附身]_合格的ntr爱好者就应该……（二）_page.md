@@ -7,7 +7,7 @@ TXT 下载: [[附身]_合格的ntr爱好者就应该……（二）.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一个关于性转变身的小说，讲述了一位男主角在一次意外中灵魂穿越到了他的前女友陆羽的身体中。故事开篇，主角在新身体中的第一时间感受到不适，胸前的胀痛和变身后的女性形象令其震惊不已。在逐渐适应身体变化的过程中，主角发现自己不仅外在已经成为女性，连内心的情感和欲望也开始变化。小说详细描写了主角在女友的身体里所经历的各种性幻想、身体探索、及对之前恋爱的思考与反思，涉及到的情节有ntr（寝取られ）、饮尿、调教与痴女情节，给读者带来了强烈的视觉与心理冲突，以及对性别认同的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_合格的ntr爱好者就应该……（二）.doc]([附身
 | Size            | 38912 bytes                           |
 | MD5             | 3fdbdea899ec7c37157b88c0d24fa2a2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, ntr, 调教, 痴女, 变身, 自我探索, 青春, 校园, 情感纠葛, 身份认同, 性别认同, 变嫁, 强奸, 逆后宫, 幻想, 近亲相奸, 深夜, 梦境, 男性视角, 女性身体, 性饥渴, 爱情, 禁忌, 心理变化, 情感背叛, 精神穿越, 短篇小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

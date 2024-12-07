@@ -7,7 +7,7 @@ TXT 下载: [[附身]_恐怖微信群_第五章.docx]([附身]_恐怖微信群_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部跨性别和性别转变主题的小说，具体为第五月章，讲述了角色吕仁通过某个微信群的任务体验跨性别的过程。故事中，吕仁与胡小月等朋友的对话展开，透露出对任务的紧张与不安。吕仁通过一系列的事件逐渐体验到身为女性的感受，同时探索了义骸（仿生体）的性质与功能。文件中详细描绘了吕仁在变身过程中与周围人物的互动以及他对自己新身体的感知，尤其是对性感特征的意识形成。他尝试在虚拟任务与真实自我之间进行周旋，对身份的探索和对身体的认同困惑展现出深刻的心理挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_恐怖微信群_第五章.docx]([附身]_恐怖微信群_�
 | Size            | 21803 bytes                           |
 | MD5             | 2681028834a6c7ac2f36def868e332a0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 异空间任务, 伪娘, 变身小说, 自我探索, 心理挣扎, 群聊对话, 性别转换, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

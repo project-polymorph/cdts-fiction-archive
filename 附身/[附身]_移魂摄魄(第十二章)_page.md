@@ -7,7 +7,7 @@ TXT 下载: [[附身]_移魂摄魄(第十二章).doc]([附身]_移魂摄魄(第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关小说的一部分，主要讲述了唐飞鸿在商业区偷拍女孩的情境，以及他通过分魂术控制多名女性的淫靡场景。故事中，唐飞鸿描述了街道上的年轻女孩、他的偷拍行为及其心理状态，表现了他作为一名“资深变态”的丑陋欲望。在一段不堪入目的描写中，他和名为徐萌萌的女性发生了激烈的性行为，同时他对女性的身体进行掌控，展现出强烈的性侵色彩。随着故事的发展，他和女性的关系愈发紧密，这不仅涉及身体的交合，还涉及控制与奴役的心理冲突。此文本包含了大量的露骨和令人不适的情节，尤其是与性行为及其认同相关的主题，涉及性别认同、自我探索等社会问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_移魂摄魄(第十二章).doc]([附身]_移魂摄魄(第�
 | Size            | 33280 bytes                           |
 | MD5             | e8ae0adef6d6df04e9e6df346fc204f9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 伪娘, 男娘, 变身, 偷窥, 淫乱, 强制, 多元性别, 灵魂控制, 强奸, 乱伦, 调教, 吸收能力, 奴隶制, 精神控制, 色情内容, 自我认同, 女性视角, 恶趣味, 变嫁, 女体化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

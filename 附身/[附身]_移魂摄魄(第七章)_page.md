@@ -7,7 +7,7 @@ TXT 下载: [[附身]_移魂摄魄(第七章).doc]([附身]_移魂摄魄(第七�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是有关一位主角进行灵魂附身的故事，讲述了他如何在医院内找到了李娟的老师，并计划通过控制多个身体实现自己的目的。故事中涉及了许多关于灵魂转移和身体控制的元素，主角在进行灵魂附身的过程中，注意到了自己的灵魂强度提升，并计划通过药水使他人对自己忠诚。文中除了细腻的心理描写外，还有对身体控制和变身技术的细致阐述，同时涉及一些伦理及灰色的道德议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_移魂摄魄(第七章).doc]([附身]_移魂摄魄(第七�
 | Size            | 35840 bytes                           |
 | MD5             | ba946305109f0c1745469197fcd31398                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 灵魂转移, 变身, 身体控制, 暗黑奇幻, 操控他人, 心理斗争, 药物影响, 多重身份, 阴暗故事, 青春, 超能力, 伦理挑战, 二次元, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_不定型4-.doc]([皮物]_不定型4-.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件内容来自《不定型》系列的最后一章，涉及到了跨性别与性别模糊的主题，描绘了角色间复杂的情感与生理关系。故事围绕着人物张宏及其家人的情感纠葛展开，尤其是焦点放在张宏的妻子王岚及其女儿之间的关系上。情节呈现了一场围绕着背叛与欲望的戏剧，张宏因对家庭的不忠而受到惩罚，妻子与女儿深陷困境。王岚虽然在表面上努力维护家庭，但内心的挣扎与现实状况的扭曲暴露出其对性别与身份认同的思考。这篇文章的另一重要角色为假扮成女儿的李明成，他的出现引发了王岚与其生理与心理上的强烈冲突。文中包含一些关于性行为的详细描述，突显了角色对自身欲望与情感的复杂追求，并探讨了母女角色之间的禁忌关系。这是一篇集情色与情感复杂性于一身的作品，真正反映了多元性别与身份之间深刻的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_不定型4-.doc]([皮物]_不定型4-.doc)
 | Size            | 38400 bytes                           |
 | MD5             | 2acf8c0b8b3d58d3658f1147601e9517                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 家庭背叛, 禁忌关系, 情感纠葛, 欲望, 性别认同, 伪娘, 男娘, 肉欲, 药物影响, 奇幻, 恶魔, 女性视角, 欺骗, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

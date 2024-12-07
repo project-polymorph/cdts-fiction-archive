@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_工藤新一的愉悦2+3.doc]([皮物]_工藤新一的愉�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《工藤新一的愉悦（第二章 + 第三章）》是一部围绕《名侦探柯南》中主角工藤新一和灰原哀所展开的性转与变身主题的小说。故事开始于工藤新一在打败黑衣组织的最终BOSS后，获得了让自己变成小孩的神秘胶囊的解药。故事情节充满了悬疑与情感的紧张，工藤新一因失去了一段记忆，感到心中有种无名的期待。此后，他被描绘在灰原哀的住处，渐渐陷入奇妙的心理和生理的变化中。小说中展开了工藤新一和灰原哀之间微妙且激烈的关系，甚至涉及到身体的双重意识与欲望的探索。文本中涉及到生动且细腻的情感描写，尤其是双方身体的互动，呈现出一种强烈的情色氛围。例如，工藤新一因对灰原的吸引而情不自禁的一面，以及与灰原之间的几次身体接触，尤其是当他不得不面对内心的冲突和欲望时，加剧了情节的紧张感。此后，另一段情节中工藤新一回到家，却意外地遇到了两个一模一样的工藤有希子，陷入新的危机与对峙，进一步引发剧情的发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_工藤新一的愉悦2+3.doc]([皮物]_工藤新一的愉�
 | Size            | 43520 bytes                           |
 | MD5             | 3d56667970351a84aecb0a4420baf5c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 伪娘, 工藤新一, 灰原哀, 跨性别, 情感冲突, 自我探索, 双重身份, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

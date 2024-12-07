@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《进击的勇者》第一章（吐槽向）.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《进击的勇者》第一章以轻松幽默的语调讲述了一个关于勇者与魔物的奇幻冒险故事。故事的背景设定在一个名为勇者大陆的地方，主角赫劳鲁安与其同伴欧德曼面对强大的魔像 Roushan （Lv180）时展现出勇者的风采。在胜利打败魔像之后，二人在探索过程中意外发现了一个可爱的银发萝莉，她对勇者手中的剑有着深刻的了解，显得神秘而引人入胜。整篇故事通过轻松的对话与奇特的角色设定，深入探讨了角色之间的互动与冒险，同时带有一些对二次元文化的调侃。文本中夹杂幽默的描述与夸张的情节，吸引了大量读者的关注。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《进击的勇者》第一章（吐槽向）.doc]([变身
 | Size            | 63488 bytes                           |
 | MD5             | 8b48640a8fadcf2f7b23d526049611fa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 勇者, 魔物, 冒险, 幽默, 幻想世界, 兽耳角色, 萝莉控, 道具, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

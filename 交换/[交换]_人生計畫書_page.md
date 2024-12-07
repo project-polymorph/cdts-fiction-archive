@@ -7,7 +7,7 @@ TXT 下载: [[交换]_人生計畫書.docx]([交换]_人生計畫書.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件内容描述了一位名叫沙原结菜的17岁少女因赌博而陷入绝望的经历。她因小赌怡情而逐渐沉迷，最终被迫参与一场高风险的赌局。在赌局中，她本应获得的胜利却接连失利，最后不得不以自己的人生作为筹码接受惩罚。故事在古色古香的房间中展开，结菜在高档赌桌旁与一名优雅男士进行对话，面临着巨大的压力和选择。随着赌局的深入，她的手牌不断被变更，反映出她的无力和绝望。最终，她被迫进入一个培育槽，成为一场人体实验的牺牲品。文章中直接描写了她的羞耻、绝望与对未来的无助，该文本包含了较强的奇幻与心理描写，以及跨性别与变身的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_人生計畫書.docx]([交换]_人生計畫書.docx)
 | Size            | 58382 bytes                           |
 | MD5             | 27098313db3a1bf11bb75440eaf30fcb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 绝望, 赌博, 变身, 奇幻, 少女, 心理斗争, 人体实验, 戏剧性冲突, 自我牺牲, 戏剧情节, 高风险赌局, 变嫁, 伪娘, 转变, 性别转换, 情感纠葛, 成人内容, 选项与结果, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

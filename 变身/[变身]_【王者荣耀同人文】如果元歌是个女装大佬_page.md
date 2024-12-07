@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【王者荣耀同人文】如果元歌是个女装大佬.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇基于《王者荣耀》游戏的同人小说，题为《如果元歌是个女装大佬》，由作者宅路人创作。故事围绕项羽与虞姬之间的互动展开，描绘了他们在激烈的游戏战斗后的情感交流。作品中，元歌使用伪装技能变成虞姬，企图对项羽进行袭击，但最终被项羽识破。故事情节包含了角色之间的亲密关系与对抗，以及对彼此身份的错认。作品虽以轻松幽默的形式呈现，但却融合了伪娘与变身的元素，展现了丰富的二次元文化风格。内容涉及性暗示与色情情节，通过对角色之间的调侃来增添戏剧情趣。整篇小说通过对话与描述充分展现了角色的特征与矛盾，令人印象深刻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【王者荣耀同人文】如果元歌是个女装大佬.
 | Size            | 34304 bytes                           |
 | MD5             | a800f447ad6bb7b49e9db0ea3a12bc76                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 王者荣耀, 同人文, 跨性别, 视觉小说, 角色扮演, 性别认同, 爱情, 游戏, 戏剧冲突, 青春, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魂不守舍_1-18.doc]([附身]_魂不守舍_1-18.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于现代校园的变身跨性别小说，主要讲述了主人公刘越的奇幻经历。刘越是一名普通的本科大二学生，在一次意外中获得了一个能够短暂附身于异性身体的咒语。故事从他在女厕所中试验这一能力开始，描绘了他在转变过程中内心的懵懂与兴奋。随着故事的展开，刘越逐渐认识到这种能力对他人生的影响，也涵盖了一些关于性别认同、自我探索等主题。此外，该文件包含了一些限制级内容，涉及对多位女性角色的细致描写，包括对身体特征和情感状态的描述，展现了一种对性别和欲望的探索。在这些情节中，主人公表现出既渴望又困惑的感受，使其心理变化颇具戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魂不守舍_1-18.doc]([附身]_魂不守舍_1-18.doc)
 | Size            | 150016 bytes                           |
 | MD5             | 205eafdff8910ed1347a645b9a0a87e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 逗破苍天                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-04-19                                 |
+| Tags            | 变身, 跨性别, 伪娘, 校园, 奇幻, 自我探索, 性别认同, 强烈愿望, 年轻人的烦恼, 女性视角, 青春, 心灵成长, 情感纠葛, 异性附身, 刺激冒险, 性探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

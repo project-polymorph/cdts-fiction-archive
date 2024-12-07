@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_肖恩的周末.doc]([皮物]_肖恩的周末.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘变身与跨性别主题的小说，讲述了主人公肖恩在一个皮物租赁店的奇幻经历。故事开始时，肖恩对于手中的肉色服装表示怀疑，然而店长的鼓励让他决定试穿。在穿上的过程中，肖恩的身体发生了奇特的变化，最终变成了一位年轻漂亮的亚裔女孩——美进。小说描绘了肖恩从一个内向瘦弱的男孩转变为充满魅力的女性，并体验了她的新身体带来的种种快感。随着情节的发展，肖恩以“美进”的身份与室友帕特里克的互动引发了一系列富有性暗示的情境，揭示了性别认同、自我探索以及角色扮演等主题。结尾部分，肖恩在临近的派对中即将展开一段新冒险，充满期待和不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_肖恩的周末.doc]([皮物]_肖恩的周末.doc)
 | Size            | 43008 bytes                           |
 | MD5             | df75923d552802d795f096d956269953                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | lissa (译者：bobby456)                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 性别认同, 青春探索, 性欲, 角色扮演, 都市, 成人特征, 奇幻, 性转小说, 肉色服装, 自我认知, 性别角色, 性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

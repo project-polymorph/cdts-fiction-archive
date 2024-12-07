@@ -7,7 +7,7 @@ TXT 下载: [[附身]_天地传说之圣眼1——9（未完）.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了名为《天地传说之圣眼》的虚构小说，故事背景设定在远古时期，讲述了一个名叫巫后的女神与其法宝圣眼之间的传奇。巫后作为蛮荒女神，手持圣眼，守护南蛮大地，随着时间的推移，南蛮各部在巫后的庇护下逐渐强大，直到天地元气发生混乱，众神被迫逃离。为了保护南蛮，巫后留下了圣眼，但最终圣眼在混乱中丢失。故事也描写了现代五个年轻人在云南临沧探险的情节，探寻过程中意外发现了与圣眼相关的秘密。在探险中，参与者经历了刺激与和谐的互动，并在精神层面上探讨了欲望与自我认知的主题。随着故事的发展，人物逐渐面临着更大的挑战与抉择。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_天地传说之圣眼1——9（未完）.docx]([附身]_�
 | Size            | 43036 bytes                           |
 | MD5             | fdb49306290d3c4976c33d0050df2f55                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 奇幻, 探险, 自我认知, 欲望, 神话, 英雄, 历史文化, 悬疑, 现代与古代交替, 灵异, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

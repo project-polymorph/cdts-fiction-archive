@@ -7,7 +7,7 @@ TXT 下载: [[附身]_某附身的心理掌握（1）.docx]([附身]_某附身�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕一个在学园都市追求超能力的青年展开，他在这里度过了六年，努力提升自己，但一直未能成功。主人公的家庭关系紧张，特别是与母亲的关系，带有一种被忽视和渴望认同的情感。面对父母的要求，他感到愤怒和无奈，选择了独自面对生活。故事中描绘了他的孤独生活、对超能力的向往，以及他在一次意外中接触到的可能让普通人获得能力的"幻想御手"的都市传说。当他期待自己的梦想实现时，却意外地遭遇了停电，留下了悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_某附身的心理掌握（1）.docx]([附身]_某附身�
 | Size            | 27942 bytes                           |
 | MD5             | b3ad5a2c3a48f0fa97f834ee61f5ca6b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 超能力, 学园都市, 孤独, 母子关系, 都市传说, 自我探索, 梦幻, 自我认同, 成长, 心理描写, 逆袭, 幻想, 强烈的情感冲突, 青少年, 努力, 友情, 打工生活, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

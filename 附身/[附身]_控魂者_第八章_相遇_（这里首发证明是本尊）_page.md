@@ -7,7 +7,7 @@ TXT 下载: [[附身]_控魂者_第八章_相遇_（这里首发证明是本尊�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为附身小说《控魂者》第八章，情节围绕主角陈林在变性后的生活展开。故事开始于陈林因未带钱包而遭遇出租车司机的骚扰，表现出他在女性身份下的无奈与愤怒。随后，陈林抵达医院，却由于外貌引起护士的调侃，面对的是对自身性别认同的困惑与挑战。在与护士的互动中，陈林发现自己拥有某种控制他人的能力，能够短暂控制他人的行动并产生幻觉。通过不断的试探和尝试，陈林体验到这种能力的趣味与风险，并在随后的情节中逐渐接受自己的新身份，开始对父亲和自己的人生有了新的认识与感悟。故事情节穿插着对性别认同的思考，同时也揭示了家庭关系的温暖与理解，对陈林的转变进行深度刻画。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_控魂者_第八章_相遇_（这里首发证明是本尊�
 | Size            | 19470 bytes                           |
 | MD5             | 74be3cda46f7bb374c538b8c74ae0dde                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 变身, 跨性别, 性别认同, 情感纠葛, 医院, 自我探索, 能力觉醒, 家庭关系, 女生, 护士, 强奸, 骚扰, 虐待, 控制他人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

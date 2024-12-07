@@ -7,7 +7,7 @@ TXT 下载: [[变身]_男子高中生變成了魔法少女（5-6）.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于变身的小说，主要叙述了一名男子高中生在经历神秘事件后，变身为魔法少女的故事。小说中描绘了主角在变身后的身体体验与心理变化，充满了关于性别认同与自我探索的主题。主角在初次变身时感受到的身体变化带来的不适与羞愧，如“心里……每跑一次，就会以很大的速度摇晃”，同时，也展示了他逐渐适应这种新身份的过程。故事中包含了魔法少女与怪物之间的战斗，以及对变身能力的不同理解和运用，体现了成长与责任的主题。随着情节的发展，主角不仅要面对外部的敌人，还要克服内心的困扰与自我认知的冲突。整体上，该作品具有一定的情节紧张感与内心戏，文字风格符合二次元文化的特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_男子高中生變成了魔法少女（5-6）.doc]([变身
 | Size            | 50688 bytes                           |
 | MD5             | ddab60edc46b06e36fc2451e58cf7208                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 7018988（P站ID）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法少女, 男子高中生, 性别认同, 自我探索, 超能力, 二次元, 冒险, 成长, 怪物战斗, 身体意识, 心理冲突, 魔法, 青春, 幻想, 强烈的情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

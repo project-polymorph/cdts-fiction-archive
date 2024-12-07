@@ -7,7 +7,7 @@ TXT 下载: [[变身]_水晶珍珠_[.docx]([变身]_水晶珍珠_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕一个在古宅工作保安的小徐展开，他在担任古宅的保安期间，渐渐发现古宅内的秘密。珍姐是古宅的主人，她要求小徐严格遵守规矩，并警告他绝对不可进入后院。小说中多次提到古宅内的哭声，以及不断被送入古宅的女人，却没有一个人见过她们从里面出来。小徐在一次次的刺激和好奇中，无法抑制心中的疑惑，最终他不得不搬进古宅，接替小马的职位。在古宅的探秘过程中，小徐遇到了一个被硫酸毁了面容却却美丽动人的女人刘静，这让他对其背后的真相更加着迷。整个故事充满了悬疑和心理斗争，点滴揭示出人性的复杂与扭曲。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_水晶珍珠_[.docx]([变身]_水晶珍珠_[.docx)
 | Size            | 29002 bytes                           |
 | MD5             | 3848c9c166d5a7c1ea5ea340678ab2bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 古宅, 悬疑, 变身, 保安, 珍姐, 女性角色, 自我探索, 隐藏的秘密, 哑巴角色, 情感纠葛, 恐怖, 神秘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】三、洗髓易形.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部涉及变身与跨性别题材的小说，标题为《在下盗圣，有何贵干》，内容围绕人物楚飞和明月宫主的斗争展开。故事中楚飞在与明月的交手中逐渐发现其真实身份，从一位貌美少女变成了一名中年男子，充满戏剧性。在战斗的过程中，明月主用技 "易形诀" 施展女儿身的战斗技巧，利用''采阳补阴之术''，暗示了性别转换以及身体改造的主题。文中涉及了诸如冲突、羞辱、变性和性关系等情节，引发了性别认同与自我探索的深思。文中细节描写丰富，如：“明月娇躯轻颤，面色潮红，樱口微张”的描写交织出一种奇妙而诡异的性别转换与情欲交融，给予读者强烈的视觉与情感想象。此外，故事中还涉及到救援、潜入等情节，构建了紧张的氛围和曲折的剧情发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】三、洗髓易形.doc]([
 | Size            | 39424 bytes                           |
 | MD5             | d772d5318742e15458f068ca3863e571                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别认同, 自我探索, 易形诀, 性转换, 性关系, 武侠, 幻想, 情节冲突, 采阳补阴之术, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

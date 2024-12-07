@@ -7,7 +7,7 @@ TXT 下载: [[变身]_一个男人重获新生的故事(第三四章).docx]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档讲述了一个穿越到新生命中的男人，重生为女孩后的成长故事。从婴儿时期到小女孩，一直到上学的青春历程，内容描绘了主人公崔智贤适应新生活的心路历程。在故事中，智贤面临性别认同的挑战与困扰，祖父与父亲对她的关爱，姐姐与朋友的陪伴，以及日常生活中孩子们之间的互动。文中提到了一些细节，例如智贤对学校的好奇、与同龄朋友的交往，以及使用女厕所时的尴尬和新奇感受。随着情节的展开，智贤逐渐适应了自己的性别身份，她的内心挣扎与成长也反映了当代社会对性别认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_一个男人重获新生的故事(第三四章).docx]([变
 | Size            | 85019 bytes                           |
 | MD5             | e6e65806ac0f5ee76ea05ec8861b78da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 重生, 成长故事, 性别认同, 青春期, 恋爱, 像女孩的一天, 学校生活, 姐妹情, 社会适应, 心理挣扎, 女权主义, 自我探索, 友谊, 教育, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

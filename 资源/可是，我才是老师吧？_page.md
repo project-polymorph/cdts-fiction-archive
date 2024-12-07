@@ -7,7 +7,7 @@ TXT 下载: [可是，我才是老师吧？.docx](可是，我才是老师吧？
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《可是，我才是老师吧？》，讲述了一名名叫魏安安的女教师的故事。魏安安是学校中最漂亮的老师，她外表光鲜亮丽，但内心却隐藏着阴暗的一面。成长于贫困家庭的她，为了逃避过去的生活，利用自己的美貌操控身边的男人，甚至对另一位历史老师进行威胁，以确保自己的地位。在万圣晚会前夕，她精心准备了一套黑色的精灵女巫服装，暗示她对此次晚会的企图并不简单。故事另一主线人物是一个名叫伊寒的16岁男孩，他有着朴实的背景，深爱着魏老师。两人的命运交织在一起，意外的摔倒使得两人交换了身体，随后展开了对身份和欲望的探索。魏安安在伊寒的身体中体验到了自己身体的感受，并与自己身体的意识产生了奇妙的交错。 该文本探讨了性别身体认同、欲望冲突以及复杂的人际关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [可是，我才是老师吧？.docx](可是，我才是老师吧？
 | Size            | 48337 bytes                           |
 | MD5             | e4be6e7943ce3b1412d8aff21e01447b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 爱情, 心理斗争, 校园禁忌, 性别认同, 自我探索, 师生恋, 万圣节, 黑色幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

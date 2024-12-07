@@ -7,7 +7,7 @@ TXT 下载: [[其他]_第二义工社的侦探（一）.docx]([其他]_第二义
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一个名为“第二义工社”的组织及其成员之间互动的小说片段。故事围绕着一个身为侦探的角色——独孤学姐，她拥有特殊的能力，可以帮助他人实现愿望或解决问题。故事开头，独孤学姐接待了一位名叫叶莺的新生，她向独孤学姐倾诉了关于自己室友奇怪变化的担忧。叶莺描述了她的室友近期在行为、穿着和饮食习惯上发生的巨大改变，以及她在夜间听到的可怕声音，这些声音令人联想到与性相关的情节，甚至提到了女性高潮的呻吟声。这让叶莺感到极度的恐惧，并怀疑她的室友可能被附身。独孤学姐在倾听叶莺的故事后，决定对这个情况进行调查。这段文字通过对角色心理和环境的细腻描写，展现了性别认同、自我探索、恐惧与超自然力量的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_第二义工社的侦探（一）.docx]([其他]_第二义
 | Size            | 19578 bytes                           |
 | MD5             | d9363cde3fc2a049526d8dad53283d34                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | KNAVE                               |
+| Region          | 未知                               |
+| Date            | 2010-10-11                                 |
+| Tags            | 性转小说, 伪娘, 跨性别, 超自然力量, 校园生活, 女性角色, 恐怖情节, 心理辅导, 自我认知, 愿望实现, 附身, 神秘案件, 学生社团, 独孤学姐, 叶莺, 宿舍生活, 特异功能                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

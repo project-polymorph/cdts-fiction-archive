@@ -7,7 +7,7 @@ TXT 下载: [[改造]_女装警探的价值.doc]([改造]_女装警探的价值.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《女装警探的价值》描绘了一位名叫李若仙的主角，她是一名身处夜场的女性角色，内容涉及她与客人之间的互动与私密关系。故事开始于李若仙接到一位贵宾的约会，同时描写了她过去的经历以及在夜场内的生活。文件详细描述了李若仙的内心挣扎，她不喜欢男性，即使身为妓女，却依然保持着自我认知。通过对夜场规则、职业现状的描摹，揭示了角色内心深处对性别与身份的探索，其间的情节涉及了性行为的详细描绘以及情感的复杂纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_女装警探的价值.doc]([改造]_女装警探的价值.
 | Size            | 29184 bytes                           |
 | MD5             | 7022351bc60925b199df0035c561058f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 夜场生活, 自我认同, 妓女文化, 性别探索, 成人内容, 角色扮演, 强烈欲望, 情感挣扎, 性别认同, 跨性别, 私密关系, 张力戏剧, 心理冲突, 性别角色, 暗黑幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

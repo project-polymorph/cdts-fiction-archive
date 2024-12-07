@@ -7,7 +7,7 @@ TXT 下载: [[变身]_CDBOOK隐藏神器系列之阴阳镜(1).doc]([变身]_CDBO
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部关于阴阳镜的变身小说，讲述了主角在一次偶然的情况下接触到一面具有神秘力量的铜镜，名为阴阳镜。根据传说，这面镜子能够逆转阴阳，进而使人性别转变。当主角好奇地拿起镜子后，镜中显现出一个美丽的女子——其实是他自己性别转变后的形象。小说深入探讨了主角在变身过程中面对的恐惧、自我认同的混乱以及逐渐接受自己新身份的心理挣扎。随着变身的进行，主角意识到他曾是一个男人，现在却不得不以全新的身份生活，且与他的原有记忆和身份产生了分裂。通过这个设定，小说探讨了性别与自我认同的问题，涉及的主题包括心魔、命运与社会接纳等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_CDBOOK隐藏神器系列之阴阳镜(1).doc]([变身]_CDBO
 | Size            | 40448 bytes                           |
 | MD5             | 316b39291f1d10b1b2eaa0420274b638                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 阴阳镜, 性别认同, 自我探索, 幻想, 科技, 魔法, 心理斗争, 心魔, 阴阳, 女性身份, 性别转换, 双重身份, 科幻幻想, 灵异                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

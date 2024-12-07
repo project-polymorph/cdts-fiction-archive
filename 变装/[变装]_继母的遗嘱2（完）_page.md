@@ -7,7 +7,7 @@ TXT 下载: [[变装]_继母的遗嘱2（完）.doc]([变装]_继母的遗嘱2�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于变装与性别认同的小说，其中的主角拉里被迫以女性身份丽莎生活，根据继母的遗嘱来获取遗产。这部小说描绘了他在姐妹莎拉和她的男朋友艾伦之间的复杂关系，以及他在性别角色与自我认知之间的挣扎。在与艾伦的互动中，拉里体验到了内心的恐惧与屈辱，同时也逐渐接受了作为丽莎的身份。这部作品包含了强烈的性暗示和性别转换情节，反映出对性别认同的探索和自我价值的重新定义，因此就涉及到了跨性别及变装等主题。文本中包含许多与性相关的情节，包括调情、性暗示、权力关系的扭转等，具有一定的成人内容。作品在语言上流畅且细腻，带给读者强烈的情感共鸣与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_继母的遗嘱2（完）.doc]([变装]_继母的遗嘱2�
 | Size            | 72704 bytes                           |
 | MD5             | 7c0e5ac886a52594627d02a4bb16ec3b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 跨性别, 强烈性暗示, 家庭关系, 权力关系, 自我探索, 成人内容, 性别角色, 文化冲突, 人生困境, 情感挣扎, 命运, 继承, 调情, 顺从, 心理矛盾, 社会规范, 女性化, 生活方式                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

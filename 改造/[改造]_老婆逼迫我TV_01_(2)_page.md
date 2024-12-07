@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老婆逼迫我TV_01_(2).docx]([改造]_老婆逼迫我TV_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一段关于主人公与其妻子琳达之间关系紧张的故事。主人公正准备回家过周末，却收到一封关于他过去不堪回首的信件，里面的照片揭示了他与大学密友汤姆和艾米丽的过去混乱关系。这导致了琳达对他的愤怒和不信任，这一情况令人感到十分不安与困惑。“我不记得这些事件。”主人公多次尝试为自己辩解，试图说明这些都是发生在认识琳达之前的事情，并强调他已经成熟，不再是过去的那个他。琳达则愤怒地指责他，不仅对他背叛的行为感到气愤，也对照片的存在感到羞辱。在失控的情绪之下，琳达开始采取惩罚措施，揭开了一场伴随羞辱和强迫性的情感戏剧。故事涉及的主题涵盖了婚姻的信任危机、过去的秘密、性别角色的模糊等复杂情感，表现出主人公对于自身愧疚与成长的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老婆逼迫我TV_01_(2).docx]([改造]_老婆逼迫我TV_
 | Size            | 34224 bytes                           |
 | MD5             | f93c53698ca60fd1f1177e67ffef1a5b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 强迫, 羞辱, 婚姻危机, 混乱关系, 自我认同, 情感纠葛, 过去的秘密, 情节转折, 伪娘, 成人情节, 情感冲突, 人际关系, 心理变化, 情绪波动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

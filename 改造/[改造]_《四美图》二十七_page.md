@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《四美图》二十七.doc]([改造]_《四美图》二�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是有关二次元变身与跨性别主题的小说《四美图》中的一部分，描绘了石皇后施媚功与其情感纠葛的故事。故事中，石啸月与韩王之间的权力斗争，以及因权谋而引发的性别与身份的复杂变化，构成了小说的主要情节。文中提到了石啸月通过施媚功和蛊术操控情感，展现了权力与性欲的交织。在这一段落中，石啸月担忧花旗失踪的事件背后或有阴谋，并让侍女梅香打入敌阵。整个故事展示了一个充满权谋与色情的古代宫廷中的情感，具有性别认同、自我探索等主题。特定的角色在性别、身份和权力之间的互动，涌现出浓厚的爱情与阴谋色彩。文中有提到性转、男宠、禁忌之爱等情节，且含有较多露骨的描写，适合于对变身文学的研究进行深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《四美图》二十七.doc]([改造]_《四美图》二�
 | Size            | 35840 bytes                           |
 | MD5             | 2bb8cfe0cf7b44696d9e00369478c457                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 穿越, 性别认同, 权谋, 古代, 宫廷, 变身, 情感纠葛, 伪娘, 男宠, 色情文学, 自我探索, 多重身份, 禁忌之爱, 文化研究                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

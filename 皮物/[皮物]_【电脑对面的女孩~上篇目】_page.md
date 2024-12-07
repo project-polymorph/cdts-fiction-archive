@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【电脑对面的女孩~上篇目】.doc]([皮物]_【电
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《电脑对面的女孩》是一部涉及性别认同及自我探索的跨性别题材小说，讲述了一名名叫比尔的男主角的生活与内心挣扎。比尔在一场车祸中失去了父母，并被严重烧伤，导致其自我形象与社会交往受到极大影响。故事设定在一个昏暗、简陋的房间内，反映了比尔孤独的生活状态。他通过网络与外界接触，特别是对一个电台主播薇薇安的迷恋，成为他生活中唯一的光亮。比尔在对薇薇安的幻想中逐渐迷失，并计划通过不道德手段入侵她的私人电脑，这使得他的内心矛盾愈加尖锐。文本通过对比尔的思维与情感的细腻描绘，探讨了身份、孤独以及对爱的渴望等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【电脑对面的女孩~上篇目】.doc]([皮物]_【电
 | Size            | 34816 bytes                           |
 | MD5             | cfbb5743fdd65e1bfb58414e7bb3d941                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 自我探索, 网络侵入, 奇幻, 角色扮演, 阴暗心理, 隐私侵犯, 孤独, 人际关系, 电台主播, 仇恨与爱, 虚拟现实, 社会疏离, 受害者心理, 男女转换, 技术阴暗面, 性别认同, 人性探讨, 孤独症, 无聊生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

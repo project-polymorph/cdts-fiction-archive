@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身人生路（第十一章）.doc]([变身]_变身人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《变身人生路》的第十一章，主要讲述了主角在工作中的日常生活与情感纠葛。文章开头描述了主角作为副总经理助理的工作状态，跟随崔总的指示，协助处理事务。通过细节描写，主角逐渐适应工作，获得了崔总的认可与指导。接下来，文章转向了即将出差的情节，说明了主角要前往苏州进行项目谈判并参加酒会。在这一过程中，展现了主角对服装的挑选及设计师的帮助，反映了主角对自身外貌认同的转变，并感受到女性角色的魅力。然而，在敦促处理工作的同时，主角渐渐感受到性别转换带来的复杂情感，特别是在醉酒的情况下不小心与崔总的亲密接触，掀起了内心深处的冲突与欲望。章末，主角自我怀疑与对身份认同的探寻，使整个故事充满了紧张与心理斗争。文中包含了对女性魅力的细腻描绘与性别认同的探讨，主题颇具深度与复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身人生路（第十一章）.doc]([变身]_变身人�
 | Size            | 34304 bytes                           |
 | MD5             | 9ece095aa5fea6ecf6240aa856acca17                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 自我探索, 职场故事, 跨性别, 欲望, 女性视角, 情感纠葛, 酒会, 设计师, 晚礼服, 性别转换, 酒精影响, 心理斗争, 日常生活, 自我怀疑, 跨越界限, 二次元题材, 情感发展, 电击感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [不伦之恋.doc](不伦之恋.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《不伦之恋》是一部描绘姐弟之间复杂关系的小说，融合了性别认同、角色变装以及禁忌爱情等元素。故事围绕着哥哥小秋和姐姐小玉之间的情感纠葛展开。小秋因为与姐姐同床共寝，做了一个春梦，唤醒了自己内心深处的欲望。书中详细描绘了小秋在色情会所工作的情景及其心理变化，展现了他在性别转换和性身份上所经历的纠结和挑战。文中使用了大量的性别转换、伪娘等描述，具体描绘了小秋在不同场合下如何变装成女性的过程，包含乳胶衣、人皮等细节，情节复杂，融入了现代性的怪诞与深层的心理探索。总的来说，这是一部极具争议性和探索性的小说，旨在挑战传统的性别认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [不伦之恋.doc](不伦之恋.doc)
 | Size            | 107008 bytes                           |
 | MD5             | 1fdbb998e844637c2542f81ec7340e6b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 姐弟恋, 性别转换, 伪娘, 人皮, 乳胶, 禁忌, 自我探索, 变装, 性别认同, 成长, 性意识, 性幻想, 心理疾病, 现代社会问题, 色情, 文化反思                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

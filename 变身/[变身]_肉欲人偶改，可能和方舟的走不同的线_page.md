@@ -7,7 +7,7 @@ TXT 下载: [[变身]_肉欲人偶改，可能和方舟的走不同的线.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于名为安吉的角色的变身小说，故事开始于安吉在公寓内撕碎自己的衣物，表达内心对性别角色的强烈渴望与不满。安吉希望能穿上华丽的女裙并化妆，却因自己的壮硕身材与男性身份而深感绝望。随后他使用一种阉割药剂，希望能够转变为女性的外表，但药剂似乎未能达到预期效果。通过对身体的观察，安吉潜藏的女性化欲望不断躁动，与其身体的矛盾感逐渐加深，最终导致他对自身的残酷伤害，成为了一个毫无生气的半人半偶人物。在第二节中，安吉开始接受自己的新形态，尽管内心依旧渴求更彻底的女性化，反映出复杂的性别认同与自我探索主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_肉欲人偶改，可能和方舟的走不同的线.docx](
 | Size            | 26631 bytes                           |
 | MD5             | e0e0fe0a93b3057fbc046cd75db7d116                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 自我认同, 性别转变, 跨性别, 心理冲突, 二次元小说, 伪娘, 人偶化, 女性化欲望, 精神病态, 药物影响, 自我探索, 角色扮演, 幻想小说, 暗黑题材, 痛苦与渴望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_小子，你怎是女人！〔序篇〕（一）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《小子，你怎是女人！〔序篇〕（一）》讲述了一个关于性别转变的奇幻故事。故事的主角古川，在某个神秘的场合中，被误认为是即将娶亲的女子，身边环绕着娇弱的美丽佳人柳渃曦。古川在教堂中迷茫地推开门，周围的环境和他所经历的情景让他感到困惑与惊喜。随着故事的发展，古川经历了一系列奇妙感人又充满性别转变色彩的情节，例如他被紧紧搂在怀中，不断被温柔的言语和美丽的形象所吸引，甚至感受到他身体的变化与自我认知的模糊。情节尽管带有梦幻色彩，但也探讨了性别认同和自我探索的主题，展现了角色在变化中的心理挣扎与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_小子，你怎是女人！〔序篇〕（一）.docx]([�
 | Size            | 23321 bytes                           |
 | MD5             | 098383ee094241fb67ed19e38a56948a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 梦境, 自我认知, 奇幻, 情感纠葛, 婚姻, 虚幻人物, 浆果少女, 内心挣扎, 角色扮演, 宗教仪式, 情爱小说, 二次元故事, 跨性别, 伪娘, 强烈爱恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

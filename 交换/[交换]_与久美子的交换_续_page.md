@@ -7,7 +7,7 @@ TXT 下载: [[交换]_与久美子的交换_续.docx]([交换]_与久美子的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部围绕性转题材的小说，名为《与久美子的交换_续》。故事主要讲述了莹子与她班主任武藤老师之间的复杂情感以及身体交换的奇妙情节。小说开始时，莹子被宠爱且有些顽皮的父母"母上大人"引导着走向她选择的教会学院，老师表现出对她选择的担忧。通过对话展示了莹子与母亲、班主任之间微妙的关系，尤其是对武藤老师的仰慕。在晚上，故事的走向急转直下，莹子与母亲之间的禁忌情感在性暴露与自我认同的冲突中逐渐升温，涉及剖析心理和生理的双重变化。故事有着极强的成人内容，尤其是在母女关系的描写上，令人不安却又引人入胜。情节复杂多变，包含了不少限制级的情景与性暗示，描绘了身体与灵魂的主题探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_与久美子的交换_续.docx]([交换]_与久美子的�
 | Size            | 30724 bytes                           |
 | MD5             | ca3113e5ced6a5fa337a0d24d02a4917                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 禁忌恋, 身体交换, 成人内容, 心理戏, 学校生活, 母女关系, 调教, 自我认同, 校园, 教师与学生, 情感纠葛, 虚拟现实, 超自然, 暗黑奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《英俊的小仙女》.doc]([变身]_《英俊的小仙�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《英俊的小仙女》，是一本涉及性别转换和自我认知的跨性别主题小说。故事围绕着主角苗英俊展开，描绘了他在一个充满诱惑和危险的另类世界中的经历。起初，苗英俊被劝说试穿女装，尽管心中有怯意，但他仍然感受到女性形象所带来的美丽与自信。然而，面对传统父母的批评与不理解，苗英俊感受到了一种心理上的冲突与挣扎。在一次意外中，他被卷入了一个神秘的时空，通过一扇光门，他来到一个光与影交错的奇幻空间。这里充满了各种欲望的诱惑和不安的危机。故事中他遇到了一个蜥蜴头骨做头、身披中世纪贵族长袍的店长，要求苗英俊满足内心的需要才能找到出路。在这个过程中，他不仅面临着道德与欲望的选择，更在探索自我认同、挑战传统观念。在此迷失之地，苗英俊展现出勇敢的自我探索精神，反映了对性别认同的思考和对自我价值的追寻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《英俊的小仙女》.doc]([变身]_《英俊的小仙�
 | Size            | 60928 bytes                           |
 | MD5             | 7a47450cdbd96495dc859fe8d2790de5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 自我探索, 奇幻故事, 心理冲突, 女性形象, 欲望, 传统观念, 青春成长, 二次元文化, 变装, 冒险, 梦幻, 幻想世界, 赛博朋克                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

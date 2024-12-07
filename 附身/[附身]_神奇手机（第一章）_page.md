@@ -7,7 +7,9 @@ TXT 下载: [[附身]_神奇手机（第一章）.doc]([附身]_神奇手机（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名年轻男子方童的故事。他在经历了几段失败的求职后，选择了待业在家，逐渐变得孤僻和内向。方童生活在北方的农村，面临着生存的压力。故事的一开始，方童忙于生活琐事，终于在一次不小心中将手机掉入厕所，导致他的生活进一步陷入困境。随着情节发展，方童发现了一部旧智能手机，并在对着新手机的失落与沮丧中，开始向互联网寻求精神的慰藉，尤其是进行性别转变（TS）相关的幻想。
+
+方童的经历展现了他对人生的渴望与对自我身份的探索，以及他对身边人生活的羡慕。在他对现实的不满中，偷偷幻想自己能成为更好的人的心态反映了他内心的挣扎。此作品不仅仅是个普通的性转小说，而是深刻挖掘了角色的心理状态，以及对自我的认知与性别概念的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_神奇手机（第一章）.doc]([附身]_神奇手机（�
 | Size            | 33280 bytes                           |
 | MD5             | cfcfb3275dac1f1ff161b7465cec87a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 自我探索, 孤僻, 心理挣扎, 青春, 幻想, 网络文化, 农村生活, 身份认同, TS论坛, 剧烈转变, 旧手机, 家庭问题, 情感孤独, 现代生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

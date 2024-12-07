@@ -7,7 +7,7 @@ TXT 下载: [[改造]_模范生[模範生].doc]([改造]_模范生[模範生].do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是关于一位男生在学校的经历，开头讲述了作为学生会主席的他负责检查同学仪容的一次例行公事。在工作中，他遇到了学生指导员津云老师，老师意图合作进行学校改革，并展示了一套新的制服设计。这个制服的设计充满了性暗示，并引起了学生会主席的极大不安和抗拒。在过程中，老师使用了某种神秘的方法，使得学生会主席突然意识到自己身处的真实身份，并开始怀疑自己的性别和外表，整个情节充满了性别转变的惊讶与内心的挣扎。在文件结尾，老师继续诉说着关于学校制度和规矩的改变，进一步强化了文件中的性别与身份问题的探讨与表现。内容涉及校园生活、性别认同、改革、制服等主题，并且在叙述中夹杂了许多色情暗示的情节，充满挑战和争议。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_模范生[模範生].doc]([改造]_模范生[模範生].do
 | Size            | 41472 bytes                           |
 | MD5             | 0a89cd0bcf24b83c9358632a114d8ac6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 校园生活, 制服改革, 性转小说, 学生会主席, 性别角色, 性别冲突, 自我认知, 变身, 性暗示, 伪娘, 女性视角, 强迫性别角色, 巨乳, 未知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

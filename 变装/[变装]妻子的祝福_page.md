@@ -7,7 +7,7 @@ TXT 下载: [[变装]妻子的祝福.doc]([变装]妻子的祝福.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件名为《妻子的祝福》，是由作者komrad1156创作的一部伪娘/跨性别题材的小说，主要围绕凯文及其妻子维姬的生活展开。故事中，凯文对女性服装有着难以抗拒的吸引，他内心渴望成为女性并取名为凯莉。文件详细描绘了凯文在化妆和穿着上追求完美的过程，以及他与妻子之间因性欲和性冷淡产生的复杂关系。故事中，凯文希望通过变身为凯莉，能够满足他内心的欲望，也在探索自我认同的过程中面临心理上的挣扎。小说中涉及了许多关于性别认同、自我探索、婚姻与爱的探讨，情节中也涉及了一些对性的描写，以及夫妻之间感情的复杂性与脆弱性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]妻子的祝福.doc]([变装]妻子的祝福.doc)
 | Size            | 65536 bytes                           |
 | MD5             | 79d7d9d8ae67f665d29498004e4356ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | komrad1156                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 婚姻, 自我探索, 变身, 纯爱, 心理冲突, 情感纠葛, 性爱, 女性视角, 剧情反转, 情感伤痛, 心理治疗, 激素矫正, 外部期望, 自我认同, 身体改造, 幻想, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

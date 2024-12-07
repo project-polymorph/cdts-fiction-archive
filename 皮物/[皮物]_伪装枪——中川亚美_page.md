@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_伪装枪——中川亚美.docx]([皮物]_伪装枪——
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件描写了一种名为‘伪装枪’的特殊武器及其使用者的故事。主角通过使用这件武器，能够将他人转变为人皮连体衣，进而实现自我身份的转换。故事开篇描述了伪装枪的外观和功能，强调了其能力的机密性和使用限制。接着，主角将目光锁定在自己的同学中川亚美身上，细致入微地描绘了她的外貌和运动表现。随后，主角实施了自己的计划，成功地使用伪装枪将亚美转变为自己所需的人皮，经过一系列的动作，主角进入了亚美的人皮中，完成了身份的转换。此文件内容涉及性别转换、角色扮演及对自我身份的探索，伴随一些色情和限制级场面，反映了对个体认同与欲望的深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_伪装枪——中川亚美.docx]([皮物]_伪装枪——
 | Size            | 24318 bytes                           |
 | MD5             | ccdc697ce6e65cd18b7cfb52e98cb22a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪装枪, 性转, 男娘, 自我探索, 性别认同, 变身, 二次元, 青春爱情, 科幻, 禁忌, 人皮连体衣, 青春, 非人化, 性别转换, 悬疑, 心理探讨, 魔法, 二次元文化, 变态, 角色扮演, 暗黑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

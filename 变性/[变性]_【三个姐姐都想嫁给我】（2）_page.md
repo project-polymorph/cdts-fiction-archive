@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【三个姐姐都想嫁给我】（2）.doc]([变性]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别小说《三个姐姐都想嫁给我》的第二章，章节标题为“变身吧，美少女战士”。文本围绕角色胡来与游奶藻前之间的关系展开，描绘了他们在东瀛游玩的情节及亲密互动。胡来在签完商业合同后的沉迷体验以及对未来的关切，暗示了角色之间复杂的情感和潜在的因果关系。游奶藻前作为主角的女友，展现出对胡来的依恋及其内心的挣扎。文本包含了一些暗示性的性内容，描绘了角色们在温泉的私密时刻。在这章中，还引入了胡来对农业方面人脉的需求以及游奶藻前作为职场女强人的转变，展现了两人在各种情境中的互动和角色的变换。整体情节融合了跨性别、性别认同、自我探索等主题，丰富了其内涵。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【三个姐姐都想嫁给我】（2）.doc]([变性]_【
 | Size            | 46080 bytes                           |
 | MD5             | 7f79aa0d6e90550dc7b0924bea4a997b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 性别认同, 情色, 自我探索, 爱情, 家庭关系, 职场女强人, 东瀛, 温泉, 冒险, 秘境探索, 角色转换, 情感纠葛, 成年训练, 因果关系, 成人内容, 校园青春, 幻想, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译】我的变装启蒙之旅（申码文）.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为翻译作品《我的变装启蒙之旅》的中文版，原作是由cdandy创作，翻译者为pantyhose4ever。文本主要围绕一个名叫迈克的角色，他在一次购物中心的经历中体验到了女性装扮带来的新身份认同。在初次穿女装出门时，迈克因其魅力吸引了文中叙述者的注意，随后引发了一系列关于性别认同和自我探索的对话与情感纠葛。故事展现了迈克穿女装后的心理变化与自我认同，同时描绘了他与叙述者之间的微妙关系及对彼此的吸引。文本中包含了对女性美的细腻描写，透过叙述者的视角展现了他对迈克的外貌与个性的赞美，增加了情感的复杂性与戏剧性。整体上，该文档探索了变装、性别认同与社会交互的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译】我的变装启蒙之旅（申码文）.doc]([
 | Size            | 150528 bytes                           |
 | MD5             | 0d56e758aef5ad55e40d5f27a4bd8de0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | cdandy；翻译者：pantyhose4ever                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 自我探索, 二次元, 社交, 情感纠葛, 女性化, 外表变化, 心理冲突, 都市生活, 办公室关系, 成长故事, 性别表达, 美丽的容颜, 男娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

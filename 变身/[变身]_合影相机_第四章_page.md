@@ -7,7 +7,7 @@ TXT 下载: [[变身]_合影相机_第四章.doc]([变身]_合影相机_第四�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件内容摘录自一部关于性别转变的小说，围绕着角色黎司和赵老师（变身后的章山）之间的关系展开。本章讲述了在一个周末补课的场景中，两人之间的互动变得更加亲密，逐渐演变为性爱的情节。文本详细描绘了两人之间充满挑逗与感官刺激的交流，使用了许多带有性暗示的语言，例如描述脚、裙子和内衣等细节，以及身体之间的亲密接触。整个故事包含的情节挑战了性别认同与角色扮演的界限，且包含了大量色情内容，直至高潮部分。此外，文件的最后部分提及主人公们对事后的清理与回归正常生活的描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_合影相机_第四章.doc]([变身]_合影相机_第四�
 | Size            | 38400 bytes                           |
 | MD5             | 5bba0dab78ea75cd023f5578eb48e817                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 性转, 变身, 情色小说, 纯爱, 恋师, 师生关系, 幻想, 二次元, 调教, 强奸, 黑丝, 快感, 情感探索, 身体探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

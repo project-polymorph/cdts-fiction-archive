@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我的主播生涯.docx]([附身]_我的主播生涯.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一名男子在经历了一场严重的车祸后，灵魂附身到一名女性网红主播的身体中，开始了他适应新身份的生活。故事设定在一个充满跨性别主题的背景中，探讨了性别认同和自我探索的复杂过程。主人公在新身份中经历了与身体父母的重聚、与自己的身体的抗拒，以及在女权环境下的各项“魔鬼训练”。他不得不学习如何在女性形象中生活，从而迎合周围的期望和社会角色，同时也面临着心理上的冲突和磨难。小说中不仅揭示了他在面对女性身体时的羞涩和不适，还描绘了他在家庭支持下，逐渐接受自身生活的挣扎。内容涉及月经初潮的生理与心理反应，家庭关系的重构等，充满对性别变换的细腻刻画。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我的主播生涯.docx]([附身]_我的主播生涯.docx)
 | Size            | 34026 bytes                           |
 | MD5             | 98072501b764304b86a83b42c3a02119                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, 伪娘, 自我探索, 心理冲突, 家庭关系, 身体认同, 性别转变, 青春成长, 女性化训练, 月经经历, 亲情, 社会角色, 身份危机                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

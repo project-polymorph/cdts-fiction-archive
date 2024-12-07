@@ -7,7 +7,7 @@ TXT 下载: [[附身]_都市传说_之一.docx]([附身]_都市传说_之一.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为都市传说主题的小说，描绘了一位在寒冷的夜晚中，由一名女子和一名男子的互动所引发的故事。在这个故事中，女子名为宫泽，穿着白色大衣在医院前等候，拿着一本关于都市传说的书。当她与同事黑田相遇时，二人开始讨论书中的故事——一个关于人面蛛的传说，这种生物以其诡异的外表和心灵的捕食行为，引发了人们的恐惧和思考。故事中，不良少年对优等生的骚扰最终引出了人面蛛的出现，该少年为了保护他心仪的女孩，不惜以自己的心来交换。这段故事兼具了都市传说的神秘色彩及人性深处的探索，展现了爱与自我牺牲的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_都市传说_之一.docx]([附身]_都市传说_之一.doc
 | Size            | 65929 bytes                           |
 | MD5             | 881662b0f193952490f33fe9aaa4c404                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 都市传说, 人面蛛, 心理恐怖, 爱情, 自我牺牲, 骚扰, 护士, 医生, 夜晚, 雪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

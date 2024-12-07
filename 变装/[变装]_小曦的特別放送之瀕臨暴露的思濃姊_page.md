@@ -7,7 +7,7 @@ TXT 下载: [[变装]_小曦的特別放送之瀕臨暴露的思濃姊.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一名男性角色在商场中与女性同事‘思浓姐’一起购物的经历。故事通过细腻的描写展示了角色的心理变化和与同事之间的互动，展现了伪娘文化的独特氛围。在商场的内衣专柜，男主角虽是男性，却以女性形象融入场景，他的内心充满了羞涩与兴奋。随着情节发展，男主角的身份逐渐模糊，与思浓姐的互动充满了挑逗感与玩笑，显示了角色在探索性别认同与自我身份之间的矛盾。文中描写了高跟鞋、黑丝、内衣等元素，传递出一种对女性符号的迷恋与向往，同时也涉及到性别扮演、性别角色与社会期望的冲突。该作品内容虽涉及一定的性暗示与成人情节，但仍以一种轻松幽默的方式呈现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_小曦的特別放送之瀕臨暴露的思濃姊.docx]([�
 | Size            | 20933 bytes                           |
 | MD5             | ec35455257e242fa731b412e2642e7c7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 伪娘, 内衣店经历, 跨性别文化, 购物经历, 羞涩情节, 女性角色, 心理转变, 性别角色扮演, 职场关系, 内衣试穿, 高跟鞋文化, 轻松幽默, 成人情节, 角色互动, 自我探索, 文化探索, 都市生活, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

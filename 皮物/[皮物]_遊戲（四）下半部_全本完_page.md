@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_遊戲（四）下半部_全本完.docx]([皮物]_遊戲�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部涉及皮物（人形皮具）题材的小说，内容围绕角色的转变、游戏与生存斗争展开。故事中的角色林麟与马克之间的对话、对教授的忠诚及角色的变化揭示了复杂的人际关系与道德困境。文中提及了一种完美的皮物，其具备独立意识和强大的恢复能力，而不完美的皮物则具有吞噬人的肉体的特性。这种设定引发了对生存、权力和身份的多层次探讨。此外，文本中包含一些暴力和血腥的场景，例如角色之间的枪战、血腥的伤害等描述，突显出作品的紧张氛围和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_遊戲（四）下半部_全本完.docx]([皮物]_遊戲�
 | Size            | 32636 bytes                           |
 | MD5             | 397d0d9247962e449d7bbdd01878c1cd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 魔法少女, 生存游戏, 权力斗争, 暴力, 幻想, 心理战, 身份认同, 皮物, 动作, 剧情推理, 血腥, 角色转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

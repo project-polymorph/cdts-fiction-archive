@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝都风云_（十四）.doc]([皮物]_帝都风云_（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为“皮物”系列小说的第十四章，主要讲述了角色温蒂妮与侍女莉迪亚之间复杂的关系。故事开头描绘了帝都的清晨，阳光透过窗帘洒落进房间，温蒂妮醒来后与侍女的亲密互动。文本中包含多处对温蒂妮美丽形象和她与侍女之间调侃的细致描写，如温蒂妮在镜子前整理裙带，而莉迪亚则以亲昵的方式揭示自己的真实身份。故事逐渐进入了更为紧张的情节，温蒂妮在面对皇帝时的情感波动与对自身身份的挣扎，揭示了故事主题涉及的性别认同与权力关系；皇帝对温蒂妮的威胁与情感纠葛，也加深了情节的冲突与紧张感。文本不仅包含了性别转换、权力游戏等元素，也触及了对于角色内心深处的探索和自我认知的描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝都风云_（十四）.doc]([皮物]_帝都风云_（�
 | Size            | 46080 bytes                           |
 | MD5             | e2d4b19c2cc8e12547bf57f298ef77ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 权力关系, 禁忌爱情, 性别认同, 情感纠葛, 宫廷争斗, 角色扮演, 自我探索, 梦境与现实, 帝都, 屈服与支配, 秘密与背叛, 身份危机, 异性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

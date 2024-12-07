@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我和妈妈的游戏（二）.docx]([皮物]_我和妈妈
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《我和妈妈的游戏（二）》, 内容围绕一场关于性别身份转换的虚构故事展开，描绘了角色之间复杂的关系和性体验。故事设定在一个充满幻想和禁忌的环境中，主角的身份在母亲和自己的身体之间不断转换，展现了性别认同和自我探索的主题。文中多次提及主角在尝试体验女性身份的感受，描述了母亲通过变装和角色扮演来协助主角完成这些体验。尤其是在一段中，母亲通过穿着女性的衣物、假身体以及化妆，使得两者之间的性关系变得更加亲密和复杂，同时也带来了性别角色的冲突与探讨。文章详尽地描绘了性行为，涉及多处露骨的性爱场景，充满了对性与身份的模糊界限的探索。文中提到的诸多情节、对话及个人感受，揭示了性别与情感之间千丝万缕的联系，但相关的情节涉及限制级内容，需谨慎处理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我和妈妈的游戏（二）.docx]([皮物]_我和妈妈
 | Size            | 36008 bytes                           |
 | MD5             | c3e619a9d75c6275d3146107480ff2e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性转, 母子关系, 角色扮演, 跨性别, 强奸, 肉体交换, 人妖, 禁忌, 虚构小说, 性探索, 色情内容, 自我认同, 情感发展, 性别认同, 乱伦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

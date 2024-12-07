@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_铁棒制皮.docx]([皮物]_铁棒制皮.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容为一篇纯粹的成人向小说，主要围绕一位青春女高中生和一位美妇之间的强烈性互动展开。故事的开头描绘了女高中生的外貌及其装扮，如黑丝袜和丰乳，使得目标美妇对其产生了好感。在成功吸引美妇时，女高中生利用一系列幼稚的策略进入美妇的家中。随着剧情的发展，描写了女高中生如何利用其男性生理特征与美妇进行性爱行为，并强烈侧重于对性行为的细节描述，包括使用“铁棒”等具象化的工具来达到性快感。最终，故事采用了性别转换的元素，女高中生在性交后感受到强烈的身体变化，甚至穿上了美妇的皮肤，完成了性别的转变。该文档虽为色情内容，但也反映了对性别认同与性角色的冲突，以及对身体的改造。这类内容可能涉及限制级情节，需谨慎处理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_铁棒制皮.docx]([皮物]_铁棒制皮.docx)
 | Size            | 15860 bytes                           |
 | MD5             | e2a4455ceebadc9d54fd834905948b2a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 性转, 变身, 跨性别, 强奸, 调教, 来自异世界, 人体改造, 春药, 年龄差, 淫荡, 逆后宫, 变嫁, 雌堕, 虚拟现实, 多重身份, 血统, 性别认同, 身体交换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

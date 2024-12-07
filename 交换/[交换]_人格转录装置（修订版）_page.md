@@ -7,7 +7,7 @@ TXT 下载: [[交换]_人格转录装置（修订版）.docx]([交换]_人格转
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《人格转录装置（修订版）》描述了一位普通高中生悦然与青梅竹马白惠之间的互动以及关于性别转换的奇特设想。故事开篇描绘了女孩们在雨中的情感交集，随后转向悦然因不小心掀起同学嘉儿的裙子而引发的不快。这一事件引出一系列关于性别和自我认知的讨论，悦然面临着社会压力与个人情感的复杂冲突。同时，白惠作为一个充满好奇心的女孩，探讨了男性与女性在性别、心理以及生理上的差异，甚至提到她发明的一种能够改变人们性别认知的设备。这种设备通过特定电流影响人类的电讯号，进而导致身体与意识的交换，开启了关于性别与认同的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_人格转录装置（修订版）.docx]([交换]_人格转
 | Size            | 51210 bytes                           |
 | MD5             | 9713be10f16b1436d7dfe34d11594383                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 人格交换, 校园生活, 高中生, 青梅竹马, 奇幻设定, 自我认知, 科学幻想, 情感冲突, 性别认同, 友谊, 青春, 彼此探索, 科技与伦理, 心理学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

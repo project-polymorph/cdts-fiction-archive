@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔幻类：驱魔族的败类〔序〕（试阅篇）矫�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《驱魔族的败类（试阅篇）》是一部围绕性别转换和角色心性变化的小说，讲述了一名名叫如梦的男人的内心挣扎与幻想。故事中，如梦是一个普通的男教师，因遭遇爱情和事业的挫折而沉沦，最终对女性身上充满了冲动的欲望。文本以细腻的描写展现了如梦对学生和女教师的窥探与幻想，他试图掩藏自己的猥琐，而在心底却有着无法遏制的占有欲。在这片刻如梦的思绪中，包含了对年轻女性的渴望与对他自我认同的困惑，同时描绘了现实与幻想的交错。在文本末尾，紧张感渐渐上升，一个女娃娃向女教师的身体行使着不可告人的计划，充满悬疑。这部作品融合了变身、偷窥等幻想元素，展现了一个复杂而扭曲的心理历程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔幻类：驱魔族的败类〔序〕（试阅篇）矫�
 | Size            | 21208 bytes                           |
 | MD5             | e1d8a2abaa37e77d96f81cab6e99ac58                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 偷窥, 变身, 跨性别, 恋物癖, 单性别, 教师, 学生, 女性形象, 校园幻想, 自我认同, 欲望, 强烈占有欲, 成年向, 奇幻, 黑暗元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

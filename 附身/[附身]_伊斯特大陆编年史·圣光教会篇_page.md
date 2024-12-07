@@ -7,7 +7,7 @@ TXT 下载: [[附身]_伊斯特大陆编年史·圣光教会篇.doc]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《伊斯特大陆编年史·圣光教会篇》的一部分，描绘了一场激烈的战斗后，勇者利斯特与光之神殿的圣教皇艾薇尔之间的情感纠葛。故事开始于利斯特在一场决战中受了重伤，而艾薇尔在治疗他时感到非常担忧，强调了她对利斯特生命的重视。随后，利斯特提出求婚，艾薇尔内心感到意外和幸福，但又对婚姻的正式性产生了犹豫，这场戏剧性的情节展示了角色之间深厚的情感和责任感。此外，文件中也反映出两位角色在战斗后的轻松与温馨，尤其是在他们面对再次挑战的未知时。文中融合了冒险、爱情和神秘元素，结尾处更是引出关于结婚戒指的神秘力量，暗示了更深层次的故事伏笔。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_伊斯特大陆编年史·圣光教会篇.doc]([附身]_�
 | Size            | 83968 bytes                           |
 | MD5             | c3863ea5ac3786edec30215840ccc40e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变嫁, 爱情, 勇者, 魔法, 光之神, 情感纠葛, 求婚, 冒险, 圣教皇, 婚礼, 奇幻, 阴谋, 영웅, 信仰, 伟大的战斗, 角色成长, 自我认知, 时空变换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

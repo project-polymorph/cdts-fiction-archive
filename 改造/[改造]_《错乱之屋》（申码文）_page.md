@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《错乱之屋》（申码文）.doc]([改造]_《错乱�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《错乱之屋》是一部设定在江户时代的伪娘及变身题材小说。故事围绕主人公千樱展开，她是被联名献给将军德川家弘的西国第一美人，实际上是为了暗杀这位残暴的幕府将军。小说结合了复杂的性别角色与权谋，描绘了千樱从初入江户城的羞涩与坚定到后续的暗杀计划。情节中，千樱需要在将军的调戏与她暗藏的毒药之间游走，展示了内心的挣扎与身份的扭转。在细腻的文风中，涵盖了诸如禁忌的权力游戏与欲望的冲突等主题。故事细节深入，包括千樱如何利用她的外表优势，以及她与将军之间复杂的情感互动，直至最后的生死对决。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《错乱之屋》（申码文）.doc]([改造]_《错乱�
 | Size            | 98304 bytes                           |
 | MD5             | d7fc72d68fa283e5d8fd539772f5f77c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 江户时代, 权谋, 性别认同, 暗杀, 自我探索, 阴暗心理, 历史背景, 情色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

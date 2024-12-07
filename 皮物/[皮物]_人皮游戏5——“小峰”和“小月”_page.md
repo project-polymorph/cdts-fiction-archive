@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人皮游戏5——“小峰”和“小月”.docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描绘男孩变身为女孩，并在过程中出现校园爱情和性别认同冲突的小说。故事围绕主角在宿舍中遭遇的性别角色困扰展开，他身着女装并在女生宿舍中与同学小王意外相遇。情节中充满了紧张感和性别转换后内心的挣扎与探索，主角希望隐藏自己的男孩身份，却因小王的冲动行为而陷入了尴尬的境地。故事中多次提到主角的身体状况和心理活动，包括对变身后形象的自我认知。情节也涉及了一些复杂的情感元素，包括迷恋、拒绝和冲突，体现了青春期的感情困惑和对性别认同的探索。此外，文本中还涉及了一些成人向的内容，反映了角色在性别转换后面对的情感和生理挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人皮游戏5——“小峰”和“小月”.docx]([皮�
 | Size            | 24250 bytes                           |
 | MD5             | 8feb09b8d2c94a493df1f8c39d676960                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2014-04-18                                 |
+| Tags            | 变身, 性别认同, 伪娘, 校园爱情, 情感冲突, 强奸, NTR, 变装, 兄弟情, 生理困扰, 自我探索, 性别转换, 乱伦, 学生生活, 幻想, 青春期烦恼                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

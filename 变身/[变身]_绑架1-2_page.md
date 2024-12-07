@@ -7,7 +7,7 @@ TXT 下载: [[变身]_绑架1-2.doc]([变身]_绑架1-2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇描写绑架及性别变换主题的小说，故事围绕主人公祝天展开，他是一名富二代，因夜店的经历被一名性感女子赵红绑架。在一开始，祝天对绑架的事情感到愤怒和困惑，对赵红和她的同伴进行辱骂和威胁。随着情节的发展，祝天感受到了一种奇妙而又屈辱的变故，赵红逐渐揭开绑架背后的真正目的：将祝天的身份和性别彻底改变。祝天被迫穿上一张如人皮的女性“皮”，感受到身体的强烈变化，逐渐由外而内地接受自己变成女性的身份。此文中描绘了祝天内心的恐慌、屈辱及对自己新身份的抗拒，以及角色在性别转换中体验的复杂情感，描述详细且充满冲突与引人入胜的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_绑架1-2.doc]([变身]_绑架1-2.doc)
 | Size            | 58880 bytes                           |
 | MD5             | 13089512736ef6d0dc7f59ae1abd4338                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别变换, 性转小说, 变身小说,  BDSM, 心理调教, 女性身份认同, 人身管控, 引导性教育, 情色, 角色扮演, 绑架情节, 自我探索, 伪娘, 男娘, 异世界, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

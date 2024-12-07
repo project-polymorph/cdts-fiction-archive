@@ -7,7 +7,7 @@ TXT 下载: [[其他]_艳八仙系列-阳奉阴威心理咨询诊所（张果篇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是关于一名年轻心理学家福鲁特及其在长白山的旅行故事。故事中，福鲁特是一个信奉基督教的女人，伴随她的是两个男士洛克和罗尔，他们一同游玩北京及长白山。在旅程中，福鲁特回忆起自己的身世，她的父亲曾是逃难到英国的华人，她从小就受到伤害与歧视，因此选择信仰基督教来寻求心理安宁。在旅途中，福鲁特与洛克逐渐产生情感，而铁乖仙子则是想要引导福鲁特走出基督教的影响，帮助她发掘作为未来艳天八仙的潜力。整篇小说探讨了性别认同、信仰、情感关系等复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_艳八仙系列-阳奉阴威心理咨询诊所（张果篇
 | Size            | 24137 bytes                           |
 | MD5             | b59bd5aa05576a4e772f6afb5050ea92                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 心理咨询, 奇幻冒险, 宗教信仰, 爱情探索, 长白山, 艳天, 女权, 人性冲突, 文化归属, 青春成长, 二次元, 古典幻想, 多元性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

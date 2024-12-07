@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_谍海商战7.docx]([皮物]_谍海商战7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《谍海商战7》讲述了王翔剑，组织中的核心力量，接受任务调查天朝的军情处零处的故事。文本中的角色涉及各种能力的军官和潜伏的角色，情节紧张，包含权谋和背叛的元素。在一次秘密会面中，王翔剑与美女军官A及名为任雪的女性角色之间展开对话，探讨了神秘的军情处零处以及可能与之对抗的龙组的存在。王翔剑的身份逐渐显露出复杂性，尤其是其通过人皮衣进行身体转变的情节。文中描绘了详细的变身过程，包括王翔剑在浴缸中的转变，透过纳米技术与药物的结合完成了外貌的女性化改造，展现了关于性别认同与自我转变的深层次探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_谍海商战7.docx]([皮物]_谍海商战7.docx)
 | Size            | 21374 bytes                           |
 | MD5             | 1b1d797a6bccb09f20173e9f244d48fe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 军情处, 权谋, 科技幻想, 龙组, 自我认知, 人皮衣, 角色扮演, 能力者,  erotic, 纳米技术, 身体改造, 暗黑系, 心理冲突, 冒险, 战略游戏, 美女军官, 变嫁, 潜伏者                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

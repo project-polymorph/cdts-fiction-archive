@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[迟来的蝶变]已更至第51章，.doc]([改造]_[迟�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《迟来的蝶变》，是一部关于一个直男逐渐变成跨性别女性，最终嫁给一个男性的小说。故事围绕主角的内心挣扎和性别认同的变化，逐渐展现出角色在调教和自我探索过程中的矛盾与无奈。在文中，主角经历了从直男到女性的蜕变，加入了许多艰难而自然的情节，例如在婚礼前夕的紧张与期待、与伴娘间的互动、对于自身形象的纠结和对于未来生活的思考。许多细节如抽烟、化妆及伴郎们的奉承，展现了主角独特的心理和现实冲突。文本丰富而细腻，同时含有了许多婚礼准备的细节，包括身着婚纱、化妆及自我审视等，整体营造出一种既甜蜜又带有些许忧伤的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[迟来的蝶变]已更至第51章，.doc]([改造]_[迟�
 | Size            | 687104 bytes                           |
 | MD5             | 42811a840c42d5b96a38d704214ef0d2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 婚礼, 自我探索, 调教, 内心挣扎, 爱情, 婚姻, 成长, 二次元, 变身, 情感纠葛, 角色扮演, 女性化, 青春, 情感治愈, 社会认同, 个体经验, 人生转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

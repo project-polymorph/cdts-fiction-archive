@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_谁是受害者2_.docx]([皮物]_谁是受害者2_.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《谁是受害者2》是一篇涉及伪娘与变身主题的小说，描绘了一名男性角色在遭遇神秘人物与药物影响后，面临性别与自我认同的冲突。故事围绕着一个名叫芄兰的角色展开，她通过药物及心理操控使主角经历自我认知的变化，暗示了性别转换带来的不适与挑战。文中多次提及“榨精”、“春药”等情节，展现了对色情内容的描写。同时，环境的描写也带有一丝恐怖气氛，如“整个环境好像被废弃的医院一样”。通过主角与芄兰的互动，读者可以窥见角色复杂的心理状态及对性别认同的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_谁是受害者2_.docx]([皮物]_谁是受害者2_.docx)
 | Size            | 44115 bytes                           |
 | MD5             | 8f48858b8279f64635ad3a1090b55a59                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 春药, 性别认同, 自我探索, 阴谋, 恐怖, 心理操控, 药物影响, 二次元, 性别转换, 恋爱, 奇幻, 暗黑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[旧文重贴]灵魂管理器.doc]([附身]_[旧文重贴]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇涉及伪娘与性转主题的小说，讲述了一个名叫王小杰的大学研究生的奇异经历。他在一次夜间隐秘行为中，借走了邻居周倩的内衣并为此感到兴奋。故事情节随即发展，王小杰无意中得到了一种名为“灵魂管理器”的神秘设备，通过它他实现了灵魂的转移，进入了周倩的身体。在周倩的身体里，王小杰经历了一系列关于性别认同与性欲的探索，同时面临着周倩前男友李东的侵扰与操控，情节逐渐变得紧张与复杂。文件的内容涵盖了对性别转换、伪娘文化以及潜在的性暴力等主题的探索，描述中涉及了高度的性暗示和底线内容策略。包括王小杰的无辜渗透以及对周倩身体的感知等等，突出了身份的认同与欲望的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[旧文重贴]灵魂管理器.doc]([附身]_[旧文重贴]
 | Size            | 50688 bytes                           |
 | MD5             | a57d3687906eb5e263cd6b72dc31d967                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 灵魂转移, 性别认同, 大学生活, 性暗示, 人物之间的冲突, 心理探索, 强奸, NTR, 女体化, 性转, 情感纠葛, 都市小说, 调教, 梦境与现实的交错                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

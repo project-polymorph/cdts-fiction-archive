@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_九尾刃第十章（第一部完结章）.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说'九尾刃'的第十章（完结章），讲述的是一个关于修真界斗争与角色自我挣扎的故事。章节中，角色妲己与帆之间的身体控制权争夺是主要冲突。随着妲己召唤出九尾刃，展开了与各大修真门派的掌门之间的战斗。其他门派如峨眉、五岳等也参与其中，展现了各派掌门的武器与法术。帆在与妲己的斗争中，面临自我认同与身体控制的冲突，最终选择了自爆，试图打破控制，展现了他复杂的心理历程。章节最后揭示了事情的后果以及帆的救赎，给人留下深刻的思考与感慨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_九尾刃第十章（第一部完结章）.docx]([皮物]_
 | Size            | 19891 bytes                           |
 | MD5             | b6fc2bc48ae2bedb54aa108f406e5b80                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 九尾刃, 修真, 角色扮演, 身体控制, 自我认同, 幻想, 战斗, 冲突, 魔法, 超自然, 情感纠纷, 文化冲突, 变身, 阴谋, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

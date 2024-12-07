@@ -7,7 +7,7 @@ TXT 下载: [[交换]_为什么这么对我（十）.docx]([交换]_为什么这
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一篇描写了性别转换和性虐待情节的小说片段。故事围绕一个名为小美的角色，她被另一个角色雨萌以虐待的方式控制，并被迫扮演宠物狗。小说中细腻描绘了角色在SM情境下的心理变化，以及对自我身份的挣扎与屈服。小美经历了身份、性别以及社会角色的彻底重塑，感受到绝对的恐惧和绝望。她意识到在雨萌的掌控下，自己的尊严和自我意识都被剥夺，只剩下作为宠物狗的身份被迫承受羞辱与屈辱。故事展示了强烈的心理压迫和性别角色的反转，描绘了复杂的情感与性别认同的矛盾冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_为什么这么对我（十）.docx]([交换]_为什么这
 | Size            | 19293 bytes                           |
 | MD5             | 4c96e3735f2129e3fc3f3c838417e28a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, SM, 性虐待, 性别认同, 心理戏, 绝望, 羞辱, 宠物角色, 性别转换, 女性向, 男娘, 强制变化, 情感操控, 自我探索, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

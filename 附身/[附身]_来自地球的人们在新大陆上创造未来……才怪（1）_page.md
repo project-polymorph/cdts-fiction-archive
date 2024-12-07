@@ -7,7 +7,7 @@ TXT 下载: [[附身]_来自地球的人们在新大陆上创造未来……才�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《来自地球的人们在新大陆上创造未来……才怪》是一部科幻幻想类小说，主要描绘了一个因地球生态环境崩溃而毁灭的人类文明的未来。故事设定在一个名为洛林帝国的异星上，描述了灵魂跃迁器的运作原理，如何将幸存的人类意识转移到新的身体，并以此继续繁衍生息。故事的主人公陈清扬是一名被转移的灵魂，他在异星的生活与探索中，邂逅了银发美少女艾拉，并通过她逐渐了解这个新世界的历史与文化。在不熟悉的环境中，陈清扬面临着身份的认同与适应过程。作品涉及科技、灵魂转移、性别认同，以及人与人之间的关系等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_来自地球的人们在新大陆上创造未来……才�
 | Size            | 30771 bytes                           |
 | MD5             | 30f26005f75e33f5f4106bd51962ec3b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 灵魂转移, 性别认同, 异世界, 探索, 科幻战争, 人性, 未来文明, 冒险, 人机关系, 社会组织, 权力斗争, 青春成长, 浪漫, 自我认知, 转生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

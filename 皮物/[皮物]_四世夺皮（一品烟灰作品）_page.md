@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_四世夺皮（一品烟灰作品）.docx]([皮物]_四世
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《四世夺皮》是由一品烟灰创作的一部跨性别题材的小说，以性转和角色变换为核心情节。故事的主角原本是一个山野樵夫，偶然间误入仙人洞，获得了一本可令其夺取他人皮囊的修行书籍。通过修炼夺皮术，主角不仅可以改变自己的身体，还能代替他人的身份。
+
+小说的情节穿插历史与幻想，设定在殷商时期。主角化为苏护之女，进入王宫，却因为纣王的淫乱而陷入权力的漩涡。随着故事的发展，主角的身份与遭遇逐渐复杂化，先后化为妲己、貂蝉等历史女性角色，经历多次变换与情感挣扎。作者在书中展现了权力、欲望、爱情与修行之间的纠葛，以及主角自我认同的探索。
+
+整部小说探讨了性别与身份的流动性，并融合了一些带有性暗示与色情内容的情节，体现了人性与社会的复杂性。其情节涵盖了强烈的情感、历史事件以及对性别认同的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_四世夺皮（一品烟灰作品）.docx]([皮物]_四世
 | Size            | 15738 bytes                           |
 | MD5             | f8a04c55520c35740a6befb3057994be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 一品烟灰                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 历史小说, 修行, 权力游戏, 角色代入, 自我探索, 情感纠葛, 三国演义, 幻想世界, 欲望与人性, 权力与性, 社会批判, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

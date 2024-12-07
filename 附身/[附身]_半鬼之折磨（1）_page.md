@@ -7,7 +7,7 @@ TXT 下载: [[附身]_半鬼之折磨（1）.doc]([附身]_半鬼之折磨（1�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位男子在追捕中跌下悬崖后灵魂转移到一名年轻女子身上的故事。主人公在逃避警方的追捕时，为了保住自由选择了自杀，然而其灵魂却进入了名为李丽珍的女性体内。转生后的李丽珍是一位充满活力且渴望自由与爱情的年轻女子，故事中描绘了她的内心挣扎和对新生活的探索。文件中包含对李丽珍日记的详细描写，透露出她与家人、社会的关系以及她的内心世界。在情节推进中，李丽珍渐渐发现，自己的新身份成了她实施计划的工具，尤其是控制她的灵魂获取他人的身体和灵魂。该文本探讨了身份认同、灵魂的重生以及权力和欲望之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_半鬼之折磨（1）.doc]([附身]_半鬼之折磨（1�
 | Size            | 35840 bytes                           |
 | MD5             | 2466d599285219240bf20bc1a789f9b8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 灵魂转移, 跨性别, 欲望, 自由探索, 家庭关系, 身份认同, 自我意识, 情感纠葛, 青春, 超自然, 心理斗争, 角色扮演, 荒诞, 强奸, 调教, 逆后宫, 教师与学生, 恋物癖, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

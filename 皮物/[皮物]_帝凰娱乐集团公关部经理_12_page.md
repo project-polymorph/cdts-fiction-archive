@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_12.docx]([皮物]_帝凰
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档摘录了跨性别性质的小说片段，主要围绕一对情侣的日常生活和亲密关系展开。故事的女主角在晓乐的陪伴下体验了一段甜蜜的共同生活。文中详细描绘了她在晓乐家居住的情景，以及两人之间的轻松互动，比如在浴缸里嬉戏、晨起后晓乐为她做早餐等。故事中透露出他们彼此之间的依恋和虔诚的情感，女主也逐渐适应了晓乐为她选购的衣物，显示出一种角色转变的自我认知过程。尽管故事有些甜美、温馨，但也夹杂着关于性别认同、亲密关系和生活细节等主题的讨论，反映了现代跨性别者的生活状态与寻求接受的心路历程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_12.docx]([皮物]_帝凰
 | Size            | 24586 bytes                           |
 | MD5             | c377ce134a2016d818fc7396804a6d6f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 情感交流, 同性恋, 生活日常, 角色认同, 伪娘, 性转, 亲密关系, 同居, 家庭亲密, 二次元, 爱情, 日常生活, 变身, 幻想元素, 甜蜜                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

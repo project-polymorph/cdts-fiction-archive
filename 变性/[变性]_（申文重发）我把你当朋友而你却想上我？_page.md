@@ -7,7 +7,7 @@ TXT 下载: [[变性]_（申文重发）我把你当朋友而你却想上我？.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部关于性别变化题材的小说，讲述了主人公辰枫在晚上自习时因意外入睡而意外变身为萝莉女孩的故事。故事开头，辰枫在教室中醒来，发现自己已经变成了一个可爱的女孩，随后他发现自己在性别和身体方面都发生了巨大的变化。面对突如其来的变身，辰枫感到震惊和不安。小说情节发展至他在回家的路上，遭遇了两个恶性男子的骚扰和侵犯，面对这种威胁，辰枫内心的恐惧和无助随之而来。在故事的高潮部分，辰枫被好友骆星延救下，他们随后开始讨论变身的原因和可能的后果，阐释了性别认同和自我意识的主题。这部小说不仅探讨了性别转换的身体体验，还涉及到了自我认同与社会压力的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_（申文重发）我把你当朋友而你却想上我？.
 | Size            | 53248 bytes                           |
 | MD5             | 0f72126aa0755482e98a5e5cc6f585e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 跨性别, 校园生活, 自我探索, 性别认同, 萝莉, 青少年, 奇幻, 友情, 恐惧, 性侵犯, 成长, 逃避, 文化现象, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

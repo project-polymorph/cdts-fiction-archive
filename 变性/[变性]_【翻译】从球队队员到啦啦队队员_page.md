@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】从球队队员到啦啦队队员.doc]([变性
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个高中男孩卢卡斯的故事，他是一名明星四分卫，拥有傲慢的性格和高大的体格。在一次练习后，队友们因对他的厌倦决定对他展开报复，他们利用一种能够使人转变性别的喷雾侵袭了他。卢卡斯在被喷雾影响后，逐渐感受到身体和心理的双重变化，包括声音的改变和外貌的提升。他从一个自信的男孩变成性感的女孩露西，经历了羞辱、绝望，以及队友们的玩弄和侵犯。小说深入探讨了性别认同、自我认知和身体转变带来的冲突，以及在这个过程中卢卡斯（露西）对自身价值的重新理解。虽然情节包含了一些限制级内容，但整个故事围绕着卢卡斯从男性到女性的转变过程展开，反映出人物的内心斗争和情感变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】从球队队员到啦啦队队员.doc]([变性
 | Size            | 37376 bytes                           |
 | MD5             | 31fbae17a6aa511e276591ca1b711d15                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 羞辱, 自我认同, 禁忌恋, 青少年, 体育, 虚拟故事, 男娘, 校园情节, 权力动态, 情感探索, 性别角色, 性经历, 青春期, 成长, 自我发现, 社会压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_光棍節之遇（61之後）.docx]([附身]_光棍節之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档名为《光棍节之遇（61之后）》，内容围绕着家庭关系和角色之间复杂的情感纠葛展开。故事的主线围绕主人公在回到家中后发生的一系列意外和奇怪的情节展开，主人公回家发现父母的感情似乎在变好，甚至越发热恋。这种变化让他感到困惑，因为他觉得生活开始变得无聊而平淡。随着情节的发展，主人公在家庭和情感的双重压迫下，开始有了不堪回首的回忆，特别是对于父母私密生活的思考。文中还涉及到了主人公意外发现的父母卧室的情景，暗示着家庭内部的复杂与禁忌，使得主角对父母的形象开始动摇。故事将悬疑与家庭伦理结合在一起，展现了对性别和身份认同的探讨，同时包含了一些含混不清且可能让人不适的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_光棍節之遇（61之後）.docx]([附身]_光棍節之�
 | Size            | 21473 bytes                           |
 | MD5             | 8c9a3c5b785ee56ea3cf0dd904904fde                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 家庭关系, 女性形象, 情感纠葛, 自我探索, 欲望, 禁忌, 角色变身, 悬疑, 伦理, 心理冲突, 情绪波动, 艺术观念, 二次元, 深层内部关系, 隐秘生活, 成年人的世界, 表面与真实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

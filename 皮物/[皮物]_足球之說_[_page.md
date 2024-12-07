@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_足球之說_[.docx]([皮物]_足球之說_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于伪娘与足球结合的恶搞小说，叙述了一位足球运动员在观看世界杯比赛时情绪低落的经历。故事中，主角在与一名女子的邂逅中，从沮丧中逐渐走出，分享了一段充满调侃和趣味的情感互动。小说中融入了对足球文化、球员生活及男女搭配的幽默观察，带有浓厚的戏谑和调侃元素。例如，主角沮丧地说"為什麽我們就老踢不好呢？"并在与女性互动时展示出幽默和自夸的情节。整个故事通过夸张的幽默和含蓄的色情内容描绘了足球与男女关系的有趣碰撞。值得注意的是，该文本不仅仅是关于足球，更是对性别表达及社会角色的调侃，反映了一些社会现象。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_足球之說_[.docx]([皮物]_足球之說_[.docx)
 | Size            | 20841 bytes                           |
 | MD5             | 4595ad45e1c33e8452a4aca25ec0486c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 足球, 恶搞, 情感互动, 自我认知, 幽默, 戏谑, 性别角色, 青春, 运动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_安妮小姐（扩充）.doc]([变装]_安妮小姐（扩�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《安妮小姐（扩充）》为一篇涉及变装与性别认同主题的小说，讲述了主人公在寄养家庭中与贝蒂姨妈及其女儿茜茜之间复杂且充满挑战的关系。故事开头，主人公回忆起与贝蒂姨妈及其时装杂志的关系，同时描绘了一个充满权力和操控的环境。贝蒂姨妈是一名出色的摄影师，她的工作内容涉及男性变装，而主人公在潜意识中对这种变装生活产生了强烈好奇。一段时间后，主人公被诱惑而尝试穿上贝蒂姨妈的道具，从而引发了一系列关于性别认同和自我探索的内心挣扎及生理反应。故事中描述了对变装、权力游戏与心理冲突等复杂情感的细腻刻画，展现了主人公在探索自我身份过程中的痛苦与喜悦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_安妮小姐（扩充）.doc]([变装]_安妮小姐（扩�
 | Size            | 61440 bytes                           |
 | MD5             | a20445d86f12e3e606daafe0354b5502                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 跨性别, 自我探索, 心理冲突, 权力游戏, 伪娘, 性感, 成人内容, 摄影师, 寄养家庭, 奇幻, 性转, 调教, 贞洁带, 角色扮演, 男性角色, 女性角色, 情感纠葛, 复杂关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

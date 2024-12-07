@@ -7,7 +7,7 @@ TXT 下载: [[附身]_坏蛋是怎样炼成的2（整形篇）.doc]([附身]_坏
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《坏蛋是怎样炼成的2（整形篇）》，内容围绕着性别附身与整形手术的情节展开。故事的主角是一个名叫童瑾言的女孩，她的身体被一个鬼魂夺舍，并在此期间展示出其高超的整形技术。故事详细描述了一个整形医院的内幕，以及如何通过整形手术将一位年轻女孩的外形彻底改变，使其成为一个具有清纯外貌的美少女，以便在娱乐圈中谋生。文中包含了有关整形手术过程的细节描写，包括肉毒素注射、牙齿磨薄、皮肤美白等，同时也涉及到性相关的描写，如对角色身体的性化表述和性行为的暗示。整篇文章在探讨性别认同与身体改造的同时，涉及了不少禁忌与敏感的话题，较多地涉及了性与权力的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_坏蛋是怎样炼成的2（整形篇）.doc]([附身]_坏
 | Size            | 35328 bytes                           |
 | MD5             | e26fa3cbff349ac1b497af4e9d0ba7b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 鬼魂夺舍, 整形手术, 跨性别, 青春, 娱乐圈, 清纯美少女, 自我认知, 性别认同, 身体改造, 阴道修复, 肉毒素, 色情描写, 心灵附体, 青少年, 文娱圈                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

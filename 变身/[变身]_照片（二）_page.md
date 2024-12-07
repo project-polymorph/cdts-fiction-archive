@@ -7,7 +7,7 @@ TXT 下载: [[变身]_照片（二）.docx]([变身]_照片（二）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位角色被变身成伪娘（女性形象的男性角色）的情节。在故事中，角色被小琳随身携带，感受到小琳的校园生活和她与学长之间的情感交流。角色被藏在小琳的粉红色钱包中，无法与外界互动，只能倾听小琳的日常生活，包括女生寝室的打闹、上课和逛街。随着情节的发展，角色意识到小琳背后隐藏的不为人知的情感关系，尤其是在情人节的前夕，她和学长之间的亲密互动。最为高潮的是，不仅小琳把角色的身份当作玩物，还在和学长约会后，将角色的灵魂与自己的身体结合，顺从地执行小琳的命令并与学长发生身体上的亲密关系。这一过程探讨了性别认同与自我意识的冲突，同时描绘了一段复杂而敏感的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_照片（二）.docx]([变身]_照片（二）.docx)
 | Size            | 27044 bytes                           |
 | MD5             | 21c1880d985d9803e250842c3c21310b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 跨性别, 校园生活, 情人节, 角色扮演, 自我探索, 情感纠葛, 性别认同, 性转, 强烈自我认知冲突, 男娘, 青春, 二次元, 幻想, 爱情, 校园恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

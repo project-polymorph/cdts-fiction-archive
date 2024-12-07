@@ -7,7 +7,7 @@ TXT 下载: [[变装]_温柔往事.docx]([变装]_温柔往事.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是标题为《温柔往事》的性转小说，主要讲述了一个角色在合租生活中与性别认同和情感纠葛的复杂故事。主角在新的学期里与室友不合，选择租房子，与原本熟识的朋友小刘重新联系。故事逐渐展开，描写了主角对小兰这样一位美丽女性的情感迷恋，以及他内心深处性别认同的挣扎。主角不仅渴望与小兰的亲密接触，同时也以一种隐秘而复杂的方式开始进行变装，体会成为女性的感受。在与小兰和小刘的互动中，主角常常回忆、幻想，甚至通过窃取小兰的物品来寻找她的气息，从而不断陷入情感的漩涡。故事中涉及的情感痛苦、自我探索以及潜在的性别认同问题，展现了变装及跨性别身份向内心自我认同的意义和探索。在高潮部分，主角悄悄穿上了小兰的衣物，体验另一种身份，体现了他内心的纠结与迷醉。随着小刘与小兰的关系发展，主角越发感到孤独与挣扎，试图在自己的小天地中找到平衡，同时面对自己和他人对身份的认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_温柔往事.docx]([变装]_温柔往事.docx)
 | Size            | 22157 bytes                           |
 | MD5             | c5c94df626e70a0c1a1ba17b20188185                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 自我探索, 情感纠葛, 校园生活, 伪娘, 交友, 爱慕, 孤独, 心理挣扎, 暗恋, 变嫁, 情感痛苦, 秘密生活, 亲密接触, 性别转换, 幻想经历                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

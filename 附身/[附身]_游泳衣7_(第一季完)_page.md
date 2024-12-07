@@ -7,7 +7,7 @@ TXT 下载: [[附身]_游泳衣7_(第一季完).doc]([附身]_游泳衣7_(第一
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《附身_游泳衣7_(第一季完)》是伪娘 TS 变身与跨性别相关小说中的一部分，描绘了一场意外的车祸事件以及中心人物小雪与丹丹的惊险经历。故事中，小雪通过穿着游泳衣成功地实现了与丹丹的身体互换，但在这一过程中，她们遭遇了一次严重的车祸，驾车司机受到了重伤，丹丹的父亲也在事故中身亡。文中生动地描述了两位角色在危急时刻的情感反应与心理变化，特别是丹丹失去父亲后的悲痛与绝望。通过描述角色的内心挣扎与对自我的探索，整篇小说探讨了性别认同与身体变化带来的复杂感受。同时，文中还表现出了日常生活中的细节与对人性的反映：在生死关头的选择、身体的拥有感、以及对家人关系的依赖。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_游泳衣7_(第一季完).doc]([附身]_游泳衣7_(第一
 | Size            | 47104 bytes                           |
 | MD5             | e9bd24f77d786503d2b74faaf1a1050b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 伪娘, 车祸, 身体互换, 自我探索, 情感纠葛, 青春成长, 心理冲突, 都市奇幻, 跨性别小说, 游泳衣, 意外, 父女情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

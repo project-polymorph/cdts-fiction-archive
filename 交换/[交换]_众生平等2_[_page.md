@@ -7,7 +7,7 @@ TXT 下载: [[交换]_众生平等2_[.docx]([交换]_众生平等2_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为性转与跨性别相关的小说第二话，情节围绕角色的性别转换展开，展现了复杂的人物关系与心理冲突。故事中的主角面临被替换的困境，展现出身体与身份的双重认同的混淆。开头提到，主角对替换者的行为提出质疑，认为不可能被身变男者所替代，从而引发一连串的对话与冲突。在过程中，角色的身体感受与心理体验交织，尤其是当替换的角色逐渐掌控自己身体的记忆与感知时，主角在身体与性别认同上的挣扎愈加明显。小说使用了诸如“玉像”，“美少女”等元素，探索性别转换带来的外在变化与内心的挣扎。此外，一些限制级的情节描述了身体与欲望的关系，引导读者思考性别的流动性和认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_众生平等2_[.docx]([交换]_众生平等2_[.docx)
 | Size            | 23766 bytes                           |
 | MD5             | 70c9e0ab9153798bebc70ac283d906bc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 自我认知, 人际关系, 心理挣扎, 身份认同, 情感冲突, 二次元, 虚拟现实, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

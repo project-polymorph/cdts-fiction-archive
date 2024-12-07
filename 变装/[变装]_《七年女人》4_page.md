@@ -7,7 +7,7 @@ TXT 下载: [[变装]_《七年女人》4.doc]([变装]_《七年女人》4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《七年女人》是由Holly Sharp创作的一部性别转换小说，故事围绕主角肖恩·特纳展开。他在生活中努力寻找自己的身份和位置。特纳的内心充满挣扎，作为一个变装者，他的生活与内心感受细腻交织。故事中描绘了他和朋友芭芭拉的互动，表达了对传统性别角色和女性身份的探讨。他们在美甲沙龙中进行对话，特纳一边享受着女性的生活方式，一边面临对自我认同的深刻反思。特纳与昔日女友安吉拉的邂逅，不仅使他感到痛苦，也引发对自己性别认同的更深层次思考。整部小说通过特纳的体验，探讨了性别、友谊和社会期望的复杂关系，并对传统的性别观念提出质疑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_《七年女人》4.doc]([变装]_《七年女人》4.doc)
 | Size            | 84992 bytes                           |
 | MD5             | db70e64d528f8fbc4c7a2a7b4f54057c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Holly Sharp                               |
+| Region          | 未知                               |
+| Date            | 1996-03-01                                 |
+| Tags            | 性别转换, 变装者, 自我认同, 二次元, 跨性别, 女友, 心理冲突, 女性友谊, 社会期望, 内心挣扎, 情感探讨, 现代生活, 美甲沙龙, 压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

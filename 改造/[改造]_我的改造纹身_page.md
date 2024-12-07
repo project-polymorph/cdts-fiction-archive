@@ -7,7 +7,7 @@ TXT 下载: [[改造]_我的改造纹身.docx]([改造]_我的改造纹身.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一名男性主角王之琳在一家衣服工作室入职后的故事。王之琳原本是一名男性，性别被误认为女性，并且为了工作不得不穿上女性的服装以符合公司的要求。故事中，王之琳面临着性别身份的困扰，以及被迫接受新的工作环境和社交方式。在与经理陈姐的交流中，王之琳表达了自己的困惑，经理则帮助他适应新环境并提供了一些必要的帮助，如为其准备女性服装和高跟鞋。在王之琳的新同事菲姐的帮助下，王之琳开始学习如何穿高跟鞋和进行女性化的打扮，甚至到美容院进行护理和化妆。在过程中，王之琳不断地接受社会对性别的期待和自身的认知变化，同时也经历了一些尴尬和心理冲突。整个故事围绕着性别认同和自我探索，展现了对角色性别转换的细致描写，以及在这样的变化下主角的内心挣扎和成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_我的改造纹身.docx]([改造]_我的改造纹身.docx)
 | Size            | 34337 bytes                           |
 | MD5             | 3249909df6f5c0c02093683e0a68b1a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 女性化服装, 性转, 跨性别, 伪娘, 高跟鞋, 制服, 美容护理, 职场故事, 青春成长, 自我认知, 情感纠葛, 社会期待, 心理变化, 性转小说, 变身小说, 职场挑战, 女性角色, 生活转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

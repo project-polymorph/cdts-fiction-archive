@@ -7,7 +7,7 @@ TXT 下载: [[附身]_邪教降临（三）（四）（五）（六）（七）�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《邪教降临》系列小说中的一部分，内容涉及性别转换与跨性别的情节。故事围绕角色伊文捷琳展开，她是一位女魔导师，在法师塔中经历了一场充满恐惧与愉悦的侵犯事件。文中详细描绘了她在浴池中的私密时刻，内心的挣扎，以及随之而来的快感与羞愧。随着故事的发展，她开始怀疑自己在法师塔洗手间的经历，混乱的记忆让她经历了一系列心理冲突，表现出欲望与恐惧的交织。该章节包含了对性行为的生动描绘，以及人物心理状态的深层次探索，适合研究性别认同与心理自我认知等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_邪教降临（三）（四）（五）（六）（七）�
 | Size            | 36233 bytes                           |
 | MD5             | 930b3f6dd3098e76558a0fa7bd7d12d9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 邪教, 跨性别, 性转小说, 人际关系, 欲望与恐惧, 独自探索, 心理斗争, 魔法, 法师塔, 羞愧与快感, 自我认知, 角色发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

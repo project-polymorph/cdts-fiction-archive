@@ -7,7 +7,7 @@ TXT 下载: [[改造]_李沐权的母狗游戏_第三部分.doc]([改造]_李沐
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是以李沐权为主角的第三部分小说，内容围绕着主人公在变身为狗后的生活展开。有些许戏谑和调侃的成分，描写了主人公经历的困扰和新身份带来的尴尬。故事开场便是主人公在四足行走的生理适应困难与内心反抗的矛盾。文中使用了大量生动的对话与内心独白，展现了主人公面对新身份时复杂的情感体验，比如在小区中走路时的憋屈，以及与“二狗子”之间的互动关系。主人公在跟随二狗子前往宠物店与公园的路途中，体验到周围人对其变化的直接反应，既有好奇又有异样的眼光，甚至有人试图触碰。细节描写生动有趣，透出一定的恶搞色彩，并且包含了一定的色情暗示与描绘。整体而言，该文档不仅是跨性别变身的叙述，也掺杂了关于自我身份认同的反思与幽默。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_李沐权的母狗游戏_第三部分.doc]([改造]_李沐
 | Size            | 39424 bytes                           |
 | MD5             | a26923b20dc5ee7391548754e7edd50a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 搞笑, 戏谑, 主人公自我认同, 社会反应, 奇幻, 两性关系, 宠物主题, 文化差异                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

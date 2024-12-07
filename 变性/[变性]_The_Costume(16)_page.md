@@ -7,7 +7,9 @@ TXT 下载: [[变性]_The_Costume(16).docx]([变性]_The_Costume(16).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说以特雷西为主角，讲述了他在生日当天经历的一次痛苦的性别认同危机。在电话中，特雷西接到了母亲的祝福，却意外地发现自己的声音变得女性化，让他不得不隐瞒真实的情况。他的身体逐渐发生变化，让他开始思考自己的性别认同。故事多次描绘了他的情感挣扎，尤其是在面对母亲的关心和询问时，更显露出他内心的矛盾与不安。
+
+小说中，特雷西在一系列事件中尝试接受自己的变化，从最初的羞愧与恐惧，到最后向母亲坦白。母亲的反应包容而复杂，既有对失去儿子的悲伤，也有对拥有女儿的欣喜。故事探讨了变性带来的心理冲突和家庭关系，以及在这个过程中亲情的支持与理解。特雷西的外表与内心的变化描写非常细腻，引发读者对性别与自我认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_The_Costume(16).docx]([变性]_The_Costume(16).docx)
 | Size            | 20520 bytes                           |
 | MD5             | 6911f200444b73000695c73838306507                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 家庭关系, 自我探索, 荷尔蒙治疗, 女性化, 情感挣扎, 亲情支持, 社会认同, 性别变换, 母子关系, 二次元, 变身小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

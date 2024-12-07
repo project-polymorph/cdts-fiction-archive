@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔槍●第二章‧邪心顯現(微修過後的正式版
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是多元性别文化的一部分，属于关于“伪娘”或变身类小说的档案作品，特别着重于第二章‘邪心显现’的描写。故事围绕一个名叫松野平的角色展开，他使用一把魔法枪，进入了另一种身份，体验了由男性转变为女性的复杂感受。随着情节的发展，松野平逐渐穿戴上属于五十岚樱子的身体特征——从制服到身材，再到内心感受的变化。这一过程伴随着性别认同、人身欲望与身份体验的交织，揭示了个体在性别转换中的心理斗争和身体变化。松野平在欣赏自己新身份时，流露出了对女性身体的好奇与探索，情节中夹杂了对性感与感官的细致描写，表现出了相对复杂的性别角度与性心理。这种内容可能适合于研究性别认同、身体变换以及相关文化现象的学者与研究机构。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔槍●第二章‧邪心顯現(微修過後的正式版
 | Size            | 18815 bytes                           |
 | MD5             | 968bb08466dcf204338074b42f211e5f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 魔法少女, 校园, 性别认同, 身体交换, 自我探索, 奇幻, 二次元, 性幻想, 心理描写, 角色扮演, 魔法, 美腿, 敏感特征                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

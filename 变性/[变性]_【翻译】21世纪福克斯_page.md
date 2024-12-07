@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】21世纪福克斯.docx]([变性]_【翻译】2
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《21世纪福克斯》的翻译版，主要讲述了一个关于角色自我认同与性别转换的故事。故事从主角的第一人称视角出发，描述了她在一个陌生环境中醒来的情景，展现了她的自我探索和对于自身新身体的感受。文本中细致描绘了她的身体特征和内心的秘密，透示了她与父权构造之间的复杂关系。故事中频繁提到的‘爸爸’象征着控制和保护，并引发了一系列关于自我认同和身体自主权的深层次思考。尽管故事充满了性暗示和色情内容，但与故事背景和角色的心理冲突密切相关，使其不仅是单纯的色情文学，还包含了对个人身份的反思和对性别角色的挑战。文中涉及多种敏感主题，包括性别认同、身体自主权以及对于权力结构的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】21世纪福克斯.docx]([变性]_【翻译】2
 | Size            | 37884 bytes                           |
 | MD5             | f0a5fa3008de053984b77440f6e97c7a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | suki                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 自我探索, 父权, 性别认同, 身体自主权, 奇幻, 二次元, 女孩, 性别角色, 情感冲突, 社群关系, 幻想, 挣扎, 社会控制, 性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

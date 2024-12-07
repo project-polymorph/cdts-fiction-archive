@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译小说】环法自行车赛_第四部分_完结.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容为一段与性别和身份认同相关的小说片段，描述了角色弗朗西丝在一次特殊场合的经历。文中提到，在高跟鞋的陪伴下，她与其他角色一起准备接待客人。巴勒莫小姐对她们的穿着和仪态进行严格的检查，强调女性的优雅与柔美。在这一过程中，弗朗西丝感受到自身的恐惧和期待，同时也被迫接受了作为女仆的角色。故事中包含了关于自我认同、性别表现、权力关系以及社会期待的复杂主题，展现了角色在这种身份定位下的心理挣扎与成长。除了主线情节外，还提及了一些可能涉及限制级内容的细节，这些内容为研究性别与跨性别议题提供了丰富的背景材料。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译小说】环法自行车赛_第四部分_完结.d
 | Size            | 68702 bytes                           |
 | MD5             | fc233eb67c398090246bbf438a645b37                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变身小说, 伪娘, 角色扮演, 午夜盛宴, 女性优雅, 心理挣扎, 社会期待, 身份探索, 权力关系, 女仆文化, 性别表现, 高跟鞋, 晚宴准备, 人生选择                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

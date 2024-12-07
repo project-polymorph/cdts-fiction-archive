@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【颠倒的爱】（二）.docx]([皮物]_【颠倒的爱
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《颠倒的爱》第二部分讲述了娜娜与露露之间的情感纠葛。故事开始于娜娜清晨醒来时，发现自己正安静地睡在露露的怀里。随着情节的发展，娜娜对自己的性别身份感到恐惧和厌恶，但又似乎逐渐适应了这个新的身份。在穿着女仆装与露露的日常相处中，她们之间的关系不断升温，充满了暧昧和少女间初恋的羞涩情感。文件中详细描写了娜娜的内心挣扎和对露露的依赖，展示了她在女仆角色中找到的快乐以及与露露间不断加深的情感连接。同时，文件中也涉及了敏感的性别话题与情感冲突，表现了娜娜对生理与心理状态的不适应，以及对露露的感情由混乱到逐渐认同的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【颠倒的爱】（二）.docx]([皮物]_【颠倒的爱
 | Size            | 23912 bytes                           |
 | MD5             | 1b643106ee8a3321d0763897dde8707d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 爱情, 女仆, 魔法, 二次元, 自我探索, 性别认同, 幻想, 亲密关系, 青春, 情感纠葛, 未知, 女体化, 强烈依赖, 羞愧, 心理冲突, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

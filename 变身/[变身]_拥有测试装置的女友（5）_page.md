@@ -7,7 +7,7 @@ TXT 下载: [[变身]_拥有测试装置的女友（5）.doc]([变身]_拥有测
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个具有神秘装置的女友的故事，主要探讨了个人对力量的追求和道德的冲突。故事的叙述者思考了拥有一个可以随意修改现实的装置的诱惑，以及其对他人和自己的影响。叙述者一方面承认在道德层面上使用装置的争议，另一方面却感到拥有这种力量所带来的快感和责任。通过对一对兄妹的身高交换以及产生的结果，故事展现了角色在权力与责任间的挣扎。整个故事充满了复杂的内心独白，探讨了人性与道德的边界，以及个人在享乐与责任之间的选择。文中有对女友使用装置的各种冲突与感想，以及她在现实中所经历的变化和自我反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_拥有测试装置的女友（5）.doc]([变身]_拥有测
 | Size            | 82432 bytes                           |
 | MD5             | 19819486066da7ffac89232725b7635c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 道德冲突, 自我探索, 权力与责任, 奇幻, 内心独白, 心理挣扎, 二次元, 交换治疗, 青春期, 人际关系, 现实与幻想, 性别认同, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

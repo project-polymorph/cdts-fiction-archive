@@ -7,7 +7,7 @@ TXT 下载: [[交换]_正道的光熄灭了.doc]([交换]_正道的光熄灭了.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《正道的光熄灭了》是一部以H市为背景的警匪对峙小说，主要讲述了女警局局长罗香在针对黑龙帮与白虎堂的行动中的表现和挑战。故事开头描绘了警署会议上，罗香对于即将展开的行动进行周密的部署，展现出她出色的领导能力和警员们对她的敬重。在紧张的行动中，罗香的严厉与温柔形成鲜明对比，加上行动的成功让警员们获得了难得的假期。随着故事的发展，罗香继续追查两个帮派的犯罪行为，并尝试通过审讯获取重要证据。文件中的一大转折是罗香与李寺（白虎堂的首领）意外交替了身体，这样的设定使得事情的发展更加扑朔迷离、引人入胜。该作品围绕着权力、性别认同、智慧与阴谋展开，描绘了主角在复杂局势中如何应对挑战，以及她在转变中所面临的内心冲突。整体氛围紧张而又充满悬念，展现了生动的二次元风格与跨性别的独特视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_正道的光熄灭了.doc]([交换]_正道的光熄灭了.
 | Size            | 355328 bytes                           |
 | MD5             | 8fd2615804d6e2e9d795ffc684724d59                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 警匪对峙, 性别交换, 女性主角, 黑社会, 社会正义, 权力斗争, 性别认同, 伪娘, 角色互换, 心理斗争, 暴力冲突, 卧底, 暗战, 都市情节, 双重身份, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_异途【第一章——第三章】.doc]([皮物]_异途�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为异途系列小说的前几章，主要描绘了在红桑镇发生的一场激烈的战争背景下，围绕战士李凌云与妖怪小桃之间复杂的关系与冲突。小说以红桑镇的战事为背景，讲述了异族乌鲁族的侵袭如何打破了长久的和平。在战斗的喧嚣中，李凌云作为副统帅，遭遇了妖怪小桃的诱惑与操控。故事中，小桃原是镇长的家仆，表面上对李将军情深意重，实际上却是一只伪装成女人的妖物，设法借助他的身体吸收精气。随着情节的深入，妖怪的真实身份逐渐显露，李凌云也在战斗与欲望中迷失。文中涉及了多层次的性别认同、欲望的复杂交织，表现出男性与伪娘（或妖怪）之间的奇妙关系。整个故事在紧张的战斗氛围与阴暗的欲望交织中展开，揭示了人性欲望与生存斗争的惨烈。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_异途【第一章——第三章】.doc]([皮物]_异途�
 | Size            | 95232 bytes                           |
 | MD5             | eddd9cfbe9f138ed13c971314a2c16d9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异世界, 战斗, 妖怪, 欲望, 性别认同, 阴暗心理, 权力斗争, 自我探索, 变身小说, 伪娘, 人性, 吸精, 调教, 强暴, 浪漫幻想, 修仙                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

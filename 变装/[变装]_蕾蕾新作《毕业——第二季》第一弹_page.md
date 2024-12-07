@@ -7,7 +7,11 @@ TXT 下载: [[变装]_蕾蕾新作《毕业——第二季》第一弹.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇描绘男孩白琳在变身为女孩过程中的心理挣扎与情感纠葛的小说，主线围绕着角色的自我认知与性别认同展开。故事从白琳醒来后发现自己变成了身体为女性的形态入手，深入探讨了本人在面对这个突如其来的变化时的困惑与恐慌。白琳与朋友妮儿一起饮酒后失去了记忆，被一个名叫程诚的人控制并带到一个陌生的环境。
+
+文件内容描述了白琳对自己变身的恐惧和对程诚动机的猜测，程诚的兴奋也加深了白琳的羞耻感。文中有描述白琳刚醒来时感受到的“如同洁净、清新的空气温柔的穿透全身每一处毛孔”的舒适感，以及后来的慌乱与愤怒，体现了角色复杂的情感变化。程诚对白琳身份的质疑与掌控让故事紧张感加剧，展现了这段关系中潜在的权力游戏和性格冲突。
+
+全文采用了细腻的心理描写与对话，揭示了跨性别角色在自我认知与外界压力下的心理状态，以及在非自愿变身后的生活局势，具有较强的戏剧性与冲突性。值得注意的是，故事可能包含成人内容，适合对多元性别与性别认同主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变装]_蕾蕾新作《毕业——第二季》第一弹.docx]([�
 | Size            | 18260 bytes                           |
 | MD5             | c4c66132b9d47c1d7d6183b51af09320                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 蕾蕾                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 男扮女装, 性别认同, 心理挣扎, 程序诚, 白琳, 成人内容, 自我探索, 关系冲突, 性别转换, 角色扮演, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_真实系皮物《畸·恋》上+下_完全版.doc]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《畸·恋》的伪娘题材小说，讲述了一位男性主角穿上仿真人皮，变身为女性的心路历程。故事在细腻的心理描写中，探讨了主角如何在现实与理想之间挣扎，以及穿上人皮后所体验到的各种复杂情感。从小说开头的自我认知冲突，到主角在旅途中面对社会和个人身份的矛盾，文本通过轻松幽默的叙述风格，描绘了一段充满戏剧性的旅行。主角在车厢内的细腻观察，以及与其他乘客的互动，展示出他对自己的性别认同和社会期望的反思。小说不仅仅是一个变身的外在过程，同时也是一次内心的探索之旅。在这个过程中，主角的自我怀疑与自我确认交替出现，揭示了性别认同与社会角色的深层次关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_真实系皮物《畸·恋》上+下_完全版.doc]([皮�
 | Size            | 51712 bytes                           |
 | MD5             | ac74781915d9d839a9aef334e022b4f3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 人皮, 社会探讨, 心理描写, 青春, 自我探索, 复杂关系, 旅途, 幻想, 二次元, 现代生活, 现实与理想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

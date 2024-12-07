@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼　８.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《小龙女狂想曲》中的第8节，名为《女犬出游》。故事主要描述了一群角色因雌航的神通而化身为女犬，并在桃花岛上与小龙女及雌航展开一段奇异的探险。在这个过程中，角色们体验到了羞耻与快乐的双重感受，展现了复杂的性别与身份认同主题。随着情节的发展，角色们不仅需要遵循雌航的命令进行各类调教，还在阳光明媚的环境中享受变身后的存在，彼此互动也变得愈加大胆。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼　８.doc]([变身
 | Size            | 47104 bytes                           |
 | MD5             | 5dde4a8f5131722d55a5817ba032f1e6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 情感探索, 羞耻与快感, 古墓派, 轻功, 女犬, 调教, 冒险, 二次元小说, 性别认同, 异世界, 色情内容, 奇幻, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

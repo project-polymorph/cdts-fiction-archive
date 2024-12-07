@@ -7,7 +7,7 @@ TXT 下载: [[交换]_假期回家的我，变成了女友的妈妈.doc]([交换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一段关于主人公在假期回家时发生的奇妙变身经历。故事开始于主人公跟随女友安安去她家见母亲，主人公在与安安的母亲杨阿姨相处过程中，意外地发生了一系列灵体交换的事件。主人公一开始是以男生的身份出现在阿姨家中，但随着剧情的发展，由于碰撞而交换了身体，成为了杨阿姨的样子。文中详细描绘了主人公对于自身变身后的感受，以及与杨阿姨之间的互动与调侃，展现了奇幻与性别变换的主题。故事氛围时而轻松搞笑，时而带有些许悬疑和羞涩，涉及到了身体认知、性别身份的思考等深层次的心理描写。关键词包括性别变换、灵体互换、自我探索、亲密关系等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_假期回家的我，变成了女友的妈妈.doc]([交换
 | Size            | 58368 bytes                           |
 | MD5             | 282de9bbca768247e34faaef033468dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 灵体交换, 变身, 跨性别, 自我探索, 阿姨, 年轻少妇, 双性恋, 奇幻, 恋爱, 青春期, 二次元, 女性视角, 身体认知, 搞笑, 温馨                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

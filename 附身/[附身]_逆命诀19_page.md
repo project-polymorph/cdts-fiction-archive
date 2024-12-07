@@ -7,7 +7,7 @@ TXT 下载: [[附身]_逆命诀19.doc]([附身]_逆命诀19.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部分跨性别相关的小说，名为《逆命诀》，该文本展现了角色之间复杂的关系与情感变化，涉及角色青萱彤和柳白月的互动及成长经历。故事背景设定在一个存在魔兽与修士的奇幻世界中，青萱彤作为一个化形的妖怪，经历了附身的过程，最终克服了身份上的局限，探索着自己的新生。正文中提到角色对于失去自身妖丹的痛苦和对魔兽的感情，以及角色对人类社会的适应和探索，反映了性别认同的探讨。角色们的心理变化与自我认知是本故事的一大主题，尤其是在修行与人性间的矛盾冲突中，展现了他们的成长与挣扎。文件文字包含了一些可能包含色情内容和复杂感情的发展场景，表现出唐灵儿的魂魄修复与赵皑的复仇计划等情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_逆命诀19.doc]([附身]_逆命诀19.doc)
 | Size            | 39424 bytes                           |
 | MD5             | 7b6d4c3907208dfec77a6dd4998dcbde                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 幻想, 跨性别, 复杂关系, 角色成长, 附身, 修行, 魔兽, 情感纠葛, 人性, 妖怪, 性别认同, 自我探索, 奇幻故事, 灵魂转移, 情感与身份, 力量与责任                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

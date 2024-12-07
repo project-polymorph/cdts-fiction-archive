@@ -7,7 +7,7 @@ TXT 下载: [[附身]_移魂咒（教師篇_下篇）.docx]([附身]_移魂咒�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个有关性别转换的跨性别小说故事，讲述了一个角色李启透过移魂咒变身为女老师赵金丽后的经历。在故事中，李启在变身后面对学生们的反应以及与同事的互动，以及与男同学之间微妙的情感纠葛。随着故事发展，李启被男性同事何主任邀约到餐厅，并试图追求赵老师。在一系列充满性暗示与暧昧的场景中，描绘出了角色在与何主任的关系中感受到的内心矛盾与身体的变化。尤其在宾馆一段中，李启的心理斗争与情感困扰被深刻表现，如其虽在身体上变成女性，却因此而感到不适和羞愧，但又无法抗拒身体的反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_移魂咒（教師篇_下篇）.docx]([附身]_移魂咒�
 | Size            | 21900 bytes                           |
 | MD5             | a9cc527c95432c121e1f039292444d05                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 老师, 情感纠葛, 移魂咒, 青春校园, 爱情, 性暗示, 角色认同, 幻想, 情欲, 自我探索, 性别认同, 性别冲突, 超现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

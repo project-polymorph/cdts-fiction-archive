@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_寒蝉（二章_上+下）.docx]([皮物]_寒蝉（二章_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《寒蝉（二章_上+下）》，内容围绕主角刘以光的生活和心理冲突展开。故事设定在一个酷热的夜晚，刘以光因邻居的喧闹和纵欲声而感到烦恼，他尝试与邻居沟通的过程中，展现了他内心的愤懑与苦恼。刘以光是一名刚毕业的青年，处于人生的迷茫阶段，正努力寻找工作。与此同时，故事也穿插了他对往昔和旧友陈梓明的回忆，这种怀旧感与现实的职场压力形成对比。随着情节的发展，刘以光意外得到了一份来自麦琪科技的工作邀请，藏在其中的是他对未来的希望与期待。剧情涉及夜晚的骚动、性暗示、职场竞争及人际关系等复杂主题，展现了现代年轻人在生活中遇到的挑战与探索自我的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_寒蝉（二章_上+下）.docx]([皮物]_寒蝉（二章_
 | Size            | 28259 bytes                           |
 | MD5             | 12d53456044328dfd1138c7661f3c017                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 青春, 都市生活, 职场, 人际关系, 邻居骚扰, 自我探索, 性别认同, 怀旧, 爱情, 心理斗争, 励志, 日常生活, 转换人生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

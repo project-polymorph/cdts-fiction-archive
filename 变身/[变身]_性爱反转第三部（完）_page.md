@@ -7,7 +7,7 @@ TXT 下载: [[变身]_性爱反转第三部（完）.docx]([变身]_性爱反转
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部关于变身与性转主题的小说，其内容描绘了一个名为山姆的男孩在科学实验项目中经历性别与身体的变化。故事通过第一人称的视角，展现了山姆接受与女性结合、饮用女性精液等实验过程，逐渐适应身体的变化并开始享受新的生活方式。文本中涉及多个性别与性相关场景，详细描绘了心路历程、身体变化和对性快感的探索。诸如，“我会去邮箱取每天要喝的精液，然后在那里和茉莉碰面”，表明了他与项目相关女性角色之间复杂的关系。随着情节的发展，山姆不仅面临自我的性别认同，还在日常与实验室的生活中寻找归属感和愉悦感。这部小说同时融合了许多限制级情节，在描写中坦诚展现了身体与自我认知的冲突以及探索过程，属于二次元创作领域中独特的伪娘与变身类作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_性爱反转第三部（完）.docx]([变身]_性爱反转
 | Size            | 42438 bytes                           |
 | MD5             | 5ade6a652667fe481a136aea28cae9a0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身, 伪娘, 男娘, 跨性别, 性转, 爱情, 性感别扭, 实验性行为, 多重性别体验, 青少年成长, 心理变化, 禁忌关系, 高潮体验, 身体意象                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

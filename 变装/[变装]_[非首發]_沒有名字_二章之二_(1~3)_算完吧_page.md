@@ -7,7 +7,7 @@ TXT 下载: [[变装]_[非首發]_沒有名字_二章之二_(1~3)_算完吧.doc]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一个伪娘与跨性别相关的小说片段，展示了角色在变装过程中所面临的互动和情感动态。故事围绕主角修仁和玉兰的日常生活，涉及角色名的使用变化和彼此之间的亲密关系。情节中，修仁帮助玉兰穿上马甲，并调侃彼此的称谓变化。随后，角色们参与了一项服装测试，并接到了一封要求测试新药的电子邮件。文中不仅有关于角色穿戴乳胶衣的细节，还涉及到角色的身体情况与性别认同的探讨，展现了他们在性别表现和心理认同上的复杂性。在后续的服装试穿和角色互动中，展现了对性别角色流动性的探索，以及对身体欲望与认同的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_[非首發]_沒有名字_二章之二_(1~3)_算完吧.doc]
 | Size            | 50176 bytes                           |
 | MD5             | 5b096e1dd30dff3c5a1cfd33f8bb61f3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 跨性别, 变装, 性别认同, 药物测试, 乳胶衣, 情感交互, 角色扮演, 同性恋, 自我探索, 女同性恋, 性别流动, 青春, 社交渴望, 心理认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

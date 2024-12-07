@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我附身成了异界少妇（3）.docx]([附身]_我附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部名为《我附身成了异界少妇（3）》的伪娘和变身小说，讲述了角色小娜通过催眠控制了名为西亚的少女的意识，导致其灵魂与身体的混乱。开篇描绘了小娜（后称雅莉娜）成功催眠西亚，角色之间的心理变化和逐步升级的情感纠葛在文本中展示得淋漓尽致。通过催眠，雅莉娜的灵魂占据了西亚的身体，皇族身份与女仆之间的权力对抗与心理斗争成为主要情节。文中包含了大量性暗示、心理操控和性别认同等复杂主题，反映出对角色自我意识和性别转换的思考，尤以雅莉娜对西亚的操控与调教表现得尤为突出。文本中多次提及心理变化与身心的再认知，突显了女性之间的情感和欲望的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我附身成了异界少妇（3）.docx]([附身]_我附�
 | Size            | 18223 bytes                           |
 | MD5             | 8d41c4941b43a33decc1be7a5a33be6b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 催眠, 跨性别, 女仆, 强暴, 自我认同, 灵魂交换, 权力游戏, 女同性恋, 调教, 魔法, 女性视角, 性感, 异界冒险, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

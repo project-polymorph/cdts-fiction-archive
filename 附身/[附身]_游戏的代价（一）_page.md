@@ -7,7 +7,7 @@ TXT 下载: [[附身]_游戏的代价（一）.docx]([附身]_游戏的代价（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件《游戏的代价（一）》描绘了一个现代背景下的变身故事。主角曲琳附身于一个名叫欣欣的女性身上，体验着欣欣的生活和思维。在公交车上，曲琳注意到身边一名清纯的女生，并试图与她攀谈，表露出对这位女生的好奇与兴趣。在交谈中，曲琳展示了她轻松幽默的一面，并最终与女生亲密接触。文本探讨了对性别身份的思考以及在性别转变过程中的自我认知和心理冲突。通过对女生的打量和与其互动，展示了曲琳在新的身体中逐渐适应和体验不同社会角色的复杂性。此外，文本中还表现了一些较为露骨且性暗示强烈的情节，反映出主角在性别和身份转换中可能面临的道德和自我认同挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_游戏的代价（一）.docx]([附身]_游戏的代价（
 | Size            | 37272 bytes                           |
 | MD5             | 06154b05ea60aa977a9e837bbe53a1c9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 附身, 性别认同, 都市, 青春, 恋爱, 女性视角, 心理成长, 自我探索, 黑色幽默, 游戏, 二次元, 奇幻, 乱伦, 调教, 逆后宫, 强奸, 多元性别, 色情, 男娘, 雌堕                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

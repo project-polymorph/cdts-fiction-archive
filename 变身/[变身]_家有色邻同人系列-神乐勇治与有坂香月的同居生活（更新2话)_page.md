@@ -7,7 +7,7 @@ TXT 下载: [[变身]_家有色邻同人系列-神乐勇治与有坂香月的同
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含了一段关于两个角色阿勇和香月的互动故事。故事开头描绘了一次早晨的觉醒，阿勇突然发现自己变成了女友香月的模样，双重的身份认同引起了一系列的困惑与惊恐。在香月的恐慌下，两人开始探讨这一怪异现象的原因。在随后的对话中，阿勇与香月讨论了他们的感情和责任，甚至涉及到怀孕的问题。故事中融合了性别转换、亲密关系和情感冲突等主题，同时也包含了一些限制级内容，如调侃与挑逗。随着剧情的发展，阿勇逐渐开始接受这种变化，并戴上香月的服饰，体会和她相同的感觉。情节描绘生动，细腻表达了角色间的情感互动，适合研究关于性别认同和情感关系的学术讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_家有色邻同人系列-神乐勇治与有坂香月的同
 | Size            | 41472 bytes                           |
 | MD5             | 95788145a5901a2d4cad94b5e36bee7d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 恋爱, 情感冲突, 双性恋, 情色, 心理变化, 人物成长, 自我探索, 二次元, 伪娘, COSPLAY, 跨性别, 同居生活, 强奸, 怀孕, 调教, 情趣服饰, 强烈心理感受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

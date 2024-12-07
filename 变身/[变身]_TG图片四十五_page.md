@@ -7,7 +7,7 @@ TXT 下载: [[变身]_TG图片四十五.doc]([变身]_TG图片四十五.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于性别转换和魔法药水的短篇小说，围绕两个角色约翰和奈特展开。故事讲述了奈特准备了一种魔法药水，意图让约翰变成一个女性以满足自己的欲望，但意外中药水却作用在了奈特自己身上。奈特在药水的影响下经历了身体的剧变，从男性转变成了女性，感受到对约翰的疯狂爱慕。故事进一步探讨了奈特对新身份的接受与自我认同，同时描绘了他/她与约翰之间的情感互动。文本包含了多种性别认同与转换的细腻描写，涉及自我探索、人际关系以及生理变化等复杂主题，文中也融入了一些可能的性相关情节，适合作为性别研究的材料。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_TG图片四十五.doc]([变身]_TG图片四十五.doc)
 | Size            | 35840 bytes                           |
 | MD5             | 15895dc3ecd6b796016d0a2ebe57132b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 魔法药水, 跨性别, 自我认同, 情感纠葛, 男性转女性, 性别认同, 伪娘, 魔法, 都市幻想, 药水                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

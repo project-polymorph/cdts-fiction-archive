@@ -7,7 +7,7 @@ TXT 下载: [[其他]_TS聊天群(完)412更新至-番外.doc]([其他]_TS聊天
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位名为宋书宇的角色的故事，讲述了他在一个名为“TS一号群”的聊天群中与其他群成员互动的经历。故事开始于宋书宇翘课，他在房间中进行游戏，突然收到一个陌生人的好友请求并加入了一个以伪娘为主题的群组。在群里，众多成员以女性头像进行互动，讨论一些敏感话题。宋书宇对群组内容感到困惑，尤其是在他得知群组内部讨论涉及与性相关的内容时，他被群里的照片吸引，表现出好奇和兴趣。随着故事的发展，宋书宇发现自己在这个群体中的身份引发了一连串意想不到的事件，包括与同班同学李巧芸的奇异交集。李巧芸意外发现了群组的真实意图，使得剧情变得更加复杂。整个故事探讨了性别认同、社交互动和自我意识的主题，同时包含了一些可能属于成人内容的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_TS聊天群(完)412更新至-番外.doc]([其他]_TS聊天
 | Size            | 911872 bytes                           |
 | MD5             | 93fa10e237f5f3f4c79ac1e4dff2842b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, TS群, 伪娘, 社交媒体, 自我探索, 性别认同, 青春爱情, 奇幻, 二次元, 互动小说, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

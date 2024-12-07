@@ -7,7 +7,7 @@ TXT 下载: [[交换]_明明是哥哥却变成了妹妹的妹妹.doc]([交换]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《明明是哥哥却变成了妹妹的妹妹》是一篇关于性别变换的奇幻小说。故事围绕着兄妹两人展开，哥哥和妹妹都渴望交换角色，通过召唤恶魔实现愿望。文件中描述了妹妹希望哥哥变成她，并成为小学生，而哥哥则想逃避成人的责任，享受无忧无虑的童年。最终，在一次召唤中，兄妹的身体成功交换，使得哥哥体验到了作为小学生的生活。故事中充满了幽默和荒诞的情节，例如哥哥面对小学生活时的羞愧与无奈，以及他在新身体内的感受。文本通过魔法阵的描绘以及角色的心路历程，探讨了性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_明明是哥哥却变成了妹妹的妹妹.doc]([交换]_�
 | Size            | 46080 bytes                           |
 | MD5             | f29c220f2e2ac82d2e16eabd30559648                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 兄妹情, 魔法, 成长, 性别认同, 自我探索, 奇幻, 心理冲突, 生活, 小学生活, 恶魔契约, 伪娘, 童年, 幽默, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

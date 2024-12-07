@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【错乱的人生】.doc]([皮物]_【错乱的人生】.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《错乱的人生》描绘了李图在一次复杂的情感和心理冲突中的遭遇。故事发生在某个郊区的别墅，李图是一位28岁的男性，身为跨国制药公司的销售主管，他面临着道德与欲望的挣扎。李图的妻子杨灵被安排作为特工，潜伏在他身边，而她的替身竟是一个男性特工，模仿她的声音和外貌。李图在面对这个看似与妻子无异的‘她’时，内心充满混乱和矛盾，他的性别认同面临严峻考验。情节一波三折，李图与这个男性特工之间的互动充满了张力，不同于一般的爱情故事，小说突显了性别认同、自我探索等复杂主题。随着情节发展，李图的情感逐渐变得复杂，直到他最终被迫面对自己内心的真实感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【错乱的人生】.doc]([皮物]_【错乱的人生】.
 | Size            | 62976 bytes                           |
 | MD5             | 992ab4dddc079c1ddfa5aaefb2aaf3ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 跨性别, 伪娘, 情感冲突, 生物科技, 道德困境, 强烈的好奇心, 心理状态, 潜伏任务, 身体交换, 情欲, 职场阴谋, 视觉幻觉, 双重身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

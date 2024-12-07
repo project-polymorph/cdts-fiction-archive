@@ -7,7 +7,7 @@ TXT 下载: [[附身]_小子，你怎是女人！〔正篇〕（九）适应身�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部跨性别相关的小说，标题为《小子，你怎是女人！》。故事围绕着两位角色奈美和柳渃溪的身体交换展开。在这场异常的体验中，奈美与柳渃溪之间的身份和性别发生了颠覆性的变化。奈美在适应新的女性身份时，经历了身体和心理上的挣扎。小说详细描写了她们在这种特殊情况下的感受，包括对身体的陌生感和性别角色的认知冲突。文中也提到奈美在生理期的经历，借此探讨女性身体的隐私和尴尬，还有柳渃溪与她的互动过程。小说的情节不仅涉及性别转换的主题，还涉及到自我认同、亲密关系和探索新身份的复杂情感。可以看到，作者尝试通过幽默和略显露骨的细节，展现了角色内心的困扰与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_小子，你怎是女人！〔正篇〕（九）适应身�
 | Size            | 23073 bytes                           |
 | MD5             | 2b0cd4fc625026a08542d9a88eacbcc6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 身体交换, 青春期困扰, 自我探索, 身份认同, 伪娘, 变身, 男性视角, 女性身体, 生理期, 情感纠葛, 友谊, 二次元, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_63.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一则变身与跨性别主题的小说，讲述了一个名为贝丽的角色接受转变为乖乖女的过程。故事中，梅根对贝丽进行了严格的训练，不仅包括外表的改变，还伴随着心理上的掌控和身份认同的冲突。贝丽被迫接受了如打击、羞辱和性别角色的灌输。一段文字中提到，梅根在社交场合中将贝丽打造成一个听话的女孩，内容涉及到对贝丽的身体和精神的操控，以及她内心对自我身份的挣扎。故事包含了带有性向暗示的羞辱和训练元素，探讨了性别认同和性别角色的复杂主题，涉及强制和惩罚的情节，贝丽的挣扎与屈从形成了鲜明对比。》在小说中，有对贝丽的教育进行了详细讲解，提到“乖乖女最漂亮，乖乖女很有礼貌，乖乖女非常听话”等情节，显示出贝丽对她所处角色的依赖和内心的矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_63.doc]([改造]_把男朋友�
 | Size            | 38912 bytes                           |
 | MD5             | cbe7f79bf103619fbcb5513ce4ca816f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 变身小说, 虐待, 乖乖女, 身份认同, 心理控制, 角色扮演, 情感捆绑, 羞辱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[变身]_卡奈魔盒.doc]([变身]_卡奈魔盒.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于性别变换的小说，围绕主角任伟的故事展开。任伟是一个身材微胖的宅男，而他在游戏论坛上以其超强的游戏能力而著称。在一次游戏成功后，他收到了一份来自未知账户的神秘礼物——卡奈魔盒，这使得他的生活发生了巨大的变化。卡奈魔盒能够通过某种技术实现性别的变化与形象的转换。
+
+在好奇心驱使下，任伟决定尝试使用这个魔盒。通过扫描他的一位同事亚楠的照片，任伟成功变身为亚楠的形象，体验到了女性身体带来的全新感受。整个过程充满了自我发现和性别认同的探索。转变之后，任伟对女性身体的感受产生了强烈的兴趣，情节中涉及了一些露骨的性描写，探索了性别、身份和欲望之间的复杂关系。小说通过这种变身的设定探讨了性别流动性与个人认同的主题，展现了任伟在新的身份下的心理变化和身体体验，对社会对性别的刻板印象进行了拷问。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_卡奈魔盒.doc]([变身]_卡奈魔盒.doc)
 | Size            | 33792 bytes                           |
 | MD5             | c3fdeeb3a3eea81523195b7cf89e9f98                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 自我探索, 伪娘, 男娘, 变嫁, 性转, 青春, 二次元, 科幻, 美腿, 跨性别, 幻想, 性欲, 魔法, 身心转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

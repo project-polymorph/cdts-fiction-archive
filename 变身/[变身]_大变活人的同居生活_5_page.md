@@ -7,7 +7,7 @@ TXT 下载: [[变身]_大变活人的同居生活_5.docx]([变身]_大变活人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是《大变活人的同居生活》第五部分的内容，描绘了一位男性角色在经历性别变化后逐渐适应并享受做女人的过程。故事的主角起初因变身为女性而感到惊讶，但逐渐迷恋于作为女人的感觉。在与室友小林的互动中，展现了男主对女性身份的自我认同和内心的挣扎。随着故事的发展，男主的身体发生了明显变化，胸部开始发育，而小弟弟则依旧存在，形成了矛盾的自我认知。角色在工作中穿着女装的经历和与他人（如新娘）的互动，进一步推动了情节的发展。文件深入探讨了性别认同、自我探索以及与他人关系的复杂性。文中还包含了不少带有色情暗示的情节和对身体适应过程的描写，尤其是对于穿着和化妆的细致描述，展现了角色对自身变化的接受及享受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_大变活人的同居生活_5.docx]([变身]_大变活人�
 | Size            | 16298 bytes                           |
 | MD5             | eb3d53c875609a1b4994daf9efc5f312                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 自我探索, 跨性别, 情感纠葛, 性转, 怦然心动, 伪娘, 男娘, 女装癖, 强行推倒, 初恋滋味, 化妆新手, 美丽蜕变, 甜蜜生活, 社会适应                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_8_我是腿控，但我那拥有凭依能力的挚友是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别与性转主题的小说，内容围绕一名少女与其拥有凭依能力的挚友之间的亲密关系展开。故事中描写了他们在卧室内发生的一场激烈性爱场景，少女的身体和心理都经历了复杂的感受与变化。在高潮时，少女的自我认知、对身体的接受及其与男性角色之间的冲突贯穿始终。文本细致地描绘了少女在性交过程中的挣扎与快感，展现出多层次的情感交织。这部作品探讨了性别认同与自我探索的主题，包含一些限制级内容，涉及强烈的肉欲描写与情感表现，并对角色的身体特征给予了注重的细节描述。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_8_我是腿控，但我那拥有凭依能力的挚友是�
 | Size            | 55808 bytes                           |
 | MD5             | d215969cbdf27f3c957f9908adccef37                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 虚拟现实, 性爱, 青春幻想, 身体探索, 内心斗争, 情感纠葛, 制服, 灵魂附体, 强烈快感, 秘性交换, 女性视角, 幻想, 性别认同, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

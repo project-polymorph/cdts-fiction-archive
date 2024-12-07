@@ -7,7 +7,7 @@ TXT 下载: [[附身]_天黑后一定要锁好门窗哦（完结）.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一名黑发少女灰的故事，她是玛伊尔施家族的女仆长，负责在黑暗的宅邸内保护家族的安全。故事围绕着她未能妥善管理女仆悠悠的冒失行为展开，尤其是当夜幕降临后，宅邸近旁的森林里传出的未知威胁成为了重点。文中描绘了黑发少女对玄幻与奇怪生物的恐惧，以及对悠悠安危的担忧。灰的内心冲突和对 ‘黑童话’ 故事的回忆交替进行，展示了角色的背景和内心世界。文章结尾处，灰面临着可能的危险，展现了集恐怖与幻想于一体的情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_天黑后一定要锁好门窗哦（完结）.doc]([附身
 | Size            | 42496 bytes                           |
 | MD5             | c4508c1af58ee8c92e3530024c870cbe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2022-03-01                                 |
+| Tags            | 附身, 女仆, 奇幻, 魔法, 森林, 恐怖, 宅邸, 黑暗, 自我探索, 成长, 性转, 变身, 伪娘, 青春, 冲突, 神秘生物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

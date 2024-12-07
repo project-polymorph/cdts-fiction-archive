@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_舞会-第二章.docx]([皮物]_舞会-第二章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《舞会之夜》的第二章，主要描述了角色马克和比尔在一场舞会上的互动与情感发展。故事开篇描绘了马克优雅地走进豪华酒店，吸引了众多目光。他的角色显然经历了性别转变，呈现出女性化的美丽与吸引力。而比尔则在对安吉拉的单相思中努力寻求与她的亲密接触。通过细腻的语言，读者能够感受到比尔对安吉拉的深情与紧张，随着故事的发展，两人之间的互动逐渐增多，彼此的情感也愈发明显。小说不仅关注角色之间的浪漫关系，也展示了他们在社交场合中的自我探索和心理变化，增添了深度与层次感。的对话与氛围的渲染有效地勾勒出社交舞会的浪漫与紧张。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_舞会-第二章.docx]([皮物]_舞会-第二章.docx)
 | Size            | 38743 bytes                           |
 | MD5             | e57a84cfd2d1255ce54aeb15a38858e8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 浪漫, 舞会, 青春爱情, 自我探索, 社会交往, 情感发展, 异性吸引, 心理变化, 紧张关系, 二次元, 伪娘, 男娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

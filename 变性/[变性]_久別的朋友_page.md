@@ -7,7 +7,7 @@ TXT 下载: [[变性]_久別的朋友.docx]([变性]_久別的朋友.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是来自TGGAME论坛的一篇性转主题创作，描绘了一个围绕高中同学重逢展开的故事，涉及性别认同和人际关系的复杂性。故事的主要角色包括阿伟和小忠，以及一位名叫何莉棠的女性角色。故事开头描述了阿伟期待见到一位新来的导览志工，称其为“正妹”，表现出对女性美的欣赏。随着情节的发展，阿伟和小忠与何莉棠的重逢显得愈加亲密，展现了微妙的人际情感和性别情愫之间的交错。文中多次提及小忠和阿伟之间的互动，以及他们对何莉棠的回忆，这些情节不仅反映了角色内心的自我认同，也体现了性别转换的主题，特别是对何莉棠过去性别角色的探索。文章的叙述风格轻松随意，但同时又隐约流露出对彼此情感的期盼与迷茫。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_久別的朋友.docx]([变性]_久別的朋友.docx)
 | Size            | 20496 bytes                           |
 | MD5             | f79a32444c5ac4777a3ed2132d52ffd6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 回忆, 校园, 人际关系, 交错情感, 性别认同, 自我探索, 重逢, 青春, 剧情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

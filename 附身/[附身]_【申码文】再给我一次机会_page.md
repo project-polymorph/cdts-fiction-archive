@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【申码文】再给我一次机会.doc]([附身]_【申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于附身和性转的小说，主要描绘了角色的身体和意识互换所带来的心理冲突与自我探索。故事开始时，主角因邻近恋爱对象的告白而感到心碎，决心通过巫术获得一次重新追求的机会。经过一番准备，主角在实施仪式后意外地附身到暗恋对象荻野佳织的身体中，开始了对新身份的探索与挣扎。在这个新身体中，主人公发现自己不仅变成了荻野佳织，还体验到了作为女性的身体与心理感受。这种自我认同的转变让他感受到前所未有的复杂情感与挑战。随着情节的发展，主角逐渐适应并探索作为荻野的生活，发现新的自己，同时也开始对周围的人与情感有了不同的看法。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【申码文】再给我一次机会.doc]([附身]_【申�
 | Size            | 69632 bytes                           |
 | MD5             | 57c5d0a32579b45fcd9f6df62e984680                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性转, 扶她, 自我探索, 心理冲突, 女性视角, 学生会, 青梅竹马, 魔法, 恋爱, 阴暗气氛, 悔恨, 变装, 性别认同, 情感游戏, 二次元, 奇幻, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

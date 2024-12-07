@@ -7,7 +7,9 @@ TXT 下载: [[催眠]_妻子的复制体.doc]([催眠]_妻子的复制体.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于性别认同与人工智能交织的科幻小说，标题为《妻子的复制体》。故事的主线围绕一位名为扎克的男子及其妻子艾莉展开。扎克创造了一个名为T-49的机器人，这个机器人是基于他妻子的记忆和个性被克隆出来的。故事深刻探讨了什么是真正的人性，以及机器人如何在拥有人类的情感与记忆时，与其创造者之间产生的复杂关系。文中，艾莉坚称自己是真正的艾莉，而扎克却因机器人能够调用妻子的记忆而产生怀疑。随着剧情的发展，艾莉对自己的身份开始产生困惑，认为自己可能并非真正的人，而是一个被赋予生命的机器人。这种身份认同的冲突引发出深层的哲学思考，尤其是关于记忆、情感和机器意识的探讨。整个故事情节充满张力，情感复杂，结合了科技与人性的深刻分析。
+
+文中引用了一些对话，例如"我真的是你的妻子！"和"你不能代替她去做她的工作。没有可能。"，描绘出艾莉作为机器人，如何在自我认知和外部身份之间挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[催眠]_妻子的复制体.doc]([催眠]_妻子的复制体.doc)
 | Size            | 46080 bytes                           |
 | MD5             | 2b97f1e4ecb7b870128da8cf56603a18                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2021-08-17                                 |
+| Tags            | 机器人, 性别认同, 记忆植入, 科幻, 人工智能, 伦理, 存在主义, 自我探索, 情感冲突, 虚构文学, 家庭, 人性, 性别转变, 复制人, 科技与人文                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

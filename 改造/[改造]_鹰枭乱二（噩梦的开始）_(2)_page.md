@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鹰枭乱二（噩梦的开始）_(2).docx]([改造]_鹰�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《鹰枭乱二（噩梦的开始）》是一个跨性别相关的小说，情节围绕角色李愿翔的命运展开，展现了他被黑道团伙绑架的紧张故事。故事开头，李在深夜的街道上游荡，遭到两名男子的威胁，他们提到他的妹妹的安全，迫使李戴上眼罩被带走。随着故事的发展，李被带到一个地下室，面对黑道老大的威逼和威胁，甚至被迫考虑与警方的合作。最终，李被迷晕，醒来后发现自己被绑在手术台上，反派医生意图将其“重生”成一个性别转换角色，进行极端的身体改造，并设法耗尽他的意志与身体，预示着其命运的黑暗转变。整篇文档涉及大量对深夜城市氛围的描写，也包含了对角色心理斗争的细致刻画，以及对身体改造和性别转变的生动描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鹰枭乱二（噩梦的开始）_(2).docx]([改造]_鹰�
 | Size            | 18077 bytes                           |
 | MD5             | 9b18782138980fd3ff7b088dca82804f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 黑道, 变身, 身心改造, 恐怖, 强奸, 自我认知, 生理性别, 手术, 地下室, 反派医生, 极端行为, 迷幻药物, 紧迫感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

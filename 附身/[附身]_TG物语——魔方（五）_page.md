@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——魔方（五）.doc]([附身]_TG物语——
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为网络小说《TG物语——魔方（五）》的部分内容，围绕角色余震在进行变身的探索。故事设定在一个平常的居民楼中，描述了余震对楼下住户的观察，发现了男主人王实和其雇佣女家务助手王小美之间的一些家庭琐事。由于意外变故，王实的妻子变得精神恍惚，余震借机进入王家的房间，展开对变身的探索。文件描绘了余震从其原身体互换至少妇身体的过程，以及他对新身体的心理变化和自我认知的冲突。文本中揭示了角色内心的纠结和对性别角色的反思，同时也涉及了部分限制级及性相关的情节，例如余震对少妇的身体的欣赏和生理反应，表现出浓厚的性别化叙事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——魔方（五）.doc]([附身]_TG物语——
 | Size            | 37888 bytes                           |
 | MD5             | 5ef658f9f5ef2890d45d208f028b9add                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性转小说, 自我认知, 欲望探索, 都市生活, 家庭纠纷, 性别角色, 身体交换, 性别认同, 魔方, 奇幻, 情感纠葛, 女性视角, 成年女性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

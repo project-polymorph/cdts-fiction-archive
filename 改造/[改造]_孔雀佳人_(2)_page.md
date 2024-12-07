@@ -7,7 +7,7 @@ TXT 下载: [[改造]_孔雀佳人_(2).docx]([改造]_孔雀佳人_(2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《孔雀佳人》为一部涉及性别转变与跨性别主题的小说，主要围绕一名少年被困于名为孔雀庄园的场所展开。故事开篇描绘了孔雀的华丽与悲惨命运，暗示了角色与孔雀相似的命运，被束缚于他人的欲望中。在庄园的密室中，主角以一种脆弱而脆弱的状态被拘禁，随着情节的发展，书中展示了主角的身体变化和对自身性别认同的矛盾与挣扎。小说中包含了较为细致的描述，例如“他长挑身材，皮肤白皙，削肩细腰”，反映了角色的娇嫩外表与内心的痛苦。此外，文中还有对反转家庭角色与不当性关系的探讨，尽管包含一些争议性内容，但整体反映出现实中性别与权力的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_孔雀佳人_(2).docx]([改造]_孔雀佳人_(2).docx)
 | Size            | 37308 bytes                           |
 | MD5             | 04ed6426141fa1960a948570d150633d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 伪娘, 家庭关系, 性别认同, 暗黑奇幻, 角色扮演, 人性探索, 自我认知, 欲望与束缚, 青春迷茫, 性别歧视, 变装, 悲剧色彩, 情感冲突, 性别角色, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

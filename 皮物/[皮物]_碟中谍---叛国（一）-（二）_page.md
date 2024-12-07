@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_碟中谍---叛国（一）-（二）.docx]([皮物]_碟�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个Z国间谍李拓的故事，他在M国潜伏多年，与一名中国美女汪雪娟结合，生有一女。然而，黄婷则是李拓的上级、情人及另一个秘密关系。故事充满情感纠葛和复杂的权利游戏，李拓在执行任务时与汪雪娟之间的亲密关系以及与黄婷的秘密情事，揭示了间谍生活的双重性和挑战。文件中描绘了李拓对汪雪娟的身体和心理控制，使用了一些催眠和敏感区域的方法，使她在感官上完全服从于他。文中包含大量露骨的性描写，深入探讨了自我认知与性别角色的关系以及对人的操控。最后，随着李拓面临身份暴露的危险，故事逐渐转向他如何处理危机的自我审视和情感挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_碟中谍---叛国（一）-（二）.docx]([皮物]_碟�
 | Size            | 28121 bytes                           |
 | MD5             | a18ade06c8b912dfe3e5c62a6685177c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 间谍, 权力游戏, 性别角色, 催眠, 自我认知, 情感纠葛, 纯爱, 变嫁, 逆后宫, 调教, 伪娘, 豢养, 情人, 暗杀, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_绝对隐匿（第二章）.doc]([改造]_绝对隐匿（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇伪娘与跨性别相关小说的第二章，主要描绘了主人公新加入一个常态女装特工团队后的经历。故事的开头，主人公在一辆暗色玻璃汽车内与王丹等人见面，逐步进入了特工的生活。文件中详细描写了男澡堂的场景，主人公换上女装后与内勤人员丁路、李彩铃等人相遇并进行亲密互动。一系列的对话和情节揭示了角色间的关系、性别认同的复杂性，以及身处特工环境中的独特体验。特别地，故事中提到的“精液采集”情节和角色在温泉中互动的细节，暗示了人物间的性别流动与身份探索。小说通过对角色身体与性别的细腻描写，展示了生理性别与性别认同之间的紧张关系。整体而言，这是一部探索身份、性别与欲望的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_绝对隐匿（第二章）.doc]([改造]_绝对隐匿（�
 | Size            | 47104 bytes                           |
 | MD5             | 08280ac21a0f4a8176ee2a308014b39b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变装特工, 性别认同, 温泉, 自我探索, 生理性别, 女性化, 情感关系, 性别流动, 社群互动, 男性视角, 二次元, 强烈情感, 心理变化, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

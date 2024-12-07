@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魔界战记3-4_[.docx]([其他]_魔界战记3-4_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部围绕伪娘和变性主题的小说，主要描绘了角色贾奈在职场中的困境与内心挣扎。故事开篇贾奈因在公司饭局上遭到醉酒经理的调戏而感到极大的不适。虽然贾奈外表穿着女性服装，却在挣扎于维持自己的男性身份和职场角色中。接着，贾奈被总经理叫进办公室，面临被辞退的命运。总经理批评了贾奈在饭局上的表现，并提出了对公司的影响，暗示贾奈的性别表达可能会对公司的形象造成损害。在接下来的段落中，贾奈深感社会的偏见与职场的压迫，表达了对社会对跨性别者的不理解和偏见的反思。此外，贾奈还得知高中同学自杀的消息，进一步引发了对人生与死亡的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魔界战记3-4_[.docx]([其他]_魔界战记3-4_[.docx)
 | Size            | 24807 bytes                           |
 | MD5             | 19696115a576a090e49181c0f201c6dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变性, 职场困境, 社会偏见, 自我认同, 跨性别, 情感经历, 心理斗争, 青春, 性别表达, 自杀, 职场压力, 饮酒文化, 性别角色, 情感纠葛, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

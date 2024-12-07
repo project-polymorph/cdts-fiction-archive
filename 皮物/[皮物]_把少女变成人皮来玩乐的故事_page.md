@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_把少女变成人皮来玩乐的故事.docx]([皮物]_把
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇翻译自日文的小说，原作名为《少女を皮にして遊ぶ話》，由猫餅创作。故事围绕一名男性角色，他获得了一把可以将人变成皮肤的刀，利用这把刀，他将一名女高中生及其幼小的妹妹变化为人皮，并以此进行各种情感和身体感受的探索。小说包含了对于皮肤化过程的详细描写，以及角色在变身后的身心变化，其中揭示了角色的心理冲突与转变。故事在一开始描绘了主角在夕阳西沉的街道上寻找猎物的情节，而后逐步展开了他如何将少女变为人皮的过程，以及他穿戴这些“皮肤”后所感受到的新奇体验。小说的情节有着强烈的超现实色彩，涉及身体自我认同和欲望的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_把少女变成人皮来玩乐的故事.docx]([皮物]_把
 | Size            | 35997 bytes                           |
 | MD5             | d12067a60d2c0b3025cc29decac40d68                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 猫餅                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 变身, 人体改造, 少女, 心理探索, 禁忌, 恶趣味, 性别认同, 超现实主义, 变嫁, 色情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

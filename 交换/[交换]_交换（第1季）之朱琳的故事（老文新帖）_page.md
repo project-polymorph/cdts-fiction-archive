@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交换（第1季）之朱琳的故事（老文新帖）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《交换（第1季）之朱琳的故事》是一部围绕性别转换和自我探索主题的小说，情节展开于一位男性主角（主任）与他的女同事朱琳之间的神秘交换之旅。故事从一个偶然的事件开始，朱琳与主任发现了他们的身体在某些方面神秘交换，例如脚趾甲。随着情节的发展，二人的身体和社会角色的交换引发了一系列心理和感情上的冲突。朱琳是一个美丽而物质的女孩，她即将嫁人，而主任则对她怀有深深的情感，但又感到自卑与无奈。故事通过细腻的描写展现了两位主角的情感世界，以及在性别和社会角色期待中挣扎和自我认同的过程。文件涉及了一些暧昧和性暗示的内容，表现了生活的复杂性和人际关系的微妙变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交换（第1季）之朱琳的故事（老文新帖）.do
 | Size            | 124416 bytes                           |
 | MD5             | 15d15d305c8c24ae4aad8b76d562d54b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我探索, 暧昧关系, 职场情感, 跨性别, 伪娘, 变身小说, 情感纠葛, 男女关系, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_普通女高中生的日常_第一话（附带投票后感
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件名为《普通女高中生的日常_第一话（附带投票后感谢以及角色表）》，讲述了一位叫七海的普通女高中生的日常生活。故事发生在梅雨季节，展示了七海与同学沙姬、千鹤之间的对话，以及她们的日常互动。七海被邀请参加派对，但因为折扣活动而选择去超市购买便当。随着剧情发展，七海在超市遇到了一家奇怪的杂货店，店里面有各种看似无用但又奇怪的商品。她被店员狐狸小姐吸引，并最终选中了一个名为“真实之镜”的道具。这个镜子不仅令人惊讶，还能够映出其周围人的真实形象，使得七海和她的同学们陷入了一场恶作剧散播的目光中心。故事充满了青春的无奈和幽默感，同时也触碰到了奇幻的元素，引发了关于友情和身份的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_普通女高中生的日常_第一话（附带投票后感
 | Size            | 30807 bytes                           |
 | MD5             | c0c15ac84a419769b3a8f2cbeaa484b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 甜食爱好者                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 青春, 奇幻, 恶作剧, 角色互动, 女高中生, 梅雨季节, 成长, 友情, 幽默, 日常生活, 杂货店, 女装扮演, 真实之镜, 狐狸小姐, 社交                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_美少女战士邪传（二）.docx]([附身]_美少女战
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《美少女战士邪传（二）》，叙述了一位魔王与生理性别为女性的角色水野亚美之间的复杂关系。故事发生在一个地下宫殿内，魔王对亚美的身体产生浓厚的欲望，而亚美则在被魔王控制的状态下，与魔王发生了一系列具备性暗示和性行为的情节。在故事中，亚美在效忠爱情与正义的同时，也展现出一系列鲜明的性别角色冲突和自我认同的探索。随着剧情的发展，亚美逐渐反转了对魔王的抵抗，最终通过自我提升，反杀了魔王，证明了自己的力量与独立。作品通过细腻的心理描写和生动的场景描写，探讨了性别认同、权力关系和身体自主等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_美少女战士邪传（二）.docx]([附身]_美少女战
 | Size            | 24456 bytes                           |
 | MD5             | 54c0e0382a5e21431a5d5d3466add2d7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 变身, 强奸, 自我认同, 魔法, 美少女战士, 青春成长, 复仇, 性别探索, 权力关系, 虚拟现实, 黑暗幻想, 女性形象, 恋爱关系, 情欲描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

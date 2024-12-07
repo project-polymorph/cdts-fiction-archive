@@ -7,7 +7,7 @@ TXT 下载: [[交换]_人生狩猎游戏_第三夜.docx]([交换]_人生狩猎�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《人生狩猎游戏 第三夜》，属于性转与跨性别的小说类型，讲述了主角杨璇的复杂心理与身世。故事开始于她在沙发上吃着便宜的面条，观看新闻时得知了一名少年犯被逮捕的消息，此犯与她的前男友赵孙有某种关联。杨璇对于自己被抛弃的境遇感到无奈，她曾依靠陪酒的方式维持生活，但因为一系列事件而导致失去这一来源。小说中，杨璇参与一种名为“人生狩猎游戏”的活动，为了复仇而拼尽全力，对抗她的命运。通过与赵孙的对话，读者逐渐了解到她的内心世界，充满了对过去的反思与对未来的迷茫。当她终于变成了一个新的角色——初中生林伟后，依旧被内心的纷扰所困扰。整体而言，这是一部探讨性别认同、自我认知与复仇之间复杂关系的小说，蕴含着深刻的社会寓意与情感冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_人生狩猎游戏_第三夜.docx]([交换]_人生狩猎�
 | Size            | 32156 bytes                           |
 | MD5             | 7be63de2daebcf5df2782e879ccdc63f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 心理斗争, 复仇, 家庭纠纷, 社会边缘, 青春期困惑, 身份转换, 情感冲突, 自我认同, 悲剧情节, 都市生活, 女性视角, 命运变迁, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

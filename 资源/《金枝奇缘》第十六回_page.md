@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第十六回.doc](《金枝奇缘》第十六回.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《金枝奇缘》第十六回主要讲述了角色秦灵儿的到来及其与南直门守卫赵涛之间的冲突。故事开始于南直门外，因‘妖邪’传闻，赵涛奉命增强防卫。然而，突然出现的一头猛虎和其背上的少女秦灵儿打破了平静。此时，秦灵儿声称自己是天鉴宗宗主秦风府之女，表明来意是与姑姑秦疏影商讨重要事情。赵涛起初对秦灵儿身份持怀疑态度，但随着故事的发展，秦灵儿展示了凭证，最终获得赵涛的认可并顺利进入青云峰。整段情节不但描绘了角色间错综复杂的关系，也融合了武侠与奇幻元素，在过程中展现了主角的勇气与决断。故事同时暗示了角色的背景和即将面对的重大事件，包括秦灵儿提到的秦无邪不幸仙逝，成为了后文的重要转折。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第十六回.doc](《金枝奇缘》第十六回.
 | Size            | 45056 bytes                           |
 | MD5             | 428d6e3e41a7fc1cb818134cb9168bda                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 玄幻, 武侠, 少女, 猛虎, 性别认同, 情感冲突, 超自然, 角色扮演, 权力斗争, 家族关系, 修真, 妖怪, 灵兽, 悬疑, 勇气, 任务, 文化传承                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

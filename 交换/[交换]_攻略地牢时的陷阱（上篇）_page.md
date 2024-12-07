@@ -7,7 +7,7 @@ TXT 下载: [[交换]_攻略地牢时的陷阱（上篇）.doc]([交换]_攻略�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于冒险与性别转变主题的小说，故事围绕主角凯恩展开，他是一名盗贼，负责解除迷宫中的陷阱。故事中的角色包括他从小一起长大的好友艾伦和艾伦的妹妹克丽丝，以及新加入的精灵魔法师艾尔米娅。在探寻迷宫新区域的过程中，团队发现了一个神秘的宝箱，这个宝箱实际上是一个陷阱。在艾尔米娅的无意操作下，陷阱被启动，导致团队成员们的灵魂发生了交换，角色们陷入了混乱之中。故事展现了他们在面对突如其来的灵魂交换后所经历的挑战以及自我认同的冲突。小说不仅描绘了冒险者的探索旅程，还涉及到深层的性别认同与人际关系的复杂交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_攻略地牢时的陷阱（上篇）.doc]([交换]_攻略�
 | Size            | 79872 bytes                           |
 | MD5             | a931719099fc9b8dafc09e36399bd47c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 灵魂交换, 冒险, 迷宫探索, 自我认同, 跨性别, 魔法, 角色扮演, 青春, 友情, 奇幻, 精神转变, 反转剧情, 团队协作, 心理探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

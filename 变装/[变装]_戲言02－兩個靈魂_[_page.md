@@ -7,7 +7,7 @@ TXT 下载: [[变装]_戲言02－兩個靈魂_[.docx]([变装]_戲言02－兩個
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《戏言系列》第2集，主要探讨了角色内心的性别冲突与认同。故事讲述了一名男学生逐渐产生对女生服装的迷恋，他的内心深处隐藏着与自己外表相异的灵魂形象。在学校中，他是人们所熟知的优秀学生，但他内心的挣扎与渴望却无人知晓。随着社会压力与自我探索的深化，角色幻想自己穿女装的情景，并沉溺于相关的二次元漫画与小说中，体验着一种强烈的刺激和快感。整个故事在内心的冲突与自我认同的双重压迫下展开，揭示了性别认同与自我探索的复杂性与重要性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_戲言02－兩個靈魂_[.docx]([变装]_戲言02－兩個
 | Size            | 44538 bytes                           |
 | MD5             | 53199107bdfac729b831579e2826963d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | timemaster                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 内心冲突, 男扮女装, 伪娘文化, 青春成长, 幻想与现实, 渴望与挣扎, 角色认知, 自我探索, 二次元文化, 强烈刺激, 情感纠葛, 心理描绘, 隐秘生活, 学校生活, 青少年, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

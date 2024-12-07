@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_生物黑客2.doc]([皮物]_生物黑客2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一场围绕性别转换与个人认同的复杂情节。这是一部描绘了角色经历性别转换后所面临的各种心理与身体挑战的小说。故事开篇提到角色在尝试恢复原有身体的过程中，同时面临着新生的性别身份和自我认知的巨大冲突。文件中通过对角色与他人互动的详细描述，探讨了性欲、权力关系和社会身份等主题。角色的内心独白揭示了其对过去经历的反思和对未来身份的疑惑，如角色提到"我还记得从高中时将第一次交给班上那名男同学"，同时也描绘了角色在外形转变后所经历的社交场景，特别是在游艇派对上的复杂情感与生理反应。小说的内容包含了一些限制级情节，涉及性行为、自我认知和艾滋病等主题，表现出对性别与社会规范的深刻思考和反叛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_生物黑客2.doc]([皮物]_生物黑客2.doc)
 | Size            | 40448 bytes                           |
 | MD5             | c91d3175de42e56f487f99031229825b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我探索, 权力关系, 暗黑内容, 社交场合, 性欲, 心理冲突, 游艇派对, 身份变化, 限制级                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_猎人前传之咪咪能解毒（前传完）.docx]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《猎人之咪咪能解毒》的跨性别小说，主要讲述了一个名叫安哥拉的男人在酒吧相遇一名东方面孔的女性后，经历了一系列的事件，最终意外附身于该女性的身体。故事开头描绘了安哥拉在酒吧的郁闷心情，他因酒精影响而不悦，当他看到这个神秘女性时，酒精似乎让他清醒很多。随后的情节中，不良青年和西装革履的男人们的出现，引发了一场激烈的冲突，酒吧内发生了剧烈斗殴。在混乱中，安哥拉被一种不明的锡箔包裹物吸附，身体内的精气血似乎流失，随之他开始感到恐惧与不适。最终，安哥拉发现自己竟然附身在那个令人心动的东方女性身上，并感受到对方的意识在支配这具身体。整个故事交织着紧张的情境、附身的神秘感和逐步展开的性别认同问题，涉及主题包括身份探索与自我认知的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_猎人前传之咪咪能解毒（前传完）.docx]([附�
 | Size            | 40675 bytes                           |
 | MD5             | 959d401d3e13edffa9a73c07dbd87c59                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 附身, 性别认同, 自我探索, 戏剧冲突, 酒吧, 东方面孔, 神秘女性, 青春, 迷恋, 恐怖, 都市, 变身, 女性视角, 斗殴, 文物交易                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

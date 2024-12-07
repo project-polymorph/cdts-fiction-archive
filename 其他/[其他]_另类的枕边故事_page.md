@@ -7,7 +7,7 @@ TXT 下载: [[其他]_另类的枕边故事.docx]([其他]_另类的枕边故事
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件呈现了一个充满奇幻和科幻元素的故事，讲述了一个外星族群在被敌军追剿后，艰难逃亡并最终降落在地球的情景。故事的叙述方式是以一位温柔的母亲为媒介，通过与女儿的枕边故事展开，对故事进行详细讲述。故事的主线是外星战士与地球女孩之间的命运交织，反映了人与外星种族之间的误解和情感交流。外星战士在拯救被恶少侵犯的女孩后，二人通过特殊的科技手段进行沟通，逐渐产生了情感。随着情节的发展，女孩的秘密被揭穿，她面临来自村民的威胁，以及个人情感与族群责任的冲突。当外星战士受重伤时，女孩为了能让它更好地生存，不惜选择将其灵魂转移至自己的身体，让两个种族的灵魂得以结合，共同开创更美好的未来。与此同时，故事也揭示了在遭受强暴和忽视的情况下，女孩选择抗争和抵抗的勇气。文件中的内容部分含有成人向的描写，例如母亲在夜间进行私密行为，搭配故事的奇幻色彩和对禁忌的探讨，使得整个故事融合了许多复杂的情感和性别认同议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_另类的枕边故事.docx]([其他]_另类的枕边故事
 | Size            | 20155 bytes                           |
 | MD5             | 1b881f7809908b73828384de18360bee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2014-01-01                                 |
+| Tags            | 科幻, 外星人, 强奸, 性别认同, 母女关系, 情感交流, 异种恋, 爱与救赎, 力量与脆弱, 性别融合, 角色扮演, 禁忌, 冒险, 自我救赎, 科技幻想, 异界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

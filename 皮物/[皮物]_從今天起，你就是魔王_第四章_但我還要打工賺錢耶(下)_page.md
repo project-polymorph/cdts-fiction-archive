@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_第四章_但我還要打�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部跨性别和变身题材的小说章节，故事围绕角色桂花与名为菲尔的人物在神殿会客室中的对话展开。角色桂花是一位进行炼金术的角色，她在城内出售炼金道具。文中采用了带有幽默色彩的对话，涉及炼金术士的危险职业，以及一个奇特的事件，这个事件源于几位炼金术士之间的研讨会，结果演变成了一场意外的混乱派对。在这个过程中，桂花显示出对自身职业和周遭环境的关心与思考，同时也暴露出她对一些奇怪事件的好奇心。文本中提及的某些内容，如关于药物、道具等的实验，使用了夸张的手法，营造出了一种轻松幽默的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_第四章_但我還要打�
 | Size            | 29104 bytes                           |
 | MD5             | 1b48a6d6379a74a897e2026a38bf9e9f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身小说, 炼金术士, 幽默, 性别认同, 角色冒险, 幻想世界, 乙女向, 自我探索, 奇幻, 药剂, 后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

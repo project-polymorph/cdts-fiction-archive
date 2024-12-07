@@ -7,7 +7,7 @@ TXT 下载: [[改造]_黑牢【第四章】.doc]([改造]_黑牢【第四章】.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一篇关于伪娘与性转主题的小说第四章，叙述了一名男性角色在监狱中经历身体与性别转变的故事。故事主要围绕角色与监狱中的其他人物（如于哥与刘亚军）的复杂关系展开，描述了角色在接受雌激素后身体的变化，以及自我认同和性欲的逐渐觉醒。文中详细描绘了角色在穿着女装时的心理和生理感受，以及与其他男性角色之间的互动和冲突。在这一章节中，角色经历首次与于哥的亲密接触，同时也面临着刘亚军对其的强烈性欲，展现出对性别认同与自我认知的探索。该章节涉及强烈的性描写，并探讨了角色对自身新身份的接受与内心的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_黑牢【第四章】.doc]([改造]_黑牢【第四章】.
 | Size            | 32768 bytes                           |
 | MD5             | dbc0f9945a2c728dd198dc41aa4ff8eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 监狱恋情, 雌激素, 男女性别冲突, 性欲觉醒, 情感纠葛, 强奸, 调教, 性别认同, 自我探索, 异性恋, 同性恋, 女性化, 欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

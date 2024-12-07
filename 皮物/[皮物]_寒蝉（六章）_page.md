@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_寒蝉（六章）.docx]([皮物]_寒蝉（六章）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《寒蝉（六章）》是一部描绘角色性别转换和自我认同冲突的跨性别小说。本章角色刘以光在经历一连串令人不可思议的遭遇后，面临着内心的崩溃与自我认知的混乱。故事涉及他与名为薛文淇的角色之间的复杂关系，他们的对话揭示了一个充满恐惧与绝望的世界。小说中，薛文淇自称是被改造的生物，背负着痛苦的过去和艰难的选择，暗示着角色们在追求性别认同和生存权之间的斗争。这一过程伴随着许多对人性、伦理的深刻思考，展示出在极端情况下个体的脆弱与无奈，尤其是在权力与恐惧交织的背景下。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_寒蝉（六章）.docx]([皮物]_寒蝉（六章）.docx)
 | Size            | 25301 bytes                           |
 | MD5             | 9c96596e792ebdced2e522d479678a45                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 角色性别转换, 自我认知, 恐惧, 绝望, 改造, 虫王, 摄噬者, 情感冲突, 伦理思考, 生存权, 魔法, 奇幻, 网络小说, 二次元, 异世界, 虚拟现实, 生物实验, 人性, 身份探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

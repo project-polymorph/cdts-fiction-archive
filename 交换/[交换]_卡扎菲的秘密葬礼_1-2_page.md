@@ -7,7 +7,7 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_1-2.docx]([交换]_卡扎菲的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于利比亚前领导人卡扎菲的秘密葬礼的小说，内容深入探讨了卡扎菲在战争中所遭受的困境和他坚定保卫国家的决心。故事描写了在国际势力干预下，卡扎菲及其政府军经历的惨痛战斗与丧失，以及他选择与支持者共赴死战的斗志。文件详细讲述了卡扎菲在被捕前的最后时刻，反对派武装如何攻陷他的家乡苏尔特，以及国际社会对他死亡及葬礼的种种猜测。此外，文本也触及了卡扎菲与其政府内的女性管理者之间复杂的关系，特别是前财政部长卡奈儿的角色。她被描述为美丽而能力出众，极具亲和力，是卡扎菲政权的重要支柱。故事在情感上强烈，体现了卡扎菲的孤独与战斗精神，以及在即将失败时对抗外敌的决然。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_1-2.docx]([交换]_卡扎菲的�
 | Size            | 20648 bytes                           |
 | MD5             | 25bc5282c1c982b410db350f777ca9e5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 利比亚                               |
+| Date            | 2011-08-03                                 |
+| Tags            | 利比亚内战, 卡扎菲, 政治小说, 历史小说, 战争, 反对派, 政府军, 女性角色, 另类历史, 权力斗争, 秘密葬礼, 民族主义, 国际干预                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

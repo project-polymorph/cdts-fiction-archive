@@ -7,7 +7,7 @@ TXT 下载: [[附身]_深夜独行[深夜の一人歩き].doc]([附身]_深夜�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇名为《深夜独行》的性转小说，描绘了主人公田代雄三的心理变化与性别认同的探索。故事从雄三在电脑前看一个名为“女性独行”的网站开始，他对深夜女性独自出行的危险感到兴奋。尽管外界的评判很严厉，但雄三却对自己的兴奋感到无所畏惧。他渴望体验作为女人深夜独自行走的刺激，甚至想被人注视和猎捕。在伴随着内心挣扎与痛苦的幻想中，雄三发现自己对性别转换的强烈欲望，并在一次互动中得知有“附身药”的存在，从而开启了他变身为女人的计划。文中对雄三的性格、欲望及其独特的刺激需求进行了深刻的刻画，展现了其复杂的内心世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_深夜独行[深夜の一人歩き].doc]([附身]_深夜�
 | Size            | 73216 bytes                           |
 | MD5             | a46903bad93ecc559b7db9e66faab5e8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 無名                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 深夜独行, 变态心理, 自我探索, 跨性别, 强烈欲望, 刺激体验, 女性角色扮演, 社会禁忌, 奇幻元素, 幻想故事, 性别认同, 药物变身, 反社会行为, 心理描写, 道德挑战, 身份变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

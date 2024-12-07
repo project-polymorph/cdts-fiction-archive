@@ -7,7 +7,7 @@ TXT 下载: [[变装]绿色手镯3.doc]([变装]绿色手镯3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘与变身相关的小说章节，标题为《绿色手镯3》。故事情节围绕主人公吕飞与其师妹被江天绑架的紧张局面展开。吕飞面对江天的威胁与羞辱，表现出强烈的自我意识与抗争。在被绑架后，江天用一种神秘的绿色手镯控制吕飞，暗示着一种身体上的割离与性别角色的转换。故事中充满了矛盾的情感，吕飞为保护师妹而不得不妥协。同时描绘了性别角色的强烈对立，江天的恶行与吕飞的无奈形成鲜明对比。整体情节涉及性别认同、自我探索及冲突，展现了复杂的人际关系和心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]绿色手镯3.doc]([变装]绿色手镯3.doc)
 | Size            | 31744 bytes                           |
 | MD5             | 84bf96dc7218cdaa420383ea16e9d190                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 江湖, 强奸, 调教, 自我认知, 情感纠葛, 师徒关系, 男娘, 魔法, 情色, 非人化, 年龄差, 奇幻, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

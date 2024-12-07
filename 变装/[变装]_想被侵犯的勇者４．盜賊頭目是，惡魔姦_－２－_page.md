@@ -7,7 +7,7 @@ TXT 下载: [[变装]_想被侵犯的勇者４．盜賊頭目是，惡魔姦_－
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性转与异种性交的幻想小说，描绘了一位勇者与恶魔之间的侵犯与支配关系。故事情节围绕女性角色被强力的恶魔加恩加尔捕获并进行羞辱和凌辱的情节展开。在角色经历了自我认知和身体界限的强烈冲突后，情节通过一系列生动且露骨的描写，展现了身体的感官体验和内心的矛盾心理。小说中包含了她在身心交战中的感受，描述了她对加恩加尔的强烈身体反应与混乱的心理状态，浓厚的性暗示和身体侵害的描写使得剧情具备极大的刺激性。特别是文本中对身体细节和情感的刻画，呈现了一种对于性别、权力与欲望的复杂探索。内容涉及性侵犯、异种婚配等情节，包含成人向的明显特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_想被侵犯的勇者４．盜賊頭目是，惡魔姦_－
 | Size            | 25826 bytes                           |
 | MD5             | e0bee1478ab4261611ef32247176db45                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 异种性交, 强奸, 凌辱, 身体认同, 幻想小说, 恶魔, 勇者, 自我探索, 性别转换, 阴茎, 快感, 斗争, 刺激, 强权, 苦痛与快感, 性别心理, 心理冲突, 变身, 伪娘, 二次元幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

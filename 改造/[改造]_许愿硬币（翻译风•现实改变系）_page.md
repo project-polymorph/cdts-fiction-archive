@@ -7,7 +7,7 @@ TXT 下载: [[改造]_许愿硬币（翻译风•现实改变系）.doc]([改造
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《许愿硬币（翻译风•现实改变系）》是一篇描绘性别变化及个人自我认知冲突的原创小说。故事的主人公约翰•富兰克林的生活因一枚神秘的许愿池硬币而发生了巨大的转变。小说开篇描述了约翰驾驶最新款跑车，畅快地体验着精致生活的乐趣，显然他的生活因那枚硬币的影响而变得更加光鲜亮丽。随着情节的发展，约翰与班上的女生玛利亚的互动显示了他逐渐对自己身份的认识和变化，玛利亚的关注也让他感受到前所未有的魅力。在故事的进行中，约翰的自我认同与现实环境产生碰撞，这种变化引发了关于性别与自我认同的思考。该小说展现了青春期男性在面对成长与性别认同过程中可能经历的心理斗争与外部压力，富有感染力与寓意深刻，适合对性别议题感兴趣的读者深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_许愿硬币（翻译风•现实改变系）.doc]([改造
 | Size            | 99328 bytes                           |
 | MD5             | a95207b5e98548ac46cba5c51a663381                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 许愿硬币, 变身, 性别认同, 青春成长, 男生与女生的互动, 自我探索, 神秘硬币, 校园恋情, 现实改变, 个人身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

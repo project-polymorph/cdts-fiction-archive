@@ -7,7 +7,7 @@ TXT 下载: [[变身]_穿越异世变成母喵被公龙抓走了.docx]([变身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性转变身的小说，讲述了一位男主角在异世界中变身为猫娘的奇幻经历。故事开头男主惊诧于自己变成猫娘的样子：猫耳、猫爪和猫尾巴的出现让他感到困惑与羞愧。在被一只巨大的猫龙抓走后，他经历了一系列超现实的情节，包括被龙的眷属打理并换上女性服装，内心对于这种变化的纠结与抗拒逐渐显露。此外，文件对角色内心的挣扎和自我认同问题进行了生动描绘，表现在他逐步接受自己作为猫娘的身份。情节中也夹杂着强烈的性暗示和性描写，描绘了猫娘在被龙舔舐时的感受，以及后续的欲望奠定了故事的基调。整篇小说以刺激的自慰和性幻想为主要内容，探讨了性别认同与自我认知的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_穿越异世变成母喵被公龙抓走了.docx]([变身]_
 | Size            | 18978 bytes                           |
 | MD5             | 0ee8d9d645da84786f18d9fde109c98b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 猫娘, 异世界, 龙, 自我认同, 欲望, 幻想, 角色变化, 二次元, 性别探索, 纯爱, 强奸, 调教, 病态, 伪娘, 女体化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

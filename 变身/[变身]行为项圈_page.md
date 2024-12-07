@@ -7,7 +7,7 @@ TXT 下载: [[变身]行为项圈.doc]([变身]行为项圈.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《行为项圈》，内容围绕着两个研究人员，科尔比和杰森的实验故事展开。科尔比在无意中成为了杰森设计的行为项圈的实验对象，这个项圈能够让他听从杰森的命令，并随之经历了身体的性别转换。在故事中，科尔比的身体变得女性化，并逐渐接受自己成为女性的身份，同时面临着杰森对他的控制和命令的双重困扰。科尔比惊恐于自己新的性别以及随之而来的欲望变化，但由于项圈的作用，逐渐无法反抗杰森的命令，最终成为了他的玩物。在第二部分，奈特意外被项圈锁上，同样经历了身体的变化并最终变成了名为娜塔莉的性感女性，完全服从于蒂姆的命令。整个故事在描绘转变的过程中探讨了性别认同、自我接受与控制欲的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]行为项圈.doc]([变身]行为项圈.doc)
 | Size            | 39936 bytes                           |
 | MD5             | d71ba30f5cf4df77b959b0448888ff07                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, TS, 行为项圈, 性别转换, 纳米技术, 自我认同, 控制欲, 实验故事, 女性化, 性别角色, 欲望冲突, 奴役                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】九、洞房花烛.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于伪娘与变身主题的小说《在下盗圣，有何贵干》的第九章节，标题为《洞房花烛》。文本描绘了一场婚礼场景，主要围绕角色楚飞与小白的婚礼进行。楚飞与小白进入洞房后，情感经历了由羞涩到娇羞的转变，涉及了一些隐晦而复杂的性别认同与角色扮演的冲突。在婚礼的喜庆氛围中，楚飞与小白的互动展现了新婚陪伴中的亲密与探索，带有浓厚的性暗示和情感交织，文字中混杂了大量描绘性行为的描述。小白的身份扮演与楚飞的反应，则是对传统性别角色的挑战与重塑。小说在描绘角色之间的情感联系的同时，隐含了一些关于性别与认同的较为复杂的主题，突出了二次元文化中的伪娘元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】九、洞房花烛.doc]([
 | Size            | 45568 bytes                           |
 | MD5             | 5885de3d56053f2c2c68419f0f694863                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 跨性别, 小说, 婚礼, 爱情, 性别认同, 自我探索, 传统, 幻想, 二次元, 角色扮演, 情感纠葛, 阴阳调和, 极乐, 亲密关系, 喜庆, 性暗示, 喜酒                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

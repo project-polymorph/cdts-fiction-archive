@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔皮06.docx]([皮物]_魔皮06.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部关于伪娘与跨性别主题的小说，充满了成人情节和性别转换的幻想。故事围绕角色周巧容与王怡如的身体互换，以及她们在这种情况下的各种复杂情感反应展开。内容涉及药物影响下的性行为，以及身心的深度探索与挣扎。角色周巧容在小说中经历了自我认同的变革，从最初的拒绝接受到逐渐沉迷于这种不同的存在状态。文件中的一些场景具体描绘了角色在变身后的情愫和相互之间的亲密关系，展示了两位角色在性别转换与身份冲突中的心理斗争和复杂情感。整体上，这部作品不仅探讨了性别问题，还揭示了在转变中可能出现的痛苦与愉悦交织的情感状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔皮06.docx]([皮物]_魔皮06.docx)
 | Size            | 20722 bytes                           |
 | MD5             | 5ff4e290835477b58dc68815bf8a993b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 伪娘, 变身, 跨性别, 亲密关系, 药物影响, 自我探索, 性别认同, 青年, 情感冲突, 成人内容, 奇幻, 重生, 身体交换, 性转, 淫荡, 牵绊, 母女关系, 魔法, 痛苦与快乐, 虚幻, 情色, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

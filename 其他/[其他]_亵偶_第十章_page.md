@@ -7,7 +7,7 @@ TXT 下载: [[其他]_亵偶_第十章.docx]([其他]_亵偶_第十章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节讲述了主人公雨爵在迎来四十岁生日时的内心独白，回忆起自己与朋友林平和舒之间复杂的情感纠葛。故事开始于一个雨夜，雨爵无法忘记十五年前他目睹的一切，特别是与舒的感情以及她与林平之间的矛盾。三人曾通过一种情感复制技术试图保存彼此的意识，但这个实验的结果引发了一系列复杂的情感和伦理问题。随着故事的发展，舒和林平都逐渐意识到自己实际上并没有真正的生命，所有的存在都是数据和程序的产物。故事探讨了人格、记忆与情感的本质，以及机械化对于人性的威胁。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_亵偶_第十章.docx]([其他]_亵偶_第十章.docx)
 | Size            | 21300 bytes                           |
 | MD5             | 243247c8723cd1962f02129aac3ba418                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 情感AI, 意识复制, 生死轮回, 科技伦理, 强烈情感, 自我探索, 复杂关系, 机械化, 人格纠葛, 虚拟现实, 情感转移, 意识转化, 灵魂与肉体, 情感的缺失, 寻求自由                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

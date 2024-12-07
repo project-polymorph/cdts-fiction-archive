@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【对勇者的陷阱】.doc]([皮物]_【对勇者的陷�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个描绘性别转换与魅魔之间冲突的小说。故事围绕着一名A级冒险者安提展开，他在魅魔洞穴中进行调查，试图解决村庄失踪人口的案件。在与魅魔首领莉莉娜的对抗中，安提最终被吸入一件具有生命的皮物中，经历了身体与身份的彻底变迁。小说涉及了暴力、性别认同、自我探索等复杂主题，借由安提从人类到魅魔的转变，深刻揭示了角色在面临欲望与责任选择时的内心斗争。他在逐渐迷失自我的过程中，体验了强烈的欲望与无法逆转的命运，陷入了危险与绝望的境地。在文本中充满了对身体与身份的探讨，借由极端设定突显了人物内心的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【对勇者的陷阱】.doc]([皮物]_【对勇者的陷�
 | Size            | 40448 bytes                           |
 | MD5             | 2d98974496e00ee5aad06f6b3f75c452                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 魅魔, 冒险者, 黑暗幻想, 自我认知, 魔法, 欲望, 心理斗争, 身份认同, 暴力, 暗黑, 奇幻, 成人内容, 触手, 奇异生物, 非人化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [雨夜花中.doc](雨夜花中.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本档案馆的文档《雨夜花中》描写了一个充满幻想与性别探索的故事，故事设定在未来的火星开发观光公团。主人公安胜在雨夜中目睹了一名神秘女子的奇异举动，随之展开了对她的好奇与追逐。女子穿着黑色雨衣，身材引人注目，透出一种混合了性感与神秘的氛围。文字中不仅详细描述了安胜对女子外表的观察与想象，也反映了他对社会与性别认同的思考。
+
+在故事进行中，安胜逐渐被卷入与女子之间复杂的关系中，体验了从目击者到参与者的变化。他的幻想与现实不断交织，最终在一次意外后失去意识，醒来后却身处一个充满靴子的梦幻房间。此文在展现奇幻情节的同时，也触及了跨性别与自我探索等深层主题，令人深思。同时，文本中也包括一些可能被视为限制级的情节，主人公对女子身体的观察与渴望，以及对社会规范的质疑，构成了整个故事的情感与张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [雨夜花中.doc](雨夜花中.doc)
 | Size            | 40448 bytes                           |
 | MD5             | 73d7d343c7cd9e355e03f0c11f036917                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 雨夜, 性别探索, 跨性别, 幻想, 火星, 安胜, 神秘女子, 自我认同, 靴子, 奇异关系, 夜晚追逐, 科幻, 心理探索, 性别认同, 梦境, 社会观察, 未来主义                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

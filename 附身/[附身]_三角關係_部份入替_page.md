@@ -7,7 +7,7 @@ TXT 下载: [[附身]_三角關係_部份入替.docx]([附身]_三角關係_部�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该篇小说讲述了关于周昌、子杰与美儿之间复杂的情感纠葛。故事发生在三年前，周昌和子杰是从小学起的好朋友，感情深厚。随着美儿的出现，周昌平静的生活被打破——美儿是子杰心目中的女神，但她却意外地倾心于性格内向的周昌。在美儿拒绝了子杰后，周昌为了让子杰有机会接近美儿，甚至开始与美儿交往。随着故事的发展，周昌与美儿走入婚姻，而子杰因心中对美儿的情感而感到怨恨。故事中通过一系列事件，描绘了复杂的人际关系与情感困境。在剧情的高潮中，子杰变性成美儿的模样，回归二人的生活，触发更深层次的情感冲突和对性别认同的探讨。文中不乏对人物外貌和心理状态的细致描写，构建出一幅引人入胜的情感画卷。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_三角關係_部份入替.docx]([附身]_三角關係_部�
 | Size            | 24193 bytes                           |
 | MD5             | c4ad8ae1841f09886136e458b751d75a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 三角关系, 变身, 性别认同, 友情, 婚姻, 爱情, 心理斗争, 变性, 内心冲突, 青春, 复杂情感, 自我探索, 身体变换, 权力游戏, 情感纠葛, 社会规范                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_猎人前传之鬼医（下）.docx]([附身]_猎人前传
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为小说《猎人前传之鬼医（下）》的一部分，故事围绕主角郭伟达展开，描述了她在变身为女性后的生活与挑战。故事中，郭伟达控制了自己的身体，享受着女性身份带来的种种体验，但同时也面临着性别认同的困惑与心理冲突。文中描写了她如何适应新的身份，从以前的小嫖客转变为女人后感受到的身体变化，以及她对于身体的认知与性别角色的探讨。在独自一人面对空荡荡别墅的情境中，郭伟达的内心独白与外在行为交织，展现出她对于新身份的复杂感受。在与另一个角色龙一的互动中，郭伟达被动接受了性关系，并在过程中产生了一定的快感，随后又情不自禁地调侃身体内的另一个意识。文中充满了挑逗与幽默的元素，同时也暗含了对于身体认同和自我探索的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_猎人前传之鬼医（下）.docx]([附身]_猎人前传
 | Size            | 47839 bytes                           |
 | MD5             | 6ba50160e93c56e3be32e7caa362c02d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 自我探索, 性别认同, 强奸, 调教, 逆后宫, 情色, 恋物癖, 变嫁, 百合, 雌堕, 人际关系, 生活琐事, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

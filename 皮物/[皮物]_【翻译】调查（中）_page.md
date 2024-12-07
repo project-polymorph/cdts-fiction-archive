@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【翻译】调查（中）.docx]([皮物]_【翻译】调
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别与跨性别主题的小说作品，描述了一名角色凯特琳在经历了一段艰难的康复之旅后，试图克服施加在她身上的药物依赖问题。在她的家人，尤其是女儿艾普丽尔的陪伴与支持下，凯特琳逐渐努力恢复认知功能和心理健康。故事中涉及的人物哈维尔·吉门内斯（JJ）则是一位通过假装女性形象而实施多项犯罪的恶棍，在被捕之后仍持续扮演女性角色。此文段描写了艾普丽尔对自身性别认同的探索，包含了对她心理状态与身体变换的精细描绘，揭示了角色在性别表达和自我认同方面的挣扎。尤其是在艾普丽尔对自身性欲和身体的认知过程中，深刻反映了跨性别者的内心世界与社会压力。这部作品包含了一些成熟内容，具有一定的争议性和探索性，涉及性别认同与身体的深刻主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【翻译】调查（中）.docx]([皮物]_【翻译】调
 | Size            | 19526 bytes                           |
 | MD5             | f7d95be515ab108ce478f126b8bcb171                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 小说, 心理辅导, 药物依赖, 艾普丽尔, 凯特琳, 变身, 自我探索, 争议性内容, 家庭支持, 情感纠葛, 犯罪心理, 多元性别, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

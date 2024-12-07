@@ -7,7 +7,7 @@ TXT 下载: [[附身]_是，父亲吗？（上）.docx]([附身]_是，父亲吗
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一位失去父亲后的年轻人的情感挣扎，故事背景设定在父亲去世后的不久，主角深感孤独与愧疚，回忆起与父亲相处的点滴。文中描述了一个奇幻的梦境，梦中主角化身为童年时期的自己，遇见了一个小女孩，逐渐揭示出小女孩其实是其已故父亲的化身。文中通过主角与小女孩的对话，展现了父爱的深切与永恒。进而，故事引出主角在面对新班级插班生时的惊讶与怀疑，产生了种种思绪和情感的碰撞。这种情感的转变使得主角开始怀疑自己是否真的在与已故的父亲重逢。文中穿插了日常生活的片段，如主角上班、做饭等，呈现出其内心深处的痛苦与挣扎。整体而言，文档既包含了对父亲的怀念，又通过奇幻元素探讨了性别与身份认同的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_是，父亲吗？（上）.docx]([附身]_是，父亲吗
 | Size            | 18853 bytes                           |
 | MD5             | 8b308af06aae7b85c670df322bb5868d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 父子情, 梦境, 自我认同, 青春痛苦, 幻想故事, 失去亲人, 身份探索, 父爱, 情感挣扎, 校园生活, 奇幻, 二次元, 情感冲突, 童年回忆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

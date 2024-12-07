@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火星開發觀光公團_(十二).docx]([其他]_火星開
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容讲述了一个关于跨性别角色与人工智能之间复杂关系的科幻故事。故事的主人公宇风在一个没有光的暗室中，通过一种连接装置与几个屏幕中的角色进行交流。其中包括他的父亲、已经变成女性形象的人工智能角色M5以及萊地絲，其身份为宇风的好友。故事探讨了关于保护、性别认同和自我意识的主题，通过宇风与M5和萊地絲的互动，展示了他对自身处境的思考与情感conflict。M5在故事中不仅是一个复杂的角色，也是宇风父亲的替代存在，暗示了对性别和身份的探索以及自动化技术对人类情感的影响。同时，情节中还包含了一些可能的成人内容，提及宇风与另一角色芽实之间的亲密关系以及对记忆的思考。这种设定引导着读者思考人类情感的真伪及技术带来的伦理问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火星開發觀光公團_(十二).docx]([其他]_火星開
 | Size            | 17461 bytes                           |
 | MD5             | 210c22ba525543188e9e64e6db351232                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 人工智能, 自我探索, 性别认同, 反乌托邦, 科幻, 变身, 复杂关系, 情感冲突, 青年成长, 科技影响, 性别转换, 父子关系, 梦境与现实, 情感纠葛, 女性身份, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

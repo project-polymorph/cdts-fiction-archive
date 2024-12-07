@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_被入替的女警-宇忆兰篇.docx]([皮物]_被入替�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件名为《被入替的女警-宇忆兰篇》，主要描绘了一位女警察宇忆兰的变身与身份重塑。故事发生在高档KTV，混混们想要闯入，但被侍者拦下。随着情节发展，宇忆兰展现出她独特的气质和身份，逐渐展开了一场身份认同和自我探索的冲突。在与旧识小混混的重逢中，她的女性魅力和警察身份的对比形成鲜明反差，引发羞辱与欲望的交织。文本中包含了不少对身体细致的描述，诸如“白色高跟鞋的皮制鞋面一尘不染”，“她正好端起桌子上的咖啡呡了一口”等，并突出了女警察的优雅与她的从前身份之间的矛盾。过程中的细节充满暧昧和情色，展现了对女性身体的强烈关注以及复杂的人际关系动态。文中还涉及强奸、调教、逆后宫等主题，强调了欲望与权力之间的复杂交互。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_被入替的女警-宇忆兰篇.docx]([皮物]_被入替�
 | Size            | 34040 bytes                           |
 | MD5             | 148a3b6892b9e3ba8b7712ce10614b90                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 女警察, 强奸, 欲望, 身份转换, 自我探索, 警察, 性别认同, 混混, 高档KTV, 身份重塑, 异样刺激, 反转情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

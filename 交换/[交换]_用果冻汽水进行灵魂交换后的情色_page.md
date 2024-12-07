@@ -7,7 +7,7 @@ TXT 下载: [[交换]_用果冻汽水进行灵魂交换后的情色.docx]([交�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一个涉及灵魂交换的情色小说，主要讲述了主角立石与同班同学芹泽彩奈之间的奇幻经历。在一次偶然的情况下，立石在放学回宿舍的路上遇到了对他十分强势的芹泽，她主动邀请他去宿舍聊天。内容中描绘了两人在宿舍的互动，芹泽提出了让立石代替她进行补习的要求，并带来了被称为'果冻汽水'的神秘饮料。喝下饮料后，两人的灵魂发生了交换，立石和芹泽都变得全裸，并且以透明的灵魂状态悬浮在空中。小说的情节探讨了性别与自我认知的主题，并包含了一些色情内容，如裸露的描写和交换灵魂后的困惑。整体环境具有校园幻想的设定，结合了奇幻与情色两种元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_用果冻汽水进行灵魂交换后的情色.docx]([交�
 | Size            | 61878 bytes                           |
 | MD5             | 3378038150023e45a5e39f656f2b5f54                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂交换, 果冻汽水, 校园幻想, 性别认同, 自我探索, 透明灵魂, 辣妹, 男主, 女主, 代替补习, 奇幻, 交换人生, 情色, 亲密关系, 青春校园, 性别转换, 奇特饮料                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

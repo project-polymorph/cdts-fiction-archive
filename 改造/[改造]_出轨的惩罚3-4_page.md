@@ -7,7 +7,7 @@ TXT 下载: [[改造]_出轨的惩罚3-4.doc]([改造]_出轨的惩罚3-4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一部关于性别转变与身份认同的小说，围绕主人公王刚的悲剧经历展开。故事从他被阉割和被陷害的情节入手，王刚醒来后发现自己身穿女性服装，被迫承受妻子莉莉与堂哥李福的羞辱。在遭遇背叛与耻辱后，他不但失去了男性的身体，连带着自我认同也遭到了重创。小说详细描绘了王刚的痛苦经历，包括在女性化服装中被迫喂食、与现实的冲突以及与性别身份的不安。在手术后的恢复过程中，他也逐渐意识到了自己的处境与社会对他的评价，这一切都令他感到无比绝望和屈辱。同时，小说还涉及性别角色、身份认同与社会压力等深刻主题，反映出在性别变迁后的内心挣扎及对以往生活的无能为力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_出轨的惩罚3-4.doc]([改造]_出轨的惩罚3-4.doc)
 | Size            | 36864 bytes                           |
 | MD5             | f5b2cbda723edfd2e2d1e72113793277                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 性转, 身份认同, 绝望, 变装, 心理冲突, 社会压力, 自我探索, 耻辱, 变嫁, 强奸未遂, 医疗, 手术, 男性角色的压迫, 女性化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_隔壁老杨之我的婶婶.doc]([其他]_隔壁老杨之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇描绘了一个年轻男性与其婶婶之间情感纠葛的变身小说，角色在故事中经历了性别与身份的转变。故事围绕杨杰在婶婶徐璐家工作的日常展开，他开始对婶婶产生了复杂的情感。在日常生活中，两人之间出现了暧昧的互动，如婶婶帮杨杰擦汗，和彼此亲密的身体接触，逐渐加深了他们之间的情感纠缠。随着情节的发展，杨杰经历了一次神秘的变化，发现自己似乎进入了婶婶的身体，形成了双重视角的情感体验，展现出对身份、自我认同的深刻探索。关键情节包括亲昵的肢体接触、青春期的情感萌动，以及在浴室镜中映出的双重身体视角，带有一定的色情暗示。整体文风细腻，充满性别认同和自我探索的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_隔壁老杨之我的婶婶.doc]([其他]_隔壁老杨之�
 | Size            | 58880 bytes                           |
 | MD5             | e9a1b53a1319021ab56665e967c9287a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 青春期, 情感纠葛, 自我探索, 家庭关系, 禁忌之爱, 心理冲突, 双重视角, 独特香气, 浪漫, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【诸天黑牙商】（5）.doc]([改造]_【诸天黑牙
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是伪娘 TS 变身与跨性别相关小说的一部分，名为《诸天黑牙商》。文中描绘了几个角色之间复杂的交易关系与权力互动，涉及了角色的性别认同和身体变化。故事中的角色古月与慕容复之间的关系十分微妙，古月通过交易将慕容复的养母慕容夫人纳入他的控制之中，展现了她在权力和欲望面前的屈服。在故事中，古月试图通过非直接的方式来掌控其他角色，同时也暗示了对性的探索及权力的掌握。文本中包含了大量关于角色性别与身份认同的探讨，且具有强烈的成人内容，涉及色情描写，以及复杂的人际关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【诸天黑牙商】（5）.doc]([改造]_【诸天黑牙
 | Size            | 37376 bytes                           |
 | MD5             | 05d9df1768bc057cad78192e391c45bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, TS变身, 跨性别, 权力关系, 交易, 性别认同, 欲望, 自我探索, 成人内容, 幻想文学, 角色扮演, 变身小说, 恋爱, 情感纠葛, 伦理问题, 非人化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

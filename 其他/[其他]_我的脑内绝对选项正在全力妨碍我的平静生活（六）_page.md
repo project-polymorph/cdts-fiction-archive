@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我的脑内绝对选项正在全力妨碍我的平静生�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容是一段关于性别转换和自我探索的小说片段，主要围绕角色之间的身体交换与性别认同的冲突进行展开。文中描述了主角在经历了一次神秘的交换后，身体转变为女性的过程，同时对新身体的感受以及遇到的困扰进行了细致的描绘。例如，主角在镜子前查看自己新的身体时，提到‘我的下身已经变成左安颖的了’和‘要是我是女生的话应该最希望的就是这个大小吧’，展现了主人公对自身性别转换的复杂情感。此外，文件中还包含了一些对他人身体特征的描述以及内心的挣扎与自我认知，比如对于穿着内衣和校服的犹豫，以及在学校环境中如何处理新身份所带来的尴尬和冲突，尤其是在与同学的互动中。此片段涉及了一些限制级的情节和暗示，内容较为成人化，适合用于研究性别和性认同相关的文学作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我的脑内绝对选项正在全力妨碍我的平静生�
 | Size            | 60416 bytes                           |
 | MD5             | f393c5014db6be80e0f68262aee258b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 自我认同, 身体交换, 青春校园, 强烈情感冲突, 角色扮演, 性别认知, 内心挣扎, 二次元文化, 幻想小说, 限制级内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_神秘的氪金游戏6.docx]([变身]_神秘的氪金游�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了角色刘洵在醒来后的经历，他发现自己意外进入了一款名为神秘的氪金游戏的虚拟世界。文本详细描述了刘洵在游戏中的探索与体验，包括他对游戏机制的理解和对角色能力的运用。刘洵在游戏中通过卡牌召唤了其他角色，并实验了双人模式下角色的操作能力。在这个虚拟世界中，他观察到了游戏的设定和规则，思考着充值的高昂价格及其带来的困惑。在与群友的互动中，刘洵意识到自己置身于一个解谜般的游戏世界，同时也对群主的身世产生了好奇。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_神秘的氪金游戏6.docx]([变身]_神秘的氪金游�
 | Size            | 25854 bytes                           |
 | MD5             | 6467394fd7c2fbd9a686c1454146391e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-10-20                                 |
+| Tags            | 变身, 氪金游戏, 虚拟现实, 角色召唤, 自我认知, 探索, 双人模式, 游戏机制, 群体互动, 奇幻冒险, 性别转换, 角色能力, 神秘程序员, 挑战与成长, 科技奇幻, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

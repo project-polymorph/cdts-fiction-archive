@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_谍海商战16.docx]([皮物]_谍海商战16.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一篇跨性别相关的小说，描绘了角色性别转换以及女性身份认同的复杂情感。故事设置在S市的一个军用机场，围绕着一支由女性军官组成的特别运送小队展开，任务是捕获并解救一个重大的目标。在这一过程中，角色之间的互动揭示了她们在面对性别转换和角色扮演时的内心斗争与认同危机。
+
+文中提到的主角徐楠，故事中她穿上了人皮衣，展现出她的两面性格：一方面是果敢的军官，另一方面则是一名带有玩笑和调侃的女孩。描述细腻，尤其在她与其他女军官的互动中，展示了她们在权力游戏和情感纠葛之间的矛盾。与此同时，角色们讨论着与S市房地产相关的信息，暗示故事背后隐藏着更复杂的组织阴谋。文中细致地刻画了人物性格和心理，同时不乏情色细节，展现了多元性别的复杂性与社会角色的冲突。这是一篇结合了动作、情感和性别议题的小说，是对跨性别文化的一种探索与表达。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_谍海商战16.docx]([皮物]_谍海商战16.docx)
 | Size            | 24549 bytes                           |
 | MD5             | f8a05a141abf4b6f31ce5825cf47b52b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 军用, 情报局, 身份认同, 女性视角, 角色扮演, 心理斗争, 女性互动, 都市奇幻, 组织阴谋, 特殊任务                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

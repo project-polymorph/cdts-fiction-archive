@@ -7,7 +7,7 @@ TXT 下载: [[改造]_小李的沉沦_【第二章_陷入套路贷】.doc]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一篇关于男性角色小李在一段复杂情感关系中的沉沦历程的小说。故事开篇，小李在与一名女性同事林菲约会后，开始对林菲的穿着产生强烈的关注，表现出他内心逐渐变化的情感。随着时间的推移，小李在一次约会中醉酒被林菲带到了一家声色场所，这里发生了一系列暗示性的事件，包括对林菲身体的描述，从而引发了他对自身性别和认同的深刻思考。文本中包含了性别转换及生理性别与性别认同冲突的描写，展现了小李对女性身份的渴望。在醉酒后的迷离状态中，小李的意识逐渐模糊，交融了幻想与现实，文本结尾处暗示他逐渐接受自身可能的身份转变。整篇小说包含了大量关于身体、欲望和身份认同的细腻刻画。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_小李的沉沦_【第二章_陷入套路贷】.doc]([改�
 | Size            | 32768 bytes                           |
 | MD5             | 356dd66efed6cffd0c2945220565fb57                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 变身, 跨性别, 幻想, 情感纠葛, 调教, 强奸, 淫荡, 逆后宫, 城市生活, 自我探索, 梦境, 欲望, 女性视角, 生理冲突, 身份变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

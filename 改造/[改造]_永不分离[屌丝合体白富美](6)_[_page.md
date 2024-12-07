@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](6)_[.docx]([改造]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档展示了一个性别转换的情节，围绕角色的性别认同和身体感知的冲突展开。故事的主角经历了与其女友孙俪的奇妙互动，他们相互之间建立了一种独特的关系。主角在一场激烈的争吵后，被迫接受了一个新的身份，变成了孙俪的身体。在这个过程中，主角的内心充满了矛盾和挣扎，既有对自己过去身份的怀念，也有对新身份的逐渐适应。作者通过对话的形式，表现了主角由不愿接受到逐渐认同的心理变化。同时，故事中也探讨了私密关系中的男女互动，对性别角色和文化偏见的挑战。随着故事的发展，主角对自己的新的女性身份产生了新的思考和认知，揭示出性别认同和自我探索的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](6)_[.docx]([改造]_�
 | Size            | 31363 bytes                           |
 | MD5             | c6f8b40bf8dde546bd120dfa8d29d2aa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 自我探索, 爱情, 角色冲突, 心理挣扎, 伪娘, 幽默, 人际关系, 身体认同, 社会偏见, 成长, 雌激素影响, 肚皮舞                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

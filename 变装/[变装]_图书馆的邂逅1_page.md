@@ -7,7 +7,7 @@ TXT 下载: [[变装]_图书馆的邂逅1.docx]([变装]_图书馆的邂逅1.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一位大学生在图书馆里与一位迷人的女孩相遇的故事。故事的主线围绕着角色性别的认同与自我探索，将校园生活与性别转换的元素融合在一起。主人公在经历了求职的挫折后，看着周围熙熙攘攘的人群，感到迷茫和孤独。就在他沉浸在自己的思考中时，旁边坐着的女孩引起了他的注意，女孩的优雅气质和清纯形象让他深受吸引，激发了他的强烈情感。随着故事的发展，主人公不仅对女孩心生好感，还对自己的方向和未来产生了更多的思考和困惑。整个故事通过细腻的描绘，展示了校园内男生对女生的思慕与自我提问的心路历程，同时也突显了性别认同与个人情感之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_图书馆的邂逅1.docx]([变装]_图书馆的邂逅1.doc
 | Size            | 18450 bytes                           |
 | MD5             | 7afa790be1dbb897abcc23aca1741130                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 图书馆邂逅, 自我探索, 校园生活, 爱情, 性别认同, 情感纠葛, 校园恋爱, 社交互动, 青春期, 心理描写, 外貌吸引, 友谊, 美腿, 清纯形象                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

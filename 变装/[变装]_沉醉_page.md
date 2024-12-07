@@ -7,7 +7,7 @@ TXT 下载: [[变装]_沉醉.doc]([变装]_沉醉.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由作者海花撰写的一篇长篇变装小说，故事描绘了主角刘媛媛医生的生活轨迹与情感纠葛。刘媛媛是一位外科主治医生，性格淡薄且极有内涵，她的生活因一个叫海华的男性而发生改变。海华在医院因急性阑尾炎而接受手术，第一次见到冷艳的刘医生，产生了强烈的吸引和追求。接踵而来的情感戏剧不断交织，刘媛媛的过去与海华的执恋融合在一起，形成了一段复杂的爱情故事。小说通过对角色心理及情感的细致描绘，展现了他们在追求爱与自我认同之间的挣扎。在作品中，也渗透了对性别认同的探讨，尤其是对传统角色的反思和挑战。整体叙述中包含一点幽默和细腻的情感表现，以及对人物内心世界的深入挖掘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_沉醉.doc]([变装]_沉醉.doc)
 | Size            | 75776 bytes                           |
 | MD5             | 46e2dd7a93d4d989ace4a5f671564cc4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 海花                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 爱情, 自我认同, 医生与病人, 冷淡美人, 校园情感, 追求者, 女性角色深入, 家庭背景, 女性成长故事, 情感纠葛, 医患关系, 性别角色, 二次元, 幻想, 性转, 情感戏剧, 医疗题材                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

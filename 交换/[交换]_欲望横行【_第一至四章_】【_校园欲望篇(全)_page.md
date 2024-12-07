@@ -7,7 +7,7 @@ TXT 下载: [[交换]_欲望横行【_第一至四章_】【_校园欲望篇(全
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《欲望横行：校园欲望篇(全)》，由作者RE创作。故事围绕男性主角陈天祥，他是一位在学校中受到排斥和欺负的肥胖高中生。尽管社交能力较差，陈天祥却有一个神秘的朋友，名为慾先生，这位朋友似乎具备魔法般的能力，并掌控各种不可思议的事物。在一次与校花林钰婷的见面时，慾先生提出了一个荒唐的提议：让林钰婷与陈天祥互换身体。在与女性角色的互动中，展现了对身体、欲望与性别认同的探索。部分内容包含刻画了学校生活中的骚扰与性显现的情节，加入了青春期角色的性欲与自我认知的斗争。故事情节涉及性别角色互换、性别认同，以及由此引发的心理与生理的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_欲望横行【_第一至四章_】【_校园欲望篇(全
 | Size            | 56976 bytes                           |
 | MD5             | bbb9c4c6c44fa25de308fb7567915e78                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RE                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 欲望, 性转, 校园生活, 性别认同, 高中生, 身份互换, 自我探索, 青春期, 魔法, 羞耻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

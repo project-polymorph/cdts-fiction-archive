@@ -7,7 +7,7 @@ TXT 下载: [[附身]_有了女友，兄弟不要了？(下).doc]([附身]_有�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一篇关于附身和性别认同的小说，故事围绕角色阿和利用附身能力体验岚岚的生活。故事中的阿和在多次附身后观察岚岚和她的女友小静之间的关系，并尝试通过岚岚的身份与小静建立更多的交流与理解。阿和发现小静对她的男友阿杰并不满意，反而希望能够与岚岚有更深入的情感联系。在几次互动中，阿和利用角色扮演的方式表达了对小静的情感，却遭遇了小静的拒绝，因小静仍将岚岚视作闺蜜，而非恋人。文中进一步探讨了性别认同和情感关系的复杂性，尤其是在角色身份转换的背景下。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_有了女友，兄弟不要了？(下).doc]([附身]_有�
 | Size            | 77824 bytes                           |
 | MD5             | 2c2eda1530103451893712760f0164af                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身, 性别认同, 伪娘, 情感纠葛, 自我探索, 小静, 阿和, 岚岚, 虚构故事, 跨性别, 青春期困惑, 多元性别, 性别角色, 情感禁忌, 人际关系, 二次元文化, 内心斗争, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

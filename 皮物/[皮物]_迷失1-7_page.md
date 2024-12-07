@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_迷失1-7.doc]([皮物]_迷失1-7.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《迷失1-7》，为一部以伪娘、变身与跨性别为主题的小说。故事围绕主人公林宇展开，他是一个三流大学的孤僻男生，因体重问题和社交障碍而受到同学的排斥。一次偶然的机会，林宇在网络上发现了一款网页游戏，游戏提到可以选择不同的人生。当他选择了女性的身份后，经历了一系列奇妙的事情，逐渐开始质疑自己的性别认同和人生选择。故事在探索性别身份、虚拟现实和青春成长等主题的同时，也包含了一些限制级的情节，涉及到角色间的替代关系与自我认知的冲突。小说用细腻的笔触描绘了角色对自我身份的探索和对周遭人际关系的思考，体现了当代年轻人在面对性别压力时的挣扎和勇气。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_迷失1-7.doc]([皮物]_迷失1-7.doc)
 | Size            | 94208 bytes                           |
 | MD5             | b3188a7ccd2956ff35cfc627efa063c1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 虚拟现实, 青春成长, 身份认同, 网络游戏, 自我探索, 跨性别, 代入体验, 角色扮演, 孤独, 社交障碍, 文学系系花, 英语教师, 校园故事, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

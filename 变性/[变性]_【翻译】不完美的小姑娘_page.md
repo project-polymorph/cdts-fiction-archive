@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】不完美的小姑娘.docx]([变性]_【翻译
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《不完美的小姑娘》是一部围绕变性与跨性别主题展开的小说，体现了性别认同、身体改造和自我探索的复杂情感。这部作品通过角色对自身身份的迷茫与挣扎，描绘了一个在心理与生理之间转变的过程。在文中，主角在经历了荷尔蒙治疗和外科手术之后，面临自我认知的重大改变。故事中的人物之间充满了情感的冲突与依赖，通过细腻的描写展现了对美的追求与身份认同的挑战。作品涉及了如性别转换、情感依赖、身体改造等多个层面的探讨。文中还提到角色形象的塑造，例如通过服装与化妆的转变提升自我认同感及自信心，映射出现代社会对性别与美的多维审视。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】不完美的小姑娘.docx]([变性]_【翻译
 | Size            | 27508 bytes                           |
 | MD5             | 36c5731c16192b6bf0b01136e10b9841                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | suki                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 自我探索, 荷尔蒙治疗, 身体改造, 性别认同, 情感依赖, 变装, 伪娘, 性别转换, 性别冲突, 情感纠葛, 跨性别, 性别身份, 现代社会的性别观, 二次元, 心理变化, 角色塑造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

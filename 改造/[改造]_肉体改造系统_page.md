@@ -7,7 +7,7 @@ TXT 下载: [[改造]_肉体改造系统.doc]([改造]_肉体改造系统.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个以性别转换和身体改造为主题的小说，讲述了主人公林易在一个无聊的夜晚因许愿而获得了一个名为“肉体改造系统”的能力，通过该系统，林易可以复制和融合他人的身体器官，探索自我认同与身体改变的关系。故事中包含了大量的幻想和身体实验情节，主人公在这个过程中逐渐体验到了身体和性别的复杂性，特别是对女性身体的渴望。小说开头，林易在流星划过时许愿，随后醒来发现自己获得了神秘系统，开始进行各种奇异的身体改造实验。随着技能的升级，林易不断尝试大胆的身体复制和转换，探索自我的身份认同，但鉴于其强烈的性暗示和生理描写内容，故事也包含了一些限制级的元素，尤其是在描写性行为与快感时，表现得相当直接和细腻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_肉体改造系统.doc]([改造]_肉体改造系统.doc)
 | Size            | 34816 bytes                           |
 | MD5             | 0e596518b9b83547c4ae7b935be27343                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身体改造, 跨性别, 自我探索, 内心矛盾, 奇幻, 肉体改造系统, 青春故事, 心理挣扎, 性认同, 幻想小说, 电子系统, 邻居姐姐, 性禁忌, 偷窥, 个人成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

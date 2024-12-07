@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_潛徒S-5.doc]([皮物]_潛徒S-5.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘与变身相关的小说，描述了一位主要角色在升級試中的紧张过程。文中主角在办公室与另一角色的相遇中，随着剧情发展，其性别身份和自我认同产生了复杂的冲突。主要剧情围绕着主角与莉莉的互动展开，从一开始的紧张关系到后来的密切接触，展现出对权力和身份的探索。文中提到迷药的使用及其效果，以及主角在转换身份过程中的心理变化，显示出对自我的反思。细致的场景描写使读者能够感受到角色间的情感交错，尤其在主角化身为莉莉后，如何与原角色莉莉形成比较与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_潛徒S-5.doc]([皮物]_潛徒S-5.doc)
 | Size            | 39424 bytes                           |
 | MD5             | 6f54194c9de2dc4295cceeeb0102e779                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 自我认同, 迷药, 办公室情节, 强烈冲突, 权力关系, 性别交换, 情感探索, 情色情节, 双重身份, 心理描写, 二次元情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

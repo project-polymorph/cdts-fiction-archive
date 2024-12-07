@@ -7,7 +7,7 @@ TXT 下载: [厨师变娇娘.doc](厨师变娇娘.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位名叫杨琪的年轻厨师的故事。他在平淡的日常工作中，遭遇了一场突如其来的车祸，之后意识到了自己的身体完全无法控制。故事中揭示了他与老板娘姜晓晴之间的暧昧关系，以及他的家庭背景和心理挣扎。在大脑移植的医学突破与个人生死抉择的交错中，杨琪的命运发生了重大转折。随着故事的推进，读者了解到杨琪因这场事故引发的一系列连锁反应，包括他的治愈希望却又被残酷现实打击。他的亲人们在失去希望的同时仍希望能有奇迹出现。故事通过杨帆与主治医生的对话展示了医疗伦理的复杂性，并探讨了生命、死亡与重生之间的界线。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [厨师变娇娘.doc](厨师变娇娘.doc)
 | Size            | 68096 bytes                           |
 | MD5             | 80eed8624cb3d72e3c5d27f72c1a9717                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 脑死亡, 医学伦理, 家庭, 生死, 爱情, 重生, 矛盾, 心理转变, 事故, 人生选择, 强奸, 变嫁, NTR, 雌堕, 身体交换, 校园, 都市, 异世界, 竞技                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

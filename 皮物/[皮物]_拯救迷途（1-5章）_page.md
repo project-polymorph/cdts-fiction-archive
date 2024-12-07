@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_拯救迷途（1-5章）.doc]([皮物]_拯救迷途（1-5�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部伪娘 TS 变身与跨性别相关的小说，名为《拯救迷途》，主要围绕主人公清水亮在警视厅的升职考试中发生的事件展开。在故事开头，清水亮在经历紧张的考试准备后，参加了格斗项目的比试。通过详尽的描述，故事描绘了清水亮与对手池田大翔之间的激烈较量，展现了他们在赛场上的对抗与心理角逐。清水亮优于体术，但在比赛中被池田的阴招所伤，最终导致失败，令人唏嘘。其后，清水亮并未因此放弃，他决定寻求正义，为自己的名誉与职业生涯而抗争。接下来，警视正长官为清水提供了一个额外的测试机会，暗示着清水可能面临更为复杂的考验。在故事中，不仅有动作场景的描绘，还有清水对哥哥失踪真相的执着追求，情节复杂多元，情感真实。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_拯救迷途（1-5章）.doc]([皮物]_拯救迷途（1-5�
 | Size            | 61440 bytes                           |
 | MD5             | 2b008f5e904a4390a01c4acc46069511                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 警视厅, 考核, 格斗, 心理战, 自我探索, 清水亮, 池田大翔, 权力斗争, 暴力, 年轻人在职场的挑战, 青春, 成长, 逆境, 正义追求, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

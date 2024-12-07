@@ -7,7 +7,7 @@ TXT 下载: [[改造]_DTX之转变-2.doc]([改造]_DTX之转变-2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容为一部关于性别转变的小说，描述了主角在参与实验后经历的身体和心理变化。故事中，主角张曼和叶冠林被卷入了一个名为DTX的公司进行的实验，实验的目的是通过纳米机器人实现角色外貌的改变。随着实验的深入，角色们不仅发现自己的外貌在变化，更感受到心理上的挣扎与自我认同的挑战。张曼对实验的性质产生质疑，她与尤靖的对话中对实验目标的模糊性感到困惑，尤其是在她的伴侣叶冠林的外貌将与她相似。随着情节的发展，张曼与叶冠林逐渐意识到，他们可能被卷入了一个骗局，且实验的真相难以捉摸。对未来的不确定性与自身身份的认同成为故事的核心主题，使得人物在经历变革的同时也在探索自我认知与现实的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_DTX之转变-2.doc]([改造]_DTX之转变-2.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 58368 bytes                           |
 | MD5             | e316b01f66f526513d0acfc59b0d5297                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 实验, 身份认同, 自我探索, 纳米机器人, 心理变化, 生理变化, 爱情, 科技幻想, 男性变女性, 科幻小说, 实验骗局, 角色矛盾, 情感纠葛, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

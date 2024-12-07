@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_契+第一章(上.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部原创奇幻小说的开篇，故事设定在一个魔法与冒险交织的王国中，开场白提到了一位强大的女魔法师，她拥有一位名叫安洁莉的炼金生命女仆，安洁莉具备美貌但面无表情，像一个完美的机械人偶。故事情节围绕着女魔法师即将出门旅行，她希望安洁莉能够照顾村子里的居民。在经过数百年的守护后，安洁莉面临村子的衰亡，最终她提出了让一个意外落入塔中的青年名叫「天草圭一」扮演魔王的建议，希望借此吸引冒险者前来，带动村子的经济复兴。该段文字不仅包含了奇幻元素，还有对角色内心与情感的探索，展示了角色间的互动与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_契+第一章(上.docx]([�
 | Size            | 22885 bytes                           |
 | MD5             | 2d0587f638184df45bd152532c7de6a8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻小说, 魔法, 女魔法师, 跨性别, 角色扮演, 安洁莉, 魔王设定, 冒险者, 经济恢复, 自我认知, 性别认同, 二次元, 女性角色, 玄幻, 虚拟现实, 炼金术, 内心探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_青い煙1-2.doc]([变身]_青い煙1-2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一部以性别转换为主题的小说，名为《青い煙》，它探索了主人公拓野因性转换综合征而产生的身心变化与情感困扰。故事发生在一个慵懒的夏日午后，拓野作为男生，面临着需要适应逐渐发展的女性身体，不仅要应对自身的生理变化，还要承受来自同学和社会的压力。故事中描绘了拓野的内心挣扎与自我认同，以及他在变性过程中情绪的不稳定，老师对他的同情与体谅，以及他无法放弃的家庭责任和保护母亲与妹妹的决心。文件中提到性转换综合征是由古代人类的生存需求而产生的特殊现象，拓野对此感到困惑与无奈。通过人物间的互动与情节发展，小说揭示了性别认同的重要性和个人成长的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_青い煙1-2.doc]([变身]_青い煙1-2.doc)
 | Size            | 31744 bytes                           |
 | MD5             | 289266d7b07d007c6dbfb131b5cb97f1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 情感挣扎, 自我认同, 社会压力, 家庭责任, 性转换综合征, 青春校园, 成长, 生活挑战, 悔恨与希望, 角色发展, 性别认同, 朋友关系, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

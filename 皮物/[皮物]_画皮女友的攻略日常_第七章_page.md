@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第七章.doc]([皮物]_画皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节名为《喜欢的理由》，主要描写了主人公陆升与伪娘角色苏黎颖之间的对话与互动。章节中，苏黎颖展现了病娇性格，她通过幽默与威胁的方式探讨了对陆升忠诚的需求，甚至不惜用极端方式约束他的行为。苏黎颖的角色设定充满了戏剧性，展现出一种交织着爱与控制的关系，让两者的情感在深层次上产生了冲突与认同。例如，她提到要将陆升“用铁链锁在床上”，并轻描淡写地谈论关于关在地下室的情节，展示了她性格的极端而又充满魅力的一面。整个对话中，两人之间的白热化情感反映了对彼此心灵深处的了解与探索，以及对未来关系的思考和担忧。对此，陆升则试图理性分析二人的关系，力求在这段感情中维持一份忠诚与理解，最后以一种轻松的方式结束了这一紧张的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第七章.doc]([皮物]_画皮
 | Size            | 59392 bytes                           |
 | MD5             | 8e4ad8950244788b2d4ade0a71d431e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 病娇, 伪娘, 强制性, 爱情心理, 性别认同, 心理操控, 恐怖情感, 特殊关系, 极端爱, 虚构角色, 恋爱游戏, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

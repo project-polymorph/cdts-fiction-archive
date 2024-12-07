@@ -7,7 +7,7 @@ TXT 下载: [[附身]_虚拟世界的狂欢（2）.docx]([附身]_虚拟世界�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一份关于一个虚拟世界游戏的说明书，描绘了四个主要职业的特性和能力，其中包括战士、法师、弓箭手和祭祀。作者通过角色白小江的视角分享了他在游戏中的经历，特别是选择法师这个职业后对游戏过程的吐槽与感受。文件中提到战士的近战能力，法师的远程控制技能，弓箭手的敏捷性，以及祭祀的治疗能力，同时也揭示了角色之间的竞争与互动。白小江在游戏中面临的挑战和对其他玩家的羡慕，以及对新增加的性伴侣设定的探讨，更是为这个虚拟世界增添了趣味性。文件还涉及到敏感内容，并含有一些带有色情暗示的情节，如角色之间的互动，性伴侣设定及比赛中的情感描写，适合关注性别和性向研究的人员阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_虚拟世界的狂欢（2）.docx]([附身]_虚拟世界�
 | Size            | 19135 bytes                           |
 | MD5             | a647518ead548c20b51813f02f2e3bd8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 虚拟世界, 游戏说明, 角色扮演, 性别转换, 法师, 祭祀, 战士, 竞技场, 敏感内容, 角色互动, 性伴侣设定, 二次元文化, 游戏体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

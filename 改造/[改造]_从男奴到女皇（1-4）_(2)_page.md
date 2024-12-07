@@ -7,7 +7,7 @@ TXT 下载: [[改造]_从男奴到女皇（1-4）_(2).docx]([改造]_从男奴�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个角色从男性奴隶（男奴）转变为女皇的奇幻故事。故事发生在一个隐藏的地下俱乐部，角色在这里经历了被征服和自我认同的过程。小说中描绘了大量与性别转换相关的情节，诸如男性角色逐渐认同自己的女性身份，体验女性身体的快感。同时，故事中包含了一系列带有性暗示的场景，包括男奴的服从和女皇的权威以及两者之间复杂的性关系。情节毫不掩饰地展示了许多现实中少见的性幻想和角色间的权力 dynamic.
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_从男奴到女皇（1-4）_(2).docx]([改造]_从男奴�
 | Size            | 40259 bytes                           |
 | MD5             | 87d484f0c12831c8d2538e0d96180855                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性别认同, 强权关系, 性转, 女皇, 男奴, 权力动态, 地下俱乐部, 性幻想, 情色文学, 魔法, 二次元, 女体化, 调教, 逆后宫, 父女关系, 残酷童话, 奇幻小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

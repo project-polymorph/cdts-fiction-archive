@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译小说】疯狂的双胞胎妹妹12.docx]([改造
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为布莱恩的角色的故事，他与双胞胎妹妹布里安娜的关系错综复杂。布莱恩在一场脱衣舞表演中被迫以女性化形象出现，引发了一系列身份认同与性别角色的矛盾。布里安娜通过操控和催眠让布莱恩变成了娘娘腔妓女，她对布莱恩的控制和威胁使得这个故事充满了情感冲突。布莱恩在舞台上表现得愚蠢、矛盾，他挣扎着在妓女人格和真实自我之间找到平衡。布里安娜的目的是为了夺取遗产，她的心理操控对布莱恩造成了严重的影响。整篇小说探讨了性别认同、家庭关系以及心理操控等主题，还描绘了涉及性别转换与性角色的复杂情节，呈现出对权力与服从的深刻探讨。文中涉及不少限制级内容，是对角色冲突与身份探索的生动描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译小说】疯狂的双胞胎妹妹12.docx]([改造
 | Size            | 19913 bytes                           |
 | MD5             | cceb932bf4b8476fe12795c6f9efc4c3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 心理操控, 家庭关系, 身份认同, 性别角色, 双胞胎, 妓女, 表演艺术, 情感冲突, 女性化, 遗产争夺, 暗黑奇幻, 催眠, 色情内容, 强奸, NTR, 调教, 逆后宫, 变装, 男娘, TSF                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

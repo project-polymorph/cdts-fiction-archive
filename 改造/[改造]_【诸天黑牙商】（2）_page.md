@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【诸天黑牙商】（2）.doc]([改造]_【诸天黑牙
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于改造与冒险的小说，故事主角古月经历了一次身体转移并进入了一个奇异的世界。他通过自己的努力与香火钱，构筑了一个能保护自己的屏障，并利用新获得的系统寻求生存与力量。古月的灵魂附身在一具刚死不久的身体里，感知到开始转变为新的生活。他学习如何成为强大的黑牙商，与各种灵异存在互动，探索这个充满奇幻与挑战的新环境。本章描述了古月逐渐适应自己新身份的过程，以及他如何依赖着新系统来借助外界的力量。文中描写了他与恶鬼之间的斗智斗勇，展示了一种超现实的冒险情节，剧情包含了一些变身和穿越的元素，同时探讨了身份认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【诸天黑牙商】（2）.doc]([改造]_【诸天黑牙
 | Size            | 37888 bytes                           |
 | MD5             | 9b043a534290af3e176eef6938915c01                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 冒险, 灵魂转移, 黑牙商, 幻想, 异世界, 系统, 鬼怪, 重生, 自我探寻, 战斗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

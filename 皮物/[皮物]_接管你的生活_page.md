@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_接管你的生活.docx]([皮物]_接管你的生活.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《接管你的生活》讲述了一位名叫廖天的男人在工作与家庭压力中苦苦挣扎的故事。故事开场描绘了廖天加班后的深夜归家，面对空荡荡的房子和缺乏亲密关系的妻子，他选择通过一个名为“接管你的生活”的社交网站来发泄自己的欲望与滋味。该网站聚集了许多追求身份转变与性别探索的人。在观看各种各样的内容后，廖天对于皮物的热情再次被激发，同时他也感受到了一种内心的孤独与压抑。接下来的情节描绘了廖天如何在与妻子相处时，意外发现了她的温柔与关心，两人的关系在误解与直白的情感表达中得到重新审视与升华。故事中不仅包含了娴熟绕口的对话，还有关于男女关系的探索，并且融入了一些对性与身份的深层思考。同时，涉及的情节包括廖天的自我认同危机及对家庭生活的反思，这些都是贯穿全文的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_接管你的生活.docx]([皮物]_接管你的生活.docx)
 | Size            | 25088 bytes                           |
 | MD5             | d0f4b97e215086e97a4a96eaa1a5b4a3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 精神病患者, 社交网站, 家庭关系, 自我认知, 身份转变, 欲望抒发, 情感探索, 皮物, 视频内容, 内心挣扎, 男女关系, 性别认同, 情趣内衣, 婚姻生活, 强烈欲望, 视频调教, 个人癖好                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

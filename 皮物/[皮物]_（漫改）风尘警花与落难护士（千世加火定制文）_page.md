@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（漫改）风尘警花与落难护士（千世加火定�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一个关于伪娘和跨性别主题的小说，名为《风尘警花与落难护士》，由插画作者千世加火创作，属于该作者的定制文。故事发生在豪华的总统套房，描绘了一场违反社会道德的春宫大剧。女主角陈逸涵是一名警校校花，身穿黑丝和包臀裙，在征求中年男性冯叔叔的帮助下展开了一场生死交锋的肉体交易。文中细腻地描写了角色的外貌、心理状态和交互，充满了强烈的色情暗示和自我认知的冲突。此外，文中还包括了其他角色，如护士形象的少女，与主要角色互动，展现了不同的性别角色和情感关系。整体情节环绕着性别转换、自我探索和身体交易等禁忌主题，展现了复杂的角色关系与心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（漫改）风尘警花与落难护士（千世加火定�
 | Size            | 36352 bytes                           |
 | MD5             | 016e28b0e429da1e6209761a024ee888                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 千世加火                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别小说, 强奸, 色情, 肉体交易, 警校, 护士, 自我认知, 性别转换, 虚拟现实, 幻想, 爱情, 二次元, 现代, 都市, 禁忌, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

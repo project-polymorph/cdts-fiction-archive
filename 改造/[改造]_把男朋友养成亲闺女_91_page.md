@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_91.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为关于梅根和阿曼达日常生活的描写，充满了关于性别认同和角色转换的情感探讨。故事围绕着阿曼达照顾假扮成女儿的男朋友贝丽展开，探讨了她们之间复杂的母女关系和性别认同的困惑。阿曼达非常关心贝丽的心理和身体变化，她在照顾贝丽的过程中，逐渐认识到贝丽对这一角色扮演的接受和享受。文中展现了贝丽在性别转换过程中身体发育的细节，并交代了一些亲密的场景，如阿曼达对贝丽的母爱和关心。随后，梅根与阿曼达的对话深入讨论了贝丽的幸福感与自我认知，揭示了多重身份和性别角色转变所引发的内心挣扎与成长。同时也暗示了阿曼达与德里克之间的情感发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_91.docx]([改造]_把男朋友
 | Size            | 18893 bytes                           |
 | MD5             | c8f0d52aaedcd3ca11912f288e9550eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 伪娘, 家庭关系, 情感探索, 身体发育, 女儿情节, 角色扮演, 社会理解, 自我认知, 青春成长, 母女关系, 爱情, 复杂情感, 心理健康, 性别歧视, 性别角色, 生活琐事, 亲密关系, 职业发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

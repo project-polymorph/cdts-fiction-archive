@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第十一章.doc]([变性]_《蒹葭录》�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《蒹葭录》第十一章展现了一部以东亚武侠为背景的变身与跨性别主题小说。故事主要围绕着几位角色之间的恩怨情仇和身份冲突展开。章节中，宋沚陵、江飞羽与神秘的刺客疾风相遇，揭示了复杂的人际关系与身份认同。在与疾风的对话中，暗示了性别与文化的交织。疾风的出现引发了一系列的事件，展现了他作为武士的身份和意图，同时也揭示了华夏文化与外来文化的对峙。随着故事推进，角色们在复杂的情感与争斗中寻找自我和平衡，他们的关系和内心挣扎成为故事的核心。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第十一章.doc]([变性]_《蒹葭录》�
 | Size            | 54272 bytes                           |
 | MD5             | 3d1e369cf97a54f63b2250e4526a179f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 武侠, 东亚文化, 身份认同, 黑暗势力, 江湖, 情感纠葛, 性别探索, 异世, 幻想, 刀剑, 武士, 冒险, 阴阳                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

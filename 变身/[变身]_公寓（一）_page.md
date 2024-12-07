@@ -7,7 +7,7 @@ TXT 下载: [[变身]_公寓（一）.docx]([变身]_公寓（一）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是讲述一名大学刚毕业的年轻人租住新公寓的故事。主人公在寻找合适的居住地时经历了种种波折，最终找到了一处满意的小区，公寓的租金和环境都令他感到意外。在入住后，他发现自己逐渐适应了新生活，然而他在工作中却感到压力增大，与团队的关系感觉微妙。故事通过细腻的描写，展现了年轻人在职场和生活中的心态变化，尤其是从自己性别认同出发的细腻感受，如主人公逐渐开始喜欢女性化的服饰与生活风格。随着故事的发展，主人公对于租房的疑问和工作状态的焦虑逐渐加剧，同时出现了一系列情节冲突，让故事更加吸引人。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_公寓（一）.docx]([变身]_公寓（一）.docx)
 | Size            | 17939 bytes                           |
 | MD5             | e3d7ca931c74d9acc0cc3c5e67031e93                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 职场压力, 自我认同, 青春成长, 都市生活, 出租公寓, 性别探索, 故事叙述, 心态变化, 情感纠葛, 家庭氛围, 年轻人的烦恼, 社交互动, 生活琐事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

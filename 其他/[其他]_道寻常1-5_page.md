@@ -7,7 +7,7 @@ TXT 下载: [[其他]_道寻常1-5.docx]([其他]_道寻常1-5.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个普通男子对朋友女友的暗恋故事。主人公与男女朋友刘遇和陈清深厚的友谊成了他们间微妙关系的背景，伴随着对美丽女友孙如的单相思。主人公对孙如一见倾心，尽管知道她已是刘遇的女友，心中情感却难以抑制。全文不仅描绘了他对孙如的外貌与性格的赞美，还表现出他内心的挣扎与无奈，以及对友谊和爱情之间复杂关系的思考。故事中还插入了对黑客组织及其活动的描写，使情节更显丰富。总体而言，这篇小说探讨了爱情、友谊，以及性别与性欲之间的困惑与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_道寻常1-5.docx]([其他]_道寻常1-5.docx)
 | Size            | 29091 bytes                           |
 | MD5             | f23426e5638c87a669fc7420e09c0504                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 单相思, 友谊, 暗恋, 痛苦, 黑客, 复杂关系, 跨性别, 爱情纠葛, 青春, 自我认知, 性感, 虚拟现实, 内心挣扎, 社会观察, 美丽女友, 性别意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

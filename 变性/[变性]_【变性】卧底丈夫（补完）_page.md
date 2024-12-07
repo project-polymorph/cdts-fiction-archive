@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【变性】卧底丈夫（补完）.doc]([变性]_【变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《卧底丈夫》是一部围绕性别转换和跨性别主题展开的小说。故事讲述了主人公彼得与他的富有妻子维多利亚之间的复杂关系。她希望彼得在婚姻中无条件服从于她，并且担任她商业帝国中的卧底角色。随着剧情的发展，彼得被迫接受一系列的性别转变和生活方式的变化，他被派往女装店进行卧底调查，并接受女性化培训。通过维多利亚的操控，彼得经历了从外貌到行为的彻底转变。在这个过程中，小说展示了人物内心的挣扎、自我认同的冲突以及对性别角色的重新定义。该作品涉及的主题包括跨性别认同、自我探索与性别角色的颠覆，同时融入了一定的色情元素和复杂的人际关系，引人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【变性】卧底丈夫（补完）.doc]([变性]_【变�
 | Size            | 85504 bytes                           |
 | MD5             | 9bdb588c7a71008f59c7f6cc78054ef4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kriz                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 卧底, 伪娘, 家族企业, 女性化培训, 性别角色, 爱情, 婚姻, 商业间谍, 自我探索, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

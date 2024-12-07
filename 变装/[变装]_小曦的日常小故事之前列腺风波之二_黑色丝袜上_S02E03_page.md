@@ -7,7 +7,7 @@ TXT 下载: [[变装]_小曦的日常小故事之前列腺风波之二_黑色丝
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个变装男孩与其上司之间暧昧互动的小故事，生动描绘了角色在职场环境中的性别认同与情感冲突。故事采用了第一人称视角，讲述了主角小曦在办公室中打扮成女性的经历，以及与李局长之间微妙而亲密的关系。开头，小曦以甜腻的声音引起了李局长的注意，随后在办公室中展开了大胆的互动，借着开玩笑的方式表达了自己的魅力和性别困扰。文中多次提到小曦的外貌、服装以及内心的挣扎，在趣味与性感中，展现了对性别角色的反思和自我认同的探索。此故事涉及的情节包含穿着黑色丝袜与高跟鞋的细节描写，以及与李局长的身体接触，暗示了复杂的师生关系和潜在的性别认同问题。通过对主角心理的细腻刻画，文中探讨了性别模糊性和个人身份的双重性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_小曦的日常小故事之前列腺风波之二_黑色丝
 | Size            | 47616 bytes                           |
 | MD5             | 40e91fe737fa14c049f7745c6fcb0939                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 熟男与男孩, 办公室恋情, 情感冲突, 丝袜, 高跟鞋, 性别转换, 男娘, 诱惑, 职场故事, 性暗示, 自我探索, 性别表达, 奇幻, 都市生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

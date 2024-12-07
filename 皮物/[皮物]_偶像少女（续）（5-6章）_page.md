@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_偶像少女（续）（5-6章）.docx]([皮物]_偶像少
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别相关的小说档案，主要讲述的是一位名为小希的少女演员在拍摄某个项目时的经历。在故事的第五章中，小希与其他演员一起，准备拍摄一个关于湖边意外的戏份。在这个过程中，她经历了一系列复杂的情感和自我认知的挑战。小说描绘了她作为一名伪娘的心理斗争，以及在角色扮演和个人认同之间的挣扎。尤其是小希意识到自己对同伴苏晨的情感变化，以及拍摄过程中的意外，让她开始思考性别认同和爱情的复杂性。
+
+故事中涉及角色性别转换、伪娘等元素，并加入了对戏剧拍摄的细腻描述，营造出一种充满戏剧和情感冲突的氛围。文件还包括一些可能的剧情发展和角色之间的互动，展示了伪装与真实身份的碰撞，以及角色对自我性别认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_偶像少女（续）（5-6章）.docx]([皮物]_偶像少
 | Size            | 23059 bytes                           |
 | MD5             | 94b280dffc2dc90051df195dda39180e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 情感纠葛, 女性视角, 变装, 戏剧, 自我探索, 湖边戏份, 性转, 情感, 偶像, 年龄差, 剧组生活, 强拆, 调教, 情感戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

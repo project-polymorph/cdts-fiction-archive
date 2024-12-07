@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_番多拉魔盒外篇“六一”进行上.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一对恋人，翔龙与沧海欣在六一儿童节前夕的一段亲密对话和互动的描写。故事开始于清晨，沧海欣穿着半透明的睡衣，以调皮的方式与男友翔龙交流，渴望庆祝六一。尽管翔龙对此感到好笑，却无法抵挡沧海欣的挑逗，逐渐引发一系列亲昵行为。两人的关系在轻松愉快的氛围中展现出温暖与甜蜜，同时也体现了年轻情侣之间的互动与默契。沧海欣表现出一种古灵精怪的个性，试图安排庆祝活动，而翔龙则是带着调侃和宠溺的态度对待她。文件中充满了细腻的情感描绘，男女主角间的亲昵互动以及对话展示了他们之间甜美的恋爱关系，也暗示了即将到来的重要日子可能带来的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_番多拉魔盒外篇“六一”进行上.docx]([皮物]_
 | Size            | 18843 bytes                           |
 | MD5             | 64cc83c93fa3fc5d594374d1cf5f23d2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 苍茫                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 纯爱, 校园生活, 亲密关系, 情侣互动, 调皮, 甜蜜, 儿童节, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

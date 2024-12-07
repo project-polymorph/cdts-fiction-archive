@@ -7,7 +7,7 @@ TXT 下载: [[附身]_ごみんと附身萝莉两篇（旧文搬运）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档包含了两篇关于附身与性别转换的故事，其中一篇的标题为《在婚礼上附身萝莉》。故事的叙述者在参加婚礼时意外摔倒，意识逐渐模糊，并在灵魂出窍的状态中发现自己能够附身到一个小女孩的身上。故事描绘了叙述者在附身后的内心冲突与奇特体验，特别是在适应新的童年身体和身份时产生的复杂情感。这种附身引发了对性别认同和个人欲望的探索，同时伴随着对未成年身体的禁忌与幻想的描绘。文中展示了一些性别与社会地位（比如贫困与富裕）之间的对比，叙述者在转变为小女孩后体验到了与原来截然不同的生活。通过直白的文字和细腻的心理描写，故事引导读者思考性别、个体认同以及在不同身份之间转换的情感与道德复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_ごみんと附身萝莉两篇（旧文搬运）.docx]([�
 | Size            | 65933 bytes                           |
 | MD5             | cf1350ae70478aec55b902d6752fbfb2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 幼女, 心理探索, 性别认同, 自我认知, 近亲, 禁忌, 父母, 婚礼, 奇幻, 灵魂出窍, 生活经历, 身份转换, 欲望, 自我欲望, 天真无邪, 社会地位, 儿童, 富裕与贫困                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

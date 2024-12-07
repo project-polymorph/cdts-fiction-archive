@@ -7,7 +7,7 @@ TXT 下载: [[其他]_与虫共舞.docx]([其他]_与虫共舞.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一场因陨石坠落而引发的连锁反应，故事以X市的一户普通人家为背景，中心是两位少女的遭遇。长发少女在洗澡时发现一只外形如同蝎子的未知生物，遭到其袭击并注入一种墨绿色液体，随后陷入了麻痹，并体验到前所未有的快感。在她的意识逐渐模糊后，未知生物完全侵入了她的身体，并导致其出现快感至极的高潮。短发少女在姐姐的引导下，经历了相似的遭遇，同样无法抵抗未知生物的侵袭，最终也沉醉在快感和迷离的状态中。作品围绕着变身、生理反应与未知生物的侵犯展开，借此探索了性别认同和自我欲望的复杂性。内容包含了强烈的性暗示以及对生理的描写，堪称一部典型的伪娘/TS相关小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_与虫共舞.docx]([其他]_与虫共舞.docx)
 | Size            | 38002 bytes                           |
 | MD5             | be9997d7ad0fb848675e1dc2ed3e81c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 未知生物, 性转, 性别认同, 快感体验, 少女, 自我探索, 性吸引, 冲突与转变, 禁忌恋, 恐惧与欲望, 奇幻生物, 恶性循环, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

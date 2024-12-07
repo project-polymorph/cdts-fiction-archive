@@ -7,7 +7,8 @@ TXT 下载: [[变身]_拟态忍者_序章.doc]([变身]_拟态忍者_序章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部关于忍者和能力变身的幻想小说序章，小说描写了一个名叫寺信的角色在测试一种夸张到几乎不符合生物学常识的忍者能力，该能力通过将人体转化为粘液来进行多种拟态和液化操作。故事开始时，寺信站在一个亮堂的房间中，目睹一个赤裸的男人展示他的液化忍术。这种忍术让他能够变身为各种物体，包括人类，甚至是女性角色。小说展示了拟态的过程以及在测试中的各种场景转换，包含了对测试效果的详细描绘。随着情节发展，液态角色向寺信展示了其能力，最终在一个同性场景中高潮，展现了两名角色之间的亲密互动，文本甚至涉及了性暗示和情节。
+在这部作品中，主题围绕着性别认同、变身、以及粘液生物的奇特能力展开，涉及角色自我认知和身份的探寻。整体上，这是一部具有强烈幻想色彩、性别转换和激烈情感冲突的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +22,10 @@ TXT 下载: [[变身]_拟态忍者_序章.doc]([变身]_拟态忍者_序章.doc)
 | Size            | 30720 bytes                           |
 | MD5             | 61fd00ce6995a054f0155b45be3a8a06                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 粘液忍者, 同性恋, 幻想, 科幻, 自我认知, 角色扮演, 虚拟现实, 情感冲突, 液化之术, 变装, 同性亲密, 测试能力, 异性拟态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

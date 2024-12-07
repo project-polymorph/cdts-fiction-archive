@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_胡余穿越的旅途_1-3章.doc]([催眠]_胡余穿越的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了主角胡余穿越到一个古代小镇的奇幻冒险旅程。故事开头，胡余因寻找物品而进入山洞，意外发现一个神秘的金色物体。吸收其能量后，胡余穿越到了一个陌生的世界，面临生死存亡的局面。在这个古代小镇，他遇到了同样被追赶的中年夫妻，情节展开着胡余是否能够生存并适应这个新环境的探险。在他们的相遇中，危机与困难相伴，胡余还发现了自己体内的特殊力量“血案之力”，这让他在面临险境时有了自保的能力。故事受到了现代奇幻和古代武侠元素的融合，以角色的自我认知与身份探索为主线，同时探讨了复杂的关系与生存的考验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_胡余穿越的旅途_1-3章.doc]([催眠]_胡余穿越的
 | Size            | 48128 bytes                           |
 | MD5             | 619efa8b7619a88eb24653929f4552cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 穿越, 古代, 魔法, 冒险, 能量吸收, 自我探索, 奇幻, 成长, 血案之力, 角色互动, 斗争, 生存, 夫妇关系, 权力斗争, 情感纠葛, 英雄旅程, 经典戏剧, 灵魂与身份, 时空穿梭                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_AOW----乱祸之源.doc]([皮物]_AOW----乱祸之源.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《乱祸之源》是一部以虚拟现实MMO游戏为背景的跨性别小说，围绕一个希望改变自我的年轻人展开。故事的主人公在渴望改变自己形象的过程中，他们发现了一个神秘的虚拟网游『ATW』。这个游戏的发布引发了年轻人们的期待，而主人公也不例外。他则凭借对游戏的强烈好奇心与对现实生活的不满，决定深入研究这个游戏的运作与背景。随着开服日的到来，主人公通过先进的虚拟项圈进入了游戏世界，然而意外的bug让他陷入了陌生且不可控的状态。故事通过字符生成与角色塑造探讨了性别认同与自我认知的问题，展现了一场关于自我探索与身份认同的旅程。文中有关于虚拟现实技术的设定，例如“虚拟项圈”和“意识加速”这些概念非常引人瞩目，使得作品在探索性别与自我认知的同时，也隐含了对现代虚拟技术的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_AOW----乱祸之源.doc]([皮物]_AOW----乱祸之源.doc)
 | Size            | 46592 bytes                           |
 | MD5             | 222cb25f495fbe493b8308bad73c98b2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 虚拟现实, 性转, 跨性别, 自我认知, 网络游戏, 角色塑造, 自我探索, 青春, 神秘游戏, 虚拟技术, 互动小说, 奇幻冒险, 心理变革, 孤寂                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

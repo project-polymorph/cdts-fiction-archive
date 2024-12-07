@@ -7,7 +7,7 @@ TXT 下载: [[变身]_合影相机_第三章.doc]([变身]_合影相机_第三�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是性转小说的一部分，主要讲述了角色黎司与章山的实验过程，尝试使用一台特殊的相机进行变身实验。故事包含了一系列有趣而奇幻的事件，包括失败的相机实验、角色的性别转换与自我认知的冲突。章节开头描述了黎司和章山在实验过程中发生的小意外，他们在周末进行了一次变身测试，章山变成了女老师的形象。章节中也提及了角色对性别转换后自我身份的认知和互动，展示了他们面对变身后的搞笑情境，例如章山对自己的新身份感到的不适应以及与黎司的幽默对话。整体呈现了性别探索和友谊的主题，同时也夹杂着一些轻微的色情暗示，展现了二次元文化的独特魅力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_合影相机_第三章.doc]([变身]_合影相机_第三�
 | Size            | 39936 bytes                           |
 | MD5             | c03f2dc50d40b9f02f93c7ef4b2843d6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, TS小说, 二次元, 自我探索, 友情, 幽默, 角色扮演, 女装, 实验, 轻小说, 跨性别, 儿女情长, 脑洞大开, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

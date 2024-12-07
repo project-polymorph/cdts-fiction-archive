@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_理发师_[.docx]([皮物]_理发师_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一个描绘理发师与顾客之间互动的性转主题小说。故事围绕一位男主角张俊在理发店内与女理发师伊莎的亲密互动展开。故事前半部分描述了张俊在理发时对伊莎的外貌和气息的迷恋，描绘了他心中激烈的情感冲突及对女性身体的好奇与渴望。随着情节推进，张俊回忆起与伊莎的每一次见面，其中融入了包括洗头、剪发的细节和他们之间调侃的对话，展现了张俊在向女性性别认同过程中所产生的情感变化与身体反应。接下来的情节逐渐转向更加露骨的内容，包括对身体的描写和人格分裂，尤其是美莎与伊莎之间的复杂关系和互动，文中呈现了一些带有性暗示的场景和涉及性行为的细节，给人一种强烈的视觉与感官刺激。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_理发师_[.docx]([皮物]_理发师_[.docx)
 | Size            | 21487 bytes                           |
 | MD5             | b96d53496df54007663fc192707328b8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 理发店, 伪娘, 强烈性暗示, 自我探索, 身体认同, 女性视角, 亲密关系, 情感冲突, 幻想, 淫荡, 调教, 性行为, 弟弟与姐姐的复杂关系, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

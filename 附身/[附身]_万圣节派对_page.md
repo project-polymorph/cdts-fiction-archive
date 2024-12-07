@@ -7,7 +7,7 @@ TXT 下载: [[附身]_万圣节派对.doc]([附身]_万圣节派对.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是关于一个在大学举办的万圣节派对的小说，叙述了主角广濑同学在派对上的经历。在派对中，广濑同学感到孤独，他一边喝着酒，一边观察周围参与聚会的人。文中重点描写了他与身着护士服的柏木同学的互动，以及观察到的两名女学生在教室里亲吻和嬉戏的场景。在醉酒的状态下，广濑同学无意间目睹了一场带有性暗示的三人互动，情节逐渐向色情方向发展。文中的对话和肢体接触表现出角色之间的性张力和羞耻，同时涉及了性别角色的模糊性，尤其是在万圣节这样一个可以变装的节日中，角色的身份和性别表现受到挑战。整体上，此文集包含了强烈的性暗示和成人内容，适合成年读者，重点探讨了性别认同和身体欲望的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_万圣节派对.doc]([附身]_万圣节派对.doc)
 | Size            | 55296 bytes                           |
 | MD5             | 2258954c3d3388d1d37078edee1f1c60                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 大学生活, 万圣节, 派对, 角色扮演, 酒精, 同性爱, 偷窥, 护士, 兔女郎, 亲吻, 成人内容, 性暗示, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

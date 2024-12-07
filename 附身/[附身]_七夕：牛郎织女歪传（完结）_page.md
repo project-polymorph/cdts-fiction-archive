@@ -7,7 +7,7 @@ TXT 下载: [[附身]_七夕：牛郎织女歪传（完结）.docx]([附身]_七
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为《七夕：牛郎织女歪传》的完整小说。故事围绕中国传统神话角色牛郎与织女，呈现了其在仙界和人间的经历与情感纠葛。织女不满自己在天庭的地位，只得在王母的寿辰前忙碌地织制美丽的星河图，内心充满了孤独与怨恨。与此同时，牛郎在对自己的生活感到无奈时，老牛意外地开口与牛郎交谈，并暗示他可以找到心仪的妻子。牛郎虽然心虚，但是因为对爱情的渴望而跟随老牛的指引。故事中融合了许多华丽的描写与幻想元素，展现了复杂的人物关系与情感发展，尤其是在仙人与人之间的种种冲突与妥协。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_七夕：牛郎织女歪传（完结）.docx]([附身]_七
 | Size            | 28989 bytes                           |
 | MD5             | 25d4e048d401fc7643ecb31d1a9326e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 玄幻, 爱情, 牛郎织女, 二次元, 自我探索, 仙界, 情感纠葛, 传统神话, 孤独, 怨恨, 宿命                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

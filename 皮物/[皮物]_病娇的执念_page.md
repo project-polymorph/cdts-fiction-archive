@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_病娇的执念.doc]([皮物]_病娇的执念.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《病娇的执念》是一部关于性别与情感复杂交织的小说，描绘了一名高三学生及其一名新转来的女学生之间扭曲而强烈的感情关系。故事开头以夜晚的教室为背景，主人公在恐惧与期待中等待高中生放学铃声的响起，随后被女学生以病娇的心态追逐。女主角穿着蓝色碎花连衣裙，有着血红的眼睛，她的表现令人不寒而栗，暗示出她内心的病态执念。随着情节的发展，故事探讨了对爱情的扭曲理解与极端的心理需求，例如女主想通过极端行为来维持与男主的关系，以及对失去的恐惧心理。通过校园环境的生动描绘，小说反映了青少年心中的孤独与自我认同的探索，同时也糅合了青春的纯真与阴暗的病态情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_病娇的执念.doc]([皮物]_病娇的执念.doc)
 | Size            | 56320 bytes                           |
 | MD5             | f119205b57fb9fb4af5697493f741659                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Mionor                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 病娇, 性转, 校园, 心理恐怖, 扭曲爱情, 自我认同, 青春, 极端行为, 黑暗幻想, 伪娘, 人际关系, 情感纠葛, 成长, 梦魇, 高中生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

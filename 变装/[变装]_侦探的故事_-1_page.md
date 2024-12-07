@@ -7,7 +7,7 @@ TXT 下载: [[变装]_侦探的故事_-1.docx]([变装]_侦探的故事_-1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇以跨性别为主题的变装侦探小说，故事围绕一位侦探接受任务卧底调查一个涉及性奴隶贩卖的团伙展开。小说的开头，主角在杰夫的办公室接到了任务：他需要化身为女性，潜入当地的跨性别俱乐部以寻找失踪人员的线索。这些失踪的年轻男性都是来自TG俱乐部的异装癖者。为了执行这个任务，主角需要购买女性衣物和化妆品，并且在心理上经历变装带来的冲突与变化。与此同时，主角与女友之间的亲密互动也展现了他对女性衣物的复杂情感和性别认同的探索。整篇小说描绘了变装的准备过程、衣物的选择、化妆技巧的学习，并通过俱乐部的奢华环境展现出性别和社会身份的多元性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_侦探的故事_-1.docx]([变装]_侦探的故事_-1.docx)
 | Size            | 29085 bytes                           |
 | MD5             | c949ceb363c4182217afb85e788161b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jennifer Stewart                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 侦探, 性奴隶, 卧底, 异装癖, 性别认同, 自我探索, 情感冲突, TG俱乐部, 女性化, 化妆技巧, 俱乐部生活, 女性服饰, 性别角色, 社会观察, 多元性别, 探索身份, 性别流动性, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

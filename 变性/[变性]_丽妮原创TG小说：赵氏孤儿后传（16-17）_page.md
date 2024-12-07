@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（16-17）.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇原创的变性小说，名为《赵氏孤儿后传》，主要讲述了一个关于角色性别转变和兄妹情谊的故事。故事中，主人公与五位姐妹被押送至一个大庄园，凭借聪慧的二娘制定的计划和药酒的帮助，她们成功逃脱，开始了一段充满冒险与自我认同的旅程。小说糅合了性别身份的问题，主人公在经历了身体的变化后，依然追寻着过去的英雄梦想，试图恢复属于自己的男性身份。随着故事的发展，她们在回阳山的森林中历经艰险，结识了年轻猎户顾龙，并共享彼此的过往和梦想，情感则在不断试炼中升华。特别是在面对救命恩人的时刻，主人公不仅感受到归属感，更在情感上产生了复杂的联结。整个故事充满了浓烈的情感冲突和对身份的思考，展示了角色在性别认同与社会期待之间的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（16-17）.docx]
 | Size            | 30020 bytes                           |
 | MD5             | a1ac39e92faafdb567717e2758f18f87                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | qilixiang                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-11-15                                 |
+| Tags            | 变性, 性别认同, 冒险, 逃亡, 兄妹情, 猎户, 自我探索, 历史背景, 情感纠葛, 身份冲突, 二次元, 异世, 复仇, 药酒, 英雄救美, 女性角色, 重塑自我, 传统与现代的碰撞                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_氪佬的下场（蒸蒸日上）.doc]([变身]_氪佬的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《氪佬的下场（蒸蒸日上）》为一篇涉及变身与性别转换的小说，主要围绕一个名叫壬午二的角色展开。故事开始于壬午二沉浸于三国杀的游戏中，之后意外被传送到一个陌生的虚拟空间。在这里，他遇见了一个不明性别的假人模特，随后展开了一场关于身份与性的探索。壬午二在面对自己的裸体以及真相时，感到惊慌和不安。假人模特以一种戏谑的态度引导壬午二体验角色郭照的技能与身份，逐渐将其逼至性别与身份认同的边缘。壬午二的身体开始改变，他被迫体验女性身份所带来的感受，以及在游戏中与假人模特的激烈对抗。这一切交织着自我认同、性别变换、欲望与权力的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_氪佬的下场（蒸蒸日上）.doc]([变身]_氪佬的�
 | Size            | 38400 bytes                           |
 | MD5             | 7dd140f0e69bea8b0716cda2423720ca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, VR游戏, 自我探索, 性别认同, 网络游戏, 二次元, 伪娘, 性转, 虚拟现实, 精神转变, 性别角色, 欲望, 奇幻, 游戏文化, 心灵之旅                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

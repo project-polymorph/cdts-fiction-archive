@@ -7,7 +7,7 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_16_云雨巫山_亦真亦幻.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于卡扎菲变身的跨性别小说中的章节，内容描绘了主角在变身后的心理变化与肉体感受。故事围绕主角卡扎菲在经历了身体变换后所感受到的强烈快感和内心的挣扎展开。在这个陌生的女性身体里，卡扎菲经历了一系列的情感与身体上的冲突，与男性角色莎莎之间的互动带给他交织着快感与羞愧的体验。小说深入探讨了性别认同、自我探索等复杂主题，同时展现了肉欲的直接描写。文字中丰富的情感表达和身体感受的描写为读者勾勒出一幅挑战传统性别观念的画面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_16_云雨巫山_亦真亦幻.docx
 | Size            | 19572 bytes                           |
 | MD5             | 5eb884ef84ea9a79c50cd4e7ae7d3990                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 快感体验, 心理挣扎, 肉体关系, 自我探索, 跨性别, 肉欲, 小说, 情感冲突, 伪娘, 抽插, 强烈快感, 变嫁, 幻想, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

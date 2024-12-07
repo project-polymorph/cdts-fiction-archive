@@ -23,7 +23,7 @@ TXT 下载: [[交换]_Gnow_Grave『人偶－幸福的暗轉、終焉的信念－
 | Size            | 62098 bytes                           |
 | MD5             | 7c0c042211018731193a2f1692411d04                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 村崎色                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

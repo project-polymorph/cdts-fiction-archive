@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮男2.docx]([皮物]_皮男2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘与跨性别主题的小说，主要讲述了主人公宇藤君与班级人气女孩之间的关系及其性别转换的情节。故事围绕一种神秘的机械——‘皮机器’，该设备能够通过照片将一个人的皮肤复制并穿戴，借此实现角色的性别和外貌转变。故事开头，班上女孩子向男主宇藤君表达了她与他进行性别和身份交换的愿望，引发了一系列的冲突和情感探索。随着情节的发展，宇藤君逐渐了解到‘皮机器’的设计和使用方式，以及在这一过程中产生的亲密关系和自我的认同问题。小说涉及人体改造、自我认知、性别认同等复杂主题，且部分情节略显露骨，展示了角色之间微妙而紧张的关系。在无人的校内角落中，二人秘密进行着关于身份和记忆的交换，带有强烈的情感与探索色彩，与此同时，故事中也渗透着对于性别流动性和角色认同的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮男2.docx]([皮物]_皮男2.docx)
 | Size            | 19753 bytes                           |
 | MD5             | f1b118b8f75d4a1e85078b410f701da3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 人体改造, 性别认同, 自我探索, 青春校园, 情感纠葛, 科技与身体, 少女心                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

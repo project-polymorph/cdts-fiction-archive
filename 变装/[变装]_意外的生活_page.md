@@ -7,7 +7,7 @@ TXT 下载: [[变装]_意外的生活.docx]([变装]_意外的生活.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《意外的生活》是一部围绕性别认同和变装主题的小说，讲述了主角本与他的朋友麦克之间的一段意外发现与探索之旅。故事从本在麦克的电脑上意外发现一些关于CD（异装癖）的照片开始，触发了一系列关于性别角色和自我认知的思考。整部作品探讨了两个男性朋友对女装和性别角色的认同与好奇，以及他们如何在逐渐开放的环境中互相鼓励尝试变装。随着情节的发展，他们开始互相交换思想与感受，形成了一种既微妙又复杂的友谊。此外，故事中提到对女装的美感与吸引力，以及对生活中性别表现的不同理解等内容，为作品增添了一层深度和广度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_意外的生活.docx]([变装]_意外的生活.docx)
 | Size            | 27784 bytes                           |
 | MD5             | ad6323a4a967be2b4c0b1832c8efe702                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 自我探索, 异装癖, 跨性别, 女性形象, 友谊, 性别角色, 性转小说, 女装, 情感探索, 社交禁忌, 生活体验, 心理冲突, 都市生活, 性别表达                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

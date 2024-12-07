@@ -7,7 +7,7 @@ TXT 下载: [[变身]_笼中鸟（3）.doc]([变身]_笼中鸟（3）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了女孩爱丽丝与魔王路西法之间的复杂关系。故事开头，爱丽丝准备实施第一次逃跑计划，然而她的计划屡屡被女仆们发现并阻止。最终，爱丽丝决定在路西法的监督下收集情报，虽然她的力量相对虚弱，但依然充满了勇气。故事的发展开始转向她与路西法的关系，在逃跑过程中，爱丽丝经历了与暗影豹的遭遇，以及与路西法的亲密互动。随着情节的发展，爱丽丝的内心挣扎与性别身份认同开始浮现，她被路西法的力量和魅力所吸引，同时也困惑于自己的感情和身份认同。路西法对爱丽丝的“惩罚”揭示了两人之间复杂而微妙的动态，爱丽丝的角色在性别推翻和自我意识中不断挣扎与转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_笼中鸟（3）.doc]([变身]_笼中鸟（3）.doc)
 | Size            | 34816 bytes                           |
 | MD5             | 2f5d96dc53b2eaa7d370bfd095bf1516                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 性别转换, 跨性别, 伪娘, 恋爱, 逃脱, 自我探索, 调教, 强制, 教堂                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

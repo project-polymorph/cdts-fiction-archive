@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_從今天起你就是魔王_第3章_本宮要在後面_(�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部关于魔王与她的伙伴们冒险的奇幻小说。故事围绕女主角桂花展开，她正计划前往远方城市。文中描写了一个阳光明媚的日子，桂花的旅行同伴可可莉在旅途中请求同行，但桂花因其特殊的身份最终拒绝了。可可莉展示了她的新技能，能召唤族人帮忙，这其中的幽默元素透露了角色之间的亲密关系与信任。接下来，桂花与安洁莉的互动描写，展现了安洁莉因缺乏常识而引发的搞笑情节，尤其是她对魔王城建设的严肃计划与桂花的反应形成鲜明对比。整体上，文本充满了奇幻色彩与角色之间轻松幽默的对话，同时也暗示了更大的冒险正在等待着他们，具有吸引读者继续阅读的引力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_從今天起你就是魔王_第3章_本宮要在後面_(�
 | Size            | 34671 bytes                           |
 | MD5             | 682d9d37930166fa835d6c3773481497                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 魔王, 伪娘, 冒险, 少女, 搞笑, 性别转换, 角色发展, 伙伴关系, 自我探索, 魔法, 游戏, 异世界, 旅行计划, 轻松, 非人化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

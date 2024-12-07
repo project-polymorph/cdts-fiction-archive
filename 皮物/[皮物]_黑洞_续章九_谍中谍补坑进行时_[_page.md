@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑洞_续章九_谍中谍补坑进行时_[.docx]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘/变身类别的小说，内容围绕一位女性角色及多位男性角色之间的复杂互动展开。故事开篇，女子醒来后描绘出她凹凸有致的身材，写到她在被子下的迷离状态，随着情节的发展，描述了众多男性角色对她的强烈欲望与反应。场景中充满了性暗示与露骨的描写，展现了女子在多个男性之间的性感互动，包括调教与主导的角色动态。尤其是女子的身体被多次描绘得极为细腻，强调了她对性的控制与操控。情节引入了药物与转化元素，暗示了一种对身体与能力的改变。通过搞笑而又调侃的对话让文本显得更加生动，但整体气氛被浓厚的色情内容所主导，描绘了复杂的性别认同与欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑洞_续章九_谍中谍补坑进行时_[.docx]([皮物]
 | Size            | 18371 bytes                           |
 | MD5             | 4a4e81b0a4b8d3815c0a555c40ddd9e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身, 调教, 情感纠葛, NTR, 强奸, 多男, 幻想, 药物, 性别认同, 虚拟现实, 开放式结局, 另类性行为, 淫荡, 调教文化, 异世界, 群交                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

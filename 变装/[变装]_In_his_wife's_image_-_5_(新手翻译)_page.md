@@ -7,7 +7,9 @@ TXT 下载: [[变装]_In_his_wife's_image_-_5_(新手翻译).docx]([变装]_In_h
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为伪娘和跨性别主题小说，主要围绕角色莎拉的性别认同和自我探索展开。故事中，莎拉经历了一段由男性身份盖瑞转变为女性身份莎拉的旅程。她与伴侣之间的亲密关系描绘了她在性别认同上的挣扎与接受。在故事开头，莎拉接受了伴侣的亲吻和身体关系，这反映了她对新身份的认同与渴望。随着情节的发展，莎拉逐渐适应了女性的生活方式，并尝试在咨询医生的过程中获得进一步的性别确认和身体改变的支持。
+
+莎拉与她的好友史黛的互动也展现了她在性别定位上的不安与寻找，她们一起去诊所咨询关于性别转变的医疗选项，医生的关心与专业让莎拉倍感温暖。在经过几个月的调整和自我认证后，莎拉在生活中逐渐克服了性别转换带来的心理障碍，并与戴维展开了新的情感关系，虽然他与莎拉的旧身份盖瑞有着复杂的连结。小说通过莎拉的故事，引发了关于性别认同、自我探索和人际关系深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_In_his_wife's_image_-_5_(新手翻译).docx]([变装]_In_h
 | Size            | 18197 bytes                           |
 | MD5             | b48ae15d802d847539234058b2d665e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 性别认同, 自我探索, 爱情, 医生咨询, 情感关系, 角色转换, 性别确认, 性别焦虑, 女性身份, 心理挣扎, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

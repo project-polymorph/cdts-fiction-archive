@@ -7,7 +7,7 @@ TXT 下载: [[附身]_永恒的夸克1~10_[.docx]([附身]_永恒的夸克1~10_[
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《附身_永恒的夸克1~10》讲述了一个名叫夸克的18岁孤儿的故事。他自小生活在A市的贫民窟，面临黑社会和警方的双重压迫。故事开篇描绘了夸克的悲惨遭遇，与他周围的小混混的对峙，以及他对生活处境的无奈与绝望。随后，黑虎堂的大哥黑眼杰克因某种原因出现，竟主动招揽夸克加入黑虎堂，夸克经过内心挣扎，最终欣然接受了这个提议。故事通过夸克和黑眼杰克的对话，交代了黑虎堂的势力以及其背后的阴暗交易，特别是涉及到灵魂瓶子的部分，揭示了一种神秘的魔法力量和可能的背叛。情节中充满了现实的压迫与潜在的奇幻元素，展现了夸克从绝望中寻求全新机会的心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_永恒的夸克1~10_[.docx]([附身]_永恒的夸克1~10_[
 | Size            | 54341 bytes                           |
 | MD5             | 337dc6cadc21976e981268a728407a0a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 孤儿故事, 黑社会, 魔法, 灵魂交易, 自我探索, 求生, 重生, 少年成长, 黑暗幻想, 社会底层, 反抗, 命运, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

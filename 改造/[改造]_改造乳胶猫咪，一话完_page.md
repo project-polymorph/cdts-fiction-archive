@@ -7,7 +7,7 @@ TXT 下载: [[改造]_改造乳胶猫咪，一话完.doc]([改造]_改造乳胶�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一个关于性别转换和乳胶文化的小说情节，主要围绕两位男性角色李梓时和茅十七的互动与实验。故事开头，李梓时意外获得了一套可以将人变为乳胶猫咪的奇异工具。他计划对自己的好友茅十七进行性转实验。在实施过程中，李梓时采取了极具挑衅性和实验性的措施，试图让茅十七接受这种变态的变身过程。情节逐渐涉及到身体的极端变形、痛苦自虐的体验，以及两人之间的复杂心理变化。文中多次用较为露骨的语言描绘了身体的冲击与变迁，特别是在实施灌肠与注入奇怪液体等过程中，展现了对控制与欲望的探索。整篇小说充满了成人情节与对性别认同的探讨，包含了大量的露骨描写，适合对性转文化与性别心理探索感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_改造乳胶猫咪，一话完.doc]([改造]_改造乳胶�
 | Size            | 56832 bytes                           |
 | MD5             | 0c985762bdb5e25af2043c47f5be04da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 乳胶文化, 心理探索, 变态实验, 自我认知, 角色扮演, 男性角色, 身体变形, 极端体验, 欲望与控制, 成人内容, 二次元文化, 跨性别, 友谊与操控, 意外变身, 情感复杂性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

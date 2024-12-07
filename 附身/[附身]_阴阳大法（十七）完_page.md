@@ -7,7 +7,7 @@ TXT 下载: [[附身]_阴阳大法（十七）完.docx]([附身]_阴阳大法（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《阴阳大法（十七）完》为一部围绕性别转换和自我认同主题的小说，涉及多个角色之间复杂的心理活动和性别身份的相互探讨。故事的主线围绕主角王雪，在其作为一流按摩师的背景下，借助傀儡术与分身术展开的情节，探索了角色的性别转换与内心欲望的交织。故事中王雪在使用傀儡术控制他人的同时，也对自身的性别认同展开了深刻的思考。在一系列亲密关系的描写中，强化了角色之间的情感联系和身体体验。文中提到：“主人，请问有什么吩咐~~”，展现了角色之间的主从关系，通过细腻的描绘涉及性欲的认知、满足与冲突，充满色情和幻想元素，语言上有一定的露骨描写，例如对身体部位的细致描写，以及与王雪的互动，充分展现了性别流动和个体欲望的交错。整体情节流畅，充满了对自我探索和性别表现的探讨，同时也涉及了傀儡术与分身术的形而上学，以及生活情境中的幽默与讽刺。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_阴阳大法（十七）完.docx]([附身]_阴阳大法（
 | Size            | 26617 bytes                           |
 | MD5             | 5eb3cb0846e076f4ba37631aa28a7078                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 傀儡术, 自我认同, 欲望体验, 亲密关系, 内心冲突, 满足与探索, 奇幻, 变身, 情感联系, 色情, 幻想, 角色扮演, 二次元, 心理探讨, 复合性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

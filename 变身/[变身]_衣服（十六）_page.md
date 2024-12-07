@@ -7,7 +7,11 @@ TXT 下载: [[变身]_衣服（十六）.doc]([变身]_衣服（十六）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《变身_衣服（十六）》，其内容主要以第一人称视角描绘了主人公在经历变身后的心理状态与情感波动。故事设定在现代都市校园，涉及超能力的主题。主人公在变身为女性后，感受到剧烈的身体和心理反应，包括对男性的恐惧与厌恶。这种情感的转变源于其新的身份意识，导致了强烈的生理症状，如心跳加快、脸红等。
+
+在本章节中，主人公描述了她在公共场所的恐慌以及如何努力调整自己的心理状态。同时，她对自己新身份的认知和与男性的互动产生了复杂的情感，反映了对性别认同和社交恐惧症的深刻思考。主人公逐渐意识到，变身不仅改变了她的外貌，也加重了她心理上的负担。文中提及的“恐男症”则是一种社交恐惧症，强调了性别认同的影响及其带来的挑战。
+
+通过生动的内心独白和对环境的细腻描写，读者能够感受到主人公在性别转换过程中的挣扎与不安，以及对新生活的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变身]_衣服（十六）.doc]([变身]_衣服（十六）.doc)
 | Size            | 64000 bytes                           |
 | MD5             | 465446c8d415bf96fffa694445d6a827                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 恐男症, 都市校园, 性别认同, 自我探索, 心理戏, 超能力, 第一人称, 男性恐惧症, 情感波动, 伪娘, 性转, 慢热, H文, 女性视角, 社交恐惧, 内心独白                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

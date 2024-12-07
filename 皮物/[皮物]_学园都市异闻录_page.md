@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_学园都市异闻录.doc]([皮物]_学园都市异闻录.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于学园都市的科幻小说，讲述了一群科学家在追求强大魔法能力的实验的故事。故事开篇，科学家们在实验室进行了一次编号为196的高科技实验，实验目标是一只淡蓝色的史莱姆。这只史莱姆被视为实验的关键，但却在实验中失败。在实验的过程中，叙述者描绘了实验室内部的环境、实验的气氛和参与者间的互动。在实验失败后，研究资料被封存，实验参与者被解散，整个实验大楼陷入沉寂。但令人意外的是，这只史莱姆并没有被消灭，借助神秘的力量，它逃脱到了地下水道中，并开始了一段不可思议的转变。它在科学的监视下，跨越物种的界限，激情复生，直至将自身的意识与一个名为芙兰达的金发女孩的尸体融合，从而产生出一种新的生命形式。这种奇妙的结合伴随着自我认知的变化，探讨了生命、性别认同以及生存本质的深刻主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_学园都市异闻录.doc]([皮物]_学园都市异闻录.
 | Size            | 110592 bytes                           |
 | MD5             | c401015d3b2b945524e1e71cc6364377                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 科幻, 变身, 学园都市, 实验室, 灵魂结合, 自我认知, 超能力, 史莱姆, 少女, 身体占据, 悲剧, 黑科技, 身份认同, 意识觉醒, 灵异, 魔法, 禁忌实验, 地下实验室, 克隆人, 交互故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

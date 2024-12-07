@@ -7,7 +7,7 @@ TXT 下载: [[变装]绿色手镯1~2.doc]([变装]绿色手镯1~2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《绿色手镯》是一个带有玄幻色彩的古代武侠小说，讲述了男主角吕飞和他的师妹霞柔在追捕恶贼江天过程中的奇遇。故事开篇便呈现出紧凑的情节——吕飞在师傅的指引下与师妹一同出发捉拿恶贼，然而他们无意中卷入了一场阴谋。两人误中机关，吕飞意外戴上了一只神秘的碧绿色玉镯，使得故事的发展充满悬疑与意外。随着情节的推进，吕飞发现这只镯子似乎具有不可思议的力量，且开始影响到他的行动和感知。伴随着对江天的追逐，吕飞不仅要面对来自外界的挑战，还要处理与师妹之间的情感纠葛，故事中描绘了传统武侠与变身元素的结合，呈现出角色之间的互动与自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]绿色手镯1~2.doc]([变装]绿色手镯1~2.doc)
 | Size            | 34816 bytes                           |
 | MD5             | e79dc7532c94d53ed713cd7cb1626f58                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 玄幻, 古代武侠, 性别转换, 武侠, 师兄妹, 冒险, 自我探索, 奇遇, 神秘物品, 情感纠葛, 剧情反转, 角色成长, 人际关系, 师傅                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

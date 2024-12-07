@@ -7,7 +7,7 @@ TXT 下载: [[变身]_魔法少女才是人民喜闻乐见好少女—序幕（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于魔法少女与变身主题的实验性小说，采用对话体的形式展现，角色间的互动充满幽默与讽刺。主角直接与一个白色生物（章鱼）展开对话，讨论成为什么魔法少女的相关问题，其中涉及魔法少女的各种夸张特性，如使用核能与魔法结合、政治参选等。文本中加入了大量吐槽及无厘头的情节，如提及核聚变、奇幻生物和家庭关系，展示了角色在魔法与现实之间的冲突与困惑。最后，故事通过签订契约的仪式结束，暗示角色将开始新的冒险。整体排版独特，内容丰富、搞笑，适合对二次元文化感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_魔法少女才是人民喜闻乐见好少女—序幕（�
 | Size            | 20180 bytes                           |
 | MD5             | 9e0bb2f48fafc4fe4929f04b3689d4d5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 变身, 吐槽, 二次元, 核能, 奇幻, 幽默, 冒险, 契约, 角色扮演, 自我认知, 强奸, 调教, 逆后宫, 触手, 百合, 年轻人, 非人化, 校园, 搞笑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

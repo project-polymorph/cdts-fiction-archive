@@ -7,7 +7,7 @@ TXT 下载: [[变身]_损友的奇葩超能力（七）.docx]([变身]_损友的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为“损友的奇葩超能力（七）”的章节，描绘了一段涉及角色变身和性别转换的故事。主要角色在使用超能力后经历了身体的变化，使得原本的男性角色转变为女性形象的陈霜。故事中，林云对这一变化感到困惑，并与陈霜之间展开了复杂的情感交流。随着情节的发展，陈霜以女孩子的身份与幼时女神李雪相遇，试图安慰她。情节中不仅包含了对角色性别的探索，还涉及了自我认知的冲突，以及与性相关的情感互动。两位角色间逐渐加深的感情和身体上的互动，展现了性别认同以及异性吸引的多重层面。该段落具体描述了陈霜与李雪之间的情感交流，包括李雪对陈霜的情感表达，以及两人私密活动的细节，表露了作品中含有一定的限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_损友的奇葩超能力（七）.docx]([变身]_损友的
 | Size            | 27654 bytes                           |
 | MD5             | 9c1fbe99161ab7a453391bd61215a202                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 超能力, 校园, 伪娘, 变装, 恋爱, 强烈情感, 性教育, 探索自我, 多元性别, 青春小说, 男男恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

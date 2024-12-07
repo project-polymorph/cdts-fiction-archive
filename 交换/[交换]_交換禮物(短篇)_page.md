@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交換禮物(短篇).doc]([交换]_交換禮物(短篇).do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是关于一群大学好友在圣诞节相聚的短篇小说，故事展现了他们的友谊与欢聚时光。故事的主线围绕一次圣诞派对展开，主办方小廖在群组中邀请大家聚会，并准备了一项神秘活动。故事中提到的九个角色，包含两名男生和六名女生，他们中有外国交换生泰瑞，带来了不同的文化气息。聚会过程中，气氛欢愉，突然间魔术师泉駒的表演将场景推向高潮，然而在一个魔术的意外中，他们的身体竟然发生了交换，大伙儿陷入混乱。小说细致刻画了角色之间的互动与心理变化，尤其是当意识到身体交换后，角色们开始面对新身份带来的生理与心理冲突。整个故事结合了幽默、惊悚和幻想元素，呈现出一种探索自我与友谊的复杂过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交換禮物(短篇).doc]([交换]_交換禮物(短篇).do
 | Size            | 83456 bytes                           |
 | MD5             | 2337aba66b3b9d4690e5c6648e3cb5ce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 校园友情, 奇幻, 魔术, 圣诞节, 身体交换, 青春, 自我探索, 伪娘, 男娘, 狂欢派对, 大学生活, 性别认同, 社交活动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

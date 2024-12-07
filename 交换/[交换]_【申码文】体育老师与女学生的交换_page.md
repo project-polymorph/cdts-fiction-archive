@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】体育老师与女学生的交换.doc]([交
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部涉及性别交换的小说，讲述了一位体育老师和他的学生之间身体互换的故事。主要角色包括体育老师河野和学生本田真澄，他们被一个名叫佐久间的神秘人物调换了身体。故事的开头，本田在学生指导室向河野老师透露了这种奇异的情况，同时试图让河野理解他们的身体已经交换。随着情节的发展，河野在镜子中看到自己变成了女性的样子，对自我认知产生了巨大冲击。在与本田的互动中，河野逐渐意识到他现在是一个女孩子的身份，而本田则看似是一个拥有男性特征的女学生。文件中详细描绘了角色对身体变化的反应及内心的矛盾，尤其是关于性别认同的思考，以及与佐久间的对抗。通过对话和心理刻画，展现了角色们在面对这种突发情况时的冲击和挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】体育老师与女学生的交换.doc]([交
 | Size            | 46592 bytes                           |
 | MD5             | 4f2713bb619623bf4e014c6831934d21                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 伪娘, 变身小说, 青春校园, 自我认知, 强迫变身, 跨性别, 内心斗争, 奇幻, 冒险, 老师与学生, 心理描写, 神秘力量, 情感纠葛, 性别认同, 反转剧情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

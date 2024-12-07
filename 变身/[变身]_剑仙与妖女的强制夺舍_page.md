@@ -7,7 +7,7 @@ TXT 下载: [[变身]_剑仙与妖女的强制夺舍.doc]([变身]_剑仙与妖�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《剑仙与妖女的强制夺舍》，描述了一个关于正道与魔道之间的激烈冲突。故事背景设定在一座名为‘两界山’的地方，讲述了剑尊者萧无双在正邪斗争中所面临的困境。故事开头以一幅优美的山水画卷作为场景铺垫，紧接着描绘了萧无双与魔君之间的恩怨情仇。伴随着战斗的展开，萧无双在众门派的支持下迎战强大的魔尊，表现出他对正道的责任和对家人的深切关怀。在战斗中，萧无双将自己的生命力与剑气融为一体，施展出其成名绝技，呈现了不可思议的剑力。最终，在正魔之争的关键时刻，萧无双的命运出现了严峻的转折，同时结尾则在悬念中留下了未来可能的走向。文件深刻探讨了自我牺牲、英雄主义，以及个体在家人面前的责任等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_剑仙与妖女的强制夺舍.doc]([变身]_剑仙与妖�
 | Size            | 327168 bytes                           |
 | MD5             | 0e8c741914282ccc1d7aabf5e368a708                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 千浔的法惹                               |
+| Region          | 未知                               |
+| Date            | 2019-07-04                                 |
+| Tags            | 剑仙, 妖女, 正邪斗争, 自我牺牲, 家族责任, 剑气, 战斗, 魔道, 变身, 飞升, 修真, 情感纠葛, 仙侠                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

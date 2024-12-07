@@ -7,7 +7,7 @@ TXT 下载: [[改造]_祖传秘方乳液（全）_(2).docx]([改造]_祖传秘�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由作者竹竹创作的性转与变身题材小说《祖传秘方乳液（全）》，内容主要围绕主角与女友玲玲的日常生活及其对玲玲身体的关注，特别是希望玲玲的胸部能够发育的心愿。故事开篇介绍了主角的职业与生活背景，随后讲述了如何通过丰胸乳液来实现女友的身体改变，包含一些性暗示和角色间的亲密互动。文本中涉及主角对玲玲的身体的期待与幻想，展现了一段看似普通但充满性调情的情侣关系。文件中也有对性爱场景的详细描写，这些内容可能包含性暗示和限制级内容，适合成年读者，且包含调教及增强情感亲密的元素。完稿日期为2011年3月28日，是一个与现代社会年轻人的爱情观及身体观念相符的虚构故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_祖传秘方乳液（全）_(2).docx]([改造]_祖传秘�
 | Size            | 54962 bytes                           |
 | MD5             | c2caffa70f46c8e0e7bcef40fbd6b1f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 竹竹                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-03-28                                 |
+| Tags            | TS变身, 性转, 伪娘, 成人小说, 爱情, 丰胸, 自我探索, 角色扮演, 奇幻, 肉体关系, 日常生活, 青春, 性别认同, 调教, 奇幻爱情, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

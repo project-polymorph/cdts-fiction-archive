@@ -7,7 +7,7 @@ TXT 下载: [[附身]_白莲心　序幕-永乐章一-重生.doc]([附身]_白�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《白莲心》的性转小说序幕部分，设定在明朝永乐年间，通过对战争与信仰的描写，引入主角圣女唐赛儿的复杂情感与最终命运。故事描绘了白莲教起义时的混乱场景，背景为政策迫害下民众的苦难与痛苦，伏笔为圣女借用禁忌术法拯救信徒所付出的惨重代价。文中透过动人的语言，生动描绘出战 campo 的残酷与无常，以及信仰的力量与扭曲。唐赛儿在此战争中表现出的坚定信念与内心的纠结，展现了一个复杂的角色心理，令人对她未来的发展产生好奇。序幕结尾的重生暗示了角色身份与自我探索的深刻主题，将战斗与自我意识的对抗紧密结合，总体上是一部涉及性转、信仰、战争的层次复杂的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_白莲心　序幕-永乐章一-重生.doc]([附身]_白�
 | Size            | 40960 bytes                           |
 | MD5             | 02e4337a4bcab64d5fbbb68c8fab1f67                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 重生, 明朝, 信仰, 白莲教, 政治斗争, 禁忌术法, 信徒, 战争, 心理描写, 圣女, 不平等, 身份认同, 自我救赎, 历史幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

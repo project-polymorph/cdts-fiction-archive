@@ -7,7 +7,9 @@ TXT 下载: [[变装]_【翻译】爱屋及乌01.docx]([变装]_【翻译】爱�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇名为《爱屋及乌》的性转小说，主要围绕女明星梅艳兰的生活与工作展开。梅艳兰是一位新星，因模仿著名影星马琳而受到关注。本文详细描绘了梅艳兰在好莱坞的光鲜生活、各种绯闻以及她与经纪人、造型师和私人助理之间的复杂关系
+
+故事中，梅艳兰为了出席盛大晚会而进行了精心打扮，但她的生活并非一帆风顺。整场戏中充斥着业界虚荣、狗仔队的骚扰和个人隐私的争夺，强调了娱乐圈的光鲜背后潜藏的压力和挑战。特别地，罗彬正是陪伴梅艳兰左右的助理，他对梅艳兰的深情厚谊，在焦虑与支持之间徘徊。整部小说展现了梅艳兰的职业生涯，同时也隐含了性别认同与角色扮演的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_【翻译】爱屋及乌01.docx]([变装]_【翻译】爱�
 | Size            | 22117 bytes                           |
 | MD5             | af2b8b7fedcfb6443162a3c70e03e96a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 娱乐圈, 女明星, 狗仔队, 虚荣, 角色扮演, 明星绯闻, 跨性别, 情感纠葛, 好友支持, 豪门婚姻, 化妆技巧, 私生活, 职场挑战, 社会压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

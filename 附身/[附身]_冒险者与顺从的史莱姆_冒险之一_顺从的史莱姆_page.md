@@ -7,7 +7,7 @@ TXT 下载: [[附身]_冒险者与顺从的史莱姆_冒险之一_顺从的史�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个在魔法世界中转生为冒险者的男子凯的故事。凯在前生是个处男，因为神的失误而死后获得了重生的机会，带着强大的魔力和适应暗属性魔法的能力来到异世界。在这个世界中，他不得不面对他所获得的特殊能力所带来的麻烦和孤独。凯在冒险者公会注册成为冒险者后，因其暗属性魔法的高适应性而遭到周围人的指责与追逐。在默默无闻过着体力劳动日子的同时，他意外获得了一个名为「使役」的技能，与一只史莱姆达成契约，成为了他的主人。随着故事的发展，史莱姆逐渐向凯展示了它的潜力，并介入到凯与另一名冒险者玛娜的互动中，暗示能够帮助凯获得玛娜的青睐，甚至揭示了一些关于力量与欲望之间的关系。故事充满了奇幻色彩和角色之间的心理斗争，探讨了对性别认同和欲望的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_冒险者与顺从的史莱姆_冒险之一_顺从的史�
 | Size            | 29597 bytes                           |
 | MD5             | f766dbbe3a59ed5a351e59aa5ce25acb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 恶魔, 冒险, 魔法, 使役, 契约, 伪娘, 异世界, 史莱姆, 性别认同, 强欲, 冒险者公会, 暗魔法, 自我探索, 感情纠葛, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

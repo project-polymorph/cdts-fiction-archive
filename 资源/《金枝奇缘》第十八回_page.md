@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第十八回.doc](《金枝奇缘》第十八回.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《金枝奇缘》第十八回描绘了角色之间复杂的关系与情感，涉及对女性身份的探索和自我认知的转变。故事中的主要角色顾茹与秦灵儿之间进行了深入的互动。顾茹在一个神秘的背景下，受到来自秦灵儿的启示和威胁，发现自己体内受到了剧毒的侵害，可能面临生命危险。秦灵儿声称自己可以帮助顾茹脱离苦海，但实际上她也有自己的目的，想要夺取秦疏影的身体。这个情节展现了角色间的权力斗争、身份认同的冲突与妖魔的元素，还有对于古代魔兽奇绫蜃的传说的探讨，展示出一个充满幻想与超自然色彩的世界。这一章节并不仅仅是关于变身或性转，而是关于个体内心的挣扎与自我发现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第十八回.doc](《金枝奇缘》第十八回.
 | Size            | 36864 bytes                           |
 | MD5             | bae22564cd1e18222a172944ab7a0b0e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 身份认同, 魔兽, 小说, 自我探索, 古代传说, 灵气, 权力斗争, 妖魔                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

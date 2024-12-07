@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[翻譯+改編]Identity_Switch_(身份改變)_第二章的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘/男娘主题的跨性别小说的第二章，主要讲述了一群男孩在一座孤岛上的变身过程。在这个过程中，他们经历了身份认同的转变和自我的重新塑造。故事开始于角色们被告知要改变自己的身份，经历了一段洗脑和自我认同冲突的过程。文件内容描绘了一种转变，角色们被迫扮演女性并学习如何成为女孩的生活方式。具体场景包括角色们在宿舍进行化妆、参加联谊会，以及在女总监的引导下分享各自的故事和体验。小说中还提到了角色们如何逐渐接受自己的新身份和外观，从而进入一个新的群体。值得注意的是，文本中包含了一些对性别认同和角色扮演的深刻探讨，以及对心理影响的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[翻譯+改編]Identity_Switch_(身份改變)_第二章的
 | Size            | 29696 bytes                           |
 | MD5             | 2e8df63e4f98e471f56c50150f033201                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 身份认同, 小说, 女总监, 联谊会, 自我探索, 心理转变, 性别角色, 群体生活, 女孩, 化妆, 男女相互认同, 女性化, 生活方式                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

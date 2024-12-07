@@ -7,7 +7,9 @@ TXT 下载: [[交换]_独行者1.docx]([交换]_独行者1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别主题的小说档案，讲述了一个年轻女子救助富家千金的故事。在经历了一场劫匪的袭击后，这位年轻女子表现出冷漠的态度，展现出强大的武力。当富家千金意识到她的真实性别后，内心充满了震惊和不解。
+
+故事中主要角色上官月，是一个被称为武林公敌的女子，她利用一种吸取男性阳元的邪功强化自身能力。在一次奇特的修炼中，上官月在密室内遭遇亲生妹妹的袭击，妹妹对上官月的罪行感到愤怒与不解，揭示了二人之间复杂的亲情与仇恨。上官月甚至承认自己是杀死了母亲的元凶，这一承认引发了更加激烈的冲突，充满了情感的纠葛与角色内心的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_独行者1.docx]([交换]_独行者1.docx)
 | Size            | 22812 bytes                           |
 | MD5             | 24ed2ee95455c88d87ed8214c3254b7b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 变身小说, 家族冲突, 武侠, 阴暗力量, 复仇, 双亲关系, 女性主义, 自我认同, 邪教, 冲突与和解, 江湖, 奇幻, 情感纠结                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_汉贼(十)_[.docx]([皮物]_汉贼(十)_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于历史背景设定的伪娘/男娘跨性别小说，描述了袁府内的复杂情感与权力斗争。故事围绕主角袁尚与其嫂甄宓展开，袁尚对甄宓的感情从一开始的疏离逐渐演变成复杂的情感纠葛。文件中提到历史人物袁尚与袁谭之间的权力波动，反映了家族之间的紧张关系以及个人情感的交织。特别是在袁尚与甄宓的互动中，袁尚对甄宓的态度从最初的愤怒转换为欲望，表现出一种深层的自我认知与情感冲突。然而，复杂的权力与性别角色也让这段关系充满了微妙的张力和道德的纠结。整体文本呈现出历史背景与情感发展的交错，体现了性别认同与个人欲望的丛林斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_汉贼(十)_[.docx]([皮物]_汉贼(十)_[.docx)
 | Size            | 25576 bytes                           |
 | MD5             | ec452faec9aa78743d86ce6906c915d1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 权力斗争, 家庭关系, 情感纠葛, 历史小说, 变装, 性认同, 强奸, 逆后宫, 王权, 伦理冲突, 豪门恩怨, 女性视角, 古代, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

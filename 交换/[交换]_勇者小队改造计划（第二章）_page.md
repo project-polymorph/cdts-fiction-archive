@@ -7,7 +7,7 @@ TXT 下载: [[交换]_勇者小队改造计划（第二章）.docx]([交换]_勇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《勇者小队改造计划》的第二章，内容涉及对角色身体和性别的转换以及随之而来的情感和心理变化。故事从公主的视角开始，描述了她与一名僧侣之间的神秘交流和强烈的渴望。在转变的过程中，公主的神力使僧侣的身体开始变化，逐渐向女性化方向发展。段落中有对于角色心理状态的探索，例如，公主对操控他人身体的欲望，以及对僧侣产生的情感交织。随着情节的发展，他们之间的关系逐步揭示，并伴随有暧昧与调教的暗示。该章还描述了魔法师与公主之间的互动，涉及对身体变化的恐惧与新奇感，以及由此引发的情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_勇者小队改造计划（第二章）.docx]([交换]_勇
 | Size            | 26344 bytes                           |
 | MD5             | af08eb73d6b81eafd4cf5f8b4b5c3462                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 太极                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-04-24                                 |
+| Tags            | 性转, 变身, 调教, 强奸, 魔法, 情欲, 角色扮演, 奇幻, 女王, 自我探索, 禁忌, 心理变化, 异性恋, 灵魂转换, 魔法师, 魔法阵, 冒险, 探索欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

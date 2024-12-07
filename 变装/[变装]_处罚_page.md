@@ -7,7 +7,7 @@ TXT 下载: [[变装]_处罚.doc]([变装]_处罚.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《处罚》是由Maryanne Peters创作的跨性别小说，讲述了一系列关于性别认同及自我探索的情节。故事的主人公因在比赛中失误而受到教练戴维森的惩罚——不得不穿上女性衣物并成为“吉祥物女孩”。这不仅是对外表的改变，更是对自我认知的一次挑战。你将看到主人公在不断的“惩罚”中，从一开始的羞愧和抵触，到最终逐渐接受甚至享受这个角色转变的过程。教练让男孩们穿上女装来扮演女性，利用这种“惩罚”来挑战和羞辱他们的传统男子气概。在经历了多次的自我探索后，主人公开始融入这个新身份，并在同学和队友的支持下，逐渐接受了自己身为女孩的感觉。故事通过丰富的情感描写和细腻的人物刻画，展现了在性别认同和自我价值之间的冲突与融合。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_处罚.doc]([变装]_处罚.doc)
 | Size            | 39424 bytes                           |
 | MD5             | 9fe9cc4cd008c550a64e1d7995e7b568                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Maryanne Peters                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 自我认同, 羞辱, 接受, 成长, 友谊, 校园生活, 体育, 女性气质, 情感历程, 角色扮演, 性别冲突, 团队支持, 心理探索, 美丽与自信                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

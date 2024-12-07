@@ -7,7 +7,7 @@ TXT 下载: [[改造]_RE：TS，骑士学院妓女科.doc]([改造]_RE：TS，�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一名角色在圣莉莉丝骑士学院的遭遇与心理变化，他经历了自我性别认同的深刻演变。故事通过回忆的方式，展现了他从一个男性角色逐渐蜕变为女性的过程，并以极端的环境与经历为背景，描述了他在性别和自我认同上的挣扎。开头描述了角色在厕所内的狼狈境况，随后追溯至他如何被强奸以及从中经历的痛苦回忆，接着交织着对他身份和欲望的探索。随着情节的发展，角色回忆起从前的种种，童年对女性服装的渴望与成年后生活中的转变，最终导致他不断追求女性身份与角色认同的过程。深刻而细腻的描写探讨了性别变换与个人欲望的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_RE：TS，骑士学院妓女科.doc]([改造]_RE：TS，�
 | Format          | Microsoft Word Document                               |
 | Size            | 41472 bytes                           |
 | MD5             | 377053378db71f8d61f0bc29d6816a07                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2018-10-01                                 |
+| Tags            | 性转, 跨性别, 自我探索, 性别认同, 伪娘, 变身, 淫荡, 强奸, 成长, 家庭关系, 魔法, 青春期, 社会偏见, 心理变化, 欲望, 变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_人造美女第十节.doc]([改造]_人造美女第十节.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是关于两个女性角色妮娜和颖儿之间的情感交流与冒险故事。故事描绘了妮娜在失踪期间的生活，以及她与未婚夫伟东的联系与寻找。文中展现了妮娜在一段神秘的变身实验后与她的爱人颖儿之间的深厚感情。在一次相聚中，彼此述说思念，体现了爱情中的理解与支持。妮娜的生活经历了一系列的变化，她试图探索自己的身份并寻找冒险。在剧情推进中，涉及到了警方调查与神秘的实验室，揭示了王虎的可怕命运，强调了恐怖与悬疑交织的元素。整篇故事情感深沉但又不乏幽默，展现了角色在异常情况中的人性与情感魅力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_人造美女第十节.doc]([改造]_人造美女第十节.
 | Size            | 36352 bytes                           |
 | MD5             | 1e783f3daf1bf35fd3d67e2ba09f56ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 强奸, 百分比7乱伦, 纯爱, 女仆, 伪娘, 苦涩冒险, 魔法少女, 陌生人, 暗门, 实验室, 急救, 猫耳少女, 警匪片, 感情纠葛, 伦理剧情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

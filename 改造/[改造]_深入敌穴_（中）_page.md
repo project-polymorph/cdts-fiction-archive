@@ -7,7 +7,7 @@ TXT 下载: [[改造]_深入敌穴_（中）.doc]([改造]_深入敌穴_（中�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇性转主题的小说文本，情节围绕主人公的性别转换及其在间谍活动中的经历展开。故事主要描写了主人公在一个情报任务中与同事尼克的互动，其间展示了复杂的情感变化和对自身性别认同的探索。主人公在接到任务后，精心打扮成女性形象，充满了性感、高雅的气质，展示了心理与生理的矛盾。文中提到：“我的伪装是如此的完美，以至于我能随心所欲地展现出女性的特征”，并描绘了主人公面对镜子时的自我认同感，强调了自我认知的冲突。故事包含了伪娘、跨性别以及恋爱元素，同时涉及一些限制级及成人主题，如情感的脆弱和对爱的渴望，体现了小说中对性别流动与复杂情感的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_深入敌穴_（中）.doc]([改造]_深入敌穴_（中�
 | Size            | 48640 bytes                           |
 | MD5             | b7b326f94fedea00487653f95b755fbf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 情报活动, 心理探索, 高跟鞋, 女性气质, 性感服饰, 内衣, 情感纠葛, 自我认同, 情报工作, 异地恋, 复杂关系, 角色扮演, 情感脆弱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

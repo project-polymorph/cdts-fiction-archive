@@ -7,7 +7,7 @@ TXT 下载: [[附身]_异形女郎第一册中的短篇小说(部份).docx]([附
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以异形女郎为主题的短篇小说，主要描述了一位名为达尔的二级战士如何利用寄生的方式入侵并接管地球女性的身体。故事开头描绘了一种地下场景，男女主角的身体经历了变化，探讨了性别、身体自主权和自我认同的主题。达尔通过在地球女性身体内的经历，经历了对身体的适应与心理上的挣扎，带出异形文明与人类的对比。小说包含了一些成人内容及大胆的描写，展现了异形寄生与身体改造的细腻过程与内心的复杂情绪，呈现了一种新的视角看待性与身份的交融。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_异形女郎第一册中的短篇小说(部份).docx]([附
 | Size            | 33032 bytes                           |
 | MD5             | 170184af381512637038d2c7cf56257c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 红毛猪                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异形女郎, 寄生, 性转, 跨性别, 身体改造, 科幻, 性别认同, 自我探索, 二次元, 成人内容, 内心挣扎, 夜间场景, 潜伏, 异形文化, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

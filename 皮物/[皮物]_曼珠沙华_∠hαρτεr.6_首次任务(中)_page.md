@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_曼珠沙华_∠hαρτεr.6_首次任务(中).docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《曼珠沙华》系列中的一部分，章节编号为第六章，标题为《首次任务（中）》。故事围绕着两个主要角色雷埃德和哈萝展开，他们在途中遭遇了一群盗贼的攻击。情节描述了盗贼们的恶劣行为和对女性角色的侵犯，展现了在危险情况下的冲突与对抗。哈萝作为修女，面临着巨大的恐惧和无助，而雷埃德则试图保护她。随着情节的发展，展现了盗贼们对哈萝进行的恶劣侮辱和对雷埃德身体的威胁，故事呈现出血腥和压迫的场面，主要通过激烈的对话和动作刻画角色的精神状态及情境的紧张感。该文本中也涉及了一些敏感话题，包括强迫与性暴力，因此在研究时应保持客观、理性的态度进行分析与讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_曼珠沙华_∠hαρτεr.6_首次任务(中).docx]([皮�
 | Size            | 21949 bytes                           |
 | MD5             | 39e810447916e38b796127564fc32753                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 暴力, 性侵犯, 犯罪, 幻想, 恶势力, 爱情, 生存挣扎, 角色扮演, 二次元, 逆后宫, 奇幻冒险, 恐怖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

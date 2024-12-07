@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_算命师.doc]([皮物]_算命师.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一位算命师在街头算命的故事，故事开始时，一位拉着三轮车的算命师傅用其挂着的招牌吸引了路人的注意。两位年轻人刘壮和王明决定去找他算命。算命师傅给王明预言说他会在高考中考取状元，但对刘壮却发出了警告，这让两人产生了不同的反应。随着高考的临近，王明自信满满，而刘壮则因为父亲的责备而感到困扰。文件进一步描绘了算命师傅的神秘与超自然能力，暗示他通过某种方式化身成了女监考官，并在高考现场进行了一系列超乎寻常的举动，最后留下了一个意味深长的结尾，突显了算命师傅的角色和故事背景的奇异之处。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_算命师.doc]([皮物]_算命师.doc)
 | Size            | 28160 bytes                           |
 | MD5             | de599f52064a94153d7129b4f1409078                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 算命, 超自然, 高考, 变身, 奇幻小说, 青春, 自我探索, 权力与性别, 命运, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

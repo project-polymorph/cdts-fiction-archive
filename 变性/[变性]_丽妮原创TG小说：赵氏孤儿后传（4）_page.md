@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（4）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部以性别转换为核心主题的小说，描绘了一个名为冰冰的角色在百媚馆中的生活和经历。在故事开始时，冰冰被一位华服贵妇周媚香召见，周媚香对她进行了审问，并安排她在馆内接受训练。冰冰的身份被设定为女性，故事围绕着她在馆内的训练过程、与其他女子的互动以及对自己新身份的认知展开。小说中存在不少色情描写，例如冰冰与其他女子的亲密接触、裸体沐浴及被训师指引的场景，这些情节涉及了身体的认同及性别的流动性。作品通过细腻的心理描绘，展示了角色的自我认知和欲望，并且暗示了对性别和身份的深入探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（4）.docx]([�
 | Size            | 19119 bytes                           |
 | MD5             | f5096880867ae1b11263fbd79e786b8c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 伪娘, 强奸, 百媚馆, 性转, 女性视角, 调教, 沐浴, 魔法, 自我探索, 逆后宫, 调教, 年龄差, 身体交换, 淫荡                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

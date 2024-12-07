@@ -7,7 +7,7 @@ TXT 下载: [[附身]_游泳衣6.doc]([附身]_游泳衣6.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是关于一名角色在厕所中经历身体附身和性别转换的故事。在故事中，角色（小雪）通过一个游泳衣的能力，成功附身到另一位名叫丹丹的女孩身上。文中详尽描述了角色在转变后的开始体验，包括意识上的混乱、身体的感知，以及对新身份的认同过程。随着情节的发展，小雪逐渐适应了这个新的身体，并与丹丹进行了一系列对话，讨论如何操控与利用这个新身份。在故事中也穿插了其他角色的互动，以及对于身体、性别和自我认同的思考。小雪对自身的新外貌感到满意，并开始尝试融合在新的生活中。故事内容涉及性别认同、自我认知与探索等主题，同时包含一些性暗示和性相关的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_游泳衣6.doc]([附身]_游泳衣6.doc)
 | Size            | 41984 bytes                           |
 | MD5             | 9da5e446e74b65efbc311612a1245882                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 附身, 性转, 自我探索, 角色扮演, 特殊能力, 唯美幻想, 校园生活, 女性视角, 二次元, 奇幻, 青春, 心理变化, 友谊, 变身, 女性角色, 性别转换, 自我认同, 情感纠葛, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

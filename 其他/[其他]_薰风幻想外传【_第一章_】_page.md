@@ -7,7 +7,7 @@ TXT 下载: [[其他]_薰风幻想外传【_第一章_】.docx]([其他]_薰风�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《薰风幻想外传【第一章】》讲述了少年罗德斯和女子艾凝娜在奢华庭院中进行剑术对决的经过。罗德斯是一个年仅十五岁，身材矮小但剑术极为出众的少年，拥有红色的头发和棕色的眼睛。他的剑术经过多次的反复练习，逐渐展现了超凡的战斗能力，尽管在与艾凝娜的对战中未能造成实质性的伤害。艾凝娜是鲁西鲁亚骑士团的副团长，年届二十七，拥有引人注目的美丽与力量，她一直是罗德斯的良师益友。在本章中，观战的莎莎和卡尔德也对他们的表现展开了讨论，莎莎赞赏罗德斯的进步，同时表现出对罗德斯获胜的信心。整章的描述中充满了激烈的战斗场景和细腻的人物心理描写，尤其是对角色信念与成长的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_薰风幻想外传【_第一章_】.docx]([其他]_薰风�
 | Size            | 24539 bytes                           |
 | MD5             | 876b4540e6e8a3b441ffa3a99e61168c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RE                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 剑术对决, 性别转换, 幻想故事, 自我探索, 角色成长, 奢华庭院, 骑士团, 武斗祭, 青春, 魔法, 战斗能力, 师徒关系, 情感交流, 剑气, 冒险, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

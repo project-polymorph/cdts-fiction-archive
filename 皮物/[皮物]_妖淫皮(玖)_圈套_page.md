@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_妖淫皮(玖)_圈套.docx]([皮物]_妖淫皮(玖)_圈套
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容围绕两个少女在浴室内的互动，主要描写了她们之间亲密而暧昧的行为及语言，展现了她们在性别与身体认同方面的探索。故事的主角玟玟以一种有如伪娘的形象参与与另一个少女小瑜的洗澡过程，过程中不断进行身体接触和亲昵的动作，带出一系列羞涩与探索的描写。文本中涉及洗澡时的轻挑和暗示性言语，表现出少女间的情感和欲望的复杂交织。这种描写在满足情感需求的同时也触及了性别认同与自我探索的主题。整体为性向与跨性别的细腻探索，涉及色情元素及身体的探索，具有较强的性暗示和内容敏感性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_妖淫皮(玖)_圈套.docx]([皮物]_妖淫皮(玖)_圈套
 | Size            | 27406 bytes                           |
 | MD5             | 7f195734887d726d6fb0c5d410ccfd2b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 少女洗澡, 亲密互动, 自我探索, 性别认同, 浴室情节, 青春期, 性暗示, 跨性别, 情感探索, 羞涩, 温柔互动, 身体探索, 热情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_旅馆.doc]([改造]_旅馆.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为约稿作品，内容围绕一组探险者在一座异国洋馆中的奇妙冒险展开。故事的主角们在马来西亚的丛林中迷路后，偶然发现了一栋古老的殖民时期洋馆，并决定进入避难。洋馆中迎接他们的是一位面容中性、身着女仆装的男性角色伶婳，他以十分温柔的态度接待了他们。故事通过细腻的描写展示了主角们初见伶婳时的混乱与不安，以及他们逐渐在这座洋馆中的经历。部分情节涉及性别识别和角色认同，随着故事发展，角色们面临自我认知的挑战，同时又有着一些带有奇幻色彩的觉醒时刻。文本中描述了角色在新的环境中的互动、心理变化、以及性别转换的生理反应，尤其针对一名女性角色在穿着男性内裤后的羞耻与快感进行了详细描写。这些内容与跨性别主题密切相关，探索了性别认同和自我发现的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_旅馆.doc]([改造]_旅馆.doc)
 | Size            | 123904 bytes                           |
 | MD5             | 59a4b50e811cfe4db19762945cb2b052                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 性别认同, 奇幻, 马来西亚旅行, 女仆, 智能家居, 自我探索, 另类探险, 性别冲突, 心理描写, 小说改造, 互动情节, 夜晚禁忌, 古堡冒险, 异国情调                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

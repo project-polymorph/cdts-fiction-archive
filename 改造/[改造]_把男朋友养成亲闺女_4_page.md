@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_4.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇涉及性别转换和角色扮演的小说章节，主要围绕角色贝丽的变身过程和与阿曼达之间的亲密关系展开。在第四章中，阿曼达引导贝丽适应作为女儿的角色，强调妆容和服装对贝丽外在形象的影响。贝丽在向阿曼达表达对她的爱和感谢时，体会到作为女孩的身份和情感的复杂性。贝丽的性别认同出现了明显的变化，从最初的困惑和不适应逐渐向接受和融入转变。章节中包含了一些描写角色外貌和内心对话的细节，如：“阿曼达看到贝丽那少女的脸上露出恼怒的表情”，以及贝丽的自我意识觉醒，如她说：“妈咪，我爱你。”整体上，该文档效果生动，细腻地描绘了角色在性别认同和认知上的挑战与转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_4.doc]([改造]_把男朋友�
 | Size            | 33792 bytes                           |
 | MD5             | 684bf69acddc88ef6f5799fc9c5ed854                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2021-05-05                                 |
+| Tags            | 性别转换, 跨性别, 角色扮演, 伪娘, 情感关系, 自我认知, 妆容, 青春期, 亲子关系, 变身, 心理冲突, 女性形象, 爱情, 虚拟现实, 小说, 二次元, 情感探索, 社会认同, 剧情发展, 生活细节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

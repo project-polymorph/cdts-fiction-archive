@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_海神大人的泳衣——后日谈.doc]([皮物]_海神�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《海神大人的泳衣——后日谈》，主要描述了主人公清彦在穿上海神大人所制的连体泳衣后，身体与外貌发生了奇妙的变化，变成了一个拥有女性特征的少女。文章通过清彦的视角，详细描绘了他在早晨醒来后，发现自己出现的女性身体以及与女朋友双叶之间困惑又亲密的互动。文中充满了感官细腻的描写，特别是清彦在泳衣下所感受到的快感，以及双叶对他的“玩弄”，展现了一个奇幻而又挑战自我认知的故事场景。此外，本文档还提及了海神大人的住所现代化特点，以及主人公在跟随女友和海神大人的日常互动中逐渐接受自己新身份的心路历程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_海神大人的泳衣——后日谈.doc]([皮物]_海神�
 | Size            | 69632 bytes                           |
 | MD5             | c7a7cfda10b2701b2f83e1a9484ed801                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 泳衣, 幻想, 自我认知, 爱情, 二次元, 强制变身, 自我探索, 双叶, 海神大人, 校园, 奇幻, 少女, 触感, 亲密关系, 性别认同, 人体改造, 虚拟现实, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

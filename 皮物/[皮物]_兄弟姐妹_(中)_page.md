@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_兄弟姐妹_(中).doc]([皮物]_兄弟姐妹_(中).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部讲述性别转换和身份认同的伪娘/男娘小说，主要围绕一个叫宋绸的男性角色，他在出狱后与朋友吉姆重聚。在故事中，宋绸接受了一个名为吴文沫的全新身份，通过一种神秘的药剂实现了身体的性别转换。小说中详细描绘了宋绸在变身后的心理变化及身体感受，特别是在体验女性身体后的强烈情感与欲望。吉姆则提及了自己过去的经历，以及人格转移技术的潜在应用，这为整个故事增添了科幻色彩。情节中充满了男性的视角对女性身体的探索和困惑，涉及性别认同、欲望、以及社会对性别角色的期待等主题。文中的对话生动，情节引人入胜，描绘了复杂的人际关系和内心挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_兄弟姐妹_(中).doc]([皮物]_兄弟姐妹_(中).doc)
 | Size            | 46080 bytes                           |
 | MD5             | 3188ffa712680e0a5985a37e796248fa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 身份认同, 欲望探索, 科技幻想, 自我认知, 性别角色, 变身, 情感冲突, 医学奇幻, 社会期待, 科幻小说, 心理描写, 自我发现, 二次元文化, 性别研究                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

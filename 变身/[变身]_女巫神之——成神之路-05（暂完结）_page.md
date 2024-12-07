@@ -7,7 +7,7 @@ TXT 下载: [[变身]_女巫神之——成神之路-05（暂完结）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为原创系列小说《女巫神之——成神之路》第五章，主要描绘了主角在经历身体转变后的心理斗争与自我认知过程。在此章节中，主角在与女巫米蒂尔·哈斯的对话中，逐渐了解到自己身体的变化不可逆转，并探讨了成为女性的体验和心理感受。主角因变身为女性而情绪波动，试图寻找恢复原本身体的方法，但在米蒂尔的解释下，意识到其实自己具备了神的力量和能力，可进行实体幻化。此故事不仅描绘了一种性别转变的奇幻过程，还深入讨论了个体对性别认同的探索与自我接受。章节中出现了多次对身体与性别变化的感受描写，包括对身体美的欣赏与对过往身份的怀念，反映了角色内心的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_女巫神之——成神之路-05（暂完结）.docx]([�
 | Size            | 21392 bytes                           |
 | MD5             | bd6837d9dba7c785238686d3258db609                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 自我探索, 女巫, 奇幻, 神话, 情感冲突, 身体变化, 实体幻化, 超能力, 二次元, 跨性别, 心理斗争, 角色成长, 情感纠葛, 爱与欲望, 心理转变, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

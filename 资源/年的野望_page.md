@@ -7,7 +7,9 @@ TXT 下载: [年的野望.doc](年的野望.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《年的野望》描绘了一个充满神话色彩的现代故事，结合了古代十二生肖的守护神与现代都市生活的交织。故事开始于华夏的古老传说，讲述了生肖守护神们如何联合击败年兽，以保护人类。文中提到了卯兔作为辛卯年的守护者，在春节期间的城市景象与各种活动中活动。
+
+随着情节的发展，文中聚焦于一位年轻富豪的生活，他在一个高档会所中经营着巨大的势力，并反映了现代社会对财富与地位的看法。透过对会所的描绘，作者传达了社会的分层与人际关系的复杂。文中涉及一段亲密关系，营造出浮华背后的人性纠葛与情感冲突，充满了紧张的暧昧气氛。作者对男女主角之间的亲密关系刻画深入，流露出情感与欲望的纠缠。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [年的野望.doc](年的野望.doc)
 | Size            | 48640 bytes                           |
 | MD5             | afb74701018176077ab3cac4003a7d33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 现代都市, 爱情, 年度盛典, 神话传说, 伦理关系, 男主角, 社会名流, 情感冲突, 都市生活, 生肖文化, 现代幻想, 亲密关系, 权力斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

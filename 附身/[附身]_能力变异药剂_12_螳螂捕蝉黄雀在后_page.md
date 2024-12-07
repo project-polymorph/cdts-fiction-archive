@@ -7,7 +7,7 @@ TXT 下载: [[附身]_能力变异药剂_12_螳螂捕蝉黄雀在后.docx]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于附身与能力变异的小说章节，标题为《螳螂捕蝉黄雀在后》。故事围绕主角任小芹的心理和身体变化展开，涉及人物之间复杂的情感纠葛。任小芹声称不再受欺负，渴望被保护，而另一名角色古泉则在与她的关系中感受到强烈的依恋与冲突。随着故事的发展，主角通过一款神秘的药剂和项圈，体验到了身体的异样感觉，面临着身份的转变和自我认知的挑战。情节中包含了超自然元素，涉及强烈的情感表达及性别的流动性。文中提及的项圈和药剂暗示了更广泛的主题，包括个人自由与控制之间的矛盾。整体故事情节紧张且富有戏剧性，角色之间的斗争充满不确定性，展现出多元性的身份探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_能力变异药剂_12_螳螂捕蝉黄雀在后.docx]([附�
 | Size            | 20032 bytes                           |
 | MD5             | 555285a8a3d80f04c28a1989b8ac1926                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 附身, 都市幻想, 青春爱情, 超自然, 心理探索, 情感纠葛, 自我认同, 药物影响, 变身, 朋友之间的关系, 身份危机, 异世界, 能力斗争, 虐恋, 虚拟现实, 青少年, 创伤经历异常文学, 泪水与欢笑, 角色之间的张力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

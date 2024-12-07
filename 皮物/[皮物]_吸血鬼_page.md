@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_吸血鬼.doc]([皮物]_吸血鬼.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一个万圣节舞会的场景，主角穿着单一的奶糖人套装，感到不自在。他通过比赛获得了舞会的邀请，并且在舞会上看到了自己喜欢的吸血女郎角色梵蓓娜。梵蓓娜的装扮非常吸引人，正好与他的理想形象相符，她用充满魅力的外表和妩媚的举止吸引了主角的注意。在双方的互动中，梵蓓娜表现得既神秘又迷人，最终甚至提出邀请主角去她的酒店房间。在剧情中，主角对于女方的魅力和对自己的吸引感到紧张与兴奋，呈现了一种微妙的心理变化。整篇文本不仅包含丰富的细节和视觉描写，还探讨了角色之间的自我认知和性别角色的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[皮物]_吸血鬼.doc]([皮物]_吸血鬼.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | a6ddc9a100d1b9408b1f8a0aafc15804                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 万圣节, 吸血女郎, 变性, 舞会, 幻想, 性别认同, 社交焦虑, 吸血鬼, 两性关系, 甜美血液, 东京                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

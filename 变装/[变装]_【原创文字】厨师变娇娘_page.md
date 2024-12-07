@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【原创文字】厨师变娇娘.doc]([变装]_【原创�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一名平凡厨师杨琪在一次意外后经历的变身与人际关系的故事。故事始于杨琪的平淡生活，经过一次车祸之后，他在秘密实验室中经历了巨大变化，医生宣称他大脑严重受损。通过对话，逐渐揭示了杨琪的身世和他与周围人物之间的复杂关系，包括他的老板杨帆和老板娘姜晓晴。在事故后，家属们焦急等待，努力希望他能复苏。同时，医护人员考虑利用先进的医学技术来拯救姜晓晴的生命，尽管这样的技术是否能真正让她复活充满争议。故事将探索身份、身体和关系等各种主题，充满悬念与情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【原创文字】厨师变娇娘.doc]([变装]_【原创�
 | Size            | 211456 bytes                           |
 | MD5             | 4dbee7d4df20c8df0c76d8d953282c42                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 自我探索, 身体交换, 科幻, 爱情, 心理健康, 科技伦理, 家庭关系, 事故, 医患关系, 医疗技术, 植物人, 男性视角, 女体化, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

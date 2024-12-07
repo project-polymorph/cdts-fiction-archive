@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_代号---零.docx]([皮物]_代号---零.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本档案馆所收录的文档为一篇涉及伪娘与性转题材的短篇小说。故事围绕一位代号为“零”的女性角色展开，她既是复杂的情感纠葛中的中心人物，又是一个高超的易容与变装专家。小说的开头描绘了‘零’在卧室中与她的男友龙哥的激情场景，随后转入她的双重身份生活，逐渐揭示了她的黑暗一面与谋杀阴谋。在小说中，‘零’利用先进的科技，使她能够完美地替换成其他女性，甚至成功控制了一位黑帮老大的生命，显示其突出的人性与机械结合的反乌托邦色彩。整体故事内容包含大量限制级情节及性暗示，展现了角色间深思熟虑的人际关系与性别认同问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_代号---零.docx]([皮物]_代号---零.docx)
 | Size            | 22217 bytes                           |
 | MD5             | 93adc8abfa0db35b2390ca46ebb023f9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 黑道, 计谋, 高度科幻, 身体改造, 阴谋, 女主角, 刺激情节, 悬疑, 变身, 情感纠葛, 易容术, 人物塑造, 成年人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

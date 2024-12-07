@@ -7,7 +7,7 @@ TXT 下载: [[其他]_神选者——1（新年新气象，我来挖新坑—_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于男主角程慎的小说，他在城市中生活了一年而未找到一份稳定的工作。故事开头，他独自坐在公交站，面临生活的困境。正当他感到无助时，一名陌生而成熟的女性找到了他，并邀请他上车。在到达一座别墅后，女方自称使徒045，告知程慎他被神选中，具备成为新神的资格。这个情节涉及他的性别认同、身份探索以及对超自然世界的认知。同时，小说中还隐含着奇幻与变身的元素，当程慎从女性的视角了解自己时，情节发展向着未知的方向推进。小说通过程慎与使徒的对话，揭示了他内心的挣扎与对未来的期待，但似乎他尚无法完全接受这一切。同时，小说结尾暗示程慎在神秘转变中失去了意识，可能进入了一个全新的境界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_神选者——1（新年新气象，我来挖新坑—_�
 | Size            | 18246 bytes                           |
 | MD5             | e77651a1d6ea904e36b3f0ce48c98b18                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 神选者, 自我探索, 奇幻, 都市, 人生经历, 女性视角, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

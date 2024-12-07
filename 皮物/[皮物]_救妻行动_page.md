@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_救妻行动.doc]([皮物]_救妻行动.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《救妻行动》，内容围绕一场充满紧张与戏剧性的追逐展开。故事的女主角李雅为了拯救自己的包和里面的重要物品，奋力追赶一名企图逃跑的男人。在幽暗的巷子中，李雅面对着一个猥琐的男人王天，他试图对她施加暴力，李雅在危机四伏的情况下，展现出她的机智与勇气，成功寻求帮助。文末回到三年后，李雅和王涛的日常生活中，透露出他们的感情与婚姻发展。整个故事探讨了性别角色、暴力与女性力量，并展现了浓烈的情感反转与生活场景。文中有对男女主之间情感互动的细腻描绘，也是围绕着求偶与家庭建立的主题。文中涉及了强烈的情绪和潜在的性别暴力情节，适合深入分析性别认同与关系动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_救妻行动.doc]([皮物]_救妻行动.doc)
 | Size            | 36864 bytes                           |
 | MD5             | 3dfe7d5611716e5f9f43374b87802516                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转化, 跨性别, 伪娘, 爱情, 暴力, 冒险, 家庭生活, 欲望, 情感冲突, 自我救赎, 都市情节, 性别角色, 求婚, 情感发展, 日常生活, 自我探索, 女性力量, 关系动态, 强奸, 背叛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

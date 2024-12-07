@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_蒸发_5（上）.docx]([皮物]_蒸发_5（上）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《蒸发 5（上）》是一部关于伪娘与变身主题的小说，内容围绕主角道格拉斯展开。他是一名身为男性的角色，潜入敌方内部以完成他的任务。在这一节中，道格拉斯利用变身术和伪装技术，企图接近一个关键目标——名为尼莫的年轻男性。小说展现了道格拉斯从备战的紧张过程，到在酒吧内表现出女性角色的微妙心态，以及与目标交互的策略。比如，道格拉斯在准备过程中提到，“我能在适当的时候以适当的身份隐藏自己”，这揭示了角色的心理斗争与身份认同的复杂性。文件中包含大量关于角色装扮与内心活动的描写，同时融合了激烈的剧情与引人入胜的悬念。整体情节紧凑，逐渐构建出一幅变性与权力斗争交织的画面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_蒸发_5（上）.docx]([皮物]_蒸发_5（上）.docx)
 | Size            | 25280 bytes                           |
 | MD5             | d25ca8aaff0a7eb6dfc32702b0613507                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 身份认同, 阴性角色, 扮演游戏, 精神层面, 自我探索, 暗杀计划, 同性情感, 都市冒险, 刺激与悬疑, 酒吧互动, 情感策略, 身体变换, 个人秘密, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

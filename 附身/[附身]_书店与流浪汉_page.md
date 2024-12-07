@@ -7,7 +7,7 @@ TXT 下载: [[附身]_书店与流浪汉.doc]([附身]_书店与流浪汉.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个神秘的24小时会员制书店的故事。书店出现后，学生、OL（办公女性）、流浪汉等多种身份的人纷纷光顾。故事的主角在街头遇到一位流浪汉，后者向他递交一张传单，声称只要带上自己最漂亮的朋友便可获得会员资格。主角的青梅竹马佳儿被吸引，愿意陪伴他前往书店。然而，佳儿进入书店后，主角却仍旧被挡在门外，佳儿很快就被书店的店员邀请进去。与此同时，主角感到一丝不安，因为他发现书店里的某些人似乎有些异样，尤其是佳儿走进后竟然与之前的她完全不同。故事达到高潮时，佳儿神秘消失并再次出现的瞬间，她的表现变得成熟而诱惑，更令人疑惑的是，她似乎与流浪汉存在某种联系。整个故事围绕着性别转变与身份认同的主题展开，引发读者对人物命运与自我认知的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_书店与流浪汉.doc]([附身]_书店与流浪汉.doc)
 | Size            | 28672 bytes                           |
 | MD5             | bc1e02978644944af0a5751d88a87bf1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 变身, 身份认同, 奇幻故事, 校园, 神秘书店, 自我探索, 女性视角, 青梅竹马, 魔法, 流浪汉, 穿越, 奇幻, 青春, 暗黑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

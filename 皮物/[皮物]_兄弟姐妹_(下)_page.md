@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_兄弟姐妹_(下).doc]([皮物]_兄弟姐妹_(下).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘跨性别相关小说，讲述了角色吴文沫与她的闺蜜陈雨静之间的复杂情感及亲密关系。故事开头描写了吴文沫与陈雨静重逢时的兴奋与期待，随后逐步展开她们之间的情感交织，特别是身体的亲密接触与情感的激烈碰撞。文本中包含对角色心理状态的细腻描写，比如吴文沫面临的羞涩与渴望，以及陈雨静的大胆与主动。随着情节的发展，二人之间的亲吻和身体接触愈发深入，充满了强烈的性暗示与情欲描写，细腻的感官体验使得整部作品充满了强烈的情感与性主题。整部小说围绕着角色的身体亲密互动，呈现出一种两性及跨性别之间模糊的界限和探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_兄弟姐妹_(下).doc]([皮物]_兄弟姐妹_(下).doc)
 | Size            | 37376 bytes                           |
 | MD5             | 552c5571d471ef9089b913ad4725e693                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 百合, 强烈情欲, 身体接触, 情感纠缠, 女性视角, 跨性别, 甜蜜, 情感探索, 性转, 吻戏, 同性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]柔弱大学生的雌堕_V.doc]([变装]柔弱大学生的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《柔弱大学生的雌堕 V》，是一篇关于伪娘和变装的小说。故事围绕着一名男性大学生在激素治疗后变身为女性的过程，描述了他在新生活环境中面临的内心冲突与自我认同的探索。小说开篇提到，主角结束了漫长的假期，回到学校准备开始新的学期。他的母亲为其租房提供了资金，以避免他在背负着一副女性形象的情况下被男性同学注意。主角选择装作是女生的亲属，以便隐藏真实身份而与男性室友晨哥同住。在与晨哥的互动中，主角利用自己的外表和性别特征挑逗晨哥，情节中重复展现了他对自己新身份的玩弄与渴望。他们之间的对话充满了调侃与暗示，尤其是围绕着胸罩和自身魅力的展现，描绘了一幕幕引人遐想的场景。随着故事发展，角色在对自己新身份的适应之余，还引入了性相关的情节，贴合了文中多次提到的自我探索与雌堕体会。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]柔弱大学生的雌堕_V.doc]([变装]柔弱大学生的�
 | Size            | 60928 bytes                           |
 | MD5             | 008123dc903fbae4f0ea7d624aa9dc1c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 雌堕, 性转, 性别认同, 自我探索, 性别角色, 两性关系, 青春, 激素治疗, 情感纠葛, 角色扮演, 校园生活, 调情, 性幻想, 强奸, 难堪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_分魂小中篇：四、公司裡的故事.docx]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说是关于一位拥有灵魂吹入能力的角色，他通过操控他人的精神和意志在职场中获取升职机会。故事的主线围绕主人公与他的上司雨宫优子的互动展开，主人公通过将自己的一部分灵魂吹入雨宫优子的体内，使得原本对他态度冷淡的雨宫课长变得对他十分偏袒，并借此达成了升职的计划。小说中包含了许多复杂的职场关系与操控心理的情节，例如雨宫课长在面对真田部长时，为了维护主人公的升职而展开的策略，以及由于灵魂吹入而导致的身体和意识的转变。整篇作品情节紧凑，涉及了性别认同、权利操控和职场情欲等主题，同时也描绘了丰富的情感波动和心理变化，具有很强的戏剧性与冲突感。文本也展示了一些限制级的内容与情节，涉及明显的性暗示和不当的职场行为。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_分魂小中篇：四、公司裡的故事.docx]([附身]_
 | Size            | 20609 bytes                           |
 | MD5             | 212e698a461e8f2128c47af36f9a4df4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ecvt                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 职场故事, 灵魂交换, 性别认同, 调教, 强奸, 逆后宫, 办公室恋情, 操控心理, 情欲, 社交操控, 权力游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

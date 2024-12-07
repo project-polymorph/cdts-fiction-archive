@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_灵魂终结者：第一章.docx]([皮物]_灵魂终结者
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《灵魂终结者：第一章》讲述了一位年轻富翁江浩明，精心规划了一栋仿古别墅。在烈日炎炎、工人们懈怠工作时，江浩明决定监工。在一个意外的情况下，他发现了一位腿部受伤的年轻工人。随着事情的发展，这名工人不幸消失，现场冒出神秘的冰冷雾气，而江浩明在探查时几乎受到了惊吓。在众人的恐慌中，别墅区域发生了剧烈的地震和塌陷，工人与江浩明相继消失。邻居们目睹这一切，不得不打电话报警。在警局的刑警队长王云雪赶到现场后，现场的超自然现象引起了人们的极大关注。文件内容涉及恐怖、神秘现象以及性别认同等主题，情节包含了对角色的克苏鲁式的描写和紧张的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_灵魂终结者：第一章.docx]([皮物]_灵魂终结者
 | Size            | 30185 bytes                           |
 | MD5             | c67257aa67adfbfdd6cc19bb00bb6d51                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂, 超自然现象, 恐怖, 结构崩塌, 江浩明, 年轻工人, 血腥, 消失事件, 警察调查, 仿古别墅, 迷雾, 仙侠, 悬疑, 男性视角, 奇幻, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

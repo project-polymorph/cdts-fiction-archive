@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_用生物人皮替代美女的简单教程_[.docx]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一份关于使用生物人皮替代美女的教程，内容涉及角色身份的替换与模拟。作者以角色丽丽的视角，自述自己的真实身份为男性，却借助人皮成功实现了女性的外貌与生活。教程分为几个部分，首先明确‘替代’的意义，不仅是改换外貌，还包括生活状态的模拟和社会角色的完全更替。接入步骤包括选择与自身相似的替代对象、了解并监视目标的生活，并通过整形手术及装扮不断模仿，最终实现对目标的代替。文中提到多项具体步骤和建议，包括如何进行身份的隐藏和获取生物人皮的渠道，涉及一定的伦理和法律争议。文件内容包含大量描述和指导方式，可能对有关性别认同与身份模仿研究有参考价值，同时涉及一些敏感与限制性的内容，建议读者注意内容的科学性与合法性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_用生物人皮替代美女的简单教程_[.docx]([皮物
 | Size            | 18619 bytes                           |
 | MD5             | c2593db85d6e5c52d15c40ad8bc3da69                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 生物人皮, 性别替代, 伪娘, 人皮替代, 角色扮演, 跨性别, 整形手术, 身份认同, 社会角色, 自我探索, 伦理争议, 模拟生活, 外貌变换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

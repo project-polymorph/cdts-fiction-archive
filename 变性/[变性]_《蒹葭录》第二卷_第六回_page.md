@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第六回.doc]([变性]_《蒹葭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的档案仓库的一部分，主要讲述了宋沚陵在神秘幽谷中无意间学习剑法，随后误入藏剑山庄的故事。故事中心围绕男女角色的身份冲突展开，宋沚陵身穿女子衣裙，以“苏瑶”的身份掩藏自己的真实身份。在藏剑山庄中，宋沚陵不仅要面对他人对身份的猜测和试探，更要处理与其他角色如许子敬、白愁之间复杂的关系。文中描绘了宋沚陵在暗流中的遭遇及其与身份认同的沉重心理斗争。小说涉及了江湖恩怨、人物内部冲突以及性别认同等主题，情节富有张力，角色性格多面，值得深入研究和探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第六回.doc]([变性]_《蒹葭
 | Size            | 54272 bytes                           |
 | MD5             | 720c32c9142715181f8d47f9e64a0a88                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 伪娘, 跨性别小说, 江湖恩怨, 身份认同, 剧情反转, 武侠, 古代, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_選物販賣機_兔子形狀防狼警報器.doc]([变身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件为跨性别主题的小说，讲述了一位职场人士在离职后偶然进入一家神秘的自动贩卖机店，体验了一系列奇妙的遭遇。故事的开头，主人公在深夜下班途中，发现了一家新开的商店，这家店以可爱的兔子形状防狼警报器为卖点，声称可以改变人的一生。随着情节发展，主人公通过与一位身穿女仆装的猫耳女孩交流，逐渐被店里的奇特道具吸引。小说不仅涉及穿越与身份转变的设定，还探讨了个人的生活现状与自我认知的冲突。主人公在经历离职、重拾梦想后，感受到生命的转变过程，甚至梦见了偶像世界中那个少女形象，从而引发对自身性别认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_選物販賣機_兔子形狀防狼警報器.doc]([变身]_
 | Size            | 42496 bytes                           |
 | MD5             | eb573079deb5f113163155ff7adc4401                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 自动贩卖机, 奇幻, 自我探索, 青春, 梦境, 偶像, 女仆, 兔子形状, 防狼警报器, 人生改变, 职场, 失业, 幻想真实, 生活压力, 心理承受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

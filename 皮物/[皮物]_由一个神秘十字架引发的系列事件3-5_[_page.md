@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_由一个神秘十字架引发的系列事件3-5_[.docx]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的档案，描述了一种通过神秘的十字架进行性别和身体变换的情节。在故事中，主角与另一角色一起醒来，发现自己陷入独特的身体体验中。故事涉及角色通过十字架进行体内的皮肤交换，展现了从男子身体现身为女子的过程。文件中有详细的性别认同、身体变化与自我探索的描写，包含了一些限制级的性情节，例如角色的身体接触和性快感的探索。文中提到：“早晨，我们俩居然是同时醒来的，我感觉精力又回来了，就是腰有点疼。”文本也涉及到对身体认知的转变与接受，以及伴随着这场变化的情感与欲望体验。整体故事充满奇幻色彩，探讨了性别与身份的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_由一个神秘十字架引发的系列事件3-5_[.docx]([
 | Size            | 21696 bytes                           |
 | MD5             | 5a52f47d05bf91d610063d2edb541153                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 性别认同, 身体交换, 跨性别, 奇幻, 自我探索, 性欲体验, 魔法十字架, 人皮交换, 性别转换, 情感冲突, 青春成长, 女性视角, 神秘事件, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

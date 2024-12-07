@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译小说】误打误撞的女仆.docx]([变性]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本档案馆中的小说《误打误撞的女仆》围绕一个名叫德里克的角色展开，他面临着变性和生活方式的重大改变。故事以德里克及其妻子黛安娜在中央情报局主任亨特的安排下进行证人保护计划的背景为开端。德里克将女装扮演家庭主妇以保护他们的婚姻和生命安全。这部小说深入探讨了性别认同、自我探索、以及婚姻关系的复杂性。在故事中，德里克通过与妻子的亲密关系和相互支持，逐渐接受了作为女性生活的想法，并考虑到他们的未来生活规划。德里克的内心冲突与外界环境的压力，表现出跨性别者的挣扎和坚韧。整体上，这部小说不仅是个体的性别转变故事，也是关于爱情、牺牲与勇气的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译小说】误打误撞的女仆.docx]([变性]_【
 | Size            | 49759 bytes                           |
 | MD5             | 1c55c1714dfe10b78033ff7722e6c1ea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 家庭主妇, 跨性别, 证人保护, 性别认同, 婚姻, 异装者, 女性化, 自我探索, 情感支持, 爱情故事, 性别角色, 二次元小说, 个人转变, 生活方式改变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

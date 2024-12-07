@@ -7,7 +7,7 @@ TXT 下载: [[附身]_三角關係日本母女編_[.docx]([附身]_三角關係�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个围绕三角关系展开的故事，设定在新宿歌舞伎町的一家时钟酒店内。故事的主线围绕着一位风俗娘，名叫真由美，描绘了她在这个肮脏的环境中与客人交互的情节。文中包括一些具有性暗示和淫荡特征的描写，展现了角色之间复杂的情感纠葛与心理冲突，同时也涉及到真由美的家庭背景，她的母亲裕子的过去以及真由美的成长经历。文中有提及一位名叫中治的男性，与真由美和她母亲之间的关系复杂且矛盾，推向了刺激与禁忌的边缘。此外，药物的运用也构成了故事的关键点，包含了性转与角色认同的主题。整篇故事内容较为露骨，具有明显的成人向特征，包含一些限制级内容，读者需以科学研究与学习的态度进行分析。以此为背景，探讨性别认同、自我探索等主题有其研究价值。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_三角關係日本母女編_[.docx]([附身]_三角關係�
 | Size            | 22503 bytes                           |
 | MD5             | 709bdf14c34e03eff9d55f23ec90b8e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 三角关系, 跨性别, 风俗行业, 成人内容, 性转, 母女关系, 心理冲突, 禁忌, 性暗示, 情感纠葛, 新宿, 药物运用, 家庭背景, 成长经历                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

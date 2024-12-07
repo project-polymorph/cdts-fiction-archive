@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_异祸(25).docx]([皮物]_异祸(25).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘和变身相关的小说，其内容围绕角色的性别转换与自我认知展开。故事以一位红发小女孩的视角叙述，描绘了她与一个被绷带包裹的金发女子之间的对话，展现了角色在困境中寻找自我、表达情感与探索身份的复杂关系。文中涉及的主题包括对文学的思考、对年岁流逝的感慨以及角色之间微妙的互动。小女孩提及自己长时间未离开房间，与外界的联系无限期中断，透射出一种孤独与无助。与此同时，金发女子与小女孩的对话中透露出外界的混乱情境以及人物背景的复杂性。文字间有对生活状态的反思，涵盖了个人内心斗争与自我探索的内容。如同小说中提到的，“我只是想测试你的诚实”，反映了角色与角色之间信任与诚实的重要性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_异祸(25).docx]([皮物]_异祸(25).docx)
 | Size            | 23100 bytes                           |
 | MD5             | 55b5a058c9ca50f4ba9b66ad349b9bda                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 忘卻                               |
+| Region          | 未知                               |
+| Date            | 2016-09-21                                 |
+| Tags            | 性转, 伪娘, 跨性别, 自我探索, 二次元, 角色互动, 孤独, 文学, 心理斗争, 身份认同, 魔法, 奇幻, 情感纠葛, 少女, 未来设定, 阿宅文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮DOLL_2.doc]([皮物]_皮DOLL_2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容为一部涉及性别转换及身体角色替换的虚构小说，名为《皮DOLL2》。故事主要围绕角色明日香的意识与身体的变化而展开，情节包含药物引发的变身与角色穿越。在故事中，明日香在回家的路上逐渐受到自己感情与他人（其姐姐琉璃香）的情感融合的影响。通过使用药物，明日香的灵魂脱离身体并尝试与姐姐的身体重合，随着情节的发展，两者的互动逐渐变得亲密，涉及性暗示与性行为。在此背景下，小说探讨了性别认同与性欲之间的复杂关系。内容中包含了大量对身体感受及性行为的细腻描述，情节深入探讨了角色们在转换过程中所感受到的生理与心理上的挣扎与融合。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮DOLL_2.doc]([皮物]_皮DOLL_2.doc)
 | Size            | 54784 bytes                           |
 | MD5             | a95c7e8f217c73ad973f35348657a948                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 药物, 角色互换, 身体交换, 姐姐, 弟弟, 纯爱, 青春, 校园, 幻想, 二次元, 虚拟现实, 伪娘, 男娘, SM, 心理探索, 性别认同, 沉迷, 触手                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

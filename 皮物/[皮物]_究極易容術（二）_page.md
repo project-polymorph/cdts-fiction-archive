@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_究極易容術（二）.docx]([皮物]_究極易容術（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《究極易容術（二）》，内容围绕一个家庭中关于性别身份的复杂故事展开。故事的主线涉及一位女性角色，林湘萍，实际上是她的儿子许建雄在使用一项奇妙的易容术后假扮成母亲。建雄在一场山难中下落不明，而在其消失的同时，林湘萍的外表和角色被他的另一段记忆所影响，包括一个逃犯的阴暗背景。随着情节的发展，林湘萍陷入了一系列精神与身体上的冲突，体验到强烈的性欲并与其合法伴侣的关系复杂化。文本中详细描写了林湘萍与‘爸爸’的亲密行为，涉及诸多性暗示和情感上的交织，反映出角色对于身份、欲望与家庭关系的探讨。故事除展示强烈的性内容外，还隐含了对性别认同的思考，以及角色在面对身份转变时所经历的内心挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_究極易容術（二）.docx]([皮物]_究極易容術（
 | Size            | 27111 bytes                           |
 | MD5             | 7831024eb3e6a6596c707f1db1e7f6ee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 家庭关系, 强烈性欲, 易容术, 逃犯背景, 精神冲突, 性转, 自我探索, 暗黑题材, 家庭戏剧, 爱情与欲望, 角色扮演, 复杂情感, 自我认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

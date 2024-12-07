@@ -7,7 +7,7 @@ TXT 下载: [[交换]_林間學校_黑崎幹哉篇_#女子小学生.doc]([交换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《林間學校》是围绕一所小学的林间学校活动展开的小说，主要讲述了新人教师佐佐木智美在担任班主任期间的经历。故事中，班级的学生们参加林间学校的活动，体会大自然的乐趣，并在过程中进行互动和交流。在活动的最后，发生了一个交换身体的情节，导致男孩们与女孩们互换了身体，这引发了一系列困惑和挑战。文中描绘了学生们在新身份下的探索与探索，比如对身体和身份的认知，同时也包含一些趣味与性别议题的探讨。该故事涉及林间活动、老师与学生之间的交流，以及孩子们在性别角色交换后对生活的反思，内容轻松幽默又富有教育意义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_林間學校_黑崎幹哉篇_#女子小学生.doc]([交换
 | Size            | 65536 bytes                           |
 | MD5             | 1a02363853384ce218110bff0d0bc573                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 黑崎幹哉                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 林间学校, 小学生活, 班主任, 学生互动, 身份认同, 教育, 二次元, 幻想, 变身, 校园恋情, 友情, 成长, 轻小说, 校园, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[分魂]咒符-上.docx]([附身]_[分魂]咒符-上.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《[附身]_[分魂]咒符-上》是一篇关于性转与附身题材的小说，内容围绕着一个名为高岛光汰的男学生和他的朋友们日常生活中的奇异经历。故事开头，光汰和他的朋友在校园中的资料室完成日常的杂务时，偶然发现了一张奇怪的纸片——一张诅咒的神符。随着他们对这张纸片的好奇和试图获取的信息，出现了一连串神秘和恐怖的异象。例如，纸片上的图案不停跳动，并且当美帆触碰到它时，她的手指被粘住，无法脱离，这引发了她与光汰和小鸟之间的恐慌和合作。整体故事通过日常校园生活逐渐演变为包含玄幻和诅咒元素的冒险，探讨了友情、恐惧和未知的主题。书中的角色拥有丰富的个性，尤其是“美少女”菊池美帆的设定，加深了情节的吸引力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[分魂]咒符-上.docx]([附身]_[分魂]咒符-上.docx)
 | Size            | 51992 bytes                           |
 | MD5             | d5b6e6079edf1db8003f319fe06164e8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 骨張                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 复数附身, 性转, 悬疑, 校园, 友情, 诅咒, 魔法, 冒险, 奇幻, 超自然, 恐惧, 神秘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

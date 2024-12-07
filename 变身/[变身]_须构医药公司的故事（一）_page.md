@@ -7,7 +7,7 @@ TXT 下载: [[变身]_须构医药公司的故事（一）.doc]([变身]_须构�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一对年轻情侣在遭遇感情挫折后选择把自己推向绝境，他们在一次跳楼未遂后，铤而走险参与了药物实验。这次实验引发了一系列超自然的变身与能力进化，女主角林小方最终变成了一滩史莱姆，获得强大的精神力，而男主角曾波则通过一系列的生死考验不断进化其能力。故事中的反派角色是须构医药公司的领导贾仁陆，他利用职权进行非法实验，企图征服世界。故事伴随着对爱、背叛和权力斗争的描绘，男女主角经历了感情的痛苦与成长，最终实现能力的合体，过上了幸福的生活。整个故事充满了惊险和奇幻的情节，涉及人体实验、性别转换、恋爱与复仇等多元化主题。显现了当代社会中对于性别、身份认同及自我价值的深刻探讨与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_须构医药公司的故事（一）.doc]([变身]_须构�
 | Size            | 47104 bytes                           |
 | MD5             | 760f0eca535b9a6276e85fdd5cb72d9d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 超自然能力, 药物实验, 精神力, 性别认同, 恋爱, 复仇, 人格转换, 权力斗争, 青春疼痛, 人体实验, 男娘, 女主转变, 心机婊, 反派角色, 精神暗示, 幸福结局                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

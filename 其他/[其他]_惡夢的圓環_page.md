@@ -7,7 +7,9 @@ TXT 下载: [[其他]_惡夢的圓環.docx]([其他]_惡夢的圓環.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《惡夢的圓環》是一部涉及伪娘和跨性别主题的小说，讲述了一位少女在睡梦中经历的一系列复杂情感和性别转换的情节。故事开始于两位少女在昏暗的房间中纠缠在一起，展现了亲密的身体接触和强烈的情感冲突。文中详细描述了学习者与学姐之间的互动，涉及了情感上的诱惑与身体上的挑战。
+
+随着情节的发展，少女从梦中惊醒，发现自己面临更为复杂的场景，学姐与她的室友纠缠在一起，引发了她对性别认同和自我欲望的深刻思考。梦中与现实的交错，加上不安与兴奋的心理描写，形成了一种混乱而又引人入胜的叙述。文本中包含了较为露骨的性描写与情感纠缠，体现了性别认同与欲望探索的主题，呈现了一种既美丽又痛苦的精神体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_惡夢的圓環.docx]([其他]_惡夢的圓環.docx)
 | Size            | 26598 bytes                           |
 | MD5             | 90a65bc7630c0b21363780b5cc053102                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 恶梦, 情感纠缠, 性别认同, 伪娘, 跨性别, 性转, 自我探索, 强烈欲望, 青春期困惑, 学姐与学妹                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

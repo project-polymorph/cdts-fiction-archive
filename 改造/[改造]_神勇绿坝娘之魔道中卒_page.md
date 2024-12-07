@@ -7,7 +7,7 @@ TXT 下载: [[改造]_神勇绿坝娘之魔道中卒.docx]([改造]_神勇绿坝
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于名为米歇尔·帕克的特工和她的同事萨曼莎·吉布森的故事。故事从米歇尔接到上级阿丽·伯恩斯的电话开始，阿丽告知米歇尔，即将恢复工作的萨曼莎将被调入她的部门。萨曼莎是一名经验丰富的特工，但在一次任务中受了重伤，经历了变性手术，正在恢复期间。文中通过米歇尔对萨曼莎的档案的了解，展现了萨曼莎的经历和能力，同时也描绘了她在特工局的背景与人际关系。主要情节围绕着米歇尔的种种思考与决定，以及米歇尔与萨曼莎第一次见面的情景，展现了两名女性特工的工作与生活。文中提到了许多与性别认同和自身身份有关的元素，同时包含了一些特工局内部的工作动态与角色互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_神勇绿坝娘之魔道中卒.docx]([改造]_神勇绿坝
 | Size            | 181232 bytes                           |
 | MD5             | 6f652ae0050349ac0407f06dfd87401a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 特工, 跨性别, 性别认同, 职场故事, 女性特工, 身份探索, 变性, LGBT, 友情, 职业挑战, 二次元, 魔法, 奇幻, 科幻, 故事情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

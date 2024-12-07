@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_油田·暗夜卫队2.docx]([皮物]_油田·暗夜卫队2
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇描绘伪娘与变装主题的小说。故事围绕主角王建国展开，他在一次意外中被警察找到了冒用他人驾驶证的行为。在警方的玩弄之下，王建国经历了一场混乱而又尴尬的对话，警察表现出对他的变装身份的兴趣，并要求他执行一项艰巨的任务，内容涉及穿上一副‘美女人皮’。主角的心理描写展现了他对变装与身份的复杂感受，例如紧张、羞愧与期待交织的情绪。在故事中，不乏幽默与讽刺的元素，例如王建国与警察之间的对话展示了角色间的权力与身份的趣味冲突，以及社会对于性别与角色的刻板印象。整个情节虽然带有一些限制级的内容，但同时也揭示了关于性别认同与自我探索的深层主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_油田·暗夜卫队2.docx]([皮物]_油田·暗夜卫队2
 | Size            | 26190 bytes                           |
 | MD5             | 75f0c856f088b6fec282701aef51d27a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 人皮, 自我探索, 警察, 性别认同, 幽默, 任务, 冒充, 小说, 腐女, 变身, 调教, 奇幻, 妖娆, 变妆, 角色扮演, 社会讽刺                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【翻译】法术反斗城：追求干净.docx]([变身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《法术反斗城：追求干净》的跨性别题材小说，剧本围绕一名网络设计公司老板约翰的日常生活展开。故事开头，约翰处理公司的事务，并对辞职的女员工安琪感到遗憾，她的离去源于同事格雷格的不当行为，后者对工作环境的侵害让人愤慨。随着故事的发展，约翰为了改善公司的卫生环境，偶然进入了一家名为“法术反斗城”的古董店，并与一位自称为男巫的老人展开对话。老人向他推荐了一种神秘的清洁剂，声称它能对精液产生反应，帮助解决约翰的困扰。故事深刻探讨了性别认同、个人道德与职业伦理，展现了角色对自我内心世界的思考与转变。文中涉及性相关情节，细腻而大胆。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【翻译】法术反斗城：追求干净.docx]([变身]_
 | Size            | 49866 bytes                           |
 | MD5             | e8054075bfdf754331a25fb648f73474                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ElrodW                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 性别认同, 性转, 强奸, 男巫, 魔法, 清洁剂, 工作环境, 自我探索, 道德困境, 古董店, 女性职员, 网络设计                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

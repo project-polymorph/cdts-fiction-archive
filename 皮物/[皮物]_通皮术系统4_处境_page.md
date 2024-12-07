@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_通皮术系统4_处境.docx]([皮物]_通皮术系统4_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一个名为林龙的角色，经历了性别转换后以一个名为陈丽莎的女学生身份生活在一个充满修正力的世界中。林龙意识到自己无法被周围人察觉，且处于一种透明状态，因此开始探索这种身处不属于自己身份中的困扰与挑战。在校园里，林龙试图通过这一身份进行一些坏事以测试世界的修正力，同时也不断思考自己的存在与真实身份之间的矛盾。文件详细描绘了林龙如何在学校生活以及他对周围环境和人的观察，展现了他内心的不安与挣扎。文本中涉及校园生活、角色认知、外部监控、性别与身份认同等主题，文中描绘了林龙的心路历程与对社会规范的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_通皮术系统4_处境.docx]([皮物]_通皮术系统4_�
 | Size            | 23974 bytes                           |
 | MD5             | d5aa942089e3c186149eff8185103adc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 校园生活, 角色身份认同, 内心挣扎, 监控与隐私, 奇幻, 二次元, 伪娘, 变身, 超能力, 性别探索, 虚幻与现实, 社会规范挑战, 青春期困惑, 性别认同, 转变过程, 校园奇幻, 心理描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_美少女的自我改造（五）.docx]([改造]_美少女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转变的小说，讲述了一名名为魏铁柱的男性角色沈梦雨在幻想中经历身体变化并变为美少女的故事。故事的开头，魏铁柱幻想着自己是美少女，并尝试模仿女人的动作，在心理与生理上获得了强烈的满足。然而，看到镜子中自己性别角色的真实模样却感到厌恶，迫切希望能变成真正的美少女。随着故事的发展，魏铁柱在使用手机程序改变自身数据后，经历了身体的性别转化，从男性变为女性，描绘了其由男向女变化过程中的心理波动和身体的变化细节，包括生殖器官的变化、胸部的发育等。文件内容涉及多次自我认知的挣扎与兴奋，同时带有色情倾向的描写，表现了性欲与身份认同的复杂关系。故事在情节设置上包含了大量露骨的性暗示与生理变化的细节，也是对性别和性欲交织关系的一次探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_美少女的自我改造（五）.docx]([改造]_美少女
 | Size            | 18517 bytes                           |
 | MD5             | cd474a9fec4c91828e3f9c793dca5d0e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 美少女, 心理挣扎, 性欲探索, 自我认同, 跨性别, 幻想, 生理变化, 性别认同, 身体转变, 伪娘, 男娘, 变身小说, 二次元, 性刺激, 强烈兴奋, 自我慰藉, 美丽的少女, 性别角色, 淫荡思想, 虚拟现实, 青春, 内心冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

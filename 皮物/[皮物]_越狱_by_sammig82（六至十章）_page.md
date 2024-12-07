@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_越狱_by_sammig82（六至十章）.docx]([皮物]_越狱
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《越狱》是伪娘 TS 变身与跨性别相关的小说的一个章节，主要围绕瑞秋·威尔逊和她母亲凯瑟琳·威尔逊在家中遭遇黑手党入侵的情节展开。故事开始时，17岁的瑞秋被一名强壮的男性袭击者抓住，试图进行强暴，而她的母亲凯瑟琳在这个过程中被绑住，无助的目睹着女儿的遭遇。情节中充满了恐怖和绝望感，同时也夹杂着对角色内心挣扎的描写。随着情节的发展，攻击者的身份逐渐揭晓，角色们之间的身份交换和互动使得故事显得更加复杂。虽然故事包含了大量的色情和暴力内容，但同时也引入了角色扮演和自我认知的主题，突出角色在极端情况下的应对方式和情感波动。这些情节充满了挑衅性，挑战了传统道德观念，并体现出对跨性别及性别认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_越狱_by_sammig82（六至十章）.docx]([皮物]_越狱
 | Size            | 61977 bytes                           |
 | MD5             | c5ea821854fe47390c3722dde91d932e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | sammig82                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 家庭入侵, 强奸, 角色扮演, 人质, 黑手党, 自我认知, 身份交换, 情感冲突, 悲剧, 恐怖, 性别认同, 母女关系, 暴力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

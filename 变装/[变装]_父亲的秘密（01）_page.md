@@ -7,7 +7,7 @@ TXT 下载: [[变装]_父亲的秘密（01）.docx]([变装]_父亲的秘密（0
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于变装和性别认同的长篇小说，主要讲述了主人公李牧与其父亲李剑飞之间复杂的家庭关系和逐渐揭露出的父亲的秘密。故事从李牧放学回家开始，他发现父亲变得开心，与往日的沉闷形成强烈对比。通过对话可以看出，李剑飞并未如表面上所展示的一样正常，而是和一个同班同学的联系使得他逐渐改变，甚至连穿着也显得格外不自然。文中提到李昔日怀抱的对父亲的期望和对家庭的责任感，然而随着故事的推进，李牧逐渐察觉到父亲的不寻常，最终揭开了父亲作为女总裁的身份以及与男人的复杂关系。这是一部探讨性别认同与家庭关系的小说，同时融合了变装与变性主题，涉及多重社会和心理问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_父亲的秘密（01）.docx]([变装]_父亲的秘密（0
 | Size            | 18345 bytes                           |
 | MD5             | e29ceafa5b47c7b96b8c179dc910c8fe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 父子关系, 自我探索, 性别认同, 女总裁, 家庭秘辛, 长篇小说, 二次元, 变身, 情感纠葛, 心理冲突, 强迫, 调教, 爱情, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

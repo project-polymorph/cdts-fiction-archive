@@ -7,7 +7,7 @@ TXT 下载: [[附身]_灵魂管理器新篇章02.docx]([附身]_灵魂管理器�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇跨性别相关小说的片段，描绘了两个角色李佳雯和另一名男性角色之间的互动。故事设定在一个普通的周末，男主角和李佳雯相约在小区，过程充满了轻松幽默的对话和潜在的暧昧情感。李佳雯的形象被细腻地描绘，穿着时尚，展现出女性的优雅与魅力。该文段着重展示了角色间的情感交流，以及在某种程度上，与灵魂转移相关的幻想，李佳雯表示她有一台名为“灵魂管理器”的设备，可以让灵魂附在他人身体上。这引发了男主角的好奇与紧张，情节逐渐发展，可能涉及超现实的性别认同与身体的探索。文本中夹杂了一些关于成人向内容的暗示，涉及性别与自我认知的主题，整体风格轻松幽默却又带有深邃的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_灵魂管理器新篇章02.docx]([附身]_灵魂管理器�
 | Size            | 25779 bytes                           |
 | MD5             | 3d5756a17c7b989f9c8cc8a234a4e126                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | TS, 跨性别, 伪娘, 灵魂转移, 自我探索, 青春, 情感交流, 奇幻, 二次元, 变身, 轻小说, 性别认同, 魔法, 都市幻想, 宅文化, 游戏, 女性视角, 爱情, 成长, 心灵旅程                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

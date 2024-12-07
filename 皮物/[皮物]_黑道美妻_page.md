@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑道美妻.docx]([皮物]_黑道美妻.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《黑道美妻》是一个围绕黑社会大哥豹哥及其妻子李婉生活的小说，故事情节复杂且涉及多种性别与性别转换的主题。文件开头讲述了豹哥与李婉之间的关系及他们的生活环境，展示了黑道斗争与家庭生活的交织。豹哥对外是一个呼风唤雨的黑社会头目，但在妻子面前则显得朴实无华，夫妻之间的交流体现了李婉的智慧与支持。随着情节的发展，李婉在家中独处时，展开了一段独自的内心探索，事关婚姻和性的自我认知与欲望。文件中详细描述了李婉在浴室的私密情趣行为，暗示了其身份的复杂性及对性别角色的挑战。最终揭示李婉的身份实则为一个男人假扮的角色，表现出对性别身份与伪装的深度探索。整篇文章通过细腻的描写，展示了人性、欲望与性别认同相结合的复杂性，是一部涉及性别、伦理和黑道文化的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑道美妻.docx]([皮物]_黑道美妻.docx)
 | Size            | 21042 bytes                           |
 | MD5             | 5965409930c80a5adef0097bff3d8ce8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 黑道, 浪漫, 情趣内衣, 家庭关系, 性别认同, 性欲探索, 身份伪装, 都市生活, 情感纠葛, 强烈性暗示, 心理冲突, 江湖情义, 隐秘生活, 禁忌关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

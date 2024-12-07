@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【幻剑有情·青楼有义】（7-8）.doc]([交换]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一部描绘伪娘与跨性别主题的小说的章节内容，主要讲述了朱洪峰重回新苑楼后，处于一个复杂的权力与情感纠葛中。故事描绘了朱洪峰在翻译梵文罪奴证据的过程中，与身为“李大人”的权贵李泰之间微妙的关系。她必须伪装自己以获得李泰的信任，过程中揭示了权力与性别的碰撞。文中描述了朱洪峰在情感上的挣扎，以及她对未来命运的不安。叙述中涉及权力、性别认同及双修修炼等主题，同时含有一些强烈的情感及权力斗争的场景，突显出个人在社会压迫下的无奈与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【幻剑有情·青楼有义】（7-8）.doc]([交换]_�
 | Size            | 49664 bytes                           |
 | MD5             | 57d8476c5c5fd1f7c13fea9e6f68585c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 双修, 古代, 权力斗争, 自我认同, 情感纠葛, 青楼, 性别转换, 罪奴, 强权压迫, 女性视角, 情欲, 后宫, 乱伦, 变嫁, 黑帮, 豪门, 青春期, 成长, 幻想文学, 情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

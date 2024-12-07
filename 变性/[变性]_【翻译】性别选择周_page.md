@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】性别选择周.docx]([变性]_【翻译】性
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档探讨了人类与动物在性别选择能力上的差异，特别是性别转换的科学和社会背景。文中提到人类天生具备选择性别的能力，通过切除男孩的睾丸，可以在青春期之前实现性别转换，进而开始产生雌性激素。这一过程被称为“女性化”。文中还分析了历史上社会如何普遍遵循性别分配的传统做法，以及近现代如何响应性别选择的需求，特别是二战后小家庭的兴起使得性别选择政策变得越来越重要。文中引用了犹太教和基督教的创世故事，将这些与性别选择的历史和社会背景连接起来。澳大利亚作为实施性别选择政策的先锋国家，设定了“性别选择周”，在这个时期为男孩提供选择性别的机会，但也存在诸多社会争议和伦理问题。文末讨论了社会宣传如何影响男孩对性别身份的认同，以及政府如何管理性别分配，以达到理想的性别比例。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】性别选择周.docx]([变性]_【翻译】性
 | Size            | 50549 bytes                           |
 | MD5             | 44fba31e04ccdb89b8ab0d32ff65c647                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别选择, 变性, 青春期, 女性化, 性别认同, 社会伦理, 教育宣传, 性别比例, 生育率, 历史制度, 性别转换, 人类与动物差异, 政府政策                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

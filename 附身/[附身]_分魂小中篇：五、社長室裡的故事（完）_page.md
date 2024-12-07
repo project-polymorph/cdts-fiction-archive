@@ -7,7 +7,7 @@ TXT 下载: [[附身]_分魂小中篇：五、社長室裡的故事（完）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件主要内容为一篇描绘超现实主义性别转换故事的小说。故事的主角草薙康雄具备灌入灵魂的能力，通过这个超能力，他能够控制他人，尤其是他公司的社长藤松亚希子。故事发展中，草薙利用这一能力设计出一套升职计划，操控社长和秘书，实现了对公司的完全控制。小说详细描绘了他们之间的性关系，涉及性别认同和角色扮演的主题以及多个性场景，具有强烈的性暗示和露骨的描写，比如：“我是一隻母豬！同時也是草薙大人的奴隸！噗噗！”也通过主角的转变，探讨了自身认知与他人认知的冲突。整篇小说以轻松幽默的语气描绘了富有戏剧性的情节，最终主角通过各种操控实现了对公司的领导权。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_分魂小中篇：五、社長室裡的故事（完）.doc
 | Size            | 19222 bytes                           |
 | MD5             | 3d35b4153e44af3f0b1ac754b6e1b95f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ecvt                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 职场爱情, 灵魂灌入, 权力游戏, 老板与下属, 反差萌, 他人操控, 社长, 秘书, 双重身份, 性别流动, 幻想, 情色小说, 强و制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

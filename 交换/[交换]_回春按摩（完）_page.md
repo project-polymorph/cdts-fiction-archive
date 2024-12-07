@@ -7,7 +7,7 @@ TXT 下载: [[交换]_回春按摩（完）.doc]([交换]_回春按摩（完）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《回春按摩》小说，作者人生万花筒，讲述了一名年轻男生赵亮在一家特殊按摩店的经历。故事开始时，赵亮因为毕业而感到迷茫，偶然路过勾栏巷，被引入一家名为回春按摩的店。在店里，他遇到了按摩师兰兰，兰兰的清新形象让赵亮心生好感。在进行按摩的过程中，赵亮体验到了身体和心理的双重放松，但梦中奇异的经历引发了他对自己性别认同的深刻思考。文件中包含了对性转、跨性别的详细描写，展现了角色在身份认同和身体体验上的复杂心路历程。内容涉及性暗示和成人情节，适合成年读者阅读，尤其对于研究性别与身份主题的人士具有较高的参考价值。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_回春按摩（完）.doc]([交换]_回春按摩（完）.
 | Size            | 48128 bytes                           |
 | MD5             | a708521f2ed6519c7c72b5b9e703efd9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 人生万花筒                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 按摩, 跨性别, 性转, 自我认同, 梦境, 青春, 职业迷茫, 情感纠葛, 心理探索, 性意识, 成人内容, 二次元, 秋冬季                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

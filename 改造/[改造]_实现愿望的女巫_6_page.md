@@ -7,7 +7,7 @@ TXT 下载: [[改造]_实现愿望的女巫_6.doc]([改造]_实现愿望的女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转换和跨性别主题的小说，名为《实现愿望的女巫》，属于伪娘和变身类题材。故事的主角白雪在迷路后遇到了一群矮人，他们非常热情地邀请白雪做客，并且一同畅饮。随着故事的发展，白雪发现自己在森林中遇到的女巫似乎与她的命运息息相关，女巫教给她一种“吸收精液变美丽”的魔法，这反映出角色内心的挣扎与自我认同的过程。小说的情节充满了奇幻色彩，白雪在醉酒后被矮人们拉着参加舞会，享受短暂的愉快时光。后半部分则透露出白雪被迫寻求女巫的帮助以实现自己的愿望，并面临着一些独特而尴尬的情境。作品可能会涉及一些限制级与性相关的内容，反映出角色对自我认知的探索与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_实现愿望的女巫_6.doc]([改造]_实现愿望的女�
 | Format          | Microsoft Word Document                               |
 | Size            | 35328 bytes                           |
 | MD5             | fcb00f883401936f1aebfa56a038948f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 矮人, 自我探索, 魔法, 爱与欲望, 奇幻生活, 伪娘小说, 二次元, 变嫁, 吸收精液, 性别认同, 酒精影响, 童话风格, 荒诞幽默, 友谊与冒险, 性教育                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

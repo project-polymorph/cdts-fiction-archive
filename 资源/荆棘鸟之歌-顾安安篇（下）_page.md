@@ -7,7 +7,7 @@ TXT 下载: [荆棘鸟之歌-顾安安篇（下）.doc](荆棘鸟之歌-顾安�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《荆棘鸟之歌-顾安安篇（下）》，主要描绘了角色顾安安与安北之间复杂的心理和身体交互。故事中，顾安安的意识与安北的意识交融，形成了独特的自我认同冲突。安北逐渐接受了顾安安的身份，影响着自己原有的记忆与认知，经历了迷失和重新塑造的过程。文本中充满了对家庭温馨的渴望与对完美的自我消融，顾安安和安北在交互中探索着彼此的身份，迷失与寻找之间的纠葛令人深思。例如，安北的心理活动中表现出对顾安安的羡慕：“她的完美，或许是真正的完美。”而顾安安则尝试影响安北，最终迫使他忘却自身的过往，成为她的一部分。这种意识层面的探索伴随着身体的感知交融，使得故事充满心理的紧张与复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [荆棘鸟之歌-顾安安篇（下）.doc](荆棘鸟之歌-顾安�
 | Size            | 39936 bytes                           |
 | MD5             | d3b0020602029d2dfa1c3cbabef73a78                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 心理交互, 意识融合, 角色转换, 完美主义, 孤独, 家庭, 身份危机, 强制认同, 温馨家庭, 二次元, 跨性别, 青春, 魔法少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【翻译】那之后.doc]([交换]_【翻译】那之后.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《那之后》是一篇围绕两位角色和马与景子重聚对话的小说，描绘了他们在分别多年后的重逢与彼此的改变。故事开始于一家安静的餐厅，阳光透过窗帘洒在顾客身上，气氛略显冷清。和马的形象是个穿着西装的年轻男性，景子则是一位穿着浅茶色连衣裙的女性。两人曾经是同学，在彼此的外貌和气质之间，隐约展现出他们经历性别转换的痕迹。对话中，两人逐渐回忆起过去的岁月，谈到家庭情况和彼此的变化，愈发感觉到彼此身上的不同与融洽的联系。特定的场景和细腻的心理描写，让他们的重逢显得感慨万千，透出性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【翻译】那之后.doc]([交换]_【翻译】那之后.
 | Size            | 64512 bytes                           |
 | MD5             | 822992f14961f0b3cec384f614279741                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 角色重聚, 午餐约会, 心理描写, 社会交往, 普通生活, 变化与成长, 隐喻与象征, 亲密关系, 性别转换, 跨性别小说, 人际关系, 青春回忆, 生活琐事, 交流与理解                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

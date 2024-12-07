@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮之使徒】『大结局』.doc]([皮物]_【皮之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为小说《皮之使徒》的大结局部分，内容围绕一名名叫文玉的女性角色展开。故事发生在一个寒冷的冬夜，文玉作为新任文处长，驾驶银色雪铁龙轿车回家，却因忘带钥匙，临时借住朋友家。文玉的形象迷人，她在开车过程中展现出大胆的性格，后续情节则描绘出她在房中与几名女子发生亲密关系，涉及性暗示和变身元素，特别是文玉在穿戴女性人皮后，依然具有阳物，反映出角色的性别流动和身份转变的主题。文本充满了性暗示与挑逗情节，人物之间的互动强烈且富有冲突，具有一定的成人内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮之使徒】『大结局』.doc]([皮物]_【皮之�
 | Size            | 33792 bytes                           |
 | MD5             | b8592bd862feafc1d1bbd4bc9d492257                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 变身, 都市, 强奸, 调教, 乱伦, 逆后宫, 女体化, 百合, 成人内容, 情感探索, 性别认同, 自我探索, 变嫁, 魔法, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

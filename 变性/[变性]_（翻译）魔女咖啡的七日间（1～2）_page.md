@@ -7,7 +7,7 @@ TXT 下载: [[变性]_（翻译）魔女咖啡的七日间（1～2）.docx]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为翻译的小说《魔女咖啡的七日间》，内容主要围绕男主角挂川君在与同班同学富士君的邀约下，首次来到一家特殊的咖啡厅，之后发生的一系列奇幻和性别转变的故事。在咖啡厅遇到的一位名为“小步”的女服务生引发了男主角的身体和心理的巨大变化，身为男生的他开始体验到女性的生理特征，并陷入与小步的强烈性行为中。小说逐步描绘了男主角在咖啡厅的异世界体验，以及对自己性别身份的困惑与探索，内容中包含对身体变化的描述和与“阿步”的多次性接触。通过这些情节，作品探讨了性别认同、自我探索和欲望等多个复杂主题，同时包含了一些成人向的情节与描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_（翻译）魔女咖啡的七日间（1～2）.docx]([变
 | Size            | 20261 bytes                           |
 | MD5             | c9a48db97bcb1fef6a13a9d596740fed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 性别认同, 青春爱情, 二次元, 魔法, 风俗店, 欲望探索, 自我认知, 幻想, 强奸, 年龄差, 调教, SM, 多人, 逆后宫, 身体交换, 异世界, 病态, 青春期的迷惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

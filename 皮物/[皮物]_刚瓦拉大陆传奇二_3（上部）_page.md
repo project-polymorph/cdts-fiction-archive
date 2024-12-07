@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_刚瓦拉大陆传奇二_3（上部）.docx]([皮物]_刚�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇性转与变身题材的小说，设定在一个名为刚瓦拉的大陆，故事围绕伪帝古尔德夺权后的帝国动荡时期展开。在这一年春天，发生了人民的武装起义，伪帝调集军队镇压，但因士兵多半同情人民而未能成功镇压。主线人物包括南部军区的统领卡尔文森与他的宠姬艾薇尔，故事中描绘发生在加利亚城市的权力斗争与人物情感变化。在描述中，卡尔文森为艾薇尔赠送豪华庄园，而艾薇尔为招募女仆与新生活而进行的一系列互动，包括与女仆伊芙的关系进展，情节中暗示涉及情欲和自我探索的主题。作品中包含了调教和逆后宫等复杂的人际关系，而伊芙作为女仆角色在其中展现出了对上层阶级文化的理解与适应。进一步的情节揭示伊芙与艾薇尔间的亲密关系，发展至多人情欲交织的情景描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_刚瓦拉大陆传奇二_3（上部）.docx]([皮物]_刚�
 | Size            | 20316 bytes                           |
 | MD5             | f0cf301c6d91e80817e7e08f6513e5be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 权力斗争, 变身, 爱情, 调教, 逆后宫, 剧情发展, 奇幻, 冒险, 自我探索, 艾薇尔与伊芙的关系, 魔法, 二次元, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

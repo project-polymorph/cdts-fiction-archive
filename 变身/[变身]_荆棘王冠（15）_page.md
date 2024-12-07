@@ -7,7 +7,7 @@ TXT 下载: [[变身]_荆棘王冠（15）.docx]([变身]_荆棘王冠（15）.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《荆棘王冠》的第十五章，描绘了主人公爱丽丝在宾馆中经历内心的洗礼，然后走出宾馆展开心理状态的变化。章节开头通过描述潘诺尼亚的冬天环境，展现了外部冷风对角色情绪的影响。爱丽丝在考场内外与其他女学生的互动中，体现了她作为一个曾经男性的角色心理和情绪的复杂性。在招生活动中，爱丽丝成功使用魔法，引起考官的惊讶，且通过这种能力获得了奖学金。文本中不仅含有魔法与贵族间的互动，亦反映了年轻女性角色之间的微妙关系与感情发展，展示了女孩子们的娇羞与争锋。同时该章节还带有一些轻松幽默的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_荆棘王冠（15）.docx]([变身]_荆棘王冠（15）.d
 | Size            | 19542 bytes                           |
 | MD5             | d23a1b7f792938b091a48ebde4b4f5ab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法, 跨性别, 女装, 学院生活, 青春恋爱, 法术施展, 角色发展, 自我认同, 少女互动, 魔法学院, 古代奇幻, 自我探索, 禁忌恋情, 校园生活, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[附身]_被附身的女友——加奈.docx]([附身]_被附身的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《被附身的女友——加奈》，是一篇以性转和斜向关系为主题的短篇小说，字数约5000。小说围绕男主角莲太和他的女友加奈展开，叙述了加奈的身体被幽灵附身的情节。故事开始于莲太前往加奈公寓接她上学，却意外发现加奈在家中以一种出人意料的姿态迎接他，展现了一种调皮且暧昧的气氛。
+
+小说通过加奈的幽默对话和双关语逐步营造出紧张而又有趣的情节。加奈在和莲太的对话中不经意间点出自己是被幽灵凭依的事实，并引导其展开一系列轻松幽默的情节，其中不乏性暗示和暧昧的举动，加深了两人关系的层次。在轻松诙谐的外表下，小说也涉及到了身体认同和角色扮演等深层主题，引发读者对于性别认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_被附身的女友——加奈.docx]([附身]_被附身的
 | Size            | 35338 bytes                           |
 | MD5             | 4e8bc844d6a29072dbddf2e762e5e403                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 幽灵附身, 校园恋爱, 男主角莲太, 亲密关系, 二次元, 欢喜冤家, 恋爱喜剧, 自我认知, 性别探索, 调皮, 幽默对话, 胸部尺寸讨论, 美少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

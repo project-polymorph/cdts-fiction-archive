@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我和老师的换头游戏——最终日_归于日常.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是《我和老师的换头游戏——最终日》的小说，讲述了一位男高中生金谷弥城与其女教师银崎初芽之间通过一场头部交换游戏而展开的奇异故事。在这个游戏中，金谷与老师在七天内必须隐藏他们的性别变化，否则将遭受惩罚。故事中，金谷渐渐意识到他的女朋友铁桥凉那的真实意图，以及与老师之间产生的微妙情感。文中包含了金谷与老师日常的互动和他们在商场中的情景，讨论着解决游戏惩罚的方法，穿插了许多内心斗争。当金谷在一个可爱的连衣裙中与老师一同逛商场时，他感受到了一种奇妙的自我认同感，而老师则故意撩拨金谷的情感，制造了更多的心理冲突与探讨。整部小说不仅探讨了性别认同的问题，还有关于爱的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我和老师的换头游戏——最终日_归于日常.do
 | Size            | 41509 bytes                           |
 | MD5             | 99d4a7f47223f6997f3e33d2aa8647d3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 青春校园, 奇幻, 爱情, 游戏, 心理探讨, 师生恋, 自我探索, 女性视觉, 魔法, 异性换身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

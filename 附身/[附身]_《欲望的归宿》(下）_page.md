@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《欲望的归宿》(下）.docx]([附身]_《欲望的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《欲望的归宿》(下) 描绘了一个围绕角色性别转变与跨性别性爱的故事。文中描写的角色椿是一个生理上为男性的变身者，以女性偶像的形象出现，展现了强烈的性暗示和与男性角色拓也之间的亲密互动。故事采用了第一人称视角，通过细致的生理描写和心理刻画，展现了性别认同与欲望交越的复杂情感。在该段落中，椿通过言语刺激拓也的性欲，并最终与其发生生理上的亲密关系，展现了对性与身体的探索。文章的内容涉及强烈的性爱描写，以及对男性与女性身体特征的深度融合与颠覆，如“我的K罩杯乳房，被你的精液弄得又稠又黏的”等细节，通过感官体验传达出一种强烈的性快感与羞耻感交织的情绪。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《欲望的归宿》(下）.docx]([附身]_《欲望的�
 | Size            | 38758 bytes                           |
 | MD5             | 88d199d6ba766e123b27f41080acc224                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身小说, 色情内容, 幻想小说, 伪娘, 男娘, 性别认同, 自我探索, 强制性交, 年龄差, 大量精液, 偶像文化, 调教, 女性视角, 少年, 异世界, 双性, 粗大阴茎, 强奸, 多重幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

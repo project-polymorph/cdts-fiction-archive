@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_奈情伤.docx]([皮物]_奈情伤.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《奈情伤》是一部结合了穿越、变身及奇幻元素的小说，讲述了角色林雨莫在野外迷路后的冒险经历。故事开篇，林雨莫因旅行社的失误被困于森林，面临生存挑战，而在追逐一只受伤兔子的过程中意外发现了一道光亮，暗示着他将进入一个不一样的世界。随着情节的发展，林雨莫逐渐意识到，他可能身陷于两个神秘人物的争斗中，尤其是与一个气质非凡的女子之间的相遇，为故事增添了紧张和悬念。其中，具有生动的描述和角色内心的冲突，增添了读者的代入感。整体而言，这部作品融合了现代与幻想的元素，表现了角色面对困境时的勇气与智慧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_奈情伤.docx]([皮物]_奈情伤.docx)
 | Size            | 26268 bytes                           |
 | MD5             | f1a8f21edb93873b0a4fd3c4362c1fb5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 穿越, 奇幻, 变身, 冒险, 生存, 角色探索, 情感纠葛, 森林求生, 两个世界, 神秘对决, 魔法, 自我认知, 光明与黑暗的较量, 日常与非日常的交汇, 青春成长, 内心斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

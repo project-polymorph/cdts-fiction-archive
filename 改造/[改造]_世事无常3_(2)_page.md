@@ -7,7 +7,7 @@ TXT 下载: [[改造]_世事无常3_(2).docx]([改造]_世事无常3_(2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说是关于一个名为温蒂的角色与玛莎拉的冒险故事。温蒂已经转变为女性身份，她和玛莎拉一起逛新宿，享受着日式怀石料理并探索新的体验。随着故事的发展，她们探讨了歌舞伎町的意味和性质。温蒂在面对玛莎拉的脆弱自我认知时表现出某种孩童般的好奇，而玛莎拉则表现出强烈的主导欲，特别是在涉及到身体改造和穿着选择时。文中提及了玛莎拉对温蒂的改造想法，以及她们对风尘场所的反应，这反映了角色之间复杂的权力动态和情感纠葛。文本将个人认同与外界期望之间的斗争描绘得淋漓尽致，同时也展现了二次元文化的多样性。整体的风格带有浓厚的成人向与美学的结合，挑战着传统的性别角色。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_世事无常3_(2).docx]([改造]_世事无常3_(2).docx)
 | Size            | 38873 bytes                           |
 | MD5             | 444baf1e954b345f07487a8ff8c115a0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 角色变身, 骑士与少女, 日本文化, 性转, 百合, 跨性别, 成人美学, 新宿, 奇幻, 身体改造, 情欲, 角色扮演, 诗意散文, 东亚二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

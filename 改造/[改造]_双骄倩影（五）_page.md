@@ -7,7 +7,7 @@ TXT 下载: [[改造]_双骄倩影（五）.doc]([改造]_双骄倩影（五）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《双骄倩影（五）》主要围绕两个角色陈影和金亮展开，他们在警局中讨论与一个失踪人员有关的调查情报。陈影受到金亮的信任，展现出对哥哥失踪的深切关心。此外，文中涉及陈文源的心理变化和性别转换经历，体现了对身份认同的探索，以及虚拟技术对角色内心的影响。随着情节发展，陈文源被描绘为承受着身体与心理的双重压迫，逐渐接受了自己新的身份，而这一切都被小说中大量涉及的性暗示和调教情节所包围。文中描写了大量关乎性和自我认知的心理冲突，以及与家庭成员间复杂的情感纽带。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_双骄倩影（五）.doc]([改造]_双骄倩影（五）.
 | Size            | 41472 bytes                           |
 | MD5             | ca85cdb575696479f77d580ab7aa031c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 虚拟现实, 心理冲突, 身份认同, 调教, 兄妹关系, 性别转换, 色情内容, 自我探索, 情欲, 强奸, 禁忌关系, 逆后宫, NTR, 药物, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

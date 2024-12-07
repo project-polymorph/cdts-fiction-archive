@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_异世界居民的享乐之旅.doc]([皮物]_异世界居�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部涉及性别转换和超自然能力的异世界小说。故事的主角是一个普通的男大学生，他意外来到一个充满剑与魔法的异世界。在这里，他感到自己身处一个被种族与语言不同所困扰的残酷世界，因而他萌生了毁灭的想法。然而，在经历了生命的威胁后，他觉醒了一种掌控他人灵魂的能力，开始把异世界的居民视为玩具，肆意进行各种享乐行为。小说描绘了诸如插手他人身体、夺取灵魂、并体验其他角色的身份等情节，伴随着对自我认知的复杂描写。在这个故事中，主要角色进行了灵魂的交换与操控，同时也引入了涉及魔女与可爱的少女角色间的复杂互动与冲突。此作品内容露骨，涉及了许多性暗示和不适合未成年人观看的情节，包括强制性行为等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_异世界居民的享乐之旅.doc]([皮物]_异世界居�
 | Size            | 45056 bytes                           |
 | MD5             | ff242adc500b8a0090a04d25a0f66cc7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异世界, 性别转换, 灵魂操控, 变身, 魔法, 伪娘, 调教, 强制, 成人向, 自我认知, 超自然力量, 魔女, 精灵, 性暗示, 剧情中心, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

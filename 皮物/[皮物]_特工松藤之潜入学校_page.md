@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_特工松藤之潜入学校.docx]([皮物]_特工松藤之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档名为《特工松藤之潜入学校》，讲述了主角松藤绫子在一所普通高中的秘密任务。松藤表面上是一名普通的女高中生，但实际上她是一名特工，负责从学校窃取贪污证据。为了完成任务，她使用了特制的人皮套装和面具，伪装成其他女性。在故事中，松藤首先假冒一名女学生城间由纪，接近她的朋友村崎佳代，并在一个偏僻的厕所中对她实施了催眠和伪装。通过这种方式，松藤计划进一步接触更多的目标，展现了角色在性别和身份转换过程中的自我认知冲突和变化。
+
+文中详细描绘了松藤如何利用她的变装身份引导和操控他人，同时不乏对于性别和身体的探索，以及与目标人物之间的心理斗争。尤其是对于松藤伪装和操控的细致过程，展现了她内心的复杂情感。同时，文中涉及到的催眠、迷惑、剥夺他人意识等情节尤为令人震撼，反映出性别认同和权利的不平等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_特工松藤之潜入学校.docx]([皮物]_特工松藤之
 | Size            | 24631 bytes                           |
 | MD5             | a611aa9ba7422121a833e2ba8c37bb92                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 特工, 催眠, 变装, 性别转换, 自我认知, 校园, 女高中生, 变身, 身份伪装, 潜入, 淫荡, 调教, 强奸, 逆后宫, 奇幻, 成人向, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_弄假成真（一）.doc]([皮物]_弄假成真（一）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于性别转换与身份认同的小说，讲述了一个小混混赵金贵在一次盗窃中，意外误杀了一个陌生女子，发现她是房主周浩伪装而成。赵金贵随后穿上女子的人皮，变身为白富美曲晓涵。小说围绕曲晓涵利用其新身份进行诈骗的故事展开，并探讨了其在性别身份转换过程中的心理变化和认同危机。在享受奢华生活的同时，曲晓涵也面临着与同伴之间的权力博弈，最终导致了朋友的背叛和自我认同的崩溃。文中涉及一系列性别交错的情节，着重描绘了角色在身份交换中所经历的复杂情感，并加入了一些限制级的描述，使得故事更加曲折和引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_弄假成真（一）.doc]([皮物]_弄假成真（一）.
 | Size            | 40448 bytes                           |
 | MD5             | 06a61952e1c7926f18cad13496eb442a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 性别认同, 自我探索, 伪娘, 强奸, 逆后宫, 友情背叛, 身份认同, 奢华生活, 心理变化, 校园生活, 权力斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_哈利·波特与翡翠女巫的诅咒（四）4月4日更
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为小说《哈利·波特与翡翠女巫的诅咒》第四章的内容，主要讲述了女主角海瑟在面临生死危险时被德拉科·马尔福救助，双方关系进一步微妙发展。海瑟经历了一场冲突与内心挣扎，愤怒与迷恋交织，最终在焦虑与迷茫中迷失自我。她怀疑自己是否应当回应马尔福的关心，同时对自己的性别身份与变身带来的变化感到困惑。故事描述了学校生活中的复杂人际关系，特别是与罗恩和赫敏的交锋，以及对翡翠女巫黑暗思想的掺杂，让海瑟的情感更加复杂。文中充满了幻想与魔法元素，展现出变身与跨性别认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_哈利·波特与翡翠女巫的诅咒（四）4月4日更
 | Size            | 64512 bytes                           |
 | MD5             | f82d9be0d219149ada64769ab6cbabe4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 哈利·波特, 变身, 跨性别, 伪娘, 德拉科·马尔福, 海瑟, 校园恋情, 魔法, 性别认同, 情感冲突, 翡翠女巫, 自我探索, 复杂人际关系, 魔法学校, 幻想文学, 爱情, 情感迷失, 黑暗思想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

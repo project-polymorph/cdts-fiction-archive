@@ -7,7 +7,7 @@ TXT 下载: [[附身]_舰娘凭依记1-2（吹雪篇）.docx]([附身]_舰娘凭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《舰娘凭依记》是一本包含两部分的小说，围绕着年轻的舰娘“吹雪”的生活与经历展开。故事背景设在一座镇守府，舰娘们在提督的指挥下与敌方深海棲舰展开战斗。吹雪作为一个特型驱逐舰，性格温柔，奋发向上，她在战斗中取得了显著的成绩，令提督刮目相看，倍感欣慰。在这本书中，吹雪的日记记录了她与提督的相处点滴，以及她内心深处对于提督的崇拜和情感的纷杂。它展示了吹雪在情感与责任之间的挣扎与成长，但在风光背后，她的内心深处对性别认同的迷茫和探索也在悄然进行。小说的后半部分則描绘了她自己隐秘的一面，当她独自在房间中时，她开始探索自己的身体，享受着肉体的快感，表现出对身体的渴望与幻想。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_舰娘凭依记1-2（吹雪篇）.docx]([附身]_舰娘凭
 | Size            | 23197 bytes                           |
 | MD5             | c1a43ca86e4da312260474040f83ebae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 舰娘, 变身, 性转小说, 自我探索, 提督, 幽灵, 性感, 纯爱, 性别认同, 内心挣扎, 自我愉悦, 少女成长, 多元性别, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

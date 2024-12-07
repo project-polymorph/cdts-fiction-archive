@@ -7,7 +7,7 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第四节.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是“艳八仙系列”性转类小说的第四节，内容围绕主人公的家庭关系和性别认同展开。故事中，主人公回到家后发现父母的性别与自己的不同，并观察到父母在进行亲密行为，内心充满了混乱和惊讶。随着故事的发展，主人公与朋友布鲁之间逐渐发展出暧昧的关系，涉及强奸和复杂的家庭动态。整篇充满色情暗示与家庭冲突，描写了一种颠覆传统家庭观念的奇异爱情模式。此章节探讨了性别认同、自我探索和家庭结构的复杂性，并引入宗教的元素进行思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第四节.docx
 | Size            | 18996 bytes                           |
 | MD5             | 70a3a9c8346dab6ce64dee4c2cecca5f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | znznzn1984                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-09-11                                 |
+| Tags            | 伪娘, 跨性别, 变身, 家庭关系, 性别认同, 强奸, 调教, 乱伦, 双头龙, 逆后宫, 药娘, 特定族群, 家庭冲突, 自我探索, 性转, 异世界, 奇幻爱情, 非人化, 淫荡, 多元性别, 伦理问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

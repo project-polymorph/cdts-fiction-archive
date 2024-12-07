@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鹰枭乱第二部（六诱）.docx]([改造]_鹰枭乱第
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《改造_鹰枭乱第二部（六诱）》包含了一段围绕赵阳光和一名神秘男子之间关系的故事。赵阳光是一名警察，在执行任务过程中与一名盯上他的男子相遇。故事开头，赵阳光在街头回头时遇到了前日让他颜面尽失的男子，后者试图接近他并提出各种要求。赵阳光对男子的追求感到愤怒，并试图进行反抗，但随着故事的推进，他被迫接受了一项任务，需要进行女装打扮。男子随后跟踪并侵犯了赵阳光，期间用威胁的方式迫使他在被拍照后换上性感服装。在这个过程中，赵阳光的自我认知和性别身份受到挑战，展现了内心的挣扎以及对身份的困惑与不安。该文本展示了性别认同、权力关系和自我探索等主题，情节包含一定的性暗示和情欲描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鹰枭乱第二部（六诱）.docx]([改造]_鹰枭乱第
 | Size            | 18693 bytes                           |
 | MD5             | 22748b6d87de0615a5b5cd29f2b4f90b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变装, 性转, 强暴, 情欲, 权力关系, 自我认同, 性别困惑, 社会暗黑面, 城市生活, 警察, 美容院, 女装, 人物心理, 男性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

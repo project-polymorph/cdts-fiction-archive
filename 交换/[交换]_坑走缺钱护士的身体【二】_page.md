@@ -7,7 +7,7 @@ TXT 下载: [[交换]_坑走缺钱护士的身体【二】.docx]([交换]_坑走
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《坑走缺钱护士的身体【二】》是一篇围绕性别转换主题的小说，描绘了主角在变身为女性后的内心探索和感受。故事主要围绕主角李素儿的生活展开，她在工作中遇到了同事王晴，王晴对她的态度从过去的不屑变为了现在的亲昵，显示出主角性别转变后在社交关系中的变化。文件内容详细刻画了主角作为女性的身体感知以及心理状态，尤其在探索自我身体的快感时，表现出强烈的性别认同和自我欣赏。原文中有李素儿的多次内心独白，揭示出她对身体的陌生感与愉悦感的交织，并提到了亲密道具如卫生巾的必要性，这些都加深了作品的细腻与复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_坑走缺钱护士的身体【二】.docx]([交换]_坑走
 | Size            | 28462 bytes                           |
 | MD5             | 02f9e8b0088a5e6f7e4566712144ef41                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 性别认同, 变身小说, 自我探索, 女性身体, 护士, 情感纠葛, 校园, 强烈快感, 人际关系, 性别转换, 荷尔蒙, 禁忌之恋, 都市生活, 化妆, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

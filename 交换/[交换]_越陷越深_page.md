@@ -7,7 +7,7 @@ TXT 下载: [[交换]_越陷越深.doc]([交换]_越陷越深.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇描绘角色张灵面临婚姻危机，内心挣扎与自我认同的小说。故事开头，张灵的妻子李丽提出离婚，引发了他对婚姻与自我价值的深思。张灵年轻时的恋物癖和对女装的向往逐渐浮出水面，故事通过他对邻居叶欣的暗恋和日常相处，描绘了张灵在寻找自我的过程中所做的勇敢尝试。张灵在帮助叶欣通风的过程中，意外接触到她的女装，并踏上利用女装满足内心欲望的征途。文件描述了他的心理变化与情感冲突，刻画了他从男性身份向女性角色的转化与认同。这种性别角色的转换不仅是身体上的变身，更是内心深处对于自我认同的觉醒。特定情节涉及性别认同、恋物癖、角色扮演等主题，以及与之相关的心理冲突和社会压力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_越陷越深.doc]([交换]_越陷越深.doc)
 | Size            | 43008 bytes                           |
 | MD5             | 13b76ec07231f18f448fcdc742f74169                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 自我认同, 角色扮演, 婚姻危机, 精神探索, 恋物癖, 心理冲突, 二次元, 美少女系统                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

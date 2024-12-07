@@ -7,7 +7,7 @@ TXT 下载: [[变性]_新冠神皇.doc]([变性]_新冠神皇.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《变性_新冠神皇.doc》，内容围绕主角杜强对免疫体的追查展开，背景设定在新冠疫情发生后，故事中涉及公安侦查、身份追踪和疫苗研究等元素。杜强是一名从事刑侦工作的副局长，他面临着一起复杂的案件，涉及到免疫体的身份、行踪和他们可能的免疫能力。文中描述了杜强在深圳、香港等地进行调查的过程，体现了公安系统在处理突发疫情时的响应机制与技术手段，同时也引入了一些悬疑与紧迫感，例如：“智能手机信号的消失”，“目标的追踪困难”等情节。在携带着过去一段时间的轨迹信息与数据分析结果中，杜强努力寻找线索，揭示复杂的背后势力，以及那些因疫情而面临的道德与法律困境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_新冠神皇.doc]([变性]_新冠神皇.doc)
 | Size            | 87552 bytes                           |
 | MD5             | f4f45e737a05cd898c0334421ce42f83                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-01-01                                 |
+| Tags            | 变性, 新冠疫情, 疫情追踪, 公安侦查, 免疫体, 生物安全, 技术分析, 身份追踪, 悬疑, 疫苗研究, 医疗伦理, 刑侦, 都市情节, 二次元文化, 小说, 跨界小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

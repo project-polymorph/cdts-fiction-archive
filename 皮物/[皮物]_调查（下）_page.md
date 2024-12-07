@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_调查（下）.doc]([皮物]_调查（下）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一段以埃里克为主角的伪娘变身与跨性别相关的小说。故事描述了埃里克脱掉艾普丽尔的皮肤，试图以她的身份生活并控制她的财富。文件中细致地描写了埃里克在泡泡浴中的思考与自我认同的冲突，以及他对女性身份的渴望。同时，情节中出现了与丽塔的互动，围绕性行为与权力斗争展开，希冀通过获取艾普丽尔的身份来实现自己的计划。随着情节发展，跨性别与伪装技术的主题交织，展示了角色在性别认同与社会期待之间的挣扎。文件所涉及的情感、欲望、身份迷失等复杂主题，结合色情内容，呈现了一幅充满冲突与动态的画面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_调查（下）.doc]([皮物]_调查（下）.doc)
 | Size            | 33280 bytes                           |
 | MD5             | 614191f79ee283ac3ab849b71269e4ea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 欲望, 身份认同, 权力斗争, 性行为, 心理冲突, 二次元, 幻想, 魔法, 异性伪装, 情感纠葛, 自我探索, 克格勃, 豪门遗产                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

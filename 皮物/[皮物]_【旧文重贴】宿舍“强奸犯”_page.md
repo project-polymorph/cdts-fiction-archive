@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【旧文重贴】宿舍“强奸犯”.doc]([皮物]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描述了一个充满戏剧性和冲突的大学宿舍生活故事。故事的叙述者搬进了一个合租宿舍，原本的六名舍友中，有三名女生和三名男生。随着时间的推移，发生了一件不可思议的事情，舍友们的关系变得更加复杂。故事的核心事件发生在元宵节，男生阿威因汤圆中的药物影响，试图趁机对女生瑜进行性侵犯。叙述者在试图制止这一事件时，目睹了过激且不可接受的行为，内心充满纠结和愧疚。文本包含了一些危险与禁忌的主题，包括性侵犯、药物、性别身份与男性的兽性等，描绘出复杂的人际关系和情感冲突。在故事的最后，叙述者与瑜之间的关系也发生了变化，而阿威的一系列行为带来了难以弥补的后果。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【旧文重贴】宿舍“强奸犯”.doc]([皮物]_【�
 | Size            | 43520 bytes                           |
 | MD5             | 2bee6b606e1e367c43ed5f259c9b77f1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 强奸, 药物影响, 学生宿舍, 变身类小说, 生活戏剧, 性别冲突, 青春期探索, 情感纠葛, 禁忌之爱, 成年内容, 男女性关系, 校园生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

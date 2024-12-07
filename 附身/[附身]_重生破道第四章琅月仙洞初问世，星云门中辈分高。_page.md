@@ -7,7 +7,7 @@ TXT 下载: [[附身]_重生破道第四章琅月仙洞初问世，星云门中�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇虚构的小说章节，描绘了在星月王朝内，皇帝月濬锐与其兄弟淮南王月辰逸因权力与爱情发生冲突的激烈对话与战斗场景。在故事中，淮南王因对皇兄的轻视和对爱人叶珊儿的执念，决定与皇帝正面对抗。两位主角的对峙中充满了剑拔弩张的紧张气氛，尤其是兄弟之间的情感纠葛，以及对立的政治立场，逐渐发展为一场决定命运的比试。故事不仅突出武力的冲突，也展现了深层的亲情对抗。最终，双方在双方军队面前展开了一场武技比拼，月濬锐的法术和月辰逸的儒家道术交替激烈，形成了强烈的视觉冲击。最终的对抗以地动山摇、天翻地覆的气势告终，暗示着未来情势的严峻与复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_重生破道第四章琅月仙洞初问世，星云门中�
 | Size            | 26710 bytes                           |
 | MD5             | 7de232dc56893dd7413b941f41d8ee83                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 兄弟, 武斗, 权力斗争, 爱情纠葛, 皇权, 士兵, 法律, 儒家道术, 传统文化, 情感冲突, 仙侠, 奇幻, 墨龙, 金龙, 比试, 爱情, 反叛, 城市战争, 地动山摇                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_诱惑—反击（申码文）.doc]([皮物]_诱惑—反�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《诱惑—反击（申码文）》，是关于一个少年在父母关系及其身份认同上经历复杂情感纠葛的故事。故事的主人公在日常生活中观察到母亲身穿OL正装的美丽形象，同时对母亲和父亲的成功与家庭背景充满好奇。随着故事的发展，主人公不得不面对家庭内的危机：母亲因车祸昏迷，而父亲则秘密进行一种脑部技术研究，希望能通过嫁接思维的方式让母亲复活。这个过程充满了对性别角色与个人身份的探索，主人公对父亲的研究产生了复杂的情感，同时也面临着情感与伦理的冲突。最终，父亲决定假扮母亲来承担她的角色，企图复兴家庭与复仇。文件涉及性别认同、自我探索、伦理道德、亲情以及对科技和人性的思考，呈现了深刻的人物内心纠葛和复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_诱惑—反击（申码文）.doc]([皮物]_诱惑—反�
 | Size            | 46592 bytes                           |
 | MD5             | d5b51e0413410f990caba4981c7f086d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 自我探索, 亲情, 科技伦理, 人际关系, 情感冲突, 暗恋, 无性恋, 现代家庭, 母子关系, 脑科学, 心理学, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

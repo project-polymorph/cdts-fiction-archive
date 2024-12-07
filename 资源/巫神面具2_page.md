@@ -7,7 +7,7 @@ TXT 下载: [巫神面具2.doc](巫神面具2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《巫神面具2》的一部分，讲述了荀敏杰通过一面神秘的铁皮面具进行变身的故事。荀敏杰意外获得了一件古代巫族的宝物——巫神面具，它能让人通过血祭而变身为其他人的模样。为了得到巫神面具的力量，荀敏杰设计欺骗薛涛涛，使其成为他祭祀的对象，最终变身为薛涛涛，并获得了她的记忆与外貌。故事中着重描绘了变身后的生活，以及荀敏杰作为女性的感受和对身体的新认知。书中则包含一些限制级内容，涉及了性转换、性别认同、自我探索等主题。比如，文中描述了荀敏杰穿上薛涛涛的衣物后，享受成为女性的快感，并展现了复杂的情感关系以及对性别认同的思考。作品融合了奇幻、变装、以及情欲等元素，展现了性别流动性的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [巫神面具2.doc](巫神面具2.doc)
 | Size            | 40960 bytes                           |
 | MD5             | c1d006e09b54d61df4c144a91d433c7c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 巫神面具, 伪娘, 跨性别, 自我探索, 性别认同, 古代传说, 奇幻, 女性视角, 吸血, 心理变革, 父子关系, 禁忌恋, 多重身份, 青少年问题, 人皮, 身体互换, 阴道, 肉体快感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

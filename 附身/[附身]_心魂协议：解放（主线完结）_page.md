@@ -7,7 +7,7 @@ TXT 下载: [[附身]_心魂协议：解放（主线完结）.doc]([附身]_心�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《心魂协议：解放（主线完结）》，讲述了一个关于格式塔意识的诞生与蜕变的故事。故事中，角色咲江在经历了一系列个人和社会的危机后，发现周围的人们似乎正在经历同样的意识变化。咲江的姐姐绘美和邻居们的行为变得异常一致，他们似乎被某种集体意识所操控，令咲江感到无比恐惧。小说深入探讨了信息不对称、集体意识对个体的影响，以及在面对群体行为时个体选择的无力感。通过电视的语音转述以及角色们的反应，展示了社会在格式塔意识下的紧张氛围。敘事中提供了多个哲学和社会学的暗示，比如“要想消弭人与人之间的不平等，就必须先消弭人与人之间的信息不对称”。整体情节紧凑，具有未来科幻的感觉，围绕着自我探索和意识的主题进行展开。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_心魂协议：解放（主线完结）.doc]([附身]_心�
 | Size            | 89600 bytes                           |
 | MD5             | d421c19a0a4e557f9503476f3be97206                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 格式塔意识, 自我探索, 社会控制, 信息不对称, 群体意识, 科幻小说, 心理变化, 姐妹关系, 都市生活, 个体与群体, 哲学, 意识流                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

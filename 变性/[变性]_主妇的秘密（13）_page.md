@@ -7,7 +7,7 @@ TXT 下载: [[变性]_主妇的秘密（13）.docx]([变性]_主妇的秘密（1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个名为李洁的角色在变性调整过程中的心理与生活的详细记录。故事通过第一人称视角讲述，主角从一个男性角色逐渐适应女性身份，经历了内心的挣扎与变化。故事中，李纯对主角的关心体现了情感的复杂性，而主角内心对自己身体变化的恨意又增加了情节的冲突。随着情节的发展，主角开始不仅接受新身份，还在不断学习如何成为合格的‘女子’。其中，李纯为主角提供的支持与训练、琳姐的指导，以及主角与他们之间的互动，揭示了性别认同与个人身份的重要性。文件内容中提到了具体的训练过程，如化妆、礼仪、厨艺等，这些都表现出一种为了适应社会性别角色而进行的自我重塑。最后，文件通过主角的逃离计划，体现了对自由与身份认同的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_主妇的秘密（13）.docx]([变性]_主妇的秘密（1
 | Size            | 21240 bytes                           |
 | MD5             | aa17f5cc6e859b9566bdb661b57ed563                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 跨性别, 主妇训练, 女装, 情感纠葛, 心理挣扎, 身体变化, 自我探索, 逃跑计划, 改变生活, 女性身份, 性别角色, 变嫁, 主妇生活, 自信, 女性魅力, 情感支持, 课程培训                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

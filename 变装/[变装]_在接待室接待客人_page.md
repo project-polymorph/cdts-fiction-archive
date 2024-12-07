@@ -7,7 +7,7 @@ TXT 下载: [[变装]_在接待室接待客人.doc]([变装]_在接待室接待�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《在等待室里接待客人》是一部围绕性别转变与跨性别主题的小说。故事的叙述者，迈克尔·阿姆斯特朗，是来自动力工业公司的男性，他在等待室中会见新任CEO温斯特女士。小说通过细腻的描写，展示了迈克尔与温斯特女士之间复杂的权力关系和心理变化。在与访客的互动中，叙述者利用自身的魅力和性别表现，实现了对男性访客的心理操控，逐渐揭露了温斯特女士的真实意图和对男性角色的剥夺。随着故事的发展，迈克尔逐渐对自己的性别认同产生了困惑，同时体验到了温斯特女士的绝对权力，以及对传统性别角色的颠覆。故事中充满了暗示和性欲的描写，探讨了欲望、自我认同和权力之间的复杂关系。小说以一种挑衅、刺激的方式呈现了跨性别文化及其相关的情感与心理挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_在接待室接待客人.doc]([变装]_在接待室接待�
 | Size            | 33792 bytes                           |
 | MD5             | e086498a91636d07777e852e30e7be27                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Sissy Slut Ally                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 权力关系, 心理操控, 性别认同, 二次元文化, 幻想, 欲望, 情感冲突, 角色扮演, 禁忌关系, 调教, 女仆, 父权社会, 女性魅力, 情欲小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

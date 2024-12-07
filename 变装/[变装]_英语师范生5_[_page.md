@@ -7,7 +7,7 @@ TXT 下载: [[变装]_英语师范生5_[.docx]([变装]_英语师范生5_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于变装与性别认同的小说，主要人物为一位男学生因特殊原因化身为女老师，故事通过他的内心独白和变装过程描绘了复杂的自我认知与身份探索。文中详细描写了角色的转变，包括他对女性服装、假胸及化妆的细腻体验，以及在课堂上以女老师身份授课的感受。整个故事充满了性别角色的颠覆和个人认同的探索，体现了对性别流动性和性别表达的讨论。具体情节中，主人公在面临外界期待和个人感受的矛盾中努力适应，展现了自我探索与勇敢地接受新身份的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_英语师范生5_[.docx]([变装]_英语师范生5_[.docx)
 | Size            | 17498 bytes                           |
 | MD5             | 5a8706d88874406ad4022fe72df10366                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 伪娘, 自我探索, 女性化, 英语教师, 心理冲突, 变声装置, 课堂互动, 时尚, 情感冲突, 二次元, 角色扮演, 情感发展, 校园生活, 性别流动性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

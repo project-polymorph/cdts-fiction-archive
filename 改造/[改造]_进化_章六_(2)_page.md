@@ -7,7 +7,7 @@ TXT 下载: [[改造]_进化_章六_(2).docx]([改造]_进化_章六_(2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件讲述了一个年轻女孩的成长故事，主人公与外婆一起回忆和讨论家族的过去，反映了家族成员在社会中的地位和身份的变化。外婆和主人公的妈妈之间的故事将她们的经历与身份转变相结合，妈妈经历了从未开始进化到成为B类人的过程，尽管社会对B类人的成见使得她的职业生涯充满挑战。在一次圣诞节的舞会上，主人公克里斯缇娜与外面的男孩威尔相遇，二人分享了彼此的生活观察与对未来的憧憬。除了家庭和朋友的关系以外，主人公还探讨了成长过程中的性别身份问题，以及对自身身体变化的认知和心理上的冲突。这期间，主人公逐渐适应了进化人的身份，并对未来的人际交往充满期待和不安。作品通过细腻的情感描写与生动的对话展现了多元性别认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_进化_章六_(2).docx]([改造]_进化_章六_(2).docx)
 | Size            | 21609 bytes                           |
 | MD5             | ad36ec57796e6409327f154d8dd02e34                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 跨性别, 成长故事, 家庭关系, 社会认同, 圣诞节, 爱情, 女性成长, 心理冲突, 进化人, B类人, 双性恋, 年轻人, 友谊, 社区生活, 身体意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

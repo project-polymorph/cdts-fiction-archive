@@ -7,7 +7,11 @@ TXT 下载: [勇者被魔王变魔后.doc](勇者被魔王变魔后.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了在勇者大陆上，勇者哈克斯在经历了一场人与魔物大战后，坚决踏上寻找妹妹的征途。故事背景设定在魔物被击败后，哈克斯失去了父母和妹妹，面临着无人生还的村庄和残酷的现实。他在梦中回忆起与家人相处的点滴，但醒来后却发现自己身处在破败不堪的家中。
+
+随后，哈克斯在魔法森林中遭遇到魔王诺克，并面临着生死抉择。诺克魔王声称可以帮助他找到妹妹，但哈克斯必须做出牺牲。他的妹妹被困在水晶棺中，诺克魔王打算利用哈克斯的身体来实现某种目的。最终，哈克斯被魔王变成女性，在与诺克魔王的亲密接触中，他体验到了前所未有的感受。这一过程中，牵扯出勇者与魔王之间的复杂关系、家庭的失落和对寻求救赎的渴望。
+
+文中包含了关于性别转化、角色自我认同和家庭纽带等主题的探索，且描绘了一些可能的性爱与性转情节，适合进行相关的学术研究与讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [勇者被魔王变魔后.doc](勇者被魔王变魔后.doc)
 | Size            | 128512 bytes                           |
 | MD5             | 3748a6b663507ba9c1d27190653beeb3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 勇者, 魔王, 性转, 寻找妹妹, 梦境, 自我探索, 魔法森林, 家庭, 牺牲, 变身, 魔法, 情感纠葛, 力量的追求, 人类与魔物的战争, 生死抉择, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

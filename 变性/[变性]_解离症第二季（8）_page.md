@@ -7,7 +7,7 @@ TXT 下载: [[变性]_解离症第二季（8）.docx]([变性]_解离症第二�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《解离症第二季（8）》是一部涉及伪娘和变性主题的小说，情节围绕角色性别转换以及伴随的心灵挣扎展开。在开篇，凄厉的尖叫声让村民们惊慌，紧接着描绘了一起残忍的暴行，男主角宁兴被村里的恶少阿瑞阉割，所造成的身体和精神上的重创几乎摧毁了他的意志。细腻的描写让人身临其境，宁兴与杨琴之间满载着悲伤与无助的情感互动，展现出复杂的性别认同自我探索的主题。在经历了一系列极端暴力的情节后，角色们被迫面对自己的命运与身份认同，宁兴内心的痛苦和挣扎成为故事的核心。同时，小说中也涉及对性别与身份的思考，表现了角色对自身状态的迷茫与愤怒。整体而言，作品的氛围阴暗而压抑，引发读者对变性、性别暴力和身份认同等深刻议题的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_解离症第二季（8）.docx]([变性]_解离症第二�
 | Size            | 23398 bytes                           |
 | MD5             | 4792b96f62b5550796579fbb0c215077                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 变身, 性别认同, 自我探索, 性别暴力, 心理冲突, 女性视角, 青春, 奇幻, 都市, 虐恋, 情绪创伤, 强奸, 阉割, 药物, 包扎, 感情纠葛, 身份危机, 性意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

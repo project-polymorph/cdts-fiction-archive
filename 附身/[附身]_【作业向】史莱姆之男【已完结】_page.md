@@ -7,7 +7,9 @@ TXT 下载: [[附身]_【作业向】史莱姆之男【已完结】.docx]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇围绕伪娘和变身主题的小说，讲述了主角通过某种药物获得了液体化的能力，能够附身到他人的身体上。故事开篇描述了主角在公园中伪装，寻找猎物，而猎物正是一名女子高中生。在尝试靠近并最终附身于该女孩过程中，包含了许多有关性转和变身的细节，描绘了角色从液态形式到完全融入他人肉体的转变。
+
+小说中的情节涉及角色对于自身形态的认知转变，及在附身后对新身体的探索和体验，尤其是对于生理性别变化带来的新奇与刺激的心理描写。文中还频繁出现强烈的性暗示和性描写，描绘了主角如何利用新身份进行自慰的情景，体现了对自我认知与性欲的探索。这种将变身与性体验相结合的情节，充满了冲突与刺激，并且呈现出对性别与身份变化的复杂看法。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_【作业向】史莱姆之男【已完结】.docx]([附�
 | Size            | 40443 bytes                           |
 | MD5             | 0409623358e0be52f94c511f580ef4a3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 变身, 跨性别, 自我探索, 女性体验, 液体化, 紧张关系, 角色扮演, 奇幻, 心理描写, 身体探索, 性欲探索, 高潮体验, 身份认同, 药物效果                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

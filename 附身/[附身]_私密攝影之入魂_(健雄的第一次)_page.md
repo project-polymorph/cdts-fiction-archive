@@ -7,7 +7,7 @@ TXT 下载: [[附身]_私密攝影之入魂_(健雄的第一次).doc]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一次代入体验和身体交换的小说故事，讲述了主人公与好友小旺在一次拍摄活动中的奇特经历。故事开始于他们前一天晚上激烈的身体体验，醒来后对过去的情感感到尴尬。随着故事的发展，二人在一次服装走秀的机会中，逐渐迷失在对身体和心理的探索之中。经理的提议让他们不得不面对专业摄影的挑战，同时，其他女学生的内衣拍摄也让他们感到不安与刺激。两人之间的关系逐渐复杂化，由于小旺的聪明才智，他们的身份逐渐变得复杂，拍摄并不只是简单的摄影，而是多种情感和欲望交织在一起。最终，故事以主人公的身体被他人侵入而感到疼痛与快感的情境结束，描绘出对身体、欲望及其引发的情感冲突的深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_私密攝影之入魂_(健雄的第一次).doc]([附身]_�
 | Size            | 58880 bytes                           |
 | MD5             | 868fa1e8d68c6295256cdb60eda427b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 入魂, 身体交换, 性转, 伪娘, 内衣拍摄, 性体验, 复杂关系, 青春, 友情, 性别探索, 爱情, 欲望, 刺激, 摄影, 摄影指导, 校园题材                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

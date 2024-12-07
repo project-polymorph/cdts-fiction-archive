@@ -7,7 +7,7 @@ TXT 下载: [[变性]_霓裳羽衣_第一、二、三章.doc]([变性]_霓裳羽
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《霓裳羽衣》第一至三章的故事围绕一个村庄的年轻人王大展开，他在一座高耸的雪山下生活。村子里的人们对于雪山充满了神秘的幻想和恐惧，认为山中有神仙，但进入山中的人员一个接一个地失踪，令人感到不安。随着一次外来者的到来，村长指派王大带领他们进山，尽管王大心中忐忑，但他最终还是接受了这个命令。故事描写了村庄的日常生活、王大对外界的渴望与畏惧，以及他踏上带路的旅程。王大在不断深入雪山的过程中，意识到自己可能被外来者利用，面临着生命的威胁，持续的寒冷使他逐渐失去希望。随着故事的发展，王大被踢入悬崖，经历了生死的转换，从而来到了一个温暖的地方，看到了美丽的宫殿，似乎是一场奇异的转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_霓裳羽衣_第一、二、三章.doc]([变性]_霓裳羽
 | Size            | 65024 bytes                           |
 | MD5             | ee20f3eb6d601c87467144fd1ce784cd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 雪山, 外来者, 村庄生活, 神秘, 生死, 温泉, 宫殿, 自我探索, 勇气, 幻想, 生存挑战, 少年成长, 青春压迫, 荧屏奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

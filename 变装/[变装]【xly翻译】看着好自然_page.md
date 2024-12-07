@@ -7,7 +7,7 @@ TXT 下载: [[变装]【xly翻译】看着好自然.doc]([变装]【xly翻译】
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇关于殡葬行业的小说，讲述了年轻男主瑞克的暑假工作经历。瑞克因家族关系被迫在舅舅威尔的殡仪馆工作。他介绍了自己面对的各种殡葬工作，包括搬运棺材、清理遗体和与逝者的处理工作。文章中描述了殡葬的专业性与复杂性，特别是涉及到对遗体的处理，包括防腐与化妆等过程。同时，瑞克也面对了一项异常的任务：代替一位因车祸去世的女孩参加葬礼，以掩盖遗体混淆的丑闻。这使得瑞克感到极大的心理压力与道德困境。最终，他在金钱诱惑和家族责任之间做出了选择。整体故事揭示了死亡、家庭和职业之间的复杂关系，以及青春期面对社会责任时的无奈和不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]【xly翻译】看着好自然.doc]([变装]【xly翻译】
 | Size            | 61440 bytes                           |
 | MD5             | 7535eebbeb97d2e72af53e0411c69171                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 殡葬, 家庭, 死亡, 职业责任, 心理压力, 性别认同, 殡仪馆, 社会, 青春期, 人际关系, 道德困境, 特殊任务, 尸体处理, 遗体化妆, 混淆事件, 经济诱惑, 个人成长, 内心冲突, 家庭责任, 工作体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

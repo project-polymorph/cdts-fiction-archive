@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【無名】把你的宝贝女儿给我（大事な娘は�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品为无名老师的新作，包含三篇故事的第一篇，其主题围绕着校园暴力和激烈的自我认同冲突展开。故事讲述了笠山家的长女美菜在晚餐时意外表露了奇异的心境，表面看似普通的一天，因她的怪异言行而渐渐发酵成恐怖的事件。美菜通过变身成为其他人的皮囊，展现出她受到长久以来的家庭与同学欺凌后扭曲的内心，在通过变身之后取得了仿佛支配他人的快感。故事充斥着强烈的心理暗示和对家庭关系的反思，也体现了主人公对自我存在的探索和对家庭温暖的极度嫉妒。该文本涉及到复杂的心理变化及残酷的家庭虐待，含有较强的恐怖元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【無名】把你的宝贝女儿给我（大事な娘は�
 | Size            | 39936 bytes                           |
 | MD5             | 3c846cb5cda7b15ca7a1867d7ce5d6b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 无名                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变态心理, 剥皮, 家庭暴力, 校园霸凌, 自我认同, 强迫控制, 欲望扭曲, 人性的黑暗, 丧失自我, 情感操控, 恐怖故事, 禁忌关系, 异化, TSF, NTR, 变装, 精神变态, 人皮                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

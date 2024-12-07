@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_偶像少女（前传）_冰冰作品.doc]([皮物]_偶像
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘和跨性别题材的小说，主要围绕角色乐小希的经历展开。乐小希参与了一个选秀比赛，但在比赛中遭遇了不公的评审，引发了他的愤怒。愤怒之际，他意外与一名名为何姐的美丽少女相遇。故事中详细描绘了乐小希与何姐之间的互动，乐小希对女性形象的向往，以及他向何姐求助以实现变装梦想的过程。随着情节的发展，乐小希逐渐体验了性别转换，为了实现他的愿望，何姐给予了他各种帮助与引导，甚至涉及到一些禁忌和伦理问题，展示了性别认同的困惑和探索。文件中包含了一些情节描述，涉及性与身份、变装、性别转换等元素，呈现出复杂的人际关系和心理活动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_偶像少女（前传）_冰冰作品.doc]([皮物]_偶像
 | Size            | 36352 bytes                           |
 | MD5             | 3f110923f4c5811e2eaedc52dcc3836a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 冰冰                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 情感纠葛, 自我探索, 女仆, 性别认同, 变嫁, 强奸, 乱伦, 情感教学, 性别转换, 二次元, 青春期困惑, 禁忌恋, 自我认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

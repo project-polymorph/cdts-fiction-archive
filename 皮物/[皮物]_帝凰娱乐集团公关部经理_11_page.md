@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_11.docx]([皮物]_帝凰
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘/变身小说的章节，情节围绕着角色晓燕和晓乐在电影院的约会展开。晓燕是主角，故事通过她的视角描述了一系列发生在情侣包间内的亲密互动和性别认同的探索。晓燕最初因观察环境而犹豫不决，但在晓乐的拉拽下，进入包间开始观看电影。随着情节的发展，晓乐的手逐渐探索晓燕的身体，导致晓燕体验到了女性特有的感官快感。该章节详细描绘了晓燕的内心感受和身体的变化，以及她在两性关系中的角色转换。情感和生理体验被细腻表达，同时也涉及到一些限制级的内容，像是身体探索和亲密接触。故事在电影尚未结束之时，逐渐转向了晓燕和晓乐之间的情感互动，并进一步探讨了性别认同与性欲之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_11.docx]([皮物]_帝凰
 | Size            | 22899 bytes                           |
 | MD5             | 8c0fd75d5191544842356c0f580791f2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 情感互动, 强烈快感, 身体探索, 情侣约会, 电影情节, 同性恋, 调教, 青春, 都市, 恋爱, 心理状态, 社交场景, 故事发展, 情色, 情欲, 角色扮演, 隐私空间                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

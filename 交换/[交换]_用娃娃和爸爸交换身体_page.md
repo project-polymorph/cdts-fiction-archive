@@ -7,7 +7,7 @@ TXT 下载: [[交换]_用娃娃和爸爸交换身体.docx]([交换]_用娃娃和
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个10岁女孩安美伊与父亲之间的关系。安美伊因为学习压力而感到沮丧，面临父亲的责骂，她在寻求理解与支持的过程中希望能与父亲交换身份，体验对方的生活。故事的情节围绕安美伊的内心挣扎展开，她希望父亲能理解她的感受，而不是一味的批评。在与朋友交谈后，她接受了一种神秘的交换方式，卖掉一个娃娃，结果真的与父亲互换了身体。故事在儿童与父亲之间的代际冲突，以及性别与身份认同的探索中展开，带有奇幻与成长的元素。可以看到，安美伊通过这种奇妙的变化，开始体验她父亲的生活和感受，也为父亲的角色设定提供一种全新的视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_用娃娃和爸爸交换身体.docx]([交换]_用娃娃和
 | Size            | 32479 bytes                           |
 | MD5             | a01c15b0a5ecd8dd22f13a1eca367956                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 性别交换, 家庭关系, 自我探索, 儿童成长, 父女关系, 幻想, 情感冲突, 性别认同, 教育压力, 角色转换, 心理探索, 奇幻元素, 奇妙经历, 代际矛盾, 爱情幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_只为减潜水值.docx]([皮物]_只为减潜水值.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以性别转换与跨性别元素为主题的短篇小说，名为《只为减潜水值》，作者为网友qazedr。该文本围绕着角色安坦与关平将军的关系发展，描述了他们在战斗中的经历与心理变化。故事开篇通过对安坦的描述，展现了他的身份与背景；接着，逐步展开关平的英勇表现与战斗策略，突显了权力、忠诚与情感交织的复杂性。内容中包含了一些对角色内心的描写以及情感的挣扎，比如安坦表达对关平的深厚崇拜与感情。在情节推进中，作者刻画了战斗的紧张氛围，以及随之而来的角色之间的相互依赖和情感冲突。“将军是我的啊！！！”这一强烈的情感宣泄，突显了安坦在性别认同与个人情感中的复杂心理。此外，文件中存在一些不当内容与情节，体现了成熟女性视角以及性别转换带来的独特体验与冲突，较为大胆地探讨了性别身份与角色转换之后的兴奋与不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_只为减潜水值.docx]([皮物]_只为减潜水值.docx)
 | Size            | 26185 bytes                           |
 | MD5             | fa257bd5c29e707e98f0a3f8f4faabb8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | qazedr                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别转换, 战斗, 忠诚, 心灵挣扎, 爱情, 权力关系, 情感冲突, 二次元小说, 历史背景, 伪娘, 男娘, 角色塑造, 心理变化, 虚构, 强烈情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

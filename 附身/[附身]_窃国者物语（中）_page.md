@@ -7,7 +7,7 @@ TXT 下载: [[附身]_窃国者物语（中）.doc]([附身]_窃国者物语（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《窃国者物语》的中篇故事围绕着女主角丽莎以及寄生在她大脑中的盗贼吉格尔的故事展开。当丽莎在接受同事们的问候时，她的意识却已被吉格尔侵蚀，成为其忠实的女儿。吉格尔通过丽莎的身体进行了一系列的行为，包括对她的后辈露米娜进行情感上的操控与身体上的侵犯。故事通过细腻的描写展现了丽莎与露米娜之间的亲密关系，以及吉格尔在丽莎存在下的兴奋与操控欲。在接下来的情节中，两人发生了亲密接触，互相之间充满了情感的交织与身体的探索，角色之间复杂的情感交互以及身体的欲望需求，展现了性转和跨性别主题的深入探讨。此文本详细描绘了心理状态与情感升温的过程，展示了角色的内心变化与较为直接的身体接触，如温柔的吻与充满欲望的行动，使得整篇故事充满了浓烈的情欲色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_窃国者物语（中）.doc]([附身]_窃国者物语（�
 | Size            | 51200 bytes                           |
 | MD5             | dd8f6f9ad9512c222638135fd97a7314                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 附身, 情感操控, 二次元, 伪娘, 变身, 女同, 调教, 强制行为, 自我认同, 性意识, 厚颜无耻, 内心冲突, 幻想, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

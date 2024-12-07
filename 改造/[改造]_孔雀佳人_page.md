@@ -7,7 +7,7 @@ TXT 下载: [[改造]_孔雀佳人.docx]([改造]_孔雀佳人.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《孔雀佳人》，主要描绘了一位少年在被圈养的环境中经历的心理与身体变化。故事开始于一个孔雀庄园，庄园中描绘的孔雀像是一个玩物，这与少年受到的对待形成了鲜明对比。在密室中，少年被绑着，面临未知的恐惧，内心充满了无助。他的描写细腻，展现了少年娇嫩的外貌与内心的挣扎。文中提到“这么漂亮的孩子，你的‘妈妈’真是舍得啊。”，暗示了少年身世的复杂以及他在成人世界中的痛苦体现。接着故事转向了一段父子间的对话，父亲希望为家中找一个新的女主人，暗示了对家庭结构的改变和角色的交替。继母的角色逐渐浮出水面，生活中掺杂着复杂的人际关系与潜在的性暗示。整部作品充满了对美与恶的探讨，涉及性别认同与角色转换，情节复杂，情感交织，适合研究跨性别与性别流动相关的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_孔雀佳人.docx]([改造]_孔雀佳人.docx)
 | Size            | 37308 bytes                           |
 | MD5             | 04ed6426141fa1960a948570d150633d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转小说, 男娘, 跨性别, 人物心理, 社会伦理, 家庭关系, 禁忌爱情, 变嫁, 成长, 自我认同, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_被丝袜变成女身.docx]([变身]_被丝袜变成女身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述的是一位名叫李方的自由服装设计师的日常生活。李方是一位23岁的男性，性格中带有独特的异装癖，他热衷于收集灵感和素材，尤其对女性服装充满热情。文件的内容从李方在街上看到一位穿着黑色丝袜的女性开始，引发了他对于时尚潮流和设计灵感的思考。随着故事的发展，李方回到家中，为了满足自己对女性服装的渴望，他为人偶设计衣服。李方在一次购物中购买了一个丝袜编织机，这台机器让他深感兴奋，因为它能够定制各种情趣丝袜。他全然不知，这台机器将会引发一系列神秘而奇怪的事件。故事最后，随着时间的推移，丝袜机的操作似乎出现了异常，逐渐将李方的周围布料吸收并转化成了丝袜，李方的生活因此陷入了一场混乱的变化中。此文件以其独特的视角反映了性别认同、自我探索以及对服装设计的执着。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_被丝袜变成女身.docx]([变身]_被丝袜变成女身
 | Size            | 44616 bytes                           |
 | MD5             | d968ef948f1fa1325f3a52e53b93cb2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 丝袜, 异装癖, 服装设计, 性别认同, TFS, 自我探索, 短裙, 黑色丝袜, 都市生活, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

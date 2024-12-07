@@ -7,7 +7,7 @@ TXT 下载: [[变装]蓝荆花档案_第三章.doc]([变装]蓝荆花档案_第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《蓝荆花档案》第三章，故事背景设定在S市的一间警察办公室，描绘了一群警务人员除了接受培训之外，必须进行一次秘密卧底行动的情节。故事开启时，几位穿警服的男警察们面露疑惑与尴尬，他们的局长王彦发布任务，声明他们将成为警方的卧底，面临转变为女性形象的挑战。故事中，局长展示了其前辈，赵育，作为恰当的榜样，赵育是他们的新组长，同时也是近日娱乐圈的亮眼新星，令在场的男子感到惊讶，建立起性别认同与角色转换之间的冲突。在此过程中，涉足跨性别、变装和女儿身等多个主题，时代背景及情感冲突为故事增添了层次感与现实感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]蓝荆花档案_第三章.doc]([变装]蓝荆花档案_第�
 | Size            | 33792 bytes                           |
 | MD5             | bc7ef321b0ee1029d16ec2c305f96cd7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变装, 伪娘, 警察, 卧底, 赵育, 行动培训, 性别转换, 角色认同, 娱乐圈, 秘密行动, 男性视角, 自我探索, 情感冲突, 女性形象, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

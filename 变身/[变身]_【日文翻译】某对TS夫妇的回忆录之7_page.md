@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【日文翻译】某对TS夫妇的回忆录之7.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档是关于一对变身夫妇在经历孩子出生后的日常生活以及心理变化的详细记录。故事的主人公在生完孩子后，经历了身体和心理的双重挑战。文本通过幽默和温情的笔调描述了角色在育儿中的困难与乐趣，例如：“哇呜…哇呜…整天都是这样。”文中不仅探讨了身体性的变化，还涉及到了角色对自我身份的认知和对家庭角色的期待，显示了变身与性别认同的复杂性。通过与家庭成员的互动，角色意识到，作为父母并不仅仅是身体上的变化，更是心理与情感的成长。文中还阐述了夫妻双方如何相互帮助与理解，从而深化彼此的关系，体现了亲情的力量。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【日文翻译】某对TS夫妇的回忆录之7.docx]([�
 | Size            | 20253 bytes                           |
 | MD5             | 7546b3b9f43d700d28805e1b3829e6f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 育儿, 父母, 性别认同, 生活压力, 温情, 幽默, 心理变化, 家庭, 自我探索, 跨性别, 夫妻关系, 亲情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《没有想好名字的无限流》_第五章_人与非�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说《没有想好名字的无限流》的第五章，主要围绕角色李寺和希里爱丽丝在丧尸围攻中的生存故事展开。故事通过李寺的视角，描述了他与希里爱丽丝的互动，以及他在面对危机时所经历的心理变化与情感冲突。通过对二次元角色的角色设定，该作品探讨了性别认同、自我认知以及在极端情况下的人性转变。文件中出现了希里爱丽丝作为主角团的一员，描绘了她在危机中的脆弱与险境下父亲的牺牲，形成了强烈的情感冲击。文中还涉及一些限制级内容，表达了角色在性转与情感波动中的复杂感受，内容生动、情节紧凑，富有科幻与奇幻色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《没有想好名字的无限流》_第五章_人与非�
 | Size            | 38400 bytes                           |
 | MD5             | 60e819436fa720f4ae527e6fb0ca98c2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 跨性别, 奇幻, 心理状态, 情感冲突, 丧尸题材, 自我认同, 不稳定情绪, TS血统, 少女角色, 亲情, 生存, 冒险, 二次元, 情欲觉醒, 非人化, 人性考验, 角色等级                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

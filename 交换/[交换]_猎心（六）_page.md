@@ -7,7 +7,7 @@ TXT 下载: [[交换]_猎心（六）.doc]([交换]_猎心（六）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《猎心（六）》是一部描绘复杂情感和身份认同的小说，主要围绕萧婉秋的生活展开，充满悬疑与情色元素。故事初始背景设定在初夏之夜，透过清香和凉风的描写引入角色的内心世界。萧婉秋是一名警察，她在酒厅中遇到了一系列诡异事件，包括与丈夫孟文耀的私密生活纠葛和一位女仆赵曦雨的神秘互动。随着剧情的发展，萧婉秋不仅要面对身边突如其来的犯罪案件，还需解决自身身份和权力的欲望。她在酒厅突发的事件中，发现了涉及病毒改造和物种变异的阴谋，剧情中涉及频繁的人物性别与身份的转换，具有强烈的TS（变身）和跨性别主题。随着故事的深入，关于人类欲望和身份认同的议题逐渐浮出水面，萧婉秋在权利与生存之间进行挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_猎心（六）.doc]([交换]_猎心（六）.doc)
 | Size            | 51712 bytes                           |
 | MD5             | b769c1689f193a83492b5ef95ba147b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 欲望, 身份认同, 悬疑, 情色, 女仆, 病毒改造, 人类实验, 权力斗争, TS, 都市幻想, 异世界, 机械改造, 叙事文学, 夜生活, 社会议题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

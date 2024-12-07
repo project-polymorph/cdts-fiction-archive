@@ -7,7 +7,7 @@ TXT 下载: [[附身]_半魂の術！三、美容院編.docx]([附身]_半魂の
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为《半魂の術！美容院编》的第三部分，属于系列作品，涵盖了关于角色性别转换的情节。故事的主角以客人身份进入当地车站前的一家美容院，目标是在此过程中通过灵魂入侵的方式奪取理髮師牧場詩穗梨的身体。文本通过详尽的叙述描绘了环境的氛围和角色的外貌特征，尤其是对身着黑色衬衫和米色短裤的理发师的刻画，展现了物理吸引与心理游戏的紧密结合。故事中，主角利用灵魂侵入，引发了变身和自我认知的转变，最终实现了对身体的控制和扮演，营造了一种刺激的情节。同时，文本涉及色情内容和性别认同的探讨，有较强的成人向倾向，适合成人读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_半魂の術！三、美容院編.docx]([附身]_半魂の
 | Size            | 37550 bytes                           |
 | MD5             | f0f93cd54a7c3f3cc97902bdba799500                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | TRUE!                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 灵魂转移, 美容院, 角色扮演, 情感冲突, 自我认知, 成人向, 异世界, 性转, 魔法, 调教, 都市, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

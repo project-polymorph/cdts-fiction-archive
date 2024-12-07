@@ -7,7 +7,9 @@ TXT 下载: [[其他]_西游情厄传（第十四回）.docx]([其他]_西游情
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《西游情厄传》中的第十四回，内容以戏剧化的方式描述了主角悟空的性别转换过程。在这一回中，悟空在昏迷中被施加了变身魔法，变为一名女婴，内心充满忧虑和无奈。文本开头描绘了悟空在昏迷中对其改变的模糊感知。随即，悟空的母亲——万圣宫主得知了此事，而道姑出场以其高强能力承担起救助悟空的任务。
+
+道姑不仅赞美智者，还对围绕着悟空的妖魔施展法力，将他们一一制服。她与迷识林的妖魔展开了一场斗争，最终迫使魔王同意听从命令。道姑在将悟空带回龙宫的过程中，提到一些关于情感迷惑和生理变化的哲学性思考，这影响了悟空的自我认知和身份认同。最后，文本通过道姑的角色揭示了对性别身份的深刻探讨和社会价值观的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_西游情厄传（第十四回）.docx]([其他]_西游情
 | Size            | 24527 bytes                           |
 | MD5             | 408a45d2281c7a5f0b8190296e493865                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转, 变身小说, 跨性别, 妖魔, 道姑, 情感迷惑, 自我探索, 古代文学, 二次元, 幻想与现实, 龙宫, 百合, 仙侠                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

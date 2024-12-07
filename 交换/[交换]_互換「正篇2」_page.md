@@ -7,7 +7,7 @@ TXT 下载: [[交换]_互換「正篇2」.docx]([交换]_互換「正篇2」.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《互換「正篇2」》的内容，主要围绕着主角信川源的特殊能力展开。信川源是一个普通的城市高中三年级学生，因在幼年经历了一次意外而获得了互换身体的能力。故事依照他的能力，描绘了他与家人及老师之间身体互换后所引发的种种困扰和幽默情节。文件中描述了信川源如何因意外救了他的姐姐和父亲，却因此使他们的灵魂长期困在对方的身体中，导致生活的改变和复杂的家庭关系。随着故事发展，这种特殊能力的日常使用渐渐引发了同学和老师的关注，信川源不得不面对越来越多的寻求帮助的请求，并产生些许烦恼。在这个过程中，他不仅要处理身体互换带来的种种困扰，还要在来自于同班同学奈奈子的请求中尝试使用这种能力。文件中多次提到的身体互换情节以及角色内心的变化，反映出性别认同和自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_互換「正篇2」.docx]([交换]_互換「正篇2」.doc
 | Size            | 62295 bytes                           |
 | MD5             | 40644819463a4a5824b30f425f0ef3c2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 校园, 奇幻, 自我认同, 性别认同, 家庭关系, 青春, 同性, 转变, 奇幻故事, 伦理, 成长, 友情, 女装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

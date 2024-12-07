@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~(十一)_[.docx]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇伪娘 TS 变身与跨性别主题的小说片段，主要围绕角色橘子与西利欧的对话展开。故事情节充满张力，带有超自然元素，橘子在一个幻境中与具有特殊能力的少年西利欧相遇。文本中描绘了幻境内的火焰、血腥气息和角色之间的恐惧与奋战。橘子对西利欧的能力和身份产生疑惑，尤其是面对一个口称加百列的神秘男子时，她感到了强烈的不安和判断失误的风险。此外，文本涉及角色在幻境中挣扎对抗神秘力量的情节，从中可以感受到角色之间的心理斗争和界限模糊。整个故事情节在探讨自我认同与性别角色的同时，也包含了一些强烈的情感与身体冲突，适合对这一主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~(十一)_[.docx]([皮物
 | Size            | 19221 bytes                           |
 | MD5             | ab36f7eeede0ff8ee49c64343d9553d2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 幻境, 火焰, 能力对抗, 妖姬, 神秘男子, 性别认同, 成年人向, 心理斗争, 二次元, 奇幻, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

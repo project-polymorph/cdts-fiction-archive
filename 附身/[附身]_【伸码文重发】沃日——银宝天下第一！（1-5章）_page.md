@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【伸码文重发】沃日——银宝天下第一！（1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个关于附身与性别转换的奇幻故事，主角名为宁为霜，是固心门的圣女。在每年的祭祖日，宁为霜在古迹长亭中祭拜祖先，经历了十次祭神日的她，面临着必须下山修行一年才能返回宗门的挑战。故事描绘了她对外面世界的好奇与向往，描述了她的形象及心理状态。随着情节的发展，故事引入了另一位角色王守之，他惊叹于宁为霜的美丽，并与她发生了幽默且对话频繁的互动。另外，文中探索了少年对女性的憧憬、性别的流动性以及对自我身份的迷失。故事语言优美，情节引人入胜，充满了幻想与探索自我认同的元素，同时也包含了一些限制级的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【伸码文重发】沃日——银宝天下第一！（1
 | Size            | 103424 bytes                           |
 | MD5             | 83508ec3a110ff50c5d7ac9f1ed0958d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身, 性别转换, 祭祖, 自我认同, 魔法, 奇幻, 成长, 少年情怀, 情感探索, 幻梦, 童年回忆, 性别流动性, 阴差阳错                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

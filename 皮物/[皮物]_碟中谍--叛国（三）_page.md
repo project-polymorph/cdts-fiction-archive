@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_碟中谍--叛国（三）.docx]([皮物]_碟中谍--叛�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇伪娘跨性别相关小说，描绘了男主角李拓被强制催眠后，女性化形象的转变与心理斗争。故事开始时，李拓跟随一位身着华服的女子，逐渐被带到一个华丽的地下宫殿。在此宫殿中，他被一位魅惑的教主惜心控制，彻底失去对自己性别的认知。文中采用了大量暗示性的语言，描述了李拓身体与意识的变化过程，以及他在被催眠与自我觉醒之间的挣扎。此作品强调了性别认同的混乱与自我探索，涉及催眠、控制、血腥、变装等主题。同时，故事不乏情色描写，对李拓在变身过程中的身体感受与心理变化进行了细腻的刻画，以及他在面对外部威胁时的反应。最后，李拓在经历了一系列的冲突和转变后，重新审视了自己的身份与目标。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_碟中谍--叛国（三）.docx]([皮物]_碟中谍--叛�
 | Size            | 21738 bytes                           |
 | MD5             | ee3c52145cd3b8f02b8b6bf44812ecb9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 催眠, 强控, 心理斗争, 自我探索, 血腥, 真理教, 脸谱, 性别认同, 魔法, 地下密室, 女性欲望, 角色交换, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

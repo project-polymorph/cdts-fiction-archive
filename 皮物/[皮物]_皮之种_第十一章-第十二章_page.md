@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮之种_第十一章-第十二章.doc]([皮物]_皮之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档是《皮之种》的第十一章和第十二章，由岚山ＧＯ创作，封面使用了简体中文。章节内容围绕一群角色在海边度假的冒险和互动展开。故事涉及角色们在海滩玩耍、日光浴以及回酒店后的晚间活动，内容中夹杂着暧昧和性暗示的描写，特别是角色之间的亲密互动以及药物带来的效果。角色们讨论日光浴、防晒霜的使用，描绘了角色们对阳光和身体的不同反应，及其对于外表与自我认同的冲突感受。整篇围绕友谊、欲望与探索等主题展开，文学手法上使用了细腻的描写和对话，体现了角色之间复杂的情感状态。同时，文中涉及了一些较为敏感的情节，适合成年读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮之种_第十一章-第十二章.doc]([皮物]_皮之�
 | Size            | 85504 bytes                           |
 | MD5             | eedea2cb32b137b768d8f7b3cdb73e00                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 岚山ＧＯ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 青春期, 日常生活, 友谊, 探索自我, 药物影响, 海滩度假, 亲密关系, 浪漫, 成人内容, 性别认同, 恋爱, NTR, 调教, 百合, 多重关系, 幻想, 年龄差, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

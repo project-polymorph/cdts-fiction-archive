@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_自我催眠：空姐篇.doc]([催眠]_自我催眠：空�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于自我催眠体验的小说，主要讲述了一个空姐在一次飞行中，受到同事的启发，尝试自我催眠以改善睡眠质量。在实验过程中，主角实现了身体性别的转换，体验到了作为女性的身体与感受。故事中，通过自我催眠，主角将自己催眠成一名男性，并在这个过程中感受到许多新奇与陌生的性爱快感，甚至开始享受控制自己身体的快感。小说不仅涉及了性别认同的探索，还包含了许多性相关的情节，描写了主角在双重性别身份和个体欲望之间的挣扎与乐趣。该文还充满了对自我催眠的反思与心得。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_自我催眠：空姐篇.doc]([催眠]_自我催眠：空�
 | Size            | 42496 bytes                           |
 | MD5             | 1d3c74f57d4094d84f86c6edb883477c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 自我催眠, 空姐, 性别转换, 双重身份, 性探索, 现代爱情, 奇幻, 心理实验, 女性视角, 性别认同, 快感体验, SM情结, 内心冲突, 角色扮演, 性别流动性, 情感纠葛, 神秘心理, 奇幻现实主义                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

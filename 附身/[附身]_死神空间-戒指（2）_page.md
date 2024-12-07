@@ -7,7 +7,7 @@ TXT 下载: [[附身]_死神空间-戒指（2）.doc]([附身]_死神空间-戒�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一个包含伪娘和变身情节的小说片段，描述了一场围绕角色母子关系的敏感故事。故事以“妈妈，您来了”开头，展现了一个男性角色与其母亲的互动，但随着情节发展，母亲的身份被男性角色取代，从而引发了一系列夹杂着露骨情欲的场景。角色间的对话和互动充满了性暗示和挑逗，甚至涉及不当的亲密行为。整篇文章交织着性别角色的转变和角色间的不当关系，极具挑衅性，同时也揭示了角色对自身身份的探索。文件还包含了一些插图和对角色外表的详细描绘，例如“黑色包臀裙”和“黑色高跟鞋”等，这些元素进一步加深了文本的性暗示和含蓄魅力。总体来看，这是一个具备伪娘和变身主题，同时涉及性别认同与亲密关系的复杂叙述。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_死神空间-戒指（2）.doc]([附身]_死神空间-戒�
 | Size            | 73216 bytes                           |
 | MD5             | 9712522d06ffb73deba63e59b4e7fca1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 亲密关系, 性别认同, 性暗示, 成人内容, 小说, 幻想, 角色互动, 母子关系, 角色扮演, 二次元, 调教, 灵魂转换, 奇幻情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

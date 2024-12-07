@@ -7,7 +7,7 @@ TXT 下载: [[变身]_比离婚更好的解决方案(6).docx]([变身]_比离婚
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于角色性别转换的小说，讲述了珍妮佛、迪恩、海伦和理查德等角色在新身体中适应生活的过程。故事围绕着在学校和家庭中面临的困境，以及角色们如何应对这些变化。在故事中，珍妮佛生活在她哥哥的身体里，而迪恩则变成了他妹妹的身体。该文件详细描绘了他们在适应新环境、面对他人看法和生理变化方面的内心挣扎。在体育课上的比试、自我认知的冲突以及如何面对新生生活等情节中，表现出性别身份的探索与融合。通过对角色的描写，展现了在性别转换背景下的情感和社会适应问题。此外，本故事还涉及到了部分校园的严规和角色们对待权威的反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_比离婚更好的解决方案(6).docx]([变身]_比离婚
 | Size            | 18116 bytes                           |
 | MD5             | 2af189c225173de0f834aebf9f0e6e0c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转小说, 伪娘小说, 自我探索, 青春成长, 校园生活, 身体转换, 心理冲突, 家庭关系, 师生关系, 生理变化, 社会适应, 女性生理期, 性别表达, 二次元文化, 耽美, 恋爱, 逆境成长, 变装, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

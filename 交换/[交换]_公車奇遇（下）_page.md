@@ -7,7 +7,10 @@ TXT 下载: [[交换]_公車奇遇（下）.docx]([交换]_公車奇遇（下）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一段围绕性别转换与身体互换主题的小说情节。故事描述了两个角色的身体交换，涉及男性童贞和女性通过性的体验与自我认同之间的冲突与探索。文本强调了身体与性别认同的复杂关系，描绘了角色在不同身体中所经历的身体快感与心理感受。
+
+在情节中，一名男性角色表达了对其新身体的快感和惊奇，他说：\"我的鸡鸡在我本来身体里，太舒服了，只能服从于身体的欲望。\" 同时，文中涉及了多个性行为场景和对身体的探索，具有明显的性的暗示与描写，角色之间的动态不仅包括身体上的变化，还有心理上的认知。\n
+文本风格较为直白且具体，包含大量涉及性行为的细节描写，适合成年读者。整体上，这部作品探索了性别流动性和个体在不同身体中的心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +24,10 @@ TXT 下载: [[交换]_公車奇遇（下）.docx]([交换]_公車奇遇（下）
 | Size            | 32284 bytes                           |
 | MD5             | 362b87891665481aa7d58ee622158cc7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身体互换, 伪娘, 强烈的身体快感, 心理冲突, 异常关系, 青春期探索, 自我认同, 同性恋情, 性别流动性, 二次元文化, 性幻想, TRPG（桌面角色扮演游戏）, 成年题材, 恋母情结                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

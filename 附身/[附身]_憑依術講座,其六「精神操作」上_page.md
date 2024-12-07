@@ -7,7 +7,7 @@ TXT 下载: [[附身]_憑依術講座,其六「精神操作」上.docx]([附身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《憑依術講座》第六章，由作者トゥルー创作，翻译者为ff7063252597。内容涉及角色通过心理与身体的连接，体验姐姐的身体并进行一系列与柔软、温暖相联系的探索。文件开头提到由于字数限制将内容分为两部分，因此上篇未收费。在章节中，主角以姐姐的视角感受到沐浴的乐趣，体验女性身体的细腻触感和温暖愉悦的状态。随着情节发展，探讨了偷窥和身体的感官享受，文字中充满了对身体接触、感受的生动描绘，尤其是在水中感受身体的柔软与美好。此章节紧扣「憑依术」概念，描绘了思想交流与身体感知的相互影响和对角色自我认知的挑战。这种设置也引出了一些伦理和心理方面的思考，比如对角色身份的迷惑与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_憑依術講座,其六「精神操作」上.docx]([附身]
 | Size            | 36361 bytes                           |
 | MD5             | 48f7931d46f3567c33b93301fe109490                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | トゥルー，译者：ff7063252597                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 鸡肉姬, 精神操作, 身体探索, 女性视角, 沐浴, 亲密接触, 自我认知, 伦理思考, 黏着感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

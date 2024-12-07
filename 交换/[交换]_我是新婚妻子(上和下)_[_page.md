@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我是新婚妻子(上和下)_[.docx]([交换]_我是新�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《我是新婚妻子》讲述了一场奇异的身体交换故事。故事的主角在未知原因下与邻居的大姐姐瞳交换了身体，如何在瞳的婚礼前一天发生了这一事件。在没有找到恢复的方法后，主角不得已与瞳的丈夫结婚，逐步适应新婚生活，并体验到了女性的生活状态和情感。故事中多次描绘了主角的内心挣扎与身心变化，如"明明三年前都还是个国小男学生，现已变成一个会做妻子的太太了"，体现出对新身份的接受与探索。同时，故事也涉及较为明显的性描写，如主角与丈夫的亲密行为，以及在家庭生活中的细节描写，诸如“我一边做着家事一边想着老公。”这些情节探讨了性别认同与交流之复杂性，以及身体与自我的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我是新婚妻子(上和下)_[.docx]([交换]_我是新�
 | Size            | 21746 bytes                           |
 | MD5             | 71bd91ccaf0a79fbf75267a05e4b2ca5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 婚姻, 自我探索, 性别认同, 家庭生活, 亲密关系, 情感冲突, 身体交换, 女性视角, 奇幻故事, 成长, 性意识, 都市, 励志, 心理变化, 情感纠葛, 爱情, 性行为                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

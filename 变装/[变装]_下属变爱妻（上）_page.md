@@ -7,7 +7,7 @@ TXT 下载: [[变装]_下属变爱妻（上）.docx]([变装]_下属变爱妻（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了黎阳，一个43岁的单身父亲的故事。他的妻子早逝，他在养活儿子的同时逐渐意识到自己内心深处女性的一面。在照顾儿子和家庭的过程中，黎阳形成了复杂的情感与性别认同，他逐步接受并享受穿着妻子的衣物，开始展现女性化的举止。在一次醉酒后，黎阳和他的上级张兵之间出现了微妙的互动。张兵对黎阳的关注和好感逐渐升温，尤其是对黎阳女性化形象的好奇和迷恋。故事描绘了一个关于性别认同、自我探索与内心冲突的深刻情节，融合了情感、职场与禁忌的爱。文章中包含了一些成人情节和性相关描写，展现了角色心理与情感变化的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_下属变爱妻（上）.docx]([变装]_下属变爱妻（
 | Size            | 30292 bytes                           |
 | MD5             | 6d95cedef6c347f72db5b2cb1b497eb8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 家庭, 职场, 情感冲突, 女性化, 喝酒, 禁忌爱情, 伪娘, 强奸, 调教, SM, 跨性别, 变装, 变嫁, 情感纠结, 吸引                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

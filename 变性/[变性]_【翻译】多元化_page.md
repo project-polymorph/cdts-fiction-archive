@@ -7,7 +7,9 @@ TXT 下载: [[变性]_【翻译】多元化.doc]([变性]_【翻译】多元化.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由Maryanne Peters撰写的关于多元性别话题的翻译作品。文本讲述了一名男性在职场上面临的多元化挑战，包括性别认同和跨性别身份的探索。在对话中，路德提出了关于职业成功与性别倾向的讽刺性意见，引发了主人公的深思。随之，他决定探索跨性别的可能性及其带来的社会影响，从改名、就医到社交圈的变化，这段经历描绘了他在性别认同上的矛盾与挣扎。
+
+文本中包含个人内心的反思与社会认同的探讨，尤其是涉及到职场如何对待不同性别身份的员工。同时，文本亦提及了跨性别者的现状及身边人对于这些变化的反应，包括对待新女性身份的期待和担忧。这是一个关于自我发现与接受自己真实身份的深入探讨，表现了在现代社会对性别多元化的逐步认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_【翻译】多元化.doc]([变性]_【翻译】多元化.
 | Size            | 71168 bytes                           |
 | MD5             | 79256186d8ff06843eb4d140f68d4e8e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 魔之天涯（翻译）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 自我探索, 职场挑战, 多元性别, 社会认知, 双性恋, 职业成功, 性别动态, 身份变化, 社交圈, 性取向, 心理挣扎, 少数群体, 性别歧视, 女性化, 性别标签, 社区支持, 性别转变, 现代社会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

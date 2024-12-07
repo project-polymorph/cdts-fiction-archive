@@ -7,7 +7,7 @@ TXT 下载: [[附身]_爸_你回來了（上）.doc]([附身]_爸_你回來了�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕着一位主治医生与其父之间复杂的关系展开。主人公的父亲是个不务正业的人，沉迷于赌博与享乐，这导致了家庭的破裂，主人公与母亲关系紧密，但与父亲的关系却充满了怨恨和无奈。故事中，父亲多次以经济威胁来索要金钱，试图通过施压来操控主人公。主人公每次的妥协都让他更加愤怒，但出于情感的牵绊，他又难以彻底切断与父亲的关系。在与父亲的冲突中，主人公内心挣扎，面对自己与父亲的矛盾，最终决定断绝关系。在此过程中，出现了与护士小微的微妙互动，这位美丽的护士让主人公内心复杂的情感又开始波动。小微对自身形象的认知与逐渐显露的性感魅力也使得故事在性别认同与吸引力的层面上更为深入，展示了人物在性别、身份与欲望之间的交错与选择。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_爸_你回來了（上）.doc]([附身]_爸_你回來了�
 | Size            | 38400 bytes                           |
 | MD5             | c209af12f751bc4ce18ff80968a31e0c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 家庭关系, 自我探索, 医疗环境, 经济压力, 父子关系, 色情, 变身情节, 护士角色, 二次元文化, 戏剧性冲突, 情感纠葛, 暗恋, 心理变化, 性启蒙, 禁忌关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

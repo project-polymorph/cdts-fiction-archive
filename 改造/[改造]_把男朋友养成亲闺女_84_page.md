@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_84.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部关于性转和跨性别主题的小说，主要围绕角色贝丽和她的闺蜜坎迪在成长过程中的情感与身份探索。贝丽在经历性别转换后，与传统的性别角色产生冲突，描写了她初次上厕所时的心理过程，以及在这一过程中对自己身体的探索和自我认知的变迁。故事描绘了贝丽对自己新身份的反思，包括对自己身体和性别角色的认同和困惑。长文中包含了 贝丽在情感上对坎迪的依赖，兄弟关系以及与家庭的互动，尤其是与“奶奶”的温馨关系。最后，贝丽与坎迪共同为自己的18岁生日派对做准备，展现了青春的迷茫与探索。文本包含敏感情节，涉及一些成人内容与情感深度的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_84.docx]([改造]_把男朋友
 | Size            | 18987 bytes                           |
 | MD5             | aa1fa12d36c7e4ac947a6ff539f9c280                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 性转, 成长, 自我探索, 友情, 家庭关系, 青春, 二次元, 变装, 生日派对, 性愉悦, 心理冲突, 情感依赖, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

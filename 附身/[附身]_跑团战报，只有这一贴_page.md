@@ -7,7 +7,7 @@ TXT 下载: [[附身]_跑团战报，只有这一贴.doc]([附身]_跑团战报�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一次角色扮演游戏（RPG）的战报，内容是关于一场以DND3规则为基础的跑团游戏。主持人暖檬与玩家天天吃稀饭共同参与了这场游戏，玩家在游戏中经历了校园生活的设定，视角第一人称，带有穿越与附身的设定。玩家角色汪洋在校园宿舍醒来后，逐步回忆起了另外一个世界的存在并与宿舍内的其他角色互动。游戏中加入了灵魂附身、角色属性等独特的RPG元素，玩家需要通过完成新手任务来获得经验值和技能。文件的内容详细描绘了角色的探索、能力的使用及灵魂附身成功后的体验，展现了复杂且富有创意的情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_跑团战报，只有这一贴.doc]([附身]_跑团战报�
 | Size            | 69632 bytes                           |
 | MD5             | 9eb37f8f9cf4a10d7cfb0ebc965c0fe1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跑团游戏, 角色扮演, 灵魂附身, 校园生活, 穿越, 角色成长, 系统设定, 第一人称视角, 互动剧情, 幻想小说, 自我探索, 精神能力, 非人类角色, 二次元风格, DND规则, 故事发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_小子，你怎是女人！〔正篇〕（六）假酒野�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一本跨性别相关的小说，主要围绕角色奈美的性别转换与自我认知展开。故事中，奈美似乎成了一种植物人状态，身边的朋友和家人都在关注她的病情，而她的内心世界却充满了挣扎与变化。在过程中，安德不断思考自己与奈美之间的关系，并试图解决奈美的病情。在此背景下，另一人物酒野英子则在家中过着普通的家庭主妇生活，却因奈美的变故而感到复杂的情感。英子在一次偶然的情况下遇到了与奈美一模一样的一个女子，二者的身份和关系引发了一系列情感的波动与冲突。文件内容详细描绘了角色的内心变化及他们在探索性别认同、自我接受过程中的种种心理活动和社会互动。小说包括了一些成人情节，特别是涉及酒野英子的私密情感与情欲体验，涉及刺激与冲突的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_小子，你怎是女人！〔正篇〕（六）假酒野�
 | Size            | 30507 bytes                           |
 | MD5             | f8fc1c60de7d9105f7afaead77887f43                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 心理挣扎, 自我探索, 二次元, 家庭关系, 身份认同, 成人内容, 情感纠葛, 隐秘爱情, 性转, 女体化, 强烈情欲, 女性视角, 复杂情感, 都市奇幻, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

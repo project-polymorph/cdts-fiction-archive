@@ -7,7 +7,7 @@ TXT 下载: [[变装]_她在对我微笑吗？【上】.doc]([变装]_她在对�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于爱情与性别探索的小说系列的开端，围绕主角马特与一个名叫莉兹的年轻女孩的相遇与互动展开。故事发生在一个高档酒吧，马特意外地与莉兹相识，莉兹温柔可爱，主动向他示好，令马特感到不可思议。两人经过一番交谈与调情，马特逐渐被莉兹的魅力所吸引，最后决心请她吃晚餐。随着情节的发展，莉兹不仅展现了女性的温柔，还暗示了性关系的可能性。故事中对两位角色的心理以及彼此之间的吸引力进行了细腻的描写。尽管情节围绕着调情与约会，但故事中也透露出关于性别认同和自我探索的潜在主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_她在对我微笑吗？【上】.doc]([变装]_她在对�
 | Size            | 43008 bytes                           |
 | MD5             | afebc1fdbee97fc23de2e0c407347d9c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 爱情小说, 调情, 性别认同, 二次元文化, 约会, 幻想, 青少年, 都市爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

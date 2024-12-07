@@ -7,7 +7,7 @@ TXT 下载: [[变身]_父與子的奇妙愛情(試寫篇).docx]([变身]_父與�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇性转题材的试写小说，标题为《父与子的奇妙爱情（试写篇）》。内容涉及一位父亲在一次神秘科技实验后变为年轻女性的情节。故事描述了父亲如何在变身后，与儿子之间逐渐扭曲且复杂的关系展开。由于实验的影响，父亲的外貌变成了一名高中女生，甚至在情感与身体的双重转变中产生了深刻的自我认知冲突。文本中包含了大量的情欲描写与强烈的亲密关系场景，探讨了家庭内部禁忌情感的复杂性。整篇作品展现了对性别、身份认同及亲情关系的挑战与思考，同时伴随着对性欲与道德界限的大胆突破。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_父與子的奇妙愛情(試寫篇).docx]([变身]_父與�
 | Size            | 26094 bytes                           |
 | MD5             | 25fdcab0bd49db18a6a534d082530ef1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 父与子, 变身, 性转小说, 跨性别, 家庭关系, 自我认同, 禁忌爱情, 情欲, 二次元, 女性化, 青春, 科技实验, 亲情与爱情的冲突, 父母与子女, 变性相关, 性别认同, 强烈情感, 亲密关系, 道德挑战, 独特视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

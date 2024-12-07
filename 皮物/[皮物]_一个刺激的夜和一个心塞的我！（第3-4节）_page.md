@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_一个刺激的夜和一个心塞的我！（第3-4节）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《一个刺激的夜和一个心塞的我！》，主要围绕着性转主题展开。故事中，一名男性角色在丈母娘的房间中首次体验到一种奇妙的气味，随后与一个穿着丈母娘人皮的角色展开了对话。角色详细解释了人皮的构造和释放过程，这种情景描绘出强烈的生理与心理上的冲突和奇异感。特别是角色之间关于人皮的讨论，不仅涉及生物技术的改造，还触及了角色的身份认同，生死与意识交流的主题。文中包含大量的色情内容及敏感情节，对人皮的描绘展现出一种超现实的奇异美感，同时也凸显出关于性别认同和个人欲望的探讨，为这一领域的研究提供了丰富的素材。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_一个刺激的夜和一个心塞的我！（第3-4节）.
 | Size            | 29608 bytes                           |
 | MD5             | 19b143c20ae29caf46b44ce5d2a61508                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 人皮, 身份认同, 生物技术, 伪娘, 跨性别, 刺激的夜, 心理冲突, 成人内容, 奇异体验, 性别认同, 科技幻想, 爱情,  NTR, 调教, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

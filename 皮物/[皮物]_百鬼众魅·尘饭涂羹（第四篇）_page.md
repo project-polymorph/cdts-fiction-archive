@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_百鬼众魅·尘饭涂羹（第四篇）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是以儿童福利院为背景的跨性别小说的一部分，讲述了心明老师与傀魅之间的互动，以及他们在福利院中的孩子们的故事。故事中，心明老师回到了伊甸福利院，受到孩子们的热烈欢迎，尤其是傀魅以其安抚能力受到孩子们的爱戴。心明老师与傀魅共同策划了一份生日礼物，决意将某个特殊的皮物作为礼物送给刚被领养的两个孩子，女孩名为亚当，男孩名为夏娃。故事探讨了家庭与亲子关系，尤其是由于养父母的忽视而产生的空虚感。文中描绘了孩子们对于新的身份和家庭状况的好奇与不安，反映出他们对家庭温暖的渴望和对未知的期待。这不仅是对性别认同的探索，也涉及了心理层面的深刻思考和身份构建。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_百鬼众魅·尘饭涂羹（第四篇）.doc]([皮物]_�
 | Size            | 81920 bytes                           |
 | MD5             | 609e603c20d316cbc5668def3f99ef3d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 童年, 福利院, 家庭关系, 性别认同, 自我探索, 成长, 心理冲突, 角色变换, 亲情, 特殊礼物, 情感依赖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

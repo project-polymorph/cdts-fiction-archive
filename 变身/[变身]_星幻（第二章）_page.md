@@ -7,7 +7,7 @@ TXT 下载: [[变身]_星幻（第二章）.docx]([变身]_星幻（第二章）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《星幻》的第二章，主要讲述了主角星宇与一名女孩的奇幻经历。在这一章节中，星宇在电梯中与一名美丽的女孩相遇，女孩的外貌令人惊艳，她的细长柳叶弯眉和透彻人心的眼睛给星宇带来了震撼。然而，不测之风云突至，电梯内出现了危险，星宇为了保护女孩，施展了他的异能使用“离空盾”抵挡子弹。在紧张的气氛中，两人经历了压力的增加，星宇感受到了绝境的来袭，并使用了不同的卡片来应对。他内心充满了懊恼，对这场战斗感到恐慌与不安。在不断增加的压力之下，最终，星宇与女孩的命运交织在一起，展现了异能与超现实的交互。文件包含丰富的奇幻元素和对角色内心的刻画，展现了生死边缘的紧张气氛和复杂的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_星幻（第二章）.docx]([变身]_星幻（第二章）
 | Size            | 17695 bytes                           |
 | MD5             | 51ada30b7feb6d5a0c8681165b36cc17                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 异能, 电梯, 保护, 女主, 紧张, 奇幻, 超现实, 角色内心, 冒险, 心理冲突, 魔法, 战斗, 悬疑, 陌生人之间的关系, 生死决斗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

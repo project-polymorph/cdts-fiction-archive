@@ -7,7 +7,7 @@ TXT 下载: [[附身]_楊文和王雨（一）.docx]([附身]_楊文和王雨（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以性别转变和跨性别为主题的小说，描绘了角色杨文与王雨之间复杂的关系。故事开始于两人相识的十年前，描述了杨文对王雨的爱慕与偷窥，表现出角色对自我身份认知与欲望的探索。在多个场景中，杨文以其独特的妄想和行为逐渐揭示了自己内心的渴望和变态需求，尤其是在与王雨亲密接触的细节描写中，展现了对身体和情感的紧密联系。王雨虽然对杨文的行为感到不满，却也带有微微的回应，表现出她内心的挣扎和矛盾。整体文本包含大量情欲描绘和心理分析，涉及隐秘爱情和性别认同的复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_楊文和王雨（一）.docx]([附身]_楊文和王雨（
 | Size            | 27862 bytes                           |
 | MD5             | 2f0ad5d0fcd928d1b3d1a42cd98e4f0c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 情欲, 妄想, 偷窥, 强奸, 青春, 禁忌恋, 女性视角, 性别认同, 心理探索, 二次元, 高校生活, 现代爱情, 隐秘关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

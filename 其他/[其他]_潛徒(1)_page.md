@@ -7,7 +7,7 @@ TXT 下载: [[其他]_潛徒(1).docx]([其他]_潛徒(1).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部涉及职场和复杂人际关系的小说，内容围绕几位角色的互动展开。故事主要围绕两位女性角色，露丝和凱特，描绘她们在工作环境中的微妙关系和情感波动。露丝在与凱特的谈话中显得有些为难，而凱特则表现出对露丝的关注并试图打破她的顾虑。小说中还涉及露丝的秘書莎拉和另一位角色安娜，与她们之间的互动和暗示的情感关系进一步增加了故事的复杂性。文本多次提到角色之间的肢体接触和情感互动，突出表现了女性之间的情感和欲望。内容中包含了一些敏感而可能引发争议的情节，涉及性暗示和调情，这使得文本更趋于成人向。同时，小说通过对职场日常生活的描写，探讨了权力关系和性别动态，以及个人认同和探索过程的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_潛徒(1).docx]([其他]_潛徒(1).docx)
 | Size            | 25684 bytes                           |
 | MD5             | 345e125bfc9c4160fb2a4ceea6513700                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | kk9700                               |
+| Region          | 未知                               |
+| Date            | 2011-05-16                                 |
+| Tags            | 职场恋情, 女性向, 性暗示, 情感纠葛, 复杂人际关系, 职场权力动态, 女强人, 情欲, 秘密关系, 女性自我认同, 调情, 暗示性行为, 情感探索, 心理描写, 强烈情绪, 职场故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

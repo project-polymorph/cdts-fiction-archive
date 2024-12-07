@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_谍海商战2.docx]([皮物]_谍海商战2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部围绕性转与跨性别主题的小说，主要情节发生在S市流云机场。故事围绕主人公赵欢与其“女儿”赵琳在机场迎接一位神秘人物L的过程展开。机场内，气氛紧张而神秘，身穿黑色西服的保镖们保护着这对父女。文件中提到L的身份引人关注，赵琳调侃着L可能是女性，并暗示其神秘身份。随着人群流动，一位貌美的白皙妇女——赵欢的妻子钱月登场，她的高贵气质与年轻貌美相得益彰，逐渐引起了赵琳的注意。故事深描绘了情节的发展，逐步揭示出组织内部的复杂关系，涉及高科技变身、任务布局和人物之间的幽默对话。同时，故事中出现了易容、组织代号等元素，使得情节更为悬疑紧张。小说的后半部分提到组织的神秘代号和任务，为后续情节的展开留下了悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_谍海商战2.docx]([皮物]_谍海商战2.docx)
 | Size            | 24502 bytes                           |
 | MD5             | 46efdf05b7ce370220f86d8b49e10240                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 易容, 悬疑, 组织代号, 父女关系, 机场场景, 人物心理, 神秘任务, 高科技, 二次元, 小说, 剧情发展, 角色之间的互动, 生活场景, 情感关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

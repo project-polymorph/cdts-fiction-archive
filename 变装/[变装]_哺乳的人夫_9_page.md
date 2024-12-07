@@ -7,7 +7,7 @@ TXT 下载: [[变装]_哺乳的人夫_9.doc]([变装]_哺乳的人夫_9.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别主题的小说，主要讲述了一位男性角色在经历性别转变后的情感与身体的蜕变。故事环绕着主人公与其伴侣张兴之间的亲密关系，描绘了在心理变化与身体变化过程中，主人公对自我的重新认知和对爱情的渴望。在文章中，主人公反思自身过去的遭遇以及在新的性别认同中所获得的幸福感。情节穿插着对性的强烈展现与情感的细腻描写，包含了对角色之间亲密行为的深入刻画，如在浴室的亲吻、对身体的探索等。主人公在经历了生理和心理的两重转变后，内心挣扎于对家庭责任与个人幸福之间，激发出对未来生活的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_哺乳的人夫_9.doc]([变装]_哺乳的人夫_9.doc)
 | Size            | 47104 bytes                           |
 | MD5             | f384fa0ef88e39ca4c74854fc6a31a0a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 情感纠葛, 自我探索, 性转, 变装, 伪娘, 强烈情欲, 角色内心斗争, 亲密关系, 恋足癖, 情欲, 文学创作, 二次元, 小说, 现代爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

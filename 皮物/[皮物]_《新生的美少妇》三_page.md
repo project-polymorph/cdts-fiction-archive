@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《新生的美少妇》三.doc]([皮物]_《新生的美�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于性别转换和夫妻关系的小说，讲述了主角陈璐的转变过程。他由男性变成女性，并在婚姻生活中努力维持家庭的和谐。故事中，陈璐对于丈夫张阳的不忠感到愤怒，因此决心改变自己，以便获得丈夫的爱和关注。故事细描了陈璐的内心斗争和适应新身份后的情感变化。张阳对于妻子的变化开始有些困惑，但逐渐被其美貌和体贴所吸引。小说中存在一些性暗示和色情内容，包括夫妻之间的亲密行为以及陈璐对自我身份的探索。整体来看，该作品探讨了性别认同、自我价值和家庭关系等重要主题。此外，作品还涉及了现代家庭中的情感问题，以及个人对角色变化的接受度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《新生的美少妇》三.doc]([皮物]_《新生的美�
 | Size            | 31232 bytes                           |
 | MD5             | ce80edac807600a647d9d96f937c4414                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 婚姻关系, 自我探索, 思想冲突, 家庭伦理, 女性视角, 情感纠葛, 强烈情欲, 变嫁, 生活琐事, 现代爱情, 性暗示, TSF, 陷入爱情, 情感依赖, 新女性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_舊短篇二篇__夜很色，撿屍吧__舞台表演.doc](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含两篇与伪娘、性别变换和性相关故事的短篇小说。其中第一篇名为《夜很色，捡屍吧》，描绘了主人公宏平在酒吧等待时，一个醉酒女子被他接走后的情节。故事展示了宏平对女子的物理接触与冲突，以及最后的性转和身份混淆，充斥着对身体和性别的探索和表现。具体情节包括宏平为获得满足而对女子实施控制，最终他也被迫进入女性身份，体验身体的转变。第二篇《舞台表演》描述的是一位男性在假日参加表演的经历。他在表演中被修女们捉住，讲述了他被迫穿上修女服的故事，透露了对身份认同的冒险和复杂的性别角色。当中不乏强调权威与控制的元素，以及角色对自我身份的重新认识与接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_舊短篇二篇__夜很色，撿屍吧__舞台表演.doc](
 | Size            | 37888 bytes                           |
 | MD5             | 58c15de4068859916e2a2c605e56ca1b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 性转, 变身, 强制性行为, 舞台剧, 自我探索, 权威与服从, 人际关系, 性别角色, 黑暗幻想, 情感冲突, 性内容, 心理挣扎, 女性身体, 男性视角, 社会禁忌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

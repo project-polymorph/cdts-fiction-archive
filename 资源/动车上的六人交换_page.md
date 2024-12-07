@@ -7,7 +7,7 @@ TXT 下载: [动车上的六人交换.doc](动车上的六人交换.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《动车上的六人交换》是一则围绕群体性别转变和自我认同探索的小说。故事从大学生白洁与其女友苏眉的假期出发，二人决定去日本富士山游玩。在乘坐满员的动车途中，意外发生，一场致命的碰撞使得几名乘客遇难。白洁等六位乘客在一处白色神秘空间中获得了重生的机会，但这一机会伴随着巨大的身体和身份变化。角色们脱去衣物的情节充满了性别转换和自我认知的挑战，白洁在不受控制的情况下逐渐化身为女性，她的身体特征、声音，甚至性别角色都发生了剧烈变化。小说探讨了性别身份、性转换、身体认知等主题，同时包含了较为露骨的性描写和情节，特别在性别角色与身体外观互换的过程之中，引发了对自我、他人和新身份的复杂情感反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [动车上的六人交换.doc](动车上的六人交换.doc)
 | Size            | 51712 bytes                           |
 | MD5             | b19c40bbabb41f0a41c9ff583771445a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 好斤斤                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 跨性别, 自我认同, 群体意识, 性转小说, 奇幻, 爱情, 探索身体, 情感冲突, 互换身份, 性描写, 现代言情, 日本文化, 同性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

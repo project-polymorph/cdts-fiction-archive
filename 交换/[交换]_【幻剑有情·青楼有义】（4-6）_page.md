@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【幻剑有情·青楼有义】（4-6）.doc]([交换]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一段有关伪娘与性转的小说内容，描绘了主要角色朱洪峰在妓院中与男性角色的复杂关系和个人心理变化。朱洪峰作为清倌，反映了其在权力与欲望交织背景下的生存与挣扎。文本中展现了李泰这个新任兵部侍郎对朱洪峰的占有欲，尤其在几次亲密接触中流露出的感情与欲望。故事涉及职业妾侍的生活，包含她们在权力游戏中的角色，情感依附与金钱利益的冲突。同时，文本中穿插了相对隐晦的自我探索主题，朱洪峰在努力迎合赵老爷的同时又隐隐感受到内心的矛盾与斗争。随着情节的发展，她逐渐意识到自己在这权利与欲望的游戏中不过是交换的工具。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【幻剑有情·青楼有义】（4-6）.doc]([交换]_�
 | Size            | 56320 bytes                           |
 | MD5             | b4fdb019b8d5f2a921048e3d48cf5552                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 男娘, 强奸, 淫荡, 调教, 变嫁, NTR, 独白, 自我探索, 爱情, 权力游戏, 金钱交易, 心理斗争, 清倌生活, 情感纠葛, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

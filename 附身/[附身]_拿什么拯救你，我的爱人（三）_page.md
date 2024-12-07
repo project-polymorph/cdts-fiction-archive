@@ -7,7 +7,7 @@ TXT 下载: [[附身]_拿什么拯救你，我的爱人（三）.doc]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为中文性转/变身小说章节，主要围绕角色蓝若雨与云岭在考古研究所的互动展开故事情节。蓝若雨是一位因外貌而受到关注的新来的女研究员，她不仅人美、手巧，且其技艺在修复文物方面引起同事们的赞赏。然而，随之而来的八卦和流言蜚语也让她深感困扰。在与云岭的接触中，蓝若雨试图通过暧昧的方式来提升和云岭的关系，以达到个人目的，并在过程中揭示出云岭与其女友刘菲之间的微妙关系。故事不仅描写了蓝若雨的魅力与云岭的犹豫，同时也探讨了性别认同、自我探索和社交动态等主题。整段故事充满了紧张的情感对话与性暗示，展现了男女主角之间复杂微妙的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_拿什么拯救你，我的爱人（三）.doc]([附身]_�
 | Size            | 36352 bytes                           |
 | MD5             | c2a0e7ebf48e2148b5aca79b563292d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 伪娘, 跨性别, 心理冲突, 研究所, 情感纠葛, 暧昧关系, 社会压力, 自我探索, 学术竞争, 讨厌的流言, 西餐厅约会, 恩怨情仇, 师兄妹关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

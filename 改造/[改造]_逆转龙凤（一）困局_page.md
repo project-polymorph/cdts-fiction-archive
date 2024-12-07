@@ -7,7 +7,7 @@ TXT 下载: [[改造]_逆转龙凤（一）困局.doc]([改造]_逆转龙凤（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《逆转龙凤（一）困局》是一部架空历史的小说，设置在东源大陆的风合帝国。故事围绕着风合国的历史与政治背景展开，描写了风合国作为一个强大的帝国在过去数万年中的繁荣与稳定。在这个王国中，盗墓贼兴起，盗取古文物，结果引起皇室的重视与行动。书中展示了天光城的繁华和皇宫的威严，描述了街头黑甲骑士的出现与禁城令的颁布，暗示皇室可能发生的政变，带出了紧张的氛围。三位角色讨论了目前的局势，引出了叛军叶景肖的野心，以及动用军队的禁令。在描述中涉及了盛世与权力斗争的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_逆转龙凤（一）困局.doc]([改造]_逆转龙凤（�
 | Size            | 44544 bytes                           |
 | MD5             | b7b055db0f91abe82f1f632b8eb2067b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 架空历史, 性别转换, 权力斗争, 政治阴谋, 东源大陆, 强国, 盗墓贼, 皇宫, 禁令, 叛乱, 传奇, 自我探索, 变身, 两性关系, 历史文化, 军事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

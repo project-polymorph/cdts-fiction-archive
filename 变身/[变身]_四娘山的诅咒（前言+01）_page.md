@@ -7,7 +7,7 @@ TXT 下载: [[变身]_四娘山的诅咒（前言+01）.doc]([变身]_四娘山�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档描述的是一部名为《四娘山的诅咒》的小说的前言和第一章，故事背景设定在中国西南的C市，围绕着一个名为四娘乡的村落及其深厚的历史传说展开。故事讲述了四位天将化成四位美丽女子嫁入水淼乡，凭借自己的智慧和能力改变了村庄的命运，使之从灾荒变为富饶的土地。这四位天将白白奉献给了村庄，最终选择留在人间并化为女性，过上了为人妻为人母的生活。随着时间的推移，村民们形成了对于四娘的崇拜与敬仰，然而四娘山的庙宇却被视作神圣禁地，传说中的诡秘引起了故事主角们的探险欲望，四个年轻男子决定回到故乡共同探寻这段古老的传说。文本中还涉及对角色变化的讨论，暗示小说将探索变身与性别认同等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_四娘山的诅咒（前言+01）.doc]([变身]_四娘山�
 | Size            | 58880 bytes                           |
 | MD5             | 7fa0408e77714ad0bb711d188644327c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 神话传说, 自我认知, 年来传统, 乡村故事, 奇幻冒险, 兄弟情谊, 性别认同, 天将与凡人, 人性探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

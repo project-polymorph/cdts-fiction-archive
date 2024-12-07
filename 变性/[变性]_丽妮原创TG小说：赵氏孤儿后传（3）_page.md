@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（3）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为原创的 TG （变性）小说，讲述了男性角色赵武被迫女扮男装的故事。故事背景设定在古代，赵武为逃避追捕而接受了女装的挑战，描绘了他穿着女子衣物所遭遇的尴尬、羞涩与自我认知的冲突。文中如月、青玉等女性角色的出场，为赵武的变装提供了帮助和建议，让他在一众姐妹的注视下，逐渐扮演起女性角色。在穿着女性衣物后，赵武看到了镜中自己与母亲相似的面容，深刻体验到性别转换所带来的身份认同的挑战。同时，整个故事因涉及女性的委屈及难处，反映出更深层次的性别问题与历史背景。小说中包含对赵武在该环境下的生存与复仇计划的探索，暗示了他因被迫女扮而对权力与父权社会的反思与质疑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（3）.docx]([�
 | Size            | 22037 bytes                           |
 | MD5             | 930a2a3ca19031f7784ce03c98589c54                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 伪娘, 男娘, 古代小说, 性别认同, 自我探索, 羞耻与反思, 复仇, 权力对抗, 女性角色, 身心冲突, 调教内容, 性别转换, 情感纠葛, 身份认同, 文学作品, 情节发展, 古代背景, 变嫁, 逃避现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

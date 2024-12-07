@@ -7,7 +7,7 @@ TXT 下载: [[附身]_三个人的午餐时间（下）.docx]([附身]_三个人
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章描述了三名角色在午餐时间的私密互动，内容包含了一系列带有明显性暗示的情节。文章中提到角色晴香的挑逗行为以及与佐伯和中泽之间的身体接触，包括对彼此身体的玩弄和挑逗。文中提到晴香以诱惑的方式触碰佐伯，而佐伯也对晴香表现出强烈的性吸引。通过细致的描写，文章展现了角色之间强烈的欲望和性张力。此外，还提到了一些关于他们所在网站的安排和活动，显示出角色们在进行视频拍摄以及相关互动的背景。全文语言露骨，涉及成人内容，适合成年读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_三个人的午餐时间（下）.docx]([附身]_三个人
 | Size            | 19693 bytes                           |
 | MD5             | e455db41841d901397ce6fd849b68cf4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 性别认同, 跨性别, 伪娘, 男娘, 变身, 性转, 情色, 自我探索, 社交媒体, 成人内容, 调教, 闪婚, 异世界, 强奸, 私密场合, 身体接触, 视频拍摄, 宴会, 会员制网站                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

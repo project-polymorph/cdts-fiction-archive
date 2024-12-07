@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[首发]皮之种_第２章_飞翔.docx]([皮物]_[首发]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是（嵐山ＧＯ）撰写的性转小说《皮之种》的第二章，标题为《飞翔》。故事围绕主要角色孝明的心理冲突展开，孝明通过变身为女儿瑞希的外貌，准备去与瑞希的男朋友约会。在电话交谈中，孝明不得不适应女儿的女声以及她的身份，这给他带来了紧张和不安。故事中详细描写了孝明尝试着融入瑞希的生活，包括打扮、穿衣、准备赴约等情节，以及他内心的挣扎与不安。文中也探讨了性别身份的复杂性和个人认同的问题。整体情节结合了性趣与心理探讨，让读者感受到角色所面临的困惑与冒险。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[首发]皮之种_第２章_飞翔.docx]([皮物]_[首发]
 | Size            | 32193 bytes                           |
 | MD5             | 1de39b67ea9e23e31f29a3e42cae3695                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 嵐山ＧＯ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 心理冲突, 变身, 约会, 伪娘, 青春, 家庭关系, 性别角色, 心理探索, 二次元小说, 隐秘生活, 身份转换, 情感困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

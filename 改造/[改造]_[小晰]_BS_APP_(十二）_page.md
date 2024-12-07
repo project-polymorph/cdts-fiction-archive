@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(十二）.doc]([改造]_[小晰]_BS_APP_(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容属于伪娘 TS 变身与跨性别相关小说的档案仓库，展示了一场学生之间的互动，充满暧昧与欲望的描写。在中午阳光照射下，主人公与名为小晰的角色在学校餐厅里，展现了对于食物的期待与享受。材料通过对吃的体验描绘了身体意识与性别认同的微妙纠葛。其中，细腻描写了美味的白酱意大利面，伴随以性暗示与困惑的内心冲突。尤其在后半部分，通过一段 surreal 的对话，涉及了涉及性交、性愉悦及自我价值感的探讨，深刻反映了角色的心理变化和欲望的觉醒。整体情节充满幻想与挑战传统性别界限的元素，同时也以食物为隐喻，反映出性欲与情感的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(十二）.doc]([改造]_[小晰]_BS_APP_(
 | Size            | 67584 bytes                           |
 | MD5             | 2101d8c15717c5a4d5a36defb6e2ba8e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 校园小说, 自我探索, 欲望, 生理性别, 性别认同, 饮食隐喻, 心理变化, 暧昧, 情感, 青少年, 幻想, 荤段子, 高潮体验, 食物和性, 学校生活, 关系发展, 角色冲突, 个体意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

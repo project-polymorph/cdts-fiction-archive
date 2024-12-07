@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_TG物语——档案（十九、二十）.doc]([皮物]_TG
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是关于一名中学校长成学礼与一位警察李云之间的对话与剧情发展的小说片段。成学礼在经历数十年的教书生涯后，对自己的工作和与地方教育体系的情感感慨万千。在文件开头，成学礼下班回到家，注意到有人在跟踪他。随后，他邀请进入自己家的李云进行交谈。李云的来意与成学礼的过往密切相关，涉及一系列涉及玉针的神秘事件，这个玉针似乎是一种可以改变人皮的工具。成学礼曾目击一起凶杀案，之后的调查将他和李云紧密相连，揭示了关于身份和性别的复杂主题。成学礼内心的挣扎、过去的回忆和玉针的秘密使得故事充满了悬疑和冲突。这份材料对于研究跨性别身份、性别转变及其社会影响提供了重要的叙事视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_TG物语——档案（十九、二十）.doc]([皮物]_TG
 | Size            | 51200 bytes                           |
 | MD5             | 747f49f871e3c116a677cabf4ee939e3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 伪娘, 变身, 校园故事, 悬疑, 情感挣扎, 玉针, 身份认同, 男性视角, 人皮, 深层心理, 探险, 社会责任, 教育领域, 性别冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

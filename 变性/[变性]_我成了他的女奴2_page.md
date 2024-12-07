@@ -7,7 +7,7 @@ TXT 下载: [[变性]_我成了他的女奴2.doc]([变性]_我成了他的女奴
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘主题的小说，讲述了主角小杰的性别改造过程，以及他在变身为女性后对新身体的接受和探索。故事提供了大量对于跨性别身份及自我认同的描写，特别是在充满性暗示和性行为的情节中，主角通过注射女性荷尔蒙和媚药而感受到身体的变化，同时他的心态也随着性别的转变而产生极大的变化。文本中包含粗俗和色情的语言，描写了主角如何享受着作为“女奴”的生活，并与他的主人建立了一种主仆关系，充满了性别角色的挑战和对自我的迷失。随着情节的发展，主角在学校和私密环境中不断地探寻着自己的欲望与身份，展现了一种复杂而强烈的渴望与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_我成了他的女奴2.doc]([变性]_我成了他的女奴
 | Size            | 32256 bytes                           |
 | MD5             | 9e8daba059a5c39e381d63c331c80e3e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 心理探索, 性别认同, 变身小说, 校园生活, 性行为, 主人与奴隶关系, 性药物, 自我认同, 荷尔蒙治疗, 性转, 变态角色扮演, 暗黑幻想, 禁忌情感, 青春期迷惘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

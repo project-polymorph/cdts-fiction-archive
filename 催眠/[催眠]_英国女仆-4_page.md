@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_英国女仆-4.doc]([催眠]_英国女仆-4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别转换和催眠主题的小说，故事围绕几位主要角色的互动展开。故事的主角米琪在早晨醒来，发现她的妻子莉莉已经不在床上，随后在厨房发现了莉莉与另一位女性格里正愉快聊天。莉莉身着显眼的复古礼服，显示出一种优雅与魅力，准备参加格里高的俱乐部宴会。在交谈中，莉莉提到希望米琪能成为格里小姐的全职女佣。这一提议引发了米琪内心深处的不安。在与格里小姐相处时，米琪经历了自我认知的动摇，格里小姐的操控意识逐渐显现，格里更加显露出她对米琪的控制欲望。格里欺骗米琪，暗示她已经成为她的“财产”，并与莉莉的关系反转。整个剧情逐步揭示了角色之间复杂的性别身份与力量关系，展现了自我探索与性别认同的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_英国女仆-4.doc]([催眠]_英国女仆-4.doc)
 | Size            | 44544 bytes                           |
 | MD5             | c372afd6798c354cb06c3e43ab7113de                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 催眠, 伪娘, 英国女仆, 强制性别认同, 自我探索, 复古服装, 权力操控, 男女关系, 心理操控, 女性角色, 情感纠葛, 跨性别, 情感操控, 家务日常, 角色认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

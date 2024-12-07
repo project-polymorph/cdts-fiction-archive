@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_郭霏霏皮衣工作室_06美女主播張宇_(番外篇).
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件内容围绕美女主播张宇与另一位女子连婷妤的互动故事展开。张宇是一个知名的美女主播，故事发生在她与连婷妤一起在酒店中拍摄性感照片的场景。文本中描述了她们之间暧昧的互动和张宇对于连婷妤的身材的赞美，同时也提到连婷妤作为一位大学校花，在网络上拥有众多粉丝。内容中涉及到她们穿着性感内衣的描写，尤其是连婷妤穿着红色蕾丝胸罩的细节。尽管故事包含了性暗示，但整体呈现的是以性别认同与角色扮演为背景的情节，展示了角色之间的自我认知和性别角色的探索。文本中包含不少调侃与恶搞的元素，反映了在二次元文化中性别与身份的变幻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_郭霏霏皮衣工作室_06美女主播張宇_(番外篇).
 | Size            | 49815 bytes                           |
 | MD5             | 6e7d922e66845ac238b504e7209defc0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 郭霏霏                               |
+| Region          | 台湾                               |
+| Date            | 2014-2015                                 |
+| Tags            | 性别转换, 主播, 伪娘, 男娘, 角色扮演, 性感摄影, 校花, 二次元, 暧昧, 内衣, 调侃, 恶搞, 诱惑, 女性视角, 娱乐圈, 社交媒体                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_陈明的奇妙生活.doc]([变身]_陈明的奇妙生活.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于大学生陈明的变身小说，描绘了他生活中发生的一系列奇幻经历。故事开始于陈明找到一张关于药物配方的纸条，纸上写着一些神秘的药剂作用，似乎预示着通往另一个世界的钥匙。陈明在实验过程中遭遇了许多麻烦，包括神秘黑衣人的追踪，令他不得不保护自己及他的药剂。在冒险的同时，他也感受到对同班女生白灵筠的暗恋，而后者在故事中展现出活泼而又优雅的形象。随着情节的发展，陈明要面对不断升级的危机，以及他对自身能力的认知和对白灵筠的情感。故事中涵盖强烈的幻想色彩，情感波动和身份认同等主题，同时包含了一些限制级内容，包括强暴和性别转变等情节，形成了一个复杂而引人入胜的故事线。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_陈明的奇妙生活.doc]([变身]_陈明的奇妙生活.
 | Size            | 51200 bytes                           |
 | MD5             | a6d354d8704e507e33271f908f41c9bb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 跨性别, 药剂实验, 校园恋爱情节, 强奸, 暗恋, 女性形象, 奇幻冒险, 自我认同, 神秘药物, 黑衣人, 青春校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

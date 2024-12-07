@@ -7,7 +7,7 @@ TXT 下载: [[其他]_疯言疯语（7）.docx]([其他]_疯言疯语（7）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别及变性相关的小说，描绘了角色性别转换与人偶关系的奇特情节。故事围绕角色和小J之间的互动展开，小J以奇特的方式引导角色探索自己的性别认同与欲望。在逐步接受成为“人偶”的过程中，角色体会到自我认知的冲突与转变。文本中的场景包括角色被束缚、用面具遮面、以及与小J之间的情感与权力斗争，涉及了强烈的SM与性偏好元素。具体情节方面，角色发现自己在异化的情况下依然能够体验到某种程度的快感，由此产生了一种复杂的情感发泄与关系探索。整篇小说的氛围混合了强烈的情感张力与成人向的描写，展现了人物在性别角色与性欲之间的冲突与融合。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_疯言疯语（7）.docx]([其他]_疯言疯语（7）.doc
 | Size            | 22449 bytes                           |
 | MD5             | b7c7468676083669d00b787d08c4314c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, SM, 性别认同, 角色扮演, 人偶情节, 伪娘, 男娘, 强奸, 情感发泄, 权力斗争, 自我探索, 虚构启示, 心理冲突, 性转, 成人向, 奇特幻想, 变身故事, 关系实验, 情欲游戏, 复杂情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

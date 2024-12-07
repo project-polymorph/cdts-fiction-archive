@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【白羽毛】_（四.docx]([皮物]_【白羽毛】_（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个名叫cc的角色与王杰之间的复杂感情。cc即将去国外留学，因家庭反对而决定与王杰分手。王杰虽然表面上平静地接受了这一决定，但在心底深感失落，这为他带来了很大的痛苦。文中细腻描述了cc的内心挣扎与情感波动，即使是分开也感到了痛苦与不舍。每一段感情的背后都有独特的体验与价值观的交流，cc在与王杰相处的过程中受到了很大的影响，最终却又选择理性地结束这段关系，以保护彼此的未来。尽管她努力掩饰内心的伤痛，却无可避免地被自己的情感所牵绊。文中描绘了cc作为模特的生活，以及她如何通过接单、直播等方式维持生计，展现了角色的多重身份和心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【白羽毛】_（四.docx]([皮物]_【白羽毛】_（�
 | Size            | 29856 bytes                           |
 | MD5             | 4f2a9f332a2d44b77068ab38de88070b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 性别认同, 失恋, 心理描写, 情感纠葛, 二次元, 现代生活, 流行文化, 模特经历, 自我探索, 恋爱经历                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

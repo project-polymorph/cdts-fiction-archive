@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《易肤诀》.doc]([皮物]_《易肤诀》.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《易肤诀》是一部以男主角阿辉为中心的跨性别和变身小说，讲述了他在生活中努力寻找职业出路的过程中，意外发现一本神秘的古籍《易肤诀》。该书的内容与易容术有关，揭示了一种变身的能力，这使得阿辉的生活轨迹发生了巨大的变化。故事中，阿辉正面临毕业的压力，他的求职之路颇为艰难，身边的同学们都已经找到了理想的工作，而他只能通过兼职维持生计。尽管如此，阿辉仍然拥有一段美好的爱情，与女友胡月香之间的关系充满着希望。在一次归还图书过程中，阿辉意外得到这本书，使他开始探寻其中的秘密，并由此引发了一系列颠覆人生的事件。这部作品触及了性别认同、自我探索等主题，通过阿辉的经历展现了个体在面对社会压力和情感波折时的挣扎与奋斗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《易肤诀》.doc]([皮物]_《易肤诀》.doc)
 | Size            | 88064 bytes                           |
 | MD5             | 43ead18d51122db3ab5af3b7950fafe9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 易肤诀, 变身, 跨性别, 求职, 爱情, 模特行业, 自我探索, 古籍, 性别认同, 友情, 青春奋斗, 生活压力, 未知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

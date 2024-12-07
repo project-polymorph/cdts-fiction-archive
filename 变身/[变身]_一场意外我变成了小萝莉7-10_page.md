@@ -7,7 +7,7 @@ TXT 下载: [[变身]_一场意外我变成了小萝莉7-10.doc]([变身]_一场
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一个名为《一场意外我变成了小萝莉》的变身小说的第七和第八章。故事围绕着一位年轻女孩的成长经历，描绘了她在面临性别认同、自我探索以及同学之间的复杂关系时的心理状态与情感波动。在第七章中，女主角回顾即将到来的毕业典礼，描绘了自己外貌与气质的变化，展现了她逐渐接受自己身份的过程。她因一名同学杨浩楠的纠缠而困扰，尽管她冷漠以对，但在一系列事件后，她感受到了一种依赖与期待。故事中还涉及了一起潜在的危险事件，突显了校园生活中的人际关系及安全问题。第八章则着重描写女主角与杨浩楠的关系发展，以及家长们为他们安排的订婚事宜，彰显了传统与现代观念的碰撞和人物内心的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_一场意外我变成了小萝莉7-10.doc]([变身]_一场
 | Size            | 41984 bytes                           |
 | MD5             | 1f2efc0426c0a8f7e619c28f8a63d8dd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身系列, 伪娘, 跨性别, 校园生活, 情感关系, 性别认同, 成长过程, 自我探索, 毕业典礼, 青少年, 校园安全, 订婚, 暗恋, 心理冲突, 强烈依赖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【新年贺文】醒来【附word精校带图收藏版】
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《醒来》，由史蒂芬妮·弗劳尔斯翻译，主要讲述了大卫和史蒂芬妮这对情侣之间的关系以及他们的情感冲突。故事围绕史蒂芬妮继承的一枚魔法戒指展开，戒指有变身的能力，可以将戴上它的人变成上一次使用者的复制品。文中描述了史蒂芬妮以玩乐的心态想要与大卫互换身体的构思，以及她的挣扎与期望。故事中包含了大量的心理描写，探讨了性别认同和自我探索的主题，尤其是在梦中大卫经历变性和与史蒂芬妮的亲密互动。文中呈现的情节复杂，包含探索性的元素，包括对于彼此身份的再审视和潜在的性欲望。这部作品引发了关于性别和爱的深层思考，包含了一些限制级的情节，适合进行科学研究与深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【新年贺文】醒来【附word精校带图收藏版】
 | Size            | 160256 bytes                           |
 | MD5             | 0dfe8be5874e8b805a4e87cb854e5291                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 魔法戒指, 身体互换, 情感冲突, 梦境经历, 跨性别, 伪娘, 恋爱关系, 性欲探索, 自我意识, 二次元, 奇幻冒险, 情节复杂, 禁忌恋, 心理探索, 幻想文学, 成年向, 多元性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

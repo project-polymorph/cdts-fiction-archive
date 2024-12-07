@@ -7,7 +7,7 @@ TXT 下载: [[附身]_命运.doc]([附身]_命运.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《附身_命运》描绘了一个围绕林放的故事。林放是一个年轻的保安，在夜总会工作。他的生活充满了无奈与压抑，因平庸的外貌与经济困境而无法追求心仪的女生。一晚，他遭遇到一个美丽的女子，她在夜总会的大厅中引起了他的注意。故事迅速转向，林放因对女子的强烈吸引冲动，暗中尾随了她，结果通过暴力手段夺取了一个人的身份，希望能获得与美丽女子亲密接触的机会。文本中涉及一些限制级内容，包括性行为描写和药物使用，且有较明显的色情成分。该小说探讨了性别认同、欲望与身份的复杂性，以及主角如何在压抑现实中找到自我认同，尽管采用了较为极端的方式。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_命运.doc]([附身]_命运.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49664 bytes                           |
 | MD5             | 9f8e79417437e5dd1a533c9cda9bc3dd                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 欲望, 身份, 夜生活, 暴力行为, 权力关系, 性转, 变身, 色情, 自我探索, 夜总会, 青春迷茫, 梦幻幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

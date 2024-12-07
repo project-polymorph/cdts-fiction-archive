@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_喉舌计划——（二十三、二十四章）.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《喉舌计划》的部分章节，包括第23章和第24章，字数约为10066字。故事围绕着华炎帝国的安平局展开，描写了一名典狱长赵从军因工作失职而被上级查办的情节。随着情节的发展，围绕着安平局与樱花组织的复杂关系，以及权力斗争的故事逐渐展开。在这一过程中，角色们面临着死亡、腐败与背叛的危险，揭示了组织内深层的阴谋和个人的挣扎。文中有多个角色，包括身着便装的男性、御姐和萝莉等，显示出多元化的角色设置。这一部分文档也涉及了一些较为复杂的法律和暴力情节，组合成一幅紧张刺激的权谋画卷。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_喉舌计划——（二十三、二十四章）.doc]([皮
 | Size            | 66048 bytes                           |
 | MD5             | f2d9abf55df924c8dee4efc1ac3dc100                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 白木芽                               |
+| Region          | 中国大陆                               |
+| Date            | 2022-04-10                                 |
+| Tags            | 喉舌计划, 华炎帝国, 安平局, 樱花组织, 权力斗争, 腐败, 监狱情节, 暴力, 女性角色, 男性角色, 推理, 科幻, 变身, 跨性别, 自我认知, 逃亡                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

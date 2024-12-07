@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_父爱（第一章）【一品烟灰】.docx]([皮物]_父
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《父爱（第一章）》是由一品烟灰创作的一部跨性别相关小说，围绕着父亲与儿子之间的复杂关系展开。故事的主人公是一位中年父亲，因一场车祸失去了妻子，儿子对此感到愤怒与不满（‘我只想用多年的经验给他一些建议参考’）。在他与儿子逐渐疏远的关系中，父亲充满了自责与痛苦，内心对儿子的关心却无法传达。为了解决父子之间的隔阂，父亲接触了一个能够改变自身身份的公司的服务，希望以全新的身份重新接近儿子，成为他的朋友或恋人，从而了解儿子的真实想法和感受。故事紧张且富有人性思考，涉及父爱的失落与再塑、亲子关系的复杂性，以及对性别身份的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_父爱（第一章）【一品烟灰】.docx]([皮物]_父
 | Size            | 19454 bytes                           |
 | MD5             | 728d72af3bbd892226de8d38308118c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 一品烟灰                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 父子关系, 自我探索, 身份重塑, 爱情, 悲伤, 信任, 失去, 家庭, 都市故事, 人性思考, 角色变换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

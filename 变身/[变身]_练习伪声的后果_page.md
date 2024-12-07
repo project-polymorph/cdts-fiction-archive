@@ -7,7 +7,7 @@ TXT 下载: [[变身]_练习伪声的后果.doc]([变身]_练习伪声的后果.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《练习伪声的后果》是一篇围绕网络直播、伪声练习与角色身份认同的小说。故事的主角小北是一名打字主播，他在直播间与观众互动，有趣地分享自己的经历，其中提到他练习伪声的过程和感受。随着情节的发展，小北逐渐迷失在角色之间，声线的变化引发了他对自身身份和认知的反思；在一种轻松、幽默的氛围中，探讨了性别认同、直播文化和自我表现等主题。文中多次提及观众的弹幕反馈，增强了互动感，展示了直播环境中虚拟与现实之间的交错与冲撞。尤其是结尾部分，暗示了小北未来可能会以新的身份重启他的线上生活，充满了未知与期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_练习伪声的后果.doc]([变身]_练习伪声的后果.
 | Size            | 38912 bytes                           |
 | MD5             | a94b68ecf9663ad5f9f8223a46f4de58                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪声, 性别认同, 直播文化, 角色转换, 自我探索, 二次元, 互动娱乐, 网络直播, 虚拟现实, 青春成长, 性别表达, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

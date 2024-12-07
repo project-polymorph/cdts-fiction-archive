@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【诸天黑牙商】（1-10）.doc]([改造]_【诸天黑
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一本名为《诸天黑牙商》的小说，由多个章节组成，目前提供了前几章的内容。故事背景设定在鬼界的炎黄大陆，主要讲述了主角古月的经历和心路历程。古月在普通世界生活时突遇穿越，来到鬼界成为了单身的野鬼。随着鬼界的变革，古月被分配为地府公务员，他面临的现实与曾经的生活形成鲜明对比。故事中涉及他作为公务员的日常工作，以及与其他鬼魂的互动，而且穿插了幽默的元素和对角色身份的自我探索。日复一日的工作带来了古月的压抑与困惑，但他依然想通过努力获得更好的生活。作者希望通过这部作品，带给读者一些思考与娱乐，同时表达出对于身份与存在的探讨。文本中涉及一些剧情相关的特殊角色，如阎王等，展示了鬼界的复杂与多样性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【诸天黑牙商】（1-10）.doc]([改造]_【诸天黑
 | Size            | 144896 bytes                           |
 | MD5             | 1d4d2546c622994124b5258993e16ab0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 鬼界, 穿越, 公务员, 古月, 阎王, 自我探索, 幽默, 都市奇幻, 角色成长, 身份认同, 灵魂                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_大叮当3.docx]([交换]_大叮当3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部描绘男生宿舍生活的变身小说，主要讲述了两个室友大伟和小夫在偶然间发现了一个具有灵魂互换能力的红白棒子后，所引发的一系列奇幻事件。故事开头，大伟兴奋地告诉小夫自己捡到了一个奇怪的棒子，并且声称它能改变大小和放电。小夫对此半信半疑，但还是好奇地体验了一下，结果发现自己和大伟的灵魂竟然意外互换了。两人惊讶于这项超自然能力，并讨论如何利用这个棒子体验他人的感觉。在这段过程中，大伟初步展现出其猥亵的性格，想要通过交换灵魂来体验女生的生活，特别是盯上了一个叫陈楚涵的漂亮女孩，并策划对她进行侵犯，而小夫则对此心存顾虑。文本的后续情节包含对侵犯行为的描写，表明这部小说中含有成人内容，可能不适合未成年人。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_大叮当3.docx]([交换]_大叮当3.docx)
 | Size            | 23727 bytes                           |
 | MD5             | 61605d947b14b7878749c163e8b01453                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 灵魂互换, 校园, 性别认同, 性侵犯, 伪娘, 男生宿舍, 强制行为, 青少年, 恶搞, 奇幻, 超自然, 变嫁, 调教, 强奸, 悬疑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

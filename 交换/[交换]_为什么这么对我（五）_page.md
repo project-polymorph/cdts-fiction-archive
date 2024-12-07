@@ -7,7 +7,7 @@ TXT 下载: [[交换]_为什么这么对我（五）.docx]([交换]_为什么这
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《为什么这么对我（五）》，是多元性别题材的小说作品。内容涉及角色性别转换，以及在这种状态下的心理挣扎与自我探索。故事中的主角经历了一次奇特的身体变化，描述了他对于女性内衣的穿着感受，伴随着羞耻与期待的复杂情感。当身处于尴尬情境中时，主角的心理斗争与性认同的探索被细腻地描绘出来，带有自我接受与认同过程的情感纠结。通过对卫生间及身体清理的详细描写，体现了角色在新身份下的挣扎与转变。文字中使用了大量生动的身体描绘和情感表达，具有较强的色情和幻想色彩，尤其是在角色与身体的接触、感受与意识的交织中，描绘了内心的变化与迷惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_为什么这么对我（五）.docx]([交换]_为什么这
 | Size            | 23479 bytes                           |
 | MD5             | 846da51af0adf7caa7a056a4ea578b7e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 身体探索, 性别认同, 心理戏, 女性内衣, 自我认知, 异物感, 自我接受, 青春期困惑, 情感纠葛, 身份转变, 性幻想, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

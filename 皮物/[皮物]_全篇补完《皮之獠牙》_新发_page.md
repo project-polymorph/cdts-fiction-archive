@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_全篇补完《皮之獠牙》_新发.docx]([皮物]_全�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《皮之獠牙》的补完篇讲述了一系列离奇的凶杀案件和相关的人物关系，涉及两个部分的叙述，一个是案件的猎奇环节，另一个则包含了与皮物相关的情节。全文围绕着一名刑警诚的调查展开，描述了三个凶杀案，每个案件都充满了残忍和奇异的细节。第一个案件中，一名男性被其妻子杀害并解剖，其尸体被处理得极为完美；第二个案件是女子杀了其男友并将尸体进行荒诞的处理；而第三个案件更是触目惊心，涉及一名未成年人被其姐姐残忍杀害并剥下皮肤做成布娃娃。文件在叙述中穿插了人物之间复杂的情感关系和对死亡、暴力的探讨。此外，作品还描写了警察在破案过程中的艰难，以及在这些案件中女性犯罪者的共通特点和心理背景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_全篇补完《皮之獠牙》_新发.docx]([皮物]_全�
 | Size            | 31982 bytes                           |
 | MD5             | f34d5f9d907ef0260493a6bd2fcb40df                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 凶杀案, 奇案, 皮物, 暴力, 案件, 女性犯罪者, 心理分析, 自首, 推理, 侦探小说, 人性探讨, 猎奇, 残忍, 未成年人犯罪, 手术, 失踪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

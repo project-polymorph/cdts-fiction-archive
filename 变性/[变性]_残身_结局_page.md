@@ -7,7 +7,7 @@ TXT 下载: [[变性]_残身_结局.doc]([变性]_残身_结局.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《变性_残身_结局》，内容涵盖了一段复杂的人际关系与情感冲突，主要讲述了刘栋作为一名医生在工作与个人情感之间的挣扎。故事发生在一次门诊中，刘栋接待了一位名叫黄一水的病人，该病人在酒后遭到他人袭击，刘栋在救治中不断担忧与一位名叫金凤的角色有关。金凤的去向和与黄一水之间的关系成了故事中的核心冲突。在探讨治疗的同时，刘栋的思绪不断回到与金凤的情感，流露出失落和焦虑。在后续情节中，黄一水指控金凤打了他，使得刘栋感到万分不安，他开始怀疑金凤是否卷入了更为复杂的事情之中。这一系列情节反映了角色之间复杂的情感纠葛与社会关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_残身_结局.doc]([变性]_残身_结局.doc)
 | Size            | 41984 bytes                           |
 | MD5             | 4a4a572199ca4eae0d14a46f1cf46f78                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 情感冲突, 跨性别, 社会关系, 医患关系, 都市, 自我探索, 情感纠葛, 黄一水, 刘栋, 李金凤                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

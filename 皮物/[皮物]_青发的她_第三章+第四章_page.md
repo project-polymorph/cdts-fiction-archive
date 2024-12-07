@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_青发的她_第三章+第四章.doc]([皮物]_青发的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《青发的她》第三章与第四章的内容，主要围绕男女主角寿利与望之间的变身和性别认同的探索。小说详细描绘了角色在交换性别后的心理与生理体验，展示了在一个虚构的世界中性别流动性的可能性。故事中，寿利与他的好友望在一种幻想性背景下经历了身体与性别的转变，展现了两位角色在性别转换及初恋体验中的复杂情感。小说包括大量对性体验的细腻描写，涉及到角色之间亲密的身体接触和心灵交融的瞬间。它引发了对性别认同、自我探索与性欲的讨论，并在某些段落中加入了对角色内心冲突的描写，使得故事更具深度和思考，而不仅限于表面的情色内容。整体而言，这部作品不仅为读者提供了色彩丰盈的幻想讨论空间，同时也让人思考性别的多重性和流动性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_青发的她_第三章+第四章.doc]([皮物]_青发的�
 | Size            | 222720 bytes                           |
 | MD5             | 70bab34d010c0b6c4c0b71e0361c620c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 跨性别, 性别认同, 内部冲突, 青春, 幻想, 性探索, 心理变化, 友谊, 初恋体验, 性别流动性, 情色文学, 自我探索, 男孩, 女孩, 幻想世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

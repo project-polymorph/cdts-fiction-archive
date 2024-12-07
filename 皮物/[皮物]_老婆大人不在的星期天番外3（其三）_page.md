@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_老婆大人不在的星期天番外3（其三）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件描绘了一个在特殊场景中发生的性别转换与SM情节的故事，主要围绕主角与其伴侣在一个隐蔽小密室中的经历展开。故事开篇，主角和他/她的伴侣前往一个密室，借由外面普普通通的商家作为伪装，以便进行一次新奇的体验。在密室里，主角被介绍到各种涉及SM的道具，如束腰、贞操带和按摩器等，伴侣对此表现出极大的好奇与兴趣。随着故事的发展，主角逐渐被引导体验这些道具的使用，甚至在伴侣的协助下穿戴上贞操带和束腰，感受被玩弄的快感。在此过程中，主角怀着忐忑和羞耻的情绪，享受着新鲜而又复杂的体验，故事的情节逐步升级，涉及到了伴侣利用遥控器增强情趣，带来更刺激的体验。情节展现出对性别角色与性认同的挑战，及其伴随的心理变化和自我意识的碰撞。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_老婆大人不在的星期天番外3（其三）.docx]([�
 | Size            | 22456 bytes                           |
 | MD5             | 2540dd4c6b47afc27f6c0c776d904cd6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, SM, 性别认同, 跨性别, 贞操带, 束腰, 成年人内容, 角色扮演, 心理探索, 性快感, 情趣道具, 二次元, 爱情, 恋物癖, 深入体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

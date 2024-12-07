@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[分魂]少女与战车：凭依战！-3.docx]([附身]_[�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇性转题材的小说，围绕主人公西住美穗与她的姐姐西住真穗之间的故事展开。美穗是大洗女子学园的学生，曾是黑森峰女学园的副队长，因个人原因转校，并与姐姐关系疏远。在文中，美穗在前往文部科学省的路上与姐姐重逢，回忆起了她们小时候的亲密关系和战车道的经历。这部作品探讨了姐妹之间的感情，以及家庭和责任之间的冲突，描绘了战车道的技术和比赛签甚至比赛操控的怀疑，增添了悬疑的色彩。作品的细节部分提及了双方的心理变化和情感纠葛，其中不乏带有情感深度的描写，如“在决赛之后的短暂对话中，她感受到了姐姐的喜悦。”，显示出角色间复杂的情感和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[分魂]少女与战车：凭依战！-3.docx]([附身]_[�
 | Size            | 98689 bytes                           |
 | MD5             | 6df1b1678e5120af69754b8ccba58e73                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | トゥルー                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 姐妹情, 自我探索, 战车道, 小说, 悬疑, 情感纠葛, 青少年, 转校, 家庭关系, 竞技, 女子学园, 文化, 亲情, 成长故事, 战斗, 心理描写, 校园生活, 角色互动, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_30.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一部伪娘 TS 变身与跨性别相关的小说，名为《国王和他的公主》。故事情节围绕德里克和他的几位女性角色展开，情节涉及角色之间的互动与情感交流。德里克在文中扮演了一位年长男性，关心和指导几位少女角色如何在新的性别身份中生活和适应，例如贝丽和阿曼达等角色。在故事中，贝丽刚开始学习开车，她的情绪波动以及与德里克和其他女孩们的互动形成了主要的情节线索。文本中还提到了一些较为含蓄的性转换主题，体现了角色在性别认同上的挣扎和互动。在一系列充满温情的描写中，德里克对这些年轻女孩的呵护与教育透露了父爱般的关怀，同时也隐含了跨性别及伪娘文化中的复杂关系和自我认同的问题。整个故事中充满了对新身份的探索、角色之间的心理斗争与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_30.doc]([改造]_把男朋友�
 | Size            | 35328 bytes                           |
 | MD5             | 100e583f74f1f1e8dea1e8c1fc902034                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2021-04-20                                 |
+| Tags            | 伪娘, 变身, 跨性别, 情感交流, 性别认同, 驾车学习, 母女关系, 校园生活, 父爱, 青春成长, 性别转换, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

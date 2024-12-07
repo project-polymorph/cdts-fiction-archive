@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文重发】女孩子真可爱啊.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件主要记录了一名男性通过科技手段变身为女性的过程，涉及描绘角色的性别转换与自我认同的心理变化。故事中，主角在一次摄影中，与朋友一起拍摄以女性形象出现的写真。在个人形象的塑造过程中，主角热衷于“可爱”的表现，表现出对可爱女性形象的向往和自信。同时，通过高科技仿真人皮的设定，展现了对性别灵活性与自我探索的主题。文件中的关键情节包括主角在镜子前欣赏自己的外貌，反思自身性别认同，并与朋友的互动，充满了轻松幽默的气氛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文重发】女孩子真可爱啊.docx]([皮物]_
 | Size            | 40988 bytes                           |
 | MD5             | fd0f818eb24203ec59cae36ff4831a17                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 男娘, 变装, 可爱形象, 自我认同, 科技变身, 仿真人皮, 青春, 心理探索, 友谊, 二次元, 女装, 摄影, 时尚, 生活日常                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

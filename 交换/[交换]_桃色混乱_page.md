@@ -7,7 +7,7 @@ TXT 下载: [[交换]_桃色混乱.docx]([交换]_桃色混乱.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为伪娘 TS 变身与跨性别相关小说的档案之一，题为《桃色混乱》，描述了围绕一种神秘果冻果汁的奇幻故事。故事的主线围绕着两个无家可归的男女主角，在喝下不同颜色和效果的果冻果汁后，发生了面孔互换、身体交换的情节。作者通过细腻的笔触描绘了角色们在性别与身份转换中的内心挣扎与自我认知，展现了生理与心理的冲突。故事中，主要角色之间的相互影响和变化构成了情节的精华，突显了性转和跨性别主题的复杂性。此外，文本中涉及的情节可能涉及一些限制级与性相关的内容，因此在研究和学习中需保持科学、客观的态度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_桃色混乱.docx]([交换]_桃色混乱.docx)
 | Size            | 26570 bytes                           |
 | MD5             | f3921545ba8781934f79eeb9a72cf674                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | シクノレ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, TS变身, 跨性别, 吞噬与交换, 幻想故事, 果冻果汁, 性别认同, 冲突与转变, 人际关系, 青春期探索, 性别流动性, 二次元文化, 奇幻情节, 心理变化, 自我认知探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

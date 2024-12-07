@@ -7,7 +7,7 @@ TXT 下载: [[变装]_夏威夷假日_2_12.doc]([变装]_夏威夷假日_2_12.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《夏威夷假日212》，是由作者Clara创作的伪娘/变装小说，内容围绕角色道恩（唐尼）在朋友聚会中的变装经历展开。故事描绘了道恩在穿着女性服装亮相时的紧张和不安，以及朋友之间的互动和暧昧关系的探索。文中通过对角色心理的细腻刻画，展示了性别角色的模糊与友谊的复杂性。在聚会中，唐尼的扮相惊艳了他的男性好友米奇，引发了许多幽默而微妙的对话，尤其是玛丽对道恩和米奇亲吻的建议，进一步推动了情节的发展。通过这场变装，小说探讨了性别认同、友谊以及浪漫情感的交织，语言风趣且感性，给人以深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_夏威夷假日_2_12.doc]([变装]_夏威夷假日_2_12.do
 | Size            | 64512 bytes                           |
 | MD5             | 72e19b7e535fe80543afba7da3435b03                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Clara                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 性别认同, 友情, 浪漫, 情感探索, 幽默, 家庭羁绊, 青少年成长, 二次元文化, 社会角色, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

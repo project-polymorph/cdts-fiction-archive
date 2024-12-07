@@ -7,7 +7,7 @@ TXT 下载: [[改造]_新的女皇.doc]([改造]_新的女皇.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以科幻幻想为主题的小说，标题暂定为《新的女皇》。故事围绕一位名为科尔若思的少女展开，她是魔导国度沃尔海特的高塔贤者朱达斯的徒弟。情节设定在一个极为神秘且危机四伏的阴影森林中，科尔若思在完成结业任务的过程中，踏入了这片被人类遗忘的禁地。文本中描绘了她在森林中对抗来自魔物的攻击，以及她如何利用自身的魔法技能与创造能力来应对困境。科尔若思的内心矛盾和对老师朱达斯的复杂情感也在文本中有所体现。故事通过生动的描写，展现了科尔若思在强大敌人面前的勇气与智慧，包含了大量的魔法战斗场景和角色的自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_新的女皇.doc]([改造]_新的女皇.doc)
 | Size            | 69632 bytes                           |
 | MD5             | 177b6fb73e36cdfd9e7d333314258169                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 幻梦, 魔法, 少女, 自我探索, 女皇, 阴影森林, 跨性别, 变身, 使魔, 战斗, 冒险, 危险动物, 科尔若思, 朱达斯, 情感纠葛, 魔导                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

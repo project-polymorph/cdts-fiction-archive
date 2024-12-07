@@ -7,7 +7,7 @@ TXT 下载: [[变身]_海怪的逃脱.docx]([变身]_海怪的逃脱.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《海怪的逃脱》是一部围绕性别转变和角色自我认知的跨性别幻想小说，讲述了年轻典狱长金川在幻城监狱中接管妖怪监禁的故事。在监狱中，他目睹了多种超自然生物的存在，尤其是变身能力强大的海怪。在照看监牢的过程中，金川的情感逐渐被一只能够变身为清秀少女的海怪所吸引，面临着危机和选择的时刻。随着剧情的发展，金川被海怪的变身所迷惑，最终导致了海怪的逃脱。小说结合了爱情、幻想和自我探索的主题，探讨了性别身份认同和个人情感的复杂性。其故事框架借鉴了多种文化元素，包括《聊斋志异》和《圣斗士星矢》，增添了丰富的文学和视觉背景，展现了奇幻与现实法则的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_海怪的逃脱.docx]([变身]_海怪的逃脱.docx)
 | Size            | 19698 bytes                           |
 | MD5             | 22d8428be1ac89da673ac1726777d970                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人2                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 海怪, 幻想小说, 妖怪, 自我认知, 青春爱情, 四次元空间, 角色扮演, 迷失与救赎, 幻城监狱, 情感纠葛, 冒险, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

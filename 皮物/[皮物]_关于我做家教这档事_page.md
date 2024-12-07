@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_关于我做家教这档事.doc]([皮物]_关于我做家�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件描述了一个大学生兼职家教的经历，围绕主角希望通过扮演女性形象来获取家教工作展开。故事中，主角自我介绍，提及自己的学习背景和二次元文化的爱好，尤其是对‘伪娘’和‘萝莉’角色的喜爱。面试过程中，主角与一位‘人妻’的互动引发了复杂的情感和自我探索，故事主要在一个富裕的家庭中进行，涵盖了小说中广泛涉及的性别认同与角色转变的主题。通过与某个家庭的女儿进行家教，主角感受到多重身份和内心的冲突，逐渐展开了一系列带有幻想和性暗示的情节。文本涉及诸多细节,如关于面试中与‘人妻’的交流、对女孩的外貌描述以及内心的情感波动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_关于我做家教这档事.doc]([皮物]_关于我做家�
 | Size            | 44544 bytes                           |
 | MD5             | 99381fe6d8b873bd5285b18ffefddc79                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 家教, 人妻, 萝莉, 情感冲突, 角色扮演, 幻想, 二次元, TSF, 跨性别, 自我认知, 强奸, 淫荡, 调教, 年龄差, 男娘, 调教, 奇幻, 爱情, 非人化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

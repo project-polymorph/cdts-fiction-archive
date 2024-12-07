@@ -7,7 +7,7 @@ TXT 下载: [[变性]_网红变性雌堕之路（上）.docx]([变性]_网红变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《网红变性雌堕之路（上）》讲述了一个年轻男子王宝宝的变性故事，从一个普通的男生逐渐蜕变为一个魅力四射的网红女性。故事开始时，王宝宝和同伴赵萧声从豪华跑车中走下，吸引着周围人的目光。王宝宝身穿性感包臀裙，备受关注，而他与赵萧声之间的不寻常互动，似乎暗示着他们复杂的关系。随着剧情的发展，王宝宝经历了整容手术，被迫适应新的身份与角色，这不仅涉及外在形象的改变，还有内心的挣扎与适应。王宝宝的性别认同与公司里外界压力交织，揭示了近年来社交媒体对个人形象的极大影响。在反复的成名与付出之间，王宝宝的身世与挣扎愈见明显，展现了现代网络文化的诸多面向，包括对性别、身份的探索与认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_网红变性雌堕之路（上）.docx]([变性]_网红变
 | Size            | 20589 bytes                           |
 | MD5             | db8adc83f34fcadced20b2718145ca14                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 网红, 变性, 性别认同, 整容手术, 二次元, 青春, 现代社会, 自我探索, 直播, 情感纠葛, 伪娘, 跨性别, 游戏主播, 社会压力, 外貌改变, 恋爱情感, 性别转换, 粉丝文化, 双性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

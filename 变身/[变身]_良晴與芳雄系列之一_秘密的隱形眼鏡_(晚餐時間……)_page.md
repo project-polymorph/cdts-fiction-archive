@@ -7,7 +7,7 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_秘密的隱形眼鏡_(晚餐�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇变身小说的第五篇，讲述了变态高中生良晴在其好友芳雄的帮助下，获得了一副特殊的隐形眼镜。这个隐形眼镜的功能使得戴上它的人能够复制他人身体的能力，而接触复制的身体也会让对方有相同的感觉。故事围绕良晴的内心冲突及其与姐姐諒子之间的互动展开。在家中，良晴穿着姐姐的内衣，体验女性身体的感觉，随后开始对姐姐的身体进行"恶整"，引发一系列尴尬和刺激的情节。文中的描写努力展示了角色的心理变化，强调性别身份的探索和自我认知的冲突，以及对禁忌行为的吸引。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_秘密的隱形眼鏡_(晚餐�
 | Size            | 36546 bytes                           |
 | MD5             | 01e2d106aa6e392487360e1c13c15b14                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 伪娘, 青春校园, 心理探索, 家庭关系, 禁忌恋, 秘密, 恶作剧, 自我认知, 性别身份, 隐形眼镜, 情感冲突, 性别不符, 兄妹情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

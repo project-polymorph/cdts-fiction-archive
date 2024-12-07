@@ -7,7 +7,7 @@ TXT 下载: [[附身]_尸术师.doc]([附身]_尸术师.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于性转与跨性别主题的小说，名为《尸术师》。故事围绕着主人公米修斯，一个操控尸体的魔法师，展开。他在一个危险的实验中，绑架了贵族的女儿希尔维亚，并使用她的身体进行实验，这使得她的意识被一名已故人物的灵魂接管。小说描绘了米修斯对不死与复生的研究，以及希尔维亚与她的朋友骑士米利亚之间复杂的关系。在追逐与救赎的过程中，米利亚面临着拯救好友的挑战，以及对希尔维亚的真实状况的惊愕。故事包含了色情元素，其中涉及身体的交换与性别的转换。故事情节紧凑，交织着友谊、背叛与自我发现的复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_尸术师.doc]([附身]_尸术师.doc)
 | Size            | 97280 bytes                           |
 | MD5             | f2ddb61f84c0e5c945675c7803a2c0a2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 尸术师, 跨性别, 友谊, 背叛, 冒险, 奇幻, 魔法, 角色扮演, 心理描写, 性别认同, 自我探索, 复生, 魔法师, 女骑士, 阴暗实验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

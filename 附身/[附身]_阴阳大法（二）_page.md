@@ -7,7 +7,7 @@ TXT 下载: [[附身]_阴阳大法（二）.docx]([附身]_阴阳大法（二）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇围绕性转与附身主题的小说，描绘了角色李玉婷与江思雨之间复杂的关系及其转变。故事开头主角躺在床上，回忆和李玉婷的亲密经历，随着情节的发展，李玉婷的形象逐渐性感化，吸引着周围男性的目光。主角与李玉婷之间的关系不仅仅是保安与学生同事，而是发展为一种更为私密的关系。故事中涉及了夺舍的情节，主角利用阴阳大法的力量，成功将江思雨的灵魂勾出，再融入赵叔的躯体，形成了一种新的角色。这种角色的性别与身份的变化，反映了自我认同与探索，情节中交织着复杂的情感和欲望。最终，在一场意外的重生后，江思雨觉醒，面对自己新的身份与身体，展现出对未来可能的期待与诱惑。其中涉及多次性的亲密行为，情感的交缠与心理的矛盾，具有一定的情色元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_阴阳大法（二）.docx]([附身]_阴阳大法（二）
 | Size            | 31965 bytes                           |
 | MD5             | ae675ee1603471dfcd8d43f026a2efb4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | aiyaaiya1234                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 伪娘, 跨性别, 强烈情感, 自我认同, 幻想, 夺舍, 现代, 性爱, 心理冲突, 青春, 禁忌关系, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

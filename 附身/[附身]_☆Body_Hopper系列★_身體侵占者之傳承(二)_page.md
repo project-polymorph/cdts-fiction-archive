@@ -7,7 +7,7 @@ TXT 下载: [[附身]_☆Body_Hopper系列★_身體侵占者之傳承(二).docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是来自《Body Hopper系列》的第二部作品，向读者展示了一位主角在一天中的生活片段。故事从主角被手机铃声吵醒开始，叙述了他在早晨的混乱情景以及对日常琐事的处理。主角在不安中回忆起前一晚发生的一切，逐渐揭露出一种神秘的情节背景。通过一段对话，主角得知自己需要与一位在前夜相遇的女性再次见面，并被描绘成一个具有双性特征的人物。在接下来的情节中，主角对即将发生的约会感到紧张与期待，由此引入了更深层次的性别认同与自我探索的主题。此前的情感关系，以及与该女性相遇过程中的生动细节，使得故事不断升级，展现了复杂的人物关系和性别流动的探讨。整体来说，文本通过细腻的描写和生动的对话，让读者感受到一种独特而又复杂的情感体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_☆Body_Hopper系列★_身體侵占者之傳承(二).docx
 | Size            | 31481 bytes                           |
 | MD5             | 5f95f5c7c45757189c87134f6b54291b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 爱情, 性幻想, 奇幻, 都市, 二次元, 肉体交换, 异性恋, 性感, 内心冲突, 成人内容, 剧情发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

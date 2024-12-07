@@ -7,7 +7,7 @@ TXT 下载: [[附身]_美女背後靈_作者︰小雅香.docx]([附身]_美女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小雅香创作的小说《美女背後靈》，讲述了一个男人通过附身的方式改变自己命运的故事。故事的女主角梁雅柔是一个虽然家境贫困但勤奋向上的女孩，法学院的优秀学生，兼职做侍应生以帮助家庭。一位男主角却恶意附身到她的身上，企图取代她，过上他梦寐以求的生活。在附身后，男主经历了内心的挣扎与自我认知的挑战，他看着雅柔的生活，感到了一种难以描述的情感，期间夹杂了对社会黑暗面的感慨和对美好生活的渴望。小说中充斥着对雅柔的赞美与对男主自我的恶劣描写，呈现出一幅复杂的情感与伦理图景。剧情既包含性转变的奇幻成分，也涉及了一些社会现象的反思，体现出多元性别和身份认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_美女背後靈_作者︰小雅香.docx]([附身]_美女�
 | Size            | 41693 bytes                           |
 | MD5             | a27d23261043c0ede807b5b48b2450c1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 小雅香                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 跨性别, 性别认同, 女性角色, 社会黑暗, 青春奋斗, 自我探索, 法学院, 兼职生活, 恶角色, 奇幻文学, 社会现象, 人性探讨, 罕见变身, 情感纠葛, 都市小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

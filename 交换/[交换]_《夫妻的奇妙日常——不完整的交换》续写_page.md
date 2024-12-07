@@ -7,7 +7,7 @@ TXT 下载: [[交换]_《夫妻的奇妙日常——不完整的交换》续写.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇名为《夫妻的奇妙日常——不完整的交换》的续写作品，围绕角色韩星与刘海之间的性别交换展开故事。开篇提到作者对前文的喜爱及期待，文中详细描绘了两位主角性别互换后的心理变化与肢体感受。故事中，韩星与刘海在经历了一天的劳累后归家，进行了一次次的亲密接触和身体探索，在相互体验对方的身体时，感受到了前所未有的奇妙体验。两人不仅交换了下体的特点，甚至连声音也发生了变化，造成了一系列搞笑而困惑的局面。随着剧情发展，他们在性生活中的角色也发生了转变，韩星逐渐展现出主动和强势的一面，而刘海则处于被动和反思的状态。文件包含大量细腻的感官描写，涉及性别认同以及身体的探索，是一篇充满幻想色彩和性别题材的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_《夫妻的奇妙日常——不完整的交换》续写.
 | Size            | 35328 bytes                           |
 | MD5             | fd3e00e0f39b81a7bd06b3fb38aa04a8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 伪娘, 自我认知, 情感纠葛, 角色互换, 强势女性, 身体探索, 情欲关系, 幻想文学, 性别认同, 日常生活, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

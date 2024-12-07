@@ -7,7 +7,7 @@ TXT 下载: [[其他]_融合一景：電車和餐桌（上）.docx]([其他]_融
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文摘譯自《異性融合・49歳の体育教師と16歳の女子高生の場合》的第五頁，围绕一场在通勤电车上的超自然事件展开：车厢内出现了一个跑马灯信息，宣布所有乘客将与附近的异性融合。故事描写了变化过程中的惊讶与狂欢，一名上班族男子与一名女高中生突然在身体与意识上发生了融合，形成了一个新的、含有两者特征的人物。文章描绘了他们身体上的变化，包括性别特征的转变，并探讨了意识和性别认同的混乱。在此过程中，男上班族感受到融合后的身体快感，并对即将到来的社交活动感到期待，同时也与其“妻子”保持着交流。故事的细节描绘了融合带来的冲击与快感，展现出独特的跨性别与性别变化的探索，以及在这样背景下所引发的情感与欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_融合一景：電車和餐桌（上）.docx]([其他]_融
 | Size            | 17438 bytes                           |
 | MD5             | 6e53311a6ae2d8c8fa6e0c68dbd6fe99                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 电车, 跨性别, 变身, 快感, 融合, 变嫁, 自我认知, 幻想, 二次元, 恋爱, 社会性别, 青年, 成人内容, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

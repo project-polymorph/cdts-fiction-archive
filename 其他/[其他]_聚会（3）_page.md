@@ -7,7 +7,7 @@ TXT 下载: [[其他]_聚会（3）.docx]([其他]_聚会（3）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于性别转换和角色认同的小说，描绘了主人公因移魂程序而发生的奇妙经历。故事开头，主人公在一次聚会中与一个长相相似的帅哥发生了亲密关系，随后发现自己误入了复杂的兄弟关系之中。随着情节的发展，主人公误操作了一个名为移魂程序的软件，导致其意识被转移到一个名叫小刷子的女孩身上。小刷子本为一个因肥胖而自卑的小会计，她渴望能够体会成为美女的快乐。通过小刷子的记忆，主人公开始经历她的生活，并且面临各种挑战，包括工作面试和与周围人的关系。小说探讨了性别认同、自我认知与身体认知之间的复杂关系，同时包含一些情感与色情元素。最终，主人公必须寻找方法来恢复自己原有的身份，并决定了自己的未来。文中穿插了主人公对自己身体变化的感慨，表达了对原来生活的怀念和困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_聚会（3）.docx]([其他]_聚会（3）.docx)
 | Size            | 19151 bytes                           |
 | MD5             | 5dc094e4d10d7f8ddf82740279b5ad60                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 移魂程序, 角色认同, 伪娘, 男娘, 变身, 自我探索, 友情, 爱情, 生活困境, 都市幻想, 科技奇幻, 心理纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

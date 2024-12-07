@@ -7,7 +7,7 @@ TXT 下载: [[变性]_霓裳羽衣第六章（下）.doc]([变性]_霓裳羽衣�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为伪娘/TS变身与跨性别相关小说《霓裳羽衣》的第六章（下）。在这一章中，叙述者表达了对玉香姐姐的思念以及对周围环境的无聊。流月阁的生活虽然华丽，但其内心却渴望着更为丰富的情感交流和探索。叙述者与姐妹们的互动中，掺杂着羡慕、嫉妒与好奇的复杂情绪。姐妹们讨论最近未见玉香的消息，经过一番推测，怀疑玉香可能被城中富商赵金赎走。随着讨论的深入，姐妹们推测赵金的性格及其对玉香的态度，暗示了玉香的未来可能并不美好。这一章涵盖了性别认同、自我探索以及社会地位等主题，同时也描绘了伪娘角色在社会中的复杂处境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_霓裳羽衣第六章（下）.doc]([变性]_霓裳羽衣�
 | Size            | 35328 bytes                           |
 | MD5             | 25bd8324aaa8a6d78121109f31607155                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 情感探索, 社会地位, 友情, 嫉妒, 羡慕, 伪娘文化, 恋爱, 女子生活, 流月阁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】因为我爱我的妹妹.docx]([变性]_【翻
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇围绕着双胞胎兄妹情感与剧情发展的变性主题小说《因为我爱我的妹妹》的翻译版本。小说描写了兄妹之间深厚的感情以及在面临突发事件时的情感冲突。故事围绕主人公劳森、他的双胞胎妹妹蒂娜及其未婚夫艾伦展开，他们在蒂娜的手术过程中经历了巨大的情感波动和生死抉择。故事中揭示了家庭的羁绊和牺牲精神，以及在逆境中面对的重大选择，尤其是当得知蒂娜怀孕后，劳森与艾伦必须决定如何处理这一情况。该文通过细腻的心理描写和情感刻画，让读者感受到人物内心深处的痛苦和挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】因为我爱我的妹妹.docx]([变性]_【翻
 | Size            | 27924 bytes                           |
 | MD5             | a157175d84e0c4e9146419cd00a460a8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Anyya                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 双胞胎, 情感纠葛, 医院, 生死抉择, 怀孕, 伦理, 牺牲, 爱情, 兄妹情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

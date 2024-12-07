@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_绝地求生——皮物战争.doc]([皮物]_绝地求生�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘与雄性角色互换的小说，情节围绕一位名为光辉的银发美人展开。小说开头描写了光辉在一次意外变身为女性角色后，感受到了女性身体的快感，情绪波动从兴奋逐渐转为沮丧。文中详细描绘了她的身体状况与内心挣扎，展示了角色在男生宿舍中的窘迫处境以及对身份的自我认知。与此同时，围绕着光辉的内心独白和环境描写，让读者感受到她在校园中的不安与脆弱。小说在一群同学的围观下，光辉经历了崴脚与失态的瞬间，最终在路人的鼓励下逐渐恢复信心，展现了校园生活中的友谊与人情的温暖。整篇小说情节紧凑，兼具戏剧性与情感表达，符合伪娘与性别认同的主题，并加入了恋爱、校园、女性视角等元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_绝地求生——皮物战争.doc]([皮物]_绝地求生�
 | Size            | 38400 bytes                           |
 | MD5             | 6c2e9f6801f2b646684b0b316c92fc46                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 女性视角, 校园, 性别认同, 自我探索, 情感纠葛, 友谊, 女性身体, 银发美人, 快感体验, 低落情绪, 社会互动, 角色冲突, 青春, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

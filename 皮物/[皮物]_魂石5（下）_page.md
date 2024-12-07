@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魂石5（下）.docx]([皮物]_魂石5（下）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《皮物》系列的第五部分（下），内容围绕小曼与李拓之间复杂的关系展开。小曼看似天真无邪，却逐渐被黑色液体所控制，并在与李拓的互动中经历痛苦与愉悦的冲突。通过描述黑色液体在小曼身体内的蔓延，展现了角色在性别转化与身份认同之间的挣扎，融合了变身和跨性别主题。文中包含大量关于性别与欲望的描绘，角色在体内灵魂的转换以及对身体的探索，反映出一种对自我认知与性别角色的极端扭曲。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魂石5（下）.docx]([皮物]_魂石5（下）.docx)
 | Size            | 19984 bytes                           |
 | MD5             | 12e601aa5ac64d9ca892044c01376774                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 伪娘, 角色认同, 痛苦与愉悦, 身体探索, 黑色液体, 欲望, 自我认知, 灵魂转移, 幻想, 心理冲突, 性别角色, 内心挣扎, 情色小说, 二次元文化, 天真与邪恶的对比, 人体改造, 超现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

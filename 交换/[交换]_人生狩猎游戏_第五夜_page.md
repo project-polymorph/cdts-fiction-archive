@@ -7,7 +7,7 @@ TXT 下载: [[交换]_人生狩猎游戏_第五夜.docx]([交换]_人生狩猎�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《人生狩猎游戏》第五夜的部分内容，描绘了角色江雪与杨璇之间的身体交换故事。在这一夜中，江雪刚结束与局长的通话，决定请假。她开始梳洗打扮，尽管原主人的身份已有所不同，江雪依然能从记忆中找到打理自己的方式，并对身体产生满意的情感。随后的情节展现了她的外表变化，以及与杨璇的相遇。两人之间的关系复杂，面对身份和身体的转换，彼此之间产生了情感冲突。江雪在与杨璇的对话中，表达了一种强烈的自我认同感，而杨璇则陷入了对人生的失望与绝望。这一段文字探讨了性别认同、身体自主权和自我探索等主题，同时也涉及了权力和控制的暗示。整体来说，此文本通过角色的内心独白和对话展现了对身份认知的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_人生狩猎游戏_第五夜.docx]([交换]_人生狩猎�
 | Size            | 42592 bytes                           |
 | MD5             | 7a1aaa37b0bd8baf0c4fdda6773bef7d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 身体交换, 性别认同, 自我探索, 跨性别, 情感冲突, 权力与控制, 二次元, 幻想, 惊悚, 现代都市, 女性视角, 生活困境, 身份危机, 角色扮演, 青春动漫, 性别转换小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

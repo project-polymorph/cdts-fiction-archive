@@ -7,7 +7,7 @@ TXT 下载: [[附身]_两人的入替之双妻.doc]([附身]_两人的入替之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《两人的入替之双妻》描绘了两个男性角色的灵魂意外之间的入替，进入到一个与他们原本世界相似却存在一些不同的平行宇宙。在这个宇宙中，男性与女性的性别角色有所变换，并呈现出较为开放的多元家庭结构。作品讲述了他们作为女性身份的心理变化和自我探索，尤其是在性别认同与性欲望的冲突中体验到的欢愉与快感。角色们从做回人妻开始享受生命的新阶段，寻求情感与身体的归属，并经历了与男性角色的亲密关系。具体情节涉及性别转换后，姐妹花角色如何在新的身体和身份中探索爱的多样性，以及同时参与对其丈夫的爱抚与性爱，情节充满幻想与性探索的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_两人的入替之双妻.doc]([附身]_两人的入替之�
 | Size            | 40960 bytes                           |
 | MD5             | 98d741ec7ca736a06ba6d29b7acc0de4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 幻世, 人妻姐妹花, 亲密关系, 自我探索, 性欲体验, 多重性别, 灵魂入替, 二次元, 跨性别体验, 女性角色, 欲望与快感, 平行宇宙, 情感归属, 丰富的性爱, 探索性角色, 幻想小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

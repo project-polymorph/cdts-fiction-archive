@@ -7,7 +7,7 @@ TXT 下载: [[变装]_The_Patriot_Game_10-12.doc]([变装]_The_Patriot_Game_10-1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《变装：爱国者游戏》10-12章，内容涉及杰克与他妻子露丝的心理斗争以及对杰克性别认同的挑战。在第10章中，杰克发现自己的内衣被放在公文包里，感到无奈但又被迫接受这样的一种命运。露丝在电梯内与两个秘书交谈，对杰克的女性化形象显得有些得意。在与企图将杰克转变为告诉他们的目标的史蒂夫讨论后，露丝被告知杰克可能需要进行隆胸手术，以使他能够更符合目标的偏好，露丝一开始拒绝，但最终仍然同意此方案。整个章节充满了家庭内的权力动态与性别认同的问题，杰克在这段关系中感到自我价值和身份的失落。章节通过他们的对话展现了强烈的情感冲突和杰克的身份迷惘，以及露丝对杰克的期望与态度。这段内容不仅涉及性别变换，还触及了控制和依赖的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_The_Patriot_Game_10-12.doc]([变装]_The_Patriot_Game_10-1
 | Size            | 62464 bytes                           |
 | MD5             | 614e2a3c30c029975ef9af60703e85ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 跨性别, 家庭动态, 心理斗争, 性别认同, 情感冲突, 隆胸手术, 自我探索, 权力关系, 爱与依赖, 悲伤与失落, 女性化, 男性认同, 变嫁, 爱的代价                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

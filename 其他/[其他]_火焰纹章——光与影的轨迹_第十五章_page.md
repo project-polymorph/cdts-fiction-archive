@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第十五章.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《火焰纹章——光与影的轨迹》的第十五章，主要围绕拉格兹国王尼萨拉与白鹭王子琉西昂之间的对话以及尼萨拉与奥利弗公爵的交易。当尼萨拉在会议上因为与贝奥克的交易而受到琉西昂的指责，他表示这项交易是为了振兴自己的国家。而琉西昂则断然表示对尼萨拉的失望，认为他已不再是曾经的朋友。章节描述了尼萨拉的复杂心情，以及他内心对于国家责任的挣扎。随后，冰冷的政治环境中，奚落和构陷充斥着，奥利弗公爵对于琉西昂的赞美让尼萨拉感到恶心。故事进一步揭示了各国之间的权力斗争和个人情感的矛盾。另一个主要角色塞菲鲁则承受着统治的重担，面对国家的危机，他不得不做出艰难的选择，这一系列冲突为后续情节埋下伏笔。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第十五章.docx]([�
 | Size            | 26349 bytes                           |
 | MD5             | ae6bb123deb3d07a6b10cc8d2014210c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 火焰纹章, 拉格兹, 白鹭王子, 权力斗争, 国家责任, 尼萨拉, 琉西昂, 政治阴谋, 奥利弗公爵, 塞菲鲁, 自我探索, 叛逆, 友谊破裂, 魔法, 黑暗魔法, 历史小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

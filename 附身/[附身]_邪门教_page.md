@@ -7,7 +7,7 @@ TXT 下载: [[附身]_邪门教.doc]([附身]_邪门教.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个关于邪门教的故事，该教派在都市中秘密存在，掌握着一种可以附身于他人身躯的邪术。故事的主角是一个小门徒，逐渐熟悉并使用这种能力进行各种操控。在文件中，主角附身于一位美女市长张颖，利用她的身体进行泄露腐败证据的任务。通过附身，主角不仅享受了张颖的身体，也通过她的身份完成了一项看似正义的任务。但随着情节的发展，揭示了主角对于他人身体的侵犯以及他内心的罪恶感。随着附身过程的深入，涉及的性行为描写非常露骨，同时也表达了社会的黑暗面及人物内心的挣扎。该作品结合了性别转换、附身、偷窥等元素，透视了道德与欲望的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_邪门教.doc]([附身]_邪门教.doc)
 | Size            | 47104 bytes                           |
 | MD5             | e7dc6fbb574245b83eac6bc1b10db64f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 邪门教, 附身, 性别转换, 变身小说, 腐败, 都市, 欲望, 道德冲突, 跨性别, 吸奶, 强奸, 淫荡, 调教, 母爱, 虐待, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

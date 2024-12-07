@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[附身+皮物]偏执的爱（一）.doc]([皮物]_[附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《偏执的爱（一）》是一部围绕性别转换和自我认同的小说，描绘了一个女性角色的故事，展现了角色在性别转变后对自我认同的探索与冲突。故事开篇描绘了一位美丽女子的形象，她的气质与外貌让等待的男子心生冲动。随着情节的发展，女子和男子之间的互动变得亲密而微妙，女子表现出一系列复杂的情感与行为。在被迷药影响的状态下，她逐步接受了自己新的身份，并探索身体的感受与欲望。这部小说充满了对自我认知与身体意识的讨论，同时也融入了色情与心理刺激的元素，使得整个故事情节紧凑而富有张力。作者在细致描写中细腻地塑造了角色的内心变化和复杂感受，探索性别认同、欲望和身体的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[附身+皮物]偏执的爱（一）.doc]([皮物]_[附身
 | Size            | 55296 bytes                           |
 | MD5             | a7d12ebae6285c9af3dcdda8ba7b6c00                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 迷药, 自我认同, 欲望探索, 情感纠葛, 性转, 伪娘, 心理冲突, 情色, 身份认同, 变装角色, 腹黑男主, 女性视角, 禁忌关系, 幻想, 情感发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

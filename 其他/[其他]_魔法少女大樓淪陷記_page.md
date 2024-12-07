@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魔法少女大樓淪陷記.docx]([其他]_魔法少女大
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于魔法少女战斗与堕落的小说，围绕着黑之机关对魔法少女大楼的攻击展开。故事中描绘了黑衣少年在遭遇激烈冲突前的轻松模样，然而随之而来的是对魔法少女大楼的猛烈攻击，伴随着大量机械武装守卫与血腥场面。魔法少女们奋力抵抗，但在黑魔法的作用下，一批又一批的少女化为尘埃，更多的少女在与黑之机关的战斗中逐渐陷入绝望。整部作品同时涉猎自我认知与性别认同等主题，穿插着激烈的战斗和色情元素，展示了角色们在面对死亡与堕落时的情感与反应。该作品包含了许多残酷的场景，例如黑之机关对魔法少女的侵犯与虐待，从而使其成为充满冲突与张力的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魔法少女大樓淪陷記.docx]([其他]_魔法少女大
 | Size            | 21738 bytes                           |
 | MD5             | cd28b3bacf2a90f17c9dba47cabf21d3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 变身, 跨性别, 强奸, 黑之机关, 自我认知, 战斗, 血腥, 少女堕落, 社会批判, 恐惧, 爱与希望, 激烈情感, 二次元, 动画, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

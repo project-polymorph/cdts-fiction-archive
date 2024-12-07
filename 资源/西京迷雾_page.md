@@ -7,7 +7,7 @@ TXT 下载: [西京迷雾.docx](西京迷雾.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘西京大学第四临床医学院学生互动关系的小说片段，主要围绕王子赫和卫如林两位男生的情感与心理冲突展开。故事开篇即设定在异样的压抑气氛中，王子赫因对一位女同学高希灵召开会议表示强烈不满，表现出他们对学院活动管理的抵触情绪。故事中通过角色之间的对话，反映出校园内部错综复杂的人际关系以及学生之间的情感纠葛。王子赫和卫如林对学院内部管理的不满逐渐升温，尤其是在他们受到辅导员胡晴的训斥后，两人内心的愤怒不断积累，最终决定要反击这种被动的局面。与此同时，文件中还涉及了一些校园生活的细节描写，如高希灵的外貌以及她在体育活动后的情境等，使得整个故事更显真实。封闭的会议室、沉闷的校园环境，甚至酒吧的低落心情，都为这一复杂的校园情感故事增添了层次和深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [西京迷雾.docx](西京迷雾.docx)
 | Size            | 77850 bytes                           |
 | MD5             | 148f27e1731a67d74b9471fdf9eea24a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-04-02                                 |
+| Tags            | 校园小说, 跨性别, 伪娘, 变身, 心理描写, 时代背景, 青春, 爱情纠葛, 性别认同, 自我探索, 权力斗争, 情感冲突, 社会期待, 师生关系, 大学生活, 压抑氛围                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

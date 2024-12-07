@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_一个刺激的夜和一个心塞的我！（5—8节）�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部包含敏感内容的跨性别与变身主题小说，主要讲述了一个男性角色通过意识转移，化身为他的丈母娘，并在这一过程中与其建立了复杂而刺激的情感关系。情节展示了角色自我认知的冲突、对性别与身份的探索，以及伴随这样的身体变化而来的心理波动。故事中，角色对丈母娘的深厚感情随着身体的转变而得以显现，充满了既刺激又禁忌的情感交流。例如，在一段文字中角色表达：“我想这么抱你真的好久好久了，从第一次见到你我就有这样的想法。”尽管故事中包含了大量的色情描写，主要围绕亲密与欲望的主题展开，情节设计意图探索跨性别与性别认同的复杂性，契合了性转小说的定义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_一个刺激的夜和一个心塞的我！（5—8节）�
 | Size            | 51414 bytes                           |
 | MD5             | 0f8c048b790638c80572d5a5a59bb73b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 特殊关系, 伪娘, 丈母娘, 情感纠葛, 身体意识转移, 欲望, 禁忌爱情, 强烈情感, 幻想, 青春, 女性视角, 伦理困惑, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

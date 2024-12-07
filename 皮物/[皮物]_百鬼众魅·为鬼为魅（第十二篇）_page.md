@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_百鬼众魅·为鬼为魅（第十二篇）.doc]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为短篇小说《百鬼众魅·为鬼为魅（第十二篇）》的内容，讲述了一位名为因幡葵的可爱兔耳少女在一家女式内衣店的经历。故事起始于一个论坛讨论，随即转向充满诱惑的商店环境，因幡葵作为留学生初次前来选购内衣，她对尺寸的不了解成为了情节的推动力。她与店员的对话中体现了羞涩、无助和期待。店员以极具挑逗性的态度引导因幡葵进行一系列尴尬但亲密的接触，涵盖了测量尺寸和试穿过程。文本中充满了性暗示和敏感场景，包括内衣的试穿、身体的触碰等，呈现出一幅色彩丰富的社交互动画面。整部作品不仅探讨了性别角色和性别认同，还隐含了对自我探索的描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_百鬼众魅·为鬼为魅（第十二篇）.doc]([皮物]
 | Size            | 6504960 bytes                           |
 | MD5             | a5d820041f5c8dd92d5f4202653f6d9c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 百鬼众魅, 性转, 伪娘, 内衣店, 幻想, 调教, 强奸, 女体化, 百合, 诱惑, 调整尺码, 兔耳少女, 性别认同, 裙子, 敏感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

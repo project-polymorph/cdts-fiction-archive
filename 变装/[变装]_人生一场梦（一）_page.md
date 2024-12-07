@@ -7,7 +7,7 @@ TXT 下载: [[变装]_人生一场梦（一）.docx]([变装]_人生一场梦（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《人生一场梦（一）》是一部关于性别认同和自我探索的小说，讲述了一个来自破碎家庭的少年在复杂的环境下成长的故事。主人公的父亲因债务离家，母亲为维持生计转向不当的途径，与不同的男人交往。故事以第一人称的视角展示了少年对母亲和家庭状况的感受，逐渐演变为对性与性别的探索。在十一岁时，主人公因不堪忍受生活中的孤独与混乱开始尝试穿着母亲的内衣，从而产生了对女式内衣的迷恋，并将这种迷恋与自己的性意识相结合。随着成长，主人公在学习和变装手淫之间挣扎，展现出对自我性别认同的混乱和矛盾。文本中包含对复杂家庭关系的描绘和对少年自我性觉醒过程的细腻刻画。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_人生一场梦（一）.docx]([变装]_人生一场梦（
 | Size            | 65965 bytes                           |
 | MD5             | 8773e477650bb6435bd2d1e941356add                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 雪琳                               |
+| Region          | 未知                               |
+| Date            | 2012-06-03                                 |
+| Tags            | 性别认同, 自我探索, 家庭关系, 成长故事, 性别转换, 性意识觉醒, 变装小说, 性别角色, 母子关系, 青少年心理, 孤独, 社会问题, 内衣迷恋, 性教育, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

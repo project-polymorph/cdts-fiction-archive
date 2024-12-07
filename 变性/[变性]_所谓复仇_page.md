@@ -7,7 +7,7 @@ TXT 下载: [[变性]_所谓复仇.docx]([变性]_所谓复仇.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《所谓复仇》，内容讲述了安德鲁与其女友阿什琳之间的复杂关系。故事开头，阿什琳因安德鲁迟到与他发生争执，愤怒之下决定分手。安德鲁对这一变故感到愤怒，采取了极端的行为，并被逮捕。在监狱服刑一年后，安德鲁发现阿什琳已经找到了新男友维克多。他心中盘算着复仇的计划，并以女性身份接近维克多，伺机报复。整部小说中充满了关于权力动态、性别认同的挑战，以及角色自我探索的过程。安德鲁在伪装成女性后，利用自己的外貌和身体接近维克多，逐步展开其复仇计划，文中包含了一系列关于变性、性别角色反转及性幻想的情节，代表了一种对传统性别角色的颠覆。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_所谓复仇.docx]([变性]_所谓复仇.docx)
 | Size            | 31901 bytes                           |
 | MD5             | 7e8d7170413c11c7bec190942eca42a5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Writerofdreams                               |
+| Region          | 未知                               |
+| Date            | 2019-02-06                                 |
+| Tags            | 复仇, 跨性别, 性别认同, 伪娘, 男娘, 情感纠葛, 性别角色, 心理扭曲, 暴力, 强奸未遂, 女性视角, 爱情, 都市, 自我探索, 幻觉, 性欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

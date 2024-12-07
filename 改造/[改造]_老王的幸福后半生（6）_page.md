@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老王的幸福后半生（6）.doc]([改造]_老王的幸
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含一段关于老王、齐梦伟和李乾之间复杂关系的叙述，涉及角色之间的权力斗争与情感纠葛。故事中，齐梦伟曾被老王控制，醒来后面临选择与复杂的内心冲突。齐梦伟虽然已经成为女性，但他的思维还是男性化，考虑着传统婚姻与家庭的责任。故事中多次提到角色之间的互动，包括试图帮助、傲慢和讽刺，展现了性别与权力的交织。同时，文件也充满了对社会人际关系的思考，如“我能感觉得出来，你的情况与我差不了多少”，“等一下，我还要去救我好友的妻儿”等对话，突出了角色们各自的情感和立场。整体情节情感交织，角色的发展与变化引人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老王的幸福后半生（6）.doc]([改造]_老王的幸
 | Size            | 54272 bytes                           |
 | MD5             | 1aea390bd648dd3a3a00745e4f8f497e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | q344164202                               |
+| Region          | 未知                               |
+| Date            | 2021-08-07                                 |
+| Tags            | 伪娘, 跨性别, 强奸, 调教, 情感纠葛, 权力斗争, 传统婚姻, 自我探索, 性别认同, 心理冲突, 现代社会, 复杂关系, 情欲, 家庭责任, 地下交易, 友谊的考验, 人际网络                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

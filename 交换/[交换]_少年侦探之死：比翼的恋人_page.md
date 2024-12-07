@@ -7,7 +7,7 @@ TXT 下载: [[交换]_少年侦探之死：比翼的恋人.doc]([交换]_少年�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一名原本是少年侦探的角色‘莉亚’，因某种原因变身为女孩，进入一所女子私立高中后所经历的种种心理冲突与校园生活。故事通过莉亚的视角展现了她对新身份的反感与不适应，以及对周围同学的观察和互动，尤其是与同班同学南梦的关系。在礼仪课上，莉亚心中不断懊悔，思考着‘早知道那么麻烦，就绝对要换回来才对’的自我对话。在班级中，莉亚感受到被注视的压力，也因女同学的关注而感到困惑。文中充满了莉亚对自己身份的探讨，以及她如何慢慢适应这个新环境和认识到自身的变化。详细的心理描写和与同学的互动，使这个性转题材的故事不仅仅局限于表面的变身，而更深层次地探讨了性别认同和自我探索的议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_少年侦探之死：比翼的恋人.doc]([交换]_少年�
 | Size            | 37888 bytes                           |
 | MD5             | 2346ef354839b8bc35e71ed9d54ac4a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 男娘, 跨性别, 校园生活, 自我探索, 心理冲突, 女校, 友谊, 成长, 变身, 现代礼仪, 伪娘, 同学关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

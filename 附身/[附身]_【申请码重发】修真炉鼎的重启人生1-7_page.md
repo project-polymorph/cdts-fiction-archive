@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【申请码重发】修真炉鼎的重启人生1-7.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于修仙题材的小说，讲述了男主角林成的重生与成长。在故事的开头，林成回顾了过去的正魔大战，他曾是清风门弟子，因灵根弱小而受到欺负。然而，随着故事的发展，林成的先天魔根觉醒，使他得到了强大的力量，成为魔门门主，并与曾经的青梅竹马萧冷月展开了一场生死对决。作品中不仅有浓厚的修仙元素，还有复杂的人际关系和感情纠葛，描绘了林成与他师妹和师姐间的暧昧情感，以及旧情人与敌人的痛苦冲突。整篇小说呈现出紧张激烈的战斗场面及情感的深入描绘，使得人物关系错综复杂，情节引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【申请码重发】修真炉鼎的重启人生1-7.doc]([
 | Size            | 81920 bytes                           |
 | MD5             | 9c55cbb6313577edaa0b660cd48e9e7c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 修仙, 重生, 跨性别, 情感纠葛, 正魔大战, 先天魔根, 青梅竹马, 魔门, 清风门, 灵根, 师徒关系, 复杂人际关系, 斗争与爱情, 获胜与复仇, 女主角, 强者崛起                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

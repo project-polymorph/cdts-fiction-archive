@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_4.docx]([变身]_【渣�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇奇幻题材的变身小说，讲述了名为艾伦的勇者在迷宫探险过程中的挣扎与遭遇。在这个故事中，艾伦的身体受到了强烈的魔法影响，战斗能力被削弱，面临着强大的敌人。在与恶劣环境作斗争的同时，他感受到身体的敏感与不适，情感和身体的冲突逐渐显露。随着情节的发展，艾伦在魔物面前显得无济于事，逐渐陷入绝望与羞愧之中。文本中包含许多描写艾伦身体状态和心理变化的细节，尤其是在面对强敌时的弱势与困境，以及他心中对自身身份的质疑。此外，作品中涉及魔法封印和性别转变的主题，描绘了一个充满挑战与矛盾的奇幻世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_4.docx]([变身]_【渣�
 | Size            | 27314 bytes                           |
 | MD5             | 598a16ddeac24e032dacbb97492f3042                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 勇者, 魔法, 迷宫探险, 自我认同, 身体敏感, 奇幻, 女性化, 幻想, 魔物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_三垢说——嗔，香君叹（上）.doc]([变性]_三�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《三垢说——嗔，香君叹（上）》讲述了一个名叫马尚军的男人的故事，他是一位脾气火爆的农村出生的退伍军人，凭借自己的努力在城里开了一家特殊学校。然而，由于对学生的严厉体罚事件，他的学校遭到剥夺办学资质。在休息几年后，他接到了他的前学生梁日娇的电话，邀请他到自己的酒店担任安保工作。在酒店工作中，马尚军逐渐被美丽的酒店老板梁日娇吸引。在经历了工作与生活的交错后，他们的关系逐渐升级，马尚军对梁日娇产生了强烈的情感。在一次意外中，马尚军被迫施加了强暴，然而却不知这是一个阴谋的开始，最终导致他的性别发生了翻转。小说细致入微地描绘了角色间的复杂关系与心理变化，展现了性别认同与自我探索等主题，内容涉及一些限制级情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_三垢说——嗔，香君叹（上）.doc]([变性]_三�
 | Size            | 37888 bytes                           |
 | MD5             | c0531b43e412f1fc0aaebaba0725a2aa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 情感纠葛, 强奸, 暗恋, 阴谋, 暴力, 夜总会, 情欲, 自我认知, 女性角色, 性别认同, 都市, 复杂人际关系, 心理戏, 粉色幻想, 社会现实, 角色刻画                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_葵花旧事（22）.doc]([变装]_葵花旧事（22）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别主题的小说，标题为《葵花旧事（22）》。故事主要围绕一位名叫慧中的大宗师，以及他在武学创研和内功修炼方面的探索。文件通过对话和描述，展示了慧中对传统武功的探讨，尤其是他试图创造一种适合残疾人修炼的武功，以应对当时武林中的严峻挑战。故事中涉及了关于武功的种类及要求，自我认知的提升，以及性别与身份认同的相关讨论，特别是与太监以及阉人身份相关的独特武功修炼经验。情节中提到，慧中在试炼新的武功心法时，与徒弟素仪和素莲的关系也逐渐变得密切，描绘了修行过程中的情感纠葛与角色探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_葵花旧事（22）.doc]([变装]_葵花旧事（22）.do
 | Size            | 49664 bytes                           |
 | MD5             | ed4b683e3d9e8fb04308f1f462e6a4db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 武功修炼, 自我探索, 情感纠葛, 武侠小说, 独特身份, 师徒关系, 心法创新, 古代背景, 女体化, 双修, 干涉命运, 性别认同, 精神成长, 传统文化, 内功修炼, 武学思想, 角色变幻, 阉割与重生, 修炼与道德                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

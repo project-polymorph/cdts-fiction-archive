@@ -7,7 +7,7 @@ TXT 下载: [[其他]_竞技场_（3）.doc]([其他]_竞技场_（3）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及高幻想世界的变身和性转主题的小说片段。故事围绕女主角莉莎展开，她刚刚进入高级住宅区，并在其中遇到了一名神秘的黑衣人。整篇小说以莉莎的视角描述其在新环境中的体验与遭遇，背景设定在一个充满魔法与奇幻生物的世界。莉莎之所以能进入这高档区域，得益于她与其他角色的复杂关系及她独特的能力。随着情节的发展，莉莎遭遇了来自女王蜘蛛的性别与身份的挑战，展现了她身体与心理的冲突。在过程中，涉及了大量的幻想元素，如魔法、触手、以及性别转变的描写，形成了一种独特的怪诞美学。从文本来看，这段故事较为成熟，包含了部分性暗示与较为敏感的情节，体现了当代二次元文化中对性别与身体探索的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_竞技场_（3）.doc]([其他]_竞技场_（3）.doc)
 | Size            | 73728 bytes                           |
 | MD5             | 7175c522858f96d67204f50d88cb2907                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 魔法, 触手, 女王蜘蛛, 高级住宅区, 自我认知, 幻想, 黑衣人, 权力关系, 女性角色, 奇幻冒险, 二次元, 伪娘, 调教, 强奸, 女体化, 变嫁, 病态, 爱情, 游戏, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

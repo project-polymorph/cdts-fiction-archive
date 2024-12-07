@@ -7,7 +7,7 @@ TXT 下载: [[交换]_易体(1).doc]([交换]_易体(1).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档描述了一名男性角色汤姆（汤姆·威尔逊）在其公寓的生活片段，描绘了他即将享受一个悠闲的周末。他的公寓配备了高科技的电子私人管家马塞拉和无人出租车等先进设施，体现出未来科技的便利与舒适。在此背景下，汤姆与朋友柯克的交谈涉及到社交活动及隐私身份更新。此外，文件细节呈现了汤姆通过VR技术参与虚拟性爱的体验，与直播模特佐伊的互动显得非常真实，如同身临其境。该故事涉及到了性别认同和性欲望等主题，令人引发思考。文中特别提到的VR界面及模拟性爱的细腻描写，进一步表现了科技对个体生活的影响和改变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_易体(1).doc]([交换]_易体(1).doc)
 | Size            | 53760 bytes                           |
 | MD5             | 66569b66b240ce18363ee71b0d48d4af                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 科技幻想, 虚拟现实, 跨性别主题, 自我认知, 高科技生活, 性欲探索, 二次元文化, 个人隐私, AI助理, 直播色情, 虚拟性爱, 周末放松, 角色扮演, 未来世界, 都市生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

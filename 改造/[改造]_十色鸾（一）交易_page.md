@@ -7,7 +7,7 @@ TXT 下载: [[改造]_十色鸾（一）交易.doc]([改造]_十色鸾（一）�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一段设定在古代背景下的伪娘与跨性别相关的故事，主要围绕御龙卫王傲的巡夜经历展开。在夜色朦胧的皇宫中，王傲与两名俊秀少年萧幕龙和幕虎相遇。两名少年外貌俊美，王傲误认为他们为女子，使他心生慌乱，显示出内心对于性别角色的疑惑与复杂感受。故事中通过王傲的视角展示了他在身份与期待之间的挣扎。与此同时，王傲逐渐意识到这两名少年其实是江湖中的"十少侠"，并在与他们的交流中产生了同道的情感。情节中涉及权力与性别认同的主题，曹贤安这位太监角色则进一步抛出关于社会习俗与个人认同的深层思考。文本中引用了对人物外貌的细致描述与角色心理活动的深刻揭示，构成了一个关于自我探索的复杂叙述。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_十色鸾（一）交易.doc]([改造]_十色鸾（一）�
 | Size            | 39936 bytes                           |
 | MD5             | 0a7be70be41d9eaf3ad00297f73465fa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 权力 play, 性别认同, 自我探索, 江湖, 古代背景, 男女性别转换, 兄弟情谊, 皇宫, 太监, 情感纠葛, 性别困惑, 侠义精神, 古代爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_蝴蝶_1_（申码文重发）.docx]([改造]_蝴蝶_1_（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇围绕性别认同与自我探索展开的小说，主人公陈晓是一个从小就长得像女孩的大学男生。在与自己的好友桃子的相处中，陈晓逐渐意识到自己对桃子的情感超越了友情，并开始尝试扮演女性角色以取悦桃子。他的故事呈现了性别转换的复杂性以及角色的心理变化，特别是当他开始接受并享受自己的女性化身份时。在小说中，描绘了陈晓在镜子前的自我探索，他用手轻抚自己的身体，感受到性别认同的困惑与挑战。随着情节的发展，他逐渐对自我和情感的承认引起了与桃子关系的改变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_蝴蝶_1_（申码文重发）.docx]([改造]_蝴蝶_1_（
 | Size            | 64550 bytes                           |
 | MD5             | 91192ae643efb857a1908c8b701a297a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 伪娘, 变身, 青春, 情感, 大学生活, 秘密, 友情与爱恋, 跨性别, 身体变化, 心理冲突, 成长经历, 禁忌恋情, 二次元角色, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

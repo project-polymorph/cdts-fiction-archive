@@ -7,7 +7,7 @@ TXT 下载: [[变身]_门外的神明（完结篇）.doc]([变身]_门外的神�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于变身、性别认同以及复杂人际关系的小说，包含多个角色的互动，特别是围绕主角李与高咲侑之间的情感纠葛及实验设定展开。文本中包含了大量关于性别转换、身体感知以及青少年在成长过程中面对自我认同与社会期望的探讨。故事情节包含了角色之间的口交场景和一些生理认知上的冲突，展现了人物对性的困惑与探索。文中提到的实验试图通过细微的生理改动影响角色的性格与感知，使得读者在情节发展中逐步体会到性转和自我认识的不易。同时，该文涉及到许多性别相关的复杂主题，例如性别表达、身份认同和社会期望等，这些主题通过角色之间的对话与情节进展得以体现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_门外的神明（完结篇）.doc]([变身]_门外的神�
 | Size            | 52736 bytes                           |
 | MD5             | 743956a9ede02f3035939ac65886b240                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性转, 伪娘, 人际关系, 实验, 心理探索, 生理认同, 情感纠葛, 性别认同, 成人情节, 青少年成长, 自我发现, 身体意识, 互动, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第七章.doc]([附身]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《传承之书》第二季第七章继续围绕着郑心怡的计划展开。在这一章中，郑心怡被描绘在高处观察张天骏的住处，而张天骏正是她关注的目标之一。她的最终目的似乎与“浩”组织的力量有关，展示了她的策略和深思熟虑的安排。在这章中，郑心怡的线人提供了情报，但她对于王晋鹏的生死并不在意，而更希望沈玥琦能如期出现。随着情节的推进，郑心怡使用暗器袭击陆洁琳，情节骤然紧张。许兴发的灵魂状态成为了观察的视角，增加了故事的悬念及神秘色彩。此后，陆洁琳因伤被安置，而许兴发则悄然进入她的身体，完成了附身。随着剧情的发展，陆洁琳对自己的身体感到兴奋，并与张天骏产生直接的互动，展现出令读者惊讶的情欲场景，情节涉及了性别、身体控制及色情元素。整章中有不少限制级内容，如暗杀和性行为，暗示故事的复杂和多元的性别观。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第七章.doc]([附身]_《�
 | Size            | 38912 bytes                           |
 | MD5             | b0568213a615e772bbf2c9905e0ad54a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 附身, 伪娘, 男娘, 调教, 强奸, 荡妇, 逆后宫, 淫荡, 多元性别, 现代都市, 奇幻, 情欲, 心理冲突, 灵魂状态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

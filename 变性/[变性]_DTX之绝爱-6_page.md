@@ -7,7 +7,7 @@ TXT 下载: [[变性]_DTX之绝爱-6.doc]([变性]_DTX之绝爱-6.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换及自我认同的小说，更具体地描绘了主人公徐慧雯（原名徐兴邦）的变性过程及其在新身份下的生活。文件开头描述了徐慧雯在公司上班前的准备过程，包括穿着西装、化妆等，表现出其对新身份的紧张与期待。“我自已都不知道，为什么现在这么矫情了。”表现了主人公心中复杂的情感。随着情节发展，徐慧雯面临着职场中的社交挑战，她的同事们逐渐适应并接受了她的新身份，但她内心仍然对于过往的男人身份感到不安。在工作的场合中，她需要不断小心翼翼应对他人的目光与评价，同时提出对未来的思考。最后，小说在心理和情感的层面深入探讨了变性人面对的社会认同与自我认同之间的冲突与转变。整体而言，该文本不仅呈现了性别转换的表面现象，更深入探讨了个人的心理变化和性别认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_DTX之绝爱-6.doc]([变性]_DTX之绝爱-6.doc)
 | Size            | 44544 bytes                           |
 | MD5             | 83ac9dd28c81cb135443ba87f5f5877f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 自我探索, 职场生活, 人际关系, 心理冲突, 性感形象, 伪娘, 男娘, 变装, 情感转变, 纯爱, 职场社交, 女权, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_胜者游戏.doc]([皮物]_胜者游戏.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《胜者游戏》是一个关于性别转换与自我认同的小说，作品围绕角色凌林展开，描绘了他在意外获得一款名为"胜者游戏"的手机后，被卷入到一个充满变化与挑战的游戏中。在游戏中，参与者需要隐藏自己的身份并完成各种任务，同时角色身体将会发生随机变化。这项设置不仅加深了角色的心理冲突，也让他面临对自我身份的重新审视。文中描绘了凌林与班长芍雪的互动，展现了他对班长的情感纠葛，以及宅邸生活带来的内心挣扎。在充满科幻与奇幻元素的背景下，穿插了一些性启蒙与幻想的情节，尤其是关于性别与性取向的敏感话题。作品中还包含了一些与性相关的内容，涉及生理变化和心理感受，体现了对性别流动性与认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_胜者游戏.doc]([皮物]_胜者游戏.doc)
 | Size            | 38400 bytes                           |
 | MD5             | c7b8a0425ee44deb58945e704965baca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 自我认同, 心理挣扎, 二次元, 科幻, 奇幻, 性幻想, 角色扮演, 隐秘身份, 任务挑战, 皮物, 女性化, 性启蒙, 校园生活, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

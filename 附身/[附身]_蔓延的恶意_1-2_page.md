@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蔓延的恶意_1-2.doc]([附身]_蔓延的恶意_1-2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为一篇名为《蔓延的恶意》的伪娘 TS 变身与跨性别相关小说，原作者为憑依好きの人。故事围绕主人公相川裕树展开，描述了他与青梅竹马山吹瞳和同班同学秋山诗织之间的互动，以及他们在学校生活中的日常。在情节中，裕树在面对不良少年矢田的威胁时展现出强烈的正义感及身体素质，然而，随着情节发展，矢田似乎对裕树产生了更深的恶意，甚至发生了附身的情节。诗织在矢田的心理操控下，经历了肉体与精神的双重压迫，无法控制自己的行动。该文档带有强烈的心理戏剧性，揭示了角色之间复杂的人际关系及情感冲突。内容中涉及了暴力、操控和对自我意志的挑战，场面十分紧凑，充满了悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蔓延的恶意_1-2.doc]([附身]_蔓延的恶意_1-2.doc)
 | Size            | 44032 bytes                           |
 | MD5             | 7fae469631f9fe86ce32422a047c46d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 憑依好きの人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 附身, 暴力, 校园生活, 强迫, 心理操控, 青梅竹马, 正义感, 性别认同, 自我探索, 情感冲突, 稚嫩的爱情, 校园友情, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_（2021末日_新启元）COVID-19_第五章.doc]([改造]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节描绘了一位名为岳臻的男子在2020年大年初一的日常生活及内心冲突的情景。在疫情期间，他与年轻女孩钟潇潇的互动描写了感情的微妙变化和对未来的焦虑。岳臻在与潇潇的交流中，透露出对现实世界的无奈及对抗疫工作的承诺，二人之间的关系在紧张的背景下显得复杂而真实。随着故事的发展，岳臻因感染COVID-19而陷入昏迷，经历了一系列生死考验，展现了在危机中人性的脆弱与坚韧。最后，他在昏迷中梦见潇潇和同伴的关心，反映出他内心深处对人际关系和生命意义的思考。文章的语言细腻，将角色的情感转化为生动的描写，可能涉及到相关的性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_（2021末日_新启元）COVID-19_第五章.doc]([改造]
 | Size            | 42496 bytes                           |
 | MD5             | d90040e395796874e183858ebfb7b07b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-01-25                                 |
+| Tags            | 疫情, 跨性别, 变身, 伪娘, 自我探索, 性别认同, 爱情, 科幻, 小说, 情感纠葛, 强奸, 百合, 抗疫, 青春, 虚拟现实, 幻梦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

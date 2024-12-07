@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我的多重宇宙从催眠寄生开始（20）.docx]([其
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是多元性别中文数字档案馆中关于伪娘及跨性别主题的小说的一部分。内容涉及安德莉亚·林，一位年轻时尚的个人助理，她正在为她的老板李丽娜准备商业晚会的发言稿。在这样忙碌的工作氛围中，安德莉亚却对老板的迟迟未到感到焦急。与此同时，文件描写了李丽娜在私人办公室中的私密场景，揭示了与工作形成鲜明对比的激情与欲望。此情节包含了性别认同、自我探索及欲望等元素，通过丰富的描写展现出女主角的外表与内心的冲突。文本中出现了大量关于珠宝公司的描写，体现了现代都市生活的节奏感与时尚感。适合对现代性别文艺、跨性别及伪娘文化感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我的多重宇宙从催眠寄生开始（20）.docx]([其
 | Size            | 37886 bytes                           |
 | MD5             | 64bfb2bd95b491d25117e89c0c089b9a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性别认同, 都市中的性别探索, 年轻职场生活, 商业社交, 女权主义, 自我认知, 性欲与冲突, 时尚与欲望, 女助理, 珠宝行业, 职场恋情, 昼夜交替                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

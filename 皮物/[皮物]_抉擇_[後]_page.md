@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_抉擇_[後].docx]([皮物]_抉擇_[後].docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个与性别认同和变身相关的故事，围绕主角偉業的心理冲突与自我探索展开。在婚礼之日，偉業因对家人安排的婚姻感到愤怒，偷偷潜入新娘房间，意外地介入了新娘美儿与嫲嫲的冲突。故事进一步探索偉業的性别变化经历，描绘了他偷穿美儿衣物后，从男性身份过渡为女性身份的复杂感受，包括对新身体的惊讶和震撼。随着情节发展，偉業逐渐接受了自己的新身份，并在与恋人子山的关系中寻找认同与归属感。文件中的内容涉及强烈的性别身份探索和角色之间复杂的情感纠葛，且部分情节包含性暗示和色情元素，引导读者思考性别、权力和欲望之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_抉擇_[後].docx]([皮物]_抉擇_[後].docx)
 | Size            | 17090 bytes                           |
 | MD5             | 12500f8259e29dddeddabf76d8b69e46                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 婚礼, 心理冲突, 自我探索, 伪娘, 跨性别, 性别转换, 性幻想, 情感纠葛, 禁忌恋, 爱情, 成长, 变嫁, 两性关系, 情欲, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

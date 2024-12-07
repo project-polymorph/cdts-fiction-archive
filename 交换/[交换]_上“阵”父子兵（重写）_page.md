@@ -7,7 +7,7 @@ TXT 下载: [[交换]_上“阵”父子兵（重写）.doc]([交换]_上“阵�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个关于性别角色互换的故事。在这个故事中，主人公李明经历了一次诡异的灵魂互换事件，他的父亲的灵魂进入了他的妻子雅兰的身体。故事从李明下班回家开始，他满心欢喜地想给妻子一个惊喜，却发现雅兰的状态异常。经过一系列对话，李明发现雅兰并不是他的妻子，而是他的父亲的灵魂操控着雅兰的身体。故事揭示了李明与父亲之间复杂的关系，以及父亲固执的传统观念如何影响他的人生选择。面对这种突发状况，李明与父亲开始共同寻找恢复正常的方法，同时也探讨了父亲在雅兰身体中对李明进行教育的情节，进一步揭示了父子之间的代际冲突与认同问题。这篇小说不仅包含了性别认同与转换的主题，也表达了人际关系的微妙变化和自我探索的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_上“阵”父子兵（重写）.doc]([交换]_上“阵�
 | Size            | 54272 bytes                           |
 | MD5             | 8e3a7db0489f9bcb79e84e8985678285                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 灵魂互换, 家庭关系, 自我探索, 父子关系, 角色扮演, 情感冲突, 婚姻问题, 代际传承, 性别认同, 跨性别, 心理变化, 情感戏剧, 悲剧, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

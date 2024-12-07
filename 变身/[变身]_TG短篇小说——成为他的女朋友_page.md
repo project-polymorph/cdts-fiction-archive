@@ -7,7 +7,7 @@ TXT 下载: [[变身]_TG短篇小说——成为他的女朋友.doc]([变身]_TG
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《TG短篇小说——成为他的女朋友》是由作者Jumbo Shirmp创作的一篇变身小说，讲述了一位男性角色与其室友杰克之间的一场奇妙经历。故事开始于杰克请求主角假装成为他的女朋友，为了应对他父母的要求，杰克给了主角一条据说能够改变外貌和性别的“魔法项链”。在佩戴项链后，主角不仅变身为女性艾米丽，还开始体验作为女性的生活及情感。在与杰克的家人相处过程中，主角渐渐适应了这个角色，体验了拥抱、亲吻等令其感到迷惘又兴奋的情感。几天后，与杰克的关系愈发亲密，直至一夜激情后，项链碎裂，主角发现自己无法恢复原状，但却愉快于这样的转变，并决定永远留在这个角色中，成为杰克的女朋友。小说触及性别认同、自我探索和角色转换等复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_TG短篇小说——成为他的女朋友.doc]([变身]_TG
 | Size            | 31232 bytes                           |
 | MD5             | b3d8659279e59d5281adc7e6a37d593d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jumbo Shirmp                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 爱情, 自我认知, 性别探索, 魔法, 性别认同, 青春期, 情感纠葛, 家庭关系, 性转, 恋爱, 魔法项链, 角色扮演, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

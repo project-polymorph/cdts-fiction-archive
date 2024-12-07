@@ -7,7 +7,7 @@ TXT 下载: [[改造]_怪异档案.doc]([改造]_怪异档案.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一名年轻男性杨墨的超现实经历。在故事中，杨墨在日常生活中感到自己逐渐变得异常——他的身体在发生不可思议的变化，胸部似乎变得更加丰满，且感觉疲惫至极。杨墨的室友是一个变化为女性形象的伪娘，他们之间的互动充满了奇异和性暗示性的场景，而室友的变化也让他意识到自己似乎处在一场怪异现象之中。故事深入探讨了性别认同和身体转换的主题，并交织着日常生活中的轻松幽默与充满悬疑的心理状态。随后，杨墨前往一家名为“牧风按摩馆”的地方，进一步体验了一个与他的身体变化相关的奇特项目。文中描述了一系列与性别、身体感知相关的细腻心理描写，含有极强的二次元和幻想色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_怪异档案.doc]([改造]_怪异档案.doc)
 | Size            | 61440 bytes                           |
 | MD5             | 3346554b0526202e5fdfca2f69ff3376                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 幻想, 奇幻, 自我认同, 日常生活, 性别探索, 超现实, 同性情感, 身体变化, 心理冲突, 二次元文化, 幽默, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

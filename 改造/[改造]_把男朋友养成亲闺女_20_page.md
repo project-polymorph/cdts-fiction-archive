@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_20.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件的内容是一部名为《把男朋友养成亲闺女》的小说的第20章，讲述了一位名叫贝丽的角色在日常生活中与朋友坎迪之间的互动。故事围绕着她们在酒店的泳池中准备活动，表现出贝丽在伪装为美少女时的心路历程和身体变化。贝丽的个人情感在此过程中浮现，包括她的内心挣扎和对美少女形象的扮演。同时，小说涉及到性别转换的主题，描绘了贝丽如何适应她的新身体及其带来的情感冲突。文本中穿插了贝丽与坎迪之间的对话、情感交流与喜剧元素，展现了两人的友谊以及贝丽对自我认知的探索。额外提到的是，故事中出现了成人主题，令读者感受到角色们在性别与性情感方面的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_20.doc]([改造]_把男朋友�
 | Size            | 38912 bytes                           |
 | MD5             | 8cf5ff16dd0b569fdd29122c2af7946f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2022-05-15                                 |
+| Tags            | 伪娘, 变身, 性别认同, 情感探索, 美少女, 游泳池, 青春, 友谊, 性别转换, 自我认知, 都市生活, 少女心, 高跟鞋, 比基尼, 励志, 情感成长, 二次元, 乳房, 药物, 欢愉, 心理描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

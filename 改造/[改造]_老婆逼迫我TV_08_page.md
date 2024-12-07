@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老婆逼迫我TV_08.docx]([改造]_老婆逼迫我TV_08.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部伪娘和跨性别主题的小说的第八章，描述了主人公与伴侣琳达之间的亲密互动与服装挑选。故事情节围绕着主人公回到家中，琳达热情地迎接他，并主动帮助挑选衣物。作者通过细腻的描写展现了他们之间的情感纽带，以及主人公逐渐适应女性装扮的过程。章节中包括了主人公穿着红裙、蓝裙、黑裙等不同服装的细节描写，琳达也帮助主人公打理发型和妆容。接着，主人公在装扮后赴约，其间还涉及到一些较为露骨和可能引发争议的情节，如性暗示、性别身份等主题。整篇作品充满了情感表现和性别认同探索，适合对这方面题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老婆逼迫我TV_08.docx]([改造]_老婆逼迫我TV_08.d
 | Size            | 43151 bytes                           |
 | MD5             | 54e75aa914bbe0966172e2f661f39c43                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变装, 情感关系, 性别认同, 角色扮演, 亲密互动, 服装挑选, 夜生活, 幻想小说, 自我探索, 约会, 妆容, 生活点滴, 女性视角, 爱情故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_想ひ出のシャッター（中）.docx]([交换]_想ひ
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《想ひ出のシャッター（中）》的中篇小说，作者是搭杢煉瓦，内容围绕角色间的身份与身体交换。同时融入了性别认同与身体变换的主题。故事开场，由朔义和梨菜之间的身体交换事件逐渐展开，朔义得到了梨菜的手臂与胸部，体验到并享受梨菜身体的感觉。角色在经历变身后，展现出复杂的情感与自我认知的冲突，例如朔义对梨菜身体的迷恋与梨菜求助的绝望掺杂在一起。文本中充斥着强烈的性暗示与色情描写，显示了角色在变性前后的心理变化。整个情节中双方对身体的控制与失去，占据了叙事的核心，蕴含对性别认同与身体自主权的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_想ひ出のシャッター（中）.docx]([交换]_想ひ
 | Size            | 24024 bytes                           |
 | MD5             | c699f60c745847a856ac6ec091a19b1d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 搭杢煉瓦                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 身体交换, 伪娘, 性别认同, 心理冲突, 自我探索, 强烈的性暗示, 二次元故事, 角色变身, 性别流动, 奇幻, 色情内容, 青春成长, 女性化, 低沉男性声音, 水手服, 恋爱幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

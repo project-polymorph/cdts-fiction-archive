@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变成圣女的女仆.doc]([变身]_变成圣女的女仆.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于变身和性别认同主题的小说，主要讲述了角色许音从男性变成女性时的内心挣扎与外部冲突。故事开篇描绘了两个美少女的亲密场景，暗示了角色间复杂的情感关系。许音醒来后发现自己变成了穿着女仆装的美少女，并面临圣女的挑战。故事中透过许音与圣女的对话，展示了许音在接受自己新身份时的矛盾与不安，以及对生活与工作的困境的反思。文中还插入了许音和旧情人李小芳的互动，显示出许音的感情世界与生活现实相互交织。整个故事在幽默与冲突中探讨了身份、性别与情感的多重层面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变成圣女的女仆.doc]([变身]_变成圣女的女仆.
 | Size            | 46592 bytes                           |
 | MD5             | 0364a6af96995f7d0fe55613b415645f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身小说, 伪娘, 女仆, 爱情, 自我探索, 内心冲突, 奇幻, 角色转换, 二次元, 强情感, 幽默, 青春, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_夏天的日子_6.docx]([变性]_夏天的日子_6.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《夏天的日子》，是关于一名年轻女孩转换性别的成长故事。文本中描绘了女主角夏天在家庭的支持下，逐步接受和表达她的性别认同的过程。故事的开头提到父亲想要留作纪念的签字页，直接表明家庭对这一变动的重视和照顾。随着情节的发展，夏天向朋友们分享了她将继续作为夏天的期许，这是一个向自己认同的名字和身份的宣告。此外，文中详细描述了她与妈妈一起进行美容护理和购物的计划，包括购买新衣服和装饰卧室，以适应她新的身份，体现了自我探索过程中的快乐与期待。妈妈定期去医院上班，安排两人各自的时间，展现了在转变中家庭关系的温暖。文末提到她将在15岁生日那天，正式成为夏天·米歇尔，并进行法律身份的更改，象征着她在自我认同道路上的重要里程碑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_夏天的日子_6.docx]([变性]_夏天的日子_6.docx)
 | Size            | 28590 bytes                           |
 | MD5             | cbf01212a270dc380a8225120d8385c3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Annie Larson                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 成长故事, 家庭支持, 女性形象, 女主角, 自我探索, 转变过程, 变装, 青春期, 法律身份, 心理成长, 购物计划, 美容, 社交媒体, 朋友关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

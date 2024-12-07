@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_谍中谍之魔都名媛（已完结）.doc]([皮物]_谍�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《谍中谍之魔都名媛》讲述的是一个充满欲望、阴谋和性别认同的故事。故事的主角林强是一个生活懒散、没有事业的年轻人，他为了追求一位富有而漂亮的女子苏媛媛，决定采取极端手段。故事的开头，林强通过窥探苏媛媛的社交媒体，掌握了她的行踪，并在一次机缘巧合下获得了一种可以让人变身的药水。他潜入苏媛媛的公寓，暗自幻想着自己变成她的样子，从而拥有她的一切。随着情节的发展，林强把药水注入无辜的苏媛媛身体，试图将自己变成她。然而，苏媛媛并没有如林强所愿地变成可供他“穿戴”的人皮，而是反抗了。最终，当她试图呼救时，林强出于绝望将她拖回房内，故事充满悬念与张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_谍中谍之魔都名媛（已完结）.doc]([皮物]_谍�
 | Size            | 86016 bytes                           |
 | MD5             | 3a4caa7135dbc606d8267057528345bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 欲望, 阴谋, 伪娘, MS, 跨性别, 占有欲, 心理冲突, 都市言情, 魔都, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[碟中谍]代号：天堂之拳（第一章）.doc]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说《代号：天堂之拳》的第一章，讲述了MIB公司一场盛大的发布会和其后的阴暗交易。故事围绕MIB副总裁马克及好莱坞女星安吉娜展开，情节紧张且充满悬疑。马克被安吉娜利用药物和诱惑迫使透露公司的秘密。小说中涉及隐秘的A档案及其重要密码，使得整个情节充满对权力与性暗示的探讨。进入第二部分时，设定转移到了海南岛，主角龙轩辕身为特工，在度假时接到紧急任务，涉及到与美国和俄罗斯特工的联动，需追查A档案的下落。角色之间的关系错综复杂，充满性别转换、伪装与身份揭露的情节，一系列悬疑与行动交织在一起，充满戏剧性与探索性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[碟中谍]代号：天堂之拳（第一章）.doc]([皮�
 | Size            | 34304 bytes                           |
 | MD5             | e810378897d7cf9fd47e7291cbda9b79                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 特工, 阴谋, 悬疑, 强奸, 药物, 自我认同, 性别困扰, 变身, 情欲, 权力游戏, MIB, 阴暗交易, 冒险任务, 热带岛屿                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_被调教的愉悦——欲望的奴隶（自传篇）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《欲望的奴隶（自传篇）》的自传性质的小说，主要叙述了一位男生从小对丝袜和女性角色的偏爱，以及他如何逐渐沦为性别认同障碍者和性欲的奴隶。作者从自身的经历出发，探讨了性欲、性别认同、欲望的奴役等深刻而复杂的议题，文中提到"人是欲望的动物"，体现了对自身欲望的观察与反思。作者通过详细描绘自己的性幻想和心理变化，表达了对成为女奴这一身份的渴望。同时，文本中涉及到的SM文化、性别角色的转变，以及关于自我认知的探索，都是该作品的核心内容。文中明确提到“我是个男人，却向往成为女奴”，显示了其内心深处的挣扎与追寻。整体上，这是一篇充满探索性和自我揭示的自传小说，围绕着欲望与认同的主题展开，揭示了复杂的人性和对性的追求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_被调教的愉悦——欲望的奴隶（自传篇）.doc
 | Size            | 30720 bytes                           |
 | MD5             | d0bbf52a3c173713b25a05fd17f02934                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 自传, 性别认同, 欲望, SM, 丝袜, 男生, 女奴, 心理探索, 性转, 性幻想, 身体意识, 文化研究, 性别角色, 二次元, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

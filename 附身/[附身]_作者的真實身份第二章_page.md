@@ -7,7 +7,7 @@ TXT 下载: [[附身]_作者的真實身份第二章.docx]([附身]_作者的真
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《作者的真实身份》第二章通过细腻的描写展示了主人公在变身为空姐后的心理变化与环境适应。故事开始于作者与同事们在饭店的道别场景，随后通过回忆与自我探索，描述了主人公在穿着空姐制服时的感受。制服的性感与优雅相结合，令主人公感到兴奋与自豪。随着故事的发展，主人公嗅到自己的香气、体味和丝袜的触感，体验出性别身份转换后的复杂情感。进而在飞机上的工作中，主人公逐渐适应并享受身为女性的角色，感受到了男性乘客对她的目光与欲望，甚至在内心中对这种被他人注目的感觉感到某种成就感。结尾处，主人公在签下新身份的名字时，感受到一股禁忌的兴奋和紧张，再次彰显了性别认同的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_作者的真實身份第二章.docx]([附身]_作者的真
 | Size            | 69899 bytes                           |
 | MD5             | 1d49069c3fdda1f6256a95337dc7d6a6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 空姐, 性别认同, 自我探索, 制服控, 心理变化, 飞行经历, 职场故事, 禁忌感情, 女性视角, 男性凝视, 性欲, 青春, 现代爱情, 成长小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

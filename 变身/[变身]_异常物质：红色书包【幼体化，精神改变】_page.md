@@ -7,7 +7,7 @@ TXT 下载: [[变身]_异常物质：红色书包【幼体化，精神改变】.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一次关于性别转换的实验，讲述了一个名叫双叶清彦的男性在参加实验后经历的阶段性变化。在实验过程中，他被要求进行自我介绍，并在使用一个神秘的红色书包后，经历了生理和心理上的转变，变成了七岁的女性小云。故事中展现了小云的生活，包括她与父亲以及母亲的关系，以及她在学校的经历和对自己性别认同的探索。在描述过程中，不乏涉及儿童特征和性别认同的心理挣扎。文本的部分内容可能涉及限制级内容，表现出幼儿的天真与对父母的依赖，同时不适合未成年人阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_异常物质：红色书包【幼体化，精神改变】.
 | Size            | 20978 bytes                           |
 | MD5             | 1e5727f5cc256cc4375ee9cb393df64b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转小说, 跨性别, 幼体化, 自我认同, 心理实验, 父女关系, 性别认同, 男性角色变为女性, 奇幻, 科幻, 实验性小说, 性别探索, 伪娘, 双叶清彦, 小云, 异常物质, 红色书包, TS大学, 家庭关系, 图案尿布, 童年回忆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

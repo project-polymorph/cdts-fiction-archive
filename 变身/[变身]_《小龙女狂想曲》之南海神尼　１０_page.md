@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼　１０.doc]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《小龙女狂想曲》之南海神尼的第10节，描绘了以李莫愁、郭襄和杨过为主要角色的情节。在这一节中，郭襄和杨过被施以一种极其残酷的惩罚，表现出一种对角色身份和性别认同的深度探索和挑战。故事通过小龙女的角色展现了权力与屈从的复杂关系，以及角色在惩罚中所经历的身体与心理的冲突。文中提到郭襄被锁在颈手折腰枷中，杨过则被迫跪地，面临羞辱与强制。描写了角色在受罚中的挣扎与快感，以及身体和内力被耗尽的痛苦。小龙女在此情节中显露出冷酷的一面，借用羊这一意象强化了生理与心理的双重惩罚。最终，角色经历了一系列试炼，似乎走向一个光明与希望的结局。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼　１０.doc]([变
 | Size            | 46080 bytes                           |
 | MD5             | 7ca6012475d97b6afffdaddbeefe2dfe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 虐待, 强制, 自我认知, 受罚, 生理冲突, 权力关系, 试炼, 二次元, 牛头人, 角色扮演, 高潮体验, 性别认同揭示,  fantasy                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

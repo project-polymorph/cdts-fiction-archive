@@ -7,7 +7,7 @@ TXT 下载: [[其他]_婚纱的诅咒【九】.doc]([其他]_婚纱的诅咒【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《婚纱的诅咒》的小说的一部分，内容围绕着主人公在变成婚纱后所经历的训练与自我认同的挣扎。故事中，主人公在异世界中被赋予了"温莎公主"的身份，接受罗珊的训练以学习如何控制自己的身体，具体来说是如何让身上的活性婚纱运动。文件详细描述了婚纱的构造与运动原理，探讨了主人公的身份认同危机，以及在这一过程中记忆逐渐模糊的体验。此外，故事还涉及到婚纱的转换技术和参与者的意识转换，角色在经历训练与心理变化的同时，面对着失去自我的恐惧与不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_婚纱的诅咒【九】.doc]([其他]_婚纱的诅咒【�
 | Size            | 40448 bytes                           |
 | MD5             | a7324db02a7728e8e5fb00032139dfac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 婚纱, 变身, 跨性别, 自我认同, 训练, 活性婚纱, 鱼骨结构, 意识转换, 身份危机, 二次元, 奇幻, 心理挣扎, 故事发展, 性别转换, 情感冲突, 色情内容, 虚构技术, 角色发展, 记忆丧失                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

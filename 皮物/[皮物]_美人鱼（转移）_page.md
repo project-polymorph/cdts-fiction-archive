@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_美人鱼（转移）.docx]([皮物]_美人鱼（转移）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇伪娘与变身相关的小说，详细描绘了主角因参加一次美人鱼形象发布会而经历的性别与身份转变。故事开篇提到主角对一位创作者的关注，并提及之前翻译过的作品，展示了对二次元文化的深厚兴趣。主角在特别准备室中穿着一套名为‘莉丝’的美人鱼服装，该服装设计精巧，模仿动画中的美人鱼形象，但穿着体验却充满挑战与刺激。随着服装的穿戴，主角不仅感受到身体上的束缚，更体验到从内而外的兴奋和紧张。文中对服装的描述极为细致，提及了各种感官刺激，涉及对角色身份的探索和自我认知的冲突。整篇作品通过主角的内心独白与细腻描写，展现了伪娘文化及性别认同的多元性和复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_美人鱼（转移）.docx]([皮物]_美人鱼（转移）
 | Size            | 20337 bytes                           |
 | MD5             | f1acbe0f798f50f6ec26b61245f41760                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, TS变身, 变身小说, 美人鱼, 二次元文化, 性别认同, 自我探索, 强烈刺激, 角色扮演, 凝胶装置, 性感服装, 内部装置, 水下体验, 兴奋与紧张, 身份转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

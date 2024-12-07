@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_汉贼（十二）.docx]([皮物]_汉贼（十二）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别中文数字档案馆中的一部分，包含了一篇关于历史背景与人物关系的小说描述。情节设定在建安时期，主要描绘了历史人物曹操及其与郭嘉、伏寿之间的细腻关系。在故事中，曹操因郭嘉的病重而忧心忡忡，郭嘉则表现出对主公的情义和知己之情，展现了深厚的人际关系。内容中出现的‘皮囊’概念，讨论了外表与身份的关系，涉及了人性及其对生命延续的思考，展现了角色内心的挣扎与自我认知的过程中潜在的性别认同与自我探索的主题。该作品在情节上结合了历史与超现实的元素，通过角色的对话呈现复杂的情感与人性深度，适合具有性别多样性研究兴趣的读者。同时，文件中包含大量可能被视为限制级和性相关的内容，探讨了变装、身体交换等情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_汉贼（十二）.docx]([皮物]_汉贼（十二）.docx)
 | Size            | 30513 bytes                           |
 | MD5             | 60824cb75b2571a0941b02586692dd41                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 性别认同, 历史小说, 强烈情感, 角色内心冲突, 人际关系, 身体交换, 心理探索, 曹操与郭嘉关系, 力量与生命                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

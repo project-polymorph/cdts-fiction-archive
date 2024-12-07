@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魔法少女大樓淪陷記3.docx]([其他]_魔法少女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为一篇关于魔法少女的小说，包含了许多关于性转和伪娘的主题内容。在这篇故事中，黑衣青年进入一个通讯中心，中心内包含了一整排被控制的魔法少女。这些少女被固定在水泥墙上，身体遭受机械管线的固定与改造，发出哭泣与喘息的声音。随着情节的发展，男主角观察到了士兵与魔法少女之间荒唐且扭曲的关系，其中描绘了许多血腥与欲望交织的场景。文中涉及了一些极端的情节，比如对魔法少女的性侵犯和物化，表达了对权力与欲望的批判。此外，故事也穿插了一些对魔法少女形象的变化和性别认同的思考。总而言之，这是一部探讨跨性别和性别角色冲突的故事，具有某种讽刺意味和冲击力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魔法少女大樓淪陷記3.docx]([其他]_魔法少女�
 | Size            | 22816 bytes                           |
 | MD5             | 84cf2737b4dbb3aae8e56554c1d714cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 性转, 伪娘, 跨性别, 黑暗奇幻, 机械改造, 自我认知, 欲望, 权力, 物化, 虐待, 极端情节, 性别冲突, 反乌托邦, 魔法, 吸血鬼, 暴力, 少女人物, 黑暗幽默, 虚拟现实, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

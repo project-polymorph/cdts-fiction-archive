@@ -7,7 +7,7 @@ TXT 下载: [[变装]_父子情深（二）.docx]([变装]_父子情深（二）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《父子情深（二）》是一部围绕父子关系与性别认同的变装小说，描绘了戴夫与他的父亲迈克尔在一场舞会上互相支持和接受对方的女装穿着。这场舞会是父亲和儿子们所共同参与的，气氛充满了欢乐与温馨。在这个过程中，父子之间的互动逐渐升温，迈克尔在舞会上努力展现美丽的一面，而戴夫则以温柔的态度在一旁支持他。随着舞会的进行，两人之间的关系越发亲密，出现了暧昧的情愫。迈克尔的性感形象令戴夫感到迷惑与冲动，二人之间的情感线索在慢舞中愈发明显，最终在阳台上以一个深情的吻作为情感的高潮。这篇小说探讨了性别认同、家庭关系、以及在特定环境下如何打破传统界限的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_父子情深（二）.docx]([变装]_父子情深（二）
 | Size            | 23733 bytes                           |
 | MD5             | c1723b803cc89e7c6765f48b624c00e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 父子情, 舞会, 性别认同, 亲密关系, 情感纠葛, 父亲与儿子, 自我探索, 跨性别, 美国文化, 二次元, 纯爱, 调教, 少女心, 性别转换, 亲情, 夜游, 神秘关系, 性幻想, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

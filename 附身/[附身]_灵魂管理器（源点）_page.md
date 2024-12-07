@@ -7,7 +7,9 @@ TXT 下载: [[附身]_灵魂管理器（源点）.docx]([附身]_灵魂管理器
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《附身_灵魂管理器（源点）》，内容主要围绕一个普通大学生王杰的叙述。他在学校教学楼的一个夜晚，偶然听到一个教室内传来的呻吟声，进而目睹了同班同学李力和音乐系的美女赵静之间的亲密行为。这一情节不仅充满了性暗示和色情内容，还展现了角色之间复杂的人际关系与情感纠葛。
+
+李力与赵静之间似乎在使用某种药水，可以暂时交换灵魂，从而让李力体验成为女性的感受。随着剧情的发展，王杰得知了一个名为“灵魂观察镜”的神秘物品，从而进入了一系列探索灵魂状态的故事。文中对人物内心的挣扎和肉体欲望的描写，使得该小说不仅仅是一部单纯的情色小说，更涉及到了性别认同与身份的探讨。整体内容包含了大量限制级的细节，适合对多元性别关注与研究的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_灵魂管理器（源点）.docx]([附身]_灵魂管理器
 | Size            | 22314 bytes                           |
 | MD5             | 24fb43d9cf8764e3a422d5b2ef2dd587                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 灵魂交换, 校园爱情, 强烈的欲望, 变身, 性转, 情感纠葛, 探索自我, 平行宇宙, 药物影响, 男女性别交换, 禁忌之恋, 性别流动, 青春期烦恼, 虚幻与现实, 异常体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

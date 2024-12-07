@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《灵祭》第二季_-_番外篇一（中）.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《灵祭》第二季 - 番外篇一（中）是一部围绕附身和变身主题的小说。故事描述了角色天茵与林强之间的亲密关系，天茵在林强的保证下，不用担心怀孕，而两人之间的互动则透露出更多的情欲与复杂的心理游戏。文本中还涉及了角色之间的战斗和感知能力的运用，塑造了神秘的梦境场景。林强与妮卡之间的关系则展示了性别与身份认同的探讨，描绘了妮卡在梦中与冯绍荣的对话，反映出角色对自身能力和身份的思考。故事以彼此的吸引力和对身体的渴望为主线，同时夹杂了悬疑与奇幻元素，营造出一种复杂而微妙的氛围。文中有多处涉及身体意象与性别转换的情节，使得文本在研究性别认同自我探索的主题时十分具有参考价值。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《灵祭》第二季_-_番外篇一（中）.doc]([附身
 | Size            | 36352 bytes                           |
 | MD5             | b6788f32ef0cd26160f2a293e5da0456                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 奇幻, 梦境, 自我探索, 情欲, 附身, 女性视角, 爱情, 悬疑, 药物影响, 心理游戏, 身体认同, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

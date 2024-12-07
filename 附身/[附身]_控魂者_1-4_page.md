@@ -7,7 +7,7 @@ TXT 下载: [[附身]_控魂者_1-4.docx]([附身]_控魂者_1-4.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为小说《控魂者》的前四章序节，讲述了主角陈林在经历了一场奇怪的“车祸”后，其外貌和生活发生了巨大变化。故事开篇描绘了陈林凝视镜中变化的自己，原本英俊的外表却变为猥琐的形象，内心充满了恐惧与不安。陈林是一位毕业不久的大学生，开了一家超市，生活逐渐稳定，但随着超市生意的好转，他的平静生活却遭到了来自同行的攻击。故事中还引入了名叫小诗的收银员，她因流浪而被陈林收留，二人之间逐渐培养起感情。在小诗的细心照顾下，陈林就像有了家的感觉，但随着小诗形象的变化和态度的冷淡，陈林内心复杂的情感逐渐显露。文中涉及性别认同和自我探索等主题，人物心理刻画细腻，情节设置充满悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_控魂者_1-4.docx]([附身]_控魂者_1-4.docx)
 | Size            | 71550 bytes                           |
 | MD5             | d25718fa08e1d137f95b9b09e2443374                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 控魂者, 变身小说, 性别认同, 霸权主义, 角色转变, 超市经营, 自我探索, 青春故事, 复杂情感, 伪娘, 变装, 爱情故事, 都市生活, 大学生, 身份认同, 奇幻故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

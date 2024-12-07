@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_百鬼众魅·平生有分（第六篇）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《平生有分》的文档是《百鬼众魅》系列的第六篇，讲述了一名少女萧红在一所豪华公寓地下室的悲惨遭遇。故事设定在一所高校附近，描述了她被哥哥萧凉囚禁的情景。文中通过对地下室阴森环境的描绘，突出了一种压迫感和恐怖气氛。萧红被铁链拴在半空中，身体赤裸，还伴随有疼痛和屈辱的描写，例如“噗啊”的声音和“萧红醒来”的场景，突显出她的无助。哥哥萧凉对她的关心已逐渐扭曲，情感中混杂着控制和暴力，指责她穿着暴露，表现出他对妹妹的复杂情感。这篇小说通过细腻的笔触展示了兄妹之间微妙且充满矛盾的关系，也探索了性别认同和自我意识的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_百鬼众魅·平生有分（第六篇）.doc]([皮物]_�
 | Size            | 69120 bytes                           |
 | MD5             | 2164ca8de350756cceebcb7714b60c23                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 禁锢, 兄妹关系, 强制, 暴力, 虐待, 情感扭曲, 地下室, 自我认知, 女性表现, 黑道元素, 青春期, 禁忌情感, 身体控制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

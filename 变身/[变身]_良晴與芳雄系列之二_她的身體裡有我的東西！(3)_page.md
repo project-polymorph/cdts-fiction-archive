@@ -7,7 +7,7 @@ TXT 下载: [[变身]_良晴與芳雄系列之二_她的身體裡有我的東西
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于两个角色良晴和芳雄的故事，内容涉及性别转换与附身的情节。在故事中，良晴与附身在女孩波野忍身体里的芳雄一同到达一个爱情宾馆。两人之间的互动充满刺激与冒险，良晴要求芳雄以女性的语气与他对话，并推动一系列激烈实验的进行。随着故事的发展，描述了角色在身体变换中所经历的快感与心理冲突，尤其是良晴在忍身体里与芳雄的感受交织在一起。文本中细致刻画了角色之间的身体探索、心理感受，以及在变身过程中所引发的情感与对抗。这部作品包含了成年人情感与性关系的复杂描写，展现了性别与身份认同的多元主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_良晴與芳雄系列之二_她的身體裡有我的東西
 | Size            | 51200 bytes                           |
 | MD5             | b2c43b0787cc9c8761beacba3e2d6224                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 附身, 性别转换, 心理探索, 情感纠葛, 成人内容, 爱情宾馆, 伪娘, 高衩泳衣, 自我认知, 身体快感, 性别认同, 性幻想, 成年人, 奇幻, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

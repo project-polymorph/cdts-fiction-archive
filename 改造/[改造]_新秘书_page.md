@@ -7,7 +7,7 @@ TXT 下载: [[改造]_新秘书.docx]([改造]_新秘书.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述的是一个年轻的男性在一家律师事务所工作的经历。故事的主人公寻找工作时，偶然申请了一个法律秘书的职位，尽管他知道大部分人期望聘用女性秘书。在面试中，他被女性老板要求接受传统性别角色的挑战，并且开始穿女性内裤。随着时间的推移，情节向性别认同和自我探索的方向发展，冬娜律师不断施加压力，要求他适应新角色，不仅要穿女性内裤，还要剃光体毛，并且逐渐引入更多女性化的服饰如丝袜等。该作品探讨了性别角色、权力动态以及个人身份的主题，涉及性别转换和跨性别元素，同时包含一些成人内容和对性暗示的描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_新秘书.docx]([改造]_新秘书.docx)
 | Size            | 72920 bytes                           |
 | MD5             | ac2d838308bf979c1ab1f56880b9a223                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 女性化, 权力动态, 秘书, 职场关系, 羞辱, 自我探索, 女性内裤, 丝袜, 体毛剃除, 职场性别角色, 暗示性内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

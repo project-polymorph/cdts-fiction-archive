@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_某新婚夫妇.docx]([皮物]_某新婚夫妇.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《某新婚夫妇》，是一部围绕着新婚夫妇性生活的性转小说。故事展示了一对新婚夫妇的夜生活，男主角以55岁男人的身份穿着生物套装，与38岁的妻子进行亲密行为。在这个故事中，男主角与女主角之间的对话透露了他们的复杂关系和扭曲的家庭动态。妻子的女儿同时也是他们的养女，她在故事的结尾以婴儿的身份出现，实际上是她母亲（38岁）穿着新生儿套装。这一设定造成了身份混淆与不适，反映了角色之间扭曲的性和权力关系。文件中的情节中有明显的强奸、乱伦和性相关内容，并且涉及生理性别的改变，自我认知的探索等敏感主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_某新婚夫妇.docx]([皮物]_某新婚夫妇.docx)
 | Size            | 18718 bytes                           |
 | MD5             | 626b03358897d6e05e41f82987b10ea7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 强奸, 乱伦, 生物套装, 夜生活, 家庭动态, 角色混淆, 自我认知, 排卵日, 怀孕, 禁忌关系, 成人小说, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

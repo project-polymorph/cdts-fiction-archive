@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](3).docx]([改造]_永�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《永不分离[屌丝合体白富美]》讲述了一个奇特而诡异的变身故事，围绕着一个男性角色在经历了一次奇怪的变体过程之后，融合成为了一个美丽女性的身体。故事开头描述了主角与一位老乞丐的相遇，乞丐通过魔法将其身体进行改造和重组，主角的头颅与孙俪的身体合体，随之而来的是一系列身体与心理的巨变。随着时间的推移，主角意识到身体的变化以及与之相关的认同感的冲突，反映了性别认同、自我探索等主题。整个故事通过细腻而大胆的描写展现了愈发扭曲和不可逆转的身体变化，最终主角被迫接受这一新身份而无法返回过去。文档内容具有浓厚的幻想色彩与成人层面，因此适合特定群体的研究和讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](3).docx]([改造]_永�
 | Size            | 22986 bytes                           |
 | MD5             | 816ececa1cc3f28b8f2facf57f00f74d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 幻想小说, 自我认同, 身体重组, 魔法, 调教, 奇幻, 成人内容, 血腥, 恐怖, 科幻, 二次元, 故事叙述, 女体化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

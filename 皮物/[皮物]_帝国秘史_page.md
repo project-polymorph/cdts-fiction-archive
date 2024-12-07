@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝国秘史.doc]([皮物]_帝国秘史.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了一个充满权谋与性别扭曲的幻想帝国故事。主角希斯是一个出身寒门的贫民子弟，凭借自己的努力进入宫廷，并成为大皇子的心腹。大皇子意图进行制度改革，却因为亲妹妹公主芙罗拉和圣骑士爱丽丝的阴谋而导致了他的失踪。在小说的高潮处，希斯被神灵启示出真相，打算复仇并取代公主的身份，以继续推进大皇子的理想。作品描绘了希斯即将进行的性别转换，包括他如何借用神赐的匕首以伪装成公主，同时揭示了权力和身体被操控的复杂关系。情节中包含了暴力和性暗示的内容，涉及复仇、自我认知、身份转变等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝国秘史.doc]([皮物]_帝国秘史.doc)
 | Size            | 211456 bytes                           |
 | MD5             | 74735c2586ce6e1b6d0c47ff3d418f7c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 权谋, 复仇, 欧洲幻想, 圣骑士, 权力斗争, 性转, 阴谋, 成人内容, 自我认知, 身份替换, 女皇, 神秘力量, 帝国历史                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

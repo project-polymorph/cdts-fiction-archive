@@ -7,7 +7,7 @@ TXT 下载: [[改造]_喜欢可爱的东西难道不好吗5.doc]([改造]_喜欢
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇伪娘/跨性别相关的小说，讲述了角色龙一与他的哥哥健之间的情感冲突和自我认知的变化。故事围绕着哥哥健的失踪展开，龙一焦虑不已，努力寻找健的踪迹。健被银河帝国绑架的可能性让龙一不安，同时自己在社会角色中的脆弱感也在不断涌现。随着情节的发展，龙一在厕所中体验到了不适与快感的冲突，展现了角色的复杂心态。最终，龙一在街上遇到了现在完全女性化的健，实际上已经改名为葌，穿着女仆装与格鲁斯（她的“主人”）一同约会。健的变化让龙一感到震惊，内心充满困惑与不安。这种角色转变和性别认同的探讨引发了对可爱与丑陋、个人身份与外界期待的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_喜欢可爱的东西难道不好吗5.doc]([改造]_喜欢
 | Size            | 52224 bytes                           |
 | MD5             | ebd6fad932fce65fc5e51279d6f08def                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 变身小说, 女仆, 情感困惑, 自我认知, 星际战争, 银河帝国, 强制性别变化, 家族关系, 内心冲突, 社会角色, 青春迷茫, 男性认同, 女性化, 可爱文化, 欲望与快感, 禁锢与自由, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

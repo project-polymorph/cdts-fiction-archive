@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【日文翻译】某对TS夫妇的回忆录之6.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为变身类小说的一部分，具体是某对TS（变性者）夫妇的回忆录第六章。在这一章中，主要描写了一位角色（健司）经历分娩的过程，内容充满了细腻的生产描写，反映了人物在这一时刻的情感与生理体验。在故事开头，健司突然感到肚子疼痛，随后他的妻子由香回来协助他生产，现场气氛紧张而又温馨。文中包含健司传递给亲人和朋友的一系列感受和对未来宝宝的期待，以及人际之间的互动，增强了故事的情感深度。特别注意的是，该文档中出现了大量关于分娩的生理描写以及与性别认同相关的情节，对参与角色的自我探索和相互支持进行了详细描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【日文翻译】某对TS夫妇的回忆录之6.docx]([�
 | Size            | 20545 bytes                           |
 | MD5             | 1bf5da71a5d4ba0acb4ceaa7517f855f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, TSF, 分娩, 性别转换, 自我认同, 情感支持, 家庭关系, 情节描写, 角色互动, 生理体验, 夫妻情感, 感觉传播, 家庭职责, 情感丰富, 生活片段                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

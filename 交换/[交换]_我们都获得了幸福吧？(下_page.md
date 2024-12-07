@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我们都获得了幸福吧？(下.docx]([交换]_我们�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部涉及性别转换和跨性别主题的小说，情节复杂，主要围绕男主角纯树在获得能够交换身体的能力后所经历的种种变化与挑战。在故事中，纯树从一个普通男子转变为美少女的经历，让他体会到了女性的快感，进而展开了对自我的探索与认同。故事的情节随着主角的内心想法及与他人关系的变化而逐步展开，突出性别认同、自我探索及对爱的渴望。部分段落详细描绘了角色之间的亲密关系，包括一些性相关的情节，构建了一种奇特而复杂的心理状态。该作品尤其涉及换身、女性生理特征的体验等敏感话题，适合于对性别和性关系有研究需求的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我们都获得了幸福吧？(下.docx]([交换]_我们�
 | Size            | 42859 bytes                           |
 | MD5             | 5ab2a34f627c4e5e2be317dce3a38f66                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 自我探索, 身体交换, 同性恋, 恋爱, 变身, 情感纠葛, 纯爱, 禁忌关系, 综合幻想, 魔法元素, 心理描写, 角色成长, 二次元文化, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

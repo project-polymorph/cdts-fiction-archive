@@ -7,7 +7,7 @@ TXT 下载: [[变身]_女巫神之——成神之路-01_[.docx]([变身]_女巫�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇描述性转、变身与奇幻元素的小说，名为《女巫神之——成神之路》。故事开头便介绍了一个盛传在大陆上的神秘封印，封印内藏着强大的邪神曼科顿.哈斯以及愿望的神灵米蒂尔.哈斯。背景设定在一个充满魔法和冒险的奇幻世界，小说的主角是一名盗贼，他跟踪一位神秘老者，意图揭开宝藏之谜。故事的情节发展紧凑，伴随主角的心路历程与自我探索，逐步引入变身和性别认同的主题。小说的后半部分涉及角色与一尊美丽雕像的亲密接触，内容含有大量的性暗示与强烈的性描写，展现了角色的欲望和自我对抗。整体来说，这部作品在探索性别与欲望的交织上表现得十分大胆且直白。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_女巫神之——成神之路-01_[.docx]([变身]_女巫�
 | Size            | 22626 bytes                           |
 | MD5             | f06d1455b337587e048a1eb07894020d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 奇幻, 跨性别, 自我探索, 魔法, 欲望, 盗贼, 美少女, 神秘封印, 邪神, 愿望实现, 成人内容, 情色, 冒险, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [云城恩仇录.doc](云城恩仇录.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部作品《云城恩仇录》讲述了一个关于复仇与身份转换的故事。故事开始于莫兰镇外的青竹林，一场血腥的屠杀发生，主角锦衣男子司徒博及其家人被黑衣人杀害，仅有他的儿子司徒剑逃过一劫，藏匿在世外桃源悠然谷中。十年间，司徒剑在宁伯的教导下成长，习得琴艺和剑法，但始终抱着复仇的心态。在宁伯被杀后，司徒剑踏上了寻找仇人的旅程。进入云都城后，他成为选秀活动中的一名女子，借此机会接近仇人平怀王。在此过程中，司徒剑利用道家法宝“千变”进行易容，潜入王府，计划进行报仇。故事展示了复杂的人际关系和身份认同的冲突，同时构建了一个充满武侠和奇幻的世界。作品中的情节丰富且涉及深刻的主题，包含了传统的武侠元素与现代性别观念的交融。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [云城恩仇录.doc](云城恩仇录.doc)
 | Size            | 45568 bytes                           |
 | MD5             | cb4bda91b600d9901b3644a3991f7669                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 复仇, 武侠, 宫斗, 易容术, 血腥, 性别认同, 自我探索, 成长, 权谋, 爱情, 奇幻, 古代, 黑暗幻想, 男男性向, 病态爱情, 情感纠葛, 选秀, 斗智斗勇                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

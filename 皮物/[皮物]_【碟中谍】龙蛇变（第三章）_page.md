@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【碟中谍】龙蛇变（第三章）.doc]([皮物]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《碟中谍》系列中的一部分，专注于角色的伪装和变身情节。在第三章中，主角们正参与一项复杂的活动，故事围绕着角色晴雪的伪装和监控展开。晴雪剥去伪装的过程详细描绘了角色如何通过使用合成皮肤和化妆技巧来进行性别转换，展现了内心的挣扎与自我认同，同时也涉及偷窥和情感互动的情节。文件中的一段描述中提到晴雪在洗澡时的情景，以及她为了观察另一角色而进行的身体变化，这不仅体现了生理上的改变，也体现了心理上的探索和冲突。整个场景中交织着谋略、情感以及身体的转变，带有一定的诱惑与色情暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【碟中谍】龙蛇变（第三章）.doc]([皮物]_【�
 | Size            | 30208 bytes                           |
 | MD5             | 76740c6e6d54b8ae8233a73920c284f0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 监视, 性别认同, 情感互动, 偷窥, 身体改造, 二次元, 奇幻小说, 性转, 变嫁, 强奸, 调教, 百合, 春药, 极致诱惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

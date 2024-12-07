@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_ガンシャ！[顏射_前篇](心控類).doc]([催眠]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一位名叫「蓮」的角色在课堂上教授「幽体离脱」技巧的故事。故事设定在放学后的教室中，描绘了两个角色：蓮和主角悠助的互动。蓮详细介绍了如何放松身心、想象幽体与肉体分离的方法，提醒悠助在学习过程中保持放松与专注。这种幽体离脱的体验引发了角色间的个人感受与自我意识的探讨，展现了性别转变、角色认同等主题。文中包含了一些带有暗示性的情节，引人入胜，并使人思考身体与灵魂的关系。文档提到该作品源于一个综合性的二次元文化背景，涉及深层次的情感与自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_ガンシャ！[顏射_前篇](心控類).doc]([催眠]_�
 | Size            | 70144 bytes                           |
 | MD5             | 9569a1280d30d461e064b9a6b470b4e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | トゥルー                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 幽体离脱, 心灵探索, 放松技巧, 角色互动, 校园恋情, 二次元, 激励成长, 自我认知, 性别认同, 身心分离, 强烈情感, 密室互动, 奇幻体验, 性转, 独特关系, 未知探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_（旧文重发）李玲的夜.doc]([其他]_（旧文重�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《李玲的夜》是一篇伪娘/跨性别题材的小说，主要讲述了一位通过药物变身为女性人物李玲的经历及其复杂的心理变化。故事开头描写了主人公与李玲的第一次见面，生动地刻画了李玲的外貌和她的活泼性格。文中通过细腻的描写展现了李玲的妩媚形象，比如她的高跟鞋、打底裤以及一系列性感内衣的描绘。此外，主人公还通过药物改变了自己的性别，进入李玲的身体，这为后续情节发展埋下伏笔。在随后的约会中，主人公在李玲的身体内体验到了与王琦的亲密接触，文中夹杂着对性欲的探索与对身份认同的挣扎。尤其是在卫生间的心理斗争中，主人公意识到自己与李玲之间的复杂关系，以及对处女之身的珍视。整个故事融合了成人情节与对于性别认同的深刻思考，反映了当代年轻人在性与身份之间的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_（旧文重发）李玲的夜.doc]([其他]_（旧文重�
 | Size            | 33792 bytes                           |
 | MD5             | 76802c2b0e397961e9a2e88dbe8c22aa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 性别认同, 自我探索, 成人内容, 幻想, 爱情, 药物变换, 心理游戏, 青春期困惑, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

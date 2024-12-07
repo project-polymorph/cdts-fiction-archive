@@ -7,7 +7,7 @@ TXT 下载: [[改造]_（原创）上班族的金属玩偶生活.doc]([改造]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于变身主题的小说，故事由一名主角描绘，他原为一名普通的上班族，在一次流星降落后获得了一个神秘的变身水晶，实现了从碳基生物到金属玩偶的转变。小说中包含了许多关于角色内心变化的细节，以及他在与金属少女互动时的羞耻感和探索心理。在故事中，主角经历了搞笑又羞耻的情景，展现出关于自我认同与性别身份的探讨，以及在面对外界压力、内心斗争时的反应和行为。故事的节奏幽默却又充满想象力，涉及了奇幻的科技元素与魔法少女的梦想，同时又有轻微的成人内容，尤其是涉及羞耻与快感的描写。整体而言，这是一部挑战传统性别界限，探索变身与性别认同的小说，从角色的转变到自我心理，读者可以从中感受到强烈的代入感与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_（原创）上班族的金属玩偶生活.doc]([改造]_�
 | Size            | 92672 bytes                           |
 | MD5             | a768d97cf229f1362c84a04cc5ea0e69                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 伪娘, 金属娃娃, 性别转换, 羞耻点, 魔法少女, 科幻, 成人内容, 自我探索, 奇幻, 异世界, 触手, 男性视角, 心理斗争, 角色认同, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

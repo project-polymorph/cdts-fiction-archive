@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_基因片段的爱恋（六）.doc]([皮物]_基因片段�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说《基因片段的爱恋（六）》以人皮爱好者为视角，描述了角色之间复杂而微妙的情感关系。故事中，主角得凡与玲绯在某种实验室环境中进行精神交流，探讨着彼此的过去和未来。故事中的琳绯经历了一次变身，成为一种类似皮物的存在，提及身体与意识的冲突，以及主角得凡对恢复琳绯正常状态的渴望。言辞中透露出得凡对琳绯深切的爱与关心，尽管琳绯对未来的存在表示无奈与迷茫。文中多次提到记忆的缺失以及对彼此未来的决定充满了伤感与对不可逆转的命运的认知。整体叙述在情感表达与科幻设定中交织，突显了对身份与自我认识的深层次思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_基因片段的爱恋（六）.doc]([皮物]_基因片段�
 | Size            | 40448 bytes                           |
 | MD5             | e0917fd128a64d84de28eee5f1d9cf50                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | TG独狼                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 人皮, 科幻, 情感冲突, 精神交流, 变身, 自我探索, 跨性别, 身份认同, 未来主义, 情感纠葛, 记忆丧失, 爱情, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

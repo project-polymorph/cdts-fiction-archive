@@ -7,7 +7,9 @@ TXT 下载: [[变身]_欲望.docx]([变身]_欲望.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这个文档以第一人称叙述了一段奇幻而又带有强烈性暗示的故事。故事的主角是在宿舍中被半夜的敲门声惊醒，而后遇到了一位神秘的男子，这位男子以咒语的形式实现了角色的性别转换，并与主角发生了亲密关系。文中详细描写了主角从惊恐到接受的心理变化，以及与那名男子之间的情欲互动，包含了较强的色情内容。
+
+故事里描绘了梦幻与现实的交替，伴随着强烈的身体欲望和心理上的挣扎。随着情节的发展，主角逐渐沉浸于女性的身体和感受中，体验了前所未有的快感，最终在一种幸福与痛苦交织的状态中结束。文中多次提及“我被包裹在一种深深的幸福的感觉里，沉睡了过去”，与“快感呈几何般的膨胀”的描写，使得故事充满了复杂的情感与生理体验。文本语气调侃而流畅，描绘生动，为读者提升了奇妙感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_欲望.docx]([变身]_欲望.docx)
 | Size            | 25643 bytes                           |
 | MD5             | 916428fe32295d85a062d9f5c7368262                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性转, 伪娘, 奇幻, 强烈快感, 深夜惊悚, 爱情, 自我探索, 魔法, 身体转换, 归属感, 性别认同, 符合幻想, 充满欲望, 性幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

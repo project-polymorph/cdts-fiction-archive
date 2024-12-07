@@ -7,7 +7,7 @@ TXT 下载: [[附身]_李雷和韩梅梅【Lesson_13_~_Lesson_15】.docx]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容为一篇围绕李雷与韩梅梅的性转主题小说，尤其涉及复杂的人物关系与情感描写。故事中的主角胡生，起初为一名普通的教师，在内心深处渴望与自己喜欢的女性高惠建立关系。在经历一系列挫折与事情的变化后，高惠竟与学生Tom开始交往，这令胡生的情绪经历了从希望到失落的巨大波动。文本中包含了对高惠身材的细致描写，以及她与不同角色之间的亲密互动，情节中不仅有校园爱情元素，还涉及到性别认同、自我探索等主题。故事的叙述中有大量细节，其内容包含强烈的性暗示与挑战传统道德观念的情节，比如高惠与Tom的关系发展体现出一种对角色自我认知的冲突。尽管故事描绘了校园生活与人际关系的复杂性，但在某种程度上也带有不可避免的色情内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_李雷和韩梅梅【Lesson_13_~_Lesson_15】.docx]([附�
 | Size            | 35271 bytes                           |
 | MD5             | d29246a54f158c1c02db488a38b9c211                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园爱情, 跨性别, 自我探索, 爱情, 教师与学生, 禁忌关系, 强烈情感, 身体认同, 冒险, 幻想, 性暗示, 情感纠结, 角色扮演, 情欲, 逆后宫, 伤痛抉择, 情感操控, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

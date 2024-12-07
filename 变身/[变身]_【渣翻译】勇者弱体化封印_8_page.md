@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【渣翻译】勇者弱体化封印_8.docx]([变身]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档摘录了一个关于勇者艾伦的变身故事，艾伦在经历某种变故后变成了一名年轻的公主，开始体验作为女性的生活和内心挣扎。故事描写了艾伦醒来时穿着华丽的礼服，环境如公主般的卧室，以及她在镜子前看到自己全新形象后的惊讶与困惑。文中详细描绘了艾伦对于自身性感觉的探索和心理变化，体现了她对自己新身份的接受与挣扎。文中提到，艾伦内心中依然渴望恢复男性身份，但又被新身份带来的感官刺激所吸引。情节发展中，艾伦遇到了魅魔美美，后者提议帮助她恢复力量，但条件却让艾伦感到羞耻和矛盾，尤其是在被迫表现出可爱的一面时。这种角色的自我探索和性别认同的主题贯穿全文，使得故事层次丰富，情感纠结。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【渣翻译】勇者弱体化封印_8.docx]([变身]_【�
 | Size            | 29375 bytes                           |
 | MD5             | a60591d15dc9abfac78d67e4eafcb46e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 勇者, 变身, 性别认同, 自我探索, 公主演绎, 异世界, 魔法, 情感冲突, 内心挣扎, 可爱角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

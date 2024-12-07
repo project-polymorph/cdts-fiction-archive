@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_乖孩子.docx]([皮物]_乖孩子.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为爱丽丝的女孩身处复杂家庭环境的小说。故事开始于一个宁静的小镇，在学校放学后，爱丽丝急匆匆回家。她的母亲伊莲对她极为宠爱，并强迫她穿上特定的衣物，这让爱丽丝感到不适。同时，爱丽丝对妈妈的变化充满恐惧，逐渐意识到她的母亲似乎并不是她熟知的那个，反而是她的父亲伪装成母亲的结果。爱丽丝的内心斗争逐渐加剧，她试图逃出这个她认为不再安全的家。文中涉及性别认同、自我探索等主题，且包含一些可能的限制级情节，如角色间的心理冲突与身体的异变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_乖孩子.docx]([皮物]_乖孩子.docx)
 | Size            | 34055 bytes                           |
 | MD5             | fe804e56b6d7bf3d7636eccc8e2041f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 心理冲突, 家庭问题, 角色变身, 自我探索, 伪娘, 跨性别, 爱丽丝, 伊莲, 逃避, 强迫, 梦魇, 恐惧, 未知身份, 自我认知, 情感困扰, 成长, 心理虐待, 家庭重聚, 性转, 教育问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

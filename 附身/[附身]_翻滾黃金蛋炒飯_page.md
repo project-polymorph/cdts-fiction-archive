@@ -7,7 +7,7 @@ TXT 下载: [[附身]_翻滾黃金蛋炒飯.docx]([附身]_翻滾黃金蛋炒飯
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇关于夜市中一位蛋炒饭摊贩的故事，名为《翻滚黄金蛋炒饭》。通过生动的描写，作者介绍了夜市的喧闹与繁华，以及摊贩在烹饪过程中的技艺。故事围绕一名蓝领男子的经历展开，他在夜市品尝到了摊主的蛋炒饭后，被其美妙的味道所打动，并因而找回了对生活的希望。文本中提到的‘黄金蛋炒饭’不仅是食物，更是让人重新振作的象征，传达了一种积极向上的生活态度。内容虽不算色情，但提到了一些性别相关的角色特征与场景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_翻滾黃金蛋炒飯.docx]([附身]_翻滾黃金蛋炒飯
 | Size            | 34912 bytes                           |
 | MD5             | f631c49b198179bebb47f27367e3e0c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 夜市, 蛋炒饭, 鸡蛋, 美食, 都市生活, 自我救赎, 失业, 奋斗, 家庭关系, 青春气息, 夜生活, 励志, 独白, 人物成长, 烹饪技艺, 街头美食, 食物療愈, 角色互动, 生活哲学, 温暖故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

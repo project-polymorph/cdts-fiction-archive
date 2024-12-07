@@ -7,7 +7,7 @@ TXT 下载: [[变身]_命运转换：彼得勋爵的烦恼（最终章）.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《命运转换：彼得勋爵的烦恼》的最终章，讲述了主人公彼得（现在以女性身份胡安妮塔生活）在被迫接受身份转变后的内心挣扎与困境。故事围绕彼得与其妻凯瑟琳及一位新出现的冒牌彼得之间的复杂关系展开。彼得在变成胡安妮塔后被凯瑟琳操控，经历了多次羞辱与困惑。他的男性身份与权力被剥夺，逐渐受到女性角色胡安妮塔的影响，陷入绝望与迷茫。在遭遇诸多折磨后，彼得意识到自己面临的现实是无法逃避的，他的命运已被凯瑟琳和冒牌彼得掌控。最后他被迫接受新的身份，成为其他角色的仆人，告别了曾经的生活。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_命运转换：彼得勋爵的烦恼（最终章）.doc]([
 | Size            | 42496 bytes                           |
 | MD5             | 79b27340fe28029fc237f509084fd18e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 身体交换, 绝望, 命运, 权力, 羞辱, 身份认同, 女性化, 恋爱, 激烈情感, 冲突, 自我探索, 复杂关系, 沦为仆人, 情感背叛, 冒牌身份, 西班牙背景, 古代生活, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

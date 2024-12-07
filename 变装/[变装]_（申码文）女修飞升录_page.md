@@ -7,7 +7,7 @@ TXT 下载: [[变装]_（申码文）女修飞升录.doc]([变装]_（申码文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件文档《女修飞升录》是关于主角苏恒在穿越到一个武侠世界后所经历的冒险故事。苏恒原本是现代的好青年，穿越成为七岁的儿童，经过了一系列波折后，他决心学习武功以提升自己的实力。随着故事的发展，苏恒发现自己能够接触到一些修仙的秘法，尤其是关于女性修行的《玉清扫霞仙霓坤典》。尽管这是门特定于女性的功法，苏恒仍然尝试与他的伙伴们共同修行。文件中详细描绘了角色的成长与自我探索，还有众多师徒之间的关系，以及他们在这个充满幻想与超自然力量的世界中所面临的各种挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_（申码文）女修飞升录.doc]([变装]_（申码文�
 | Size            | 100864 bytes                           |
 | MD5             | fdbdb37ab2e5e88a153eb57c62fcb6b8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 修仙, 现代与古代交融, 男女角色转换, 武侠, 角色自我认同, 友情与冒险, 穿越题材, 幻想小说, 女性力量, 精神探索, 情感纠葛, 师徒关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

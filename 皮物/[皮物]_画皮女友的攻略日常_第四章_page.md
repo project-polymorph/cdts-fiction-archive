@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第四章.doc]([皮物]_画皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为小说《画皮女友的攻略日常》第四章，描绘了主角陆升对秦雨秋的感情发展和互动。在章节中，陆升认清了自己追求的目标是让秦雨秋真正爱上自己，然而他发现，彼此之间的关系并无实质性变化，秦雨秋作为一千年妖物“画皮”，对他的攻略似乎显得难度颇高。章节中提到，陆升尝试通过各种方式接近她，但感情似乎受限于两人的身份与关系的特殊性。随着时间的推移，主角们的日常生活也逐渐发生变化，秦雨秋时常以不同的“皮物”身份出现在陆升的生活中，增加了他们相处的趣味和新鲜感。文章还包含了两人之间若有若无的亲密行为，表现了他们关系中的张力与欲望，尤其是对性和情感的探索。整体来说，本文在深入探讨性别、身份认同以及爱情的边界的同时，融合了许多的调侃与情趣。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第四章.doc]([皮物]_画皮
 | Size            | 61440 bytes                           |
 | MD5             | d0146b2f7394d341597dc17e0a2657e3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转小说, 恋爱, 日常, 情色, 奇幻, 妖物, 人际关系, 自我探索, 情感纠葛, 调教, SM, 肆意调戏, 百合, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

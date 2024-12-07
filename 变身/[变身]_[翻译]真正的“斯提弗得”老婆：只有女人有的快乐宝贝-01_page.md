@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[翻译]真正的“斯提弗得”老婆：只有女人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转换的小说，内容深刻探讨了角色的性别认同与自我探索。故事从第一人称视角展开，叙述者是一名技术工程师，他在一个名为“斯提弗得”的俱乐部工作。在经历了一系列复杂的情节后，他发现这个俱乐部的女性其实都是男孩经过某种手段转变而成。叙述者的工作使他进入了一个隐藏的房间，发现了这些秘密。当他被转变成女性并且意识到身体的变化时，内心充满了恐惧与抵抗。随着剧情发展，他逐渐被迫接受新的身份，被引导接受淑女的教育，最终面对婚礼的到来。小说通过生动具体的描写，呈现了身体变化与心理冲突之间的复杂关系，挑战了传统的性别认知与个人认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[翻译]真正的“斯提弗得”老婆：只有女人�
 | Size            | 19953 bytes                           |
 | MD5             | 61465839f07d19d47b748168f071661b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Edwin Gay                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 自我探索, 伪娘, 变身, 性别认同, 幻想小说, 科幻, 医院, 女性教育, 家庭生活, 恐怖, 心理冲突, 身份认同, 非人化, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

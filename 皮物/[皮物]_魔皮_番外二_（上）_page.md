@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔皮_番外二_（上）.docx]([皮物]_魔皮_番外二
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇伪娘 TS 变身小说的番外篇。故事围绕着角色爱丽丝和LUST之间的较量展开，爱丽丝在与LUST的战斗中展现了她的魔法能力，以及与亡灵之间的互动。开场描述了两人在别墅顶层相互对视、较量的场景，爱丽丝身上有血痕，而LUST则毫发无伤。随着故事的发展，爱丽丝施展了她强大的魔法，召唤亡灵进行攻击，但却发现LUST的防御能力强大。通过对战斗场景的详细描绘，展现了两位角色的力量和优势。故事中还引入了新的角色怡如，体现了角色自我认知和身份斗争的复杂性。文本中充满了诸多相关标签如“妖魔、血腥、强奸”等，暗示了可能的限制级内容以及对性别认同、身份转换等主题的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔皮_番外二_（上）.docx]([皮物]_魔皮_番外二
 | Size            | 22796 bytes                           |
 | MD5             | 2d3653069d146e062cce1f9400dea7ee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 妖魔战斗, 魔法, 爱与自我认同, 强奸, 亡灵, 激烈对决, 身份纠葛, 血腥, 二次元, R18, 跨性别, 性别转换, 女体化, 魔法少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

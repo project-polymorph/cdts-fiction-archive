@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_谁是受害者3（完结）.docx]([皮物]_谁是受害�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《谁是受害者3（完结）》的完整内容，围绕主角的痛苦生活与压迫展开。主角被丁百结欺凌，成为其金钱的牺牲品，被迫支付高额的债务。故事中描写了主角在职场的不堪遭遇，以及与丁百结之间复杂的关系，细致入微地描写了主角的内心挣扎与无奈，体现了对人性险恶的深刻反思和对社会底层生活的无声控诉。文中提到的“人皮”的元素，暗示了虚幻的身份与现实的无奈交错，造成角色身份的困惑和自我认同的迷失。小说中涉及的诸如暴力、恐吓等情节，表现了主角的痛苦与恐惧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_谁是受害者3（完结）.docx]([皮物]_谁是受害�
 | Size            | 50665 bytes                           |
 | MD5             | f893eae89382d09eb11baa151f65307e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 职场霸凌, 人皮, 自我认同, 心理斗争, 社会批判, 债务危机, 婚姻, 现代生活, 暴力, 情感冲突, 强迫, 沉沦, 悲剧, 自我救赎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

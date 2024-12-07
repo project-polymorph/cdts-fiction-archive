@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《人皮衣》（壹·雷雨斋旧事）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《人皮衣》（壹·雷雨斋旧事）的文稿，主要讲述了主人公黄石杰的悲惨经历与复杂的人际关系。故事开始于黄石杰接到好友潘高峰的电话，后者邀请他担任助理，但黄石杰内心充满嫉妒与矛盾，因为他暗恋的学妹靳羽茜即将嫁给潘高峰。故事随着一项关于神秘生物“太岁”的研究展开，黄石杰在一次实验中背叛了潘高峰并谋杀了他，成为靳羽茜的新搭档。小说融合了超自然元素与人性的复杂，一场围绕太岁生物学的探究，牵涉到生命与死亡、爱与背叛的深刻主题。黄石杰最终在科学研究上取得了成功，但内心的黑暗与痛苦却没有解除。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《人皮衣》（壹·雷雨斋旧事）.doc]([皮物]_�
 | Size            | 52736 bytes                           |
 | MD5             | 1eae708c92b39597184b848c3ef95605                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, TSF, 谋杀, 自我认同, 嫉妒, 背叛, 复仇, 神秘生物, 情感纠葛, 生物学研究, 超自然, 校园爱情, 心理戏, 阴谋, 血腥, 分尸, 人皮衣, 奇幻, 人格分裂, 女性角色, 男主视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

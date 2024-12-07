@@ -7,7 +7,7 @@ TXT 下载: [[交换]_兄弟姐妹_(上).doc]([交换]_兄弟姐妹_(上).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转换和跨性别主题的小说，围绕主角侯涣与陈雨静之间复杂的关系展开。小说通过相互转换的视角，深入探讨角色的心理变化和性别认同问题。开篇以侯涣的教室生活为背景，展现了同学们非议的场面，随后情节快速转移到侯涣对陈雨静的强烈欲望描写，展现了侯涣在送礼物时的期待与冲动，甚至不惜采取极端手段对待陈雨静。经过一番波折，侯涣使用药物企图改变自己的命运，但意外的是药物作用下，他和陈雨静的身体发生了互换。在身体交换之后，两人分别体验对方的生活状态和身体感受，侯涣在变成陈雨静后，对于自己新身份的不适应和冲突，以及两人角色间愈演愈烈的心态对比，都被细腻地刻画出来。这部小说有着丰富的情节设置和复杂的人物关系，涉及冲突、欲望、自我认知以及对性别界限的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_兄弟姐妹_(上).doc]([交换]_兄弟姐妹_(上).doc)
 | Size            | 48128 bytes                           |
 | MD5             | 58d7be43c1e0ae2778aec52c2c4a7590                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 跨性别, 欲望, 心理冲突, 角色认同, 变身小说, 强制性行为, 两性关系, 自我探索, 青春, 校园, 成长, 禁忌关系, 药物影响, 身份危机, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

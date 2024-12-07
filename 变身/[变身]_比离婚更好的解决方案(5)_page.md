@@ -7,7 +7,7 @@ TXT 下载: [[变身]_比离婚更好的解决方案(5).docx]([变身]_比离婚
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《比离婚更好的解决方案》的第五部分，主要围绕角色转换后的身体探索与自我认同展开。故事中，两个角色——珍妮佛和迪恩——体验了性别的变化，描绘了他们在新身体中情感和身体上的探索与冲突。内容包括对各自新身份的尝试理解，以及面对和适应身体转变所带来的奇异感觉，尤其是在性觉醒和人际关系上对身体的关注和思考。文字中含有对身体结构和性别角色期望的反思，以及性行为的详细描写，展示了角色在适应过程中遇到的心理挑战和乐趣。文件整体气氛较为开放，涉及性方面的细节，揭示出新身份带来的各种复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_比离婚更好的解决方案(5).docx]([变身]_比离婚
 | Size            | 18578 bytes                           |
 | MD5             | e112b14e10e74a465b22483389ee6d30                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 詹尼弗·艾莉森                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别小说, 身体探索, 性别认同, 自我意识, 青春成长, 家庭关系, 性觉醒, 性别转换, 情感冲突, 二次元, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

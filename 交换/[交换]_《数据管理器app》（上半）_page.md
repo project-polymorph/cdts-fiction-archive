@@ -7,7 +7,7 @@ TXT 下载: [[交换]_《数据管理器app》（上半）.doc]([交换]_《数�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《数据管理器app》的性转小说，讲述了男生凌飞在一次意外中下载了一个神秘的应用程序，该程序能够实现数据复制，导致他性别的转换。在故事的开头，凌飞正准备考试，意外发现手机上出现了一个名为‘数据管理器’的悬浮球。通过该应用，他的身体被复制成了女友李琳琳的模样。小说详细描述了凌飞在转换后的自我认知及对身体变化的困惑，以及他对李琳琳外表的直接体验。随着情节的发展，凌飞在卫生间中对自己新身体的探索逐渐深入，并在室友的干扰下不得不结束这一奇妙的体验。该作品涉及性别认同、自我探索等深入主题，同时也包含了一些轻度色情元素，符合多元性别文化的表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_《数据管理器app》（上半）.doc]([交换]_《数�
 | Size            | 92160 bytes                           |
 | MD5             | f9f064efb176d406945cda2afa63cbd7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 自我认同, 奇幻, 学术研究, 数据管理, 校园生活, 探索欲望, 科技作品, 短篇小说, 奇幻小说, 青春期, 友谊                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

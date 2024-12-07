@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【翻译变身】TG故事——真正的我.doc]([变身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《真正的我》是一篇关于性别转换的故事，讲述了一个名叫安德鲁的角色渴望转变为女性的过程。故事开头，安德鲁对自己的性别产生了怀疑，因此寻找一个神秘的机构，希望通过他们的帮助能够改变自己的身体。在一个偏远地区的小屋中，安德鲁遇到了一位女性，她宣称能够帮助他完成这个‘疗程’。在一系列的药水和过程后，安德鲁的身体经历了剧烈的变化，从内向外逐渐转变为女性。他开始享受自己逐渐消失的男性特征和新生儿的身份，最终以全新的女性身份安德莉亚走出小屋，尽管小屋和那个帮助他的人随后都消失了，安德鲁的心中充满了喜悦和自我认同。故事深入探讨了性别认同和自我探索的主题，有着强烈的自我转变和接受的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【翻译变身】TG故事——真正的我.doc]([变身]
 | Size            | 31744 bytes                           |
 | MD5             | 6b6c26cfcfb4192911e1741867109b4e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 自我认同, 变身小说, 幻想小说, 女性角色, 身心转变, 领域超越, 神秘疗法, 快乐与痛苦, 自我探索, 青春成长, 心理变化, 女性主义, 变嫁, 爱情探索, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

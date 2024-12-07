@@ -7,7 +7,7 @@ TXT 下载: [[其他]_道殇（5）重口，慎入。.doc]([其他]_道殇（5�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇以性转、伪娘和变身为主题的小说，包含大量限制级与性相关内容，主要围绕角色之间复杂且有争议的关系展开。故事设定中，角色通过一些改造与反转的情节，探索性别认同和自我欲望的冲突。文中描述了多个角色的感情纠葛以及生理和心理变化，例如一位角色与其父亲间的禁忌关系，以及对于肉欲的沉迷和欲望的觉醒。情节不断穿插着调教、乱伦和角色之间的权力动态，体现出极端情感与身体的紧密结合。尤其是对于非一般的性行为和恋物癖的描写，突显了角色对自我体验和欲望的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_道殇（5）重口，慎入。.doc]([其他]_道殇（5�
 | Size            | 62976 bytes                           |
 | MD5             | 209bd22664a3018ff3e6b253cb707c19                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 调教, 变身, 禁忌恋, 乱伦, 欲望觉醒, 肉欲, 性别认同, 自我探索, 女性视角, NTR, 成人内容, 角色关系, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

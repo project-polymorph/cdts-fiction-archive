@@ -7,7 +7,9 @@ TXT 下载: [[附身]_雪村響子的另一面_(7)~(10).docx]([附身]_雪村響
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《雪村響子的另一面 (7)~(10)》，主要讲述了角色雪村响子在经历身体被他人操控后，与自己的内心斗争和对性别认同的探索。本文通过雪村响子的视角，生动描绘了她在学校生活中的心理变化以及与周围关系的复杂性。内容涉及了性别转换、女同性恋倾向及主人公的内心冲突等主题。故事围绕雪村响子与她的女同性恋朋友深山馨奈之间的关系展开，同时探讨了男性的欲望和人际关系中对性取向的认知。
+
+文中提到，“男人的欲望，是有跡可循的”；响子对周遭发生的一切事物都有理性的分析，她试图理清自己被控制的真相以及身边人隐藏的秘密。故事通过三位女孩之间的身体操控及其对性欲的探讨，展现了一场与性别、欲望紧密相关的性游戏。在情节的推进中，响子开始调查兄妹关系中的男孩与女同性恋秘密之间的联系，展现了一系列心理斗争和人际关系的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_雪村響子的另一面_(7)~(10).docx]([附身]_雪村響
 | Size            | 46855 bytes                           |
 | MD5             | dd96522fa8f45a6a9220a4ee02e0b1a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 女同性恋, 心理冲突, 欲望, 伪娘, 性转, 校园, 三人行, 身体操控, 秘密, 强奸, 逆后宫, 调教, 淫荡, 多元性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_申码文重发-变身伪装成护士侵犯正太君的故
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于变身伪娘的小说，讲述了主人公获得了一种能模仿他人外貌的超能力。在一次前往医院进行健康检查时，主人公变身成了一位年轻且身材丰满的护士。在等待的过程中，主人公注意到一名十岁左右的男孩大河君。故事描绘了主人公的变身过程，以及主人公如何利用这种能力进行一系列下流的恶作剧，从而引发一系列对未成年男孩的侵犯行为。文中涉及对护士形象的详细描述，包含身体特征如“乳房很大”、“屁股也很大”的描写，并呈现出不当的性行为场景，强调了角色之间的性别构造与权力不平等。情节不仅涉及变身和角色扮演，还探讨了性别认同与探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_申码文重发-变身伪装成护士侵犯正太君的故
 | Size            | 44544 bytes                           |
 | MD5             | 9661027d0327ba99772da6bedc3b45c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性别转换, 侵犯, 强奸, 下流恶作剧, 护士, 未成年人, 身体检查, 自我认知, 性相关, 反乌托邦, 幻想小说, 怪异, 性别角色, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

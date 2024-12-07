@@ -7,7 +7,7 @@ TXT 下载: [回家路上——她的抉择（9-10）.doc](回家路上——她
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一段温馨的故事，讲述了两位主角梁安妮和叙述者的日常生活与情感交流。故事开头描述两人在旅途的疲惫感，梁安妮约叙述者去一家面包店（咖啡厅）怀旧。在这个小店中，安妮回顾了自己的一段工作经历，以及与面包店老板娘的情感联系和她的女儿蒋小雅的故事。通过安妮的回忆，逐渐揭示了她与蒋小雅之间的感情发展，以及她因这段感情而遭遇的困扰与最后的离别。安妮在讲述的过程中流露出对过去的怀念与对失去的遗憾。故事中细腻的描写展现了人际间的情感纠葛，以及对爱的定义与评价。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [回家路上——她的抉择（9-10）.doc](回家路上——她
 | Size            | 92672 bytes                           |
 | MD5             | 5b338a8ff3bb4c819ace224fe45960a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 情感交流, 怀旧, 女仆, 亲情, 初恋, 甜品, 爱情, 心理描写, 自我认同, 故事讲述, 人物关系, 生活琐事, 青年成长, 失落                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

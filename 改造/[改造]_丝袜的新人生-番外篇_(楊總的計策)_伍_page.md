@@ -7,7 +7,7 @@ TXT 下载: [[改造]_丝袜的新人生-番外篇_(楊總的計策)_伍.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《丝袜的新人生-番外篇_(楊總的計策)》，内容围绕着角色性别转换的情节展开，主要讲述了角色杨炎在女性形象下的生活与情感纠葛。故事起始于杨炎与朋友的对话，讨论着他即将换上女性的服装和应对挑战。随着情节推进，杨炎穿上西装和高跟鞋，展现出其独特的魅力与性感，引发了周围人及自己内心的纠结与探讨。故事涉及的主题包括性别认同、自我探索以及情感的复杂性，细致描绘了角色在变身过程中的心理体验以及与他人关系的发展。文件较多涉及成人或性方面的描写，如“隔着襯衫摸著她的乳房”，以及对性活动的详细描写，适合用于性别研究、性转文学分析等领域。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_丝袜的新人生-番外篇_(楊總的計策)_伍.doc]([�
 | Size            | 40960 bytes                           |
 | MD5             | c1282aba5b629675f9eecb8114a4d6d1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身小说, 情感探索, 二次元小说, 成人内容, 强烈情感, 自我认知, 角色扮演, 三人行, 办公室恋情, 变装, 西装, 高跟鞋, 性爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_亵偶_第九章.docx]([其他]_亵偶_第九章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《亵偶》第九章的内容，描绘了一场充满科技感与紧张气氛的情节。故事设定在一个暗淡的通道中，主要角色郑拓与尹平正在应对突发事件，遇到了一具名为‘亵偶’的机器人，其身体经过非法机械改造，具有威胁人类的潜力。章节中，郑拓和尹平一边躲避飞散的石块与无人机，一边调查这具亵偶的背景与异常行为。随着情节推进，郑拓对亵偶的了解逐渐深入，发现亵偶不仅被改造为战斗机器，甚至在某些情况下压制了其人的意识。此外，故事还涉及了性别认同与身体变化的主题，舒的角色经历了从男孩到女孩的身体改变，她在衣物选择与自我认知中经历着心理和身份的斗争。最后，文件透露了关于亵偶的数据库混乱问题，为故事的后续发展留下悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_亵偶_第九章.docx]([其他]_亵偶_第九章.docx)
 | Size            | 20144 bytes                           |
 | MD5             | 97080f4fd984ddb534474e75f3645155                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 亵偶, 机械改造, 科幻, 性别认同, 身体变化, 战斗机器人, 郑拓, 尹平, 心理斗争, 意识存储, 机械士兵, 电子眼, 数据破解, 黑科技, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

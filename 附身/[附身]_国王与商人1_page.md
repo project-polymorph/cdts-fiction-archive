@@ -7,7 +7,7 @@ TXT 下载: [[附身]_国王与商人1.docx]([附身]_国王与商人1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这一段落描写了一个名为胡尼克的商人，乘坐商队穿越广阔沙漠的旅程。他所在的商队十分庞大，装载着各种珍稀的商品，包括羊毛毯、银器和附魔武器。胡尼克在这个过程当中，享受着奢华的生活，闭目想象着即将到来的繁华景象与令人振奋的人群。旅程中，胡尼克看到了一个繁荣的城市，这里是由商人和佣兵掌控的，而市内的贫富差距极为明显。描述中提到了在这座城市中，奴隶市场的现象，女人们作为货币般被交易，使得城市经济得以支撑。篇章进一步深入描写了关于奴隶的买卖和拍卖，讲述了这里的禁忌与暴虐，潜藏于奢华表象下的真实残酷。在揭露城市黑暗面与金钱极权的同时，展现了胡尼克复杂的内心世界。在最后，文中描述了一个奢靡的成人市场，进一步揭示了在权力游戏下隐藏的荒淫与堕落。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_国王与商人1.docx]([附身]_国王与商人1.docx)
 | Size            | 50710 bytes                           |
 | MD5             | f4fdcafcfce8dd927de8958df780882e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 奴隶市场, 跨性别, 自我探索, 资本主义, 性别权力, 异世界, 暴力与权利, 舶来文化, 剥削, 奴隶制度, 奇幻, 商人的生活, 经济差异                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

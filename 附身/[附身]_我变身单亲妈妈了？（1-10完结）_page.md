@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我变身单亲妈妈了？（1-10完结）.doc]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部关于附身与性别转换的小说，讲述了一位29岁单亲妈妈张雪的故事。故事从张雪性别转换后的自我探索与生活开始，描绘了她在新的身份中如何面对身心的变化与内心的挣扎。开篇通过细腻的描写展现张雪的美丽与魅力，从她对自己新身体的体验，到作为单亲妈妈的种种责任感，小说充满了对女性身体的细腻观察和性别角色的反思。张雪一方面对自己的新身份感到好奇与兴奋，另一方面却又因对女儿的担忧而感到困扰。小说中描写了她在面对外界诱惑时与内心道德之间的冲突，尤其是在接女儿放学期间，一名中年男子的骚扰，突显了她的无力与挣扎。随着情节的发展，小说探讨了性别认同、自我探索以及社会期待对个人的影响此刻，读者可以体会到她与女儿之间的情感纽带，以及在充满性别和社会角色压力的环境中，张雪如何平衡自己的需求与责任。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我变身单亲妈妈了？（1-10完结）.doc]([附身]_
 | Size            | 60416 bytes                           |
 | MD5             | 732cdc44db691564782e3dce2cd9cc65                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身小说, 跨性别, 单亲家庭, 自我探索, 女性身份, 社会压力, 性别角色, 剧情描绘, 成人内容, 家庭责任, 校园生活, 性觉醒, 人际关系, 性骚扰                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

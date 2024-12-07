@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魅者天下（七）.docx]([皮物]_魅者天下（七）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件属于一篇伪娘TS变身与跨性别相关的小说，描绘了一个以魅力和容貌为中心的奇幻世界。在这个世界中，角色们使用变装术和化妆术来改变自己的外表和性别认同，故事围绕主角和彩娘的互动展开。文本中提到的部分内容涉及裸体、亲密接触以及角色之间的调戏与情感交流，展示了性别转换和自我探索的主题。如文中所述，“我和姬如月在一番大战之后，我画下了几幅像是春宫图一般的，姬如月的画”，这是对二次元性转文化的一种表现。内容包含角色在进行皮相制作的过程，以及对身体和魅力的探索，展现出一种浓烈的欲望和互动关系，充满幻想与神秘色彩。该作品适合对性别认同、变身以及跨性别主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魅者天下（七）.docx]([皮物]_魅者天下（七）
 | Size            | 25643 bytes                           |
 | MD5             | 146f7446abdd6cf3b9db714ae2bd72d7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 二次元, 性别认同, 亲密接触, 调戏, 欲望, 自我探索, 幻想故事, 兄妹情, 校园小说, 魔法, 角色扮演, 性别转换, 奇幻文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

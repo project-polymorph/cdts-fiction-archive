@@ -7,7 +7,7 @@ TXT 下载: [[交换]_一品红4.doc]([交换]_一品红4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇小说，讲述了江小婉，一个在形形色色的风险中发挥着领导才能的成功女性的故事。她掌控着江氏集团，一个从不显眼的香港企业发展成为国际性商业巨头的企业。故事伴随着她接受来自神秘组织的一项任务，该任务要求她出席纽约国际拍卖会并争取获得一件宝贵的古代物品。同时，小说中揭示了江小婉的过去与她之间复杂的人际关系，特别是与吴敏欣的过去交集，以及她与一位年长富豪的情感纠葛。在这些故事中，充满了性别转变、自我认同和权力斗争等主题，能够引起读者对女性在职场上的挑战以及自我认知的思考。文中有多处关于人物的内心独白和对自身经历的反思，描绘了角色在追求权力和幸福之间的挣扎与牺牲。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[交换]_一品红4.doc]([交换]_一品红4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 46592 bytes                           |
 | MD5             | 11e073fc44fcb83050cbae79dc57d185                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 职场女性, 成功女强人, 跨性别, 复杂人际关系, 权力斗争, 家族企业, 国际拍卖会, 情感纠葛, 神秘组织, 感情自我探索, 年龄差, 女性主义, 成长故事, 商业巨头, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_无肉的世界——回到那个家（1-2）.doc]([交换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《无肉的世界——回到那个家》是一部围绕角色性别转换与生命自我探索的小说。故事开篇描绘了一个外卖骑手的生活，其身为父亲的角色在日常工作与照顾家庭之间挣扎。随着展开，骑手王志华却意外卷入一场与一位神秘女子有关的意外事件，女子的突然出现改变了一切，使他不得不面对意想不到的命运。在一场致命的事故后，王志华的身体与身份也为之扭转并挑战，他逐渐发现自己变成了一位女性，名为林雨磬，这一转变使他不得不重新审视自己的生活、家庭及自身的价值观。文中充满了对性别认同以及社会观念的深刻剖析，探讨了爱与牺牲、身份的流动与自我救赎等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_无肉的世界——回到那个家（1-2）.doc]([交换
 | Size            | 50688 bytes                           |
 | MD5             | b2512fe5a0a8b4c23465268bbe170145                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 外卖骑手, 自我探索, 家庭关系, 身份认同, 都市生活, 小说, 变身, 纯爱, 死亡, 意外事件, 性转, 都市奇幻, 女性视角, 情感纠葛, 社会期待                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

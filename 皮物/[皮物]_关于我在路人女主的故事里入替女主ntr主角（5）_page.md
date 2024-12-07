@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_关于我在路人女主的故事里入替女主ntr主角�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一部伪娘 TS 变身与跨性别相关小说的章节，主要叙述了角色席子（旺似女孩的男生）与女主角霞之秋诗羽之间的互动和内心斗争。在故事开头，席子回忆起一夜奇怪的梦境，并逐渐感受到自己身处的状态对他内心产生的影响。他对诗羽的强烈吸引力让他脑海中不时闪现出对她的崇拜与服侍欲望。与此相对，诗羽则在轻松的场景中享受着他人的目光，展现出两位主要角色在性别认同及自我探索过程中的截然不同的心态和表现。文中还包含了一些关于角色之间复杂关系的探讨与调侃，比如诗羽对另一个女主角英梨梨的嫉妒，表现出她们之间竞争的微妙情感。此外，故事中还提到了伪娘角色的社会存在，以及对身体与性别概念的挑战和重新定义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_关于我在路人女主的故事里入替女主ntr主角�
 | Size            | 55808 bytes                           |
 | MD5             | 182030d585decd4d68f2b9a6a378a689                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 自我探索, 爱情, 年龄差, 女体化, 强奸, NTR, 变嫁, 女仆, 学生, 老师, 调教, 淫荡, 奇幻, 二次元, 逆后宫, 多重人格, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

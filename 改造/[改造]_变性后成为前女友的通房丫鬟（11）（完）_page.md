@@ -7,7 +7,7 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（11）（完）.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于性转变身、跨性别以及伪娘/男娘相关的小说，内容充满了性暗示和刺激场景。故事描写了一名角色经历变性手术后，成为其前女友的丫鬟的过程。在故事的开头，角色感受到自己饮用的酒是用自己曾经的男性生殖器官泡制而成，这种自我认同和角色身份的转变引发了一系列羞辱与快感的交织。在与其前女友阿苹及林海宁的互动中，角色逐渐适应并享受其“丫鬟”身份，参与到淫荡的场景中。文本显示了角色在性别认同、羞耻感和自我探索的复杂心理，展现了性别角色与权力关系的纠缠。内容中包含生动的描写，例如“我喝的醉醺醺的，但是听到自己喝的酒是由自己睾丸泡制而成的，顿时一惊”，以及“我只能听从阿苹的命令”，揭示出角色的身份和性行为的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（11）（完）.d
 | Size            | 38562 bytes                           |
 | MD5             | 05d7f88adbbe37806e6b7062e647c962                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变性, 伪娘, 男娘, 跨性别, 性别认同, 自我探索, 羞耻感, 角色扮演, 权力关系, 强奸, 调教, 多人, 逆后宫, 恋物癖, SM                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

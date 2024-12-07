@@ -7,7 +7,7 @@ TXT 下载: [[其他]_面具女友，后记中篇（修改版）.doc]([其他]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一段复杂而迷人的情感纠葛，围绕着三位主要角色秦越、杨梅和洛冰展开。故事深刻探讨了他们之间的情感关系，以及在时光流逝、身份变换与重聚过程中所经历的内心冲突与自我认知的转变。秦越与杨梅的重逢充满了对过去十年的思念与期待，尽管杨梅在重逢中表现得有些羞涩，但她与秦越之间的情感却又是深厚的。随着故事深入，洛冰的真实身份浮出水面，揭示了她与杨梅之间的深刻联系，以及三人之间复杂的情感网。在一系列情感波动和揭示后，三人开始探讨未来共同生活的可能性，展现了人性的脆弱与坚韧。通过剧情的发展，读者不仅可以感受到角色之间疏离变亲密的转变，也能引思人类在情感层面是如何交织与碰撞的。在这个过程中，作者通过细腻的描写，展现了人物内心情感的真实与挣扎，给予读者一个发人深省的情感旅程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_面具女友，后记中篇（修改版）.doc]([其他]_�
 | Size            | 49664 bytes                           |
 | MD5             | 039e1e1514f77295c30308daa8210e91                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 情感纠葛, 身份认同, 自我探索, 跨性别, 伪娘小说, 家庭关系, 紧张气氛, 情感重聚, 情感冲突, 复杂关系, 女性视角, 情感成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

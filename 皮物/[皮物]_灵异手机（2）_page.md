@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_灵异手机（2）.doc]([皮物]_灵异手机（2）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕一个名叫黎平的角色展开，故事以灵异和变身为主题。黎平原本面对的是一个恐怖的敲锣鬼，但他醒来发现面前是穿着梅花十三cos服的程妆红。两人之间关于灵异现象的对话揭示了故事的背景和情节发展。程妆红的灵异能力受到鬼墨的影响，而通过与黎平的交流，我们得知她成功找到方法缓解自身的灵异侵蚀。
+
+随着情节的发展，文字中描绘了程妆红怎样解决鬼墨问题，并从黎平的视角透视出他对于灵异事件的处理方式。同时，吕天的自我认知也通过对于程妆红的记忆的整理与掌握而逐渐明晰。故事中阐述了驭鬼者与鬼之间复杂的关系，揭示了许多灵异与超自然的元素，构建出一个充满紧张与悬念的场景。文中还涉及家族之间的经济和灵异利益关系，使故事更加立体。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_灵异手机（2）.doc]([皮物]_灵异手机（2）.doc)
 | Size            | 45568 bytes                           |
 | MD5             | 5a7102666f409dee87463137e6338011                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 悬疑, 灵异, 变身, 驭鬼者, 鬼墨, 程妆红, 黑暗幻想, 百合, 奇幻, 人皮鬼, 灵异物品, 二次元, TSF, 情感探索, 记忆重组, 家族阴谋, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

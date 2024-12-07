@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——起始篇2.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讲述了一个角色的意识穿越到另一位女性角色惠美的身体中，展开了一系列的自我探索和奇幻体验。故事起初，角色感到震惊和混乱，但很快适应了惠美的身体。角色在卫生间中经历了一段极其敏感和私密的时刻，最终对自己的新身份和身体产生了复杂的情感和认知冲突。文件包含大量直接描写情感与生理反应的场景，探讨了性别认同和身体经验的主题。角色的内心独白涉及到对自身身份的反思以及对性别转换后的情感体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——起始篇2.docx]([附身]_�
 | Size            | 18142 bytes                           |
 | MD5             | 64e199fbc2943f03b8d4b7031b06b51a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 身体换位, 自我探索, 敏感体验, 奇幻, 角色认同, 情感斗争, 私密场景, 意识侵占, 变身小说, 二次元, 变装, 存在感, 肉体体验, 性别转换, 幻想, 生理反应, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

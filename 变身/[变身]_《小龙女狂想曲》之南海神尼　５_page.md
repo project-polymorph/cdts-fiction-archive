@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼　５.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《小龙女狂想曲》之南海神尼的第五节章节，主要描写了郭襄与小龙女之间的冲突与对话。在这一节中，郭襄因小棒头的死而质问法王并表现出极大的愤怒与悲伤。法王冷静地解释姑姑的意图是让小棒头明白自己的身份。郭襄对姑姑的态度感到愤慨，并质疑小龙女的做法。小龙女则显得很淡定，甚至表示如果郭襄有委屈，可以随意发泄。随着对话的发展，郭襄逐渐冷静下来，但对小龙女一千八百八十八两的指控又引发了新的争论。整体而言，这一节通过激烈的情感冲突，探讨了角色间的关系与自我认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼　５.docx]([变�
 | Size            | 17793 bytes                           |
 | MD5             | 94f67b6dbf8da53017031d246833c347                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 变身, 强烈情感, 自我探索, 痛苦与救赎, 武侠, 小说, 幽默对话, 性别冲突, 成长过程, 悲剧, 复杂关系, 情感纠葛, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

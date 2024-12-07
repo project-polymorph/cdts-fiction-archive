@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_百鬼众魅·浮生若梦（第八篇）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《百鬼众魅》系列的第八篇《浮生若梦》，通过讲述一个孤独男孩在福利院的故事，探讨了家庭、孤独与身份认同等主题。故事开篇描述了一场大雨中，男孩若梦被一位神秘的赞助商带上了一辆黑色高级轿车，准备带他去寻找愿意收养他的人家。这位男孩是福利院中年龄最大的孩子，他经历了战乱与瘟疫，内向且睿智，对自己的身世有着深刻的认识。故事中，若梦有所担忧，因为他清楚自己的身世背景阻碍了别人对他的领养意愿。在与赞助商鬼魅的对话中，他表现出超乎同龄人的成熟，而鬼魅似乎在筹划一项秘密计划，承诺若梦若与他合作便能找到合适的家庭。该章节通过若梦与鬼魅的互动引入了更深的阴谋与探索，留下了悬念，结尾以“你只需要……做一场梦”句子结束，暗示着后续发展的复杂性和不确定性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_百鬼众魅·浮生若梦（第八篇）.doc]([皮物]_�
 | Size            | 61440 bytes                           |
 | MD5             | 5dff79cdc8071c9426ecd4b34eac483c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 孤独, 收养, 身份认同, 战乱, 青春, 家庭, 想象力, 黑道, 秘密计划, 心理探索, 成长, 童年阴影, 命运转折, 幻想元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

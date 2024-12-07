@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_罪恶契约（一）到（三）失败者与神格.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该作品为奇幻类小说，名为《罪恶契约（一）到（三）失败者与神格》，主要讲述了一位名叫安迪的角色在魔界与深渊的斗争中，因与同为七阶大恶魔的阿蒙争夺王位而被 derrotado。故事中，安迪在与阿蒙的对抗中逐渐失去力量，并最终被迫流放，面临生死存亡的考验。文件中描述了角色之间的对话与冲突，以及奇幻世界的设定与规则。内容涉及对力量的剥夺、身份的认同、以及角色的痛苦与挣扎，同时展现了魔界的黑暗与残酷。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_罪恶契约（一）到（三）失败者与神格.doc]([
 | Size            | 53760 bytes                           |
 | MD5             | ec73bcd246cc39d3f592085b2d22daf0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 奇幻, 恶魔, 斗争, 权力, 流放, 自我认同, 胜者为王, 角色成长, 魔界, 深渊, 黑暗, 力量剥夺, 情感冲突, 奇幻世界, 王位争夺, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_应该分享的责任_第九章.docx]([交换]_应该分�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章描绘了一位年轻女性在一个夜晚到访朋友的故事。故事设定在阿莱克斯的公寓前，她在这里等待着已经失联的朋友。她正经历着身份和性别认同的复杂冲突，同时面对着怀孕所带来的挑战和对未来的不确定感。章节中充斥着对她现状的反思，涉及了她与母亲的紧张关系，以及对自己选择的懊悔。女生与阿莱克斯的互动进一步揭示了她的内心挣扎和对安全感的渴望。通过细腻的心理描写，该段落展示了角色的脆弱和环境的对比，同时展现出一种复杂的情感交错。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_应该分享的责任_第九章.docx]([交换]_应该分�
 | Size            | 28361 bytes                           |
 | MD5             | 86f34548bbd3d200caf7e773649688d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 心理探索, 情感纠葛, 家庭关系, 怀孕, 青少年困扰, 夜晚探险, 自我认知, 孤独感, 社会认同, 青春成长, 陌生人的帮助, 性别冲突, 社区生活, 都市故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_深夜书店的重逢.doc]([交换]_深夜书店的重逢.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了两个女性角色之间的重聚与情感交流。故事从在深夜书店相遇开始，张洁与叶瑶的双手在书本上相触，展现出一种熟悉而温暖的情感。经过一年，两人再次见面，彼此对各自生活的变化进行了分享。叶瑶描述了自己在新生活中的适应和交往，尤其是提到她的男朋友表现得体贴周到。然而，张洁则分享了她与家人的亲密关系，并提到自己没有交男朋友。这段情感交流中充满了温柔的笑声与细腻的情感，透出一种对于过去的怀念和对未来的期待。最后，张洁撩动了叶瑶的发丝并为她送上一本书，象征着她们重聚的记忆与情感的延续。在告别时，两人都对不久的将来抱有期望与关心，展现了细腻而真挚的情感纽带。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_深夜书店的重逢.doc]([交换]_深夜书店的重逢.
 | Size            | 29184 bytes                           |
 | MD5             | 889cd1c1a751355facfc1162993c9c75                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 重聚, 女性友谊, 深夜书店, 感情交流, 温柔, 怀旧, 书籍, 生活变化, 生活百态, 自我探索, 纯爱, 性别认同, 情感纠葛, 青春, 生活幻想, 情感碰撞                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

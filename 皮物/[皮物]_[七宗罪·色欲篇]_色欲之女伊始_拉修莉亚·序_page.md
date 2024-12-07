@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[七宗罪·色欲篇]_色欲之女伊始_拉修莉亚·�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于跨性别与变身主题的小说，讲述了在贵族政治背景下，克里斯都伯爵的美丽妻子拉修莉亚的生活与内心独白。故事发生在一个充满荣耀与危机的时代，描述了王权与教会之间错综复杂的关系，以及两者对普通贵族及其家庭的影响。文件开头描绘了一位金发少女站在蒲公英花海中，象征着她的纯净与高贵；而在接下来的情节中，拉修莉亚与其伯爵丈夫之间的日常对话展现了二人对未来的期待与对战争威胁的忧虑。拉修莉亚期望能有一个属于他们的孩子，但现状却令她感到失落。作品最终转向即将爆发的战争，北地亚人南下的消息打破了伯爵庄园的平静，拉修莉亚的担忧与困惑令人印象深刻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[七宗罪·色欲篇]_色欲之女伊始_拉修莉亚·�
 | Size            | 53537 bytes                           |
 | MD5             | 9148b69820237a5dbd5638b1d8aba53c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 骑士, 贵族, 婚姻, 战争, 政治, 教会, 自我认知, 性别认同, 双性恋, 爱情, 幻想, 二次元, TSF, 变装, 男性视角, 女性视角, 抒情, 情感复杂, 宫廷斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

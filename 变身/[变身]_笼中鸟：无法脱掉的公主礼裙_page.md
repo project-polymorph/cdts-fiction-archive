@@ -7,7 +7,7 @@ TXT 下载: [[变身]_笼中鸟：无法脱掉的公主礼裙.doc]([变身]_笼�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《笼中鸟：无法脱掉的公主礼裙》是一篇关于异世界冒险与性别认同的小说。故事发生在一个名为魔帝城的地点，述说了一位名为勇者亚舒的人类与统治魔界的魔帝之间的决战。魔帝统治下的魔界强者为尊，众多魔族服从于他。在一场激烈的斗争中，勇者亚舒凭借魔力和勇气，终于击败了魔帝，然而战斗的代价却是他身边同伴的生命。随着魔帝的死去，魔界军的控制力崩溃，人类逐渐开始反攻。在返回人界之后，亚舒却选择留在这个世界，最终渴望能否见到自己的伙伴复活。文本不仅深入探讨了勇者之间的情谊与牺牲，也涉及了强者与弱者之间的斗争，以及对死亡与生存的思考，描绘出角色心灵的挣扎与自我认知的转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_笼中鸟：无法脱掉的公主礼裙.doc]([变身]_笼�
 | Size            | 150016 bytes                           |
 | MD5             | 3af6ee8995d772224555b163261bde58                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 勇者, 魔界, 性别认同, 牺牲, 战斗, 冒险, 魔法, 自我探索, 生死, 情谊, 异世界, 小说, TSF, 变嫁, 千禧年文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [回家路上——继续旅程（11-END）.doc](回家路上——�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《回家路上——继续旅程》的后半部分，讲述了主角在国庆假期中的心路历程与身体变化。故事开始于主角在道别后漫无目的地走在街头，沉浸在对于失去身体的俗世和追求身份认同之间的纠结之中。他回到房间，与母亲的互动体现出他对家庭的关心，也暗示他内心对身份的抗争。在家中，他不得不以“假小子”身份面对母亲，尽管对自己穿着的厌恶与对女性形象的向往交织。然而，主角对自身身体的亲密感与外界的限制让他倍感无奈，最终决心寻找一个新的身体以继续自己的生活。在故事的后半部分，主角经历了一个从身份的迷茫到逐渐明晰的过程，展现了性别认同和自我探索的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [回家路上——继续旅程（11-END）.doc](回家路上——�
 | Size            | 44032 bytes                           |
 | MD5             | 97ad903e5b8a4614417c56ec0bd8953d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 自我探索, 变身, 情感纠葛, 家庭关系, 国庆假期, 身份认同, 青春成长, 女装, 心理描写, 女性视角, 奇幻, 身体交换, 异世界冒险, 青春爱情, 情感冲突, 探索自我, 社会禁忌, 秘密生活, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_欲成仙_2_身世.doc]([其他]_欲成仙_2_身世.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部伪娘 TS 变身与跨性别相关的小说片段。故事围绕主角岳阳展开，他在一次偶然的机会中吞下了一颗神秘的珠子。故事情节具体描绘了岳阳对于仙丹的渴望，以至于他为此冒险吞下不明物质，期望能与其母亲长生不老。文中出现了强烈的性幻想和自我探索的冲突，描绘了岳阳由兴奋到性奋的转变状态，并暗示了他在性别认同上的复杂情感。随着故事的发展，岳阳似乎进入了一个奇异的梦境，隐约感觉到他的身体发生了变化。文章还涉及到其母亲与他的关系，以及母亲对于岳阳身份的复杂看法，展现了家庭关系中的矛盾与情感交织。此外，文中还提到了一些修仙的元素和超自然的能力，突显了幻想和现实的交融。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_欲成仙_2_身世.doc]([其他]_欲成仙_2_身世.doc)
 | Size            | 39936 bytes                           |
 | MD5             | 23d91107214a7b1d1c078f06004c2eea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 变身, 家庭关系, 自我探索, 幻想, 神秘珠子, 性幻想, 修仙, 仙丹, 情感纠葛, 超自然, 性别认同, 母子关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

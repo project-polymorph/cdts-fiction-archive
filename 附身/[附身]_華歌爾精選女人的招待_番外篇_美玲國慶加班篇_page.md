@@ -7,7 +7,7 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_番外篇_美玲國慶加�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘及变性主题的小说，主要描绘了角色在二次元世界中的变身与性转过程。故事围绕着主角美玲姐展开，她在国庆节期间陪同周老闆的儿子参加宴会，内容中包含了多次性暗示和调侃。在这篇小说中，角色在变身为女性后，利用女性身份与周围男性进行互动，展现了较强的肉体欲望和权力动态。作者使用幽默和讽刺的笔调，探讨了性别身份与社会期待之间的张力，体现出角色对于新身份的享受及其心理变化。文中有不少对角色内心活动的描述，尤其是对过去经历的反思，展现了深层的自我认知过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_番外篇_美玲國慶加�
 | Size            | 68096 bytes                           |
 | MD5             | de2c1f9ed12101a73b94f07567113b11                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 国庆节, 宴会, 性别身份, 自我认知, 二次元, 调侃, 肉文, 性暗示, 权力动态, 姐妹情, 社会期待, 性转, 角色反转, 都市生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

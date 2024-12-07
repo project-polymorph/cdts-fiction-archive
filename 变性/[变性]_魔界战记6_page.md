@@ -7,7 +7,7 @@ TXT 下载: [[变性]_魔界战记6.docx]([变性]_魔界战记6.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《魔界战记》第六章的内容，讲述了主角贾奈穿越到一个名为魔界的异世界的经历。在魔界，贾奈感受到不同于他故土的文化和人际关系，遇到了好心人库巴大叔和小萝莉露赛特，他们积极帮助贾奈适应新环境。在与这两位角色交往的过程中，贾奈通过与露赛特和库巴的互动了解魔界的规则和常识，也表达了对异世界的困惑与探索。文中加入了贾奈的内心独白，展示了他对新生活的勇敢态度以及寻找归属感的决心。故事展现了成长与自我认知的主题，结合了穿越与魔幻元素，在发展的过程中，贾奈与同伴们的关系逐渐加深。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_魔界战记6.docx]([变性]_魔界战记6.docx)
 | Size            | 21780 bytes                           |
 | MD5             | 4786007dd0dfe5c94062750a833268f5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 穿越, 魔界, 异世界, 角色发展, 自我认知, 友情, 成长, 奇幻小说, 冒险, 互动, 语言翻译, 社会规则, 情感探索, 男主角, 伪娘, 幻想冒险, 年轻化, 魔法, 地狱三头犬, 生存, 猎人, 食材, 驯兽, 单身男士, 萝莉                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身后被基友调教的日常.doc]([变身]_变身后�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部描绘变身和SM调教关系的小说，讲述了一名实习生经历日常工作的辛苦，回家后与两位调教角色之间的复杂关系。故事的第一章中，主角与室友秦枫和少女筱丹之间的互动描绘了一种M/S的情感游戏。筱丹在受到捆绑和调教的状态下，展现了她的角色和身份认同，整篇文本充满了SM元素和性别角色的模糊化。内容涉及复杂的关系网络，描述了调教、性别认同等主题，有时带有明显的成人向情节，包括对角色愉悦与疼痛的探索，以及在亲密关系中产生的情感纠葛。绘制出一个充满异化、角色扮演与探索自我的世界。根据文本，主要的互动场景包括对筱丹的调教与饲养，展现出一种另类的温馨与约定。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身后被基友调教的日常.doc]([变身]_变身后�
 | Size            | 39936 bytes                           |
 | MD5             | 96acd57d627ff89b969e2a3e17409284                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 调教, SM, 伪娘, 复杂关系, 性别认同, 情感纠葛, 二次元, 青春, 爱与痛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_父子情深（三）.docx]([变装]_父子情深（三）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于父子关系的变装小说，其中主角迈克尔与托德之间展开了一段复杂而禁忌的情感故事。故事描绘了迈克尔在性别认同和自我探索中的挣扎与转变，情节中涉及托德引导父亲迈克尔体验女性化身份的过程。随着两人情感的加深，迈克尔展现出对这一新身份的接受和享受，而托德则表达出对父亲的爱恋与渴望。文件通过生动详细的描写展现了他们之间亲密而又充满冲突的关系，探讨了性别、情欲与道德禁忌等主题。文件中包含大量关于身体接触、性行为的细节描写，表明了角色间强烈的情欲和复杂的心理状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_父子情深（三）.docx]([变装]_父子情深（三）
 | Size            | 22315 bytes                           |
 | MD5             | a177c90edb1935e5e027ba241f396add                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 父子情深, 变装, 性转, 禁忌, 跨性别, 情感探索, 自我认同, 心理冲突, 情欲描写, 复杂关系, 性行为, 变性, 禁忌恋, 二次元, 剧情, 感官经验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

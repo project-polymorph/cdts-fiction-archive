@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_57.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说第57章，标题为"跳舞、礼物和好消息"，主要叙述了贝丽在和男朋友德里克的互动中经历的一系列情感波动。故事开始时，贝丽接到来自梅根阿姨和奥古斯特的短信，流露出她对恋爱的期待和对情感的渴望。随着剧情的发展，贝丽在舞会上与德里克跳舞，她内心充满紧张与兴奋，同时对自己伪装成少女的角色产生了复杂的情感。文字中夹杂着对高跟鞋舞步的描述、与德里克的对话以及她心中对曼迪的思绪，反映了她在性别和身份认同上的挣扎与探索。节目最后，贝丽在朋友们的鼓励与德里克的陪伴下，逐渐接受了自己的角色，也体现了人际关系中的复杂性和心灵的成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_57.doc]([改造]_把男朋友�
 | Size            | 117248 bytes                           |
 | MD5             | fcb90ce4841d547b2d7a8d25fb2e58ae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 情感与互动, 恋爱故事, 舞会, 自我认同, 青春, 性别探索, 少女心理, 社会关系, 内心冲突, 情感发展, 幻想, 二次元, 角色扮演, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

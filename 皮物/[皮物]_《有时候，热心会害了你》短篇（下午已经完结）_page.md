@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《有时候，热心会害了你》短篇（下午已经�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+短篇小说《有时候，热心会害了你》围绕主角乔治的故事展开，乔治因涉嫌谋杀而入狱。小说开头描绘了监狱的日常，当他得知获得赦免之后，感到无比惊喜。故事设定在美国加州，乔治的释放过程通过典狱长与狱警的对话展现，反映出对他未来生活的微妙期待。出狱后的乔治回到繁华的威廉镇，瞥见了熟悉的环境，却也发现一切已不再如往常。他与弟弟约翰的重聚充满情感，而在暗房中发现的神秘手提箱内藏有药水，更暗示着接下来的复杂情节和冲突。整个故事传达了关于自我救赎与新生活开始的主题，同时也触碰了家庭关系和个人目标的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《有时候，热心会害了你》短篇（下午已经�
 | Size            | 44032 bytes                           |
 | MD5             | 385b10ed7021536dfb359a3e84a0dc2a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 美剧, 家庭关系, 药物, 重生, 监狱生活, 心理冲突, 美国背景, 自我认知, 社会适应, 赦免, 暗房, 情感重聚, 探索冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

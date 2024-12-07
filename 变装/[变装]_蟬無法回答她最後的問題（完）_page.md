@@ -7,7 +7,7 @@ TXT 下载: [[变装]_蟬無法回答她最後的問題（完）.doc]([变装]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《蟬無法回答她最後的問題》描绘了一位小女孩在一场突如其来的夏季雷阵雨后的经历。故事以女孩的视角展开，描绘了她在公车站等待公车的过程中内心的自我反思和观察周围人的情景。女孩推着自己的脚踏车，突然被雨淋湿，贴身的白色校服显得格外明显，甚至使她感到不自觉的羞愧。随着故事的发展，女孩面临自我认同的困惑，对自己的身体、内衣以及被观察的意识产生了深刻的思考。随着公车的到来，女孩上车后观察到其他乘客，包括一个包括父母和小男孩的家庭，这些互动和情景让她产生了羡慕和思考，对自身和身边环境的敏感观察贯穿整个故事。最终，女孩回到家，面对父亲的冷漠和自己在生活中不得不做出的反应，决定剪短自己的头发，象征着她在身份和自我认同上的反抗与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_蟬無法回答她最後的問題（完）.doc]([变装]_�
 | Size            | 41984 bytes                           |
 | MD5             | 76488d748608de2c78b250f5043a2cd7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 自我认同, 幼儿成长, 家庭冷漠, 内心独白, 性别意识, 儿童心理, 探讨性别, 社会观察, 生活片段                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

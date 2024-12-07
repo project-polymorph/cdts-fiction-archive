@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《身边全是内奸怎么办？》0-2.doc]([改造]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别主题的小说，名为《身边全是内奸怎么办？》，设定在大隋朝，大业52年，过程中融入了大量修真元素。故事开篇描绘了一位高挑、穿着露臀旗袍的少年和他的同伴在小树林中逃避追逐的场景，背景设定在一个充满严酷竞争与生存压力的世界。小说情节包含了性别转换以及情感冲突等主题，少年在面临强敌时感受到的内心挣扎和对师傅的信任，构成了故事的核心。随着情节的发展，少年陷入了情感的漩涡中，他的师傅凤蝶仙子显现出强大的气场引导他面对即将到来的挑战，同时引发了关于性别与身份认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《身边全是内奸怎么办？》0-2.doc]([改造]_《�
 | Size            | 61440 bytes                           |
 | MD5             | 15038f6ed9c8ba983ce7c64593e09eff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 修真, 强者为尊, 性别认同, 自我探索, 成人典礼, 魂穿, 性无能, 师徒关系, 情感冲突, 性别转换, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（申码文）我的室友有点怪.doc]([皮物]_（申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位名叫川崎的角色与他的学姐怜奈之间发生的一系列事件。故事发生在慵懒的夏季，川崎在家中整理书籍时，怜奈前来找他借东西。怜奈以其优雅的外表和迷人的声音吸引了川崎的注意，令他倍感紧张。在他们的互动中，怜奈表现出了一种玩世不恭的态度，似乎在享受川崎的窘迫。文件的后半部分描述了怜奈在房间内进行一系列极具暗示性的不雅行为，展现出性别和身体的敏感性和冲突，主要强调了怜奈的性感外表和身体的细节。故事中包含了许多有关性别、性别认同及自我探索的主题，将二次元文化与性转元素融合在一起，是一部典型的伪娘或变身题材的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（申码文）我的室友有点怪.doc]([皮物]_（申�
 | Size            | 58368 bytes                           |
 | MD5             | d3d02606d9b465dcc2700a82038a0efc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 校园, 性别认同, 欲望探索, 强烈互动, 学姐和学弟, 性转, 二次元, 青春爱情, 校服诱惑, 羞涩情感, 紧张气氛, 纯爱, 古代, 奇幻, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_须构医药公司的故事（五）.doc]([皮物]_须构�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一个名为须构医药公司的故事的章节，其中描绘了若干年轻女性职员在工作环境中的互动与谈话，尤其是关于角色茉薇及韩小可之间的竞争与微妙关系。开场时，几个OL（白领女）在电梯口闲聊，以贾总与茉薇为中心，讨论她们的着装与交往，多次提及贾总对茉薇的特殊关照与传闻。随着情节的发展，韩小可进入电梯，展现出与茉薇相似的穿着风格，二人之间的竞争关系愈发明显。随后的对话中，涉及到贾总以及被提到的曾波的急切离去，展示了复杂的人际关系和情感纠葛。整篇文章则围绕着公司文化、性别认同与对个人生活的讨论展开，夹杂着充满暗示的情节与微妙的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_须构医药公司的故事（五）.doc]([皮物]_须构�
 | Size            | 57344 bytes                           |
 | MD5             | 27f23d992d1fe72535c8a2056da84e33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 职场关系, 性别认同, 竞争关系, 二次元, 变身小说, 情感纠葛, 办公文化, 清纯与妖艳, 隐秘情感, 自我认知, 女性视角, 青春, 都市, 角色互动, 强烈香味                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_西游情厄传（第二十三回）.docx]([其他]_西游
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《西游情厄传（第二十三回）》是一本以经典《西游记》为基础的改编小说，结合了众多元素，包括凄美的爱情、权力的斗争以及角色的复杂性。故事主要围绕着妩婧、妩媆和逍遥王的关系展开，描写了她们在朝代政治变换背景下的爱情与权谋游戏。开篇描述了三位角色在早朝前后的情感纠葛和心理斗争，尤其妩箜对自身角色及情感的矛盾心理，体现了深刻的自我认知与内心挣扎。在故事中，三位女主角的互动、心理描写和神秘的宝物等设置，营造出了一种奇幻、华丽而又略显淫荡的氛围，展现了各种情感的纠缠和角色间的微妙关系。此外，也描绘了神秘的魔女、奇特的宝物和音乐表演，揭示了角色之间的深厚情谊与潜在冲突。此章通过华丽而富有想象力的语言，展现了一种奇妙而富有层次感的叙事结构。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_西游情厄传（第二十三回）.docx]([其他]_西游
 | Size            | 36578 bytes                           |
 | MD5             | 3156edccd0644aaee63b5f81f1753f0a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 西游记, 魔道, 女主角, 爱情, 权谋, 奇幻, 内心挣扎, 自我认知, 宝物, 淫荡, 角色关系, 诗歌, 华丽描写, 三位女主角, 魔女, 情感纠缠, 神秘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

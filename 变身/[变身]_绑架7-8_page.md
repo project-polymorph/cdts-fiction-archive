@@ -7,7 +7,7 @@ TXT 下载: [[变身]_绑架7-8.doc]([变身]_绑架7-8.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了一部以性转、变身和跨性别为主题的小说片段，故事情节围绕主人公祝天的身心变化展开。祝天在经历了一系列调教后，逐渐被迫接受女性身份，文中详细描写了其心理挣扎和身体体验。故事中祝天在一个成人会所中被迫接受姐妹们的调教，身上沾满了男性的痕迹，经历与赵红的复杂关系。随着剧情的发展，祝天希望重回男性身份，但却被卷入了更深的陷阱和调教中。文本描绘了大量的性别认同、性行为以及人物之间的权力关系，包含了强烈的感官描写和心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_绑架7-8.doc]([变身]_绑架7-8.doc)
 | Size            | 46592 bytes                           |
 | MD5             | 42b4e8bddac763810c4e2c83e5b4df9c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 跨性别, 调教, 权力关系, 自我探索, 强烈欲望, 心理挣扎, 屈辱, 长期调教, 二次元, 伪娘, 男性角色, 性别认同, 成人内容, 幻想, 肉体变化, 敏感描写, 地下秘密                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

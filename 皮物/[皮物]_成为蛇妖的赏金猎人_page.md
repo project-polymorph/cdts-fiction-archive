@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_成为蛇妖的赏金猎人.docx]([皮物]_成为蛇妖的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位赏金猎人蒙德里安的故事，他的目标是一只出没于村庄附近的蛇妖。故事以蒙德里安对女儿的思念开始，他回忆起从小养大的女儿法芮尔，并对她未来充满希望。然而，他被朋友艾伦拖入了一项危险的任务，接下了与蛇妖对抗的悬赏。在探索蛇妖巢穴的过程中，他遭遇了一系列意外，最终被蛇妖捕获，并在她的魔法下经历了性别转换，接受了新身体的痛苦与快感的双重折磨。故事中涉及了魔法、变身等二次元幻想元素，展现了人物复杂的情感和探索自我认知的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_成为蛇妖的赏金猎人.docx]([皮物]_成为蛇妖的
 | Size            | 19608 bytes                           |
 | MD5             | 243949d4b1832a7ada8d011445441b86                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 蛇妖, 魔法, 父爱, 冒险, 悬赏, 自我探索, TSF, 异世界, 奇幻, 女性角色, 魔物, 变嫁, 亲子关系, 情感冲突, 猎人, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《牧神记同人》第四章_作者：天天吃稀饭.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《牧神记》的同人小说第四章。故事围绕主角灵儿与秦牧的互动展开，展现了他们之间的情感发展。章节中，灵儿和秦牧在早餐后出门时，遇到了一群士子前往山下，询问其中一位士子的来意后了解到，道人丹阳子及其弟子来太学院交流道法，引发了众多士子的关注。秦牧分析了国师改革的背景及道门的影响，表达了对道门实力的担忧。灵儿对国师和道门的情况有些困惑，却也很享受秦牧的温柔解释。文中对王公主灵毓秀的描写也展现了宫廷纷争中的微妙情感，灵儿虽与之竞争，却仍表现得很友好。整个章节通过对话推动情节发展，富有趣味性与情感交织，是一段充满幻想与性别探索的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《牧神记同人》第四章_作者：天天吃稀饭.do
 | Size            | 39174 bytes                           |
 | MD5             | dd2f2e0cccbd6dd321b717e28d2b999d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 天天吃稀饭                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 男娘, 强烈情感, 道门交流, 权力斗争, 兄妹情深, 古代幻想, 自我认知, 双性别, 角色互动, 甜宠, 爱情, 宫廷争斗, 玄幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

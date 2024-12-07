@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_お人形達の学園１年２組・船越光男君の日�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《船越光男君の日記》的第二话，内容围绕男主角船越光男的日常生活展开，主要描绘了他与同学们，尤其是君嶋同学之间的互动。故事中，船越逐渐适应与女同学们相处的感觉，同时也在自我认同和性别认同的双重冲突中挣扎。在对话中，可以看到他对女性身体形态的关注以及对自身性别身份的思考。文件中包含了许多与性别认同、自我探索相联系的情感表现，例如光男面对君嶋同学的紧张和好感。在体育课程的场景中，性别角色的对立和女生在特定环境下的感受成为文本的重要元素，展现出对性别身份和外界期待的深刻思考。文中对隐私、心理状态的细腻描写使角色的内心挣扎得以传达，具有较高的文学价值。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_お人形達の学園１年２組・船越光男君の日�
 | Size            | 21739 bytes                           |
 | MD5             | 040c1d5d65c97cbcbca4871881ba418b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 青春校园, 跨性别, 伪娘, 男性视角, 自我探索, 男女性别互动, 体育课经历, 内心挣扎, 二次元文化, 性转小说, 友情, 心理变化, 情感发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

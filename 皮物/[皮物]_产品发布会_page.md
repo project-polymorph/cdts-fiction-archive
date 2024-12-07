@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_产品发布会.doc]([皮物]_产品发布会.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一场关于跨性别产品的发布会策划书，主持人在发布会上展示了一种仿生产品，声称能够改变人类的身体结构以及性别识别。文中通过几个广告片回顾了产品成果和社会对性别认知的难点，并通过多个画面展示了因为性别角色不符而出现的社会问题，如面试中的性别歧视、身材问题导致的自卑、以及恋爱中的身份错位等。产品介绍部分详细描述了该产品的具体功能，包括修正体型、模拟皮肤、屏蔽和改造器官的能力，甚至可以暂时或永久改变部分人体特征。最后，主持人强调此产品的创新性及其将如何重新定义社会的价值观和结构。文档内容涉及敏感的社会性别议题及角色转变，适用于相关领域的研究与分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_产品发布会.doc]([皮物]_产品发布会.doc)
 | Size            | 36864 bytes                           |
 | MD5             | 0d1f0e7e97c6ec63c615d1ed6d63c1d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别转变, 性别认同, 仿生产品, 社会结构, 广告, 性别歧视, 身体改造, 自我探索, 性别认同教育, 科技伦理, 人性, 个体与社会, 性别角色, 变身小说, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

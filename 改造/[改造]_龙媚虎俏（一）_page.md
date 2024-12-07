@@ -7,7 +7,8 @@ TXT 下载: [[改造]_龙媚虎俏（一）.doc]([改造]_龙媚虎俏（一）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《龙媚虎俏（一）》是一本关于伪娘与变身主题的小说，故事围绕一个名为萧幕龙的男孩展开。他的家族在一场惨痛的灭门事件中被谋害，萧幕龙和他的弟弟在生死边缘挣扎求存。小说开篇以白马奔腾带出萧幕龙的绝望。故事经过复杂的角色关系展现了人物的内心冲突与挣扎，萧幕龙在失去亲人的情况下，努力想要报仇，并在养伤期间与舅舅唐万里以及表妹唐玉建立了微妙的情感联系。基于唐万里的身份与萧幕龙的关系，故事含有许多对性别认同与欲望的探讨。文中描写了唐万里对自己的妹妹唐千花怀有非分之想，并计划利用所谓的
+“千锤百媚心经”来实现对她的幻想，同时也向读者暗示了更深层的欲望和权力斗争。整个故事在情节安排上流畅，蕴含了丰富的情感与性别主题，适合对性转和变身类故事感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +22,10 @@ TXT 下载: [[改造]_龙媚虎俏（一）.doc]([改造]_龙媚虎俏（一）.
 | Size            | 37888 bytes                           |
 | MD5             | 57267b38237c9f56f4950b8efe0523c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 性别认同, 复仇, 家族悲剧, 权力斗争, 欲望, 武侠, 兄弟情, 成长, 经典武功, 魔教, 心理挣扎, 阴暗面                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

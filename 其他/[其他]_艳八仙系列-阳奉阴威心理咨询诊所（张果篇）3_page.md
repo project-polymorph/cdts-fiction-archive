@@ -7,7 +7,7 @@ TXT 下载: [[其他]_艳八仙系列-阳奉阴威心理咨询诊所（张果篇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《艳八仙系列-阳奉阴威心理咨询诊所（张果篇）3》，涉及一系列融合了奇幻与跨性别主题的情节。故事围绕龙王三太子与哪吒的情感纠葛展开，以及他在一段意外的遭遇后，与一名神秘女性的复杂互动。文中描述了龙王三太子因情感困扰而被束缚的情境，以及被神秘女性强制进行性行为的痛苦与迷惑。在这一过程中，三太子的内心挣扎与对自我性别认同的探索也逐渐浮现。作品结合了中国传统神话元素与现代跨性别主题，探讨了角色对自我性别认同的迷茫与挣扎，令人思考。整个叙述中涉及大量性暗示与性行为的描写，有一定的成人内容，读者需科学、客观地理解其中的性别与身份议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_艳八仙系列-阳奉阴威心理咨询诊所（张果篇
 | Size            | 21874 bytes                           |
 | MD5             | 0bef2c0ae772fbbbe225b26d967a75fe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 奇幻, 爱情, 强奸, 自我认同, 龙王家族, 神话, 伦理冲突, 禁忌恋, 女神, 变装, 生理性别, 情感纠葛, 奇妙冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

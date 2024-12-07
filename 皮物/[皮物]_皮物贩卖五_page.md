@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮物贩卖五.doc]([皮物]_皮物贩卖五.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位名为矢志的年轻人在一个奇幻的网站上发现了皮物贩卖服务的经历。故事开头设定在昏暗且杂乱无章的公寓中，矢志因为生活困顿和高考失利在寻找新的机会。网站广告吸引了他好奇心，网站声称可以购买人的身份与身体，这使得矢志进入了一个全新的世界。矢志在网站上浏览大量可供租借的年轻女性身份的皮物，描述了不同皮物的特点及其价格，映射出社会对身份和身体消费的疯狂追求。尤其是通过视频展示的魔幻效果，让人感受到灵魂和身体的颠覆与变换。矢志感到不可思议，对这些“皮物”的交易充满了想象与欲望，最终决定尝试购买具有极高价值的皮物。文中涉及了关于身份认同、社会期待的冲突及青少年在今世困境中的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮物贩卖五.doc]([皮物]_皮物贩卖五.doc)
 | Size            | 43008 bytes                           |
 | MD5             | 6a4178ad2889207bbe235c8b39763b8b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 皮物贩卖, 性转, 女性视角, 身份交易, 角色扮演, 奇幻, 腐向, 自我认同, 社会消费, 青少年心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

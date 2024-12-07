@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_2.docx]([变身]_【渣�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于勇者艾伦的冒险故事，开篇描述了他在古代迷宫中展开的探险旅程。艾伦是一个孤儿，被义父抚养长大，并在某一年被选为勇者，踏上了讨伐魔王的征程。在探索过程中，艾伦深感对兄长克劳斯的挂念，同时面对各种挑战和敌人。在遗迹的探索中，艾伦发现了闪闪发光的水晶和一个神秘的宝箱，内藏着可能会影响他命运的耳环。当他戴上耳环后，身体和能力发生了微妙的变化，这一变化不仅影响了他的外貌，还可能影响他的战斗能力。在故事的最后，艾伦在潜意识中察觉到了一些不对劲，但却并未完全理解那种变化的意义。该文描绘了角色的性别模糊与自我认知的冲突，是一部涉及变身与自我探索的奇幻小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_2.docx]([变身]_【渣�
 | Size            | 21596 bytes                           |
 | MD5             | f18fd3dcf5fcb28cc62a334780ebd8fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 勇者, 变身, 魔法, 奇幻, 自我探索, 冒险, 耳环, 遗迹, 王国, 魔王, 角色发展, 古代迷宫, 性别模糊, 力量变化, 友情, 成长, 失落                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

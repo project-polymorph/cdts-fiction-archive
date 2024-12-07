@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_41.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为多元性别相关的小说章节，标题为《把男朋友养成亲闺女》第41章，作者为Nicegent42，由Lisa翻译。故事围绕贝丽及其与德里克、坎迪斯等角色的关系展开。章节主要描绘了角色们在晚餐上的互动与情感纠葛。在这个章节中，贝丽装作一个年轻的女孩，与德里克的父女一同享受家庭聚会的温馨时光。故事展现了伪娘角色的自我认同与他人认同之间的复杂互动，描述了晚餐中温馨的气氛和隐藏的情感张力，包括贝丽对德里克的复杂情感和坎迪斯的暗示性互动。此外，文中还提到了心理创伤的经历，贝丽面临的现实与她伪装身份之间的张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_41.doc]([改造]_把男朋友�
 | Size            | 36864 bytes                           |
 | MD5             | 44e792d07e580bae5e9d55559e78b048                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 家庭聚会, 情感纠葛, 自我认同, 晚餐, 强奸, 甜宠, 象征关系, 性别探索, 父女情, 青春, 变身, TSF, 反转, 校园生活, 心理治疗, 温馨, 社会关系, 女孩成长, 多元性别, 二次元, 性别认同, 强烈情感, 亲密关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

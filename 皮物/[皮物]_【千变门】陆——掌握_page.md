@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【千变门】陆——掌握.doc]([皮物]_【千变门�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位男性角色在化妆与装扮过程中逐步体验女性身份的过程。在整个故事中，角色通过使用假皮和化妆技术，进行了身体与形象的大幅度转变。文件详细描述了角色在化妆间中的经历，包括假皮的贴合和身体部位的调整，感受到的身体变化，以及对外表的重新认知。参与化妆的角色王婷则扮演了关键的辅导者，使主角在不断尝试中逐渐适应了女性的身份，在这一过程中也展现出对自身与性别认同的探索。故事涉及的情节极为细腻，对身体的描写也融合了性感与羞怯的心理斗争，体现了性别变换带来的深层次影响与冲突。此外，文中也提到主角为王婷带来香水的情节，暗示着二人的关系逐步深化。整体来看，这是一篇探索性别认同、身体认知及心理变化的深刻文本。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【千变门】陆——掌握.doc]([皮物]_【千变门�
 | Size            | 34304 bytes                           |
 | MD5             | ae8b338bd095d2dd7b5ccd293762431d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别转换, 变身, 化妆, 身体认知, 情感探索, 女性化, 自我认同, 角色扮演, 化妆技术, 跨性别, 爱情, 性别认同, 情感纠葛, 二次元, 性转小说, 女体化, 性别身份, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

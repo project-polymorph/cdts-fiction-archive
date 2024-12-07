@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮物】我的弟弟是偶像.doc]([皮物]_【皮物�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《我的弟弟是偶像》，主要围绕名叫洛夕的少女和她的哥哥洛林的互动展开。故事设定在一个摄影棚内，洛夕是一位正在出道的偶像，故事中描写了她在拍摄过程中的表现和心态。洛夕的外在形象为女性，但实际上她的生理性别是男性，故事通过她的内心独白展现了性别认同的探索与挣扎。文中提到洛夕对偶像生活的热爱与厌倦，表现出她在公众形象与个人身份之间的矛盾。情节涉及她与哥哥的亲密关系，提到他们之间的互动充满了一种微妙的暧昧。在一些桥段中，洛夕以挑逗和诱惑的方式与哥哥交流，更加突显她对于自身性别认同的迷惑。整体叙述充满了青春气息和性别流动性，适合对跨性别及性别认同感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮物】我的弟弟是偶像.doc]([皮物]_【皮物�
 | Size            | 64000 bytes                           |
 | MD5             | f462e0879e122e312740f0732a1bf015                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 偶像文化, 强烈的亲情关系, 拍摄背后, 二次元, 男娘, 变身, 青春期探索, 自我认知, 摄影师与模特, 性别流动, 黑科技皮物, 偶像活动, 细腻的情感描写, 动态表演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

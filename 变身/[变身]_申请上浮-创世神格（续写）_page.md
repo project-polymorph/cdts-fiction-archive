@@ -7,7 +7,7 @@ TXT 下载: [[变身]_申请上浮-创世神格（续写）.docx]([变身]_申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转变和个人意识控制的小说，标题为《创世神格（续写）》。故事围绕李明，一个平凡的高二学生，他在梦中获得了神秘的力量，连接了异世界的创世神格。据称这是作者对原作的续写，探讨了李明如何利用神格的力量来操控他暗恋的女生——杨诗涵。小说开篇描绘了李明如何通过获得创世神的神格，进而将杨诗涵的灵魂核心替换，从而实现对她的全面控制。故事展示了李明复杂的内心变化，在拥有力量后，他的思想变得扭曲，通过操控他所爱之人，逐渐陷入了欲望与道德的挣扎。作品探讨了权力对情感关系的影响，以及施加控制所带来的伦理问题。同时，文本中也包含一些可能被视为不适当的性内容，描绘了Yang诗涵在灵魂核心被替换后的行为变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_申请上浮-创世神格（续写）.docx]([变身]_申�
 | Size            | 30570 bytes                           |
 | MD5             | 460190abe53b19651cc6506992db1fdd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 创世神, 性别认同, 灵魂控制, 暗恋, 操控, 二次元, 幻想小说, 青年校园, 伦理困境, 意识探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

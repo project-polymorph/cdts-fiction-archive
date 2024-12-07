@@ -7,7 +7,7 @@ TXT 下载: [[变身]_求子-番外篇(夫妻的情趣).doc]([变身]_求子-番
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身与跨性别相关小说的番外篇，讲述了角色阿憲与其伴侣陳軍的故事。故事起初聚焦于两人的感情生活及对未来的憧憬，特别是他们渴望拥有儿童的愿望。在新加坡这个对同性恋相对保守的社会环境中，他们面临着不少困难，例如不被允许领养孩子，以及与法律相关的生育问题。虽然遇到重重阻碍，阿憲对成为女性并生产孩子的渴望日益强烈。在看到一则关于“月神面具”的广告后，他决定尝试这款产品，进而引发了一段奇妙的变身经历。故事中夹杂着温馨的感情描写与细腻的情感交流，同时也探讨了性别认同和个体的生理及心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_求子-番外篇(夫妻的情趣).doc]([变身]_求子-番
 | Size            | 80896 bytes                           |
 | MD5             | d6f629f0554b9fe39ef6c5d2ff452117                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 新加坡                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 跨性别小说, 伪娘, 同性恋, 母性, 性别认同, 肉文, 变身, 女体化, 情感生活, 变嫁, 强烈的情感, 自我探索, 性别问题, 魔法面具, 另类生育方式                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

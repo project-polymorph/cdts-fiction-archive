@@ -7,7 +7,7 @@ TXT 下载: [[附身]_半鬼之折磨（4）.doc]([附身]_半鬼之折磨（4�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说《半鬼之折磨（4）》的章节，主要围绕主人公李国强的奇异遭遇展开。故事描述了李国强在与恶鬼交战的过程中，意外被附身的故事情节。李国强的角色有着男警的身份，但经历了一段艰难的性别转换与认知冲突，文本中穿插了大量对女性身体、性别身份，以及暴力行为的描绘。故事情节复杂，包括李国强误闯女生厕所被误认为流氓，与同学王松的意外遭遇，以及为保护妹妹而与恶鬼进行斗争。该文中不乏强烈的色情和暴力元素，尤其是描写李国强的身体变化及与鬼魂交互的细节，构建了一种紧张而戏剧的氛围。文中还涉及鬼魂的仇怨与扭曲的性别关系，体现了对性别认同和自我探索的沉重探讨。图景描绘生动，情感深刻，反映了对人性和欲望深处的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_半鬼之折磨（4）.doc]([附身]_半鬼之折磨（4�
 | Size            | 37888 bytes                           |
 | MD5             | b752534ff77f6ac03b8882a2341f4ed7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 香港                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 恶鬼, 校园恐怖, 爱情与暴力, 鬼魂附身, 自我认知, 家庭关系, 生理与心理冲突, 女性视角, 校园生活, 警察故事, 社会道德, 幻想与现实, 性别身份, 情感戏剧, 黑暗幻想, 二次元, 文学创作                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

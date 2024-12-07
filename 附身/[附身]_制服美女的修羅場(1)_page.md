@@ -7,7 +7,7 @@ TXT 下载: [[附身]_制服美女的修羅場(1).doc]([附身]_制服美女的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品是一篇以意识同化为核心主题的小说，讲述了一名男性在受到袭击后，灵魂意外附身到一名女警麻生美子的身体里。在这篇轻松小品中，故事的设定背景为近代亚洲，虽受日本ACG文化影响，但具有普遍的情感元素与人际互动。故事开篇，主角在逛街归途中遭遇抢劫，随后目睹了一名穿着淡蓝色制服的女警的英勇追捕，深深被其吸引。不久后，男主的意识与女警的身体神秘连接，体验到与自己前所未有的生活和思考方式。整篇文本涵盖了男主与女警之间的微妙情感，在对方的身体里相互探索的过程，这不仅是关于性别认同与意识哲学的思考，也是对角色之间情感与欲望的出色描绘。同时，文章明确提到包含一些成人情节，读者须年满十八岁，且本作品至少有部分内容含有色情性质，透过角色的心理变化，展现深层的人性与欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_制服美女的修羅場(1).doc]([附身]_制服美女的�
 | Size            | 47616 bytes                           |
 | MD5             | 60bd01829da416bf41ddf0dcfb3b39c7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 意识同化, 男主附身女警, 轻松小品, 跨性别, 性别认同, 自我探索, 警察爱情故事, 浪漫主义, 现代亚洲, ACG文化, 色情, 互动情感, 性幻想, 暗恋, 喜剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

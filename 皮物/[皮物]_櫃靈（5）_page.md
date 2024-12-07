@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_櫃靈（5）.docx]([皮物]_櫃靈（5）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕主角冷言的生活展开，讲述了他的一天的故事。故事开始于一个清晨，冷言手持昨夜守夜赚的钱，兴致勃勃地准备给妻子玥婷买珠花，心中充满了对她的爱与思念。随着情节的发展，冷言的内心逐渐流露出对金钱以外更深层次的关怀与担忧。他的妻子玥婷在家庭中忙碌，温柔而细致地为冷言准备晚餐，反映出夫妻之间的亲密与信任。然而，冷言心中对某个女尸的担忧却始终无法释怀，这加深了故事的悬疑与暗示。而小说通过细腻的描写，把冷言与玥婷之间的情感与矛盾展现得淋漓尽致，带有强烈的时代背景与人文关怀，同时融入了一些神秘元素，让读者对于接下来的发展感到好奇。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_櫃靈（5）.docx]([皮物]_櫃靈（5）.docx)
 | Size            | 18325 bytes                           |
 | MD5             | bc1d9935995e9ceac663e0ef4aa41d80                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 冷言与玥婷的故事, 南方村落, 婚姻, 自我认知, 阴影, 禁术, 家庭关系, 幸福与焦虑, 情感纠葛, 爱情, 生活琐事, 神秘, 思念                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

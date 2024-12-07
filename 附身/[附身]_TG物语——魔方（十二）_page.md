@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——魔方（十二）.doc]([附身]_TG物语—
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别转换和自我认同的小说，主要讲述了角色余震通过其手机进入他人身体的经历。在故事中，余震刚解决完医院的事务，打算放松，于是在一家舞厅寻找目标，最终选择了一位性感女性的身体。然而，他却意外发现所入替的体内实际上隐藏着一个男性的下体，从而引发了一系列的自我认知冲突和情感挣扎。余震在误入洗手间后，在面对一名叫余涛的变性人妖时，揭示了两人的过去与复杂的关系。文中援引了余震及其堂兄余涛之间的亲密回忆，以及余涛出走的背景，进一步深刻探讨了性别与身份认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——魔方（十二）.doc]([附身]_TG物语—
 | Size            | 47616 bytes                           |
 | MD5             | 75668b3239aedf10e61a26821b48eb33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 自我探索, 夜店, 舞厅, 入替身体, 人妖, 青春, 情感冲突, 身体认同, 男性视角, 变装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

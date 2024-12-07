@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_使魔与魔女.doc]([皮物]_使魔与魔女.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部跨性别相关的小说，名为《使魔与魔女》。故事围绕着男主角在家庭和个人认同上的内心冲突展开。男主角在繁忙的大学生活中，面对自己与继母及继妹之间的微妙关系，感受到一种隔阂。他的妹妹春香是个可爱的女孩，描写她的外貌显得温柔而美丽，但男主角对她有着复杂而矛盾的情绪，导致他不断疏远这个本想建立亲近关系的妹妹。情节发展中，万圣节的到来为故事增添了气氛，男主角在家人的欢笑声中独自感到孤独。他在看动画时发现，面对自己想成为可爱角色的渴望，与现实中生理性别的冲突不断交织。小说透过男主的观察，引发了对性别认同、自我探索和家庭关系的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_使魔与魔女.doc]([皮物]_使魔与魔女.doc)
 | Size            | 89088 bytes                           |
 | MD5             | e8955459da39db9fd05e6e2b8162b114                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 月咲华灯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 家庭关系, 自我探索, 男主角, 伪娘, 万圣节, 校园生活, 女性角色, 日常系动漫, 情感纠葛, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_一本三流的骑士小说：命运之夜.docx]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《一本三流的骑士小说：命运之夜》的故事围绕着普茜拉公主展开，她即将被迫嫁给邻国的提度斯亲王，这让她感到深深的不满和无奈。在这场看似政治联姻的背后，普茜拉对未来的迷茫和抗拒逐渐显露。故事描写了一系列的紧张时刻，尤其是在与亲王的互动中，她感受到了一种难以言表的压迫感与屈辱。 根据情节的发展，亲王通过一种神秘的礼物影响了公主的内心，令人关注她的情感变化与身心的挣扎。随着故事的发展，揭示了权力、性别以及爱情之间复杂的关系，展现了普茜拉作为一个被操控的政治工具的悲剧命运。文件内容包含多处暴露的情感冲突，以及身体与权力交错的描写，尤其是在亲王的侵犯与骑士的保护之间形成鲜明对比。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_一本三流的骑士小说：命运之夜.docx]([附身]_
 | Size            | 50186 bytes                           |
 | MD5             | 07fa88226f313142561b05aae9fca37e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 幻想, 权力斗争, 情感冲突, 悲剧, 中世纪, 政治联姻, 亲王与公主, 勇士, 禁忌爱情, 牺牲与挣扎, 自我认同, 身体侵犯, 魔法, 霸道总裁, 幼女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

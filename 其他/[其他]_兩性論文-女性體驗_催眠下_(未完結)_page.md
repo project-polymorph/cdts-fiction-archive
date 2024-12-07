@@ -7,7 +7,7 @@ TXT 下载: [[其他]_兩性論文-女性體驗_催眠下_(未完結).docx]([其
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以催眠和性转为主题的小说，讲述了两个年轻女性与一名男性之间复杂的情感与心理互动。故事围绕着男孩王崇舜在面对两位以辣妹形象出现的女性时，因心理问题而产生的紧张与恐惧情绪。通过设定的催眠实验，两位女性试图帮助王崇舜克服对女性的恐惧。在房间内，她们以性暗示和亲密行为来缓解他的焦虑，让他逐渐放松下来。文中描写了王崇舜在身心的挣扎中，体验到的性别角色与身份认同的冲突，同时也探索了性别认同与心理恐惧的主题。内容涉及一些限制级的情节，包括性行为的暗示和心理治疗的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_兩性論文-女性體驗_催眠下_(未完結).docx]([其
 | Size            | 31128 bytes                           |
 | MD5             | b0bfe9ea5c24337b60a3443cfa068c3e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 性别认同, 心理治疗, 性转, 伪娘, 变身, 恐惧症, 复杂情感, 青春, 探索自我, 调教, 纯爱, 女性视角, 暗示, 心理暗示, 身体接触                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

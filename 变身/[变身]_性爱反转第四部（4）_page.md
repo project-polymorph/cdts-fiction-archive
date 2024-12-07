@@ -7,7 +7,7 @@ TXT 下载: [[变身]_性爱反转第四部（4）.docx]([变身]_性爱反转�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部跨性别相关的小说，主要描绘了角色阿诺德在经历变身和心理之间的挣扎与成长。故事中，阿诺德面对生理及心理上的变化，对自己新身份的接受与探索充满了复杂的情感。故事初始是阿诺德在冰淇淋店的经营中感到慌乱与孤独，身体的改变让他不得不重新认识自己，甚至在异性情感中感到无从应对。一方面他深感恐惧，将会变成一个新男性；另一方面，他又对生活中的一位女性角色伊莎贝拉产生了情感，表现出对关系的渴望与向往。在一次救人事件中，阿诺德展现了勇气，意外地引发了与伊莎贝拉更深层的情感交流。本文件详细描绘了对自我认同的探索与感情的条理化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_性爱反转第四部（4）.docx]([变身]_性爱反转�
 | Size            | 24805 bytes                           |
 | MD5             | 1976db0006441be93ba0ca75c9c070f0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 自我认同, 情感探索, 勇气, 心理变化, 阿诺德, 伊莎贝拉, 友情, 爱情, 渴望, 救援, 心理冲突, 成长, 二次元, 青春, 勇敢尝试, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

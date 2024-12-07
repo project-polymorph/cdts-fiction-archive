@@ -7,7 +7,9 @@ TXT 下载: [《金枝奇缘》第二十二回.doc](《金枝奇缘》第二十�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《金枝奇缘》的第二十二回，内容围绕人物陆瑶与陆问天的复杂情感以及权力斗争展开。在这一回中，陆瑶在遭遇血尸的攻击后，被迫接受身体控制，成为了凌云殿殿主陆问天的亲密之人。陆问天在爱妻去世后的长时间内将情感寄托在女儿陆瑶身上，逐渐形成了一种扭曲的父女关系。
+
+故事中还涉及到陆问天对女儿的训练以及权力的传承，同时穿插有对过往情感的回忆以及对未来的希望。情节发展至陆瑶在修炼过程中受到外界魔毒影响，与父亲发生了复杂的性关系。该段情节将性欲、权力、亲情等主题交织在一起，展现了人物的内心冲突与道德困境。故事中包含了一系列心理描写与生动的场景展现，使得读者在感受到人物之间紧张关系的同时，也能思考更深层次的伦理问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [《金枝奇缘》第二十二回.doc](《金枝奇缘》第二十�
 | Size            | 37376 bytes                           |
 | MD5             | 511ee61c5aeed8548f53258fcb943e17                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 父女关系, 权力, 情感纠葛, 魔法, 修炼, 百媚宫, 淫毒, 自我认知, 道德困境, 古代, 情欲, 魔幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

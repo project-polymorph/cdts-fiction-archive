@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[脑洞向]人外娘的世界（更新1-3：克总发糖�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《人外娘的世界》，是一个关于人鱼和其他海洋生物之间互动的幽默幻想短篇故事。故事的主要角色是人鱼娘，她与其他水下生物如水母姐姐和扇贝娘等进行对话和互动。在第一章中，人鱼娘分享了自己的一段冒险经历，她遭遇了她们称之为‘海参子’的生物，并讲述了自己被海参子‘吃掉’的奇遇。这段经历不仅包含了人鱼娘的感受和奇思妙想，也有幽默的对话和细腻的描写，使读者能够感受到其中的幻想色彩和纯真的情感。文中涉及了一些轻松和带有暗示性的情节，角色之间的互动充满了稚气和梦幻，展现了这种生物的特殊魅力与奇妙体验。整个作品充满了幻想与探索的主题，同时也含有一些性暗示的轻松元素，适合喜欢二次元幻想题材的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[脑洞向]人外娘的世界（更新1-3：克总发糖�
 | Size            | 64512 bytes                           |
 | MD5             | 8e4a3d7d853e4509a1e05cdd8d9eb9d0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人外娘, 人鱼, 海洋生物, 幻想小说, 冒险, 童话故事, 性转, 纯爱, 亲密关系, 奇幻, 幽默, 对话, 动漫文化, 水下世界, 角色互动, 幻想冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

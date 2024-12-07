@@ -7,7 +7,7 @@ TXT 下载: [[其他]_婚纱的诅咒【十】.doc]([其他]_婚纱的诅咒【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别主题的小说片段，叙述了一位名叫杨安的角色与女友林敏之间的日常互动与情感交流。在故事的开头，杨安经历了一场噩梦，感受到胸口的压迫和不安。与女友的亲密交流展现了他们之间的深厚感情，提到他们共同的生活和未来的打算，尤其是关于购房的美好期望。随着故事进展，杨安与林敏一起前往普吉岛，享受海滩与潜水的乐趣。在他们的冒险中，潜水不仅是一次身体上的享受，也是对杨安心理状态的探索，他通过对自然的亲密接触逐渐克服内心深处的困扰与自我认同的挣扎。故事中融合了浪漫与自我认同，反映了对于性别及身份的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_婚纱的诅咒【十】.doc]([其他]_婚纱的诅咒【�
 | Size            | 35328 bytes                           |
 | MD5             | 3141f7365a1f264acba7b22c89e52c6b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 爱情, 潜水, 心理探索, 城市生活, 婚纱的诅咒, 自我认知, 未来规划, 旅游冒险, 梦境与现实, 情感关系, 吴雯雯, 公寓生活, 二次元, 深海冒险, 女性亲密关系, 夜晚的独白                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

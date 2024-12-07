@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人皮游戏3——逆转.docx]([皮物]_人皮游戏3—�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇描绘性别转换和变身情节的小说，主题围绕一群青少年女孩之间的互动，尤其强调了与敏感和恐怖元素相关的剧情。文本开始于一个角色小月在进行高度还原的Cosplay化妆准备，她将自己装扮成受伤者，准备给朋友送出一份别出心裁的生日礼物。在这个过程中，角色之间的对话充满了调侃和幽默，文中包含了生动的细节描绘，展现了对角色身体及其相互关系的探讨。随后，涉及到的情节包括刀具、模拟的外科伤口和对尸体的处理，众多女孩互动时表现出一种扭曲的亲密感，似乎在通过这样的方式探讨或实现他们的 fantasy。文件语言直白且具有冲击力，展示了极端情节的并行，包括恐怖、美学和性别自我认同的复杂性。整体风格偏向暗黑，且包含许多触及性感和血腥的细节，使得这部作品适合于关注跨性别与变身主题的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人皮游戏3——逆转.docx]([皮物]_人皮游戏3—�
 | Size            | 26407 bytes                           |
 | MD5             | 7fc04fc4b991a3b4375acb0118927469                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 恐怖, 性幻想, Cosplay, 极端对比, 自我认同, 青少年, 禁忌情感, 恐怖故事, 血腥, 生理性别, 角色扮演, 心理冲突, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

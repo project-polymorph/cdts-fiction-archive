@@ -7,7 +7,7 @@ TXT 下载: [[附身]_(审码文)穿越时空的入替之岳母.doc]([附身]_(�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《穿越时空的入替之岳母》主要讲述了一个大学生巩聚仁的故事。巩聚仁是一个平凡的大学生，生活富足而家庭美满，正与女友小娟筹划未来。然而，他的生活在一次偶然的实验中发生了变化。他的表姐杜兰是一名疯狂的科学家，发明了一台名为‘量子穿梭机0式’的机器，能够实现灵魂与肉体之间的转移。巩聚仁为了探寻灵魂的奥秘和体验与女友告白的那一天，决定在杜兰的指导下参与实验，结果他进入了一个充满未知的奇异空间。在这个奇异的过程中，巩聚仁不仅体会到过去的美好，还面临着前所未有的挑战和探索。文中的情节涉及灵魂、时间、科学与人际关系，具有浓厚的科幻色彩和跨性别探索的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_(审码文)穿越时空的入替之岳母.doc]([附身]_(�
 | Size            | 72192 bytes                           |
 | MD5             | c859899471524dd2a16185611f9950b7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 穿越时空, 灵魂转移, 量子穿梭机, 疯狂科学家, 大学生, 爱情, 自我探索, 超自然现象, 科幻, 实验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

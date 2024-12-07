@@ -7,7 +7,7 @@ TXT 下载: [[附身]_大烟民（5）.doc]([附身]_大烟民（5）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《大烟民》的第五章，描绘了主人公皮阳在高考后的一周内的生活状态和心理变化。在这一章中，皮阳摆脱了学业压力，选择寻找兼职工作以补贴家用。他通过同学陈伟瑞的帮助，得知了一部剧组的群众演员招聘信息，并决定去应聘。故事中详细描写了皮阳的背景——父母早逝，与奶奶生活，面对未来的学业和生活压力，以及他与同学之间的互动。与此同时，皮阳也经历了对演艺行业的第一次接触和对身份的疑惑，以及即将成为替身演员的紧张心情。小说涉及性别角色的扭转，皮阳被要求穿戴女性校服和假发，暗示了角色的性别转换与内心冲突。该章节在描绘成长与探索的同时，也展现了市场经济对年轻人的影响，以及个体在性别身份上的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_大烟民（5）.doc]([附身]_大烟民（5）.doc)
 | Size            | 34304 bytes                           |
 | MD5             | 2b8c21f9ab243c1295a1e4e2077ca336                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 替身演员, 兼职工作, 自我探索, 成长小说, 演艺圈, 青少年, 性别认同, 心理冲突, 情感纠葛, 二次元, 青春期, 文艺, 励志                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

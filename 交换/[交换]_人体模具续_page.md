@@ -7,7 +7,7 @@ TXT 下载: [[交换]_人体模具续.doc]([交换]_人体模具续.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇伪娘主题的小说，描绘了一个生理性别为男性的角色王小萌通过变身以女性形象出现在酒吧的场景。故事围绕其在酒吧中的遭遇展开，表达了角色对酒吧氛围的厌倦及内心的矛盾。王小萌的经历通过细腻的描写展现出角色内心对自我认同的探索，比如在陌生的女性身体里体验外部环境，伴随紧张情绪与性别认同的冲突。文中提到的“玫瑰伯爵”酒吧环境嘈杂，充满诱惑的气氛，角色不仅对自身的身体变化感到不安，更对外界的目光和评价产生复杂的情感。最终，角色在酒吧失望而归，反思氛围与酒吧内人们的行为，并在寒冷的雪夜中体验冬日的静谧与美丽。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_人体模具续.doc]([交换]_人体模具续.doc)
 | Size            | 37888 bytes                           |
 | MD5             | 86902db012800eadfe60024a5c35ab10                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 酒吧, 性别认同, 自我探索, 冬季雪景, 夜生活, 心理冲突, 性别角色, 青春困惑, 情欲, 社交氛围, 酒精影响                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

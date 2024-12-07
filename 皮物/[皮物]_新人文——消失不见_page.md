@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新人文——消失不见.docx]([皮物]_新人文——
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身与跨性别相关小说，描绘了名为陈丽娜的女侦探与刑警队长白安泰之间的微妙关系。故事开场设定在一个秋季的巷道，陈丽娜在经营她的侦探事务所，同时承接着各种案件。随着情节的发展，陈丽娜与白安泰之间的亲密互动不断流露出情感的复杂性。在讨论关于“白衣贼”的案件时，两人之间的互动展现了彼此的职业压力与情感纠葛。作品强调了陈丽娜的出色才能，以及她在处理案件时的决策能力，然而她自身也遭遇了健康与情感上的困扰，表现出一种矛盾的生活状态。整体而言，这篇小说探讨了性别认同与个人之间的情感联结，以及在复杂的人际关系中如何应对各种困扰。 
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_新人文——消失不见.docx]([皮物]_新人文——
 | Size            | 36302 bytes                           |
 | MD5             | 13227593bcc8487daf93ce82e4be4677                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 侦探小说, 性别认同, 爱情, 悬疑, 办公室恋情, 女性视角, 情感纠葛, 职场压力, 易容术, 女性力量, 现代都市, 青春, 人际关系, 社会问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

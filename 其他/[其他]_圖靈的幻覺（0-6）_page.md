@@ -7,7 +7,7 @@ TXT 下载: [[其他]_圖靈的幻覺（0-6）.docx]([其他]_圖靈的幻覺（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是有关伪娘、变身和跨性别题材的小说文本，主要围绕角色的身份认同和性别流动展开。故事中的主角经历了一系列心理和身体层面的变迁，面临着自身存在的困惑与探索。在故事开头，主角提出了‘我是谁’的哲学性问题，反映出个体在社会角色和自我认同之间的矛盾。随着情节的发展，主角和警察角色之间的对话揭示了她失去记忆以及对自身身份的怀疑，激发了对人类与其他生物界限的讨论，同时也暗示了潜在的科技和伦理问题。文本中充满了悬疑和紧张的氛围，探索了人类的复杂情感与存在主义问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_圖靈的幻覺（0-6）.docx]([其他]_圖靈的幻覺（
 | Size            | 28126 bytes                           |
 | MD5             | 2212db83270938f4d5cf225ab98b2880                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 身份认同, 失忆, 人类与生物的界限, 实验室, 哲学探讨, 自我探索, 悬疑, 警察, 生物科技                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_8.docx]([交换]_卡扎菲的秘�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了关于卡扎菲的秘密葬礼与权力斗争的情节。故事中，维扎德与艾默先生涉及到50吨黄金的交易，显示出利比亚在动荡中权力人士之间的复杂关系。文章描绘了卡扎菲周围的权势与军队的调度，强调了黄金在当前政治形势下的重要性，提到敌对势力的崛起，以及通过地道逃生的紧迫性与策划。故事背景设置在2011年，记录了利比亚的动荡与反叛派的崛起。提到的关键事件包括对黄金的需求、撤退的计划以及反对派进攻的紧迫性。文末还提到了一支来自利比亚的神秘车队，克制地描绘了特定人物的去向和政治动向，以及卡扎菲可能的行踪，透出浓厚的悬疑气氛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_8.docx]([交换]_卡扎菲的秘�
 | Size            | 17354 bytes                           |
 | MD5             | db190dc7cf8d39eb3a58fe1c9014de5f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 利比亚                               |
+| Date            | 2011-08-21                                 |
+| Tags            | 权力斗争, 黄金交易, 军事撤退, 政治暗流, 卡扎菲, 阿齐齐亚军营, 秘密计划, 维扎德, 反叛派, 辛亥革命, 军事策略, 地道逃生, 苏尔特城, 恐怖活动, 生死存亡, 秘密车队, 兵力调动, 军需购买                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

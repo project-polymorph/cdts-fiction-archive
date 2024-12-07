@@ -7,7 +7,7 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书3.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件内容涉及一位名叫安德鲁的男性被女经理凯瑟琳强制变身为一名女性秘书的情节。故事开始于安德鲁结束一天忙碌的工作后，遇到了凯瑟琳，她故意留下他并向他展示了他签署的文件，揭示出其所有财产已被转移到凯瑟琳名下。凯瑟琳不仅夺走了他的公寓、汽车和银行资产，还操控他的生活，要求他穿女性化的女仆装，并在接下来的训练中学习如何保持女性化的举止和态度。安德鲁面对凯瑟琳的威胁感到恐惧，明白他没有选择，只能妥协。文中详细描绘了安德鲁被迫穿上女仆制服、学习如何行屈膝礼，以及其内心的挣扎与屈辱。凯瑟琳则以一种报复的态度，强迫安德鲁接受新的身份，展现了性别角色的扭曲与权力的动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书3.docx]([变�
 | Size            | 24148 bytes                           |
 | MD5             | 4275aaa9174c82fdd2ef61c29ac793f7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 女仆, 羞辱, 变身, 强制变性, 自我探索, 角色扮演, 办公室情节, 性别角色, 权力动态, 情感冲突, 尴尬, 心理操控, 服装准则                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

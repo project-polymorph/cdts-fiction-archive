@@ -7,7 +7,7 @@ TXT 下载: [[其他]_兩性論文-女性體驗_催眠_上.docx]([其他]_兩性
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别与催眠的小说，结合了大量外部催眠理论的翻译与改编。作品中涵盖了情爱和性启蒙的主题，通过心理医师的视角，描述了一位男性心理医生对于两性关系的探讨，以及他与一位年轻女性角色之间的情感互动和性行为的细节描写。Keith在处理自己的心理研究及实践经验时，与其女性伴侣小宣之间的感情逐步升温，展现了他对女性欲望的分析和引导。在交流中，Keith试图结合他的学术研究，例如“金手指的操作”，来满足小宣的欲望，体现了他作为心理医生在情感处理中的主动性和技巧。整个故事充满了性暗示和直接的性行为描写，适合对性别身份及其相关议题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_兩性論文-女性體驗_催眠_上.docx]([其他]_兩性
 | Size            | 50004 bytes                           |
 | MD5             | 77f2271e5120b37066753f50581affbb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 两性关系, 心理医师, 性启蒙, 情爱, 伪娘, 性转, 变身小说, 女性欲望, 性行为描写, TSF, 学术研究, 现代都市, 情感互动, 心理探索, 两性心理学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

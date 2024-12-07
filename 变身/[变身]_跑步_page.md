@@ -7,7 +7,7 @@ TXT 下载: [[变身]_跑步.doc]([变身]_跑步.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一个人在夜间独自跑步的经历，跑步过程中，角色发现了不同的衣物并逐渐完成了一次性别身份的转变。在月光的照耀下，角色一开始穿着运动服进行跑步，随着情节发展，逐渐脱去这些运动服，换上了蕾丝短内裤、丝袜和内衣等女性服装。文件中详细描写了角色的感受和变化，如“满月的月光拂亮了黑暗的夜道”，以及角色对自身外貌与身份的困惑与重新定义，最后在找到自己的学生证后，进一步确认了角色的身份。此文本展示了性别转变的过程，涉及自我认同与探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_跑步.doc]([变身]_跑步.doc)
 | Size            | 33792 bytes                           |
 | MD5             | 637fecfea61150a36084f59b23b08721                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 自我探索, 性别认同, 夜跑, 跑步装备, 伪娘, 性别转换, 青春期, 内心挣扎, 女性服装, 奇幻, 成长, 月光, 孤独, 心理变化, 校园生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

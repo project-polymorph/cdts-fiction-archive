@@ -7,7 +7,7 @@ TXT 下载: [[交换]_急性換身慾望_(雙十致敬原作者篇).doc]([交换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是以性转和跨性别主题为核心的小说，设定在一个现代的都市环境中。故事围绕一个毕业后暂时担任保安工作的男主角小李展开，他暗恋着邻居筱云小姐，一位身材性感的女性。故事的情节以小李对筱云的感情为主线，描绘了他们之间的互动，以及小李在面对筱云时的心理冲突和冲动。在一次偶然的机会中，小李揭开了他内心深处的渴望，想要成为筱云，体验她的身体和生活。文本详细描写了小李对于女性身体的好奇与渴望，以及两人之间逐渐升温的关系，涉及性转、跨性别及性幻想的主题。该作通过丰富的描写传达了角色之间的化学反应与情感纠葛，表现了身份认同与身体欲望之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_急性換身慾望_(雙十致敬原作者篇).doc]([交换
 | Size            | 48640 bytes                           |
 | MD5             | 68a6258f1131e7b2925b5a3a2c5af4d3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 男娘, 爱情, 自我认同, 性幻想, 女性身体, 欲望探索, 心理冲突, 都市生活, 性别认同, 情感纠葛, 青春, 情感升温, 社会角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

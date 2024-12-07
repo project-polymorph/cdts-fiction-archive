@@ -7,7 +7,7 @@ TXT 下载: [[其他]_套着小鸡鸡的小男孩.doc]([其他]_套着小鸡鸡�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《套着小鸡鸡的小男孩》，是一部描写少年性别认同与性别转变的小说，内容围绕一名少年在成长过程中体验到的生理和心理变化展开。文中少年初始并未意识到自己将要经历的性别转变以及随之而来的困惑和羞愧。在一次意外中，少年被迫佩戴贞操带，并感受到身体的变化。故事通过细腻的描写展现了少年在面对身体变化时的羞愧与好奇，使其陷入深深的自我挣扎。《套着小鸡鸡的小男孩》从少年的视角出发，探讨了诸如自我认同、欲望和家庭关系的复杂性。文中有许多关于少年的挣扎与内心斗争的细节，例如，在一次梦中，少年穿上了小女孩的舞蹈服并在学校表演，感受到羞耻和困惑，围绕其身边人们的反应和目光，使他几乎陷入绝望。此稿同时涉及了一些性相关的情节，适合于研究性别认同与性转变的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_套着小鸡鸡的小男孩.doc]([其他]_套着小鸡鸡�
 | Size            | 36864 bytes                           |
 | MD5             | fb93148b129ed5c4b2e2d67771808ee2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 跨性别, 贞操带, 自我认同, 羞耻, 成长, 欲望探索, 心理斗争, 家庭关系, 舞蹈服, 少年, 性别认知, 情感戏, 心理转变, 性别冲突, 成长的烦恼, 梦境, 身体认同, 文化压迫, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人皮背后的陷阱（二）.docx]([皮物]_人皮背后
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及伪娘与变身主题的小说，文字内容展示了一位男主角在意外的实验室事件中体验身体变换的故事。主角在实验室中发现了神秘的药品和科技设备，并意外进入一间封闭的实验室里，看到一个悬浮在荧光水中的少女。他对这个神秘少女的身份产生了疑问，并对自己目前的身体状态感到沮丧。故事详细描述了他在身体变换后的生活挑战，以及对自己身份的探索和挣扎。尤其在面对他人的异样目光时，主角表现出了复杂的情绪，包括对外貌的不满和想要恢复原状的渴望。此外，文本中穿插了一些与性别认同、自我探索相关的心理描写，表现了伪娘文化和变性的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人皮背后的陷阱（二）.docx]([皮物]_人皮背后
 | Size            | 16692 bytes                           |
 | MD5             | 2237a598f49ebf336007d7b278524c07                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | dna228                               |
+| Region          | 未知                               |
+| Date            | 2016-01-24                                 |
+| Tags            | 伪娘, 变身, 性别转换, 自我认同, 实验室, 神秘药品, 少女, 心理探索, 情感挣扎, 社会认同, 身体形象, 校园生活, 科技幻想, 异样目光                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

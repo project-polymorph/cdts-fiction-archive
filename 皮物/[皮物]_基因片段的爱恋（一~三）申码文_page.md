@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_基因片段的爱恋（一~三）申码文.docx]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章名为《基因片段的爱恋（一~三）》，主要描绘了在2035年，科学家郭得凡在JXP药业公司进行的人类再生计划。故事情节围绕着外星发现的变形虫及其基因提取的实验过程。初始的实验因环境与基因错误导致了一系列的失败，但郭得凡带着团队的坚持，最终成功提取了变形虫的基因，并将其与一种改良病毒R0结合，以期达到修复人类损伤组织的效果。在面临上级压力与实验经费短缺的情况下，郭得凡计划利用一种R21病毒，向公司的高管进行复仇，以保护自己与团队的成果。此外，文章也涉及到郭得凡与他的助理卢琳绯之间的感情线索，展现出他对她的情感寄托与决策带来的道德困境。文中的实验、情节冲突及情感纠葛交织在一起，描绘了一幅未来科技与人性抉择交汇的复杂画面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_基因片段的爱恋（一~三）申码文.docx]([皮物]
 | Size            | 32683 bytes                           |
 | MD5             | b598d3478e4bc573ac068e84fe7adf67                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 基因工程, 人类再生, 外星生物, 科学实验, 爱情故事, 复仇计划, 生化实验室, 自我认知, 科技伦理, 情感纠葛, 失败与成功, 实验室生活, 职场斗争, TS小说, 科幻小说, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

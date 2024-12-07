@@ -7,7 +7,7 @@ TXT 下载: [[附身]_孕变.doc]([附身]_孕变.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是轻音w创作的变身小说，标题为《孕变》。故事围绕男主角林海展开，他意外遭遇车祸，不仅重生，并且神奇地变成了一名怀孕的女性。他在医院醒来后，意识到自己变成了名为苏灵的孕妇，心中充满了惊讶和困惑。在医生的陪伴下，林海逐渐意识到自己的新身份以及随之而来的种种挑战，例如怀孕的现状和与丈夫钟然的复杂关系。随着剧情发展，他不得不面对承担母亲角色的现实，同时探索包括性别身份、自我认同等主题。文件节选对人物内心的细腻描绘，展现了林海在新身份之间的挣扎和情感波动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_孕变.doc]([附身]_孕变.doc)
 | Size            | 86528 bytes                           |
 | MD5             | 4d8f3da33f4a522588d5f3e0bc93e75f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 轻音w                               |
+| Region          | 中国大陆                               |
+| Date            | 2019-03-02                                 |
+| Tags            | 变身, 跨性别, 怀孕, 性别认同, 自我探索, 角色替换, 奇幻, 都市, 爱情, 家庭, 记忆损伤, 车祸, 女主角, 情感纠葛, 青春, 成长, 生命的奇迹, 幻想, 两性关系, 戏剧冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

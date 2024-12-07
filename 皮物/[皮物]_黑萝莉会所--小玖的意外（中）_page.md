@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑萝莉会所--小玖的意外（中）.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档是关于一位名叫玖的伪娘角色的故事，描绘了其在会所中与一位客人梅阿姨之间的互动。在这一情节中，玖被梅阿姨拘束，佩戴手铐和脚镣，并经历了一系列心理与身体上的刺激和调教过程。内容涉及性别认同、自我探索以及带有性相关的情节，该故事中玖的反应展现出内心的矛盾与挣扎。此文档通过细腻的描写展现了角色的感受，包括她在被束缚后如何感受到刺激和愉悦，以及她与梅阿姨之间复杂的动态关系。随着剧情的发展，玖逐渐掌握了主动权，并最终成功脱离了困境。整体文档通过性感的故事情节探索了伪娘与跨性别主题的结合，并涉及了一些潜在的限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑萝莉会所--小玖的意外（中）.docx]([皮物]_�
 | Size            | 19005 bytes                           |
 | MD5             | 0840e4b9379433610268bd7725ad2567                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 调教, 束缚, SM, 成人内容, 心理游戏, 自我探索, 男娘, 异性恋, 成人动画, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

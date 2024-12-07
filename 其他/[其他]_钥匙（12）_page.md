@@ -7,7 +7,7 @@ TXT 下载: [[其他]_钥匙（12）.docx]([其他]_钥匙（12）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《钥匙（12）》讲述了名为方凌的女孩醒来后发现自己身处陌生环境的故事。她在回忆起最后的记忆后，意识到可能是在面试结束后昏倒了。意识到这一点后，她决定探寻周围的情况，然而却发现周围空无一人。通过手机收到朋友的邀请，方凌带着担忧走出家门，却在公车上遇到了危险。途中，方凌感到身体的不适，发现自己的外观发生了变化，胸前变得平坦，感受到一阵恐慌。这种恐慌随着公车司机的异常及车上的两名大汉逼近而愈演愈烈，方凌被迫面临困境并经历生死时刻。文件中的情节涉及自我认知的混乱，性别变化的冲突，以及潜在的性别暴力等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_钥匙（12）.docx]([其他]_钥匙（12）.docx)
 | Size            | 23207 bytes                           |
 | MD5             | c82a8a3afd34899d07cbe4bea8997740                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 心理斗争, 惊悚, 性别认同, 身份危机, 变身, 恐怖, 自我探索, 女性视角, 大学生活, 获救, 异世界, 魔法, 冒险, 虚拟现实, 恐惧, 屈辱, 少年成长, 青春爱情, 心理描写, 生存挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

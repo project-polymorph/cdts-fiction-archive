@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【扶他】黏液之愛《十三》：鴛鴦浴.doc]([附
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别主题的小说第十三章，标题为《鴛鴦浴》。文中描写了一对男女在经历了强烈的性行为后，彼此相互欣赏和审视的场景。故事中，角色经历了性别转变，角色间的性别认同和情感关系彼此交融，展现了他们对自我身体与性别认知的探索和接受。文中细腻地描绘了两名角色在性生活后，彼此之间亲密的互动与独特的情感交流，包括在浴室中互相清洗的细节。文本使用了大量的身体隐喻与性暗示，展现了角色们在探索新身体带来的身份认同与愉悦感的过程中，产生的情感变化和心理冲突。整篇情节轻松诙谐，同时不乏对性身份的深刻反思与认识。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【扶他】黏液之愛《十三》：鴛鴦浴.doc]([附
 | Size            | 44544 bytes                           |
 | MD5             | 1569267071e87a10f5baee6eb5ed6e6c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 爱情, 强烈性爱, 自我认同, 浴室互动, 情感探索, 二次元, 女性视角, 扶她, 激烈性爱, 甜蜜互动, 秘恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

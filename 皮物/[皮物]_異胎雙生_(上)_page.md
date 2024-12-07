@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_異胎雙生_(上).doc]([皮物]_異胎雙生_(上).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件的标题为《異胎雙生_(上)》，焦点集中在主角安里身上，他是一名在外商企业工作的年轻男性。故事开始于一个周末，安里在和同事道别后踏上回家的路，虽然脸色沉稳，但眼角透出微笑，显然他期待着回到自己精心布置的小套房。安里面临着两种身份的冲突，一方面是在职场上被众多女性视为理想对象，另一方面他心中却暗藏着渴望改变性别的愿景。故事中详细描写了安里在家中使用各种道具，包括女性衣物和特殊的设备，逐渐进行身体和性别的转换。这些场景带有明显的性暗示和强烈的情色内容，文字描绘了安里对自己身体的清洗和装扮过程，其中涉及了对自慰以及对女性角色形象的向往与体验。此外，安里在穿搭与塑形中追求完美的追求，也反映出对自我认同的探索与挣扎。整体上，这部作品通过对安里心灵与身体变化的深入刻画，探讨了性别认同、自我接受等复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_異胎雙生_(上).doc]([皮物]_異胎雙生_(上).doc)
 | Size            | 46080 bytes                           |
 | MD5             | e121d3aee438e15bfe98f6cee9eeda8d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 自我认同, 性别探索, 虚拟现实, 成人文学, 情趣用品, 心理描写, 异性角色扮演, 性欲, 焦虑, 社会压力, 自我认知, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

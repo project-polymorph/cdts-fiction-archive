@@ -7,7 +7,7 @@ TXT 下载: [[改造]_喜欢可爱的东西难道不好吗2.doc]([改造]_喜欢
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为一篇关于性转与跨性别主题的小说，故事主要围绕角色健与其弟弟龙一之间的互动展开。健在学校放学后感到头晕，回家途中与弟弟的对话中，感受到对弟弟龙一某种特别的情感，甚至表达了对弟弟可爱的赞美。这种情感的变化使健内心感到困惑和不安。在随后的一段私人时间里，健发现自己收到的一个女式内裤的礼物，并在内心的鼓动下试穿了它。在试穿过程中，健体验到了前所未有的愉悦与迷惑。故事通过细腻的心理描写，反映了角色的性别认同及自我探索的复杂过程，同时伴随一些情感上的冲突和期望。文中还涉及了角色间微妙的情感波动，以及对性别认同的思考。整体内容通过对角色心理的剖析和情节的发展，展现了丰富的性别主题，适合关注性转换与跨性别议题的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_喜欢可爱的东西难道不好吗2.doc]([改造]_喜欢
 | Size            | 40448 bytes                           |
 | MD5             | 61c5ac0184b95eb2397f6c4fb8f17d6c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 心理冲突, 性转, 伪娘, 龙一, 亲情, 成长, 内心独白, 情感纠葛, 可爱文化, 二次元, 跨性别, 情感暗示, 社会认同, 性别表现                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](10).docx]([改造]_永
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名男性在梦境中意外陷入变身为女性的经历，叙述了他逐渐适应新身体的心理变化和感官体验。在故事开端，主人公体验到了身体的被动控制感，描述了与另一个女性角色孙俪的互动。在梦中，他看到孙俪以舞女的姿态表演，并产生了强烈的性冲动，接着梦境转入了更深层的自我认知与身体转换中。主人公的意识与孙俪的身体相互交织，展现了对身体变化的抵触与好奇，同时也触及了性别认同的问题。随着情节的发展，他发现自己已经完全被困在了孙俪的身体里，体会到她的感受，心理冲突与身体的敏感体验交织在一起，使得故事情节更具吸引力与复杂性。最后，他对孙俪的男友产生了强烈的嫉妒与不安，这进一步深化了角色的内心斗争和情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](10).docx]([改造]_永
 | Size            | 20738 bytes                           |
 | MD5             | 954621cbe7779904797c9339f8d2e921                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 梦境, 自我认知, 心理冲突, 身体认同, 女性角色, 跨性别体验, 情感纠葛, 嫉妒, 两性关系, 二次元, 强烈性冲动, 身体敏感, 敏感体验, 变身, 伪娘, 成人内容, 现代都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的继母是男人三_暧昧.docx]([皮物]_我的继�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个跨性别题材的小说片段，描绘了主人公与外貌如女性但实际上是男性的继母之间复杂的情感关系。故事中，继母的外表吸引了周围的目光，而主人公内心虽清楚她的真实性别却仍对她产生了情感。小说通过细腻的描写展现了两人之间的亲密互动，以及主人公对自身性别认同和情感迷惑的探索。继母用轻松调侃的方式和主人公进行互动，但在背后又隐含着对性别身份的深刻思考。文中提到的“人皮假象”使得主人公对继母的真实身份产生了不可避免的困惑。尤其是在一段意外的亲吻后，主人公面临着情感的觉醒与性别认同的挣扎。整个故事在性别角色与情感之间塑造了复杂而微妙的关系，同时也反映了社会对跨性别和性别认同的讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的继母是男人三_暧昧.docx]([皮物]_我的继�
 | Size            | 18399 bytes                           |
 | MD5             | e42dfdc751916c7838cff915b3d06b19                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 青春期, 情感探索, 人皮假象, 亲密关系, 性别认同, 家庭关系, 社会认知, 悖论, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

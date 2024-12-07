@@ -7,7 +7,7 @@ TXT 下载: [[改造]_进化指环之李代桃僵篇【完本】.doc]([改造]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《进化指环之李代桃僵篇》的完整文本，讲述了一段发生在邮轮上的浪漫爱情故事。故事的主要角色顾云明是一位年轻的男性，他在清晨的海面上感受到宁静和温暖的阳光，思绪却隐约被某些未解的情感困扰。随着情节的发展，他与女友千雅的感情逐渐升温，两人互许承诺，准备结婚。不过，他们在船上的甜蜜时光被围观群众打断，展现出青春爱情中的羞赧与甜蜜。与此同时，文件中记录了顾云明与他的管家赵璃之间的亲密关系，也暗示出其家庭背景的复杂与微妙。整个故事夹杂着轻微的色情暗示，细腻的心理描写与互动，展现了爱情的微妙和人际关系的复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_进化指环之李代桃僵篇【完本】.doc]([改造]_�
 | Size            | 211456 bytes                           |
 | MD5             | b4279220b331beaf2abbefa0c233bead                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 爱情, 邮轮, 浪漫, 承诺, 青春, 性别认同, 自我探索, 亲密关系, 甜蜜, 羞赧, 变身, 二次元, 温柔, 女性视角, 同志, 禁忌恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

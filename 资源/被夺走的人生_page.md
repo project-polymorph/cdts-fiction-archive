@@ -7,7 +7,7 @@ TXT 下载: [被夺走的人生.docx](被夺走的人生.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《被夺走的人生》主要讲述了一位名叫高涵的女性角色的日常生活和内心世界。故事开头，高涵如同往常一样醒来，面临着照顾小表弟的责任。在她的生活中，除了常规的家务和学校生活，她的心理变化和性别角色的认同也逐渐浮出水面。文中详细描述了高涵的身体特征，特别是身材和穿着对她自我认知的影响。她在与好友谷晓颖的关系中，展现出对性别认同和自我探索的心理斗争。随着情节的发展，文中描写了她与表弟意外产生的心理困惑和好奇，这使她的内心更加复杂。这种情感的细腻描绘使读者得以窥探到在性别与亲情互动中如何形成的自我认同。整体来看，该文本涉及了性别认同、自我探索等主题，情节发展与角色之间的互动反映了青春期特有的困惑和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [被夺走的人生.docx](被夺走的人生.docx)
 | Size            | 161153 bytes                           |
 | MD5             | b3a6f405504669ae89b40c394eec2bb8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 自我探索, 青春期, 性别认同, 家庭关系, 青春爱情, 内心独白, 角色发展, 心理斗争, 情感纠葛, 日常生活, 性感内衣, 独立女性, 社会期待, 美体艺术                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

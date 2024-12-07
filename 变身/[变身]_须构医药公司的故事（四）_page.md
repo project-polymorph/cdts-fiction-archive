@@ -7,7 +7,9 @@ TXT 下载: [[变身]_须构医药公司的故事（四）.doc]([变身]_须构�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一部跨性别与变身主题小说的章节，讲述了主角曾波在经历了一系列奇异事件后，变身为女性的故事。故事中，曾波与好友林小方之间逐渐形成了复杂的心理互动，林小方对曾波的变化充满了惊讶和好奇，而曾波对于自己身体的改变感到困惑与无奈。文中详细描绘了曾波的身体状态转变，包括误吸收了护士的身体特征，从而导致身体和心理上的双重变化。二人在寻找栖身地点的过程中，曾波努力处理自我认知的冲突，林小方则对社会与性别的刻板印象进行了深入的思考和反思。
+
+同时，文本中包含了一些对身体变化的诡异想象，如曾波的敏感触觉和林小方透明的如果冻般的状态，文本探索了性别认同、欲望和对自身身份的迷茫等主题，呈现了一场关于性别转换和自我认知的奇幻旅程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_须构医药公司的故事（四）.doc]([变身]_须构�
 | Size            | 42496 bytes                           |
 | MD5             | 9889a183f7220e27e99afa12c0c0da3c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 自我认知, 欲望探索, 性别认同, 幽默, 都市奇幻, 友情, 心理冲突, 二次元设定, 女性视角, 扭曲心理, 性别角色, 情感纠葛, 性别转换, 社会批判, 个人成长, 生活困境, 幻想, 黑暗幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

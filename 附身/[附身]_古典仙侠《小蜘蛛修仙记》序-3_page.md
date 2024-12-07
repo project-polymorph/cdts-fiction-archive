@@ -7,7 +7,7 @@ TXT 下载: [[附身]_古典仙侠《小蜘蛛修仙记》序-3.doc]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说的序章以一个高危角色——采花大盗葛尤的视角开启。故事设定在一个月光斑驳、薄雾缭绕的夜间森林，葛尤因重伤而无法逃脱，面对追杀他的人竟然是一位绝代佳人白清妍。虽然快要死去，他却仍然对这位佳人充满了爱慕之情。这一幕不仅展示了角色的性格，也在暗示着他对死亡的独特看法。接下来的情节转向他重生的经历，葛尤意外地变成了一只蜘蛛，并获得了附身于女性的能力。随着他对自己新身份的认识，这个故事将探索性别转变、自我认知的冲突和转变过程。小说将主题围绕性别认同和欲望展开，展现了一种灵魂与躯体之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_古典仙侠《小蜘蛛修仙记》序-3.doc]([附身]_�
 | Size            | 63488 bytes                           |
 | MD5             | e06dbecc0e468a74b650dd8b7e360f87                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 幻想, 自我探索, 情感纠葛, 妖怪, 重生, 蜘蛛, 绝代佳人, 爱慕, 剧烈情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

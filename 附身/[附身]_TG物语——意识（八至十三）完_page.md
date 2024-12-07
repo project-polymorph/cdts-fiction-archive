@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——意识（八至十三）完.doc]([附身]_TG
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《TG物语——意识（八至十三）完》的部分内容，主要围绕一个拥有特殊能力的角色对女性身体的强行占据和意识同化进行叙述。故事开头通过角色的视角展示了一夜繁华背后的阴暗面，角色在夜晚寻找站街女作为实验对象。在与一位年轻女孩进行交易后，角色通过其能力进入女孩的意识空间，试图完成意识的同化。在一系列的实验过程中，角色逐渐掌握了这种能力，并对其潜在的影响和伦理问题进行了思考。文件内描述了角色对于自己行为的内心冲突，以及对女孩意识同化过程的冷酷分析，突出性别认同和意识转移的主题。最终，角色的实验造成了女孩意识的丧失，在新闻中成为了植物人，角色则得到了解自己能力的新认知。该内容探讨了自我认同与他人意识的侵犯，涉及复杂的心理与道德问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——意识（八至十三）完.doc]([附身]_TG
 | Size            | 59904 bytes                           |
 | MD5             | 1f5b4f1731f4623100584ad07de7d32c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 意识同化, 性别实验, 自我认知, 伦理问题, 意识转移, 强奸, 黑暗社会, 反乌托邦, 心理探讨, 都市, 小说, 二次元, TG物语                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

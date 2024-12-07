@@ -7,7 +7,7 @@ TXT 下载: [[附身]_新粉红之塔（附身、催眠、剑与魔法）(二).d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《新粉红之塔（附身、催眠、剑与魔法）》的小说描绘了一个奇幻的故事，主要讲述了一位名为罗恩的三级法师在经历夺心魔蜕变仪式失败后的奇妙遭遇。故事的开头，罗恩获得了夺心魔一族的部分能力，但同时也承受着随之而来的挑战——一个夺心魔幼体。罗恩通过得到菲茨的记忆，逐渐发现自己可以选择的发展道路。文中细腻地描绘了罗恩与其控制的少女丽雅之间的互动，反映了角色性别、身份和亲密关系的复杂性。丽雅展现出青春气息，外表可爱而娇羞，文中对她的描写充满了细节，突出她的美丽和吸引力。在故事中，罗恩内心的挣扎与渴望交织着展现，情感深邃而复杂。随着丽雅的存在，罗恩面临着情感与伦理的冲突，使得故事充满张力与悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_新粉红之塔（附身、催眠、剑与魔法）(二).d
 | Size            | 74613 bytes                           |
 | MD5             | e5a39e304d172ca8f76d102a0a78e283                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 催眠, 奇幻, 魔法, 心灵术士, 傀儡师, 青春, 角色互动, 情感冲突, 法师, 少女, 自我探索, 身份认同, 超能力, 耽美, 校园幻想, 二次元, 生理性别, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

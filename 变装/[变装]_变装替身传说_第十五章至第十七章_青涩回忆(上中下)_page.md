@@ -7,7 +7,7 @@ TXT 下载: [[变装]_变装替身传说_第十五章至第十七章_青涩回�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《变装替身传说》的一部分，包含第十五章至第十七章的内容，主要围绕角色的心理变化及其在变装环境中的遭遇。故事设定在一个充满女性角色的空间， protagonist（主角）在误入一间休息室后，被一位女警打扮的美女调侃，并在一群女性中感到局促不安。随着剧情的发展， protagonist 感受到周围女性角色的强烈魅力，同时有多重误解与擦边球的情节。在文中， protaginist 试图撇清与身份的联系，然而不断被基层管理者倩姐牵扯入更复杂的局面。随后， protagonist 被迫面临即将到来的生物课程，故事情节伴随着强烈的性别混淆与身份互换的冲突。多个情节涉及性暗示与调侃，展示了不同角色之间的心理战与情感波动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_变装替身传说_第十五章至第十七章_青涩回�
 | Size            | 44475 bytes                           |
 | MD5             | 5237ff0bcc7d71c88c6adc70b609a142                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 跨性别, 性别认同, 自我探索, 情感纠葛, 强奸, 调教, 校园, 奇幻, 角色扮演, 女性视角, 校园生活, 生物课程, 制服诱惑, 心理战                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

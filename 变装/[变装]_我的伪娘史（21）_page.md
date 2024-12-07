@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的伪娘史（21）.docx]([变装]_我的伪娘史（2
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《我的伪娘史（21）》是一篇以小说形式呈现的跨性别题材作品，讲述了一名男生在伪娘与性别认同间的探索与自我认知。故事开始于一个凌晨，主人公经历了一天的奔波，在沐浴后美美地睡了一觉，反映了他在性别表现和日常生活中的冲突与迷茫。文件中以对话形式展示了主人公与朋友们的互动，尤其是其伪装与友谊的关系。在球场上的社交场景中，主人公的外表和行为引发了朋友们的误解与调侃，展现了社会对性别表达的复杂反应。随着故事的发展，主人公还接到了不同朋友的电话，并被邀请去网吧，进一步揭示了他在友谊、性别角色以及身份认同上的挣扎。通过这些细腻的日常描写，作品探讨了性别流动性以及年轻人在寻找自我认同过程中的心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的伪娘史（21）.docx]([变装]_我的伪娘史（2
 | Size            | 16960 bytes                           |
 | MD5             | 0444c2918ef6e6d17bc4bd893f26aeeb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | jijinglf                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 跨性别, 青春, 自我探索, 性别认同, 网络游戏, 友谊, 误解, 性别表达, 球场                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

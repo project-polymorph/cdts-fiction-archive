@@ -7,7 +7,7 @@ TXT 下载: [[改造]_小李的沉沦_【第三章_堕落在女装的周末】.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名名叫李君子的角色经历的小说章节，描绘了他在一个奇怪的周末中所经历的性别认同和身体转变的情节。故事开始于一个疲惫的早晨，李君子发现自己与过去的自己有了距离，镜子中映出的面孔带着些微的变化，似乎开始向女性化倾斜。随着后续情节的发展，李君子在朋友林菲的催促下，进入了一家桑拿工作，并在过程中接触到异样的事物和情感。这围绕着他逐渐变得迷恋女性衣物和举止的自我探索，伴随着来自他人的影响推动着他向女性角色的转变。小说深入探讨了性别认同的复杂性与自我认同的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_小李的沉沦_【第三章_堕落在女装的周末】.d
 | Size            | 33792 bytes                           |
 | MD5             | 160aba953c7be551ca85802bff381727                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身小说, 跨性别, 伪娘, 男娘, 桑拿, 奇幻, 心理转变, 青春成长, 性别角色, 社会观念, 幻想与现实, 强烈情感, 文化冲突, 异世界, 变嫁, 约定与现实, 性别流动, 变装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

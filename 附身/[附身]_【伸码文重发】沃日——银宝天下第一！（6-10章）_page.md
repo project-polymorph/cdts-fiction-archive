@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【伸码文重发】沃日——银宝天下第一！（6
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘、变身与跨性别主题相关的小说章节，讲述了主人公元伊和元梓在寒冷环境中经历的一系列事件。故事中，元伊因冻伤而虚弱，元梓则努力照顾姐姐并试图获取他人的衣物来保暖。情节展现了两人之间的深厚情谊和对生存的执着。与此同时，丁问这个角色意识到自己即将失去生命，他的灵魂与身体的互动引发了一系列奇幻的情节，包括神秘的白衣女子的出现，以及她对丁问的拯救。细腻的细节描写呈现了角色内心的挣扎与情感冲突，展现了温柔与痛苦交织的奇幻冒险过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【伸码文重发】沃日——银宝天下第一！（6
 | Size            | 94720 bytes                           |
 | MD5             | 18a028cdc6d30a28b630c3f95e8114b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 温情, 妖怪, 友情, 自我探索, 法术, 生存, 奇幻, 姐姐关系, 修炼, 灵魂, 狐族, 身体变化, 寒冷环境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

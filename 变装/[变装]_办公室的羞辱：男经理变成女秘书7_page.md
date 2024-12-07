@@ -7,7 +7,7 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书7.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别变换和女性化训练的小说。故事主要围绕安德鲁与凯瑟琳之间的互动展开。凯瑟琳在不断地帮助安德鲁进行女性化训练，要求他穿戴女性服装并学习表现出女性的举止。安德鲁在逐渐适应这些要求的同时，也内心挣扎着他对自己男性身份的认同。文件中描绘了安德鲁逐渐失去男子气概的过程，以及他在职场中的尴尬处境，例如他开了一辆亮粉色的小甲壳虫车，面对同事们的窃笑。同时营造出一种轻松却又带有羞辱感的氛围，反映出性别认同与自我探索之间的复杂关系。凯瑟琳利用对安德鲁的控制进一步增强他的屈辱感，这种控制不仅体现在日常生活，还包括职场中的被动与不适应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书7.docx]([变�
 | Size            | 16364 bytes                           |
 | MD5             | 821b1b8ea1c815b8530c2b98f843e6a6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别变换, 女性化训练, 伪娘, 办公室情节, 羞辱, 跨性别, 自我探索, 角色扮演, 社会性别, 职场文化, 成瘾, 男性羞辱, 高跟鞋, 指甲油, 二次元幻想, 心理戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

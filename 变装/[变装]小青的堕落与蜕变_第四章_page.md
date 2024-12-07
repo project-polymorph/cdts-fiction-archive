@@ -7,7 +7,7 @@ TXT 下载: [[变装]小青的堕落与蜕变_第四章.doc]([变装]小青的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《小青的堕落与蜕变》的第四章，内容围绕主角小青变装女装，以及其与白素贞之间的感情纠葛展开。小青为了赢得白素贞的心，决定女装并实施假婚计策，计划在报恩之后双宿双飞。然而，许仙作为白素贞的恩人，不知情地在城外的墓地祭扫父母，小青在前往途中承受着路人注目，内心充满矛盾。她一方面感到羞耻，另一方面又对女装产生了莫名的刺激感。同时，文件展示了小青与白素贞为实现“偶遇”而做的布置，描绘了女装过程中的自我认知的冲突。小青在路人面前的感受流露出角色在性别认同上的探索与挣扎，体现了当代性别与情感的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]小青的堕落与蜕变_第四章.doc]([变装]小青的�
 | Size            | 37376 bytes                           |
 | MD5             | 6c549f1c29aca34356b97a0ed0e97686                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 白素贞, 许仙, 小青, 假婚, 自我认知, 情感纠葛, 矛盾心理, 女装体验, 清明节, 西湖游玩, 二次元, 妖怪, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

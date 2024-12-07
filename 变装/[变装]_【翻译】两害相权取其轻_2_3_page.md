@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译】两害相权取其轻_2_3.doc]([变装]_【翻
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性转与跨性别主题的小说章节，描绘了角色艾瑞克在与尼克发生关系过程中的心理和身体转变。故事中，艾瑞克逐渐接受其女性化身份海莉，并表现出对尼克的强烈吸引与依赖，尤其是在亲密关系中的情感碰撞和身体探索。文本描写了艾瑞克在与尼克的亲密互动中所经历的矛盾——既渴望被接纳，又对自己的变化感到困惑。“我想要你，尼克。我想要你的阳具。”展现了其意识到自身欲望的复杂过程。这部分内容可能包括一些限制级的情节，但它同时探讨了性别认同、自我接纳等深层主题，是一部探讨变性人及性别认同的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译】两害相权取其轻_2_3.doc]([变装]_【翻
 | Size            | 70144 bytes                           |
 | MD5             | 58838868eb84d8cc4d117f0bf0b27ae7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变装, 伪娘, 强奸, 恋爱, 自我探索, 男娘, 调教, 多元性别, TSF, 逆后宫, 女体化, 雌堕, 虚拟现实, 魔法少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔女的狂氣之夜_-_狹縫.docx]([皮物]_魔女的狂
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于少女与恶魔之间的互动故事，涵盖了奇幻与恐怖的元素。故事的开头描绘了一位少女因为哥哥的失误而愤怒，随后她意外召唤了一只恶魔。在与恶魔的纠缠中，少女陷入了一种异样的境地，被一种叫作“触手虫”的生物侵入身体，经历了极为痛苦扣人心弦的情节。这种生物逐渐侵入她的身体，从小穴开始，到子宫，再到大脑，过程中少女既感受到恐惧和痛苦，又在不知不觉中获得了一种奇异的快感，最终在经历一系列剧烈转换后，她的身份被彻底蜕变，变成了拥有恶魔特征的生物。故事探索了性别认同、自我认知和欲望交织的复杂主题，并包含大量生动的描绘与情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔女的狂氣之夜_-_狹縫.docx]([皮物]_魔女的狂
 | Size            | 22054 bytes                           |
 | MD5             | dd82b9e7dbc8cb37f127060bff6e9cf9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 恶魔, 性转, 触手, 跨性别, 欲望探索, 恐怖, 奇幻, 自我认知, 女性角色, 生物改造, 黑暗幻想, 异物侵入, 神秘生物, 都市奇幻, 心理扭曲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

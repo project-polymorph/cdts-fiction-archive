@@ -7,7 +7,7 @@ TXT 下载: [[其他]_春物同人之形态变化.doc]([其他]_春物同人之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为春物同人小说《状态变化 俺ガイル》，作者为龍@TSFもの書いてるぜ。故事围绕比企谷八幡、叶山隼人和由比滨结衣之间的三角关系展开。在一场网球比赛中，因魔法的作用，主要角色的身体发生了奇特的改变。比企谷和叶山为了争夺由比滨展开激烈竞争，但却卷入了身体变形和相互之间的感情纠葛。作品通过对角色性别和身份的奇特设定，探讨了自我认知、情感竞争等主题，比如比企谷为了赢得结衣而做出的牺牲。在故事发展中，角色们的身体逐渐被改造成球拍，彼此之间也因此产生了奇异而复杂的情感。最终，比企谷获得了心爱之人，但同时也留下一些未解的情感纠结。作品结合了奇幻与恋爱的元素，展现了二次元中的性转与身份认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_春物同人之形态变化.doc]([其他]_春物同人之�
 | Size            | 34816 bytes                           |
 | MD5             | c46926c426580ae9854bc3156cf103c9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 龙@TSFもの書いてるぜ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 二次元, 跨性别, 强奸, 校园, TSF, 伪娘, 男娘, 纯爱, 变嫁, 魔法, 人际关系, 恋爱情感, 奇幻, 网球                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

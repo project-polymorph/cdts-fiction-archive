@@ -7,7 +7,7 @@ TXT 下载: [[变身]_妖狐巫女打工.doc]([变身]_妖狐巫女打工.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于一名男性角色在神社工作的奇幻小说。故事开始于男主看到了神社招募巫女的海报，提供高额薪水后决定申请。抵达神社后，他被要求穿上巫女服装并服用一种药物。睡眠中，他的身体发生了戏剧性的变化，变成了一个妖狐女性，并开始了为期一周的巫女工作。小说描绘了他在神社工作时面临的困惑与新奇体验，包含了对身体变化的不断探讨，并经历了上司的性骚扰和心理斗争。随着工作的进行，他逐渐接受了自己的新身份和角色，同时感受到了妖狐身体带来的快感，这种变化引发了对性别认同和自我认知的思考。小说的情节包含了大量的性暗示和不适合未成年人观看的内容，突出表现了变身、性别转换、以及对身体的探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_妖狐巫女打工.doc]([变身]_妖狐巫女打工.doc)
 | Size            | 56320 bytes                           |
 | MD5             | 23ab9996f8845233f0d65c239c45c519                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 妖狐, 巫女, 性别转换, 自我认同, 性骚扰, 青春期危机, 性别研究, 奇幻, 药物化, 女性身体体验, 二次元, 幻想故事, 男娘, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

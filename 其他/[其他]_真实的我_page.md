@@ -7,7 +7,7 @@ TXT 下载: [[其他]_真实的我.docx]([其他]_真实的我.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件展示了一位32岁男性在性别认同与性别认知方面的内心挣扎与探索。作者回顾了自己的成长经历，从5岁开始对女装的渴望，到青少年时期开始接触性，以及在网络世界中以女性角色展现真实自我的过程。在大学期间，通过网络游戏结识了一位女性朋友，虽然是假扮的女性身份，却激发了作者对爱情的幻想与内疚感。工作后，作者在日常生活中继续追寻女性化的体验，尝试各种变装方法，并通过性玩具探索新的快感。文中还提到了面对变性的想法与现实之间的矛盾，最终选择了通过网络追求自我认同的方式来释放内心对女性的渴望。文件的末尾，作者表达了对未来转变的希望，渴望能够实现性别的真正转换。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_真实的我.docx]([其他]_真实的我.docx)
 | Size            | 18901 bytes                           |
 | MD5             | a2eb06b2ca9b375f0e710a337293bd17                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变性, 女装, 网络恋爱, 跨性别, 内心挣扎, 男性身份, 虚拟现实, 同性恋, 成长经历, 女装癖, 情感冲突, 家庭生活, 心理挣扎, 性幻想, 欲望释放                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

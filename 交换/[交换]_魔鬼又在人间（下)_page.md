@@ -7,7 +7,7 @@ TXT 下载: [[交换]_魔鬼又在人间（下).docx]([交换]_魔鬼又在人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部关于校园生活和性别身份探索的小说，主要叙述了一位男生在面对校园霸凌和性别认同过程中发生的故事。在初夏的校园篮球场上，男生们在比赛中充满活力和激情，但与此同时，女主角石韵在校园暴力中遭受欺辱，使她引起了主角的关注。主角则以魔鬼的身份，决定介入并挑战霸凌者，通过一场赌注来改变霸凌的局面。小说中涉及了角色的变身和身体交换等情节，通过主角的视角描绘了身体与性别的冲突，展示了角色在自我认知和性别认同过程中的挣扎与探索。文中运用了丰富的细节描写，例如男主角与何灿之间的对话与行动，展示了校园生活的复杂性和多样性，同时加入了一些轻松幽默的段落与幻想元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_魔鬼又在人间（下).docx]([交换]_魔鬼又在人�
 | Size            | 23914 bytes                           |
 | MD5             | 3baa0cdd2e575d26eb30e38521fb7cc4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园纠纷, 性别认同, 魔鬼角色, 身体交换, 青春成长, 篮球比赛, 校园霸凌, 赌约, 男扮女装, 女性视角, 校园生活, 自我探索, 变身, 逆袭, 娱乐活动, 感情冲突, 幻想元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

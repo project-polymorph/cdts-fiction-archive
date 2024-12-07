@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝都风云_（八）.doc]([皮物]_帝都风云_（八�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《帝都风云》第八章的内容，主要围绕温蒂妮在其父亲尼莫到来之前的心理活动与情感波动展开。温蒂妮在王妃的寝宫中静候父亲的到来，正准备迎接重要的相聚时刻，然而她内心的不安和焦躁逐渐浮现。在与绿衣女子莉迪亚的对话中，温蒂妮得知即将面临的考验，不仅要伪装成王妃，还要完美隐藏真实身份。章节还涉及到一把名为‘天使之匕’的奇异武器，并为温蒂妮的潜在暗杀任务埋下伏笔。随着剧情的发展，尼莫作为宰相的身份与对女儿的深厚感情交织呈现出来，引发了剧中对权力与情感交错的思考。章节结尾，尼莫接到意外消息，面临潜在的危机， suspense 和紧张的氛围为之后的故事发展提供了有力的引导。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝都风云_（八）.doc]([皮物]_帝都风云_（八�
 | Size            | 79872 bytes                           |
 | MD5             | ea5de4669b13b1400c6e9ec6e6d58b4e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 刺杀, 权力斗争, 王妃, 宫廷 intrigue, 变身, 自我认知, 角色身份, 紧张气氛, 情感冲突, 武器, 暗杀任务                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

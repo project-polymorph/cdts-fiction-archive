@@ -7,7 +7,7 @@ TXT 下载: [[其他]_迷宫_第三章.doc]([其他]_迷宫_第三章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为第三章的内容，主要围绕角色爱尔莎与亚人盗贼之间的冒险故事展开。爱尔莎在与亚人交战中收获战利品，但随着多次重生现象的出现，她对于村中亚人的生命观产生了变化。小队在野外安营，未料遇袭，展开了一场与森精灵的激烈斗争。在遭遇失败后，爱尔莎一行被捆绑并被迫到达一个热闹的亚人市场。在此，众人被捆绑关押，并面临性奴役的命运，爱尔莎经历了一连串的羞辱与侵犯。文中详细描述了她内心的挣扎和对身体变化的无奈，同时揭示了人性在极端情况下的脆弱与扭曲。内容涉及较强的性暗示与性暴力情节，适合研究性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_迷宫_第三章.doc]([其他]_迷宫_第三章.doc)
 | Size            | 48640 bytes                           |
 | MD5             | fb3414c36369f5e7d799cb99d22eb54b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 强奸, 乱伦, 奴役, 冒险, 血腥, 魔法, 异世界, 性奴, 自我认同, 生态迷宫, 情欲, 兽人, 亚人, 森精灵                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

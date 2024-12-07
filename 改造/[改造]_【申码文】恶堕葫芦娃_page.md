@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【申码文】恶堕葫芦娃.doc]([改造]_【申码文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《恶堕葫芦娃》，是一个围绕经典角色葫芦娃展开的伪娘和跨性别变身小说。故事发生在一个充满幻想和魔法的世界，主要讲述了蛇精和她的丈夫蝎子精在逃避七个葫芦娃追杀的过程中，蛇精试图通过魔化葫芦娃变他们成为自己的孩子，以此来改变自己的命运。故事详细描述了蛇精的内心挣扎、对未来的恐惧以及对权力和亲密关系的渴望。随着情节的发展，蛇精逐渐展现了她控制和支配葫芦娃的计划，甚至在过程中进行了心理上的操控，让大娃接受了她的变化并最终依赖于她。文本中涵盖了复杂的心理变化，包含了诸如自我认同和性别转换等主题，呈现出一个充满挑战与幻想的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【申码文】恶堕葫芦娃.doc]([改造]_【申码文�
 | Size            | 45056 bytes                           |
 | MD5             | ffd451dbd55e2ba4ed6d9787dcbf8d7f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 恶堕, 蛇精, 葫芦娃, 变身, 跨性别, 妖精, 权力, 亲子关系, 魔法, 心理操控, 幻想, 二次元, 纯爱, 女儿, 重生, 妖力侵蚀, 自我探索, 甜蜜, 母性, 反转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,11 @@ TXT 下载: [恶魔的记事本.doc](恶魔的记事本.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《恶魔的记事本》，由作者红枫多情撰写，字数约为6839字。故事围绕一位普通的阿宅展开，他在无聊的生活中意外下载了一个神秘的恶魔记事本，允许他在字数限制内许愿，从而引发了一系列变化与混乱。文中描写了主角对美女的幻想与渴望，以及通过记事本如何逐渐走向道德的堕落。
+
+故事从主角的无聊生活开始，描述了他在学校与班花的相遇，以及对她的心仪。在获知记事本的能力之后，他用这个工具任意改写自己的命运。随着他的欲望不断膨胀，许下的愿望变得愈加疯狂，最终导致了对其他角色的侵犯和控制，表现出一种扭曲的爱情和性欲。
+
+使用的元素包括记事本和恶魔的交易，利用许愿梗设定，暗示了人性中的阴暗面与最大的欲望。文中涉及的情节同时也不乏色情及幻想元素，包括对班花的身体控制等，展现了一种极具挑衅和刺激性的故事结构。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [恶魔的记事本.doc](恶魔的记事本.doc)
 | Size            | 50688 bytes                           |
 | MD5             | 5517b55cf702ff0478a14d94c0ebb624                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 红枫多情                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 恶魔, 变身, 性转, 幻想, 自我探索, 爱情, 欲望, 青春, 道德堕落, 勇敢尝试, 禁忌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

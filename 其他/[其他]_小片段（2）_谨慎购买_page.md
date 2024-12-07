@@ -7,7 +7,7 @@ TXT 下载: [[其他]_小片段（2）_谨慎购买.docx]([其他]_小片段（2
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一段暧昧而充满欲望的情节，主人公和燕子在内衣区的相遇中激起了强烈的情感交流，伴随着对彼此的挑逗和吸引。在一个偶然的情况下，主人公和燕子发现彼此有着意外的相似之处，似乎暗示着更深的联系。返回家中后，燕子的惊喜打扮引发了主人公强烈的欲望，描绘了细致入微的描述：燕子身穿粉色内衣、高跟鞋，展现出修长的腿部和优雅的身材，脸上妆容精致，诱惑力十足。随着情节的发展，主人公被燕子的魅力所征服，产生了无法自控的冲动，紧接着展开了一系列亲密的互动。在描写他们的亲密接触中，文中展现了一种热烈而激烈的爱情体验，同时也暗示了角色能力的变化和燕子对变身的渴望。最后，两人的激情令彼此关系进一步升温，燕子请求主人公帮助她报复一位恶毒的同事，展现出她内心深处的复杂情感和对权力的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_小片段（2）_谨慎购买.docx]([其他]_小片段（2
 | Size            | 16168 bytes                           |
 | MD5             | c76c3551ec826f5391fdd69761f1633d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 内衣, 亲密, 强烈欲望, 变身, 调教, 现代都市, 爱情, 永恒快感, 复仇, 暧昧, 自我认知, 女性角色, 高级道具                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

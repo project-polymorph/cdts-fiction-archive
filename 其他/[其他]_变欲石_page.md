@@ -7,7 +7,7 @@ TXT 下载: [[其他]_变欲石.doc]([其他]_变欲石.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一个名叫赵信的男孩与他的青梅竹马秦静和苏晓之间关系的故事。赵信性格平凡，学习一般，父母常年外出工作，因此身边没有太多朋友。然而，他与两个性格迥异的女孩秦静和苏晓关系密切。秦静温婉优雅，学习成绩优秀，而苏晓则性格活泼开朗。在成长过程中，他们三人之间的友谊经历了一系列的情感波动。故事中提到小静（秦静）面临着被男孩们追求的情况，但她却心中纠结如何拒绝情书，因而反映出青春期对于情感的困惑和内心成长。此外，故事引入了一个神秘的“变欲石”，它的功能涉及性别和自我认同的转换，而这一切都给赵信带来了探索爱的契机。整体上，故事探讨了青春的迷茫、友谊的珍贵、以及在变幻的情感世界中的自我认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_变欲石.doc]([其他]_变欲石.doc)
 | Size            | 60928 bytes                           |
 | MD5             | 45855f1a13dbb53785aeb35d25875839                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 青梅竹马, 青春, 自我探索, 性别认同, 失恋, 变身, 情感, 魔法, 懵懂爱情, 成长, 变欲石, 心灵成长, 友情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

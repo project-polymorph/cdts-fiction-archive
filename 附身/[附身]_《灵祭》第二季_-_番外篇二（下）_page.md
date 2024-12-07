@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《灵祭》第二季_-_番外篇二（下）.docx]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《灵祭》第二季的番外篇二（下），作者是紫依。故事围绕冯杰及其朋友们的互动展开，主要情节包括冯杰与附身在妮卡身上的林武之间的对话与冲突。林武通过妮卡的身体恢复精气，并主动与冯杰展开亲密的性交行为。文本中详细描述了他们之间的生理互动和性认同的探讨。故事涉及附身、变身和性别角色的交换等主题，同时包含了大量成人内容、电力角色转换及自我认同的深层探讨。文本在描绘生动的情感与欲望的同时，也反映了角色们在性别身份上的挣扎和自我探索。请注意，本文含有明显的色情内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《灵祭》第二季_-_番外篇二（下）.docx]([附�
 | Size            | 20960 bytes                           |
 | MD5             | b8a4d9c020cc006bf59d315f7a6661d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 灵祭, 番外篇, 附身, 跨性别, 变身, 性别认同, 自我探索, 性转, 成人内容, 超自然, 奇幻, 角色扮演, 欲望, 人物关系, 情感纠葛, 性行为, 神秘力量, 幻想小说, 二次元文学, 伪娘, 调教, 强奸, 淫荡, 逆后宫, 调教, 多重身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

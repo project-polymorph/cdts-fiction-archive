@@ -7,7 +7,7 @@ TXT 下载: [[其他]_人性本恶(6).docx]([其他]_人性本恶(6).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部在性别转换背景下展开的小说的章节，主要讲述了主人公陈文在梦中经历了变身为女性的奇异体验，并逐渐适应以女性身份生活的故事。陈文穿着女性衣物，面临形象和身份的双重挑战，梦境与现实交错，内心的挣扎和自我认知的变化成为了故事的核心。故事通过对衣物、妆容的细致描写，以及陈文与周围人物的互动，展现了性别认同与生活角色的冲突。同时，文件中描绘了陈文在职场上的新身份，从上班第一天的慌乱到面对下属的复杂心情，生动地体现了变身后的新生活和所带来的心理冲击。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_人性本恶(6).docx]([其他]_人性本恶(6).docx)
 | Size            | 20290 bytes                           |
 | MD5             | cadc2f7d73464ddd013de5ecd7646d57                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身小说, 自我探索, 职场生活, 幻想, 心理冲突, 梦境, 女性视角, 变记忆, 强烈的个人体验, 情感纠葛, 生活的扭曲, 性别认同, 青春成长, 二次元, 现代小说, 男性角色的女性化, 性别角色挑战, 职场文化, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

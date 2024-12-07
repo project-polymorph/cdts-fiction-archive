@@ -7,7 +7,7 @@ TXT 下载: [[变身]_计算器7-9.docx]([变身]_计算器7-9.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇性转题材的小说，描述了主角通过神秘计算器进行性别转换的过程。故事的开头提到主角在课堂上与同学赵馨妤一起探索一款神秘计算器，该计算器似乎具有改变性别的功能。随着剧情发展，主角试图使用计算器选择学号以激活新的功能，最终经历了一场突如其来的身体变化，胸部迅速膨胀并经历了少女身体发育的整个过程。该文档的语言充满了校园生活的细节，展现了主角心理的挣扎和对新身份的恐惧与期待。小说中包含了一些轻微的色情元素，涉及对身体感知的细腻描写，以及对性别认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_计算器7-9.docx]([变身]_计算器7-9.docx)
 | Size            | 32511 bytes                           |
 | MD5             | 8948d1ba516ac81d751104f4734f415a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 伪娘, 青春校园, 自我认知, 身体变化, 性别认同, 女性形象, 心理冲突, 二次元, 魔法, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

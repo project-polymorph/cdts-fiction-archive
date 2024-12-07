@@ -7,7 +7,7 @@ TXT 下载: [[附身]_换世_第一章.doc]([附身]_换世_第一章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部跨性别与变身题材的小说第一章，背景设定在神秘的圣拉罗王国，时间为圣历1587年。故事以王国二皇子兰达在光明节后进行王储册封仪式为开端，展现了王室内外的复杂关系与潜在阴谋。兰达在仪式上面临着家族成员与教廷的期望，同时，妹妹拉瓦莉因不堪承受杀人案的惊骇而情绪崩溃，揭示了王国即将来临的危机。文件深入探讨了权力、性别认同及附身等主题，涉及娴熟的剑术、高超的魔法以及角色间的情感纠葛。故事同时描绘了魔法世界中的跨性别元素，通过艾玛的附身能力和拉瓦莉的转变，探讨性别与身份的模糊界限。该文包含一些限制级内容，通过艾玛与角色间的互动以及情欲描写，展示出对权力与身体的渴望与控制。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_换世_第一章.doc]([附身]_换世_第一章.doc)
 | Size            | 49152 bytes                           |
 | MD5             | 528336ddddb88ccdbcb36f756425738a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性转, 魔法, 王室, 冒险, 附身, 权力斗争, 情感纠葛, 自我探索, 禁药, 角色转换, 性别认同, 少年勇者, 光明教, 神秘陷阱, 魔法世界, 性别模糊, 古代奇幻, 青年成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

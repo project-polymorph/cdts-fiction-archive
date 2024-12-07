@@ -7,7 +7,7 @@ TXT 下载: [[变身]_魔法少女！？嗷嗚！（此篇無TG).docx]([变身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于变身与魔法少女主题的小说，故事围绕一名男子杉木的内心挣扎与发现过程而展开。在一个雷雨交加的夜晚，杉木行走在无人的街道上，思念已离去的爱人，表达出他的无奈和孤独。与此同时，他偶然发现了一只被遗弃的小猫，这只小猫引发了他强烈的保护欲。接下来，故事带领读者进入杉木的梦境，与一个名为黑子的角色展开亲密关系。黑子有着猫耳，展现出一种可爱的形象，并与杉木之间建立了深厚的情感纽带。随着情节的发展，他们在游乐园中经历了一系列有趣又刺激的冒险，同时也暗示了潜在的危险。黑子的角色复杂多变，展现了对性别认同与自我的探索。整篇故事充满了幻想与现实的交织，同时融合了一些潜在的悖论情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_魔法少女！？嗷嗚！（此篇無TG).docx]([变身]_
 | Size            | 33318 bytes                           |
 | MD5             | 457b693b038017ac13e27b5e86d6b8b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法少女, 性别认同, 爱情, 梦境, 奇幻冒险, 猫耳角色, 内心挣扎, 情感纠葛, 恶魔与怪物, 异界, 青春, 探索自我, 游戏元素, 恋爱心理, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮鞭(上).docx]([皮物]_皮鞭(上).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《皮鞭(上)》的部分内容，讲述了一位少年陳平为姐姐陳嬌购买情趣用品的故事。该故事中描绘了情趣用品店的一幕，少年在店内询问购买皮鞭和其他情趣用品。故事的开头，陳平鬼鬼祟祟地进入店里，显示出对购买情趣用品的紧张和羞涩。随后，陳平与店老板的对话中，逐渐揭开了他与姐姐之间独特的关系和性癖好，透露出陳平的TG（变装）倾向及与姐姐共用情趣用品的生活场景。小说不仅涉及性别认同和自我探索等主题，还通过幽默对话和幽默场景展现了角色间的互动。尤其是当陳平使用皮鞭后，陳嬌发生了身体上的巨大变化，似乎变成了一块布料，这一段情节又融合了奇幻和变身元素。整个故事充满性别转变、跨性别者的情感探索和动态反转的奇妙感受，值得深入探索和分析。文中涉及到一些限制级的情节，需谨慎对待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮鞭(上).docx]([皮物]_皮鞭(上).docx)
 | Size            | 18273 bytes                           |
 | MD5             | b2587583635549d387dcbf0afa17ac79                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, SM, 情趣用品, 跨性别, 同性恋, 兄妹关系, TG, 奇幻, 成人内容, 调教, 黑暗幻想, 情感探索, 奇特性癖, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

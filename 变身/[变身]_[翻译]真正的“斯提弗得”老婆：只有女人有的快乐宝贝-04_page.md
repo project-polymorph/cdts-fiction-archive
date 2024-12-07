@@ -7,7 +7,11 @@ TXT 下载: [[变身]_[翻译]真正的“斯提弗得”老婆：只有女人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以性转主题为中心的小说，讲述了一位角色经历了生理性别的转换，逐渐接受了自己作为女性的身份，体验怀孕与成为母亲的喜悦与挑战。角色从最初的男性身份过渡到女性身份，伴随着身体的变化，小说详细描绘了她的胸部发育与怀孕的体验，以及与伴侣之间的亲密关系。
+
+在故事的进行中，角色逐渐适应了自己作为女性的生活，包括身体变化所带来的情感与生理上的困扰。她在与其他女性的互动中，体验了各种性别角色的转变与自我认同。例如文中提到：“我真的怀孕了……我最喜欢的是马克温柔抚摸我的小腹，感觉肚子里的小宝贝踢动。”
+
+整部小说围绕性别认同和自我探索展开，混合了强烈的情感和生理欲望，展现了怀孕过程中的生理特征及个人情感的纠葛，包括与伴侣之间的性爱场景。小说的剧情涉及到了奶头分泌乳汁和生育的快感，以及对成为母亲的期待与喜悦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变身]_[翻译]真正的“斯提弗得”老婆：只有女人�
 | Size            | 20466 bytes                           |
 | MD5             | 00fa9588f1a5109a3c92216dd95b7215                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Edwin Gay                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 怀孕, 自我探索, 生育体验, 女性身份, 性转, 亲密关系, 强烈情欲, 粉红色乳头, 乳汁分泌, 变身, 角色扮演, 淑女教育, 身体变化, 爱情, 情感纠葛, 母性, 交流与亲密, 家庭生活, 二次元, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

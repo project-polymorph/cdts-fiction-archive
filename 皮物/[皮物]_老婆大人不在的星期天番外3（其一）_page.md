@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_老婆大人不在的星期天番外3（其一）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一位名叫王小明的角色在假期中的一段变装冒险故事。王小明已经27岁，既是故事的叙述者，亦是变装文化的实践者。在假期的最后一天，他回忆起与其超级美女妻子吴丹凤的相处。吴丹凤不仅外表出众，且个性独特，展示出外柔内刚的一面。故事细致描绘了王小明对变装的热爱，并介绍了他与妻子在这方面的互动与探索。通过使用高科技的“人皮”装置，王小明展示了其对性别表现的自我认同与探索。在描写过程中，包含大量关于身体与心理变化的细致描绘，以及对社交身份的思考。文中包含了一系列与变装、性别认同、情感关系相关的复杂情节，展现出丰富的人物发展与情感动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_老婆大人不在的星期天番外3（其一）.docx]([�
 | Size            | 18251 bytes                           |
 | MD5             | 7a1a822275c0451f9f4f6d82750d65c0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 自我认同, 爱情, 科技幻想, 肉体改造, 日常生活, 成年男性, 情感关系, 家庭关系, 女装, 性别表达, 性转, 真实与虚幻, 二次元文化, 心理探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

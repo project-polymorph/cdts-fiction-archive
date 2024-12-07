@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_藥水（上）.docx]([皮物]_藥水（上）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕角色左锋展开，呈现他对周围女性的审美和幻想。故事开始通过左锋无所事事的街头闲逛，描述他对穿着黑丝袜女性的欣赏，展现了他对于美腿的偏好。随着情节的发展，左锋的好友赢当转学，并且左锋意外得知他的日语老师与一个老教授之间的秘密交谈。通过偷听，左锋了解到他的好友赢当似乎在与老教授讨论一种奇特的“人皮水”，并暗示赢当已经取代了日语老师的身体。左锋对这一过程感到震惊，内心复杂的情感和想法交织在一起。整个故事在时而逗趣、时而紧张的氛围中，引发了对于性别身份和身体认同的深层思考。此文触及了性别转换的主题，并在一定程度上包含了成人向的内容，例如对于日语老师性感形象的描绘和其与老教授的私密交流，表现了角色之间的性暗示和欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_藥水（上）.docx]([皮物]_藥水（上）.docx)
 | Size            | 22351 bytes                           |
 | MD5             | d869b1513a87a309afcd19ce921c6584                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身小说, 成人向, 性幻想, 日本老师, 黑丝袜, 偷听, 身体交换, 校内密事, 男性视角, 性别认同, 人皮水, 自我探寻, 狐朋狗友, 阴暗情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

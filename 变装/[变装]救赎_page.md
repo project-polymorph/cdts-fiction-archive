@@ -7,7 +7,7 @@ TXT 下载: [[变装]救赎.doc]([变装]救赎.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为一篇性别变换相关小说《救赎》的开篇，以轻松幽默的视角展开。故事的主人公是王诗怡的弟弟，一个刚放暑假的年轻人，在家享受自由的日子，他的姐姐是一名在电视台工作的新闻主播。某天，男主收到了一份快递，里面是一台奇特的笔记本电脑，打开后却发现电脑屏幕上显示的内容逐渐让他陷入一种奇异的状态，并引导他开始自我认知的变化。在与姐姐的对话中，男主发现自己与姐姐之间的关系以及他对自己身份的理解正在发生微妙的变化。整篇文中夹杂着对性别认同及角色扮演的探讨，展现了主人公的内心挣扎和对自我身份的反思。文中使用了生动的描写，如“我一丝不挂地跪在地上看着屏幕”，体现了主人公在奇幻与现实交错中的心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]救赎.doc]([变装]救赎.doc)
 | Size            | 44032 bytes                           |
 | MD5             | 0434a8751684d9dd9a3313e46e58cecc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性转, 自我认同, 心理斗争, 姐妹关系, 科技幻想, 禁忌恋, 性别认同, 快递谜团, 成长故事, 都市奇幻, 成年人的玩具, 内心探索, 身份危机, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

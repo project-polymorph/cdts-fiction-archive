@@ -7,7 +7,7 @@ TXT 下载: [[变装]_八拜之交第九拜-闺阁密友（三）.docx]([变装]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《八拜之交第九拜-闺阁密友（三）》围绕曹家大少爷曹凌云和他的弟弟曹凌霄之间的权力斗争，以及两位女性苏芷卉和裴芷蕊的命运展开。小说开篇交代曹老爷去世后，曹凌云掌管家族事务，开始打压两位曾受宠的女子苏、裴，谋求将她们逐出曹府。随着情节发展，两位佳人虽然心如死灰，却逐渐被二少爷曹凌霄的甜言蜜语所吸引，开始对他产生情愫。在酒宴中，曹凌霄对苏、裴二人表达倾慕，两位女子最终接受了这个男子的暗示，一同陷入情欲纠葛，展开了一场禁忌而狂热的恋情。文中涉及许多关于性别与性欲的隐喻，描绘了角色之间复杂的情感关系，并包含了大量露骨的情欲描写，揭示了封建家族中的权力与欲望交织的隐秘角落。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_八拜之交第九拜-闺阁密友（三）.docx]([变装]
 | Size            | 19873 bytes                           |
 | MD5             | 48230bb944a334a8e27dba0fd4129dd7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 禁忌恋, 权力斗争, 院落秘事, 情欲纠葛, 小说, 情色文学, 古代爱情, 女性视角, 权谋, 兄弟争斗, 男女关系, 两性关系, 恋爱, 阴暗面, 家族情仇, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_艾尼希亚战记（一+二）.doc]([皮物]_艾尼希亚
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《艾尼希亚战记（一+二）》小说的部分章节，主要描绘了在神奇的希罗迪大陆上，艾尼希亚王国经历了战斗后的矛盾与权力斗争。故事中充满了紧张的气氛与复杂的角色关系，主人公们在王国的混乱中寻求新的开始和权力的争夺。文件不仅描绘了魔族与人类的战争背景，还深入探讨了角色们内心的挣扎和自我认同，尤其是在性别和权力转变方面的情感矛盾。在情节发展中，先锋官伊勒与魔族美艳代表碧姬之间的互动揭示了角色间微妙的权力动态，最终导致了魔族权力的再分配和激烈的权力斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_艾尼希亚战记（一+二）.doc]([皮物]_艾尼希亚
 | Size            | 61440 bytes                           |
 | MD5             | b8ae27d0bd241f90d19c3c13abf7addb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 艾尼希亚王国, 魔族与人类战争, 权力斗争, 先锋官伊勒, 性别认同, 角色转变, 魔法和幻想, 自我探索, 权力游戏, 阴谋与反转, 二次元小说, 伪娘, 男娘, 变装, 魔法少女, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

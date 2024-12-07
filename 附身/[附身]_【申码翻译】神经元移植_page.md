@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【申码翻译】神经元移植.docx]([附身]_【申码
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于角色意识转移的小说，讲述了主人公约翰·皮尔蓬特·摩根·巴克豪斯在一次意外后意识转移到一个名为维吉妮亚·德莱文的少女身体中。故事从约翰的视角展开，他回忆起自己作为一名商人的过去，描述了自己的贪婪与婚姻不幸。文中提到的手术过程，涉及到对其大脑神经元的移植手术，医生梅斯解释了这一过程，并说明了约翰在离世后如何被重新唤醒。随着故事的发展，主人公需要适应新的性别与身份，体验到过去与现实时空记忆的交替，展开一系列关于自我认同与探索的叙述。小说中还涉及了一些关于角色与家庭关系的复杂情感，尤其是与母亲的关系。整体上，作品探讨了身份如何构成，以及在身体与意识转换下，个体如何面对自身的性别与记忆冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【申码翻译】神经元移植.docx]([附身]_【申码
 | Size            | 82670 bytes                           |
 | MD5             | ea016b92bd0fde14916697e8ce3afefa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 角色意识转移, 自我认同, 家庭关系, 科幻, 神经科学, 女性视角, 意识重启, 身份探索, 记忆交错, 搬迁身体, 青少年成长, 贪婪, 情感纠葛, 身份危机                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

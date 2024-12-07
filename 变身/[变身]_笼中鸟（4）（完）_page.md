@@ -7,7 +7,7 @@ TXT 下载: [[变身]_笼中鸟（4）（完）.doc]([变身]_笼中鸟（4）�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《笼中鸟》是一部涉及性别身份认同与变身主题的小说，围绕女主角爱丽丝的逃亡经历展开。故事讲述了爱丽丝在和路西法的亲密接触中，心理上逐渐接受了女性身份，并对路西法产生了复杂的情感。爱丽丝经历了在教室学习与逃离的心理拉锯，描述了她的自我探索过程与对身体变化的认识。在故事中，爱丽丝既是反抗者也是受害者，面对各种魔法与生存的考验，她的情感与身体反应交织在一起，使她不得不重新审视自己的身份。在经历了一系列危险与挑战后，爱丽丝最终选择向路西法献身，揭示了她内心深处对力量与爱的渴望。整体上，这是一部融合了奇幻冒险与青少年成长主题的变身小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_笼中鸟（4）（完）.doc]([变身]_笼中鸟（4）�
 | Size            | 44544 bytes                           |
 | MD5             | 2e58cd56e731e811561d660bbe4d3300                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 逃亡, 性别认同, 爱情, 魔法, 纯爱, 自我探索, 女仆, 力量, 心灵成长, 魔界, 情感纠葛, 生存压力, 心理斗争, 禁忌关系, 女性身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

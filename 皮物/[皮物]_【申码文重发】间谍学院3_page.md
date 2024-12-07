@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文重发】间谍学院3.docx]([皮物]_【申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部名为《间谍学院（3）》的小说，文本描述了一位角色在间谍学院的生活和经历。故事以性感的女主角柳洁为中心，描绘了她在工作后更衣室内的场景，穿着诱人的服装，引发上司许副行长的注意。在双方的调情中，情节急转直下，涉及到身体的诱惑和性行为，展现了角色在自我认知上的冲突和内心的挣扎。柳洁原本是一个男性角色，通过变身的设定，她体验到了作为女性的生活，但同时也面临着身份被盗用等危险情境。在故事的后半段，柳洁被绑架并遭遇一位模仿她身份的男性，这一突发状况使情节更加紧凑与复杂，反映了角色对自我身份的探讨及性别与权力关系的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文重发】间谍学院3.docx]([皮物]_【申�
 | Size            | 20958 bytes                           |
 | MD5             | 5d617b50baa8ffaae706f34cd1778ded                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 间谍, 跨性别, 性认同, 身份盗窃, 吸引, 情欲, 诱惑, 强奸, 性感, 男女性别转换, 职场关系, 权力动态, 私人领域, 心理挣扎, 调情, 多重身份, 女性视角, 复杂关系, 未知身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

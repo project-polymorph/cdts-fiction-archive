@@ -7,7 +7,7 @@ TXT 下载: [[变装]_礼仪课3,4.doc]([变装]_礼仪课3,4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是伪娘和跨性别相关的文档，具体内容为一部名为《礼仪课》的小说部分，描绘了角色在女仆角色训练中的复杂心理和身体体验。故事围绕女主角丽莎的成长与自我认知展开，她在女教师拉文德小姐的严格教导下，经历了从羞怯到逐步接受自己作为女仆的身份过程。文本中涉及了诸多情感和性内容，包括角色之间的服从与调教、性别认同的冲突，以及通过性行为展现的地位与权力动态。尤其强调了一种被动与服从的关系，丽莎在自我探索的过程中，面临着道德和情感的挣扎。在某些情节中，丽莎被要求执行与她所学礼仪截然不同的命令，进一步加深了角色对自我身份的迷茫与探索。通过与其他女角色马西娅的互动，丽莎更是体验到了一种新的关系与情感连接，突显了心理和性欲之间的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_礼仪课3,4.doc]([变装]_礼仪课3,4.doc)
 | Size            | 36864 bytes                           |
 | MD5             | 92bbab5c5fa88717e6753e0b4b12a775                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 女仆, 调教, 性别认同, 服从, 自我探索, 纯爱, 跨性别, 性绘本, 心理冲突, 校园生活, 角色扮演, 魔法, 奇幻, 二次元, 情感戏, 情欲, 羞耻, 同人小说, 调教文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

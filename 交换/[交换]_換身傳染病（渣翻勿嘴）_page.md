@@ -7,7 +7,7 @@ TXT 下载: [[交换]_換身傳染病（渣翻勿嘴）.docx]([交换]_換身傳
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《换身传染病（渣翻勿嘴）》是一部探讨群体换身现象的小说，描绘了一个特别的设定：在一个没有察觉的日子里，全球人民的身体被随机交换，由此引发了一系列混乱和适应挑战。故事的主人公直树在早晨醒来后，发现自己身处一个全新的身体中，拥有金色长发和高挑的模特身材，而他所熟悉的父母与朋友也都换了身体。他面临着身份认同和性别认同的困惑，既要适应新的身体特征，又要处理与这些变化相关的心理冲突。随着故事的发展，直树和他的同学们在学校中发现，他们不仅要面对自己的身体变换，还有由于身份交换导致的社交困扰与尴尬。特别是在课堂上，老师和同学们的变化让整个学习环境充满了陌生感。小说充满了幽默与讽刺，但也不乏对性别身份和自我认同的深刻探讨，特别是直树对于身体变化的反应，以及其与周围人的关系变化，表现出了对性别流动性的敏感和现代社会中人们对于身份的再思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_換身傳染病（渣翻勿嘴）.docx]([交换]_換身傳
 | Size            | 24529 bytes                           |
 | MD5             | 816551772578bd4a010e401f64627d44                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 换身, 性别认同, 心理冲突, 自我探索, 身份混乱, 伪娘, 变身, 青春校园, 二次元小说, 搞笑, 社会实验, 全球现象, 搅局, 性别流动性, 身体交换, 同学关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

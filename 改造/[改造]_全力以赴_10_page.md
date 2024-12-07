@@ -7,7 +7,7 @@ TXT 下载: [[改造]_全力以赴_10.docx]([改造]_全力以赴_10.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是多元性别中文数字档案馆中的一篇伪娘 TS 变身与跨性别相关的小说摘录。在第10章中，主角面临着与父母的艰难对话，内容描述了他与伴侣克莱尔在即将见到父母前的紧张情绪。在车内，克莱尔安慰主角，告诉他情况可能会很糟，同时也暗示了父母对其性别认同的冲突和失望。主角担心父母的看法，以及他们对自己选择的接受程度。故事中，父母的反应表现出传统家庭对新兴性别认同观念的挣扎，尤其是父亲对主角的失望和母亲的悲伤。内容同时探讨了家庭、接受与自我认同之间的对立，以及主角试图传达自己真实自我的决心。文中用平和却充满情感的语言描绘了这一艰难的时刻，突显了家庭之间的爱与理解的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_全力以赴_10.docx]([改造]_全力以赴_10.docx)
 | Size            | 53167 bytes                           |
 | MD5             | 50dfd276bb6cc0423faaa2c7b628b8b2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 自我认同, 家庭冲突, 情感探索, 性别认同, 亲子关系, 心理斗争, 情感支持, 生活选择, 变性, 克莱尔, 失望, 家庭支持, 自我表达                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

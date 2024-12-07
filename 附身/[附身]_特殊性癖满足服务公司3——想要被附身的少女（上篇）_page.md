@@ -7,7 +7,7 @@ TXT 下载: [[附身]_特殊性癖满足服务公司3——想要被附身的少
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说继续讲述了主人公孙园秋的故事，她是一个家境富裕的女大学生，性格腼腆，因父母忙于工作而缺少陪伴。在与男友长孙洋的感情日渐平淡的情况下，孙园秋感到焦虑与无聊。一次，闺蜜钱佳琪推荐她一个特殊的服务公司，提供以附身满足性癖的服务。孙园秋出于好奇，决定尝试这种特殊的体验，经过一番交流，她最终选择了成为被附身的对象。在此过程中，孙园秋感受到身体被操控的奇妙，而这种体验让她开始接受各种不同的刺激和欲望。文章通过孙园秋的视角，描绘了她在温水与身体感知上的细腻变化，逐渐呈现出她内心的矛盾和渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_特殊性癖满足服务公司3——想要被附身的少
 | Size            | 62976 bytes                           |
 | MD5             | 5eba815c1c4badac9098f4f070aed3a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别转换, 附身, 强烈性癖, 自我认知, 性探索, 青春校园, 玛丽苏, 爱情, 二次元, 奇幻, 台词, 剧情反转, 欲望与禁忌, 快感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

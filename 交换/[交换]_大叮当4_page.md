@@ -7,7 +7,7 @@ TXT 下载: [[交换]_大叮当4.docx]([交换]_大叮当4.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是伪娘与性转主题相关的小说，分为四个章节，内容围绕校园生活中的一系列情感与性别角色的探索展开。在第四节中，主要描写了陈楚涵与大伟在校园中闲逛的场景。他们的对话中流露出对周围女性的调侃和性暗示，尤其是大伟与一名班长周峰的对抗。这一章节中，周峰试图解救被大伟侵犯的女孩，却反被女孩反击，情节诙谐而又带有不和谐的冲突。在接下来的情节中，女孩甚至主动献上自己的内裤，令人瞩目，展现了一种大胆的女性欲望。同时插入了王丽作为医师的情节，她在医务室接待学生，情节中隐含了性暗示与权力关系的扭曲，最终导致王丽面临危机。在全文中，语言直接且含有色情暗示，体现了对青少年性心理与性别认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_大叮当4.docx]([交换]_大叮当4.docx)
 | Size            | 23056 bytes                           |
 | MD5             | 21d09658bd44e0180956a21100633d8a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 校园小说, 跨性别, 性别认同, 强奸, 逆后宫, 调教, 独占欲, 青春期, 玩弄, 性暗示, 性别探索, 女性欲望, 心理冲突, 推翻常规, 尴尬情境, 权力游戏, 角色逆转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_守护，直到永远……（下）.docx]([皮物]_守护
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《守护，直到永远……（下）》，属于伪娘TS变身与跨性别相关的小说作品。故事围绕着一个充满幻想色彩的世界，讲述了一位圣女利用她的神力拯救即将沦陷的奥克兰王国的情节。故事中，圣女展示了巨大的神迹，召唤出众多光点，最终在城市和驻军中引发了混乱和恐慌，显示了她力量的震撼。通过对角色之间的对话与冲突的描写，展现了诸如性别认同、自我探索等主题。文中提到的主角伊丽莎白·圣鲁道夫，作为传承者在千年之前为了国家的未来，与女神达成了特殊的契约，并通过给后代留下传承的皮囊，承载着生命与记忆的延续。整篇作品中，融合了成长、牺牲和责任等重要话题，在奇幻的背景下，为读者展现了一场不仅仅是为了生存而战斗的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_守护，直到永远……（下）.docx]([皮物]_守护
 | Size            | 21531 bytes                           |
 | MD5             | 52f91fe8659f5a6ab8b175800d42d758                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 奇幻, 圣女, 契约, 牺牲, 自我探索, 力量, 神迹, 戏剧, 情感, 成长, 传承, 魔法, 王国, 英雄主义, 神话, 历史, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

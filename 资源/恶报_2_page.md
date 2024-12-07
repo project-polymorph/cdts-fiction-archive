@@ -7,7 +7,7 @@ TXT 下载: [恶报_2.doc](恶报_2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部跨性别和变装题材的小说，主要围绕主角丹恩和洛尔•斯坦顿之间的互动展开，融合了性别认同与自我探索的主题。故事开篇描绘了丹恩的日常生活和他对洛尔的思考，电影《迷恋荷尔蒙》的情节激起了丹恩的性冲动和对性别变化的兴趣。丹恩随后带洛尔回家，利用一种名为“叙事诗”的药剂来操控洛尔的心理，使其逐渐接受自己对变装的欲望。小说结尾，洛尔面对一柜子的女装，终于决定顺应内心的渴望，尝试穿上女性服装。整个过程中，包含了性别认同、自我探索、操控与暴露等复杂的心理情感与情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [恶报_2.doc](恶报_2.doc)
 | Size            | 41472 bytes                           |
 | MD5             | 392b8db9a17685a6428ddba0dc1a503f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变装, 性别认同, 药物操控, 欲望探索, 内心矛盾, 自我接受, A片情节, 自我认知, 变身小说, 二次元, 强烈欲望, 性转, 情感冲突, 性感角色, 女装控                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

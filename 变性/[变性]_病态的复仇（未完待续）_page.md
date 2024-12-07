@@ -7,7 +7,7 @@ TXT 下载: [[变性]_病态的复仇（未完待续）.docx]([变性]_病态的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《病态的复仇（未完待续）》，是一部关于变性手术与复仇的小说。故事围绕主人公王亚男展开，她决心通过变性手术来报复她曾经的朋友李慕豪，后者不仅破产了她父母的公司，还导致她深爱的女友柳依依的死亡。王亚男为此不惜花费一切进行手术，并在手术中承诺不会后悔。从故事中可以看出，她对复仇的执念以及为了实现复仇而进行身体变革的心理变化。手术完成后，王亚男变成了一个貌美如花的女性，令她意外的是，自己的外表与昔日女友柳依依相似。这份变换不仅是为了复仇，更是对身份和性别认同的探索，以及对痛苦的深刻反思。文件中详细描述了手术的过程，以及主人公对于复仇的憧憬与决心，显示了性别转变带来的内心冲突与情感波动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_病态的复仇（未完待续）.docx]([变性]_病态的
 | Size            | 61858 bytes                           |
 | MD5             | 21ae5c94fa26e51eafb1b4e031684aca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 复仇, 性别认同, 自我探索, 身体改造, 强烈仇恨, 心理冲突, 自我认知, 巫术手术, 女性重生, 二次元小说, 性转, 伪娘, 男娘, 爱情与仇恨, 成年内容, 刺激与痛苦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

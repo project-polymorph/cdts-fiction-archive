@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_我的催眠怕是假的吧.doc]([催眠]_我的催眠怕�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《我的催眠怕是假的吧》的小说，字数约10416字，讲述了主角张悬在18岁时的奇幻经历。故事起始于张悬找到家族族谱，在一家族宅中开始他的探险之旅。随着他的探索，他感受到周围环境的诡异变化和神秘力量的影响。故事中张悬大胆踏入未知的族地，经历了时间的曲折与空间的迷失，面对古老的家族秘密与不可思议的超自然力量。挑战与欲望交织，最终，张悬从未知的魔欲森林中醒来，经历了一段不可思议的旅程，充满自我挣扎与探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_我的催眠怕是假的吧.doc]([催眠]_我的催眠怕�
 | Size            | 60416 bytes                           |
 | MD5             | e45e3cc608a3a87bb12eb7e3657e4850                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | GJ呀                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-07-25                                 |
+| Tags            | 催眠, 性转, 自我探索, 家族秘密, 超自然, 幻想, 神秘, 冒险, 成长, 社会身份问题, 欲望与抉择, 时间扭曲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

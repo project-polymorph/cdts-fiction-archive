@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_关于我在路人女主的故事里入替女主ntr主角�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是涉及性别转换与变身的小说，讲述了一个名为霞之秋诗羽的高中女生，她在情趣用品店里挑选各种刺激道具，以利用自己所占据的女性身体，男主安艺伦也成为了她的目标。故事通过细腻的描写揭示了角色在性别转换后的内心活动和心理变化，表现了她对利用女性形象的兴奋和对安艺伦也的支配欲。小说内容以色情与心理游戏为主线，包含了如反转关系、性别身份认同、强烈情感等多重主题，以及对性欲和权力游戏的深刻探索。文中含有较多描写性行为和性暗示的内容，因此较为直白和露骨，但同时也反映出人物内心的冲突和渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_关于我在路人女主的故事里入替女主ntr主角�
 | Size            | 46080 bytes                           |
 | MD5             | 9484bedd97c0551ee77d33e8ae575f98                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 变身小说, 情色, 心理游戏, 自我探索, 强烈欲望, 情趣用品, 支配与被支配                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

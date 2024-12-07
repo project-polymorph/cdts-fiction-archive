@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【翻译】邻居的替代品.doc]([交换]_【翻译】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《邻居的替代品》是一本关于性别认同和角色交换的小说，讲述了一位名叫雅各布的16岁男孩，他在帮助自己的邻居琳达时意外发现了自己对穿着女性服装的渴望。故事开始于一个阳光明媚的初夏，雅各布计划在家享受假期，而他的邻居琳达则是一位46岁的女人，经常独自在家。雅各布被琳达的美丽吸引，出于善良的本性，他主动帮助琳达收拾掉落的购物物品。两人在交往中，雅各布逐渐向琳达倾述自己隐藏的身份和对女性内衣的兴趣，琳达同情地安慰他，建议进行角色的交换和学习以满足双方的欲望。随着故事的发展，雅各布和琳达之间的关系变得愈发复杂，涉及到内心的挣扎、自我探索以及性别认同的主题。小说不仅描绘了角色的外貌变化，还触及情感层面的深刻联系与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【翻译】邻居的替代品.doc]([交换]_【翻译】�
 | Size            | 72704 bytes                           |
 | MD5             | dd326138d4b7c6870c55666bd8a5165b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | SilviaTS                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 角色交换, 变装, 伪娘, 青春, 自我探索, 情感纠葛, 邻居关系, 心理分析                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

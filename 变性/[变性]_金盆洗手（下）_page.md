@@ -7,7 +7,7 @@ TXT 下载: [[变性]_金盆洗手（下）.docx]([变性]_金盆洗手（下）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《金盆洗手（下）》是关于茱莉这一角色的变性与自我认同的故事，涉及她在经历变性手术后的生活与心理历程。本文件描述了茱莉在接受手术后的恢复过程，面临幻肢痛的苦楚，以及她逐步适应女性身份的旅程。茱莉与身边角色的关系，如与玛丽索的互动，揭示了她在监狱生活中的心理斗争。在纸面下，她从过去的痛苦中寻找复仇的机会，而在新身份与旧关系之间的冲突，使得故事情节紧张而充满戏剧性。诸如“茱莉发誓，她一定会帮曼纽尔报仇”的情感描绘，展现了她内心深处的不平与愤怒。同时，文中也包含了对茱莉情感与身体的探索，如她被护士检查时的反应，进一步深化了角色的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_金盆洗手（下）.docx]([变性]_金盆洗手（下）
 | Size            | 28993 bytes                           |
 | MD5             | cd6fae6702b8f68ee750d63dd2d5ddf3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Katherine Leigh                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 自我认同, 复仇, 监狱, 女性身份, 社会性别, 心理挣扎, 变装, 二次元, 情感探索, 性别转换, 女性关系, 强奸, 生存斗争, 经典变身小说, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译申码文】躲藏的男友.docx]([改造]_【翻
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《躲藏的男友》，属于跨性别和性转相关的小说内容，主要围绕贾斯汀·托马斯（后更名为茉莉·玛丽·威尔逊）在抢劫后逃避警方追捕的故事展开。故事开始于贾斯汀在抢劫银行时被摄像头拍到，随后他决定去找前女友米歇尔寻求庇护。米歇尔意识到贾斯汀的困境，并开始制定计划，安排对他的身体进行手术改造，以帮助他逃避追捕。小说描述了贾斯汀经历手术后的蜕变，以及他和米歇尔之间复杂的关系。故事涉及的主题包括身份转变、自我认同和性别认同的挑战，特别是在主人公改变外貌和性别后与社会的互动。此外，文中还包含了色情内容和激烈的性描写，反映了角色之间权力和情感的斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译申码文】躲藏的男友.docx]([改造]_【翻
 | Size            | 58212 bytes                           |
 | MD5             | c3361b717fbffe0e9ae5da19daa03c7e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 改造, 身份认同, 自我探索, 伪娘, 黑市手术, 爱情, 逃亡, 变身, 情感冲突, 社会适应, 强烈性描写, 复仇, 新生活, 女性化, 复杂人际关系, 刺激剧情, 个人危机                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

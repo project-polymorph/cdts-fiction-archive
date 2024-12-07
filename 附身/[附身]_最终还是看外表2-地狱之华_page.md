@@ -7,7 +7,7 @@ TXT 下载: [[附身]_最终还是看外表2-地狱之华.doc]([附身]_最终�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性转与身份认同的小说，主要围绕角色纯奈与辉明的身体交换展开。故事开头，纯奈被不良男子辉明夺取了身体，辉明在使用纯奈的身份想要追求学生会副会长花美。随后，辉明（以纯奈的身份）利用自己的外貌优势试图操控他人的感情，成功诱惑花美的男友幸二郎。故事中涉及性别认同和自我探索的主题，辉明的内心不断纠结。文件后半部分涉及辉明与纯奈父母的互动，探讨了外在和内在身份认同的问题。结尾处，纯奈表现出对身份的无畏，甚至以自残威胁自己的家人，引发了对家庭关系和性别认同的深思。在这个过程中，作品表现了对外貌、身份和人际关系的严肃探讨和讽刺。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_最终还是看外表2-地狱之华.doc]([附身]_最终�
 | Size            | 54272 bytes                           |
 | MD5             | 2e8b1d9b18e16bbf4a82638dc1e73651                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 身体交换, 自我认同, 外表重要性, 情感操控, 心理冲突, 家庭关系, 青春爱情, 身份危机, 社会偏见, 纯爱, 强奸, 调教, 女仆, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

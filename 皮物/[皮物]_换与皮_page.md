@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_换与皮.doc]([皮物]_换与皮.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为“换与皮”，是一本描绘伪娘 TS 变身与跨性别相关小说的作品。故事发生在 Z 国 S 市的六月，气候炎热，主要围绕两位大学生杜浩和韦耀的生活展开。在一次发传单中，韦耀引出对社会现状的思考，并提到他的营养学背景以及对未来的期望。当他们正要去餐厅吃饭时，意外地被警察包围，随后故事的主线展开，韦耀被卷入了一场人质事件中。在不断的追逐与紧绑中，韦耀意外地与一位身材诱人、成熟的女性吴雨薇产生了更多的关系。小说在情节发展中充满了张力和伦理冲突，描绘了角色在变身、性别认同及自我探索过程中的复杂情感，包含了出乎意料的情节反转与激情描写，展现了主人公内心的矛盾与挣扎。文中通过角色的互动和探索，揭示了人与人之间的情感关系以及性别转换带来的身心变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_换与皮.doc]([皮物]_换与皮.doc)
 | Size            | 438272 bytes                           |
 | MD5             | 22bef629fdef1d0729b6f32596dfa48a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 自我认同, 青春, 爱情, 强烈情感, 情节反转, 大学生活, 社会现象, 性别探索, 热血单纯, 伦理冲突, 成人情节, 复杂情感, 角色互动, 女性视角, 人质事件                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

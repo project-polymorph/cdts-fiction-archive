@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_「火车小作文」_衡淼中学郗校长的小故事.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《火车小作文》，描绘了衡淼中学校长郗佑金在学校年终庆功大会上的讲话和后续事件。在庆祝会上，郗校长激昂澎湃地表示学校在高考中的卓越表现，强调了教职工和社会各界的支持。接着，文中转向了郗校长与张秘书私下的互动，描绘了在办公室内发生的情欲交流，涉及性暗示和欲望的表现。文本中不仅包含了对角色外貌的细节描写，还穿插了性转、变身的情节，最终演变为对性别和身份认同的探索。整体而言，此文档通过对性别角色和权力关系的扭曲，呈现了性的交替和个人欲望的表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_「火车小作文」_衡淼中学郗校长的小故事.do
 | Size            | 40448 bytes                           |
 | MD5             | 69a055a80cbe4f8b521ec452a940489d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 教师, 秘书, 权力关系, 情欲, 校园, 性别认同, 二次元, 强奸, 调教, 堕落, 淫荡, 多元性别, 纯爱, 逆后宫, 黑丝, 美腿, 女教师                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

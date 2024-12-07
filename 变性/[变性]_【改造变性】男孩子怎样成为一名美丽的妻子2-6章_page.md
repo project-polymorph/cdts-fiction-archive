@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【改造变性】男孩子怎样成为一名美丽的妻�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《改造变性》系列小说的第2至6章，主要围绕主人公青木雄村的性别转变及其后面的故事展开。小说描述了青木雄村在老公面前进行性别角色的训练，他被迫穿上女性服装，体验作为女性的羞耻与屈辱。而这背后隐藏的却是复杂的人际关系与权力斗争。随着故事的展开，雄村发现自己被卷入一场涉及贩卖人口的阴谋之中。小说通过性别认同与角色转换，探讨了自我认知、羞耻感与权力关系的主题。文中出现了对夫妻关系的描绘，同时涉及了家庭、恋爱、社会压迫等元素，表现了角色在受制于男性权威时的绝望与挣扎。文本充满了令人不安的情节，体现出性别转换中的心理变化和人际关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【改造变性】男孩子怎样成为一名美丽的妻�
 | Size            | 37888 bytes                           |
 | MD5             | 22e56ad0e928fe7205c1629596aadb99                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 办公室训练, 跨性别, 妻子角色扮演, 羞耻感, 人际关系, 权力斗争, 性别角色, 反转情节, 监禁, 贩卖人口, 日记体裁, 自我探索, 情感纠葛, 都市小说, 奇幻元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

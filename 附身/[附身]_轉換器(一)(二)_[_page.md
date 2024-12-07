@@ -7,7 +7,7 @@ TXT 下载: [[附身]_轉換器(一)(二)_[.docx]([附身]_轉換器(一)(二)_[
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《附身 轉換器(一)(二)》属于多元性别相关小说，讲述了主角阿男因在情人节收到一个神秘的转换器，能够附身于他人，从而进行自我复仇的故事。文中描述了阿男使用转换器附身于校花李芷怡，通过操控她的身体来报复同班同学陈振奮。在这个过程中，阿男体验了女身的魅力，并在一次不可描述的事件中与陈振奮发生了性关系，之后用录制的视频进行策划和报复，最终导致陈振奮受到法律制裁。该文本包含了强烈的性暗示和复仇的主题，涉及性别认同和角色转换的情节，适合对此类题材感兴趣的研究者或爱好者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_轉換器(一)(二)_[.docx]([附身]_轉換器(一)(二)_[
 | Size            | 17435 bytes                           |
 | MD5             | 885b3a263c9e6d5d0ce3dc74160326bb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 附身, 强奸, 复仇, 校园, 色情, 转化, 猎艳, 自我探索, 女性视角, 调教, 恶作剧, 同性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

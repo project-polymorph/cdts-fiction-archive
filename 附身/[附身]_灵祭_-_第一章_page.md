@@ -7,7 +7,9 @@ TXT 下载: [[附身]_灵祭_-_第一章.docx]([附身]_灵祭_-_第一章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《灵祭》的第一章，作者为daivem。故事以大学生陈家文为主角，讲述了他与同班女同学许怡之间的情感纠葛与互动。故事开头，陈家文搬出学校宿舍，选择租住一个单间以独立生活，期间他与许怡的互动逐渐加深。许怡的形象被描绘为清秀可爱而单纯，但当她主动向陈家文示好时，事情开始急转直下，打破了他们的正常界限。两人之间的关系在一系列亲密行为中开始恶化，许怡在言语中透露出自己对陈家文的情感，甚至表现出强烈的身体需求和主动性。
+
+小说内容未遵循传统的情感发展，而是使情节转向了更加敏感和禁忌的领域，涉及到性行为和情感的深层冲突。本章不仅描绘了角色间的情感，还表现了他们在性别与欲望上的复杂交织，挑战了社会对性别与性行为的规范。整体文本包含大量成人内容，情节细腻且富于感官刺激，适合成年受众阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_灵祭_-_第一章.docx]([附身]_灵祭_-_第一章.docx)
 | Size            | 19402 bytes                           |
 | MD5             | f8b084192590773787eaf368caeb5622                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | daivem                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 大学生活, 禁忌爱情, 情感纠葛, 性别认同, 青春, 成人内容, 性欲探索, 肉体关系, 角色扮演, 幻想, 青春期, 欲望, 刺激                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

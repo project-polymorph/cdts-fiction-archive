@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼　２.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说《小龙女狂想曲》之南海神尼的第二节内容，主要围绕角色郭襄与其姑姑小龙女之间的搞笑与情感互动展开。内容涉及性别转换与性别认同的主题，郭襄在情节中因练习古墓派的特技而变化，同时描写了她与其他角色，包括金轮法王、小棒头等的幽默对话与独特境遇。文本中有涉及成人情节的描述，例如性欲、性别变化与角色之间的亲密行为，特别是郭襄的角色在水中受到情感与生理上的双重挑战。该作品融入了性转、伪娘、古墓派等多个二次元元素，体现出对性别流动性的探讨与表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼　２.docx]([变�
 | Size            | 18714 bytes                           |
 | MD5             | abbc8f8939d6a4ea0eb1f199e3d038ab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 古墓派, 成人内容, 爱情, 幽默, 郭襄, 小龙女, 金轮法王, 性别认同, 成长, 自我探索, 古代武侠, 性转, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

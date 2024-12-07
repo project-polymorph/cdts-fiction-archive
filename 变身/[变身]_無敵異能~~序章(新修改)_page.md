@@ -7,7 +7,9 @@ TXT 下载: [[变身]_無敵異能~~序章(新修改).docx]([变身]_無敵異�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于变身与穿越题材的小说序章，详细描绘了两个主要角色的对立情景与冲突。开头描述了一片宁静的荒地，两个角色分别为可爱的女子与英俊的男子，女子展现出令人着迷的外貌，男子则表现出强烈的防备心理。女子试图引诱男子成为她的奴隶，而男子坚决拒绝，认为女子施展了妖法使男子变为女子。双方的对话中透露出女子的力量与男子的抵抗，最后演变成一场长达七天七夜的战斗，文中乃至对这场战斗带来的自然现象进行描述，展现了强烈的魔幻与武侠色彩。
+
+此外，序章还提及了一个设定于未来的科技与战争背景，人类在经历了科技发展的同时，克服了前所未有的挑战，如大规模的自然灾害与能量危机。人类在重建后的秩序中，面临着来自新出现的特殊能力者的挑战，这样的设定营造了一个充满了奇幻与科幻元素的世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_無敵異能~~序章(新修改).docx]([变身]_無敵異�
 | Size            | 19849 bytes                           |
 | MD5             | 94dc3ef79ed00535c90798896ba9e921                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法, 跨性别, 角色对立, 特殊能力, 幻想小说, 战斗, 冒险, 人类自我觉醒, 科技与魔法融合, 未来设定, 妖女, 奴隶与反抗, 性别转换, 权力斗争, 超能力者, 历史与未来交织                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

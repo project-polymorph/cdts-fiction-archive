@@ -7,7 +7,7 @@ TXT 下载: [[其他]_无题(3).doc]([其他]_无题(3).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于跨性别及伪娘题材的小说文本，讲述了主人公与名为Mandy的角色之间的互动和心理变化。故事背景设定在一个充满科技幻想的世界，主人公在上班时被同事调侃，并且怀着对Mandy的憧憬与幻想。在一次偶然的回家途中，Mandy突然出现在电梯中，与主人公产生了微妙的情感交流。随后的剧情涉及到了一个测试版的机器人服务员，其外貌与Mandy一模一样。故事中包含了对于性别认同、角色扮演和个人欲望的探索，以及在此基础上发生的戏剧性冲突。Mandy在暴走后对主人公的强势表现，反映了权力与身份认同间的复杂关系，给人以深刻的思考。这个故事设定融入了虚拟现实与超现实的元素，展现了细腻而又复杂的情感纠葛和性别流动性的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_无题(3).doc]([其他]_无题(3).doc)
 | Size            | 35328 bytes                           |
 | MD5             | b85f766a1c0c2c694c593eba74c5edea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘小说, 跨性别, 变身, 科幻, 性别认同, EM服务, 女性强势角色, 机器人情节, 情感冲突, 心理探索, 科技幻想, 权力动态, 虚拟现实, 情欲关系, 克隆人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

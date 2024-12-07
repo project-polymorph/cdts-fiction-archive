@@ -7,7 +7,7 @@ TXT 下载: [[变装]（申码文）鹰枭乱之玲珑艳后1-8.doc]([变装]（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于A市的一起黑社会和人妖相关的情节小说，描绘了人妖产业的阴暗面和复杂的人物关系。故事围绕着A市的首富黄达阁及其妻子李媛香展开。黄达阁表面是一名合法商人，实际上却是青龙帮的老大，涉及毒品、赌博等非法活动。李媛香原是一名警察，因丈夫的腐败及其自身的堕落，沦为一名人妖，掌管美妖之宫，一家专为重要社会人士提供性服务的夜总会。该夜总会不仅是娱乐场所，更有着复杂的交易和种人妖的学校，从全国各地进行招募，供给市场的需求。通过各类人物的视角，小说探索了关于身份认同、性别转换和人性的深刻议题。文中提到的角色经历从反抗到被迫接受训练，最终变成性别角色转换中的受害者，目前看似在享乐但内心却深埋痛苦和挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]（申码文）鹰枭乱之玲珑艳后1-8.doc]([变装]（
 | Size            | 55808 bytes                           |
 | MD5             | 8fc9e8285e86d14b079aece99e86c9cb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 人妖, 黑社会, 夜总会, 剥削, 性别认同, 自我探索, 伪娘, 男娘, 调教, 变装, 暴力, 妓院, 心理冲突, 青春, 校园, 社会问题, 欲望, 情色, 子女身份, 强迫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_哈利波特与翡翠女巫的诅咒_第七章.doc]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部基于《哈利波特》系列的同人小说的第七章，描绘了翡翠女巫阿丽斯复活后的情景。章节开头，阿丽斯检查着自己的新身体，体现出她的邪恶与狂喜，表现出勇敢接纳变身后的身份。随着她的变化，描述了她与海瑟之间的联系逐渐断裂，体现了自我认同的高度冲突和复杂感情。阿丽斯复活后，将其控制的力量展现得淋漓尽致，驱动着城堡内的混乱，学生们纷纷逃窜，教授们试图镇定局面，却显得苍白无力。在这一过程中，罗恩和赫敏的关系也得到了展现，他们在绝望中寻找着失去的朋友哈利。最终，赫敏意识到翡翠女巫的复活可能带来的死亡与绝望，为情节的推进增添了更多的紧迫感与情感深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_哈利波特与翡翠女巫的诅咒_第七章.doc]([变�
 | Size            | 41984 bytes                           |
 | MD5             | b54028b53409fc75a593d8e7c7a15663                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 魔法, 同人小说, 翡翠女巫, 哈利波特, 心理冲突, 自我认知, 魔法世界, 黑暗力量, 恐惧与混乱, 友情, 死亡, 邪恶, 复活, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

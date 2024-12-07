@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_知面不知心.doc]([皮物]_知面不知心.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《知面不知心》，作者是马岛猬。故事围绕一位名叫林亦言的女主播展开，她在直播平台上以甜美的嗓音和高颜值吸引了大量粉丝。文中详细描写了她的日常直播活动，包括与观众的互动、观众之间的评论，以及她在开播时的心理状态。林亦言不仅是个热门主播，还面临着日益激烈的竞争，她思考是否要加入某个主播工会以提升自己。文件进一步描述了她的线下聚餐活动，聚餐中与粉丝的互动、惊喜与尴尬，以及逐渐深入的情感交流。内容富有青春气息，体现了年轻人在互联网时代追求梦想和满足偶像崇拜的故事，涉及自我认知、性别认同等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_知面不知心.doc]([皮物]_知面不知心.doc)
 | Size            | 62976 bytes                           |
 | MD5             | 676a73794b1872299d29aaf6b806e65c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 马岛猬                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 主播, 直播间, 粉丝互动, 女性自我探索, 青春励志, 都市生活, 网络文化, 性别认同, 线上聚会, 转变与自我发现, 青少年, 娱乐行业, 男性视角, 女权主义, 女性主播, 线下聚餐, 隐秘情感, 青言直播, 网络社交                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

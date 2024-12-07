@@ -7,7 +7,7 @@ TXT 下载: [[改造]_基因技术的危害3.doc]([改造]_基因技术的危害
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一部围绕基因技术和变性话题的科幻小说，通过角色的内心独白，描绘了一个关于性别认同、身体变换与自我探索的复杂故事。故事围绕一名男主角因基因实验而感染变异病毒，导致其身体逐渐女性化展开。主角在医疗隔离后的心理斗争、恐惧与自我认知混乱中，直面即将发生的身体转变。文中多次提及与反转录病毒的结合、潜在的医疗阴谋，以及角色之间的情感交流和支持，表现出对性别和身份的思考。此外，叙述有涉及性相关的内容，如角色的身体变化与情感纠葛，突显了主题之复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_基因技术的危害3.doc]([改造]_基因技术的危害
 | Size            | 37376 bytes                           |
 | MD5             | c33e68c019791b61a9d2bb2e9ba6eb96                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 基因技术, 身体变换, 心理斗争, 自我认同, 反转录病毒, 隔离观察, 阴谋论, 医疗实验, 性别认同, 女性化, 科幻, 情感支持, 未知未来, 变身小说, 二次元, 伪娘, 变嫁, 强烈情感, 故事讲述                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

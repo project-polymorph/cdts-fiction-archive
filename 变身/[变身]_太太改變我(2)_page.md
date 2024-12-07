@@ -7,7 +7,7 @@ TXT 下载: [[变身]_太太改變我(2).docx]([变身]_太太改變我(2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇描绘角色变身与性别转换的小说摘录，讲述了一名男性角色在陪伴其伴侣温妮的过程中，经历了一系列身体变化，逐渐适应并接受了无毛的光滑肌肤，和苗条腰身的变化。在故事开始时，男主角感受到身体变化带来的奇异体验，对女性形象的身份转变感到困惑，但在温妮的帮助和鼓励下，他逐渐接受这种变化。他们之间的感情互动表现出温暖和亲密，涉及到日常生活以及性爱的细腻描写，展现出角色内心的挣扎与心理调整。文中涉及的主题包括性别认同、自我探索、身体转变和情感的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_太太改變我(2).docx]([变身]_太太改變我(2).docx)
 | Size            | 24760 bytes                           |
 | MD5             | e724564a317ff168c82c84f16ba202be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 自我认同, 伪娘, 成长[/快速变化], 女性化, 温妮, 情感交流, 生活日常, 身体探索, 性别认同, 接受与适应, 恋爱, 浪漫, 轻松氛围, 探索与尝试                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

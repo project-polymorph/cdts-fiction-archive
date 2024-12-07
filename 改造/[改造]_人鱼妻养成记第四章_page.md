@@ -7,7 +7,7 @@ TXT 下载: [[改造]_人鱼妻养成记第四章.doc]([改造]_人鱼妻养成�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《人鱼妻养成记》第四章，描绘了主角温蒂和莱克之间的亲密互动，以及温蒂在修炼魔法过程中所面临的挑战。温蒂已经能够将水转化为冰，显示出她在水系魔法上的潜力。但为了继续学习，她必须面对自己变化后的身体及其对自我认知的影响。文中详细描述了温蒂穿着人鱼乳胶衣的感受和她与莱克的亲密关系，包括两人在水中进行的多次情感交流和魔法的互动。这一章节通过生动的语言展现了温蒂在追求力量的同时，所经历的生理与心理的冲突。随着剧情的发展，温蒂与莱克之间的情感愈发浓烈，包含了不少亲密的性暗示和情欲场面，例如莱克对温蒂身体的触碰和他们在水中嬉戏的细节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_人鱼妻养成记第四章.doc]([改造]_人鱼妻养成�
 | Size            | 34304 bytes                           |
 | MD5             | b09d3aec8e9d92fb28dfa28738ca9e01                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人鱼, 乳胶衣, 魔法, 性转, 爱情, 亲密, 魔法修行, 水系魔法, 性别认同, 自我探索, 二次元, 调教, 温蒂, 莱克, 变身, 幻想故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

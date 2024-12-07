@@ -7,7 +7,7 @@ TXT 下载: [[附身]_邪魔外道4.docx]([附身]_邪魔外道4.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《邪魔外道4》的第四部，作者为宅路人。故事以一趟拥挤的地铁车厢为背景，描述了一位神秘的女性角色，她在车厢中以冷漠的态度注视四周，不经意间将她的黑色高跟鞋鞋尖触碰到一位男子的隐私部位，引发了一系列与性暗示相关的情节。小说中，女人在公共场合利用一种奇异的力量，通过她性感的外表与传递的欲望，影响周围人的行为，尤其是一对高中情侣。故事交织了性别转换、性暗示与隐秘欲望的主题，特别是当女孩突然被触发之后，展现出一种悸动与迷茫，而高中男生对于这种无法控制的行为感到震惊与愧疚。这个情节描绘了对人际关系和个人欲望的探索，同时涉及到一些禁忌的性行为和心理变化，温柔与疯狂交织的微妙体验。整体内容较为露骨，裹挟着性暗示和心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_邪魔外道4.docx]([附身]_邪魔外道4.docx)
 | Size            | 19197 bytes                           |
 | MD5             | 8bf02f9fd435cb5ccc614326a393046e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园爱情, 强奸, 禁忌关系, 诱惑, 自我探索, 青春, 心理斗争, 隐秘欲望, 性别认同, 社会压力, 黑丝诱惑, 地铁, 奇幻, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

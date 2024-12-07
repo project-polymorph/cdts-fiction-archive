@@ -7,7 +7,7 @@ TXT 下载: [[附身]_月蚀之时.doc]([附身]_月蚀之时.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《月蚀之时》是一篇原创的跨性别小说，由作者ＣH君创作。故事的主角是映月，讲述了她在中秋佳节时的心灵挣扎与自我认知的转换。映月在庆祝的日子里感到无比孤独，尽管她本应与朋友及男友俊阳共度良宵，但她却由于一个难以解释的内心声音，选择偷偷留在家中。随着故事的推进，映月的思绪不断游走，她开始意识到自己对邻居裘影的潜在吸引。在思绪的影响下，映月逐渐改变了对裘影的看法，从最初的不屑到逐渐产生浓厚的兴趣，最终迫切希望与他见面。作品刻画了映月复杂的情感变化，以及性别认同和角色期望之间的冲突和转变，是一部融合了幻想与现实内心探索的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_月蚀之时.doc]([附身]_月蚀之时.doc)
 | Size            | 53248 bytes                           |
 | MD5             | 7afc9e6414b229badba1accfeed0b47c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ＣH君                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | MC, 精神侵蚀, 独自寂寞, 性别认同, 自我探寻, 邻里关系, 中秋节, 幻想, 吸引, 心理冲突, 孤独, 角色转变, 内心斗争, 情感历程, 跨性别, 二次元小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

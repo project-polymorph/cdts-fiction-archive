@@ -7,7 +7,7 @@ TXT 下载: [[变身]_朱颜伶•云谣（一到四章）.doc]([变身]_朱颜�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《朱颜伶•云谣》，包含了第一卷：江陵之乱的前两章。故事围绕主人公方云展开，他在一个风光旖旎的海边偶然发现一块神秘的石子，结果被卷入一场古老的神魔斗争中。第一章描述了方云在海滩上的内心独白，关于就业的烦恼，以及他在与一位白衣女子方澜的相遇中获悉了‘神之子’的概念；第二章则转入云璇和墨尘骑马奔驰的场景，描绘了悬疑而紧张的气氛，黑衣人的埋伏和攻击使两位主角面临危险，浓厚的魔教气息让故事更添悬念。这部作品探讨了自我认同与未知力量的冲突，写作风格细腻，通过精致的场景描写以及角色间的紧张互动，为读者展现了一幅古代奇幻世界的画卷。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_朱颜伶•云谣（一到四章）.doc]([变身]_朱颜�
 | Size            | 47616 bytes                           |
 | MD5             | 447e699beb8058b8388d9a5744d61baa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 奇幻, 神魔, 自我认同, 古代, 战斗, 爱情, 悬疑, 魔教, 英雄主义, 穿越, 冒险, 神秘力量, 女性角色, 黑暗势力, 时间能力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

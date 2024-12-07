@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_实习老师.docx]([皮物]_实习老师.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一个关于孔老师与学生李华之间的复杂关系。孔艳菲是一位年轻的英语老师，在合肥中学执教。这是她的第一节课，学生们对她的外貌和年轻感到惊艳。而李华，作为班上成绩中等的学生，因坐在讲台附近而能清晰地看到孔老师的魅力，心中暗生情愫。随着故事的发展，孔老师在辅导李华英语的过程中，逐渐拉近了两人的距离。李华对孔老师的崇拜和爱慕之情愈发明显，而孔老师则在职业与个人欲望之间徘徊，呈现出一种微妙的师生关系。故事中涉及了师生间的情感纠葛，青春期的困惑，以及意识到彼此吸引的心理变化，同时也展现了潜在的禁忌情感。文中多次提到的身体触碰和情感交流，加深了这种复杂关系的细腻描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_实习老师.docx]([皮物]_实习老师.docx)
 | Size            | 29345 bytes                           |
 | MD5             | 835a12ee89a88f6c60efb2aa188df183                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 师生恋, 青春期, 英语教师, 情感纠葛, 第一堂课, 禁忌关系, 自我探索, 幻想情节, 教育和欲望, 教师与学生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

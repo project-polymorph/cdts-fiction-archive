@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【短篇】掩盖所有的缺点是成为女人的第一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于帕特里克的变身故事，他通过购买定制的皮物紧身衣和一系列女性化配饰，从而实现了自己的女性身份转变。故事描绘了他从一个自认为乏味的男性生活中走出来，逐渐适应女性角色的过程。在这个过程里，帕特里克体验到了自我的探索和性别认同的冲突。他的新身份——卡拉，使她在夜店中邂逅了一位英俊的男士并迅速坠入爱河，然而他们的关系逐渐进入了更深的亲密阶段。在探讨爱情中，卡拉面临了如何应对生育的问题，她以创意的方式解决了这一难题，通过定期更换假怀孕肚皮，展现了她与未婚夫的复杂而充满爱的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【短篇】掩盖所有的缺点是成为女人的第一�
 | Size            | 28672 bytes                           |
 | MD5             | 8b7257898f0012f71c88fa6d86f215ae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | groxu                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 皮物, 变身, 性别认同, 自我探索, 恋爱关系, 双性恋, 变嫁, 虚拟身份, 皮物紧身衣, 夜店, 同居, 婚姻, 创意解决, 伪娘, 情感发展, 假怀孕                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

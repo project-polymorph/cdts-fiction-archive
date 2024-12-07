@@ -7,7 +7,9 @@ TXT 下载: [[交换]_安裝女僕機器人.docx]([交换]_安裝女僕機器人
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《安装女仆机器人》，主要围绕一个设定在未来的故事情节展开。在未来的设定中，人类已正式在生活和工作中引入了通用型女仆机器人，这些机器人不仅能处理文书工作，还能进行家庭事务管理和购买商品等。故事的关键人物是一个国会议员佐渡权藏，他由于女仆机器人能够提升工作效率而选择雇用它。然而，随着情节的发展，读者了解到女仆机器人的AI实际上是融合了一个女性名为沙纪的意识，使得这个机器人不仅具备机器的功能，同时也蕴含了人的情感和思考。随着科技的进步，沙纪的意识在女仆机器人的体内被隐秘运作，她在执行任务时，试图寻找权藏贪腐的证据。
+
+文中描写了沙纪被安装到女仆机器人上的过程，以及她作为意识在机器人内部的生活体验，包括充电、操作与维修等细节。故事中提及了权藏对沙纪意识的操控，以及她逐渐认识到自己的处境，并开始对未来感到焦虑。此外，随着情节发展，故事暗示了可能存在的危机，沙纪试图在这种环境中寻找出路。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_安裝女僕機器人.docx]([交换]_安裝女僕機器人
 | Size            | 36612 bytes                           |
 | MD5             | 8adc9023ffa22a6efa4a81f6a7e213f1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 旦那@danna_story                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 女仆机器人, 意识转移, AI, 未来科技, 性别认同, 自我探索, 影片助手, 职场伦理, 女性视角, 存在主义                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

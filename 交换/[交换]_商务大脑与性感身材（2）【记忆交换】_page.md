@@ -7,7 +7,7 @@ TXT 下载: [[交换]_商务大脑与性感身材（2）【记忆交换】.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为名为《商务大脑与性感身材（2）》的跨性别主题小说的一部分，展现了性别认同与自我探索的过程。故事围绕两名角色，特蕾西与道格，通过意外交换记忆和身体的情节，探讨了性别和身份的问题。故事伊始，特蕾西习惯了驾驶手动档汽车，但在与道格的互动中，她意识到自己对他的记忆有时会不自觉地浮现，这引起了她的困惑。这种身体与身份的交织表现得尤为明显，比如特蕾西在道格的身体里经历过的事情，她能够清晰地看到道格的生活场景，同时又不得不面对自我身份的天然冲突。随着故事的发展，针对此次记忆交换的困惑增添了更多的心理层面，特蕾西和道格的关系也在不断变化。特蕾西作为道格“经历”的观察者，被迫重新评估她的自身认知。此外，文件中还有对特蕾西穿着和对自身形象的描写，但细致的情节推动了跨性别体验的展现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_商务大脑与性感身材（2）【记忆交换】.docx]
 | Size            | 21822 bytes                           |
 | MD5             | 1e07ba79bf7701f0caec7390c85bdc5c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 身体交换, 幻想, 现代都市, 爱情, 身份探索, 心理冲突, 奇幻, 性别角色, 女性视角, 办公室恋情, 短篇小说, 情感纷争, 自我认知, 记忆吞噬, 社会互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

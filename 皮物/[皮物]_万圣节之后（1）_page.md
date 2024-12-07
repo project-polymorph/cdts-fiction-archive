@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_万圣节之后（1）.doc]([皮物]_万圣节之后（1�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《万圣节之后》，长度约10375字。内容围绕张强和刘星两位男生在万圣节夜晚进行召唤仪式后，经历了一系列超自然体验，涉及角色性别转变与身心认知的改变。故事开始时，张强在镜子里凝视自己的样子，被一个矮小的少女贴近并进行挑逗，之后两者之间发生了一系列亲密关系的描写。随着故事的发展，两位主角身处一种透明状态，既想经历女体的感觉，又感受到对女性身体的好奇和困惑。在一场化妆舞会上，张强对一位穿着二战德军制服的美女产生了迷恋，却意外被护士打扮的女人阻挡并进入了她的身体。故事情节随着两个角色在舞会上的互动和追求而展开，让人猜测万圣节召唤所带来的特殊体验究竟是好是坏。文中包含与性相关的情节，涉及许多复杂的角色关系与内心斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_万圣节之后（1）.doc]([皮物]_万圣节之后（1�
 | Size            | 55296 bytes                           |
 | MD5             | d22ab14b6a0126bcfd33fcd4747b2095                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 魔法, 青春, 校园, 万圣节, 探索自我, 人体改造, 奇幻, 爱情, 二次元, 强烈需求, 恶魔召唤, 女体化, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

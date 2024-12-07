@@ -7,7 +7,7 @@ TXT 下载: [[交换]_（旧文新赏）_中介者.doc]([交换]_（旧文新赏
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘与变身题材的小说，描绘了两个角色通过签订契约来交换身体的故事。故事开头，女主角杨小姐与男方吴先生在同一时间、同一地点签署契约，契约内容包括双方的义务与条件，尤其强调了女方保持名声和男方不许转移财产的条款。随后，契约生效，两人分别进入对方的身体，开始了一场关于身份认同与自我发现的旅程。女主角在新的身体里感受到女性的快感和魅力，而吴先生在拥有女性身体的同时也经历了内心的挣扎与不适，在监视对方的过程中，产生了复杂的情感。随着时间的推移，越来越多的情节展开，揭示了对性别认同与自我探索的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_（旧文新赏）_中介者.doc]([交换]_（旧文新赏
 | Size            | 76800 bytes                           |
 | MD5             | 02f53120daec06f9f1972015e6f7b322                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 变身, 伪娘, 契约, 心理斗争, 身份认同, 自我探索, 成人内容, 情感纠葛, 性感服装, 观念冲突, 性别角色, 变化过程, 二次元文化, 爱情, 成年女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

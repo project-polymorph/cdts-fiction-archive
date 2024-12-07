@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【翻译变身】少女胸罩.doc]([变身]_【翻译变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档是关于一位名叫大卫的男性角色，经历了奇幻而困惑的变身过程。在故事的开头，大卫收到一个寄来的包裹，里面放着一条女式内裤和一件特殊的白色训练胸罩。虽然他开始认为这与自己无关，但由于好奇心驱使，他开始尝试穿上这件胸罩，结果导致他无法将其脱下。在与女朋友劳伦及偷窥邻居克里斯蒂的互动中，大卫的性别认同和身体经历了巨大的变化，逐渐转变为一名女性。文中详细描绘了他从绝望到接受新身份的过程，伴随着对身体的自我探索和情感的转变。最终，大卫发现自己不再是他曾经的男性，而是一位更具女性特质的存在，展现了性别和身份认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【翻译变身】少女胸罩.doc]([变身]_【翻译变�
 | Size            | 39936 bytes                           |
 | MD5             | 8ba64c15c3f739deb2f48a8ccf701eb2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Ann Nonymous                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, 自我探索, 伪娘, 内衣, 转变, 情感冲突, 幻想, 女性视角, 两性关系, 成长, 奇幻, 青春期, 身体变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

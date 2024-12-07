@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[碟中谍]游泳衣2_第二章_初动+文章说明导读.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一个关于角色性别转换的故事，主角在便利和无羞耻的环境中探索自我认同与性别的复杂性。故事开始于炎热的夏天，主人公感受到夏季炎热与身体的不适，意识到自己的身体变化。随后，随着情节的发展，主角逐渐适应了女性形象，体验到女性的购衣、生活与内心感受。在一次买电器的过程中，主角在商场中感受到心中的女性气息与热情，并且习惯于刺激的购物体验。在与表弟的互动中，展现了两者间的亲密关系，随着故事的深入，性别转换的主题和角色关系逐渐展开，体现出主角内心的挣扎与接受。本文通过幽默与现实相结合的方式描绘了一个跨性别者的心路历程，揭示了在性别认同与个人欲望交织下的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[碟中谍]游泳衣2_第二章_初动+文章说明导读.
 | Size            | 49152 bytes                           |
 | MD5             | 6a078469988f5a0beae7f6a9d743fc27                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 夏季生活, 角色认同, 变身小说, 二次元, 自我探索, 情感纠葛, 现代都市, 青少年快乐, 游戏, 购物冒险, 性别形象, 想象与现实, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【梗概】紫藤化.doc]([皮物]_【梗概】紫藤化.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《紫藤化》是一个关于变身与跨性别现象的小说梗概，故事围绕着一种名为"紫藤化"的神秘现象展开，其中许多女性会在死亡前经历性格的扭曲和极端的行为，而其背后的原因和过程则涉及到古老妖怪的传说与个人的深层次心理。故事的主角李勇是一名私家侦探，为了调查紫藤化现象而踏上寻求真相和复仇的旅程。他通过多年的探查，逐渐揭开了紫藤化的秘密，这些女性的尸体会变成皮囊，并被已经化为精神存在的紫藤控制。透过调查，李勇发现紫藤化的影响范围正在扩大，亟需采取行动进行制止。文件内容详尽地描述了李勇的探查过程，所遇到的受害者，以及惊悚的紫藤化现象所展现的堕落与疯狂，展现出深层的人性探索与对性别与身份认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【梗概】紫藤化.doc]([皮物]_【梗概】紫藤化.
 | Size            | 37888 bytes                           |
 | MD5             | ebcdf47f3bed076e4682af271bcf2784                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 紫藤化, 变身, 跨性别, 私家侦探, 灵异, 悬疑, 妖怪, 性别认同, 自我探索, 心理恐怖, 女权, 伪娘, 变嫁, 奇幻, 恶魔, 吸血鬼, 反乌托邦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

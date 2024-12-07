@@ -7,7 +7,7 @@ TXT 下载: [[变身]_某对TS夫妇的回忆录之10.docx]([变身]_某对TS夫
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是关于一对跨性别夫妇的回忆录，主要围绕他们日常生活中的趣事和家庭关系展开。故事从他们的一次家庭出游开始，描述了他们在水族馆的日常互动，以及与爷爷和小女儿阿结的温馨时光。交织着他们的性别身份，爷爷和父亲都以女性形象出现，增加了故事的幽默感。文本强调了角色之间深厚的感情，同时也展现了父母对未来孩子的期待与兴奋。 文件通过生动的对话揭示出主角们的心情波动与家庭温情，尤其在一瞬间发现自己已变为女性的情景，体现出性别认同与自我探索的主题。此外，文件还涉及了一些潜在的性别流动和变迁的情节，让读者思考性别的多样性与流动性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_某对TS夫妇的回忆录之10.docx]([变身]_某对TS夫
 | Size            | 18289 bytes                           |
 | MD5             | 0fc402a54bd7921e765a8b78676a44e8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身, 家庭, 日常生活, 性别认同, 自我探索, 父亲滋养, 温馨, 父母关系, 儿童, 乐趣, 反转, 情感发展, 增强体贴, 社会角色, 水族馆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

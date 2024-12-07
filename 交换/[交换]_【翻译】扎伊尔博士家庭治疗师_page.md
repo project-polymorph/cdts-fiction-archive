@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【翻译】扎伊尔博士家庭治疗师.doc]([交换]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《扎伊尔博士家庭治疗师》是由作者itsme创作，并由魔之天涯编译的伪娘和跨性别相关小说。故事围绕一位家庭治疗师扎伊尔博士展开，讲述了莫里斯一家因为家庭关系紧张而寻求心理治疗的经历。妻子艾丽莎因为丈夫杰克与她的女儿米琪丽娜相处出现问题而带领全家来见扎伊尔博士。而这个治疗师的真实身份暗藏复杂，他其实并不是合格的心理医生，而是一个利用催眠能力操控他人的陌生人。故事揭示了杰克作为一名失业男子与继女米琪之间的微妙关系，以及米琪对家庭环境中隐含问题的担忧和逃避。扎伊尔博士在与家庭成员的互动中逐渐揭开了更多家庭秘密，并计划通过他的手段来改变他们的生活。文本不仅探讨了性别身份与角色认同，还涉及家庭成员之间的冲突与心理操控。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【翻译】扎伊尔博士家庭治疗师.doc]([交换]_�
 | Size            | 105472 bytes                           |
 | MD5             | c5dcde46ca586b740bcaa83a0452d21b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | itsme                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 家庭治疗, 心理操控, 性别认同, 催眠, 角色交换, 伪娘小说, 跨性别, 家庭关系, 亲子关系, 都市生活, 自我探索, 伦理问题, 青春期困惑, 隐私侵犯, 社会角度, 女性主义                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

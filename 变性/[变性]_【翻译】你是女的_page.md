@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】你是女的.doc]([变性]_【翻译】你是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章标题为《你是女的》，原作者是Jennifer White，翻译由佚名完成，内容围绕着一个因下载恶搞病毒而陷入感染的男人展开。故事讲述了一位男性在尝试下载成人内容时，不慎打开一个包含变性相关病毒的网站，结果被迫经历了一系列令人诧异的转变。病毒使他的电脑女性化，包含各种与女性相关的内容，改变了他的桌面和收藏链接，甚至在他向同事发送电子邮件时错误地显示了女性的签名。情节发展到周六时，他收到了一位女性朋友萨拉的来访，她不仅带来了他未曾订购的女性内衣，还强迫他进行了性别认同和身体转变的体验。这一过程中，主角不断地遭遇自我意识与病毒带来的情感指令之间的冲突，具有强烈的性别认同与转变主题，蕴含着对性别角色的深刻探讨和挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】你是女的.doc]([变性]_【翻译】你是�
 | Size            | 58368 bytes                           |
 | MD5             | 80545c5de440fe42573604a5b2c45197                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jennifer White                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性别认同, 色情内容, 自我探索, 电脑病毒, 女性化, 青春成长, 潜意识, 社会认同, 改变, 情感冲突, 性转, 虚拟现实, 奇幻, 女性视角, 强迫性行为, 自我认同, 性暗示, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

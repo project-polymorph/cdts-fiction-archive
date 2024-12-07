@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_怠惰的人妻只想要躺平(申码文）.docx]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕主角夏林与妻子艾如萱的日常生活展开，展示了一种奇特的性别转换和身份认同的情节。故事开篇，夏林在下班后回到家，发现家庭环境一片混乱，妻子不在，却在卧室发现她在沉睡。随着情节的发展，艾如萱的行为变得越发不寻常，令夏林感到诧异和困惑。作者通过细腻的描写，展现了艾如萱在性格和举止上的巨大变化，逐渐揭示出身份转换的秘密。后续的情节中，艾如萱的行为充满了挑逗与挑衅，似乎背后隐藏着更加复杂的内心状态和情感纠葛。整篇小说在探讨性别认同、自我探索等主题的同时，也揭示了夫妻之间的情感波动和沟通问题。单从内容上来看，它包含了一些限制级的信息和描写，也呈现了对两性关系的不同视角与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_怠惰的人妻只想要躺平(申码文）.docx]([皮物]
 | Size            | 28621 bytes                           |
 | MD5             | 30a1d54193de2f28e9d9bd4f3d6ddc2a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 跨性别, 情色, 自我认同, 夫妻关系, 情感纠葛, 角色扮演, 生活琐事, 内心独白, 现代都市, 肉体化, 性快感, 心理探索, 日常生活, 强烈的性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

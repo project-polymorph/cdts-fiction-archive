@@ -7,7 +7,7 @@ TXT 下载: [[附身]_变成朋友的妈妈2.doc]([附身]_变成朋友的妈妈
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于性转变身的小说，讲述了一名女性在意外的情况下通过身体交换变成了她朋友的母亲张玲的故事。故事的开篇描绘了角色在厨房中为家庭烹饪的情景，期间与丈夫的亲密互动显示出一种尴尬与愧疚，因为主角实际上是在冒充他人的身份。随着情节的发展，主角与养子之间的微妙关系逐渐显露，特别是养子表现出的对她的异常关注。不同的情感纠葛在故事中不断交织，尤其是在家庭责任与个人欲望之间的冲突。最后，故事以身世揭开的高潮结束，主角意识到自己与另一位角色的身份交换引发了巨大的误会和混乱。整个故事以性转与心理冲突为主题，涉及了一系列复杂的情感与伦理考量，内容包含了较为露骨的成人情节，适合针对特定受众的研究与探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_变成朋友的妈妈2.doc]([附身]_变成朋友的妈妈
 | Size            | 53760 bytes                           |
 | MD5             | 69d7c0c6734c99260f7760361f893835                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 身体交换, 伪娘, 成人小说, 心理冲突, 家庭伦理, 情感纠葛, 跨性别, 变身, 生理与心理, 欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

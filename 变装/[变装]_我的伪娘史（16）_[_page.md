@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的伪娘史（16）_[.docx]([变装]_我的伪娘史�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《我的伪娘史》主要讲述了角色在便装过程中与另一位同样喜欢穿着女性服装的男生林可的相遇与交流。故事围绕他们的友谊发展展开，在一次咖啡店的闲聊中，探讨了自我认同与性别表达的话题。角色回忆起自己以女性形象出现的经历，并通过与林可的互动，逐渐明白了自身的渴望和追求。文中描绘了二人一起享受午餐、比较生活礼仪、甚至是各自对于穿着的看法，让人感受到一种轻松而亲密的氛围。整篇文章涉及了变装、性别认同等主题，并透过角色的内心挣扎与外界的接受，反映了现代社会对于性别多样性和个人选择的理解和包容。可见，角色虽是男生却对以女性形象出现的过程感到快乐且自在，展现了一种当代年轻人对性别流动性与自我认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的伪娘史（16）_[.docx]([变装]_我的伪娘史�
 | Size            | 16849 bytes                           |
 | MD5             | ec4df3bcd69158c9ea4df2c898c22615                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 自我探索, 性别认同, 校园生活, 饮食文化, 友谊, 夜生活, 社交互动, 青春爱情, 二次元文化, 轻松幽默, 性别表达, 情节发展, 角色成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

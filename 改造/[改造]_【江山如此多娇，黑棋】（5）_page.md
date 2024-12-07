@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【江山如此多娇，黑棋】（5）.doc]([改造]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一段复杂的权力斗争和情感纠葛的情节。在一个虚构的古代背景下，黑棋意图通过操控李将军，使得太子和韩王之间产生冲突。李将军在获得权力后，将自己的情感寄托在花家的三公子花新身上，却意外发现花新有潜在的性瘾。在一次阴谋中，太子的侧妃被土匪掳走，导致太子在朝廷的威信受到前所未有的挑战。众人对太子的伤情展现出好奇和警惕，太子在密室中与心腹商量应该如何应对谣言，以及如何挽回自己的声望。药王提议利用借种的方式来证明太子的男人身份，情节发展错综复杂，涉及到权力斗争、情感关系和身体改造等元素。这个故事探讨了性别认同、权力欲望和人的情感矛盾等主题，且伴随着感情与身体上的高度敏感性，情节包含一些限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【江山如此多娇，黑棋】（5）.doc]([改造]_【
 | Size            | 41472 bytes                           |
 | MD5             | c3c7969d880724f60995e0d58009a3cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 权力斗争, 情感纠葛, 古代背景, 性别认同, 身体改造, 强奸, NTR, 调教, 借种, 权谋, 阴谋, 超能力, 情欲, 耽美, 女体化, TSF, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

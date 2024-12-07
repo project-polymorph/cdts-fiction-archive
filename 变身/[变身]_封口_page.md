@@ -7,7 +7,7 @@ TXT 下载: [[变身]_封口.doc]([变身]_封口.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于性别转变的小说，主要围绕两名男女学生的互动展开，涉及游泳课、性别认同和自我发现的主题。故事中的男主角青叶俊辅在游泳课上因身体不适而观摩，面临来自班级同学柴田明的挑衅，最终暴露了自己的秘密。在一系列对话与冲突中，俊辅的女性身份逐渐显露，柴田则以带有恶意的方式试图利用这一秘密进行羞辱和威胁。文中不仅描绘了身体上的性别变化，也探讨了社会对性别和身份认同的看法。通过对话和情节的展开，作者展示了青春期少年面临的困惑与压力。内容虽涉及敏感话题，但整体保持在探索与思考的层面，适合研究性别转变和社会认同的学术讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_封口.doc]([变身]_封口.doc)
 | Size            | 45568 bytes                           |
 | MD5             | 75f99fe2856c83153e559de918621016                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 風祭玲                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 伪娘, 男娘, 青春期, 自我探索, 游泳课, 性别认同, 校园生活, 羞辱与威胁, 自我发现, 变装, 二次元, 逆向教学, 社会压力, 性别心理, 青春爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

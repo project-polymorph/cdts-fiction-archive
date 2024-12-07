@@ -7,7 +7,7 @@ TXT 下载: [[交换]_究極.docx]([交换]_究極.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《究極》是一部以性别变化和自我认同为主题的小说。故事围绕一名普通女高中生的日常展开，她生活在一个充满奇幻元素的世界中。在一次意外中，女主角经历了从人类到巨人的变身，面对身体和身份的巨大转变。文中描述了她对自身变化的恐慌与无助感，以及她的日常生活与心理探索。随着故事的发展，女主角的内心冲突逐渐加深，她开始质疑自我认同、性别认同等问题，带有一定的心理和幻想色彩。文中有描写蜕变过程中的恐惧，例如“那只可恶的蟑螂”与“巨大如摩天大楼的墙壁”，展现了从普通生活到幻想世界的强烈对比。在她与巨大自我的对比中，反映出对性别和自我认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_究極.docx]([交换]_究極.docx)
 | Size            | 40286 bytes                           |
 | MD5             | fce2e065e9272e99626a9524d9558406                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 巨人, 自我认同, 幻想, 心理探索, 变身, 女高中生, 奇幻, 恐惧, 日常生活, 身心变化, 性别认同, 变嫁, 异世界, 成长, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

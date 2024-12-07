@@ -7,7 +7,7 @@ TXT 下载: [[变装]_中年人的幸福从招聘女仆开始】第4章。冰火
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一本关于伪娘和变身主题的小说，主要围绕主角云梦溪展开。云梦溪是一位生理性别为男性，但在心理上希望成为一名女仆的角色。故事中描写了他在接受古月的情感侵犯后，内心感受到的复杂情绪。他在与古月的亲密接触中，逐渐迷失了对自己性别的认知，体会到被爱的愉悦。内容涉及多重角色身分的认知变换，包含情感与在职场中的压力，展现了云梦溪作为“女仆”身份的蜕变与代价。文中有许多关于性别认同、角色扮演和自我探索的描写，也隐含了一些与主流性别观念相悖的情节，可能适合研究性别和欲望的学术用途。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_中年人的幸福从招聘女仆开始】第4章。冰火
 | Size            | 19981 bytes                           |
 | MD5             | 2dbcf64d0f61c3bab43f5d36871e300d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 跨性别, 性别认同, 情感侵犯, 女仆, 自我探索, 心理冲突, 职场压力, 角色扮演, 少男少女, 情感纠葛, 异性恋变百, 爱情与欲望, 日常生活, 社会期望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

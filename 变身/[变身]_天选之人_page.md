@@ -7,7 +7,7 @@ TXT 下载: [[变身]_天选之人.doc]([变身]_天选之人.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容为一篇融合了性转、跨性别和魔法元素的小说，叙述了一位数学教授在意外获得一书后，经历了一段性别和命运的转换旅程。故事的起始，教授在深夜图书馆中发现一本古怪的书籍，书中记录了其生平与一次性别转换的触发。这本书的强大力量让教授在更改性别后，化身为一名女性角色文馨、清纯系偶像凌姚以及其他不同的人生身份，描绘了她们不同的经历和命运。故事中反复探讨生死、身份认同以及自我发现的主题，结合了幻想与现实的元素，展现了角色在面对自身性别与社会期望之间的复杂关系。此小说具有丰富的心理描写、情感冲突以及强烈的戏剧性，尤其是在角色转变与自我认知的过程中展现出深刻的内心挣扎与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_天选之人.doc]([变身]_天选之人.doc)
 | Size            | 38912 bytes                           |
 | MD5             | 332be5b6ee3333abfc701d0a69ee4ed7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 奇幻, 青春, 自我探索, 命运, 魔法, 清纯系偶像, 文学, 间谍, 女性身份, 戏剧情感, 心理描写, 成长, 二次元, 奇幻小说, 暗黑幻想, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

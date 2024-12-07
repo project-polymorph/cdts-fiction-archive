@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_业务员之师恋（1）＋（2）.docx]([皮物]_业务�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于伪娘与跨性别主题的小说，名为《业务员之师恋》。文中主要讲述了一个男生在课堂上看到他的朋友的母亲，即左毅的妈妈，她的美丽与性感深深吸引了在座的男生们，产生了许多性的幻想和困惑。小说通过生动的描述展现了校园的春情和荷尔蒙的气息，尤其是对女性身体特征的细致描写引发了男生们的种种反应，充满了青春的懵懂与渴望。随着情节的发展，男生对于左毅妈妈与其他女性角色的强烈吸引，不尔间地揭示了青少年对性与爱的探索。文中还引用“怪不得平时不让我去他家，原来他妈这么极品，真不够兄弟”等言论，表现了青少年心态的复杂性，同时伴随对家长关系的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_业务员之师恋（1）＋（2）.docx]([皮物]_业务�
 | Size            | 21726 bytes                           |
 | MD5             | 0cefcab074a8451cb5b8d8ce754ca7e5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 青春爱情, 校园小说, 性幻想, 家庭关系, 性别认同, 爱与欲望, 强烈吸引, 师生恋, 性转, 情感探索, 荷尔蒙                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

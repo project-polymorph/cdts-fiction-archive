@@ -7,7 +7,7 @@ TXT 下载: [[其他]_邪惡女神雅香娜(十二宮篇)_作者︰小雅香.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《邪恶女神雅香娜（十二宫篇）》，为一部结合了奇幻与性别变换元素的原创小说。故事发生在243年后的一个世界，胜利女神雅香娜与冥王哈密瓜之间的圣战再次展开。作者以轻松幽默的语调展现了冥鬥士们与美女圣鬥士之间的对抗情节，通过冥鬥士TG男的视角展开，描述他作为主角的心路历程与战斗经历。本文从幽默的对话、奇幻的场景设定，逐步深入角色的心理变化，描绘了一个既搞笑又竞技的故事画面。尤其是在角色TG男与名为美妮的萝莉圣斗士之间的冲突，彰显了角色间的力量与认同感。内容可能涉及到的情节包括幽默打斗与一定程度的色情暗示，符合变身、伪娘等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_邪惡女神雅香娜(十二宮篇)_作者︰小雅香.doc
 | Size            | 41566 bytes                           |
 | MD5             | f63c124c74bad8eb777fb2799f071ecc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 小雅香                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 邪恶女神, 胜利女神, 性别转换, 冥王哈密瓜, 美妮, 宅男, 奇幻小说, 圣斗士, 搞笑, 变身, 萝莉                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

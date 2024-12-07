@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑萝莉会所--4小玖的意外（上）.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《黑萝莉会所--4小玖的意外（上）》的上篇，主要描绘了一名男性角色在性别转换和伪娘化过程中的心理描写与奇妙遭遇。故事起初，从镜子中的男人开始，描述他在身着束身衣和女性面具时的不协调感。随着情节的发展，男人逐渐适应自己的新形象，并用女性的姿态开始自己的冒险。在一个高档汽车旅社中，男主角化身为女性角色小玖，接待一位名为梅的客人。情节中蕴含了一些心理上的自我认同与性别认同的探讨，同时加入了拘束和调教的情节，涉及强烈的性别变换和角色扮演，让人思考自我身份的认同与外界期待的结合。文中运用细腻的笔触描绘了小玖在执行任务时的种种心理斗争和情感变化，展现了一次不一般的伪娘服务经历，深刻而隐晦地反映了现代社会对性别与身份认同的多元看法。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑萝莉会所--4小玖的意外（上）.docx]([皮物]_
 | Size            | 27272 bytes                           |
 | MD5             | d7f7c273c4f713cd8653dd395f6a913c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 变身, 调教, 拘束, 校园, 性转, 二次元, 强制, 成年向, 情感探索, 自我认知, 萝莉, 幻想, 伪娘服务, 角色扮演, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

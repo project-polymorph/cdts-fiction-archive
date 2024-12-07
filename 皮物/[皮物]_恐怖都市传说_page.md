@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_恐怖都市传说.docx]([皮物]_恐怖都市传说.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一个关于变身与恐怖的都市传说故事。故事设定在A市的国定路，主要讲述了一名女性上班族李文莉在回家途中遭遇的诡异事件。李文莉在超市购物后，感觉到有人在背后注视，随即走向了一个小巷。此时，她遇到了一位身穿黑色雨衣的男子，男子的出现让她感到恐惧，随着事件的发展，李文莉逐渐失去知觉并陷入了噩梦般的体验。故事包含了一些恐怖和血腥的元素，描绘了男子对李文莉的掳掠与身份转换，结合了性别认同与变身的主题。在文中，李文莉对自己的身体感受与变化有着细致入微的描写，最终展现出一种恐怖和扭曲的性别意识。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_恐怖都市传说.docx]([皮物]_恐怖都市传说.docx)
 | Size            | 21293 bytes                           |
 | MD5             | 1513661dfcb19e89e31fc08479097b77                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 恐怖小说, 性别转换, 都市传说, 伪娘, 赶集, 暴力, 自我认同, 强烈快感, 黑暗幻想, 失踪案件, 中年女性, 异样的视觉体验, 生理冲突, 身份交换, 夜间街道, 阴暗巷弄, 性别角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

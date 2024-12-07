@@ -7,7 +7,7 @@ TXT 下载: [[附身]_憧憬的女仆装.docx]([附身]_憧憬的女仆装.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇短篇小说，标题为《憧憬的女仆装》，作者是无名＠纯白の憑依人，由七夜诗希翻译。故事讲述了一个有着女装爱好的男孩田神亮，他通过一种名为“附身胶囊”的奇特方式，附身到自己的青梅竹马守屋千夏的身上，体验穿女仆装的快感。故事情节从田神亮在百货商店遇到女仆装开始，他在理性的挣扎与欲望的驱使中，最终选择了通过附身来实现自己的愿望。通过附身后，田神亮在千夏的身体里体验自我认同的冲突与乐趣，感受到作为女孩的羞涩与期待，而这些情感不断推动他向更深层次的自我探索。通过千夏的身体，他不仅购买了女仆装，还在街上被他人目光注视、自我展示，这种体验让他感受到前所未有的快乐和兴奋。伴随情节的发展，故事探讨了性别认同与个人欲望的交织，至最后以今日的开心结束，田神亮对这种状态的追求并未结束。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_憧憬的女仆装.docx]([附身]_憧憬的女仆装.docx)
 | Size            | 18287 bytes                           |
 | MD5             | 75aa79ceaac61cd1ce31465e34232f55                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 无名＠純白の憑依人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 女仆装, 附身, 高中生, 女装, 青梅竹马, 青春爱情, 变身, 冒险, 欲望, 羞涩, 公共场合, 心理冲突, 快感, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

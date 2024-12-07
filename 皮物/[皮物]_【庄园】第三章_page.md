@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【庄园】第三章.doc]([皮物]_【庄园】第三章.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于角色小伊与林婉之间关系发展的第三章，描绘了一个富有幻想色彩的场景。故事开始于小伊拉着林婉的手，走出庄园大厅，经过白色的大理石拱门，沿着小路来到小伊的书屋。书屋里布满了女性的衣物，展现了小伊对于女性身份的渴望和自我认同的探索。小伊向林婉表达了自己的感情，表现出强烈的情感依赖。小说中提到，小伊幻想着女性的生活，希望能够以女性的身份融入社会，并对林婉产生了深厚的情感。在充满温馨和暧昧的描写中，两人的关系愈发亲密，展现了一种细腻而复杂的性别认同与情感探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【庄园】第三章.doc]([皮物]_【庄园】第三章.
 | Size            | 29696 bytes                           |
 | MD5             | 76cd380eedec03d0b988ff639138b339                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变性, 情感探索, 自我认同, 幻想, 爱情, 女性主义, 青春, 轻小说, 春色, 亲密关系, 心理探索, 美丽, 温馨, 小说, 虚构, 魔法, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

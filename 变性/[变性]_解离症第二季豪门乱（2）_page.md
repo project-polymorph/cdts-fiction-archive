@@ -7,7 +7,7 @@ TXT 下载: [[变性]_解离症第二季豪门乱（2）.docx]([变性]_解离�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说《解离症第二季豪门乱（2）》的部分章节，描述了一名名叫杨秦的女性角色与名为宁兴的男性角色之间复杂的关系。故事开头，杨秦被迫置身于一个充满性别和身份混乱的环境中，宁兴实际上是一名伪娘，面临性别认同的挑战。在夜晚的别墅中，杨秦与宁兴之间围绕权力、性别和欲望的对话展开，令人好奇的是，宁兴虽然外表为女性，却仍然有着男性的生理特征，同时对自身身份有着独特的看法。文件中的情节带有明显的性暗示，同时涉及强烈的情感冲突和社会身份的探讨，如“我对你没兴趣。”“我只是……觉得自己应该是个女人，所以才穿女装。”这句对话突显了宁兴在性别认同自我探索过程中的挣扎。整个故事在探索性转、跨性别及个人认同的复杂性对于当代社会的意义时，有着较强的社会和心理学探讨的价值。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_解离症第二季豪门乱（2）.docx]([变性]_解离�
 | Size            | 23198 bytes                           |
 | MD5             | cafbdf64e772170e33b1addb76d1bfb1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 情感纠葛, 身份探索, 豪门故事, 夜生活, 权力游戏, 自我认知, 惊悚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

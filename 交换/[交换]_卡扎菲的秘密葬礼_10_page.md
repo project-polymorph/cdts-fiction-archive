@@ -7,7 +7,7 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_10.docx]([交换]_卡扎菲的秘
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《卡扎菲的秘密葬礼 10》是一个关于角色之间情感纠葛的跨性别主题小说片段。故事围绕着主要角色卡扎菲与其心腹卡奈尔之间的复杂关系展开。卡奈尔的形象突出，描绘了她性感的外表和精致的妆容，显示出了角色内心的纠结与不安。文中提到的情节包括卡奈尔为卡扎菲赴死的决心，以及与莎菲娅共同参与的身体交换计划，这一过程引发了对自我认同和牺牲的深刻思考。故事中渗透着许多军政环境下的压迫和战斗，以及对忠诚与信任的探讨，揭示了在极端环境下人性的复杂和深度。文中有明显的情感冲突和对身体的改造主题，这是涉及跨性别和性别认同的重要元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_卡扎菲的秘密葬礼_10.docx]([交换]_卡扎菲的秘
 | Size            | 17438 bytes                           |
 | MD5             | b4ab803a0d1e36a15812f12a5bacd3f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 情感纠葛, 身体交换, 忠诚与信任, 战争, 牺牲, 性感描写, 自我认同, 复杂关系, 权力斗争, 心灵探索, 军政环境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_花落花开（三）.doc]([交换]_花落花开（三）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于情感与权力斗争的小说。故事围绕林文婵与其丈夫丁铭栋的日常生活展开，在职场的压力与家庭生活的碰撞中，展现了角色的内心挣扎与成长。林文婵在忙碌的工作中，收到丈夫送来的最爱——红烧肉，却因其油腻和纯肥肉而对其产生厌恶。同时，职场上她的上司张思萍因股东们的阴谋感到愤怒，带着林文婵出发去解决问题。在一段紧张的驾车途中，林文婵的车发生失控，丈夫为了救她而出现悲剧，最终丁铭栋舍身护命，受了重伤。小说通过复杂的人物关系和紧张的情节发展，以生死考验展示了角色之间的爱的力量与牺牲精神。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_花落花开（三）.doc]([交换]_花落花开（三）.
 | Size            | 50176 bytes                           |
 | MD5             | 5b3805ad367e726614673418822f2a79                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男性与女性身份的转换, 家庭伦理, 职场恋情, 生死考验, 强烈的情感冲突, 救赎与牺牲, 红烧肉, 上司与下属关系, 爱与牺牲, 都市生活, 事故与反思, 情感纠葛, 悲剧, 职场争斗, 人物成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

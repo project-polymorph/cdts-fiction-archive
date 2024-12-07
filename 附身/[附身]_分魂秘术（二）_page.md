@@ -7,7 +7,11 @@ TXT 下载: [[附身]_分魂秘术（二）.doc]([附身]_分魂秘术（二）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一部修仙题材的小说《分魂秘术（二）》的摘录。故事围绕着主角叶凡与女主角叶清音之间的复杂关系展开。叶凡和叶清音在探究一处蕴含强大气血的血池时，叶清音因好感于叶凡，提出通过双修来抵消吸收气血可能带来的反噬之力。然而，这一提议暗含深意，隐含了各自的感情冲突与目标。
+
+在情节发展中，另一个身份的角色试图利用他们之间的感情进行操控，展现出修仙界中的阴谋与权力斗争。在一个紧张的场景里，叶清音因保护叶凡而不得不做出艰难的选择，最终选择了为了叶凡而牺牲自己的原则。这部小说不仅仅是关于修仙的冒险，更涉及性别认同、自我价值与情感关系的探索。全篇文字通过对话与心理描写展示了角色之间深刻的情感纠葛与修仙界的残酷。
+
+情节围绕男女主角的互动、对修行的理解与自我意识的觉醒展开，整个故事反映了对传统性别角色与关系的颠覆及重塑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[附身]_分魂秘术（二）.doc]([附身]_分魂秘术（二）.
 | Size            | 59392 bytes                           |
 | MD5             | 4279a7b6a5eb24b33566e80ef0da635a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 修仙, 情感纠葛, 性别认同, 自我探索, 权力斗争, 双修, 反噬, 奴印, 分魂秘术, 复杂关系, 男女主角, 阴谋, 情感冲突, 修行, 牺牲, 纯爱, 堕落                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

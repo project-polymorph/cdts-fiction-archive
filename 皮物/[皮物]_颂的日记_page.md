@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_颂的日记.docx]([皮物]_颂的日记.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本档案馆收录了关于主人公颂的大学生活日记，她是一位充满梦想的年轻女孩。日记中详细记录了她从收到大学录取通知书，到面对大学生活的种种新鲜事物，包括与舍友的相处、军训的辛苦、以及对一位叫做风学长的男生的憧憬与暗恋。颂通过文字表达了对生活的期待与思考，也揭示了年轻人在校园中面临的情感与成长的困惑。随着时间的推移，颂的日记从8月的期待写到了10月，内容涉及友情、初恋、个人成长以及体会等多个方面，不乏幽默与甜蜜的元素。整个故事渗透着青春的气息，以及对未来的美好憧憬。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_颂的日记.docx]([皮物]_颂的日记.docx)
 | Size            | 28176 bytes                           |
 | MD5             | 4650de03333dd8420b029b8c8dd25037                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 校园恋爱, 初恋, 个人成长, 日记体裁, 友情, 大学生活, 青春文学, 自我探索, 心理描写, 二次元文化, 可爱女孩, 女生视角, 学长恋, 多样性身份, 新生生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

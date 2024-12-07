@@ -7,7 +7,7 @@ TXT 下载: [[交换]_[换头]_为了卧底任务我只好跟丰乳肥臀的阿�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一名联邦调查局探员艾历在一个卧底任务中不小心与一名女性桑德拉交换身体的故事。在麻醉药物的影响下，艾历醒来后发现自己变成了一名性感熟女，他不得不适应新的女性身体，同时继续执行任务。艾历在探索自己身体新感官的同时，还面临身份危机和过去身份的彻底转变。他逐渐意识到对性的认同和自我探索的重要性。整个故事充满了尴尬与幽默的情节，比如他在穿高跟鞋时的困难，以及主动处理自己新身体的挑战。在此过程中，他不仅要重建身份，还要及时找到桑德拉以阻止更大的危险。情节展现了性别认同、自我探索以及社会角色的冲突与转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_[换头]_为了卧底任务我只好跟丰乳肥臀的阿�
 | Size            | 21048 bytes                           |
 | MD5             | 4057d2b4ff5b07c5e24843fcc3b407af                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 女性化, 卧底任务, 身体交换, 自我认同, 巨乳, 高跟鞋, 身份重建, 探员冒险, 神秘对手, 未知身份, 尴尬喜剧, 个人成长, 情感冲突, 自我探索玩味                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

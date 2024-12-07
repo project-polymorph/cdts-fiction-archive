@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【纪实】关于我被Twitter上认识的人调教的故
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了主角与一位名为M先生的男性交往的经历。在一次约会中，主角与M先生进行了亲密互动和各种性体验，涉及了角色扮演、性别认同和身体感知等主题。文本开头叙述了主角与M先生在Twitter上的相识，以及他们约会前的交流。文件详细描述了约会过程中发生的场景，包括主角穿着黑色连体网袜的羞耻感，以及M先生使用成人玩具的过程。主角在过程中体验了身体的敏感部位被抚摸与刺激，描述了从身体接触到使用玩具的细节，体现了性别角色的转换和自我认知的冲突。文件中还提到主角对与男性的性关系感到的愉悦与刺激，回顾了彼此之间的互动及随之而来的高潮体验。最后，主角在回程中发现自己衣服穿反，似乎暗示着此次经历的独特性和意外感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【纪实】关于我被Twitter上认识的人调教的故
 | Size            | 125409 bytes                           |
 | MD5             | 09b5f41874b5e764058cd03ee75e32db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 跨性别, 性别认同, 角色扮演, 成人内容, 性转小说, 情感探索, 自我认知, 互动体验, 奇幻, 性快感, 男娘, 同志情感, 道德冲突, 社交媒体互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

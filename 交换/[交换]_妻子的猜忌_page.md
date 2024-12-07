@@ -7,7 +7,7 @@ TXT 下载: [[交换]_妻子的猜忌.doc]([交换]_妻子的猜忌.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部描绘贵族女性兰叶与她的家猫意外交换身体后，经历一系列心理与身份转变的性转小说。故事设定在中世纪，男主莫比克是位有权有势的贵族，而兰叶则是他的妻子，心中渴望重新获得配偶的关注。为了不再被丈夫冷落，兰叶通过触碰到一颗神秘的水晶球，与她的宠物猫进行身体互换。兰叶在猫的身体里，体验到了作为下人的羞辱与家务劳动的艰辛。与此同时，另一位女仆馨月也在兰叶的身体中经历了记忆的交错与身份的重塑。随着故事的发展，兰叶由于信任危机和误会，逐渐陷入了深渊，最终甚至体会到堕落的滋味，而兰叶的丈夫莫比克则不断被动地卷入其中，揭露了夫妻间深刻的信任问题和身份的脆弱。小说中交织着探索人性、身分、欲望与社会地位的深刻主题，情节复杂而引人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_妻子的猜忌.doc]([交换]_妻子的猜忌.doc)
 | Size            | 49664 bytes                           |
 | MD5             | d79cb370a60124df5e227e12708e96a3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 身体交换, 心理探索, 女仆, 贵族生活, 信任危机, 情感纠葛, 奇幻, 自我认同, 堕落, 中世纪, 迷失, 身份认同, 女性视角, 奇妙经历                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

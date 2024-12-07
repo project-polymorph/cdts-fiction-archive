@@ -7,7 +7,7 @@ TXT 下载: [[变身]_婚礼会场的异变.docx]([变身]_婚礼会场的异变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档名为《婚礼会场的异变》，描述了一个即将举行的婚礼现场的情景。故事发生在一个宁静的小教堂内，阿德作为现场工作人员之一正忙于婚礼的准备。他的任务是安抚一个小男孩，这个男孩因为没有小伙伴而感到孤独和不满。文中详细描绘了小男孩的情绪变化和阿德内心的无奈，同时引入了阿德与小男孩的母亲间的关系，以及阿德对当下状况的反思。小说的叙述风格轻松幽默，爱情的萌芽和角色间的情感转变是主要的看点。同时，故事也涉及了家庭、责任和自我认知等主题，展现了一个充满温馨与挑战的婚礼准备过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_婚礼会场的异变.docx]([变身]_婚礼会场的异变
 | Size            | 23865 bytes                           |
 | MD5             | 12bbf15645b34900f569f2065279347e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 婚礼, 家庭关系, 儿童, 情感探索, 伪娘, 小花童, 自我认知, 爱情故事, 男孩情绪, 职场恋情, 角色发展, 温馨故事, 短暂相恋, 节日庆典, 婚礼筹备, 童趣                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

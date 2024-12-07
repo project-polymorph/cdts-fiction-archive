@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[分魂]少女与战车：凭依战！-1.docx]([附身]_[�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说的一部分，由作者トゥルー创作，内容围绕着一名名为蝶野亚美的女性自卫队员与一名权威的公务员辻康太之间的对话。故事设定在一个昏暗的文部科学省办公楼内，从最初的平静开始，逐渐展开出关于大洗女子学园的争议。文中提到大洗女子学园在全国战车道大赛中获得冠军，然而即便如此，教育部门却坚持要废校，双方的立场产生了激烈冲突。蝶野对于教育局公然破坏诺言感到愤怒，她认为这些孩子的努力得到了应有的尊重，而辻却冷漠地指出，他们的胜利在国际上会造成困扰，必须尽快处理。作为谈判的一部分，辻甚至展示了奇特的“灵魂注入炮”这一怪异装置，进一步展现出故事的幻想与荒诞色彩。此文件不仅体现了角色之间的紧张关系，也探讨了教育与强权的道德困境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[分魂]少女与战车：凭依战！-1.docx]([附身]_[�
 | Size            | 57056 bytes                           |
 | MD5             | 8d9b2136c0968836c892b4f305555e1d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | トゥルー                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 日本自卫队, 大洗女子学园, 战车道, 荒诞, 幻想, 教育道德, 灵魂注入炮, 角色冲突, 阴暗政治, 性别认同, 权威对抗, 社会批判, 强权与反抗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_7.docx]([变身]_【渣�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描写变身与强制性行为的小说，文中主要围绕一名女勇者艾伦的屈辱经历展开。故事开始于艾伦被敌对男性用暴力手段捕获，随着情节的发展，她被迫接受身体与心理的双重屈辱，其中涉及大量性暗示和生殖器相关的令人不适的情节。文本中充斥着对勇者身份的肆意嘲弄，以及对她身体的操控与侵犯，表现出强烈的性别转换和性角色颠覆主题。文中描绘了艾伦在被迫存活后，面对男性强权的屈辱和愤怒，但身心都遭受到了极大的冲击。文中多次提及的"标记"及"顺从"等术语，进一步强调了对主体性与自我认同的剥夺，形成了与变身主题相关的强烈对比。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【渣翻】勇者弱体化封印_7.docx]([变身]_【渣�
 | Size            | 31328 bytes                           |
 | MD5             | 329c65206c286d4b44be100617295f2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 勇者, 变身, 转化, 屈辱, 操控, 性别转换, 依赖, 强权, 性暗示, 心理冲突, 身体认可, 情感矛盾, 自我挣扎, 性别认同, 暴力, 文艺作品, 二次元文化, 女性角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

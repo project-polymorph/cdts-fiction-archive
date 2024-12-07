@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【扶他】黏液之愛：第十二章：攻守互換.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于跨性别及变身小说的章节，取名为《黏液之愛：第十二章：攻守互換》。故事围绕两名角色之间的性关系展开，特别强调了性别角色的互换与探索。主人公在经历了一场激烈的性活动后，与朋友共同分享情感与亲密，展现了她们之间强烈而复杂的情感联系。这一章节详细描绘了她们如何在性别转变中体验身体的快乐与性欲，突显了性别认同、自我探索的主题。伴随着两名角色的互动，文本中描绘了诸多性感及挑逗的场景，用词直白而生动，展现了角色之间的情感与身体的交织。此章节包含了多种成人情节，适合成人阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【扶他】黏液之愛：第十二章：攻守互換.doc
 | Size            | 35328 bytes                           |
 | MD5             | 519df7793403e29028e3f07f570350b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 双重高潮, 办公室恋情, 禁忌之爱, 变嫁, 性别认同, 自我探索, 强烈性欲, 激情, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

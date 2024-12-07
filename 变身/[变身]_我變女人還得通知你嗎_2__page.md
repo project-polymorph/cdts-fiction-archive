@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我變女人還得通知你嗎_2_.doc]([变身]_我變女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于变身与性别认同的小说第二章，讲述了主角“我”在经历性别转换后的新生活。故事背景设定在一个悠闲的星期六，主角等待着一位名为书伟的好朋友来访。在新身份的影响下，主角对自己的感受和心理变化充满了探索。在准备拜访书伟的过程中，主角兴奋地想要购买女性衣物，彰显其变身后的身份，并对自己的新形象感到激动和期待。在意外邂逅书伟的母亲后，主角必须面对外界对其性别身份的误解与质疑，体现了角色所经历的尴尬和困惑。随后，主角与书伟之间的互动充满了玩笑与调侃，反映了性别认同所带来的冲突与认知的转变。整段故事通过幽默的语言与细腻的描述，展现了性别与情感的复杂性 ─ 对主角而言，既容易引发自我怀疑与不安，又充满了对新生活的好奇与期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_我變女人還得通知你嗎_2_.doc]([变身]_我變女�
 | Size            | 41984 bytes                           |
 | MD5             | a23feb633e6ff28c3722f4bb7431c399                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 跨性别, 友谊, 爱情, 自我探索, 性别转换, 伪娘, 幽默, 校园生活, 心理冲突, 友谊与爱情的纠葛, 性别边界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

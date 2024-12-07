@@ -7,7 +7,7 @@ TXT 下载: [[其他]_微小说.docx]([其他]_微小说.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这个微小说档案馆包含了三篇具有强烈个人色彩的短篇小说，探讨了不同的性别认同与转换主题。第一篇《强奸》讲述了一个角色自以为控制一切，然而最终反被命运玩弄的故事，情节涉及性暴力与心理扭曲，使人深思性别权力的复杂性。第二篇《怀孕》则通过一个家庭期待中出现的怀孕经历，表面上是温馨的家庭故事，但也透露出对生育与身体变化的深刻思考。第三篇《车祸》结合了穿越与重生的元素，一个角色为了救人而献身，结果却不断被塑造成女性形象，这样的设定引发了对于性别与自我认知的冲突和探索。整体上，这些文本以不同维度呈现了性别与身份的流动性，具有一定的文学价值与社会意义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_微小说.docx]([其他]_微小说.docx)
 | Size            | 15171 bytes                           |
 | MD5             | e685ae72dd838d5064caa225902e44ca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转, 伪娘, 重生, 怀孕, 变身, 心理扭曲, 家庭剧情, 强奸, 自我探索, 逆转性别, 青春校园, 性别角色, 性暴力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

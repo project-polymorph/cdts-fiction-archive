@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】六、盗圣传功.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《在下盗圣，有何贵干》第六篇描写了角色小白和小青使用了一种名为洗髓丹的药物，之后身体发生了显著变化，修炼了一种可改变形体的秘诀。在一系列淫荡而富有幻想色彩的场景中，小青向小白展示她的新身体，并进行了一系列身体上的亲密互动。二者的性别意识模糊，互相探索对方的身体，引发了强烈的性欲。文本详细描绘了性别变换后的情境，以及角色之间逐步深化的情感和生理互动。小说充斥着对性别认同的探索与幻想，融合了强烈的性描写，强调对角色身体变化的细致刻画，是一部典型的伪娘与变身题材的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】六、盗圣传功.doc]([
 | Size            | 42496 bytes                           |
 | MD5             | 69d686a6acad011f99c979b0c93e726d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别变换, 伪娘, 男娘, 变身, 跨性别, 强烈性描写, 自我探索, 修炼幻术, 性欲混淆, 双性恋, 异世界, 奇幻冒险, 身体意识, 角色互动, 情感纠葛, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

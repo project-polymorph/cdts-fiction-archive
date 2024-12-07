@@ -7,7 +7,9 @@ TXT 下载: [换身.doc](换身.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述的是主要角色李伟与他的女朋友陈琳韵之间的情感故事。起初，李伟深爱着名为陈琳韵的女孩，但由于他对特定女性形象的偏好（例如超高跟鞋和浓妆）与韵儿的个性不合，导致两人最终分手。李伟在失去韵儿后深感痛苦，沉溺于回忆之中，直到有一天在酒吧邂逅了化妆精致、穿着性感的前女友韵儿。当他面对这个完全不同的韵儿时，感到无比陌生，心情复杂。这名女子的外貌和举止似乎与韵儿的真实个性大相径庭，她在酒吧中表现得极为开放和挑逗，甚至与陌生男子亲密交往，李伟目睹这一切，内心百感交集。
+
+故事生动描绘了李伟那种既痛苦又渴望的情感，通过细腻的描写表达了对角色心理变化的探索，以展现个体自我认同与情感冲突的复杂性。文本中使用了大量对韵儿外貌、妆容及行为的具体描写，描绘她从一个性冷淡的女孩演变为一个热烈、性感的女性。相关情节涉及潜在的性暗示和心理探索，尽管韵儿显得与李伟无比陌生，但她的变化却引发了李伟内心的震荡。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [换身.doc](换身.doc)
 | Size            | 72192 bytes                           |
 | MD5             | 07b44d0e6468c44b92ce7a5ccfd41227                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 情感纠葛, 性别认同, 自我探索, 酒吧文化, 恋物癖, 失去与渴望, 心理描写, 二次元, 强烈冲突, 性感描写, 性相关                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_地底帝国の女幹部4.docx]([催眠]_地底帝国の�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一个关于地底帝国女干部训练的故事，主要展现了角色阿宇美作为女指挥官的身份和地底帝国内部的训练场景。故事的开头，阿宇美命令三十四名女性在训练室集合，并描述了她们穿上黑色紧身衣的景象。随着故事的发展，阿宇美通过对讲机与实验室联系，显示了她的权威与控制力，并提到了一位名为白鸟博士的角色。接下来的场景中，阿宇美对训练的具体安排进行了说明，并对听众提出的疑问做出反应，展现了训练的特殊性和角色之间的互动。文中涉及的主题包括角色扮演、权威和顺从等，整体氛围带有一定的调教和性暗示。整体内容呈现出日本成人向插画文的风格，适合研究性别角色与权力关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_地底帝国の女幹部4.docx]([催眠]_地底帝国の�
 | Size            | 50436 bytes                           |
 | MD5             | 5dd2d775e6f8afde440d0a540f1d2c76                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 角色扮演, 女干部, 训练, 权威, 调教, 紧身衣, 实验室, 幻想, 二次元, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

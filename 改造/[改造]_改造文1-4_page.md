@@ -7,7 +7,7 @@ TXT 下载: [[改造]_改造文1-4.doc]([改造]_改造文1-4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为刘山的角色，他在进行一次郊游时进入了一处神秘的洞穴，随后失去意识。在梦境般的状态中，他听到了一个实验声音，讲述了针对他身体的各种改造手术，涉及到性别转换和身体重塑的复杂过程。该过程包括利用先进的生化技术，对其进行多项手术，如声带切除、脊椎矫正和生殖器官改造等。随着手术的进行，刘山逐渐意识到他已不再是过去的自己，而是化身为一位年轻女孩，身体的各个部分也发生了显著变化。文件深入探讨了手术的细节，以及由此带来的生理和心理上的双重冲击，涉及对性别认同和自我身份的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_改造文1-4.doc]([改造]_改造文1-4.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 78848 bytes                           |
 | MD5             | 7c567bf7d116aeb180f19116f1efa143                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 生化改造, 性别认同, 自我探索, 实验室, 身体变化, 青少年, 科幻, 异世界, 生理手术, 角色转变, 情感冲突, 心理描写, 复杂情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

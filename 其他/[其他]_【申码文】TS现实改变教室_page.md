@@ -7,7 +7,11 @@ TXT 下载: [[其他]_【申码文】TS现实改变教室.doc]([其他]_【申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件讲述了一个名为伊藤和马的男大学生，他声称拥有一种名为“现实改变能力”的能力，可以随意改变周围的现实。在一次课堂上，他以“真美老师”的身份，试图通过这个能力让自己的班级同学体验性别和身份的交换。故事从他宣布班级进行实验开始，随着他逐步让学生们体验性别转换，最终引发了学生们对性别角色和身体认同的思考和探索。
+
+在实验中，学生们被要求相互交换身体和服装，内容充满了性别倒错和性别认同的主题，展示了学生们在变身过程中的各种反应，包括惊讶与兴奋。同时，这个过程中还涉及一些含有性暗示的情节，例如男孩变身为巨乳美女，体验身体的不同，以及对新身份的探索与适应。
+
+这种剧情设计体现了性别流动性和自我认同的主题，以一种幻想和幽默的方式探讨了性别身份。在小说的后半部分，角色们面临与自我认知的冲突，并在这种变化中产生了各种复杂的情感和欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[其他]_【申码文】TS现实改变教室.doc]([其他]_【申�
 | Size            | 55808 bytes                           |
 | MD5             | 675eef84aab4c02a7d1aacf093ac82bf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 现实改变, 性别认同, 课堂实验, 性别转换, 伪娘, 变身, 青春校园, 自我探索, 性别流动性, 情感冲突, 性暗示, 二次元, 男娘, 百合, 调教, 黑色幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_丑小鸭变白天鹅_第二章.doc]([变装]_丑小鸭变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部跨性别和变装小说的第二章，原作者为JHouston。在这一章中，主角详细描绘了他与女友卡罗尔之间复杂的关系。他意识到卡罗尔在与其他男人的亲密关系中获得了快感，而他也在逐渐接受这种自己的无能为力。由于卡罗尔的出轨行为，主角体验到了嫉妒、羞辱与最终的自我认同过程。他开始考虑自己打扮成女性的可能性，并对这一行为产生了好奇心和挣扎。文中反映了主角的内心挣扎和性别认同探索，特别是他对卡罗尔及她的情感需要的深刻刻画，以及他和朋友泰德的对话，让读者看到他对改变的渴望与恐惧。整体来说，这是一个关于性别转换、自我探索及情感需求的故事，涉及了许多社会性与心理性的话题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_丑小鸭变白天鹅_第二章.doc]([变装]_丑小鸭变
 | Size            | 62976 bytes                           |
 | MD5             | d14a1c69aefafbffa4d9d20aa436a1d2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | JHouston                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 自我探索, 伪娘, 强奸, NTR, 淫荡, 多重关系, 女性化幻想, 情感纠葛, 心理变化, 男娘, 调教, 虚拟现实, 古代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

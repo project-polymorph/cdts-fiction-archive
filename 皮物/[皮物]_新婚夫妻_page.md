@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新婚夫妻.doc]([皮物]_新婚夫妻.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一对年轻夫妻的奇幻爱情故事，涉及性别转化和身份认同的主题。文章的开头描绘了一对新婚夫妻在超市的日常，丈夫与妻子之间温馨亲密的互动，展示了他们甜蜜的关系。随着故事的发展，妻子有慧因为对丈夫正信的爱，愿意穿上生化皮衣以变成成熟女性，从而面对社会的各种眼光和法律问题。正信是一名依赖外貌生活的小白脸，为了追求新生活选择了这种方式。同时，故事中穿插了有慧的母亲的身份变化，她被正信强行套上了嬰儿套装，身份和角色的错位产生了戏剧性的冲突。文章使用细腻的描写，展现了夫妻间复杂而又交织的情感，以及对母女关系的探讨。整体内容中夹杂了一些限制级和性相关的情节，以和谐和冲突并存的方式描绘了他们的生活。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[皮物]_新婚夫妻.doc]([皮物]_新婚夫妻.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 6cf86dc56d9f9e541617ce846520b3c9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转化, 跨性别, 生化皮衣, 精神错位, 伪娘, 男娘, 自我认同, 虚拟现实, 奇幻爱情, 家庭关系, 伦理问题, 生育与亲情, 身份重塑, 情感探索, 年龄差, 社交隐秘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

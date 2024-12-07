@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《小兵传奇之那年夏天》第三章：意外之外.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《小兵传奇之那年夏天》的第三章，标题为“意外之外”。故事设定在一个炎热的夏天傍晚，讲述了一个少年与一位老乞丐之间的奇妙遭遇。老乞丐利用特殊能力将一位中年妇女的身体与灵魂剥离，展现出灵魂与身体的关系及其复杂性。主角目睹了这一超现实场景，充满惊讶与疑惑。在对话中，老乞丐解释了他的能力以及通过剥离身体和灵魂可以达成的目的，暗示如果使用得当，甚至可以借助他人之力来增强自己的智慧和能力。故事通过生动的描写和角色之间的幽默互动，探讨了身份和自我认知的主题，同时也包含了一些关于性别与转变的暗示，使得整篇章节富有探索性和哲理性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《小兵传奇之那年夏天》第三章：意外之外.
 | Size            | 31744 bytes                           |
 | MD5             | 1ba25a2c3d45fc45a5e4962047085eaa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 灵魂剥离, 身份认同, 奇幻, 老乞丐, 超现实, 少年冒险, 魂体, 超自然能力, 自我探索, 性别角色, 幽默互动, 非人化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_锁中蔷薇1_(2).docx]([改造]_锁中蔷薇1_(2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部伪娘 TS 变身与跨性别相关小说的第一章，主要围绕男主角王嘉飞与女友小洁之间的情感与性行为展开。故事始于一个宁静的夜晚，描绘了一幅香艳的场景，男生与女生的身体交织，伴随着深入的描述，突出了他们之间的亲密关系。文本详细描写了他们的肉体结合，以及王嘉飞在情欲中逐渐占据主导地位的情节。在第二部分，王嘉飞作为一个角色，进入一个充满阴暗与权力玩的环境，他的未来似乎逐渐被阴谋所笼罩，涉及蔷薇会馆的政治斗争与身体改造的主题。这部作品主要探讨性别认同、自我探索和权力控制等复杂故事线。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_锁中蔷薇1_(2).docx]([改造]_锁中蔷薇1_(2).docx)
 | Size            | 41264 bytes                           |
 | MD5             | 098d6116cfe3989f54065bb5f3c989dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转小说, 性感内容, 爱情, 权力斗争, 自我探索, 情欲, 肉体关系, 变身小说, 年龄差, 情感纠葛, 禁忌关系, 都市幻想, 情节复杂, 阴暗主题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的伪娘史第二季（8）.docx]([变装]_我的伪�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇伪娘与跨性别主题的小说，主要描写了角色艾薇在沙滩上与友人迪飞的互动。故事开头，艾薇在海滩上漫步，享受着海风和海浪的袭来。在她的身后，迪飞陷入沉思，似乎有些不知所措。随着情节的发展，艾薇与迪飞之间的关系逐渐变得亲密。可儿则是艾薇的朋友，时不时在两者之间调侃，营造出轻松幽默的气氛。小说中穿插了艾薇与迪飞的对话，展示了他们之间微妙而又暧昧的情感。随着故事的推进，这段关系发生了一些戏剧性的变化，包括意外的吻和情感上的波澜，为接下来的情节发展埋下了伏笔。整篇文章通过轻松的对话和富有戏剧性的情感冲突，探讨了性别认同与情感探索的主题，同时带有一些幽默和温情的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的伪娘史第二季（8）.docx]([变装]_我的伪�
 | Size            | 20400 bytes                           |
 | MD5             | 66f9b499453a07128d77eed0cd931bcf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 爱情, 青春, 海滩, 友谊, 情感探索, 变装, 羞涩, 幽默, 沙滩生活, 轻松                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

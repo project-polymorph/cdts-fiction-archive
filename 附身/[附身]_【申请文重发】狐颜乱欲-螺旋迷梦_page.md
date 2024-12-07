@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【申请文重发】狐颜乱欲-螺旋迷梦.doc]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部附身与催眠相关的小说，讲述了一名18岁高中男生的奇妙遭遇。在故事中，男生与一位身穿和服、外表娇小的妖狐少女小铃相遇，因种种情节发展出一段特殊的关系。故事中描绘了角色的外貌细节和心理变化，突显了男生对姐姐和妹妹的倾向以及对可爱的女孩的迷恋。随着情节推进，男生在与小铃的互动中逐渐展现出了对于性别身份的困惑和焦虑，甚至在一场意外中进入了小铃的身体，成为了一个看起来仅有12或13岁的小女孩。在这段变身经历中，他体验了作为女孩的生活，并感受到自己的心理状态与外部期望之间的冲突。该故事配有丰富的幻想元素，并涉及性别认同和自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【申请文重发】狐颜乱欲-螺旋迷梦.doc]([附�
 | Size            | 183296 bytes                           |
 | MD5             | b4e4e72ef15842debcb40d4425fa3791                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 催眠, 萝莉, 妖狐, 变身, 性别认同, 自我探索, 二次元, 高中生, 奇幻, 心理变化, 青春成长, 性别转换, 女性视角, 魔法, 超自然, 幻想, 关系发展, 心理戏剧, 角色冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

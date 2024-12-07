@@ -7,7 +7,7 @@ TXT 下载: [[改造]_妻子的最爱的挎包.docx]([改造]_妻子的最爱的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描绘奇幻性转情节的小说，标题为《妻子的最爱的挎包》。故事围绕叙述者与其妻子的妹妹琳娜之间的互动展开。琳娜是一名调酒师，她在准备派对时带着一种魔法药水，希望用此药水转化叙述者，将其变为一个挎包。故事的开头，叙述者在厨房协助琳娜，随着情节的发展，琳娜施用药水后，叙述者逐渐变身为女性挎包，最终被琳娜放入手提箱，陷入无助的境地。小说描绘了角色对性别认同的挣扎与转变，包含奇幻、性转、以及调皮的调侃，并探讨了权力与操控的关系。文中可见叙述者的恐惧与无奈，如“我无能为力”以及“快TM把我变回来”等表现出他希望恢复原貌的迫切心情。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_妻子的最爱的挎包.docx]([改造]_妻子的最爱的
 | Size            | 28295 bytes                           |
 | MD5             | d5f01446131442a0a1dd4f52ca816292                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Squidonhead                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 奇幻, 调酒师, 神秘药水, 权力关系, 性别认同, 人体改造, 羞辱, 魔法, 紧张气氛, 无力反抗, 男性角色变为女性, 诙谐, 调皮的姐妹关系, 奇妙的调酒, 幻想小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

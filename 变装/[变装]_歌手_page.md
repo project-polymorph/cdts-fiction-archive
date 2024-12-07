@@ -7,7 +7,7 @@ TXT 下载: [[变装]_歌手.docx]([变装]_歌手.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一位名叫罗尼·朗的漂亮男孩，他天生具有天使般的嗓音，热爱唱歌，但因无法像其他男孩一样展现阳刚之气而感到沮丧。罗尼在唱诗班练习后，无意中听到老师提到他的高音即将受到青春期影响，这让他意识到自己可能会失去这项天赋。他的母亲对这一情况感到非常担忧，并与老师讨论了如何保护他的声音。最终，罗尼同意接受激素治疗，以保持他的声音不变，虽然对此充满恐惧和不安。随着时间的推移，罗尼接受了女性化的训练，不断向女性形象转变，最终获得了许多唱片的成功。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_歌手.docx]([变装]_歌手.docx)
 | Size            | 22313 bytes                           |
 | MD5             | 0bfb948a914d28274f034699b340b559                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 青春期, 女性荷尔蒙, 音乐天赋, 自我认同, 情感探索, 性别转变, 母子关系, 偶像成长, 激素治疗, 女性化训练, 音乐产业, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

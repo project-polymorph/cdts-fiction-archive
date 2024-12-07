@@ -7,7 +7,7 @@ TXT 下载: [[附身]_从路人开始的魔法少女_序章.doc]([附身]_从路
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇奇幻题材的小说，标题为《从路人开始的魔法少女》，涉及恶鬼入侵、守护者与被选中的女性角色之间的互动。故事的开头描绘了一个城市的紧急新闻，恶鬼从黑洞中现身，居民们被迫避难。随着情节的发展，介绍了守护者选择一名女高中生（JK）作为拯救世界的魔法少女，她在灵凭依的过程中，身体被用于抵御恶鬼的攻击。同时，小说深入探讨了女主在变身成魔法少女后，拥有强大力量的同时，私人生活与困扰的矛盾，表现出对自我身份的探索及性别角色的交融。其中，描写了女主借助魔法进行了一些挑逗及互动的场景，同时与大叔的约定开启了她另一段极端的社会生活。丰富的幻想元素与性别变换的叙述交织，构成了一部充满波折又带有奇异色彩的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_从路人开始的魔法少女_序章.doc]([附身]_从路
 | Size            | 49152 bytes                           |
 | MD5             | e6498f7678719a11dab20c117e7b220f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 恶鬼入侵, 灵凭依, 性别转换, 自我探索, 幻想, 奇幻, 校园, 变身, 英雄主义, 年龄差, 调教, 伪娘, 性转, 异世界, 成人向                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

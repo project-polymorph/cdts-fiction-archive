@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】与女高中生仅仅互换身体的新婚�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一名新婚男职员山元健太的日常生活，他意外地与女高中生交换了身体。文章从健太的视角出发，详细描绘了他在女高中生身体中的挣扎和困惑。他的身体发生了显著变化，健太描述了自己越来越女性化的外形和对新身体的感觉，包括他在穿着西装时的尴尬。而在公司上班期间，健太面临着许多困惑的性别认同问题，以及用新的身体在社交场合下的尴尬遭遇，比如在洗手间的羞耻。整个故事充满了身体认同、性别角色的探讨，同时含有相当明显的性暗示和情感冲突。健太当面对一个全新的自我和周围人的认知，伴随着强烈的内心挣扎。他的体验充满了喜剧性和悲剧性，展现了性别变换所带来的复杂情感与社会挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】与女高中生仅仅互换身体的新婚�
 | Size            | 50176 bytes                           |
 | MD5             | 4ec4c72148a5013174bf5a4f13ae2390                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 身体交换, 变身, 内心挣扎, 性暗示, 职场生活, 幽默, 悲剧体验, 情感冲突, 女性化, 尴尬经历, 二次元设定, 新婚生活, 青春期困惑, 社会角色, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

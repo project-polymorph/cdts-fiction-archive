@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_老婆大人不在的星期天.doc]([皮物]_老婆大人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《老婆大人不在的星期天》的短文，是在除夕之夜创作而成，全文约37000~38000字，展现了主人公王小明的生活与变装兴趣。故事围绕着王小明的变装爱好展开，描述他所搭建的“变装小屋”，以及他与老婆大人之间的互动与默契，尤其是对于他的变装爱好的包容与理解。王小明通过假乳、假阴道和各种变装道具，尝试化身为不同的女性角色，探索不同的生活体验。文中不仅详细描述了变装的过程，还探讨了角色认同与自我接受的问题，涉及了一些与性别认同与自我探索相关的主题。文章中包含了部分较为露骨和成人向的内容，值得注意的是作者希望读者能给出建议与反馈。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_老婆大人不在的星期天.doc]([皮物]_老婆大人�
 | Size            | 155648 bytes                           |
 | MD5             | 40ff25437af291712638f0012fc9a9c5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 王小明                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 自我探索, 伪娘, 变身, 强奸, NTR, 多重性别, 角色扮演, 二次元, 情感纠葛, 生活化, 魔法, 都市生活, 性别转换, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

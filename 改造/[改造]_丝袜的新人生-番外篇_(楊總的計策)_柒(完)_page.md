@@ -7,7 +7,7 @@ TXT 下载: [[改造]_丝袜的新人生-番外篇_(楊總的計策)_柒(完).do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是来自多元性别中文数字档案馆的一篇名为《丝袜的新人生-番外篇 (杨总的计策)》的小说。小说延续了前面的情节，通过主人公与杨总的互动，探讨了性别转换和角色交换的主题。在故事中，主人公利用一个具有神秘力量的胸罩，引导杨总经历一系列惊人的变身和性别体验，同时融入了复杂的情感联结和性探索。文中通过细致的描写展现了身体变换带来的感官体验和心理变化，并包含了一些成人向的情节，描绘了两位角色在性行为中的各种互动细节，使读者感受到强烈的情感冲突和生理反应。整体故事不仅充满戏剧性，也反映了作者对角色和身份流动的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_丝袜的新人生-番外篇_(楊總的計策)_柒(完).do
 | Size            | 45568 bytes                           |
 | MD5             | 5f1f7afac4ba2c7c1502c1bff7a09009                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 柒                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转, 伪娘小说, 变身, 跨性别, 爱情, 强奸, 多元性别, 自我探索, 调教, 变嫁, 逆后宫, 成人小说, 阴道, 自慰, 乳汁, 操控, 幻想, 都市, 性快感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

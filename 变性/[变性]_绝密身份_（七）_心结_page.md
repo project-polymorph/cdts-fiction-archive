@@ -7,7 +7,7 @@ TXT 下载: [[变性]_绝密身份_（七）_心结.docx]([变性]_绝密身份_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换和变身的虚构小说的第七章，标题为《心结》。故事的主角经历了一年的生活和治疗，逐渐适应了新的女性身份。文中描述了主角通过药物治疗和整形手术，慢慢变得越来越接近理想中的女性形象，手术过程中充满了对自我的反思与期待。章节通过细腻的描写展现了主角外貌的改变，从一开始的接受到逐渐自信，对自己面孔的欣赏可见其内心的斗争与变化。此外，该章节还探讨了性别认同和自我认知的问题，间接反映出社会对性别的理解与接纳。文中还提到了一位名为娜塔安的医生，她负责主角的医疗过程，并表达了未来可能的再造子宫技术的进展，给主角带来了生育的希望。整个故事渗透着重获自由和适应新生活的喜悦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_绝密身份_（七）_心结.docx]([变性]_绝密身份_
 | Size            | 26553 bytes                           |
 | MD5             | 1e072e68756db5dc4f6c244c2f4e838f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 整形手术, 自我探索, 虚构, 情感, 女性化, 医美, 人生选择, 新生活, 变嫁, 变身, 超现实主义, 青春成长, 风格化写作, 自我认知, 治疗过程                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

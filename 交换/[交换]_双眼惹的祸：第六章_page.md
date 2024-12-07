@@ -7,7 +7,7 @@ TXT 下载: [[交换]_双眼惹的祸：第六章.doc]([交换]_双眼惹的祸�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别题材的小说《双眼惹的祸》的第六章，主要围绕李凯与江月婷之间复杂的情感纠葛与性别认同的冒险展开。章节开头描述了江月婷以迷人的姿态接近李凯，两人之间的关系在亲吻与缠绵中逐渐加深，然而李凯在过程中经历了神秘的灵异事件，进入了一个奇幻的场景。李凯意外发现了一个身穿金黄袈裟的僧人，他的身影与自己极为相似，令他震惊不已。在接下来的情节中，江月婷的形象在李凯的脑海中不断浮现，两者之间的身体与灵魂的交织令人匪夷所思。整个章节探讨了性别转换、自我认知与灵异经历交融的复杂主题，同时包含了一些性暗示与调情的场景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_双眼惹的祸：第六章.doc]([交换]_双眼惹的祸�
 | Size            | 40960 bytes                           |
 | MD5             | 3c050d0d4bec83d1805999608f0c86de                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 情感纠葛, 奇幻, 灵异, 自我探索, 性别认同, 变身, 超自然, 亲密关系, 二次元, 冒险, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

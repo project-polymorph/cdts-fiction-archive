@@ -7,7 +7,7 @@ TXT 下载: [[变身]_普通的一家（1-3）.doc]([变身]_普通的一家（1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘、变身相关小说的第一和第二章，内容描绘了角色肯德尔的性别转变过程。故事开始于肯德尔和他的朋友们在新家聚会的场景，讨论女孩和饮酒。随后，肯德尔在半夜醒来，经历了一系列剧烈的身体疼痛和变化，逐渐意识到自己的身体正在发生显著的性别转变。从最初的男性形象，到后来的女性外观，肯德尔的声音、身体结构和心理感受都经历了一场较为痛苦的转变。包括对自己的身体变化的不适应，以及对失去男性身份的无助感。文件详细描述了这些变化的具体过程，例如受影响的身体部位和内心的挣扎，以及在浴室前的鏡像对照。该文档为研究性别认同、自我探索和变身类主题提供了丰富的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_普通的一家（1-3）.doc]([变身]_普通的一家（1
 | Size            | 54784 bytes                           |
 | MD5             | c29244ee4155f55e27b91246b7144ff0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别转变, 跨性别, 青春, 自我探索, 恐惧, 身体认同, 幻想, 个人成长, 痛苦, 身份危机, 现代生活, 饮酒文化, 聚会, 性别意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

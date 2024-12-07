@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【短篇】能力者传说外传1女儿的变化.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇短篇小说名为《能力者传说外传1女儿的变化》，内容围绕一位母亲对女儿近期异常行为的怀疑和调查。故事开始时，母亲注意到女儿经常晚归，并表现出秘密和不安的迹象。女儿开始打扮得越来越妖艳，令母亲感到疑惑与担忧。为了查明真相，母亲偷偷进入女儿的房间，发现了一个微型摄像机并秘密录下女儿的行为。在观看录像后，母亲震惊地发现女儿竟然在进行自慰，之后更可怕的情节随之展开——女儿的身体被一个中年男性占据。故事通过这种极端的方式探讨了性别身份与身体的异化，以及母亲在面对女儿变化时的无奈和恐惧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【短篇】能力者传说外传1女儿的变化.doc]([�
 | Size            | 38400 bytes                           |
 | MD5             | 6aab80a70c5cc5db35f9718805f01231                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 短篇小说, 性别变换, 心理惊悚, 家庭关系, 性探索, 禁忌情感, 自我认知, 秘密监视, 代入感, 身体异化, 青春成长, 心理恐惧, 母女关系, 剧情反转, 超自然元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

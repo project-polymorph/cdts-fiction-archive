@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_试图召唤魅魔，却召唤出了一张皮？.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《试图召唤魅魔，却召唤出了一张皮？》的小说内容，描绘了一名大学生张耀因一次意外实验召唤魅魔却召唤出了一张皮物的奇幻故事。张耀闲暇时从街边摊位购得一本魔法书，尝试按照书中的图案绘制法阵，期望能够召唤出魅魔。在法阵发光后，实际召唤出来的是一团淡紫色的皮物，而非期待中的魅魔。皮物似乎有着魔法师薇莉的意识，因实验失败而暂时借助张耀的身体生存。在交流后，张耀感受到了一种无法抗拒的冲动，开始逐渐变装，经历性别转变并感受到身体的变化，故事围绕性别认同与自我探索展开，夹杂了奇幻、变身与性别转换的元素。文中涉及许多敏感内容，适合成年读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_试图召唤魅魔，却召唤出了一张皮？.doc]([皮
 | Size            | 48128 bytes                           |
 | MD5             | 075e4ca15fbb2059199ebffff01d1270                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魅魔, 性别转换, 奇幻, 变身, 自我认同, 魔法, 大学生活, 冒险, 性别探索, 皮物, 禁忌题材, 二次元文化, 调教, TSF, 幻想小说, 脱离现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

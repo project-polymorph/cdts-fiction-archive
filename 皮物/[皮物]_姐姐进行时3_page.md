@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_姐姐进行时3.docx]([皮物]_姐姐进行时3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇基于漫画《倩倩》所改编的续写作品，主要讲述了主人公小恍与两位姐姐小雨和夏树之间的日常生活，以及与青梅竹马瑞树的情感互动。故事开篇，主人公小恍在清晨醒来时发现自己穿着‘皮’，在家人与瑞树之间的互动中体现了青涩的恋爱心态与家庭温馨。文中多次描述了小恍在自我认知与外部环境之间的心态变化，展现了青春期情感困扰和角色在性别边界上的探索。例如，瑞树向小恍表白，以及两人甜蜜的互动场景，富有青春气息与暧昧情感。此外，该文档也涉及到变身和角色扮演的主题，暗示了皮的象征性与角色身份的转换。同时，文中还涉及了日常生活琐事，描绘了温馨、幽默的日常场景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_姐姐进行时3.docx]([皮物]_姐姐进行时3.docx)
 | Size            | 21011 bytes                           |
 | MD5             | 864ce05addf9b511a07ab3a8d04f46f8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 恋爱, 家庭, 变身, 青梅竹马, 角色扮演, 青春期, 日常生活, 情感探索, 姐姐, 妹妹, 青涩恋爱, 校园生活, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

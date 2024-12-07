@@ -7,7 +7,7 @@ TXT 下载: [[变身]_弱者的复仇.docx]([变身]_弱者的复仇.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《弱者的复仇》描绘了一位名叫吉安娜的女孩的故事，她的真实身份是杰森，曾是一名在学校遭受欺凌的男孩。吉安娜通过一种特殊的细菌研究，成功地转变为了一个美丽的女孩。在经历了一场神秘的实验后，她的性别发生了改变，并拥有了令人惊艳的外貌。在成为女孩后，她重返高中，过上了与之前截然不同的生活，成为了众人瞩目的焦点，尤其是受到曾经欺负她的男孩狄龙的关注。在与狄龙的互动中，吉安娜感受到前所未有的快乐和自信，进行了一场自我认同与性别认同的探索。文件中详细描述了她的心理变化以及与狄龙的关系，涉及到转变后新的社交动态和性别体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_弱者的复仇.docx]([变身]_弱者的复仇.docx)
 | Size            | 21853 bytes                           |
 | MD5             | 5090d8199298a32c88e1d835b265215a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Septimius Severus                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 自我探索, 青春校园, 变身, 身体改变, 爱情故事, 科学实验, 性别认同, 心理转变, 校园生活, 社交焦点, 反转人生, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

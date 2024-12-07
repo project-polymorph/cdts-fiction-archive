@@ -7,7 +7,11 @@ TXT 下载: [[变身]_王子的哀伤.docx]([变身]_王子的哀伤.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《王子的哀伤》讲述了烈日帝国的19代继承人埃米尔与其弟弟罗杰之间复杂的权力斗争与情感纠葛。在即将继承王位之际，埃米尔的弟弟罗杰发动政变，试图夺取王位。故事的开头，埃米尔可谓情绪复杂，他向弟弟表达了对武学的热爱，表现出一种愿意共享王位的态度。然而，罗杰的真正目标并非王位，而是他哥哥埃米尔。
+
+故事发展中，罗杰给埃米尔喂下名为"玄阴果"的果子，导致埃米尔的身体发生了翻天覆地的变化——从一位王子变成了一位华丽的女性，这一转变引发了埃米尔内心深处的恐慌与羞耻。果子的作用是改变体质，从而使他成为一种能力强大的女性，接下来他需要学习如何扮演女性的角色。而这场变身不仅是身体上的变化，更是心灵上的挑战，因为埃米尔不得不面对自己全新的身份。
+
+整个故事探讨了性别认同、权力欲望以及自我探索等主题，同时伴随着复杂的人际关系。令人深思的是，埃米尔内心的愤怒与向往交织，形成了独特的心理冲突，令故事富有层次感。文中埃米尔醒来时的震惊和女声的惊叹描绘了他获知自己转身女性的瞬间，而罗杰的种种设定又进一步深化了兄弟间的关系和故事的矛盾冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变身]_王子的哀伤.docx]([变身]_王子的哀伤.docx)
 | Size            | 18407 bytes                           |
 | MD5             | bdbac9cef5486633dab720ff9f8ae012                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 权力斗争, 自我探索, 兄弟关系, 女性身份认同, 魔法, 奇幻, 变嫁, 心灵变化, 性别认同, 角色扮演, 帝国斗争, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_意念科學_(端午節禮物).docx]([变身]_意念科學
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件讲述了一位年轻科学家在意念科学领域的研究经历和成果。这位科学家正因其独特的科研方向而未受到重视，但他坚信意念可以改变物质世界。在一次实验中，他通过意念影响仪器的运作，揭示了人类情感对科学实验结果的重大影响。此外，该文详细描述了他与日本科学家一起研究的一种药物——siefrau 22，争取通过药物来提升实验对象的意念力量，从而探索是否可以通过意念移动物体。在这段过程中，科学家注射药物后冥想，希望通过自己强烈的意念实现物体的移动，最终尽管没有成功，他仍然保持积极的探索态度。文中包含了对科学与神秘学结合的思考，并探讨了911事件对意念学的震撼影响，以及这一领域未来的研究展望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_意念科學_(端午節禮物).docx]([变身]_意念科學
 | Size            | 37183 bytes                           |
 | MD5             | 21918bcf98557b60766fa9d81d7e33ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 科学实验, 意念科学, 药物实验, 心理探究, 自我认知, 跨越科学与神秘, 情感影响实验, 心理力量, 青年科学家, 技术与人文结合, 自我探索, 剧烈情绪, 实验突破, 未来研究方向                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

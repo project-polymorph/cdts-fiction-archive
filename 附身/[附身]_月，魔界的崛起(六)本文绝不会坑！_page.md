@@ -7,7 +7,7 @@ TXT 下载: [[附身]_月，魔界的崛起(六)本文绝不会坑！.docx]([附
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了一群年轻人在高档宾馆中的聚会，他们之间的关系充满了曖昧和情欲。故事的主角晓玥，奠定了情节的核心，运用自己的魅力和阴险的盘算，逐步引导着李龙陷入欲望的深渊。在一系列的互动中，晓玥表现出她的淫魔之力，逐渐揭示出她所追求的目标和动机。小说通过细腻的心理描写和情欲场景，展现了角色的心理挣扎与转变，勾勒出复杂的人际关系与自我认同的探索。文中提及的情节如“晓玥诱惑的说道”或“一声刺耳的尖叫声”，不仅反映了角色之间的强烈情感和欲望冲突，也为整个故事增添了戏剧性和紧迫感。整体而言，这是一部探讨性别，欲望和自我认同的作品，包含了一些限制级内容，旨在展示角色之间的复杂关系和心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_月，魔界的崛起(六)本文绝不会坑！.docx]([附
 | Size            | 17576 bytes                           |
 | MD5             | 211c5daa13b58d126a3f70d513094dfd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 淫魔, 强烈心理描写, 情欲, 探索自我, 高档场所, 角色关系, 黑暗幻想, 禁忌关系, 互动情节, 自我认同, 心理冲突, 引诱, 变嫁, 成人向, 魔法, 欲望, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

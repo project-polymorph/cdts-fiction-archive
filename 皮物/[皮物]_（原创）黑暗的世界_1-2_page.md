@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（原创）黑暗的世界_1-2.doc]([皮物]_（原创）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个原创小说，内容围绕年轻男性吴雍的故事展开，讲述了他在医院检查和遭遇抢劫事件后所经历的曲折经历。吴雍在日常生活中表现出对自身健康的困惑，频繁拜访医院却始终未能找出病因。故事的转折点在于一个夜晚，他救助了一名被骚扰的同班女生杨雯雯，不料最终导致了一场斗殴，吴雍被判定为故意杀人，面临死刑。小说不仅涉及残酷的现实，还探索了吴雍对仇恨的渴望以及他希望复活的故事线。随着故事的发展，吴雍与一位暗黑神进行了交流，得到了复活的可能，条件是他需要为神收集处女血，表现出一种超自然的性转变与复仇情节。文本中反复提及的能力变化以及对性别转换的探讨，给小说增添了一层奇幻与变革的深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（原创）黑暗的世界_1-2.doc]([皮物]_（原创）
 | Size            | 46080 bytes                           |
 | MD5             | d1bed76959df54d093feabafd529f8ae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 超自然, 复仇, 校园, 犯罪, 死亡, 暗黑奇幻, 自我认同, 爱情, 救赎, 情感冲突, 性别认同, 悲剧, 冒险, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

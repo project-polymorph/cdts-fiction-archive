@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜SP耗子篇《第二章》.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件出自一部涉及伪娘与变身情节的都市小说，描述了主人公在聚会过程中与好友及学妹李佳宜之间的互动。故事开头便带出了一句突发的拉扯，主角被大头拉走，牵引出一段关于生日聚会的情节。聚会中，众人围绕着李佳宜—一位校花的讨论展开，主角对她的美丽产生了深刻的印象，言辞中流露出对她的倾慕和渴望。文章中穿插了幽默与友谊的元素，同时描绘了角色之间复杂的人际关系及情感纠葛，突显了对性别角色及爱情关系的探讨。此文本中包含多条关于情感与性别认同的隐射，穿插幽默，展现出青春期的迷茫与欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜SP耗子篇《第二章》.d
 | Size            | 46080 bytes                           |
 | MD5             | 8b68743f802c9c963240179ec10cdc0f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 聚会, 伪娘, 情感纠葛, 友谊, 李佳宜, 腼腆的爱慕, 男生, 青春期, 欲望, 性别探索, 变身, 爱情故事, 黑裙子, 半袖, 女神, 男主角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

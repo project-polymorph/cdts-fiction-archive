@@ -7,7 +7,7 @@ TXT 下载: [[交换]_性的罪孽_1-7.doc]([交换]_性的罪孽_1-7.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一部伪娘和跨性别主题的小说的档案，描绘了主角张宇的故事。他是一个善良的流浪汉，患有一种罕见的精神病，称作"慷慨病"，使他在不受控制的情况下帮助他人。故事发生在一个名为东都的城市，受恶劣社会环境影响，张宇在一次意外中丧命，后来意外地转世为女性，经历了对自身身份和性别的探索。文中的情节涉及对善恶的思考，以及在极端环境下人性如何展现的探讨。小说中通过多重角色的情感纠葛和身份转变，展示了人类情感的复杂性，并探讨了个人自我认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_性的罪孽_1-7.doc]([交换]_性的罪孽_1-7.doc)
 | Size            | 76288 bytes                           |
 | MD5             | b8f6f6bef5ddc47fd55c5441e00454e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 流浪汉, 自我认同, 善恶, 慷慨病, 东都, 另类人生, 性别转换, 身份探索, 情感纠葛, 黑社会, 女性视角, 社会批判, 二次元, 性转, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

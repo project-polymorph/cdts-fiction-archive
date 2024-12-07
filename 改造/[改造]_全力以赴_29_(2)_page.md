@@ -7,7 +7,7 @@ TXT 下载: [[改造]_全力以赴_29_(2).docx]([改造]_全力以赴_29_(2).doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段关于角色在医院病房复苏的情节，讲述了主角妮古拉在经历了一场关键事件后醒来的经过。妮古拉在梦中模糊地感受到周围的嘈杂与强光，当她最终清醒时，看到的是她的朋友克莱尔，他们之间展开了情感的交流。克莱尔为之前的自我中心感到歉意，并对妮古拉表达了关心。在接下来的对话中，两人谈到了妮古拉在昏迷期间的经历，以及其他朋友的情况。整个情节充满了对情感的细腻描绘，呈现了妮古拉与她的朋友们之间的深厚情谊和情感困扰。文中还提到了一些涉及医院和人际关系的细节，这些内容对理解角色的心理状态以及故事进展至关重要。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_全力以赴_29_(2).docx]([改造]_全力以赴_29_(2).doc
 | Size            | 52837 bytes                           |
 | MD5             | 4d49d09a7e708fc3cd50488affc22e01                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 情感交流, 心理复苏, 医院情节, 自我探索, 克莱尔与妮古拉, 友情, 昏迷后的关怀, 情感支持, 角色发展, TSF, 变身小说, 苦痛与和解, 找回自我, 情感掙扎, 强烈情感联结                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

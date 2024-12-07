@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【申码文搬运】留意(1).doc]([变身]_【申码文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部围绕角色性别转换和心理变化的故事，主要描写了主角在一天之内的生活片段。故事开始于主角被其双胞胎妹妹劳丽打扰而醒来，展现了其生活中的平常琐事，包括上学的准备和与朋友们的互动。主角在校园中与朋友们讨论创作一部性转网络漫画的想法，过程中的角色设定和设计也透出主角与格兰特的友谊和共同回忆。同时，故事中提到主角的家庭背景，父亲因失业而愁苦，母亲的去世给家庭带来了压力。这些情节逐步构建了主角在自我身份认同、性别角色及情感方面的探索与思考，并且在校园生活的琐碎中体现出其内心的矛盾与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【申码文搬运】留意(1).doc]([变身]_【申码文�
 | Size            | 158720 bytes                           |
 | MD5             | 1f5df9a913d230d8794e48b0f8a19fdd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 校园生活, 自我探索, 兄妹关系, 友情, 漫画创作, 情感冲突, 故事叙述, 性别角色, 心理变化, 日常生活, 青春成长, 大学生活, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

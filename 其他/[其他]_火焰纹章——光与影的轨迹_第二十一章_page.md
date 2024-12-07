@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第二十一章.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是《火焰纹章——光与影的轨迹》的第二十一章，主要讲述了克里米亚王都的解放过程。在这一章中，角色伊风施展咒语帮助被俘的雷宁恢复意识，并揭示了即将到来的战斗。众人在得知王都解放的消息后，纷纷士气高涨，恭敬地向新任女王艾琳西娅表达效忠。艾琳西娅正准备领导克里米亚军队夺回王位，重建和平。章节中包含了激励士气的演说和对即将到来的战争的紧张氛围的描绘，展现了角色之间的深厚情感与责任感。最后，克里米亚军队进攻王宫时，面临未知的敌军动向，气氛紧张而引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第二十一章.docx]
 | Size            | 25761 bytes                           |
 | MD5             | 3d2b1bef36d099d197dc3ad577002a81                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 火焰纹章, 克里米亚, 王都解放, 幻想, 魔法, 角色扮演, 二次元, 魔女, 勇气, 战争, 英雄主义, 女王, 咒语, 士兵, 复兴, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_下.doc]([附身]_華歌爾
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及跨性别及性转主题的小说，故事围绕角色美玲与她的上司张部长之间的情感及身体接触展开。故事开始于张部长对美玲的主动亲吻，逐步发展成双方在办公室私密环境中的亲密行为。美玲在与张部长的互动中显露出调皮和性感的一面，尽管一开始她假装抗拒，但很快便沉浸在欲望之中。文件中的语言充满了诱惑与挑逗，细腻地描绘了两人在情感与身体上的交融，描述了他们之间从亲吻、拥抱到更深入的身体接触的过程，展示了欲望与性的强烈冲突与满足。整篇作品具有明显的成人内容和情色元素，包含了强烈的感官描写，适合成年读者。
+
+其中的部分场景如“张部长猛地含住其中一个奶头”以及“美玲大叫着…好爽…”等句子，突显了故事的情色性质和对身体感受的强调。由于内容涉及复杂的情感与性别认同，能够引发一定的思考与讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_下.doc]([附身]_華歌爾
 | Size            | 39424 bytes                           |
 | MD5             | 4eb1e4c04085952d071bf3ed937ff128                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性转, 成人小说, 情色, 办公室恋情, 自我探索, 欲望, 性别认同, 调教, 强烈情感, 非传统婚恋, 双性恋, 迷人角色, 身体接触, 女性视角, 情欲故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

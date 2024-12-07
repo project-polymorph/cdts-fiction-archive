@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火星開發觀光公團_(一).doc]([其他]_火星開發�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一次火星开发观光团的活动情况，呈现了参与者在火星的体验及相关科技背景。故事围绕角色芽实的视角展开，她在经历了火星任务的事故后，作为顾问参与此次观光团的活动。在影片播放中，展示了过去火星任务的紧张氛围，包括宇风操控机器人的失误，引发了一连串的不安与讨论。随着任务的详细介绍，观光团的技术也被介绍，例如新的远距型机器人技术以及参与者在系统中的体验。当观光团成员尝试穿上特制的太空衣后，他们的意识被传输到火星基地的机器人体内，进行一段虚拟旅行。这份文件描绘了未来科技应用于观光旅行的前景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火星開發觀光公團_(一).doc]([其他]_火星開發�
 | Size            | 32256 bytes                           |
 | MD5             | b47f6e16587ba8e154cf32e15520075e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 火星观光, 科技”、“心理体验, 虚拟旅行, 人机交互, 未来科技, 事故回溯, 意识传输, 远距控制, 探险故事, 机器人技术, 心理探索, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

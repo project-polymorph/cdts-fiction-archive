@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第四章.doc]([附身]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为附身题材的网络小说《传承之书》第二季的第四章，作者为紫依。故事设定在某研究基地，围绕着主角陈可瑜的经历展开，描绘了她被捕并遭遇企图对她进行实验的阴暗势力的情节。小说展示了一个在混沌空间中进行心理与生理实验的故事，其中涉及催眠和附身的概念。文中充满了色情元素，陈可瑜在故事中完全服从于她的主人，接受各种挑逗和侵犯。小说细致地描绘了角色之间的性行为与心理互动，且涉及催眠与控制的主题，以及对身体的改造、性别的转换等议题。这一内容可能不适合未成年人阅读，且涉及某些限制级的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第四章.doc]([附身]_《�
 | Size            | 38912 bytes                           |
 | MD5             | d3f1b076c29c27fe44e9843fad4be9ef                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 催眠, 转化, 性别转换, 心理操控, 色情, 研究基地, 男权控制, 混沌空间, 角色扮演, 心理 эксперимент, 权力关系, 自我认同, 欲望探索, 强制服从, 非法实验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

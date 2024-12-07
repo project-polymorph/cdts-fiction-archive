@@ -7,7 +7,7 @@ TXT 下载: [[交换]_超感双生(重制版)1-4.doc]([交换]_超感双生(重�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部围绕性别转换与自我探索主题的小说，讲述了一个以第一人称叙述的角色与其同卵双生姐姐的生活经历。故事伊始，角色在读研究生期间，大部分时间跟随她的导师进行科研，周末则陪伴姐姐逛街，以及与姐姐的男友相处的生活插曲。小说中的角色之间存在微妙的情感和性别认同纠葛，姐姐在某种程度上表现出英气，而主角则常被误解其性别，呈现出伪娘的特征。在一次逛街过程中，角色和姐夫共同前往内衣店，姐夫为姐姐挑选内衣的情节揭示了角色间复杂的人际关系。小说还探讨了性别认同的冲突，以及随着故事推进，角色内心对于姐姐感情和自身性别认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_超感双生(重制版)1-4.doc]([交换]_超感双生(重�
 | Size            | 60928 bytes                           |
 | MD5             | f6cd10c73342a9254cc0b6eb9454057d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别认同, 双生姐妹, 都市生活, 内衣店, 爱情, 自我探索, 跨性别, 家庭关系, 情感纠葛, 性转, TSF, 甜蜜日常, 强烈情感, 随性逛街, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

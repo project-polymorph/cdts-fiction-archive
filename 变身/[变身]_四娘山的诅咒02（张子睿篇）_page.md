@@ -7,7 +7,7 @@ TXT 下载: [[变身]_四娘山的诅咒02（张子睿篇）.doc]([变身]_四�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一个名为张子睿的主角在经历四娘山的诅咒后，意外变身为女性后的心理挣扎和外部互动的故事。文中描绘了他在变身后对新身份的不适应，突然从男性身份转变为女性，面临身体和心理的双重冲击。故事开始于他在梦中经历淫荡情节，醒来后发现自己变成了一位性感的女性，内心感到惶恐和不知所措。接着，他的高中兼大学学长高翼上门寻找帮忙，因其阿姨的临终愿望，提出让子睿暂时作为他的“出租女友”。整个故事不仅涉及性别认同与自我探索的主题，还探讨了个体在性别转换后的现实处境与社会期待的碰撞，以及主角在这种转变中展现的脆弱和坚韧。文中包含了一些露骨的性描写，及主角对于变身后身体的认知，反映出在社会和自我身份认同上的冲突和挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_四娘山的诅咒02（张子睿篇）.doc]([变身]_四�
 | Size            | 51200 bytes                           |
 | MD5             | b5a2c1f7eb98732cac4b6982846f4a0c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, 伪娘, 爱情, 自我探索, 租赁关系, 性情节, 青春, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

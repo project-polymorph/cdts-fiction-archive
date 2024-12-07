@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_44.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于伪娘和跨性别关系的小说章节，主要描绘了角色贝丽与她的女友阿曼达之间的情感纠葛。在故事中，贝丽以少女的形象出现，并在写日记时记录着她对阿曼达背叛的不满与伤痛。阿曼达则像是母亲一样对待贝丽，试图安慰她并为她选择衣服，反映出他们关系中的亲密与复杂。文件中的内容涉及性别认同、自我探索和感情的纠纷，以及在伪娘身份下的心理挣扎。章节中描绘了贝丽的装扮及内心情感，展示了她想要逃避现实的渴望，以及对阿曼达的情感依赖。整篇内容融合了温情和困惑，包含了一些可能被视为敏感的情节，例如未成年性暗示、恋母情节等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_44.doc]([改造]_把男朋友�
 | Size            | 72192 bytes                           |
 | MD5             | 9164da0501d7b0496775add562f2486f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 情感纠葛, 母女关系, 自我探索, 性别认同, 恋母情节, 变身小说, 二次元, 感情困惑, 少女日记, 角色扮演, 欲望与幻想, 未成年性暗示, 温情片段, 心理挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

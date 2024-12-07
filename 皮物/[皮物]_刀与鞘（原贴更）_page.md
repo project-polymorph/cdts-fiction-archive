@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_刀与鞘（原贴更）.docx]([皮物]_刀与鞘（原贴
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部围绕王霸这一角色展开的皮物相关小说，内容已不幸走向了颓废与堕落。王霸在父母双亡后继承了一笔巨额财产，选择放弃学业，沉迷于网络，尤其是论坛上的皮物小说。故事描绘了他与女友小薇的感情纠葛，以及他受论坛小说刺激而实施角色扮演情节的尝试。在与一位性感美女的角色扮演中，王霸所扮演的是一个获得女性身体的角色，这个设定充满了刺激与扭曲的性质。随着情节的发展，故事中探讨了性别认同、角色扮演及自我探索的主题，侧重于王霸的内心冲突与转变。小说包含了生理与心理方面的双重性别转换体验，涉及色情内容，因此适合进行科学研究与学习使用，提供了独特的视角来看待性别、欲望与身份。这部小说以其鲜明的情节设置与复杂的人物关系，将读者带入了一个跨越性别与自我认知掙扎的虚幻世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_刀与鞘（原贴更）.docx]([皮物]_刀与鞘（原贴
 | Size            | 42113 bytes                           |
 | MD5             | 40f2ff7c46843c39195662a89de5cd4a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 皮物, 角色扮演, 性别认同, 情感纠葛, 跨性别, 堕落, 论坛小说, 性转, 十足欲望, 刺激体验, 自我探索, 男主变化, 性感美女, 内心冲突, 虚幻世界, 女性视角, 爱情, 网络文化, 小说情节, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

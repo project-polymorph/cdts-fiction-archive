@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_momo的奇妙冒险（五）（异形皮，寄生，改造
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《momo的奇妙冒险（五）》的文档，主要围绕角色在一个充满奇幻与变身元素的异世界中的冒险故事。小说描绘了一个存在阶级和秘辛的协会，其中涉及异能者与怪物的斗争。故事从一个调查任务展开，主人公莫念在执行任务的过程中遭遇生死考验，显现出他内心的坚韧与不甘。随着剧情的发展，新角色的加入与世界观的拓展，故事逐渐深入。文中讲述的情节包括各种异能者的相互关系，以及对生存与权力的探讨，展现了个体在充满危险的环境中挣扎生存的故事。文本中虽然包含一些较为细致的生理与情感描写，但整体以奇幻冒险为主，探索了角色的自我认同与心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_momo的奇妙冒险（五）（异形皮，寄生，改造
 | Size            | 75264 bytes                           |
 | MD5             | 2484030ff3c92af0b164878c249be1fa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 异能, 冒险, 奇幻, 血统, 生存, 自我认同, 情欲, 战斗, 协会, 探索, 危险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

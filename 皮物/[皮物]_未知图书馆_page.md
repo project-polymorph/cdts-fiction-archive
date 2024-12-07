@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_未知图书馆.doc]([皮物]_未知图书馆.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于变身与性别转换主题的小说内容，探讨了角色身份的转换以及由此引发的心理冲突与自我认知。故事的开头描绘了一名中年男子岳强，他在一家神秘的图书馆中寻找改变自己命运的机会。岳强希冀能够得到一个‘干干净净的身份’，以此逃离他现有的生活。情节透露出他愿意牺牲自己的寿命来交换身份，展现了他对重生的渴望与追求。与此同时，小说中也引入了另一位角色朱老师，她在课堂上对学生的不满反映出教育环境中的压力与挑战。此外，故事涉及的厕所场景以及简涵诺的描绘，进一步增加了情节的紧张感与悬念，简涵诺在一次偶然的情况下遇到了具有相似血红眼睛的神秘人，这一设定引发了更多的猜想与恐惧。整体来看，这篇小说涵盖了性别认同、身份转变、自我探索等主题，适合对多元性别与心理变化感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_未知图书馆.doc]([皮物]_未知图书馆.doc)
 | Size            | 32256 bytes                           |
 | MD5             | 0fbaa334759db85983c36f968af9d60e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 自我认知, 身份重塑, 都市传说, 心理冲突, 暗黑幻想, 科幻, 悬疑, 美少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

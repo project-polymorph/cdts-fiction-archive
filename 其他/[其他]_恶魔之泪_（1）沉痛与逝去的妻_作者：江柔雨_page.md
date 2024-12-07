@@ -7,7 +7,7 @@ TXT 下载: [[其他]_恶魔之泪_（1）沉痛与逝去的妻_作者：江柔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本档案馆收录了一篇名为《恶魔之泪》的小说，作者为江柔雨。小说围绕主角李博志的生活展开，他是一名普通的中层主管，与温柔体贴的女友艳艳相恋并生活在一起。随着剧情的发展，艳艳怀孕了，但事态却出现了惊人的转折，她的分娩过程中遭遇了不明的危险。故事描绘了一个充满超自然元素的场景，妖艳女子与老医生的出现预示着对艳艳及其即将出生的孩子的威胁。小说描绘了疯狂与绝望的结合，特别是李博志目睹妻子分娩过程中的残酷场景后感到的心痛和无力。在经历一系列离奇变化后，艳艳的身份也将发生翻天覆地的转变，向读者展现了一个关于爱、痛苦、失去与身份转变的深刻故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_恶魔之泪_（1）沉痛与逝去的妻_作者：江柔�
 | Size            | 20881 bytes                           |
 | MD5             | 23d4963873feb3488d575888afb6f617                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 江柔雨                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 恶魔, 超自然, 生育, 身份转变, 爱情, 心理斗争, 绝望, 变身, 奇幻, 母性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交换列车.docx]([交换]_交换列车.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档名为《交换列车》，它描绘了一个特殊的电车故事，名为‘TSF列车’。故事的主角在上班途中第一次乘坐这辆列车，预计在下个月与男友结婚。文中包含了主角在车上遇到一名穿着棒球制服的高中男生，随着电车的开动，广播宣布该列车有‘交换车辆’的功能，使乘客的肉体会互相交换。故事中描绘了乘客们在交换后的奇怪情景，不同性别和年龄的乘客们在未知的状态下逐渐发生不可描述的接触和交换，体验着超越实际身体认知的亲密关系。本作品涉及了一些性别认同和身体互换的主题，并包含了一些限制级、成人向的内容，情节中包含大量关于性行为的描述，展现了主角的心理变化和对于身体交换的探索。在故事的高潮部分，主角和棒球男孩之间的亲密互动逐渐升温，最终两人都经历了身体和情感上的变化。这份文档为跨性别及性转小说的类型内容提供了一个极具争议和探讨价值的案例。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交换列车.docx]([交换]_交换列车.docx)
 | Size            | 30247 bytes                           |
 | MD5             | 7d8f9b717841686a38ce57e80f95b16b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 爱情, 青春期, 肉体交换, 成人向, 幻想, 电车, 社交体验, 身体探索, 心理变化, 角色互动, 二次元, 情感发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

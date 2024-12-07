@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_良晴與芳雄系列之四_政美想報復的對象是…
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘与变身小说系列之一，属于《良晴与芳雄系列》，叙述了男主良晴和政美之间洞察到关系紧张的故事。自从良晴使用了一种名为“瞄准隐形眼镜”的道具来恶作剧政美后，两人的关系陷入冰点，这引起了朋友芳雄的关注与调解。政美在一次午休中主动打破沉默，与良晴进行了一系列对话，说明了她想要报复的心情，并求助良晴制定计划。这不仅是访谈的开始，还表现出政美对于良晴的期望与两人间逐渐恢复的信任。此外，文本中提及了奇幻与科幻元素的道具，及其对角色关系发展的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_良晴與芳雄系列之四_政美想報復的對象是…
 | Size            | 27427 bytes                           |
 | MD5             | d726dcb2016eb90541cb1e33094513f1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2023-10-01                                 |
+| Tags            | 伪娘, 变身, 恶搞, 青少年, 轻小说, 隐形眼镜, 高中生, 友情, 复仇, 科幻, 爱情, 情感关系, 自我探索, 日常生活, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

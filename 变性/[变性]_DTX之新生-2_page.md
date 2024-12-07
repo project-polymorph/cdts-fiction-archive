@@ -7,7 +7,7 @@ TXT 下载: [[变性]_DTX之新生-2.doc]([变性]_DTX之新生-2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一位名叫苏漓的角色以及其身边人物的故事，描绘了他们在处理公司事务与私人关系上的复杂情感。故事开端描述了苏漓的父亲的突然离世对家庭与公司的影响，叙述者作为其父亲的特助，面临着公司合作项目卡住的困境。通过与朋友小茜的对话，可以感受到对苏漓的关心与惋惜，同时也揭示了公司当前面临的困难。随着情节的发展，叙述者接到苏漓的通知，前往其家中，意外发现到来的却是一个陌生女孩。此人不仅外表吸引，还有着与苏漓相似的面孔，引发了一系列未解的悬念。在与这名女孩的互动中，情节逐渐浮现出苏漓的变化，充满了性别认同与自我探索的主题。在一段幽默而微妙的对话中，苏漓的真实身份也揭开了神秘面纱，推向了故事的高潮。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_DTX之新生-2.doc]([变性]_DTX之新生-2.doc)
 | Size            | 53760 bytes                           |
 | MD5             | 486980e2bfe1642da62fae2574d6e0c9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变身, 自我探索, 企业管理, 父子关系, 青春, 友谊, 女性角色, 家庭关系, 情感纠葛, 二次元, 现代生活, 心理冲突, 奇幻, 变换身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

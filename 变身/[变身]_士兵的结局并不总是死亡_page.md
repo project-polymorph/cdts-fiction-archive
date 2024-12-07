@@ -7,7 +7,7 @@ TXT 下载: [[变身]_士兵的结局并不总是死亡.docx]([变身]_士兵的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含一段关于一名士兵被精灵绑架并转变为女性的故事。故事围绕士兵艾薇妮娅和她的囚犯之间的互动展开。士兵在被捉后，经历了被变形魔法转变为女性的过程，她的身份和身体都遭受了巨大的改变。在被关押的旅途中，士兵的意图是营救其他被俘虏的少女，而精灵则企图利用她们进行某种阴谋。文件中的语言富有描述性，如"他开始感到头昏眼花，而不知为什么大脑感到一阵刺痛"，展现了士兵在身体转变中遭遇的心理与生理的冲突。在接受新身份的过程中，主人公经历了身份认同的剧烈挣扎，故事探讨了性别转换及其带来的自我认知冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_士兵的结局并不总是死亡.docx]([变身]_士兵的
 | Size            | 21457 bytes                           |
 | MD5             | a0b076faec5f6703c199441744d8d870                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | JayPandacubs4                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 魔法, 囚禁, 性别认同, 自我探索, 逆转, 精灵, 奇幻, 心理冲突, 身份转变, 女装, 禁忌魔法, 婚姻安排, 美少女, 情感对抗, 变形, NTR, 冒险, 剥削                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

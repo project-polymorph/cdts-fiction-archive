@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【申码文搬运】留意（2）.doc]([变身]_【申码
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于性别转换主题的小说片段，主要围绕角色艾希的日常生活和心理状态展开。在故事中，艾希经历了一种模糊的性别认同的觉醒，透过日常的小事和与朋友格兰特的互动，体现了他对自己身份的探索与怀疑。文本描述了艾希的懒散早晨，洗澡的细节以及他打算穿着更为女性化的衣物，进一步反映了他在性别认同上的迷惑。与好友劳丽及格兰特的对话中，显示出他对自我形象的关注和对格兰特感情的微妙变化，表明在青春期中对性别与爱情的复杂感受。此外，文本中还穿插了关于角色塑造与创作过程的内容，展示了创作者对于人物关系与情感传递的思考。本篇内容深入探讨性别认同与自我探索，用细腻的情感描绘吸引了观众的注意。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【申码文搬运】留意（2）.doc]([变身]_【申码
 | Size            | 150016 bytes                           |
 | MD5             | 75eab3133ba835dd817e2dcbfdfef271                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身小说, 青春期, 自我探索, 同性恋情, 日常生活, 女性形象, 心理变化, 青少年故事, 情感关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

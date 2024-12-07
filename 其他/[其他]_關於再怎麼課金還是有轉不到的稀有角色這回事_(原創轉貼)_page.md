@@ -7,7 +7,7 @@ TXT 下载: [[其他]_關於再怎麼課金還是有轉不到的稀有角色這�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇原创与转载混合的长篇小说，主要围绕角色抽取稀有角色卡的游戏背景展开。故事开头提到作者对描写战斗画面的不足，并表达了自己对写作风格的坚持，即使市场主流偏好黑暗系或爽文。小说的设定发生在一个名为《现实与幻想的狭间》的手机游戏中，通过角色抽取的过程，引出了主人公的冒险故事。在抽卡时，主人公意外地被转移到另一个世界，并发现自己变成了一名女性，其体验与自我认知之间的冲突成为故事的核心。作者通过描写稀有卡片的华丽形象，以及主人公初次体验新生女性身份的迷惑与抗拒，有效地探讨了性别认同和角色变化的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_關於再怎麼課金還是有轉不到的稀有角色這�
 | Size            | 49643 bytes                           |
 | MD5             | a1edfe9456a3d4c8e1a02d4d51ffc320                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2014-12-23                                 |
+| Tags            | 变身, 性转, 女体化, 奇幻, 二次元, 冒险, 自我探索, 跨性别, 游戏, 角色扮演, 抽卡, 幻想, 弱势群体, 身份认同, 青春成长, 成长故事, 幻想世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

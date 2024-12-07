@@ -7,7 +7,7 @@ TXT 下载: [[附身]_相框第二部.docx]([附身]_相框第二部.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了第一部和第二部的内容，主要叙述了梁文作为光纤维修工的日常生活以及他与李星和王月的复杂关系。在这一过程中，梁文意外地获得了一幅相框，随后经历了一场奇妙的附身体验，从而变成了画框中的美女。故事描绘了他在附身之后的自我探索和对新身体的感受，以及随之而来的情感与欲望的发掘。文件中的情节涉及到性别转换的幻想和性别认同的探索，同时也包含了一些性暗示和露骨的性内容，属于二次元性转和伪娘小说的范畴。所展现的情节不仅围绕着角色的性别转换，还探讨了角色的自我认知和身体的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_相框第二部.docx]([附身]_相框第二部.docx)
 | Size            | 32587 bytes                           |
 | MD5             | cdfed7c48fb532d6e9823766e1c92262                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 附身, 自我探索, 欲望, 短裙, 丝袜, 黑丝, 情感冲突, 二次元文化, 爱情, 性爱, 幻想, 神秘物品                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

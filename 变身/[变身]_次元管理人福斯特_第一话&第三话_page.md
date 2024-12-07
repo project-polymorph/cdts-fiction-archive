@@ -7,7 +7,7 @@ TXT 下载: [[变身]_次元管理人福斯特_第一话&第三话.doc]([变身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了两篇关于次元管理人福斯特的变身小说，主要讲述了主角福斯特作为时间巡逻者在不同的时空中追赶犯罪者的故事。在第一话中，福斯特使用他的能力修改历史事件，最终导致泰坦尼克号的沉没，在此过程中将船员们变换成女性形象，展现了角色的外表和身份的颠覆。第二话探讨了一个科学家的实验，他渴望获得永生的药水，然而在与福斯特的互动中，科学家被转变为女性，并穿上婚纱。在整个文本中，幻化、性别转换和自我认知的主题得到了突出，且包含了一些性别角色认同和身体变换的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_次元管理人福斯特_第一话&第三话.doc]([变身]
 | Size            | 40960 bytes                           |
 | MD5             | 8191139b794d3396d0bb3a25c134032e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 真城悠                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 次元旅行, 性别变换, 时间悖论, 科学幻想, 角色认同, 变身, 跨性别, 魔法, 婚纱, 悲剧, 女性角色, 二次元, 美丽新娘, 时空冒险, 药水实验, 改变历史, 生理性别, 奇幻, 小说, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

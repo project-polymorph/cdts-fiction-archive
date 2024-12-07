@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】继母的麻烦.doc]([变性]_【翻译】继�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为主题为继母与继子的关系和性别转换的小说《继母的麻烦》的翻译版本，主要描述了男孩迪伦与他的继母维姬之间的复杂互动。在故事中，迪伦是一个18岁的男孩，他对继母维姬的存在感到不满，认为她是为了金钱而嫁给了他的父亲杰克。故事发展中，维姬通过使用某种神秘的力量，使得迪伦在身体和身份上发生了变化，逐渐变成了名为丹妮丝的年轻女孩，并开始面临身份认同和自我探索的过程。随着情节的发展，迪伦的性别认同以及与维姬的关系变得更加错综复杂，展现了在性别转换中的情感与心理冲突。该作品涉及诸多成人主题，包括性别认同的流动性、继母与继子的复杂关系以及身份的探索，是一部充满幻想和心理描写的变身小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】继母的麻烦.doc]([变性]_【翻译】继�
 | Size            | 39424 bytes                           |
 | MD5             | 9879a088390f681e49c25437eaa7d119                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Hello329                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 继母, 情感冲突, 自我探索, 性别认同, 家庭关系, 青春成长, 魔法, 心理变化, 剧情扭曲, 奇幻, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

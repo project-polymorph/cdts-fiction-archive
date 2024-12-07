@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮之种7（续貂）.docx]([皮物]_皮之种7（续貂�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《皮之种》系列小说的续集，标题为《皮之种7（续貂）》。文本主要叙述了一位角色在寻找朋友的过程中经历的一系列事件。故事开头，主人公在去朋友家的路上，向路边的小店打听地址，描述了所经过的商业街以及对周围环境的观察。在与路边老奶奶的对话中，主人公得知了朋友的下落，并继续寻找。文中融入了对外部环境的细腻描写，表现了角色内心的焦虑与不安，尤其在发现欲前往的住所条件下等场景中，通过语言传达出角色的状态和心理活动。本文本同时涉及到了角色的性别认同问题，表现出主人公在“女性”外表下，内心实际是“男性”的矛盾心理。这部分情节暗示了对社会性别角色和身份认同的探讨，具有一定的思想深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮之种7（续貂）.docx]([皮物]_皮之种7（续貂�
 | Size            | 39252 bytes                           |
 | MD5             | 38d5adfa9eab558d32dcbfdfb0b84002                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 嵐山GO                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 自我探索, 友情, 恋爱, 角色扮演, 心理冲突, 社会性别, 身份认同, 青春, 都市生活, 奇幻, 童话色彩, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

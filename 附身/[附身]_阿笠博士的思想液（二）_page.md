@@ -7,7 +7,7 @@ TXT 下载: [[附身]_阿笠博士的思想液（二）.doc]([附身]_阿笠博�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是包含伪娘 TS 变身与跨性别相关情节的小说，围绕主角阿笠博士和角色步美、小哀之间复杂的关系展开。故事涉及性别角色的转换，阿笠博士利用一种名为“思想液”的药物，企图控制步美的身体，并对小哀产生了占有欲。文本中反复提到小哀的紧张心情和两人之间的微妙互动，体现了性别认同、自我探索等深层次的主题。作品表达了对性别认同者内心挣扎与外界压力的关注。小哀在接受了博士的思想液后，逐渐对自己原本的身体产生了怀疑，并经历了对自我欲望和身体控制的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_阿笠博士的思想液（二）.doc]([附身]_阿笠博�
 | Size            | 41472 bytes                           |
 | MD5             | 2601342a16322662ec331462d32c2c74                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 阿笠博士, 性别转换, 男女角色, 思想液, 占有欲, 自我探索, 角色扮演, 心理操控, 情感纠葛, 二次元, 性别认同, 奇幻, 少女, 药物影响, 暗黑, 心灵游戏, 身体控制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

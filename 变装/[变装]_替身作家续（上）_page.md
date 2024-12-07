@@ -7,7 +7,7 @@ TXT 下载: [[变装]_替身作家续（上）.docx]([变装]_替身作家续（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是对经典CD文《替身作家》（《goast writer》）后半部分的记录。内容包含三章，每章字数超过一万字，主要讲述了男主角安迪娜在性别反转后所经历的种种情感与自我认知的冲突。在电梯中，安迪娜与一位名叫詹姆斯的男子相遇，他们的互动引发了一系列对性别、角色扮演与自我认同的讨论。安迪娜与女友苏珊的对话中透露出她对于扮演女性角色的担忧与思考，以及对市场宣传的参与。文中通过细腻的描写展现了角色们之间的微妙关系，以及社会对性别角色的期待。尽管故事涉及成人内容，但更多地探讨了性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_替身作家续（上）.docx]([变装]_替身作家续（
 | Size            | 35073 bytes                           |
 | MD5             | 08fa663441dbaca3ef176b2a7b3d3255                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别转变, 自我认知, 角色扮演, 情感互动, 性别认同, 二次元小说, 女性角色, 都市题材, 跨性别文学, 社交情境, 情感探索, 强烈情感, 工作场所关系, 现代生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

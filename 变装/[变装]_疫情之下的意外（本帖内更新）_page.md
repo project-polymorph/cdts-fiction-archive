@@ -7,7 +7,9 @@ TXT 下载: [[变装]_疫情之下的意外（本帖内更新）.doc]([变装]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了主角南良的变装生活。在文件中，南良描述了自己由一名普通男性逐渐转变为享受女装浪漫生活的过程。故事的背景建立在他与妻子吴楚月的婚姻生活中，而南良内心深处则隐含着一个秘密：他有着女装癖好。文章详细描绘了南良在家中女装的细节，包括化妆和穿着女性服饰的过程，以及他在推特上与粉丝的互动令人心动的情节，同时对他心理挣扎的深入刻画也十分到位。
+
+整个故事中穿插着南良如何平衡自身的性别认同与现有的婚姻关系的复杂情感，面对外界与内心的矛盾。他对女装的热爱与对妻子的亲密纠结交替出现，反映出人们在性别认同与社会期待间的冲突。最终在一场意外的网络互动中，南良的平静生活也被打破，悬念感十足。此文除了深入探讨跨性别与性别认同的主题，也提及了社会对这些主题的不同看法和反应，为研究提供了丰富的视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_疫情之下的意外（本帖内更新）.doc]([变装]_�
 | Size            | 59392 bytes                           |
 | MD5             | cd67bcd914a592c06939b8616e91d944                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 男娘, 女装癖, 自我认同, 网络互动, 婚姻生活, 性别探索, 社会期待, 性别转变, 伪娘, 情感挣扎, 二次元文化, 性别角色, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[变身]_女子力のエッセンス_下.docx]([变身]_女子力�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于青春期女性身体变化与心理探索的变身小说，主要讲述了一个名为小京的女孩在成长过程中对性别认同与身体变化的困惑与探索。从家中归来后，小京感到疲惫但内心依然愉悦，思考和悟史在一起的快乐。故事中小京浏览一句杂志，了解女性身体发育的变化和初潮的知识，反映出她对自己身体的关心与不安。
+
+在文章中，小京试图理解男女身体的差异和性行为的含义。通过好奇和紧张，描述了她第一次面对自己私处的情景，暗示着性启蒙的不可避免。文中还提到她与姐姐之间的对话，讨论到关于性行为的知识，以及对未来与悟史的关系的憧憬与不安。这篇作品探讨了性别认同及青春期的心理冲突，涉及初潮、性教育等话题，同时展示了少女特有的思维与情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_女子力のエッセンス_下.docx]([变身]_女子力�
 | Size            | 34766 bytes                           |
 | MD5             | c6b68066f1faaf6d779e2df2967060d2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 青春期, 性别认同, 身体变化, 性启蒙, 自我探索, 性教育, 成长故事, 少女心理, 家庭关系, 初潮, 探索自我, 与他人关系, 伪娘, 变身, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

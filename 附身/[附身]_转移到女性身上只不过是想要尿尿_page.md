@@ -7,7 +7,7 @@ TXT 下载: [[附身]_转移到女性身上只不过是想要尿尿.docx]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一位拥有转移到他人身上的能力的主角，他通过默念能够进入他人的身体并读取对方的思维和记忆。故事开端，主角许下愿望后获得了这种能力，并转移到了31岁主妇的身体里，带着她的3岁女儿一起去逛超市。在逛超市的过程中，主角逐渐适应了主妇的身份，同时也体会到了照顾小孩的繁忙和乐趣。文中描写了主角和女儿之间的亲密互动，包括女儿撒娇的情景，凸显了母女情的温馨。然而，在经历各种情形后，主角在小女孩的身体中感受到了尿意，这引发了一系列幽默而尴尬的情节。最终，妈妈带着她去女性厕所，作品中巧妙地结合了性别转变的概念与幼儿的纯真感受，展现了性别认同和角色扮演的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_转移到女性身上只不过是想要尿尿.docx]([附�
 | Size            | 42505 bytes                           |
 | MD5             | c21f8ba3f96fbed61b350920bd6e7e70                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 转身小说, 跨性别, 变身, 亲子关系, 母女情, 异世界, 奇幻, 自我认知, 尿意, 幼儿生活, 角色扮演, 超能力, 日常生活, 强烈尿意, 购物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

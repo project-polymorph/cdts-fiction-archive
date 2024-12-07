@@ -7,7 +7,7 @@ TXT 下载: [[变装]_无可奈何的转变（三）.doc]([变装]_无可奈何�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是关于一位男性在生活中经历性别转换与变装的故事，叙述了他如何在妻子的鼓励下，穿上女装以成为丈夫的秘书，来为孩子的医疗费用筹措资金。故事描绘了他在镜子中看到自己变化的模样，内心的挣扎与自我认同的冲突。情节中涉及家庭与夫妻间的支持与牺牲，尤其是妻子为孩子的病情所承受的压力，以及夫妻两人为了家庭而作出的艰难决定。随着情节的发展，夫妻间的沟通与理解也变得愈加重要。通过多次的互动，夫妻双方对未来生活的选择与责任感得以体现，展现了深刻的人性关怀与家庭情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_无可奈何的转变（三）.doc]([变装]_无可奈何�
 | Size            | 32256 bytes                           |
 | MD5             | 11484f86e8b665c57cb939e833dec1a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 伪娘, 变身, 家庭关系, 自我认同, 挑战传统性别角色, 性别转换, 紧急医疗费用, 牺牲与支持, 情感挫折, 成年生活压力, 求职困难, 社会偏见, 性别模糊, 个人成长, 道德困境, 情感依赖, 孩子的病痛, 夫妻斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_原神同人_深渊魔女的诞生，神里绫华的新生
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为改编自《原神》的同人小说，主题围绕主角神里绫华与神秘力量的交织关系展开。在故事中，绫华逐渐发现自己所处环境中潜藏的危险，以及与她意识中的异变形象的对抗。整个情节充满了悬疑和紧张气氛，尤其是在她进入浴室后，遭遇了一条神秘的黑色毒蛇，这条蛇在变幻成少女形象后与绫华展开了互动和对话，揭示了她的内心冲突与性别认同方面的探索。故事中融入了神秘、变身和跨性别的主题，绫华在与自己内心的挣扎中，面临着权力与欲望的考验。最终情节发展到一种激烈的自我认知与身体控制的较量，展现了她与其他角色之间的复杂关系。此文本探索了角色的自我认同、欲望以及可能涉及的色情元素，包含强烈的情感描写和心理斗争，适合进行学术研究与讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_原神同人_深渊魔女的诞生，神里绫华的新生
 | Size            | 74792 bytes                           |
 | MD5             | 8250e5e895251b2eff8951c213cedfb3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 改造, 异世界, 性转, 跨性别, 浴室戏, 吞噬欲望, 自我认知, 神里绫华, 黑色毒蛇, 变身小说, 奇幻, 个人斗争, 虚构角色, 内心冲突, 潜意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

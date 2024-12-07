@@ -21,7 +21,7 @@ TXT 下载: [[交换]_SCARLET-第11章(完工收费).doc]([交换]_SCARLET-第11
 | Size            | 79360 bytes                           |
 | MD5             | 44af28bd1386d98313df8561e2a1bad3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

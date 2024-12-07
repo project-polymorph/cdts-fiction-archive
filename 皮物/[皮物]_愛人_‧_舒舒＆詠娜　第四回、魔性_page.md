@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_愛人_‧_舒舒＆詠娜　第四回、魔性.docx]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由作者白纸创作的小说《爱人 ‧ 舒舒＆咏娜》的第四回，内容围绕一段复杂的亲密关系展开，涉及性别认同、心理斗争和自我探索等主题。故事以泽佑为主线，描述他与女性角色舒舒之间的关系，以及他对另一女性角色欣怡的感情纠葛。小说中反复提及的情节包括泽佑在亲密关系中的不安与迷惘，以及欣怡因个人情况而进行的极端自我伤害行为。文本中的细腻描绘从泽佑的梦境开始，穿插着他日常生活中的挑战及情感波动，最终导致一场不可挽回的悲剧。作品中包含的情节涉及性虐待、捆绑和自残等内容，具有强烈的情感张力与戏剧化冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_愛人_‧_舒舒＆詠娜　第四回、魔性.docx]([皮
 | Size            | 40923 bytes                           |
 | MD5             | dea523e272a926baa9aef82762fc405c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 白纸                               |
+| Region          | 未知                               |
+| Date            | 2016-10-01                                 |
+| Tags            | 性别认同, 爱情, 心理斗争, 强烈情感, 自我探索, 伪娘, 跨性别, 性虐待, 捆绑, 青春校园, 心理健康, 毒品影响, 二次元文化, 魔性变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

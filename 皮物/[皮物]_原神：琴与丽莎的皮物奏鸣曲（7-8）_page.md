@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_原神：琴与丽莎的皮物奏鸣曲（7-8）.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘与跨性别主题的小说章节，叙述了角色琴与罗泽之间复杂而扭曲的情感关系。在故事中，琴因受到魔神力量的侵蚀，情感与欲望变得扭曲，展现出依赖与吸引的双重性。文件开头提到琴在失去魔法的保护后，面临着内心欲望的挣扎，而罗泽在情感与责任之间左右为难。随着灵魂链接的展开，琴的角色既表现出对罗泽的深切依赖，也展现出因欲望而产生的困惑与纠结，二者的关系在情感的拉扯中逐渐加深。丽莎作为第三者，也在两人之间承担了重要角色，体现出一种既亲密又竞争的微妙关系。文本深刻探讨了性别认同、自我意识以及情欲之间的复杂互动，同时情节中不乏激情与挑逗的表述，突出角色之间的情感张力与内心斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_原神：琴与丽莎的皮物奏鸣曲（7-8）.doc]([皮
 | Size            | 76288 bytes                           |
 | MD5             | 65a33b9c054e235c0f524c2dae947d56                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 魂灵链接, 情感纠葛, 魔神, 自我认知, 欲望冲突, 三角恋, 情欲, 角色扮演, 二次元, 幻想, 性别转换, 心理探索, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

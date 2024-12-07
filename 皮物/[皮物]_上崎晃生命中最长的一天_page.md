@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_上崎晃生命中最长的一天.doc]([皮物]_上崎晃�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于上崎晃及其姊妹的变身与性别认同的小说，作品以一种轻松幽默的风格叙述了上崎晃在一场意外探险中，经历奇幻和刺激的故事。小说围绕学园祭的最后一天展开，叙述了上崎与好友长井探险进入神秘地道，并意外邂逅了同学川越堇，之后发生了一系列令人惊愕的事件。上崎逐渐意识到这个奇妙的冒险不仅仅是一次探险，也涉及到自己的性别认同问题。在此过程中，上崎与出现的魅魔发生了一系列复杂的互动，魅魔试图取代上崎的姐姐，展现出一种扭曲的情感与冲突。作品包含了一些性暗示和幻想元素，探索了性别转变和身份认同等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_上崎晃生命中最长的一天.doc]([皮物]_上崎晃�
 | Size            | 51712 bytes                           |
 | MD5             | 0ee82837d71c561dffbfcbaed4054f99                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | savonias                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 魅魔, 性别认同, 冒险, 自我探索, 姊妹关系, 轻小说, 青春校园, 奇幻故事, 变身, 二次元, 跨性别, H情节, 调教, 禁忌之恋, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

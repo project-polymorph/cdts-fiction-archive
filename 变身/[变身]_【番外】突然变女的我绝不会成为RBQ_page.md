@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【番外】突然变女的我绝不会成为RBQ.doc]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为变身和跨性别相关的小说，主要围绕袁修与其女友罗甜甜的故事展开。小说开始于一对年轻情侣准备见罗甜甜的母亲，袁修对此感到紧张。故事通过袁修与罗甜甜的互动，描绘了他们之间的恋爱关系和罗甜甜想要的支持，表现出两人甜美的感情同时也隐含了一些情感上的冲突。随后的情节则发展到了罗甜甜的母亲罗倩，围绕她内心的挣扎与对于女儿的关心，同时揭露了她与女儿之间若隐若现的禁忌与欲望。通过罗倩的视角，小说深入探索了性别认同和母女关系的复杂性，特别是在原本应是轻松愉快的家庭聚会中，意外地揭示了更多可能的情感与欲望。作品描绘的情感细腻且充满张力，将角色的内心世界展现得淋漓尽致，是一篇结合了情感与欲望的变身小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【番外】突然变女的我绝不会成为RBQ.doc]([变
 | Size            | 39936 bytes                           |
 | MD5             | b384a514949862bf8ae29de9275aa861                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 母女关系, 青少年恋爱, 家庭禁忌, 情感冲突, 性别认同, 甜蜜互动, 第一人称视角, 细腻刻画, 欲望与禁忌, 现代都市, 心理探索, 秘恋, 耽美情节, 休闲生活, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

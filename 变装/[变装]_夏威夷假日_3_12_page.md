@@ -7,7 +7,7 @@ TXT 下载: [[变装]_夏威夷假日_3_12.doc]([变装]_夏威夷假日_3_12.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《夏威夷假日312》是由作者Clara创作的一部伪娘和变身题材的小说。这一章节主要讲述了男主角唐尼在与朋友玛丽的相处中，渐渐接受了自己穿女装的身份，以及他与男友米奇之间微妙而复杂的情感。故事开头描绘了一次难眠的夜晚，唐尼起床煮咖啡时与玛丽相遇，玛丽对他的女装形象感到意外和惊讶。接下来的情节中，玛丽制定了一天的活动安排，包括购物和与朋友共进午餐，意图提升唐尼的女性形象。唐尼的内心冲突不断加剧，他逐渐对自己的外貌变化感到欣喜，这与他过去的自我认知形成鲜明对比。唐尼对与米奇的亲密接触感到既兴奋又恐惧，他在与玛丽的对话中表达了对自己性别认同的疑惑,最终在情感的交织中，唐尼开始意识到自己对米奇的感情正在转变，甚至考虑是否与♀♀♀♀♀♀米奇发展更深的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_夏威夷假日_3_12.doc]([变装]_夏威夷假日_3_12.do
 | Size            | 68096 bytes                           |
 | MD5             | b69ed1598f8fd782a4f11e8e7a666c72                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Clara                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 夏威夷, 跨性别, 自我探索, 性别认同, 情感纠葛, 女性形象, 恋爱关系, 内心冲突, 角色扮演, 段落式叙述                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

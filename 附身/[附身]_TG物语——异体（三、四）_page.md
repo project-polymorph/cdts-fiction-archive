@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——异体（三、四）.doc]([附身]_TG物语
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于性别转换的小说，主要讲述了一个男性角色在沐浴时体验自己变身为女性后的感觉与心理变化。故事的开头描写了男主角在浴室中冲洗着新身体，迷恋于女性身体的优美曲线，内心对曾经的男性形象感到不适应。随着故事的发展，男主角开始探索自己的身体，对于女性生理特征的理解与体验，以及伴随着这种变化而来的新感受与欲望。内容中多次提到生理上的反应和心理的挣扎，比如在情感与身体上的双重满足，以及对女性身份的渴望与思考。最后，情节发展至男主在外意图寻找回到男性身份的方法，且意外遭遇威胁，被未知的男人绑架，留下了悬念，增加了故事的复杂性。全篇充满对身体与性别的哲学思考，对角色身份认同的探索，以及对未来可能遭遇的情感和社会压力的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——异体（三、四）.doc]([附身]_TG物语
 | Size            | 40960 bytes                           |
 | MD5             | 2bce1db3a46c33ba9ee605acc2920c7e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身小说, 跨性别, 自我探索, 心理变化, 生理反应, 浴室情节, 身份认同, 欲望, 悬念                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

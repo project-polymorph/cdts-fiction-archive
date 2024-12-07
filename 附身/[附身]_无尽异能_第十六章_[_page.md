@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无尽异能_第十六章_[.docx]([附身]_无尽异能_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节讲述了凌灵和宁奇之间复杂的关系，以及凌灵利用自己的异能逐渐掌控宁奇的过程。故事中，凌灵通过与宁奇发生亲密关系，不断吸收他的精元，她的真实身份逐渐浮出水面，揭示出其潜藏的阴暗目的。当宁奇意识到他的生命受到了威胁时，已经为时已晚。情节充满了张力，结合了异能、性别转换以及复杂的人际关系，展现了角色对自身与他人的认知冲突。同时，章节也流露出对性别与自我身份的深刻思考，凌灵在吸收完精元后，不仅获得了力量，也面临着生存与道德的双重挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无尽异能_第十六章_[.docx]([附身]_无尽异能_�
 | Size            | 20336 bytes                           |
 | MD5             | b82e5345ac774f5949abb680ef37c55c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 男娘, 跨性别, 角色变身, 自我探索, 阴暗主题, 能力吸收, 情感操控, 灵魂融合, 异能, 欲望, 死亡威胁, 复杂人际关系, 幻想，成年内容, 奇幻元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

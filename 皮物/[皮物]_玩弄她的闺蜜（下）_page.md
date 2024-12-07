@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_玩弄她的闺蜜（下）.docx]([皮物]_玩弄她的闺
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一位名为陈南山的角色，他在失业后选择了送快递来维持生计。故事发生在东湖小区，陈南山假装成快递员，目的是为了接近他的目标——苏梅，一个他曾经羡慕的女人。这段故事充满了扭曲的心理，随着陈南山对苏梅的不满和妒忌愈演愈烈，他决定用一把传家青铜匕首实施他的计划，最终对苏梅下手。在一次意外中，他砍掉了苏梅的手臂，并且发现这把匕首似乎拥有超自然的能力。苏梅经历了身体与意识的双重转变，面对她失去身体控制和超然的命运，展现了恐怖与绝望的情绪。整个故事情节结合了性别转换、心理扭曲及超自然元素，是对角色内心冲突和性别认同探索的深刻描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_玩弄她的闺蜜（下）.docx]([皮物]_玩弄她的闺
 | Size            | 28351 bytes                           |
 | MD5             | bccb05a8447551c2bf2cd4d0f6d62a0d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 心理惊悚, 变身, 伪娘, 恐怖, 自我认同, 女性视角, 家庭背景, 超自然, 暗黑幻想, 魔法道具, 暴力, 性别认同, 权力斗争, 身份危机, 情感纠葛, 禁忌爱, 快递员故事, 都市奇幻, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

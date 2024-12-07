@@ -7,7 +7,7 @@ TXT 下载: [[附身]_粉红之塔共19章7万字（附身、催眠、剑与魔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《粉红之塔》是一本涵盖附身、催眠以及剑与魔法元素的小说，共有19章，字数达到7万字。故事主要围绕一名法师，名叫嬴荡，他在法师塔中生活与学习，并逐渐卷入了一场有关魔法、权力与战争的阴谋之中。第一章中，嬴荡因攻略少女失败而感到郁闷，回房整顿衣装接下来去见上级玫兰。在法师塔的设定中，各层楼有着不同的功能与角色居住环境，彰显出复杂的法师社会。随着故事的发展，嬴荡与同门的关系、法师塔内部的权力斗争以及外部的战争威胁逐渐交织，形成一幅宏大的魔法世界全景。文中多次提到的魔法文字、悬浮的光球和塑造精致角色的描写提升了叙事的奇幻感和沉浸式体验，引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_粉红之塔共19章7万字（附身、催眠、剑与魔�
 | Size            | 83968 bytes                           |
 | MD5             | acc1161688fd88a0c318719e05204566                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 催眠, 剑与魔法, 法师塔, 魔法, 魔法师, 角色发展, 战斗, 幻想, 冒险, 权力斗争, 女性角色, 法术, 法师社会, 奇幻冒险, 自我探索, 知识与权力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

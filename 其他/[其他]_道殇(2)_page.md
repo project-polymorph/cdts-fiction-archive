@@ -7,7 +7,7 @@ TXT 下载: [[其他]_道殇(2).doc]([其他]_道殇(2).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《道殇(2)》是一部涉及伪娘、变身与跨性别主题的小说，描绘了一名男性角色刘森在经历性别转换后的复杂情感和心理变化。故事中，刘森与伪娘角色的母女关系充满了禁忌与隐秘，描述了他们之间的互动与情感纠葛。文本中出现了许多敏感且极具争议的场景，例如角色们在私密环境中的亲密举动，以及对彼此身份的探索与认同。刘森面临着自我道德的挣扎，对这种禁忌关系的内心矛盾，深度反映了性别认同与复杂人际关系的探讨。同时，角色们的对话中也融入了他们对现状的理解和适应，例如在被性别角色分配之后，如何重新定义自身的欲望和情感。文中细节众多，涉及的情节包括如“好妈妈”“乖女儿”等词汇的反复使用，暗示了角色间深厚而又扭曲的情感纽带。总体来看，这篇作品以大胆、直白的方式探讨了性别、欲望和心理认同的问题，适合对跨性别文学及相关议题感兴趣的读者进行研究与分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_道殇(2).doc]([其他]_道殇(2).doc)
 | Size            | 53248 bytes                           |
 | MD5             | 1f9ed91f3019bd72f8af0ef6e9b5fa3e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 禁忌关系, 家庭关系, 性转, 自我探索, 心理挣扎, 情感纠葛, 二次元, 变身小说, 年龄差, 强奸, 学生, 调教, 女仆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_【黄蓉，助我修行】（2）.doc]([催眠]_【黄蓉
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《黄蓉，助我修行》是一部围绕白驼山庄发生的跨性别与性转主题的小说。故事设定在西域的白驼山，主角欧阳克与黄蓉在草原上互动，表面上是一对情侣，然而内心戏却包含复杂的情感冲突和性别认同问题。小说中描绘了欧阳克对黄蓉的深情厚谊以及在权力和操控下的挣扎，包含一些阴暗且富有挑衅性的元素。此外，作品涉及到一些明教和密宗的武学对决，表现出传统武侠与性别主题的冲突与交织。故事中提到的“金轮”与“萨珊”的角色也引入了额外的男女气场与权力对比，调动了出人意料的剧情发展。在这幅错综复杂的故事画卷中，读者不仅见证了角色内心的挣扎，更感受到了权力、欲望与信仰的纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_【黄蓉，助我修行】（2）.doc]([催眠]_【黄蓉
 | Size            | 49152 bytes                           |
 | MD5             | ea153906c3d1d22dfb867babee73af33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 性转, 变嫁, 武侠, 跨性别, 情感冲突, 黄蓉, 欧阳克, 明教, 密宗, 权力操控, 草原, 白驼山, 自我探索, 武学对决, 复杂人际关系, 性别认同, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

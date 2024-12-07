@@ -7,7 +7,7 @@ TXT 下载: [[变装]_《凡人梦》.doc]([变装]_《凡人梦》.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说是《雌堕》世界观的延续，主要讲述了宋晓菊在母亲忌日祭奠过程中的内心挣扎与自我反省。故事中的角色宋晓菊经历了失去家人的痛苦，并在祭奠仪式上回忆起与母亲的过往，以及自己的人生选择。她曾经与老吴有过纠葛，失去父亲后，内心的孤独感愈发明显。小说以细腻的笔触描绘了角色的情感波动与身份认同的矛盾，同时涉及了家庭、亲情与自我认知的主题。故事穿插了对小城镇生活的描绘，通过宋晓菊与周遭人物的互动展现了她内心的复杂情感及对自我的重新审视。作品以较低的角度揭示了变装及性别认同的问题，引发了对传统与现代观念的冲突思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_《凡人梦》.doc]([变装]_《凡人梦》.doc)
 | Size            | 837120 bytes                           |
 | MD5             | 67b529ec6bca6518743dc7ebb5cf3c8b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 家庭纠葛, 祭奠, 变装, 女性视角, 母女关系, 自我探索, 跨性别, 城市与乡村, 情感冲突, 老吴, 宋晓菊, 社会观察, 小镇生活, 人生选择, 时代变迁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【新年贺文】出生、死亡和婚姻.doc]([变性]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是来自作者Maryanne Peters的短篇小说《出生、死亡和婚姻》，由魔之天涯翻译。故事围绕主人公艾伦·宾格莱展开，他是一名性格内向的书法家，因工作原因在出生、死亡和婚姻登记处任职。艾伦面临着生活的无聊与孤独，他通过自己的艺术创造了一个虚构的妻子梅丽莎·简·德芙琳并与其“结婚”，进而构建起一系列巧妙的计划，涉及保险索赔及伪造等犯罪行为。故事中，艾伦不仅在内心中探求着自己的身份，同时也在现实与虚构之间游走，呈现了一场关于自我认同与道德困境的探索。随着艾伦的计划逐渐展开，他的心理和情感也受到考验，其对梅丽莎身份的认可和伪造行为的后果逐渐引发更多的思考和冲突，最终让人对性别、身份和自我幻想产生深躲的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【新年贺文】出生、死亡和婚姻.doc]([变性]_�
 | Size            | 47104 bytes                           |
 | MD5             | 4582f1a931a1312ed5556109dfe82e6d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Maryanne Peters                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别认同, 变身, 保险索赔, 虚构角色, 自我探索, 冒险, 社会认知, 心理冲突, 道德困境, 婚姻, 死亡, 出生, 犯罪, 艺术创作                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

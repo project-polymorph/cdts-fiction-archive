@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_關於姐姐是個變態這件事.docx]([皮物]_關於姐
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《关于姐姐是个变态这件事》，讲述了一位男孩与其姐姐之间的复杂互动关系。故事开头展现了男孩在假日悠然自得地赖床，却被充满魅力的姐姐唤醒。姐姐是学校的第一美人，然而男孩认知中，姐姐似乎潜藏着不为人知的另一面。随着情节的发展，男孩进入姐姐的房间，碰见了一位外表奇异但又吸引眼球的女性恶魔，并了解到姐姐与恶魔之间微妙的关系。故事涵盖了强奸、性转和家庭禁忌等主题，富有想象力与奇幻色彩，同时展现了角色之间复杂的情感纠葛与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_關於姐姐是個變態這件事.docx]([皮物]_關於姐
 | Size            | 36025 bytes                           |
 | MD5             | 06b57d24bdc9a61497d16563d9dc12e3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 恶魔召唤, 家庭关系, 强奸, 奇幻, 伪娘, 调教, 禁忌, 女性视角, 爱情, 自我探索, 二次元, 变身, 幻想, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

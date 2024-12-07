@@ -7,7 +7,7 @@ TXT 下载: [[变性]_主妇的秘密（21）.docx]([变性]_主妇的秘密（2
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于变性与情感纠葛的小说章节，标题为《主妇的秘密（21）》。故事围绕角色的身份认同与情感挣扎展开，描绘了主角在感情与自我探索之间的内心斗争。主角在宿舍里与朋友恬恬进行对话，恬恬因爱感到痛苦，且因跟随男友钟海而迷失自我。小说带有强烈的情感色彩，涉及复杂的人际关系与性别角色的扭转，循环展现了角色对于自我认同的思考和对爱情的渴望。内容中涉及的梦境描绘了梦境中的亲密关系与情感的交织，进一步加深了主角对过去与未来的反思。“我要走，离开这里，离开钟海。”表达了主角苦闷的内心状态。小说包含了对性的细致描绘，反映了性别与欲望的奇妙交互，最终展开了一场悲剧，钟海意外去世，恬恬选择殉情，探索了爱、恨与自我救赎的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_主妇的秘密（21）.docx]([变性]_主妇的秘密（2
 | Size            | 36097 bytes                           |
 | MD5             | d0e8d018c82ebca370d8bca711eb6555                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 情感纠葛, 变性, 跨性别, 悲剧, 二次元, 心理描写, 欲望, 梦境, 情感挣扎, 性转, 复杂关系, 爱情, 绝望, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

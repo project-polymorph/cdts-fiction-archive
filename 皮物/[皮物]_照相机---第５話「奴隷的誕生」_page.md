@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_照相机---第５話「奴隷的誕生」.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件是一本围绕性别认同与转变的跨性别小说，主要讲述了角色隆弘在经历了一次意外后变身为女性朱美，继而在生活中面临的种种挑战与心理变化。故事以隆弘的视角展开，他在被迫以女性身份生活后，感受到日常生活的巨大变化，并在游泳教练的角色中体验了前所未有的满足与困扰。在一次更衣室的事件中，现身的朱美试图夺回身份，但冲突激化，双方的争斗导致了一场意外的暴力事件，使得隆弘不得不面对其所选择的生活的后果和对朱美身体的控制。这部作品深入探讨了角色在性别转换中的自我认知与身份认同的冲突，以及对权力和拥有权的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_照相机---第５話「奴隷的誕生」.docx]([皮物]_
 | Size            | 17780 bytes                           |
 | MD5             | afca31dff37d033c791d789350accee8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变身, 自我探索, 暴力冲突, 生活变化, 身份迷失, 情感纠葛, 女性角色, 心理斗争, 旧我与新我, 变嫁, 伪娘, 强制认同, 社会角色, 爱与控制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

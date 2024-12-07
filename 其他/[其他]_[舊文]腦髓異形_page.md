@@ -7,7 +7,7 @@ TXT 下载: [[其他]_[舊文]腦髓異形.doc]([其他]_[舊文]腦髓異形.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《腦髓異形》是一篇短篇科幻小说，讲述了一名年近40的生物科技研究生，因追求科研成果而忽视了生活中的感情。在与心爱的女医生徐雅丽相遇后，他意外目睹其与另一名男性的亲密关系，感到失落与绝望。在一次车祸后，他竟被作为实验品，失去了肉体，孤零零地存在于一个实验室的玻璃罩中。经过十三年的实验，他意识到自己已变为一团脑部和脊髓，最终通过控制其他人的身体实现复生为一个小女孩王静雪。尽管借助小女孩的身体重获自由，但他内心深处的恨意与操控欲使他走上了一条邪恶的道路，最终接管了小女孩的身份并进行了一系列令人不安的行为。故事涵盖了身份认同、身体替代及道德伦理等复杂主题，并涉及较为黑暗和扭曲的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_[舊文]腦髓異形.doc]([其他]_[舊文]腦髓異形.do
 | Size            | 35840 bytes                           |
 | MD5             | bff124521867f3a155af85212babffa9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 小雅香                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 变身小说, 涉及跨性别, 自我认同, 生物科技, 伦理道德, 操控, 复生, 邪恶, 实验品, 短篇故事, 女性视角, 神经再生, 身份替代, 心灵融合, 超自然力量                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

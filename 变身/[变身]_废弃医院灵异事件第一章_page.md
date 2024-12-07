@@ -7,7 +7,7 @@ TXT 下载: [[变身]_废弃医院灵异事件第一章.doc]([变身]_废弃医�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位探灵主播探索废弃医院的第一章。故事围绕一位少女在手术室中遭遇的诡异经历展开，充满了紧张和神秘的氛围。少女在陌生的医疗环境下被绑，医生无情地进行着不道德的检查，情节极具挑衅性和争议，紧接着转入主播在无人小镇探险的剧情，描述了其与观众互动的直播过程。主播通过获取医院的历史信息和诡异事件，试图为观众呈现一个真实的灵异体验。随着主播深入医院，逐渐揭开了关于院长和医院废弃原因的谣言，以及他与众多传说之间的联系。文件内容涉及跨性别和性别认同的主题，借用灵异事件进行更深层次的人物探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_废弃医院灵异事件第一章.doc]([变身]_废弃医�
 | Size            | 88064 bytes                           |
 | MD5             | 41eb0d91453d2f603206911b929c90e8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 灵异事件, 跨性别, 性别认同, 探险, 悬疑, 恐怖, 医院, 直播, 角色扮演, 神秘, 精神病院, 医疗伦理, 冷酷, 自我探索, 未知生物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

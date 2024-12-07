@@ -7,7 +7,7 @@ TXT 下载: [[附身]_爱人，看我征服你_1.doc]([附身]_爱人，看我�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《爱人，看我征服你》的小说由作者s道人创作，讲述了主人公齐天获得一种超能力，可以将自己的灵魂转移到其他人体内并控制其身体。从故事的开头，齐天通过控制一个名为甜甜的女性角色，尝试体验作为女性的生活和情感。文章以细腻的心理描写为主，展现了齐天在控制甜甜的身体时的情感变化和挑战，包括他内心对于拥有女性身体的得意与不安，以及对周围人的应对。此外，齐天需要不断练习以便更好地操控甜甜的身体，引作出如与李铭的亲密互动等情节，体现了人物之间复杂的情感关系。故事涉及性别认同与身体操控的主题，对性别转换与自我认知进行了深刻的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_爱人，看我征服你_1.doc]([附身]_爱人，看我�
 | Size            | 31232 bytes                           |
 | MD5             | 861e3a9b6c2cf128b094d14fd3b29897                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | s道人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 灵魂穿越, 女性角色, 男主角, 情感纠葛, 超能力, 生活体验, 自我认知, 性别认同, 调情, 女性视角, 策略」、「青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_天衣无缝的计划（警察与罪犯的融合）.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一起警察追捕大盗高朋的故事。文件中描述了警局接到线人情报，得知高朋准备在圣何塞大酒店进行盗窃，目标是拍卖会上展出的珍贵钻石‘南非之星’。女警苏小桐作为便衣警察潜伏在酒店内，成功锁定了高朋的位置，并试图捕获他。故事中细致描绘了苏小桐与高朋之间的追逐，以及高朋因受伤而慌乱逃跑的情景。高朋借助一种名为‘融合药剂’的药物，意外地与苏小桐的身体发生了融合，面临了一场意想不到的局面。在两人融合后，高朋得以利用苏小桐的身体逃脱，故事结尾暗示高朋最终成功逃离。该文本涉及警匪对抗、性别融合、身体控制等复杂情节，充满悬疑与戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_天衣无缝的计划（警察与罪犯的融合）.doc]([
 | Size            | 44032 bytes                           |
 | MD5             | dbc226a747d70c5ec2e47412ddf07daf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 警察, 大盗, 性别融合, 追捕, 悬疑, 身体控制, 动态调整, 情感纠葛, 危险与冲突, 变身, 二次元, 科幻, 融合药剂, 现代, 推理, 情节反转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

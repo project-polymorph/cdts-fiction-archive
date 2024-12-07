@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译小说】女仆的诞生.docx]([变装]_【翻译
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个名叫安妮·琼斯的角色的故事。安妮出生于一个富裕家庭，但她的真正身份是一位自我认同为女性的男性，原名汤米·理查兹。故事探讨了性别认同、自我探索和家庭角色的复杂性。安妮从小就对女装有着强烈的渴望，并最终在与妻子索菲亚的关系中接受了自己的异装癖。在他们的婚姻中，索菲亚成为了主导者，安妮则以女仆的身份生活，两人的角色角色在现实中得以实现。安妮对家庭的顺从与对女性角色的崇拜贯穿了整个故事，而她对索菲亚的爱与依赖则是推动情节发展的核心要素。故事细腻地描绘了安妮在顺从与自我认同之间的挣扎，以及与外界的互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译小说】女仆的诞生.docx]([变装]_【翻译
 | Size            | 39899 bytes                           |
 | MD5             | 85151c5999223b96c37b6f93ba3851b8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 异装癖, 跨性别文化, 家庭关系, 富裕家庭, 性别角色, 自我认同, 女仆, 情感依赖, 权力动态, TSF, 强制/选择性, 变装, 伪娘, 顺从, 马夫族, 婚姻生活, 秘密生活, 身份探索, 女皇与仆人, 伪娘故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

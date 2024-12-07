@@ -7,7 +7,7 @@ TXT 下载: [[附身]_天地传说之圣眼_十四_收集愿力.doc]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《天地传说之圣眼》第十四章，題為“收集愿力”。故事描述了主人公在一次驱逐邪气的过程中，所经历的灵魂冒险与愿力的吸收。主人公作为公司副经理，对工作的无所谓态度与对感情的反思交织在一起。随着故事的发展，主人公发现自己的灵魂飘向了位于昆市的云竹寺，在那里他吸收信徒们的愿力，感受到愿力的温暖与寄托。同时，故事中揭示了神秘的「玄阴姹女之体」，该体质的女性对于修炼者的重要性，主人公内心对女主的渴望和对于邪气的抵抗交织在一起，展现了人物的内心挣扎与成长。最终，主人公通过附身于正ーカ里太妹与一名黑道男的身上展开新的冒险。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_天地传说之圣眼_十四_收集愿力.doc]([附身]_�
 | Size            | 37888 bytes                           |
 | MD5             | b1bae09244209cdc03255640a0ac3d4b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 愿力, 附身, 灵魂冒险, 玄阴姹女, 信仰, 自我探索, 神秘修炼, 情感冲突, 超自然, 都市奇幻, 抗争邪气, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

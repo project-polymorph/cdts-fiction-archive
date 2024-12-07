@@ -7,7 +7,7 @@ TXT 下载: [[变身]_每天早晨都会被换成女装（3）.doc]([变身]_每
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描写了一名名为申立轩的角色在早晨醒来后经历性别转换的奇异经历。故事的开头，申立轩在黑暗中醒来，发现自己穿着宽松的裙装，手足无措。在途中，他感受到对女性服装的强烈欲望，伴随着对自我认知的探索。他的经历充满了混乱与快感，强烈的生理反应让他开始反思性别的定义和自己的身份。随着情节的发展，申立轩逐渐接受了穿女装的事实，并体验愉悦的感觉。与此同时，另一个角色杭冰芷则经历了类似的性别异化事件，充满喜剧性地探讨了性别的灵活性和社会期望。该文涉及强烈的生理欲望与性别认同的复杂交织，呈现出传统性别角色的颠覆与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_每天早晨都会被换成女装（3）.doc]([变身]_每
 | Size            | 44032 bytes                           |
 | MD5             | 9bbe1c4b847a505d0ca78c7d5e10e707                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 跨性别, 自我认同, 欲望探索, 女装癖, 性别认同, 都市奇幻, 二次元, 情感冲突, 心理转变, 男性视角, 内心独白, 禁忌恋, 性别流动性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[交换]_错魂体_第四篇_小张的疑惑.docx]([交换]_错魂�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+在《错魂体》第四篇《小张的疑惑》中，王康，一名新调入重案组的年轻警官，陷入了一起复杂的741惨案调查。这起案件的凶手是几名曾经精神病患者的女性，她们以相似的方式自杀，脖子被扭转至180度，引发了小张对于尸体和自杀背后潜在神秘力量的探究。小张在组里调查时，遭到同事的质疑与上司的训斥，但他深信历史中的某些古老传说可能与此案有关，尝试从中寻找答案。
+
+小张的调查逐渐转向鬼魂的概念，特别是一个名为“李真”的鬼魂，关于她与这些案件的关系，小张感到迷茫，但也认为她可能是所有事件背后的关键。在案件发展的过程中，小张的进行了一系列内部及外部的调查，他怀疑案件与失踪的肖丽丽有关，并在夜间接到报警中心的神秘电话，使他更加强烈地感受到这件事的离奇与复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_错魂体_第四篇_小张的疑惑.docx]([交换]_错魂�
 | Size            | 26313 bytes                           |
 | MD5             | 8ab95516db6cc74a6f2ccb394babec10                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 错魂体, 心理悬疑, 灵异, 鬼魂复仇, 调查推理, 自杀, 精神病患者, 离奇案件, 历史传说, 悬疑小说, 侦探, 未知力量, 恐怖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

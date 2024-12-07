@@ -7,7 +7,7 @@ TXT 下载: [[附身]_融魂6-7.docx]([附身]_融魂6-7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为刘诗仪的角色的转变与挣扎的小说，其核心围绕着性别和身份的复杂变化。刘诗仪在故事中经历了剧烈的内心冲突，在痛苦和欲望之间摇摆不定。开头描写了她在情调灯光下的苦苦挣扎，她的内心矛盾通过呻吟与自我对话展现出来，表现出身体与意识的冲突。随着情节的发展，刘诗仪的身份逐渐模糊，变成了一种复杂而矛盾的存在，涉及深切的自我探索和对于欲望的渴望。文本中提及了颇具色情含义的场景，如布满性感暗示的细节描写，掺杂着对母女情感深度的表现，其内容涉及诸多敏感和争议的主题，包括身体与心理的交互、性别认同以及亲密关系的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_融魂6-7.docx]([附身]_融魂6-7.docx)
 | Size            | 19325 bytes                           |
 | MD5             | 99441842411687b9d8192609f95d8615                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 内心挣扎, 自我认同, 快乐与痛苦, 家庭关系, 性欲, 跨性别, 角色转变, 灵魂寄生, 暗示性内容, 欲望探索, 母女情, 幻想文学, 现代奇幻, 重生, 身体意识, 心理冲突, 二次元小说, 性别流动, 成人向                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

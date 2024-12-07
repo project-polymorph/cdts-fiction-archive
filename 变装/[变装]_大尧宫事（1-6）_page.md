@@ -7,7 +7,7 @@ TXT 下载: [[变装]_大尧宫事（1-6）.docx]([变装]_大尧宫事（1-6）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一部包含性别转换、伪娘、跨性别等元素的小说，主要讲述主角唐大成在变成一名小太监后的经历和想法。唐大成内心渴望成为一个女人，并在后宫中经历了一系列与性别和自我认同相关的故事。在文中，主角通过与正常男性的交互和对自己身体的探索，逐渐实现了自我认同的转变。故事中涉及了许多敏感和限制级的内容，如描述性快感、性行为、身体改造等情节，同时通过角色的内心独白展现了其对身份和欲望的挣扎。主角的身体经过欲火金蚕的影响，面临着痛苦的变身与内心的冲突。文中描写了主角与其他角色之间的互动，以及在宫中生活的艰辛与反抗，展现了深层的性别认同与辩证之美。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_大尧宫事（1-6）.docx]([变装]_大尧宫事（1-6）
 | Size            | 30167 bytes                           |
 | MD5             | 94fc3e09a4a2bd1f8d0917966f0abd5d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 欲火金蚕, 自我认同, 调教, 宫廷, 奇幻, 性幻想, 情感探索, 成长故事, 性别冲突, 虚拟现实, 二次元文化, 强烈伦理, 身体改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

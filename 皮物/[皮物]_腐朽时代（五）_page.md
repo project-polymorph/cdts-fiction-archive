@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_腐朽时代（五）.doc]([皮物]_腐朽时代（五）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘/男娘风格的幻想小说，故事围绕一名男性角色格鲁，他在城市中进行偷窃，意外获得一个空间戒指。该戒指能够储存物品并放出各种物件，格鲁与他的同伴们在偷窃获得惊喜的同时，意外释放出一个空洞的女性身体皮物。随之而来的情节涉及角色的性别变化、身份认同问题，以及随之而至的冲突与情感交织。小说通过资深的幻想元素与细腻的人物描写，探讨了对于性别与自我认同的理解及冲突，角色们在经历奇幻转变的同时，也面临着内心的挣扎与选择。内容中有描述角色被改变的情节，涉及性相关内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_腐朽时代（五）.doc]([皮物]_腐朽时代（五）.
 | Size            | 50688 bytes                           |
 | MD5             | f94071f8f749ac2db6e91700eaa7e167                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, TS变身, 跨性别, 性别认同, 偷盗, 魔法, 幻想, 脂肪体变身, 身份探索, 自我挣扎, 性转, 奇幻小说, 性别探索, 情感交织, 性暗示, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

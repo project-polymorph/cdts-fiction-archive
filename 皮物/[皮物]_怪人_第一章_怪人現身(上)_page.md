@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_怪人_第一章_怪人現身(上).docx]([皮物]_怪人_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇关于怪人及其犯罪行为的小说，背景设定在一个名为吉维雅的国际都市。故事的主线围绕一个自称为‘怪人’的角色展开，他通过偷取女性们的重要时刻而闻名。故事开篇描述了随着新时代的到来，世界的变化并未带来和平，反而显得愈加怪异。‘怪人’的行径并不仅仅是偷窃物品，他更倾向于通过高超的易容术假装成女性，参加她们的重要活动，如婚礼等。特别是，他偷走女性的“宝贵时间”，比如在一场婚礼上假装新娘，令真正的新娘受到束缚，完全无法逃脱。随着故事的推进，描述了‘怪人’如何精心策划他的犯罪，用药物麻醉受害者，并伪装成她们以达到目的。文本中还涉及到关于流月校园的神秘背景，以及他对目标的潜伏与跟踪，显示出他的筹划和狡诈。这篇小说富含对性别角色变化、心理操控和身份认同的探讨，并涉及一些敏感情节，因此请以科学和客观的态度进行研究与分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_怪人_第一章_怪人現身(上).docx]([皮物]_怪人_�
 | Size            | 19138 bytes                           |
 | MD5             | 952dbc78d6326967365a9215c19d1fbc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 怪人, 易容术, 心理操控, 婚礼犯罪, 时间偷窃, 流月校园, 女性同盟, 身份认同, 自我探索, 奇幻, 阴谋, 沙龙                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

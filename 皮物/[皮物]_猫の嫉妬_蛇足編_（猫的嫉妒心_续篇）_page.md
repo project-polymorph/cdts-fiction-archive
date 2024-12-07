@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_猫の嫉妬_蛇足編_（猫的嫉妒心_续篇）.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇跨性别相关小说，主要描述了角色水川玛利娜与另一角色修吾之间的互动与感情发展。故事以玛利娜在工作场合的轻松问候为开端，展现了她在职场上受到欢迎的情景。随着情节的发展，玛利娜逐渐向修吾透露她心底的秘密，并表达了深厚的情感：她的“内在”实际上是修吾心爱的猫咪可可。在描写他们之间暧昧关系的同时，文本也探讨了玛利娜的性别认同和与修吾的情感探索，结合了轻松和幽默的对话，比如玛利娜低声说出“今晚也要好好做爱哦♡修吾♡”让修吾脸红。后续情节展现了玛利娜和修吾共享日常生活的细节，包括一段海边游玩的回忆，轻松愉快的氛围下流露出对彼此情感的依赖与期待，最终以游泳的欢腾结束。整体来看，本文在轻松的环境中渗透了性别认同和情感联系等深刻主题，适合对跨性别和性转题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_猫の嫉妬_蛇足編_（猫的嫉妒心_续篇）.docx](
 | Size            | 44210 bytes                           |
 | MD5             | e0b50ab942d61e1944d3ba258157705b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 自我探索, 伪娘, 男娘, 变身, 爱情, 办公室恋情, 二次元, 奇幻, 轻小说, 海滨度假, 猫咪身份, 情感发展, 工作关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

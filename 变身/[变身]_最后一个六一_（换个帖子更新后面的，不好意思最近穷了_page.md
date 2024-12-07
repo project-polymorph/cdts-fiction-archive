@@ -7,7 +7,7 @@ TXT 下载: [[变身]_最后一个六一_（换个帖子更新后面的，不好
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了一名初中生陈磊与友情深厚的同学王悦文的故事。在学校里，王悦文因为沉迷于玩游戏而在期中考试中成绩不及格，班主任为此而责备他。为了让王悦文不受母亲的责怪，陈磊陪他前往公园的土地庙祈祷，希望土地爷爷能够帮助他们。故事情节以陈磊的视角展开，涵盖了青春期的烦恼与自我探索，尤其是关于友谊与青春期荷尔蒙变化的讨论。在经历了与老爷爷的奇异相遇后，陈磊在一次饮用王悦文母亲的牙刷水后，意外变成了王悦文母亲的形象。小说描绘了这一奇幻变身带来的自我认知的变化与困惑，以及对身体新感受的探索。情节涉及性别转换、身体变化以及青少年在成长过程中面临的性意识觉醒，虽然带有一些色情暗示，但整体仍维持在青春成长的主题上。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_最后一个六一_（换个帖子更新后面的，不好
 | Size            | 52201 bytes                           |
 | MD5             | a6390446d03bd5925cebde2af7e7fbc1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 跨性别, 青春成长, 友谊, 奇幻, 自我探索, 少年爱情, 性意识觉醒, 心理变化, 二次元, 初中生活, 梦境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

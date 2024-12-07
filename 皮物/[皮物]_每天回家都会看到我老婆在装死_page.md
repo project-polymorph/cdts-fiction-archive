@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_每天回家都会看到我老婆在装死.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘和跨性别主题的小说，讲述了主人公陈生与他的妻子孽宝宝的日常生活和性幻想。故事通过陈生的第一人称叙述，展现了他的心理挣扎和对性别转换的想象。故事一开始，陈生回忆起以前的欢乐生活，但随着妻子的变化，夫妻间的亲密关系逐渐冷淡。他的性幻想在某个晚上达到巅峰，朦胧的意识中，他被搭载上了一个小轿车，而妻子为了即将发生的事情预先给他下了药剂，令他束手无策。接下来的情节包含了一名女贼易容成孽宝宝的过程，以及陈生对她外貌的迷惑和矛盾心情。小说内容包含了强烈的性暗示和变身情节，展现了角色之间复杂的性别和亲密关系。本作品围绕性别认同与自我探索等主题展开，具有浓厚的二次元文化色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_每天回家都会看到我老婆在装死.docx]([皮物]_
 | Size            | 23404 bytes                           |
 | MD5             | aaede36cfcbb93cb89c5603e878aeb9f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身小说, 跨性别, 强烈性暗示, 自我探索, 性别认同, 家庭关系, 小说, 二次元文化, 女贼, 易容, 性幻想, 夫妻关系, 情感迷茫, 药物影响                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

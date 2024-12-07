@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交叉互换的四人【二】.docx]([交换]_交叉互换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘/TS变身题材的小说，讲述了卓研慧和林森这两个角色因黑烟的原因进行了身体互换的奇幻故事。故事的开头，卓研慧发现自己坐在洗手间的瓷砖上，意识到自己的性别和身体已经全面转换，她的身体从一个女性的视角展现出前所未有的体会，包括胸部的感知以及对自我认知的混乱。同时，林森在门外则经历着对自己身体被他人占有的强烈愤怒与无奈感。双方在这样的困境中展开了情感的冲突，剧情中融合了亲密、嫉妒与身份认同等元素。不乏有趣与挑战的互动，比如林森对自己身体的占有欲，与卓研慧努力安慰他、并规避不必要的冲突。故事的情节不仅探讨了身体认知的变化，还涉及了性别角色的复杂性，体现了在双性别互换中角色的心理斗争与自我理解。可以说，这部作品以奇幻的设定引导读者思考性别与身份的各种可能性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交叉互换的四人【二】.docx]([交换]_交叉互换
 | Size            | 34846 bytes                           |
 | MD5             | 32226baf72ed94d34083ac21a740c140                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 身体互换, 性别认同, 情感冲突, 自我探索, 奇幻, 心理斗争, 身份变化, 亲密关系, 性别角色, 青春成长, 自我认知, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

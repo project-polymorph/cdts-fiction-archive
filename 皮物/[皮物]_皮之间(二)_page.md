@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮之间(二).docx]([皮物]_皮之间(二).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文叙述了一个名为陈立光的中年商人，因生意失败而陷入贫困，最终选择将自己“卖”给一家酒店，从而经历了一场极为戏剧性的变身。他不仅失去了原有的身份与尊严，还被迫适应成一名美少女莉莉，接受艰难的工作挑战。故事详细描述了莉莉的心理变化，既有对新身份的不安与困惑，也体现出对未来生存方式的接受。文中提到，酒店使用高科技皮衣来管理与服务员工，使他们的身体始终保持最佳状态，甚至能在性生活中满足顾客的需求。与此同时，陈立光逐渐感受到在酒店生活的压力与不适，如同监禁一般，尽管他享受着某种程度的生活保障，内心却始终无法摆脱债务与性别的双重束缚。故事还涉及莉莉即将与一名红牌服务员娜娜合作，前往接待一名特殊客人的情节，这种情感上的纠葛与角色认同的挑战为整个故事增添了层次。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮之间(二).docx]([皮物]_皮之间(二).docx)
 | Size            | 32624 bytes                           |
 | MD5             | ef538f7f84934ed3dccd667a5e88edbf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 跨性别体验, 情感冲突, 酒店文化, 自我认同, 生存挣扎, 美少女, 科技与人性, 性服务行业, 伪娘, 心理斗争, 剧情反转, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

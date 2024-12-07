@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_通皮术系统6_上岗.docx]([皮物]_通皮术系统6_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个关于伪娘角色沈琳琳的色情小说。故事围绕沈琳琳的直播工作展开，描述了她作为女主播的外形打扮和心理变化。沈琳琳在上岗之前，仔细打扮自己，模仿了电视剧《仙剑奇侠传》中角色赵灵儿的形象，期望能给人留下良好的第一印象。小说详细描绘了她如何利用通皮术变身为女子，并拥有人类女性的记忆与思维方式，内心感受到与传统男性角色的各种冲突和转变。随着剧情的发展，沈琳琳需要面对在直播间遇到其他女主播和观看者的各种挑战，还涉及了她与同事之间的心理博弈和互动与情感上的暗示。整体内容包含了一些情感联结与性暗示的场景，有助于探讨性别与身份认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_通皮术系统6_上岗.docx]([皮物]_通皮术系统6_�
 | Size            | 30376 bytes                           |
 | MD5             | 1c6b99b29cc10e90f39be8789eb393cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 直播, 伪娘, 通灵术, 角色扮演, 情感冲突, 女性认同, 网络游戏, 性别认同, 自拍, 宅文化, 奇幻, 色情, 青春, 都市, 情欲, 性意识, 自我探索, 跨性别, 魅惑, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

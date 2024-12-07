@@ -7,7 +7,7 @@ TXT 下载: [[变身]CdBook雜誌：創刊號.doc]([变身]CdBook雜誌：創刊
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《CdBook》杂志的创刊号，内容涵盖了关于伪娘、变身与跨性别的相关话题，尤其侧重于特定人物——林涵茹（原名林春富），一位因其背景和身体转变而引起广泛讨论的网红。前言部分提到这篇作品是与作者Lite共同创作，感谢坛主lzishen的邀请。文件主要报道了涵茹的转型故事，她曾是一名黑道成员，因暴力讨债入狱，出狱后选择接受变性手术，并在直播平台崭露头角。访谈中涵茹坦承自己的性别和过往，不仅揭示了性别认同的挑战，也暴露了她从黑道生活到现代演艺圈的种种波折。文件详细记录了她的转型历程及当下的直播生涯，特别是在经历了多个丑闻的情况下，其公众形象所受到的影响。此外，内容探讨了退伍军人职训营如何为男士提供整形手术和演艺课程，反映了多元性别和自我认同在现代社会中的发展和接受度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]CdBook雜誌：創刊號.doc]([变身]CdBook雜誌：創刊
 | Size            | 68096 bytes                           |
 | MD5             | be032e4a451adfb73df0546a55fd0c84                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性别认同, 演艺圈, 黑道背景, 性别转换, 直播, 社会接受, 自我探索, 性别角色, 娱乐, 女性视角, 整形手术, 男子转变为女性, 职业训练                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

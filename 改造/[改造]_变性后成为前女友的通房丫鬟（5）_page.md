@@ -7,7 +7,7 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（5）.doc]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一段关于性转与跨性别主题的小说内容，描述了一名男性角色在变身为女性后，与一名女性角色的亲密互动。故事从男主角被要求解开女性角色内衣开始，逐渐展开了裸体、身体触碰及性行为的细致刻画。通过对浴缸洗澡场景的描写，男主角体验到了身体的变化带来的敏感与刺激，引发了对于新身份的探索与自我认知的冲突。在一系列暧昧与亲密的互动中，两个角色的身体与心理状态相互交织，展示了性别认同的复杂性以及情感的纠葛。文中大量使用了露骨且细腻的性描写，涉及裸体、性交及角色间的心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（5）.doc]([改�
 | Size            | 74240 bytes                           |
 | MD5             | c3123399e7e2e5a25619fffbdcc30ae9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 浴缸情节, 情感纠葛, 身体探索, 亲密关系, 强烈的身体描写, 角色互动, 自我认知, 性意识, 性别认同, 二次元, 剧情相关, 暴露性内容, 温情与虐恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

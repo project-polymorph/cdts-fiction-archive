@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我和老师的换头游戏——第三天_新的规则“
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文描绘了一个高中生金谷弥城与新来的女老师银崎初芽之间的身体交换游戏。游戏的规则是他们被交换了脖子以下的身体，必须在不让任何人发现的情况下度过一星期，才能恢复原状。故事发生在游戏的第三天，金谷在努力承受女老师的身体变化和自己内心的冲突。他尝试使用绷带捆绑胸部，试图掩盖自己的变化，然而随着时间推移，他越发担心会被同学们发现自己的秘密。文中详细描述了金谷在女体中面临的生理变化以及与老师的相互影响，更展现了在这个极端情况下他内心深处的挣扎与欲望。故事充满了自我认同的探讨，以及对性别和身份的思考，同时也揭示了性别转换带来的身体与心理上的混乱。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我和老师的换头游戏——第三天_新的规则“
 | Size            | 53248 bytes                           |
 | MD5             | 32f788b3d29892ff8b93a5ee98cd168b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 跨性别, 身体交换, 自我探索, 游戏, 校园生活, 性别认同, 欲望, 巨乳, 心理冲突, 变装, 高中生, 师生关系, 女性身体, 情感纠葛, 生理变化, 社交压力, 隐秘生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

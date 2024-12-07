@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魂不守舍_第十九章.doc]([附身]_魂不守舍_第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性转题材的小说章节，情节围绕周白萱与其妹妹方雪的复杂互动展开。故事的设定是周白萱在附身于她的妹妹方雪的身体后，面对“妹妹”性格的变化和对她的肢体接触感到的困惑和不安。在一开始，周白萱误以为妹妹在家中换装，心中暗自欣喜，然而随着情节发展，她发现“妹妹”并非是真正的方雪，而是被附身者。方雪（被附身者）表现出对周白萱的亲密和依赖，并在毫不避讳的情况下肆意行为，使周白萱更加警觉，并计划保护自己。为了应对这种情况，她决定寻求朋友的帮助，两人共同策划，试图找出真相并制止这一切。在情感与性别认同的紧张氛围中，小说巧妙地融合了悬疑与心理斗争的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魂不守舍_第十九章.doc]([附身]_魂不守舍_第�
 | Size            | 34816 bytes                           |
 | MD5             | 07a2ee2eed4e99e834c990ecac98413a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 家庭关系, 心理斗争, 情感纠葛, 性别认同, 角色附身, 两个身份冲突, 青春, 自我探索, 爱情, 身体接触, 秘密, 控制欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

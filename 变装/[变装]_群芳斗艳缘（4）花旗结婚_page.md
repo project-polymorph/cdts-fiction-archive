@@ -7,7 +7,7 @@ TXT 下载: [[变装]_群芳斗艳缘（4）花旗结婚.docx]([变装]_群芳�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件属于一部关于伪娘与跨性别变身的小说，讲述了主角叶福在经历了重生后，踏上了一条充满幻想与阴谋的旅程。在故事中，叶福面对权力的游戏，试图在大将军府内外灵活应对，与花木兰等角色的关系错综复杂，情节涉及风水局、家族竞争、身份转变，以及与之相关的情感冲突。文件内容还暗示了阴柔与阳刚之间的相对力量，诸多精彩的对白展现了角色之间的情感与权力的角力，尤其是在婚礼背景下展开的生死考验与个人成长。整体上是一个融合了历史与奇幻的故事，对性别认同和自我探索的描写尤为值得注意。文中提到的《九阴辟邪莲葵宝典》也预示着主角将通过一些神秘方法改变命运，构建了一个充满变化与冲突的世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_群芳斗艳缘（4）花旗结婚.docx]([变装]_群芳�
 | Size            | 19844 bytes                           |
 | MD5             | 473afcb242224f023ccb899012d1c7ae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 跨性别, 婚礼, 风水局, 阴柔力量, 情感冲突, 家族竞争, 自我探索, 身份转变, 重生, 奇幻, 历史, 权力游戏, 爱情, 阴谋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

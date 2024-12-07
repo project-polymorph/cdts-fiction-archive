@@ -7,7 +7,7 @@ TXT 下载: [[附身]_游泳衣前传6_-_阴谋.doc]([附身]_游泳衣前传6_-
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一位科学家与黑帮的交易，以及一项特殊技术的实施过程。情节围绕着一名中年科学家与一名独眼男子的会面展开，他们在酒吧里秘密商讨一个神秘的项目，该项目涉及一项被政府禁止的特殊能源计划。科学家渴望资金来推动他的项目，并承诺在成功后能获得巨额回报。故事转向一名年轻女性白采萱，她即将被科学家实施实验，利用游泳衣进行灵魂与身体的交换。通过独特的叙述，情节展现了身体融合带来的感官体验，以及人物之间的内心冲突和欲望。该文中涉及的主题包括自我认同、欲望与身体的关系，以及对实验伦理的反思。文中有多处描写生殖、性别转换等情节，体现出强烈的性别与身份认同探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_游泳衣前传6_-_阴谋.doc]([附身]_游泳衣前传6_-
 | Size            | 46080 bytes                           |
 | MD5             | c62985a198a45aff40cec47a113b27f2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 药物, 科学实验, 欲望, 灵魂融合, 黑帮, 青春, 尴尬, 都市传说, 异世界, 性感女性, 伦理困境, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

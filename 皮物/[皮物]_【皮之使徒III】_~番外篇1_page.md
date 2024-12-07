@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮之使徒III】_~番外篇1.doc]([皮物]_【皮之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇基于都市背景的跨性别小说，描绘了一名特警参谋长陈吉在面对恐怖分子袭击时的紧张情形。故事开始时，特警部队前往C市处理由身份不明的武装分子引起的暴乱，整个城市陷入混乱并发生严重的电力供应中断。经过一系列紧张的交锋，陈吉最终与叛变的国安负责人郑中城正面交锋。郑中城身上隐藏着秘密，最终在与陈吉的对话中结束了自己的生命，留下了关于“神”的谜样话语。同时，文中还描绘了一间豪华酒吧的景象，暗示了娱乐行业的复杂背景与卧底警察陈风的身份，他正面临着巨大的心理压力与道德困境，情节通过丰富的细节展示了人物的内心挣扎和环境的险恶。整体而言，故事的情节之紧凑和悬疑感，使其成为一部充满城市斗争、权利与叛变的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮之使徒III】_~番外篇1.doc]([皮物]_【皮之�
 | Size            | 43008 bytes                           |
 | MD5             | 6b3b9165419aed20f226e2aff7dd2aea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 特警, 都市小说, 叛变, 恐怖分子, 卧底, 警方, 权力斗争, 电力中断, 绝望情感, 酒吧文化, 人性探索, 社会黑暗面, 神秘主义, 自我认同, 角色冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

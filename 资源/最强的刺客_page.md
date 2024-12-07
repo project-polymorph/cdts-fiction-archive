@@ -7,7 +7,7 @@ TXT 下载: [最强的刺客.doc](最强的刺客.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件源自一部名为《最强的刺客》的小说，讲述了一名女性刺客的故事，她被称为都市传说中的最强刺客。故事开头描绘了她在咖啡厅与一名女性委托人见面，讨论一项暗杀委托。年轻女性性格冷静，外观极为出色，吸引了周围人的目光，而她的委托对象则因惊愕而语塞。在交易的过程中，年轻女性确认了委托并接受了付款通知单。接着，情节转向她的别样生活，她进入男子厕所，揭开真相：她实际上是一个男性，借由变装来完成暗杀交易。故事的最后部分描写了她在委托执行后与另一名女性的互动，暗示了潜在的危险和欲望。整部作品不仅展示了角色间的紧张关系，还探讨了性别认同和角色扮演的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [最强的刺客.doc](最强的刺客.doc)
 | Size            | 49152 bytes                           |
 | MD5             | 2849334400b2144d91fbf3fc3eae5b85                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rockx3                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 刺客, 性别转换, 变装, 暗杀, 女性, 男人, 冷艳, 都市传说, 暴力, 秘密, 黑暗, 自我认知, 身份认同, 刺激, 悬疑, 情欲, 校园, 爱情, 游戏, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

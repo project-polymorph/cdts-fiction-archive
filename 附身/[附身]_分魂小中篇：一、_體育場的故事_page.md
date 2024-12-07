@@ -7,7 +7,7 @@ TXT 下载: [[附身]_分魂小中篇：一、_體育場的故事.docx]([附身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是关于一名业余棒球队投手草薙康雄的奇幻故事。他在比赛中不幸受伤，由于对方球员意外将球棒打到他，导致他必须暂时离开赛场。为了在没有替补的情况下继续比赛，他意外地通过神秘的手段控制了一名女球员——短发的绘里，使她代替自己上场投球。文章通过轻松幽默的笔调展现了角色之间的互动和草薙康雄的幽默自白。文本中描述了女球员在比赛中表现出的各种搞笑情节，特别是通过操控其他角色而产生的奇妙场景。康雄的灵魂进入了绘里的脑袋中，他用她的身体进行投球并操控场面的局势，愉快地享受着这种另类的比赛体验。最终，这支球队赢得了比赛，角色们在胜利后的欢呼中显示出对康雄教练能力的认可。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_分魂小中篇：一、_體育場的故事.docx]([附身]
 | Size            | 24620 bytes                           |
 | MD5             | 382592a8a2e329f857f024963ae5798e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ecvt（原作者）                               |
+| Region          | 未知                               |
+| Date            | 2012-06-21                                 |
+| Tags            | 性转, 变身, 奇幻, 体育, 幽默, 灵魂共用, 团队竞技, 女球员, 粉红色幽默, 身体控制, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

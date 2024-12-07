@@ -7,7 +7,7 @@ TXT 下载: [[交换]_主神墓地_3、4.doc]([交换]_主神墓地_3、4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇倾向性别转换与跨性别主题的小说，主要围绕一群女性角色在山洞夜宿时的互动与情感交流展开。故事的叙述者经历了性别的转换，成为了女性角色雅诗，并与同伴阿坤之间发生了一系列复杂的情感纠葛。文本中描写了角色在生理上转换后所面临的尴尬情况，例如女角色在排尿时的体验，以及随之而来的身体与情感的探索。情节中隐含了对自我认同的探讨和性别角色的颠覆，包含了一定程度的性描写，展示了跨性别者在寻找自我与恋爱关系中的内心斗争。整体风格为二次元文化的特征，涵盖了轻小说的元素与幻想题材，带有一些幽默与羞涩的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_主神墓地_3、4.doc]([交换]_主神墓地_3、4.doc)
 | Size            | 46592 bytes                           |
 | MD5             | 04b81185f3f3b987709dc3ae661e4cfa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 男娘, 变身, 探索自我, 情感纠葛, 体验性爱, 女性友谊, 二次元小说, 强烈性暗示, 午夜对话, 女同性恋关系, 青春幻想, 性别认同, 夜晚露营, 经常反转的性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

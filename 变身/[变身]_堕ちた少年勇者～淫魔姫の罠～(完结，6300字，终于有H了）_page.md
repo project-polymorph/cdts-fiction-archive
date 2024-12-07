@@ -7,7 +7,7 @@ TXT 下载: [[变身]_堕ちた少年勇者～淫魔姫の罠～(完结，6300�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名少年勇者摩根的故事，他在与魔族的斗争中因意外变身为魅魔。故事描绘了摩根在转变后的内心挣扎，以及他在魔界的生活。他开始习惯新的身体，并逐渐习得黑暗法术，处理魔界的纷乱事务。文件中提及摩根在密牢中的屈辱经历以及他对自身身份的反思，展现了他从勇者到魔将的蜕变过程。情节涉及了精气的吸取、自体口交等成人内容，探讨了性别认同和自我探索等主题。故事中摩根的强烈情感与欲望也贯穿始终。整部作品包含了奇幻和魔法的元素，围绕着角色意识和性别身份的变换展开。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_堕ちた少年勇者～淫魔姫の罠～(完结，6300�
 | Size            | 35901 bytes                           |
 | MD5             | 602834325826935264c4ff688ce2df76                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 魔法, 魅魔, 少年勇者, 黑暗法术, 自我认同, 性别身份, 奇幻冒险, 心理挣扎, 成人内容, 性探索, 魔界, 角色转变, 自体口交, 奴隶关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

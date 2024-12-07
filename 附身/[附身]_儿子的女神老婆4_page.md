@@ -7,7 +7,9 @@ TXT 下载: [[附身]_儿子的女神老婆4.docx]([附身]_儿子的女神老�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性转、附身与心理操控主题的小说，其中主要角色林雅琳被一个叫张卫宏的男人借助外星金属胸罩附身。在故事中，林雅琳在酒店秘密监视自己的伴侣，而张卫宏意图通过操控她的身体达成个人目的。故事情节包含林雅琳与张卫宏之间复杂的关系，以及对身份、爱情与操控的探讨。
+
+文件中描述了林雅琳在酒店醉酒后与朋友的对话，显示她对伴侣李毅风的深情与难过。与此同时，张卫宏的阴险计划正逐步展开，他通过隐秘的监听与操控，试图掌控林雅琳的生活与身体。在床上两人的对话揭示了张卫宏对林雅琳身体的占有欲，以及他如何借助性行为延续对林雅琳身体的控制。这种特殊的性转与身体附身的设定不仅探讨了身体与意识的关系，也反映了现代社会中对性别与身份的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_儿子的女神老婆4.docx]([附身]_儿子的女神老�
 | Size            | 19782 bytes                           |
 | MD5             | bceeb6fcf4ba3c0cd19421794d1988ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性转, 心理操控, 跨性别, 女性角色, 阴谋, 饮酒, 秘密监视, 自我认知, 爱情, 背叛, 强奸, 操控欲, 隐私侵害, 酒后失态, 情感纠葛, 外星科技, 身体控制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

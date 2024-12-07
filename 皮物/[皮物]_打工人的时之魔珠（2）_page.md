@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_打工人的时之魔珠（2）.doc]([皮物]_打工人的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性转与跨性别主题的小说，部分情节描绘了一名角色在公司内外遇到的性别身份冲突。故事围绕着主角凌霜和其他几位角色之间的互动展开，包含了诸多关于性别认同和自我探索的描写。小说的第二章中，凌霜与助理冯筱筱的对话揭示出凌霜内心的困扰和对性别形态的反思。剧情中，凌霜被迫借用他人的皮物，体验不同的身份，并在这个过程中显露出自身走出舒适区的挑战与尝试。在紧张的职场环境中，凌霜的女性形象也引发了周围男性角色的关注，进一步加剧了其心理的冲突。随着情节的发展，涉及了性与权力的复杂交织，已然超越了简单的性别转换，沉浸在角色们复杂的情感互动与欲望中。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_打工人的时之魔珠（2）.doc]([皮物]_打工人的
 | Size            | 40448 bytes                           |
 | MD5             | a5590b5915080d31e8e747f0b7b7070b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 内心冲突, 职场小说, 爱情, 伦理, 幻想, 自我探索, 感官体验, 身体认同, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

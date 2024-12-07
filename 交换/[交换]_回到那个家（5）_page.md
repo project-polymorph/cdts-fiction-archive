@@ -7,7 +7,7 @@ TXT 下载: [[交换]_回到那个家（5）.doc]([交换]_回到那个家（5�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇以性转、伪娘和跨性别主题为背景的小说片段，讲述了一个名为林雨磬的年轻女性在医院陪伴她的妹妹何映薇的故事。故事开头描写了一辆红色跑车急速驶向医院，车内的女人为了拯救病重的妹妹而焦急不已。在医院中，面对医生的冷静叙述，林雨磬逐渐平复了焦虑的情绪，并为妹妹的病情准备着必需的医疗费用。故事中描述了两位女性之间的亲密关系和深厚的情感纽带，展现了她们对彼此的关爱和支持，而林雨磬则在何映薇的病情面前表现出坚定和责任感。此外，作者通过对角色内心世界的细腻描写，探讨了家庭关系、性别认同、自我认知等复杂主题。随着情节发展，林雨磬承诺将一直陪在何映薇身边，并计划一起前往孤儿院办理领养手续，进一步深化了两人之间的情感联系。整体而言，作品融合了情感描绘与心理描写，情节紧凑，情感真实，呈现出对生命的尊重与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_回到那个家（5）.doc]([交换]_回到那个家（5�
 | Size            | 46080 bytes                           |
 | MD5             | 1a759b96a9e2bda7598933f5270ac46b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 跨性别, 医院, 家庭关系, 情感支持, 心脏病, 进口药品, 孤儿院, 青春, 自我探索, 强烈情感, 温暖关系, 急救情节, 病重, 女性情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

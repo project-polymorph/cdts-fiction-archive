@@ -7,7 +7,7 @@ TXT 下载: [[附身]_灵魂漂移术上.docx]([附身]_灵魂漂移术上.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了两个男孩张维与林飞之间的故事，围绕他们的生活和关系展开。张维的妈妈张雨绮是一位成功的商人，她的成功与家庭的背景形成强烈对比。林飞的家庭则经历了一段痛苦的历史，他的妹妹虽是美丽的校花，却给他带来了不少麻烦。故事的核心是张维和林飞在地下室发现一本古老的书籍，书中记载的‘灵魂漂移术’引发了他们的强烈兴趣，暗示了灵魂与身体的转换，可能带来的无限可能性。这一情节，结合他们的背景故事和对灵魂漂移术的探讨，展现了青春的探索与冒险，并涉及灵魂附身的科幻想象。值得注意的是，文中存在一些不合适的内容，涉及可能的限制级情节，读者需谨慎对待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_灵魂漂移术上.docx]([附身]_灵魂漂移术上.docx)
 | Size            | 18926 bytes                           |
 | MD5             | 618e2b1a1f47a44386a30c267760477d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂漂移, 附身, 青春探索, 跨性别, 二次元, 幻想, 性别认同, 灵魂转换, 男孩友情, 奇幻冒险, 神秘书籍                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

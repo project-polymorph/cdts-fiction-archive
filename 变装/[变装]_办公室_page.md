@@ -7,7 +7,7 @@ TXT 下载: [[变装]_办公室.docx]([变装]_办公室.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于一个名为山姆的男性角色在办公室环境中的变装故事，融合了性别身份的探讨与个人自我认知的冲突。故事开始时，山姆被新老板简威尔士雇佣，简是一位女性职员，且在公司中只雇佣女性。为了保住工作，山姆被迫接受了一系列性别角色的规定，比如在工作中穿着女性内衣和其他女性服装。尽管起初山姆感到愤怒和抵触，但在妻子瑞安妮的影响下，他开始尝试适应这种变化。随着故事的发展，山姆感到自己的性别认同和外在形象产生了深远的改变，甚至在办公室中他的私密照片被公开，引发一系列戏剧化的冲突与自我认知的困惑。这篇作品还涉及了相关的社会性别角色及其在职场中的表现，是对性别流动及跨性别体验的一次深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_办公室.docx]([变装]_办公室.docx)
 | Size            | 32441 bytes                           |
 | MD5             | 62e4e574cf2dc162eb8a954433a511e5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 职场小说, 性别认同, 伪娘, 女性视角, 情感冲突, 职场规则, 自我探索, 禁忌情感, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_为什么这么对我（一~二）.docx]([交换]_为什�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别主题的小说，围绕男主角李晓峰的视角展开。故事开始于李晓峰与朋友在酒楼庆祝订婚宴，旁边充满一群青涩的少年时光记忆，气氛融洽而热闹。他们之间的对话充满了幽默与怀旧，而李晓峰的好朋友付豪即将要与女性赵飞燕结婚。随着剧情的发展，李晓峰遭遇了一场突如其来的变故。他醒来时发现自己身处陌生的宾馆，身体发生了极大的变化，作为男性的身份突然消失。此时，他必须面对自己性别的转换，内心的恐慌与探索，这不仅是身体上的变化，还是自我认同的经历。故事透过李晓峰的感受描写了他对自我身份的迷茫与挣扎。与此同时，文本中虽然不乏性暗示与玩笑，却也并非单纯煽情，而是涉及到自我认知的改变以及对性别的性格重塑，带来深刻的思考与反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_为什么这么对我（一~二）.docx]([交换]_为什�
 | Size            | 33531 bytes                           |
 | MD5             | 334f6fcecc78c4e6781316ebaaa45557                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身, 跨性别, 都市故事, 青春, 情感纠葛, 友情, 幽默, 心灵变迁, 成长, 二次元, 角色转换, 情感细腻, 生活经历, 家庭关系, 社会压力, 心理调适, 身份危机                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

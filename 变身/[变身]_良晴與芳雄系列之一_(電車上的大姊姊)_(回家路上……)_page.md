@@ -7,7 +7,7 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_(電車上的大姊姊)_(回�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一名高中生良晴与他的朋友芳雄之间的故事，涉及使用一种特殊的隐形眼镜能够复制他所看到的人的身体。故事背景在放学后的电车上，良晴因借用隐形眼镜，对女性身体产生了极大的兴趣和些许的变态倾向。故事通过良晴内心的兴奋和期待，描绘了他使用隐形眼镜时的情景和心理状态。在电车内，良晴观察到一位大姊姊，内心激动不已，他试图挡住自己的意图，让自己的身体逐渐变成这位大姊姊的模样。文件中含有对良晴心理活动的详细描写，并伴随着对身体变化及复制过程的描写，展现了他对性别与身体认同的探索。这种隐形眼镜赋予了他独特的体验，但同时也引发了一系列伦理和道德的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_(電車上的大姊姊)_(回�
 | Size            | 26712 bytes                           |
 | MD5             | b240a1aaef560770260c0d93e28e3c0b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Tira                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 隐形眼镜, 变性, 男性视角, 女性身体认同, 性别探索, 青春期, 校园, 性暗示, 奇幻元素, 变态幻想, 电车情节, 大姊姊, NTR, 伪娘, 女体化, 身体复制, 性别转换, 自我认知, 心理冲突, 纯爱, 情感纠葛, 青少年, 文学作品                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

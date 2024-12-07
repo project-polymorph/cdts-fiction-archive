@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《改造农场》（至第四节）.doc]([改造]_《改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《改造农场》讲述了一个被判刑的囚犯世麒的故事，他因一级商业侵害罪与人身伤害罪被送往一个名为“神农农场”的改造设施。在这个由神秘财团DMC创造的辐射农场中，囚犯们在极端的辐射环境下劳作，世麒在此不仅要面对生存的挑战，也要努力证明自己的清白。在他的求生之路上，他结识了美丽的囚犯秀秀，逐渐对她产生了情感。故事穿插了生存与爱情的挣扎，同时揭示了人性与社会的黑暗面。世麒对此环境的无助与期盼，尤其是在他准备穿上由博士提供的防辐射服时，不禁感叹这身制服的奇特设计。这部作品探讨了性别、身份认同、权力关系等复杂主题，尤其是世麒在这一环境中的性别经历与自我认知的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《改造农场》（至第四节）.doc]([改造]_《改�
 | Size            | 105472 bytes                           |
 | MD5             | 272a3b39458b227c60c070249e48f11c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 改造农场, 辐射农场, 性别认同, 自我探索, 囚犯爱情, 黑暗幻想, 生存挑战, 心理冲突, 身心转变, 社会批判, 变身元素, 异世界设定, 男性视角, 综合改造, 囚犯生活, 人性研究, 未来社会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

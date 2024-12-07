@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我附身成了异界少妇（1）.docx]([附身]_我附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《我附身成了异界少妇（1）》是一部描绘角色附身与性别转换的小说作品，故事开头围绕主人公安迪·瓦伦与图里博士在秘密实验室的对话展开，探讨了关于神经传输技术的实验计划。在一场实验中，安迪决定亲自作为测试对象，但在意识传输后，他却发现自己进入了一具女性身体。这具身体不仅与他的原有身份有着巨大的差异，且伴随着对新身份的惊愕与困惑。小说采用了跨性别与变身的主题，描述了安迪在新身体中的感受，包括外貌变化和声音细腻化所带来的不适。他逐渐意识到，这具身体是个已经身为母亲的少妇，并且必须面对这种生活的现实。故事情节中，安迪不仅需要探索和接受女性身份带来的各种变化，还要处理与周围人际关系的复杂性，设定了悬念和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我附身成了异界少妇（1）.docx]([附身]_我附�
 | Size            | 26373 bytes                           |
 | MD5             | 0a3c234893745a49ff8db91a4deb882a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性别转换, 变身小说, 跨性别, 异世界, 自我认知, 奇幻, 科技实验, 角色探索, 身份重塑, 女性视角, 心理冲突, 魔法, 虚拟世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

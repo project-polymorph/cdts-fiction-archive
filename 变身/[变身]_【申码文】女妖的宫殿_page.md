@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【申码文】女妖的宫殿.doc]([变身]_【申码文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说《女妖的宫殿》围绕两位兄弟萧忆和萧瑟的冒险展开。他们在一个神秘的古堡中，因好奇而踏入被传言称为女妖的宫殿。故事详细描写了古堡的阴森环境以及二人内心的恐惧。在探险中，萧瑟意外被一种神秘力量束缚住，身穿性感的粉色婚纱，不断遭受着变身的威胁。随着情节的发展，萧瑟的身体逐渐变成女性的模样，这段身体和身份的变换引发了众多惊悚的事件。两兄弟在这场未知的冒险中，面临着不可思议的变故，萧瑟在逐渐迷失自我之后，形成了对性别认同的探索，这种主题贯穿了整个故事，彰显了性别变换带来的冲突与挑战。同时，故事也融入了悬疑和恐怖元素，使得整个情节引人入胜。萧忆在寻求救助的过程中，不仅要面对外部的危险，更要面对变幻莫测的内心情感与认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【申码文】女妖的宫殿.doc]([变身]_【申码文�
 | Size            | 45056 bytes                           |
 | MD5             | fdd1e5fbe3b4365e0fe935bbe1be149e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 恐怖, 自我探索, 性别认同, 惊悚, 婚纱, 古堡, 兄弟, 冒险, 女妖, 粉色, 魔法, 灵魂交替, 悬疑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [回家路上——初始能力（1-2）.doc](回家路上——初�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别主题的小说，讲述了主角沈佳明的奇特经历。他自小便拥有阴阳眼，能够看见他人看不见的存在。在一次车祸后，他发现自己可以将意识转移至他人身体中。故事从沈佳明国庆回家路上的旅程开始，描绘了他在火车上遭遇的种种烦恼，直至决定尝试用他的能力。他选择进入一名女子的身体，体验女性的生活与身体感受。文件中详细描写了沈佳明在异性身体中的各种感受与心理变化，包括对女性身体的陌生与好奇，以及他如何逐渐适应这个新的身份。小说同时探讨了性别认同、自我探索等主题，富有想象力且内容细腻复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [回家路上——初始能力（1-2）.doc](回家路上——初�
 | Size            | 50176 bytes                           |
 | MD5             | b7cc1f929efb8eadeba75a302ba31155                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身, 性别认同, 自我探索, 阴阳眼, 异性身体, 火车旅行, 身份转换, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

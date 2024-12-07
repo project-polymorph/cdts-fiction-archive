@@ -7,7 +7,7 @@ TXT 下载: [[附身]_二人の悪霊.doc]([附身]_二人の悪霊.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《二人の悪霊》，内容讲述了一名女子高中生在骑行过程中被一名名为清人的恶灵附身的故事。故事开始于一个凉爽的夜晚，女子高中生在骑自行车，尽管她给人以严肃的印象，但实际上她的外表十分可爱，穿着水手服和百褶裙。在她毫无防备的状态下，清人附身于她的身体，逐步引导她向越来越露骨的行为。清人在这个少女的身体里体验欲望，甚至诱导她进行许多色情的行为，包括对妹妹的侵犯。故事描述了角色之间性别与身份的冲突，以及附身者与被附身者的关系变化，涉及了诸多禁忌与挑战性的主题。文中包含了大量露骨的细节，严密描绘了角色的内心世界和身体感受，展现了对性欲的探讨与描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_二人の悪霊.doc]([附身]_二人の悪霊.doc)
 | Size            | 37888 bytes                           |
 | MD5             | 673699b8e385a9ad9b1b080d117730fd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ssngddg                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 恶灵, 性转, 伪娘, 姐妹恋, 自我探索, 禁忌恋, 亂倫, 身体重叠, 青春期, 性别认同, 幻想, 都市奇幻, 超自然, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

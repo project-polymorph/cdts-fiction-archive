@@ -7,7 +7,7 @@ TXT 下载: [[改造]_原神同人_深渊魔女的诞生，神里绫华的新生
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章名为《深渊魔女的诞生，神里绫华的新生（一）》，首次发布于混沌心海2023征文活动，涵盖了神里绫华作为社奉行大小姐的生活与内心情感。尽管表面上她忙于处理公文，看似过着光鲜亮丽的生活，实际上却承受着巨大的责任与压力。文章详细描绘了她夜晚独处时的思绪与渴望，透过与小春的对话与自省，揭示了她对自己命运的不甘与渴望摆脱束缚的心理。随着神里接触到一个神秘的金属盒子，故事逐渐转向了奇异的物品引发的变故，暗示着可能的变化与未来的冒险。内容涉及一些性暗示的元素，描绘了角色内心的冲突和逐渐觉醒的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_原神同人_深渊魔女的诞生，神里绫华的新生
 | Size            | 65639 bytes                           |
 | MD5             | f432c4a44fc800d5c666bb6fcc826e4f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2023-07-01                                 |
+| Tags            | 性别认同, 自我探索, 奇幻, 现代, 角色发展, 心理冲突, 社奉行, 二次元, 异国情怀, 内心独白, 魔法少女, 夜晚独处, 神秘物品, 变身, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

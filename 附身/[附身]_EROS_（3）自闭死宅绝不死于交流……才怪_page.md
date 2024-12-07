@@ -7,7 +7,7 @@ TXT 下载: [[附身]_EROS_（3）自闭死宅绝不死于交流……才怪.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及附身与性别转换主题的小说，描绘了角色在强烈情绪下通过药剂附身于他人身体的过程。故事中的主要角色在通过附身药剂获得女性身体后，体验到女性身份的种种感觉与心理斗争。在文本中，角色控制了名为林晓霞的少女的身体，伴随着各种触觉、情感与身体的互动，逐渐展现出复杂的自我认知冲突。内容涉及了色情元素，描述了角色尝试通过操控情感与身体感官来寻求快感的情节，同时也揭示了关于权力、控制与自我认同的问题。文本中包含大量露骨的描写，如“我用少女清脆的音色叹息着”和“将小小的脑袋埋入那浑圆的丰满之中”，展现出人物欲望的迷惘和困扰。整体来看，这是一个结合了性别转换、附身与痴迷情感的复杂故事，探索了身体与灵魂的界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_EROS_（3）自闭死宅绝不死于交流……才怪.doc
 | Size            | 48128 bytes                           |
 | MD5             | 11eeecc61f77d73f871f1db0a647ada7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性别转换, 心理斗争, 触手, 母女关系, 自我认知, 暴露场景, 乱伦, 女性身体, 权力游戏, 色情元素, 二次元, 奇幻, 药物, 变身, 身体探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

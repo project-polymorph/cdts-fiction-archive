@@ -7,7 +7,7 @@ TXT 下载: [[变身]_被迫变妹穿越者的异世界冒险物语【3-4章】.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇奇幻冒险小说的选段，讲述了主角库亚在一个神秘的遗迹中探索的经历。在这个遗迹中，库亚遭遇了活跃的红色触手和古怪的魔物，他的任务是搜寻宝藏和探索整个空间。随着情节的发展，库亚寻找到了一个奇异的石雕，最终将其放入了一个凹痕内，导致了一连串奇怪而神秘的事件。在接下来的一章中，库亚被施加了一个名为“邪神淫咒”的诅咒，身体发生了剧烈的变化，从一个男孩转变为一个美少女。整个过程充满了变化与困惑，库亚的内心也面对着性别认同和身体转变的挣扎，伴随着悬疑和奇幻元素，使得故事具有强烈的吸引力和冲突感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_被迫变妹穿越者的异世界冒险物语【3-4章】.
 | Size            | 41472 bytes                           |
 | MD5             | 78ecd9143c39e31ed89ab53f12c0e6ce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 奇幻, 冒险, 自我探索, 触手, 魔法, 跨性别, 内心矛盾, 女性化, 石雕, 邪神, 魔法阵, 人物成长, 异世界, 性别认同, 肉体变化, 诅咒, 探索遗迹, 青春危机, 奇幻爱情, 惊悚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_入魔_第二章_共身（１～７本章完）.docx]([附
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档分为两个部分，第一部分描述了一位恶魔在地狱中的日常，第二部分聚焦在一个名为邵宇的人类意外与恶魔的灵魂共同附身于一个身体的故事。故事开始于地狱的第九层，描绘了一个漆黑的影子和其部下谈论人间契约失效的平常。邵宇的生活呈现出一种孤独和迷茫感，尤其是在拥有恶魔的身体后，他必须学习如何控制新获得的魔力，同时协调与恶魔的共存。邵宇思考着未来的生活，面对无身份和有限的魔力，他感到无助，且内心与外在的矛盾也愈发明显。文中细腻地刻画了角色的心理活动以及他们之间的对话，体现了性别和身份认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_入魔_第二章_共身（１～７本章完）.docx]([附
 | Size            | 55827 bytes                           |
 | MD5             | b155c80d3dd8ad35395dbc71a7197005                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 忘卻                               |
+| Region          | 未知                               |
+| Date            | 2015-10-15                                 |
+| Tags            | 性转, 伪娘, 跨性别, 魔法, 日常生活, 灵魂附身, 黑暗奇幻, 精神冲突, 恶魔, 青春迷惘, 成长, 双重身份, 自我探索, 魔力控制, 奇幻冒险, 人格分裂                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

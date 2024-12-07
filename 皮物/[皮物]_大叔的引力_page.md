@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_大叔的引力.doc]([皮物]_大叔的引力.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于一个大学生与一位中年男士方叔之间的相遇故事。文件通过主人公的视角详细描述了他在接受好友申请后，对方叔的身份产生的好奇与幻想。故事的开篇描绘了主人公在布尔顿酒店门口的心情。在与方叔的对话中，方叔展现出独特的人生经历与对生活的深刻思考，虽然他的外表看上去与网上的形象大相径庭，但内心却是充满对青春的怀念和对新身份的期待。方叔提到自己在高中毕业后就进入社会工作，并且通过努力获得了成功，但仍然感到自己失去了什么。两人讨论了性别转变的可能性，方叔透露了他的计划与科技的力量，给人一种前卫与探索的感觉。文中涉及了一些高科技的皮物装备，这些装备不仅能改变外貌，还能增强感官体验，反映出在性别与自我认同之间的复杂探索。整篇故事充满了心理描写与细致的感官体验，一方面展示了对身体的迷恋，另一方面也思考了人类在性别认同上的深层问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_大叔的引力.doc]([皮物]_大叔的引力.doc)
 | Size            | 46080 bytes                           |
 | MD5             | 430bbcf4e38b151570aae8bf8dfd27f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 自我认同, 伪娘, 男娘, 高科技装备, 人生经历, 心理探索, 性别体验, 文学小说, 青春, 情感纠葛, 网络交友, 另类生活, 性感女性, 身份认同, 好奇心                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_拿什么来报复你们——我的前女友和她的老�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一篇以性转和跨性别为主题的小说的开头部分。故事中，主角因误绑了一个名为沈秋茹的女子而陷入了一场复杂的绑架事件。沈秋茹是刘欣的后妈，主角本打算绑架刘欣以报复于她的甩掉。小说围绕主角的心理斗争展开，他在获取赎金后面临着是否对沈秋茹施加暴力的内心挣扎。这篇小说涉及的主题有叙述者的控制欲、性别角色的挑战及道德困境，生动地描绘了主角的内心变化和对与沈的性关系的渴望。内容中包含大量露骨的语言和性行为的详细描写，同时亦反映出一些社会、情感和心理的深层次动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_拿什么来报复你们——我的前女友和她的老�
 | Size            | 29435 bytes                           |
 | MD5             | e0938d0f5a64ed5a58969b7e47b3ffce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 绑架, 伪娘, 强奸, 心理斗争, 赎金, 情感冲突, 女性角色, 性别认同, 欲望, 都市小说, 冒险, 伦理困境, 小说摘录, 成年内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

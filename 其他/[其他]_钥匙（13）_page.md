@@ -7,7 +7,7 @@ TXT 下载: [[其他]_钥匙（13）.docx]([其他]_钥匙（13）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是一篇围绕性别认同和自我探索主题的小说片段。故事主要围绕角色方凌与她的朋友裹儿之间的关系展开。方凌在记忆中醒来时发现自己处在一个陌生的房间，身形和性别似乎发生了变化，内心充满了困惑与恐慌。她低头发现自己拥有了男性器官，感到不可思议和不知所措。在尝试振作和寻求帮助的过程中，她叫醒了朋友裹儿，一同面对这个不寻常的困境。然而，随着时间的推移，裹儿却突然出现了异常的状况，渴望着某种东西，这使得方凌更加困惑和恐慌。小说通过她们的对话和情感交流，探讨了性别转换和心理状态的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_钥匙（13）.docx]([其他]_钥匙（13）.docx)
 | Size            | 23956 bytes                           |
 | MD5             | 0e808a0b9fc2c49b94e24c57176d7e24                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身小说, 伪娘, 跨性别, 异世界, 心理冲突, 情感纠葛, 朋友, 强烈的求助欲, 同性之间的复杂关系, 生理变化, 少女心, 高潮情节, 禁忌, 未知的恐惧, 梦境与现实交错                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

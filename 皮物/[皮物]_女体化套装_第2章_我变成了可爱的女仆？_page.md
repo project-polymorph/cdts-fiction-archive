@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_女体化套装_第2章_我变成了可爱的女仆？.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《我变成了可爱的女仆？》的第二章，讲述了主角在短短一天内发生的奇妙变化，从一名普通男性角色华丽变身为专属女仆清香。主角意识到自己身体及性别发生了巨大的变化，面对自己丰满的胸部和女性的生理特征感到不可思议。本文中描述了他与其他女仆若叶、双叶、青叶的互动，展现他们的性格特征和主角的困惑与自我认知的变化。整个章节围绕着主角适应新身份的过程展开，包含了他对新的生活环境的观察以及对自身变化的内心探讨。情节发展中，主角与女仆们一起去百货商店买衣服，逐渐接受作为女仆的角色并努力建立与他人的关系，呈现了关于性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_女体化套装_第2章_我变成了可爱的女仆？.doc
 | Size            | 50184 bytes                           |
 | MD5             | ca9867d993b2a90bf57369c3a7a24d0e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 女仆, 性别认同, 自我探索, 奇幻, 青春, 校园, 情感, 二次元, 女体化, 性别转换, 少女, 魔法, 生活, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

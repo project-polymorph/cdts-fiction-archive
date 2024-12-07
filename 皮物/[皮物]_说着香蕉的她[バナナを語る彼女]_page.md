@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_说着香蕉的她[バナナを語る彼女].doc]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于两位大学生之间的关系和奇妙互动的短篇小说，描绘了男主角三岛昌平和女友须藤桃花的日常生活。故事的开头，昌平因桃花请假而感到担忧，前往她家探望。在紧张的等待中，昌平对桃花的健康产生了疑虑，但桃花的异常表现让他感到强烈的不安。桃花在故事中以一种奇怪的方式妖艳地谈论香蕉，通过香蕉的隐喻，暗示出角色间深层的情感与心理变化。随着情节的发展，桃花对香蕉的痴迷逐渐暴露出她内心的扭曲与冲突，昌平感受到的违和感愈发加深，最终导致彼此间的误解与紧张。小说探讨了性别认同与自我意识的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_说着香蕉的她[バナナを語る彼女].doc]([皮物]
 | Size            | 70144 bytes                           |
 | MD5             | 28eab9c5f5df912bdc73350f56d614a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 無名                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 心理探索, 性别认同, 爱情, 大学生活, 自我意识, 情感冲突, 香蕉隐喻, 奇幻元素, 性感衣物, 奇怪的对话, 校园小说, 两性关系, 角色扭曲, 日常生活, 心理悬疑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_药（上）.doc]([变身]_药（上）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于性别变换的小说，讲述了一位二十岁青年因绝症而躺在病床上的故事。在他生日的那一天，他的姐姐因强烈的情感而选择为他注射了一种未知效果的特效药，结果他奇迹般地恢复了健康，同时身体却发生了巨大的变化。他从一个男性转变为女性，与此同时，他内心经历了一系列复杂的情感冲突和认知转变。适应新身体的他感到困惑与惊讶，尤其是在面对自我认同和性别角色的挑战时。小说深入探讨了自我探索、性别认同以及从男性视角转变为女性视角后的心理变化。主角逐渐开始接受自己的新身份，并在与姐姐重新建立的关系中获得支持和爱。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[变身]_药（上）.doc]([变身]_药（上）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 39936 bytes                           |
 | MD5             | 8e87b8356865d0b4fe4cfe9e98bc3cda                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 爱情, 自我认同, 兄妹情, 成长, 变身小说, 科幻, 药物影响, 生活挑战, 女性视角, 亲情, 心理探索, 青春, 二次元, 性别流动, 身体变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

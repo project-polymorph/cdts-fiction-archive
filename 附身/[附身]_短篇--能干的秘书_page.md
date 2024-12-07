@@ -7,7 +7,7 @@ TXT 下载: [[附身]_短篇--能干的秘书.docx]([附身]_短篇--能干的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于性转主题的短篇小说，讲述了一个社长通过发明的装置，将自己的灵魂与对手公司的秘书沢木丽子连接，以便提升能力和公司业绩的故事。社长为了挽救公司，付出巨大的金钱和努力，最终成功融合了沢木丽子的技能和人际关系，从而使公司的情况出现了显著改善。故事中描述了角色间复杂的权力关系，以及在其中所涉及的性与欲望的交织。小说包含了一些露骨的情节与对话，展现了性别认同与自我探索的主题。尽管内容以幻想为主，但同时呈现了对情感和身体的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_短篇--能干的秘书.docx]([附身]_短篇--能干的�
 | Size            | 21981 bytes                           |
 | MD5             | d728bb9ff54c613a6e43e0c10316c9ad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 性别认同, 自我探索, 职场, 竞争, 灵魂连接, 肉体交融, 公司政治, 情感纠葛, 权力关系, 成人内容, 幻想, 短篇小说, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

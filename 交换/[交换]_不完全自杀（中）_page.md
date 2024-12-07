@@ -7,7 +7,7 @@ TXT 下载: [[交换]_不完全自杀（中）.doc]([交换]_不完全自杀（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《不完全自杀（中）》展现了主人公在经历了一次身体交换后，自我认知与情感变化的复杂历程。故事的主线围绕着一个名叫李致文的人，经过一次奇妙的体验，从另外一个女性角色徐雯的身体中获得了不同的生存体验。徐雯在经历了情感与生理的双重变换后，试图重新审视自己的生活和存在的意义。故事中夹杂着强烈的性描写和心理斗争，深刻探讨了自我认同、身体的主人公与生活的脆弱之间的关系。情节涉及的描写如：“交媾的快感让我的思绪越飞越高……我好像飞到了宇宙，飞到了仙境。”以及对李致文的转变：“我果然没看错你。”等，进一步增强了角色之间的互动与情感纠葛。整个故事流露出一种对身份认同的模糊感与探索，而对工作、家庭、酒精的依赖也让主人公的内心更加错综复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_不完全自杀（中）.doc]([交换]_不完全自杀（�
 | Size            | 46592 bytes                           |
 | MD5             | f16b6b6e0a0a40dd09fc7283ff1a1dc1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 身体交换, 自我探索, 伪娘, 强烈情感, 生活的意义, 两性关系, 悲剧, 心理斗争, 幻觉体验, 未知命运                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

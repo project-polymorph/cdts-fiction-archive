@@ -7,7 +7,7 @@ TXT 下载: [[变身]_游戏人生（改二）.docx]([变身]_游戏人生（改
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于男主角陈清扬的短篇小说。故事围绕着陈清扬在现实世界与一个奇幻世界之间的游走展开，描述了他进入一个看似现实但又空无一人的奇妙空间。在这个空间里，他逐渐发现了现实与幻境之间的模糊界限，感受到了一种自我认同和外表变化带来的新体验。小说初期，陈清扬充满了困惑和自我探索的情感，他思考着自己为何会频频进入这个世界，如何理解与现实生活的联系。故事后期，陈清扬在参加同学聚会后，迷迷糊糊地再次进入了这个奇幻世界，面临着潜在的自我认同冲突。整篇小说描绘了角色心理的变化，以及与虚幻世界的互动，且包含了一些与青春回忆相关的人际关系描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_游戏人生（改二）.docx]([变身]_游戏人生（改
 | Size            | 29082 bytes                           |
 | MD5             | 6eb0b59b6d8d8621c692e54b649d1c71                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 奇幻, 自我认同, 青春, 性别探索, 二次元, 幻想, 转变, 虚拟现实, 校园生活, 男性视角, 短篇小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

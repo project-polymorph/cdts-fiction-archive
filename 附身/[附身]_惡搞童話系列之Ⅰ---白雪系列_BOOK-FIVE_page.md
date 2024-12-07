@@ -7,7 +7,7 @@ TXT 下载: [[附身]_惡搞童話系列之Ⅰ---白雪系列_BOOK-FIVE.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为系列故事的一部分，名为《恶搞童话系列之Ⅰ---白雪系列_BOOK-FIVE》。讲述了一个虚构故事情节，其中涉及到白雪公主与另一位女性角色之间的亲密互动。典型的性转和幻想主题，加上对角色生理性别和性别认同的探讨，角色在浴池中进行了一系列色情行为，展现了男女角色的相互吸引和欲望。故事中通过细腻的描写展现了角色之间复杂的情感和亲密关系，并在描写中使用了大量露骨的性描写和情感表达，体现了结合了二次元文化的性别和性欲念。文本中也谈及了所谓的“白池”的神奇效果，暗示着角色的魅力与身体变化，并伴有强烈的幻想和性暗示。尽管部分内容涉及限制级描写，但它们嵌入于奇幻的背景下，试图探索自我认同和欲望之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_惡搞童話系列之Ⅰ---白雪系列_BOOK-FIVE.docx]([�
 | Size            | 19447 bytes                           |
 | MD5             | d98d8ad37c5c072495f8df813c76adb3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 白雪公主, 恶搞童话, 性转, 亲密关系, 浴池, 幻想, 女性视角, 双女之恋, 性感描写, 性别认同, 淫荡, 故事系列, 强烈欲望, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_邪淫的魔法阵(初~3章).docx]([交换]_邪淫的魔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘和跨性别相关的奇幻小说《邪淫的魔法阵》的初至第三章，展现了一个以黑魔法仪式为背景的故事。故事开头，叙述者提到在某个没有月光的夜晚，主角是一个约20岁的黑衣男性，他正在进行一种召唤恶魔的仪式。他的房间被镜子和蜡烛环绕，中心绘制着一个神秘且诡异的魔法阵，伴随着流血的泰迪熊玩偶的变形，逐渐转变为小矮人，其间暗示了血腥和邪恶的氛围。小矮人作为召唤出来的恶魔，与主角沟通并探讨实现愿望的代价，故事涉及对欲望的探索、黑魔法的仪式以及恐怖幻想的元素。后续章节展示了主要角色的回忆与情节展开，暗示了角色之间复杂的互动和潜在的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_邪淫的魔法阵(初~3章).docx]([交换]_邪淫的魔�
 | Size            | 35858 bytes                           |
 | MD5             | 8baac945b9ed8737900fb098c4d5059f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 魔法, 黑暗幻想, 召唤仪式, 恶魔, 欲望, 恐怖, 性转, 奇幻, 邪淫, 幻想小说, 成人内容, 变身, 自我探索, 血腥                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_圖靈的幻覺（7-13）.docx]([变性]_圖靈的幻覺�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《变性_图灵的幻觉（7-13）》，内容围绕伪娘与性转的主题进行展开，包含了角色阿信与一个名为爱纱的女性角色之间的对话和互动。故事以一场戏剧性的场景开头，阿信作为警探，面临着一名神秘女子的威胁。在这之后，爱纱的角色转变带出了许多性暗示和心理探讨的话题，这种对话不只是围绕肉体的欲望，更涉及到心灵和自我认知的层面。文中使用了大量的挑逗语句，使得情节充满紧张感和诱惑力。例如，爱纱调侃阿信，引用了“中文房间的思想实验”，并引发了阿信对人工智能和心灵连结的思考。在描写中不仅展示出角色之间的性张力，同时也引入了对自我与他人关系的哲学思考，如心灵的延伸与身份认同。整体而言，这是一部融合了心理、哲学和性暗示的变性题材小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_圖靈的幻覺（7-13）.docx]([变性]_圖靈的幻覺�
 | Size            | 27552 bytes                           |
 | MD5             | c3ad2cb6ee778d859d0a016cc6bd8b65                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | a5378623                               |
+| Region          | 未知                               |
+| Date            | 2016-02-16                                 |
+| Tags            | 性转, 伪娘, 心灵实验, 诱惑, 自我探索, 跨性别, 角色扮演, 肉体与心灵的结合, 心理刺激, 性幻想, 二次元, 禁忌, 变身, 变嫁, 纯爱, 调教, 强奸, 多重身份, 身份认同, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑丝带来的诱惑_8.doc]([皮物]_黑丝带来的诱�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段以跨性别与变身主题为核心的小说文本，讲述了一个名叫李晶晶的女子与其变装对象张建之间的复杂关系。故事通过张建变装成女性后与李晶晶生活的一段旅程，揭示了性别认同、自我探索及欲望等主题。当张建穿上李晶晶的衣服后，李晶晶生产出强烈的性欲与自我认知的冲突。文件的高潮部分描绘了李晶晶在自己身体内重拾欲望的情景。小说也包含了一起车祸事故，导致李晶晶的死亡，案件调查的情节进一步深化了角色的命运与身份的扭曲。结尾部分留下悬念，暗示了身份认同与复仇之间的深层关系。整个文本充满了性暗示与引发思考的情节，具有较强的成人向特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑丝带来的诱惑_8.doc]([皮物]_黑丝带来的诱�
 | Size            | 32256 bytes                           |
 | MD5             | f7f3d5cb3b872823f3e482847d8cb08a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身小说, 跨性别, 欲望探索, 自我认知, 死亡与复仇, 性转, 成人向, 心理冲突, 伪娘, 黑丝, 夜市文化, 都市, 悬疑, 情感纠葛, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

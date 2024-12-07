@@ -7,7 +7,9 @@ TXT 下载: [[改造]_圣艾格尼丝私立中学_2.doc]([改造]_圣艾格尼�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一个名为丽莎的角色在圣艾格尼丝私立中学的第一天经历。故事主要围绕她的室友安妮介绍学校的课程和生活，学校的教育侧重于家庭主妇技能训练，包括化妆、家政、礼仪等。文中提到课程的安排与内容，让丽莎强烈感到这种训练不是她所期望的学术教育，而是更多地在教导学生如何成为家庭主妇。
+
+随着情节的发展，丽莎和安妮的关系也逐渐深化，安妮开始向丽莎介绍女性之间的亲密关系与快乐的途径。文中有明确的性暗示并涉及性别认同的探索，重点在于女性身体的发育与性欲的觉醒。在这个过程中，丽莎对自己性别认同的挣扎与自我探索成为了重要的主题。后续情节探讨了她们的亲密接触及对於性行为的认识与体会，展示了青春期的性觉醒与身份的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_圣艾格尼丝私立中学_2.doc]([改造]_圣艾格尼�
 | Size            | 75776 bytes                           |
 | MD5             | 17428ed5a5a69edff64892327748b8f0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 青春期, 家政训练, 性教育, 女性友谊, 身体认同, 自我探索, 性别角色, 变身, 百合, 家庭主妇训练, 课程设计, 青少年问题, 女性成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

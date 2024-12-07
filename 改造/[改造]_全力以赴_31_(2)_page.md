@@ -7,7 +7,7 @@ TXT 下载: [[改造]_全力以赴_31_(2).docx]([改造]_全力以赴_31_(2).doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为性转小说的第31章，围绕角色乔恩与朱儿丝的对话展开。章节描述了角色的心理状态，尤其是在面对即将曝光的身份危机时的焦虑与不安。文本开头详细描绘了角色因恐惧和焦虑导致的身体不适，紧接着在次日的对话中，角色试图掩饰自己的情绪，与朋友互动。在与乔恩的对话中，角色透露了秘密即将被曝光的消息，引出他们之间关于支持与理解的讨论。整体氛围沉重，展示出角色内心的挣扎与恐惧，同时也展现出朋友间的关心与支持。此章深刻地触及了性别认同及自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_全力以赴_31_(2).docx]([改造]_全力以赴_31_(2).doc
 | Size            | 44878 bytes                           |
 | MD5             | b360196fd7be1f6f9a4807fb73706553                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 心理状态, 跨性别小说, 友谊, 身份危机, 角色发展, 生理与心理对比, 自我探索, 支持, 焦虑, 内心挣扎, 情感交流, 情节发展, 真实与伪装, 秘密, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

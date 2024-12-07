@@ -7,7 +7,7 @@ TXT 下载: [[变装]_囚徒女仆3.doc]([变装]_囚徒女仆3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一段关于一个男孩在被迫穿上女仆服装过程中的心理变化与情感体验的小说摘录。故事以第一人称叙述，主角感到困惑、羞愧和兴奋，在他准备穿上各种女性服装的过程中，角色的自我认知和内心冲突反复出现。主角希望自己能够看起来像个女孩，但同时对自身的性别认同产生了疑问。文中通过细节描写，展现了他调整束身衣、穿女仆裙、配饰及高跟鞋的过程，并呈现了角色与另一名男性角色（罗伯特）之间的互动，包括他对主人阿曼达的退缩与无奈。在这个过程中，男主角的情感变化也许暗示了他内心深处对性别认同和外界期望的冲突。文中语言直白，包含了对服装和身体感知的细腻描绘，例如“我几乎失去了对抗她的勇气”，以及对自身新形态的矛盾自豪感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_囚徒女仆3.doc]([变装]_囚徒女仆3.doc)
 | Size            | 42496 bytes                           |
 | MD5             | c62f0a59a9ebcbc20b6381ea95d3b420                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 跨性别, 自我探索, 束身衣, 羞辱, 角色扮演, 女性认同, 服装, 心理冲突, 情感变化, 强迫, 情节发展, 女仆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

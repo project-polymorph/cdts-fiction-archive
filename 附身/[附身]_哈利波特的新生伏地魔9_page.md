@@ -7,7 +7,7 @@ TXT 下载: [[附身]_哈利波特的新生伏地魔9.doc]([附身]_哈利波特
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于哈利波特世界观中的角色与跨性别主题相关的小说。故事以女主角芙蓉为主线，通过她的视角描绘了被黑魔王伏地魔附身的情节，展现了奇幻魔法与性别重塑的结合。芙蓉刚醒来时对周围环境感到迷惑，她逐渐意识到自己身处于黑魔王的庄园中，伏地魔通过魔法复活并变身为赫敏的模样。故事中对芙蓉的美貌进行了细致描绘，并刻画了她对黑魔王的敬畏与嫉妒。此外，文本中涉及到两位女性之间复杂的感情关系，包含亲密关系的描写，充分反映了跨性别与性转的主题，以及角色之间的权力动态和情欲纠葛。通过丰富的细节和生动的描写，作品探讨了性别身份、自我认同和魔法力量的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_哈利波特的新生伏地魔9.doc]([附身]_哈利波特
 | Size            | 49152 bytes                           |
 | MD5             | 40f7a901052e0beb06df287396922eb1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 哈利波特, 跨性别, 性别认同, 魔法, 女主角, 附身, 奇幻小说, 情欲关系, 黑魔王, 女性视角, 自我探索, 冒险, 伪娘, 变身, 魔法世界, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

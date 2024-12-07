@@ -7,7 +7,7 @@ TXT 下载: [[改造]_预测－成为圣女的未来（都市催眠文）.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为都市催眠题材的变身小说，故事围绕警察陈述及其师妹张楠展开。张楠被迫卷入非法人口贩卖的黑暗世界，身为城市英雄的陈述本希望拯救她，然而却发现眼前的杀戮机器是曾经的天真师妹。张楠与黑暗势力的女王慕容晓细致的互动中，陈述的意识逐渐被控制，他面临着身份的巨大转变，从一名警察变成一个被标记的奴隶。情节涉及到性别转变、催眠、以及对个人自我认同的探讨，同时混合了强烈的性暗示与调教元素。文件通过详细的描写，展现了角色内心的冲突与自我认知的变化，探索了欲望与控制之间的微妙关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_预测－成为圣女的未来（都市催眠文）.doc]([
 | Size            | 39936 bytes                           |
 | MD5             | f4bb73e7adb2fac6038af2d22778dc8a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 都市, 催眠, 跨性别, 自我认同, 色情, 黑暗势力, 情趣制服, 权力关系, 性别转换, 奴役, 调教, 女性化, 快感, 性暗示, 追求欲望, 剧情反转, 角色转变, 自我探索, 幻想情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

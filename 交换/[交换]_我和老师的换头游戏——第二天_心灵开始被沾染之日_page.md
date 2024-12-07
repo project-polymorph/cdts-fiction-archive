@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我和老师的换头游戏——第二天_心灵开始被
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换的小说，讲述了一个男孩与其女老师互换身体后的经历。主角在醒来后发现自己变成了女老师银崎初芽的身体，面临着与女性身体相关的生理体验和情感冲突。故事围绕其在学校生活的挣扎展开，描述了他如何应对生理期带来的身体和心理变化，包括对女性身份的恐惧与厌恶。文本中涉及到的元素包括身体的变化、性别认同及与同学的互动。其中，主人公经历了一系列亲密而羞耻的瞬间，混合着对于其变身状态的反思与对自己身份的困惑。作者利用生动的描写传达了身体与心理之间复杂的联系，以及女学生与老师之间可能存在的暧昧关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我和老师的换头游戏——第二天_心灵开始被
 | Size            | 55296 bytes                           |
 | MD5             | fe0a971bb9c794cc1af8f3ddb2445ba7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 痛经, 校园小说, 老师与学生, 身体交换, 自我认知, 性别认同, 青春期困惑, 生理期, 男孩的身体, 女性体验, 心理冲突, 性别角色, 性向探索, 异性恋情节, 情感纠葛, 自我探索, 生理用品, 紧张关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

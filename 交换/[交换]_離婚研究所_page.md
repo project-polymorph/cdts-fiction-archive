@@ -7,7 +7,7 @@ TXT 下载: [[交换]_離婚研究所.docx]([交换]_離婚研究所.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《离婚研究所》小说的详细记录，讲述了一对夫妻吉冈玲二与美穗的关系危机及他们在一个名为‘离婚研究所’的地方寻求帮助的经历。在这所研究所中，夫妻双方在咨询师手塚的引导下，将彼此内心的感受进行交换，以此作为修复关系的方法。小说通过角色的对话与内心独白，描绘了两人在婚后相处中因相互理解不足而引发的矛盾，以及通过这种极端方式寻求彼此理解的尝试。文中提到的关键情节包括两人决定进行意识交换，这一过程涉及深层的自我探索与性别认同的挑战。随着情节的发展，角色们在互换身份后，面对的不仅是身体的改变，还有对彼此生活和经历的全新认识。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_離婚研究所.docx]([交换]_離婚研究所.docx)
 | Size            | 30987 bytes                           |
 | MD5             | e5c94d3dfd2241cd0e1d0410474eb123                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 英明                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 离婚, 夫妻关系, 心理咨询, 意识交换, 性别认同, 自我探索, 科幻, 剧情发展, 情感纠葛, 日常生活, 婚姻危机, 心理治疗, 角色扮演, 生活体验, 二次元, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

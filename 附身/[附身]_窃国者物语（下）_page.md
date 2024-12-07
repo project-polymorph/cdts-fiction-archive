@@ -7,7 +7,7 @@ TXT 下载: [[附身]_窃国者物语（下）.doc]([附身]_窃国者物语（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《窃国者物语（下）》的下篇，内容主要围绕骑士团内部的权力斗争与身体控制的主题展开。故事讲述了吉格尔通过窃取两名女子丽莎与露米娜的身体，并逐步控制骑士团的其他女成员，展开了一场性与权力的游戏。他利用魔法与身体转移的手段，使得他的意识寄生在露米娜身体内，操控她的行动。小说中充满了对身体的改造、性别的模糊及操控的描绘，涉及一些限制级的情节，比如吉格尔对被控制女孩的侵犯与同化过程，在这个背景下，人物之间的关系变得复杂而充满冲突。文件以生动的场景与心理描写展现了女性角色在性别与自由之间的挣扎，与对肉体与灵魂的占有欲，以及对身份的认同与异化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_窃国者物语（下）.doc]([附身]_窃国者物语（�
 | Size            | 52736 bytes                           |
 | MD5             | a335b523fedd476c64de9e08b14aef2e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 幻想, 权力斗争, 身体操控, 吸收, 魔法, 女孩, 骑士团, 身份认同, 角色扮演, 强暴, 自我探索, 生物改造, 幻想小说, 成人内容, 人格变换, 异化, 榨取灵魂, 性别模糊                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

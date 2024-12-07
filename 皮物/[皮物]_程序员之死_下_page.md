@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_程序员之死_下.doc]([皮物]_程序员之死_下.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《程序员之死_下》是一部围绕程序员苏享和他的妻子欣欣之间复杂关系展开的小说。在这一部分中，苏享因对欣欣的过去和身份产生疑虑，开始执意监控其隐私。他通过开发一个手机应用来监听欣欣的交流，逐步揭开了她与一名名叫‘强哥’的陌生人之间的联系。故事中不仅揭示了苏享的内心挣扎，他对欣欣真相的追求，以及二人婚姻背后的秘密。同时，随着揭开隐私关系瑞士土木建筑配合也加剧了二人的冲突，最终导致冲突升级到离婚的边缘。整个故事深入探讨了信任、婚姻的真实性与个人价值等深刻主题，并涉及到程序员凝聚的职业伦理问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_程序员之死_下.doc]([皮物]_程序员之死_下.doc)
 | Size            | 38912 bytes                           |
 | MD5             | bf53e7057afd6cc20e6518cb2cab582a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 程序员, 跨性别, 监控, 婚姻, 隐私, 身份危机, 情感纠葛, 自我探索, 数字伦理, 强烈情绪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

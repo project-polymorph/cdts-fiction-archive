@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_良晴與芳雄系列之四_政美想報復的對象是…
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是多元性别主题的小说《政美想报复的对象是……》（第5话）的内容，围绕性别转换及青春校园生活展开。故事中，角色良晴利用他的能力变身为女主角政美，以她的身分在学校中行动。政美希望利用良晴的身体来进行报复。这一过程中，良晴以政美的视角观察同学们在更衣室的情况，表现出对女性身体的好奇与渴望。文中描写了女孩们更衣的场景，以及良晴在女子更衣室的偷窥欲望，伴随一系列细腻的心理活动，反映出性别身份和自我认同的错位与探索。整个故事在校园背景下，结合了幽默和调皮的情节，展示了角色之间的互动与情感冲突。除了校园生活，故事中还触及了对身体与性别的不安与幻想，呈现了性转小说特有的叙事风格与趣味。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_良晴與芳雄系列之四_政美想報復的對象是…
 | Size            | 39844 bytes                           |
 | MD5             | 3d0a8f890c7d10f4f2965941359f434a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转, 青春校园, 错位与幻想, 偷窥, 伪娘, 男娘, 变身, 男女关系, 自我探索, 情感冲突, 青少年成长, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

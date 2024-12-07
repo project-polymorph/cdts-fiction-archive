@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_衣替2.docx]([皮物]_衣替2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性别变换及性别认同的故事，主要描绘了一名男性角色在百货商店试穿游泳衣的经历。故事中的主角想利用一套名为‘维纳斯服装’的装备来改变自己的外表和体形，以便能够以女性形象出现在他的恋人面前。故事展示了人物的内心挣扎和身份认同冲突，通过对游泳衣的试穿体验，体现了角色对外貌和社会认知的关注。文章在结尾展望了即将到来的夏天和与恋人的互动，暗示作者的角色有可能会在夏季的海边展开更加亲密的关系。整体风格温馨而又带有微妙的情色暗示。温馨提示，该文本有可能涉及一些成人内容，并不适合所有读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_衣替2.docx]([皮物]_衣替2.docx)
 | Size            | 18547 bytes                           |
 | MD5             | 4bb059b807c6ac2c41593d8a914437a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 夏季故事, 自我认同, 变化与成长, 恋爱, 购物体验, 试穿游泳衣, 外貌焦虑, 性别表达, 幻想, 维纳斯服装, 青春期困扰, 二次元文化, 内心独白, 性别认同探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

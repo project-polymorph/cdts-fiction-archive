@@ -7,7 +7,7 @@ TXT 下载: [[交换]_龙舌兰7.docx]([交换]_龙舌兰7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《龙舌兰》系列小说第七章主要以主角杨立和蕊可的遭遇为中心，展开了一段惊悚而又引人深思的故事。本章开头，作者对第六章受到的批评表示承认，同时表示第七章经过精心修改，努力提升内容质量。故事背景设定在一个海滨城市，夜晚的老城区阴暗且神秘。剧中角色杨立和蕊可在昏迷后醒来，却发现身陷险境，周围治安极差，面临恶性侵袭的危险。杨立苏醒后发现自己变成了女性身材，而蕊可则表达出浓厚的关心与自责，两人紧急逃亡的过程中，不断回忆起过去的种种，体现出对彼此的深厚感情与新身份带来的困惑与挑战。文本中既有迫在眉睫的危机感，也夹杂着对角色内心挣扎的细腻刻画，恰如其分地展现了性别认同与自我探索等主题。故事发展过程中，两人的默契与往昔情感愈加凸显，同时也引发读者对女性安全、身份认同等社会议题的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_龙舌兰7.docx]([交换]_龙舌兰7.docx)
 | Size            | 38437 bytes                           |
 | MD5             | 94c05e89068e02ea8b5cd5e0c62456e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | yudi                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 惊悚, 逃亡, 变身, 两性关系, 海滨城市, 友谊, 女性抗争, 情感纽带, 都市奇幻, 阴暗面                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

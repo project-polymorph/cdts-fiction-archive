@@ -7,7 +7,7 @@ TXT 下载: [[附身]_三国杀之元宇宙.doc]([附身]_三国杀之元宇宙.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《三国杀之元宇宙》讲述了主角李宏因测试元宇宙虚拟舱而意外陷入游戏世界的经历。在这个虚拟世界中，他开始探索三国杀的历史背景，并通过特殊的身份设定——电子幽灵，操控游戏中的角色，展开前所未有的互动和冒险。故事中李宏通过员工密钥，发现并尝试干预npc（非玩家控制角色）的生活，随着情节的发展，他逐渐卷入了npc之间的情感纠葛，尤其是对大乔和小乔姐妹的复杂关系。文件内容包含大量的色情描写和角色之间亲密互动的场景，例如李宏对角色身体的直接控制和对她们进行性行为的情节描述。由于涉及描绘角色性别与身体极具变化与冲突的情节，文件适合于研究跨性别、性别认同及性别转换等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_三国杀之元宇宙.doc]([附身]_三国杀之元宇宙.
 | Size            | 51712 bytes                           |
 | MD5             | 0fad7cb81253999e7d2a7db1c129a855                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 三国杀, 元宇宙, 性转, 变身, 电子幽灵, 虚拟现实, 强奸, 姐姐, 妹妹, 双性恋, 百合, 调教, NTR, 成人内容, 角色扮演, 跨性别, 幻想小说, 二次元, 性别探索, 自我认知, 情色文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

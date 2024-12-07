@@ -7,7 +7,7 @@ TXT 下载: [[改造]_被变成雌性异形的我该如何生存（原标题：m
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《被变成雌性异形的我该如何生存（原标题：momo的奇妙冒险）》，内容围绕一位名为白念陌的角色展开。故事设定在一个充满异能者的世界中，她意外地与一种名为抱脸虫的生物发生了亲密关系。文本详细描写了念陌在这场交配行为中的身体感受和心理变化，从一开始的强烈欲望到高潮后的思考，使角色之间的力量关系和情感冲突愈发复杂。该文件涉及的内容包含细腻的生理描写与情欲的探讨，表现出角色对自我认同与欲望之间的纠结。此部分内容较为露骨，涉及到性行为的详细描写，表现了强烈的色情元素，同时也反映了人物对现状的思考与反省。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_被变成雌性异形的我该如何生存（原标题：m
 | Size            | 53188 bytes                           |
 | MD5             | 734635c78eb8aadd08248e7d68614e94                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异能者, 性转, 抱脸虫, 欲望, 自我认同, 快感, 生理描写, 强烈情感, 角色扮演, 内心挣扎, 反差感, 性感, 科幻, 心理冲突, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

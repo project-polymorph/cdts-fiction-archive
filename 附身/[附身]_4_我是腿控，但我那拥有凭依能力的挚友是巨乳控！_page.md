@@ -7,7 +7,7 @@ TXT 下载: [[附身]_4_我是腿控，但我那拥有凭依能力的挚友是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇跨性别小说，围绕着性别转变与身份认同主题展开。故事的主线围绕着主人公秋人与他的挚友龙也在汉堡店内进行的一次讨论，计划通过凭依的能力让秋人感受女性的身体与生活。小说中，秋人与龙也讨论到一位名叫绫濑的美少女，细致描绘了该女孩的外貌及其独特的魅力。随着剧情的发展，秋人在一次实验中意外凭依到了绫濑的身体，体会到了作为女性的身体感受，面临着从未体验过的内在与外在的冲突感。小说展现了角色在性别身份转换中的探索过程，同时穿插了许多情感与心理的描写。整体故事通过幽默而又不失深度的对话，引导读者思考性别认同与个人欲望的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_4_我是腿控，但我那拥有凭依能力的挚友是�
 | Size            | 45568 bytes                           |
 | MD5             | e5377c7c95b0a6eff853bc8a5dfa5f95                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别小说, 变身, 二次元, 性转, 青春校园, 自我探索, 美少女, 友情, 性别角色, 跟随心理变化, 拟人化, 心理冲突, 白丝, JK制服, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

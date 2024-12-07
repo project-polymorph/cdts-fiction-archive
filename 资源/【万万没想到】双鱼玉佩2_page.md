@@ -7,7 +7,7 @@ TXT 下载: [【万万没想到】双鱼玉佩2.doc](【万万没想到】双鱼
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部涉及科学考察和超自然力量的小说，其故事围绕主人公彭武展开。时间回到十二年前，彭武与老友蔡林在国立中央大学的办公室中相聚，蔡林提及彭武即将前往新疆进行科学考察。他们讨论了即将进行的任务，其计划是采集罗布泊湖底的生物和土壤标本。这次考察的科学意义重大，但随着旅程的深入，彭武和他的队友逐渐意识到军方介入后，任务的真正目的似乎不单纯。在探险过程中，彭武发现了一件神秘的双鱼玉佩，并计划用其力量来实施一个大胆的计划，提升自己和好友陈研的生活体验。小说中充满了对科学探索、伦理道德的思考，以及对性别认同与身份交换的敏锐探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [【万万没想到】双鱼玉佩2.doc](【万万没想到】双鱼
 | Size            | 53248 bytes                           |
 | MD5             | 0cb2462cb1f2009992d9f78494ad9d13                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 科学考察, 身份交换, 超自然力量, 双鱼玉佩, 性别认同, 彭武, 新疆, 罗布泊, 科技与伦理, 奇幻, 校园风                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

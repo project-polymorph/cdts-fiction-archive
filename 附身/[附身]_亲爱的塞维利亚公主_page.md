@@ -7,7 +7,7 @@ TXT 下载: [[附身]_亲爱的塞维利亚公主.docx]([附身]_亲爱的塞维
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及性别转换和跨性别主题的小说，名为《亲爱的塞维利亚公主》。故事的主人公扎苏是一位富商的儿子，他对阿鲁王国的公主塞维利亚产生了强烈的爱恋。为了接近公主，扎苏试图通过送礼和潜入等手段获得公主的注意，但因为她的第一待女艾琳娜的阻挠而屡屡失败。为了改变局面，扎苏最终购买了一种能够夺取他人肉体的秘药。在成功夺取艾琳娜的肉体后，他利用艾琳娜的身份接近公主，过程描绘出其对女性身体的焦虑与享受。小说中夹杂了许多性暗示及色情内容，展现角色在性别、身份与欲望上的复杂纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_亲爱的塞维利亚公主.docx]([附身]_亲爱的塞维
 | Size            | 28620 bytes                           |
 | MD5             | b0e4455f2bd0936116bfbaabcfd17697                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ecvt                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身剧情, 跨性别, 伪娘, 冒险, 爱情, 魔法, 秘药, 身体交换, 二次元, 强奸, 私密, 阴暗欲望, 身体敏感, 心灵冲突, 快感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

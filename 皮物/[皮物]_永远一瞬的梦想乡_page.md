@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_永远一瞬的梦想乡.doc]([皮物]_永远一瞬的梦�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《皮物：永远一瞬的梦想乡》的部分内容，包含了一个虚构世界中的社会背景与角色体验。故事发生在一个被浓雾笼罩的下一区，这里的人们生活在压抑的环境中，期盼能通过所谓的考试进入上区，享受更美好的生活。蒸汽车的到来为他们带来了新的希望，但同时意味着残酷的竞争与生死离别。这段故事探讨了人类在追求变革和美好生活中的绝望与斗争，情节中涉及对“皮物”技术的向往，这是一种可以让人保持青春的技术，隐藏着更深的社会和伦理问题。人物钤的内心痛苦与挣扎，体现了对个人命运的抗争与不甘。同时，故事中还描述了女性角色璃对上区官员处长奇怪需求的回应，为故事增添了复杂与紧张的情感色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_永远一瞬的梦想乡.doc]([皮物]_永远一瞬的梦�
 | Size            | 36864 bytes                           |
 | MD5             | 932f85b90e27cf30e29cfcb350f82bcf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 蒸汽朋克, 科幻, 皮物, 性别转换, 梦想乡, 社会阶级, 自我认同, 青春永驻, 人性探索, 逃避现实, 情感冲突, 生存斗争, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

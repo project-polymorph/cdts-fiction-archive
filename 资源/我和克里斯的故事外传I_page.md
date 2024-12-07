@@ -7,7 +7,7 @@ TXT 下载: [我和克里斯的故事外传I.doc](我和克里斯的故事外传
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档名为《我和克里斯的故事外传I》，讲述了一个关于超级计算机专家威廉·希尔顿与他的朋友克里斯的故事。威廉与克里斯共同合作，利用克里斯发明的高科技设备，进行了一系列复杂的实验，以探讨人类的记忆转移与身份变化。故事情节发生在他们的地下基地中，在那里，克里斯造出了一个名为人皮的人形机甲，能够让穿着者改变外貌和能力。文中详细描绘了克里斯如何将朱莉作为测试对象，进行记忆转移实验及威廉如何穿上朱莉的人皮，变身为女性，体验成为女性的身体感受与心理变化。文中涵盖了多种科技幻想和性别转换的主题，同时也包含了一些复杂的人际关系和权力斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [我和克里斯的故事外传I.doc](我和克里斯的故事外传
 | Size            | 53248 bytes                           |
 | MD5             | 43007953de70f270594462599749f459                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 记忆转移, 超级计算机, 科幻, 地下组织, 机甲, 女性化体验, 自我认知, 友情与背叛, 二次元, 科技幻想, 人类改造, 角色扮演, 身份认同, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

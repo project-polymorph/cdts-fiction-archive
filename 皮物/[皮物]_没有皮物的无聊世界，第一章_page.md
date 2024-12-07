@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_没有皮物的无聊世界，第一章.docx]([皮物]_没
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《没有皮物的无聊世界》的小说描绘了一个设定在未来的虚构社会，故事发生在一个对"皮物"（即可以通过技术将他人转变为非人生物的形态）实行严格管控的环境中。小说以一个年轻男子的视角开始，他在经历了一次列车上的骚乱后，内心充满了对社会变迁的无奈和不满。背景设定为20年前，皮物科技被广泛使用，但随着法案的变化，皮物逐渐被视为禁忌，导致其技术和相关物品被严厉铲除。主人公陈清扬，既有重生的神秘经历，又对原本美好的皮物世界怀有极大的向往。他在校园中与同学们讨论起近期的皮物恐怖事件，表露出对现状的无奈与不甘，面临着许多新旧思潮碰撞的境地。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_没有皮物的无聊世界，第一章.docx]([皮物]_没
 | Size            | 32240 bytes                           |
 | MD5             | 00fa69dfb36729e52e1479991f8825f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 科幻, 未来社会, 社会禁忌, 重生, 青年小说, 警务, 恐怖组织, 校园生活, 科技伦理, 自我认知, 扩展设定, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

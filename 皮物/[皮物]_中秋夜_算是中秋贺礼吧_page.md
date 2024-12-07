@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_中秋夜_算是中秋贺礼吧.docx]([皮物]_中秋夜_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一对情侣在中秋节当天的故事。男主角翔是一名患有忧郁症的年轻人，他的女友丽则一直在照顾并陪伴着他。在即将到来的中秋节，丽购买了翔最喜欢的冰激凌月饼，并为他打理了整洁的房间，表现出她的关心和体贴。
+
+然而，故事的背后隐藏着一个复杂而痛苦的秘密。丽的弟弟翰为了替姐姐照顾翔，使用了特殊的手段变成姐姐的样子，以代替姐姐陪在翔的身边。随着情节的发展，翰在代替姐姐的过程中逐渐对翔产生了感情，并与翔展开了一段复杂的关系。
+
+文本详细描绘了两个主角之间的情感纠葛，以及翰内心深处的挣扎与歉意。当翰最终透露自己的真实身份后，翔对翰的接纳令故事走向了新的方向。这是一个关于爱、认同与变形的故事，探讨了性别与关系的界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_中秋夜_算是中秋贺礼吧.docx]([皮物]_中秋夜_�
 | Size            | 18761 bytes                           |
 | MD5             | 249f3d78050c4757fda40a101f840f85                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 中秋节, 爱情, 身份认同, 忧郁症, 家庭关系, 灵魂伴侣, 复杂情感, 秘密, 变身, 二次元, 奇幻, 人皮, 内心冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

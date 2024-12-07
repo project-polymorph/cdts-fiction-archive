@@ -7,7 +7,7 @@ TXT 下载: [[变身]_她的梦成真了？.docx]([变身]_她的梦成真了？
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《她的梦成真了？》，原名为‘Her dreams come true?!’，作者为GBkitten。故事围绕亚斯，一名普通男性的生活展开，他与女友格蕾丝保持着平凡而亲密的关系。两人因工作繁忙而缺乏共处的时间，这使得亚斯感到压力倍增。某个晚上，亚斯因不明原因无法入睡，听到了女友在梦中的窃窃私语，逐渐发现自己的身体发生了不可思议的变化。从此，亚斯变成了女孩雅诗妮，面临着身份的极大转变，感受到身体与性别认同的不一致。故事描述了她在这个新身份中的挣扎与适应，以及与格蕾丝之间情感的融合与重建。对话中体现了两人对彼此的爱和支持，面对突如其来的变化，试图一起找到解决办法。整体故事探讨了性别认同、自我探索与身份重塑的主题，既带有奇幻色彩，又穿插了温暖的爱情因素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_她的梦成真了？.docx]([变身]_她的梦成真了？
 | Size            | 18381 bytes                           |
 | MD5             | bb1c055e6c00d058a11344b18132db70                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | GBkitten                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 爱情, 自我探索, 女性认同, 亲密关系, 奇幻, 心理挣扎, 青春, 性别认同, 变嫁, 情侣, 伪娘, 梦境, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

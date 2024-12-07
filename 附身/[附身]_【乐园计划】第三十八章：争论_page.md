@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【乐园计划】第三十八章：争论.doc]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《乐园计划》第三十八章：争论，描绘了在一个奇幻背景下，几个角色之间的关于拯救和对质的争论。故事围绕角色香草的魅惑术展开，香草自信地展现自己的魅力，但却遭遇了不为所动的店主，让她感受到了一丝挫败。在接下来的场景中，浅夏与风灵针对如何应对潜在威胁进行激烈讨论。浅夏希望寻找解救被魔族夺取身体的少女们的方法，而风灵则认为应该直接面对问题，以确保更多人不受伤害。最终，米儿提议给出三天时间搜集更多信息，双方都有机会实施自己的计划。结尾处，萱儿和月璃利用恶魔的力量引导更多女孩加入她们的行列，暗示故事将朝着更淫欲的方向发展。文件中的情节涉及性别认同、自我探索、性别转换等主题，含有部分限制级内容，适合学术研究使用。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【乐园计划】第三十八章：争论.doc]([附身]_�
 | Size            | 35328 bytes                           |
 | MD5             | a1894bd8c26a7f2adf148bf91fd1b5a0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 魔法, 恶魔, 女性自我认同, 性别探索, 魅惑术, 恋爱, 暴力, 情色, 奇幻, 游戏, 二次元, 强奸, 年龄差, 润滑剂, 调教, 战斗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

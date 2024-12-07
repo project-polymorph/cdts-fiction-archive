@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【TSFのF】伪装未婚妻（偽りの婚約者）（上
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《伪装未婚妻（偽りの婚約者）》，是由作者 TSFのF 创建的小说，主要讲述了一个名叫佐佐木清彦的男生与他的朋友一条俊明之间的故事。由于俊明家族的传统，俊明必须在20岁生日之前找到一位未婚妻，否则将与家里选定的人订婚。为了敷衍父母，俊明找到了清彦，请求他女装陪同回家见父母，假装成未婚妻。虽然清彦本身并不喜欢女装，但为了经济利益和朋友的请求，他最终同意了。在准备过程中，清彦不得不化妆、穿女装以及适应新的女性身份，这使他在自我认同和角色扮演之间产生了复杂的情感。小说深入探讨了性别认同、自我认知和社会期待的主题，同时也包含了友情与青涩爱情的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【TSFのF】伪装未婚妻（偽りの婚約者）（上
 | Size            | 51712 bytes                           |
 | MD5             | bf4d83943edee028753c49e68413b6d0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | TSFのF                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 跨性别, 友情, 青涩爱情, 女装, 婚约, 角色扮演, 自我认同, 东京大学生活, 社会期待, 伪装未婚妻, 经济利益, 心理冲突, 女性形象                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

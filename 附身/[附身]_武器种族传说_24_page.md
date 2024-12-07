@@ -7,7 +7,9 @@ TXT 下载: [[附身]_武器种族传说_24.doc]([附身]_武器种族传说_24.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一个伪娘 TS 变身与跨性别相关的小说，讲述了两个角色昊天和冰凝在一场冒险中意外坠入某位大臣的宝库，随之而来的是他们意外的变身为女性角色。在这段剧情中，昊天因某个魔法而变为了女性，并与自己的伴侣冰凝一起计划从皇宫中逃脱。他们在藏宝库中的遭遇，以及昊天变身后的心理变化和自我认同的探索，构成了小说的主要内容。小说描绘了角色在变身后的冲突与认同，尤其是昊天在变身为龙族女皇莱丽雅后所面对的心理挑战和性别认同，同时还引入了大量的冒险元素与幻想情节，如魔法、禁制和宝物。
+
+文本中提到了一株极为珍稀的药草
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_武器种族传说_24.doc]([附身]_武器种族传说_24.
 | Size            | 70656 bytes                           |
 | MD5             | de849ced5860dc8863842a6b11501ba4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 冒险, 魔法, 龙族, 宝藏, 女性认同, 自我探索, 幻想情节, 性别转换, 古代背景, 恋爱, 魔法世界, 女体化, 女王气质                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

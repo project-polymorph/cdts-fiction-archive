@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译小说】女仆_第五部分（共5部分）完�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为变装主题的小说第五月分部分，讲述了角色查尔斯在简手术和康复期间独自打理家务的心路历程。查尔斯常常感到孤独，为了填补空虚感而努力打扫卫生，希望简回家时能看到一片干净。资料中揭示了查尔斯对自己性别认同的困惑以及她对简的崇拜；简的回归令查尔斯感到喜悦，但她又意识到自己穿着廉价的衣服与简的优雅形成了鲜明对比。文本中有对二次元角色的深入描写，以及查尔斯和简之间的对话，揭示了人际关系和身份认同的复杂情感。在简回到豪华公寓后，二人充满温暖的互动和情感的交流让人感受到角色之间强烈的吸引力与依赖感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译小说】女仆_第五部分（共5部分）完�
 | Size            | 33660 bytes                           |
 | MD5             | 7fa6df9cc0d630bb5b54076d8705f6f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 女仆, 变装, 性别认同, 孤独, 自我探索, 跨性别, 自我认同, 家庭关系, 二次元, 崇拜, 情感纠葛, 温情互动, 社会交往, 角色扮演, 互依关系, 现代都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

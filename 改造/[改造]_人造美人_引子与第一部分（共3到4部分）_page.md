@@ -7,7 +7,7 @@ TXT 下载: [[改造]_人造美人_引子与第一部分（共3到4部分）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及人体改造与性别转换的小说，名为《人造美人》。故事围绕主角李伟东展开，他曾是一名精英刑警队长，因意外重伤后遭遇了一名外科医生的绑架。医生进行了一系列的整容手术，让李伟东变成了一位外表精致的女性——精灵公主妮娜。小说通过细腻的描写呈现了妮娜的美丽面容和她内心的挣扎，以及身体和身份的双重转变。在变身为妮娜的过程中，李伟东不仅面临身体上的变化，更经历了心理上的困扰与自我认知的挑战。文本展现了涵盖暴力、强制医疗、人体实验等较为敏感的题材，情节面临伦理与道德的激烈冲突。此外，文中亦包含有关性与欲望的描写，这增加了故事的复杂性与情感深度。主角在经历手术后，逐渐适应身体变化，但仍不断反思自己身份的定义与追寻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_人造美人_引子与第一部分（共3到4部分）.doc
 | Size            | 40448 bytes                           |
 | MD5             | d3e6d33fbce7a7cda09b8ff59981309f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 跨性别, 人体改造, 强制医疗, 暴力, 心理斗争, 身份认同, 科幻, 二次元小说, 冒险, 幻想, 主题探索, 特殊能力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_清姬的恶戏.doc]([变身]_清姬的恶戏.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇围绕FGO（Fate/Grand Order）同人小说的变身与跨性别主题的作品，主要讲述了角色立香在一场梦境与召唤中经历的性别转换和身体认知的冲突。故事开篇描述了立香在模拟训练结束后的疲惫状态，随即引入了神秘的短发黑肤女孩，她的出现引起了立香的注意。随着情节的发展，立香在与清姬（Berserker）的互动中，逐渐意识到天然的性别角色与身体特征的错位。故事中的清姬通过魔法操控来实现调用自身的能力，最后引导立香完成了自我认知的转变，身形变得娇小，穿上白色长袖衫与红色长裙，展现出一种婉约的巫女形象。文中细致描绘了角色间复杂的情感纠葛与身体转变所带来的心理冲突，展现了两者相互依赖、期望融合的情感。同时，作品也暗示了在这个特定的世界观背景下，角色如何在性别认同和自我探索方面展开价值观的辩论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_清姬的恶戏.doc]([变身]_清姬的恶戏.doc)
 | Size            | 100864 bytes                           |
 | MD5             | 479e8198ef09ef4c63534a5814643139                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 跨性别, FGO同人, 自我探索, 清姬, 立香, 召唤, 魔法, 情感纠葛, 心理冲突, 美少女, 梦境, 巫女, 娇小形象, 魔法少女, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

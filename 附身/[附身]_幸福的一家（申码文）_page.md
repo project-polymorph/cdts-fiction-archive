@@ -7,7 +7,7 @@ TXT 下载: [[附身]_幸福的一家（申码文）.doc]([附身]_幸福的一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇围绕家庭关系与性别认同展开展开的小说，主要讲述了主人公陈浩与其伴侣苏兰的爱情故事，以及他们在生活中面临的挑战和冲突。故事的开篇展现了一对恋人于教堂前许下誓言后，随之展现的却是两人关系的逐渐疏远，尤其在陈浩成功创业后，他与苏兰之间的情感出现了裂痕。苏兰独自抚养儿子小飞，回忆着与陈浩在一起的甜蜜时光，但同时也忍受着其背叛与冷落。故事中揭示了家庭的破裂对小飞的心理影响，以及他在与同父异母的妹妹陈兰之间产生的复杂关系。陈小飞在成长中对于自己性别与身份的探索，以及在哥哥与妹妹之间复杂的权力斗争与情感纠葛，融合了性别认同等主题。本小说包含多层次的人物关系和性转、变装等情节，涉及复杂的情感与伦理道德的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_幸福的一家（申码文）.doc]([附身]_幸福的一�
 | Size            | 55808 bytes                           |
 | MD5             | 01dd4fa0354aef25eece69d2df9d1578                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 家庭关系, 性别认同, 自我探索, 爱情, 背叛, 悲剧, 心理冲突, 性转, 变装, 二次元, 校园生活, 父母角色, 童年回忆, 性别冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

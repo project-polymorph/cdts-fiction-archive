@@ -7,7 +7,7 @@ TXT 下载: [[变装]_葵花旧事（16）.doc]([变装]_葵花旧事（16）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《变装》系列小说的第十六章，标题为《葵花旧事》。故事情节围绕几个角色的对抗展开，主要是慧中师太与代伊斯之间的斗争。代伊斯是一个擅长施用麻药与催眠术的对手，他企图削弱慧中的内力，以图实现自己的邪恶目的。故事中，通过代伊斯施放的所谓的‘十香软筋散’麻药，使得慧中一度陷入不利的境地，但慧中的内力最终帮助她抵抗住了药效。故事描绘了两人在战斗中的心思变化以及彼此间的心理战，代伊斯对慧中和另一名师太锦莲的言语挑拨并未奏效，反而暴露了自己的弱点。整个章节不仅展示了人物间的力量对抗，也涉及到潜意识的操控与性别认同的复杂主题，情节紧凑，高潮迭起，充满悬疑与奇幻色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_葵花旧事（16）.doc]([变装]_葵花旧事（16）.do
 | Size            | 48640 bytes                           |
 | MD5             | 1b865d060f6569de3d80b5f328e10031                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 强奸, 催眠, 自慰, 纯爱, 武侠, 内功, 变身, 潜意识操控, 性别认同, 魔教, 奇幻, 暗算, 少年                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

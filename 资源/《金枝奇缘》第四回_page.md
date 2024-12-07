@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第四回.doc](《金枝奇缘》第四回.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《金枝奇缘》第四回的故事围绕一个名为厉无咎的角色展开，他是在一场变故后沦为残灵的前辈人物。故事通过厉无咎的回忆，讲述了他曾作为荡魔峰的大师兄，由于遭遇一次伏击，导致了新晋弟子的全军覆没，并因被诬陷失职而承受了极大的痛苦。他描述了自己的遭遇，尤其是作为受害者的内心挣扎，以及对仇敌顾道真的深切怨恨。随着故事的发展，厉无咎为了复仇，修习了上古的逆天密术“迁识法”，企图占据小师妹秦疏影的身体，以此来完成自己的报仇计划。故事展现了深刻的自我认知与身份探索，涉及爱情、背叛与仇恨的复杂情感。最后，厉无咎的借尸还魂计划却以失败告终，留下了孤独的怨灵。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第四回.doc](《金枝奇缘》第四回.doc)
 | Size            | 39936 bytes                           |
 | MD5             | 54e9c7876e6a26c863c023360894006a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 残灵, 复仇, 自我探索, 性别认同, 悬疑, 玄幻, 密术, 师徒关系, 阴阳交替, 深度心理探讨, 情感纠葛, 跨性别主题, 超自然, 炼丹, 灵药, 禁忌之地                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

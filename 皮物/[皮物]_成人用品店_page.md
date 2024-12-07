@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_成人用品店.doc]([皮物]_成人用品店.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档以第一人称视角展开，讲述了主人公江河的变身和自己对身体的控制，展现了一种奇幻与现实交织的情节。故事起始于江河的低谷，他被媳妇赶出家门，过着流浪生活。然而，机缘巧合下他得到了一个神奇的戒指，戒指的能力让他能够变身为女性，并拥有女性的身体与记忆。这使得他不仅在身体上发生了变化，还在内心产生了一系列自我认知的冲突和转变的过程。文中出现的“黄金液”是一种通过特殊条件制作出的液体，号称能在男性状态下显著增强性能力，售价不菲。随着故事发展，江河的生意逐渐发展，但他也在不断寻找新的“肉体”以满足贩卖黄金液的需求，同时掺杂一些黑暗与不法的元素，使得故事情节更为复杂和引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_成人用品店.doc]([皮物]_成人用品店.doc)
 | Size            | 43520 bytes                           |
 | MD5             | bc6c530505983c765f9225d4ff300d0b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 成人用品, 奇幻, 情色文学, 自我探索, 身体意识, 魔法, 二次元, 女性视角, 双高潮, 药物, 强奸, 淫荡, 调教, 逆后宫, 百合, 人皮, 黄金液, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

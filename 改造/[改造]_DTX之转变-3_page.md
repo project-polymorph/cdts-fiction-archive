@@ -7,7 +7,7 @@ TXT 下载: [[改造]_DTX之转变-3.doc]([改造]_DTX之转变-3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为"改造"系列小说中的第三部分，名为《DTX之转变-3》。故事围绕角色的性别和身份转变展开，涉及到复杂的科技实验和个人经历。主角们在遭遇身份变换的情况下，聚集了更多的疑惑和恐惧。在这部分中，自称罗志的疯女人出现在车内，她的身份引发了主角的惊讶与对自己变化的思考。随着情节的发展，罗志向主角们揭露了她被纳米机器人强制改造的事实，她现在叫罗羽，她的变化与其他角色的变化密切相关。同时，故事探讨了纳米机器人技术的复杂性以及身份认同的问题。罗羽希望主角们帮助她进入DTX的项目网络，以关闭体内机器人控制，揭示了实验过程中涉及的伦理与科技挑战。这一情节带来了紧张和不安，也引发了对于自我认同和他人认同的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_DTX之转变-3.doc]([改造]_DTX之转变-3.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | bd8caf09f1a31088974eda06d055ced1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 纳米机器人, 自我探索, 身份认同, 青春, 科技伦理, 惊悚, 变身, 伪娘, 强制改造, 精神病, 女性角色, 强烈情感, 都市传说, 反乌托邦, 科幻, 游戏, 虚拟现实, 亲情, 友情, 邪教, 阴谋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

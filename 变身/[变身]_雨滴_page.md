@@ -7,7 +7,7 @@ TXT 下载: [[变身]_雨滴.docx]([变身]_雨滴.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以高中生李俊杰为主角的变身小说的开篇，讲述了他对同桌班花王均的暗恋以及他在自卑和无奈中的挣扎。故事开头，李俊杰自述自己的普通和不被关注的生活，在学校中默默注视着王均，内心充满了对她的倾慕与嫉妒。随着情节的发展，李俊杰得知王均对篮球明星张志刚的喜欢，心中感到失落和无望。某天，他在一个阴暗的小道上遇到一个神秘人物，得到一瓶能让任何女生倾心的“欲液”。李俊杰出于冲动，决定尝试这种药水，设想用它来引起王均的注意，但他内心深处仍在质疑这一切是否值得。故事揭示了李俊杰对于爱情、友情、以及自我价值的复杂思考，同时也暗示了性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_雨滴.docx]([变身]_雨滴.docx)
 | Size            | 192357 bytes                           |
 | MD5             | ddc62266c4591aba2105bf0fb02ad07d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 高中生, 暗恋, 性别认同, 自我探索, 伪娘, 情感纠葛, 青春校园, 神秘药水, 超级能力, 内心独白, 恋爱心理, 成长故事, 强烈对比, 张志刚, 王均                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

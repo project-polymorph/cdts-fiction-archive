@@ -7,7 +7,7 @@ TXT 下载: [[改造]_全力以赴_9_(2).docx]([改造]_全力以赴_9_(2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档的内容是围绕一个名为尼克的角色与他的姐姐克莱尔之间的对话。故事情节发展围绕着尼克的性别转变以及他与家人之间的复杂情感。尼克现在以女性身份生活，并选择了新的名字—凯拉·马隆。他向姐姐克莱尔坦白了自己的转变，试图解释自己的感受和经历。克莱尔对此持怀疑态度，并询问了许多关于尼克变性决定的细节。她表达了对家庭的担忧，特别是关于父母会如何反应。整个对话充满了情感的冲突与理解的尝试，展现了两者之间的亲情和对于性别认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_全力以赴_9_(2).docx]([改造]_全力以赴_9_(2).docx)
 | Size            | 34478 bytes                           |
 | MD5             | 49ff92ad1a7cc673729efd38d156574f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 家庭关系, 自我认同, 情感冲突, 变性, 女性视角, 探索自我, 角色转变, 心理冲突, 性别认同, 性别灵活性, 情感支持, 成长经历, 青春期, 人际关系, 自我接受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

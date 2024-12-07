@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[老文重发]古镇魔笛.doc]([变身]_[老文重发]古
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文为一篇描绘大学生活的小说，故事围绕角色国庆节的旅行计划展开。主人公与好友周南和两名女生林倩倩、孙心田一起前往磁器口，途中展现了主人公的日常生活、对旅游的不感兴趣以及对周南追求林倩倩的尴尬支持。故事中夹杂了轻松幽默的对话和友谊的细节，通过主人公对周南家伙的调侃，描绘出他们的亲密关系。随着旅行的展开，主人公无意间买下了一只竹笛，并在操场上尝试演奏，意外地引发了一系列奇幻的事件，笛子发出悦耳的鸣声，并在主人公的体验中逐渐演化出超现实的变化，颠覆了他对自身身份的认知，情节发展引入奇幻与变身元素，融合了现实与超现实的交错感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[老文重发]古镇魔笛.doc]([变身]_[老文重发]古
 | Size            | 41472 bytes                           |
 | MD5             | 1a476a82e59b1545107099b06696973b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 校园生活, 友情, 国庆旅行, 竹笛, 奇幻, 自我认同, 幽默, 冒险, 超现实, 角色成长, 日常, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

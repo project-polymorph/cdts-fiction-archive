@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《夫尊天下》第29章方二娘.doc]([改造]_《夫�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+第29章方二娘描绘了一场围绕方二郎与他幻想中的女子二娘之间复杂情感的故事。情节通过方二郎的内心独白揭示了性别认同与情感困境。他认为自己失去了男人的尊严，不敢面对自己的幻想，内心充满痛苦与挣扎。随着情节的发展，二娘施加的情感及身体上的羞辱，让方二郎愈发屈辱。二娘逼迫他回忆他们之间的过去，并用激烈的方式考验他的男人气概。在这一过程中，方二郎的幻想与现实开始产生冲突，最终他意识到自己的自我认知与性别认同受到了创伤，令他对自身的价值产生怀疑。最后，他在经历一连串的打击后陷入了情感的绝望和孤独。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《夫尊天下》第29章方二娘.doc]([改造]_《夫�
 | Size            | 38912 bytes                           |
 | MD5             | 506c1dc1506b093dc95dee10ea721496                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 幻想, 自我价值, 情感折磨, 羞辱, 强迫, 内心挣扎, 性别转换, 精神创伤, 孤独, 情感测试, 痛苦, 男儿身, 幻想空间, 自我探索, 二次元, 虚构角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

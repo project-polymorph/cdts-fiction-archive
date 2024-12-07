@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_第五章_怪人的推理_(下)_(解答篇).docx]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说档案馆中的一篇小说，内容围绕着名为九祈的主角，他在追查与局长相关的案件时，突然遭遇了名为‘怪人’的角色。小说描绘了九祈通过推理逐渐揭开怪人的身份及其动机的过程。在故事中，九祈怀疑怪人与局长之间的联系，并致力于破解一系列看似毫无关联的事件。他在逻辑推理中逐步接近真相，并与怪人对话，探讨局长的异常行为和潜在的阴谋。文中提到的情节包括对抗、身份的错位与假象，以及隐秘的权力游戏。九祈在故事的紧张氛围中感受到巨大的心理压力，并试图通过推演锁定真相。最终，他意识到局长的真实状况与怪人的策略并非表面看起来那么简单，使得整个案件变得更加复杂与吸引人。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_第五章_怪人的推理_(下)_(解答篇).docx]([皮物]
 | Size            | 21981 bytes                           |
 | MD5             | c11c0c00a2d23ca8502640b9a89f9088                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 故事, 悬疑, 推理, 跨性别, 伪娘, 性别认同, 阴谋, 变身, 怪人, 警察, 身份错位, 情感对抗, 逻辑推理, 心理战游戏, 反转情节, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

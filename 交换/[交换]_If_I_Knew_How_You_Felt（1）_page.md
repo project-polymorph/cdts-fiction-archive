@@ -21,7 +21,7 @@ TXT 下载: [[交换]_If_I_Knew_How_You_Felt（1）.docx]([交换]_If_I_Knew_How
 | Size            | 19280 bytes                           |
 | MD5             | 7605db883e2db4359555e729dab029ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

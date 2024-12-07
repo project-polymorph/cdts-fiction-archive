@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《SCP-X69异闻录》第六章_陈梦溪逃脱计划.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档为《SCP-X69异闻录》第六章，主要讲述了角色在梦中转移意识到另一名角色柳珊珊的身体内，并尝试应对随之而来的复杂局面和心理冲突。开篇描绘了夏日清晨的情境，主人公因突如其来的闹钟声音醒来，意识到自己将要经历一场与众不同的冒险。在转移意识的过程中，主人公发现身体被胖子的卑劣行为侵犯，感受到一种难以忍受的侮辱和愤怒。文中包含了对身体状态的细腻描写，比如“胸口的两团软肉正被他的猪蹄把握着”，表明了人物所处的困境。接下来的情节更加紧张，胖子对女主角色的行为进一步夸张化，带出了主题中的性别转换、权力关系及自我认知的挑战。整个章节充满了对人物内心的刻画，以及复杂的情感纠葛与冲突，囊括了诸多关于催眠和身体控制的元素。此外，这一章节还涉及角色之间的审查与逃脱计划，形成了一种紧迫感与戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《SCP-X69异闻录》第六章_陈梦溪逃脱计划.docx
 | Size            | 26389 bytes                           |
 | MD5             | 66af6f514589b445a656b48a7a971cd5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 意识转移, 催眠, 伪娘, 男娘, 强奸, 情感冲突, 自我认知, 冒险, 逃脱计划, 权力关系, 二次元, 调教, 都市幻想, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

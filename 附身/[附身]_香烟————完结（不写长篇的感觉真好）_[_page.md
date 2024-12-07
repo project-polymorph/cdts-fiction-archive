@@ -7,7 +7,7 @@ TXT 下载: [[附身]_香烟————完结（不写长篇的感觉真好）_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品是关于一个乞丐的奇异变身故事。故事发生在寒冷的冬天，乞丐在街角乞讨，受到路人的冷漠对待。他的希望在几乎绝望的时候，遇到了一名善良的少女。然而，少女的母亲却对乞丐表现出了强烈的厌恶，最终母女俩离去，乞丐失去了最后一丝生存的希望。在绝望中，乞丐点燃了一根香烟，感受着烟雾中的温暖。随后，他的灵魂逐渐飘离，进入了一个陌生的家庭，变成了少女小雅。小雅在温暖的家庭环境中，逐渐适应了这一切，并体验了性别转变后带来的身体和心理上的冲突与探索。作品中充满了对性别认同与欲望的细致描写，以及乞丐对生活的苦楚与追求幸福的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_香烟————完结（不写长篇的感觉真好）_
 | Size            | 27821 bytes                           |
 | MD5             | 857a49b7976188b32ad3bca7757e4cc8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 自我探索, 奇幻, 变身, 变嫁, 青春, 温暖与绝望, 心理转变, 性别认同, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

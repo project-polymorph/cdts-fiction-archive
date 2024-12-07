@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【长篇连载】银域轮回1-4.doc]([变身]_【长篇�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为长篇连载小说《银域轮回》第一至第四章的初稿，作者为口吞日月。该作以虚拟网游为背景，讲述了主角羽音因一款新游戏‘银域轮回’而穿越到一个与现实世界有所交汇的异世界。在这个游戏中，玩家体验真实模式，在不断影响其自我认知的角色互动下，羽音的性格和身份都发生了变化，从孤僻宅男转变为追求职业玩家梦想的人。作品中描绘了许多游戏机制，如职业、技能、任务和成就，涉及丰富的角色设定与虚拟现实的构建。特别的是，作品还触及了性转、情欲等主题，展现了游戏角色与现实身份之间的交错。此文包含许多角色与情景设定的草稿，展示了伪娘、梦魔等多样性别表达的角色背景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【长篇连载】银域轮回1-4.doc]([变身]_【长篇�
 | Size            | 87552 bytes                           |
 | MD5             | dc8d858f914914d8a8f0050d3742aa4e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 口吞日月                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 虚拟现实游戏, 伪娘, 角色扮演, 穿越, 梦魔, 自我认同, 异世界, 情欲, 游戏机制, 职业设定, 技能树, 任务系统, 成人向                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

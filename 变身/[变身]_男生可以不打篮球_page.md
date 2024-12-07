@@ -7,7 +7,7 @@ TXT 下载: [[变身]_男生可以不打篮球.docx]([变身]_男生可以不打
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件呈现了一场由女巫主导的篮球赛，通过魔法改变了参赛者的性别和身体特征。故事中，女主角是一个女巫，她利用自己的魔法能力对抗性别歧视，挑战男生的篮球队。在比赛的开始，随着她施展魔法，男生们的身体开始发生变化，表现出女性特征，例如胸部增大和声音变高。故事中描绘了男生们从最初的不安变为逐渐接受这种变化，同时伴随着许多幽默的情节，例如对于他们新身体的调侃，和比赛中出现的各种搞笑场面。整个过程既探索了性别认同的主题，也展现了男性和女性在运动中的不同表现，借以讽刺社会中的性别歧视现象。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_男生可以不打篮球.docx]([变身]_男生可以不打
 | Size            | 25080 bytes                           |
 | MD5             | a39cf2b50c7eedee48cad40b5686dfa4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 女巫, 魔法, 幽默, 篮球, 性别歧视, 青春期, 角色转换, 运动会, 男娘, 女体化, 性别认同, 魔法运动, 性转换, 男性视角, 女性视角, 魔法少女, 轻松搞笑, 社会讽刺, 心理变迁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_彼岸_第二幕_第一回.docx]([变性]_彼岸_第二幕
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及性别认同与自我探索主题的跨性别小说，主要讲述了主角林莉在车祸后失忆的故事。林莉是一名宝岛鼎鼎大名的经纬财团员工，在医院中醒来，发现自己对过往生活一无所知，只能依赖护士的简单介绍。她的身体恢复正常，但心理上却面临认同危机，常常梦见一个男人的形象，使得她对于自己女性的身份感到困惑与迷茫。故事通过林莉的视角，展现了她在寻找自我身份过程中，必须面对的种种障碍，包括失忆、经济困境以及对未知的恐惧。随着情节的发展，她被迫接受未知的命运，被陌生人带到一个神秘的庄园以见一个名叫蒋先生的人，这一过程不仅让她的命运更加复杂，也使她在自我认同的路上面临更多挑战。文件中包含丰富的情感冲突与心理描写，突显了性别与身份认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_彼岸_第二幕_第一回.docx]([变性]_彼岸_第二幕
 | Size            | 35254 bytes                           |
 | MD5             | 983f7911d94f513331fe4f1da85e244d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别文学, 记忆丧失, 自我认同, 失忆, 心理冲突, 女性视角, 神秘人物, 奇幻, 成长, 困惑, 性别探索, 强烈的情感, 经济困境, 医院经历, 职场生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

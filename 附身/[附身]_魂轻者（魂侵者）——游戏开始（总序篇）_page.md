@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——游戏开始（总序篇）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇伪娘和变身类型的小说，内容围绕主人公大木一郎的奇幻经历展开。故事开始讲述了一名普通的高中生，他对班上的美少女北见丽华同学抱有暗恋之情。在一次醒来后，他发现自己竟然以幽灵的状态漂浮在家中，随后进入了继母惠美的身体。这一突发事件导致他体验到女性身体的感觉，并引发一系列自我认知和身体感知的冲突。文中不仅描绘了主角的内心挣扎，也涉及了他对女性身体的探索与接受，情节中充满了性别认同的主题。整体情节充满了幻想与情色元素，描绘了角色的心理变化及生理体验，涉及到许多敏感内容和情节细节，适合研究性别与认同等议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——游戏开始（总序篇）.
 | Size            | 23744 bytes                           |
 | MD5             | 015b607629f80c30faa360baea92b701                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 齐腾一                               |
+| Region          | 未知                               |
+| Date            | 2013-06-28                                 |
+| Tags            | 伪娘, 变身, 跨性别, 幽灵, 身体交换, 自我探索, 女性身体, 情感纠葛, 暗恋, 探索性别, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

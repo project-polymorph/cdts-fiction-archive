@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_穿上黄小婉的皮（二）.doc]([皮物]_穿上黄小�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文描绘了一个人通过获得黄小婉的身体而引发的性别认同和自我探索的经历。在穿上黄小婉的皮肤后，叙述者惊叹于自身的外貌和身体感受，展现了一种对女性身体的迷恋和探索。文本中包含了大量关于自慰的细节，以及对女性身体的细腻描写，表现出一种愉悦和渴望。这种体验不仅是身体上的享受，同时也牵涉到心理上的变化，叙述者开始认同和享受作为女性的身份。故事的情节逐步引入了人际关系的进一步发展，叙述者与过去的黄小婉的男朋友之间也产生了一些微妙的互动，预示着未来的情感线索。整篇作品融合了性转、跨性别、自慰等多种主题，强烈而直白地表达了身体和性别认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_穿上黄小婉的皮（二）.doc]([皮物]_穿上黄小�
 | Size            | 37888 bytes                           |
 | MD5             | 5a2a1eeff853cbdde455d144fbfe0e81                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 自慰, 女性身体, 自我认同, 叙述者, 黄小婉, 性别变化, 心理探索, 人际关系, 女性视角, 女性欲望, 身体控制, 心理变化, 游戏心理, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

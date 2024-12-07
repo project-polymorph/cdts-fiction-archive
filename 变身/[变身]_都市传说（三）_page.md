@@ -7,7 +7,7 @@ TXT 下载: [[变身]_都市传说（三）.docx]([变身]_都市传说（三）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于都市传说的小说，内容围绕着名为“天诛”的网站展开。故事的背景设定在日本东京都，主要描写两名少女在公园中讨论天诛网站的传说以及其相关的神秘事件。天诛声称能够代替法律惩罚恶人，随着一些被指控的恶人在神秘情况下死去，该网站引起了警方的关注，但由于其复杂的防护措施，警方无从下手。小说通过对少女们对话的呈现，描绘出时代青春的无知与天真，同时也探讨了法律与正义之间的模糊界限。文中涉及了自我认知与社会道德的反思，展现了一种超现实的恐怖色彩和对现实的无奈。与主线故事相辅相成的是少女们的日常对话，例如：“好想吃冰棒阿……”，这让故事显得生动且贴近年轻人的生活。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_都市传说（三）.docx]([变身]_都市传说（三）
 | Size            | 46576 bytes                           |
 | MD5             | ecc73a6fe41c31fb91ddf1cc763ed1ae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 忘卻                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-04-02                                 |
+| Tags            | 都市传说, 天诛网站, 少女, 恐怖, 悬疑, 超现实, 性别认同, 自我探索, 青春, 人际关系, 正义与法律, 网络文化, 精神冲突, 反乌托邦, 逐渐揭开的真相                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

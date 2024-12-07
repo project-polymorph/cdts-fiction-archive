@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮友的双重人生（3-4）.doc]([皮物]_皮友的双�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部围绕变身与伪娘主题的小说，主要讲述了角色李香君的双重生活。李香君在一次快递中收到了她心爱的性感服装，并愉快地尝试穿上后，引发了一系列心理与生理上的变化。在描写中，李香君展示了她新购买的衣物，包括一件露背的毛衣和黑色丝袜，以及如何在重塑自身形象中提到的内心矛盾和愉悦感。同时，李香君的儿子林冲在学习中被母亲吸引，目睹了母亲的性感打扮，内心产生了复杂的情感反应，在这个过程中，两人的关系也面临着冲突与禁忌的挑战。该文本涉及大量的性暗示、成人情节，并探讨了性别与身份认同的主题。整体风格具有浓烈的二次元色彩和强烈的性启蒙暗示，内容适合成人文学领域的研究与讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮友的双重人生（3-4）.doc]([皮物]_皮友的双�
 | Size            | 57856 bytes                           |
 | MD5             | e784561bbef82a864863f7ce55107c99                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 性感服装, 母子情感, 性别认同, 二次元文化, 禁忌关系, 心理冲突, 内心探索, 角色扮演, 成人情节, 性启蒙, 黑色丝袜, 露背毛衣, 自我认知转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

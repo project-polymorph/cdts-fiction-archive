@@ -7,7 +7,7 @@ TXT 下载: [[附身]_液体附身能力者-得到夏洛特的身体（2）.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于液体附身能力者的变身小说，讲述了主人公菲利克斯获得了夏洛特的身体后所经历的内心挣扎与身体体验。在上午的运动中，菲利克斯意识到日常生活的细节与夏洛特的记忆开始交织，回忆中充满了对友谊的珍惜与对爱情的渴望。他在操场上奔跑，试图理解和融入夏洛特的生活；但在情感的探索中，他却发现了自身对夏洛特的深厚感情。文中描写了菲利克斯在身体感知上的变化，以及在校园公园中与自己情感碰撞的情景，尤其是最后涉及他在夏洛特身体里的自慰行为，暗示了一种对性别与自我的认同和冲突。文章风格偏向成人向，涉及到性与跨性别的复杂情感和体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_液体附身能力者-得到夏洛特的身体（2）.docx
 | Size            | 15626 bytes                           |
 | MD5             | 8387955269dea6e75fa9663110697f39                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 液体附身, 变身小说, 性别认同, 二次元, 友情, 爱情, 青春期困扰, 心灵探索, 自我意识, 跨性别体验, 自慰, 校园生活, 身体认同, 情感挣扎, 女性视角, 幻想文学, 爱与欲望, 身份迷失, 身体与心灵的冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

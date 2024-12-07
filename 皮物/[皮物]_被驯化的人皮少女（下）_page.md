@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_被驯化的人皮少女（下）.doc]([皮物]_被驯化�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《被驯化的人皮少女（下）》是一部描绘青少年与跨性别主题的小说，主要讲述了两个女主角程璧君与周雅婷之间复杂的友谊与情感。小说中，两人在同床共处的情景中，璃君因惧怕变成大叔而表现出对友谊的珍视。随着情节的发展，璧君的性别和身体逐渐发生变换，出现了与周雅婷的亲密互动，包括口交和性交的描写，呈现了强烈的情色内容和对身体转换的探索。小说探讨了一些关于性别、认同和欲望的主题，尤其是如何在性别变换中寻找和认同自我的过程。文本中包含多种较为露骨的性行为描述，体现了角色对身体和性行为的认知与冲突，以富有想象力的方式探讨了性别认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_被驯化的人皮少女（下）.doc]([皮物]_被驯化�
 | Size            | 33792 bytes                           |
 | MD5             | 7397e8d7c29763dc8301546d2744c04b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 变身, 强烈情感, 年龄差, 百合, 色情, 性别认同, 生理冲突, 青春期, 二次元文化, 身体意识, 情侣                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

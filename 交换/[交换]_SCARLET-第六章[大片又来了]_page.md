@@ -21,7 +21,7 @@ TXT 下载: [[交换]_SCARLET-第六章[大片又来了].docx]([交换]_SCARLET-
 | Size            | 51869 bytes                           |
 | MD5             | d758ddbf0180f552beb918952f83ec35                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | Jessica Drew                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

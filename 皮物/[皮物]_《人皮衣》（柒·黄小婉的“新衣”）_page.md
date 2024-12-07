@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《人皮衣》（柒·黄小婉的“新衣”）.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《人皮衣》，是柒·黄小婉的故事，围绕着一起20年前的离奇失踪案展开，涉及性别转换、身份认同以及复仇等主题。故事中，知名的科学家黄石杰在经历一系列丑闻后，痛苦地面对其女儿黄小婉的身份遭到他人霸占的境地。潘高峰以其女儿的身份出现，揭露了他与黄石杰之间的过往恩怨。在情节中，潘高峰通过实施一项人皮药剂的阴谋，成功将黄小婉的身份占为己有。随着故事的发展，黄石杰的命运急转直下，他最终选择自杀来逃避责任。全文描述了角色之间复杂的心理斗争和身份错位，融入了大量限制级内容，情节包含强烈的性暗示和身体占有等元素，使得题材极具争议性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《人皮衣》（柒·黄小婉的“新衣”）.doc]([�
 | Size            | 55296 bytes                           |
 | MD5             | 1a4bbffe54b53b371fda335197de0278                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 复仇, 身份占有, 心理斗争, 变身, 人皮药剂, 强暴, 自杀, 学术造假, 伪娘, 男性转女性, 禁忌关系, 阴谋, 背叛, 情感纠葛, 限制级                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

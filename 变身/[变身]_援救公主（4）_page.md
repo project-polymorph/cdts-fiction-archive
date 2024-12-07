@@ -7,7 +7,7 @@ TXT 下载: [[变身]_援救公主（4）.docx]([变身]_援救公主（4）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一段冒险旅程的故事，主要围绕迪娜公主和她的骑士罗尼克展开。在故事中，迪娜与罗尼克从一处被女巫关押的地方逃出，期间遇到了名为克莱达尔的骑士，他们在旅途中重拾希望，讨论着回归托曼蒂亚王国的期望。故事中描绘了角色之间的紧密关系和心理变化，罗尼克为救援队牺牲了部分成员，有些被女巫施加了变形的魔法，而迪娜怀着强烈的想念回家的心情，展现了人性的探索与坚韧。文件中不仅有动人的对话，如“我太高兴了。我简直迫不及待地想回家，再见到我的父母亲了”，还详细说明了角色的背景和变化，包含对于过去失落感的反思及对未来的憧憬。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_援救公主（4）.docx]([变身]_援救公主（4）.doc
 | Size            | 25863 bytes                           |
 | MD5             | 703cf6bc43e75cfb0b5246182d9f6e70                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Shamus                               |
+| Region          | 未知                               |
+| Date            | 2017-09-07                                 |
+| Tags            | 变身, 性别认同, 冒险, 魔法, 女巫, 骑士, 王国, 救援, 自我发现, 归属感, 女性视角, 角色发展, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

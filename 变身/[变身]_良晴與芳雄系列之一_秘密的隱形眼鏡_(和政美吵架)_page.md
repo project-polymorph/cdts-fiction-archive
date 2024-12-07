@@ -7,7 +7,7 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_秘密的隱形眼鏡_(和政�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关系列小说中的一篇，名为《秘密的隐形眼镜》。故事围绕角色良晴与芳雄的对话展开，良晴使用了一种特殊的隐形眼镜，能让他复制女性的身体，从而体验不同的性别认同和角色扮演。文本内容轻松幽默，良晴与芳雄讨论了隐形眼镜的效果和用途，以及良晴在学校中的生活场景。在最终的对话中，良晴提及了自己和政美的关系，展现了青春期角色对性别身份和情感的探索。整体而言，这是一篇融合了变身与青春校园元素的小说，伴随一些调皮和幻想成分。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_秘密的隱形眼鏡_(和政�
 | Size            | 80896 bytes                           |
 | MD5             | 1bd85f31e18b63080f70d7e4fa1699e5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 青春校园, 隐形眼镜, 性别探索, 角色扮演, 良晴, 芳雄, 政美, 奇幻故事, 轻松幽默, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

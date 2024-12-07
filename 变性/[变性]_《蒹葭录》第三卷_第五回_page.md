@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第三卷_第五回.doc]([变性]_《蒹葭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《蒹葭录》第三卷第五回记录了一场复杂的武侠斗争，围绕着角色苏离和苏瑶的较量展开。故事中有着激烈的战斗场面及角色之间微妙的情感纠葛，特别是在关键时刻，角色内心的挣扎和拳拳到肉的战斗感交织在一起。苏离试图在纷乱的局势中生存，表现出她非凡的武功和智谋；而苏瑶作为另一主角，既有侠肝义胆的气概，又背负着复杂的心理秘密，试图在友谊与职责之间找到平衡。文本通过引人入胜的斗殴场景和角色心理描写，使得整段故事充满紧张感与悬念。此外，故事的背景设定在一个充满阴谋与挑战的古代江湖，涉猎了性别认同、侠士冲突的主题，引发读者对角色内心的自我探索与情感的深层思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第三卷_第五回.doc]([变性]_《蒹葭
 | Size            | 57856 bytes                           |
 | MD5             | 4154f57ef1938a32eb72503efa4f7765                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 武侠, 情感纠葛, 角色心理, 暗杀, 邪教, 江湖, 战斗, 自我探索, 侠士, 复杂人物, 生死对决                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

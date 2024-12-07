@@ -7,7 +7,7 @@ TXT 下载: [[附身]_来自未知的馈赠-第1-4章.docx]([附身]_来自未�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为网络小说‘来自未知的馈赠’的前四章，讲述了一名大四学生林夕在获得超自然能力后的故事。林夕是一名三流大学的学生，面临着就业压力。他在某个不眠之夜幻想通过附身他人来逃避现实，并在梦中遇到了一团光体，获得了灵魂出窍和附身他人身体的能力。他决定将自己的灵魂附身到同班女生王雪娇的身上，探索这种全新的能力，并逐步揭秘其带来的快感和对他人记忆的操控。小说探讨了自我认知、欲望与超自然现象的结合，包含大量对性别、身体和心理的反思与实验，情节中描绘了性别转换与身体界限的模糊。作品同时包含限制级内容，涉及强烈的性暗示和角色之间的性关系，读者需注意。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_来自未知的馈赠-第1-4章.docx]([附身]_来自未�
 | Size            | 30901 bytes                           |
 | MD5             | 383fa0bc4677d8e3735dac988e26e1e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 跨性别, 灵魂出窍, 性幻想, 快感探索, 记忆操控, 女主视角, 都市小说, 科幻元素, 自我认知, 欲望交易, 超自然能力, 青春期焦虑, 性别认同, 恋爱心理, 二次元文化, 变化与冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

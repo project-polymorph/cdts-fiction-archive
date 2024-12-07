@@ -7,7 +7,11 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_番外篇趙總篇.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇跨性别主题相关的情色小说，描绘了一位年轻女性与一位年长男性之间充满性暗示和挑逗的故事情节。故事中的角色赵霞，在一场生日派对后，利用性暗示和药物的效果与名为连总的富豪进行了一系列亲密接触。文中详细描述了两者之间的性爱场面，包括身体的敏感调侃与亲昵互动。
+
+故事开场在华哥尔的办公室，赵霞与连总进行着激烈的性爱，文中包括对身体特征的详细描绘和性行为中的对话，展现了角色的性欲和欲望的交锋。文中不仅强调了身体的美，同时也涉及到情感上的依附与操控，赵霞在故事中同时表现出娇羞与诱惑，形成了一个纠结而又丰富的情节。
+
+此作品探讨了权力与性欲的关系，尤其是年轻女性如何在成年男性面前展现魅力。同时，文本中夹杂了一些会引起读者思考的情感困境，以及人物之间的心理游戏。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_番外篇趙總篇.doc]([�
 | Size            | 50176 bytes                           |
 | MD5             | d781cc01420858b25988e572dea3e7f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 情色小说, 跨性别, 权力关系, 性欲, 自我探索, 性爱细节, 年轻女性与年长男性, 角色扮演, 性暗示, 情感操控, 办公室性爱, 人际关系, 性别认同, 身体描写, 心理游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我妈是魔女（短篇，完结）.doc]([皮物]_我妈�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于徐志的短篇小说，他是一名在外貌上与母亲相差甚远的普通男孩。故事中，作为家庭的一员，他一直觉得母亲的美貌令人震撼，而自己则相貌平平。小说通过徐志的心理描绘，展现了他对于改变外貌的渴望。在一次整理家中的储物室时，他发现了一本神秘的《魔女传记》，书中暗示要通过阴阳交汇的方式才能改变自己的外貌。为了实现这个愿望，他决定进行一次奇特的仪式，并不知这将引发一系列意外的变化。最终，徐志在无意间穿上了一件能让他变成母亲的皮物，而他自己的外貌和身份也因此发生了翻天覆地的变化。故事涉及性别认同、自我探索以及家庭关系等复杂主题，情节中夹杂着幻想与情色元素，描绘了徐志从男孩到女性的心理转变与身体体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我妈是魔女（短篇，完结）.doc]([皮物]_我妈�
 | Size            | 117248 bytes                           |
 | MD5             | c624c5534eb0d0e3891491bc0da0c888                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 母子关系, 自我探索, 魔法, 换身, 青春成长, 奇幻, 性别认同, 二次元, 幻想, 欲望, 家庭冲突, 变嫁, 女体化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_西游情厄传（第十五回）.docx]([其他]_西游情
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《西游情厄传》第十五回，书中描述了飞龙郡主的成长经历及其在擂台上打擂比武的情景。丛林中的春光怡人，飞龙郡主因成长而愈发娇媚，内心的感情逐渐复杂，展现了其对自我认同与情感的探索。故事开始，飞龙独自到后园游玩，遇见一位年轻俊秀的男童，二人因春心萌动而互生情愫。然而，正当两人意图亲密时，驸马为女儿的婚事感到焦虑，决定为飞龙设立擂台比武来挑选合适的丈夫。在擂台上，随着各路英雄的到来，飞龙展现了她的武艺，挑战并击败多个对手，最终引出了一位英俊的少年公子，二者在擂台上展开了一场精彩的武技比拼。这场比武不仅是实力的较量，也蕴含着情感的暗流，最终飞龙不得不面对逐渐升温的情感与父母对她未来的期望。整体故事探讨了性别认同、自我探索及情感关系等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_西游情厄传（第十五回）.docx]([其他]_西游情
 | Size            | 21228 bytes                           |
 | MD5             | 0933b30a7f9c01260dcaa6b88f1ad222                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 飞龙郡主, 擂台比武, 性别认同, 成长经历, 自我探索, 二次元文学, 武侠, 情感关系, 奇幻小说, 古代爱情, 心理冲突, 性别转换故事, 运动与竞技, 虚构角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

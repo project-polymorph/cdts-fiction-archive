@@ -7,7 +7,9 @@ TXT 下载: [[附身]_恐惧降临（四）.docx]([附身]_恐惧降临（四）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文描绘了一位年轻女教师曲梦雪的故事，她是一所高中的班主任，23岁，刚刚大学毕业。尽管年轻，但她在教育界的表现颇为优异，深受师生的欢迎。然而，曲梦雪背负着父亲是校长的秘密，这也让她对自己能否胜任这一职务产生了怀疑。与此同时，她对妹妹曲梦寒的关心与日俱增，发现妹妹的行为日渐异常，成绩提升的同时，情绪却愈加沉默，也开始逃课。
+
+然而，故事转折之处在于曲梦寒背后隐藏的秘密，似乎与一些不可告人的行为有关。曲梦雪试图在一夜之间解决妹妹的问题时，却意外发现了妹妹的一些私密情节，这让她感到十分震惊和困扰。本文主题围绕性别认同与性探索展开，描绘了角色在关系、压力与个人欲望之间的挣扎，充满了戏剧性的冲突与复杂的人际关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_恐惧降临（四）.docx]([附身]_恐惧降临（四）
 | Size            | 26180 bytes                           |
 | MD5             | 1470683b8bdd12ffb9ce21493750dfb0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 姐姐妹妹, 校园生活, 情感纠葛, 性别认同, 自我探索, 强烈探讨, 情感冲突, 禁忌关系, 成长故事, 青春心理, 家庭关系, 剧情反转, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

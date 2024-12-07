@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_异世界背后灵给我讲小黄文？.docx]([皮物]_异
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是来自异世界斯提里科大陆的一个幻想小说，主要围绕灵魂出窍的主角莫里斯与其他角色的互动展开。故事以莫里斯的异能为开端，讲述了他如何穿越到一个新的世界并与人对话获取记忆。接着，文件详细描述了王国的统治者法妲妮娅女王，以及她的儿子埃提乌斯的成长烦恼，整个故事交织着复杂的人物关系与政治背景。法妲妮娅女王致力于王国的繁荣，而埃提乌斯在被母后限制参与政事感到不满，这反映了母子间的矛盾与对国家未来的思考。此外，文件中还提到外来种族蛛魔的出现，对原精灵王国的影响和潜在的冲突，让情节更加紧张有趣。整个故事融合了奇幻、冒险与成长的元素，围绕着性别认同与社会变化的主题，展现了一个充满想象的二次元世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_异世界背后灵给我讲小黄文？.docx]([皮物]_异
 | Size            | 23817 bytes                           |
 | MD5             | 3eff16b854549c06d6093a192fdd59ae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异世界, 灵魂出窍, 性别认同, 精灵, 王国, 冒险, 成长, 政治斗争, 幻想, 伪娘, 变身, 强权与反抗, 自我探索, 暴力与和平                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【新人报道】神奇实验室1-5.doc]([其他]_【新�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档主要描绘了一名男主角在神奇实验室中经历的一系列奇幻与恐怖的事件。故事开始时，男主角和他的好友阿林一起进入研究生生活，因外部就业压力选择继续读研。在一次实验中，他遭遇到一位自称“上帝”的实验室负责人，巧妙运用科技手段诱导他急速变化的身份。随着故事的发展，男主角感受到科学与身份的双重极限，身体发生了不可逆转的性别转变，心理上经历了深刻的自我认同危机与身体异化感。文中混合了科幻、变身与心理探索的主题，展现了性别认同、身体控制和意识别离的复杂关系。文章中含有涉及性别转换的强烈情节与感知，并涉及对人性的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【新人报道】神奇实验室1-5.doc]([其他]_【新�
 | Size            | 48128 bytes                           |
 | MD5             | 1a963680899529b3a55d59447cea5125                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 科幻, 自我认同, 身份危机, 实验室, 伪娘, TSF, 心理探索, 人性探讨, 身体异化, 科技伦理, 梦境, 灵魂, 人皮                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

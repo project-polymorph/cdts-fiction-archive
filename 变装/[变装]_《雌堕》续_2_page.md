@@ -7,7 +7,7 @@ TXT 下载: [[变装]_《雌堕》续_2.doc]([变装]_《雌堕》续_2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《雌堕》续_2，主要围绕一个名为宋文珂的角色展开，描述了他在醉酒后被保镖张然送回家，在返回的路上与保镖的对话以及其背后的隐秘关系。文件中涉及到宋文珂在梦境和现实中遭遇了一系列困扰他的事件，包括对他性别和身份的矛盾体验。随着剧情发展，宋文珂被卷入到跨性别及性别认同的复杂情感中，尤其在被绑架之后所经历的种种可怕和羞辱的情景，以及与他相关的身份认同和探索问题，在角色自我认知的过程中展现出性别转换的特殊内涵。文中包含了一些限制级内容，涉及对身体和性别的极端描绘，如“被绑在床上的少年”“被迫学习雌兽的行为”等，表现出角色在生理与心理上的冲突。文件广泛运用了对话与独白的结构，展示了角色的内心挣扎与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_《雌堕》续_2.doc]([变装]_《雌堕》续_2.doc)
 | Size            | 35840 bytes                           |
 | MD5             | dbcb3bff1fe4b17b53b2f622ddfeed95                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 梦境, 性转小说, 羞辱, 自我探索, 身体意识, 情感纠葛, 变身小说, 伪娘, 被绑架, 情感冲突, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_上流社会（3）.docx]([皮物]_上流社会（3）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《上流社会（3）》是多元性别相关的虚构小说作品，围绕角色李俊希与大小姐尹恩娜之间的情感纠葛展开。这一部分描绘了李俊希在受伤后，尹恩娜细心照顾他的温暖场景，以及在身体转换与性别认同之间的微妙互动。当尹恩娜感受到李俊希的痛苦，并且在喂药与亲密拥抱中，两人之间的关系逐渐升温。文件进一步展现了尹恩娜从男孩变成女孩的心路历程以及对李俊希的情感，这样的描写不仅挑战了传统性别观念，也探讨了更深层的性别认同与个人情感之间的复杂关系。与此同时，文中还涉及某些情节的发展，如对权力与控制的怀疑，以及角色之间的秘密情感，构筑了一个充满悬念与戏剧性的情节结构。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_上流社会（3）.docx]([皮物]_上流社会（3）.doc
 | Size            | 36389 bytes                           |
 | MD5             | ac6d6ccda2d2c8b1a417368616128b61                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 变身小说, 伪娘, 跨性别, 爱情, 情感纠葛, 自我探索, 角色性别认同, 都市幻想, 心理冲突, 虐恋, 女性视角, 豪门恩怨, 人际关系, 药物效应                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_[linchong翻译]美好人生3（带图版）.docx]([变性
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《美好人生3（带图版）》是围绕角色古斯塔的性别认同与自我探索展开的小说。故事围绕古斯塔的内心挣扎与变装体验，描绘了他在情感低落时的心理状态，以及他与母亲索菲亚的关系。古斯塔在情感低谷中回忆起与母亲一起变装的经历，渴望以女性身份呈现自己。随着故事的发展，古斯塔透过购买女性服饰逐渐接受自己，体验到了性别转换带来的内心平静与满足。特别是与好友查理（变为麦姬）之间的互动，进一步反映了角色对性别认同的探索与接受。文件涉及的情节包含性别认同、自我探索和对传统性别角色的挑战，展示了不同个体在性别认同与社会压力下的内心冲突与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_[linchong翻译]美好人生3（带图版）.docx]([变性
 | Size            | 26212 bytes                           |
 | MD5             | f9a14f8219c395e0422077b738e1c92d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 自我探索, 情感挣扎, 女性服饰, 内心平静, 好友关系, 情感支持, 成长故事, 二次元, 青春小说, 伪娘, 男性视角, 强烈心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

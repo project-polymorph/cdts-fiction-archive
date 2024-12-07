@@ -7,7 +7,7 @@ TXT 下载: [[交换]_（群体交换）公寓的邪淫趣事.doc]([交换]_（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了陈金水，一位中年男子，他在失业后遭遇到生活的各种压力。在一个偶然的机会中，他收到了一个神秘短信，宣称可以获得身体互换的能力。故事的转折点发生在他按照短信的指示，试图与美丽人妻刘雅倩进行身体互换，结果让他体验到了女性的身体。小说深入探讨了性别角色互换后的心态和自我认知的变化，同时描述了多位角色的背景及其复杂的人际关系，包括刘雅倩、她的女儿萧雨亭，以及周围的其他角色。作者通过细腻的心理描写，描绘了角色们的情感纠葛和对于性的探索，展示了性别认同与身体关系的交错。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_（群体交换）公寓的邪淫趣事.doc]([交换]_（�
 | Size            | 56832 bytes                           |
 | MD5             | 06c0fe9bbd7303bed02ce21e7172df49                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 身体互换, 角色扮演, 性别认同, 心理描写, 城市生活, 家庭关系, 青春期, 跨性别, 欲望, 自我探索, 性别角色, 伪娘, 变换身体, 黑丝, 高跟鞋, 强烈欲望, 日常生活, 社交冲突, 逆转角色, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

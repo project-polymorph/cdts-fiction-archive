@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_交错的锁钥3-4.docx]([皮物]_交错的锁钥3-4.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的一部分，主要讲述了一个密室谋杀案的经过。故事围绕主角林紫依及其两名朋友展开，他们在发现死者王成风的尸体后，参与了警方的调查。文件中详细描述了现场的情况，人物之间的互动，以及死者周围的环境。特别提到一串钥匙被扣在尸体的裤腰上，以及角色们如何尝试揭示这一密室案件的真相。在案发现场，主要角色目击了许多细节，如房间的布置、死者的遗物，以及可能的自杀动机，引发了一系列悬疑推理。故事涉及了心理、情感等主题，尤其是角色间复杂的关系与情感交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_交错的锁钥3-4.docx]([皮物]_交错的锁钥3-4.docx)
 | Size            | 27784 bytes                           |
 | MD5             | 56b11650b2cbaa4a0f93ce4726efd5a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 密室谋杀, 自杀, 侦探推理, 心理悬疑, 跨性别, 伪娘, 性别认同, 角色发展, 情感纠纷, 社交互动, 犯罪, 二次元, 校园故事, 复杂关系, 死者调查, 阴谋论                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

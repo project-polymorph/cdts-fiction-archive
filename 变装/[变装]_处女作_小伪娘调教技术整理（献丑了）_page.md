@@ -7,7 +7,7 @@ TXT 下载: [[变装]_处女作_小伪娘调教技术整理（献丑了）.doc](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于伪娘调教和心理学的小说，内容涉及一名年轻大学讲师对伪娘的独特兴趣和其与学生之间的复杂关系。讲师的性格描绘为变态，他对征服欲和调教的渴望驱使着他在寻求可爱的伪娘的过程中，表现出对生理性别和社会角色认知的冲突。故事开始于学院，讲师指派一名名为张天傲的学生去见心理指导师，实际上，讲师对张天傲的心理状态和身体表现产生了浓厚的兴趣。小说中利用角色之间的心理游戏，展现了对性别认同、心理操控及调教的探索，涉及场景中出现性相关的内容，且描绘了对角色的外表变化和心理状态的细腻观察。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_处女作_小伪娘调教技术整理（献丑了）.doc](
 | Size            | 358400 bytes                           |
 | MD5             | d3ddae34534b4e87add499defc095d00                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-10-01                                 |
+| Tags            | 伪娘, 变身, 调教, 性别认同, 心理游戏, 年轻教师, 学生, 征服欲, 社交心理, 性转, 强奸, NTR, 变嫁, 女体化, 闯入, 互动心理, 情感冲突, 学园生活, 青春成长, 反叛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

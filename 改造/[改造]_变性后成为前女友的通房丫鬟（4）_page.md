@@ -7,7 +7,7 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（4）.doc]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说的主要情节围绕着一个正在经历变性过程的角色展开。他的生活从被迫适应女性角色开始，面临着许多内心的冲突和社会的压力。故事中，角色与林海宁展开了一段复杂的关系，林海宁是一个富有的角色，他对主角的变性过程表现出特殊的关心和独占欲。随着故事的发展，主角逐渐接受了自己的身份以及与林海宁的微妙关系，同时也必须面对社会对女性的不方便与诸多挑战。文中详细描述了从情感的剖析到心理的挣扎，结合了变性手术前的准备、社交生活的改变以及主角的内心转变。同时，小说中还涉及了诸如激素治疗、职场适应以及与昔日恋人的重逢等情节，营造出一种既悲伤又充满希望的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（4）.doc]([改�
 | Size            | 44032 bytes                           |
 | MD5             | 0bb4574e6be68b697b2f36127983fb59                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 情感纠葛, 伪娘, 职场, 自我探索, 激素治疗, 情感支持, 社会压力, 性别认同, 爱情, 青春成长, 家庭关系, 禁忌恋物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

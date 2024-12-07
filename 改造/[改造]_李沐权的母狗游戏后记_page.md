@@ -7,7 +7,7 @@ TXT 下载: [[改造]_李沐权的母狗游戏后记.doc]([改造]_李沐权的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是《李沐权的母狗游戏后记》的后记部分，内容涉及多位角色之间复杂的亲属关系及性别身份的变换，展现了伪娘和性转换的情节。文本中一位女子（李沐权）和她的伴侣（娜娜）共同抚养孩子，同时在角色之间的对话中揭示了互换性别和身份的趣味与混乱。文中出现了小女孩和成人角色之间的互动，特别是关于性别和家庭角色的转变、饮酒后产生的愿望背景，以及这些愿望如何引起角色的性别变化与身份转变。段落中人物的对话轻松幽默，反映出一系列家庭生活的趣事，尤其是多个母亲的称谓混乱而又富有趣味性。整体来看，文件描绘了一个充满性别探索和角色互动的家庭环境，包含了一些成人向的内容，其中暗示了色情关系但保持了一定的幽默感和轻松口吻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_李沐权的母狗游戏后记.doc]([改造]_李沐权的�
 | Size            | 35840 bytes                           |
 | MD5             | 78afbfac4fdb858eede83036dac5c9b2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 变身小说, 家庭关系, 跨性别, 性转, 幽默, 二次元, 成人向, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

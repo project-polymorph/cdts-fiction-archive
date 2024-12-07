@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_淫纹.doc]([皮物]_淫纹.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《淫纹》的伪娘相关小说，作者为灯台守，译者为露娜·埃葵斯。该故事围绕一位试图打败居住在森林深处魔女的角色展开，传闻打败魔女后可以获得她的宅邸与财富。故事的主角在潜入魔女宅邸后被发现，并在魔女施展魔法后，被迫进入了一种神秘的少女皮壳中。魔女在主角身上刻下了一个称为‘淫纹’的符号，这是一种能提升身体敏感度的魔法印记。随着情节发展，主角的身体逐渐被快感包围，却又无法逃离魔女的束缚。故事里充斥着对角色心理挣扎和身体感受的描写，探索了性别与身份的复杂关系，涉及大量色情和调教元素，读者可以从中观察到角色自我认同的变化和探寻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_淫纹.doc]([皮物]_淫纹.doc)
 | Size            | 31232 bytes                           |
 | MD5             | 3e9da8db2e18488524f0184f59398b6a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 灯台守                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔女, 皮物, 少女皮壳, 调教, 禁忌快感, 性别认同, 跨性别, 快感束缚, 淫纹, 使魔契约, 自我探索, 未知身份, 奇幻元素, 二次元情节, 魔法, 伪娘转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

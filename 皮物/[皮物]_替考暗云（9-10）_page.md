@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_替考暗云（9-10）.doc]([皮物]_替考暗云（9-10�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一段关于意识与身体替代的小说章节内容，讲述了角色汪凯在面对一系列变身与性别替代的情节。故事通过汪凯的视角，揭示了他对家庭关系的复杂情感与内心冲突。具体情节包括他对小玲与江晴（母亲）之间奇怪关系的发现，以及他在替考事件之后的思考和对待环境的警觉。小说描绘了替代与身份认同的主题，情节中出现了奇幻元素，涉及改变身体与性别的情境，展现了人物之间微妙的人际关系和心理状态。在其中，汪凯一方面面对着外在的伪装与真实的冲突，另一方面内心深处的怀疑与恐惧加深了情节的紧张感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_替考暗云（9-10）.doc]([皮物]_替考暗云（9-10�
 | Size            | 50176 bytes                           |
 | MD5             | 76e379b47558e4d48a18aaaa9ca7f76f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别替代, 变身, 跨性别, 家庭关系, 意识冲突, 伪装, 心理惊悚, 幻觉, 故事情节发展, 自我认同, 性别认同, 替考, 母子关系, 科幻, 奇幻, 恐怖, 伦理问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

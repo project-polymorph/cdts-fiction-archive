@@ -7,7 +7,7 @@ TXT 下载: [[附身]_2_我是腿控，但我那拥有凭依能力的挚友是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇包含变身、性别认同与超自然能力主题的小说，主要讲述了高中的男生秋人和他的同学柚木之间的故事。在午休时间，秋人的腰部因前一天的激烈活动而感到不适。他在教室中遭受到同学佐藤的霸凌，而柚木出乎意料地为他辩护，展现出她的勇气和魅力。故事后半部分深入描绘了秋人与柚木在天台的私密互动，柚木的身体被另一个男生龙也所占据，两人之间的动态和对彼此的吸引交织在一起。文件中包含大量关于角色间微妙情感变化的描写，以及对外貌的细致刻画，如柚木的腿和胸部。文本涉及一些限制级内容，包括性暗示和场景，因此适合特定的受众群体。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_2_我是腿控，但我那拥有凭依能力的挚友是�
 | Size            | 44544 bytes                           |
 | MD5             | cc96386d9e3c2830295dfe4237e30338                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 校园, 恋爱, 强奸, 年龄差, 女体化, 逆后宫, 调教, 强暴, 性幻想, 纯爱, 鬼畜, 青春, 幻想, 悬疑, 情感纠葛, 权力游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

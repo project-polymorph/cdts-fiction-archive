@@ -7,7 +7,7 @@ TXT 下载: [[变身]_照片（三）.docx]([变身]_照片（三）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘 TS 变身与跨性别相关小说，主要讲述了一个男生被他的朋友小琳变成"她"的生活经历。故事从时间过去了两年开头，男主被迫担当了小琳的替身，经历了多次与不同男生的亲密接触，甚至一起参与了生活的方方面面。这包括帮小琳上课、洗衣服、参加球队训练，而他本人的实际身份与感受却被完全掩盖。在与男生们的亲密关系中，男主逐渐失去自我，甘愿接受这样的生活状态，甚至对小琳的命令和操控感到依赖与服从。小说中详细描绘了男主与小琳之间复杂的关系，以及他内心的挣扎与困惑。小琳巧妙地操控着局面，通过交换身体与身份来实现自己的目的，这种围绕性别、身体和认同的主题在文本中反复出现，突显了个体在性别认同与自我意识中的斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_照片（三）.docx]([变身]_照片（三）.docx)
 | Size            | 22876 bytes                           |
 | MD5             | 12e38566910c5adfa8ab266a466c8143                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 心理探索, 性别认同, 强奸, 淫荡, 调教, 多人, 女体化, 校园生活, 爱情, 魔法, 游戏, 奇幻, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_最高境界的调教（二）一品烟灰作品.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部作品《最高境界的调教（二）》由一品烟灰创作，包含了跨性别和性转的主题，主要描述了一名角色在被监禁后遭受调教及人身控制的情节。故事中，主角被一个邪恶的男人囚禁，并被迫在心理和身体上经历调教。文章中提到，男主声称要通过训练将主角变成为听话的小母狗，并利用鞭子和项圈将其控制。整篇作品展示了极端的屈辱和痛苦，主角在痛苦中渐渐屈服于这种机制。情节中通过对主角的内心独白，展示了角色对自我认知的挣扎，其中提到：“我是一个天才，不是变态。只要我纠正了‘她’，便能纠正我自己。” 这部作品深入探讨了性别认同和自我幻想之间的关系，同时也涉及到一些限制级的内容，适合成人观众。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_最高境界的调教（二）一品烟灰作品.docx]([�
 | Size            | 19049 bytes                           |
 | MD5             | b866c0bbd63c1ed903c9a78c0a58ebb8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 一品烟灰                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 调教, 跨性别, 屈辱, 心理变化, 恶魔, 自我认知, 羞耻, 服从, 男人与女人, 生存与操控, 极端情感, 饮食控制, 心理操控, 非人化, 男女对比, 失落的身份, 精神崩溃, 情感纠结                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

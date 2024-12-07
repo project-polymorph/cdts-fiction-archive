@@ -7,7 +7,7 @@ TXT 下载: [[其他]_三篇短篇故事.doc]([其他]_三篇短篇故事.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含三篇短篇故事，均由作者Maryanne Peters创作，通过三个不同角色的视角探讨性别认同和性别变换的主题。第一篇《我的独角戏》讲述了一名男孩巴兰登如何在芭蕾舞团秘密变身为一个女孩布伦达，尽管在家人面前依然保持着男孩的身份，但在舞台上他展现出优雅的女性形象。故事呈现了他对女性形象的渴望和为了变得更加女性化所做的努力，以及姐姐在其中的支持角色。第二篇《错误的诊断》通过角色安妮和警察麦克的互动揭示了精神病院中关于性别障碍的秘密治疗实验，安妮在被催眠和药物控制下自愿接受性别转变，但最终获得了新生并嫁给了麦克。第三篇《娘娘腔克里斯和他的男朋友》描绘了克里斯在被同班同学瑞克发现穿着姐姐的芭蕾舞衣之后，经历了身份的迷茫和性别角色的混淆，最终接受了自己的新身份。整部作品探讨了性别认同、自我探索、以及在传统性别角色中的挣扎与接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_三篇短篇故事.doc]([其他]_三篇短篇故事.doc)
 | Size            | 32768 bytes                           |
 | MD5             | 7023f469df80927ea816cdd09d610229                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Maryanne Peters                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 芭蕾舞, 精神病院, 自我探索, 跨性别, 变装, 舞台表演, 药物实验, 家庭关系, 情感纠葛, 秘密历史, 青少年困惑, 强迫改变, 女性化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_大蛇的女儿们，故事二，微重口_(2).docx]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为伪娘 TS 变身相关的小说作品，讲述了角色帕克与变性后名为克丽丝的角色间的复杂关系。故事开篇时，帕克在睡觉中感受到一名少女在为他口交，随后发现对方竟是他的朋友克劳德的新形态。他愤怒而恐惧，但无奈被克丽丝所诱惑，故事发展介绍了他们之间的性关系以及帕克内心的恐慌与挣扎，情节中包含了强烈的性暗示和生理变化。小说展示了角色之间的互相依赖与操控，探讨了性别认同和大变身带来的冲突。文件内容涉及较高强度的成人情节，包括性行为、精神操控以及角色之间的相互影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_大蛇的女儿们，故事二，微重口_(2).docx]([改�
 | Size            | 26745 bytes                           |
 | MD5             | d39400fbc12cabc5230d712d2612290d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 强制性行为, 魔法, 强烈的独占欲, 死灵复仇, 心理恐怖, 乱交, 非主流群体, 生死抉择, 自我认同, 月经, 性奴役, 超自然元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第十六章+后记.doc]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说类型的档案，主要讲述了一位狐妖侍女在青丘国内的故事，主人公有苏清云因其亲兄长的失踪而成为了族中的少族长。在这部分中，清云不仅展示了女性的打扮与身份认同，还揭示了他内心的复杂情感与矛盾心理。清云的外表如同少女般清丽，逐渐放下了过去性别模糊的形象，自信地以女性形态示人，受到周围狐妖的认可与接纳。随着婚礼的临近，他被邀请作为朋友的伴郎，内心对此感到既期待又有些挣扎。文件中详细描绘了清云与其兄长的关系、他的双重身份及他在婚礼前与妖女秦雨秋的意外重逢，展现出浓厚的性别认同和自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第十六章+后记.doc]([皮�
 | Size            | 85504 bytes                           |
 | MD5             | fbd49148fd4b29ae19326b0ec2c03883                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 婚礼, 青丘国, 狭义人际关系, 角色认同, 情感冲突, 兄弟关系, 自我探索, 妖族文化, 角色扮演, 调教, 性别认同, 二次元文学, 爱情故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

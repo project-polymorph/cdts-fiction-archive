@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_婚前风波_4-6.docx]([皮物]_婚前风波_4-6.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《婚前风波（4-6章）》属于多元性别中文数字档案馆中的伪娘/跨性别相关小说文档，主要围绕女主角琪琪的感情与性别认同展开，涉及复杂的情感关系与性别角色变换。故事中的琪琪在日常生活中与男友仲泽的互动显示出了一种微妙的情感张力。章节中，琪琪因生病请假，但在朋友欣欣的鼓励下，决定去酒吧游玩，并与慕容烨展开了一段感情纠葛。她在酒吧的首次见面、饮酒后回家的一系列情节中，表现出对身体的困惑与欲望的挣扎，最后与慕容发生了肉体关系。文本通过细腻的心理描写与激烈的情感冲突，展现了琪琪对自我的探索与认知。内容涉及多次的性暗示和性爱描写，表现了对性别与情感认同的复杂性探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_婚前风波_4-6.docx]([皮物]_婚前风波_4-6.docx)
 | Size            | 26989 bytes                           |
 | MD5             | a6aaa9cdd2d1dd9e62114bec7d5a4045                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 情感纠葛, 性别认同, 自我探索, 酒吧, 性暗示, 欲望冲突, 爱情, 禁忌, 多元性别, 生理与心理的冲突, 社会角色, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

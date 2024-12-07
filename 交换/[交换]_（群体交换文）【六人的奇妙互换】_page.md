@@ -7,7 +7,9 @@ TXT 下载: [[交换]_（群体交换文）【六人的奇妙互换】.doc]([交
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《六人的奇妙互换》讲述了一班车上的六位乘客各自的生活烦恼与内心渴望。在这辆没有司机的车上，乘客们分别是正在怀孕的巨乳人妻尚清雅、乖巧的少女王佳怡、沉稳的中年美妇陶婉、阳光帅气的足球队队长刘畅、无业游民陈运发以及调皮厌学的小男孩孙利。在清晨的车厢里，每个人都对生活充满不满，渴望着改变。随着故事的发展，一道光照射过来，六人突然之间感受到一股神秘的力量，接着每个人都开始经历身份与身体的互换，陶婉与孙利的交换尤为引人注目，细腻地描述了他们在变换后身体与心灵的翻转。
+
+文件中不仅涉及人物的复杂心理，还包含对性别角色与认同的深刻探讨，描绘了从传统的夫妻与母女关系中所衍生的性别认同与自我探索。在这种奇妙的互换中，角色们逐渐发现了对自我性别的全新理解以及行为的变化，展现出多元且富有争议性的性别表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_（群体交换文）【六人的奇妙互换】.doc]([交
 | Size            | 49152 bytes                           |
 | MD5             | 9c5439d016d256ba93baccb85d70b166                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 跨性别, 自我探索, 心理变化, 幻想故事, 孕妇情节, 母女关系, 青春期烦恼, 角色认同, 多元性别, 伪娘, 变身, 身心互换, 奇幻冒险, 都市生活, 禁忌关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,11 @@ TXT 下载: [[改造]_绿坝联盟_(2).docx]([改造]_绿坝联盟_(2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部小说主要讲述了一个年轻男孩被囚禁并经历女性化过程的故事。故事从主角的恐惧和孤独感开始，他被绑架后在一个阴暗的牢房中度过了几个月。在这个无情的环境中，他不仅失去了身份，还逐渐被迫接受身体的变化。小说中描写了独特的心理变化，随着身体的女性化，他的内心挣扎与对自我认知的冲突交织在一起。
+
+在被监视的情况下，男孩不得不面对自己的变化，包括对身体感觉的困惑与新奇。文中有描绘他审视自己身体变化的细节，比如他感到乳头变敏感，皮肤光滑无毛等，暗示了他对自己性别认同的怀疑和逐步的适应。小说通过这个人物的经历探讨了更深刻的主题，如性别身份、权力关系以及自我认同的痛苦与快乐。
+
+在关键情节中，出现了一位女性角色，她以监视者的身份控制着这一切，甚至利用药物加速了男孩的女性化过程，以及 此过程中对他的羞辱和操控，展现了人性阴暗的一面。整个故事隐喻着对身份的剥夺和在极端环境下的心理斗争，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[改造]_绿坝联盟_(2).docx]([改造]_绿坝联盟_(2).docx)
 | Size            | 40563 bytes                           |
 | MD5             | 2db3c64a8e5811f4385502ee24e22658                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 心理斗争, 囚禁, 自我探索, 女性化, 监视与控制, 激素治疗, 性别转换, 跨性别, 奴役, 养成, 强迫, 反抗, 身份丧失, 奴隶心理, 伦理争议, 阴暗面                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

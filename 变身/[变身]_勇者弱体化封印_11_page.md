@@ -7,7 +7,7 @@ TXT 下载: [[变身]_勇者弱体化封印_11.docx]([变身]_勇者弱体化封
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于勇者艾伦与女仆舒莉的变身小说，故事围绕艾伦的性别转变以及她在此过程中与女仆舒莉的互动展开。在文章的开头，艾伦在舒莉的魔力影响下被迫穿上女仆装，衣服的解除仅限于舒莉的触碰，这创造出了一种奇妙而又尴尬的氛围。艾伦对舒莉的主动接近感到困惑和不适，而舒莉则表现出对艾伦的身体充满了好奇与占有欲。整个故事探讨了性别认同和自我意识的主题，艾伦在体验女孩子的生活时，感受到身体的敏感与羞耻，这种纠结的情感让她在理智与欲望之间挣扎。随着情节的发展，舒莉对艾伦的不当接触逐渐加深，让这场不平凡的女仆洗澡变成了一个充满性暗示的场景。小说通过细腻的描写让读者感受到艾伦在转变中的人性化挣扎与内心的混乱。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_勇者弱体化封印_11.docx]([变身]_勇者弱体化封
 | Size            | 31577 bytes                           |
 | MD5             | db0f32d059793e338c5d90446d3f0dee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 女仆, 跨性别, 性转, 女体化, 魔法, 羞耻, 敏感, 勇者, 自我探索, 强烈的性暗示, 人物关系, 二次元, 奇幻, 女性角色, 女友                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

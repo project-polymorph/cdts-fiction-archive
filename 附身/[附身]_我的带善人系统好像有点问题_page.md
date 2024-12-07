@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我的带善人系统好像有点问题.docx]([附身]_我
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档介绍了一位男性角色罗煞的穿越经历。他原本是在现实生活中，只是普通人，但因为一场意外穿越到了他所阅读的小说中，并且成为了其中的一个反派角色。罗煞在小说中是一个魔教长老，拥有夺舍的技能。在穿越到小说世界后，罗煞激活了‘诸天带善人系统’，开始了他的冒险和掠夺。故事中，也描绘了他利用这个系统夺舍女主角白洛的过程，展现了他内心的挣扎与变化。文中的情节错综复杂，既有穿越的奇幻元素，也涉及了角色的自我认知与冲突。罗煞在获得新身份后，慢慢意识到自己与原角色之间的复杂关系、情感和利益。通过夺舍，他不仅改变了自己的命运，也改变了其他角色的命运，展现了变身与性别动态相关的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我的带善人系统好像有点问题.docx]([附身]_我
 | Size            | 23762 bytes                           |
 | MD5             | 10d8a5f70a47dc1473e82efe480d8525                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 穿越, 变身, 夺舍, 角色认同, 性别认同, 魔法, 修真, 恶毒女配, 灵气, 自我探索, 二次元, 故事情节, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

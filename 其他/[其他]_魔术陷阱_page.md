@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魔术陷阱.docx]([其他]_魔术陷阱.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《魔术陷阱》，内容主要围绕一个名叫流小云的男孩与他的义姐黑馆克子之间的互动展开。故事情节中，克子要求流小云扮演一个女性角色，以帮助她完成一个魔术表演。流小云对此表示不满，尤其是因为他过去曾被克子和她的朋友奈亚度过‘女装’的尴尬。但在克子和奈亚的威逼下，流小云不情愿地接受了这一请求，并开始穿上一个人体变形衣，该衣物像人皮一样，能将男性的身体变得更像女性。随着流小云的不安和愤怒，他发现自己身上的变化与其装扮间的矛盾，故事主题逐渐探讨了性别认同、自我探索及在特定社交环境中的压力。同时，文中包含了不少色彩性的描写，表现了灵感发掘与角色冲突的数据。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魔术陷阱.docx]([其他]_魔术陷阱.docx)
 | Size            | 28607 bytes                           |
 | MD5             | 9762fcd7d63d39f8035b9c2dc4780325                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性转, 魔法, 成长故事, 强奸, 校园, 调教, 都市, 自我探索, 身体变形, 人皮衣, 女主角视角, 性别认同, 异世界, 黑暗幻想, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

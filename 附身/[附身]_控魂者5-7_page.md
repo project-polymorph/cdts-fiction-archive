@@ -7,7 +7,7 @@ TXT 下载: [[附身]_控魂者5-7.docx]([附身]_控魂者5-7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《控魂者》第五章的部分内容，讲述了主角吴能在一次神秘变身后，试图适应男性转变为女性（伪娘）后的生活体验。故事通过吴能的心理斗争和生理反应，揭示了性别转换带来的新奇体验和对自我认知的冲突。章节中，吴能努力模仿女性的走路姿势，内心却充满矛盾。他发现自己在适应新身体的过程中，感受到了前所未有的体验，既痛苦又迷恋。同时，另一角色陈林也发现自己拥有特殊的能力，并通过这种能力感受到吴能的情感与思想。眼看人与人之间的关系因身份的转变而变化，吴能也开始思考自己的未来与选择。此文涉及性别认同、自我探索、身体体验等主题，呈现了浓厚的二次元文化氛围和复杂的人物内心。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_控魂者5-7.docx]([附身]_控魂者5-7.docx)
 | Size            | 64895 bytes                           |
 | MD5             | 63cffbef2ff893b4f1a5dfeb2179a8da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 心理斗争, 自我探索, 身体认同, 奇幻, 变身, 同人小说, 二次元, 跨性别, 情感纠葛, 复杂关系, 女性化体验, 内心冲突, 社会认同, 夜总会生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

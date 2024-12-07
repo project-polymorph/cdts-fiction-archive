@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_变装遇到警察，续1.doc]([皮物]_变装遇到警察
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个男生化身女性与女网友见面的故事。故事从主角对上次变装与警察的经历感到后怕开始，接着讲述他因与女友争吵后决定打扮成女性，试图给女网友Anna一个惊喜。在变装过程中，主角运用了道具如假阴和假乳房，并详细描述了化妆和穿衣的过程。文中提到他借用了女友的衣物，穿着性感的裙子与丝袜，尽管一切准备都很完美，但主角在自己变装后感到些许的羞涩与兴奋。在乘坐出租车的过程中，他不断注意到司机的目光，也感受到了心理上的转变与冲突，表现出一种欲求和被看欲望的交织。故事不仅涉及性别认同的问题，还描绘了主角与外界的互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_变装遇到警察，续1.doc]([皮物]_变装遇到警察
 | Size            | 51712 bytes                           |
 | MD5             | 7f57bac4a5e0f154d4041db4bf278414                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 性别认同, 二次元, 变身, 男性视角, 性别转换, 自我探索, 女装, 性欲, 性别角色, 调教, 都市 LGBTQ, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

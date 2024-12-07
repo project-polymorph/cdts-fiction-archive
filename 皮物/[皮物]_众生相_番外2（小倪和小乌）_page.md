@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_众生相_番外2（小倪和小乌）.docx]([皮物]_众�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一段涉及伪娘与跨性别情节的小说番外，主要讲述了一群朋友在KTV聚会时发生的一系列搞笑且略显暧昧的互动。故事的背景设定在一个部门聚会中，主角秦在醉酒的状态下与上司倪姐和一名叫小乌的女子之间产生了一些轻松幽默、带有调戏性质的情感冲突。文本中描绘了多种性别角色和性别认同的复杂关系，特别是对伪娘和跨性别的描绘。故事中出现了醉酒、调情等场景，对角色之间的性别角色进行了细致的刻画。整部作品虽然带有色情的元素，但整体以幽默、放松的语气为主，描写了一种特殊的友谊和性别探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_众生相_番外2（小倪和小乌）.docx]([皮物]_众�
 | Size            | 24936 bytes                           |
 | MD5             | 2ace16686e112820c79663eff176f975                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 醉酒, 调戏, 校园, 轻松搞笑, 性别认同, 自我探索, 聚会, 二次元, 爱情, 强制, 并肩, 性转, 百合, 性别交换, 调教, 情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

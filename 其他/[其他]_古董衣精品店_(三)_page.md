@@ -7,7 +7,7 @@ TXT 下载: [[其他]_古董衣精品店_(三).docx]([其他]_古董衣精品店
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇关于古董衣精品店的小说摘录，主要讲述了角色洁西与瑪格及妮可之间的互动。故事设定在一个充满华丽衣物的古董店中，洁西花费三天时间清点房间里的衣物，并与瑪格建立起更深的友谊。她帮助瑪格试穿了一件古典舞会大礼服，瑪格在这个过程中回忆起自己小时候的模糊记忆，并体验到穿上华丽衣物后的喜悦。另一方面，妮可则独自一人打理店铺，她发现了一箱来自伦敦的旧衣物，尽管衣物看似粗糙，妮可对其中的故事产生了好奇，暗自期待这些物品能给他们的店铺带来一些意外的顾客。在故事的过程中，角色的内心变化与情感纠葛慢慢展开，揭示了他们与衣物之间的情感连接，以及有关身份和自我认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_古董衣精品店_(三).docx]([其他]_古董衣精品店
 | Size            | 17270 bytes                           |
 | MD5             | bc029d992d3236d1803058dd08837f09                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 古董衣物, 跨性别, 性别认同, 华丽服装, 友谊, 自我探索, 情感纠葛, 服装店, 经典时尚, 二次元文化, 自我认同, 故事叙述, 角色成长, 情感变化, 时光回忆, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

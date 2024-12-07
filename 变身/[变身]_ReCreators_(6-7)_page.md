@@ -7,7 +7,7 @@ TXT 下载: [[变身]_ReCreators_(6-7).doc]([变身]_ReCreators_(6-7).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容主要围绕一段关于性转、变身和跨性别等主题小说的创作过程展开，描述了一位作者对角色性别转换与自我认知冲突的深刻思考。故事涉及一群穿越角色，他们在新的世界中经历性别变化与能力成长，其中角色依依拥有将男生性转为女孩的能力。文中提到作者在创作过程中，如何将人物的力量与世界观平衡，探讨了角色在性转后对于情感和性的认知纠葛。对话中，两位主要角色小胖和小爱之间的互动中又充满了性暗示和禁忌的幽默，尤其是对陈老师的性感描写，通过她的衣着和身材，传达出强烈的性吸引力。最后，文本探讨了角色面对催眠操控的紧迫感和设计，这样的情节引发读者对角色身份和性别认同的更多思考。透过这些复杂的主题，文档展现了虚构作品如何反映现实生活中的性别议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_ReCreators_(6-7).doc]([变身]_ReCreators_(6-7).doc)
 | Size            | 85504 bytes                           |
 | MD5             | 4544f14e89c671c6bbc78d6d4b535ba9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 自我认知, 性别认同, 幼女, 催眠, 色文, 家政, 无敌设定, 纯爱, 欲望, 强迫, 故事创作, 二次元, 幻想, 学园, 奇幻, 情色, 老师与学生, 角色互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

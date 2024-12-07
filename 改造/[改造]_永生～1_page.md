@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永生～1.doc]([改造]_永生～1.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是一篇描绘复杂人际关系和性别转换的小说片段。故事围绕着一个名为张倩的总经理及其丈夫之间的对话展开，揭示了他们在婚姻中的冲突与张倩的秘密。开头，一名男性角色在绝望中请求张倩释放他，他表达了对婚姻生活的恐惧与无奈，因张倩的性别身份和心理控制让他生活在压力之下。故事通过对话揭示了张倩冷酷的性格，以及作为一名有权势女性所带来的权力不平衡。随着情节的发展，另一名角色杜伟被卷入他们的世界，张倩决定将杜伟作为一个新的玩物，进一步强调其对男性的掌控和玩弄。该文本不仅涉及性别认同和角色力量的探索，也带有一些色情和心理控制的内容，使其成为一个具有挑战性的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永生～1.doc]([改造]_永生～1.doc)
 | Size            | 50176 bytes                           |
 | MD5             | 37f4703292fe0b425625dbb765bff5eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 权力游戏, 情感冲突, 婚姻问题, 性别认同, 心理控制, 角色发展, 职场恋情, 现代都市, 限制级                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

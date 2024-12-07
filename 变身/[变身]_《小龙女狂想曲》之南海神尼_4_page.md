@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼_4.docx]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一部名为《小龙女狂想曲》之南海神尼的变身小说第四节。这节主要描述了角色郭襄与金轮法王之间的互动，在情节中，郭襄对此前被安排的角色感到不满，甚至希望法王能够解救她。法王在这里被安排成为一个所谓的‘龟公’，其身份被迫地接纳了令人厌弃的角色指令。小说通过个别对话揭示了角色内心的挣扎，展现了一种性别角色的冲突与认知的挫败。此节涉及对贞操和身体自主权的讨论，描绘了一些极有争议的情节，呈现了对性别和权力关系的探索。文中包含了色情暗示和强烈的性别转换主题，展示了角色面对生理和心理双重压力的复杂状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《小龙女狂想曲》之南海神尼_4.docx]([变身]_�
 | Size            | 17961 bytes                           |
 | MD5             | da34854c2bf689d8f80cb65f6141497c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性转, 武侠, 性别认同, 自我探索, 强奸, 权力关系, 贞操, 角色冲突, 情感纠葛, 性别转换, 幻想文学, 二次元, 禁忌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

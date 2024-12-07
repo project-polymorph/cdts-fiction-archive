@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鹰枭乱十五（复仇之心）_(2).docx]([改造]_鹰�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《改造_鹰枭乱十五（复仇之心）》为一篇描写角色心理挣扎及自我认知的小说。故事的主角李愿翔面临着深刻的内心冲突，她经历了一系列的创伤与痛苦，尤其是关于妹妹的惨死所带来的愤怒与仇恨。小说开头探讨人类的复杂性，在经历了痛苦后，李愿翔在仇恨的驱使下变得异常清醒，但这种清醒带来的并不是解脱，而是更加深重的痛苦。作品中通过梦境描绘她对理想生活的渴望以及对现实的绝望。李愿翔在梦中幻想着与刘芸的婚礼，但梦境突转为恐怖的幻象，令人又惊又惧。最终，她在梦与现实的交织中，萌生出强烈的报仇冲动。文件所涉及的情节复合多重主题，包括身份认同、心理创伤、复仇等，且含有一定的限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鹰枭乱十五（复仇之心）_(2).docx]([改造]_鹰�
 | Size            | 31617 bytes                           |
 | MD5             | a221c794376e6672e5a7e8e5443d3152                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 复仇, 跨性别, 女性主义, 心理斗争, 梦境, 女性角色, 恐怖, 自我认知, 兄妹情, 纯爱, 禁忌, 性转, 惊悚, 愤怒, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

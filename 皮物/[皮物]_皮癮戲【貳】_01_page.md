@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_皮癮戲【貳】_01.doc]([皮物]_皮癮戲【貳】_01.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是多元性别主题小说《皮癮戲》的第二季第一章，主要围绕角色的性别和身份转换展开。故事继续探讨第一季留下的悬念，特别是围绕角色Kelly的身份之谜。文中详细描绘了角色之间的复杂关系，多名角色被引入，出现了紧张的对抗场景与感情冲突。
+
+故事开头，围绕Kelly的遭遇展开，描述她被另一角色闕仲達胁持的情节，以及她与另一角色Shelly之间的关系。闕仲達通过脱光Kelly的衣物来达到自己的目的并触发性别认同的剧烈冲突。随着故事的发展，Kelly遭遇身体的异化与身份的混乱，尤其是在闕仲達假扮Kelly的过程中，展示了角色冲突的戏剧性与色情色彩。
+
+整段故事情色与悬疑交织，通过对角色的生理描写和心理活动的深入探讨，展现出性别认同和自我认知的复杂性。此文档适合对性别研究和心理剖析有兴趣的读者，内容包含部分限制级情节，适合合法合规的科研和学习用途。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_皮癮戲【貳】_01.doc]([皮物]_皮癮戲【貳】_01.
 | Size            | 107008 bytes                           |
 | MD5             | d554eaca77e17ea6eaae2c19eca7ab0e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | FDisguise                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 男娘, 变装, 悬疑, 情色, 身份认同, 性别混淆, 心理冲突, 情感纠葛, 科幻, 戏剧性, 二次元, 强制亲吻, 角色扮演, 高度性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

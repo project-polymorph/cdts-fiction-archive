@@ -7,7 +7,7 @@ TXT 下载: [[改造]_逆转龙凤_（九）_奇才.doc]([改造]_逆转龙凤_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《逆转龙凤（九）奇才》是一个描绘角色性别转换的小说，主要讲述了少年叶景天在遭遇变故后变为一名青楼女子花红月的经历和内心世界。这段故事的背景设定在旧时的青楼，具有浓厚的古代风味。故事开篇描绘了一名负责引导的老鸨吴妈妈带领着少女红月进入她的新房间，氛围显得既紧张又充满期待。在接下来的情节中，红月面临着新的生活挑战，尤其是自我认知和社会评价的激烈碰撞。她曾是帝国的少年皇帝，如今却沦为青楼的花女，故事细致入微地探讨了角色对身份的认同与自我价值的重新审视。文件中描写了多种复杂的情绪，展现了主人公在挣扎与适应中的成长。随着时间的发展，红月的自信心受到挫折，面对青楼生活的现实和客人的选择，她开始不断调整自己的生存策略，试图在这个充满竞争的环境中找到自己的位置。本文件不仅涵盖了性别转换的主题，还涉及了自我探索、社会角色与价值观的重塑，是一部富有深度的跨性别小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_逆转龙凤_（九）_奇才.doc]([改造]_逆转龙凤_�
 | Size            | 70656 bytes                           |
 | MD5             | 73ba273d6bcc4351fa4b079403076dc0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 青楼, 自我认知, 角色转变, 古代, 成长, 社会评价, 心理斗争, 身份认同, 戏剧性, 情感冲突, 妓女生活, 竞争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

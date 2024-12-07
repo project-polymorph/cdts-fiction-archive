@@ -7,7 +7,7 @@ TXT 下载: [[交换]_老婆不想奶孩子了所以我来奶（二）.doc]([交
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一对夫妇因意外事件互换身体后的生活经历。他们在换身后面临着许多日常生活的挑战，在身体和身份的转换中，探索了性别自我认同和家庭关系。故事开头描绘了主角在岳母的帮助下洗澡的场景，充满了亲密和尴尬的情感。随着情节的发展，主角们开始适应新的身份，岳母赛过了对他们关系的接受和调侃，展现了一种幽默和开放的家庭氛围。经过一段时间的生活，两人决定尝试找出恢复身体的办法，回忆起曾经在游乐园的经历，并与一个神秘的占卜师相遇，揭示了他们交换身份的背后，是他们内心深处对彼此痛苦的理解和承诺。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_老婆不想奶孩子了所以我来奶（二）.doc]([交
 | Size            | 43008 bytes                           |
 | MD5             | 0144d66c4851e27c30846e4da30aa3a8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 互换身体, 家庭关系, 自我认同, 性别探索, 父母关系, 不常见身份, 情感交流, 占卜, 二次元文化, 幽默, 青春成长, 心理冲突, 错位剧情, 变身小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_我？人妖母亲？（4）.docx]([改造]_我？人妖�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于跨性别母女关系的小说，主要讲述了角色陈娟在经历性别变化与性别认同冲突后的自我探索与情感纠葛。故事开始于晨间，陈娟醒来后逐渐意识到自己身体的变化，既呈现出女性形象，又拥有了男性生理特征。陈娟的内心挣扎被生动描绘，同时伴随有对她儿子陈威的恋母情结的暗示。小说内容涉及到诸多性欲的描写，挑逗的情节加深了主人公的内心矛盾。角色的掙扎反映了对性别认同的探索与挑战，场景细腻而情绪紧张，展示了性别角色和社会期望之间的冲突。虽然具有强烈的成人内容，但同时也引发了对跨性别人士内心世界的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_我？人妖母亲？（4）.docx]([改造]_我？人妖�
 | Size            | 29327 bytes                           |
 | MD5             | bb85506181a754c7a9c03976c366192c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 性转, 恋母情结, 成人小说, 自我探索, 性别变化, 性欲探讨, 母子关系, 幻想小说, 二次元, 情感纠葛, 变身, 女性视角, 小说系列, 情色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

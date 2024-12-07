@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_海城往事03.docx]([皮物]_海城往事03.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《海城往事03》描绘了一个名为刘欣的角色，她通过穿戴人皮实现了性别转换，并在这一过程中经历了自我探索与欲望释放的情感旅程。刘欣在洗澡后坐在床上，看电视时被节目的主持人苗小月吸引，感受到了一种前所未有的性欲，这让她的内心产生了复杂的情感波动。文中详细描写了刘欣如何充分体验她的新身份，并最终释放内心的欲望。她一方面对苗小月产生了强烈的依恋和吸引力，同时也对自己对关虹的情感产生了矛盾的自责与内疚。此外，刘欣的自我探索是通过内心的欲望与现实之间的冲突得以展开，通过精细的心理描写让读者领略到角色在心态变化与性别认同中的真实感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_海城往事03.docx]([皮物]_海城往事03.docx)
 | Size            | 19033 bytes                           |
 | MD5             | c9b4edd83638ed7a3480f927327a53ef                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 心理冲突, 性转, 伪娘, 欲望释放, 内心挣扎, 青春, 情感纠缠, 都市生活, 女性视角, 性别角色, 人皮, 强烈情感, 男性视角, 情感困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

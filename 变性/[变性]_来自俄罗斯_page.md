@@ -7,7 +7,9 @@ TXT 下载: [[变性]_来自俄罗斯.doc]([变性]_来自俄罗斯.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于两个年轻男性在俄罗斯遭遇的变态性别转换实验的故事。故事中的角色詹姆斯和迈克尔被一个名为加巴诺娃夫人的女人控制，她是一个在黑市进行整形手术的商人，专门为有经济需求的“新娘”进行性别转换和外科手术。加巴诺娃夫人以一种操控和威胁的方式对待这两个男孩，得意地展示她对他们身体的掌控。她通过肌肉松弛剂使他们无法反抗，并且在长达三周的时间里，利用激素胶囊不断改变他们的身体，直到他们被变成新的女性。
+
+詹姆斯在痛苦中意识到自己身体的变化，同时面对着对自己新身份的困惑和恐惧。故事揭示了角色在被迫接受新身份后所经历的心理冲突，以及加巴诺娃夫人对她所操控对象的冷酷和麻木。文件内容涉及强烈的性别认同问题、控制和操纵的主题，以及对于生理性别和社会角色的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_来自俄罗斯.doc]([变性]_来自俄罗斯.doc)
 | Size            | 30720 bytes                           |
 | MD5             | 6902f0e281ca2cd6849833cdb68b4f4e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性别认同, 性别转换, 强迫变性, 俄罗斯, 操控, 女性化, 生理变化, 黑市手术, 痛苦与自我探索, 实验, 情感冲突, NTR, 变嫁, 败坏的理想, 新娘替换与交易                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

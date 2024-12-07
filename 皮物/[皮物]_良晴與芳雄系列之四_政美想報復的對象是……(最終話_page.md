@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_良晴與芳雄系列之四_政美想報復的對象是…
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《良晴与芳雄系列之四：政美想报复的对象是……（最终话）》的最終章，内容围绕角色政美与伸吾之间的互动，展现了角色的心理变化及其面对的挑战。故事中，政美为了报复一个叫川西伸吾的角色，设定了将在游乐园见面的情节。在这个过程中，角色良晴的思维和感受通过第三人称叙述展现出来，尤其是在变身和性别认同背景下进一步探讨角色之间的关系和情感。文中深入探讨了性别转换的主题，描绘了角色的身体感受和心理冲突，特别是在代理控制角色身体的情况下产生的自我认知问题。文中包含了一定的色情内容，例如通过角色的肢体互动引发的快感，并突出反映了性别体验和探索的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_良晴與芳雄系列之四_政美想報復的對象是…
 | Size            | 51385 bytes                           |
 | MD5             | 16c20d96931face6820ea35d372606de                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 自我认同, 情感纠葛, 恋爱, 游乐园, 报复, 青春, 二次元, 强烈的身体感受, 心理探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

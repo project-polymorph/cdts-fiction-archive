@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_关于我在路人女主的故事里入替女主ntr主角�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部关于性别转换和跨性别角色的小说，主要围绕主角悠生的心理变化与互动展开。故事中，主角悠生经历了一次身体变换，成为了霞之秋诗羽学姐，并在追寻自己身份的过程中，与教导主任展开了一段微妙且复杂的关系。故事描绘了角色在新身体下的感受与自我认知的碰撞，呈现出丰富的情感层次与性别认同的探索。文本中涉及的情节包含性暗示与调侃，例如“现在，你完全，是我的了呢！”以及教导主任为其脱下丝袜等情节，揭示了角色之间支配与从属的关系。整个故事透漏出一种轻松带有一点调侃的氛围，同时又探讨了自我认同、性别与社会关系等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_关于我在路人女主的故事里入替女主ntr主角�
 | Size            | 52736 bytes                           |
 | MD5             | fc571ae01d827cad0630632faef4d579                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 角色扮演, 性暗示, 校园情节, 强奸, 调教, 教师与学生关系, 自我探索, 纯爱, 百合, 变嫁, 强权关系, 青春期困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

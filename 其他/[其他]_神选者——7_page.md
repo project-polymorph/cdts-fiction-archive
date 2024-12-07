@@ -7,7 +7,7 @@ TXT 下载: [[其他]_神选者——7.docx]([其他]_神选者——7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是名为《神选者》的跨性别相关小说之一，包含了一段关于角色之间互动的详细叙述，主要围绕一个似乎是男主与年轻少年的对话。情节设置在一个黑暗的环境中，开头通过火机的光线描绘氛围。随着两位角色的交流，逐渐揭示出他们之间复杂的关系，包括一些关于身份和选择的问题。例如，男人提到自己已见过二十个候补者，这暗示了在某种竞争或挑战中的角色，十分引人入胜。故事中还涉及到角色的自我认知，性别认同及其在日常生活中的迷茫，尤其是关于主角透过他人的视角达到自我认同的过程。这些内容中包含了轻微的情感升温，展现了角色之间的亲密关系，同时引入了一些可能的超现实或奇幻元素，例如“神选者”这一概念。此文整体上结合了跨性别主题与二次元情感，适合研究相关的性别流动性与认同问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_神选者——7.docx]([其他]_神选者——7.docx)
 | Size            | 21802 bytes                           |
 | MD5             | 0d78be1f32012d6184aa2930d1d1db1a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 齐腾一                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 神选者, 跨性别, 性别认同, 角色互动, 身份探索, 二次元, 奇幻, 青春, 情感纠葛, 人际关系, 自我认知, 竞争, 挑战, 烟草文化, 现代职场                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

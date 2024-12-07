@@ -7,7 +7,7 @@ TXT 下载: [[变装]_圣诞十二日_（上）.doc]([变装]_圣诞十二日_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《圣诞十二日》（上），描绘了主角保罗·哈特里奇在职场中的日常与内心冲突。他是一名在金融行业崭露头角的年轻男士，随着职位升迁，他逐渐体验到了职位带来的特权与挑战。在一个普通的工作日，保罗接收到了一个神秘的包裹，里面包含了一件带有性暗示的物品和一封神秘的圣诞卡片，内容似乎暗示着他被人勒索。保罗的内心挣扎与对身份的探索，伴随着他对职场权力关系的重新评估，构成了故事发展的主要线索。文本中不仅包括了对人物外表的细致描写，也展现了在职场中男女性别关系交织的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_圣诞十二日_（上）.doc]([变装]_圣诞十二日_�
 | Size            | 90112 bytes                           |
 | MD5             | 0195d14c0fd19f49b5bdd357f65964e3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 职场小说, 性别转换, 跨性别, 勒索, 金融行业, 职场权力, 自我探索, 圣诞节, 情感纠葛, 角色发展, 男性角度, 秘密, 心理斗争, 恐惧与焦虑, 社会规则                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

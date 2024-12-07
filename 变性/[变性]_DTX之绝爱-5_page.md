@@ -7,7 +7,7 @@ TXT 下载: [[变性]_DTX之绝爱-5.doc]([变性]_DTX之绝爱-5.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一场家庭聚会的日子，聚会上主要人物是变性者‘娜娜’以及她的哥哥、嫂子和父亲。故事通过娜娜的视角，生动描绘了她与家人之间的温馨互动与情感交流。娜娜在聚会上因为自己的变身而感到紧张，尤其是当嫂子到来时，这种紧张又加深了。她的身体变化让她不得不适应女性的形象，描述中提到她的发型、服装和身体状况，展现了她的自我认同感和别扭感。同时，嫂子的态度表现出对娜娜的接受与支持，并在轻松的聚餐中展开了对变装与LGBT群体的讨论，试图通过撰写专题文章来提高大众的理解与包容。\n\n聚会中，嫂子积极引导话题，询问娜娜的感受，并表示想为他们撰写一个专题，以帮助外界更好地理解LGBT群体。此过程中，家庭成员之间的默契与爱意穿插在对自我身份探索的讨论中，展现出一个充满温情又面临挑战的家庭关系。文末，娜娜意识到自己身体的变化已趋向稳定，表述出了对自己新的身份的接受，以及与过去生活的告别。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_DTX之绝爱-5.doc]([变性]_DTX之绝爱-5.doc)
 | Size            | 60416 bytes                           |
 | MD5             | 364281ce1c98b5efd6494e1d90310730                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 家庭聚会, 自我探索, 性别认同, LGBT, 变装, 性别转换, 情感交流, 社会认知, 性别表达, 女性视角, 兄妹关系, 嫂子支持, 生活日常, 温情故事, 自我认同, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

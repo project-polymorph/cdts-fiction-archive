@@ -7,7 +7,7 @@ TXT 下载: [[变装]_何须浅碧深红.doc]([变装]_何须浅碧深红.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《何须浅碧深红》，描写了一位跨性别者在青春期的自我探索与挣扎。在高考的考场上，作者通过一首诗引发对自身性别认同的反思，表达了身为跨性别者的心路历程。作者从小就对女性服饰产生兴趣，随着年龄的增长，愈发想要挑战传统性别角色，与女性的生活态度和兴趣相契合。然而，这种内心的欲望遭遇到了家庭和社会的压制，使作者感受到孤独与痛苦。通过对自身经历的描绘，作者探讨了“男人就非得阳刚雄壮吗”的问题，表达出对性别固有观念的质疑和反思。整个故事以一种伤感却又强烈的情感呈现，反映出跨性别者在自我认同上的探索与对社会偏见的抗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_何须浅碧深红.doc]([变装]_何须浅碧深红.doc)
 | Size            | 28672 bytes                           |
 | MD5             | 6fc2715cd757ee81e70b94e1e5e165cc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 青春期, 自我探索, 家庭压力, 社会偏见, 变装, 内心冲突, 诗词引用, 性别角色挑战, 男性气质, 心理挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮戒.doc]([皮物]_皮戒.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘高三学生日常生活的小说开篇，讲述了男主角麟浩在夏初的一天的生活与感悟。故事从一个阴雨蒙蒙的清晨开始，麟浩从梦中醒来，简单描写了他与家人的生活环境，具体细节如姐姐冯琪淑的职业和她在家中的常态，构建出了一个典型的家庭场景。在叙述中，麟浩逐渐展现出对生活的思考，包括学习的压力和朋友间的互动。故事还描述了他与好友李伟成的趣味对话，以及在学校中的人物关系和环境。通过李伟成的搞笑言辞，展现了年轻人的友谊和轻松的学生活。文件中的精致细节及人物感情和冲突，构成了一个关于成长与探索自我身份的框架。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮戒.doc]([皮物]_皮戒.doc)
 | Size            | 194560 bytes                           |
 | MD5             | cd0fbed73992f764de09350c1ea39568                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 校园, 成长, 友情, 学习压力, 生活改变, 夏天, 伪娘, 男娘, 高三, 自我探索, 家庭, 青春, 罗曼史, 日常                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

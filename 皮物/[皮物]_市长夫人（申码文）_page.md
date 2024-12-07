@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_市长夫人（申码文）.docx]([皮物]_市长夫人（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕市长夫人和一名普通市民的邂逅展开，故事背景设定在市长去世后的夜晚。主角因夜晚的骚动前往市长家查看，意外介入了市长夫人和一个试图抢劫她的男子之间的冲突。小说从主角的视角展示了市长夫人复杂的情感与境遇，她面对突如其来的危险时显得极其脆弱，同时也展现了一种反转的权力动态。在故事的发展中，市长夫人揭示了自己的真实身份，她并非市长的真正妻子，而是被迫假冒的情妇，她的故事引人入胜，揭示了社会底层对权力的无奈和依附。敏感的场景和语言交织在一起，彰显了人物矛盾和情感挣扎，使这部作品成为深入探讨性别与身份认同的材料。整体上，文章不仅描绘了人与人之间微妙的关系，也探讨了个人在权力游戏中所承受的痛苦与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_市长夫人（申码文）.docx]([皮物]_市长夫人（
 | Size            | 19561 bytes                           |
 | MD5             | 3d00c1cf58f7dcc5b28493376d2e0d5a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 性转, 自我认同, 强奸, 调教, 逆后宫, 成人内容, 坏女孩, 强权, 心理描写, 暴力场面, 感情纠葛, 法外情, 见义勇为, 城市生活, 女性视角, 情感探讨, 权力与依附                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

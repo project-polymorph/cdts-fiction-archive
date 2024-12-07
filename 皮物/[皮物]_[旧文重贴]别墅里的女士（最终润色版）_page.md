@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[旧文重贴]别墅里的女士（最终润色版）.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述的是一个名为米歇尔·帕格的富家女，她自转学以来便引起了主人公的强烈好奇。米歇尔美丽的外貌和奇异的气质让周围人都对她充满了猜测和遐想，尤其是她对男性的厌恶以及与其他漂亮女孩之间的亲密关系，引发了主人公对她真实身份的怀疑。主人公决定跟踪她，意外进入了她的别墅，并发现了一个惊人的秘密——米歇尔其实是一件人造的皮肤，背后隐藏着一个名为迈克尔·帕克的男性罪犯的身份。小说在描写紧张情节的同时，也探讨了性别认同与伪装的主题，是一篇融合了悬疑与惊悚的小故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[旧文重贴]别墅里的女士（最终润色版）.docx
 | Size            | 28929 bytes                           |
 | MD5             | 63d422a6d3a05a79fc4bc8a663c43f37                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 如梦幻泡影                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪装, 惊悚, 悬疑, 跨性别, 美貌与虚假, 心理描写, 紧张氛围, 富家女, 校园小说, 身份危机, 人造皮肤, 转生, 冒充身份, 自我探索, 执念, 秘密                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

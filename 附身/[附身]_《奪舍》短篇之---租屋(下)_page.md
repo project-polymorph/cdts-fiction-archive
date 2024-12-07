@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《奪舍》短篇之---租屋(下).doc]([附身]_《奪�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为短篇小说《奪舍》的下篇，讲述了年轻男性小呂在宿舍中与女性小如之间发生的情感与身体互动。故事开头描写了小呂晚上回到宿舍后的疲惫与随之而来的对于小如的性幻想，随后通过小如的主动邀请进入她的房间，展开了一系列挑逗与接触。在一个充满青春气息的房间内，小呂意外发现小如私下里藏有大量成人影片，逐渐引发了他对小如身体的探索。小如则在此过程中流露出对小呂的好感，并最终向他表明自己身体的控制权已被另一个人的灵魂接管，她以调侃的方式探讨了性别与身体认同的问题。整个故事包含了大量性暗示以及并且呈现了角色间复杂的情感纠葛与幻想，充满了探索和自我启示的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《奪舍》短篇之---租屋(下).doc]([附身]_《奪�
 | Size            | 44032 bytes                           |
 | MD5             | 6e7e7535e1a8d079a734cedfe42c5d41                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 青春, 情感纠葛, 身体认同, 性幻想, 探索, 挑逗, 成人内容, 性暗示, 自我探索, 灵魂接管, 宿舍生活, 现代小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

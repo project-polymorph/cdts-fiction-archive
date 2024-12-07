@@ -7,7 +7,7 @@ TXT 下载: [[变装]_芭比娃娃_第6天~最後一天.doc]([变装]_芭比娃�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于伪娘与变装主题的小说片段，记录了一名角色在经历身体与性别认同冲突后的心理变化与生理反应。故事主要描述了角色在被训练成女性形象托管者下的感受与体验。角色被迫穿着性感内衣，与各种性玩具的接触，旨在探讨她在快感探索与自我认知之间的挣扎。文中细致描绘了角色在接受性奴身份与内心抵抗之间的矛盾，以及被迫扮演女性所带来的身体与心理双重影响，如对性别认同的混乱、快感的追求等。结尾部分引入了逃离的情景，然而角色却面临着穿上男性衣物的挑战，反映出她对自己身份的迷失与重塑。文中涉及大量关于性及快感的生动描写，部分内容可能会引发读者不适。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_芭比娃娃_第6天~最後一天.doc]([变装]_芭比娃�
 | Size            | 53248 bytes                           |
 | MD5             | 30cfaec6e89fffd79b9d4949263627d7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性别认同, 快感, 性幻想, 自我认知, 性奴, 变身, 心理冲突, 角色扮演, 吸引与厌恶, 突破底线, 禁忌, 虐待, 性行为                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

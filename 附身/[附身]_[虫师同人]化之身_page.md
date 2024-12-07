@@ -7,7 +7,11 @@ TXT 下载: [[附身]_[虫师同人]化之身.doc]([附身]_[虫师同人]化之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇短篇小说名为《化之身》，作者为YSFC，首次发布于2015年6月16日。故事围绕一位名叫清郎的年轻人，他在采集野菌回家的路上，突然听到有人在叫他的名字，却发现四周并无人影。随着夜幕降临，他在一个似梦似幻的状态中入眠。然而，次日早晨，清郎却发现自己变成了一名女子，身体和声音都发生了巨大的变化。村民们逐渐接受了这一不寻常的变化，但清郎的内心却充满了困惑和恐慌。
+
+在接受自己变成女性的过程中，清郎和家人的生活发生了剧烈的改变，家里的生计完全依赖于他原本的技能与体力，而他现在却无法再继续这份工作。小说探讨了性别认同、自我探索与家庭关系等主题，使读者在引人入胜的情节中体会到清郎所面临的内心挣扎和社会反应。更重要的是，小说还引入了“虫师”这一奇幻元素，通过虫的隐喻，反映出身体与身份之间错综复杂的关系。清郎不仅要面对身体的变化，还必须面对社会对这一变化的接受与适应。
+
+这部作品不仅呈现了性别转换的强烈冲突，也展现了对少年心理以及家庭支持的细腻描写，使其成为讨论性别流动性与认同的有趣例子。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[附身]_[虫师同人]化之身.doc]([附身]_[虫师同人]化之
 | Size            | 47616 bytes                           |
 | MD5             | 9712dff62c12a5d148a267a11c4ab55f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | YSFC                               |
+| Region          | 未知                               |
+| Date            | 2015-06-16                                 |
+| Tags            | 性转, 变身, 幻想小说, 虫师, 自我认同, 家庭关系, 社会接受, 内心挣扎, 女性视角, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

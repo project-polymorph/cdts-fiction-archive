@@ -7,7 +7,7 @@ TXT 下载: [[其他]_星耀_第三话_斗换星移之际.docx]([其他]_星耀_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别文学档案馆中收录的一部伪娘/变身小说，标题为《斗换星移之际》，为第三话，作者为Rockx3。故事围绕着两位角色傅思达与尼托，他们通过一种名为“星耀”的能力进行灵魂转换。故事开篇，尼托向傅思达提出将自己的灵魂与班上美女华优冰琪的灵魂对调的请求，情节中夹杂着欲望与轻松的对话。随着故事的推进，傅思达最终被迫同意了这个请求，经历了灵魂对调带来的种种体验，进入了由女性身份所引发的复杂情感反应。“我真的和华优冰琪替换了……变成华优冰琪了啊……啊……声音也变了呢……”这段自我纠结的独白深刻展现了故事的主题，即性别认同与自我探索。同时，文件内容可能涉及一些成人情节，如“做爱做的事情”、“女性的快感”等，体现了当代性别流动性及社交关系的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_星耀_第三话_斗换星移之际.docx]([其他]_星耀_
 | Size            | 24272 bytes                           |
 | MD5             | 7ab85b64353bd40cddd55b9782278685                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rockx3                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 星耀, 灵魂交换, 伪娘, 变身, 性别认同, 自我探索, 轻小说, 青春校园, 成人主题, 奇幻, 科学幻想, 角色扮演, 戏谑, 心理剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

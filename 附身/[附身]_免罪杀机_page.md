@@ -7,7 +7,7 @@ TXT 下载: [[附身]_免罪杀机.doc]([附身]_免罪杀机.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《免罪杀机》讲述的是一个年轻人的奇妙旅程，故事的主人公李逸在玩游戏时，竟然遇到一个名为界外魔的存在，后者与李逸缔结了契约。起初，李逸只是希望能拥有游戏中的超能力，但随着故事的发展，他发现自己被卷入了一个未知的虚空世界。界外魔告诉李逸自己是虚空的残片，甚至提到他本应成为这一片虚空的未来契约者。李逸对这一切感到惊讶与好奇，起初他正在思考这些超能力的具体用途，并提出了三种技能的需求，但他不知道这份契约将会改变他的命运。整个故事深入探讨了角色的内心挣扎、自我认知以及与他人连接的复杂性。文件中穿插着李逸在东京精神病院的经历，涉及其利用新获得的能力控制他人身体，预示着潜在的道德和心理冲突。这段文字不仅是对奇幻虚构世界的叙述，更是对个人欲望和心理扭曲的深刻反思，也揭示了跨性别、生理和心理的主题，提出了性别认同与自我探索的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_免罪杀机.doc]([附身]_免罪杀机.doc)
 | Size            | 81920 bytes                           |
 | MD5             | e2db95d27e3375b745c4f0bc05ab0db9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 虚空, 界外魔, 催眠, 附身, 超能力, 契约, 精神病院, 性别认同, 自我探索, 奇幻, 二次元, 冒险, 角色扮演, 生死, 心理冲突, 暗黑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

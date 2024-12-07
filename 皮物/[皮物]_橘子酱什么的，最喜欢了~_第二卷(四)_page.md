@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~_第二卷(四).docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于伪娘与跨性别元素的小说，讲述了角色艾丽莎和佐仓橘子之间错综复杂的关系，伴随着奇幻与超自然的设定。故事中，艾丽莎意外发现同桌佐仓橘子在进行一场奇怪的变化，她的身体和行为表现出一种异常的状态，令艾丽莎感到困惑与不安。小说情节描绘了艾丽莎如何试图跟踪和寻找她的同学，并在漫展中揭露了一个潜在的威胁，即本田，一个恶劣角色，控制着橘子的身体，迫使她参与不道德的行为。故事探讨了性别认同与自我认知，希望在这个混乱的背景中，艾丽莎能拯救她的同学并阻止本田的阴谋。文中包含了一些强烈的情感和敏感的内容，涉及性与权力的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~_第二卷(四).docx]([�
 | Size            | 19910 bytes                           |
 | MD5             | 3114a4ecbc6b3daa8bb187d296d51419                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 超自然, 少女漫画, 校园, 神战, 性别认同, 自我探索, 恶搞, 阴谋, 漫展, 强权, 朋友, 友情, 痛苦, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

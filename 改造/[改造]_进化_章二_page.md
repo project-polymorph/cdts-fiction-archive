@@ -7,7 +7,7 @@ TXT 下载: [[改造]_进化_章二.doc]([改造]_进化_章二.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《进化 章二》是一篇描绘角色进行性别转变的小说，讲述了主角特里在接受进化手术后身体变化的经历与心理感受。故事开始时，特里因身体问题决定进行手术，医生和母亲对手术给予支持。手术过程的描述细腻而真实，特里在手术中失去意识，醒来后发现身体经过改造。他体验到了新身体的感觉，尤其是下体的变化带来的敏感，面对自己的身体变化感到羞愧和复杂的情绪。期间，母亲的关爱和鼓励让特里感受到温暖与支持，同时也面临对新身份的认同与探索。面临新的生活和变化，特里开始思考自己未来的样子和可能的新名字。故事通过细腻的心理描写和身体的转变，反映了性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_进化_章二.doc]([改造]_进化_章二.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 42496 bytes                           |
 | MD5             | 603f8dbf116bbf97dbefed67586248eb                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 身体改造, 伪娘, 强烈感官体验, 自我认同, 母子关系, 手术, 情感支持, 新生, 未来探索, 敏感变化, 性别认同, 科幻元素, 医疗技术, 年轻人心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

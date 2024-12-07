@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译小说】环法自行车赛_第三部分.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部关于变身与跨性别主题的小说，主要围绕角色弗朗西丝的女性化转变过程。故事发生在一个充满欲望与探索的场景中，两个女性角色艾丝黛尔和米歇尔陪伴弗朗西丝，带她经历一系列的性别转变与自我认知的冲突。在这个过程中，弗朗西丝脱离了自我，经历了身体上的转变以及情感上的波动。小说中包含了多处对身体变化的描述，例如使用脱毛膏和涂抹化妆品等，同时涉及到性行为与两位女性角色的亲密互动，包含了“放纵的感觉”和“释放压力”的讨论。此外，故事还提到弗朗西丝曾是一名传奇自行车手，暗示着她在性别认同与自我价值之间的挣扎。整体上，该故事不仅探讨了身体的变化，也涉及了情感与自我认知的深层主题，展现了复杂的人际关系与性别认同的视觉。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译小说】环法自行车赛_第三部分.docx]([�
 | Size            | 66178 bytes                           |
 | MD5             | 2a36d172a7bd95cc37b383f88b2fdef7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 自我认知, 欲望, 女性化, 性别转换, 纯爱, 女同性恋, 变嫁, 调教, 性释放, 疯狂, 都市, 情感纠葛, 被迫变身, 情感探索, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

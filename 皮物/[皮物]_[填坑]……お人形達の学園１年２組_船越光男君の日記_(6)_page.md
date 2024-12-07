@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[填坑]……お人形達の学園１年２組_船越光�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位名叫船越光男的男生与他同班同学君嶋的日记记录，内容涉及二次元性转与变身主题，以及他们之间逐渐亲密的关系。在这段交流中，君嶋同学的身体被描述为可爱而诱人，且与传统性别观念产生冲突。文本描绘了性别与性认同问题，探讨了角色对于身份与欲望的挣扎与体验。故事中穿插了两人的肢体接触和亲密互动，突显了肉欲与心理上的复杂情感。君嶋同学在享受这种关系的同时，也在承受心理上的显著冲突。本篇幅包含许多直接的描写，展现出角色在性欲与自身身份认同中的挣扎与探索，令人深思。在故事最后，他们面临未来关系的变化，对彼此的感受充满了复杂的期待与不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[填坑]……お人形達の学園１年２組_船越光�
 | Size            | 49664 bytes                           |
 | MD5             | 8126b2234956b926d9c1e0b53e430d71                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 男娘, 变身, 跨性别, 强烈的肉欲体验, 自我认知, 青春期探索, 秘密关系, 二次元, 校园恋情, 情感纠葛, 身体认同, 心理冲突, 青春幻想, 性别角色, 女体化, 隶属感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

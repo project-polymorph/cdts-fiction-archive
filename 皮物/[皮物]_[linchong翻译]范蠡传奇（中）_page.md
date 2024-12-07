@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[linchong翻译]范蠡传奇（中）.docx]([皮物]_[linc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《范蠡传奇（中）》的一部分，内容主要描绘了一名男性角色经历性别转变的过程。在文中，主人公在醒来后发现自己变成了一位年轻貌美的女性，面临着身份认同和自我认知的剧烈冲突。文本中详细描述了主人公的变化，如柔滑的皮肤、纤细的手腕、挺立的乳房，甚至细腻的嗓音都发生了改变。主人公在重新审视自己的身体时，感受到转变带来的震惊与困惑，尤其是对自身失去男性特征的思考。此外，文中提到的“人皮”一词暗示着某种魔力，将其与身世与计划紧密联系。整篇文章展示了在转换性别后，主人公必须面对的内心挣扎，以及在外界看法下的复杂情感。细节呈现出一种奇幻与现实交织的情境，引发读者对性别认同与自我认知的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[linchong翻译]范蠡传奇（中）.docx]([皮物]_[linc
 | Size            | 34517 bytes                           |
 | MD5             | 04bd5b75ae6b29b5c8ac61b870ba2537                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 身份认同, 奇幻, 自我探索, 女性化, 情感纠葛, 阉割, 人皮, 自我认知, 魔法, 古代, 虚构人物, 角色转换, 美丽与自我矛盾, 外貌变化, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[申码文重发]黑色洗衣液（一）~（四）.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以阿强为主角的性转小说，设定在一个繁忙的都市环境中。阿强是一名年轻的快递员，生活在城中村的小单间中，工作之余他沉浸在动漫与二次元文化中，憧憬着成为女孩子的幻想。在小说的开头，阿强讲述了自己对二次元角色的向往及内心挣扎，逐渐迷上了COSPLAY与女装。在他生活的某个转折点，阿强遇到了邻居少女，从此开始了一段奇妙的探索与幻想。小说后续描述了阿强如何发现一瓶名为黑色洗衣液的神秘物品，并通过体液的加入使其成为掌控物品形态的主宰，借此实现对女性物品的渴望。阿强的内心欲望逐步展开，与少女的生活紧密交织，甚至洁物，变化的物品逐渐蕴含着他与女性的心灵链接。整个故事融合了性别转换、自我认同和心理挣扎等主题，充满幻想与创意。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[申码文重发]黑色洗衣液（一）~（四）.docx](
 | Size            | 34343 bytes                           |
 | MD5             | 5ee203a442c25441e368a65d62495b71                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 和谐号列车长                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 穿越, 二次元, 变身, 黑色洗衣液, 幻想, 心理斗争, COSPLAY, 青春, 自我认同, 变嫁, 女装, 心灵链接, 魔法少女, 神秘物品                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

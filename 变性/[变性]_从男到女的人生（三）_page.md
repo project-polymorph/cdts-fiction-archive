@@ -7,7 +7,7 @@ TXT 下载: [[变性]_从男到女的人生（三）.doc]([变性]_从男到女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说第三章，讲述了一名经历变性手术的男孩在术后生活中的困扰与成长。故事开篇以主角的游戏生活为背景，主角正经历着习惯穿女装的磨合期，母亲关心他的饮食与穿着，甚至逼他学习穿胸罩。在一场打游戏的过程中，主角意外来潮，面对生理期的困扰，如何处理卫生巾和月经成为了一大挑战。在与母亲发生的一系列对话中，主角既感到尴尬又无奈，处于他对新身份的适应过程和对过往生活的回忆之间。文件中通过对主角内心冲突的描绘，展现了性别认同与生理变化交织下的复杂情感，以及对自身性别角色的思考与适应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_从男到女的人生（三）.doc]([变性]_从男到女�
 | Size            | 58368 bytes                           |
 | MD5             | aa7553cf4766a4bd0b05f3398738133c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 跨性别, 生理期, 家庭关系, 游戏, 成长, 自我探索, 女性服装, 青春困惑, 母子关系, 月经, 卫生巾, 性转, 第一人称视角, 生活日常, 心理斗争, 情感冲突, 女性化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

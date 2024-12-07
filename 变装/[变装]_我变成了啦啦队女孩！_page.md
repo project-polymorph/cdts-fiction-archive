@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我变成了啦啦队女孩！.doc]([变装]_我变成了�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《我变成了啦啦队女孩！》呈现了一个名叫吉米的男孩与两个女友艾希莉和麦迪逊之间的深厚友谊。随着故事的发展，吉米逐渐接受了自己内心的性别认同愿望，并开始尝试化妆和穿上女性服装，经历自我认知的转变。在与朋友的互动中，他发现了自己向往女性身份的渴望，最终选择了以梅根为名的女性身份。故事描绘了青春期的性别探索、友谊的支持与家庭的接受，充满了对性别认同的赞美和自我接受的重要性。小说中多次提到的化妆、穿着和伙伴支持，体现了成长中的挑战与喜悦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我变成了啦啦队女孩！.doc]([变装]_我变成了�
 | Size            | 35840 bytes                           |
 | MD5             | 5450e58570970184ab7ab4696d351e5f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | meganprincess                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 伪娘, 变装, 青春期, 朋友支持, 自我探索, 化妆, 女性身份, 高中的生活, 个体成长, 友情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

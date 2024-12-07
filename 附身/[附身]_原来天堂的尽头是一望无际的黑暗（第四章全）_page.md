@@ -7,7 +7,7 @@ TXT 下载: [[附身]_原来天堂的尽头是一望无际的黑暗（第四章�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘与跨性别主题的小说第四章，故事围绕着女主角林馨的日常生活和心理变化展开。文中描绘了林馨从一名优等生到逐渐接受自己身体变化的过程，突出了她在个人与性别认同上的挣扎。“烈日炎炎，漫长的暑假仿佛永远不会有过完的那一天”，林馨在假期中，尽管享受舞蹈训练的乐趣，但在练舞过程中的一系列色情行为逐渐表现出她的内心矛盾和欲望。此章节深入探讨了林馨的自我探索与不安，她的生活在二狗子附身后发生了改变，从原本严谨的训练转向更加坦然面对身体的变化，并开始主动寻求性快感。与此同时，林馨还涉及到她与好友梁小依的关系，利用自己的身份设下情感的陷阱，计划推动好友与男友陈强之间的恋情，展现了复杂的情感与人际关系。文件内容情节构造紧凑，通过细腻的描写，展示了性别认同、欲望探索和友谊背叛等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_原来天堂的尽头是一望无际的黑暗（第四章�
 | Size            | 46592 bytes                           |
 | MD5             | 591a1a81ffd432ac09a28cce47478c12                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 自我探索, 欲望, 情感操控, 友谊, 阴暗面, 性感舞蹈, 男娘, NTR, 青春, 女同性恋, 多角关系, 心理变迁, 偏执爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

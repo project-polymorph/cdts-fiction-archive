@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮之间(一).docx]([皮物]_皮之间(一).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一个名为陈立光的男人在一次人生转折中的遭遇。故事开始时，陈立光感到内心的不安与悲凉，回忆起自己的商业成功与如今的破产，正经历人生低谷。在文中，他与一名名为小敏的男人相遇，小敏的角色复杂且具有双重性，首先以一名魁梧的男性出现，随后又展现出女性化的特征。从小敏的对话中，读者了解到他将教陈立光如何穿戴一种特殊的“皮衣”，这是一种具有奇异功能的服装，能够让穿戴者在特定环境下改变外表和性别。随着故事的展开，陈立光逐渐被卷入这一扭曲的现实，面临着性别认同与自我认知的冲突，并体验一种奇异而复杂的快感与恐惧。此文本探讨了自我认同、性别转变和性交易等议题，同时涉及一些明显的性描写和情节，展示了对社会边缘人物命运的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮之间(一).docx]([皮物]_皮之间(一).docx)
 | Size            | 33632 bytes                           |
 | MD5             | ec24153f812d36f8c7896e56854c5db4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 跨性别, 伪娘, 人际关系, 性交易, 自我探索, 心理冲突, 社会边缘, 禁忌爱情, 性别认同, 性癖, 奇异服装, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

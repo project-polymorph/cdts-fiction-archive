@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蝴蝶與蜘蛛.docx]([附身]_蝴蝶與蜘蛛.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档名为《蝴蝶与蜘蛛》，其内容涵盖了复杂的跨性别主题与性转情节，主要以一种极为挑衅和露骨的方式展现了角色在性别和性认同上的冲突。故事描述了一位短发少女在酒店房间中与一名男性的亲密互动，涉及了裸体、性行为的直白描写，以及青少年对性探索的困惑和挣扎。文中的角色展现了在极乐的快感与随之而来的心理空虚之间的激烈对比，少女的内心独白和对自身状态的反思使情节更加深刻和复杂。文件的后半部分涉及了对较为禁忌的性行为的描写，意在探讨性别认同和欲望之间的微妙关系，同时暗示了社会对于性行为和性别的看法与限制。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蝴蝶與蜘蛛.docx]([附身]_蝴蝶與蜘蛛.docx)
 | Size            | 25360 bytes                           |
 | MD5             | 874aed2e5e74cbd2af57a07d8ea29a28                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 性探索, 性行为, 心理冲突, 青少年, 女性视角, 自我认知, 夜生活, 欲望, 淫荡, 强迫, 调教, 女性角色, 身体自主权, 清纯与淫荡                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

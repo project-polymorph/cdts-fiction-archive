@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[悬赏道具]丝袜的新人生.doc]([附身]_[悬赏道�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部小说讲述了一个加班族小毛在跨年夜独自在办公室工作的故事。小毛的生活颇为悲惨，既要加班，又没有女朋友，感到孤独无助。在接到组长的电话后，他前往一家酒店，得到了与大客户经理杨炎单独谈话的机会。杨经理向小毛提出了一项极为特别的请求，希望小毛能实际体验性别转换，通过一种神秘的“丝袜附身神器”实现进入女性身体的体验。小说中通过小毛的内心独白和对话展现了角色的挣扎和困惑，涉及了跨性别、入体与肉体体验等多种主题。随着对话深入，杨经理的提议让小毛感到震惊与紧张，情节充满悬念和刺激。这篇小说融合了奇幻元素与性别话题，展现了主角内心的煎熬与思考，构建了一个既奇异又引人思考的故事世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[悬赏道具]丝袜的新人生.doc]([附身]_[悬赏道�
 | Size            | 76288 bytes                           |
 | MD5             | 3ed9e3972304e70f4feff133dda1c491                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身, 跨性别, 丝袜, 奇幻, 性别认同, 商场斗争, 自我探索, 入体体验, 性幻想, 都市, 职场, 青春, 孤独, 夜生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

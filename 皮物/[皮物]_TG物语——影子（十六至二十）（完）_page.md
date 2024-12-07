@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_TG物语——影子（十六至二十）（完）.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一篇涉及性转和跨性别主题的小说片段。《TG物语——影子》详尽描绘了角色在性别转换过程中的内心冲突与外在体验，设定在校园环境中，讲述了主角王美佳在新的身份下的生活以及与室友林惠茜之间的互动。故事开头提及王美佳因未洗澡而感到不适，逐渐引入了角色的真实身体与伪装身份间的复杂关系。在一次意外中，林惠茜突然回到寝室并遭遇王美佳所施加的伤害，引出一系列紧张的情节，最终通过超自然力量，王美佳与林惠茜的身份产生了纠缠和交融。小说中涉及到的关键情节如“我的血液影响到了红影”，以及“我就是你，你就是我”的对话，突显了人物自我认知与身份的多重维度，这不仅反映了角色的内心挣扎，也隐喻了性别认同的复杂性和流动性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_TG物语——影子（十六至二十）（完）.doc]([�
 | Size            | 57344 bytes                           |
 | MD5             | b51bd909ba4d6c8d18d7dbcec8a3fe84                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 校园, 跨性别, 自我认知, 伪娘, 变身, 身份交融, 超自然, 风格化叙事, 血液魔法, 心理冲突, 分身, 性别流动, 欲望探索, 青春小说, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_西游情厄传（第十七回至第十八回）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘与跨性别小说《西游情厄传》的第十七回和第十八回，内容充满了情欲和奇幻背景，围绕着主要角色飞龙郡主展开。故事讲述了唐僧师徒在取经途中面临的灵异事件与情魔幻境，孙悟空误入其中，陷入了复杂的情感纠葛。飞龙郡主为救外婆，忍受了巨大的痛苦和考验，她在梦中发现自己身处不同的身份与境地，一系列的阴谋与复杂人物关系交织，包括了师父唐玄奘、猪八戒、沙僧等角色的相互影响和冲突。飞龙努力解救她的亲人，并最终引出了一场关于自我认同与身份变幻的故事。文本中涉及诸多情感、权力与人性的探讨，情节包含沉重的家庭情感和生死离别的悲伤，体现出较为复杂的角色心理与情感描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_西游情厄传（第十七回至第十八回）.docx]([�
 | Size            | 30096 bytes                           |
 | MD5             | 9d642ae296ecfb00720e6c32e6b2a94d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 情欲, 跨性别, 变身, 家庭伦理, 妖怪, 权力斗争, 自我探索, 魔幻, 悲剧, 同伴关系, 古代背景, 情魔幻境, 身份认同, 阴谋, 亲情, 爱情, 复杂人物关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

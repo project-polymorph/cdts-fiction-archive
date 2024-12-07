@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮的记忆[皮の記憶].doc]([皮物]_皮的记忆[皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别相关的小说，名为《皮的记忆》，作者为无名，讲述了高中女生藤本円香被变成了一张『皮』后的故事。在这篇小说中，円香从昏迷中恢复意识，发现自己身处警察局的审讯室。喜欢的环境已经不复存在，而她的身体则被一个犯罪者所占据。通过大松刑警的解释，円香逐渐了解到「皮」是一种可以将他人的身体作为“衣物”穿在身上的禁忌之力，同时她也被告知自己是这起案件的受害者。整个故事探讨了性别认同与身体的关系，以及在经历极端情况后个体自我意识的流失和挣扎。通过警察的询问，円香开始回忆被劫持和变成『皮』的过程，渴望寻求救助的她内心满是痛苦与绝望，感受到被强迫进行的各种色情行为。小说不仅围绕着变身与身份的失落展开，还探讨了受害者的心理状态与自我意识的复杂交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮的记忆[皮の記憶].doc]([皮物]_皮的记忆[皮�
 | Size            | 46592 bytes                           |
 | MD5             | fceba36c8ee85c6041efd49a60f56c88                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 无名                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性转, 少年少女, 自我认知, 警察审讯, 身体认同, 心理痛苦, 寻求救助, 黑社会, 禁忌之力, 受害者故事, 自我探索, 小说, 幻想, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

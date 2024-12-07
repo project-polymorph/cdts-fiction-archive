@@ -7,7 +7,7 @@ TXT 下载: [[变身]_雙子星實驗第二部(Mann_03)_5-6_章.docx]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《變身》系列小说中的第二部，标题为《双子星实验第二部(Mann_03)_5-6章》。故事围绕一名男主角小马展开，他被小王下药后陷入了一个复杂的性别转换实验中。在故事中，小王与陈哥的身份和欲望交织，表现了角色之间的欺骗、欲望和性别认同的探索。小马在药物的影响下逐渐失去身体控制并经历了一系列变身和转化的过程，包含了对性别、身体和自我认同的深层次探讨。文件中包含了许多详细描绘的色情情节，以及小马对自己即将发生的变化的惊恐和期待。情节中涉及的主题包括操控、自我认同与身体转型，展示了人在性别转换后可能产生的情感与生理反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_雙子星實驗第二部(Mann_03)_5-6_章.docx]([变身]_�
 | Size            | 21147 bytes                           |
 | MD5             | fe925c65364e54d5dc6bec3c3ea4001e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 跨性别, 欲望, 青春, 自我认同, 实验室, 性幻想, 药物, 男娘, 强奸, 自我探索, 关系复杂, 色情, 二次元, TSF                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

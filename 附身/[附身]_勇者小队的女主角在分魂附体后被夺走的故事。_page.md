@@ -7,7 +7,7 @@ TXT 下载: [[附身]_勇者小队的女主角在分魂附体后被夺走的故�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一段描绘勇者小队冒险的奇幻故事，主要围绕角色莱昂，以及他的队友诺拉和埃莉诺在与魔物战斗中的经历。故事开始时，队伍面对一只强大的魔猪，莱昂勇敢地采取行动，将其击败。随着情节的发展，展现出角色之间的互动，尤其是诺拉与埃莉诺对莱昂的暗恋和竞争，两位女性角色的情感交织带来了微妙的三角关系。同时，故事中也引入了主角罗索，他是一个盗贼，自称为失败者，总是处在队伍的边缘。文件中进一步介绍了罗索的灵魂分割能力，以及他是如何操控诺拉和埃莉诺的灵魂，使她们表现出想要追求他的欲望，从而营造出复杂的情感纠葛。整体上，这一段落展现了角色们在面对危机时的英勇和在感情上的微妙变化，描绘了一个充满冒险与内心冲突的奇幻冒险故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_勇者小队的女主角在分魂附体后被夺走的故�
 | Size            | 28885 bytes                           |
 | MD5             | 3fe8c8e7589255e3939b4d09e8d8defe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 勇者, 冒险, 魔法, 性别交替, 情感纠葛, 奇幻, 灵魂分割, 女主角, 温馨日常, 战斗场面, 性转, 百合, 魔物, 角色扮演, 多重人格                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

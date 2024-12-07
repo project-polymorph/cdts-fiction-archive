@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【敬这神秘而疯狂的世界】第一篇：蜘蛛女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文章为多元性别主题的伪娘与变身小说系列之一，标题为《敬这神秘而疯狂的世界》。故事发生在一个充满贫民窟和腐臭气息的时代，主人公利安为了表妹的入学手续而前往女子学院，途中不幸误入神秘的森林。在一场意外中，她跌入巨网，被神秘的蜘蛛生物掳走。故事描述了利安身体与性别的转变，以及被困于神秘空间内的恐惧和欲望交织。随着剧情发展，利安逐渐意识到自己成为了蜘蛛女皇的祭品，情感与身体的斗争愈加激烈，最终陷入了极致的快感与迷失之中。这部小说涉及性别认同、身体改造、性欲、献祭等敏感主题，在描绘角色性别转换的同时，也探讨了对自我的认知和欲望的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【敬这神秘而疯狂的世界】第一篇：蜘蛛女�
 | Size            | 37376 bytes                           |
 | MD5             | 451b8381914bdec3363c12221446eca4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 蜘蛛女皇, 极乐, 性欲, 献祭, 自我探索, 奇幻, 恐惧, 阴暗, 欲望, 少女, 身体改造, 神秘, 职场, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

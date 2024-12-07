@@ -7,7 +7,7 @@ TXT 下载: [[变装]_奇异人生.doc]([变装]_奇异人生.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位男性角色晓岩的性别转变与变装经历的小说，属于伪娘或男娘题材。故事初始，晓岩因前女友的意外去世，决定变装为她的样子参加公司重要的洽谈会，以报答董事长的知遇之恩。小说详细描写了晓岩在变装后的心路历程和自我认知的变化。晓岩在返回家中后，减轻男儿身形象的外观并感受女性的魅力，同时对这种新身份产生了复杂的心理感受，包括羞愧与刺激的交织。文件中描绘其日常生活中的细节，晓岩努力适应新的身份，包括化妆、穿着少女衣物等，甚至还提及了她在QQ群聊中与好友的互动，以及对自己外貌和性别认同的困惑。该小说不仅触及到性别认同与自我探索的主题，还融入了一些感官刺激与情感的表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_奇异人生.doc]([变装]_奇异人生.doc)
 | Size            | 322560 bytes                           |
 | MD5             | db31c61487917bf14f6f748f26fd176e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 伪娘, 性别认同, 跨性别, 文学创作, 心理冲突, 自我探索, 现代都市, 情感纠葛, 职场故事, 变身小说, 爱情, 幻想, 自我认知, 女性视角, 短信沟通, 社交网络, 内心独白, 日常生活, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

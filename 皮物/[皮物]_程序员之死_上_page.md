@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_程序员之死_上.doc]([皮物]_程序员之死_上.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《程序员之死（上）》的小说，描绘了主人公苏享通过网络婚恋平台进行约会的经历。故事开始于苏享由于自身条件优越，选择性地与女孩见面，却始终未能如愿。一次偶然，他发现了一位自信且清新自然的女孩欣欣。两人之间的互动充满着微妙的情感与紧张气氛。在约会中，苏享表现出些许局促，但欣欣的随和让他渐渐放开。在两人看电影、共进晚餐的过程中，苏享的内心不断起伏，直到收到欣欣夸奖的信息，这让他感受到前所未有的喜悦与兴奋。然而，欣欣的神秘身世与接下来的空白联系，令他的情感逐渐向紧张与不安发展。最终，在一次突发的意外后，苏享重新与欣欣相遇，情感的波折与自我探索的主题在此交织，引发读者对角色心理与关系的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_程序员之死_上.doc]([皮物]_程序员之死_上.doc)
 | Size            | 37888 bytes                           |
 | MD5             | 32cc2586e8aed60f6669d4e8a83aae57                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2017-03-30                                 |
+| Tags            | 性转小说, 伪娘, 变身, 婚恋平台, 情感探索, 自我探索, 约会, 强情感, 爱情故事, 青春迷茫, 情感波折, 都市生活, 心理描写, 角色发展, 近现代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

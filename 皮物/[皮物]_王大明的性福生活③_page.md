@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_王大明的性福生活③.docx]([皮物]_王大明的性
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇围绕性别转换和跨性别主题展开的小说，主要包含了角色在奇幻情况下经历身体改变和性别转换的情节。故事中的主要角色是一名叫王大明的男生，他意外获得超能力，以社团社长的身体进行奇怪的游戏。文本详细描写了王大明利用超能力将社长变成女性角色的过程，伴随着对角色身体特征的详细描写，如黑丝美腿、丰腴的身体曲线、紧身衣等，展现了角色间的性别认同和自我欲望。文本还融入了偷窥、捆绑与解释情节，反映出角色间复杂的心理与身体的互动，同时也描绘了对超自然现象的惊讶与探索。作品含有部分性暗示与成人题材，适合成年读者且含有较为明确的性内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_王大明的性福生活③.docx]([皮物]_王大明的性
 | Size            | 34832 bytes                           |
 | MD5             | de15d431c564090646f042e997339d3d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 硕鼠硕鼠                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 奇幻, 人际关系, 自我探索, 社团文化, 性别认同, 偷窥, 强制, 家庭, 黑丝, 制服, 骚扰, 超能力, KIG, 女性角色, 色情情节, 自我欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

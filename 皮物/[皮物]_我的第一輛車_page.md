@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的第一輛車.doc]([皮物]_我的第一輛車.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个人拥有第一辆车的特别经历，围绕这个重要时刻展开了一系列对自我身份和性别认同的探索。故事中，主人公从象牙塔走入社会，面临通勤的压迫感，因此渴望拥有自己的车子。在汽车展示会上，主人公与一位身穿比基尼盔甲的高挑女子互动，这一刻充满了美的享受与自我认知的冲突。在试用间，经过一番化妆与装扮，主人公穿上紧身的驾驶服，身形变得与女性无异，展现出对未来的期待。文章最后留给读者的是关于自我认同、性别化与未来探索的思考：‘这辆车会带我前往何方呢？’
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的第一輛車.doc]([皮物]_我的第一輛車.doc)
 | Size            | 28672 bytes                           |
 | MD5             | 157434041e8e63a2b6db0d6c2f55a932                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 自我探索, 汽车文化, 未来科技, 女性形象, 身份认同, 黑色紧身服, 欲望与幻想, 奇幻, 赛博朋克, 虚拟现实, 自我反思, 现代社会, 心理冲突, 性感角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

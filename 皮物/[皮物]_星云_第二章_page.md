@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星云_第二章.docx]([皮物]_星云_第二章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个未来科幻故事的第二章，设定在一个名为桑德尔冷冻室的场景，时间设定在65359年。故事围绕一位机器人考古学者展开，他被派往宇宙中的一颗星球进行考古任务，试图寻找过往文明的痕迹。文中描绘了一个即将消亡的文明，由于社会高度依赖科技，人们的生殖能力大幅退化，身体特征趋同，甚至开始与机器人无异。考古学者在驾驶舱中思考文明的未来与个体的命运，同时解析着来自过去的遗留数据。文件通过对考古任务的描绘，探讨了人类的自我认知，失去繁衍能力的恐惧，以及对未来的无奈。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星云_第二章.docx]([皮物]_星云_第二章.docx)
 | Size            | 16747 bytes                           |
 | MD5             | 19ddd641ca2e0e3e41da982b763ffa00                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 未来主义, 性别认同, 机器人, 考古学, 文明衰退, 自我认知, 人性探讨, 机体强化, 数据解析, 宇宙探险, 遗迹探索, 克隆技术, 生殖科技, 人机融合, 退化症状                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

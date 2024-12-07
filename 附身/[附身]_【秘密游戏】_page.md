@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【秘密游戏】.doc]([附身]_【秘密游戏】.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含一个跨性别相关的小说章节，讲述了一群大学生在一个废弃的哥特风格别墅中的冒险故事。开篇描绘了别墅的阴森环境，生锈的金属大门被枯藤缠绕，空气中弥漫着奇异的气味。人物之间的互动展现了他们的友谊与幽默，其中包括王威、徐绯红、赵湘湘及林梦如老师等角色。故事中提到由于胆量赌约，王威决定在这个传说中闹鬼的地方过夜，伴随着紧张的气氛和神秘的气息，众人逐渐深入别墅。随着故事的发展，环境的阴暗变化及一系列离奇的事件增加了紧迫感，透视出角色内心的冲突和探索自我的主题。小说探索了性别认同和自我认知的复杂性，结合了悬疑、恐怖与性别变换的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【秘密游戏】.doc]([附身]_【秘密游戏】.doc)
 | Size            | 102912 bytes                           |
 | MD5             | d1474316beb8b40247f9942782098d9d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 青春, 悬疑, 恐怖, 哥特风格, 大学生活, 自我认同, 友情, 冒险, 传统与现代, 心理探索, 神秘事件, 情感纠葛, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

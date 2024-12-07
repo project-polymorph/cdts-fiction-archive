@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_女神等等我_「中」.docx]([皮物]_女神等等我_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘TS变身与跨性别相关小说，名为《女神等等我》。故事围绕主角张欣蕊的性别转换和对自我认同的探索展开。文本中详细描写了主角在穿上变身皮物后的体验，包括心理和生理的双重变化。通过与好友王思远的对话和细致的实验过程，展现了科技如何让性别角色的体验变得更为真实。在故事的不同阶段，主人公对自身外貌、性别身份的认知与疑惑交织，带着强烈的好奇心与不安。文本中不乏对身体变化的科学性描写，提到了如何通过高科技产品模拟女性身体的各个细节。此外，内容涉及性行为的渲染，表现了个体在性别转换后产生的心理与生理上的快感体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_女神等等我_「中」.docx]([皮物]_女神等等我_�
 | Size            | 23444 bytes                           |
 | MD5             | e2c13c8ded46cacaca77d667dcde1c04                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 青春, 虚拟现实, 科技超现实, 身体探索, 自我认知, 性幻想, 另类性别, 性别转换, 男扮女装, 青春校园, 心理变化, 情感纠葛, 男性视角, 人体改造, 拟态皮物, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

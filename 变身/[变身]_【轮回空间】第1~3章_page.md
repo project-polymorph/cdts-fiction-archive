@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【轮回空间】第1~3章.docx]([变身]_【轮回空间
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录的是一段名为《轮回空间》的小说，主要讲述了主人公林风在儿童节的晚上，因加入了一个萝莉资源交流群而意外进入了一个名为‘轮回空间’的奇幻世界。在这个空间中，林风意识到自己变成了一个小女孩，与其他几个小女孩一起，面临自我认知的混乱和适应新身份的挑战。故事开篇描述了林风平日的生活与网络交往，随后展现出他变身后的独特经历。林风逐渐了解到自己的新身体以及周围其他小女孩的状况，包括对话中涉及的语言问题，展现了通过角色变化引发的困惑与探索。此作品在内容上涉及变身、性别认同等主题，并描绘了一些幻想场景，对应不少当前流行的二次元文化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【轮回空间】第1~3章.docx]([变身]_【轮回空间
 | Size            | 95427 bytes                           |
 | MD5             | 99f8ca998c1e537060a8da813546613a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 萝莉控, 奇幻, 网络交流, 自我探索, 儿童节, 角色变化, 异世界, 心理冲突, 少女, 灵魂绑定                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

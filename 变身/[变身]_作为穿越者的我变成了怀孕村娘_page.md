@@ -7,7 +7,7 @@ TXT 下载: [[变身]_作为穿越者的我变成了怀孕村娘.doc]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个穿越者的故事，穿越者在酒馆中经历性别变化，并涉及与这个变化相关的心理战斗与社会期待的情节。故事开头，穿越者描述了酒馆的环境和其对于劣质麦芽酒的厌恶，同时也对周围粗鲁男子的讨论感到不适。在喝下一个能实现愿望的神秘杯子后，穿越者开始经历身体上的变化，逐渐变化为一个年轻女性，而这一转变揭示了她对于性别角色和身体认同的冲突与探索。在过程中，穿越者被周围人的话语引导产生了新的意识，反思自己的新身份和可能的未来角色。最后，穿越者逐渐接受了这种变化，并开始适应新的生活环境与身份。整篇小说涵盖了性别认同、怀孕、生育等主题，并在此过程中融入了一些社会和性别的讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_作为穿越者的我变成了怀孕村娘.doc]([变身]_�
 | Size            | 35328 bytes                           |
 | MD5             | 457e257ff525652a0bab6d2447d3ce6b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 穿越, 性转, 跨性别, 变身, 怀孕, 村娘, 自我探索, 酒馆, 男性期望, 幻想, 社会角色, 女性身份, 性别认同, 性别变换, 传统与现代, 爱情, 生活, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

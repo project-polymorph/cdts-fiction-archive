@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新妻子-改写_下（22k）.doc]([皮物]_新妻子-改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一个伪娘 TS 变身与跨性别相关小说，主要讲述了蒂姆在过去的一夜经历中的父母角色与角色身份的切换。故事中描绘了蒂姆作为保姆的日常生活，并通过与他的妻子吉尔的对话展现了角色间的复杂关系和身份冲突。小说包含了细致的生活场景描写和心理活动，展示了蒂姆对女性形象和自身性别认同的探索。小说中隐含的性别认同、自我探索等主题通过角色的互动表现得淋漓尽致。特别是蒂姆在与吉尔的互动中表现出的渴望与不安，体现了他在性别转换过程中的心理挣扎。此外，小说通过蒂姆即将穿着的女性服装来强调身体与认同之间的关系，描绘了他对美与吸引力的追求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_新妻子-改写_下（22k）.doc]([皮物]_新妻子-改�
 | Size            | 91136 bytes                           |
 | MD5             | dcf9b9fa8ede770fe6421a6413d5737d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别认同, 伪娘, 自我探索, 幻想文学, 情感戏, 角色扮演, 二次元文化, 心理冲突, 日常生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

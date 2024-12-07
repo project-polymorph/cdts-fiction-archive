@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_机器人偶_3.docx]([皮物]_机器人偶_3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部围绕机器人与人类关系展开的变身故事，涉及复杂的情感和性别认同的主题。在第三章中，主要角色浅冈主任被乌鲁滋•威斯帕唤醒，讨论了一个具有外部组件的机器人测试。随后，故事转入测试实验室，两个女性角色—小早川和亚美—在测试过程后发生了暧昧的互动，乌鲁滋意外地打扰了她们，这引发了关于性别与权力的讨论。文中不仅描绘了角色之间的情感纠葛，还探索了角色对身份和角色期望的反思，内容中有关于自我认同与情感依恋的深度探讨。情节中涉及强烈的情感波动与人际关系的复杂性，反映了角色在性别认同与自我表达过程中的挣扎。故事的结尾处，亚美向小早川表达了自己的感情，催生了之后的更多情感线索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_机器人偶_3.docx]([皮物]_机器人偶_3.docx)
 | Size            | 28243 bytes                           |
 | MD5             | 1eff246348eb7f0bdcc1313b2a13d542                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 机器人, 变身故事, 性别认同, 情感纠葛, 科技幻想, 女性角色, 自我探索, 通宵实验室, 权力关系, 性别角色, 恋爱主题, AI, 情感依赖, 家庭关系, 日本二次元, 禁忌爱情, 社交动态, 青春期心理, 现代恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

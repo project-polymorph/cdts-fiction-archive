@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~(八).docx]([皮物]_橘
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇以性别转换和变身为主题的小说，讲述了主角艾丽莎在变身过程中面临的挑战和心理斗争。故事中，艾丽莎原本是一个身体虚弱的宅女，但在神使西利欧的帮助下获得了强大的力量。尽管力量增强，但她的外貌和身份却遭遇了严重的冲突。在与对手本田的战斗中，艾丽莎不断尝试找到胜利的机遇，同时她内心对她美丽身体的渴望和困扰交织在一起。故事涉及战斗、魔法和身体转变的元素，描绘了角色在战斗中经历的艰苦与不屈的斗志。艾丽莎的经历不仅是对力量的追求，更是对自我认同的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~(八).docx]([皮物]_橘
 | Size            | 19133 bytes                           |
 | MD5             | 28291bb073a82bb242dc0ab2bbf76f74                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 魔法, 自我认同, 战斗, 心理斗争, 神使, 力量的渴望, 青春, 冒险, 奇幻, 变装, 恶魔, 强者对决, 少女力量, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

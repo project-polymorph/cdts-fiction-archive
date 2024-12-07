@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无尽异能_第十九章_[.docx]([附身]_无尽异能_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇包含异能与性别转换元素的小说章节，描写了角色之间复杂的关系与情感。在这个故事中，三位角色：凌灵、张紫幽及宁晨，聚集在一起感悟功法，凌灵逐渐觉醒了自己的异能，而张紫幽则沾染了太初气息，这一气息不仅提升了她的修炼效率，还揭示了她与宁晨之间的强大联系。文件中的情节涉及角色的自我认知、家族间的势力斗争，以及对修炼界的深入解析。“在她的认知中，自己完全属于宁晨，所以宁晨越强，越有天赋，她越是雀跃。”这体现了张紫幽对宁晨的崇拜与依赖。整体上，文本包含了异能者之间的日常互动、力量提升以及潜在的竞争。这节选还有可能涉及一些限制级内容，需谨慎处理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无尽异能_第十九章_[.docx]([附身]_无尽异能_�
 | Size            | 17777 bytes                           |
 | MD5             | 6aa15262617e7ba8751db8d69a00bbbf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异能, 性别转换, 家族关系, 修炼, 太初气息, 角色发展, 自我认知, 少女, 奇幻, 冒险, 友情, 背叛, 阴谋, 成长, 青春, 伦理, 都市幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

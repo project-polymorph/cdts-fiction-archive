@@ -7,7 +7,7 @@ TXT 下载: [[附身]_接触（二）.doc]([附身]_接触（二）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于性别转换的小说内容摘录。故事围绕主角进行了一次附身体验，他从男性感觉转变为女性角色的经历。在此过程中，主角意识到了身体变化所带来的奇妙感受，特别是在与另一名角色欧阳静互动时，体验到了身体的敏感性和情感的复杂交织。主角对这种变化表现出惊讶与好奇，同时也反映出对自己性别认同的冲突与理解。这篇小说描绘了性别转换与情感互动的主题，包含了强烈的性暗示和色情内容，展现了角色在这种情况下的心理变化。文本中还提到了一些对外部世界的观察与反思，例如关于服务态度的幽默表达。此外，文中包含大量对身体细节和情感波动的生动描写，揭示了主角从男性到女性身份的转变所带来的内心挣扎与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_接触（二）.doc]([附身]_接触（二）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 424a30c63f63cdba9f3fef3c5b612d19                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 附身, 自我探索, 男女互动, 情感纠葛, 奇妙体验, 心理冲突, 角色扮演, 现代都市, 强烈性暗示, 主观视角, 青春校园, 性别认同, 性别角色, 身体敏感性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

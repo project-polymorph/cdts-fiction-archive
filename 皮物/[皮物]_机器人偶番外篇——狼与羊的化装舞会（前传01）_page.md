@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_机器人偶番外篇——狼与羊的化装舞会（前�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《机器人偶番外篇——狼与羊的化装舞会（前传01）》，主要讲述了主人公卡米尔的平凡生活因神秘事件而改变的故事。卡米尔是一名侦探小说爱好者，偶然接收了一条来自陌生ID的信息，邀请他参与一起真实的案件调查。故事从他与名为X先生的神秘人联系开始，随之而来的是一封关于‘奥玛拉之星’鉴赏会的请柬。卡米尔前往各类社会名流汇聚的华丽别墅，却发现事情远比想象中复杂。文中细腻描绘了卡米尔的内心矛盾以及与月山如美之间的互动，该角色不仅神秘而且充满魅力，并且在权力与财富的背景下探索人际关系和潜在的危机，同时也引发了对身份与性别认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_机器人偶番外篇——狼与羊的化装舞会（前�
 | Size            | 23914 bytes                           |
 | MD5             | 2eda4173940ac52d08e62156aa20666b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 悬疑, 变装, 侦探, 化装舞会, 性别认同, 神秘事件, 社交名流, 心理斗争, 权力游戏, 身份探索, 魔法少女, 虚拟现实, 奇幻, 高贵, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

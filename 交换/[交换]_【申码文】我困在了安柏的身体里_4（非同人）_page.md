@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_4（非同�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇以第一人称视角描写的性转小说，主要叙述了主角在新身体中面临的适应挑战和心理困扰。内容集中在主角的家庭环境中，母亲和妹妹希望他能适应女性角色，通过参加迎婴派对的过程体现出主角对于新身份的不适与抵触。文中详细描述了主角身处女性角色时的种种困境，例如进行特殊的头发护理、化妆、穿裙子等必要的社会仪容，不同于他先前的男性身份。他内心对新身份的挣扎、情感的波动以及逐渐对药物依赖的倾向，成为了小说情节的核心。主角对即将到来的迎婴派对感到无所适从，面对裙子的选择和剃腿毛的尴尬，他的心情在对新身份的恐惧与渴望中反复摇摆。这种身份转变不仅是身体的变化，更涉及她的心理状态和对亲密关系的再思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_4（非同�
 | Size            | 49664 bytes                           |
 | MD5             | 682699d17b28905f96a9fc3168c9366d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 药物依赖, 心理挣扎, 迎婴派对, 家庭关系, 身份认同, 女性化, 自我探索, 情感剧烈变化, 生理变化, 个人危机, 角色转换, 二次元, 小说, 青少年, 成长故事, 家庭期望, 身体认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

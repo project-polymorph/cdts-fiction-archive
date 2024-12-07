@@ -7,7 +7,7 @@ TXT 下载: [[其他]_TG联盟【Ⅱ】.doc]([其他]_TG联盟【Ⅱ】.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《TG联盟【Ⅱ】》是一部围绕跨性别与变身主题的小说，主要通过角色赵明镜的视角展开。故事中，赵明镜刚加入一个有关变装与伪娘文化的论坛，在论坛的线下聚会上，他遇到了几位性别认同多元化的角色。对话中，赵明镜和一位名为蝶的女性角色展开了一场关于伪娘与变装的讨论，体现了角色对自身身份及社会规范的探索和自我认同的冲突。故事深入探讨了伪娘的定义和文化，角色们通过对话探讨了变装与伪娘之间的相似与差异，并讨论了伪娘这一身份的独特性。此外，小说描绘了一个多元化和包容的社群，角色们以各自独特的方式表达着对性别的认同与探索。情节中交织着嫉妒、自我怀疑和群体内部的动态，描绘了一幅复杂的跨性别群体交往图景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_TG联盟【Ⅱ】.doc]([其他]_TG联盟【Ⅱ】.doc)
 | Size            | 32768 bytes                           |
 | MD5             | c896cb77899c6e9a0be34207f12066bc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变装, 强烈的自我探索, 聚会, 青年文化, 自我认同, 性别认同, 代际差异, 社群互动, 心理冲突, 角色塑造, 性别流动性, 多元身份, TG文化, 二次元, 幻想情节, 情感戏剧, 社交动态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

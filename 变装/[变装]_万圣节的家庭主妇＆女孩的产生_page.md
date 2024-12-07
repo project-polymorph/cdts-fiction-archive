@@ -7,7 +7,11 @@ TXT 下载: [[变装]_万圣节的家庭主妇＆女孩的产生.doc]([变装]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含两篇相关变装和性别转换主题的小说，分别是《万圣节的家庭主妇》和《女孩的产生》。
+
+在《万圣节的家庭主妇》中，故事围绕着一个男性角色在万圣节舞会中穿着女性衣物的经历展开。他的妻子为他精心准备了服装，包括胸部模型，使他在舞会上被认为是女性。他沉浸于舞会的氛围中，逐渐适应了这个角色，并与一名男性角色发生了一系列的亲密互动，深入探索自己的性别认同及欲望。
+
+《女孩的产生》则进一步探讨了性别认同的主题。主角约翰的母亲发现了他电脑中的女性形象照片后，展开了一场关于他性别身份的对话。约翰的内心挣扎与母亲的理解形成鲜明对比，描绘了一个男孩对于变成女孩的渴望和社会期待之间的冲突，揭露了性别角色的刻板印象，以及对自我身份的探索与接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变装]_万圣节的家庭主妇＆女孩的产生.doc]([变装]_�
 | Size            | 35328 bytes                           |
 | MD5             | 7ce7728e665bc654d68fb4956b882f12                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Amanda Hawkins                               |
+| Region          | 未知                               |
+| Date            | 2020-08-01                                 |
+| Tags            | 万圣节, 变装, 性别认同, 男性转女性, 亲密关系, 性向探索, 母子关系, 女性形象, 社交互动, 自我认知, 心理冲突, 二次元文化, 性别角色, 跨性别, 舞会, 女性化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

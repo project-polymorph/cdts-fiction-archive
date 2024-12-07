@@ -7,7 +7,7 @@ TXT 下载: [[改造]_怪异档案3.docx]([改造]_怪异档案3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个涉及跨性别和性别变换主题的小说片段，主要围绕角色杨墨的奇异经历展开。在故事中，杨墨在一场卡牌游戏后醒来发现自己变成了女性，伴随着一系列对自我身体现状的探索和认同。文本详细描绘了杨墨在变身后的心理变化及身体感受，尤其是在面对身体的变化和新身份的接受时所产生的混乱与兴奋。逻辑上，故事的情节包括与人妖的互动，以及对两者身份和关系的重新理解，体现了对性别和自我认同的深刻探讨。此外，文本中包含不少性相关的描写，描述了身体快感和情欲的交织。整体来说，虽然该片段不是完整的小说，但通过详细描写角色的内心世界和身体反应，展示了跨性别经历的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_怪异档案3.docx]([改造]_怪异档案3.docx)
 | Size            | 19562 bytes                           |
 | MD5             | 4c0aa74275a7046f1a4aeef9ccbeed42                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘小说, 变身, 自我探索, 快感体验, 奇幻, 都市奇遇, 超自然, 角色发展, 男女关系, 性别认同, 权力动态, 心理冲突, 卡牌游戏, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

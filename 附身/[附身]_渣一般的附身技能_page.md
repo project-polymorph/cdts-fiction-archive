@@ -7,7 +7,7 @@ TXT 下载: [[附身]_渣一般的附身技能.docx]([附身]_渣一般的附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《渣一般的附身技能》是一部围绕性别转换与附身主题的小说。故事的主人公是一个依赖父母遗产而生活的男孩，由于长期坚持宅家不出门，身体状况日渐不佳。他的生活在接到一位来自网络的女孩浮云儿后发生了急剧变化。在准备接她回家时，男主以为这段关系会带来乐趣，然而实际上他却遭遇了一系列意想不到的事件。文章详细描写了男孩与女孩的初次相遇及其心态变化，比如他在心中暗自计划如何侵犯她并体验到女人的滋味，却引来对方的强烈反击和嘲讽，最后变身为女性。在目睹变身过程中的痛苦与无助的同时，小说借此探讨了身份认同的主题，以及主角对自己行为的反思与内心挣扎。最终，他的生活将会因此彻底改变，而这些复杂的情感与身体的变化给予读者深刻的思考和冲击。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_渣一般的附身技能.docx]([附身]_渣一般的附身
 | Size            | 46628 bytes                           |
 | MD5             | b91cf86bb3bcc4f07d17c02cdf2809ef                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 跨性别, 伪娘, 男娘, 强奸, 自我探索, 心理斗争, 变身, 都市奇幻, 虚拟现实, 少女, 游戏, 情感冲突, 心理虐待, 青春爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

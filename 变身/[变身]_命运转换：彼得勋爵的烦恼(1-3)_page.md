@@ -7,7 +7,7 @@ TXT 下载: [[变身]_命运转换：彼得勋爵的烦恼(1-3).doc]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个名为《命运转换：彼得勋爵的烦恼》的小说，故事的主角是英俊且富有的勋爵彼得·德弗里斯，他因一条神秘的项链而经历了意外的性别转换。在事件的起点，彼得正面临婚姻的危机与不忠的嫌疑，他的妻子凯瑟琳似乎与其他男人有染。故事通过彼得的内心独白与对自身身份的探讨，展现了他由男性转换为女性后所体验到的身体和情感的复杂变化。在一次次的反复尝试中，彼得逐渐发现了性别与自我认同的关系，以及婚姻、财产与感情的交织。随着他不断深入凯瑟琳的私人生活，彼得的内心也不断挣扎于原有的自我与新身份之间。小说结合了性别认同、身份替换、婚姻危机等主题，细腻揭示了角色的心理变化与情感纠葛，充满了对个人身份与社会角色的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_命运转换：彼得勋爵的烦恼(1-3).doc]([变身]_�
 | Size            | 41472 bytes                           |
 | MD5             | 8f2a2d085e177ee340543c210b8881bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 婚姻危机, 自我认同, 跨性别, 情感探索, 伪娘, 男娘, 迷失自我, 身份替换, 奇幻, 心理历程, 情感纠葛, 异世界, 性欲, 女性高潮                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

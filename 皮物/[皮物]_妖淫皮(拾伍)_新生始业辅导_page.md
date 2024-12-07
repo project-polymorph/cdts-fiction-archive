@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_妖淫皮(拾伍)_新生始业辅导.docx]([皮物]_妖淫
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一段关于一个年轻女孩在公交车上遭遇痴汉侵犯的情节。故事以女孩的内心独白展开，描绘了她对这一色情场景的复杂感受和心理状态。在描述中，女孩虽然经历了侵犯，但她保持了一种奇特的兴奋感和自我接受。故事中也涉及她与家人和朋友的对话，表达了对于即将开始的学校生活的期待和对安全的思考。在文件的后半部分，女孩参与了学校的新生迎接活动，描述了与年长同学的互动，以及她们之间的暧昧关系。整体情节围绕性别认同、自我探索，以及对性与情感的模糊界限进行展开，表现了一种奇异而深邃的青春困惑与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_妖淫皮(拾伍)_新生始业辅导.docx]([皮物]_妖淫
 | Size            | 28706 bytes                           |
 | MD5             | 1db12724158227fd5dee09b62aba7924                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 校园生活, 跨性别, 少女情怀, 痴汉, 强奸, 初恋, 青春探索, 性别认同, 人际关系, 揭露社会, 新生入学, 性别模糊, 情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

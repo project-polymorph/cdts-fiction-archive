@@ -7,7 +7,7 @@ TXT 下载: [[变性]_把男朋友养成亲闺女_112.docx]([变性]_把男朋�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文本文件名为《把男朋友养成亲闺女》的第112章，描绘了角色坎迪和贝丽之间的亲密关系和情感互动。在这一章中，贝丽面临着驾照考试的压力，她感到自信心受到挑战，尤其是在经历了考试失败后. 坎迪努力安慰贝丽，鼓励她并重申她的价值，表现出对朋友的关心。文字中包含情感支持、对自我认同的探索和性别角色的扭转。这章结合了友情、爱情和成长的主题，重点展现了贝丽在性别认同转换过程中所面临的内心冲突。该文本根据情节涉及性别角色变化、鼓励和支持，展现出复杂的人际关系与自我认知的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_把男朋友养成亲闺女_112.docx]([变性]_把男朋�
 | Size            | 20662 bytes                           |
 | MD5             | 1563696ee8765948e7912981dc2e7093                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转小说, 跨性别, 友情, 成长, 自我探索, 贝丽, 坎迪, 驾照考试, 情感支持, 鼓励, 二次元, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

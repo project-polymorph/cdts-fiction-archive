@@ -7,7 +7,7 @@ TXT 下载: [[附身]_靈魂注射器(3).docx]([附身]_靈魂注射器(3).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕一名新生的大学生活展开，开篇时，主人公在父母的陪同下入住宿舍。故事的开头描述了主人公与三位室友的相遇，其中一个室友表现得非常黏人，通过各种交流与互动，增添了许多校园生活的氛围。然而，随着故事的发展，主人公渐渐发现自己的人生处于一种迷失和混乱的状态，逐渐交织着性别、身份与自我认同的探索。剧情中充满了奇幻与生活的交织，主人公的性别也经历了变换，最终形成了复杂的心理状态。在一次梦醒中，主人公发现自己被奪去了身体和意志，逐渐接受并探索这种新的存在状态，也对自己的情感、欲望及身份产生了新的理解。整部作品中不乏对跨性别与性别认同的深刻思考，最终展现出个人成长与自我认知的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_靈魂注射器(3).docx]([附身]_靈魂注射器(3).docx)
 | Size            | 26955 bytes                           |
 | MD5             | 22f625b1c79f562b968bd4aded603fc4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 伪娘, 校园生活, 灵魂转换, 自我探索, 梦境与现实, 欲望与挣扎, 心理冲突, 双性人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

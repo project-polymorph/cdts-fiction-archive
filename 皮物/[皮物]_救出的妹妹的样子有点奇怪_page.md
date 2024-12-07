@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_救出的妹妹的样子有点奇怪.docx]([皮物]_救出
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名男大学生泷泽和真与他的妹妹泷泽瑠美之间复杂关系的小说。故事涉及性别转换与身体控制的主题，主要讲述了丸山义夫，一个对瑠美抱有单方面好感的男生，如何使用神秘的注射器把她的身体变成了皮肤，并试图替代她的身份。瑠美在邻居和真的刺激下，逐渐展现出自己被劫持的真相。经过一系列紧张刺激的情节，和真和他的好友们最终成功地揭开了丸山的伪装，并帮助瑠美恢复原状。作品探讨了性别认同、自我探索与角色冲突的主题，同时涉及不少离奇与惊悚的元素。该文件的最后一部分暗示瑠美的经历只是故事的开端，留给读者许多悬念与联想。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_救出的妹妹的样子有点奇怪.docx]([皮物]_救出
 | Size            | 36577 bytes                           |
 | MD5             | f324afd5937c9ec6bd3c15ed432f4699                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 变身, 心理斗争, 悬疑, 科幻, 青春, 人性探索, 自我认同, 情感冲突, 亲情, 惊悚, 神秘, 伦理探讨, 荒诞                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

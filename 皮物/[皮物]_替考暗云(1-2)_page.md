@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_替考暗云(1-2).doc]([皮物]_替考暗云(1-2).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及性别转换与自我认同的小说，名为《替考暗云》。故事的主角汪凯是一名高中生，在班主任的诱惑下参与替考事件，面临着道德和法律的抉择。文件描述了汪凯在学校内的生活以及与他的朋友赵佳文的互动，展示了校园生活中的复杂关系与心理冲突。故事发展至江晴（汪凯的母亲）被一名神秘校长利用人皮进行的控制，这一诡异情节使得故事逐步转向超自然色彩。江晴在被替换后，意识逐渐模糊，伴随新身份的自我认识与外在身体的变化，故事触及了性别认同与身体自主权的主题。文件中对一些情节进行了详细描写，包括对人物外貌的细腻刻画与心理活动的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_替考暗云(1-2).doc]([皮物]_替考暗云(1-2).doc)
 | Size            | 48128 bytes                           |
 | MD5             | 1e8d32d8009322a683922d7ebe447154                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 替考, 校园生活, 自我认同, 超自然, 心理冲突, 变形, 身体自主权, 女性视角, 阴暗, 情色, 伦理, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

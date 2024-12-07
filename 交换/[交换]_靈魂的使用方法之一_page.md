@@ -7,7 +7,7 @@ TXT 下载: [[交换]_靈魂的使用方法之一.doc]([交换]_靈魂的使用�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于性别转换和自我认同的短篇小说，主要讲述了一位名叫李莉的女孩与一位转学生孙克之间的奇妙经历。故事开头，李莉在学校表现优异，但在情感方面却一直没有得到男友的青睐。转学生孙克的到来打破了她的生活平衡，随后发生了一系列诡异且充满戏剧性的事件。李莉在与孙克的冲突中，不知不觉间与他的灵魂产生了交换，使李莉在孙克的身体中体验到了前所未有的奇异感受。故事中涉及性转与跨性别的情节，描绘了角色在体验这种变化时的心理冲突和身体感受。情节中充满了暧昧以及强烈的性暗示，李莉在失去自己的身体之后，不得不面对孙克的欲望和自己身体带来的新体验。最终，她意识到自己不仅失去了身体，甚至连自己的记忆也逐渐被吸收。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[交换]_靈魂的使用方法之一.doc]([交换]_靈魂的使用�
 | Format          | Microsoft Word Document                               |
 | Size            | 52736 bytes                           |
 | MD5             | ffd9296b442e7eb74a47f3d4fdce9651                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 身体交换, 心理冲突, 自我认同, 少女心态, 青春校园, 性探索, 幻梦体验, 情感纠葛, 迷失与寻找, 骚动的内心, 矛盾与欲望, 奇幻, 短篇小说, 异性恋情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_体液_第二季第三集.docx]([附身]_体液_第二季�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部伪娘相关的变身小说，主要讲述了女主角宁婕在厕所变身为女性后，感受到了女性身体所带来的全新快感与自我认知的冲突。在文中，宁婕刚刚变身，她内心的挣扎和对新身份的惊喜交织在一起。有对身体的探索和情感的自我重新定义的描述，使得她对女性的感觉既熟悉又陌生。小说中描绘了她在浴室中的不同体验，以及她如何适应这个新身份的挑战。在与她的新身体连接后，宁婕逐渐发现内心对于性别和自我认同的复杂情感。文中不时穿插她之前的记忆片段，以及对自己新身份的反思，展现了性别认同过程的多维度。文末出现的情节提示了宁婕在新身份下与外界的互动：与一位女性服务员的会谈可能会引发新的故事发展。整体上，小说通过宁婕的体验探讨了性别转换带来的身体感受和心理冲击，同时也揭示了女性身体的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_体液_第二季第三集.docx]([附身]_体液_第二季�
 | Size            | 22856 bytes                           |
 | MD5             | 3db14ccf89f43a1b7387a279bd0c50b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 性别认同, 性别转换, 性别冲突, 自我探索, 触感体验, 都市幻想, 情感纠葛, 身份认同, 女性快感, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

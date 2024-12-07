@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【诸天黑牙商】（3）.doc]([改造]_【诸天黑牙
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《诸天黑牙商》的第三章，主要叙述了主角古月与他的伙伴曲山在遭遇仇家的追击时的逃亡经历。在快速变换的情节中，古月面临各种敌对势力的攻击，包括一位从鬼变身为女性的女鬼，和一位名为包不同的角色。情节逐渐发展到古月与不同势力的对峙，他所遭遇的挑战让他不得不展示出卓越的适应能力和战斗技巧。在这一章节中，角色间的互动紧张而复杂，展现了诸天万界多元势力的斗争。插入了一些幽默元素以及对角色背景的逐步揭示，让整篇小说在奇幻与侠义之中融入了更多人性描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【诸天黑牙商】（3）.doc]([改造]_【诸天黑牙
 | Size            | 37888 bytes                           |
 | MD5             | a81564eded2c74f678a286e96e75a521                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 奇幻, 鬼怪, 斗争, 自我认知, 幽默, 多元身份, 侠义, 诸天万界, 女鬼, 包不同, 古代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

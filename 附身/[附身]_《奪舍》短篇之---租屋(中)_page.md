@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《奪舍》短篇之---租屋(中).doc]([附身]_《奪�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《奪舍》是一篇关于性别转换与身体占有的短篇小说，涉及伪娘和变身的主题。故事以小如为中心，她在一次突如其来的“强袭”中被阿飘姐企图夺取身体。阿飘姐通过一系列仪式和使用一种神秘的药水，意图将小如的青春之体据为己有。故事中描绘了小如从被绑架到逐渐失去意识，以及阿飄姐如何对待小如的身体，最后完成自身办公室向小如夺取身体的过程，反映出身体控制、性别认同和欲望的复杂性。情节中包含了大量的性暗示和色情描写，体现出对欲望和身体的探索。这部作品以其独特的主题和大胆的情节引人深思，同时也可能给读者带来不适感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《奪舍》短篇之---租屋(中).doc]([附身]_《奪�
 | Size            | 36352 bytes                           |
 | MD5             | 756cdb9ae9f4e7ede05b32d318bae6a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 变身, 阴谋, 欲望, 性暗示, 灵魂占有, 仪式, 青春, 身体控制, 自我认知, 同性恋, 爱欲, 心理冲突, 自我探索, 邪教, 黑暗幻想, 女性角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

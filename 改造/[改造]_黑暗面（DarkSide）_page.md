@@ -7,7 +7,7 @@ TXT 下载: [[改造]_黑暗面（DarkSide）.doc]([改造]_黑暗面（DarkSide
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《黑暗面（DarkSide）》的原创小说，内容围绕一个年轻警探崔斯特的经历展开，他在追查变种人犯罪过程中，逐渐面对自身的黑暗面。故事开始于崔斯特的警察职业生涯，他因为过于信仰正义而迷失方向，不顾警局内不成文的规定，执意接手一个危险的变种人案件，最终遭遇惨痛的失败，十三名组员在执行任务中被变种人屠杀，崔斯特本人也深受重伤。他在被绑架并囚禁于秘密实验基地的日子中，经历了人性的摧残，内心的挣扎，以及对信念的崩塌。作者用丰富的情节对人性的黑暗和道德的困境进行了深刻的探讨，表现出在极端情况下人性的扭曲与自我认知的变化。这部作品不仅描写了力量与信仰的冲突，还探讨了变种人这一角色群体所带来的道德和社会问题，在二次元性转与跨性别文学的框架内，呈现出复杂的人物心路历程。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_黑暗面（DarkSide）.doc]([改造]_黑暗面（DarkSide
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | f836ccd8e1d3a7d3a6ed87960671e8e7                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 警探, 变种人, 黑暗面, 自我认知, 性别身份, 力量与信仰, 囚禁与实验, 人性探讨, 反派角色, 正义与腐败, 内心挣扎, 变身, 转变, 道德困境, 情感创伤, 二次元文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

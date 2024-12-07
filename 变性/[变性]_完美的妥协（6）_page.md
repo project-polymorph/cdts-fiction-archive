@@ -7,7 +7,7 @@ TXT 下载: [[变性]_完美的妥协（6）.doc]([变性]_完美的妥协（6�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇涉及变性主题的小说，特别聚焦于角色杰西（Grace）的转变与自我认同的冲突。故事中，杰西因个人原因被迫接受转变，为了融入达灵顿公爵家族的生活，她被叙述了这些痛苦和屈辱的经历。杰西的身体经历了永久性的改变，接受了纹身以加入这个家族。故事描绘了她从挣扎逃避到逐渐接受这一切的心理变化。在经历手术和情感的混乱后，杰西意识到自己将永远不可逆转地成为“杰西的女人”，这一身份令她感到既绝望又被困。同时，小说中充满了关于权力、身份和自我价值的探讨。多次出现的细节，如对身体的控制和外貌的改变，进一步加深了她的身份认同危机和肉体变革之痛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_完美的妥协（6）.doc]([变性]_完美的妥协（6�
 | Size            | 44032 bytes                           |
 | MD5             | cba82a5d1a95b561861c408c9927a7ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 达灵顿家族, 永恒的身份, 女性化改造, 纹身, 自我认同, 心理冲突, 权力关系, 二次元小说, 悲剧, 内心挣扎, 家庭压迫, 社会身份, 女性角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

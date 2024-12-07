@@ -7,7 +7,7 @@ TXT 下载: [[其他]_（我也要来凑热闹！）安娜的世界_IV：血脉�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为名为《（我也要来凑热闹！）安娜的世界_IV：血脉与战争》的小说文本，内容包含大量与性相关的情节，强烈描绘了角色之间的性活动及其心理状态。文本围绕一群年轻男女的淫乱聚会展开，展示了在一种混乱的环境下，他们彼此之间追求性的快感。故事开头就以对话的形式引入，角色们在喝酒并嘲笑彼此，随即发展为更加露骨和暴露的场景，暗示了对性别关系及其转变的探讨。随着情节的推进，角色之间的性行为变得更加露骨且不拘一格，作品中涉及强奸、 NTR、乱伦等多种情节，表现出复杂的人际关系以及在极端环境下对人性的探索。文中不仅涉及身体的改造，还探讨了身份认同与自我认知的冲突，涉及若干性别认同及性行为的主题。文中多次出现对角色身体及性行为的详细描述，使用了大量含有色情成分的语言，供特定受众研究和探讨相关话题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_（我也要来凑热闹！）安娜的世界_IV：血脉�
 | Size            | 338432 bytes                           |
 | MD5             | 2ebb61777665bf984da49cf05183a7dd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 2045-01-01                                 |
+| Tags            | 伪娘, 变性, 性转, 强奸, NTR, 乱伦, 淫荡, 调教, 逆后宫, 年龄差, 药娘, 女仆, 百合, 双胞胎, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

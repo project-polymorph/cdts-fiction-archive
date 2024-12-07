@@ -7,7 +7,7 @@ TXT 下载: [[变性]_变性药物的实验报告.doc]([变性]_变性药物的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《变性药物实验报告》是由黑川撰写的一份详细记录，跟踪了某变性药物在实验对象身上所产生的变化和效果。这份报告详细描述了实验开始后的九天内，受试者的身体特征、内部及外部变化。根据实验记录，受试者在使用变性药物后，体温、肌肉含量、脂肪分布等生理特征经历了显著变化，逐渐向女性化转变。实验期间的观察包括了体毛的脱落、胸部的生长、阴茎和睾丸的萎缩，以及女性生殖器官的逐步形成。在实验结束时，受试者已完全转变为女性，报告提出了未来的研究方向与可能的市场应用，同时强调对实验对象后期生理特征的关注和不同的实验验证。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_变性药物的实验报告.doc]([变性]_变性药物的�
 | Size            | 33280 bytes                           |
 | MD5             | 01995ce3f9430804258ca55f4b39a05d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 黑川                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变性药物, 实验报告, 变性过程, 性别认同, 身体变化, 自我探索, 科学研究, 性别角色, 生殖健康, 性别转换, 女性化, 身心变化, 实验观察, 医药伦理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[改造]_进化_章四.doc]([改造]_进化_章四.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇与跨性别与变身相关的小说，讲述了一个名为克里斯缇娜的角色在开学第一天的经历。故事伊始，克里斯缇娜由母亲带到学校，作为转校生介绍给新的同学们。她的外表和身份的转变使她倍感羞耻与不安，但克里斯缇娜努力适应新的生活与学习环境。尽管面临同学们的关注与各种视线，克里斯缇娜希望能与大家建立友谊。她特别关注与好友萨姆的关系，感到失落于萨姆在学校的冷淡反应。文件通过描写克里斯缇娜在学校生活中的挣扎与成长，探讨了性别认同、自我探索以及友谊的重要性。
+
+在面对男同学的搭讪和女同学的初步接纳时，克里斯缇娜内心的矛盾与挣扎显露无遗。她虽然承认自己身体的变化在许多方面给予了她不同的体验，但却希望维持与萨姆间的友谊。在经过一番对话后，克里斯缇娜和萨姆之间的误会得到了解释，两人共同约定一起追求未来的学业与目标。最终，克里斯缇娜接受自己的新身份，并开始拥抱学校生活，同时也期待着与凯特的聚会邀请，这标志着她的进一步融入。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +22,11 @@ TXT 下载: [[改造]_进化_章四.doc]([改造]_进化_章四.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 38912 bytes                           |
 | MD5             | 25083cc11b13585d98b6ac1ff67fe9ad                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身小说, 跨性别, 青春成长, 友谊, 嘲讽与接受, 学校生活, 自我探索, 转校生, 外貌变化, 女性视角, 情感, 克里斯缇娜, 萨姆, 聚会邀请, 新的开始                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

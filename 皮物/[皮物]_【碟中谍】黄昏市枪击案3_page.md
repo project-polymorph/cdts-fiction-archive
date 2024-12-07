@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【碟中谍】黄昏市枪击案3.doc]([皮物]_【碟中
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于跨性别主题的小说，其中主要描述了名为郭美美的小处男与一位女性角色之间的互动。故事涉及催眠、变装以及性别认同等情节。在文中，郭美美与另一角色在公寓中经过一段时间的亲密接触后，开始体验身体和性身份的转换。作者讨论了催眠的效果，包括如何影响被催眠者的意识和行为，郭美美忘记了自己的真实身份并接受了作为女性的生活。文中有多次提到角色通过催眠和性行为的互动形成新的自我认知，重点突出性别流动性与个人身份的探讨。内容细节涉及性行为和性转化的强烈描述，可能包含不适合所有读者的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【碟中谍】黄昏市枪击案3.doc]([皮物]_【碟中
 | Size            | 39424 bytes                           |
 | MD5             | b04effd711b302e02be7f38655357d44                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 催眠, 变装, 性别认同, 性转小说, 角色转换, 文档墙, 二次元, 色情内容, 心理操控, 女性视角, 性别流动性, 情感关系, 性探索, 生理与心理变换, 虚拟角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

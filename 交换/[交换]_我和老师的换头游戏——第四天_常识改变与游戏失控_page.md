@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我和老师的换头游戏——第四天_常识改变与
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别交换游戏的小说片段，讲述的是主人公金谷弥城与年轻女教师银崎初芽老师的换头游戏情节。在游戏的第四天，故事围绕着他们身体完美交换所带来的各种困境与心理冲突展开。男主角的身体虽然是成年女性的身体，但他的内心仍旧是高中男生，因此面临着身形和身份认知的双重挑战。文件中详细描述了金谷弥城在日常生活中的尴尬处境，例如穿着女老师的服装，体验母乳化等等。游戏的新规则也引发了身体与意识的变化，使得角色们的常识逐步被改变，彼此之间的关系和对身体的认知也在悄然发生转变。整体情节暗示了性别认同、自我探索和社会规范的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我和老师的换头游戏——第四天_常识改变与
 | Size            | 37107 bytes                           |
 | MD5             | e925113c0f54ff6eb22dc6fd058a002b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 变身, 校园, 自我认知, 性别认同, 幽默, 成长, 心理冲突, 青春, 异性装扮, 母乳化, 尴尬, 亲情, 校园生活, 科幻, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

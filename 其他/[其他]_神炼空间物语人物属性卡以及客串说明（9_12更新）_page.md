@@ -7,7 +7,7 @@ TXT 下载: [[其他]_神炼空间物语人物属性卡以及客串说明（9_12
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《神炼空间物语人物属性卡以及客串说明》，包含了一位名为如梦的角色的详细属性和技能信息。该角色的ID是R3238，崇拜的神灵为皮物女神，属于中立阵营。文件中详细列出了角色的信徒等级、心法、神力点数和积分情况。重要属性包括迅、烈、神、体、魂的数值，角色的功法和技能如皮之力烙印术和皮之侦测术也得以呈现。此外，文件还包括了装备的信息，如米歇尔•帕格的伪装套装和医女小香的人皮等道具的详细描述，包括使用条件和效用。该资料涉及角色在试炼空间中的技能使用和对皮之力的管理，反映了该设定下的丰富世界观和机制。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_神炼空间物语人物属性卡以及客串说明（9_12
 | Size            | 16828 bytes                           |
 | MD5             | 3ca89f9488555b77a119717d484c5260                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 神炼空间, 角色属性卡, 伪娘, TS变身, 跨性别, 皮之力, 游戏设定, 角色扮演, 道具装备, 信仰系统, 中立阵营, 人物技能, 幻想世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

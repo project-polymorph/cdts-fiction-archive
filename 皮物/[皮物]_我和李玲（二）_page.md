@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我和李玲（二）.doc]([皮物]_我和李玲（二）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇伪娘与性别变换相关的小说，讲述了一位主角通过迷药与化妆，将自己变身为名为李玲的女性，并利用对方的身份与上司王小帅展开了一系列暧昧与性相关的情节。文本中包含了细致的变身过程，角色之间的心理斗争，以及涉及到的性别认同与自我探索等主题。主角以李玲的身份想要凭借迷人的外表与魅力，操控他人以及体验女性所带来的不同生活。故事中穿插了对化妆技巧的描写以及对外貌的琢磨，体现了主角对自身女性化的欣喜与享受，因此也涉及到浓厚的性暗示和色情元素。该文本对于性转、伪娘、变嫁等题材进行了较为细腻且深入的探讨，同时也带有较强的挑逗性与表现力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我和李玲（二）.doc]([皮物]_我和李玲（二）.
 | Size            | 33280 bytes                           |
 | MD5             | 436465f1bc657120312f892442014ea3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 恋爱, 暧昧, 强奸, 调教, 逆后宫, 性转, 肉体交换, 绝对服从, 女性视角, 都市幻想, 情趣服装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

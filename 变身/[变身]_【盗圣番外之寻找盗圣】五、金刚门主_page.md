@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】五、金刚门主.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一部设定于古代武侠世界的变身与跨性别相关小说的章节，标题为《盗圣番外之寻找盗圣》。文件的具体内容围绕主角阳顶天与变身为女子的飞飞之间的互动展开。在故事中，飞飞为了一项阴险的计划，伪装成花魁林仙儿以靠近阳顶天，并在阳顶天的密室中发生了一系列情感与肉体的纠葛。关键情节包括阳顶天对飞飞的欣赏，以及两人之间潜在的性别与权力动态的对抗。文中涉及强烈的性暗示与露骨的性行为描写，例如阳顶天将佛珠塞入飞飞的身体以及飞飞在阳顶天的掌控下进行舞蹈表演，整个过程揭示了角色的内心冲突与认同的复杂性。此小说充满了二次元的奇幻元素，包含性转、变装、调教等主题，适合研究与探讨性别认同与变形的文学作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】五、金刚门主.doc]([
 | Size            | 47104 bytes                           |
 | MD5             | 88a68f688d151c2f548ff49f5407e86a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 武侠小说, 古代, 变身, 调教, 兔女郎, 密室, 性别认同, 幻想, 自我探索, 女体化, 强奸, 变嫁, 调教, 爱情, 古代背景, 异族情缘, 毒药, 花魁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

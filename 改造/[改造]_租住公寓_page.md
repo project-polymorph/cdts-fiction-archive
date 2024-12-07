@@ -7,7 +7,7 @@ TXT 下载: [[改造]_租住公寓.docx]([改造]_租住公寓.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一个大学生蒂姆租住公寓的故事，描述了他在暑假结束前提前返校的经历。在校外找到了一处位于陈旧住宅区的维多利亚风格的公寓，由律师丹和年轻的妻子马奇租住。那对夫妇给蒂姆提供了一个非常便宜的地下室公寓，并与他展开了友好的交流。蒂姆回忆起自己的孤儿经历以及不喜欢学校宿舍的原因，表现出他对安静环境的向往。房子中的家具和设施令人惊艳，与他预想的公寓完全不同，展现出一种精致而又温馨的居住氛围。在一次清洁中，他无意间发现了马奇的衣物，激起了他的好奇与遐想。整个故事探索了蒂姆的自我认知、对美好生活的向往及与丹和马奇的关系发展，同时也暗示了他内心对性别与身份的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_租住公寓.docx]([改造]_租住公寓.docx)
 | Size            | 71662 bytes                           |
 | MD5             | e0ff807b6c415f66d296127387cede79                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别探索, 大学生活, 租住公寓, 自我认知, 家庭关系, 安静环境, 东方式美学, 潜在的性别认同, 青年孤儿, 维多利亚风格, 跨性别, 租房经历, 好奇心, 家庭温暖, 社会阶层, 私密空间, 生活百态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

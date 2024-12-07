@@ -7,7 +7,7 @@ TXT 下载: [[附身]_到了异世界就给我狠狠更新【3】.doc]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于角色在异世界冒险的变身小说，围绕主人公花树与其他乘客在一个充满危险和未知的环境中生存与自我探索的故事。故事开篇描述了花树因受到其他乘客的误解和攻击而感到愤怒和无助的情绪，随着情节发展，他意识到团队合作的重要性。当团队成员麻玛因为能力值的放弃而感到虚弱时，花树主动上前帮助，展现了关怀与责任感。在与其他角色的互动中，小说既有幽默的对话，又涉及深刻的自我认知与疼痛的体验，尤其是在花树探索自己变身能力的过程中，表现出对自身身份和能力的探讨。故事情节逐渐深入，呈现出更为复杂的人物关系和情感冲突，探讨了勇气、友情与自我价值的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_到了异世界就给我狠狠更新【3】.doc]([附身]_
 | Size            | 78848 bytes                           |
 | MD5             | 294710b3d88cf82ad556bfe3c10eb1c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 异世界冒险, 自我探索, 角色互动, 团队合作, 心理冲突, 能力设定, 情感成长, 友情, 责任感, 幽默, 紧张, 自我认知, 男性视角, 神秘力量, 幻想类                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

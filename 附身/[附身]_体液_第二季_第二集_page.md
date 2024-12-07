@@ -7,7 +7,7 @@ TXT 下载: [[附身]_体液_第二季_第二集.docx]([附身]_体液_第二季
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位名叫徐子彤的女孩的故事，描绘了她在日常生活中面临的心理挣扎与外界冲突。故事开始于冬天的早晨，徐子彤被母亲叫起床，一边吃早餐一边绞尽脑汁思考自己的秘密能否告诉母亲。她的心里藏着一些无法向母亲倾诉的事，这让她的胃口变得很差。接着，徐子彤在上学的路上遇见了帅气的学长兰，两人之间的互动让她忐忑不安，同时也感受到些许甜蜜。兰学长的出现，让她在内心深处对自己的性别认同感产生了微妙的影响。文件后半部分，徐子彤在学校附近意外遭遇了由三个少女组成的恶霸，她们的嘲讽和威胁对徐子彤造成了心理上的巨大压力。本作品探讨了青年自我认同、心理成长、性别冲突及校园暴力等一系列深刻而复杂的话题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_体液_第二季_第二集.docx]([附身]_体液_第二季
 | Size            | 26407 bytes                           |
 | MD5             | b7154c6889270342d71f85d6c6658682                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 校园故事, 青春成长, 心理冲突, 自我探索, 伪娘, 男娘, 变身小说, 浪漫爱情, 角色发展, 校园暴力, 情感纠葛, 关系复杂, 青少年问题, 幻想, 奇幻, 现代生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

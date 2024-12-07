@@ -7,7 +7,7 @@ TXT 下载: [[变装]_意外的生活（四）.docx]([变装]_意外的生活（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为名为《意外的生活（四）》的小说文档，具体描绘了一位角色在变装后，与男性角色麦克之间发生的情感与性关系。这一章节主要集中在角色贝丝与麦克的亲密接触上，详细描述了他们在派对后意外发生的性行为及其心理变化。订阅内的对话和情感表达则进一步展示了角色对自己性别认同的探索，以及对过去生活的反思。文件中穿插了不少生动的描绘，如“我穿着束腰、内裤、丝袜和高跟鞋”，展示了贝丝的女性化装扮和她与麦克的关系发展。同时，也涉及了角色之间情感的转变，以及贝丝对未来生活的设想与渴望，包括成為家庭主妇的愿景及其对麦克的新身份期待。此篇内容所包含情节适宜于成年受众，并反映了跨性别及性别认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_意外的生活（四）.docx]([变装]_意外的生活（
 | Size            | 21787 bytes                           |
 | MD5             | 812f79eaebc9ef65193a2b6a3e7c1b54                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 自我探索, 情感关系, 强烈情感, 亲密关系, 家庭主妇, 性别认同, 性别转换, 成人内容, 二次元小说, 幻想文学, 跨性别小说, 内心挣扎, 自我认同, 虚构故事, 感官刺激, 社会角色, 浪漫, 激烈情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

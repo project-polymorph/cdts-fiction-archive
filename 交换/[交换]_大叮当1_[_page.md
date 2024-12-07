@@ -7,7 +7,9 @@ TXT 下载: [[交换]_大叮当1_[.docx]([交换]_大叮当1_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一个名叫小亮的男孩与来自22世纪的机器猫大叮当之间的奇妙互动故事。故事开篇，大叮当突然从小亮的书桌抽屉中出现，并自我介绍道：“你好，我是机器猫，你也可以叫我大叮当。”大叮当的外形独特，肥大的蓝色球状身体配有铃铛，它告诉小亮，它将和他一起生活，并承诺带来许多意想不到的道具。接下来，大叮当通过“任意门”带小亮参观了一个女士澡堂，导致小亮遭到尴尬的目光和呵斥。
+
+在后续的情节中，大叮当展示了高科技道具，如可以删除记忆的手电筒，表现出它的调皮与好奇，并询问小亮班里是否有女孩子。随着故事的发展，小亮既被大叮当奇妙的科技所吸引，又对它的思想和行为感到无奈和困惑。这种生活在学校与未来科技之间的碰撞，展现了人类情感与科技的奇妙交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_大叮当1_[.docx]([交换]_大叮当1_[.docx)
 | Size            | 20811 bytes                           |
 | MD5             | 2412cb3480ba3bc7d05f08effdc4151e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 未来科技, 幻想, 冒险, 搞笑, 亲情, 友情, 机器猫, 性别认同, 令人尴尬的时刻, 二次元, 魔法道具, 自我探索, 成长, 高中生活, 科幻故事, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

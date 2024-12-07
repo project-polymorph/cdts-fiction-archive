@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_25.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+在此章节中，阿曼达提前回家帮助她的伴侣贝丽为一次重要的约会做好准备。贝丽正在为约会感到紧张，阿曼达则通过整理家务和挑选衣物的方式来分散她的注意力。在阿曼达的帮助下，贝丽将进行一系列的打扮，包括穿上紧身胸衣和高跟鞋，以及化妆。阿曼达希望贝丽能够顺利伪装成一个吸引男人的女孩，并意识到女性为约会而付出的努力。章节描绘了二人之间的亲密互动，阿曼达既像一个关心女儿的母亲，也像一个热衷于帮助恋人打扮的伴侣，这种角色转换体现在她们的对话和相互支持上。逐渐的，贝丽从一开始的不情愿到最后接受妆扮的过程展现了自我认知的转变和角色的认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_25.doc]([改造]_把男朋友�
 | Size            | 35840 bytes                           |
 | MD5             | 7906046a8596dde75d3810ee9ba1a129                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 儿童角色扮演, 约会准备, 女友, 自我探索, 性别认同, 紧身胸衣, 高跟鞋, 化妆技巧, 母女关系, 青春期焦虑, 角色认同, 权力动态, 亲密关系, 女性形象, 性别转换, 约会情境, 服装搭配                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

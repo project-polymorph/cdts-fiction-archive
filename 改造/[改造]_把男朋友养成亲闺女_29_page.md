@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_29.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《把男朋友养成亲闺女》的小说，作者为Nicegent42，译者为Lisa。故事围绕角色阿曼达及她女儿贝丽展开，其情节涉及性别身份的转变和性别认同的探索。文中描绘阿曼达的生活以及她与贝丽、德里克和坎迪之间的互动。场景描绘了贝丽在努力减肥和获得女性认同的过程中，面临的身体与心理的冲突。在一段早餐场景中，角色之间的对话充满了幽默与温情，展示了对青春与性别角色模糊的探讨。文中包含诸多关于身体形象、性别期待的细腻描绘，以及不同角色对这些问题的各自理解与反应。作品不仅考虑到年轻女性的成长困扰，也触及父母与孩子之间的沟通与支持。虽然该作品涉及部分敏感内容，如紧身衣和肚脐环，但主要在探讨自我认同与接受的层面上展现，符合相关小说特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_29.doc]([改造]_把男朋友�
 | Size            | 41472 bytes                           |
 | MD5             | 090105416b1d5969aea63b46620d9f83                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2021-04-13                                 |
+| Tags            | 性别转换, 伪娘, 青春成长, 身体认同, 家庭关系, 饮食控制, 女性形象, 自我探索, 性别认同, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

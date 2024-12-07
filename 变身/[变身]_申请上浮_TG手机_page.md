@@ -7,7 +7,7 @@ TXT 下载: [[变身]_申请上浮_TG手机.docx]([变身]_申请上浮_TG手机
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《TG手机》，讲述了一名普通大学生叶秋在遭遇雷击后，意外激活了一款来自未来的手机应用，整个故事围绕他在经历这种突发事件后的幽默和搞笑经历展开。故事开始时，叶秋正在和好友李小波一起上课，正值他精神堕落之时。在一场雷电交加的事件中，他好奇地点击了手机上的一个弹窗，结果被劈中后失去了意识。醒来之后，他发现自己身边的朋友因他的经历而不断传扬他被称为“渡劫哥”的奇妙故事。叶秋的生活因此发生了巨大的变化，学校生活也因其新的身份而充满了戏剧性的变化。这篇小说包含了诸如性别认同、校园生活等主题，并带有幽默色彩以及一些出乎意料的情节发展。文件中包含的内容及对话表现了当前年轻人的生活状态及他们对自我认同的探索，同时也加入了二次元的元素，充分体现出变身与性转的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_申请上浮_TG手机.docx]([变身]_申请上浮_TG手机
 | Size            | 25317 bytes                           |
 | MD5             | fce1c54ca37c5193cf5dcbba6b030b39                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 校园生活, 奇幻, 幽默, 自我认同, 雷击, 未来科技, 朋友关系, 搞笑, 大学生活, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

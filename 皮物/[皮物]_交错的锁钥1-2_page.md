@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_交错的锁钥1-2.docx]([皮物]_交错的锁钥1-2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个年轻男侦探陈洛凡的故事，他通过一种神奇的皮物将自己的性别和外表转变为年轻女性的身份，以便在校园里生活并执行一些隐秘的调查任务。在开头，陈洛凡从睡梦中醒来，面对即将到来的研讨会，他使用皮物的过程详尽地描绘了生理性别的转换，以及在这一过程中体验到的自我认知冲突。故事围绕着他的双重身份展开，既是男侦探又是一名在校女大学生林紫依，旨在探讨性别认同和图谋的复杂关系。文件包含了丰富的细节，例如穿上皮物后的身体变化以及在校园中与同学的互动，同时涉及彼此之间的情感交流和校园生活的日常片段。文件还提到了一些可能涉及的社会文化背景，使整个故事在性别探索方面更具深度与吸引力，通过对话和内心独白展示了主角的心理状态和对新身份的适应过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_交错的锁钥1-2.docx]([皮物]_交错的锁钥1-2.docx)
 | Size            | 22875 bytes                           |
 | MD5             | a194673a84a7c8af3d93058e5e31f9ce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘小说, 变身小说, 跨性别, 校园生活, 调教, 探索自我, 身份认同, 私家侦探, 青春, 女权主义, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

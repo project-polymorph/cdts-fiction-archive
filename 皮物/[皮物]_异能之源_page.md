@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_异能之源.doc]([皮物]_异能之源.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于异能者的变身小说，讲述了主角林天在穿越到一个与地球平行的魔幻世界后，如何觉醒异能并在圣煌学院逐渐融入这个充满异能者的社会。故事开篇描绘了主角经历的异能觉醒仪式，林天在得到了名为‘圣痕’的印记后，意识到自己是异能者之一。这一过程的同时伴随着对自我身份的探索，以及他在学院中观察到的人际关系和权力结构。故事中也提到各国为了应对强大的异能者而设立的学院，描绘了异能者与常人之间的复杂关系。小说中融入了许多奇幻元素，如异能的多样性以及与外来陨石盖亚的关系。涉及角色的冲突、嫉妒和对力量的向往，使得情节更为曲折丰富。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_异能之源.doc]([皮物]_异能之源.doc)
 | Size            | 93184 bytes                           |
 | MD5             | 50443bef4e140fac50980efb7a15e4e8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异能, 穿越, 变身, 青春, 魔幻, 角色发展, 同学关系, 学院生活, 自我探索, 人物冲突, 成长, 剑与魔法, 特殊能力, 社会结构, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

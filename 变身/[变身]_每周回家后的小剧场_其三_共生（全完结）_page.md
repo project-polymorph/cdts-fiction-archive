@@ -7,7 +7,7 @@ TXT 下载: [[变身]_每周回家后的小剧场_其三_共生（全完结）.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇围绕异星种族与人类夫妻关系展开的变身小说。故事以第一人称的视角描写了男主在回家后，他的外星妻子舟因酒精影响而变回种族的纯粹状态——白色液体。男主对妻子的状态感到不适，但仍然表现出极大的关心与理解。小说通过细腻的情感描写，探讨了爱、理解和信任在异种族婚姻中的重要性。故事中的情节含有强烈的性别与身体认同问题，当男主与妻子的液体本体发生交融时，他感受到了自己身体的变化，逐渐转变为妻子的形象。情感的内核在于对彼此的认同与尊重，同时也涉及到一些与身份和人际关系相关的冲突。结尾展现了夫妻二人对未来新生活的期许和彼此之间更深的理解，而新婚的祝福则隐含着对爱的坚定。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_每周回家后的小剧场_其三_共生（全完结）.d
 | Size            | 18979 bytes                           |
 | MD5             | f31278c70a42d44fe10a6e702cffc06b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异星种族, 变身小说, 跨性别, 性别认同, 身体变化, 婚姻, 爱与理解, 幻想, 液态生物, 人际关系, 感知与情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

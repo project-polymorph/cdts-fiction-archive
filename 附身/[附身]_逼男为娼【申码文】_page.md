@@ -7,7 +7,7 @@ TXT 下载: [[附身]_逼男为娼【申码文】.doc]([附身]_逼男为娼【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性别变换的小说，讲述了一个男人因生意失败而沦落至寒风中，偶然遇见一名神秘女子，她给他提供了一个可以改变人生的机会。故事描述了他在喝下神秘液体后灵魂出窍，成为了一名女性，并经历了附身和自我认同的过程。在新身体中，他体验到了女性的身体特征和感受，逐渐感受到自我认同的冲突和内心的变化。小说在情节展开中涉及了绘声绘色的性别探讨、身体欲望以及自我探索主题，表露出角色在经历身体转变后的心理挣扎和快感体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_逼男为娼【申码文】.doc]([附身]_逼男为娼【�
 | Size            | 88576 bytes                           |
 | MD5             | b9192084273c5e14871e6bcaddd8c759                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 青春, 都市, 奇幻, 自我探索, 性别认同, 心理感受, 附身, 身体异化, 恶魔契约                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

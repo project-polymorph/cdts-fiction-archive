@@ -7,7 +7,11 @@ TXT 下载: [[改造]_控制(三)_Control.doc]([改造]_控制(三)_Control.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性别转换和跨性别主题的文档，讲述了一名名叫Jen的角色在变身过程中的遭遇。故事围绕着她与同班同学和老师们的复杂互动展开，在一个充满权力斗争与性别认同混乱的环境中，Jen被迫与她的新身体和同学们之间的关系进行自我反思与斗争。
+
+文中描绘了一个教室的场景，Jen在被同学Sarah握住，身体被他人控制的情况下，感受到极大的恐慌与无助。随着情节的推展，Love老师试图监控局势，维护班级的秩序，而Jen在经历各种不适与挣扎后逐渐被迫接受她的新身份。诸多同学围绕着她展开了复杂的心理与身体操控，情感和性欲的摩擦贯穿始终。
+
+文件的详细内容涉及性转情节、权力与性别关系的探索，部分设定包含色情元素，突出表现了角色间激情与纠葛的复杂关系。结尾处Jen与同学Karyn的关系有进一步的情感深化，强调了变身所带来的身心变化和新发现的自我认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[改造]_控制(三)_Control.doc]([改造]_控制(三)_Control.doc)
 | Size            | 57344 bytes                           |
 | MD5             | 924a4895ee7f3e3b36003534b0c00cd8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 伪娘, 男娘, 变身, 混乱, 自我认同, 权力斗争, 性欲, 青春期, 校园, 奇幻, 女体化, 调教, 情感纠葛, 性别认同, 心理斗争, 成长故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

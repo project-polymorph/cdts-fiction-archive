@@ -7,7 +7,7 @@ TXT 下载: [[改造]_蟲使一（續）_1-4回.doc]([改造]_蟲使一（續）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《蟲使一（續）》是一部围绕着角色重生与性别变形的小说，讲述了主角因霸凌而死后，通过一种名为‘腐疽肉蛹’的吸血怪虫重生为一种群聚型拟态原虫。《蟲使一（續）》的情节涉及许多超自然元素与变身情节，主角在重生后逐渐适应新的身份，展现出对人性的探讨与自我认知的挣扎。在故事中，主角以一个强大的虫类存在重新审视曾经的生活、仇恨及与他人的关系，尤其是对一个少女的复杂情感。隨著故事的发展，主角还利用其能力对周围人的身体与意识进行改造，产生诸多生动复杂的交互，包括强暴与操控他人的主题，再加上对母女关系的扭曲表述，给人一种深刻的心理冲突与伦理思考的印象。小说展示了角色怎样在极端环境中挣扎生存以及对性的探索与表现，同时也涉及到窒息与反抗等主题，让人不禁对人性的黑暗面进行深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_蟲使一（續）_1-4回.doc]([改造]_蟲使一（續）
 | Size            | 101376 bytes                           |
 | MD5             | d9ac5e8f782854206c1b9cfee2a96dc3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 自我探索, 复生, 异化, 强奸, 操控, 性别认同, 变态, 情色, 母女关系, 反乌托邦, 虫类型异生物, 心理冲突, 色情内容, 科幻奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

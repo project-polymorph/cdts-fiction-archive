@@ -7,7 +7,7 @@ TXT 下载: [[交换]_申碼文全都是我的4-7.doc]([交换]_申碼文全都�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于跨性别与性别认同探索的小说，主要围绕主角璃奈的生活与内心冲突展开。在小说中，璃奈经历了性别转变，从一名男性转变为女性，她的内心充满了对身份、家庭压力以及自我认同的挣扎。故事开头，璃奈被描述为穿着可爱的浅蓝色睡衣，坐在陌生的卧室中，体现出她对新身份的不适与紧张。璃奈的母亲对她的严格要求给她带来了更大的心理负担；母亲的暴力和对女儿生活的控制，令璃奈感到其生活没有选择，仿佛是在被束缚。随着剧情的发展，璃奈逐渐开始适应她的新身份，但与此同时，内心的愤怒和自尊心的崩溃也愈发明显。故事中包含了对女性特性的细致描写，如对化妆品的无奈理解，以及对表演课的 高压体验。整体呈现出一个关于性别认同与内心自省的复杂故事，且包含了一些敏感与限制级内容，挑战着社会对性别的传统观念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_申碼文全都是我的4-7.doc]([交换]_申碼文全都�
 | Size            | 87552 bytes                           |
 | MD5             | 61f69301da0e35308c89071473f0aa25                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别小说, 伪娘, 变身, 家庭关系, 社会压力, 自我探索, 青春成长, 情感冲突, 身份危机, 女性主义, 情节复杂                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

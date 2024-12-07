@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_夏之妄想.docx]([皮物]_夏之妄想.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《皮物_夏之妄想》是一篇融合了变身、性别转换与性幻想元素的小说。故事以一位男生为主角，他在细雨绵绵的夏日，跟随同学原泽博子一起去图书馆。在无意中，男主角被博子推入了一个意外的情境中，随后发生了一系列奇幻而刺激的事件：博子要求男主脱去衣服，并毫无抗拒地将自己套入了博子的皮肤，完成了性别的转变。故事中的细节描写生动且细腻，涉及了男主的内心挣扎与自我认知的转变，尤其是他对博子身体的感知与向往。文本中包含较多色情元素，描绘了主人公在转变过程中身心的变化，以及对新身份的逐步接受。文中还涉及到人物之间复杂的关系和情感的交织。这篇小说不仅探讨了性别认同和自我探索的主题，同时也挑战了传统的性别规范。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_夏之妄想.docx]([皮物]_夏之妄想.docx)
 | Size            | 19760 bytes                           |
 | MD5             | 50c57a8dfb095be734e91ff99e814194                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 自我探索, 文学, 幻想, 性幻想, 二次元, 男娘, 伪娘, 青春, 青春烦恼, 强迫, 奇幻, 恐怖, 心理, 细腻描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

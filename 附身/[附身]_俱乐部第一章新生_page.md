@@ -7,7 +7,7 @@ TXT 下载: [[附身]_俱乐部第一章新生.doc]([附身]_俱乐部第一章�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以性转为主题的小说，名为《俱乐部第一章新生》。故事开篇描绘了一个阴暗潮湿的地下水牢，主角李道贤在此被囚禁，并与一名女刑警相遇。女刑警向李道贤透露他所遭遇的痛苦，并逐渐揭示出他身体的变化和身份的困惑。情节中穿插了强烈的性别认同与自我探索的主题。在情节发展中，李道贤由一名男性角色逐渐向女性身份的转变，从而面临内心的冲突与挣扎。小说通过细腻的心理描写与情感波动，探索了变性过程中的复杂感受与社会认知的压力。随后的故事情节围绕李道贤如何适应这一变化以及与他人之间的关系展开，充满了戏剧性与张力。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_俱乐部第一章新生.doc]([附身]_俱乐部第一章�
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 29a5243019faf5ca9dac98ecf73251f2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 跨性别, 自我认同, 女性形象, 强奸, 迷晕, 角色转换, 李道贤, 女刑警, 悬疑, 人性探索, 情感纠葛, 暗黑风格, 都市幻想, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

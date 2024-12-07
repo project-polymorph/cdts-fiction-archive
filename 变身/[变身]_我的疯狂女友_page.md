@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我的疯狂女友.docx]([变身]_我的疯狂女友.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个男主与他的女朋友之间的奇幻与幽默的故事。故事的开头，男主描述了他与女友的相识过程，感叹在酒吧遇到合适的配偶有多么不易，尤其是面对女友外貌与实际体重之间的巨大反差。故事中女友热爱逛街，而男主试图理解滑稽的女友行为，如在街上看美女，令他哭笑不得。逐渐地，故事进入到一个超现实的情节：男主不经意间发现女友发生了奇幻的变化，变成了一位身材比例极佳的美女，而他对此感到惊恐和困惑。在这一过程中，男主不断反思和接受女友的变化，表现出对爱情的复杂感受。最终，故事在梦境与现实的交替中展开，给予读者一种既搞笑又引人深思的体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_我的疯狂女友.docx]([变身]_我的疯狂女友.docx)
 | Size            | 53357 bytes                           |
 | MD5             | b4af5fe04e3aaced45305add407edeeb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 强奸, 调教, 爱情, 误会, 幽默, 自我认知, 奇幻, 现代, 嬉笑, 女友, 性别认同, 自我探索, 故事叙述                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

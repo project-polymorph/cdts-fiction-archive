@@ -7,7 +7,7 @@ TXT 下载: [[附身]_贺端午！邪血者外传-美妇篇_(已修正）.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部包含奇幻与变身元素的小说，讲述了一群角色在奇异的环境中经历的惊险故事。主要场景设定在一个废弃的操场上，情节围绕着女高中生黄晓珊与两名黑衣女子以及另一名名为安佩的天使之间的斗争。当黄晓珊被设定为拥有恶魔翅膀的角色，她与天使安佩间的战斗展现出各种超自然的能力与魔法。故事继续深入，描绘了陈美，一名27岁的钢琴师，在偶遇一个浑身是血的少女后，被神秘黑色血液包围并卷入了未知的命运之中。伴随着奇异的快感与痛苦，陈美的身体经历了奇怪的变化，暗示与邪恶力量的逐渐融合。文中生动描述了角色的身心状态，以及她们在疯狂与混乱中所承受的痛苦与快感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_贺端午！邪血者外传-美妇篇_(已修正）.docx](
 | Size            | 31296 bytes                           |
 | MD5             | 3df0aeea8676cab8e99f0a26e7d44a61                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 奇幻, 血族, 恶魔, 天使, 黑暗魔法, 女性角色, 奇异魅惑, 自我认知, 超自然力量, 身心转变, 色情, 惊悚, 冒险, 魔法少女, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

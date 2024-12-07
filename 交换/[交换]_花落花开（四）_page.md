@@ -7,7 +7,7 @@ TXT 下载: [[交换]_花落花开（四）.doc]([交换]_花落花开（四）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《花落花开（四）》是一个涉及性别认同、家庭及权力斗争的故事，主要围绕夏氏集团老总专机坠毁事件展开。在幻城市警局，年轻的警员杨蕾与局长梁良畴讨论了专机坠毁一事的调查进展。故事通过杨蕾与局长之间的对话，展现了事件的复杂性和悬疑性。关键人物姚和志的背景和他的举动引发了关于动机的讨论，尤其是他的家庭状况与专机坠毁事件之间的联系。随着剧情的发展，杨蕾对夏妍菡的身份和她与夏元良之间的权力争斗产生了关注，并决定放宽对夏妍菡的限制，以利于调查的深入。文件中夹杂着一些较为直接的性描写，表现了角色之间的复杂关系以及他们在遭遇冲突时的内心变化。文中描写了一段在医院中的私密场景，展现了角色之间的情感纠葛与欲望冲突。整体的叙述风格结合了警匪情节与家庭伦理，给人留下深刻印象。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_花落花开（四）.doc]([交换]_花落花开（四）.
 | Size            | 51712 bytes                           |
 | MD5             | 531ee6d42c3093dd4c4956a4c4776bf4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 权力斗争, 专机坠毁, 家庭关系, 警匪故事, 情感纠葛, 自我探索, 欲望, 都市故事, 悬疑, 跨性别, 婚姻, 复仇, 阴谋, 人性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【毒液莉莉丝】断章.doc]([变身]_【毒液莉莉�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇伪娘与跨性别相关的变身小说断章，讲述了一个关于人体实验的故事。在一个深夜的研究机构内，两名研究人员正在进行一项涉及名为‘Venom’的寄生生物的实验。随着实验的推进，研究人员决定将这一实验扩展到人体层面，尽管有一名研究员对此表示强烈反对。故事的中心人物艾莉西亚在实验中被麻醉，并在实验的过程中被绿色液体包裹，逐渐变成一种全新形态，令人不安与惊恐结合的力量开始显现。整个故事探讨了科学伦理、性别认同与自我探索的问题，以及实验所带来的未知与不可预测的后果。文中通过对悲惨事件的选拔与细节描绘，传达出一种紧迫和恐慌感。该文本包含了对传统性别角色的重新定义与挑战，以及对人性与科技关系的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【毒液莉莉丝】断章.doc]([变身]_【毒液莉莉�
 | Size            | 56320 bytes                           |
 | MD5             | c1618f623d9ae9a7073dba611f879ba2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 人体实验, 跨性别, 伪娘, 科学伦理, 自我探索, 性别认同, 刺激与恐惧, 未知细胞, 科学与人性, 实验室故事, 绿液体, 女性觉醒, 奇幻科学, 斗争与挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

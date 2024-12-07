@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_甜蜜的皮(甘い皮).docx]([皮物]_甜蜜的皮(甘い
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇奇幻题材的变身小说，标题为《甘い皮》。故事围绕一位骑士的冒险展开，该骑士原本在与魔物战斗的途中发现一间破旧的小屋。在小屋中，他遇到了一个可爱的幼女魅魔卡侬。卡侬的到来不仅令骑士感到震惊，她还运用她的魔法和魅力使骑士的武器失效，开始对他进行引诱。卡侬表现出一种调皮和撒娇的性格，暗示骑士应放下对自己欲望的束缚。文件插入了多段卡侬与骑士之间的互动，包含了魔法、性别认同等元素，以及对骑士心理的探索。整体情节富含幻想色彩，涉及性别和欲望的复杂主题，同时也触及了幼女与成人间微妙的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_甜蜜的皮(甘い皮).docx]([皮物]_甜蜜的皮(甘い
 | Size            | 27939 bytes                           |
 | MD5             | 01f43c59cd5466c4aa142a402b366ccf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 幼女, 魅魔, 魔物, 奇幻冒险, 性别转换, 欲望探索, 恋爱, 非人类, 调教, R18, 二次元, 异世界, 心形元素, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

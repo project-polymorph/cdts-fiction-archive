@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮术士，其之八，仪式.docx]([皮物]_皮术士，
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于皮物以及相关仪式的幻想小说片段，内容充满了性别转换、魔法以及自我认知的复杂情节。文本聚焦于主角苏翎，他作为圣女威娜的替身在一个复杂且阴暗的仪式中扮演关键角色。故事探索邪神与圣女之间的关系，涉及皮衣的制作以及通过爱欲仪式获取他人知识和能力的主题。文中的仪式如同杀生仪式与爱欲仪式，其中爱欲仪式被认为更加高效、无害，可通过性爱行动在精神和肉体上对他人进行统治和转化。此外，还描绘了苏翎的自我实验和对魔法探索的经历，展现了他对力量与知识的追求。文本中运用了一些限制级内容，如肉体的使用、精神的控制等，让人对角色的身份与欲望产生了深刻的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮术士，其之八，仪式.docx]([皮物]_皮术士，
 | Size            | 25325 bytes                           |
 | MD5             | bc60805da5c9712a8665fd28a6361648                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 魔法, 邪神, 仪式, 自我探索, 情欲, 人皮衣, 禁忌关系, 精神控制, 角色扮演, 阴暗幻想, 二次元主题, 爱欲仪式                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

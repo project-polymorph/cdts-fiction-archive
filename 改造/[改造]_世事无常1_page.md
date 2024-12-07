@@ -7,7 +7,7 @@ TXT 下载: [[改造]_世事无常1.doc]([改造]_世事无常1.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇关于跨性别角色苏木木的成长与遭遇的小说，主要讲述了苏木木从小到大的经历，尤其是他在创业过程中碰到的一些波折。故事开头提到苏木木从小父母双亡，在祖父母的宠爱下长大。尽管他在学术上表现出色，15岁便进入大学，并于20岁创办了一家市值千万的软件公司‘森林’。故事中的转折出现在他与商业伙伴方森合作的项目过程中，因方森携款潜逃导致公司的资金危机。苏木木在绝望中，与大学时的学姐文清重逢，获得了寻求帮助的机会。整篇小说通过苏木木的内心独白，展示了他在事业、情感及人际关系中的探索与挣扎，反映了世事无常的主题——在春风得意与失落之间反复波动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_世事无常1.doc]([改造]_世事无常1.doc)
 | Size            | 72704 bytes                           |
 | MD5             | 349fe478d898eae1cd75e94f8880a914                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 创业, 爱情, 波折人生, 职场斗争, 兄弟情, 科技公司, 校园回忆, 人际关系, 情感冲突, 自我探索, 成长小说, 产品开发, 商业背叛, 职场逆袭                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

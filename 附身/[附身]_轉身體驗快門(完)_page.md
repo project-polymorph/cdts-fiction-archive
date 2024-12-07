@@ -7,7 +7,7 @@ TXT 下载: [[附身]_轉身體驗快門(完).docx]([附身]_轉身體驗快門(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个角色在性别转变后，体验自我认知与身体欲望的故事。故事中的角色劳拉与室友杰森之间的关系充满了亲密和情色的互动，伴随着对身体的探索与接受。文中描述了她的身体在与杰森互动时的感受，比如‘我感覺自己的嘴唇不受控制地動了起來，然後說道：『哇喔~這聽起來挺有趣的……』’，展现了角色在性别和身份转变过程中的心理斗争与身体反应。随着情节的发展，傑森为劳拉拍照并指导她摆出各种性感姿势，最终两人亲密相拥，引发了强烈的情感与身体快感的结合。整篇故事包含了关于性别认同、性欲与自我解放的主题，极具探索性和实验性，描绘了在性转过程中，主角对自己身体新形态的体验和接受过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_轉身體驗快門(完).docx]([附身]_轉身體驗快門(
 | Size            | 23370 bytes                           |
 | MD5             | aca4cdee2c107705dd29c07bacff265d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 情色, 强烈情感, 身体认同, 性欲探索, 室友关系, 自我接受, 二次元幻想, 情感纠葛, 亲密关系, 视觉艺术, 性别认同, 身体快感, 自我认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

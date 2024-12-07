@@ -7,7 +7,7 @@ TXT 下载: [[交换]_圣骑士的失败5（上）.doc]([交换]_圣骑士的失
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘和跨性别相关的小说《圣骑士的失败》第五章（上）的内容。在这一章节中，角色卢西奥被困于一名雌性黑暗精灵的身体里，她的意识在强烈的羞耻和快感中交织。这一段描绘了她的内心挣扎，以及一系列性虐待的情节。卢西奥从噩梦中醒来，却发现自己仍身处于令人震惊的情境中。她祈求解放，但只能无助地承受来自莉莉安的支配。随着情节的发展，卢西奥的屈辱感与身体上的快感逐渐交融，形成痛苦与快感的复杂体验。本章深刻探讨了性别认同、自我认知，以及角色之间权力关系的主题，尤其是在性转和跨性别的背景下。文件中包含了许多关于身体和欲望的具体细节，让读者深入感受到角色的内心冲突和绝望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_圣骑士的失败5（上）.doc]([交换]_圣骑士的失
 | Size            | 50176 bytes                           |
 | MD5             | d140d21a89826386e5ac4771427c3d60                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 变身, 黑暗精灵, 羞辱, 性奴隶, 强奸, 痛苦与快感, 自我认知, 快感探讨, 角色权力关系, 绝望, 淫荡, 二次元, 幻想小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

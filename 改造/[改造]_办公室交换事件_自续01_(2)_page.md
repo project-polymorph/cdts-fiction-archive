@@ -7,7 +7,7 @@ TXT 下载: [[改造]_办公室交换事件_自续01_(2).docx]([改造]_办公�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇性转相关的小说，描述了主角在一次奇妙而混乱的办公室事件中经历了性别与性器官的交换。故事的开头回忆起了文中角色的友谊与情感联系。主角在与两位女性角色——小珍和佩玲——的相处中，感受到了性别认同的复杂性与自我探索的冲突。在小说中，通过一道神秘的力量，角色们的身体特征发生了变化，男主角与女主角都获得了阳具，情节转向了各自之间的亲密互动与性关系探索。文中描写了角色们在新角色认同中的心理感受和生理反应，情节涉及多重性行为，性别角色的颠覆，以及通过爱抚而产生的快感与迷惑。最终，随着魔法的消逝，新的认同也随之消散，留下了对于性别角色和自我身份的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_办公室交换事件_自续01_(2).docx]([改造]_办公�
 | Size            | 18953 bytes                           |
 | MD5             | 7d904c3586365f9bcd3b7016d43baceb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 魔法, 奇幻, 自我探索, 性别认同, 办公室情节, 性器官交换, 情感链接, 阳具, 快感, 角色转换, 性和心理冲突, 人际关系, 性别混乱, 成人小说, 二次元, 变身, 调教, 逆后宫, 百合                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

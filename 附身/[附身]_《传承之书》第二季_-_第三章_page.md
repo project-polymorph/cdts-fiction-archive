@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第三章.doc]([附身]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别与伪娘主题的小说《传承之书》第2季第3章，主要描写了一位男性角色杨平与名为彩珍的女性角色间的情感与生理互动。故事开头，杨平在酒店中与彩珍相会，两人迅速进入亲密关系，并展现了一系列露骨的性爱场景。文本对此类场景进行了较为详细的描写，包含了角色之间的对话以及其生理反应的详细描写，如杨平对彩珍的身体的探索和他们之间的语言调情。同时，随着情节的发展，另一个角色刘孟权也出现，暗示了一场潜在的阴谋。整个故事内容充满了性暗示与生动的场景描绘，展现了性别与身份的流动性及角色之间复杂的心理互动。同时，本章节涉及的情节也暗示了对权力与操控的探讨，伴随有色情与暴力的双重主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第三章.doc]([附身]_《�
 | Size            | 38400 bytes                           |
 | MD5             | 6e4c2584805ef00a017ac710b1d1f562                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 强奸, 淫荡, 调教, 逆后宫, 游戏, 奇幻, 都市, 肉体交合, 幻觉, 暗恋, 角色扮演, 迷奸, 附身, 自我探索, 情感纠葛, 性别认同, 身体交换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

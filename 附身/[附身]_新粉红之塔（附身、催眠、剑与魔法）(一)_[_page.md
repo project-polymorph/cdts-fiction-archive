@@ -7,7 +7,7 @@ TXT 下载: [[附身]_新粉红之塔（附身、催眠、剑与魔法）(一)_[
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《粉红之塔》是大萌术士创作的一部跨性别与变身题材的小说，结合了催眠、附身等众多奇幻元素。本书设定在广袤的格兰西亚大陆，讲述了一段发生在法师塔内的故事，主角经历了性别的转换与自我认知的挣扎。整个故事围绕着一个魔法师的冒险经历展开，他运用自己的能力与来自不同种族的角色进行互动，故事情节包含了催眠、触手调教等内容。文本开头以一种轻松幽默的方式邀请读者进入故事，但随之而来的情节则逐渐显示出其复杂性与深刻性，并涉及一些带有性暗示和调教的场景。施法者与不同种族的戏剧冲突、奇幻世界观的建立和对性别认同的探讨都是这部作品的关键要素。作者在文本中提到这是对他之前作品“心灵术士”的重写，并承诺将更专注于情节的紧凑性与多样化的发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_新粉红之塔（附身、催眠、剑与魔法）(一)_[
 | Size            | 56932 bytes                           |
 | MD5             | 30484855873068ea4b2b48d40fa882d9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 大萌术士                               |
+| Region          | 未知                               |
+| Date            | 2014-10-29                                 |
+| Tags            | 跨性别, 变身, 催眠, 西方奇幻, 触手, 法师塔, 自我认知, 魔法, 附身, 情感探索, 性别转换, 纯爱, 奇幻冒险, 角色冲突, 人类与异族, 淫荡, 调教, 性别认同, 少女心                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

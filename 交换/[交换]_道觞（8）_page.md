@@ -7,7 +7,7 @@ TXT 下载: [[交换]_道觞（8）.docx]([交换]_道觞（8）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部跨性别和性转题材的小说，包含丰富的角色心理描写与复杂的人际关系。故事围绕几个女性角色展开，她们的身体和身份经历了一系列的变换与挑战。文件内容暗示了对性别认同和自我探索的深刻反思，特别是在角色变身和情感交织的情况下。例如，郑晓兰等角色的身体状况和心理状态发生了变化，表现出内在的生理冲突与认同挣扎。作为文件的插曲部分，描绘了一个女人在家庭和社会压力下的艰难抉择，体现了对女性身份与母性的复杂阐释。此外，涉及到一些色情内容和限制级情节，包括角色之间的性行为和自我探索。理解这些内容需要读者对性别和身份认同有基本的认识，尤其是在这些情节被采用在虚构与幻想的背景下。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_道觞（8）.docx]([交换]_道觞（8）.docx)
 | Size            | 44423 bytes                           |
 | MD5             | 26607e66800b3a24f60729006b9e6693                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 女性角色, 自我探索, 性别认同, 幻想, 情感纠葛, 成年情节, 社会压力, 奇幻小说, 都市题材, 角色心理, 母性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

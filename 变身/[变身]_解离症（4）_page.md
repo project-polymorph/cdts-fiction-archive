@@ -7,7 +7,7 @@ TXT 下载: [[变身]_解离症（4）.docx]([变身]_解离症（4）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为一部关于性别变换与自我认同探索的小说，主角杨秦在变回原来的性别后，经历了一系列关于性别认同和心理冲突的情节。他逐渐习惯于女性角色的形象，虽然外形上的变化能够让他感到不适与战战兢兢，但这种变化促使他面对内心的挣扎。故事中，杨秦在公司中与同事的互动，以及被上司赵总训斥时的尴尬，都反映了他对自身性别角色认同的迷茫。此外，杨秦频繁做关于叶平的梦，梦中情节明显带有侵犯与欲望，展现了他内心深处未被发掘的性倾向与对性别认同的复杂感受。在一次梦境中，他甚至沉迷于被强迫的情节，最终发现自己引发了内心的冲突，试图用成人用品来减轻冲动。这部作品深入探讨了性别流动与心理自我认知的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_解离症（4）.docx]([变身]_解离症（4）.docx)
 | Size            | 20385 bytes                           |
 | MD5             | b45361a93609446c68947f77894984e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 自我认同, 心理冲突, 春梦, 强奸, 欲望探索, 办公室恋情, 性别角色, 女性形象, 性别认同, 职场, 成人内容, 性文学, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[分魂]少女与战车：凭依战！-2.docx]([附身]_[�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及性别转换和灵魂寄生的小说，作品的背景设定在学园舰教育局的办公室，主要角色辻康太是局长，一名学生会长角谷杏出现在局中，揭示出一系列复杂关系和性别认同的探讨。故事开头描绘了辻在办公过程中因为某种刺激而表现出的奇怪反应，暗示了她在性别与自我认同上的挣扎。随着剧情的发展，辻与蝶野的互动以及情节中出现的灵魂寄居装置“灵魂灌入炮”，使得角色之间的关系变得更加复杂与扭曲。尤其是在性别角色和灵魂的交互影响下，个体对自我身份的认知发生了明显的变化。该作品结合了幻想与科幻元素，突显了现代社会中性别认同和自我探索的主题, 同时包含了一些限制级内容和明显的性暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[分魂]少女与战车：凭依战！-2.docx]([附身]_[�
 | Size            | 46951 bytes                           |
 | MD5             | fd2612761969cedfd3fd3199b7208286                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | トゥルー                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 灵魂寄生, 伪娘, 强奸, 教育局, 灵魂灌入, 异世界, 科幻, 变身, 调教, 强权工具, 性别认同, 角色扮演, 二次元, 同伴关系, 自我探索, 性暗示, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

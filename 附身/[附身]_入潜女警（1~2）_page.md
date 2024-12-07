@@ -7,7 +7,7 @@ TXT 下载: [[附身]_入潜女警（1~2）.docx]([附身]_入潜女警（1~2）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《入替女警》，展示了一名年轻男子李航在新环境中对新调来的美女部长陈海燕产生的迷恋与思念。故事开篇描述了李航的心境，伴随着对过去时光的回忆以及对陈海燕的美丽的赞美。李航回忆起第一次见到陈海燕时的震撼，以及他为能在她所在的部门工作而兴奋不已的心情。小说详细描绘了李航在与各类人物交流过程中的心理活动与自我探索，同时潜藏着他与陈海燕之间的情感发展。随着时间的推移，李航对即将见到陈海燕的期待愈发强烈，认为这是与她再度相见的机会。整篇小说花费的笔墨细腻且情感真实，展现了性别认同与爱情相互交织的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_入潜女警（1~2）.docx]([附身]_入潜女警（1~2）
 | Size            | 25247 bytes                           |
 | MD5             | e41f4a94e90916007d300aa99f033c24                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 绯红女皇                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 爱情, 自我认同, 青春, 校园, 情感纠葛, 心理探索, 美丽, 部长, 期待, 男女关系, 小说, 细腻描写, 二次元, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

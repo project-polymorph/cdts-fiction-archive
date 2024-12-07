@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_混迹末世3+4.docx]([皮物]_混迹末世3+4.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《混迹末世》第3章与第4章的内容，讲述了一个设定在末日世界中的异能者故事。人物包括王安、苏小小和刘娜娜，分别是初级皮师、医师和刺客。随着故事的发展，王安发现自己误入了一个奇异的境地，涉及到尸体变身为皮物的超能力。他与同伴苏小小共同面对丧尸和其他幸存者的挑战，紧张而又充满变数的剧情加深了人物间的情感与羁绊。文件中描述了王安与苏小小的互动，其中的细节展示出对角色内心的探索与性别角色的自我认同。故事涉及的主题包括生存、变身、性别认同，以及情感的纠葛，特别是描绘了异能者与皮物之间的关系以及在面对生死考验时的情感和欲望冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_混迹末世3+4.docx]([皮物]_混迹末世3+4.docx)
 | Size            | 23182 bytes                           |
 | MD5             | d24d5d644005717bd8a9343aa289ce92                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 末日, 异能, 皮物, 性别转变, 心理探索, 生存, 冒险, 情感纠葛, 百合, 变身, 角色扮演, 超能力, 未来幻想, 人际关系, 梦境, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

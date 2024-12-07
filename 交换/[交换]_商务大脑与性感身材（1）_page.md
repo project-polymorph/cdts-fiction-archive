@@ -7,7 +7,7 @@ TXT 下载: [[交换]_商务大脑与性感身材（1）.docx]([交换]_商务�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇带有性转和超现实元素的小说，讲述了CEO道格·沃特森和他的秘书特蕾西·林之间的故事。故事设定在一个量子实验的背景下，涉及了一项名为“知识转移”的实验，意外地使两位角色的身份和个性发生了改变。道格性格粗犷、专注于工作的CEO，在经过实验后面临着对自身能力与身份的重新认知，而特蕾西则在经历了一系列戏剧化的事件后，逐渐显露出她在职场内外的真正魅力和潜力。故事通过两位主角的互动，展现了职场中的权力游戏、性别角色的流动性以及伴随身份变化带来的自我探索和情感纠葛。文中包含了性暗示和调情的桥段，反映了角色间的微妙关系和心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_商务大脑与性感身材（1）.docx]([交换]_商务�
 | Size            | 29142 bytes                           |
 | MD5             | 854d0283eb6b75be5cb3f2c2d5782d62                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 暗影游侠                               |
+| Region          | 未知                               |
+| Date            | 2014-08-15                                 |
+| Tags            | 性转, 跨性别, 职场小说, 情感纠葛, 心理变化, 权力游戏, 知识转移, 身份认同, 调情, 自我探索, 性感秘书, 量子实验, 超现实, 办公室恋情, 成长故事, 女性主导, 强烈性暗示, 商业背景, 另类幻想, 都市, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的伪娘史（13.docx]([变装]_我的伪娘史（13.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《我的伪娘史》，内容叙述了一位男生在暑假期间与朋友们的互动以及他以女孩子的形象进行变装的过程。故事以一段欢快的聚会场景开始，描述了同学们在学校临别时的狂欢——喝酒、嬉笑，氛围轻松而愉快。主人公在酒精的刺激下决定用女性装扮来为朋友们制造乐趣。在文中，他回忆起变装后与朋友们的滑稽遭遇，包括一个搞笑的误会以及与其女朋友芳芳的对话，表达了他对成长与自我认知的混淆与探索。故事以主人公回家后与家人的关系为结尾，流露出一种对于亲情的思考和对即将到来的暑假生活的期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的伪娘史（13.docx]([变装]_我的伪娘史（13.d
 | Size            | 15569 bytes                           |
 | MD5             | 8c3c209409de72960023f255bef70196                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 校园生活, 青春, 自我认同, 友情, 成长, 跨性别, 欢庆, 暑假, 美好回忆, 轻松幽默, 烦恼与期待                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

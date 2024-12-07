@@ -7,7 +7,7 @@ TXT 下载: [[变性]_岳母的秘密（一）（变性类改写，全文基本�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以性转和家庭关系为主题的小说，主要围绕主人公与岳母之间潜在的情感及肉体关系展开。故事从一个游泳池的场景开始，描述了主人公穿着沙滩短裤，在面对穿着泳衣的岳母时，产生的视觉冲击和情感波动。主人公在与岳母互动过程中一点点打破了彼此的界限，从涂抹防晒油到由言语挑逗，氛围逐渐变得暧昧。在对话中，岳母展现出轻松和乐于接受的态度，反映了她内心的孤独和渴望。整篇文章在细腻的描写中展现了对身体的探索以及情感的纠结，包含性暗示，而岳母的身材与年龄关系也成为重要的描写焦点。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_岳母的秘密（一）（变性类改写，全文基本�
 | Size            | 71168 bytes                           |
 | MD5             | 16c7071a96cf2bade0a9e8d160a69cdf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 家庭关系, 性转, 情感探索, 肉体关系, 性暗示, 青少年, 调教, 强奸, 逆后宫, 父权, 熟女, 情感纠葛, 非人化, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

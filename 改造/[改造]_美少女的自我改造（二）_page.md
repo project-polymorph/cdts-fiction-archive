@@ -7,7 +7,7 @@ TXT 下载: [[改造]_美少女的自我改造（二）.docx]([改造]_美少女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘相关的变身小说，讲述了主角沈梦雨利用“changeworld”应用程序对自己的身体进行修改和探索的故事。在小说的开头，沈梦雨感到对身体数据的修改产生了强烈的快感，甚至开始频繁地自慰。在经历了一系列的身形变化后，她对自己的新样貌充满了好奇和兴奋，通过修改容貌让自己变得极度丑陋，甚至乐此不疲地描述自己的变化过程，显示出对身体的自我认知和欲望的复杂感受。随着情节的发展，沈梦雨的身体逐渐变得肥胖和丑陋，她在镜子前看着完全改变后的自己，心中感到无比喜悦，展现了对身体形象的扭曲与自我肯定的矛盾心理。文件内容涉及情节的详细描写，包括极为露骨的性暗示和生理变化，这些描写虽然夸张但也反映了角色对自我认同的反思与挣扎。整体而言，本作品在探讨性别认同、自我探索的主题时，采用了科幻与奇幻的元素，表现出角色内心复杂的心理状态和对身体形象的非传统看法。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_美少女的自我改造（二）.docx]([改造]_美少女
 | Size            | 21764 bytes                           |
 | MD5             | 21f627f8caf41d30b274b95778415826                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性别转换, 自我探索, 身体改造, 愉悦, 奇幻, 科幻, 极端变化, 心理, 性暗示, 膨胀, 奇异体验, 满足感, 自我认同, 身心转变, 情感矛盾, 欲望, 超肥胖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

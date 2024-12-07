@@ -7,7 +7,7 @@ TXT 下载: [[变装]_后窗1_2.doc]([变装]_后窗1_2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《后窗》是一篇以现代都市为背景的小说，讲述了主人公杰夫在一起摩托车事故后，因受伤在家中静养的日子里，与他的护师保罗之间逐渐建立的情感联系。故事开头，杰夫在追求速度和自由的过程中，发生了严重的摩托车事故，导致他锁骨骨折、腿部严重受伤。他的假期被迫转变为在公寓中养伤。尽管他的身体状况受限，但杰夫逐渐发现自己的生活中出现了一个重要的人——保罗，一个年轻且看似纤弱的护师。随着对彼此的了解加深，保罗以专业的护理技能和温暖的性格赢得了杰夫的好感，两人之间的相互依赖与支持让一个个寂寞的日子变得充实起来。故事不仅描绘了杰夫身体的康复过程，也展现了他内心的成长和变化，在这个过程中，保罗的存在带给他温暖和希望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_后窗1_2.doc]([变装]_后窗1_2.doc)
 | Size            | 72704 bytes                           |
 | MD5             | 8455e7d79ee91d987818b6a7056e0b4c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | NikkieSilk9                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 情感互动, 护理关系, 自我探索, 都市生活, 摩托车事故, 内心成长, 友情, 短期护理, 伤病恢复, 性别认同, 温暖励志, 伪娘, 男娘, TSF, 爱情, 按摩, 陪伴, 伤痛治愈                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_來自祖先或許不只有遺澤(2.docx]([变身]_來自�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含了一段关于一个被迫成为娼妓的小女孩的故事。故事的主线围绕这个小女孩的心理挣扎展开，她曾是一位国王，但因祖先的一项可笑的赌约而失去了自由。小女孩被卖主送往一个奢华的房间，她面对着巨大的床铺，意识到自己被锁链禁锢，无法逃离。尽管她拥有过去的高贵身份，但现在却要以娇嫩的身体承受来自别人眼中的异样与不安。文中描绘了她对自己身份的深切反思，也展现了她在经历各种非人道的对待后，内心的绝望和恐惧。接下来，几名女性进入房间，将她洗净并为她挑选衣服，暗示她被迫成为新的牺牲品。整个旅程充满了对性别与身份的探讨，以及自我认同的迷茫。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_來自祖先或許不只有遺澤(2.docx]([变身]_來自�
 | Size            | 22920 bytes                           |
 | MD5             | 885f03122f47e160a00fde39b42f79b8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 伪娘, 心理挣扎, 自我认知, 权力关系, 社会压迫, 性别认同, 奢华生活, 童年隐喻, 情感冲突, 神秘赌约, 致郁, 非人性化对待, 剥夺自由                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

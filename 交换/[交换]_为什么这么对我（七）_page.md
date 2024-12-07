@@ -7,7 +7,7 @@ TXT 下载: [[交换]_为什么这么对我（七）.docx]([交换]_为什么这
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别相关小说第七章，主要围绕角色刘雨萌与其他角色之间的互动展开。故事情节涉及了一场涉及性别认同和情感纠葛的探讨。章节开头，作者通过对话描绘了主角与朋友付豪之间的双关交流，随后转到关于刘雨萌的背景故事以及与他人之间发生的事件，尤其是涉及到了一次夜晚的宾馆遭遇。主角面临着性别认同与自我探索的挑战，夹杂着对性别与自我身份的思考，情节发展中包含了对女性与男性形象的不同解读和探讨。在该章节中，描绘了复杂且紧张的感情、性的暗示以及角色之间的权力关系。重要的对话片段和细腻的人物刻画为整个故事增添了更多的情感张力和深度，尤其针对刘雨萌的描写从外貌与心理两方面反映了其内心的挣扎和成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_为什么这么对我（七）.docx]([交换]_为什么这
 | Size            | 23061 bytes                           |
 | MD5             | 8e6dd5bca1f5733ec4be3dc0a56392eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 情感纠葛, 夜晚冒险, 心理挣扎, 角色发展, 自我探索, 社会性别, 情欲关系, 女性视角, 成人内容, 偷拍, 酒吧文化, 城市生活, 秘密调查                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

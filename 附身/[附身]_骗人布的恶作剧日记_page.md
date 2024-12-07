@@ -7,7 +7,7 @@ TXT 下载: [[附身]_骗人布的恶作剧日记.docx]([附身]_骗人布的恶
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部名为《骗人布的恶作剧日记》的小说摘录。故事场景设定在黄金梅利号的甲板上，主要描述了角色之间的互动与冒险。故事中的人物包括娜美和薇薇，她们在阳光明媚的天气下观察着海面。伴随着鲁夫与乔巴的嬉闹互动，乔巴在追逐中不慎跌倒，导致手中肉食飞散，引发了一系列幽默而富有情感的场景。文本中充满了生动的描绘，体现了角色们的个性与关系。另一方面，故事也透露出了潜在的紧张情绪，特别是当暴风雨即将来临时，角色们不得不迅速行动以保全自身。文中多次提到角色们的情感变化与对话，展示了他们在困境中的团结与勇气。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_骗人布的恶作剧日记.docx]([附身]_骗人布的恶
 | Size            | 58604 bytes                           |
 | MD5             | 2e39992e7cfeb17b20eaf2f6746a109d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 冒险, 青春, 友谊, 勇气, 幽默, 变化, 海洋, 暴风雨, 情感, 互动, 幻想, 奇幻, 喜剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

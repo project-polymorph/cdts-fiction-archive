@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第十九回.doc](《金枝奇缘》第十九回.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《金枝奇缘》第十九回讲述了修道者顾茹与秦灵儿之间的对话，探讨了“坚城”这一修道之法的重要性及其历史。故事中，顾茹对秦灵儿的修道方法充满敬畏，而秦灵儿则解释了妖魔与修道者在修炼之路上的巨大差异，说明了为何正道修士面临的困境与选择。故事回顾了蜀山派开山祖师司坚城的贡献，以及他所创立的“坚城”这一抵御妖魔入侵的屏障。同时，文中涉及灵魂转移的情节，顾茹在秦灵儿的指示下，使用引魂符及其功法进行灵魂的移植与转移，体现了角色对自我身份的探索与承接。整段文字不仅讲述了玄幻的修道故事，还深刻探讨了生命、身份与灵魂的深层关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第十九回.doc](《金枝奇缘》第十九回.
 | Size            | 36352 bytes                           |
 | MD5             | c1062f6c715393196ca7de047beeb464                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 修道, 蜀山派, 灵魂转移, 妖魔, 坚城, 自我认同, 文化研究, 奇幻, 二次元, 角色扮演, 心理冲突, 灵气修炼, 神秘学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

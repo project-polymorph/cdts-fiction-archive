@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_60.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于贝丽的故事，主要描绘了她逃离家庭后在一家旅馆的经历。故事开始时，贝丽坐在优步司机的后排，心中充满了不安和紧张。她想逃离并寻找自由，但由于没有身份证件而无法顺利入住旅馆。当旅馆的工作人员弗兰克发现她的身份和目的后，对她表示不信任，深入了解她的情况。贝丽的外表被评估为一名年轻女孩，故事中也出现了她与朋友曼迪之间的关系，以及她在逃避家庭后所面临的种种困境。随着对话的发展，贝丽对自己的身份感到困惑，甚至抱着一只毛绒熊渴望着能回到曼迪的身边。弗兰克则努力保持专业，试图帮助她联系成年人的到来。整个故事充满了自我探索和性别认同的冲突，反映了贝丽所经历的情感波动和心理挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_60.doc]([改造]_把男朋友�
 | Size            | 42496 bytes                           |
 | MD5             | 209236f7dba6d8fa3ab96de6b1b73d3a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别故事, 青春困扰, 逃避家庭, 自我认同, 旅馆故事, 情感冲突, 心理挣扎, 女性视角, 毛绒玩具, 社交关系, 成年人与未成年人的对话, 现代社会问题, 逃亡                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

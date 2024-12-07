@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我们的故事---修士原创.doc]([皮物]_我们的故�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《我们的故事》是关于伪娘、变身与跨性别主题的小说作品，主要讲述了一对男女主角君子和陈生在购物中心逛街时的情景，以及他们与两位已退役的女杀手娜娜和孽宝宝之间的复杂关系。故事通过人物间的对话和互动，展现了角色的性别认同、外观伪装、以及两位女杀手在现实生活中的角色扮演和自我认知的探讨。纳娜和孽宝宝采用易容术进行身份转换，并与男性角色之间的情感纠葛糅合，涉及了一定的色情内容和复杂的人际关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我们的故事---修士原创.doc]([皮物]_我们的故�
 | Size            | 50176 bytes                           |
 | MD5             | 17bc2f495ea653418fe03c69c81bd1ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 女杀手, 易容术, 都市, 剧情, 恋爱, 自我探索, 角色扮演, 刺激, 情感纠葛, 跨性别, 另类小说, 二次元, 幻想, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

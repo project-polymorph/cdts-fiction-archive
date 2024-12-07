@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_百鬼众魅·足不履影（第七篇）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说《足不履影》是《百鬼众魅》系列中的第七篇，描绘了一位心理健康老师尹老师与一名女学生乐鲤之间错综复杂的关系。故事开头设定在一个放学后渐渐安静的校园，尹老师虽然身为心理健康老师，却被迫加班，面临着来自学生的挑衅与压力。乐鲤同学的外表可爱，然而随着剧情的发展，性格逐渐显露出其真实一面。
+
+小说深刻探讨了伦理与欲望的界限，尤其是当尹老师面对过往的心理理论和来自一位青年窘迫的心理压力，故事中交织着性别认同、自我探索以及道德伦理的挑战。青年提到尹老师多年来的理论研究，即意识的转移，甚至奠定了尹老师在实验中牺牲自我的基础。
+
+随着尹老师与青年的互动，加剧了故事的紧迫感，暗示着即将到来的伦理冲突与人性的扭曲。作品在情节上探索了生理与心理的双重对抗，终极实验的开始点燃了内心的复仇欲望，以及对现状的深刻反省。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_百鬼众魅·足不履影（第七篇）.doc]([皮物]_�
 | Size            | 86016 bytes                           |
 | MD5             | 72e1db29c5297f1a7407e284f9c3b757                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 心理健康, 性别认同, 自我探索, 伦理冲突, 师生关系, 意识转移, 复仇欲望, 人体实验, 魔鬼交易, 青春挣扎, 禁忌关系, 校园生活, 二次元, 变身, 性转小说, 伪娘, 男娘, 强奸, 调教, 百合, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

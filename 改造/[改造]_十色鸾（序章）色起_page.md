@@ -7,7 +7,7 @@ TXT 下载: [[改造]_十色鸾（序章）色起.doc]([改造]_十色鸾（序�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为小说《十色鸾（序章）》的序章，主要围绕一个虚构的古代王朝东朝的男妓文化和妖教变身术展开。故事设定在一个由男性美丽青年所构成的特殊社会环境中，其中美丽的男性被称为“娈童”，其美貌被贵族所追捧。故事描绘了一个名为唐万里的角色，他通过一种名为‘千锤百媚’的邪功，成功将其两个儿子萧幕龙和萧幕虎变成绝世美男，并成为达官贵人游戏的玩物。文件中多次提到东朝对美男的特殊需求以及男变女之术背后的阴暗交易，反映了复杂的性别认同与社会价值观。同时，故事中融入了较为露骨的情色描写和权力斗争，展现了江湖的纷争与人物之间微妙的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_十色鸾（序章）色起.doc]([改造]_十色鸾（序�
 | Size            | 37376 bytes                           |
 | MD5             | 2514daa00b83d9948402ef1591ab381a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 男变女, 伪娘, 跨性别, 妖教, 千锤百媚, 东朝, 古代, 权力斗争, 邪教, 变身, 美男, 情色小说, 社会价值观, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

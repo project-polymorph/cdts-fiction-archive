@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鹰枭乱第二部（二_掉入）_[_(2).docx]([改造]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是改造系列小说中的第二部，内容主要围绕年轻警官赵阳光在警局工作的经历展开。故事描绘了赵阳光与副局长王彦之间复杂的关系，以及他在调查一宗可疑夜总会事件时所面临的各种挑战。故事通过对赵阳光冒失性格的刻画与其对于正义的执着，展示了他在职场中的挣扎与成长。在调查过程中，赵阳光发现夜总会涉及与黑道的关系，以及副局长与此之间的猫腻，不禁感受到正义的无力与内心的迷茫。文中有丰富的对话与心理描写，尤其对赵阳光日渐增长的怀疑与无奈的体现。可以看出，随着剧情的发展，赵阳光面临的危险与挑战将不断升级，整个故事中充满了悬疑与复杂的角色关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鹰枭乱第二部（二_掉入）_[_(2).docx]([改造]_�
 | Size            | 20093 bytes                           |
 | MD5             | fe2078c5a9694b92561e8e59cd8a25cb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 悬疑, 警察, 夜总会, 黑道, 副局长, 性转, 跨性别, 自我探索, 阴谋论, 正义, 成长, 少年成长, 暗黑, 心理斗争, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

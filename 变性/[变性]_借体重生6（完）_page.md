@@ -7,7 +7,7 @@ TXT 下载: [[变性]_借体重生6（完）.docx]([变性]_借体重生6（完�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是有关迈克尔变性后生活的小说片段，具体描绘了迈克尔在变性手术后的心理变化和日常生活。他原本是男性，却被迫接受了变性，变成了名为蜜雪儿·布里顿的女性。文件开始于迈克尔对自己新身份的反思，面对镜子中的自己，他感到复杂而矛盾，对穿着内衣和女装的羞涩与接受交织在一起。故事中，迈克尔开始适应新的生活方式，并与特德的关系逐渐发展。特德是他在恢复期间的照顾者，对于特德的爱慕，迈克尔心中感到愧疚和紧张，心里明白自己在身体上变成了女性，社会上也以女性身份存在，然而他的身份认同依然是男性。他不断思考着如何面对特德的感情，以及他自己对待新身份的态度。此外，小说中还探讨了性别认同、自我探索等主题，展现了迈克尔在变性过程中所经历的心理斗争与变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_借体重生6（完）.docx]([变性]_借体重生6（完�
 | Size            | 34137 bytes                           |
 | MD5             | 13e23689df0755e7350e0eaac1e7f0be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 自我认同, 性别探索, 跨性别, 爱情关系, 心理斗争, 二次元, 变身, 伪娘, 男性视角, 女性身份, 医用证明, 生活变迁, 社会适应, 情感困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

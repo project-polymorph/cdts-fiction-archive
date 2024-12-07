@@ -7,7 +7,7 @@ TXT 下载: [[其他]_(微小说）_教室六部曲_（完结）.doc]([其他]_(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一系列名为《教室六部曲》的微小说，围绕校园生活和灵异体验展开，主要讲述了几位学生在教室内遭遇不同的情节。其中包括了性别转换、身体交换等涉及性别认同的主题故事。第一部分描述了主角旻在一个传言中的灵异教室内探险，意外遭遇性别变化，变成了一名穿着女校服的女孩，而他之前的身份在这间教室中已然湮没。第二部分涉及了老师通过身体交换的手段调整学生座位，显现出一些对于青春期懵懂爱情以及身体变化的探索。随着故事的发展，几位主角的生活与情感经历被相互交织，展现年轻人中的友谊与爱恋，以及对自我认同的探寻。整体文字风格轻松幽默，交织着惊悚与校园青春元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_(微小说）_教室六部曲_（完结）.doc]([其他]_(
 | Size            | 47616 bytes                           |
 | MD5             | f90d2e7809150af353d277bf32139efb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 微小说, 校园生活, 灵异故事, 性别转换, 青春期, 身体交换, 自我认同, 友谊, 爱情, 性别认同, 灵异教室, 变装, 女装, 青少年小说, 探索与成长, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】一、英雄救美.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《英雄救美》是一个描绘角色变身与性转情节的小说，呈现了一场围绕游龙青、云樱与飞飞之间复杂关系的故事。在故事中，游龙青与小白姑娘（飞飞）成婚后，又迎来了他的表妹云樱。在热闹的洞房中，三人之间由于酒醉而展开了一场极具挑逗性质的交互关系。故事详细描写了每个角色的情感与身体变化，尤其是在男女角色之间的身体转化过程中，游龙青和飞飞的身份互换，引入了性别认同和自我探索的主题。虽然整个情节包含一些性相关的内容，诸如情感的交织与身体的交合，但同时也表现了人物内心的挣扎与冲突，增加了故事的复杂性和情感深度。整部小说的情节通过细腻的描写突显出角色间的情欲交织与身份认知。小说最后探讨了飞飞作为女性角色的自我认识与成长，暗示着性别流动性和性别认同的多样化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】一、英雄救美.doc]([
 | Size            | 47104 bytes                           |
 | MD5             | 041c90d37870c463ba80a91a34f1d409                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 跨性别, 伪娘, 男娘, 情感纠葛, 自我探索, 身份认同, 强奸, 调教, 变嫁, 年龄差, 双头玉器, 乱伦, 多角关系, 奇幻, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

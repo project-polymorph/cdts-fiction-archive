@@ -7,7 +7,7 @@ TXT 下载: [[交换]_过年惊变.doc]([交换]_过年惊变.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《过年惊变》是一篇围绕性转与自我认同主题的小说。故事通过女主角宋方方与其丈夫陈亮的关系，探讨了婚姻、生育压力和性别认同等议题。开头描述了宋方方和她的母亲蒋婷前往寺庙拜佛的情景，表达了对未来的祈愿和对现实生活的无奈。在拜佛的过程中，宋方方的婚姻问题逐渐浮出水面，尤其是丈夫面临的家庭生育压力，让她感到困惑与苦恼。随着剧情发展，宋方方逐渐意识到自己对生育与自我认同的挣扎，并在故事中经历了一场奇幻的性别转变。在这个过程中，她不仅面临自身身份的重新界定，也对婚姻关系产生了新的反思。文中穿插着神话元素和对社会传统的批判，尤其是对女性在家庭与社会角色中的期望，营造出一种紧张而复杂的情感氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_过年惊变.doc]([交换]_过年惊变.doc)
 | Size            | 48640 bytes                           |
 | MD5             | 2ccfb52154cf34f17aadc78e91325a3b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 婚姻, 自我探索, 生育压力, 佛教文化, 传统与现代冲突, 性别认同, 青春期困惑, 女性主义, 奇幻, 二次元, 心理描写, 人物发展, 爱情与家庭, 道德冲突, 现实与幻想, 自我认知, 社会期待, 角色转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

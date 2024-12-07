@@ -7,7 +7,7 @@ TXT 下载: [[变身]_月中折桂子飘香，后羿射日月无光（上）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说的内容围绕着不同神话故事的交织展开，特别是《嫦娥奔月》与希腊神话的结合。主要讲述了一个少年吴刚因杀害伯陵被月亮的中年神罚，被发配到月亮上伐桂的故事。故事中，吴刚初抵月亮，发现了环境的神奇与异样，并与几位可爱的月兔展开互动。在他的探索中，他通过魔法变身为女性角色，经历了身体和心理的转变。故事中涉及对性别认同、外表变化和自我探索的讨论，运用轻松幽默的语气描绘出神仙与凡人的奇妙对话，掺杂了不少性暗示的内容。文中有多处对人物形象细致的描写，以及对神话设定的巧妙重组，展现了角色在面对禁忌和欲望时的困惑与尝试。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_月中折桂子飘香，后羿射日月无光（上）.doc
 | Size            | 40448 bytes                           |
 | MD5             | 11d8b45518fdd6d10d37b7134fb9e1cd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 月亮神话, 希腊神话, 自我探索, 性别认同, 幻想, 魔法世界, 角色互动, 发情期, 禁忌恋爱, 故事重构, 二次元, 强烈的性暗示, 魔法少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_永生（全）.docx]([附身]_永生（全）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《永生（全）》是由作者不再飞翔创作的跨性别主题小说，讲述了一个关于附身与自我认同的故事。故事开篇描绘了一位道士在破道观中通过神秘仪式成功附身于他人，从而引发了一系列奇妙的情节。在现代生活中，主角李明是一个在读大学生，与远房表妹同住。李明因表妹的漂亮而产生了复杂的情感，故事逐渐展开了他们之间的纠葛与冲突。在一饮酒后，序幕揭开，表妹与李明之间的性关系逐渐明朗，涉及到伦理与情感的冲突，同时引入了一种生理与性别身份交错的奇妙设定。小说风格兼具成人内容，需读者谨慎对待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_永生（全）.docx]([附身]_永生（全）.docx)
 | Size            | 39811 bytes                           |
 | MD5             | 8810fbb0794f26ba12878293d328fe36                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 不再飞翔                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 跨性别, 性转, 高中生, 表亲, 奇幻, 情感冲突, 道士, 性关系, 伦理, 魔法, 超自然, 探索自我, 隐私, 青春期, 恋爱, 性教育                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

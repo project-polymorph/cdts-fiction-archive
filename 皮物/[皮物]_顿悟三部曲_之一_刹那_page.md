@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_顿悟三部曲_之一_刹那.docx]([皮物]_顿悟三部�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《顿悟三部曲之一: 刹那》的小说文本，描绘了一位男子在观看欧洲杯比赛时的内心独白与对妻子的思念，展现了平常生活中的温馨与幽默情感。故事的开头，主人公因为西班牙队的表现而兴奋异常，回忆起了与妻子真真的点滴生活与相处细节，例如她的工作安排及贤惠的性格。然而在观看比赛时，偶然发现一个与妻子相似的女孩儿出现在比赛画面中，引发了他的惊讶与疑惑。随着对这一神秘女孩身世的思索，主人公开始怀疑起自己的妻子是否真的在医院工作，还是只是她的一个替身，剧中充满了悬念和对身份认同的模糊探讨。文本使用了幽默、略带轻松的语气，探讨了伴侣之间的信任与不安，展现了男主对妻子的情感依赖和对相似性的悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_顿悟三部曲_之一_刹那.docx]([皮物]_顿悟三部�
 | Size            | 25983 bytes                           |
 | MD5             | 10fd470dae37508d925ab476ca53ba1c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 男娘, 变身, 情感, 悬疑, 生活, 爱情, 幽默, 自我探索, 性别认同, 赛场经历, 人物关系, 婚姻, 日常生活, 文化现象, 次文化, 足球, 家庭                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

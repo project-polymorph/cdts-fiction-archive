@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蜀山炼器师_第一章_至_第二章.docx]([附身]_蜀
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件由小说《蜀山炼器师》的前两章构成，描绘了一位名为宋升的男子在异界中经历性别与身份转换的奇妙旅程。他从普通村民转变为拥有强大法力的炼器师，通过穿戴特定道具与药物，激活他的变身能力，开始探索力量与自我认同的关系。故事中涉及了亲情与复仇的主题，宋升在赵仙岚的殉道后受到强烈的情感冲击，他进入了一场梦境，得到了一名古代仙师的指引，获得了“器道·欲邪魅”这一法门。在经历自我性别转变的过程中，他与被他吸取精气的对象赵仙岚的灵魂交融，逐渐形成了新的身份与性格。同时，村中的村长也因其贪婪与恶行，受到贪欲化身的惩罚，揭示了欲望对人性的扭曲作用。此文情节曲折，引人入胜，深入探讨了性别与自我认同、权力与复仇之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蜀山炼器师_第一章_至_第二章.docx]([附身]_蜀
 | Size            | 29156 bytes                           |
 | MD5             | f122b29280e7c908c07b65bb8897cf06                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 修仙, 变身, 复仇, 情感, 异世界, 自我探索, 道德冲突, 精气吸取, 灵魂交融, 女性视角, 权力斗争, 仙女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

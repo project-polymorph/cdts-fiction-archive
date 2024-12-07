@@ -7,7 +7,7 @@ TXT 下载: [[变身]_普通的一家（9-11）（完）.doc]([变身]_普通的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件讲述了一家人在变身后的生活适应过程，包括他们与维克多医生的交谈。汉娜、曼蒂等角色在接受变身后，逐渐适应新的身份和生活方式。文本中包含了家庭成员间的亲密关系，包括汉娜和她母亲肯德尔的对话，反映了她们在经历身体和心理变化过程中的挣扎与支持。更具体地，汉娜面临的是性别认同的困惑与年龄的变化，而她的母亲肯德尔从原本的直男角色转变为妻子，开始接受与加勒特的亲密关系，显示出人们在性别转换和自我认同中的复杂情感。在双方的交流中，反映了变身后角色的心理变化，以及家人之间如何面对和接受这些变化的故事情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_普通的一家（9-11）（完）.doc]([变身]_普通的
 | Size            | 48640 bytes                           |
 | MD5             | 16db3144ed869d56bca3add8f58c68fa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 家庭关系, 性别认同, 成长, 心理变化, 约会, 亲密关系, 母女对话, 青春期, 自我探索, 性别转换, 二次元, 伪娘, 女性视角, 情感冲突, 男娘, 剧情发展, 虚拟现实, 社会适应, 生理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

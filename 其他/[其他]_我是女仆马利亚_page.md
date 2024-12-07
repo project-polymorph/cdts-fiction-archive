@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我是女仆马利亚.docx]([其他]_我是女仆马利亚
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《我是女仆马利亚》是一部围绕性别认同与变身主题的小说，故事讲述了新婚夫妻，我和妻子天娜，决定雇佣一位女佣来帮助管理家庭事务，结果雇佣了来自菲律宾的女佣马利亚。马利亚是个年轻、清纯且能干的女孩，随着时间的推移，她与夫妻间建立了亲密关系，我不仅和她一起学习塔加洛语，还参与到她的生活中，甚至在马利亚的影响下，我开始怀疑自己的性别身份，最终进入了一个模糊的自我认知状态。在一次庆祝天娜生日的聚会中，我和马利亚化妆打扮，结果由于醉酒后意识模糊，我的性别身份逐渐模糊，变成了一种奇特的状态。整个故事探讨了性别认同、家庭关系以及角色转变等深层主题，并通过马利亚与主角的关系展示出挖掘自我的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我是女仆马利亚.docx]([其他]_我是女仆马利亚
 | Size            | 20059 bytes                           |
 | MD5             | bbd561f531d3d87fd23f4030abb5ce84                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 家庭关系, 塔加洛语, 女佣, 性别认同, 新婚生活, 女性视角, 自我探索, 醉酒与身份, 亲密关系, 菲律宾文化, 双性恋, 性别模糊, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

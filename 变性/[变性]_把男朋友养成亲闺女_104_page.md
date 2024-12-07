@@ -7,7 +7,7 @@ TXT 下载: [[变性]_把男朋友养成亲闺女_104.docx]([变性]_把男朋�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是伪娘 TS 变身与跨性别相关的小说的一部分，讲述了角色贝丽为准备与奥古斯特进行第二次约会而进行的个人护理和心理斗争。贝丽在沐浴时回忆起打理自己的日常过程，同时感受到性别认同带来的情感冲突和身体的变化。她开始怀念简单的肥皂洗澡时光，而现在却需要应对自己的身体变化和心理困扰，这让她感到不安。内容中描绘了她在洗浴过程中对身体的焦虑和对性别角色的认同感，尤其是与朋友坎迪的对话反映了她的内心渴望与社会期望之间的矛盾。通过与梅根阿姨的电话交流，贝丽寻求对自己身体变化的帮助，使得这个角色的性别认同和发展增添了更多层次。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_把男朋友养成亲闺女_104.docx]([变性]_把男朋�
 | Size            | 23561 bytes                           |
 | MD5             | 8ee91be278f28a59dac7cc58096ac20c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 沐浴, 心灵冲突, 约会, 身体变化, 个人护理, 自我探索, 情感纠葛, 友谊, 社会期待, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

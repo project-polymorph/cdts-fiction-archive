@@ -7,7 +7,7 @@ TXT 下载: [[附身]_心魂协议：心网.doc]([附身]_心魂协议：心网.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件描述了一项关于人工智能与自我意识的研究项目，围绕着一个叫做\/仲元敏\/的角色进行展开。在项目中，研究团队试图通过模拟人脑来创造一个具有意识的电子生命体。文本中详细描绘了研究人员的努力与挑战，特别是缺乏真实的“自我”数据的问题。仲元敏等人希望通过灵感来自然人的经历来培育出一个虚构的自我，但最终的实验结果却是一再的失败。文中提到多次实验后的沮丧，以及对于伦理和科学的探讨。之后，仲元敏突然昏迷，经过查证发现他脑中长了肿瘤，最终决定将自己的人格数据提取，转移入电子脑系统，以此继续存活并推动研究进展。文件展示了科学与人性之间的冲突，涉及了记忆、身份以及科技带来的伦理议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_心魂协议：心网.doc]([附身]_心魂协议：心网.
 | Size            | 84480 bytes                           |
 | MD5             | 38f5c674d9a0b0a8582ed887f5a3256f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人工智能, 意识模拟, 自我意识, 科技伦理, 人格转移, 肿瘤, 昏迷, 科学研究, 虚构人格, 心理探索, 未来科技, 电子脑, 研究团队, 电子生命体, 人性问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

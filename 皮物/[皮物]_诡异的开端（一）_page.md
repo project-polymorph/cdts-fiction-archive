@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_诡异的开端（一）.docx]([皮物]_诡异的开端（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个男主角在收到一份神秘快递后，逐渐陷入一系列诡异而恐怖的事件中。故事的开端描绘了一个快递员拜访男主，递送一个包含成人性用品的快递，里面有一根仿真阳具和一件内裤。男主对此感到困惑与不安，因为他不明白为什么会收到这样的物品。接着，他在浏览随快递附带的宣传卡片时，发现了一些涉及成人产业的暗示，令他开始回忆起自己辞去工作的公司及其不寻常的员工背景。随着视频的播放，他被卷入了更为恐怖的情节，目睹了一段关于人皮和SM的可怕过程。整篇内容混合了恐怖与色情，探讨了性、身份认同和人格的界限，以及在虚幻与现实间的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_诡异的开端（一）.docx]([皮物]_诡异的开端（
 | Size            | 20572 bytes                           |
 | MD5             | 80c8e4777691458e7aef70d5fa5492da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 风铃                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 恐怖, SM, 成人内容, 性玩具, 自我认同, 奇幻, 虚拟现实, 心理探险, 黑暗幻想, 人皮, 血腥, 刺激                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

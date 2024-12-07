@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《同桌在随处施展神迹：其一》.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个关于中学生直人和他的同桌纱织之间奇异的故事。故事开始于课堂上，主角直人与同班同学阿赫，以及他心仪的同桌纱织之间的互动。纱织在课堂上表现得异常，让直人感到困惑和好奇。通过直人的视角，读者看到他与阿赫之间的对话以及阿赫自称为神明的荒谬言论，随之而来的则是纱织在课堂上行为的突然变化。随着故事发展，阿赫声称纱织实际上被一个中年男子的灵魂所占据，并且通过某种道具实现了这种转换。这一切让直人感到震惊和不安。故事充满了青春期的探索和性别认同的混乱，涉及了对欲望、身份和人际关系的深刻思考。剧情中的一些情节表现出高度敏感和挑衅的场面，令读者感受到角色内心的挣扎与悸动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《同桌在随处施展神迹：其一》.doc]([皮物]_�
 | Size            | 64000 bytes                           |
 | MD5             | cf06f1d3598191bb09843807db6117db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 青春期, 神明, 欲望, 校园, 超自然, 自我探索, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

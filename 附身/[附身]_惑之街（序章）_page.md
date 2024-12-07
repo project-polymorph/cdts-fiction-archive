@@ -7,7 +7,7 @@ TXT 下载: [[附身]_惑之街（序章）.docx]([附身]_惑之街（序章）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《惑之街》的序章，故事背景设定在一个仙气缭绕的道教山脉上，描述了一场围绕着邪道与道教、佛教之间的斗争。故事伊始，受伤的道教弟子和僧侣们正在讨论刚刚发生的一场大战，并探讨邪道可能的阴谋。焦点放在一道年轻人炎影上，他被描绘为与众不同的希望，甚至是伏羲转世的存在。邪道的角色蔚凛欢，其真实身份为炎影的母亲，却被邪恶势力侵占，双重身份的揭示引发了剧烈的冲突。文件中详细描写了角色们的情感冲突，尤其是炎影的绝望与求助，以及即将发生的决战，蕴含着对母子关系的复杂探讨以及对力量与邪恶的思考。小说通过庙宇、道场等元素，营造出浓厚的奇幻氛围，为后续的故事发展奠定了基础。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_惑之街（序章）.docx]([附身]_惑之街（序章）
 | Size            | 28006 bytes                           |
 | MD5             | 527c2c1fec28a81d8aea3b3d6508b97e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 玄幻, 性别认同, 自我探索, 阴谋, 母子关系, 力量与邪恶, 道教, 佛教, 魔法, 转魂, 角色冲突, 青春成长, 仙侠                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

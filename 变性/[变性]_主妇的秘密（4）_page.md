@@ -7,7 +7,7 @@ TXT 下载: [[变性]_主妇的秘密（4）.docx]([变性]_主妇的秘密（4�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本次档案收录了一篇关于一名男性在妻子的主妇角色中体验女性生活的小说。文章描绘了主人公对作为女性的快乐和甜蜜的细腻描写，他在家中享受着被宠爱和照顾的幸福感。故事中，丈夫称他的妻子为“小主妇”，虽然她身高一米七六，比丈夫还高，但她展现出属于她的独特魅力。故事生动地描述了她为丈夫做早餐、打理家庭事务的细节，以及在家中打扮自己的日常，显示出她对于主妇角色的热爱和对丈夫的深厚感情。此外，文中也提到她对丈夫爱护的依赖，以及她渴望保持新鲜感和吸引力的细腻心理。情感的描绘交织着主妇生活的琐碎与深厚的爱，展现了一种对传统性别角色的探索与挑战。文章同时涉及一些成人内容，如性幻想和温馨的家庭场景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_主妇的秘密（4）.docx]([变性]_主妇的秘密（4�
 | Size            | 18886 bytes                           |
 | MD5             | 7910af90773bf14a14dce919442ea43b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 主妇, 情感依赖, 家庭生活, 二次元, 性转, 温馨, 成人情节, 自我探索, 爱情, 角色扮演, 女性视角, 日常琐事, 自我形象, 文化观察, 传统性别角色, 心理描写, 婚姻生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

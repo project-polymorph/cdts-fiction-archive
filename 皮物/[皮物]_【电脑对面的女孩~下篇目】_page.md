@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【电脑对面的女孩~下篇目】.doc]([皮物]_【电
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《电脑对面的女孩~下篇目》描绘了一个关于性别转换及身份探寻的故事。故事从一个炎热的场景开始，主要讲述了比尔与卡瑟琳娜之间的互动。卡瑟琳娜的身体上半部是男性而下半部是女性，展现了性别混合的复杂性。比尔通过摄像头观察卡瑟琳娜，发现她面部有一道长长的疤痕，激发了他的好奇心。随着故事的发展，比尔试图通过网络寻找卡瑟琳娜的资料，并在此过程中增加了对她的了解。文件中也提到比尔在工作中使用木马程序获取信息，凸显了网络世界与现实生活的交织。最后，卡瑟琳娜在私人诊所的情节展示了她与护士戴安娜之间微妙的关系，有暗示性和身份认同的细腻刻画。整体来看，这是一个涉及性别认同、自我探索和网络隐私的复杂故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【电脑对面的女孩~下篇目】.doc]([皮物]_【电
 | Size            | 43520 bytes                           |
 | MD5             | 59a3b88700b588789db7718b6575b80d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 网络隐私, 身份认同, 自我探索, 奇幻, 科幻, 变身, 情感纠葛, 木马程序, 医生, 护士, 隐秘关系, 心理冲突, 罪与罚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

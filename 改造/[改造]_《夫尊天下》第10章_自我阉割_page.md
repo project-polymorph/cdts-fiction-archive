@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《夫尊天下》第10章_自我阉割.doc]([改造]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《夫尊天下》第10章，主要围绕方二郎的自我阉割过程展开。章节伊始，方未明逐渐意识到自身的渺小与无知，内心的挣扎使他试图用极端的方式结束自己的痛苦。由于对传统制度的思考，他判断杀死地主可能会带来更大的混乱。在阉割过程中，方二郎经历了剧烈的身体与精神上的痛苦，最终被家人的情感牵动，忍住不下狠手，从而改变了原本自杀的选择。章节中对方二郎内心的戏剧性转变和肉体的痛苦进行了详细的描写，其间充满了对自我身份及尊严的深刻反思。文中提到，“今天已经出了很多丑的古月兄弟，一刻都不想在这里待了。”这些文字展现了角色在极端情境下的心理变化及对他人情感的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《夫尊天下》第10章_自我阉割.doc]([改造]_《�
 | Size            | 117760 bytes                           |
 | MD5             | c3d4b1db26b5d96625e68abe680444f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 自我阉割, 人际关系, 精神痛苦, 家庭关系, 身份认同, 角色发展, 情感纠葛, 小说, 二次元, 强烈情感, 自我探索, 内心挣扎, 剧烈冲突, 变身, 极端选择                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_32.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是小说《把男朋友养成亲闺女》的第三十二章，讲述了两个女孩坎迪和贝丽在水上乐园的冒险。贝丽尝试征服一个极具挑战性的滑梯，表现出了作为男性身份的勇气与自我怀疑。在故事中，贝丽经历了滑梯带来的惊险，并在水中意外展现了裸露的状态，引发了周围人们的注意。之后，她又与一名救生员相遇，并在紧张的氛围中经历了一场尴尬而荒诞的情欲互动。整个过程中围绕着性别认同、自我探索等主题展开，同时包含一些成人向的情节与描述。文中大胆描绘了性别转换后的性爱体验，以及自我认同与社会期望之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_32.doc]([改造]_把男朋友�
 | Size            | 71680 bytes                           |
 | MD5             | dfc551426446f60091a7822f6ee475c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2021-10-08                                 |
+| Tags            | 性转, 跨性别, 伪娘, 水上乐园, 性别认同, 自我探索, 蓄意性行为, 双胞姐妹, 青少年冒险, 荒诞幽默, 情欲互动, 羞辱, 挑战极限, 自我怀疑, 成人向小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

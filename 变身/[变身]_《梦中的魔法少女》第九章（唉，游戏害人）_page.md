@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《梦中的魔法少女》第九章（唉，游戏害人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为性转小说《梦中的魔法少女》第九章，情节发生在一个虚幻的空间泡中，描述了主人公在与时之魔女的互动中经历的性别及外形的变化。魔女以一种类似恶魔的形象出现，其长尾巴将主人公束缚，展现出一种双方之间的权力关系。在不断的对话中，主人公的情绪从无助到被动接受魔女的安排，最终决定使用魔法变身为星瞳，这一过程体现了复杂的自我认知及身体的变化。文中有大量色情与性暗示的描写，如魔女控制主人公的身体，同时伴随着高强度的性刺激和羞辱的暗示。整篇小说围绕性别认同、身体控制以及性转的主题展开，涉及魔幻与幻想元素，培养了读者对性别流动与自我探索的深刻理解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《梦中的魔法少女》第九章（唉，游戏害人�
 | Size            | 49152 bytes                           |
 | MD5             | cd951082282a32ca3c2299a28a3efeb1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 魔法, 伪娘, 变身, 性别认同, 自我探索, 幻想, 魔女, 调教, 权力关系, 强制, 性暗示, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

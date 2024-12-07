@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_27.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘及跨性别题材的小说，讲述了角色贝丽在一次约会中的复杂心理和情感交织。故事背景设定在现代，贝丽在一次看电影的约会上，经历了一系列围绕性别角色和性欲的冲突与扭曲。在电影院中，她面临来自男孩奥古斯特的性挑逗，尽管她努力保持距离，但最后却被迫接受了这种不适的感受。这部小说在描写贝丽的内心挣扎的同时，展现了她在性别认同及自我探索过程中的困扰与愤怒。作品语言直白，情节紧张，涉及了一些敏感和限制级内容，如性骚扰与自我认同危机。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_27.doc]([改造]_把男朋友�
 | Size            | 36352 bytes                           |
 | MD5             | 198ee01ee12713a63052f9458d912517                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent423                               |
+| Region          | 未知                               |
+| Date            | 2021-08-20                                 |
+| Tags            | 伪娘, 跨性别, 性转, 约会, 心理挣扎, 性欲冲突, 电影院, 角色扮演, 青少年, 性骚扰, 自我探索, 强奸, 调教, 淫荡, 百合, 变嫁, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_化裝舞會.docx]([皮物]_化裝舞會.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一篇伪娘变身与跨性别主题的小说，内容围绕着角色羽山与其秘書小桃之间的互动展开。故事开篇描述了羽山被叫进办公室，正准备面对老闆的训斥，然而情况却意外发展为羽山与小桃之间的调情。在一系列的情节中，羽山被迫穿上了男用貞操带，在强烈的尿意催促下，羽山不仅要在办公室内使用厕所，还被小桃安排参加化妆舞会。舞会的过程进一步发展，羽山先是被小桃打扮成蜘蛛人，却又在小桃与另一位秘書亚子的合力下被控制，脱掉所有衣物，穿上女性化的紧身服并施加药物，进一步展现了身体与身份的转变。整个故事紧张而具有刺激感，涉及了性别认同、角色转变等主题，同时融入了一些强烈的性暗示和成人内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_化裝舞會.docx]([皮物]_化裝舞會.docx)
 | Size            | 22744 bytes                           |
 | MD5             | 5cd83f9f115b001d72d0ace36fa5f3fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 办公室情节, 强烈性暗示, 女主控, 化妆舞会, 情感纠葛, 性别认同, 身体改造, 自我探索, 百合, 调教, SM, 尿意, 贵族宠物, 恶搞, 性转, 奇幻, 现代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

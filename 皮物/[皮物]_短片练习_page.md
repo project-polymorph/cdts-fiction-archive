@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_短片练习.docx]([皮物]_短片练习.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一名普通学生与校花女友之间复杂的情感纠葛，以及主角在被错误指控后，选择逃亡与报复的故事。故事的开头，主角因爱而执着，即使女友与其他男生交往，也认为只要能看见她的背影就心满意足。然而，在一次被诬告后，女友做了伪证，主角的心灵遭受重大打击，誓言复仇。在逃亡中，主角遇到了一个巫师，得到了可以让女友变成“皮”的药水。通过药水，主角成功穿上了女友的皮肤，拥有了她的记忆与外貌，但内心却无比矛盾。在成为女友后，主角尽管拥有美丽的外表，却无法获得心灵的满足，依然对女友怀有复杂的情感。当她再度与曾经的自己对峙时，主角不得不面对更深层的身份与感情冲突。最终，故事以悲剧落幕，探讨了身份认同、爱与自我消失的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_短片练习.docx]([皮物]_短片练习.docx)
 | Size            | 19638 bytes                           |
 | MD5             | d2c2f05b31b797f66d592f5703470cb3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 悬疑, 情感纠葛, 复仇, 跨性别, 身份认同, 魔法, 巫术, 悲剧, 自我探索, 心理冲突, 虚幻与现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

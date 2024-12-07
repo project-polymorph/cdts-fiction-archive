@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_转瞬双生26.docx]([皮物]_转瞬双生26.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《转瞬双生26》是一篇关于跨性别与性别转换主题的小说片段，讲述了一位角色在接受变身过程中的极端体验和痛苦。作品中，主角经历了重塑自身性别和外貌的痛苦过程，从呕吐、身体疼痛到身心变化的挣扎，展现了对身份认同的苦恼和对美好生活的渴望。文本描绘了角色在生理变迁时的恐惧与不安，包括对身体变化的恐惧、对自己容貌的失落，以及强烈的痛苦感。随着侵蚀的推进，主角的身体逐渐被人造皮肤取代，但痛苦并未减轻，反而经历了极端的痛苦和绝望，体现了性别转换过程中可能遭遇的身体创伤和情感的冲击。通过一系列痛苦的描述，小说深入探讨了个体在性别转换中的心理变化和对 الذات 的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_转瞬双生26.docx]([皮物]_转瞬双生26.docx)
 | Size            | 26198 bytes                           |
 | MD5             | f8fec974b122f766e0bbf8dc1f2f6179                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别转换, 痛苦经历, 自我认同, 身体改造, 伪娘, 变身小说, 内心挣扎, 身份探索, 情感冲击, 极端体验, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

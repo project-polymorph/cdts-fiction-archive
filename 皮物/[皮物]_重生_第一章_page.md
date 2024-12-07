@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_重生_第一章.docx]([皮物]_重生_第一章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了肖定浪，一个曾经成功的男人，在经历了对妻子和女儿的突如其来的失去后，生活的彻底崩塌。故事开始于肖定浪在酒吧醉酒的场景，他在酒精的麻痹下，无法面对自己深重的痛苦与失落。他曾是令人羡慕的丈夫和父亲，但在得知妻女因车祸去世后，他生活的重心瞬间倾覆。文章详细描述了他的情感崩溃与内心挣扎，透过回忆体现出他曾经幸福的家庭生活、工作中的被剥夺与背叛，以及对上司谭飞的愤恨。肖定浪在失去亲人后的沉重负担与无助感，让他不得不搬离原来的生活，独自一人承受痛苦与孤独。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_重生_第一章.docx]([皮物]_重生_第一章.docx)
 | Size            | 37443 bytes                           |
 | MD5             | b82fddf1db96497f8f0937e09e4329fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 情感崩溃, 亲情, 复仇, 职场阴谋, 酒吧文化, 都市故事, 失落与寻找, 人性挖掘, 家庭悲剧, 心理描写, 人生转折, 自我救赎, 生活迷茫, 痛苦回忆, 社会现实, 男性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

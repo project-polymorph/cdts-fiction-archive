@@ -7,7 +7,7 @@ TXT 下载: [[交换]_商务大脑与性感身材（3）【记忆交换】.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别角色和性取向探索的小说，涉及高尔夫比赛及办公室环境。主要角色道格与特蕾西之间的互动在性别与自我认同上展现了复杂的关系。在故事中，道格因记忆与性别的交换而感到困惑，与此同时，特蕾西则逐渐熟悉与男性化身份相关的职场挑战和个人感受。特蕾西通过挑战道格的高尔夫技能赢得了一次改变的机会，然而随着比赛的进行，二人开始探索彼此心理的深处。随着情节的发展，特蕾西的策略、身份认同的冲突以及对道格性取向的质疑交织在一起，其中包含了对性别认同和权力动态的深入探讨。最终的情节展示了他们的互依关系在工作和个人生活中的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_商务大脑与性感身材（3）【记忆交换】.docx]
 | Size            | 23420 bytes                           |
 | MD5             | d17fa38ec552030e39fb8a9072273726                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我探索, 办公室戏剧, 高尔夫, 记忆交换, 性别认同, 职场文化, 心理冲突, 性别角色, 情感关系, 女性视角, 身体运动, 性别流动, 权力动态, 双关语                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_变身美丽寡妇的奇妙生活•序（改）.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《变身美丽寡妇的奇妙生活•序（改）》讲述了一个设定在三战后世界的故事。主人公林淼虽然是一名普通的大学生，但他的生活充满了逆境与挑战。在这个富豪垄断一切的社会中，林淼从小失去父母，靠自己的努力进入了顶尖学府，然而，在图书馆的兼职工作中，他与初恋陈芸意外重逢。陈芸如今已是富有的王富贵的妻子，这段重逢带给了林淼复杂的情感，掀起了他的旧梦与不甘。小说通过林淼的视角，展现了社会的不公以及对过去的追忆与渴望，表现了性别与身份的主题，以及人物之间微妙的心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_变身美丽寡妇的奇妙生活•序（改）.doc]([皮
 | Size            | 37888 bytes                           |
 | MD5             | e029290506cc974cee0cb22580161306                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | lgy                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 情感纠葛, 三战后, 校园生活, 经济差距, 庞大小说, 初恋, 富豪, 个人成长, 深沉的回忆, 心理冲突, 社会黑暗, 逆境成长, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_母狗游戏7.docx]([变身]_母狗游戏7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为伪娘变身相关小说的一个章节，讲述了名为观月龙一的角色在经历身体和性别的转换后，逐步适应新的身份。故事情节围绕观月在一个陌生的环境中，感受到的拘束、羞耻以及对自我身份的反思展开。开篇，观月醒来时发现自己被绑住，感受到身体的变化与对新的性别身份的困惑。随着情节的发展，观月被迫扮演一个顺从的角色，并在餐厅中第一次体验了作为伪娘的生活，像狗一样跪在食盆前进食。故事含有明显的强烈限制级元素，包括性别转变、羞辱、性和暗示性的行为，展现了角色在新身份中的心理挣扎与深层次的自我认同探索。接下来，观月还面临着与其过往身份和命运交织的困扰，尤其是与一名变态强奸犯的牵连，情节的发展强烈而紧张，深入探讨了权力、性别和生存的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_母狗游戏7.docx]([变身]_母狗游戏7.docx)
 | Size            | 26863 bytes                           |
 | MD5             | 0b60dd518bf0d4765a4919f292a825b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 强奸, 自我认知, 心理挣扎, 羞辱, 暗示性行为, 托付与重复, 生理与心理的矛盾, 身份转变, 为了生存的顺从, 禁忌, 情感纠葛, 逆境求生, 角色扮演, 暗黑幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

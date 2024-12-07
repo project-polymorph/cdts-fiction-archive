@@ -7,7 +7,7 @@ TXT 下载: [[改造]_神奇的自慰棒（一）.docx]([改造]_神奇的自慰
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于两名男子高中生艾伦和马特的故事，他们偶然间在马特的妹妹艾米丽的房间内，试穿了她的衣物，进而展开了一系列搞笑而又带有情色暗示的情节。在马特的引导下，艾伦感到了一些不安，但也逐渐被这一奇特的乐趣所吸引。故事中，有对于角色心理的探索，以及他们在穿着女性衣物时带来的尴尬和混乱。随着情节的发展，马特甚至发现了妹妹的一根自慰棒，令整体气氛变得愈加成熟与复杂。艾伦的恐慌与马特的沉迷形成了鲜明对比，尤其在故事的最后，艾米丽意外出现，给他们的乐子增添了更多戏剧性和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_神奇的自慰棒（一）.docx]([改造]_神奇的自慰
 | Size            | 20795 bytes                           |
 | MD5             | fb0e4547764206586ce233b60524d2fb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 变身, 性别认同, 自我探索, 禁忌, 调教, 校园, 青春期, 滑稽, 幽默, 强奸, 乱伦, NTR, 调教, 情侣, 跨性别, 纯爱, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

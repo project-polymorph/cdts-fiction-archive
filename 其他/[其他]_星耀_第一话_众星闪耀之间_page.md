@@ -7,7 +7,7 @@ TXT 下载: [[其他]_星耀_第一话_众星闪耀之间.docx]([其他]_星耀_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一部科幻小说的第一话，标题为《星耀》，作者为Rockx3。故事设定在一个经过毁灭性灾难后的未来世界，时间为公元2426年，地球在经历了公元2012年的“毁灭日”后逐渐恢复。夜空下，地球的表面伤痕累累，然而人类仍在努力重建家园。与此同时，出现了一种特殊的能力者，被称为“星耀者”，他们是毁灭日后新生的婴儿，继承了某种来自陨石的特殊力量。小说探索星耀者的能力与代价，社会对此的反应，以及学校教育与星耀学的引入。文本中写道：“想拥有什么，必须付出与之相对应的代价。” 故事结合了自我认知的冲突与未来科技的幻想，为读者提供了一个关于生存与认同的思考空间。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_星耀_第一话_众星闪耀之间.docx]([其他]_星耀_
 | Size            | 25339 bytes                           |
 | MD5             | b19118f8dc3e9885277a7083ac46c8ab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rockx3                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 未来主义, 星际探险, 自我认同, 灾难后重建, 异能力, 校园, 星耀者, 英雄主义, 人类生存, 社会反应, 教育, 心理探索, 力量与代价, 重生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

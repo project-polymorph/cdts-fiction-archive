@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《治愈博爱幸福的龙傲天传》（序）.doc]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为小说《治愈博爱幸福的龙傲天传》的序章，描绘了豪华别墅中的两位主要角色：一位高个子留有银发的年轻人吕学，以及他的中年干爹。故事开头，吕学以一种诙谐的方式接待了他的干爹，展现出二者之间微妙而复杂的关系。本文通过对角色形象的细致描写和对话，以生动幽默的手法揭示了他们之间的互动以及吕学的催眠技巧。随着情节的发展，怀旧的情感与强烈的欲望逐渐交织，文字中时而流露出情色和禁忌的暗示，展示了人物内心的挣扎和对自我认同的探索。整体而言，这部作品结合了性别转变、角色扮演与亲密关系的复杂性，探讨了性别与权力动态以及家庭关系的诸多层面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《治愈博爱幸福的龙傲天传》（序）.doc]([变
 | Size            | 43008 bytes                           |
 | MD5             | 968c0a6b3c3e77a5ca2f30bcde874651                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 亲密关系, 催眠, 性别认同, 家庭关系, 二次元, 坚定自我, 情感迷失, 强烈欲望, 图书馆, 幻想文学, 心理斗争, 青春成长, 禁忌之恋, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

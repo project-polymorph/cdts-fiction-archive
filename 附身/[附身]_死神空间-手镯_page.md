@@ -7,7 +7,7 @@ TXT 下载: [[附身]_死神空间-手镯.doc]([附身]_死神空间-手镯.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《死神空间-手镯》，内容讲述了一名初中生与朋友之间的日常生活与幻想。故事开始于一个深夜，主角在紫色闪电中出现。随着日常场景的展开，主角的生活与虚幻交织在一起，隐约透露出变身与跨性别的主题。文件通过对话与细节描写展现了主角与死党赵二的互动，赵二在一次迟到中被老师惩罚，并通过手机传递的图片引入了更多的想象。文件中提到手机收到来自母亲的消息，暗示母子之间的关系紧密而复杂，同时加入了一些暧昧与性暗示的内容。整体基调平衡了青春生活的幽默与性别主题的探索，反映了青春期的迷茫与自我认同的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_死神空间-手镯.doc]([附身]_死神空间-手镯.doc)
 | Size            | 39936 bytes                           |
 | MD5             | e8b5d3df4422cdcac2aab4b9209de8cd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园生活, 青春, 自我认同, 奇幻, 跨性别, 变身, 友情, 爱情, 青少年, 网络文化, 同性恋, 变嫁, 反转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

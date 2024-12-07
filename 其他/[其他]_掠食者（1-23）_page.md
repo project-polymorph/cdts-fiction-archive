@@ -7,7 +7,7 @@ TXT 下载: [[其他]_掠食者（1-23）.doc]([其他]_掠食者（1-23）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《掠食者》是一部关于末世背景下的伪娘与性别转换的小说，主要围绕男主角刘宇的冒险与自我探索。故事从刘宇的一次梦境开始，他在梦中回忆起末日来临前的平常生活，并意识到他必须依附于实力强大的同班同学叶依依来确保自身安全。刘宇的能力名为“诡术系-掠食”，与他的性别认知和身份认同密切相关，具有伪装与掠夺他人能力的特性。在与叶依依的相遇中，刘宇内心的冷漠与渴望渐渐展现，但他的行为逐渐向黑暗与扭曲发展，使得故事充满了道德冲突与人性考验。随着故事推进，刘宇的能力激发并开启了一个崭新的身份，他逐渐切换到叶依依的身份，展现出新的角色与认同。小说中探讨了性别认同、自我侵占与末世生存的主题，以及异能背景下的人性考量。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_掠食者（1-23）.doc]([其他]_掠食者（1-23）.doc)
 | Size            | 134656 bytes                           |
 | MD5             | 3c20a9367c5077e698f8eb388e265909                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 末世, 强奸, 自我认知, 异能, 伪装, 掠夺, 男主角, 性别转换, 末世生存, 角色扮演, 黑暗, 校园, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

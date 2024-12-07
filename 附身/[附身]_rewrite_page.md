@@ -7,7 +7,7 @@ TXT 下载: [[附身]_rewrite.doc]([附身]_rewrite.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转换与附身实验的短篇小说，涵盖了人与人之间意识和身体互换的设定。故事的主线围绕主人公藤田拓实与其学妹樱井瞳共同参与一项由仓木千羽教授主持的人体实验。这项实验涉及将一个人的意识覆盖到另一个人的身体上，藤田在樱井的身体内醒来，体验着他人生活的同时，也感受到身份认同和自我探索的复杂情感。随着实验的进行，藤田逐渐明白自己的意识与樱井的意识并存，于是对自身的认知、他人与他人的界限产生了疑问。小说中，除了描述实验的科学设定外，也渗透着性别认同、自我意识等主题，充满了心理上的冲突与迷茫。在体验生活的过程中，藤田还回忆起自己的记忆，这种回忆与樱井的记忆产生了碰撞，影响了他的情感与行为。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_rewrite.doc]([附身]_rewrite.doc)
 | Size            | 77312 bytes                           |
 | MD5             | fe68fb28239a138d058c62de3f625094                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 附身, 伪科学, 意识互换, 人体实验, 自我探索, 校园生活, 短篇小说, 心理小说, 情感冲突, 意识认同, 性别认同, 实验室, 科学幻想, 二次元小说, 跨性别主题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

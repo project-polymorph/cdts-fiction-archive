@@ -7,7 +7,7 @@ TXT 下载: [[附身]_元始玉（序）.doc]([附身]_元始玉（序）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容为一部性转修仙类型小说的序章。故事围绕主角秦天的穿越经历展开，他在一个充满仙佛的修仙世界中，经过多次冲突与战斗，身陷正邪斗争的漩涡。最终，为了寻找穿越的答案，他的灵光逃脱并沉睡达数十万年。随着时间的推移，这个小世界逐渐演变，秦天醒来后发现修炼方法已经出现，并且各类生灵开始繁衍。情节中提及秦天利用得到的至宝元始玉重铸身体，设定为一个面目清秀的书生，努力融入这个新环境，并与镇长的女儿建立了良好的关系，却也暗含着即将到来的危险。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_元始玉（序）.doc]([附身]_元始玉（序）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 32768 bytes                           |
 | MD5             | 02630be903f49c66c064a0f8dd871620                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 修仙, 冒险, 穿越, 自我认同, 校园, 爱情, 灵异, 双重身份, 冲突与和解, 师徒关系, 庙会, 异界, 平民与权贵, 身体变化, 故事转折                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

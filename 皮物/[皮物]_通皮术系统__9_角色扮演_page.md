@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_通皮术系统__9_角色扮演.docx]([皮物]_通皮术�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及角色扮演及性别转换主题的小说片段，主要讲述了主角林龙在虚拟世界中捉摸角色间的关系与心理动态。故事中林龙被邀请与他人一起进行角色扮演，与女性角色兮儿探讨了与不熟悉男性在小房间聊天的社会关系和潜在影响。兮儿担忧与明教教主聊天会给他人造成误解，而林龙则意识到了自己与不同角色身份间的心理冲突与互动。此片段揭示了虛拟游戏中的性别呈现与社交动态，反映出现实生活中角色身份对个人自我认同及性别认同的影响。总体上内容涉及性别认同，自我探索及角色代入等主题，复杂的人物关系和情感纠葛展现了多样的性别意识和社会交往的微妙之处。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_通皮术系统__9_角色扮演.docx]([皮物]_通皮术�
 | Size            | 20550 bytes                           |
 | MD5             | d5aeb5738758862203e44b443d81946c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 角色扮演, 性别认同, 虚拟世界, 情感纠葛, 自我探索, 社交关系, 女性视角, 二次元, 性别转换, 角色互动, 舞天姬, 明教教主, 心理动态, 虚拟游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_和妈妈的不完全交换.doc]([交换]_和妈妈的不�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《和妈妈的不完全交换》，讲述了一个年轻男孩小炎和他的母亲因一瓶神秘饮料而发生的性别交换故事。故事的开篇是小炎在准备期末考试，母亲则是个桃花般的美丽女人，她的打扮吸引了小炎的目光。小说的情节充满了对母子关系的复杂探讨，包含了小炎从初生的性意识到对母亲身体的好奇与迷恋，展现了母子二人意外进入的奇幻境地。随着情节的发展，他们的下半身意外地交换了，母亲开始尝试隐藏她的新身体特征，而小炎也面对自我认知的冲突与转变。故事涉猎了性别认同、自我探索等主题，同时也包含了一些限制级内容，表现了青春期的困惑与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_和妈妈的不完全交换.doc]([交换]_和妈妈的不�
 | Size            | 241664 bytes                           |
 | MD5             | c9e7348e8e23e116a5bf9da1a12c613a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 逍遥0                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 家庭伦理, 青少年意识, 自我探索, 奇幻, 亲子关系, 青春期困惑, 变身与认同, 性别认同, 性幻想, 禁忌恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

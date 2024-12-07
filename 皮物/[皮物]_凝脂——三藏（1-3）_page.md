@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_凝脂——三藏（1-3）.docx]([皮物]_凝脂——三
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本档案呈现了一段涉及伪娘和跨性别主题的虚构故事。在故事的开篇，小嫻正在编制花冠以准备祭典，外界出现了一名外人，透露了村庄中细腻而神秘的文化背景。随着故事的发展，外来僧人（玄奘法师）与小嫻的互动逐渐深入，小嫻对他的外表和气质产生了好奇和倾慕，故事中透出年轻女孩对于成熟男性的朦胧情感。在火把节的氛围中，围绕族母、族人间的复杂关系，以及神秘的祭典仪式，都为接下来可能的发展埋下了伏笔。内容涉及性别认同与传统观念间的冲突，也展现了角色的自我探索与情感的细腻描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_凝脂——三藏（1-3）.docx]([皮物]_凝脂——三
 | Size            | 24651 bytes                           |
 | MD5             | dc5aa186d036ee6cc1dd481e692ae7d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别转换, 玄奘法师, 祭典, 村庄文化, 自我探索, 青春, 情感纠葛, 火把节, 神秘仪式, 年龄差, 外人情节, 女性视角, 性别认同, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

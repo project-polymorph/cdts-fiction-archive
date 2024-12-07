@@ -7,7 +7,7 @@ TXT 下载: [[变身]_除妖师_无骨虫之章_完.docx]([变身]_除妖师_无
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《无骨虫之章》的内容是一篇关于角色林风及其朋友牧棉之间对话的小说片段，涵盖了妖物、灵力、修炼等元素。林风作为一名除妖师，内心对自身能力和命运的迷茫与挣扎，在与牧棉的互动中透露出他对人类存在意义的思考。文中涉及到两位角色——林风具有强大的灵力，而牧棉则表现得懒散，却又具有独特的洞察力。故事情节展开时，林风察觉到了妖气的存在，最终进入了一家旅馆并触发了一段复杂的情感和悬疑。在旅馆内，他发现了一位女学生与一位男生的奇异情感交织，两人因渴望而渴求更深的融合。在女学生的身体中，男生的意识被包裹其中，形象生动地表现了他们爱的极端和欲望的交织。这篇小说涉及到的主题有性别认同、自我探索、欲望、妖物、灵力等，尤其是在言辞中强调了角色内心矛盾与情感的细腻表达。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_除妖师_无骨虫之章_完.docx]([变身]_除妖师_无
 | Size            | 22827 bytes                           |
 | MD5             | 073517e56ba1e9d4285674568219f499                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 妖物, 灵力, 欲望, 自我认同, 二次元, 爱情, 伪娘, 男娘, 强烈情感, 超自然, 校园, 奇幻, 心理咨询, 复杂关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

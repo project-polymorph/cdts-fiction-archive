@@ -7,7 +7,7 @@ TXT 下载: [[交换]_青梅和姐姐_中.doc]([交换]_青梅和姐姐_中.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件记录了一段奇幻的性转故事，主要围绕角色阿鸿与他的朋友静儿之间的互动和交流。故事中，阿鸿通过获得一种神秘的能力，可以与他人互换身体，这一情节引出了许多关于性别和身份的探索。在故事中，阿鸿与静儿分享了他的经历，包括他们在一起的情感交流，如静儿对阿鸿能力的好奇与探问，以及他们在灵魂和身体变化过程中的复杂感受。尤其是，当阿鸿体验到静儿的身体时，面临的性别认同和情感冲突被深刻描绘。文中可见两名角色之间的亲密互动与情感波动，引发了对自我认知与性的深刻反思。此文含有成人内容，涉及性暗示和性行为的描写，适合成年读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_青梅和姐姐_中.doc]([交换]_青梅和姐姐_中.doc)
 | Size            | 48640 bytes                           |
 | MD5             | 6430d1457db8c3663b4d0777ad2a9181                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 身体交换, 自我探索, 情感纠葛, 友谊, 性别认同, 跨性别, 青春校园, 二次元, 奇幻, 性暗示, 身体经验, 成长, 互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

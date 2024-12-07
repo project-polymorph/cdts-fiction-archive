@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（11）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇原创的跨性别主题小说，名为《赵氏孤儿后传（11）》，讲述了一位男主角在经历性别转换后的复杂心理和社会经历。故事围绕主角赵武展开，他在红蚌和雪枝的帮助下，接受培训并准备为自己的出阁仪式做准备。出阁当天，主角被迫裸体面对母亲的挑战，同时伴随着众多妓女的旅游和观赏。这篇小说细腻地描绘了主角在面对自我认同、外界目光以及性别角色冲突时的内心斗争。整段内容展示了传统婚礼与妓女文化交织的复杂性，也呈现了男女角色在特定文化背景下的期待和压力。文中详细描写了出阁仪式中的种种细节，包括主角穿着红纱，面具遮面以保持神秘，以及公众对他的关注与期待。情节之中还涉及了对性别变化和个人身份的反思，展现了强烈的情感冲击和心理挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（11）.docx]([�
 | Size            | 21984 bytes                           |
 | MD5             | 64c6cd3b4fff68d41b65ce3730229e9a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 心理斗争, 女装, 社会压力, 出阁仪式, 妓女文化, 身份认同, 性别角色, 男性主角, 情感冲突, 幻想小说, 古代背景, 自我探索, 生理与心理差异, 传统礼仪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

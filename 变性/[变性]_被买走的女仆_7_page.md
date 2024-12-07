@@ -7,7 +7,7 @@ TXT 下载: [[变性]_被买走的女仆_7.doc]([变性]_被买走的女仆_7.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件是一部关于性别认同和性转主题的小说，描绘了男主角丽莎谋求成为女仆的过程。小说开头，丽莎穿着女仆制服，面临着对新生活的紧张和不安。随着故事的展开，作者以第一人称的视角刻画了丽莎在与主人B先生相处中的复杂心理。B先生最初通过一种具有支配性的方式与丽莎交流，逐渐揭示了丽莎内心对于成为B先生的婚配与女仆的渴望与恐惧。两人之间的互动饱含了主仆关系的微妙与性别角色的探讨，同时穿插了性别认同的冲突与转变。在这场关于自我认知的探索中，丽莎多次怀疑自己的身份，体现了性别流动性和角色契约的复杂性。文本中含有一定的成人内容，涉及性行为和情色语言，但核心仍在于探索角色的内心世界与身份认同的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_被买走的女仆_7.doc]([变性]_被买走的女仆_7.do
 | Size            | 48128 bytes                           |
 | MD5             | e596b81453be18230a0f9721c1a83c09                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lisa Lovelace                               |
+| Region          | 未知                               |
+| Date            | 2019-07-13                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 自我探索, 女仆, 性转, 情感纽带, 权力关系, 成长故事, 性别角色, 二次元, 成人内容, 情欲幻想, 情感纠葛, 文学创作                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

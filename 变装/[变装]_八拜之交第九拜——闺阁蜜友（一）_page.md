@@ -7,7 +7,7 @@ TXT 下载: [[变装]_八拜之交第九拜——闺阁蜜友（一）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘/变装小说《八拜之交第九拜——闺阁蜜友（一）》的部分内容。故事设定在钦州某首富的府邸，描述了两位男性角色（苏庭宇与裴逸凡）在家族变故后，以女性身份雌伏在豪门内的生活与心理冲突。两位主角在后花园内的凉亭中进行着亲密的对话，讨论彼此的身份转变与对未来的承诺，尤其是对彼此情感的依恋与相互扶持。片段中，不时流露出对当上‘娘子’身份的无奈与甘心，使得整个故事笼罩在跨性别与情感纠葛的氛围里。作品展现了角色们在经历性别与身份的转换后所产生的心理冲突与情感依赖，蕴含丰富的情感细腻性与角色发展，涉及性转、变装、跨性别等主题。两位角色虽处境艰难，依然秉持着相互扶持、不离不弃的誓言，传递出深厚的友情与爱情。值得一提的是，文中还暗示了家族之间的权力游戏与角色的复杂关系，有着较强的戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_八拜之交第九拜——闺阁蜜友（一）.docx]([�
 | Size            | 18468 bytes                           |
 | MD5             | 6985cd1e577211539dab38d8eab14e24                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 情感, 权力游戏, 闺阁, 性别认同, 自我探索, 古代背景, 女性视角, 芷卉, 芷蕊, 家庭关系, 阴暗元素, 戏剧性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[附身]_憑依術講座,其四「精神修行」.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为隶属于多元性别主题的中文数字档案馆收录的一篇关于‘凭依术’的小说文本，具体为小说的第四章。这是一部以性别转换和附身为主题的长篇小说，讲述了主人公关原十郎在学习和尝试凭依术过程中的心理与感官体验。故事开篇描述了少年对于特摄与动画情节的热爱，特别是关于幽灵或外星人附身于女体的幻想。随着故事的发展，十郎成功地体验到了凭依术，这让他感受到前所未有的快感，不禁狂喜不已。这里强调了凭依术的危险性与初学者的挑战，包括意识的融合和精神负担的问题。章节进一步讲述了十郎因为没有办法顺利施展凭依术而烦恼的过程，尤其是当他面对自己姐姐的关心时，内心的冲突与身份认同的探索愈发明确。整体上，这篇文章在性别认同、自我探索与心理承受力方面展现了丰富的内容。
+
+该文件原文作者为トゥルー，文中包含了对于初学者如何练习凭依术的指导，但同时也强调了其潜在的风险，是一部探讨性别与精神层面复制的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_憑依術講座,其四「精神修行」.docx]([附身]_�
 | Size            | 42087 bytes                           |
 | MD5             | 124bc7dcf2d41f2f016108f016e3bc33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | トゥルー                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 附身, 心理探索, 自我认知, 虚构小说, 青春成长, 超自然, 家庭关系, 男性角色, 幻想题材, 性别角色冲突, 精神修行, 危险能力, 青春期困惑, 二次元文化, 变化与成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

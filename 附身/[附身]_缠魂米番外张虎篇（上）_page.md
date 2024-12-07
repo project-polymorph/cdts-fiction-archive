@@ -7,7 +7,7 @@ TXT 下载: [[附身]_缠魂米番外张虎篇（上）.doc]([附身]_缠魂米�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《缠魂米番外张虎篇（上）》的小说内容，讲述了主要角色张虎在缠魂镇的经历与人际关系的复杂交织。故事发生在月色幽幽的夜晚，张虎因无法入睡而回忆起与朋友们之间的暗黑往事，尤其是关于一位名叫胡聪的朋友被谋害的故事。张虎出于恐惧，决定保持沉默，只想做一个安分守己的人。故事中的人物关系复杂，张虎对邻居家的妻子田圆产生了一种迷恋，并且在与朋友的互动中展现出他的内向和胆怯。随着情节的发展，张虎也发现了身边的温柔与自己之间的暧昧关系，令他感到困惑与震惊。文中涉及到对性别、身份认同、自我探索的探讨，以及一些可能的恐怖与悬疑元素，情节通过张虎的视角向读者展现了一个色彩斑斓却又充满矛盾的青春故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_缠魂米番外张虎篇（上）.doc]([附身]_缠魂米�
 | Size            | 40448 bytes                           |
 | MD5             | d1e6300673d23a4e0f5301d9c249e8b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 校园, 悬疑, 恐怖, 爱情, 自我探索, 人际关系, 情感冲突, 禁忌恋, 暗黑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

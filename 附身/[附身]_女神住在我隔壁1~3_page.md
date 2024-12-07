@@ -7,7 +7,7 @@ TXT 下载: [[附身]_女神住在我隔壁1~3.docx]([附身]_女神住在我隔
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《女神住在我隔壁1~3》详述了一个名叫李强的大学生的生活。他对穿着丝袜的女学生有着特殊的迷恋，每天在食堂里盯着穿丝袜的妹子。他的大学生活因无法找到女朋友而感到孤独，选择租住在校园附近的单身宿舍以逃避与舍友同住的尴尬。李强的日常生活充满了他对单身邻居的窥探，尤其是她穿着丝袜和高跟鞋的样子，这令他无法自拔。在这个过程中，他展现了异装癖的一面，借着邻居的衣物来满足自己的欲望。随着故事的发展，李强的欲望与道德意识之间的矛盾逐渐浮现，并引发了一系列关于性、偷窥和个人心理的思考。此外，文件还提到李强的朋友周彦祖，也是一位有着相似嗜好的“屌丝”，两人开展了一系列的行为探险，增添了故事的趣味性和矛盾性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_女神住在我隔壁1~3.docx]([附身]_女神住在我隔
 | Size            | 23650 bytes                           |
 | MD5             | 0e9a50fb092fa72f9c49c5cc1a39b677                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 异装癖, 偷窥, 大学生活, 丝袜癖好, 男生恋物, 恋物癖, 都市小说, 心理探险, 宿舍生活, 性别认同, 强奸, 淫荡, 调教, NTR, 乱伦, 多人, 逆后宫, 药娘, 身体交换, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

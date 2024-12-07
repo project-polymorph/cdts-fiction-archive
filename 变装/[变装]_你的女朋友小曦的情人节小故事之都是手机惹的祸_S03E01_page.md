@@ -7,7 +7,7 @@ TXT 下载: [[变装]_你的女朋友小曦的情人节小故事之都是手机�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件是一个名为《你的女朋友小曦的情人节小故事之都是手机惹的祸》的跨性别文学小说，主要讲述了主人公钟梓曦在个人生活中的转变与复杂的家庭关系。故事开头提到，作者因手机更换而遗失了之前的内容，表露出内心的惋惜。在文中，梓曦身为一位名义上的母亲和妻子，经历着与自己性别认同的冲突。在疫情期间，描述了她在家中与保姆的互动，以及对家庭角色的扮演和对自我身份的探索。故事涉及性别表达的变化，例如穿着高跟鞋、丝袜等女性化服饰，凸显出传统与现代的冲突。文中不仅涉及了她与丈夫林栋的关系，还提到了与夫家的互动，尤其是与公公的复杂关系，透露出性与权利的迷惑与诱惑。故事展现了多层面的家庭动态和个人心理，通过幽默与讽刺的元素让整个情节富有戏剧性，同时也令人深思关于性别与身份的议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_你的女朋友小曦的情人节小故事之都是手机�
 | Size            | 44544 bytes                           |
 | MD5             | 236aa299e4fb9ed679794713abbcd8a5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 角色扮演, 家庭关系, 内心冲突, 情感关系, 伪娘, 女体化, 情人节故事, 现代家庭, 自我探索, 传统与现代冲突, 恋爱与性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

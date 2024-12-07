@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_关于我在路人女主的故事里入替女主ntr主角�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文本文件为一段以性别转换为主题的小说片段，讲述了角色英梨梨在女生更衣室的经历。此时，英梨梨的内心实为一个男性，但她以女性的形象和身份出现，充满纸醉金迷的感受。故事描绘了英梨梨与两位女生的亲密互动，她们在更衣室中嬉戏、换衣服，伴随过程中英梨梨情不自禁地展现了女性身体的吸引力与撩拨，甚至不时通过肢体接触调戏身边的女生。文本中通过细腻的描写展现了关于身份认同和性别构造的矛盾与冲突。情节发展中穿插着诸多同性之爱与性暗示，常常引发角色们的羞涩与紧张，展现出青春期的探索和关系的复杂性。整份文本语言流畅、自信且充满幻想，为读者提供了一个涉及性别流动和情感互动的独特视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_关于我在路人女主的故事里入替女主ntr主角�
 | Size            | 58368 bytes                           |
 | MD5             | 2c09953fe2c04833366d08d5aeb3b68e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 情感探索, 自我认同, 青春恋爱, 变身, 女同性恋, 性暗示, 调戏, 校园生活, 女性视角, NTR, 强奸, 调教, 女孩之间的亲密关系, 年龄差, 百合, 女体化, TSF                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

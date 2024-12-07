@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第十一回.doc](《金枝奇缘》第十一回.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文为《金枝奇缘》第十一回，内容围绕着顾萍和秦疏影在血狱山幽暗地穴中的互动。故事情节透露了生理方面的变身与占有欲，展现出一种复杂的心理斗争与性别变换的主题。顾萍将自己和秦疏影的金针拔去，意图替换秦疏影的肉体。随着故事的发展，獠牙与血尸先后对秦疏影的身体进行侵犯，展现了性别及身份的剧烈转变，带有强烈的性暗示，以及对身体控制与占据的恐惧感。文本中包含大量带有色情性质的描写，描述了顾萍与秦疏影之间的肉体互动，字里行间流露出无法摆脱的身体与心理的交融。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第十一回.doc](《金枝奇缘》第十一回.
 | Size            | 37888 bytes                           |
 | MD5             | 34cdfb70cadbc8a6eb015bf88b2d7f15                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 变装, 血腥, 魔法, 诅咒, 操控, 虐待, 快感, 绝顶, 幻想, 身体占有, 魔骨, 自我认知, 性别认同, 淫荡, 欲望, 血战, 男性视角, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

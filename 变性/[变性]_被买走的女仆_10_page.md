@@ -7,7 +7,7 @@ TXT 下载: [[变性]_被买走的女仆_10.doc]([变性]_被买走的女仆_10.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名名为丽莎的角色在变性与服装控制方面的详细叙述。故事中，丽莎被描述为一个顺从的角色，穿着女仆装，并且女主人B先生对其性别认同的操控。开篇提到丽莎与B先生的对话，以及她对新衣服的期待。在故事中，丽莎开始探索自我身份，经历了性别转换的过程。在B先生出门之前，丽莎以‘小猫咪’的形象表现出对主人的服从，而在主人离开后，家庭教师对她进行严厉的培训和控制，甚至进行了手术，使她的生理性别与自我认同相符合。文中详细描绘了丽莎的心理挣扎与变化，以及对被动角色的接受与演绎。文件的后半部分涉及更深入的训练与进一步的自我认同探索，反映出角色之间的权力动态及其感情上的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_被买走的女仆_10.doc]([变性]_被买走的女仆_10.
 | Size            | 52736 bytes                           |
 | MD5             | 3dbc910442693450989da8faabf740c5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lisa Lovelace                               |
+| Region          | 未知                               |
+| Date            | 2019-07-13                                 |
+| Tags            | 伪娘, 变性, 女仆, 性别认同, 自我探索, 性别转换, 顺从, 强制性别角色, 家庭教师, 灵性虐待, 心理变化, 跨性别, 私密关系, 药物治疗, 牢笼内的自由, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

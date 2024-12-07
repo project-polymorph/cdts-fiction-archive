@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮之战_1.docx]([皮物]_皮之战_1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘和变身类小说，讲述了女神阿伦特希娅的故事。她是个邪恶的女神，企图毁灭世界，导致了历史上第一次金色战争。虽然勇者们尝试封印她，但由于她不死的特性，战争并未就此结束。最终，勇者们将女神封印为一张皮，并由后代守护者看守。这篇小说描绘了两位守护者米阿鲁和哈森之间的互动，富含情感和戏剧冲突。随着故事的发展，外部势力入侵，情节发展出乎意料，展现了战斗与爱情的交织。文中包含大量对角色内心冲突的描写，更有一些暴露与性暗示的情节，让人感受到角色关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮之战_1.docx]([皮物]_皮之战_1.docx)
 | Size            | 28657 bytes                           |
 | MD5             | 513c910f1f07f6f9792e1bd10af672f3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | K27 (文)、みゆき (插图)                               |
+| Region          | 日本                               |
+| Date            | 2010-08-28                                 |
+| Tags            | 伪娘, 跨性别, 变身, 金色战争, 女神, 勇者, 爱情, 魔法, 战争, 女将军, 性暗示, 营养调教, 情感冲突, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

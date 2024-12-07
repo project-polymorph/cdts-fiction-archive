@@ -7,7 +7,7 @@ TXT 下载: [[交换]_端午之中的高考.docx]([交换]_端午之中的高考
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文围绕一个名为芈权的男性角色展开，描述了他在端午节期间经历的一系列事件。故事开始在一个炎热的早晨，芈权刚从醉酒中醒来，面临高考的焦虑和对电子厂工作的失落感。随着故事的发展，芈权意外地卷入了一场打斗，在小巷内他见证了自己的勇敢，试图救助一位陌生女子，却不幸受伤。在这场冲突后，芈权发现自己身陷更大的阴谋中，不仅要面对外部的威胁，还要经历自我身份的转变。在一段奇幻的转变中，他与一名与自己模样相同的男子互换了身体，使他不得不应对新的身份和困境。此文件内容涉及性别认同与角色转换，探索了芈权的自我认知与成长。这部小说具有明确的性转和变身元素，通过冲突和互动阐明了人物的内心挣扎和对自我的重新认识。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_端午之中的高考.docx]([交换]_端午之中的高考
 | Size            | 48963 bytes                           |
 | MD5             | a45ca01781a2fc80b802c55c4584e872                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身小说, 自我认同, 惊悚, 拖延症, 青春期困惑, 阴谋, 英雄救美, 身体互换, 奇幻, 酒醉后果, 端午节, 打斗, 冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

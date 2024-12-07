@@ -7,7 +7,7 @@ TXT 下载: [[变身]_走运.doc]([变身]_走运.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《走运！》是一部描绘性别转变与自我认同的现代网络小说，讲述了一位办公室职员迈克尔·斋藤被他的顶头上司乔纳森·洛克威尔责骂后，被迫去采购具有东方风格的物品的故事。迈克尔在唐人街找到了一个可爱的招手猫护身符，但这只护身符意外地引发了一场奇妙的变化。小说通过生动的描写展现了乔纳森的性别转换过程，从一位男性经理华丽转变为一名性感女性，而这一过程引发的情感纠葛和职场关系的微妙变化也成为故事的核心。整个过程充满了幽默与紧张，展现了角色对自我认同与身体变化的深刻探讨，反映了当代性别议题的复杂性。故事的主题涉及了性别认同、自我探索、办公室政治等，情节发展引人入胜，富有异想天开的想象力和情感深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_走运.doc]([变身]_走运.doc)
 | Size            | 36352 bytes                           |
 | MD5             | 24347b808464d0cc7ad1a55a5cbd22b2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | theokgatsby                               |
+| Region          | 未知                               |
+| Date            | 2020-08-02                                 |
+| Tags            | 变身, 性别认同, 办公室爱情, 超自然, 幽默, 奇幻, 现代小说, 职场斗争, 自我探索, 日本文化, 伪娘, 情感纠葛, 性别转换, 职场关系, 权力游戏, 奇妙护身符                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

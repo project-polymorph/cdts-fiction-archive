@@ -7,7 +7,7 @@ TXT 下载: [[变身]_勇者弱体化封印_12.docx]([变身]_勇者弱体化封
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《变身_勇者弱体化封印_12》是伪娘和变身主题的小说的一部分，描绘了一位名叫艾伦的角色在魔王子权力游戏下的命运。艾伦作为勇者，回到城堡的卧室时，发现魔王子正翻阅一本书。王子暗示艾伦作为后宫成员的职责是让他愉悦，并利用各种手段来侮辱和控制艾伦。这段描写涉及强烈的权力关系和性别角色的扭转。文中艾伦在身体上的变化与心理上的挣扎中展现出一种强烈的羞耻与无力感。王子表现出对艾伦的完全掌控，艾伦则在身体和情感上都面临被奴役的命运，表现出明显的心理冲突与痛苦。还有提及转变后艾伦的同伴变成傀儡的惨状，进一步深化了绝望与无助感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_勇者弱体化封印_12.docx]([变身]_勇者弱体化封
 | Size            | 32721 bytes                           |
 | MD5             | f250ad4601a988aafa8bdfd972973013                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 权力关系, 羞耻感, 角色转变, 魔法, 情感冲突, 奴役, 自我探索, 二次元, 强势角色, 心理斗争, 冒险, 魔王                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

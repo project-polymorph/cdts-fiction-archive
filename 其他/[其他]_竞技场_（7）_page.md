@@ -7,7 +7,9 @@ TXT 下载: [[其他]_竞技场_（7）.doc]([其他]_竞技场_（7）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为竞技场B区月之祭司莲娜与四位守关者进行战斗的故事。故事围绕莲娜的挑战展开，她的强大能力吸引了众多观众的目光。在决斗的过程中，莲娜利用她的月之魔法施展了一场战斗，面对金光显现的天使敌手。她在战斗中运用了诸多战术，包括瞬间改变场地的黑暗魔法以及召唤森林和动物来对抗敌人。莲娜的胜利不仅是个人实力的体现，也是她在攻略组中力量的象征。
+
+故事的后半部分探讨了莲娜在获胜后的心情与思考，她意识到了自身的地位和影响力，并考虑如何更好地利用这一点。最后，文中描绘了月精灵与莲娜之间复杂的关系，以及莲娜在激烈的斗争中对自己同族的关心与策略。整体上，这篇小说融合了套路丰富的战斗场景和对角色内心的深刻剖析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_竞技场_（7）.doc]([其他]_竞技场_（7）.doc)
 | Size            | 71680 bytes                           |
 | MD5             | 4f8dcc22386bc22ad540abe3228a3a07                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 月之祭司, 竞技场, 魔法战斗, 角色发展, 自我认知, 女战士, 战斗策略, 月精灵, 天使, 魔法抗性, 召唤术, 动物化身, 魔法复仇, 身份认同, 强者对决, 情感冲突, 生存策略                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

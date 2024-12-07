@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我的脑内绝对选项正在全力妨碍我的平静生�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以性别转变为核心情节的小说，讲述了主人公游乐在一天内经历的奇异事件。在故事中，16岁的游乐是一个普通的高中生，过着平静的生活。然而，某天早上，他的生活被一系列奇怪的选择题打破，迫使他在不知情的情况下穿上了蕾丝内裤，并在随后的事件中感受到自己的性别正在发生变化。他的性别转变引发了一系列搞笑而又困扰的情境，例如在学校应对同学和妹妹的反应，面对在厕所时意外的生理变化等。小说通过游乐的内心独白和对话，细腻展现了他对自己性别认同的迷惑与探索，穿插了强烈的自我调侃与幽默的元素，让读者在轻松愉快的氛围中思考性别和自我认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,11 @@ TXT 下载: [[其他]_我的脑内绝对选项正在全力妨碍我的平静生�
 | Size            | 47616 bytes                           |
 | MD5             | bc8baddd3577850af57c7414d87a8f9b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 青春校园, 幽默搞笑, 家庭关系, 奇幻, 自我探索, 青春成长, 兄妹情, 
+性别转换, 高中生, 内心独白, 异性恋, 性别意识, 普通少年, 校园生活, 搞笑情节, 选择题依赖, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

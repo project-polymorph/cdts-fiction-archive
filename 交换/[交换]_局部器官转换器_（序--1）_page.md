@@ -7,7 +7,7 @@ TXT 下载: [[交换]_局部器官转换器_（序--1）.docx]([交换]_局部�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为伪娘 TS 变身与跨性别相关小说的开篇章节，讲述了在诺里斯星际联盟的一艘观测飞船上的故事。故事的开始描述了观测船员准备返航的紧张气氛，随后引入了主角周强，一名普通的高二学生，身材肥胖且性格内向。周强的生活围绕着偷窥他对面的班花穆妍冰以及对岛国爱情动作片的收集展开，表现出对其性幻想的沉迷。文中涉及了局部器官转换器的概念，暗示着将来可能出现的变身情节。整篇文档通过细腻的描述展现了角色内心的冲突与外在的自我认知，融合了科幻与性转题材，营造出独特的氛围和吸引人的情节。值得注意的是，文中包含了一些性暗示及不适内容，适合成年读者阅读，并构建了一个复杂而富有想象的二次元世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_局部器官转换器_（序--1）.docx]([交换]_局部�
 | Size            | 17525 bytes                           |
 | MD5             | 13050cd3a2b5736952d32ba2b40f0f28                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性转, 青春校园, 科幻, 偷窥, 备注变体, 自我认知, 局部器官转换, 性幻想, 高二学生, 爱情, 神秘科技, 内心独白, 家庭关系, 社交障碍, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

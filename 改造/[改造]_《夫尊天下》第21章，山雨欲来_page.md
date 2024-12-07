@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《夫尊天下》第21章，山雨欲来.doc]([改造]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别题材小说《夫尊天下》的第21章，标题为“山雨欲来”。故事围绕男女主角园丁与丁香的关系展开，展示了两人之间的情感纠葛以及对过去事情的回忆。在这一章节中，园丁调侃丁香，并提及了他们的儿子蒙儿即将带回来一位媳妇，期间的对话展现了两人的幽默和亲密感。丁香对儿子的姘头表达了不满，指出其只是一位机会主义者，这种微妙的情绪透露出丁香对家庭的关注与保护心。章节中还提及了关于天魔与镇国公之间的历史纠葛，显示了角色之间复杂的关系网和历史背景。在情节层面，文本表现出角色自我认同与身份转变的主题，尤其是丁香的灵魂由男性化逐渐女性化的过程，以及她对家庭和自身尊严的维护。整体来说，该章节结合了情感、幽默与奇幻的元素，使得故事引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《夫尊天下》第21章，山雨欲来.doc]([改造]_�
 | Size            | 38400 bytes                           |
 | MD5             | 127c0e8a8fdec0d68290419760d08621                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 情感纠葛, 灵魂转变, 奇幻, 伪娘, 女体化, 家族关系, 自我认同, 幽默, 调侃, 情欲, 爱情, 天魔, 社会冲突, 武林大会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [回家路上——挚友相聚（5-6）.doc](回家路上——挚�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一名青年角色的回家经历，描绘了他在性别转换后身处女性身体中的感受与想法。在回到熟悉的家中后，主人公感受到家庭环境的温暖和对过去与姐姐的回忆。他的房间和过去的生活依然充满亲切感，但同时也伴随着对自我身份的认同和适应的过程。故事描写了他在镜子前观察自己身体，以及对身体变化的羞怯与自我探索，触及了自我认同和变身的主题。文本还包括他与母亲的互动、饮食习惯的变化，以及和老朋友重聚的细节，传递出一种对家乡的思念与适应新身份的复杂感受。整体上，故事在探讨性别认同的同时，表现了主人公对新生活的适应与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [回家路上——挚友相聚（5-6）.doc](回家路上——挚�
 | Size            | 48640 bytes                           |
 | MD5             | 6227bff96628f4f37a7c8e59f77bd58c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身小说, 自我探索, 家庭关系, 青春回忆, 跨性别, 女性身体适应, 饮食习惯变化, 友谊, 家乡情怀, 温馨, 复杂情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

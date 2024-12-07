@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第一章.doc]([附身]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《传承之书》第二季的第一章主要讲述了两个角色刘孟权与李学智的故事。文章开始时，刘孟权急匆匆地跑回家，心中充满了不安，因为朋友李学智在电话中提及了不幸的消息。在房间里，刘孟权见到李学智受了伤，手臂上有血流出，伤口呈三角形，这让他感到震惊和心痛。李学智解释说他在寻找一种名为九色鹿石的宝物时遇险，其伤口是被九色蛇咬的。他在与刘孟权的对话中，暴露了他对生命的感悟以及对已故朋友海燕的承诺。尽管受了重伤，但李学智不愿意拖累朋友，不想让刘孟权跟他一起冒险。刘孟权则对李学智的自私感到失望和愤怒，希望能够帮助他的兄弟，但眼看事情局势严峻。章节中也涉及到暗市中的商人交易，刘孟权寻找解毒药的经历，反映了人物关系的紧密与挑战，以及生与死之间的抉择。整篇作品融入了冒险、友情、牺牲等元素，以及对生命意义的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第一章.doc]([附身]_《�
 | Size            | 37888 bytes                           |
 | MD5             | e5fcbba29b0d134717e1a27f24d9f06f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 冒险, 友情, 自我探索, 暗市交易, 生命意义, 自私与牺牲, 九色鹿石, 求生, 兄弟情, 蛇毒, 承诺, 哀悼, 自我救赎, 紧迫感, 解毒药, 心理冲突, 探索未知, 暗黑主题, 二次元, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_玩的差不多了，該回來講講心得了.docx]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是围绕一位意识体的灵魂转移经历展开，描绘了主角在经历附身术后的感受和思考。主角通过附身术不断变化自己的身体，以便体验不同的生活。在文本开头，主角表达了对自己身份的不确定感，并提到了大约半年前开始的这一过程。在随后的叙述中，主角回忆起2014年2月12日台北发生的地震，以及他那时的混乱与恶心反应。随着故事的发展，主角遇到了一个神秘的流浪汉，他与此流浪汉的互动充满了幽默和戏谑，甚至进一步展开了流浪汉变为女性的情节。文本持续探讨性别认同与自我发现的主题，展现了主角在这一过程中经历的生动场景和心理变化。整体语言风格轻松幽默，但夹杂了一些令人深思的哲理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_玩的差不多了，該回來講講心得了.docx]([附�
 | Size            | 37756 bytes                           |
 | MD5             | 941e119c7afce11c53c0a16ac7afa1a4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 附身术, 性别认同, 灵魂转移, 幽默, 自我探索, 伪娘, 变身, 台湾, 地震, 流浪汉, 奇幻, 男性视角, 都市奇幻, 讽刺, 女性形象, 生理性别变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

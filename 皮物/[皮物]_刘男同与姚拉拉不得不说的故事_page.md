@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_刘男同与姚拉拉不得不说的故事.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件讲述了一位名叫刘子琪的男演员与其女星妻子姚雪之间复杂而有趣的爱情故事。文章通过刘子琪的视角描述了他如何在一次演出中因需要反串女性角色而与姚雪建立联系，并在众人的误解中展开了一段特殊的婚姻关系。姚雪身为女同，向刘子琪提出结婚以掩饰她的性取向，而刘子琪对她的爱慕则是他答应的主要原因。故事中充满了幽默与戏剧性，包括刘子琪在女装中的自我认知，以及与姚雪之间调皮而暧昧的互动。小说涉及到化妆、角色扮演、性别认同等主题，同时包含了一些带有局限性的性描述。整体风格轻松幽默，深刻探讨了爱情与性别之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_刘男同与姚拉拉不得不说的故事.docx]([皮物]_
 | Size            | 27958 bytes                           |
 | MD5             | 7fee08ee755faa75238bf0a2e8952f10                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变装, 婚姻关系, 幽默爱情, 伪娘, 女同, 娱乐圈, 角色扮演, 自我探寻, 情感纠葛, 性转, 调侃, 社会压力, 戏剧性冲突, 非传统婚姻, 生活日常, 双性恋, 影视表演, 情感支持                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

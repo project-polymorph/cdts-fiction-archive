@@ -7,7 +7,7 @@ TXT 下载: [[附身]_尘释录_[鹊羽篇]_1-2章.docx]([附身]_尘释录_[鹊
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《尘释录》中的第一和第二章，主要讲述了主角谢朝颜在经历了过劳死后，被引导进入冥界的故事。内容开始描绘了谢朝颜的死亡经过，阐述了在当今社会中人们面对死亡的态度和生活压力。他的死因并不鲜明，只是被记载为过劳死，社会对此的反应显得冷漠。接着，谢朝颜为了理解自己死后的命运，与掌管来世的转轮王展开对话。转轮王解释了他的轮回过程，并建议谢朝颜选择投胎。在这个过程中，谢朝颜不仅要面对死亡带来的恐惧，也开始反思自己的过往，甚至在转轮王的要求下献唱自己的歌曲。随后，谢朝颜将在来世的身份与命运引导员夏冰相遇，她向他解释了一个新的角色——鹊羽的工作，以及他在冥界的诸多职责。故事充满了对生命、死亡和自我认知的思考，同时以幽默和轻松的方式展现了一种新的生存状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_尘释录_[鹊羽篇]_1-2章.docx]([附身]_尘释录_[鹊
 | Size            | 27197 bytes                           |
 | MD5             | d804f55839e38321e627bfc8a8795a24                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 悬疑, 魔幻, 冥界, 自我探索, 死亡重生, 叙述, 转世, 角色发展, 灵魂, 职场, 阴间, 情感, 人际关系, 过劳死, 生活压力, 鹊羽引导员                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

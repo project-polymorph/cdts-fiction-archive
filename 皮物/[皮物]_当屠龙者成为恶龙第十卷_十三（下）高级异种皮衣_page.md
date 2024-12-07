@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_当屠龙者成为恶龙第十卷_十三（下）高级异
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《当屠龙者成为恶龙》第十卷的续篇，主要描绘了黄素素与蛇姬二人在异种巢穴中的战斗历程。故事的开头，二人发现自己陷入了异种的包围，面对强大的中级异种，她们凭借着特殊的能力与战斗技巧，最终战胜对手，但也付出了惨痛的代价。在战斗中，黄素素与蛇姬深入异种巢穴，接触到了巢穴的核心，发现了一只名为“抱脸虫”的异种生物，并推测其可能是高级异种的真身。文件中包含了丰富的战斗场景与生动的角色心理描写，展现了二人在生死攸关时刻的紧张气氛与内心的冲突。整体内容存在较多的奇幻元素与冒险情节，同时涉及生物的扭曲与变异，给人一种诡异又紧张的感觉。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_当屠龙者成为恶龙第十卷_十三（下）高级异
 | Size            | 35237 bytes                           |
 | MD5             | 59239e16d89934713f07a77c6490e010                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异种, 冒险, 战斗, 奇幻, 变身, 暗黑, 自我探索, 异界, 角色扮演, 皮物, TS变身, 生物改造, 恐怖, 女性角色, 紧张剧情, 超能力, 探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

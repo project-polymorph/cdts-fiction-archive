@@ -7,7 +7,7 @@ TXT 下载: [[变身]_被丝袜变成女身8.docx]([变身]_被丝袜变成女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇变身与跨性别相关的小说，讲述了角色宵锦在回家的途中偶遇一位穿着特殊情趣内衣的美丽少女。故事开头，宵锦发现自己蹭饭的计划落空，心情失落地回家。在路上，她注意到了一个看似清纯的少女，依据她的穿着，她意识到这个少女穿着的是店内新推出的情趣内衣。宵锦对这位少女的大胆行为表示惊讶，并试图上前提醒她注意衣物的特殊性，但少女却因害怕而不断躲避，场面一度变得紧张。随着两人的互动，宵锦的心思也逐渐转向了对少女的吸引力，以及对自己穿着不适的感慨。故事的内容涉及到性别角色、社会认同以及自我探索等主题，展现了角色间微妙的关系和情感的碰撞。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_被丝袜变成女身8.docx]([变身]_被丝袜变成女�
 | Size            | 49522 bytes                           |
 | MD5             | 0c8dcad3af138936525dc1619baef5d1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 情趣内衣, 自我认同, 女性视角, 角色互动, 青春校园, 情感纠葛, 性别模糊, 心灵挣扎, 都市爱情, 清纯少女, 大胆行为, 性别认同, 神秘少女, 社交焦虑, 情感探索, 时尚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

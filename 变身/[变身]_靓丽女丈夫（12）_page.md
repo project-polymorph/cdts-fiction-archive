@@ -7,7 +7,7 @@ TXT 下载: [[变身]_靓丽女丈夫（12）.docx]([变身]_靓丽女丈夫（1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《靓丽女丈夫》第12章，主要围绕主角与张处长之间复杂的情感互动展开。故事开头，主角因生理期情绪低落，面对工作的压力，内心感到烦恼和压抑。张处长发来短信关心，试图约主角外出用餐，并在回复中提到主角的生理期，主角因此心生不快。随后张处长来到单位接主角，虽然主角一开始对其意图持有怀疑，但随后张处长带她去了一家私人会所享用精致的菜肴，引发了主角的内心矛盾与情感冲突。整个章节在轻松的饭局气氛中交织着对权力、性别和情感的探讨，使人物形象更为立体化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_靓丽女丈夫（12）.docx]([变身]_靓丽女丈夫（1
 | Size            | 22261 bytes                           |
 | MD5             | e12846410429ba2cdf760c84d0f1475c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 情感纠葛, 生理期, 职场关系, 美食, 私人会所, 性别认同, 复杂人际关系, 自我认知, 生活琐事, 都市小说, 权力游戏, 女性视角, 变身, 伪娘, 恋爱情节, 情妇, 社会聚会, 情感发展, 女性成长, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

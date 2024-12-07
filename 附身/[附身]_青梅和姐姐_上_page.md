@@ -7,7 +7,7 @@ TXT 下载: [[附身]_青梅和姐姐_上.doc]([附身]_青梅和姐姐_上.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一个名叫陈鸿的年轻男生在夏日夜晚的经历。故事开篇描绘了陈鸿的外貌和情绪，描写了他从外面回到出租屋后，面临的一系列奇异事件。陈鸿收到了来自他姐姐的求助信息后，准备前往姐姐的家中。在他的探索中，陈鸿意外发现一个神秘的红色光球，似乎与某种超自然力量有关；此外，陈鸿在自己的手上出现了奇怪的伤口，并且在短时间内奇迹般地愈合。整篇小说充满了悬疑与奇幻的元素，体现了陈鸿的心理斗争与自我探索。文中涉及魔法、附身等元素，同时也探索了兄妹间的感情与互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_青梅和姐姐_上.doc]([附身]_青梅和姐姐_上.doc)
 | Size            | 49152 bytes                           |
 | MD5             | 4704e80cf2d81e5dc5933e352f5374d0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 超自然, 自我探索, 兄妹情, 奇幻, 悬疑, 科幻, 魔法, 青春, 神秘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

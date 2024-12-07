@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(十）.doc]([改造]_[小晰]_BS_APP_(十
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个涉及性别转换和恋爱主题的小说片段。故事围绕着两个角色，男主角和他最喜爱的女孩小晰之间的互动展开。在一个阳光明媚的日子，男主角穿着兔子布偶装，内心感到焦虑，因为他担心小晰的状态不佳。小晰在互动中表现得冷淡，引发男主角的自我怀疑与内疚，两人在园游会的场景中经历了情感的波动。随着情节的发展，男主角的身体发生了变化，他发现自己身体上出现了女性的特征，这种突如其来的改变给他们的关系带来了无形的冲击。小晰意识到男主角的不同，表现出震惊和困惑。最终，为了让小晰快乐，男主角决定用自己的资金来换取小晰喜欢的玩偶，表现出对她的关心与爱意。这个片段不仅展现了性别转换的主题，还涉及了恋爱、亲密和个人身份认同等复杂的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(十）.doc]([改造]_[小晰]_BS_APP_(十
 | Size            | 60416 bytes                           |
 | MD5             | 40c68db927649dea1831cc04892cc084                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | little.she0310                               |
+| Region          | 未知                               |
+| Date            | 2021-12-06                                 |
+| Tags            | TS变身, 跨性别, 二次元恋爱, 性别认同, 校园生活, 园游会, 文本互动, 情感波动, 身体变化, 职场青年, 纯爱, 青春, 自我认知, 心灵探索, 女体化, 恋人, 情侣, 可爱, 温馨                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

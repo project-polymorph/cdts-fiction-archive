@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_想要大鸡吧的小男孩被调教成了小娘炮.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性别转变与跨性别主题的小说，主要讲述了一个名为小明的男孩因生理特征而感到自卑，并渴望拥有一个"大鸡吧"以获得认同与自信。故事情节围绕小明与一位医生之间的互动展开。在小说中，小明秘密寻求医生的帮助，经历了羞耻与兴奋。医生展示了一排假鸡巴供小明选择，并在小明的路上引导他进行身体上的变化。在医生的帮助下，小明开始调整自己的生理特征，并最终转变为一个能够享受"真正的大鸡吧"的女孩子。这一过程中，小明的身体和心理都经历了剧烈变化，逐渐融入到他渴望的角色之中。小说展示了性别认同、自我探索与欲望的交织，反映当代关于性别的复杂心态与主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_想要大鸡吧的小男孩被调教成了小娘炮.doc]([
 | Size            | 41984 bytes                           |
 | MD5             | cb90981c7972c1e1cb6d5110e7f547f0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 跨性别, 伪娘, 变身, 成长, 羞耻, 医生, 调教, 性转, 幻想, 虚拟现实, 二次元文化, 青春期问题, 人际关系, 心理斗争, 身体认同, 性欲望, 青春, 关联家庭, 社会压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

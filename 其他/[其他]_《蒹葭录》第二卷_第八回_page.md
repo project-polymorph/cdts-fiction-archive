@@ -7,7 +7,7 @@ TXT 下载: [[其他]_《蒹葭录》第二卷_第八回.doc]([其他]_《蒹葭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《蒹葭录》第二卷第八回主要描述了江湖仇杀的故事情节，聚焦于名为须弥宗的宗派遭遇灭门事件，以及锦衣卫尉迟佑平与江飞羽两位人物的冒险经历。在此章节中，虽然主角尚未登场，但通过对须弥宗被灭门的前因后果，展示了江湖的复杂人际关系和权力斗争。章节开头提到宋沚陵在藏剑山庄的胜利，却因毒粉暗算而未能完成任务，而尤以埃尔的推动，尉迟佑平急于控制局势，决定前往须弥宗调查事件原因。细节中提到了信仰与忠诚的冲突，以及对外来势力的警惕和抵抗，尤其是罗刹国的刺客潜入西域的情节，揭示了更深层的政治风险和江湖之间的恩怨。整个章节通过引人入胜的描述，展示了一个充满悬疑、冒险与斗争的武侠世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_《蒹葭录》第二卷_第八回.doc]([其他]_《蒹葭
 | Size            | 46592 bytes                           |
 | MD5             | 84306727668d3a706da159dd9b27e249                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 转性, 冒险, 武侠, 锦衣卫, 江湖, 宗派斗争, 跨国刺客, 权力斗争, 自我认知, 性的探索, 悬疑, 黑暗, 心理战, 人性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

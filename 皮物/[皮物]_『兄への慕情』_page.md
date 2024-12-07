@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_『兄への慕情』.docx]([皮物]_『兄への慕情』
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是一本名为《兄への慕情》的伪娘/男娘小说，故事围绕一个妹妹与她的哥哥的同居生活展开。故事叙述了妹妹由于升学考进首都的高校，搬到东京与哥哥同住。在与哥哥的日常互动中，妹妹表现出对哥哥的强烈迷恋和对其气味的渴望。情节中包含了许多关于性别认同和自我探索的元素，尤其是妹妹对哥哥内裤的欲望暗示了她内心深处的挣扎与渴求。文中提到：“我最喜欢哥哥了哟…”表明了她对哥哥的依恋与憧憬。故事在描述他们的生活时，丁丁继续深入发展妹妹内心对哥哥的情感，以及在隐私空间内的强烈欲望，最终导致了一系列私人且带有性暗示的行为。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_『兄への慕情』.docx]([皮物]_『兄への慕情』
 | Size            | 62877 bytes                           |
 | MD5             | 9fc9f42b7451ee17ff909f45ec3f5b15                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 兄妹恋, 性转, 变身小说, 性别认同, 自我探索, 爱情, 禁忌关系, 欲望, 校园生活, 东京, 二次元, 变嫁, 情感纠葛, 性暗示, 亲密关系, 文学作品                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

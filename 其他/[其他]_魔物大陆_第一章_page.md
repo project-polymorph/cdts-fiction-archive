@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魔物大陆_第一章.docx]([其他]_魔物大陆_第一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇设定在魔物大陆的小说第一章，描述了年轻雇佣兵查尔斯的旅途与遭遇。故事开始时，查尔斯在与一位商人的对话中展示了他对讨伐者职业的考虑，并感慨自己作为普通雇佣兵的无奈。随着查尔斯的旅途展开，文本描绘了贝路利安堡的环境与人们的生活。他怀抱着温娜姆核心，回忆起曾经的父母与悲伤的经历，反映出他对过去的复杂情感。在夜晚的森林中，他偶遇一名神秘女孩，并与她共享简单的晚餐，随后意外触发了对她真实身份的揭示，发现她并非简单的女孩，而是魔物，画面突然转向了恐怖与危险之间的转变，其中包含查尔斯的斗争与内心的不安。该章节通过细腻的描写展现了角色的心理变化与对自身身份的探索，涉及到魔法、冒险与自我认同等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魔物大陆_第一章.docx]([其他]_魔物大陆_第一�
 | Size            | 20395 bytes                           |
 | MD5             | 5e48090ee75c233fd9cecd82d90aa32f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔物大陆, 异世界, 冒险, 魔法, 自我探寻, 性别认同, 战斗, 人与魔物, 幻想, 成长, 森林, 情感冲突, 魔物娘, 雇佣兵, 年轻人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

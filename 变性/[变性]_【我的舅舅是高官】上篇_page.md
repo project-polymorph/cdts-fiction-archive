@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【我的舅舅是高官】上篇.doc]([变性]_【我的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《我的舅舅是高官》的上篇，主要围绕高二的胡透和他的同学们展开。在一个暑假的傍晚，胡透与他的朋友们赵静和杜筏一起走出学校，准备开始他们的假期。胡透因先天性疾病需要赵静的照顾，赵静则表示愿意付出一切来服务他。随着故事的发展，杜筏告知胡透，有他喜欢的李巧香在校门口等他，令人期待的情节随之展开。随后的宴会气氛热烈，杜筏和李巧香的订婚引发了胡透的复杂情感，他感到自己的处境尴尬与失落，同时设法保持镇定。文件中包含多个人物之间的对话，以及他们对彼此的看法，体现出青春与成长中的情感交错。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【我的舅舅是高官】上篇.doc]([变性]_【我的�
 | Size            | 57856 bytes                           |
 | MD5             | 3bae654c42f108dfbd4a0420d9064483                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 高考, 青春校园, 订婚, 情感纠葛, 自我认知, 演员与观众, 社会关系, 友情, 爱情, 男女性别变换, 校园生活, 家庭压力, 成长烦恼, 人物发展, 复杂情感, 中学时代, 小说, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

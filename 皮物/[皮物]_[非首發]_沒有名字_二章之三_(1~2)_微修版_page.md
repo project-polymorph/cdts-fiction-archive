@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[非首發]_沒有名字_二章之三_(1~2)_微修版.doc]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于皮物与TS相关情节的小说，内容以两个穿着黑衣的女子为主线，描绘了黑区中的实验与穿着乳胶衣的角色之间复杂的互动，透过细腻的描述展现了角色的性别与身份认同的探索。故事中的角色主要是有着生理性别为男性但以女性形象出现的黑衣女子和穿着红胶衣的女子，以及一个在黑三房内进行剥皮实验的角色，情节中包含暴露、拘束与充电等元素，这些情节充满了科幻与幻想的色彩，涉及到了现代与超现实之间的边界。文中提到的实验设备与角色间的对话也反映出了一种对性别身份与身体控制的深层探讨，情节下来逐渐展现出角色的内心冲突和转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[非首發]_沒有名字_二章之三_(1~2)_微修版.doc]
 | Size            | 37888 bytes                           |
 | MD5             | b5e39d4b47cae9b71a3f64c789f5cd71                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 九月                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 皮物, 变身, TSF, 科幻, 自我认知, 电流, 实验室, 女性形象, 乳胶衣, 角色扮演, 黑衣女子, 性别身份, 角色冲突, 充电实验, 皮肤剥离, 拘束, 互动, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

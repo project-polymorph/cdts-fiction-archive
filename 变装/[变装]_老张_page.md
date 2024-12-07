@@ -7,7 +7,7 @@ TXT 下载: [[变装]_老张.docx]([变装]_老张.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于老张的变装经历的小说，讲述了一个四十八岁的拆迁户老张在工地生活中逐渐迷上变装的心理历程。故事从他五年前第一次接触人妖片开始，描述了他在工作间隙偷偷穿丝袜的心路历程。老张在家中角色扮演以及自我探索中逐渐沉迷于变装，反复在内心挣扎与欲望的冲突。随着生活条件的改善，老张得以更自由地尝试变装，同时也在网络上结识了相关同好的社区。在一次次的心理试探之后，他终于寻求与男性之间的虚拟亲密关系，并在视频通话中展现出越来越强烈的欲望。文件详细描绘了老张穿裙子的心理变化，以及他在女装与现实生活中的交错感受，展现了性别认同的复杂性和个人欲望的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_老张.docx]([变装]_老张.docx)
 | Size            | 39693 bytes                           |
 | MD5             | 2815cd6c026d6268a3d8773eaa03dfa9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 跨性别, 欲望探索, 角色扮演, 社会边缘, 网络交友, 自我认知, 心理挣扎, 性感幻想, 同性恋, 直男吸引, TFS, 色情内容, 视觉冲击                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

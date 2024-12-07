@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_【申码文】灵异手机.doc]([皮物]_【申码文】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于吕天与人皮鬼的奇幻恐怖小说。故事开头，吕天在乡间小路上乘坐大巴车时，突然醒来发觉自己手中握着一部古怪的手机。随着短信的接收，他陷入了一场关于生死的拼搏中，面临着厉鬼的追逐。短信的发送者自称也是吕天，给了他一系列关于如何逃生的提示。吕天最终决定根据短信的建议穿上人皮鬼，以此获得生存的能力，并在经历了艰难的斗争后，他的身体发生了巨大的改变，从男性转变为女性。
+
+在故事的后半部分，吕天成功穿戴上人皮鬼后意识到自己获得了女性身体的新体验，并决定利用这份新能力来改变自己的生活。吕天尝试操控已化皮的身体，实现男性与女性身份的交替和搏斗于虛用心，他的生活也因此形成了奇妙的转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_【申码文】灵异手机.doc]([皮物]_【申码文】�
 | Size            | 63488 bytes                           |
 | MD5             | eca3ceaff14469544c514926e3591fc4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 灵异, 恐怖, 奇幻, 自我探索, TSF, 人皮鬼, 电子产品, 短信, 诡异事件, 女性视角, 身心转变, 超自然, 幻想故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_车，记载我这一生.doc]([变性]_车，记载我这�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于变性与自我认同的小说，讲述了一个主人公与母亲之间的情感羁绊，以及她在成长过程中对自己性别认同的探索。故事从主人公五岁时生父的离去开始，母亲为了抚养她而经历艰辛。随着故事的发展，主人公因为孤独与思念母亲而开始穿上女装，逐渐步入了危险的生活。在她面对金钱与自我价值的交锋时，讲述她从出卖身体到最终选择变性，并找到真爱的旅程。最终，她在结婚礼车上重塑自己的身份，燃起生活的希望，感受到幸福，从而告别了过去的悲伤。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_车，记载我这一生.doc]([变性]_车，记载我这�
 | Size            | 29184 bytes                           |
 | MD5             | 1d18c10ef5d4325134844195f7228071                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 自我认同, 母女情, 情感纠葛, 成长故事, 爱情, 孤独, 性别转换, 职场逆袭, 重生, 婚姻, 人生启示, 强烈的情感, 女装, 性别探索, 自我救赎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

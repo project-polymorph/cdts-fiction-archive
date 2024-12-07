@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[短篇]憑依實錄.doc]([附身]_[短篇]憑依實錄.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《憑依實錄》，内容以第三人称视角详细描绘了一段男女在旅馆房间内的私密互动。故事开头，镜头从天花板上俯视着一对男女，注意到他们在豪华但阴暗的房间中活动。男主角像小孩子一样扑在床上，女主则用小装置检查房间。在互相亲热的过程中，女方逐渐展示出她的性感衣物，男方则表现出强烈的欲望。随着故事的发展，两人之间的亲密行为逐步升级，包括亲吻、爱抚和性交，展现了紧张而激情的氛围。特别是在女主逐渐接受和享受这种过程的描写中，故事探索了性别认同与自我探索的主题。最后，故事以女主似乎接受了新的身份和身体感知为结尾，可见对变身和性别觉悟的主题探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[短篇]憑依實錄.doc]([附身]_[短篇]憑依實錄.do
 | Size            | 52736 bytes                           |
 | MD5             | 092ff0723bab53b5b0d11172b59f722c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 爱情, 成人内容, 自我探索, 性别认同, 旅馆, 激情, 亲密关系, 少女, 角色扮演, 心理变迁, 性剖析, 性别流动, 穿越, 二次元, 幻想, 强烈欲望, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[其他]_温馨情侣.docx]([其他]_温馨情侣.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《温馨情侣》内容描绘了一对情侣在餐厅的亲密互动。故事围绕健文和悦茵这对情侣展开，起初两人对于饮食选择发生争执，悦茵想要尝试蛋糕，而健文则推崇炸鸡。这段对话展示了他们平常生活中的小争论和彼此的喜好。随后，他们遇到了一位餐厅的工作人员，工作人员向他们推出试业的优惠，吸引他们进入餐厅。
+
+餐厅的环境非常浪漫，背景音乐柔和，营造出了良好的氛围。随着故事的发展，工作人员利用催眠术使两位主角陷入昏睡状态，之后进行了一系列关于身体脱衣的指令。悦茵和健文在毫无意识的情况下，按照催眠者的指令逐渐褪去衣物，展示了角色在催眠状态下的羞涩与无意识行为的矛盾。整个故事内容涉及催眠、脱衣和角色之间的互动，强调了在控制与被控制的情境下，人物对自我身体及性别认同的探索与体验。这种涉及敏感主题的情节包含了强烈的色情暗示，并表现了性别与身体之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_温馨情侣.docx]([其他]_温馨情侣.docx)
 | Size            | 28316 bytes                           |
 | MD5             | 1442a54c9763b255d26fdeb3c13a244b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 温馨情侣, 催眠, 性感, 脱衣, 餐厅约会, 亲密关系, 性别探索, 角色互动, 心理控制, 浪漫情节, 美食, 二次元文化, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

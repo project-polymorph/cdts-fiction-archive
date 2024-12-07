@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【申码】原来天堂的尽头是一望无际的黑暗1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名高中生李文的校园生活的小说开篇，讲述了他在学校里遇到的校园霸凌事件。故事开篇，李文在放学途中被学校的混混陈强和他的伙伴围住威胁索要生活费，尽管李文没有带钱，但他还是遭到了拳打脚踢。在关键时刻，校花林馨出现在现场，虽然她表面上是救了李文，但随后与陈强之间的亵渎行为揭示出她的另一面。故事通过描述李文内心的挣扎与对林馨美丽的迷恋，反映了青春期男生的复杂心理，同时也展现了性别角色的扭转和混淆。随后的情节更是揭示了林馨被附身后的状态以及她与陈强之间的关系变得猥亵与滑稽，故事以林馨与陈强的亲密举动和林馨的自我认知转变作为高潮，包含大量限制级内容，探讨了性别认同、自我探索与性欲之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【申码】原来天堂的尽头是一望无际的黑暗1
 | Size            | 66048 bytes                           |
 | MD5             | f6235c069fde6e232f5b316930e95e41                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 校园霸凌, 校花, 附身, 性别认同, 自我探索, 变身, 伪娘, 都市小说, NTR, 强奸, 乱伦, 淫荡, 药娘, 调教, 逆后宫, 雌堕, 百合, 变嫁, 偷窥, 青春, 爱情, 清纯少女, 心理斗争, 变态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [【万万没想到】双鱼玉佩4.doc](【万万没想到】双鱼
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇关于江萍（彭武）与芊婷（陈研）在沙漠考察期间发生的冒险故事。故事开始于清晨，江萍在迎接朝阳的同时，叫醒了尚在熟睡的芊婷。两人准备好专业沙漠行进服及装备，随后与考察队伍出发。经过数小时的行程，团队在戈壁边缘的小镇做中转，并向沙漠深处进发。随着行程的深入，气温上升，学生们开始抱怨艰苦的环境，这引出了江萍与芊婷之间的对话，展现出轻松幽默的校园气息。然而，事态在一次沙暴中急转直下，队伍遭遇了突发袭击，江萍醒来后发现队伍的成员只剩自己一人，惊慌之中开始寻找其他成员。最终，她意识到队伍中有五人死于沙暴，心中感受到生存的恐惧。这篇故事涉及生存、恐惧、自我探索等主题，让读者更深刻地认识到沙漠的残酷与美丽。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [【万万没想到】双鱼玉佩4.doc](【万万没想到】双鱼
 | Size            | 67072 bytes                           |
 | MD5             | 5662d93ad9ba7a7724036d085e77f54e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 冒险, 生存, 沙漠考察, 团队合作, 恐惧, 校园梦, 反转剧情, 女主角成长, 自我探索, 惊悚, 心理描写, 江萍与芊婷的关系, 求生欲望, 自然灾害, 大自然的威力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_舞会-第四章_上.docx]([皮物]_舞会-第四章_上.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的第四章，内容描绘了角色马克在经历性别转换后，面对自我认同与情感冲突的故事。故事开始时，马克在床上醒来，感受到自己身体上的变化，深刻反映出他对自己身份的困惑与探索。通过与安吉拉的互动，马克内心的挣扎不断浮现，特别是在父亲意外进入房间的情节中，展现了马克对隐私及身份的极度敏感。本章还涉及到马克对比尔的思念与无法触碰的爱情，纠葛的情感在舞会后的日子中更加显得复杂。整篇文档约有两万字，包含大量的心理描写与情感交流。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_舞会-第四章_上.docx]([皮物]_舞会-第四章_上.d
 | Size            | 31937 bytes                           |
 | MD5             | e1aaa20168a2d4c00b8606225caf2d6f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 心理描写, 自我探索, 情感纠葛, 伪娘, 男娘, 变身, 禁忌爱情, 青春校园, 情感冲突, 父子关系, 内心挣扎, 性别认同, 爱情, 成长, 骚动, 社交压力, 青春困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

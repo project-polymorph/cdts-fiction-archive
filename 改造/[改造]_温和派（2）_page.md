@@ -7,7 +7,7 @@ TXT 下载: [[改造]_温和派（2）.doc]([改造]_温和派（2）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于转变和性别身份的小说，讲述了角色张玉在被俘后，成为奴隶经历的一系列性别和身体变化与心理冲突的故事。故事以张玉沦为奴隶开始，他被迫服用药物，身体逐渐出现女性特征，并在奴隶主与教官的强制和羞辱中感受到自我身份的崩溃。张玉在遭受鞭打和羞辱后，逐渐对自己的性别认同产生困惑。他的身体变化以及心理对自我认同的挣扎，使故事充满了复杂而深刻的情感。随着情节的发展，张玉接受了自己作为“女奴”的身份，经历了被迫转变为女性的过程，并在面对禁忌和屈辱中体验到了一种新的自我认同。该文本丰富地探讨了性别认同、奴役与自由、羞耻与欲望等主题，带有明显的戏剧性和情感冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_温和派（2）.doc]([改造]_温和派（2）.doc)
 | Size            | 57344 bytes                           |
 | MD5             | 5a47f5286574f54032de425755b0c1b6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 奴隶制, 自我认同, 性别转变, 羞辱, 快感, 药物影响, 心理斗争, 女性视角, 强制变装, 情感冲突, 二次元, 男娘, 性别认同, 宗教与社会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

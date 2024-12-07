@@ -7,7 +7,7 @@ TXT 下载: [[变身]_良晴與芳雄系列之二_她的身體裡有我的東西
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于角色在特定情境下通过隐形眼镜进行身体交换的讨论。故事的主人公良晴与芳雄展开了一段关于隐形眼镜升级版的对话，其中隐形眼镜的功能被设定为能够将双方的身体部分进行强制交换。这种设定不仅涉及到身体形态的改变，还是对自我认知的探讨。文中提出了角色之间在进行身体交换后，感官感受也会有奇特的变化，例如，即使身体发生了变化，感受却仍然留在原来的身体。这让角色们思考身体感知的复杂性，以及体验他人身体的微妙和挑战。细节部分涉及角色的内心世界、幽默的对话和奇幻的科学设定，营造出一种既轻松又发人深省的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_良晴與芳雄系列之二_她的身體裡有我的東西
 | Size            | 22715 bytes                           |
 | MD5             | 82a24f0953544dec301e209fc211b9fb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别交换, 隐形眼镜, 心理探讨, 自我认知, 奇幻, 幽默, 科幻, 女性身体, 男性角色, 身体感知, 角色交换, 身体交换, 冒险, 幻想, 变装, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

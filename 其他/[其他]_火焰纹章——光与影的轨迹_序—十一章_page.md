@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_序—十一章.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本记录了一部名为《火焰纹章——光与影的轨迹》的小说，融合了游戏《火焰纹章：晓之女神》和《魔兽世界》的元素。作品的前言提到，作者花了五年时间来构思这个故事，并向读者解释了角色与国家背景的设定。故事设定在一个名为特里乌斯的大陆，这里生活着两大主要种族：普通人类‘贝奥克’和半人半兽的‘拉格兹’。两种族之间存在着复杂的历史与矛盾。贝奥克拥有以女性皇帝统治的宗教性帝国贝格尼奥，与其余两个国家——迪因和克里米亚各自有着不同的特点和对贝格尼奥的态度。在拉格兹的背景中，描述了包含卡利亚、格鲁德亚等国家的存在，这些国家各自建立了独特的文化与社会结构。小说的第一章仪式以女将军希蕾妮为主角，讲述了她与魔法顾问卡茹拉一同前往永冬之地寻找古神遗物的冒险故事，带领读者逐步揭开神秘的上古遗迹.
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_序—十一章.docx]
 | Size            | 73284 bytes                           |
 | MD5             | c89aacf74024235ba52cd7ce46211b6d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 火焰纹章, 光与影的轨迹, 伪娘, 变身, 古神, 精灵, 魔法, 剑与魔法, 奇幻冒险, 女权主义, 两性关系, 异族合作, 种族冲突, 女皇, 魔法师                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

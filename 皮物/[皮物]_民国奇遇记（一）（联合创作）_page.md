@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_民国奇遇记（一）（联合创作）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《民国奇遇记（一）》是一部以奇幻穿越为主题的小说，讲述了两个好友连无期和陆川因一把神秘的古董折刀意外穿越到一个黑暗的树林中。在陌生的环境中，他们面临恶劣的生存条件与未知的危险。故事以他们在黑暗中相互寻找和鼓励开始，描绘了他们逐步认识到自己处于另一个时代的过程。在穿越后，陆川对当前局势的理性分析使得二人尝试运用有限的资源与知识寻找出路，但在与一名乡土少女意外相遇后，事态急转直下，少女误以为他们为贼，初步的交互带来了紧张和误解。最终，陆川因不可预料的情况展开了对持刀自卫的决策，情节发展布局悬疑且紧凑，引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_民国奇遇记（一）（联合创作）.doc]([皮物]_�
 | Size            | 65024 bytes                           |
 | MD5             | a7af4ca0b8f8f78b6b1da121eed448c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 民国, 穿越, 奇幻, 友情, 自我探索, 反转, 未知世界, 冒险, 奇遇, 乡村俏女, 情感冲突, 心理变化, 恐惧, 紧张局势, 古董, 刀具, 女性角色, 男孩, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

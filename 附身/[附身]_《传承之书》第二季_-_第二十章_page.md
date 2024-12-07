@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第二十章.docx]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节来自于变身与跨性别相关小说《传承之书》的第二季第20章，由作者紫依创作。这一章节主要围绕角色高康毅与沈玥琦之间的互动，展现了一场激烈而复杂的情感与欲望冲突。故事开场，高康毅被限制行动，失去视力，面临着未知的威胁。在无法动弹的情况下，沈玥琦进入房间，展示出其操控局势的强势形象。随着情节的推进，沈玥琦向高康毅注射了一种名为“春之致”的催情药物，为后续的情感冲突埋下伏笔。此后，故事急剧转向生殖与性欲的描写，描绘了两者之间愈发亲密的身体接触与心理变化。情节中包含大量露骨的性描写，明确展现了角色在身体与心理上的转变与不适。整体而言，这一章节通过复杂的情感层次与生动的角色关系，探讨了性别认同与欲望之间的纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第二十章.docx]([附身]_
 | Size            | 19727 bytes                           |
 | MD5             | aefe26a78fe47d1503c2f6b14c0860ad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 春药, 情欲, 强制, 药物影响, 心理冲突, 欲望探索, 身体限制, 二次元, 伪娘, 男娘, 激烈情感, 青春, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

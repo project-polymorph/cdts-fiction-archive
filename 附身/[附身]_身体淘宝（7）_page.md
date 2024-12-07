@@ -7,7 +7,7 @@ TXT 下载: [[附身]_身体淘宝（7）.doc]([附身]_身体淘宝（7）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部涉及伪娘和变身主题的小说，描绘了主角何年利用其新身体进行了一段极具挑逗与欲望交织的性爱经历。故事开头，何年在经历了长时间的刺激后，从一名壮汉的身体中爬起，感受到不同于以往的快感与身体变化。文中详细描写了何年在新身体中体验性高潮与对壮汉的挑逗，伴随有激烈的身体交互和感官刺激，尤其对女性身体的敏感度与快感进行了深刻的刻画。作品在性转、变身、和跨性别探索方面具有一定的深度，同时涉及欲望的冲突与角色的自我认知过程，反映出被定义的性别与身份认同之间的复杂关系。虽然内容含有一些限制级的场景，但其架构在于探索性别角色的流动性与非传统的性关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_身体淘宝（7）.doc]([附身]_身体淘宝（7）.doc)
 | Size            | 51712 bytes                           |
 | MD5             | 594a9e9638f17dabc679a24c34a50e69                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 变身, 欲望探索, 自我认知, 性别角色, 青春期, 实验性, 身体变化, 另类恋爱, 角色扮演, 内心冲突, 性幻想, 情感纠葛, 时空穿梭, 伦理问题, 人造生命, 爱丽丝, 追求自由                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

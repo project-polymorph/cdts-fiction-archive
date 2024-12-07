@@ -7,7 +7,7 @@ TXT 下载: [[变性]_[翻譯]凯恩的女孩.docx]([变性]_[翻譯]凯恩的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《凯恩的女孩》是一部涉及变性与跨性别主题的小说，描绘了角色之间复杂的人际关系和潜在的权力动态。故事从比莉的表演开始，她在台上以猫一样的舞步翩翩起舞，逐步脱去衣物以吸引观众的目光。比莉的表现不仅仅是表演，更是对她金主凯恩的挑逗，显示出一种支配与被支配的关系。随后故事转向凯恩，他从少年拘留所出狱后，带走了自己的“母狗”，展开了对猎物的调教。这种权力和欲望的交换，通过凯恩对比尔的操控引发了一系列扣人心弦的冲突。比尔，本是一名毒贩，在与凯恩的交易中，遭遇了不可逆转的命运。整个故事情节充满了暴力、压迫和性别转换的主题，呈现了复杂的人物心理与行为冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_[翻譯]凯恩的女孩.docx]([变性]_[翻譯]凯恩的�
 | Size            | 40371 bytes                           |
 | MD5             | 461633a74e7cf8c2e53b09d79350cf65                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性奴, 权力动态, 跨性别小说, 调教, 暴力, 性别认同, 自我探索, 欲望, 挫败感, 牢狱生活, 社会丑恶面, 禁忌关系, 情感操控, 强奸幻想, 角色心理, 二次元, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_人生一场梦（四）.docx]([变装]_人生一场梦（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一篇描绘了伪娘角色经历的小说章节，内容主要围绕角色在一段令人不快的经历后所感受到的屈辱与无力。故事中，主人公被称为“我”，以第一人称视角呈现，感受到了生理上的疼痛和心理上的绝望。开头描述了主人公被王局侵犯的情形，随之而来的是一系列的虐待与强迫，这些场景描绘了主人公与侵害者之间复杂而扭曲的权力关系。文本中利用生动的语言刻画了角色内心的挣扎与痛苦，同时也反映出了角色在心理与生理上的双重创伤。作者通过细腻的描写展现了角色对自身身份与情感的思考，此段故事部分包含了性方面内容，涉及强迫与屈辱的主题，对角色的自我认同产生了深刻的影响。角色在经历这些事件后，心中默念着对自己的爱人顾峰的思念，为了应对当下的困境而强迫自己忍受痛苦，显示了内心的悲哀与壮烈。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_人生一场梦（四）.docx]([变装]_人生一场梦（
 | Size            | 46660 bytes                           |
 | MD5             | d0ad4233a117a2c5136f10b1134a4c69                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 强制, 性虐待, 心理挣扎, 自我认同, 第一人称视角, 肉体与精神的双重创伤, 性别困境, 痛苦与屈辱, 幻想与现实, 情感追寻, 年龄差, 强奸, 不幸经历, 人格分裂, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

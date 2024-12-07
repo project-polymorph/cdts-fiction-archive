@@ -7,7 +7,7 @@ TXT 下载: [[变装]_伪装大师2.docx]([变装]_伪装大师2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《伪装大师2》讲述的是一位女性角色“孙静妍”的秘密生活与惊险故事。故事的开头描绘了孙静妍精心打扮后的出门情景，选择了淑女打扮准备与闺蜜逛街。然而，情节逐渐展开，揭示了她的真实身份。实际上，她与几个男人策划了一桩犯罪工作，用自己的女性外形掩盖真实身份，进行非法活动。在这个过程中，警方开始追查孙静妍，误认为她被卷入了一起更大的犯罪案件。文中描绘了角色的双重生活与内心的挣扎，揭示了性别和身份的复杂性。随着故事的发展，妻子的丈夫与警方的角力也越来越复杂，充满悬念和反转，探讨了性别认同、犯罪与救赎等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_伪装大师2.docx]([变装]_伪装大师2.docx)
 | Size            | 22677 bytes                           |
 | MD5             | 9629a830e8623af8851f308c536db755                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪装, 变装, 警察故事, 性别转换, 悬疑, 犯罪, 角色扮演, 自我认知, 二次元, 变身, 性别认同, 惊悚, 都市, 女性主义, 心理描写, 身份危机, 虚拟现实, 剧情反转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

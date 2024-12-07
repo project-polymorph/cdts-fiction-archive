@@ -7,7 +7,7 @@ TXT 下载: [[附身]_分魂短篇之課後補習篇.docx]([附身]_分魂短篇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是来自于TSF画像揭示板的翻译作品，题为《分魂短篇之课后补习篇》。故事围绕一位女教师和她的一名学生之间的禁忌恋情展开，充满了明显的性暗示和色情元素。开头，女教师以一种极具挑逗性的姿态出现在学生的智能手机镜头前，穿着私处开孔的粉红色紧身短裤，展现出她的性感。一系列的对话与行为揭示了角色之间的亲密关系，女教师向学生示爱，并暗示她对学生有着强烈的性吸引力。故事内容涉及女教师故意展示自己的身体，甚至与学生进行亲密接触，以及对彼此情感的探索。整体充满了强烈的性暗示及挑战社会禁忌。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_分魂短篇之課後補習篇.docx]([附身]_分魂短篇
 | Size            | 22774 bytes                           |
 | MD5             | b128ebdb3b6f49710e48b8606d76da40                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 师生恋, 成人内容, 禁忌 romance, 教师, 学生, 两性关系, 自我探索, 性别认同, 情感纠葛, 西方色情小说, 超自然, 奇幻, 现代都市, 身体冒险, 情感操控                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

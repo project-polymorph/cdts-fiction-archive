@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【翻译】成为我的女朋友.doc]([交换]_【翻译�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇性转小说《成为我的女朋友》的中文翻译，原作者为Jaana，翻译者为魔之天涯。故事围绕主角伯纳德和他的女朋友艾莉森之间复杂的情感与性别认同展开。小说中，伯纳德意外经历了性别转换，从男性转变为女性，这一过程中他面临着身体和心理的双重冲击。小说描写了他在新的身体状态下的心理挣扎与自我探索，同时也细腻地呈现了他与艾莉森之间发生的性关系与情感变化。艾莉森在故事中引导伯纳德体验女性的生活，提出从“性别栅栏的另一边”看待生活。小说的情节包含大量的细节，对性行为和身体变化进行了 explicit 的描写，尤其是语言上非常直白，并且混合了一些色情成分，同时也探讨了性别认同的问题。整体来看，这是一部集性转、情感纠葛与自我认知于一体的作品，适合对跨性别与性别认同有研究兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【翻译】成为我的女朋友.doc]([交换]_【翻译�
 | Size            | 190464 bytes                           |
 | MD5             | e0a72447bd22c8a56f43f04c05ee0427                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jaana（翻译：魔之天涯）                               |
+| Region          | 未知                               |
+| Date            | 2021-07-20                                 |
+| Tags            | 性转, 跨性别, 性别认同, 情感纠葛, 性行为, 心理变化, 自我探索, 伪娘, 转变, 青春, 快感, 身体变化, 强烈欲望, 两性关系, 性别实验, 逆转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_朽木花雕（1，2）.doc]([附身]_朽木花雕（1，2
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《朽木花雕（1，2）》为一部涉及性别转换与跨性别主题的小说。故事围绕人物郭俊廷的生活展开。他是一个平凡的汽车维修店师傅，跟漂亮的女友冯春燕同居，并讨论结婚事宜。然而，一系列复杂的情节随着冯春燕的醉酒和行为扭曲展开。冯春燕以一种挑逗的方式回到了家中，醉酒不醒，言辞之间流露出对男性的强烈渴望及欲求。当夜，两人之间发生了亲密关系，冯春燕展现出强烈的性欲，虽然郭俊廷对她的醉酒感到困惑，但在冯春燕的坚持下，仍旧展开了一夜激烈的行为。随后的情节描述了冯春燕对自己身体的疑虑，以及对过去事件的模糊记忆，暗示了可能的情感撕扯和身份认同问题。本作品涵盖了性别认同与自我探索的主题，同时描绘了一段关于欲望与情感冲突的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_朽木花雕（1，2）.doc]([附身]_朽木花雕（1，2
 | Size            | 37888 bytes                           |
 | MD5             | e542ce4a8aee2f66c5ee12cf47cbabd7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 性别认同, 自我探索, 亲密关系, 欲望, 情感纠葛, 醉酒, 强烈欲求, 性行为, 人格分裂, 青春爱情, 男性角色, 女性角色, 都市生活, 心理冲突, 情绪波动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

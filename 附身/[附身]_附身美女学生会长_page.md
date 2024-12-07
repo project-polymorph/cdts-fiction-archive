@@ -7,7 +7,9 @@ TXT 下载: [[附身]_附身美女学生会长.docx]([附身]_附身美女学生
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一部关于性转与附身的小说，主要讲述了主人公陈建国的平凡生活及其内心深处对于掌控他人身体的渴望。故事开头，陈建国自述为一名普通大学生，因心中的自卑与怨气而感到沮丧。在一次跑步中，他意外地被白光包围，进入了一个神秘的结界，在那里遇见了一位修炼多年的老者。老者将自己的力量传授给他，给予了他变形、隐身及附身的能力。
+
+随着故事的发展，陈建国的欲望越来越强烈，他选择附身于自己的同学，出色的学生会长凌雪。在成功附身后，他不仅享受着这个全新的身份，还开始展开对凌雪的“掌控”。通过对她身体的占有与心理的操控，陈建国的欲望得到了释放。在这个过程中，故事涉及了诸多情感与伦理问题，如角色认同、自我探索及权力的使用等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_附身美女学生会长.docx]([附身]_附身美女学生
 | Size            | 25428 bytes                           |
 | MD5             | 78b13fe21d9deb1fc29d182c57bd2b2d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 变身, 青春校园, 欲望, 权力游戏, 伪娘, 跨性别, 幻想, 自我认同, 情感操控, 学院生活, 色情内容, 角色代入, 神秘老者, 超能力, 女子高中生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

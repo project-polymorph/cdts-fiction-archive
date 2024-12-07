@@ -7,7 +7,9 @@ TXT 下载: [[交换]_願望之戒指.docx]([交换]_願望之戒指.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《願望之戒指》是一部关于性别转换和自我认同的短篇小说，讲述了主角櫻井繪里香在工作中的遭遇以及她因接触到一枚名为“願望之戒指”的神秘物件而发生的奇妙转变。在一次日常办公中，繪里香突然感到身体发生了变化，胸部消失，令她感到困惑和恐慌。与同事竹內的对话中，揭示了戒指的作用和性别转换的原因。
+
+小说情节通过櫻井的内心独白及其与竹內之间的互动，探讨了角色对自我身份的探索，以及带有性别转换特质的幻想与现实的冲突。故事融合了奇幻元素与现代生活，展现了櫻井在面临突如其来的身体变化时的心理挣扎和适应过程，同时也反映了性别认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_願望之戒指.docx]([交换]_願望之戒指.docx)
 | Size            | 28058 bytes                           |
 | MD5             | ca8b6ddbc72138a3e18a4d1cd8ddc5a0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 英明                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 奇幻, 自我认同, 变身, 短篇小说, 幻想, 莒莉, 心理挣扎, 櫻井繪里香, 竹內, 魔法, 神秘物件, 职场故事, 性别认同, 情感纠葛, 青春, 变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

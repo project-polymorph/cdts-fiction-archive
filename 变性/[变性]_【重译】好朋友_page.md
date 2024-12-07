@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【重译】好朋友.doc]([变性]_【重译】好朋友.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《好朋友》是一部围绕性别转换主题的小说，讲述了主人公马特与他的朋友杰夫之间的对话和冒险。马特面临财务危机，因发现工作的公司涉嫌非法行为而被追查。他决心变更身份，以逃避追查。马特求助于杰夫，后者是一名整形外科医生，能够帮助他通过化学药物和整形手术改变性别。故事中详细描绘了马特的心理变化与身体变化，以及他如何在急迫的情况下进行一次彻底的身份重塑。在手术和药物施用的过程中，马特对自身的变化充满恐惧和不安，同时又对完全变成女性充满了复杂的情感。小说探索了自我认同、性别认同与转变过程的深层次主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【重译】好朋友.doc]([变性]_【重译】好朋友.
 | Size            | 88576 bytes                           |
 | MD5             | ebda0f6941309037a2f33563102f8654                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 自我探索, 身份重塑, 药物改造, 整形手术, 情感冲突, 友情, 金融危机, 禁忌情节, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

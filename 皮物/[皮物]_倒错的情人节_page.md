@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_倒错的情人节.docx]([皮物]_倒错的情人节.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于情人节的伪娘相关小说，故事围绕两名角色展开。一对情侣在夜晚的商场中闲逛，手提各种购物袋，展示了他们的甜蜜与调侃。男孩与女孩的身份设置富有戏剧性，男孩阿珂虽生理性别为男性，但其在恋爱互动中展现出较为主导的角色，暗示了复杂的性别动态及其对彼此身份的认可和探索。阿谧作为“女生”，在与阿珂的互动中表现出羞涩与期盼，尤其在持续的对话中透出对彼此的深厚感情并暗示着性别认同与角色扮演的主题。小说使用细腻的语言描写了角色间情感的交流和身体上的愉悦，同时伴随着一些露骨的性暗示，探讨跨性别关系的心理变化与社会期望之间的冲突。整体内容在展现深层情感的同时，也融入了少许限制级情节，适合对此类主题感兴趣的读者进行深入探索和讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_倒错的情人节.docx]([皮物]_倒错的情人节.docx)
 | Size            | 34525 bytes                           |
 | MD5             | 89c3e80cdaa23827c94a7f5069e5003a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 情人节, 伪娘, 变身, 跨性别, 青少年, 爱情, 吸引力, 自我探索, 性别认同, 暗示, 幻想, 都市, 日常生活, 情侣互动, 调侃, 性暗示, 心理变化, 社交动态, 性别流动性, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

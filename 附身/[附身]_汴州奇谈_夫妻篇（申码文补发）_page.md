@@ -7,7 +7,7 @@ TXT 下载: [[附身]_汴州奇谈_夫妻篇（申码文补发）.docx]([附身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《汴州奇谈 夫妻篇》是一部描绘年轻夫妻关系逐渐疏远的小说，故事设定在炎热的汴州。秦宁与文瑛这对夫妻年近25岁，过着看似忙碌而无趣的生活，他们的关系因缺乏沟通而变得冷淡。小说集中展现了两人在忙碌工作中对生活的无奈和对彼此情感的疏离，尤其是在一次共同用餐时的对话中，文瑛感受到秦宁的不关注，情绪逐渐升温，最终提出离婚的可能。随后，故事转向秦宁的考古工作，描绘了他与考古队员们在发掘古代遗址时发现了一副保存完好的棺材，棺材内所藏的女子尸体和神秘黑气的出现增添了悬疑色彩。整篇小说不仅探讨了人际关系中的沟通问题，还融入了考古和神秘元素，形成了独特的叙事风格和情感深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_汴州奇谈_夫妻篇（申码文补发）.docx]([附身]
 | Size            | 44222 bytes                           |
 | MD5             | 29be6308c1afcf9dd7065feebc6aeff5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 夫妻关系, 情感疏离, 考古发现, 神秘元素, 黑气, 婚姻生活, 生活琐事, 内心挣扎, 自我认知, 古代文化, 情感沟通, 婚姻危机, 角色心理, 二次元, 都市小说, 爱情故事, 幻想元素, 成长故事, 人物转变, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

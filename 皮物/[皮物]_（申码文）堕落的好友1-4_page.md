@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（申码文）堕落的好友1-4.docx]([皮物]_（申码
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《堕落的好友1-4》是一部围绕青春校园生活与性别探索的小说。故事的主要角色宋清与他的室友王林是一对准大学生，而王林在故事中对异性有着浓厚的憧憬与羁绊。小说展现了他们的日常生活，尤其是王林的少年内心与对一个名叫苏云絮的女同学的单相思，同时隐约渗透着性别认同与自我意识的摸索。随着情节的发展，读者见证了角色之间的情感变化与复杂相处，除了对校园生活的幽默描绘之外，王林在多次自我认知的挣扎中，也逐渐展开了独立自我的探索。特别是在对话中，角色们的幽默和调侃使得整个故事充满了轻松的气氛，但同时也暗示了更深层次的关系与心理冲突。夜晚小林对自己性别认同的特殊关注，以及对苏云絮的迷恋，都让这一切显得尤为微妙与值得深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（申码文）堕落的好友1-4.docx]([皮物]_（申码
 | Size            | 27259 bytes                           |
 | MD5             | 1aa4dd468d7091271001452d66fd07e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 大学生活, 性别认同, 青春校园, 伪娘, 友情, 爱情, 自我探索, 性转, 性别意识, 校园恋爱, 同性恋, 挑战与挣扎, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_嫁衣（一）.docx]([附身]_嫁衣（一）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于角色赵建的变身小说，讲述了他在失去父母和工作后的生活困境，以及在友情和性别认同之间挣扎的故事。赵建在好友周华的婚纱店中打杂，以维持生计，但他心中对婚纱的特殊癖好与对自身性别认同的矛盾冲突，逐渐浮出水面。随着故事的发展，赵建在探索自我认知的过程中，意外地经历了一次性别转变，成为女性角色“珊珊”。文章不仅描绘了赵建内心的挣扎，还描写了他在内心欲望与现实生活之间的紧张关系，并以细腻的笔触展示了他对婚纱的幻想和渴求。在一次意外中，赵建经历了自我认知的转变，伴随着种种情感上的迷茫与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_嫁衣（一）.docx]([附身]_嫁衣（一）.docx)
 | Size            | 33168 bytes                           |
 | MD5             | 916d065867b6c6e67cd1c7b3022ef668                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 婚纱店, 伪娘, 自我探索, 强烈性癖, 幻想, 情感纠葛, 友情, 失业                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

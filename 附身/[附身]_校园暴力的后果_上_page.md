@@ -7,7 +7,7 @@ TXT 下载: [[附身]_校园暴力的后果_上.doc]([附身]_校园暴力的后
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为校园暴力与变身心理的小说，讲述了主人公信在身处校园暴力的环境下，经历了无情的欺凌，并在一次偶然的机会中获得了变身为施暴者母亲的能力。在校园中，信被同班同学亮欺负，亮是一个优秀且受欢迎的学生，然而他对信的校园暴力使信感到无助与绝望。在一次与一个神秘男人的遭遇中，信得到一颗神秘水晶，能够实现愿望。他用水晶变身成了亮的母亲，并设法对其进行报复，使用母亲的身份来体验曾经受到的屈辱和施加反击。文件中详细描写了信如何用新身份逐步反击亮，揭示了校园暴力的后果与报复的心理，情节中穿插了信与亮母子的互动以及信的内心变化，情感复杂，具有强烈的冲突与反转。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_校园暴力的后果_上.doc]([附身]_校园暴力的后
 | Size            | 43008 bytes                           |
 | MD5             | 23d0fd0e31507d8b5402f4ba148a7b96                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 校园暴力, 变身, 心理探索, 复仇, 兄弟关系, 身份认同, 女性身份, 自我认知, 转变, 二次元, 戏虐, 推理, 情感冲突, 社会问题, 亲子关系, 虐待与反抗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

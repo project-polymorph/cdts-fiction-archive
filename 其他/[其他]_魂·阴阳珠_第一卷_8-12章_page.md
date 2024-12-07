@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魂·阴阳珠_第一卷_8-12章.doc]([其他]_魂·阴阳
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别相关小说"魂·阴阳珠"的第一卷第8至12章。故事围绕着主角刘瑾儿展开，她面临着一个神秘的橘色珠子背负的诅咒，预示着她在24岁前的短暂生命。瑾儿的父亲在她大学毕业后神秘失踪，并留下了这颗珠子和一封信，揭示了珠子的潜在危险和不幸，警告她即将面临的命运。随着故事的发展，瑾儿在追寻父亲死因的过程中，经历了情感的挣扎和对生存的渴望，她尝试通过工作填补内心的空虚，也逐渐对同事小霖产生了复杂的情感。故事探讨了性别认同与自我探索的主题，展现了瑾儿在面对生死和内心冲突时的心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魂·阴阳珠_第一卷_8-12章.doc]([其他]_魂·阴阳
 | Size            | 127488 bytes                           |
 | MD5             | c72f93edc25ea9def21e972e720b424f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 魔法, 悬疑, 青春, 情感纠葛, 家庭关系, 诅咒, 冲突与挣扎, 爱情, 心理小说, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

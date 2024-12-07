@@ -7,7 +7,7 @@ TXT 下载: [[改造]_逆转龙凤_（六）_上官云宇（下）.doc]([改造]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个以伪娘和变身为主题的小说片段，主要描绘了少年皇帝花红月在接受身份转变与性别认同过程中的内心挣扎与外部压力。故事开始于花红月收到上官云宇的礼物，后续展现了其在女性身份下的行为与礼仪学习。少年由于身体不适被迫改变形象，而其身边的红玉及王婆则起到关键的教导作用。文中提到花红月面临来自上官云宇的压力，以及自我身份的矛盾与不安。王婆负责辅导她如何作为一名女性应对外部挑战，并警告其必须严格遵循指导，否则可能曝光真实身份。故事探讨了性别认同与外部期望之间的冲突，体现了角色对自我认知的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_逆转龙凤_（六）_上官云宇（下）.doc]([改造]
 | Size            | 35328 bytes                           |
 | MD5             | a8f1c7e859846bf0ca74ef43a469042d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 少女, 权力与身份, 强烈情感, 教育与教导, 情节冲突, 红玉, 王婆, 传统礼仪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

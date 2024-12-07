@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_两个高中女生.docx]([皮物]_两个高中女生.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《两个高中女生》，描绘了两位女高中生里奈和麻里之间的对话与互动。故事设定在放学后的校园，里奈因感到沮丧而邀请麻里前来，麻里对此充满关心。在交流中，里奈意外地暴露了自己身体的一些变化，出现了一种尴尬而又刺激的情境。随着对话的深入，里奈坦露出对同学们的渴望，并透露了她对自己新身份的探索和认同。有趣的是，麻里并没有被这种情况吓到，而是提出将自己的身体借给里奈玩耍，接着两人之间的关系迅速发展，出现了性暗示和亲密互动。文中包含大量的露骨描写和对性相关内容的探讨，描绘了一种跨性别与性别认同的情感冲突与互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_两个高中女生.docx]([皮物]_两个高中女生.docx)
 | Size            | 16384 bytes                           |
 | MD5             | 7a246ca58cdf99dc825e66e51562bc2e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 高中生, 性别认同, 性转, 百合, 互联网文学, 青春, 友谊, 性探索, 自我认知, 伪娘, 青春期, 跨性别, 性关系, 隐私话题, 恋爱与性, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

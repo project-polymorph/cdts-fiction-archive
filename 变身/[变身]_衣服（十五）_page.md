@@ -7,7 +7,7 @@ TXT 下载: [[变身]_衣服（十五）.doc]([变身]_衣服（十五）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇都市校园异能题材的轻H小说，采用第一人称叙述，侧重角色内心情感的描写与发展。故事围绕着两个角色阮敏和叙述者的情感纠葛展开，展现出他们在面对外部压力和内心恐惧时的细腻情感。阮敏因身体原因而感到无助，内心充满了悲伤与绝望，而叙述者则试图安慰阮敏，并最终决定用变身的方式代替她去学校，以减轻她的心理负担。文章细腻地描写了主角在面对困境时的心路历程，夹杂着轻微的性暗示和纯爱的情感，令读者在浏览剧情的同时也能感受到角色间深厚的情感纽带。文本中含有对女性身体状态的敏感描写，以及对角色心理的深刻探索，展示了性别与自我认同的复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_衣服（十五）.doc]([变身]_衣服（十五）.doc)
 | Size            | 67072 bytes                           |
 | MD5             | 4c5356a9fcebe60aabd8268227f00047                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 轻H, 都市校园, 变身, 自我认同, 情感纠葛, 性别转换, 内心戏, 异能, 成长, 悲伤, 友谊, 心理压力, 校园生活, 纯爱, 女性视角, 慢热                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

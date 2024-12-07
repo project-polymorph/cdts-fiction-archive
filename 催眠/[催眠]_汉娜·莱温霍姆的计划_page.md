@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_汉娜·莱温霍姆的计划.doc]([催眠]_汉娜·莱温
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《汉娜·莱温霍姆的计划》是由作者Sam Moose创作的一部性转和催眠主题的小说。故事围绕杰伊·莱温霍姆和他的妻子汉娜展开。杰伊是一个身材魁梧且性格温和的男人，而他的妻子汉娜则是一个美丽且有个性的女性，拥有一家模特公司。在一次温馨的家庭聚会中，汉娜利用催眠术让杰伊服从她的命令，实施了性别转换的计划。随着故事的发展，杰伊逐渐被转变为汉娜的女性形象，经历了身体和心理的双重转变，并与她的爱人展开了一系列复杂且富有挑逗性的互动。小说描写了性别认同、自我探索、催眠与控制等主题，同时使用了一些露骨的性爱场景和情节，展示了两人之间微妙的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_汉娜·莱温霍姆的计划.doc]([催眠]_汉娜·莱温
 | Size            | 44544 bytes                           |
 | MD5             | 82f576bbd77fc852a08fc8f71be5f073                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Sam Moose                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 性转, 变装, 自我认同, 虐待狂, 性别转换, 纯爱, 强奸, 淫荡, 调教, 反转, 逆后宫, 情欲, 女性视角, 都市幻想, 魔法, 情色, 二次元, 虚幻与现实, 角色交换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

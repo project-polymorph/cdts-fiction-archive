@@ -7,7 +7,7 @@ TXT 下载: [[改造]_出轨的惩罚7-8.doc]([改造]_出轨的惩罚7-8.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一位男性角色在曼谷的人妖舞团中被迫变身为人妖的故事。情节开始于主角因与黑社会的纠纷，被卖到曼谷，过程中经历了多次羞辱和奴役。在泰国，他面临被改造成女性外形的人妖，面临严峻的训练和压迫。故事详细描绘了他被卖到舞团后所经历的痛苦、恐惧和绝望，展现了人妖文化的阴暗面与人物内心的挣扎。主角一开始对未来充满恐惧，试图反抗，但体力和环境都让他无能为力。随着治疗、训练以及逐渐的心理适应，他的性别认同与社会角色发生了剧烈的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_出轨的惩罚7-8.doc]([改造]_出轨的惩罚7-8.doc)
 | Size            | 37376 bytes                           |
 | MD5             | 7129cf2424e3884467976fb8b1e0d015                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人妖, 变身, 跨性别, 泰国, 黑社会, 奴役, 心理探索, 性别认同, 绝望, 人妖舞团, 成年男性穿着女性衣物, 激素, 性别暴力, 市场交易, 生理改造, 性别流动, 异域文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

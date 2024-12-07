@@ -7,7 +7,7 @@ TXT 下载: [[交换]_无名神的报恩_1-2.docx]([交换]_无名神的报恩_1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为‘交换’系列小说之一，标题为《无名神的报恩》第一卷的前两章，主要以性别转换为背景，讲述主角林健在一次神秘事件后，身体意外转变为女性的故事。故事伊始，林健的挣扎与好奇并存，面对自己全新且性感的身体，产生了深刻的自我认知和性别认同的冲突。他防备自己的身体被他人发现，并在此过程中反思自己的身份。文件中包括林健在镜子前仔细打量自己女性化身体的细致描写，以及与其配偶常勇之间发生的亲密互动，挖掘了性别角色的变化和相关的情感冲突。在这场身体与意识的交替中，林健也涉及到了怀孕的复杂情节，展现出现代性别认同与传统角色期望的冲突。文中对角色的心理描写深入，充满戏剧性和张力，使得故事引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_无名神的报恩_1-2.docx]([交换]_无名神的报恩_1
 | Size            | 23551 bytes                           |
 | MD5             | 695286a8b8d7c84287f67252b6e02d48                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别转换, 跨性别, 婚姻, 幻想, 自我探索, 情感, 女体化, 性别认同, 怀孕, 都市奇幻, 性冲突, 身份认同, 情欲, 强烈自我意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我变成了朝思暮想的galgame主角？！前传_林�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《我变成了朝思暮想的galgame主角？！前传_林浩的奇妙生活》，是一篇以性别转变为主题的微小说，讲述了主角林浩的奇妙经历。故事以第一人称视角展开，林浩原为一名年过四旬的死宅，在一次神秘活动中变成了一款galgame的男主角。在这个虚拟世界里，他不仅需要应对五名男性灵魂附身在女角色身上的情况，同时也要面对她们对他产生的情感纠缠。故事的情节设定引人入胜，包含了幻想、性别认同与自我探索等元素，林浩在游戏中被迫与这些“女孩”进行互动，并在心理上感受到巨大的压力和引诱。尽管身处异世界，林浩需要找寻自己的真爱以赢得最终的自由，但这似乎并不简单。他的内心挣扎与现实的无奈交错，看似美好的高中生活背后隐藏着危险与诱惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我变成了朝思暮想的galgame主角？！前传_林�
 | Size            | 30878 bytes                           |
 | MD5             | cc7710b3933d8673048916b76633f566                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 穿越, 虚拟现实, galgame, 自我探索, 异世界, 伪娘, 情感纠葛, 生存游戏, 性别认同, 男主角, 恋爱冒险, 校园, 百合, 强制情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

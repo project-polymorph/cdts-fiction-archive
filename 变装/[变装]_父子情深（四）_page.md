@@ -7,7 +7,7 @@ TXT 下载: [[变装]_父子情深（四）.doc]([变装]_父子情深（四）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇描写父子间深厚情感与变装表演的小说，内容围绕父亲们参加一个变装秀的情节展开。故事中的托德和戴夫分别是父子，他们的父亲参与到变装活动中，穿上性感的女装，展现出时尚与魅力。托德在观察父亲的演出过程中，逐渐对父亲的外貌与形象产生了迷恋，同时也对彼此的感情发生了微妙的变化。文中不乏对于父亲形象的赞美与欲望的描写，涉及到角色之间的亲密关系和情感探索。例如，托德在看到父亲穿着女装时，心中涌动着无法抑制的兴奋和吸引，甚至想象着穿上类似装扮的自己。这种情感在随后的互动中得到了强化，二人之间的行为流露出超越一般父子的亲密，展开了一系列露骨而细腻的情感交流。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_父子情深（四）.doc]([变装]_父子情深（四）.
 | Size            | 37376 bytes                           |
 | MD5             | 35b0d392a8fd58d0b01900e8fe178c88                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 父子恋, 自我认同, 性别转换, 热恋, 情感探索, 性感形象, 情欲, 跨性别, 角色扮演, 家庭关系, 时尚秀, 心理冲突, 顾影自怜, 亲密行为, 人物关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

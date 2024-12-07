@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【思考模式DVD】.docx]([改造]_【思考模式DVD】
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于东野夏音的故事，围绕着一场令人不安的事件展开。故事从夏音在女子更衣室中发现了一个陌生的纸箱开始，里面藏有偷拍摄像机，揭露了公司内部的一起性骚扰事件。夏音联合其他女职员追查事件，最终查出烟山的罪行。然而，揭发者夏音却在公司内遭遇了令人毛骨悚然的事情，源于一个名为塚渡的系统工程师，他垂涎女性的思想，于是他展开了一个恐怖的实验，企图将女性的思想模式数字化。故事中透过夏音的无辜与挣扎，展现了人与人之间复杂的关系以及对他人私隐的侵犯。文件中包含了一些潜在的限制级内容，如性骚扰、偷拍、精神操控等情节，展现了现代社会中性别与权力的不平等。借由科幻的手法，讨论了人类对思想和记忆的控制及其潜在的伦理问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【思考模式DVD】.docx]([改造]_【思考模式DVD】
 | Size            | 29252 bytes                           |
 | MD5             | 764dbeb40c51f20060a052ce48eb0d43                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性骚扰, 跨性别, 偷拍, 心理实验, 权力不平等, 思想控制, 伪娘, 科技伦理, 职场暴力, 女性主义, 自我认同, 人际关系, 性别认同, 黑暗幻想, 科幻小说, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

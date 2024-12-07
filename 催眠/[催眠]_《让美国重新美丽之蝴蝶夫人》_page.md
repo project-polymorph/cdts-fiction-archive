@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_《让美国重新美丽之蝴蝶夫人》.doc]([催眠]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇涉及跨性别与变身主题的小说，名为《让美国重新美丽之蝴蝶夫人》。故事围绕主人公在阿拉斯加的经历展开，包含了与性感角色的互动以及复杂的情感描写。故事开篇提及了蝴蝶夫人的故事背景，并通过主人公的视角描述与同事出国的经历。在阿拉斯加，主人公意外遇见了昔日的女神柴兴珍，二人之间产生了一种含糊而暧昧的关系。随着剧情的发展，柴兴珍展示出越来越放肆与挑逗的行为，进一步加深了两人的纠葛。文中细腻描写了角色的心理变化以及他们之间的性暗示和亲密互动，包括柴兴珍穿着挑逗性服装，以及展示了她作为“母狗”的角色设定。主题不仅探讨了跨性别的角色认同，还包含了明显的性暗示与情欲描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_《让美国重新美丽之蝴蝶夫人》.doc]([催眠]_�
 | Size            | 56832 bytes                           |
 | MD5             | d426f3220c854f08ab50820a93361478                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 改变身份, 性暗示, 爱情, 刺激, 强烈的情欲, 女性角色, 情感纠葛, 日常生活, 社交, 阿拉斯加, 二次元文化, 心理探索, 强烈的视觉意象, 变身小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

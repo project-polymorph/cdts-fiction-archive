@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星云_第二十二章.docx]([皮物]_星云_第二十二�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘跨性别相关小说《星云》的第二十二章。故事围绕主角袁杰和一名神秘女孩的相遇展开。在一个阴暗而荒凉的世界中，女孩与一个中年人相遇，他向她讲述了关于这个充满灰烬的世界的传说，以及她如何能够帮助这个世界恢复生机。随着故事的展开，女孩在奇幻与现实之间徘徊，袁杰作为旁观者，感受到她内心深处的挣扎与迷茫。故事中描绘了女孩对回家的渴望，以及她在艰难环境中的生存挑战，突显了希望与绝望交错的主题。文中有细腻的环境描写，比如“脚步在地面上发出沙沙的声响”，并且展现了角色间的人性光辉与温情。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星云_第二十二章.docx]([皮物]_星云_第二十二�
 | Size            | 17538 bytes                           |
 | MD5             | 3a541153e2b59029c4b109b376b18380                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 奇幻, 自我探索, 绝望与希望, 人格认同, 神秘传说, 科幻, 二次元, 生存挑战                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_（申码文）吊丝穿魅魔的皮.doc]([皮物]_（申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是由方雪樱撰写的，一篇名为《吊丝穿魅魔的皮》的长篇小说，通过第一人称视角讲述了一个大学生方华在游戏与现实生活中的孤独感，以及他对二次元文化中魅魔和人外娘的独特癖好。故事设定在一个魔幻与现实交织的背景中，魅魔被描写得既诱人又危险，同时也涉及到主角性别认同与心理探索。
+
+文件开头介绍了魅魔的特征：她们是用美貌和魅惑法术诱惑男性并以男性精液为生的魔物，在此背景下，方华展示了他对魔物娘的热爱。他经常在深夜玩游戏，内心的自卑与游戏中的成就感并存。同时，他与自己的好朋友刘朋博的关系也在日常交流中逐渐深入，两人都曾在小城市经历过被嘲笑与孤立的经历，使得彼此之间的联系更加紧密。
+
+随着故事的发展，方华通过各种内心的挣扎与幻想逐渐发现自己对于性别、爱情的看法，文中也涉及了一些性暗示与情感的描绘，如“我一边刷抖音一边想，他所谓的实验，结果是1个月直接让一个小处男变成了一个撩妹高手。”以及他对美丽女子的强烈吸引力。整体来说，这部小说探讨了孤独感、性别认同、及自我接受等复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_（申码文）吊丝穿魅魔的皮.doc]([皮物]_（申�
 | Size            | 89088 bytes                           |
 | MD5             | 85c13daea220889b4466af22d93c33b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 方雪樱                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 魅魔, 变身, 伪娘, 孤独, 性别认同, 魔物娘, 青春, 校园, 爱情, 游戏, 自我探索, 二次元, 幻想, 心理斗争, 情感描绘, 男性视角, 摄影, 美少女, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

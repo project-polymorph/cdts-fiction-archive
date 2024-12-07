@@ -7,7 +7,11 @@ TXT 下载: [[附身]_第二灵魂（8）.docx]([附身]_第二灵魂（8）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于性转与跨性别主题的小说，主要描绘了角色在自我认知中出现的冲突与转变。故事围绕主角小雅展开，她在感情和性别认同上经历了复杂的内心斗争。在与林志、林水儿等角色的互动中，小雅逐渐意识到自己的真实感情，特别是对异性角色的依赖与渴望。
+
+故事中出现了多处情节反映了主角对于另类性别形象的接受与探索，文中通过小雅和林志的对话，揭示了对于性别角色的思考。小雅在一次意外中对林志表现出求助，而林志对小雅的反应则体现了其内心的矛盾。
+
+在更深层的情节中，故事探讨了强奸、恋爱、背叛等主题，暗示角色们面临的复杂关系和情感纠葛，特定场景中小雅的反思及对自身行为后果的自责，都展示了作者对人性及情感深邃的理解和表达。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[附身]_第二灵魂（8）.docx]([附身]_第二灵魂（8）.doc
 | Size            | 24429 bytes                           |
 | MD5             | 213c4d369303477a4affc82c27238abb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 强奸, 爱情, 性别认同, 自我探索, 校园, 伦理, 心理冲突, 变装, 情感纠葛, 女扮男装, 性别角色, 宿舍生活, 二次元, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

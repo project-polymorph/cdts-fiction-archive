@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_想要做你的新娘（第一节）一品烟灰作品.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一品烟灰创作的性转小说，主要讲述了一位男主角对朋友阿明的复杂情感与自我认同的探索。故事以第一人称视角展开，描写了主角从与阿明相识的意外接吻开始，逐渐觉醒自己内心对性别的迷茫和对阿明的暗恋。在大学时期，主角原本向往着普通的生活，但因为与阿明的关系被撕裂，内心充满了痛苦和矛盾。随着阿明与女友小欣的恋情升温，主角的醋意愈发加深，最终在一次偶遇中得到一份神秘的“入替产品”的说明书，意味着他或许能够实现想成为女性的愿望。本故事探讨了性别认同、自我探索及对爱情的渴望，融入了一些性相关的情节，包含了强烈的情感冲突和心理挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_想要做你的新娘（第一节）一品烟灰作品.doc
 | Size            | 17092 bytes                           |
 | MD5             | 7619b94ee4ce2f22c5230e884844a46a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 一品烟灰                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 爱情, 性别认同, 自我探索, 暗恋, 伪娘, 情感吐露, 强烈情感, 心理冲突, 友谊与爱情, 不可逆转, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

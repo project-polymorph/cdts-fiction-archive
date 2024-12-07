@@ -7,7 +7,7 @@ TXT 下载: [[变性]_无职同人_人神的复仇(申码文)_.doc]([变性]_无
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《无职转生之人神的复仇》，是作者赫萝大尊师创作的同人小说，首发于2021年5月2日。故事围绕人神的复仇展开，描述了人神在被强大挑战者（如龙神和救世主菈菈）击败后的孤独与绝望。他的身体被禁锢在一个名为“无界”的空间里，回忆着自己无法改变卢迪乌斯·格雷拉特命运的悲哀。人神能看到平行世界的未来，但无论他如何尝试的阻止卢迪乌斯与洛琪希的结合，依然以失败告终。文本通过人神的内心独白，以及对抗命运的挣扎，展现了他对力量与命运的无奈，同时也反映了角色与自我身份的探讨。整体故事情节富有幻想色彩，涉及了性别转换及角色转变的主题，特定场景描绘也暗含跨性别及变身元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_无职同人_人神的复仇(申码文)_.doc]([变性]_无
 | Size            | 81408 bytes                           |
 | MD5             | 9c1d49ee7234f4b575743acd026ac2d0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 赫萝大尊师                               |
+| Region          | 未知                               |
+| Date            | 2021-05-02                                 |
+| Tags            | 无职转生, 人神复仇, 幻想小说, 平行世界, 反乌托邦, 角色性别转换, 自我探索, 幻想冒险, 命运交错, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

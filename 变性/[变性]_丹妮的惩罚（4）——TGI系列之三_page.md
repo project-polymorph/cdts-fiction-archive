@@ -7,7 +7,9 @@ TXT 下载: [[变性]_丹妮的惩罚（4）——TGI系列之三.docx]([变性]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说中的一部分，讲述了主角丹妮在经历变性手术后与丈夫奥斯卡的复杂情感关系。故事开头描绘了两人婚后幸福的生活，随着情节的发展，丹妮逐渐意识到奥斯卡对她的性别认同存在问题。奥斯卡在与丹妮的对话中提及她曾经是个男人，导致丹妮感到不满，强烈要求奥斯卡将她视为一名女孩。
+
+随着故事的深入，丹妮开始怀疑奥斯卡的忠诚，并在其离开后探查丈夫的书房。她发现了隐藏的文件夹，里面包含了与她的身体状况及变性手术相关的记录，这些记录暗示了她的变性过程并非完全自愿，而是受到了外界的操控和催眠。丹妮的内心充满了困惑和恐惧，她正面临着对自己身份的重新审视。与奥斯卡的爱情在疑虑和不信任中摇摆，丹妮发现了一系列秘密，加深了对自己过去及未来的思考。本文件透过丹妮的内心独白，反映了性别认同、自我探索和人际关系中复杂的情感对立。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_丹妮的惩罚（4）——TGI系列之三.docx]([变性]
 | Size            | 49661 bytes                           |
 | MD5             | 934ecbbb5e924299ee3e7688838cb86a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性别认同, 伪娘, 心理调教, 催眠, 婚姻, 情感冲突, 自我探索, 性别转换, 小说, 二次元, TGI系列, 强烈需求, 身份危机, 悬疑, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

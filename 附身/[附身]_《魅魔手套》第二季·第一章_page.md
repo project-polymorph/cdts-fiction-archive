@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《魅魔手套》第二季·第一章.doc]([附身]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《魅魔手套》第二季第一章讲述了大学生林勇目睹了一起特殊的‘奸杀案’，在恐惧与挣扎的心理中，他想要保护自己与他人。他是伍胜大学的大三学生，因家境贫困而四处兼职生活，而事件的发生则牵扯到他对爱慕女孩的复杂情感。故事开头描绘了林勇在课堂上与同学的互动，以及他对于昨日事件的回忆与对未来的担忧。林勇的心理描写深刻，随之而来的是对周围环境的紧张感。在无意中，他目击到一名女生在被两名陌生男子侵犯，女生的挣扎令他感到不安与恐惧，而他的手机在关键时刻也失去了电源。情节发展中包含了自我救赎的主题，以及在突发危机中采取行动的勇气。这一章节蕴含了戏剧性的情感冲突，展现了人与人之间的责任感与自我价值的考量。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《魅魔手套》第二季·第一章.doc]([附身]_《�
 | Size            | 48640 bytes                           |
 | MD5             | 3c41cbc84044efa5cab5ed1661e3fbf9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 变身, 跨性别, 强奸, 校园故事, 心理恐怖, 青春爱情, 自我救赎, 神秘手套, 惊悚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

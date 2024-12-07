@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【虚幻皮相真情人】第十、十一章（完结撒�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一段关于跨性别与性转相关的情节，背景设定在一个夜总会中，主要人物为林然与张文。故事开头描绘了一名少女被迫卷入一场性交易，角色李军表现出对林然的侮辱与控制，林然虽试图挣扎但最终被迫顺从。随着剧情的发展，张文的登场为林然带来了转机，她巧妙地利用自己的魅力与智慧，成功帮助林然逃出困境，并展示了她的勇敢与果断。文中涉及了强烈的欲望与性行为的描写，以及对人物内心挣扎的刻画。在故事的尾声，林然与张文成功逃离了夜总会，准备对付即将到来的阴谋。整体上，这个故事深入探讨了性别身份、角色扮演以及女性在面对侵害时的抗争与自我认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【虚幻皮相真情人】第十、十一章（完结撒�
 | Size            | 89088 bytes                           |
 | MD5             | f08d678c2dbdf00429c57bea03f118d6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性转, 伪娘, 强奸, 情欲, 自我认同, 逃脱, 性交易, 夜总会, 欲望, 张文, 林然, 阴谋, 勇气, 心理冲突, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

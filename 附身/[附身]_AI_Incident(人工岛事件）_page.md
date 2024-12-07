@@ -7,7 +7,7 @@ TXT 下载: [[附身]_AI_Incident(人工岛事件）.doc]([附身]_AI_Incident(�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部伪娘 TS 变身与跨性别相关的小说，具体标题为《人工岛事件》。故事设定在2026年的滨海市，叙述了高中生张休伊的平凡生活在接到神秘改造任务后发生了翻天覆地的变化。故事开始于一个普通的早晨，休伊在学校中感到身体有异样，随后接到组织的电话，了解到自己将接受身体改造以便于参与社会安全的维护工作。随着情节推进，休伊发现自己的改造不仅改变了身体素质，还带来了身份的复杂变化。在一次恐怖袭击的前夕，休伊为了保护青梅竹马的莉莉，面对身份的挑战与未知的危机，展现了坚持与勇气。小说探讨了性别认同、身体改造以及友情等主题，情节紧凑而富有张力，适合有兴趣的读者研究变身及跨性别相关文学的内容和形式。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_AI_Incident(人工岛事件）.doc]([附身]_AI_Incident(�
 | Size            | 246272 bytes                           |
 | MD5             | 7b2ef21440ccf7f6eb367ef004ab7c3d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2026-04-13                                 |
+| Tags            | 伪娘, 变身, 跨性别, 青春, 科技改造, 恐怖袭击, 自我探索, 性别认同, 战斗, 友情, 心理冲突, 超能力, 未来科技, 青春校园, 阴谋与冒险, 人工智能, 科幻小说, 身心变化, 神秘组织                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

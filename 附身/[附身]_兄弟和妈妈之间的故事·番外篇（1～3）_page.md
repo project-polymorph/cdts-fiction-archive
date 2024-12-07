@@ -7,7 +7,7 @@ TXT 下载: [[附身]_兄弟和妈妈之间的故事·番外篇（1～3）.doc](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为多元性别主题的小说内容，包含三部分番外篇，主要围绕角色之间复杂的情感与性别身份转换展开。故事描绘了一位角色由于意外发生灵魂转移，与母亲的身体互换后蕴生出的情感纠葛。首先，在网咖中，两位主角在互动中逐渐探索彼此的身体界限与情感连接，展现出色情与心理层面的双重冲突；接着，故事转向沙滩，在对话中揭开二人之间的误解与母爱的深度，强调灵魂交融的魅力；最后，温泉场景则更直接地展示了身体与欲望之间的张力，带有明显的性暗示和亲密场景。整体内容包含多个性转、伪娘、变身等元素，适合研究多元性别及其在文学作品中的表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_兄弟和妈妈之间的故事·番外篇（1～3）.doc](
 | Size            | 40960 bytes                           |
 | MD5             | 39c938a4334534d16f1aedb569d28718                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 母子情, 情感纠葛, 灵魂互换, 幻想文学, 二次元, 温泉诱惑, 沙滩恋曲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

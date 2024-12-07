@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_爱与家庭（后篇+尾声）.doc]([皮物]_爱与家庭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘和跨性别主题的小说《爱与家庭（后篇+尾声）》。故事围绕主人公陆轩和他的妹妹雨心展开，描绘了他们兄妹之间复杂的情感与心理纠葛。陆轩是一名对生物科技和医疗技术有深入研究的创造者，致力于为妹妹雨心定制“皮衣”以帮助其保护自我意识与形象。文件中提到雨心的心理状态，她对自我身份的疑惑以及对哥哥的不明确情感，让人感受到青春期的迷茫与困惑。故事中夹杂了露骨的感情表述和对人类外表与内心的探讨，运用了生动的细节描写，反映了角色之间深厚且复杂的关系，尤其在换皮衣的过程中，展现了对个人身份的思考和深层的情感联系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_爱与家庭（后篇+尾声）.doc]([皮物]_爱与家庭
 | Size            | 58880 bytes                           |
 | MD5             | 94c8a9e2e02b84d76e88d3f14405e75e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 兄妹情, 科学幻想, 心理探讨, 情感纠葛, 自我认同, 生物科技, 青春期困惑, 人际关系, 亲情与爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_彼岸_第三幕_第四回.docx]([变性]_彼岸_第三幕
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档描述了一名角色在变性过程中所面临的情感冲突与身体变化。故事开头，主角在一种类似于棺材的处境中苏醒，面对着小妈和威廉之间的争执。随着情节发展，主角逐渐意识到自己的身体发生了翻天覆地的变化，逐渐从男性变为女性，并对这种变化感到恐惧和不安。作者描绘了主角在梦中的长时间睡眠后，身体的细腻和柔嫩，以及胸部的隆起，这引发了他对自己身份和性别认同的深刻思考。话语中透露出对变性过程的幻想与现实的痛苦，极具戏剧性，展现了变身后生活的无助与混乱。文中既有情感的撕裂，也有对现实的无奈。关键情节如：\n1. 主角感受到了身体的巨大变化。\n2. 对于失去男性身份的抵触与不安。\n3. 亲情的温暖与内心的恐慌交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_彼岸_第三幕_第四回.docx]([变性]_彼岸_第三幕
 | Size            | 33449 bytes                           |
 | MD5             | 997a282b3a2ea5295864fce049418e16                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 自我认知, 跨性别, 情感冲突, 幻想, 身体变化, 失去自我, 女性身份, 亲情, 社会认同, 成长, 痛苦经历, 性别认同, 心理挣扎, 密室梦境, 遭遇困境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【申码文2篇搬运】_顺带投个票.doc]([变装]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于变装与性别认同的小说续写，内容围绕变装角色韩孟伟与其伴侣小茹的日常生活与情感发展。故事及对话充满了对话气氛和细腻的感情刻画，包含对角色女性形象认同的描写，涉及到心理与身体的双重变化，以及双方在性别认同过程中所面临的冲突与适应。在对话中，韩孟伟提到自己的女性形象，怀疑伴侣会否厌弃，反映对自我认同的困惑。小茹则以幽默和甜蜜的方式回应，表现出对韩的支持和爱护。同时，文中还充斥着对于传统性别角色的挑战和讨论。内容可能包含成人取向的情节，因此不适合未成年人阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【申码文2篇搬运】_顺带投个票.doc]([变装]_�
 | Size            | 48128 bytes                           |
 | MD5             | 4f34a114360466834e833c69caddec75                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 跨性别, 变身小说, 爱情, 日常生活, 自我探索, 亲密关系, 性别转换, 二次元, 情感发展, 女装, 男装, 家庭关系, 求爱, 性别冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

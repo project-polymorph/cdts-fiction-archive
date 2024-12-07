@@ -7,7 +7,7 @@ TXT 下载: [[改造]_纯洁的淫落一.doc]([改造]_纯洁的淫落一.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于伪娘与跨性别主题的小说《纯洁的淫落一》的叙述，描绘了一位年轻女孩林诗雨和她母亲林母的日常生活及其心理变化。文件中提到林诗雨与朋友丁峻之间的友谊，以及她与母亲的亲密关系，展现了温情与轻松的家庭氛围。文章内容开始描述了一次家庭出游的准备过程，林诗雨在兴奋与紧张中整理行李，同时有一位神秘的跟踪者宋云暗中注视着她，表现出一种扭曲的情感纠葛。文章在叙述中不时插入经历的细腻描写，如亲昵的母女互动、对未来的憧憬以及对外界的反应，这些构成了一个涉及性别认同与自我探索的复杂故事情节。此外，文中还包含了对充满幻想的阴暗世界的引述，暗示在“血月”之夜可能发生的超自然事件。虽然故事主要是温馨日常，但背景中潜藏着一些危险和禁忌的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_纯洁的淫落一.doc]([改造]_纯洁的淫落一.doc)
 | Size            | 79360 bytes                           |
 | MD5             | aa0847da242e4a71e64a9ea42b65a0ea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-10-01                                 |
+| Tags            | 伪娘, 跨性别, 家庭, 性别认同, 青春, 校园, 神秘跟踪者, 暗恋, 探险, 血月, 自我探索, 温情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

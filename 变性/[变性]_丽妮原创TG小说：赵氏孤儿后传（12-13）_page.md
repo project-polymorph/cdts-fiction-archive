@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（12-13）.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇原创跨性别小说，名为《赵氏孤儿后传》，主要围绕女主角范冰冰的故事展开。在故事中，范冰冰经历了一系列与身份认同相关的情节，体现了她由男转女后的生活，以及她在妓馆中的经历。文件详细描绘了古代妓馆的生活场景，其中涉及“展花会”，女主在舞台上展现自己的武艺和风采，吸引众多男性的目光。故事中还有多位姐妹角色，分享各自的相公故事，表现出不同的情感经历和身份冲突。文章通过对角色心理的细腻刻画，探讨了性别认同与他人期望之间的矛盾，反映了人物在性别切换过程中的复杂情绪与应对策略，具有一定的文学性和艺术特点。同时，文中提及了许多涉及色情和性别议题的内容，表现出女主在新的生活角色中的挣扎与自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（12-13）.docx]
 | Size            | 31362 bytes                           |
 | MD5             | ca97ee40e976f0352fa1b0e1e6b8a47c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 妓馆生活, 古代风俗, 情感经历, 跨性别, 自我认同, 展花会, 武功展示, 情欲关系, 姐妹情, 权力游戏, 身份冲突, 性别探索, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

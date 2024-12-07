@@ -7,7 +7,7 @@ TXT 下载: [[变身]_某对TS夫妇的回忆录之9.docx]([变身]_某对TS夫�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个名叫阿结的女儿的成长故事，讲述了父母如何在性别流动的家庭环境中抚养她。故事的设定围绕父母的性别身份和阿结的意识发展展开，涉及诸如性别认同和家庭动态的问题。在故事中，父亲的性别变化与阿结的成长相互交织，突显了性别认同的复杂性。父母希望阿结能够理解他们家庭的特殊性，但又担心外界的反应。父亲与妻子讨论如何向女儿解释家庭的性别流动情况，以及如何教育她不泄漏家庭秘密。故事中展现了对女儿未来的关心，同时也夹杂着对自身身份认同的焦虑与期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_某对TS夫妇的回忆录之9.docx]([变身]_某对TS夫�
 | Size            | 23029 bytes                           |
 | MD5             | af6837246f0db79a2777c637e45c93b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别流动, 家庭教育, 性别认同, 父母角色, 成长, 自我探索, 阿结, 性别转换, 心理矛盾, 亲子关系, 以女性形象出现, 性别自由, 含蓄的性别教育                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

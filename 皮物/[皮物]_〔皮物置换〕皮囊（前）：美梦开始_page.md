@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_〔皮物置换〕皮囊（前）：美梦开始.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《皮囊（前）：美梦开始》是关于一个秘密实验基地的故事，围绕着变色龙和小蛇进行的生物外形置换实验展开。故事描绘了一群身着白大褂的科研人员在沙漠中的基地中进行实验的情景。夜幕降临时，基地内的实验室被一块宛如水晶的晶体所吸引。随着实验的推进，一股神秘的红色气体突然弥漫开来，造成几名科研人员的突发状况，气氛由兴奋转为恐慌。故事中不仅涉及生物科技的诡异性与实验道德的模糊，还隐含了关于性别与身份认同的潜在探讨。文中还有许多关于选择与自身形象的思考。整体上，该文复杂地结合了科幻、心理和伦理的元素，同时具有视觉与情感的双重冲击。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_〔皮物置换〕皮囊（前）：美梦开始.doc]([皮
 | Size            | 60928 bytes                           |
 | MD5             | 9237ed1f70b8a5d1ce330735e183ba0e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 实验, 秘密基地, 科技, 生物实验, 性别置换, 恐怖, 科幻, 身份认同, 兴奋与绝望, 选择, 心理冲突, 男性视角, 夜幕                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_疯狂科学家的宠物（4）（完）.docx]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于性别变换与性探索的小说，故事围绕角色欧文和珍妮展开，充满了强烈的性暗示和争夺控制权的情节。欧文将珍妮视为自己的宠物，并通过各种手段强化对她的控制，幻想着与她建立一个家庭。随着情节的发展，珍妮逐渐意识到自己在欧文的操控之下，她的内心冲突愈发明显。内容中涉及到的许多情节都暗示了性行为和身体改造，尤其在地下室实验室的设定下，珍妮与欧文之间的互动显得更加复杂和微妙。珍妮在故事中表现出对自己处境的无奈，同时也渴望反抗。小说中出现了对暴力和强制行为的描绘，展示了角色之间扭曲的权力动态和心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_疯狂科学家的宠物（4）（完）.docx]([变身]_�
 | Size            | 25896 bytes                           |
 | MD5             | c8001bf340c986c70956544a3de6381a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 跨性别, 心理探索, 控制与反抗, 伪娘, 强制行为, 实验室设定, 性欲与控制, 二次元, 性别认同, 愚蠢的玩偶, 性玩具, 自我认知, 暴力与屈从, 情感冲突, 伪娘文化, 反抗与服从                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

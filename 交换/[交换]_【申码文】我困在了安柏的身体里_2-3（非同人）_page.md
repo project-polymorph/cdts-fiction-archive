@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_2-3（非同
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一部关于性别转换的小说，叙述了一个男性角色意外变成女性角色安柏后所经历的心路历程和情感冲突。故事以第一人称的方式展开，主角在医院中经历了逆行性失忆，试图适应自己居然成了安柏的现实。主角不仅要面对没有记忆的窘境，还需要应对安柏的未婚夫乔希对其的强烈追求以及不断涌来的身份认同问题。伴随着对身体变化的震惊和恐惧，主角在寻找适合自己的衣物时感受到与安柏身体之间的巨大差异，与此同时，家庭的摩擦和情感纠葛也使得主角感到困惑和无助。这种身体的束缚和心理的窘迫，构成了故事主要的张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_2-3（非同
 | Size            | 58368 bytes                           |
 | MD5             | 036d55a7e94396dff8cebdf0bfd81ab4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 跨性别, 家庭伦理, 心理斗争, 情感纠葛, 自我探索, 强迫求欢, 逆行性失忆, 二次元小说, 性别认同, 身份危机, 青春成长, 性别角色, 虐心, 悬疑, 内心独白, 细腻描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

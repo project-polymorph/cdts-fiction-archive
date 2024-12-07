@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【少前文】《身为指挥官的我为什么被装罐�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一部名为《身为指挥官的我为什么被装罐成了战术人形》的变身小说，设定在2062年，发生在S114战区的格里芬基地。故事以少数几位年轻的角色为主要视角，围绕指挥官如梦及其团队的日常和突发战斗展开。在一开始的轻松场景中，几位角色在办公室中闲聊，探讨着各自工作与生活中的琐事，描绘了充满青春气息的生活状态。然而，随着警报声的响起，情节转向紧张的战斗局势，敌方的空袭和基地内的混乱使得角色们迅速投入到战斗中，展现出他们的应对策略和战斗决策。文中对角色的外貌、性格、背景进行了细腻的描写，不仅增强了故事的立体感，同时也反映出战斗中的紧张与压迫感。最终，随着战斗的升级，格里芬基地面临着严峻的挑战，角色们不得不面对生死存亡的危机。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【少前文】《身为指挥官的我为什么被装罐�
 | Size            | 40448 bytes                           |
 | MD5             | 93e3d90d20fa708e638f7be8163be38b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 伪娘, 跨性别, 战斗冒险, 青春, 格斗, 科技幻想, 心理抗争, 军事, 团队合作, 角色发展, 科幻设定, 敌我对抗, 危机处理, 战术决策, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

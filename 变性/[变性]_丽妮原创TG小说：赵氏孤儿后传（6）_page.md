@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（6）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由作者丽妮创作的 TG 变身小说《赵氏孤儿后传（6）》。故事围绕角色红蚌和男主之间的感情纠葛展开，描绘了一场充满性别认同与自我探索的亲密关系。文本细腻地描写了男主对女性身体的好奇与探究，以及与红蚌之间的情感深度。文中多处涉及细腻的情感交流与身体接触，揭示了角色在性别与身份认同中的挣扎。小说包含较多限制级内容，包括但不限于性行为的详细描写，如“她说，这叫品萧，是百媚馆必学的技艺之一”，展示了角色间复杂的情感与心理变化。此外，文本还包含对角色内心的深度刻画，展现了对初恋及性理解过程的探索和认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丽妮原创TG小说：赵氏孤儿后传（6）.docx]([�
 | Size            | 19561 bytes                           |
 | MD5             | 6515bcc2b3c253136d72f144513b098c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 丽妮                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 情感交流, 初恋, 性别认同, 自我探索, 限制级内容, 伪娘, 男主角, 女性角色, 性教育, 情欲, 甜蜜, 奇幻, 古代, 武侠, 统治与服从, 情感混乱, 复杂心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

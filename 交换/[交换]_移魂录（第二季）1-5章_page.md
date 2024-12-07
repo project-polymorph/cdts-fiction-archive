@@ -7,7 +7,7 @@ TXT 下载: [[交换]_移魂录（第二季）1-5章.docx]([交换]_移魂录（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为伪娘与跨性别相关的小说，包含第一季名为《不稳定的传送门》的内容摘要和主人公的日常故事。故事的开头介绍了主人公东东的生活，他在城市中打工，讲述了他的工作与生活的艰辛，特别是与同事的关系。当某天，一个神秘的女孩突然出现在他家门口，东东无意间成为救助者，陷入她与丧失人身自由的少女们的复杂事件中。文中的奇幻元素与现实的交织，使得故事情节引人入胜。故事涉及到角色的性别议题、拯救与探索自我的意识。后续章节展开了两人之间的互动及女孩的身世掩藏着更大的秘密。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_移魂录（第二季）1-5章.docx]([交换]_移魂录（
 | Size            | 48260 bytes                           |
 | MD5             | e633ab95d62de7919c1bacaef1b4bd45                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 奇幻, 悬疑, 自我探索, 救助, 失忆, 灵异事件, 都市生活, 性别认同, 性转, 斗争, 爱情, 探险, 角色扮演, 幻想文学, 虚拟现实, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

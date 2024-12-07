@@ -7,7 +7,7 @@ TXT 下载: [[附身]_游泳衣_(4).doc]([附身]_游泳衣_(4).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个关于角色附身的故事。主角突然发现自己进入了一个叫林丹丹的女性体内，不知如何回到自己的身体。在故事中，主角进入林丹丹的身体后一系列诙谐而混乱的情节展开，涵盖了角色对自己新身份的迷茫与探索，以及对周围环境和情感的逐步适应。文中提到主角的内心挣扎：‘没想到我小看了她，一个区区的医务室护士，居然十分烦人，懂的也太多了’。此外，主角与周围其他角色的互动，以及对身体变化的感知，都充满了想象和细节描述，强调了对性别与身份认同的关系。文中穿插了多种心理活动和性别认知的冲突，展现了当事人出乎意料的心理变化，呈现出一种奇幻且幽默的氛围。尽管存在 confusion，角色对着电话与“妈咪”的对话也透露出一种温情，这增加了故事的深度和复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_游泳衣_(4).doc]([附身]_游泳衣_(4).doc)
 | Size            | 38912 bytes                           |
 | MD5             | 7d8f6fb6c3deee9ca1898acc4cc2d327                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身, 跨性别, 自我认知, 身份冲突, 病房, 护士, 游泳衣, 性别转换, 青春期探索, 精神体, 奇幻, 二次元, 幽默, 人际关系, 温情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

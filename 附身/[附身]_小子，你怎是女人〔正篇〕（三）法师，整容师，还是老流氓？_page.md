@@ -7,7 +7,7 @@ TXT 下载: [[附身]_小子，你怎是女人〔正篇〕（三）法师，整�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说的档案，作品名《小子，你怎是女人〔正篇〕（三）法师，整容师，还是老流氓？》。故事围绕角色酒野英子的奇异变身经历。她在经历身体的性别转换后，感受到了一种全新的自我认知和对自己的探索，尤其是这些探索带来身体和心理上的矛盾感。作品中描述了她对自己身体变化的初步感受与反应，伴随着性欲与对自我身份的困惑。部分情节涉及到性幻想与自我愉悦的细节描写，展现了酒野英子在变身后面对新身份的心理斗争与接受过程。文章从酒野的视角切入，描绘了她对身体的重新认识，以及对她过去与现状的思考。同时，文中也提到其他角色如老川岛的影响，增添了故事的情感层次和复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_小子，你怎是女人〔正篇〕（三）法师，整�
 | Size            | 36546 bytes                           |
 | MD5             | cc3bcbd1350ee9e4c2fb0dd980c109ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 身体认同, 自我探索, 调教, 强奸, 浑身酸麻, 寻求解释, 内心斗争, 婚姻, 情感关系, 女性视角, 医学幻想, 爱情, 幻想, 心理冲突, 日本文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

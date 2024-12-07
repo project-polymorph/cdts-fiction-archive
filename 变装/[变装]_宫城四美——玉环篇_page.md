@@ -7,7 +7,7 @@ TXT 下载: [[变装]_宫城四美——玉环篇.doc]([变装]_宫城四美—�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档呈现了一个以杨宇桓为主角的小说，描绘了他作为一名男教师获奖的场景与内心冲突的复杂情感。故事开头，杨宇桓在颁奖典礼上接受“教坛新秀”的奖项，心中满是自豪与幸福，然而，他内心深处却隐藏着不可告人的秘密：他在夜总会中打扮成女性以生计为生。这一身份的双重生活带来了强烈的认同冲突和羞耻感。在与同学们的互动中，杨宇桓的性别身份引发了一系列的情感纠葛，尤其是与女同学韩梅之间未解的情愫。随后，故事描绘了杨宇桓在夜总会的经历，他被迫穿着女性服装，接受客人的服务，这种转变不仅让他感到耻辱，更是对他自我认同的挑战。文中详细叙述了他的穿衣过程、化妆和与顾客的接触，突显出他在性别认同和社会期待之间的挣扎与痛苦，也反映出社会对性转与跨性别话题的复杂态度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_宫城四美——玉环篇.doc]([变装]_宫城四美—�
 | Size            | 47104 bytes                           |
 | MD5             | a81900e0e20f655853e0b2cf29bbc97f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 性别认同, 夜总会, 援交, 教育工作者, 情感纠葛, 青少年, 自我冲突, 女性化, 社会压力, 角色扮演, 性转, 黄段子, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

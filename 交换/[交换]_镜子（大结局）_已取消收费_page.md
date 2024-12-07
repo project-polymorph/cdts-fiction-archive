@@ -7,7 +7,7 @@ TXT 下载: [[交换]_镜子（大结局）_已取消收费.docx]([交换]_镜�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于夏菜在经历性别转换和人际关系复杂性后的故事。故事开头描绘了夏菜在逃离镜子困境后的自我认同与自我欣赏；她享受着新获得的性感美丽的身体，并对自己的过往进行反思。随着情节的发展，夏菜与她的妹妹夏萌及新郎宋卡之间的关系逐渐展开。尽管外表光鲜亮丽，但夏菜内心深处有着愁苦，她的妹妹因无法面对姐妹间复杂的情感而自杀，夏菜对此的反应更是复杂微妙。故事中的关键点是夏菜对宋卡的复仇，揭开了她内心的痛苦与愤怒，她对过去的压迫进行了一场极端而暴力的解脱。最终在情感与人性交织下，故事以夏菜将镜子丢入大海作为象征，结束了这一切的纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_镜子（大结局）_已取消收费.docx]([交换]_镜�
 | Size            | 19382 bytes                           |
 | MD5             | 9057e4fd6b5a7a8b2a280db8de108f66                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 复仇, 跨性别, 人际关系, 自我探索, 心理斗争, 家庭悲剧, 暴力, 婚礼, 超自然, 镜子寓言, 情感深度, 美丽与痛苦, 内心的挣扎, 自恋, 心理创伤, 错位的爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

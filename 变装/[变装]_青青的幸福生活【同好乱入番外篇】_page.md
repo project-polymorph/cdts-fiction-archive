@@ -7,7 +7,7 @@ TXT 下载: [[变装]_青青的幸福生活【同好乱入番外篇】.doc]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘TS变身小说的番外篇，标题为《青青的幸福生活》。内容描写了角色在被调教和淫虐中的心理状态与生理反应，涉及角色的自我认知与性别认同的复杂情感。故事从角色"诗韵"在电脑前阅读小说的场景开始，随后描绘了她在小说中的身份与经历，包括被伪娘调教的细节和自我沉沦的过程。文中大量涉及调教、性虐待及角色转变的情节，表现出强烈的性暗示和生理反应，例如淫水喷射、身体的快感与疼痛交织等。调教过程充满权力的转变，表现了角色在不同身份间的感知和接受，反映出对性别与身份的复杂态度。文字间夹杂有激烈的情感与生动的细节描写，构成一幅扭曲而淫乱的情感画面，为读者呈现了一段关于性别和性关系的扭曲故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_青青的幸福生活【同好乱入番外篇】.doc]([变
 | Size            | 37888 bytes                           |
 | MD5             | f052cc99060d2b4a43ab0cb1a4204cee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 调教, 强奸, 乱伦, 淫荡, 女仆, 性转, 逆后宫, 调教, 强虐, 冒险, 魔法, 激烈情感, 自我认同, 角色扮演, #小说, 性别探索, 成人内容, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

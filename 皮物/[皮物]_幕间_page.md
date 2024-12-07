@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_幕间.doc]([皮物]_幕间.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇包含丰富情节和复杂人物关系的性转、吸血鬼题材短篇小说，主要讲述了两个少女之间复杂而紧张的互动。故事围绕着洛音与她的好友小芊展开，洛音在小芊的生日时为了救她，卷入了一场惨无人道的吸血鬼游戏中，面临生死考验。文中描绘了吸血鬼对人类的调戏与威胁，以及洛音在绝望中寻找解救小芊的方法。可以看到吸血鬼少女的狡诈与残忍，她利用了洛音的情感，让她沉浸在恐惧与欲望的交错中。文中出现了大量涉及性暗示与挑战道德界限的细节，粒度较高，暗示了人际关系的复杂性与自我认知的迷失。作品通过极具想象力的设定和细腻的情感描绘，展现了角色在变身、性别转换与吸血鬼主题下的探讨与体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_幕间.doc]([皮物]_幕间.doc)
 | Size            | 37888 bytes                           |
 | MD5             | 6fe7430076b9f4d11378ad7df0930744                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 吸血鬼, 伪娘, 变身小说, 奇幻, 少女, 爱情, 强奸, 百合, 惊悚, 黑暗幻想, 自我认同, 恐怖, 青春, 女性视角, 禁忌关系, 情感游戏, 悬疑, 心理, 科幻, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

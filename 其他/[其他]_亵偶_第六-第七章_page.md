@@ -7,7 +7,7 @@ TXT 下载: [[其他]_亵偶_第六-第七章.docx]([其他]_亵偶_第六-第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是伪娘 TS 变身与跨性别相关小说的一个章节，讲述了郑拓和尹平的故事，涉及意识转移、亲情与自我探索的复杂情感。故事背景设定在一个充满科技感的未来世界，郑拓面临亵偶意识失踪的神秘事件，内心矛盾重重。他在梦境中不断回忆起自己与家人的往昔，并面临对科技与人性冲突的深刻思考。尹平在同母亲的亵偶之间寻求真相，以及自己家庭破碎的原因。文中提到的亵偶不仅是机械存在，同时承载着一种失去的情感与身份认同的困惑。追寻父母之死的真相、对AI与亵偶的质疑，体现了一个关于人类伦理与科技边界的探讨。在情节上，包含了诸多引人深思的情感冲突与心理挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_亵偶_第六-第七章.docx]([其他]_亵偶_第六-第�
 | Size            | 23206 bytes                           |
 | MD5             | 1aa23a9d34ffb27dfe611ceee2044c13                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 跨性别, 意识转移, 伪娘, 情感困惑, 人性与科技, 家庭破碎, 自我探索, 亲情, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

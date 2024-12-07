@@ -7,7 +7,7 @@ TXT 下载: [[改造]_聖魔邪靈第二部第一集.doc]([改造]_聖魔邪靈�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《圣魔邪灵》系列小说的第二部第一集，字数达到94808字，由白纸和 e7 I5 O0 G5 s 编写，首次发布于2018年10月7日。故事延续了前九章节的设定，主角伊斯特在经历了种种磨难与转变之后，再次登场。内容围绕伊斯特与碧莉丝等角色展开，描述了伊斯特被邪灵附身、变身与对抗的故事情节。在这一集中，伊斯特的角色被赋予了灾难性预言“吞妖狂王”的名号，他在经历设定的困境后，企图重获自由与力量。同时，碧莉丝作为人族公主经历了被强暴及堕落的痛苦过程，展现了她在权力与命运之间的挣扎。情节中插入了大量禁忌与成人内容，涉及轮奸、调教、强迫与自我认同的探讨，反映了角色们对于性与权力的复杂态度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_聖魔邪靈第二部第一集.doc]([改造]_聖魔邪靈�
 | Size            | 428032 bytes                           |
 | MD5             | 21a71ebfff0945e222c8d70016db5a4a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 白纸& e7 I5 O0 G5 s                               |
+| Region          | 未知                               |
+| Date            | 2018-10-07                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 调教, 淫乱, 强迫, 魔法, 邪灵, 少女, 堕落, 百合, 情感探索, 力量斗争, 虚拟现实, 古代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

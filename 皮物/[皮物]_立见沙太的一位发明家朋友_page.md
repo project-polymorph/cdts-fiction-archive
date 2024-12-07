@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_立见沙太的一位发明家朋友.doc]([皮物]_立见�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描述了一个以跨性别和性别转换为主题的故事，主角立见沙太是一名学生，故事围绕他与好友大宫彩彦的互动展开。彩彦是个极具创造力的‘学园发明家’，而他的发明往往奇特且无厘头。文中介绍了沙太对彩彦的想念，以及彩彦通过一封诱惑的纸条邀请沙太来到他的秘密基地。到达秘密基地后，沙太意外遇上了一个魅魔，并被吸引入一系列性感的情节中，魅魔的身份以及她与彩彦的关系不仅令沙太困惑，还种下了更深的疑问。故事深入探讨了性别认同与性别转变的主题，同时呈现了角色之间的性关系和幻想。文中包含较多成人向内容，尤其是对魅魔与沙太之间亲密行为的直白描写，反映了性别与身份认同的混乱与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_立见沙太的一位发明家朋友.doc]([皮物]_立见�
 | Size            | 90624 bytes                           |
 | MD5             | 93ef14e775af29284c06b910a43dc3bb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 魅魔, 创意发明, 性幻想, 青春, 校园, 奇幻, 性别认同, 女性视角, 角色扮演, 诱惑, 秘密基地, 青少年, 文学作品, 奇特道具, 科幻, 恋爱, 友情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【已取消付费】《这就是崩坏》1、为世界上
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是基于二次元主题的小说片段，可能属于变身或性转类作品，情节围绕着名为“舰长”的角色与多个少女之间的互动展开。开篇描述了舰长在未知的环境中，受到名为琪亚娜的少女的拉扯，表现出一种迷茫和无助。琪亚娜拥有令人印象深刻的外表，其清澈的蓝眼睛和白发给人以强烈的吸引力，并且展现出一种非凡的亲近感。随着故事的发展，舰长发现自己失去了记忆，周围的环境充满了各种少女形象，包括琪亚娜和其他角色，她们之间关系的复杂与微妙逐步展现。在人物之间的互动中，夹杂了亲密的肢体接触和暧昧的情绪。文中通过细腻的描写，建立起一种强烈的情感张力和对角色身份的探索，揭示人们在性别认同与人际关系中的挣扎与诉求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【已取消付费】《这就是崩坏》1、为世界上
 | Size            | 34790 bytes                           |
 | MD5             | a4620d16f700e62229c5e284dda2a87e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 青春校园, 迷失记忆, 角色关系, 二次元, 少女, 科幻, 自我探索, 情感纠葛, 多重身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

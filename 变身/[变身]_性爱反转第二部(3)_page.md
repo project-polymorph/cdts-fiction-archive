@@ -7,7 +7,9 @@ TXT 下载: [[变身]_性爱反转第二部(3).docx]([变身]_性爱反转第二
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是以伪娘和变身为主题的跨性别小说的一部分，叙述了主人公陶德的身体和身份的变化过程。文章通过详细的描写展示了陶德逐渐适应性别转变后的生活，包括他的心理变化和与另一名角色（凯茜）的复杂关系。故事围绕陶德从一个普通男孩变身为伪娘的历程展开，描述了他的情感挣扎、对自身外表的认知以及在约会中所经历的尴尬与期待。
+
+文中提及陶德原本的男性身份逐渐被抹去，他面临的社会压力和心路历程，比如在和凯茜约会时需要穿上女装的心理慌乱。作品展示了现代社会对于性别和性别认同的探讨，以及角色之间微妙的情感变化，通过对话和内心独白展现了性别转换的挑战和复杂性。逐渐的，他开始接受新的自我，通过与凯茜的约会体验，陶德开始探索并接受新的身份，而这个过程也伴随着对自身性别认同的认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_性爱反转第二部(3).docx]([变身]_性爱反转第二
 | Size            | 24975 bytes                           |
 | MD5             | c4aee2fc0e406dd9cfdc7dbcd11b5117                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 约会, 自我探索, 情感冲突, 青春, 成长, 变嫁, 二次元, 幻想, 性转, 恋爱, 心理变化, 社会压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

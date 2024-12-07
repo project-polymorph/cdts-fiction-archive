@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_TG物语——影子（一至六）.doc]([皮物]_TG物语
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《影子》是一部涉及性别变换与自我认知的小说。故事围绕着一个习惯于凌晨慢跑的主角展开，他在一个秋夜的慢跑中偶遇一位身材苗条、衣着时尚的长发女孩。在对女孩的好奇和暗恋之下，主角的注意逐渐从女孩转移到了自己的影子，发现自己的影子呈现出异常的红色，并与女孩的影子开始产生奇妙的联系。随着情节的发展，主角目睹了其影子与女孩影子的融合，经历了一场充满悬疑和恐怖的事件。最终，女孩的失踪令主角陷入深深的恐慌与恐惧之中，情节中渗透着关于欲望与占有的主题，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_TG物语——影子（一至六）.doc]([皮物]_TG物语
 | Size            | 54784 bytes                           |
 | MD5             | 6988d4366b0c1b540a64368eb443460d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 都市幻想, 心理描写, 自我探索, 奇幻, 悬疑, 超自然, 红色影子, 青春期焦虑, 爱情, 欲望, 异次元, 心理恐怖, 奇怪的光晕                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

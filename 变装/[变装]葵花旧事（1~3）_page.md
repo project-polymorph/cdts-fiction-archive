@@ -7,7 +7,7 @@ TXT 下载: [[变装]葵花旧事（1~3）.doc]([变装]葵花旧事（1~3）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《葵花旧事》是一部涉及性别转换与历史背景的小说，故事围绕在永乐九年的寻甸府展开。主要角色包括一位锦衣卫百户和他的少爷，这个少爷年仅十岁，尚在学习与修行过程中，通过对佛教经典的背诵和练习内功，展现出他从小的纯真与刻苦。百户在临行前叮嘱老仆和少爷，情感细腻，充满了父子之间的关怀与牵挂。随着剧情的发展，三年后百户回到家中，发现少爷已长大，并与周围的环境及人际关系产生了微妙的变化，暗示着未来的情节发展。小说涉及的主题包括性别认同、自我探索和社会关系等，借助历史背景与人物内心的波动，展现了复杂的人性与情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]葵花旧事（1~3）.doc]([变装]葵花旧事（1~3）.do
 | Size            | 122368 bytes                           |
 | MD5             | a5c76a64b5732991c5b9adc190a94158                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 历史小说, 父子关系, 成长, 内功修炼, 自我探索, 时代背景, 锦衣卫, 情感羁绊, 少爷, 长大, 个人武术, 社会人际, 古代故事, 性别认同, 人生哲学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [荆棘鸟之歌（中二）（下）.doc](荆棘鸟之歌（中二�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一个名为"荆棘鸟之歌（中二）（下）"的小说章节，故事围绕主角安北展开，她在经历了身份的转变后，逐渐接受自己变成女性角色顾安安的事实。故事开篇描绘了安北在学校中的漫步，探索着她的新身份，随着剧情的发展，感受到了顾安安的身体和记忆之间的奇妙联系。安北体会到作为一个女孩子的细腻感受与社会交往的微妙，内心充满了对新身份的恐惧与期待，开始接受自己新的生活，逐步融入顾安安的日常生活。故事中不仅涉及校园生活、身份认同的困惑，还探讨了记忆的回归和自我认知之间的冲突。格局描写了安北在餐厅中的用餐体验和与好友的互动，表现出她对顾安安记忆的逐渐接受和对新生活的思考，引发了对她过去平凡生活的回忆和不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [荆棘鸟之歌（中二）（下）.doc](荆棘鸟之歌（中二�
 | Size            | 56832 bytes                           |
 | MD5             | c4fec25f369f8a049a57db417d37e584                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 校园生活, 自我探索, 女性视角, 代入感, 情感挣扎, 青春期, 记忆回归, 身份转变, 奇幻, 伪娘, 成长, 心理冲突, 人与人关系, 女性情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

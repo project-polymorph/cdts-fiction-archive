@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_乳胶衣生活2.docx]([皮物]_乳胶衣生活2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说是关于一位名叫王凯的角色，他在一家废品站工作。故事开始时，王凯穿着一件乳胶衣，正在与他的老板刘叔对话。刘叔让王凯送一件物品到一个被称为'鬼屋'的神秘地址，王凯对此感到极度恐惧，因为那里传闻有许多人进去后就再也没有出来。尽管如此，王凯决定挑战自我前往那个地方，他在路上平静得很，然而经过鬼屋的外围时，他感到了一股无形的恐惧。小说中描述了王凯在送货途中遇到的奇异情况，包括碰到一个外形模糊的人，随后被要求跟随这个人到屋子的主人。故事包含了恐怖元素，并将乳胶衣与神秘和未知的情境结合在一起，突显角色内心的恐惧与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_乳胶衣生活2.docx]([皮物]_乳胶衣生活2.docx)
 | Size            | 16617 bytes                           |
 | MD5             | 93d76c8573ccdcb6fbb8469f46f49690                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 乳胶, 鬼屋, 恐怖, 自我探索, 克苏鲁神话, 性别认同, 幻想, 都市奇幻, 心理斗争, 异世界探险, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

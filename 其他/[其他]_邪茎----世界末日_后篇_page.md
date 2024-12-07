@@ -7,7 +7,7 @@ TXT 下载: [[其他]_邪茎----世界末日_后篇.docx]([其他]_邪茎----世
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部围绕博士和李拓之间的对话展开的小说，内容涉及性转、变身以及一些具有争议性的情节。小说描绘了博士利用一种叫做“邪茎”的药剂，进行各种药理实验和性别转换的过程，尤其是利用药剂将女性尸体复活并成为性奴隶。整个过程充满了针对性别与身体物质的伦理挑战，同时也展现了药剂的多种效果，包括性别模糊、灵魂种子的概念以及暴露的性行为。通过博士的实验与李拓的反应，揭示了角色之间微妙且扭曲的关系，以及关于权力、性和生命的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_邪茎----世界末日_后篇.docx]([其他]_邪茎----世
 | Size            | 24811 bytes                           |
 | MD5             | fac10f428fc6d4f2a50e273e42792f0e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变态药剂, 复活, 性奴, 尸体重生, 变身, 跨性别, 权力关系, 性行为, 实验伦理, 药物效果, 心理冲突, 人际关系, 奇幻科学, 黑暗幻想, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

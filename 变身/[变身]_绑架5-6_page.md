@@ -7,7 +7,7 @@ TXT 下载: [[变身]_绑架5-6.doc]([变身]_绑架5-6.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一部伪娘 TS 变身小说的第五章，讲述了主角祝天在被绑架后所经历的极端耻辱和角色转变的过程。故事开始时，祝天感到自己的身份和性别身份出现了剧烈的冲突，她尝试回忆起自己作为男性的身份，并对自己被迫接受的女性角色感到极度羞耻。在被颈环控制的情况下，她被迫与男性发生关系，感受到女性快感的束缚和对自身身份的绝望挣扎。随着故事的发展，祝天意识到自己不再被当作男人，而是被迫沦为一个被控制与羞辱的“卖淫女”。她的心理斗争掺杂着极度的羞愧和生理的快感，形成了强烈的自我矛盾。这一章着重表现了这些情感之间的冲突和转变，同时展示了主角在被操控状态下的屈服与对自我的放弃。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_绑架5-6.doc]([变身]_绑架5-6.doc)
 | Size            | 53760 bytes                           |
 | MD5             | 3808363e151d3d2a455a82e17ad521d5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 心理斗争, 自我认同, 强控制, 耻辱, 肉欲, 绝望, 角色扮演, 性快感, 女性化, 绑架, 调教, 卖淫, 群体性行为, 非自愿性, 伤害, 羞愧, 强迫, 精神控制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

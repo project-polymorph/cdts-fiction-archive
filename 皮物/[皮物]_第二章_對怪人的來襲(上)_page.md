@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_第二章_對怪人的來襲(上).docx]([皮物]_第二章
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说是关于一个怪人角色的故事，叙述了他在流月学园周围的生活和挑战。故事开始时，怪人试图逃避追捕，但遇到了名为‘礼奈’的女学生，她显然有着非凡的力量，甚至能够轻松地打破金属告示牌。怪人在公园中进行跑步训练，同时在试图维持自己的伪装。他通过使用特殊的药剂改变了自己的体型，表现得相当自然。然而，在与礼奈的对抗中，他发现自己的伪装受到了意想不到的挑战。礼奈不仅是同学，她似乎还在追踪他，这让他不得不时刻保持警惕。整篇故事展示了怪人从自我探索到被他人发现的过程，涉及自我认同和性别角色的冲突。主角的内心独白展现了他的矛盾和复杂的心理状态，并通过幽默的方式描绘出日常生活中的小插曲与冒险。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_第二章_對怪人的來襲(上).docx]([皮物]_第二章
 | Size            | 18831 bytes                           |
 | MD5             | 4585c9da24b794c26f8cf61393f79572                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 校园冒险, 自我探索, 奇幻, 幽默, 超能力, 青春, 人物成长, 伪装, 敌对关系, 轻小说风格, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

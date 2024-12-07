@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《单性异世界II》　第2章　可可馆.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《单性异世界II》的第2章，主要描绘了角色珍美与另一主角的互动过程。故事中珍美似乎正面临着被误解为奴隶的情境，引发了一系列幽默而又尴尬的对话。作者通过角色间的对话展现了独特的世界观设定，例如提到‘润雨性技学园’，并戏谑地探讨了该学园的校规。此外，角色之间的关系复杂，涉及了性别、社会身份等主题，其中夹杂着自我认知与身份认同的悖论。当主角在异世界中尝试适应新的生活时，也逐渐揭示了该世界的社会习俗。文本中混合了轻松幽默的对白与对性别认同的探讨，显示了作者对该类型题材的独特理解与表现力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《单性异世界II》　第2章　可可馆.doc]([变身
 | Size            | 43520 bytes                           |
 | MD5             | 8c4b03dc57e80eca39984b78083b7137                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 异世界, 校园, 娱乐, 亲密关系, 身份认同, 轻小说, 性技术, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

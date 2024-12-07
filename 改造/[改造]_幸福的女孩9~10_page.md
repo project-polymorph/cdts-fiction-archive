@@ -7,7 +7,7 @@ TXT 下载: [[改造]_幸福的女孩9~10.doc]([改造]_幸福的女孩9~10.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档主要讲述了一场婚礼的场景与情感冲突，围绕角色苏子若的内心感受展开。故事中的新娘苏子若在婚礼中经历了紧张、激动以及幸福的情感。从迎亲的婚车到婚礼现场，苏子若经历了一系列繁琐而又温馨的仪式，她与新郎李昊的誓言令人感动。然而，故事却暗含了一丝悬念与痛苦，真正的苏子若被另一个“自己”所取代，处于一种被束缚的状态中，观看着她的替身替她参与婚礼，承受着巨大的心灵痛苦。最终，婚礼虽有声势浩大，但苏子若深深担忧自己的真正身份是否会被揭露，期待着李昊能够发现真相。文档结合了爱情、身份认同与自我探索的主题，展现了一场表面幸福却暗藏矛盾的婚礼。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_幸福的女孩9~10.doc]([改造]_幸福的女孩9~10.doc)
 | Size            | 35328 bytes                           |
 | MD5             | 034b9c2fca74e674b6d85a5a8feb4410                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 婚礼, 伪娘, 跨性别, 情感冲突, 自我认同, 变身, 爱情, 悲剧, 身份, 心理斗争, 替代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

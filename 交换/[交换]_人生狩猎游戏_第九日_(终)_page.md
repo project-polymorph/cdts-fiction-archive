@@ -7,7 +7,7 @@ TXT 下载: [[交换]_人生狩猎游戏_第九日_(终).doc]([交换]_人生狩
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件名为《人生狩猎游戏 第九日 (终)》，记录了一个充满紧张和心理博弈的狩猎游戏的最后日子。在这个故事中，角色王凡在经历了一系列的挑战后，终于回到公司，与宁凝一起探讨最终游戏的胜利者可能获得的奖励。游戏的核心围绕着一个名为“人生狩猎”的游戏，参与者不仅要面临其他对手的挑战，更需要与自己内在的冲突和变换的身体认同进行斗争。王凡为了迎接最终的狩猎，接受了复杂的心理训练，以应对能够读心的对手X。在此过程中，王凡重新审视自己的身份与责任，并参与了一场有关人性、自我认知和性别认同的深刻讨论。文件中涉及多次关于角色身份转换和心理状态的探讨，例如宁凝提到的“创造者是神吗？”和王凡在身体转换后的不安和适应。因此，这不仅是一个关于游戏的故事，更是关于人性的探索与角色认同的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_人生狩猎游戏_第九日_(终).doc]([交换]_人生狩
 | Size            | 59904 bytes                           |
 | MD5             | 88d763e5ff8a76284ecf7389e6147e28                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人生狩猎, 性转, 心理博弈, 角色认同, 跨性别, 自我探索, 游戏, 冒险, 情感纠葛, 身份变换, 最终狩猎, 荣耀与责任                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

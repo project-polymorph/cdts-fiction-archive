@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_通向女孩子的道路（一）.doc]([催眠]_通向女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部以催眠和跨性别为主题的小说，故事围绕一位名叫明人的年轻精神科医生展开。他运营着一家名为“imcsea脑波诊所”的小型诊所，专注于治疗异常性癖好，但由于缺乏患者和资金，经营状况不佳。故事开始于明人听到一起三岁儿童失踪案件的新闻，这让他感到心情沉重。随后，明人与一位自称早纪的女医生相遇，早纪对他所开发的脑波耳机表现出了浓厚的兴趣，并表示愿意资助明人的研究。早纪提问能否通过明人的设备将男孩的心灵转变为女孩的心灵，这引起了明人的警觉，但他也因早纪的资助而感到乐观。本故事探讨了性别身份的改变和自我认知的主题，同时有关催眠和洗脑的概念在故事中得到了展现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_通向女孩子的道路（一）.doc]([催眠]_通向女�
 | Size            | 56832 bytes                           |
 | MD5             | 901ac21138cb4e2800478a546933cf24                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 跨性别, 脑波诊所, 性别转换, 精神科医生, 早纪, 性癖好, 病态, 自我探索, 科技幻想, 悬疑, 心理治疗, 洗脑, 科幻, 性转, 异常癖好, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

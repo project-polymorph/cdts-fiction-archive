@@ -7,7 +7,7 @@ TXT 下载: [[附身]_兄弟附身美女医生给我偷情.doc]([附身]_兄弟�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇小说，名为《兄弟附身美女医生给我偷情》，讲述了主人公杨俊杰和他的死党张昊之间的友谊以及由一次意外引发的情感纠葛。故事开头，杨俊杰与女友赵可馨之间的关系面临考验，他们的互动展现了当代年轻人情侣之间的信任与误解。主角因意外受伤，被迫前往医院，而在医院的等待过程中，杨俊杰与女友的电话沟通逐渐揭示出两人之间的情感动态与潜在的情感危机。小说轻松幽默的基调与情感的冲突交织，使得故事充满趣味。同时，该文本包含性转题材及附身情节，涉及超现实与性别认同等主题，适合对跨性别及相关小说感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_兄弟附身美女医生给我偷情.doc]([附身]_兄弟�
 | Size            | 68096 bytes                           |
 | MD5             | bfa562614363199b383ad6b6589126a2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 出轨, 医院, 兄弟, 轻松幽默, 性别认同, 情感纠葛, 都市生活, 友谊, 青春校园, 变身, 现代恋爱, 情感冲突, 异性交往, 心理描写, 生活琐事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

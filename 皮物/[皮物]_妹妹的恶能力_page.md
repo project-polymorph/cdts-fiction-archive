@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_妹妹的恶能力.doc]([皮物]_妹妹的恶能力.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《妹妹的恶能力》是一个涉及伪娘（男娘）和变身主题的小说，讲述了一名兄弟与其妹妹之间的复杂关系。在故事中，哥哥作为主角，一开始与妹妹分享望远镜，并为她的成长感到骄傲。然而，事情迅速发生转变，哥哥受到妹妹的控制，体验了一次身体的彻底变化，变成了自己暗恋的女生思怡。文中描述了这一变身过程中的心理斗争和体态变化，涉及对性别认同和自身身份的思考。随着故事推进，哥哥的意识虽被封印，却以一种被动的方式目睹妹妹通过他变成思怡的模样，并感受到了前所未有的性别体验。文中包含了一些限制级的内容，描绘了对肉体和情感的探索，亦暗示了对日常生活中的性别角色和个人欲望的评析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_妹妹的恶能力.doc]([皮物]_妹妹的恶能力.doc)
 | Size            | 48128 bytes                           |
 | MD5             | 20224d15995365bbb7533998e06be37c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 性别认同, 自我探索, 校园爱情, 兄妹关系, 幻想, 心理斗争, 超自然力量, 魔法, 身份冲突, 性别角色, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

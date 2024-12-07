@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_監獄醫生的人格改造實驗.doc]([催眠]_監獄醫�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《催眠_监狱医生的人格改造实验》，描绘了一名监狱医师中田佑介的秘密研究项目，旨在通过脑医学技术改造囚犯的人格。故事介绍了中田医师的背景，他原本专注于脑医学，但因国家的委托而成为监狱医生，进行一项名为人格改造的实验。中田医师的计划是通过“复制粘贴”普通人的人格到犯罪囚犯身上，以此改变他们的人格，使其重新做人。文中详细描述了他与囚犯高桥圭吾的对话，探讨了高桥因不良人格而无法自我改变的痛苦，以及中田思考如何安全、有效地进行实验的复杂性。最终，他决定选择高桥作为第一个实验对象，并计划在与美容护士美波穗乃果的合作下进行人格转移实验。整个故事情节涉及伦理、人格认同、性别转换等深刻主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_監獄醫生的人格改造實驗.doc]([催眠]_監獄醫�
 | Size            | 51712 bytes                           |
 | MD5             | e3d294e62b7cc9129573ded0448b5655                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 监狱医生, 人格改造, 脑医学, 囚犯, 秘密实验, 性别转换, 自我认知, 医师与护士, 伦理, 犯罪心理, 催眠, 角色扮演, 科学幻想, 社会问题, 二次元, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

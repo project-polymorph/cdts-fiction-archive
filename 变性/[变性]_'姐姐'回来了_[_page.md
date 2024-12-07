@@ -7,7 +7,7 @@ TXT 下载: [[变性]_'姐姐'回来了_[.docx]([变性]_'姐姐'回来了_[.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇与变性和性别认同相关的小说，内容围绕着两个龙凤胎孩子唐玖和唐璇的成长故事展开。小说开篇描绘了穿着白色长裙的小女孩唐璇与外表和她几乎相同但自称为哥哥的唐玖之间的互动，唐璇一心想知道唐玖的性别真相。这一主题贯穿整个故事，唐玖在小璇面前承认自己实际上是男孩，却因为家庭教育，将哥哥唐玖养成了女孩的形象。novel中描写了唐玖对自己性别认同的内心挣扎以及与妹妹唐璇亲密的关系。小说中还穿插了对两人出生背景的回顾，强化了性别角色的探讨。整体情节充满了情感的冲突与自我认同的探索，展现了个体在性别认同过程中所经历的心理变化和家庭关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_'姐姐'回来了_[.docx]([变性]_'姐姐'回来了_[.doc
 | Size            | 21103 bytes                           |
 | MD5             | 5c91890b218b770eb838738914825aaf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 兄妹情, 自我探索, 龙凤胎, 伪娘, 成长故事, 情感冲突, 性别角色, 家庭关系, 童年回忆, 情感纠葛, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

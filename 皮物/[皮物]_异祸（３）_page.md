@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_异祸（３）.docx]([皮物]_异祸（３）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《异祸（３）》，是多元性别主题的小说，主要围绕角色的异能与身份探索展开。故事中，角色江语宁与许晓静的对话揭示了隐藏在家族关系中的秘密及能力的传承。江语宁的身份似乎并非简单，而他的父亲，实际是以许晓静的身份出现，以推理出他稀有能力的来由。情节深入探讨了异能者被组织控制和监禁的问题，许晓静还告诫江语宁，必须小心使用能力，以免被名为圣殿的组织发现。文件中包含了异能觉醒、家庭关系的复杂性和自我认同的问题，涉及心理冲突和情感变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_异祸（３）.docx]([皮物]_异祸（３）.docx)
 | Size            | 29921 bytes                           |
 | MD5             | 08a333f64436ee99f933557ac14827ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 异能, 家庭关系, 自我认同, 性别探索, 异性变身, 角色转变, 心理冲突, 隐藏能力, 父子关系, 圣殿组织, 都市幻想, 超能力, 虚构世界, 青少年成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_戲言01－公主.docx]([变装]_戲言01－公主.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是《戏言01－公主》的初始章节，描绘了一位名叫源辉的男生，他在学校生活中面临着性别认同与自我探索的内心挣扎。文中开头描述了源辉对可爱事物的热爱，但由于他是男生，这种情感让他感到羞愧与冲突。在一次老师的要求下，他被迫去送文件到服饰设计部，而这一举动成为他命运的转折点。当他进入服饰设计部时，眼前的各式女装与华丽的服饰深深吸引了他，尽管他在内心反复挣扎着是否能接受这些爱好。文中通过源辉的内心独白，描绘了他对女性服饰的羡慕与向往，同时也反映出社会对性别角色的限制与期待。这种情感冲突加深了文中对性别认同主题的探讨。文末，源辉在无意中触碰到一件女装，反映出他对自我的认知与渴望，这种转折设定了后续情节的发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_戲言01－公主.docx]([变装]_戲言01－公主.docx)
 | Size            | 52446 bytes                           |
 | MD5             | b7dbd91715573c0b63b93a3e3c153dbb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性别认同, 自我探索, 青少年成长, 校园生活, 内心挣扎, 华丽服饰, 梦幻, 情感冲突, 社交压力, 性别角色, 变身, 幻想, 美丽, 禁忌, 青涩恋情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

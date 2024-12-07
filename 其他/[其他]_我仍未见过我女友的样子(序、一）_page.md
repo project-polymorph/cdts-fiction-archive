@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我仍未见过我女友的样子(序、一）.docx]([其�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一个关于网络恋爱的小说片段，主要讲述了主人公与名为小唯的女孩通过网络相识并发展感情的过程。尽管两人从未见面，主人公却被小唯的性格吸引，进而产生了强烈的情感。故事中提到小唯有恋物癖，喜欢蒙面、穿丝袜和SM，这些独特的爱好似乎在吸引主人公的同时，也带来了不小的困惑。小说探讨了网络恋爱的虚幻与真实，主人公虽然渴望与小唯相见，但对小唯的真实身份却充满了好奇和忐忑。小唯的出现则进一步加深了这种复杂的情感，她不仅对自己的外貌持有不安，同时又渴望建立一种基于心灵的爱。总的来说，该片段展示了青春的懵懂、网络交往的独特性以及性别认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我仍未见过我女友的样子(序、一）.docx]([其�
 | Size            | 39472 bytes                           |
 | MD5             | 725c4d8e3de5f86a5943f47857ddf0c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 语冰泗非                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 网络恋爱, 恋物癖, 蒙面, 情感探索, 性别认同, 少女心, 恋爱心理, 浪漫, 初次见面, 性转, 跨性别, SM, 丝袜, 青春, 自我认知, 虚拟恋爱, 隐秘爱情, 爱情故事, 奇幻元素, 禁忌恋情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

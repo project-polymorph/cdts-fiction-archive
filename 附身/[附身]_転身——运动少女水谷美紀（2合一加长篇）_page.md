@@ -7,7 +7,7 @@ TXT 下载: [[附身]_転身——运动少女水谷美紀（2合一加长篇）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描写了一位名为佐藤优子的角色通过附身转变为另一名运动少女水谷美纪的故事。故事开始于优子赶往车站的路上，意外遇到了一名迷路的孩子，并因此进一步接触了一位母亲，她因临时情况被迫担任起孩子的母亲角色。优子逐渐意识到自己的性别和身份被改变，内心感到迷茫与矛盾。当她决定继续寻找一个适合自己的身体时，她选择了在路边跑步的运动少女。在描述了优子的内心挣扎与环境中复杂的关系后，文中以幽默和讽刺的方式铸造了优子附身后的新身份。水谷美纪在附身后的表现，展现了她对自己新身体的兴奋和自信，因此产生了一系列幽默而富有想象力的场景。文中不仅涉及角色之间的互动，还细致描绘了附身过程中的心理变化和身体感受，为读者提供了深入的角色体验。在这个过程中，故事探讨了性别认同和自我认知的主题，适合关注跨性别和性别流动性议题的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_転身——运动少女水谷美紀（2合一加长篇）
 | Size            | 25795 bytes                           |
 | MD5             | 5e42090e887876ca97bc6d87a3956efd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身小说, 运动少女, 自我探索, 性别认同, 幽默, 青春, 成长, 心理变化, 性别流动性, 佐藤优子, 水谷美纪, 现实与幻想, 交错身份, 情感纠葛, 二次元文化, 日本小说, NTR, 校园生活, 运动类, 母子关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

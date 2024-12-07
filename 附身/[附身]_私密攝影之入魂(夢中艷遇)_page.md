@@ -7,7 +7,7 @@ TXT 下载: [[附身]_私密攝影之入魂(夢中艷遇).doc]([附身]_私密�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档描绘了一段关于角色附身与探索他人隐私的奇遇，故事的主人公与伴侣在一次长途旅行中，经过一段美好的回忆与激情后，开始利用附身的能力体验他人身体的感觉。这种刺激的体验让他们逐渐沉迷于用他人身份的感觉，借此满足他们的好奇心和偷窥欲。随着故事的发展，他们与一位出租车司机的互动让他们获得了一个更好的住宿地点，而主人公在宿舍中发生了一系列梦境与现实混淆的情节，展现了对性的渴望与幻想。文中包含了一些色情内容，如对角色的详细描写和生动的性幻想场面，在深入探讨性欲和身体欲望的同时，也引发了对道德与伦理的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_私密攝影之入魂(夢中艷遇).doc]([附身]_私密�
 | Size            | 43520 bytes                           |
 | MD5             | 13308be1537a64b86c71644b192e21fd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 性转, 色情, 梦境, 偷窥, 旅行, 校园, 奇遇, 心态变化, 自我探索, 欲望, 身心交融, 性爱幻想, 角色体验, 出租车奇遇, 年轻人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

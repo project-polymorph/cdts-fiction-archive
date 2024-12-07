@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_罪恶契约（十）、（十一）爱与密谋.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于伪娘和跨性别主题的小说章节，标题为《罪恶契约（十）、（十一）爱与密谋》。本章节描绘了角色之间复杂的情感与欲望交织，主要通过奥洛妮夫人与安迪的互动揭示了性欲、身份认同与肉体体验的细腻描写。故事中，安迪与奥洛妮夫人之间的关系充满了肉体与精神的探索，彼此在性欲的冲击下产生的情感纠葛展现了人物的内心挣扎与渴望。文中详细描绘了奥洛妮夫人的身体感受及对快感的沉溺，涉及高潮、肉欲、甚至一些变身的情节，使得整个故事充满了戏剧性和紧张感。此外，安迪的复生与计谋也引发了对权力与身份的深层次探讨，展现了在面对欲望与自我认同之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_罪恶契约（十）、（十一）爱与密谋.doc]([皮
 | Size            | 46592 bytes                           |
 | MD5             | d79a8d07714d771b767575986bedd214                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 肉体欲望, 身份认同, 魔法, 情感纠葛, 高潮体验, 变身, 自我探索, 计划与背叛, 肉欲描写, 邪咒力量, 强烈情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_DN第三研究所（9-10）.docx]([附身]_DN第三研究�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描述性转及跨性别主题的小说片段，主要围绕角色小景的性别转变经历进行叙述。在故事中，小景经历了从男性到女性的转变，伴随着对自我身份认同的探索与挣扎。剧情中主要描绘了小景与两位角色白兰和秦云之间的互动，涉及到性别认同和心理变化的复杂情感。小景在浴室的情节尤为突显，该情节描绘了他/她对变身后的身体的感受和对自身性别的困惑。这些角色的互动充满了情色与自我探索的元素，包含了情感的冲突和性欲的表达。如白兰对小景的保护与关心，秦云对二人关系的调侃，均展现了复杂的情感交织和性别认同问题的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_DN第三研究所（9-10）.docx]([附身]_DN第三研究�
 | Size            | 33267 bytes                           |
 | MD5             | 4de9cccd0d08ad38088dc2935d512381                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我认同, 身体探索, 情感冲突, 浴室情节, 女性形象, 生理性别, 角色互动, 性欲表达, 自我冲突, 青春, 友谊, 二次元文化, 幻想小说, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

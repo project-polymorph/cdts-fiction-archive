@@ -7,7 +7,7 @@ TXT 下载: [[变身]_勇者教你如何驯服魔王（上）.doc]([变身]_勇�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容围绕一位魔族角色的冒险故事展开。在故事开头，魔族角色面对两个自称为‘勇者’和‘大贤者’的刺客，最初自信满满，认为能够轻易击败他们。然而，这种自满导致了意想不到的困境。随着战斗的展开，魔族遭遇到了不可抵挡的灵魂缚链，这一禁术让她的身体动不了，勇者趁机攻击她。在拼尽全力之后，魔族将自己的灵魂转移到贤者的身体里，试图伪装成贤者以达成反击勇者的计划。整篇故事充满了性别转换、自我认知的冲突，以及魔族对于人类感情的复杂探索。魔族最初的目标是击败勇者，但随着故事的深入，她开始接受和思考体内‘人类’的记忆，以及随之而来的情感波动，表现出对这个新身份的探索与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_勇者教你如何驯服魔王（上）.doc]([变身]_勇�
 | Size            | 85504 bytes                           |
 | MD5             | aac0228ba3e339c61af9239b8c25feb3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 魔族, 勇者, 大贤者, 灵魂转移, 冒险, 伪装, 战斗, 自我认知, 性别转换, 人类情感, 异世界冒险, 魔法, 心理斗争, 奇幻, 角色扮演, 魔法仪式                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_XES皮物会所（一）.doc]([皮物]_XES皮物会所（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部未来背景设定的伪娘和跨性别主题小说的章节摘录。故事围绕主角秦明及其妹妹秦月展开，他们在父母因飞行事故去世后，继承了巨额遗产，导致性格变化。秦明因玩世不恭、自甘堕落而被妹妹讨厌，妹妹则成长为一名成功的女强人。随着故事的发展，秦明接到了来自神秘俱乐部XES皮物会所的会员卡，卡片的内容暗示着参与穿戴人皮的活动，这引发了秦明的好奇心，进一步推动了情节的发展。文中通过秦明的视角，描绘出他对仿真人皮的渴望与社交活动的期待，并探讨了性别认同与角色扮演的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_XES皮物会所（一）.doc]([皮物]_XES皮物会所（�
 | Size            | 62464 bytes                           |
 | MD5             | b23af1a4c1d0e2a8ecafe8f2dd7827a6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 未来科技, 人皮穿戴, 虚拟现实, 伦理道德, 社会认同, 自我探索, 兄妹关系, 失去亲人, 金钱与堕落, 心理变化, 幻想, 俱乐部活动, 性关系, 身份转换, 情感冲突, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_绝地求生——皮物战争（二）.doc]([皮物]_绝�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《皮物——绝地求生——皮物战争（二）》是一部融合了伪娘、变身、跨性别等多元性别主题的小说。故事围绕角色陆星辰展开，他通过穿戴不同的皮甲完成生存挑战。在紧张的游戏环境中，陆星辰不仅面临外在敌人的威胁，还经历了身体和身份的变化。在文中，陆星辰为了获取战斗优势，遭遇了对死亡的恐惧与生理上的冲击，在一个生死攸关的时刻，他与一个女性角色的身体进行复杂而又紧张的“融合”。文中涉及大量的生存游戏元素与角色意识的转变，深刻展现了性别认同与身体转变的冲突，是一部风格独特的跨性别小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_绝地求生——皮物战争（二）.doc]([皮物]_绝�
 | Size            | 39424 bytes                           |
 | MD5             | 531a43143c1f3ee0d66d917808d78fcd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 皮物, 绝地求生, 伪娘, 变身小说, 跨性别, 生存游戏, 身体认同, 角色扮演, 异性恋, 性高潮, 皮甲, 触感, 战斗, 游戏元素, 生死攸关, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_仿皮客之小茹篇.docx]([变身]_仿皮客之小茹篇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为伪娘 TS 变身与跨性别相关小说的一部分，名为《仿皮客之小茹篇》。故事以张丽茹为主角，描绘了她在职场中面临的压力与诱惑，以及在个人形象转变过程中的心理挣扎。在故事开头，城市发生多起女性失踪事件，引出对安全问题的关注。同时，张丽茹因业绩不达标遭到经理的威胁与性骚扰，面临着道德与生存的双重考验。在更衣室里，她将自己的形象由保守转变为性感，试图迎合顾客的需求。在与男性客户的保险交易中，张丽茹感受到巨大的压迫与骚扰，内心愤怒与无助交织。故事以她遭到跟踪与攻击的情节发展，展现了她在黑暗中与自身恐惧和欲望的较量。文本中包含了一些重口味的情节，涉及性骚扰与恐惧的元素，适合于涉及性别认同与自我探索主题的研究和分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_仿皮客之小茹篇.docx]([变身]_仿皮客之小茹篇
 | Size            | 30852 bytes                           |
 | MD5             | 642b87af1705b9f5ff6ce3b9e8300996                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 伪娘, 性骚扰, 校园小说, 强奸, 夜晚追逐, 心理挣扎, 职场压力, 性感形象, 男性角色, 反乌托邦, 逃避现实, 社会问题, 保险业                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

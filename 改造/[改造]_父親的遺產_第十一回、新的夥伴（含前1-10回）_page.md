@@ -7,7 +7,7 @@ TXT 下载: [[改造]_父親的遺產_第十一回、新的夥伴（含前1-10�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部关于性别转变与继承的小说，主要讲述了男主角范文泰因父亲的去世而继承一间美容外科诊所的故事。在故事中，范文泰的父亲留下了丰厚的遗产，但条件却是要签署一份契约，成为一个神秘集团的‘实习院长’。随着故事的发展，主角逐渐意识到，这份遗产与他过去的生活有着深刻的联系，神秘的律师也暗示他可能会陷入灵魂的交易。文本中融合了变身、灵魂交易等元素，探索了男主角从一个无所事事的少年转变为一位医美诊所的负责人，以及他内心的矛盾与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_父親的遺產_第十一回、新的夥伴（含前1-10�
 | Size            | 168209 bytes                           |
 | MD5             | cbfa985c5f34b283029ef69f0a6b9f4b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 继承, 灵魂交易, 变身, 医生, 神秘集团, 重生, 心理斗争, 两性关系, 无期契约, 内心探索, 命运交织                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

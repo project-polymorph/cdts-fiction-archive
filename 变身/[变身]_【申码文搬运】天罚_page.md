@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【申码文搬运】天罚.doc]([变身]_【申码文搬�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇性转主题的小说，讲述了一名男性角色在一个神社中与一位巫女相遇后，被施加了变身诅咒的故事。故事开头，主角在炎热的秋天中前往公司，感受到工作压力并希望能偷懒。在一次意外中，他误闯了一座神社，遇到了一位愤怒的巫女，结果被施下诅咒，身体逐渐发生变化。随时间推移，他的身躯和外貌逐渐变得更加女性化，最后甚至变成了一个幼女，沦落到依赖尿布的境地。小说中涉及了角色性别认同、自我探索和荒诞的羞辱情节，展现了他在面对变身后心理状态的挣扎与接受。同时，情节也具体描绘了他在变身过程中身上的变化以及随之而来的羞耻和无奈，使故事在变换中渗透出性别的复杂性和心理上的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【申码文搬运】天罚.doc]([变身]_【申码文搬�
 | Size            | 42496 bytes                           |
 | MD5             | cf7e08b6748e4dd859907fb51a9236a5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 神社, 巫女, 自我认同, 心理挣扎, 幻觉, 奇幻, 羞辱, 尿布, 幼儿化, 华丽变身, 性别探索, 秋天, 职场压力, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

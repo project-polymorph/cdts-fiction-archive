@@ -7,7 +7,7 @@ TXT 下载: [[其他]_你在我的房间里做什么！.docx]([其他]_你在我
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《你在我的房间里做什么！》是一篇性转与变装题材的小说，讲述了男主角皮埃尔与其姐姐露西之间复杂且略带情色的互动。故事开端，皮埃尔在姐姐的房间里被发现正在使用她的内裤自慰，遭遇了姐姐的威胁与羞辱。为了保住秘密，皮埃尔被迫接受了露西的要求，穿上她为他准备的泳衣进行一系列劳动。小说探索了性别认同与自我认知的矛盾，同时呈现了强烈的戏剧性与情色内容。随着情节的发展，皮埃尔在劳动中被晒伤，露西的进一步介入让事情变得更加复杂，他意识到自己的身体发生了形象的变化，最终在自身认同上面临更加严峻的考验。整篇小说不仅涉及性别转变的主题，还暗含禁忌与羞耻感，让人直面人际关系中的权力与性别角色的较量。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_你在我的房间里做什么！.docx]([其他]_你在我
 | Size            | 17968 bytes                           |
 | MD5             | b9a69f078b14aaf9200e6e5c1437c109                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 强制变装, 变身小说, 自我探索, 家庭关系, 姐弟关系, 羞辱, 强迫, 情色, 内衣, 比基尼, 日常生活, 性别认同, 权力游戏, 滑稽                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

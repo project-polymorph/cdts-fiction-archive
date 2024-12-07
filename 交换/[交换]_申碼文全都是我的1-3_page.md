@@ -7,7 +7,7 @@ TXT 下载: [[交换]_申碼文全都是我的1-3.doc]([交换]_申碼文全都�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档呈现了一部关于性别转换与魔术主题的小说，故事主要围绕高中男生羽山孝一与一位年轻女魔术师鳴宮璃奈的邂逅展开。鸣宫璃奈是一个在舞台上耀眼夺目的魔术师，她以出色的表演吸引了众人的眼光，同时也引发了孝一内心深处的羡慕和复杂情感。故事通过描绘他们的互动，展示了性别认同、自我探索及欲望交错的发展。孝一对璃奈的吸引不仅因其外表的美丽，更因璃奈似乎在暗示着他向内心真实自我的探索。随着情节的发展，孝一被璃奈的魅力所吸引，逐渐陷入她设下的圈套，在多功能厕所内接受了一个改变他人生的重要交易。整个故事探讨了伪娘、变身和欲望的交织，是一部充满幻想与心理冲突的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_申碼文全都是我的1-3.doc]([交换]_申碼文全都�
 | Size            | 78336 bytes                           |
 | MD5             | a8198f645a019963b2a84a596b629dea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔术, 伪娘, 性别转换, 校园, 自我探索, 角色扮演, 爱情, 青春期困惑, 奇幻”，“异性吸引”，“身份认同”，“暗示与操控                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

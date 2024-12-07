@@ -7,7 +7,7 @@ TXT 下载: [[交换]_勇者镜花的冒险_-5_[.docx]([交换]_勇者镜花的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《勇者镜花的冒险》是一部侧重于性别转换与跨性别主题的小说。故事围绕一名角色——勇者镜花，她在冒险旅程中经历了性别认同的冲突和变化，也展开了与其他角色之间复杂的情感关系。文本中包含了许多描写勇者清彦与镜花之间互动的细节，例如在清彦对镜花病情的关心与探讨中展现人际关系的微妙，同时通过亲密的身体接触来探讨性别与情感的连接。其中一段描写了镜花与俊春之间强烈的吸引，甚至在某个时刻，镜花以一种不拘一格的姿态揭示了自己的身体，二者在夜晚发生了亲密行为，描述充满了激情与冲突。文件中还有讨论角色性别认同与个人探索的段落，涉及了深刻的心理变化与自我接受。整体上，这部作品运用了大量的幻想元素，搭建了一个充满幻想与情感纠葛的奇幻世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_勇者镜花的冒险_-5_[.docx]([交换]_勇者镜花的�
 | Size            | 35299 bytes                           |
 | MD5             | ada1620a3179d14ea7415f4e7c25a008                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | teru@tsfteru.x.fc2.com                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 勇者冒险, 性别转换, 跨性别, 亲密关系, 自我探索, 奇幻世界, 情感纠葛, 性认同, 男性视角, 女性视角, 初次情感, 身体意识, 夜晚的亲密, 冒险故事, 魔法元素, 成长历程                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

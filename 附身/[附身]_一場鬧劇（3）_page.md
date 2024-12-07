@@ -7,7 +7,7 @@ TXT 下载: [[附身]_一場鬧劇（3）.docx]([附身]_一場鬧劇（3）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《一场闹剧（3）》，内容围绕主角杨智与王美彤的约会经历展开。故事开始于杨智在办公室中与李经理的初次对话，杨智内心的紧张与期待被描绘得细致入微。接着，杨智在等待王美彤时，偶然发现她的到来，皇天不负有心人，二人在花展中享受着愉快的时光。文中对王美彤的描写生动而富有吸引力，特别是关于她穿着的细节，展示了她的魅力。同时，故事也通过杨智的视角揭示了他的内心活动及对王美彤身体的注视，展现了他对女性的憧憬与迷恋。随着情节的发展，王美彤和杨智在某个画廊的互动中，彼此忘却了周边的环境，享受着轻松愉快的约会。然后，他们无意中跟踪李经理，发现了一家名为“秘店”的情趣用品商店，引发了两人的好奇与惊讶，这为后续的情节发展埋下了伏笔。作品展现了性转与跨性别主题的一环，结合了多元的情感与心理发展，具有一定的探索性及趣味性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_一場鬧劇（3）.docx]([附身]_一場鬧劇（3）.doc
 | Size            | 23598 bytes                           |
 | MD5             | 55894c43178219b49414909b78cabbcd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 约会, 跨性别, 情趣用品, 自我探索, 办公室情节, 强烈吸引, 女性形象, 自我认知, 青春爱情, 画展体验, 窥视欲, 情感纠葛, 秘密商店, 都市生活, 暗黑幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

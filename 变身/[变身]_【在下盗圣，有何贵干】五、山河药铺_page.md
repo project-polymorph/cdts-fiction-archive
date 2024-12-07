@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】五、山河药铺.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘和跨性别相关的小说《在下盗圣，有何贵干》第五章《山河药铺》。该章节讲述了在江湖背景下，角色小白与楚飞、小青两人潜入神秘的山河药铺，意图寻找一种传说中的洗髓丹，能够改变人生与身体的丹药。故事中，不仅描绘了小白的窃取冒险，更深入展示了江湖郎中江郎与无花宫宫主明月之间的私密关系以及他们是如何通过权力和欲望相互影响与操控的。情节中涉及了成人内容，包括性暗示、性行为及对角色身体的变化与欲望的探讨。例子如江郎对明月的压迫以及明月在其中的角色展现了复杂的欲望与性别体验。整体的内容不乏争议，但在探讨性别认同和身体认知的过程中也给读者带来了思考的空间。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】五、山河药铺.doc]([
 | Size            | 42496 bytes                           |
 | MD5             | b778184285b1bad5740a2a93345c75c7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 江湖, 洗髓丹, 欲望, 权力, 青春, 冒险, 情欲, 男女关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

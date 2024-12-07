@@ -7,7 +7,7 @@ TXT 下载: [[附身]_修真炉鼎的重启人生8-15.doc]([附身]_修真炉鼎
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一部修仙小说的章节，主要围绕人物苏巧儿与林成之间的情感发展和修炼故事展开。故事中的苏巧儿是吕仙子的弟子，由林成带领进行修炼。文中详细描写了苏巧儿的外貌特征，如银色长发和蓝色眼眸，进一步展示了她的可爱与娇小。林成在修炼的过程中，逐渐面对与苏巧儿之间的情感纠葛，以及双修带来的修炼机遇。随着情感的发展，文中也描绘了二人更深层次的亲密关系，涉及双修、灵力的提升等重要情节。文中包含元素如角色之间的情感交流、修炼方式、家族仇恨等复杂情绪，同时也探讨了力量与责任之间的关系。例如，苏巧儿因家族被害而对林成产生依赖，希望通过与他交往来获得修炼上的帮助，并最终实现复仇的愿望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_修真炉鼎的重启人生8-15.doc]([附身]_修真炉鼎
 | Size            | 95744 bytes                           |
 | MD5             | 4835a591744ac61da92ebfe701623a5f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 双修, 修真, 伪娘, 男娘, 情感纠葛, 家庭仇恨, 角色成长, 灵力提升, 魔法, 少年, 冒险, 爱情, 自我认知, 成长, 逆袭, 科幻 fantasy                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

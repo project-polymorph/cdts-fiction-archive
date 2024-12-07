@@ -7,7 +7,7 @@ TXT 下载: [[变性]_神勇绿坝娘_第二部.docx]([变性]_神勇绿坝娘_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《神勇绿坝娘 第二部》是一部围绕性别认同与自我认知冲突展开的小说，主要通过特工阿丽与加里的互动，揭示了一起变性妓女谋杀案的调查过程。在小说中，加里和阿丽在一场暴雨后停车查看犯罪现场，发现了一名变性妓女的尸体。该尸体的穿着和相关细节引发了阿丽的怀疑，她分析尸体的伤口及相关证据，质疑尸体的身份和被害背景，并尝试找出真相。作品描绘了两位主角的细腻情感及嫖客与变性妓女间的复杂关系，同时探讨了社会对变性人群体的偏见和困境。搭配丰富、生动的情节，展现了个体内心的挣扎与寻求认同的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_神勇绿坝娘_第二部.docx]([变性]_神勇绿坝娘_�
 | Size            | 74415 bytes                           |
 | MD5             | cd442ab58ec07845033ae0c79652ce19                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性别认同, 自我探索, 谋杀, 变性妓女, 警匪, 人物塑造, 社会偏见, 情感纠葛, 法医, 从业者                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

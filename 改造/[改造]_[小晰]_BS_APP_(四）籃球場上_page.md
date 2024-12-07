@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(四）籃球場上.doc]([改造]_[小晰]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《[改造]_[小晰]_BS_APP_(四）篮球场上》，是一篇描绘性别认同与转变的小说，内容围绕一个男性角色小宇与其女友小晰之间的互动展开。在情节中，小宇由于身体不适而请假，接着与小晰通话。小晰细腻体贴的关心体现了他们之间的情感纽带。小说通过小宇的内心独白揭示了他在变身后的一系列复杂情感及性别认同的挣扎与混乱。小宇的身体经历了变换，他面对着日常生活中的身体变化和内心的矛盾，若隐若现的性转情节在叙事中交错出现，引发了他对自我身份的深刻思考。文本多次提到BS app对小宇心理状态的影响，形象地描绘了他在篮球场上的窘迫，以及与他身份相关的性别冲突，以及在与其他角色互动情境中的不安和期待。此外，文本中还融合了青春校园的元素，体现了社团活动、性别认同等主题的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(四）籃球場上.doc]([改造]_[小晰]
 | Size            | 64000 bytes                           |
 | MD5             | 39b7e10f2f04196e77a8c4f570445bd6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身小说, 伪娘, 青春校园, 自我探索, 情感纠葛, BS app, 运动社团, 复杂心理, 内心独白, 情感关怀, 性别冲突, 男主角成长, 校园生活, 情感互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

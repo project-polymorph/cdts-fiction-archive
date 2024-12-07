@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_美女蛇杀人事件（改进版---修士文章，撸点�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《美女蛇杀人事件（改进版---修士文章，撸点保证）》，内容围绕一位外表为女秘书的角色展开，实际上她是一种半人半蛇的异类生物。在故事的开头，女秘书被一位中年男上司骚扰，并被迫进行性相关的服务，接着情节迅速发展，揭示她的真实身份，展现出她的蛇形特征和变装能力。文本涉及大量情欲内容，不乏对性行为的详细描绘，包括角色对彼此身体的探索等，后续则转向追逐与悬疑的情节，暗示她是某种秘密实验的产物。最终，女秘书利用其特异的能力逃脱追捕，留下追捕者们困惑和恐慌。全文夹杂着对角色外貌的细致描写与生动的情节推进，探索了性别身份和异类生物之间的界限和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_美女蛇杀人事件（改进版---修士文章，撸点�
 | Size            | 23664 bytes                           |
 | MD5             | 2b736f9135d6bd84c5aa55694cdf0f55                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 异类生物, 蛇人, 悬疑, 成人内容, 强奸, 调教, 逆后宫, 奇幻, 都市, 虚拟现实, 变嫁, 百合, 恐怖, 官场小说, 恋物癖, 人皮面具, 暗黑风格, 少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

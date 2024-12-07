@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_一个刺激的夜和一个心塞的我！(序幕).docx]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《一个刺激的夜和一个心塞的我！(序幕)》，是关于一位年轻男主角与妻子及丈母娘之间情感纠葛的小说序幕。故事开头描绘了男主角因妻子忙于工作而感到孤独，并期待与妻子在假期中的亲密时光。然而，妻子选择先去丈母娘家，男主对于这一决定感到失落。文件中详细描述了男主与其年轻而美丽的丈母娘康虹的首次见面场景，男主目睹丈母娘穿着得体的旗袍，心中则充满了复杂的情感和性吸引。在餐桌上，男主感受到了丈母娘的温柔与关爱，同时也对丈母娘与妻子之间深厚的感情感到无奈。随着剧情的发展，男主发现丈母娘与他早年的小伙伴之间的联系，这使得他内心充满了矛盾与焦虑，故事通过对人物心理的描写展现了浓厚的戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_一个刺激的夜和一个心塞的我！(序幕).docx]([
 | Size            | 21353 bytes                           |
 | MD5             | 06f4ff51874f23f6db9950a8e46659e6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 家庭关系, 禁忌恋, 跨性别, 调教, 爱情, 婚姻, 心里斗争, 成年女性, 传统文化, 伦理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

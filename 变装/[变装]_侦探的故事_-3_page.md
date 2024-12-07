@@ -7,7 +7,7 @@ TXT 下载: [[变装]_侦探的故事_-3.docx]([变装]_侦探的故事_-3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《变装：侦探的故事》，内容围绕一群年轻的男性角色在一个变装学院的生活展开展现。这些角色在学院中接受女性化培训，包括穿着女仆装、做清洁、学习化妆和发型设计，彼此之间的亲密关系随着训练逐步加深。文本描绘了角色在接受怀抱、亲吻以及其他情欲表达方面的成长与变化。整篇小说充满了性张力和探索自我认同的元素，展现出性别角色流动性以及角色面对的心理冲突与适应过程。文中多个片段描述了角色们的情感与身体的互动，强调了对传统性别认同的挑战与反思。整体基调带有强烈的成人向和性暗示的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_侦探的故事_-3.docx]([变装]_侦探的故事_-3.docx)
 | Size            | 39673 bytes                           |
 | MD5             | 414881f57dabc2ff85848a137e12c26a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 性别认同, 自我探索, 女性化培训, 性张力, 情欲关系, 青少年, 变性人, 清洁角色, 成人向小说, 幻想情节, 高校生活, 角色换位                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

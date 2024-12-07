@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_inside_doll翻译文_人偶学院之横川雪江的故事�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是一个关于横川雪江在‘人偶学院’生活的小说段落，主要描写了男生们在变成女生之后的体验和感受。故事的开端是新生集合进行开学典礼，所有新生都面临着成为‘女生’的转变。在接下来的发展中，横川雪江和他的同学们需要适应这个新身份，包括身材和外观的改变，以及学习在女生身份下的行为规范。小说描绘了他们在学校期间的各种日常活动，包括测量身体尺寸、设计人偶装、以及在班级中与男生互动的细节。文本中涉及了许多与性别认同、自我探索相关的挑战与困惑，同时也有对新身体状态的各种细腻的触感和情感的探索。特别强调了在变身后的各种体验，包括穿着人偶装时的感觉，以及与同学的互动引发的情感反应。文中提到的体操服和校园社团活动，进一步突显了角色在新身份中的心理变化和适应过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_inside_doll翻译文_人偶学院之横川雪江的故事�
 | Size            | 107520 bytes                           |
 | MD5             | 0b46a747c43b0e8c6fa26225beeaa1ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 人偶学院, 穿越, 少女成长, 校园生活, 自我探索, 体操部, 角色扮演, 青春故事, 性别转换, 伪娘, 男娘, 兴奋体验, 身体感知, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

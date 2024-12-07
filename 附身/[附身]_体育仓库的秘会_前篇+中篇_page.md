@@ -7,7 +7,7 @@ TXT 下载: [[附身]_体育仓库的秘会_前篇+中篇.docx]([附身]_体育�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《体育仓库的秘会_前篇+中篇》，内容围绕一位名叫青叶圣香的女子田径部副部长。在放学后的体育仓库，青叶气喘吁吁地坐在垫子上，刚结束田径训练。此时，她的身体被另一个角色秋斗占据，讲述了角色的附身过程，以及在这种状态下青叶的身体和感受。情节呈现出强烈的性别转换和自我认知的冲突，探讨了性别身份和欲望的主题。青叶的身体被操控，让秋斗体验到了她的情感与感知，尤其是与男性互动时的羞涩和快感。该作品涉及一些性暗示和成人主题，描绘了角色与社会认同相关的复杂情感与交互。文中充满了对角色体验的细腻描写，如“调皮地抚摸着股间”，同时也能感受到角色对自我认同危机的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_体育仓库的秘会_前篇+中篇.docx]([附身]_体育�
 | Size            | 29837 bytes                           |
 | MD5             | 16c66b79eade876bec0fe4cd38848c05                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 田径部, 青叶圣香, 秋斗, 性别认同, 自我探索, 性欲, 运动, 角色体验, 成人向, 校园小说, 强制附身, 身体占据, 情感交互                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

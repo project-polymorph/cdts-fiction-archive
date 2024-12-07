@@ -7,7 +7,7 @@ TXT 下载: [[附身]_源代码_第一章.docx]([附身]_源代码_第一章.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为一部有关性别转换及自我认同的小说开篇，主要讲述了主角张涛在火车上的一段特殊经历。张涛乘坐的火车上，遇见了几位各具特色的女性，包括一位校花般的美女和身穿华丽服饰的母女。故事逐渐发展到一场误会，美女误认为张涛对她有不当行为，引发了一系列尴尬的场景。在小说中，张涛经历了一场恐怖袭击，随后被告知自己只剩下大脑残留的生机，并需要回忆起重要的密码。随着情节的发展，张涛发现自己竟然变成了一个女孩，通过她的身体观察周遭。这一变化不仅考验着她的身份认同，也触及了对性别和自我认知的深刻探讨，小说涉及了心理变化与身体转换等主题。 
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_源代码_第一章.docx]([附身]_源代码_第一章.doc
 | Size            | 20811 bytes                           |
 | MD5             | 26fe5c176c896b9abb69c033df521b6a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我探索, 多元性别, 心理冲突, 变身, 校园, 火车, 近未来, 自我认同, 性骚扰, 虚拟现实, 跨性别, 性别角色, 奇幻, 反转, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

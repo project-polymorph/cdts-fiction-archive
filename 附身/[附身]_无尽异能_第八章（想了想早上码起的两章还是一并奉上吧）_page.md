@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无尽异能_第八章（想了想早上码起的两章还
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说的第八章标题为《法晶》，主要讲述了角色张紫幽在一次学院任务计划中的经历。在会议中，张紫幽与其他角色相互交流，逐渐融入团队。她的身份是原本的双魂缺失者，如今却有了新的异能觉醒。在会议过程中，张紫幽受到其他人调笑和关注，尤其是叶准对她表示好感，甚至向她赠送了珍贵的法晶，这是异能者修炼的重要资源。张紫幽表面上表现得傲娇，内心却因对法晶的渴望而感到挣扎。张紫幽对自己转变后的女性身份逐渐接受，这样的变化给予了她新的自我认同和快感。整章情节围绕着情感、性别认同与相互吸引等主题展开，包含了一些轻微的色情暗示，并描绘了青春的微妙关系与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无尽异能_第八章（想了想早上码起的两章还
 | Size            | 18544 bytes                           |
 | MD5             | de42c1983f3d0124ff8b225a5e2b39ee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异能, 法晶, 自我认同, 性别转换, 感情纠葛, 校园, 青春, 女体化, 强烈好感, 恋爱, 傲娇女孩, 团体合作, 少女心, 心理探索, 冒险任务                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交错的人生（四）.doc]([交换]_交错的人生（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段小说的第四章，名为《交错的人生（四）》。故事围绕主人公白蔷的内心挣扎展开，她的性别与身份面临心理上的巨大冲突。随着情节的发展，白蔷醒来发现自己身体上有着男性特征，这让她感到极大的恐惧与困惑。其内心念头是要拯救她的女儿悦儿，但这份责任感却使得她不得不面对种种不适与羞耻。在进一步的情节中，白蔷的母亲也卷入了一个意想不到的事件中，罗悦通过操控和羞辱试图将白蔷和她的母亲进一步推向绝境，这种心理操控与性别角色的扭曲展示了复杂的人物心理和情感的交错。整体文本充斥着强烈的情节冲突与伦理困境，同时包含了一些可能引发争议的内容，适合于研究跨性别与性别认同相关的话题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交错的人生（四）.doc]([交换]_交错的人生（�
 | Size            | 59392 bytes                           |
 | MD5             | 5572c0134df03d8f6570c4f4a00aa9e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 性别认同, 心理挣扎, 母女关系, 羞辱, 自我探索, 逆后宫, 伪娘, 禁忌, 欲望人格, 强迫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

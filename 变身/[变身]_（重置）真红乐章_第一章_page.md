@@ -7,7 +7,7 @@ TXT 下载: [[变身]_（重置）真红乐章_第一章.docx]([变身]_（重�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇描写变身和性别转换主题的小说，在第一章中，主角章乐是一名普通高中生，他在回家的路上遇到了一只穿着布偶服的推销员，推销员强行向他递送传单，传单上写着提供实现愿望的广告，店名为“茜色之空”。章乐因此好奇，决定前往这家店探究。然而，他发现这家店和它的服务并不像广告所说的那样美好，反而充满了诡异与不安。在与店主雪落柔的对话中，章乐的愿望似乎被他自己都没有意识到地给了出来，最终选择了一个神秘的药片，服下后经历了身体和性别的剧烈变化。整章描绘了章乐对自己身份和性别的迷茫与探索，也揭示了他逐渐意识到自己内心深处的愿望和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_（重置）真红乐章_第一章.docx]([变身]_（重�
 | Size            | 22639 bytes                           |
 | MD5             | 9369809fc9912b4ed47141c4c1103c9f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 伪娘, 异世界, 药物, 自我探索, 性别认同, 奇幻, 青春, 魔法, 角色互动, 心灵成长, 变身小说, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

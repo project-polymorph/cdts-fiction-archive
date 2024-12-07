@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译_变装】着吾妻之衣（1_2）.doc]([变装]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件主要讲述了一个男性角色在婚后逐渐接受自己女性化一面的故事。故事的中心角色，身为编辑的叙述者，在婚礼后与自己的妻子布莱恩共同生活。他的妻子是一位事业成功的女性，自由而开朗，而他自身则在成长过程中对自己的性别认同产生了深刻的怀疑与探索。从他与布莱恩的相识，到婚后生活的日常琐事，再到他在家中冒险穿上布莱恩的衣服，该文描写了角色对自我认同的挣扎。欣然接受对方的性别表达与角色转换，布莱恩逐渐鼓励他的女性化愿望，甚至希望为他举办一个以他的女性身份为主题的派对。随着故事的发展，叙述者的内心斗争愈发明显，既渴望成为妻子心目中的“完美家庭主妇”，同时又害怕失去自我以及在公众面前示人的压力。这一混杂的情感让角色陷入深刻的思考与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译_变装】着吾妻之衣（1_2）.doc]([变装]_
 | Size            | 65024 bytes                           |
 | MD5             | d9c79755c8c9e6e0a27014fff883bf15                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 婚姻, 自我认同, 女性化, 角色转换, 家庭主妇, 性别表达, 情感冲突, 社会压力, 成长历程, 梦想实现, 自我探索, 秘密生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

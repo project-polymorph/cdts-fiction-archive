@@ -7,7 +7,7 @@ TXT 下载: [[附身]_夏娃之泪（第三章&第四章）.docx]([附身]_夏�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件《夏娃之泪（第三章&第四章）》为一部变身与跨性别题材的小说，主要讲述了角色周淳与龙美夕合体后的奇妙经历。在第三章中，周淳与龙美夕的身体通过一种名为“夏娃之泪”的神秘力量融合在一起，产生了许多性别与身体认同的冲突和转变。两人下体结合的瞬间，伴随着光芒和身体的交融，周淳逐渐感受到女人身体的特征与快感，并陷入迷醉之中。第四章则展示了周淳在新生后的自我认知，重新面对自己的身份变化，他发现自己变为了龙美夕的身体，并进行了一系列探索与体验的过程，包括对女性身体的愉悦感受和自我形象的重塑。整部作品充满了性别流动性和自我认同的探索，让人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_夏娃之泪（第三章&第四章）.docx]([附身]_夏�
 | Size            | 19879 bytes                           |
 | MD5             | a05c408f90bd35494c6960f857dd0566                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 幻想, 自我探索, 情感纠葛, 爱与欲望, 身体融合, 二次元, 性转, 女体化, 幻觉, 心理变化, 魔法, 奇幻, 男性视角, 女性身体体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

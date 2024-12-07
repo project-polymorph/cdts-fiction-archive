@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】我现在对此无能为力.doc]([变性]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档《我现在对此无能为力》是由作者Elaine创作，并由魔之天涯进行翻译。故事的主角帕特里克在经历变性后，面对新的身份和性别认同的挑战。文本详细描述了主角在变性手术前后的心理历程以及对自我形象和身体变化的适应过程。通过与治疗师的互动，主人公逐渐接受了以女性身份生活的现实，反思自己内心对性别的认同与自我认知的冲突。文中提及主人公经过荷尔蒙疗法和手术后，身体特征发生的巨变，以及在这些变化中感到的兴奋与痛苦交织的复杂情感。尤其是对胸部的植入手术及带来的身体与心理上的影响，描绘了变性的艰辛与对生活新阶段的期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】我现在对此无能为力.doc]([变性]_【�
 | Size            | 57344 bytes                           |
 | MD5             | 1d5e82fa95d06a0641d625b36db202c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Elaine，翻译：魔之天涯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变性, 自我认同, 心理冲突, 身体变化, 女性身份, 女性特征, 荷尔蒙疗法, 胸部植入, 性别认知, 情感纠葛, 高跟鞋, 化妆, 生活方式, 性别角色, 二次元文化, 亲密关系, 科技与身体, 社会接受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

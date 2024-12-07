@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新上任的秘书.doc]([皮物]_新上任的秘书.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个以职场背景为主题的伪娘和性转向小说，描述了一位新上任的秘书赵美琳在公司首次上班的情景。赵美琳在Z生物集团公司工作，她的外表和身材引起了周围男性的注意。在文件中，她被指派去审阅一份私人文件，而这份文件实际上隐含着生物重塑剂的秘密，该剂会影响生物体的性欲和外观。随着故事的发展，赵美琳在无形中吸入了生物重塑剂，逐渐感受到身体的变化和欲望的提升。逐步揭露出的生物实验与赵美琳的职场互动，反映了性别认同与自我探索的主题。此内容可能包含成年人不宜的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_新上任的秘书.doc]([皮物]_新上任的秘书.doc)
 | Size            | 53248 bytes                           |
 | MD5             | 18b7b74fc9dfdea5d98827a0f41ad528                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 生物重塑剂, 跨性别, 性欲, 自我探索, 职场, 秘书, 道德冲突, 性别认同, 成人内容, 强奸, 性转, 变嫁, 调教, 都市题材                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《到底谁才是坏蛋》第五章.doc]([附身]_《到�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档描述了一位名为郭麒麟的学生在学校中的日常生活，其中掺杂着各种复杂的人际关系与心理冲突。故事开始于郭麒麟在课堂上的偶然惊醒，随后他的同学李宁意外死亡成为话题焦点。而后，故事逐渐揭示了郭麒麟与同学们之间的私密性议题，包括关于张梦茹的神秘吸引力及其所散发的迷人但又令人难以名状的气息。同时，文中还描述了在夜晚的酒店楼梯间，展开了一场充满紧张与欲望的勾结，其中涉及的的暴力场景和性行为十分露骨，活灵活现地描绘出角色们在身体与心灵上的双重困扰与迷离。最后的转折点在于张雅慧的秘密与其在此契机下逐步展开的自我认知，营造出一种超现实且令人不安的氛围。在整个过程中，隐含的主题围绕着性别认同、欲望、操控及青少年间复杂的情感纠葛，构建了一个深刻的叙事，有着鲜明的二次元风格和暗黑氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《到底谁才是坏蛋》第五章.doc]([附身]_《到�
 | Size            | 38400 bytes                           |
 | MD5             | 981b46f48c2130fc74d6116d9610636f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-01-11                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性转小说, 强奸, 阴谋, 青春校园, 暴力, 怪异, 自我探索, 欲望, 青少年, 性别认同, 情感纠葛, 妖艳, 禁忌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

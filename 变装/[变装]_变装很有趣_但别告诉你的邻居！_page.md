@@ -7,7 +7,7 @@ TXT 下载: [[变装]_变装很有趣_但别告诉你的邻居！.docx]([变装]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《变装很有趣》的文章由作者Amanda撰写，主要围绕变装和跨性别主题展开。故事中的叙述者与女友凯莉之间的关系展现了一种积极的变装文化，叙述者在女友的支持下逐渐探索和接受自己的变装爱好。他通过对话描绘了变装的乐趣和与女友之间的互动，以及在外界压力下所感受到的自我认同和心理冲突。文章进一步讲述了他们的生活如何因变装而变得更加丰富，包括他们的友情和性关系。同时，随着情节的发展，变装逐渐演变为涉及捆绑和调教的情节，增加了不少刺激和冲突的元素。叙述者与凯莉之间的互动突出了跨性别群体在自我认同、性别角色和社会接受度方面的复杂性，也反映了对性别流动性和亲密关系的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_变装很有趣_但别告诉你的邻居！.docx]([变装]
 | Size            | 35314 bytes                           |
 | MD5             | 7e255939b7508cf768e15eedc54afe1a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Amanda                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 自我探索, 性别认同, 女友关系, 捆绑, 情感冲突, 性别流动性, 性转, 变身, 二次元, 伪娘, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

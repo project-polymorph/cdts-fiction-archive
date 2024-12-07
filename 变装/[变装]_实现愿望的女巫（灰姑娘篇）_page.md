@@ -7,7 +7,7 @@ TXT 下载: [[变装]_实现愿望的女巫（灰姑娘篇）.doc]([变装]_实�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《实现愿望的女巫（灰姑娘篇）》是一部结合了性别转变与幻想故事元素的小说，讲述了辛德瑞拉在经历丧母之痛后，与父亲及继母之间复杂而扭曲的关系。故事开始于辛德瑞拉对母亲的记忆，描述了其父亲的堕落与继母的恶毒阴谋。文中描绘了继母与两个女儿利用药剂试图控制辛德瑞拉父亲的情节，透过细腻的笔触展现了辛德瑞拉的内心挣扎与渴望。随着情节的发展，辛德瑞拉目睹了父亲与女仆之间的禁忌关系，这一切对他产生了深远的影响，使他在性别与认同间面对苦痛与快感的纠结。整部作品在糖水般的幻想设定中，暗藏了许多突破传统道德的情节，通过角色的性别变换和自我探索，探讨了人性的阴暗面及欲望的无尽吞噬。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_实现愿望的女巫（灰姑娘篇）.doc]([变装]_实�
 | Size            | 35328 bytes                           |
 | MD5             | 2aee6f0e32b9eef25293333d00e9438b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身小说, 奇幻, 黑暗童话, 自我认同, 药剂控制, 禁忌关系, 青少年心理, 幻想文学, 情欲探索, 魔法与现实, 家庭关系, 阴谋与权力, 情感冲突, 人性探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

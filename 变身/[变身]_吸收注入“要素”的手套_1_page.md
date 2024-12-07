@@ -7,7 +7,7 @@ TXT 下载: [[变身]_吸收注入“要素”的手套_1.doc]([变身]_吸收�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于吸收注入要素手套的变身小说，围绕主角直树的日常生活展开。故事开篇描绘了直树接收到一个神秘快递包裹，打开后发现里面是一个普通的手套。在尝试佩戴这个手套后，故事迅速进入奇幻的情节，直树意外地变成了女性直美。在接下来的互动中，直树与邻居沙织的关系开始发展，并探讨了对于性别认同和身体变化的冲突。这部小说以轻松幽默的方式揭示了角色的自我探索和性别认同的主题，同时伴随着一些奇幻的元素。手套的神秘力量引发了一系列事件，让直树必须面对自己新身份的挑战和社会互动的复杂性。整体内容轻松而富有趣味，适合对性转题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_吸收注入“要素”的手套_1.doc]([变身]_吸收�
 | Size            | 50176 bytes                           |
 | MD5             | 4cc0a322a5bd9149740bfe555d997618                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 自我认同, 奇幻, 大学生, 邻居关系, 魔法手套, 女性视角, 轻松幽默, 身体变化, 恋爱, 成长与探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

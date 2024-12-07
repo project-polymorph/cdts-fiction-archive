@@ -7,7 +7,7 @@ TXT 下载: [[改造]_绿坝娘之狂魔出山_(2).docx]([改造]_绿坝娘之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及伪娘和跨性别题材的小说，故事围绕年轻的管理培训生凯文的经历展开。在获得升迁的机会后，他被要求成为詹姆森先生的秘书。但这个新岗位的要求是让凯文穿上女装，并以女性身份工作。通过对凯文的改造，清邪小姐希望能让他适应这个角色，以迎合公司的亚洲客户需求。整个情节中夹杂着凯文的内心挣扎与身份认同的冲突，描绘了他在职场与性别认同之间的复杂关系。清邪的命令式语气、对凯文的观察与评价，展现了一种权力与性别的交互作用。故事探讨了性别、身份与职业角色之间的碰撞，同时也反映出在职场中性别歧视的存在。通过清邪对凯文的改造计划，小说引入了对性别认同和外在形象的进一步思考，使读者反思传统性别角色带来的限制。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_绿坝娘之狂魔出山_(2).docx]([改造]_绿坝娘之�
 | Size            | 85235 bytes                           |
 | MD5             | 2c7bb9e00fb3b26e58d1c26f5f5f3ecf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别改造, 职场小说, 自我探索, 女装, 管理培训生, 性别身份, 商业文化, 权力动态, 性别歧视, 文化冲突, 角色扮演, 女孩现象, 心理冲突, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

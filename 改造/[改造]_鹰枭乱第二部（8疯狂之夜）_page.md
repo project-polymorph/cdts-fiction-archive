@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鹰枭乱第二部（8疯狂之夜）.docx]([改造]_鹰�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部长篇小说的第二部分，标题为《鹰枭乱第二部（8疯狂之夜）》。内容围绕主角阳光与一名痞子的对抗与羞辱，在极具戏剧性的冲突背景下，描写了阳光遭受非法禁锢后，被迫参与痞子的恶作剧和羞辱。故事情节充满紧张感，角色之间的冲突伴随着强烈的情感表达，尤其是在阳光逐渐陷入受制与苦闷的心理变化中。文中多次引用阳光与痞子之间的对话，展现了对权力和身体控制的生动描写，例如阳光被捆绑并威胁要"消消你的气焰"。同时，涉及了药物对意识的影响，以及阳光在舞厅中的表现，营造出一种扭曲的幻想和非自愿的享乐感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鹰枭乱第二部（8疯狂之夜）.docx]([改造]_鹰�
 | Size            | 17770 bytes                           |
 | MD5             | 7b5c2852dd2ff39eafd0aa53a72ddc10                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性转, 城市小说, 禁锢, 羞辱, 药物影响, 舞厅, 心理变化, 乱伦, 成人内容, 特定文化问题, 社会边缘人群, 性别认同, 男性视角, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

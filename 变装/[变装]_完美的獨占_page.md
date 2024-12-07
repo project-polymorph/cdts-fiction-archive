@@ -7,7 +7,8 @@ TXT 下载: [[变装]_完美的獨占.doc]([变装]_完美的獨占.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《完美的独占》，是一部描绘性别认同和自我探索的小说，主要围绕年轻女性珍妮佛的心理成长故事展开。故事通过她与表弟的互动，揭示了她内心深处对控制和支配男性的渴望。在一次意外的处置中，她的表弟被要求穿上她小时候的洋装，这一事件激发了珍妮佛的觉醒，意识到自身性别认同的差异与欲望。
+随着故事的发展，珍妮佛在成年后与名为湯米的男孩产生了感情。在她的内心深处，湯米的女性化形象吸引了她，导致了她复杂的心理冲突与欲望的嘶吼。特别是在她了解到湯米喜欢穿女人衣服后，这种渴望进一步加深，珍妮佛开始思考如何引导湯米，并用自己的方式填补内心的空虚。小说整体充满了对性别角色、社会认同和个人欲望的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +22,10 @@ TXT 下载: [[变装]_完美的獨占.doc]([变装]_完美的獨占.doc)
 | Size            | 79872 bytes                           |
 | MD5             | 089c92ae70b79de197d94ad5860d4188                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 控制欲望, 性别转换, 恋爱心理, 内心冲突, 二次元, 变装主题, 跨性别故事, 家庭关系, 成长小说, 情感描写, 性别表达, 社会认同, 心理发展, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

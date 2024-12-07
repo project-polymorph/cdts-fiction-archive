@@ -7,7 +7,7 @@ TXT 下载: [[变身]_水前寺彩子之电车.docx]([变身]_水前寺彩子之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《水前寺彩子之电车》是一部性转题材的小说，主要讲述了主人公达也在乘坐一列神秘电车后，经历了性别变换与自我认知的过程。故事开始时，达也在电车上发现周围的乘客全是男性，随后一名乘务员宣布到达名为“女体”的车站后，达也陷入昏迷。醒来后，他发现自己的身体发生了剧烈变化，从男生变成了一位女性，并在电车上不断地经历身体缩小至幼儿的过程。最终，达也在变身的过程中与一个女性角色洋子产生了联系，二人之间的对话揭示了情感与性别的复杂交织，揭示出性别认同与自我探索的问题。整个故事富有幻想色彩，同时涉及到性别转换、怀孕等情节，可能存在一些限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_水前寺彩子之电车.docx]([变身]_水前寺彩子之
 | Size            | 19388 bytes                           |
 | MD5             | 73be7790004dca676a3abc01abedc697                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 跨性别, 幻想, 自我探索, 身体变化, 怀孕, 成长, 心理变化, 负面情感, 电车奇遇, 女性视角, 校园, 魔法, 奇幻, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_百变娇娃是大叔_第五章_大叔妩媚办公室！.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《百变娇娃是大叔》的性转、伪娘和跨性别相关小说的第五章，内容围绕主人公李浪在学校与班主任淡老头之间发生的互动展开。文本开头描述了李浪在教室里的心情，同时回忆起在淡老头办公室的经历。一开始，他被班主任罚站在门口，并满心惊疑地期待揭开办公室的秘密。通过同学间的传闻，李浪对此产生了极大的好奇心，诸如淡老头在办公室可能藏有充气娃娃、制服等秘闻。接着，李浪获得进入办公室的机会，内心充满了激动。故事随后回到教室，李浪并因手机被班主任收缴而引发了一连串的麻烦，最终向他的隔壁大叔求助，以解决当前的困境。整章节展现了青年对性别认同和自我意识的思考，以及同龄人之间的趣味探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_百变娇娃是大叔_第五章_大叔妩媚办公室！.d
 | Size            | 37376 bytes                           |
 | MD5             | 7a0a8f6d206b2aed3352ab2e7cc299fd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园, 师生关系, 办公室秘密, 古怪传闻, 好奇心, 青春期探索, 自我认同, 情感冲突, 男女关系, 同学互动, 诱惑与禁忌, 引人好奇, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

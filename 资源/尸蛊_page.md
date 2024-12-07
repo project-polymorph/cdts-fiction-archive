@@ -7,7 +7,7 @@ TXT 下载: [尸蛊.doc](尸蛊.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了章翠萍的故事，她曾是广东的一位外地女子，婚后生活优越。然而她的生活在一次邂逅中发生了翻天覆地的变化，她遭到一名苗族男子的药物控制，进行了古老的尸蛊巫术，交换了身体。这一行为导致章翠萍的身份被他人占据，而她则在一处废旧老屋内被杀害。故事从章翠萍选择埋藏尸体开始，揭示她为保住富裕生活而物色新身体的心路历程。章翠萍最终发现过去的生活虽然富足，时间的流逝却让她越来越不安，试图重新掌握自己的命运。文件中包含大量的情感冲突和自我认同的探索，涉及了转身为另一身份后的内心挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [尸蛊.doc](尸蛊.doc)
 | Size            | 204800 bytes                           |
 | MD5             | b4ea9716228925de57026409e023e6da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 尸蛊, 性别认同, 身体交换, 自我探索, 富裕生活, 阴暗心理, 伪装, 身份交换, 社会契约, 异常事件, 女性视角, 心理斗争, 情感纠葛, 变装, 都市故事, 强烈情感, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

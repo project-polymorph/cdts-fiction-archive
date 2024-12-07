@@ -7,7 +7,7 @@ TXT 下载: [[变性]_（申码文）超人女孩.docx]([变性]_（申码文）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《超人女孩》为一部围绕超人克拉克和露易丝的跨性别主题的短篇小说，叙述了克拉克在一个神秘的包裹中发现一个女性形象的超人芭比娃娃后，经历的性别认同和身体变化的故事。在故事中，克拉克发现自己在一夜之间逐渐显现出女性特征，内心感到愤怒与羞愧。随着情节的发展，克拉克开始质疑自己的性别认同，并试图寻找变形的来源。故事探讨了性别认同、自我认知与自我探索等深刻主题。此文本涉及魔法与性别转换的情节，包含对角色感受的细致描绘，如克拉克对新出现乳房的恐惧和不安，以及他与露易丝的相处中的微妙心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_（申码文）超人女孩.docx]([变性]_（申码文）
 | Size            | 30781 bytes                           |
 | MD5             | 83359fe4ee54bae514955ed476053b4c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 超人, 变性, 性别认同, 魔法, 角色探索, 自我认知, 女性形象, 芭比娃娃, 心理冲突, 跨性别, 社会认同, 情感, 克拉克, 露易丝, 小说, 二次元, 变身, 幻想, 性转, TSF, 性别变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

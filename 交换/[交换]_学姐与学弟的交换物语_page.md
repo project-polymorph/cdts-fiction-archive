@@ -7,7 +7,7 @@ TXT 下载: [[交换]_学姐与学弟的交换物语.doc]([交换]_学姐与学�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说是关于一位学姐和学弟之间的灵魂交换故事，围绕着他们对于性别认同与自我探索的主题展开。故事开始时，学姐提到了一种古老的说法，即通过特定的方法可以实现灵魂出窍，并提出要与学弟交换身体，体验不同性别的生活。学弟起初对这一提议感到犹豫，但在学姐的诱惑与剖白中，他逐渐被说服，愿意尝试这次交换。小说详细描写了他们之间的互动与感情，包括学弟的思想斗争与对女性身份的渴望，以及学姐对未知体验的追求。在他们进行灵魂交换的过程中，细腻地描绘了这种体验的奇妙和复杂，尤其当学弟意识到自己成为女孩子后的感觉。整个故事不仅探讨了性别的流动性，还涉及了一系列情感与身体的探索，尤其是当两人逐渐意识到自己的身份认同与彼此的感情交错时。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_学姐与学弟的交换物语.doc]([交换]_学姐与学�
 | Size            | 52736 bytes                           |
 | MD5             | 90aa8b974f124b1da1418930e5c9aba8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂交换, 性别认同, 自我探索, 青春期, 情感纠葛, 身体体验, 性别转换, 男性视角, 女性视角, TS文化, 异性恋, 女性角色, 成长故事, 校园生活, 心理描写, 跨性别, 互动情感, 探索欲望, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

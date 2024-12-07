@@ -7,7 +7,7 @@ TXT 下载: [[其他]_龙襄（1~10）全文竟然超出字节限制了···.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《龙襄》是一本围绕变身与跨性别主题而创作的小说，故事开始于一个黑暗的道观，主角龙襄是一个热爱剑术的年轻男孩。他因父亲的压力而被送往道教的武当山修练，却在练功过程中遇到了许多自我认同与性别认同的困惑。文件中详细描写了龙襄在武术修行及日常生活中的遭遇，尤其是与师祖之间的对话，展现了他对女性的渴望与对传统武术的执着。故事包括了丰富的角色设定及情节，反映了龙襄的成长与变身经历，以及他在一个与现实显著不同的世界中摸索自我认同的过程。此文包含了许多性别及性相关的内容，涉及同性恋、变性等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_龙襄（1~10）全文竟然超出字节限制了···.do
 | Size            | 69779 bytes                           |
 | MD5             | 41c95a2febae05b7596f9692e6a838dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身小说, 伪娘, 武道, 青春成长, 幻想, 古代武侠, 自我探索, 性别认同, 纯爱, 强奸, 调教, 逆后宫, 淫荡, 女体化, 草莓少年, 炼金术, 机制改造, 多重身份, 江湖情仇, 世俗与道义                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

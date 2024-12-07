@@ -7,7 +7,7 @@ TXT 下载: [[变身]_歌利王国的七圣器_第一章_堕转魔蛊.docx]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇名为《歌利王国的七圣器》的短篇小说的第一章，进行了一次翻新后发布。故事设定在一个名为歌利王国的奇幻世界，开头讲述了一个关于历史的传说：多年前，一位名为希路芭的魔女凭借恐怖的魔力释放了魔物令整个王国苦不堪言，直至一名英勇战士带领大家寻找七块圣石的碎片，封印了魔女和她的魔物，恢复了人们的安宁。在故事中，我们见到了勇者变成女性的情节，且国王的长子维斯顿与二王子索尔德在面对敌军时展现出勇猛的斗志，运用冰魔法与战术对抗叛乱的敌军，情节紧张刺激，透露出性别认同与自我探索的重要性。本章中包含了对人物外形、性别角色及战斗的详细描写，同时不乏幽默对话，展现了角色的个性与社会环境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_歌利王国的七圣器_第一章_堕转魔蛊.docx]([变
 | Size            | 42598 bytes                           |
 | MD5             | 6c6842e0a4f71774a24bc1cff71d5af6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 梦幻, 魔法, 勇者, 王子, 女王, 军队, 敌人, 爱情, 性别认同, 魔女, 正义与邪恶, 斗争, 奇幻世界, 历史传说, 自我探索, 战斗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

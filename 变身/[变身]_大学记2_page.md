@@ -7,7 +7,7 @@ TXT 下载: [[变身]_大学记2.doc]([变身]_大学记2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《大学记2》是由作者人生万花筒创作的一篇伪娘 TS 变身与跨性别相关的小说。故事围绕着男主角李冰的大学生活展开，情节充满了酒后误会与性别认同的探索。男主角在一个醉酒的晚上与学姐向兰发生了亲密关系，学姐对男主的性别表现出好奇和迷恋，甚至称赞李冰的身体感受极佳。随着情节的发展，两人的关系逐渐深入，男主与同寝室室友周兵互相探讨遇到的情感与性互动，呈现出一系列充满刺激和挑战的场景。小说的情节涉及性别扮演、性别转变以及性关系的复杂性，展示了角色在性别认同中面临的挑战与变化。事件的发展不仅仅是身体的接触，更是心理与自我认知的探讨，是一部描绘年轻人情感与欲望的生动作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_大学记2.doc]([变身]_大学记2.doc)
 | Size            | 36352 bytes                           |
 | MD5             | f1a66933e0cef6d733f77b1454968ad9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 人生万花筒                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 变身, 跨性别, 大学生活, 性别认同, 酒后误会, 性关系, 青春探索, 情感纠葛, 性别角色, 身体转变, 自我认知, 强奸, 淫荡, 调教, 逆后宫, 年龄差, 催眠, 阉割, 虐待, 双性恋, 百合, 变嫁, 女体化, SM, 柔情, 异世界, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

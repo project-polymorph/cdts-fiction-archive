@@ -7,7 +7,7 @@ TXT 下载: [[变装]_从金变成金伯丽6.docx]([变装]_从金变成金伯�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是伪娘变身与跨性别小说的一部分，主要描绘了角色金在与弟弟斯科特的对话中，面临着要以女孩身份出席与阿曼达的会面的紧张情感。故事中，金正在经历性别认同和自我认同的挑战，同时对自己外貌和行为的女性化感到复杂的情绪。在一次电话中，金得知斯科特为他安排了一个与广告公司老板阿曼达的午餐，这让金既期待又紧张。他需要在不暴露真实身份的情况下，展现自己的专业才华："你的天赋和才华不应该被浪费。"金在准备和外出过程中，感受到对女性身份的向往与压力，故事通过其内心的挣扎与变化，探讨了性别认同和自我形象的问题。这种爱与期待、焦虑与自我探索的情节让读者深刻感受到金在情感与社会期待之间的矛盾。这部作品通过角色的内心独白和与他人的互动，展现了跨性别人士在社会中面临的挑战和情感波动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_从金变成金伯丽6.docx]([变装]_从金变成金伯�
 | Size            | 31926 bytes                           |
 | MD5             | 2a2c352a217933dc49cd380c95ba37b7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 性别转换, 青少年成长, 社会压力, 情感纠葛, 角色扮演, 女性身份, 广告行业, 人际关系, 心理成长, 二次元文化, 青春期, 性别流动, 情感发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

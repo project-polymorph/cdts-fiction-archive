@@ -7,7 +7,7 @@ TXT 下载: [[变装]_仙妾.doc]([变装]_仙妾.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《仙妾》是一个跨性别与性转题材的小说，全文约10806字，由作者小蛇创作。故事讲述了一位成年男孩刘静越意外穿越到一个封建修仙的家庭中，成为一名6岁孩子。在这一修仙世界中，他逐渐发现自家的复杂关系和妖异的家族秘辛。通过描述刘静越的思想和情感变化，小说揭示了性别认同、自我探索、家庭关系等主题。刘静越在后院厮混，心中暗自打算逃离这个充满压迫和旧社会束缚的家庭。角色间的互动丰富多样，其中涉及一定的性暗示与压迫情节，展示了当代对性别与身份认同的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_仙妾.doc]([变装]_仙妾.doc)
 | Size            | 77824 bytes                           |
 | MD5             | a10ce1d80ad3d555e70901969c5780ce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 小蛇                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-07-23                                 |
+| Tags            | 性别认同, 穿越, 修仙, 家庭关系, 角色探索, 伪娘, 男娘, 强奸, 封建社会, 成长, 自我认知, 性别转换, 仙侠, 情感纠葛, 修行, 逃离计划, 伦理冲突, 情感压抑, 禁忌爱情, 权力关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

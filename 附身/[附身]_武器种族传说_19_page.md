@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_19.doc]([附身]_武器种族传说_19.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一场异能比赛的小说章节，描绘了角色兰娜瑟尔在比赛中与被寄生者的激烈战斗。在一场伴随着火焰和混乱的战斗中，兰娜瑟尔展现了强大的力量，她击杀了几个被seed寄生的主办方成员。随着比赛的进行，主办方中的倒戈者奎斯特与嗜血气息的兰特对峙，情节充满了紧张和悬疑。文件描绘了异能者之间互相对抗的激烈场景以及角色们在危机中的自我探索与心理变化。文中涉及到兰娜瑟尔与兰特之间的特殊关系，以及他们使用强大力量的恐怖景象，展现了异能者所面对的非人类威胁，同时也细腻地描绘了角色间的友谊与背叛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_19.doc]([附身]_武器种族传说_19.
 | Size            | 45056 bytes                           |
 | MD5             | d7678518e7194c77eb6782a8d9a720f1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 异能, 格斗, 战斗, 寄生, 角色扮演, 兰娜瑟尔, 兰特, 背叛, 勇气, 生存, 魔法, 冒险, 情节反转, 自我探索, 超能力, 幻想世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

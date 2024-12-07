@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_fakemask.doc]([皮物]_fakemask.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一个名叫叶免的男孩在新学校面临霸凌与身体自卑的故事。故事的开头，叶免在班级中遭到同学吴勇的嘲笑，吴勇因叶免特殊的外貌而对其进行持续的欺凌。叶免天生的唇腭裂让他在社交中感到格外自卑，他戴着口罩掩盖自己的缺陷，但在吴勇面前却无处可逃。随着女班主任郭莹的到来，叶免的窘境依旧没有改变，郭莹在无意中透露出对他外貌的轻蔑，使他的自尊心更加受到打击。文中通过叶免与同学、老师的互动，深刻展现了校园生活的压力和对于外貌的焦虑。叶免与母亲的关系冷漠，母亲对他的关心微乎其微，再加上他死去的姐姐的回忆，展现了他内心的孤独与痛苦。最后，叶免接到了一个陌生电话，关于一个可以改善容貌的应用程序，可能暗示着他内心渴望改变的挣扎。整体上，故事探讨了外貌与自我认同、孤独以及人际关系的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_fakemask.doc]([皮物]_fakemask.doc)
 | Size            | 65536 bytes                           |
 | MD5             | 81bbce28a2c3a1cb1038fcd2ea5f9030                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 心理成长, 校园欺凌, 唇腭裂, 自我认同, 孤独, 父母关系, 社会压力, 外貌焦虑, 班主任, 友情, 变身, 青春小说, 感情成长, 青春期烦恼, 成长故事, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_喉舌计划——（十到十二章）.doc]([皮物]_喉�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《喉舌计划（十到十二章）》是一部涉及性别转换和跨性别主题的小说，主要描绘了利卡洛公主与大公主之间的复杂关系。本章节中，利卡洛公主因被剥夺了自我意识而成为大公主操控的“皮囊”，小说深入探讨了她在新身体下的感受和欲望，包括对身体的认同和性别认同的探讨。小说以详细的描写展现了两位公主之间的亲密关系，尤其是在性行为方面的描写十分直白，包含了许多涉及性别和性爱的情节，利用对话和内心独白展示了角色的情感与挣扎。文本中提到的场景包括利卡洛公主与大公主的亲密接触和性行为描写，以及在此过程中她们之间的互动和情感变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_喉舌计划——（十到十二章）.doc]([皮物]_喉�
 | Size            | 77824 bytes                           |
 | MD5             | d492e7c0a33b5cabc4fcaf5c43773989                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 百合, 成人小说, 强奸, 调教, 女性视角, 校园, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

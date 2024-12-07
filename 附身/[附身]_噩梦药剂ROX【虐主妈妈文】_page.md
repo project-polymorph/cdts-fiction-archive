@@ -7,7 +7,7 @@ TXT 下载: [[附身]_噩梦药剂ROX【虐主妈妈文】.doc]([附身]_噩梦�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《噩梦药剂ROX（虐主妈妈文）》，主要描述了一个家庭中因药剂引发的奇幻性转剧情。主角阿杰打算外出玩耍，然而在他离开后，母亲在家中被一个同学张明以药剂附身，发生了令人震惊的转变。在母亲的身体被张明控制后，她的性格和行为彻底改变，表现出淫荡和挑逗的特征，令人不安的场景随即展开。文中详细描绘了张明如何掌控阿杰的母亲的身体，以及两者之间尤其是母子关系的扭曲。这样的设定使得整个故事充满了对性别、性与身份认同的探讨，同时也涉及了禁忌与伦理的界限。文件内容包含大量的成人情节，适合成年读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_噩梦药剂ROX【虐主妈妈文】.doc]([附身]_噩梦�
 | Size            | 59392 bytes                           |
 | MD5             | 6f93e81f376f0b796696c873b8abf363                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 家庭伦理, 母子乱伦, 成人向, 魔法, 异世界, 药物, 身体交换, 淫荡, 自我探索, 情感冲突, 欲望, 心理变化, 奇幻, 虚幻, 科幻, 虐主                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

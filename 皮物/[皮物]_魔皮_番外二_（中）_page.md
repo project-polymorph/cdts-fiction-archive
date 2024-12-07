@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔皮_番外二_（中）.docx]([皮物]_魔皮_番外二
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《魔皮》第番外二，描绘了一段关于角色性别转换和跨性别自我探索的情节。故事围绕角色曉梓与吳策展开，曉梓经历了一次神秘的转变，身体和意识都在变幻之中。在一次法术的影响下，曉梓从昏迷中醒来，发现自己身处在一个不明的环境中，自己的感官和欲望被重新激发。在曉梓的记忆中，陌生且激烈的感觉交织着，令她在面对吳策时感到复杂的情感冲突，逐渐变得淫荡。这段情节描绘了她对自我身份的挣扎与接受，同时也探索了角色关系的多重面向。文本中包含令人不适的内容，包括性行为和转化情境，展示了极具争议的性别主题与复杂的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔皮_番外二_（中）.docx]([皮物]_魔皮_番外二
 | Size            | 25774 bytes                           |
 | MD5             | 553cdb213671ff4692210d7f2c692f1d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 爱情, 自我探索, 不安, 情感纠葛, 欲望, 禁忌, 神秘法术, 角色关系, 情欲, 堕落, 奇幻, 情色小说, 心灵挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

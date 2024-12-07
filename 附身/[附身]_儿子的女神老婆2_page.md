@@ -7,7 +7,9 @@ TXT 下载: [[附身]_儿子的女神老婆2.docx]([附身]_儿子的女神老�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《儿子的女神老婆2》，是一篇围绕家庭关系和性别认同主题的小说。故事围绕主人公的老婆赵晓梅和其儿子及其女友林雅琳展开。赵晓梅在环游世界半年后归来，了解儿子与女明星林雅琳的恋情后，表现出不满和怀疑。故事中赵晓梅对林雅琳的态度逐渐恶化，并试图干涉儿子的爱情选择，引发了一系列家庭内的冲突。
+
+在小说中，儿子向母亲表明自己对林雅琳的爱慕，但赵晓梅却坚持希望他和另一位女孩小舒结婚。在整个过程中，父亲在家庭关系中的角色不断被探讨，出现了父亲对于林雅琳的隐秘、变态的欲望，甚至偷偷监视她的行为，形成了对女性身体的窥探和控制。这篇小说描绘了复杂的家庭情感，性别认同和个人欲望之间的冲突，具有鲜明的戏剧性和刺激性。小说包含有色情及强烈的情感冲突，描绘了角色间相互探索的心理活动与道德边界的模糊。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_儿子的女神老婆2.docx]([附身]_儿子的女神老�
 | Size            | 19932 bytes                           |
 | MD5             | f6b4de1c7cefc34010aa4e89930b34fa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 父母与子女关系, 隐私与监视, 家庭冲突, 女明星, 爱情, 家庭干涉, 变态欲望, 旅行, 自我探索, 密室情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

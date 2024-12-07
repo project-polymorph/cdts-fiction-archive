@@ -7,7 +7,7 @@ TXT 下载: [[交换]_江山如梦（上）.docx]([交换]_江山如梦（上）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部跨性别小说的初稿，主要讲述了大汉王朝时期太子刘言的故事。故事开始于历史背景的描述，回顾了汉朝的兴起和衰落，提到天子嘉丰皇帝独具手段，清晰描绘了宫廷的权力斗争。随后，故事聚焦于太子刘言，因父母期望过高，他在严厉的管教下成长，内心渴望自由。随着太子冠礼的进行，刘言被迫脱离东宫，独立生活，他趁机探索外面的世界。在与道士乾阳子的相遇后，得知了“移情玉”的神奇力量，可以使他变身为他人，体验不同的生活。随着变身后，刘言开始频繁出入青楼，体验自由与奢华，逐渐迷失于声色犬马的生活中。小说主题涉及性别认同与自我探索，包含了对权力、自由以及个人欲望的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_江山如梦（上）.docx]([交换]_江山如梦（上）
 | Size            | 34383 bytes                           |
 | MD5             | 99a209ed044f101594b0a8f730b55798                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别转换, 历史小说, 太子, 刘言, 权力斗争, 青楼生活, 欲望探索, 道士, 移情玉, 汉朝, 男性视角, 变身, 二次元, 成人内容, 自我认知, 探索性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

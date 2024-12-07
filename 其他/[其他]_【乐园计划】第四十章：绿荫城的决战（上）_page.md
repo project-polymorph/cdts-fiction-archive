@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【乐园计划】第四十章：绿荫城的决战（上�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别主题的小说《乐园计划》第四十章，标题为「绿荫城的决战（上）」。文本主要围绕两位主要角色风灵与萱儿的战斗情景展开，充满了动感与魔法对决的描写。战斗中，角色们应用各自独特的能力与元素，例如风灵的斗气、萱儿的闪电，以及以水系魔法为主的沐沐姐姐。故事中穿插了各种战斗策略和角色间的互动，如风灵为冲破萱儿的攻击而采取迅猛的进攻，月璃尝试用触手元素来制服对手，沐沐则用优雅的舞步伴随魔法攻击。情节紧凑且富有戏剧性，通过角色间的对话与战斗描述，展现了角色在极端情况下的心理与能力对比，暗示了她们间复杂的关系与情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【乐园计划】第四十章：绿荫城的决战（上�
 | Size            | 33792 bytes                           |
 | MD5             | 3bddfd47abfccceaf3b4d1d93a824a38                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 多元性别, 战斗, 魔法, 角色扮演, 性别认同, 自我探索, TSF, 伪娘, 变身, 异世界, 女体化, 强攻, 双关, 元素魔法, 对抗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

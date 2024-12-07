@@ -7,7 +7,7 @@ TXT 下载: [[变性]_借体重生_1.docx]([变性]_借体重生_1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《借体重生》一部关于性别转换及灵魂转移的小说，故事主要围绕米若拉·赫尔尼和她的女儿琉芭展开。在匈牙利1956年的苏联入侵时期，米若拉为了确保女儿的安全，决定让她逃往美国，并在临别前传授她一个奇特的家族秘密：在琉芭六十五岁时，她可以通过与一个男人亲密，达到灵魂转移的目的，从而实现永生。小说开篇描述了战火中的母女情深，米若拉在生死离别之际的坚定与牺牲，而随着时间的推移，五十二年后的现代生活也逐渐浮现，涉及了迈克尔·布里顿的生活背景与情感探索。通过对比母女在不同时代的命运，探讨了性别、灵魂和爱的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_借体重生_1.docx]([变性]_借体重生_1.docx)
 | Size            | 24840 bytes                           |
 | MD5             | 8f93ad501c608ab3fce266d77bf4d11b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lana B.                               |
+| Region          | 未知                               |
+| Date            | 2013-03-01                                 |
+| Tags            | 性转, 跨性别, 母女情深, 永生秘技, 灵魂转移, 历史小说, 二次元, 奇幻, 情感探索, 生活重生, 战后生活, 母爱的牺牲, 成长与自我认知, 悲剧, 魔法, 家庭秘密, 人际关系, 新时代, 爱情, 社会变迁, 身份认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

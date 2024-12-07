@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_百鬼众魅·急兔反噬（第十一篇）.doc]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《百鬼众魅·急兔反噬》的第十一篇，属于伪娘和跨性别相关的小说类型，内容围绕一个权力结构复杂的情报组织展开。故事中，女董事长在办公室加班的场景，展示了她与女秘书之间的暧昧关系与权力游戏。角色们在职场与私生活中的切换被描绘得细腻而生动，强调了女性角色的双重身份与性别认同的探索。描述了一段涉及权利与欲望的互动，在昏暗的环境中，角色们的身体与身份模糊，体现了性别身份与社会角色的冲突。此外，文中描写了性转和变身的情节，女秘书在被召唤变身后，展露出双性特征，增添了故事的奇幻与情色元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_百鬼众魅·急兔反噬（第十一篇）.doc]([皮物]
 | Size            | 91136 bytes                           |
 | MD5             | 184aef64575f6f841d5f12e09b6abb57                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 权力游戏, 性别认同, 情报组织, 权欲, 女性力量, 性转, 诱惑, 双性特征, 情感纠葛, 办公室恋情, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_如梦双姝.doc]([变装]_如梦双姝.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《如梦双姝》，是一部围绕伪娘与性别认同题材的小说。故事主要围绕两位大学新生周临宵与陆羽展开。在炽热的军训期间，周临宵因身体上的性别不明而频繁遇到尴尬，尤其在一次洗澡后，陆羽误入洗手间，揭开了周临宵的秘密。在这场对性别认同与个人秘密的探索中，陆羽与周临宵之间的关系渐渐变得微妙。陆羽从一开始的娱乐与玩笑逐渐转变为对周临宵身份的理解和支持。该小说文笔细腻，通过幽默的对话与真实的心理描写，探讨了自我认同与社会评价之间的冲突。作品中不仅展示了大学生活的琐事，同时还包含了关于友情、性别认同的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_如梦双姝.doc]([变装]_如梦双姝.doc)
 | Size            | 251904 bytes                           |
 | MD5             | b13b0b03d8fcf1ee8828563effc6adfb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 大学生活, 自我探索, 性转, 友情, 心理冲突, 幽默, 青春成长, 性别转换, 校园爱情, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

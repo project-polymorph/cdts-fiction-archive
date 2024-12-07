@@ -7,7 +7,7 @@ TXT 下载: [[变装]_服從的喜悅_(上).doc]([变装]_服從的喜悅_(上).
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以对话为主的小说片段，主要围绕两个角色——叙述者和他的朋友特里恩，展开了一场深入的交流。故事开始于两人酒吧小聚，在轻松的喝酒氛围中，叙述者对特里恩的性格进行了一番细致的剖析，描述了特里恩作为完美主义者的特征以及他在职场上的成功。随着谈话的深入，叙述者察觉到特里恩似乎有心事，开始主动询问他的近况。在一系列交流中，特里恩透露了因性功能障碍而苦恼的心理问题，这让叙述者作为心理治疗师的职业身份接了上来，提供了建议和治疗思路。整个故事展示了友谊的深厚与心理问题的复杂性，并且暗示了两位男性角色之间潜在的情感联系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_服從的喜悅_(上).doc]([变装]_服從的喜悅_(上).
 | Size            | 83968 bytes                           |
 | MD5             | e80899b08b0a87cdc132d747562ebbe4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 心理咨询, 性功能障碍, 完美主义, 友谊, 酒吧聚会, 心理治疗, 男性角色, 对话小说, 情感探索, 现代关系, 性别认同, 自我意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

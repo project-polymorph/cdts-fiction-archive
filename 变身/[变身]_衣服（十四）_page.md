@@ -7,7 +7,7 @@ TXT 下载: [[变身]_衣服（十四）.doc]([变身]_衣服（十四）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部轻H向的都市校园异能小说，采用第一人称叙述，文字中充满了角色内心的戏剧化描写，展现了主角与好友阮敏之间的感情互动。故事情节围绕着在一次回到安全屋的途中，主角与阮敏的相处展开对话，包含了关心、亲昵的相互交流，如‘你回来啦’和‘太好啦！身体能恢复就好！’等温馨的台词。通过食物分享，主角亲手喂阮敏，增添了他们之间的亲密感。此外，主角在努力掌控能力和身份认同的过程中，体现了自我探索与成长的主题。整个故事设置在一个充满异能的都市校园，主角的变身经历以及与好友的互动反映了心理与生理之间的冲突，以及身份的重新认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_衣服（十四）.doc]([变身]_衣服（十四）.doc)
 | Size            | 68096 bytes                           |
 | MD5             | 1b2d4e3732d6735875f8e188d5bf94ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 轻小说, 都市奇幻, 校园异能, 性别转换, 第一人称, 亲密关系, 角色成长, 自我探索, 变身小说, 伪娘, 双胞胎关系, 温馨, 超能力, 互动, 情感冲突, 深度描写, 受众爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

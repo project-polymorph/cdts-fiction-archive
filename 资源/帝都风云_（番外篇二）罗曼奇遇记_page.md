@@ -7,7 +7,7 @@ TXT 下载: [帝都风云_（番外篇二）罗曼奇遇记.doc](帝都风云_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《帝都风云_（番外篇二）罗曼奇遇记》是一部以帝国背景为设定的小说，讲述了主角罗曼在面包店内忙碌的日常生活，以及与表妹露娜之间的情感纠葛。故事从罗曼清晨在面包店准备早餐开始，他在店里招待顾客，透过橱窗观察街上的景象。随着日常的展开，故事逐步揭示了罗曼与露娜之间的深厚联系，背负着骑士梦的他为了自身情感放弃了成为正式骑士的机会。在这个过程中，罗曼遇见了与露娜有关的重要人物利迪，两人之间的交流透露出露娜在皇宫中的地位，以及罗曼对她深厚的感情和未来的憧憬。随着情节的发展，故事交织着日常琐事与情感的交汇，带有一丝淡淡的遗憾与期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [帝都风云_（番外篇二）罗曼奇遇记.doc](帝都风云_�
 | Size            | 56320 bytes                           |
 | MD5             | d0114b3e7741a4d3a752cd2a7d5170a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 情感纠葛, 骑士精神, 帝都, 面包店, 爱情, 皇宫, 亲情, 成长, 自我探索, 日常生活, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

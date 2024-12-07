@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【原神同人】冰荧术士.doc]([变身]_【原神同�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于角色重云与行秋之间发生的奇幻恋爱小说，背景设定在《原神》的幻想世界中。故事开始于璃月港的一间茶馆，讲述了主角重云在寻找妖邪的过程中，邂逅了一位神秘的蓝发少女安娜，她宣称能够解决重云的‘纯阳之体’问题。随着情节发展，重云与安娜的互动逐渐加深，重云内心的挣扎与自我认同感也在描写中凸显。重云与朋友行秋之间的深厚情谊在此过程中也遭遇了考验。小说涉及性别转换、爱情与自我探索等主题，充满了二次元的奇幻色彩，表现了角色间复杂的心理活动与情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【原神同人】冰荧术士.doc]([变身]_【原神同�
 | Size            | 67072 bytes                           |
 | MD5             | 8837fb80f1d2205dfcac03994ff8a219                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 重云, 行秋, 纯阳之体, 原神同人, 奇幻, 爱情, 自我探索, 角色扮演, 伪娘, 冒险, 青涩恋情, 青春, 幻想世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

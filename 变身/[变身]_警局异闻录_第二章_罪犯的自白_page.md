@@ -7,7 +7,7 @@ TXT 下载: [[变身]_警局异闻录_第二章_罪犯的自白.docx]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇跨性别题材的变身小说第二章，主要讲述了女警林薇在审问强奸犯的过程中，意外地与罪犯发生身体互换。故事开头通过林薇的视角描写了她身处警局审讯室的情景，感受到扑面而来的香气后，她的身体反应逐渐失控，并在审问过程中被罪犯挑逗，最终沦为强奸犯的受害者。整个过程中，林薇经历了情感与身体上的极大冲突，最后意识到自己已经和罪犯交换了身体。文中深刻揭示了性别与角色认同的复杂性，涉及自我探索和性别认同的主题。同时，故事也暗示了对林薇身份的混淆，以及对其能力和权威的挑战。故事的结尾留下悬念，提示林薇与罪犯的联系及其所引发的后果，令人深思。整体来看，文档内容涉及诸多敏感话题，包括性别身份与转换、诱惑与侵犯等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_警局异闻录_第二章_罪犯的自白.docx]([变身]_�
 | Size            | 19848 bytes                           |
 | MD5             | 0c565899b4c499921ba33ef2136d5f93                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 强奸, 身份交换, 自我认知, 心理冲突, 警局, 罪犯, 性感, 角色扮演, 诱惑, 悬疑, 生理反应, 女性角色, 性别认同, 权威挑战, 惊悚, 都市, 青春, 成长, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

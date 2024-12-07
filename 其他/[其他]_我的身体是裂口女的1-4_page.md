@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我的身体是裂口女的1-4.docx]([其他]_我的身体
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇伪娘TS变身相关的小说，描绘了主人公探索与裂口女怪谈相结合的奇幻经历。故事开始时，主人公作为一个高中生，因身体原因而前往传说中的裂口女出现的地点。在他的探险过程中，经过一段紧张的观察后，他意外地与裂口女相遇，并通过一卷神秘的秘籍，与这位形象恐怖的存在展开了一系列令人毛骨悚然的互动。故事的高潮部分，主人公在与裂口女的接触中，逐渐发生了性别与身份的变化，最后变成了一位女性，体验着全新的身体感受及内心的挣扎。此作品涉及性别认同、自我探索等复杂主题，不乏带有成人内容和情感戏剧化的描写，体现了伪娘文化和性别流动的特征。其情节包括身体的变化、对新身份的反思，以及与女性身体的亲密关系处理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我的身体是裂口女的1-4.docx]([其他]_我的身体
 | Size            | 41269 bytes                           |
 | MD5             | e4543444be5354799342c99564a682bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, TS变身, 裂口女, 性别认同, 自我探索, 怪谈, 情色, 冒险, 幻想, 变身, 青春期困惑, 恐怖元素, 身体交换, 心理性别, 异世界, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

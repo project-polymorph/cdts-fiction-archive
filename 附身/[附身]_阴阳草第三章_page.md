@@ -7,7 +7,7 @@ TXT 下载: [[附身]_阴阳草第三章.docx]([附身]_阴阳草第三章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇描绘性别转变的小说，名为《阴阳草》第三章。在这一章节中，男性角色陈诚意外地醒来发现自己变成了女性角色张燕，并且在探索新身体的过程中，体验到了不同于以往的感受。故事通过生动的描写，呈现了陈诚对自己变形之后的身体的惊讶和探索，反映了他在性别认同和自我认知上的挣扎。同时，陈诚还收到了一条来自张燕男友颜严武的消息，突显出他对于新身份的复杂情感和对张燕感情的困惑。通过对陈诚内心变化的细腻描写，作品探讨了性别认同和身体意识之间的联系。文本中包含了一些露骨和色情的情节描写，例如陈诚对自己身体的详细感知以及对性快感的初步探索，充分展现出作品的成人向特质。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_阴阳草第三章.docx]([附身]_阴阳草第三章.docx)
 | Size            | 20199 bytes                           |
 | MD5             | b63bda482ff2d3ccaed1ff94daa415ce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 性转小说, 伪娘, 跨性别, 情感纠葛, 自我认知, 身体探索, 色情, 心理变化, 爱情, 青春校园, 都市奇幻, 变身, 欲望刺激, 生活琐事, 两性关系, 青春成长, 男性视角, 性别认同, 变嫁, 变装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

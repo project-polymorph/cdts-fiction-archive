@@ -7,7 +7,9 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第四回.doc]([变性]_《蒹葭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是变性小说《蒹葭录》第二卷的第四回，主要讲述了角色宋沚陵与朱兴言之间的故事发展。在故事的开头，宋沚陵与疾风、朱兴言一起探讨潜龙穴的秘密，过程中经历了险象环生的暗杀情节。宋沚陵在保护朱兴言的过程中，面临着敌人的追击和自身的澄思，思绪纷繁，心态复杂。在一段描写中，宋沚陵在密林中默默守护，显露出对朱兴言的深厚感情，决心在安全后和他一起闯荡江湖。
+
+在故事的后半段，宋沚陵追踪一只白毛狐狸，引发了希奇的遭遇。狐狸引导宋沚陵进入深山，接下来的描述描绘了他在山中的独特体验，包括与灵狐的互动，以及蜕变与探索的内心挣扎。通过细腻的描写，展现了主人公的性别认同与情感纠葛，描绘了他对个体身份的反思与发掘。而小说中的情节穿插了一些幻想元素，令角色的性别变化与角色成长相互交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第四回.doc]([变性]_《蒹葭
 | Size            | 51712 bytes                           |
 | MD5             | 875bc972e397b0afb9ccfae53232d8b2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 情感纠葛, 自我探索, 幻梦, 山水, 人物发展, 灵狐, 武侠, 情感深度, 历史背景, 百合                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

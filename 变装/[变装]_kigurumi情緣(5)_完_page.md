@@ -7,7 +7,7 @@ TXT 下载: [[变装]_kigurumi情緣(5)_完.doc]([变装]_kigurumi情緣(5)_完.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部性转题材的小说，讲述了名叫晨云的少年在面对自我认同与社会期望的冲突时所经历的成长与探索。故事从晨云的童年切入，描绘他作为一个被孤立和排斥的孩子，因异于常人的言论而被同龄人冷落。随着时间的推移，晨云逐渐成为一个极度内向和沉迷于二次元文化的宅男，他的性格与生活因一系列偶然的事件而发生变化。在学校，晨云的学业表现开始追赶同学，似乎预示着他自我认同的转变。与此同时，故事中还有他与女友藍的情感纠葛，二人之间的感情经过了波折，藍为他们的未来感到不安，并希望晨云能接受自己的真实身份。最终，晨云在学校的舞会上遇到了一位惊艳的女子，震撼了所有人，也从这一刻开始，晨云的生活将迎来新的挑战与机遇。整部作品融合了性别认同、爱情与成长等复杂主题，适合对性转与跨性别话题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_kigurumi情緣(5)_完.doc]([变装]_kigurumi情緣(5)_完.
 | Size            | 65536 bytes                           |
 | MD5             | 51edbc3400f982d02d7e1d7f1f623a84                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 爱情, 成长, 自我探索, 校园生活, 二次元文化, 心理斗争, 情感纠葛, 女性视角, 孤独与接纳, 变身, 异性恋与同性恋, 身份认同, 角色扮演, 奇幻, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

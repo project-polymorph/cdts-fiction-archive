@@ -7,7 +7,7 @@ TXT 下载: [[改造]_卧底丈夫4~5.docx]([改造]_卧底丈夫4~5.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《卧底丈夫4~5》描述了一位名叫米歇尔的角色在性别转换训练后的回归家庭生活。故事中的米歇尔原本是男性，在接受了一系列训练后，化身为女性身份，成为他妻子维多利亚的女仆。文章详尽地描绘了米歇尔在适应新身份的过程中所经历的心理变化与情感冲突。在文中，米歇尔需要遵循琼恩老师的规定，以维持他的女性化形象，并以女仆的身份回到家中。尽管米歇尔对新生活始感不安，但他逐渐接受并习惯这种角色。故事还探讨了关于性别认同、自我探索以及角色扮演的复杂情感，尤其是在米歇尔与维多利亚的亲密互动中体现出两人间的关系变迁。关键情节包括米歇尔对自己新身份的认同、维多利亚对他新角色的期待，以及米歇尔在执行家务时所表现出的顺从与愉悦感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_卧底丈夫4~5.docx]([改造]_卧底丈夫4~5.docx)
 | Size            | 20005 bytes                           |
 | MD5             | 74dff86b7ee07836def19da05662ff01                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 角色扮演, 家庭生活, 性别认同, 自我探索, 情感纠葛, 女仆, 训练, 心理变化, 男性转女性, 亲密关系, 生活习惯, 服装训练, 性别身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

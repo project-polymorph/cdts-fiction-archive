@@ -7,7 +7,7 @@ TXT 下载: [[交换]_换身后的撞鬼生涯（1-5）.doc]([交换]_换身后�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个围绕年轻角色萧汉与他的朋友们在精神病院探险的故事。小说以轻松幽默的对话开始，描绘了萧汉与他的好友武孙之间关于女生和朋友关系的互动。故事设置在一个被证实发生过灵异事件的精神病院，萧汉和他的朋友们前往这里进行除灵任务。随着他们的调查，萧汉回忆起自己高中时的经历，尤其是与一个逃犯胡海相关的血迹，让他们对即将到来的挑战感到紧张。这篇小说深入探讨了角色间的关系和性别认同，夹杂着青春的青涩和成长的烦恼。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_换身后的撞鬼生涯（1-5）.doc]([交换]_换身后�
 | Size            | 72704 bytes                           |
 | MD5             | b1051c797204ce4250ff6f1ebf4988a8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身, 青春, 灵异, 友情, 探险, 性别认同, 都市奇幻, 心理恐怖, NTR, 校内生活, 恋爱, 悬疑, 校园, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

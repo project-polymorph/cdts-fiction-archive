@@ -7,7 +7,7 @@ TXT 下载: [[变性]_大学记8.doc]([变性]_大学记8.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一本关于伪娘与变性题材的小说，讲述了主人公在大学生活中的成长与情感纠葛。内容中涉及了多样化的人物关系和复杂的情感纠纷，尤其是主人公与其男性朋友周兵的关系，在他们的互动中展现了性别认同的冲突和自我探索的过程。故事中，主人公经历了身体与心理的变化，与多位女性角色的情感交织，引发了一系列关于性别、爱情和社会认同的话题。小说中包含了一些较为大胆的描写，尤其是在性行为与情感交流方面，展现了现代年轻人在性别和情感上的探索与困惑。随着情节的展开，主人公面临着自我身份的认同与社会期望的矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_大学记8.doc]([变性]_大学记8.doc)
 | Size            | 50688 bytes                           |
 | MD5             | d5e10a471b5cb95507cbd4fafb6bb518                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 人生万花筒                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变性, 性别认同, 大学生活, 爱情, 自我探索, 跨性别, 情感纠葛, 青春, 性权利, 性转, 恋爱, 强奸, 乱伦, 药娘, 调教, 高校, 二次元, 强攻, 多角关系, 性幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

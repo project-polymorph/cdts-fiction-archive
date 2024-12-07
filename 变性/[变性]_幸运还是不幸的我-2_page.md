@@ -7,7 +7,7 @@ TXT 下载: [[变性]_幸运还是不幸的我-2.docx]([变性]_幸运还是不�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于青春与性别认同的小说，讲述了主角在大学生活中的复杂感受和自我探索的过程。故事开头，主角被养母送到新的学校，成为班上唯一的男生，面对29个女生的环境感到孤独和压力。随着情节的发展，主角逐渐适应了这种环境，并与班里的女生们建立了各种各样的关系，尤其是与丁晓兰的深厚友谊。男生宿舍的存在感微弱，女同学们对主角的捉弄让他感到不安，但也让他意识到自己的性别认同与自我形象的冲突。主角羡慕女生们的青春与活力，并在无意中发现自己对女性的情感，但面对对自我认同的追问，仍然感到迷茫。故事中充满了校园生活的真实描绘，细腻地表达了主角对身份的探索和对他人的情感，以及对未来的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_幸运还是不幸的我-2.docx]([变性]_幸运还是不�
 | Size            | 27451 bytes                           |
 | MD5             | d74a3b63879821b124ff79abb19eb5be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 校园生活, 友谊, 青春, 变性, 情感纠葛, 大学, 生活挑战, 心理冲突, 女主角, 跨性别, 伪娘, 男娘, 女性视角, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

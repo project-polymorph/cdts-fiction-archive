@@ -7,7 +7,7 @@ TXT 下载: [[变装]_错位的夫妻（扶她X伪娘）第二章.doc]([变装]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述的是一对夫妻——林温婉与叶云诗在经历了奇特的事件后，身份及性别发生了颠覆性的变化。故事的情节围绕着林温婉和她的丈夫叶云诗，因为某种原因，两人的性别和角色发生了互换，林温婉具备了男性生殖特征，而叶云诗则转变为女性形象。故事中，林温婉对于自己变成拥有男性特征的角色感到困惑，且与叶云诗之间在身体和心理上的冲突拉开了故事的序幕。这种设定不仅引发了两人对于自我身份的探索，也揭示了一个与现实截然不同的平行世界。在这个世界中，扶她与伪娘的存在成为了社会的一部分，影响着人们的关系与认知。故事包含了一些带有性暗示的情节，使得夫妻二人不得不面对互相成熟与变化的心态与身体。此外，过程中还有幽默与困惑交织的对话，展示了两人尝试了解这个新世界到逐渐接受变化的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_错位的夫妻（扶她X伪娘）第二章.doc]([变装]_
 | Size            | 56832 bytes                           |
 | MD5             | 340b35e02b971da0951ebcc9f70dbf33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 扶她, 伪娘, 变身, 跨性别, 自我认同, 色情, 爱情, 心理冲突, 平行世界, 婚姻, 社会变化, 性别角色, 身体交换, 情感探索, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

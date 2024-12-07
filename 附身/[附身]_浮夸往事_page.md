@@ -7,7 +7,9 @@ TXT 下载: [[附身]_浮夸往事.docx]([附身]_浮夸往事.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《浮夸往事》是一部以大学生活为背景的变身小说，讲述了主角刘丝铞在一次意外中遭遇了意想不到的经历。故事开头，刘丝铞是一名普通的工科大二学生，被同学女孩无视并称之为‘屌丝’，这使他并没有感到生气，反而觉得好笑。故事随着一个强烈的冲击而展开，刘丝铞在医务室醒来，发现自己将要与自杀的李力的灵魂共处七天。这段时间内，刘丝铞经历了身体与身份的双重变换，随着对李力灵魂的接触，他的自我意识和性别认同也在不断变化。
+
+在医务室中，刘丝铞与护士刘静诗的关系发展迅速，充满了性暗示和欲望的细节描写，使得整个故事充满了色情内容和心理冲突。在这个过程中，刘丝铞不断探索自己对性别的认同及欲望，同时也涉及了同学间的复杂人际关系与自我发现的主题。整体文风轻松幽默，但不乏深刻的探讨与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_浮夸往事.docx]([附身]_浮夸往事.docx)
 | Size            | 27165 bytes                           |
 | MD5             | 059e0f64c73972320ee4139a81f1d846                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 大学生活, 灵魂交换, 性转, 伪娘, 校园情色, 自我探索, 心理冲突, 护士, 强烈冲击                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

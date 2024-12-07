@@ -7,7 +7,7 @@ TXT 下载: [[附身]_紅靈石（２）.docx]([附身]_紅靈石（２）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《紅靈石（２）》是多元性别中文数字档案馆中收录的一部伪娘与跨性别相关小说。故事描绘了一名穿越附身在他人身上的男主角与身边女子子恩之间的亲密关系，通过对话呈现出了他们的互动与情感发展。开头描绘了男主在医院醒来的情景，随后与子恩发生了一系列情感和身体上的亲密接触，暗示了他们的关系经历了一种强烈的自我认同过程。故事中包含了丰富的性别主题，通过男主的视角探索了性别改变与性欲之间的复杂关系。该文中亦涉及了一些限制级内容，包含了与性相关的隐喻和描写，表现出强烈的感官刺激和情感张力，同时还暗含了对性别认同的探讨与思考。整体来看，这是一部融合了恋爱与性别探索元素的小说，具有较强的情感代入感和文学性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_紅靈石（２）.docx]([附身]_紅靈石（２）.docx)
 | Size            | 18232 bytes                           |
 | MD5             | 405d0152099f3b294e9c640fd5c4dcad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2011-02-03                                 |
+| Tags            | 伪娘, 跨性别, 性转, 爱情, 欲望, 病院情缘, 强制性行为, 自我认同, 情感纠葛, 成人内容, 幻想, 附身, 情感探索, 性别转换, 亲密关系, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

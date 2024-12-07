@@ -7,7 +7,7 @@ TXT 下载: [[附身]_灵魂管理器2型(1).docx]([附身]_灵魂管理器2型(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕大学生赵俊与他的邻居吴杰之间的友谊和奇妙经历展开。故事开始于赵俊邀请吴杰一起去电玩展，却意外发现吴杰拒绝的态度很怪异。随着情节的发展，赵俊在电玩展上遇见了一位美丽的女孩陈甜甜，并意外得知她与吴杰之间的神秘关系。吴杰暗示自己通过某种方式‘附身’到了陈甜甜的身体中，开玩笑道自己能以女孩的身份拍摄性感照片。在一次生日聚会上，陈甜甜突然出现在赵俊的房间里，并穿着兔女郎服装，这一切使得赵俊感到困惑与惊喜。逐渐揭开的秘密与两人间的亲密互动，呈现出校园青春与奇幻色彩交织的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_灵魂管理器2型(1).docx]([附身]_灵魂管理器2型(
 | Size            | 26787 bytes                           |
 | MD5             | 167fd2143c62716f286057f0cc712437                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 校园, 纯爱, 兔女郎, 附身, 魔法, 青春, 友谊, 电玩展, 宅文化, 自我探索, 性别认同, 奇幻, 二次元, 情感成长, 女生视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

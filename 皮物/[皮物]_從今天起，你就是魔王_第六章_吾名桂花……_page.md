@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_第六章_吾名桂花…�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容为一部涉及性转与跨性别题材的小说片段，描绘了主角桂花在经历亡灵瘟疫的背景下与周围角色的互动。故事发生在一个充满魔法与冒险的奇幻世界，桂花原为成年男性，却以少女的形象面对此次瘟疫危机。在节选中，桂花在城内进行日常的商业活动，协助治愈感染者，并与各方角色交流，诸如教会的高层与贵族们关于瘟疫的努力与胜利。此文还探讨了角色的性别认同与社会期待之间的矛盾，通过桂花的外表与真实身份的对比，展现了对女性形象的认同及心理冲突，同时加入了成熟女性巫妖对男性角色菲尔的爱慕，为故事增添了戏剧色彩和幽默感。文中包括了转化和自我发现的元素，以及一些轻松搞笑的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_第六章_吾名桂花…�
 | Size            | 41436 bytes                           |
 | MD5             | 4874badfe401a5d245a2a3f8da0a9e1e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 奇幻, 自我认同, 亡灵瘟疫, 角色互动, 女性形象, 魔法, 冒险, 幽默, 社会期待, 治愈                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

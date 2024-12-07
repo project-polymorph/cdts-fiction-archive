@@ -7,7 +7,7 @@ TXT 下载: [[变性]_DTX之绝爱-9.doc]([变性]_DTX之绝爱-9.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一项男女互换身体实验的观察结果。实验的两位参与者宋海兰和霍正东完成了身体性的转换，宋海兰现在成为了壮汉宋大勇，而霍正东则变身为性感可爱的萝莉霍丽丽。文中详细描述了他们的新外貌特征，如宋大勇的高大身材、白皙皮肤及硬朗气质，和霍丽丽的娇小可爱、低胸裙装，搭配娃娃妆的迷人形象。两人交谈中表现出彼此间的感情，显得可爱又有趣，也显示出他们在适应新身份过程中面临的挑战和反思。文中还提到实验的阶段性完成和未来的观察计划，给读者展示了性别转换后角色身份和身体的巨大变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_DTX之绝爱-9.doc]([变性]_DTX之绝爱-9.doc)
 | Size            | 50176 bytes                           |
 | MD5             | e70e082018b5d5a83d4b578d46cac868                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性别认同, 伪娘, 变身, 爱情, 童话风, 自我探索, 实验报告, 二次元, 性别转换, 亲密关系, 心理适应, 家庭关系, 科学研究, 虚拟现实, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

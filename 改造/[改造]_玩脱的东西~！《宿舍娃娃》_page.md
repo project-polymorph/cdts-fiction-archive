@@ -7,7 +7,7 @@ TXT 下载: [[改造]_玩脱的东西~！《宿舍娃娃》.doc]([改造]_玩脱
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于未来高中生的性转故事，重点描述了一群年轻男性在高中的宿舍生活以及他们的性别转换体验。故事发生在3061年的未来，男孩们为了满足日渐增长的性需求，学校实施了《高中寝室轮值娃娃实施草案》，允许合格的学生使用一种名为“娃娃转换装置”的科技设备来进行性别转换。故事的主角曹彬在朋友的推动下，佩戴了这个项圈，经历了从男孩变为女孩的过程。文中详细描绘了转换的痛苦与快感，并探讨了青春荷尔蒙的冲突。角色间的互动也展现了男孩们面对性转的不同反应，既有幽默也有压力，同时透视了未来社会对性需求的应对措施。详细地描述了角色如何配置自己的身体与认同，突出性别流动性的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_玩脱的东西~！《宿舍娃娃》.doc]([改造]_玩脱
 | Size            | 37376 bytes                           |
 | MD5             | 918da8f7699386668c7492e0e52ef0be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 高科技, 性别认同, 青春期, 男娘, 伪娘, 校内生活, 性需求, 轮值娃娃, 同性恋, 高中生活, 未来社会, 痛苦与快感, 自我探索, 青少年心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

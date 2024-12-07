@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】圣诞节的猫.doc]([变性]_【翻译】圣�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《圣诞节的猫》是由 Paula Girl 创作并翻译的跨性别题材短篇小说，主要讲述了主人公保罗在圣诞节期间的心里历程与自我认知的变化。故事中，12岁的保罗面对来自同伴的性别角色期望与自己真实的情感需求之间的挣扎，他渴望拥有一只猫，并感到这项请求是否对一个男孩来说过于异常。通过与圣诞老人对话，保罗希望突破性别的界限，但在获得这一愿望后，迎来的是更深层的身份认同挑战。当保罗在圣诞早晨发现自己变成了一个女孩，并以女孩的形象面对生活时，通过镜子看到的自己让他震惊不已：他换上了女孩的服装，头发也变得长长。这一变化使得他开始重新思考自己的性别认同和自己所渴望的生活。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】圣诞节的猫.doc]([变性]_【翻译】圣�
 | Size            | 37376 bytes                           |
 | MD5             | a22f8a5fcee9c6965e1956a2dde66952                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Paula Girl                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 圣诞节, 奇幻, 幻想, 男孩变女孩, 秘密身份, 自我发现, 家庭, 责任, 同伴压力, 角色期望, 魔法，变身, 成长, 身份探究                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

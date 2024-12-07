@@ -7,7 +7,7 @@ TXT 下载: [[皮物]__补课.doc]([皮物]__补课.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇跨性别相关的小说，讲述了高三男生小贤的故事。他的父母十分有钱，但小贤却心中充满了孤独和对父亲的怨恨，因为他在年幼时失去了母亲。小贤的生活中，父亲的监护和照顾显得十分苍白，导致他在情感上有着严重的缺失。为了学习，小贤经常接受补习，但每个女家教都没有令他满意。直到有一天，一个与母亲相似的女大学生夏晴到来为他补课，她温柔的眼神和母亲的相似之处，让小贤的心中封闭的地方被触动。他们谈论生活，逐渐打开心扉，小贤的悲伤与恨意也在与夏晴的交流中得到了一定的缓解。这部小说涉及性别认同、自我探索等主题，情感描写细腻，展现了小贤心路历程的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]__补课.doc]([皮物]__补课.doc)
 | Size            | 32768 bytes                           |
 | MD5             | e19b6c9b21a678ff9b21eb4ce1602d52                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 孤独, 补习, 父母关系, 高三生活, 温柔眼神, 情感交流, 家庭悲剧, 爱情发展, 男性视角, 心理冲突, 变装, 大学生活, 成长经历, 母子情感, 宿舍生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

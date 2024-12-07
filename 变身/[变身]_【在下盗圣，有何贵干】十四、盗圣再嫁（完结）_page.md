@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】十四、盗圣再嫁（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一部关于变身和跨性别主题的小说情节，名为《在下盗圣，有何贵干》，章节为‘十四、盗圣再嫁（完结）’。故事围绕主角小白的婚礼展开，在热闹的婚队中，新郎游龙青的魅力吸引了众人围观。当小白的新娘身份逐渐揭示，故事中惊喜与刺激的情节不断升级，尤其在小白和她的伴娘飞飞之间的互动，颇具挑战与冒险。飞飞与游龙青是兄弟关系，但飞飞在小白婚礼之际，对小白的调侃让故事充满了暧昧的氛围。在轿子内，飞飞试图利用小白的身份进行游戏与捉弄，但情节却意外转向。随着婚礼的进行，角色之间复杂的情感及身份交错，使得整个故事更具戏剧性与性别认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】十四、盗圣再嫁（�
 | Size            | 44032 bytes                           |
 | MD5             | 560a78155972d8481ec3af39e141e3e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 婚礼, 性别认同, 情感纠葛, 欲望, 姘头, 互动, 传统婚礼, 女儿情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

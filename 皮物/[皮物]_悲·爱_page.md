@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_悲·爱.docx]([皮物]_悲·爱.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《悲·爱》描绘了一段复杂而富有情感的恋爱故事，涉及到角色之间的深厚情感和心理冲突。故事的叙述者与其女友之间的互动非常亲密，充满了调情和暧昧的气氛。从开头的细腻描写开始，窗外车流的喧嚣映衬出卧室内的亲密场景，主角的思绪里不断浮现出对另一位女性的回忆，展现出对逝去爱情的怀念和如今爱情的挣扎。文中提到的“你不能在我们刚做完的时候想她！否则……”暗示着角色在情感上的复杂和纠结。在随后的场景中，伴随他们日常生活的琐碎细节，如早餐的准备和一起看病的紧张互动，深化了人物之间的关系。在医院排队过程中，叙述者对名为张心凌的医生的执念，成为了潜藏于心中的不安与疑虑的象征。整篇小说以其细腻的情感描写和角色的心理描写而富有层次感，充分展现了现代都市年轻人的情感寻求与内心挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_悲·爱.docx]([皮物]_悲·爱.docx)
 | Size            | 29063 bytes                           |
 | MD5             | 60fd17b9d6e1d606bafa9b7cc2654c97                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 情感, 恋爱, 心理冲突, 都市生活, 性转, 强烈的性幻想, 女友关系, 自我探索, 暧昧关系, 医院, 性别角色, 复杂情感, 日常生活, 调情, 青春, 爱情, 变身, 文学作品                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

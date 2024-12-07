@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（申码文搬运~）欢愉的临时测试工作.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部围绕学生生活与超自然事件的小说设定，主要讲述了角色吴琪对失踪好友苏黎的关心以及学校周围出现的变态袭击事件。故事的开端讨论了苏黎的缺席，引出了吴琪与班主任的对话，暗示了苏黎可能卷入了不寻常的事情。接下来的情节展现了黄毛少年们的谈话，透露了袭击的诡异细节：受害者在失去记忆后没有留下任何证据，似乎是一种超自然的力量使然。故事的高潮部分正如吴琪放学时遭遇了神秘的魅魔，描绘了一系列引人入胜的情节如：魅魔的诱惑、吴琪的恐惧及最终面对的超自然现象。此文综合了青春、悬疑和奇幻元素，展示了对于性别、身份与人际关系的复杂探讨，同时也囊括了部分较为露骨的场景，适宜成人读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（申码文搬运~）欢愉的临时测试工作.docx]([�
 | Size            | 47181 bytes                           |
 | MD5             | e09d341a06d9f38a7d93d857d05f2191                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 青春校园, 超自然, 魅魔, 变态袭击, 悬疑, 性别认同, 自我探索, 校园生活, 朋友关系, 惊悚, 诱惑, 奇幻, 变身, 黑暗幻想, 自我认知, 孤独                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

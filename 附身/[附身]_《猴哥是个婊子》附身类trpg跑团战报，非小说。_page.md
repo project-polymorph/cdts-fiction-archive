@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《猴哥是个婊子》附身类trpg跑团战报，非小
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一份关于桌上角色扮演游戏（TRPG）的战报，尽管形式上是非小说类文本，但可以看作是带有剧情叙述的文档。在本次游戏中，玩家猴哥扮演的是一个可以附身的角色，选择了蜘蛛的形态，体验了一段在仙侠世界中的冒险。文中详细说明了游戏的背景设定和角色的技能，比如‘蛛网’、‘肉欲狂热’等，与游戏的规则互动相结合，展现了桌游高度自由度和代入感的特点。主持人暖檬引导着玩家，通过幽默的对话和角色设定带来了一种生动的参与体验。内容中也提及了一些性暗示及幽默成分，玩家在使用“系统”的过程中逐步展开了探索与冒险的故事，兼有轻松与荒诞的气氛。总体来说，文件为研究TRPG游戏的叙述形式、角色扮演及互动机制提供了有趣的参考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《猴哥是个婊子》附身类trpg跑团战报，非小
 | Size            | 50712 bytes                           |
 | MD5             | f28691ed6563311d50bd0adc9189ea58                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TRPG, 附身, 角色扮演, 蜘蛛角色, 游戏战报, 性转故事, 幽默, 恶搞, 仙侠, 互动游戏, 系统任务, 角色成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_吞噬地球1.docx]([皮物]_吞噬地球1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部科幻风格的变身小说，讲述了一个学生在父亲的奇异指令下，意外收到了一个印有其“妹妹”信息的包裹，包裹中竟然是一具可以穿戴的女性皮囊。这件皮囊看起来极其真实，甚至可用作性转角色的道具。文字中描述了主角在与这些不速之客的对峙过程中，心理与身体的冲突，这不仅是对他自身认知的挑战，更是对道德与文明的质疑。文件描绘了一个被称为“亚特兰提斯的文明”所引发的主题，探讨了人类身份、文明的冲突与自我认同的复杂性。故事中还涉及一些限制级与性相关的情节，描绘了极端的生理与心理变化，展现了一个充满幻想与欲望的世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_吞噬地球1.docx]([皮物]_吞噬地球1.docx)
 | Size            | 30053 bytes                           |
 | MD5             | 2402ac1f0156057cdc9ed8b0f7a18cc5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 皮物, 变身, 伪娘, 跨性别, 亚特兰提斯, 身份认同, 自我探索, 性别转换, 禁忌题材, 年轻女性皮囊, 强盗情节, 性别驱动的戏剧, 身体交换, 主宰统治, 都市幻想, 超现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

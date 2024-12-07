@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《夫尊天下》第五章一本万利.doc]([改造]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《夫尊天下》第五章的内容，主要围绕主人公古月乾与他的妻子王忠贞的家庭生活与关系展开。故事情节涉及角色间的互动及古月乾如何通过各种手段和思维方式来影响家中的氛围，与其岳母古月娇的复杂关系铺展出家庭内的权力斗争与情感纠葛。章节中提到的迷魂汤阵尤其引人注目，暗示着古月乾在家庭内部施加影响的能力及他与妻子之间渐生的情感变化。文章通过温馨又略显复杂的对话，展现了不同性别及身份角色之间的微妙关系，夹杂着一些戏谑与幽默，以及对人性与欲望的考量。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《夫尊天下》第五章一本万利.doc]([改造]_《�
 | Size            | 41984 bytes                           |
 | MD5             | 7d6328cb7aad2661fc986167cbfff25a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 迷魂汤阵, 家庭关系, 性别转换, 权力斗争, 都市生活, 情感纠葛, 身份认同, 心理戏, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

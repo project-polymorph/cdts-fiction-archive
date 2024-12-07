@@ -7,7 +7,7 @@ TXT 下载: [[变性]_火炬女郎的妻子(中).docx]([变性]_火炬女郎的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为里奥（后改名为莎拉）的角色参加英国达人秀的故事，内容详细描绘了她从一名男性转变为女性的过程。故事开启于半决赛，里奥身着舞女服装登场表演，获得观众和评委的瞩目。经过紧张的选拔，里奥最终赢得了比赛，成为媒体关注的焦点。文章深入探讨了她对自己新生活的迷茫与挣扎，以及她与曾经妻子之间复杂的情感纠葛。初始的荣耀和名声并没有使里奥感到幸福，反而让她遗失了与伴侣的联系和自我认同。里奥的转型不仅是外表的改变，更引发了对性别认同和自我价值观的深刻反思。故事的结尾里奥在医院中与妻子相遇，表达了她内心的痛苦与追求的复杂性，显示出性别转变带来的情感冲突与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_火炬女郎的妻子(中).docx]([变性]_火炬女郎的�
 | Size            | 38875 bytes                           |
 | MD5             | 8837be58e800d737e7da1d8a1b8bb11b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 自我认同, 情感纠葛, 参赛经历, 舞台表现, 名声与孤独, 抉择与后悔, 社会压力, 情感反思, 跨性别故事, 男性视角, 转型转变, 音乐与表演, 文学作品                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

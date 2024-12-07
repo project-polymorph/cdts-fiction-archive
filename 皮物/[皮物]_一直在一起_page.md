@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_一直在一起.docx]([皮物]_一直在一起.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品是一篇围绕田村梨子和恭介之间情感描写的短篇小说。故事通过恭介的视角，描绘了他对田村梨子的困惑和情感波动。恭介在体育课与同学们的互动中，暗恋的情感逐渐浮现，他决定在情人节向梨子告白。然而，故事的进展突转为梨子的恐惧和不安，她因为过去的创伤而对男性产生了强烈的排斥。在遭遇朋友明彦的突然转学和田村梨子的生病后，恭介心中的空虚和对爱的期待交织。他们之间的碰撞不仅揭示了青少年的情感困惑，也暗示了性别认同与自我探索的主题，包括梨子在对待男性的恐惧与她的生理与心理状态间的挣扎。文中较多描写梨子的身体特征和情感反应，具有一定的性暗示与心理描写，整体氛围复杂而深邃。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_一直在一起.docx]([皮物]_一直在一起.docx)
 | Size            | 23408 bytes                           |
 | MD5             | db350c288066c9c35d5b23d4bd3ecb7c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 短篇小说, 爱情, 青少年, 性别认同, 情感探索, 伪娘, 强奸, 恐惧症, 校园, 自我认知, 女性视角, 情人节, 友谊, 转学, 心灵创伤, 情感纠葛, 性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

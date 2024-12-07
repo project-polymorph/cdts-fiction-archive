@@ -7,7 +7,7 @@ TXT 下载: [[变身]_TG短篇小说——一个落难的少女.doc]([变身]_TG
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《TG短篇小说——一个落难的少女》讲述了一位骑士纳德的冒险故事，他踏上了拯救玛特亚公主的旅程。十年前，玛特亚公主被邪恶女巫绑架并囚禁在戈尔曼塔监狱。尽管众多骑士努力寻找公主，却没有任何人成功。故事揭示了玛特亚公主对自己身份的挣扎与不满，她渴望摆脱作为花瓶的命运，并通过学习古籍掌握了可以转移性别特质的魔法，决定将自己转变为一个拥有男性特质的角色，进而让曾经的骑士纳德成为新的公主。过程充满奇幻与变革，二人之间的性别与角色的交换引发了对身份、自我认同和性别刻板印象的深刻思考。故事结尾，虽然怪异又令人震惊的转变已经发生，但纳蒂亚公主在新身份下，依然在心中渴望那位骑士的救赎与爱情。整体情节探讨了跨性别与性别认同的问题，具有一定的性别流动性和心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_TG短篇小说——一个落难的少女.doc]([变身]_TG
 | Size            | 33792 bytes                           |
 | MD5             | b9e3f615629e8b28cde000fbe0023047                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jumbo Shirmp                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 魔法, 自我认同, 性别转换, 被囚禁的公主, 骑士与公主, 性别流动, 魔法阵, 古代奇幻, 女性化, 男性特质, 权力与身份, 性别角色, 斗争与解放, 爱情与救赎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

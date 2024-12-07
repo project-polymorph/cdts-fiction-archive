@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[悬赏伦理]岳母的考验.doc]([附身]_[悬赏伦理]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《岳母的考验》，主要讲述了一位女性邓石梅在美国休斯顿航天历史博物馆的参观经历，以及她与女儿陆思琪之间复杂的亲情关系和情感纠葛。故事开篇通过描述博物馆的热闹场景，引入邓石梅的情感状态。邓石梅本是对旅行充满期待，但接到女儿的电话后，她不得不面对女儿的困扰与家庭问题。随着情节发展，邓石梅回忆起女儿的婚姻生活，以及面对女儿要求离婚的压力。最后，邓石梅因对女儿的担忧而选择返回国内，表现出了母亲的无奈与关心。文章涉及家庭关系、性别认同、婚姻与个人情感等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[悬赏伦理]岳母的考验.doc]([附身]_[悬赏伦理]
 | Size            | 75776 bytes                           |
 | MD5             | 56fe1ef0edfde7d3d24ee83fb5fb7d95                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 家庭关系, 自我认同, 母女情深, 心理挣扎, 生理与情感的转变, 阿波罗宇宙飞船, 博物馆, 旅行, 女儿的烦恼, 伦理小说, 现代都市, 女性视角, 自我探索, 亲情纠葛, 生活琐事, 未知的未来, 情感纠纷, 旅行的无奈, 归属感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

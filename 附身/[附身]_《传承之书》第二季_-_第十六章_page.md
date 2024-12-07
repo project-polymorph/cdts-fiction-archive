@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第十六章.docx]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为《传承之书》第二季第十六章，由作者紫依创作。故事围绕角色马洪和容斋的对话展开，探讨了他们之间复杂的利益关系及背叛的潜在危险。在这一章中，马洪试图说服容斋，揭露其上级古城可能的阴谋，并利用江梦雨的安全作为筹码，试图引导容斋采取行动以维护自己的利益。对话中穿插着对药物研究承诺的讨论，以及角色之间的权力斗争。在情节推进中，马洪试图让容斋意识到外界的危机，同时揭示出个人之间的微妙关系和心理斗争。文件还涉及到了强烈的情感冲突与自我保护的主题，角色之间的互动生动展现了他们的性格和动机。整体而言，此章节在构建紧张剧情的同时，也对角色之间的信任与背叛做出了深刻的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第十六章.docx]([附身]_
 | Size            | 23464 bytes                           |
 | MD5             | 52c48db8fb65320ff091863a571c3b85                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 伪娘, 阴谋, 权力斗争, 药物研究, 自我保护, 情感冲突, 角色发展, 科学幻想, 紧张剧情, 未知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

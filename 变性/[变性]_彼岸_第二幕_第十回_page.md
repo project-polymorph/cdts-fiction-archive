@@ -7,7 +7,7 @@ TXT 下载: [[变性]_彼岸_第二幕_第十回.docx]([变性]_彼岸_第二幕
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《彼岸 第二幕 第十回》，内容属于多元性别和跨性别主题的小说。故事开头描绘了一幅如梦似幻的美景，主人公在清新的环境中遇到一位神秘的白衣女子，名叫苏瑶，她似乎有着不可思议的能力。随着情节的发展，主人公逐渐了解自己身处的情况与他人关系中的复杂性。小说中涉及的元素包括对性别认同的探讨、自我探索，以及一些关于命理和神秘学的讨论。内容中时而展现出玄幻色彩，主人公与他人之间的对话流露出对生命意义和自我价值的思考。故事中也人物间的亲密关系和情感纠葛，以及惊险的场景转换，使整个叙述更加引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_彼岸_第二幕_第十回.docx]([变性]_彼岸_第二幕
 | Size            | 28236 bytes                           |
 | MD5             | 9bfb9c99da0ea3009e0b278bd6e62b1d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 玄幻, 跨性别, 变身, 情感纠葛, 命理, 人与自然, 多元性别, 梦境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

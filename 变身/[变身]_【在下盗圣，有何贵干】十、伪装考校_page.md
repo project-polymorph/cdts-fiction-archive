@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】十、伪装考校.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇包含性别转换与变身主题的小说摘录，标题为《在下盗圣，有何贵干》的第十章《伪装考校》。故事围绕着角色楚飞与小白之间的情感纠葛展开，通过复杂的情节描绘了楚飞易容变成小青的经历，并在情感与性别认同的交织中探讨了自我认知与身份的变化。文中提到楚飞在被迫变装为女性后与小白之间的亲密关系，以及他们如何在复杂的环境中寻找盗圣的线索。此章节通过细腻的描写展现了性别转换后的感受和情感冲突，特别是在楚飞与小白亲密互动时的心理描写，突显出角色在新身份下的探索与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】十、伪装考校.doc]([
 | Size            | 48640 bytes                           |
 | MD5             | 44fd266467c325ef7848e67681baed2a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 伪娘, 情感纠葛, 跨性别, 奇幻, 自我认知, 相互依赖, 爱与挣扎, 身份认同, 阴阳调和, 色情内容, 情感戏, 恋爱关系, 二次元文化, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_立方体（申码文，已完结）.doc]([其他]_立方�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档是一部以现代都市背景为题材的小说，其中涉及主人公面临情感挫折、性别认同及自我探索等主题。故事以幽默的对话和状态开场，主人公与好友安静在一个避雨亭中闲聊，涉及七夕和牛郎织女的传说，随后转向了主人公对感情的困惑和失落。故事中逐渐揭示出主人公对其爱慕对象翩翩的复杂感情，同时穿插了他们的幽默互动与对生活的反思。随着情节发展，主人公与安静意外陷入一个奇异的立方体空间，在这个空间中，他们的认知与重力发生了变化，这为后续故事的发展埋下了伏笔。整部作品以轻松幽默的语言风格描绘了人物的逐渐成长以及内心挣扎，展现了性转与跨性别的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_立方体（申码文，已完结）.doc]([其他]_立方�
 | Size            | 210432 bytes                           |
 | MD5             | e66193831e54e809a80d912b710a1556                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 现代都市, 情感挫折, 自我探索, 幽默对话, 立方体空间, 男性视角, 青春成长, 心理冲突, 多元性别, 友情, 失落, 探险, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

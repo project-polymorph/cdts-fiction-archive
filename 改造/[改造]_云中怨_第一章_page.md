@@ -7,7 +7,7 @@ TXT 下载: [[改造]_云中怨_第一章.doc]([改造]_云中怨_第一章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘 TS 变身与跨性别相关小说的第一章，内容围绕一位出生于乱世的皇室成员展开，他的兄长篡权，阴谋重重，使得主角不得不思考自己的未来与生存之道。主角因兄长的怀疑而深感危机，陷入恐惧之中。为了逃避厄运，他的妻子提出了改装为女性的建议，认为可以掩饰野心以求自保。在夫妻之间的互动中，描绘了主角在沐浴及穿衣过程中的心理状态及初次扮演女性形象的期待感，充分展示了对传统性别角色的反思与挑战。随着故事的发展，主角在扮演女性的过程中逐渐唤醒了内心的脆弱与柔美，同时对身体与性别认同的复杂情感也愈加明显。剧情中交织着紧张的权力斗争与细腻的情感描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_云中怨_第一章.doc]([改造]_云中怨_第一章.doc)
 | Size            | 37888 bytes                           |
 | MD5             | 40f6f04d5a477f7235efb06e05e68ba4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 权力斗争, 古代, 情感纠葛, 自我认同, 夫妻关系, 心理挣扎, 性别角色, 文学, 幻想, 情色, 都市幻想, 文化反思, 身份认同, 历史背景, 家庭关系, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文重发】血脉.doc]([皮物]_【申码文重�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇以性转为主题的短篇小说，讲述了一名少年路特尔与魅魔之间的奇幻与痛苦的故事。故事开头，路特尔幻想着穿上姐姐的皮物，体验身为女性的感觉，但当他期待的皮物出现在他面前时，竟是已变成皮物的姐姐，导致他情绪起伏、内心挣扎。这篇小说尝试探讨性别认同及对亲情的复杂感受。文中涉及路特尔的幻想、魅魔的诱惑，以及在欲望与道德之间的挣扎，最终导致的悲剧。一段描写了魅魔如何利用路特尔的幻想，逼迫他做出抉择的情节揭示了内心的矛盾：究竟是追求幻想的快感，还是守护真实的亲情。这是一个富有想象力的性转幻想故事，通过神秘的角色设定和极具情感冲突的情节，展示了角色在身份转变时的复杂心理与道德困境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文重发】血脉.doc]([皮物]_【申码文重�
 | Size            | 48640 bytes                           |
 | MD5             | a9b5b2979d863149f04779ab6bf1f745                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 跨性别, 幻觉, 魅魔, 兄妹, 身份认同, 自我探索, 幻想性爱, 情感纠葛, 悲剧, 禁忌关系, 皮物, 恶魔娘, 青春期困惑, 欲望与道德                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

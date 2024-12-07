@@ -7,7 +7,7 @@ TXT 下载: [[改造]_塞西亚公司1.doc]([改造]_塞西亚公司1.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由104m104创作的一部小说《塞西亚公司1》。故事背景设定在一个未来感十足的地下实验室中，主人公河村大树是一名记者和私家侦探，他接到政府的委托，前往一个可疑的公司调查人体实验。在昏暗的房间里，他观察到了被关在培养槽中的人，最后发现这个人是前有名刑警王力，身体正在经历一种性别转化的过程。小说细腻地描绘了大树在危机中躲避监视器的紧张情绪，以及逐渐深入的非人道实验情节。过程中，生动地反映出主人公对身体和性别认同的思考，具有明显的跨性别和变身内容，穿插了一些悬疑和科学幻想的元素，并探讨了自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_塞西亚公司1.doc]([改造]_塞西亚公司1.doc)
 | Size            | 79872 bytes                           |
 | MD5             | 56d21cb137fe0566116faa53f203d5e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 104m104                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 人体实验, 未来科技, 自我探索, 性别认同, 悬疑, 科幻, 情感冲突, 王力, 河村大树, 公司阴谋, 性别转换, 心理调控, 社会伦理, 身份危机                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_被恶魔俘虏的神6.docx]([变身]_被恶魔俘虏的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节为一个关于性别转变与身份认同的故事，其中主角罗德在一场与神灵的交互中逐渐体会到女性身份的复杂性与内心的挣扎。故事从罗德的日常开始，他作为男主人却被迫面对女仆的生活，内心充满对变成女人的抵触和幻想。随着情节的发展，罗德不仅忍受着身份的困惑，还因为无法抑制的性欲而陷入到屈辱与快感交织的境地中。全篇包含大量关于性别、欲望与身份认同的探讨，展现出角色内心的矛盾与挣扎。罗德最终意识到，自己逐渐被扭曲的神性所影响，身体的变化意味着自己将无法再回到过去的生活。整个故事以罗德的心理变化和性欲的积累为线索，带出深刻的性别议题，挑战传统的性别认知与身份定义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_被恶魔俘虏的神6.docx]([变身]_被恶魔俘虏的�
 | Size            | 18147 bytes                           |
 | MD5             | 51bf99a177277d09b029ba33057a82ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身小说, 跨性别, 幻想文学, 心理戏剧, 扭曲神性, 角色扮演, 心理挣扎, 欲望, 女性化, 性别转换, NTR, 强奸, 调教, 逆后宫, 性欲, 淫荡, 乱交, 变嫁, 女性视角, 古代奇幻, 非人化, 矛盾自我, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_網路購物_7~終(原創轉貼).docx]([皮物]_網路購�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇涉及跨性别主题的小说文本，描述了一名男角色在环境中逐渐经历变身为女性的过程。故事的情节围绕角色的内心变化、对自身身体的认知以及与另一个角色之间的互动展开。故事合成了监禁、强迫穿着女装等情节。文本中包含大量关于角色感受的描写，尤其是穿上的白色泳装带来的触感，引发了角色复杂的情感反应和身体认知。情节中出现了明显的权力不平衡，描绘出监禁和强制性的场景，并以对抗和顺从为背景。文本还包含一些对角色外貌的细致描写，包括泳装的尺寸和贴合感，增强了角色的羞耻感和脆弱感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_網路購物_7~終(原創轉貼).docx]([皮物]_網路購�
 | Size            | 82032 bytes                           |
 | MD5             | 95646d8aaf2271d2111831e123f3cfa0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | lolikooh                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 监禁, 强迫, 泳装, 自我认知, 性别角色, 身体认同, 心理冲突, 成人内容, 性别期待, 情感依恋, 触感, 细腻描写, 耻辱感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

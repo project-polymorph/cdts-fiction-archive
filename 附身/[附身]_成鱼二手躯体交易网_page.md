@@ -7,7 +7,7 @@ TXT 下载: [[附身]_成鱼二手躯体交易网.doc]([附身]_成鱼二手躯�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为“成鱼二手躯体交易网”的虚构交易平台的小说内容，整个故事构建在一个让人毛骨悚然的设定之上，即人类可以通过交易自己的寿命来获取别人的身体。在故事中，买家可以以自己十年的寿命换取一千万的酬劳，这一荒诞的想法引发了对人性与生存价值的深刻思考。卖家在此平台上列出了不同的商品，其中包括JK少女和JD少女等角色，这些角色的身体被描述为有附加福利，如制服和化妆品等，这种交易似乎将生命的价值降到了商品的高度，使人感到不寒而栗。此外，文件也展示了买家的留言互动，体现了该平台的社交属性和人际之间的信任危机。整体内容涉及性别、身份和身体的交易，暗示了人们对身体与身份的弱化与扭曲。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_成鱼二手躯体交易网.doc]([附身]_成鱼二手躯�
 | Size            | 90112 bytes                           |
 | MD5             | 60950838051375d0bf2e612634ac9c44                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 二次元, 性转, 跨性别, 伪娘, 男娘, 身体交易, 自我认知, 虚构小说, 身份冲突, 性别交换, 奇幻设定, 暗黑幽默, 社会草根文化, 情色, 成人内容, 交易平台                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_将申码文发一下，忍界的小人物.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于忍者世界的创作，主要讲述了一个名叫浩二的年轻忍者如何在战争中机缘巧合地发现一项神秘忍术的过程。故事开始于浩二在忍者大战期间捡拾遗落的卷轴和武器，逐渐增长了他的查克拉和战斗能力。在他找到一位上忍的笔记后，浩二得到了关于一种能够将目标变为皮肤的忍术的详细信息。这种忍术具有将对方的查克拉、知识、记忆融入皮肤的能力，并利用空间忍术进行施展。
+
+在执行这个忍术的过程中，浩二巧妙地利用了井野与她的父亲的联系，最终对井野进行了一种极具控制力的施术，导致她成为了他的目标。故事描写了关于身份的转变、权力与欲望的交织，以及自身与他人相互作用的复杂关系。情节中穿插了对忍者社会与个体命运的反思，并表现了主角的欲望与邪恶的一面。整个故事充满了幻想与色情元素，并在有限的空间内阐述了极端情感与权力的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_将申码文发一下，忍界的小人物.docx]([皮物]_
 | Size            | 28924 bytes                           |
 | MD5             | d5d231b2c20d1fc496eb49b450bf2378                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 跨性别, 伪娘, 性转, 忍者, 冒险, 魔法, 情感纠葛, 身份认同, 冲突与欲望, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

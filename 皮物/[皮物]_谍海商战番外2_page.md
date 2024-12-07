@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_谍海商战番外2.docx]([皮物]_谍海商战番外2.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《谍海商战》的番外二，主要梳理了故事的主线及人物关系，旨在帮助读者更好地理解复杂的剧情。文中提到名为“中天”的组织，致力于从各个层面对天朝进行渗透，包括政治和经济等领域。他们的精英力量“二十六人众”负责搜集信息，以实现控制与影响，而天朝作为拥有悠久历史的国家，也在不断抵御外来的侵袭。故事中提到‘虎魄’，‘龙魂’，‘朱雀心’，‘玄武石’等四颗具有神秘力量的石头，作为角色之间权利斗争的关键因素。角色间的复杂关系使得整个故事充满了悬念与张力，尤其是中天组织领袖的女儿在行动中的作用，以及各方势力的博弈，让人对后续发展充满期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_谍海商战番外2.docx]([皮物]_谍海商战番外2.doc
 | Size            | 16696 bytes                           |
 | MD5             | 6d59dc59a507a8b55a7667373d4d6c0f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 权力斗争, 组织渗透, 悬疑, 情感纠葛, 神秘力量, 情报战, 二次元, 都市小说, 伦理冲突, 女性角色, 奇幻元素, 忍者                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文】关于他是如何成为柳婉的.doc]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是讲述一个年轻实习警察金铭在执勤中与同事柳婉的故事，充满了警务工作中的紧张与温情。故事从一起劫持案开始，由清丽的女警察柳婉和消瘦的劫匪展开对峙。金铭在行动中冒险出击，成功与柳婉联合制服了歹徒，展现出新人的勇敢与成长。两位年轻警员在相处中逐渐产生好感，柳婉的坚强与金铭的细腻形成了鲜明的对比，而柳婉在工作中也逐渐显露出她的女性气质，克服了以往的性别认知困惑。情感的细腻描写和紧张的故事情节交织，使得文本既有动作场面，也有情感发展，是一部包罗万象的警匪爱情小说。至于情节发展，后续包括了警方对毒贩的抓捕任务，展现了警务行动的复杂与严峻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文】关于他是如何成为柳婉的.doc]([皮
 | Size            | 50176 bytes                           |
 | MD5             | 86b25e08696d064b0391591d25c86a1c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 警察, 实习生, 性别认同, 爱情, 勇气, 青涩爱情, 执法, 都市, 正义, 职场爱情, 成长, 紧张刺激, 情侣搭档, 青春, 暴力犯罪, 职场关系, 性转, 角色发展, 心理冲突, 悬疑, 二次元风格                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丹妮的惩罚（3）——TGI系列之三.docx]([变性]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《丹妮的惩罚（3）》是伪娘TGI系列中的一部作品，聚焦于主角丹尼在变性手术后所经历的生活与内心的挑战。在小说的第二章中，丹尼的生活似乎回归正常，他恢复了上课、游泳和健身的日常，与朋友帕梅拉共享晚餐的同时，丹尼逐渐意识到自己的身材和外貌在女性身份下的适应性。他感受到之前身为男性的困扰逐渐消散，但对于未来的生活方向却充满迷茫。小说提到丹尼因接受变性治疗而辞去了工作和卖掉房子，面临无家可归的窘境。帕梅拉提供了解决方案，即通过TGI的资助者计划寻求帮助，该计划旨在支持处境困难的变性人。丹尼考虑加入这一计划，并意识到这是他当前的最佳选择。故事探讨了身份、性别认同、以及经济依赖交织带来的复杂情感，并通过丹尼与帕梅拉的对话深入展现了这一主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丹妮的惩罚（3）——TGI系列之三.docx]([变性]
 | Size            | 37539 bytes                           |
 | MD5             | d54ea502362c8fcf90ddad7d4f539ae4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变性, 跨性别, 自我探索, 身份认同, 情感支持, 资助者计划, 强烈的性别冲突, 外表与内心, 友谊与依赖, 变性术后生活, 二次元题材, 都市生活, 转变与适应, ターフ                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

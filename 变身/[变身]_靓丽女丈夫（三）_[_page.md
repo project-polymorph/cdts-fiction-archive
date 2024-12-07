@@ -7,7 +7,7 @@ TXT 下载: [[变身]_靓丽女丈夫（三）_[.docx]([变身]_靓丽女丈夫�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一个关于性别转变的故事，描绘了主人公通过变身体验作为女性的生活和情感。在故事中，主人公经过几天的高强度训练，逐渐适应了女性的身份，并与妻子展开了亲密的互动。文本描述着主人公与妻子之间含有色情内容的亲密关系，探讨了双方在性别转换过程中的心理和生理感受。文本中包含了多次关于亲密行为的详细描写，尤其是使用假阳具的情节，展示了主人公在体验女性身份后的内心变化和对快感的重新认知。故事的内容涉及很多跨性别、性别认同及性探索的主题，旨在展示性别转变所带来的复杂情感和自我认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_靓丽女丈夫（三）_[.docx]([变身]_靓丽女丈夫�
 | Size            | 19559 bytes                           |
 | MD5             | b3657242b3072ba492ef329d4f78dc7e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身, 跨性别, 性别认同, 自我探索, 亲密关系, 假阳具, 情趣内衣, 强烈快感, 性爱, 高潮体验, 女性视角, 情感纠结, 角色互换, 性别角色, 变嫁, 纯爱, 调教, 淫荡, 逆后宫, 叙述风格                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

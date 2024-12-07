@@ -7,7 +7,7 @@ TXT 下载: [[附身]_创世纪(2).doc]([附身]_创世纪(2).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于虚拟现实与身份转移的小说，故事发生在2119年6月7日，主要描述了主人公及其妹妹与朋友吴子卓一起探讨一个名为“创世纪”的项目，该项目涉及人类记忆的复制与身体的入侵。小说通过对话形式展现了角色的疑惑与对未来世界的担忧，探讨了身份变化带来的伦理与道德问题。文件中详细描绘了角色们如何进入虚拟游戏世界，以及在这个世界里发生的性别转换和意识转移的情节。在故事中，妹妹成功地将自己与吴子卓的身份互换，引发了一系列后续情节，展示了在虚拟环境中角色是如何适应新身体以及自我认识的转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_创世纪(2).doc]([附身]_创世纪(2).doc)
 | Size            | 49152 bytes                           |
 | MD5             | c79a39038a31e2d0fdaadc0807a62c59                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2119-06-07                                 |
+| Tags            | 虚拟现实, 身份转移, 性别转换, 自我认知, 人机交互, 科技伦理, 兄妹情, 游戏世界, 意识上传, 未来社会, 克苏鲁主义, 冒险, 奇幻, 科幻, 性转, 伪娘, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_罪恶契约（四）、（五）来访者.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《罪恶契约》的第四章和第五章，讲述的是安迪这个角色的冒险故事。故事背景设定在一个奇幻的世界，安迪原本拥有蝠翼和魔法能力，但如今他的蝠翼已萎缩，只能徒步旅行。他在寻找魔法协会的货物时，发现了一些哥布林的踪迹并遇到了强大的敌人和挑战。故事中充满了魔法、战斗和生死考验的元素，安迪在面临陷阱和敌人时，必须迅速做出决策以保全自己和寻找目标。随着情节的发展，安迪的身份和能力逐渐被揭示，强调了角色的自我探索和成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_罪恶契约（四）、（五）来访者.doc]([皮物]_�
 | Size            | 59392 bytes                           |
 | MD5             | e2b701d9a52fae8f150dad4505defd0b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 魔法, 奇幻, 性别转换, 冒险, 战斗, 自我探索, 哥布林, 恶魔, 非凡者, 神秘组织, 暗黑风格                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

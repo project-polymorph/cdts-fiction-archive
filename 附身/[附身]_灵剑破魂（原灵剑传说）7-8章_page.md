@@ -7,7 +7,7 @@ TXT 下载: [[附身]_灵剑破魂（原灵剑传说）7-8章.doc]([附身]_灵�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含《灵剑破魂（原灵剑传说）》的第七章和第八章，主要讲述了角色云瑶的变身和身外化身的过程。在第七章中，云瑶秘密恢复了自己的真实身份，并对外界施加领域之力，试图避免暴露自己。云瑶与石晴及云依密切相关，她们正在策划向圣魂教接头会面并制定计划。同时，云瑶需要以云兰的身份参与特定的活动，文中提到她变装成穿着丝袜的女性形象，体现了她对女性魅力的认知。第八章则描写典型的成人内容，重点聚焦于副宗主花雅的私密生活，展现了她性欲和夺舍后身份的变化。在这部分中，花雅的体验涉及情欲的自我探索，并表现出身为女性的身体欲望。同时，青袍男子的出现引发了一系列的情感冲突，给整个故事增添了悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_灵剑破魂（原灵剑传说）7-8章.doc]([附身]_灵�
 | Size            | 45056 bytes                           |
 | MD5             | b4ef747791730af24fa960350db1061f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 女性形象, 魔法, 角色扮演, 灵力, 自我探索, 欲望, 成人内容, 情欲体验, 神秘, 性别认同, 自渎, 混战招亲, 女性魅力, 身外化身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

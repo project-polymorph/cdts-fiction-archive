@@ -7,7 +7,7 @@ TXT 下载: [[其他]_亵偶_第一章-第五章.docx]([其他]_亵偶_第一章
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《亵偶》的第一至第五章，主要围绕角色郑拓及其同事尹平的剧情展开。在未来的世界中，亵偶作为一种具有高度仿真度的人形机器人，成为社会的一部分，但也伴随着道德和法律问题。故事开头，郑拓在处理一起案件，涉及到一些经过改装的亵偶被人侵犯的事件。随着情节的发展，涉及的案件变得越来越复杂，情节中包括了意识数据化与强奸的伦理与法律问题。通过角色之间的对话，揭示了对亵偶的社会看法以及人性与科技的冲突。后续的情节引入了女性意识被转存入亵偶体内后的悲剧，给角色郑拓和尹平带来了更多的思考与困扰。作品探讨了性别认同、个人主体性以及科技对人类生活的影响等深刻主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_亵偶_第一章-第五章.docx]([其他]_亵偶_第一章
 | Size            | 58085 bytes                           |
 | MD5             | c6fb8073f42ef693137d4532b8a2ca0b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 亵偶, 性别认同, 未来科技, 意识数据化, 强奸案件, 伪娘, 伦理道德, 交互式小说, 二次元小说, 心理探讨, 角色发展, 社会现象, 性别冲突, 存在主义, 商业伦理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

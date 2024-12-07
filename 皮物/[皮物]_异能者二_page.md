@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_异能者二.docx]([皮物]_异能者二.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了华倩倩的故事，她在一次离奇的事件后，被一名中年男子的存在所取代，整个人生轨迹发生了巨大变化。故事中，华倩倩在失踪一个星期后重新回到公司，然而整个公司对于她的变化感到疑惑，特别是她的性格和行为开始变得异常，变得更加性感，展现出对女性身体的极大兴趣。故事进一步揭示，华倩倩的身份并非真的像表面上那样，在她背后隐藏着更为复杂的真相，包括灵石和水珠这样的奇异道具，可能使她的身体被取代或是附身。情节中有女同性恋的暗示，以及魔法、异能等奇幻元素，反映了性别认同和自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_异能者二.docx]([皮物]_异能者二.docx)
 | Size            | 16910 bytes                           |
 | MD5             | 76bf3bfe78ed79b5a5e37132262bae1d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 华倩倩, 取代, 灵石, 附身, 奇幻, 女性主义, 性别认同, 自我探索, 故事心理, 商业背景, 职场女性, 魔法, 异能, 神秘事件, 虚构, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

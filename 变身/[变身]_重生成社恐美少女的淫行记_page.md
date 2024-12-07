@@ -7,7 +7,7 @@ TXT 下载: [[变身]_重生成社恐美少女的淫行记.docx]([变身]_重生
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇关于转生为美少女的变身小说，讲述了主角赢麻乐转生后经历的社交障碍与自我认同问题。主角的外表是一位年轻的美少女，但她的社交能力却非常薄弱。这段故事深入探索了她如何打算利用转生后的优势，通过美丽的外貌在高中生活中出人头地，却又发现自己仍陷于之前生活的孤独与不安。尽管有着美丽的外表，主角在与同班同学的互动中屡次失败，使她的内心感受到深切的挫败感与焦虑。她尝试通过直播等方式来增强自己的自信，甚至主动展示自己的身体。然而，随着情节的发展，主角的内心挣扎与外在形象之间的对比愈发明显，折射出对自己身份认同的不断探索与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_重生成社恐美少女的淫行记.docx]([变身]_重生
 | Size            | 18372 bytes                           |
 | MD5             | d823ab94aa9632bc55049168497f9853                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 美少女, 社交障碍, 转生, 心理探索, 青春校园, 自我认同, 孤独感, 二次元, 性别认同, 直播文化, 美丽外表, 内心挣扎, 女性视角, 成长故事, 幻想, 虚拟现实, 青少年时代, 自恋, 自我实现                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

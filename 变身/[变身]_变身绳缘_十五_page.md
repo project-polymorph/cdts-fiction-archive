@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身绳缘_十五.doc]([变身]_变身绳缘_十五.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档的内容围绕一位名叫郝健的角色展开，他在酒店里度过了几天舒适的时光。在房间里，郝健感到无比兴奋，甚至像个孩子一样在房间内蹦跳。他打电话叫早餐，同时还在期待朋友的汇款。他和朋友的对话揭示了他目前的经济状况，尤其是与财务相关的问题，包括他向父母索要钱财的话题。文本包含了一些轻松而幽默的对话，反映出角色的性格及其在两性关系中的复杂心理。此外，文中也提到了性别认同和变身的主题，暗示着角色在经历生理和心理上的转换——这与跨性别小说的特征相符合。整体而言，文件展示了一种对现代生活中性别和经济压力的诙谐探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身绳缘_十五.doc]([变身]_变身绳缘_十五.doc)
 | Size            | 28672 bytes                           |
 | MD5             | b3472b45f8c4c4ae4a7d86afaf3c8954                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 幽默, 经济压力, 性别认同, 伪娘, 校园生活, 情感戏剧, 朋友关系, 反转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

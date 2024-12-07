@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝都风云_（十六）结局+尾声.doc]([皮物]_帝�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为小说《帝都风云》第十六章的结局与尾声部分，围绕着角色露娜和她父亲费尔南德斯的重聚展开故事。故事开头，马车在一个三岔路口停下，车夫揭示自己是莉迪亚，接下来展开激烈的战斗。在确认了周围的危险后，莉迪亚凭借自己的剑术击退了士兵，保护了亲王哈米尔与温蒂妮。在随后引导露娜的场景中，露娜接到父亲的消息，情绪交织在对父亲的思念和对未来的迷惑当中。在与父亲重逢之时，露娜的心生激动，冲破了重重困难，逐渐揭开了自己身世的秘密。文中还提到安德烈王子的身份和费尔南德斯在皇宫中的隐秘行为。最后，露娜替换身份的过程，展现了变身、性别认同的主题，在与家人的互动中，展现了爱与对自我身份的探索。关键情节涉及血腥的战斗、身份的颠覆与复杂的人际关系，标志着故事的高潮与转折。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝都风云_（十六）结局+尾声.doc]([皮物]_帝�
 | Size            | 61952 bytes                           |
 | MD5             | 261ca7f2720ef4be3895359388a9cb01                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 变身, 跨性别, 父女关系, 身份认同, 剧情发展, 帝国政治, 勇敢, 剑术, 赛事冲突, 爱情, 家庭, 揭示身份, 女性生理变化, 女仆, 骑士, 二次元文化, 幻想冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

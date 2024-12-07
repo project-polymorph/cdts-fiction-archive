@@ -7,7 +7,7 @@ TXT 下载: [[变性]_超人女孩（2.docx]([变性]_超人女孩（2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于超人角色的变身与自我认同的小说。故事围绕超人克拉克·肯特的心理挣扎展开，他在一次意外中被施加了魔法，导致其身体与性别产生了变化。文件开篇描绘了克拉克观看自己在新闻发布会上的表现，意识到自己在镜头前举止猥亵，感到羞愧与恶心。随着情节的发展，他逐渐接受这种变化，但同时也内心矛盾重重。他希望维持自己的男性身份，但又无法抵挡女性形象对自己的吸引。在与露易丝的互动中，克拉克的性别认同逐渐模糊，甚至开始享受化妆和穿着女性服饰的乐趣。露易丝的支持和关心让他感到温暖，但他仍在思考如何面对将来的挑战。本文件详细刻画了克拉克的心理变化及其与女性角色的关系，探讨了性别流动性和自我认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_超人女孩（2.docx]([变性]_超人女孩（2.docx)
 | Size            | 42764 bytes                           |
 | MD5             | bbd8c187fa7127c6612269e89a18b819                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 超人, 自我探索, 情感纠葛, 心理变化, 女性形象, 变装, 恋爱, 日常生活, 魔法, 支持与关怀, 内心挣扎, 跨性别, 情绪表达, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

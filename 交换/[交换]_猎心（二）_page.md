@@ -7,7 +7,7 @@ TXT 下载: [[交换]_猎心（二）.doc]([交换]_猎心（二）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《猎心（二）》是一部围绕性别转变和跨性别主题的小说，故事设定在泰国的芭提雅，展现了一座充满人妖表演与互动秀的不夜之城。主要人物鸠摩空寻找失踪的手下艾贝，一个在公主号上工作的著名人妖。在探索过程中，鸠摩空与儿时朋友重聚，共同回忆起过去的点滴，揭示了他对艾贝的关心与期待。小说中描绘了复杂的人际关系和情感纠葛，同时也触及了性别认同与社会价值观的冲突，包含一些禁忌和性相关的情节。文本在塑造角色及其内心冲突上展现出了细腻的一面，尤其是对艾贝身份的探索和鸠摩空的自我反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_猎心（二）.doc]([交换]_猎心（二）.doc)
 | Size            | 52224 bytes                           |
 | MD5             | e75408a1d9f9eae31a48345d90f2bb73                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人妖表演, 性别转变, 自我认同, 情感纠葛, 失踪人口调查, 社会价值观, 性别认同, 青春期困惑, 异国情缘, 欲望与牺牲, 人际关系, 禁忌爱情, 心理冲突, 青涩回忆, 互动秀, 夜生活, 寻找与失落                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

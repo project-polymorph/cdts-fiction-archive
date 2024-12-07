@@ -7,7 +7,7 @@ TXT 下载: [[催眠]通向女孩子的道路（八）.doc]([催眠]通向女孩
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为匿名性别转小说《通向女孩子的道路（八）》的第七章节，内容围绕一名名为翼的少年，他在虚拟幼儿园度过了两年，逐渐接受和认同自己女孩子的身份。在这个如秘密花园般的环境中，翼被同伴们鼓励、赞美，并感受到回馈，这让他倍感愉悦。故事中详细描绘了翼穿着粉色制服和裙子的情景，展现了他对外表和女子气质的逐渐追求与接受。与严厉的母亲关系中，翼努力想要变得更加优秀，沉浸在学习钢琴、芭蕾、书法等课程中，体验着从内心深处向女性化转变的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]通向女孩子的道路（八）.doc]([催眠]通向女孩
 | Size            | 35840 bytes                           |
 | MD5             | 41b1e8c0afadae07b765bca4b4ba387f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 虚拟幼儿园, 女性化, 自我探索, 家庭压力, 暗示学习, 角色转变, 女孩子的世界, 青春成长, 情感表达, 心理变化, 穿裙子, 学习与生活, 自我意识, 性别转换, 心理暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

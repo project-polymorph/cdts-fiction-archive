@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【原创】蒸发_4(无XO版).doc]([皮物]_【原创】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一部关于性转和变身主题的小说，描绘了角色尼莫在经历强效安眠药后被变身师绣娜和助手阿麦处理的情节。故事开始时，尼莫在意识模糊中醒来，面对着绣娜这样的女强人以及奇怪的密室环境。他们利用安眠药和胶质材料对尼莫进行身体改造，整个过程涉及性别和认同的重新定义，充满了人性化的冲突与探索。文本详细描述了绣娜的创作理念及对“艺术”的追求，也有对尼莫身体细节的精细描绘，显示出对角色外貌和心理的双重关注。本章的对话生动，情境设定紧凑，展现了一个复杂的变身构想与执行过程。同时，本文也穿插了一些带有限制级内容的情节，如对尼莫身体的赞美和与阿麦的交流，明显带有挑逗性质。整体上，小说结合了科幻、奇幻与青春气息，形成了一幅生动的二次元画面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【原创】蒸发_4(无XO版).doc]([皮物]_【原创】�
 | Size            | 51712 bytes                           |
 | MD5             | 0958c4eef6934e43d47ffef53810453f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 胶质变身, 青年作品, 心理探索, 艺术创作, 限制级内容, 二次元, 身体改造, 奇幻, 剧情紧凑, 复杂角色关系, 青春情感, 异世界元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

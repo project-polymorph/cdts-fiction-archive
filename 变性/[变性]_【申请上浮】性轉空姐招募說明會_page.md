@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【申请上浮】性轉空姐招募說明會.doc]([变性
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了201X年在台北市举行的长荣航空男性空姐招募说明会的经过。参与的学姐们分享了他们的个人经历及转变成空姐的原因。会议上，林品妤学姐讲述了她从保全转成空姐的过程，因航空公司应法律规定开始招募性别不限的员工，而她感到这个机会难得。刘冠薇学姐则分享了自己作为长荣第一波招募的性转空姐的故事，提及自身渴望成为女性的感受以及如何得到家人的支持，包括手术和专业培训等过程。说明会最后开展问答环节，观众提出关于性转手术、家人接受度等问题，学姐们一一作答，营造了轻松热烈的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【申请上浮】性轉空姐招募說明會.doc]([变性
 | Size            | 35840 bytes                           |
 | MD5             | b3e13dc19073a063eab985cff0508912                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 201X-XX-XX                                 |
+| Tags            | 性转, 空姐, 长荣航空, 跨性别, 自我认同, 性别平等, 女性化, 职业转变, 家人支持, 男性空姐, 社会观念, 航空业, 第二人生, 信义区, 法律影响, 个人经历                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_合格的ntr爱好者就应该……（三）.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一名女性角色与其男友之间关系的探讨，涉及到性转和NTR（Netorare，日文中的一种特定情节，意指伴侣被他人侵犯或者占有的情节）。故事设定在繁华的S市，描写了女主角在男友陪伴下逛街的情景，并在言谈中展现出她内心的矛盾和复杂情感，包括对男友和自己女友身份的自我认知冲突。文中通过细腻的心理描写和身体感官的刺激，呈现了女主角在与男友互动中产生的情感波动，尤其是围绕身体认知和性别角色的转变。文本同时包含了一些限制级与性相关的内容，例如女主角对身体新认识的迷茫以及在男友挑逗下的反应。通过对外貌和性别的描写，探讨了自我身份的认同以及与性欲之间的关系，整个故事在轻松的氛围中渗透出男朋友调侃和角色内心的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_合格的ntr爱好者就应该……（三）.doc]([附身
 | Size            | 37888 bytes                           |
 | MD5             | 8b69034534281895e16a3ba5570f9c60                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | NTR, 性转, 跨性别, 伪娘, 身体认知, 情感探索, 校园爱情, 双性恋, 内心挣扎, 性别角色, 角色扮演, 探险故事, 青少年, 恋爱关系, 暧昧, 心理描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_“身体互换棒”.docx]([交换]_“身体互换棒”
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为关于SCP-4663的档案介绍。SCP-4663是一根普通塑料短棍，具有异常性质，能够使手持其两端的生物立刻互换身体或意识。特别之处在于，该效果只在接触的生物属异性时产生，并且该互换是不可逆转的。档案中详细描述了特勤队员在收容SCP-4663的过程中与其互换的个体（SCP-4663-A和SCP-4663-B）的经历与心理变化。SCP-4663-A是一名小学生，他因模仿动画中的“身体互换棒”而意外变为其母亲的身体，探讨了角色互换后自我认知的混乱和心理适应问题。同时，SCP-4663-B，作为SCP-4663的交换对象，其变换后的意识和记忆如何影响自我认同也在采访记录中被逐步挖掘。整个档案覆盖了SCP的收容措施、备忘信息以及实验记录，体现出异常物品对人类行为和意识的复杂影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_“身体互换棒”.docx]([交换]_“身体互换棒”
 | Size            | 19178 bytes                           |
 | MD5             | 338ae6ae839a1b9b37526385e76063ce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | SCP, 身体互换, 意识交换, 异常物品, 心理转变, 自我认同, 性别认同, 预测性预言, 动物实验, 科幻, 变身小说, 角色互换, 意识与记忆, 异常现象, 二次元文化, 实验记录                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

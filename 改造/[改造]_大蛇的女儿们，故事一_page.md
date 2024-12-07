@@ -7,7 +7,7 @@ TXT 下载: [[改造]_大蛇的女儿们，故事一.doc]([改造]_大蛇的女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于性别转换和跨性别主题的小说，故事围绕主角克劳德•克罗斯展开。克劳德刚被圣米高学院录取，但由于经济拮据，他正努力寻找工作以支付开学费用。在小教堂中，他结识了安德鲁神甫，后者答应帮助他找工作，但接下来的情节逐渐展现出安德鲁神甫与克劳德之间复杂的关系。当克劳德到达安德鲁为他安排的工作地点后，他发现这是一个涉及性奴役和变身等禁忌内容的场所。这段故事混合了纯爱、戏谑与禁忌的元素，描绘了克劳德在强烈的性欲望和自我认同的冲突中的挣扎。文中包含了大量与性和身体相关的描述，且情节转折引人入胜，既有克劳德对自己境遇的无奈，也有对复杂人际关系的深入刻画。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_大蛇的女儿们，故事一.doc]([改造]_大蛇的女�
 | Format          | Microsoft Word Document                               |
 | Size            | 40960 bytes                           |
 | MD5             | edff314749e570ecf1b99c8bdfdb4096                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 奇幻, 变身, 成年向, 乱伦, 调教, 强奸, 逆后宫, 非人化, 魔法, 都市, NTR, 百合, 雌堕, 触手, 魅魔, 药物, 游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

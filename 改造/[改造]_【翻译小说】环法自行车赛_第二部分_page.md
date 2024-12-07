@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译小说】环法自行车赛_第二部分.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件是关于环法自行车赛的一部翻译小说的第二部分，署名为作者Jeffanie。小说中围绕了名为特兰尼·弗朗西丝的角色展开，描绘了她的身份认同与性别角色的冲突。在文中，特兰尼身陷一系列羞辱场景，表现出对自己身份和处境的不安，以及被强制穿着女性服装的经历。场景描写了她与女仆米歇尔及其他女性角色的互动，频繁出现对女性服饰和角色的描述，突显了对性别认同的探索和对传统性别角色的挑战。小说中的情节充满了戏剧性和情感冲突，同时还包含了一定程度的暴力和羞辱，导致特兰尼的哭泣与无助感。在较为女性化的环境中，她必须挣扎着适应新的生活方式，反映了性别流动性和角色反转的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译小说】环法自行车赛_第二部分.docx]([�
 | Size            | 57298 bytes                           |
 | MD5             | 278a045001af15a5621918c577f25389                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jeffanie                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 羞辱, 情感冲突, 女性特征, 自我探索, 女仆, 身份危机, 强制角色扮演, 情感戏剧, 环法自行车赛, 跨性别, 逆 trans 文化, 暴力元素, 性别角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

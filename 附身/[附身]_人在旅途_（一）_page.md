@@ -7,7 +7,7 @@ TXT 下载: [[附身]_人在旅途_（一）.docx]([附身]_人在旅途_（一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《人在旅途（第一章）》，讲述的是主角周坚强在长途汽车站的经历。故事发生在一个阳光明媚的十月，周坚强在经历了人潮拥挤的长途汽车站时，想要返回家中却发现车票售罄，这让他感到十分沮丧和无奈。在他试图寻找搭车机会时，进入了一个阴凉的小巷，并与一个金发青年相遇。两人开始交流，周坚强了解到金发青年因为家族土地问题成为了“百万富翁”，而且所居住的小巷在长途汽车站的规划中被保留了。随后的对话中，青年提出了一个可能帮助周坚强回家的“不寻常”的方法，并暗示这一方法存在一些风险。文章不仅描绘了周坚强的心理状态，也通过他与金发青年的互动表现了人物之间的关系与情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_人在旅途_（一）.docx]([附身]_人在旅途_（一�
 | Size            | 31821 bytes                           |
 | MD5             | f19f292575abb8c1d8397440d50ba7ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 长途汽车站, 阴凉小巷, 性别认同, 角色互动, 探索与自我发现, 都市生活, 心理状态, 兄弟情, 阴冷气氛, 不寻常的帮助, 金发青年, 家庭与财富, 人物关系, 现代与传统的碰撞, 回家之旅, 奇幻与现实结合                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

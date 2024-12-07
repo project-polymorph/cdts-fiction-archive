@@ -7,7 +7,7 @@ TXT 下载: [[交换]_《关于露出癖JK和体育老师换身这件事》.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品为一篇伪娘及性转主题的小说，主要围绕一位名为逸华的女高中生的生活与秘密展开。她作为学生会会长，性格严肃而又富有魅力，外表端庄，实际上却在学校空无一人的走廊里进行露出癖的行为，享受羞耻感带来的快感。故事描述了逸华在日常学校生活中的认真负责，同时又隐藏着不为人知的癖好。随着剧情发展，她的行为逐渐被新任体育老师早隼察觉，早隼对逸华的关心与唐突的出现增加了故事的紧张感与复杂性。逸华在被发现与想要继续这种行为之间的内心斗争，展现了她对自我认同与欲望之间的冲突。小说通过描绘这种紧张的心理状态以及露出癖的描写，探讨了性别与欲望认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_《关于露出癖JK和体育老师换身这件事》.docx
 | Size            | 51074 bytes                           |
 | MD5             | ddcb1a0b9c55320047959cd45c8adb0e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ごみんと（ID：362471）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 露出癖, 校园, 教师, 青春, 自我探索, 心理斗争, 羞耻, 秘密, 暗恋, 性别认同, 欲望, 情感纠葛, 禁忌关系, 月光下的幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

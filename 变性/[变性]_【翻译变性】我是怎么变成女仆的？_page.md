@@ -7,7 +7,9 @@ TXT 下载: [[变性]_【翻译变性】我是怎么变成女仆的？.doc]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘/变身小说《我是怎么变成女仆的？》的中文翻译版本，原作者为Kitty Chan。本故事围绕男主角杰克·弗朗西斯的命运展开，他的车在一个偏僻的地点抛锚，偶遇富人市长约翰·切斯特森。起初，杰克对这一相遇感到幸运，但随着事件的发展，他发现自己被迫变成女仆，并面对逐渐滋生的欲望和身份转变的困惑。
+
+故事开头，杰克正处于人生的低谷，经历着女友的离去和父亲的去世。然而，命运将他带到了市长的别墅，接下来的情节揭示了杰克被迫改变性别的设定，伴随着强烈的自我认同冲突。小说中详细描写了杰克在别墅中逐渐适应女仆生活的过程，以及他内心对于这一切的反应和不适，包括目睹穿着女仆制服的女仆所带来的复杂情感。此外，故事中也融入了一些关于欲望、操控和身份认同的主题，引发读者对性别与自我的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_【翻译变性】我是怎么变成女仆的？.doc]([变
 | Size            | 47616 bytes                           |
 | MD5             | 5a736c1b1171cc166e63ac71d6825562                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kitty Chan                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 女仆, 性别认同, 欲望, 跨性别, 都市奇幻, 情感冲突, 身份转变, 男性视角, 都市, 强烈自我认知, 男性角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_彼岸_第六回.docx]([变装]_彼岸_第六回.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说《彼岸》的第六回，内容围绕乔治公爵对于丽安娜失踪的愤怒，以及主人公对自我认同的探索。故事以莫恩岛的李顿庄园为开端，乔治公爵在接到关于丽安娜失踪的消息后，表现出极大的焦虑和愤怒，继续展开调查。而另一方面，主人公在金陵的高档公寓中思索自己的女装爱好和身份认同，感受到内心的矛盾与挣扎。在这个过程中，主人公最终鼓起勇气尝试进行女装，并暗示了其对身体和性别认同的思考。整篇小说不仅展现了伪娘和变装文化的主题，还深入探讨了自我探索和社会认同的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_彼岸_第六回.docx]([变装]_彼岸_第六回.docx)
 | Size            | 33652 bytes                           |
 | MD5             | 8af695061216ddfa3ccf31c2203bc2ab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 性转小说, 自我认同, 情感冲突, 归属感, 女装, 心理探索, 身份认同, 现代都市, 家庭关系, 秘密生活, 社会压力, 双性恋, 心理挣扎, 内部冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

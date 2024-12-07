@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_律_（第三章）.docx]([皮物]_律_（第三章）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关小说的一部分，具体章节为第三章。文本中描绘了一位男性在变身为女性后，进入了一段充满肉体快感与激情的关系。故事情节围绕着角色之间的性行为，含有明显的强烈色情内容，涉及生理性别的变化与性别角色的扭转。主要描写了男性角色与女性角色之间的亲密互动，伴随激烈的情感表现和身体的感受。在该章节中，男性角色深入到女性角色的身体中，展现出对身体控制的强烈欲望，并伴随完整的情景描述及角色的生理反应，表现出一种极端的性快感。除此之外，文本中还引入了一条情节线索，提及关于一个名叫曹强的角色，涉及到性别变换的背景故事。由于文本涉及了大量敏感及色情内容，适合科学研究与学习使用。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_律_（第三章）.docx]([皮物]_律_（第三章）.doc
 | Size            | 53974 bytes                           |
 | MD5             | 2f84109f132a78e608ea7485cb2d4957                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 色情内容, 自我认知, 身体快感, 伪娘, 男性主导, 生理性别转变, 强烈感官体验, 角色转换, 性别认同, 情感冲突, 人际关系, 虚构叙述, 成人小说, 情节转折, 情感描写, 丰富想象力, 二次元文化, 限制级内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

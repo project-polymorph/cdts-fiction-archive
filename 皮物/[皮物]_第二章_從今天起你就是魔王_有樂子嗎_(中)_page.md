@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_第二章_從今天起你就是魔王_有樂子嗎_(中).d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于魔法、冒险与性别转变的小说，讲述了角色桂花在穿越至异世界过程中与阿拉克涅族（半人半蜘蛛族）相遇的故事。在开篇，桂花与她的魔法助手安洁莉一起深入一片阴森的森林，意外掉入一个地洞，进而与神秘的阿拉克涅人展开了一段展开对话，桂花自称魔王，且试图招募对方。文本中描绘了许多有趣的情节，包括桂花的外貌转变，以及她面临的身份认同问题。通过对话展示了她与阿拉克涅人之间的微妙关系，也揭示了角色内心的孤独与挣扎。角色之间的交流带有一定的幽默感，同时也不乏紧张的氛围，为故事增加了层次和趣味性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_第二章_從今天起你就是魔王_有樂子嗎_(中).d
 | Size            | 21978 bytes                           |
 | MD5             | a2bcbcf0a5c538112a8065199e9d519c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 冒险, 性别转变, 异世界, 阿拉克涅族, 魔王, 招募, 心理冲突, 角色扮演, 半人半蛛, 自我认同, 科幻, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

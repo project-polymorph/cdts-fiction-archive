@@ -7,7 +7,7 @@ TXT 下载: [[附身]_原来夏天才是最美好的季节1-2.doc]([附身]_原�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于高中生活的小说，主要围绕男主角李文的校园生活和对班长林馨的暗恋展开。故事通过描写初夏炎热的天气和教室里的课堂氛围，展示了李文的性格特征。在高二的课堂上，李文因走神被班主任批评，面临同学们的嘲笑，但他对班长林馨的关注使他感到心动和害羞。随着故事的发展，李文在课堂上的不适和与班长林馨日常互动的细节逐渐浮现，包括他对林馨社交媒体账号的偷窥和内心的挣扎。小说中多次描写了李文对林馨的肉体吸引，以及他在心理矛盾中感受到的青春骚动与性觉醒，故事情节充满了对青涩爱情和青春困惑的真实刻画。同时，在一些情节中涉及了更为性暗示的内容，比如林馨突然露出的神秘微笑以及她意图勾引李文的行为，使故事更加复杂。整体上，这部作品通过细腻的情感描写和成长的挣扎，揭示了青春期的尴尬和对爱的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_原来夏天才是最美好的季节1-2.doc]([附身]_原�
 | Size            | 44544 bytes                           |
 | MD5             | c42404534356caee54d60dd97d67fc62                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 青春, 暗恋, 性转, 自我探索, 初恋, 班长, 性幻想, 偷窥, 成长, 心理斗争, 角色发展, 日常生活, 情感, 校园生活, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

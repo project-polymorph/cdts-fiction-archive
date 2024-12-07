@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_妖淫皮(拾)_逐渐堕落的少女.docx]([皮物]_妖淫
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《逐渐堕落的少女》是一部围绕性别转换与自我认知的小说，主要讲述角色小瑜不知为何变身成其姐姐玟玟的身体，并在此过程中经历了自我探索与欲望觉醒的故事。故事从小瑜的视角展开，她在变身后，不禁对自己的新身体感到困惑与羞耻，内心的挣扎与外部的诱惑相互交织。随着情节的发展，小瑜逐渐接受了自身的改变，开始探索与享受这个全新的身份。在描绘细腻的感受时，小说深入探讨了性别认同与欲望之间的复杂关系，特别是在她经历身体的变化后，如何逐步接受并沉浸于新身份带来的快感。作品通过角色的内心独白和情感变化，展示了对身体欲望的接受与享受，同时也提及了家庭关系的微妙背景，如父母的离婚、姐姐与母亲的关系等，使得故事层次更加丰富。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_妖淫皮(拾)_逐渐堕落的少女.docx]([皮物]_妖淫
 | Size            | 25416 bytes                           |
 | MD5             | 918a7f152a94a4dae6a2adc86231c978                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我认同, 欲望探索, 变身小说, 女性角色, 家庭关系, 心理冲突, 青春, 成长, 爱情, 情色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【申码文】蕙质兰心（完结）.doc]([变装]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《蕙质兰心》是一部围绕青年研究员慧岚展开的伪娘与变装主题的小说。故事讲述了慧岚为了满足自己内心深处的欲望，尝试通过变装的方式来实现自我认同的过程。小说中通过多个角色的视角，展现了慧岚与其他角色之间复杂的情感关联，包括与雍雅之间的微妙互动，她作为他的红颜知己，在他探索自我性别认同的旅程中扮演着重要的角色。作品中多次提到“蕙草样的心地、兰花似的本质”，反映了角色面临的内心挣扎与对自我认知的追寻。整部作品包含些许成人内容，涉及情欲及身份认同的探讨，展示了二次元变装和跨性别文化的特征。整体风格轻松而具戏剧性，吸引读者关注角色内心的变化与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【申码文】蕙质兰心（完结）.doc]([变装]_【�
 | Size            | 357888 bytes                           |
 | MD5             | f9bf074cbdc9f900b0e42de4bf7a31f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | MTC                               |
+| Region          | 未知                               |
+| Date            | 2022-04-04                                 |
+| Tags            | 伪娘, 变装, 性别认同, 情欲, 青春, 成长, 探索, 校园, 角色扮演, 多元性别, 男女关系, 情感纠葛, 初夜, 研讨会, 自我认知, 情感交流                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

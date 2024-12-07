@@ -7,7 +7,7 @@ TXT 下载: [[变身]_肉欲人偶（入魔其一），10_8，第四节前半，
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于角色安吉的小说摘录，主要描绘其内心斗争与性别认同的扭曲过程。故事开头，安吉在一栋公寓内疯狂撕扯自己的衣服，表现出其强烈的对女性身份的渴望与对自身生理特征的不满。在内心的尖叫中，安吉回忆起自己被养母当作女孩抚养的童年，并发泄出对社会性别角色的不满。文件描述了安吉对自己外形的不满，使用药剂试图改变自身性别特征，且多次表现出对女性服饰的渴望。安吉的自我认同正面临着深刻的崩溃和重新构建，展现出性别认同和自我探索的主题。这篇小说不乏对安吉身体变化的生动描述，包括其内心的挣扎与对完美女性形象的渴求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_肉欲人偶（入魔其一），10_8，第四节前半，
 | Size            | 24674 bytes                           |
 | MD5             | c44746e6141e3e0792ac18eec8bb3598                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 幸运星                               |
+| Region          | 未知                               |
+| Date            | 2017-10-08                                 |
+| Tags            | 伪娘, 变身, 性别认同, 自我探索, 跨性别小说, 妖魔化, 女装癖, 强烈欲望, 身体变化, 药剂, 情感矛盾, 精神崩溃, 二次元, 心理描写, 幻想, 性别冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《灵祭》第二季_-_番外篇一（上）.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《灵祭》第二季的番外篇一以战斗与情感纠葛为背景，叙述了一个充满紧张和冲突的故事。文章首先讲述了角色妮卡与天茵之间的对话，揭示了村庄受到敌方部队攻击的悲惨事件，以及他们的战士团如何组织抵抗。随着情节的发展，妮卡告诉天茵，她们的队长革斯被敌人奥西克附身，造成了当前的局势。天茵决定亲自去收复被附身的队长，而对奥西克展开追击。她在此过程中展现出非凡的心理素质与坚强意志。有趣的是，故事中还包含了奇幻色彩的变身情节和强烈的情感描写，特别是天茵与妮卡之间的亲密互动，描写了角色如何在不同的身体里寻求自我认知与探索。整篇故事不仅展现了战斗的激情，同时也探讨了角色身份和性别认同的复杂问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《灵祭》第二季_-_番外篇一（上）.doc]([附身
 | Size            | 36864 bytes                           |
 | MD5             | fe7d6b2e445ee9e5f199c56f76f0ddb8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别认同, 奇幻, 冒险, 情感纠纷, 战斗, 角色附身, 青春, 自我探索, 高强度情节, 情感关系, 调教, 逆后宫, 纯爱, 强奸, 自我认知, 药娘, 女体化, 赛町族故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

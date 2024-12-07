@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】她想要一个女儿.doc]([变性]_【翻译�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档讲述了一个关于性别转变的故事，核心人物是一个名叫蒂米的男孩，他在母亲朱莉的影响下逐渐变成了女孩蒂芙尼。朱莉从小就渴望有一个女儿，因此她一步步引导蒂米朝女儿的方向发展，她的做法包括让蒂米穿女装、留长发，甚至在他十岁时实施了阉割和荷尔蒙治疗。随着时间的推移，蒂米完全接受了自己的女性身份，并在朋友和兄弟的支持下逐渐融入新的生活。他参加选美比赛、成为啦啦队员，接受了全新的自己。然而，蒂米内心对于这种转变也有着复杂的情感纠葛，既有对母亲的爱与感激，又有对失去男孩身份的恐惧与挣扎。在描述过程中，文档细致刻画了朱莉的期待与保护，以及蒂米的心理变化，包括他如何从一个男孩成长为一个年轻女子，接受这个转变的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】她想要一个女儿.doc]([变性]_【翻译�
 | Size            | 37376 bytes                           |
 | MD5             | 7783e9e74cc12a0d5276a196158a907d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 伪娘, 母子关系, 青春期, 心理变化, 自我认同, 女性化, 变性手术, 荷尔蒙治疗, 选美比赛, 情感纠葛, 家庭影响, 青少年成长, 二次元文学, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

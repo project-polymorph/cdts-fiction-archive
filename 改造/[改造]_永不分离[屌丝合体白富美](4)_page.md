@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](4).docx]([改造]_永�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位名为孙俪的女孩和一个男孩的变身经历的小说。在故事中，主角经历了身体的转换，从一名男性变为孙俪的身体。这种转换产生了强烈的自我认知的冲突。故事开头，主角描述了自己驾驶着汽车的情景，但意识到自己的动作受到控制，他感到无比疲惫。进入孙俪的家后，发生了许多亲密的情节，包括脱去衣物、洗澡等，文中详细描绘了孙俪的体态和主人公的感受。随着故事的发展，主人公逐渐适应了新的身体，并体验到了女性身体的敏感与新奇。此时，孙俪的男友王力的出现，让故事发展更加复杂，引发了主人公的情感冲突与挣扎。主角在新身份下的探索与认同，展示了性别认同与自我探索的主题。整体情感基调夹杂着羞涩与强烈的性欲，内容丰富且细致，涉及了一些限制级的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](4).docx]([改造]_永�
 | Size            | 20738 bytes                           |
 | MD5             | 954621cbe7779904797c9339f8d2e921                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 跨性别, 亲密关系, 自我认知, 情感冲突, 女性身体体验, 梦境, 身份认同, 都市奇幻, 爱情故事, 悲剧色彩, 二次元, 心理探索, 强烈性欲, 身体转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

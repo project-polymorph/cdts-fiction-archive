@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我和妈妈的游戏.docx]([皮物]_我和妈妈的游戏
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于性转变身和禁忌家庭关系的小说，讲述了主角唐天仇在高三备考期间与后母发生奇异关系的故事。在准备高考的日常中，唐天仇与父母的互动颇有温情，却因为后母的魅力和一些令人意想不到的情节而引发了脑海中的诸多冲动与幻想。文中涉及了大量对于性别与身体的探讨，主角在无意中发现父母卧室中的奇特物品后，开始了一个神秘的变身经历：穿上疑似女性皮肤的物品后，其身体和声音都发生了翻天覆地的变化。通过对自己新身份的探索，唐天仇与其后母的关系发生了重大转变，文中充斥着对这一禁忌情愫的描写，以及对角色身体及性别认同的形成与质疑。该文档同时探讨了人际关系中的禁忌，以及个体对性别和自我认知的复杂体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我和妈妈的游戏.docx]([皮物]_我和妈妈的游戏
 | Size            | 88573 bytes                           |
 | MD5             | 675c8b4bc240b868c7d0f8bb659758b1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 禁忌情感, 变身, 伪娘, 跨性别, 高三生活, 家庭关系, 自我探索, 性别认同, 奇幻, 母子关系, 药物影响, 情趣内衣, 肉体释放, 心理冲突, 角色互换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

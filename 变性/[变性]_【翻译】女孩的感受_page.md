@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】女孩的感受.doc]([变性]_【翻译】女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一部关于变性体验的小说，讲述了一名生理男性在使用一种可模拟女性生殖器的道具后的感受和心理变化。故事的主角是一名初中生，他在放学后偶然发现一个卖色情书籍的小摊，出于好奇购买了其中一本书，并获得了一条模仿女性生殖器的比基尼内裤。主角描述了自己穿上这个道具后的心理挣扎与身体感觉，探讨了性别认同、自我探索及性快感等复杂主题。通过细腻的描写，展现了他在与母亲、朋友的相处中以及个人自慰过程中的心理状态和感受。在后续情节中，主角逐渐习惯于这一新体验，并对自己的性别认知产生了深刻的疑问和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】女孩的感受.doc]([变性]_【翻译】女�
 | Size            | 37376 bytes                           |
 | MD5             | b01ef11ece108cb4697e32897fada59e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | よーこ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性别认同, 自我探索, 变装, 青少年, 快感体验, 模拟生殖器, 性转小说, 性心理, 青春期, 二次元, 幻想, 角色扮演, 性快感, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

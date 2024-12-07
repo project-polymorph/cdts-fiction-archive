@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身之玉女心经（修改版）.doc]([变身]_变身�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《变身之玉女心经（修改版）》讲述了一个富有、西门大官人与其女性奴仆之间的伦理纠葛。故事围绕着西门金的沉迷与遭遇展开，主角西门金将财富与权力结合，追求寻常美女的喜好。与几个侍女的亲密互动，极显其性别魅力与霸权，透过他的练功与行为，展现出性别认同与权力的扭曲。尤其是女侠叶灵儿的出场，使情节更为复杂，她与秀才之间的相互吸引与冲突体现了自我探索与性别认同的探讨。同时，秀才的修炼经历和他对身体变化的反应，更加强调了性别流动性与社会角色的重构，而最终的结果则揭示了个人的无力与命运的叙述。故事蕴含了丰富的性别与权力关系的思考，充满了性转、跨性别等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身之玉女心经（修改版）.doc]([变身]_变身�
 | Size            | 41472 bytes                           |
 | MD5             | a8f97f69c59ce6554bb42ef439398270                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性转, 强奸, 乱伦, 淫荡, 调教, 女仆, 异世界, 爱情, 年龄差, 变嫁, 病态, 虚拟现实, 脆弱身份, 自我探索, 性别认同, 权力关系, 性别流动性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

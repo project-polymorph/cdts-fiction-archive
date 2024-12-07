@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【江山如此多娇，黑棋】（2）.doc]([改造]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于一个叫黑棋的角色在四美图世界的冒险故事。故事围绕黑棋的阴谋展开，他的目标是使得这个世界变得混乱无序。在开头，黑棋蛊惑了一位将军府的主人并且试图介入皇宫的权力斗争。在故事的过程中，黑棋观察到太子与韩王之间的激烈斗争，并利用美妾和权力的游戏来达到自己的目的。文件中包括了多位角色的对话和心理挣扎，情节错综复杂。《月牙楼》的背景则增添了更多风情与权谋斗争的色彩，同时也揭示了角色之间的关系和性别的模糊性。通过黑棋的视角，读者能够感受到强烈的冲突与情感的纠葛。从文件的内容来看，涉及重重权谋、情感纠缠及性别认同问题，充分展示了伪娘与变身等多元性别主题的特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【江山如此多娇，黑棋】（2）.doc]([改造]_【
 | Size            | 40448 bytes                           |
 | MD5             | bb3cdce0e0dce5d4b63b7922d4e0bc57                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 权力斗争, 恋爱, 变身, 古代, 情感纠葛, 跨性别, 独立女性, 阴谋, 历史, 浓厚的二次元风格, 角色成长, 自我认知, 强势角色, 复杂人际关系, 忠诚与背叛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

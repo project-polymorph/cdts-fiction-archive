@@ -7,7 +7,7 @@ TXT 下载: [[其他]_易体_一、二.docx]([其他]_易体_一、二.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件名为《易体》，包含了两个独立的短篇故事，设定在一个科技高速发展的平行时空地球，时间设定为203X年。故事的核心围绕意识人格转移技术的产生与普及，以及这一技术所引发的伦理与社会问题。在这个世界里，身体被视为可以交易的商品，这导致了许多富豪之间的不正当交易和暗藏黑暗的需求。第一部分故事叙述了偶像歌手何思思的拍卖事件，她宣布引退，并决定拍卖自己的身体，出于对未来平静生活的向往。众多粉丝对这一决定感到震惊与惋惜。拍卖过程通过一个非公开的网络平台进行，最终以七十二亿的价格成交。文件展示了交易过程的细节，以及买家对何思思身体契约的把控。此文结合了性别、身份、爱情等多个复杂主题，在跨性别文类的范围内提出了深刻的伦理和社会反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_易体_一、二.docx]([其他]_易体_一、二.docx)
 | Size            | 66741 bytes                           |
 | MD5             | 37c05c23acb441b03c3aebaa7ac9c77f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 意识转移, 身体交易, 偶像文化, 科技幻想, 伦理争议, 爱情, 身份认同, 人性探讨, 隐私权, 虚拟现实, 二次元文化, 变身小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_樱怒之日.doc]([变身]_樱怒之日.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部跨性别与变身小说，背景设定在一个充满霓虹灯的城市，讲述了潜入高端赌博会所“极乐天堂”的两个角色的故事。故事从对城市夜景的描写开始，细腻地描绘了伪娘和荷官的形象，以及繁华场景下的秘密与阴暗。在这座表面繁华的城市中，潜藏着不为人知的犯罪活动。主角林柯与潜入专家雪怜两人接到任务，需要抓捕这个赌博团伙的幕后领导。随着剧情的发展，雪怜在潜入过程中经历了变身的奇异过程，身体被一种未知液体包裹并变化成一名服务员的模样，情节中掺杂了悬疑与超现实的元素。整个故事展现了对性别认同、自我挣扎以及对欲望的探讨，同时融入转换与伪装的科学幻想，探秘人性的复杂与多样。文中涉及复杂的场景与角色内心斗争，情绪张力十足，情节引人入胜，令读者不禁思考性别与身份的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_樱怒之日.doc]([变身]_樱怒之日.doc)
 | Size            | 43520 bytes                           |
 | MD5             | 6577d79f90f1f0d88ea3320ba1716147                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 伪娘, 赌博, 跨性别, 欲望, 暗黑, 悬疑, 超现实, 自我探索, 逆转, 迷离场景, 行动, 科幻, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

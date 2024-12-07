@@ -7,7 +7,7 @@ TXT 下载: [[变装]_神勇绿坝娘.docx]([变装]_神勇绿坝娘.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《神勇绿坝娘》是一部涉及性别认同和网络犯罪的小说，讲述了特工卡罗尔·马丁（Carol Martin）与侦探阿尔·伯恩斯（Al Burns）之间的合作。故事的开头描述了卡罗尔前往警署拜访伯恩斯的背景，她是一名联邦特工，致力于打击网络性侵活动。伯恩斯因其在过去六个月中成功阻止多起网络犯罪而声名鹊起，其调查方式引人注目。小说探讨了负责保护儿童的特工如何日常生活以及他们面临的心理挑战，同时也揭示了伯恩斯作为一位年轻而有成就的男性在这个领域中的表现。情节中提到破案的方法创新，以及阿尔对网络中出现的孕育期间性犯罪的严密监控。故事中充斥着对当今社会中儿童受到威胁问题的探讨，涉及对性别角色的扭转和认同，从而引发对自我认知的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_神勇绿坝娘.docx]([变装]_神勇绿坝娘.docx)
 | Size            | 48090 bytes                           |
 | MD5             | cd296e11c8d03307889cea748c18b553                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 特工, 网络犯罪, 性别认同, 跨性别, 性转, 网路性侵, 青少年保护, 侦探故事, 女强人, 心理学, 爱情, 自我认知, 住宿地点, 惊悚, 反转角色, 社会问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

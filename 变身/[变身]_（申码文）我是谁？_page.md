@@ -7,7 +7,7 @@ TXT 下载: [[变身]_（申码文）我是谁？.docx]([变身]_（申码文）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于一个名为安君的男性角色在与女友外出时的内心独白与遭遇的小说。安君在思考工作和生活压力，感受到来自社会和家庭的期望与重担。在与女友的互动中，他表现出了对自身角色的反思，认为自己作为一个普通男人的无奈与痛苦。他的思绪被一场意外撞击转移，撞上了一位陌生女孩，并在随后的情节中体验了似乎是与她母亲的混淆，让他思考自己的性别认同和对爱的渴望。他回忆起童年时的孤独与缺乏关爱的经历，并对母亲的形象产生了复杂的情感。作品深入探讨性别认同、自我认知和社会角色期待等主题，模糊性别界限，展现了对传统性别观念的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_（申码文）我是谁？.docx]([变身]_（申码文）
 | Size            | 28507 bytes                           |
 | MD5             | a3963b707d496cef9f5b70d3f49c147c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 童年回忆, 女性视角, 情感纠葛, 家庭, 心理小说, 现代社会压力, 角色转换, 人际关系, 母爱, 孤独, 爱情, 日常生活, 二次元, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_为了孩子未来的养育费，老婆打工那件事①.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于新婚夫妻生活的小说，故事中心围绕着佐藤骏和妻子佐藤结奈对孩子的期望与现实之间的矛盾。夫妻俩在温馨的床上互动之余，讨论到结奈对于未来孩子的渴望，尤其是在经济条件尚不成熟的情况下对生育的担忧。经过一番自责与沟通，结奈提出了要去打工以缓解经济压力的方案，但她的提议让佐藤极为不安，尤其是她提出的“卖身”工作。故事通过这个设定探讨了当代社会的经济压力对家庭及个人选择的影响，同时也描绘了夫妻之间的情感与信任。文章中包含了对婚姻生活的细致描写，适度的情感表达，以及对于即将踏入的未知领域的思考与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_为了孩子未来的养育费，老婆打工那件事①.
 | Size            | 46080 bytes                           |
 | MD5             | e2dfe11d7a65bbe029b3dc0d67a5d99f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 婚姻生活, 夫妻关系, 孩子, 经济压力, 自我认知, 打工, 性别角色, 温馨, 感情交流, 生育问题, 社会现象, 新时代, 绝望与希望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

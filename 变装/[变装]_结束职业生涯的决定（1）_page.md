@@ -7,7 +7,7 @@ TXT 下载: [[变装]_结束职业生涯的决定（1）.docx]([变装]_结束�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个职场男性在面临辞职决定后，开始探索自己内心深处渴望的故事。故事的主角是公司最年轻的副总裁，他在经历了长时间的压力和高强度的工作后，终于决定辞去工作，追求自己真正想要的生活。与妻子萨拉的对话中，他们讨论了退休后能过上舒适生活的可能性以及这项决定对他们生活的影响。随着退休的决定，主角不仅从各种责任中解脱出来，也开始思考自己的性别认同和穿女装的渴望。萨拉支持他在家中尝试女装，并承诺帮助他实现这一梦想，开展了一个包含剃毛、化妆以及如何作为女性生活的过程，这个过程也伴随着他们的情感加深。整体故事不仅探讨了生活中的选择，还涉及性别认同和自我探索的深层主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_结束职业生涯的决定（1）.docx]([变装]_结束�
 | Size            | 33485 bytes                           |
 | MD5             | d7ecff6f134a1933ea3f3b1572e5acae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变身小说, 职业生涯, 自我探索, 退休, 家庭支持, 女性化装扮, 情感深入, 生活选择, 职场压力, 夫妻关系, 二次元, 彩色幻想, 生活方式变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

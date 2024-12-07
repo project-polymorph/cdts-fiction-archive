@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮物催眠】私人助理.doc]([皮物]_【皮物催�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于张峰的性转变身故事，讲述了他应聘为私人助理后所经历的奇异事件。张峰是一名无业游民，因过去的种种原因落入社会底层。在面见王总后，他便签下了合同，开始了一段新生活。不久后，经过神秘的酒精影响，他便开启了全新的「人生」，身体与身份均发生了根本性的转变。故事描绘了他在不知情的情况下被变成刘梓桐的过程，后者成为王宇轩的妻子。此外，文件中引用了角色与他人互动的细节，例如萌萌与刘梓桐之间的情感，展示了角色间的亲密关系与情感交织。故事探讨了性别认同、自我探索、以及因事件导致的记忆缺失等主题，引入了学术与幻想元素，法理与情感交织的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮物催眠】私人助理.doc]([皮物]_【皮物催�
 | Size            | 92160 bytes                           |
 | MD5             | 4ab9a4e49eb64f2d2f6d7203221963c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 虚构角色, 自我认同, 失忆, 豪门, 女性化, 私人助理, 性别探索, 情感纠葛, 女性角色, 生物科技, 雇佣关系, 家庭关系, 幻想文学, 现代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

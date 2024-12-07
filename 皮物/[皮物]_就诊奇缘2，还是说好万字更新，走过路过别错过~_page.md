@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_就诊奇缘2，还是说好万字更新，走过路过别
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了主人公的奇幻经历，时间设定在现代，背景为法国。故事从主人公的隐疾被治愈开始，描绘了主人公与两位女性苏琳和丽莎之间的复杂关系及情感纠葛。苏琳因新的情感和性体验而逐渐沉迷于不同角色的扮演，包括戴上各类面具与主人公进行亲密接触。与此同时，丽莎也表现出对主人公的强烈吸引，甚至带着某种程度的调皮和叛逆，决心跨越国界与主人公相伴。在探险与探索的过程中，主人公不得不处理与苏琳、丽莎之间不断变化的情感地址，面对甚至是被母亲建议给丽莎一个机会的情境。本段文字不仅展现了角色之间的感情微妙变动，也涉及到性别认同和自我探索等主题，结合了跨文化的对话，形成了独特的叙事风格。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_就诊奇缘2，还是说好万字更新，走过路过别
 | Size            | 41268 bytes                           |
 | MD5             | 2113c4105269bdc32416ce10ac894e1e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 浪荡, 强奸, NTR, 乱伦, 强爱情感, 情感纠葛, 跨性别, 二次元, 调教, 恋爱, 奇幻冒险, 青春校园, 身份扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

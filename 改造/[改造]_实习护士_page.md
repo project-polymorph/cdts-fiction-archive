@@ -7,7 +7,7 @@ TXT 下载: [[改造]_实习护士.doc]([改造]_实习护士.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一个关于性别转换和身份认同的虚构故事，围绕一名医生在医院中遭遇的一系列奇幻经历展开。故事开头，医生在极其繁忙的工作中，意识到值班护士布伦达的失职而对她发火。随后，医生发现自己在护士储物柜中意外昏厥，经历了一种奇异的身体和身份的交换。在虚构的情节中，医生逐渐变成了一名实习护士，体会到作为女性的感受和身份的变化。这种转变伴随着身体上的“重塑手术”，使他变成一个完整的女孩，最终失去之前作为医生的身份与记忆。文中探讨了性别认同、自我认可以及社会对性别角色的期望等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_实习护士.doc]([改造]_实习护士.doc)
 | Size            | 33280 bytes                           |
 | MD5             | a4d80646f0cea14b19a11a21c7c62a5f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 角色认同, 医院, 护士, 实习生, 身体重塑, 青春成长, 自我探索, 幻想小说, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

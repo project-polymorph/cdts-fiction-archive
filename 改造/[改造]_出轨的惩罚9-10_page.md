@@ -7,7 +7,7 @@ TXT 下载: [[改造]_出轨的惩罚9-10.doc]([改造]_出轨的惩罚9-10.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了一段关于一个角色在接受性别转变和女性化训练过程中的内心挣扎与身体变化的小说内容。故事主要围绕着角色在十天的雌性激素服用后，身体，包括乳房的逐渐发育，以及心理层面的女性认同和社会认同的冲突。角色经历了从男性身份到女性身份的转变，随着雌性激素作用的开始，角色感到身体的变化，其中有些情节涉及到羞耻、恐惧和自我认同的制造。在第一部分，角色惊慌而又混乱地面对身体的变化，并在角色大姐的影响下，接受了“成为人妖”的培训。角色的心理狭窄，深感无助，一方面对新身份的恐惧，另一方面又似乎在期待着这种变化。角色最终想要逃脱，却被迫承受更深的惩罚和限制，包括穿上高跟鞋、束腰和长礼服，仿佛成为一位失去自由的“皇后”。此情节探讨了跨性别认同、性别角色的期待，以及在社会压力下对个人自由的压迫。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_出轨的惩罚9-10.doc]([改造]_出轨的惩罚9-10.doc)
 | Size            | 35328 bytes                           |
 | MD5             | 9bae8c44acc3d90e9a5e95baf7129dac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 雌性激素, 心理挣扎, 身体变化, 自我认同, 人妖, 女性化训练, 束腰, 高跟鞋, 长裙, 羞耻, 驾驭压迫, 逃离, 性别角色, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

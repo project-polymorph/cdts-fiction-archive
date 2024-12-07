@@ -7,7 +7,7 @@ TXT 下载: [[附身]_奇方_第七章.docx]([附身]_奇方_第七章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章探讨了一名少女叶馨瑶在一场身体附身后的心理变化和身份认同挑战。在她的身体中，原本的男主角杨成已被叶馨瑶的灵魂融合，导致她在自我认知上产生剧烈的冲突。这些情节包含了对她身体变化的适应过程及对自己新身份的探索。在故事中，叶馨瑶最初感到恐惧和迷茫，逐渐却意识到自己已经成为了叶馨瑶，拥有她的记忆和性格。通过与朋友夏初婧的对话，叶馨瑶逐步接受了自己作为女孩的身份，并表现出与身体适应相关的自我愉悦行为，如穿着女性内衣和丝袜等情节，清楚反映出她的性别认同过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_奇方_第七章.docx]([附身]_奇方_第七章.docx)
 | Size            | 25558 bytes                           |
 | MD5             | 21b0f7f7f9d32cd5e578b55a1518e3e5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | TS, 变身, 身份认同, 性别转换, 自我探索, 伪娘, 情感纠葛, 青春校园, 心理冲突, 跨性别, 情趣玩具, 女性视角, 身体意识, 羞涩情节, 禁忌之爱, 自我愉悦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

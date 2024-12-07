@@ -7,7 +7,7 @@ TXT 下载: [[附身]_闹钟（二）.docx]([附身]_闹钟（二）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件为一篇关于性别转换的小说，围绕主角朱颜的心理和身体变化展开。朱颜在某个清晨醒来时感受到一种陌生的体验，她的身体似乎发生了变化，开始对自己的外貌和性别认知产生困惑与惊讶。文本中描绘了她从高中到大学生活中的心理状态，伴随着越来越强烈的性别认同危机和探索自己身心变化的过程。故事细致入微地展现了朱颜在课堂上、图书馆中与同学交往时的心理斗争，以及她对自己新身份的逐步接受。特别是提到她无意中对女生产生了兴趣，以及对自身身体的意识觉醒，使得整个故事充满了探索与悖论的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_闹钟（二）.docx]([附身]_闹钟（二）.docx)
 | Size            | 19176 bytes                           |
 | MD5             | 9222bb69964e936b6f82dd4847eab3bb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 心理探索, 自我认知, 伪娘, 青春校园, 女性身体意识, 情感困惑, 同性吸引, 变身, 大学生活, 心理冲突, 普通家庭, 青春期自我发现                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

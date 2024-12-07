@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_机器人偶_4.docx]([皮物]_机器人偶_4.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容来自一部伪娘与变身主题的小说，展示了角色们在工作和私生活中的互动。故事围绕小早川长月、泰瑞莎和雪野亚美三位角色展开，描绘了她们在一个科技公司中的日常生活及彼此的关系。小早川长月在经历一整天的工作后感到疲惫，回到家后被泰瑞莎热情迎接。她们之间的交流显示了温暖的姐妹情，同时也暗示了一些复杂的情感掺杂在其中。文件中提到的一个潜在的角色互换情节，引发了角色们的好奇和争论，暗示着对自我认同和性别认知的探索。同时，文本提及了仿生皮肤技术，这作为科技与性别模糊边界的象征，进一步引发了角色们的内心冲突与迷茫。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_机器人偶_4.docx]([皮物]_机器人偶_4.docx)
 | Size            | 28355 bytes                           |
 | MD5             | 78090d5542cf9bce2e715e2b16b2c35e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 仿生皮肤, 青春校园, 角色互换, 姐妹情, 自我探索, 科技幻想, 未知情感, 情感纠葛, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

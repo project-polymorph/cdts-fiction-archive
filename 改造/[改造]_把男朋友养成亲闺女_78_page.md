@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_78.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别主题的小说章节，标题为《把男朋友养成亲闺女》第七十八章，主要围绕角色贝丽的心理变化和外在形象改造展开。贝丽在试穿低腰紧身牛仔裤和高跟鞋后，意识到自己的外貌变化，这一变化使她对自己的性别认同和自我形象产生深刻的思考。文中描述贝丽在经历性别角色转变时的心理挣扎与对姐妹情谊的珍惜，尤其是与坎迪的互动表现了深厚的感情支持。贝丽面对转变后的自己的疑问和矛盾情感，以及她与阿曼达之间的亲密互动，展示了在跨性别背景下的亲密关系和复杂情感。这一章节描绘了年轻人在探索自我认同中的尝试与挑战，情节中包含一些色情与性暗示的内容，但更多是对角色内心世界的刻画。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_78.docx]([改造]_把男朋友
 | Size            | 19407 bytes                           |
 | MD5             | 4c4e8f1196975f6355270bfa255a80b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 创造性转变, 姐妹情谊, 青春痛苦, 心理挣扎, 性别角色, 自我探索, 友情支持, 性转, 变身, 情感沟通, 低腰牛仔裤, 粉色高跟鞋, 甜美风格, 东方式审美, 青少年成长, 美少女, 幻想小说, 友情与爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

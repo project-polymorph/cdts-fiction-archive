@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_十二、十三章.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了《火焰纹章——光与影的轨迹》的第十二章与第十三章，围绕角色艾克、塞内利奥、纳西尔等人在航行过程中的冒险故事展开。在第十二章中，艾克在船上找到塞内利奥，谈论到船上的食物失踪问题，随后在货舱内抓到了名叫萨扎的少年，他自称是一名盗贼。艾克与塞内利奥对此展开讨论，并考虑雇用萨扎。接下来，艾克和塞内利奥建议吉尔留在团队中，体现了对于团队建立和素质的重视。此后，故事发展到他们前往贝格尼奥的过程中，面临贝格尼奥神使的迎接以及由此而来的潜在危机。文本中涉及到多个人物的内心思考以及团队之间的互动，秀出角色之间的关系与冒险精神。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_十二、十三章.do
 | Size            | 33447 bytes                           |
 | MD5             | 78667cdf8d338e203ea4a11f98c3d579                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 火焰纹章, 变身, 盗贼, 冒险, 贝格尼奥, 神使, 角色发展, 团队合作, 奇幻, 航海, 互动情节, 自我探索, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

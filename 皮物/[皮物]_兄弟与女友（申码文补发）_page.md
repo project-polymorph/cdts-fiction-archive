@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_兄弟与女友（申码文补发）.docx]([皮物]_兄弟
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容为一篇关于跨性别、性转变的小说，描述了两个主要角色刘强和韩真的关系，以及女主李丹与刘强之间复杂的情感交织。故事展现了刘强对韩真的兄弟情和隐秘的情愫，以及李丹的癌症病情对三人关系的深刻影响。剧情开篇描绘了刘强关心韩真的打斗事件，并表现出他在韩真与女友李丹之间的微妙感情变化。李丹在得知自己罹患乳腺癌且已至晚期后，选择隐瞒真相，最终提出一个极具冲击性的请求——希望刘强代替她爱韩真。小说通过细腻的情感描写和戏剧性的情节发展，探讨了性别认同、自我价值与牺牲的主题，涉及到性转、变身等情节，最终引发的复杂情感与转变。内容中还描述了角色的精神挣扎以及对爱的渴望，涉及情欲和身体认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_兄弟与女友（申码文补发）.docx]([皮物]_兄弟
 | Size            | 30898 bytes                           |
 | MD5             | e39b0db108a17cb65df9e251e59ca691                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性转, 变身, 自我认同, 情感纠葛, 暗恋, 乳腺癌, 青春校园, 兄弟情, 牺牲, 禁忌爱, 女友, 癌症, 心理冲突, 异性恋情, 性的探索, 情欲关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

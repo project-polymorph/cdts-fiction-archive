@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_回家路上的诱惑（上）.doc]([皮物]_回家路上�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文档为《回家路上的诱惑（上）》的创作，属于伪娘及变身小说类型。故事讲述了一位主角在国庆假期乘火车回家的过程中，因人多而感到烦躁。在长途旅途中，主角因疲惫而逐渐入睡，醒来后发现身边发生了奇怪的事情。故事中介绍了他偶然获得的一个神秘小葫芦，这个葫芦有着奇特的吸力，能够改变物体的形状并引发一些独特的实验。在火车上，主角尝试利用这个小葫芦来进行一次大胆的实验，意图将身边的乘务员转化为扁平的状态。故事的情节逐步发展，描绘了主角的心理变化以及对新获得力量的探索和羞愧感。此外，故事中涉及到的情节包含许多性转和变形的元素，体现了二次元文化中常见的性别身份与认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_回家路上的诱惑（上）.doc]([皮物]_回家路上�
 | Size            | 39936 bytes                           |
 | MD5             | 54a6d331914bd3214b25a56b7c1a4301                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 性转, 神秘物品, 国庆回家, 实验, 自我认知, 奇幻, 心理探索, 主角内心冲突, 火车                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

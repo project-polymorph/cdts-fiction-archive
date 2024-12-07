@@ -7,7 +7,7 @@ TXT 下载: [[交换]_取代人生.doc]([交换]_取代人生.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《取代人生》是心里的影子撰写的一部涉及伪娘与跨性别主题的小说。故事围绕着主角悦儿及其家人展开。悦儿对弟弟罗天的愚蠢行为感到烦恼，尽管她负责照顾家庭和公司。故事中，罗天因酒驾造成严重后果，被父母偏心，而悦儿则在家庭中感到被忽视和不平等。随着情节的发展，悦儿得知父亲希望通过一种名为记忆转移的技术来交换她与罗天的身体，这一想法令她感到愤怒和羞辱。小说深入探讨了性别认同与家庭关系的复杂性，并以幽默与讽刺的口吻描绘了主角的内心冲突和自我认知的转变。故事设定结合了科幻与玄幻元素，展现了技术对人类身份认同的影响，同时也揭示了家庭内部的权力斗争与心理阴影。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_取代人生.doc]([交换]_取代人生.doc)
 | Size            | 68096 bytes                           |
 | MD5             | 2ca148a4052064fc7556761052373aed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 心里的影子                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 家庭关系, 自我认知, 记忆转移, 酒驾, 偏心, 女性主义, 角色交换, 心理冲突, 科幻, 反转剧情, 都市, 阴暗面, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

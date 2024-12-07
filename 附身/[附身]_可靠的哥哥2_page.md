@@ -7,7 +7,7 @@ TXT 下载: [[附身]_可靠的哥哥2.docx]([附身]_可靠的哥哥2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为关于性别转换和催眠的小说《可靠的哥哥》的第二章，主要围绕林雪与弟弟林动之间的复杂关系展开。故事开始于林雪在阳光下醒来，镜子前欣赏自己的新形象，穿上校服后前往弟弟的房间。林动则表现出虚弱，林雪怀疑他的身体状态，并在对话中流露出关心。随着故事的发展，林雪进入了林动的意识空间，并利用自己的意识影响林动，尝试替代他上学。这个过程中涉及到身体的转换与自我探索，故事包含了性别认同和意识控制的主题。作为一篇伪娘变身与变色小说，它引起恋兄情感的复杂关系，并表达了角色间隐含的情感张力和认同冲突。文本在细节描写上隐晦地涉及了性相关的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_可靠的哥哥2.docx]([附身]_可靠的哥哥2.docx)
 | Size            | 34800 bytes                           |
 | MD5             | 0539d0e39c2320bccddaf44b9a90e05e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 强制催眠, 性别认同, 自我探索, 校服, 兄妹关系, 校园生活, 意识控制, 情感复杂, 身体交换, 幻想, 青春, 二次元, 心理学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

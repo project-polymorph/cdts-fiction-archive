@@ -7,7 +7,7 @@ TXT 下载: [[交换]_制服交换.doc]([交换]_制服交换.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由作者メモット创作的伪娘变身小说，围绕女主角白山理沙与儿时好友住田美姬亚之间的互动展开。故事开始于假期前夕，白山理沙正准备完成暑假作业，却意外收到美姬亚的拜访。在对话中，美姬亚透露自己在混混高中上学，并请求借用理沙的校服。理沙内心犹豫，但最终因每天300元的报酬而决定借衣服给美姬亚。在交换校服后，理沙好奇之心涌动，试穿了美姬亚的校服，感受到了一种特殊的熟悉感。接下来的几天，理沙的生活受到美姬亚请求借用校服的影响，再加上自己对校服的尝试，逐渐引发出性别认同与自我探索的主题，表现出她内心的微妙变化与矛盾。在最后的情节中，理沙开始质疑美姬亚的用意及校服的归还问题，给人以悬念。整体来看，文件结合了校服文化，校园生活与性别角色的探索，是一部富有想象力的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_制服交换.doc]([交换]_制服交换.doc)
 | Size            | 37376 bytes                           |
 | MD5             | 00381d7241124b671534f97cc2a92af2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | メモット                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 校服交换, 性别认同, 自我探索, 校园生活, 暑假作业, 女性视角, 心理变化, 友情, 借贷关系, 青春成长, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[交换]_恶梦的延展.docx]([交换]_恶梦的延展.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于身体互换和性别转变的小说，名为《恶梦的延展》。故事讲述了两名角色阿城和美惠在使用一个神秘软件‘恶梦’后，意外地发生了身体交换。故事开头，阿城醒来时发现自己的身体发生了变化，淋漓尽致地描述了她对新身体的感知和反应。随着情节的发展，阿城和美惠在互换身体过程中产生了复杂的情感和欲望。
+
+在小说中，阿城以美惠的身体进行一系列富有挑逗性和压迫性的互动，涉及了身体的再认知与欲望的冲突。故事中有明显的色情内容，描述了阿城与美惠及其他角色之间的性行为以及对身体的占有和控制。这部作品涵盖了性别认同、欲望、控制和自我探索等主题，同时探讨了个人身份在身体转换过程中的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_恶梦的延展.docx]([交换]_恶梦的延展.docx)
 | Size            | 25477 bytes                           |
 | MD5             | 6bd06a18c0e671db21593f16de1d28a5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 恶梦, 身体交换, 伪娘, 探索自我, 情欲, 欲望, 跨性别, 强迫, 女性视角, 幻想, 换身小说, 伦理冲突, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

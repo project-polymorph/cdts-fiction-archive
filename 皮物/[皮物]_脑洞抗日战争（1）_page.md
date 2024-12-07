@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_脑洞抗日战争（1）.docx]([皮物]_脑洞抗日战�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇融合抗日战争与性别变换主题的小说，讲述了主人公石磊的复杂经历。故事设定在抗日战争时期的上海，石磊是一名日伪政府财政司司长，同时又是一名国民党特工，负责收集日本方面的机密情报。小说围绕着石磊的身份与任务展开，他为了国民的利益，进行危险的间谍活动。故事中涉及石磊意外获得了一种神秘的力量，拥有了水晶瓶中的两种法术，这使得他在面对敌人时可以更好地保护自己和执行任务。除了政治阴谋，故事中还出现了与一名日本女军官琴子关系的描写，暗示了性别与权力之间复杂的联系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_脑洞抗日战争（1）.docx]([皮物]_脑洞抗日战�
 | Size            | 23952 bytes                           |
 | MD5             | 486f964d7c40a186fdefac294d1207e6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 抗日战争, 间谍, 变身小说, 性别认同, 日伪政府, 特工, 神秘力量, 青春, 历史, 悬疑, 伪娘, 情感纠葛, 上海法租界, 国共对抗, 权力斗争, 异世界冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

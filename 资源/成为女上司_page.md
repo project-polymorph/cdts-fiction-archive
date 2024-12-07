@@ -7,7 +7,7 @@ TXT 下载: [成为女上司.docx](成为女上司.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇跨性别小说，讲述了主人公许凡的平凡生活与命运的转折。故事从他失去母亲后的孤独生活展开，许凡因母亲的离世而放弃了保研名额，在一家大厂工作。随着时间的推移，他的生活变得麻木，并无意中接触到VV小说，激发了他内心被压抑的渴望。故事的冲突发生在他与上司王艳之间，王艳不仅长相一般但身材出众，对下属要求极为严格。在一次加班后，许凡被王艳用魔法阵施加控制，发生了身体交换的奇幻情节，王艳寻求通过这个交换来实现她自己的计划，而许凡被迫卷入其中。小说通过许凡对王艳的外貌与性格的描写，以及他从单纯到复杂的心理变化，探讨了性别认同、自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [成为女上司.docx](成为女上司.docx)
 | Size            | 25593 bytes                           |
 | MD5             | 88732a5c74356c6411a94751ec9d3842                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 性别认同, 职场小说, 身体交换, 幻想, 自我探索, 强烈情感, 魔法, 骚扰内容, 自我意识, 职场压力, 性幻想, 女性形象, 男性视角, 都市主题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

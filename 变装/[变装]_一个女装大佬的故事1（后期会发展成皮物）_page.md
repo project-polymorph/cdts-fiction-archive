@@ -7,7 +7,7 @@ TXT 下载: [[变装]_一个女装大佬的故事1（后期会发展成皮物）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是以林倩为主人公的伪娘小说的开头部分，讲述了林倩的生活经历以及内心的挣扎。林倩是一名在深圳大型媒体新媒体部门工作的年轻女编辑，表面上是一位俊美的女孩，实际上却是一名男生。故事中揭示了她内心的复杂情感和对女性装扮的向往，表现了她在性别认同上的探索与成长。林倩从小在单亲家庭成长，经历了父母的离异，与母亲的沟通逐渐让她得以理解和接纳自己的身份。林倩对女性服饰和装扮产生了浓厚的兴趣，并在生活中以女性身份出现，展现了她在日常生活中的转变与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_一个女装大佬的故事1（后期会发展成皮物）
 | Size            | 36864 bytes                           |
 | MD5             | 9a63ec14c6261500efb96bbfc6e3dcfd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 青春, 都市小说, 情感, 生活挑战, 性别变换, 女装文化, 女性主义, 心理冲突, 性转, 网络直播, 内心独白                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

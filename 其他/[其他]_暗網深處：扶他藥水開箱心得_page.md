@@ -7,7 +7,7 @@ TXT 下载: [[其他]_暗網深處：扶他藥水開箱心得.docx]([其他]_暗
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于扶他药水使用体验的开箱文，作者在内容中详细描述了她尝试使用扶他药水的过程和感受。她最初并非扶他爱好者，但在男友的影响下逐渐接受并开始享受这一体验。文中提到使用了新产品‘24小时长效药水’，以便于在工作期间感受扶他的快感，尤其是在长途飞行中。通过多次尝试，作者分享了自己在穿着空姐制服时的兴奋体验，并描述了与乘客及同事的互动过程。内容涉及性别认同、性幻想以及自慰等私密情节，并且描绘了角色间的性关系。整个文本以第一人称的视角展开，字句间直白且富有描绘性，适合研究性别认同及性癖的学者参考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_暗網深處：扶他藥水開箱心得.docx]([其他]_暗
 | Size            | 25011 bytes                           |
 | MD5             | 64b0743b57ec4749a7a5d90df9862c24                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | futa_ca_tw                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 扶他, 药水, 性别认同, 自慰, 性幻想, 性快感, 性转, 空姐, 双性恋, 变装, 成人内容, 恋物癖, 体验分享, 性相关                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

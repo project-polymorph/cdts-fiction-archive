@@ -7,7 +7,7 @@ TXT 下载: [[其他]_超梦-女体化av-UER—052深田老师、夏、妻の選
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容围绕一名玩家体验虚拟现实中的超梦剧情，主角通过全息模拟体验拥有女性身体的感觉，名为夏目奈奈子。文中描述了主角从购买VR影片开始体验超梦的情节，伴随着角色性别转换，玩家的心理变化以及感官体验。故事设定在2030年，描述了一种高度发达的VR产业，以至于受众能够在其中体验真实的情感和身体体验。随着剧情的发展，主角进入了一个以女性身份进行的晨练场景，并逐步展开与其他角色的互动。内容包括角色间的情感纠葛，但同时涉及限制级内容，特别是性行为的描绘，体现出人类与技术结合的复杂关系，以及在虚拟与现实之间模糊的界线。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_超梦-女体化av-UER—052深田老师、夏、妻の選
 | Size            | 52736 bytes                           |
 | MD5             | 3fd36ca18301d76347213ffc681567cb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 超梦, 虚拟现实, 性别转换, 男娘, 伪娘, 深田老师, 心理体验, 全息模拟, 自我认知, 性快感, 阶段性情感, 青春校园, 科技幻想, 强烈色情内容, 男性视角, 角色扮演, 沉浸式体验, 逆后宫, 生理认知, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

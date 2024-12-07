@@ -7,7 +7,7 @@ TXT 下载: [[变身]_月隐-3-变形！_[.docx]([变身]_月隐-3-变形！_[.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档是伪娘和跨性别主题的变身小说，讲述了角色在面对变身过程中的内心挣扎与自我认同的挑战。故事的背景设置在一个充满超自然元素的校园，主人公‘望月’与一个名叫‘玄雾先生’的魔术师之间的互动是故事的主要线索。主人公需要进行性别转换的觉醒，以便在这个严格排斥男性的环境中获得生存和工作的机会。在这过程中，主人公思考了自身的性别认同和未来的生活，充满了对自身身份的探索与困惑。文本中包含了关于如何进行性别转换的细节以及人物间的心理互动，展现了复杂的情感纠葛和对自我的重新认识。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_月隐-3-变形！_[.docx]([变身]_月隐-3-变形！_[.d
 | Size            | 26144 bytes                           |
 | MD5             | dbd3fd4061f84e454a2a055e65ff9317                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别认同, 伪娘, 魔法, 校园, 自我探索, 性别转换, 心理冲突, 奇幻元素, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

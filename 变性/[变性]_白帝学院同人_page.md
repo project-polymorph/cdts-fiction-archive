@@ -7,7 +7,7 @@ TXT 下载: [[变性]_白帝学院同人.docx]([变性]_白帝学院同人.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《白帝学院同人》是一部围绕赵晴空和他的女友苁蓉展开的校园恋情的小说，内容讲述了赵晴空这位白帝大学的校花男友兼足球队队长，同时也是计算机系的佼佼者，如何在暑假前夕与女友进行亲密互动并面临分离的情感描绘。在故事的开头，赵晴空被描写成一个艳丽的天才，其接下来的冒险和人际关系逐渐展开。情感戏中，校园情侣之间的甜蜜互动，友人的调侃，以及即将到来的日本之行，构成了强烈的青春气息。然而，在故事中也揭示了一个隐含的危机：赵晴空出国期间，苁蓉即将面对的羞辱和潜在的危险。小说的后半部分则转向赵晴空在日本的经历，他在迷路过程中意外地进入一个神社，并遇到神秘的石头，潜在的神秘气氛和超自然事件即将浮现。作品通过幽默和悬疑元素交织，展现了青春期的探索与自我认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_白帝学院同人.docx]([变性]_白帝学院同人.docx)
 | Size            | 77225 bytes                           |
 | MD5             | 16e16dc8fc12024e3398815ff599e434                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园恋爱, 跨性别, 伪娘, 变身, 青春爱情, 校园生活, 日本旅行, 神秘事件, 情感纠葛, 友谊, 分离, 自我探索, 现代校园, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_逆命诀（申码文原标题缥缈踪）1-7.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《逆命诀》的章节内容，描写了一个关于修仙与情感纠葛的故事。故事以主角赵皑为中心，他从小与青梅竹马的唐灵儿一起长大。然而，随着唐灵儿踏入缥缈宗修仙，二人之间的距离渐渐拉开。在一次偶然的遭遇中，赵皑被唐灵儿的家人唐叔所袭，并被绑架至缥缈宗。此时，林长老利用唐灵儿的身体企图消灭赵皑，以清除唐灵儿心中的执念。故事中充满了对修仙世界的设定、角色内心挣扎及情感冲突的描绘。林长老逐渐显露出对唐灵儿的控制，揭示出复杂的阴谋。作品涉及了跨性别、身份认同等主题，以及激情与冲突的情节，构建了一幅错综复杂的情感画卷。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_逆命诀（申码文原标题缥缈踪）1-7.doc]([附身
 | Size            | 60416 bytes                           |
 | MD5             | 287d8c35af0b2f070046e5f988c53c43                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 修仙, 情感冲突, 身份认同, 穿越, 奇幻, 灵魂转移, 心魔, 权力游戏, 师徒关系, 恋爱, 逆转人生, 情深意重, 灵力, 斗技, 女主, 男主                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

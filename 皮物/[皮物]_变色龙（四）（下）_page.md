@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_变色龙（四）（下）.docx]([皮物]_变色龙（四
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《变色龙（四）（下）》是一部关于性别认同和人际关系的小说，讲述了一位男性角色杰森·歌迪亚的故事。在开头，杰森因其弟弟被FBI逮捕而愤怒，显示出他在复杂的犯罪生活中面临的挫折。杰森在夜店中，试图忘却烦恼，并遇见了一位神秘而迷人的女孩安妮卡·沃利斯。两人在夜店中相识，并迅速发展出亲密关系，杰森对安妮卡的外表和气质赞不绝口，并逐渐对她产生了浓厚的兴趣。情节中包含性暗示和直白的性爱描写，展现了双方情感和生理层面的互动。作品探讨了人与人之间的吸引力和生理性别的探索，特别是在杰森对安妮卡的强烈吸引下，体现了性别角色的复杂性和流动性。尽管故事围绕着激情与欲望展开，同时也展现了角色在感情纠葛中的内心挣扎和自我认知的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_变色龙（四）（下）.docx]([皮物]_变色龙（四
 | Size            | 31287 bytes                           |
 | MD5             | 7c953fbd393cbe161d57f852266ce7dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | hvk6589                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 夜店, 人际关系, 欲望, 生理性别, 性爱描写, 角色发展, 情感探索, 神秘人物, 性转小说, 城市生活, 迷人与危险, 自我认知, 感情纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

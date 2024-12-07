@@ -7,7 +7,7 @@ TXT 下载: [[交换]_易位陷阱_（四）.doc]([交换]_易位陷阱_（四�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《易位陷阱（四）》属于一个伪娘 TS 变身与跨性别相关的小说档案馆，主要描绘了角色许露在一次约会中的心理挣扎和外部冲突。故事开头，许露作为一名被迫扮演学姐角色的少女，正在等待一名男子吴毅的到来。许露在约会中对自身身份的苦恼和对外界的反应展现得淋漓尽致，表现出她对身处角色的不满及对自己真实身份的渴望。随着情节的发展，许露与吴毅的相处过程中，吴毅的行为逐渐变得更加亲密，甚至产生了强烈的性暗示。许露在吴毅的逼迫下产生了反抗，但最终还是在力量不对等的情况下被迫接受了他的侵犯，留给读者一种强烈的心理冲击和紧张气氛。小说探索了性别身份、权力关系以及青春期性探索等复杂的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_易位陷阱_（四）.doc]([交换]_易位陷阱_（四�
 | Size            | 49152 bytes                           |
 | MD5             | e098c702db4dbe27eb6beae13262d887                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 强奸, 心理冲突, 约会, 女性视角, 自我认同, 青春期, 身心挣扎, 情感纠葛, 性别角色, 权力关系, 侵害与反抗, 大学生活, 都市情感, 恋爱薄凉, 性暗示, 战斗与逃避, 身心转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

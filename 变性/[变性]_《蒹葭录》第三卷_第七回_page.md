@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第三卷_第七回.doc]([变性]_《蒹葭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说《蒹葭录》第三卷第七回的内容，主要探讨了角色苏瑶和张归荑之间的关系发展及内功修炼的过程。在此回中，角色们经历了性别认同与自我探索的冲突，苏瑶使用阴阳周天法和凝阴诀来帮助张归荑修炼。然而，苏瑶意识到张归荑体内的真气藏于重要的玉枕穴中，无法轻易逼出，这引发了他们之间的情感纠葛与责任感。同时，角色们还面临来自外部势力的威胁，如白衣刺客和江湖的纷争，使得故事更具紧张感。文中提及了一些高深的医术和武功，以及关于性别与身份的复杂问题，展示了角色在过程中对自身和他人身份的思考，以及对未来的期望与不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第三卷_第七回.doc]([变性]_《蒹葭
 | Size            | 58368 bytes                           |
 | MD5             | 37dd80a608074ebc658156d07a300af0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 跨性别, 纯爱, 武侠, 内功修炼, 江湖纷争, 身份认同, 情感纠葛, 性别探索, 阴阳周天法, 彩虹文学, 二次元文学, 古风, 女性视角, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

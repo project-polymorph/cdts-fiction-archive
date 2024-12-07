@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_一夜风流（上）.docx]([皮物]_一夜风流（上）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘/男娘变身小说，讲述了主角维克多通过穿戴特殊装备及化妆，变身为一个名为薇琪的年轻女孩，以伪装成其男友鲍伯的约会对象。维克多在镜子前细心打扮，凭借高超的化妆技巧和精心设计的假体，将自己塑造成一个完美的女性形象。该作品深入描绘了维克多的内心变化及他对变装的兴奋感，但在角色的外表与内心的矛盾中，展现了对性别认同与自我探索的思考。整部小说包含了丰富的色情内容，涉及变装、性别转换等主题，并不仅局限于常规的爱情故事，而是叙述了复杂的心理状态与性别认同斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_一夜风流（上）.docx]([皮物]_一夜风流（上）
 | Size            | 21190 bytes                           |
 | MD5             | 712898860629139cf75bf4cd0caf704a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Trevor                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 性别转换, 自我探索, 调教, 强奸, 强迫性行为, 变嫁, 纯爱, 同性恋情, 性幻想, 二次元, 奇幻, 虚拟现实, 黑色幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

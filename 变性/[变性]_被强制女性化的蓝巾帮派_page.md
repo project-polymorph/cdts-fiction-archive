@@ -7,7 +7,7 @@ TXT 下载: [[变性]_被强制女性化的蓝巾帮派.doc]([变性]_被强制�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《被强制女性化的蓝巾帮派》是一部围绕帮派冲突与性别转换的小说。故事讲述了以蓝巾帮派著称的达罗德及其成员们，在与更强大的红巾帮派的对抗中被俘获，经历了一系列刻意的羞辱与性别转变的故事。红巾帮派的头目以戏谑的口气威胁蓝巾帮派，如不投降就会被强制穿上女性化的服装，并最终将他们变为“女朋友”。在强制性的气体攻击下，蓝巾帮派成员逐渐失去意志，被迫接受新的身份。经过一段时间的操控，达罗德醒来后发现自己已完全蜕变为女性，身边的围绕着他的新生活以及新的名字“丽莎”。故事探讨了性别认同的复杂性，以及主角在被迫接受这一身份转换过程中的内心挣扎。小说展现了许多与性别转变和性别认同相关的情节，包括角色之间颠覆的权力关系与情感纠结。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_被强制女性化的蓝巾帮派.doc]([变性]_被强制�
 | Size            | 35328 bytes                           |
 | MD5             | b01326dfc40375ecac3c2a1dba5a0201                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | EllaGurl，翻译：露娜·埃葵斯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 强制女性化, 跨性别, 帮派文化, 自我认知, 性别认同, 性伴侣, 社区, 改造, 性别角色, 心理变迁, 情感纠葛, 二次元, 青春校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

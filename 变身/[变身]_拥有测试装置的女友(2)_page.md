@@ -7,7 +7,7 @@ TXT 下载: [[变身]_拥有测试装置的女友(2).doc]([变身]_拥有测试�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说以一位女性角色的视角展开，描述了她在宿醉后醒来时发现自己身体发生了剧烈变化的经历。故事的开始，女主角因宿醉而感到头疼，通过对自身存在感的探索，她意识到自己的身体已经发生了性别转换，拥有了男性生殖器。腦海中涌现的记忆让她回想起了昨晚在酒吧的行为，利用一个交换身体部位的装置，她与男友伊万进行了身体和性别的互换。细致的描写中，不仅展示了角色的自我认知和性别体验，还充满了对性欲的探索与表达，尤其是当她感受到身体的敏感性和渴望时。随着情节的发展，女主角对新身体的欣喜与不安交织，她对身体的敏感和欲望愈加强烈。这段文字大胆地探讨了性别身份、身体的实验以及恋爱关系中的心理冲突，展现了禁忌与欲望的复杂交互。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_拥有测试装置的女友(2).doc]([变身]_拥有测试�
 | Size            | 50688 bytes                           |
 | MD5             | a2ff000f4ad5e99e455b568e90a6cc01                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 跨性别, 身体交换, 自我探索, 爱情, 性欲, 禁忌, 女性视角, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

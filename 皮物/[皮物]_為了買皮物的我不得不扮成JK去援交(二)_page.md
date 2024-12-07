@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_為了買皮物的我不得不扮成JK去援交(二).docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转换与伪娘主题的小说，讲述了一位男性角色在穿戴‘皮物’后变身女性并参与援交的故事。文章中，主人公在好友紫华的鼓励下，艰难地接受了自己的新身份，并经历了一系列关于自我认同与性别角色扮演的情节。小说开头描绘主人公与紫华的对话，紫华玩笑地要求主人公为自己起一个女性名字。随着故事的发展，主人公被引导去探索女性身份带来的各种感受，包括身体的变化与性别带来的社会认同问题。文本表现出强烈的性暗示与刺激，同时也涉及到了关于女性与男性在社会角色中的差异。情节中涉及到的变装、援交等元素，具有一定的争议性，读者需以科学和客观的态度来分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_為了買皮物的我不得不扮成JK去援交(二).docx]
 | Size            | 22254 bytes                           |
 | MD5             | 3d64efa2290c76932c5ae1178ba3939d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 变身, 援交, 性别认同, 角色扮演, 自我探索, 强烈性暗示, 青春期, 友谊, 女性形象, 巨乳, 内衣, 变嫁, 调教, 少男少女, 幻想, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

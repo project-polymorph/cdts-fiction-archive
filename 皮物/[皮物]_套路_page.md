@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_套路.doc]([皮物]_套路.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《套路》的文档是围绕一场复杂的特工任务展开的小说，主要人物包括奥伦、杰西卡、佩勒及其他国土安全部的探员。故事设置在爱丁堡，通过佩勒这个角色表现了与传统性别角色的冲突，佩勒是军情六处的特工，涉及到的情节包括她的身份、过去的阴暗经历，以及她在特定任务中展现的能力和决心。文中详细描绘了性别转变与角色认同的内心斗争，以及特工团队在执行任务过程中所面对的技术与伦理挑战。情节中的关键点包括对于武器贩卖商的追捕与潜入联合国会议的高风险任务，涉及了复杂的人际关系与道德抉择，角色们的生死存亡悬于一线。文中包含大量生动而复杂的场景描写，性暗示及挑战性选择的叙述形式使得整个故事既紧张又富有悬疑氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_套路.doc]([皮物]_套路.doc)
 | Size            | 69120 bytes                           |
 | MD5             | 0a398351a968f3cc4644e2682a20711d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 特工任务, 跨性别, 潜入行动, 伦理冲突, 武器贩卖, 自我探索, 性别角色, 悬疑, 情感纠葛, 冒险, 黑客技术, 女性特工, 秘密任务, 现代都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

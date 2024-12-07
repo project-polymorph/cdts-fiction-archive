@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【同人向】丝魅_四.doc]([附身]_【同人向】丝
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一名女性角色张雅美的幻想与自我探索过程的小说，涉及角色的身体变化与气质转变。故事开始时，张雅美的女儿在校园里上学，而她则被描绘成一个事业成功的女性。然而，随着情节的发展，张雅美的身份开始变得模糊，一名男性角色通过附身术与她的母亲进行了身份互换。张雅美的内心独白展示了她对性别认同以及自我的探索，文中详细描绘了她穿着高跟鞋和丝袜后所感受的快感。文本包含对女性身体的细致描写，同时，也涉及了一些成人内容，描绘了张雅美与其男性秘书之间的关系，展示了权力和性欲的交织。小说中的对话生动形象，通过对角色内心世界的描述，揭示了对于自我认同以及性转的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【同人向】丝魅_四.doc]([附身]_【同人向】丝
 | Size            | 41472 bytes                           |
 | MD5             | 5b899dff32bb6be25df9de40e120f823                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 跨性别, 幻想小说, 成人内容, 权力关系, 自我探索, 女性视角, 丝袜, 高跟鞋, 职场伦理, 角色扮演, 心灵冲突, 欲望, 性别认同, 儿童与教育                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

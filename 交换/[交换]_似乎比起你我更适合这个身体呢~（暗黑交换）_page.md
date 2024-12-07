@@ -7,7 +7,7 @@ TXT 下载: [[交换]_似乎比起你我更适合这个身体呢~（暗黑交换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性别交换及自我认同探索的小说，讲述了黄梓馨——一位作为科研集团董事长之女的女性——在一次实验中与其员工黄余互换身体的经历。黄梓馨在20岁时便担任公司高层，外表冷艳、气质威严，然而她内心深处却对女性有着倾慕之情并渴望体验男性的生活。经过一项秘密的身体交换实验，两人相互成为对方的躯体，展开了一段充满自我探索与身体认知冲突的旅程。故事详细描写了黄梓馨在男性身体内的困惑与适应，同时也揭示了性别认同与社会期望之间的复杂关系。通过心理变化和身体体验，黄梓馨的内心斗争和对女性的渴望不断被唤醒，使得故事充满了张力和戏剧性。文中涉及到性别角色、性别认同以及对自我的反思，情节中包含了一些性暗示和情绪波动，适合于研究性别和身份话题的相关领域。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_似乎比起你我更适合这个身体呢~（暗黑交换
 | Size            | 30342 bytes                           |
 | MD5             | 5c9b32a4dbd752888a95faf31a5ee66d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 跨性别, 自我认同, 身体转变, 自我探索, 伪娘, 性别角色, 情感冲突, 女性视角, 生理性别, 科学实验, 黄梓馨, 黄余, 女性魅力, 心理变化, 都市小说, 变性幻想, 暗黑实验, 情感纠葛, 性欲觉醒, 性别认同, 权力与身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_22.doc]([附身]_武器种族传说_22.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一名男子在光明神殿的审判长琪雅体内觉醒的故事。在一次寻找光明系魔兽的旅程中，审判长琪雅与她的同伴遭遇了黑暗阵营的强者冥老。冥老在一个致命的瞬息之间，使用黑暗火焰将她同伴塞特化为灰烬。面对即将降临的厄运，琪雅为了求生，试图用身体与冥老达成某种交易，然而冥老却在夺取她身体的主控权之后，计划利用琪雅的身躯来完成自己的修炼。经过冥老的神识干预，原本的意识被抹去，转换为新的存在，并融合了这具女性身体的力量与能力。新的“琪雅”在接下来的情节中开始探索自己的能力，同时感受到身体的变化与情感的复杂。这是一部充满幻想与自我认同探索的跨性别主题故事，同时包含了黑暗与光明的对抗、权力的争夺、自我探索等多重主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_22.doc]([附身]_武器种族传说_22.
 | Size            | 75776 bytes                           |
 | MD5             | a0efc0b72ff24f00b01750b1ad2fb92f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 光明神殿, 黑暗阵营, 生死存亡, 自我认同, 变身, 幻想, 魔法, 斗气, 师徒关系, 冒险, 女性角色, 魂魄交融, 身份转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

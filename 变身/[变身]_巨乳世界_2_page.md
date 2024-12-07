@@ -7,7 +7,7 @@ TXT 下载: [[变身]_巨乳世界_2.docx]([变身]_巨乳世界_2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《巨乳世界》第2部的一个章节，主要讲述了一个男孩在穿越到一个巨乳文化盛行的异世界后的经历。故事的主角在经过治疗后出院，暂时住在一个名叫敏明的人的家中。初到此地，主角意识到周围没有传统意义上的男性，所有人都具有女性外貌，并且都拥有夸张的胸部，甚至男性也以巨乳示人。这种性别观念的颠覆让主角内心感到强烈冲突，因为他以前是生理上的男性，现如今在这个世界却以女性形象出现。随着情节的发展，主角和敏明一起共同生活，甚至在一起泡澡，情感似乎也在不断升温。文章着重描绘了主角对于性别认同和身体变化的复杂心理，以及他在新环境中的尴尬和困惑，例如与敏明共用一张床、在洗手间的性别认知等场景，真实地体现了角色之间的微妙关系和性的模糊性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_巨乳世界_2.docx]([变身]_巨乳世界_2.docx)
 | Size            | 19383 bytes                           |
 | MD5             | 6d5edcfe12ea9ad266a2cc2f7d362d42                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 巨乳世界, 变身, 跨性别, 伪娘, 角色认同, 异世界, 性别困惑, 自我探索, 性别转换, 文化差异, 性别模糊, 情感纠葛, 浴缸场景, 亲密关系, 男性视角, 青年探索, 奇幻文学, 性别流动性, 友情与爱情, 变嫁小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

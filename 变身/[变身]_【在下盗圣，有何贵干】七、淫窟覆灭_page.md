@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】七、淫窟覆灭.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别主题小说《在下盗圣，有何贵干》第七章“淫窟覆灭”的内容。故事围绕男主角楚飞在修炼易形决后，成功变身为女性的情节展开。章节开头描述楚飞在一个月内的修炼成果，肌肤变得更加白嫩，外貌俊美，宛如女子。随着情节的发展，楚飞与小白的关系逐渐亲密，情感也流露出柔情蜜意。小白对楚飞的女装外貌赞不绝口，并主动与之亲密互动，呈现出一种友好的同性情感。文件中描述了楚飞使用内功改变外貌的能力，以及与铁庄主等角色的互动，情节中还揭示了楚飞的真实身份与其他角色之间复杂的情感与冲突。整体内容融合了奇幻、变身与情感探索等元素，适合对跨性别及伪娘文化感兴趣的读者，具有一定的研究与学习价值。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】七、淫窟覆灭.doc]([
 | Size            | 44544 bytes                           |
 | MD5             | 2e839a4315202f4e23b80e5d2341bc9f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 伪娘, 跨性别, 情感探索, 二次元文化, 奇幻, 同性情感, 自我认知, 修炼, 易形决, 女性视角, 自我探索, 药物, 淫荡, 调教, 胡闹, 青春, 爱恨交织, 女体化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

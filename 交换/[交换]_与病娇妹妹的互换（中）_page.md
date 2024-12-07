@@ -7,7 +7,7 @@ TXT 下载: [[交换]_与病娇妹妹的互换（中）.doc]([交换]_与病娇�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件呈现了一段关于身体互换的情节，故事的主角是一名男性青年，在一次意外中与他的妹妹加奈发生了身体交换。情节描绘了主角在被困于女性身体中的羞辱与挣扎，尤其是在加奈的操控和性侵犯下所经历的复杂心理与生理反应。他被束缚在床上，内心充满对青梅竹马立花的思念，却无能为力。随着故事发展，主角感受到的性欲与冲突逐渐加剧，甚至一度陷入失去自我的境地。在加奈的操控之下，主角的感情与身体的反应形成强烈的对比，表现出性别认同与自我探索的主题。故事含有一些限制级的内容，涉及性侵犯、强制和自我探索等情节，因此在描述时需要科学、客观、准确地呈现情节。最后，立花的出现给了他希望。对于如此复杂而敏感的主题，这段故事以激烈的矛盾和情感高潮结束，让人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_与病娇妹妹的互换（中）.doc]([交换]_与病娇�
 | Size            | 46592 bytes                           |
 | MD5             | 2f2d5a676debfaf489cf1d5420725afb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 身体互换, 性转, 伪娘, 强迫, 自我探索, 性别认同, 社交动态, 性侵犯, 心理冲突, 青春期, 双重身份, 情感纠葛, 侵犯与救赎, 青梅竹马, 限制级                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_婚纱的诅咒【二】.doc]([其他]_婚纱的诅咒【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档涉及一位男性角色在变成婚纱之后的内心体验与感受。文本描绘了角色的自我意识逐渐转化为婚纱的状态，过程中他努力熟悉身体的变化以及如何适应这种全新的感官体验。角色发现自己的手臂和身体的其他部分被婚纱的设计占据，这使得他在感官上感受到鲜明的对比与冲突。文中详细描述了婚纱的细节，如肩部的垫肩、胸衣的构造及下裙的复杂层次，展现出角色对身体与婚纱的融和与独特的理解。此外，角色意识到这种状态限制了他的行动能力，考虑到婚礼后可能再也无人知晓其真实身份，令人感受到孤独的无奈与绝望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_婚纱的诅咒【二】.doc]([其他]_婚纱的诅咒【�
 | Size            | 30720 bytes                           |
 | MD5             | adff791e0bcd429191b5613f1ff1e052                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 婚纱, 自我认知, 孤独, 身体意识, 性感觉, 内心斗争, 婚礼, 婚纱设计, 角色融合, 个体认同, 视觉与触觉, 无头人, 女性化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

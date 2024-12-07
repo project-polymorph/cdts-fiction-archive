@@ -7,7 +7,9 @@ TXT 下载: [[变装]_秘密游戏（1）.docx]([变装]_秘密游戏（1）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《秘密游戏（1）》，呈现了一位学生苏哲的故事背景与情感发展。在这部伪娘与变装题材的小说中，苏哲作为红叶高中的一名学生，因身高较矮被同学戏称为“小个子”，并在故事中逐渐揭示了其与青梅竹马的朋友江琪之间复杂微妙的关系。故事的叙述风格轻松幽默，夹杂了一些青春校园的成长困惑，也暗示了苏哲的性别认同和自我认知的冒险。
+
+苏哲在一次与江琪的相处中，参与了所谓的“惩罚”游戏，江琪以一种调皮的方式要求他穿上女性内衣和连衣裙，从而引发一系列情感与身体的冲突。这种转变不仅是外表上的变装，同时也是对他内心深处自我认知的挑战。该情节开启了苏哲对自身性别身份的探索，反映了年轻人在成长过程中面临的困惑与挑战。文中涉及了一些敏感元素，充满了青春的探索与尝试，同时也暗示了性别角色的模糊性，展现了对性别认同的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_秘密游戏（1）.docx]([变装]_秘密游戏（1）.doc
 | Size            | 19946 bytes                           |
 | MD5             | cf2db33e9d7ced308da60fb01e49f6a8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 新淫                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 青春校园, 性别认同, 成长困惑, 调皮惩罚, 男性角色, 女性形象, 青梅竹馬, 情感探索, 自我认知, 性别转换, 二次元, 恋爱关系, 复杂人际, 校园生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[变性]_主妇的秘密（5）.docx]([变性]_主妇的秘密（5�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《主妇的秘密（5）》讲述了一位名叫李洁的女性的内心世界与秘密。故事开始于李洁重翻旧日记和照片，她通过这些珍贵的回忆感受到自己的过去，以此反映出自己作为一名全职主妇的生活感受。她的成长故事从早年家中的受宠爱子，到成为优秀女孩，经历了校园生活的迷茫与初恋的心动。随着年龄的增长，她选择了艺术学院，更加沉浸在追求自我价值的过程中。然而，当婚后与丈夫的生活看似美好，但她却感到了一种无形的不安和对身份的怀疑。
+
+在故事的后段，李洁逐渐意识到自己的身体和情感可能隐藏着某些秘密。她发现大学时期的日记与自己目前的笔迹不符，开始怀疑自身的真实身份和过去的经历。故事中，她在催眠班上的经历，以及对自身身体变化的迷恋，把她推向更多的自我探索和对过去回忆的审视。通过催眠的设定，李洁试图找回已经失去的记忆，但她也面临着可能的身份危机和被替代的恐惧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_主妇的秘密（5）.docx]([变性]_主妇的秘密（5�
 | Size            | 20575 bytes                           |
 | MD5             | 0ab194f8e3c7723196f6cf1cb0fde9d1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 催眠, 全职主妇, 初恋, 大学生活, 情感纠葛, 身份危机, 成长故事, 两性关系, 神秘调查, 日记, 变身, 心理状态, 身体意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

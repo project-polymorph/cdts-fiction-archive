@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_家族遗传.docx]([皮物]_家族遗传.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘/变身与跨性别相关的小说，剧情围绕着两位女主角纱雾玲奈和新野展开。故事起始于新野发现班上女同学纱雾玲奈在公园内扔垃圾，出于好奇而跟踪她。新野意外发现纱雾扔掉的垃圾袋中装满了看似与她外形相同的人皮，随后引发了一系列诡异而不可思议的事件。新野对人皮的好奇和欲望驱使他进行更深一步的探索，而与此同时，纱雾作为女主角之一，其家族遗传的秘密也逐渐揭开。故事中涉及了性别身份、角色心理以及欲望等复杂主题，并包含了大量描写两位角色心灵与身体的互动，结合了恐怖和情色的元素，引发读者思考性别认同与自我探索的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_家族遗传.docx]([皮物]_家族遗传.docx)
 | Size            | 21180 bytes                           |
 | MD5             | b40c3717601a7e94fa02910dc0df477f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性转, 恐怖, 心理, 自我探索, 角色扮演, 欲望, 人皮, 性别认同, 家族秘密, 暗黑幻想, 二次元, 潛行, 青春迷茫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

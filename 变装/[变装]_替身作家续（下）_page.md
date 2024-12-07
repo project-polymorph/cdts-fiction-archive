@@ -7,7 +7,7 @@ TXT 下载: [[变装]_替身作家续（下）.docx]([变装]_替身作家续（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘与跨性别相关的小说，讲述了一个角色汤姆通过变装和化妆，变成女性身份安蒂娜进行社交活动的故事。文件中描绘了角色之间的复杂人际关系，以及汤姆在化身为安蒂娜后所经历的心理冲突和身份认同问题。故事的高潮部分涉及汤姆与詹姆斯之间的互动，詹姆斯被汤姆的要求所吸引，但又对安蒂娜的形象有所迷恋，展现了性别认同与情感交织的复杂性。部分内容涉及性别角色的扭转和挑战传统性别认知的主题，同时也包含了部分露骨的对话和情节。总的来说，小说通过汤姆与安蒂娜的互动探讨了替身写作的伦理，身份认同的层次及其影响，以及在面对爱与欲望时的选择与矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_替身作家续（下）.docx]([变装]_替身作家续（
 | Size            | 32712 bytes                           |
 | MD5             | 315b984e538a683c98030a262eb4cb4b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 伪娘, 性别认同, 自我探索, 爱情, 社会关系, 身份冲突, 女性视角, 酒吧文化, 情感纠葛, 秘密, 心理戏, 青春, 都市幻想, 文学创作, 社交挑战                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

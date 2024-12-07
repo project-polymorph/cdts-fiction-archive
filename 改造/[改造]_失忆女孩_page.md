@@ -7,7 +7,7 @@ TXT 下载: [[改造]_失忆女孩.doc]([改造]_失忆女孩.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一位名叫李雪茹的女孩的失忆经历。故事开头，她由于意外导致头部受伤而失去记忆，被周强带回家。李雪茹试图回忆起自己的身份，周强则试图安慰她，承认两人之间的亲密关系。随着情节的发展，李雪茹在周强的家中逐渐恢复自我意识，甚至在独处时经历了困惑和身体上的变化。文中对应的情节展现了她对身体和性别认同的内心挣扎，以及寻找记忆的感人过程。最终，她意识到自己与一个死亡的老板之间的复杂关系，甚至可能卷入一场谋杀案中。文档的结尾处留下悬念，李雪茹面临着警察的审讯。整体而言，该作品探讨了性别认同、自我探索及失忆后的记忆恢复过程，交织着强烈的情感与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_失忆女孩.doc]([改造]_失忆女孩.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 36864 bytes                           |
 | MD5             | c35403c7571af813340e0200cbb65a13                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 失忆, 变身, 性别认同, 自我探索, 亲密关系, 警察审讯, 记忆恢复, 心理挣扎, 情感纠葛, 伪娘, 强奸, 乱伦, 躁狂, 任性, 单相思                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身绳缘一_二_三.doc]([变身]_变身绳缘一_二_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于变身与跨性别主题的小说，主要讲述了两个男性角色郝建和吴仁平在大学生活中的囧事与冒险。故事以淫荡二人组——郝建和吴仁平的介绍开始，揭示了他们在学校里的调皮捣蛋和不被欢迎的经历，最终两人因为找工作而陷入迷茫之中。在一次偶然的情况下，郝建意外地变身为女性，开启了一系列搞笑而又尴尬的情节。小说中详细描述了郝建的变身过程及其对新身体的反应，以及他与死胖子吴仁平间的互动。文本描绘了二人的生活琐事以及他们在性别认同与社会角色中的冲突与挣扎，内容中涉及诸多成人主题和情节，包括对性别转换的探讨。可以说，这是一篇结合了搞笑和性别探索的小说，融入了诸多二次元文化元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身绳缘一_二_三.doc]([变身]_变身绳缘一_二_
 | Size            | 38912 bytes                           |
 | MD5             | 35d96ee14209e8a0770bce96fd6172f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 伪娘, 大学生活, 友情, 搞笑, 自我认知, 性别认同, 二次元, 情感探索, 奇幻, 青年, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

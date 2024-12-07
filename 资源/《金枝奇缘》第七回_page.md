@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第七回.doc](《金枝奇缘》第七回.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别主题小说《金枝奇缘》第七回的内容，主要讲述了在血狱山的一个紧张而阴暗的情节。故事开始时，女主角顾茹被妖魔抓捕，她在慌乱中被逼迫到血祭池，面临被献祭的危险。反派角色赵成子通过摄魂之术，企图利用顾茹的精魂，同时控制她的身体。这一过程描绘了顾茹的恐惧与无助，以及她的命魂被逼迫的紧张情境。在故事的后续，顾萍与顾长卿追击前来的妖魔，展现了令人窒息的对抗与斗争。在这个过程当中，涉及到性别的转换与身份的认同，顾萍与顾茹的关系也在危险中不断被考验。细节描写中不乏令人毛骨悚然的场景，涉及对女弟子的血肉滋味的描述，展现出对于生与死的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第七回.doc](《金枝奇缘》第七回.doc)
 | Size            | 41984 bytes                           |
 | MD5             | 278df6df99f81eb91666218e71170e2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 跨性别, 魔法, 恐怖, 姐弟情, 性别认同, 妖魔, 生死危机, 心理斗争, 魂魄, 变身, 献祭, 血祭池, 绝美女子, 暗黑奇幻, 自我探索, 母性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

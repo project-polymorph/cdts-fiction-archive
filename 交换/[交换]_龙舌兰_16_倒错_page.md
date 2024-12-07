@@ -7,7 +7,7 @@ TXT 下载: [[交换]_龙舌兰_16_倒错.docx]([交换]_龙舌兰_16_倒错.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《龙舌兰》系列的第十六章，主要围绕角色杨立及其身处的复杂情境展开。故事开头描绘了杨立在被软禁后首次感受到自由的畅快，搭乘黑色SUV驶向未知的目的地。在车内，随着身体的变化和性别的转换，杨立体验到既痛苦又矛盾的感受，内心充满着挣扎和自我认知的冲突。与此同时，杨立的伴侣思琪和初恋蕊可也因身体交换而产生了复杂的情感与心理冲突。在故事的发展中，三人将前往一个神秘的大姐所在的别墅，等待他们的将是未知的挑战与对抗。文本中涉及了众多角色的性别变化和心理变化，展现了性别认同的主题及隐含的暴力与冲突情节，符合伪娘及变身小说的特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_龙舌兰_16_倒错.docx]([交换]_龙舌兰_16_倒错.doc
 | Size            | 31404 bytes                           |
 | MD5             | 97675ecbb043521d8406c042fdb61bc2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | yudi                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 自我探索, 黑帮, 女性化, 伪娘, 情感纠葛, 晚上外出, 身体交换, 求生欲, 张扬与压迫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

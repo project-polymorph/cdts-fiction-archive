@@ -7,7 +7,7 @@ TXT 下载: [[变身]_新人偶像（上）.doc]([变身]_新人偶像（上）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《新人偶像（上）》是一本围绕性别转换主题的小说，讲述了一个男生因意外而转变成女性后，生活和自我认同的变化。故事开始时，主角在一个事故中被一种未知液体淋湿，醒来后发现自己的身体已变为美少女，拥有西方模特般的身材和容貌，但夺回女性身份的生活让他感到不适应和困惑。主角与好友伊月的互动显示了他们之间的深厚友情，以及他对自己新身体的不适感。随着情节发展，主角在黑夜中遇到了一名女星探，她对主角的外表赞赏有加，并希望将其培养为偶像，尽管主角对此毫无兴趣。在之后，主角被诱惑进入一个未知的领域，面对黑色光芒的戒指和控制他身体的力量，故事逐渐向更深层次的探索发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_新人偶像（上）.doc]([变身]_新人偶像（上）.
 | Size            | 47104 bytes                           |
 | MD5             | 8376d441b28543f89582d9f0d2d102ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 偶像, 变身, 自我认同, 二次元, 青春, 友谊, 魔法, 女性身体, 职业诱惑, 心理变化, 校园生活, 男性视角, 成长, 性别探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

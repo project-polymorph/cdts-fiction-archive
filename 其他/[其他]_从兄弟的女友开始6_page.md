@@ -7,7 +7,7 @@ TXT 下载: [[其他]_从兄弟的女友开始6.docx]([其他]_从兄弟的女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本档案是关于伪娘 TS 变身与跨性别主题的小说，内容精彩且复杂，描绘了海超与李诗雨之间的关系。在小说中，海超经历了一场梦境，他与昔日恋人梦璐的回忆交错，梦中出现了李诗雨，她以妖怪的身份回归，展开了极具情感和肉欲的情节。故事充满了隐秘的关系和性别转换的探索，文中多次提到海超的困惑以及对李诗雨的深情，情节发展伴随着梦境与现实的交替。小说涉及了强烈的性暗示和成人内容，包括梦中的亲密行为和对身体的描写，以及家庭成员之间的禁忌关系。整个故事流露出对性别认同和欲望的深刻探讨，同时也挑战了传统的伦理观。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_从兄弟的女友开始6.docx]([其他]_从兄弟的女�
 | Size            | 18223 bytes                           |
 | MD5             | 490967a6cc402b07b421a538fbcd08ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 伦理禁忌, 家庭关系, 梦境, 性别认同, 肉欲, 成长, 自我探索, 幻觉, 性感体验, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

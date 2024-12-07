@@ -7,7 +7,7 @@ TXT 下载: [[变装]_无限恐怖之杀机重重（风铃）.docx]([变装]_无
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《无限恐怖之杀机重重》是一部围绕一群角色进入名为神辉女子魔法学院的神秘轮回世界展开的小说。故事中的主角们包括安娜、卡特、多莉等，分别担当队伍中的不同角色，如队长、刺客和智者。在这个女子学院，所有男性角色必须伪装成女性以混入，并且必须在学院内生存一个月以完成任务。小说从一开始便设定了一个悬疑而深刻的氛围，队员们在享受看似祥和的都市生活的同时，内心对即将面对的任务充满了疑虑。在学院中，存在一条禁忌：进入的男性如果无法在一个月内保持自己的性别，将会被转变为女性，并且失去关于自己男性身份的所有记忆。故事将角色置于生死存亡的境地，展现了对自我认同的考验和人性在极端环境下的反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_无限恐怖之杀机重重（风铃）.docx]([变装]_无
 | Size            | 22240 bytes                           |
 | MD5             | 9db1893f8065b85e325da1afc9833052                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 风铃                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 男娘, 变身, 跨性别, 轮回世界, 魔法学院, 自我探索, 心理冲突, 任务生存, 剧情扭转, 校园生活, 禁忌题材, 性别认同, 女性角色, 悬疑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

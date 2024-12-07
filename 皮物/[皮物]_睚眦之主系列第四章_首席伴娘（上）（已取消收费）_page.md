@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_睚眦之主系列第四章_首席伴娘（上）（已取
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节名为《首席伴娘（上）》，主要讲述了安温与安东尼之间复杂的性别角色游戏与情感互动。故事中，安温在经历了伪装成男性后，与安东尼建立了强势与依赖的关系，使得两人都在性别身份与自我认知中不断探索与成长。安东尼帮助安温提升其伪装技巧，试图让她在性别表现上能够更加完美，这导致了关系中的权力动态的转变，安温成为了安东尼的“女王”。此外，章节还涉及到安东尼作为侦探的日常，与一宗悬而未决的案子相交错—安吉拉的身份疑云，让故事增添了神秘色彩，并预示着潜在的戏剧冲突。整篇故事兼具性别认同探索与悬疑元素，带领读者进入一个充满挑战的心理和情感旅程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_睚眦之主系列第四章_首席伴娘（上）（已取
 | Size            | 46659 bytes                           |
 | MD5             | b58f1f1b026b64d8a8d00cc4b679721b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 角色扮演, 心理探索, 情感互动, 悬疑, TS变身, 双重身份, 权力动态, 情感操控, 赛博朋克, 现代生活, 自我认同, 身份认同, 跨性别, 虚幻与现实的交错, 同性恋情, 恋爱游戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_埋没的笔记本.docx]([皮物]_埋没的笔记本.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一篇涉及伪娘、跨性别和变身题材的小说，背景设定在一名记者与其妻子小兰的生活中。故事通过第一人称叙述，展现了记者加班后的生活琐事，及对妻子的小兰和她的秘密感到好奇与担忧。文件在前半部分讲述了记者对小兰的甜蜜回忆以及最近发生的事情，包含了对婚姻和彼此信任的珍惜。然后引入小兰的神秘行为，包括晚上加班后回家的奇妙发现，以及夫妻间因小兰的变化而产生的疑惑。小兰似乎在回忆中藏有不为人知的秘密，诸如心理治疗的记录和旧身份证明。而文件后半段内容逐渐揭示出小兰的另一重身份，以及她的过去和一些变身相关的恐怖情节，描述记者如何发现了隐藏的秘密，且逐渐了解到小兰的变化与某些邪教活动有关。小说利用细腻的心理描写和逐渐加深的悬疑感，探讨了个人身份和性别认同的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_埋没的笔记本.docx]([皮物]_埋没的笔记本.docx)
 | Size            | 23762 bytes                           |
 | MD5             | fb2348865c4aa7e7d8c500bbe65b7590                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 变身, 心理治疗, 婚姻关系, 秘密, 恐怖, 邪教, 身份危机, 自我探索, 跨性别, 变化, 调教, 阴谋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

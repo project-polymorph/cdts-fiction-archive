@@ -7,7 +7,7 @@ TXT 下载: [[改造]_万事通一（完结）.doc]([改造]_万事通一（完�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部跨性别题材的小说，描绘了因全球疫情而造成的旅行受限背景下，男主角与其女友丽在海南古镇旅行的经历。在古镇的一家小饭店中，男主角接受了陌生老板的赠品，得到了一个名为“万事通”的笔记本。意外的是，这本笔记本是有魔力的，能够让人实现肉体相关的愿望。男主角在一次洗澡中感受到身体的变化，后来发现他的乳头和乳晕发生了明显的变化，令他震惊不已。丽表示是她的愿望效果导致了男主角的变化，并开启了关于性别认同和自我探索的主题。随着故事的发展，男主角不得不面对这样的变化对他生活的影响，以及与丽之间复杂的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_万事通一（完结）.doc]([改造]_万事通一（完�
 | Size            | 55296 bytes                           |
 | MD5             | ed829b8f9a12b1973ec2aeac7808ddde                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别小说, 自我探索, 旅行, 奇幻元素, 魔法, 情侣, 愿望实现, 浴室场景, 爱情复杂性, 心理变化, 生活挑战, 敏感体验, 成长, 情感交流, 海边, 疼痛与愉悦, 古镇美食                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

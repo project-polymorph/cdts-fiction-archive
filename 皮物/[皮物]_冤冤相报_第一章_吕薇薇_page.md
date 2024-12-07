@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_冤冤相报_第一章_吕薇薇.docx]([皮物]_冤冤相�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为标题为《冤冤相报》的小说第一章，讲述了主人公吕威的故事。吕威，原为男性，因一段痛苦的过去而决定以女性身份吕薇薇接近曾经让他心痛的对象叶瑶。吕威的选定变装计划旨在通过女性身份来获取叶瑶的信任，最终实施报复。这一章先介绍了吕薇薇照顾婴儿朵朵的细节，突显了他的性别认同转换以及复杂的自我感受。文件详细描绘了吕威化妆和生活习惯的适应过程，以及对女性身份的逐渐习惯，展现了他内心和身体的双重冲突。随着故事发展，揭示了吕威对于自己变性后的身份和存在的疑惑，加上其对过往痛苦的怀念，这种深刻的人物内心戏为后续情节发展埋下伏笔。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_冤冤相报_第一章_吕薇薇.docx]([皮物]_冤冤相�
 | Size            | 23205 bytes                           |
 | MD5             | f63094bf6a59c658f8a3bd59dcbf1dad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 情感纠葛, 自我认同, 复仇, 友谊, 心理变化, 女性操控, 幼儿照顾, 社会认同, 痛苦经验, 身份认同, 复杂关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

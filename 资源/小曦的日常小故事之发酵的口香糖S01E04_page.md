@@ -7,7 +7,7 @@ TXT 下载: [小曦的日常小故事之发酵的口香糖S01E04.doc](小曦的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于跨性别与性别认同的小说，讲述了一位男生与暗恋对象之间的复杂情感，涉及变装与性别体验的主题。故事中，主角小曦在一次偶然的探寻中得知暗恋的女孩实际上是男生，随后在群聊中讨论关于情色内容的创作。小曦平常生活在变装的状态下，对刺激体验有着强烈的渴望，并回忆起自己对成人内容的偏好，提及了偷拍内容引发的担忧和身份可能被暴露的风险。随着情节发展，主角发现自己与偷拍内容有着不可分割的联系，并对自己性感的身体产生新的认知与反思。文本内包含多处描写，展现了主人公的内心挣扎与自我认同的冲突，同时试图对性别与性取向的复杂性进行探索与描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [小曦的日常小故事之发酵的口香糖S01E04.doc](小曦的�
 | Size            | 33792 bytes                           |
 | MD5             | 8821965f5153e9dd20c0b075e31a0743                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变装, 性别认同, 性转, 偷拍, 情色, 自我探索, 羞耻感, 暗恋, 身份危机, 自我接受, 成人内容, 男生, 女生, 性感, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

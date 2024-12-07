@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【须眉化妖】(第五章)（未完成版）.doc]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部未完成的跨性别小说，主要讲述了国际刑警王力被恶势力绑架后的遭遇。在被控制的环境中，他经历了身体和心理上的改造，逐渐迷失自我。故事中涉及王力与妻子之间的互动，妻子丽丽接受了王力的变化，并表现出对他的支持和关心。作品通过王力的自我认知与转变，探讨了性别认同的问题。情节中包含了王力对自己变身为女性形象的接受过程以及与其儿子见面时的尴尬与复杂情感，充满了引人深思的心理描写和性别转换的细腻描绘。文中有多处涉及王力在变身后的心理挣扎和对未知的期待，浓厚的情感与肉体欲望交织，使得小说展现了较为复杂的性别与身份认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【须眉化妖】(第五章)（未完成版）.doc]([改�
 | Size            | 37376 bytes                           |
 | MD5             | f50d3d77c4908b41b3d3a867c7dca3fb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 心理描写, 变装, 小说, 性别转换, 自我探索, 情感纠葛, 家庭关系, 伦理冲突, 魔法, 幻想, 女性视角, 禁忌关系, 权力交换, 性别二元性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

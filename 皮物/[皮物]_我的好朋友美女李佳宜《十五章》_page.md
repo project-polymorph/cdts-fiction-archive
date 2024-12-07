@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《十五章》.doc]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《我的好朋友美女李佳宜》第十五章主要围绕一群大学生在新年期间的日常生活展开，人物关系错综复杂。故事中的主角与好友李佳宜在校园工厂参观调研的过程中，分享了各自的秘密和疑虑。男女主角通过悄悄的对话，提及了一些与性别身份相关的敏感话题，如彼此的真实身份与外界对他们的认知。文中描绘了李佳宜的独特装扮，展现了年轻人之间的紧张情感与探索自我认同的旅程。整个故事在轻松的校园氛围中，潜藏着关于性别身份和社会期待的深刻讨论。随着情节的发展，读者能够感受到角色间的情感交织及内心的挣扎，特别是在涉及李佳宜真实身份的讨论中，给予了角色更多复杂的人性侧面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《十五章》.doc]([皮物
 | Size            | 53248 bytes                           |
 | MD5             | da5eefbd1ed0aeac5a33a7ea1322f4aa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 变身, 校园生活, 友情, 探索自我, 女性视角, 隐秘身份, 青春, 冲突与和解, 情感纠葛, 新年                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_12.docx]([附身]_武器种族传说_12
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档是一部性转和跨性别主题的小说，包含了一系列生动的情节和人物对话。在故事中，德拉库拉第十三世的女祭司兰娜瑟尔向主角展示了她的魅惑能力，试图诱导主角接受他的新身份。文中描绘了兰娜瑟尔渴望鲜血的特性，结合她的美丽和力量，引发了主角内心的戏剧性冲突。随着剧情的发展，主角了解到自己身处一个不同的世界，以及他与兰娜瑟尔之间复杂的关系和未来的选择。小说通过梦境和现实的交错，探讨了性别认同、自我探索、权力与欲望之间的关系，内容涉及了一些限制级的情节与对话，例如“气势把我压在床上”，“我得到这霸王枪变得更加勇敢”。这些元素使得整个故事充满挑战与诱惑，同时也反映了角色的内心转变和对命运的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_12.docx]([附身]_武器种族传说_12
 | Size            | 34453 bytes                           |
 | MD5             | 19234464afa89ee0bf0937d152f0124f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 幻想, 吸血鬼, 魅惑, 自我探索, 权力游戏, 命运女神, 女王, 魔法, 鲜血女王, 二次元, 妖媚, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_圣人之言——灵肉分离①②.docx]([附身]_圣人
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《圣人之言——灵肉分离①②》，内容涉及一个以梦幻和超现实为背景的变身与跨性别主题的小说。小说的叙述者程嘉，经历了一系列与性别角色和道德观念相悖的情节，展现了人与人之间深刻的灵魂交流和肉体欲望的冲突。开篇就反映了对人类愚蠢与肮脏的批判，并通过主角的自我认知，探讨了自我认同、性欲及社会的虚伪。文中出现了大量露骨的性描写，强调角色在性别转变与身份认同中的复杂情感与心理挣扎，例如“程嘉就是个淫荡的小贱娃”，展现了角色在欲望与道德间的拉锯战，也揭示出对人性的讽刺和对权力结构的质疑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_圣人之言——灵肉分离①②.docx]([附身]_圣人
 | Size            | 32718 bytes                           |
 | MD5             | 2337832fbe4068329e97164681e39aaf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 灵肉分离, 性欲, 道德批判, 伪娘, 性转, 社会讽刺, 人性探讨, 黑暗幻想, 自我认同, 欲望冲突, 奇幻故事, 绝对统治, 灵魂交流, 肉体欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

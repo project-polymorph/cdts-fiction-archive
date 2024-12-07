@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_49.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于人物之间亲密关系与情感互动的小说片段，故事主要围绕德里克和阿曼达之间的关系展开。两人在一家酒店的套房里，经历了一场充满激情的亲密接触，过程描绘了阿曼达内心的紧张与兴奋。阿曼达是一位职场女性，她与德里克之间有着多层次的情感联系，背景涉及她与现任男友贝利的关系，以及德里克作为一个鳏夫和父亲的身份。故事通过生动的细节描写了两人交往中的亲密瞬间，以及他们在床上的激烈互动，尽管内容涉及性行为和情感，但同时也反映了人物对自我身份和情感关系的自我探寻。故事中的对话和内心独白展示了阿曼达对未来的思考，以及她在感情中面临的选择和矛盾。整个情节通过细腻的描写展示了人际关系的复杂性，尤其是在涉及情感和性别认同的层面上。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_49.doc]([改造]_把男朋友�
 | Size            | 33792 bytes                           |
 | MD5             | 51dc331f171574316f1bf5ba1387462f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 强吻, 爱情, 激情, 职场, 女主人公, 年上+恋, 情感探索, 权力动态, 家庭关系, 心理冲突, 未婚夫, 社会限制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

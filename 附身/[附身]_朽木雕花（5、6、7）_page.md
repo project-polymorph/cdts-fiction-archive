@@ -7,7 +7,7 @@ TXT 下载: [[附身]_朽木雕花（5、6、7）.doc]([附身]_朽木雕花（5
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别文学档案馆中的一篇伪娘/男娘题材小说，讲述了主角林青青在经历了一系列心理和生理变化后，逐渐接受自己新身份的故事。故事从林青青因黄sir的去世而感到精神恍惚开始，随后她在商场遇到一个同样打扮妖艳的高中女生，与其产生亲密接触，渐渐迷失在自我探索与性认同的过程中。作品中含有大量成人内容，主角使用震动棒进行自我刺激，表现出对痛苦与快感的复杂情感。随着情节的推进，林青青不仅需要面对自身的欲望，还有来自他人的压力以及身份认同的挑战。整个故事充满了性转、变身与跨性别的主题，并深入探讨了性别和自我认同的问题。此文还涉及复杂的人物关系和情感互动，在结尾部分暗示了更深层的阴谋与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_朽木雕花（5、6、7）.doc]([附身]_朽木雕花（5
 | Size            | 48640 bytes                           |
 | MD5             | 3d5369df1fa6b6235d984d9ab1a83aa6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 情趣用品, 性认同, 自我探索, 成人内容, 痛苦与快感, 复杂人际关系, 生活压力, 阴谋与冲突, 二次元, 百合, TSF, 青春困惑, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

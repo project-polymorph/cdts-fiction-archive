@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_妖淫皮(伍)_-_(柒).docx]([皮物]_妖淫皮(伍)_-_(�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《妖淫皮(伍)》，内容主要围绕着一个名叫妖淫皮的角色所经历的故事和他的思考。角色通过妖刀的刺杀变身为妖淫皮，并发现自己拥有一种将自身化为皮衣的能力。文本讲述了他对自己身份的认同与思考，以及他计划以此能力去引诱他人穿上自己的皮衣或强制将其套在他人身上的实验。他还提到其他妖淫皮的存在以及他们可能带来的威胁，探讨了尝试穿其他妖淫皮的风险。在故事中，还有着与其他角色的互动，这些互动涉及到引诱和肉体欲望的内容，展现了一种复杂的情感与生理的交织。此外，文中涉及到杀人魔宿舍和与房东的暧昧交流，展现了角色为了达成目的而不惜用身体交换的情节。整个文档不仅描绘了角色的内心冲突，还融合了诸多关于性别与身份认同的讨论，属于多元性别文学的一部分。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_妖淫皮(伍)_-_(柒).docx]([皮物]_妖淫皮(伍)_-_(�
 | Size            | 34980 bytes                           |
 | MD5             | 4c368f07afd78a92ec6ab43841599311                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 妖淫皮, 变身, 性别认同, 身份探索, 跨性别, 妖刀, 引诱, 肉体欲望, 性转, 伪娘, 奇幻, 灵异, 人皮衣, 暗黑, 实验, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

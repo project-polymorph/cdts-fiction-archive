@@ -7,7 +7,7 @@ TXT 下载: [[交换]_二手萝丝.docx]([交换]_二手萝丝.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于角色性别转换的短篇小说《二手萝丝》，内容涉及角色杰的意识进入了一个年轻女孩萝丝的身体。故事通过对萝丝形象的描述和角色间的对话，探讨了性别认同、自我探索及情感关系的复杂性。故事开篇描绘了萝丝的外貌特征，紧接着讲述了主角迈克与萝丝的互动，其中蕴含对过往的回忆和对新身份的适应。角色杰以萝丝的身体出现在迈克面前，开启了一段关于自我认同和身份置换的情感交流。文中提到，杰的灵魂已经火化，她以萝丝的身份再次和迈克见面，表达了对新身体的认同和对过去的告别，引起了迈克的诸多情感反应。整体故事充满了对于女性外貌和内心世界的探索，同时也点出了性别转换带来的悖论和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_二手萝丝.docx]([交换]_二手萝丝.docx)
 | Size            | 24534 bytes                           |
 | MD5             | 83880f80aaf0d7fd774ab58f57ddf7d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Blot，翻译者为czq123                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 跨性别, 情感关系, 自我探索, 青春期探索, 角色互换, 心理冲突, 现代奇幻, 角色身份置换, 纯爱, 人际关系, 性别转换, 身份认同, 女性视角, 未来社会, 身体交换, 虚拟身份, 可爱女孩, 大学生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

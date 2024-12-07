@@ -7,7 +7,7 @@ TXT 下载: [[其他]_一条婚纱的一生外传.docx]([其他]_一条婚纱的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一部围绕变身实验展开的伪娘/男娘小说，讲述了一个博士生与其弟弟进行奇特实验的故事。在故事中，弟弟被迫穿上华丽的婚纱，并在姐姐的指导下接受一个神秘的机器的变身实验。随着故事的推进，弟弟的身体逐渐萎缩，并经历了从人类转变为婚纱的过程。期间，弟弟内心充满着挣扎与恐慌，随着身体的变化，他感受到新的感知和无力感。作者通过细腻的描写，探讨了性别认同与自我意识的主题，使读者感受到角色转变带来的复杂情感和心理冲突。在这条充满挑战的变身之旅中，弟弟的自我认知和对身体的感知被彻底颠覆，反映了探索身份与变迁过程的深层次思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_一条婚纱的一生外传.docx]([其他]_一条婚纱的
 | Size            | 116736 bytes                           |
 | MD5             | a39b807744e8435b1d4773e3f3558995                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 婚纱, 性别认同, 自我探索, 科学实验, 意识转移, 二次元, 强烈情感, 奇幻, 科技, 男娘, 性别转换, 心理冲突, 变嫁, 非人化, 身体改造, 性转, 触感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

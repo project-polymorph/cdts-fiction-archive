@@ -7,7 +7,7 @@ TXT 下载: [[交换]_丟手絹（ハンカチ落とし）.docx]([交换]_丟手
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《丟手絹（ハンカチ落とし）》, 是一本围绕着角色性别置换和身体交换的变身小说。故事发生在一个幽静的住宅区公园，描述了一群人玩丢手绢游戏的情景。突然，游戏中的一个男孩用手帕与参与者交换身体。在游戏中，每个人的灵魂从自身的身体中浮出，并进入其他人的身体，形成了一系列奇特的身体与性别的变化。参与者的表现和反应极尽夸张，包括一名女大学生因变身后激发了对自己身体的好奇和性欲，与其他角色展开了混乱的性行为，最终引发了一场集体的疯狂事件。故事反映了人们对性别认同、自我探索与身体变化的复杂心理，同时涉及多种可能的限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_丟手絹（ハンカチ落とし）.docx]([交换]_丟手
 | Size            | 22856 bytes                           |
 | MD5             | 73f9d0d9400633b8feb23dac46c2cb9f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 身体交换, 灵魂互换, 集体疯狂, 青春成长, 性别认同, 自我探索, 互动游戏, 幻想, 混乱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

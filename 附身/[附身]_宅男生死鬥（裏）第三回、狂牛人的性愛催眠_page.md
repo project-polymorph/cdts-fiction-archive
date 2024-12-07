@@ -7,7 +7,7 @@ TXT 下载: [[附身]_宅男生死鬥（裏）第三回、狂牛人的性愛催�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《宅男生死鬥（裏）第三回、狂牛人的性愛催眠》描述了一名校花魏宇婕在校园中的外貌变化及其带来的关注和骚动。故事设定在校园，魏宇婕因整形手术而显得更加性感，受到同学们的注意与讨论。文本中涉及的情节围绕着魏宇婕的性别和身份认同展开，表现了她在被周围同学关注时的内心矛盾与挣扎。她试图应对着外界对她的新形象的看法，同时内心深处又涌动着欲望与羞愧，并在厕所中表现出无助与渴望的复杂情感。文中穿插了与“牛人”相关的奇幻元素，增加了较为暴露和禁忌的性感情节，表现出她在性别转变后面临的调教与自我认知的冲突。大部分情节涉及性感、性暗示和淫荡的内容，适合特定读者群体阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_宅男生死鬥（裏）第三回、狂牛人的性愛催�
 | Size            | 34282 bytes                           |
 | MD5             | 8d1e2cfe893faa2ff5a12f6d9e0a27df                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 校园恋情, 心理冲突, 性感形象, 自我认知, 奇幻元素, 性别认同, 求助与逃避, 禁忌之爱, 调教与训练, 情感挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

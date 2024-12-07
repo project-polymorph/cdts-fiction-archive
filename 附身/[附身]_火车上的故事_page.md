@@ -7,7 +7,7 @@ TXT 下载: [[附身]_火车上的故事.docx]([附身]_火车上的故事.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《附身_火车上的故事》，讲述了一位普通上班族王启在上海火车站的经历，他正准备乘坐从南京通往广州的快车（K527次列车）。文本通过细腻的描写展现了火车站的氛围，以及他对旅程的期待和对周围人事的观察。故事中，王启在车厢中遇到了两位姐妹，白颜和白钰，她们的交流展现了年轻人与成年人之间的互动。同时，文件中流露出对旅行与人际交流的热爱，强调了性别与自我认知的主题，暗示了可能存在的性别认同和自我探索的情节。故事背景设定为暑假期间，呈现出流动的生活与青春的印记。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_火车上的故事.docx]([附身]_火车上的故事.docx)
 | Size            | 47751 bytes                           |
 | MD5             | b2dbb68a9c6db3ee7b494266806d97f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 火车旅行, 性别认同, 自我探索, 青春, 家庭关系, 旅行, 社会观察, 人际交往, 故事叙述, 现代生活, 姐妹情谊, 旅途上的相遇, 细腻描写, 人生旅途, 情感交流, 暑假旅行                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

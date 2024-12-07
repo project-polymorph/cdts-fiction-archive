@@ -7,7 +7,9 @@ TXT 下载: [[变身]_《闲聊异斋》之前世缘(1).doc]([变身]_《闲聊�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于灵魂转世与情感纠葛的变身跨性别小说，故事围绕两位主角青山和彩樱展开。在二十年前，一桩谋杀案的发生导致两位主角在前世的情感未能了结，整整二十年后，真相浮出水面。小说开篇就提到"我就是倒霉娶了你"，展现了两位主角在命运交错之中的调侃和情感挣扎。
+
+在剧情中，青山在保护自己的妻子彩樱时遭遇了袭击，不幸身亡，后者在受到重创后也深感痛苦。作者通过不同时间节点的切换，展示了两人在生与死之间的情感，青山与彩樱琳琅满目的过去、复仇与强奸等暗黑主题穿插其中。特别值得注意的是，随着剧情的发展，角色间的性别变化与自我认同的问题相互交织，而在转世后，彩樱的灵魂被投胎为男性的彩银，面临新的自我探索与身份认同挑战。因此，该作品深入探讨了性别转变、灵魂轮回、爱情与背叛等复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_《闲聊异斋》之前世缘(1).doc]([变身]_《闲聊�
 | Size            | 57344 bytes                           |
 | MD5             | 2b64c7bbf46280ff77b86b2e63cba6c5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 灵魂转世, 情感纠葛, 双性恋, 变嫁, 强奸, 复仇, 自我探索, 二次元, 男娘, 女权, 凶杀案, 家庭关系, 情感冲突, 伪娘, 阴暗心理, 悬疑, 社会问题, 都市传说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

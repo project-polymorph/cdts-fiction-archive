@@ -7,7 +7,7 @@ TXT 下载: [[改造]_整形時代_第一章地下拍賣會(申碼文改錯重�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《整形时代》的第一章，主要描绘了一场地下拍卖会的情景。故事背景设定在一个繁华的豪华宴会厅中，参加者大多是社会上层的富豪，他们在品尝美味的红酒和点心的同时，讨论着社会上的贫富差距以及对底层人民的看法。小说中的主要角色李呈，作为社运领袖，内心对这些富豪的冷漠与傲慢感到愤怒和失望。他在此拍卖会上有一个重要的目的，即拯救他心爱的人。在气氛紧张的拍卖会上，描绘了有关一位年轻女拍卖品的情况，以及拍卖过程中的种种人性考验。故事不仅涉及性别认同及自我探索的主题，还反映了对资本主义与社会不平等深刻的批判。文字中包含了对富人为所欲为、剥削底层社会的讽刺，同时也表现了年轻人对社会现象的反思和追求正义的决心。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_整形時代_第一章地下拍賣會(申碼文改錯重�
 | Size            | 64535 bytes                           |
 | MD5             | 8bd3016e6b3811524943d54812874545                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 地下拍卖, 资本主义, 性别认同, 自我探索, 社会运动, 少女拍卖, 丑恶的一面, 人性考验, 财富与权力, 抗争与希望, 青春与勇气, 权力剥削                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

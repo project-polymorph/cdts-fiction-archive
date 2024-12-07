@@ -7,7 +7,7 @@ TXT 下载: [[变身]_被恶魔俘虏的神（一）.docx]([变身]_被恶魔俘
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以变身、恶魔与神灵为主题的小说，标题为《被恶魔俘虏的神（一）》。故事发生在一个名为星界的虚幻世界，这里充满了失落的神灵与坠落的信仰。主角罗德是一名穿越者，意外变成了一名濒死的神灵。在试图复活自己的过程中，罗德经历了一系列的挣扎与冲突。他拥有一个强大的系统作为外挂，通过收集信仰力量来恢复自身。在罗德的复活仪式中，遭到了一名恶魔的袭击，恶魔轻易地俘获了他，并将他转变为女性，这一切使得罗德感受到深深的屈辱与痛苦。文件中详细描写了罗德的新身份与身体对他的影响，以及他对恶魔的恨意与绝望。整体情节探讨了性别认同、自我探索以及力量与屈辱的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_被恶魔俘虏的神（一）.docx]([变身]_被恶魔俘
 | Size            | 24218 bytes                           |
 | MD5             | aa7026079e0edc78de624412e654d874                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 恶魔, 神灵, 穿越, 屈辱, 性别转换, 强奸, 自我探索, 神职, 深渊                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

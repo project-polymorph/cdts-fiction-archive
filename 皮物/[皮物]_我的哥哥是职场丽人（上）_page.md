@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的哥哥是职场丽人（上）.docx]([皮物]_我的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于职场与性别转换的虚构小说的文档，故事围绕大学刚毕业的何小武展开。何小武正在一家知名的4A广告公司进行面试，他与其他四位候选人争夺一个经理助理的职位。故事中，他受到公司新任业务部经理罗茜的青睐，尽管面试官对他给予了质疑。面试过程中，罗茜展现了她独特的选人眼光和对进取心的看重，最终选择何小武作为她的助理。文中描绘了职场环境以及男女同事间微妙的互动，尤其是在事业与个人情感方面的结合。同时，何小武与罗茜的关系也暗示出一种潜在的性别认同与角色转换的主题，提升了故事的复杂性。小说中包含了一些关于性骚扰的情节，展现了职场对女性的挑战以及她们如何在压力中坚持自我。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的哥哥是职场丽人（上）.docx]([皮物]_我的
 | Size            | 43067 bytes                           |
 | MD5             | fb042d1e37c52dcf35bfc97edbfdcc11                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 职场丽人, 性别转换, 大学毕业生, 广告公司, 面试, 女性领导, 职场性骚扰, 兄妹关系, 自我探索, 青春校园, 心理斗争, 感情纠葛, 强职场关系, 职业发展, 进取心, 角色认同, 处事态度                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

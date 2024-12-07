@@ -7,7 +7,7 @@ TXT 下载: [[交换]_新任哈里斯太太7-9.doc]([交换]_新任哈里斯太�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘/变身跨性别题材的小说，其主要叙述了主人公在变身为哈里斯太太后所经历的生活与情感冲突。故事开始于主人公面临身份转换的困扰，尽管他曾是一个在校学生，梦想成为程序员，但在变身后沦为家庭主妇，生活变得异常乏味。主人公通过一系列的日常琐事，比如洗衣、打扫、准备志愿者工作，努力适应新的身份。在其中，主人公体验了身体上的变化以及对自我的探索，尤其是性别认同与身体快感的复杂情感。在一次次情绪的波动与对身体控制的困惑中，主人公逐渐陷入了对性别角色的挣扎和混乱，同时还要应对来自艾伦的身体上的亲密侵扰，这进一步加深了他的内心矛盾。他的欲望与厌恶交织着，最终导致他对现状的强烈不安与情感的崩溃。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_新任哈里斯太太7-9.doc]([交换]_新任哈里斯太�
 | Size            | 51200 bytes                           |
 | MD5             | 96e68c99ed42ea14f711ee025ff67b39                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 变身, 婚姻, 欲望, 心理挣扎, 家庭主妇, 情感冲突, 日常生活, 性幻想, 自我探索, 情感混乱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

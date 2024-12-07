@@ -7,7 +7,7 @@ TXT 下载: [[附身]_手绢-番外篇（为光棍节里的光棍们祈福）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为“光棍节奇遇”的番外篇，讲述了主角在光棍节的经历与感受。故事中主角与好友彪哥一起出门，希望能在光棍节这个特别的日子里寻找到机会摆脱单身。两人漫无目的地行走在商业圈中，看到周围的小情侣，内心充满了无奈与失落。彪哥对一位熟悉的女性——女同事的姐姐刘晓云怀有暗恋之情，但由于她已经结婚，彪哥的尴尬与失落愈加明显。整个故事经历了相遇、尴尬与新奇的情节，巧妙引入了一个可以交换身体的手绢，在这个特殊的光棍节，主角不再是单身，通过身体的变化，体验到了身为女性的生活与感受。故事里面有幽默的对话与浮夸的情节，但同时又掺杂着复杂的人际关系与内心挣扎，勾勒出了一幅现代都市男女面临感情困扰的画面。关键词中涉及了性别认同与身体交换的主题，展现了对“光棍”生活的调侃与对爱的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_手绢-番外篇（为光棍节里的光棍们祈福）.do
 | Size            | 22846 bytes                           |
 | MD5             | 9098050c135e7c94f71881cc7ed84715                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 光棍节, 都市故事, 友情, 暗恋, 性别交换, 身体变换, 生活苦恼, 自我认知, 情感探索, 幻想奇遇, 现代爱情, 幽默, 单身生活, 年轻人, 情感困境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

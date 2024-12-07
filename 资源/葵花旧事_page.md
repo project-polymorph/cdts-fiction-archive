@@ -7,7 +7,7 @@ TXT 下载: [葵花旧事.doc](葵花旧事.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《葵花旧事》是一部以靖难之役为背景的长篇小说，故事历时五年书写，字数达到七八十万字，作者在创作过程中经历了多次思考与修改，最终完成。书中不仅涉及历史事件的展开，如建文帝的行踪与明教受朝廷打压的情节，还融入了性别转换的主题与人物内心的自我探索。整体内容包括角色的复杂情感和自我认同的探讨，带有一定的伪娘、变身和跨性别色彩。故事开头描写了主角与报应之间的矛盾冲突，深入探究个人在历史洪流中的命运和身份。在情节发展中，人物之间的对话、生动的场景、紧凑的剧情切换确保了小说的吸引力。同时，众多的角色通过师徒关系、友谊与爱的纽带，描绘出岁月流转中的人生百态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [葵花旧事.doc](葵花旧事.doc)
 | Size            | 465920 bytes                           |
 | MD5             | 47cb39ad6213e7e2929b1501e8f1c8fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 葵花宝典, 靖难之役, 伪娘, 跨性别, 性别认同, 角色发展, 历史小说, 内心冲突, 师徒关系, 友谊, 爱情, 二次元, 变身小说, 古代背景, 自我探索, 社会矛盾                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

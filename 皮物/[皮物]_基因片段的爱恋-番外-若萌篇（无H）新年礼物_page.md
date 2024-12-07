@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_基因片段的爱恋-番外-若萌篇（无H）新年礼�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于角色性别转变和科技研究的小说，讲述了年轻女孩若萌的暑假冒险故事。若萌在大学假期期间前往表哥郭得凡的实验室，意外发掘了关于生物科技的秘密和基因实验。在探险中，若萌对表哥的神秘工作充满好奇，探索了一所没有人守卫的实验室，了解到裸鼹鼠基因片段与细胞再生的实验，同时萌生了一些大胆的想法。若萌与两名同学合作，利用R27病毒改造个人皮物装，最终实现了与其想象中角色的融合。整个故事充满了关于青春、梦想与科技的探索，展示了主角对自我认同和梦想追求的探讨。该作品涉及科学实验、性别认同、皮物变装等主题，带有一定的幻想与科幻色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_基因片段的爱恋-番外-若萌篇（无H）新年礼�
 | Size            | 52224 bytes                           |
 | MD5             | 6a930a0c1fa18bb37366cae23fbf929e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 科学实验, 青春冒险, 生物科技, 基因研究, 幻想, 皮物变装, 梦幻, 自我认同, 女性视角, 科技与幻想, 大学生活, 暑假                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

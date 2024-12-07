@@ -7,7 +7,7 @@ TXT 下载: [[改造]_须眉化妖_（第一章）.doc]([改造]_须眉化妖_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《须眉化妖（第一章）》，内容围绕一名名为王力的警察展开，他正在秘密监视一个与世界最大卖淫组织“极乐”有关的会议。在紧张的气氛中，王力的无线电联络出现问题，他在被包围后准备奋力突围，但最终被麻醉袭击而晕倒。接着，王力被转移到一个阴暗的房间，泡在一个绿色的液体中，身体被禁锢，无法动弹。王力渐渐意识到，他的身体正在被进行某种未知的改造，他的神经系统受到影响，体验到了一系列奇怪的感觉和无法控制的快感。作品探讨了性别认同、自我探索的问题，情节涉及身体改造和权力的丧失，同时也包含有强烈的肉体快感描写。故事在一个悬疑且充满刺激的背景下，逐步揭开王力所处境的神秘背景，并暗示了他即将经历的转变和挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_须眉化妖_（第一章）.doc]([改造]_须眉化妖_�
 | Size            | 47104 bytes                           |
 | MD5             | 819d938cd215c93fda02db80c8fba09f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 身体改造, 警察, 卖淫组织, 暗黑, 神秘, 权力丧失, 自我探索, 快感, 神经系统, 成人内容, 强烈肉体描写, 追逐与逃亡, 悬疑, 转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

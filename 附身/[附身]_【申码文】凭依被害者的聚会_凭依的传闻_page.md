@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【申码文】凭依被害者的聚会_凭依的传闻.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《憑依被害者的聚会》，记录了一场因附身而遭受伤害者的聚会。在这次聚会中，四名参与者围坐在一起，分享各自被附身的经历。发起人平次郎首先讲述，接着女大学生夕纪和家庭主妇瑞枝讲述了自己被附身后的感受，以及由此带来的生活改变，尤其是夕纪失去了三年的高中生活而感到无比悔恨和难过。聚会中，参与者们感慨于各自的遭遇，探讨附身带来的影响和相互之间的共鸣。瑞枝提到她因附身而失去了丈夫和孩子的监护权，生活陷入困境，表现出更深的绝望和无助。整体情节展现了附身对生活的重大影响，同时揭示了人物的心理变化和人际关系的破裂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【申码文】凭依被害者的聚会_凭依的传闻.do
 | Size            | 61440 bytes                           |
 | MD5             | ce5101a755fb236ba49b31ad7a6bb5ab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身, 心理创伤, 社会聚会, 青春落幕, 自我认同, 人生改变, 性别转换, 悲伤, 失落, 情感交流, 成长故事, 灾难经历, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

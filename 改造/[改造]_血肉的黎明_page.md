@@ -7,7 +7,7 @@ TXT 下载: [[改造]_血肉的黎明.doc]([改造]_血肉的黎明.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《血肉的黎明》是一篇以洛特城为背景的奇幻小说，讲述了圣教军统领尤里乌斯在不断对抗古神教及其余党的过程中，揭示了身边隐藏的巨大威胁与复杂人际关系。故事开头，尤里乌斯在晨练时接到圣女的召唤。圣女提到她有关于古神复苏的梦境警告，二人商量如何应对这股来自上古之神的威胁。尤里乌斯随后集结队伍，开始对洛特城内的古神教余党展开清剿。在敌人伪装的混乱中，面对伪装成普通女性的敌人，尤里乌斯展现了无与伦比的战斗力，揭示古神教的恐怖邪术，表现了他坚定的信念与责任感。故事随着尤里乌斯不断清剿敌人而推进，揭示了更深层次的阴谋和威胁。文章情节紧凑，描写生动，尤其在展现角色内心冲突和外部冲突上极具张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_血肉的黎明.doc]([改造]_血肉的黎明.doc)
 | Size            | 59904 bytes                           |
 | MD5             | 0cabdc7aed521adc02b1517ac9bec2bc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 校园, 圣骑士, 古神, 跨性别, 伪娘, 血肉, 上古神话, 伦理道德, 英雄主义, 女性角色, 自我探索, 权力斗争, 英雄与恶势力的对抗, 性别认同, 魔法, 冒险, 邪教, 真相与救赎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_昨日杀手今日主妇_第四章_水漫金山.doc]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《昨日杀手今日主妇》第四章，主要讲述了一对夫妻的日常生活中隐藏的秘密与疑问。故事围绕角色姜殊白的身份展开，她一方面扮演着贤妻良母的角色，另一方面却藏着不为人知的身份和秘密。文中提到她使用激光脱毛仪，关注自己的形象，但她的丈夫于边却开始产生怀疑。随着故事的发展，于边试图找出妻子的真实身份，甚至在某些情节中被朋友付航引导进入了一个看似充满阴谋的情境。夫妻间的信任和怀疑交织，加上付航的告诫，逐渐揭示了姜殊白实际上是个变性人，二人之间的关系在这样的信息下陷入了危机。文中运用细腻的描写展现了姜殊白内心的挣扎与矛盾，反映出性别认同与自我认知的重要性。全篇文字探讨了性转、跨性别与家庭生活的复杂关系，同时也涉及了少许带有限制级的情节描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_昨日杀手今日主妇_第四章_水漫金山.doc]([变�
 | Size            | 48640 bytes                           |
 | MD5             | 00af7dc66c32eab907d06d22430e5006                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 家庭生活, 性别认同, 自我探索, 爱情, 疑惑, 隐秘身份, 日常生活, 变身, 角色扮演, 关系危机, 细腻描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

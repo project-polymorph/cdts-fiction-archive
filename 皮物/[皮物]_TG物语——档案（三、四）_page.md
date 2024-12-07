@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_TG物语——档案（三、四）.doc]([皮物]_TG物语
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段围绕角色李云与秘书刘惜蕊的交流情节。李云作为警官，前往苏氏集团寻找苏总以调查旧案线索，却遇到了刘秘书。刘秘书的柔和气质和体香深深吸引了李云，他在对话中表现出内心的紧张与失态。虽然刘秘书友好地提出会帮忙联系苏总，但李云发现苏总已很久未到公司，令他失望。但在与刘秘书的互动中，李云对她产生了好感，内心暗许追求的想法。在文件的后半部分，李云回到办公室时发现档案室被打开，遇到了一位名叫赵建军的管理员。两人之间的对话让李云怀疑赵建军有隐情，随后李云检查证物铁盒，发现与案件相关的物品完好无损，在经过抚摩一件充气娃娃时，李云联想到一种仿真皮衣的可能性。这一叙述透露了李云在职业与个人情感纠缠之中的困惑与探索，也引发了对未来情节发展的期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_TG物语——档案（三、四）.doc]([皮物]_TG物语
 | Size            | 44032 bytes                           |
 | MD5             | 8728a613459b3536e16bee4bf12dbe41                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 跨性别, 伪娘, 警察故事, 爱情, 案件调查, 秘书, 自我认同, 心理冲突, 性别认同, 女性视角, 情感纠葛, 制服诱惑, 情节悬疑, 角色互动, 仿真皮衣, 吸引力, 内心挣扎, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

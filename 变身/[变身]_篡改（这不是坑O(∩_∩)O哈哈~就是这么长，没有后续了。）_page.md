@@ -7,7 +7,7 @@ TXT 下载: [[变身]_篡改（这不是坑O(∩_∩)O哈哈~就是这么长，�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇关于性别转换与自我认同的小说，主角吴用是一位拥有操控自己记忆能力的高三学生。他在面对父母因科学实验而导致家庭解体的情况下，发现了一个可以篡改记忆的科技。小说通过吴用的内心独白揭示了他的自我探索与成长，描述了他如何利用这种能力在平凡与天才之间挣扎。在实验室的秘密中，吴用得知父母的研究成果可能会影响到他的生活历程。他经历了从一个普通少年向女孩子吴昕的转变，身体与心理的双重变化充满了戏剧性与冲突。随着故事的推进，吴用不得不面对家庭关系的复杂与自我认同的挑战，情节逐渐紧张，最终揭示出吴用的真实身份与命运。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_篡改（这不是坑O(∩_∩)O哈哈~就是这么长，�
 | Size            | 19262 bytes                           |
 | MD5             | d9e5b5c8eb7d59ad5ae6bf9a665992fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Wydle                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 记忆操控, 情感纠葛, 家庭关系, 自我探索, 科技幻想, 双重身份, 青少年, 心理冲突, 天使联盟, 恶魔组织, 成长故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

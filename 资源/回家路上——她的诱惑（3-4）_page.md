@@ -7,7 +7,7 @@ TXT 下载: [回家路上——她的诱惑（3-4）.doc](回家路上——她�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别主题的小说摘录，讲述的是角色之间的灵魂与身体的互动与交融。故事的主要情节围绕着一个角色在火车上遇见一名乘务员，逐渐产生了恋慕之情。在梦幻般的叙述中，角色经历了灵魂的出体经历，将自己的灵魂与乘务员的身体融合，赋予了自己新的身份和体验。文本中描绘了角色对乘务员的外貌特征与气质的细致观察，表达了他内心的嫉妒与爱慕交织的复杂情感。通过这种身体与灵魂的更迭，小说探讨了自我认同、身份认同与内心欲望之间的深刻联系。故事中的角色在转变为程小燕后，感受到的身体感受与情感变化被细腻呈现，体现了一种超越肉体的灵魂合一。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [回家路上——她的诱惑（3-4）.doc](回家路上——她�
 | Size            | 49664 bytes                           |
 | MD5             | f12cf46ddc9db2e84894cb391afa7d14                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 灵魂交流, 身心变化, 自我认同, 角色扮演, 梦想成真, 情感纠葛, 爱慕, 青春, 火车旅行, 幻想文学, 内心探究, 转生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

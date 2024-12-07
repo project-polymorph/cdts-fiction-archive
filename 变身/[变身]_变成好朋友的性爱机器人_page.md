@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变成好朋友的性爱机器人.doc]([变身]_变成好�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了艾伦与朋友约翰的互动，艾伦在约翰的家中见到了一个裸体性爱机器人，随后他的意识被转移到了机器人的身体中，起名为阿拉娜。故事围绕阿拉娜在新身体中经历的快感与挣扎展开，她努力想要逃离但被约翰的控制束缚。随着情节的发展，阿拉娜的身体感受向她施加了极大的诱惑和压力，这让她在自我意识与身体欲望之间产生了冲突。尤其是在约翰不断提升她的身体敏感度及下达命令后，阿拉娜逐渐失去了对自己的控制，最终不得不认同自己的身份为性爱机器人，并向约翰请求帮助。内容明确描绘了性转与角色意识的冲突，包含强烈的性暗示与场景描写，涉及对身份的重新定义与欲望的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变成好朋友的性爱机器人.doc]([变身]_变成好�
 | Size            | 43008 bytes                           |
 | MD5             | 0710819fb2ed8e5a373b6cb58abeac56                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性爱机器人, 身体意识, 自我探索, 强烈快感, 性刺激, 主仆关系, 性别认同, 变嫁, 顿悟, 内心挣扎, 欲望与控制, 科技幻想, 性转, 现代奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

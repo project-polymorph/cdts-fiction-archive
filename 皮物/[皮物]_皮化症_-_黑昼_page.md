@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮化症_-_黑昼.docx]([皮物]_皮化症_-_黑昼.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于《皮化症 - 黑昼》的小说内容摘录，讲述了在一个名为黑昼的故事背景下，主角与灵儿之间复杂的关系。故事开始于主角对灵儿的思念，然而情况的发展却揭示了灵儿被控制的真相，原来灵儿的身体被另一个女人陈诗颖所占有。随着情节的发展，主角必须在愤怒与无奈中选择穿上灵儿的‘皮’，以此达成陈诗颖的要求，从而拯救灵儿。故事探讨了身份的错位、自我认知的冲突以及人性中的操控与被操控，深入刻画了情感的复杂性和对自由意志的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮化症_-_黑昼.docx]([皮物]_皮化症_-_黑昼.docx)
 | Size            | 44745 bytes                           |
 | MD5             | 1e10c981f386fdf3e477e449f1edd424                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 变身, 情感操控, 身体交换, 逆后宫, 强烈愤怒, 自我牺牲, 百合倾向, 斗智斗勇, 复杂关系, 都市奇幻, 恋爱心理, 性别转换, 药物影响, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

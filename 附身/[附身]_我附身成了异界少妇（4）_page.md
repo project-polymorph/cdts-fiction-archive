@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我附身成了异界少妇（4）.docx]([附身]_我附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《我附身成了异界少妇（4）》的性转小说，讲述了主角西亚在异世界中的经历。她附身于一位名叫雅莉娜的少妇，面临着身体与自我认知的双重挑战。小说开篇描绘了西亚感受到与自己生理性别不同的身体，以及对这个异世界的适应过程。西亚的内心独白流露出对新身体的好奇与探索，同时在逐步融合两个人格的过程中，她展现出性格的转变与对女性角色的迷恋。故事中充满了魔法、异界元素以及对权力与征服的描绘，展现出西亚从一个初出茅庐的女仆到逐渐认同自己的新身份和力量的心路历程。情节中，包括她与雅莉娜之间复杂的关系，以及对角色权力与身份的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我附身成了异界少妇（4）.docx]([附身]_我附�
 | Size            | 18424 bytes                           |
 | MD5             | f541c6fde7e2a286389658cbe444722d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 异世界, 身体交换, 魔法, 角色扮演, 自我认同, 伪娘, 恋爱, 权力游戏, 幻想, 调教, 百合                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

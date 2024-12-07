@@ -7,7 +7,7 @@ TXT 下载: [[变性]_残身(第十至十二节).doc]([变性]_残身(第十至�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于刘栋和李金凤之间复杂情感的描绘。故事通过两位角色之间的互动，展现了情感和性别认同的冲突。刘栋在一场醉酒后，与李金凤发生了肢体接触，这一行为使得他们的关系变得微妙。金凤虽然生理上仍为男性，但其内心对自己性别的认同以及对刘栋的情感逐渐浮现。在相互的爱慕中，刘栋满心迷茫，而金凤则在期望与失落之间挣扎。文中包含了对金凤性别困惑的描写，如他的表情、思维和对刘栋的依赖，以及对自我认识的探索。通过写实而细腻的描写，读者得以窥见两人间的心灵碰撞，以及对彼此情感的探索。整体故事在情感层面具有深度，涉及强烈的性别认同、爱与失落、以及社会对性别角色的期待等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_残身(第十至十二节).doc]([变性]_残身(第十至�
 | Size            | 39936 bytes                           |
 | MD5             | e840a5e572ae304a6f06fcb3e864cba5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 情感纠葛, 跨性别角色, 男男爱情, 醉酒事件, 温柔关系, 互相依赖, 心理冲突, 社会期待, 甜蜜与痛苦, 二次元文化, 复杂情感, 成长经历, 角色变化, 禁忌恋情, 暧昧关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

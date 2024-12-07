@@ -7,7 +7,7 @@ TXT 下载: [[附身]_援救公主（3）.docx]([附身]_援救公主（3）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一段关于罗尼克和迪娜公主的奇幻冒险故事。在故事中，两位旅人经过一座小山后，发现一个看似废弃的帐篷。当他们在帐篷内过夜时，迪娜公主突然昏迷，随后奇异事件接连发生。迪娜醒来后，感到自身的性别发生了不可逆转的变化，认为自己变成了女孩，伴随着对自身新身份的疑惑与愤怒。罗尼克对此感到困扰，并在帐篷内经历着一连串奇幻且充满悬念的对话，牵扯到附身与性别认同的问题。文中涉及了两位主角之间的互动、变身情节及角色的自我认知挑战，情节紧凑值得探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_援救公主（3）.docx]([附身]_援救公主（3）.doc
 | Size            | 33093 bytes                           |
 | MD5             | 7801bae9087c94ae6d097c6fc75f2978                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻冒险, 性转, 角色变身, 自我认知, 奇异现象, 动态关系, 身份危机, 性别认同, 魔法, 双重人格, 旅途探索, 公主与骑士, 帐篷冒险, 奇幻小说, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

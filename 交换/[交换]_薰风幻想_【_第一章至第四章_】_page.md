@@ -7,7 +7,7 @@ TXT 下载: [[交换]_薰风幻想_【_第一章至第四章_】.docx]([交换]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《薰风幻想》的前言和第一至第四章，主要描绘了一群年轻魔法师的冒险故事。第一章至第三章描述了角色的个性特征，以及彼此之间的互动和剑与魔法的热血战斗。主要角色包括16岁的莎莎，她是一位才华横溢的女魔法师，精通元素魔法；15岁的罗德斯，一名不擅思考但意志坚定的少年；以及19岁的雷瑟尔，他有特殊血统，喜欢捉弄人。第四章则转向暗黑邪恶的剧情，角色们为了推翻克雷尔城主的不公统治而展开行动。故事中充满了角色之间的幽默对话与紧张的战斗场面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_薰风幻想_【_第一章至第四章_】.docx]([交换]_
 | Size            | 68571 bytes                           |
 | MD5             | 749ca78c1beb3100825e817458ed7766                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RE                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 性转, 幻想, 魔法, 战斗, 角色成长, 剑与魔法, 冒险, 少年少女, 黑暗剧情, 救援计划, 情感纠葛, 热血, 剑术, 反抗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_82.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档的内容为一篇关于性别转换与伪娘主题的小说，主要讲述了角色贝丽在经历了一系列身体和心理上的变化后，面对自己的性别认同和生活挑战的故事。故事的背景设定在贝丽的生日派对前夕，涉及她与艾普丽尔一同去购物的场景，以及她对穿着女装的复杂感受。贝丽性别变换后，由于身体上的改变和社会角色的期待，让她感到困惑与痛苦。文本详细描述了贝丽对自己性别的认知挣扎，如她手中的棒棒糖和对裙子的排斥与期待相互交织，显示了角色在自我认同与外界压力下的脆弱与反抗。故事中还引入了贝丽与其他人物间的关系，包括对友谊、家庭的探索以及个人隐私的冲突，呈现了多元的跨性别主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_82.docx]([改造]_把男朋友
 | Size            | 22989 bytes                           |
 | MD5             | 4abacf507c46bd5e6f1aecbb1b16cef4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 自我认同, 身体改造, 青春, 友谊, 秘密, 情感挣扎, 角色扮演, 夹缝生存, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

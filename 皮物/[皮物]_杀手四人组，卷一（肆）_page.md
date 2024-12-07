@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_杀手四人组，卷一（肆）.docx]([皮物]_杀手四
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《杀手四人组：卷一（四）》是一本围绕职场和性别角色转变的小说，讲述了一位男性角色王威意外转变为女性贾灵雪后的故事。在公司内部的权力斗争中，贾灵雪从父亲贾万盛的权威下逐渐独立，并开始探索作为女性的身份和性别认同。小说详细描述了贾灵雪在新身份中面临的困惑与挑战，以及她与女友苏芬之间的复杂关系和互动。故事中展现了对性和自我认知的探索，角色们在各自的情感和欲望中不断挣扎，情节涉及自慰、性兴奋等情欲描写。在这一卷中，贾灵雪逐渐接受并享受她作为女性的身体，甚至在办公室中体验个人发现的兴奋感。苏芬作为公司董事长，不仅在工作上展现出极高的能力，也在情感上对贾灵雪产生了复杂的情感，二者之间的互动增添了故事的戏剧性和情欲张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_杀手四人组，卷一（肆）.docx]([皮物]_杀手四
 | Size            | 20507 bytes                           |
 | MD5             | 0a4fe4b9cc3ab0f9d4c8a500c851ece6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 职场故事, 自我探索, 情感纠葛, 跨性别, 伪娘, 办公室恋情, 淫荡, 性欲, 探索身份, 女性身体, 情感发展, 欲望, 阴道研究, 女友关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

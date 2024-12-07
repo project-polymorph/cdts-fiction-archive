@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮解02.docx]([皮物]_皮解02.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部涉及性别转换、变身与自我认同的小说，内容讲述了一名男性角色通过法术夺取了一位女性校花陈梦儿的身体与记忆，从而开始了他的新生活。在故事中，主角无情地迷晕了陈梦儿并进行身体的转换，描绘出他对女性身体快感的探索和自我认同的变化。整个过程深入探讨了对性别与身份的理解，其中包含诸多限制级与性相关的情节，堪称是一种特殊的跨性别幻想作品。文中细腻的心理刻画与生动的场景描写将读者带入了主角在转变后的心理状态和身体体验中，展现出对女性魅力与自我认知完整而复杂的内心感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮解02.docx]([皮物]_皮解02.docx)
 | Size            | 18958 bytes                           |
 | MD5             | efe308b0190a251a38d3ac45e4025ff8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 自我认同, 幻想, 身份认同, 禁忌, 超自然, 青春校园, 女性视角, 快感体验, 禁忌恋, 魔法, 生死轮回, 伦理, 奇幻故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

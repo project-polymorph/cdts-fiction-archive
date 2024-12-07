@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_万圣夜·画皮（短篇）.docx]([皮物]_万圣夜·�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《万圣夜·画皮》是一篇描绘了伪娘与男子之间微妙关系的短篇小说。这部作品通过一个按摩姑娘与主角的对话，隐喻着深层次的性别认同与自我探索主题。在故事中，女子代表了一种被社会边缘化的弱势群体，她在工作中既感到羞涩又不得不迎合她的顾客，展现了她内心的不安和对现实的反思。小说中对她的描写，既有细腻的情感流露，也有人性的挣扎和冲突，给人以深思。故事开端的轻松调侃迅速转向对社会角色与性别身份的深刻探讨，体现出一种对自我的剖析与质疑。作品中提到的“我们的战争持续了三千年”一句，揭示了妓女与社会之间长期的对立与历史承负。文中丰富的性暗示和情感纠葛让人思考权力与弱势的对比，激发读者对这些角色命运的关注与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_万圣夜·画皮（短篇）.docx]([皮物]_万圣夜·�
 | Size            | 34010 bytes                           |
 | MD5             | c5d016f836901ca0d9dee5253e4b2010                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 万圣节, 按摩, 伪娘, 跨性别, 自我探索, 性别认同, 角色转换, 情感纠葛, 社会边缘化, 权力与弱势, 性暗示, 青春期困惑, 战后的希望, 美学幻想, 灵魂对话, 禁忌主题, 女性视角, 反思社会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

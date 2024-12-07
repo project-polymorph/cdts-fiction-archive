@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑丝带来的诱惑_6.docx]([皮物]_黑丝带来的诱�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是伪娘和变身主题相关的小说内容，包含了一些关于角色性别转换和生理变化的情节。在小说的第六章中，角色经历了极端的自我认知冲突，描述了一个男主角通过魔法或某种手段变身为女性角色李晶晶，并与她发生了亲密关系的过程。文中详细描写了角色在变身后对身体的感知以及与其他角色的互动，包括强烈的色情元素和一些暴力情节，涉及了身份认同、性转变、情欲体验等主题。作品语言直白、内容挑衅，呈现了强烈的感官刺激。李晶晶的身体变化与人物内心的转折相辅相成，引发了角色之间复杂的情感纠葛和身份重塑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑丝带来的诱惑_6.docx]([皮物]_黑丝带来的诱�
 | Size            | 18153 bytes                           |
 | MD5             | aabc7c4c763e508cfcd22f45b027adde                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 跨性别, 暴力, 色情, 强奸, 药物, 黑丝, 女性视角, 变嫁, 身体交换, 情欲, 二次元, 魔法少女, 都市幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

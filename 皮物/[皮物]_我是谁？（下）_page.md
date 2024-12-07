@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我是谁？（下）.docx]([皮物]_我是谁？（下）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇伪娘和跨性别领域相关的小说的下半部分，展示了角色之间复杂的关系与冲突。文章开头描绘了主要角色陈娇穿着黑色长靴、黑丝，以及另一角色周婧穿着的人皮衣，揭示了角色换身的惊悚氛围。随后的情节中，角色之间展开了激烈的对话与身体上的冲突，展现了背叛与权力的斗争。特别是主角对外部形象的恐惧与对内心挣扎的描述，暗示出跨性别与性别认同的主题。文中提到角色被胶带捆绑，显示出一种无力与绝望的状态，形成对情节紧张氛围的渲染。随着情节的发展，曲晓涵的真实身份被揭露，并且她计划从周婧的身份中解脱出来，展望着重生的希望。文本中充满了强烈的情感表达与身体的细致描写，涉及对身份认同与社会性别角色的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我是谁？（下）.docx]([皮物]_我是谁？（下）
 | Size            | 37876 bytes                           |
 | MD5             | 50490958feb44f77e2ed27a183e92a25                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 背叛, 身份认同, 强暴, 性别转换, 情感冲突, 角色扮演, 权力斗争, 成长与自我发现, 极端行为, 身体捆绑, 复杂人际关系, 魔法少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_(申码文）超凡“易”生.doc]([其他]_(申码文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于一位名叫李伟的大三生的小说，描绘了他在寻找改变自我的过程中遇到的一系列超自然事件。故事开头，李伟在古玩街意外发现一个看似普通但古朴的盒子，经过交易获得后，他兴奋地回到宿舍，翻开古籍研究该盒子的秘密，最终从中得到了一个名为《易容真解》的秘籍和一颗特殊的丹药。在对其内容进行深入研究后，李伟决定利用这种易容术进行一些大胆的尝试，以此在自己向往的身份与生活中寻找新的可能性。整个故事不仅探讨了自我认知和性别身份问题，也涉及了变装、易容、以及角色扮演等主题，情节中描写了李伟为了变身为校花张子琪而经历的种种变化与心理斗争。文中多次提及易容术的强大与神秘，以及李伟内心对变性和完美形象的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_(申码文）超凡“易”生.doc]([其他]_(申码文�
 | Size            | 94720 bytes                           |
 | MD5             | 42cb78a72a85d6ab8cc08a8588f27572                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 易容术, 自我探索, 古籍, 超能力, 校花, 异装癖, 变嫁, 强奸, 调教, 校园, 青春, 逆后宫, 阴暗面, 性别认同, 身份悖论                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

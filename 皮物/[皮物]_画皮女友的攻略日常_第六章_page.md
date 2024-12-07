@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第六章.doc]([皮物]_画皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘相关的小说章节，标题为《画皮女友的攻略日常》第六章。在这一章中，主要描绘了两个角色之间的亲密互动与情感发展。故事围绕一个名叫陆升的男性角色与苏黎颖的关系展开， 苏黎颖是一个以女性形象出现的角色，但实际上她是一个拥有拉链的皮物。内容中详细叙述了两人之间的调情、身体接触和情感交流。陆升逐渐展现出对苏黎颖的身体的欲望，并请求她在家时露出背后的拉链，显示出他对她的特殊偏爱。这一章不仅涉及了性欲的探索，也探讨了角色间的信任与认同，揭示出他们关系的复杂性与微妙性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第六章.doc]([皮物]_画皮
 | Size            | 52736 bytes                           |
 | MD5             | 7774da7377f04d23aec43ffa896c384d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 情感发展, 亲密关系, 强烈性欲, 性转, 身体接触, 信任, 拉链, 皮物, 调情, 角色扮演, 爱情, 幻想, 性相关, 幻想文                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

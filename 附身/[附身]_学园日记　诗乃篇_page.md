@@ -7,7 +7,7 @@ TXT 下载: [[附身]_学园日记　诗乃篇.docx]([附身]_学园日记　诗
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《学园日记 诗乃篇》，描绘了主角皋月诗乃在一个异常的校园世界中的日常记录。故事设定在一个存在时间循环的异世界，主角试图在每个循环结束前记录自己发现的异常，这些异常包括校园内师生关系的复杂性及其快速发展。文件中提到，诗乃在经历若干个循环后，对世界的本质有了逐步深入的理解，意识到这个校园里的记忆易失与人际关系存在巨大的异化。他细致观察到，在这个短暂的十四天循环中，班上的同学们往往会在未经深入了解的情况下迅速建立亲密关系，甚至包括性关系，并且教师的身份在每个循环中也会得到更新。文件内容包含了强烈的自我探索和性别认同的主题，描绘了一种悲剧性的告知感与孤独感。整体而言，这部作品涉及较多的成人内容与心理冲突，蕴含对师生关系与人性复杂性的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_学园日记　诗乃篇.docx]([附身]_学园日记　诗
 | Size            | 37118 bytes                           |
 | MD5             | 3a376040bac7fe802fe60812cf26a45a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 时间循环, 自我探索, 性别认同, 复杂的人际关系, 心理描写, 异世界, 师生关系, 日记体, 变身, 强奸, 淫荡, 成年关系, 轮回, 伪娘, 百合, 奇幻, 虚拟现实, 情感纠纷, 人物死亡                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

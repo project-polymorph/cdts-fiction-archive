@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老王的幸福后半生（3）.doc]([改造]_老王的幸
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《老王的幸福后半生（3）》，属于伪娘 TS 变身与跨性别相关小说，讲述了老王在家中发现妻子赵花花与他人的淫荡行为的故事。在一段情节中，老王无意中窥见妻子穿着性感情趣内衣，手握仿真玩具体验快感，而背后则有一位女性通过手机的声音调教、控制她。文章详细描绘了妻子在控制下表现出的愉悦与痛苦，弥漫着强烈的情色氛围。情节涉及了催眠、调教与性别认同等复杂元素，突显了角色间的权力与心理斗争。同时，文件中包含了大量露骨的性描写，展示了两性之间的紧张与错位，刻画出对家庭与自我认知的疑惑。文中对老王内心的反应进行了深刻的挖掘，展现了他对妻子逐渐迷失自我的无奈与愤怒。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老王的幸福后半生（3）.doc]([改造]_老王的幸
 | Size            | 43520 bytes                           |
 | MD5             | e02d7347a1b134edac05eadc75cec865                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 调教, 催眠, 情色, 家庭, 性别认同, 权力游戏, 婚姻关系, 强迫性, 自我探索, 痛苦与快感, 情趣内衣, 角色扮演, 性别转换, 理想与现实的冲突, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

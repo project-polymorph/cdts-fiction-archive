@@ -7,7 +7,7 @@ TXT 下载: [[交换]_偷走性感妈妈的身体【中.docx]([交换]_偷走性
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于性转与跨性别主题的虚构小说，内容描绘了一名女性在某种情况下被迫进入男性的身体，并与一名男性展开了一系列性行为。故事中包含了一些强烈的性暗示和露骨的性描写，涉及了权力、性别认同和身体的转变等复杂主题。故事的开头，角色身穿性感的女性服装，利用自己身体的魅力进行诱惑，随后与一个被称作‘王胖子’的男性角色发生关系。整个情节围绕着人物的自我认知和性别角色的扭转展开。最终，角色在面临体育老师的威胁时，必须作出困惑而又具有牺牲性质的选择。该文本存在大量关于性行为和性别角色的讨论和描述，在探索变性和性转的主题过程中，揭示了社会和个人认知的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_偷走性感妈妈的身体【中.docx]([交换]_偷走性
 | Size            | 27705 bytes                           |
 | MD5             | d60ecd5b45e07c90601f24f20f57230d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 强奸, 跨性别, 性教育, 性别认同, 女性视角, 权力游戏, 性别角色, 自我探索, 内心冲突, 欲望, 跨越界限, 权力与服从, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

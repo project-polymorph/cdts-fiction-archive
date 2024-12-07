@@ -7,7 +7,7 @@ TXT 下载: [[交换]_错魂体_第一篇_诡异的来电.docx]([交换]_错魂�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《错魂体》的第一篇，标题为《诡异的来电》。故事围绕主人公王康展开，他在大都市工作的保安，却常常接到一些陌生且令人不安的骚扰电话。电话的内容让王康感到困惑和恐惧，一遍遍提到“李真！你逃不掉的！！”，而这些神秘的电话却从未在通话记录中留下痕迹。在尝试更换号码后，王康仍然陷入同样的骚扰中，逐渐感到难以承受的心理压力，生活也变得越来越颓废。故事着重描出王康的内心挣扎以及对未知恐惧的描绘，同时描写了王康与同事们的互动和他对生活的无奈。随着高潮的发展，王康对隐藏在电话背后的真相感到越来越好奇，故事留有悬念，引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_错魂体_第一篇_诡异的来电.docx]([交换]_错魂�
 | Size            | 28418 bytes                           |
 | MD5             | 577b1e3a8ffe7cf6dc0adaf7aec56c9a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 悬疑, 恐怖, 都市, 邪灵, 心理描写, 自我探索, 夜班, 骚扰电话, 青春, 社会现象                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

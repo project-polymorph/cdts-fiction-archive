@@ -7,7 +7,7 @@ TXT 下载: [[改造]_实现愿望的女巫_5_(2).docx]([改造]_实现愿望的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于女巫和转变的跨性别小说的第五章，叙述了女巫给"皇后"提供的魔法道具以及皇后与她的"父亲"安度因之间复杂微妙的关系。在这个奇幻的故事中，女巫给皇后留下了一些魔法道具，尤其是一个苹果，带有神秘的魔力，能够改变角色的身体特征。在回忆中，皇后想起了自己的过去，感受到时间的流逝和变化，同时也流露出对失去的懊悔。随着故事的发展，角色们的身份和性别开始模糊，尤其是皇后与亲人之间的禁忌关系通过语言和行为展示出来，暗示着性别认同和自我探索的主题。文件中涉及到的情节较为敏感，包括亲属间的淫荡互动与强烈的性暗示，对角色们的生理特点与心理状态进行了细腻的描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_实现愿望的女巫_5_(2).docx]([改造]_实现愿望的
 | Size            | 21252 bytes                           |
 | MD5             | fabbc13f13e67a82d62da31e6f330ae0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性转, 女巫, 禁忌恋, 自我认同, 魔法, 转变, 情欲, 二次元, 角色扮演, 奇幻小说, 权力游戏, 家庭关系, 自我探索, 心理冲突, 身体转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

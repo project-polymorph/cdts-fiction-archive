@@ -7,7 +7,7 @@ TXT 下载: [[交换]_婚姻的故事.doc]([交换]_婚姻的故事.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《婚姻的故事》是一部包含性别转换与浪漫元素的小说，由Eric创作，露娜·埃葵斯翻译。小说围绕主人公珍妮特和她男朋友杰克的婚姻故事展开。故事以珍妮特因杰克的鲁莽行为而感到失望为起点，她在小溪边意外发现具有魔力的徽章，导致两人身体互换。杰克成为脆弱的女性珍妮特，而珍妮特则进入坚强的男性杰克的身体。两人面临着性别、身份和情感的复杂挑战，尤其是在婚礼前夕的种种误解与冲突中，他们的感情经历考验与成长。小说探讨了婚姻中的权力与性别角色、身份认同等主题，情节中也融入了性方面的描写，充满了戏剧性与张力。最终，两人如何面对新的生活和感情取向，体现出对自我认知的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_婚姻的故事.doc]([交换]_婚姻的故事.doc)
 | Size            | 35840 bytes                           |
 | MD5             | 1020a80e9632582e7022e846373cb2e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Eric                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 婚姻, 自我认同, 魔法, 爱情, 情感冲突, TS变身, 性别角色, 两个灵魂的挣扎, 现代浪漫, 跨性别关系, 心理戏, 勇敢面对自我, 神秘徽章, 双重生活, 快乐与痛苦, 情感成长, 家庭生活, 百合, 非人化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

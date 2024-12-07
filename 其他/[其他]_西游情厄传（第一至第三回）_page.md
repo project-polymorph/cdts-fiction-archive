@@ -7,7 +7,7 @@ TXT 下载: [[其他]_西游情厄传（第一至第三回）.doc]([其他]_西�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是基于《西游补》创作的伪娘及性转小说，包含了多个章节的内容，主要围绕唐僧和他的弟子们在西天取经路上的奇遇与冲突。第一回描述了唐僧一行人在春天的景色下，对牡丹花的讨论和各自心中的情感，也暗示了角色之间的情感纠葛与变化。行者（孙悟空）与师父唐僧的对话环绕着色彩与感觉的误解，充满幽默与调侃。同时，文件中描绘了一群年轻女孩和孩子围绕在唐僧身边，展现了一些对性的暗示和调侃。第二回则扩展了角色的内心冲突与外部阻碍，行者在寻找化饭地点时遇到了阻碍，并对改变所属地域及身份等问题进行了探讨。整个文档探讨了身份、自我认同以及与传统性别角色的挑战，是探讨跨性别与性别认同主题的极佳材料。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_西游情厄传（第一至第三回）.doc]([其他]_西�
 | Size            | 40960 bytes                           |
 | MD5             | 5c366fb43d36c7461fa032c8dc1a82c7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 唐僧, 孙悟空, 跨性别, 幻想小说, 年龄差, 二次元, 爱情, 幽默, 自我认同, 春天, 牡丹花, 奇遇, 情感纠葛, 性暗示, 妖怪, 妖精, 春宫, 角色扮演, 道教                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

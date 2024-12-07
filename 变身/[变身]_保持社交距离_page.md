@@ -7,7 +7,7 @@ TXT 下载: [[变身]_保持社交距离.doc]([变身]_保持社交距离.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部名为《保持社交距离》的小说，作者为half pint51，讲述了一场因神秘病毒疫情导致的居家隔离生活中的变身故事。故事围绕两名年轻男性室友奥斯卡和利奥展开。在隔离期间，奥斯卡开始经历身体的奇怪变化，他的脚、头发、身体形态逐渐发生改变，最后他变成了女性，名为奥莉薇娅。小说深入探讨了性别身份的困惑与探索，充满了自我认知的斗争和心理的发展，反映出在极端环境下人性的脆弱和复杂。文章通过对角色的细腻描绘，例如奥斯卡发现身体变化时的震惊，以及他与利奥之间情感的不断升温，展现了他们心灵深处的挣扎与最终的相互依赖。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_保持社交距离.doc]([变身]_保持社交距离.doc)
 | Size            | 50688 bytes                           |
 | MD5             | 2b6a9e07b1d18e15fa573d1fb5b5ff2b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | halfpint51                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别认同, 自我探索, 女体化, 宅男生活, 居家隔离, 情感转变, 青少年, 现代社会, 恐慌与变革, 心理斗争, 特殊疫情, 性别转换, 小说, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

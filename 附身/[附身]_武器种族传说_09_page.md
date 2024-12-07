@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_09.docx]([附身]_武器种族传说_09
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是多元性别与变身主题的小说，描绘了一群角色在一个混沌空间中与冰龙战斗的故事。内容涉及复杂的人际关系、角色的自我认知与探索。文件里的对话展示了角色之间的互动，尤其是对于一个神秘强大对手的讨论。角色们在经历淘汰赛的生死考验后，能够在私人休息区稍作放松，而围绕着实力和人际关系的紧张气氛贯穿全文。小说中还引入了官能的暗示和一些限制级内容，涉及角色之间的情感纠葛与性暗示，增强了故事的张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_09.docx]([附身]_武器种族传说_09
 | Size            | 38301 bytes                           |
 | MD5             | 86483f039b466b8535e622aa6523f82b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 异能, 爱情, 斗争, 生死淘汰赛, 竞争, 角色自我探索, 男性视角, 私密关系, 隐秘力量, 混沌空间, 虚拟现实, 学院生活, 神秘人物, 女性角色, 团队协作                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

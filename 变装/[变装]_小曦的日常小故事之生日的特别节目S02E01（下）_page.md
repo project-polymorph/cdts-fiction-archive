@@ -7,7 +7,7 @@ TXT 下载: [[变装]_小曦的日常小故事之生日的特别节目S02E01（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇伪娘 TS 变身与跨性别相关小说的章节，围绕主角小曦的日常生活展开。故事中，小曦作为女性形象的角色，与其领导思浓姐的关系逐渐亲密。在一次剧烈的身体暴露和心理暗示下，小曦在领导车上光着屁股坐着，这样的情节带来了一种紧张而又刺激的氛围。文中包含了关于权力关系、性别认同及自我探索的主题，表现了小曦对于女性形象的向往与对自我的认同。小曦的生日聚会成为了故事最终的高潮，展示了各界领导对于她的关心和关注，营造出一种诡异却又热闹的氛围。整体情节紧凑，情感层次复杂，带有明显的性暗示和调侃成分。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_小曦的日常小故事之生日的特别节目S02E01（�
 | Size            | 44544 bytes                           |
 | MD5             | f0be1a94d5a0ffae10ad234fb85d919b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 权力关系, 性别认同, 自我探索, 生日聚会, 办公室人际关系, 性暗示, 调侃, 都市生活, 女权主义, 情感纠葛, 性转, 熟女, 年龄差                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_万圣节--动漫三国杀之饕饕餮夜(夜艳篇)1.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于万圣节主题的夜艳篇小说，讲述了一场与角色变身和性别转换相关的奇幻经历。故事的主角通过穿着一种特殊的人皮，体验到了一种非凡的变化，不仅在外观上变成了一名女性，更在性格和身体感知上感到极大的不同。故事开头，主角在和小罗莉自拍并合影时引发了对于自身变化的反思，逐渐揭示出对角色外表和内心的冲突和探索。在浴室里，主角感受到身体的变化和奇异的体验，内心充满了复杂的情感，此时的他已经完全融入了女性的角色。同时，故事交织着对谜一般的主人的疑惑，以及即将展开的宴会事件。整篇小说带有浓重的二次元色彩，涉及羞涩、性别认同、自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_万圣节--动漫三国杀之饕饕餮夜(夜艳篇)1.docx
 | Size            | 17480 bytes                           |
 | MD5             | 60bb5db7e71448dbb97d7a678284077b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 夜艳篇, 变身小说, 自我探索, 跨性别, 奇幻, 万圣节, 女主角, 角色扮演, 情感冲突, 二次元, 幻想, 年轻玩家, 百合, 派对                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

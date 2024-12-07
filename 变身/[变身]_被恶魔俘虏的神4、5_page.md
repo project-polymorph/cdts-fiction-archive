@@ -7,7 +7,7 @@ TXT 下载: [[变身]_被恶魔俘虏的神4、5.docx]([变身]_被恶魔俘虏�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于神灵与恶魔交互的变身小说，讲述了主角罗德的经历。他原本是一位神灵，但因屈辱而失去了自己的神性，而后通过占据他人的身体逃避恶魔的追捕。小说描述了罗德在恢复男性身体的同时，经历了严重的自我认同危机，并与自己的女仆发生了亲密关系。在这一过程中，他的内心深处被扭曲的欲望转化为女性的自我认同，导致他在情感和行为上不断回到作为女人的身份，与男性的亲密关系复杂而混乱。此篇小说探讨了性别认同、欲望与屈辱的主题，描绘了男性与女性身份之间的痛苦交织，展现出对自我认知的扭曲与接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_被恶魔俘虏的神4、5.docx]([变身]_被恶魔俘虏�
 | Size            | 22173 bytes                           |
 | MD5             | 687b21b7cd9210cd9f71a9fc503fccbd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 神灵, 恶魔, 欲望, 屈辱, 自我认同, 性别转换, 青春, 恋爱, 嗜好, 伦理冲突, 幻想, 二次元, 黑暗幻想, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

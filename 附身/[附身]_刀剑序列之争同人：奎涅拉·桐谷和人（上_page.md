@@ -7,7 +7,7 @@ TXT 下载: [[附身]_刀剑序列之争同人：奎涅拉·桐谷和人（上.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《刀剑序列之争》的同人作品，描绘了桐谷和人与奎涅拉之间的冲突与互动。故事设定在刀剑相关的虚拟世界中，小说的上篇部分主要围绕两位角色的战斗与心智较量展开。文章开头，桐谷和人挣脱了奎涅拉的头发束缚，展开了一场激烈的战斗，描述了桐谷和人如何用仅剩的一只手臂对抗奎涅拉，最终成功伤害了对方。本文详细描画了战斗过程中的细节与心理变化，特别是在桐谷和人面对奎涅拉时的情感转折和挣扎。奎涅拉则以其强大的存在威胁着桐谷和人，二者之间的权力互动也成为了故事的主要冲突。在战斗结束时，奎涅拉提出通过‘整合仪式’帮助桐谷和人恢复记忆与力量，但这也伴随着桐谷和人的道德挣扎。整合仪式的展开象征着权力与身份的交融，而最终的结果则在悬疑中呈现。这部同人小说以其精致的打斗场景和深刻的人物内心描写，吸引了众多爱好者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_刀剑序列之争同人：奎涅拉·桐谷和人（上.d
 | Size            | 43520 bytes                           |
 | MD5             | d5a8430f82f17dd7a369c68a2fff679a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 刀剑神域, 同人小说, 角色扮演, 幻想冒险, 战斗, 权力斗争, 整合仪式, 自我探索, 性别认同, 虚拟现实, 超能力, 心理戏, 情感纠葛, 魔法战斗, 角色发展, 冒险故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

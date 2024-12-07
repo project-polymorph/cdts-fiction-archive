@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的妻子？我的丈夫！.doc]([变装]_我的妻子�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《我的妻子？我的丈夫！》是一部描绘性别角色互换的小说，讲述了一位男性主角在其妻子克里斯获得一笔巨额遗产后，决定实现自己长期以来的变装梦想。在故事中，男主在美容院内思索着自己的变化，表达出对身材和形象的渴望。他深刻反思过去作为男人的身份，同时面临着克里斯因继承财富而进入商业界的挑战与机遇。随着故事的发展，克里斯逐渐转变为一个强大且具男子气概的角色，而男主则沉浸于女性化的体验中。作品不仅探讨了性别认同与自我探索的主题，还展现了夫妻之间的情感变化与性别角色的重塑，例如克里斯对男主的引导和影响，最终演变为一种新型的关系模式——由传统的男女主从角色转变为更加复杂的互换身份。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的妻子？我的丈夫！.doc]([变装]_我的妻子�
 | Size            | 37376 bytes                           |
 | MD5             | 92e1b0fdd3597fc81e17e246412f0b93                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Ms Brandi                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 夫妻角色互换, 自我探索, 跨性别, 二次元, 爱情, 商业竞争, 情感交流, 变身小说, 强势女主, 性别转换, 幻想, 心理冲突, 家庭关系, 成熟女性形象                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

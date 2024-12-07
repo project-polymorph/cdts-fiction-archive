@@ -7,7 +7,7 @@ TXT 下载: [[变身]_花都狐影前传之阴阳大盗5~8（完结）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为跨性别小说《花都狐影前传之阴阳大盗》的第五至第八章完结部分，主要讲述了狐妖黄亦然利用变身能力获取权力与财富的故事。在小说中，黄亦然以大小姐沐馨的身份潜入沐府，企图夺取沐家主沐锋手中的宝物。故事中描绘了沐馨被冒充的女儿角色欺压，以及阴阳大盗在潜入沐府后，逐渐展开的一系列阴谋与情感纠葛。小说涉及性别认同、冒充、权利斗争等元素，伴随了一些紧张刺激的情节和情感的冲突，字符间的对话和互动展现出复杂的角色心理和性别认同的探索。该篇章不仅融入了奇幻、动作和政治阴谋等种类元素，也包括了大量与性和性别认同相关的敏感描写，整体内容适合对性别研究有需求的读者，以便进行相关的科学探讨和文化分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_花都狐影前传之阴阳大盗5~8（完结）.docx]([�
 | Size            | 28882 bytes                           |
 | MD5             | d70a8e50e55e9fd3ed5a4ba43760dfcd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | nyj116102521                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 冒充, 权利斗争, 狐妖, 跨性别, 情感纠葛, 奇幻, 阴谋, 自我认知, 绝望与挣扎, 禁忌关系, 女性视角, 角色扮演, 情欲, 非人化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

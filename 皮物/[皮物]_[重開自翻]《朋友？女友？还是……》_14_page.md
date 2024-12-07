@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_14.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是一个跨性别与伪娘相关小说的章节，名为《朋友？女友？还是……》第14章。内容围绕着角色真一的心理状态展开，他在游戏中经历了一系列复杂的情感与性别认同的探索。章节中提到，真一在游戏中的角色扮演过程中，与其他角色如小望、小町和小光发生了亲密互动，表现出强烈的占有欲和不甘心。真一在与领队的对话中，接受了有关其表演能力的评价，并开始意识到自己在游戏中的不足。通过描写角色之间的关系和情感波动，文本涉及了性别认同、自我探索等主题，同时包含了成人内容和性暗示的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_14.docx
 | Size            | 27510 bytes                           |
 | MD5             | 942659784f43d1dcbd6e7961ddca0f19                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 自我探索, 情感纠结, SM, 强烈占有欲, 心理对话, 角色扮演, 亲密关系, 游戏机制, 情欲戏剧化, 女性视角, 情感操控, 性别认同, 情欲互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

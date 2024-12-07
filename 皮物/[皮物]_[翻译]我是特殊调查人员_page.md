@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[翻译]我是特殊调查人员.docx]([皮物]_[翻译]�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《我是特殊调查人员》，讲述了一位拥有超能力的特殊调查人员的故事。故事的主角虽然是调查人员，但并不是警察，而是有着独立权限，可以完成普通警察无法解决的案件。文件中详细描绘了这位调查员的任务，包括追查一名强奸犯的过程。为了逮捕强奸犯，主角决定以一名年轻女性的身份进行诱捕，使用了一种可以将她的身体变成他人模样的药物，过程充满了复杂的情感和道德冲突。文中涉及的情节涉及角色使用药物获取他人身体，进而体验身体的快感，这引发了关于施用这种能力的伦理争议。整体故事探讨了性别认同和自我意识，同时也不乏含有色情内容的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[翻译]我是特殊调查人员.docx]([皮物]_[翻译]�
 | Size            | 23705 bytes                           |
 | MD5             | 49d97f75e7695fb46100c3d2f19d19e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 特殊调查, 变身, 超能力, 强奸犯, 伦理争议, 性别认同, 自我探索, 药物变身, 暴力, 色情内容, 阴暗小巷, 犯罪, 角色互动, 寻求正义, 道德困境, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_11.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以性别转换为主题的小说，主要通过角色贝丽的视角展现她与其男朋友及亲戚之间的复杂关系。在故事中，贝丽被其阿姨曼迪和梅根称呼为“闺女”，并被迫接受一种低龄化、女性化的生活方式。文件的第十一章描绘了贝丽从睡梦中醒来，阿姨帮助她做早晨准备，以及她对外出购物的抗拒心理。随着章节展开，我们看到了贝丽对自身性别身份的困惑和与周围人互动的复杂性。文中也涉及到性别认同、角色期望以及母女关系等主题，相关情节描绘了性别转换后的生活和心理状态，包括贝丽在外形变化和自我认知上的挣扎。整体情节包含了一些限制级的描述，如涉及性别动态的角色对话与互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_11.doc]([改造]_把男朋友�
 | Size            | 50688 bytes                           |
 | MD5             | 5ee998f77119ffb13e752f2673cc3ee4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2022-05-18                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 角色扮演, 自我探索, 女性化, 性别认同, 阿姨与侄女, 家庭关系, 青年生活, 性别动态, 异性恋, 情感冲突, 心理挣扎, 调教, 生活细节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_笼中鸟（1）.doc]([变身]_笼中鸟（1）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于名为王莽的角色的变身小说，他在神秘的魔界中转生为劣魔，并逐渐努力提升自己的实力。故事开始时，王莽发现自己并不是历史上著名的王莽，而是在一个千奇百怪的魔界中成为了一名劣魔。他为了生存而逃避危险，最终提升自己的力量，企图成为魔王。在故事中，王莽通过各种考验和战斗，逐步认识到自身的血脉能够融合各种魔族的能力。然而，当他接近成功之际，却发现自己被更强大的魔王路西法欺骗，并在一场残酷的战斗中失败，最终被路西法用天使血液重塑身体，变成了外形娇小的少女。在变身过程中，王莽经历了痛苦与自我认知的冲突，而在他身体内之魔和天使的力量交融后，身份的转换唤起了一种新的欲望和感知。这篇小说不仅包含了性别认同与自我探索的主题，更涉及了一些隐晦的性暗示和生理上的变化。整个故事充满了奇幻的色彩，展现了对魔界的丰富想象及对性别流动的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_笼中鸟（1）.doc]([变身]_笼中鸟（1）.doc)
 | Size            | 43520 bytes                           |
 | MD5             | 5d9baeebeb1d863757211a4e399fe15f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 魔界, 劣魔, 王莽, 路西法, 天使血液, 欲望, 自我认知, 纯爱, 魔王, 血脉融合, 斗争, 角色转变, 少女, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

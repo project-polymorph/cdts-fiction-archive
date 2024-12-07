@@ -7,7 +7,7 @@ TXT 下载: [[变身]_夜店脱星（女友复仇第一弹）.docx]([变身]_夜
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一名技术宅杰里与他的网络女友辛迪之间复杂的关系与复仇故事。杰里发明了一款能够改变现实的虚拟软件，他利用这款软件将自己和辛迪变成了猛男和美女。然而，当辛迪发现杰里的真实意图，想要将她变成一个私有的性交对象时，她开始反击利用杰里的软件实施报复。文件的章节不仅展示了杰里在私人聊天室与辛迪的交流，还描绘了杰里生活中的孤独，以及他在虚拟世界中的逃避与迷失。描述了他们的首次虚拟见面，以及杰里面对自己创造的虚拟形象的迷惑与兴奋。整个故事结合了性别转换、虚拟现实体验和复杂的人际关系，探讨了对自身身份的认知与改变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_夜店脱星（女友复仇第一弹）.docx]([变身]_夜
 | Size            | 54511 bytes                           |
 | MD5             | 649c05132a13cf350798e541577be7ca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 虚拟现实, 性别转换, 网络关系, 复仇, 技术宅, 自我认知, 男女角色互换, 二次元, 幻想, 虚拟社交, 情感纠葛, 性别认同, 心理游戏, 跨性别主题, 爱情, 孤独感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

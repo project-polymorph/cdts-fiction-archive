@@ -7,7 +7,7 @@ TXT 下载: [[变身]_僚机计划（修改版）.doc]([变身]_僚机计划（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘变身与跨性别相关小说的修改版，围绕角色深红的变身经历展开。故事开头，深红作为维和部队的精英飞行员，最终在战斗中因飞机坠毁而面临死亡。在经历一场剧烈的电磁风暴后，深红醒来发现自己失去了原来的身体，转变为一个看似年轻女孩的形态。深红在探索自身变化的同时，发现自己被名为尊爵的女性飞行员所救，并且面临着新的身份和角色挑战。故事包含了自我认同与性别认同的复杂主题，深红内心的挣扎和对重新获得生存意义的渴求。同时，在尊爵的召唤下，深红经历了从身体到心灵的不断变化与接受，展现出作品特有的心理冲突与性别转化动机。文中涉及的情节与内容包含了一些限制级的要素，重点关注女性体态与感受，展现了变身、调教、强制与心理操控的多层次主题，从而营造出一种复杂的情感氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_僚机计划（修改版）.doc]([变身]_僚机计划（�
 | Size            | 39424 bytes                           |
 | MD5             | f68484728fbd34bf79a25dd30b4ed8ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性别认同, 心理探讨, 跨性别, 奥义之战, 银色飞行, 身份混乱, 内心挣扎, 变嫁, 萝莉化, 自我救赎, 强制调教, 飞行员, 科幻结构, 反差萌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

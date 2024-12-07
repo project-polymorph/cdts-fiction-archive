@@ -7,7 +7,7 @@ TXT 下载: [[变身]_愿望，其之一.docx]([变身]_愿望，其之一.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇围绕性转主题的小说，讲述了主角仁与一位性感灯神之间的交互。仁在得到三个愿望的情况下，选择了拥有可以修改身体形态的能力、制造或改造情趣道具的超能力、以及转换肉体身份的能力。在这个过程中，仁经历了一系列性转和自我认同的冲突和探索，包括身体形态的改变和性别认同的重新定义。文本涉及到强烈的性暗示和成人内容，包括对身体感觉的细腻描写和情趣道具的使用。仁的故事最终演变成了一场自我探索和极限体验的旅程，以至于她将自己置于一个需要被“解救”的状态，给人一种紧迫感和期待。小说中包含了大量关于性别和身份的主题，以及对男性和女性身体的探索性描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_愿望，其之一.docx]([变身]_愿望，其之一.docx)
 | Size            | 19191 bytes                           |
 | MD5             | f9f94c0b72ed466d4feddde7b6c73180                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 奇幻, 科幻, 性别认同, 自我探索, 成人内容, 情趣道具, 强烈快感, 自我放置, 极限体验, 魔法, 幻想, 青春, 深夜探险, 身体形态改变, 角色扮演, 心理游戏, 性奴隶, 解救                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

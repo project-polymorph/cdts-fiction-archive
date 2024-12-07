@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_特工回忆录4（加长版）.docx]([皮物]_特工回�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇伪娘变身与跨性别主题的小说，主要描绘了主角在机场被一名空姐袭击后，经历了一场生死考验的故事。在故事开头，主角匆忙前往洗手间时被空姐拉住，随后发生了一系列紧张激烈的事件。空姐暴露出真实意图，试图割喉主角，主角在极度痛苦中反击，最终失去意识。文中详细描写了主角与空姐的对抗过程及伴随而来的心理和生理上的冲击，展现了复杂的情感与自我探索的主题。主角在失去意识后，似乎经历了生死关头，后来被一名黑衣女子救起，并且发现自己面貌和身材发生了巨大的变化，同时引入了情节的转折，涉及到跨国阴谋和身份的错位。整体情节紧凑，具有一定的悬疑性和紧张感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_特工回忆录4（加长版）.docx]([皮物]_特工回�
 | Size            | 41344 bytes                           |
 | MD5             | c0e3781483cc76785f8f3491c9489e54                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 强奸, 逆后宫, 都市, 悬疑, 动作, 阴谋, 女孩, 医药, 刺杀, 黑暗, 复仇, 恐怖, 性转, 女主                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

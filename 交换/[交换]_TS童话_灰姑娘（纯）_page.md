@@ -7,7 +7,7 @@ TXT 下载: [[交换]_TS童话_灰姑娘（纯）.docx]([交换]_TS童话_灰姑
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于灰姑娘的跨性别重述小说，标题为“TS童话: 灰姑娘（纯）”，讲述了一名善良的灰姑娘在继母和名义上的姐姐们欺凌之下生活的故事。在全城举办的舞会中，魔法师使用魔法为灰姑娘变出了华丽的礼服，让她能够参加舞会，然而在舞会中，她与王子意外相遇。故事的关键转折点在于灰姑娘与王子发生身体交换，王子变成灰姑娘的模样，二人开始了一段新的冒险。在这个过程中，灰姑娘对自己的身体和身份有了新的认识，同时也面临着王子对其身体的欣赏和自我价值的探索。整篇小说充满了魔法与真实身份的交织，通过幽默与奇幻的元素探讨了性别认同和自我认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_TS童话_灰姑娘（纯）.docx]([交换]_TS童话_灰姑
 | Size            | 17411 bytes                           |
 | MD5             | 249998d50be3dee68a14c094f4d3ddb4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | みのむーさん                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 魔法, 身体交换, 童话重述, 性转, 灰姑娘, 王子, 魔法师, 冒险, 跨性别, 幻想, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

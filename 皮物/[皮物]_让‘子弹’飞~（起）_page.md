@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_让‘子弹’飞~（起）.docx]([皮物]_让‘子弹�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为多元性别中文数字档案馆中的伪娘 TS 变身与跨性别相关小说，内容描写了一名患者在精神病院中所经历的奇异事件。故事围绕一位名为梅韵的角色展开，该角色外表迷人，具有女性特征，但被描述为是男性的替代。在文件中，讲述者回忆自己因揭露梅韵的真实身份而被送入精神病院。在精神病院，讲述者经历一系列混乱的情节，感受到精神和性别的冲突。故事中涉及到角色的性别认同、自我探索和内心挣扎等主题，内容包含一些性暗示和色情情节，描述了角色对女性身体的迷恋与自我认同的矛盾。例如，梅韵在私密场合下与他人进行亲密接触，并表现出对自己新身份的复杂感受。该小说探讨了性别转换的心理影响及其带来的社会和心理问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_让‘子弹’飞~（起）.docx]([皮物]_让‘子弹�
 | Size            | 20955 bytes                           |
 | MD5             | 22ce8b2331083106aa831031d7bedaa8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 精神病院, 性别认同, 自我探索, 心理冲突, 性暗示, 女性视角, 身心融合, 性别转换, 社会 stigmatization, 窥探与叙述角色, 角色代入, 奇幻体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

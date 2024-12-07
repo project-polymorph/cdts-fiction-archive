@@ -7,7 +7,7 @@ TXT 下载: [[变装]_朋友被薪水迷惑了心智而做了我的女仆！？�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个关于变装和性别认同的故事，主要围绕角色透和小文之间的互动展开。透是一个富裕的年轻人，他的生活因为收入和工作而受到小文的关注。小文是透的朋友，他在一次拜访透家时，了解到透的富有背景，进而产生了关于请女仆的想法。透提出以高薪雇佣女仆，而小文考虑到自身的经济状况和强迫症，开始思考转变为女仆角色的可能性。小文在回忆起自己在话剧社的经历后，决定将自己打扮成女仆并前往透的家。在打扮过程中的心理变化，以及与透的最终互动，展示了他内心对性别认同的冲突和探索。文中涉及的情节时而幽默，时而深刻，反映了年轻人在自我探索中可能面临的复杂心理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_朋友被薪水迷惑了心智而做了我的女仆！？�
 | Size            | 34123 bytes                           |
 | MD5             | a902c354a8aba917276ef183f981aee4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 伪娘, 女仆, 友情, 自我探索, 游戏, 富二代, 反串, 家庭关系, 强迫症, 洗脑, 内心冲突, 青春, 幻想, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

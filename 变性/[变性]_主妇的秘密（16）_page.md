@@ -7,7 +7,7 @@ TXT 下载: [[变性]_主妇的秘密（16）.docx]([变性]_主妇的秘密（1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘与跨性别相关的小说章节，主要围绕主角的心理变化和身体转变展开。故事中的主角经历了深层次的性别认同冲突，从男性转变为女性，在这一过程中与另一角色展开亲密关系。文本描绘了角色之间的身体接触，涉及深吻、调教和 BDSM 等情节，展现了一种复杂微妙的情感和身体感受。在故事中，主角对自己的性别认同和生理反应充满矛盾和挣扎，比如对被捆绑的恐惧与享受之间的微妙异样感，使得人物的内心冲突与变化成为故事的主线之一。最终，主角在与另一角色的亲密互动中领悟到自己的新身份，尽管情感中夹杂着羞耻与渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_主妇的秘密（16）.docx]([变性]_主妇的秘密（1
 | Size            | 33821 bytes                           |
 | MD5             | 8bf56eb79b6e78f2f7b1c3a521b4d1a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 调教, BDSM, 强奸, 情感, 自我探索, 欲望, 情感纠葛, 变身, 异性恋, 同性恋, 性转, 成年向, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

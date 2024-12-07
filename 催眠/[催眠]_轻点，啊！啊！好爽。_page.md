@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_轻点，啊！啊！好爽。.doc]([催眠]_轻点，啊�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部以性别转换和跨性别为主题的小说，故事发生在蜀都的一个独立别墅中。主要人物是26岁的胡路和其女助理，以及一位年轻的访客李青。故事围绕着李青的性别认同与心理变化展开，描述了他在泰国度假后对女装的向往及其身心的变化。小说中包含了对胡路作为心理医生的描述以及他为李青施加心理治疗的过程。文中描绘了李青在变化过程中的自我认知冲突，以及受到外部催眠影响的转变，情节逐渐转向涉及性及性别角色的复杂主题。在小说的后半部分，李青被迫接受女装与女性身份的角色，通过各种手段和设定，让李青逐渐接受并喜欢上这一身份。本作品包含大量露骨的性描写及心理变化的描绘，显示出对性别认同和欲望的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_轻点，啊！啊！好爽。.doc]([催眠]_轻点，啊�
 | Size            | 50176 bytes                           |
 | MD5             | e9c1ca1c98bffd8e017e74c643750140                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 变身, 心理治疗, 性认同, 女性化, 女装, 催眠, 自我探索, 异世界, 欲望, 情感冲突, 身体改造, 性角色, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

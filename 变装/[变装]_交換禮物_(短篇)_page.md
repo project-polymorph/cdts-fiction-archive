@@ -7,7 +7,7 @@ TXT 下载: [[变装]_交換禮物_(短篇).docx]([变装]_交換禮物_(短篇)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇短篇小说围绕一个单身男性参与圣诞节交换礼物活动的故事展开。故事的主角在朋友的建议下，决定参加这个只有单身男性才能参与的聚会。尽管这个活动看起来像个骗局，但因为费用是免费的且没有其他安排，他还是决定去试试看。活动当天，他带上一个马克杯作为礼物。在活动中，他遇到了其他单身男性，以及负责活动的小珍。随着活动的进行，气氛相当尴尬，参与者显得十分内向。活动结束后，主角得到了一个意外的礼物——一套女性的圣诞装。在好奇心驱使下，他尝试穿上这套衣服，结果竟奇迹般地变成了一个女孩，接着开始探索这个新身份与身体的感受。整篇小说在寻求性别身份与性别认同的过程中，描绘了角色内心的变化与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_交換禮物_(短篇).docx]([变装]_交換禮物_(短篇)
 | Size            | 26409 bytes                           |
 | MD5             | cb7dfef242ec98f651890afb63a5737b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2015-12-24                                 |
+| Tags            | 性转, 伪娘, 变身, 圣诞节, 单身聚会, 性别认同, 奇幻, 自我探索, 青春, 都市故事, 社交尴尬                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

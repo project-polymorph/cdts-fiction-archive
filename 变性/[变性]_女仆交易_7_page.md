@@ -7,7 +7,7 @@ TXT 下载: [[变性]_女仆交易_7.doc]([变性]_女仆交易_7.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一个关于伪娘与女仆角色的性转小说片段，主要围绕着女仆丽莎·拉芙蕾丝与她的主人B先生之间的互动展开。故事描绘了丽莎在新环境中的不安与身份认同，她身穿女仆制服，且缺少一些重要的配件，如围裙和胸衣，给她带来了额外的尴尬与紧张。在B先生的注视下，丽莎感到自己在这个新家中的地位微不足道，且B先生似乎对她的穿着产生特别的关注，尽管他在传统角色定义中应是完全不关心女性穿着的男人。小说中突出了性别认同的问题，尤其是丽莎作为一个男孩却在女性化角色中挣扎的心境。】
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_女仆交易_7.doc]([变性]_女仆交易_7.doc)
 | Size            | 46080 bytes                           |
 | MD5             | 7ad60b92abff6b91b188049c5ebd0332                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 女仆交易, 跨性别, 自我认同, 社会角色, 主人与仆人关系, 身份探索, 性别困惑, 女性化服装, 爱情, 尴尬, 权力关系, 服装心理, 角色扮演, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

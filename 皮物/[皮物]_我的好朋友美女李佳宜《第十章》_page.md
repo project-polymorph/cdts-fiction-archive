@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《第十章》.docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别与伪娘主题小说的第十章，描绘了主人公王林在性别认同上经历的转变。故事以王林的第一人称视角展开，表现他从男性身份到女性身份的生理及心理变化。章节中，他描述了在穿着女性服装及裤袜时对身体感觉的敏感和不安，以及面临社会环境的紧张情境，表现出对自我认同的深刻冲突和挣扎。尤其是在与佳姐和小爱一起出门购物的情节中，主人公的内心感受展现得淋漓尽致，使读者感受到性别转变带来的复杂情绪。此外，文中涉及的制步器等元素，暗示了对性别表达的技术干预。整体而言，文本通过细腻的描写展开了关于性别认同和自我探索的主题，表现了个人在面对社会与自我的双重压力时内心的脆弱与渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《第十章》.docx]([皮�
 | Size            | 32665 bytes                           |
 | MD5             | 39b1a888fbe080ee02dcf0dc739180bc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 自我探索, 情感冲突, 社会适应, 性别转变, 女性形象, 情感纠葛, 不安, 焦虑, 自我认同, 日常生活, 购物经历, 生理变化, 情绪波动, 心理描写, 友情, 青春困惑, 性别表达, 异性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

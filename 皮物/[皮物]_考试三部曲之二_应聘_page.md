@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_考试三部曲之二_应聘.docx]([皮物]_考试三部�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《考试系列之二：应聘》是一部描绘王建平在即将面临毕业和步入社会之际，前往一家新兴中外合资企业——隆腾公司应聘的故事。故事通过王建平的视角，详细描述了他应聘过程中的心理变化和遇到的各种人物。王建平，一个年轻的大学生，面临即将毕业的压力，看到招聘启事后决定抓住这个机会。在准备过程中，他经历了从理发到换衣服的一系列紧张准备，表现出他对于这次应聘的重视。
+
+在应聘的现场，王建平遇到了不同类型的应聘者，包括性格外向的陈辉、羞怯的张强以及令他心动的刘海梅。随着面试的展开，情节推向高潮，王建平与这些应聘者之间互动的细节描绘出各自特点及竞争关系，而招聘过程中的紧张氛围也为故事增添了悬念。尤其是在与其他竞争者的对比中，王建平的内心纠葛和成长显得尤为突出，突显了求职过程中的不确定性和人际关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_考试三部曲之二_应聘.docx]([皮物]_考试三部�
 | Size            | 31512 bytes                           |
 | MD5             | 7fac584239975f6653f0e689a19e7ec7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 职场爱情, 性别认同, 心理变化, 校园故事, 应聘经历, 青春成长, 竞争关系, 职场挑战, 社交互动, 情感纠葛, 志向追求                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_「皮物（皮モノ）」一词是谁最先使用的呢�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件的标题为《皮物（皮モノ）一词是谁最先使用的呢？》，由作者toshi9创作，主要探讨了“皮物”这一词汇的起源及其在相关文化中的发展。文件中提到，笔者在2014年收集信息时撰写了此文，旨在找出“皮物”一词的最初使用者。文中提到，“皮物”一词首次出现在虎之助的作品《四次元拉链》的后记中，而具体的使用背景和发展历程也被详细阐述。随文引用了多位创作者的见解，丰富了对这一题材的理解，如“皮物”包含变装、女装、玩偶装等元素。另一方面，文中也讨论了相关作者对“皮物”这一类别的看法以及对其丰富性和趣味性的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_「皮物（皮モノ）」一词是谁最先使用的呢�
 | Size            | 41472 bytes                           |
 | MD5             | 9b2948acafe99516140bcc3ace800507                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | toshi9                               |
+| Region          | 未知                               |
+| Date            | 2022-05-14                                 |
+| Tags            | 皮物, 变装, 文化起源, 次文化, 角色扮演, 性别转换, 跨性别, 二次元, 自主探索, 艺术作品, 创作历史, TSF文化, 角色认同, 文本分析, 社群讨论, 性别表现                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

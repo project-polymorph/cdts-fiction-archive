@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_地底帝国の女幹部1（无性转注意）.docx]([催�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《地底帝国の女幹部1》的翻译版本，作者为舞方雅人，译者为陌客141。故事设定在一个虚构的地底帝国，围绕女干部千影的经历展开。千影是一名地底帝国的高层领导，拥有强大的实力和威信，但在一次战斗中败给了地面出现的战斗团队。她的装备是黑色紧身衣和玫瑰红的装甲，描述了她与三名战斗员之间的紧张对峙及最终的失败。文件中讨论了地底帝国与地面世界之间的冲突，反映出千影作为女性角色在战斗中的复杂心理与权力斗争。随着故事发展，千影的肉体化为沙土，留下她的制服作为遗物，暗示了角色的终结和帝国的脆弱。整体情节大胆营造出异化的战斗与女性身份的探讨，夹杂着幻想和科技的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_地底帝国の女幹部1（无性转注意）.docx]([催�
 | Size            | 32442 bytes                           |
 | MD5             | 552f82ed82f61004a006b22921ece117                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 舞方雅人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 地底帝国, 女干部, 战斗, 女性角色, 权力斗争, 紧身衣, 生存, 虚构世界, 心理变化, 战斗员, 危险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

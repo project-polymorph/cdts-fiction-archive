@@ -7,7 +7,7 @@ TXT 下载: [[其他]_说好的论文，论变身小说的两种流派.doc]([其
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件的内容深入探讨了变身小说的概念及其发展，主要聚焦于角色的性别转换、变装等情节。这类小说在中国网络文学中的崛起，与日系动画、漫画及游戏的引进密不可分。其起源可追溯至上世纪90年代，之后随着网络文学的繁荣而发展。文中提到变身小说的两种派别：同性恋派与异性恋派，它们之间存在着相当激烈的论争。对比这两种派别的不同风格和市场受众，文章讨论了作品在性别认同、自我探索等方面的意义，分析了诸如《候补圣女》和《紫荆盛世》等作品。如果变身小说的情节设计恰当，它能够引起读者的共鸣，激发对性别和社会角色的深思。文中还提到，随着变身文学的流行，更多女性作者开始参与创作，使得该领域的作品更加多样化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_说好的论文，论变身小说的两种流派.doc]([其
 | Size            | 47616 bytes                           |
 | MD5             | 2c1419e60c074ccc10d897705b42f7bb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 性别转换, 网络文学, 同性恋, 异性恋, 角色认同, 自我探索, 情感冲突, 变装, 女性向文学, 男权社会, 心理变化, 社会伦理, 性别议题, 性取向                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

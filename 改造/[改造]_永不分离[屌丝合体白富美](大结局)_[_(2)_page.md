@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](大结局)_[_(2).docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇充满情感纠葛的跨性别小说，主要讲述了一个男性角色在经历性别转换与自我认知的过程后，回到家乡面对家庭和社会的期望与压力。故事的主人公因与女性角色孙俪的特殊关系而受到深深影响，逐渐形成了一种对女性生活方式的认同与吸收。故事以主人公在外漂泊的生活和对孙俪的想念为线索，表达了对爱与身份认同的探索。在经历了由于失去与孙俪的联系带来的内心痛苦后，主人公复归于生活中，通过对孙俪的关注与暗恋，展现了复杂的情感变化。随着剧情的展开，作者通过对孙俪重病的描写，让主人公的内心挣扎升华为对生命的呼唤与自我价值的反思。最终，通过对孙俪的深情回忆与自我身份的重新认识，小说传达了真正的爱在于愿望对方幸福的理念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](大结局)_[_(2).docx]
 | Size            | 26091 bytes                           |
 | MD5             | ec72ec16b8267dd6efb620a76ae7f680                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 自我探索, 暗恋, 亲密关系, 生活方式, 情感纠葛, 心理斗争, 家庭期望, 社会压力, 女性视角, 强烈情感, 变装, 勇敢追寻, 友谊, 成长故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

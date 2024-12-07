@@ -7,7 +7,7 @@ TXT 下载: [[附身]_上古卷轴_湮灭(1.docx]([附身]_上古卷轴_湮灭(1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《上古卷轴 湮灭》，讲述了一个阴暗潮湿的空间里，一位身穿粗布衣服的女子坐在高脚凳上出神的场景。她有着黑色的长发和银白色的眼睛，明显的精灵特征，而她的皮肤却与人类无异，透露出她不同寻常的身份。文中详细描绘了她的外貌，特别是她身上的奇特纹身，显示她的与众不同。文章通过这位女子的内心独白，展示了她对自己原来身体的怀念和对新身体带来的复杂情感。同时，故事中揭示了她的背景：她的父亲是个术士，母亲身份不明，父亲去世后她独自生存，努力学习法术并靠充当强盗维持生计。文件继续描写她在一间旅馆中观察周围人群，并与一位名为告卡夫的男子展开对话，探讨佣兵的事情。整体语言流畅，充满了奇幻色彩，涉及了角色的内心挣扎、身份确认、以及社会底层的生活。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_上古卷轴_湮灭(1.docx]([附身]_上古卷轴_湮灭(1
 | Size            | 23556 bytes                           |
 | MD5             | 1ba428d039a8e5bc8202d9d5f1184e0a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 上古卷轴, 奇幻, 变身, 跨性别, 精灵, 佣兵, 都市, 魔法, 自我认同, 历史背景, 性别探讨, 角色冲突, 冒险, 魔法书, 盗贼故事, 情感探索, 社会底层, 异世界, 逆境成长, 心理斗争, 人物关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~(十三).docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于性别与身份探索的小说片段，涉及人物之间复杂的角色互动和情感冲突。故事的主要角色之一，恭介，似乎在经历一场生死考验，在即将跌落地面的一瞬间被名为艾丽莎的少女所救，而艾丽莎被称为“魔王”。文本描述了艾丽莎与其他角色之间的紧张关系，以及恭介对自己身体和灵魂被操控的反思。文中多次提及魔法、契约和身份的转变，展示了角色自我认知和权力斗争。通过丰富的对话和情感描写，读者能感受到人物内心的挣扎和欲望，也揭示了在不同身份之间的深刻关系。文中还夹杂了一些关于魔力和幻想具现的讨论，增加了故事的奇幻色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_橘子酱什么的，最喜欢了~(十三).docx]([皮物]_
 | Size            | 20946 bytes                           |
 | MD5             | 8b4b407fa7e8c6554cd9be5fab727b2d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 魔法, 身份探讨, 幻想小说, 伪娘, 变身, 文艺, 跨性别, 情感冲突, 奇幻冒险, 自我探索, 契约, 女王, 恋爱, 魔女, 暗黑风                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

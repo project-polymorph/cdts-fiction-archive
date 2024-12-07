@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_第四章_但我還要打�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件摘录自名为《從今天起，你就是魔王》的TS变身与跨性别相关小说，主要讲述了一段发生在名为夏罗戈城的幻想世界中的故事。故事的主角，包括米莉姆和桂花，来到这座城市进行商贸活动。桂花作为一名旅行商人，面临着城中的特殊情况：随着瘟疫的爆发，所有的公民都受到严格的管控。在她与一名名叫菲尔的圣骑士的会见中，双方都感受到紧张的气氛，桂花感知到城市的异常，决定迅速出售她携带的治疗药剂来应对可能的危机。文件详细描绘了桂花在城中观察到的奇怪情况和她的应对方式，体现了这一过程中的心理变化和商贸策略。故事通过桂花与安洁莉的对话展现了她所佩戴的皮物装束具有奇妙的保护能力，使她在瘟疫中相对安全。整个章节融合了奇幻元素与商业斗智，展现了一个发生在虚构世界的精彩情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_第四章_但我還要打�
 | Size            | 23143 bytes                           |
 | MD5             | 08ea82abd360926439711588e8823861                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 瘟疫, 商业策略, 治愈药剂, 幻想世界, 角色互动, 心理变化, 冒险, 异世界交易, 性别认同, 魔法, 皮物装束, 人格冲突, 冒险者, 角色发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

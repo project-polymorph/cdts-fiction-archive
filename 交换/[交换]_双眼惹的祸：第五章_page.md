@@ -7,7 +7,7 @@ TXT 下载: [[交换]_双眼惹的祸：第五章.doc]([交换]_双眼惹的祸�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《双眼惹的祸》的第五章，主要讲述了李凯与他的鬼魂伴侣江月婷之间的互动以及他们共同经历的奇幻情节。故事开始于李凯试图追踪江月婷的足迹，描绘了他追赶另一辆车的紧迫感和无奈。他们来到一家星际酒店，李凯首次接触到这样奢华的环境，内心充满了忐忑与不确定。在酒店内，江月婷的鬼魂与李凯之间的对话展示了两人情感的微妙变化，李凯对江月婷的身边人的敏感以及他对金钱的顾虑引发了幽默的场面。特别是李凯在点餐时的尴尬表现，突显了他与江月婷之间天壤之别的身份和境遇。此外，在酒店中江月婷与一名中年男士的见面引发了一系列复杂的情感与财富的交织，给故事增添了更多戏剧性。整体上，本章节融入了强烈的性别认同和身份探索主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_双眼惹的祸：第五章.doc]([交换]_双眼惹的祸�
 | Size            | 45056 bytes                           |
 | MD5             | 095153eca41704d1367d9b7ca9d08ce4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 幽灵, 情感探索, 星际酒店, 性别认同, 自我意识, 奇幻, 都市幻想, 人际关系, 爱情, 阴阳交互, 奢华消费, 追逐, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

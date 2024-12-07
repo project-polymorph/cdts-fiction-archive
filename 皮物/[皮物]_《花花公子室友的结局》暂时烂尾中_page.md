@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《花花公子室友的结局》暂时烂尾中.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一则关于年轻男性室友之间日常生活的小说，主要讲述了主角史玉柱与室友任杰的搞笑互动以及对生活的思考。故事中，史玉柱对任杰进行调侃，而任杰则展现了他作为撩妹达人和厨艺者的自信。一方面展示了他们的搞笑对话，另一方面也触及到主角在寻求朋友陪伴与生活中不如意的心态。文中一部分涉及到任杰神秘失踪后的情节，史玉柱开始回忆与他相处的快乐时光以及对好友的担心。此外，文件中还包括一些可以被理解为限制级内容的元素，例如穿着伪娘皮衣的情节，这提升了小说的趣味性与复杂性。整体来说，这是一部融合了青春幽默与性别探索的现代网络小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《花花公子室友的结局》暂时烂尾中.docx]([�
 | Size            | 27543 bytes                           |
 | MD5             | 052e57a8284af1b823fc0c0596376944                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 青春, 搞笑, 室友关系, 自我探索, 性别认同, 伪娘, 生活琐事, 恋爱, 网络小说, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

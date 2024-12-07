@@ -7,7 +7,7 @@ TXT 下载: [[附身]_人蟲_序.docx]([附身]_人蟲_序.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容为一部小说的序章，讲述了一名男子在搬运货物时遭遇了奇怪的虫子入侵的情节。男子在搬起一箱箱货物时，突然感到一种类似蛆的虫子正在钻入他的手指甲里，造成了剧烈的疼痛。尽管他试图按压以解除疼痛，但虫子却在他的指甲里爆开，造成了更严重的伤口。此时，有一名身穿灰色OL装的女子进入了现场，她试图唤醒失去意识的男子。男子醒来后，不幸地被痛苦的感觉所驱使，做出了不可挽回的行为，场景急转直下。”“该内容探讨了生理痛苦与角色心理转变的复杂性，以及在极端情况下角色之间的关系变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_人蟲_序.docx]([附身]_人蟲_序.docx)
 | Size            | 17221 bytes                           |
 | MD5             | 54a9bf4f7763a5ad6080b64a5552c44b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 现实主义, 恐怖, 自我认知, 痛苦, 性别冲突, 女性视角, 心理变化, 关系扭曲, 蛆虫入侵, 肢体暴力, 强奸, 血腥, 超自然, 变形                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

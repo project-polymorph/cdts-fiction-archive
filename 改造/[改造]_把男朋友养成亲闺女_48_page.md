@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_48.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为跨性别及性转题材相关小说的一部分，主要讲述了角色阿曼达和她的秘书艾普丽尔之间的互动，以及阿曼达为另一个角色坎迪准备生日礼物的情节。故事中，阿曼达表现出对坎迪的关心，并希望通过送礼物来传达祝福与支持。文中包含了阿曼达与德里克的轻松对话，展现了他们之间的亲密关系。同时，艾普丽尔获得晋升的消息，突显了职场中的支持与成长。小说的情节围绕友情、责任和亲密关系展开，体现了角色之间的情感交流与个人发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_48.doc]([改造]_把男朋友�
 | Size            | 33792 bytes                           |
 | MD5             | a2790bb5e0d17ece3c29916bdf77f391                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent420                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 青春爱情, 职场成长, 友情, 轻松对话, 女性视角, 生日祝福, 秘书与上司, 女同性恋, 自我探索, 伪娘, 变身, 成长故事, 现代都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

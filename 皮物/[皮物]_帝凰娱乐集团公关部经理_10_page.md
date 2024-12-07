@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_10.docx]([皮物]_帝凰
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了伪娘角色的日常生活以及情感发展，通过主角的视角描绘了其在性别转换后的内心挣扎与成长。故事发生在一个温暖的下午，主角在与女性朋友晓乐约定去看电影后，决定先去奇思妙想的美容院做个人美容。这一系列活动中，主角换上舒适的衣物，泡澡并准备赴约，展现了伪娘在外表和内心的双重转变。主角意外地在超市遇见自己的妻子，尝试以全新的身份与她建立联系，体现出对情感的渴望与理解。文章中透露出主角对女性身份的探索，如在选择化妆品时询问妻子的意见，并在情感交流中建立了友谊的桥梁。故事通过亲身体验讲述了性别认同、自我认知问题以及对亲密关系的探讨，最后以主角为晓乐准备的浪漫约会为高潮，包含了对人物形象与情感发展的细腻刻画。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_10.docx]([皮物]_帝凰
 | Size            | 22087 bytes                           |
 | MD5             | afef3113270b5a0fe94e75f1d62721b8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别转换, 情感探索, 化妆, 浪漫约会, 虚拟现实, 内心挣扎, 性别认同, 生活必需品, 女性视角, 自我认知, 变身, 二次元, 爱情, 情趣内衣, 都市生活, 友谊, 电影约会, 心理变化, 亲密关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

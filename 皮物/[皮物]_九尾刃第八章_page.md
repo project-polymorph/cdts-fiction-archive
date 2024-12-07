@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_九尾刃第八章.docx]([皮物]_九尾刃第八章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章讲述了主角在昆仑山上的冒险经历。主角在不断攀登险峻的台阶时，感受到了来自九尾妖狐的威胁。在通往峰顶的途中，主角发生了戏剧性的变化，身体开始发热，逐渐冒出女性特征，包括女性乳房和三条狐狸尾巴。令人惊讶的是，这一变化似乎与九尾妖狐的复活有关。与此同时，修真者们也在准备对抗即将觉醒的妖狐，云海师兄因得到九尾妖狐的复活日，提前做好一切应对措施。每一个角色都面临着内心的挣扎与恐惧，师弟们也意识到自己的力量与束缚。这一切的悬念和冲突都将推动着故事的发展，主角需要在恐惧与自我认同之间选择道路。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_九尾刃第八章.docx]([皮物]_九尾刃第八章.docx)
 | Size            | 21586 bytes                           |
 | MD5             | 5973780189e7a2f634c55f9f316ca162                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 异世界, 变身, 妖怪, 昆仑山, 掌门, 九尾妖狐, 自我探索, 性别认同, 冒险, 修真, 女性化, 魔法, 角色成长, 冲突, 内心挣扎, 传奇                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

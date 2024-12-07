@@ -7,7 +7,7 @@ TXT 下载: [[变身]_团圆之夜.doc]([变身]_团圆之夜.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《团圆之夜》，是一部以性转、变身和跨性别为主题的小说。故事围绕一位小男孩在中秋节的团圆之夜经历的一场奇幻冒险展开。在故事中，男孩独自留在家中，因家人缺席而感到失落。在此时，他邂逅了嫦娥，嫦娥带来了一个神奇的能力——团圆。这个能力允许男孩和他想要团圆的人合为一体，并共享身体和灵魂。随着故事的发展，男孩首先与嫦娥合为一体，体验到她的美丽和力量。随后，他在误操作下，开始了与母亲的身体交换，最终呈现出与母亲一同体验的情节。故事细腻地描绘了男孩与嫦娥的互动，嫦娥的优雅姿态及其带给男孩的各种感受，以及与使用能力后发生的身体转变带来的种种心理冲突与变化。本文件含有一定的性暗示和跨性别内容，适合对相关科研与学习有兴趣的读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_团圆之夜.doc]([变身]_团圆之夜.doc)
 | Size            | 55296 bytes                           |
 | MD5             | 68d61a586067b2a9ac3d615dd2f732c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 跨性别, 嫦娥, 神话, 中秋节, 身体交换, 幻想奇幻, 自我探索, 家庭团聚, 角色扮演, 性别认同, 少女, 童年回忆, 梦幻, 魔法, 女性化, 成人内容, 心理冲突, 异世界冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

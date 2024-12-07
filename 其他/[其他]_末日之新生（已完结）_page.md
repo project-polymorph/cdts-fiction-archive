@@ -7,7 +7,7 @@ TXT 下载: [[其他]_末日之新生（已完结）.doc]([其他]_末日之新�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《末日之新生》是一部以末世背景为主题的变身小说，讲述了主角牧遥经历性别转换的过程及其对身份认同的探索。在故事中，牧遥在经历重生后，夺舍了名为洛瑶的绝色女子，拥有了她的身体和记忆。故事开篇描绘了牧遥因好奇心而决定吞下神丹，以此改变自己的生理性别，进而引发了一系列的情感与伦理冲突。小说中描写了牧遥对洛瑶身体的细致观察，以及内心对于新身份的复杂感受，包括对美丽的崇拜与夺舍带来的道德困惑。此外，书中重现了牧遥试图在新身份下重新审视自己的生活，同时与老朋友余天之间的友情也受到了新身份的影响。作品融合了重生、变身、性别认同等多重主题，适合对性转小说以及跨性别主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_末日之新生（已完结）.doc]([其他]_末日之新�
 | Size            | 468480 bytes                           |
 | MD5             | a307df19269aa081c253d02a31d88974                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 末日, 重生, 变身, 性别认同, 跨性别, 绝色女子, 道德困惑, 自我探索, 友情, 奇幻, 二次元, 夺舍, 青春幻想, 情感冲突, 身份认同, 末世                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

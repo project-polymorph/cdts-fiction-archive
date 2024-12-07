@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_杀手四人组：卷一（三）.docx]([皮物]_杀手四
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《杀手四人组：卷一（叁）》为一部涵盖性别转换与复杂人际关系的小说，故事围绕苏芬与刘小丽展开，情节设置在一个充满阴谋与角色替换的背景中。在故事中的开头，苏芬惊讶于一个几乎全裸的女人称呼她为“樱花”，而她的父亲则称这个女人为“大嫂”，引发一系列对于身份和关系的混淆。苏芬因母亲的去世心生不满，直面刘小丽的挑逗，然而刘小丽在苏芬的攻击下未做反抗，使得情形更加复杂。随着故事发展，苏芬发现自己与身份被塑造的反叛者“木上樱花”有着千丝万缕的联系，这种设定涉及到了角色的身体、性别和身份的多重构造。角色在努力寻找真相的过程也探索了关于自我认同、内心冲突的主题。读者在其中能够探寻到如何处理中介身份问题，以及背后隐藏的更深层次的情感和人际关系的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_杀手四人组：卷一（三）.docx]([皮物]_杀手四
 | Size            | 26204 bytes                           |
 | MD5             | edb5e870b6cc666e616f88c35ebc70c3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 角色扮演, 身分混淆, 自我认同, 女性视角, 情感冲突, 生死决斗, 暗黑爱情, 权力游戏, 谍战, 禁忌, 悲剧, 隐秘的过去, 肉体与灵魂的斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

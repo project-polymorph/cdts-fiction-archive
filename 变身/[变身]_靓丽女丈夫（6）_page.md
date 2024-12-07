@@ -7,7 +7,7 @@ TXT 下载: [[变身]_靓丽女丈夫（6）.doc]([变身]_靓丽女丈夫（6�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇跨性别与性转小说，讲述了一个男性在经历了强暴事件后，逐渐体验到生为女性所面临的种种挑战和冲突。故事从主人公不再勇于穿裙子开始，着重描绘了他因受到侵害而产生的不安与恐惧，进而揭示了他对于性别认同和自我形象的复杂思考。他在日常生活中为了躲避骚扰而选择牛仔裤，同时在公交车上却又遭遇了其他男性的骚扰，揭示了女性在社会中的脆弱地位。主人公一边露出作为女性的性感姿态，反思自身的处境，一个在男性与女性角色之间切换的故事展现了社会对性别角色的偏见与期待。通过细腻的心理描写和情节发展，小说试图探讨性别认同、权力关系及社会性别歧视等值得关注的议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_靓丽女丈夫（6）.doc]([变身]_靓丽女丈夫（6�
 | Size            | 36352 bytes                           |
 | MD5             | 79c31db3b3b7bd028acd8b2a8accbdf9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 强暴, 女性视角, 社会歧视, 性别转换, 心理探讨, 自我反思, 公交骚扰, 角色扮演, 女性身份, 性别力量对比, 都市生活, 自我意识, 职场骚扰, 情感冲突, 性转, 女性穿搭, 短裤丝袜, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

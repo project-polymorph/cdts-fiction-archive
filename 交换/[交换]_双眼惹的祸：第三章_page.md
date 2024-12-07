@@ -7,7 +7,7 @@ TXT 下载: [[交换]_双眼惹的祸：第三章.doc]([交换]_双眼惹的祸�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+在这篇小说的第三章《无意的发现》中，故事围绕主角李凯展开，他在公司工作的过程中，经历了与江月婷的鬼魂及王莲玉的身体转换所引发的复杂情感和心理冲突。李凯在日常生活中，陷入了对不寻常事件的困惑：他目击了王莲玉的死亡，而江月婷的鬼魂却因某种原因向他求助。在这一过程中，李凯感受到巨大的心理压力，内心充满了对自身身份及他人期望的挣扎。随着情节的发展，江月婷逐渐成为了李凯的情感寄托，尽管他也因为江月婷鬼魂的影响而经历不堪一击的情感冲突。小说以一种颇具哲理的方式探讨了性别认同和自我认知的复杂性，呈现出现代人内心的脆弱与渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_双眼惹的祸：第三章.doc]([交换]_双眼惹的祸�
 | Size            | 37376 bytes                           |
 | MD5             | 680207c0b63e5832dd267dbb75f44e08                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 心理冲突, 鬼魂, 变身, 职场, 情感纠葛, 自我探索, 灵异事件, 都市奇幻, 双重身份, 情感依赖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

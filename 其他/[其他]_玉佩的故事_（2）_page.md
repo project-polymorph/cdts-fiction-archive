@@ -7,7 +7,7 @@ TXT 下载: [[其他]_玉佩的故事_（2）.docx]([其他]_玉佩的故事_（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《玉佩的故事》是一篇包含有争议内容的小说，涉及复杂的人际关系和性别动态。故事围绕主人公李铭及其上司任静姝展开，他们之间因工作上产生的矛盾与冲突而引发了一系列情感与伦理的纠葛。李铭对任静姝的魅力有所倾慕，但随着工作中的对抗关系逐渐深入，他的内心也充满了情感的困惑与冲突。同时，小说也描写了李铭的妻子甜甜，她主动提议对任静姝进行强制性的行为，凸显了角色间复杂的性别与权力关系。整体上，该作品探讨了性别认同、自我探索、职场伦理及角色间的权利及欲望，展现了多元性别及跨性别主题，尤其是在面对性暴力与权力扭曲的敏感情节上，展示了较为深刻的社会冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_玉佩的故事_（2）.docx]([其他]_玉佩的故事_（
 | Size            | 24491 bytes                           |
 | MD5             | cf8e22c3c1a1062b026ff443f2625442                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 强奸, 跨性别, 职场伦理, 情感纠葛, 社会冲突, 性别认同, 自我探索, 变身, 强权关系, 爱情, 女权, OL制服, 性别转换, 幻想, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

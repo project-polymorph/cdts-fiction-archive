@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮物游戏_BY_TIRA.doc]([皮物]_皮物游戏_BY_TIRA.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是TIRA的皮物类小说之一，主要描绘了一位名叫北斗的男主角回到家后，拿出一件模仿女性身体的紧身衣，并尝试穿上。紧身衣的细节描写极为细腻，仿佛能够传递出真实的触感，包括乳房、阴唇等细节，让人感受到一种强烈的代入感和兴奋。北斗在穿着的过程中，感受到性别位移带来的身体感知变化与心理上的惊喜，同时也展现了对自己身体改变的探索和自我认同的困惑。小说的情节中穿插了一些性暗示和性别认同的讨论，呈现出一种困惑而又兴奋的心理状态。最终，北斗成功穿上紧身衣，变成了他表妹的样子，走出家门迎接新的冒险。整体文风偏向于成人向，其内容可能包括成人情节，涉及对性别与身体认同的探讨，适合成人读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮物游戏_BY_TIRA.doc]([皮物]_皮物游戏_BY_TIRA.do
 | Size            | 89088 bytes                           |
 | MD5             | e66040b088370bd4432f83d7c97af6a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | TIRA                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 皮物, 变身, 紧身衣, 性别认同, 自我探索, 伪娘, 男娘, 成人向, 性转, 角色扮演, 情感冲突, 二次元, 性别角色, 奇幻, 心理变化, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

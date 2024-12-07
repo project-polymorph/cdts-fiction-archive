@@ -7,7 +7,7 @@ TXT 下载: [[变装]_[碟中谍_]蒼海上的孤獨少年(5)~(6).doc]([变装]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了一段关于名为纳兰的特姆尼族女孩与一位可爱男孩之间的暧昧情节。故事设定在亚拉米斯，一个喜爱可爱的事物的地方。纳兰因敏锐的嗅觉而发现了男孩身上的秘密，了解到他其实是个可爱的男生。文中描绘了纳兰对男孩强烈的占有欲和渴望，并逐渐发展到与男孩的魔幻经历。夜晚来临，纳兰使用了一种神秘的药草与男孩共同享受了一场亲密的互动。文中通过细腻的描写展现了两人之间的情感和肉体的交融，以及纳兰对可爱男孩的强烈爱慕，展现了角色在性别认同和自我探索上的冲突。内容包含了成人情节，强调了角色的情感发展与身体的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_[碟中谍_]蒼海上的孤獨少年(5)~(6).doc]([变装]_
 | Size            | 39424 bytes                           |
 | MD5             | ef5e581019c39eea75aa9890b80b055b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性转, 爱情, 药物, 奇幻, 青春, 自我探索, 性别认同, 唯美, 青春期, 异世界, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

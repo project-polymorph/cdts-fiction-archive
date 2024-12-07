@@ -7,7 +7,7 @@ TXT 下载: [[变身]_每周回家后的小剧场_番外篇_二重身.docx]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个伪娘与其妻子之间亲密生活的虚构小说，描绘了主角与来自其他星球的生物——其妻的日常互动。故事开始时，主角被生物钟唤醒，发现妻子依偎在床上，生物可以极其自由地改变外形和适应环境。文本描述了他们之间温暖而幸福的亲密，融入了一些带有性暗示的情节，例如妻子慢慢朝主角靠近，将其身体包裹，更深层探讨了人与外星生命体之间的共生关系。细腻的描写中，举例提到“我的妻子的身体将我完全包裹在其中”，以及“‘你已经是我的东西了’”，展示了两者之间情感和身体的交融。虽然充满色情内容，但也反映了对爱的深刻理解与连接，带有一定的幻想与虚构色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_每周回家后的小剧场_番外篇_二重身.docx]([变
 | Size            | 21989 bytes                           |
 | MD5             | 60423c28f7e2f25ad09d3ebd523bc08b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 生物共生, 异星人, 两性关系, 自我认知, 温馨, 奇幻, 性行为, 幻想情节, 家庭生活, 科幻故事, 情感联系, 早晨日常, 温暖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

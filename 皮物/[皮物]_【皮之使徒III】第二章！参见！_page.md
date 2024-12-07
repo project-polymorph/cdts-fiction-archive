@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮之使徒III】第二章！参见！.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一部关于性别转换和跨性别主题的小说，围绕着主人公的变身经历展开。故事主要讲述了主人公通过使用一种叫``皮匣子``的道具，变成了早晨在地铁站遇到的一位女性，并在一家高档美容会所工作。文本中详细描述了主人公穿戴上女性服饰后的感受和对自己新形象的认知变化。会所的环境、客人以及主人公与其他角色之间的互动也被深入描绘，展现了他们的复杂关系和跨性别身份的挑战。此文本涉及性别认同、自我探索及心理冲突等主题，情节中融入了一定的情色元素，例如对身体的细致描写及角色之间的暧昧关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮之使徒III】第二章！参见！.doc]([皮物]_�
 | Size            | 34816 bytes                           |
 | MD5             | ca170e7bf13cc9cad78d8d223536ae48                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 高档会所, 职业女性, 性感, 变装, 情色, 心理冲突, 双性恋, 魔幻现实主义, 都市小说, 青春, 性转小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_01_（新人发文）.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及变身和性别转换主题的小说，名为《武器种族传说》。故事背景设定在一个未来的宇宙纪元中，主角是一名无聊的学生，逐渐发展出能操控他人身体的能力。故事开始时，主角在课堂上对新转来的同学蕾产生了兴趣，并在一次意外中获得了变身的能力。他通过控制他人身体来体验不同生活，从而在不断的探索中塑造自己的身份认同。文中多次描述对性别和身体的探索与认知，涉及强烈的性暗示和性行为，表达了一种对自我认同的冲突和追寻。本文包括对校园生活的描绘，以及在权利和欲望下的角色互动，揭示了未来社会中的性别与权力关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_01_（新人发文）.docx]([附身]_�
 | Size            | 44964 bytes                           |
 | MD5             | b100ba61c33a2d64b42a273deaf7852f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 未来世界, 身份认同, 校园生活, 性暗示, 权力关系, 自我探索, 虚拟现实, 社会冲突, 伪娘, 强权, 情感纠葛, 性别角色, 多元性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】别无选择.docx]([变性]_【翻译】别无
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是变性和跨性别主题的小说《别无选择》的翻译版本，原名为 Not by Choice，由Stefanie Flowers创作，魔之天涯编译。故事围绕主要角色斯蒂芬的生活展开，他原本期待与梦中情人成婚，但命运却将他推向了与名为埃里克的男性结婚的境地。论文中详细描绘了斯蒂芬在婚礼上的不安与挣扎，以及他被迫穿着婚纱、扮演妻子的复杂情感。小说探讨了性别认同、自我探索以及在传统社会角色期望下的心理冲突和压力，情节涵盖了从紧身婚纱的限制到高跟鞋的束缚，体现了角色对于自身命运的无奈与反思。除了婚姻誓言的严肃场景，还呈现了斯蒂芬与埃里克之间微妙而复杂的关系，尤其在斯蒂芬逐渐发现自己对变化的接受与抗拒中。整个故事充满了性别角色的反思和对自我身份的探讨，是一部深具启发性的跨性别文学作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】别无选择.docx]([变性]_【翻译】别无
 | Size            | 82149 bytes                           |
 | MD5             | 57e6ccb9f771efccb076a667a429697d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 魔之天涯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 伪娘, 婚姻, 性别认同, 自我探索, 紧身衣, 高跟鞋, 社会角色, 情感纠葛, 戏剧性, 现代小说, 二次元, 强迫女性化, 婚礼场景, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

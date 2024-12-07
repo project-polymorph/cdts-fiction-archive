@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【申码文】手记.doc]([附身]_【申码文】手记.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于青少年性别认同和性转变的小说，主要讲述了一个名叫孙强的男生，在与同班同学云末兮的相处中，逐渐陷入对她的迷恋与幻想中。在一次作业交接中，孙强与云末兮有了身体接触，接下来孙强的内心挣扎与幻想愈发强烈。文中描绘了孙强沉迷于手淫等行为的心理历程，以及他在灵魂出窍后观察云末兮的情景，直至他意外遇害，灵魂进入了云末兮的身体。这种灵魂与身体的转换探索了性别认同与欲望的复杂关系。作品涉及较详细的身体反应，情感冲突与对性别角色的探索，带有一定限制级内容，适合特定受众阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【申码文】手记.doc]([附身]_【申码文】手记.
 | Size            | 87040 bytes                           |
 | MD5             | 93a74bfef304e04aac80b8427d4b553f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我探索, 灵魂出窍, 青春期幻想, 校园恋情, 性别认同, 伪娘, 男娘, 强吻, 女友互撩, 禁忌之恋, 暗恋, 幻想文学, 青春之痛, 两性关系, 身体意识, 情欲探索, 青少年心理, 成长的烦恼, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

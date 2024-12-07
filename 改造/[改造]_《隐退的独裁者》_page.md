@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《隐退的独裁者》.doc]([改造]_《隐退的独裁�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇基于历史事件与虚构情节相结合的小说，主要描绘了一位韩国第一夫人陆英修在冷战背景下进行性别转化的故事。小说受到了论坛流行文化的启发，结合了韩国历史与创作，涉及男变女、女变男和女变女的性别改造情节。文章开篇介绍了1970年代韩国的政治背景，如朴正熙的维新独裁，以及随后的社会动荡和暴力事件。文中提到的"变色龙"计划主旨在于将DNA转化技术应用于人体，以进行身份伪装和潜入敌方阵营。陆英修作为实验对象，接受了改变DNA的实验，最终成功变身为女儿的模样。这一过程中，她的心理变化和对自己身份的重新认知也是作品的重要主题之一。同时，文件中的叙述充满了对权力斗争、政治历史和个体命运的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《隐退的独裁者》.doc]([改造]_《隐退的独裁�
 | Size            | 3512320 bytes                           |
 | MD5             | 547e4a871464d2c2a01c544f0656d263                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 韩国                               |
+| Date            | 1974-05-09                                 |
+| Tags            | 性别转化, 历史架空, 冷战, 韩国, 朴正熙, 陆英修, DNA改造, 伪娘, 跨性别, 变身, 权力斗争, 政治小说, 实验, 性别认同, 身份认同, 男女关系, 女性自我探索, 谍战, 反乌托邦, 历史小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

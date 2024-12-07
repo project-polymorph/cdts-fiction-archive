@@ -7,7 +7,7 @@ TXT 下载: [[其他]_神奇实验室6.docx]([其他]_神奇实验室6.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件来自多元性别中文数字档案馆，内容涉及一篇关于性别转换与自我认同的幻想小说。故事主要围绕阿林和一个未知的角色之间奇异的性别实验展开。在经历了身体的变换及其带来的性别认同冲突后，阿林面对了自己的新身份和随之而来的自我探索。文件中详细描写了角色在新身体中的感觉与反应，尤其是对身体敏感部分的探索与刺激的描写。角色之间的对话充满张力，透露出对现状的不安和对未来的疑虑。故事情节融合了性启蒙和自我探索的主题，具有一定的限制级内容。文中诸如“我们俩就乖乖地听从我指挥，完成我接下来的实验吧”这样的句子，体现出被操控的无力感和对未知的恐惧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_神奇实验室6.docx]([其他]_神奇实验室6.docx)
 | Size            | 20485 bytes                           |
 | MD5             | 98d2a62208cb8a87c90d2db10c2856e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别探索, 性自我认知, 幻想文学, 性刺激, 禁忌关系, 实验, 幻想, 身体认同, 友谊与冲突, 心理挣扎, 自我探索, 性启蒙, 视觉奇幻, 电击感官                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

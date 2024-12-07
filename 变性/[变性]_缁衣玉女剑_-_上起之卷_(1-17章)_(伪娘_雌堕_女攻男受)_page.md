@@ -7,7 +7,7 @@ TXT 下载: [[变性]_缁衣玉女剑_-_上起之卷_(1-17章)_(伪娘_雌堕_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《缁衣玉女剑（上起之卷）》是一部伪娘与跨性别题材的小说，包含了复杂的人物关系和情感冲突。在故事的开头，我们看到一名年过花甲的男子与一名花魁之间的激烈性爱场面，描绘了男性角色在性关系中的主导地位与女性角色的被动体验。接下来的情节涉及江湖恩怨和家庭纷争，男主竹胜衣为了保护其师弟，在逃亡过程中展现了他的勇气与责任感。在这部作品中，性别转换不仅影响了角色的外表，更深刻变化了他们的情感经历和自我认知。通过不同角色之间的对话和内心独白，读者能感受到对身份认同、社会地位和情感追求的深度探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_缁衣玉女剑_-_上起之卷_(1-17章)_(伪娘_雌堕_�
 | Size            | 146432 bytes                           |
 | MD5             | 811c05e4143ffd2218b1a357a8d8acb1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变装, 江湖, 情感纠葛, 爱情, 权力斗争, 自我认同, 性别转换, 古代, 情色, 剧情发展, 师徒关系, 男主角, 女体化, 社会冲突, 生死抉择, 强权, 忍耐, 挣扎, 忠诚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

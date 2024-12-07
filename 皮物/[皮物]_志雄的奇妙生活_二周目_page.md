@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_志雄的奇妙生活_二周目.doc]([皮物]_志雄的奇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《志雄的奇妙生活_二周目》，主要讲述了一个复杂的家庭关系和跨性别身份认同的故事。故事围绕着志雄、他的妈妈和遥铃之间的对话展开，情节既有家庭的亲密关系，也涉及跨性别与性别认同的问题。妈妈在公园对遥铃的严厉指责显露出她对遥铃与志雄间潜在关系的强烈不满，她担心遥铃的存在会对志雄的成长产生负面影响。遥铃对此表示不解，并认为她作为姐姐有责任向志雄传授男女之间的事情，这引发了母亲的强烈反驳。故事通过对话展示了角色间复杂的情感和社会冲突，包括遥铃坚称自己依旧是她的本来身份以及她与志雄之间暧昧不清的关系。这样的情节不仅涉及家庭伦理，更反映了当代社会对性别认同与家庭结构的挑战与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_志雄的奇妙生活_二周目.doc]([皮物]_志雄的奇
 | Size            | 49664 bytes                           |
 | MD5             | 4e3fb64df0a69f05cbb67ef8368a0ef0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 角色性别转换, 跨性别, 家庭伦理, 青少年成长, 社会冲突, 情感纠葛, 性别认同, 二次元, 幻想, 变身, 伪娘, 强烈的情感, 探索自我, 复杂的人际关系, 现代生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_人格分裂.doc]([变性]_人格分裂.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为玛丽安·彼得斯（Maryanne Peters）创作的短篇小说《人格分裂》。故事围绕一位母亲与她经历人格分裂的儿子达里尔展开，小说描述了达里尔体内存在三种不同的人格：狂躁暴力的里略、冷酷的达里尔和温顺善良的黛比。小说开头描绘了母亲与医生的对话，透露出达里尔因其内心的多重人格而接受治疗。随着情节的发展，医生提出了一种激进的医疗方案，试图通过医学手段让黛比成为主导人格，改变达里尔的生活。在治疗的一个月后，母亲首次见到转变后的“黛比”，她的外表和气质与之前截然不同。小说探索了性别身份认同、心理健康，以及母子情感等多重主题，情节中涉及的性别转变与个人身份的探索令其成为跨性别文学的一个重要作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_人格分裂.doc]([变性]_人格分裂.doc)
 | Size            | 41984 bytes                           |
 | MD5             | 41b97fe70dd51bc35b2484ad5c1119fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 玛丽安·彼得斯                               |
+| Region          | 未知                               |
+| Date            | 2018-11-08                                 |
+| Tags            | 人格分裂, 跨性别, 医疗方案, 心理治疗, 母子关系, 性别认同, 男性人格, 女性人格, 转变, 治疗效果, 小说, 文学, 短篇小说, 医疗伦理, 情感探索, 角色认同, 人际关系, 精神健康, 自我探索, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

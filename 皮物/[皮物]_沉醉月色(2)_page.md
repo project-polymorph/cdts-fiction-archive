@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_沉醉月色(2).docx]([皮物]_沉醉月色(2).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《沉醉月色(2)》，内容描写了一场性爱场景，涉及角色间强烈的情感和肉体交融的细节。文本表现了一位心理状态复杂的少女在与其男友之间的亲密互动，通过对话和细腻的描写展示出角色们在快感中的沉醉与矛盾。少女在故事中体现出一种既渴望又害羞的心态，努力装作清纯，却在实际的交往中显露了她深层的欲望。文本中包含大量露骨的语言和场景描绘，例如提到“要噴出來了”和各种性爱体位技巧，展示了一种纠缠在情感与肉欲之间的挣扎，同时也包含了一些轻松的调侃和角色扮演的趣味。因此，文中涉及的现代恋爱关系，以及在青春期面临的性探索主题，使其成为跨性别与性转题材小说的一部分。该文档可能对跨性别及性别认同研究有参考价值，但需注意其中的成人内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_沉醉月色(2).docx]([皮物]_沉醉月色(2).docx)
 | Size            | 34860 bytes                           |
 | MD5             | d30d0fda74938555cfa5312e9150b3cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性爱, 性转小说, 跨性别, 角色扮演, 青春, 自我探索, 欲望, 恋爱关系, 二次元, 变装, 快感, 清纯, 调侃, 反转, 性别认同, 心灵探讨                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

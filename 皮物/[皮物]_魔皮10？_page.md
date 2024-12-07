@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔皮10？.docx]([皮物]_魔皮10？.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇富有幻想色彩的伪娘和变身相关小说，描绘了一个名为爱丽丝的角色与彼得之间错综复杂且带有阴暗色彩的关系。故事中，爱丽丝用匕首刺伤了彼得，带出了一些黑色的粘液，从而在两者之间展开了灵魂与身体的交融。彼得在经历了痛苦与迷惘之后，最终被塑造成了一个新的身份，成为了爱丽丝的'主人'。随着故事的发展，两个角色之间的互动不断深化，呈现出一些强烈的逐步性暗示与情感冲突。整篇小说不仅包含变身与性别认同的元素，同时也蕴含着魔法与超自然的成分。同时，故事中也包含了与肉体改造、操控身体以及性别转换相关的情节。文中多次提到的黑色粘液与匕首，暗示着一种神秘力量的存在，此外，爱丽丝与雪露之间的关系也隐含着性暗示，增添了情节的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔皮10？.docx]([皮物]_魔皮10？.docx)
 | Size            | 26105 bytes                           |
 | MD5             | 6ab348f8e692fe499e9ad212d6a348f3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 魔法, 性别认同, 黑色粘液, 灵魂交换, 性别转换, 情感冲突, 操控身体, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

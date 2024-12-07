@@ -7,7 +7,11 @@ TXT 下载: [[变身]_Not_Your_Day_(無色).doc]([变身]_Not_Your_Day_(無色).
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《Not Your Day (無色)》，属于变身与跨性别相关的小说。故事开头描绘的是名叫特德的小男孩在母亲节面临校园欺凌的场景，心中充满了对已故母亲的思念与悲痛。特德曾经在家庭中受到父母的爱，但由于母亲的去世，他在学校受到同学们的嘲笑和不理解。文中提到他在回家的路上，怀念着母亲，意识到自己是班级中唯一没有母亲的小孩，深深陷入对母亲的无尽思念之中。
+
+接下来，特德的父亲斯坦在家中清洁时，感到对儿子遭受欺凌的无奈和痛苦，内心希望能够帮助特德渡过难关。故事转折发生在特德回到家，看到父亲穿着高跟鞋和美丽服装，表现得如同女性般温柔，特德对这一变化感到震惊与困惑。
+
+故事涉及主题包括性别认同、丧失与思念，特德与父亲之间的情感关系展现了跨性别及变身的情节，最后特德在情绪回归家庭温暖的过程中，产生了对于母亲的美好回忆与向往。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变身]_Not_Your_Day_(無色).doc]([变身]_Not_Your_Day_(無色).
 | Size            | 33792 bytes                           |
 | MD5             | 1a6a05346ea9b070b2797ac60829061b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 母亲节, 校园欺凌, 家庭关系, 自我认同, 悲伤, 魔法, 情感治疗, 幻想, 心理变化, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

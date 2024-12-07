@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交換列車：新譯版.docx]([交换]_交換列車：新
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别转换和跨性别主题的小说，情节围绕一名女性角色在通勤途中乘坐了一列被称为'交换列车'的电车。在电车上，乘客们突然经历了身体的交换事件，导致不同性别和身份的角色之间产生了混乱情感与身体接触。故事以女性角色的视角展开，叙述了她的内心变化与对身边男生（即所谓的‘棒球君’）的复杂情感。原本即将步入婚姻的她，在电车上经历了心理与肉体的双重刺激，体味到了前所未有的快感与激情。小说中包含了一些含有成人内容的描写，如气喘声、身体触碰及心理反应，展现了角色处于性别转换下的自我认知与情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交換列車：新譯版.docx]([交换]_交換列車：新
 | Size            | 45102 bytes                           |
 | MD5             | dad9f2962c26d4cf2049548b985d816f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 电车, 身体交换, 快感, 棒球男生, 成年内容, 情感纠葛, 性别认同, 青春, 奇幻, 性感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

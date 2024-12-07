@@ -7,7 +7,7 @@ TXT 下载: [[变身]_被迫变妹穿越者的异世界冒险物语【8-9】.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了库亚在异世界的冒险，故事围绕着他的性别转换以及自我认同展开。库亚原本为男性，但在一次意外中被邪神的诅咒迫使他变为女性。小说详细描绘了库亚在探险过程中获取装备、技能与职业的挑战，以及他在身体变化带来的复杂心理体验。在第八章中，库亚购买新装备并经历了身体对性别变化的适应，表现出对作为女性的身体感受的好奇与羞耻。他在自身变化的过程中，逐渐探索了身为女性的感官体验，并进行了一次自慰的尝试，感受到前所未有的快感。在第九章中，库亚继续锻炼并思考如何利用自己的变化提高魔力，暗示性别变化可能带来的潜在优势。整个故事探讨了性别认同与欲望的复杂关系，同时涉及到性别转换文学常见的主题，如角色的自我认识与斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_被迫变妹穿越者的异世界冒险物语【8-9】.doc
 | Size            | 38400 bytes                           |
 | MD5             | 6f29ccc2f4af25e85b083a8a488cefdd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 冒险, 异世界, 自慰, 魔法, 职业, 心理冲突, 女性体验, 性别转换, 男娘, TSF, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

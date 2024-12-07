@@ -7,7 +7,7 @@ TXT 下载: [[改造]_父親的遺產_6-8回.docx]([改造]_父親的遺產_6-8�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是多元性别相关的伪娘与跨性别主题小说的一部分，主要描绘了主角在转变为女性形象后所经历的复杂情感和性体验。文章围绕着主角与男性角色间的互动，深入探索性别认同与欲望的主题。文本中包含了强烈的性暗示与生理描写，反映了角色在完全接受女性身份后所带来的身体与心理上的矛盾与冲突。例如，主角感受到了男性的挑逗，尽管内心有所抗拒，却又不由自主地渴望进一步的体验。此文中出现了角色间的权力游戏和心理操控，展现了不同男性角色对主角的影响与操控。同时，文中涉及了关于灵魂交易和身体改造的复杂关系，揭示了女性身体在他人欲望中的物化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_父親的遺產_6-8回.docx]([改造]_父親的遺產_6-8�
 | Size            | 68822 bytes                           |
 | MD5             | 8db8061dd20578af710c7d38e7f30d19                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 心理游戏, 权力动态, 肉体改造, 男性角色, 欲望冲突, 自我探索, 双性恋, 淫荡, 调教, 成人内容, 性爱描写, 情感矛盾, 生理欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

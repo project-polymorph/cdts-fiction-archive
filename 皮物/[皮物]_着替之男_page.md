@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_着替之男.docx]([皮物]_着替之男.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《着替之男》是一部围绕着大学生工藤翔太的奇幻小说。故事开始于一个平常的除夕夜，翔太的朋友山崎彻带来了一个不可思议的面罩和套装，使得翔太能够变身成校园最受欢迎的女生——白鸟惠。随着故事的发展，翔太在变身后陷入一系列复杂的情节，包括被朋友威胁和生活在女生日常中的挑战。小说通过翔太的视角，探索了性别认同与自我感知的主题，描绘了他在新身份下的挣扎与适应，涉及情感、冲突和对他人期待的应对。作品中的角色关系错综复杂，情节中穿插了紧张与幽默的元素，尤其是翔太如何面对被迫融入女性角色的挑战。作品也暗示了对于友情、爱情和性别转换的深思，是一部探索自我与他者之间界限的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_着替之男.docx]([皮物]_着替之男.docx)
 | Size            | 41546 bytes                           |
 | MD5             | f876d439f732d1abb8ac5f4ef4600549                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 搭杢煉瓦                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 大学生, 性别认同, 友情, 爱情, 白鸟惠, 工藤翔太, 校园生活, 奇幻, 冒险, 自我探索, 伪娘, 心理斗争, 性别角色, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

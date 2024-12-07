@@ -7,7 +7,7 @@ TXT 下载: [[附身]_宅男生死鬥（裏）第一回、計畫始動.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘与变身主题小说《宅男生死鬥（裏）》的第一回，主要讲述主人公阿宅失踪的那个夜晚，他的冒险故事。时间设置在午夜，在一个虚幻与真实交错的空间中，描绘了一场兽魔与女神之间的混战。在故事中，年轻的少女骑士魏宇婕被一个神秘黑影追赶，展现出她的勇气与决心。黑影以不怀好意的口吻调侃她，随着故事的发展，魏宇婕感到自己的危机意识不足，她试图用传送石逃脱，但最终被强大的黑气淹没。整个故事涉及角色的性别身份、战斗场景及自我认知的冲突，含有一定的冒险与幻想元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_宅男生死鬥（裏）第一回、計畫始動.docx]([�
 | Size            | 29404 bytes                           |
 | MD5             | 90010b053967825b1c2d9b67f7d28921                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 宅男, 冒险, 变身, 圣骑士, 兽魔, 奇幻, 自我认知, 女神, 战斗, 青春, 悬疑, 神秘黑影, 更新, 虚拟现实, 幻想小说, 危险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

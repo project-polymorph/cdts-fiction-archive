@@ -7,7 +7,7 @@ TXT 下载: [[交换]_回到那个家（6）.doc]([交换]_回到那个家（6�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇性转相关小说的章节，主要讲述了主角林雨磬在军区医院的经历。故事开头描述了林雨磬在医院中追踪一名男子，她与其他病人擦肩而过，并试图推测那名男子的行踪。通过细致的观察，她利用电梯和楼梯迅速在医院中穿梭。随着情节的发展，林雨磬暗中观察一位高大且面貌姣好的男子，带着一种神秘的气息。她为了获取口罩，采取了美人计来接近一位工作人员，却未能如愿。文件中对林雨磬的外形和心理动态进行了详细描绘，特别是她对跟踪对象的强烈好奇以及复杂的情感冲突。最终，林雨磬表现出在男性和女性之间的认同困惑，以及在医院场景中的突发事件，触及了性别认同和自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_回到那个家（6）.doc]([交换]_回到那个家（6�
 | Size            | 37888 bytes                           |
 | MD5             | 1370a29f7ed6f33efa6903da9d2b4e5a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 校园, 爱慕, 性别认同, 医院, 自我探索, 变装, 青春, 诱惑, 职场爱情, 情感纠葛, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

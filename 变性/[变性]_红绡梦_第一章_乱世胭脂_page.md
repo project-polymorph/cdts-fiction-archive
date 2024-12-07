@@ -7,7 +7,7 @@ TXT 下载: [[变性]_红绡梦_第一章_乱世胭脂.docx]([变性]_红绡梦_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品《红绡梦》是一个发生在民国初年的性转及跨性别相关小说，主要叙述了一个名为红儿的角色从小生活在贫困中，离开父母后拜师学习唱曲，并经历了自我认同与性别转换的成长故事。小说中，红儿的父亲因家庭变故带他来到天津，而后红儿成为男旦，在师傅的调教下慢慢习惯了女性的打扮和生活。故事描绘了红儿在社会动乱和个人性别认同上的挣扎与探索。在与同伴小虎的相遇中，两人逐渐产生了情感，故意穿女装并分享彼此的秘密，整体情节充满了自我发现、情感的纠结以及对性别角色的重构。作品在情节中包含了一些性相关内容，描述了角色在情感和身体上的碰撞与认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_红绡梦_第一章_乱世胭脂.docx]([变性]_红绡梦_
 | Size            | 17369 bytes                           |
 | MD5             | f69c72a232106383a357ea3596326365                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变装, 自我探索, 女性视角, 爱情, 戏曲文化, 民国, 情感纠葛, 社会动乱, 身体认同, 角色扮演, 男旦, 性别平等, 女性主义, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

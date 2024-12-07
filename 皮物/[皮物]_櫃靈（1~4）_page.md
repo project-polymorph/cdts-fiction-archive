@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_櫃靈（1~4）.docx]([皮物]_櫃靈（1~4）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本资料是关于伪娘 TS 变身与跨性别相关小说的一部分，内容浓厚地设定在一个探索性别认同和转变的幻想世界中。故事围绕女性角色雪晴展开，她作为一个拥有驱魔师身份的亚欧混血美女，通过魔法与亡灵的交往来救助她的妹妹。在一次黑巫术的案件中，雪晴发现了一个被诅咒的女尸，以及与她有关的灵魂转移事件。她与一位名叫莫言的神秘男人展开对话，经历了拯救和身体交换的复杂关系。故事中包含了与性别认同、自我探索以及灵异力量相关的元素，文字中充满了悬疑和紧张气氛。文中提及了梅林这一传说中的人物，暗示了魔法与真实世界交汇的可能性。在面对可怕的选择时，雪晴不得不签订一份让她身体被莫言占有的契约，这传递了极大的心理压力和情绪冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_櫃靈（1~4）.docx]([皮物]_櫃靈（1~4）.docx)
 | Size            | 38685 bytes                           |
 | MD5             | 67e0d501f55c9e06195bdf252ed286e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 魔法师, 驱魔师, 性别转换, 灵异事件, 灵魂交换, 黑魔法, 情感冲突, 人体改造, 契约, 亡灵, 魔法世界, 亚欧混血, 探险, 伦理探讨, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

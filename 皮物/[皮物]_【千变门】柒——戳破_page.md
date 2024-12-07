@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【千变门】柒——戳破.doc]([皮物]_【千变门�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以性别转换与跨性别主题为中心的小说，内容描绘了一名角色经历突如其来的性别转换与变身后，与一位光头男子之间发生的亲密关系。故事开篇描绘了角色在被袭击后，逐渐接受现实并与对方展开一系列亲密互动，描写了从初次接触的惊慌到深度的身体探寻与欲望结合，情节涉及了对性的强烈渴望和复杂的心理冲突。随着情节推进，文章详细刻画了两位角色在性爱中的互动，包含大量露骨的细节，表现出对身体的探索与欲望的发泄，同时记录了一系列肉体欢愉的场面与心理斗争的反复交织。小说还意外揭示了隐藏的身份关系，出现了熟悉的角色王婷，引发了一系列情感纠葛和探索，令原本简单的情欲关系变得更加复杂。最后，故事以对这段关系的进一步发展与情感的深化结束，蕴含着对性别认同及人际关系的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【千变门】柒——戳破.doc]([皮物]_【千变门�
 | Size            | 35328 bytes                           |
 | MD5             | c51cb7f54566d3a6138a1c2429f8705e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 情色小说, 情欲, 心理探索, 复杂人际关系, 双性恋, 强烈欲望, 自我认同, 二次元, 都市幻想, 成长故事, 情感纠葛, 幻想型态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

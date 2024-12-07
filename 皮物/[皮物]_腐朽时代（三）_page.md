@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_腐朽时代（三）.doc]([皮物]_腐朽时代（三）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《腐朽时代（三）》描绘了一个架空的多元文化场景，其中包含了诸多奇幻元素和复杂的人物关系。故事设定在普拉亚城，一个以教会为中心的城市，情节围绕着对一名涉嫌进行淫乱行为的男人的处决展开。开场时，男人被教会的代表绑住，围观的人群情绪激动，呼喊着要将他处决。随后的情节通过一名猫耳少女古莱阿与小眼睛男子的互动，深入了角色之间的权力关系与情感交流，不同于传统的黑白善恶对立，展示了人物在特定社会框架下的挣扎与自我认同。文中有诸多关于性别认同和社会责任的探讨，同时也融入了强烈的情色描写及角色之间的亲密关系，体现了复杂的情感纠葛。随着故事的发展，角色们思考着自己在社会中扮演的角色及其意义，形成了一条隐含的自我探索和性别认同的脉络。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_腐朽时代（三）.doc]([皮物]_腐朽时代（三）.
 | Size            | 48128 bytes                           |
 | MD5             | 6e07f31d1cacb3e74e21f95647be241b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 角色扮演, 教会, 性别认同, 冒险, 魔法, 暴力, 奇幻, 深度探索, 心理冲突, 自我认知, 社交互动, 爱与痛苦, 文化冲突, 火焰炼刑, 信仰与堕落, 情感纠葛, 男女关系, 幻想故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

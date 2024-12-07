@@ -7,7 +7,7 @@ TXT 下载: [[附身]_邪血者-3_(以后出现的角色都会带图片的，将
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个涉及附身与性别转换的故事。主角获得了特殊能力，能够操控他人的身体，而其配偶佳佳请求主角帮助她教训一个在公司中对她说坏话的对手尹珍。故事描绘了佳佳如何通过特殊能力让尹珍控制自己的身体，进而产生了疯狂且热烈的亲吻与互动，而尹珍在对整个过程的反抗中，逐渐接受了自己新身份的转变。文中涵盖了复杂的情感和心理冲突，涉及强制亲吻、自我认知的后果及最终的堕落情节，冲击力强，情节具有戏剧性，放大了对高压环境下人际关系和情感交集的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_邪血者-3_(以后出现的角色都会带图片的，将
 | Size            | 16920 bytes                           |
 | MD5             | e5bec1bf7b2d10a220962cab08e616ad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | lijie817                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 附身, 跨性别, 强制亲吻, 女体化, 性别转换, 情感扭曲, 自我认知, 变装, 心理冲突, 职场霸凌, 淫荡, 调教, 热吻, 欲望冲突, 女人之间, 办公室情事, 正义与邪恶, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

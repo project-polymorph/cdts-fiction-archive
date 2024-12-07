@@ -7,7 +7,7 @@ TXT 下载: [[附身]_体液第二季第四集.docx]([附身]_体液第二季第
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部跨性别题材的小说《体液第二季第四集》。故事围绕主人公良的附身经历展开，良通过附身于一个名为徐芳芳的少女，寻求与自己过去死亡有关的线索。小说开头描绘了良经历的一场噩梦，但随即揭示他正在操控一个女性的身体。他通过与徐芳芳的联系，逐渐获得关于徐子彤的记忆，并试图从中挖掘更多的信息。小说内容涉及大量露骨的性描写和心理挣扎，表现出自我认知与性别认同的冲突。小说情节紧凑，描写细腻，伴随着紧张的情感和性方面的复杂关系，涉及强烈的性暗示和主体之间的权力交替。良在医院中寻找徐子彤的过程揭示了他内心的纠结，以及对待自己身份的认同与探索。整体而言，这是一部结合了科幻、性转和心理探索等元素的小说，主要反映了角色在性别和身体之间的流转。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_体液第二季第四集.docx]([附身]_体液第二季第
 | Size            | 22045 bytes                           |
 | MD5             | 090349700a896d4364dade63ed0c743b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 自我探索, 附身, 记忆恢复, 强烈性暗示, 性别认同, 女性身体, 青春期困惑, 医院剧情, 家庭关系, 性欲, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

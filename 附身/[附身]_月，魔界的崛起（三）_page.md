@@ -7,7 +7,7 @@ TXT 下载: [[附身]_月，魔界的崛起（三）.docx]([附身]_月，魔界
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《月，魔界的崛起（三）》，是一本伪娘和变身相关的小说。故事围绕着主人公李佳林，他在一次意外中跌入一个神秘的盒子空间，开始了一段关于转生和魔族复苏的冒险。随着情节的发展，佳林发现自己其实是千年前魔界的一位重要角色‘月魔’。在恢复记忆后，佳林面临着与神界的力量斗争和寻找同伴的使命。此外，小说还涉及了佳林的人格和身体的改变，并展开对自我认知的探讨。在这个过程中，佳林不仅要面对外部的威胁，还要探索内心的欲望与身份认同。小说情节复杂，包含了强烈的性别转换主题和大量的幻想元素，展现了二次元文化中对性别与身份的重新定义。此外，文本中涉及了一些敏感和限制级内容，旨在探讨性别认同、自我探索等深层次主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_月，魔界的崛起（三）.docx]([附身]_月，魔界
 | Size            | 18836 bytes                           |
 | MD5             | 6e3d97071b42a2d7fc261d421ab4d6a2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 魔法, 性别认同, 自我探索, 魔族, 身体交换, 虚拟现实, 时空穿越, 爱情, 奇幻, 阴谋, 性欲, 魔法少女, 异世界, 淫荡, 调教, 强权, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

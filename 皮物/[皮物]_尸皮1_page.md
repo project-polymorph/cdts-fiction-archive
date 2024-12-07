@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_尸皮1.docx]([皮物]_尸皮1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于张莉，一名女警察在面临危险时的死亡与掠夺性行为的小说片段。故事中描绘了张莉在一个暴风雨的夜晚，她发现铁门敞开的时候，暗示着潜在的危险。随后，她被一名攻击者抓住并被致命攻击，经历了一系列残忍的场景。攻击者对已故的张莉进行了一系列露骨和淫秽的行为，最终将其身体变成一具尸皮。本段文本涉及许多与死亡、性以及对尸体的性行为相关的主题，表现出一种强烈的暴力与性结合的特征。内容涉及敏感和限制级的情节，包含强烈的色情暗示及极端的情景描绘，例如“我将女警的皮从大堆的衣物中抽了出来，一抖，完美而精致女警皮就展现在我的面前了，如缎般光滑的肌肤。”这篇内容可能不适宜某些读者，适合科研目的。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_尸皮1.docx]([皮物]_尸皮1.docx)
 | Size            | 24372 bytes                           |
 | MD5             | 505e8671249e163a0fda0980ee4432f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 死亡, 轮奸, 强奸, 暴力, 腐化, 变态, 禁忌, 尸体性行为, 自我探索, 剧情, 科幻, 黑暗幻想, 刺激, 恋尸癖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

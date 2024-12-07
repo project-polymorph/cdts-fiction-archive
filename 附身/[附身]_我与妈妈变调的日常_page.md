@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我与妈妈变调的日常.doc]([附身]_我与妈妈变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于附身主题的小说，讲述了男孩振宇与他变得极为艳丽的‘母亲’之间复杂且扭曲的关系。故事在炎热的夏季雷雨中展开，振宇在回家后无意中发现了母亲卧室的异常，随后母亲的身份被揭露，实际上是一个通过附身术占据了她身体的灵魂。经过一番情节的展开，振宇被迫接受了这个新事实，并与这个附身者展开了一系列复杂的互动，包括感情上的纠葛和身体上的冲突。文件中包含大量成人向和性描写，透过振宇与新‘母亲’的互动，探讨了性别、身份与欲望之间的关系。整篇小说富有挑战性，涉及禁忌的亲密关系与灵魂转移的幻想。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我与妈妈变调的日常.doc]([附身]_我与妈妈变�
 | Size            | 61952 bytes                           |
 | MD5             | 1be1256747cf42a8c0b5156172b37b69                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 跨性别, 强奸, 自我认同, 变身, 家庭伦理, 青春期困扰, 欲望探索, 心理冲突, 禁忌关系, 母子关系, 成人向, 性别转化, 另类幻想, 灵魂交流, 情感复杂, 二次元文艺, 奇幻, 虚幻现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

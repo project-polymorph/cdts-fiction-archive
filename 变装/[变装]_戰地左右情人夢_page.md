@@ -7,7 +7,7 @@ TXT 下载: [[变装]_戰地左右情人夢.docx]([变装]_戰地左右情人夢
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部设定在动荡战乱年代的短篇小说，内容围绕着两个小孩琴和式的友谊展开。琴是一名在小村庄中生活的男孩，因外表娇小而常被误认为女孩，式则是个性格阳光的小男孩，其父母在战争中去世，跟随祖父来到村庄。在一次偶然的情况下，琴被几名小孩欺负，而式则出手相助，使两人逐渐建立了深厚的友情。故事细腻地描绘了儿童之间纯真的情感，伴随着对身份认同的探索与自我认知的冲突。随着时间的推移，两人逐渐疏远，琴心中却始终难以忘怀式，情感也愈加复杂。材料涉及性别身份与情感发展的主题，描绘了温暖与悲伤交织的故事情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_戰地左右情人夢.docx]([变装]_戰地左右情人夢
 | Size            | 42134 bytes                           |
 | MD5             | 83cd839a6efc8c8be22c33fbdb384782                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男孩子, 友情, 自我认同, 儿童, 战乱, 性别探索, 成长故事, 青少年, 情感纠葛, 二次元, 情感, 战地故事, 历史背景, 乡村生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_解离症（5）.docx]([变身]_解离症（5）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及伪娘与变身情节的小说作品，主要讲述了主人公杨秦在经历了性别变换后，内心的矛盾与探索。故事开篇即描绘了杨秦在路上变身为女性的情形，他对于变身后的新身份感到迷茫与兴奋。与平时的生活形成鲜明对比的是，他在女装回到家后，内心突然涌现出强烈的欲望，进行了自慰并分析了男女性观看成人影视的心理差异。整篇小说通过展现杨秦在女身状态下的自我探索和性行为，描绘了他对身体与性别的新认知。同时，叙述中还体现了他在工作和生活中遇到的种种困惑与压力，包括对领导的恐惧及对变身时间的焦虑，反映出主人公复杂的内心世界与性别认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_解离症（5）.docx]([变身]_解离症（5）.docx)
 | Size            | 17883 bytes                           |
 | MD5             | 6605156d73eed433865c5283ecfa29cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性转, 自慰, 性别认同, 自我探索, 成人内容, 青春, 工作压力, 内心斗争, 幻想, 身份混乱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

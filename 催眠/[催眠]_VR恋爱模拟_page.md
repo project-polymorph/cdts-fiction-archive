@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_VR恋爱模拟.doc]([催眠]_VR恋爱模拟.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于虚拟现实（VR）恋爱模拟游戏的体验记录。作者分享了自己在购买并试玩该游戏后的深刻感受，详细描述了游戏机制、角色设定和自身在游戏体验中的情感变化。游戏允许玩家通过VR技术以女主角的身份参与故事，体验身为女性角色的感受。作者提到，此游戏的画面质量极高，沉浸感强烈，为玩家提供了非常真实的互动体验。在测试新版本的过程中，玩家需要多次进行游戏，更好地理解和执行角色的任务与剧情发展。文件中多次提及游戏中的选择将对角色之间的好感度产生影响，并强调了这种互动体验让作者感到非常投入和享受。整体来说，这篇记载呈现了VR游戏在性别扮演与角色互动方面的创新性，以及对玩家情感与感官的刺激。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_VR恋爱模拟.doc]([催眠]_VR恋爱模拟.doc)
 | Size            | 49664 bytes                           |
 | MD5             | 2229ab84c9b833da109e1810008ef946                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | VR游戏, 恋爱模拟, 性别转变, 沉浸体验, 角色扮演, 3D CG, 互动游戏, 情感体验, 女主角视角, 次世代游戏, 自我探索, 虚拟现实, 二次元文化, 游戏机制, 心理体验, 性别认同, 羁绊, 浪漫, 奇幻, 游戏更新                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

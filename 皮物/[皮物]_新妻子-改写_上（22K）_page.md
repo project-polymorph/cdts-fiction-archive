@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新妻子-改写_上（22K）.doc]([皮物]_新妻子-改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于性转与变身主题的小说，主要描绘了一个名为蒂姆的角色通过变身为女性并成为保姆后所经历的情感与性别认同的探索。在故事的开头，蒂姆以蒂娜的身份应聘成为一位名为吉尔的女子的保姆，进而逐步融入她的家庭，包括她的孩子和丈夫。在与家人的相处中，蒂姆体验到了作为女性的生活，并逐渐对自己的性别认同产生了复杂的情感。在小说中，描写了许多性别模糊与自我认同形成的场景，包括对身体的探索与他人的情感交互。此外，文本还包含了一些限制级的内容，涉及强烈的色情描写与性幻想，增加了作品的争议性，适合有相关研究领域的读者。仿佛随着剧情的发展，蒂姆在享受这种新身份的同时，也在不断地思考自己的身份归属。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_新妻子-改写_上（22K）.doc]([皮物]_新妻子-改�
 | Size            | 91648 bytes                           |
 | MD5             | ae425cdebc500bcb979b7e00e738802a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 变嫁, 跨性别, 性别认同, 伪娘, 男娘, 成人内容, 自我探索, 情感冲突, 保姆, 家庭关系, 性幻想, 二次元, 强烈色情, 变装, 身份认同, 虚构角色, 心理探索, 导演情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

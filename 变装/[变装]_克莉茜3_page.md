@@ -7,7 +7,7 @@ TXT 下载: [[变装]_克莉茜3.doc]([变装]_克莉茜3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于克莉茜变装和跨性别经历的小说，长度约3586字。故事围绕主角克莉茜展开，其生理性别为男性，但因某种原因而不得不以女性身份生活。克莉茜在筹备与理赔员的会面中，内心充满矛盾与焦虑，尽管外观看似自信，但内心的挣扎与自我认同的混乱使他感到痛苦。故事中，克莉茜和他的好朋友芭芭拉之间的互动展现了他们在面对角色转变时的心理斗争。芭芭拉不断鼓励克莉茜，帮助他适应新的身份，但克莉茜对即将到来的生活充满了不安和恐惧。最终，克莉茜签署了一份声明，承认自己是一名女性，这标志着他跨性别旅程的重要一步。文中涉及的情节探讨了性别认同、心理冲突以及与社会接触的微妙关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_克莉茜3.doc]([变装]_克莉茜3.doc)
 | Size            | 36352 bytes                           |
 | MD5             | 30da4be6b2e44954f3225f8a419b897a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变装, 跨性别, 自我身份认同, 心理斗争, 角色扮演, 情感纠葛, 友谊, 社会认可, 法律文件, 情感发展, 性感形象, 变嫁, 女性形象, 性别流动, 变性手术, 女性服装, 化妆技巧, 情感操控, 心理压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

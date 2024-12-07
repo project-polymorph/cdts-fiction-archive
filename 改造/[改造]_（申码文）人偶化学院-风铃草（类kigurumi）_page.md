@@ -7,7 +7,7 @@ TXT 下载: [[改造]_（申码文）人偶化学院-风铃草（类kigurumi）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一所名为“人偶化学院”的虚构学校的入学流程和改造程序的描述。故事围绕一位新生的入学体验展开，该生在入学后被告知，自己将 undergo 一系列身体和心理的深度改造，以成为符合院校要求的“人偶”。文件内容 蕴含着对自我身份转变过程中的心理波动，以及对未知和未来的复杂情感的描绘。描述中提到，经过一系列手术后，学生们将完全舍弃过去，融入人偶的身份，生理特征和心理特征都将 undergo 大规模的改变。在具体的改造过程中，新生被迫面对关于自己身体、性别与身份认同的严酷现实，伴随而来的是肉体上的痛苦与精神上的挣扎。文中包含了生理改造的细节描述，以及人与人偶身份的交织引发的心理变化，构建了一个有关性别认同和自我探索的复杂叙事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_（申码文）人偶化学院-风铃草（类kigurumi）.
 | Size            | 56832 bytes                           |
 | MD5             | f8dec990b3c0cd4209082f6116849bda                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 人偶化, 跨性别, 自我认知, 心理改造, 身体改造, 变身, 伪娘, 校园小说, 幻想文学, 心理探索, 生理改造, 性别认同, 妆容, 角色扮演, 反乌托邦, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

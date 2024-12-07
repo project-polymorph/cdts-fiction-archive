@@ -7,7 +7,7 @@ TXT 下载: [[附身]_夏朵迪門偵探社.docx]([附身]_夏朵迪門偵探社
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《夏朵迪門偵探社》的文本片段，讲述了一名年轻女性客户葛蕾丝委托位于神秘的侦探社调查其丈夫的生活状况。故事通过对话展开，显示出葛蕾丝对丈夫的生活变化的担忧，并涉及到丈夫可能与别的女性有不正当关系。侦探社通过对葛蕾丝提供的信息进行调查，揭示出她丈夫与一位名为淑贞的女性的关系。文本中还涉及侦探社的独特背景及其处理案件的原则，强调社内成员之间的互动以及案件处理后的影响。故事暗示了不道德的婚外情，表现出顾客的心理挣扎和内心痛苦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_夏朵迪門偵探社.docx]([附身]_夏朵迪門偵探社
 | Size            | 27077 bytes                           |
 | MD5             | f0e667d87fed2c508df9212f93f706cc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 侦探, 婚外情, 心理剧, 性别认同, 跨性别, 都市奇幻, 自我探索, 青春, 法律案件, 女性视角, 肉戏, 强奸, 淫荡, 逆后宫, 调教, 女体化, 变嫁, NTR, 纯爱, 古典与现代, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

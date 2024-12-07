@@ -7,7 +7,7 @@ TXT 下载: [[附身]_胡媚娘.docx]([附身]_胡媚娘.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘/变身类小说，主要讲述了高淼的性别转换与自我认同的过程。在故事中，高淼在一个阴雨连绵的下午与一位名叫王强的男子相遇，逐渐揭示出她是九尾狐妖转世的秘密，并且面临身体和身份的变换。故事开始时高淼赤裸跪在卫生间内，身体感受到变化的痛苦，而后她欣赏着自己变得水润白皙的身体，并对这种身份感到困惑和惊喜。王强的出现引导她了解自己的前世和觉醒的过程，提高了对性别与身份认同的探索。作品通过生动的情节描绘了高淼从平凡到觉醒的内心变化，尤其是在面对身体的陌生感和他人的态度时，情感真挚，引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_胡媚娘.docx]([附身]_胡媚娘.docx)
 | Size            | 100572 bytes                           |
 | MD5             | 39eb25444ab85a2c00e48e262af8ef20                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 九尾狐妖, 性别转换, 自我认同, 转世, 幻想, 爱情, 如梦如幻, 神秘事件, 奇幻修炼, 内心冲突, 身体意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

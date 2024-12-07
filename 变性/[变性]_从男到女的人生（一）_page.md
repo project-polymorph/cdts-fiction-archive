@@ -7,7 +7,7 @@ TXT 下载: [[变性]_从男到女的人生（一）.doc]([变性]_从男到女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘与跨性别主题的小说，主要讲述了主人公在经历了性别手术后的生活感受及情感历程。小说描写了主人公在手术后，逐渐接受自己作为女性的身份，并与男朋友阿天之间的亲密关系。在三周年纪念日的晚上，主人公回忆起过去，并感受到自己身体与内心的合一。内容中细腻地描绘了其与阿天的亲密互动，从最初的羞涩到后来的享受，展现了主人公在性别认同上的变化和接受。同时，文本中也包含了一些限制级的情节，涉及性行为和身体的详细描写，这是主人公自我认同与探索的表现。整体故事充满了对自我探索、性别认同以及爱与欲望的深刻思考，展现了跨性别者在情感与身体上的复杂体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_从男到女的人生（一）.doc]([变性]_从男到女�
 | Size            | 45056 bytes                           |
 | MD5             | 615854aa9eb9bd4f50cf53cd47c474f0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 变身, 爱情, 强烈情感, 自我探索, 生理变化, 性行为, 情感历程, 雌激素, 身体接受, 成年成长, 情欲, 心理冲突, 亲密关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

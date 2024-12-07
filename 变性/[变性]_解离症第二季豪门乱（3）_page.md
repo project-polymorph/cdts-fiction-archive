@@ -7,7 +7,7 @@ TXT 下载: [[变性]_解离症第二季豪门乱（3）.docx]([变性]_解离�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章讲述了主角杨琴在宁兴的花园洋房中居住的经历，并描述了她在性别转换过程中的心理挣扎和伴随的情节发展。杨琴被迫留在这栋充满监视的房子内，表面上虽然安分守己，但内心对于未来的种种可能仍然抱有一丝顾虑。章节开头提到，杨琴需要以女性身份生活，但又能够随时变换男女形态，这使得她时常处于焦虑和不安的状态。尽管生活条件优越，食物丰盛，她仍是感到受限，无法自由行动。接着，宁兴的出现带来了新的变化，特别是在与杨琴的互动中，宁兴展现出对女装的放松态度，这使杨琴对他的看法产生了转变。在市区购物时，两人共同的经历和宁兴对女装的配合，反映了他们在性别认同与角色扮演上的探索。整章聚焦于性别认同与社会角色之间的拉扯，并通过日常生活情节展现出角色的内心变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_解离症第二季豪门乱（3）.docx]([变性]_解离�
 | Size            | 26674 bytes                           |
 | MD5             | 7d9d814420bbc4b9c06d2610425bc024                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 角色扮演, 自我认同, 生活困境, 都市生活, 性别探讨, 二次元文化, 心理挣扎, 友情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

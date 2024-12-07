@@ -7,7 +7,7 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书1.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了安德鲁·博登和他的秘书凯瑟琳·詹森之间错综复杂的权力斗争。故事开始时，安德鲁准备解雇凯瑟琳，理由是她拒绝与他发生性关系。然而，在令人意想不到的情况下，凯瑟琳找到了安德鲁的住处，并以他盗取公司资金为要挟，要求他听从她的命令，而不是让他一无所有。凯瑟琳详细解释了他所犯的罪行的严重性，并威胁称，如果他不合作，她将会把证据交给检察官，导致他入狱。从此，安德鲁的生活陷入了凯瑟琳的控制之中，她不仅要他签署她所要求的各种文件，还让他在耳朵上打耳洞以示惩罚。这个故事不仅探讨了性别权力 dynamic和性骚扰的问题，还涉及到道德腐败与悔恨，以及当权力的平衡发生变化时，个人如何被迫适应新的环境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书1.docx]([变�
 | Size            | 19173 bytes                           |
 | MD5             | 0add6936c0eeb67c110472d0aa40e600                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 职场性骚扰, 权力斗争, 羞辱, 变装, 报复, 女性主导, 犯罪, 心理操控, 耳洞, 强迫, 致命吸引, 道德堕落, 办公室政治, 绝对控制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

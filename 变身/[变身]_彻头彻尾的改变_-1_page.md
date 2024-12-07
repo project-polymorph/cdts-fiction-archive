@@ -7,7 +7,9 @@ TXT 下载: [[变身]_彻头彻尾的改变_-1.docx]([变身]_彻头彻尾的改
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本档案馆的文档《彻头彻尾的改变》由作者Tigger创作，主要讲述了一名核潜艇工程师艾伦·查伯纽在执行负责核反应堆操作时，意外发现潜艇内部隐藏的炸弹。故事开头，艾伦在潜艇的工程舱内进行检查，并且试图确保核反应堆的安全运行。然而，当监控室收到反应堆功率异常的警报后，他迅速意识到潜艇内部可能存在威胁。艾伦在紧迫情况下成功找到并拆除了炸弹，但却暴露在辐射中，继而遭受重度辐射中毒。
+
+此文涉及强烈的科学幻想主题，描述了艾伦与科学家之间的对话，表达了对生存机会的探索与无奈。为了拯救艾伦，医生提出了一种实验性的基因编辑疗法，尽管没有人类成功的先例，但只有通过这种方式才能希望挽救他的生命。整个故事在充满危机感的氛围中展开，不仅展现了紧张的情节，也探索了生死与技术挑战的伦理问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_彻头彻尾的改变_-1.docx]([变身]_彻头彻尾的改
 | Size            | 64887 bytes                           |
 | MD5             | 844444a0dcfbdb2561377efd17567c83                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Tigger                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 科幻, 核潜艇, 辐射, 基因编辑, 英雄主义, 生死抉择, 军事, 科技, 冒险, 爆炸物处理, 人性探索, 自我救赎, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

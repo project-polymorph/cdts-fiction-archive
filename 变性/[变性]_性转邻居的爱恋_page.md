@@ -7,7 +7,7 @@ TXT 下载: [[变性]_性转邻居的爱恋.doc]([变性]_性转邻居的爱恋.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个名为张鸿的年轻高科技生物公司研究室主任的故事，他在事业上取得显著成就，但内心却藏有一个不为人知的秘密：他对性转者有着近乎狂热的性欲执念。故事开始于张鸿搬进一个新的小区，遇到了邻居李廷，一个外表清秀的年轻男生。李廷的温柔及其身上的性转者气质激起了张鸿对他的复杂情感。尽管李廷已经结婚，张鸿却逐渐对他产生了爱恋。随着故事的发展，张鸿决定利用自己的研究成果对李廷进行性转手术，实现他内心的渴望。在某些情节中，李廷的婚姻被证明并不幸福，张鸿在得知林琪与其他男子出入酒店后，感到心痛。在一系列的阴谋与计划中，张鸿慢慢接近李廷，并试图通过药物影响他对未来的看法。文中详细描写了张鸿的心理变化，李廷的情感挣扎，以及两人之间日渐发展的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_性转邻居的爱恋.doc]([变性]_性转邻居的爱恋.
 | Size            | 47104 bytes                           |
 | MD5             | 6cee4d14bf1b6874ff5d266ed9e3ed8b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 男娘, 生物研究, 情感纠葛, 强烈的性吸引, 婚姻问题, 性欲释放, 心理冲突, 生活困扰, 爱情与欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

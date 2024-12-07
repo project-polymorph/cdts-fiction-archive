@@ -7,7 +7,7 @@ TXT 下载: [[改造]_赞托星的女人们（3）_(2).docx]([改造]_赞托星�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《赞托星的女人们（3）_(2)》包含了一系列关于性别转变和跨性别主题的情节，主要围绕主角汤米·史密森在赞托星的经历展开。故事中，汤米在接受变身后，发现自己拥有了女性的身体和两性特征，体验到了前所未有的快乐和自我认同。他尽情享受着女性的生活，尽管内心仍有对自身身份的冲突与思考。同时，另一个主角杰瑞·弗雷克在被迫转变为女性的过程中，面临着身份认同的危机和无法接受变成女人的现实，角色间的互动充满了张力与复杂的情感纠葛。整体文本富含较强的性暗示和生动的性描写，涉及的情节可能包含限制级内容，主要立足于探索性别认同与生理性别之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_赞托星的女人们（3）_(2).docx]([改造]_赞托星�
 | Size            | 50712 bytes                           |
 | MD5             | 059b2719a2fc572b3f683c7923a67100                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 性转小说, 双性人, 伪娘, 变身, 爱情, 自我认同, 角色冲突, 科幻, 强烈情感, 女性视角, 情欲描写, 心理探索, 异世界, 科技幻想, 激烈互动, 复杂关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_华代系列同人_邮轮之旅.docx]([其他]_华代系�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为关于华代系列同人小说《邮轮之旅》的内容摘要，主要围绕主人公真城华代与一名神秘少女之间的互动展开。故事设定在一场奢华的酒会上，参加者包括各类毒枭、黑道头目及政治家，气氛紧张且充满阴谋。华代自信满满地接受委托，为顾客解开心中的烦恼，并与一个白发小女孩进行奇异的对话。少女名叫‘华代’，她拥有特异的能力，能看到别人看不见的事物，并主动请求帮助。两者的关系充满神秘感，伴随着是关于复活、灵魂、和内心探索的深刻讨论。整体情节涉及动作、惊悚和超自然元素，以及对性别认同的隐秘探讨，整体风格呈现出独特的幻想色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_华代系列同人_邮轮之旅.docx]([其他]_华代系�
 | Size            | 22373 bytes                           |
 | MD5             | 585d88de6535bf3a5575a7b4685ed1ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 奇幻, 变身, 少女, 酒会, 心理探讨, 灵魂复活, 黑道, 超能力, 自我探索, 内心烦恼, 神秘少女, 邮轮, 华代系列                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

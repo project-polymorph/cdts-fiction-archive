@@ -7,7 +7,7 @@ TXT 下载: [[变身]_学校里的TS故事　第一话・里.doc]([变身]_学�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说以立川的视角描绘了一系列关于爱与变身的故事开端。故事开始时，立川是教师，深爱着他的学生春香女士，但两人之间的关系因年龄差距而显得有些复杂。在一次表白后被拒绝后，立川发现自己处于一种失去意识的状态，醒来时赫然发现自己竟然变成了春香的身体。故事详细描述了立川在春香身体中的探索过程，体验着作为女性的感受和对自身性别的困惑。他的心灵与春香的身体之间的碰撞，引发了剧烈的情感冲突与身份认同探索，期间又与其他角色的互动增添了情节的复杂性。文本中带有成人向的内容，涉及性别认同、情欲表达等敏感主题，适合于研究变身与性别认同相关的文献。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_学校里的TS故事　第一话・里.doc]([变身]_学�
 | Size            | 40960 bytes                           |
 | MD5             | 4b633bb3b0cfdc5a70b96660f91d0670                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 爱情, 师生恋, 女性认同, 自我探索, 性别转变, 校园故事, 奇幻, 身份认同, 青春, 禁忌, 性别困惑, 情感纠葛, 性别差异, 双重身份, 幻想文学, 情欲, 成人向, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【碟中谍】龙蛇变（第四章）.doc]([皮物]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘 TS 变身与跨性别相关小说档案馆中的一部分，主要描绘了角色飞龙和晴雪的潜入任务，任务过程中涉及到角色的性别伪装以及复杂的互动。文中描述了飞龙如何伪装成女性角色克丽丝，装扮细节包括穿戴假乳房、变声器、以及在生物制药研究所执行秘密任务的情节。文本中还涉及到飞龙与罗斯博士之间的互动，包含了较为露骨的性描写，体现了强烈的性暗示和一定的色情内容，对于性别认同与角色转换有一定探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【碟中谍】龙蛇变（第四章）.doc]([皮物]_【�
 | Size            | 29696 bytes                           |
 | MD5             | 85d64e733bd7ef4faaa3847219097a9a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别伪装, 跨性别, 强奸, 淫荡, 调教, 克丽丝, 角色扮演, 药物改造, 军事行动, 秘密任务, 性别认同, 自我探索, 科技幻想, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

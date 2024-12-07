@@ -7,7 +7,9 @@ TXT 下载: [[改造]_绝对隐匿（求码文从发）_(2).docx]([改造]_绝�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇围绕伪娘与跨性别主题的小说，内容通过几位人物的互动展现了对性别认同、自我探索和情感关系的思考。故事围绕主角刘若希与她的爱人水月，以及他们在海滩的浪漫假期展开。开头描绘了两位美女在阳光沙滩上的嬉戏，引发了旁观者的好奇与向往。随着情节的推进，刘若希和水月讨论了结婚及其纪念日的安排，展现了她们在性别角色与社会期待之间的微妙关系。
+
+刘若希作为一名变装特工，与水月的关系复杂且充满情感。他们之间的对话带有幽默与亲密，充满了生活的细节与性别认同的冲突。在故事中，刘若希表现出了对于男性与女性身份的双重体验，她乐于展示女性的一面却又在意外中探索了男性角色的表现。在一个看似平常的假期中，二人不断玩味着婚姻生活中的小细节，也在不经意间探讨了更多与性别与身份认同相关的深层次议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_绝对隐匿（求码文从发）_(2).docx]([改造]_绝�
 | Size            | 38201 bytes                           |
 | MD5             | 63d7c4c4b76cd716153899749e30f713                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 跨性别, 爱情, 婚姻, 自我探索, 性别认同, 海滩假期, 情感关系, 二次元, 神秘特工, 生活琐事, 幽默, 农村生活, 社会期待, 角色扮演, 情感冲突, 身体认同, 人际关系, 特殊身份, 变身小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

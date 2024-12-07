@@ -7,7 +7,9 @@ TXT 下载: [[附身]_《血的替身》第三章.doc]([附身]_《血的替身�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章是《血的替身》的第三章，主要扩展了故事世界观，推动了主要剧情的发展。在这个章节中，主角遭遇了敌人正义的使者，并展开了一场惊心动魄的搏斗。故事设定在一个名为X区的地方，此地因贪污事件而被遗弃，成为犯罪分子的藏身之地。章节开头描绘了一位年轻少女在黑暗小巷中的孤独情景，她在面对三名混混的恐吓时表现出极大的冷静与无畏，甚至不以他们为畏惧。随即，一只食尸鬼般的怪物出现，展开了一场关于猎杀与挣扎的对峙。少女毫不惧色，她用传统的手枪和神秘的力量与怪物展开搏斗，展示了她强大的能力和丰富的战斗经验。
+
+最终，少女使用特制的束缚弹成功制伏了怪物，证明了其作为雇佣兵的实力。章节的结尾部分，年老的神父出现，他对受伤的混混施以怜悯，揭示了即使在绝境中仍有救赎的可能，带出深刻的人性探讨与救赎意识。该章节包含了激烈的打斗场面和对人性深刻的思考，适合喜爱动作与悬疑题材的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_《血的替身》第三章.doc]([附身]_《血的替身�
 | Size            | 44544 bytes                           |
 | MD5             | 3eef509dae965e97091a53c781224888                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 食尸鬼, 雇佣兵, 人性探讨, 暗巷, 神秘力量, 救赎, 动作, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

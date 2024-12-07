@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_穿上凯特-1.docx]([皮物]_穿上凯特-1.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《穿上凯特》是一篇围绕性别转换主题的小说，讲述了主角迈克在等待女友凯瑟琳完成变身过程中的心理变化和互动。故事设定在一个专业的变身诊所，迈克提前到达，并与女接待员进行了一番交流。接待员凯兰崔尔的神秘和吸引力形成了故事中的另一条线索。随着凯特的变身完成，迈克惊讶于凯特所变为的人皮衣服，并探讨了他们之间复杂的性别认同和关系问题。文中包括了心理冲突和情感交流的细腻描写，突显了角色间的性别流动和自我认知的变化。小说包含了一些可能的限制级内容，以及对性别认同和人际关系的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_穿上凯特-1.docx]([皮物]_穿上凯特-1.docx)
 | Size            | 26643 bytes                           |
 | MD5             | 29ac67c5baa79d1649f7c3bbc6bf9329                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Blot（翻译：czq123）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 跨性别, 人皮衣服, 心理冲突, 爱情, 奇幻, 自我认知, 异性恋, 变嫁, 角色扮演, 等待室, 诊所, 小说, 成人内容, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

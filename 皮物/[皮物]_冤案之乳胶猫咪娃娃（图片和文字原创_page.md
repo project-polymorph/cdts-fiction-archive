@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_冤案之乳胶猫咪娃娃（图片和文字原创.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容为一部以性转和改造为主题的小说，讲述了主角123因被指控强奸罪而被改造成乳胶猫咪娃娃的过程。故事设定在一个机械化的法庭，123在被判决后，被迫接受了一系列的身体改造，最终变成一个活人娃娃，丧失了人类的身份和记忆。小说通过机械法庭的描绘，表现出对性别认同和自我认知的深刻探讨。在被强行穿上乳胶衣并覆盖猫咪头套后，123无法抵抗，逐步接受了成为娃娃的命运，甚至在最后的意识改变中，忘却了自己人类的身份，沦为享受快感的物体。该小说涉及强制改造、性别身份变化等元素，情节较为露骨，适合对跨性别和性转文学感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_冤案之乳胶猫咪娃娃（图片和文字原创.docx](
 | Size            | 17504 bytes                           |
 | MD5             | 95728e9ff0cb09a4c96a33c8e0d38022                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 乳胶衣, 猫咪娃娃, 机械法庭, 性转, 情感剥夺, 自我认知, 强制改造, 意识改变, 暴力, 强奸, 控制欲, 角色扮演, 性别认同, 极端情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

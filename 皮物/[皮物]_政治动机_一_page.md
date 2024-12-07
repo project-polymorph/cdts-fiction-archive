@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_政治动机_一.doc]([皮物]_政治动机_一.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章以参议员约翰·克拉克和他的妻子苏茜的生活为背景，揭示了在权力与金钱的光环下，这对夫妻所经历的复杂关系。故事从苏茜的视角出发，描述了她如何在华盛顿的社交圈中孤独和寂寞，最终导致她对婚姻的不满。文章详细描述了苏茜对美丽、金钱和权力的渴望，她在公众场合的光鲜亮丽和内心深处的挣扎，使她内心对丈夫的政治生涯感到不满。随着故事的发展，感情的裂痕逐渐显现，苏茜在面对丈夫性功能障碍的情境下，内心深感失望与压抑，最终萌生离婚的念头。在多次宴会与公众活动中，她渐渐意识到自己的价值与幸福不应完全依赖于对方，故事通过其内心独白与对话的描绘，展现了她的心路历程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_政治动机_一.doc]([皮物]_政治动机_一.doc)
 | Size            | 61952 bytes                           |
 | MD5             | 81cbd8d031cdafb046a079e8375de146                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 权力与金钱, 婚姻危机, 性别认同, 自我探索, 都市生活, 女性视角, 复杂关系, 家庭矛盾, 政治丑闻, 情感纠葛, 伪娘, 男娘, 强奸, 调教, 贞操锁, 催眠, 多角恋, 转变与认同, 情欲, 情感压抑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

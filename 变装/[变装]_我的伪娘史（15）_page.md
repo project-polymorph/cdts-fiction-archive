@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的伪娘史（15）.docx]([变装]_我的伪娘史（1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个伪娘角色在市中心步行街购物的经历，充满了对自我身份的探索和内心冲突。主人公在车上与路人调侃的互动展示了他与他人之间的距离与亲密感。进入内衣店后，他犹豫不决，显示出对自己性别认同的不安。经过售货员的鼓励，主人公选择了一些内衣，并在试衣间感受到紧张与期待的混合情绪。随后，他又进入运动服饰店，毫不掩饰地寻求自己想要的服装。这一系列的购物过程描绘了伪娘角色的生活细节，同时涉及众多社会性别角色的探讨与挑战。整篇文章通过细腻的语言描写了主人公的心理变化和外界的反馈，表现出质疑与接受之间的微妙关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的伪娘史（15）.docx]([变装]_我的伪娘史（1
 | Size            | 16605 bytes                           |
 | MD5             | 7e8ced2da7a6155fe3d813df0e5cc38e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性别认同, 购物经历, 青年故事, 自我探索, 内衣店, 生活细节, 运动服饰, 都市生活, 女性形象, 性别转换, 角色互动, 心理冲突, 服装选择, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

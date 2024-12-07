@@ -7,7 +7,7 @@ TXT 下载: [[改造]_真实事件：来自斯塔拉的改变.doc]([改造]_真�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《真实事件：来自斯塔拉的改变》，由原作者KT创作，译者为露娜·埃葵斯。文件通过叙述一个名为斯塔拉的女孩的真实经历，详细描绘了她在1998年被绑架至印度孟买后的悲惨生活。斯塔拉原为一名名为拉维的男孩，在被绑架后经历了长达两年的非人折磨，遭受阉割和药物注射，最终被迫成为妓女。文件中提到斯塔拉在妓院的生活，强调她被强迫与顾客进行性行为，并且对这些行为的被迫性进行了生动细致的描写。斯塔拉在多次经历后终于逃回家乡，并开始接受媒体采访，为那些曾遭受相似痛苦的女孩发声。文件不仅仅是个人经历的简单叙述，还深刻反映了性别认同与生存权利的问题，揭露了人性阴暗面及社会的盲点。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_真实事件：来自斯塔拉的改变.doc]([改造]_真�
 | Size            | 29696 bytes                           |
 | MD5             | 200d85ba56583660d41a142f8ccbc8ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | KT                               |
+| Region          | 印度                               |
+| Date            | 1998-04                                 |
+| Tags            | 真实故事, 性别认同, 强制变性, 性别暴力, 妓院生活, 人贩子, 女性经历, 社会反思, 跨性别故事, 自我探索, 逃脱故事, 生存权利, 人权问题, 心灵创伤, 性别歧视, 代入感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

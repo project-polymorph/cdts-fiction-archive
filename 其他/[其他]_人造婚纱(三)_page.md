@@ -7,7 +7,7 @@ TXT 下载: [[其他]_人造婚纱(三).doc]([其他]_人造婚纱(三).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《人造婚纱（第三册）》详细描绘了秦娜和吴雯雯之间复杂的关系，以及秦娜对性别认知的挣扎。故事中，秦娜是一个有着传奇背景的年轻女性，家境贫苦但学习优秀，因被吴雯雯资助而在大学中表现出色。随着故事的发展，秦娜的情感逐渐集中在吴雯雯身上，同时也对吴雯雯即将与她的男友张鸣结婚这一消息感到极度不安。随着时间推移，秦娜通过神经溶液的研究，尝试了一种疯狂的方式来实现代替张鸣，来获得和吴雯雯的爱情。文中涉及到性别认同、自我探索等主题，展示了秦娜对自身性别的否认与痛苦，以及她的疯狂决定可能带来的后果。文中含有一些成人内容及心理和生理冲突，情节紧凑且引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_人造婚纱(三).doc]([其他]_人造婚纱(三).doc)
 | Size            | 39936 bytes                           |
 | MD5             | b51dfeb632b0c6f1d954dbd5f76c1546                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我探索, 神经溶液, 爱情, 纯爱, 女同性恋, 变嫁, 科幻, 实验室, 幻想, 医疗, 神经改造, 女性角色, 情感纠葛, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

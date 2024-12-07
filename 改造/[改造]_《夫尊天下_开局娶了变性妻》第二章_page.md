@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《夫尊天下_开局娶了变性妻》第二章.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《夫尊天下_开局娶了变性妻》第二章详细描述了角色古月乾在婚后的生活。故事围绕着古月乾的家庭背景和个人经历展开，在这一章中，他的父亲提出了一些奇特的条件，涉及生育和夫妻关系的约定。文件开头引述了一个幽默的金句——“天下的问题，八成能用钱来解决”，展现了故事的轻松与幽默风格。古月乾被迫学习做菜，以获得妻子的欢心，并且对父母的言论充满怀疑。在这章中，我们可以看到古月乾面对来自父亲关于家庭和责任的教诲，逐步接受并理解这些变化，同时也带有父亲与吴芍之间的复杂情感。他们的过去交织着变性的主题，以及对亲情与爱情的探讨。整体上，这一章表现出了一种关于性别、身份认同和家庭责任的深入思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《夫尊天下_开局娶了变性妻》第二章.doc]([�
 | Size            | 44544 bytes                           |
 | MD5             | eb22eb938bf8443fd7b6be0a0b6f5d2b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | q344164202                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 恋爱, 家庭关系, 鸡汤, 厨艺, 父子对话, 变身小说, 伪娘, 婚姻契约, 变嫁, 性别转换, 自我认知, 古代, 剧情发展, 角色成长, 爱情与责任, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[翻译]叶子-01.docx]([变身]_[翻译]叶子-01.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别及变身相关小说，名为《{'变身'_[翻译]叶子}》的第一节。故事围绕查尔斯和他的养母卡瑞茵一同处理苏珊婶婶遗留下来的包裹展开。包裹中包含一些不值钱的物品，其中一块叶子状的金属引起了查尔斯的注意。查尔斯在清洗该金属物品后，发现其上面有字，暗示着它可能具备实现愿望的能力。卡瑞茵在经过愿望的许诺后，意外地变成了一名英俊的男性，并成为了银行的副总裁。本文件展现了性别与身份认同的复杂关系，以及个人对适应和变化的应对方式。故事内容涉及家庭、性别角色交替，以及愿望实现后可能带来的混乱。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[翻译]叶子-01.docx]([变身]_[翻译]叶子-01.docx)
 | Size            | 23585 bytes                           |
 | MD5             | 46e90293edadfb9df8f5ed1c11f8c736                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 奇幻, 自我探索, 家庭关系, 性别角色, 愿望实现, 魔法, 养子与养母, 性转, 小说, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

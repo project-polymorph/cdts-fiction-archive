@@ -7,7 +7,7 @@ TXT 下载: [[改造]_美国梦（上）.doc]([改造]_美国梦（上）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇有关美国加州新通过的一项法案的小说，法案旨在反对性别歧视，推进性别平等。故事设定在科技公司‘佩里迪克’，围绕着一位名叫安迪的男性技术骨干展开。安迪渴望进入公司筹备的董事会，却因新法案要求董事会中必须有女性成员而感到困扰。对此，公司的CEO马克提到一个非营利组织‘爱与和平’的方案，安迪被建议接受心理治疗和参与社会活动，以获得受女性员工的身份。安迪最终决定参与这个秘密计划，并开始了他的心理及角色体验之旅。通过进入一个虚拟现实（VR）体验，安迪以女性身份感受了来自社会角色的压力，涉及性别认同、自我探索等主题，情节中也包含性骚扰和权力关系等敏感话题。小说通过安迪的困境探讨了职场性别平等的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_美国梦（上）.doc]([改造]_美国梦（上）.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 55808 bytes                           |
 | MD5             | e2dfc84230d6c4d9e2134eb0b1b015a2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 科技公司, 性别平等, 心理治疗, 虚拟现实, 性别认同, 自我探索, 职场困扰, 非营利组织, 心理项目, 权力关系, 男性角色, 女性身份, 变性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_MGK.docx]([其他]_MGK.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名名为久美子的女性职员与部门领导之间的奇特互动。在一个安静的办公室里，久美子问部长是否还在工作，之后她在部长的鼓励下开始解开衣领，试图表现出她的魅力。部长拿出他自己发明的MGK（妄想具现化照相机），通过妄想来改变久美子的形体，随后久美子的外貌发生了变化，出现了一些夸张的特征，并引发了一系列尴尬和刺激的对话。这段对话中涉及了不少性暗示和开放的性讨论，逐渐发展为一场明显的性行为描写。在小说中，通过一种奇特的魔法机械与角色之间奇异的互动，探讨性别认同和身体变化的主题。虽然最终久美子希望恢复成原样，但经过一系列的试探与混乱后，部长却设置了一个新的情节，让久美子保留了一个小小的阴茎，以防被其他男人抢走。这使得故事的结尾既有喜剧成分，又充满遗憾与探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_MGK.docx]([其他]_MGK.docx)
 | Size            | 19020 bytes                           |
 | MD5             | 8156378a1a5e33497da6615d55247a07                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 性幻想, 办公室情节, 妄想具现化, 成人内容, 性行为, 自我探索, 性别转换, OL角色, 奇幻科技, 魔法, 二次元, 恋爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

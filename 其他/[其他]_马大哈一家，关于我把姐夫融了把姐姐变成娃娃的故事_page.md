@@ -7,7 +7,7 @@ TXT 下载: [[其他]_马大哈一家，关于我把姐夫融了把姐姐变成�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及奇幻和跨性别主题的小说，讲述了年轻人马大哈在一次意外情况下，把他的姐夫王强误用了一种变身液体，导致姐夫的身体逐渐变得透明，最终化为一滩液体。故事从马大哈在姐姐家寄宿的日常生活开始，描绘了他对姐夫和姐姐的感激之情。他在网上无意中接触到一个异乎寻常的网站，并点击了一个看似无害的链接，结果收到了一瓶声称可以将人变为液体的饮料。马大哈最初并不在意，然而当姐夫误饮了该液体后，事情迅速演变为一场闹剧，姐夫的身体开始逐渐溶化，最终化作液体。为了拯救姐夫，马大哈依照说明书的指导，将姐夫的液体形态置入了一个假人娃娃中，企图将其固化成型，但却出现了意外的情况。整个故事充满了奇幻与科幻的色彩，同时涉及了性别转变、自我认知等复杂的主题，带有一定的色情暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_马大哈一家，关于我把姐夫融了把姐姐变成�
 | Size            | 95744 bytes                           |
 | MD5             | e731a29b3cc9401d09d5fc92a867fdfb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 强奸, NTR, 变身, 调教, 百合, 变嫁, 女体化, 异世界, 科幻, 魔法, 虚拟现实, 青春, 都市, 剧情, 爱情, 探索自我, 兄弟情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

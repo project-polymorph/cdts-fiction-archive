@@ -7,7 +7,7 @@ TXT 下载: [[改造]_幸福。洗腦。魔法少女。.doc]([改造]_幸福。�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容为一部关于魔法少女与怪人战斗的小说片段。故事开篇描写了一场充满混乱与恐惧的怪人袭击，魔法少女出场拯救市民，展现出她们超凡的力量。文中提到了一位名为'神力粉红'的著名魔法少女，她的战斗场景生动地描述出她对抗巨大的岩石怪人的紧张时刻。随着情节的发展，作者深入描绘了魔法少女的力量与责任感，而同时，怪人对市民的威胁依然加剧。随着故事的展开，男主角经历了一次剧烈的身体与意识的转变，这一过程透过魔法少女的注射行为，使他转变为少女形态，探索性别与自我认同的主题。此外，文中包含了对急救、神秘力量以及战斗的描述，展示了一个富有幻想色彩的异世界背景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_幸福。洗腦。魔法少女。.doc]([改造]_幸福。�
 | Size            | 47104 bytes                           |
 | MD5             | a04996270907631266c4e9c06e4ad56c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 变身, 性别转换, 奇幻战斗, 日常生活, 城市幻想, 自我认知, 超能力, 二次元, 幼女, 动物耳朵, 少女力量, 反乌托邦, 虚构角色, 心理剧, 魔法, 救赎, 英雄主义, 单恋, 时空穿越, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

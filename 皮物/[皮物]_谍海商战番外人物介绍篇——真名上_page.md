@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_谍海商战番外人物介绍篇——真名上.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为“谍海商战”系列的番外人物介绍篇，重点在于解析主角Z的背景和心理状态。故事发生在一个充满不安和空虚感的现代都市，Z，原名林风，身处祖国的一个豪华酒吧中，回忆起自己复杂的身份与过去。随着酒精的浸润，Z似乎在反思他作为特工的孤独与寂寞，以及与其兄弟林军的重聚，这突显了人物之间深厚的情谊和复杂的情感纠葛。文中多次提及Z的真实身份和伪装生活，暗示着他在组织中的地位与责任，探讨了身份认同与亲情之间的矛盾。此外，文件对人物的描写细致入微，突出其俊美外形与内心情感的冲突，展示了一幅颇具张力与吸引力的现代时代背景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_谍海商战番外人物介绍篇——真名上.docx]([�
 | Size            | 21138 bytes                           |
 | MD5             | 6916d4a73ffd39562f583b3bae3d39a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 情感纠葛, 特工, 孤独, 酒吧, 情绪, 自我认同, 兄弟情, 身份危机, 寂寞, 现代都市, 任务, 复杂关系, 变身, 青春, 自我探索, 爱与友谊                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

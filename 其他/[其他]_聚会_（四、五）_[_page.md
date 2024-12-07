@@ -7,7 +7,7 @@ TXT 下载: [[其他]_聚会_（四、五）_[.docx]([其他]_聚会_（四、�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容描绘了一名角色在意外事故中，亲历恐怖经历的奇幻故事。故事的开端是主角与周蓉在电梯内发生意外，电梯坠落。随后，周蓉的身体在电梯中神秘地融化，留下的只有衣物和一层薄薄的人皮。主角在面对周蓉的变故时，心中既恐惧又充满疑惑，思考着如何向外界解释这一切。随着情节发展，主角发现自己能够通过穿戴周蓉的人皮而变成她的身体，并在这个过程中经历了身心的巨大变换。他换上了周蓉的衣物，并尝试从她的生活中获得体验，同时借用她的身份去上班，而这一切带来的不仅是对自身身份的重新认知，还有在公司生活中即将面临的各种挑战和他人的视线。这是一个涉及性别认同、角色扮演及自我探索的奇幻故事，夹杂着幽默与惊悚的元素，探索了体态与身体认同之间错综复杂的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_聚会_（四、五）_[.docx]([其他]_聚会_（四、�
 | Size            | 23729 bytes                           |
 | MD5             | 1da4493cb5b7d94e8863b4d4831b0e62                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 跨性别认同, 恐怖, 幻想, 自我探索, 角色扮演, 奇幻, 爱情, 女仆, 女体化, 职业女性, 电梯事故, 魔法, 身体交换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

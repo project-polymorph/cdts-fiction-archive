@@ -7,7 +7,7 @@ TXT 下载: [[变性]_妖媚女警探（1-3）_[.docx]([变性]_妖媚女警探�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《妖媚女警探（1-3）》是一部围绕跨性别和变性题材的小说，讲述了一名男警察周正方的故事，他在接受一项卧底任务后经历了身体与心理的重大转变。故事设定在W市，主角在变性手术后，化身为女警周莹莹，以识别和抓捕毒贩。在第一章中，周莹莹以引人注目的形象出现在警局，掀起了会议室内的惊讶和欲望，并回忆起自己短短一个月期间所经历的变身过程。她的任务是伪装成毒枭的女儿，与犯罪团伙接洽，然而在潜入过程中，她面临着多重身份与心理上的挑战。文中详细描绘了周莹莹的外貌和她所遭遇的反转剧情，同时探讨了性别身份与自我认同的复杂关系。内容中夹杂色情与暴力元素，尤其是周莹莹在卧底过程中所承受的身心折磨和挑战，一方面展现了她的勇气与决心，另一方面也体现出社会对变性人群体的偏见和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_妖媚女警探（1-3）_[.docx]([变性]_妖媚女警探�
 | Size            | 36374 bytes                           |
 | MD5             | b5c9897179dab03891da3d171835dd51                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 卧底, 跨性别, 毒品, SM, 性别认同, 自我探索, 警探, 变身, 强奸, 调教, 年龄差, 恶魔, 都市, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

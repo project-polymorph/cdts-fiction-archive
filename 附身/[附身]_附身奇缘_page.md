@@ -7,7 +7,7 @@ TXT 下载: [[附身]_附身奇缘.docx]([附身]_附身奇缘.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于王宇大学生活的小说，主要描绘了他与舍友韩阳的日常互动及其在校园内对女神叶玉雪的暗恋。故事开始于王宇的大学生活，他表现出极大的兴奋与期待，和舍友们共同经历了一些新鲜事。在逐渐展开的情节中，许杰通过一个神秘的小盒子控制了叶玉雪的身体，并有着暧昧而色情的互动，忠实再现了角色之间复杂的心理与性别认同的交锋。随着剧情的发展，王宇和韩阳也涉及到身份交换和性别转换，小说在描绘角色性别转变、身体占有和自我探索方面表现出一定的深度，同时融入了较多的色情元素，如身体改造、调教等情节。小说内容丰富，层层递进，充满了紧张感与冲突，特别是角色心理与身体变化的描写，使得这一故事在性别和性方面引人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_附身奇缘.docx]([附身]_附身奇缘.docx)
 | Size            | 17065 bytes                           |
 | MD5             | 3e32b042db1ddf9eae306d39fbfc9e13                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 都市, 奇幻, 青春, 性别认同, 阴道, 身体交换, 调教, 校园生活, 身体占有, 情感探索, 角色扮演, 灵魂互换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

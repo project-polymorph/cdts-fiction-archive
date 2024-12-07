@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_罪恶契约（八）、（九）替代，然后扮演.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《罪恶契约》的第八章与第九章的内容，结合了奇幻和冒险元素，主要围绕角色贝芙和摩黛丝提二人的冒险经历展开。故事开场时，贝芙推开地门，进入庭院，四周环绕着人类的尸体，这些尸体均穿着精良的护甲，显示出他们的身份为奥洛妮夫人的侍卫。通过摩黛丝提的观察，尸体无血无伤，表明他们可能遭到了特别的攻击。在探索塔楼的过程中，摩黛丝提和贝芙遭遇了名为姬尔的魅魔，具备强大力量，她用挑衅的方式与摩黛丝提展开交锋。随着故事的发展，摩黛丝提决定吸引魅魔的注意力，帮助贝芙逃往楼梯以寻找奥洛妮夫人的下落，展现出角色间的关切和牺牲。该章节充满紧张感，描绘了魔法与战斗交织的场景，并引发了对角色身份和命运的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_罪恶契约（八）、（九）替代，然后扮演.doc
 | Size            | 42496 bytes                           |
 | MD5             | 449a7eb11858574e83f5f12cdecfb958                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 冒险, 变身, 魅魔, 自我探索, 魔法战斗, 塔楼, 角色关系, 性别认同, 心理冲突, 吸引注意, 求生, 家庭关系, 女性角色, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_锁中蔷薇.doc]([改造]_锁中蔷薇.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《锁中蔷薇》，内容涉及性别转换与跨性别主题的小说。故事围绕一个名叫王嘉飞的年轻警察展开，他因接触到一些复杂的势力而被卷入了一系列危险的阴谋中。在这个过程中，王嘉飞不仅要面对权力的斗争，还要经历一场身体和心理上的重大变革。小说中有大量描写男女主角之间的亲密关系，涉及生理交合过程的详细描写，以及未来如何改造王嘉飞成为一个生理性别与身份认同冲突的实验体的情节。文章的开头描述了王嘉飞与其女友之间热烈的亲密瞬间，并逐渐引入了对王嘉飞未来命运的不确定性和转变。文件中包含了大量成人内容，且对人物的生理特征及情感冲突进行了深入探讨，特别是关于王嘉飞被转变为实验体的过程，文中详细描写了医学实验与身体改造的心理压力与痛苦体验。整体情节设计紧凑，含有明显的性别认同与角色转变的主题，是研究跨性别与性别认同的重要文本。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_锁中蔷薇.doc]([改造]_锁中蔷薇.doc)
 | Size            | 85504 bytes                           |
 | MD5             | 50ae59f5bd14cee06858026381b58466                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 孔雀佳人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 变装, 警察, 成人文学, 医学实验, 身体改造, 自我探索, 情欲, 权力斗争, 性别认同, 角色转变, 妓院, 禁忌恋, 阴谋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

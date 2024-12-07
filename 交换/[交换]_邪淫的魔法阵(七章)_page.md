@@ -7,7 +7,7 @@ TXT 下载: [[交换]_邪淫的魔法阵(七章).docx]([交换]_邪淫的魔法�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇名为《邪淫的魔法阵》的小说的第七章，故事情节围绕着几位角色在医院中经历身体互换的奇异事件展开。在诡异的医院走廊中，身穿白大褂的Lleh医生带领八位男女角色穿越了各个病房，随着故事的发展，角色们逐渐感受到身体上的不适与心理上的冲突。名为刘德明的角色在医院中感觉视力欠佳，且注意到她所处的环境充满诡异的氛围。在候诊室中，角色们讨论各自身体的状况，感受到身为‘大叔’的身体的不适与恐慌，尤其是一些角色因性别的改变而感受到的身份危机与自我认同的挑战。故事以对话与内心独白穿插，揭示出角色们在变身与性别互换后面对的冲突情绪及对未来的担忧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_邪淫的魔法阵(七章).docx]([交换]_邪淫的魔法�
 | Size            | 23192 bytes                           |
 | MD5             | f828951842290035fbdf8be330d23ab8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 身体互换, 心理冲突, 自我认同, 医院, 幻听, 性别危机, 奇幻, 恶心, 身份认同, 心理治疗, 精灵女孩, 黑色幽默, 角色扮演, 诡异事件, 内心独白, 生理不适, 关系交错, 社会性别研究                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

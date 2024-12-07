@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的连裤袜假期3.docx]([变装]_我的连裤袜假�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇关于性转与变装主题的小说，讲述了一个名叫杰米的男孩在穿着丝袜的体验与自我认同过程中的情感纠葛。故事从杰米的妈妈递给他一双性感的黑色连裤丝袜开始，杰米在穿着丝袜的过程中感受到了一种前所未有的舒适与性感。他对此感到迷惑，但同时也享受这种感觉。在教堂的一天中，杰米与妈妈、姐姐及同学们的互动中，展现出了他对穿丝袜的接受与挣扎。故事的情节涉及到了性别认同、探索自我、朋友之间的秘密以及潜在的性暗示，尤其是杰米与同学萨曼莎的亲密接触，充满了暧昧与诱惑的气氛。通过这样的情节安排，小说探讨了青春期对性别与身份认同的质疑和探索，蕴含了丰富的心理变化和社会互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的连裤袜假期3.docx]([变装]_我的连裤袜假�
 | Size            | 22786 bytes                           |
 | MD5             | 1819cda6afd615e9aa83a50e68e6a9ae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 丝袜, 自我探索, 青少年, 教堂, 秘密, 性别认同, 情感纠葛, 校园, 暧昧, 心理变化, 社会互动, 性感诱惑, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

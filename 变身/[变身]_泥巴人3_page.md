@@ -7,7 +7,7 @@ TXT 下载: [[变身]_泥巴人3.docx]([变身]_泥巴人3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说主要讲述了一个名叫雷曼的角色经历了一次奇妙的变身，获得了一个新的、敏感的身体并与另一角色史密斯的暧昧互动。故事中提到雷曼对自己新身体的感受，以及与史密斯之间微妙的关系与性暗示。史密斯解释了唐金家的状况，并暗示雷曼需要适应新角色，甚至提到了唐金是一个在工作与家庭之间摇摆的重要人物。雷曼对这种改变感到愤怒，并对自己曾经的男性感到恐慌而失落。在故事进程中，她经历了身体上的快感与精神上的挣扎，在反抗与欲望之间搅动着。整个文中涉及到的情节有性别认同的探索、性欲的展现，同时包含了赤裸与调情的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_泥巴人3.docx]([变身]_泥巴人3.docx)
 | Size            | 22973 bytes                           |
 | MD5             | 092cb250bba3a5ecb389f853d1d50177                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 自我认同, 性别转换, 情感纠葛, 唐金, 史密斯, 性欲, 暗示性行为, 独白, 羞耻, 欲望, 幻想, 情感冲突, 身体快感, 女性角色, 性暗示, 强烈感官刺激, 小说, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

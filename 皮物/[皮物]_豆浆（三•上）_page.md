@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_豆浆（三•上）.docx]([皮物]_豆浆（三•上）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《豆浆（三•上）》是一部涉及性别转化和跨性别主题的小说，通过复杂的角色设定和情感发展，展示了主角在身份与自我认知上的挣扎和变化。故事围绕着一位自认为是男性的角色，在特殊情况下被迫体验女性身份的过程。在一间酒店的大堂，主角的生活因为与其他女性角色的相遇而发生了改变。故事中描绘了主角与李姐之间纠葛的情感，以及在工作和个人生活中对性别角色的无形探讨。
+
+文本包含了一些较为敏感的主题，如性别认同、自我探索及一些色情元素。这在酒店的情节设定中表现得尤为明显，伴随着对员工生活的深入描写和复杂的人际关系。在这一过程中，角色的内心变化及对之前自我的记忆反复交错，展现了一种富有戏剧性和象征性的情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_豆浆（三•上）.docx]([皮物]_豆浆（三•上）
 | Size            | 15823 bytes                           |
 | MD5             | 1e93c847887d7b2f85fd7315a0919adb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转化, 跨性别, 伪娘, 人物扮演, 自我认同, 性别认同, 黑色丝袜, 酒店故事, 同志情感, 复杂人际关系, 自我探索, 禁忌恋, 隐秘情感, 药物影响, 角色代入, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

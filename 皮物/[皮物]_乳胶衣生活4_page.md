@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_乳胶衣生活4.docx]([皮物]_乳胶衣生活4.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《乳胶衣生活4变身乳胶衣》讲述了一个角色在奇幻世界中经历了变身的故事，涉及性别转换和纳米科技的主题。文件中，主角在一片茫茫的白色空间中感受到无以名状的压力，逐渐意识到自己被变成了人皮。故事围绕着主角对于变身后状态的困惑与恐惧展开，描绘了他在新身份中对身体和意识的挣扎以及与外界的隔绝感。文中例如提到“我试着动一动身体，发现出了感觉以外，什么也做不了”表明主角的无力感，同时也揭示了他对自身身份的深刻思考。随着叙事的推进，主角被一名女性角色所操控，而她似乎是利用主角的身份达成某种目的，这使得故事呈现出悬疑与刺激的色彩。各类情节还涉及对外部环境的观察及对身体的反应，充满了奇幻而又略显恐怖的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_乳胶衣生活4.docx]([皮物]_乳胶衣生活4.docx)
 | Size            | 18028 bytes                           |
 | MD5             | b40700ee85d080050b7ad225fd9f0849                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 乳胶衣, 变身, 人皮, 性别转换, 纳米科技, 自我认知, 奇幻, 角色探索, 荒诞, 恐怖, 女性角色操控, 身体剥离, 心理挣扎, 奇幻世界, 情感表达, 超现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

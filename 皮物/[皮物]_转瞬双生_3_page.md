@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_转瞬双生_3.docx]([皮物]_转瞬双生_3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《转瞬双生》第三篇，主要讲述了杨艺与其女友婉瑜以及她的闺蜜李茉莉在商业中心相聚的情节。故事开端，两人正在等候李茉莉，杨艺因想和女友共度时光而感到无聊。随着茉莉的到来，三人相聚后讨论即将见到的明星胡不凡。在这个过程中，李茉莉展示了其独特的美丽和放松的个性，吸引了杨艺的注意力。故事进一步展现了她们之间的友谊、购物及对明星的狂热追逐，以及在生活细节中体现的现代都市情感。情节丰富，多次提到角色之间的互动与情感，如“婉瑜拉起她的手就向前走”，以及李茉莉对于时尚与明星的热爱交织在一起。
+
+整体内容涵盖了现代都市年轻人之间的情感和追星行为，展示出友谊、爱情与个人风格的交融，尤其是对外貌与自我认同的探索。这部小说属于性转与伪娘类型，角色的变化与情感转折展示了挑战传统性别角色的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_转瞬双生_3.docx]([皮物]_转瞬双生_3.docx)
 | Size            | 25012 bytes                           |
 | MD5             | 668773ea919b498a6a89a844702037c2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 购物狂欢, 明星追逐, 现代爱情, 友谊, 青春, 海报, 时尚, 女性视角, 强烈情感, 都市生活, 女性友谊, 紧张情境, 名人文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

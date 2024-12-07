@@ -7,7 +7,7 @@ TXT 下载: [[变装]_只要有心，人人可以是女神(中一)_[.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇涉及伪娘和变身主题的小说，描绘了主人公通过获得一瓶神奇药水，企图改变自己的身份，从而成为一个受到社会尊重和欢迎的高富帅角色。在回家的路上，主人公思考如何利用这瓶药水来换成理想的身份，并对周围的人和事有所观察，例如房东女儿的外貌与身份，以及与她们的互动。随着剧情的发展，主人公设下计划，使两位女性在喝下混合药水后出现反应，但事情并没有如他所愿的发展。文件文字中成段的对话和描述展现了主人公的想法与情感，描绘了他渴望变得更好的内心挣扎，以及对女性角色的物化与幻想。最后，药水的真实效果和后果让主人公意识到事情并非其所预想的那样，整个故事充满了对性别与身份认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_只要有心，人人可以是女神(中一)_[.docx]([变�
 | Size            | 24403 bytes                           |
 | MD5             | 3100b471a7d4915071a8a1dc8eb3bbb0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | maya_cat                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 性别认同, 自我探索, 身份转换, 欲望, 社会压力, 爱情幻想, 街头文化, 药水效果, 女性角色, 性别困境, 奇幻元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

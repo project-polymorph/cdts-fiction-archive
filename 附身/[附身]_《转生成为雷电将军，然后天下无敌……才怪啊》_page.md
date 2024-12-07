@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《转生成为雷电将军，然后天下无敌……才�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《转生成为雷电将军，然后天下无敌……才怪啊》的轻小说同人文，作者通过角色附身的设定，展示了主角凌铭在一个奇幻世界中，附身于女性角色雷电将军身上后的生活。故事以轻松幽默的方式，描绘了主角从一个普通的现代青年转变为拥有强大力量的女性角色的经历。这篇小说不仅探讨了角色的自我认知与性别认同问题，还带有一些反讽和社会评论，比如对网络文学内容的批评。文中涉及到的情节，包括主角对雷电将军身体的探索和日常生活，以及与雷电影之间的互动和冲突，展示了角色之间的复杂关系。整体风格结合了穿越、搞笑、爱情和性别转换的元素，是一部适合喜欢轻小说以及二次元文化的读者的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《转生成为雷电将军，然后天下无敌……才�
 | Size            | 73216 bytes                           |
 | MD5             | 8194c3434ef77e2e1caae13a30cf47f8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 轻小说, 附身, 性别转换, 幻想, 网络文学, 雷电将军, 搞笑, 自我认知, 角色扮演, 二次元, 性别认同, 穿越, 爱情, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

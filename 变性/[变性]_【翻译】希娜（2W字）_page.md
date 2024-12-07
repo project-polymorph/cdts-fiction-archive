@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】希娜（2W字）.doc]([变性]_【翻译】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《希娜》是由Jennifer Lorissa-Leigh创作，魔之天涯编译的一部伪娘与变身相关的小说，讲述的是主人公杰里米在大学里发现了一位美丽的科学家芭芭拉.凯瑞博士，她拥有一台神秘的机器，可以改变人的性别和性别特征。故事开头，杰里米一直在寻找失踪的朋友杰瑞，最终进入了一栋不为人知的旧建筑。在那里，他遇到了芭芭拉博士，她向他展示了一台名为“高潮制造机”的装置，声称这台机器可以让用户体验前所未有的快乐。随着剧情的发展，杰里米被迫面对自己的性别认同，最终经历了一系列身体变化，逐渐转变为女性的身份。这个变化伴随着强烈的生理反应和内心的挣扎，文中通过细腻的描绘展示了性别认同、自我探索与欲望交织的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】希娜（2W字）.doc]([变性]_【翻译】�
 | Size            | 75776 bytes                           |
 | MD5             | c3ef449d767ae8906390ffdb0f63d43d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jennifer Lorissa-Leigh / 魔之天涯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 性别认同, 自我探索, 高潮制造机, 科学幻想, 性别转换, 二次元, 实验室, 男女性别, 性欲, 身体变化, 宿命, 地下图书馆, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

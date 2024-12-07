@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【圣诞】赴宴（完稿）.doc]([附身]_【圣诞】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇关于性转变身题材的小说，主要围绕主角何敏琪的附身经历展开。故事描绘了她为参加一场重要的聚会而进行的外貌打扮，展现了她的内心挣扎和对美丽自信的追求。她购买了性感衣物，表现出由一个单身OL向魅力女性的转变。随着情节的发展，何敏琪感受到了一种奇妙的变化，她的身体、思维都经历了从男性身份到女性身份的转换。通过附身药，她不仅物理上变成了女性，同时也逐渐接受和认同新的身份。在聚会前的准备过程中，主角感受到了一阵冷却和暖流，这代表着她精神与身体的交织，随之而来的是对身体的性的觉醒并与女性的身体进行互动。整个故事探讨了内在认同、性别转换与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【圣诞】赴宴（完稿）.doc]([附身]_【圣诞】�
 | Size            | 54784 bytes                           |
 | MD5             | 77197ff5b0a3713b53db5cd2b274d5f2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 自我认同, 跨性别, 性感衣物, 女性意识, 内心挣扎, 成年女性, 聚会, 性别探索, 身体意识, 角色转变, 女性视角, 情感, 美丽, 魅力, 自信                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

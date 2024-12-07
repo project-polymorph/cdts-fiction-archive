@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_汉贼（十一）.docx]([皮物]_汉贼（十一）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《汉贼（十一）》讲述了东汉末年三国时期的故事，尤其围绕着著名历史人物蔡琰（蔡文姬）的经历展开。故事描述了蔡琰在内忧外患的动荡年代，被董卓的部下抓走后流落匈奴，成为南匈奴左贤王刘豹的妾室，生下二子。随着时代的变迁与权力的更迭，蔡琰最终被大汉赎回。文章还描绘了蔡琰复杂的情感，她在回归祖国后面临着亲生儿子与汉地的纠葛，以及重新适应汉朝生活的艰辛。故事中细腻的情感描写和对历史背景的刻画，使得这段历史故事生动而具有深度。文中特别提到由于曹操与蔡琰父亲的旧识，曹操对蔡琰极为关照，这增强了两人之间的人物互动戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_汉贼（十一）.docx]([皮物]_汉贼（十一）.docx)
 | Size            | 25858 bytes                           |
 | MD5             | c38b67a4f8ec40a24e70c82cc014ff77                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 汉贼, 蔡琰, 董卓, 三国, 情感, 权力, 历史, 流落, 匈奴, 大汉, 文姬归汉, 战争, 文化接触, 命运转折, 自我认知, 两难选择, 复归, 家庭关系, 士人, 宫廷, 东汉末年                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

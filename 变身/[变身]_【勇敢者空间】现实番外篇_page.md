@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【勇敢者空间】现实番外篇.doc]([变身]_【勇�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于角色林风在跨性别变身过程中的经历。故事开篇，林风在经历了一次系统变身后，醒来发现自己回到了现实世界，却以小女孩的身体出现在自己的房间内，甚至被迫穿着粉色舞蹈服。他对自己新的身份感到困惑与羞愧，努力适应这副身体，但发现许多事情都不如意，比如无法单独给自己的衣服解开拉链，最终不得不寻求变身前另一个角色盈盈的帮助。故事探讨了性别身份及自我认知的变化，林风在身心转变的过程中面临尴尬和挑战，充满了幽默而又感人的细节，包括他与盈盈的互动和对现实身份的重新思考。这种奇妙的经历揭示了性别认同和个人外表与内心之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【勇敢者空间】现实番外篇.doc]([变身]_【勇�
 | Size            | 36864 bytes                           |
 | MD5             | 452cc9f1219c1e23b20497d7764268f5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 自我探索, 角色扮演, 青春期困惑, 性别认同, 幽默, 成长故事, 奇幻, 少女情怀, 社会适应, 心理变化, 现实与幻想的交错, 尴尬情境, 相互依赖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

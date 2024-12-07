@@ -7,7 +7,7 @@ TXT 下载: [人格排泄症候群.docx](人格排泄症候群.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《人格排泄症候群》是一部围绕一种特异病毒展开的跨性别小说。在该作品中，病毒只感染女性，导致其体内排出一种粉红色的粘液，使患者进入类似植物人的状态。随着病毒的传播，政府设立了专门机构“铸格部”，利用特制的阴道塞"人格"帮助患者恢复正常生活。故事描绘了情侣之间的亲密关系，探讨了"人格"对性行为的影响以及身体控制的主题。作品中，女孩将自己的身体交由男生掌控，涉及到性别认同与自我探索等主题。在激烈的情节中，男生体验到通过控制女生身体而产生的奇特感受，与此同时，女生的个人意识却处于失去状态，表达了对身体权利的担忧和相关社会风俗的变化。整部作品以奇幻、科幻的方式，呈现出性别与身体认知的复杂交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [人格排泄症候群.docx](人格排泄症候群.docx)
 | Size            | 29866 bytes                           |
 | MD5             | b40574a0638b6bc819a1bd4ad9b23426                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 人格排泄症候群, 社会风俗, 身份认证, 病态爱情, 身体控制, 情侣关系, 自我探索, 政府干预, 奇幻科幻, 女性视角, 情感纠葛, 禁忌关系, 精神操控, 性爱, 成长与认同, 情感依存, 沉迷与掌控, 心理层面, 人偶化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[交换]_无题.docx]([交换]_无题.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇未命名的小说，内容涉及到跨性别主题和角色之间的身体交换。故事情节围绕一位勇者与魔族对话展开，从对人类和低等生物的认知到角色之间的力量与智慧借用，交织着哲学与肉体的探讨。对话中，勇者遭遇到了魔族的挑战，接受了与一位罪人的身体交换，表现出对这种转变的挣扎与思考。作品通过激烈的对话，展现了生物之间权力与生存的关系，敢于触及禁忌的主题，探讨了魔族与人类的智力差异。
+
+在后续情节中，勇者面临的并不仅仅是身体的交换，还有自身对食物和肉体的认知，角色之间对于“食物”和“精气”的理解乃至感官体验的探索，使该作品深刻地反映了性别身份与自我认识问题。文中也带有一定的色情色彩，描绘了角色在交换过程中的愉悦感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_无题.docx]([交换]_无题.docx)
 | Size            | 24773 bytes                           |
 | MD5             | 0c49ebe9fd392e713588774a81c9867c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 身体交换, 魔族, 勇者, 生物认知, 哲学, 肉体体验, 性别探索, 角色内心冲突, 食物隐喻, 禁忌主题, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

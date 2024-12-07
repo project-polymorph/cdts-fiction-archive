@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_寒蝉_·_异章_（壹）.docx]([皮物]_寒蝉_·_异章
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《寒蝉·异章（壹）》由作者pitypet创作，内容涉及伪娘与跨性别的主题，融合了重生与性别转化的情节。在文本中，角色之间的互动充满了猎奇与不可思议的情感冲突，描述了江欣妍与她的朋友们在一个富丽堂皇的酒店进行秘密活动的情景，揭示了与性别认同、欲望以及权力关系有关的复杂故事线。情节中，江欣妍与她的女性朋友们讨论着她们的社交与私密生活，气氛逐渐转向性暗示的强烈场景，如电梯间的性骚扰与酗酒诱惑，以及在酒店中不可预测的后续情节，这些内容涉及性别角色的颠覆以及对人性的深刻剖析。文本展示了由外部诱惑和性别期望引发的内心冲突，反映出当代社会对性别与身份认同的探索与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_寒蝉_·_异章_（壹）.docx]([皮物]_寒蝉_·_异章
 | Size            | 50762 bytes                           |
 | MD5             | 4b4b2d8ec54219ff9bbe405f90c08925                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | pitypet                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-02-02                                 |
+| Tags            | 伪娘, 跨性别, 重生, 酒店, 性骚扰, 性别认同, 青春, 自我探索, 欲望, 社会关系, 角色转换, 性别角色颠覆, 友情, 复杂人性, 黑丝, 豪华生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_从金变成金伯丽_8.docx]([变装]_从金变成金伯�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部关于变装与性别认同探索的小说第八章，描述了主角金蜷缩在卧室中的场景。故事通过金的自我审视与心理挣扎，展现了他逐渐融入女性角色的过程，尤其是在即将与男性约会前的心理准备和信心建构。金在准备过程中进行诸如腹毛脱毛、穿戴女性服饰等变装准备，表现出对自我形象的细致关心和在社交场合中迎合男性期待的矛盾感受。在与姐姐凯伦的对话中，金对于自己性别认同的困惑和对即将到来的约会的期待被细致刻画，展现了性别转换过程中的复杂情感。小说不仅强调了变装的外表变化，也深入探讨了内心的自我认同与他人期望的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_从金变成金伯丽_8.docx]([变装]_从金变成金伯�
 | Size            | 24602 bytes                           |
 | MD5             | 156f0ee1d436011ab7f9264db5c5254d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 变性, 跨性别, 伪娘, 性转, 情感纠葛, 女性气质, 心理冲突, 恋爱, 自我探索, 社会期待, 姐妹关系, 约会, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

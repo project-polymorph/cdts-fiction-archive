@@ -7,7 +7,7 @@ TXT 下载: [[变性]_被买走的女仆_9.doc]([变性]_被买走的女仆_9.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇与伪娘和变身相关的小说，主要讲述了一位名叫丽莎的角色在家庭教师的指导下，穿着各种女仆制服的经历。本文内容涉及到角色的心理状态和自我认同的变化。故事开头，丽莎试穿三英寸细高跟鞋与华丽裙子，显得兴奋而又羞涩。随着穿上不同的制服，丽莎体会到自己身份的微妙变化，同时也感受到教师的期待与严格要求。作者通过细腻的描写展现了丽莎在外貌和内心上的逐步转变，特别是在被老师和B先生的关注下，她愈发渴望获得认可和愉悦。尤其在与B先生见面时，丽莎内心深处的兴奋与羞赧交织，展现了她角色的复杂性和情感的丰富性。整篇小说充满了对服装的细致描写和对角色身份认同的探索，同时包含着对性别角色的深层反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_被买走的女仆_9.doc]([变性]_被买走的女仆_9.do
 | Size            | 48128 bytes                           |
 | MD5             | 0624d3490a5c20f481712e1e4123fa2f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lisa Lovelace                               |
+| Region          | 未知                               |
+| Date            | 2019-07-13                                 |
+| Tags            | 伪娘, 变身, 女仆制服, 性别认同, 强烈的自我探索, 家庭教师, B先生, 内心冲突, 女性魅力, 幻想爱情, 服装细节, 角色扮演, 情感成长, 二次元, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

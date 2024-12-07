@@ -7,7 +7,7 @@ TXT 下载: [[变身]_天台学园异闻录（二）.docx]([变身]_天台学园
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《天台学园异闻录（二）》是一个关于设定和角色的短篇小说，围绕着一位名为美夏的角色展开，她与妖怪之间复杂的互动和斗争贯穿整个故事。文中描述了美夏如何设计对抗邪恶入替魔的计划，她通过机巧盒隐藏了关键的圣符箓，以防止妖怪获得。故事中的妖怪能力各异，包括可以伪装成其他女性的变身魔，以及控制女性的入替魔，都给情节增添了紧张感和悬念。同时，故事中还有富有戏剧性的对话和情感冲突，比如主角青彦对妖怪的感知，以及他与巫女纱织之间的互动，尤其是关于法术和灵力的讨论，丰富了角色的深度和情感。整体内容涉及性别认同、与妖怪的斗争及复杂的自我探索主题，适合对跨性别及性转内容感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_天台学园异闻录（二）.docx]([变身]_天台学园
 | Size            | 22372 bytes                           |
 | MD5             | 9083b39b1e947a3fe438f9f8c0147c01                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 妖怪, 异世界, 灵异, 爱情, 战斗, 自我探索, 设定, 阴阳师, 神秘小说, 幻想, 悬疑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[翻译]アコガレ.docx]([皮物]_[翻译]アコガレ.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个初中女生冬月蓝沙的心路历程。蓝沙是一个憧憬成为女性的女孩，她在感情与自我认同之间的挣扎展现得淋漓尽致。故事中，她对班上最受欢迎的女生美弥理产生了深厚的情感，但她却因种种原因未能勇敢表达。文件的情节描写了蓝沙在秘密中监视着美弥理，与此同时，她陷入了强烈的自我认同危机。在一次孤独的夜晚，蓝沙以照片的形式想象着与美弥理的亲密关系，甚至幻想着与美弥理的肉体接触，期间涉及了一些私密及敏感的行为。最终，在告白时，虽然得到了拒绝，但美弥理随后显露出与外星人之间的神秘联系，让蓝沙再次充满复杂的感情和希望。这段故事探讨了性别认同、同性恋情及自我探索的主题，展现了当青春期的情感遇上性别认同的复杂性时，个体所经历的孤独与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[翻译]アコガレ.docx]([皮物]_[翻译]アコガレ.d
 | Size            | 22731 bytes                           |
 | MD5             | af590d905747829bc450046ec8d71e46                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 同人小说, 变身, 青春期, 自我认同, 同性恋, 性别转换, 初恋, 内心冲突, 校园故事, 青春成长, 外星人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

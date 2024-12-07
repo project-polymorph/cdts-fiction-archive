@@ -7,7 +7,7 @@ TXT 下载: [[变装]_子路传奇——蓝培星卷（2）.docx]([变装]_子�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一篇关于变装与性别认同的虚构小说，标题为《子路传奇——蓝培星卷》。故事围绕主人公张子露展开，她是一名男性，因得天独厚的变装科技而化身为一名绝美的女性学生，进入名华大学攻读物理电磁学博士生。在她的校园生活中，张子露常常遭遇众多男生和女生疯狂追求的情景，使她不得不匆忙逃避。小说详细描写了张子露在追逐中内心的挣扎，她既享受被追捧的美好，同时又痛苦于自己的真实身份被隐藏。在一次意外中，张子露撞上了一个叫夏小萤的女孩，并决定带她去医院治疗。通过这个事件，张子露不仅展示了她的善良，也强调了与夏小萤之间的情感纽带。故事中涉及的主题包括性别认同、角色扮演和自我认知等，且对校园文化和人际关系进行了细致入微的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_子路传奇——蓝培星卷（2）.docx]([变装]_子�
 | Size            | 39680 bytes                           |
 | MD5             | dc6ded364e4fc9cbb1037138aa6c7ca0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 自我探索, 校园小说, 变身, 伪娘, 奇幻, 友情, 爱情, 追求, 意外邂逅, 学术生活, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

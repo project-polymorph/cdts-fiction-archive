@@ -7,7 +7,9 @@ TXT 下载: [[变身]_节日系列之情人节+妇女节.docx]([变身]_节日�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于情人节与妇女节主题的跨性别小说，描绘了一个男孩与一个打扮成女孩的角色之间发生的冲突与情感。小说中的男孩误以为这个女孩是他心目中的学姐，而他们之间的互动则逐渐演变为强烈且复杂的情感关系。
+
+故事伊始，男孩与女孩在宾馆相遇，带有明显的暧昧和性暗示。男孩在识别出女孩的身份后，表现出强烈的兴趣并毫不犹豫地对她做出身体上的侵犯。这个情节涉及了性别认同、自我探索及权力游戏等深层次的主题，引发了关于性别与欲望的思考。最终，女孩在被侵犯后，逐渐认同并融入这种新的身份与状态，故事在一种较为悲情与复杂的气氛中结束。整体看，该作品在探讨性别交换与角色认同方面有独到之处，同时也涉及了较为敏感的性行为描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_节日系列之情人节+妇女节.docx]([变身]_节日�
 | Size            | 25850 bytes                           |
 | MD5             | 169d90a7ce4da0f6bf05f0ddd6174276                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 情人节, 跨性别, 变身, 伪娘, 强奸, 女体化, 权力游戏, 自我探索, 校园恋情, 性别认同, 复杂情感, 社会禁忌, 性暗示, 情感冲突, 悬疑, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

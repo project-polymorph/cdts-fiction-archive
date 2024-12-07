@@ -7,7 +7,7 @@ TXT 下载: [[附身]_天地传说之圣眼_10.docx]([附身]_天地传说之圣
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《天地传说之圣眼》是一部关于角色性别转变和自我探索的小说，结合了奇幻修真主题。故事开头，主角获得了一种名为'愿力'的超自然能力，能够通过帮助他人实现愿望来增强自身的力量。随着故事的发展，主角被告知如何利用信仰之力进行修神，并逐渐理解人类思想和信仰的意义。小说探讨了家人、信仰、欲望与邪气等复杂主题。在此过程中，主角不仅面对个人能力的提升，也经历了思想上的深刻转变，质疑生命的意义。文件中涉及的情节部分具有性别认同的冲突，且包含一些涉及情欲与内心挣扎的描写，例如'生的意义究竟在何方?'和'我要这天，再也遮不住我眼，我要这地，再也藏不住我心。'从而展现出主角的内心世界和对自我认知的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_天地传说之圣眼_10.docx]([附身]_天地传说之圣
 | Size            | 17164 bytes                           |
 | MD5             | 0d0d7a75c1ca4c16a03d2228f7623dd1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 性别认同, 性转小说, 修真, 信仰, 愿力, 自我探索, 家族, 内心挣扎, 奇幻, 欲望, 邪气, 超自然, 个人成长, 灵魂, 多元性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

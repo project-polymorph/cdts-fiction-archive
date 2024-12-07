@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_知面不知心_番外.doc]([皮物]_知面不知心_番�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一名学生在宿舍生活的色情描写小说，内容围绕梁岚这一角色的内心活动与身体探索进行叙述。故事起始于早晨，描绘了梁岚在女生宿舍的浴室中进行自慰的场景，她感受到渴望刺激的痛快和潜在被发现的风险。在这一过程中，角色体验到性别认同和身体快感交织的复杂心理，展现出变身后自我认知的矛盾与兴奋。随着剧情的发展，梁岚继续与舍友们的互动，不仅展现了校园生活的日常场景，也透露出她内心对性欲的探索和对女性身份的认同。整篇小说内容涉及一些限制级情节，包括自慰和身体的细致剖析，并未回避性内容的直白描述，并围绕角色身份、欲望和社交互动进行深入刻画。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_知面不知心_番外.doc]([皮物]_知面不知心_番�
 | Size            | 78336 bytes                           |
 | MD5             | 48f91d38efca7e76cee17a1435dfa2f7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 自慰, 校园生活, 自我探索, 性别认同, 青春, 强烈欲望, 女性视角, 幻想, 禁忌, 洗浴, 宿舍, 身体探索, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

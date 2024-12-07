@@ -7,7 +7,7 @@ TXT 下载: [[变身]_性别.doc]([变身]_性别.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位名叫内森的少年成长故事的开篇部分，描绘了他在即将到来的情人节前夕的心理挣扎和身份认同问题。故事开头，内森与家人共进晚餐，尽管家庭气氛温馨，但内森却因没有女友而感到沮丧。在一次随机的幸运饼干中，他收到了一条信息：“真爱会及时出现在你面前”，以及汉字“性别”，这让他感到茫然。随着故事展开，内森在学校生活中的一系列细节展现了他对于自我身份的疑惑，包括对自己身体变化的不安，如感到手臂细小，手背平滑等，为后续的变身情节埋下伏笔。此外，文件还提及内森在朋友谈论恋爱的同时，他自己的感情困惑，以及因外表和同龄人差异而带来的身份焦虑。这些内容不仅涉及青春期的成长烦恼，也探讨了性别认同与社会期待的冲突，表现出深层次的心理描写及情感冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_性别.doc]([变身]_性别.doc)
 | Size            | 174592 bytes                           |
 | MD5             | 4aad766ff14ad49ed526789615012947                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 青春成长, 家庭关系, 心理挣扎, 变身, 男女跨越, 真爱, 友谊, 自我探索, 异性恋情, 二次元文化, 虚拟现实, 自我冲突, 内心独白, 文化背景, 社会期望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

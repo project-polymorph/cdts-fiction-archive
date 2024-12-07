@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我们的新生.doc]([皮物]_我们的新生.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《我们的新生》的原创小说，作者是出门要走三百米。内容围绕主人公的内心冲突与转变展开，描述了一个少年对女性形象的迷恋和幻想。故事的开头，主人公回忆起自己对女同学们的迷恋，尤其是她们的丝袜美腿，表现出他对美的渴望与压抑。随着情节的发展，主人公在一次班级活动中遇到了奇怪的狐仙，从而展开了一段关于性别转换与自我认同的奇幻旅程。在醉酒后的意外中，主人公与狐仙达成交易，获得了“人皮咒”，能够兑换他人身体。小说探讨了性别认同、欲望与自我探索的主题，同时包含一些限制级与性相关的情节，展现了主人公内心深处对成为女性的强烈渴望和性别身份的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我们的新生.doc]([皮物]_我们的新生.doc)
 | Size            | 78336 bytes                           |
 | MD5             | c2f0e046998fc897dbfc11492809a0e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 出门要走三百米                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 变身小说, 性别认同, 幻想, 自我探索, 欲望, 人皮咒, 狐仙, 丝袜, 校园生活, 青少年, 奇幻, 禁忌, 女性形象, 心灵冲突, 性欲幻想, 兄弟情, 友情, 非人化, 角色扮演, 奇幻冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

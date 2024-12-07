@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】被收养的生活.docx]([变性]_【翻译】
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为《被收养的生活》的翻译作品，讲述了一位名叫莎拉·珍·卡特的女性在经历了一次重大的医疗事件后，从昏迷中醒来，逐渐恢复记忆的故事。故事开篇，一个男性的声音呼唤她‘亲爱的’，让她感到困惑，并意识到自己在一个未知的环境里。随着医生的检查，她了解到自己进行了紧急的子宫切除手术，并将面临为了生理恢复而需要的女性荷尔蒙治疗。在接下来的日子里，她努力适应自己作为母亲和妻子的身份，同时也面临失去记忆的挑战。文中描绘了她与丈夫约翰及两个孩子之间深厚的情感，也探讨了她在身体和身份认同上所经历的挣扎。最终，在黛安娜的帮助下，她学习如何重新适应女性的生活方式，同时努力回忆她的过去。此作品涉及性别认同、身体变性以及家庭关系等主题，其情节细腻而富有深度，尤其是在探讨心理变化具体表现上。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】被收养的生活.docx]([变性]_【翻译】
 | Size            | 46818 bytes                           |
 | MD5             | 4a19df39b3a2ba0772f298ad68460f16                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Stacy Bolan                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 女性认同, 家庭关系, 医疗转变, 自我探索, 失忆, 性别转换, 荷尔蒙治疗, 情感恢复, 身份认同, 母亲角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

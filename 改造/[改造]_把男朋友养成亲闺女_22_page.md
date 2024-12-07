@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_22.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇伪娘/男娘类的小说，名为《把男朋友养成亲闺女》。故事围绕一个名叫贝丽的角色展开，她其实是一个25岁的男性，正在假装成一个18岁的女孩。情节描绘了贝丽与其他角色之间的互动，包括她的父亲德里克和她的朋友坎迪。贝丽在与其他女孩的交流中承受了很多身份认同的困扰和令人尴尬的场景，同时还夹杂着性别角色的模糊性。小说通过贝丽的视角展示了她如何努力维持这个伪装，以及她在其中面临的心理斗争。此外，故事中也涉及一些包含调教和惩罚的情节，展现了角色们之间复杂的关系和互动。整体情节非常细腻，字里行间流露出对自我认同和欲望的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_22.doc]([改造]_把男朋友�
 | Size            | 5009408 bytes                           |
 | MD5             | 15631e93a4c9ac05fc3bd6701134be9c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2021-08-20                                 |
+| Tags            | 性别转换, 伪娘, 调教, 心理斗争, 自我认同, 变身, 恋爱, 青春, 女性视角, 社会角色, 纠葛, 伪装, 强势角色, 知名真人秀, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

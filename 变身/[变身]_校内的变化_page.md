@@ -7,7 +7,7 @@ TXT 下载: [[变身]_校内的变化.doc]([变身]_校内的变化.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记述了一位心理学家在丽迪雅惠特森学校的兼职经历，涉及他与多名学生（包括伪娘和性别改变者）之间的互动。故事中，心理学家发现一些男孩在档案中被标记为女孩，反映出学校对性别认同的模糊界限。这位心理学家与一名女同事苏珊的关系逐渐变得亲密，并在一次洗澡中经历了身体和性别的转变。小说围绕性别认同、自我探索以及对社会规范的反思展开，甚至描绘了跨性别者的生活以及如何在社会中找到认同感。文本中的情节充满幻想与探索，人际关系复杂，涉及情感和生理上的变化，挑战了传统的性别观念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_校内的变化.doc]([变身]_校内的变化.doc)
 | Size            | 39936 bytes                           |
 | MD5             | b56a3b83d71c1c55404937734ab80639                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别认同, 伪娘, 学校生活, 心理学, 爱情, 自我探索, 生理变化, 性别转换, 幻想, 伦理问题, 恋爱, 同性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

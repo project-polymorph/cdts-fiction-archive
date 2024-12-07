@@ -7,7 +7,7 @@ TXT 下载: [[附身]_被占据的冰之女王.doc]([附身]_被占据的冰之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档《被占据的冰之女王》是一部描绘性别转换与强烈权力斗争的小说，主角艾斯德斯是一个拥有强大实力和美丽外貌的女将军，在她周围围绕着一名恶毒的大臣奥库。故事开始时，奥库出现在艾斯德斯面前，试图通过言语挑衅引发冲突，但却因为他与艾斯德斯的力量悬殊而被轻易打发。随着情节的发展，奥库因贪婪而召唤了一种邪恶的力量，最终导致他变成了一个暗红色的骨架，并企图报复艾斯德斯。故事通过多种视角展现了角色之间复杂的心理斗争与权力角逐，读者可以感受到强烈的紧迫感与未知的潜在威胁。文中一段描写生动，“你也就只能在这个时候逞强了，很快，你的一切都会成为我的东西了”，突显了欺凌与被交换的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_被占据的冰之女王.doc]([附身]_被占据的冰之�
 | Size            | 31744 bytes                           |
 | MD5             | 4c0f0458feb957537db5ce2dc68e9b72                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 冒险, 异世界, 性别转换, 诡计, 复仇, 权力斗争, 女将军, 潜意识, 神秘能力, 暗黑幻想, 灵魂交换, 角色扮演, 心理斗争, 攻击与防御, 强权与操控, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

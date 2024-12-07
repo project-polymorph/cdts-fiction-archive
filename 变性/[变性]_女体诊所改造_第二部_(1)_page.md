@@ -7,7 +7,9 @@ TXT 下载: [[变性]_女体诊所改造_第二部_(1).docx]([变性]_女体诊�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容是一个关于变性与跨性别主题的小说，故事围绕一名男性角色在同性恋酒吧工作的经历展开。主角在经济困境中被迫寻求一份工作，尽管内心对穿女装抱有抵触情绪，但为了偿还高利贷，他最终选择了在酒吧工作。在面试过程中，角色被优雅的女性经理审核并录用。故事深入探讨了角色对自身性别认同与外貌的认知，以及他与周围环境的冲突与适应。
+
+在故事的后续，主角经历了被下药昏迷后被阉割的情节，探讨了对身体自主权的剥夺与被控制的恐惧。情节中表现了角色内心的挣扎与身份的转变，这不仅是生理上的改变，还是对自我认知的深刻挑战。针对内容中穿插的各种场景与对话，可以看出对于性别议题的思考，也反映了社会对跨性别者的多元态度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_女体诊所改造_第二部_(1).docx]([变性]_女体诊�
 | Size            | 29627 bytes                           |
 | MD5             | d30d4237e8fe4bc7c0e18660d97828a3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 同性恋, 工作经历, 女性装扮, 性别认同, 被阉割, 酒吧, 自我探索, 身份认同, 社会压力, 心理冲突, 性别角色, 性别转换, 幻想, 心理恐惧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

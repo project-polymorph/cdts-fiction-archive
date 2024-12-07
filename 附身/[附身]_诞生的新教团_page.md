@@ -7,7 +7,7 @@ TXT 下载: [[附身]_诞生的新教团.doc]([附身]_诞生的新教团.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《诞生的新教团》描绘了德拉克斯，一个勇敢而又受苦的年轻人在加入一个声称为英雄的教团后的心路历程。在他心中，加入教团的理想原本是为了能够保护城邦，然而加入之后，他发现这个组织内部的贪婪与腐败远远超出了他的想象。德拉克斯身为平民不仅要承担与贵族们的权力争斗，还要在残酷的任务中付出自己的生命。他在酒中寻找麻木，却不得不面对教团内部的高层腐败和外界魔物的威胁。随着剧情的发展，德拉克斯被迫面对教团的种种不公和自己对理想的动摇，他的信念面临巨大的考验。在一次任务中，德拉克斯目睹了私利驱动下同伴的背叛，使得他大彻大悟，在内心的挣扎与绝望中寻找反抗的勇气与希望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_诞生的新教团.doc]([附身]_诞生的新教团.doc)
 | Size            | 53760 bytes                           |
 | MD5             | 42986c49d8d19c36843b8a784685a1d9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 教团腐败, 魔物, 自我探索, 平民与贵族, 心理斗争, 英雄主义, 友情与背叛, 伦理, 冒险, 黑暗幻想, 社会问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

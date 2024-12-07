@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译变装】“受辱”的未婚夫.doc]([变装]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇名为《“受辱”的未婚夫》的变装小说，由作者Rikki创作，译者为露娜·埃葵斯。故事围绕戴夫展开，他由于出轨而被未婚妻劳拉羞辱，必须穿上婚纱以请求她及其家人的原谅。在故事开头，戴夫恳求劳拉不要让他这样做，但劳拉强调这是戴夫所应得的惩罚，并表示这将是他忠诚的证明。在整个过程中，戴夫面临着巨大的羞辱，他不仅穿着美丽的婚纱，还接受了全家人的目光，承认自己出轨的错误，并流下了羞愧的泪水。文中细致描绘了戴夫的穿着和精神状态，包括他华丽的婚纱、化妆和配饰，展示了他在众人面前的尴尬。尽管面临严峻的评判，戴夫依然表达了对劳拉的爱意，并希望获得原谅。这个故事挑战了性别角色并探讨了自我认知与悔恨之间的斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译变装】“受辱”的未婚夫.doc]([变装]_�
 | Size            | 36352 bytes                           |
 | MD5             | 58e3cb8ec8627db2373b7d4ab8782c6d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rikki                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 羞辱, 悔恨, 性别角色, 婚姻, 情感纠葛, 自我探索, 社会认同, 性别认同, 婚纱, 男娘, 强迫羞辱, 情感戏剧, 内心挣扎, 伪娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

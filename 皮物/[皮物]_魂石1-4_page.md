@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魂石1-4.docx]([皮物]_魂石1-4.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个伪娘与跨性别主题的小说，主要讲述了主人公李拓与他的未婚妻高雪之间复杂而扭曲的关系。李拓一直以来认为高雪保守，而在近期他发现高雪的行为与打扮发生了剧烈变化，从清纯的形象变成了性感诱人的女性，似乎扭曲了他们之间的亲密关系。故事中包含了监控、暗恋、性别转变等元素。尤其是在李拓安装监控后，观看到高雪在独自房间内进行性幻想的画面，使他感到受到强烈的冲击。这段关系逐渐演变为高雪被一个神秘男人操控，表现出对李拓的完全服从与意识的迷失。本文涉及一些成人情节，包括性行为、性别交换、调教等，描绘了角色之间扭曲而复杂的心理与欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魂石1-4.docx]([皮物]_魂石1-4.docx)
 | Size            | 49739 bytes                           |
 | MD5             | 7fd4a0bfb445846ec26f9b61f3c01174                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身, 跨性别, 情感纠葛, 监控, 性幻想, 自我认知, 操控与服从, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

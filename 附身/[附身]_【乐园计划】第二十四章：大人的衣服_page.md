@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【乐园计划】第二十四章：大人的衣服.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件名为《乐园计划》第二十四章，主要围绕两位角色浅夏和柯蕾雅的日常生活展开。故事的开头，浅夏探望柯蕾雅，后者因昨晚的事件显得有些疲惫和困惑。浅夏询问柯蕾雅昨晚的状况，提及城内出现了魔物和恶魔等危机。柯蕾雅用模糊的借口解释了她的缺席，实际上，她昨晚一直在进行自我探索和自慰。随后的对话中，柯蕾雅对自己的身体变化感到惊讶，并尝试寻求关于即将到来的威胁的信息。章节中还提到了一位被攻击的女性角色萱儿，她在与其他男性的交流中表现出对性体验的极大兴奋，进一步探讨了性别转换后的身体感受和认同。文字中包含对性行为的详细描写，展现了作品特有的轻松与性感氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【乐园计划】第二十四章：大人的衣服.docx](
 | Size            | 22275 bytes                           |
 | MD5             | a753467524eab8c2164d2ccd14846609                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 进阶体验, 轻松日常, 自我探索, 角色扮演, 魔法世界, 性别认同, 魔物, 恶魔, 淫荡, 少女情怀, 多重身份, 隐秘交流, 内衣购物, 日常冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_网络诈骗（下）.docx]([皮物]_网络诈骗（下）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容围绕一位男生的转变与性别认同的探索。故事中的主要角色在周泰的影响下，经历了从男性到女性身份的转变，并与女性角色恬恬之间的关系起伏跌宕。文本描绘了角色内心深处的困惑和渴望，如同探索自我一样；同时也刻画了角色们在极端情境下的情感纠葛与性关系，包含了许多生动且强烈的情节，如‘我想女人对它会更迷恋’。故事的叙述方式直白且生动，为读者展示了复杂的性别认同与情感交织。文本中涉及的主题包括性别转换、跨性别认同、自我探索等，材料包含一些可能的敏感内容以及性方面的描写，同时也表现了人际关系的复杂性。此文档适合对跨性别文学感兴趣的阅读者与研究者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_网络诈骗（下）.docx]([皮物]_网络诈骗（下）
 | Size            | 129818 bytes                           |
 | MD5             | c84dda735403b69b16fdaa62c9965ff6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 变装, 心理探索, 情感纠葛, 自我认同, 伪娘, 男男关系, 性别角色, 强烈情感, 禁忌关系, 爱情迷惘, 自我救赎, 病态依恋, 现代都市, 内心冲突, 幻想与现实, 人与人之间的关系, 女性角色, 男性角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

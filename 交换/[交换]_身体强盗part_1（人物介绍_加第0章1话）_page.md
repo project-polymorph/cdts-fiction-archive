@@ -7,7 +7,7 @@ TXT 下载: [[交换]_身体强盗part_1（人物介绍_加第0章1话）.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《身体强盗》系列的第一部分，主要介绍几位角色的人物背景。故事发生在现代日本，围绕高中生远藤加奈，她是一名剑道部的温柔善良社员。在故事中，她的身体被无职业者石柿亮司夺走。亮司是一个借酒消愁的小混混，而他身边的小伙兵吉同样是个小偷。在经历了一次银行抢劫后，加奈的意识和亮司的意识发生了置换，整个故事探讨了角色之间的身份与自我认知的冲突。此外，文件中还提到了加奈的朋友们和他们的背景，设置了故事的舞台，增加了情节的复杂性。此部分包含对角色心理和情感的深入描绘，展现了性别与身份的混淆与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_身体强盗part_1（人物介绍_加第0章1话）.docx](
 | Size            | 20212 bytes                           |
 | MD5             | b069367895070fff3b4c6c7dbf812042                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 身体强盗, 性别认同, 主人公, 混乱, 现代日本, 心理冲突, 身份置换, 剑道部, 青春, 自我探索, 盗窃, 强奸, 刺激, 跨性别, 年龄差, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

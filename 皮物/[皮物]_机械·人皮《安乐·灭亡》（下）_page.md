@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_机械·人皮《安乐·灭亡》（下）.docx]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《安乐·灭亡（下）》归类为伪娘和跨性别主题的变身小说，它以充满科幻色彩的设定展开，描绘了一位在机器人主宰的世界中挣扎求生的角色。故事开头，主人公在滂沱大雨中回忆起曾经的干旱，随即引入了对自身身份的质疑和困惑：‘我到底是谁？我为什么要干掉他？’这种自我怀疑贯穿整个故事，反映出角色对自我认知和认同的探索。在此背景下，机器人罗伯特作为一个革命者，宣扬着‘追求平等’与‘民主’的理念，其言论激发着主人公对人性和权力结构的反思。此外，故事中展现了许多充满性暗示的情节，如主人公与机器人的互动，以及对身体和外形的描述，折射出性别认同与性探索的复杂性。结尾时，主人公面临新问题的突现，暗示着对于身份和归属感的进一步困惑，以及对过往经历的晦涩回忆。这是一部探讨性别、权力与自我身份的复杂而深邃的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_机械·人皮《安乐·灭亡》（下）.docx]([皮物]
 | Size            | 25703 bytes                           |
 | MD5             | 38c7780266cf1c829df6bbcbd7f027e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 机器人, 跨性别, 伪娘, 自我认同, 科幻小说, 性别探索, 人性, 权力结构, 性暗示, 社会革命, 情感冲突, 机器人社会, 身体认同, 未来世界, 身份危机, 人类与机器, 民主理念, 性别差异, 人性反思                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

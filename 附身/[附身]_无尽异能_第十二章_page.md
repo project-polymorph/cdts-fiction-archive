@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无尽异能_第十二章.docx]([附身]_无尽异能_第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章讲述了角色张紫幽在夜晚悄悄前往好友凌灵的宿舍的经过。初始的氛围显得温柔而自然，张紫幽表现出对凌灵的依赖与信任，乞求能够与她共度一晚。随着情节的发展，揭示了张紫幽其实是一名被恶魔附身的角色，她计划着对凌灵进行夺舍。整个过程渗透着暧昧的气氛，但随着情节的推进，张紫幽的真实身份逐渐显露，展现出她的操控欲与贪婪。文章中描写了张紫幽与凌灵之间的互动，包括撒娇、嬉闹直到最后的敏感抚弄，情节充满色情暗示和欲望的描写，令人捉摸不透的身份更是为故事增添了悬疑感。然而，凌灵并非如此单纯，她的灵魂突然觉醒，展现出强大的反抗能力，使得情节发展产生了意外的转折。此章不仅描绘了亲密的互动，也探讨了性别认同、自我探索与灵魂的界限，富有情感层次与复杂的人物关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无尽异能_第十二章.docx]([附身]_无尽异能_第�
 | Size            | 23993 bytes                           |
 | MD5             | 5e47ca3fa2666b766d49f7f583c1290d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 思考下计划                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 灵魂夺舍, 性欲觉醒, 槍战, 悬疑, 二次元, 夜晚, 宿舍, 女主, 同性恋, 灵魂交易, 魔法, 幻想, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_维生素是如何改变我的生活？3.doc]([变性]_维
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇由 Rachael Free 创作的跨性别小说，标题为《维生素是如何改变我的生活？》，文章通过角色维姬的视角，描述了她在一次约会中的复杂情感和性别认同的转变。故事开头，维姬和她的朋友曼迪约会，尽管起初感到不适，但随着情节发展，她逐渐体验到了女性的魅力和吸引力。作品细腻地描绘了维姬对自己新身份的挣扎与接受，以及她在与男性亲密接触后的情绪变化。从约会中的舞池到日常生活的细节，故事呈现了维姬在转变过程中的心理波动及自我认知的变化，最后，她开始接受并享受自己的新生活，期待未来的体验。整篇文章充满了对性别认同、自我探索和复杂人际关系的深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_维生素是如何改变我的生活？3.doc]([变性]_维
 | Size            | 46080 bytes                           |
 | MD5             | 5c3a1b1b13685816784ed92a5e57c619                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rachael Free                               |
+| Region          | 未知                               |
+| Date            | 2007-07-21                                 |
+| Tags            | 跨性别, 伪娘, 变身, 性别认同, 情感纠葛, 夜生活, 约会, 女性视角, 心理挣扎, 自我接受, 浪漫, 都市生活, 朋友关系, 社交焦虑, 舞会, 时尚, 护理, 情感发展, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

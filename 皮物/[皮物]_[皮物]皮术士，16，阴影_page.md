@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[皮物]皮术士，16，阴影.doc]([皮物]_[皮物]皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘/男娘小说，描绘了主角朱丽叶和苏翎之间的秘密聚会。故事中，朱丽叶以女性身份出现，原本粗鲁的形象被转化为一个欲求不满的可爱角色。小说通过对话揭示了角色之间复杂的关系与欲望，涉及朱丽叶使用神奇药剂进行变身，以及与黑市商人诺伦的互动。文件中的情节深入探讨个人身份与社会地位的关系，体现角色对自我认知与权力的追求，同时也描写了角色之间的相互威胁与同盟。在秘密聚会的设定下，悬念与紧张感持续交替，使得整部作品充满了戏剧性与引人深思的哲学探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[皮物]皮术士，16，阴影.doc]([皮物]_[皮物]皮�
 | Size            | 41984 bytes                           |
 | MD5             | cc74d405acbf8bb48a7314f53c1c33cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | subhermits                               |
+| Region          | 未知                               |
+| Date            | 2013-06-14                                 |
+| Tags            | 伪娘, 男娘, 变身, 跨性别, 神奇药剂, 身份探索, 权力游戏, 秘密聚会, 社会地位, 个人欲望, 幻想小说, 荣耀与背叛, 变嫁, 复杂关系, 内心冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

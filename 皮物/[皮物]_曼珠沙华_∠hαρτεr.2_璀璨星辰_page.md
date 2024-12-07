@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_曼珠沙华_∠hαρτεr.2_璀璨星辰.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及魔法与奇幻元素的小说摘录，名为《曼珠沙华 ∠hαρτεr.2 璀璨星辰》。故事围绕主人公雷埃德展开，他是一位单身魔法师，生活在凯博耐绅城。在文中，雷埃德正在体验一段充满意外的日常：他忙于抄写魔法书，意外接到了魔法塔关于公主碧阿特莉切学徒仪式的邀请。小说中详细描写了公主的美丽与性格，以及雷埃德对她的初印象，展现出他内心的波动与自我探索的过程。文中混合了魔法、爱情与自我认同的主题，展现了角色间的情感冲突和成长。无论是碧阿特莉切的传奇故事，还是雷埃德与朋友间的互动，都让故事生动而引人入胜，为读者构建了一个奇幻的世界。在最后，雷埃德因冥想而错过了仪式，展现了他对魔法与情感的深层思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_曼珠沙华_∠hαρτεr.2_璀璨星辰.docx]([皮物]_�
 | Size            | 26538 bytes                           |
 | MD5             | 18ee905dd71b2d4c9f12d6a2a7001c7c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 阿虚                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 奇幻, 爱情, 角色成长, 自我认同, 公主, 魔法仪式, 日常生活, 友情, 冒险, TSF, 女体化, 变身, 强烈情感, 校园奇幻, 幻想世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

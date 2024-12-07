@@ -7,7 +7,7 @@ TXT 下载: [[变装]_哺乳的人夫_6.doc]([变装]_哺乳的人夫_6.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该篇文章描述了一位名为锦儿的角色在成为母亲后的生活点滴，主要围绕其与岳父和专业育婴师陈湘之间的互动展开。故事开始于小宝宝的出生，母亲由于大出血住院，锦儿则成为了主要照顾者。文中提到，锦儿虽有着对新生命的责任感，但在照顾孩子的同时也不得不面对岳父对妻子的指责与家庭内复杂的权力斗争。文章细致描写了锦儿的内心挣扎与成长，以及对新身份（母亲）的认同。值得注意的是，故事中隐约提及了一些家庭成员之间的冲突，暗示着母亲对孩子责任的逃避和岳父的权威，特别是对于陈湘的性别和美貌的描述，暗示了潜在的性张力与心理斗争。整个故事在细腻的情感描写中穿插着对家庭关系和性别认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_哺乳的人夫_6.doc]([变装]_哺乳的人夫_6.doc)
 | Size            | 60416 bytes                           |
 | MD5             | 3c271614003e89e480e92baa09c6bca4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 母性, 家庭关系, 跨性别, 角色认同, 育婴师, 情感纠纷, 性别认同, 自我探索, 新生儿护理, 心理冲突, 现代家庭, 社会角色, 强烈的情欲暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮术士】_十二_伯爵夫人.doc]([皮物]_【皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《皮物》系列小说的第十二章，主要描写了角色苏翎在与侍女之间发生变形与融合的过程。故事中，苏翎经历了一种名为‘药剂’的催化作用，不仅在身体上发生了液体化的变化，还涉及到了对自我认知和王国阴谋的深层思考。苏翎面对的是一种危险的力量，以及对个人性别认同的探索。情节着重描绘了苏翎的内心冲突和生理状态的变化，比如他如何从一种液体的状态尝试重新入体，与侍女的身体产生新的联系。此外，文件中提到的邪神与爱欲仪式暗示可能存在更深层次的阴谋和生命意义的探索。小说以奇幻与性别为主题，交织着生存、权力和身份的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮术士】_十二_伯爵夫人.doc]([皮物]_【皮�
 | Size            | 40960 bytes                           |
 | MD5             | 29aee30e3144389f80f439aa6f6ccc27                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 奇幻, 跨性别, 邪神, 药剂, 液态化, 自我认知, 女仆, 王国政治, 身体变化, 性别认同, 内心冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

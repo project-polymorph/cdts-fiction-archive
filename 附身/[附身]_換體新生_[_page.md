@@ -7,7 +7,7 @@ TXT 下载: [[附身]_換體新生_[.docx]([附身]_換體新生_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别变换及身心认同的小说，标题为《换体新生》。故事讲述了主人公许麻在生活困境中的决定，选择了一项不可逆的仪式，进行性别转换。在小说开头，许麻正与一位外观娇丽的美人进行视频通话，确认仪式的安排，并在抽完最后一根烟后，准备心路历程的改变，而这一选择也承载着对未来生活的不确定性与挑战。在仪式完成后，许麻的身份发生了翻天覆地的变化，化为一名外表可爱的小女孩，并开始探索全新的自我与身份认同。文中涉及到复杂的情感、性别困惑和自我接受等主题，包含部分不适合未成年人观看的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_換體新生_[.docx]([附身]_換體新生_[.docx)
 | Size            | 22733 bytes                           |
 | MD5             | fc44a9553dd6ae4e9c908f312544ab98                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 心灵探索, 自我认同, 禁忌恋, 二次元, 变换身躯, 幻想文, 青春故事, 身心合一, 东亚文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

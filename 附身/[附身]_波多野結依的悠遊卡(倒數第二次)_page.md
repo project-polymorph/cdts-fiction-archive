@@ -7,7 +7,7 @@ TXT 下载: [[附身]_波多野結依的悠遊卡(倒數第二次).doc]([附身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位男性对波多野结依悠游卡的痴迷，并逐渐发展出强烈的性别认同转变与自我探索。在这个过程中，主角开始幻想自己变成女性，体验女性的身体和性感。随着故事的发展，主角的思想逐渐被各种性幻想所占据，涉及对女性身体的羡慕、对变身过程的征服欲望及与男性性关系的复杂感情。主角不仅在幻想中探索自己的性欲，还主动尝试变装与女性角色的生活，表现出对自己性别认同的深刻挣扎与探索。通过与他人（如老公、女店员）的互动，本文件细致描绘了主角在性别角色转变中的心路历程，以及对禁忌的欲望与尝试。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_波多野結依的悠遊卡(倒數第二次).doc]([附身]
 | Size            | 55808 bytes                           |
 | MD5             | 33773360a2b5a4f495877696442a4969                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 伪娘, 跨性别, 变装癖, 性幻想, 波多野结依, 情趣用品, 初体验, 欲望释放, 性别转换, 女性视角, 成人内容, 幻想文学, 强烈欲望, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

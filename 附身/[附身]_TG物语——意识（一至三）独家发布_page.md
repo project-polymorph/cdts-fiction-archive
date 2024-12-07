@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——意识（一至三）独家发布.doc]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于意识转移和超能力的小说，讲述了一名普通青年在经历了一次严重车祸后，意识苏醒于医院里的故事。作者通过主人公的心理历程，展现了他对生命的反思及其后续的发展。主人公自述在意外前的绝望与孤独，以及醒后发现自己具备了之前未拥有的超能力，伴随着身体和脑部的重生。在住院康复期间，医生评估了他的脑部伤害及未来的潜在影响，随着他的意识逐渐恢复，对生活的态度也产生了变化。主人公在出院后，面临居住问题的现实，努力寻找新的生活和发展的机会。这篇小说触及自我探索、身份认同以及在困境中重新定义自我的主题，同时也展现出都市生活的矛盾与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——意识（一至三）独家发布.doc]([附�
 | Size            | 43008 bytes                           |
 | MD5             | 5e5f1e94454f8264b1114d641d994b26                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 意识转移, 超能力, 自我探索, 生死攸关, 孤独, 都市生活, 恢复意识, 心理历程, 人生转折, 神秘力量, 成长故事, 倔强奋斗, 轮回重生, 反思生命                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

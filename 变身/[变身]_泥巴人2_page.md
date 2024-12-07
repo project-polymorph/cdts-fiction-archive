@@ -7,7 +7,7 @@ TXT 下载: [[变身]_泥巴人2.docx]([变身]_泥巴人2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《泥巴人2》讲述了角色雷曼在变身为女性后，接受任务与宿敌史密斯合作的情节。在文中，雷曼首次遇见了自己的宿敌史密斯，而史密斯则戏谑性地让雷曼扮演一位女性儿科医生，以便接近犯罪分子唐金。雷曼身为军人，尽管能适应多重任务，但对变身为女性这一点感到极大的困惑。文中描写了他面临的身份认同的挑战以及对自己性别变化的抗拒。任务的安排看似简单，却充满了个人的尴尬和斗争，展现了他内心的掙扎和对外部环境的适应。整部作品融合了变身、任务等元素，不仅涉及了对性别角色的挑战，也折射出人物的深层心理活动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_泥巴人2.docx]([变身]_泥巴人2.docx)
 | Size            | 29683 bytes                           |
 | MD5             | 31774df0c0533997c0b88bb3d4b81ffa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 自我认同, 伪娘, 军人, 性别角色, 任务执行, 社会角色困惑, 个人挣扎, 身份扮演, 情感斗争, 反转剧情, 女性形象, 变装任务, 心理斗争, 性别转换, 社会适应, 情感复杂, 人际关系, 间谍任务, 纳米机器人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

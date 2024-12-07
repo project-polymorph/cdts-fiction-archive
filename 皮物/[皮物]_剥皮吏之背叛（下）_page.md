@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_剥皮吏之背叛（下）.doc]([皮物]_剥皮吏之背�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于剥皮吏与父子关系的小说，围绕着皮氏一族的秘密与剥皮能力展开。故事的主角虽然出生于平凡的家庭，但在父亲的引导下，逐渐觉醒了其家族的剥皮能力。父亲为了逼迫他继承家族的责任，给了他一把名为‘离别’的刀，并通过割伤的仪式让他体验了这种能力的唤醒。在经历了痛苦的剥皮过程后，主角不仅学会了剥皮技巧，更在心理上感受到力量与凶残。故事中融入了强烈的自我认知冲突，剥除的不仅是外在的皮肤，还有道德的边界。主要角色汪大飞在被剥皮后，经历了剧烈的身心痛苦，最终成为了另一个人的替代品，让人深思身份与存在的哲学议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_剥皮吏之背叛（下）.doc]([皮物]_剥皮吏之背�
 | Size            | 186880 bytes                           |
 | MD5             | 9fdca977111cf6d74e31627c44080f68                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 剥皮, 角色变身, 家族秘密, 父子关系, 痛苦体验, 自我认知, 剥皮技艺, 心理转变, 身份认同, 奇幻文学, 黑暗小说, 血腥场景, 自我实验, 宿命, 奇特香料, 阴暗心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

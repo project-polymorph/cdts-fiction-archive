@@ -7,7 +7,7 @@ TXT 下载: [[变性]_解离症第二季——豪门乱（1）.doc]([变性]_解
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一本围绕变性与跨性别主题的小说，讲述了主角杨秦在被赵总控制后，生活在一个极度压抑和控制的环境中，逐渐陷入了心理和生理上的困惑。故事开头，杨秦被迫留在公司的休息室里，赵总不仅禁锢了她的自由，还对她施加了各种控制，特别是性别认同上的压迫。杨秦被要求以女性身份存在，而她在这样的情况下逐渐迷失自我，变得无法区分自己是男还是女。随着故事的发展，赵总带她参加宴会，要求她陪同华兴集团的宁少，整个场景勾勒出了一幅豪门乱世的图景，其中蕴含着权力、性别操控、物化与自我认同的复杂关系。文本中包含了许多描绘性爱和控制的细节，展现出人性的黑暗和挣扎。文中出现了多处关于杨秦被限制与压迫的描写，比如赵总称她为“私有物品”，并对她实施了一系列精神和身体上的控制。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_解离症第二季——豪门乱（1）.doc]([变性]_解
 | Size            | 39424 bytes                           |
 | MD5             | 8756094f0d0da82cc8a7ae5154c8dbe6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性别认同, 女体化, 心理控制, 豪门, 性别转换, 女性视角, 权力游戏, 自我探索, 生活困境, 性别压迫, 精神分裂, 伪娘, NTR, 强奸, 淫荡, 调教, 变嫁, 性别冲突, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

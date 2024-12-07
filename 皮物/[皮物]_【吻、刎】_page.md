@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【吻、刎】.doc]([皮物]_【吻、刎】.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部伪娘 TS 变身与跨性别相关小说，主要围绕办公室情感与人际关系展开。故事的核心角色是一名女性秘書程子欣，她在工作中对其成熟稳重的老闆吳尹杰暗恋已久。故事一开始，办公司空间的热浪让人无心工作，子欣和同事巴珍在讨论午餐时，子欣的目光不由自主地被尹杰吸引。"尹杰的笑容融化了子欣的心，彷彿时间都停止了。"随着剧情的发展，子欣与旧友李莎的重逢引入了新的情感纠葛。李莎成为了公司的广告组长，这让子欣心中不无嫉妒。随着职场权力与个人感情的交织，故事的情节不断推进，李莎与尹杰之间的关系逐渐升温。最终，子欣在返回办公室时，看到尹杰与李莎亲密的场景，内心产生了强烈的冲击与失落，包含了复杂的情感和性别认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【吻、刎】.doc]([皮物]_【吻、刎】.doc)
 | Size            | 89088 bytes                           |
 | MD5             | b7c142982e343040ddc0c0ed80cedb63                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 职业爱情, 办公室文化, 暗恋, 情感纠葛, 伪娘, 跨性别, 重聚, 内心冲突, 职场风云, 女性视角, 情感探索, 强烈嫉妒, 自我认同, 变嫁, 百合, TSF, 暗黑爱情, 情趣诱惑, 成长小说, 职场小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

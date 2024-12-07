@@ -7,7 +7,7 @@ TXT 下载: [[其他]_神秘家族之二初入校园2.docx]([其他]_神秘家�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于主角初入大学校园经历的小说，描绘了主角的兴奋与忐忑，同时也展示了丰富的校园文化和人际关系。故事开头主角描述了他去往国立人民大学的过程，怀着对全新环境的期待，同时透视出他对美丽女同学的憧憾和自卑感。在校园里，主角观察到几个俊男靓女的互动，尤其注意到了齐晴儿和索燚这对打闹的小情侣，以及那位被视作校园女神的郎颖。随着剧情的发展，主角与室友们的相识，逐渐构建起了一个充满青春气息的大学生活的画面。文中还融入了一些幽默元素，通过角色之间的调侃和互动，使得故事更加生动有趣。最终，主角得知自己和郎颖在同一班级，显示出一种命中注定的缘分，增加了剧情的悬念与期待感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_神秘家族之二初入校园2.docx]([其他]_神秘家�
 | Size            | 20916 bytes                           |
 | MD5             | 668f557f048bcfbe6616f72ebd9beb4b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 大学生活, 性转小说, 伪娘, 青春爱情, 校园文学, 自我认同, 社会交往, 初恋, 美少女, 男主角成长, 人际关系, 相遇, 纯爱, 强奸, NTR, 调教, 女体化, 雌堕, 纯爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

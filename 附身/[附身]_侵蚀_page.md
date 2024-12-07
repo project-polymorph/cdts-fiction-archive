@@ -7,7 +7,7 @@ TXT 下载: [[附身]_侵蚀.doc]([附身]_侵蚀.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《侵蚀》，讲述了一个关于性别认同和复杂情感的故事。故事的主角是一位名叫晓玥的女孩，她经历了极端的情感冲突，在背叛与痛苦中挣扎。故事开头，晓玥狠狠地质问她的负心汉，表现出她的愤怒与绝望。她用刀刺向负心汉，企图通过极端的方式宣泄自己的痛苦，而这份痛苦与愤怒正源自于她对他的爱与失望。小说描绘了晓玥的内心斗争，她知道在这个虚拟世界中，死亡并不是真正的结束，杀人也会伴随着巨大的痛苦。随着故事发展，她不仅要面对身体上的伤痛，更多的是内心的纠结与不安。最后，她的朋友徐姐则通过陪伴和试图带走她的悲伤，帮助她缓解情绪，提供了温暖的支持。整篇文章使用深刻的文字对晓玥的心理状态进行探索，表达了对人际关系的复杂思考，以及在自我认同与情感冲突之间的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_侵蚀.doc]([附身]_侵蚀.doc)
 | Size            | 75264 bytes                           |
 | MD5             | ce6d6eac06288f9141d4e4fe2fbb7759                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 情感戏, 自我探索, 伦理冲突, NTR, 决意复仇, 虚拟现实, 心理创伤, 伪娘, 强暴情节, 血腥场面, 情感背叛, 痛苦释怀, 徐姐                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

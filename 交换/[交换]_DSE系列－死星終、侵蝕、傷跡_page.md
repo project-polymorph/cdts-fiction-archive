@@ -21,7 +21,7 @@ TXT 下载: [[交换]_DSE系列－死星終、侵蝕、傷跡.docx]([交换]_DSE
 | Size            | 113364 bytes                           |
 | MD5             | bfb0a6d8710c65c29490d6ac3e8533ad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 乔尼                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

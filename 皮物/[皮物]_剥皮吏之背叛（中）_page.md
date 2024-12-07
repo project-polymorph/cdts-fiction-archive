@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_剥皮吏之背叛（中）.doc]([皮物]_剥皮吏之背�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一部以伪娘、变身、跨性别为主题的小说，《剥皮吏之背叛（中）》。故事通过角色李北木的视角展开，描绘了他的复杂情感和家庭背景。在故事的开始，李北木对父亲李煌奇的感情产生矛盾，尤其是父亲带着他在繁华的东市大街上游逛时，他目睹了父亲的老去，而这让他心生惆怅。他的爱恋对象花七与富有的汪大飞订婚，使得李北木愈加绝望。在情节的高潮部分，李北木发现父亲的真实身份，原名皮中原，背负着一个隐藏的家族诅咒。该诅咒使得皮氏家族的成员只能通过剥皮入替他人来追求自己的爱人，故事中充满了自我认同、性别变换与亲情的冲突。文字中描述父亲赤裸的形象以及用小刀割开自己皮肤的情节，展现了极端的血腥与冲突，暗示了角色心理的挣扎与痛苦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_剥皮吏之背叛（中）.doc]([皮物]_剥皮吏之背�
 | Size            | 36352 bytes                           |
 | MD5             | ceceba9501681b5dc72794a73050849e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 剥皮, 血腥, 都市, 父子关系, 爱情, 诅咒, 性别认同, 自我探索, 精神冲突, 逆境成长, 青春爱恋, 家庭秘密, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

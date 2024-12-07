@@ -7,7 +7,7 @@ TXT 下载: [[交换]_想ひ出のシャッター（後篇）.docx]([交换]_想
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为变身、伪娘与性转小说《想ひ出のシャッター（后篇）》的文档，讲述了角色秀德通过一台特殊的照相机，进行身体交换的故事。内容涉及角色的性别与身体的变化，以及相关的情感和自我认知的冲突。秀德的头与里香的身体互换，秀德体验到身为女性的感觉，内容中反复探讨了身体与性别认同的关系，伴随着一些挑逗与带有性暗示的情节。整个文档包括大量露骨的性描写，涉及自我探索、欲望以及对女性身体的体验等，并通过角色之间的互动表现出复杂的情感与心理变化。文中有许多直接且具挑逗性的语言，例如“要好好的疼爱喔‧‧啊‧‧啊～！！”以及对角色情感的深刻剖析，强化了其情节的层次感与情感深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_想ひ出のシャッター（後篇）.docx]([交换]_想
 | Size            | 30553 bytes                           |
 | MD5             | f8544d7c98fec82a537eb2f2e38e1e07                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 搭杢煉瓦                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, TSF, 伪娘, 情感探索, 自我认同, 幻想, 变身, 跨性别, 性别认同, 淫荡, 调教, 逆后宫, 冒险, 年龄差, 虚拟现实, 强奸, 淫乱, 变嫁, 情侣                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

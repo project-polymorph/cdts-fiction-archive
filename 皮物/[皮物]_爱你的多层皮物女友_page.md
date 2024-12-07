@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_爱你的多层皮物女友.doc]([皮物]_爱你的多层�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是作者znpos901的处女作，完整篇幅为21980字，主要讲述了一名经过改造的人类士兵罗文的故事。在故事中，罗文身处一个高度机密的生物技术研究所，正面临与自己身为实验体的身份及其生理改造的斗争。文件的情节涉及了科技与人性、角色自我认同的探讨，尤其是在罗文外表与人性之间的冲突。开头部分详细描写了罗文的身体改造情况，包括他的“第二心脏”和“仿生表皮”，并且表现出他对于自己身份转换的不安与思考。在与一名女所长林瑶的互动中，突显了公司和军部之间的权力关系及对士兵命运的掌控。同时，文章的后期揭示了一项关于女性人皮的神秘实验，展现了伦理道德的冲突。整篇小说充斥着强烈的肉欲描写和科技幻想，适合对变身与跨性别题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_爱你的多层皮物女友.doc]([皮物]_爱你的多层�
 | Size            | 516608 bytes                           |
 | MD5             | aa48f556c217a785d6d4e14014db4143                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | znpos901                               |
+| Region          | 未知                               |
+| Date            | 2021-09-01                                 |
+| Tags            | 性转, 跨性别, 改造人, 生物工程, 伦理道德, 女性人皮, 科技幻想, 自我认同, 实验体, 机械改造, 男子气概与女性化, 暗黑幻想, 科幻, 特工题材, 角色扮演, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

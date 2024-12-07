@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_16.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《把男朋友养成亲闺女》的第十六章，主要讲述了角色坎迪（Candy）与她的朋友贝丽（Belly）以及梅根（Megan）阿姨的互动。坎迪在酒店房间里准备了新买的裙子，兴奋地想着与贝丽共度愉快时光。同时，她回忆起已故母亲的旧衣物，感叹家庭的力量与关爱。坎迪出于关心，为贝丽准备了帮助她乳房发育的丰胸药物，希望能增强贝丽的自信心。午餐时，坎迪细心照顾贝丽，确保她坐在合适的位置，并向她介绍了维生素C的益处，希望能促进她的健康。整个章节充满了温情和相互关心的情感，也反映了角色之间深厚的友情和对彼此的支持。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_16.doc]([改造]_把男朋友�
 | Size            | 33280 bytes                           |
 | MD5             | 9e5f94b627a99e94468847aec7097318                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2022-05-15                                 |
+| Tags            | 性别转换, 伪娘, 友谊, 成长, 丰胸药物, 女性视角, 青春, 家庭支持, 自我探索, 情感纠葛, 现代生活, 校园生活, 情感交流, 饮食控制, 比基尼, 运动水上乐园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

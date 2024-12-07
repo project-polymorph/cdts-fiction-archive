@@ -7,7 +7,7 @@ TXT 下载: [[其他]_卡扎菲的秘密葬礼_18_玫瑰战争（交换、皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《卡扎菲的秘密葬礼》，展示了一个设定在利比亚内乱时期的虚构故事，围绕着卡扎菲的背景和变身情节展开。在故事中，作者描绘了一位角色通过物理交换的方式获得女性身体，并在新的身份下进行权力斗争。文章涉及到SM和催眠等情节，体现了角色在困境中的心理变化和应对策略。故事从对过去政权的回忆开始，逐步发展到对政治权力的争夺和个人身份认同的探索。文中提到的情节包含卡扎菲秘密葬礼的背后故事，以及新政府的形成过程，同时对角色的内心冲突和情感变化进行了细致描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_卡扎菲的秘密葬礼_18_玫瑰战争（交换、皮物
 | Size            | 20823 bytes                           |
 | MD5             | 845b46c7fb37d8a04327b31d3de20cca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, SM, 催眠, 权力斗争, 政治阴谋, 女性身体, 卡扎菲, 内战, 机密葬礼, 深层探索, 角色认同, 虚构故事, 心理变化, 情感纠葛, 二次元幻想, 幻想文学, 禁忌题材, 虚构历史, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

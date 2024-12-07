@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【翻译】害人者亦害己？.docx]([其他]_【翻译
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一篇伪娘与变身相关的小说，主要围绕角色的性别转换及其带来的心理和生理变化展开。故事情节涉及一个男性角色在被施加变身魔法后，逐渐转变为女性，并经历性别角色的颠覆与自我认同的冲突。开篇讲述了主人公施加诅咒于其哥哥，先是让他意识到自己身体的变化，随后引导他体验变成女性后的感觉，情节逐步推进，探讨了在性别转换中的心理状态及对自我的认知变化。文中大量运用了直白的描述，涉及到了高潮体验等性相关情节，整体风格较为露骨，适合特定的成人读者群体。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【翻译】害人者亦害己？.docx]([其他]_【翻译
 | Size            | 42178 bytes                           |
 | MD5             | 43c6d09a0402ebee000c28ef712d0c09                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 匿名                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 同性恋, 魔法, 诅咒, 自我认同, 身体变化, 性别转换, 性别角色, 心理冲突, 性高潮, 成人内容, 禁忌, 情感探索, 家庭关系, 性别认同, 女性化, 男性化, 复杂心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

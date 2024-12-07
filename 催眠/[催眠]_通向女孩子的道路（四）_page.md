@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_通向女孩子的道路（四）.doc]([催眠]_通向女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为催眠与跨性别主题的小说章节，主要围绕角色翔的心理变化和经历展开。故事中，翔被绑架并接受洗脑与性别转变训练，逐渐被转变为女孩。在过程中，他体验了一种新型的全沉浸式VR设备，该设备能够模拟异世界的环境，让翔在虚拟现实中感受到作为女孩的生活。文中提到，翔与周围的小女孩们互动，展现了他在新身份中的自我认知和情感变化。文件中描绘了关于女孩成长的心理和社会动态，揭示出性别认同和自我探索的主题。此外，故事亦涉及催眠、变性等敏感话题，并含有一定的色情暗示和心理描写，例如“我的泪腺变得脆弱了不少”，这反映了翔在催眠状态下情感的脆弱。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_通向女孩子的道路（四）.doc]([催眠]_通向女�
 | Size            | 52224 bytes                           |
 | MD5             | f81a4e1e2a5ea3a7e25054bd2ea11d6c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 变身, 跨性别, VR技术, 自我认知, 性别转变, 女孩子, 情感发展, 虚拟现实, 心理探索, 角色扮演, 异世界, 互动, 成长, 敏感话题, 虐待与保护, 情感脆弱, 社会动态, 梦境, 蜕变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

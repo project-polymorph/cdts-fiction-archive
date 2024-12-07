@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮术士_23_自然变身.docx]([皮物]_皮术士_23_自�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了朱丽叶在街道上行走的情景，她刚从昆丁的住所离开，心里思念着小女孩夏娃。故事中朱丽叶与夏娃的互动展现了她们之间的情感联系。朱丽叶在玛姬的裁缝店遇到了夏娃，夏娃因为朱丽叶的陪伴而露出开心的笑容。朱丽叶试图带走夏娃回到她的主人身边，途中却遇到了夏娃的父亲。故事描绘了复杂的人际关系与情感纠葛，也反映了朱丽叶的内心挣扎与对权力的追求。此文涉及一些性别角色的转变和情感关系，特定的情节设定对性别认同等主题有深刻的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮术士_23_自然变身.docx]([皮物]_皮术士_23_自�
 | Size            | 20751 bytes                           |
 | MD5             | 297308af29b3af7672dac4e662ebbb91                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 朱丽叶, 夏娃, 性别转变, 感情纠葛, 德鲁伊, 变身能力, 荒诞, 幻想, 情感关系, 冒险, 二次元, 角色扮演, 成长, 社会问题, 自我探索, 权力关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

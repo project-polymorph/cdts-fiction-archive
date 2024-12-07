@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《皓月当空叫》.doc]([皮物]_《皓月当空叫》.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《皓月当空叫》是一部围绕青春校园生活和青涩爱情的伪娘/男娘变身小说。故事设定在一所中学，主要讲述辛小月和祝昊这对青梅竹马之间的情感纠葛。辛小月是一位成绩优异、外貌出众的班花，而祝昊则是一名外形普通的男生，性格木纳，二人之间似乎存在着一种微妙的情感。故事从辛小月的视角开展，她因为祝昊的迟到而感到焦急，伴随着她对祝昊的关心，展示了她对这段情感的困惑与不安。在故事推进过程中，辛小月误会了祝昊，并在与同伴的交流中展现出她的嫉妒与不安，描绘出她对祝昊生活中的神秘陌生女性的强烈好奇。在校园场景与青少年独特的心理活动交织下，作品展开了对青春期爱慕与性别认同的探讨，情节由轻松幽默逐渐转向情感冲突的张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《皓月当空叫》.doc]([皮物]_《皓月当空叫》.
 | Size            | 53248 bytes                           |
 | MD5             | 516893b107bc5031483c99e632191086                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 校园爱情, 青梅竹马, 青春期, 情感纠葛, 男娘, 性别认同, 自我探索, 爱情困惑, 校园生活, 同学关系, 成长, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

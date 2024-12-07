@@ -7,7 +7,7 @@ TXT 下载: [[交换]_七年之痒（三）感同身受.docx]([交换]_七年之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件名为《七年之痒（三）感同身受》的小说片段讲述了一对夫妻安平与安琪在性别互换后产生的复杂情感与心理变化。故事开始于一个冰冷的酒店厕所，安平作为男性在陌生的女性身体里回忆着与安琪发生的亲密关系，内心充满了对新身份的困惑和挑战。文中描绘了角色的身体变化及其对性别身份的探索，安平在女性体内体验到的身体快感与对于自己身体的排斥形成鲜明对比。此外，安琪作为男性身体尝试掌控自己的生活，在争执中暴露出夫妻间长久以来的矛盾与不满。整段文本包含了丰富的情感描写与心理斗争，也探讨了性别身份与亲密关系的变化。小说中涉及一些限制级内容，如性描写和性关系的探索，体现了对个体自我认知与性别认同的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_七年之痒（三）感同身受.docx]([交换]_七年之
 | Size            | 28589 bytes                           |
 | MD5             | 27d4d63570e3d54884235d7071de8e33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ft3020997(yudi)                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 夫妻关系, 身份互换, 情感冲突, 性别认同, 自我探索, 身体感知, 情感戏剧, 婚姻危机, 心理斗争, 限制级内容, 女性身体体验, 男性身体适应, 性别流动, 二次元小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

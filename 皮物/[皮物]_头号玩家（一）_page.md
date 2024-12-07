@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_头号玩家（一）.doc]([皮物]_头号玩家（一）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《皮物：头号玩家（一）》的第一章，讲述了主人公花满楼在回家的路上遭遇一条神秘广告信息，诱导他点击一个按钮，从而卷入一场奇异的超能力获取游戏。这场游戏围绕着一个名为《传世之书》的法宝，与古代文明的斗争和超能力的获得密切相关。故事开始于日常生活的平淡，随着事件的发展，主人公的生活被彻底改变。小说探讨了角色的性别认同与自我探索，涉及奇幻与现代都市的融合以及超能力的戏剧性设定。内容中提到的神秘力量、历史传说及角色心理活动为故事增添了复杂性与趣味性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_头号玩家（一）.doc]([皮物]_头号玩家（一）.
 | Size            | 37888 bytes                           |
 | MD5             | e8b6b19ee5fbee2f520714045177c32f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 超能力, 奇幻, 自我探索, 现代都市, 异世界, 宗教元素, 男性视角, 心理戏, 虚拟现实, 穿越, 皮物, 图书馆, 冒险, 游戏, 神秘, 斗争, 死亡游戏, 能力提升                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

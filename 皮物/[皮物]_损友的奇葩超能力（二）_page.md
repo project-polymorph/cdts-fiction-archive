@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_损友的奇葩超能力（二）.docx]([皮物]_损友的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕着主人公通过一个同学林云掌握的奇特超能力展开，主要讲述了关于性别与身份认同的探索。故事从主人公因为心仪的班花李雪而不得不参与林云的计划开始，林云向他介绍了一个叫‘化皮’的能力，声称可以将人变成他人皮肤的能力。随着故事的发展，主人公面临难以选择的抉择，最终决定穿上林云变的人皮，从而体验化皮的后果。小说中充满了对于性别变化的幻想和自我认知的冲突，涉及对性别认同的深刻思考。主人公在穿上人皮后，身体及身份发生翻天覆地的变化，伴随着羞耻与兴奋的复杂感受，小说通过独特的视角探讨了变性、伪娘和跨性别等主题，描绘了奇幻的心理状态和角色间的感情纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_损友的奇葩超能力（二）.docx]([皮物]_损友的
 | Size            | 32847 bytes                           |
 | MD5             | 5a6e1080920713d2f888365c2753fba6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 超能力, 性别认同, 化皮, 角色扮演, 自我探索, 幻想小说, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

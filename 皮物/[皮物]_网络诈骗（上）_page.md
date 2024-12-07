@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_网络诈骗（上）.docx]([皮物]_网络诈骗（上）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名男性角色在潜意识中性转和心理变装的故事，内容涉及性交易与欺骗的主题，描绘了主角通过女友的社交软件进行欺诈的情况。从一开始，主角承认自己并不是有意骗人，但最终由一念之差走向了欺诈的边缘。故事开始于通过微信的“摇一摇”功能连接到一位中年男性，主角骗取了对此人产生好感的女友的信任，同时也潜入了对方的网络世界。整个故事中穿插着对性行为的描述，涉及性别认同与性别表达的主题，如变装、催眠、改造、皮物等情节，且包含了一些黑暗元素与性相关的情节，适合探索多元性别和性转文化研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_网络诈骗（上）.docx]([皮物]_网络诈骗（上）
 | Size            | 73159 bytes                           |
 | MD5             | dcd9b0f323d678ce309777512f67897c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 催眠, 改造, 变性, 皮物, 男男, 爱情, 网络诈骗, 自我探索, 性别认同, 性转, 都市, 黑暗情节, 冲突与转变, 虚拟关系, 禁忌爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

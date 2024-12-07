@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《碟中碟》新生的美少妇外传.doc]([皮物]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部小说《碟中碟》围绕一场关于复仇与身份变化的故事展开。故事的中心人物是陈璐，她利用一张人皮，企图让其丈夫张阳变身为胜利集团总裁女儿李欣，以此为自己报仇。在作品中，张阳在好奇心和妻子的爱意驱动下，最终决定穿上人皮，变化为李欣，并在潜意识中融合了李欣的记忆。小说深刻探讨了性别转换带来的身份认同问题，同时也包含了许多相关情节如情欲和禁忌的爱等。作为一本伪娘和跨性别相关小说，它描绘了角色在性别与自我之间的挣扎与转变，展现了新身份带来的情感冲突与复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《碟中碟》新生的美少妇外传.doc]([皮物]_《�
 | Size            | 35328 bytes                           |
 | MD5             | 506dda1b032b5930de3f3e9f3abdbbbf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 人皮, 复仇, 爱情, 自我认同, 禁忌, 身份变化, 情欲, 情感冲突, 记忆融合, 青春, 恋爱, 都市奇幻, 女性视角, 转变, 情感纠葛, 角色扮演, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

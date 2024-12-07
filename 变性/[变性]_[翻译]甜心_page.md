@@ -7,7 +7,7 @@ TXT 下载: [[变性]_[翻译]甜心.docx]([变性]_[翻译]甜心.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一部名为《甜心》的伪娘/变身小说翻译稿，讲述了主角威廉在变性后与其妻子卡瑞儿的故事。故事开始时，威廉隐约回忆起他们初识时的情景，描绘了他如今变为小女孩后的无奈与痛苦。威廉的妻子卡瑞儿则展现出一个自信而迷人的形象，强烈地暗示着她对威廉的新身份的掌控。而威廉内心充满了愤怒与不安，希望能够恢复自己原来的身份，却又不得不接受自己被称为“莫妮卡”和“甜心”的新角色。小说中的描述既有甜美的亲密瞬间，也有威廉对自身处境的不满，反映出角色性别转换带来的心理冲突，探讨性别与认同的复杂关系。整体风格结合了魔幻与现实，内容中包含了一些限制级的情节与性描写，强调了角色之间的权力动态和情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_[翻译]甜心.docx]([变性]_[翻译]甜心.docx)
 | Size            | 30158 bytes                           |
 | MD5             | f204c43668962f27cd982bd2a86307e6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2008-07-21                                 |
+| Tags            | 变性, 跨性别, 魔法, 自我认同, 家庭关系, 性别转换, 权力动态, 心理冲突, 情感纠葛, 魔幻文学, 伪娘, 童年, 女性视角, 婚姻, 欲望, 爱与恨, 性别扭曲, 角色扮演, 小女孩变身, 心理虐待, 幻想小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

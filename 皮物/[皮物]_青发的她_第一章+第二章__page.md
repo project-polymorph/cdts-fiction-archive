@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_青发的她_第一章+第二章_.docx]([皮物]_青发的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说的第一章和第二章，章节围绕角色榊原寿利和他的挚友川上望在私立青空学园的日常生活。故事开篇描述了寿利独自在房间上网，破解密码以进入一个神秘的邮购网站，兴奋地准备购买变身道具。随后，描绘了寿利与川上的友谊交流，川上显得对寿利所订购的玩偶装充满好奇，并展现出对这种玩偶装的性暗示。接着，故事描写了他们在放学后一起打开包裹时的期待与惊奇，包裹中竟然是一个青发少女玩偶，令他们感到兴奋和困惑。整个情节夹杂着性别认同和自我探索的主题，突显角色内心的冲突与成长。文件内容虽然包含一些性暗示，但主线围绕青春与友情及好奇心展开，充满了青春的悸动和对未知的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_青发的她_第一章+第二章_.docx]([皮物]_青发的
 | Size            | 43913 bytes                           |
 | MD5             | 72fb0fcdf94af69208552488f61d33cd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 伪娘, 变身, 青春, 友情, 性暗示, 校园生活, 幻想, 青发少女, 性别转换, 玩偶装, 特殊道具, 校园小说, 日本文化, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

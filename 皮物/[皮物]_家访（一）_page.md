@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_家访（一）.docx]([皮物]_家访（一）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《家访（一）》为一篇伪娘TS变身与跨性别相关的小说作品，围绕一位年轻美丽的少妇与一名女性角色之间的情感纠葛展开。故事背景设定在秋季的S市，描述了少妇在办公室的诱惑与一名跪着的女性之间的亲密互动，伴随着逐步发展的爱欲情节。少妇的专属魅力展现了她脱俗的气质与令人窒息的性感，吸引了身边女性的注意与崇拜。经过一系列的情感交织与肉体的探索，故事充满了对女性身材的细腻描写与情感宣泄，再加上办公室恋情的隐秘性，使得整篇作品兼具情趣和戏剧性。作品使用了不少极其细腻与直接的语言，描绘了两位女性在感情与欲望中的毫不掩饰的纠葛。同时，本文件也涉及了老师与学生间的互动及情感暗涌，开头设定了家访的主题，暗示了未来发展可能的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_家访（一）.docx]([皮物]_家访（一）.docx)
 | Size            | 23404 bytes                           |
 | MD5             | 03315bc6de2086ddc17a398a73087263                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 办公室恋情, 情欲, 女性亲密关系, 秋季, 性感, 师生关系, 爱欲, 情感纠葛, 校园, 娇媚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

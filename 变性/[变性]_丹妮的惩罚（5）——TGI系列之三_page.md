@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丹妮的惩罚（5）——TGI系列之三.docx]([变性]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是跨性别和变身题材的小说《丹妮的惩罚》（5），属于TGI系列的第三部作品，内含丰富情感和复杂角色关系。故事围绕主人公丹妮的生活变化展开，描述了她在新居环境中的自我反思和对马克斯的感情。丹妮因搬家的生活琐事，成为马克斯的重要联系人，并在与顾问阿布鲁奇的交易中，逐渐展现出她复杂的内心世界和对权力的渴望。情节中，丹妮向阿布鲁奇咨询秘密交易的计划，涉及到可疑的阴暗行为，展现了角色在性别认同与社会期望之间的挣扎。此外，故事还涵盖了丹妮与马克斯之间微妙而暧昧的关系发展，表面上的对话流露出更深的情感纠葛和潜在的危险情境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丹妮的惩罚（5）——TGI系列之三.docx]([变性]
 | Size            | 35692 bytes                           |
 | MD5             | f4b0a164036abb648cc50ca6dead2b6f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 丹妮, TGI系列, 性别认同, 员工与雇主关系, 权谋, 情感纠葛, 悬疑, 暗黑风格, 都市生活, 角色动态, 心理戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

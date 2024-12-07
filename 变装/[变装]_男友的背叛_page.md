@@ -7,7 +7,7 @@ TXT 下载: [[变装]_男友的背叛.docx]([变装]_男友的背叛.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个名叫南森的角色与他的妻子丹尼斯之间的关系冲突。故事发生在周六的早晨，南森和他的朋友们为观看NCAA篮球锦标赛而聚会，丹尼斯则被要求为他们提供饮料。随着情节的发展，南森被妻子质问关于他的情感不忠的事情，这引发了一系列尴尬和羞辱的情节。丹尼斯发现南森与一个名为安吉拉的女性有联系，她随后要求南森剃光身体毛发并穿上女性衣物，整体构建了一个关于性别认同与角色逆转的故事。南森最终被迫接受这种女性化的形象，同时面临着为自己的出轨行为付出的代价。他的羞愧与屈辱感以及对婚姻关系的反思是文件的核心主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_男友的背叛.docx]([变装]_男友的背叛.docx)
 | Size            | 21037 bytes                           |
 | MD5             | af1b72717777336bd98f35f2d3e72bad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变装, 情感背叛, 羞辱, 自我探索, 婚姻冲突, 性别角色, 调教, 纯爱, 强迫, 禁忌关系, 调教, 青春期困惑, 心灵挣扎, 行为逆转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_父与子（一）.docx]([交换]_父与子（一）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《父与子（一）》是一个关于转变和自我认识的虚构故事，描述了一位名叫陈志的父亲和他的儿子陈飞的关系。陈志在八年前因车祸失去行走能力，长期依赖轮椅生活。随着故事的进展，陈飞在一次野外考古活动后开始出现奇怪的行为。当陈志询问时，陈飞表示需要一些时间来解释。他们之间的对话引发了陈志的担忧。最终，陈志意外发现自己在经过一段时间的“睡眠”后竟然恢复了行走能力，这一变化让他感到震惊和不解。同时，他注意到自己的身体变得更加光滑和年轻，究竟是为什么呢？这是一次探寻身体和性别认同变化的旅程，内容包含自我发现与亲情纽带的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_父与子（一）.docx]([交换]_父与子（一）.docx)
 | Size            | 35568 bytes                           |
 | MD5             | 87a00030b0e3522519443e784ba1fefa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 父子关系, 性别认同, 变身小说, 自我探索, 家庭, 奇幻, 虚构故事, 心理冲突, 个人转变, 生活挑战, 科幻, 成长, 励志, 情感, 心理疗愈                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

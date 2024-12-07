@@ -7,7 +7,7 @@ TXT 下载: [[交换]_大意使用的结果.docx]([交换]_大意使用的结果
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档详细描述了一个女性秘书与她的男性上司之间的互动故事。故事的设定在一个现代化的办公室环境中，主要围绕主角的性别转换体验展开。在一次无意中下载的软件使用后，男经理意外地变成了他的女性秘书Cherry。在变身后，他体验到了作为Cherry的生活与工作情境，虽然表面上看似平常的工作，却因性别变化而产生了许多心理与社交上的冲突。故事中描写了工作中男女交往的复杂性，以及关于权力、性别角色和认同的讨论。随着故事的发展，男主的原本性格和思想也开始在身处Cherry的身体时产生碰撞，展现了性别认同的深度探索。文中还夹杂了一些轻松幽默的互动，以及面对职场压力时的困扰。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_大意使用的结果.docx]([交换]_大意使用的结果
 | Size            | 33210 bytes                           |
 | MD5             | 664e0c170f454b5e58bb07078e0da9c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 职场小说, 跨性别, 自我探索, 奇幻, 办公室恋情, 社会角色, 职业压力, 性转故事, 幽默与戏谑, 性别冲突, 心理变化, 多元性别, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

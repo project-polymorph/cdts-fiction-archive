@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丹妮的报复（5）——TGI系列之四.docx]([变性]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘相关小说《丹妮的报复（5）——TGI系列之四》的部分内容，描绘了角色丹妮和马克斯之间的互动关系和情感变化。故事开始于丹妮重返办公室，马克斯的欣喜和两人之间的亲密关系立刻显现出来。两人因为工作而相聚，从马克斯的兴奋中可以看出他对丹妮的思念与关心。在接下来的情节中，丹妮和马克斯开始共同忙碌于工作，展现出彼此之间的默契和温暖。然而，故事的转折在于丹妮的回归并不仅仅是重归于好，而是埋藏着更深层的情感与报复的内容。与此同时，另一条线索关注着洁蜜·里维拉在西班牙的生活和心态变化，她从最初的无助，到逐渐适应新环境，再到渴望爱情，展现了一个女性在自我探索和性别认同中的心理挣扎和成长。文件的情节涉及了个人情感，工作生活的叠加，以及复杂的人际关系，特别是性别转换与认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丹妮的报复（5）——TGI系列之四.docx]([变性]
 | Size            | 44734 bytes                           |
 | MD5             | 43c3132ba9df0cf29312d4cfa6e66800                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 情感关系, 自我探索, 工作生活, 情节转折, 角色互动, 性别认同, 恋爱, 女性成长, 异国生活, 职场故事, 感情纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_无限皮装.doc]([皮物]_无限皮装.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及性转和变身主题的小说，描绘了主人公通过与主神的契约进行性别转换，从而获得各种能力与形态的故事。小说开头，主人公因接收到主神的提示而醒来，发现自己被卷入了一个充满竞争的无限世界。在这个世界中，主人公需要利用兑换点来获取各种物品和能力，包括极具诱惑性的皮物。随着情节的发展，主人公逐渐揭开了自己新身体的感受以及换取力量的手段。这篇小说包含了大量性暗示与色情内容，涉及药物、调教、以及与其他角色的互动。内容中描述了主人公通过穿戴他人皮肤来获得权力的过程，并描绘了与目标角色进行性行为的细节，反映了性别认同和自我探索的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_无限皮装.doc]([皮物]_无限皮装.doc)
 | Size            | 36352 bytes                           |
 | MD5             | 68281277c18f97a3070311d97b14ef33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 伪娘, 跨性别, 强奸, 成人内容, 幻想, 药物, 调教, 英雄角色, 性别认同, 异世界, 情感纠葛, 魔法, 二次元, 心理探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

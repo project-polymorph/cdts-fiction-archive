@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_第五章_(下).docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换与角色扮演的小说章节，标题为《从今天起，你就是魔王》第五章（下）。章节描绘了主角菲尔在魔法师桂花的协助下，准备装备自己的过程，过程包括穿戴假乳、束腰和丝袜，旨在外观上实现性别的转换与角色的变化。文中详细描写了菲尔对于自己新身体的感受，尤其是穿上模拟女性身体的装备后所产生的心里变化，混合着不安与兴奋。随着装备的穿戴，菲尔的身体特征被展现得愈加女性化，令他感到一丝羞愧与兴奋。对于装备的效用也有详细的说明，包括如何为战斗提供保护以及增加魔法的抗性等。整体情节展示了菲尔在角色身份转换中的自我认知及心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_第五章_(下).docx]([皮�
 | Size            | 28260 bytes                           |
 | MD5             | 2996690461ee588e50f776a317efee2f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 角色扮演, 魔法, 幻想, 自我认知, 装扮, 紧身衣, 假乳, 心理冲突, 二次元, 幻想小说, 性别认同, 扮演欲望, 药剂, 团队互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

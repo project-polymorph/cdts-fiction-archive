@@ -7,7 +7,7 @@ TXT 下载: [[变身]_魅魔之夜（全一章）.docx]([变身]_魅魔之夜（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《魅魔之夜》讲述的是一位男主角经历的一次酒吧探险，他首次以女性身份进入酒吧，并穿上了由他的朋友所提供的魅魔套装。这种套装不仅改变了他的外表，让他拥有一个完美的女性身体，还让他体验到了前所未有的感受与身份认同的冲突。实质上，这个故事围绕着角色在异世界或特定场合下的变身经历展开，在酒吧的氛围中，男主角试图找到自己的位置，同时面对他在性别与角色方面的转变。在这过程中，他与一只狐娘展开了一段互动，而狐娘的身份也暗含了某种复杂的性别和权力关系。整篇作品在描写上尝试触碰H内容，虽然TSF（变身）元素较少，但通过衣着与角色设定展开的情节呈现了复杂的情感与欲望的交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_魅魔之夜（全一章）.docx]([变身]_魅魔之夜（
 | Size            | 28021 bytes                           |
 | MD5             | e45919438ff7fc092c4cebf81f4dfaf3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魅魔, 酒吧, 超自然, 性别认同, 狐狸娘, 自我探索, 角色扮演, 跨性别, H内容, 情欲, 第二性别, 异世界, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

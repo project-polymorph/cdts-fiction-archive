@@ -7,7 +7,7 @@ TXT 下载: [[变身]_张斌的奇妙生活(4).docx]([变身]_张斌的奇妙生
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘 TS 变身与跨性别相关的小说片段。故事围绕主角张斌展开，他在调查父亲失踪的过程中，意外地与一名变身角色相遇。张斌在情节发展中遇到了父亲的战友李伯，透过对话逐渐揭示了他父亲的过去与自身身份的纠葛。在故事中，角色在性别认同与自我探索的过程中经历了情感的冲突与矛盾，展现了变身与跨性别主题的独特视角。同时，涉及到的一代药剂与第二代药剂的讨论，也暗示了科学与魔法结合所带来的复杂性。在紧张的情节中，张斌面临着外部威胁，包括登场的歹徒以及警方的对峙，推动了故事的悬念与冒险色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_张斌的奇妙生活(4).docx]([变身]_张斌的奇妙生
 | Size            | 21587 bytes                           |
 | MD5             | 5aa159b33a8df14b4d5f46bb221aff53                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性转, 性别认同, 自我探索, 李伯, 张斌, 熊虎, 药剂, 悬疑, 家庭, 冒险, 都市幻想, 情感冲突, 异世界, 二次元, 强奸, 斗争, 药物, 战友,  LGBTQ+                                  |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

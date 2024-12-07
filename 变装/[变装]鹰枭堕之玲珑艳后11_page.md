@@ -7,7 +7,7 @@ TXT 下载: [[变装]鹰枭堕之玲珑艳后11.doc]([变装]鹰枭堕之玲珑�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇作品《鹰枭堕之玲珑艳后11》是一部涉及性别变换与自我认同的小说，讲述了男警察叶凌龙的儿子夜玲珑（化名朱丽叶）在参加变装比赛后，经历了性别角色转变的心路历程。故事中，朱丽叶身穿传统泰国女性服装，在宴会上翩翩起舞，展现出女性化的优雅与魅力。然而，随着故事的发展，朱丽叶不断面临自身性别身份的认同危机，内心的冲突愈发剧烈。作品通过对宴会场景的描绘，展现了角色的变化以及周围人对此的反应，如身为男性的身份的转变、对女性角色的逐步适应与矛盾心理的交织。文中还涉及到家族关系、对父亲身份的渴望，以及对社会评价的敏感，其中父与子之间的对比更是让人深思。最后，朱丽叶决定辞去警察的工作，走向新的身份，体现了对个人选择的挣扎与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]鹰枭堕之玲珑艳后11.doc]([变装]鹰枭堕之玲珑�
 | Size            | 34304 bytes                           |
 | MD5             | 49e0f6ead44ebbeacd10b0b10b789d9a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | James                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装比赛, 跨性别, 自我探索, 心灵斗争, 权力与欲望, 家族关系, 社会评价, 矛盾心理, 传统服饰, 角色转换, 夜玲珑, 朱丽叶, 变装文化, 特定社交场合, 剧烈情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

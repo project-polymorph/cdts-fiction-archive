@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_转瞬双生19.docx]([皮物]_转瞬双生19.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一段关于‘茉莉’和‘徐平’两位角色在商场购物的对话与感受的情节。‘茉莉’是一个充满自信与奢华的角色，而‘徐平’在心中对‘茉莉’的奢侈消费感到复杂的情绪，虽表面上感激，内心却暗自不满。两人游走于商场的奢侈品牌店，‘茉莉’试穿了一系列华丽的服装，展现了她的魅力与自信，而‘徐平’则抑制着自己复杂的心理感受。在过程中，‘徐平’对‘茉莉’的外表与行为产生了微妙的情感纠葛，展现了角色间的身份转变与自我认知的运动。两位角色的互动既反映了现代社会的消费文化，又探讨了性别认同与自我意识的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_转瞬双生19.docx]([皮物]_转瞬双生19.docx)
 | Size            | 34796 bytes                           |
 | MD5             | 770212daca7ff12fef75b4085ea8760d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 自我探索, 奢侈品, 购物主题, 都市情感, 心理冲突, 人际关系, 女性视角, 日常生活, 变装, 情感纠葛, 流行文化, 消费主义                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

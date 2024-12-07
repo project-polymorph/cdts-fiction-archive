@@ -7,7 +7,7 @@ TXT 下载: [[附身]_神奇的杯子1-4.docx]([附身]_神奇的杯子1-4.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个围绕林飞凌和他对班花小雅的暗恋而展开的故事。故事开头，林飞凌因缺乏资金而烦恼，无法为小雅的生日准备礼物。在一次春游中，林飞凌意外找到一个特别的杯子，并在与这个杯子的接触中，竟意外地变成了小雅。故事通过林飞凌在小雅身份下的经历，探讨了性别转变所带来的身份认同与自我探索。随着故事的发展，林飞凌体验到作为女性的身体，所带来的感官刺激与心理冲突，最后还与好友大飞发生了一场误会。整个故事充满了性别转换、身份探索及青春岁月的困惑，同时也揭露了一些青少年之间的感情与性观念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_神奇的杯子1-4.docx]([附身]_神奇的杯子1-4.docx)
 | Size            | 29011 bytes                           |
 | MD5             | f59e76b77a44432bc5b97d102cd68d8a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 青春, 暗恋, 自我探索, 身体认同, 性别角色, 变身小说, 伪娘, 青少年, 情感纠葛, 校内生活, 误会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

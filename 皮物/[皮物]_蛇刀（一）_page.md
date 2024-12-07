@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_蛇刀（一）.docx]([皮物]_蛇刀（一）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《蛇刀》的小说，讲述了主人公林枫与女友琳琳的日常生活，尤其是她们的亲密互动。在故事中，林枫描绘了一个阳光明媚的早晨，琳琳正准备上班，身穿高跟鞋的她吸引了林枫的目光。林枫在小区中捡到了一把小手术刀，这把刀引发了一系列恐怖而奇异的事件。女友在一次意外中，因水泡的问题，出现了外形的变化，变得像是被包裹了一层新皮一样。故事在幽默和紧张的氛围中展开，探讨了性别与身份的模糊，创造了一种独特的体验，混合了现实和超现实的元素。第一章以轻松的语气开始，随着情节的发展向更加紧张的转折。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_蛇刀（一）.docx]([皮物]_蛇刀（一）.docx)
 | Size            | 20496 bytes                           |
 | MD5             | efed204620379d08e303f9904cebfd4f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 高跟鞋, OL制服, 生活日常, 性别认同, 亲密关系, 奇幻, 心理变化, 都市幻想, 爱情, 创伤, 黑丝控, 蛇蜕皮, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我的家（第一章）.doc]([附身]_我的家（第一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是伪娘 TS 变身与跨性别相关小说的档案，主要讲述了一名父亲和他的女儿之间的紧张关系以及未解的家庭矛盾。故事围绕着父亲与女儿对母亲（妻子）的质疑展开，女儿孙淼声称母亲的性格发生了改变，并试图劝说父亲与母亲离婚。文中细腻地描绘了父亲对女儿情绪的反应及内心的挣扎，通过家庭成员的对话，展现了女儿的深切不安以及母亲的忙碌与忽视。随着情节的发展，文章还探讨了父母与孩子之间的沟通问题，以及成年男性对女儿穿着的情感色彩，融合了一些家庭生活的真实细节和感情描写，构建出一种微妙的家庭动态。文中涉及的情节和主题触及了性别认同和家庭关系的深层次问题，包含了可能的限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我的家（第一章）.doc]([附身]_我的家（第一�
 | Size            | 40960 bytes                           |
 | MD5             | ecf88e47c0827e7e30e33e25593aaf2e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 家庭关系, 父女关系, 情感冲突, 沟通问题, 变装, 成长困惑, 生活琐事, 父亲的责任, 紧张氛围, 自我探索, 母女关系, 依怙与叛逆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

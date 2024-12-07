@@ -7,7 +7,7 @@ TXT 下载: [[变性]_碧莉的蜕变（5）——TGI系列之二.docx]([变性]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是变性主题小说《碧莉的蜕变（5）——TGI系列之二》的第五章，讲述了角色汤尼·利佐在经历变性治疗后的生活变迁。他曾是一名护士，现在希望在新公司TGI找到一份工作，同时也面临着同事的嘲笑、职场的压力、以及自身性别认同的困惑。故事中，汤尼与同事帕梅拉的对话交流了他对新工作的期待以及他对个人生殖器移植的渴望。此外，本章还涉及了职场中的不道德交易与裁员的阴谋，汤尼利用别人对他的信任进行了一场令人意外的安排，展现了在不断变化的身份认同中人性复杂的一面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_碧莉的蜕变（5）——TGI系列之二.docx]([变性]
 | Size            | 49875 bytes                           |
 | MD5             | 4db09fccf2e571424082831786d1740f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 伪娘, 职场, 性别认同, 阴谋, 感情困惑, 生活压力, 人际关系, 都市小说, 自我探索, 医护行业, 女性视角, 变装, 经济危机, 情感创伤                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

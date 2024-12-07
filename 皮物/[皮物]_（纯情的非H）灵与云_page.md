@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（纯情的非H）灵与云.doc]([皮物]_（纯情的非
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《灵与云》是一篇关于爱情与自我认同的短篇小说，讲述了男主角对名为灵的女孩深厚的情感。他们的爱情在一场突如其来的分手中戛然而止，灵因先天性心脏病不幸去世。男主在绝望中寻求命运之神的帮助，愿意为灵牺牲自己的生命来换取她的复生。为了拯救灵，他最终选择将自己的身体与灵的意识结合，从而实现身份的转变和灵魂的永恒相伴。故事通过细腻的情感描写和出生与死亡的对比，揭示了爱与牺牲的深刻主题，充满了对美好爱情逝去的哀伤和对重生的期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（纯情的非H）灵与云.doc]([皮物]_（纯情的非
 | Size            | 32256 bytes                           |
 | MD5             | 1a6156671e39f69e44e60983fdb519bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 爱情, 跨性别, 自我认同, 灵魂结合, 牺牲, 情感, 童话式, 奇幻, 灵异, 命运之神, 女性视角, 心脏病, 日记, 生死, 真实与幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

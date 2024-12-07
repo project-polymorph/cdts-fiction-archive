@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_真心话？大冒险.doc]([催眠]_真心话？大冒险.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《真心话？大冒险？》的中文翻译版本，作品围绕着主人公科迪与其女友朱莉以及布莱恩的复杂关系而展开。故事从两人即将参加朋友的生日派对开始，逐渐引入了一场游戏《真心话与大冒险》。在游戏中，科迪和朱莉的过去与秘密开始被揭开，尤其是朱莉对布莱恩的情感引发了科迪的紧张与不安。在一系列游戏和互动中，朱莉的形象发生了戏剧性的变化，她逐渐变成一个受到布莱恩吸引的金发女郎，这一变化引发了科迪内心的复杂情感。在之后的游戏中，角色之间的界限逐渐模糊，玩笑与性暗示交错，故事揭示了性别与身份之间的流动性。最后，通过魔法或游戏的设定，角色的性别意识和认同发生了戏剧性变化，使得这部作品可以视为一部围绕性转与跨性别主题的探讨作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_真心话？大冒险.doc]([催眠]_真心话？大冒险.
 | Size            | 40448 bytes                           |
 | MD5             | 57c9d3614c0f6cf3785abfcbbf0b17bf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Steven C                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 游戏, 怀孕, 强奸, 色情, 情感冲突, 大学生活, 派对, 真心话与大冒险, 自我认知, 复杂关系, 性别认同, 青春成长, 调教, 变嫁, 百合, 逆后宫, 调情技巧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

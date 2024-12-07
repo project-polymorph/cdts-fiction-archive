@@ -7,7 +7,7 @@ TXT 下载: [【万万没想到】乔纳尔的运气.doc](【万万没想到】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘变身与跨性别题材的小说，描绘了主角乔纳尔在意外获得另外一个身份——娇小的精灵夏尔•拉文斯伍德后的冒险旅程。故事开始于乔纳尔寻找皮衣的制作者阿卡丽玛，却意外发现自己改变了外貌，并在途中遇到了曾经的熟人梅奥琳。在经历了一系列的心理斗争后，乔纳尔对自身的性别认同产生了复杂的情感，并与梅奥琳展开了一段亲密关系。小说中涉及到角色的性别认同、自我探索及情欲的描绘，体现了变身小说的独特魅力。字里行间充斥着对角色身体变化的细腻描写和情感共鸣，突出了角色在两种身份之间的挣扎与接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [【万万没想到】乔纳尔的运气.doc](【万万没想到】�
 | Size            | 44544 bytes                           |
 | MD5             | c33df18453170f48b15a3fcc0925c72e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 娇小, 冒险, 精灵, 情欲, 自我探索, 性别认同, 青春, 魔法, 奇幻, 同性恋, 暗夜精灵, 友情, 秘密                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

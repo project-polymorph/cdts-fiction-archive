@@ -7,7 +7,7 @@ TXT 下载: [[其他]_婚纱的诅咒【十一】.doc]([其他]_婚纱的诅咒�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一篇描绘在普吉岛旅行的变化与内心斗争的小说片段。故事的主角和朋友林敏在热带岛屿度假，阳光、沙滩和美食让他们的旅程令人愉悦。然而，主角却对一个特殊的场景感到困扰：他们看到新人在沙滩上拍摄婚纱照，主角不自觉地被新娘的婚纱吸引，但同时又面临着自己潜藏的内心冲突和身份认同的困扰。故事中提及婚纱的美丽与主角的联想，以及在这个过程中他对自己作为一件婚纱的异化思考，展现了对于性别认同和自我身份的深刻反思。文中刻画了主角与林敏之间的情感交流以及主角内心的挣扎与暗潮涌动，而他的反应则引发了他对婚纱的回忆以及被变成婚纱的诅咒感，表现出对性别认同的探索和困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_婚纱的诅咒【十一】.doc]([其他]_婚纱的诅咒�
 | Size            | 33280 bytes                           |
 | MD5             | 5168484b0f16cca1c2640709714c6b18                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 婚纱, 普吉岛, 性别认同, 自我探索, 婚礼, 旅行, 内心斗争, 友情, 异化, 情感交流, 自我剖析, 变身, 人妖表演, 婚纱照                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

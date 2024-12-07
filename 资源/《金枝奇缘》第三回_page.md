@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第三回.doc](《金枝奇缘》第三回.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《金枝奇缘》第三回主要讲述了胡济生在凌云殿的经历。他被理事院注意到，成为了正式弟子，虽然干的是艰苦的辟秽活，但他对此心怀感激。在一次收集极品清灵草的任务中，他邂逅了玲珑阁的女弟子苏映雪，深深被其美貌吸引。同时，胡济生心中对朱肥夺舍顾茹的担忧，以及对苏映雪的幻想交织着，心里充满了对身份的自卑感和迷茫。在跟随众弟子讨论苏映雪和顾长卿的关系后，胡济生心中暗生邪念，决心趁机进入苏映雪的住处，阴差阳错地进行了一系列丧心病狂的行为。最终，他因盗取苏映雪衣物而被执法弟子抓获，宁伯玉对他勃然大怒，最终命令将他重重惩罚。此回突显了性别与身份认同的复杂关系以及冲突的心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第三回.doc](《金枝奇缘》第三回.doc)
 | Size            | 40960 bytes                           |
 | MD5             | 1c4ea646839c8bfac3db8c9709c46875                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 跨性别, 魔法, 奇幻, 改变身份, 伪娘, 欲望, 社会压迫, 情节曲折, 绝美女子, 盗窃, 残灵, 低贱的生活, 兄弟情义, 阴暗心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【轮回空间】第4~6章.docx]([变身]_【轮回空间
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为变身小说《轮回空间》的第4至6章，围绕角色小熊和林风的变身过程展开。故事开始时，小熊醒来发现自己变成了小女孩爱丽丝，旁边是另一个角色佳欣，小熊感到一种新奇与羞涩。通过一些幽默和羞耻的描写，文中展现了角色们在变身后的身体变化与情感冲突。小熊在尝试适应这一变化时，和林风之间的互动则充满了气氛的调侃和内心的挣扎。随着情节的推进，角色在一个名为轮回空间的设定中进行各种活动，例如群聊、交换衣物、玩游戏等，展现出其独特的虚拟世界和角色演绎。小说涉及了一些敏感内容与性暗示，反映出角色在性别认同上的丰富情感。多样的角色互动和情节进展为读者提供了一种超现实的阅读体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【轮回空间】第4~6章.docx]([变身]_【轮回空间
 | Size            | 71587 bytes                           |
 | MD5             | 708443536d51bc81df244cae9154b989                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 奇幻, 二次元, 青春, 强烈感受, 情感冲突, 虚拟现实, 角色扮演, 换装, 游戏, 伙伴关系, 心理探索, 童年记忆, 性别认同, 丰富情感, 社交群体, 日常生活, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

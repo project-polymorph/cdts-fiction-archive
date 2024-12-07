@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魅魔手套（三）.docx]([皮物]_魅魔手套（三）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了角色柳如烟的生活及其周围的一些事件。故事通过柳如烟在街边的购物场景展开，描绘了她的外貌与性格特点。她的声音被形容得如蜜糖般诱人，但她也展现出霸气的一面，显得神秘而强大。与此同时，跟踪她的男子王耀德则暗中谋划着自己的复仇计划，情节充满了紧张感和潜在的冲突。故事中江湖恩怨交织，柳如烟与王耀德之间的复杂关系让人物关系更加立体，充满张力。整体情节设定围绕性别转换和角色身份展开，其中涉及到了许多相关的设定，比如魅魔手套、角色扮演、追踪等元素。文件中的对话描写生动，人物个性鲜明，为后续的情节发展埋下了伏笔。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魅魔手套（三）.docx]([皮物]_魅魔手套（三）
 | Size            | 23865 bytes                           |
 | MD5             | 7aa6d604a7101c4465ad27ff1bca2fe9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 跨性别, 魅魔手套, 复仇, 伪娘, 强奸, 调教, 香水, 角色扮演, 恋爱, 暗恋, 都市, 阴谋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

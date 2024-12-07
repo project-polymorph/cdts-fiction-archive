@@ -7,7 +7,7 @@ TXT 下载: [[变性]_学习成为一名女人（上）.docx]([变性]_学习成
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《学习成为一名女人》的上部，作者为Jennifer White。故事围绕主角特里展开，他生活在一个贫穷的小镇上，对未来并无太多期待。尽管特里是个好学生，但上不起大学的现实让他面临着与父亲一样的工厂生活的命运。随着机会的到来，一封来自弗里丹大学的奖学金信件使他的人生发生了转变，然而这封信却将他的名字拼错了为“特丽”，引发了一系列的误解和困扰。特里与女友达西亚以及母亲之间的对话，展现出他对于性别角色和社会期望的内心挣扎。小说通过特里面临的选择，探讨了性别认同和自我发现的主题，并呈现出他在对抗传统观念和追求梦想之间的矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_学习成为一名女人（上）.docx]([变性]_学习成
 | Size            | 20967 bytes                           |
 | MD5             | 3f03b863097958aa24af1378e2c707df                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jennifer White                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身, 青春成长, 爱情, 奖学金, 贫困, 家庭关系, 社会期望, 女装, 心理冲突, 青春爱情, 大学生活, 追求梦想, 角色转换, 好友支持                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

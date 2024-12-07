@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔眼系列-風雲人物.docx]([皮物]_魔眼系列-風�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《魔眼系列-風雲人物》包含了一段围绕大学校园中风云人物的故事，主要聚焦于一群被称为艾妲姐妹会的女性角色。她们分别是四位貌美的女性，个性鲜明，并且拥有显赫的家族背景。文件描述了她们在校内的活动及其与外界的互动，尤其是每周末邀请不同男性同学回家，暗示着可能的秘密和争议。故事中透漏出周围人的好奇与猜测，许多人认为她们可能与卖淫有关系，但始终没有找到实质证据。文中通过一位校刊社的新人白亚加入艾妲姐妹会的动态，展示了他在与她们的互动中所感受到的压力与无奈。文件不仅体现了校内文化，更探讨了性别和权力之间复杂的关系。引人关注的是姐妹会与男性同学之间微妙的联接，暗示了更深层的情感和伦理问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔眼系列-風雲人物.docx]([皮物]_魔眼系列-風�
 | Size            | 33924 bytes                           |
 | MD5             | df0878e2647ed8093d442dc1dc4700de                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 学校生活, 性别转变, 社交互动, 秘密组织, 强奸, 药物使用, 男生受害, 百合, 暴露, 校园爱情, 性别认同, 性交易, 阴谋, 自我探索, 女性视角, 奇幻, 悬疑, 二次元, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

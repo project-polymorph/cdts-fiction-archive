@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔法のアプリでギャルJKを皮にして成りす�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个围绕伪娘与跨性别主题展现的小说，故事的主线围绕着一款魔法应用程序「皮相机」，通过这款应用程序，角色可以将喜欢的女性转变为成人皮，伪装成她们。故事的主角与她的女同性恋后辈，透过这种方式进行了一系列的互动和玩弄，在情节中展现了强烈的性控制和权力动态。在一次互动中，角色们主动操控他人的身体，将年轻女性转变为她们的“性玩具”，并描述了涉及强烈欲望的喷水与自我愉悦的场景。故事虽然在某种程度上探讨了身份的流动性与自我认知，但同时也运用了大量的色情元素和敏感话题，明显包含不适合未成年人的内容，涉及性别与权力的扭曲关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔法のアプリでギャルJKを皮にして成りす�
 | Size            | 23083 bytes                           |
 | MD5             | 849e31a98bf2df13dc43f28f7fa04429                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 魔法, 变身, 跨性别, 性玩具, 年轻女性, 权力动态, 控制与顺从, 成人皮, 自我愉悦, 性别认同, 性转, 同性恋, 强烈欲望, 情感操控, 洗脑应用                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

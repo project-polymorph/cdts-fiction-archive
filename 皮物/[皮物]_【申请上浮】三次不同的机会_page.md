@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申请上浮】三次不同的机会.docx]([皮物]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及跨性别主题的小说，描绘了一名老人以及他与名为小雅的护理人员之间的温馨互动。然而，随着故事的发展，老人逐渐面对死亡的威胁，同时又在梦中遭遇一位自称精灵的存在。这个精灵诱惑老人用小雅的生命来延续自己的生命。老人内心挣扎，展现出对生命的珍视，最终选择拒绝这种交换生命的提议。他的内心独白与感情交织，表现出对过去记忆的怀念以及对年轻时期的向往。故事后半部分，老人醒来后发现自己变成了一个年轻女孩，身穿学生制服，象征着他潜意识中对生命重启的渴望。文章主题探讨了生命、记忆和身份的交融，以及对性别角色和自我认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申请上浮】三次不同的机会.docx]([皮物]_【
 | Size            | 20101 bytes                           |
 | MD5             | 01bf88db2277d568b94a201e557a02e8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 伪娘, 自我探索, 生命与死亡, 情感交流, 记忆, 身份认同, 成长, 奇幻, 性别认同, 梦境, 诱惑, 人生选择, 病态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

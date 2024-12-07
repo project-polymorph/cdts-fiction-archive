@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔皮08.docx]([皮物]_魔皮08.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于伪娘和跨性别主题的短篇小说，描绘了角色之间复杂的关系与情感。故事中涉及一个名叫爱丽丝的角色，她与名为雪露的亚裔女秘书之间的互动，包含了强烈的情色暗示和权力游戏。小说开篇描绘了在某个宴会场合中，爱丽丝正在享受两名少女，而她与雪露的交流则暗示着一种依赖与控制的关系，透露出性奴隶与奴役主题。此外，还有探讨教会力量与魔法的元素，显示了一个充满奇幻与冲突的世界。整体情节围绕着性别认同、自我探索和控制欲展开，包含了一些限制级内容，以及强烈的性暗示和相关情节。 文章中多次出现对少女角色的身体特征和情感状态的详细描写，体现出性别转换和性角色的模糊界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔皮08.docx]([皮物]_魔皮08.docx)
 | Size            | 23020 bytes                           |
 | MD5             | 7289530715d096ef330a2641eae27c91                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 强权, 性奴隶, 奇幻, 权力游戏, 性别认同, 情感探索, 魔法, 虐待, 调教, 强奸, 后宫, 女仆, 奇幻世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

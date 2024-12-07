@@ -7,7 +7,7 @@ TXT 下载: [[变身]_TG图片四十七.doc]([变身]_TG图片四十七.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于两个年轻人杰森和尼克的奇幻故事，围绕一个具有魔力的护身符展开。故事开始时，杰森希望尼克变成一个性感的女孩子，以便将来可以与她结婚。奇迹般地，护身符实现了这个愿望，尼克醒来时发现自己变成了女孩尼娜，并且回到了少女时代，试图适应这一新的身份。在经历了一系列内心挣扎和感官体验后，尼娜接受了这个新身份并逐渐感受到了作为女孩的快乐。然而，她也意识到为了变回男孩，她必须等待杰森再次拥有护身符，许下新的愿望。故事最后，她与杰森陷入了一段复杂的情感关系，解决了性别、角色和自我认同的问题。该作品包括了一些露骨的情节，描绘了尼娜对自己身体变化后的反应，以及与杰森的亲密关系。这是一部涉及性别认同、自我探索和奇幻元素的跨性别小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_TG图片四十七.doc]([变身]_TG图片四十七.doc)
 | Size            | 39424 bytes                           |
 | MD5             | 9990e15c8dfaff42e0ece933502da9dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 愿望成真, 自我认同, 奇幻, 性别角色, 青春期, 性转, 女生生活, 恋爱关系, 性别敏感, 情感探索, 魔法护身符, 青少年, 社交困境, 身体意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

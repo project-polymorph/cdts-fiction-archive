@@ -7,7 +7,7 @@ TXT 下载: [[变装]_囚徒女仆6（完）.doc]([变装]_囚徒女仆6（完�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一部围绕性别转换和跨性别主题的小说，描述了主角杰西卡从男性转变为女性后，与罗伯托的复杂关系。这部作品细腻地展现了主角在探索自我认同和性别认同的过程中所经历的情感冲突和身体感受。在小说中，杰西卡逐渐适应其新的女性身份及角色，经历了从羞愧和恐惧到享受和接受女性身份的转变。文中详细描写了杰西卡与罗伯托的亲密互动，包括多次性行为的具体细节，展现了跨性别者在性别认同中可能遇到的复杂情感。尽管杰西卡一开始对与男性的亲密关系感到紧张，但随着时间的推移，她开始对罗伯托产生依恋和归属感，最终接受了自己的新身份。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_囚徒女仆6（完）.doc]([变装]_囚徒女仆6（完�
 | Size            | 39936 bytes                           |
 | MD5             | 58cefa69e453424fd0d82b3c2a1f7dcb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 性转小说, 伪娘, 男娘, 情感探索, 强烈的自我意识, 性关系, 内心冲突, 女仆角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

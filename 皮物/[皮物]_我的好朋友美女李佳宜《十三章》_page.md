@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《十三章》.docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《我的好朋友美女李佳宜》，内容围绕男主角王林与他女友李佳宜之间的互动进行叙述。故事开始于一个清晨，王林起床准备上学，途中与朋友耗子打招呼。然后，他与李佳宜在学校相遇，李佳宜表现出对王林去向的关注与疑惑，表达了对他们友情的担忧。王林的心情复杂，内心斗争着自己的真实感受以及对友情的理解。随后，王林回忆起昨日的经历，感慨自己的一段特殊经历。文本中透露出王林的身体感受和对自身性别认同的探索，这与伪娘和跨性别的主题息息相关。故事的情感层面较为细腻，展现了角色之间的情感交织和人物内心的挣扎，尤其是在处理性别认同和自我认知的过程中。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《十三章》.docx]([皮�
 | Size            | 30782 bytes                           |
 | MD5             | 9fefa832b8fd4e22a0ce7310bac23b1a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 青春校园, 自我探索, 友情, 身体认同, 清纯可爱, 情感纠葛, 心理戏, 人际关系, 师生关系, 性别角色, 剧情发展, 校园生活, 成长故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

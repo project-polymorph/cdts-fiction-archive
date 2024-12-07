@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_10（非同�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为变身小说的一部分，标题为《我困在了安柏的身体里》。故事围绕一名主人公经历性别转变并在他人的身体中重生的情节展开。在第十章中，主人公回到一家公司工作，身为女服务员安柏的身份引发了一系列情感纠葛和社交场景。故事描述了主人公感受到的情感冲突，以及与老朋友朱莉娅的重聚，展现出被围绕着美丽年轻女孩的啤酒节主题餐厅的生活氛围。章中详细描写了餐厅的工作环境、女服务员的服装及她们迎接主人公的热情。同时，主人公在面对失忆、情感和自我探索时的内心斗争被刻画得相当细腻。此外，抽离身体后的情感体验和重建人际关系的挑战也贯穿全文。文件中的一段情节提到，"我真的不能像以前那样控制住安柏的酒量了"，凸显了主人公对于身体转换的深刻感受和对过去生活的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_10（非同�
 | Size            | 51712 bytes                           |
 | MD5             | 6e050466bdcabbaa8049483b2630559f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 友情, 艾米莉, 餐厅生活, 社会交往, 自我探索, 失忆, 啤酒节, 复生经历, 情感冲突, 工作环境, 女性视角, 身份认同, 青春时光                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_印象之我看高考。全国卷.doc]([附身]_印象之�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于高考的虚构小说，描绘了主角李雷穿越时空，代替不同女性角色参加1977年至2017年的高考过程。故事通过李雷的视角，探讨了高考对学生命运的重要性，以及在不同年代的高考经历。文件中提到李雷在每个时间段的经历，包括面对考试压力、时代的变化和个人成长。通过穿越，李雷体验到了成为女性的不同感受，尤其在意识到高考状元的艰难与历史背景时表现出更多的思考与冲突。此外，文件提到的不同时期状元的名字，体现了高考的历史与记忆。整体散发出对教育和时代变迁的反思，在结尾部分更是感慨自身对于高考的艰辛与专业呕心沥血的体会。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_印象之我看高考。全国卷.doc]([附身]_印象之�
 | Size            | 28160 bytes                           |
 | MD5             | 9b106cb806b6ee37644e49851b038da5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 高考, 穿越, 性别转换, 成长, 教育, 人生选择, 历史, 社交, 代入感, 自我探索, 女主角, 青春戏剧, 时代变迁, 学业压力, 心理成长, 命运转折, 女权, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

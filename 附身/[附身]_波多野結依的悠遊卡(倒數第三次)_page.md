@@ -7,7 +7,7 @@ TXT 下载: [[附身]_波多野結依的悠遊卡(倒數第三次).doc]([附身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《波多野結依的悠遊卡(倒數第三次)》，内容涉及一个关于角色体验与性别认同的复杂故事。叙述者在使用一张与日本成人影片女优波多野結依相关的悠遊卡后，逐渐感受到它赋予的“魔力”，开始对自己的性向产生困惑。在反复沉浸在对悠遊卡的幻想中之后，叙述者体验了一次身体的转变，并意识到自己身处于波多野結依的身体内。在这一体验中，叙述者经历了一系列对自我的迷失与探索，逐渐发现自己在情感与生理上都开始向女性角色靠拢。在性幻想与现实生活的交织中，叙述者对与同事“爱紗”的关系也愈加微妙，展现了情感上的依赖及性欲的勃发。文件还涉及强烈的性描写与冲突，挑战叙述者对身份与欲望的认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_波多野結依的悠遊卡(倒數第三次).doc]([附身]
 | Size            | 63488 bytes                           |
 | MD5             | 12e67a7ecbd15d84e184d35848bb2a2a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转, 身体交换, 恋爱, 幻想, 自我探索, 色情, 变嫁, 伪娘, 变身, NTR, 强奸, 年龄差, 雌堕, 奇幻, 科幻, 非人化, 游戏, 二次元, 魔法少女, SM                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_•家庭慾望3部曲之二•邪惡的夫妻情趣（別
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为‘家庭欲望3部曲之二•邪恶的夫妻情趣（别名•恋僧与圣女）’，是一部涉及性别转换和跨性别主题的小说。故事围绕着一个中年男子与一位和尚之间的对话，二人似乎有着复杂的过去，和尚成为了一个拥有特殊能力的人物，勾勒出一幅充满欲望与冲突的画面。小说通过优雅而又露骨的语言描绘出角色间的欲望和挣扎，例如和尚自诩与女子交配，以及对于一位被称为‘天下第一美女’的柳惜云的欲望。其情节也涉及了对佛教原则的挑战，以及对于道德与私欲的辩论，让人思考性与权力的关系。内容详细描写了角色的内心挣扎与外在冲突，文本中包含大量色情描写和人际关系的复杂性。敌对与欲望交织在一起，使得整部作品不乏张力和戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_•家庭慾望3部曲之二•邪惡的夫妻情趣（別
 | Size            | 46080 bytes                           |
 | MD5             | 43f46399b842c648c162e9eaf9afe1ad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 家庭欲望, 跨性别, 性转故事, 和尚与武林, 欲望与权力, 妖人与圣女, 个人与道德的冲突, 情感纠结, 淫欲, 武侠异闻, 性别认同, 佛教与欲望, 古代中国, 魔法与武功, 官府与私欲, 烟花绮丽                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

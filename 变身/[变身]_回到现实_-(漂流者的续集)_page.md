@@ -7,7 +7,7 @@ TXT 下载: [[变身]_回到现实_-(漂流者的续集).doc]([变身]_回到现
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《回到现实》是由作者Kasumi创作的一部跨性别小说，讲述了主人公在经历了一段艰难的生存旅程后，回归正常社会的心路历程。故事中，主人公迈克尔在荒岛上生活了一年，经过一系列的变故后，突然变身为凯蒂，女性身份的揭示让他面临身份认同与社会接受的挑战。在重返文明的过程中，凯蒂感受到强烈的恐慌与不安。故事深入探讨了性别认同的复杂性以及对自己新身份的接受过程。凯蒂对曾经的自己和现状的反思交织在一起，展现了强烈的情感和心理冲突，如同她所说：“我现在要试着睡觉了。我想我还有一些累人的日子在前头呢。”小说以细腻的笔触描写了凯蒂的感受和心理状态，适时揭示了跨性别人士面临的社会压力和内心挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_回到现实_-(漂流者的续集).doc]([变身]_回到现
 | Size            | 65024 bytes                           |
 | MD5             | 90f6e0a44cdeba260d7326b4dc07035c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kasumi                               |
+| Region          | 未知                               |
+| Date            | 2013-03-01                                 |
+| Tags            | 跨性别, 性别认同, 自我探索, 变身, 心理冲突, 生存与重生, 女性视角, 社会回归, 身份危机, 情感纠葛, 未知PHP服务, 科学家与患者关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

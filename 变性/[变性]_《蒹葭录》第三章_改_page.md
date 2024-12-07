@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第三章_改.doc]([变性]_《蒹葭录》
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《蒹葭录》第三章的内容，描绘了主角江飞羽在金陵城的遭遇与冲突。故事开始于江飞羽寻找太子的过程中，他发现太子离开了客房。随着夜幕降临，江飞羽感受到一阵不安，预示着潜在的危险。果然，江飞羽很快遭遇到袭击——一枚淬毒的钢针从天而降，刺中他的左臂，带来了剧毒。江飞羽凭借敏锐的反应和武艺，勉强自保并开始追踪袭击者。在追逐中，江飞羽与暗杀者易鹧鸥展开激烈搏斗，尽管他受了重伤，但凭借意志力和技艺与敌手斗了个不可开交。故事展现了江飞羽的勇敢和果断，同时也描绘了暗杀的惊险情节，表现出江湖的复杂和危机。其间，江飞羽面对着对手的挑战，内部斗争和外部威胁交织，既有个人的成长也有对抗邪恶势力的决心。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第三章_改.doc]([变性]_《蒹葭录》
 | Size            | 54784 bytes                           |
 | MD5             | d7b1607ebc1ba4163a081632838ae115                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 冒险, 江湖, 武侠, 暗杀, 阴谋, 性别认同, 情感纠葛, 自我探索, 毒药, 战斗, 宫廷 intrigue, 爱情, 逆境成长, 跨性别, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

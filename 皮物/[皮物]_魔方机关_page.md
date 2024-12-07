@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔方机关.doc]([皮物]_魔方机关.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是伪娘 TS 变身与跨性别相关小说《皮物·魔方机关》的开篇部分。故事以胡鸽为主角，他在一次意外中醒来，发现自己身处一个被金属包裹的奇异环境中。这个空间的结构类似于监狱，周围有多个被锁住的房间，而他和其他五名不同身份的人被困于此。在与一名中年男子、护士、女大学生和小女孩的交流中，胡鸽感受到了社会的险恶以及每个人独特的故事。通过一系列的对话和观察，文件描述了他们面临的困境、对未来可能的希望以及如何寻找逃脱之路。同时，故事中也穿插了对角色外貌的细致描写，以及色情暗示。例如，文中提到一名小萝莉意外地用雪糕在身体上的行为，引起了在场众人的惊讶和不适。整体上，文本的内容探讨了多元性别及其相关主题，交织着探索自我认同与身体变迁的复杂心理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔方机关.doc]([皮物]_魔方机关.doc)
 | Size            | 64000 bytes                           |
 | MD5             | 9a09d0d07e793fa1677304bd84054bc8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, TSF, 变身小说, 跨性别, 异世界, 奇幻, 心理探索, 角色扮演, 青春, 逃脱, 思想斗争, 限制级, 魔方监狱, 记忆金属, 社交冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

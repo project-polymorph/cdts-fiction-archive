@@ -7,7 +7,7 @@ TXT 下载: [[附身]_合格的ntr爱好者就应该……（一）.doc]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于恋爱与分手的短篇小说，主要描绘了主人公与女友陆羽之间即将结束的恋情。故事的开头与高铁广场的公交相关，反映出两人关系的紧张与不快，而随着分手的到来，主人公内心的失落与不舍也逐渐浮出水面。整个小说以分手为切入点，围绕着情感的纠葛展开，展现了主人公复杂的心情与思维过程。故事中提到主人公对女友的缅怀与对她未来感情的担忧，尤其是对她与学生大飞之间关系的忌妒与无奈。这篇作品涉及了强烈的情感探索，包含NTR等主题，读者需自我判断其适宜性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_合格的ntr爱好者就应该……（一）.doc]([附身
 | Size            | 31232 bytes                           |
 | MD5             | 4f92fe6958f3b50dc200a0416b21786a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | NTR, 失恋, 情感纠葛, 恋爱, 前男友视角, 自我探索, 青春, 分手, 女性角色, 嫉妒, 清纯女孩, 异地恋, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

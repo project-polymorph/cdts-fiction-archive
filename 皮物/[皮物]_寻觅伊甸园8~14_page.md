@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_寻觅伊甸园8~14.docx]([皮物]_寻觅伊甸园8~14.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘及变身跨性别相关小说的第八章和第九章，描述了角色陈缘与千面之间复杂而微妙的关系。在这一章节中，陈缘由于初次探索与千面的互动而感到羞愧和惶恐。情节围绕着陈缘在神秘基地内的经历展开，涉及到他偷看千面和千面对他的复杂情感。文本中包含了露骨的性暗示与情感冲突，千面试图伪装自己的身份以及陈缘对她身体的探索，描写了当他意识到千面的真实面貌时的震惊与复杂心理。细节中提到药物的作用以及两人情感逐渐升温的过程，同时表现出双方性别角色的模糊与交换。整段情节充满了性别认同和自我探索的主题，同时也涉及到羞耻、欲望与权力关系等复杂元素。该文笔触细腻，描绘了角色内心的挣扎和冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_寻觅伊甸园8~14.docx]([皮物]_寻觅伊甸园8~14.doc
 | Size            | 59296 bytes                           |
 | MD5             | bef3c6581eb660854052e3184728f46a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 初恋, 迷幻药, 情感冲突, 秘密基地, 性别认同, 自我探索, 复杂关系, 暴力, 情感纠葛, 暗恋, 强奸, 自我认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

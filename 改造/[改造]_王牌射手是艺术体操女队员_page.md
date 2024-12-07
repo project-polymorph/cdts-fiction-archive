@@ -7,7 +7,9 @@ TXT 下载: [[改造]_王牌射手是艺术体操女队员.doc]([改造]_王牌�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部围绕青春和运动的小说，主要讲述了一名高中男子足球队的明星球员王誉的故事。小说开篇描绘了王誉在比赛中的表现，他在半决赛中帮助融城高中队逆袭赢得比赛，展现了个人的天赋和努力。小说通过细腻的描写展现了王誉与女伴的恋情以及他与同学李涵之间复杂的关系。李涵是一个在校园内颇具权势的女恶霸，二人在决赛前因不满而产生矛盾，涉及到诸多年轻人之间对于自我价值和尊严的探索。
+
+故事中不仅有激动人心的足球比赛情节，还有王誉对于胜利的渴望和李涵对他的威胁所引发的心理斗争。例如，王誉对冠军的追求与对于队友松懈的不满形成了鲜明对比，展示了他作为领袖的责任感与内心的挣扎。此外，小说还探讨了关于性别和权力的主题，尤其是李涵作为女性角色在学校中的霸凌行为，反映了青春期男女之间的权力游戏和心理暗战。整个故事在展现激情与竞争的同时，也充满了青春的困惑与思索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_王牌射手是艺术体操女队员.doc]([改造]_王牌�
 | Size            | 288768 bytes                           |
 | MD5             | 325aa38066f1f274c43752b6484ea3b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 青年文学, 校园故事, 足球, 青春成长, 恋爱, 性别认同, 校园霸凌, 运动员, 竞争, 自我探索, 心理斗争, 伪娘, 强奸, 调教, 逆后宫, 变嫁, NTR, 女仆, 强迫, 变装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

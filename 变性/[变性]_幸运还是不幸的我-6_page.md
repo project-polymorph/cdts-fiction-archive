@@ -7,7 +7,7 @@ TXT 下载: [[变性]_幸运还是不幸的我-6.docx]([变性]_幸运还是不�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《幸运还是不幸的我-6》的文稿，描写了一名跨性别女性在经历婚姻破裂后的心路历程。故事中，自述者李静与配偶面临感情危机，李静坦白她仍对前男友的感情没有放下，最终选择离开了原本的家庭，选择追求自己的内心感受。文章深入探讨了性别认同、自我探索与家庭责任之间的复杂关系。自述者在离婚后，照顾孩子萍萍，努力自我成长与适应新生活，同时与闺蜜小蕙一起创业。文中包含许多情感描写和内心独白，流露出对失去家庭的无奈、对新生活的期盼，以及对自我性别认同的逐步接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_幸运还是不幸的我-6.docx]([变性]_幸运还是不�
 | Size            | 27706 bytes                           |
 | MD5             | 5a6b8c8939d62e9f48b1e4e4d2e17167                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 婚姻, 自我探索, 家庭关系, 离婚, 情感冲突, 女性视角, 成长, 创业, 情感纠葛, 生活挑战, 二次元, 文艺                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译】两害相权取其轻_3_3.doc]([变装]_【翻
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇与跨性别和性别转换相关的成人小说，其中主要讲述了一个名为艾丽卡的角色经历的性别转换和随之而来的自我认知变化。文件描述了艾丽卡为了获得一份工作，自愿成为一名男性角色的性玩物，并通过一系列的情节与另一名男性角色大卫发生了亲密关系。小说中包含了大量的强烈性暗示和成人内容，例如艾丽卡接受身体改造、参与刺激的性爱场景，以及对身体外观极致的自我审视。该故事涉及角色对自身性别的探讨及欲望的冲突，尤其是艾丽卡在过程中对自己的新身份感到的复杂情感。此外，艾丽卡还与另一名女性角色艾米丽卷入了一种权力和性别角色的交织关系，艾米丽不仅成为她的室友，还成为她的监督者，剧情围绕她们之间的互动和欲望进行展开。文件内容较为露骨，包含多处强烈的性行为描述。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译】两害相权取其轻_3_3.doc]([变装]_【翻
 | Size            | 50688 bytes                           |
 | MD5             | 5b699e6d5c5fdd3f1d7d8eacc4cce2a3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 性转, 变身, 成人内容, 强烈性暗示, 自我探索, 权力游戏, 伪娘, 情欲, 女性角色, 性玩物, 性关系, 性欲冲突, 同性恋情节, 调教                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第九章.doc]([皮物]_画皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是跨性别相关小说的一部分，描述了角色秦雨秋与陆升之间的情侣关系，从相识到相爱的深刻变化。开篇描述了陆升和秦雨秋的生活状态，强调了他们之间的亲密关系及情感的发展。秦雨秋曾经以妖女的身份隐藏自己的真实面貌，而现在她与陆升之间的互动充满了温馨和充满激情的日常，表现在他们的亲密行为、日常对话以及对彼此情感的确认中。陆升逐渐适应了秦雨秋作为妖女的身份，同时享受着与她在一起的幸福生活。故事通过细腻的心理描写展现了两人之间的信任与依赖，以及他们对未来的憧憬和对彼此密切关系的维护。整部作品不仅展现了性别认同的探索，也反映了个体在爱情中经历的自我发现与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第九章.doc]([皮物]_画皮
 | Size            | 67072 bytes                           |
 | MD5             | ec5e1a92524cb32048a495d05ad6444e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 妖女, 爱情, 日常生活, 角色扮演, 自我认同, 情感发展, 信任, 亲密关系, 性别转换, 甜蜜, 恋爱游戏, 日记                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

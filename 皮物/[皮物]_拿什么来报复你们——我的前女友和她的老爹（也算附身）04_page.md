@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_拿什么来报复你们——我的前女友和她的老�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于性别转换和情感纠葛的小说，讲述了主角廖凯在经历了一次奇妙的身体转换后，进入了女性沈秋茹的身体，拥有了她的记忆和情感。故事深入探讨了性别认同和心理冲突，廖凯的内心独白充满了对以往生活的反思与对新身份的困惑。他在享受女性身体所带来的快感时，也开始重新审视自己与周围人，尤其是其丈夫刘强及女儿刘欣的关系。对于沈秋茹的身份与情感，廖凯感到既陌生又亲近，他体会到了沈秋茹在家庭中的孤独与不易，内心的情感冲突与自我探索表现得淋漓尽致。文中包含了一些较为敏感的情节及对性方面的描述，突显了角色在性别和身份转变过程中的复杂心理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_拿什么来报复你们——我的前女友和她的老�
 | Size            | 27926 bytes                           |
 | MD5             | 0eb0283049469a8c3aa4e00c6f08a8fe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 情感纠葛, 跨性别, 自我探索, 女性视角, 心理冲突, 强奸, 阴道高潮, 婚姻问题, 家庭关系, 强烈快感, 沈秋茹, 廖凯, 刘强, 刘欣, 社会压力, 内心挣扎, 角色认同, 欲望, 人生感悟, 性欲体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

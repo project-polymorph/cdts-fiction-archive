@@ -7,7 +7,7 @@ TXT 下载: [[交换]_一品红3.docx]([交换]_一品红3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《一品红3》主要描绘了一个名为江小婉的女性角色在办公室内的思维与行动。故事的核心围绕着江小婉的身体交换经历，以及她在获得原江小婉身体后所体验的各种复杂情感与身体感受。开篇部分，江小婉嘟嘴对着水晶灯，回忆起与名为大卫的美国人之间的不堪经历，甚至提到因与他的一笔交易获得了现今的美丽身体，伴随的一千多万美元的代价。在此基础上，江小婉对自己的新身体表现出强烈的满足感及得意，细腻的描写了她的内心挣扎与对身体变化的承认。过程中，文件详细刻画了她在办公室中赤裸的自信状态，以及在窥视自己身体的快感与羞耻感之间的矛盾。文本中还提到了江小婉关于过去生活的反思，以及她对未来的不安，有着一定的情感深度。整体来看，文本涉及性别认同、身体转变以及欲望的主题，具有较为复杂的心理描写与身体描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_一品红3.docx]([交换]_一品红3.docx)
 | Size            | 21764 bytes                           |
 | MD5             | 99922ea84356f2f14fad1451121f2cb4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 身体交换, 办公室情景, 自我探索, 欲望与羞耻, 江小婉, 大卫, 身体感受, 内心挣扎, 快感体验, 赤裸自信, 复杂情感, 心态变化, 二次元文化, 跨性别主题, 变身小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

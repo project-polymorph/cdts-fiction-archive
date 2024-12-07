@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_17.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说作品的第十七章，叙述了角色贝丽和梅根之间的互动与关系发展。故事描绘了成长与角色扮演主题，梅根在试图塑造贝丽的形象，也在探索她的自我认知。故事中出现了贝丽第一次约会的情节，梅根为她提供支持和指导，同时通过交流和活动加深了两人之间的亲密度。章节中，贝丽的房间进行了装饰，这一变化象征着角色的转变和成长。除了性别认同的探索，文本充斥着调侃与友好的互动，揭示了复杂的情感纠葛。文中梅根鼓励贝丽保持少女心态，并提到要写日记以记录自己的感受，这让贝丽感到无奈，但也暗示了她逐渐接受这一转变的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_17.doc]([改造]_把男朋友�
 | Size            | 37888 bytes                           |
 | MD5             | 97faf81b1a64426a53cc4d17779cc589                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 成长, 角色扮演, 少女心态, 约会, 自我认知, 情感纠葛, 家庭关系, 装修, 支持与指导, 写日记, 性别认同, 友谊, 青少年                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

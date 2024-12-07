@@ -7,7 +7,7 @@ TXT 下载: [[附身]_附身到盯上的女孩的好友身上，企图做女姛1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇伪娘 TS 变身小说的章节，围绕着主要角色安藤优梨和叙述者展开。故事开头描绘了安藤优梨的基本信息，她是一名性格开朗的女孩，逐渐引起了叙述者的注意。随着情节的发展，叙述者因一场意外变成了与优梨酱认识的女生枫。在他体验到身体的变化后，叙述者面对自身身份的困惑，以及对优梨的忧虑，展现了一种自我探索与内心冲突的深化。文章中不乏生动的细节描写，如“淡淡地注视着前方做着不规则晃动的红色和淡蓝色的书包”，以及对身体感知变化的细致刻画。穿插在剧情中的性别认同和身体认知转变的主题，为小说增添了层次，反映了角色内心的挣扎与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_附身到盯上的女孩的好友身上，企图做女姛1
 | Size            | 49395 bytes                           |
 | MD5             | 9020b529f4bd42ee6a0bbff53f054494                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 自我探索, 转变, 青春校园, 情感纠葛, 灵魂交流, 身体认知, 性别认同, 初次体验, 心灵成长, 情感描写, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

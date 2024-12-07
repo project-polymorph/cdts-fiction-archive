@@ -7,7 +7,7 @@ TXT 下载: [空难-续写.doc](空难-续写.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档主要讲述了一场航班登机前的情景。在候机厅，一个名叫俊豪的少年与他的母亲发生了一场对话，母亲试图劝导他放弃游戏等不良习惯，并提醒他要好好享受即将到来的纽约之旅。与此同时，文中描绘了其他登机旅客的紧张与焦虑，以及家庭成员之间的互动。当一个小女孩催促她的哥哥快点时，表现出无邪而欢快的性格。稿件的叙述节奏适中，轻松而富有生活气息。故事同时涉及机组人员的对话以及飞行准备的信息，暗示着后期可能会出现意外的转折，从而营造出一种悬疑的气氛。文章人文关怀表现得恰到好处，但结尾却留下了即将发生的不测，增强了故事的张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [空难-续写.doc](空难-续写.doc)
 | Size            | 57344 bytes                           |
 | MD5             | 10bfb30604dc1eb11567c950f6034650                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 航班, 候机厅, 家庭关系, 亲子对话, 纽约旅行, 青少年, 自我探索, 紧张氛围, 生活琐事, 机组人员, 机场                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

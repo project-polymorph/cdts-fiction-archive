@@ -7,7 +7,7 @@ TXT 下载: [[改造]_诸妖之野_第二章_(2).docx]([改造]_诸妖之野_第
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为伪娘 TS 变身与跨性别相关小说《诸妖之野》的第二章，主要围绕主人公赵钰与雨宫夫人的互动展开。在灵堂的背景下，故事通过细腻的描写展现了雨宫夫人的外貌与赵钰复杂的情感。她是一位优雅而充满魅力的女性，尽管面临丈夫的葬礼，但她的美丽与端庄却在悲伤中显得愈发动人。赵钰在经历了与父亲的复杂关系和对死亡的恐惧后，来到了日本参加葬礼。在文中，雨宫夫人的性格逐渐揭示，显示出她不仅仅是个传统的日本妇女，在面对赵钰父亲时，她开启了意想不到的情感和欲望。文中包含了一些色情元素，如雨宫夫人与赵先生之间的关系变化，以及一系列暗示性的行为与对话，反映了角色间的权力动态与性别认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_诸妖之野_第二章_(2).docx]([改造]_诸妖之野_第
 | Size            | 22186 bytes                           |
 | MD5             | eac62ba7620462a12a8117c6b74f1fff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 性别认同, 自我探索, 日本文化, 暗恋, 情感纠葛, 家庭关系, 情色, 灵堂, 神秘人物, 二次元, 极端情绪, 角色扮演, 权力动态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

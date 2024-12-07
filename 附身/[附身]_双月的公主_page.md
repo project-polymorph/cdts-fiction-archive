@@ -7,7 +7,9 @@ TXT 下载: [[附身]_双月的公主.docx]([附身]_双月的公主.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《双月的公主》描述了赛欧尼亚帝国的皇帝赛欧尼亚四世面临的一场复杂的盗窃事件。故事开始于皇帝在自己寝宫醒来时发现一张神秘的纸条，上面写着“我将于双月交汇之日，偷走你最喜欢的珍宝”。这使得皇帝感到恐惧与不安，因为这位盗贼的能力似乎非同一般，甚至能够潜入重重防卫的寝宫。
+
+整个国家的臣民都对皇帝对古怪珍宝的兴趣感到困惑，因为他在情感上始终无法放下已故的皇后。皇帝的珍宝并非世俗明物，而是一些千年前的古代科技遗物，他与自称科学家的大臣们一同打拼研究这些古物，其中甚至包括他发明的“照相机”。随着黑兔子这个侠盗的传说逐渐浮现而令帝国深陷危机，消息传开，甚至可能成为西恩斯坦魔法国的使者伸出援手的契机，然而公主菲娜西雅的机智也在其中显露出来。这是一个关于权力、科技与爱情交织的故事，充满了奇幻与冒险的色彩，展现了角色之间的微妙关系与自我探索的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_双月的公主.docx]([附身]_双月的公主.docx)
 | Size            | 25642 bytes                           |
 | MD5             | bd7ac2ee08d64ebc65fef40fc0763d58                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 古代奇幻, 权力斗争, 爱情, 科学技术, 魔法, 自我探索, 冒险, 帝国, 公主                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

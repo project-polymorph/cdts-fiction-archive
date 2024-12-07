@@ -7,7 +7,7 @@ TXT 下载: [[变装]_群芳斗艳缘（1）.docx]([变装]_群芳斗艳缘（1�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《群芳斗艳缘（1）》，主要讲述了一个短命王朝的故事。故事的开头描述了皇帝因贪图享乐而作出荒唐之举，将将军之子强纳入后宫，封为嫔妃，引发了一系列权力斗争和情感冲突。随着情节的发展，描绘了主角关玉堂的复杂心理和对好友花岩的愧疚，这位男子在西方回鹘国被施以异术灵药，性别转换成为阿依古丽，沦为皇帝的玩物。关少爷在父亲偏财的指引下，试图将花家兄弟从王朝的权力漩涡中拉出，以便为自己家族的利益服务。文件内容中充满了阴谋、情感纠葛以及性别身份的探索，通过对角色内心活动的深刻描绘，展示了一个关于权力、欲望和身份认同的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_群芳斗艳缘（1）.docx]([变装]_群芳斗艳缘（1�
 | Size            | 19393 bytes                           |
 | MD5             | 02a772f42ca2fae013e6e96537a36493                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转小说, 权力斗争, 情感纠葛, 阴谋, 二次元, 伪娘, 皇宫生活, 历史幻想, 男儿身, 女性视角, 变装, 魔法, 情感探索, 角色冲突, 强制性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_第二义工社的侦探（二）.docx]([其他]_第二义
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘及变身题材小说的片段，主要围绕角色叶莺及其学姐的互动展开。故事设定在一个活动室，叶莺在清理和整理环境时迷迷糊糊趴在桌上睡着，而主人公则自言自语，回顾着正在调查的附身事件。故事中掺杂了附身、角色性别转换、以及校园生活的描述，表现出一种轻松幽默的氛围。在这种背景下，参与者讨论了关于找到被附身女生产生的一系列问题与解决方案。主人公与叶莺之间的关系也是话题的一部分，描写了她们的日常互动，比如“好可爱啊。”和“我不会跑的。”等轻松对话，展现出角色之间的友谊和合作。此外，文中提及了校园生活的一些细节，如查房等，营造出一种校园探险的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_第二义工社的侦探（二）.docx]([其他]_第二义
 | Size            | 19760 bytes                           |
 | MD5             | 54f0378e449bd1bcf3515669de310b2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 变身, 伪娘, 附身, 角色互动, 日常生活, 性别认同, 幽默, 探索, 友谊, 青春, 奇幻, 灵异, 情感发展, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮之使徒2_[.docx]([皮物]_皮之使徒2_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘复杂人际关系和阴暗计划的伪娘TS变身小说，故事发生在沿海某市的奢华会所，其中涉及一场秘密而奢华的私人派对。主角之一的美貌少妇夏思韵，在计划着秘密并阴险的行动，她打算利用古老的玛雅祭司山迪制备的圣水来将另一位女性角色洛雅美变成植物人，以便掌控一家大型企业的股份。小说开头描绘了会所的繁华和宁静，随着情节的推进，涉及情欲、异性与同性关系的交错，角色们在谋划与欲望中不断纠葛。在会所内，一个披肩金发的美丽女子主持着一场与她的计划相关的阴暗交易。整部作品阴郁而魅惑，体现了人性最阴暗的一面，同时也表达了一些与性别认同、自我探索相关的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮之使徒2_[.docx]([皮物]_皮之使徒2_[.docx)
 | Size            | 24132 bytes                           |
 | MD5             | b6b917471021cd6f8b6c7ba00230c79c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 阴谋, 企业重组, 吸引力, 玛雅文化, 毒药, 性欲, 植物人, 阴暗交易, 同性恋, 豪华会所, 自我认同, 情感纠葛, 权力斗争, 禁忌关系, 贞操锁, 人体改造, 触手, 性感女仆, 春药, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

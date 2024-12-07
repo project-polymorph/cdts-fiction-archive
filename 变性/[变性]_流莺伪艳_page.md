@@ -7,7 +7,7 @@ TXT 下载: [[变性]_流莺伪艳.doc]([变性]_流莺伪艳.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容为一篇包含大量性转与变装主题的小说，涉及角色内心冲突和变性体验的细腻描写。小说的主人公是一名对女装产生强烈爱好的男性，在面临朋友的婚礼时，忍不住重温自己的女装回忆，并回忆起与朋友的种种往事。文中详细描述了主人公对女装的渴望和其中的羞耻感，展现了角色的自我认同和心理斗争。随着情节的发展，主人公经历了从女装自慰到试图融入社会的艰难过程，并描绘了相关的性幻想和自我探索。文中还包含了一些带有性暗示的情节，如对假阳具的使用和性行为的回忆，这进一步加深了角色对性别身份的复杂理解。该文档所述主题包括性别认同、异装癖、以及社会对于跨性别行为的认知与批判，同时也涉及了角色的情感纠葛和心理挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_流莺伪艳.doc]([变性]_流莺伪艳.doc)
 | Size            | 411136 bytes                           |
 | MD5             | 43dadadff718966c3d98cf78d8ab5f5f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 异装癖, 女装, 性别认同, 自我探索, 性幻想, 心理斗争, 跨性别, 情感纠葛, 女性化, 禁忌恋, 雌性, 欲望, 性快感, 日常生活, 内心独白                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

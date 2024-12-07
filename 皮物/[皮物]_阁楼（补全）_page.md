@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_阁楼（补全）.docx]([皮物]_阁楼（补全）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一部融合了恐怖与性别变换元素的虚构小说。故事围绕主角王璐展开，她是一位准护士，正在一家别墅面试看护工作。故事初期，王璐与男友的甜蜜互动以及即将到来的新工作让她充满期待。然而，随着王璐的逐步深入，该别墅的秘密也随之浮出水面。她在暗淡而阴森的环境中遇到了王姨和老爷子，逐渐发现老爷子的恐怖境遇，以及王姨的警告：绝不要进入阁楼。小说逐步展现了角色的自我探索与恐怖经历，形成了性别认同与生理性别之间的暗示性冲突。凝重的氛围与恐怖情节交织，令读者不安。内容包含了一些禁忌与成人向的主题，诸如精神状态的崩溃、身份的错位、恐惧与绝望等情节。伴随情节发展，女主角的身体与身份也遭遇了重新定义的挑战。故事在反转与冲突中逐渐达到高潮，引发了关于身体、性别认同以及恶梦的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_阁楼（补全）.docx]([皮物]_阁楼（补全）.docx)
 | Size            | 21556 bytes                           |
 | MD5             | 29bfab641fd6667ebdff6346f8482f95                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 恐怖, 暗黑, 性转, 身份认同, 魔法, 超自然, 心理恐怖, 职场, 病态关系, 家庭纠葛, 惊悚, 青春成长, 性别表达, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

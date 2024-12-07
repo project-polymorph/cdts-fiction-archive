@@ -7,7 +7,7 @@ TXT 下载: [[变装]_父亲的秘密（2）.docx]([变装]_父亲的秘密（2�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《父亲的秘密（2）》讲述了一名男子李牧的故事，他在一次军训生活中感到颓废，并与富二代朋友文天南一同外出就餐。在他们的聚餐过程中，李牧注意到了一辆豪车，车内美丽的女子让他产生了兴趣。他发现这名女子是他父亲的情人，李牧逐渐揭开了父亲与情人的秘密。文中涉及李牧在发现父亲秘密时所产生的困惑与心理变化，尤其是在意外发现父亲的情趣内裤后，李牧的情感与性认同的探索表现得尤为尖锐和复杂。同样，文中多次出现明显的性暗示与图片化的语言，凸显了性别与身份的交汇，展现了角色在探索自我和他人关系时所经历的迷茫与兴奋。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_父亲的秘密（2）.docx]([变装]_父亲的秘密（2�
 | Size            | 17704 bytes                           |
 | MD5             | 7558c6adf0dc48f71ad23b4ec4241f2f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 自我探索, 父子关系, 复杂情感, 秘密, 情感冲突, 性别认同, 社会阶层, 内裤, 情趣, 豪车, 遥控刺激, 家庭秘密, 情人, 群体压力, 二次元, 吐槽, 梦境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

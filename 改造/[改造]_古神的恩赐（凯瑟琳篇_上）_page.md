@@ -7,7 +7,7 @@ TXT 下载: [[改造]_古神的恩赐（凯瑟琳篇_上）.doc]([改造]_古神
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《古神的恩赐（凯瑟琳篇 上）》是一部描写了主角凯瑟琳在一系列痛苦经历中的自我认知与逆境抗争的小说。故事背景设定在一个充满幻想和阴暗面的城市，凯瑟琳作为舞蹈学校的学生，身陷援交的漩涡，体验着身体与心灵的双重折磨。她在雨后的街道上徘徊，感受到肉体的疼痛与心灵的绝望，思索着自己是否要继续忍受这样的生活。作品通过凯瑟琳的内心独白，真实地还原了她所承受的痛苦和对未来的迷茫。凯瑟琳最终决定去探访一处被视为不祥之地的废弃别墅，在那里，她意外感受到神秘力量的吸引，面临未知的恐惧与挑战。此外，文中还包含性生活的强烈描写，涉及强暴和自我认同等重口味情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_古神的恩赐（凯瑟琳篇_上）.doc]([改造]_古神
 | Size            | 47104 bytes                           |
 | MD5             | f1bc674433bcc2610bab59dda1d1641f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 自我探索, 强奸, 阴暗面, 幻想, 异种附身, 恐怖, 心理描写, 都市奇幻, 前卫文学, 痛苦经历, 角色扮演, 生存斗争, 女性视角, 触手怪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

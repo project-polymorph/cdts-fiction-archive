@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文重发】特工歪传.docx]([皮物]_【申码
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《特工歪传》讲述了一位隐蔽战线的特工利用最新的伪装产品——生物皮衣，进行实战测试的故事。在故事中，特工在执行代替一名女刑警张小花的任务时，使用伪装科技将自己的身体完全转变为目标的女警形象，从而接近并保护一名重要的人物。在特工的视角下，细腻地描绘了其穿戴生物皮衣的过程，以及由男性变为女性后的心理与生理变化，表现出对身份伪装的兴奋与享受。同时，文中还有针对特定任务的复杂情节，包括发生在高级社交场合的暗杀与伪装接头，增加了故事的紧张感和悬疑性。值得注意的是，随文还涉及到了部分成年内容和性暗示情节，展示了角色之间的情感与肉体的复杂关系，给人以丰富的想象空间与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文重发】特工歪传.docx]([皮物]_【申码
 | Size            | 25297 bytes                           |
 | MD5             | 62acfbf8505399aee0b2c5d243ed4336                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 特工, 暗杀, 肉体化, 代入感, 女性形象, 科技伪装, 身份认同, 复杂剧情, 职业动作, 反转, 谍战, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

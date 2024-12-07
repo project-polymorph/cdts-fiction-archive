@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_61.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘/男娘类型的跨性别小说，作者Nicegent42，描述了主角贝丽在夜间购物过程中与被称为梅根的女性角色之间的互动。故事中，贝丽正处于性别转变的过程中，对她的身体变化感到困惑与不安。在文中，梅根帮助她脱去不舒适的衣物，试图让她接受新的身份。文本详细描绘了贝丽的心理状态与生理变化，她从一开始的拒绝到最后体验到身体变化所带来的感受，同时也涉及了一些性别认同的冲突与探索。整个故事动情而又复杂，充满了对身份认同与性别期待的深刻反思。一个不幸的男性角色转变为被当作女童对待，带出了深层的情感冲突和身份挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_61.doc]([改造]_把男朋友�
 | Size            | 65536 bytes                           |
 | MD5             | 3a7ccd60de85c7d735d044a67ae2a28e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 身份认同, 性别转换, 晚上购物, 心理挣扎, 生理变化, 情感冲突, 绝望与恍惚, 校园生活, 青春成长, 社会期待                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

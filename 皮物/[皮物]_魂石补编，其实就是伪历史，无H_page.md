@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魂石补编，其实就是伪历史，无H.docx]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件主要探讨了魂石与吞噬血脉的关系，其背景设定在古代与未来交织的奇幻世界，讲述了由于天外陨石的降临，地球生态系统发生巨大变化的故事。魂石，又称人种石，是女娲在创造人类和补天时使用的圣石，陨星带来的寒冷能量使得恐龙与地表生物几乎灭绝，部分生物则选择在地心岩浆附近生存。在时间的推演中，这些生物逐渐进化出与人类相似的地底文明，却因吞噬血脉的特殊生存方式而面临灭绝的风险。\n\n随着冰层的融化，这些地底生物重新返回地表，却发现地表环境与千年前大相径庭。在与地表生命的交互中，它们遭遇了不可逆转的结果，吸收魂石元素的尝试以增强自身却演变为自我毁灭的循环。文中详细描绘了吞噬血脉如何通过猎杀其他生物获取能量，形成了强大的魔族，并提到了神奇物质“再生”，使得变异后代获得独特的血脉特性。最后，故事以远古的遗梦和关于僵尸、吸血鬼、恶魔的传说结尾，给人留下深刻的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魂石补编，其实就是伪历史，无H.docx]([皮物]
 | Size            | 17197 bytes                           |
 | MD5             | b7e1691920f1d40484e8a82086ce6559                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魂石, 吞噬血脉, 变异生物, 魔族, 女娲, 天外陨石, 古代文明, 奇幻世界, 残酷生态, 能量吸收, 自我毁灭, 血脉传承, 妖族, 复苏, 生存斗争, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

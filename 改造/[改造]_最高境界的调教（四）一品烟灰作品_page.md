@@ -7,7 +7,7 @@ TXT 下载: [[改造]_最高境界的调教（四）一品烟灰作品.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是由一名作者一品烟灰撰写的关于性别调教与转变的小说片段，涉及的主题包括身体改造、主人与奴隶之间的关系以及角色的心理变化。作品中，主角被锁在半圆台上，身体经历着明显的变革，肚子的隆起和乳头的变化暗示着生理性别的转变。随着内容的推进，主角内心的矛盾与恐惧暴露无遗，同时也感受到了一种奇怪的快感，表明自我认同与身体之变化的冲突。文中还提到透过镜子看到自己形象的变化，以及长时间播放的女性被操控的影像，进一步描绘了主人对被调教者的控制与影响。主角反复提及对自身变化的恐惧和面对主人时的复杂心态，突显出自我探索与性别认同的主题。整体上，故事融合了强烈的心理描写与生理变化体验，构建出一个奇幻而具性暗示的世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_最高境界的调教（四）一品烟灰作品.docx]([�
 | Size            | 16611 bytes                           |
 | MD5             | a4be0a155fe481abe6e435f23846ed18                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 一品烟灰                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 身体改造, 心理探索, 调教, 奴隶关系, 伪娘, 强烈快感, 自我认同, 虐待与享受, 女性形象, 镜子幻影, 沉浸式体验, 生物实验, 极限调教, 性别认同, 权力控制, 情感矛盾                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

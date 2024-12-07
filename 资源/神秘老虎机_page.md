@@ -7,7 +7,7 @@ TXT 下载: [神秘老虎机.doc](神秘老虎机.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《神秘老虎机》讲述了主角江杰的奇幻经历。在一个平常的下班日，江杰无意中捡到了一个粉色的小型老虎机，随后他的生活因这个老虎机而发生了巨大变化。随着老虎机的游戏开始，江杰的身体逐渐发生了性别转变，他的外貌从男性逐渐变为女性。同时，故事中的王帅作为江杰的室友也卷入了这些变化之中，误打误撞地激活了老虎机，导致他同样经历了变化。文档详细描绘了江杰在变身过程中的细节，涉及身体变化、心理挣扎以及对自己新身份的探索。内容充满幻想与性别认同的主题，展现了对自我认知的挑战。此文为伪娘与变身类小说，包含了一定程度的性暗示和色情描写，是一部围绕性别流动与个人认同的探索作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [神秘老虎机.doc](神秘老虎机.doc)
 | Size            | 43520 bytes                           |
 | MD5             | 318a0c618296d10a52f8e57e55de3f4b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性别认同, 自我探索, 变装, 幻想, 都市, 魔法, 爱情, 人人平等, 青春成长, 自我冲突, 角色转换, 男性视角与女性视角, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

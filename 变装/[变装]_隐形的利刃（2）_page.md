@@ -7,7 +7,7 @@ TXT 下载: [[变装]_隐形的利刃（2）.docx]([变装]_隐形的利刃（2�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文为系列小说《隐形的利刃》的续集，主要讲述了主人公在私人spa现场经历的一系列变装和性别转换的体验。故事设定在高档场所，描绘了主人公通过变装和伪装来执行任务的复杂过程。文中涉及细腻的描写，展现了主人公的身体转变与心理感受之间的矛盾，探索了性别认同、欲望与自我认知等主题。通过与侍应生梅花三的互动，主人公不仅体验了身体上的转换，还面临着自我认知的挑战，表现出对跨性别身份的探索和接受。文章中出现了许多关于变装、角色扮演及身体改造的细节，反映了变装文化及其在性别认同中的体现。分段中提到“假体”、“连身衣”等概念，突显出主人公对于外貌和身份的深度关注与适应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_隐形的利刃（2）.docx]([变装]_隐形的利刃（2�
 | Size            | 29133 bytes                           |
 | MD5             | ab6a60fa0a6a3f38d2bfacab6522c777                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变装, 性别认同, 欲望, 身体改造, 虚构小说, 自我探索, 角色扮演, 心理转变, 精彩细节, 成人内容, 二次元文化, 色情元素, 复杂人际关系, 职场潜规则                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

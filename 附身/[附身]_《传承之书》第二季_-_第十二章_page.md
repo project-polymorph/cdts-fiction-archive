@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第十二章.doc]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是《传承之书》第二季第十二章，作者为紫依。文本描绘了角色沈玥琦和陆洁琳在暗区的一家殿堂医院的经历。故事开篇，沈玥琦在医院外带着陆洁琳，沈玥琦的心情愉悦，而陆洁琳对医院的高昂费用表示不满。随着情节的发展，罗永昌（附身在沈玥琦身上）和许兴发（控制着陆洁琳）讨论殿堂医院的强大背景与其在暗区中的地位，并暗示了医院背后可能具备的神秘势力。他们意识到，即使付出高昂的费用，在殿堂医院享受的保障与服务是值得的。文中还涉及了关于彼此女体的操控以及与他人的互动，女孩的身体在各种情感与欲望的纠葛中展现了复杂的性别与身份认同。不仅围绕性转和附身的主题展开，还潜藏着对性别角色、欲望和人体的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第十二章.doc]([附身]_�
 | Size            | 37376 bytes                           |
 | MD5             | 138bb64dfef36749156fa625c56e8b10                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 暗区, 殿堂医院, 跨性别, 女体, 情感纠葛, 身份认同, 欲望, 小说, 伪娘, 男娘, 强奸, 调教, 转变, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

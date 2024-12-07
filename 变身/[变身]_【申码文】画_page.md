@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【申码文】画.doc]([变身]_【申码文】画.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《变身》的小说围绕着一个男主角王一二的奇幻经历展开。故事开始时，王一二与朋友丁缺月相约去一家新开的仿真画店，却遭遇了一场不可思议的变故。当他们到达画店后，王一二被一个长发男人用异样的方法拘禁，并在奇特的画作中遭遇了身体的变身。他经历了一系列的性别转换和形象改变的过程，逐渐从一个男性角色转变成一个魅惑的女性形象。在变身过程中，义务的角色情感悸动与自我认同的困惑交织在一起，故事中不乏强调身体与性别认同的主题。随着故事的发展，王一二与丁缺月之间的复杂情感显露，他们的互动充满了戏剧性和情感张力，尤其是在缺月意识到王一二的变化时，两人之间的误会和情感冲突不断加深。最后，故事留给读者无限的想象与思考，探讨了性别流动性与个人认同之间的困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【申码文】画.doc]([变身]_【申码文】画.doc)
 | Size            | 44544 bytes                           |
 | MD5             | 16f34acb38e32b19b1567bfe93270709                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 跨性别, 奇幻, 自我认同, 身体变化, 情感困惑, 青春, 异世界, 二次元, 长发男性, 朋友关系, 魔法, 科幻, 冒险, 校园, 情感纠葛, 角色扮演, 主义探索, 禁忌关系, 奇妙画店                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

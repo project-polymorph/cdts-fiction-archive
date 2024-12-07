@@ -7,7 +7,7 @@ TXT 下载: [恶搞之中国玩转世界杯.doc](恶搞之中国玩转世界杯.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇含有恶搞元素的小说，主要围绕中国假想参与2014年巴西世界杯的情节展开。文中通过夸张和幽默的方式描绘中国足球队与葡萄糖（意指葡萄牙）队的对抗。在90分钟内，两队打成2:2，进入点球大战。点球大战中，C罗因情感波动错失关键进球，最终中国队以4:2战胜葡萄糖，取得世界杯冠军。小说中还包含大量的成人内容，例如莉亚迪桑与苍井空的情节，涉及性别认同与身份替换的梗，以及突出的色情描写。这篇小说通过嘲讽和夸张的手法，展示了足球的盛事与情色内容的结合，同时探讨了中国足球的失败和社会热点话题。整体风格轻松讽刺，夹杂色情及性别戏谑，适合特定读者群体的欣赏。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [恶搞之中国玩转世界杯.doc](恶搞之中国玩转世界杯.
 | Size            | 42496 bytes                           |
 | MD5             | 2db2c10de989315b02dee8f1dad7113a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 恶搞小说, 性转, 性别认同, 足球, 世界杯, 成人内容, 搞笑, 穿越, 身份替换, 温情, 体育幽默, 情色小说, 谐音梗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

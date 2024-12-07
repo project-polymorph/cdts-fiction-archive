@@ -7,7 +7,7 @@ TXT 下载: [[改造]_凤涎香_一.doc]([改造]_凤涎香_一.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部跨性别和性转小说，主要围绕男主角高速飞的生活与感情发展展开。故事开始于高速飞因事业不顺而产生的自我怀疑，他正直且努力，但由于个性原因在工作上受到了挫折。在与女友谢琳即将迈入人生下一步之前，他选择了分手，认为自己配不上这么优秀的女友。两人的感情也面临距离带来的考验，尽管如此，他们依旧约定每周见面，努力为未来打拼。与此同时，故事还引入了一段神秘的情节，涉及到一位身着唐衫的中年男子，暗示着另一个更为复杂的阴谋和财富的追求。该作品探讨了个人价值、爱情的坚持与社会压力等深刻主题。文件中通过对角色情感和心理的刻画，展现出了年轻人在追求梦想和爱情过程中的挣扎与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_凤涎香_一.doc]([改造]_凤涎香_一.doc)
 | Size            | 35328 bytes                           |
 | MD5             | c51e17def97407db9a7703635d925dd2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 青春, 爱情, 自我探索, 社会压力, 梦想追求, 心理斗争, 人际关系, 青年失业, 创业, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

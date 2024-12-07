@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第三章.doc]([皮物]_画皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节围绕陆升与伪娘女友秦雨秋之间复杂的情感关系展开。初面对秦雨秋的真实身份，陆升内心充满恐惧与陌生，尽管秦雨秋的外貌令他倾心，但她的真实身份引发了他内心的冲突。随着时间的推移，陆升逐渐尝试接受这位拥有'画皮'身份的女孩，尽管她似乎在时刻提醒自己与她之间的差异。秦雨秋努力表现得更像初识时的自己，希望能减轻陆升的惶恐，令彼此的关系逐步回归正常。两人在相处中不时翻涌起的情感，表达了对真实与虚假之间的深入思考与自我认知的探索。这样一种复杂的心理互动不仅深刻揭示了角色们的内心世界，也在读者面前展现了一段独特的跨性别恋情。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_画皮女友的攻略日常_第三章.doc]([皮物]_画皮
 | Size            | 73216 bytes                           |
 | MD5             | f4254a6a7b3d8036e1acbc86a89869ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 强烈情感, 性别认同, 自我探索, 爱情, 变身, 画皮, 角色扮演, 恐惧与接受, 复杂关系, 二次元, 都市幻想, 心理冲突, 甜蜜与恐怖, 真实性与虚假性, 个人成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮术士_24_轮回.docx]([皮物]_皮术士_24_轮回.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《皮物：皮术士的轮回》，涉及到伪娘与变身题材的虚构故事。故事围绕角色苏翎与小女仆夏娃展开，描绘了他们在危急情况下的紧张互动，以及苏翎施加给夏娃的变身挑战。故事从夏娃要穿上女剑士朱丽叶的皮衣开始，展现了她在穿上皮衣后身体和意识上的改变。夏娃逐渐意识到她的身体正在变化，胸部的成长和身体敏感度的变化让她感到紧张和不安。与此同时，苏翎的身份和心态也在变，本体与角色互相融合的过程，使得他在思考德鲁伊的变身能力时，也开始对人类与自然的关系产生深刻的思考，探讨人类的身份认同和变身能力的限制，以及对自然变身的理解。文件内容涉及性别认同和自我探索等深层主题，表现了角色在变化中面对的内心冲突与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮术士_24_轮回.docx]([皮物]_皮术士_24_轮回.doc
 | Size            | 25255 bytes                           |
 | MD5             | b77401c0d9e1b83c2ca80b814f724ef1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 自我探索, 奇幻, 虚构, 角色成长, 德鲁伊, 人与自然, 身份认同, 魔法, 变形, 成长故事, 情感纠葛, 皮物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

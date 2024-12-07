@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【道门，皮间】2，大坑慎入.doc]([皮物]_【道
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《道门，皮间》是一部跨越历史的性转与幻想小说，结构分为多个时间段，涉及元末明初、永乐时期及现代社会。故事的主线围绕女主角秦丽儿展开，她是经历了四百年修炼的妖狐。在一个光芒四射的时刻，秦丽儿与一名神秘男子蓝煜相遇，后者试图夺取她腹中孩子的祖龙魂。这段剧情充满了对自我认同与家庭的挣扎，融入了爱情、悲伤与斗争。从秦丽儿捂着自己微微隆起的肚子到她对即将失去孩子的恐慌与绝望，小说细腻地描绘出角色内心的复杂情感。光芒的描写比喻着权力与毁灭的交织，预示着人类与妖之间不可调和的矛盾。最终，秦丽儿因对未来的不确定与渴望，表现出对自己孩子生存的执念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【道门，皮间】2，大坑慎入.doc]([皮物]_【道
 | Size            | 46592 bytes                           |
 | MD5             | 84796445879736e7757b7be2ca8d0664                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 妖狐, 跨性别, 祖龙魂, 自我探索, 情感冲突, 权力斗争, 悲剧, 历史幻想, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

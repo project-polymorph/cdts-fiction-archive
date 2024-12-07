@@ -7,7 +7,7 @@ TXT 下载: [[改造]_万事通二.doc]([改造]_万事通二.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部关于性别转换与自我认同的小说片段，主要围绕一名男性角色在变性过程中所经历的内心挣扎与外部环境的变化展开。故事描述了一位男性因遭遇魔法纹身而意外变成了女性的样子，他与女友之间的对话揭示了他在新身份下对自我形象和性别认同的困惑。文中涉及了一些奇幻元素，比如魔法纹身能够实体化为胸罩，这给角色带来了束缚感和心理压力。他与女友丽的对话中反映出他们的感情经历与适应过程，也暗示了在旅途中会采取的进一步行动。此文将情感与变性主题结合，探索了性别、身份和人际关系的复杂性，而情节则充满了轻松与幽默的气息。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_万事通二.doc]([改造]_万事通二.doc)
 | Size            | 61952 bytes                           |
 | MD5             | c11a5af5297c0fc80a351ac661a85bfa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 魔法, 角色认同, 虚构旅行, 自我探索, 女性视角, 情感关系, 奇幻, 校园故事, 变身小说, 伪娘, 男娘, 青春, 冒险, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_睁大你的眼睛.doc]([变装]_睁大你的眼睛.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇性转小说，名为《睁大你的眼睛》，原作为Don't Blink，由Stacyinlove创作，经过CDBOOK翻译小队翻译与润色。小说的主线围绕布莱恩在母亲去世后与父亲关系恶化的情感纠葛。为了获得父亲的关注与关心，布莱恩与女友蒂娜合谋谎称想要变成女孩，却在过程中陷入真正变身的困境。在布莱恩生活中，父亲的指责伴随着转换角色和性别认同的主题，各类冲突逐渐浮现，展示了他内心的挣扎与探索。小说包含大量对角色转换后面临的困扰与自我认知的描绘，情节发展引人入胜，也带有一定的含蓄性与暗示。诸如对父亲的恐惧与期待、对自我认同的挣扎，都通过布莱恩的冲突剖析出来。他在与父亲争吵与玩乐的过程中，最终选择融入新身份同时探索自己的情感世界。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_睁大你的眼睛.doc]([变装]_睁大你的眼睛.doc)
 | Size            | 111104 bytes                           |
 | MD5             | 4e0dd99e10530ad8356e1ba14372dd77                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | CDBOOK翻译小队                               |
+| Region          | 未知                               |
+| Date            | 2013-08-28                                 |
+| Tags            | 伪娘, 变身, 跨性别, 自我认同, 爱情, 亲子关系, 性别探索, 性别转换, 青春烦恼, 情感冲突, 二次元, 变嫁, 往事回忆, 成长故事, 人际关系, 情感纠缠, 调教, 心理斗争, 女性化, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

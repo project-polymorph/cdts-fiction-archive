@@ -7,7 +7,7 @@ TXT 下载: [[附身]_花菱与茉莉.doc]([附身]_花菱与茉莉.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于花老师和学生汉迪之间暧昧关系的小说。故事中，花老师是一位年轻美丽的女教师，她对学生汉迪表现出格外的关心和亲近，甚至为他准备便当和补习。在一次午休中，汉迪来到花老师的办公室，享用她亲手做的寿司。在激烈的情感交流中，花老师逐渐向汉迪表露出自己的爱意，而汉迪虽然心有怦然，却也陷入了对现有女友茉莉的责任感中。两人之间面对着外界的压力和个体的身份认同问题，情感愈加复杂。同时，茉莉对汉迪的态度也微妙而富有戏剧性，使得三者之间的关系充满张力。故事探讨了师生关系中的伦理、性别身份的流动性以及个人情感的纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_花菱与茉莉.doc]([附身]_花菱与茉莉.doc)
 | Size            | 49152 bytes                           |
 | MD5             | 301c8283c814c24c1c1270915876db35                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 师生恋, 情感纠葛, 性别认同, 变身, 暧昧, 校园, 青春, 自我探索, 情感冲突, 师生关系, 女子嫩肤, 恋爱心理, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

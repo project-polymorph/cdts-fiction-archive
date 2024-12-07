@@ -7,7 +7,7 @@ TXT 下载: [[附身]_暫且無題目_[.docx]([附身]_暫且無題目_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一段关于主角正杰（阿杰）在遭遇意外后灵魂附身于女性角色妲己的奇幻小说片段。故事开头描述了正杰的日常生活，以及他对自己身份的认同危机。一次意外后，他听见一位老者与一名女子的对话，提到了妖精和附身的概念。在一番战斗与咒语后，阿杰意外地发现自己被转移到了妲己的身体中。他在回到自己家后，得知自己变成了一名女性，体会到了女性身体的各种感觉，尤其是与自己的生理状态发生了冲突，开始对自身的新身份产生复杂的情绪。该文本涉及性别认同、身体变化等主题，包含一定的性暗示及色情元素，同时探讨了个体对自身性别的认知过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_暫且無題目_[.docx]([附身]_暫且無題目_[.docx)
 | Size            | 26935 bytes                           |
 | MD5             | e6a873bcf42bb28c77064881d2ad7f55                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 妲己, 妖精, 自我认知, 身体变化, 奇幻, 转变, 爱情, 奇幻小说, 角色扮演, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

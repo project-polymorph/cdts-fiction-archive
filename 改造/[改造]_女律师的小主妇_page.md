@@ -7,7 +7,7 @@ TXT 下载: [[改造]_女律师的小主妇.docx]([改造]_女律师的小主妇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《女律师滴小主妇》讲述了一位年轻男性角色与一位成功女律师简之间的复杂情感故事。故事中，主角从一个冷漠的家庭出发，追寻自己的理想生活。在一次法律讲演中，主角被简的美丽深深吸引，并开始了一段另类的情感旅程。故事围绕着他们之间的相遇、相识及主角逐渐接受自己作为女性角色的身份展开。随着故事的发展，主角不仅承担起简的家务，还被迫接受了简对他的新要求，变得顺从和柔弱，逐步融入了他一直想要的家庭主妇的身份。文件中描绘了他们亲密互动的细节，展示了主角在新身份下的内心挣扎与成长，直面社会对性别认同的挑战。可惜，文章中还有部分内容显得不太完整，涉及到的色情细节和情感表达可能会造成误解。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_女律师的小主妇.docx]([改造]_女律师的小主妇
 | Size            | 71010 bytes                           |
 | MD5             | 63dbcad01d5993a3a56cc7ab49c56ac7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 女律师, 性别认同, 变身, 家庭角色, 温柔小主妇, 自我认知, 情感发展, 顺从, 恋爱, 伪娘, 二次元, 强制性别角色, 心理变化, 个人成长, 家庭关系, 另类情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_幸运还是不幸的我-5.docx]([变性]_幸运还是不�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇围绕丁晓兰婚礼及其相关人物情感互动的小说，描绘了主角在出席婚礼时尝试紧身礼服的尴尬情境。作者通过细致的描写展现了主角在婚礼前的准备过程，以及与朋友间的互动，展现出了婚礼的紧张与喜悦。过程中，角色们对身体形象的关注和相互之间的情感交流体现了对自我认同与性别认同的探索。文本中还涉及到主角的胸部变化以及与李静之间的亲密关系，展现了对女性身体的细腻关注，同时伴随一些轻微的性暗示。因此，该文本不仅是一篇关于婚礼的小说，同时也结合了性别转换和跨性别的主题，生动展现了当代年轻人的感情与性别认同的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_幸运还是不幸的我-5.docx]([变性]_幸运还是不�
 | Size            | 27677 bytes                           |
 | MD5             | a575c894ded7a489dafa7359ed6d7866                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 婚礼, 自我认同, 朋友互动, 身体形象, 亲密关系, 女性主义, 心理探索, 情感纠葛, 性别认同, 奶水喂养, 身心变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译小说】女仆_第一部分（一共5部分）.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《女仆》的小说翻译第一部分，作者为Belladonna。故事围绕主角查尔斯·坎农展开，他是一个长期深居简出的男性。查尔斯的前妻林恩离开了他，给了他一种孤独同时又令人松了一口气的感觉。他在这个过程中雇佣了女管家简，渐渐对她产生了好感。虽然简的外表并不出众，但由于她是查尔斯生活中唯一的女性，他开始感受到对她的吸引力。查尔斯在深夜孤单的生活中，不知不觉产生了对女性角色艾玛的偏爱，开始装扮成女性，以此来填补内心的孤独感。故事中提到查尔斯与简之间的关系逐渐从雇主和雇员发展成了朋友，甚至有了亲密的接触。简一次意外逛入查尔斯的家，发现他穿着女性衣物化妆的秘密，虽让查尔斯感到窘迫，但简的反应并没有对此表示反感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译小说】女仆_第一部分（一共5部分）.d
 | Size            | 31557 bytes                           |
 | MD5             | 4def29f3fad8799f2d6119cb64faa334                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Belladonna                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 女仆, 孤独, 性别认同, 情感发展, 恋爱, 性别转换, 生活琐事, 秘密, 自我探索, 家庭关系, 朋友, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

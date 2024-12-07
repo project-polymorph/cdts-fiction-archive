@@ -7,7 +7,7 @@ TXT 下载: [[改造]_塞西亚公司2.doc]([改造]_塞西亚公司2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为《塞西亚公司2》的故事情节描写，内容围绕角色大树的身心变化与性别认同的探讨。故事开篇描写了大树在公司到达前的羞耻与兴奋感，伴随与母亲的复杂关系，透出性别、权力和羞辱交织的主题。随着情节发展，大树被迫接受公司培训，体验剥夺和强制转变，文中详细描绘了他穿着紧身衣的过程、身体的改造以及与母亲、其他员工间的互动，体现了一种畸形的社会角色和性别身份的塑造。文本涉及诸多限制级内容，包括强迫、羞辱、性别模糊和自我认知的冲突等情节，探讨了个人在女性角色与社会期待间的挣扎与接受。总之，该文件呈现的是对个人性别认同、社会机制与身体改造的探讨，语言直白且富有冲击力，值得对跨性别主题及相关心理现象进行深入研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_塞西亚公司2.doc]([改造]_塞西亚公司2.doc)
 | Size            | 55808 bytes                           |
 | MD5             | 4d7a10129bc07c2e7b2ba6d7fafcd310                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变性, 跨性别, 羞辱, 洗礼, 职场, 性转, 身体改造, 社会角色, 权力关系, 强制变身, 精神控制, 自我认知, 暴露主义, 虐待                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

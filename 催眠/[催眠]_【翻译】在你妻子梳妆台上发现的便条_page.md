@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_【翻译】在你妻子梳妆台上发现的便条.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+在这篇名为《在你妻子梳妆台上发现的便条》的小说中，讲述了汉克与他的妻子克里斯蒂娜之间复杂的关系和性别转换的情节。故事通过汉克发现的一张便条展开，分享了克里斯蒂娜对汉克的强烈感情以及她想要重新开始的愿望。便条中，克里斯蒂娜透露了她想换身体的计划，汉克将成为成功的橄榄球球员，而克里斯蒂娜则将成为曾经的啦啦队长，面对身体和身份的巨大转变。文本描述了克里斯蒂娜对新身份的自我认知，以及汉克的操控与欲望，描绘了她在新的身体里所经历的身体重塑和性别认同的冲突。全篇充满了对身体转换的细致描绘，以及对性别角色的颠覆与反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_【翻译】在你妻子梳妆台上发现的便条.doc]([
 | Size            | 35328 bytes                           |
 | MD5             | 706d468ca6c80820c349a457b5cb3dff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Dark7                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 强奸, 调教, 女仆, 学生, 逆后宫, 虚拟现实, 情色, 身体交换, 女性视角, 青春, 成人内容, 自我认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

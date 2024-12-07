@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_损友（2）.docx]([皮物]_损友（2）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说深入探讨了性别角色的流动性与身份认同的主题。故事围绕着角色孝彦与他的朋友们，尤其是优子和亚希之间错综复杂的关系展开。文本通过详细的描写展示了一个关于友情、欲望与身份转换的故事。故事的开头，孝彦因为与优子的亲密关系而感到困惑和兴奋。这种情感的变化伴随着角色们之间的调侃与互动，展示了青春的迷惘与渴望。小说中的多个场景描绘了在泳池和更衣室的亲密接触，强调了身体与性别的流动性，以及在同伴面前的自我表现与交流。而亚希则在情节中承担了一种双重身份，她既是对孝彦的情感支持者，又是充满欲望的参与者。这种复杂的人际关系和内心的挣扎，为文本增添了丰富的层次与深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_损友（2）.docx]([皮物]_损友（2）.docx)
 | Size            | 29775 bytes                           |
 | MD5             | e559ba71c0933a5322b5e4fbb129ea2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变装, 青春爱情, 性转, 泳池场景, 自我探索, 欲望, 身份转换, 群体关系, 伪娘, 男娘, 校园, 禁忌, 调教, 强奸, 贞操锁, 多角恋, 二次元, 奇幻, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

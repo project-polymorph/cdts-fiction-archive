@@ -7,7 +7,7 @@ TXT 下载: [[变身]_华代系列_俄克拉荷马搅拌器可不是职业摔角
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一部性转主题的小说，主要讲述了角色凉子在经历了一次突如其来的变身后，所产生的内心挣扎和自我认同的过程。故事的开头，凉子惊讶地发现自己一夜之间变成了女孩子，并在早晨遇到前辈苍也，回忆起与他一起上学的往事。小说中描绘了凉子心中的紧张与羞愧，并透过一系列与苍也的互动，展现了她对自己新身份的接受与探索。特别是凉子在电梯中紧张整理自己头发的场景，生动地刻画出她内心的矛盾与羞耻。同时，文本也涉及了校园生活的细腻描写，以及角色间微妙的情感变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_华代系列_俄克拉荷马搅拌器可不是职业摔角
 | Size            | 26232 bytes                           |
 | MD5             | 77051dd91ed119bcda332b0b2c146b8f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Mondo                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园 romance, 自我认同, 内心挣扎, 变身, 少男少女, 青涩爱情, 水手服, 青春探索, 逆后宫, 情感纠葛, 性别认同, 短篇小说, 二次元文化, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

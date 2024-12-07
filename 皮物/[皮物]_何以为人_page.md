@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_何以为人.doc]([皮物]_何以为人.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部科幻类短篇小说，标题为《何以为人》，主要围绕一个哲学性问题展开，探讨何谓“人”。故事从大学第一堂课开始，教授在黑板上提出这样的问题，引发学生们的讨论。教授强调，人的标准是‘意识’，而随后通过全息影像的展示，引导学生们认识到一些被称为‘不合格意识物’的存在，这些人被认为不具备成为人的资格，进而引出一座生物质能发电厂的恐怖场景，在那里那些不合格意识物被抓住并榨取生物质能。该文本通过对人类存在的质疑，引发了对人性、自我认同等深层次的思考，最终将故事聚焦到主角圳与其妻泠之间的情感纠葛，以及泠被警方抓捕带来的冲突。文章融合了科幻、哲学与情感元素，以严肃的视角揭示一些关于身份与认同的问题，使人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_何以为人.doc]([皮物]_何以为人.doc)
 | Size            | 37376 bytes                           |
 | MD5             | 0d267c9a19cd661c45bd0a2326b47ab3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 生物质能, 自我认同, 人性探讨, 意识, 科幻, 伦理, 学校生活, 故事叙述, 妻子, 身分, 科技, 情感纠葛, 社会制度, 哲学思考                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_越狱（完结）.docx]([变装]_越狱（完结）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部关于越狱与性别转换的小说，讲述了主角迈克因抢劫银行而入狱，被判刑20年。故事的开头，他与代理律师苏珊的最后一次见面似乎预示着即将放弃上诉，而迈克则策划了一场精心的越狱计划。利用自己在监狱中创作艺术的机会，迈克制作了一个模仿苏珊的面具和一套女性服装。他在与苏珊的短暂见面中，迅速将其打晕，并伪装成她，准备藉此逃出监狱。小说通过细致的描写展现了迈克在伪装过程中复杂的心理变化，以及他如何利用这种性别转换操控周围的环境。在成功逃离监狱后，迈克继续利用伪装的身份，设法躲避追捕，展示了他对自我身份的探索与重塑。小说伴随强烈性色彩与紧张情节，探讨了性别认同与逃避的主题，适合对跨性别及性转文学感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_越狱（完结）.docx]([变装]_越狱（完结）.docx)
 | Size            | 19137 bytes                           |
 | MD5             | 940ac562f6ae61e535aabc08f61f87ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | lzishen                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 逃脱, 跨性别, 监狱, 性别认同, 伪装, 艺术创作, 心理斗争, 女性形象, 自我探索, TD文学, 情节反转, 伪娘, 男性角色变身, 女性身份, 养成                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

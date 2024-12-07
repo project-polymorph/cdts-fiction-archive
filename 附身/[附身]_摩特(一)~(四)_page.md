@@ -7,7 +7,7 @@ TXT 下载: [[附身]_摩特(一)~(四).docx]([附身]_摩特(一)~(四).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《摩特》系列小说通过一艘名为米奇的太空船的航行探索，讲述了未来人类寻找适合居住星球的故事。故事设定在2045年，由于资源短缺，引发了大规模太空探索。这艘太空船上居住着多种族的乘员，经过200年的航行，人口已达到5000万，却依然未能找到适合的星球。在偶然间发现一颗与地球相似的蓝色星球后，探险队被派往探勘。小说中描绘了摩特族这一奇特生物，他们通过寄生和吸食其他生命体的生命精华来生存，且他们没有固定的形态。故事预计将探索人与摩特族之间的冲突与合作，以及在混乱的环境中的生存斗争。从实验室中的对话可以看出，插入的生物与人类之间的性别与身份认同等复杂关系将体现在后续情节中。穿插着多条情感线，包含冒险、科学、跨种族关系等多重主题，阅读时需保持开放的心态，理解不同的文化表达。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_摩特(一)~(四).docx]([附身]_摩特(一)~(四).docx)
 | Size            | 30911 bytes                           |
 | MD5             | 3a1b098d31b81fba0028db42e35bccb8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 冒险, 未来世界, 生命探索, 跨种族关系, 寄生生物, 太空探索, 性别认同, 自我探索, 实验室惊悚, 爱情, 都市生活, 非人化, 奇幻, 机器人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

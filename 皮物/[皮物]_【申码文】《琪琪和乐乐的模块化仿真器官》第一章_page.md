@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文】《琪琪和乐乐的模块化仿真器官�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为多元性别中文数字档案馆中的一篇伪娘与跨性别相关小说，标题为《琪琪和乐乐的模块化仿真器官》第一章。故事围绕两位从小玩到大的好朋友琪琪和乐乐展开。琪琪因疫情取消了前往B市的计划而回到家中，意外得知乐乐和他母亲在一起的事情，因而产生了误会。随着剧情发展，琪琪发现乐乐在外表上有着女性的打扮，并且对于乐乐的身份感到惊讶与好奇。小说涉及了成人用品的主题与生理上复杂的关系，尤其是乐乐的母亲是一名成人用品公司的研究员。文章通过琪琪的视角，表现了他对乐乐身份转换的震惊以及逐渐产生的亲密关系，内容包含了不少限制级情节，包括性别认同、自我探索和身体的性别重塑等。整体风格偏向于轻松幽默与奇幻，让人反思性别的界限与个人认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文】《琪琪和乐乐的模块化仿真器官�
 | Size            | 50176 bytes                           |
 | MD5             | 3beffe124a3e550b85dc9f084d5444f3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 模块化仿真器官, 性别认同, 自我探索, 青春期困惑, 性与身份, 友谊, 母子关系, 成人用品, 变装, 吸引力, 成年人的秘密, 心理冲突, 性教育                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

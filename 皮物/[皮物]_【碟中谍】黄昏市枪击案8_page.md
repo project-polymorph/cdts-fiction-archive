@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【碟中谍】黄昏市枪击案8.doc]([皮物]_【碟中
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是宇宙中的一个伪娘/变身类小说的章节，标题为《碟中谍——黄昏市枪击案8》。故事讲述了女主角在警匪、谍战背景下的冒险，她带领两个变身特工进行卧底行动，对抗来自美日韩的间谍。本章节聚焦于女主与特工之间的关系，以及她在夺回一张关键信息光盘过程中面临的复杂局面。文中描绘了各种政治斗争、间谍手法与黑帮背景，使得情节紧张刺激。尽管这一节并没有涉及肉戏，但作者着重强调后续会加入更加刺激的描述，故而让读者对后面的情节充满期待。文件中包含许多复杂的角色之间的对话，揭示了不同利益集团之间的斗争与角力，展现了女主作为强大而聪慧的角色形象。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【碟中谍】黄昏市枪击案8.doc]([皮物]_【碟中
 | Size            | 40448 bytes                           |
 | MD5             | e312cfb7addbec924bc4476d348a3ef7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 卧底特工, 谍战, 黑帮, 情感纠葛, 女性角色, 自我认同, 权力斗争, 间谍情报, 都市冒险, 悬疑, 纯爱, 饮食男女, 冲突与逆转, 变装, 行动戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

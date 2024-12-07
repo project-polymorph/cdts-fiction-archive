@@ -7,7 +7,7 @@ TXT 下载: [[改造]_飞鸟集「第一章」.docx]([改造]_飞鸟集「第一
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇围绕人妖改造主题的小说，描写了男主角林鹏因为工作问题被人捉住把柄，经历了种种无法抗拒的胁迫，最终走上了变身为他人情妇的不归路。故事开篇设定了林鹏的职业和内心困境，阐述了他的生活背景以及他在职场上的挣扎与压力。随着情节的发展，男主是一名在公司中处于底层的员工，随着职场的压力，他的自我认知不断变化，逐渐被调教成一个人妖角色。该文为慢热型，且与作者其他作品相联系，涉及了角色自我认同和情感冲突等诸多复杂主题。此外，文章的叙述方式采用写实风格，倾向于展示角色的内心世界和社会变化带来的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_飞鸟集「第一章」.docx]([改造]_飞鸟集「第一
 | Size            | 51082 bytes                           |
 | MD5             | 3971b484aa3593490e2c3671124b9fb8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 人妖改造, 猪脚成长, 工作压力, 情感冲突, 性别身份, 调教, 婚姻生活, 职场竞争, 自我认同, 慢热类型, 含蓄爱情, 逐步变态, 家庭困扰, 婚后生活, 悲剧色彩, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

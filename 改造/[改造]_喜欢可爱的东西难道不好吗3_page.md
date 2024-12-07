@@ -7,7 +7,7 @@ TXT 下载: [[改造]_喜欢可爱的东西难道不好吗3.doc]([改造]_喜欢
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容涉及角色健对自己性别认同与欲望的探索，其中展现了他穿戴女式内衣的内心挣扎与兴奋。在文中，健因穿上可爱的女式内裤感到愉悦，同时也伴随着羞愧与自我怀疑。随着情节的发展，他在自我认知上经历转变，对穿着女式内裤的认同感逐渐增强。文中包含了复杂的情感与生理反应，如穿着女式内裤后对自己形象的认识变化，以及这种变化带来的身体愉悦感。健与其学长格鲁斯之间的互动更加深了这种复杂的情感。格鲁斯的引导让健逐步接受自己对可爱的追求，并在心理上开始向女性化倾斜。最终，健在一次对话中暗示了希望变得更可爱，以及对格鲁斯的依赖，并表示愿意穿更多女性内衣，这反映了他内心深处的愿望与对性别认同的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_喜欢可爱的东西难道不好吗3.doc]([改造]_喜欢
 | Size            | 55296 bytes                           |
 | MD5             | 0c3852c50e91d1deaba30dc35c0bf124                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 性转, 变装, 自我探索, 跨性别, 生理反应, 欲望, 内衣, 心理变化, 同性恋, 爱情, 青春期困惑, 二次元文化, 伪娘, 性欲, 羞耻感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

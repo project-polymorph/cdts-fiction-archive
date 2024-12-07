@@ -7,7 +7,7 @@ TXT 下载: [[变装]_性别逆转的世界：聘用新秘书.doc]([变装]_性�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这部小说《性别逆转的世界：聘用新秘书》讲述了一个围绕性别角色颠倒的故事。故事的女主角是一个职场女性，她在丈夫的支持下开始了新的工作日。早晨，她与丈夫戴尔共享早餐，随后准备去公司。由于她的秘书正在休陪产假，她需要寻找一名新秘书。在她的办公室中进行了多场面试，面试者们的穿着和举止都引人注目，尤其是最后一位面试者，他的穿着打扮极具吸引力。面对他，女主角感到内心 conflicted，并在面试过程中对他的性别表现产生了复杂的情感。故事中涉及性别认同和欲望的探讨，体现了自我认知的冲突与调适。情节随着女主角与面试者的互动而紧张发展，最终引发了一场感情和信任的危机。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_性别逆转的世界：聘用新秘书.doc]([变装]_性�
 | Size            | 35840 bytes                           |
 | MD5             | 41bed0e68b6b5470914c7cf4d2da1a57                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Sonnyjimjr                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别逆转, 跨性别, 职场小说, 伪娘, 性别认同, 自我探索, 调情, 办公室恋情, 情感危机, 秘书, 面试, 婚姻, 职场压力, 欲望与冲突, 情感交流, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_07.docx]([附身]_武器种族传说_07
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部性转与变身类小说《武器种族传说》的第七章，主要描绘了角色在性别转变后的心理与身体上的变化。故事开始时，男主角在变身为女性后，对新身体的感觉充满好奇和不适，同时也展现了一段与露西的亲密关系。露西是故事中的女友，她给男主角提供了一种全新的体验，试图让他理解女性的感受。正文中充满了年轻情侣间亲密的互动，涉及感情与身体探索。小说还包含了异能学校的设定，男主角与露西在盟友与对手之间的关系变化，以及对异能的实战应用进行的教学演示，整体情节探索了性别认同、自我认知与情感的复杂交织。文中有多处描述角色之间的肢体接触及感情发展，使其具有一定的成人向内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_07.docx]([附身]_武器种族传说_07
 | Size            | 39188 bytes                           |
 | MD5             | cf4d24f997d263005561682b1223b177                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 爱情, 异能, 校园, 情感探索, 自我认知, 身份认同, 性别角色, 情侣互动, 身体体验, 文学创作, 二次元, 变嫁, 强奸, 调教, 多元性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

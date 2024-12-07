@@ -7,7 +7,7 @@ TXT 下载: [師走.doc](師走.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一段关于战斗与个体认同的小说片段，描绘了一位聪明与强悍的女性与名为拉姆的小女孩之间的战斗情景。拉姆身穿重型军服，拥有超人般的力量和致命的武器，与女性展开了惊心动魄的对抗。文中提到拉姆没有意识到自己失去了人性，反而享受着凶残的快乐，充满了对攻击的渴望与对战斗的兴奋。女性则在战斗中展现出她高度的反应能力和钢铁意志，面对拉姆的攻击却显示出一副游刃有余的淡然自若。尤其是在拉姆尝试用机械手臂抓住女性时，女性通过自身的力量展开了反击，展现出其深不可测的能力与背景。文本还通过对战斗场面的细致描写，营造出紧迫与压迫感，使读者能够清晰地感受到角色之间的冲突与张力，是一篇涉及性别认同、自我认知等主题的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [師走.doc](師走.doc)
 | Size            | 47104 bytes                           |
 | MD5             | faabd8d3e3bd7433efeb07d5bc23710b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 战斗, 性别认同, 超能力, 机械手臂, 心理斗争, 反转剧情, 个体探索, 冲突, 异形角色, 都市幻想, 二次元, 战斗美学, 剧情反转, 机械改造, 拉姆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_月神_——_16_【魅惑众生的开始】_[.docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一段以伪娘和跨性别为主题的小说内容，讲述了两名角色在神秘的环境中醒来，并展开一系列惊险的经历。故事开始时，角色因强烈的白光失去了意识，之后醒来发现自己身处一个神秘且带有古老气息的环境中。描述了角色婷萱在小楼内利用科技设备ARTEMIS-B进行环境检测，同时与另一角色晓月一起，秘密进行一项关于利用生物材料制造皮物的实验。情节中描绘了对女性角色苏妲己的捕捉、麻醉与转化，并伴随了一些带有挑逗和暗示性内容的对话，展示了角色对权力和身体的探索。文本中多次提到对称性的角色转换、身体再造以及有关性别的模糊界限，这种探索在该小说中通过科技与妖异元素相结合的方式展现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_月神_——_16_【魅惑众生的开始】_[.docx]([皮�
 | Size            | 27325 bytes                           |
 | MD5             | 9546451983830268c8aa721130d03f33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ambiva                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 科幻, 跨性别, 生物技术, 秘密实验, 性别认同, 妖狐, 权力关系, 色情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

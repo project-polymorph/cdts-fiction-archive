@@ -7,7 +7,7 @@ TXT 下载: [[交换]_合影相机_第一章.doc]([交换]_合影相机_第一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《报复汪八婆（上）》的网络小说，内容围绕两个高中生黎司和章山的日常生活展开。在故事中，黎司因其游戏机被同班同学汪小舞举报而愤怒，想要报复对方。章山则提出了一个可能的报复计划，借助一台神秘的拍立得相机进行实验。故事情节发展至章山利用这台相机拍摄了汪小舞的照片，并发生了一系列的性别转换。最后，黎司在实验中无意中变成了汪小舞的模样，进入了一个神秘而又搞笑的境地。小说展示了性别转换与角色认同的主题，并携带一定的幽默与幻想色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_合影相机_第一章.doc]([交换]_合影相机_第一�
 | Size            | 39424 bytes                           |
 | MD5             | 527c13172d53570234e2b06842dd008e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 校园, 幽默, 角色认同, 自我探索, 科技幻想, 实验, 伪娘, 好友间的竞争, 轻小说, 二次元文化, 青春校园, 青春, 变嫁, 爱情, 奇幻, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

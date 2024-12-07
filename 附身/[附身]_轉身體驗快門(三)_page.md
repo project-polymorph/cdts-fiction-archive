@@ -7,7 +7,7 @@ TXT 下载: [[附身]_轉身體驗快門(三).docx]([附身]_轉身體驗快門(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一位主人公在经历了一系列奇怪事件后，获得了一台神秘相机的故事。他从罗文大学毕业，期间与好友杰森分享了生活和住处。杰森借用了他的相机，却拍摄了私密的照片，主人公发现后感到震惊。这台相机似乎有着特殊的功能，主人公在不经意间操作相机后，突然意识到自己竟进入了杰森女友劳拉的身体，并开始经历她即将与杰森共度的亲密时刻。文本中对劳拉的外貌和心理状态的详细描写，展示了主人公在陌生的女性身体中所感受到的复杂情感与冲突，以及他所目睹的情景。这种奇幻的身体转换引发了一系列的性别认同与自我探索的主题。内容包括性相关的细节描述，感情纠葛与心理变化，突显了性别、亲密关系与身份的多重探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_轉身體驗快門(三).docx]([附身]_轉身體驗快門(
 | Size            | 20710 bytes                           |
 | MD5             | adc30653d903cd41e4d472e659b715bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 真主之剑                               |
+| Region          | 未知                               |
+| Date            | 2011-05-24                                 |
+| Tags            | 性别认同, 身份转换, 奇幻, 性转, 跨性别, 亲密关系, 自我探索, 二次元, 变身, NC-17, 勾引, 纯爱, 成人题材, 戏谑, 青年文化, 友情, 秘密, 心理冲突, 艺术史                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

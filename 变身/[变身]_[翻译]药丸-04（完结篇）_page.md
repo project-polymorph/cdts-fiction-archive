@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[翻译]药丸-04（完结篇）.docx]([变身]_[翻译]�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部围绕性别转变主题的小说《药丸》的翻译版，讲述了一名男性在服用一种特殊药丸后的身体和心理变化。故事的主角在服用药丸后，经历了身体的戏剧性变化，逐渐变得女性化，并开始探索与男性的亲密关系。小说详细描绘了主角刚开始意识到身体变化时的困惑与渴望，尤其是如何逐步适应这一新的身份和身体特质。全文包含多次性高潮的描述，揭示了主角在性别认同、女性身体体验与社会交往中的复杂互动。随着情节的发展，主角对自身变化的接受与抗拒交织，使得故事情节更加引人入胜。最终，主角寻求进一步的药物介入，希望恢复为男性，但却面临着新一轮的挑战与选择。这部小说探讨了性别认同、欲望的本质以及个人转变过程中的痛苦与快感，并包含了丰富的性暗示和成人情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[翻译]药丸-04（完结篇）.docx]([变身]_[翻译]�
 | Size            | 26377 bytes                           |
 | MD5             | 41698a8b9c4cf2f9ac7d243b1dc3f530                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Karen Albright                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 药物变身, 欲望, 女性身份认同, 自我探索, 情感冲突, 二次元, 奇幻, 成人内容, 性别转换, 性转, 性心理, 性爱体验, 自我感知, 人生选择, 心灵挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

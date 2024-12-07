@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_鱼（短篇完结）.docx]([皮物]_鱼（短篇完结）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为短篇小说《鱼》，由作者果壳中的国王创作。该故事围绕一个身为除妖家族年轻人的角色展开，他在完成成年仪式后，面临着成为除妖师的选择。在这个过程中，他透过自己的经历，自我探索和对家族传统的反思，表现出对现代社会发展的深思与妖怪文化的遗忘之间的矛盾。故事中，主人公回忆起家庭对他未来的期望，以及目睹女子们因嫉妒而召唤妖物的情景。在一次偶然的机会中，他从城市中走入山林，幸运地救下一个被迷魂香影响的女孩，将她带入阴间以躲避山神的愤怒。在阴间等待救助的过程中，主人公向女孩解释两者的处境，同时也反映出他对自己身世的挣扎和不安，以及对外界的不满与生活的分歧。在他的内心中，对自己成为除妖师的身份，既有责任感，也带有不安和挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_鱼（短篇完结）.docx]([皮物]_鱼（短篇完结）
 | Size            | 35103 bytes                           |
 | MD5             | d07f66857ff1aefdc08563c05a177f30                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 果壳中的国王                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 除妖师, 妖怪文化, 自我探索, 阴间, 山神, 现代社会, 青春期, 家庭期望, 女性关系, 迷魂香, 救赎, 平凡生活, 角色转变, 自我认同, 传统与现代, 家庭责任                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_双眼惹的祸：第一章.docx]([交换]_双眼惹的祸
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《双眼惹的祸》第一章的小说，主要讲述了一个名叫李凯的普通年轻人在一天的工作生活中的遭遇。故事开篇描绘了阴雨天气，李凯在下班前夕习惯性地路过一个卖小笼包的摊位，似乎在延续他平淡而又孤独的生活。然而，随着一声惊呼，李凯无意中目睹了一具女尸的陨落，这名女尸竟然是他的女上司王莲玉。故事通过李凯的内心独白揭示了他对于生活的无奈与对女人生命的不捨，在不幸与偶然之间，他回忆起王莲玉的种种。凭借着丰富的描写风格，作者不仅展示了李凯的情感与生活状况，还将恐怖与现实交织在了一起，引导读者思考生活的脆弱与瞬息万变。同时，故事还提示了人际关系的复杂与人性中的光辉。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_双眼惹的祸：第一章.docx]([交换]_双眼惹的祸
 | Size            | 20124 bytes                           |
 | MD5             | 2802b510018891ba6a2717238cdf61a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 恐怖, 悬疑, 职场, 现实题材, 自我认知, 死亡, 社会关系, 男主视角, 女上司, 人性探索, 日常生活, 情感纠葛, 心理剧, 惊悚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮物】平静人生（暂定）（序）.doc]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于伪娘与变身相关的小说，故事围绕一位男性角色在经历了一夜的狂欢后，如何通过特殊的皮衣变成女性角色的过程展开。小说中描写了角色的内心冲突与心理转变，从男性到女性的身体转换，并详细描写了在这一过程中刺激与痛感并存的复杂感受。故事开始于一个暴雨过后的清新早晨，叙述者准备好迎接他与妻子间的特定“节目”。文中包含大量关于角色穿戴仿真皮衣的细节，及之后与妻子的互动，以及角色对新身份的体验和探索。该作品涉及成人内容并深入探讨了性别认同与角色变换的主题，整体呈现出一种科幻与情色结合的风格。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮物】平静人生（暂定）（序）.doc]([皮物
 | Size            | 51712 bytes                           |
 | MD5             | c7d3122640a1083cf8e3790156dcff47                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 成人小说, 性别认同, 自我探索, 情感, 幻想, 身体改造, 刺激体验, 心理转变, 仿真人皮                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_全力以赴_28.docx]([改造]_全力以赴_28.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别中文数字档案馆中收录的一篇关于伪娘和变性体验的小说，具体章节为第28章。故事围绕两位主要角色，朱儿丝与尼克（后期转变为妮古拉），他们在一次慵懒的早午餐中展开对话，探讨了尼克的性别认同和内心感受。在这一章中，朱儿丝对尼克的变化表示认可和钦佩，并回顾了这几个月来他们之间的关系变化。从朱儿丝的视角来看，尼克的成长和变化是显而易见的，甚至提到了她对尼克的爱慕之情。故事探讨了跨性别者在自我认知过程中的冲突与成长，以及朋友之间的支持与理解。整章情节体现了轻松的氛围，但也夹杂着对性别认同的深刻反思。最终，故事留有悬念，引发读者对角色心理的思考和对未来可能关系发展的期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_全力以赴_28.docx]([改造]_全力以赴_28.docx)
 | Size            | 61580 bytes                           |
 | MD5             | 64043e33f64241aa5554990b8a9a369d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变性, 性别认同, 自我探索, 成长, 纯爱, 友谊, 心理斗争, 二次元, 科幻, 轻松幽默, 情感发展, 支持与理解, 跨性别, 个人变化, 青春成长, 情感冲突, 性别角色, 文化反思, 情感支持                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

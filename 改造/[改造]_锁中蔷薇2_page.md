@@ -7,7 +7,7 @@ TXT 下载: [[改造]_锁中蔷薇2.docx]([改造]_锁中蔷薇2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为《锁中蔷薇2》的性转与跨性别相关小说，内容涉及角色的性别转换以及生理与心理的复杂互动。故事描绘了一位男性角色在与女性角色之间的关系中经历的变转与痛苦。开场便进入了激烈的肉体描写，男主王安和女主晓曼之间的性行为展现了生理上的强烈体验与心理上的自我认同冲突。此外，文件中还提到了一位医生和不同角色间的互动，强调了性别改造和催眠的主题，反映出角色在身体改变过程中所遭遇的感知与情感波动。内容不仅触及了涉及性侵、调教、药物改造等敏感领域，还包含了对其角色的心理刻画与伦理的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_锁中蔷薇2.docx]([改造]_锁中蔷薇2.docx)
 | Size            | 40131 bytes                           |
 | MD5             | 641ea61b496b5f7c0ede6de2cd24727a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 医疗程序, 情感纠葛, 角色冲突, 男性视角, 女性视角, 药物改造, 催眠, 心理探索, 情感伤害, 性别认同, 自我探索, 性关系, SM                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

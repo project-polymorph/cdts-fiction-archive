@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【翻译变身】TG故事：在T台上闪耀.doc]([变身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《TG小故事——在T台上闪耀》的变身小说，讲述了一个青少年向他的朋友求助，希望能够实现成为男模的梦想。故事的主角发现自己并不具备成为男模的条件，但他的室友利亚姆则在这一方面具有天赋。在一次游戏中，他向另一个朋友亚历克斯求助，亚历克斯给了他两种药水，分别是红色和蓝色，声称喝下红色药水能让他变得身材火辣，喝下蓝色药水可以恢复原样。主角因好奇喝下了红色药水，随后变身为女性，名为贝拉。在经历了一系列内心的挣扎和思考后，他决定尝试成为超模，而不是立即使用蓝色药水回到原来的自己。随着时间的推移，他逐渐适应了新的女性身份，并开始享受这一过程。故事探讨了性别认同、自我探索以及社会对待性别角色的态度等主题，涉及许多关于身体变化和性别转换的细节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【翻译变身】TG故事：在T台上闪耀.doc]([变身
 | Size            | 38400 bytes                           |
 | MD5             | 2f57ed63be4d5eccce7a07b0418c5347                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jumbo Shirmp                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 变装, 超模, 性别认同, 自我探索, 转变过程, 幻想, 青春, 药物影响, 友谊, 女性身份, 二次元, 人物塑造, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_魔物女王娜娜（一、二）.doc]([改造]_魔物女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇短篇小说，讲述了主角王林穿越到魔法与斗气的奇幻大陆后，借用原女友娜娜的身体展开新的生活的故事。小说中充满了性格与身份的冲突，王林逐渐适应新的生活但又不得不面对原身体娜娜的过去，以及自己逐渐接受女性化和欲望的复杂心理。这位新身份为艾维娜的主角，凭借智慧与技能，迅速成为一名三阶法师，同时暗示着原本身为男性的身份与角色进行自我认知的转变。此外，小说涉及大量关于身体与精神上的调教、性别认同和深层的性欲冲突，充满了幻想元素与对性别议题的探索。文件内容虽短，但描绘了奇幻世界中角色的情感与身体变化，展现了对自我性别与身份困惑的深刻思考，以及对现实与幻想交织中的挣扎与追求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_魔物女王娜娜（一、二）.doc]([改造]_魔物女�
 | Size            | 37888 bytes                           |
 | MD5             | 9b1e1af3ace0d1d5b0bf5a226fd63060                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 幻想, 魔法, 魔物, 身体改造, 自我探索, 欲望冲突, 调教, 三阶法师, 性别认同, 异世界冒险, 女性视角, 内心挣扎, 反转, 阴暗教廷                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

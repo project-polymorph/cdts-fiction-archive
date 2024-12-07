@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】交换匹克运动会.doc]([交换]_【申�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部围绕“交换病毒”主题的小说开篇，描述了一群运动员在赴日本参加东京奥运前的会议上讨论一种名为“交换病毒”的奇特现象。故事设定中，该病毒导致身体互换，影响到运动员的比赛准备和心理状态。小说中的主要角色在会议上对病毒的存在表示怀疑，但教练却强调了必须认真对待的必要性。随着情节发展，他们在日本的选手村发现，已经有多个运动员发生了身体交换。主角在一次早晨醒来后，惊讶地发现自己已被交换到了另一具女性身体，并惊愕于自己所经历的身体变化和新身份所带来的困惑与兴奋。小说探讨了性别身份的流动性，涉及身体、性别认同及个人欲望等复杂主题，尤其强调了角色在新身体中的感受和对自我认知的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】交换匹克运动会.doc]([交换]_【申�
 | Size            | 66048 bytes                           |
 | MD5             | 8d0121f6ee19b3c643264a75da8e31e5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 身体互换, 东京奥运, 自我认知, 性别认同, 运动员, 交换病毒, 奇幻, 成人内容, 心理冲突, 性欲探索, 社交互动, 二次元, 奇幻小说, 青春故事, 角色转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

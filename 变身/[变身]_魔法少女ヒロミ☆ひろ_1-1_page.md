@@ -7,7 +7,7 @@ TXT 下载: [[变身]_魔法少女ヒロミ☆ひろ_1-1.docx]([变身]_魔法�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于魔法少女的变身小说片段，讲述了一位高中生在柔道社团努力训练，却一直想要和可爱的女孩子恋爱。某天，他在回家的路上遇到了一个神秘的生物喵喵，它向他提出了签订契约的建议，声称可以让他的愿望成真。经历了一系列事件后，他被迫接受了变身为魔法少女的命运，服装也随之发生了变化，变得色彩鲜艳而迷人。小说中包含了与性别认同、自我探索和变身等相关的元素，展现了主人公在面对自身变化时的困惑与挑战。描述中提到：“红色的丝带将长长的头发收拢起来”，表现出魔法少女形象的鲜明特点。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_魔法少女ヒロミ☆ひろ_1-1.docx]([变身]_魔法�
 | Size            | 19476 bytes                           |
 | MD5             | 114a7e437645aa53a0614e1d31c16bdd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法少女, 性别转换, 自我探索, 恋爱, 奇幻, 女主, 契约, 战斗, 成长, 青春, 冒险, 二次元, TSF, 雌堕, 魔法, 触手, 伪娘, 强奸, 百合, 强制服装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第三十二回【完结】.doc](《金枝奇缘�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为章节三十二，记录了奇幻小说《金枝奇缘》中的精彩剧情。这一章主要围绕角色顾长卿、叶离、秦风府等人在面对妖邪时的反应与行动，尤其是顾长卿对苏映雪的关心及保护。故事中，顾长卿、叶离和其他弟子联合共同攻打妖邪势力，及时赶到帮助被围困的玲珑阁弟子。随后，剧情转向主角胡济生想要夺取苏映雪的灵枢，经过一系列阴谋与反击，最终胡济生成功地占据了苏映雪的肉身。小说对角色的心理变化与内心冲突有着深入描写，探讨了身份、占有与自我认同等主题。整个故事充满了紧张惊险的氛围，最终也揭示了一种变身、占有美丽的幻想。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第三十二回【完结】.doc](《金枝奇缘�
 | Size            | 53248 bytes                           |
 | MD5             | ab6a8d279ada7d3e9c5a8413f2378601                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 魔法, 玄幻, 爱情, 阴谋, 灵魂占据, 情感纠葛, 修仙, 战斗, 自我认同, 妖邪                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

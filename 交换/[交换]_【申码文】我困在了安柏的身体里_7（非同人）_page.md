@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_7（非同�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部关于性别转换和跨性别关系的小说片段，主要描绘了主角在变身为女性后与妻子艾米莉之间的矛盾和挣扎。故事围绕主角的内心斗争展开，他经历了从男性到女性的身体变化，面临着与妻子的情感疏离和自我认同危机。文中刻画了主角对传统性别角色的困惑和对婚姻的渴望，以及在逆境中寻求爱的希望。主角多次表达了对自己新身份的抵触，感到沮丧和孤独。与艾米莉的关系在经过挣扎后有所改善，艾米莉终于接受了变身后的主角。该文本在内容上涉及情感、跨性别认同、自我探索等主题，特别是夫妇之间面对新生活的调整及重拾感情的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_7（非同�
 | Size            | 47104 bytes                           |
 | MD5             | 3511f95ae250117ddd6716a75789d371                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 夫妇关系, 转变挣扎, 自我探索, 情感纠葛, 身份认同, 婚姻危机, 女性视角, 心理斗争, 情感恢复, 二次元小说, 变身情节, 婚姻调整, 角色复杂性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

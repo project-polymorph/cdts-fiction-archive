@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我亲爱的妈妈——后续篇修改版_[.docx]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容为一部围绕性别转换与跨性别主题的小说，讲述的是主人公通过道具使其母亲变身为他人的肉体，并在此过程中与母亲展开了一系列复杂而禁忌的关系。故事主线围绕主人公与他的"母亲"（实际上是朋友小李的性别变换后的人格）之间的互动展开，情节包括对家庭与性关系的探索、对自我身体认知的冲突以及欲望的表现。文本中涉及了大量露骨的性描写，以及对角色关系的复杂描绘，比如“妈妈”对主人公的调侃和挑逗，和她与小李之间微妙而不安的关系。随之而来的是主人公心理上的冲突，令他对母亲的身份与心理产生深刻的疑惑。整个故事通过对人物身体与心理变化的描绘，探讨了性别与欲望之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我亲爱的妈妈——后续篇修改版_[.docx]([附身
 | Size            | 20013 bytes                           |
 | MD5             | 7b2c6ce18c9357b90492a04849d2da33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 禁忌, 变身, 自我探索, 欲望, 复杂家庭关系, 情感冲突, 性别认同, 强烈性描写, NTR, 浑沌与混乱, 年轻爱情, 心理阴影, 角色转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

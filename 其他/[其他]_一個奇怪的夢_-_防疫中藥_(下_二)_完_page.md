@@ -7,7 +7,7 @@ TXT 下载: [[其他]_一個奇怪的夢_-_防疫中藥_(下_二)_完.doc]([其�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件是关于一个奇怪梦境的长篇小说，描绘了一个名叫小爱的人物与叙述者之间的亲密关系。故事从叙述者醒来开始，尽管他迷迷糊糊，但他随着小爱的声音走入了一段魔法般的体验。小爱用一种神秘的魔法药水让叙述者开始了身体的变化，逐步从男性转变为女性的过程。文中详细描绘了叙述者的身体感受，包括体内脂肪的重新分布、乳房的形成及下体功能的变化，细腻地探讨了性别认同和身体认知的混乱与兴奋。随着剧情的发展，叙述者在小爱的帮助下体验了女性的身体和敏感性，直至遇见另一名角色小王，引发了一系列情感和身体的互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_一個奇怪的夢_-_防疫中藥_(下_二)_完.doc]([其�
 | Size            | 60416 bytes                           |
 | MD5             | 6ee904b8cfc3b5ac1fd6bc6dc34b2291                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 乳房, 女性化, 亲吻, 魔法, 自我认知, 性别认同, 跨性别, 奇幻, 感官体验, 亲密关系, 二次元, 幻想, 情感, 药物, 性骚扰, 性行为, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_机器人偶_结局篇（上）汝是如同火焰般绽放
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部有关伪娘与kigurumi文化的小说，主要以一场舞台剧为背景展开。故事中描绘了一群热爱御宅文化的角色，他们在公园的舞台上参与kigurumi大赛。随着舞台的准备，角色们的情感与冲突逐渐浮出水面，特别是两位女性角色之间的关系，展现了复杂的人际交往和情感纠葛。其中包括泰瑞莎对舞台警备的执着、久留美与水无月雪之间温馨而紧张的互动，以及如美在准备过程中展现出的领导能力。故事紧张的情节展示了角色们在比赛和彼此关系中的挑战，同时暗示了潜在的危机，尤其是在大姐头接收到的紧急通讯中。整体上，小说结合了冒险、情感、战斗和舞台剧表演的元素，形成了一种独特的二次元文化交织的读物。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_机器人偶_结局篇（上）汝是如同火焰般绽放
 | Size            | 21402 bytes                           |
 | MD5             | 1eb1f6863ca04ea684cbf4153b039244                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, kigurumi, 舞台剧, 情感纠葛, 自我认同, 性别转换, 冒险, 二次元文化, 温馨, 紧张, 情感挑战, 战斗, 女性角色, 比赛, 神秘危机, 现代电影                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永生～2.docx]([改造]_永生～2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了主角在经历性别转换后的生活起伏。故事由主角描述其在公司工作的感受与变化，特别是面临的性别认同危机。在体验到没有了生理性别特征后，他感到极度的不适与空虚。这种感受不仅体现在心理层面，还伴随着对他身体变化的强烈意识，加上在美容院接受美容护理、除毛等过程中的尴尬情境。美容院的同事及老板娘的态度也加深了这种性别身份的不适感和尴尬。在与张倩的对话中，反映出主角对自己新身份的接受过程，同时也展现出他对女性与男性身份特质的探索。整体上，小说探讨了性别认同、自我探索和社会接受这些主题，在细腻的情节描写中呈现出对跨性别群体的深刻理解与关怀。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永生～2.docx]([改造]_永生～2.docx)
 | Size            | 41120 bytes                           |
 | MD5             | a6554c7efb0ee3c05b9df080e909c1f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 自我探索, 变身小说, 美容院, 医药研发企业, 心理斗争, 身体焦虑, 洁净与除毛, 社会接受, 女性形象, 剧烈的身体变化, 张倩, 心理冲突, 尴尬情境, 都市生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

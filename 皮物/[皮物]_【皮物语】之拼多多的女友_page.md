@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮物语】之拼多多的女友.doc]([皮物]_【皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于伪娘与性别转换主题的小说，讲述了一名学生小高通过一个名为拼多多的在线租借平台获得了一位女友的体验，意外发现自己租到的女友竟是自己心仪的学姐赵晓惠。故事围绕小高与学姐的互动展开，细腻描绘了小高在与学姐接触中的紧张与期待，以及学姐对这一经历的复杂情感。作品探讨了性别认同、自我探索和恋爱关系等主题，其中包含对校园生活的描绘和对心理状态的表象。文中多次提及对赵晓惠形象的幻想与现实的碰撞，体现了小高对学姐的崇拜与迷恋。同时也展示了当下年轻人的感情困惑与选择，同时故事情节中涉及一些较为成人的幽默与互动，尤其是在学姐与小高的关系发展上，不乏调侃与暧昧之处。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮物语】之拼多多的女友.doc]([皮物]_【皮�
 | Size            | 49152 bytes                           |
 | MD5             | 6e004ff7217e8e9b47f0ed4cd41de634                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 恋爱, 校园生活, 自我认同, 心理探索, 租借女友, 学生, 性别认同, 幻想与现实, 青春, 男女关系, 爱情, 调戏, 幽默, 互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

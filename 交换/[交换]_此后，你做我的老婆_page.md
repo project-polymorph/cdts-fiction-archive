@@ -7,7 +7,7 @@ TXT 下载: [[交换]_此后，你做我的老婆.docx]([交换]_此后，你做
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《交换: 此后，你做我的老婆》，主要讲述了一个名叫李想的中年男主管与其年轻美丽的老婆艾莉以及女儿莉莉之间的情感生活。故事设定在他们的结婚纪念日，描写了夫妻间充满暧昧和性幻想的互动。在这一夜，艾莉通过装扮和游戏的形式将自己伪装成了强势的女王，李想的角色在这种情景下逐渐从主导转为被动，展现出一种性别及权利角色的交换过程。故事中充斥着明确的性描写，涉及到快感、羞辱以及角色之间的力量关系，特别是在性别角色扮演的背景下，深刻探讨了性别认同、欲望及屈服等主题。这部作品融合了浪漫、强迫与调教等元素，展示了主人公在亲密关系中的挣扎与转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_此后，你做我的老婆.docx]([交换]_此后，你做
 | Size            | 72093 bytes                           |
 | MD5             | d7fc6d578e1f0b878fd0bf57aa942670                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 强制, 调教, 角色扮演, 夫妻, 浪漫, 快感, 性幻想, 权力交换, 自我发现, 性别认同, 暗示, 屈辱, 伦理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

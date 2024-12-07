@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_上流社会（4）.docx]([皮物]_上流社会（4）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于复杂家庭关系与权力斗争的跨性别小说，主要围绕角色徐智雅与李俊希之间隐秘而复杂的感情纠葛展开。故事中，徐智雅出身于权势显赫的家族，她因父父亲的去世而卷入了一场关于遗产的争夺战。她与李俊希之间的关系被描绘得既亲密又充满张力，徐智雅期望通过法律手段确保自己的财产利益。在这一过程中，角色们的性别认同和外貌身份的交错也对故事推进产生了重要影响。 字里行间体现出对财阀斗争、爱情、欲望与背叛的深刻思考。此外，情节中加入了许多刺激的性描写与伦理冲突，展现了人性在极端情境下的复杂反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_上流社会（4）.docx]([皮物]_上流社会（4）.doc
 | Size            | 30933 bytes                           |
 | MD5             | b1a3764a5a178bb8d9bfd1c4b48bf35b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 遗产争夺, 权力斗争, 性别认同, 亲密关系, 伦理冲突, 欲望, 家庭秘密, 二次元, 性转, 伪娘, 现代都市, 情感纠葛, 撕裂的家庭, 法律与权力, 复杂的人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

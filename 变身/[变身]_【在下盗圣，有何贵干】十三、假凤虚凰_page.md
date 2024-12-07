@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】十三、假凤虚凰.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇变身小说，标题为《在下盗圣，有何贵干》，主要讲述了一名角色在多次身份转换中的互动与情感纠葛。这篇小说围绕男与女角色的性别调换展开，通过角色之间的情感变化及欲望冲突，呈现跨性别与性别认同的复杂叙述。主要情节包括游龙青在房间中与飞飞的亲密互动，以及游龙天对飞飞的感情表达，暗示着角色内心深处的挣扎与渴望。文中充满了细腻的情感描写和大量暗示性内容，例如“一只手伸入她的裙底握住，而飞飞则在门内挣扎”，展示了角色之间的紧张气氛与冲突。整部作品充斥着对身体、性别与身份认同的探讨，营造出复杂而又多元的情感关系。与其相关的主题包括自我探索、欲望、欺瞒与禁忌情感等，内容涉及大量情欲描写，具有一定的成人向特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】十三、假凤虚凰.doc
 | Size            | 41472 bytes                           |
 | MD5             | 2b973c4db86b797dba2d646ef0be1623                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 自我探索, 二次元, 禁忌情感, 欲望, 三角关系, 情感纠葛, 性别转换, 淫荡, 调教, 秘密, 房间情事, 虚构                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

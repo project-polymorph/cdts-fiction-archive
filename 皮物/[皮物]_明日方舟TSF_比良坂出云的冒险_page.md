@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_明日方舟TSF_比良坂出云的冒险.doc]([皮物]_明
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于伪娘角色比良坂出云的变身小说，描绘了主人公在穿越到异界过程中的经历与变性转变的心理变化。故事开始于比良坂出云在一艘不明的移动载具中醒来，发现自己的身体已变得稚嫩且幼小，似乎变成了十岁到十四岁的样子。比良坂出云经历了身份的困惑，不断探索周围环境并试图理解自己的新身份。字里行间透露出主人公对自己新身份的接受与挣扎，以及对新环境的好奇。他逐渐意识到自己身处于明日方舟的世界，这令他感到既惊讶又兴奋。文中详细描绘了比良坂出云与他所喜爱的角色——医务干员絮雨之间的相遇与互动，以及他内心愉悦与挣扎的复杂情感，展现了性别认同与角色认同的深刻主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_明日方舟TSF_比良坂出云的冒险.doc]([皮物]_明
 | Size            | 252928 bytes                           |
 | MD5             | a21dd3ca7c6cde4aad066ca60772b78e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 异世界, 女仆, 角色认同, 伪娘, NSFW, 强烈情感, 魔法, 青春期, 青少年, 自我探索, 男娘, 幻想, 心理冲突, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

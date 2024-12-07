@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老王的幸福后半生（7）.doc]([改造]_老王的幸
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件的内容围绕老王及其伙伴们的一次特殊任务展开，他们为了救出齐梦伟的妻儿而秘密潜入了一座被军队严密看护的大庄园。故事中充满了角色之间复杂的情感纠葛和身份的秘密安排，老王与齐梦伟在面对严峻局势时展现出紧张而亲密的情感交流。文中描绘了华丽的宴会以及角色们在伪装身份后面对的情感挑战与心理冲突，特别是老王对齐梦伟的情感表现得愈发复杂，深刻地揭示了伪娘的内心挣扎与身份认同的探讨。同时，围绕着权力、富豪圈子和性别角色的主题，故事在幽默与紧张的碰撞中延续。此文深刻描绘了角色之间的互动以及他们如何在社会的期待与内心的真实之间寻找认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老王的幸福后半生（7）.doc]([改造]_老王的幸
 | Size            | 38400 bytes                           |
 | MD5             | 71215b62a174aea6950de4450efa37bf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | q344164202                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-08-07                                 |
+| Tags            | 性转, 伪娘, 情感纠葛, 身份认同, 神秘任务, 权力斗争, 浪漫, 高潮对抗, 心理冲突, 伪装, 军队背景, 宴会, 作战计划, 冒险, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

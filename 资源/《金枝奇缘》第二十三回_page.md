@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第二十三回.doc](《金枝奇缘》第二十�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为《金枝奇缘》第二十三回，标题为“三脉争锋 七窍玲珑”。故事发生在东莱神洲的青云峰上，描述了盛大的“三脉会武”比武大会。擂台上云集了各大宗门的弟子，激烈比拼展现武技，气氛热烈，观众如潮。比赛开始前，擂台上准备充分，裁判团对此次比赛进行严格规则宣读，确保公平竞争。参赛弟子们在擂台上各显神通，通过比武来验证实力和修炼成果。主角叶离凭借其独特的修炼功法，虽然相貌丑陋，反而在比武中冷静应对，取得了胜利，展示了实力与智慧的结合。之后，其他弟子如祝颜玉、庄无瑕、苏映雪等也纷纷登场，每个人都在比赛中展现各自不同的武技特点，吸引了观众的目光，场面气氛十分热烈。整场比赛不仅展现了个人的武技，也昭示了各宗门之间的实力斗争和比拼，是一场精彩的修真盛宴。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第二十三回.doc](《金枝奇缘》第二十�
 | Size            | 37888 bytes                           |
 | MD5             | 2ef61eccfb26f9aec906dd1ef107f309                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 三脉会武, 修真, 比武大会, 叶离, 祝颜玉, 苏映雪, 武技, 修炼, 东莱神洲, 青云峰, 宗门对抗, 竞技, 灵气, 战斗, 修炼之道, 传统文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

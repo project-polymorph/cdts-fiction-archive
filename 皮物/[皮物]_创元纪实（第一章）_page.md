@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_创元纪实（第一章）.doc]([皮物]_创元纪实（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《创元纪实》的第一章，讲述了两名骑士凯伊和托雷在暗流涌动的政治舞台上展开的冒险故事。开篇描绘了阴暗的气氛与即将到来的暴风雨，瞬间将读者带入紧张的情境中。故事中，凯伊和托雷是一对富有背景的年轻骑士，两人性格迥异，但却在冒险中互相扶持。第一章详细描述他们在寻找火龙精魄的过程中，遭遇了敌人袭击，面对重重危险，二人间的友情和勇气成为了故事的核心。文件涉及的场景和角色描绘细腻，情节转换流畅，展现了丰富的幻想素材，部分情节可能涉及成人向的内容，适合对二次元文化和性别认同有研究兴趣的读者。文章最后留下的悬念，为后续的发展埋下伏笔，吸引读者继续关注。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_创元纪实（第一章）.doc]([皮物]_创元纪实（�
 | Size            | 39936 bytes                           |
 | MD5             | 57e6157a9e6d7e3c0ffdc71a097dbd04                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别元素, 冒险, 幻想, 友情, 帝国设定, 政治斗争, 暗流涌动, 剑与魔法, 角色发展, 魔法, 激情, 青年, 英雄主义, 虚构世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

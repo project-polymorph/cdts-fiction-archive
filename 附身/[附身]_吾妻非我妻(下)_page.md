@@ -7,7 +7,7 @@ TXT 下载: [[附身]_吾妻非我妻(下).doc]([附身]_吾妻非我妻(下).do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是《吾妻非我妻(下)》的下部，作者为l8311032。这是一篇描绘角色性别转换与梦境交互的跨性别小说。在故事中，主角因对妻子的拒绝而感到沮丧，梦中与名为小妲的虚构角色相会。在这一系列梦境中，小妲通过魔法想要增强主角妻子妙妙的性欲，从而解决主角的困扰。小说深入描绘了梦境中的性爱场景，展现了角色之间复杂的情感与欲望。随着情节的发展，小妲逐渐取得了对妙妙身体的控制，最终使她在某些情境中表现出迎合主角的态度。文中包含多个描写亲密关系的细节和具有性暗示的对话，涉及角色间的权力动态，展现了性别认同与欲望之间的微妙关系。整体内容包括对梦境的叙述、魔法的应用以及对身体的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_吾妻非我妻(下).doc]([附身]_吾妻非我妻(下).do
 | Size            | 43520 bytes                           |
 | MD5             | eecefb1d96b8b8a86eb5addb9e7b4bbf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | l8311032                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 梦境, 魔法, 欲望, 情感, 背德, 角色扮演, 自我探索, 身体转换, 性行为描写, 幻想, 二次元, 伪娘, 男娘, 男女性别角色混淆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

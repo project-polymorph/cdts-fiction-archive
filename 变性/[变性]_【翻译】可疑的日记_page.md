@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】可疑的日记.doc]([变性]_【翻译】可�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《可疑的日记》是一本通过第一人称视角探讨性别认同与个人内心斗争的小说，叙述者在与室友伊恩共同生活的过程中，经历了身体和心理的逐渐变化。日记记录了从8月26日起的多天生活，包括搬家、室友的互动以及主角对自己外表和性别角色的困惑与探索。逐渐，叙述者发现自己的行为与举止开始变得更加女性化，面对这些变化感到困惑和不安。文中对伊恩的暗示性语言、身体反应及心理变化描写细致入微，展现了角色在超越传统性别框架中的挣扎。叙述者体验了一系列性别认同的挑战，从观看彼此、性别角色的反转到心理的微妙变化，最终不得不思考自己的身份与未来。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】可疑的日记.doc]([变性]_【翻译】可�
 | Size            | 80384 bytes                           |
 | MD5             | d73c8abe8c2e1e29a22b2e59a1d6d77c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变身, 伪娘, 室友关系, 心理探索, 生活日记, 自我意识, 友谊, 内衣购物, 性别角色, 身体变化, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_EROS_（1）准备完全之后再附身……才怪！.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部围绕多元性别和附身主题的小说，字数近七千，内容文字较为琐碎，预示着为长篇剧情。故事的主角是一个多愁善感的人，他在一个看似普通的夜晚，目睹了一家名为EROS的网站突如其来地出现，页面中展示着各种反常商品，如“人皮照相机”和“剥皮之刃”。主角对这个网站产生了浓厚的好奇，并最终决定购买一种名为“灵魂出窍药剂”的商品，这种药剂可以使他在三个小时内脱离身体并附身他人。随即，他在对药剂进行尝试的过程中，感受到了一系列神奇的变化，体验到灵魂脱离身体的快感。小说探讨了自我认同、欲望与金钱的关系，渗透出对性别认同以及社会边缘人群的深刻思考。整体上，该作品隐藏于科幻设定下的强烈人性描绘和对现实的批判，值得深入剖析与探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_EROS_（1）准备完全之后再附身……才怪！.doc
 | Size            | 61952 bytes                           |
 | MD5             | 816a4e78436c21705baaad85c46f7864                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂出窍, 附身, 多元性别, 科幻, 自我认同, 欲望, 药剂, 变身, 黑色幽默, 网络文化, 反乌托邦, tsf, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

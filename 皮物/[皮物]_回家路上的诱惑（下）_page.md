@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_回家路上的诱惑（下）.doc]([皮物]_回家路上�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件名为《回家路上的诱惑（下）》，它描绘了一位男性角色在一次奇异的经历中身体和性别的转变。故事开头，主角感到身体出现奇怪的疼痛和热感，逐渐感受到自己身体的变化。随着情节的发展，角色意识到自己变成了一名女性，经历了痛苦与快感的强烈交织。在面对一个陌生男性的侵袭时，角色起初试图反抗，但身体的感受让他感到困惑和迷失。文中描述了详细的身体感受和情感，揭示了主角从男性身体向女性身体转变的心理斗争。这种变化不仅体现在生理上，心理上也在不断进行着自我认同的探索。最终，角色接受了这种新身份，并意识到自己占有了另一位女性王妤婷的记忆与性格。这份文件深入探讨了性别身份和人际关系的复杂性，在情感和生理的双重体验中，引发读者对于性别认同与自我认知的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_回家路上的诱惑（下）.doc]([皮物]_回家路上�
 | Size            | 41984 bytes                           |
 | MD5             | 8d3aa8e48fe9f4a74e088f5862fa1b96                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变性, 心理斗争, 自我探索, 女性角色, 男性视角, 身体感受, 奇幻情节, 情感纠葛, 二次元文化, 强暴情节, 身体变化, 内心独白, 记忆占有, 诱惑, 自我认同, 身份危机, 欲望, 角色转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

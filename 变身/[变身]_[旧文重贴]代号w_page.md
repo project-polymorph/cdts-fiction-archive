@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[旧文重贴]代号w.doc]([变身]_[旧文重贴]代号w.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别与身份探索的小说，讲述了男生王敏宏通过反串演出而发现自我的故事。王敏宏是一名表演专业的学生，因为身材瘦小而经常被安排扮演女性角色。在这个过程中，他不仅精心模仿女性的动作，还无意间发现了自己对女性形象的认同与吸引力。在一次演出结束后，王敏宏接到了警察李忠的请求，希望他能协助调查一起针对单身女性的强奸案件。故事情节随着王敏宏在调查中的变装与与罪犯的接触而逐渐展开。作品中涉及了性别认同、自我探索、演技与暴力的主题。在经历了一场危机后，王敏宏逐渐意识到自己的内心变化，以及对女性身份的渴望和认同。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[旧文重贴]代号w.doc]([变身]_[旧文重贴]代号w.
 | Size            | 72704 bytes                           |
 | MD5             | b5cd32fc613c7e5d09a40991c03137a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性别认同, 表演艺术, 跨性别, 自我探索, 警匪故事, 情感冲突, 校园生活, 演技, 反串表演, 强奸, 安全与危险, 青春, 恋爱, 案件调查                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

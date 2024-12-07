@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑洞_续章六_冰冰作品.docx]([皮物]_黑洞_续章
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘/TS变身相关小说，讲述了角色李涵雪在别墅区的生活片段。故事开始于李涵雪背着书包走向家中，描绘了她在家中与父母的日常对话及她精致的房间环境。涵雪为自己尝试穿上新买的超薄丝袜而感到困惑与兴奋，通过细致的描写表达了她对丝袜的迷恋，并展现了她的身体感受与心情变化。随后，故事转向一位名为太子的角色，他与好朋友之间的对话揭示了一系列复杂的情节，包括他们所处的特工组织，以及对身份的探讨。整个故事涉及性别认同与自我探索的主题，结合了奇幻和现实元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑洞_续章六_冰冰作品.docx]([皮物]_黑洞_续章
 | Size            | 27770 bytes                           |
 | MD5             | 99067d362b523ae85cf39db17cd62ef4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 冰冰                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 丝袜, 自我探索, 特工, 夜生活, 爱情, 奇幻, 二次元, 角色扮演, 青少年, 成长, 家庭关系, 性别认同, 神秘组织, 女性视角, 调教, 伦理, 奇妙冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

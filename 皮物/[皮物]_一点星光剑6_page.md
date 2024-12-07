@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_一点星光剑6.docx]([皮物]_一点星光剑6.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《一点星光剑6》，内容所涉为性别转换及变身类型的小说，描绘了一位男性角色裘天杰在经历了一系列神秘事件后，被迫穿上一个名为‘神器’的人皮。这种人皮不仅能够保持时间静止，还赋予穿着者永恒的青春与美貌。故事中，竹儿的调侃与对话透露出裘天杰在新身体中的心理经历，以及对自己身份的困惑与迷失。小说通过丰富的细节描写了裘天杰在变身后所感受到的身体快感和情感波动，具体描绘了其对于新身体反应的感知和内在冲突。同时，故事也触及到了自我认知、性别认同以及欲望的主题。内容中夸张且细致的描写突显了角色在肉体与心理之间的复杂关系，尤其是在面临性别转换这一剧情设定时的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_一点星光剑6.docx]([皮物]_一点星光剑6.docx)
 | Size            | 20306 bytes                           |
 | MD5             | ce5ac87317409c26072fecc27ed51824                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 性别认同, 自我探索, 青春永驻, 魔法, 神器, 心理冲突, 欲望, 电流感, 身体快感, 变化, 情感波动, 古代背景, 奇幻, 变嫁, 异界, 人皮, 电击, 性别角色, 这种神器                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

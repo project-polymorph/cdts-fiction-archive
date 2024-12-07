@@ -7,7 +7,7 @@ TXT 下载: [[变装]_哺乳的人夫_4.doc]([变装]_哺乳的人夫_4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文描述了一个关于角色在经历性别转换后的心理与生理变化的故事。故事的主人公在一个家庭中生活，逐渐适应作为女性的身份，内心掀起了一系列的情感波动和自我认同的探讨。文章一开始，主人公走进张兴的家，面对新的环境和新名字‘锦儿’，感到些许的不适应。主人公回忆起过往的复杂经历，充满自我怀疑与渴望被爱的心理。随着与张兴的相处，主人公的自我认知发生了改变，从初始的男性身份到逐渐感受到自己作为女性的魅力与吸引力。故事中描绘了一些与女性身份相伴的体验，比如梦境中的怀孕、与男性的亲密互动以及对未来生活的思考。随着情节的推进，情感的纠葛与道德的挣扎交织在一起，使故事更具深度与复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_哺乳的人夫_4.doc]([变装]_哺乳的人夫_4.doc)
 | Size            | 57856 bytes                           |
 | MD5             | b844e021fcbb1e29751faafe431581ce                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 心理探索, 变身小说, 青春期, 家庭关系, 自我探索, 梦境, 男性转女性, 青涩爱情, 情感纠葛, 乡村生活, 生活转变, 二次元文化, 女性化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

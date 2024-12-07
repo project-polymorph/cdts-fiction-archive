@@ -7,7 +7,7 @@ TXT 下载: [[交换]_八幡与留美的交换场合.doc]([交换]_八幡与留�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说《八幡与留美的交换场合》的中文数字档案，主要围绕比企谷八幡与鹤见留美的身体互换进行叙述。故事中，两位角色的亲密关系逐渐加深，经历了一系列的心理与身体的探索。情节开始于两人骑车放学，留美依偎在八幡的背上，表现出了亲密无间的友情。在相处的过程中，伴随身体互换的幽默与尴尬，他们逐渐打破了彼此间的界限，开启了更加深入的关系，甚至涉及到性与情感的探讨。小说中包含了一些敏感内容，包括性行为的描写，如“鹤见留美用她那又细又白的手指缠绕着男根”，““唇彩”与“性交”等细节表达了对性关系的摸索与对彼此感情的真实诉求。整体故事具有强烈的青春气息，结合了性别认同与自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_八幡与留美的交换场合.doc]([交换]_八幡与留�
 | Size            | 39424 bytes                           |
 | MD5             | 6ba28a439db7a98d2a469b81ed831738                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | cheapmountedguy                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 男娘, 变身, 纯爱, 奇幻, 青涩爱情, 自我探索, 情感深化, 校园, 身体互换, 性认同, 青春成长, 性别角色, 内心冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

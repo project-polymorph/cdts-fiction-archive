@@ -7,7 +7,7 @@ TXT 下载: [小曦的日常小故事之幕後的心跳S01E01.doc](小曦的日�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件记录了一个名为小曦的角色在化妆间准备参加活动的细节，同时透视了她对自身形象和性别认同的思考。小曦化妆完毕，穿着制式礼服，展示出在公共场合的自信与优雅。文件中包含了小曦对自己妆容和服装的描述，例如她穿着的蓝色裙子与高跟鞋的细节，激发了她对于自我性别认同与外界期待的反思。故事中还包含了与其他角色的互动，如与新入伍的小弟弟的交流，以及与徒弟小雯的调侃。在文本史诗般的描绘下，小曦对过去事件的回忆与现实生活中的复杂情感交织在一起，让人感受到角色内心的矛盾与挣扎。在故事的后半部分，揭示了小曦对于性别认同的更深层次的思考，以及她与周围角色间微妙的关系动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [小曦的日常小故事之幕後的心跳S01E01.doc](小曦的日�
 | Size            | 57344 bytes                           |
 | MD5             | 3c039884370d4828c78c836f750f39f5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-08-01                                 |
+| Tags            | 伪娘, 变装, 性别认同, 自我探索, 舞台表演, 化妆, 内衣, 女性视角, 性别转换, 穿越, 角色扮演, 二次元, 男娘小说, 情感纠葛, 校园, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,11 @@ TXT 下载: [[附身]_都市传说　番外二.docx]([附身]_都市传说　番
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部伪娘 TS 变身和跨性别主题的小说的番外篇，讲述了主角宫泽优和新村遥在一个封闭房间中的故事。故事围绕角色之间的性别转换、欲望和奴役关系展开，展现了深刻的性别认同和自我探索的主题。宫泽优被绑住，无法自主，处于性奴隶的角色，而新村遥则被迫在宫泽优和弥之间寻求满足。
+
+在这个封闭的空间内，宫泽的双眼和嘴被封住，手脚被约束，浑身暴露无遗。与此同时，新村则在弥的命令下进行一系列的性行为，表现出对主人顺从与恐惧的心理。文本中充斥着对身体的细腻描写以及对角色心理变化的探讨，尽管情节中包含一定的色情内容，但仍然通过人物的内心斗争展示了人性深处的挣扎。
+
+资源中提到的情节包括对角色身体的改造以及身体和身份的重构，暗示着在欲望与身份认同之间的复杂关系，特别是在被转化为性奴隶的情况下，角色们内心的反应也充满了矛盾与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[附身]_都市传说　番外二.docx]([附身]_都市传说　番
 | Size            | 41709 bytes                           |
 | MD5             | b66a72bfbf735213d64668d46cdaa68e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性奴隶, 欲望, 身份认同, 性别转换, 情欲探索, 自我发现, 心理斗争, 束缚, 调教, 纯爱, 乱伦, 强奸, 多重, 异世界, 奇幻, 科幻, 恶魔                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

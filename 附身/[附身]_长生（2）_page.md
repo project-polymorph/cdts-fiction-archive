@@ -7,7 +7,7 @@ TXT 下载: [[附身]_长生（2）.docx]([附身]_长生（2）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《长生（2）》为一篇涉及性别转换和跨性别主题的现代都市小说，讲述了主角月儿的日常生活和内心感受。这部作品开头描述了冬天的北京，白雪覆盖下的城市格外美丽，主角月儿却因吵闹的闹钟而不堪其扰。月儿在与卧室内电话中的修辞互动中展示了她的性别认同冲突，她的外貌虽女性化，但内心的声音和反应却显露出男性身份。随着剧情的发展，月儿与她的伴侣雨晨之间的亲密关系和沟通也反映了对性别认同的探索与接受。文本中穿插了一些限制级内容，包括性暗示和自我感知的探索，涉及对性别与爱情之间复杂关系的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_长生（2）.docx]([附身]_长生（2）.docx)
 | Size            | 24393 bytes                           |
 | MD5             | 66ba4d779801d5a27cb7114e055f7079                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 月月雪                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 都市生活, 自我认知, 性别认同, 二次元, 伪娘, 情感关系, 角色变身, 性别探索, 现代爱情, 推理, 幽默, 冲突,  LGBT                                  |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

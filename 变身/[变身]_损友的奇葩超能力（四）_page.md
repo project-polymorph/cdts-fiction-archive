@@ -7,7 +7,7 @@ TXT 下载: [[变身]_损友的奇葩超能力（四）.docx]([变身]_损友的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为小说《损友的奇葩超能力（四）》的内容，讲述了主角与朋友林云通过手机观看一场奇特的直播，涉及到道士捉女鬼的剧情。在故事中，女子的形象描绘得极为细致，黑色长发，一身红衣，七分显露出东方美人的独特魅力。故事情节紧凑，伴随着角色的对话、法术的施展和对超能力的讨论，营造了一个奇幻却有点调侃的气氛。在一次法术斗争中，主角目睹了女子如何化为纸人逃避追捕，以及道士如何施法的细节，透露出一些诡异的性暗示和轻微的色情场景。结尾部分揭露了林云通过购买仿真娃娃所产生的更加滑稽和戏谑的情节，流露出一种对身份和性别的玩弄。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_损友的奇葩超能力（四）.docx]([变身]_损友的
 | Size            | 18365 bytes                           |
 | MD5             | 9129ef4aedff21aae36d28a5ba987fbe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 超能力, 性别转变, 道士, 奇幻, 青春, 伪娘, 幻想, 恶搞, 角色扮演, 性别认同, 奇葩故事, 关系戏剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

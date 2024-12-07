@@ -7,7 +7,7 @@ TXT 下载: [[变身]_（申码文）《七曜圣女轮回的宿命》设定补�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为“七曜圣女轮回的宿命”设定补充及润色版，作者为沉默的金雕。内容主要围绕一位勇者与七曜圣女艾琳娜之间的情感纠葛，以及勇者在与圣女艾琳娜的相遇与冒险中逐渐萌生的情愫。故事结合了奇幻与性转元素，描绘了勇者因一次与古老仪式的交错，而经历了身份的转换，从勇者变成新的圣女，体验到了全新的身体与情感。文中对角色的情感描写细腻，展现了勇者从震惊到接受、再到无法自拔的过程，情节曲折，深入探讨了性别认同与自我接受等主题。同时，本文也蕴含了一些限制级内容，涉及性行为的描写与角色间的情感冲突，适合对此类题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_（申码文）《七曜圣女轮回的宿命》设定补�
 | Size            | 54272 bytes                           |
 | MD5             | 59da5d808db2b7a8b3efc77861195110                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 沉默的金雕                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 跨性别, 奇幻, 冒险, 勇者, 爱情, 神秘, 女神, 七曜圣女, 魔法, 自我探索, 性别认同, 幻想文学, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

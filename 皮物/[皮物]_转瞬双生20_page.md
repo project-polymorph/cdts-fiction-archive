@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_转瞬双生20.docx]([皮物]_转瞬双生20.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了角色"茉莉"从美梦中苏醒，逐渐适应自己作为女性的身份。在清晨的光辉中，茉莉欣赏着自己丰盈的身体并心满意足地准备开始新的一天，同时透露出她在接受女性身份后对自己的外表的积极看法。文中描绘了一场为"豪杰"生日准备的豪华派对，描述中提及了多位角色的互动及对"茉莉"性格变化的观察。随着剧情的发展，揭示了茉莉对自己身份认同的探索，以及她在变身后与周围人际关系的微妙变化。故事中包含了对角色性格深刻的心理描述，反映出变身带来的内心冲突及社会身份的适应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_转瞬双生20.docx]([皮物]_转瞬双生20.docx)
 | Size            | 32391 bytes                           |
 | MD5             | 59619c1347c6be61821b7b6fd8080be5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 内心探索, 豪华派对, 女性视角, 人皮技术, 角色关系, 自我认知, 社会身份, 清纯美丽, 仆人关系, 蜕变, 情感纠葛, 生日派对, 性别转换, 生活琐事, 青春, 复杂人际, 记忆复制                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_李沐权第二部《李家大院》第一集灭绝师太�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为李沐权的小说《李家大院》的第一集，主要讲述了主角李沐卿的日常生活及家庭关系。故事从李沐卿回到家中后摊倒在沙发开始，透过她的视角描绘了对家庭中侄女和亲戚们的担忧与思考。文中包含了她与大堂姐的对话，描述了她们对于生活的看法及家庭教育的问题。同时，李沐卿也回忆起自己在弟弟归来的时候的种种情感与家庭琐事，展示了家庭成员之间的密切联系及对话的幽默感与温馨。故事片段涉及对母亲角色的反思，以及主人公在成长过程中面临的挑战，如对于婚姻和个人生活的思考，并透漏出一些关于自我认知和外貌的困扰。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_李沐权第二部《李家大院》第一集灭绝师太�
 | Size            | 69632 bytes                           |
 | MD5             | 07fbd5278985cb9fa0736827cf50a6d6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 李沐权                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 家庭关系, 日常生活, 回忆, 角色成长, 幽默, 亲情, 自我探索, 市实验小学, 李家大院, 小说, 伪娘, 变装, 反思, 成长, 婚姻观念, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

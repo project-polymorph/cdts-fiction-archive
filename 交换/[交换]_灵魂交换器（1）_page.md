@@ -7,7 +7,7 @@ TXT 下载: [[交换]_灵魂交换器（1）.docx]([交换]_灵魂交换器（1�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于灵魂交换的小说摘录，主要围绕两名大学生刘云飞和他的朋友唐乐在使用一台声称可以交换灵魂的机器后，经历的奇幻故事展开。故事设置在中南科技大学，描绘了主角们在一次偶然的碰撞中，灵魂互换后的趣味与困惑。主要情节包括男生唐乐借助机器交换到女生王颖的身体，引发一系列搞笑且又充满性别认同、心理冲突的场景，例如唐乐尝试利用王颖的身体，探索女生宿舍的生活。文本中探讨了性别角色的转换与自我认知的挑战，涉及了一些带有幽默与挑战性的描写，特别是在男女生身体互换后的生理与心理困扰。同时，文件中可见一些较为幼稚和幽默的对话，增加了故事的趣味性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_灵魂交换器（1）.docx]([交换]_灵魂交换器（1�
 | Size            | 24352 bytes                           |
 | MD5             | 52eda291df2c9d2b5e6f0089f63b7548                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂交换, 性别转换, 校园小说, 搞笑, 心理探索, 男生变女生, 朋友之间的挑战, 自我认知, 大学生活, 青春爱情, 冒险, 性别认同, 奇幻, 性转, 女性视角, 科技幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

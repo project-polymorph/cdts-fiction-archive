@@ -7,7 +7,7 @@ TXT 下载: [新不死姐妹花续写.doc](新不死姐妹花续写.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是对原作《新不死姐妹花》续写的文本，叙述了一段奇幻且富有情感的故事。女主角张雪瑶与姐夫陈锋通过神秘宝石的力量实现灵魂转换，由此展开了一连串与身体和灵魂认同相关的探索与冲突。故事中，陈锋在灵魂转移到另一女性身体后感受到奇异的体验，而他与张雪瑶及其他姐妹之间的关系也因这一事件而变得更加复杂并充满张力。文本通过细腻的描写深刻展现了角色们的心理变化与情感纠葛，尤其是陈锋对新身体的好奇和对张雪瑶态度的困惑，使读者感受到爱情与性别认同间的迷惑与探索。这段续写不仅传递了丰富的情感，也充满了对性别认同及家庭关系的思考。文中有一些可能偏向于色情的剧情描述，如角色之间的亲密举动及情感交融，尤其体现了变身与性别的交错概念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [新不死姐妹花续写.doc](新不死姐妹花续写.doc)
 | Size            | 87552 bytes                           |
 | MD5             | 39c8ba6b29768e1c28c31d8145886598                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 恋爱, 灵魂交换, 奇幻, 自我探索, 情感纠葛, 姐妹关系, 身体认同, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

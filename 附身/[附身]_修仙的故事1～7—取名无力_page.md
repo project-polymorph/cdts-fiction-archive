@@ -7,7 +7,7 @@ TXT 下载: [[附身]_修仙的故事1～7—取名无力.doc]([附身]_修仙�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是名为《附身：修仙的故事1～7》的小说的内容，讲述了一名年轻人重生在一个仙侠世界的故事。主人公原名铁蛋，因猝死后附身于一个乞丐少年夏天，开始在流云宗参加招收弟子的选拔。故事中， 夏天一开始对自己重生充满期待，他希望能借助主角的光环获得继承修仙之路的机会。然而现实的不如意不断挑战他的决心，尤其是在遭遇其他参选者的嘲讽与不公后。他在经过一系列考验之后，被特例招收为杂役弟子，尽管这身份低微，却为后续的故事发展埋下伏笔。文本包含丰富的角色对话和对修仙世界设定的详细描写，反映了主人公在异世界中的心路历程与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_修仙的故事1～7—取名无力.doc]([附身]_修仙�
 | Size            | 68096 bytes                           |
 | MD5             | c2147203f41afb3fe639a173affa9abf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 修仙, 重生, 附身, 仙侠, 杂役弟子, 灵根选拔, 青春成长, 主角光环, 奇幻冒险, 自我认知, 人生奋斗, 角色扮演, 变身, 二次元, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_游泳衣前传4_-_素依（下）.doc]([附身]_游泳衣
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于角色素依（下）的游泳衣前传的小说内容，其中描绘了一个生理性别为男性的角色通过变身成为女性的过程。故事讲述了角色在目睹同伴嘉盈更换衣物后，产生了强烈的性幻想与性别认同的激情体验。素依在欣赏自己新女性身份的美丽体形时，沉浸于身体快感之中，这段经历涉及了角色自我探索和性别转换主题。文本中提及角色对嘉盈的情感，这种复杂而深切的情感使得她在性转之后依旧保留着对嘉盈的恋慕，尽管嘉盈已有所属。文本最后提到素依对自己身份的接受和对未来的期待，面临着角色与她父亲胡博士的关系及实验项目的参与，设置了情节的悬念和发展的背景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_游泳衣前传4_-_素依（下）.doc]([附身]_游泳衣
 | Size            | 37376 bytes                           |
 | MD5             | ce9a788d93e87034c2eff5856efc61d1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 变身小说, 自我探索, 青春成长, 情感纠葛, 性幻想, 伪娘, 校园, 变装, 内衣, 爱情, 实验, 家庭关系, 女性身份, 情感]}]}, additionalTagsBeyondListExamples':['自我接纳','身体认同','成长故事','兄妹情感','性别流动']}}  .  ]}  .  .                                   |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

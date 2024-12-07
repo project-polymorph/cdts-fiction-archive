@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_14.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件来自‘改造’系列，标题为《把男朋友养成亲闺女》第十四章，作者为Nicegent42，翻译者为Lisa。内容主要围绕角色贝丽在购物过程中受到的心理和情感上的挑战展开。故事描绘了贝丽在一个女性友人的鼓励下尝试穿比基尼，反映出她对自我认同和性别认同的挣扎。剧中涉及的角色与情节包含贝丽想要得到女性朋友的认可，但又面临自我形象的焦虑与社会期望的冲突。贝丽在更衣室中对比基尼的选择感到为难，并与同伴坎蒂和梅根之间存在复杂的互动，贝丽感到羞耻与内心的煎熬，同时也逐渐向想要成为真正女孩的目标靠近。整体故事中不乏性别转变、身份探索与自我接纳的重要主题，并且穿插了情感和性别的层次考量。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_14.doc]([改造]_把男朋友�
 | Size            | 34816 bytes                           |
 | MD5             | 22267b407c1bcc335a5d15d1acc58c02                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2022-05-18                                 |
+| Tags            | 性别认同, 自我探索, 变身小说, 比基尼, 伪娘, 青少年心理, 友情, 购物, 心理冲突, 女性主义, 青春期, 成长, 情感互动, 性别表达, 身份认同, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

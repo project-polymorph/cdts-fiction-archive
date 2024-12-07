@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【Galgame翻译1】ちぇ～んじ！_～あの娘にな�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为Galgame《ちぇ～んじ！～あの娘になってクンクンペロペロ》中文翻译稿，内容围绕一个孤独少年天坂悠介的妄想展开，他渴望能与自己喜欢的女孩子交换身体，以便享受胸部的触摸与窥探隐私。文件描述了游戏的背景设定、角色介绍以及主要剧情。故事中的悠介因下载了一款名为“Connect”的APP，意外获得了与拥有该APP的女生交换身体的能力。他利用这一能力进行了一系列恶作剧，伴随着对自我认知的探索与性别角色的反思。文中不仅涉及角色的外貌与性格，还以细腻的笔触描绘了角色的内心世界与情感纠葛，包括悠介与他身边角色的关系，这些角色各有特点和情感需求，构成了丰富的人物关系网。整体上，文中充满了一种年轻人的幻想与对身体的探究，带有一定的色情暗示，也展示了当代青年的自我认同挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【Galgame翻译1】ちぇ～んじ！_～あの娘にな�
 | Size            | 208405 bytes                           |
 | MD5             | e4bfb4ec9307417ae497df9fc8342704                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | Galgame, 性转, 伪娘, 跨性别, 身体交换, 青春爱情, 独立女性, 二次元, 幻想, 恋爱游戏, 自我探索, 性别认同, 肢体接触, 恶作剧, 校园, 美少女, 性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

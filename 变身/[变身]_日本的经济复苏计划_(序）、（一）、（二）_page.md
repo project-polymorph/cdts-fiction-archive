@@ -7,7 +7,7 @@ TXT 下载: [[变身]_日本的经济复苏计划_(序）、（一）、（二�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为关于日本经济复苏计划的虚构小说，设定在1989年日本经济泡沫崩溃后，描述了国家如何通过特殊的生物研究计划来对抗经济衰退，并尝试通过‘蜕变计划’来拯救因长期宅居而失去社会联系的年轻人乔治的故事。在故事中，主人公宫本晋一因失去好友而陷入宅生活，直到政府介入，提出一项声称能改善其状况的医疗计划。这项计划不仅涉及身体上的改变，还有对心理的干预。故事通过具象化的经济和社会问题,探讨了性别认同、个人焦虑及社会重返的主题，展现了一个充满反思与幻想的世界。内容中涉及部分成人向情节，尤其是晋一对AV女优的幻想，展现了他对亲密关系的渴望和对现实的逃避。后续描绘了晋一接受治疗的经过，揭示了治疗背后的深层意图与身体改造的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_日本的经济复苏计划_(序）、（一）、（二�
 | Size            | 40448 bytes                           |
 | MD5             | 3091fb3854f5b1ea3ae8336a9e1f3a34                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 经济复苏, 蜕变计划, 性别认同, 自我探索, 宅文化, 心理治疗, 两性关系, 虚构小说, 社会问题, AV文化, 青少年心理, 生理改造, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

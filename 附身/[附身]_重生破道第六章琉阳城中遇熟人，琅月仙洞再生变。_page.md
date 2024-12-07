@@ -7,7 +7,7 @@ TXT 下载: [[附身]_重生破道第六章琉阳城中遇熟人，琅月仙洞�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为文件名为《重生破道》第六章，内容主要围绕琉阳城中修道门派与王朝士兵间的冲突展开。故事中，琉阳城因仙迹的出现人潮涌动，王朝军队严密把守周边城门，防止敌人潜入。而随着主角叶珊的到来，她与一众星云门弟子在醉仙楼驻扎，密切监视仙迹周围的动向。叶珊在发现一群修道人与王朝士兵激烈冲突后，决定出面制止，同时对另一个修道门派【驭兽观】的年轻男子产生了浓厚的兴趣。故事情节包含王朝士兵与妖族间的血腥冲突，妖艳的女子与修道人的角力，以及对修道自我身份的探索。文中形象描绘了叶珊的内心冲突与对未知力量的追求，同时也突显了修道界的复杂与险恶。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_重生破道第六章琉阳城中遇熟人，琅月仙洞�
 | Size            | 29198 bytes                           |
 | MD5             | 34c69b0815e31fd322131ced5c720e38                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 重生, 修道, 仙迹, 冲突, 妖艳女性, 叶珊, 星云门, 王朝士兵, 驭兽观, 冒险, 自我探索, 性别转换, 角色扮演, 虚构世界, 魔法, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

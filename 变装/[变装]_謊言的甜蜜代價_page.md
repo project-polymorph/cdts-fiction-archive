@@ -7,7 +7,7 @@ TXT 下载: [[变装]_謊言的甜蜜代價.docx]([变装]_謊言的甜蜜代價
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《谎言的甜蜜代价》的一部分，讲述了名为叶黑子的女生与同班一种叫梅的男生之间的复杂互动。故事开头，黑子与同学在课间交流，随后梅向黑子告白，但被黑子拒绝。在黑子拒绝之后，她临时编造了一个秘密，声称自己更喜欢可爱的女生，这让梅更加困惑。接下来的情节围绕着黑子和“跟踪狂”小梅之间的误会展开。随后，小梅转变为女装出现，继续追求黑子，黑子对此感到无奈但也对梅的变化产生了兴趣。整个小说探讨了性别认同、自我接受及情感探索的主题，带有一定的幽默元素，同时涉及校园恋爱与性别表达的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_謊言的甜蜜代價.docx]([变装]_謊言的甜蜜代價
 | Size            | 24452 bytes                           |
 | MD5             | f4df8307ffb2d65c1a2b1a67687014c2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 性别认同, 恋爱, 幽默, 自我探索, 伪娘, 变装, 情感冲突, 青春, 友情, 强烈拒绝, 暗恋, 跟踪狂, 可爱, 大二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

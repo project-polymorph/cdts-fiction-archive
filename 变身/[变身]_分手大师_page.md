@@ -7,7 +7,7 @@ TXT 下载: [[变身]_分手大师.docx]([变身]_分手大师.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《分手大师》是一个结合了现代都市与奇幻元素的小说，故事围绕着名为‘分手大师’的角色展开，他可以利用各种手段和权谋解决情侣之间的感情问题。在这个故事中，角色 माध्यम 就扮演了一位狐妖，和他一起展开了一场围绕催眠术、身份变换和情感操控的冒险。他们的任务是让某一对情侣分手，其中涉及到女性角色林雨薇的潇洒与聪明的特质，以及她在危险中的应对能力。故事中不仅包含变身与性别认同的主题，还有对爱情和信任的深刻探讨，例如分手大师与林雨薇之间的默契，而后者在变身后的钦佩与心动情感也是情节的重要部分。整个故事充满了转折与戏剧性，展现了复杂的人际关系及情感的多面性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_分手大师.docx]([变身]_分手大师.docx)
 | Size            | 26074 bytes                           |
 | MD5             | 2415f3612c516b8459c2b1fdad56ee6e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 异性恋, 变身, 奇幻, 现代都市, 动物拟人化, 浪漫, 情感操控, 狐妖, 秘密任务, 催眠术, 权谋, 角色扮演, 身份认同, 冒险, 搞笑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

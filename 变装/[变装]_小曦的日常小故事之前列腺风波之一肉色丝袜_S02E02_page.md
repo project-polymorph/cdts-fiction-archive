@@ -7,7 +7,7 @@ TXT 下载: [[变装]_小曦的日常小故事之前列腺风波之一肉色丝�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘与跨性别相关的小说，描绘了主角小曦在经历性别认同和体验中所遇到的各种问题和情感冲突。故事开头，小曦在洗澡时流露出对体态变化与假阴的无奈，反映出其在日常生活中对自己性别角色的疑惑和挣扎。随着情节的发展，小曦的心态在女性装扮的过程中逐渐变得自信而大胆，她试图用女装掩饰生理上的男性特征，同时渴望被社会接纳。小说中包括了性别角色的幻化、前列腺炎的窘境，以及与领导的互动等情节，描绘了小曦在性别认同与生理现实之间的挣扎与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_小曦的日常小故事之前列腺风波之一肉色丝�
 | Size            | 46592 bytes                           |
 | MD5             | b9af3df4f2f4e5f48a53731c43ee16c6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别认同, 变装, 跨性别, 前列腺炎, 性转, 幻想, 自我探索, 社会接受, 情感冲突, 青春期困惑, 变嫁, 游戏, 都市, 夜店生活, 性幻想, 医疗情节, 女性身体, 个人成长, 男性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

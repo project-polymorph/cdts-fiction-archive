@@ -7,7 +7,7 @@ TXT 下载: [[变装]_船难_2_–_获救.docx]([变装]_船难_2_–_获救.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘TS变身主题的小说《船难2 – 获救》，主要讲述主人公佩妮（原名彼得·戴蒙德）与亨利在一个荒岛上生活的故事。在与亨利的关系中，佩妮逐渐意识到自己被给予女性荷尔蒙，并在岛上的生活中开始接受自己的性别认同。当他们终于获救时，佩妮感受到来自社会与自我认同的双重压力。救援时，亨利坦白了他自始至终对佩妮施用激素的事实，让佩妮陷入自我怀疑和身份认同的混乱。故事深入探讨了性别认同、自我探索与心理冲突，带有强烈的情感冲突，展现了伪娘角色在面对社会评判与个人内心挣扎时的复杂情感。特别是在身体检查中，佩妮的羞耻与不安展现了她的挣扎与转变过程，包含了对身体的重新认识与接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_船难_2_–_获救.docx]([变装]_船难_2_–_获救.doc
 | Size            | 53686 bytes                           |
 | MD5             | f6eaf86380cdcea216bc97f220ec507f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别认同, 自我探索, 心理冲突, 荷尔蒙, 救援, 爱情, 转变, 船难, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

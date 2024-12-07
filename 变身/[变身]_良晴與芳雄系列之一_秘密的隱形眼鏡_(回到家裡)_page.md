@@ -7,7 +7,7 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_秘密的隱形眼鏡_(回到�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转换的小说，讲述了一个名为良晴的高中二年级生的故事。故事的开头，良晴从其朋友芳雄那里获得了一种特殊的隐形眼镜，该隐形眼镜允许他复制他所看到的人的身体。良晴在通过隐形眼镜复制了一名美丽大姐姐的身体后，产生了强烈的好奇心和冲动。他在回到家后，逐渐探索这种新身体带来的触感，沉浸在女身体所带来的愉悦中。随之而来的则是对身体的观察和自我认知的冲突，比如他对女性身体特征的细致体验，和他对性别身份的迷惑与探索。整个故事在不安与期待之间展开，揭示了角色在性别转换过程中所经历的内心挣扎和自我认同的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_秘密的隱形眼鏡_(回到�
 | Size            | 36197 bytes                           |
 | MD5             | 92f4ebc1fba57155902f039c7378018f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 青春校园, 自我认同, 身体探索, 心理冲突, 隐形眼镜, 美少女, 女性体验, 性别认同, 青春幻想, 科幻元素, 恶作剧, 隐私侵犯, 窥探欲望, 自我发现, 幻想文学, 虚拟现实, 青春, 探索欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

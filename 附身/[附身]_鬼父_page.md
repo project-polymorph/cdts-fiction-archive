@@ -7,7 +7,7 @@ TXT 下载: [[附身]_鬼父.docx]([附身]_鬼父.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档标题为《鬼父》，讲述了一个名叫浅田纱奈的少女的故事。纱奈在16岁时经历了母亲的去世，父亲是一名酗酒者，家庭关系冷淡，纱奈对父亲充满了困惑和愤怒。母亲在世时，是家庭的支柱，而父亲则几乎不参与家庭生活。故事通过纱奈的视角，描绘了她在失去母亲后的孤独和挣扎，以及她在生活中所感受到的种种痛苦。同时，纱奈开始出现健康问题，感到头痛和记忆空白，暗示着潜在的遗传疾病。随着故事的发展，纱奈在某个时刻失去意识后，重新站起，她的行为与心理状态变得越来越复杂，显示出她内心的挣扎和潜在的变化。文中包含一些成年主题和相对敏感的内容，如亲密关系的困惑和性的觉醒。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_鬼父.docx]([附身]_鬼父.docx)
 | Size            | 30569 bytes                           |
 | MD5             | 0077145acd4fc731604fd10464261607                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 鬼父, 变身, 性别认同, 家庭关系, 青春期, 自我探索, 强烈情感, 健康问题, 孤独感, 暗黑故事, 心理挣扎, 性觉醒, 父女关系, 成年内容, 虚构故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

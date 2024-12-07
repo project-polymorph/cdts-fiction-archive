@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我和郑坎的故事（一）.docx]([变身]_我和郑坎
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章《我要和郑坎的故事（一）》讲述了一位男主陈明在暑假期间的无聊生活，偶然接到好友郑坎的邀请，前往他家中。在这个过程中，陈明发现郑坎拥有一种神奇的变身能力，能够从男性变为其姐姐的模样。文章的情节引入了大量成人向的元素，肆无忌惮地探讨了性别认同、欲望和禁忌关系等主题。随着故事的发展，郑坎以女性形象展现出对陈明的吸引力，二人的互动充满了性暗示和挑逗，最终发展成了一段亲密关系。故事通过这样的设定，描绘了角色心理上的冲突与挣扎，以及对自我认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_我和郑坎的故事（一）.docx]([变身]_我和郑坎
 | Size            | 22056 bytes                           |
 | MD5             | ef647ff3fa32413c193a7d204e24b942                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 性转, 强奸, 年龄差, 自我探索, 调教, 梦境, 奇幻, 禁忌, 同性恋, 角色扮演, 成人内容, 二次元, 二次创作                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

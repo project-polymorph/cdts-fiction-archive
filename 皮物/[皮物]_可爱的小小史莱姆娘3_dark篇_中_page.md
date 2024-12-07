@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_可爱的小小史莱姆娘3_dark篇_中.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一篇关于伪娘与变身题材的小说作品，讲述了一名角色在神秘的环境中与名为明日香的小小史莱姆娘之间发生的情感故事。故事开始于角色醒来时看到简单的屋顶，旁边是与自己一同经历一夜的少女。随着情节的发展，角色发现自己与明日香之间的深厚联系，以及他们之间奇特的饮食关系和情感互动，文中多次提到“吃掉”与“消化”的隐喻，探索了两个角色在生理与情感上的交汇点。此外，作品还涉及了一些探索性别认同和身份认同的主题，值得注意的是，小说的语言风格隐含了一些成人内容的特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_可爱的小小史莱姆娘3_dark篇_中.docx]([皮物]_�
 | Size            | 37506 bytes                           |
 | MD5             | 66ed19817551b4f22dd0fb33338f24ee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 十月豆三                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 二次元, 强烈情感, 性别探索, 魔物, 奇幻冒险, 甜蜜互动, 角色发展, 自我认知, 奇幻, 性转, 幼女, 透明                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

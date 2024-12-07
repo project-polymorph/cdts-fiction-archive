@@ -7,7 +7,7 @@ TXT 下载: [[变装]_柔弱大学生的雌堕_番外_伪百合篇.doc]([变装]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘变身相关小说的番外部分，标题为《柔弱大学生的雌堕 番外 伪百合篇》。故事围绕一名大学生'小雨'（其实是男生）在校园中与同班同学阿月之间的发展展开。小雨在课堂无聊时走到阳台吹风，意外遇到阿月，经过一番纠缠，阿月发现了小雨的真实身份，然而小雨已经假扮成男生的模样。小说中，两位年轻女子的关系逐渐亲密发展，阿月表现出了对小雨女儿身份的支持，甚至开始亲密接触，探索彼此的身体。故事中涉及性别认同和自我探索的内容，详细描写了在校园环境中，女性角色之间的互动与情感。在情节深入时，两人对彼此的感情和存在性的探讨交织在一起，表达出对性别和自我认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_柔弱大学生的雌堕_番外_伪百合篇.doc]([变装]
 | Size            | 38912 bytes                           |
 | MD5             | 5a603fc0a1bf029d59fc559cc708c9ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 变装, 跨性别, 百合, 身体探索, 性别认同, 情感纠葛, 大学生活, 校园爱情, 强烈性暗示, 性别转换, 自我探索, 亲密接触, 女性视角, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

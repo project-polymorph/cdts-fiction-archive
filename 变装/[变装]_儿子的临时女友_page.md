@@ -7,7 +7,7 @@ TXT 下载: [[变装]_儿子的临时女友.doc]([变装]_儿子的临时女友.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《儿子的临时女友》讲述了一个复杂而充满戏剧性的故事，围绕着主人公安倍展开。安倍是一位普通的日本父亲，妻子多年前离家后，他独自抚养儿子小泉。为了给小泉提供更好的教育，他借高利贷将其送到私立学校，然而意外失业，让他陷入了困境。在一次偶然的情况下，安倍结识了夜场女郎朋美，并在朋美的提议下，开始以女装身份夜场工作。不幸的是，小泉因交友圈的缘故， unknowingly 都将安倍的女装身份秘密，而随着故事的发展，父子之间的关系变得更加复杂。安倍的女装身份使得小泉逐渐对他产生了情感，而鸠山则威逼安倍与他发生关系，以黑mail 作为小泉的毕业承诺。故事探讨了身份、家庭、爱与欲望的交融，表现了角色自我认同的挣扎与转变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_儿子的临时女友.doc]([变装]_儿子的临时女友.
 | Size            | 159232 bytes                           |
 | MD5             | eeb7b20eab382a7e7438b8778b0708a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 夜场, 父子关系, 自我认同, 情感纠葛, 强奸, 女装, 春药, 乱性, 跨性别, 日本社会, 青春, 爱情, 同性恋, 风尘女子, 经济压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

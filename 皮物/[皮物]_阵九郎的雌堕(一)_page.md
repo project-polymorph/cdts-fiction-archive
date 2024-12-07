@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_阵九郎的雌堕(一).doc]([皮物]_阵九郎的雌堕(�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了以性别转换为主题的伪娘 TS 变身小说的情节，主要描写了角色柳生雪之丞如何借助黑光太刀和秘术「皮斩」完成对另一角色绀菊的灵魂控制换身的过程。故事开篇，柳生雪之丞寻求力量，相信黑光太刀的获得将使其剑术更进一步，并表现出对手中力量的兴奋。随着情节的发展，雪之丞通过一位和尚的帮助成功召唤绀菊的灵魂，并经过一系列仪式和对话后实施了他的秘术。整个变身过程充满了性别的转换与身体感受的细致描绘，尤其是在雪之丞经历了身体和自我认知的剧烈变化后，展示了与身体结合后所获得的新感受。文中包含了对于肉体快感的详细描写，以及雪之丞在变身过程中对于肉体变化的享受，突显了性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_阵九郎的雌堕(一).doc]([皮物]_阵九郎的雌堕(�
 | Size            | 35328 bytes                           |
 | MD5             | 9c2f415482cfa956c2e1ba6adbd5bee9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别转换, 变身, 灵魂交换, 强烈快感, 异世界, 秘术, 角色塑造, 身体变化, 自我认同, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

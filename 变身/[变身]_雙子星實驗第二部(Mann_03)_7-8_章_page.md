@@ -7,7 +7,7 @@ TXT 下载: [[变身]_雙子星實驗第二部(Mann_03)_7-8_章.doc]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容属于伪娘与变身小说的范畴，描写了主角在性别转换后探索新身体的感受及其心理变化。在第七章中，主角发现自己转变为了女性后，在高度敏感的状态下与另一角色小王发生了一系列亲密互动。这段文字详细描述了主角与小王之间的肢体接触和性幻想，探索了女性身体的感受与自我认知的复杂性。表现了对于性别认同的冲突，以及身体变化带来的兴奋和不安情绪。同时，内容也带有一定的色情成分，涉及性行为的暗示和描述。第八章继续深入描绘了小王与主角在浴缸中的亲密行为，展现了从身体触碰到情感交织的过程，细腻地刻画了两人之间的互动所激起的各种感受与反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_雙子星實驗第二部(Mann_03)_7-8_章.doc]([变身]_�
 | Size            | 41984 bytes                           |
 | MD5             | 8d6567b6775ad76cb948eba4fab82947                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 伪娘, 性别认同, 身体探索, 性幻想, 亲密互动, 强烈敏感, 自我认知, 心理变化, 成人内容, 情感交织, 浴缸场景, 性别转换, 性行为描写, 角色互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

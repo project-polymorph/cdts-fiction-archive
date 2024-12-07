@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮癮戲_16.docx]([皮物]_皮癮戲_16.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《皮癮戲》第16章，主要讲述了角色蓝蕾娜与其哥哥闕仲達之间的对话与互动。章节初始描述蓝蕾娜的紧张与不安，她因为某些事情而感到怀疑和不知所措。闕仲達作为关心的哥哥，试图安抚蓝蕾娜，关心她的健康，展现出对她的温柔和保护。蓝蕾娜内心的矛盾和对待哥哥情感的感觉，逐渐展现出人物间复杂的关系。在后半部分，章节转向蓝蕾娜的私密感受，描述了她在女厕内的隐秘行为，展现了她在身体与意识间的挣扎与探索，展现了色情内容。由于涉及到性别认同的主题，并夹杂着强烈的情感与性欲望的探索，强调了角色的内心变化以及复杂的人际关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮癮戲_16.docx]([皮物]_皮癮戲_16.docx)
 | Size            | 46718 bytes                           |
 | MD5             | 9354877df6b9129c69028082b22d2869                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Fdisguise8                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 强奸, 蓝蕾娜, 闕仲達, 情感, 自我探索, 性别认同, 深夜对话, 女厕, 色情, 紧身衣, 兄妹关系, 情感纠葛, 内心挣扎, 私密行为, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

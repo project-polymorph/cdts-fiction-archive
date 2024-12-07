@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_诛仙6-10.doc]([皮物]_诛仙6-10.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描写了一个名叫邹毓杰的男性角色在奇幻的环境中，经历了一系列恐怖而扭曲的事件。故事开始时，邹毓杰在一个被捆绑的状态下苏醒，四周的景象让他感到恐惧，他与阿阮一起被困在一个阴暗的房间里。随着情节发展，邹毓杰发现自己面临着一个拥有狠毒心肠的红裙女子的威胁，她对他和阿阮的威胁缓缓展开。红裙女子通过操控和虐待瓮中人的惨状，表达了她的残忍和对权力的渴望。
+
+在紧张的情节中，红裙女子以美丽的外表掩盖着她的内心狠毒，邹毓杰为保护阿阮而陷入绝望，与红裙女子的对抗让他不得不寻找生存的希望。在故事的高潮部分，邹毓杰利用了一把被赋予特殊能力的邪刃，不仅摆脱了束缚，还揭示了与红裙女子之间的冲突和复杂的关系。最终，在一系列诡异的变身和斗争中，邹毓杰通过借用别人的身份来谋求生存。这部小说融入了跨性别、权力斗争和人性的探索，不同的情感交织在一起。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_诛仙6-10.doc]([皮物]_诛仙6-10.doc)
 | Size            | 44032 bytes                           |
 | MD5             | e4834a8022935993578b42d040ef858a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 权力斗争, 人彘, 红裙, 奇幻, 邪刃, 自我认知, 困境, 残忍, 虐待, 身份交换, 自我探索, 绝望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

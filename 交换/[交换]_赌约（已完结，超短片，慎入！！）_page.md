@@ -7,7 +7,11 @@ TXT 下载: [[交换]_赌约（已完结，超短片，慎入！！）.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《赌约》，是一篇涉及商业竞争和冲突的短篇小说。故事围绕几个商业大佬在地下密室中的争论与赌约。主要角色包括唐国栋和乌久元等贵族商人，他们在一个商业计划中相互较劲，谋求对阆苑社区地皮的开发权。
+
+故事开头描绘了地下密室内的奢华环境和紧张的气氛，商人们在巨大的LED显示屏前争论不休。唐国栋对乌久元的不满逐渐升级，甚至因其言辞激烈而摔掉酒杯，表现出他内心的愤怒与焦虑。随后的对话中，参与者们互相试探底线，试图通过打赌的方式解决各自的利益冲突，直至引出场景中的一些年轻女子，暗示性欲与权利之间的复杂关系。
+
+文件整体情节紧凑，语言上较为隐晦，但通过角色的对话与心理描写，反映出商界的 ruthlessness 以及人与人之间的微妙关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[交换]_赌约（已完结，超短片，慎入！！）.docx]([�
 | Size            | 77317 bytes                           |
 | MD5             | a737bc55e0073de589719f719764f54d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 商业竞争, 赌约, 地下交易, 性别角色, 权力关系, 性暗示, 矛盾冲突, 激情交易, 商业阴谋, 都市题材, 男性视角, 多元性别, 变性, 角色扮演, 女性魅力, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

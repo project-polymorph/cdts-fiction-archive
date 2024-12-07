@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔霧之森(中).docx]([皮物]_魔霧之森(中).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《魔霧之森(中)》的内容摘录，小说中描绘了角色之间的紧张关系以及复杂的情感变化。故事发生在罗斯特森林，主角索菲亚队长身处险境，被魔物袭击并受伤，然而她必须面对自己与队友之间的关系，尤其是与可爱少女尤娜的复杂互动。文件详细描述了索菲亚与尤娜的对话，揭示了索菲亚的勇气与脆弱，以及她们对战斗和生存的不同看法。魔物的威胁与对角色身份的考验共同构成了故事的核心，而变身、附身等元素则为叙述增添了层次。全篇充满了紧张感和 suspense，以及对角色内心深处的探讨，让人对后续发展充满期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔霧之森(中).docx]([皮物]_魔霧之森(中).docx)
 | Size            | 41114 bytes                           |
 | MD5             | 8c6e87ca62670f6341c861839959d3b5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | kk9700                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 英雄, 冒险, 生存, 战斗, 变身, 交错情感, 魔物, 队友情, 心理斗争, 女性角色, 二次元, 奇幻, 探索自我, 悬疑, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_短篇变装小说——第一次看到爸爸.doc]([变装
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇以角色对话为主的短篇变装小说，讲述了主人公在与父亲见面时的复杂心理和情感体验。故事通过隐秘的摄像机捕捉到了一场涉及性别转变与强烈父子关系的情节。内容中包含了一些关于主角对其性别认同的探索，以及与父亲的支配与被支配的关系。小说开头提到主人公内心的激动情绪，渴望能与线上训练的父亲面对面交流，却未能捕捉到画面，仅能听到他们的对话。作品中穿插着对穿着、角色扮演以及性关系的描绘，包含父子之间的调教和屈从的互动。文本不仅探讨了性别、权力与欲望的主题，同时运用了大量的暗示和挑战传统性别角色的方式来呈现主人公的内心世界。整篇作品通过细腻的情感变化，对父子之间的关系进行了深刻而复杂的描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_短篇变装小说——第一次看到爸爸.doc]([变装
 | Size            | 34304 bytes                           |
 | MD5             | bfcbadb62f0b38ef6d7d0a8fb3489d38                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Meganprincess                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 父子关系, 性别认同, 调教, 角色扮演, 强势父亲, 心理探索, 欺凌与屈从, 性别转换, 情色, 女性化, 超现实主义, 父权制, 自我发现, 欲望与满足, 恋物癖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

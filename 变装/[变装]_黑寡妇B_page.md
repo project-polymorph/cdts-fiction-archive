@@ -7,7 +7,7 @@ TXT 下载: [[变装]_黑寡妇B.doc]([变装]_黑寡妇B.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于性别转换及伪娘文化的小说片段，讲述了男主角丹尼尔在伪装成女性金伯利的过程中经历的心理变化和物理变化。故事开始于丹尼尔在书房练习走猫步的情景，描述了他对成为女性形象的努力和所需付出的心力。随着情节的发展，丹尼尔完成了变妆，他感受到一种全新身份的自由，计划利用这一身份进行某种社会上的机会。他与戴维斯的互动充满暧昧，故事中透露出丹尼尔的内心斗争和对新身份的接受。该作品深入探讨了性别认同、自我价值和欲望之间的复杂关系，特别是在性别转换这一主题下所带来的冲突与机遇。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_黑寡妇B.doc]([变装]_黑寡妇B.doc)
 | Size            | 35328 bytes                           |
 | MD5             | 320e99872aef050336fc19a5bb33c773                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性别转换, 自我认同, 情感纠葛, 激情约会, 豪华游艇, 心理变化, 身份危机, 二次元文化, 爱与欲望, 都市幻想, 独立身份, 女性视角, 性别探索, 跨性别小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

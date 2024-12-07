@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】测试项目：异常变化.docx]([变性]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇名为《测试项目：异常变化》的小说，讲述了主人公克莱顿·彼德森经历的一系列奇异变化。克莱顿由于失业而感到绝望，最终选择成为药物测试的志愿者。文件详细描绘了他在参与临床测试期间的心理状态和身体变化。故事包含了生理性别转变的种种情节，如克莱顿脱发、体毛消失以及生理结构的变化，并探讨了他在面对这种变化时的自我否认与接纳。整个过程夹杂着对自身身份和性别认同的深刻思考。文件也涉及临床试验的伦理问题，以及克莱顿为获得报酬而忍耐痛苦的心态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】测试项目：异常变化.docx]([变性]_【
 | Size            | 32436 bytes                           |
 | MD5             | 2fa17a7b722b8716c022a2f2f4f8c057                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Guy Faux                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 药物测试, 自我探索, 绝望, 心理变化, 身体变化, 临床试验, 生理变化, 性别认同, 无意识影响, 男性主角, 实验伦理, 药物影响, 变化过程                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_寄生兽●副篇.docx]([变身]_寄生兽●副篇.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《寄生兽·副篇》属于伪娘TS变身与跨性别类小说，讲述了一个涉及寄生、变身和性别转换的故事。故事的主角经由一只外星生物寄生而获得了性别和外形的变化能力，角色经历了自我认知的冲突与变迁。文中包含了一些限制级内容，通过生动的描写展现了主角作为女性的肉体带来的快感与心理变化。文中的主角在各种情况下都表现出明显的性欲，剧情加入了许多与性有关的情节，包括对其他男性和女性的性吸引与捕猎的描写。整篇小说充满了性幻想与肆意的欲望，探讨了性别认同、自我探索，以及通过身体的变换与他人关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_寄生兽●副篇.docx]([变身]_寄生兽●副篇.docx)
 | Size            | 34037 bytes                           |
 | MD5             | d1edc2308799c78742001410457053ef                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 寄生兽, 变身, 性别转换, 跨性别, 恐怖, 色情, 科幻, 自我探索, 强烈欲望, 都市幻想, 性幻想, NTR, 变嫁, 女体化, 调教                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

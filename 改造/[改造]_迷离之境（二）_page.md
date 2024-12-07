@@ -7,7 +7,7 @@ TXT 下载: [[改造]_迷离之境（二）.doc]([改造]_迷离之境（二）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《迷离之境（二）》，是一部关于伪娘和变身主题的小说，内容围绕一名服务行业女佣的经历展开。在文中，角色经历了一种神秘的转变，感受到身体与心理上的变化，特别是与性别认同和内心冲突相关的主题。故事从角色对新奇事物的恐惧开始，逐渐转向她对身体变化的接受与享受，她在日常生活中与来访客人的互动包含了许多情感和心理的纠结，探索了性别与情感的复杂关系。文中还提及了她的饱含情欲的职业生涯，将角色对客人的服侍与自身身份变化结合，展现出在这一过程中她的内心挣扎与成长。随着情节的发展，角色与一位显现阳痿问题的男性顾客的交汇，揭示了其情感创伤和对女性的心理抵触，增加了故事的深度。最终，角色藉由一种象征性的糖丸，试图建立与顾客之间的情感联系，反映了她对理解与被理解的渴求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_迷离之境（二）.doc]([改造]_迷离之境（二）.
 | Size            | 47616 bytes                           |
 | MD5             | b071eae0913aae7b5e7d7a77b3ee2b15                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 情感探索, 职业生涯, 性别认同, 心理创伤, 内心挣扎, 自我发现, 甜蜜与苦涩, 复杂人际关系, 情欲与服务, 身份认同, 悲剧与救赎, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_竖子尔敢！.doc]([附身]_竖子尔敢！.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+在这个富有幻想色彩的故事中，主角陆子涵在一个阳光明媚的周六偶然捡到一个黑色的小方块，这个看似普通的玩具却具有强大的力量。它能够让使用者进行身体转换，陆子涵在好奇心的驱使下，选择将自己变成母亲许珊珊。在经历了一番不可思议的变身过程后，陆子涵以许珊珊的身份感受到前所未有的身体体验，包括对女性身体的探索和性别认同的混乱。故事中涉及到许多性别转换和性别认同的主题，包括年轻孩童对成人世界的好奇和对身体的探索，情节从轻松幽默发展到稍显露骨的生理认知和性体验，让人深思。而与此同时，陆子涵的母亲毫无察觉，继续生活着她的日常，形成了鲜明的对比。文件内容丰富，情节紧凑，带有浓厚的二次元色彩，是伪娘TS变身类型小说的典型范例。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_竖子尔敢！.doc]([附身]_竖子尔敢！.doc)
 | Size            | 48640 bytes                           |
 | MD5             | f024866d023f6629f364bbf4718ddd28                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 伪娘, 科幻, 探索, 身体认知, 女性视角, 跨性别, 好奇心, 少年成长, 家庭关系, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

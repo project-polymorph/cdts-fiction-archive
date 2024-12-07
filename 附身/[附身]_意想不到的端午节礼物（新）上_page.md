@@ -7,7 +7,7 @@ TXT 下载: [[附身]_意想不到的端午节礼物（新）上.docx]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以性转与跨性别主题为主的小说，主要讲述了一位16岁少女与她的母亲之间发生的复杂且禁忌的关系。故事开头，少女在回家后欣喜地享用母亲为她准备的粽子，然而在享用过程中，却遭遇了肚子痛的不适，进而引发了一系列意想不到的情节，包括身份认知的混淆。随着情节的发展，母亲以黄美夕的身份向少年揭示了她的真实意图，采用了挑逗的手法，将母子之间的界限模糊化，并展开了具有高度色情内容的互动。整部作品通过角色的自我探索与性别认同，引发了对家庭关系与个人欲望的深刻探讨。诸如“你还是处男吧，姐姐虽然以前也和人做过爱，但那都感觉都不真实，所以姐姐也和你一样，想尝尝女人的滋味，”等字句展现了小说中浓厚的禁忌与诱惑气氛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_意想不到的端午节礼物（新）上.docx]([附身]_
 | Size            | 18965 bytes                           |
 | MD5             | 97d756ef2587cb4cd9d1a41509368bba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 禁忌, 母子关系, 自我认同, 变性, 伪娘, 情感纠葛, 欲望, 诱惑, 性探索, 父母与子女, 能力转变, 二次元文学, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

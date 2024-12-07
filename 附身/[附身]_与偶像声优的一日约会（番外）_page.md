@@ -7,7 +7,7 @@ TXT 下载: [[附身]_与偶像声优的一日约会（番外）.docx]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一位声优与学长之间浪漫而复杂关系的番外篇，主要讲述了角色之间的感情进展和自我探寻的旅程。从作者的描述中，我们可以看到角色在校园生活中的互动，以及由此产生的情感。在此次约会中，男主佐藤与美丽的女主角秋野在新宿相约，享受了一个愉快的午餐。随着时间的推移，佐藤逐渐适应了与偶像声优独处的氛围，甚至开始感受到对她的好感。该篇还探讨了角色的过去与心理活动，例如秋野小姐的身世与她对佐藤的向往，这些元素丰富了故事的情感深度。文中提到的广尾学院也是现实中存在的，增添了故事的真实感与代入感。除此之外，角色之间的互动还穿插了幽默的校园生活细节，使得这篇番外在情感与剧情上均有较好的表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_与偶像声优的一日约会（番外）.docx]([附身]_
 | Size            | 25481 bytes                           |
 | MD5             | c6d8101d9e7739894559cd1bc6520fb1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 校园恋爱, 声优, 自我探索, 二次元, 情感纠葛, 偶像文化, 学长与学妹, 青春, 约会小说, 恋爱轻小说, 广尾学院, 浪漫, 复杂关系, 感情发展, 日常生活, 爱情故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

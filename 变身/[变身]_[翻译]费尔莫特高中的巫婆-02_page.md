@@ -7,7 +7,7 @@ TXT 下载: [[变身]_[翻译]费尔莫特高中的巫婆-02.docx]([变身]_[翻
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说《费尔莫特中学的巫婆》的第二节，讲述了主角安德森在费尔莫特中学被巫婆们捕捉并讨论如何处理他的问题。在这个故事中，安德森发现自己对女巫的魔法有某种免疫能力，这使他不容易受到性别变化咒语的影响。巫婆们讨论将他变成一个女孩的计划，经过对话揭示了她们对性别变化的看法以及其背后的复杂情感和思考。通过角色的互动，体现了性别认同、自我探索等主题，这里涉及到较为强烈的性别转换内容及相关情节。具体的情节涉及对安德森的施咒变化，包括身体的改变，以及他对这种变化的抵抗和恐惧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_[翻译]费尔莫特高中的巫婆-02.docx]([变身]_[翻
 | Size            | 27232 bytes                           |
 | MD5             | b4f689b6bcea978cafa3ba3d46f9edfd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 巫术, 性别转换, 女性意识, 性别角色, 魔法, 青春校园, 自我认同, 幻想文学, 魔法少女, 惊悚, 禁忌, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

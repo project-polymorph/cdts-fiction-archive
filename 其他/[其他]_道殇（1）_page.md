@@ -7,7 +7,7 @@ TXT 下载: [[其他]_道殇（1）.doc]([其他]_道殇（1）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是丧病之城的作者丧病之人所创作，分为多个部分，在开头部分，作者向读者表示感谢，并说明自己作为新人面临的一些挑战和写作理念。接下来，文章涉及到角色的复杂情感关系，展示了一位身处黑暗中的人物与他弟弟之间的对话。黑袍人和白袍人的冲突及其背景介绍，表现出角色内心深处的痛苦与挣扎。同时，故事也涉及到高中生的经历，两个性格迥异的室友刘森和李诚在面临成长和自我认同的过程中产生的互动。刘森因父母的意外而变得阴沉，而李诚则是阳光型的性格，一方面传递出青春期的友谊，另一方面又揭示出年青人在成长过程中面临的多重压力与心理冲突。整篇文章通过多样的角色设定和情感描绘，探讨了性别认同与自我探索的主题，并且内容中可能涉及一些限制级元素，适合科研和学习使用。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_道殇（1）.doc]([其他]_道殇（1）.doc)
 | Size            | 67584 bytes                           |
 | MD5             | 5649558a46031d114979452b4e6d4675                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 丧病之人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 青春期, 友谊, 心理冲突, 黑暗系, 变身小说, 伪娘, 男娘, 魔法, 异世界, 成长故事, 情感纠葛, 校园生活, 奇幻, 自甘堕落                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

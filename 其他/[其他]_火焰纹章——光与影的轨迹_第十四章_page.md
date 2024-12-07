@@ -7,7 +7,9 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第十四章.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《火焰纹章——光与影的轨迹》的第十四章，名为“千年之秘”。文中主要讲述了萨娜姬在内廷布置小型宴会，请塞菲兰、公主艾琳西娅及其随从讨论与迪因王国战争相关的情报。塞菲兰公是重要决策者，众人需向他透露关于迪因王国突然入侵克里米亚的情报。
+
+艾琳西娅透露了其父王一直隐瞒的关于邪神的秘密，声称邪神尚未被杀死而是被封印，且其复活需要战争的契机。与此同时，会议上还有其他国家的王族共同商议此事，狮子王凯内基斯、黑龙王古拉尼昂等人物参与了讨论，揭示了各国之间微妙的关系及迪因王国的潜在威胁。内容中展现了复杂的政治博弈，以及角色对于战争与复仇的思考。文风引人入胜，角色之间的对话生动，情节紧凑，为读者呈现了一幅多方势力交织的战争局势图景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_火焰纹章——光与影的轨迹_第十四章.docx]([�
 | Size            | 20895 bytes                           |
 | MD5             | 540b1314bb1661f22492e1ac9af48472                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 火焰纹章, 光与影的轨迹, 剧情发展, 政治博弈, 邪神传说, 角色关系, 王国战争, 复仇与和解, 历史题材, 古代奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《罗马假日：最后的炼金术师》.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这一文件讲述了一个穿越异世界的故事，主角是一个标准的肥宅，他因频繁自慰而猝死，随后意外穿越到了经典电影《罗马假日》的剧情中，成为了男主角的好友欧文。在这个过程中，主角逐渐意识到自己身份的变化，并试图利用一瓶名为拿札叙药剂的神秘药物，来达到他与安妮公主之间的戏剧情感交织。文件中详细描绘了主角对安妮公主的强烈崇拜，情感的纠葛以及他对变身和性别转换的幻想。通过融合现实与电影情节，文中探讨了对性别认同、个人欲望及自我探索的复杂思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《罗马假日：最后的炼金术师》.doc]([皮物]_�
 | Size            | 67584 bytes                           |
 | MD5             | 1227cf1cf15959bf98377a862951ffed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 穿越, 跨性别, 伪娘, 药剂, 自我认同, 爱情, 权力游戏, 暗黑幻想, 异世界, 电影致敬, 情感交织, 社会责任, 禁忌关系, 宝藏药剂, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

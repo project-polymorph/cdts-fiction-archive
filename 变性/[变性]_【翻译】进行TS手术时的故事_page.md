@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】进行TS手术时的故事.doc]([变性]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于进行变性手术（TS手术）的故事，包含角色内心的挣扎与渴望，具体描绘了病人在医院接受咨询和手术前的心理历程。故事以一名角色为中心，描述了她在药物治疗、女性生活和病理评价过程中的真实感受与挑战，包括对自己性别认同的反思和与他人交往中的困惑。文件中提及的医院及医生为角色提供了必要的支持与评估，该角色在进行手术前，需经过多次心理评估和问题问卷，以确保她真的为变性手术做足准备。内容逐渐深入到角色的早期经历、对身体不协调感的认知，以及她渴望转变为女性的决心。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】进行TS手术时的故事.doc]([变性]_【�
 | Size            | 86016 bytes                           |
 | MD5             | f77e7a81796b215bcc7c6599c57f94f8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 魔之天涯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性手术, 性别认同, 心理咨询, 女性化, 医院经历, 角色内心斗争, 女性荷尔蒙, 问卷调查, 性别转换, 伪娘, 自我探索, 情感关系, 跨性别支持, 女性生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

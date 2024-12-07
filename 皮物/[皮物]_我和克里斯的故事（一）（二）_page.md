@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我和克里斯的故事（一）（二）.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是伪娘 TS 变身与跨性别相关小说的一部分，讲述了男主威廉与妻子海蒂的一天。在繁华的哥特市第五大街，威廉陪着心情愉悦的海蒂逛街，但在此期间遇到了一些奇怪的事情。两个高大黑人的出现导致威廉失去了意识，而当他恢复知觉时，妻子海蒂却消失不见。此后，威廉焦急地求助于警察却未果，决定运用自己的计算机技术寻找海蒂，期间他来到朋友克里斯的秘密研究所。在这里，他见到了克里斯的惊人变身技术，克里斯转变为女性后还原，展示了性别变幻的科幻元素。整个故事围绕着性别认同、自我探索及潜在的悬疑展开，展现了特定文化背景下对性别和身份的探讨。文件中还包含了一些可能涉及限制级内容的情节，充分展示了角色之间复杂的人际关系和互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我和克里斯的故事（一）（二）.docx]([皮物]_
 | Size            | 36323 bytes                           |
 | MD5             | 58083305b296404da7e94af2365f1726                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 悬疑, 爱情, 哥特市, 计算机技术, 性别认同, 自我探索, 克里斯, 海蒂, 绑架, 警察, 科技幻想, 性别变换, 奇妙冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_与外星人接触之后3.docx]([变身]_与外星人接�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个在三易市发生的奇幻故事，主角与外星人接触后发生的一系列离奇事件。主角在一次对抗奸杀狂魔的过程中，意外被外星人吸入飞船，得到了神秘的治疗和变强的能力。故事中包含了对美丽混血女郎的幻想和与外星人之间的奇妙互动。通过描述主角的内心挣扎与回忆，展现了对性别认同和自我认知的探索，同时也涉及了一些较为阴暗的犯罪背景，例如奸杀案与社会不良风气。文中多次提到主角与其他角色的互动，以及他对过往事件的反思和心理变化。文本中夹杂着角色的对话与内心的自我斗争，情节紧凑且引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_与外星人接触之后3.docx]([变身]_与外星人接�
 | Size            | 25414 bytes                           |
 | MD5             | 0c0b53a38dce364a161d05d63281a88b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 外星人, 性转, 自我探索, 犯罪, 阴暗面, 青春, 幻想, 冒险, 角色互动, 性别认同, 奇幻, 都市, 混血, 心理斗争, 极限挑战, 科技                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

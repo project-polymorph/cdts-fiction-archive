@@ -7,7 +7,7 @@ TXT 下载: [[变身]_堕落的警察队长.docx]([变身]_堕落的警察队长
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《堕落的警察队长》，是一部描绘男子雷方在调查一起连环杀人案中遭遇非人道对待和身份转换的小说。雷方作为京市公安局的刑警队长，面对一个看似毫无联系的案件，他逐渐查到一起婚外情牵涉的私立医院，并意外发现自己成为了凶手的目标。在遭到绑架后，雷方经历了极大的身体和精神上的折磨，他的身体被变成了被自己打死的女人柳希音，整个人生观、性别认同都随之发生了巨变。文件详细描述了主角在新身体中的痛苦、羞辱以及逐渐的自我迷失，其中包含大量与性相关的描写，如“身体发情状态”、“乳头被玩弄”等，呈现出一种残酷的性别转变和个体认同的冲突。小说通过雷方在新身份下的挣扎和对抗，探讨了身份、权利和性别的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_堕落的警察队长.docx]([变身]_堕落的警察队长
 | Size            | 16746 bytes                           |
 | MD5             | 9a74d87cb777a84e3f567358c32c8163                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身份认同, 跨性别, 残酷描写, 刑警题材, 性转小说, 强奸, 情欲, 阴暗心理, 社会问题, 人性探讨, 情色文学, 恐怖, 心理惊悚, 都市, 职场                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

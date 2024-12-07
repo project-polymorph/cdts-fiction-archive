@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_用余生去报答你.docx]([皮物]_用余生去报答你
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档名为《用余生去报答你》，为一篇伪娘 TS 变身相关的小说，该作品围绕主人公唐星的故事展开。故事开篇描绘了唐星生活的困境，身处北元市的他由于父母在一场车祸中去世而孤苦无依，努力在社会生存与求职的压力中挣扎。他与房东的对话展现了他经济拮据的状态，虽然他努力寻找工作，希望能尽快稳定下来，面对房东的争执，他显得无奈而屈从。接着，通过与黎叔及其妻子莲姨的互动，揭示了他内心的孤独和对帮助的渴望。文中详细刻画了他在一次抢劫事件中的见义勇为，与受害者的互动展示了他心地善良的一面。通过这些情节，可以感受到唐星在逆境中寻求自我价值的努力，以及他与周围人建立的新关系。整体文风细腻，情感真实，是一部关注社会边缘人物命运的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_用余生去报答你.docx]([皮物]_用余生去报答你
 | Size            | 75298 bytes                           |
 | MD5             | 27102e904368c0566044ed995c6ab13f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 求职故事, 社会生存, 孤独, 见义勇为, 人际关系, 逆境成长, 情感探索, 情绪纠葛, 家庭关系, 心理描写, 青春, 职场, 都市生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

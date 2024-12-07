@@ -7,7 +7,7 @@ TXT 下载: [[交换]_相亲.doc]([交换]_相亲.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一次相亲的故事，讲述了主人公木村孝则与他的高中同学结城彩菜之间的相遇及相亲过程。故事以木村的视角展开，描述了他从上司那里得知相亲信息的心情，并对即将见面的对象感到紧张与期待。他回想起自己在高中时对彩菜的印象——那是一位非常漂亮的女生。相亲当天，在酒店中他与彩菜第一次见面，彼此都有些紧张。在简单的自我介绍后，彩菜向木村表达了自己对将来的期待，也透露出自己对男性的需求开始觉醒。后续两人交换了联系方式，木村为能建立进一步联系感到兴奋。故事还描述了他们约会的细节，包括在咖啡店的第一次见面和随后的一起购物情节，展现了两人彼此之间逐渐增进的了解与情感。整个故事尚未完结，留下了对未来发展的期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_相亲.doc]([交换]_相亲.doc)
 | Size            | 46080 bytes                           |
 | MD5             | 1a4734727f283c5ff673f8cb1a6e822c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 相亲, 爱情故事, 校园回忆, 男女交往, 自我认同, 生活琐事, 心理描写, 生活日常, 情感发展, 现代生活, 独立生活, 社会交往, 人际关系, 性别认同, 恋爱心理, 青少年成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

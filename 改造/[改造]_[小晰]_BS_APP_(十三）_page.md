@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(十三）.doc]([改造]_[小晰]_BS_APP_(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇短篇小说，描绘了一名学生在和朋友小晰合作完成报告后，经历了一次奇妙且惊悚的醒悟。故事开始于学生在黑暗的教室中惊醒，他感到极度的困惑和恐惧，努力想要回忆自己在教室的经历。随着故事的发展，学生意识到自己的身体发生了变化，并感受到一股强烈的欲望和对自己身体的占有欲。他回忆起与小晰的互动，逐渐引入了更为露骨和挑战道德与性别界限的情节。在追寻小晰的过程中，他面对朋友阿緯的威胁及对小晰的侵犯，因而别无选择，求助于一个神秘的应用程序（BS app）来获得力量，准备为小晰复仇，反映出性别认同与自我认知的复杂性和冲突。小说中的情节大胆而复杂，探讨了欲望、权力、性别与身份的主题，情感深刻而具争议性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[小晰]_BS_APP_(十三）.doc]([改造]_[小晰]_BS_APP_(
 | Size            | 98816 bytes                           |
 | MD5             | ec47717aaf418c3c09482c096588f514                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 校园小说, 欲望, 自我探索, 强奸, 变身, 羞辱, 暴露欲, 复仇, 奇幻, 情感冲突, 性别认同, 幻想, 情感纠葛, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

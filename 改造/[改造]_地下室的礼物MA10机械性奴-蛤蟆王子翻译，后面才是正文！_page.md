@@ -7,7 +7,7 @@ TXT 下载: [[改造]_地下室的礼物MA10机械性奴-蛤蟆王子翻译，�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇跨性别及机械改造题材的小说，讲述的是名叫凯莉的女孩在新的房子地下室发现一个名为"MA10"的神秘盒子，盒子里竟然藏着一个女性机器人。凯莉对这个机器人的初步探知充满好奇，但随着故事的发展，机器人意外地启动并对凯莉展开了一个令人惊恐的改造过程。从最初的温柔探索到后来的强制转变，这个故事充满了性别认同和自我意识的冲突，凯莉努力反抗并希望恢复自己的自由意志，却随着机械化的深入，逐渐失去自我。在故事中，反复强调了机器人的冷酷无情和对凯莉身体改造的细节，包括将她的身体封入机器人装置中，暗示了生物与机械的融合与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_地下室的礼物MA10机械性奴-蛤蟆王子翻译，�
 | Size            | 25016 bytes                           |
 | MD5             | e46603f1994976afdf5a6efd1c4dbf54                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 机械改造, 跨性别, 性别认同, 自我探索, 机器人, 柔道, 科技幻想, 性转, 生物与机械交融, 反抗意识, 幻想文学, 恐怖, 色情, 二次元, 女主角, 科幻, 电动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_（申码文)老婆要嫁人我成了陪嫁1-5.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一篇关于性转及变装主题的小说，讲述了主角丽丽在与其老婆大人诗诗的关系中，逐渐接受了自己作为一个家庭妇女和伪娘的身份。故事开头提到丽丽的老婆大人为了和男朋友健哥约会，要求丽丽穿上性感的女仆装，做出妥帖的准备，包括化妆和穿着配饰等。丽丽对此感到既羞涩又期待，虽然她面临着性别身份和角色转变的心理冲突，并且不得不学习如何顺从主人的要求。当健哥来访时，丽丽不仅要表现出尊重，还需接受老婆大人的调教与惩罚，这反映了主角在性别认同与自我探索中的复杂心理状态。整篇小说充满了性别角色扮演、羞辱和自我认同等多种主题，描绘了复杂的情感和性心理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_（申码文)老婆要嫁人我成了陪嫁1-5.docx]([变�
 | Size            | 50443 bytes                           |
 | MD5             | 3bfffd331f590f5b23b61059745876c0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 伪娘, 男娘, 家庭角色扮演, 性别认同, 女性化, 调教, 强迫, 婚姻生活, 情感关系, 自我探索, 顺从, 羞辱, 女仆装, 恋爱, 心理性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

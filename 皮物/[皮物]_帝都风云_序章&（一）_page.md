@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝都风云_序章&（一）.docx]([皮物]_帝都风云_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件的内容是关于奥丁大陆的两大国之间的政治斗争与权力游戏。故事首先描绘了奥丁大陆的基本地理与历史背景，介绍了南方的塞德纳王国和北方的兰佩斯顿帝国的不同特点。塞德纳王国以其富饶的土地和出色的炼金术闻名，而兰佩斯顿帝国则因其强悍的武力与骑兵而傲视群雄。随着老皇帝的骤然去世和科尔多拉三世的登基，帝国的权力结构发生了剧变，新皇急于扩张，撕毁了与塞德纳王国的和平协定，发动了军事进攻。战斗随即展开，塞德纳王国的军队节节败退，最终覆灭。文件中描述了王都之战的惨烈，尤其突出表现了主角安德烈王子与伊丽莎白公主在乱世中存活的艰辛与对复国的渴望。在他们的保护下，两位王室成员希望依靠克里斯托大师的帮助，恢复塞德纳的荣耀，强调了个人情感与家族使命感交织的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝都风云_序章&（一）.docx]([皮物]_帝都风云_
 | Size            | 25392 bytes                           |
 | MD5             | 25d42b8050c6715ba2fc7fcb99645a86                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 权力斗争, 奥丁大陆, 塞德纳王国, 兰佩斯顿帝国, 变身, 自我探索, 王室阴谋, 历史幻想, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

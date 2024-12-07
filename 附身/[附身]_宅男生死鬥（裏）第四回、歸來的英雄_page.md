@@ -7,7 +7,7 @@ TXT 下载: [[附身]_宅男生死鬥（裏）第四回、歸來的英雄.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《宅男生死鬥（裏）》的第四回，标题为‘归来的英雄’。内容主要围绕男孩阿德与他的女伴宇婕在蓝牛酒吧的情景展开。酒吧是一个充满性暗示与挑逗氛围的私人场所，男女角色在此进行亲密的互动。阿德带宇婕进入酒吧，酒吧内部的描写充满艳情，人物间的交流充满暗示与挑逗。该章节表现了角色们在性别与性角色方面的模糊与转换，宇婕在与阿德的亲密互动中展现出对自己身体的新认知，同时也体现了角色对性与关系的探索与认同。整体氛围充满了性张力与挑逗，反映了当代对性别与性取向的开放态度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_宅男生死鬥（裏）第四回、歸來的英雄.docx](
 | Size            | 26961 bytes                           |
 | MD5             | 8640e09ceb1df4f3d8f1bef7659e7b9d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 酒吧, 亲密关系, 性探索, 年轻情侣, 性暗示, 角色扮演, 暗黑奇幻, 调教, 牛人文化, 性别认同, 恋爱, 火热情感, 性行为                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

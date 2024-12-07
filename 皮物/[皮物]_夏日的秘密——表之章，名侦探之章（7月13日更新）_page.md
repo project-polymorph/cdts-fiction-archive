@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_夏日的秘密——表之章，名侦探之章（7月13�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以私家侦探徐阳为主角的小说片段，描绘了他在炎热夏日中的一次冒险。故事开始于一个大火事件，这位年轻的侦探因好奇而前往火灾现场，目睹了警方和消防员正在调查的场景。徐阳希望能从中发现一些线索，借此提升自己的侦探技能。故事中他与一名叫乐乐的少女相遇，乐乐因其爷爷去世而刚从老家回来，却不幸得知工作的研究所发生火灾，所有财物都被烧毁。两人在咖啡店的对话展现了他们之间的互动与情感变化，乐乐的失落和徐阳的安慰让整个场景温馨而又紧张。通过他们的交流，读者能感受到乐乐的无助以及徐阳在潜在危险中的探查欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_夏日的秘密——表之章，名侦探之章（7月13�
 | Size            | 24937 bytes                           |
 | MD5             | 7e7c5f86348f7a1b99fb798c9b1f2dfb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 悬疑, 私家侦探, 夏日冒险, 火灾, 情感互动, 侦探小说, 青春, 成长, 人际关系, 孤独                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

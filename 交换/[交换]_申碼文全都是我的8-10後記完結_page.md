@@ -7,7 +7,7 @@ TXT 下载: [[交换]_申碼文全都是我的8-10後記完結.doc]([交换]_申
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一个关于鳴宮璃奈的变身与性别认同的故事，描绘了一个角色在经历身体交换后对生活、身份的困惑与绝望。璃奈原本过着普通的生活，但在一次意外中与另一位名为孝一的角色交换了身体。故事中可以看到璃奈在不知所措的情况下，深刻感受到生活的无奈与对失去自我的痛苦。在冷冷的雪中，她回忆起自己原本的生活与身份，内心的不安与绝望交织着。她无法接受自己如今成为女性身体的现实，充满了对昔日生活的怀念，甚至对孝一的愤怒。璃奈的心中隐含着对身份、性别和爱等诸多话题的思考，反映了更深层次的自我探索和性别认同的问题。在最后部分，璃奈意识到自己永远无法回到过去，这种无力感让她的绝望达到了顶点，留下了对未来的惆怅与不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_申碼文全都是我的8-10後記完結.doc]([交换]_申
 | Size            | 79872 bytes                           |
 | MD5             | db9b8b63c73f2de4799693d4f1d2bc86                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 身体交换, 变身, 绝望, 自我探索, 跨性别, 幻想, 痛苦, 情感冲突, 身份危机, 爱情与失落, 社会角色, 女性视角, 魔法, 雪景, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

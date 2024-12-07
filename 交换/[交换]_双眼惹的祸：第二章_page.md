@@ -7,7 +7,7 @@ TXT 下载: [[交换]_双眼惹的祸：第二章.docx]([交换]_双眼惹的祸
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为伪娘 TS 变身与跨性别相关小说的第二章，名为《双眼惹的祸》。故事围绕主人公李凯展开，他在公司上班时意外目睹了一起死亡事件，死者是王莲玉。李凯对于王莲玉的死感到困惑，难道她是失足跌落？随后，他在公司中遇到了一位神秘而美丽的白色职业装女性，情不自禁地对她产生了强烈的好感，内心不断幻想与她的亲密接触。然而这种幻想并未成真。此后，李凯的注意力被办公室中发生的事情吸引，他发现一位与白衣女人极为相似的女子在自言自语中表现出异常，甚至露出不雅行为。经过一番观察后，李凯意识到办公室中的女子似乎与之前遇到的神秘女子有某种关联，但两者的气质截然不同。故事悬疑而又富有色情暗示，突显了人物之间复杂的情感纠葛与性别认同的迷失。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_双眼惹的祸：第二章.docx]([交换]_双眼惹的祸
 | Size            | 25101 bytes                           |
 | MD5             | eeb481a11fe7d0e2dc61b10a97f92f9a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 伪娘, 变身, 灵异, 都市幻想, 自我探索, 性别认同, 美丽女性, 办公室恋情, 收尸, 尸体认同, 女鬼, 双重身份, 迷恋, 深夜办公, 窥视癖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

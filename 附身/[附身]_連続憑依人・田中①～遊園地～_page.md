@@ -7,7 +7,7 @@ TXT 下载: [[附身]_連続憑依人・田中①～遊園地～.doc]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕一个名叫田中的角色展开，他的生活布满了不幸和怨恨。在一次偶然的机会中，田中获得了一种自称为“附身药”的神秘药物，这使得他能附身于他人身上，进而引发了一系列荒唐、混乱而扭曲的事件。故事发生在一个人满为患的游乐园，游乐园的广播响起了令人震惊的下流声音，疲惫行走的人们被牵引着走向疯狂与堕落。随着田中的恶魔本性被激发，他逐渐控制了周围的女性，让她们在游乐园里堕入疯狂的欲望中。故事探讨了性别认同、权力、欲望和人性在极端环境中的冲突，引发思考和讨论。在这场混乱的游乐园中，不同身份的角色都被卷入了田中操控的漩涡，展现出对人性的深刻剖析和极端情境的反映。最后，田中漠然地思考着下一个目标，这使得整个故事充满了紧张感和开放式结局。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_連続憑依人・田中①～遊園地～.doc]([附身]_�
 | Size            | 37376 bytes                           |
 | MD5             | 713ca07491717cac93fcb32c358cc1ec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 欲望, 混乱, 控制, 女性角色, 心理操控, 游乐园, 恶魔, 自我认知, 堕落, 二次元, 强奸, SM, 逆后宫, 淫荡, 调教, 主人公, 病态, 奇幻, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_3号催眠系统.doc]([催眠]_3号催眠系统.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《3号催眠系统》，内容围绕了一种特殊催眠系统的故事情节，主要讲述了主人公通过催眠控制他人并进行复仇的故事。文中涉及了关于角色间复杂的感情关系，背叛与复仇的互动。故事的叙述展现了强烈的情感冲突和催眠操控的情节，例如，主人公在获得催眠系统后，试图通过催眠自己的爱人来实施复仇与羞辱。通过对角色思想的描绘，文章探讨了权力、控制和性别关系等主题。文中提到的对话反映了角色之间的紧张关系及其对彼此情感的复杂反应，伴随着明显的性暗示和露骨的场景描写，例如“一丝不挂的站在我和刘婷面前”等。虽然情节引人入胜，但同时也涉及到了一些限制级的内容，以及对角色存在的非自愿性和操控性的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_3号催眠系统.doc]([催眠]_3号催眠系统.doc)
 | Size            | 43008 bytes                           |
 | MD5             | a5239c46d2f05e46eb31e6a47008e656                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 投射心理, 催眠控制, 复仇, 性奴隶, 情感冲突, 角色扮演, 操控与被操控, 性别认同, 强迫, 权力动态, 变身小说, 虚拟现实, 强奸, 调教, 逆后宫, 淫荡, 二次元, 言语诱惑, 女体化, 魔法, 阴暗心理, 调侃, 恶魔                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

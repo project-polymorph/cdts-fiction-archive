@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_睚眦之主系列第四章_首席伴娘（下）（庆祝
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘TS变身与跨性别主题的小说系列《睚眦之主》的第四章，名为《首席伴娘（下）》。在这一章节中，故事围绕着女主安温和男朋友安东尼的互动展开。安东尼因爱好假扮女性而与安温发生了一些矛盾。安温发现安东尼再次使用了她的化妆品，并请求他不要再碰她的东西。安东尼则表示自己正在为即将到来的婚礼准备，试图在婚礼中同时担当两个角色：作为伯纳德的伴郎和克莱尔的首席伴娘。他为此制作了一副新面具，让自己能够伪装为安吉拉。故事中涉及了角色的性别认同和伪装，反映了角色之间的情感冲突与探索，同时描绘了他们在婚礼前夕的紧张与期待。最终，安德尼为了能够顺利出席婚礼而经营一场角色游戏，使故事情节充满了戏剧性与幽默性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_睚眦之主系列第四章_首席伴娘（下）（庆祝
 | Size            | 41438 bytes                           |
 | MD5             | a0d4cdf2c5d259a586b5dedf7b821b3a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 爱情, 婚礼, 角色扮演, 戏剧, 情感冲突, 自我探索, 性别认同, 幽默, 面具, 伪装, 晚宴, 动态关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

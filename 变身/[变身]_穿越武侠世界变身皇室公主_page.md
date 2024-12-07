@@ -7,7 +7,7 @@ TXT 下载: [[变身]_穿越武侠世界变身皇室公主.doc]([变身]_穿越�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个名为朱晨瑄的公主的故事，她在穿越到一个类似于中国古代和武侠小说的世界后，经历了一系列奇幻的冒险。故事开始时，夜晚的京城变得寂静，她的侍女告诉她，皇上和皇后希望她第二天早上入宫共进早膳。然而，朱晨瑄在秘密地下室练习武功，并发展出惊人的变身能力，可以随意改变自己的外貌和性别。她的前世是一个男孩，此次变身成公主后，虽然拥有超凡的武功天赋，但仍需要在公主的身份与自己的真实身份之间反复挣扎。在面对一个神秘的魔教威胁时，朱晨瑄决定化名“李卿函”，参加武林大会，以便更好地掌控局势。文中描写了她的成长、武功训练以及与家人的亲情互动，展现出她复杂的内心世界和对自由的渴望。结合她的不平凡经历，作品讨论了性别认同、自我探索等深入的主题，也涉及到复杂的权力斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_穿越武侠世界变身皇室公主.doc]([变身]_穿越�
 | Size            | 172032 bytes                           |
 | MD5             | 3aad028171b6799cf8a250ceb6610d2b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 穿越, 武侠, 变身, 跨性别, 魔教, 江湖, 自我探索, 权力斗争, 女性成长, 秘密身份, 同性恋, 变嫁, 伪娘, 变装, 武功, 冒险, 幻想, 古代, 情谊, 亲情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

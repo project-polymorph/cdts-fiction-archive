@@ -7,7 +7,7 @@ TXT 下载: [[交换]_身体大互换6-10（完）.doc]([交换]_身体大互换
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《身体大互换六至十（完）》的文档，整体字数约23024字，呈现了一段关于主角大布丁与小萝莉之间身体互换的日常生活。故事通过大布丁的第一人称视角，描述其在游乐园中的各种体验与冒险。文件交替描绘了不同游乐设施的刺激感受，比如海盗船与一飞冲天，展现了角色从害羞到勇敢的心理转变。尽管在游乐园中大布丁体验了许多快乐，但仍然面临了性别误认的困扰，表现出探索自我身份的挣扎。特别是在一次误入女厕后，遭遇尴尬时刻，使得她不得不认真思考在新身体中的处境与他人看法。这段故事探讨了性别认同、身份错位以及社会对性别角色的预期，以轻松的语气搭配幽默的情节描绘了角色活泼而不失敏感的内心.
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_身体大互换6-10（完）.doc]([交换]_身体大互换
 | Size            | 99328 bytes                           |
 | MD5             | 03d9a37f950ce585c369aa2fb06d2268                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 悲剧的小萝莉                               |
+| Region          | 未知                               |
+| Date            | 2022-05-22                                 |
+| Tags            | 身体互换, 性别认同, 游乐园, 自我发现, 冒险, 羞涩, 日常生活, 成长, 幽默, 尴尬, 刺激, 游乐设施, 心理挣扎, 角色扮演, 性别角色, 女性视角, 互动, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

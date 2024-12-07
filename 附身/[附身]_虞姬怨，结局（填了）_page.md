@@ -7,7 +7,7 @@ TXT 下载: [[附身]_虞姬怨，结局（填了）.docx]([附身]_虞姬怨，
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《虞姬怨，结局》包含了一段关于权力斗争和情感纠葛的故事。故事发生在长乐宫，描述了高祖皇帝刘邦在奄奄一息的状态下，一群谋权者的复杂互动。文中细腻地描写了吕雉皇后在皇帝病重之际，展现出她的权谋和性魅力，甚至通过与刘邦的亲密接触吸取他的生气与灵魂力量以恢复自己的青春。故事的高潮部分涉及权力的残酷斗争与身体上的侵犯，以及超自然力量的介入，引发了一场激烈的冲突。通过老人的出现，故事转向了一个超现实的方向，展现了阴谋和欲望交织下的悲剧性结局。文末部分有作者的个人感悟和轻松的个人生活插曲，以一种反差感为故事增添了层次。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_虞姬怨，结局（填了）.docx]([附身]_虞姬怨，
 | Size            | 19263 bytes                           |
 | MD5             | c2805acfed597b5933722ff1ec4b3f60                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 权力斗争, 性别转换, 虚构历史, 超自然, 强权与情欲, 阴谋, 吕雉, 刘邦, 生与死, 灵魂力量, 追求青春, 情感纠葛, 午夜妖幻, 虚拟现实, 古代宫廷, 人性复杂, 反转剧情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

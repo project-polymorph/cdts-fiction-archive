@@ -7,7 +7,7 @@ TXT 下载: [[变装]_夏威夷假日_4_12.doc]([变装]_夏威夷假日_4_12.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《夏威夷假日》是一本描写复杂人际关系的伪娘变身小说，故事围绕唐尼在一次夏威夷假期中意外变性，并与旧情人南希重逢展开。故事的第四章中，唐尼不得不面对自己的新身份，他在与南希的对话中透露出内心的挣扎和自我认知的冲突。在这一段落中，唐尼的外表变化使南希震惊不已，而唐尼则试图平息南希的情绪，且不希望事情曝光。故事探讨了角色的性别认同、人与人之间的情感羁绊，以及对过去恋情的反思。尤其突出了主角对自己身份的复杂情感，正如他所说，“你把我甩了以后，的确发生了很多事”，显示出他对自我认知的迷茫和对未来的恐惧与期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_夏威夷假日_4_12.doc]([变装]_夏威夷假日_4_12.do
 | Size            | 79360 bytes                           |
 | MD5             | e24da4c61e5c5b60b6ec4f60c82b54f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Clara                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 伪娘, 变身, 情感纠葛, 自我探索, 恋爱, 夏威夷, 未婚妻, 变化的身份, 社会认同, 二次元, 情感冲突, 性别转换, 旧情复燃, 现代爱情, 复杂人际关系, 情感支持, 心理挣扎, 友谊, 婚姻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

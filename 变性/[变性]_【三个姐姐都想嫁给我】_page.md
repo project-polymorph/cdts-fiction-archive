@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【三个姐姐都想嫁给我】.doc]([变性]_【三个�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《三个姐姐都想嫁给我》描绘了主角游奶藻前的独特境遇。故事发生在一个山顶别墅区，游奶藻前作为一名经历了生育的女子，正试图通过性感的打扮和诱惑来获得男人的关注。小说中，她在百合侍女纯爱的帮助下，精心打扮自己，准备在清晨时分引诱胡来。整个过程中，游奶藻前通过一系列挑逗动作，试图激发胡来的欲望，并表露出她作为一个风尘女子的渴求与不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【三个姐姐都想嫁给我】.doc]([变性]_【三个�
 | Size            | 61952 bytes                           |
 | MD5             | b280987b0a6b18d3b77397d2c01c2a6f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 性转, 肉棒, 百合, 调教, 强奸, 淫荡, 自我探索, 年龄差, 魔法, 幻想, 都市, 恋爱, 情欲, 女性视角, 性幻想, 家族关系, 母子关系, 第三者, 艳情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

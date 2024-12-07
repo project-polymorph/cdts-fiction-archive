@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身绳缘_二十二-----二十四.doc]([变身]_变身�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇围绕性别转换和自我认同的小说，主要讲述主角郝建的性别变化经历以及随之而来的生活挑战。小说开始时，郝建与朋友在一次醉酒后，面临身份的转变。他从男性转变为女性，生活中面对各种困难和情感上的挣扎，例如寻找工作的艰辛和对过去的怀念。在关键情节中，郝建自我反思，面对身份的认同问题，同时也描绘了其与朋友、同事的感情互动。故事深入探讨了角色在变身过程中内心的变化和成长，以及在外部世界的适应过程。强烈的情感冲突和成长故事使得这部作品充满戏剧张力，生动细腻地表现了主角在变身后的人生新篇章。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身绳缘_二十二-----二十四.doc]([变身]_变身�
 | Size            | 48128 bytes                           |
 | MD5             | 3b8102c276c355c32f5213b6224868ac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 精灵树                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 穿越, 变身小说, 伪娘, 跨性别, 爱情, 办公室情感, 人生转折, 青春成长, 情感纠葛, 生活挑战, 情感支撑, 身份危机, 性别转换, 职场竞争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

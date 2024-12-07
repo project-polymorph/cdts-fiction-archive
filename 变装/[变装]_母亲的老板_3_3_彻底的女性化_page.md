@@ -7,7 +7,7 @@ TXT 下载: [[变装]_母亲的老板_3_3_彻底的女性化.doc]([变装]_母�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于母亲的老板和其奴役关系的幻想小说，内容涉及角色的性别转换、壮阳与变装情节。故事讲述了一个男性角色在被强制性虐待后，慢慢接受了自己的新身份，成为名为坎蒂的女仆，并与其他角色建立复杂的关系。文本包含大量露骨的性描写，包括强制口交、性奴训练等情节，并探讨了性别认同的主题。开头描述了角色的暴力行径，后续则呈现角色的心理斗争与奴役生活。在这段令人不安的叙述中，主角对自身身份与欲望的害怕与否认交织在一起，同时又受到周围关系的强烈影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_母亲的老板_3_3_彻底的女性化.doc]([变装]_母�
 | Size            | 51712 bytes                           |
 | MD5             | 249e3fb9353f91ae46dc1628a84f136b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 角色扮演, 强迫性行为, 性奴角色, 自我认同, 暴力与服从, 幻想文学, 心理斗争, 奴役主题, 跨性别体验, 纯爱, 调教, 无知状态, 逆后宫, 服从与反抗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

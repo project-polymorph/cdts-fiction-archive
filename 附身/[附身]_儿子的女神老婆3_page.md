@@ -7,7 +7,7 @@ TXT 下载: [[附身]_儿子的女神老婆3.docx]([附身]_儿子的女神老�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档讲述了一名男子在偶然间发现他的儿子女友林雅琳被一个男人附身的故事。开始时，林雅琳洗完澡后准备离开，男子回到家中查看手机发现了林雅琳与一名猛男的淫荡视频，视频中猛男在与林雅琳发生关系。随着故事的发展，男子感到不安，决心查明事情真相。他发现那个猛男似乎通过林雅琳身上的一件金属宝石胸罩来进行附身，从而控制林雅琳的身体。这名男子为自己逐渐被以不同的视角审视林雅琳而感到困惑，并逐渐产生了附身于林雅琳之上的邪念，想要通过剥夺她的身体来获得青春与美丽。他开始秘密监视林雅琳的一举一动，以寻求机会变身并获得她的身体。整个故事以性转与阴谋为主题，同时涉及复杂的人际关系及心理动机。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_儿子的女神老婆3.docx]([附身]_儿子的女神老�
 | Size            | 19651 bytes                           |
 | MD5             | 751aa10a9b7c8f8aaae7bafbad846626                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 附身, 阴谋, 年轻身体, 操控, 变身, 虐待, 性欲, 自我认知, 亲情纠葛, 道德冲突, 心理斗争, 刺激, 超自然力量, 女性魅力, 性交, 幻想, 极端情感, 伪娘情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

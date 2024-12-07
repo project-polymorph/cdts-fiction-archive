@@ -7,7 +7,7 @@ TXT 下载: [[其他]_玉佩的故事（1）.docx]([其他]_玉佩的故事（1�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关的小说，主要讲述了角色甜甜因为一枚神秘的玉佩而发生的性别变化故事。故事开头，李铭下班回到家，却发现自己的妻子甜甜正在进行不雅的行为。随着情节的发展，李铭逐渐意识到自己的妻子经历了身份的转变，其身体特征也发生了显著变化。甜甜通过玉佩获得了性别变化的能力，能够在男性和女性之间自由转换，甚至能够增大或缩小自己的身体特征。最终，故事以李铭对甜甜的新身体的惊讶和他们之间的亲密关系作为结束。这部小说探讨了性别认同、自我认知，以及身体变迁带来的心理冲突与探索，是一部融合了奇幻与色情元素的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_玉佩的故事（1）.docx]([其他]_玉佩的故事（1�
 | Size            | 22548 bytes                           |
 | MD5             | db3f99387dab562df644ad6eb11f1457                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 跨性别, 奇幻, 爱情, 自我认知, 身体变迁, 性别认同, 家庭关系, 奇幻元素, 情感冲突, 色情, 二次元, 幻想小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

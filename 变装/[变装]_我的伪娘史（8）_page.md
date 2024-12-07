@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的伪娘史（8）.docx]([变装]_我的伪娘史（8�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件记录了一群年轻人在周末聚会的趣事，围绕着伪娘角色展开。故事中，主角在被朋友高子翔叫醒后，参与了去寿司店的计划。在寿司店里，一群朋友们欢聚一堂，嬉笑打闹，享受美食。李锋作为东家的负责人，提出引入更多服务员的想法，调侃道服务员应该是女孩子。随着剧情的推进，主角被推向了换装和化妆的风口浪尖，最终被迫穿上和服，化妆成艺妓。在这一过程中，角色之间的互动与情感探讨展现了对性别和身份的探索。文件中涉及的情节包括性别认同与角色扮演的冲突，伴随着轻松幽默的气氛，又蕴含了更深层次的自我认同问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的伪娘史（8）.docx]([变装]_我的伪娘史（8�
 | Size            | 17883 bytes                           |
 | MD5             | fdb5e3ee16f6a338ded9e82b36710f99                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变装, 二次元, 青春校园, 性别认同, 文化交流, 主题聚会, 寿司店, 角色扮演, 日本文化, 友谊, 日式服务, 和服, 自我探索, 艺妓, 娱乐, 社会角色, 情感互动, 轻松幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [千载难逢的好机会：无怨无悔.doc](千载难逢的好机�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个男性阿伦在与其女友的堂兄卡尔相遇后，意外了解到了一种可以实现性别转换的魔法药物的故事。这个故事揭示了性别认同和自我探索的复杂性。阿伦原本对于他女友凯拉的堂兄卡尔感到陌生，然而随着故事的发展，卡尔坦白自己其实是凯拉变成了一个男人，这引发了阿伦的强烈震惊和困惑。阿伦在经历了一系列情感纠葛后，接受了自己的新身份，并努力适应作为女性安吉拉的生活。在几个章节中，故事细腻地描绘了阿伦/安吉拉如何逐渐接受并享受作为女性的体验，同时涉及了情感、性别身份转变的探索，以及对自我认知的重新审视。文中详细描述了阿伦对自己新身体的感知和内心的挣扎，反映了对性别界限模糊化的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [千载难逢的好机会：无怨无悔.doc](千载难逢的好机�
 | Size            | 43520 bytes                           |
 | MD5             | a5ca702c97dd759fd16c1f23028aed95                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 跨性别, 魔法, 自我探索, 情感纠葛, 奇幻, 二次元, 性别转换, 青春, 爱情, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

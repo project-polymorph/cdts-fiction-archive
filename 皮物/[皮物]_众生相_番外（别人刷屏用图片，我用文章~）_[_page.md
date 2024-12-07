@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_众生相_番外（别人刷屏用图片，我用文章~�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是关于一个神秘组织Dream mask studio的背景介绍与角色介绍，主要围绕主人公妮妮展开。妮妮是个外表及其秀气的男孩子，通过变装表演和特殊化妆参与间谍活动。故事第一节提供了一些关于妮妮身份和经历的推测，第二节则通过她的视角描述了她在间谍活动中的生活与情感。有趣的是，妮妮在生活中扮演着多重角色，平衡着她的过去与目前的身份。文中涉及了不少关于性别认同、角色扮演等的元素，伴随有调侃和对话，使得故事生动有趣。整篇内容包含了一些亲密和性暗示的描写，总体来说是偏向成人向的文本。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_众生相_番外（别人刷屏用图片，我用文章~�
 | Size            | 25871 bytes                           |
 | MD5             | d02280aa35a46374582cdcb7c6af0fe9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 神秘组织, 心理探索, 间谍活动, 角色扮演, 变装, 双重身份, 成人向, 二次元, 戏剧性, 爱情, 自我认同, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

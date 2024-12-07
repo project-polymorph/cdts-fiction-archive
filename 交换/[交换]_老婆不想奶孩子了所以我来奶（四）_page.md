@@ -7,7 +7,7 @@ TXT 下载: [[交换]_老婆不想奶孩子了所以我来奶（四）.doc]([交
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇以性别转换为主题的小说，描述了主角在变身为女性后的体验和心理变化。故事围绕着主角与名为浅浅的角色之间的互动展开，呈现了生理性别与心理认同的冲突。在文中，主角遭遇了强烈的身体压迫与羞愧，其中夹杂着情感探索与自我认知的挣扎。小说内容涉及性别角色的互换，探讨了在变身后的身份认同与身体感受带来的复杂情绪。主角在与浅浅的亲密互动中，产生了对自我性别身份的重新认知，同时也表现出对性与情感的纠结。文中多次通过对话与行动展示角色间的亲密关系，令人思考性别流动与情感的多样性。整体情节充满了生动的描写和情感的起伏，让人反思性别认同和身体体验的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_老婆不想奶孩子了所以我来奶（四）.doc]([交
 | Size            | 39936 bytes                           |
 | MD5             | b282ddb65315f38240df6b104a69805e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身体认同, 心理探索, 亲密关系, 性与情感, 自我认知, 角色互换, 变身小说, 强制与反抗, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

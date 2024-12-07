@@ -7,7 +7,7 @@ TXT 下载: [模仿游戏.doc](模仿游戏.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了乔什与卡桑德拉在心理学课程上的相遇以及逐渐深入的友谊。故事围绕着两人之间的模仿游戏展开，卡桑德拉提出了一个大胆的计划：在学校中互换身份。她认为，乔什有能力通过一个先进的机器来改变他的性别外貌，进而体验成为女孩的感觉。整个过程中，乔什经历了许多内心的挣扎和自我认知的挑战，同时对于举办这个模仿游戏的结果充满了期待与纠结。文件内容涉及性别身份与性别认同的探讨，展现了现代社会对性别转换的开放态度，且包含了一些限制级的内容以及跨性别主题的描述。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [模仿游戏.doc](模仿游戏.doc)
 | Size            | 71168 bytes                           |
 | MD5             | 1ee89eff12f80db6f29bcec923a1708c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 模仿游戏, 跨性别, 性别认同, 伪娘, 变装, 青春校园, 自我探索, 性别转换, 心理游戏, 幻想, 科技与现代社会, 友谊与爱情, 变化与成长, 挑战与赌注, 性别表达, 社会认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【永远的狐娘】及附赠的皮物短篇.doc]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别和变身类小说，标题为《永远的狐娘》，讲述了一个男子与狐狸娘之间奇妙的故事。故事伊始，男主角失去了钱包并遭遇狐狸娘的帮助。狐狸娘不仅将钱包归还，还以特殊的方式要求男主角回报她，进而展开了一系列与性别转换和皮物体验相关的情节。文中的狐狸娘拥有强烈的性暗示与一种令人感到魅惑的妖气，她通过神秘的方式将男主角引导至穿上她的皮肤，这引发了男主角身体与性别认同的深刻探讨。故事在奇幻与现实交汇的背景下，描述了性别认同、自我探索、变身与异界幻想等主题，充满了丰富而复杂的情感与情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【永远的狐娘】及附赠的皮物短篇.doc]([皮物
 | Size            | 44032 bytes                           |
 | MD5             | 6c6c1c10a44b61fd6bb84ec8bf5671b5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2019-11-11                                 |
+| Tags            | 性别转换, 变身小说, 狐狸娘, 奇幻, 跨性别, 妖怪, 皮物体验, 自我认同, 性探索, 二次元, 文化幻想, 情感纠葛, 男性视角, 妖气, 色情内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

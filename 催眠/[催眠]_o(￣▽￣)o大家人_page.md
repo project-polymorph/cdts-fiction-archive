@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_o(￣▽￣)o大家人.doc]([催眠]_o(￣▽￣)o大家�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别相关的小说，主要围绕李勇及其家人准备接待新姐夫胡雨展开。故事开头描述了李勇的妻子赵娟在车上催促他加快速度，让他们能准时到达即将到来的家庭聚会。随着情节的发展，李勇逐渐揭示了家族的复杂关系和家中最近的变化，特别是胡雨作为新姐夫的角色。胡雨在家庭中占据了不同寻常的位置，带来了一系列新的家庭动态和潜在的冲突。故事中的催眠相机引入了超自然的元素，使得角色们的命运受到未知力量的干扰。同时，这部小说还涉及到角色内心的挣扎与家庭成员之间的复杂情感交错，体现了性别认同与家庭关系的深刻主题。反映了现代性别观念的多元性和复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_o(￣▽￣)o大家人.doc]([催眠]_o(￣▽￣)o大家�
 | Size            | 40960 bytes                           |
 | MD5             | 413b428bcccdc79ac85d10f3140d08ae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 家庭关系, 性别认同, 跨性别, 伪娘, 变身, 角色冲突, 超自然元素, 现代家庭, 自我探索, 社会偏见, 情感纠葛, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

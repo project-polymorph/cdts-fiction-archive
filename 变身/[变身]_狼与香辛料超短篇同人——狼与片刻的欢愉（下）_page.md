@@ -7,7 +7,7 @@ TXT 下载: [[变身]_狼与香辛料超短篇同人——狼与片刻的欢愉�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是《狼与香辛料》的超短篇同人小说，内容围绕男主角罗伦斯与女主角赫萝之间的亲密互动展开。故事描绘了罗伦斯在性别转换后，面临身体与心理的双重冲突，表现出他对自身新身体的陌生感与自然的本能反应。赫萝在故事中引导罗伦斯探索他的新身体，以一种调皮而亲密的方式让他感受到女性身体的敏感与愉悦。以下是一些摘抄："罗伦斯开始有些颤抖，不是兴奋，更不是恐惧，某种意义上说，应该更近似于本能反应一样。"以及"我会一直陪你到最后的，我保证。" 文章整体情节偏向于探索性别认同与身体的关系，展现了角色之间微妙的情感变化和互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_狼与香辛料超短篇同人——狼与片刻的欢愉�
 | Size            | 17912 bytes                           |
 | MD5             | 69a2ca3092b55ddba6298e7803acad8a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 强烈情感, 性别认同, 同性恋, 幻想, 互动, 轻松幽默, 角色发展, 恋爱, 二次元, 强烈情绪, 调皮, 男女关系, 身体探索, 奇幻世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

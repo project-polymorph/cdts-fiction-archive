@@ -7,7 +7,7 @@ TXT 下载: [[变身]_Bikes_'R'_Us.docx]([变身]_Bikes_'R'_Us.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《Bikes 'R' Us》是一部涉及性别转换和跨性别主题的小说，讲述了一位男性骑自行车爱好者在购置一条特殊的骑行短裤后，经历了身体和身份上的转变。小说的开头，主人公描述了他骑自行车时所感受到的不适，特别是与男性生理特征相关的痛苦。在逛到一家名为'Bikes R Us'的店铺后，他被推销了一条神秘的骑行短裤，声称能解决他的骑行问题。一旦穿上短裤，主人公就在骑行过程中经历了性别的转换，最终变得拥有了女性的身体特征。小说深入探讨了角色内心的冲突及其对新身份的适应，同时也融入了一些与性和亲密关系相关的情节。通过使用“均码”短裤，主人公体验到女性身体的一些令人困惑又新奇的感觉，对自身的性别认同与生理变化进行了探索。这一转变不仅影响了他的身体感受，也对他与伴侣的关系造成了深刻的影响，故事中包含了一些性暗示与亲密的场景，让人思考性别与自我认同之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_Bikes_'R'_Us.docx]([变身]_Bikes_'R'_Us.docx)
 | Size            | 39114 bytes                           |
 | MD5             | 51e37922146cb235c7a7ab9e0a2e9608                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | J.C. Arby                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 骑行短裤, 自我探索, 身体变换, 女性视角, 心理冲突, 亲密关系, 性别认同, 性别角色, 特殊装备, 男性到女性, 二次元, 小说, 虚构                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_先进的时代（1）.doc]([皮物]_先进的时代（1�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章探讨了仿真型皮物的技术发展背景和社会影响。文中提到，2009年，迪克教授发表的《论两大攻克点》为仿真皮物的发展解决了技术性难题，随后各种仿真皮物如雨后春笋般涌现。尽管推广仿真皮物引发了一系列社会问题，例如消费者被骗和反对声音的增加，但消费者已逐渐适应并享受其带来的便利。文章通过敖一的视角，描述了他日常生活中的挣扎和对身份认同的探讨。敖一身为“黑户”，在找工作和社会交往中面临许多困难。故事中还包含了一段意外的经历，敖一与一位性感美女之间的对话揭示了他对性别认同的困惑，最终形成了一种对身份的重新认知。整个故事充满了对性别、社会和人际关系的深刻反思，使用了许多引人入胜的细节，以及对角色内心情感的深刻描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_先进的时代（1）.doc]([皮物]_先进的时代（1�
 | Size            | 42496 bytes                           |
 | MD5             | fcedc29e41d2be5d8e2832cd87985715                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 仿真皮物, 自我探索, 社会问题, 身份困惑, 科幻, 变身小说, 伪娘, 跨性别, 情感纠葛, 都市生活, 社会冲突, 青少年成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

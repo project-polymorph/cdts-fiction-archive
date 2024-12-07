@@ -7,7 +7,7 @@ TXT 下载: [[变身]_勇者弱体化封印_13.docx]([变身]_勇者弱体化封
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一个关于勇者艾伦的变身与冒险的幻想小说片段。故事以艾伦为主要角色，讲述了她在缺乏保护的状况下，面对即将到来的战争和内心感受的变化。艾伦作为一名曾经的勇者，最近发现城中的不安气息，预感到一场大战即将来临。文中描绘了政治纷争与权力角逐，特别是艾伦与她的女仆舒莉之间的密切信任关系，以及她们对外部威胁的恐惧与应对。文中还涉及了药物影响下身体的变化，以及艾伦逐步被迫进入更加复杂的社会角色，表现了性别与身份认同的主题。故事在艾伦被送往幼儿园工作的情节中，加深了对于角色变化的探讨，对比她的战士形象与照顾幼儿的角色，展示了她内心的挣扎和成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_勇者弱体化封印_13.docx]([变身]_勇者弱体化封
 | Size            | 37849 bytes                           |
 | MD5             | 60aa1f947376e5c6e51250419c79fcd1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 勇者, 少女化, 冒险, 魔法, 催眠, 身份认同, 性别转换, 幼儿园, 吸血鬼, 强奸, 魔族, 权力斗争, 自我探索, 成长, 强强对决                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

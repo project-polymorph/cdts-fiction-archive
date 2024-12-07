@@ -7,7 +7,9 @@ TXT 下载: [[改造]_假如亚当重锤的脑子被塞进了丽贝卡的义体�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇以赛博朋克为背景的变身小说，讲述了角色v接受了一项由传奇女黑客露西发出的任务，致力于对亚当重锤进行复仇的故事。故事深入探讨了角色的性别角色与自我认知的冲突，特定情境下的权力与控制的转移。文件中描绘了v对亚当重锤实施的戏剧性复仇，最后使他变回有生物特征的女性形象，具体描写了露西如何利用高科技义体重塑了亚当的身体与身份。
+
+文本中有大量对角色心理状态的细腻描绘，例如在v逐一摧毁亚当重锤的义体后，语言能力被封闭的亚当面临自己变成可爱的萝莉的屈辱感。这种设定使读者在理解角色的心理变化之余，感受到故事中的性别与身份流动性的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_假如亚当重锤的脑子被塞进了丽贝卡的义体�
 | Size            | 28803 bytes                           |
 | MD5             | a3baf2dd64c110bb9f0fe5b629e4047f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 赛博朋克, 变身小说, 性别认同, 复仇, 角色冲突, 身体改造, 跨性别, 义体, 女性主义, 悬疑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

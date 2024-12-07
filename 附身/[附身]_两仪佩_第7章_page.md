@@ -7,7 +7,7 @@ TXT 下载: [[附身]_两仪佩_第7章.docx]([附身]_两仪佩_第7章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节来自伪娘相关的小说《两仪佩》第7章，讲述了女主角李梓与她的同伴谈青之间关于一个名为姜俊的角色的危机对话。谈青接到的新任务是让姜俊消失，李梓内心矛盾重重，无法接受这样的命令。此章节通过描写角色之间的心理斗争及环境氛围，展现了李梓对姜俊的隐秘关切以及她在神秘组织中生存的窘迫。谈青的神秘性格与李梓的脆弱形成鲜明对比，引发了复杂的情感与情节发展。故事发生在一个宽广的江边，江水滔滔，象征着不安与流动的命运。整体语言富有张力，情节发展引人入胜，值得探讨角色的内心与外部压力之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_两仪佩_第7章.docx]([附身]_两仪佩_第7章.docx)
 | Size            | 25074 bytes                           |
 | MD5             | e539106d5cb643ab7aac50b6ff893859                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 变身, 跨性别, 暗杀, 心理战, 江边, 神秘组织, 命令, 失踪, 情感纠葛, 自我探索, 权力斗争, 校园, 身份认同, 双重身份, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

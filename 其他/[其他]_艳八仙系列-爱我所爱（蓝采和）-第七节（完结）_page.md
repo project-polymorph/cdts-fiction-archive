@@ -7,7 +7,9 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第七节（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是来自于多元性别中文数字档案馆的作品《艳八仙系列-爱我所爱（蓝采和）-第七节（完结）》。文中的主要情节围绕角色在性与爱的复杂关系中进行探索，描述了一种超越传统的性别认同和亲密关系。角色间的情感与身体交互交织，形成了一种独特的家庭聚合体，展现了对性生活的探索和对爱的执着。
+
+在故事最后，角色们通过一场情感交融的性爱，体会到了爱的伟大超越了肉体的欲望。文中描写了角色们如何通力合作、互相帮助，最终在一种融洽的氛围中确立了一个全新的性信仰，建立在性与爱的结合之上。作为完结节，文中提到了对家庭关系的欣赏和对未来的展望，展现了一种开放的态度与对家庭结构的重新定义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第七节（�
 | Size            | 19016 bytes                           |
 | MD5             | f8ed7908f34396c8b5c280bef87b954b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | znznzn1984                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 家族关系, 跨性别, 性爱探索, 多元性别, 情感, 家庭聚合体, 宗教信仰, 性别认同, 亲密关系, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

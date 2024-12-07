@@ -7,7 +7,7 @@ TXT 下载: [[变身]_人类发展管理所的工作记录-丁真篇(完).docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是有关一位名为丁真的青年在被人类发展管理所秘密拘留和改造过程的小说。故事开篇即描绘了丁真在监视器下的挣扎与愤怒，他被绑在拘束椅上，被迫面对称为人类发展管理所的机构的威迫。该机构声称他们的使命是推动人类的进步，并认为丁真的存在会对社会价值观造成不利影响。经过一段对话与心理斗争，丁真被迫接受了该机构的条件并最终被施以基因改造，转变为女性，形成全新身份“丁珍”。最后记载了社会上对丁真隐退声明的反响，以及他变身后与粉丝之间的情感互动。文本涉及性别认同、自我探索、变身、以及对社会期望的反思等主题，深入探讨了个人身份与社会角色之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_人类发展管理所的工作记录-丁真篇(完).docx](
 | Size            | 21428 bytes                           |
 | MD5             | 496d55edca47a46333d68d1b25caf527                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 自我探索, 基因改造, 女性转变, 社会价值观, 隐退声明, 心理斗争, 科幻, 青春, 情感互动, 二次元, 女性化, 身份危机, 病毒纳米机器人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

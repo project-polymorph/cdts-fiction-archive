@@ -7,7 +7,7 @@ TXT 下载: [[变身]_蝶仙_第二章.doc]([变身]_蝶仙_第二章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节讲述了角色玉蝶在经历性别转换后所面临的内心冲突与外部挑战。故事开头，玉蝶享受着现在以女性身份所带来的便利，然而她对于系统的操控感到局促，且对变化后的身份感到难以适应。随着剧情推进，玉蝶发现她的饮食被下迷药，进行自我保卫与反击，表现出勇敢与智慧。她虽是一个看似年幼的少女，实则内心隐忍，处事果断，并积极面对周遭环境的挑战。与此同时，故事也探讨了性别认同、自我认知等主题，展现出角色的复杂情感与决断。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_蝶仙_第二章.doc]([变身]_蝶仙_第二章.doc)
 | Size            | 44544 bytes                           |
 | MD5             | 46b54c7ae28011247953b7a2d9dcc303                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 自我探索, 性别认同, 女性角色, 勇敢, 武侠风, 迷药, 反击, 成长, 武功, 神秘系统, 心理斗争, 爱情, 奇幻冒险, 女性力量, 逆袭, 叛逆, 压寨夫人, 强盗, 奇幻世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

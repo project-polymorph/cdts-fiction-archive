@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_正义与爱.docx]([皮物]_正义与爱.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《正义与爱》是一篇关于伪娘 TS 变身与跨性别的小说，讲述了一个外表冷酷的女性角色贾子珍的故事。她身穿黑色风衣，性格内向，内心藏匿着许多秘密，展现出一种冷淡的形象。故事的开头描绘了她的外貌与服装，特别是她那不露皮肤的穿着理念，展现出一种神秘的气质。
+
+随着情节发展，贾子珍遇到了一位受到攻击的女性。在危险时刻，她毫不犹豫地出手相助，以力量打击罪犯，展现出其强大的内心与深藏的温柔。面对女生的恐惧，贾子珍用柔和的声音安慰着她，显示了她不为人知的一面。同时，文件中还涉及了关于贾子珍身份的渲染，比如有传言称她是改造人，引发了更多对她背景的好奇。
+
+此文采用了对话与叙述相结合的方式，构建了一种紧张的氛围，描绘了复杂的人性与心理。在处理冲突的过程中，故事也揭示了社会问题，尤其是对女性安全的关注，通过贾子珍的反应反映了她对弱者的保护意识与对社会不公的抗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_正义与爱.docx]([皮物]_正义与爱.docx)
 | Size            | 31138 bytes                           |
 | MD5             | f4a1250c1b07a38a6ec98e9107b49bde                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 冷酷美人, 女性英雄, 性别认同, 社会问题, 保护弱者, 暴力反抗, 都市奇幻, 黑色风衣, 温柔与强大, 内心探索, 改造人, 角色冲突, 深红色嘴唇                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

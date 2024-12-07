@@ -7,7 +7,7 @@ TXT 下载: [[变性]_女仆交易_6.doc]([变性]_女仆交易_6.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于伪娘角色与跨性别体验的小说，讲述了主人公丽莎·洛夫莱斯的经历。故事的开端，丽莎被一位名为富克斯的女性秘书带上了黑色林肯轿车，准备去见B先生。故事通过对话展现了丽莎的身份转换，她被迫接受她的性别认同，与此同时也反映了社会对性别的刻板印象与偏见。富克斯的审视与强制让故事越加紧张，包含了丽莎的自我探索与认同的挣扎。小说中描绘出丽莎被迫作为一位女仆的角色，她的经历不仅是性别的转换，也涉及了权力关系、性别角色的挑战，以及在性别认同与社会期待间的扑朔迷离。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_女仆交易_6.doc]([变性]_女仆交易_6.doc)
 | Size            | 49664 bytes                           |
 | MD5             | 8606c56541a2e7af787b1c1d255455cc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lisa Lovelace                               |
+| Region          | 未知                               |
+| Date            | 2019-07-13                                 |
+| Tags            | 性转, 伪娘, 跨性别, 女仆, 强迫, 自我探索, 权力关系, 性别认同, 性别角色, 女性视角, 变嫁, 调教, 逆后宫, 情感纠葛, 性压迫, 工薪阶层                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

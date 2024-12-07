@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_水鬼的替身.docx]([皮物]_水鬼的替身.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于大学美术学院的四位学生的故事，包含元素如探险、恐怖以及青春的情感关系。故事中的角色柔欣、依宁、明楠和梓，前往乡村进行写生，却在水库附近经历了一系列诡异的事件。故事开始时，四个学生在长途汽车上交流，特别是柔欣和明楠之间的亲密互动形成了一个轻松的氛围。然而，当他们到达目的地并开始游玩时，故事的基调转向了恐怖。依宁经历了噩梦，使得她对即将进行的探险产生了恐惧。虽然村民警告他们水库有诅咒，但出于好奇和年轻人的无畏精神，他们还是决定去探索。在水库边，他们享受着美丽的自然，却不料迷雾逐渐笼罩，让人感到不安。依宁在水里时遭遇神秘生物的攻击，情节让人感到恐怖和压迫，这是部融合青葱岁月和恐怖元素的短篇小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_水鬼的替身.docx]([皮物]_水鬼的替身.docx)
 | Size            | 27917 bytes                           |
 | MD5             | 8c210decc5db32536b50f8a32b5394a3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 恐怖, 青春, 探险, 大学生活, 水鬼, 美术学院, 性别探讨, 跨性别, 性别认同, 自我探索, 水库, 迷雾, 神秘生物, 人际关系, 幽灵故事, 惊悚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

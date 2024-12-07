@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——梦游（一、二）独家发布.doc]([附�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于男主角丁一的特殊经历的小说，围绕着他的‘梦游’状态落笔。故事中，丁一每天会经历一种状态，使他在清晨醒来时产生重重的错觉，仿佛经历了日常的起床、洗漱、用餐等行为。虽然他的意识并未真正觉醒，却能自由观察周围的事物，甚至对隔壁新搬来的女孩产生了好奇心。在“梦游”中，丁一幻想着窥视女孩的生活及其身体，而这一切都在他脑中形成了生动的幻象。不久之后，故事情节开始偏向于一种意外的转折，随之而来的则是对生理性别和心理性别的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——梦游（一、二）独家发布.doc]([附�
 | Size            | 37376 bytes                           |
 | MD5             | bf9294f90730625b9c21b45dda2785f2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 梦游, 性别转换, 男性视角, 幻觉, 偷窥, 青春期, 自我探索, 都市生活, 性别认同, 幻想, 隐私, 心理冲突, 跨性别主题, 士绅化, 性别表现, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

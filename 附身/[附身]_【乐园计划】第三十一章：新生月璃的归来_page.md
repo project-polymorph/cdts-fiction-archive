@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【乐园计划】第三十一章：新生月璃的归来.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为多元性别主题小说的第三十一章，标题为“新生月璃的归来”。故事围绕角色月璃的回归展开， 月璃在身体和能力上经历了重大变化，她现在以一种妖异且性感的形象出现，逐渐发展出一种与其原本角色形成明显对比的淫荡特质。通过与其他角色的互动，情节展示了一系列充满幻想和色情的场景，包括对她身体的调戏，使用魔法与战术进行社交操控，以及对不同种族的男性与女性的欲望描写。语句描绘详细，人物之间的对话充满暗示，充满了同性与异性的情欲纠葛。故事不仅强调了角色的身体变化，同时也探讨了性别认同和自我探索的更深层含义。文本中包含有争议和限制级的内容，涉及调教、淫荡、幻想生物等主题，适合于相关性别研究或文学分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【乐园计划】第三十一章：新生月璃的归来.
 | Size            | 23002 bytes                           |
 | MD5             | 9666c215ed4feefdb8c74ff0fea22516                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 伪娘, 性转, 魔法, 妖异, 新生月璃, 幻想, 性爱, 女体化, 自我探索, 欲望, 调戏, 角色扮演, 情感纠葛, 魔物, 幽默, 恶魔                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

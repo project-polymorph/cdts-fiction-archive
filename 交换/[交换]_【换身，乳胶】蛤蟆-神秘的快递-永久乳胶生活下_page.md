@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【换身，乳胶】蛤蟆-神秘的快递-永久乳胶�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一篇关于角色转换和跨性别主题的小说，作者为蛤蟆王子。故事围绕一对夫妻的生活方式展开，其中一方通过复杂的技术手段实现了独特的身份转变，具体内容涉及性别转变与身体改造。故事中通过角色的内心独白与情感纠葛，展现了他们对这种新生活的适应和挣扎，包括角色的身体感受以及心理冲突。小说描绘了反转的性别角色——一位男性角色经历变成为女性的过程，另一方面则是女性角色顶着男性的身份和身体。这一过程不仅充满了生理层面的描写，同时也探索了性别认同及其对个人身份的影响。丰富的细节描绘了角色在乳胶皮肤封闭状态下的心理体验和身体变化，如“全身的肌肤都被薄薄又紧绷的乳胶密封挤压着”等情节，以及涉及机械贞操带的使用，进一步增强了作品的异化效果与趣味性。整篇小说对于性别及身体的探讨带有强烈的科幻色彩，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【换身，乳胶】蛤蟆-神秘的快递-永久乳胶�
 | Size            | 93913 bytes                           |
 | MD5             | d473a55ca2636cceefafab83a37537f7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 蛤蟆王子                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 猫娘, 角色转换, 身体改造, 乳胶, 性别认同, 自我探索, 奇幻, 科幻, 变身, 机械贞操带, 非人化, 情感冲突, 隐秘身份, 奇异生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

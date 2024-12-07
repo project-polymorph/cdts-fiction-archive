@@ -7,7 +7,7 @@ TXT 下载: [[附身]_我亲爱的妈妈——主角篇修改版.docx]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档属于多元性别中文数字档案馆的一部分，涉及内容为伪娘与跨性别相关小说。《我亲爱的妈妈——主角篇修改版》讲述了17岁主人公小张与母亲之间复杂的关系，故事设定在家庭环境中，主角性格胆小且沉迷于成人内容，与朋友小李的互动也是情节发展的重要因素。本文通过角色的内心独白与事件发展展现了小张对自身性别与性欲的探索。文中描写了小张意淫母亲及对母亲身体的感知，和随后意外目睹母亲的淫荡表现，进而引发了一系列心理与情感冲突。母亲徐静蕾虽带有传统的慈爱形象，却在情节中展现出另一面，二者之间的关系体现了禁忌与认同的张力。整个故事探讨了性别认同与家庭动态，包含了色情内容的描写，适合进行相关的科学研究与学习。同时，文中存在一些未被清晰识别的字符和格式，可能是资料传输中的乱码。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_我亲爱的妈妈——主角篇修改版.docx]([附身]_
 | Size            | 22276 bytes                           |
 | MD5             | 1f15e9eec2822b50155f3d9dd0d0f93b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 家庭关系, 成人内容, 自我探索, 性别认同, 心理冲突, 禁忌, 情感纠葛, 青春期, 伦理问题, 母子关系, 性别角色, 二次元, 故事情节, 情欲, 情景描写, 内心独白                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

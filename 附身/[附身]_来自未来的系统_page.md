@@ -7,7 +7,9 @@ TXT 下载: [[附身]_来自未来的系统.doc]([附身]_来自未来的系统.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个设定在公元2333年的科幻小说，讲述了主人公松冈宗次使用时空传送机回到公元2020年以实现自己的愿望：转换性别。松冈宗次是个男性，热爱动漫、游戏，尤其对性转换、女体化等情节情有独钟。为了解决日益减少的ACG资源，他决定通过科技手段到过去创造相应的虚拟资源。故事开篇描述了他如何设定时间与地点，并利用传送机的科技实现性别转换，探索其自我认知和身份的主题。在他穿越到2020年的蒙古后，选择了一个目标人物并准备展开完整的游戏体验。
+
+随着情节发展，主人公新堂正男正经历着人生的低谷，因赌博欠债而与家人失去联系。在与一个神秘的系统联系后，他接受了一项游戏邀请，参与一个具有性别转换和身份认同探索的游戏。文件详细描述了他的转变过程以及游戏设置，同样涉及深刻的心理变化和情感冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_来自未来的系统.doc]([附身]_来自未来的系统.
 | Size            | 68608 bytes                           |
 | MD5             | 4466ed8cc6c27f5522fb3ab3d1058d88                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 科幻, 时空旅行, 自我认同, 虚拟现实, 心理探索, 游戏, 动漫, 女体化, 机械师, 未来科技, 变身, 新手任务, 未来世界, 人工智能, 身份认同, 男性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]柔弱大学生的雌堕_IV_家庭篇（上）.doc]([变装
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《柔弱大学生的雌堕 IV 家庭篇（上）》描绘了一位男大学生在回国期间对自己身份和欲望的摇摆。故事开始时，主人公怀念与阿布的感情，并反思自己过去与晨哥的关系。在回国的旅途中，他决定暂时收起女装，试图过上正常的生活，但内心的性别认同及对女装的渴望让他感到矛盾。在地铁上，他与一位小男生阿树的互动充满了暧昧和性暗示，男生因仰慕而偷偷观察他，并逐渐被其魅力所吸引。两人在拥挤的车厢中身体紧密接触，在情感与欲望的交织中，主人公引导阿树谈论对感情和性的认知，同时暗示了他本身的性别秘密。文中细腻地刻画了角色的心理变化，以及对性别和亲密关系的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]柔弱大学生的雌堕_IV_家庭篇（上）.doc]([变装
 | Size            | 47616 bytes                           |
 | MD5             | a89109b9a8c3c9ec7937d0ac2f7f77dd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 跨性别, 青春校园, 自我探索, 情感纠葛, 同性恋, 性意识, 性别认同, 弱男, 男女性关系, 暧昧关系, 原始欲望, 家庭生活, 秘密                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

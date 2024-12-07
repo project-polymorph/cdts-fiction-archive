@@ -7,7 +7,7 @@ TXT 下载: [[变身]_維納斯替身公司.docx]([变身]_維納斯替身公司
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《維納斯替身公司》是一篇关于角色变身与替身工作的小说。故事围绕一位名为小陳的男性角色，他被要求代替知名女星李若亞出席多项活动。小陳在电话会议后与李若亞的经纪人和律师谈判，心中对这种替代工作充满了不安与好奇。他了解到李若亞希望提前解约，而她的经纪公司对此采取了一种双赢的解决方案：由小陳代替她出席活动，以减少可能的负面影响。在接下来的工作中，小陳体验到了充当艺人的辛苦和压力，同时，也遭遇了同伴的怀疑和细致的观察，但他通过努力适应了角色。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_維納斯替身公司.docx]([变身]_維納斯替身公司
 | Size            | 36133 bytes                           |
 | MD5             | 97fbb447139674d71d7b6bde4cdb6640                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 替身, 角色扮演, 电视剧, 艺人代言, 自我探索, 性别认同, 演艺圈, 商业合作, 法律纠纷, 娱乐行业, 女性化, 男娘, 强烈情感, 个人成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

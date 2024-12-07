@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_美人鱼2.docx]([皮物]_美人鱼2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一段关于美人鱼角色莉丝的变身过程和舞台表演的奇幻经历。文本详细描绘了莉丝穿着华丽的连体衣服的情形，这件衣物作为舞台服装，设计独特，包含了紧身的执迷细节，映衬出角色的性感与美丽。文中提到她被助理抱入舞台和水槽，逐渐充满水的过程中，她经历了生理上的刺激和心理上的紧张。在公众面前，她不得不保持镇定，尽量可爱地打招呼，尽管内部感受到的不安和刺激交织。过程中的细节刻画了角色的感受，从水下的束缚感，到被食物覆盖的考验，充分展现了变身与性感的主题。这些情节探讨了性别认同与身体形象问题，同时也涉及到观众的欣赏与商业化展示的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_美人鱼2.docx]([皮物]_美人鱼2.docx)
 | Size            | 17790 bytes                           |
 | MD5             | b19f5fb1688c73f496a4c19ec3627c5a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 美人鱼, 变身小说, 性别转换, 舞台表演, 性感服装, 水下表演, 自我认同, 刺激体验, 餐饮表演, 奇幻故事, 助理角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

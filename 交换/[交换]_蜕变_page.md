@@ -7,7 +7,7 @@ TXT 下载: [[交换]_蜕变.docx]([交换]_蜕变.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《交换励志百合文》，是一个围绕性别身份转换与青少年成长的故事，讲述了男孩陆风的奇幻经历。在故事开始时，陆风是一个初中生，面临家庭困难与学业压力。他在菜市场买菜后回到家，和父亲的矛盾显现出家庭的困境。他与女友秦欣的恋情似乎给了他些许希望，然而就在一个清晨，陆风惊奇地发现自己变成了同班女生林佳的身体。故事通过陆风的视角描绘了他在新的性别和身份下的体验，以及与周围人际关系的碰撞。陆风的自我认知、对女性身份的错愕和对待亲密关系的困惑，都展开了深层的探讨。随着故事的发展，陆风意识到他与林佳其实在某种程度上互换了身体，而他必须找到解决这一困局的方法，才能回归他们各自的生活。这部作品从成长、身份认同以及对爱情的真挚刻画出发，让我们看到了青少年在转变中面临的挑战与自我探索的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_蜕变.docx]([交换]_蜕变.docx)
 | Size            | 71201 bytes                           |
 | MD5             | 5ee744e17cf5e1c759263fbe1ec065f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 青少年成长, 百合, 换身, 身份认同, 自我探索, 恋爱, 家庭关系, 伪娘, 变身, 励志, 校园生活, 青春, 友情, 成长烦恼, 情感冲突, 学业压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

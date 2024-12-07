@@ -7,7 +7,7 @@ TXT 下载: [[变身]_想被侵犯的勇者６．巨大史萊姆是，很舒服�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含了一篇以变身为题材的小说，主要围绕一个勇者与巨大史莱姆之间的互动展开。故事中，勇者到达了一个迷宫，并与史莱姆进行了接触。文中详细描绘了史莱姆的外观及其特性，并描述了勇者在与史莱姆接触过程中产生的复杂感受，其中包括舒适与窒息的矛盾体验。随着情节的发展，勇者感受到了史莱姆对身体的影响，包括被包裹、压迫及感觉到窒息等心理和身体上的双重体验。该小说在言辞上涉及了一些关于性侵犯和快感的敏感话题，表现了角色在性别和自我认知上的探索。整体故事使用了夸张的奇幻元素和细腻的情感描写，引发读者对性别与认同等问题的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_想被侵犯的勇者６．巨大史萊姆是，很舒服�
 | Size            | 24736 bytes                           |
 | MD5             | 0bdb8d3dd87859ee7813e00c218694b6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 史莱姆, 性转, 奇幻, 冒险, 自我认知, 快感, 窒息, 性侵犯, 勇者, 二次元, 性别认同, 异世界, 幻想, 虚拟现实, 魔法, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

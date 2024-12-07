@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魔神之眼_第一章.doc]([皮物]_魔神之眼_第一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为系列小说《魔神之眼》的第一章，设定背景为s市，这里是华冬共和国的首都，同时也是著名的安全城市。故事的主角林峰拥有一位魅魔伙伴娜塔莎，她可以通过魔神之眼施展强大的伪装术。小说通过细腻的描写，展示了林峰与娜塔莎在街上行走时引发的众多路人的注目，尤其是娜塔莎那魅惑的外表。同时，文件描写了林峰与娜塔莎的身体间有着特殊的联系，带来了强烈的快感，交织着性别认同的问题与藤蔓般的情感纠葛。情节中涉及了惊人的视觉和触性感受以及公众场合下的尴尬和困扰。文件中包含大量明显的性暗示与幻想内容，一些场景显露了身体的再生与性角色的转换，引发对个人身份与欲望的深刻探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魔神之眼_第一章.doc]([皮物]_魔神之眼_第一�
 | Size            | 59392 bytes                           |
 | MD5             | bc84571217bec24ad80269ca22cc2fb1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魅魔, 变身, 性别认同, 自我探索, 跨性别, JK制服, 魔法, 社会观察, 欲望, 性幻想, 都市, 情侣                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

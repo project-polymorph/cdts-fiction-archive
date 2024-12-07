@@ -7,7 +7,7 @@ TXT 下载: [[交换]_用交换APP成为风俗小姐（交換アプリで風俗�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档内容是一部关于使用交换应用程序进行性别角色转换与体验的小说。故事的主人公相川裕一通过一个名为‘部分交换应用程序’的电子工具，与其他角色之间进行身体交换，体会对方的生理特性和性别带来的感受。小说详细描绘了相川裕一在应用程序的指导下对不同女性角色身体特征的探索和感受，以及由此而来的自我认同的变化。这个过程不仅包括性别的物理交换，还涉及到了与其他角色的互动、内心的冲突和感官的觉醒。小说通过生动的语言和细致的描写，展现了主人公在这个新体验中所经历的兴奋、羞耻和快感，同时还引发了对性别认同的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_用交换APP成为风俗小姐（交換アプリで風俗�
 | Size            | 50176 bytes                           |
 | MD5             | 2c73be60caeb136d8fe443b5ee65881a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 女性认同, 性别角色, 青春, 都市幻想, 自我探索, 心理冲突, 生理体验, 男性视角, 应用程序, 性别交换, 触感体验, 禁忌, 奇幻, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

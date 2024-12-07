@@ -7,7 +7,7 @@ TXT 下载: [[交换]_道殇(12).docx]([交换]_道殇(12).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇涉及性别转变和跨性别主题的小说，讲述了一位道家女弟子在森林中遭遇黑袍人的战斗，随后经历了身体替换的奇幻事件。故事描绘了角色从男性身体转变为女性身体后的心理和身体感受，以及随之而来的性启蒙和自我认同的探索。文件内容丰富，包含战斗、阴谋、变身以及性别认同的复杂互动。女主角在完成身体替换后，发觉自己的新身份并开启了一段对自身性别和欲望的探索旅程，尽管内容包含了一些限制级和性暗示的情节，但整体围绕着角色的成长和自我认知展开。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_道殇(12).docx]([交换]_道殇(12).docx)
 | Size            | 41621 bytes                           |
 | MD5             | 6a6342a344267f4e804b15ad4dd2001e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 跨性别, 自我探索, 欲望, 道家, 阴谋, 战斗, 奇幻, 女性认同, 女弟子, 身体替换, 禁忌关系, 二次元, 魔法, 心理斗争, 角色成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

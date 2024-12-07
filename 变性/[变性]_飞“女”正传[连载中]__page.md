@@ -7,7 +7,7 @@ TXT 下载: [[变性]_飞“女”正传[连载中]_.docx]([变性]_飞“女”
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由作者Michele Nylons创作的一部连载中跨性别小说，标题为"飞“女”正传"。故事围绕主角卡梅伦展开，他是机车犯罪组织"野兽俱乐部"的成员，私底下却是一个变装爱好者。被组织发现后，他受到非人的虐待并被迫在沙漠中等死。然而，联邦调查局意外地出手相救，卡梅伦在经历重生后化身为女角色凯茜。小说通过凯茜的眼睛描绘了她在机车俱乐部中的痛苦和挣扎，以及后续计划摧毁该组织的决心。故事情节包含了性别认同、权力压迫和自我救赎的主题，生动地展示了角色内心的冲突和对自由的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_飞“女”正传[连载中]_.docx]([变性]_飞“女”
 | Size            | 35267 bytes                           |
 | MD5             | 56718e8e2c5ab6a40597321d5819422a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Michele Nylons                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变装, 性别认同, 虐待, 联邦调查局, 重生, 机车团伙, 自我探索, 权力压迫, 女性形象, 欲望, 生存斗争, 心理冲突, 社群生活, 悲剧, 冒险, 反社会, 心理健康, 女性力量, 身份危机                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

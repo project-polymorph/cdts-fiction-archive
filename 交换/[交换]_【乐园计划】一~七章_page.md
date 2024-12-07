@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【乐园计划】一~七章.docx]([交换]_【乐园计�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《乐园计划》的前七章小说，主要讲述了两个萝莉角色香草与星夜的故事背景。故事设定在一个魔法世界，香草是一位具有强大火系魔法的天才少女，而星夜作为她的妹妹，对魔法充满好奇但面临母亲的严厉教导。小说开始于训练场中，香草教导星夜如何使用火系魔法，但因母亲的介入而结束了她们的逃课。文中展现了姐妹之间的互动与情感，以及香草因逃课而受到教训的情节。后续则是对魔法师协会与恶魔之间矛盾的背景介绍，暗示了之后可能发生的冲突和冒险。小说涉及较多魔法元素及含有一些轻微的成人情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【乐园计划】一~七章.docx]([交换]_【乐园计�
 | Size            | 59290 bytes                           |
 | MD5             | eb063c9fcd174b14f9e84ac1d70e64e8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 萝莉, 魔法, 姐妹情, 逃课, 冒险, 火系魔法, 恶魔, 魔法师协会, 元素魔法, 自我认同, 奇幻, TSF, 校园, 魔法世界, 友情, 纯爱, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

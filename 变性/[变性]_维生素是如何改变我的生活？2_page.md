@@ -7,7 +7,7 @@ TXT 下载: [[变性]_维生素是如何改变我的生活？2.doc]([变性]_维
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档名为《维生素是如何改变我的生活？2》，由作者Rachael Free撰写，翻译者为Lisa，发表于2007年7月21日。文中讲述了主角维克多的变身经历。故事开始于维克多觉察到自己身体的微妙变化，因服用过量维生素而导致身体逐渐女性化，发展出女性特征，如乳房和曲线。好朋友曼迪在得知他的变化后，陪伴他去看医生，医生告知他由于激素失衡，已经无法逆转这些变化，称之为化学阉割。此后，维克多在曼迪的支持下，开始逐步接受自己的新身份，并决定改名为维多利亚，感受到前所未有的女性生活。故事深入探讨了性别认同、自我探索以及伴侣关系等主题，展现了维克多在变性过程中的情感挣扎与成长，同时也包含了一些强烈的亲密关系与性方面的描写，体现出复杂的心理与情感变化。文中有多处对身体的细致描写，涉及医疗过程和自我认知，传达出对身体变化的无奈与社交适应的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_维生素是如何改变我的生活？2.doc]([变性]_维
 | Size            | 49664 bytes                           |
 | MD5             | 4fbe79a8e72b40d3c0046e6cfc8ad3b1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rachael Free                               |
+| Region          | 未知                               |
+| Date            | 2007-07-21                                 |
+| Tags            | 性别认同, 自我探索, 变性, 跨性别, 女性化, 维他命, 亲密关系, 医务检查, 情感挣扎, 生活转变, 性别转换, 情感支持, 角色转变, 二次元, 女同性恋, 变嫁, 调教, 恋爱, 成人内容, 异世界, 梦幻旅程                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

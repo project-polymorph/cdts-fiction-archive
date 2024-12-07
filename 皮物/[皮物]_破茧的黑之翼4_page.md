@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_破茧的黑之翼4.doc]([皮物]_破茧的黑之翼4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为小说《破茧的黑之翼4》的部分章节，背景设定在一个名为伦兰加德的始祖之国，该国虽地处人类国家的中心位置，却因其独特的宗教地位而存在。故事围绕教皇克里斯汀及三位主教法特、普兰特与瓦格兰展开，讨论了克里斯汀未能尽职的教皇职责，以及他与女儿艾尔薇的关系。文中揭示了教皇的权力被大主教议会架空的现实，并引入了昆汀法师这一角色，他作为魔法师被邀请来指导艾尔薇学习魔法。小说中也穿插了对权力与欲望、信仰与骗局以及生理转换等主题的探讨。在角色们之间的对话中，充满了对现实与幻想之间的碰撞与思考，尤其是法特对于魔法存在的怀疑表达了对当下社会的无奈与批判。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_破茧的黑之翼4.doc]([皮物]_破茧的黑之翼4.doc)
 | Size            | 40448 bytes                           |
 | MD5             | 393ccd9dfef681e5751870d7aab8f42c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 教皇, 宗教, 变身, 权力斗争, 自我认知, 艾尔薇, 英勇, 阴影, 情感纠缠, 幻想, 纯爱, 强权, 信仰, 冒险, 变嫁, 二次元, 性别认同, 魔族, 女儿与父亲, 社会批判                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

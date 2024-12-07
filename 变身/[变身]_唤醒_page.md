@@ -7,7 +7,7 @@ TXT 下载: [[变身]_唤醒.docx]([变身]_唤醒.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部关于变身和性别转换主题的小说，讲述了主角依依在长时间的身体与自我身份认知冲突中的迷失与探索。故事开始于依依刚结束游泳课，在更衣室内与同学苏小颖相遇。随着情节的发展，依依在身体和性别认同方面经历了剧烈的变化，她惊异于自己作为女孩的形象，同时面对内心的恐惧与抗拒。文中描绘了许多青春少女的细腻场景，尤其是泳衣的束缚、身体的性感和同学之间的亲密互动。随着故事深入，依依在渐渐恢复记忆的过程中，意识到这场变身不仅仅是身体的变化，还有对身份的重新解读。在后续的情节中，依依与同学间的互动、外部威胁的出现，以及自身的强烈反应，构成了对于性别认同和社会期待的深刻探索。最终，故事回归到对人类命运的反思，展现了在细菌疫情下人类社会的脆弱和女性的逆袭。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_唤醒.docx]([变身]_唤醒.docx)
 | Size            | 57905 bytes                           |
 | MD5             | ffc97b9ad7d48022dbe2f6dee06267d2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 青春, 自我探索, 身体转换, 伪娘, 强吻, 校园生活, 少女情感, 性别焦虑, 科幻, 灾难, 情感冲突, 暴力, 身份危机, 女性力量                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

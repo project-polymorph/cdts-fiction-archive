@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮灭·解_前夜祭.docx]([皮物]_皮灭·解_前夜祭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《皮灭·解 前夜祭》的小说由Rockx3创作，故事围绕一个人探索一座无人岛上的古老石碑展开。情节设置在黑夜和白天交错的时刻，主人公随着一条小溪而行，试图寻找与石碑上的碑文相关的至宝。书中描述了主人公对碑文的逐句解析，以及在寻找宝藏过程中所遇到的各种奇妙场景，例如雕塑群和地下室。尤其令人印象深刻的是，故事中涉猎到的角色可通过一种名为“肢离”的皮物套装改变外观，但难以复制内部器官，展现了一种对身份的探索和变换的主题。此外，地下室中积存了各式武器与人皮，透过镜子的反射，更加突显出一种恐怖而诡异的氛围。整篇作品包含了一定的限制级内容，尤其在变身及身份探索方面，其中较具争议的情节亦可供研究使用。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮灭·解_前夜祭.docx]([皮物]_皮灭·解_前夜祭
 | Size            | 22072 bytes                           |
 | MD5             | ae9356a5f8cc1755c311084a7bced8fb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rockx3                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 科幻, 恐怖, 身份探寻, 古代遗迹, 武器, 皮物, 探索, 冒险, 神秘, 自我认知, 成人内容, 奇幻, 地下室                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

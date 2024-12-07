@@ -7,7 +7,9 @@ TXT 下载: [[交换]_推理的旋律(二回之起始).docx]([交换]_推理的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说围绕主角由志的故事展开，他是在一次名为“鬼神游戏”的活动中，意外获得了巨大的变化。由志原本是一名男性侦探，最让他没想到的是，游戏给予了他一个神秘的奖励——他变成了一位性感卓越的女性诗织。这次突然的性别转换让由志感到震惊，他开始在诗织的身份中探索自己的新生活，尽管这个身份与他之前的生活截然不同。小说中，他在昏暗寂静的停车场中思考自己的处境，展现出主角内心的挣扎与冲突。在变身之后，他面对的不仅是外界的挑战，还有内心的认同问题和自我探索。
+
+随着故事的发展，由志不得不面对他作为诗织的新生活和一个富豪李大的关系，这段关系充满了复杂的情感与误解。他利用诗织的记忆，伪装成诗织与李大进行交往，同时对李大的感情表现出愧疚和无奈。最终，当他得知自己在现实生活中早已去世时，内心的悲哀愈发加强。小说通过由志与李大的互动，展现了复杂的人际关系与情感交织，同时也探讨了性别认同与自我认知的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_推理的旋律(二回之起始).docx]([交换]_推理的�
 | Size            | 43370 bytes                           |
 | MD5             | f522d2b34c767baa87ace8159cbe2fe4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 侦探小说, 心理探索, 自我认同, 美丽女孩, 悬疑, 情感纠葛, 现代社会, 游戏元素, 女性视角, 都市小说, 爱情, 神秘事件, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

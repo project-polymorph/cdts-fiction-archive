@@ -7,7 +7,7 @@ TXT 下载: [[附身]_蜀山炼器师_第三章_至_第五章.docx]([附身]_蜀
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件描述了一个名为《蜀山炼器师》的三到五章的故事，主要讲述了角色之间复杂的人际关系与性别身份的转变。在故事的开头，描述了一辆马车和三个美艳女子的出现，为首者名叫黄恋香，她的肉身是蜀山女弟子，和粉衣及绿衣的女子一同冲向紫云观。黄恋香通过一段对话揭示了她的身份以及她的复杂背景，表明她在正魔大战中的经历以及夺舍他人的过程。接着，黄恋香的徒弟赵琳成为了故事的另一中心，赵琳在梦幻与现实之间挣扎，经历了从男性身份到女性身份的转变，并与黄恋香发生了复杂而充满暗示的关系。整部作品不仅涉及性别与身份的探索，还描绘了权力的斗争与情感的纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_蜀山炼器师_第三章_至_第五章.docx]([附身]_蜀
 | Size            | 31691 bytes                           |
 | MD5             | dfba39097ccabebbc0ad616eb52de335                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 蜀山, 变身, 跨性别, 夺舍, 自我探索, 纯爱, 强奸, 调教, 年幼, 师徒关系, 冒险, 魔法, 奇幻, 同性恋, 性别认同, 情感冲突, 练习, 修真, 伦理, 古代, 虚幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

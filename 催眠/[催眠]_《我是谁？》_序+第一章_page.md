@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_《我是谁？》_序+第一章.doc]([催眠]_《我是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《我是谁？》是一部描绘催眠与自我认知结合的小说，讲述了主角在进行催眠学习后，对自己的欲望与幻想的纠葛。故事开篇主角正经历一场迷茫的梦境，并对自己的身份产生疑问。随着剧情展开，主角回忆起自己学习催眠后的变化，其内心的冲突和渴望逐渐显现。主角对女性的兴趣、幻想以及通过催眠能力而导致的性幻想相互交织，表现了其对自我身份与欲望的探索。具体描绘了其日常生活、内心斗争及对异性的关注，尤其是在见到新同事安筠后，内心萌生的复杂情感。文本中还涉及了对女性服饰的好奇，暗示主角的性别认同与欲望之间的微妙关系。整部作品结合了心理描写与潜在的性暗示，探讨了性别认同与自我认知的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_《我是谁？》_序+第一章.doc]([催眠]_《我是�
 | Size            | 96768 bytes                           |
 | MD5             | 3c382311fa4d4867e917ba2300642f4e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 自我认知, 性别认同, 性幻想, 变身, 伪娘, 成年人的幻想, 心理追寻, 职场生活, 二次元文化, 性转, 幻想主题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新世界（中）.docx]([皮物]_新世界（中）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于男女主角复杂情感和性别认同的小说片段，主要围绕女主张筱伊与其哥哥吴江皓之间的日常生活和情感纠葛展开。故事始于张筱伊清晨醒来，回忆与哥哥的相识以及对他的憧憬，但由于性格的羞涩和对感情的迟疑，女主内心充满了渴望与焦虑。随着故事发展，张筱伊尝试与哥哥通过共同的校园活动增进关系，且在日记中记录下心情与对未来的思考。文件中通过细腻的心理描写探讨了年轻人的感情、兄妹间的默契以及对同性恋题材的接受与个人取向的反思。尤其在电影观影场景中反映出不同性取向的多元化与对情感表达的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_新世界（中）.docx]([皮物]_新世界（中）.docx)
 | Size            | 27644 bytes                           |
 | MD5             | ff6302264e01a7ca3027c0e18cb4d409                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 青春校园, 兄妹情感, 多元性别, 日记体, 伪娘, BL, 校园生活, 情感纠葛, 成长故事, 情感表达                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

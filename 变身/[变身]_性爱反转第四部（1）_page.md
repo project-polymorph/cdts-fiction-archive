@@ -7,7 +7,11 @@ TXT 下载: [[变身]_性爱反转第四部（1）.doc]([变身]_性爱反转第
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了一个名叫阿诺德的年轻男性，他经营着一家小店，主要出售冰沙和冷饮。在炎热的沙滩边，阿诺德的日常生活中充满了与顾客的互动。在这个小店里，他观察到了各种游客，包括穿着泳装的男性和女性，以及带着孩子的男性母亲。小说通过阿诺德的眼睛，展现了一个充满色彩的季节场景，同时也探讨了性别和性别认同的问题。
+
+故事中，阿诺德在忙碌中感受到热浪与身体的疲惫，描绘了他的内心世界和外部环境的冲突。他在工作中偶尔会与年轻顾客进行微妙的暧昧互动，提出想要帮助对方并无法自控地盯着他们的身体，展现了他对性别与身体的细腻感受。
+
+文本中包含对人物外貌的详细描写，例如阿诺德的泳装包裹着他的乳房，以及他对周围客人身体的观察。这些描写贴合了伪娘和变身题材中常见的细腻与暧昧的元素，让读者沉浸在这个温暖又略显复杂的夏日氛围中。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[变身]_性爱反转第四部（1）.doc]([变身]_性爱反转第
 | Size            | 48128 bytes                           |
 | MD5             | 0fb994a950dff4fd331035a22b9b6435                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 夏日, 小店, 饮料, 观察, 性别认同, 亲密关系, 身体识别, 二次元, 海滩生活, 性别模糊, 青少年, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

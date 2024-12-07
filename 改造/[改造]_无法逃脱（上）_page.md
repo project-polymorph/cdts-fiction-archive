@@ -7,7 +7,7 @@ TXT 下载: [[改造]_无法逃脱（上）.doc]([改造]_无法逃脱（上）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于逃脱专家阳小龙的小说，描绘了他在威廉教授设计的密室中进行逃脱的故事。阳小龙起初是马戏团的小角色，后来与威廉合作进行密室逃脱表演，因大受欢迎而声名鹊起。然而，一次酒驾后被拘留的经历使他意识到逃脱的刺激远高于表演的乐趣。故事的核心围绕阳小龙在密室中的重重考验，尤其是他在神秘的地下水池中闭气潜水的挑战。最终，他在一种奇怪的液体中呛水后，身体发生了变化，声音变得女性化，引出了后续的逆转情节。有趣的是，虽然他面临着身心上的剧烈变化，但他始终抱着破解密室的目的，并试图用智慧来面对各种极限挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_无法逃脱（上）.doc]([改造]_无法逃脱（上）.
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 2b87b448e3f6f3f1b8a6e3b854fb5bc1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 逃脱专家, 密室逃脱, 性别转变, 跨性别, 冒险, 刺激, 自我探索, 秘密实验, 化学液体, 逃避, 赌注, 重生, 转变, 冒险故事, 推理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

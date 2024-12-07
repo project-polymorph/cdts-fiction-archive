@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_一个女装大佬的故事6_办公室风波（上）.doc]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是以一位参与了性别转换的角色林倩为主线的小说，讲述了她在由男孩转变为女孩后的心理挣扎和生活片段。故事开始于林倩在市中心的公寓中，描写了她身穿时髦的装扮和身材的变化，表现出一种尴尬而复杂的自我认同过程。随着剧情的发展，林倩逐渐体认到自己身体的变化，面临从男性身份到女性身份的心理冲突。文中详细呈现了她脱去男性身份的衣物，欣赏着新身份所带来的身体变化，以及对新生活的期待与紧张。此部分还涉及到了她与另一角色欧阳晴的互动，二者之间计划的一些情节，也反映出社会对性别认同的议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_一个女装大佬的故事6_办公室风波（上）.doc]
 | Size            | 46592 bytes                           |
 | MD5             | 786631868eb1f3723adf149d1f5158fe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 伪娘, 心理转换, 自我探索, 办公室风波, 二次元, 变身小说, 性别转换, 爱情故事, 都市生活, 同性恋, 幻想, 魔法, 变嫁, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_13.docx]([附身]_武器种族传说_13
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《武器种族传说》中的第13章。故事围绕着一个中年男子因少爷的死而愤怒的情节展开，涉及到多个家族间的争斗与复仇。在少爷的死因调查中，侦探发现了大量水迹和冰块，怀疑是使用冰能力的高手所为。文件中提及了战魂家族、亚伦家族和Sepith家族之间复杂的权力斗争，以及新的角色在异能比赛中引起的关注。这名角色与多位家族中重要成员的命运相连，故事发展逐渐引入了精神力的吞噬与融合的主题，展现了角色对力量的渴望及在危机中的生存方式。文中还描绘了一位美艳的女伯爵，她的精神力转移和契约的概念，使得故事更加曲折和神秘。整个章节对于角色的性别认同和能力的探索极具深度，并包含了一定的成人向内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_13.docx]([附身]_武器种族传说_13
 | Size            | 33277 bytes                           |
 | MD5             | ccaf61cd3c447062b6a16192f065a3c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 异能, 复仇, 性别认同, 精神力, 契约, 细腻描写, 权力斗争, 黑暗幻想, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

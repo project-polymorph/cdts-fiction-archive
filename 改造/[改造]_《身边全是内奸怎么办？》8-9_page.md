@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《身边全是内奸怎么办？》8-9.doc]([改造]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于跨性别与变身主题的小说，情节围绕独孤风和其家庭成员，以及与太监和权力斗争有关的复杂关系展开。在故事中，独孤风的兄弟独孤泰因被割掉生殖器而被女性化，带来了关于性别认同和身体改造的冲突。文中涉及到的权力游戏与家族情感相互交织，部分情节描写较为露骨，例如，独孤风试图救助被困的家族成员，甚至在面对暴力与性别化元素时的复杂心态。通过描绘一系列暴力与操控的情节，展现了对性别流动和权力关系的深入剖析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《身边全是内奸怎么办？》8-9.doc]([改造]_《�
 | Size            | 64512 bytes                           |
 | MD5             | 2ddee378d19fae8ef2ea1971921403ca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变身小说, 权力斗争, 家庭关系, 性别转换, 暴力描写, 自我探索, 二次元, 幻想文学, 情感纠葛, 性别角色, 身体改造, 伪娘, 反派角色, 古代背景, 情色元素, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

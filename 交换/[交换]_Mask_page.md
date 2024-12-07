@@ -21,7 +21,7 @@ TXT 下载: [[交换]_Mask.docx]([交换]_Mask.docx)
 | Size            | 45914 bytes                           |
 | MD5             | da9e5ab8c4a79e3adc2c3d0592659e2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

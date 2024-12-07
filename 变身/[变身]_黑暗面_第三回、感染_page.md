@@ -7,7 +7,7 @@ TXT 下载: [[变身]_黑暗面_第三回、感染.docx]([变身]_黑暗面_第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以伪娘、变身和跨性别为主题的小说，主要聚焦于一个名为“黑暗面”的角色在秘密基地执行任务的经历。故事开头，角色回忆自己的身份变换，装甲车穿梭于城市中，进入一个隐蔽的地下基地。该基地存在着一位遭受控制的女性角色‘灵蝶’，而其自由又受到威胁。随着情节的发展，黑暗面与其他角色的对话揭示出复杂的权力斗争、身份认同和控制主题。在与敌方的谈话中，黑暗面得知灵蝶是被迫加入敌对势力，并且揭示了她与自己身份的冲突。通过一系列的心理斗争和情感张力，角色们面临着选择与被操控的困境。文本中还涉及了许多性暗示和成人内容，例如生理上的束缚与个人自由的对抗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_黑暗面_第三回、感染.docx]([变身]_黑暗面_第�
 | Size            | 33305 bytes                           |
 | MD5             | 4d59b25fe60dad38be6d66814f149f97                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 秘密基地, 身份认同, 黑暗面, 灵蝶, 心灵控制, 权力斗争, 情感冲突, 性别转换, 强制, 成人内容, 科幻, 地下组织, 暗黑风格                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

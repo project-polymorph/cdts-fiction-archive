@@ -7,7 +7,7 @@ TXT 下载: [[变装]_彼岸_第七回.docx]([变装]_彼岸_第七回.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一个关于跨性别角色和变装情节的小说章节，围绕主角林立在逃避追踪的过程中经历的一系列困境与心理变化。开篇，主角因收到一封信而感到焦虑，信纸上的香水味和优雅的字体暗示其写信者身份不凡。随着故事发展，主角计划随机逃避追踪，这一过程涉及伪装和变装，体现出其复杂的内心世界与对性别角色的探索。在逃跑的过程中，林立不断担忧是否会被敌人监视，心情紧张到崩溃。小说中描绘了不同角色如威廉、吴茂才以及乔治公爵之间的互动，展现了他们对林立去向的关心与焦虑。文本中还有涉及对性别角色的认同与变化以及一系列的性暗示与冲突场景。语言生动，情节紧张，包含有一定的成人内容，适合对跨性别和变性主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_彼岸_第七回.docx]([变装]_彼岸_第七回.docx)
 | Size            | 38011 bytes                           |
 | MD5             | a149aca387f4b340ac7a8582d8633cc1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 逃避, 伪娘, 性别认同, 情感冲突, 冒险, 心理变化, 密谋, 危机, 都市奇幻, 成长, 逃亡, 性别转换, 内心挣扎, 复杂人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

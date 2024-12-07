@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_惊喜.docx]([皮物]_惊喜.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一部围绕人皮项目展开的跨性别科幻小说。故事主要围绕主角王知行与他的"女朋友"张曦的关系，以及王知行在一项伦理上极具争议的实验室研究中所遇到的道德困境和心理斗争展开。王知行是一个成功的投资者，但他的私人生活却因张曦的性别和身份而复杂化。文本描述了一个设计极为密闭的实验室，王知行为了隐瞒自己的真实意图，深陷权力游戏和情感矛盾之中。在王知行看来，张曦在研究中所展现的能力正是他选择将其卷入"人皮项目"的原因，但是他又对张曦与其他董事的私下交易感到不安，并计划设下圈套。故事通过一种紧张而暗黑的叙述方式，探讨了性别认同、自我探索及权力斗争等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_惊喜.docx]([皮物]_惊喜.docx)
 | Size            | 19842 bytes                           |
 | MD5             | 7cb75622e320503f9f4887768cd987c1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 人皮, 伪娘, 伦理冲突, 隐秘实验室, 性转, 大学同班同学, 复杂关系, 科学研究, 权力斗争, 情感纠葛, 地下项目, 技术人才, 自我认知, 情欲, 生物工程, 惊悚, 科幻, 悬疑, 秘密实验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

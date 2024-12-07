@@ -7,7 +7,7 @@ TXT 下载: [[变装]_清泉家的“大小姐”们（番外：栞的婚礼）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件为一部名为《清泉家的“大小姐”们（番外：栞的婚礼）》的番外，其主要内容围绕新娘清泉栞与新郎神原奏的婚礼展开。婚礼举行在清泉家的院子里，特邀伴娘清泉凛参与。故事展现了三人之间复杂而亲密的关系，婚礼中充满了情欲和紧张的氛围。新郎神原奏期待着新娘在婚礼中给他带来的“惊喜”，而当天的婚礼氛围则被新娘和伴娘之间的调情与性暗示所渲染。小说不仅关注婚礼的仪式，还深入探索了三人之间热烈的性关系，描述了多种性爱场景与性转体验，显示出鲜明的色情内容。整体风格偏向于刺激和挑逗，包含大量描写性行为的细节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_清泉家的“大小姐”们（番外：栞的婚礼）.
 | Size            | 42496 bytes                           |
 | MD5             | 7b6228864b0572ef036c7c5118e992c5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 婚礼, 伪娘, 跨性别, 情欲, 调教, 多角关系, 强奸, 乱伦, 逆后宫, 淫荡, 百合, 变嫁, 女体化, TSF, 角色互换, 情趣内衣, 都市奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

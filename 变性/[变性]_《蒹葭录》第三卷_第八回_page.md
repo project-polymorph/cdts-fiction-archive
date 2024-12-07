@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第三卷_第八回.doc]([变性]_《蒹葭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为变性小说《蒹葭录》第三卷第八回的部分内容，描绘了武林江湖中的复杂关系与角色心理。故事中，泰山派掌门梁云亭面临着来自离魂教的威胁，需在紧迫的时间内准备英雄大会，集合各大门派的支持。文中提到的角色如师妹蔡云君，与梁云亭之间的细腻情感暗示，展现了师兄妹之间的深厚情谊以及对彼此责任感的强调。泰山派的传统武学和对抗邪教的决心也在故事中显露，反映出正道与邪道斗争的主题。整个情节充满着紧张感与期待，同时也在探讨传统观念与新生代的交替。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第三卷_第八回.doc]([变性]_《蒹葭
 | Size            | 58880 bytes                           |
 | MD5             | 5a6cb0d9fa49cc65509b83963b2d3904                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 武侠, 江湖, 英雄大会, 离魂教, 师兄妹情, 正道, 邪道, 武学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

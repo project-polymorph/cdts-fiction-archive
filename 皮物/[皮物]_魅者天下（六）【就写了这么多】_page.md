@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魅者天下（六）【就写了这么多】.docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一场充满幻想的故事，主要围绕角色彩娘展开。在一个充满家族传统和禁忌的环境中，彩娘体验了性别认同和家族角色之间的复杂关系。一开始，彩娘在宿醉和睡眠不足的状态中醒来，头痛欲裂，回忆着昨晚的疯狂。文中描绘了她与父母之间的幽默互动，展现了家庭的亲密和传统文化中的性别角色冲突。母亲用面具和药水来维护家族的形象，对彩娘进行呵护。而父亲则展现出一种双重性别的呈现，构建出一个年轻人对自我的探索和呈现的故事。进一步的情节中，彩娘需要在家族祭拜和成人礼中面对她的确立身份，并与母亲一起在温泉中展现出一种深层的家庭情感和身体的界限，探索自我认知与家庭身份的交织。整篇文章在幽默中夹杂着对性别和身份的探索，其内容粉嫩而富有探索性，适合研究性别认同与家庭角色之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魅者天下（六）【就写了这么多】.docx]([皮�
 | Size            | 27612 bytes                           |
 | MD5             | 6e7ded361fcff421e819ee0f78ea886b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别转换, 跨性别, 家庭关系, 性别认同, 自我探索, 成年礼, 传统文化, 双重身份, 温泉剧情, 幽默, 青春成长, 二次元, 奇幻, 药水, 面具                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

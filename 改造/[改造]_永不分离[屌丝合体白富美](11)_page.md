@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](11).docx]([改造]_永
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位女性角色（孙俪）与拥有她身体的男性角色之间复杂而奇特的心灵和身体互动。故事描述了男性角色如何逐渐适应女性身体的种种感受与体验，包括身体的生理反应、情感波动及心理冲突。随着时间的推移，男性角色对女性身体的感知逐渐变得熟悉，甚至开始享受这种身体的存在。文本中详细描写了与男性角色的思维融合后出现的身体感知，包括适应月经和排便等生理过程，以及对女性社会生活的体验，例如肚皮舞和购物的情景。同时，文件中也描绘了男性角色在女性身体中逐渐战胜内心的不安，获得一定的控制感，但也伴随着对女性身体的认知冲突，特别是与孙俪的恋人王力关系的紧张。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](11).docx]([改造]_永
 | Size            | 32498 bytes                           |
 | MD5             | b5eb871a4d6118e113b39fc88e014306                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 心理冲突, 生理体验, 跨性别, 自我探索, 恋爱关系, 肚皮舞, 社会生活, 身体控制, 女性视角, 心理内部斗争, 奇幻, 魔法, 二次元, 现代生活, 医疗, 情感纠葛, 个人成长, 角色认知, 身份困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

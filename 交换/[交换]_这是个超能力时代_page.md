@@ -7,7 +7,7 @@ TXT 下载: [[交换]_这是个超能力时代.docx]([交换]_这是个超能力
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一名高中女生在拥有超能力的背景下，进行身体交换引发的一系列情感和身体体验。故事的主线围绕着她的能力——“精气交换”，但在具体实践中却转变为“性器交换”。在故事中，女主角在月经期间感到极度不适，于是在火车上碰触到一个看似女孩的长发，结果成功交换了她的精气。然而，女主角却发现对方实际上是男孩，接下来她经历了身体性别的转换带来的冲突与探索。文中详细描绘了她对新身体的探索与感受，以及与朋友互动时的尴尬与乐趣。这段故事涉及了性别认同、自我探索，以及在特殊能力影响下的性体验。这种设定不仅挑战了传统的性别观念，还探讨了超能力与个人认同的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_这是个超能力时代.docx]([交换]_这是个超能力
 | Size            | 19214 bytes                           |
 | MD5             | 18e7481337c5a90fa0efd1e5916392e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 超能力, 性别交换, 校园小说, 自我探索, 青春成长, 伪娘, TS变身, 性器官交换, 情感纠葛, 心灵冲突, 性别认同, 二次元, 异能, 奇幻, 现代爱情, 自我认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

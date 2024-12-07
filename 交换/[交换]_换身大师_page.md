@@ -7,7 +7,7 @@ TXT 下载: [[交换]_换身大师.docx]([交换]_换身大师.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档主要介绍了几位重要的换身大师及其所代表的换身学派。它详细记录了各位大师的生平以及换身技术的发展历程，并探讨了他们的实验方法、理论贡献和对换身领域的影响。首先，李奥被认为是最早实现人类身体互换技术的人之一，其在2032年进行的实验标志着换身技术的一个重要里程碑，但最终因设备故障悲惨身亡，留下诸多悬念。其次，顾思危作为李奥的学员，开创了“温情换身”理念，强调在互换身体之前需要获得对方同意，打破了传统的强制互换模式。黑威廉则代表了换身技术的阴暗面，他的行为将这种技术与强迫和凌辱结合，同时对换身界造成了巨大的影响。温彻斯特·胡恩创建了换身理教，倡导通过换身去理解他人的生活。最后，周天工和穆罕默德·崩漆等人物也在推动换身技术的同时，形成了各自的特色和理论体系。全篇内容涉及换身技术的伦理、历史及其对人性的探索，不仅展示了科学技术的魅力，也引发了对性别、身份等深刻问题的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_换身大师.docx]([交换]_换身大师.docx)
 | Size            | 19944 bytes                           |
 | MD5             | d9b08d41a243eb1e4a26c9eba632ce2a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 换身技术, 性别认同, 自我探索, 温情换身, 强制换身, 换身理教, 科技伦理, 科幻人物, 二次元文化, 性转小说, 交换身体, 实验伦理, 性别转换研究, 无意识观察, 人类行为研究                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

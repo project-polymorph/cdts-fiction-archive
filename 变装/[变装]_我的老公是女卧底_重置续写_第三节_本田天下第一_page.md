@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的老公是女卧底_重置续写_第三节_本田天�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名叫谭孟伟的男警察，在完成集训后回家的经历。故事描绘了他在短暂离开警队后，面对自我身份认同的挣扎，尤其是他因任务需要而不得不以女性形象出现。文件中详细展现了谭孟伟的内心斗争，以及他与妻子小茹之间充满调侃与温情的互动。情节中，两人打趣联想与家庭关系的建立，三个月的分离让他们对于彼此的感情有了新的领悟。这个故事探讨了性别角色的流动性，以及个人在情感关系中的定位。文件中的文学描写生动形象，巧妙地结合了警匪元素和性别认同的议题，展现了现代社会对性别和爱情的宽容与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的老公是女卧底_重置续写_第三节_本田天�
 | Size            | 40960 bytes                           |
 | MD5             | d83f6a856df2b7a9116790cb1a8fea15                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变装, 伪娘, 爱情, 职场戏, 家庭关系, 自我探索, 酒醉后的自我认知, 现代社会, 调侃, 温情, 警匪元素, 性转, 女性形象, 内心斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

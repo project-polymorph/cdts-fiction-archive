@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《被封印的魔女》第二篇.doc]([变身]_《被封�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件是一篇关于佣兵生活的变身小说，设定在一个充满魔法与战斗的奇幻世界。故事主要围绕主角与他的伙伴海克斯的关系展开，特意描述了海克斯的神秘身份和背后的秘密。故事开始时，主人公回忆起自己的家乡和成为佣兵的经历，介绍了佣兵在艰难环境中为了生存而斗争的艰辛。随剧情深入，海克斯逐渐展现出独特的个性和神秘身份，最终的揭示是他实际上是一个小女孩的身体，展现了角色的性别转换与自我认同的复杂性。文中涉及了快乐与痛苦、身份的自我认知和性别的不同表现等多重主题。除了友谊和佣兵生活描写外，还包含了一些较为敏感的内容，例如风俗店的遭遇及其对角色心理的影响。通过这些情节，故事探讨了性别认同和自我探索的主题，具有现代文化的反思意义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《被封印的魔女》第二篇.doc]([变身]_《被封�
 | Size            | 49152 bytes                           |
 | MD5             | 91e70dc685e35a34aadfb4f33e7db138                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 性别转换, 佣兵生活, 自我认知, 角色关系, 魔法, 身份探索, 奇幻冒险, 友谊, 情感纠葛, 男性角色去女性化, 萝莉控, 自我探索, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

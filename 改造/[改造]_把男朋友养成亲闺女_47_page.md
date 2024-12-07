@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_47.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于性别认同与角色扮演的小说章节，描述了角色阿曼达与她的女儿贝丽之间的复杂关系。故事揭示了阿曼达如何将贝丽当作自己的女儿来对待，而贝丽则在角色扮演中逐渐融入女性的身份。文本中涉及了角色之间的情感交流、性别认同的挑战，以及两人共同生活中的日常琐事，例如阿曼达为贝丽挑选裙子的亲密情节。故事中提到贝丽穿着女性衣物、尝试模仿女孩子的举止，以及她与朋友之间的互动，展现了对性别流动性的探索和表现。整个故事充满了情感张力，反映出角色对于自我身份的探求以及对彼此的亲密联系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_47.doc]([改造]_把男朋友�
 | Size            | 32256 bytes                           |
 | MD5             | 93b2fef782eec8580031bfa2a1a748ab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent423                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 角色扮演, 伪娘, 变身, 母女关系, 情感交流, 百合, 日常生活, 少女心理, 性转小说, 教育                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

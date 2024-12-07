@@ -7,7 +7,7 @@ TXT 下载: [[交换]_邪淫蔓延（3）.doc]([交换]_邪淫蔓延（3）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一场聚会的小说片段，主要围绕几个角色之间的互动展开。在故事中，西野玲娜与酒井汐香之间存在着一种神秘的关系，酒井汐香请求西野玲娜帮助她进行身体的附身。整个情节通过他们的对话和互动逐渐展开，充满了悬疑和亲密的氛围。在聚会中，随着酒井汐香假装不适而与西野玲娜进入私密空间，故事暗示了一些关于友谊与欲望交织的复杂情感。文件中出现了许多性的暗示和情感的挣扎，特别是在角色之间的身体互动和酒精的影响下，描绘了一个充满变幻和紧张的场景。最引人注目的是，在西野玲娜与山崎梨花的相处中，性别与身份的流动性被表现得淋漓尽致，体现在角色的行为和对话中。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_邪淫蔓延（3）.doc]([交换]_邪淫蔓延（3）.doc)
 | Size            | 108032 bytes                           |
 | MD5             | 35e81930a62069404587b7fce84e1070                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性别认同, 调教, 酒精影响, 灵魂附身, 恋爱, 友情, 奇幻, 青春, 暗示性内容, 非人化, 性别流动性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

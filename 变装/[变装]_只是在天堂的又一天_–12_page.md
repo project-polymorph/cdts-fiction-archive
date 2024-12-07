@@ -7,7 +7,7 @@ TXT 下载: [[变装]_只是在天堂的又一天_–12.docx]([变装]_只是在
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《只是在天堂的又一天》后记部分讲述了角色的家庭故事，回顾了他们的成长与变迁。故事围绕主人公的身份转变，揭示了他如何从过去的男人身份经历变化，成为现在的女性，并如何处理与家人及朋友之间的关系。通过与孩子们的谈话，主人公讲述了她与丈夫尼克的爱情故事，以及两人如何面对家人对于转变的反应，其中还探讨了对性别转换的接受过程，包含了对手术的期待及经济压力等现实问题。此外，文件中也提及了感情的细腻与复杂，表达了对生活与爱的感激。故事强调了家庭的支持和爱的力量，并且在结尾处传达了温暖与希望的情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_只是在天堂的又一天_–12.docx]([变装]_只是在
 | Size            | 22223 bytes                           |
 | MD5             | 8acd8b4bd8025dd750d31eb705b62dab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kasumi                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 家庭关系, 跨性别, 爱情故事, 自我认同, 情感支持, 成长历程, 手术期待, 社会接受, 性别认同, 情感冲突, 复杂关系, 生活挑战, 温馨回忆, 幸福家庭                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

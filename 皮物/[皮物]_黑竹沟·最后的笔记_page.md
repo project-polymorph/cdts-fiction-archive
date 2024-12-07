@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑竹沟·最后的笔记.docx]([皮物]_黑竹沟·最�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档以第一人称的视角描绘了作者在四川峨眉山黑竹沟的心理状态与探索经历。故事开始于作者对自杀的思考，承载着他与家人之间的矛盾。文中提到，黑竹沟是一个人迹罕至的地方，作者为了寻求宁静而踏足此地，内心充满了死亡的念头。通过与当地人的对话，透露出黑竹沟的神秘与危险。随着故事的发展，作者发现一本笔记，记录了前来探索黑竹沟的科学家们的遭遇，字里行间充满了恐惧与绝望。笔记中的科学家在探索过程中接连失踪，最终只剩下恐惧与不安的心理描写。此外，笔记中提到了许多科学家的生死与黑雾的阴影，暗示着某种更深层次的超自然力量。音乐、景色与内心的感受交织出一幅复杂的心理图景，最终导致了主角身份的变化，产生了关于性别和自我认同的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑竹沟·最后的笔记.docx]([皮物]_黑竹沟·最�
 | Size            | 27676 bytes                           |
 | MD5             | 69527f6a8089c3fbccc435aad3d5c279                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 四川，中国                               |
+| Date            | 未知                                 |
+| Tags            | 心理探索, 自杀, 黑竹沟, 性别转变, 青春迷茫, 恐怖, 超自然, 地方神话, 社会压力, 生死问题, 自我认同, 科学家遭遇, 古代传说, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

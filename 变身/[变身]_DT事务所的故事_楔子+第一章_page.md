@@ -7,7 +7,7 @@ TXT 下载: [[变身]_DT事务所的故事_楔子+第一章.doc]([变身]_DT事�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别转换与自我认同的小说，标题为《DT事务所的故事》。小说的开篇介绍了主角小东与其室友王麒之间的关系以及他们共同经营的事务所。故事的开头便呈现了一场明显带有性暗示的情景描写，展现了主角小东对自身性别转换后的心理感受，以及对身体新体验的探索，流露出一种复杂的情感和欲望。小东作为伪娘角色，与王麒的对话中透露出他们共同使用一种可改变DNA的液体进行实验，暗示了他们的商业间谍活动涉及的技术和伦理问题。随着故事的发展，小东在新工作的环境中逐步适应并展现出对于女性身份的逐渐接受，同时也在工作中面临新的挑战与诱惑，展现了对性别认同与身份的探索。整个故事夹杂着色情元素与角色间复杂的人际互动，反映了在跨性别背景下的个人成长与内心斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_DT事务所的故事_楔子+第一章.doc]([变身]_DT事�
 | Size            | 32256 bytes                           |
 | MD5             | 9e8f7b9d6508179b20fdd6954b6e16a6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 商业间谍, 跨性别, 自我认同, 淫荡, 调教, 变态性感, 内心冲突, 职场心理, 奇幻, 奇特技术, 青色幻想, 夜生活, 性别角色, 情感纠葛, 社会实验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

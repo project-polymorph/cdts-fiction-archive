@@ -7,7 +7,7 @@ TXT 下载: [[变性]_哥哥大人的雌化私奴.docx]([变性]_哥哥大人的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章讲述了一位青少年在经历家庭变故后，逐渐认同并接受自己作为伪娘的身份。故事的主人公安林由于父母的意外去世，与哥哥相依为命。安林偶然接触到了女装，从而开启了他的伪娘探索之旅。文中详细描述了他第一次试穿丝袜和睡裙的感觉，以及在这种角色扮演中所体验到的身体和心理上的变化。安林的哥哥对他的女装兴趣表现出理解和支持，而非责备，逐渐使安林在穿着和性别认同上更加自信。在接下来的情节中，哥哥为安林定制了一套女装，安林激动地尝试这些衣物，缓缓感受到转变带来的愉悦与不安。故事的最后则插入了一段充满性暗示的情节，引发了安林对成长、性别和自我认知的更深层思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_哥哥大人的雌化私奴.docx]([变性]_哥哥大人的
 | Size            | 49035 bytes                           |
 | MD5             | 6a5fdc7ccb0b550a2c3516158240c46f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 自我探索, 兄妹关系, 受伤的家庭, 爱情, 成长, 性转, 心理冲突, 女装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

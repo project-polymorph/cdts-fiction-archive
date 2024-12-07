@@ -7,7 +7,7 @@ TXT 下载: [[变装]【xly翻译】法国交换生.doc]([变装]【xly翻译】
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇短篇小说是关于一名男孩在被惩罚的情况下，必须变装成女孩的故事。故事的主角詹姆斯·麦克·巴德（James McBad）在一次冒犯女孩子们之后，被迫以佐伊·勒梅西埃（Zoe Lemesier）的身份度过一个月的时间。他的外貌被描述得格外细腻：他杰出的金发、白色高跟鞋、肉色丝袜和蕾丝花边的连衣裙，所有的这些都令他感到极度羞耻和尴尬。在家人的鼓励和女孩子们的嘲讽下，詹姆斯被迫遵循一系列严格的规定，包括在公共场合以女性的身份出现，而不能用英语交谈。文章描绘了他在穿裙子走出家门以及在商场的经历，表现了他在性别角色转换中所感受到的困惑与羞辱，同时也隐含了对性别认同与自我探索的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]【xly翻译】法国交换生.doc]([变装]【xly翻译】
 | Size            | 56832 bytes                           |
 | MD5             | 279aa61594eafd0b97ae0a883579a497                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | xly000                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 跨性别, 羞耻, 青春期, 自我探索, 女装, 家庭关系, 社会角色, 校内生活, 羞辱, 女性化, 对比, 角色扮演, 成长经历, 惩罚, 自我认知, 青春烦恼, 法国, 短篇小说, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

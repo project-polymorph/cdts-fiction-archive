@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[舊文]美女蠟像事件簿_-_女大學生篇_作者︰�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇作品《美女蜡像事件簿 - 女大学生篇》讲述了一个名叫赵雅婷的法律系女学生的故事。雅婷是一名非常优秀的学生，因其优秀的成绩和外貌被称为校花。故事开始于雅婷结束了海外的交换生生活回到校园，朋友庄小樱邀请她拍摄时装杂志封面。在这次拍摄过程中，雅婷的生活经历了大转变。故事中，雅婷遭遇了一个陌生中年男子，他用注射器注入神秘的红色蜡液，导致雅婷的身体逐渐变得僵硬，最终变成一具蜡像。男子计划通过取代雅婷的身份来实现他的阴险目的，并在最后对其进行不道德的侵犯。整篇小说采用第一人称的叙述方式，描绘了角色被附身与身份取代的情节，体现了性别与自我认同的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[舊文]美女蠟像事件簿_-_女大學生篇_作者︰�
 | Size            | 81408 bytes                           |
 | MD5             | c78140fb7a299185ba1fec56720b30a2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 小雅香                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 蜡像, 附身, 校园生活, 女性视角, 心理变化, 身体改造, 身份认同, 强迫转变, 性别认同, 周边关系, 情感纠葛, 校园爱情, 恐怖, 奇幻, 阴谋, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

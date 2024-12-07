@@ -7,7 +7,7 @@ TXT 下载: [[变装]_群芳斗艳缘（6）花旗蜕变.docx]([变装]_群芳�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于角色花旗经历性别转变的故事文档。故事围绕花旗的内心转变及其与青梅竹马的关系展开，花旗在故事中感受到情感的复杂与喜悦。随着青梅竹马的出现，花旗的心灵世界被彻底打破，意识到了自己的真实感受。他说出了‘做女人好爽’的自我认同，展现了从男性身份到女性身份的彻底转变。在梦幻与现实的交织中，花旗经历了一系列自我认知的冲突，最终选择接受女性身份并以此作为新的生活开始。整篇文中不乏情感戏剧与挑战，更有对社会观念的反思与批判。文中描述了角色在高潮情节中的变化：“这代表着他的心已经完全定下来了，精神彻底由男性转化成女性。”同时，花旗也展现了在新身份下与伴侣的互动、生活琐事，以及对自我的重新认知和接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_群芳斗艳缘（6）花旗蜕变.docx]([变装]_群芳�
 | Size            | 20442 bytes                           |
 | MD5             | 5d01bcccc74a1988c38783ccda31093e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 转变, 自我探索, 角色扮演, 情感纠葛, 奇幻, 性别政治, 社会观念, 内心挣扎, 家庭关系, 幻想与现实, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

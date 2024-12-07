@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_魔法のアプリでOLを皮にして遊ぶ話.docx]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档呈现了一个关于魔法应用程序的奇幻故事，主要描写了两个办公室女职员（OL）在被不明男性使用一种名为『皮相机』的魔法应用后，经历了性别转换及身体剥夺的过程。在故事中，女职员们被迫沉浸在一种奇妙而又压迫的体验之中，逐渐失去了自己的外貌与身份，取而代之的，是全新的女性形象。
+
+故事中包含了大量的性暗示与对性转、身体变形的探讨，如角色们的身体在应用中发生变化，逐步变得女性化，甚至伴随着性欲的觉醒和新的自我认同。角色们在变身后的互动充满了刺激与冒险的元素，通过对彼此身体的探索，展现出一种奇特的性别体验和自我发现的过程。
+
+本文涉及了一些敏感内容，包括性别认同、自我探索、以及角色扮演等主题，文中用明确的语言描述了他们的情感和生理反应，反映出了一种对性别流动性的解读与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_魔法のアプリでOLを皮にして遊ぶ話.docx]([皮
 | Size            | 23682 bytes                           |
 | MD5             | cea5c54c4b4890bb49f229acbe687b60                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 变身, 性转, 办公室女子, 角色扮演, 女性身份, 自我发现, 性别流动性, 情感探索, 奇幻冒险, 性别转换, 身体剥夺, 性暗示, 性欲觉醒, 男性视角, 女性视角, 科学研究, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

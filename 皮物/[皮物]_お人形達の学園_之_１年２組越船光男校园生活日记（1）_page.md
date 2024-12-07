@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_お人形達の学園_之_１年２組越船光男校园�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一所学院的男生与女生共室学习生活的校园小说，展示了男生们在经历了为期两个月的入学适应后，首次与转变为女生的同学们接触的情节。文中详细描绘了新生们的心理感受和对周围女同学的观察与期待。故事开始于男生们对班级的新女生们的讨论与期盼，随后引入了女老师天野弘子，以高潮的方式展现了她的美丽与班级中男生们的惊叹。文中还涉及了穿着特殊人皮装的女生们，她们的身体被特殊装置所包裹，体验着与常人不同的学习生活，这种设定引发了角色间的性别认同与自我探索。此次故事的背景设定在一个充满幻想与科技融合的校园环境中，解读了性别身份问题和社会接受度的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_お人形達の学園_之_１年２組越船光男校园�
 | Size            | 24603 bytes                           |
 | MD5             | fd5c3e2f189065639f5bed8cd0a6e8ef                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 性别转换, 伪娘, 女体化, 男生与女生共处, 角色心理, 强烈刺激, 自我认同, 人皮装, 奇幻学院生活, 美丽老师, 二次元, 性转, 未来科技, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

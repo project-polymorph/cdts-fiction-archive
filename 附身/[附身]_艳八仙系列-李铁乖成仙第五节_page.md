@@ -7,7 +7,7 @@ TXT 下载: [[附身]_艳八仙系列-李铁乖成仙第五节.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为‘艳八仙’系列中的第五节，名为‘李铁乖成仙第五节’，讲述了主人公李生在艳天神殿的经历。在这段剧情中，李生随太白金星来到艳天神殿，感觉到神殿的辉煌与亲近。艳天大神的外表英俊潇洒，既似女性又似男性，散发出神秘而诱惑的气场。在与大神的对话中，李生获得了关于超越阴阳的启示。故事呈现了一种性别认同和对欲望的探索，李生在失去金星小姐后，决定附身于金星小姐的身体，最终成为李铁乖，与金星结合。文中描绘了许多感性的描写，展现了角色的内心挣扎与转变过程。该作品融合了奇幻和成人元素，属于性转和跨性别主题的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_艳八仙系列-李铁乖成仙第五节.docx]([附身]_�
 | Size            | 17074 bytes                           |
 | MD5             | b25201ba0679ede27bb15fe578079f01                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | znznzn1984                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 艳八仙, 性转, 跨性别, 李生, 欲望探索, 超越阴阳, 神秘角色, 附身, 男女性别认同, 奇幻, 探索自我, 二次元小说, 成人向, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

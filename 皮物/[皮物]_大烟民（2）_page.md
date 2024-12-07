@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_大烟民（2）.doc]([皮物]_大烟民（2）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘TS变身与跨性别相关小说的一部分，描绘了角色周尧在神秘调皮的黄金叶香烟的影响下，经历了身体的性别转换，表现出男头女身的独特情境。故事开头，周尧面临回家的困境，他的表哥即将归来，而自己则陷入了对新身体的困惑与不安中。通过细腻的心理描写，展现了周尧对自己新身体的好奇与挣扎，例如他尝试触摸自己的胸部，对身体的变化深感惊讶和羞愧。随着情节的推进，周尧不仅要学习适应新的身体特征，还涉及到与朋友皮阳的互动，以及对表嫂身体的迷恋。他们之间的情感与困境交织，构成了一个充满性别认同与自我探索的故事。通过周尧对镜子的反思，探讨了角色在变身体后的身份认同危机，令人深思。此外，文中也涉及了一些限制级内容的场景，要求读者以科学、客观的态度进行理解和研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_大烟民（2）.doc]([皮物]_大烟民（2）.doc)
 | Size            | 33280 bytes                           |
 | MD5             | 5acee8988f91eea62a4f2a9442d64022                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 强奸, 淫荡, 调教, 逆后宫, 年龄差, 女体化, SM, 魔法, 奇幻, 二次元, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

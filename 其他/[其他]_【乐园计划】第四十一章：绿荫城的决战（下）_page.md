@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【乐园计划】第四十一章：绿荫城的决战（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的档案作品，名为《乐园计划》第四十一章：绿荫城的决战（下）。该章节中，角色们正经历一场激烈的魔法战斗，主人公香草正在施法以完成一个复杂的魔法阵，而其盟友风灵与星夜则在旁协助并保护她。在这个过程中，众人面临着强大的敌人和不利局势，包括被困的人类和潜在的背叛。在战斗的关键时刻，主角浅夏被迫在拯救人类与自身及同伴的生存之间做出艰难的选择。随着魔法阵的开启，火神被召唤出来，战斗变得更加紧张。香草为了确保她的胜利，威胁要牺牲被抓的人类，使得浅夏不得不答应她的条件。在这一系列复杂的冲突中，涉及到自我认同、力量的运用及牺牲的探讨，体现出角色们之间紧张的关系与道德的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【乐园计划】第四十一章：绿荫城的决战（�
 | Size            | 34304 bytes                           |
 | MD5             | 0bf779319da379daba4460b4cefc59d7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 战斗, 自我认同, 牺牲, 角色关系, 跨性别, 成长, 道德困境, 火神, 冒险, 伪娘, 强迫, 女性角色, 魔族, 强化力量, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

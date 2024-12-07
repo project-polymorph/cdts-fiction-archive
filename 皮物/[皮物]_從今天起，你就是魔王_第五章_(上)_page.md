@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_第五章_(上).docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《从今天起，你就是魔王》的第五章（上），内容围绕角色菲尔和桂花的互动展开，主要涉及防治亡灵瘟疫的治愈药剂及其生产过程。桂花通过调整原有的治疗药剂，成功研发出专门针对亡灵瘟疫的特效药，并研制出多款紧身衣以保护城内居民。在故事情节中，紧身衣的设计引发了不同角色的反应，展现了角色之间的幽默与尴尬。整体故事融合了奇幻元素与性别转换的暗示，不乏对角色身材的细致描绘。作品同时触及角色的自我认知与性别认同等复杂主题，是一部富有创意的性转变身小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_從今天起，你就是魔王_第五章_(上).docx]([皮�
 | Size            | 21904 bytes                           |
 | MD5             | 42a136612090254b44fe8e6a0c0308bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 性转, 跨性别, 变身, 亡灵瘟疫, 紧身衣, 自我认知, 调皮, 药剂研究, 角色互动, 城镇生活, 战斗准备, 黑色幽默, 角色发展, 双性恋, 魔法, 药物, 防疫, 紧身服装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【翻译变身】不一般的家庭聚会.doc]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部名为《不一般的家庭聚会》的变身小说，原作者是Mikatg，翻译者为露娜·埃葵斯。故事设定在一个变身派对上，主角艾伦与他的朋友史蒂夫和加里受邀参加克莱尔的派对。刚开始，他们认为这只是一个普通的聚会，但当艾伦发现聚会上大多数‘女孩’实际上是穿着女性服装的男孩时，他陷入了困惑与恐惧。更糟糕的是，这个派对有一种神奇的魔力，能够让男孩在不知不觉中变成女孩。随着故事的发展，艾伦意识到自己的外貌也开始改变，他的身体和心理都在经历剧烈的转变。整部作品探讨了性别认同、自我探索以及变身带来的社会适应问题。通过艾伦的内心斗争，读者能看到他对性别与身份认同的迷惑和挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【翻译变身】不一般的家庭聚会.doc]([变身]_�
 | Size            | 34816 bytes                           |
 | MD5             | d44e6a27db1ab2d25020c77ec7748b02                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 跨性别小说, 派对, 自我认同, 迷失, 魔力, 男孩变女孩, 心理变化, 性别角色, 青春期困惑, 奇幻冒险, 友谊, 变嫁, 失去身份, 爱与性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_越狱_by_sammig82（一至五章）.docx]([皮物]_越狱
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是一部长篇翻译作品，讲述了在监狱中，一位名为罗伯特·“洛基“·沃兰斯基的黑帮老大和他的忠实手下阿德里安·托雷斯之间的故事。他们在面对死亡时，对自己性别身份的秘密渴望产生了深刻的探索。故事中包含许多关于暴力、性别认同和自我发现的主题。文中描绘了他们如何在面临死刑的情况下，渴望过一种与暴力生活截然不同的生活。文章还涉及到赖以生存的秘密与羞辱，以及对女性身份的幻想。作者利用一个神秘的实验武器，称为阿尔法电子射线枪，可以将人变成“活人皮”，这种设定为角色的性别转换提供了一个奇幻的背景，探讨了代入与身份交换的意义。整篇小说同时也展现了心理扭曲与人性深处的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_越狱_by_sammig82（一至五章）.docx]([皮物]_越狱
 | Size            | 228784 bytes                           |
 | MD5             | 3e3d807bf489c216db0687643d813596                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | sammig82                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性别认同, 黑帮, 监狱, 性别转换, 心理斗争, 暴力, 科幻, 性别幻想, 自我探索, 死亡, 秘密生活, 女性化, 逆转设定                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

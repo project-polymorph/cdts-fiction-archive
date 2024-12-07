@@ -7,7 +7,7 @@ TXT 下载: [[变身]_万万没想到4_[.docx]([变身]_万万没想到4_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是网络上流传的一部名为《万万没想到4》的伪娘/变身小说。故事围绕主角小梁和商业领域的陈美欣展开，夹杂着悬疑、变身和情感纠葛的元素。故事开篇描述了小梁在警局调查线索的情节，随着调查的深入，死亡和背叛的谜团逐步浮出水面。小说中涉及了人物的内心冲突和相互关系的变化，尤其是陈美欣与老翟的复杂情感纠葛。文件中多处描写了角色的心理状态和情节发展，展示了变身与性别认同过程中可能面临的困扰与探索。此外，文本中还包含了部分露骨的性内容，涉及性转、情感纠葛及相应的生理反应，呈现了一种较为大胆和开放的风格。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_万万没想到4_[.docx]([变身]_万万没想到4_[.docx)
 | Size            | 22117 bytes                           |
 | MD5             | 0a8f320e451ae3292cae70150d2afc8e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 情感纠葛, 变身小说, 悬疑, 商业竞争, 心理描写, 夜晚, 都市生活, 性别认同, 自我探索, 爱情纠葛, 强烈情感, 复杂人际关系, 秘密与背叛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

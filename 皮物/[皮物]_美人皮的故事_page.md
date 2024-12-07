@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_美人皮的故事.docx]([皮物]_美人皮的故事.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个宅男大飞与一位名叫唐影的女孩之间发生的奇妙故事。大飞在回家途中见义勇为，救下了被男子调戏的唐影。唐影说自己刚来旅游，钱包和身份证丢了，暂时需要住在大飞家里。夜晚，当大飞醒来时，看到唐影诱人地坐在床边，并提出做爱的请求。大飞起初拒绝，但唐影的挑逗和互动令他逐渐陷入了困惑与诱惑之中。在这个过程中，唐影脱衣后揭示了一个惊人的秘密——她的身上其实是一个名为慕容雪的女子的皮肤，慕容雪是一个有着特殊身份的女子。故事的转折在于慕容雪为了替代唐影的身份，希望大飞能穿上唐影的皮，完成唐影未了的心愿，最终显露出复杂的情感和身份认同问题。这个档案探讨了性别认同、自我探索与情感纠葛等主题，包含了性转、变身和伪娘等元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_美人皮的故事.docx]([皮物]_美人皮的故事.docx)
 | Size            | 16818 bytes                           |
 | MD5             | 748680094941898132f117836fb7aa98                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 伪娘, 幻想, 爱情, 自我探索, 情感纠葛, 禁忌恋, 魔法, 异界, 强烈的吸引, 身份认同, 奇幻, 冒险, 午夜故事, 都市生活, 青年文学, 角色扮演, 秘密                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

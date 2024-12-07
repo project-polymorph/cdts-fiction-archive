@@ -7,7 +7,7 @@ TXT 下载: [[附身]_竖子尔敢！（二）.doc]([附身]_竖子尔敢！（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说的第二章继续描述了许珊珊和她儿子张军之间的互动，情节围绕着许珊珊中午赤身裸体而被儿子看到的尴尬情境展开。故事的开头，许珊珊一回到家就抱怨自己的疲累，并回想起她的赤裸经历。随后，她走去儿子张军的房间，进行了一番日常的亲子对话。但这次张军却感到疑惑，寻问自己的母亲许珊珊现在是否真的还是他的妈妈。可是，对于这个问题，许珊珊并没有太多意识到异常，一切似乎都在正常进行。接着故事转到另一位角色陆子涵，描述了他在家中做作业后的激动心情，并提到他对移魂器的期待。小说的主题涉及到移魂、身份互换、性别角色等元素，具有一定的色情和戏谑色彩，同时也展现了奇幻元素和角色心理的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_竖子尔敢！（二）.doc]([附身]_竖子尔敢！（�
 | Size            | 74240 bytes                           |
 | MD5             | 89e9630bdd5a0f6b765b900e24d4d400                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 移魂, 家庭关系, 自我探索, 幻想, 情感, 青春, 亲子关系, 幽默, 日常生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](9).docx]([改造]_永�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件名为《永不分离[屌丝合体白富美]》，内容围绕一位角色经历了一场显著而异常的变身过程。故事描绘了主人公在与一位老乞丐的奇异互动中，被施以一种神秘的变化法术。主角的身体和另一位女性角色的身体发生了融合，形成了一种怪异的合体生物。文中使用了大量带有强烈视觉冲击的描写，例如‘我的身体重新组合成了一个极其诡异的怪物’，并详细地构建了变身过程带来的各类感受，包括生理和心理上的转变。故事强烈的视觉和生理描写促使读者思考性别和身份的模糊界限，同时展现了对身体自我认知的挑战。整体上，该文本包含了科幻和恐怖元素，是一部强烈壮观、甚至不适合未成年人阅读的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](9).docx]([改造]_永�
 | Size            | 22986 bytes                           |
 | MD5             | 816ececa1cc3f28b8f2facf57f00f74d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别变换, 变身, 合体, 怪物, 超自然, 自我认知, 身体变换, 科幻, 奇幻, 性别认同, 心理冲突, 性别融合, 伪娘, 变嫁, 幻想文学, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

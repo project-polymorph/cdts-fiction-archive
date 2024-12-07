@@ -7,7 +7,7 @@ TXT 下载: [[变性]_性别鉴定测试（改了些用词，段落编辑后，�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《性别鉴定测试》的中文翻译，原名为The Board Gender Determination Exam，内容围绕一位名叫明迪的年轻女性在学校中进行性别鉴定测试的故事。故事开始时，明迪与母亲艾米丽的对话展示了她的紧张与不安，尤其是在她担任指导顾问的角色时。随着情节的发展，明迪在礼堂向一群男孩子们说明性别重塑的测试，这个测试将会影响他们未来的生活。文件中提到，由于瘟疫导致的女性死亡率极高，社会迫切需要男性进行性别转变，这也引发了男孩们的焦虑和恐惧。在测试中，明迪通过 audiovisual 设备向学生们传达了信息，并鼓励他们接受未来的挑战。最后，她的妈妈艾米丽和另一位先生讨论了项目的必要性与对孩子们未来的影响，展现了当今社会对性别的重新定义与适应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_性别鉴定测试（改了些用词，段落编辑后，�
 | Size            | 60438 bytes                           |
 | MD5             | c2205ef8e3ff98815b8b90c8c357d066                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别重塑, 跨性别, 性别鉴定, 青少年, 自我认同, 社会适应, 母女关系, 心理压力, 未来转变, 性别角色, 魔幻, 科幻, 教育, 社会实验, 性别研究, 人类生存问题, 科技影响, 人际关系, 自我探索, 家庭支持, 心理评估                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

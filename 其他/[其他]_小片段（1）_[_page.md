@@ -7,7 +7,7 @@ TXT 下载: [[其他]_小片段（1）_[.docx]([其他]_小片段（1）_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说片段描绘了一位名叫燕子的女孩与叙述者之间微妙而复杂的互动。故事开始于燕子与叙述者电话中的轻松对话，燕子因面部过敏而不愿出门，叙述者鼓励她的到来，并表示对她衣着的期待。第二天，燕子如约而至，穿着优雅的服装，但因肌肤问题显得自信不足。叙述者不断寻求接近燕子，并试图通过花言巧语安慰她。在公交站等车时，叙述者注意到另一位美女，借此机会提出了一个秘密计划，即将燕子的脸与那位美女的脸互换。这个计划最终实施成功，燕子获得了新面孔，展现了自信与魅力。这个故事涉及性别角色和身份的复杂性，包含了变身、性别认同以及爱情等主题，同时展现了一些成熟的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_小片段（1）_[.docx]([其他]_小片段（1）_[.docx)
 | Size            | 17940 bytes                           |
 | MD5             | a571eb3e3d6da43e4431dd8f170124be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 性别认同, 爱情, 都市, 自我探索, 魔法, 女性视角, 装扮, 社交, 情感交流, 心理描写, 面孔互换, 嬉戏, 内衣区                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

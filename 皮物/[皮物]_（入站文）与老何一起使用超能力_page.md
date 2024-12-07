@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（入站文）与老何一起使用超能力.docx]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于性转与超能力主题的小说，主要讲述了主人公与一位具备超能力的朋友老何之间的互动以及他们的校园生活。故事的背景设定在一个大学校园，围绕两名女生和一场环保募捐活动展开。主人公通过与老何的对话及行动，逐渐揭示了老何的超能力，并且两人探索着变身和性别认同的主题。文中充满了对青春迷茫期的反思与自我认知的探讨。文中细腻描绘了两位女生的打扮与气质，透过设定及环境描写展现了特殊的校园氛围。此外，文本使用了一些带有幽默与讽刺的语言来表达角色之间的互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（入站文）与老何一起使用超能力.docx]([皮�
 | Size            | 35993 bytes                           |
 | MD5             | d748f89cafee5c33fd22a3b1b85249ad                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 超能力, 校园生活, 自我认同, 青春迷茫, 环保活动, 伪娘小说, 变身, 两性关系, 情感探索, 男娘, 魔法, 二次元, 女性视角, 奇幻, 幻想，, 幽默, 探讨                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

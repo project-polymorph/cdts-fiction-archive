@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译小说】巴黎资产阶级的驯化1-9.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为Monica Graz创作的小说《巴黎资产阶级的驯化》前九章的翻译稿，背景设定在20世纪70年代初的巴黎，围绕着一位男性角色在失去妻子后的情感挣扎以及与女仆维奥莱塔之间逐渐复杂化的关系展开。故事中，主角在与维奥莱塔的互动中经历了一系列心理变化，不仅展现了社会阶级的差距，还涉及到性别角色的转换。主人公在完成家务的过程中，自我价值感和性别认同也开始动摇，维奥莱塔通过一系列暗示，试图引导他接受新的身份与关系。小说的叙述手法细腻，情感描写深刻，展现了人际关系中的权力游戏与性别角色的重塑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译小说】巴黎资产阶级的驯化1-9.docx]([�
 | Size            | 55590 bytes                           |
 | MD5             | dc9c47d64c0ed7934bafd59813ccae5d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Monica Graz                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身小说, 阶级差异, 情感纠葛, 跨性别, 家庭角色, 女仆, 资产阶级, 自我探索, 情感依赖, 心理变化, 社会批判, 文化反思, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

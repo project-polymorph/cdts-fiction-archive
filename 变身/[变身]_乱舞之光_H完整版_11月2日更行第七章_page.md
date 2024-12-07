@@ -7,7 +7,7 @@ TXT 下载: [[变身]_乱舞之光_H完整版_11月2日更行第七章.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《乱舞之光》是一部关于性别转换与自我探索的小说，包含伪娘和变身的元素。故事的首章描述了一位母亲在儿子18岁生日之际的回忆，揭示了她在年轻时被强奸的创伤经历。由于这段痛苦的历史，她在生活中对男性保持距离，专注于自己的职业发展，同时努力抚养儿子。在接下来的章节中，故事逐渐深入，涉及到主人公的美丽外表、对自己的身体感到的自信以及在公共场合遭遇色狼的情节。主人公身为女性，却面临来自社会的压迫和挑战，以及对性别认同的困惑与思考。小说中包含一些敏感的情节如性骚扰、自我性别认同、性别角色的较量等，展现了一种超越传统性别界限的探索。整体故事情节诸多细致描写，情感复杂，致力于探索女性在现代社会中的身份与自我认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_乱舞之光_H完整版_11月2日更行第七章.docx]([�
 | Size            | 36833 bytes                           |
 | MD5             | 25abfefeb4de69d511ebd6abaa8191b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | lanlee                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-11-02                                 |
+| Tags            | 性别转换, 伪娘, 变身, 自我探索, 性骚扰, 母子关系, 青春期, 性别认同, 职场女性, 现代社会, 情感冲突, 生活挑战, 肉体与精神, 都市生活, 心理创伤, 高等教育                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_暗黑之星_(交換篇).doc]([交换]_暗黑之星_(交�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《暗黑之星（交換篇）》讲述了一个名叫陈子龙的青年在一个名为暗黑之星的神秘公司应聘工作的经历。故事中的社会环境充满竞争与压力，陈子龙因低薪找不到合适的工作而感到迷茫。在一次偶然的机会下，他找到这个公司，并签订了充满风险的合约，合约中明确说明不得向外透露工作内容。文件详细描绘了陈子龙在公司的首次体验，包括与同事的交流、以及他所面临的神秘任务。暗黑之星公司内部虽然装潢普通，但其真实职能与工作内容则显得扑朔迷离。在文件的后半部分，陈子龙经历了一场神秘而又惊悚的仪式，仪式后他感受到自身身份与身体的转变，对工作使命有了新的理解。整体内容涉及性别转变的主题，同时探讨了在极端环境下个人的心理变化与自我认知的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_暗黑之星_(交換篇).doc]([交换]_暗黑之星_(交�
 | Size            | 114688 bytes                           |
 | MD5             | 91f00bd9e766346e8a860aa14aa4e6a3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 黑暗公司, 社会现实, 自我探索, 心理冲突, 奇幻, 科幻, 青春就业, 神秘任务, 身份认同, 科技公司, 记忆植入, 异世界, 角色变换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

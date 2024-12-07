@@ -7,7 +7,7 @@ TXT 下载: [[改造]_人鱼妻养成记第五章.doc]([改造]_人鱼妻养成�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一本关于人鱼妻养成记的小说的第五章，主要讲述了角色温蒂在魔法和药物的影响下，身体不断发生变化的过程，以及她与丈夫莱克之间的互动。故事描写了温蒂的鱼尾逐渐变得柔软，并且她的身体特征如胸部和臀部也随之增大，展现了温蒂的魅力和她对自身变化的反应。莱克则表现出对温蒂变化的惊讶与敬畏。文本中充满了对魔法与生理变化导致的性别和身体认同的探索，涉及到温蒂的自我认知，她对新身体的接受以及与莱克之间的情感交流。文中包含了强烈的性爱描写，展现了两人之间亲密的关系，并探讨了温蒂在穿着乳胶衣后产生的感官变化。内容涉及强烈的性暗示和色情情节，以调侃的口吻提到两人如何在水中继续其亲密行为。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_人鱼妻养成记第五章.doc]([改造]_人鱼妻养成�
 | Size            | 38400 bytes                           |
 | MD5             | 9cd4d9b9f572a0c62b9a13d21ece4f93                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人鱼, 变身, TS, 魔法, 健康, 情感, 婚姻, 性别认同, 身体变化, 魔法药物, 乳胶衣, 亲密关系, 二次元, 异世界, 强烈性爱, 女性视角, 水中性行为, 异性交往, 自我探索, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

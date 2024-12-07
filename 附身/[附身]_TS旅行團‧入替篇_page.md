@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TS旅行團‧入替篇.doc]([附身]_TS旅行團‧入替
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一场名为“TS旅行团”的小说，讲述了一个涉及男性角色通过特殊方式变身为女性角色的故事。故事开场描绘了在东京都西区举行的一场选美比赛，吸引了各年龄层的女性参赛者。与此同时，一辆载满男性的游览车紧随其后，车上的乘客即将通过一个神秘的隧道体验一种入替的过程。故事的主角中村成二和他的朋友犬神光男怀着好奇与疑虑的心态参加了这个旅行团，结果在穿越隧道后，他们的身份及身体发生了颠覆性的改变，变成了选择赛的女性选手。文中通过主角的眼睛深入探讨了性别认同、自我探索及与身体与自我形象的极大冲突。同时，故事保留了神秘与幻想的元素，展现了对性别及社会认知的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TS旅行團‧入替篇.doc]([附身]_TS旅行團‧入替
 | Size            | 40960 bytes                           |
 | MD5             | bd29ec3448cf396bff732fd389b4a906                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别转换, 变身, 跨性别, 自我认同, 幻想故事, 选美比赛, 男性变女性, 魔法, 青春校园, 性别认同探索, 奇幻旅程, 身份入替, 角色扮演, 男性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

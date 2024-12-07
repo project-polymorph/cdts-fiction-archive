@@ -7,7 +7,7 @@ TXT 下载: [[附身]_転身_资产家千金_奥山南篇.docx]([附身]_転身_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《转身：资产家千金 奥山南篇》的小说以跨性别和伪娘为主题，讲述了一个男性角色以女性身份进入女性更衣室进行偷拍的故事。故事通过主角美和的视角展开，他刚刚转换成拥有女性身体的角色，却在新身份的心理和生理冲突中体验了一系列复杂的情感和行为。小说中描绘了人物之间的互动，尤其是美和如何在一个被女性包围的情境中感到紧张与刺激，充满了调侃与挑战，细致刻画了心理变化和性别认同的探索。文件中提及了挑战社会规则和法律的行为，透过美和与其他角色的对话，展现出关于权力、隐私和诱惑的种种想法。整体内容充满了成人向的情节和对跨性别身份的探讨，配以紧张与戏谑的氛围，使得全文既具冲击力，又引人思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_転身_资产家千金_奥山南篇.docx]([附身]_転身_
 | Size            | 20365 bytes                           |
 | MD5             | b64002a2c71e400e460ebeae81f61e2d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 偷拍, 性别认同, 女性视角, 成人向, 身体交换, 性别转换, 心理冲突, 女性行为, 泳装, 权力游戏, 恶作剧, 都市, 奇幻, 调情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_《我的魔头老婆》_第三部.doc]([其他]_《我的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《我的魔头老婆》第三部是一部结合了奇幻与悬疑元素的小说，讲述了周芷若和她的师父梦蝶在魔都市追查一系列失踪案件的故事。故事背景设置在一个魔法存在的世界，在黑暗的夜晚中，周芷若作为警司大队长，与自己的师父梦蝶展开了对失踪人员的调查。其中失踪的七个人中有两名男性及五名女性，他们的失踪地点疑似与一处名叫王伦的住户相关，但周芷若发现现场没有任何打斗痕迹，只有淡淡的做爱气味。这引起了两人的关注，梦蝶联系到最近发生的其他失踪案件，进一步推测这些事件与一个名叫姜丹的魔女可能有关。整部小说在情节的推动中充满了紧张和悬念，同时融合了性别转换的主题，通过角色的自我认知和人际关系的复杂性展示了人物的内心挣扎与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_《我的魔头老婆》_第三部.doc]([其他]_《我的
 | Size            | 57344 bytes                           |
 | MD5             | 4af00279fb5388448bbbe7939529d359                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 魔幻, 悬疑, 失踪案件, 性别转换, 伪娘, 姐弟关系, 魔女, 自我认知, 复杂人际关系, 黑帮, 奇幻世界, 都市探案, 变身, 超自然力量, 情感纠葛, 冒险, 魔灵波动, 吞噬人心, 幽冥卫, 师徒关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

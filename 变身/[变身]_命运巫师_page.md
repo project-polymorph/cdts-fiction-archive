@@ -7,7 +7,7 @@ TXT 下载: [[变身]_命运巫师.doc]([变身]_命运巫师.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于命运与性别变换的奇幻小说。故事的主人公在获得一次旅游抽奖后，因加班而错过了与美丽的同事玛丽的度假机会。在度假村，主人公邂逅了一名乞讨的老者，出人意料的是，这位老人自称为巫师并能施法。在对话中，主人公向老人表达了希望让玛丽爱上自己的愿望，但老人告知他，这个愿望无法实现，反而建议将他变为女性以改变命运。最终，主人公经历了一场奇幻的变身，从男性转变为女性，并开始了一段全新的生活，这个过程充满了自我认同与角色适应的矛盾与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_命运巫师.doc]([变身]_命运巫师.doc)
 | Size            | 42496 bytes                           |
 | MD5             | 04e62aedd9b9c855816526b8fdb59138                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 巫师, 爱情, 命运, 自我探索, 奇幻, 不平等交易, 性别认同, 青春成长, 职场斗争, 二次元, 异性恋, 伪娘, 逆转人生, 时代背景                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

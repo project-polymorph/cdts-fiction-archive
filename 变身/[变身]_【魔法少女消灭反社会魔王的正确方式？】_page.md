@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【魔法少女消灭反社会魔王的正确方式？】.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于魔法少女与反社会魔王之间冲突的小说，探索了魔法少女性别与角色身份的双重转变。故事设定在一个由多个平行世界组成的魔法位面，讲述一位年轻的魔法少女琳，以及她与敌人魔王之间的斗争。在角色设定上，小说对魔法少女的形象进行了颠覆，通过魔王的阴暗计划使她被迫做出下流的举动，从而剥夺了她的纯真形象。故事通过魔王对魔法少女的入侵与操控，不仅展示了对角色身份与性别认同的思考，也探讨了信仰与人性的主题。文本包含了许多限制级内容，情节直白且不加掩饰，涉及性行为与淫荡行为的描绘。因此，虽然具备幻想的成分，文中对女性形象的描绘充满争议。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【魔法少女消灭反社会魔王的正确方式？】.
 | Size            | 41472 bytes                           |
 | MD5             | 1d2c8c30bcc96b6ac27ed6f131e56335                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 反社会, 变身, 性别转变, 自我认知, 权力关系, 入替术, 性别认同, 阴暗计划, 信仰, 下流行为, 幻想, 角色颠覆, 禁忌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

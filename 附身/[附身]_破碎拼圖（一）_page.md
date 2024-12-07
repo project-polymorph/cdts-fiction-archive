@@ -7,7 +7,7 @@ TXT 下载: [[附身]_破碎拼圖（一）.docx]([附身]_破碎拼圖（一）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《破碎拼图》讲述了一位名为颜嘉宇的角色，他因病导致双脚不便，生活中充满了负面情绪。在一次偶然的机遇中，他遇到了一位黑衣人，获得了名为“破碎拼图”的超能力，从而能感知他人缺失的部分。随着故事的发展，颜嘉宇开始利用这个能力来帮助他人，同时也悄悄地从中获取自己缺失的身体部分，甚至恢复了行走能力。小说不仅探讨了性别认同和自我探索的问题，还融入了爱情与奇幻元素，令人深思。故事中，颜嘉宇在与好友聊天时透露自己交了女朋友，引发了朋友们的惊讶与祝贺，但实际上，他的女友是通过“破碎拼图”获得身体自由的另一角色，这带来了更多的复杂情节和自我认知的冲突。整体上，这个故事充满了对身份与人性深层的探索，以及对生活与爱情的独特解读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_破碎拼圖（一）.docx]([附身]_破碎拼圖（一）
 | Size            | 24471 bytes                           |
 | MD5             | 92dcb51bf430b8dd73f9db31e691ce02                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 水晶                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 超能力, 自我探索, 爱情, 跨性别, 奇幻, 变身, 心理冲突, 青春, 双性恋, 友谊, 病态, 女友, 黑衣人, 拼图                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_一场意外我变成了小萝莉4-6.doc]([变身]_一场�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个关于性别转变的故事，主人公杨晓峰在一次意外中意识转移到了女儿林悠悠的身体里。他发现在新的身份中不仅承载着女儿的记忆，甚至还体验到了女儿的生活和情感。他的内心经历了一系列的冲突与自我探索，对女儿身份的认同慢慢加深。在与父母的对话中，他努力掩饰自己的真实身份，同时也感受到作为女孩所带来的生活变化以及与母亲的亲密互动。文中的情节抓住了性别认同与身体感知的复杂关系，通过生活细节如洗澡、穿衣、饮食等，更深入地探讨了转变带来的新体验。随着故事的发展，杨晓峰逐渐适应并接受这个新的身份，尽管内心仍有挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_一场意外我变成了小萝莉4-6.doc]([变身]_一场�
 | Size            | 46080 bytes                           |
 | MD5             | 077354eaf443ed5e72956ee174e6c9ab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 亲子关系, 自我探索, 情感冲突, 家庭, 生活细节, 身份认同, 童年, 成长, 心理变化, 记忆转移, 内心挣扎, 生活体验, 女儿的生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

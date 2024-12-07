@@ -7,7 +7,7 @@ TXT 下载: [[变身]_替身公司.docx]([变身]_替身公司.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于变身小说的章节，主角雷颖是个千金大小姐，因其娇生惯养的生活方式而产生了一系列困扰。故事开始于她与母亲的对话，她对于学习毫不在意，沉迷于观看韩剧。随后，雷颖意外发现了一家名为‘替身公司’的广告，出于对期末考试的逃避，她决定尝试这个服务，由一位青年代替她进行日常生活。然而，替身所带来的不仅是外貌上的变化，更涉及了深层的身份认同与心理冲突。通过一台名为‘分子重组仪’的神奇机器，青年成功转变为和雷颖一模一样的形象，并获得了她的记忆和习惯。故事探索了性别认同和自我认知的主题，以及如何利用替身来逃避现实生活的压力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_替身公司.docx]([变身]_替身公司.docx)
 | Size            | 24061 bytes                           |
 | MD5             | cb2c7eb55e94608720383d4896222bb6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 身份认同, 逃避现实, 千金小姐, 替身公司, 记忆重组, 青春成长, 校园生活, 科幻, 二次元, 青春, 心理冲突, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

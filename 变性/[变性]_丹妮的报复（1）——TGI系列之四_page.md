@@ -7,7 +7,7 @@ TXT 下载: [[变性]_丹妮的报复（1）——TGI系列之四.docx]([变性]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是丹妮的复仇系列小说中的一部分，具体为第二部《丹妮的报复》。故事围绕主角丹妮·高德曼展开，她是斯特恩和高德曼私人侦探所的一名侦探。文中讲述了一起调查案例：阿曼达·哈蒙怀疑她的丈夫亚瑟·哈蒙在外面与别人发生了不正当关系，特意请丹妮帮助调查。故事描绘了丹妮进入夜总会进行卧底调查，以及她最终发现亚瑟的背叛过程，伴随着惊险的动作场面和对话，文中包含了强烈的情感冲突与性别角色的探索。通过生动的描写，段落揭示了丹妮的聪明与勇敢，她在面对危险时的冷静表现，以及她对阿曼达承诺的坚守。同时，故事中也穿插了关于性别认同和背叛的讨论。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_丹妮的报复（1）——TGI系列之四.docx]([变性]
 | Size            | 34731 bytes                           |
 | MD5             | 27ba8d7cab4fbe957a8c5120cd51e9db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lana B.                               |
+| Region          | 未知                               |
+| Date            | 2013-09-05                                 |
+| Tags            | 变性, 侦探, 复仇, 夜总会, 婚外情, 性转, 女性角色, 性别认同, 动作, 卧底调查, 师徒关系, 强烈情感冲突, 自我探索, 现代都市, 性别角色, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_通向女孩子的道路（十）.doc]([改造]_通向女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一部分关于名为《通向女孩子的道路》的小说的章节内容，主要描绘了一位角色翼在面临自我认同和性别转变过程中的复杂情感与心理。这一章节专注于翼与明人之间亲密关系的展开，包含了对春药及激素注射的提及，暗示角色性别与认同上的转变。文中有大量情感描述，表现出角色对于性别认同的渴望与内心的矛盾。起初，翼希望得到明人的认可，向着女性身份的追求而努力，表露出对叔叔关系的期待与不安，例如“今天，他希望明人能认可自己是一个女人。”并在接吻和身体接触的过程中展现出情欲交融。情节涉及大量情感和生理感受的描写，突出了角色在这种情境下的兴奋与羞涩，伴随着对亲密关系的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_通向女孩子的道路（十）.doc]([改造]_通向女�
 | Size            | 83968 bytes                           |
 | MD5             | 3469929ac4bbbfc165d98ba05fb39e61                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 情欲交融, 春药, 性转, 跨性别, 亲密关系, 变身, 女体化, 情感冲突, 禁忌恋, 虐恋, 伪娘, 调教, 强烈欲望, 互动性交, 心理描述, 情感纠葛, 角色认同, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

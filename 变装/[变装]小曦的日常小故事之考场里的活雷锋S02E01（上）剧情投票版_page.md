@@ -7,7 +7,7 @@ TXT 下载: [[变装]小曦的日常小故事之考场里的活雷锋S02E01（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《小曦的日常小故事之考场里的活雷锋S02E01（上）剧情投票版》，内容描绘了名为小曦的女主角在考场中所经历的种种情境。故事开始时，小曦从消防少校干事转变为生活秘书，面临更多责任与琐事。在一次监考过程中，女主角趴在桌子上，吸引了监考老师的目光，形成了色诱的情节，而监考老师则低头沉迷于其美色，并试图逃避面对考生作弊的情况。期间，小曦承受着身体上的刺激，如前列腺液的流出等，展现了角色内心的矛盾和挣扎。故事中提到的情节带有明显的性暗示，涉及隐秘的监考、性别认同以及自己的身份认同，让角色体验到一系列复杂的情感和身体感受，情节发展俨然一出扭曲的人性戏剧。此外，故事以幽默的笔触描绘了职场生活与个人欲望的交错，为读者呈现了一个多层次的性别与情欲的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]小曦的日常小故事之考场里的活雷锋S02E01（�
 | Size            | 35840 bytes                           |
 | MD5             | 8dd337eb7d844ea5cf038541d60ca14a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-10-01                                 |
+| Tags            | 性转, 伪娘, 变身, 职场, 学园, 性别认同, 自我探索, 监考, 香艳, 青春, 色诱, 大学生活, 隐秘, 暗潮汹涌, OL, 女性视角, 生活秘书                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

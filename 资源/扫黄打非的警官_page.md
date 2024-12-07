@@ -7,7 +7,7 @@ TXT 下载: [扫黄打非的警官.doc](扫黄打非的警官.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档记录了一位名叫吴清的年轻警察在职场和个人生活中面临的挑战。吴清是望江区公安局治安科的副科长，负责处理卖淫嫖娼和赌博等违法活动。他个子不高，外貌精致，受到同事们的喜爱。故事的高潮发生在吴清的女友林语梦发生意外后，她在车祸中严重受伤并可能面临瘫痪的风险。文中描绘了吴清对林语梦的深厚感情和对她的担忧，以及他为筹集500万治疗费用而不得不向情敌王坤求助的内心矛盾。在这个过程中，吴清的回忆带我们了解他与林语梦的成长经历以及与王坤的复杂关系，反映出社会背景下的法与情之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [扫黄打非的警官.doc](扫黄打非的警官.doc)
 | Size            | 72192 bytes                           |
 | MD5             | 145702583797758092348eb1334f85f5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 警察, 爱情, 车祸, 情敌, 职场故事, 家庭关系, 性别认同, 自我探索, 都市生活, 悲剧, 青梅竹马, 人际关系, 情感矛盾, 求助, 成长, 牺牲, 人生转折, 社会问题, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《关于我和恶魔大小姐的日常》1.doc]([变身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个名为《关于我和恶魔大小姐的日常》的变身小说，主要讲述了主人公江钊的日常生活与他脑海中的恶魔少女艾菲妮娅之间的互动。在故事中，江钊刚从大学毕业，面对即将开始的工作生活，他的内心充满复杂的情绪，并且不断与恶魔少女进行交流。艾菲妮娅以一种调皮又可爱的方式存在于江钊的生活中，从学习到生活琐事都给予支持，甚至参与他与女友的恋爱计划。故事不仅描绘了他对自身生活的反思，也探讨了更深层次的关于幻想与现实的界限。此外，文件中还记录了年份为2021的多个日期，描写主人公的成长与改变，以及与他周围人际关系的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《关于我和恶魔大小姐的日常》1.doc]([变身]_
 | Size            | 58880 bytes                           |
 | MD5             | 8417d2e0d508ed950547fb224e180b74                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-06-11                                 |
+| Tags            | 变身, 恶魔少女, 心理探讨, 幻想与现实, 校园生活, 职场适应, 恋爱, 成长, 自我探寻, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

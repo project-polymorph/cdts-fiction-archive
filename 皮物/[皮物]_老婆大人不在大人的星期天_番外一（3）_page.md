@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_老婆大人不在大人的星期天_番外一（3）.doc]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件属于多元性别主题下的伪娘和变身小说，具体情节围绕着主角王月的日常生活展开。在情节中，王月作为一个伪娘的角色，进入了一个充满各种美少女角色的环境，通过细腻的心理剖析展现了角色在自我认同和性别表现上的探索。文件中包含了对角色内心感受的详细描摹以及与其他角色的互动，如感情上的支持与关心，以及对外界不友好的反应。在一个寒冷的星期天，王月再一次回到她工作的咖啡店，周围的同事和朋友，包括孙雨彤、孙雨朦以及柳菲菲，展现了对她的关心与保护，而她自己则在适应这个身份与体验角色的过程中的各种心理挣扎中。文件中涉及了一些敏感情节，包括王月对自己身体的认知，以及在女性身份中的情感与性体验，反映了性别认同与自我探索的复杂性。同时，文字中夹杂了一些对女性身体的细致描写，表现出强烈的性暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_老婆大人不在大人的星期天_番外一（3）.doc]
 | Size            | 45568 bytes                           |
 | MD5             | 5e696f05f2cd2548a78f62e820258245                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别认同, 变身小说, 情感探索, 女仆角色, 友情, 自我认同, 生活日常, 神秘身份, 年龄差, 强烈性暗示, 校园生活, 都市, 调情, 心理剖析, 细腻情感, 复杂人际关系, 年轻女性, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

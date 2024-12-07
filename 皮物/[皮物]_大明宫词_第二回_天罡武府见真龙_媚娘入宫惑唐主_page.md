@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_大明宫词_第二回_天罡武府见真龙_媚娘入宫�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇描绘唐朝时期秀女入宫的小说，着重描述了武媚娘的背景及其与袁天罡的相遇。故事设定在盛世大唐，武媚娘因其卓越的气质和命格引起了天师的关注。天师袁天罡前来探查武府异象，与武家人交流。在文中，袁天罡感叹武媚娘的非凡气度，甚至预言她未来的地位不容小觑。随后，媚娘正式进入宫中，受到宫女们的恭维和细致的检查，在过程中体验了身体的奇妙与矛盾心理。整篇小说通过细腻的描写展现了古代女子的命运与社会地位，以及她们在权力与欲望交织中所面临的挑战。文中包含了许多表现性别与权力动态的细节，同时涉及了权谋与宫廷生活的方方面面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_大明宫词_第二回_天罡武府见真龙_媚娘入宫�
 | Size            | 32256 bytes                           |
 | MD5             | 6c7b357675e89a817a96a096b9169312                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 唐朝, 历史小说, 权谋, 宫廷, 身体检查, 跨性别, 心理冲突, 命格, 阴部检查, 气度非凡, 天师, 武媚娘, 大明宫, 异象, 女子命运, 古代生活, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_通向女孩子的道路（十三）.doc]([改造]_通向�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《通向女孩子的道路（十三）》，主要描述了角色翔的性别转变与心理挣扎。文中翔的人格经历了十年的洗脑与女性化调整，努力保留自我的同时，面临着内心深处的冲突。随着被叫醒的过程，翔的内心墙壁被打破，过去的男孩身份再度浮现。文本中提到翔的个性坚持和对自己身份的探寻，呈现了一种强烈的自我认同与探索的主题。各种复杂的情感与心理状态在角色之间相互交织，故事充满了对性别认知的探讨与反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_通向女孩子的道路（十三）.doc]([改造]_通向�
 | Size            | 191488 bytes                           |
 | MD5             | 8da366539dbd28832a8d59b3d3de53b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 自我认同, 心理挣扎, 赌约, 科幻, 身份探索, 洗脑, 青春成长, 年龄差, 奇幻, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我的多重宇宙从催眠寄生开始（21）.docx]([其
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别中文数字档案馆中的一部分，涉及一部以催眠与寄生为主题的TS变身小说的第21章。故事围绕着女保镖秦梅和她的同伴们展开，描述了她在女洗手间中展现出非凡的翻墙能力，受到了周围人的赞赏。在众人讨论隔间门被上锁的奇异情况时，暗示了潜在的超自然或科技元素。小说中还涉及到角色的性别认同和身体变更，具体描绘了名为苏雅馨的角色如何通过寄生和变身术与另一位角色李丽娜互动，以及他们之间复杂的身体和记忆共享关系。情节包含了强烈的幻想元素，角色之间的互动涉及性别转换以及与性相关的内容，展现了多元性别和性别认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我的多重宇宙从催眠寄生开始（21）.docx]([其
 | Size            | 38942 bytes                           |
 | MD5             | 3dd570868804f12539a29a4beecf5800                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 伪娘, 性别认同, 幻想文学, 性转, 百合, 吸血鬼, 魔法, 触手, 巨乳, NTR, 身心交换, 都市冒险, 秘书, 强奸, 调教, 年龄差                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

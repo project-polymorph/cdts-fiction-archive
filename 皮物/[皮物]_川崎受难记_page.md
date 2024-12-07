@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_川崎受难记.docx]([皮物]_川崎受难记.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《川崎受难记》，是一部涉及伪娘和跨性别主题的小说。故事的开头描绘了一个充满夏日气息的城市，主人公川崎正在客厅整理旧书籍，正当此时，一位名叫怜奈的女性来到他家中。故事在两人之间互动时，缓缓展开，川崎对怜奈的外表感到惊艳，并开始感受到不一样的情感波动。怜奈则显示出某种调皮的性格，进而引导出了一系列带有挑逗与色情暗示的情节。文中生动地描写了川崎的内心冲突与怜奈的魅力，伴随着对身体的敏感性以及对性别认同的探索。整体情节展现了主角在面对性别和情感交织的复杂关系时的心理变化。小说涉及大量色情描写，详细描绘了怜奈与川崎的互动，以及她在房间内的私密行为，让人感受到一丝压抑和禁忌的气氛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_川崎受难记.docx]([皮物]_川崎受难记.docx)
 | Size            | 30590 bytes                           |
 | MD5             | 43f9ba7b7efa1d13f89c4c171d280409                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 校园爱情, 情感探索, 强烈的身体代入感, 性别角色, 青少年, 单身, 成年人情感, 性别认同, 社交焦虑, 校服诱惑, 性别转换, 性幻想, 调情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

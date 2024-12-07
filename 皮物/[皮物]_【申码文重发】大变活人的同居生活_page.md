@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文重发】大变活人的同居生活.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《大变活人的同居生活》是一部围绕变身和跨性别主题的小说，描绘了主人公因使用一个神秘的遥控器经历了一次奇妙的身体转换，瞬间变成一个漂亮的女性。故事开始于主人公与他的好友小林共同实习的背景下，展示了他们的友谊以及社会的压力。主人公一直有着女性装扮的癖好，但因社会环境的压抑而未能完全释放自我。收到的神秘快递中包含一件具有变身能力的衣服与遥控器，主人公在无意中通过滴血激活了遥控器，体验到了变身为女性的过程。小说中的细节描写生动而细腻，包括主人公在镜子前欣赏自己新身体的兴奋与迷茫，初次尝试女性生活的感受，以及对性别身份和性别认同的探索。故事的情节紧凑，情感真实，涉及了性别认同、自我探索等深刻主题，同时有部分成人向内容描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文重发】大变活人的同居生活.docx]([�
 | Size            | 23282 bytes                           |
 | MD5             | 4fe0870f6ad29ade6aa43024c7db1235                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, 伪娘, 男娘, 幻想, 青春, 友情, 自我探索, 都市生活, 性转, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

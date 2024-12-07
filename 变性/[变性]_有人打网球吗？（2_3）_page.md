@@ -7,7 +7,7 @@ TXT 下载: [[变性]_有人打网球吗？（2_3）.doc]([变性]_有人打网�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描绘性别转换过程的文学作品，涉及到角色在身心变化及性别认同上的探索与冲突。故事中的男主角在与女性朋友海伦的互动中逐渐接受并体验女性身份，文中包含其日常生活中的细节描写以及对于性别角色的反思。例如，男主角发现海伦为他准备了一些女性化用品，这使得他开始思考自我认同和自我形象，他不断在心里对自己的行为进行审视，并且在多个场合展现出一种矛盾与接受的心理斗争。作品内容真实地刻画了角色在穿梭于男性与女性身份之间的内心挣扎，也透过丰富的细节展示了其对性别角色的不同理解。例如，男主角在打理自我仪容、穿着女性衣物、以及在商业环境中与人交往时的自我认知等方面进行了深入的书写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_有人打网球吗？（2_3）.doc]([变性]_有人打网�
 | Size            | 35328 bytes                           |
 | MD5             | 6306fdead90aa1e146e14b921a6f9953                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 男娘, 伪娘, 性转, 自我探索, 女性化, 情感变化, 心理斗争, 家居生活, 日常生活, 社会认知, 情感关系, 异性恋情, 友谊, 情感依附, 日常琐事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

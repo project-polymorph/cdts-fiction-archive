@@ -7,7 +7,7 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](5).docx]([改造]_永�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一位男性角色转变为女性角色的奇幻经历。故事讲述了孙俪在经历全面体检后，意识到自己的身体与心理出现了变化，并逐渐发现自己体内有另一个意识。随着情节发展，主角感受到身体的不同反应，包括食物消化、月经以及排便等，深入体验女性身体的各个方面。在角色转变后，主角逐渐适应新的身份，体验到了女性生活的多彩与困扰。文中描述了对身体各部位的陌生感和控制欲的冲突，伴随着对女性生理周期的不安与恐慌，以及对周围关系的观察与反思。在适应新身份的过程中，角色的自我认知与心态经历了转变，展现了性别认同、身体体验与心理冲突的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_永不分离[屌丝合体白富美](5).docx]([改造]_永�
 | Size            | 32498 bytes                           |
 | MD5             | b5eb871a4d6118e113b39fc88e014306                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 跨性别, 身体体验, 自我认知, 月经, 饮食和消化, 心理冲突, 女性视角, 身份认同, 奇幻, 成长, 性别认同, 同性恋, 生活琐事, 情感纠葛, 身体剖析, 自我探索, 情感调控, 意识流, 女性意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

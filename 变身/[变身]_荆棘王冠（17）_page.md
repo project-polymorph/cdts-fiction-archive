@@ -7,7 +7,7 @@ TXT 下载: [[变身]_荆棘王冠（17）.docx]([变身]_荆棘王冠（17）.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《荆棘王冠》的第十七章，内容描绘了爱丽丝与温莎夫人之间一段深入而复杂的情感与身体探索。在这个章节中，爱丽丝展现出对女性身体的敏感和好奇，温莎夫人则在这一过程中起到了引导和诱惑的角色。两人之间的互动充满了关于欲望、探索与自我认知的冲突，与此同时，章节中的描写不乏色情色彩，涉及温莎夫人亲吻爱丽丝、两人之间的肢体接触、爱丽丝对温莎的身体探索等细节。爱丽丝在温莎的指导下，探求如何成为出色的“夜莺”，并通过一系列不拘一格的画面表现出她在性别与性欲之间的挣扎与接受。整体情节的流转与文中为人们所熟知的美食隐喻相结合，使整体阅读更加丰富，对爱与欲的哲学思考在文中均有体现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_荆棘王冠（17）.docx]([变身]_荆棘王冠（17）.d
 | Size            | 19912 bytes                           |
 | MD5             | bbf70cb580a8a2353579d1f284bd2fab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身小说, 情欲探索, 跨性别, 夜莺, 学徒制, 女性身体, 性别认同, 探索欲望, 古代背景, 豪门情感, 心理冲突, 色彩丰富, 甜点隐喻, 女性视角, 两性关系, 精神追寻, 软色情, 自我发现, 情感纠葛, 性教育                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

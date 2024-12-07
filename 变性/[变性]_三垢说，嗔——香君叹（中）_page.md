@@ -7,7 +7,7 @@ TXT 下载: [[变性]_三垢说，嗔——香君叹（中）.doc]([变性]_三�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《变性_三垢说，嗔——香君叹（中）》是围绕一个名为马尚军的角色展开的变性小说。故事的开端描述了马尚军被他的一位过去学生梁日娇召唤至酒店，出于对高报酬和美艳的吸引，马尚军在与梁日娇发生亲密关系后却意外被施以阉割手段。面对从此失去男性特征的屈辱，他与吴功正和陈增明两位朋友一起感受着变化带来的巨大心理冲击。文件详细描绘了马尚军被残忍对待的场景，包括他在被电击、被强迫化妆及接受女性训练的过程。小说延伸探讨了性别认同与自我意识的主题，角色之间充满了复杂的情感纠葛与困扰，暗藏着对过往痛苦的报复心理和未来的不确定性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_三垢说，嗔——香君叹（中）.doc]([变性]_三�
 | Size            | 49152 bytes                           |
 | MD5             | 6f39261d0f6790f9309d81db923c466b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 阉割, 自我认同, 跨性别, 心理创伤, 强奸, 电击, 调教, 变装, 屈辱, 复仇, 药物, 性别转换, 强烈情感, 人际关系, 性别探索, 二次元, 幻想, 美学, 女性化, 羞辱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

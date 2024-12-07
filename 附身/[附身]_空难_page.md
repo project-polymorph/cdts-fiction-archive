@@ -7,7 +7,7 @@ TXT 下载: [[附身]_空难.docx]([附身]_空难.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容身处于一次飞往纽约的航班上，描绘了一家人登机前的场景。故事中，有一位优雅的女性陪伴着调皮的儿子和兴奋的小女儿，正准备前往美国。随着登机广播的响起，男孩对游戏和抽烟的习惯表达了强烈的抵触，令其母亲感到无奈。小女孩则在候机时表现得十分兴奋，甚至从哥哥的身旁调皮地跑开。随着场景的推进，机舱中的情形也逐渐展开，包括空姐之间的对话和即将起飞的紧张气氛，但硕大的空姐并未能抵挡住小女孩的嬉戏，导致了饮料洒落的尴尬局面。整个故事融合了亲情、旅行与轻松幽默的元素，展现出日常生活中的小插曲。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_空难.docx]([附身]_空难.docx)
 | Size            | 32567 bytes                           |
 | MD5             | bdfdc02f8f0b213b595381484b551958                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 飞行, 纽约, 家庭旅行, 轻松幽默, 亲子关系, 候机室, 空姐, 登机, 亲情, 调皮小女孩, 兄妹情, 游戏, 航空业, 日常生活, 城市旅行, 过往体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

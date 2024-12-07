@@ -7,7 +7,7 @@ TXT 下载: [[变装]_只要有心，人人可以是女神(下).doc]([变装]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容详细描绘了一名男主角在性别转换后所经历的情感与身体的冲突。这位男主角在一个偷窺的场景中，被一名男性角色侵犯，期间对自己性别的认知与心理感受交织着痛苦和羞耻。在故事中，他试图掩饰自己的身体特征，却又无法逃脱对方的欲望，进而展现出对角色身份的疑惑和困惑。故事情节包含了强烈的性暗示和一些冒犯性的情节，体现了人际关系中的权力与性的复杂交错。男主角在经历一次意外后，依然陷入了经济与身份的挣扎之中，并最终与偷窺者的关系交织，为后续情节埋下了伏笔。在一系列的事件中，该角色对于性别认同的探索、情感依赖和人际交往的复杂性均有突出的表现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_只要有心，人人可以是女神(下).doc]([变装]_�
 | Size            | 39936 bytes                           |
 | MD5             | 88e068e9c29766fd9cd7d093c74cc9a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 强奸, 伪娘, 男娘, 逆后宫, 情感纠葛, 乱伦, 身份冲突, 强烈欲望, 羞耻感, 权力关系, 变装, 情感依赖, 性转, NTR                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

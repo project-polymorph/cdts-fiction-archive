@@ -7,7 +7,7 @@ TXT 下载: [[附身]_分魂秘术.doc]([附身]_分魂秘术.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档涵盖了玄灵大陆东域天岚城的叶族背景，讲述了一名角色在云灵宗进行宗门考核前的准备与警告。主角叶家子弟在女昵叶清音的叮嘱下，回应其担忧，展现出他对自己处境的自信。故事可追溯到千年前，主角曾为一位成名的天尊，但遭到仇敌暗算，转世后通过分魂秘术获得重生的机会。文中涉及角色的灵魂附身过程，描绘了主角通过分魂秘术成功附身于大周公主南宫沁雪的情节。随后，描述了南宫沁雪被附身后的变故，体现出角色身体的欲望觉醒及情节的转变。剧情因机缘巧合导致主角在云灵宗进行复仇，最后伴随着对身体的探索和欲望的释放，营造出一种奇特的交织感和反转的性别认同体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_分魂秘术.doc]([附身]_分魂秘术.doc)
 | Size            | 43520 bytes                           |
 | MD5             | 31095932a414f1b526463f71a489dcab                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 玄灵大陆, 分魂秘术, 性别转换, 欲望探索, 天帝传承, 复仇, 灵魂附身, 奇幻, 大周王朝, 女性视角, 强奸, 调教, 伪娘, 变身小说, 跨性别, 情色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_CD世界OL_1初入.doc]([其他]_CD世界OL_1初入.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇以网络游戏为背景的小说，主要讲述了一位玩家在游戏中创建角色并体验游戏生活的过程。故事中的主角在论坛上热切期待进入游戏，最终以一位伪娘角色的形象出现在游戏中。文件详细描述了角色创建的步骤：设定身份、选择外观以及建立属性。在角色生成后，主角被震惊于自己变身为的美丽伪娘形象，并通过游戏互动和探索体验生活的乐趣。文中通过对角色外貌和心理状态的生动描绘，展示了对自我认同和性别认同的探索。此外，小说还涉及了如衣物选择、属性设定等细节，增加了游戏体验的代入感和真实性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_CD世界OL_1初入.doc]([其他]_CD世界OL_1初入.doc)
 | Size            | 31744 bytes                           |
 | MD5             | 030dc63f5265890ed29333d9fd439f3d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 虚拟现实, 角色扮演, 性别认同, 游戏体验, 自我探索, 青春, 萌系, 奇幻, 二次元, 网络文化, 角色创建, 性别转换, 属性设定, 宅文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

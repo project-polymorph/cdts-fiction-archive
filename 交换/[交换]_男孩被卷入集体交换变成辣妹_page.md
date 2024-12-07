@@ -7,7 +7,7 @@ TXT 下载: [[交换]_男孩被卷入集体交换变成辣妹.docx]([交换]_男
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部性转小说的文本，主要描绘了一个有关男女身体随机调换的故事。故事的主人公鸢濑天原本是一个高中男生，却因为一次意外变成了光上实里，一个三十岁的家庭主妇。同时他的女朋友和他的儿子也都经历了角色的转换，形成了复杂的家庭关系。文中详细描述了角色们在性别转换后的心理状态及社会适应，尤其是对于新的身体和性别认同的探索。小说通过角色们的互动和内心独白，展现了性别变化给每个人带来的困惑与挑战。例如，在美海与光上实里对话中，有一句“虽然身体都是女人，但我们是高中生恋人”，引发了对身份认同和社会角色的思考。作品中涉及了一些不当关系的描写，表现了角色们在性别交换后的情感混乱与冲突，以及他们如何面对新的生活方式。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_男孩被卷入集体交换变成辣妹.docx]([交换]_男
 | Size            | 37278 bytes                           |
 | MD5             | b1aa060af831d6b7d1e7134b968e4ad3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身小说, 家庭, 心理认同, 性欲, 禁忌恋, 自我探索, 性别角色, 情感混乱, 社会适应, 二次元文化, 性快感, 成年家庭, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

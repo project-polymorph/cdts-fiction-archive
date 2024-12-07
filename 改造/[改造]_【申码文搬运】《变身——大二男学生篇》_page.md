@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【申码文搬运】《变身——大二男学生篇》.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《变身——大二男学生篇》，主要讲述了主人公陈飞宇的大学校园生活及其与女友林芊芊的情感纠葛。在这一过程中，陈飞宇由于对自己大学生活的迷茫和未来的困惑，逐渐对改变自己的生活产生了想法。整个故事通过陈飞宇的视角，展示了他在大学的无聊学习生活、初恋的甜蜜和对于未来的不同思考。小说节奏逐渐加快，特别是在漫展的设定中，陈飞宇接触到星探，产生了成为明星的动情瞬间，反映了他对于改变命运的渴望和内心的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【申码文搬运】《变身——大二男学生篇》.
 | Size            | 74240 bytes                           |
 | MD5             | 11879beb99f3a9d4b41fcf0f767fcb05                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 男娘, 变身, 青春校园, 恋爱, 冒险, 偶像养成, 星探, 漫展, 情感纠葛, 自我探索, 未来选择, 角色视角, 二次元文化, 社会观察                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

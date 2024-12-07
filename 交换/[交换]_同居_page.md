@@ -7,7 +7,7 @@ TXT 下载: [[交换]_同居.doc]([交换]_同居.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于主角沈宸与室友之间的日常生活场景和情感交织的叙述。故事描绘了沈宸的内心独白和家庭情况，以及他与另一个室友的微妙关系。文中提到沈宸作为一名大学生，面临着经济压力，因此与室友合租以分摊房租，日常交流较少。故事还涉及沈宸的生活环境，阳光明媚的天气和室内植物的描写，使得整个情节显得轻松而温馨。随着情节的发展，沈宸参加了志愿活动，在图书馆认识了一个叫二狗的男人，二狗对她产生了兴趣，暗示着两人未来可能的情感发展。整体文笔细腻，充满了日常生活中的小确幸以及对恋爱与自我认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_同居.doc]([交换]_同居.doc)
 | Size            | 71168 bytes                           |
 | MD5             | df6af1e85580c73b50f2cf8faeb50cfe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 大学生, 室友关系, 志愿活动, 日常生活, 情感交流, 性别认同, 成长故事, 二次元, 微妙关系, 自我探索, 情感发展, 爱情, 温馨, 校园生活, 生活琐事, 生活苦恼                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

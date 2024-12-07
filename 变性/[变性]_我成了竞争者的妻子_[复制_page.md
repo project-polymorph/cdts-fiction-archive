@@ -7,7 +7,7 @@ TXT 下载: [[变性]_我成了竞争者的妻子_[复制.docx]([变性]_我成�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件内容是关于一个名叫悉达多·米塔尔的男人，他在商业界表现出色，但在与他秘书索尼娅的关系中，逐渐被卷入一场关于性别认同和个人探索的情感旅程中。故事起初是围绕他与竞争对手拉胡尔的商业斗争展开，但随着索尼娅的变化，他的生活逐步变得复杂。索尼娅通过一种女性化的药物影响他，让他开始对女性角色的认同感有了变化。悉达多与索尼娅的互动中，他开始试探性别角色，最终在一次商务旅行中，他穿上了女性服饰并开始探索自己内心的欲望与性别认同的冲突。他对自己作为女性的形象感到兴奋，并幻想着与男性的亲密接触。最后，他在与索尼娅的深入交流与情感联系中，面临着自我认知与身份的重新审视。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_我成了竞争者的妻子_[复制.docx]([变性]_我成�
 | Size            | 26503 bytes                           |
 | MD5             | d39fc8c5bccbac0e298ba3ea68816182                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 自我探索, 性别认同, 性转, 伪娘, 情感纠葛, 商业竞争, 男性视角, 女性化药物, 友谊与爱情, 性幻想, 性别角色, 个人成长, 心理变化, 女性气质, 探索欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

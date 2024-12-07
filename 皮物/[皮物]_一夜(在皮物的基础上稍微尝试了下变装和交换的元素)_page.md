@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_一夜(在皮物的基础上稍微尝试了下变装和交
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个年轻男性角色琰，因与一名女孩怜的接触而展开的一系列转变与探索。故事开始时，琰对怜的美貌与身材倾心，幻想着与她的互动。通过伪装成女孩与怜交朋友，琰通过社交媒体逐渐接近怜并约定见面。在准备化妆和变装的过程中，琰体验到了扮演女性的过程，包括穿上女装、化妆和塑造自己的形象，从而成功地将外在形象转变为一个清纯可人的女孩。故事中还描绘了琰与怜的约会过程，以及琰内心复杂的情感与欲望。同时，经历变化的琰面临着自我认同与外部感知的冲突。小说的情节比较开放，包含了一定的性暗示和性幻想元素，推向了一种探索和发现的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_一夜(在皮物的基础上稍微尝试了下变装和交
 | Size            | 29092 bytes                           |
 | MD5             | 62c8dcd55a617a93644e1c2ea41aaf1f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 青春校园, 自我认同, 变身, 性别探索, 女装, 情感交集, 性幻想, 同性恋, 肉欲, 调教, 约会, 隐私                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

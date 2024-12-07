@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【预告】（政敏者慎点）建国同志的最后任�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为一篇名为《建国同志的最后任务》的虚构小说预告，主要描绘了一个男性角色在美方卧底生涯中的内心斗争与身份转变。故事设定在现代的一个充满政治阴谋的背景下，通过一个名叫‘建国’的角色，展现其面临的心理冲突与生理改造过程。开头部分以幽默的生草向风格开始，通过涉及当时的疫情与国家责任，逐渐引入角色与政治背景的复杂性。文中精彩描写了人物在夜晚总统办公室里感到的孤独与责任感，以及其握笔写下反智言论以操控舆论。后续部分突显了角色在被迫进行绝密改造实验后的内心屈辱与快感，探讨了性别身份的变化对其自我认同的深刻影响。整体上，这是一部融合了政治、科幻与性别变换主题的作品，具有强烈的实验性与思考性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【预告】（政敏者慎点）建国同志的最后任�
 | Size            | 47104 bytes                           |
 | MD5             | fd67b77cd3665ac7305d5cce820a051d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 生理改造, 政治阴谋, 身份冲突, 反智言论, 伪娘, 强烈快感, 自我探索, 权力与责任, 二次元小说, 魔法, 药物改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

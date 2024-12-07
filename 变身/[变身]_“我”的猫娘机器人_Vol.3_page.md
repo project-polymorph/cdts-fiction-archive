@@ -7,7 +7,7 @@ TXT 下载: [[变身]_“我”的猫娘机器人_Vol.3.doc]([变身]_“我”�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《我”的猫娘机器人》，主要描绘了一位青年男性余易帆与他的猫娘机器人椰子之间发生的亲密关系与冒险。故事设定在一个虚构的现代都市环境，通过与科技相关的设定涉及了变身与性别转换的主题，椰子最初以可爱的猫娘形象出现，随后又经历了性别与外貌的变化。故事中，余易帆与椰子的互动充满了对性别认同与自我探索上的探讨，以及轻松幽默的日常生活场景。在一系列充满暧昧与笑料的场景中，两人经历了从相识到产生深厚情感的过程，特别是在试衣间这个私密的场景中，椰子对新身份的适应与对人类情感的认知引发了深刻的情感波动。小说中包含了许多包含性暗示的情节，尤其是两人通过性爱充电的奇特设定，也引出了对性与情感关系的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_“我”的猫娘机器人_Vol.3.doc]([变身]_“我”�
 | Size            | 35840 bytes                           |
 | MD5             | a6b96b8d051a31d8dd1a8b6633f181f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 猫娘, 跨性别, 性别认同, AI机器人, 爱情, 科学幻想, 女性视角, 自我探索, 情感冲突, 性别转换, 都市生活, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

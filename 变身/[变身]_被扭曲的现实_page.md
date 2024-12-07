@@ -7,7 +7,7 @@ TXT 下载: [[变身]_被扭曲的现实.docx]([变身]_被扭曲的现实.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一篇关于性别转换与青少年情感纠葛的小说，故事围绕男主角吴奇的日常生活展开。吴奇是一名在班上备受关注的校草，他与女友韩潇潇的感情十分甜蜜，但新转校生苏远的到来打破了这一平静。苏远不仅外表斯文且个性温和，引起了班上女生的注意，尤其是韩潇潇的关注。故事通过吴奇的视角，展示了他对新同学的嫉妒与不安，同时引发了他对自身身份的探讨。小说中出现了萌芽的异性情愫和性别角色的戏剧性变化，吴奇在一天早上发现自己意外地穿上了女式长袜，这一情节暗示了他可能面临的身份认同挑战与心理冲突。整个故事以校园生活为背景，融合了青春爱情与性别认同的主题，探讨了个体在面对自我与周围环境的变化时的反应和心理历程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_被扭曲的现实.docx]([变身]_被扭曲的现实.docx)
 | Size            | 18338 bytes                           |
 | MD5             | 2e6a63c623975714d03fc1448b5490a8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 青春爱情, 性别认同, 校园生活, 嫉妒, 恋爱, 转校生, 自我探索, 辩论, 冲突, 友谊, 成长, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

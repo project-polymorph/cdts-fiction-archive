@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魂契（四）.docx]([附身]_魂契（四）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本档案是关于一个性别转换与附身情节的小说，主要描绘了男主郑侯与其母亲之间一种复杂的关系，涉及角色的性别改变与身份认同。在故事中，郑侯回到家中，发现母亲叶筱清以一种极其吸引人的姿态出现，身着深V连衣裙，表现出一种诱惑与亲密的氛围。后续情节揭示了叶筱清被一个外部存在附身的事实，附身者意识到自己的变化并享受着身为叶筱清的身体，逐步展开了一系列关于身体、性欲与自我认知之间的探索和冲突。文本中穿插了大量性感与挑逗的描写，例如："温暖的水流洒下，感受温水在光滑的肌肤上滑过"，这些内容展现了角色在性别身份方面的矛盾与挣扎，同时也描绘了性欲的觉醒与表现。整体情节围绕着角色之间错综复杂的关系和性别认同的冲突展开，带有明显的成人向倾向。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魂契（四）.docx]([附身]_魂契（四）.docx)
 | Size            | 30959 bytes                           |
 | MD5             | 682539f08cc76c6eccb4899456e643e7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 跨性别, 情欲探索, 母子关系, 角色身份, 自我认知, 深V连衣裙, 性感描写, 成人内容, 情感纠葛, 夜店女郎, 身心体验, 变身后生活, 治疗与逃避, 视觉诱惑, 角色扮演, 心理描写, 家庭动荡, 禁忌关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

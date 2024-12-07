@@ -7,7 +7,7 @@ TXT 下载: [[改造]_人体配件店~乡下的男高中生变身时尚的女大
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于一位乡下高中男生通过变装店进行性别转变的小说。故事围绕着男主角走进这家店，向店长请教如何将自己打扮成一位时尚的女大学生。随着剧情的发展，男主角开始使用店铺里的特殊服装和配件，完成了从男性到女性的各项身体改造。文本详细描写了身体的逐步变化，包括腰部、腿部、手臂、胸部等各个部分的替换，展示了主人公从男生身份逐渐转变为美少女的过程。故事中，主人公对新的身体感到惊喜与愉悦，并且随着每一件新的配件的加入，目睹了自己从普通青年到绝世美少女的蜕变。整篇文章尝试探讨性别认同、自我形象和社会期待等主题，同时也包含了一些成人内容和细节描写，适合对性转和变装题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_人体配件店~乡下的男高中生变身时尚的女大
 | Size            | 41984 bytes                           |
 | MD5             | dc4d0fb5cab2353dcdd4bc370726047e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 男娘, 青春校园, 性别认同, 自我探索, 二次元, 幻想, 变装, 现代, SSG, 女性视角, 身体改造, 都市小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

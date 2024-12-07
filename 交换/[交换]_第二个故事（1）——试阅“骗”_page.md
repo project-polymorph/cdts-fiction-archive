@@ -7,7 +7,7 @@ TXT 下载: [[交换]_第二个故事（1）——试阅“骗”.docx]([交换]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+在这篇名为《交换》的故事中，作者艾伦·维克继续探索关于魔法与巫术的主题。故事围绕着主角艾伦与一位名为A先生的私家侦探的对话展开，A先生虽然提供驱魔服务，但他坚守职业道德，拒绝分享顾客的隐私。然而，他表示如果是艾伦自己的经历，则可以讨论。故事中，艾伦请求A先生提供灵感，以便撰写续作，并最终答应为A先生的调查工作提供协助。此故事部分探讨了自我认知与他人关系的复杂互动，展示了艾伦的创作动力与A先生的职业原则之间的矛盾，以及对个人经历的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_第二个故事（1）——试阅“骗”.docx]([交换]
 | Size            | 18793 bytes                           |
 | MD5             | 7b69235147015976539dadc1a66b625e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 艾伦·维克                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法, 巫术, 私家侦探, 创作灵感, 职业道德, 自我探索, 性别认同, 故事续作, 调查工作, 人际关系, 男性角色, 心理状态, 社交互动, 故事驱动, 虚构文学, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

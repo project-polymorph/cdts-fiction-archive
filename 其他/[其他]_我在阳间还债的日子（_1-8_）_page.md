@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我在阳间还债的日子（_1-8_）.docx]([其他]_我�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说是关于角色之间相互转换身体的故事，开篇描绘了一群人前往一个名为行知私立小学的邪教传闻地点执行除灵任务。故事的主要角色包括一位年轻男子和他的女友，以及一名妖艳的中年女性。故事通过角色之间的对话逐渐展开，他们在驱鬼的过程中面对各种灵异事件，随着情节的发展，其背后隐藏的过去和邪教活动开始逐渐显露。从第一章的炎热夏日和车厢里的抱怨中，可以感受到角色们在紧张氛围中的互动，透露出即将发生的神秘与恐怖的基调。此作品包含了一些色情和含蓄的性暗示内容，是伪娘变身和跨性别相关类型，涉及复杂的自我认知与探索主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我在阳间还债的日子（_1-8_）.docx]([其他]_我�
 | Size            | 88783 bytes                           |
 | MD5             | d66172e03a94ccfd65716639176280f6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 灵异事件, 青春爱情, グロテスク, 恐怖, 自我探索, 药物影响, 年龄差, 除灵, 奇幻, 穿越, 性别认同, 邪教, 校园, 人体改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

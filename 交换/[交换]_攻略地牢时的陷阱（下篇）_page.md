@@ -7,7 +7,7 @@ TXT 下载: [[交换]_攻略地牢时的陷阱（下篇）.doc]([交换]_攻略�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为性转小说的一部分，描绘了一群冒险者在探索迷宫新区域时的遭遇。故事中，主角凯恩和他的队伍在迷宫中与名叫伊丽娅的魅魔相遇，她的美貌吸引了队伍中的许多人。然而，伊丽娅并非表面看到的弱女子，而是具有强大魔法能力的高级魔物。她试图利用她的魅惑能力来操控男性，导致队伍成员意识模糊。最终，经过一番严峻的考验，凯恩等人在大叔戈尔多的帮助下重获意识，并意识到他们正被伊丽娅利用。故事情节中涉及到魔法、性别转变以及对魅惑魔法的探索，展现了角色在面对权力与美貌时的心理斗争。文中充满了幻想元素与色情暗示，尤其是在描写伊丽娅的身体特征与行为时。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_攻略地牢时的陷阱（下篇）.doc]([交换]_攻略�
 | Size            | 74752 bytes                           |
 | MD5             | e9beec9dc14fd3a6d371a0f594225b3e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 魅魔, 冒险, 魔法, 权力斗争, 心理探索, 性别认同, 幻想, 二次元, 幻境, 迷宫探索, 魔物, 变身, 调教, 团队合作, 魅惑魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

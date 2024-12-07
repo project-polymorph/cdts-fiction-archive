@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[申碼文]媽媽的新生妙藥.doc]([附身]_[申碼文]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于性转和跨性别主题的小说，设定在2019年台湾。故事围绕一个少年与一位无家可归的乞丐展开，少年手中握有一个可以改变他人命运的药丸，乞丐同意吞下药丸以换取新的身份。这段变身与自我认知的旅程充满了身体与心理的冲突，乞丐被转变为少年母亲的替代者。叙述过程中，涉及爱、身份认同以及家庭关系等复杂主题，随着故事的发展，角色们彼此之间的关系逐渐变得错综复杂，尤其是当乞丐的身份和新的家庭生活相互交织时，情节起伏不断且扣人心弦。该文本同时包含了明显的成人内容，描绘了情感和身体上的互动。同时，文中也增添了一些如谍战、家庭纠葛等情节，使得小说在偏向成人小说的同时，仍具有丰富的情节层次。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[申碼文]媽媽的新生妙藥.doc]([附身]_[申碼文]
 | Size            | 50688 bytes                           |
 | MD5             | 6a033f1320586c38a4a12e6504f03401                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 台湾                               |
+| Date            | 2019-07-13                                 |
+| Tags            | 性转, 跨性别, 变身, 家庭关系, 成人内容, 自我认同, 药物变身, 情感纠葛, 身体改造, 父母子女关系, 超自然元素, 都市奇幻, 爱情, 冲突, 家庭剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

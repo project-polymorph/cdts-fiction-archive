@@ -7,7 +7,7 @@ TXT 下载: [[改造]_世事无常3.doc]([改造]_世事无常3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是关于两个角色，温蒂和玛莎拉，在新宿的日常生活以及关系发展的故事。故事开始于他们享受怀石料理的晚餐，随后展开了一场在新宿街头的漫步与探索之旅。通过生动的描写，我们得以看到玛莎拉的优雅和温蒂的叛逆感，她们在寻找夜生活时自然流露出的吸引力与互相陪伴的温暖。然而，当谈及歌舞伎町时，玛莎拉对这个地方的态度突然转变，展现出她内心的矛盾与好奇。文章细致刻画了她们在新宿的冲突与互动，特别是在玛莎拉要求温蒂进行身体改造时的情感纠缠。这不仅揭示了角色之间深厚的情感联系，也突显了对性别认同与自我探索的探讨。随着剧情的发展，玛莎拉对温蒂的“主宰”地位和对温蒂身体的改造引发了戏剧性的紧张，最终两人的关系在强烈的情感波动中不断演变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_世事无常3.doc]([改造]_世事无常3.doc)
 | Size            | 58880 bytes                           |
 | MD5             | 9e9f72f2b08c3d58c3e3e2ab98bcccec                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性别认同, 自我探索, 恋爱, 文化差异, 日本, 夜生活, 性奴, 情趣内衣, BODY改造, 魔法少女, 都市, 奇幻, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

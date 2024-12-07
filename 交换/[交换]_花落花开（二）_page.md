@@ -7,7 +7,7 @@ TXT 下载: [[交换]_花落花开（二）.doc]([交换]_花落花开（二）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《花落花开（二）》的部分内容，讲述了角色丁铭栋在经历了一场噩梦之后苏醒的情节。在梦境中，他体验到了一场关于猛虎袭击的恐怖经历，醒来后发现身处陌生的医院环境，由一名女警官杨蕾进行询问。随着故事的发展，不仅展现了丁铭栋和杨警官之间的初次交流，还涉及到丁铭栋目击的刑事案件，关键证人的身份以及其身边的另一女性角色林文婵的出现。整个故事结合了诡异的叙事风格和对人物内心的复杂描写，尤其是丁铭栋对杨蕾的好感与对妻子的情感交织，使得故事在悬疑中夹杂着感情戏元素。情节中暗示了对性别和自我认知的探讨，特别是在丁铭栋的认知与情感之间的挣扎。作品语言流畅，角色塑造鲜明，适合喜欢多元性别和复杂情感故事的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_花落花开（二）.doc]([交换]_花落花开（二）.
 | Size            | 58880 bytes                           |
 | MD5             | 9da14eb18d3fc581bca78b2d7051fae6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 悬疑, 爱情, 女警, 婚姻, 梦境, 自我探索, 性别认同, 警察故事, 强烈情感, 二次元, 都市小说, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_憑依術講座,其六「精神操作」下.doc]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《憑依術講座,其六「精神操作」下》，展示了一种基于心理操控的情节，涉及一名弟弟与姐姐之间复杂的情感动态。故事的开篇是夕餐时分，场景设定为一个仅有两人的温馨晚餐，渐渐引出弟弟对姐姐心中隐秘想法的探索。文中包含了弟弟通过精神操控操控姐姐的幻想，以及他对姐姐的情感与欲望的逐步引导。故事情节强烈暗示了对姐弟关系的潜在超越，充满了挑逗与心理游戏的元素，期间，弟弟试图将姐姐的情感状态引导至一种更为亲密且充满欲望的状态，甚至涉及到一些性感的细节描写。通过这种操控，姐姐的反应表现出明显的变化，展现了对弟弟无条件的关注和新的情感倾向，使得整部作品在性别和亲密关系之间的微妙界限上形成了对比与交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_憑依術講座,其六「精神操作」下.doc]([附身]_
 | Size            | 84992 bytes                           |
 | MD5             | 425f839ea2b421fdf455cf9949832e00                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 精神操控, 姐弟恋, 性别探索, 亲密关系, 性暗示, 心理游戏, 情感操控, 角色扮演, 禁忌, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

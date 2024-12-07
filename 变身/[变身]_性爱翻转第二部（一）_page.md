@@ -7,7 +7,7 @@ TXT 下载: [[变身]_性爱翻转第二部（一）.doc]([变身]_性爱翻转�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性别变换和跨性别题材的小说，描绘了一名三十多岁的女性化学教师的生活与内心挣扎。故事通过她的视角，展现了她对爱情和身体的渴望以及对自身价值的怀疑。在一次酒吧中，她与一名陌生男子发生了短暂的性关系，而这只是她复杂情感生活的一部分。随后，小说的情节转向了学校发生的奇异事件，女教师与学生们共同经历了一个令人困惑的变身过程，所有女性都在发生可怕的身体变化，变得与男性一样。变身后的心理冲突、性别认同问题和人际关系的重塑是本故事的核心主题。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[变身]_性爱翻转第二部（一）.doc]([变身]_性爱翻转�
 | Format          | Microsoft Word Document                               |
 | Size            | 48640 bytes                           |
 | MD5             | 2a8dfd91fcac41594a5bd22a8673673d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 跨性别, 自我探索, 化学教师, 酒吧生活, 强烈性别变化, 幻想, 教育工作者, 性意识, 女性视角, 身体认同, 社会反应, 课堂混乱, 情感纠葛, 性别认同, 实验室, 性别转换, 奇幻事件                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

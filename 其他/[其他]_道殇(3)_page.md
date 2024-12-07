@@ -7,7 +7,7 @@ TXT 下载: [[其他]_道殇(3).doc]([其他]_道殇(3).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及伪娘和性转题材的小说，描绘了一系列围绕角色刘森、李诚及赵玉泠之间复杂的情感纠葛和性别身份的探索。在故事中，刘森在一所学校中不断尝试操控和干预他人的情感与性关系，表现出强烈的欲望和对他人的操控欲。小说以刘森对校花赵玉泠的追求展开，同时也探讨了刘森与他的知心朋友李诚之间的微妙关系。故事中频繁出现性别转换和性关系的描写，涉及强奸、调教、淫荡等情节，且采用了暗黑风格的叙述，明确标识了该作品属于非大众化、较为小众的题材。某些段落中包含了不少露骨的性描写，表现出角色之间的性欲望与权力游戏，其阅读体验偏向于成年向，并对性别认同与自我探索有一定的探讨。总之，文件内容较为复杂，涉及伦理与情感的多重交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_道殇(3).doc]([其他]_道殇(3).doc)
 | Size            | 50176 bytes                           |
 | MD5             | 8ba152aa175825a91a6bfc17d165b32f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 暗黑, 操控欲, 爱情, 校花, 强奸, 调教, 逆后宫, 自我认知, 情感纠葛, 欲望, 青春校园, 复杂关系, 性别探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

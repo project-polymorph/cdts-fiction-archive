@@ -7,7 +7,7 @@ TXT 下载: [[附身]_淫念无限=享受母爱.doc]([附身]_淫念无限=享�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇描绘角色意识转移和性别转换的色情小说，涉及多重复杂的情感与心理冲突。故事的主人公林明智获得了一本名为《无限淫欲》的神秘书籍，通过控魂的能力，以及意识离体的状态，他开始了一系列的冒险，最终进入到自己父母的房间，目睹了父母的亲密行为。随着情节的发展，林明智的内心转变渐渐变得扭曲，他对于自己母亲的欲望逐渐从亲情转变为性欲。文本中详细描写了主人公的冲突心理和复杂的情感线索，同时以极具挑逗性的语言揭示了家庭中的禁忌关系，极具争议性和刺激性。对于性别认同和心理上的探索，作品展示了深刻的主题，伴随着大量露骨的色情描写。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[附身]_淫念无限=享受母爱.doc]([附身]_淫念无限=享�
 | Format          | Microsoft Word Document                               |
 | Size            | 39424 bytes                           |
 | MD5             | 4a2db3460c863766cc05a1e15129de3b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 家族禁忌, 意识转移, 心理冲突, 禁忌恋, 母子情节, 灵体沟通, 复杂的情感, 二次元, 强烈欲望, 自我探索, 纯爱, 逆后宫, 调教, 年龄差, 淫荡                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_集体入替事件---777航班(老文）.docx]([交换]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以青春校园为背景的伪娘/跨性别小说，主要围绕着一群大学生的旅行经历展开。故事中的主要人物包括建宇，一位内向温和的大二学生；啊凱，他的死党，一个性格张扬且好色的年轻人；以及其他几位个性鲜明的同学。小说详细描写了他们在机场等候与登机时的互动，包括他们之间的友谊与相互调侃，以及对周围环境的观察。文中提及到的空姐与搭乘机的乘客为故事注入了更多青春气息和对女性魅力的想象，并包含了一些性暗示的情节。整体情节流畅，通过人物对话与内心独白展现了角色的个性与情感。文件内容富有青春活力，但同时也涉及了一些限制级与性相关的内容，需谨慎阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_集体入替事件---777航班(老文）.docx]([交换]_�
 | Size            | 38754 bytes                           |
 | MD5             | 961ef7adb17be507d6f1becc06fc36c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 大学生活, 青春小说, 旅行, 友谊, 性别认同, 青年文学, 校园故事, 空姐                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

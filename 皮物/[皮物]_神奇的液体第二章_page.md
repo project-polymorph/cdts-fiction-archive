@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_神奇的液体第二章.docx]([皮物]_神奇的液体第
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《神奇的液体》第二章，属于性转小说的范畴。故事围绕一个女孩的日常生活展开，描绘了她从洗澡到穿衣的细节，展现了她对自己身体的迷恋与自我认知的探索。作品中包含了对身体变化的描述，以及角色在性别转换中所经历的心理冲突和欲望波动。随着情节的发展，女孩遇到了她的老师，郑怡静，并发展出复杂的师生关系。故事还涉及了一瓶神奇液体的实验性质，暗示了身体的改造和性别认同上的转变，以及随之而来的伦理与心理问题。此章在叙述过程中描绘了少许露骨的性行为，暗示了性与身体之间的亲密关系，同时表达了对于幻想与现实的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_神奇的液体第二章.docx]([皮物]_神奇的液体第
 | Size            | 22523 bytes                           |
 | MD5             | 6c20d6af0b9629d2024ef5b92d57df2a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 奇幻, 自我认知, 师生关系, 隐秘欲望, 身体改造, 实验, 心理冲突, 青春期困惑, 男性视角, 女体化, 异世界体验, 禁忌爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

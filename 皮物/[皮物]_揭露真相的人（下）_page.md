@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_揭露真相的人（下）.docx]([皮物]_揭露真相的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《揭露真相的人（下）》，属于伪娘 TS 变身与跨性别相关小说领域的作品。故事围绕女主角李香宛展开，她以伪装的方式参与了一场尤为重要的直播节目。在节目中，她与同事们紧密合作，为揭露隐藏的真相而努力。文中描绘了她在公司中的工作日常及与朋友之间的互动，包括亲密的寒暄和对未来的憧憬。情节进一步发展至她与节目的总负责人阮朝宗之间的权力游戏，以及她作为怪盗Masker进行的神秘行动。在这场争夺宝石的游戏中，李香宛穿着性感的OL套装，与同伴一同克服困难、面对挑战，展现了角色内心的挣扎与成长。最终，李香宛成功地在直播中揭露了真相，令人期待该事件的后续进展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_揭露真相的人（下）.docx]([皮物]_揭露真相的
 | Size            | 44915 bytes                           |
 | MD5             | 5c1d09328647b88f5b2862f0a1a84784                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 直播, 神秘事件, 悬疑, 权力游戏, 友情, 勇气, 自我探索, 宝石, 爱情, 职业OL, 秘密任务, 角色扮演, 都市幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

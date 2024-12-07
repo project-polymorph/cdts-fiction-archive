@@ -7,7 +7,7 @@ TXT 下载: [[变性]_残身(第四至六节).doc]([变性]_残身(第四至六�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件段落记录了一位名叫刘栋的角色与李金凤的日常生活与情感互动，描绘了他们在医院工作的背景下，围绕着职业与个人生活的融合。故事中刘栋从医院得到电影票，决心与李金凤一同观看，展现了两者之间微妙而复杂的关系。在电影院中，李金凤意外遭遇骚扰，刘栋出手相救，表现出对李金凤的保护与关心。这一事件不仅让李金凤对刘栋的印象改变，也反映了社会对性别角色的看法与期待。内容中更有对性别认同、自我认知的深入描写，暗示李金凤的性别角色探索与自我表达过程。通过生动的场景与情感描写，该作品深入探讨了性别与心理健康之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_残身(第四至六节).doc]([变性]_残身(第四至六�
 | Size            | 46592 bytes                           |
 | MD5             | 226e145c0d5295b8ef2381d5f3dbf175                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 生活, 情感, 爱情, 性别认同, 心理探索, 影视, 日常生活, 医务, 社会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

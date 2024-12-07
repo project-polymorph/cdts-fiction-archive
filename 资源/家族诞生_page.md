@@ -7,7 +7,7 @@ TXT 下载: [家族诞生.doc](家族诞生.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一位年轻人在堂哥意外去世后，家族会议所引发的思考与变故。内容开始于堂哥在生日宴上猝死，小说通过旁观者的视角揭示了对堂哥的复杂感情与家族内部矛盾的描写。随后，家族成员聚集在灵堂，展现出一种紧张、拘谨的氛围，而家族的族长三叔则提出了一个关于家族历史和未来的讨论，强调了家族单传的传统及其后果。角色们在这场会议中不断反思自己的身份和责任，尤其是关于如何打破家族诅咒的讨论。在这个过程中，故事开始涉及一种超自然的元素，家族成员们的灵魂被迫互换身体，为接下来的情节铺平了道路。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [家族诞生.doc](家族诞生.doc)
 | Size            | 45056 bytes                           |
 | MD5             | c54385a958dccd8ff16382b51522a38d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 家族会议, 变身, 灵魂互换, 性别认同, 责任, 死亡与反思, 超自然, 成长, 身心变化, 家族传统, 人物发展, 心理冲突, 禁忌关系, 自我探索, 情感纠葛, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

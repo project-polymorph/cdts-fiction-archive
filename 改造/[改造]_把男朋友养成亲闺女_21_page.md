@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_21.doc]([改造]_把男朋友�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是多元性别主题的伪娘/TS 变身小说的一部分，讲述了角色贝丽和她的朋友坎迪照顾小男孩米奇的故事。小说中的角色经历了性别身份的探索与认同，贝丽作为生理性别为男性的角色，通过与其他角色的互动，逐渐接受自我变化，流露出对女性形象的渴望与认同。故事中包含了游泳池的活动，角色们在给米奇涂防晒霜时展现出互动和亲密感，贝丽体会到照顾孩子的乐趣与挑战，同时展现出她对时尚的热爱，通过与坎迪的对话，探讨了个人的自我认同与家庭背景。这部小说不仅涵盖了轻松的日常生活场景，也暗含了更深层次的性别认同和自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_21.doc]([改造]_把男朋友�
 | Size            | 45056 bytes                           |
 | MD5             | 05b74549d21a87dbb343b1aeaee51c9a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 2022-05-15                                 |
+| Tags            | 变身, 伪娘, 性别认同, 自我探索, 日常生活, 儿童照顾, 泳池活动, 时尚, 女性形象, 友谊, 成长经历, 情感互动, 性别转换, 二次元, 轻小说, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

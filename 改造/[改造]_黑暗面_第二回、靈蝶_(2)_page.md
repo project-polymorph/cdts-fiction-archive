@@ -7,7 +7,7 @@ TXT 下载: [[改造]_黑暗面_第二回、靈蝶_(2).docx]([改造]_黑暗面_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇围绕变身与性转主题的小说第二回《靈蝶》。故事中，角色正义小崔在经历了一场备受瞩目的记者会后，视线聚焦于他的内心挣扎和外在表现。访谈过程中，记者洁西卡展现出她迷人的外表和诙谐幽默的个性，但与角色崔斯特之间却流露出复杂的情感。在后面的情节中，洁西卡的欲望和身份逐渐暴露，涉及到更多性别转变的暗示和相互吸引的情感交织。故事在展现人物关系时，同时潜伏着探讨性别认同与角色身份的深层次议题。整体写作风格融合了幽默与挑逗，展现了角色的黑暗面，语气时而严肃、时而调侃，适合成熟读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_黑暗面_第二回、靈蝶_(2).docx]([改造]_黑暗面_
 | Size            | 38744 bytes                           |
 | MD5             | 38d73c6046ff95e672578c8c88bafe15                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 性转, 调教, 性感, 都市, 情感纠葛, 媒体炒作, 暗示性吸引, 性幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

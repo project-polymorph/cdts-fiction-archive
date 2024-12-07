@@ -7,7 +7,7 @@ TXT 下载: [[变身]_一个正确的大错误.docx]([变身]_一个正确的大
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《一个正确的大错误》，由作者 MistressD 撰写。文件内容主要讲述了主人公鲍比·麦休的生活与内心世界。鲍比在一家律师事务所工作，尽管他内向且自我觉得不堪，但他内心深处却渴望着成为一个吸引人的女性。他的幻想往往集中在在办公室遇到的女性同事身上，包括她们的外貌、身材和服饰等细节。在一次次与女性相处中，鲍比对她们的观察和思考展现了他对性别的复杂认知。尤其是在一段对话中，鲍比回想起他与律师芬柔妮卡的接触，细腻地描绘了她的外貌和他内心的迷恋。此外，文件中包含了鲍比对于自己性幻想的深刻思考，并表现出他希望从自己的身份中解放出来，成为一个完全不同的、性感的女性。这篇文章包含了丰富的细节，也反映了性别认同与个人欲望的主题，适合对跨性别和性别角色探索感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_一个正确的大错误.docx]([变身]_一个正确的大
 | Size            | 46703 bytes                           |
 | MD5             | 7c8080bb5375d6729b540d2d02d29cd9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | MistressD                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 办公室恋情, 性幻想, 角色认同, 女性形象, 自我探索, 社会适应, 性别角色, 都市小说, 职业女性, 青春文学, 心理描写, 二次元文化, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

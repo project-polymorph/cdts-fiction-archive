@@ -7,7 +7,7 @@ TXT 下载: [[变装]_李思思的最后一夜.docx]([变装]_李思思的最后
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于李思思的变装与自我探索故事。故事开始于周日晚，李思思作为一名伪娘，浓妆艳抹，穿着紧身裙和高跟鞋，来到变装小屋。在这里，她与朋友们聚会。文件中包含了对李思思内心冲突的深刻描写，她对自己的性别认同感到困惑，同时也反思了与朋友的关系和性别角色。小屋内，李思思与朋友谈论变装和个人身份，逐渐揭示出她对生活的忧虑和对未来的期望。文件中展示出李思思对此变装生活的厌倦以及对常规生活的向往，也提及了她对女友的看法，表现出一种对传统角色的渴望与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_李思思的最后一夜.docx]([变装]_李思思的最后
 | Size            | 22755 bytes                           |
 | MD5             | a0a4541a0123c2f67cdda06def33278a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 自我探索, 性别认同, 跨性别, 聚会, 情感纠葛, 成长, 夜生活, 内心挣扎, 激素, 爱情, 同志情感, 社会压力, 青春期困惑, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

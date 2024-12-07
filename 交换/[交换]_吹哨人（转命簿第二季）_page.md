@@ -7,7 +7,7 @@ TXT 下载: [[交换]_吹哨人（转命簿第二季）.doc]([交换]_吹哨人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档摘录自一部名为《吹哨人（转命簿第二季）》的小说。故事以宁盟为主人公，描绘了他与女友薇薇安的一次见家长的经历，展示了文化冲突与性别认同的主题。在开篇，宁盟在参加女友家聚会之前，内心对情感与身份的期待与紧张交织。他原本试图以男性身份出席，但女友却开玩笑地让他代替她之前的女性同学，暗示宁盟可能需以女性身份出现。文中包含了对性别认同、文化差异及自我探寻的探讨，探讨了人际关系中可能存在的幽默与尴尬。此外，故事背景设置在美国马里兰州，提及了和生物实验室的相关工作，引发对科学实验的伦理与道德的思考。故事中还夹杂了一些幽默对话与文化举例，展示了中美文化差异。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_吹哨人（转命簿第二季）.doc]([交换]_吹哨人�
 | Size            | 252928 bytes                           |
 | MD5             | 1f5a80a0b1d62e17ef5f576d2318f939                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 文化差异, 自我探索, 性别转换, 轻小说, 幽默, 二次元, 跨性别, 亲子关系, 社会关系, 抑制剂实验, 生物医学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

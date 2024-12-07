@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《少女游戏》开拓者篇00.docx]([变身]_《少女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《少女游戏》开拓者篇00，是一部描述角色穿越异世界并经历奇幻冒险的变身小说。在故事初始，主人公小林与其他冒险者一起被传送到一个名为‘少女游戏’的异世界。在探索这个世界的过程中，小林发现自己通过传送门进入的选项与游戏的玩法有着密切联系。作品中充满了冒险元素，包含对角色自我身份的探索与变化。小林在冒险的过程中，不仅遭遇了各种挑战，还与其他角色进行了互动，包括一名陌生的男青年芬克。该故事的情节逐渐变得复杂，小林经历了摔跤、落水，最终发现芬克在受到攻击后变成了一名犬耳少女，并成为猎人的宠物，经历了身份与认同的剧烈转变。文中包含了一些性别转换、变身以及可能的性暗示情节，例如芬克被迫吃下狗粮并发生了身体变异，引起了小林的复杂情感。整体故事充满了冒险、幻想与变身的元素，同时探讨了对性别和身份的认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《少女游戏》开拓者篇00.docx]([变身]_《少女�
 | Size            | 22095 bytes                           |
 | MD5             | aa649a0fafbeaf557aec032cf308d31b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 异世界, 角色扮演, 冒险, 性别转换, 犬耳少女, 自我认知, 伙伴关系, 猎人与猎物, 性暗示, 奇幻, 幻想, 变身小说, 跨性别, 青春, 游戏设定, 生存                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

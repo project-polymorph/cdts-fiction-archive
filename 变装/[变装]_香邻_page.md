@@ -7,7 +7,7 @@ TXT 下载: [[变装]_香邻.docx]([变装]_香邻.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《香邻》，是一篇关于伪娘、跨性别和性转内容的故事。故事讲述了主人公在好莱坞的一间公寓中，与邻居维姬的微妙关系。故事开始于一个凌晨，当维姬因为停电而求助于主人公时，他们的关系由此展开。在她的单元里，出现了一幕充满情色暗示的聚会场景，暗示了维姬的特殊生活方式。随着故事的发展，主人公逐渐与自己内心的真实欲望做斗争，并在维姬的引导下探索自我认同。在一系列对话和事件中，两个角色之间的情感与权力动态不断变化，体现了顺从与占有的主题。最终，主人公向维姬坦承自己的内心渴望，走向伪娘助手的角色，接受了一场自我认知和身心转变的旅程。这篇小说深入探讨了性别身份、自我探索以及跨性别议题，内容中包含了对性相关内容的直接描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_香邻.docx]([变装]_香邻.docx)
 | Size            | 18835 bytes                           |
 | MD5             | 32176f77833c82e2a7a4b565dcf5fb88                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 美国                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 变身, 自我探索, 女性主宰, 顺从, 邻里关系, 性别认同, 欲望, 成人内容, 爱情, 权力动态, 性感服装, 心理冲突, 派对文化, 神秘吸引                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

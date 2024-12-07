@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_隐藏在思念的尽头.docx]([皮物]_隐藏在思念的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《隐藏在思念的尽头》，是一篇关于伪娘和性转主题的跨性别相关小说，描绘了主角启介在一次意外中与女生美沙交换身体后的经历。故事情节围绕启介对自身性别认同的挣扎展开，既有对美沙生活的体验，也夹杂着对美沙与其丈夫雄一之间关系的复杂心理。作品以细腻的情感描写和梦幻般的幻想场景为特点，展示了启介在女性身体中逐渐体验到的新感受和情感波动。故事中的启介对自己的身体产生了前所未有的好奇与探索，并在情感上发生了微妙的变化，反映了性别认同与自我认知的复杂性。文中包含了丰富的情感对话和幻想情节，营造了一种既浪漫又带有一定紧张感的气氛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_隐藏在思念的尽头.docx]([皮物]_隐藏在思念的
 | Size            | 21655 bytes                           |
 | MD5             | f5b0179bedc79942468b7f18bc6783f0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 幻想, 身份认同, 情感纠葛, 家庭关系, 自我探索, 青春困惑, 男女性别交换, 情欲体验, 心理冲突, 爱情, 青春期                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

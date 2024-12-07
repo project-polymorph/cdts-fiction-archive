@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《魅魔手套》第二季·第二章.doc]([附身]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于性转与跨性别相关小说的片段，故事围绕主角林勇与女同学秋明雅展开。文中描绘了林勇在校园生活中的遇见，包括他对秋明雅的关注以及他经历的一场突发事件。故事中的林勇在课堂上偷瞄秋明雅，内心产生了复杂的情感和困惑，尤其是在他遇到一场文化事件后，对秋明雅的行为产生了质疑和不安。特别是他在独处时，突然被秋明雅以手套控制，引发了一系列不可预知的变化。文本中有大量对性欲、身体和心理状态的描写，以及角色之间的互动和冲突，突显了性别认同、自我探索及强烈的性暗示。但出于科学研究与学习的目的，此文也包含了一些较为敏感的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《魅魔手套》第二季·第二章.doc]([附身]_《�
 | Size            | 48128 bytes                           |
 | MD5             | a560f3b75ede5dc001f5d09cf6fbfba8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 校园, 自我探索, 性欲, 情感纠葛, 强烈性暗示, 角色冲突, 黑色手套, 心理状态, 文学, 现代小说, 奇幻, 梦境, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

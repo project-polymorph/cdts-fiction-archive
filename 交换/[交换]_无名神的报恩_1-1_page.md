@@ -7,7 +7,7 @@ TXT 下载: [[交换]_无名神的报恩_1-1.docx]([交换]_无名神的报恩_1
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《无名神的报恩》是一本涉及性别转换和自我认知的小说，讲述了主角林健在意外中觉醒，发现自己突然变成了女性的身体，身穿低胸连衣裙，体验着生理与心理的双重困惑。小说开篇主角林健在模糊的意识中缓缓苏醒，发觉自己的身体发生了巨大的变化，胸前的隆起与之前的男性身份形成强烈的对比，让他在一片混乱和惊讶中开始寻找真相。随着情节的发展，林健与一个自称为无名神的神灵建立了联系，了解到了自身变故的原因。在这个过程中，林健不仅要面对自己的性别认同问题，还需要解开无名神被封印的秘密，为此经历了一连串奇妙而又充满挑战的冒险。小说通过幽默与惊讶的笔调展现了角色心理上的挣扎与转变，并探讨了与性别认同、自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_无名神的报恩_1-1.docx]([交换]_无名神的报恩_1
 | Size            | 23331 bytes                           |
 | MD5             | 478cebe845536049fdf514b61be6fab9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 奇幻, 自我探索, 神灵, 附身, 变身小说, 青春, 现代, 黑客                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交換人生的電梯.doc]([交换]_交換人生的電梯.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于两位女性在电梯中遭遇意外的小说，主要讲述了住在同一栋公寓的大人母花田玲子和高中生工藤仁菜之间的互动。故事开始于一个阳光明媚的星期天，二人在电梯中偶然相遇，未曾打招呼便静静地乘梯。当电梯在不明原因下停滞，二人经历了一系列的紧张与恐慌，试图弄清楚当前的状况。电梯不仅停下了，还因不明原因开始旋转。最终，电梯停下来后，两位角色的服装和身份似乎发生了神秘的变化，从原本的搭乘者变成了居于男性角色的形象，衣着上也显著改变，引发了对自身身份的冲突与探讨。整个故事利用电梯的封闭环境象征着角色之间的心理问题及性别角色的挣扎，搭配奇幻的剧情设定，探讨了性别认同与自我意识的问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交換人生的電梯.doc]([交换]_交換人生的電梯.
 | Size            | 47104 bytes                           |
 | MD5             | 38af05c7f9473fdff312031eaa0e357f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 电梯事故, 身份认同, 奇幻小说, 女性角色, 心理探索, 电梯旋转, 穿越, 伪娘小说, 青春成长, 意外事件, 情感对抗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

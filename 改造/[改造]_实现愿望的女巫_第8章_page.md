@@ -7,7 +7,9 @@ TXT 下载: [[改造]_实现愿望的女巫_第8章.doc]([改造]_实现愿望�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为改造系列小说的第八章，主要围绕着发生在王宫更衣室的情节展开。故事描绘了国王与王后实际上是同一个人的设定，而邻国的二王子与他们的关系则更加复杂。章节描述了赤裸的母女之间的亲密行为，和对彼此身体的探索，以及情感上的冲突和更深的联系。细腻的描写展现了角色间的心理变化和对自我认知的种种疑惑，尤其是白雪公主对皇后身体的嫉妒与渴望。剧情中融入了强烈的性别转换和跨性别主题，反映出角色在性别认同上的挣扎与接受。
+
+章节最后描绘了四个角色的纠缠与冲突，包括对性与权力的揭示，暗示着角色间既是感情又是权力的关系。整体情节包含诸多限制级内容，体现了复杂的权力动态和身体政治，是一部相对极端的性转与变身小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_实现愿望的女巫_第8章.doc]([改造]_实现愿望�
 | Size            | 31744 bytes                           |
 | MD5             | ab947d1311ab09dda17cf21d0767b78b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 家庭关系, 权力动态, 性别认同, 心理探索, 限制级内容, 情感冲突, 二次元, 强烈情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

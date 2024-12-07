@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_菟丝，女萝和番韭.doc]([皮物]_菟丝，女萝和�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇涉及跨性别和伪娘主题的小说，探讨了皮物（即由皮肤制成的替代人形物体）的概念和相关情节。故事围绕女主角林雨诺和她的同学苏逸逸展开，描绘了一段复杂而紧张的关系。文中包含了林雨诺遭到赢犇同学侵犯的情节，赢犇使用药物对林雨诺施加控制，导致她的身体变成了一种可供别人使用的皮囊。故事中穿插了对角色性别转变和身份认同的探讨，且情节涉及强迫、侵犯和变身等主题，表现了对权力和控制的扭曲理解。文中对角色间关系和冲突的描绘相对细腻，但对于皮物所带来的情感和心理变化的探讨较为浅显。文字风格层次分明，但对于色情元素的呈现方式较为直白，适合成年读者阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_菟丝，女萝和番韭.doc]([皮物]_菟丝，女萝和�
 | Size            | 61440 bytes                           |
 | MD5             | ed6030fd1ac9d9c771cff1dd10865c5b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身, 性别认同, 强迫, 侵犯, 角色关系, 药物控制, 皮物, 男女关系, 百合, 情感冲突, 身份探索, 性转, 科幻色情, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

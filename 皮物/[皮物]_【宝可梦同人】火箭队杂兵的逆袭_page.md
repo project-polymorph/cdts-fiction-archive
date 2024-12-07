@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【宝可梦同人】火箭队杂兵的逆袭.doc]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档记录了一名名叫宝多健太的角色，他是希鲁夫公司的一名送货员，同时也是邪恶集团火箭队的杂兵。故事发生在关东和城都地方的交界处，宝多健太的任务是寻找神秘宝可梦梦幻的踪迹。在旅程中，他目睹了一名少女与强大的宝可梦进行战斗，并不禁对其赞叹。然而，当他意外卷入战斗时，局势变得险恶。在面对一名黑衣人时，宝多健太奋勇相救，导致自己受到重创，最终他利用自己唯一的宝可梦——阿柏蛇，巧妙地逃脱。文中包含对角色内心冲突的描写，以及对战斗场景的细腻刻画，令人感受到他对训练师身份的渴望与火箭队杂兵身份的无奈。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【宝可梦同人】火箭队杂兵的逆袭.doc]([皮物
 | Size            | 70656 bytes                           |
 | MD5             | 2a2df4ce23a5029a0ac3ae5487dbb2a3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 火箭队, 宝可梦, 变身小说, 青春成长, 自我探索, 战斗, 英雄救美, 友情, 性别认同, 黑衣人, 少女, 冒险, 二次元, 跨性别, 角色扮演, 虚拟现实, 动漫, 幻想, 战斗小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

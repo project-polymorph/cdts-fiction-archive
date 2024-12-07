@@ -7,7 +7,7 @@ TXT 下载: [[变装]_高中_仁_1-3_(算完吧).doc]([变装]_高中_仁_1-3_(�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一本关于高中生仁的变装经历的小说，故事围绕他在校庆日穿着女仆装参与活动的情节展开。故事开头描述仁早上醒来时发现自己快迟到，匆忙赶到学校参加校庆。由于男生们对穿女仆装的反应不一，仁在班级的女仆咖啡馆中被迫穿上了剩下的相对奇特的服装。当仁穿上由动漫社借来的女仆装时，不仅面临服装的紧身与束缚感，还要克服内心的羞耻与混乱。故事详细描绘了他穿上装扮的过程，包括束腰、手套、面具及靴子的穿戴。最后，仁在活动期间因打扮吸引了众多外校生注意，引发一系列有趣却略显尴尬的事情。整个故事探索了性别角色的扮演、青春的羞涩，以及对自我的认知与变形过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_高中_仁_1-3_(算完吧).doc]([变装]_高中_仁_1-3_(�
 | Size            | 103936 bytes                           |
 | MD5             | d2a60cfdb4d15e3325445087ddd06c96                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 女仆装, 校园故事, 自我认知, 角色扮演, 奇幻, 青春生活, 羞耻, 社交互动, 变身, 男娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

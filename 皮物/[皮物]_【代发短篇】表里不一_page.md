@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【代发短篇】表里不一.doc]([皮物]_【代发短�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《代发短篇》表里不一，内容围绕一个私人高级实验室的奇幻故事展开。故事中的主要角色刘玉杰是一名科研人员，在一次实验中由于意外的化学反应，身体发生了奇异的变化，变成了一个没有五官的黑色人形。同时，一名盗贼意外进入实验室，因误打误撞的行为，变成了一具美丽的女皮，后来与刘玉杰的身体发生了奇妙的结合。两人之间展开了一场关于身份、自我认同的探索与融合，伴随着欲望与性别认同的冲突，形成了一段颇具戏剧性的情感纠葛。文件详细描述了刘玉杰在变身后的痛苦与挣扎，以及他与盗贼的对话，深入探讨了性别与认同的主题。作品还涉及了一些限级内容，描述了两者身体融合过程中的感官体验与心理变化，描绘了较为复杂的人物关系。故事最终以两位女学者的成功与出名作为结尾，留有诸多悬念与想象的空间。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【代发短篇】表里不一.doc]([皮物]_【代发短�
 | Size            | 34304 bytes                           |
 | MD5             | b3c14f08e5a3a04402182821d7c99226                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 自我认同, 亲密关系, 实验室, 禁忌之恋, 女性视角, 奇幻, 另类科学, 人际关系, 双重身份, 身份融合, 欲望探讨, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

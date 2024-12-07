@@ -7,7 +7,7 @@ TXT 下载: [[附身]_附身异界少妇（6）.doc]([附身]_附身异界少妇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《附身异界少妇》第六章，讲述了主角德伦在异世界的遭遇。故事开篇，优雅的银发少妇雅莉娜在与矮人交易后，带着奴隶契约离开，随后德伦在黑暗中苏醒，发现自己被关在铁笼中。美妇雅莉娜与德伦展开了一场心理斗争，德伦试图利用他的力量反抗，但由于被捆绑和压制，无法施展魔法。随着情节的发展，德伦与雅莉娜之间的张力不断加深。他不得不面对自己变成女仆的事实，经历身份与性别的转换。雅莉娜利用血继能力对德伦进行了催眠，最终德伦的自我意识受到极大的冲击，对身份的认同开始产生混淆。在紧张的气氛中，德伦被迫进入了一个全新的角色，他的内心充满挣扎与悔恨，同时也对美妇雅莉娜产生了复杂的情感。该章节探讨了性别认同、身份转换与权力动态等主题，情节发展包含了催眠、身体变化和对话中的冲突，充满了奇幻和冒险的色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_附身异界少妇（6）.doc]([附身]_附身异界少妇
 | Size            | 36352 bytes                           |
 | MD5             | d563a5285d644ac3d4809c7f250a2a39                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 催眠, 奴隶契约, 女性角色, 恶魔, 自我认同, 心理斗争, 异界, 幻想文学, 变身, 魔法, 权力动态, 青春, 女仆, 心理操控                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

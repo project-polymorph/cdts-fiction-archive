@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮物】杰西卡的游戏（上）.doc]([皮物]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于名为《杰西卡的游戏（上）》的跨性别题材小说，主要围绕男孩安迪与其好友莫妮卡之间的情感纠葛。故事开篇描绘了莫妮卡因疾病面临生与死的痛苦，安迪为她的离去感到深深的伤痛。在莫妮卡的生命最后阶段，她与安迪之间建立了深厚的友情，彼此倾诉心声，并彼此给予慰藉。随着故事的发展，莫妮卡的母亲卡洛琳希望安迪能代替已故的女儿活下去，并赋予他一个新的身份。文件呈现了安迪的内心挣扎与对莫妮卡深切的怀念。作品中包含了一些关于性别认同和情感冲突的探讨，以及生与死的哲学思考，展现了角色面对身份与亲情的覆灭时的复杂心境。内容适合对跨性别与变身主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮物】杰西卡的游戏（上）.doc]([皮物]_【�
 | Size            | 52736 bytes                           |
 | MD5             | 3c43530c0bf11a38a9d3af57b33d6c8d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 情感纠葛, 身份认同, 生与死, 友情, 变身, 自我探索, 母子关系, 青春, 疾病, 内心冲突, 科幻元素, 伪娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

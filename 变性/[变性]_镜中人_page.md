@@ -7,7 +7,9 @@ TXT 下载: [[变性]_镜中人.doc]([变性]_镜中人.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《镜中人》是一篇涉及性别认同与性转主题的小说，描绘了角色在复杂自我认知与性别转换之间的挣扎和内心冲突。故事以一个男人的视角展开，他在成功的外表和内心的欲望之间感到矛盾。他在私人生活中逐渐展示出对于自己性别认同的疑惑与探索。小说中包含了一系列情色场景，强调了身体的变化与自我认知的复杂性。例如，角色在镜子前的沉思和对自身外表的严苛审视，体现了性别认同发展中的心理冲突和情感的摇摆。通过对人物心理的细腻刻画，展示了禁忌与纯爱的主题。小说中反复提及对身体的感知，以及性别与个体之间的关系，引人思考。
+
+该文本描绘了多种刺激与挑战，包括一段充满情欲的对话，以及在醉酒状态下的性行为，呈现出复杂的人际关系与心理状态。同时，文中不乏对于过去的回忆与幻想，极大地丰富了角色的背景故事，这种内外的冲突使得作品层次多元，值得深入研究与探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_镜中人.doc]([变性]_镜中人.doc)
 | Size            | 44544 bytes                           |
 | MD5             | f9480e01bff2f8c99090f8e4d7fd1f66                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 性转, 伪娘, 心理冲突, 变身, 情色, 禁忌恋, 情感纠葛, 现实与幻想, 男性视角, 身体意识, 抽搐, 药物依赖, 醉酒状态, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

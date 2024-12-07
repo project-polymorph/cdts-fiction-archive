@@ -7,7 +7,7 @@ TXT 下载: [[变身]_魔法少女ヒロミ☆ひろ_2-3.docx]([变身]_魔法�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于魔法少女的变身小说，着重描绘了一名男性角色在变身后体验女性身体的过程。在故事中，男主角经历了身体性别的转换，逐渐适应女性形象，并与另一名男性角色进行了一系列亲密接触。通过此类描写，该文本探讨了性别认同、自我探索与身体感知等主题。文本中包含了强烈的情感与感官体验的描述，如“胸部被他人抓住的感觉”和“他手指的动作让我浑身颤抖”，讲述了这个角色对身体变化的复杂感情与身体快感的接受。部分内容涉及性行为的细致描写，可能包含成人内容，因此适合成年读者或进行研究的人员学习分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_魔法少女ヒロミ☆ひろ_2-3.docx]([变身]_魔法�
 | Size            | 20137 bytes                           |
 | MD5             | 91a52d9b3212bd53a75abd4f65a3d79d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 魔法少女, 性转, 跨性别, 自我探索, 身体认同, 恋爱, 情感矛盾, 强烈感官体验, 敏感体质, 男性变女性, 男主角, 魔力恢复, 亲密接触, 性别角色交换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

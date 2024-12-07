@@ -7,7 +7,7 @@ TXT 下载: [[其他]_门外的神明.doc]([其他]_门外的神明.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档的内容描绘了一个关于科学实验和个人探索的故事，作者以实验室为背景，讲述了一名研究生因留校过年而做的实验。在一次偶然中，他发现了一片能够映射“人生轨迹”的透明薄片，随后通过薄片变换了一个名为高咲侑的纸片人的人生轨迹，从而获得了一种奇妙的体验。在接下来的情节中，作者探讨了角色的身份认同、身体的变换与意识的交互，融合了幻想和科学的元素。文本中多次提到个人对自我与他人存在的思考，涉及“人设”的改变和自我认知的冲突。尤其是对高咲侑这个角色的深度描绘，体现了个体在经历变化后的内心感受与接受过程。同时，文中也融入了对性别及性认同的探讨，在与角色互动的过程中传达出复杂而含蓄的情感。整个故事既有科幻色彩，又包含了一定的成人元素，适合对性别与身份认同感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_门外的神明.doc]([其他]_门外的神明.doc)
 | Size            | 52736 bytes                           |
 | MD5             | a3f62007056308f1b26d478df245edd8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 科学实验, 角色身份, 自我认知, 幻想, 纸片人, 二次元文化, 身体变换, 高咲侑, 心理探索, 个体存在, 成人情节, 科幻, 主观体验, 情感纠葛, 自我认同, 平行世界, 异次元, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

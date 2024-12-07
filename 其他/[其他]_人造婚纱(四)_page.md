@@ -7,7 +7,7 @@ TXT 下载: [[其他]_人造婚纱(四).doc]([其他]_人造婚纱(四).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件标题为《人造婚纱(四)》，内容主要围绕两位女性角色秦娜和吴雯雯的故事进行展开。故事中，秦娜是一名科学家，她利用一种特别的神经溶液进行实验，企图将角色林子奇的意识转移并复原其人类身份，而林子奇则在之前的实验中被转变为一条婚纱。文件详细描绘了秦娜与林子奇以及吴雯雯之间复杂的关系，以及他们在追求梦想和实验过程中所经历的心理冲突与情感纠葛。吴雯雯梦想开设婚纱博物馆，并与张鸣订婚，然而却受到一系列实验和转变的影响。整体叙事较为细致，探讨了性别认同、自我意识以及现代科技对人类身体和情感的影响等主题。文中提到秦娜用生物化学的方法进行实验，以求能将婚纱复原为人，且强调了这个实验的伦理与人格问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_人造婚纱(四).doc]([其他]_人造婚纱(四).doc)
 | Size            | 39936 bytes                           |
 | MD5             | eb5e7758969e4ef389a15fa8ed405c89                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 科学实验, 婚纱博物馆, 意识转移, 自我认知, 情感纠葛, 现代科技, 性别认同, 科幻, 女性角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

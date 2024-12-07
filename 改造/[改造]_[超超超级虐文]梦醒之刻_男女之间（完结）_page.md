@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[超超超级虐文]梦醒之刻_男女之间（完结）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《梦醒之刻 男女之间（完结）》是一部涉及恋爱、成长与性别认同的小说。故事设定在冬季，描绘了主人公夏馨与她的同学雯雯一起外出游玩，路途中邂逅了她的未婚夫伊飞的老板寿江。小说以细腻的生活场景和内心独白展现了夏馨对未来的憧憬和对感情的探索。夏馨与未婚夫的关系是小说的核心，她对伊飞的爱和对未来的向往相互交织，但同时也面临着家庭背景的困扰和对未婚夫将来职业的忧虑。文中通过幽默的对话和生动的细节刻画了青春的无忧无虑和内心的挣扎，充满了细腻的情感描写和温馨的情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[超超超级虐文]梦醒之刻_男女之间（完结）.
 | Size            | 136704 bytes                           |
 | MD5             | 4ca56b068a6843cef7cf9f14d99dd251                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 爱情, 青春, 性别认同, 婚姻, 成长, 未婚夫, 童年回忆, 同学, 友谊, 人物内心冲突, 冬天, 浪漫, 甜蜜                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

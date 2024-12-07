@@ -7,7 +7,7 @@ TXT 下载: [[交换]_为什么这么对我（四）.docx]([交换]_为什么这
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别主题小说中的一部分，描绘了一位角色在变身后的探索与自我认知的过程。故事发生在一位男子李晓峰身上，他在经过一系列事件后发现自己变成了女性，并陷入了对于自己性别认同的困惑和挣扎。章节中，李晓峰与朋友付豪之间的对话揭示了他内心的复杂感受，如对身体变化的恐惧、对过去的怀疑、以及对未来的无助。然而，在友谊的温暖中，他逐渐开始接受这一切，尽管内心依然不平静。特别是当他意识到自己的身体产生了女性的生理反应时，他对性取向的疑虑更添了不少困扰。整篇故事不仅仅是对性别流动性的探讨，还深层次地反映了角色性别认同、自我探索与社会认同之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_为什么这么对我（四）.docx]([交换]_为什么这
 | Size            | 22997 bytes                           |
 | MD5             | e13ce6cb0c12bc8c528f0ac2569b70ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身, 跨性别, 友谊, 身体变化, 性转, 心理冲突, 生理反应, 都市小说, 情感纠葛, 性别流动性, 社会认同, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

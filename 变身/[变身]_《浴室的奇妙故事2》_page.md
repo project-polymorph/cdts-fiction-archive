@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《浴室的奇妙故事2》.doc]([变身]_《浴室的奇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《浴室的奇妙故事2》的短篇小说，围绕主人公李柯在浴室里的遭遇展开，涉及性别变化与跨性别主题。故事开头提到李柯对即刻变身的独特体验充满兴趣，并描述了他在与女生洗澡的过程中内心的骚动与挣扎。随着情节的发展，李柯出现了一种不可察觉的身体变化，他的性别认同与身体特征在冲突与欲望中渐渐模糊。通过他对女老师万老师身姿的偷窥与意识流的描写，反映出李柯在青春期面对性别与自我认同的探索。作品细腻的刻画了李柯在强烈的好奇心与道德挣扎之间激烈的心理斗争，展现了青春对性别探索和性欲的敏感反应。最后，故事以李柯被两个女老师发现的情节结束，留下了悬念，同时又引发了对性别、隐私及社会道德的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《浴室的奇妙故事2》.doc]([变身]_《浴室的奇
 | Size            | 32256 bytes                           |
 | MD5             | 1156e051114971f0a49b76b3d395d5dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性别认同, 青春期, 偷窥, 浴室, 教师与学生, 骚动, 自我探索, 欲望, 洗发水, 青少年, 性转, 心理斗争, 戏剧性结局, 性别困惑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_更美——艳八仙“幸福使者”何仙顾的故事�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《更美——艳八仙“幸福使者”何仙顾的故事集》是一个围绕跨性别、性别认同及个人探索主题展开的小说。故事描绘了主人公阿杰与小玥之间深厚的感情，他们从小青涩的友谊逐渐转化为爱情。小说不仅涉及他们共同度过的快乐时光，也展现了重大的人生转变——阿杰在一次车祸中意识转移至小玥的身体，而小玥的身体则成为植物人。面对这一突如其来的变故，阿杰在小玥的身体中努力承担起家庭的责任，照顾即将出生的孩子，同时还得面对自身身份的冲突与心理的挣扎。人物关系复杂，情感纠葛深厚，既有对过去生活的怀念也有对未来的无尽焦虑。故事中的情节交织着温馨与悲剧，逐步揭示人类对爱与自我认知的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_更美——艳八仙“幸福使者”何仙顾的故事�
 | Size            | 22928 bytes                           |
 | MD5             | 32be1b13a49d6c6304a25fba58d592db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 身体转移, 情感纠葛, 自我探索, 家庭关系, 阿杰, 小玥, 孕育母亲, 友情与爱情, 痛苦与坚强, 变身小说, 二次元故事, 心理挣扎, 情感依赖, 社会压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

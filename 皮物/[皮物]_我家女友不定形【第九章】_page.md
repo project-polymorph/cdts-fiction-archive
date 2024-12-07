@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我家女友不定形【第九章】.doc]([皮物]_我家�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《我家女友不定形》第九章的内容，主要描述了主角李林与伪娘角色修依前往医院探望在车祸中幸存的年轻女人陆雪嫣。在医院的vip病房中，陆雪嫣感谢李林与修依的救命之恩，同时表达了对他们之间奇特经历的好奇。在交流中，陆雪嫣提到她在车祸现场时所目击到的‘触手’和‘蛇’的奇怪现象，试图确认这种超自然的经历是否属实。李林与修依对此心知肚明，但为了保护自己的秘密，他们决定坦诚相待，承认了一些事情。陆雪嫣在与两人交谈时透露出自己对妹妹重病的忧虑，希望能够借助李林与修依的能力来救治她的妹妹，表现出深深的无助与渴望。整章情节复杂，交织着紧张的情感与充满悬念的超自然元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我家女友不定形【第九章】.doc]([皮物]_我家�
 | Size            | 64512 bytes                           |
 | MD5             | 3c42d79bb4e86677375da67064624e22                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 触手, 车祸, 超自然, 救赎, 医疗, 神秘力量, 情感纠葛, 成长, 家庭, 疾病, 女性情感, 彼此理解                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

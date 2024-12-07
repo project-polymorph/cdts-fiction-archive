@@ -7,7 +7,7 @@ TXT 下载: [[变身]_愿景.doc]([变身]_愿景.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《愿景》讲述了主人公Joy在地下赌场意外遇见神秘老人，并通过老人帮助实现他的愿景的故事。Joy在醉酒状态下，看到一位锁链绑住的舞女，被她的舞姿吸引，随即进入了与老人对话。老人揭示了一个可以改变愿景的魔法物品，能够将生理性别进行转换。Joy将自己的朋友Larry想象成了舞女，然而在使用魔法后，Joy最终变成了女性，名为Jarry，与Larry展开了一段复杂而混乱的关系。物品的强大功能最终导致两人性别的彻底颠覆与角色认同的迷失，最终达到一种奇异的满足感。此文探讨了性别认同、欲望实现及自我探索的主题，并包含了大量的成人情节与性暗示，反映了对性别转换与自我认同的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_愿景.doc]([变身]_愿景.doc)
 | Size            | 37376 bytes                           |
 | MD5             | 45ab80780b284961f9e4857e1236fb75                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 魔法, 欲望实现, 性别认同, 地下赌场, 变身, 角色探索, 成人内容, 幻想小说, 心理冲突, 迷失与自我发现, 禁锢橱窗, 魔法物品, 悖论, 男女关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

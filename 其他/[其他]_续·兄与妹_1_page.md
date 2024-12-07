@@ -7,7 +7,7 @@ TXT 下载: [[其他]_续·兄与妹_1.doc]([其他]_续·兄与妹_1.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描述了一个兄妹之间的互动，主要围绕妹妹菁菁准备参加一场毕业聚餐的情节展开。故事通过细腻的对话和环境描写，展现了哥哥对妹妹的关心与保护。文中，菁菁在寻找遮阳伞的过程中与哥哥对话，哥哥在担心妹妹的安全同时，准备了一个电击装置作为防身工具，暗示了他对即将见面的同学陈锐的不满与警惕。随着聚餐的开展，妹妹的人物形象以及她和同学之间的关系得到了更多的描绘，突显了青春的懵懂与复杂。故事中涉及到的情节包含了对陈锐的复杂感情线索，以及对妹妹个人形象的描述，表明了文中不仅展现了家庭关系，还有潜藏的感情纠纷和青春成长的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_续·兄与妹_1.doc]([其他]_续·兄与妹_1.doc)
 | Size            | 45568 bytes                           |
 | MD5             | 4fff18ded0b64db61153031b321fe9dd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 兄妹关系, 青春校园, 毕业聚餐, 电击防身, 复杂情感, 角色互动, 保护欲, 青春成长, 自我认知, 同学聚会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火星開發觀光公團_(二).doc]([其他]_火星開發�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于火星开发观光团的一部科幻小说，讲述了一名女性导游茹星在火星进行旅行指导的故事。茹星已在火星工作近三年，在一次特殊的顾客团中，面临各种挑战与意外。在火星大峡谷的一次活动中，一名小女孩不慎跌下悬崖，茹星迅速采取行动救援，最终成功找到小女孩的机器人，并确保她的安全。故事中的科技背景描绘了人类在外太空旅行的场景，以及人与机器的互动。在后续情节中，茹星返回地球，意外发现被封存的高拟真机器人身份，揭示了更复杂的科技伦理和认同问题。整部作品结合了火星的探索、机器人技术以及性别认同等多重主题，展现了现代科幻文学的独特视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火星開發觀光公團_(二).doc]([其他]_火星開發�
 | Size            | 30720 bytes                           |
 | MD5             | d9d547a82b69a00651c55871067d1abf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 火星, 机器人, 导游, 科幻, 旅行, 性别认同, 二次元, 虚拟现实, 自我探索, 冒险, 剧烈情感, 社会伦理, 科技发展, 未来世界, 人与机器关系, 意外与救援                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

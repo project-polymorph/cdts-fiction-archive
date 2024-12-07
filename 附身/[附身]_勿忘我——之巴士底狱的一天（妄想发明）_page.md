@@ -7,7 +7,7 @@ TXT 下载: [[附身]_勿忘我——之巴士底狱的一天（妄想发明）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档题为《勿忘我——之巴士底狱的一天》，讲述的是一个设定在20XX年现代法国的科幻故事。故事围绕着名为巴士底狱的监狱展开，这里所有犯人的记忆都会被抽取，仅保留姓名和罪名。主要角色是狱警李·查尔德，他在与威廉博士的交流中得知了一项新发明——一种可以植入记忆的设备。故事中描述了狱警和博士一起进行实验的过程，以及一个美丽女性在实验中的惨痛遭遇。文本中涉及了对人权的思考、科技对人类的操控、以及角色内心的恐惧与挣扎。此作品包含一些限制级内容，反映了对性别认同、记忆操控与生存的探讨，文字描述时而露骨，表现对科技进步的警惕与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_勿忘我——之巴士底狱的一天（妄想发明）.
 | Size            | 23589 bytes                           |
 | MD5             | c2aacb668601f45280a124dc265809e6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 太极                               |
+| Region          | 未知                               |
+| Date            | 2016-04-01                                 |
+| Tags            | 记忆操控, 科技伦理, 性别转变, 巴士底狱, 人权剥夺, 女性意识, 内心挣扎, 科幻实验, 犯罪心理, 角色变身, 虚拟现实, 生命与死亡, 自我认同, 剥夺与自由                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_只要有心，人人可以是女神(中二).docx]([变装
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含一个关于变装和跨性别主题的小说片段。故事围绕主角进行了一场关于性别认同和身份探索的冒险。他在电玩展上进行女装，试图隐瞒自己的男性身份，但在过程中展现出对女性身体的冲动。在与他人互动的场景中，主角并不惧怕自己性别认同带来的挑战，反而在这种变装中找到了某种心理上的快感和满足。随着情节的发展，他逐渐陷入了幻想与现实的交织中，产生了对周围女性的不当欲望，甚至引发了一系列荒诞和有趣的误会。整个故事充分展现了性别转换相关的自我认知、挑战与心理状态，以及在边缘化社会认同中的挣扎和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_只要有心，人人可以是女神(中二).docx]([变装
 | Size            | 24253 bytes                           |
 | MD5             | d57716a34c4bea6994c5fd2a794247f2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 跨性别, 电玩展, 二次元, 色情, 自我探索, 心理冲突, 性欲, 幻想, 男性身体, 女性形象, 女装, 羞辱, 男性向, 潜规则, 展会文化, 二次元文学, 性转小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

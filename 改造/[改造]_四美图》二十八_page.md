@@ -7,7 +7,7 @@ TXT 下载: [[改造]_四美图》二十八.doc]([改造]_四美图》二十八.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一段以历史背景为基础的虚构故事，故事围绕着宫廷权谋和人物关系展开。情节描绘了花新在朝廷中的地位变化，他被其他权力人物视作棋子，在权谋游戏中不断被控制和利用。故事中涉及了权臣们的宴会、权力斗争及角色之间复杂的情感纠葛；随着花新被册封为贵妃以及他与皇帝间微妙关系的展现，读者也能感受到他内心的挣扎和对自己处境的迷茫。通过细腻的描写，文本探讨了权力、欲望与身份认同等深刻主题。文中出现了花新与皇帝之间暧昧的互动，揭示了他在权力游戏中苦涩的命运，以及他为保持自己的尊严和地位所做出的努力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_四美图》二十八.doc]([改造]_四美图》二十八.
 | Size            | 35840 bytes                           |
 | MD5             | a4e0513211e59081f15165d991c4d528                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 权力斗争, 宫廷 romance , 性别认同, 自我探索, 历史 fiction , 情感纠葛, 欲望, 强制, 控制, 改造, 舞姬, 异术, 忠诚, 春宵苦短, 宠爱, 权臣                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [学生会长不可能是催眠人偶.doc](学生会长不可能是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《学生会长不可能是催眠人偶》是一部包含催眠、伪娘、NTR 等元素的性转小说。故事围绕女主角夏可馨与学生会长刘春彦的互动展开，描绘了可馨利用催眠术对学生会长进行操控的情节。小说从放学后的场景开篇，可馨在学生会长的办公室中故意使用香水引起会长的困倦，并通过催眠来控制会长的意识。随着情节的发展，可馨逐渐揭示催眠对会长欲望的引导，特别是她希望会长在被催眠后向自己隐秘的欲望妥协。同时，故事中也透露出会长在面对可馨的挑衅和操控下的内心挣扎与冲突。最终，情节发展至出乎意料的转折，催眠不再是可馨意料之中的游戏，反而变成了她需要面对的复杂情感与权力博弈。整体作品情节紧凑，涵盖了情感的探索及性别认同等多个主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [学生会长不可能是催眠人偶.doc](学生会长不可能是�
 | Size            | 117248 bytes                           |
 | MD5             | 69324cae8812685e42e43b3d7011b0c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ghostgoat                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 伪娘, NTR, 纯爱, 学生会, 性转, 情感探索, 权力游戏, 自我认知, 角色互动, 校园, 爱情, 征服与被征服, 情欲, 未来发展, 性别 identity, 甜蜜与苦涩                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

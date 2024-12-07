@@ -7,7 +7,7 @@ TXT 下载: [[改造]_《夫尊天下》第25章杀神.doc]([改造]_《夫尊�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别文学中的一篇小说章节，标题为《夫尊天下》第25章，主题围绕一场关于权力与欲望的斗争。故事中，角色古月乾与印度主神梵天之间进行了一场激烈的对抗，古月乾对于主神的拒绝与挑衅使梵天愤怒，并展现出强大的神秘力量。此外，故事中涉及角色的变化与自我认知，尤其当古月乾通过吞噬神灵的方式获得力量时，暗示着权力的获取与代价。文章富于幻想色彩，包含了对神话与现实的交融探讨，同时也带有一定的讽刺意味，对方方面的人性与社会现象有着细致的刻画。对古月乾内心的挣扎以及他通过超越常规的方式力争上游的描写，展示了一种对自我认同及社会规则反思的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_《夫尊天下》第25章杀神.doc]([改造]_《夫尊�
 | Size            | 37888 bytes                           |
 | MD5             | a64828e7718affd7ae38f6fb03de3dae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 权力斗争, 古代神话, 幻想文学, 欲望, 自我探索, 社会批判, 阴阳论, 女尊男卑, 角色转变, 另类现实, 力量象征, 情感纠葛, 魔法, 神秘主义, 反乌托邦, 人物成长, 社会风气                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_哺乳的人夫_3.doc]([变装]_哺乳的人夫_3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部伪娘/变装题材的小说，讲述了主角在性别转换后与其岳父之间复杂的情感和情节。故事围绕一个男性角色，他在变身为女性形态后，与年长的岳父展开了一段充满性暗示和羞辱的互动。通过描绘主角的内心挣扎与心理戏，故事探讨了性别认同、欲望及身份的冲突。另外，文件中包含了一些色情和挑逗性的描写，角色间的关系充满挑战和张力，主角在努力保持自我认同的同时，感受到身心的压迫和屈辱。文中多次提及主角在健身时为岳父展示性感姿态，以及岳父对其身体的关注和欲望，形成了一种复杂的权力动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_哺乳的人夫_3.doc]([变装]_哺乳的人夫_3.doc)
 | Size            | 69120 bytes                           |
 | MD5             | f0874fa1ee32962696abfda09756eec0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 跨性别, 性别认同, 强奸, 调教, 逆后宫, 强势关系, 羞辱情节, 情色, 幻想, 人际关系, 父女情, 情感纠葛, 自我探索, 情欲戏, 病态欲望, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】格伦达的复仇.docx]([变性]_【翻译】
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《格伦达的复仇》是一部围绕性别认同及角色转变的小说，故事发生在一个酒吧中，主要讲述了角色山姆和他的朋友吉姆的对话与互动。在故事开始，山姆的朋友吉姆在酒吧里提及他与女性格伦达的关系，并表达对其厌倦，透过他与山姆的对话，展现了角色之间的情感纠葛与复杂关系。格伦达出现在酒吧时，她的魅力引起了山姆对其外貌的关注，尽管山姆对此表现出一种矛盾的情感，却又不断被她的强大气场所吸引。随着故事的发展，山姆在疗愈与自我探索中逐渐意识到自身的性别认同及心灵的变化，这种变化在他与身边人的互动中不断流露。小说中涉及了对性别转换、性别表达及社会接受度的探讨，展示了角色内心的挣扎与成长，令人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】格伦达的复仇.docx]([变性]_【翻译】
 | Size            | 32629 bytes                           |
 | MD5             | f12e44adb269fd6c8cdf8665d808126a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | PYT                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身, 跨性别, 酒吧文化, 情感纠葛, 女性形象, 欲望, 青春成长, 社会接受度, 禁忌之恋, 个体与群体, 心理冲突, 夜生活, 奇幻元素, 青少年问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

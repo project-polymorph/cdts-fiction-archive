@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【旧文重贴】一盒录像带.doc]([皮物]_【旧文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性转与伪娘题材的小说，讲述了一个名叫王祥林的年轻人的故事。他在童年时受到了一本漫画的启发，产生了对女装的特殊嗜好。在故事中，王祥林的姐姐王祥茜在一次失踪后，王祥林偷偷进入姐姐的房间，穿上她的衣物，展现了他内心深处隐藏的欲望。随着故事的发展，王祥林借用数码录像机偷拍姐姐洗澡，逐渐演变成一个更复杂的情节，涉及性别转变与身份认同的探索。该作品表现了年轻人在性别认同与自我探索过程中的迷茫和冲突，同时也包含了性暗示与伦理问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【旧文重贴】一盒录像带.doc]([皮物]_【旧文�
 | Size            | 59904 bytes                           |
 | MD5             | a8b50a2f18dc3a358dd864d5da9e7bf6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 伦理, 自我探索, 偷拍, 性别认同, 家庭秘密, 禁忌恋, 青春期, 跨性别, 暗黑系, 禁忌, 情色, 成长烦恼, 情感纠葛, 二次元, 性幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

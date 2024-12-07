@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】预期偏差.doc]([变性]_【翻译】预期�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档题为《预期偏差》，作者是Enjoythis，翻译由魔之天涯进行。文本主要围绕时间旅行的主题展开，讲述了时间旅者彼得·齐默尔曼博士在21世纪初的街头的冒险。彼得惊奇地观察到这个时代的生活，兴奋地尝试真实的咖啡。在他享受咖啡的过程中，被一个陌生人认出为时间旅者，并遭遇了对方的质问。随着对话的深入，彼得意识到他正面临生死攸关的困境，陌生人似乎与一个拥有时间机器的神秘组织有关。此文不仅探讨了时间旅行的科学性和可能的悖论，还涉及到生理性别的改变和性别认同的问题。文中还提及了一些更为复杂的生物医学主题，如睾丸切除术和激素的影响，暗示着个体在性别转换方面的多重可能性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】预期偏差.doc]([变性]_【翻译】预期�
 | Size            | 38400 bytes                           |
 | MD5             | 8cad8b9652b591d7163cfc9a11717efd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Enjoythis / 魔之天涯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 时间旅行, 性别认同, 伪娘, 跨性别, 生理性别, 未来科幻, 冒险, 心理冲突, 性别转换, 科学幻想, 人际关系, 时间悖论, 家庭关系, 自我认知, 人工智能, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

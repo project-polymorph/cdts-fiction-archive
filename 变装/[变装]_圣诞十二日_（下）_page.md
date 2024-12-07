@@ -7,7 +7,7 @@ TXT 下载: [[变装]_圣诞十二日_（下）.doc]([变装]_圣诞十二日_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位名叫保罗的男子，他被迫在一个充满性别转换和跨性别元素的情境中经历自我认知与转变的故事。在故事开头，保罗因为收到一件女仆装而感到愤怒，并意识到自己被卷入了一场由威尔逊太太安排的恶作剧。随着情节的发展，保罗穿着性感的女仆装，面对着来自同事和朋友的目光，内心充满了自我否定和挣扎。当罗恩出现时，激起了保罗深层的情感和内心的冲突，他在这个过程中不得不接受自己的外表和身份。整篇故事探讨了性别认同、社交期待和性别角色的扭曲，展现了保罗对男性角色的反叛和对自我的重新定义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_圣诞十二日_（下）.doc]([变装]_圣诞十二日_�
 | Size            | 71680 bytes                           |
 | MD5             | 14758a3574c2a5dcac8d528710d2c110                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 职场不平等, 自我认知, 伪娘, 男娘, 情感冲突, 成人内容, 社交性别角色, 受虐者角色, 炫耀, 办公室情节, 恋爱, 女性化, 戏剧性情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

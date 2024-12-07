@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_新生的美少妇（九）.docx]([皮物]_新生的美少
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇跨性别主题的小说，讲述了一名男子在追逐情感和性别认同的故事。故事开头，主角在回家的路上，听闻城外夜总会发生火灾，随即进入了一段关于家庭和爱情的情感冲突。回到家后，主要角色张阳与他的妻子陈璐产生了一系列紧张的对话，展现了他们之间复杂而又纠结的关系。
+
+在讨论中，陈璐透露她的灵魂似乎被其他人替代，而这段关系的真实性引发了张阳的孤立无援。随后的情节通过情感对话与身体接触，逐渐揭示了性别认同的探索和角色转变的主题。通过隐喻和直接的对话，作者探讨了伴侣间的性别认同、冲突与欲望，展示了现代关系中的复杂性和冲突的多维性。
+
+文本叙述中包含了大量的性相关描写以及情感的挣扎，探索了变装及性别转换的主题。这些情节不仅描绘了主角的心理冲突，也反映出社会对跨性别及性别不一致者的困惑与偏见。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_新生的美少妇（九）.docx]([皮物]_新生的美少
 | Size            | 23534 bytes                           |
 | MD5             | 9a5141813e3ac66e5a589b31a20236e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 变身, 变装, 性转, 家庭情感, 自我探索, 爱情, 禁忌关系, 情欲, 小说, 二次元, 幻想, 心理戏, 性别角色, 纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

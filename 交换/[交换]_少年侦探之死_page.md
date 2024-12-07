@@ -7,7 +7,7 @@ TXT 下载: [[交换]_少年侦探之死.doc]([交换]_少年侦探之死.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了2036年发生在UTX大厦的一起涉及灵魂交换的事件。独角兽公司潜藏在虚拟现实游戏背后，暗中实施非人性操作，涉及大量反人道的催眠和身份置换。这起案件由一位18岁的少年侦探破获，他运用黑客技术调查此事件，里面揭示了种种针对用户的操控和监控手段。文中描述了少年被非法拘禁以及他如何在危險情况下极力想要逆转自己的遭遇，生动地描绘了心理变化和身份认同冲突的历程。故事允许读者通过少年侦探的视角，感受灵魂和身份的复杂性，更深入地探讨了科技可能带来的伦理困境。此文档含有一些较为敏感的内容，涉及虚拟现实与性别转换的结合，展现了未来社会对个体自由的压制与操控。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_少年侦探之死.doc]([交换]_少年侦探之死.doc)
 | Size            | 48640 bytes                           |
 | MD5             | 4acd99ef306e986090ce4da2ae2f178e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂交换, 虚拟现实, 反乌托邦, 机器人技术, 少年侦探, 身份置换, 性别认同, 科技伦理, 心理操控, 催眠, 变身, 强制控制, 反人道, 男性女性化, 性别角色, 虚拟奴役, 黑客故事, 权力斗争, 社会批判                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

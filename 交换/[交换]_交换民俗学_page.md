@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交换民俗学.docx]([交换]_交换民俗学.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章介绍了位于日本神龙村的独特民俗习惯，其中涉及到儿媳与公公交换身体的现象。作者阐述了这一制度的历史渊源及其背后的社会文化原因，指出这种交换在该村已有1500年以上的历史，并提到这可能与特定的地理环境和人们对刺激体验的追求有关。文中讲述了“公媳”和“媳公”之间的复杂关系，描述了这一过程中的心理变化与情感交互，比如最初的厌恶感逐渐转变为需求与爱。在该文化中，成为公媳可以获得家庭的掌控权，而成为媳公则能享受与年轻女性的关系，这种禁忌而又奇特的生活方式引人深思。整体内容涉及幻想、跨性别体验，以及在性别角色转换下的自我认同与情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交换民俗学.docx]([交换]_交换民俗学.docx)
 | Size            | 18080 bytes                           |
 | MD5             | 00dfb2953e1525387a70b2d4123dcc33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 仓さん                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 民俗学, 跨性别, 公媳交换, 幻想文学, 禁忌关系, 性别角色, 自我认同, 情感纠葛, 日本文化, 古老传统, 社会心理, 特殊地理环境, 情色文学, 身体交换, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_兄妹的伪娘体验.doc]([改造]_兄妹的伪娘体验.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《兄妹的伪娘体验》是一篇激烈且充满性暗示的小说，围绕兄妹之间的亲密关系展开。情节中，方易与妹妹方欣的互动逐渐升级，描绘了他们之间复杂的情感与身体上的纠缠。文本中涉及的多次细致描写表现了角色们的心理状态和肉体感受，以及对彼此的渴望与依赖。例如，方欣轻声求饶，体现了她的矛盾心理，而方易则显得轻松自然，流露出他对妹妹的宠溺。通过这种互动，小说深入探讨了性欲、情欲和同伴关系的界限冲突，展现出在禁忌关系下的情感深度与复杂性。该作品或许含有一些挑逗与不适之处，适合对此类题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_兄妹的伪娘体验.doc]([改造]_兄妹的伪娘体验.
 | Size            | 27648 bytes                           |
 | MD5             | a2cc9acab49e4db3b0bd5b38fea8cba4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 兄妹恋, 禁忌, 情欲, 调教, 强奸, NTR, 乱伦, 反转, 自我认同, 性欲, 情色, 角色互动, 亲密关系, 性别探索, 恋物癖, 小奶, 暗恋, 幸福幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

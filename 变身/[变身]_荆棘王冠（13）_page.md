@@ -7,7 +7,7 @@ TXT 下载: [[变身]_荆棘王冠（13）.docx]([变身]_荆棘王冠（13）.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于爱丽丝的小说章节，主题侧重于她作为“蒸汽之神”的角色在特定情境中的表现。故事围绕爱丽丝的冒险而展开，她在敌人的轮机室中精心布置陷阱，利用自己在军队后勤部门工作期间获得的技巧进行潜行和行动。章节中，爱丽丝成功地撬开了轮机房的门，并在密闭的蒸汽环境中设置了爆炸装置。她以一种神秘的身份出现，以蒸汽之神的名义威胁敌人，利用恐惧来获取情报。文件中详细描绘了她在执行其阴谋时的心理活动与战斗策略，包括如何处理敌人和隐藏证据的细节，如燃烧尸体和抽水处理血液等情节。这些描写对角色的复杂性及其生存技能提供了深入的洞察。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_荆棘王冠（13）.docx]([变身]_荆棘王冠（13）.d
 | Size            | 18698 bytes                           |
 | MD5             | b1cd5b61907b8448b094a8fb83f73804                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 蒸汽朋克, 冒险, 女性角色, 潜行, 智谋, 爆炸, 伪装, 阴谋, 恐惧操控, 暗杀, 魔导, 血腥, 角色扮演, 神秘身份, 生存技能                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

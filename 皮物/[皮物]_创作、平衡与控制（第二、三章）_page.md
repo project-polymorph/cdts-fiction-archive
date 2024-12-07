@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_创作、平衡与控制（第二、三章）.doc]([皮物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文献主要讲述了主人公诸葛回与碧海文化传媒公司员工李曼妮的相遇与交往。故事开始于一个浪漫的月夜，诸葛回正沉浸在美好的梦中，却被闹钟的响声惊醒。当他打开门时，遇到了一位美丽的女孩李曼妮，她来找他确认委托业务，并因其美貌让诸葛回显得很紧张。在随后的互动中，二人迅速建立了亲密关系，虽然诸葛回一直保持克制，但随着与李曼妮相处的时间增加，他内心的情感逐渐涌现。故事在两人即将参加高中的聚会上达到了高潮，聚会的氛围中流露出他们之间的情感纠葛与不确定性。文中细腻地描绘了他们从初次见面的羞涩到逐渐建立深厚关系的过程，展现了性别认同与情感探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_创作、平衡与控制（第二、三章）.doc]([皮物
 | Size            | 44544 bytes                           |
 | MD5             | 22099fcb5c73cb11044c3d1a31e13ba1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 变身, 爱情, 职场关系, 青春片, 都市奇幻, 自我认知, 性别认同, 情感探索, 浪漫, 就业咨询, 商业合作, 约会, 聚会, 未成年                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

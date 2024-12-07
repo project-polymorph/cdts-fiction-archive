@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_喉舌计划——（十六到十七章）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为多元性别主题小说《喉舌计划》的第十六和十七章，内容围绕主角夏希玲叶与军需官藤原七郎的互动展开。故事通过紧张的对话和心理描写，刻画了藤原七郎在面对夏希玲叶时的惶恐与欲望。章节中，夏希玲叶展现出她冰冷而优雅的性格，以及她对藤原七郎的支配与调教。文本包含了性别认同和权力关系的探讨，同时涉及强烈的性暗示和性描写，表现了男女角色之间复杂的心态与冲突。以下摘录展现了小说的氛围：“...舔吧，舔到我满意为止。”这一情节揭示了角色间的非对称权力关系和角色复杂的内心挣扎。整章通过大量细节展现角色之间的紧张关系及心理变化，使读者能深刻体会到角色的情感与身体状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_喉舌计划——（十六到十七章）.doc]([皮物]_�
 | Size            | 63488 bytes                           |
 | MD5             | 3cbcf7f13188e04a625fc9c26f5ae7c1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 调教, 权力关系, 强烈性暗示, 角色心理, 自我认同, 性别探索, 奇幻, 二次元, 反派女神, 情感冲突, 非对称关系, 性欲, 意识融合                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

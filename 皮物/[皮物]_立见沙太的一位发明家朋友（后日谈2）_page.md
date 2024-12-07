@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_立见沙太的一位发明家朋友（后日谈2）.doc](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于立见沙太和他的朋友彩彦之间的互动，发生在一个暑假的故事。沙太在享受空闲时光时，想起了自己在校园生活中的种种经历，感觉到生活的单调和无聊。他和彩彦商讨了一个计划，决定前往无人岛旅游，体验生活的乐趣。在出发的过程中，他们还遇到了一位应聘女朋友的少女彩子，带来了一些有趣的情节。文中提到了他们在旅途中的反应和心理变化，尤其是沙太面对自己女性化的期待与现实之间的反差。整体上，文本探讨了角色之间的友谊、情感与性别认同的主题，充满了轻松幽默的氛围，同时不乏对性别转换的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_立见沙太的一位发明家朋友（后日谈2）.doc](
 | Size            | 62464 bytes                           |
 | MD5             | 7d5d28c719423741ff457a0ead59d2c1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 青春, 友谊, 旅游, 戏谑, 情感探讨, 角色认同, 轻松幽默, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

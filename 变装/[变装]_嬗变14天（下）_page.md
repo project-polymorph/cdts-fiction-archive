@@ -7,7 +7,7 @@ TXT 下载: [[变装]_嬗变14天（下）.doc]([变装]_嬗变14天（下）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于性转与变装的小说，故事围绕一名学员在接受调教课程的过程中展开。主要情节包括角色在自习室的紧张时刻，再到接受调教后的内心挣扎，以及最终决策佩戴电子贞操锁。内容以第一人称的视角深度探讨了角色的心理变化，例如对于肉体和性别认同的冲突，涉及自我探索和调教的主题。小说中包含了一系列关于调教，贞操锁，义乳的细节，表达了角色在调教过程中的内心独白和情感波动。特定的调教情节和道具设定使得整个故事穿插着角色在变装和性别认同上的深刻思考，甚至出现了一些限制级内容的描绘，适合对跨性别和伪娘文化感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_嬗变14天（下）.doc]([变装]_嬗变14天（下）.do
 | Size            | 70656 bytes                           |
 | MD5             | 66d37917310ea36fc9796623d60d01d2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 伪娘, 跨性别, 调教, 贞操锁, 义乳, 自我认同, 情感挣扎, 性别转换, 幻想小说, 二次元文化, 刺激, 禁忌, 教育, 校园, 心理探索, 恋爱, 欲望, 成人小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

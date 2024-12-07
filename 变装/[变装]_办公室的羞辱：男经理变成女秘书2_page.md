@@ -7,7 +7,7 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书2.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一部名为《办公室的羞辱：男经理变成女秘书2》的性转小说的第二章，主要讲述了男主角安德鲁在办公室中面临的尴尬和羞辱的心理历程。安德鲁在秘书凯瑟琳的威胁和控制下被迫接受了女性化的要求，逐渐体验到作为女性的生活。章节的开头，安德鲁感到被同事盯着，心中充满惶恐。他在进入办公室时被要求在凯瑟琳的桌前等待，并必须接受她的指示。他的耳朵上穿孔的打扮引起了其他同事的注意，这是他内心深处的另一种羞耻。随着故事的发展，凯瑟琳进一步加大了对他的控制，要求他在办公室中对女性保持恭敬，甚至给他送去美容沙龙进行进一步的女性化改造。安德鲁在沙龙的经历让他感到无助和窘迫，面临着身份认同的困扰。这个过程展示了角色在性别转变过程中的心理斗争和成长，也反映了对传统性别角色的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书2.docx]([变�
 | Size            | 20869 bytes                           |
 | MD5             | dd74b000bc1a25b5c090d9350e846464                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 职场羞辱, 女性化, 心理斗争, 跨性别, 权力动态, 变身小说, 办公室故事, 女性角色, 自我认同, 性别探索, 美容变身, 情感冲突, 羞辱, 女性权利                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

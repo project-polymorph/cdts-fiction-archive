@@ -7,7 +7,7 @@ TXT 下载: [[其他]_5更)有人穿越种田,有人穿越修仙,为啥我的穿
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《变身的（被）淫虐系统》，主要记录了一位角色在穿越后经历的极端情节与自我意识的探讨。故事开篇以轻松幽默的语调引入，主人公陆一在室友的闲聊中提及了穿越异界的各种可能性，随后表现出对穿越的恐惧，并详细描述了穿越可能带来的困扰和异界生活的艰难。文件中包含了角色在穿越场景中获得的淫虐点数等系统提示，这些提示从游戏的视角展示了角色所经历的强烈和扭曲的体验。尽管文中有沉重和极端的情节，但也夹杂了一些关于友情与自我救赎的反思。整篇文章充满讽刺与思辨，尤其是在讨论穿越意愿与现实后果之间的矛盾时。这种极端情节和幽默对比，呈现了角色复杂的内心世界和对自我认知的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_5更)有人穿越种田,有人穿越修仙,为啥我的穿
 | Size            | 81161 bytes                           |
 | MD5             | 1a41681c1d97dc0da36c8734fef2a7e0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 穿越, 变身, 淫虐, 系统文, 自我认知, 性别转换, 轻小说, 二次元, 异世界, 友情, 冒险, 讽刺文学, 性别研究, 人生困惑, 精神恢复, 剧情反转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

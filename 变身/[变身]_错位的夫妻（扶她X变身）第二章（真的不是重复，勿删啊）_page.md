@@ -7,7 +7,7 @@ TXT 下载: [[变身]_错位的夫妻（扶她X变身）第二章（真的不是
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于扶她与变身主题的小说《错位的夫妻》的第二章，主要讲述了一对夫妻在变性后所经历的奇幻而尴尬的情境。故事中的林温婉和叶云诗是恩爱夫妻，但一场奇异的变身使得他们的性别角色发生了错位，林温婉成了角色中的男方，而叶云诗则变成了少女形象的妻子。故事开篇描述了他们刚醒来的震惊和无责，叶云诗对于自己身体的变化感到无所适从，同时林温婉也感受到复杂的情感。随着情节的发展，两人不断尝试理解新的身份，面对社会的变革与自身的情感。文章精确描写了二人的外貌变化，情感冲突以及对自我认知的探索，细腻而充满张力的情节让整个故事展现了跨越性别和身份认同的深层考量。内容中不乏少量限制级情节和复杂的心理描写，符合性转、变身和跨性别的主题，展现了对性别认同与社会框架的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_错位的夫妻（扶她X变身）第二章（真的不是
 | Size            | 55296 bytes                           |
 | MD5             | 1350644bbc851931bad8cf76b17bc56a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 扶她, 变身, 性别转换, 跨性别, 自我认知, 情感冲突, 家庭关系, 奇幻, 性别认同, 文学创作, 社会变革, 性别角色, 二次元小说, 情感探索, 婚姻关系, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

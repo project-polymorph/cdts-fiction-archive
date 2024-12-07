@@ -7,7 +7,7 @@ TXT 下载: [[交换]_三年的惩罚.docx]([交换]_三年的惩罚.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇围绕着职场骚扰和性别变换的小说，主要讲述了主角宫江爱莉的转变过程。故事始于对职场生活的描写，前经理在性骚扰案件中受到惩罚，经过立场惩罚法的实施，主角被迫承受着身份的改变，成为一名女性。在职场环境中，爱莉的同事们关注即将到来的婚礼，并为新婚提供祝贺，反映出多元性别身份和性别角色的社会互动。随着故事的发展，宫江爱莉逐渐意识到自己过去的行为对他人造成了侵害，同时也在思考转变后对自我身份的认同。在描写过程中，展现了日常生活与内心冲突的细腻心理，配以对角色外貌与穿着的细致观察。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_三年的惩罚.docx]([交换]_三年的惩罚.docx)
 | Size            | 40221 bytes                           |
 | MD5             | 3ff5837e714b39309a75c816f0d530e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 职场骚扰, 身份认同, 文学, 二次元, 情感纠葛, 社会反思, 女性视角, 自我探索, 办公室文化, 变身小说, 纯爱, 性别剧情, 心理描写, OL题材                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

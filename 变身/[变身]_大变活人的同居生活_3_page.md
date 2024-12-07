@@ -7,7 +7,7 @@ TXT 下载: [[变身]_大变活人的同居生活_3.docx]([变身]_大变活人�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档描绘了一位男性主角在意外变身为女性后，所经历的一系列心理变化与尴尬场景。故事以主角的内心独白为主，展现了他在面对身体变化的无奈与羞耻感，以及对新出现的女性特征的复杂心态。开始时，他对自己胸前突然出现的乳房感到紧张和混乱，甚至考量是否要用布缠住以避免被同事发现。他与朋友小林的对话展示了对这一变身现象的无措与幽默，也引发了朋友对变身后的身体特征的调侃和羡慕。在经历了一天的工作后，主角发现自己似乎变得更加自信，甚至开始探索与女性身份相关的社交行为，包括在办公室模仿女性的举止并面对逐渐显露的性冲动。故事中充满了刺激与暧昧的情节，描绘了变性过程中的情感与认同探索，包含较多的朦胧与直接的性内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_大变活人的同居生活_3.docx]([变身]_大变活人�
 | Size            | 19032 bytes                           |
 | MD5             | 49cac0687778b63f5f287ec14959d83a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 幽默, 情感探索, 自我认同, 幻想, 办公室恋情, 社会性别, 性别混淆, 青春期困惑, 自我发现, 成熟女性形象, 友谊的支持, 性别表达                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_无尽异能_第二十二章.docx]([附身]_无尽异能_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一段充满奇幻色彩的异能小说的章节，主要围绕角色张紫幽与李玑璇之间的灵魂融合过程展开。张紫幽通过禁魂针这一法器进行身份的替换与灵魂的吞噬，同时描绘了角色在性别与身份转换中的心理变化。文中，张紫幽观察自己新身体的敏感变化，生理与心理的互动带来了一种复杂而颇具冲突的自我认知体验。李玑璇的灵魂被吞噬，并在绝望中试图与张紫幽的灵魂抗衡，展示了角色之间的权力斗争与自我认同的探讨。故事中还穿插了关于强奸和性别认同等敏感话题，展现了角色内心深处的挣扎与绝望。整体来看，该章节颇具紧张气氛，同时探讨了灵魂力量与异能的奇妙联系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_无尽异能_第二十二章.docx]([附身]_无尽异能_�
 | Size            | 21288 bytes                           |
 | MD5             | 5bd994c4368fdaaa27ef05470bd88a09                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 灵魂吞噬, 身份替换, 异能小说, 心理变化, 强奸, 自我认同, 力量斗争, 奇幻, 女性视角, 吸收记忆, 性别认同, 角色冲突, 精神世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

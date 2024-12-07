@@ -7,7 +7,7 @@ TXT 下载: [[其他]_男人和扶她的有两次性高潮的世界_之_她来�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部结合了性转与跨性别主题的小说，讲述了一对夫妻在意外穿越到一个异世界的经历。在这个世界中，男女的生理特征与我们现实生活中截然不同——女人不仅拥有女性生殖器，还拥有男性生殖器。故事以夫妻在经历事故后的困惑为开端，随着情节的发展，他们在这个新世界的性别认同和性关系上产生了复杂的情感与互动。小说深入探讨了性别认同、自我探索以及恋爱关系中的各种情感和生理体验。文中包含了对角色之间亲密关系的详细描写，涉及了初恋、第一次性体验等情节，展现了青少年在性关系中的懵懂与渴望。整部作品不仅描绘了新奇的性别设定，还表现了人们在面对自我认知冲突时的心理变化，尤其是女主人公的成长与蜕变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_男人和扶她的有两次性高潮的世界_之_她来�
 | Size            | 19954 bytes                           |
 | MD5             | 65e21e66f2779e6cfacf469c388044e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 男娘, 变身, 青春, 初恋, 性别认同, 异世界, 恋爱关系, 奇幻设定, 变嫁, 主体性, 自我探索, 情感冲突, 生理体验, 女性视角, 成年人的世界, 性欲表达, 社会伦理, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

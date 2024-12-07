@@ -7,7 +7,7 @@ TXT 下载: [[附身]_憑依術講座,其五「姐姐的身體」.doc]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于附身术的小说，讲述了主角通过附身术进入其姐姐的身体，体验和观察姐姐的生活。故事以家庭午餐场景为开端，主角因心中对姐姐的复杂情感而感到烦躁和兴奋。在这篇内容中，主角表达了对姐姐的无可名状的情感，并描述了内心的挣扎以及对附身过程的期待和好奇。小说中提到的附身过程包含了身体感知的细腻描写，尤其是对姐姐身体接触的敏感反应。主角在意识和身体的双重体验中逐渐开始认同姐姐的身份，向其发起稍显暧昧的情感。具体来说，主角在使用憑依術后体验到不同于以往的感受，揭示出对性别认同和自我探索的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_憑依術講座,其五「姐姐的身體」.doc]([附身]_
 | Size            | 81920 bytes                           |
 | MD5             | f3ae5300c5f446643e0af8042ed943dd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 姐姐, 兄妹情, 性别认同, 自我探索, 身体感知, 情感纠葛, 魔法, 幻想, 二次元, 情感冲突, 角色认同, 家庭关系, 心理描写, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

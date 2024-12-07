@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[碟中谍]游泳衣2_第三章_异议.doc]([附身]_[碟�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关文学作品之一，叙述了四位女性在异界背景下，借用他人身体后所面临的种种困惑与挑战。故事主要围绕角色杨欣、殷广雅、张丽明及李晴展开。她们在一次深夜的会议中，讨论如何在自身身份转换后继续生存与行动。会议气氛紧张而迷茫，各角色的内心挣扎表现得淋漓尽致，特别是对新身份的适应与认同。殷广雅利用她的领导能力，引导其他角色思考与规划未来的目标，计划继续追查蓝晶沙。随着情节的发展，她们开始接受现状，同时探讨关于自我与身体归属感的深层次主题。角色们的对话中流露出对性别认同、自我探索以及肉体与精神的冲突的思考，尤其是张丽明在新身份下的适应情况以及与杨欣的互动，展现了转变中个体的脆弱和坚韧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[碟中谍]游泳衣2_第三章_异议.doc]([附身]_[碟�
 | Size            | 138752 bytes                           |
 | MD5             | d236a68b80ad09144e55b9273fb46441                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 自我探索, 身份认同, 异世界, 角色扮演, 团队合作, 情感/情欲, 心理挣扎, 女性视角, 身心冲突, 生存挑战, 目标追寻, 情谊, 职场故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

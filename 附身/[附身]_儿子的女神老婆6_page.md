@@ -7,7 +7,7 @@ TXT 下载: [[附身]_儿子的女神老婆6.docx]([附身]_儿子的女神老�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文件名为《儿子的女神老婆6》，是伪娘 TS 变身与跨性别相关小说的一部分，内容围绕着一个男主角的附身经历展开。他在梦中醒来，发现自己已经附身到了儿子的未婚妻雅琳的身体里，拥有了她的所有记忆和感受。小说描绘了他对新身体的探索，以及对自己身份认同和性别认同的冲突。在经历了身体的融合和意识的吞噬后，男主角不得不面对雅琳与张卫弘之间复杂的关系，并开始了利用胸罩的超能力进行自我转变。在这个过程中，涉及到许多敏感和复杂的情节，包括春药、强奸等色情内容，男主角在怀疑、恶心和权力的矛盾中挣扎。小说的某些段落描述了男主角与他人发生的性关系，以及由此引发的道德和心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_儿子的女神老婆6.docx]([附身]_儿子的女神老�
 | Size            | 21441 bytes                           |
 | MD5             | b1d46a8e9363ac31d056acfefb933d1a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 伪娘, 性别认同, 自我探索, 强奸, 春药, 身体融合, 性转, 心理冲突, 伦理道德, 成人内容, 青春期困惑, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

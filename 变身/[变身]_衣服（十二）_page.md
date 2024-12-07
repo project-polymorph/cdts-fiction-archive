@@ -7,7 +7,9 @@ TXT 下载: [[变身]_衣服（十二）.doc]([变身]_衣服（十二）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一部关于都市校园异能的轻H类小说，采用第一人称视角，情节缓慢展开，描绘了角色在面临一系列复杂情感和性别认同问题时的内心挣扎和变化。故事中，主角成功完成了登记，但对即将进行的可疑检查感到不安。在回到公寓后，主角与女主阮敏发生了亲密接触，透过对话展示了她们对彼此身体和性别认同的探索。
+
+在文中，男主与阮敏的互动形成了紧张而复杂的情感氛围，特别是在讨论角色性别交换的情节中。阮敏因病卧床，由男主负责她的登记，期间两人之间的关系愈加密切，但同时也引发了一系列道德和心理上的困惑。例如，阮敏在一段对话中表达出希望完全脱去衣物的意愿，显示出对危机的“保险”意识，同时也让男主感受到道德底线的崩坏。整体情节慢热，同时充满了对身份和自我意识的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_衣服（十二）.doc]([变身]_衣服（十二）.doc)
 | Size            | 60416 bytes                           |
 | MD5             | b3244721f11483dc146c75f525699010                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园, 超能力, 第一人称, 轻H, 情感探索, 性别认同, 生理与心理冲突, 都市异能, 角色变身, 内心戏, 亲密接触, 心理测试, 互动关系, 慢热情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

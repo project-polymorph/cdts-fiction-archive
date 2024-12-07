@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_月神_——_S2_【开放式短篇——3P组合】.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇描述激烈性行为和角色性别转换的变身小说，内容涉及角色间的情感互动和身体上的变化。故事主要围绕角色泷泽和菲娅展开，情节呈现出一些限制级和色情内容，包括角色通过治服与反治服进行的权力游戏以及肉体上的亲密接触。故事中，泷泽在与菲娅的情感纠葛中，体验到由男变女的性别转换带来的复杂感受，尤其在被另一个角色婷萱引导的过程中，两者之间的互动暗示着深层的情感和欲望。文本中描绘了角色的外貌、穿着和行为的细致变化，尤其是身份的交错与权力的扭转，展现出多重性别认同与自我认知的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_月神_——_S2_【开放式短篇——3P组合】.docx]
 | Size            | 18390 bytes                           |
 | MD5             | 7a4ba35b43037da8337126b9555ed73c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别小说, 角色互换, 性别认同, 情感纠葛, 激烈性行为, 成人内容, 百合, 调教, 运动, 虚拟现实, 角色扮演, 情欲, 互动游戏, 幻想, NTR                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

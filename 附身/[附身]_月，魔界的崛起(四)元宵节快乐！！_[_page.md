@@ -7,7 +7,7 @@ TXT 下载: [[附身]_月，魔界的崛起(四)元宵节快乐！！_[.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《附身：月，魔界的崛起》第四章，融合了神魔斗争与性别转换的主题。故事以晓玥（佳林）为中心，她在经历了身体转换后的情感与记忆探索中，感受着幸福和困惑并存的复杂心理。晓玥在夜间独自享受着刚刚获得的身体，体验着女生的温馨和愉悦。第二天，她被室友赵英秀叫醒，处于一种尴尬而幸福的状态。故事中也交代了神界和魔界之间的历史背景，描述了曾经的和谐与后来的战争局势，让人对即将到来的冲突产生了好奇。灵花仙子为保护神界，被圣母委任去解决魔族护法，故事情节充满了紧张和悬念。文章中的情节涉及性别认同、自我探索，以及神魔之间错综复杂的关系，描绘了角色在变化过程中的心理活动和情感性交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_月，魔界的崛起(四)元宵节快乐！！_[.docx]([�
 | Size            | 17988 bytes                           |
 | MD5             | 14ae4bb776984247677e02cd16a45517                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 神魔对峙, 青春校园, 魔法, 自我认知, 情感探索, 悬疑, 奇幻, 灵异, 年轻人, 女性视角, 异界冒险, 转生, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

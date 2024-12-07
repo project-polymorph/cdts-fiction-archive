@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_11.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为多元性别题材的小说，主要描绘了角色在表演过程中面临的心理和生理感受。主要人物真一通过内线与人形模特们进行沟通，担心她们穿上特殊的服装是否会感到不适。在换装过程中，真一不断思考人形模特穿着对应衣物后的感受，以及她们的表现是否会受到影响。文中提到，模特们的服装设计特别为女性设置，使其在表演中需要忍受极大的身体刺激，产生强烈的自我认知冲突。小说通过细腻的心理描写和逐步展开的情节，探讨了性别认同、自我探索等深层主题，同时也涉及了一些可能引发争议的情节和元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_11.docx
 | Size            | 29695 bytes                           |
 | MD5             | 17a5c8608b408d3f995f897dbd2a8706                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 替身表演, 人形模特, 性别转换, 心理描写, 角色扮演, 情感纠葛, 身体刺激, 表演艺术, 性别认同, 自我探索, 二次元文化, TSF, 强烈自我感受, 模特训练, 服装设计                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

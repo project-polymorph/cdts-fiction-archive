@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_雪崩(1)plus_[.docx]([皮物]_雪崩(1)plus_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容为一篇跨性别相关的小说，围绕一个中年男子、壮汉、年轻男子和少年在严寒环境下的互动展开。故事开头描绘了四位男性围坐在火堆旁的情景，环境寒冷，而他们的焦虑和不安随着火光的闪烁交织在一起。国字脸男子提议轮流讲故事，以打破无聊的氛围，故事情节发展引入了一名保安的视角，他在医院中夜班的时候监控到了一名富家公子的“漂亮妈妈”，其与男主之间错综复杂的关系引出了一系列冲突和情感纠葛，尤其是围绕着对父亲的仇恨以及对母亲的渴望，情节穿插了监控、窥探等刺激元素。文中还涉及到一些敏感与限制级的情节，通过监控的视角让故事更加扑朔迷离，反映了对性别认同与个人欲望的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_雪崩(1)plus_[.docx]([皮物]_雪崩(1)plus_[.docx)
 | Size            | 31320 bytes                           |
 | MD5             | 8253ca7b1b6ce6d64a4c70122a947d3e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 监控, 情感纠葛, 家庭关系, 性别转换, 偷窥, 欲望, 医院, 故事交流, 角色冲突, 禁忌, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

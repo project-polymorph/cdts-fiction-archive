@@ -7,7 +7,7 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_秘密的隱形眼鏡_(上.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部变身小说的第一章，讲述了两位高中生良晴和芳雄之间的故事。良晴是一名变态的高中生，专注于色情漫画和变身道具的探索，而芳雄则是聪明且富有创造力的同班同学，发明了一些奇特的道具。文中提到了芳雄的独特发明，包括可以使人完全透明的紧身衣和所谓的‘惚れ薬’（让对方爱上给予饮料的人），以及介绍新的发明——隐形眼镜。隐形眼镜的特性未在初次佩戴时表现出来，引发良晴的好奇与怀疑。整个故事围绕着两人的奇思妙想及变身的话题展开，内容中穿插了幽默与轻松的对话，展现了青春的无厘头与探索欲。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_秘密的隱形眼鏡_(上.doc
 | Size            | 30410 bytes                           |
 | MD5             | 08e6a0be5f42094de7d875cbb5120380                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 隐形眼镜, 高中生, 变态, 道具, 青春, 幽默, 科幻, 自我认知, 探索欲, 色情漫画                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

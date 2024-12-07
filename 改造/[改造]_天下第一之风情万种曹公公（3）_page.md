@@ -7,7 +7,7 @@ TXT 下载: [[改造]_天下第一之风情万种曹公公（3）.doc]([改造]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别中文数字档案馆的一部分，内容涉及一篇描绘性别转换和伪娘角色的小说。小说主要围绕角色曹正淳在皇宫中的生活经过展开，涉及很多跨性别及性别认同的主题。内容描写了曹正淳作为一名太监，在皇帝和妃子们的生活中所经历的种种屈辱与挑战。在高跟鞋和宫女的束缚下，曹正淳的身份和自我认知发生了深刻的变化，展现了复杂的性别关系与个人探索。文件中包含多处露骨和成人内容的描写，如"曹正淳拼命地用双手挂下脸上、双乳上、肚兜上珍贵的龙精一股脑的送入口中"等，突显了角色在性别与欲望方面的挣扎与探索。此外，文件还涉及对于性别角色和期待的社会压力，以及角色在这种压力下的感受与反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_天下第一之风情万种曹公公（3）.doc]([改造]_
 | Size            | 36352 bytes                           |
 | MD5             | e59b1ef1e617d2b9cf2da61cb87e9855                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘小说, 性别认同, 变身, 性转, 宫廷小说, 调教, 高跟鞋, 太监, 皇宫, 爱情, 历史背景, NTR, 淫荡, 强奸, 调情, 身体改革, 自我探索, 性欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

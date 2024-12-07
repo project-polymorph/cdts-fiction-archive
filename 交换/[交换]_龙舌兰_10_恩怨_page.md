@@ -7,7 +7,7 @@ TXT 下载: [[交换]_龙舌兰_10_恩怨.docx]([交换]_龙舌兰_10_恩怨.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为小说《龙舌兰》第十章的内容，主要围绕角色杨立从男性身体转变为女性身体后的心理与生理冲突展开。在开篇部分，作者提及自身的创作动机，并表明本章将聚焦于情节发展，而非肉戏的描写。正文中，杨立在陌生环境中醒来，意识到自己的身体发生了变化，面临着内心的恐慌和羞辱。在与曾经的恋人蕊可和现在的妻子思琪的互动中，杨立感受到身心的强烈冲突与羞辱，并探讨了女性在经期中的复杂感受，以及对以前性别角色的反思。此章强调了性别认同的矛盾与挑战，以及人物之间错综复杂的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_龙舌兰_10_恩怨.docx]([交换]_龙舌兰_10_恩怨.doc
 | Size            | 31996 bytes                           |
 | MD5             | 5f584422e4869610c04c6b3c14992bba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | yudi                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 伪娘, 跨性别, 心理冲突, 肉戏, 女性经期, 自我探索, 强奸, 调教, 百合, 阴暗面, 反转剧情, 梦境, 角色转换, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

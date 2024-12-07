@@ -7,7 +7,7 @@ TXT 下载: [[附身]_青涩年代_——引子，第一，二，三章.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《青涩年代》是一部包含跨越时空元素的小说作品，主要围绕主角辛米通过特情设备穿越到过去，试图解决与初中同学沈园园未了的情感纠葛。在引子和前三章中，辛米回忆起与沈园园一起参加歌唱比赛的情景，描绘了两人之间青涩而复杂的情感。故事通过丰富的细节展现了辛米对沈园园的暗恋以及对过去美好时光的怀念。此外，小说还描绘了辛米在情报局工作的日常，以及他对时空关系和历史因果的深刻思考，多层次的人物情感与自我探索贯穿始终。辛米的目标是回到那个关键时刻，了解沈园园的突然消失背后的原因，并改变自己的遗憾。此作品不仅讨论了青春的懵懂与感情的抉择，还涉及时间旅行及其可能改变历史的伦理问题，是一部结合了青春、情感与科幻元素的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_青涩年代_——引子，第一，二，三章.docx]([�
 | Size            | 24706 bytes                           |
 | MD5             | c9c71be41514fa476afe9a593b3421e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 时空穿越, 青涩爱情, 自我认知, 情感纠葛, 青春成长, 智械科技, 遗憾, 暗恋, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

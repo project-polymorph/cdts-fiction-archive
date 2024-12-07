@@ -7,7 +7,7 @@ TXT 下载: [[变装]_蕾蕾旧作《毕业——第一季》下半部.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为蕾蕾的旧作《毕业——第一季》的下半部分，主要描绘了主人公在变装过程中面临的尴尬和挑战。一开始，主人公追赶抢包的摩托车，体现出他身为男性却不得不以女性的身份出现的困惑与无奈。故事中包含了主人公与女友林倪之间的互动，展现了彼此的情感纠葛与支持，以及主人公对自身身体变化的探索和自我接受的过程。文本中详细描述了变装配件的粘合程度，以及主角在镜前对自己身体的观察和性别认同的复杂心理。此外，作品中还涉及了情感上的挣扎，展现了对性别认同的思考和对自我身份的探究。部分文本包含露骨的性描写，反映出在此类关系中的快感与羞耻交织的情感纠结。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_蕾蕾旧作《毕业——第一季》下半部.docx]([�
 | Size            | 54092 bytes                           |
 | MD5             | f81e0805e016067223e9c54c37a5de66                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 自我探索, 情感纠葛, 伪娘, 男娘, 两性关系, 奇幻, 都市生活, 强烈的感官描写, 青春小说, 情欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

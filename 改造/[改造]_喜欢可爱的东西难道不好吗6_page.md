@@ -7,7 +7,7 @@ TXT 下载: [[改造]_喜欢可爱的东西难道不好吗6.doc]([改造]_喜欢
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件展现了葌作为伪娘角色的内心世界与心路历程，描绘了她在镜子前对自己逐渐变化的身体和形象的欣赏，充满了对可爱的追求和对主人的效忠。葌的自我形象在与格鲁斯大人的互动中得到了进一步确认，她的性别认同和身体转变过程相互交织。文件详细描述了葌的身体变得更加柔软，胸部逐渐发育，以及她对女性服装的渴望和对男性角色的排斥。与此同时，随着新角色泷的出现，葌的身份认同再次被挑战，展现出跨性别和性别认同的主题，以及在权力与服从关系中的复杂情感。最后，格鲁斯安排她们去对抗地球防卫组织，暗示了更深层次的阴谋和抵抗的故事情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_喜欢可爱的东西难道不好吗6.doc]([改造]_喜欢
 | Size            | 51200 bytes                           |
 | MD5             | 95a5829b706234895dbd2627ae4242d3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 男娘, 强烈的性别认同, 自我探索, 权力关系, 可爱至上, 女仆文化, 幻想小说, 性别转换, 服装变换, 剧情发展, 二次元, 角色扮演, 虚构世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

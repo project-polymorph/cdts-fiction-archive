@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（申码文）入替皮杖（当小弟变成自己的老�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《申码文》讲述了两个男孩吴昊和李杰之间的故事，他们虽然表面上是兄弟，却因性别与身体的变化引发了一系列复杂而奇幻的情节。故事开始于吴昊对李杰的调教，吴昊似乎引导李杰进入一个充满探索与感官刺激的世界。随着情节的发展，李杰与吴昊观看一部关于教师与学生关系的情色电影，逐渐开始意识到彼此间的微妙情感。而在此过程中，吴昊购买了一个神秘的法杖，这法杖似乎真的具有魔法，能够改变人的身体与身份。随着杨老师的出现，两位男孩在对她的吸引与对自身变化的探索中，逐渐感受到性别认同与欲望的复杂性。最终，法杖的魔法因此展开了一连串不可预知的结果，令吴昊与李杰的友情与身份迎来了新的考验和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（申码文）入替皮杖（当小弟变成自己的老�
 | Size            | 49152 bytes                           |
 | MD5             | 3ea530b202133fe3b4502d1eb60fc9d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 超自然, 探索性别, 性别认同, 青少年, 友情, 魔法, 幻想, 禁忌关系, 性教育, 成长, 校园, 情感, 男同性恋, 师生关系, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

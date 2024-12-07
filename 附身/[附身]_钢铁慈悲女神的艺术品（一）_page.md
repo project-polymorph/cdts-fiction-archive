@@ -7,7 +7,7 @@ TXT 下载: [[附身]_钢铁慈悲女神的艺术品（一）.docx]([附身]_钢
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是围绕萨尔米斯大陆的幻想故事，主要讲述了一位名为凯尔谢的女性骑士与她的搭档娜莎，以及两个神秘乘客卡米拉和梓岛之间的故事。故事设定在一个以海洋为主的世界，凯尔谢作为马车夫，负责在海上航行并运送重要货物，其中包含一个令人关注的木盒。故事结合了职业、海上冒险以及潜在的危险。同时，作品中穿插了人物的性别认同、生活方式和心理状态的探讨，展开了角色间的互动及情感变化。描绘了角色们在航海过程中的经历，以及他们如何应对未知的威胁和内部的心理冲突。文中多次提到角色的外表特征，如凯尔谢穿着女性专用的铠甲和娜莎的女仆装，增加了角色的性别表现力和幽默性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_钢铁慈悲女神的艺术品（一）.docx]([附身]_钢
 | Size            | 31024 bytes                           |
 | MD5             | a37ecf5244c517518f92a453774019d3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TS变身, 骑士, 海上冒险, 幻想, 自我认知, 性别认同, 跨性别, 冒险, 魔法, 角色互动, 伪娘, 女仆装, 奇幻故事, 强烈情感, 心理冲突, 未知威胁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

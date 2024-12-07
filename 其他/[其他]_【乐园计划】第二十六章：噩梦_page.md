@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【乐园计划】第二十六章：噩梦.docx]([其他]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为网络小说《乐园计划》的第二十六章，标题为《噩梦》。故事以幼小的寒汐在梦中回忆起母亲在战斗中为了保护她而牺牲的情景为主线，描绘了一场充满魔法与战斗的灾难场景。通过寒汐对往日记忆的重温，玩家可以感受到角色内心的孤独与坚强，以及她想要变强以保护大家的决心。这一章的开头描述了一场席卷王城的火灾，寒汐依偎在母亲的怀中，记忆中母亲温柔的声音与坚强的形象交织，展示了她对母亲的依赖与崇拜。在魔物的袭击中，母亲为了保护寒汐而最后不幸牺牲，寒汐心中充满了悲痛与不安。梦中的情节让她意识到自己仍需变强，以实现母亲未完的伟大使命。章节的后半部分则回到现实中，寒汐在好友风灵的安慰下，努力克服内心的恐惧与痛苦，承诺自己将会不断成长，以不辜负母亲的期望。整个篇章结合了真实与梦境，展现了角色的成长、情感和对过往的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【乐园计划】第二十六章：噩梦.docx]([其他]_
 | Size            | 25747 bytes                           |
 | MD5             | ee0b410bfff9753899f91139f5025147                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 梦境, 战斗, 牺牲, 魔法, 成长, 母爱, 自我探索, 情感, 角色发展, 阴影, 勇气, 痛苦, 幻想, 二次元, 虚拟现实, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

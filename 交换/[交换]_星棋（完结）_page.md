@@ -7,7 +7,7 @@ TXT 下载: [[交换]_星棋（完结）.docx]([交换]_星棋（完结）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《星棋》是一部围绕性别认同、自我探索和奇幻元素的小说。故事的主人公叶开，25岁，是一名水表厂的售后工程师，由于工作的原因，他需要在表姐家借宿。故事描写了他与表姐及其他女性角色的互动，展示了他在无意间发现一块神秘的棋盘后，生活发生的奇妙变化。小说中，表姐阮冬是一个美丽却未婚的女性角色，具有传统的女性美但由于工作的原因不能尽情展现。随着故事的发展，叶开在与女性角色的互动中，逐渐展开了自我认同与身份探索。书中掺杂了轻松幽默的情节和较为复杂的情感纠葛，反映出当代年轻人的内心困惑和性别认同的多样性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_星棋（完结）.docx]([交换]_星棋（完结）.docx)
 | Size            | 110778 bytes                           |
 | MD5             | c625d261d9c70a9201b5668f0b3907d0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 奇幻故事, 自我探索, 性别转换, 伪娘, 男娘, 家庭关系, 青春爱情, 互动游戏, 角色认同, 魔法, 校园生活, 性别角色, 女性视角, 成长故事, 现代都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

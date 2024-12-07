@@ -7,7 +7,7 @@ TXT 下载: [[变装]_柔弱大学生的雌堕_IV_家庭篇（下）.doc]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇描写复杂情节的性转小说，故事围绕主要角色阿芸与父亲之间发生的禁忌关系展开。在一次秘密的性转变身中，阿芸因某种心态和情感的驱动，陷入了对父亲的强烈欲望和情感依赖。小说中包含了许多挑衅性和心理冲突的场景，描述了阿芸在父亲的淫荡行为及自我探索中卷入的心路历程。故事从简单的情感转变为复杂的性关系，包含了对畸形家庭伦理和性别认同的深刻思考。在酒店的房间里，阿芸体验着第一与父亲的亲密接触，情感与身体的交织让她陷入撕裂的挣扎中。整篇小说描绘了对性和亲情界限的模糊，以及在角色心灵深处对自我认同和欲望的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_柔弱大学生的雌堕_IV_家庭篇（下）.doc]([变�
 | Size            | 58880 bytes                           |
 | MD5             | 29d9fffd454bcba7b7be668ac2156877                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 禁忌关系, 父女关系, 自我探索, 情欲, 伦理, 变身, 少女心, 心理冲突, 性别认同, 家庭伦理, 强奸, 淫荡, 调教, SM, 逆后宫, 纯爱, 变嫁, 女体化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_秩序（序）.docx]([其他]_秩序（序）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档讲述了一个设定在奇幻背景的故事，主角艾丽希斯是一名圆桌骑士后裔，负责保护一个位于艾斯帝国南方边境的小村庄。故事开始于艾丽希斯面临的压力，她的骑士团被一个名为‘血腥诺卡’的女强盗团伙攻击。在激烈的战斗中，虽然艾丽希斯和她的骑士们表现出色，击败了部分强盗，但最终还是被女强盗所捕获。文中详细描述了艾丽希斯在战斗中经历的耻辱，她慢慢意识到对手不仅在力量上碾压自己，而且她所面对的是一个模糊性别界限的存在，情节充满了紧张与压迫感。随着剧情的推进，艾丽希斯被迫接受了自己在身体与身份上的彻底重塑，这涉及深刻的性别认同与权力动态。在文本中，作者使用了多种描绘强盗与骑士之间冲突的细节，以及复杂的人物情感，这使得整个故事兼具了幻想与现实的层面。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_秩序（序）.docx]([其他]_秩序（序）.docx)
 | Size            | 36317 bytes                           |
 | MD5             | 733ed27faac33c57203f681387cd53fb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 性别转换, 变身, 骑士与强盗, 性别认同, 自我探索, 力量动态, 纯爱, 跨性别, 女性视角, 心理斗争, 猥亵与屈辱, 异族化, 历史与幻想融合, 边境斗争, 角色重塑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_转瞬双生12.docx]([皮物]_转瞬双生12.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部围绕性别认同和变化的小说，主要讲述了角色东亚与伪娘茉莉之间复杂的情感关系。茉莉在故事中通过契机获得了男生徐平的身体，借此试图理解并重新审视自己的感情。故事中，东亚逐渐意识到与当下的茉莉相比，曾经的李茉莉是个冷漠而无趣的人，而徐平所扮演的茉莉则更加温柔体贴。两人之间的互动充满了情感的碰撞，例如茉莉试图挽留东亚的空间及时间，反映出她对新身份的认同。在他们的对话中，东亚表现出对茉莉过去存在的同情与道德的挣扎，反映出关于人性的复杂思考。文中包含了对心灵深处感受的探讨，同时也涉及了伪娘物语中的角色认同和个人价值的重构。 通过这些情感深处的探讨，作品提出了在面对自我重塑和认同时所产生的心理斗争和矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_转瞬双生12.docx]([皮物]_转瞬双生12.docx)
 | Size            | 26945 bytes                           |
 | MD5             | bd2822aa5e4c15149db0630179ad07d3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 伪娘, 角色扮演, 情感纠葛, 人性探讨, 转身变身, 内心冲突, 亲密关系, 情感戏剧, 未来科技, 恋爱哲学, 心理学, 现代都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

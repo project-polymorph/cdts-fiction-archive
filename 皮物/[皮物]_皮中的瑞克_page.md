@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_皮中的瑞克.doc]([皮物]_皮中的瑞克.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《皮中的瑞克》描述了一个富有的男士理查德·瑞克渴望创造一名“活体娃娃”的奇异故事。故事中，他利用自己的财富雇佣科研团队研发一种完美的仿真人皮衣，目的是将他的模特妻子图拉（Tulah）转变为他梦想中的玩具。他们在一家实验室进行身体数据扫描，以便制作出符合他幻想的新身体。
+
+随着故事推进，瑞克的计划变得扭曲。他在进行转换时服用了镇静剂，而不知自己已经被替换，变成了一个更完美的自己——其实是图拉使用了他的身份和外表。图拉在获得了理查德的身份后，开始享受这一过程并表示将会把他们的关系变成新的状态，瑞克意识到这一切的恶果时，他发现自己被绑住，无法反抗，身处自己所设计的性别转换和奴役的游戏中。
+
+故事探讨了性别认同和欲望的复杂关系，夹杂着强烈的色情元素和心理戏剧，主角的身份被混淆，充满了对控制与被控制的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_皮中的瑞克.doc]([皮物]_皮中的瑞克.doc)
 | Size            | 46080 bytes                           |
 | MD5             | 321e329e1c5544bcf7a0ecf5f849e365                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 人工皮肤, 性别身份, 自我探索, 变态幻想, 情感操控, 心理性戏, 科学幻想, 伦理冲突, 虚拟现实, 操控与被操控, 性相关内容, 损失自我, 复杂关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

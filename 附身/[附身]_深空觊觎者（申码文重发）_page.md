@@ -7,7 +7,7 @@ TXT 下载: [[附身]_深空觊觎者（申码文重发）.doc]([附身]_深空�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件摘录自一部关于科幻飞船及其飞行员的小说，主要围绕主人公谷雨的内心独白和身处的紧张局势展开。故事发生在一艘名为‘阿拉特拉斯’的飞船上，飞船的飞行员们正准备迎接一次未知的侦查任务。在展开情节的过程中，主人公表现出对女孩子身体的占有欲，以及对社会普遍存在的情感压抑感到困惑和痛苦。文件通过描述飞船上的紧急情况和飞行员们的心理状态，探讨了性别认同、自我探索以及内心幻想的主题。文中涉及的宇宙背景和飞船技术细节，为寥寥数笔增添了丰富的科幻元素，同时也隐含着对人性和社会禁忌的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_深空觊觎者（申码文重发）.doc]([附身]_深空�
 | Size            | 78848 bytes                           |
 | MD5             | 8bc34f5113e681ee455853d840b527c1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 飞船, 宇宙冒险, 性别认同, 心理探索, 自我认知, 飞行员, 剧情紧张, 内心独白, 情感压抑, 人性, 占有欲, 灰色电影, 女体化, 科技伦理, 女性形象, 幻梦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch01.docx]([皮物]_天使的救赎_Ch01.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部名为《天使的救赎》的小说的第一章。故事围绕主人公戴维·诺瑞斯的政治生涯展开，描绘了他竞选州议员过程中的一系列事件和挑战。诺瑞斯从小在政治世家中成长，但在12岁时父母因车祸去世，家庭经济陷入困境，他不得不依靠自己的努力重建人生并进入政治界。在一次竞选演说后，他意外卷入了一场丑闻，竞选表现被媒体曝光，且选票结果也是不如人意，面临职业生涯中的一大考验。文中穿插了他与友人凯恩及一位神秘女子的对话，展现出不同的性格冲突和心理变化。虽然文中涉及一系列政治动态和个人情感，但其主线仍然围绕着主人公的身份认同和自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_天使的救赎_Ch01.docx]([皮物]_天使的救赎_Ch01.d
 | Size            | 27855 bytes                           |
 | MD5             | a5aedaff1cc96ffadd53e258f8613119                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 政治, 竞选, 自我认同, 人际关系, 都市, 情感, 社交, 励志, 男主角, 挑战, 女性视角, 黑人角色, 幽默, 成长, 人性探讨, 选择, 命运, 华尔道夫酒店, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

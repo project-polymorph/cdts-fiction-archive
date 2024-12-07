@@ -7,7 +7,7 @@ TXT 下载: [[变装]_人生交换之财富与地位_5（完）.docx]([变装]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《人生交换之财富与地位》，内容以一名男性角色弗兰克·费恩利在变装后，以女仆身份参与女主人伊莎贝拉生活为主线。故事开始时，弗兰克回到伊莎贝拉的家里，却意外遇到了唐突的客人巴里·理查森。在一次争执中，弗兰克奋起反击，保护了伊莎贝拉，表达了他的忠诚和对她的深切关怀。故事覆盖了权力、性别身份的变化和角色之间复杂的情感关系。随着情节发展，弗兰克的真实身份和伊莎贝拉的脆弱地位交错，引发了一连串的误解与情感冲突。整个故事揭示了传统性别角色对人际关系和个人身份的影响，并对性别认同进行了深刻的探讨。逐渐，弗兰克和伊莎贝拉在冲突之后，开始适应新的生活，并面对可能的未来选择。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_人生交换之财富与地位_5（完）.docx]([变装]_�
 | Size            | 38922 bytes                           |
 | MD5             | 19afb7d48f88e3b5d3f855ace6ca609f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人生交换, 性别认同, 变装, 女仆, 伪娘, 冲突, 情感关系, 自我保护, 权力, 性别角色, 跨性别, 社会与文化, 主奴关系, 成长, 复杂的人际关系, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

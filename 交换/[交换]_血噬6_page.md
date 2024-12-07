@@ -7,7 +7,7 @@ TXT 下载: [[交换]_血噬6.docx]([交换]_血噬6.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《血噬6》是一部包含性别转换和自我探索主题的小说。在这个故事中，角色们通过不知名的方法交换身体，形成了复杂的情感与身份认同的交织。主要人物包括安氏集团的总经理安然和其助手林雪，他们在突发的情境下经历了身体的变化。这部作品深入探讨了角色在变换身份后的心理变化与冲突，展现了角色们在面对自我认知转变时的挣扎与成长。在故事中，角色们的背景复杂，涉及官场与商业的权力斗争。文本部分包含较为隐晦的描述和心理描绘，有些内容含有较强的性暗示和情感纠葛，对探索性别认同的问题进行了多维度的分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_血噬6.docx]([交换]_血噬6.docx)
 | Size            | 38089 bytes                           |
 | MD5             | 10274e546dbd7b9bc50614c239bba87e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我认同, 心理描绘, 性暗示, 情感纠葛, 官场权谋, 商业斗争, 身体交换, 都市奇幻, 性转小说, 伪娘, 男性视角, 女性形象, 强烈情感, 探索与挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

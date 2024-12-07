@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星云_第十九章.docx]([皮物]_星云_第十九章.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别与性别认同主题的小说，讲述了角色阿杰尔的内心挣扎与对家庭的回忆。在阿杰尔的记忆中，他的家依然保留着温馨的模样，但同时也显露出他对于父母的愧疚与无奈。在经历了娼馆的生活后，他对于艾琳的情感复杂而微妙，艾琳不仅是一名厨师，甚至有着母亲般的年纪和气质。小说中描绘了教会的压迫与对信徒的操控，神父与阿杰尔的互动体现出对现实无能为力的绝望，特别是对所谓的“神迹”的揭露，让人感到宗教信仰中的伪善。也揭示了教会如何利用人的信仰与恐惧来巩固权力。整个故事包含了性别认同、自我探索、家庭关系等主题，并涉及一些可能令人不适的内容，如药物依赖和宗教践踏等，这些都为角色的心理状态增添了复杂的层次。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星云_第十九章.docx]([皮物]_星云_第十九章.doc
 | Size            | 17101 bytes                           |
 | MD5             | f61a864f086dde4ae0b7296e08e4872a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 家庭关系, 教会, 自我探索, 心灵挣扎, 药物依赖, 伪善, 性转, 夜晚生活, 宗教                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

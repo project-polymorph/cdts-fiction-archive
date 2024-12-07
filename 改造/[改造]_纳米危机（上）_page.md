@@ -7,7 +7,9 @@ TXT 下载: [[改造]_纳米危机（上）.doc]([改造]_纳米危机（上）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文介绍了一款名为NT-5号的纳米机器人，由诺贝尔举奖得主凯伦·杨博士研发。它的设计旨在修复和增白牙齿，改变现代牙科的治疗方式。故事围绕牙医王平展开，他因新技术的出现而感到沮丧，担心自己的执业生涯受到威胁。在2210年的一个寒冷冬日，王平应邀去李氏集团为其千金李谙姌小姐进行牙齿手术，但在手术过程中却经历了一系列意外和挑战，最终李小姐在自己的实验室秘密启动了纳米机器人。这篇小说结合了科幻和医疗的元素，探讨了科技进步对传统职业的冲击，以及个人与科技的关系。
+
+在文本中，多次出现了对于纳米科技的详细描述，以及王平的内心独白，展现了他对未来的不安和对现状的反思。故事的走向也揭示了科技与人类欲望相结合时可能产生的复杂后果。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_纳米危机（上）.doc]([改造]_纳米危机（上）.
 | Size            | 35328 bytes                           |
 | MD5             | 94957bc87bd81bf3a2aaf00541f8ab67                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 纳米科技, 变身, 科幻, 牙科医疗, 个人探索, 王平, 李谙姌, 技术冲突, 未来社会, 机器人, 自我认知, 医疗伦理, 性别认同, 情感冲突, 权力与财富                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

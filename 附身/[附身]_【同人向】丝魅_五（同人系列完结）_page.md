@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【同人向】丝魅_五（同人系列完结）.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个名为《丝魅》的同人向小说的五个章节，是该系列的完结篇。故事围绕主角的附身经历展开，主角在不同角色之间穿梭，进行身份与性别的探索。文中描写了与家庭成员之间的亲密障碍和情感交流，尤其是与妹妹白萱雨和姐姐赵灵的关系。清晨醒来的情节中，主角被妹妹缠绕，带有一丝梦幻与暧昧。边换衣服边进行亲密互动，反映出角色间复杂的情感与身体认同。描述涉及到高跟鞋、丝袜等女性服饰的细致描绘，展示了主角对自己新身份的逐步适应。情节中穿插着姐姐的游戏与调戏，以及对自身欲望的探索，显示出性别认同与家庭关系之间的微妙平衡。最终，主角寻求对自身状态的理解与接受，体现了一种既紧张又享受的心理状态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【同人向】丝魅_五（同人系列完结）.doc]([�
 | Size            | 41984 bytes                           |
 | MD5             | 6b5ede0622fd9a131a8ff83605af6461                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, TS小说, 伪娘, 男娘, 青春, 自我探索, 家庭关系, 性别认同, 女性视角, 高跟鞋, 丝袜, 亲密关系, 少女, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

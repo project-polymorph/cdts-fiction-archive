@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_お人形達の学園１年２組・船越光男君の日�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇以伪娘和变身为主题的小说。故事围绕主角船越光男和同班同学君嶋同学之间的互动展开，细腻且包含挑战性话题。文中描写了君嶋同学在面对主角的行为时的反应，并涉及了一些性暗示的场景，如困难的衣物处理和内心的冲突。在一次理科准备室的私密场合，两人之间的关系逐步升温，包含了一些较为露骨的讨论与互动，探讨了性别认同与欲望的问题。文本中包含的对话展示了两位角色对于性别与情感交织的内心世界，逐渐涉及更多的私密与其中的复杂情感。此文档中部分内容涉及限制级话题，适合成人阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_お人形達の学園１年２組・船越光男君の日�
 | Size            | 23361 bytes                           |
 | MD5             | 444eed1b66f85507d5128df6899d1963                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 伪娘, 性转, 青少年, 青春, 性别认同, 情欲, 内心冲突, 私密场合, 性暗示, 校园, 幻想, 情感探索, 少年同学, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

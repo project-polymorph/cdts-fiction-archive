@@ -7,7 +7,7 @@ TXT 下载: [[交换]_妹妹的魔法卡(3)_[.docx]([交换]_妹妹的魔法卡(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《妹妹的魔法卡》讲述了一名45岁的失业游民王强的故事。他的生活陷入无聊与乏味中，偶然获得了一组拥有神奇功能的魔法卡牌。王强利用这些卡牌进行盗窃与诈骗，维持生计。在一次外出时，他注意到一名12岁的小女孩，随后展开了一系列猥亵与侵犯的情节。王强通过隐身术接近小女孩，实施了暴行，文中详细描述了他的心理变化及对小女孩的性侵情景。故事包含了许多成人内容，展现了王强对于其行为的幻想与现实之间的冲突，最终在他与小女孩的身份与感知之间激发出一系列道德与伦理的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_妹妹的魔法卡(3)_[.docx]([交换]_妹妹的魔法卡(
 | Size            | 23783 bytes                           |
 | MD5             | bfef90d50b025630d80332167f586288                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 强奸, 猥亵, 变嫁, 魔法, 幻想, 心理探索, 自我认知, 丧失道德, 伦理问题, 身份认同, 二次元, 成人内容, 违背伦理, 偷窥, 隐身术, 少女, 猥亵大叔, 卡片魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

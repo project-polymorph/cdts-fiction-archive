@@ -7,7 +7,7 @@ TXT 下载: [[变装]_伪装大师番外_女邻居1.docx]([变装]_伪装大师�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《伪装大师番外篇 女邻居》的部分内容，讲述了男主角张猥因对隔壁女邻居产生兴趣而展开的变装与偷窥情节。在夜深人静之时，张猥趁邻居外出之际，悄悄进入她的公寓，迫不及待地尝试女邻居的高跟鞋与内衣，沉浸在幻想与自我认同的纠葛中。故事中的张猥不仅展现了他的变装欲望，同时也揭示了他与周遭环境的冲突，例如在变装后遭遇不测的交易情节和对女邻居身份的好奇。此外，故事还巧妙地描绘了其与夜生活相关人物的交互，使其情节更为立体与吸引人。小说涉及的主题包括性别认同、自我探索以及对他人隐私的侵犯，充满了情感的复杂性与潜在的伦理道德挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_伪装大师番外_女邻居1.docx]([变装]_伪装大师�
 | Size            | 16399 bytes                           |
 | MD5             | a4802c384e23713b2808d114425ef24e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪装, 邻居, 变装, 偷窥, 性别认同, 夜生活, 自我探索, 女仆, 单身公寓, 情感纠葛, 身份冲突, 夜总会, 性转, 诱惑, 色情情节, 强奸, NTR, 调教, 狂欢派对, 伪娘, 百合, 矛盾                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

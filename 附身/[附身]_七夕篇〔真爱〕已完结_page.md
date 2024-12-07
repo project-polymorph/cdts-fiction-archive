@@ -7,7 +7,9 @@ TXT 下载: [[附身]_七夕篇〔真爱〕已完结.docx]([附身]_七夕篇〔
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《七夕篇〔真爱〕》是一部围绕情感纠葛与性别认同的短篇小说，展示了主角章倩的内心挣扎和情感波动。故事开始于一个浪漫的场景，章倩一方面幻想着与丈夫方雄的甜美回忆，但同时也充满了对当下婚姻状态的忧虑与不安。随着故事的发展，章倩意外发现丈夫在外与别的女性秘密交往，从而激发了她的愤怒与无法控制的情绪。章节中描述了性别角色的转换和心理变化，章倩在偶然摔倒后与情敌的相遇，形成了性别和身份认同的复杂交织。
+
+小说通过细致入微的情节描写，表现了女性的嫉妒、不安以及对性别角色的重新审视，同时也激发了身体与性别认同的主题。王莲的重生与蜕变，象征着对自我探索的渴望，且在新的身体中找到新的自我。在这个过程中，小说既有强烈的情感矛盾，也描绘了肉体欲望的直接展现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_七夕篇〔真爱〕已完结.docx]([附身]_七夕篇〔
 | Size            | 44649 bytes                           |
 | MD5             | 1434d1b1a28b6b571ff6576f73c1d686                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 情感纠葛, 婚姻危机, 转变, 自我探索, 女性视角, 强烈逼仄的情感, 性欲, 重生, 嫉妒, 百合, 跨性别, 伪娘, 变身, 情敌, 灵魂互换, 刺激, 奇幻元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

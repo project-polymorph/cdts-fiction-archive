@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_破茧的黑之翼.doc]([皮物]_破茧的黑之翼.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《破茧的黑之翼》，讲述了一位名为艾尔薇的皇女在王宫中成长的故事。尽管身为皇女，艾尔薇却生活在大主祭所制定的严格教条之中，被迫压抑自身的欲望与情感，接受身份带来的责任与孤独。艾尔薇对大主祭的控制充满了厌恶，她意识到自己仿佛变成了一具没有灵魂的傀儡，无法追求个人的自由与快乐。在日常的学习与生活中，她逐渐感受到内心深处对爱的渴望与反叛的冲动。故事中提及了艾尔薇的外貌特征，宛如天鹅般美丽的她在孤独中思考着自己的身份、责任以及内心的掙扎，尤其是在与宫廷卫士崔里特的暗恋中，她的情感冲突愈发明显。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_破茧的黑之翼.doc]([皮物]_破茧的黑之翼.doc)
 | Size            | 38400 bytes                           |
 | MD5             | 612bd31ea853e8be27b60f45a7219097                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 皇女, 自我探索, 禁忌之爱, 魔法, 孤独, 欲望, 自我认同, 王国, 责任, 性别角色, 成长故事, 跨性别, 内心冲突, 禁忌关系, 权力与欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

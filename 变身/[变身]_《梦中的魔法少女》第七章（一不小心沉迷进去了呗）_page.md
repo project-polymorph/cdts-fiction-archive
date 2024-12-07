@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《梦中的魔法少女》第七章（一不小心沉迷�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节聚焦于名为星瞳的角色，她的力量来自汇聚的星光，而她的形态会随时间和阳光而变化。星瞳的能力使她可以与故事主角之间建立深厚的身体和心灵连接。在章节中，主角探索与加奈美的关系，描绘了充满亲密和欲望的互动，甚至涉及身体的交融。主角在不知情的情况下体验来自星瞳的力量和性别转换后产生的奇妙体验，通过这种体验，他们的关系也在不断深化。随着剧情的发展， 引入了一些魔法元素与角色能力的变化，增加了故事的复杂性和富有想象力的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《梦中的魔法少女》第七章（一不小心沉迷�
 | Size            | 41984 bytes                           |
 | MD5             | 2c77664dc462ba772f543dbaa0c6174a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 星光, 性别转换, 魔法少女, 自我探索, 亲密关系, 二次元, 超自然, 女性向, 情感纠葛, 强烈情欲, 魔法世界, 身体连接, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

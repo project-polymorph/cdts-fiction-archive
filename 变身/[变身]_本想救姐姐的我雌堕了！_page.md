@@ -7,7 +7,7 @@ TXT 下载: [[变身]_本想救姐姐的我雌堕了！.doc]([变身]_本想救�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名男孩杨世龙的故事，他一直仰望着自己的姐姐杨芯依，但随着姐姐出轨的秘密浮出水面，他的内心充满了困惑和绝望。故事从杨世龙发觉姐姐的行为异常开始，随着他深入调查，发现了姐姐与一名名为林涛的男子交往的事实。林涛不仅外表油腻，还有着不为人知的阴暗面，他通过一种名为 TS 药的药物控制了杨芯依，使其对他完全忠诚。杨世龙试图保护姐姐，却不知在这一过程中自己即将面临巨大的变故。最终，杨世龙在一次见面中揭露了林涛的真面目，却不慎陷入了他的圈套，故事包含了复杂的情感及权力关系，以及对性别转换的隐喻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_本想救姐姐的我雌堕了！.doc]([变身]_本想救�
 | Size            | 69120 bytes                           |
 | MD5             | 7d825d2f6c010fac476dc65b49fbffbc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 强奸, 情侣, 逆后宫, 阴谋, 药物, 自我探索, 情感纠葛, 禁忌恋, 爱情, 悬疑, 都市生活, 阴暗面                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

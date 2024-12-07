@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_谍海商战14_[.docx]([皮物]_谍海商战14_[.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于多元性别和跨性别主题的小说创作，包含大量涉及性别转换和性别认同的情节。故事以荷兰为背景，开头描写了一名外籍男子与一位白人女子之间的复杂互动，主要围绕着性暗示和性行为展开。文章部分场景表现出强烈的情色内容，包含对身体的细致描写，如‘男子眼睛盯着女子的胸部有点发直’和女子对男子的挑逗等场面。随着情节的发展，展现了角色在性别和身份上的扭曲与交错，情节逐渐向跨性别与变身的主题深化。文中还提及了跨国公司内部的一些隐秘活动，使整个故事更具神秘感和复杂性。内容虽然多为成人向，但亦引发对性别角色和文化内涵的深度思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_谍海商战14_[.docx]([皮物]_谍海商战14_[.docx)
 | Size            | 20173 bytes                           |
 | MD5             | 7ff4d5c07d577b1220a98d652931b0a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变嫁, 强奸, 成人向, 情色小说, 性别认同, 荷兰, 异世界, 春药, 调教, 变身, 女装, 情欲, 多人性行为, 性爱描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

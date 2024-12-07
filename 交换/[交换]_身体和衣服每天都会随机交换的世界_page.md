@@ -7,7 +7,7 @@ TXT 下载: [[交换]_身体和衣服每天都会随机交换的世界.doc]([交
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一个平凡上班族在一个充满奇幻色彩的世界里的日常生活。他会在每天早上醒来时发现自己的身体与衣服都在不断地随机交换，每一天的体验都与以往截然不同。从起床、上班到休闲，每一步都充满了对自我性别认同和身体变化的困惑和探索。作者通过细腻的描写展现了角色在不断交换的过程中的情感和身体感受，尤其是角色对外在形象及内心自我认知的矛盾，引发读者对性别身份和社会角色的思考。文中包括了对他周围人和环境的观察以及与他人互动的情节，表现了角色在职场和社交中令人尴尬和困惑的体验。此外，作品涉及了大量的性别表现和身体意识，挑战了传统的性别界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_身体和衣服每天都会随机交换的世界.doc]([交
 | Size            | 47616 bytes                           |
 | MD5             | c483eb0bd62567e37eee44d0a3bdbedb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身体交换, 伪娘, TS变身, 自我认同, 奇幻, 都市生活, 上班族, 心理探索, 二次元文化, 幻想现实, 女性形象, 性别认同, 社交困境, 羞耻感, 身体意识                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

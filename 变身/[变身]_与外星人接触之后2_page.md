@@ -7,7 +7,7 @@ TXT 下载: [[变身]_与外星人接触之后2.docx]([变身]_与外星人接�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一名男性通过特殊技术变身为女性，并开始探索这种女性身份的故事。故事的开头，作者提到了变身的背景及其与外星人的接触，展现了一种具有科幻色彩的世界观。主角在变身后的首次体验中，对变化的外貌感到既惊奇又困惑，描述了与镜子中自己的形象对视的情景，以及对女性身体的触感和感知的探索，甚至提到衣物似乎和身体融为一体，无法脱下。随着故事的发展，主角逐渐展现出对女性角色的性欲望，希望可以将变身的体验继续下去，并且想要通过变形技术与其他女性展开更多的亲密接触。尽管外表体验令人兴奋，主角对于性别关系和性活动的看法却显得有些自私与享乐，反映出他对女性角色的掌控欲和物化的态度。文中包含一些性暗示及与性相关的情节，有时带有明显的强烈性倾向，展现了在不同性别角色之间的心理与生理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_与外星人接触之后2.docx]([变身]_与外星人接�
 | Size            | 24010 bytes                           |
 | MD5             | 1ffd1fec60ec631bd1c21f5fc1041979                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 科幻, 性别认同, 性转换, 外星人, 自我探索, 伪娘, 男性视角, 性欲, 三易市, 性别关系, 女性身体, 成人内容, 异世界, 虚拟技术, 色情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

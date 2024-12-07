@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【申码文】七年女人.doc]([变装]_【申码文】�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《七年女人》的部分内容，讲述了主角谢恩·特纳的故事。七年前，特纳因参与一起银行抢劫而成为通缉犯，被迫隐藏在女性角色邦妮·汉密尔顿的生活中。特纳在女性身份的掩饰下生活，与其女友安吉拉的感情交错，展现了他的内心挣扎与对于自由的渴望。随着警察对新DNA技术的应用，他的秘密面临揭露的危机，讲述了他如何在女性身份和男性身份之间蜕变与斗争。此外，小说还包含了聚会场景和银行抢劫的细节，展现了男性角色之间的互动及其复杂的情感与心理状态。整体上，该故事探索了性别认同、自我探索等主题，配合涉及的动作与情感元素，呈现了丰富的叙事层次。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【申码文】七年女人.doc]([变装]_【申码文】�
 | Size            | 117248 bytes                           |
 | MD5             | 9cae5680098e28c7c7a694cb942bc23e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 1988-12-05                                 |
+| Tags            | 性别认同, 自我探索, 欺骗与生存, 变装, 爱情, 男性角色, 女性身份, 犯罪, 情感互动, 社会冲突, 警察, 通缉犯, 二次元文化, 心理斗争, 转换身份, 成长, 性转, 暴力与恐惧, 捉摸不定                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

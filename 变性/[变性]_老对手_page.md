@@ -7,7 +7,7 @@ TXT 下载: [[变性]_老对手.docx]([变性]_老对手.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《老对手》是由Maryanne Peters创作的一部跨性别主题小说，讲述了山姆和尼克两位自幼为好友的男性角色，从青少年时期起便一直互为竞争对手。在各自努力的过程中，他们不仅在职业上取得了成就，也在追求爱情方面获得了成功。两人各自创办了不同的事业，山姆开设了手机品牌的经销业务，而尼克则创办了自己的咖啡豆作坊。故事中，二人时常通过各种比赛进行互相攀比，甚至在社会生活中也不断较量，比如流行文化和女性化的表现。在一次朋友聚会上，他们将讨论转化为一场变装竞赛，试图在一年的时间内各自变成看起来更像女性的角色来一较高下。令两人的妻子们感到无奈的是，这种竞争不仅消耗了时间财力，也让她们对于丈夫们的关注感到越来越少。在完整的过程中，小说探讨了性别认同、自我探索及变性过程中的挑战。山姆与尼克在不断的较量与支持中，启发了对跨性别者生活的深入思考，带有一定的幽默与戏谑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_老对手.docx]([变性]_老对手.docx)
 | Size            | 34467 bytes                           |
 | MD5             | 456a5589f45fa91e3c5c1ef259421743                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Maryanne Peters                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 性别认同, 友谊与竞争, 自我探索, 变装比赛, 性别转换, 男性与女性形象, 激素治疗, 社会规范, 生活方式, 情感支持, 自我认知, 爱与妒忌, 性别表现, 女性化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

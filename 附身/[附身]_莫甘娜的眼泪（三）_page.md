@@ -7,7 +7,7 @@ TXT 下载: [[附身]_莫甘娜的眼泪（三）.doc]([附身]_莫甘娜的眼�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《莫甘娜的眼泪（三）》的第三章，讲述了角色龙文婕在一所刑警大队中的活动和心境。故事中，龙文婕化身为刑警队长吕雪芙，试图利用这一身份进行秘密行动。文中描绘了她进入警局后的细节，展示了她的机智与随机应变能力，同时反映出角色内心的紧张与兴奋。在与同伴陈昊的互动中，两人之间似乎包含了情感与身体上的复杂关系，情节逐渐发展至亲密接触，表达了角色间强烈的感情与欲望。作品中还涉及了对性别转换与身体认知的深刻探讨，以及角色在自我认同上的挣扎与探索。文档最后部分的情节稍显露骨，涉及成人内容与性描写，展示出龙文婕在角色与自身认同之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_莫甘娜的眼泪（三）.doc]([附身]_莫甘娜的眼�
 | Size            | 104960 bytes                           |
 | MD5             | 49d6803339340292bf44d88a2a156871                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 警察, 秘密行动, 校园, 成人内容, 欲望, 自我认同, 情感纠葛, 男性视角, 身份转换, 爱情, 探索, 奇幻, 动作                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

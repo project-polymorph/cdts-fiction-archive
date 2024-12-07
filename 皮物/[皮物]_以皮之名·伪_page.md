@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_以皮之名·伪.docx]([皮物]_以皮之名·伪.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部探讨性别与性取向交融的小说，标题《以皮之名·伪》，作者为Rockx3，包含了丰富而复杂的人物性别认同与身体体验。在故事中，主要角色经历了一次改变生理性别的奇幻过程，呈现了对个体自我认知和社会认同的深入思考。文本多次描绘了身体转变带来的心理冲击，结合了对性欲的探索与自我接受的主题。在开篇，一名女性角色被描述与男性性征相结合的景象，挑战了传统性别观念，引发读者对于性别身份及其流动性的反思。小说包含大量露骨的性描写，展现了色情与情感的交织。此作品仿佛在向读者发出警告：面对自己的欲望与身份，可能会带来不可忽视的内心挣扎与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_以皮之名·伪.docx]([皮物]_以皮之名·伪.docx)
 | Size            | 27660 bytes                           |
 | MD5             | 1b4ac634991ea248f09056f5a72a298e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rockx3                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 身体认同, 性欲探索, 心理冲突, 生理性别, 自我发现, 性别认同, 色情描写, 幻想小说, 魔法, 二次元, 学园情节, 女仆系列                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【旧文重贴】_卫生巾狂想.doc]([皮物]_【旧文
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说的情节围绕着一位高三学生与他的青梅竹马之间的微妙关系展开。故事开始于一个阴雨连绵的晚上，青梅竹马突然来到男主的家中，打算过夜。随着故事的发展，男主发现青梅竹马的身体发生了奇怪的变化，逐渐揭示出她的真实身份和性别的转变。小说情节急转直下，涉及了一些伦理和性别认同方面的复杂主题，描绘了男主对青梅竹马身体变化的震惊与困惑，还引入了超现实的变身元素。最终，男主在一系列奇异的变身经历中，逐渐产生了对青梅竹马身体的占有欲，故事以一种扭曲而具冲击力的方式结束，探索了身份认同、欲望与性别的交错。接整篇小说的内容可能含有强烈的成人向情节，如生理上的变身、对身体的探索等，涉及可移动的生理特征，这些内容对研究性别认同与角色扮演提供了极为特殊的视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【旧文重贴】_卫生巾狂想.doc]([皮物]_【旧文
 | Size            | 35840 bytes                           |
 | MD5             | bbee6d11e7aec61e4ae443afd22ea2bc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 自我认同, 青梅竹马, 少女, 欲望, 肤色描写, 变嫁, 执念, 奇幻, 超现实, 成人向, 身体交换, 情感与伦理, 扮演与角色, 青春期探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

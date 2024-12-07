@@ -7,7 +7,7 @@ TXT 下载: [[改造]_逆转龙凤_（三）安居.doc]([改造]_逆转龙凤_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是伪娘 TS 变身与跨性别相关小说《逆转龙凤（第三部）》的一部分，描绘了风合国少年皇帝叶景天在逃亡后的遭遇。他在一间女子的闺房中醒来，并逐渐意识到自己身处于醉红楼，一个青楼妓院。在这里，他遇到一位名叫红玉的女子，她谦恭地向皇帝行礼并解释了他的身份被隐藏的情况。红玉的反应显示出她对皇帝身份的忐忑及对未来局势的深思，两人的对话中体现了权力、身份和生存的复杂关系。文件内容包括两人的交谈，涉及到身份隐瞒、权谋、以及对未来局势的规划，展现了角色在性别和权力之间的微妙张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_逆转龙凤_（三）安居.doc]([改造]_逆转龙凤_�
 | Size            | 41472 bytes                           |
 | MD5             | 760a7f41f97d7cb2fbdacf56ff564a0e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 青楼, 权力斗争, 性别认同, 性别转换, 历史幻想, 自我探索, 文学, 情感戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

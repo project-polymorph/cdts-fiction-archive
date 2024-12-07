@@ -7,7 +7,7 @@ TXT 下载: [[附身]_摄影师奇遇记.docx]([附身]_摄影师奇遇记.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一位当红歌星柳若兮在拍摄婚纱照后的不满与摄影师的矛盾。在影楼的拍摄过程中，柳若兮对婚纱照的质量表示强烈不满，并且多次提出各种苛刻的要求，甚至将拍摄的照片扔给摄影师韩亚伟。摄影师虽然心中感到委屈，但因其职业道德和眼前的利益，最终选择忍耐并努力改善作品。文件中还描述了韩亚伟在工作中的情绪波动，以及他与同事的交流，展现了职场中的权力和金钱关系。另外，故事情节在一个暴风雨夜上升到高潮，韩亚伟在停电后孤独地面对自己的工作，暗示着他与自身职业的挣扎与反思。整个文本通过细腻的对话和心理描写，反映了在娱乐圈工作的无奈与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_摄影师奇遇记.docx]([附身]_摄影师奇遇记.docx)
 | Size            | 61374 bytes                           |
 | MD5             | 56c447c4611772536a8cbbce5d284bf6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 情感纠葛, 娱乐圈, 婚纱照, 职场, 权力关系, 情感冲突, 男女主角, 心理描写, 暴风雨, 加班, 摄影师                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

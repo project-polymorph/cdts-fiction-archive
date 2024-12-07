@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交换之深度卧底（2）.docx]([交换]_交换之深�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为变身小说的一部分，讲述了一名警察魏岩与女警察姜文瑶的身体互换故事。故事中，魏岩因任务需要与姜文瑶互换身体，期间他经历了心理的挣扎与身份的困惑。文章详细描绘了魏岩在女性身体中的感受，以及他与同事丁晋鹏的权力斗争。内容中，魏岩对丁晋鹏的阴险用心有所警觉，并且为了能够履行职责，冷静应对当前困境。故事中揭示了魏岩与丁晋鹏之间复杂的人际关系，以及他们各自的野心和道德观上的对立。情节紧凑，人物心理描写细腻，探讨了性别认同与自我价值的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_交换之深度卧底（2）.docx]([交换]_交换之深�
 | Size            | 41539 bytes                           |
 | MD5             | 4b99b71cbc89a31430793f104d6aa358                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 身体互换, 跨性别, 警察, 权力斗争, 性别认同, 自我探索, 心理考验, 职场竞争, 角色冲突, 情感纠葛, 女性视角, 策略安排, 伦理道德, 身份危机, 社会关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

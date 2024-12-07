@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第五章.doc]([附身]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节描述了主角李学智出院后的生活以及与朋友刘孟权的对话。他因之前的经历而感到肉疼，因为住院的费用让他心疼，但刘孟权安慰他说，只要他能好起来，钱的多少无关紧要。随后，李学智决定不再待在医院，而是尽快开始赚钱。他提到要前往暗市进行一笔大生意，并关心自己的债务问题。故事情节中涉及到了暗市的商业环境和他与商人黄华京的互动。李学智在暗市中接触到了可以短暂获取梦者能力的药物，药物的效果尚不确定，这为后续情节埋下了伏笔。同时也展现了主角李学智的复杂心态以及对朋友关系的深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第五章.doc]([附身]_《�
 | Size            | 40960 bytes                           |
 | MD5             | 2f8d0c3707f7da7917eb6e9e7d558c5b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 药物, 暗市交易, 梦者能力, 友情, 生意, 药剂, 自我探索, 角色发展, 都市奇幻, 逆袭, 秘密互动, 商业伦理, 自我救赎, 人物关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

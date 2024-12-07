@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_“女神”等等我_「上」.docx]([皮物]_“女神�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《女神》等等我_「上》讲述了一名名为曾昱的大学生对他女神杨明珏的暗恋故事。故事开始于曾昱与他的室友王思远之间的对话，王思远把曾昱的情感经历与追求女孩的窍门进行了调侃和分析。曾昱缺乏爱情经验，自认为情商低，内心对追求杨明珏充满了不安与嫉妒。在一次偶然的机会下，王思远向曾昱展示了他发明的仿生科技，名为“拟态皮物”，可以完美模仿女性外貌和触感。王思远提出了一个大胆的计划：曾昱可以假扮成女孩子，利用这样的机会来接近杨明珏。整个过程充满了搞笑和尴尬的情节，特别是曾昱在实验室意外撞到了一个看似娇弱的女孩，意外的亲吻引发了一系列啼笑皆非的反应。王思远则继续在背后操控着曾昱的计划，帮助他追求梦中情人。故事探讨了性别认同、自我认知，以及在追求爱情道路上所面临的种种困惑与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_“女神”等等我_「上」.docx]([皮物]_“女神�
 | Size            | 19103 bytes                           |
 | MD5             | a64273aed5c99c15a1472fa3203a0d30                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 恋爱, 青春校园, 双性别角色, 仿生科技, 大学生活, 朋友, 暗恋, 伪装, 情感探索, 搞笑, 性别认同, 初恋, 成长, 俏皮话, 尴尬, 魔法, 实验室, 科技幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

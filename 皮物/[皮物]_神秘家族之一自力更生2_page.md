@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_神秘家族之一自力更生2.docx]([皮物]_神秘家�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇伪娘变身小说，叙述了一个男孩假装成他的母亲去学校的搞笑而又尴尬的经历。故事中，主角因家庭原因被迫进行一场身份的伪装，采用母亲的面皮和服装，试图在学校中混过关。他细致描写了为了成功变装而进行的准备过程，包括选取衣服、调试声音等，展现出他在内心面对性别身份转换的复杂情感。在准备过程中，主角回忆起和祖父的温馨互动，也体现了他对家庭和母亲的情感。在装扮完成后，他面对镜子看到的自己，充满了惊讶和迷惑。尽管外表的改变引发了内心的幻想和慌乱，但也使他意识到了对母亲形象的误解和自我认同的困惑。整篇小说充满了幽默与探讨性别角色的深思，是一部有关青少年成长与性别认同的有趣作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_神秘家族之一自力更生2.docx]([皮物]_神秘家�
 | Size            | 22597 bytes                           |
 | MD5             | e08e25bc71a40ea3baf5cd680616a4b6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 性别认同, 青少年成长, 家庭关系, 幽默, 自我探索, 角色扮演, 性别转换, 内心挣扎, 母子情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

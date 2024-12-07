@@ -7,7 +7,7 @@ TXT 下载: [皮刀与老师.doc](皮刀与老师.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《皮刀与老师》是一部围绕性别转变与幻想情节的小说，主要讲述了男主沈俊杰与他的好友刘满在校园中与一把名为“皮刀”的奇异刀具相关的故事。故事开始时，刘满因对老师王碧云的强烈迷恋，买下了这把据说可以皮物化的刀具，并与好友沈俊杰共同探讨其能力和奇效。小说中深入探讨了性别认同和自我欲望的主题，角色通过“皮刀”实现他们的幻想与欲望，体验身份的转换。在情节中，涉及对王碧云的青少年幻想，以及通过皮刀获得的神秘能力，反映了对身体与性别认同的探索。这部作品主题复杂，涉及到纯爱、调教、跨性别认同等多个元素，展示了角色在现实与幻想之间的挣扎与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [皮刀与老师.doc](皮刀与老师.doc)
 | Size            | 65024 bytes                           |
 | MD5             | 2bd5f760d7a54b856eb923135e9e61dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园小说, 变身, 幻想, 纯爱, 调教, 师生恋, 性别认同, 青春成长, 工具化, 奇幻, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

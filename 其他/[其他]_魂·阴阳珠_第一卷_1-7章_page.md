@@ -7,7 +7,7 @@ TXT 下载: [[其他]_魂·阴阳珠_第一卷_1-7章.doc]([其他]_魂·阴阳�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇长篇剧情小说，名为《魂·阴阳珠》，由作者黑月姬创作。故事背景设定在现代都市，围绕着主人公王哲的情感故事展开。小说开篇描绘了2020年圣诞节的沪城街头，主人公面临感情的波折与内心的挣扎。故事中包含了附身、互换、洗脑等奇幻元素，展现了角色在情感与自我认同之间的复杂关系。其中，王哲因女友小霖的背叛而感到失落和愤怒，情感的冲突使得他在街头游荡，回忆往昔，同时发现了一个神秘的小球，这可能是改变其命运的关键。作品通过细腻的心理描写和都市环境的刻画，探讨了爱情的脆弱和个人的自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_魂·阴阳珠_第一卷_1-7章.doc]([其他]_魂·阴阳�
 | Size            | 149504 bytes                           |
 | MD5             | ec955062ca82b384cfd7a4a086be3070                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 黑月姬                               |
+| Region          | 中国大陆                               |
+| Date            | 2020-12-25                                 |
+| Tags            | 都市, 纯爱, 奇幻, 情感, 自我探索, 附身, 互换, 洗脑, 成长期, 穿越, 成长, 孤独, 青春, 失落, 神秘物品, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

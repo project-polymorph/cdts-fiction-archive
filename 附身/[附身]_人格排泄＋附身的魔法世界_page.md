@@ -7,7 +7,7 @@ TXT 下载: [[附身]_人格排泄＋附身的魔法世界.doc]([附身]_人格�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件内容为一部涉及性别转换和附身题材的小说，故事发生在名为奥斯汀的城镇，描绘了贵族宅院的奢华景象与复杂的人物关系。贵妇人德蕾莎身着华贵的哥特式长裙，虽然外表优雅迷人，但性格却极为刻薄。在小说开头，她因咖啡加糖过多而对年轻仆役亚伦进行责骂和殴打。故事进展中，实际上亚伦的灵魂在三天前已经去世，取而代之的是来自现代的灵魂，他正在努力适应中世纪的贵族生活，并拥有了“暂停时间”和“灵魂出窍”的超能力。在一次事件中，亚伦在一瞬间获取了攻击德蕾莎的力量，开始了对她的复仇。文件的内容涉及了性别、权力、羞辱及复仇等复杂情感，同时也展示了角色在新身份的自我认知与转变过程，以及超自然元素的加入使故事更加引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_人格排泄＋附身的魔法世界.doc]([附身]_人格�
 | Size            | 58368 bytes                           |
 | MD5             | 6b03d374dc3e5a8a18d3798f4f9a6af5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 附身, 贵族生活, 复仇, 超能力, 权力关系, 自我认知, 哥特式风格, 现代与中世纪的交融, 角色发展, 情感冲突, 豪华宅院, 日常生活, 暴力与反抗                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

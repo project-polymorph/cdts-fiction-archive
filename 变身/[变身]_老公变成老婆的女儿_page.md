@@ -7,7 +7,7 @@ TXT 下载: [[变身]_老公变成老婆的女儿.docx]([变身]_老公变成老
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一部围绕变身和跨性别主题的小说，描述了一位丈夫在妻子失去女儿后的心理变化和角色扮演。故事开始于妻子因女儿早逝而感到极度悲痛，丈夫作为她的支持者尽力安慰她，之后无意间察觉到妻子逐渐通过购物来填补这一空缺，购买了大量小女孩用品。这种行为逐渐演变成丈夫在家中扮演小女孩的角色，以此来让妻子开心。他开始模仿电视剧中的小女孩，甚至被妻子当做女儿般照顾。随着时间的推移，丈夫在扮演中逐渐模糊了性别认同，从生理上和心理上都向小女孩发展。文章深入探讨了角色的自我认知、心理变化，以及此次变化在家庭动态中的影响等主题。小说通过细腻的叙述展现了复杂的情感，与自我身份认同的探索，亦涉及一些可能的限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_老公变成老婆的女儿.docx]([变身]_老公变成老
 | Size            | 21468 bytes                           |
 | MD5             | b4554270db6bc237e32246e293280557                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 身份认同, 心理支持, 母女关系, 角色扮演, 性别转换, 家庭动态, 自我探索, 情感恢复, 生活日常, 电视剧, 自我认知, 伪娘, 强迫角色扮演, 纯爱, 强奸, 禁忌, 调教, 多人, 女体化, 药娘, 调教, 异世界, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

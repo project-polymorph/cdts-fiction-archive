@@ -7,7 +7,7 @@ TXT 下载: [[附身]_移魂录（第一季）.docx]([附身]_移魂录（第一
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《移魂录（第一季）》是一部涉及性别转换和自我探索主题的小说，讲述了主角张明通过一个神秘的炉顶物品实现附身到女性身体中的冒险经历。在系列的开篇中，作者描绘了主人公张明在进入女性身体后的惊讶与困惑，以及对新身份的探索。故事围绕张明及其朋友们通过魔法实现身心体验的背景展开，呈现了性别认同的复杂性与多样性。文本中包含了许多细节，如张明在醒来的情景、对身体变化的探索、以及与他人的互动，展现了对性别身份、情欲与幻想的深刻探讨。该小说包含了较多的性暗示和不当内容，涉及性高潮、身体的描写和自我认同的挑战，适合成年读者并供研究及学习使用。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_移魂录（第一季）.docx]([附身]_移魂录（第一
 | Size            | 91872 bytes                           |
 | MD5             | dda9ac9c3e90231dc2bacc7fb93d1067                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 自我探索, 伪娘, 幻想, 魔法, 情欲, 青春, 互动, 冒险, 次元, 性别认同, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

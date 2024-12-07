@@ -7,7 +7,7 @@ TXT 下载: [[变身]_TG图片四十二.doc]([变身]_TG图片四十二.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含多个变身和性别转换相关的短篇小说，主要围绕角色性别转换的情节展开。故事中的主要角色路易斯在一次错误使用的魔法香皂后，经历了身体和性别的彻底变化，描述了从男性转变为女性的过程。他在洗澡的时候开始变得更加女性化，身体的每个部分都发生明显的变化，包括腿部、胸部和性器官。在这个过程中，他逐渐意识到自己身体的变化，最终对自己新身体的接受与认同。同时，另一个故事中描写了奈特在咖啡馆工作的第一天，因机器的作用变为符合女仆形象的女性，暗示了欲望与服从的关系。这些情节涉及了强烈的自我认同与性别认知冲突，包含了一定的成人向内容以及变装、调教等情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_TG图片四十二.doc]([变身]_TG图片四十二.doc)
 | Size            | 37376 bytes                           |
 | MD5             | b8b4054822a3ba4199b9198418e36263                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 魔法, 自我探索, 调教, 伪娘, 变嫁, 淫荡, 轮乱, 女性化, 游戏, 成人向, 女仆装, 奇幻, 盛装占有                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

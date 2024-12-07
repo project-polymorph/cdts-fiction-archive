@@ -7,7 +7,7 @@ TXT 下载: [[改造]_广寒宫.doc]([改造]_广寒宫.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文本档案《广寒宫》讲述了大燕国的杭绝悟，一个武学奇才和谋略大师，他在动荡的江湖中试图统一武林，以抵抗叛乱和神秘组织的阴谋。故事围绕着一个古老的传说展开，月神会在月圆之夜与武林顶尖高手显现，传言她能带走获得承认的人。杭绝悟对此充满执念，尤其是五绝高手的神秘失踪，促使他深入探查一个名为"广寒宫"的组织。该组织通过诱拐和改造女性，将她们培育成江湖的爪牙，对国家的命运构成威胁。杭绝悟最终决定采取行动，摧毁这个组织，恢复国家的安宁。文中详细描绘了杭绝悟与百晓生的对话，以及他对月神广寒宫的追求和探寻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_广寒宫.doc]([改造]_广寒宫.doc)
 | Size            | 41984 bytes                           |
 | MD5             | 0c2507fa1d85aba2954aae72c2fc38e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 武侠, 变身, 月神, 广寒宫, 自我探索, 权力斗争, 江湖, 阴谋, 女子训练, 性别认同, 情报网络, 传奇传说, 组织潜伏, 古代中国, 武功, 背景故事, 情感纠葛, 传奇角色, 武学, 叛乱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

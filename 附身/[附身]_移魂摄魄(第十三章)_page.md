@@ -7,7 +7,7 @@ TXT 下载: [[附身]_移魂摄魄(第十三章).doc]([附身]_移魂摄魄(第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于灵魂转移与性别转换主题的小说章节，描绘了一个角色在经历灵魂交融与身体重塑的过程中，如何逐渐恢复力量并适应新的身份。文章中主要角色秋梓在经历灵魂的吞噬与融合后，表现出强大的力量和对新身体的探索。故事涉及许多心理变化与自我认同的问题，同时充满了幻想和变身的元素。小七在文中似乎是一个辅助角色，她与主角之间的互动提供了一些幽默和温馨的时刻。文本中还提到了一些医疗场景和紧急救治的过程，表现了角色在逆境中的坚韧和应对挑战的能力。此章节结合了性别认同、灵魂转移等主题，内容较为丰富，带有一定的限制级与性相关的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_移魂摄魄(第十三章).doc]([附身]_移魂摄魄(第�
 | Size            | 34816 bytes                           |
 | MD5             | 5f378968f497dfd854ccd650d7ae85b2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂转移, 性别转换, 伪娘, 幻想, 变身, 自我认同, 秋梓, 小七, 医疗场景, 心理变化, 魔法, 灵魂吞噬, 女强人, 情感纠葛, 现代都市, 性别探索, 变嫁, 二次元, 强制行为                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

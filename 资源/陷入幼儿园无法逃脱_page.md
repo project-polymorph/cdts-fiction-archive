@@ -7,7 +7,7 @@ TXT 下载: [陷入幼儿园无法逃脱.doc](陷入幼儿园无法逃脱.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一个全息游戏的虚构小说，玩家的角色为一名三岁的小女孩，名为爱丽丝。故事开头，主角意外进入了一个模拟幼儿园的游戏中，并发现角色形象和身份的转变。在游戏中，她必须扮演幼儿园的小女孩，伴随一系列奇妙又尴尬的经历。随着游戏进行，角色的性别认同发生了显著变化，主角逐渐体验到作为小女孩的生活，甚至适应起幼儿的行为模式，例如被卷入幼儿园的日常活动，与其他小孩子玩耍。在游戏的设置中，若角色带给NPC（非玩家角色）不愉快的感受，还会触发惩罚机制，导致角色的年龄和记忆被逐渐剥夺。这种奇特的设定引发了对性别身份的探索，以及角色在保持自我意识和接受新身份之间的矛盾。最终，随着时间推移，角色愈发完全地融入了小女孩的身份，令人在感叹同情与困惑之余，也不免对游戏机制的荒诞深感惊讶。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [陷入幼儿园无法逃脱.doc](陷入幼儿园无法逃脱.doc)
 | Size            | 33792 bytes                           |
 | MD5             | 89d8e0d20efdb06fcaa6468a5ced07f7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 全息游戏, 幼儿园, 角色扮演, 性别认同, 自我探索, 幼女, 惩罚机制, 虚拟现实, 心理变化, 少女生活, TRPG, 游戏体验, 性别转换, 意识流, 沉浸式游戏, 身份危机, 亲密关系, 游戏设定, 情节发展, 角色认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

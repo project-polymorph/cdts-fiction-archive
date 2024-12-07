@@ -7,7 +7,7 @@ TXT 下载: [[附身]_転身——女警雨宮晶子篇(上）.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是包含在多元性别中文数字档案馆的内容，主要讲述了一位名为藤村奈奈子的角色与她的上司雨宫晶子的互动，并包含了角色性别转换的情节。在故事中，藤村奈奈子附身到了女警官雨宫晶子的身体，展现了关于性别认同和自我探索的主题。透过角色的内心独白，读者能够感受到对性别转换过程中的冲突和兴奋。文本中不乏对角色外观的细致描写，如提到雨宫晶子「梳着马尾头充满知性美」，还有关于她的「丰满大腿」和「粉红色内衣」等细节，反映出该作品的性别模糊性和变身幻想。此外，故事中还涉及了一些调侃与玩笑，例如角色穿着超短裙和内衣的大胆尝试，增添了情节的趣味性与戏剧性。整体而言，这是一篇融合了变身、幽默、社会角色期望与身份认同的小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_転身——女警雨宮晶子篇(上）.docx]([附身]_�
 | Size            | 19028 bytes                           |
 | MD5             | ba252015bb71153f829fc2854796f920                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 调教, 制服养成, 职场关系, 灵魂转换, 性别认同, 角色扮演, 青春幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

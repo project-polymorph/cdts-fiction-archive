@@ -7,7 +7,9 @@ TXT 下载: [[附身]_EROS_（2）美少女毫无波澜的平凡日常……才�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《美少女毫无波澜的平凡日常……才怪！》是涉及伪娘和变身题材的小说，其故事围绕着少女林晓霞展开。故事开篇描绘了林晓霞在咖啡厅中面临的不安情绪，她与好友佳莹之间的对话展现了她内心的焦虑。随着故事的发展，林晓霞回到家中，却发现母亲林月岚的行为异常，出现了越来越没希望的局面。这种富有悬念的剧情发展将角色的平凡日常与突发的怪异事件结合了起来，给读者带来了一种情感与心理的双重冲击。
+
+整部小说通过细腻的心理描写和角色之间的互动，探讨了人与人之间的关系及其潜在的复杂性，特别是林晓霞与母亲之间日渐扭曲的关系。同时，作品中涉及了一些敏感与伦理的情节，表现了角色心理的挣扎与变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_EROS_（2）美少女毫无波澜的平凡日常……才�
 | Size            | 46592 bytes                           |
 | MD5             | 4446fee8e734dcf6da516b42a3fcea90                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 军刀望树                               |
+| Region          | 未知                               |
+| Date            | 2018-12-31                                 |
+| Tags            | 伪娘, 变身, 青春校园, 自我探索, 家庭伦理, 心理恐怖, 日常生活, 弱势与强势, 友谊, 情感纠葛, 禁忌恋情, 性别认同, 幻想, 青春, 校园恋情, 友爱, 情绪障碍                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

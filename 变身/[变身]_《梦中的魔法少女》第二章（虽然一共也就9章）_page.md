@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《梦中的魔法少女》第二章（虽然一共也就9
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《梦中的魔法少女》第二章描绘了加奈美与主角的共同生活，充满了魔法、性别转换与奇幻色彩。在这一章中，加奈美在主角家中生活几天后，逐渐展现出她身为魔法少女的特点，使用自己的魔法解决一系列小问题，包括家庭卫生和个人隐私方面的困扰。在早晨的场景中，主角感到身体的奇妙变化，伴随强烈的欲望与梦境交织，引发了一种新奇而复杂的体验。加奈美保持魔法少女的习惯，夜晚外出降妖除魔，尽管主角对此感到困惑，却也被她的活力与魅力所吸引。文本通过细腻的描写，探索了角色之间的情感与性别认知的碰撞，以及关于身份和欲望的复杂关系。同时，故事中还加入了一些限制级的情节，包括双向的身体体验与性行为的暗示，反映出角色在性别转换与自我认同上的探索和挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《梦中的魔法少女》第二章（虽然一共也就9
 | Size            | 41984 bytes                           |
 | MD5             | 33627c0c0cf71a1aabf5dad32650f057                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 魔法少女, 伪娘, 奇幻, 自我探索, 兄妹关系, 性别认同, 欲望冲突, 二次元文化, 跨性别主题, 魔法与科技结合                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

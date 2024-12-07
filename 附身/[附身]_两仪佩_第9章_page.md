@@ -7,7 +7,7 @@ TXT 下载: [[附身]_两仪佩_第9章.docx]([附身]_两仪佩_第9章.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关小说《附身》中的第9章，主要围绕两个女大学生邹纯与乐欣的校园生活展开。故事开头，邹纯与谈青在一起上经济学课，谈青透露李梓因事请假。邹纯对李梓的失踪感到好奇并试图掩饰自己的情绪。在放学后，她与乐欣一起吃饭，并讨论选课情况，乐欣提到为了创造两人空间的安排，调侃邹纯的记忆衰退。两人嬉戏打闹，展现了年轻人的活力与无忧。接着，邹纯接到谈青的新任务——保护姜俊，意外获得身份的转变。任务的背景神秘且复杂，与姜俊的处境息息相关。谈青为即将进行的任务做准备，同时传递了新身份的资料，表现出紧张的情节推进和角色的发展。在此过程中，展现了诸多校园生活的细节，充满青春活力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_两仪佩_第9章.docx]([附身]_两仪佩_第9章.docx)
 | Size            | 24271 bytes                           |
 | MD5             | ff349f2774384be0807cf7d43fee1969                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 校园, 伪娘, 青春, 跨性别, 女主角, 自我认同, 友情, 任务, 爱情, 校园生活, 易容, 孤独, 冒险, 成长, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

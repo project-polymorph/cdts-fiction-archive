@@ -7,7 +7,9 @@ TXT 下载: [[催眠]人格植入裝置（實驗短篇）.doc]([催眠]人格植
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于人格植入的短篇实验小说。故事的主人公经历了一次难以置信的变故，逐渐发现自己陷入了无法解释的境地。故事开头，女主角面前是一扇敞开的衣柜，镜子中映射出她身上闪耀着赤红色长发的奇幻景象。这个景象令人惊奇却又似曾相识，显然是她心底深处的幻想成真。随着剧情的发展，角色逐渐意识到自己实际上是在一个女性的身体里，且对方是位年轻且美丽的学生。
+
+文本描绘了主人公在接受人格植入后所经历的身份混乱与自我认知的冲突，她的记忆逐渐浮现，揭示出一段不寻常的经历，包括接触到一篇描述人格植入的帖子以及对身体与身份之间的辩证思考。故事中探讨了科技如何影响人的身份认同，也涉及了对女性身体的所有权和欲望的反思。整个剧情充满了心理上的紧张与矛盾，彰显了对自我的探索与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[催眠]人格植入裝置（實驗短篇）.doc]([催眠]人格植
 | Size            | 35840 bytes                           |
 | MD5             | 3e574e2570bcc02c46d58fc9c2a250ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人格植入, 身体交换, 跨性别, 科技伦理, 自我认同, 心理冲突, 女性视角, 性别认同, 身份混淆, 幻想实践, 青春, 校园, 强烈欲望, 身体控制, 禁忌, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我仍未见过我女友的样子（二、三）.doc]([其
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档包含《我仍未见过我女友的样子》小说的第二章和第三章，主要讲述了主角星野结衣的成长过程和家庭背景。星野结衣出生在日本秋田县，但因母亲难产去世，父亲星野诚与另一位名为江如雪的女性再婚，江如雪来自中国，结衣与她有着深厚的感情。随着剧情的发展，结衣逐渐了解家庭的复杂关系，包括她与同父异母的哥哥周铁树之间的情感纠葛。此外，文中描述了结衣在成长过程中与父母及周铁树的互动，表现出浓厚的情感和人际关系冲突。小说穿插着对人物内心感受的细腻描写，描绘了跨国文化交融及家庭关系的复杂性。章节内容展示了对亲情、初恋、成长等主题的探讨，以细腻的笔触塑造了充满温情与悲伤的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我仍未见过我女友的样子（二、三）.doc]([其
 | Size            | 45568 bytes                           |
 | MD5             | 599d303d69da24fc8d756efcca205e4f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身小说, 家庭关系, 成长, 情感纠葛, 爱情, 日本, 中国, 伪娘, 社交互动, 兄妹情, 文化交融, 初恋, 青春成长, 自我探索, 苦难与希望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

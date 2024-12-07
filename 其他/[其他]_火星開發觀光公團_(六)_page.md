@@ -7,7 +7,7 @@ TXT 下载: [[其他]_火星開發觀光公團_(六).docx]([其他]_火星開發
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一位名叫芽实的角色与一种名为宇风的机械角色之间的互动。故事中的芽实对提升自己与宇风的能力有着强烈的渴望，心中追求最高的分数，表现出不满足于普通的成绩。文中涉及芽实回忆起与一位名为史密斯的角色的过往，展现了她与他之间的友谊和情感。这段记忆包括史密斯赠送的一个旧皮箱，里面藏着未解的秘密，芽实决定要找到这些资料，并对宇风表示要一起探索他的老家——一个充满研究资料的地方。对于宇风而言，他感受到火星科技的威胁与挑战，同时也体验到身体的改造及情感复杂性。文中还涉及了一些未明确的科幻元素，以及与性别认知、安全限度、外星科技和人类发展的深层讨论。整体内容充满富有科幻色彩的心理描写和未来感的情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_火星開發觀光公團_(六).docx]([其他]_火星開發
 | Size            | 18050 bytes                           |
 | MD5             | 44a10711e3dc2d41064fc1838f7438ca                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 性别认知, 机械角色, 友谊, 自我探索, 人类与外星科技, 记忆与身份, 心理描写, 宇宙开发, 未来科技, 情感复杂性, 性别转换, 火星旅行, 探索与研究, 人类发展, 机器人互动, 超现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

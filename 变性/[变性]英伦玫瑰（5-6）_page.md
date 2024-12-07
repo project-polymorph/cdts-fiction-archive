@@ -7,7 +7,7 @@ TXT 下载: [[变性]英伦玫瑰（5-6）.doc]([变性]英伦玫瑰（5-6）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《[变性]英伦玫瑰（5-6）》描绘了主人公拉尔夫在一个强壮男性杰克的操控下，经历剃除腿毛与尝试穿女性衣物的复杂心理过程。故事呈现了拉尔夫从男性身份向女性形象的转变过程，他在豪华的环境中被迫扮演‘妻子’的角色，内心充满了恐惧和困惑。拉尔夫剃除腿毛后，面对镜子自我审视，意识到自己正在向一个娇妻的角色靠近，尽管他心中仍有反抗的声音。随着故事的发展，拉尔夫逐渐适应穿女性衣物带来的感觉，虽然感到羞愧和不安，但他在性别转换中也体会到了对女性衣物的欣赏与束缚感。此文件包含了丰富的情感冲突与身份认同的探索，展示了拉尔夫在社会性别角色期待下的挣扎与适应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]英伦玫瑰（5-6）.doc]([变性]英伦玫瑰（5-6）.do
 | Size            | 47616 bytes                           |
 | MD5             | f33484f6a900a38718d680a8c3956238                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 自我探索, 性别认同, 女性形象, 伪娘, 豪宅, 心理斗争, 情感冲突, 社会期待, 穿衣体验, 性别角色, 超现实, 心理变化, 强权关系, 身体改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

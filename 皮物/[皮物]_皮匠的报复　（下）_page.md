@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮匠的报复　（下）.docx]([皮物]_皮匠的报复
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及跨性别和变身主题的小说，讲述了角色‘皮匠’与紫嫣仙子之间的复杂互动。故事开头，皮匠因为穿上了名为陈雪的女子的皮肤而陷入了一种神秘的状态。在紫嫣的神通影响下，皮匠不得不经历一种极为尴尬和羞辱的互动，既让他感受到身体被控制，也使其面临心理上的巨大的挣扎。紫嫣能够听到皮匠的内心想法，她通过这种神奇的能力对皮匠进行惩罚，使得他在无能为力的情况下纠结于自我认知的冲突中。这篇小说探讨了性别认同与自我意识的主题，同时也包含了许多成人向的情节，涉及心理控制及性关系等内容，揭示了角色在特殊情况下的内心变化及道德困境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮匠的报复　（下）.docx]([皮物]_皮匠的报复
 | Size            | 29839 bytes                           |
 | MD5             | 1bcaff13b81c91d681a36020281db9b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 紫嫣仙子, 皮匠, 心理斗争, 强制性行为, 魂穿, 欲望与羞辱, 心灵操控, 魔法, 性转, 成人向, 个体挣扎, 自我认知, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

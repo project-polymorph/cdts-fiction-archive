@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_律_（序）.docx]([皮物]_律_（序）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一段发生在东山市地方法院的庭审记录，详细描绘了被告李小月的案件。开庭时间为2011年2月28日，检控方对李小月提出故意杀人罪的指控，并提供了大量证据，包括她的指纹与被害人张琴家中的血迹及其他证物相吻合。辩护律师王然明确为李小月辩护，声称她无罪并试图通过质疑证据的真实性和警方的调查过程来为自己的委托人开脱。庭审中，王律师的发言引发了庭审现场的强烈反应，引起了旁听者和法官们的注意，显示出案件的复杂性与争议性。文件中包含了律师与证人、法官之间的对话，生动刻画了法律程序的紧张气氛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_律_（序）.docx]([皮物]_律_（序）.docx)
 | Size            | 31087 bytes                           |
 | MD5             | 21cf617cd3672c0d47dd2b1bfbb78754                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-02-28                                 |
+| Tags            | 庭审, 法律, 辩护, 刑事案件, 无罪辩护, 证据分析, 律师, 法庭对抗, 心理斗争, 社会正义, 性别认同, 变装, 伪娘, 强奸, NTR, 白领, 年龄差, 校园, 撕逼, 毒药, 调教, 多人, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

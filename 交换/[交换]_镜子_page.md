@@ -7,7 +7,7 @@ TXT 下载: [[交换]_镜子.docx]([交换]_镜子.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说以角色苏宁为中心，讲述了他在父亲去世后的孤独与转变。故事开始于苏宁的父亲自杀后，描述了苏宁与后母郭美的生活。苏宁对后母的感情复杂，既有依赖也有矛盾，同时充满了对父亲遗留的企业的无奈。随着情节发展，苏宁发现生活中的古铜镜子不仅是父亲的遗物，更是改变他命运的关键。小说探讨了性别认同与身份的交换，苏宁在镜子中的自我认知逐渐模糊，体会到身为男性与女性角色的冲突与融合。在与镜子中的自己交流时，一种神秘的力量开始操控他的身体，将他与曾经被困在镜子里的存在相互交织。小说通过幽闭的空间与人物内心的挣扎，展示了对自我与欲望的探索，涉及到了亲情与禁忌的层面。故事后半部分揭示了与后母之间越过亲情禁忌的复杂关系，挑战了传统性别角色与道德界限，引发了对欲望和身份认同的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_镜子.docx]([交换]_镜子.docx)
 | Size            | 19666 bytes                           |
 | MD5             | 153280670d213b0a3682711cbf12e183                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 禁忌关系, 身份交换, 自我认知, 男性角色, 后母, 情感纠葛, 欲望探索, 古董镜子, 青春期困惑, 家庭破产, 虐恋, 男性向恋爱, 不伦之恋, 奇幻元素                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

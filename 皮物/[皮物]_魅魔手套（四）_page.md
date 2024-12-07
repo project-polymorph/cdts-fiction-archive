@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魅魔手套（四）.docx]([皮物]_魅魔手套（四）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为网络小说《魅魔手套（四）》的部分章节内容。在这一章节中，主角叶留实体验到了穿戴魅魔手套带来的痛苦与变化。他的右手在戴上手套的瞬间感受到剧烈的灼烧与融化的痛感，而左手则是冰凉的触感。这种奇特的感受让他感到亡魂欲觉，最终他将手套完整地戴上。随着两只手套的穿戴，他经历了双手骨骼碎裂和皮肤溃烂的极端痛苦。这一过程揭示了魅魔手套的真正意图：对他进行身体与灵魂的改造。叶留实意识到，随着魅魔意识的觉醒，他即将失去自我，彻底成为魅魔。随后，叶留实的身体发生了显著变化，与魅魔开始了合二为一的过程，最终与自己的本性进行了深度的融合。他的女声和妩媚笑容令人感到恐惧，这种转变预示着他将施展魅魔的力量，而这一切也可能释放出更大的灾难。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魅魔手套（四）.docx]([皮物]_魅魔手套（四）
 | Size            | 24842 bytes                           |
 | MD5             | cb91a657fcd612a74ed874c38b119170                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 魅魔, 变身, 自我认知, 身体改造, 痛苦, 灵魂融合, 魔法, 超自然, 异界, 奇幻, 角色转换, 阴森                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

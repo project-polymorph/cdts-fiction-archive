@@ -7,7 +7,7 @@ TXT 下载: [[附身]_深蓝之星（三）.docx]([附身]_深蓝之星（三）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一篇关于清宫优香的故事，情节围绕她在学校杂物房的奇幻经历展开。故事开篇描述了一名美丽女孩的出现，她被来自地狱的恶魔占据了身体，展现出一种对女性身体的迷恋和欲望。清宫优香在恶魔的意识影响下，感受到她新身体的各个部位的变化，特别是她的双腿和女性特征。随后的故事中，她与一个被封印在杂物房的骷髅展开对话，骷髅试图探寻她的意图和动机。清宫优香则展现出对她新身体的愉悦和自信，同时敬而远之地嘲笑骷髅的外表和自己所处的境遇。整个故事中夹杂着角色间的对话，流露出性别认同、身体控制和外在形象的冲突，情节涉及到某些限制级内容，体现了对女性身体美的描绘和男性视角的欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_深蓝之星（三）.docx]([附身]_深蓝之星（三）
 | Size            | 23281 bytes                           |
 | MD5             | 4d78ec3ef7c761445292968dc46eaa0c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 魔法, 恶魔, 校园, 女性身体, 欲望, 恶魔附身, 灵魂交换, 自我探索, 性别认同, 禁忌, 美丽, 幻想, 魔法阵                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

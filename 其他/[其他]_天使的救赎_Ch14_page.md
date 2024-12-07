@@ -7,7 +7,7 @@ TXT 下载: [[其他]_天使的救赎_Ch14.doc]([其他]_天使的救赎_Ch14.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为跨性别主题小说《天使的救赎》的第14章，内容主要围绕诺瑞斯和伊丽丝的感情发展。故事开头描述了二人相遇的场景，诺瑞斯在河边等待久违的伊丽丝，展现出他们之间深厚的情感联系。诺瑞斯在半年的等待后，终于在公交车上偶然相遇，怀着激动的心情与伊丽丝展开对话，表现出他对她的深爱与渴望。在二人亲密交流的过程中，描述了诺瑞斯对伊丽丝的回忆与思念，而在两人感情发展的同时，围绕他们的还有仙蒂的暗中观察与行动，暗示着更为复杂的故事情节。此外，章节结尾部分描写了诺瑞斯与伊丽丝之间的亲密关系，以及过去感情的坦诚相待，情节既有温情也带有一定的悬念。整体上，该章节结合了梦幻与现实，表现了角色在性别认同及情感探索的过程中所面临的挑战和选择。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_天使的救赎_Ch14.doc]([其他]_天使的救赎_Ch14.do
 | Size            | 50176 bytes                           |
 | MD5             | 64a60270e70077cfa6e02b9e99004a0b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 情感纠葛, 梦想与现实, 自我探索, 强烈吸引, 亲密关系, 情感发展, 恋爱, 魔法元素, 阴影与监视, 失落与重逢, 成年爱情, 温柔与激烈, 友情与爱情的冲突, 异世界, 幻想特质                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

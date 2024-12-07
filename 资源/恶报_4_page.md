@@ -7,7 +7,7 @@ TXT 下载: [恶报_4.doc](恶报_4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部关于变性与性别认同的小说，故事围绕主角洛尔展开。洛尔在丹恩的帮助下开始了接受变性手术的旅程。在一个温馨的时刻，洛尔通过修剪指甲和涂抹指甲油展现了他作为女性的自我认同。随着故事的发展，洛尔搬入丹恩的家中，逐步放弃过去的男性身份，决定接受变性手术。故事中，丹恩不仅提供了精神上的支持，还承担了手术的费用。在心理医生布劳的指导下，洛尔进行了心理和生理上的调整，并以女性身份生活。最终，洛尔决定以新的女性名字“萝安妲”生活，并在情感上与丹恩建立了深厚的羁绊。文章涉及性别认同、自我探索等主题，情感细腻，特别是洛尔与丹恩之间的微妙感情发展，引人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [恶报_4.doc](恶报_4.doc)
 | Size            | 42496 bytes                           |
 | MD5             | c47a92caa4a8ef5f4e0aae683e13e929                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 伪娘, 情感发展, 友谊, 心理咨询, 女性化, 自我探索, 第一人称视角, 青春成长, 爱情, 角色转变, 变嫁, 变身, 性别角色, 现代都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

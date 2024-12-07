@@ -7,7 +7,9 @@ TXT 下载: [[其他]_绝密身份_（十）_迷雾的夜色_（万字更新~免
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是伪娘 TS 变身与跨性别相关小说的档案仓库中的一篇文档，内容主要围绕一场生日派对的情节展开。故事设定在一个华丽的宴会厅，充满了青春气息的少年少女们。主角在这个聚会上感到一种难以言说的心情，似乎被过去的回忆所困扰。描写了主角的内心挣扎，她试图掩饰内心的伤痛，却在旁人的关注中显露出不安。
+
+在宴会中，帅气的青年顾容亮发言，场面热闹。主角对顾容亮产生了一种复杂的情感，既欣赏又感到自卑。此外，文件中提到了一些主角与同学们的交谈，尤其是与赵子华的互动，表现了他温柔的关心和主角内心的动荡。整体文字风格细腻，描绘了复杂的人际关系和情感纠葛，同时反映了性别认同和自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_绝密身份_（十）_迷雾的夜色_（万字更新~免
 | Size            | 50890 bytes                           |
 | MD5             | 60b124cf94a8816b3b40ebb474d117cd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 青春, 聚会, 内心挣扎, 情感纠葛, 男主角, 生日派对, 青少年社交, 自我探索, 友情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

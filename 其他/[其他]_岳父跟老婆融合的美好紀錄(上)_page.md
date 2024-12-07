@@ -7,7 +7,7 @@ TXT 下载: [[其他]_岳父跟老婆融合的美好紀錄(上).doc]([其他]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于一个复杂家庭关系的小说，讲述了男主与其妻子（岳父的女儿）及岳父之间奇特而扭曲的情感纠缠。故事中涉及到男主与其妻子之间的性关系，以及意外发生的融合现象，使岳父与妻子在一场春药下的情欲交织中，无意中发生了身体上的融合，使得男主感到震惊与恐慌。小说通过男主对这一切的内心独白，展现了他对家庭伦理、性别认同和心理冲突的挣扎。随着情节发展，读者看到主人公如何面对突如其来的变故，伴随着对身份与自我认同的深刻反思。整个故事包含了大量限制级内容，包含对各种感官刺激的描写，以及情感深刻的家庭关系探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_岳父跟老婆融合的美好紀錄(上).doc]([其他]_�
 | Size            | 83968 bytes                           |
 | MD5             | 6a7d455de72ae734afff64ab2da014a5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 三角关系, 性转, 春药, 恋父情结, 家庭融合, 跨性别, 身体交换, 强烈情感, 伦理道德, 禁忌恋, 现代奇幻, 自我认知, 心理冲突, 無法逆轉的命運                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_转瞬双生14.docx]([皮物]_转瞬双生14.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部跨性别相关小说，名为《转瞬双生14》。在这一章节中，主要围绕角色「茉莉」与「徐平」之间的复杂互动展开。故事情节涉及身份的模糊与性别的多重转换，描绘了「茉莉」因扮演「徐平」而感受到的心理冲突与身体认同。特别是在徐平意识恢复后，两者之间的关系变得更加微妙和紧张。文中有 несколько 段对话，展现了他们在身份错位中的感受和冲突，同时讨论了身体和性别的认知，借助对话和内心独白进一步深化了角色的人物形象。情节中还有涉及性暗示和性别探索的部分，呈现了一种既令人不安又引发思考的情感波动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_转瞬双生14.docx]([皮物]_转瞬双生14.docx)
 | Size            | 26457 bytes                           |
 | MD5             | 67b548c3a767fc3962f80bd16d99dfd6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 心理冲突, 身体认知, 强烈情感, 自我探索, 禁忌爱情, 身份错位, 成年内容, 情感纠葛, 变装, 肉欲, 戏剧性冲突, 复杂人际关系, 心理戏剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

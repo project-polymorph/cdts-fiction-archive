@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_妹妹的使魔是我(11).docx]([皮物]_妹妹的使魔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《妹妹的使魔是我(11)》，内容围绕一名角色小飞在进入妹妹洛琳房间时的进展情节展开。开场时，小飞因某种原因藏在床下，面临洛琳的质疑和可能的尴尬后果。随着情节发展，洛琳逐渐变得调皮并施加压力，要求小飞穿上她的泳装，这个过程中透出一丝暧昧和紧张的气氛。值得注意的是，文中包含了一些性暗示和调情的描写，显示出角色之间复杂的情感和性别认同的冲突。这种充满张力的情节可能让人联想到变装、调教等元素，涉及性别认同、自我探索等主题，呈现出一种另类的叙事风格。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_妹妹的使魔是我(11).docx]([皮物]_妹妹的使魔�
 | Size            | 22598 bytes                           |
 | MD5             | 7b64eb3ee3b82659ea520b02805f9cde                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 调教, 伪娘, 泳装, 情色, 跨性别, 自我探索, 洛琳, 小飞, 二次元, 剧情发展, 暧昧, 性别认同, 女生, 家庭, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

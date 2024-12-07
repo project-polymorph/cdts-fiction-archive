@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_深埋的利刃（上）.docx]([皮物]_深埋的利刃（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《深埋的利刃（上）》是一部关于男性角色在复杂环境下展开的变身与跨性别故事的小说。在作品中，主角方天和魏东两位年轻警校毕业生前往A市执行任务。在火车上，两人讨论即将面对的服务职责以及可能的风险，魏东表现得过于自信，让方天开始担忧他们即将要面对的黑暗势力。故事情节瞬间急转直下，当他们在警局接待员杨曦的引导下，警车遭遇了一起爆炸事件，暴露了A市潜伏的危险势力——黑色蔷薇。随着事态的发展，方天和魏东在火灾现场展现出作为特警应有的反应和救援能力，而杨曦作为女警官的出色外貌及职业素养也为故事增添了一份色彩。作品中对人物心理的描写及对紧张情节的营造相得益彰，尤其是对警局内外环境变化的细腻刻画，此情节反映了他们作为新人的不安和对即将到来的危险的疑虑。最后，在黑色蔷薇组织的威胁下，男主角的身份与性别认同成为剧情的发展关键，展现了复杂的性别与身份议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_深埋的利刃（上）.docx]([皮物]_深埋的利刃（
 | Size            | 33709 bytes                           |
 | MD5             | 9cd9368bcce4f3e0bbe0b2ded8d8e9b4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 警察, 黑帮, 悬疑, 冒险, 性别认同, 心理, 青年, A市, 特警, 女性形象, 黑色蔷薇, 作者自嘲, 紧张气氛, 社会问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

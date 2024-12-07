@@ -7,7 +7,7 @@ TXT 下载: [[改造]_逆转龙凤_（四）女红.doc]([改造]_逆转龙凤_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为网络小说《逆转龙凤》的第四章，主要讲述了一个少年在经历身份变化后的自我探索与挣扎。少年自从踏入禁闭的房间后，逐渐感受到身体和心理上的变化，对自身性别的认同产生了迷惑。在红玉姐的引导下，少年开始接纳这种变化，准备穿上女子的衣物以便于外出。章节描写了少年的矛盾心态，细致描绘了他穿衣打扮的过程，展现了华丽的衣裳和妆容。少年对于女子服饰和打扮感到既羞愧又惊奇，同时也流露出对被关爱的感激之情。整段情节围绕着性别认同、身体变化及自我认同的主题，融入了二次元幻想与情感描写，展现出复杂的人性与内心挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_逆转龙凤_（四）女红.doc]([改造]_逆转龙凤_�
 | Size            | 43008 bytes                           |
 | MD5             | 9a0383e43081475b5f51257e6ef1e64d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身, 穿女装, 二次元, 跨性别, 情感纠葛, 少男, 华丽服装, 自我挣扎, 心理变化, 禁忌爱情, 体质改变, 角色扮演, 情感依赖, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

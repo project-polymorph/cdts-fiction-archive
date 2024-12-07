@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_召唤之始.docx]([皮物]_召唤之始.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以“召唤英灵”为主题的伪娘 TS 变身与跨性别相关小说。全文包含8300多字，围绕角色吉斯克通过神秘的圣遗物与法阵去召唤英灵的过程展开。故事设定在一个类‘fate’的背景中，吉斯克作为一名普通的魔术师，通过努力与尝试，渴望召唤出暗杀者这一英灵以实现自我价值与能力的提升。主要情节描述了吉斯克与暗杀者之间的互动，逐步揭示出对英灵召唤的过程以及存在的独特性。在故事中，英灵不仅呈现出强大的杀气，同时也意涵着对自身存在和契约的探讨。文件中的内容包含了一些色情描写，例如暗杀者要求吉斯克进入她的身体以维持她的存在，反映出性别认同和身体探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_召唤之始.docx]([皮物]_召唤之始.docx)
 | Size            | 32552 bytes                           |
 | MD5             | 02759fa410e79c9b2afc804ee5148e3b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 穿越, 召唤, 英灵, 暗杀者, 魔术师, 自我探索, 契约, 身体交换, 超自然, FATE, 性别认同, 黑袍, 魔法, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

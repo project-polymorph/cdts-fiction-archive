@@ -7,7 +7,7 @@ TXT 下载: [[交换]_变身新娘.doc]([交换]_变身新娘.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文讲述了一位年轻人在堂哥的婚礼当天意外地与新娘发生身体交换的故事。故事开始时，主人公被父母叫醒，匆匆赶到婚礼现场。婚礼的布置充满了温馨与浪漫，令他感到无聊。随着婚礼程序进行，他无意中与新娘陈沁展现出亲密的情感。但在婚车上，由于一次紧急情况，主人公和新娘发生身体碰撞，意外导致二人交换了身体。主人公惊慌失措，意识到自己竟要代替新娘参加婚礼，这种荒谬而又令人兴奋的经历展开了。他被迫在婚礼上隐藏身份，体验着作为新娘的心情和身体的变化，同时面临着心理和身份的双重挑战。整篇小说通过轻松幽默的笔调探讨了性别认同和自我探索的主题，同时穿插了一些禁忌的情感交织，让人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_变身新娘.doc]([交换]_变身新娘.doc)
 | Size            | 34816 bytes                           |
 | MD5             | d5fb4fe7bec4ef9516549c042b40b8ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 婚礼, 身体交换, 性别认同, 青春, 奇幻, 心理变化, 自我探索, 二次元, 情感纠葛, 家庭关系, 男娘, 初恋, 成长故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_壞孩子的處罰.docx]([皮物]_壞孩子的處罰.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描述了一个名为‘亚伦’的角色受到惩罚的情景，文本通过对话的形式展示了一种强烈的控制和支配关系。故事中的主语对亚伦发出警告，指责他在店内乱摸物品，并表示这次惩罚将会是前所未有的，涉及了一系列的惩罚措施，包括让亚伦身穿乳胶衣物，戴上特制的面具和假发，甚至要他作为展示娃娃在店内招揽顾客。文本细致描述了亚伦被迫接受的装束，包括在乳胶皮肤和拉链的控制下，他的自由受到极大限制。此外，惩罚的措施也涉及到性暗示和某种程度的羞辱，表现出一系列 BDSM 相关的情节和幻想，文本中提到的布置和道具都强化了这一主题。有些句子直接描绘了亚伦对这种支配关系的无奈与接受，综合来看，这篇作品在性别、权力和认同的议题上推进了一种复杂的情感与角色扮演的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_壞孩子的處罰.docx]([皮物]_壞孩子的處罰.docx)
 | Size            | 14600 bytes                           |
 | MD5             | 16e100e3fd92edd32c56dc6a10463dd6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 性转, BDSM, 羞辱, 乳胶, 强制, 角色扮演, 性别认同, 心理控制, 性幻想, 调教, 成人内容, 情欲戏, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

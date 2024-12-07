@@ -7,7 +7,7 @@ TXT 下载: [[附身]_闹钟（四）.docx]([附身]_闹钟（四）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描绘性别转换与自我认同探索的小说，是‘附身’系列中的一部分。故事设定在初秋的晨光中，主人公左蒙在一个循环的时间里经历了性别的转变，从男性变为女性朱颜。她站在校园里，面带微笑，内心却充满了对自己身份的疑惑，似乎在享受着新身份带来的美丽与自我认知的冲突。随着故事的发展，朱颜试图理解自己的记忆和情感，回忆起过去的经历，以及对生活的独特感悟，例如：“然后她轻轻用右手抚着发梢，揉着发梢末端那一缕秀发。”文件还提到复杂的情感层面，朱颜虽然是新身份，但她的内心依然充满左蒙的记忆和情感，这使得她对自己和周围世界感到既熟悉又陌生。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_闹钟（四）.docx]([附身]_闹钟（四）.docx)
 | Size            | 20934 bytes                           |
 | MD5             | 9114154bb40cd05ac2f3bf62d3ad4f62                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我认同, 变身小说, 校园故事, 二次元, 性别模糊, 情感探索, 身份认知, 青春, 幻想小说, 左蒙, 朱颜, 循环故事, 心理冲突, 美丽与自嘲, 初秋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

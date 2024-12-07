@@ -7,7 +7,7 @@ TXT 下载: [深陷.docx](深陷.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《深陷》是一部围绕性转主题的小说，讲述了男主角于承水在与女友郭芒芒的恋爱过程中，经历了一场自我认同与角色颠覆的复杂心理旅程。故事从于承水准备表白开始，描述了他与女友甜蜜的热恋阶段，并在顺理成章地推进中，演变出更为深入和特别的关系。小说展现了丰富的情感纠葛和性别认同的相互碰撞，尤其是当郭芒芒使用假阳具向于承水发起挑战时，整个情节突显了二次元文化中对性别角色的模糊与重构。书中提到，于承水的内心充满期待和紧张，当女友提出要“上你”时，不禁让他既喜悦又困惑。写作风格结合了细腻的情感描绘与较为开放的性幻想，吸引读者在心理与生理层面进行深度思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [深陷.docx](深陷.docx)
 | Size            | 111152 bytes                           |
 | MD5             | 0babd1d093482146b3756c9b8ee69437                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 情感纠葛, 恋爱, 角色逆转, 心理探索, 性别认同, 伪娘, 男娘, 强烈的情感, 自我认知, 调教, 反传统爱情, 青春爱情, 二次元小说, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

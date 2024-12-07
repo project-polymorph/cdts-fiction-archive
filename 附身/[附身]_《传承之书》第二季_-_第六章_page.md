@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第六章.doc]([附身]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《传承之书》第二季第六章，讲述了古城与郑心怡之间的复杂交易。古城在城市的商业中心与郑心怡会面，讨论涉及药物交易的话题。古城提出希望郑心怡帮助他与洛神涯牵线，暗示其所持有的药物或许是革命性的，能极大延长附身的时间。文中描绘了两位角色之间的心理博弈，郑心怡的性格由开始的轻松幽默转向对交易内容的谨慎考虑。随着剧情发展，郑心怡被古城的提案吸引，尤其是针对新药POE的潜在市场。章节中包含性别角色转变、药物使用及其对人物间关系的影响等暗示，展现了主题的复杂性。后半段更是描写了带有色情内容的情节，郑心怡通过附身与唐元鑫展开的亲密关系，突显对性欲和身份认同的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第六章.doc]([附身]_《�
 | Size            | 39424 bytes                           |
 | MD5             | 94c7083b383dff1120ed808017ccbdd6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 药物交易, 附身, 性别认同, 性转, 暗示交易, 都市, 成人内容, 心理博弈, 复杂关系, 伪娘, 强烈欲望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

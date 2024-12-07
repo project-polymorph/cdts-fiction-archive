@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_7.docx]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为伪娘/男娘相关主题的小说，内容围绕角色真一的变身及其在活动中的工作经历展开。在小说中，真一已经扮成麻美香两个多月，期间进行了大量的训练，以便能在活动中以麻美香的形象出现。真一逐渐显露出自己的演技天赋，但在活动前夕，他的心中充满了焦躁和不安。文件中详细描写了他需要穿着特别的内衣以避免兴奋，这在角色扮演活动中是十分必要的。此外，文中还提到了玩家投票决定人型模特的角色分配及活动的准备过程，体现了角色之间的关系和情感线索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[重開自翻]《朋友？女友？还是……》_7.docx]
 | Size            | 29979 bytes                           |
 | MD5             | 735ee63d30c26da303a1c6123611d9e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 角色扮演, 二次元, 内衣, 焦虑, 演技, 小弟弟固定, 活动准备, 游戏宣传, 女角色, 自我认知, 身份探索, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

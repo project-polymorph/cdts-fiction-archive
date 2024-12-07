@@ -7,7 +7,7 @@ TXT 下载: [[交换]_回到那个家（3-4）.doc]([交换]_回到那个家（3
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《回到那个家（3-4）》展示了一段在夜幕下的都市医院中发生的微妙对话。这两个角色分别是王志华和何映薇，她们的关系似乎复杂且深厚，王志华经历了一场变身过程，正在努力重拾身份和自我认知。开篇描绘了一个静谧且略显惊悚的医院环境，何映薇询问王志华是否确定要回到原来的生活，即做回林雨磬。对话中透露出王志华内心的不安与犹豫，同时也展现了她对自己身份的重新认知。随着情节的发展，王志华在洗手间中经历了脱胎换骨的转变，她不得不面对全新的自我，感受到身体和心理的双重困扰，这既是对外在形象的改造，也是内心深处的不安。此文件通过细腻的描述展现了角色们对自我认同的深刻思考，也引入了一些涉及性别转换与认同的敏感话题，适合学术研究及相关领域探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_回到那个家（3-4）.doc]([交换]_回到那个家（3
 | Size            | 56320 bytes                           |
 | MD5             | 4c43d561ce0622356f91d398dcfe3235                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 自我认同, 青春成长, 医院场景, 心理挣扎, 都市生活, 超现实体验, 情感纠葛, 女性视角, 青春期烦恼, 身份危机, 复杂关系, 身心变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

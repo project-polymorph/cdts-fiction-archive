@@ -7,7 +7,7 @@ TXT 下载: [[改造]_魔雌淫悦3.doc]([改造]_魔雌淫悦3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描绘性转与堕落主题的小说，主要讲述了角色克里斯托夫在一个神秘的净化过程中，其性别和身体特征经历了剧烈的变化。他醒来后发现自己处于一个白色的梦幻空间，随着一种白浊液体的侵入，他的身体逐渐向女性化转变。在这个过程中，他感受到了一种矛盾的快感和痛苦，虽然身体被塑造成了更美丽的女性形态，心灵上却在承受着巨大的冲击和挣扎。克里斯托夫不断被修女们和玛拉女神的影响所侵蚀，呈现出他内心的挣扎与无奈。整篇小说充满了西方奇幻与暗黑元素，涉及性别认同、身体改造与心理变化。其语言直白而表现出色，塑造了一个充满张力的性别转换故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_魔雌淫悦3.doc]([改造]_魔雌淫悦3.doc)
 | Size            | 68608 bytes                           |
 | MD5             | 07512409232304847339f6e0c078894d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 跨性别, 身体改造, 重生, 痛苦与快感, 奇幻, 神秘, 女神玛拉, 淫荡, 自由与束缚, 反抗与顺从, 心理挣扎, 西方奇幻, 双性人                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

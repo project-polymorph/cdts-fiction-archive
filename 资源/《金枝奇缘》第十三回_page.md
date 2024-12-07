@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第十三回.doc](《金枝奇缘》第十三回.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《金枝奇缘》第十三回中，陆问天作为殿主，正与顾道真、郝铁藩等讨论即将举行的三脉会武，期间顾道真与郝铁藩因名额分配发生争论。陆问天试图调解，最终决定了六名弟子的参赛资格以保障凌云殿的荣誉。小说情节围绕三脉会武的筹备展开，同时涉及妖邪与镇妖大阵的修整，具戏剧性和悬疑性。随着剧情的发展，主角们的能力、为人处世的智慧，以及其所承担的责任，被细腻地展现出来。书中引入了枫华神木的元素，一株有灵性的树瘤与顾茹展开了互动，为后续情节埋下伏笔。枫瘭表示愿意帮助顾茹保守秘密，并进行身份幻化，使故事进展更加紧张而丰富。本章结合了武侠与幻想的元素，塑造了一个复杂的角色关系与悬念，同时也探讨到了身份认同及其带来的心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第十三回.doc](《金枝奇缘》第十三回.
 | Size            | 41472 bytes                           |
 | MD5             | b12f7878492a86b79cd2bf9d26ed54bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 武侠, 妖邪, 幻想, 身份认同, 灵性生物, 竞赛, 剧情反转, 责任与牺牲, 自我探索, 三脉会武, 凌云殿, 情感冲突, 命魂幻化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

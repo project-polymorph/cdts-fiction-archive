@@ -7,7 +7,7 @@ TXT 下载: [[交换]_猎心（十一）【大结局】.docx]([交换]_猎心（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《猎心（十一）【大结局】》讲述了一场围绕身份与身体交换的复杂争斗。在故事中，李忠国是一个被委派调查黄江市一系列神秘事件的刑警队长，他发现了一个与自己调查相关的重要线索。随着情节的深入，两个男性角色——筱田种男和艾贝，开始追寻一个名为方宏茂的人，他们在追踪的过程中了解到方宏茂与一个陌生女性的亲密关系，以及这一切背后的阴谋。小说通过对角色心理与冲突的刻画，探讨了性别认同与个人身份的变化，尤其是在两个角色经历身体与身份的交换后，引发的复杂关系与情感冲突。情节中还涉及了一些禁忌与令人震惊的转折，例如艾贝与筱田种男发现他们的亲属身份交错，令人感到不安与冲突。整个故事的氛围 intertwines 恐惧、仇恨与渴望，使得角色在复杂的人际关系与自我认知中迷失，并最终直接朝着转变与冲突的归宿发迈。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_猎心（十一）【大结局】.docx]([交换]_猎心（
 | Size            | 69950 bytes                           |
 | MD5             | 60c058d2e6a9f68cd5e9a08ee52eec33                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 身体交换, 性别认同, 身份探索, 心理冲突, 情感纠葛, 强烈情感, 生理性别转换, 自我意识, 斗争与和解, 性别角色, 禁忌关系, 律动与控制, 色情元素, 剧情反转, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

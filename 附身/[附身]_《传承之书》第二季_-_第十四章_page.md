@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第十四章.docx]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《传承之书》第二季的第十四章主要讲述了刘孟权与名为田辰皓的男子之间的对话。他们在暗市中相遇，并围绕一系列复杂的人物关系和神秘药物展开发掘。刘孟权警觉地询问田辰皓的身份，田辰皓提到自己与刘孟权的共同朋友李学智的死，以及从那时起暗市的混乱。两人的对话揭示了刘孟权目前身处的危险境地与徐启的关系。田辰皓声称他正在调查与药物相关的事件，并提到了附身药物的使用，这引起了刘孟权的兴趣。章节的结尾则暗示了更深层的阴谋和对抗的可能性。通过他们的互动，作者探讨了身份、忠诚、和求生的主题，情节设置紧张而引人入胜。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第十四章.docx]([附身]_
 | Size            | 26432 bytes                           |
 | MD5             | b9830409d15af39e334607d1499b0948                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 暗市, 药物, 身份认同, 阴谋, 友情, 生死, 危机, 悬疑, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

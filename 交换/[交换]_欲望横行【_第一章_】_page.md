@@ -7,7 +7,7 @@ TXT 下载: [[交换]_欲望横行【_第一章_】.docx]([交换]_欲望横行�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本档案为一篇围绕性别转换与欲望主题的小说，名为《欲望横行》，由作者RE7创作。故事的主角陈天祥是一名高中二年级生，因生理条件遭受同学的欺负和排斥。尽管如此，他拥有一个神秘的朋友‘欲先生’，有着超乎寻常的魔法能力。故事开篇描述了陈天祥对同班校花林钰婷的暗恋，描绘了她的美丽与魅力。文章通过欲先生的提问引入了身体互换的情节，陈天祥在欲望的驱使下，竟然忍不住想要触摸林钰婷的身体，揭示了性欲与自我认知的冲突以及角色内心的挣扎。这部作品涉及了强迫、性别认同，以及与女性身体相关的主题，情节包含对美丽身体的向往与自我身体的厌恶，具有一定的性暗示和挑逗性质。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_欲望横行【_第一章_】.docx]([交换]_欲望横行�
 | Size            | 21592 bytes                           |
 | MD5             | 5afb4cb4297ae7acc762dade101a9195                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RE7                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 校园小说, 性别转换, 强烈性欲, 自我认知, 魔法, 身体交换, 性暗示, 青春期烦恼, 洛丽塔, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

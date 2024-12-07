@@ -7,7 +7,7 @@ TXT 下载: [[变身]_商场秘闻：新形象（下）.doc]([变身]_商场秘�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别小说的一个章节，描绘了角色亨特在商场中的经历，逐步接受并适应其性别转变的故事。在这个过程中，亨特走出了舒适区，勇敢地穿上女性的裙装，并在试衣镜前欣赏自己逐渐形成的女性特征。文件详细描述了他对裙子的渴望和对自身变化的复杂感受，伴随着试穿不同款式裙子的情节，表现了他从男性身份到女性身份的转变与自我认同的探索。此外，小说中涉及了内衣挑选的细致描写，进一步深化了他对身体变化的体验与期待，体现了对自身性别认同的强烈愿望。整段文字用幽默而感性的语言传达了角色内心的挣扎与喜悦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_商场秘闻：新形象（下）.doc]([变身]_商场秘�
 | Size            | 46080 bytes                           |
 | MD5             | 3240785c14783a94597b25216feb726c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 伪娘, 跨性别, 变身小说, 自我认同, 女性形象, 购物体验, 情感探索, 试衣间, 裙子, 内衣, 性别认同挑战, 青春期, 女性特征, 都市, 豪华商场                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_只有身体和男职员互换的女高中生的恋心.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇叫做《只有身体和男职员互换的女高中生的恋心》的性转小说，讲述了一名高三女学生川间美姬在经历身体变故后，发现自己与一个男职员山元健太互换了身体。故事的前半部分详细描述了美姬的困惑与不安，她的身体发生了奇怪的变化，面临着对性别认同与自我探索的挑战。美姬的日常生活因为身体的变化而变得困难，她在自慰中解放自己，却又在内心深处感到羞愧与挣扎。故事逐渐展开了美姬与健太的互动，二人互相理解，面对身体互换带来的尴尬和复杂情感。在假期中，两人一同尝试恢复身体的正常状态，期间美姬渐渐对健太产生了好感，但又面临着两人性别与身份的矛盾。经历了一系列心理挣扎与身体探索后，美姬心中对健太的感情愈加深厚，反映出复杂的爱与性别认同议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_只有身体和男职员互换的女高中生的恋心.doc
 | Size            | 56320 bytes                           |
 | MD5             | 5cf38af695329772b9dfecb5ac2005be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 身体互换, 跨性别, 校园爱情, 自我认同, 自慰, 阴蒂勃起, 男职员, 青春期心理, 女性探索, 身份冲突, 性别改变, 幻想, 爱情, 青少年, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

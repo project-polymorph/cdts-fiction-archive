@@ -7,7 +7,7 @@ TXT 下载: [[变装]特工的回忆录3.doc]([变装]特工的回忆录3.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《特工的回忆录3》，是一个以特工生存与身份变换为主题的跨性别小说。故事背景设置在寒冷的俄国雪地中，叙述了一名特工在执行任务过程中发生的一系列冒险经历。在情节中，特工通过易容箱进行性别和外貌的转变，为了躲避追捕，她乔装成一位美丽的女性，与猎户的对话和互动中展现了她的策略与勇气。文中多次提到特工在面对意外情况时的反应与思考，尤其她在寒冷的环境中如何应对雪盲及进行伪装的细腻描写。此外，故事还涉及到特工在执行任务时的情感纠葛以及与同伴凶险的境遇，描绘了她在极端环境下的生死抉择以及与另一名女性特工间复杂的关系。整体上，该文档融合了动作、悬疑以及性别认同的主题，呈现出一个充满紧张感的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]特工的回忆录3.doc]([变装]特工的回忆录3.doc)
 | Size            | 37376 bytes                           |
 | MD5             | 0bad998b20e1094c10a8cded1c4c0256                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 特工, 变装, 跨性别, 冒险, 伪装, 易容, 生存, 身份认同, 情感纠葛, 雪地, 任务, 女性视角, 逆境, 情节转折, 戏剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

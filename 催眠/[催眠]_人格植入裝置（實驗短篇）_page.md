@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_人格植入裝置（實驗短篇）.doc]([催眠]_人格�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇以「人格植入装置」为主题的实验短篇小说，讲述了一位少年在一次意外中触碰到一个能够将他人格移植到他人身体的装置后，发生的性别转换与身份探索的故事。故事开头，少年的性别意识在面对自己新身体的体验时，充满了困惑与强烈的欲望。随着剧情的发展，他不仅开始探索一个陌生女性的身体，内心对于自我认知的反思与欲望的斗争交织在一起。文中有许多细致的描写，表达了角色在变身后对自我身份的挣扎，以及对于他人操控的抗拒和渴望。故事中包含了探讨性别认同、人格和意识转换等多个主题，反映了人与人之间微妙的心理关系与身体的自我探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_人格植入裝置（實驗短篇）.doc]([催眠]_人格�
 | Size            | 45056 bytes                           |
 | MD5             | 0507707ed2d091a9dc931f4675e96ab1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 人格植入, 自我探索, 变身, 心理斗争, 欲望, 科幻, 短篇小说, 性别认同, 二次元, 虚拟现实, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

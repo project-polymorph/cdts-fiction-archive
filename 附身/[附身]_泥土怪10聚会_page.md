@@ -7,7 +7,7 @@ TXT 下载: [[附身]_泥土怪10聚会.docx]([附身]_泥土怪10聚会.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了赵美月的故事，围绕着她从失恋后逐步转变为一名具有吞灵体能力的女汉子展开。故事一开始，赵美月因为男友的分手感到伤心，忽然感受到来自灵魂的攻击，灵魂之战的结果使她获得了屠风的灵魂记忆和功法。随后的情节描绘了她在拥有能力后的挣扎，她面临着个人道德感与对力量的渴望之间的激烈冲突。她开始探索如何利用自己的能力，最终在同学聚会上经历了情感与欲望的交织。故事中涉及性别认同、自我探索以及潜在的伦理道德问题，展现了一个女性角色在痛苦与力量之间的复杂变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_泥土怪10聚会.docx]([附身]_泥土怪10聚会.docx)
 | Size            | 18481 bytes                           |
 | MD5             | 91e3e6f66dee15295e3624b9a829851c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 吞灵体, 女汉子, 失恋, 自我探索, 灵魂夺舍, 道德冲突, 情感纠葛, 二次元, 变身, 修炼, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

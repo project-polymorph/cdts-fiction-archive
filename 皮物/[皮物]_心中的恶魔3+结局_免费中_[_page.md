@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_心中的恶魔3+结局_免费中_[.docx]([皮物]_心中�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本档案属于伪娘 TS 变身与跨性别相关的小说，讨论了关于角色性别转换的情节。故事围绕范晶晶和张敬轩两位角色展开，范晶晶在高潮的时刻面对自身的伪装被看穿，每一段对话中则暗示了身份与性别的复杂关系。张敬轩通过对范晶晶的深刻分析和调侃，揭示了其伪装的破绽，并通过讲述个人经历显示出对变装的渴望和认同。档案中涉及性行为、身体认同及自我探索等主题，剧情复杂，情感深刻。文件中还提到人物的心理变化以及性别认同的探讨，具有一定的深度和复杂性，适合用于研究中涉及性别与身份认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_心中的恶魔3+结局_免费中_[.docx]([皮物]_心中�
 | Size            | 33794 bytes                           |
 | MD5             | 6f8cb038adf716a2b8e483cf633d6211                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 自我探索, 身份认同, 变身, 阴阳交互, 情感冲突, 身体认同, 幻想, 性行为, 心理描写, 变装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

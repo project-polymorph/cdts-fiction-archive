@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_美人皮的故事六.docx]([皮物]_美人皮的故事六
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件标题为《美人皮的故事六》，描绘了一个充满魔幻与变身元素的故事情节。故事的主线围绕着角色进行的身体和灵魂的融合与斗争展开。情节开场，主角吸取了名为云老头的角色的精血，继而获得了强大的力量，但可怕的黑雾出现在她面前，黑雾企图吞噬她的灵魂。主角奋力抵抗，与黑雾发生激烈的意识争斗，最后成功融合了黑雾，通过其记忆得知关于过去的多重秘密。随后，主角踏入一个神秘密室，发现了一个美丽的蛇妖皮，并选择穿上，使得她获得了前所未有的能力与记忆。然而，这一切的变化都与一个古老的封印、以及众神的愤怒相连，主角注定要面对更多的挑战和危险。文件深入探讨了角色自我认知与性别认同的关系，以及在魔幻背景下对力量的渴望和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_美人皮的故事六.docx]([皮物]_美人皮的故事六
 | Size            | 14094 bytes                           |
 | MD5             | f46efbd83d442bba2fc0d140b6025b6e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 蛇妖, 精血, 灵魂融合, 复仇, 魔法, 武侠, 幻想, 女性视角, 力量渴望, 灵异                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

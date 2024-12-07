@@ -7,7 +7,9 @@ TXT 下载: [[变性]_红绡梦_第二章_积善之家.docx]([变性]_红绡梦_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一个性别转换和跨性别主题的小说第二章，讲述了两个男性角色在转变为女性形象后所经历的生活与情感纠葛。故事中的主角经历了一次长达两天的病痛，得到朋友福子的悉心照顾。随着身体恢复，主角想要找工作，但福子告诉他将会有一份合适的工作介绍给他们。在经历了一系列与福子的互动后，主角慢慢意识到他与福子之间的情感脉络，以及福子对待性关系的大胆与自由。
+
+文件详细描写了福子如何穿女装、玩弄假阳具，展示了两人的性探索过程，同时描写了福子在干活过程中与钱老爷家中庶人之间复杂的关系。这种关系不仅仅是工作，更是浓厚的情感与性别认同的探索。通过细腻的文笔，作品展示了角色间的情感变化与冲突，以及对自我认知的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_红绡梦_第二章_积善之家.docx]([变性]_红绡梦_
 | Size            | 27966 bytes                           |
 | MD5             | ab82c31ebe87db14aea6b5e026c5a6a8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 男娘, 变装, 情色, 爱情, 自我探索, 社会身份, 性关系, 生活故事, 历史背景, 情感纠葛, 性别认同, 幻想, 都市生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

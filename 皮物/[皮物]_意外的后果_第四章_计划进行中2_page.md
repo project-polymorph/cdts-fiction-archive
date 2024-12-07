@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_意外的后果_第四章_计划进行中2.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于杰克在一个实验室中进行性别转变的情节描述。故事中，杰克被一位名为康妮的医生和她的助手们关在实验室。康妮强调通过实验来创造一个全新的杰克，新的身份将使他能够成为女性。在逐步的实验过程中，杰克面临着身体和心理的双重改变，从初始的羞辱到对即将成为女性的接受。这段描写包含了对外科程序和情感冲突的细致描写。杰克在实验室接受了医生的指示，被迫进行屈辱的行为，伴随各种对其身体的控制与改造。在实验中，杰克的身份被玩弄，最终使他面临性别和自我认同的剧烈变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_意外的后果_第四章_计划进行中2.docx]([皮物]_
 | Size            | 24135 bytes                           |
 | MD5             | 8fd28dfe59dd2fc3d358ef0f56de5994                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 临床实验, 身体改造, 自我认知, 情欲, 羞辱, 跨性别, 强迫, 医疗伦理, 科幻, 心理探索, 实验室, 变身, 性转, 女性身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

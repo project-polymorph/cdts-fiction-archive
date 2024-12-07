@@ -7,7 +7,7 @@ TXT 下载: [[其他]_婚纱的诅咒【十二】.doc]([其他]_婚纱的诅咒�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档标题为《婚纱的诅咒【十二】》，主要围绕角色杨安与林敏之间的情感发展及其经历展开。故事中，林敏购买新的奢华手提袋，表现出了一种对生活的积极态度，而杨安则在面临职业面试时感受到紧张和自我认同的困惑。随着情节的深入，杨安逐渐意识到自己与他人之间存在的微妙隔阂，尤其是在面试时他能感受到周围人的异样目光。此外，文章提到杨安被进行了一次身体的复原手术，而林敏则对此过程及其后果表现出深切的关心。文中不时提及婚纱的元素，描述了一场婚纱秀引发的情感震撼，包括对“活性婚纱”的思考，暗示着更深层的含义和角色内心的冲突。整体上，该文本以细腻的笔触描绘了角色之间的关系及自我认同的探索，在温馨的互动中夹杂着对身体和身份变化的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_婚纱的诅咒【十二】.doc]([其他]_婚纱的诅咒�
 | Size            | 35328 bytes                           |
 | MD5             | 83a52af46353525ab2f75938c49b993d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 婚纱, 爱情, 伪娘, 自我认同, 身体变化, 变身, 情感纠葛, 职场压力, 二次元, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

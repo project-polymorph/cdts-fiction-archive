@@ -7,7 +7,7 @@ TXT 下载: [[交换]_人生一击逆转~年轻的美女社长和底层赌徒大
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于角色互换的性转小说，标题为《人生一击逆转~年轻的美女社长和底层赌徒大叔的角色互换~》。在故事中，一个生理性别为男性的赌徒与一位年轻的美女女社长之间发生了角色互换，展现出两人生活的截然不同和各自的心理挣扎。本文描绘了赌博环境中的紧张气氛，以及角色之间复杂的情感纠葛。赌徒的内心独白细腻地展现了他对赌场生活的热爱与对美丽兔女郎薇薇的迷恋，构建出一个充满幻想与现实碰撞的故事背景。同时，小说也涉及到其他角色如艾莉娜的出现，通过对比揭示了赌徒的不幸与女社长的优越地位。此篇故事中的情节包含较为丰富的性幻想内容，涉及恋爱、嫉妒等情感元素，适合对性别认同和角色扮演有兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_人生一击逆转~年轻的美女社长和底层赌徒大
 | Size            | 82432 bytes                           |
 | MD5             | acbb11ae4525271cc242147f0c8f24e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 角色互换, 赌徒, 兔女郎, 美女社长, 幻想, 爱情, 嫉妒, 自我认知, 成长, 性别认同, 都市生活, 强烈欲望, 人际关系, 情感纠葛, 二次元, 伪娘, 跨性别, NTR, 调教, 病态, 淫荡                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_替身作家续（中）.docx]([变装]_替身作家续（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件内容为一段围绕变装与跨性别话题的小说片段，描述了主角安蒂娜·托马斯与另一角色詹姆斯之间的对话和情感交互。故事的开头描绘了主角在詹姆斯的公寓中，两人之间的对话充满了暧昧与隐秘的情感冲突。詹姆斯提出的“替身作家”一名，暗示了安蒂娜并不是她所展现的真实自我，而是在他人期望下的角色扮演。随着故事的发展，詹姆斯逐渐揭示出安蒂娜的复杂身份，以及她与名为汤姆的男子之间的关系。通过对话，表现了角色们对于身份、性别认同以及自我欺骗的深刻思考。故事结尾的紧张局势和主角的脆弱心情，使人物的心理状态和情感冲突达到高潮。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_替身作家续（中）.docx]([变装]_替身作家续（
 | Size            | 33154 bytes                           |
 | MD5             | f5e99087a54873689fcd2a071bc1d32e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 性别认同, 情感冲突, 自我探索, 角色扮演, 爱情, 快感, 模特, 自由写作, 社会隐秘, 身份危机, 小说创作, 暗恋, 心理描写, 都市生活, 自我认知, 现代小说, 伪娘, TSF                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[变性]_亡妻的雕像.docx]([变性]_亡妻的雕像.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇关于跨性别人设的短篇小说，标题为《亡妻的雕像》，原作名为《The Statue -A Short Story》。故事围绕一位名叫艾德勒的商人与一位名叫利奥的年轻人之间的奇特关系展开。艾德勒失去妻子后，创造了她的雕像，并渴望找到一位与她相似的模特。故事中，艾德勒向利奥提出了一项特异的请求，涉及到利奥可能需要进行身体上的改变和角色扮演，以满足艾德勒对亡妻的情感寄托。利奥在与艾德勒的交流中意识到自己在工作与个人身份之间面临的道德冲突，故事涉及性别认同、自我探索等主题，同时也显露出艾德勒对亡妻深刻而执着的爱。
+
+在故事中，利奥被艾德勒的提议所震惊并感到矛盾，但同时他也意识到这可能是实现梦想的机会。文章通过细腻的描绘展现了利奥内心的挣扎和对未来的思考，尤其是当艾德勒提到即便变身也不会影响到他的事业时，利奥开始考虑这个可能的现实。这种复杂的人际关系及其引发的冲突，反映出不同性别身份和情感表达的层次。整体叙事引人深思，激发对性别、爱情和牺牲等议题的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_亡妻的雕像.docx]([变性]_亡妻的雕像.docx)
 | Size            | 39373 bytes                           |
 | MD5             | 13b45d95d716b149052df621a8f51359                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Maryanne Peters                               |
+| Region          | 未知                               |
+| Date            | 2018-11-18                                 |
+| Tags            | 性别认同, 跨性别, 变身, 短篇小说, 心理探索, 情感纠葛, 雕像, 爱与失去, 自我认知, 身体变换, 投资, 道德困境, 角色扮演, 人际关系, 情感寄托                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

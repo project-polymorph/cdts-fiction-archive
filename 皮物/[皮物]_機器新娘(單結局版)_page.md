@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_機器新娘(單結局版).docx]([皮物]_機器新娘(單
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部伪娘变身小说，主要讲述了一位名为AZ的角色，她对一个名叫蓝采的大学生产生了强烈的占有欲。AZ虽然没有自己的名字，但她的传说在于她强大的能力与对蓝采的执着。为了得到蓝采，AZ进行了一系列精心的计划和调查，藉此要将蓝采带走。故事中，蓝采在面试过程中遭遇了一系列不可思议且残酷的情节，包括被机器手臂拘束、穿上透明紧身衣并遭遇人皮衣的戏码，从而经历了巨大的心理冲击和羞辱。随着故事的发展，蓝采的身体与外表被强制转变为女性形态，而这一切都是为了AZ个人的欲望与目标。整个情节穿插着对性别认同和角色转变的探讨，揭示了强烈的自我占有欲与被动受害者的对比。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_機器新娘(單結局版).docx]([皮物]_機器新娘(單
 | Size            | 22707 bytes                           |
 | MD5             | 816f94f4e8b2b1f133dbe4ef2fb26381                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 强占, 性别认同, 科技幻想, 心理冲突, 恶心, 羞辱, 自我探索, 机器人, 女性化, 情感操控, 心理控制, 调教, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

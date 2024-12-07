@@ -7,7 +7,7 @@ TXT 下载: [[变性]_右代宫木木——高校篇.doc]([变性]_右代宫木�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《右代宫木木——高校篇》，主要讲述了角色右代宫木木与松川岚之间复杂且充满张力的关系。故事开始时，松川岚以戏谑的口吻跟木木打招呼，木木对此十分不满，两人过去的恩怨逐渐浮出水面。右代宫木木因为松川岚在初中时弄坏了他珍藏的哥哥的照片而对其心怀怨恨，并在高中时期常常与松川岚发生冲突。随着剧情的发展，松川岚转学后再度出现在木木的生活中，两人再次聚集在同一个社团，社团活动的安排让他们不得不面对彼此的关系。木木虽然外形女性化，依然保持暴躁的性格，与松川岚的互动中充满火花。故事中提到了一些关于角色内心活动的片段，松川岚对木木的特殊情感隐含在言语之下，暗示着他对木木的吸引与复杂心理。整篇小说围绕着学生生活、性别认同和自我探索展开，充满了青春期的迷茫与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_右代宫木木——高校篇.doc]([变性]_右代宫木�
 | Size            | 67072 bytes                           |
 | MD5             | f97a1b61fa9ef1e12ad2ba0e7c6ba935                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 高校生活, 青春爱情, 自我认同, 性别冲突, 轮滑社团, 同窗关系, 情感纠葛, 成长故事, 复杂关系, 二次元情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

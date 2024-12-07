@@ -7,7 +7,7 @@ TXT 下载: [[交换]男高中生被卷入集体交换变成人妻.doc]([交换]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一部关于性别交换和跨性别体验的小说，描绘了一名男高中生在集体交换中变身为女性，进而与知己之间展开爱情和欲望的复杂心理。然而，故事中也涉及到了母子关系的转变和情感交织。文本中详细描述了男女主人公在性别转换后的情感纠葛，以及他们在新身份下面对身边人际关系的挑战。文中还穿插了一些关于自我探索和身份认同的主题，表现出角色们在变身后的内心冲突和对彼此深厚情感的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]男高中生被卷入集体交换变成人妻.doc]([交换]
 | Size            | 28160 bytes                           |
 | MD5             | 49a7cd89ff773a1381ae8a0f8a2ea57c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 跨性别, 爱情, 欲望, 自我认同, 母子关系, 情感纷争, 迷茫, 灵魂交流, 性转, 变身, 伪娘, 强烈欲望, 性交, 家庭纠纷, 青春期烦恼                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

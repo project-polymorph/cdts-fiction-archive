@@ -7,7 +7,7 @@ TXT 下载: [[改造]_幸福的女孩5~8.doc]([改造]_幸福的女孩5~8.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别题材小说的一部分，主要叙述了角色苏子若的日常生活及内心世界。故事的第五章和第六章呈现了苏子若与家人、亲戚的互动，以及她在洗澡时的自恋和自我享受的过程。文本开头描述了苏子若回到家中，面对七大姑八大姨的热情关心，展现了角色应对家人间复杂关系的自信与轻松，以及她在即将婚嫁前的心理状态。章节中的描述涉及了苏子若对自己身材的自恋，细腻地勾画了她对自己外貌的欣赏与渴望，通过如“我的身材我的肌肤配上我这可爱的脸，还真是完美啊”表达了她的自信与动感，另外还揭示了她的性别认同与自我探索过程。整个故事充满了轻松幽默的家庭氛围，同时又流露出角色内心深处的欲望和不安，展现了多元性别的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_幸福的女孩5~8.doc]([改造]_幸福的女孩5~8.doc)
 | Size            | 58368 bytes                           |
 | MD5             | e6a776c9c5a37daa23cbb7cac1db1f98                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 家庭关系, 伪娘, 变嫁, 情感冲突, 青春成长, 幻想, 二次元, 洗澡情节, 自恋, 女性视角, 爱情, 自我接受, 社交压力, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

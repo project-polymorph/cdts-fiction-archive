@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【乐园计划】第三十四章：邪恶的蔓延（三�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档的内容围绕一种名为“交换身体的游戏”的情节展开，通过儿童角色的参与，描绘了身体和性别的交换过程。故事中的小女孩与小男孩在香草的引导下进行身体互换，整个过程伴随着一些超自然的元素，如法术和魅魔的操控。文中详细描绘了角色们在交换后对新身体的探索与反应，尤其是男孩对女孩身体的喜悦与冲动，以及相对应的性感受，表现出对性别认同和身体欲望的探讨。同时，文中也出现了一些涉及强烈性暗示与露骨的性行为描写，展示了对双方身体的探索和交换。这种设定引发了对性别认同、自我意识和欲望的复杂思考，是一种对传统性别角色的反转与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【乐园计划】第三十四章：邪恶的蔓延（三�
 | Size            | 17742 bytes                           |
 | MD5             | 5c4a35f3811da94acf0b212d8d72abf7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身体交换, 超自然, 自我探索, 性认同, 儿童, 魅魔, 快乐, 禁忌, 幻想, 奇幻, 变身, 性快感, 变嫁, 调教, 强烈暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

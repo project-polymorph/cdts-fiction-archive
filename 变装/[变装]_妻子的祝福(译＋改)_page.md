@@ -7,7 +7,7 @@ TXT 下载: [[变装]_妻子的祝福(译＋改).doc]([变装]_妻子的祝福(�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于凯文与他的妻子维姬关系的小说，探讨了性别认同与自我探索主题。故事的开头，凯文对自己作为女性形态的装扮感到兴奋与自信，作为“凯莉”的第一次约会充满期待。他非常仔细地打扮自己，注意到了每一个细节，包括妆容、服装和配饰。随着情节的发展，故事逐渐揭示了维姬对传统性别角色的困惑，相比其他方面，维姬对于性生活的冷淡表现出他们之间存在的深层次问题。凯文以高跟鞋的角色转换内心的焦虑和期待，最终维姬决定对凯文的女装习惯采取一种“别问，别说”的态度，意在维护两人的感情，但也反映出复杂的情感和心理状态。写作风格充满细腻的描绘与情感的挖掘，给读者呈现了性别与心理的矛盾与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_妻子的祝福(译＋改).doc]([变装]_妻子的祝福(�
 | Size            | 72704 bytes                           |
 | MD5             | 832f3c1db17eacf669468c7d92a942db                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 自我探索, 变身, 婚姻, 性冷淡, 角色扮演, 心理矛盾, 情感, 都市, 爱情, 性转, 婚姻关系, 女性视角, 约会, 女性魅力, 三角关系, 心理治疗, 社会认知, 性别研究, 角色认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

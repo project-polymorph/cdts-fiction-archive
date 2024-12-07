@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_凯尔娘化.doc]([皮物]_凯尔娘化.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于伪娘和变身元素的小说，主要围绕角色凯尔的性别转换及其与修斯之间的互动展开。故事开始时，凯尔收到了一张纸条，暗示他需要与修斯会面，兑现某个承诺。在故事的后续中，修斯利用魔法将凯尔变成萝莉形态，带有女性特征并穿着女仆装，反映出强烈的性别转换和性感表现。修斯通过融合多种咒语，试图控制凯尔的心智与身体，进一步深入探索他们的关系。文本中包含对角色心态与身体变化的复杂描写，同时涉及一些情色和禁忌的内容。这部作品通过凯尔的角色经历体现了性别认同和自我发现的主题，且情节中涵盖了权力与操控的动态环境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_凯尔娘化.doc]([皮物]_凯尔娘化.doc)
 | Size            | 66048 bytes                           |
 | MD5             | 550e1bfe18a4f85f4c3803781029b4a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 魔法, 性别认同, 强奸, 调教, 年龄修改, 人体改造, 魔法少女, Fantasy, 角色转换, 性转, 强权关系, 二次元, 逆后宫                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

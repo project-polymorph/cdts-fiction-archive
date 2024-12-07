@@ -7,7 +7,7 @@ TXT 下载: [[交换]_钢铁慈悲女神的艺术品（四）.docx]([交换]_钢
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说《钢铁慈悲女神的艺术品》的第四章。故事围绕年轻马车夫凯尔谢的遭遇展开，他在一次运货任务中被不法分子用神奇的物品占据身体。在银发少女卡米拉和黑发青年梓岛的帮助下，凯尔谢脱离了困境，并开始探查有关神艺的真相。神艺是一种具有特殊力量的神器，能够进行灵魂附身和身体互换，特别规定不同性别的附身条件。随着剧情的发展，凯尔谢与梓岛一同追查神艺背后的黑幕，同时也在面对自我认知与身份问题。文中描绘了许多角色之间复杂的互动及内心的挣扎，对性别认同与自我探索进行了深刻的探讨。文件包括角色介绍、能力设定及隐含的性别转换与感情关系，涉及成年内容与特定剧情。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_钢铁慈悲女神的艺术品（四）.docx]([交换]_钢
 | Size            | 37178 bytes                           |
 | MD5             | f92fa7077c8b6d0ceac22776192154cf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 灵魂互换, 神艺, 自我探索, 跨性别故事, 幻想, 冒险, 角色扮演, 成年内容, 情感纠葛, 魔法, 奇幻, 伦理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

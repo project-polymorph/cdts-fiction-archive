@@ -7,7 +7,7 @@ TXT 下载: [[变身]_突然变女的我绝不会成为RBQ_（4）.doc]([变身]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档是一篇关于变身与性别转换的小说，主要围绕角色袁修的经历展开。在故事中，袁修因某种原因变成了女性，并开始尝试适应新身体带来的各种挑战与心理变化。文本描述了袁修与其他角色之间的互动，尤其是与常友达和罗甜甜这两个角色的关系。内容中包含了丰富的性别认同、自我探索和青春期的心理冲突，涉及高强度的性暗示和生理变化的细节。例如，文本提到袁修需要用姨妈垫来应对生理期的阴影，并且与室友之间的情感互动暗示出复杂的关系潜力。整篇故事在细腻的心理描写与生动的场景体验中，呈现了性别转换人士面临的困境与探索。文中充斥着对角色身体感知的生动描述，例如对服装的穿着感受、身体的不同反应等，以及与其他角色之间微妙的情感交流。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_突然变女的我绝不会成为RBQ_（4）.doc]([变身]
 | Size            | 54784 bytes                           |
 | MD5             | e6308260092cba3fa6d269011e3516dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 青春期, 生理期, 自我认同, 心理冲突, 伪娘, 变嫁, 校园生活, 情感纠葛, 强迫与自愿的性关系, 性别体验, 身份探索, 性暗示, 性别认同, 女性化体验, 性别流动性, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

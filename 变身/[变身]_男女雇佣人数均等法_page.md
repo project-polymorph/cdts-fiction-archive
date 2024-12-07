@@ -7,7 +7,7 @@ TXT 下载: [[变身]_男女雇佣人数均等法.docx]([变身]_男女雇佣人
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于性别平等与心理变化的小说，讲述了主人公佐藤朱人在日本通过了‘男女雇佣人数均等法’后，受到法令影响而经历的性别转换过程。故事中，佐藤朱人原本是一位普通的男性应届毕业生，但在入职手续中，他在不自觉中同意了一份契约，导致其性别迅速转变为女性。小说细致描写了这一变化对其身体与心理发展的冲击，以及他在新身份下逐步适应并融入生活的过程。例如，朱人在发现变化后感到惊慌失措，质疑自己的身份，然而随着时间推移，他渐渐接受了新的自我，甚至与曾经的恋人发展成夫妻关系。随着时间的推移，朱里逐渐适应了作为女性的生活，并在公司中稳定工作，反映出现实世界对于性别角色和身份认同的复杂性与深刻性。整个故事探讨了性别认同、社会法规的影响与个人自我意识之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_男女雇佣人数均等法.docx]([变身]_男女雇佣人
 | Size            | 182794 bytes                           |
 | MD5             | ab419191a9c99e75d30a2c51c6fa4d7f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | K C A                               |
+| Region          | 日本                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 性别认同, 法律与权利, 职场文化, 心理变化, 个人冲突, 新身份适应, 社会问题, 二次元文化, 变身小说, 女性视角, 爱情, 生活故事, 性别平等, 现代社会, 身份纠葛, 公司生活, 职场女性, 同性爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

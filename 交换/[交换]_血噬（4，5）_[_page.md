@@ -7,7 +7,7 @@ TXT 下载: [[交换]_血噬（4，5）_[.docx]([交换]_血噬（4，5）_[.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《血噬（4，5）》是关于一名警局局长魏延年被军区特种部队逮捕的故事。故事开篇描绘了魏延年在警局的艰苦处境，饥渴的生理状态以及对即将到来的审讯的忐忑。随着一群身穿警服的男子的到来，魏延年逐渐意识到他即将面临的命运。军区的特别行动小组副队长肖沁林与少将张建波的出现，让他明白自己与最近几起富豪被杀案的关联，内心的恐惧与对自己处境的反思交织在一起。剧情发展中，突发枪战和魏延年的逆境决策展现了角色的复杂性及危机感，最后以激烈的打斗场面收尾，营造出紧张的气氛。整篇小说以刺激的情节、丰富的角色冲突以及浓厚的戏剧性描绘了权力的游戏与生存的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_血噬（4，5）_[.docx]([交换]_血噬（4，5）_[.doc
 | Size            | 42001 bytes                           |
 | MD5             | 24d9d546c7f54dae3a581de3a4cba08c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 权力斗争, 警察, 军区, 悬疑, 激斗, 心理描写, 角色成长, 紧张气氛, 都市小说, 行动特种部队                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

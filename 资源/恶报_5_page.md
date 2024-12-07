@@ -7,7 +7,7 @@ TXT 下载: [恶报_5.doc](恶报_5.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本档案记录了萝安妲的变性过程，以及她在心理上和生理上的适应与转变。故事以萝安妲在整形手术后的反思为起点，详细描绘了她对自己新身份的接受和对外貌的极致关注，展现了她在找回自信和女性身份方面的挣扎和努力。文本中提到萝安妲经历了隆胸手术及喉部手术，描述了她心理医生和她的情感陪伴者丹恩对她的支持。萝安妲与丹恩的恋爱关系贯穿在她的心理转变过程中，二人之间的亲密关系和性方面的探索也得到了细致的描写。此外，故事中分析了萝安妲在职场的表现和社会交往，显示出她对自己新生活的逐步适应。该作品涉及跨性别和变性主题，充分探讨了个人身份的认同与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [恶报_5.doc](恶报_5.doc)
 | Size            | 61440 bytes                           |
 | MD5             | ef3b063bc7db69442fe1d6b7b2ee04ea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变性, 伪娘, 变身, 自我认同, 性别认同, 情感关系, 性别转换, 女性形象, 激素治疗, 亲密关系, 社会适应, 职场经历, 爱情, 手术过程, 生活挑战                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

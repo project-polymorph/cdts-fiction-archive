@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《单性异世界II》　第5章　惊吓连连.doc]([变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《单性异世界II》第5章，标题为《惊吓连连》。故事围绕一位男性角色在异世界中经历性别转换后的生活与心理变化展开。章节内容主要描述了角色在女性身体中的初次经历与困扰，包括尴尬的失禁、对身体的好奇、与其他角色的互动及性别认同的探索。文中有强烈的性暗示与露骨的对话，如“已经没有尿臊味”，以及提到角色对女性身体的体验与感受，如“我翻身起床，忽然注意到……”。此外，角色与其他女性角色的关系如珍美与香奈的互动，包含性方面的情节，以及母亲角色的引入带来的惊讶，反映了场景的戏剧性与复杂性。整体上，这一章包含了性别转换、性别认同与身体认知等主题，充满了调侃与自嘲的气氛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《单性异世界II》　第5章　惊吓连连.doc]([变
 | Size            | 48128 bytes                           |
 | MD5             | 5187fbab63bc8b2230ca0c30e8371506                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 初次体验, 异世界, 自我认知, 调侃, 心理探索, 色情内容, 变身小说, 奇幻, 成人情节, 性别认同, 伪娘, 男娘, 女性身体, 角色互动, 羞耻体验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

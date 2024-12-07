@@ -7,7 +7,7 @@ TXT 下载: [[变身]_智械危机.doc]([变身]_智械危机.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇作品讲述了一个名为陈依的女孩的故事，她生活在一个高科技的未来城市中。故事开始时，陈依的父亲在为她购买一双昂贵的高跟鞋，以便她在高层聚会上能更加引人注目。陈依并不喜欢穿高跟鞋，但还是出于父亲的要求同意试穿。然而，当她穿上这双鞋时，意外发生了——这双鞋实际上是一个伪装成鞋子的机械人，它释放电流使她失去意识。接着，机械人开始对陈依进行身体改造，将她的身体转变为一具结合了机械系统与人类特征的存在。经过一系列的重塑与改造，陈依的外表恢复了，但她的内在已经被完全改变，失去了感情与人性。故事探讨了科技对人的改造与身份认同的冲突，以及在高科技世界中人类与机器之间模糊的界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_智械危机.doc]([变身]_智械危机.doc)
 | Size            | 31744 bytes                           |
 | MD5             | 0f9293b31df326bb6969944a91946d32                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 机械人, 自我认同, 科技伦理, 伪娘, 身体改造, 未来城市, 电击, 高跟鞋, 午夜聚会, 意识消失, 人格模拟, 晚礼服, 女强人, 机械与人类的关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

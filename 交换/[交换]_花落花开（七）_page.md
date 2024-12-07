@@ -7,7 +7,7 @@ TXT 下载: [[交换]_花落花开（七）.doc]([交换]_花落花开（七）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《花落花开（七）》是一个关于角色性别交换及复杂人际关系的小说片段。故事设置在一个池光灯影的酒吧，描绘了一场因性别交换而引发的情感与道德困境。主角夏妍菡与林文婵身陷情感纠葛，因身体的互换，二人之间产生了角色定位和身份认同的重重冲突。文本中包含了多次情欲的描写，夏妍菡与她的伙伴丁铭栋之间的关系充满了争吵与挑战，同时也揭示了身为人妻的角色新感受。文段深入探讨了身份的流动与人际的复杂关系，尤其是在交换身体后的情感竞技。故事最后，也涉及到一起人命案的发生，给这一情节添加了悬疑与紧迫感，增强了剧情的冲突之感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_花落花开（七）.doc]([交换]_花落花开（七）.
 | Size            | 70144 bytes                           |
 | MD5             | 8d3729405636c1e89a2d3920363bcbdf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 伪娘, 变身, 情感纠葛, 人际关系, 婚外情, 道德困境, 情欲描写, 悬疑, 身体交换, 二次元, 性别认同, 身份混乱, 都市故事, 夜生活, 权力斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

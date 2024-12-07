@@ -7,7 +7,7 @@ TXT 下载: [[附身]_奪舍--外傳LINDA篇_作者_l8311032.docx]([附身]_奪�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《奪舍--外傳LINDA篇》是由作者l8311032创作的一篇关于性别转换与跨性别主题的小说，故事围绕主角LINDA在一个神秘的医疗中心的经历展开。LINDA是一名年轻女子，她受委托进行对某医疗机构的调查，未曾料想到自己即将卷入一场涉及异种生物的肉体夺舍的阴谋。小说情节设定在LINDA进入医疗中心后，她发现一系列超乎想象的实验，尤其使人震惊的是，某种液态生物与人体结合的过程。文中充满了对角色内心的描述以及对所见场景的恐惧与惊讶。随着故事的发展，LINDA被迫面对自己即将成为异生物宿主的命运，情感与生存的冲突引发了她内心深处的挣扎。整体作品风格带有大胆和争议性，涉及成人内容，适合成年读者群体。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_奪舍--外傳LINDA篇_作者_l8311032.docx]([附身]_奪�
 | Size            | 21364 bytes                           |
 | MD5             | d5122f5fb6de4708705be8a80170f452                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | l8311032                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 附身, 异种生物, 医学实验, 恐怖, 身心转换, 女性主角, 生存斗争, 自我认同, 人格夺取, 万众瞩目, 秘密组织, 女性视角, 超现实, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

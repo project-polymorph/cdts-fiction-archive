@@ -7,7 +7,7 @@ TXT 下载: [[改造]_雌父（第2篇）.docx]([改造]_雌父（第2篇）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇性转小说的第二篇，内容围绕男主角韩晋在一段禁忌关系中的探讨和变身过程展开。故事开始于韩晋离开学校，描述了他与朋友之间的对话，暗示着他在性别认知上的探索。随后，韩晋回到公司，参与云环生物科技的收购，意外发现与细胞活性重构实验相关的资料。在回到家中后，他进行了身体和外貌的重塑，穿上了女性化的服装，通过化妆和穿戴给自己带来了全新的形象，展现出一个他性别角色转换后的自我意识。在一次私人变装会所的聚会上，韩晋以女性身份与他人互动，呈现出复杂的身份认同和自我探索。整篇文章充满了禁忌、身份转变与性别认同等复杂主题，描绘了主人公在社会与个人内心的双重探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_雌父（第2篇）.docx]([改造]_雌父（第2篇）.doc
 | Size            | 41606 bytes                           |
 | MD5             | d03ee7eecb342378a06f43520b619e36                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 二次元, 伪娘, 变装, 强奸, 禁忌关系, 自我探索, 身份认同, 多元性别, 性别认同, 调教, 逆后宫, 百合, 女体化, NTR, 心理冲突, 奇幻, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_百鬼众魅·傍人篱壁（第五篇）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是广受欢迎的伪娘 TS 变身与跨性别相关小说的档案仓库中的一部分，名为《百鬼众魅·傍人篱壁（第五篇）》。故事围绕两名青年及一位神秘女性展开，场景设定在一个破败的建筑中，情节交织着性别认同与角色间的互动。角色间的对话揭示了他们各自的心态和关系，特别是关于执行命令与个人情感的冲突。故事中提到的“精神型皮物”实验以及角色在其中所扮演的角色，暗示着对个人身份的探索与变化。文中充满了对角色外貌的描述，特别是那位穿着研究人员白大褂的女性，展现出她独特的魅力与气质，引发男女主角的注意和各种情感波动。此外，故事还设置了男主与家族重聚的情节，揭示出家庭关系及心理变化的复杂性。整篇小说富有想象力，并探讨了性别与身份的转换，同时伴随着一定的性暗示和情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_百鬼众魅·傍人篱壁（第五篇）.doc]([皮物]_�
 | Size            | 78848 bytes                           |
 | MD5             | 76d82a655afe6f9a5bc0e26e173d95b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 情色, 精神型皮物, 性别认同, 角色互动, 自我探索, 家庭关系, 青春, 奇幻, 药剂实验, 吸引与魅惑, 青春萌动, 情感纠葛, 幻想文学, 性别流动性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

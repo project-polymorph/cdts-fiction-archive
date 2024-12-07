@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮の呪縛に囚われて_#1_#2.doc]([皮物]_皮の呪�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为《皮の呪縛に囚われて》的跨性别主题小说的第一及第二部分。故事的开头描述了一位女性魔法师雪莉，被一名瘦弱男人袭击并灌下药水后，身体迅速干瘪并最终转化为他人的皮肤。文件详细描绘了这一转变过程，包括男人如何穿上雪莉的皮，并逐渐变得和她一模一样。第二部分展示了雪莉重新适应女性身体的旅程，她如何脱离自我，使用魔法，追踪目标，以及夺取其他角色皮肤等情节，内容涉及自我认同的变化与道德的模糊。在这段过程中，还涵盖了性别认同、自我探索等深层主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮の呪縛に囚われて_#1_#2.doc]([皮物]_皮の呪�
 | Size            | 43008 bytes                           |
 | MD5             | c772805cbe5055b4611846392882a9bc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 魔法, 变身, 皮肤交换, 性别认同, 自我探索, 魔法少女, 女性形象, 成熟女性, 虚拟角色, 魔法公会, 兽人, 掩饰, 奇幻, 冒险, 亲密关系, 权力关系, 禁忌, 变嫁, 调教, 调皮, NTR, 纯爱, 药物影响, 雌堕, 身体改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

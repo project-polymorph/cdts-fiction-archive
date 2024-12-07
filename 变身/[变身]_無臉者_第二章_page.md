@@ -7,7 +7,7 @@ TXT 下载: [[变身]_無臉者_第二章.doc]([变身]_無臉者_第二章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是 Lu9mimi 于 2022 年 2 月 22 日发布在 CDBOOK 的二次元性转小说，主要描绘了名为梅莉的角色在变身训练机面前的经历。梅莉生理性别为男性，但其外观经历了性别的转变，穿上女性化的黑色天鹅绒洋装，表现出作为一个贵族小姐的态度。文章详细刻画了梅莉内心的挣扎与矛盾，特别是在面对自己回忆中痛苦的过往时，她努力控制表情与情感的过程。作中提到无脸者训练机具备模仿他人外表与声音的功能，这形象地体现了角色与身份的复杂性。梅莉在故事中面临着帝国的任务，同时对自己的身份与经历感到恐惧与羞恼。通过与女佣的对话，频繁提及的帝国与烏爾人，揭示了故事的政治背景与文化冲突。经过一系列心理与生理上的挑战，梅莉被迫在新的身份与期望下努力生存。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_無臉者_第二章.doc]([变身]_無臉者_第二章.doc)
 | Size            | 37888 bytes                           |
 | MD5             | dca97457ed17e7ba6113d862b57ec451                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lu9mimi                               |
+| Region          | 未知                               |
+| Date            | 2022-02-22                                 |
+| Tags            | 性转, 变身, 心理挣扎, 帝国, 女佣, 自我认知, 模仿, 双重身份, 角色扮演, 自我探索, 逆境, 恐惧, 权力关系, 情感冲突, 科技与人性, 另类幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

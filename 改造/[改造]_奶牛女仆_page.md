@@ -7,7 +7,7 @@ TXT 下载: [[改造]_奶牛女仆.docx]([改造]_奶牛女仆.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个原本生理性别为男性的角色，在一对富有的夫妇——鲍勃与卡罗尔的影响下，逐渐转变为女性形象的故事。故事以角色的第一人称视角展开，主人公回忆起当初是如何偶然进入这对夫妇的家中，并成为他们的女仆。最初，主人公只是一名普通的男性，渴望生存的他接受了这个家政工作，但在过程中他发现了自己对女性内衣的特殊兴趣。在一次偶然的情况下，被女主人卡罗尔发现后，卡罗尔反而没有对他生气，而是决定帮助他完成变装的过程。在接下来的几个月里，卡罗尔逐渐地对他进行了严格的女性化训练，改变了他的外貌、举止，甚至进行了生理上的变革，包括服用激素和进行外科手术。随着时间的推移，主人公不仅变身为女仆，还逐渐接受了新的身份，成为了鲍勃的“妻子”。小说通过角色内心的挣扎和转变，探讨了性别认同与自我认同的问题，带有强烈的性暗示和情感探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_奶牛女仆.docx]([改造]_奶牛女仆.docx)
 | Size            | 28928 bytes                           |
 | MD5             | 476618e155f61296b636ffcb76e4b816                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 变装, 女性化, 性别认同, 自我探索, 女仆, 激素治疗, 跨性别, 穿越性别界限, 性别角色, 富豪生活, 情感纠葛, 家庭关系, 性内容, 性别转变, 心理冲突, 二次元, SM, 性转, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

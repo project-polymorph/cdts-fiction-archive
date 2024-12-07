@@ -7,7 +7,7 @@ TXT 下载: [[变性]_女仆交易_5.doc]([变性]_女仆交易_5.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档展示了一段围绕伪娘角色丽莎与其上司B先生之间发生的情感与性行为的情节。故事从丽莎被强迫进行口交开始，描绘了她内心的挣扎和无助，以及B先生如何在身体和心理上控制她。文中包含详细的性行为描写，丽莎在过程中经历了羞辱与觉醒，逐渐接受了自己的女性角色和身份。B先生的性行为充满了强烈的主导与掌控感，而丽莎在性快感与自我身份认同之间纠结，最终在被迫接受中感受到的情感与生理反应得以交织，形成了复杂的心理历程。整篇内容涉及性别认同、羞辱、性快感等主题，并触及了禁忌及权力关系的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_女仆交易_5.doc]([变性]_女仆交易_5.doc)
 | Size            | 45056 bytes                           |
 | MD5             | d833aed15e750de963c7843b493c43ea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, TS, 变性, 性转小说, 口交, 强迫, 性羞辱, 自我认同, 心理冲突, 情感纠葛, 女孩身份, 调教, 性行为, BDSM, 愉悦与羞辱, 性别探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

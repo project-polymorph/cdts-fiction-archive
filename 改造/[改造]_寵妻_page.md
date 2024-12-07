@@ -7,7 +7,7 @@ TXT 下载: [[改造]_寵妻.doc]([改造]_寵妻.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇涉及伪娘、变身和跨性别主题的小说，讲述了一位父亲与其女儿之间复杂的关系，以及他们在城市生活中的奇特遭遇。故事始于秋冬的都市，描述了父亲下班后与女儿们的互动。他们在名为'丽'的酒店附近偶遇，讨论了生活琐事和工作中的压力。随着情节的发展，父亲与女儿之间的关系变得更加扭曲，部分内容涉及性别认同、自我探索及对社会期望的挑战。文件中还有关于生理性别和心理性别的讨论，并引入了与昆虫类相关的幻想元素，探讨了人与超自然生物的互动。情节还包含了一些色情和暴力的描写，尤其是在对待男性角色的态度上，父女的扮演角色模糊而复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_寵妻.doc]([改造]_寵妻.doc)
 | Size            | 55296 bytes                           |
 | MD5             | 22684ff61912c3e573b27696a0923df2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 亲子关系, 城市生活, 性别认同, 幻想文学, 昆虫类, 成年礼, 寄生, 父权社会, 自我探索, 反乌托邦, 强烈情感, 青春气息, 社会批判, 男女性别, 心理冲突, 角色扮演, 成人内容, 奇幻故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——起始篇3.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一个伪娘 TS 变身与跨性别相关小说的部分情节。故事围绕男主角在一次奇异事件中变成幽灵状态，随之而来的则是身心的混乱与对自我身份和欲望的探索。在浴室中，男主角意外地对惠美的身体产生了强烈的兴奋感，不断的自我刺激导致他浑浑噩噩地进入了幽灵状态。恢复身体后，他教授过的行为模式竟然让他和惠美产生了不可逆转的身体接触，经过一系列混乱的情境，男主角在情欲的冲动中无法自拔，造成了一系列困惑与痛苦。文中包含了对角色心理状态的深入描写，以及在性别、认同及欲望上的探讨，情节中涉及强烈的性暗示与成人内容。可能与性别认同、自我探索等主题密切相关。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——起始篇3.docx]([附身]_�
 | Size            | 19245 bytes                           |
 | MD5             | 8fa30d117f813df2c5e1118a8af50555                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 齐腾一                               |
+| Region          | 未知                               |
+| Date            | 2013-06-28                                 |
+| Tags            | 变身, 幽灵, 性转, 跨性别, 伪娘, 性探讨, 情欲, 自我认知, 禁忌恋, 心理冲突, 第二人称叙述, 亲密关系, 虚拟现实, 青春故事, 神秘角色, 成年内容, 探索欲望, 意识流, 奇幻, 重生                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

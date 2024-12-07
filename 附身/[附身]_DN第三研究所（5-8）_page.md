@@ -7,7 +7,7 @@ TXT 下载: [[附身]_DN第三研究所（5-8）.docx]([附身]_DN第三研究�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部跨性别及伪娘相关的小说，该情节围绕两名角色之间的互动展开。故事中，角色许景与伪娘白兰的关系逐渐发展，描绘了许景对自身性别认同的探索及自我价值的冲突。开场时，许景在白兰的怀抱中清醒，感受到强烈的情感交织和性别焦虑。他回忆起刚才的一幕并感到羞耻，内心充满了自我怀疑。随着剧情的发展，两人之间的对话和相互依偎，展现出了一种引人注目的亲密关系。白兰试图将许景引入一个更开放的讨论，并期待着许景能够变回男人以便能够一同离开研究所。此过程描绘了角色们在身体、性别与情感认同方面的复杂心理斗争，也涉及到了研究机构的工作内容和性别采集数据的伦理问题。小说含有一些性暗示及情色描写，如细致描述了角色穿衣及身体的感知体验，情节中充满挑逗与羞涩，同时又流露出一种伦理思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_DN第三研究所（5-8）.docx]([附身]_DN第三研究�
 | Size            | 58947 bytes                           |
 | MD5             | 8cf9f8e1e635695e69fe60963ba91251                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 性别认同, 自我探索, 情感关系, 小说, 色情, 变身, 心理冲突, 研究所, 性暗示, 情感纠葛, 角色发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

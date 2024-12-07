@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_96.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《把男朋友养成亲闺女》是由作者Nicegent42创作的变身小说系列中的一部分，内容涉及性别转换和跨性别角色的内心冲突与情感描写。文章第九十六章描绘了主角贝丽的生活琐事与情感变化，当贝丽回到公寓后，她在心中默默忽视自己与坎迪之间复杂的关系，并且尝试按照母女角色进行互动。贝丽吞下药物以抑制勃起，而坎迪则十分亲密地与她相处，让贝丽感受到一股迷人的吸引力，尽管她内心对这种关系充满挣扎。贝丽通过与坎迪分享家务、尝试父亲衣物，反映出她对自己性别认同和家庭关系的深刻思考。文中提到的家务和角色扮演，增加了情节的复杂性和角色之间的情感联系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_96.docx]([改造]_把男朋友
 | Size            | 18502 bytes                           |
 | MD5             | b1b4d67aaf081738c38992de00125bee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 变身小说, 家庭关系, 纯爱, 女友, 母女角色扮演, 青春期困惑, 性别转换, 情感冲突, 高中生活, 药物使用                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

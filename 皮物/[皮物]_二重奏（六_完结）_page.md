@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_二重奏（六_完结）.docx]([皮物]_二重奏（六_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《二重奏（六_完结）》讲述了一段涉及四维时空与性别认同的复杂故事。主人公刘阳羽是一个普通大学生，与来自四维世界的意念体产生了联系。在故事中，刘阳羽被卷入了一段关于改变时间线的冒险，在四维空间的神秘力量下，他必须面对人与人之间的情感纠葛和自我认同的问题。小说中描绘了现实与虚幻的交错，其中提到的“轮回的假象”以及通过时间轴的逆流与干预，展现了作品的创意及其深度哲学思考。例如，角色与四维世界的思维体进行对话，引发了刘阳羽对自身身份的探询。这部作品不仅围绕性别转换展开，且透过不同维度之间的互动激发了对个人命运和珍贵时光的沉思。整个故事充满了紧张、悬疑与丰富的情感体验，向读者展示了生命与时间的奇特关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_二重奏（六_完结）.docx]([皮物]_二重奏（六_�
 | Size            | 25029 bytes                           |
 | MD5             | 55123e9c849ff60fb5a8593ac796cbe8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 时间旅行, 自我探索, 四维时空, 梦境, 成长, 情感纠葛, 幻觉, 意识交流, 灵媒, 神秘力量, 爱情, 大学生活, 变身, 科幻, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

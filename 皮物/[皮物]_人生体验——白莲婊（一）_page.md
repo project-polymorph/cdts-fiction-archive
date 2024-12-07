@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_人生体验——白莲婊（一）.doc]([皮物]_人生�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于性转与跨性别经验的小说，讲述了主人公苏明在一次极端情况下，利用超能力将自己的意识转移到女性林湖婕的身上，以此体验她的生活与身心变化。故事设定在城市的夜晚，描述了苏明在阴暗的小巷中伺机而动，跟踪校花林湖婕并实施其计划的过程。文中详细描绘了林湖婕的外貌特征，尤其强调她的青春魅力与女性特性，使得主人公在转换性别后的心理挣扎与兴奋感成为故事的中心。苏明在经历身份与肉体的双重转变后，感受到女性身体的细腻与诱惑，同时也反思自我的性别认同。整个情节充满了强烈的性暗示与心理描写，尤其在主人公边体验女性身体边内心独白的段落，充分展现了其复杂的情感与欲望。根据文件特征，该文档包含了涉及成人情节的内容，不适合未成年人阅读。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_人生体验——白莲婊（一）.doc]([皮物]_人生�
 | Size            | 45568 bytes                           |
 | MD5             | 9251d73199f1fe6f861c99fd63354027                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身小说, 强烈性暗示, 自我认同, 身份探索, 女性生活体验, 都市幻想, 青春校园, 男性视角, 性别冲突, 模拟实践, 心理变化, 欲望表现                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

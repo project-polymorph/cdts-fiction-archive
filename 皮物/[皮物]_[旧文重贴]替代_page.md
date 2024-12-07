@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[旧文重贴]替代.doc]([皮物]_[旧文重贴]替代.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一段关于唐亮和王霜霜之间的情感发展故事。故事开始于唐亮向王霜霜表白，两人之间的感情迅速升温，王霜霜承认也喜欢唐亮。王霜霜的特点—美丽和活泼—吸引了唐亮的注意，他们在大学生活中逐渐建立起亲密的关系。然而，随着时间的推移，唐亮发现王霜霜的行为渐渐变得诡异，常常不在宿舍，直至唐亮在偶然间发现了一段录像，揭示了王霜霜失踪的真相以及她实际的身份变化。录像中令人不安的场景展示了一场身份的强制交换，这一发现让唐亮陷入震惊与恐慌之中。整个故事不仅探讨了爱与变化的主题，还涉及到身份认同、性别转换等复杂问题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[旧文重贴]替代.doc]([皮物]_[旧文重贴]替代.do
 | Size            | 43520 bytes                           |
 | MD5             | 58af3613621cd756f5fdd1b134a26ce1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 恋爱, 自我探索, 跨性别, 性别认同, 强制变身, 亲密关系, 校园生活, 情感冲突, 神秘录像, 青春成长, 伦理问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

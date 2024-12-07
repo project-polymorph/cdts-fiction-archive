@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【大坑慎入】【六一那啥】伪装者_一章·忘�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《伪装者》第一章·忘却初衷，是一部围绕伪娘和跨性别主题的小说。故事开篇在警察局，描绘了一位年轻警员张剑刚入职的情形。他与一位年长警官进行对话，接到一个调查隐秘组织的任务。尽管张剑对此感到疑惑和不安，但他还是决定按照上级的指示展开调查。根据文中描述，张剑在完成任务的过程中进入了一栋普通写字楼，却意外遭遇了一名看似普通的男子，并被要求脱去衣物，预示了故事将向更加复杂和隐秘的发展。与此同时，文中对张剑的心理状态和对调查任务的权衡也进行了细致刻画。整体来看，文本涉及性别认同、伪装以及对自我与他人认知的探讨，为后续情节的发展奠定了基础。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【大坑慎入】【六一那啥】伪装者_一章·忘�
 | Size            | 40960 bytes                           |
 | MD5             | 5c75b1c03cb076b05ce51ab489ff564f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 默默观察, 隐秘调查, 性别认同, 自我探索, 卧底任务, 心理冲突, 年轻警员, 性别转换, 阴暗组织, 性别表现, 现代都市, 悬疑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_操作失误.doc]([附身]_操作失误.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇围绕性转和自我认同的小说，讲述了主人公小明因一场“操作失误”，通过道士的法术让自己心爱但已婉拒他告白的女同事沈慧爱的故事。故事一开始，小明因告白被沈慧拒绝，心中感到不得安宁，决定前往道观寻找解脱。在一次偶然的机会中，小明倾听了道士的建议，最终通过一种神秘的药水，试图影响沈慧的情感。然而事情并没有按照预期进行，夺取意图未遂反而引发了一系列神秘与混乱的转变。文中涉及到角色的身体交换及内心斗争，并探讨了性别认同、自我探索等深邃的主题。许多段落展现了小明复杂的内心情感，最后导致了一系列意想不到的结果，包括他得知沈慧的转变及与其父亲之间的复杂关系。在情节中，角色之间的情感拉扯以及道德与情感的冲突让整篇作品充满戏剧性和悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_操作失误.doc]([附身]_操作失误.doc)
 | Size            | 35840 bytes                           |
 | MD5             | be3086b81e67b40113af02c2ad57d8f9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 自我认同, 跨性别, 情感纠葛, 药物影响, 复杂关系, 家庭秘密, 悲剧结局, 心理斗争, 黑暗奇幻, 二次元幻想, 情色文学, 灵魂转移                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

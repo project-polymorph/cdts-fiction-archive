@@ -7,7 +7,7 @@ TXT 下载: [[交换]_[短篇]改變習慣，或許不必花費很多時間？.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于性转主题的奇幻小说，讲述了一个名叫张小乐的初中男生，他在街上捡到一个名为“习惯枪”的神奇玩具。该枪可以让使用者操作他人的习惯，故事开始于张小乐与他的死党李子铭的互动中，他通过这把武器设定并操作朋友的日常习惯，随后张小乐决定利用这个工具在香港国际机场测试它的能力。小说描绘了张小乐如何逐步扩展他对这个能力的探索，通过将习惯转移到周围的人身上引发一系列搞笑和荒诞的情节。作品中涉及到高中生的性意识、奇异的习惯操控逻辑，以及对日常行为习惯的扭曲与改造，具有一定的性暗示和幽默讽刺的成分。同时，文本中也包含了一些可能被视为不适合未成年人阅读的内容，例如对性行为的暗示与描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_[短篇]改變習慣，或許不必花費很多時間？.d
 | Size            | 33792 bytes                           |
 | MD5             | 99a0a80cbb88dd3de606d0c057874675                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 超能力, 青少年, 学园, 性意识, 校园幽默, 习惯, 奇幻, 科技, 友谊, 性暗示, 冒险, 奇遇, 都市, 搞笑, 创意作品                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

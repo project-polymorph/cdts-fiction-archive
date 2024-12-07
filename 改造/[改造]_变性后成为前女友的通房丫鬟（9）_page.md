@@ -7,7 +7,7 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（9）.docx]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于变性及性别认同的小说章节，描绘了主角在变性手术后对自己身体的认知与适应过程。故事的主线围绕着角色的身体变化及心理调整，详细描述了主角在看镜子时的自我审视，引用了多个细致的生理状态与感受的描写。情节上，主角经历了由男性向女性的转变，在外观上获得了女性化的特征，包括胸部和下体的变化。这一过程不仅包括身体的变化，还涉及到与周围人物，如阿苹的互动，以及她对新身份的理解。阿苹作为主角的少奶奶，给予了她支持和指导，帮助她逐渐适应新生活。文件中提及了性别认同、性别角色、以及由此带来的复杂情感和社会关系，展现了女性生活的多样性和对自我的探索，同时也涉及了跨性别者在社会中面临的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_变性后成为前女友的通房丫鬟（9）.docx]([改�
 | Size            | 21210 bytes                           |
 | MD5             | fd9633f3166805c44533689996715981                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 自我探索, 伪娘, 女仆, 同居关系, 阿苹, 身体变化, 青春, 主仆关系, 情感纠葛, 性别角色, 性转, 跨性别, 性心理, 现代生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

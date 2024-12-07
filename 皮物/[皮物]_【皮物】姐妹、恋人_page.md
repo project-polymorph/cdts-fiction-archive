@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮物】姐妹、恋人.doc]([皮物]_【皮物】姐�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一个性转与跨性别相关的小说片段，开篇以一个名叫白墨的年轻糕点师的自述展开，描述了他与邻居夏曦及其妹妹夏言之间复杂的情感关系。白墨对夏曦的暗恋以及夏曦对于妹妹的关心和照顾构成了故事的情感主线。故事通过时间的回溯，揭示了三年前白墨对夏曦的告白和被拒绝的场景，反而是夏曦撮合了他和其妹夏言之间的恋爱关系。文中深入描述了白墨在夏曦离开之后所感受到的孤独与责任，同时透露出夏曦向他寄送了一件特殊的皮物，与其外形极为相似的换肤体验。白墨在尝试穿上这件皮物后，体验到了身体的巨大变化，引发了一系列连锁反应和情感的困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮物】姐妹、恋人.doc]([皮物]_【皮物】姐�
 | Size            | 92160 bytes                           |
 | MD5             | c3915de66cbdb9454771d1125d855782                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 男娘, 虚拟现实, 爱情, 自我认同, 姐妹情, 心理冲突, 高科技仿真皮物, 青春, 自我探索, 性别角色, 变装, 科技幻想, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

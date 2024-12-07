@@ -7,7 +7,7 @@ TXT 下载: [[改造]_江南道之明日楼.doc]([改造]_江南道之明日楼.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《江南道之明日楼》的小说，主要围绕主角赵师的冒险故事展开。故事背景设定在江南道，情节紧凑，包含明显的武侠、权谋和个人成长的元素。开篇描述了赵师作为年少将军在江南道城门外的气宇轩昂，展现了他的英勇和忠诚。随后，故事逐渐展开，揭示出包括海盗横行和权力斗争的复杂局面。赵师在调查海贼的过程中，逐渐了解城中各个势力的角逐，同时面临来自权臣王开泰的威胁。文中还提及一些年轻女子与赵师角色之间的关系，尤其是对于家境和生存的无奈，以及他们为生活而奋争的艰难。故事插入了许多对官场和人性的批判，且含有一定的情色暗示，不乏邪恶勾结和阴谋的描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_江南道之明日楼.doc]([改造]_江南道之明日楼.
 | Size            | 67584 bytes                           |
 | MD5             | 70354a6ad269f28dbfe369121139debe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 武侠, 权力斗争, 海盗, 成长, 爱情, 情感纠葛, 性别认同, 跨性别, 伪娘, 历史, 幻想, 江南道, 少年将军, 侠义, 阴谋, 官场腐败                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_艳八仙系列-李铁乖成仙第四节.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容是《艳八仙系列》中‘李铁乖成仙’的第四节，描述了魔幻与情色结合的情节。故事围绕主角李生在经历了一系列考验后，面临最后一关。他与太白金星的交互情节描绘了超现实的境遇，展现了复杂的性别角色与转化。在这一节中，主角通过与变身为女性的角色进行的亲密接触来达成考验，表现出独特的人物关系和性别认同之旅。情节和形象丰富，展现了奇异的情感与身体体验。例如“李生身痒难忍，忙推开太白金星”体现了角色的自我认知与内心挣扎。这部作品中包含了成人内容，涉及性别转换、角色扮演与自我探索等主题，是研究跨性别与变身文化的重要素材。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_艳八仙系列-李铁乖成仙第四节.docx]([附身]_�
 | Size            | 17392 bytes                           |
 | MD5             | 4f82b7ce7425e3827dbb8d6dd62dc6a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 奇幻, 变身, 短篇小说, 成人文学, 奇异恋爱, 性别认同, 自我探索, 东方神话, 魔法, 性别角色, 情感纠葛, 虚拟现实, 人妖                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

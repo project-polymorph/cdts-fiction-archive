@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《人皮衣》（贰·清醒的梦魇）.doc]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《人皮衣》（贰·清醒的梦魇），主要讲述了一位名叫何玉兰的人，因情感与事业遭遇重创，展开了一系列复仇计划。故事围绕着黄石杰与靳羽茜的婚姻、何玉兰的情感挣扎，以及她对黄石杰所创造的生物保健品的嫉妒展开。何玉兰通过伪装成男生宿管阿姨，试图获取神秘生物太岁的体液以达到报复的目的。在她的计划中，她注意到了一个名叫王君彦的普通男生，并发现了他的秘密癖好，进而将其利用，为自己的复仇计划铺路。故事情节包含复杂的人物关系、性别认同问题、身世秘密等元素，同时揭示人性中的扭曲和欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《人皮衣》（贰·清醒的梦魇）.doc]([皮物]_�
 | Size            | 52736 bytes                           |
 | MD5             | cefe4b28349ea802d09f2eb21c646663                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 复仇, 性别认同, 生物研究, 校园, 古籍, 人皮衣, 禁忌恋, 人物塑造, 心理戏, 自我探索, 伦理困境, 文艺创作, 魔法, 奇幻, 变态                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

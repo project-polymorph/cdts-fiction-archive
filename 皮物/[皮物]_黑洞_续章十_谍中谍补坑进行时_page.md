@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑洞_续章十_谍中谍补坑进行时.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一段跨性别与性转题材的小说内容，主要讲述了一名女子在两桩事件中的被动与挣扎。故事开篇描绘了一种强烈的压迫感，女子被迫面对面前的男子，随着情节的发展，文章逐渐转向了男女之间复杂的性关系和变换。女子经历了一系列令人不安的情节，包括被强迫舔吻与进入一段不可逆转的身体和心理变化，描绘了其在挣扎与享受之间的矛盾心理。此外，男子的行为逐步演变为一种更深层的操控和支配，突显了性别与力量之间的斗争。最后，文件还涉及了一个炼丹房的设定，暗示着一种更大的超自然力量在操控角色的命运，留下了许多悬念与不安。这段文本的内容包括大量的色情描绘与暗示，属于限制级别的性质，适合于科研与分析用途。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑洞_续章十_谍中谍补坑进行时.docx]([皮物]_�
 | Size            | 19185 bytes                           |
 | MD5             | 3d743468fd51dc4160d1a36da7989cc7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 强迫, 色情, 自我探索, 权力斗争, 超自然, 心理变化, 社会禁忌, 性别认同, 药物关系, 异世界, 古代炼金术, 阴暗幻想, 肉体操控                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

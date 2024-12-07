@@ -7,7 +7,7 @@ TXT 下载: [[附身]_万花筒（2）.doc]([附身]_万花筒（2）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于附身和性别转换的小说，描述了主人公在一次奇妙冒险中获得一个万花筒，可以使他转化为其他人的身份。故事开始时，主人公在试图理解许艳的记忆过程中，意外发现自己在一场混乱中变回了原来的身体，但许艳却昏倒在地。逃避追捕的过程中，主人公在厕所中找到机会，继续尝试使用万花筒。随着他不断探索，他进入了一个名为梁家美的高中女孩的身体。通过其身份的变换，主人公体验了她的生活与痛苦，深刻感受到生理和心理上的冲突。“女儿身”的体验让他不得不面对内心深处的自我认同危机与情感挣扎。该作品涉及诸多较为敏感和复杂的性别认同主题，以及关于青春叛逆和家庭问题的深入探讨，同时穿插了一些性与欲的叙述。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_万花筒（2）.doc]([附身]_万花筒（2）.doc)
 | Size            | 267264 bytes                           |
 | MD5             | a0867ae79ebb2557d71837d8345994df                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 附身, 性别转换, 叛逆青春, 自我认同, 心理冲突, 男性视角, 女性角色, 青春期, 家庭问题, 万花筒, 双性恋, 性别流动, 身份探讨, 情感纠葛, 青春爱情, 都市奇幻, 二次元文化, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

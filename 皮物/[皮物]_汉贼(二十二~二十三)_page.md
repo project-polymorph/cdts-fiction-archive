@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_汉贼(二十二~二十三).docx]([皮物]_汉贼(二十�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为一段虚构的历史小说情节，主要围绕三国时期的战争和人物关系展开。文章描绘了建安十四年马超投靠汉中张鲁的场景，以及张鲁与刘璋之间的权力斗争。在故事中，张鲁为了规避曹操的威胁，选择进攻益州，而马超作为前锋取得了连连胜利。刘璋因感到愤怒，决定派兵反击，并考虑寻求刘备的军队支援，文章通过各方的斗争描绘了复杂的政治局势和多方势力的博弈。此外，文中还有孙策攻打合肥的情节，展示了战争的艰辛与领导者的困境，最后以孙策面对失败的无奈和妻子大乔的理解与支持作为结尾，同时隐含着夫妻之间的亲密关系。整篇文章内容既有战争策略的描绘，也涉及了感情的细腻描写，展现了人物内心的挣扎与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_汉贼(二十二~二十三).docx]([皮物]_汉贼(二十�
 | Size            | 35652 bytes                           |
 | MD5             | 20ca111b7e1c4e7490ba144328446088                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 三国, 历史小说, 战争, 政治斗争, 孙策, 情感, 权力博弈, 马超, 刘璋, 情义, 东吴, 曹操, 大乔, 策略, 胜利                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

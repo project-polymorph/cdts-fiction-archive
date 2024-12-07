@@ -7,7 +7,7 @@ TXT 下载: [[交换]_平凡的日常生活（中）.doc]([交换]_平凡的日�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《平凡的日常生活（中）》，内容主要围绕角色和贵在与同事袖原美辉的互动中展开。故事中，和贵因身体不适服用了避孕药，随后进入了一系列由生理期引发的情感与心理变化。在痛苦的过程中，和贵逐渐意识到对女性日常护理和自我保养的理解，透过与美辉的对话，通过她的指导和关心，和贵对女性生活有了更多的感受与反思。后续情节中，和贵经历了一段“变身”为女性的奇妙旅程，伴随对身份和性别认同的思考。整体气氛隐含着幽默与温情，描绘了主人公在不平凡情境下，对生理和心理的双重探索，揭示了性别身份认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_平凡的日常生活（中）.doc]([交换]_平凡的日�
 | Size            | 100352 bytes                           |
 | MD5             | 890d1984cb4434a41b7af5b5d67409a2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 生理期, 跨性别, 角色扮演, 自我认同, 药物使用, 情感探索, 现代生活, 女性角色, 日常生活, 轻小说, 二次元文化, 情感互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

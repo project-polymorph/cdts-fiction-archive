@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_双子之恋（一）.docx]([皮物]_双子之恋（一）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为跨性别小说《双子之恋（一）》的开篇，主要叙述了一对双胞胎姐妹，黎晓芸和黎晓雨的生活和情感交织。在文本开头，作者表明了这篇小说的构思已酝酿两年，终于忍不住将其付诸实践。故事描绘了主人公的都市生活，她们在闲逛中引发的种种情感，包括亲情、友情与爱情的错综复杂。同时，通过主人公对周围事物的观察与自我反思，展示了她们面对生活的烦恼与孤独感。文中提到主人公的肤色、外貌以及内心情感的描绘，展现了对自我认同与性别身份的探索。整体语气幽默、犀利，给人一种轻松却又具深意的阅读体验。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_双子之恋（一）.docx]([皮物]_双子之恋（一）
 | Size            | 28057 bytes                           |
 | MD5             | 077f2b782b5774281e73b8a42995d962                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 双胞胎, 都市生活, 情感纠葛, 自我认同, 性别认同, 亲情, 友情, 爱情, 女性视角, 心理探索, 幽默, 爱情三角关系, 社会观察, 自我反思, 青春成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

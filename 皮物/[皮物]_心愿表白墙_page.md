@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_心愿表白墙.doc]([皮物]_心愿表白墙.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《心愿表白墙》，讲述了一个大学生李彦的故事。李彦是在大学中经营表白墙的幕后操作者，最初他的生活与同学们的表白、闲聊密切相关。然而，当他偶然发现一把名为‘化皮之刃’的神器后，事情开始变得异常。他通过这把刀能够实现变身与身体的替换，进而展开了一系列围绕性别转换和自我认知的探索。在描写过程中，文中的主人公经历了对女性身体的好奇、欲望以及由此引发的复杂情感，涉及强烈的性幻想和等场景。文中细致描写了人物的外貌、心理变化以及对陌生女性身体的窥探，通过心理与生理的冲突，探讨了性别认同与自我身份的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_心愿表白墙.doc]([皮物]_心愿表白墙.doc)
 | Size            | 68608 bytes                           |
 | MD5             | 8b7a3bd6bc5a2f4bee1f9d974c21888e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身小说, 跨性别, 性别认同, 强烈幻想, 大学生活, 超自然能力, 自我探索, 欲望, 淫荡, 女体化, TSF, 爱情, 奇幻, 心理冲突, 角色变换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

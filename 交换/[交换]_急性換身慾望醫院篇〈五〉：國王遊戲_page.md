@@ -7,7 +7,7 @@ TXT 下载: [[交换]_急性換身慾望醫院篇〈五〉：國王遊戲.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《急性换身欲望医院篇〈五〉：国王游戏》的小说章节，内容涉及到一种超自然现象，导致男女角色在性欲的驱使下发生身体交换。2个主要角色分别是黑道老大陈金水和护士李又菁（小菁），他们在医院中因急性换身欲望而发生性关系，并相继发生了身体交换。后续情节中，其他角色如医生王丽文与黑道小弟林家豪也被卷入这一欲望之中，形成了复杂的性关系和身份认同的探讨。角色们在性交过程中逐步接受和适应身体的变化，情节涉及自我认知的冲突，以及他们在新的身体中探索自己性欲和身份的旅程。小说以较为大胆的手法呈现了性别认同与欲望的交织，以轻松的语气描述了角色们在交换身体后，如何操控和享受新身份带来的快感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_急性換身慾望醫院篇〈五〉：國王遊戲.doc]([
 | Size            | 55296 bytes                           |
 | MD5             | 44a1e185dd57790d0a38b8314ab84e1b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 身体交换, 跨性别, 欲望, 小说, 伪娘, 男娘, 变身, 医院, 强奸, 百合, 调教, 逆后宫, 身体改造, 异世界, 真实身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的伪娘史（22）.docx]([变装]_我的伪娘史（2
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇性转主题的小说，描绘了一位主角在好友林可的帮助下，尝试以女性形象出现在心仪对象面前的故事。故事从晚上7点开始，主角在家中与好友林可讨论着服装搭配。林可打扮主角，改变其外表，使之更加女性化，以便能够吸引到名为迪飞的男孩。主角对自己的装扮和友人的鼓励有些抵触，表现出一种自我认同的冲突。随着夜晚的深入，主角在迪飞面前的出场引起了他的注意，表现出性别与爱情的复杂关系。在上网的过程中，主角还与老朋友们重聚。整篇文章包含了性别意识、友情、爱情等元素，并描绘了主角对自我形象的探索，合并了虚拟游戏的趣味性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的伪娘史（22）.docx]([变装]_我的伪娘史（2
 | Size            | 16091 bytes                           |
 | MD5             | f09cef06926211adf608bff4ea4ca8fe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 伪娘, 爱情, 自我认同, 女性形象, 好朋友, 游戏, 校园, 青春, 性别探索, 二次元, 情感冲突, 虚拟现实, 魔兽世界, 夜生活, 日常                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

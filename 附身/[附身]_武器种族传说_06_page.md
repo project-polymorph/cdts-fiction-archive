@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_06.docx]([附身]_武器种族传说_06
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件主要描绘了一群年轻角色在海边别墅度假的场景。故事围绕人物之间的关系展开，尤其是主角与露西、蕾和凌韵儿的互动。情节中涉及到性别认同和自我探索的主题，包括角色间的暧昧与情感纠葛。天真无邪的对话中，露西和主角的互动充满了调侃，而蕾和凌韵儿则展现出对主角的青涩情感和欲望。通过在别墅内的玩耍，角色们面对着自我内心的渴望和对彼此关系的迷茫，尤其明显的是，主人公遭遇的情感困扰和身体反应使得故事向更为复杂的层面展开。至于这次海滨之旅，他们所面临的不仅是外部环境的诱惑，更多的是心理层面的探讨和成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_06.docx]([附身]_武器种族传说_06
 | Size            | 43402 bytes                           |
 | MD5             | a29c38111be294105e0e4322adc6d327                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 海边度假, 情感纠葛, 校园恋情, 制服诱惑, 强奸幻想, 青涩爱情, 角色互换, 戏剧性发展, 多角恋, 药物影响, 虚拟现实, 美少女, 泳装, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_拯救迷途（6-7章）.doc]([皮物]_拯救迷途（6-7�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为伪娘 TS 变身与跨性别相关小说档案中的一部分，详细描绘了渡边智子的商业困境与个人内心的转变。历史背景设定在日本，介绍了渡边家族经营的博藤医用品商事株式会社，以及其发展历程的变迁。在渡边刚虎去世后，儿子渡边仁继承了公司，但他因对人皮衣技术的痴迷而使公司经营下滑。渡边智子作为新任会长，正面临父亲遗留下来的烂摊子。在文中，她与二叔渡边义间的权力争斗、智子的自我认知转变，以及与助理美咲之间的情感纠葛均有详细描写。智子的职场与情感生活错综复杂，与她逐渐探索自我、发泄情感的情节交织，反映出她对男性的厌恶和对女性的向往。小说深入探讨了性别认同与社会角色之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_拯救迷途（6-7章）.doc]([皮物]_拯救迷途（6-7�
 | Size            | 39424 bytes                           |
 | MD5             | 1a7fa03d486ebf56aae2736e3e2bb730                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 权力斗争, 自我探索, 职场, 性别认同, 情感纠葛, 家庭纠纷, 医疗器械产业, 女性主导, 短发女性, 职场霸权, 二次元文化, 日韩文化, 新旧交替, 秘密研究, 情绪发泄                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

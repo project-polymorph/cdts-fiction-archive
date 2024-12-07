@@ -7,7 +7,7 @@ TXT 下载: [[其他]_变身女朋友去旅行【2】.doc]([其他]_变身女朋
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含了一个关于变身旅行的故事，故事的情节围绕着两个角色米南和叙述者展开。文件以叙述者的视角呈现，详细描写了米南的性别身份及其变装过程。故事中，米南穿着高跟鞋和假发，体验着女性身份带来的快感。在一个轻松却带有暧昧的情境中，两个角色展开了一段温馨而亲密的互动。文本中包含了关于性刺激和自我探索的细腻描绘，尤其是米南关于他通过遥控跳蛋获得快感的描述，以及随之而来的情感交流和身体互动，展现了性别转换带来的独特感受和情感。某些段落涉及了性行为和个人感受的细腻描写，探讨了男性与女性身体之间的界限和体验。整个文件语言流畅，情节发展慢而充满期待，适合对性转文化和跨性别议题有兴趣的读者仔细品味。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_变身女朋友去旅行【2】.doc]([其他]_变身女朋
 | Size            | 36864 bytes                           |
 | MD5             | 7fbd29826e454e1b46b0d6eef10b8e27                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 跨性别, 自我探索, 米南, 旅行, 亲密互动, 情感交流, 性刺激, 遥控跳蛋, 假阳具, 性行为, 身体探索, 二次元, 伪娘, 男娘, 幻想, 纯爱, 成人内容, 心理体验, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

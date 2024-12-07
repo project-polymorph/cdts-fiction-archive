@@ -7,7 +7,7 @@ TXT 下载: [[附身]_这是属于齐珊珊的故事（下）.docx]([附身]_这
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及伪娘与跨性别相关的小说，讲述了女主角齐珊珊与林翰之间一场悲剧性的恋爱故事。在故事中，齐珊珊遭遇了一名全身黑衣的男子袭击，被勒死，而此时林翰恰巧出现并试图救她。在混战中，林翰忍不住对齐珊珊的躯体产生了极为扭曲而强烈的欲望。虽然齐珊珊已失去知觉，林翰却在疯狂中逐渐变本加厉。在他的疯狂举动中，不仅发生了对齐珊珊身体的侵犯，甚至在故事的结尾，林翰的意识似乎也被吸入齐珊珊的身体，形成了惊悚而离奇的结局。该作品融合了强烈的性别认同探索、欲望的极端表现，包含了大量限制级内容，涉及性别转换及超自然元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_这是属于齐珊珊的故事（下）.docx]([附身]_这
 | Size            | 43150 bytes                           |
 | MD5             | c3bccaffb00706418d2f182b8a2776d9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 禁忌恋, 超自然, 强奸, 欲望, 自我认同, 身体吸收, 黑暗幻想, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

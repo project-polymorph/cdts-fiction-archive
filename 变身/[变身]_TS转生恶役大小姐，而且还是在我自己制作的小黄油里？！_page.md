@@ -7,7 +7,7 @@ TXT 下载: [[变身]_TS转生恶役大小姐，而且还是在我自己制作�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描述了一个轻小说作者水沢遼太意外转生到自己所创作的成人游戏《幻想无垢战纪》中，成为游戏内的恶役大小姐克瑞丝。故事开篇是克瑞丝在豪华庄园中调皮爬树的场景，因跌落而撞到后脑勺，从而唤醒了水沢的前世记忆。小说通过克瑞丝的视角展现了她作为反派角色的生活和内心斗争，以及她逐渐接受自己身份的过程。在克瑞丝成为反派的同时，她的背景设定却是一个天赋异禀的剑士，使她在游戏中显得非常强大。本文以轻松有趣的语言描写了角色之间的关系以及克瑞丝在这段新生活中的探索与成长，恰好反映了性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_TS转生恶役大小姐，而且还是在我自己制作�
 | Size            | 95232 bytes                           |
 | MD5             | 8ee13fa601a7bf2daa1acb294ec0487f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 转生, 百合, 青年角色, 冒险, 魔法世界, 轻小说, 角色扮演, 成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

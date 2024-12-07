@@ -7,7 +7,7 @@ TXT 下载: [[交换]_妹妹的魔法卡_(2).docx]([交换]_妹妹的魔法卡_(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件为一篇关于性别转换与身体探索的小说，讲述了主角在神奇的魔法卡片影响下与妹妹的身体互换后所经历的困惑和奇妙体验。故事开头，主角意识到自己身穿睡裙，发现自己的身份从男性转变为女性，展现了对自己新身体的探索和情感冲突。通过内心独白，作者展示了主角对于自己身体的陌生感，以及对妹妹身体的好奇与探索。文中描绘了主角对生理差异的体验和感受，包括如何使用女性身体处理生理需求，强化了性别认同与自我探索的主题。随着故事的发展，主角不断挖掘身体的秘密，展现了对身体的探索欲与内心斗争。这本小说结合了幻想、性别转换等元素，揭示了当传统性别角色被颠覆时，个体面临的心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_妹妹的魔法卡_(2).docx]([交换]_妹妹的魔法卡_(
 | Size            | 28290 bytes                           |
 | MD5             | 9a78cd353ae8670c44b60545c7f89fd1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身体探索, 伪娘, 魔法, 亲情, 自我发现, 性别认同, 奇幻, 青少年, 新体验, 生理差异, 心理冲突, 异世界, 性别角色颠覆, 探索欲望, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

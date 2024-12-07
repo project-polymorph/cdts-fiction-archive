@@ -7,7 +7,7 @@ TXT 下载: [[变身]_淫魔女王的新生.doc]([变身]_淫魔女王的新生.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《淫魔女王的新生》是一部设定在一个充满魔法与斗气的奇幻世界——格瓦大陆上的小说。故事描绘了淫魔的出现及其对人类社会的侵袭，以及主角为父报仇而展开的斗争。小说的背景设在对峙纪元，描述了淫魔碧翠丝的强大魅惑力量如何摧毁人类的防线，以及主人公在心中永恒的复仇信念下，不断磨练自己以增强力量。文中充满了强烈的性暗示和冲突场景，碧翠丝身为高阶淫魔，运用魅惑法术与主角进行精神与肉体上的博弈。故事节奏紧凑，紧张刺激。主人公在与碧翠丝的斗争过程中，从绝望到愤怒，最终在劫难中逐渐成长。其情节充满了对性与权力的探讨，特别是人物在极乐与绝望之间的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_淫魔女王的新生.doc]([变身]_淫魔女王的新生.
 | Size            | 65536 bytes                           |
 | MD5             | 48821b274c3fe11d26a9de220795cb2b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 淫魔, 复仇, 性别转换, 魔法, 伦理冲突, 权力斗争, 魅惑法术, 黑暗幻想, 肉体欲望, 心理斗争, 成长故事, 幻想世界, 高阶邪恶角色, 情色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

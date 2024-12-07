@@ -7,7 +7,7 @@ TXT 下载: [[附身]_教师的交替故事.docx]([附身]_教师的交替故事
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一位名叫长野奈美惠的新入职教师的故事。在江莱小学上课前，她在职员室中暗暗鼓励自己。然而在前往课堂的途中，她意外地遇到一个正在嬉闹的男孩，并试图保护他，却一同跌下楼梯。醒来后，奈美惠发现自己在医院，却失去了记忆，并注意到自己的身体发生了变化，竟拥有了女性特征。随着故事的发展，奈美惠逐渐意识到，她的身体现在实际上是一个男孩灵魂的寄宿之所。此人试图利用奈美惠的身体，开始进行自我探索和行为。这段故事探讨了性别认同与身体转换的主题，包含了一些不适合未成年人观看的情节，并涉及对性的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_教师的交替故事.docx]([附身]_教师的交替故事
 | Size            | 21028 bytes                           |
 | MD5             | dbead2c5f887576dcd5aa83f4cd054a7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 教师, 性转小说, 灵魂交替, 自我探索, 身体转换, 校园, 性别认同, 变身小说, 情感, 奇幻, 女性特征, 男性视角, 性爱, 心理冲突, 初恋, 教育                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

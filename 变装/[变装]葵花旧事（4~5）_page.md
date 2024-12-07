@@ -7,7 +7,7 @@ TXT 下载: [[变装]葵花旧事（4~5）.doc]([变装]葵花旧事（4~5）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《葵花旧事》部分内容展示了主角花景廉在日常生活中与身边人物的互动和女性化的转变。在故事中，花景廉与下人墨砚之间的关系逐渐亲密，表现出对彼此感情的细腻描写。花景廉开始参与女红的制作，展现了他在性别角色的模糊界限中，逐步向女性身份转变的过程。文中描绘了花景廉在制作长衫时细致的过程，以及他因女红技艺精湛而受到周围人赞赏的情景，例如，众人赞美他像是“谪仙下凡”。随着故事的发展，花景廉的外貌逐渐发生变化，开始显露出女性特征，这一切都在表达他对自身身份的探索和对社会角色的反思。最终，当花景廉面临被捕的危险时，决定伪装成女子以求自保，这反映了角色在社会压力和自我认同之间的挣扎。整个过程不仅是一场身份的变换，更是对内心情感和社会期待的碰撞。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]葵花旧事（4~5）.doc]([变装]葵花旧事（4~5）.do
 | Size            | 60928 bytes                           |
 | MD5             | d1b07d80275f29157ed1df7390ad5aac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变装, 自我认同, 情感探索, 女性化, 二次元, 古代背景, 爱情, 身份认同, 女红, 日常生活, 角色冲突, 故事发展, 生命转变, 情节发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

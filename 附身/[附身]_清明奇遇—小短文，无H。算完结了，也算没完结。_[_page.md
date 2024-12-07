@@ -7,7 +7,7 @@ TXT 下载: [[附身]_清明奇遇—小短文，无H。算完结了，也算没
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇以清明节为背景的短篇小说，讲述了一家三口在荒山上祭祖的故事。故事的开头描绘了清明节的天气，家人们在出发的路上，发生了一些小争吵与互动，展现出温馨的家庭氛围。在一家人逐渐深入荒山的过程中，逐渐出现了恐怖的元素，尤其是当他们开始怀疑是否迷路以及听到诡异的歌声时，故事的氛围变得愈发紧张。尤其是女儿张莉莉在故事末尾露出的反常笑容，暗示了一丝不安与恐惧。整篇故事结合了传统文化与奇幻元素，既有清明祭祖的情感表达，又带有意外的恐怖气息，勾勒出一种异样的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_清明奇遇—小短文，无H。算完结了，也算没
 | Size            | 17040 bytes                           |
 | MD5             | a0a597683382500eb45436c24a702199                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-04-04                                 |
+| Tags            | 清明节, 祭祖, 迷路, 家庭温情, 异界幻想, 神秘事件, 神秘歌声, 父女关系, 传统文化, 恐怖故事, 阴暗笑容, 情感冲突, 浓厚乡土气息, 女儿, 探险, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

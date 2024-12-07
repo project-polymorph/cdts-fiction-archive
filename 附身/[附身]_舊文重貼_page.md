@@ -7,7 +7,7 @@ TXT 下载: [[附身]_舊文重貼.docx]([附身]_舊文重貼.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容是一部描绘校园生活与变身题材的小说，讲述了在一所高中发生的事件。故事围绕一位受欢迎的女教官范瑜蓉展开，她外表纤细美丽，深受男生喜爱。然而，她实际上已婚，使得校园中的男性只能暗恋她。故事中涉及一对双胞胎，小豪与小杰，他们在毕业前谋划着不为人知的事情。小豪计划通过某种方式让瑜蓉教官受到影响，进而展开一系列不可告人的情节。内容中详细描绘了教官与学生之间的互动，以及小豪跟随教官的举动，体现了复杂的人际关系和情感纠葛。特别是故事中有关于学校规矩的挑战、角色的变身及自我认知的冲突等主题。情节涉及伪娘、暗恋和复杂的性别认同，展现了青春的迷茫与探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_舊文重貼.docx]([附身]_舊文重貼.docx)
 | Size            | 22275 bytes                           |
 | MD5             | 54f7b1793c07543d6f24e322049b863c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 校园生活, 伪娘, 性别认同, 青春, 暗恋, 教师与学生, 双胞胎, 情感纠葛, 性别转换, 自我探索, 禁忌恋情, 女性角色, 同性恋, 性转, 高中                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

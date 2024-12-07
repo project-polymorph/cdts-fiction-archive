@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_恶魔小夜02.docx]([皮物]_恶魔小夜02.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘的是一个跨性别角色的内心挣扎和自我认知的转变。故事开头，角色偶向姐姐优纪报告洗澡水已准备好，却意外走入了一场性别认同的探索。随着与姐姐的对话，偶逐渐意识到自己的身体发生了变化，成为了哥哥的妹妹，在这个过程中体验到了女性身份带来的新感受。文中描写了偶在利用一件特殊的皮物伪装成优纪的经历，角色之间的互动不仅显示了家庭关系的温暖，还包含了一些性别和身体认同的复杂性。尤其在描写偶面对自我认知的挑战以及对女性身体的羞涩与探索时，蕴含着深刻的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_恶魔小夜02.docx]([皮物]_恶魔小夜02.docx)
 | Size            | 21487 bytes                           |
 | MD5             | 70c171bec6c284e1b06347b10c608ce7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 变身, 伪娘, 亲情, 幻想, 自我探索, 青梅竹马, 家庭关系, 性别转变, 内心挣扎, 青春成长, 性别冲突, 二次元, 邪梦, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[交换]_人生狩猎游戏_第七夜.docx]([交换]_人生狩猎�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《人生狩猎游戏 第七夜》是关于王清和其他角色之间复杂关系的伪娘与窥视者故事。在私立贵族学校中，王清以伪娘身份与一群女学生相处，面临着自我认同和隐藏身份的压力。与此同时，王清的真实任务是监视和保护那些可能被黑暗集团渗透的女孩们。故事中的角色包括王清和其他女学生，他们在这个充满潜在危险和权力斗争的环境中相互介绍与建立关系。
+
+故事通过王清的内心独白展现了他的挣扎和困惑，对于他以女性形象出现的心理冲突，以及对于周遭女孩们的好奇和挣扎。在某些情节中，王清需应对复杂的情感和身体需求的问题，同时也展示了他与杨璇之间的关系，前者在一项特殊训练中表现出色，后者则深入参加了人生狩猎游戏，面临着身份与欲望的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_人生狩猎游戏_第七夜.docx]([交换]_人生狩猎�
 | Size            | 44651 bytes                           |
 | MD5             | 607112ae1c9437a9f7b4713e323980fb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 青春校园, 自我探索, 人生狩猎游戏, 监视, 保护, 私立学校, 权力斗争, 性别认同, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

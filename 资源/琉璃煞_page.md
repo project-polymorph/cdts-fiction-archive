@@ -7,7 +7,7 @@ TXT 下载: [琉璃煞.doc](琉璃煞.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以跨性别和社会阴暗面为主题的小说摘录，描绘了繁华都市中的命案与深藏在表象下的复杂人际关系。故事开篇提到一具生前遭到迷药及匕首刺杀的女尸，她的身份一直是一个谜，令警方感到困惑。主要角色吕雪芙是一名女警察，她在追查案件的过程中，遇到了一个粗犷的男人，二人在情节中产生了交集。小说中不仅描写了紧张刺激的侦查过程，还有流露出对于人性和欲望的思考，涉及到了强烈的社会问题，如性别认同与社会的偏见。文本中描述道，吕雪芙的外貌引人注目，且她在晚间进行巡逻时受到了路人的注意。这种对人物外貌的细致描写，也反映了社会对于美的标准与性别角色的期待。整部作品在描绘跨越性别认同的同时，也揭示了现代都市中的孤独与挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [琉璃煞.doc](琉璃煞.doc)
 | Size            | 419840 bytes                           |
 | MD5             | 5254b2aada2e4fc7d4c0a47b88853ea1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 命案, 女警, 社会阴暗, 身份认同, 迷药, 匕首, 都市生活, 女性角色, 男性角色, 人际关系, 道德困境, 强烈社会问题, 人性探索, 悬疑, 情感交织, 夜间巡逻, 自我冲突, 社会偏见, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

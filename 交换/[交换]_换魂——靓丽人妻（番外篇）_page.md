@@ -7,7 +7,7 @@ TXT 下载: [[交换]_换魂——靓丽人妻（番外篇）.doc]([交换]_换�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别小说档案馆的一篇关于灵魂交换主题的伪娘与跨性别相关小说，标题为《换魂——靓丽人妻（番外篇）》。小说讲述了一个男性角色通过灵魂交换变成女性后，经历怀孕、产子的生活，展现了他作为妻子和母亲的成长与变化。文件中详细描述了主角的怀孕生活，包括对身体变化的描述，对家庭角色的认知，以及在性行为方面的探索。小说通过描绘角色内心的自我认知和对性别角色的重新理解，探讨了性别认同和自我认知的复杂性。主角在文中感叹：“我竟然以一个女人的身份，为自己的男人诞下子嗣，真是奇妙！”同时，内容中包含了明显的成人向描写，深入刻画了角色在感情和身体上的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_换魂——靓丽人妻（番外篇）.doc]([交换]_换�
 | Size            | 36864 bytes                           |
 | MD5             | a088112f24669a72207498ce731f4242                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂交换, 怀孕, 伪娘, 跨性别, 主妇生活, 女性视角, 性转, 家庭关系, 性别认同, 自我探索, 性行为, 情感纠葛, 育儿, 成人向, 爱情, 小说, 二次元, 幻想文学, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

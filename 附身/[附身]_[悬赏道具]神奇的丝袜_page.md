@@ -7,7 +7,7 @@ TXT 下载: [[附身]_[悬赏道具]神奇的丝袜.doc]([附身]_[悬赏道具]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《神奇的丝袜》，呈现了一段复杂的人物关系和心理变化的故事。故事起源于五十年前，两位来自深山的男子于上海相遇，因追求梦想而分别。经过七年后再度相聚，他们的子女——庄剑桥和丁国栋也开始了自己的故事。二人小时候因一串冰糖葫芦而打斗，展现了幼时的纯真与竞争。在故事的过程中，丁国栋通过偷窥庄剑桥的父亲与全裸女性发生关系，而这也成为了其自我认知与性别认同的一部分。这一过程充满了复杂的情感纠葛和社会性别角色的探索。最终，丁国栋在泰国的命运也揭示了罪恶与救赎的主题，与庄剑桥的命运形成鲜明对比。此文描绘了跨越三十年的情谊与性别认同的波折，涉及多种心理与社会问题，适合研究多元性别与性转等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_[悬赏道具]神奇的丝袜.doc]([附身]_[悬赏道具]
 | Size            | 79360 bytes                           |
 | MD5             | 733b1fbc96e4c6f87be526870be1c4b6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 爱情, 成长, 自我探索, 青春, 亲情, 罪与罚, 心理描写, 城市故事, 传统与现代冲突, 性别角色, 童年记忆, 人际关系, 精神救赎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

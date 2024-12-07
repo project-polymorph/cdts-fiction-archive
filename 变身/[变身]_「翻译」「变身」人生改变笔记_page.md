@@ -7,7 +7,7 @@ TXT 下载: [[变身]_「翻译」「变身」人生改变笔记.doc]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换的小说，主要讲述了一名高中生与其妹妹绫之间的奇妙故事。妹妹绫给哥哥提供了一本能够改变人生命运的魔法笔记本，只需在封面上写下名字，笔记本便会记录下所有关于该人的信息，甚至能够根据笔记内容引起身体的变化。随着故事的发展，哥哥在不知情的情况下，最终变成了美少女，经历了身体与心理上的巨大冲击，同时妹妹则流露出对哥哥新身份的兴趣和掌控感。文件结合了诸多妖异与幻想元素，描绘了角色在自我认知与性别变化中的心理斗争。文件内容可能涉及敏感及性暗示情节，适合以科学研究与学习为目的的相关研究人员进行探讨和分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_「翻译」「变身」人生改变笔记.doc]([变身]_�
 | Size            | 58880 bytes                           |
 | MD5             | 35720b93859196d7bd0f86b5345a9cc5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性别认同, 自我探索, 魔法, 高中生, 兄妹关系, 幻想, 内心斗争, 情感纠葛, 性别变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

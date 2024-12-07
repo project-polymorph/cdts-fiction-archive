@@ -7,7 +7,7 @@ TXT 下载: [[附身]_莫甘娜的眼泪（五，结尾一）.doc]([附身]_莫�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件内容为一篇伪娘和跨性别相关的小说章节，标题为《莫甘娜的眼泪（五，结尾一）》。故事围绕刑警大队中的角色展开，尤其是主角龙文婕与陈昊之间的关系。在这个章节中，龙文婕在与被铐住的陈昊之间的对话中，涉及到两人身份的混乱，以及他们之间的暧昧情感。文中描述了龙文婕在被限制的情况下面临的身体上的不适，以及强调了两人情感上的拉锯和逐渐靠近。情节中还包含了调情和性暗示的内容，展示了角色的内心挣扎与欲望，同时涉及了身份的双重性和性别认同的主题。这种结构展现了角色心理的复杂性，结合了性转与刑侦的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_莫甘娜的眼泪（五，结尾一）.doc]([附身]_莫�
 | Size            | 98816 bytes                           |
 | MD5             | 4059b62ce7f9326a201056c4c416e945                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 调情, 悬疑, 刑警, 情感纠葛, 办公室恋情, 欲望, 双重身份, 情欲, 幻想, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_堕落精灵.doc]([皮物]_堕落精灵.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《堕落精灵》是一部围绕巴拉尔的冒险故事展开的小说，他是一名普通的守门士兵，被迫进入危险的迷宫探索遗迹。在迷宫中，巴拉尔遭遇了复杂的机关和陷阱，未能凭借自身的力量安全归来。在无奈之下，他遇到了精灵公主伊芙，虽然外表娇小可爱，但其傲慢和高傲的态度让巴拉尔十分受挫。故事深入探讨了权力、性别关系和个人欲望，巴拉尔的心中充满了对伊芙的渴望和愤怒。在与一位吸血鬼法师的交流中，巴拉尔获得了一种可以变身的力量，预示着他可能好运将至，但同时也暗示了未来的冲突与变化。小说涉及性别认同、自我探索等复杂主题，情节暗藏诸多剧烈的情感冲突与道德问题，尤其是对两性关系的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_堕落精灵.doc]([皮物]_堕落精灵.doc)
 | Size            | 61952 bytes                           |
 | MD5             | 94c64da5d2ce5e0497376e53558f84da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 冒险, 精灵, 吸血鬼, 权力关系, 性别认同, 自我探索, 性欲, 情感冲突, 地下遗迹, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[改造]_《夫尊天下》第六章，春花娘.doc]([改造]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《夫尊天下》第六章，内容围绕角色古月乾和王忠贞的互动展开。在这一章节中，古月乾的轻工厂意外发生火灾，造成了大规模的损失，文章通过对角色内心的细腻描写与外部事件的紧迫感，展示了古月乾面临的困境与他对于家族事业的关心。
+
+开头引用了关于革命的名言，表明了文中角色处于一个变革的社会背景中。在火灾发生后，古月乾与春花娘等角色的对话揭示了火灾对其生计的影响，以及他努力维持家族企业的决心。文件中还含有对资金损失的估算及对未来发展的思考，以及春花娘的忠诚与古月蒙的支持，构成了文件的核心情节。整体风格贴近现代都市的生存压力，展现了角色们在面对困境时的复杂心理。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_《夫尊天下》第六章，春花娘.doc]([改造]_《�
 | Size            | 45056 bytes                           |
 | MD5             | cd3738e15ef173462c3ff26368c784d5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 都市恋爱, 家族关系, 火灾, 情感纠葛, 性别认同, 青春, 占有欲, 忠诚, 家庭责任, 权力斗争, 原创小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

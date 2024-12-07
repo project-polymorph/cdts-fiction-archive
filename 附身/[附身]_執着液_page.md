@@ -7,7 +7,7 @@ TXT 下载: [[附身]_執着液.doc]([附身]_執着液.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇围绕中学女学生瑞季与她的班主任鹤原翔子之间关系的幻想小说。故事发生在放学后的校园中，瑞季偶然被召唤到老师的指导室。原本平静的场景瞬间变得紧张，翔子的外貌逐渐扭曲，与其身份不符，同时剧情发展中出现了身体夺取与控制的奇幻元素。翔子的行为异常引发了瑞季的恐惧，接着出现了史莱姆等超自然生物，进一步加剧了情节的紧张和复杂，探索了性别认同与关系界限等主题。文件以生动的描写和复杂的情感冲突表达了角色的自我认知与转变，营造出一种奇异的恐怖氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_執着液.doc]([附身]_執着液.doc)
 | Size            | 40960 bytes                           |
 | MD5             | d8b83cd618e87b901ac755b455dab75c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 井澄ミスト                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 中学, 女学生, 老师与学生, 身体夺取, 史莱姆, 性别认同, 自我认知, 幻想, 恐怖, 校园, 禁忌关系, 变身, 幻想小说, 跨性别, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

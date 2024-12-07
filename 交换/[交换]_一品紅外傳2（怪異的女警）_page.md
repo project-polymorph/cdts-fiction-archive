@@ -7,7 +7,7 @@ TXT 下载: [[交换]_一品紅外傳2（怪異的女警）.docx]([交换]_一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇关于性别转换与跨性别故事的小说，探讨了一名男性角色在意外情况下变身为女性的心理和身体体验。故事围绕着主人公安子展开，他从一个普通男性角色转变为纽约市警察局的副局长，并不得不面对新身体带来的种种尴尬和欲望。小说情节中涉及了对新身份的接受与挣扎，安子在察觉到自己身材的变化后表现出慌乱和不适应。随着情节的发展，男性角色与女性身份之间的性别认同、性欲与权力的斗争逐步展开，描绘了诸多关于性与权力的复杂关系。该作品也涉及一些限制级内容，包括明显的性暗示和暴露场景，要求读者在科研和学习中保持科学与客观的态度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_一品紅外傳2（怪異的女警）.docx]([交换]_一�
 | Size            | 20319 bytes                           |
 | MD5             | 1885cc4e07a7336b83a50acfcd31eca4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 变身, 伪娘, 纽约, 黑帮, 强烈欲望, 性暗示, 性转, 警察局, 身体认同, 权力斗争, 女性形象, 心理挣扎, 性别身份, 欲求不满                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

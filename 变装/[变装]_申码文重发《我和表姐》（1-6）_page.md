@@ -7,7 +7,7 @@ TXT 下载: [[变装]_申码文重发《我和表姐》（1-6）.doc]([变装]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为伪娘/男娘类型的小说《我和表姐》的申码文重发，涵盖了一系列情感与性别转换的情节。小说讲述了主角李炎与表姐徐婷之间令人困惑而又强烈的感情。在故事的开头，主角陷入了一场梦中，随后被现实生活中的电话唤醒，电话另一端是他密切关注的表姐徐婷。两人自小青梅竹马，一直以来都有着特别的情感联结。随着剧情的推进，表姐的性感形象逐渐浮现，这种变化令主角产生了强烈的好奇与欲望。接下来，表姐的到来给主角的生活带来了显著的冲击。从对表姐身段的细腻描写开始，文中不断升级的感情展现出一种紧张的平衡，夹杂着意淫和自我认可的内心挣扎。表姐的魅力吸引着主角，两人在一次次亲密接触中探讨着彼此间的复杂关系。整个文档包含大量限制级的情色内容，以及若隐若现的禁忌情感，展示了一种现代青少年对性与爱的探索与困惑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_申码文重发《我和表姐》（1-6）.doc]([变装]_�
 | Size            | 103424 bytes                           |
 | MD5             | 5b998b0f183d892ead2912b5b6ae8759                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性转, 青梅竹马, 青春, 校园, 爱情, 家庭关系, 自我探索, 禁忌情感, 亲密接触, 情感冲突, 性别认同, 强烈情欲, 青春成长, 异性吸引                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_须构医药公司的故事（二）.doc]([皮物]_须构�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了在医药领域进行的伦理模糊实验，涉及两个实验体的性别与生理状态的操控以及癌细胞的实验和控制。故事围绕贾总和葛老两位角色展开，他们在实验室讨论如何改进活体实验，以实现抗毒性和延缓衰老的研究目标。文中提到了使用死刑犯作为实验素材，以及新型人工皮肤的开发过程，揭示了医学伦理中的灰色地带和欲望追求。葛老冷静地分析实验结果，但对贾总的商业需求显得不屑，同时讨论了大脑活跃度对于人类智力与能力的潜在影响。整个故事构建了一个充满科学与伦理冲突的背景，使得读者对这个包含超现实元素的小说情节深感好奇。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_须构医药公司的故事（二）.doc]([皮物]_须构�
 | Size            | 44544 bytes                           |
 | MD5             | d390f8bf4aceb4c455cbaf61ed695260                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伦理实验, 癌细胞研究, 跨性别, 生物医学, 人工皮肤, 性别操控, 科学幻想, 超现实主义, 生物科技, 人文关怀, 实验室故事, 医美行业, 科技与伦理, 自我认知, 扭曲现实, 虚拟存在                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

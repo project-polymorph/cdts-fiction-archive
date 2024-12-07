@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_两个女大学生间的爱恋.doc]([皮物]_两个女大�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是一部在校园背景下的伪娘和跨性别题材小说，讲述了名为露露的角色与室友施琴之间微妙而复杂的感情关系。在故事中，露露以女大学生的身份生活，但她实际上是个男性，热爱变装和女装。故事围绕她们的校园生活展开，描绘了她们在一起的日常片段，以及露露与男友方俊之间的互动。在露露的内部自我探索中，她对自己的身份与性别认同感到困惑，同时与施琴的关系也暗含了同性的情愫。文中包含多个情节涉及互相自慰、试穿女装及露露性别认同的心理斗争。此外，作品中的语言描绘了性与欲望的细腻变化，呈现了一种对性别与性欲的探索与挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_两个女大学生间的爱恋.doc]([皮物]_两个女大�
 | Size            | 41472 bytes                           |
 | MD5             | 8dbe12211f49932c697689126f47b32f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 校园爱情, 自我探索, 同性情感, 性别认同, 变装, 女大学生, 爱情故事, 内心冲突, 欲望, 百合, 初恋, 情感纠葛, 心理斗争, 日常生活, 秘密关系, 性转, 淫荡, 女装, 校园生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

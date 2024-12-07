@@ -7,7 +7,7 @@ TXT 下载: [[变身]_女神黛维.docx]([变身]_女神黛维.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了戴维·约翰逊，这位70岁的美国老人，在一次意外的旅行中，因捡到一枚雕刻有印度女神形象的戒指而发生剧变。戴维原本平淡无奇的生活因被这枚戒指改变而翻天覆地。他不仅在身体上经历了显著变化，身高和体重骤降，生理特征变得更加女性化，最终转变为女神黛维的化身。戴维的意识逐渐被黛维占据，而他不得不面对自己全新的身份和即将承担的责任。作为黛维，他的生活从此不再平凡，而是充满了对信徒的庇护和帮助。在一个充满传奇色彩的旅店，黛维以新的身份向人们展示了自身的神力，并开始了她的新使命。该作品中的情节探讨了性别认同、自我探索和神秘转变等深刻主题，展示了主角在蜕变过程中所经历的心理斗争和自我认知的改变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_女神黛维.docx]([变身]_女神黛维.docx)
 | Size            | 21724 bytes                           |
 | MD5             | 453dea0617079a14a5e5a61f53d6b4f7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 女神, 自我探索, 印度教, 女性角色, 身体转变, 神圣使命, 性别认同, 传奇故事, 奇幻, 城市, 超自然, 文化交流, 魔法, 转世, 性别流动, 身份认同, 旅行与冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

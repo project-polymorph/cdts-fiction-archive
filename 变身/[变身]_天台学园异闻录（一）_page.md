@@ -7,7 +7,7 @@ TXT 下载: [[变身]_天台学园异闻录（一）.docx]([变身]_天台学园
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《天台学园异闻录（一）》是一本以性别转换和附身为主题的校园小说，讲述了普通高中生朝田青彦的生活和遭遇。青彦是一个普通的高一学生，他的鼻子特别灵敏，这使得他在同学中显得与众不同。在学校里，他的同桌芦屋沙织是一个穿着保守的文学少女，但她实际隐藏着惊人的秘密，身材曲线引人侧目。当天台学园的学生会长美夏突然出现在课堂上，说明了一些不寻常的事情后，青彦发现沙织给了他一个神秘的小盒子，里面是与妖怪相关的符箓。随着剧情的发展，青彦和沙织之间的关系变得更加亲密，却也暗藏危机。该小说包含了许多关于青春、性别认同、探索自我等主题，以及可能令人感到不适的情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_天台学园异闻录（一）.docx]([变身]_天台学园
 | Size            | 22483 bytes                           |
 | MD5             | f15015f527acfbc399f782794db25225                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别转换, 校园小说, 附身, 妖怪, 青春, 友情, 奇幻, 男女性别关系, 自我探索, 隐藏身份, 神秘盒子, 女主角, 奇幻校园, 两性关系, 纯爱故事                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

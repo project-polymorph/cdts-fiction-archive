@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_伪装枪——上条真弓（待补完）.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于变身与性转题材的小说，讲述了主角通过一件名为伪装枪的奇特工具进行性别转换的故事。故事开头，主角描绘了变性后身体感受的细腻变化，如感受到的胸部重量和女性的魅力。接着，主角详细记录了如何使用伪装枪，首先将同学中川亚美的形态转变为人皮，然后进一步陷入对周围家庭成员的探索欲。在故事中，主角意识到无法对母亲使用伪装枪，这使情节变得更加紧张和复杂。整篇小说内容包含许多关于身份、性别认同和探索的元素，同时涉及少量的性相关描写，为角色变身后的心路历程增添了不少深度。尽管是半成品，但提供了丰富的故事背景与心理描写，以及独特的伪装效果描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_伪装枪——上条真弓（待补完）.docx]([皮物]_
 | Size            | 18940 bytes                           |
 | MD5             | ee78af78aec168844dc10297b287e1c9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪装枪, 性别转换, 性转小说, 变身, 自我认知, 跨性别, 人皮, 角色扮演, 性别身份, 成人向, 奇幻, 二次元, 探索欲, 心理变化, 青少年, 成长, 独立, 性欲觉醒, 故事讨论                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

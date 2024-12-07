@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身后被基友调教的日常（2）.doc]([变身]_变
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章是一个关于变身与调教主题的小说，故事围绕主人公库巴亚西的奇异早晨开始，他觉醒于一种舒适却又令人困惑的感受中。随着情节的发展，他发现自己正被他的搭档筱丹以一种极其挑逗的方式‘唤醒’。文中详细描绘了筱丹对主人公的调教和早安吻的场景，语言直接，描写生动，包含有强烈的性暗示和色情元素。小说对调教、性别转换等主题进行了深入探讨，呈现了一种复杂的情感和心理变化，其中充分表现了角色之间的亲密关系与权力动态。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身后被基友调教的日常（2）.doc]([变身]_变
 | Size            | 42496 bytes                           |
 | MD5             | 27f6a8d36bf1ae8862a5daa69b66a846                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 调教, 伪娘, 变身, 校园生活, 现代, 情色, 强烈的性暗示, 自我认知, 人际关系, 主人与仆人, 探索欲望, 双性恋, 早安吻, 情感深度, 幻想, 腐向, 性别认同, 角色互动, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

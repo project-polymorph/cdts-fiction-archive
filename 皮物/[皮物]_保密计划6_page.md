@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_保密计划6.doc]([皮物]_保密计划6.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这段文字描绘了一场发生在废弃工厂的危险情境，主人公被绑架并遭受了极大的生理和心理痛苦。故事围绕一位女性角色展开，她被一群男人围住，经历了被制服、冒险、与抢夺、权力相关的情节。在文本中，主人公不仅被束缚，还面对来自绑匪的威胁和其想要获取情报的逼迫。在极端的情况下，她内心的矛盾与恐惧交织，同时也描写了身体的侵犯和欲望的冲突。故事深入探讨了性别身份与性格变化，夹杂着强烈的情感纠葛与性的幻想。向读者呈现了一个淫乱、压迫与生存欲求交织的暗黑场景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_保密计划6.doc]([皮物]_保密计划6.doc)
 | Size            | 36864 bytes                           |
 | MD5             | e5a179d1aae315046c98403f45c36f18                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 牢笼, 欲望, 压迫, 自我探索, 残酷幻想, 极端情节, 淫荡, 暗黑故事, 心理斗争, 禁忌关系, 绝望, 生存                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_书页寻香.doc]([改造]_书页寻香.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《书页寻香》是果壳中的国王所撰写的一部短篇小说，描绘了一个神秘的角色对人内心深处的探索与改写的故事。故事发生在一个雨夜，主角经营着一家能够改写人们心灵之书的店铺，奇怪的客人打破了他平静的夜晚。通过彼此的互动，读者可以感受到这位客人内心复杂的情感与过往。小说探讨了人们内心的痛苦与需要被遗忘的回忆，同时揭示了主角对自身情感的认知和转变。特别引人关注的是，故事中提到的删除过往的能力，让人不禁思考，如果可以抹去痛苦，我们是否还会记得自己完整的经历？这是一个关于人类情感、性的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_书页寻香.doc]([改造]_书页寻香.doc)
 | Size            | 28160 bytes                           |
 | MD5             | 1933702a639fbdc7e3be61c360b89a91                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 果壳中的国王                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 心理探索, 性别认同, 自我认知, 情感转变, 内心世界, 性别变身, 奇幻, 都市, 虚拟现实, 二次元, 超自然, 深夜故事, 女性视角, 情感治疗, 改写人生, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

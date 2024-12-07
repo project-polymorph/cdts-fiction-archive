@@ -7,7 +7,7 @@ TXT 下载: [[变身]_（申码文）援救公主（1、2）.docx]([变身]_（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于托曼蒂亚王国的王室故事，主要围绕失踪的公主迪娜的回归展开。在国王康纳尔和王后伊兰娜的统治下，王国一直保持着安宁，但国王却一直感到一种无法言喻的焦虑。在一次接见民众的活动中，国王收到信使带来的关于失踪公主的消息，揭示了她被囚禁的确切位置。国王决心派遣救援队伍去拯救女儿。王后对此消息感到震惊与喜悦，回忆起过去的痛苦时光。同时，瑞娜公主也在计划着如何阻止这个拯救行动，并与巫师拉纳克一同策划。同时，骑士公会在紧急会议上讨论派谁去执行救援任务，最后决定派出五名骑士，这一任务成为了王国未来的重要转折点。整个故事结合了王室政治、失踪与拯救、公主的身份与性别认同、以及角色关系的复杂性，呈现出一个充满幻想与冒险的情节。故事中的角色心理、情感纠葛、以及权力斗争为整部作品增添了层次和深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_（申码文）援救公主（1、2）.docx]([变身]_（�
 | Size            | 54253 bytes                           |
 | MD5             | 8ee19eb93e3724664a3bc8db0ea308c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身小说, 王室故事, 失踪公主, 拯救行动, 骑士, 魔法, 幻想, 家庭关系, 权力斗争, 少女, 自我探索, 身份认同, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

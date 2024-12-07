@@ -7,7 +7,7 @@ TXT 下载: [暗月杀机之幻灭.doc](暗月杀机之幻灭.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档的内容是关于一宗复杂的悬疑案件，主要围绕徐胜平局长及其团队在A市公安局的调查工作。故事开头，徐胜平因林逸逃跑而感到不安，电话联系警员时得知林逸已逃脱。文中详细描绘了警方面对内部电脑系统瘫痪的困境，徐胜平局长和他的团队努力追踪线索，包括调取监控录像，分析证据，并针对与罗立阳案件相关的罗鑫豪展开调查。与此同时，林逸在另一地点计划着他的行动，并与外部势力保持联系，引出更多谜团。案件中涉及名为艾波洛尼娅的女孩，她可能被卷入巫术和暗月事件的复杂漩涡。整篇文章通过人物之间的对话和情节发展，展示了警局内部的紧张气氛以及潜在的危险.
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [暗月杀机之幻灭.doc](暗月杀机之幻灭.doc)
 | Size            | 60416 bytes                           |
 | MD5             | 23c36630da9da593e66c5c67b03a8f68                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 悬疑, 犯罪, 跨性别, 性别认同, 暗月组织, 人物逃脱, 巫术图腾, 心理学, 道德冲突, 都市情节, 惊悚, 内部人员调查                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

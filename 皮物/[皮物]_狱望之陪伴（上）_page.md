@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_狱望之陪伴（上）.doc]([皮物]_狱望之陪伴（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《狱望之陪伴（上）》是一部涉及性别认同、爱情与变身主题的小说。故事围绕主角陈星的内心挣扎展开。他是一位对挚友黄阳宇怀有深厚感情的男生，尽管他与小宇从小一起长大，但对小宇的情感却因小宇与女生俞璇的恋情而变得愈发复杂。故事中，陈星面临着自己的情感困境与社会的压力，同时，他意外地遇到一个名叫‘暗’的神秘存在，暗声称能够利用陈星的执念帮助他达成心中所愿。小说描绘了陈星对于自己的情感、性别认同的探索，以及他渴望改变现状以追求爱情的决心。故事情节充满了内心的冲突与奇幻元素，涉及到的主题包括对挚爱的渴望、自我认同的寻求以及勇敢面对社会的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_狱望之陪伴（上）.doc]([皮物]_狱望之陪伴（�
 | Size            | 34304 bytes                           |
 | MD5             | 8c1fd6ec85f58709724259b9050e45c4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 爱情, 执念, 非人化, 自我探索, 强烈情感, 友谊, 喜剧, 奇幻, 青少年, 内心挣扎, 变嫁, 女体化, 身心灵成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

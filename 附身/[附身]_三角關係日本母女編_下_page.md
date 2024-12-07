@@ -7,7 +7,7 @@ TXT 下载: [[附身]_三角關係日本母女編_下.docx]([附身]_三角關�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一部性转小说的文本，讲述了角色中治与真由美和洋子之间的复杂关系。故事开头，中治因找不到真由美而感到愤怒，认为她已经离开了。在一次与女友洋子的亲密接触后，中治意外地获得了变身的能力，最终变成了真由美，身体和自我认同发生了剧变。文本中描写了变身后的情节，包括真由美与洋子以及其他角色之间的性关系和情感纠葛。本作品涉及多个敏感主题，包括性别认同、自我探索和性行为，富有挑战性和争议性。内容包含部分显著的性暗示和色情情节，适合研究性别流动和从男性视角看跨性别体验的情感冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_三角關係日本母女編_下.docx]([附身]_三角關�
 | Size            | 20628 bytes                           |
 | MD5             | 88e306cad350cdbf53c1f40136cbd475                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 色情情节, 情感纠葛, 性别认同, 自我探索, 奇幻, 都市, 变嫁, 玩弄身体, 暗黑幻想, 性别流动, 夜店文化, 人妖文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

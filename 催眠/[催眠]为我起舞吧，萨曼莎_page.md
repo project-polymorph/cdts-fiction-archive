@@ -7,7 +7,7 @@ TXT 下载: [[催眠]为我起舞吧，萨曼莎.doc]([催眠]为我起舞吧，
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《为我起舞吧，萨曼莎》是一部关于性别转换和身份认同的小说，讲述了一名男孩山姆因催眠术而变成女孩萨曼莎的故事。起初，山姆因职业需要希望通过心理治疗改善自己的投球能力，但意外被催眠成了女高中生，沉醉于女性形象的生活中。他的女友卡洛尔不仅为他的变化感到兴奋，还对此变化表现出极大的控制欲。故事中展现了催眠对人格和性别认同的影响，探讨了自我认知、爱戀与操控之间的复杂关系。文本通过对角色心理和外貌变化的细致描写，描绘出一种在性别和身份界限模糊中悖论的吸引力。最终，萨曼莎在女友的命令下兴奋地享受舞会的乐趣，却也不可避免地陷入了对性别角色的困惑和认同的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]为我起舞吧，萨曼莎.doc]([催眠]为我起舞吧，
 | Size            | 31744 bytes                           |
 | MD5             | 4e6f8e9c938fc8f59b1806df7182e40d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Dani O'Neill                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 性转, 伪娘, 跨性别, 自我认同, 情感操控, 运动员, 舞会, 心理治疗, 性别变化, 青春小说, 虚拟现实, 身份认同, 性别角色, 女性视角, 女性化, 心理实验, 女同性恋, 情感依赖, 华丽装扮                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

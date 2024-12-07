@@ -7,7 +7,7 @@ TXT 下载: [[其他]_神选者——2（略不科学的更新速度预示的是
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一个小说作品的片段，讲述了主角程慎的奇幻经历。程慎，24岁，是一名待业青年，在遇到自称使徒的女人后，被告知成为了神选者。出乎意料的是，他在失去意识后，发现自己已变成了使徒的女人，名为凌美茹。文件中描述了程慎对这次身份转换的震惊，以及他的内心挣扎与对自身新身体的适应。他体验到了凌美茹的记忆，渐渐理解了她的生活背景和即将面临的挑战。程慎在实验室中探索新的身体控制方式，内心对自己失去身份的恐慌逐渐消解，最终选择了意识分割的方式进行控制，确保他能更好地掌握这具躯体。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_神选者——2（略不科学的更新速度预示的是
 | Size            | 18444 bytes                           |
 | MD5             | 301426150eb2132085b4abf8e0f53706                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 神选者, 意识转移, 记忆, 奇幻, 角色变身, 自我探索, 精神冲突, 科幻, 女性身份, 伪娘, 心灵成长, 身份认同, 实验室, 自我适应, 意识分割, 未来科技                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_损友的奇葩超能力（八）.docx]([交换]_损友的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部以性转和换身为主题的小说，讲述了两个男性角色因相信笔仙的预言，决定用剩余的生活费买彩票，却意外卷入一场关于身体交换和性别认同的荒诞故事。故事开始于他们的生活困境，好友林云提议利用一个被富商包养的校花夏树，来解决金钱问题。在进入夏树的公寓后，他们使用了林云的换身超能力，导致角色的身体和意识发生变化。随着身体的交换，男主角的意识慢慢融入夏树的身体中，情节逐渐向不适和意识混乱的复杂方向发展。高老板的出现将事情推进到高潮，男主角被迫进入高老板的掌控之中，故事在性别和欲望的边缘行走，展现出角色在身体、性别和欲望之间的挣扎与探索。文中涉及到强烈的性暗示和成人内容，因此请以科学、客观的态度进行研究和分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_损友的奇葩超能力（八）.docx]([交换]_损友的
 | Size            | 26944 bytes                           |
 | MD5             | 8a96243a33bbd6ac3fc71d5ef3421458                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 换身超能力, 校园, 性别认同, 欲望探索, 强烈性暗示, 青年小说, 二次元文化, 跨性别, 性别流动, 暴露主题, 情感困境, 男性视角, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

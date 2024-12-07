@@ -7,7 +7,7 @@ TXT 下载: [[其他]_洗脚工阿文的故事（申码文修改版）.doc]([其
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一位名叫阿文的清洁工的故事，他在一家按摩店工作，内心渴望能够成为按摩师，亲自接触客人的皮肤。他对这种触感充满幻想与欲望，梦想着能够穿上女性的衣物，为男性客人按摩。故事的情节发展展示了阿文因梦寐以求的机会而感到的强烈激动，他在一次意外中得以为客户按摩，甚至做到了超出他想象的亲密行为。随着故事的深入，阿文使用了一种神秘的乳液，最终实现了女性化的转变，并在面临欲望的强烈驱使下，与客户发生了身体接触，内容涉及性别认同、欲望与自我探索等主题。文中的描写细腻生动，流露出阿文对自己改变的惊讶与对他人皮肤的冲动需求。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_洗脚工阿文的故事（申码文修改版）.doc]([其
 | Size            | 50176 bytes                           |
 | MD5             | a4e384828f0da9f527fcba31361246f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 跨性别, 欲望, 幻想, 按摩, 自慰, 自我认同, 变嫁, 人际关系, 性别探索, 细腻皮肤, 牺牲与满足                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

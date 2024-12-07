@@ -7,7 +7,7 @@ TXT 下载: [[附身]_附身的女高中生与女警.doc]([附身]_附身的女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《附身的女高中生与女警》是一篇有关附身及性别角色转换的原创小说，描绘了一名男主角被女高中生诬告强奸，因而被警方审讯的故事。小说的主线围绕着男主角所面临的危机和他对无辜身份的坚决辩白展开，细腻地揭示了他内心的恐惧与挣扎。故事中的女警角色美丽动人、威严十足，却持有强硬的态度，使男主角感受到巨大的压力。通过警局审讯室的情景设置，小说构筑了紧张而复杂的气氛，突显出男主角的绝望与冤屈。例如，男主角在叙述中表达道：“我才不要就这样的完结！”，展现了他强烈的生活意志与求生欲望。尽管剧情包含了一些肉戏，整体上呈现出对性别认同及当事人心态的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_附身的女高中生与女警.doc]([附身]_附身的女�
 | Size            | 131584 bytes                           |
 | MD5             | bea76d143f58a1e94ce62f5c7047407d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ＣH君                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 警局, 审讯室, 性转换, 伪娘, 强奸指控, 自我辩解, 青春校园, 情感冲突, 性别认同, 人际关系, 女警, 爱情与绝望, 心理斗争, 社会性别问题                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

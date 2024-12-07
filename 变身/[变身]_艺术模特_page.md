@@ -7,7 +7,7 @@ TXT 下载: [[变身]_艺术模特.docx]([变身]_艺术模特.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《艺术模特》讲述了一位名为查尔斯·约翰逊的男模特儿的经历。他被模特儿中介派往一位艺术家盖伊·菲利普斯的工作室，进行一天的模特工作。在故事中，查尔斯对自己模特生涯并不自信，并透露自己只有172cm的身高，尽管努力健身也未能取得明显的成果。进入艺术家的工作室后，查尔斯被引导进行一系列可能涉及色情艺术的拍摄。这位艺术家盖伊提到他专注于创作强烈的色情作品，并对此感到兴奋，但同时也暗示对查尔斯有些其他的要求。故事中还涉及了一种魔法，将查尔斯固定在床上，令他无法动弹，并通过盖伊的指令进行绘画。整个过程充满了神秘感与探索自我的主题，展示了艺术和个人之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_艺术模特.docx]([变身]_艺术模特.docx)
 | Size            | 37800 bytes                           |
 | MD5             | 1f3affdda8b7485ca55cff9d9b1ba3d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 男模特, 艺术, 魔法, 色情艺术, 自我探索, 性别认同, 角色扮演, 维多利亚时代, 伦敦, 二次元, 变身, 强烈情感, 男性视角, 成人内容, 创造与表现, 模特工作, 艺术家与模特关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

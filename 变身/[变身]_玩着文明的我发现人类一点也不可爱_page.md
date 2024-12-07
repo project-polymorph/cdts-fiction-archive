@@ -7,7 +7,7 @@ TXT 下载: [[变身]_玩着文明的我发现人类一点也不可爱.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文属于一部跨性别与变身题材的小说，故事设置在一个遥远的未来，设定为AD4000年。故事的主人公经历了一次神秘的穿越，发现自己身处一个原始社会的环境中，并逐渐意识到自己的性别和身份发生了变化。在故事中，主角一开始以男性身份存在，但随着事件的发展，他意识到自己似乎变成了一位女性，并且作为一个残暴的统治者在这个原始村庄中生活。小说中融入了科技树的概念，主人公计划推动社会的发展与文明的进步，设想通过研发农业、陶器等技术来改善村庄的生活。次要角色包括一群在村子里工作的女人和接受命令的跟班，描绘了原始社会中人类与自然的互动关系。整篇小说充满了自我探索与性别认同的主题，同时涉及了科技与社会进步的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_玩着文明的我发现人类一点也不可爱.docx]([�
 | Size            | 19100 bytes                           |
 | MD5             | 0616ebb9f766d054c9ab41be67ad2aac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 科技树, 古代社会, 自我探索, 性别认同, 农业发展, 陶器制作, 统治者, 原始文明, 女性主义, 穿越小说, 二次元, 异世界, 幻想, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星际争霸同人_【第二章_东山再起】.docx]([皮
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《星际争霸》同人小说的第二章，主要描述了时间背景设定在公元2504年，叙述了角色雷诺的内心冲突与对凯瑞甘的思念。故事伊始，雷诺在实验室醒来，发现凯瑞甘已离开，内心充满忧伤。他与船员们的对话揭示出凯瑞甘的离去并非如他所想的那样简单，她留下了泽拉图的迷你神器，暗示着未来更大的计谋和力量的角逐。文中还涉及到推翻蒙斯克暴政的计划与游击战争的准备，以及凯瑞甘重掌虫群的决心，并透过与伊兹莎的对话展现她与吉姆雷诺之间复杂的关系。此故事不仅探讨了权力与背叛，还聚焦在角色的自我认同与转变，具有明显的跨性别与变身主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星际争霸同人_【第二章_东山再起】.docx]([皮
 | Size            | 29353 bytes                           |
 | MD5             | 42e621aa37f7782279b6fc256cd2c6be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2504-09                                 |
+| Tags            | 星际争霸, 同人小说, 凯瑞甘, 变身, 跨性别, 异虫, 权力斗争, 自我认同, 爱情, 虫群, 吉姆雷诺, 迷你神器, 游击战争, 变嫁, 强权, 性别转换                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

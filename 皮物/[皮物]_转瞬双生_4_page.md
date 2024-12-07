@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_转瞬双生_4.docx]([皮物]_转瞬双生_4.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《转瞬双生》描绘了角色李茉莉的心理变化及其家庭关系，讲述了其作为徐平代入李茉莉身份后的生活体验。在与母亲王洁的对话中，徐平通过李茉莉的记忆应对家庭中的矛盾，尤其是她和父亲李顺国之间的复杂关系。故事中探讨了自我认同及家庭和解的问题，李茉莉虽然外表光鲜，内心却背负着过去的阴影。经过职场挑战和个人努力，她逐渐展现出自己的能力，赢得了同事们的信任和父亲的赞许，背景交织着对性别认同与角色扮演的深刻思考，满足了对身份和自我实现的渴望。同时，文中也有描述徐平的性别转换经历及他对李东亚的关系困惑，隐含着情感、性别与自我认同的多重主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_转瞬双生_4.docx]([皮物]_转瞬双生_4.docx)
 | Size            | 31927 bytes                           |
 | MD5             | 21832f9feefc4f1aac3a61fbaedca792                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 自我探索, 家庭关系, 性转, 职场挑战, 情感纠葛, 女性视角, 成长小说, 社会心理, 催眠, 强烈的自我意识, 办公室恋情, 变嫁, 大学聚会, 父女关系, 女性 empowerment                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

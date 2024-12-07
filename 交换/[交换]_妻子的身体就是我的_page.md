@@ -7,7 +7,7 @@ TXT 下载: [[交换]_妻子的身体就是我的.docx]([交换]_妻子的身体
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件《妻子的身体就是我的》描绘了一对姐妹之间的复杂关系。故事发生在沙织和真由之间，沙织是一个结婚的人妻，而真由则是青春期的女高中生。姐妹之间的关系受到家庭变故的影响，尤其是真由因父亲再婚而感到孤独和被边缘化。文中沙织关心妹妹的情况，提到妹妹在新家庭中遭受不公平待遇，并且有严重的心理压力。故事通过真由对新母亲和继父的困扰，以及沙织对公公修的骚扰，展现了深层的社会问题与家庭伦理的冲突。文件内容中描绘了姐妹之间的温情与支持，以及面对外界压力的无奈和抵抗，情节含有性暗示与家庭纠葛的元素，适合进行心理与社会学方面的研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_妻子的身体就是我的.docx]([交换]_妻子的身体
 | Size            | 86103 bytes                           |
 | MD5             | c8069349754ca6c41ee40ab1c1b81ec3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 家庭关系, 心理冲突, 性骚扰, 青春期, 情感支持, 姐妹, 社会问题, 家庭伦理, 身份认同, 情感纠葛, 成年女性, 叛逆, 女性视角, 角色转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

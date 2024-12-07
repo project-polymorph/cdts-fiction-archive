@@ -7,7 +7,7 @@ TXT 下载: [姐姐的旅行.doc](姐姐的旅行.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《姐姐的旅行》讲述了一个关于姐姐和妹妹的故事，围绕着姐姐葵和她的妹妹优奈之间的互动展开。故事开始时，优奈正在学习，姐姐葵走进房间与她寒暄，并关心她的学习状况。在轻松的对话中，葵提到计划与男朋友前往北海道旅行，但因父母严厉的管理，无法单独出行。于是，葵提出一个大胆而富有创意的主意，利用一件与男友好友三木烟一起合作的变身皮衣，借此让三木烟假扮成葵去旅行，而优奈则帮助掩饰这一行为。优奈对此表示难以置信，并感到不安。姐姐的大胆计划引发了一系列对话和回忆，让优奈对姐姐的生活和选择有了新的理解，同时面临着家庭关系和自我认知的挑战。文本中涉及性别转换和变装的元素，使故事更具幻想色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [姐姐的旅行.doc](姐姐的旅行.doc)
 | Size            | 125440 bytes                           |
 | MD5             | f8f5937ae2095c6b8414e1d4a5e1c076                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 变身, 家庭关系, 两姐妹, 旅行, 自我认知, 年轻人, 幻想, 爱情, 性别认同, 大学生活, 隐秘面貌, 心理变化, 亲密关系, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

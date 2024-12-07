@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_蛇皮（短篇）（一品烟灰作品）.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说《蛇皮》由作者一品烟灰撰写，内容围绕一个名为许显的青年，他因母亲病重而进入深山的蛇涧寻找传说中的百年老蛇以取得药引。在蛇涧深处，他发现了一条长约三丈的青蛇皮。在好奇心驱使下，许显穿上了这条蛇皮，奇迹般地化为一个绝美的女子。故事描写了许显从人类男性转变为女性的过程，以及他面临的身份和家庭的困境。最终，在许显的母亲去世后，他不得不接受这一变化，以女子的身份生活。小说探讨了性别认同、自我探索，同时涉及到带有神秘色彩的变身情节，生动再现了角色内心的挣扎与情感的复杂。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_蛇皮（短篇）（一品烟灰作品）.docx]([皮物]_
 | Size            | 15834 bytes                           |
 | MD5             | a243f116ac4506883caf75fa59219e65                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 一品烟灰                               |
+| Region          | 中国大陆                               |
+| Date            | 2011-07-24                                 |
+| Tags            | 变身, 跨性别, 性别认同, 爱情, 神秘, 妖怪, 自然, 自我探索, 情感纠葛, 传统文化, 奇幻, 小说, 穿越, 少年, 母子情深, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

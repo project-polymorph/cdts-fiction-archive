@@ -7,7 +7,8 @@ TXT 下载: [[其他]_我的脑内绝对选项正在全力妨碍我的平静生�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档摘录于一部名为《我的脑内绝对选项正在全力妨碍我的平静生活》的小说，讲述了一名男性角色在经历性别转换后的日常生活与心理感受。在这段文字中，主角经历了一系列困难的衣物选择，特别是在学校的着装要求上，描绘了他对自己女性身份认同的探索与纠结。主角忧虑于如何优雅地穿戴女性校服，并详细描述了穿戴胸罩的过程，反映了他在生理和心理上产生的多重冲突。
+文中涉及性别认同的描绘以及对自身变化的无奈与接受，同时也描写了与妹妹及同学之间的互动，展现了一些幽默与性暗示的场景。例如，主角对于胸部的敏感感受，以及他与妹妹之间的对话中带有调侃之意的性暗示。这段文字中涉及较为明确的性别转换主题，以及生理差异带来的心理挑战，适合研究性别认同和自我探索的相关主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +22,10 @@ TXT 下载: [[其他]_我的脑内绝对选项正在全力妨碍我的平静生�
 | Size            | 53248 bytes                           |
 | MD5             | 207ea709d6e7110b370e231ec52c8180                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 性转小说, 伪娘, 跨性别, 校服, 胸罩, 变态妹妹, 校园生活, 心理冲突, 幽默, 性暗示, 青春期, 身份认同, 女性化, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

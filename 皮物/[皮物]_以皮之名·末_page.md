@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_以皮之名·末.docx]([皮物]_以皮之名·末.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档名为《以皮之名·末》，作者Rockx3，内容描绘了一个女性专属的SPA环境所带来的感官冲击与心理感受。作品通过生动的细节描述了女子更衣室的场景，主要集中在一个男主角变身为女性后体验女性世界的过程。该文用大量的感官细节如女孩们更衣的状态、她们的体香，以及主角初次看到女性身体的惊叹等，展现了强烈的性别认同与身体探索的主题。文本中不乏对女性裸体的描述，表现出一种较为公开的性别角色与自我认知的相关冲突。而当主角完全接受了自己的女性身份时，这种心理的愉悦感也隐隐透出自我认同的解放感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_以皮之名·末.docx]([皮物]_以皮之名·末.docx)
 | Size            | 30852 bytes                           |
 | MD5             | 224765f1aaf30d93d3550193e2e40fe3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Rockx3                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身, 女性专属, SPA, 女子更衣室, 男性视角, 身体探索, 自我认同, 强烈的性别认同, 感官刺激, 恋慕, 青春期探索, 角色转换, 心理冲突, 内心挣扎, 欲望, 情色, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

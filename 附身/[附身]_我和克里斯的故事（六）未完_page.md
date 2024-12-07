@@ -7,7 +7,9 @@ TXT 下载: [[附身]_我和克里斯的故事（六）未完.doc]([附身]_我�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一名科学家与智脑克里斯进行灵魂附身实验的故事，情节涉及灵魂与肉体的分离、人工生命的培育等科幻元素。故事的开头描绘了主角在别墅阳台上遥望海面，思考自己在实验中掌握的灵魂技术。主角逐渐揭开水晶棺的奥秘，该棺材藏有一名美丽少女的躯体，其来源于历史神秘的核实验。随着实验的推进，主角试图利用沃登克里弗塔的技术来创造超能粒子流，成功轰击水晶棺，得知其内部竟无法被摧毁。最终，文中提到科学家成功培育出一名与水晶棺中少女相似的人工生命体，此生命体融入了主角及其伴侣的DNA，展示出超乎寻常的智力与体力，然而仍处于无灵魂的沉睡状态。
+
+整个故事围绕科技、灵魂转移及性别认同展开，探讨了相关伦理与科学的极限，留下了对未知的思考与恐惧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_我和克里斯的故事（六）未完.doc]([附身]_我�
 | Size            | 36352 bytes                           |
 | MD5             | b09564b1899bb3244beca436d5abcf8d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂附身, 超能粒子流, 水晶棺, 人工生命, 科学实验, 性别认同, 灵魂与肉体分离, 科幻, 沃登克里弗塔, 智脑克里斯, DNA复制, 未知科技, 神秘少女, 自我探索, 科技与伦理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

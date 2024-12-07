@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_他和她的实验室(第三四章).doc]([皮物]_他和�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《他和她的实验室》的第三、四章，内容围绕主角张婷婷与闺蜜李月容的生活和情感纠葛展开。张婷婷是一名麻醉师，勤奋工作并密切关注闺蜜的健康状况。李月容近期因奇怪的病痛而被婷婷关注。随后的情节转向张婷婷复杂的家庭背景，包括她与父亲、继母及同父异母姐弟之间的矛盾。情节中涉及到张小菲和张小娅的暗战，结果演变为一起悬疑且极具冲击力的剧烈事件，其中不乏色情和惊悚元素。故事发展中出现的各种人物关系、心理描写以及事件发展，显示出对性别认同与家庭关系的深入探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_他和她的实验室(第三四章).doc]([皮物]_他和�
 | Size            | 36864 bytes                           |
 | MD5             | 7a26b04d4ec593bba7b083d0c9dcd1ea                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变装, 强奸, 年龄差, 调教, 反转, 奇幻, 都市, 心理探讨, 家庭纠纷, 性别认同, 人性扭曲, 惊悚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

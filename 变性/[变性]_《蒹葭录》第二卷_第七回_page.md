@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第七回.doc]([变性]_《蒹葭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《蒹葭录》第二卷第七回的章节，主要讲述了在藏剑山庄内，一场因离魂教的白愁与宋沚陵、许子敬等人之间的争斗而引发的故事。故事围绕宋沚陵利用高强的内功逼出毒素，联手他人对抗离魂教的圣使们而展开。章节中描绘了激烈的战斗场景，尤其是宋沚陵与司恨之间的较量，展现了双方的武功与策略。此外，文中多次提到离魂教的内斗，书中人物错综复杂，各个角色在危机中的抉择和自我实现也成为一个重点。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第七回.doc]([变性]_《蒹葭
 | Size            | 52224 bytes                           |
 | MD5             | 737523af9e1b82a8e2be93b6e84c8531                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 武侠, 内功, 阴谋, 离魂教, 侠义, 对战, 角色扮演, 自我认知, 江湖, 恋爱, 冒险, 阴暗势力, 毒术, 战斗情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_秘密的隱形眼鏡(政美�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身小说系列之一，标题为《秘密的隐形眼镜（政美抢走了隐形眼镜）》。故事围绕男主角良晴与其朋友芳雄的恶作剧展开，在一次体育课上，良晴复制了他的女朋友政美的身体，与芳雄一起进行恶作剧。正当政美感到身体被他人触碰之际，她并不知道这一切都是良晴和芳雄的计划。随着故事的推进，政美逐渐意识到自己身体的异常反应，内心充满疑惑，复仇的念头也悄然升起。作品探讨了性别认同、自我意识的探索，以及在性别转化后可能面临的复杂情感与道德困境。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_良晴與芳雄系列之一_秘密的隱形眼鏡(政美�
 | Size            | 76288 bytes                           |
 | MD5             | be20b9262f13318b28ff8e00b069c813                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 恶作剧, 校园, 身体复制, 性别认同, 自我探索, 幻想, 青春期, 友情, 复仇                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

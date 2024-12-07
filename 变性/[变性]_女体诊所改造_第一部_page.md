@@ -7,7 +7,7 @@ TXT 下载: [[变性]_女体诊所改造_第一部.docx]([变性]_女体诊所�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一个描绘性别转换情节的小说，讲述了主人公在一场感冒后，意外进入一家女体诊所并接受治疗。主人公由于生病而接受了感染性疾病的注射，随后神奇地经历了性别转变，身体逐渐女性化，与此同时也经历了性别认同的困惑和自我探索。小说中，主人公的身体从男性转变为女性，感受到乳房的存在和女性化的外貌，这一过程伴随着对自我身份的质疑与抗拒。最终，主人公决定回诊所寻求帮助，医生告知其变形的后果，面临着手术选择。整个故事通过细腻的心理描写和生动的情节发展，探讨了性别认同、身体变化与自我接受的复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_女体诊所改造_第一部.docx]([变性]_女体诊所�
 | Size            | 37860 bytes                           |
 | MD5             | 699cdb26c1d1354b63b5331f5873ed4c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 自我认同, 生理转变, 医患关系, 女性化, 身体改变, 心理冲突, 性别探索, 医院诊所, 医疗奇迹, 主人公的挣扎, 性别认同, 小说, 二次元, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

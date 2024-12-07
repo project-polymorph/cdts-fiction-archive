@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_富士山-被压抑的暴怒.doc]([皮物]_富士山-被�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《富士山-被压抑的暴怒》，内容由两部分构成。第一部分描述了奈良的一个重要人物正在进行激昂的演讲，围绕着自由和民主的主题，背景显示出日本政治氛围的紧张与复杂。在热情叫好的粉丝中，一位身穿灰衬衫的摄影师走向演讲者，却意外暴露出一把手枪，随后发生激烈冲突，演讲者受到重伤。此段情节充满悬念，体现了主人公的内心冲突和外部压力。第二部分则转向主角徹也的背景故事，他曾是海上自卫队的一名成员，并因退伍回到美丽的故乡，担任一家精密钢铁公司班组长，展示出他经历的职场生活和个人成长。文中对于富士山作为背景的铺陈，暗含着对自然力量与人类意志的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_富士山-被压抑的暴怒.doc]([皮物]_富士山-被�
 | Size            | 77824 bytes                           |
 | MD5             | 0312e78f3e625837aea8eba7f0302fe7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 日本                               |
+| Date            | 2022-07-08                                 |
+| Tags            | 伪娘, 变身, 跨性别, 暴力事件, 政治演讲, 怀旧, 自我认同, 职业生涯, 成长故事, 海上自卫队, 富士山, 职场竞争, 枪战, 情感冲突, 家族责任                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

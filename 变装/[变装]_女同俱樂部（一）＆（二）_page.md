@@ -7,7 +7,9 @@ TXT 下载: [[变装]_女同俱樂部（一）＆（二）.doc]([变装]_女同�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含两部分内容，围绕一个女同俱樂部的私人调查展开。第一部分中，主角是一名私家侦探，他接受了洪蕾的委托，调查该俱乐部内发生了一系列女会员失忆的事件，会员们在休息后发现自己受到了迷药，甚至有多位会员意外怀孕。洪蕾揭示了该俱乐部的特殊性，强调其服务对象为女同性恋，且会员多数隐私需求高，调查的秘密性与复杂性也因此增加。
+
+第二部分描述侦探为调查所做的准备工作，他计划假装成一位女大学生混入俱乐部进行接触。在化妆过程中，侦探展示了其为隐藏生理性别所做的详细准备，包括选用特殊的化妆技巧以及服装，展示了一种性别角色扮演的细致过程。在角色塑造的同时，也揭示了他内心的挣扎和挑战，体现了对角色认同的深刻思考。文中充满了两性关系及性别认同等深刻议题的探讨，为研究性别认同和跨性别主题提供了丰富的素材。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_女同俱樂部（一）＆（二）.doc]([变装]_女同�
 | Size            | 39424 bytes                           |
 | MD5             | 50afb733f3e2a49d0610f62263761dfe                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 女同, 私家侦探, 迷药, 性别认同, 女性角色扮演, 侦探小说, 悬疑, 调查, 青春校园, 秘密, 隐私                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

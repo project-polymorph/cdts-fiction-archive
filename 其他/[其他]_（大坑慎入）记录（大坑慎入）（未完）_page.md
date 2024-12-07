@@ -7,7 +7,7 @@ TXT 下载: [[其他]_（大坑慎入）记录（大坑慎入）（未完）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档记录了一名生物工程师沈奕在一个全球前100强企业的实验室中进行的关于新发现物种D55的研究经历。内容详述了沈奕的入职情况、与同事的互动、对D55的特性观察以及实验的过程。他注意到D55与普通人类有显著的生理差异，如没有完整的消化系统和异常的体温，通过X光发现它的内部结构比人类简单。此外，D55具备改变形态的能力，沈奕在研究过程中逐渐意识到其可能对生物学和社会产生重大的影响。文中提到沈奕对D55的吸引力和同行念及其前辈的成就，同样也表达了对未来实验的期待和对工作的重视。整体上，文档探讨了科学研究中的自我认知、专业挑战以及生物伦理等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_（大坑慎入）记录（大坑慎入）（未完）.doc
 | Size            | 64512 bytes                           |
 | MD5             | 668e6e8ad64eabbbc6c7645018353879                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2012-05-26                                 |
+| Tags            | 生物工程, 性别认同, 实验室研究, 跨性别, 自我探索, 奇幻元素, 物种D55, 科学发现, 科学伦理, 研究人员                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

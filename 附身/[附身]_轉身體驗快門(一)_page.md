@@ -7,7 +7,7 @@ TXT 下载: [[附身]_轉身體驗快門(一).docx]([附身]_轉身體驗快門(
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一名大学生达伦与一台特殊照相机的奇妙遭遇。达伦在偶然间购买了一台功能齐全但具有不明能力的相机，经过一段时间的使用后，他发现这台相机竟然能够让他的意识进入他拍摄的人的身体。在一次拍摄健身女孩的过程中，达伦触碰了相机上的一个选项，结果他的意识被传送到了一个陌生女孩的身体里。小说深入探讨了达伦在面对自己身体变化时的困惑与惊讶，描述了他意识逐渐适应和感知女性身体的过程，其中包括对身体的认知与反思。达伦迫切想要寻找回到自己身体的方法，同时也为这个经验感到兴奋与不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_轉身體驗快門(一).docx]([附身]_轉身體驗快門(
 | Size            | 21149 bytes                           |
 | MD5             | fbc43903b0c11c6b2aba70282d2141cb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身小说, 意识转移, 自我认知, 大学生活, 特殊能力, 健身女孩, 身体探索, 心理冲突, 奇幻, #独特相机, 逃离身体, 第一人称视角, 女性身体, 奇幻体验, 异界感知, 青春挑战                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

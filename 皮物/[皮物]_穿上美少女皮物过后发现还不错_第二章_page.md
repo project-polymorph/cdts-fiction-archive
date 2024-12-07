@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_穿上美少女皮物过后发现还不错_第二章.doc](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为伪娘 TS 变身与跨性别主题小说的第二章。故事围绕着男孩天拟和他所穿着的女性校服角色殃烨展开，组织了一个虚构的情节描述。殃烨因生病而请假并在外活动，他的朋友天拟不得不作为他的陪伴。故事中，殃烨穿上一件符合自己的校服，与天拟的一系列互动让他感受到自己作为女孩子的身份，甚至在意图玩笑时让周围的女孩们误以为他们是一对情侣，造成了一场误解和混乱。文中充满了幽默和性别认同的探索，尤其是当殃烨与鹤子老师不断进行互动时，蕴含了对性别认同的探讨。文中更有不少关于性别转变带来的身体感受和情感波动的细致描写，展现了角色内心的冲突与自我探索的过程。也出现了一些含糊不清的性暗示与调侃，使得整体内容颇具娱乐性和挑战性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_穿上美少女皮物过后发现还不错_第二章.doc](
 | Size            | 37376 bytes                           |
 | MD5             | 72ce584b80ae8178c14b5d83eac6c344                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 跨性别, 校服, 角色扮演, 自我探索, 青春校园, 性别认同, 情感纠葛, 幽默, 虚构故事, 性暗示, 饮食文化, 恋爱关系, 社交误解, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

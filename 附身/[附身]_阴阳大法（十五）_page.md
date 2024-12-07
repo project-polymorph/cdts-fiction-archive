@@ -7,7 +7,7 @@ TXT 下载: [[附身]_阴阳大法（十五）.docx]([附身]_阴阳大法（十
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一本以性转与跨性别为主题的小说，故事围绕主角赵美妍展开。赵美妍是一位生活富裕的女性，原本与女儿林诗琪享有幸福的生活。然而，一次意外使她的生活陷入绝望，她发现女儿的身体竟被一个恶魔占据。这个恶魔能够进入他人的身体，赵美妍在被恶魔控制的过程中经历了悲惨与羞辱。文件详细描绘了赵美妍在恶魔掌控下的无奈与痛苦，以及她对恢复自由的渴望。在故事的发展中，赵美妍逐渐从恶梦中苏醒，并在一次偶然的机遇中获得了身体的控制权。此时，她意识到女儿仍被控制，并向救命恩人求助。小说中涉及性别认同、自我探索以及母女关系等主题，情节充满了幻想与模糊的性别界限，包含了一些成人向的描写和情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_阴阳大法（十五）.docx]([附身]_阴阳大法（十
 | Size            | 24019 bytes                           |
 | MD5             | 33442710b5df339568b38c32f1101747                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 恶魔附身, 母女关系, 自我探索, 悲剧, 幻想, 成人向, 心理冲突, 伦理道德, 身份认同, 家族, 失去与重新获得, 权力转移, 异界, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

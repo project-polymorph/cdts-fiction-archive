@@ -7,7 +7,7 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第三回.doc]([变性]_《蒹葭
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《蒹葭录》第二卷的第三回讲述了宋沚陵与朱兴言间的复杂关系，以及他们在客栈乱性的后果。故事中涉及不明的刺客袭击，幸赖扶桑义士高川疾风的相助，方未遭受重创。段落描述了宋沚陵的师太对他的严格教诲，以及师太与一名壮年男子间的冲突和过往恩怨的复杂情感。文中多次提到潜龙穴的神秘与宝物的困扰，其中潜龙穴与龙腾之池的传说交织，复杂的武林关系与人物之间的爱恨情仇相互影响，展示了故事深厚的情感及多层次的剧情发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_《蒹葭录》第二卷_第三回.doc]([变性]_《蒹葭
 | Size            | 56320 bytes                           |
 | MD5             | 3689dabe472170e965fc97e8a32a4430                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 武侠, 恋爱, 剧情, 师徒关系, 江湖恩怨, 自我认知, 性别认同, 英雄救美, 迷惑, 催眠, 潇洒自如, 神秘宝物, 古代, 潜龙穴                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

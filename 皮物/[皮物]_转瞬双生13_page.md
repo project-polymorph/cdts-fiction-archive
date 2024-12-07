@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_转瞬双生13.docx]([皮物]_转瞬双生13.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《转瞬双生13》是一个围绕角色茉莉和她的朋友婉瑜在泰国旅行的故事，描绘了她们在异国他乡的游玩经历和友情。在这个故事中，茉莉逐渐解锁关于自己过去的记忆，并与婉瑜亲密互动，共同体验泰国的文化与风景。故事中涉及了诸如许愿、情感观察等微妙的主题，特别是茉莉与男友东亚之间的关系，从一开始的分手到后来的反思和感悟。与此同时，故事也涉及到复杂的人际关系，婉瑜对东亚的负面观点与茉莉的不同反应，以及其他角色的嫉妒与爱慕心理。
+
+在一个轻松愉快的氛围下，年轻人的生活敏感而又富有张力，他们在夜市的闲逛中相互观察、自我发掘。文中对角色的内心情感变化及性别认同的探索都给予了较深刻的描写，尤其在对韩俊对婉瑜的幻想中，展现了对身份与欲望之间的冲突。整体来看，文本结合了旅游的欢乐与性别与情感的复杂性，将受众带入一个充满异国情调的故事中。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_转瞬双生13.docx]([皮物]_转瞬双生13.docx)
 | Size            | 26355 bytes                           |
 | MD5             | a7d242c6000d563e6c6d8e704a52eb8c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 旅行故事, 青春爱情, 泰国文化, 自我探索, 友谊, 二次元, 心理描写, 性别转换, 男性视角, 女友关系, 幻想心理, 乙女游戏, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

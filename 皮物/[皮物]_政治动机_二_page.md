@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_政治动机_二.doc]([皮物]_政治动机_二.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇包含多元性别主题的小说，描绘了一段复杂的情感纠葛和背叛故事。故事围绕女主角苏茜及其丈夫约翰展开，苏茜对丈夫的怀疑及其后果使整部小说充满紧张和戏剧性。第一章中，苏茜对约翰的忠诚产生了疑虑，她的直觉让她开始怀疑丈夫可能背叛自己。随着剧情的发展，苏茜最终发现了约翰与她的好友保罗之间的秘密关系，这使她陷入绝望和愤怒。小说探讨了性别认同、自我探索和人际关系中的背叛与忠诚的主题。作者通过苏茜的痛苦和挣扎，传达了对爱和信任的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_政治动机_二.doc]([皮物]_政治动机_二.doc)
 | Size            | 49664 bytes                           |
 | MD5             | 0be00110e08605773b28648016f0d177                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 背叛, 性别认同, 情感纠葛, 自我探索, 女性视角, 婚姻危机, 同性恋, 亲密关系, 出轨, 情感伤害, 三角关系, 痛苦, 绝望, 求助                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

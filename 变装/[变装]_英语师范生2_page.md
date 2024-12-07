@@ -7,7 +7,7 @@ TXT 下载: [[变装]_英语师范生2.docx]([变装]_英语师范生2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于伪娘与变装主题的小说，而故事围绕性别身份和日常生活的交织展开。主角以女性身份出现在了一个高官家庭的餐桌上，餐桌上的对话与互动充满紧张和隐秘的性暗示。主人公在陌生环境中感到自我认同的冲突，而餐桌上的人们一方面充满礼貌，另一方面又展现出对主角身材的关注与性欲的暗示。一方面，主角被要求融入这个新环境，另一方面又不断地遭遇性别角色的挑战。文中提到的情趣道具和令人不安的肢体接触，使情节充满借由超现实性别转换所带来的复杂情感和生理反应。整个故事上传递了一种强烈的性别探索的主题，并通过角色的互相影响推动情节发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_英语师范生2.docx]([变装]_英语师范生2.docx)
 | Size            | 16859 bytes                           |
 | MD5             | 26c9bd44edc321bc5398199e87f29338                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 性别认同, 性别转换, 教师生活, 高官家庭, 隐秘性接触, 情趣道具, 社会交往, 自我认同, 日常生活, 反转剧情, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

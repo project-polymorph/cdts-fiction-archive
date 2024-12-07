@@ -7,7 +7,7 @@ TXT 下载: [[其他]_毒液（一）.docx]([其他]_毒液（一）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《毒液（一）》的第一部分，讲述的是小紫与其母亲张静音之间复杂且扭曲的关系。故事开场以宁静的城市景象作为背景，随后迅速转入充满异样氛围的家中，小紫正在被一个神秘黑影侵犯。文本富含性暗示和强烈的情色描写，包括对小紫母亲的外貌及职业的细致描写，尤其是其养成的高贵气质和对小紫的吸引力。在故事的发展中，小紫在受到黑影K的影响下，逐渐陷入自我认知的危机和欲望的迷失。整段情节通过小紫的心里独白和行为描写，展现了她与母亲之间的禁忌与冲突，以及黑影对她心智的操控。文本多次提到的黑色液体和虫繭暗示了更深层次的象征意义，预示着接下来的情节发展将围绕母女关系及性别认同的复杂性展开。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_毒液（一）.docx]([其他]_毒液（一）.docx)
 | Size            | 17412 bytes                           |
 | MD5             | 8155329c2b6a571bdae318821238b2aa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性转, 禁忌恋, 吸引力, 自我认知, 扭曲关系, 黑暗幻想, 怪异情节, 黑色液体, 虫繭, 情感冲突, 母女关系, 阴暗心理, 异样爱恋, 欲望迷失, 强烈情色, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

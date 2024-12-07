@@ -7,7 +7,7 @@ TXT 下载: [[变身]_《梦中的魔法少女》第一章（大概从第5章开
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《梦中的魔法少女》的第一章，主要讲述了主人公李明浩的梦境与现实交织的奇幻经历。故事开始于李明浩清晨醒来，发现自己总是做一个关于魔法少女加奈美的梦。每当梦中，李明浩化身为加奈美，并经历了一系列奇幻与调教的情节，但却无法操纵加奈美的身体。这种奇特的梦境让李明浩倍感困扰，却又无可奈何地习惯了这种生活。在此章中，李明浩与加奈美的初次相遇尤为引人注目，二者在涟漪中相连，李明浩对加奈美的身份和自己与她的奇异连接充满疑问。加奈美不仅在梦中与李明浩形影不离，现如今还以一种奇特的方式出现在他的现实生活中。随着故事发展，李明浩对加奈美身世和他们的相互连接展开好奇，同时感受到来自加奈美的奇异影响与刺激。这篇小说将魔法少女的奇幻萌趣与青年男性的自我探索结合，是一部充满幻想和情感矛盾的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_《梦中的魔法少女》第一章（大概从第5章开
 | Size            | 39936 bytes                           |
 | MD5             | fc45914f782034e562c2d9b05f1bc35a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔法少女, 梦境, 变身, 二次元, 跨性别, 奇幻, 调教, 自我探索, 幻想, 平行世界, 伪娘, 校园, 青春, 性别认同, 师徒, 女仆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

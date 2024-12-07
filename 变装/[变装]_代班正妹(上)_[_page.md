@@ -7,7 +7,7 @@ TXT 下载: [[变装]_代班正妹(上)_[.docx]([变装]_代班正妹(上)_[.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个年轻男性正在经历的性别认同和变身幻想的小说篇章。故事讲述了主角对周围环境中女性的吸引和自身性欲的纠结。他在回家的路上，忍不住偷偷观察路边的檳榔摊的美女，幻想着她们的身材与形象，随即陷入了个人的性幻想之中。随着情节发展，主角进入了一处休息室，其内有供女性着装的衣物和配件。在充满诱惑的环境里，主角不由自主地探索和体验着女性化的情感与身体反应。互动过程中，他的心理不断挣扎，从男生的角色向伪娘形象的转变，最终导致了性别身份的模糊与混乱。最后，主角面临着与一位粗鲁男子的对话，展现了男性与女性之间的复杂关系和性别认同的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_代班正妹(上)_[.docx]([变装]_代班正妹(上)_[.doc
 | Size            | 20080 bytes                           |
 | MD5             | 48379c26bddf0c83db0c57f707c8bece                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | maya_cat                               |
+| Region          | 台湾                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身幻想, 伪娘, 性转, 性欲幻想, 女性化经历, 情欲, 自我探索, 心理挣扎, 青春期心理, 禁忌恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

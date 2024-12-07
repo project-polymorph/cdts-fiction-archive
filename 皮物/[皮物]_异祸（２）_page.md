@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_异祸（２）.docx]([皮物]_异祸（２）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《异祸（2）》，内容围绕一个涉及复杂的性别认同与心理冲突的故事展开。故事的主角江语宁在浴室中自我探索，承认自己的身体与欲望，呈现出对自身性感特征的沉迷和对母亲形象的性幻想。描述详细到江语宁对自己身体的细致描写，以及使用母亲的皮肤进行自我愉悦的情节，展现了角色之间交错的性别与身份流动。
+
+文本中有多次涉及江语宁自慰的描绘，展现了她对自身性欲的强烈意识和接受。同时，故事还涉及到李异与李欣之间的复杂家庭关系和性幻想，这种近亲关系的设定进一步深化了角色的心理挣扎。通过层层推进的情节，读者能感受到角色在性别转换和个人认同上所经历的困惑与探索。
+
+总体来看，这篇小说通过性别与欲望的探索，表现了复杂的人际关系和身心的融合，涉及敏感话题，可能会引发讨论与研究。适合对性别研究、心理学及文学有深入兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_异祸（２）.docx]([皮物]_异祸（２）.docx)
 | Size            | 27449 bytes                           |
 | MD5             | 583539e381eff23e2eabbb8f6f62ef72                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 家庭关系, 近亲相姦, 性幻想, 自慰, 母亲形象, 心理冲突, 二次元小说, 色情内容, TSF, 角色变身, 淫荡, 强烈自我意识, 欲望冲突, 女性视角, 现代家庭, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

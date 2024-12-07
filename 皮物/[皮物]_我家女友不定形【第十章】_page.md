@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我家女友不定形【第十章】.doc]([皮物]_我家�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件第十章讲述了一位名叫李林的角色与他的女友陆雪音的一次逛街经历。故事中，李林尝试穿着皮物女装，体验女性的感觉，与陆雪音一同迎接外面的世界。陆雪音兴奋地邀请李林陪她逛街，尽管李林对这种活动并不感兴趣，但在女友的热情请求下，他却逐渐适应了女装的感觉。在详细描写李林穿上皮物的过程时，文本细腻地突出了女装的触感及其对男性角色李林的影响。从李林的内心感受和对外表的认知中，展现了他对女性角色身份的一种复杂的反思和自我认同。同时，故事通过两个角色之间的对话，激发了深层次的自我探索和性别认同的主题，传达了一种独特的性别流动感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我家女友不定形【第十章】.doc]([皮物]_我家�
 | Size            | 52224 bytes                           |
 | MD5             | 27fb158c27190efd7d24b7f131860041                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 丝袜, 征服欲, 女装, 调教, 纯爱, 诱惑, 少女, 逛街, 性别认同, 自我探索, 恋爱心理, 皮物, 内衣                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

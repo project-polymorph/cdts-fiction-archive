@@ -7,7 +7,7 @@ TXT 下载: [[变身]_萌既正义！_4-终.docx]([变身]_萌既正义！_4-终
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是围绕角色渊的变身与自我认同的探索小说，讲述了一个男人在奇妙经历后的性别转变过程中内心的挣扎与变化。故事开头，渊因某种原因倒在床上，开始回想自己的身体与身份，随着幻想的展开，他在梦中经历关于自我认同的痛苦，醒来后发现自己的身体逐渐发生了翻天覆地的变化，身形逐渐变得娇小可爱，心态也似乎随之改变。他的思绪徘徊在对变身的恐惧与对新生身份的期待之间，颇有自我接受与拒绝的矛盾感受。随着情节的发展，渊的性别认知开始模糊，他对身体变化的适应更显得复杂，体现了跨性别者在面对身份认同和社会压力时的深刻心理冲突。文件中多次描写了渊对自己身体变化的细腻感受，展现了他心里逐渐萌芽的对于可爱形象的渴望和对自身转变的接受与自暴自弃。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_萌既正义！_4-终.docx]([变身]_萌既正义！_4-终
 | Size            | 36064 bytes                           |
 | MD5             | 0d344dbe0451b5e6b0cc08c7b43d760f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 自我探索, 二次元, 情色小说, 伪娘, 幻想, 内部冲突, 心理斗争, 可爱形象, 身份转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

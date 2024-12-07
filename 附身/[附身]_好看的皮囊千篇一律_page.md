@@ -7,7 +7,7 @@ TXT 下载: [[附身]_好看的皮囊千篇一律.doc]([附身]_好看的皮囊�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《好看的皮囊千篇一律》，故事围绕一对情侣的日常生活展开，主要通过男主角的视角讲述。他对其女友李利芬的爱存在一些自我挣扎与反思，在与好友若若的互动中，男主感受到的情感压力与社会标准的影响。他的女友虽然自卑，但他一直强调自己是因为李利芬的性格吸引而非外貌。文中描绘了一些关于外貌、爱情、性别认同和自我价值的思考，探讨了在外貌至上的社会中，爱情是否只源于颜值。故事不断切换日常与亲密场景，随着情节的演进，女友在自我认同与性感之间的挣扎成为重要的叙述主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_好看的皮囊千篇一律.doc]([附身]_好看的皮囊�
 | Size            | 67584 bytes                           |
 | MD5             | 61ee00f6ee0ff2eee72339876bf1c758                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 外貌至上, 都市爱情, 自我探索, 情侣关系, 女友自卑, 性格吸引, 友情与爱情, 生活琐事, 日常对话, 情感压力, 性别转换, 跨性别, 甘甜与苦涩, 人际关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

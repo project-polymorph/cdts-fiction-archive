@@ -7,7 +7,7 @@ TXT 下载: [[变性]_红绡梦_第三章_心有所属.docx]([变性]_红绡梦_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档为《红绡梦》第三章，主要描绘了角色在伪娘与变装之间的心理挣扎和情感描述。在故事中，主角与另一个角色福子之间存在复杂的互动，福子鼓励主角尝试女性打扮，进行角色扮演的探索。文中详细描绘了主角穿上女装后的感受与反应，包括对自己外表的认可与身体的变化。故事逐渐转向色情情节，涉及强烈的性暗示与跨性别身份的探索，表现了主角内心深处对于性别认同和身体接纳的冲突，以及最终悲惨的遭遇。文末展示了在角色遭遇暴力时的无奈与绝望，反映出作品中对当代社会性别议题的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_红绡梦_第三章_心有所属.docx]([变性]_红绡梦_
 | Size            | 40747 bytes                           |
 | MD5             | 68e17d8cbdacf30e95e142b7884ef351                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 心理挣扎, 跨性别, 性别认同, 强暴, 自我探索, 角色扮演, 情感描绘, 悲剧, 古装, 性暗示, 权力关系, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

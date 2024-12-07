@@ -7,7 +7,7 @@ TXT 下载: [[附身]_斗罗银龙与深渊.doc]([附身]_斗罗银龙与深渊.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换的小说，标题为《斗罗银龙与深渊》。故事背景设定在极北之地的万米深渊，讲述了古月娜与唐舞麟之间复杂的人物关系与冲突。古月娜的腹中隐约发出九彩光芒，暗示着她体内蕴藏着强大的力量。与她的绝美形象形成鲜明对比的是，深渊圣君的入侵与阴险意图，他意图夺取唐舞麟的肉身，进而实现自己的复仇。在故事的高潮部分，古月娜的身份揭示与深渊圣君的冲突交织，推出了更加复杂的情节与角色认同的探索。小说探讨了性别、力量、复仇与自我认同等多个主题，并包含一定的幻想元素，同时涉及情色与心理的交融。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_斗罗银龙与深渊.doc]([附身]_斗罗银龙与深渊.
 | Size            | 40448 bytes                           |
 | MD5             | f848530bd1c6e44453d14f4ab19e4409                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 深渊圣君, 古月娜, 唐舞麟, 力量与复仇, 幻想故事, 角色认同, 情感纠葛, 命运交织, 魔法元素, 自我探索, 二次元文化, 伪娘, TSF, 龙神血脉, 邪魅女主                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

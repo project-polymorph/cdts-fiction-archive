@@ -7,7 +7,7 @@ TXT 下载: [[其他]_西游情厄传（第十三回）.docx]([其他]_西游情
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《西游情厄传》第十三回主要描述了悟空在银铙中的遭遇，以及他与幻虚仙子的相遇与情节发展。在银铙里，悟空因无法逃脱而感到孤立无助，想到用法术变小以试图逃出。在他施法的过程中，意外感受到在铙中涌出的甜香水，令他放松警惕，迷失在梦境之中。梦中，他遇到了一位仙子，名为幻虚仙，她带领悟空来到一个神秘的地方，称为梦想天幻虚宫。仙子介绍了情根石和情丝草的神奇之处，暗示这些与情感、情欲相关的力量。悟空惊叹于这个去处的奇妙，但同时也面临着各种未知的挑战和困惑。整篇小说涉及性转、性别变换等主题，有一定的性暗示，适合学术研究与探讨相关性别与情感议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_西游情厄传（第十三回）.docx]([其他]_西游情
 | Size            | 25886 bytes                           |
 | MD5             | efca14a841f26c4d346ceada0475d2b8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 幻想, 变身, 跨性别, 情感, 魔法, 仙子, 情丝草, 情根石, 自我认知, 梦境, 妖精, 水府                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

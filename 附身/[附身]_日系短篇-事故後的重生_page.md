@@ -7,7 +7,7 @@ TXT 下载: [[附身]_日系短篇-事故後的重生.doc]([附身]_日系短篇
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇日系短篇小说，聚焦于一个拥有幽体离脱能力的角色，他利用这项能力代替一个男生与自己暗恋的女生交流。在多次附身于他人、满足内心渴望的过程中，角色随着一场重大事故即将死亡，他决定在最后时刻选择附身于一名年轻女孩身上。整个故事揭示了角色对迷失自我和性别认同的挣扎与体验，详细描绘了他在新身体里的探索，特别是对性别的体验与自我认知的变化。文中涉及性别认同、自我探索以及改变的主题，情节包含了一些隐秘和性相关的情节，如“附身”和“自慰”等。作品深入探讨了对身体的认同变迁和性别角色的重塑，同时也触及了对女性身体的幻想和欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_日系短篇-事故後的重生.doc]([附身]_日系短篇
 | Size            | 67584 bytes                           |
 | MD5             | 030c45b5de4709bfec53b3988db6ce41                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 幽体离脱, 自我探索, 性别认同, 女性视角, 强奸, 淫荡, 调教, 变嫁, 女体化, 多重性别, 青年, 奇幻, 都市, 科幻, 爱情, 青春, 身体交换, SM, 非人化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

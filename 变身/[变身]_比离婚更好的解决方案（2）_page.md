@@ -7,7 +7,7 @@ TXT 下载: [[变身]_比离婚更好的解决方案（2）.docx]([变身]_比�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是跨性别相关主题的小说，涉及角色迪恩的性别认同与身体形象转换的情节。故事围绕迪恩在学校的行为以及他与父母的互动展开。文件详细描写了迪恩因偷胸罩而面临的校长诉讼，以及他在父母惩罚下被迫去打扫马厩的经历。这一系列事情引发了父母与医生的对话，涉及到意识转移的实验计划，主要关注家庭成员之间的角色互换以及性别认同的探索。通过对话展示了父母对于孩子迪恩未来的担忧及试图以不同方式解决家庭问题的努力。内容中包含一定的成人话题以及潜在的性别与性相关议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_比离婚更好的解决方案（2）.docx]([变身]_比�
 | Size            | 25522 bytes                           |
 | MD5             | 6de09284e3e1e77a39b64610f9ed5c0e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 意识转移, 家庭关系, 青少年, 教育问题, 角色扮演, 身体交换, 自我探索, 性别角色, 学校生活, 父母关系, 惩罚, 心理冲突, 成长故事, 小说, 虚构文学, 探索亲子关系, 角色变化, 心理医学, 社会试验                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_死神空间--戒指3.doc]([附身]_死神空间--戒指3.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇有关跨性别及伪娘主题的小说，描写了一对男孩与他的同学在放学后的互动，以及他们与男孩母亲之间暧昧不清的关系。故事开头，小胖与小蛋两位男生在放学后回家，透过对话展现出他们之间的友谊。随着情节的发展，小胖与小蛋的母亲陈良铃之间的亲密行为逐渐展开，表现出一种禁忌的欲望与复杂的情感交织。在这个家庭聚餐的场景中，陈良铃对小胖表现出异常的兴趣，而小胖则借机对她进行身体上的探索。小说揭示了性别认同、自我探索和家庭关系的复杂性，充满了对性欲和禁忌情感的大胆描绘。内容涉及激烈的成人情节，含有明显的色情元素，适合18岁以上的成年读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_死神空间--戒指3.doc]([附身]_死神空间--戒指3.
 | Size            | 237568 bytes                           |
 | MD5             | 7c1a8dfd2dac644068113230e6015bdf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 男娘, 禁忌恋, 家庭关系, 成人, 性策略, 自我认知, 心理冲突, 欲望与羞耻, 轮奸, 嫂弟恋, 调教, 强奸, 淫荡, 女体化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

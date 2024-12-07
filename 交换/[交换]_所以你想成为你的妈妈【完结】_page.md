@@ -7,7 +7,7 @@ TXT 下载: [[交换]_所以你想成为你的妈妈【完结】.docx]([交换]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《所以你想成为你的妈妈》讲述了一个名叫吉姆的小男孩想要变成他母亲的故事。故事开篇，吉姆和他美丽的母亲达芙妮之间的互动揭示了吉姆对母亲身份的向往和对自身处境的不满。他觉得自己在家中毫无地位，就像一个佣人，屡次被母亲使唤。随着剧情的发展，吉姆收到了一条神秘的短信，提到了一家身体互换中心，提供与他人互换身体的服务。吉姆深受触动，决定拨打电话申请与妈妈交换身体。邻接着，通过神奇的药丸，吉姆开始了一场身份的冒险。文件深入探讨了性别角色、身份认同及自我探索的主题，包含了一些限制级内容，涉及性别转换和对母亲角色的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_所以你想成为你的妈妈【完结】.docx]([交换]_
 | Size            | 38423 bytes                           |
 | MD5             | d61e73cf1bd687dc71c9ce056e87a318                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 家庭关系, 身份认同, 校园生活, 幻想小说, 成长故事, 母子关系, 自我探索, TS变身, 男娘, 伪娘, 异世界, 药物变换, 现代家庭, 心理冲突, 角色交换, 青春期困扰, 科幻幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

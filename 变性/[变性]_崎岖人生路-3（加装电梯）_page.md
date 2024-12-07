@@ -7,7 +7,7 @@ TXT 下载: [[变性]_崎岖人生路-3（加装电梯）.docx]([变性]_崎岖�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性转与跨性别主题的小说，讲述了主角在经历身体转变后，逐渐适应新的女性身份的故事。故事的开始，主角出院后与哥哥一起购物，准备购买新的衣物，因其身体变化，原有衣物已无法穿着。主角在内衣店试穿过程中感受到身体的敏感，心中充满了对女性身体的复杂情感，如对自身变化的欣喜与不安。在哥哥的引导下，主角尝试着选择衣物和内衣，感受到经过隆胸手术后的胸部在试衣过程中的不同，体现了她对身份转变的逐渐认同。故事中也描绘了主角与哥哥的互动，哥哥认真对待主角的变化，试图帮助对方更好地适应新身份。随着购物的深入，主角逐渐接受新的女性形象，并开始思考自身与过去的关系，情感不断挣扎与变化，折射出对性别认同与个人身份的探索。通过对服装、内衣的关注，作品探讨了性别、身份及对女性美的认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_崎岖人生路-3（加装电梯）.docx]([变性]_崎岖�
 | Size            | 27042 bytes                           |
 | MD5             | f70d152312a597ef57da5cf783e9c28d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变性, 女性认同, 自我探索, 购物, 兄妹情, 内衣试穿, 身体认知, 隆胸手术, 性别认同, 情感挣扎, 内心冲突, 女性形象, 家庭关系, 角色转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

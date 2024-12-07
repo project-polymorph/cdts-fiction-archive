@@ -7,7 +7,7 @@ TXT 下载: [[附身]_灰变_了结·净化_-_完全版大结局_[.docx]([附身
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部伪娘与跨性别相关的小说，讲述了角色阿灿与名为皇的敌对角色之间的激烈战斗。故事中，阿灿在临死之前通过电流的力量重新站起，展现了其强大的潜力和背负的使命——作为灰色骑士，阿灿的本体是不死的，并融合了许多前辈的力量。他面临着伟大的挑战，并最终以‘净化之刃’向皇发起进攻，完成了灵魂的觉醒与自我探索的过程。小说涉及性别认同、角色变身、以及生死存亡的复杂情感，阿灿在战斗之后被其爱人洁逐渐吸收了灵魂，展现出跨性别身份的矛盾与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_灰变_了结·净化_-_完全版大结局_[.docx]([附身
 | Size            | 17648 bytes                           |
 | MD5             | e628c473b6a1d1ebc80987adf728a941                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 灰色骑士, 魔法, 自我探索, 电流攻击, 灵魂融合, 情感冲突, 力量觉醒, 异族, 恋爱, 女神, 勇气, 命运                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

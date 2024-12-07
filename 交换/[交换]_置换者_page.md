@@ -7,7 +7,7 @@ TXT 下载: [[交换]_置换者.doc]([交换]_置换者.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《置换者》是一本充满奇幻色彩的性转小说，讲述了主角赵鹏在意外获得一种特殊能力后，能够与他人交换身体和身份的故事。赵鹏的生活从早晨起床时突然发现周围人头上的编号开始发生了改变，他的世界在瞬间变得面目全非。身为一名普通的高中生，他能体验到不同性别和身份所带来的全新感受，尤其是当他和女老师李希的身体完成交换时，令他感到既惊讶又兴奋。以教师身份进入教室后，他不得不面对老师的生活，以及由此带来的种种体验，包括身体的变化带来的探寻和自我认同的挑战。在小说中，赵鹏不仅感受到身体的变化，还经历了由此带来的心理转变和对性别认同的深入思考。故事情节充满了幻想与现实交织，探索了性别认同与角色交替的复杂主题，以及在不同性别身份下的情感与关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_置换者.doc]([交换]_置换者.doc)
 | Size            | 51200 bytes                           |
 | MD5             | 8764a22335a298316211bf3acf326568                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 身体交换, 跨性别, 自我探索, 幻想, 校园, 奇幻, 师生关系, 生命体验, 性别身份, 探索与认同, 伪娘, 角色扮演, 青春成长, 身体认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

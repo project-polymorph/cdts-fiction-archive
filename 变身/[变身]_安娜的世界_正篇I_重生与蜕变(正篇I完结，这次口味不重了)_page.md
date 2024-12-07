@@ -7,7 +7,7 @@ TXT 下载: [[变身]_安娜的世界_正篇I_重生与蜕变(正篇I完结，�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《安娜的世界》，讲述了一座名为天空之城Eden的神秘城市，城市中充满了权利与财富的斗争，以及人物之间复杂的关系。在故事的开头，接待小姐朱莉正在等待一位名叫查理的男子的到来。查理是个导演，他带着一个年轻的女孩安娜，声称她是他的养女。查理看似普通，但他身上隐藏着无法言说的秘密，似乎在逃避什么。安娜是一位娇小的亚裔女孩，她的无辜却被复杂的成人世界所包围。两人之间的关系引发了接待小姐的深思，她在目睹查理的表现时，心中对他的轻蔑及对安娜命运的忧虑交织在一起。随着故事的发展，安娜对自己的身份产生了疑惑，朱莉逐渐意识到这位无辜女孩所承受的痛苦，最终决定保护安娜。文档内容也触及了一些敏感话题，包括性别认同与性别暴力，令人深思的社会问题通过人物的经历展现出来。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_安娜的世界_正篇I_重生与蜕变(正篇I完结，�
 | Size            | 294400 bytes                           |
 | MD5             | 68d62bd7fd35cb7843e1c8bac1684b08                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 天空之城, 安娜, 性转, 跨性别, 变身, 权利斗争, 养女, 被虐待, 逃避, 心理冲突, 人性的扭曲, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

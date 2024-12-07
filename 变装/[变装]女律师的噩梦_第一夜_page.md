@@ -7,7 +7,7 @@ TXT 下载: [[变装]女律师的噩梦_第一夜.doc]([变装]女律师的噩�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《女律师的噩梦 第一夜》是一部以变装为主题的小说，讲述了一位女律师宋菲的内心挣扎与复杂情感。故事围绕她的丈夫赵成被变成一个妩媚的女人的情节展开，宋菲因丈夫的失踪而痛苦，而后又在看守所见到他变成了一名妖娆的女性。小说通过一连串情感波动，描绘了宋菲的矛盾与不安，她不得不面对自己丈夫的变身，宁可承受贞洁的怀疑与羞辱，也要为老公辩护。小说开头描述了在一个空无他人的办公室里，一段淫靡的画面透出一丝强烈的视觉冲击力，复杂的情感交织下，宋菲虽然痛苦，却也不愿放弃对丈夫的牵挂与信任。整体情节紧凑且充满戏剧性，展现了性别转换后的身份认同与心理挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]女律师的噩梦_第一夜.doc]([变装]女律师的噩�
 | Size            | 80384 bytes                           |
 | MD5             | 008fa8a3ea3c769f8980e2eff20ab3e9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 女律师, 性别身份, 自我认同, 夫妻关系, 色情内容, 情感冲突, 权力与羞辱, 心灵挣扎, 妖娆角色, 痛苦与渴望, 幻想, 熟女, 情欲, 都市, 心理戏                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

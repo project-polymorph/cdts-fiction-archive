@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【無名】闇の洋服屋さん.doc]([皮物]_【無名�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档为一部名为《闇の洋服屋さん》的故事稿，讲述了一名大学生高井円花在一家名为“乐园”的洋服店打工期间，逐渐对其年轻漂亮的店长相馬裕子产生好感，同时对店内一个神秘的“VIP”房间充满好奇。故事中，円花发现这是一个隐藏着巨大的秘密的地方，其中涉及到相馬小姐的真实身份以及她背后男生卓雄的邪恶计划。在一次偶然的机会中，円花闯入了“VIP”房间，看到了一系列令人毛骨悚然的景象，揭露了相馬小姐早已不是她表面上所呈现的人物。整篇故事探讨了身份转换、性别认同和心理扭曲等复杂主题，情节紧张且颇具悬疑感，特别是最后揭示的相馬小姐与卓雄的关系，留下了深刻的震撼。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【無名】闇の洋服屋さん.doc]([皮物]_【無名�
 | Size            | 50176 bytes                           |
 | MD5             | c36373ece7a6b3998336520c5163d7e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 悬疑, 心理恐怖, 魔法, 禁忌, 大学生, 身份认同, 性转, 女性角色, 层层反转, 黑暗幻想, 人皮, 制服, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[变身]_成为魅魔后的百合人生.doc]([变身]_成为魅魔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件是围绕角色杜智和百奈之间的关系展开的小说。在故事中，杜智深爱着百奈，但由于性取向的差异，他的告白遭到了拒绝。杜智充满自卑，为了赢得百奈的爱情，他三年来努力改变自己，学习家务和学业，甚至获得大学的保送名额。然而，百奈拒绝了他的告白，表达了她对男生的排斥，这让杜智心碎。故事中描写了暴雨中的杜智的孤独与绝望，最后将一束玫瑰留在了教室的角落。
+
+百奈在杜智离开后，仍然对他的感情有所感触，揭示了她心中的欲望。在接下来的情节中，杜智遇到了转校生琉璃，后者向他表达了爱意，但杜智面对此情此景却感到愈发困扰。小说探讨了性别认同、爱欲与自我冲突等复杂主题，充满了青涩的爱情和青少年成长中的困惑。文本中还蕴含了一些明确的性暗示与描写，探索了性别转变和自我认同的议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_成为魅魔后的百合人生.doc]([变身]_成为魅魔�
 | Size            | 48640 bytes                           |
 | MD5             | 90bd3d942f51dc0e27b6ffe08afe5074                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2023-10-01                                 |
+| Tags            | 性转, 伪娘, 变身, 青春爱情, 心理探索, 自我认同, 青少年, 校园, 情感纠葛, 性别认同, 变嫁, 爱情, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

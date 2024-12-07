@@ -7,7 +7,7 @@ TXT 下载: [[变性]_淫变人生.docx]([变性]_淫变人生.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说以第一人称的视角叙述了一位年轻男性在一次打斗意外后经历性别变换的故事。故事开头讲述了主角的家庭背景和青少年时期的好友庞勇，他们在一起成长、作乱，最终在初中暑假时因一场冲动的强奸事件改变了命运。主角因一场充满暴力的打斗受伤，阴茎与睾丸被撕裂，之后被送至西班牙的一家医疗中心，接受了一系列复杂的手术，最终移植了一位十岁女孩的生殖系统。在经历了一系列身体和心理上的转变后，主角最终接纳了新的身份，从而完成了从男性到女性的转变。小说探讨了性别认同、自我探索和对暴力行为的反思，同时也呈现了异性和同性交往的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_淫变人生.docx]([变性]_淫变人生.docx)
 | Size            | 38507 bytes                           |
 | MD5             | ed96a4c0f84600faa54e82e80a8f260f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 心理探索, 青春, 暴力, 强奸, 自我认同, 生殖器移植, 情感纠葛, 初潮, 二次元, 男娘, 伪娘, 青少年追求                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

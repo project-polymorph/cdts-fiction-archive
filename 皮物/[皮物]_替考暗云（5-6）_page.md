@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_替考暗云（5-6）.doc]([皮物]_替考暗云（5-6）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一场高考结束后的性别转换和自我探索的小说，其中主要角色许燕和赵佳文在佩戴了一件神奇的皮衣后经历了性别的转换，体会到了作为女性的感觉。故事描述了她们在洗澡过程中对身体的探索，以及对彼此关系的新认识。许燕和赵佳文的互动充满了暧昧与性暗示，反映出她们对身为女性的身体感受的好奇与沉迷。文件内容涉及性高潮的体验、身份认同的冲突，以及对社会性别角色的输出与反思。伴随轻松幽默的对话，准确地传达了她们在性别转换后的心理变化。尽管情节中包含色情内容，但整体上探讨了性别认同与自我接受的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_替考暗云（5-6）.doc]([皮物]_替考暗云（5-6）.
 | Size            | 48128 bytes                           |
 | MD5             | 1383160340089a58a3e80e2354faf6b2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我探索, 跨性别小说, 性意识觉醒, 皮衣, 高中生, 友谊, 女性身体, 性别认同, 幽默, 暧昧关系, 爱情, 快感体验, 心理冲突, 青春成长, 性教育                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

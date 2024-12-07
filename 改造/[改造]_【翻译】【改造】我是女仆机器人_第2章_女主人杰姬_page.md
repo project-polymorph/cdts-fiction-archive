@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译】【改造】我是女仆机器人_第2章_女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为伪娘 TS 变身与跨性别相关小说《我是女仆机器人》第二章，主要讲述了角色杰基作为一个被控制的女仆机器人与其丈夫之间的性关系及其内心的服从与渴望。随着杰基的角色转变，她开始对自己的身份产生了新的认识，渴望被人控制和指挥。文中描写了一系列与性欲相关的场景，比如杰基在性行为中感受到的快感，以及对自己作为女仆机器人的认同。她与顾问苏珊的对话展示了她对新体验的期待，以及最终决定采纳性爱机器人的程序来获取她渴望的“激情”。通过杰基的视角，展示了她在服务过程中的内心变化，并探讨了角色在自我认同与性别认同之间的冲突。最后，杰基对新性爱机器人杰姬的期待，反映了她对于主导与被主导之间微妙的心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译】【改造】我是女仆机器人_第2章_女�
 | Size            | 42496 bytes                           |
 | MD5             | 8450e89afd093904bfb63b9a7b40853b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 女仆机器人, 性别认同, 自我探索, 性转小说, 变身小说, 伪娘小说, 控制与被控制, 性幻想, TSF, 强制服从, 性爱机器人, 性欲, 男娘, 情感关系, 科技奇幻, 多重人格, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

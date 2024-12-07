@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_无双三国2.docx]([皮物]_无双三国2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部以性别转换为主题的小说，讲述了主角黄松的冒险经历。在这个故事中，黄松穿越到了一个与历史不同的平行世界，经历了战斗、探索与自我认同的转变。刚开始，他以女性的身份行走在简陋的道路上，凭借侦查技能察觉到周围的危险。在遭遇黄巾军的攻击时，他毫不畏惧，借助强大的力量与武器奋勇反击，迅速击杀了对方，展现了其在这个新世界中的生存和斗争能力。此后，黄松被两位路人救助，带回桃源村，在经历一番冲突与挑战后，逐渐适应并融入新环境。整个故事涉及对性别认同与角色冲突的探讨，展示了角色由于环境变化而产生的内心挣扎，以及与周围人物之间的关系发展。适合进行多元性别与身份认同相关的研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_无双三国2.docx]([皮物]_无双三国2.docx)
 | Size            | 20540 bytes                           |
 | MD5             | c483ed52731c2d4e274065e94986dcd4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 虚拟现实, 冒险, 自我认同, 战斗, 英雄主义, 情感纠葛, 穿越, 历史, 黄巾军, 桃源村, 人物成长, 血腥, 权力斗争, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

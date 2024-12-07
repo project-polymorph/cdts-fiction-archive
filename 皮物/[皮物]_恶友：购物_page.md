@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_恶友：购物.docx]([皮物]_恶友：购物.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品为一篇围绕性别扮演与变装主题的小说，描绘了男主角纯一为了去内衣店购买女式内衣，而以女性角色村上亚希的形象进行伪装。在内衣店中，他体验到了女装带来的心理与身体上的快感，而过程中还涉及到伪装与自我认同的复杂情感。故事中的细节包含了复杂的性别交织与角色转换，情节部分涉及敏感与成人内容，需在科学研究的框架内解读与分析。小说中，纯一在挑选内衣的过程中，感受到的不仅是身体的变化，同时也是自我认知的一种冲突。通过对内衣的挑选，作者展示了角色的心理状态变化，以及现代社会中对性别身份的多元化理解与接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_恶友：购物.docx]([皮物]_恶友：购物.docx)
 | Size            | 22371 bytes                           |
 | MD5             | 002738d47b4a685c1120a20c986aba61                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 性别认同, 角色扮演, 跨性别, 内衣店, 欲望探索, 自我认知, 成人内容, 女装, 心理冲突, 幻想, 情感戏, 性转, 夜店文化, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

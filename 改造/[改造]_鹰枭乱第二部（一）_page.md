@@ -7,7 +7,7 @@ TXT 下载: [[改造]_鹰枭乱第二部（一）.docx]([改造]_鹰枭乱第二
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《鹰枭乱》的第二部第一章，故事围绕着一家名为“媛香夜总会”的娱乐场所展开，涉及黑道、妓女和警察等角色。开篇描绘了一位名为香姐的女性角色，她是夜总会的老板与黑道势力的情妇。第一章通过对她的日常生活和与黑道的复杂关系的描写，尝试揭示在表面平静下的阴暗交易。故事中还有一名年轻警察与一名阅历丰富的警官的对话，暗示了警察与黑社会之间存在的勾结。文本涉及了严重的社会问题，包括卖淫和黑社会，风格较为写实且带有讽刺色彩，突显了角色内心的挣扎与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_鹰枭乱第二部（一）.docx]([改造]_鹰枭乱第二
 | Size            | 19134 bytes                           |
 | MD5             | 947aa68478155f257e41bafbe576c1f3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 黑道, 妓女, 夜总会, 警察, 权力斗争, 自我认知, 社会写实, 成年内容, 香姐, 警匪关系, 复杂人际关系, 性别认同, 阴暗面, 禁忌, 强权, 腐败                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

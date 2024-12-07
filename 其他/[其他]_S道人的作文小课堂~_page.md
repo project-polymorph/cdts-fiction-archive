@@ -7,7 +7,7 @@ TXT 下载: [[其他]_S道人的作文小课堂~.doc]([其他]_S道人的作文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由S道人撰写的一篇关于高考作文题目的破题指南。作者回顾了自己高考经历，并为各个地区的高考作文题提供了可行的切入点，以及与TG（性别转化）相关的写作建议。文件包含对如北京卷、山东卷、江苏卷等不同区域高考作文题的分析，着重于如何将TG元素融入到这些作文主题中。比如，在北京卷中，提到可以通过角色和换身的关系探讨纽带的复杂性；在山东卷中，使用共享书店的概念与TG元素结合，引发对书籍和知识的分享思考。文件最后亦提到了一些较为简单或难度较大的写作主题，适合不同水平的写作者进行尝试。整体上，内容丰富，涉及多种文学创作技巧与思维方式，同时也提出了原创性和深入探索思考的建议。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_S道人的作文小课堂~.doc]([其他]_S道人的作文�
 | Size            | 30208 bytes                           |
 | MD5             | a349c779f52b49d460e7797623c64c90                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | S道人                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 高考作文, 破题指南, 性别转化, 文学创作, 社会关系, 科幻元素, 附身, 书店, 文化分享, 自我认知, 年轻人创作, 讨论性别问题, TG写作提示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

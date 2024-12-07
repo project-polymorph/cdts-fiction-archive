@@ -7,7 +7,7 @@ TXT 下载: [[其他]_当男人变成女孩子后会不会幻痛呢？.doc]([其
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于性别转换经历的小说，讲述了一个原为男性的主角在神秘变化后，变成了一个年轻美少女的故事。故事的开始描述了男主角在镜子前注视着自己全新的女性形象，感受着身材的变化和身体对触碰的敏感反应。他对变化充满惊讶与迷惑，内心的冲突和对自己新身份的探索贯穿始终。在接下来的情节中，主角经历了一系列对新身体的探索与自我意识的觉醒，包括对自己生理构造的惊奇和对女性特征的细致描绘。文中详细描写了主角从未体验过的身体感受与情感波动，探讨了性别认同的复杂性和身体意识的融合。尽管情节包含了明显的性暗示和性内容，但也触及了如自我认知、身份转变等更深层次的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_当男人变成女孩子后会不会幻痛呢？.doc]([其
 | Size            | 44544 bytes                           |
 | MD5             | 998204a930fc545811053ea618b34cc8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 自我探索, 性别认同, 幻想小说, 虚拟现实, 青春, 内心冲突, 身心体验, 二次元文学, 伪娘, 男娘, 变嫁, 强烈情感, 身体探索, 性意识, 性别二元性, 青年文学, 时尚敏感, 少年成长, 反向认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

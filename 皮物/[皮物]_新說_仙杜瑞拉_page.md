@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新說_仙杜瑞拉.docx]([皮物]_新說_仙杜瑞拉.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件名为《新说灰姑娘》，主要讲述了一个名叫仙杜瑞拉的小女孩的故事。故事开始时，仙杜瑞拉在幸福的家庭中长大，但在她四岁时，母亲的去世让她的生活发生了巨大变化。父亲为了弥补母爱的缺失，努力工作并与一位名叫爱德莉雅的女人再婚。通过详细描写仙杜瑞拉的家庭背景以及后母和姐妹们对她的苛刻要求，故事逐渐展现了仙杜瑞拉所经历的痛苦和折磨。然而，仙杜瑞拉乐观地坚持着，期望有一天会有幸福降临。故事中包含了许多戏剧性元素，包括对权力和遗产的争夺，以及一位拥有魔法的老人帮助仙杜瑞拉实现愿望，使她得以参加王子举办的舞会。故事通过这段旅程探讨了性别角色、家庭压力和对美好生活的渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_新說_仙杜瑞拉.docx]([皮物]_新說_仙杜瑞拉.doc
 | Size            | 30409 bytes                           |
 | MD5             | b9cbfb3344be0821ff80c71c4631738b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 魔法, 家庭关系, 性转, 爱情, 自我认知, 希望与绝望, 女性视角, 现代童话, 二次元, 古代, 幻想, 魔法少女, 遗产争夺, 母女关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

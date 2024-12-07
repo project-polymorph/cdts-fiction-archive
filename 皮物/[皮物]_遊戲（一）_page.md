@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_遊戲（一）.docx]([皮物]_遊戲（一）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘及变身题材的情节小说，故事设定在一个充满悬疑和犯罪元素的城市背景中。开篇描绘了一场暴风雨，营造出紧张的氛围。叙述中心围绕一名女性角色刘妍琪展开，她在被警方拘留的审讯室内，展现出她作为一个危险人物的边缘。同时，她对审讯人员表现出的挑衅与魅惑让气氛更加复杂。故事中的人物个性鲜明，包含多名警察和刘妍琪之间的对话，构成了一个围绕毒品犯罪与性别模糊的情节发展。随着故事推进，刘妍琪化妆品泯灭，她的身份和本质逐渐暴露，戏剧性地转变为一个与众不同的男性角色。故事的高潮在于意外的身份交换与毒药效应，展现出深层的自我认知与身份危机。里面诠释了关于性别和肉体认同的复杂关系，结合了悬疑与惊悚的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_遊戲（一）.docx]([皮物]_遊戲（一）.docx)
 | Size            | 47289 bytes                           |
 | MD5             | 4961555aa06ebe833255ac93cd35d488                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2011-10-20                                 |
+| Tags            | 伪娘, 变身, 跨性别, 悬疑, 犯罪艺术, 性别认同, 毒品, 色情, 心理变态, 身份转变, 审讯, 变装, 特殊审讯室, 女性魅力, 警匪题材, 阴暗心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

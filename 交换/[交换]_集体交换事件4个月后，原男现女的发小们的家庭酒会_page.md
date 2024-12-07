@@ -7,7 +7,7 @@ TXT 下载: [[交换]_集体交换事件4个月后，原男现女的发小们的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇围绕着性别交换事件后，三位原本的男性朋友重聚的故事。故事发生在一个家庭酒会上，主要讲述了他们各自经历的变化与新生活。时间设定在令和2年，地点为市中心的一栋漂亮的独栋房子。本文中包含了从男性转变为女性后的社会适应问题、自我认知冲突，以及与过去身份的对比。三人温馨的相聚中穿插了各自的生活琐事，比如黑泽的天真无邪与白河作为母亲的责任感，还有赤城作为曾经的体育老师如何适应新的角色。这段故事展示了性别认同、角色转换以及人与人之间的情感联系，虽然幽默而轻松，偶尔也流露出面对转变的无奈与困扰。此外，整个家庭场景颇具生活气息，让人感受到变迁与适应的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_集体交换事件4个月后，原男现女的发小们的
 | Size            | 51200 bytes                           |
 | MD5             | 9450408bc1c345734e91d4a98b401d60                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2020-00-00                                 |
+| Tags            | 变性, 跨性别, 家庭聚会, 自我认知, 生活挑战, 女性视角, 友谊, 社会适应, 性别交换, 个人故事, 校园生活, 孕妇                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

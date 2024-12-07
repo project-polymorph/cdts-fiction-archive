@@ -7,7 +7,7 @@ TXT 下载: [[变装]_美丽的“新娘.doc]([变装]_美丽的“新娘.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇名为《美丽的“新娘”》的性转小说，讲述了一个男主角在婚礼准备期间被未婚妻黛比打扮成女性的经历。故事开始于婚礼前夕，男主角收到黛比寄来的特殊包裹，里面是她为他挑选的女性化婚礼服装及配饰，这代表了他将经历从男性向女性角色的转变。男主角按照黛比的要求，一步步地接受了打扮，包括剃毛、穿女性内衣、化妆以及发型改变。在婚礼当天，尽管他对紧身胸衣感到不适，但他也享受着这种被黛比掌控的体验。随着剧情发展，男主角逐渐适应并接受了新的身份，最终在蜜月过后，全心全意地成为了黛比的"女仆"。作品涉及性别认同、性别角色扮演以及自我认知的转变，充满了对性别流动性的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_美丽的“新娘.doc]([变装]_美丽的“新娘.doc)
 | Size            | 29184 bytes                           |
 | MD5             | aa882009272c4ef521121f00a3466833                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 性转, 婚礼, 女性化, 自我认同, 角色转变, 情感, 荷尔蒙, 心理变化, 服装, 奇幻, 恋爱, 禁忌情感, 性别表达, 社会角色, 戏剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_校花学妹？.doc]([皮物]_校花学妹？.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部描绘高中生方鸣翔内心情感和成长经历的小说。故事围绕方鸣翔对班级女神的暗恋，以及他与同学之间的微妙关系展开。方鸣翔常常在课堂上走神，幻想自己成为校花的英雄，却在暗恋中迷茫而苦恼。他努力地接近女神，成为英语课代表，然而羡慕与嫉妒交织的情感让他内心挣扎不已。随着高考临近，他的心情变得愈发复杂，最终在准备向女神表白的过程中，却被女神与公子的关系冲击，意识到自己的渺小与无奈。此外，方鸣翔在大学中遇到的富二代老大对人生成败的看法，也成为他思考生活和价值观的重要契机。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_校花学妹？.doc]([皮物]_校花学妹？.doc)
 | Size            | 54784 bytes                           |
 | MD5             | 5b691bb8b9357d156489ce000e9058aa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园爱情, 青春成长, 性别认同, 暗恋, 高中生, 大学生活, 富二代, 逆袭, 情感纠葛, 自我探索, 社会阶层, 心理冲突, 纯爱, 叛逆, 友情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

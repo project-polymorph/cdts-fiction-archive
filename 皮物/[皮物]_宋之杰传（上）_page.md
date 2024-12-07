@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_宋之杰传（上）.docx]([皮物]_宋之杰传（上）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《宋之杰传（上）》是一部描绘古代性别与身份主题的小说，主要讲述了主角宋之杰的经历。他身为乡间秀才，因其放荡不羁的性格而受到嫌弃。在一个醉酒回家的夜晚，他误入一豪门深院，偶遇主人家的女子。这一情节展示了宋之杰在此异域环境中与女子们的互动，且涉及酒宴、沐浴及调笑等场景，传达出一种暧昧而又微妙的情感交流。尽管其行为被视为放荡，但小说通过细腻的描写反映了角色身份与性别认同之间的复杂性。他与女子之间的言语和互动引发了关于性别角色与社会期待的思考，包含了古代社会对男女关系的传统看法及挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_宋之杰传（上）.docx]([皮物]_宋之杰传（上）
 | Size            | 15529 bytes                           |
 | MD5             | e53311a6caa47755eecfa48abb0a1955                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 古代小说, 性别认同, 自我探索, 文学, 调笑, 酒宴, 深宅大院, 身份认同, 情感交流, 暧昧, 双性, 性别角色, 社会期待, 文学研究, 性别文化, 二次元文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

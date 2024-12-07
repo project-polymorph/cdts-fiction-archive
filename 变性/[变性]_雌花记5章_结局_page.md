@@ -7,7 +7,7 @@ TXT 下载: [[变性]_雌花记5章_结局.docx]([变性]_雌花记5章_结局.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一段围绕变性、性别认同的故事，主要角色包括吴桂芝、陶蓝、秋美华和洪月儿等。这些角色的对话揭示了她们的过去经历及身份认同的复杂性。在故事中，吴桂芝对自己的性别转换充满了惶恐与羞耻，她与其他女性角色共同面对着性别身份的挑战与自我认知的转变。作品中呈现了她们在生活与情感中所经历的纠结，尤其是吴桂芝在和丈夫关系中的幸福感。文中提到的情节包括她们的自我认同、对婚姻的倾诉、并探讨了关于性别身份的深层次主题，最后以洪月儿的反思结束，表现出面对真实自我的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_雌花记5章_结局.docx]([变性]_雌花记5章_结局.d
 | Size            | 26952 bytes                           |
 | MD5             | 4cea3e884111c3896e7cb4bee06edaa6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 伪娘, 跨性别, 情感纠葛, 婚姻, 自我探索, 羞耻感, 幸福, 生活困惑, 女性视角, 情感关系, 变嫁, 纯爱, 男娘, 女体化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

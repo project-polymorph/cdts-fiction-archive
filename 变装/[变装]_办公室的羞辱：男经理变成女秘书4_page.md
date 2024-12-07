@@ -7,7 +7,7 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书4.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《办公室的羞辱：男经理变成女秘书4》的变身小说，主要围绕角色安德鲁的心理挣扎与身份认同展开。故事中，安德鲁被迫经历变身为女性的过程，面临来自同事的审视与社会角色的重新定义。在经历了一系列羞辱与自我挫败的情况下，安德鲁逐渐意识到自己的新身份与处境，力求改变自己与同事科琳的关系。初始，安德鲁仍然保有男性气概，但随着剧情发展，他开始接受女性角色的生活，尝试迎接新的挑战。从衣物选择到职场互动，这种性别转变不仅是外在的，也是他内心深处不断接受与调整的过程。文本中夹杂着对角色内心变化的细腻描写，呈现出性别认同与社会性别角色的冲突，探讨了职场性别关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_办公室的羞辱：男经理变成女秘书4.docx]([变�
 | Size            | 20109 bytes                           |
 | MD5             | 31748ae2f6487e278b4599812c627817                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 跨性别, 职场, 性别认同, 羞辱, 咖啡, 自我探索, 女性化, 角色转变, 职场关系, 同事冲突, 性别角色, 心理挣扎, 安德鲁, 科琳, 变身, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

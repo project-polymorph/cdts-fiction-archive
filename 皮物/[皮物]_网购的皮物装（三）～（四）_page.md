@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_网购的皮物装（三）～（四）.docx]([皮物]_网
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一段奇幻与青春交融的伪娘/男娘小说节选，主要讲述了女主角绫子在学校生活中的日常与内心挣扎。故事开端，绫子与朋友加奈的对话流露出她内心的紧张不安，因其昨日在男厕的私密行为。绫子感觉到被别人目光注视的恐惧与期待，暗示了她对自我性别认同的迷惑与探索。其次，文中涉及绫子化名为"佐藤进"的身份变换，通过穿戴皮衣来体验异样的性别表达。故事情节交错着自我欲望与社会期待，涉及到对陌生男性的恐惧与异性欲的探索，展现了青春期少女复杂的心理活动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_网购的皮物装（三）～（四）.docx]([皮物]_网
 | Size            | 32878 bytes                           |
 | MD5             | 9d496874c42334d58f3462b6d58d46d1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 变身, 性别认同, 青春, 性别探索, 校园生活, 禁忌感, 幻想, 自我察觉, 强烈的内心挣扎, 身份变化, 性别混淆, 女性视角, 自我发现, 情感纠葛, 社会压力, 探讨性别与自我                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

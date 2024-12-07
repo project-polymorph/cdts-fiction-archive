@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_换个身份去爱你.doc]([皮物]_换个身份去爱你.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为性转主题小说，名为《换个身份去爱你》，主要围绕两个女主角伍婷芳和曹曼茹的情感纠葛和性别认同展开。故事起始于伍婷芳在音乐会上演奏大提琴的情节，她身着优雅的墨绿色晚礼服，台下有她暗恋的曹曼茹，二人之间似乎有着未解的情感。随着故事的发展，读者了解到伍婷芳为了追求自己内心的真实身份进行了伪装，而曹曼茹因健康问题面对生命的最后时光。文章通过音乐、情感和性别认同的交织，展现了两位角色之间深刻而复杂的关系及各自的内心挣扎。曹曼茹最终选择将自己所承受的痛苦藏在心底，为了不让爱她的伍婷芳担忧，做出了艰难的决定。文中提到了如“我知道，伍婷芳只是伪装而已。”等语句，深刻反思了自我认同与爱之间的张力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_换个身份去爱你.doc]([皮物]_换个身份去爱你.
 | Size            | 52224 bytes                           |
 | MD5             | 2a97206de44306a2db0dd17b3d3c2734                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转换, 伪娘, 变身小说, 情感纠葛, 癌症, 自我认同, 音乐, 深夜思考, 情感依赖, 青春回忆, 腹痛, 未解的情感, 生死离别, 成长与牺牲, 坚强与脆弱, 真实与伪装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

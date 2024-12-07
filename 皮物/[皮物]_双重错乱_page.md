@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_双重错乱.doc]([皮物]_双重错乱.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件名为《双重错乱》，讲述的是一个名为丹妮尔的女子在经历精神创伤后，产生了认知错乱，认为她就是她的弟弟，丹佛·道顿。这段故事主要围绕排行榜上的摩尔博士对丹妮尔的观察与治疗展开，呈现出婷对于身份和性别的迷茫与冲突。同时，文章通过心理治疗的视角，探讨了家庭关系对个体心理的影响。
+
+在文中，摩尔博士描述了丹妮尔的病情，她长期认为自己是她的弟弟，并表现出严重的妒忌与攻击性。为了治疗丹妮尔，摩尔博士建议她的弟弟与她面对面交流，然而面对这样的面见，弟弟对丹尼尔的状态感到困惑和恐惧，结果却意外地产生了一系列更复杂的情感和心理冲突。
+
+文件还提到了关于整形、性别身份认同等议题，虽然整体语气较为冷静，但包含了不少暗示心理和情感斗争的因素。供读者审视社会对性别与个人身份的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_双重错乱.doc]([皮物]_双重错乱.doc)
 | Size            | 64512 bytes                           |
 | MD5             | 948affc8b06d1d7969568e2756da99b0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 心理治疗, 跨性别, 身份认同, 精神病, 情侣关系, 兄妹冲突, 嫉妒, 精神创伤, 伪娘, 变身, 医院, 家庭关系, 情感冲突, 现代心理学, 角色认知                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

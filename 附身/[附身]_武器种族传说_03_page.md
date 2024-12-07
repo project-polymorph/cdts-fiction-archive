@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_03.docx]([附身]_武器种族传说_03
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于性转、变身及跨性别主题的小说，主要讲述了角色在不同状态下的情感和自我认同的探索。在故事中，角色抱着一位名叫蕾的女孩回到地面，并探讨了契约与力量的关系。内容描写了性别转换后角色所遭遇的外界反应，并涉及到角色与其他人物间的互动，特别是对身体的认知与魅力的探讨。文中穿插了许多幽默的对话和冲突，例如角色在性别变化后的吸引力，以及对性别认同的调侃。此外，故事还涉及一些限制级的情节，如对角色外表的性别化审视及一些性暗示的内容。整体而言，文档探讨了趣味性和性别认同的问题，描绘了角色在变化中面对的挑战和自我接受的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_03.docx]([附身]_武器种族传说_03
 | Size            | 44903 bytes                           |
 | MD5             | 7bd5aff71285d88b5fd9f5ac28f7431c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 角色互动, 契约, 幻想, 幽默, 自我认同, 年龄差, 魅力, 性别演变, 力量纷争, 强奸, 调教, 逆后宫, 暴露, 身体认知, 百合, 变嫁                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

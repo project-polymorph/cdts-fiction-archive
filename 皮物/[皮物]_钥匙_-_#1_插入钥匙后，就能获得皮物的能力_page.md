@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_钥匙_-_#1_插入钥匙后，就能获得皮物的能力.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部伪娘 TS 变身题材小说的第一章，主要讲述了一个贼通过特殊能力获取他人皮肤而实现变身的故事。故事的主角利用一把神秘的‘钥匙’插入他人身体，借此能力变换成女性角色的身体，展开了一段关于身份窃取与自我探索的冒险。在变身过程中，主角不仅体验到身体的变化，还遭遇感官的探索与刺激，从而获得了目标角色的记忆。小说初始在一名女高中生的视角中展开，通过细腻的描写展示了身体变化带来的心理冲击与感官快感。内容涉及强烈的性暗示与性行为，表现出角色在变身过程中的迷惑与兴奋。整体风格包含了大量的感觉叙述与戏剧情节，且带有明显的成人向内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_钥匙_-_#1_插入钥匙后，就能获得皮物的能力.
 | Size            | 17935 bytes                           |
 | MD5             | 9e3cd68507e240e806bafc3f1eab705d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 跨性别, 性转, 强烈性暗示, 身份窃取, 身体探索, 刺激体验, 青春, 日本, 二次元, TSF, 化妆, 情欲, 幻想, 冒险, 记忆获取                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

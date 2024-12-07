@@ -7,7 +7,7 @@ TXT 下载: [[变性]_性爱反转2.docx]([变性]_性爱反转2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇描绘一个角色性别转变及其在性行为中自我认知变化的小说。故事的主角经历了性别变化后的复杂心理与生理反应。文中详细描述了主角莎拉对他控制欲的展现，以及在性行为中被迫接受的各种情境与感受。主角的身体在性能力上的变化伴随强烈的恐慌感，尤其是对阳物缩小的担忧，这种变化引发了他对性别角色的反思与不安。故事涉及的主题包括性别认同的困惑、自我探索及对他人身体变化的焦虑，描绘了一个充满戏剧性色彩和性暗示的世界。在这个过程中，伴随的是对自己身体与性欲的认同与渴望的挣扎，以及与他人之间的微妙关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_性爱反转2.docx]([变性]_性爱反转2.docx)
 | Size            | 28704 bytes                           |
 | MD5             | 3207101c3a7eddb1168a176b329d4d1e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 性行为, 自我认知, 心理变化, 肉体改造, 欲望, 性别认同, 性欲, 情感纠葛, 变化, 情欲, 强烈控制欲, 自我探索, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

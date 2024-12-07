@@ -7,7 +7,7 @@ TXT 下载: [[变身]_男人的友情(2)_[.docx]([变身]_男人的友情(2)_[.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件内容为一段变身题材的小说，主要讲述了角色尼克逐渐经历性别转变的故事。故事开始时，尼克的身体状态异常，他的阴茎逐渐无法勃起，身体也开始出现女性化的特征。随着事件的发展，尼克的乳房不断扩展，身体曲线越来越明显，最终完全转变为女性形象。主人公山姆对此感到困惑与恐惧，并尝试帮助尼克寻找解决办法，然而所有医生的回应都让他们沮丧。故事描述了尼克的心理变化及身体变化的过程，加入了药物的使用和冲突情节，展现了性别认同和自我探索等主题，具有一定的情感深度。该文本中亦涉及到一些限制级的内容，具体描绘了角色外观变化及其心理冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_男人的友情(2)_[.docx]([变身]_男人的友情(2)_[.d
 | Size            | 17617 bytes                           |
 | MD5             | 9e42a5c3703697de49ef467fb6b037b7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | walter2005                               |
+| Region          | 未知                               |
+| Date            | 2009-06-02                                 |
+| Tags            | 变身, 性别转换, 自我认同, 小说, 伪娘, 心理变化, 友谊, 成长, 奇幻, 异性恋, 跨性别, 药物, 探索, 男性视角, 幻想, 都市剧情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

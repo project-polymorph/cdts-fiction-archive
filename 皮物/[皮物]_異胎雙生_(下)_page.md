@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_異胎雙生_(下).doc]([皮物]_異胎雙生_(下).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《异胎双生（下）》的内容摘录，故事围绕着主角蕾妮与她的妹妹之间的日常生活展现了温馨的家庭氛围。蕾妮在准备晚餐时，内心涌动着期待与不安，反映出她对于家庭关系的珍视。小说讨论了蕾妮化名为瑪莎蘿絲的变装经历，她在尝试各种面具与衣服时感受到的自我认同与困惑。在与妹妹的互动中，透出主角对于性别认同的复杂感受以及社会对跨性别者的看法。此部分同样包含了雷利歐的回忆，他变装的初心与对于一面具究竟意味着什么的思考，深入探讨了角色的内心变化与自我认同的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_異胎雙生_(下).doc]([皮物]_異胎雙生_(下).doc)
 | Size            | 57344 bytes                           |
 | MD5             | 05282c1f40e3d805fc3d673c2228a8f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变装, 自我探索, 家庭关系, 温馨, 跨性别, 心理冲突, 情感, 身份认同, 幻想, 二次元, 温情, 成长, 女性视角, 情感交流, 日常生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

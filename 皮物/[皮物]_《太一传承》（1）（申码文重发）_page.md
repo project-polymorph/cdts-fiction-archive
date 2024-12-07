@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《太一传承》（1）（申码文重发）.doc]([皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《太一传承》的小说，主要讲述了在末法时代，一对高中情侣阿俊与阿婷偶然获得修仙门派太一门的传承，并需要完成一项重要任务。文章通过细腻的描写展示了两人从高考压力中的放松到意外的奇遇，展现了他们的青春与成长。在第一章中，情侣二人爬山时误入神秘的石制大牌坊，随着神秘古字的显现，他们进入了古老门派的传承之旅。文中也提到一些轻松幽默的场景，比如阿婷穿着显眼的衣服和阿俊的直男思维，增加了故事的趣味性。此小说灵感来源于国产单机游戏《了不起的修仙模拟器》，展现了作者对修仙文化的独特理解和想象。总结而言，《太一传承》不仅是一部探索自我与性别身份的小说，同时深入探讨了人类与超自然力量之间的联系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《太一传承》（1）（申码文重发）.doc]([皮�
 | Size            | 81920 bytes                           |
 | MD5             | 0bcff19ad898fb0d6876f1755e3db193                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 修仙, 奇幻, 二次元, 甜蜜爱情, 冒险, 青春, 神秘, 太一门, 历史传承, 性别认同, 变身小说, 探索自我, 校园恋爱, 魔法, 古代, 末日                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

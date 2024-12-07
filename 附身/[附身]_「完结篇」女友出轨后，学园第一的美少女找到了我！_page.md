@@ -7,7 +7,7 @@ TXT 下载: [[附身]_「完结篇」女友出轨后，学园第一的美少女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一篇围绕附身与性别转换主题的小说，主要叙述了男主角阳太与他的女友友奈之间的情感纠葛以及由此引发的复杂事件。故事开头，阳太为了让友奈安心，刻意描绘了一个强大的角色伊藤，目的是消除友奈的疑虑。友奈因遭受精神打击而服用安眠药而命危，阳太感到深深的自责和无助。在小说的后半部分，随着情节的发展，阳太发现了友奈事件的背后真相，并与伊藤一起意图对抗凶手。整篇作品描绘了青少年在面对性别认同、情感波动及社会压力时的挣扎与成长，同时也夹杂了恐怖、心理及情感的复杂元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_「完结篇」女友出轨后，学园第一的美少女�
 | Size            | 47616 bytes                           |
 | MD5             | ca0018b734a2b5ce52d1e4c9e0c125eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 附身, 心灵创伤, 青春爱情, 自我探索, 安眠药, 强暴, 操控, 伪娘, 变身, 校园小说, NTR, 情感纠葛, 心理剧, 死亡, 友情, 青少年, 重生, 发泄                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_异化（更新到其三）.docx]([其他]_异化（更新
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部名为《异化都市》的小说，作者果壳中的国王。故事围绕主角林风的心理状态和特殊能力展开，林风是一名心理学学生，因心理测试结果显露出精神疾病的迹象而感到困惑。在一次旅行过程中，他发现自己获得了附身他人的能力，并用该能力体验和观察他人的生活和情感。故事中的林风面临着内心的冲突和对他人暴力行为的渴望，具体描写了他在廉价旅馆中面对邻居暴力行为时的心理变化以及他因这些经历逐渐展露出的阴暗面。在小说的另一部分，角色毕民是一名警察，与林风的经历交织在一起，涉及一起杀人案件的调查，暗示了两者之间的某种联系。整个故事探讨了阴暗心理、角色的身份认同及其对现实的影响，在性别认同和自我探索的复杂层面上也做了深刻的剖析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_异化（更新到其三）.docx]([其他]_异化（更新
 | Size            | 28451 bytes                           |
 | MD5             | 911c8b46c039c7ab4634bf85fb788559                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 果壳中的国王                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 心理疾病, 暴力, 附身, 家庭纷争, 自我认同, 阴暗面, 心理探索, 能力觉醒, 都市小说, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

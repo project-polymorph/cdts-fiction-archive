@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的乡下疯狂女友.doc]([皮物]_我的乡下疯狂�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一个发生在炎热夏季的故事，主角刘亮突然迎来了自己的表亲刘翠兰，她是来自乡下的女孩。故事围绕着他们两人之间西式家庭生活的互动展开。刘翠兰在外貌上虽然个性十足，却又带有乡村少女的粗犷气质，让刘亮既期待又心生厌恶。刘翠兰来到了城市中，抱着对都市生活的憧憬，却在刘亮身上施加了感情的考验。故事通过刘亮的内心独白反映了他对刘翠兰的不喜欢与随之而来的微妙情感变化。尽管最开始刘亮强烈地拒绝了刘翠兰，但她却以其独特的方式不断秀给刘亮她的魅力与个性，反映出一种传统与现代之间的巨大冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[皮物]_我的乡下疯狂女友.doc]([皮物]_我的乡下疯狂�
 | Format          | Microsoft Word Document                               |
 | Size            | 43008 bytes                           |
 | MD5             | 823770fe31e78f5792e58860f9d52892                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘小说, 家庭伦理, 都市生活, 青春爱情, 自我认知, 另类文化, 情感纠葛, 乡村与城市, 指腹为婚, 社会习俗, 性别角色, 青少年成长, 内心挣扎, 强烈对比, 爱情与厌恶, 女方主动, 角色发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

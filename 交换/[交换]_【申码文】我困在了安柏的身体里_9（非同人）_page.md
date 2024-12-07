@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_9（非同�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别小说《我困在了安柏的身体里》第9章的内容。故事围绕着主角从一个41岁的男性身份转变为23岁的女性身份后所面临的情感与生理变化展开。主角与他的妻子艾米丽在新的身体认同与性欲的探索中相互支持，尽管初始阶段存在尴尬与不适，但他们决定共同尝试，积极探索彼此在此次变化中的新关系。章节中提到主角对失去男性生理特征的强烈怀念，以及他对新身体的适应过程，其中充满了细腻的心理描写和情感纠葛。最终，他们在相互学习和支持中找到了新的亲密感受，以及如何重建他们的情感与性关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【申码文】我困在了安柏的身体里_9（非同�
 | Size            | 34304 bytes                           |
 | MD5             | 9bbbc77bd9511600179f379eec398c84                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 情感探索, 家庭关系, 性认同, 生理变化, 自我认知, 角色扮演, 性欲, 女性身份, 婚姻, 亲密关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

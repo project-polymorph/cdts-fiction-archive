@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_育乳套装.doc]([皮物]_育乳套装.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于“育乳套装”的短篇小说，作者为灯台守。故事围绕一个年轻男性角色展开，他在一个星期天回到家时发现了一件陌生的包裹，包裹上写着寄信人的名字是他的同学。该同学在班里因其『巨乳萝莉』的特征而成为热门话题。包装内置有一套名为“育乳套装”的物品，角色出于好奇打开包裹，一系列的情节由此展开。此套装看似给予角色性别和外形的变化，甚至引发其身体认知的冲突，涉及性别认同与身体认知的主题。随着故事的发展，角色通过穿戴套装逐渐体验到身体和意识上的变化，描绘了一种奇异的体验。打开包裹所散发出的女性气息让他感到兴奋，而穿上套装后，他不得不面对无法脱下身份的困境。整个故事充满了自我探索和性别认同的张力，也涉及了潜在的性暗示和性幻想内容，对性别和社会认同进行反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_育乳套装.doc]([皮物]_育乳套装.doc)
 | Size            | 48640 bytes                           |
 | MD5             | 87ebd6a7471c7fcc7162f746ed2cb893                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 灯台守                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变身小说, 巨乳萝莉, 性别认同, 自我探索, 幻想, 奇幻, 穿越, 身体认知, 角色转换, 育乳套装, 性暗示, 青少年, 科幻小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

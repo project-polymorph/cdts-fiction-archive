@@ -7,7 +7,7 @@ TXT 下载: [[变装]小青的堕落与蜕变_第三章.doc]([变装]小青的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为第三章，讲述青蛇利用龙族秘术化形为人后，与白素贞之间发生的复杂情感和身体接触。故事中，小青因施展秘术消耗过多妖力，内心涌动着对白素贞的爱慕与欲望。在一系列情感纠葛中，小青抱住白素贞，因欲火焚心而展开亲密接触，场面描绘了两人之间的生理冲突与情感升华。接着，白素贞为小青准备了女装，帮助她换上，并引导她接受自己的新身份，过程中小青体会到了女装的羞耻和兴奋双重感受。这一章中多次交织着欲望与纯洁，展现了性别认同的探索和自我认同的蜕变。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]小青的堕落与蜕变_第三章.doc]([变装]小青的�
 | Size            | 32768 bytes                           |
 | MD5             | 93ce6684cdb31f32b841384221fedd64                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 妖怪爱情, 龙族秘术, 自我认同, 情感纠葛, 女装癖, 欲望, 强烈情感, 生理冲突, 性别探索, 神仙妖怪, 青蛇, 白素贞, 月光下的羞涩                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

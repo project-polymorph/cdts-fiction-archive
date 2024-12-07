@@ -7,7 +7,7 @@ TXT 下载: [入替大美女！附身电棒奇遇【续集】.doc](入替大美�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转换和附身题材的小说，描绘了两个美女角色赵倩和夏雨涵在校园中悠闲散步时的诡异经历。故事围绕着一根附身电棒展开，主人公通过这根电棒进行身体和性器官的双向转换。文本中细致描绘了角色之间的互动与情感，涉及一些色情内容，包括角色的身体接触和性行为。小说展现了两位角色在探索和体验身体转换带来的新奇感受时的对话和心理状态，同时也融入了校园环境的氛围。作品中涉及对角色外貌、情感和自我认知的描绘，具有较强的二次元色彩。 
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [入替大美女！附身电棒奇遇【续集】.doc](入替大美�
 | Size            | 44544 bytes                           |
 | MD5             | 7bae2f7d38b91348f7cc80ef12aca796                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 附身, 校园, 伪娘, 变身, 双向转换, 自我认同, 复杂情感, 女教师与学生, 强烈的身体接触, 异性恋情节, 情色, 探索自我, 二次元, 成人内容, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

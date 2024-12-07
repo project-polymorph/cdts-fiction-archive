@@ -7,7 +7,7 @@ TXT 下载: [[附身]_死神少女1-6（申码文）.docx]([附身]_死神少女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《死神少女》系列的申码文，描绘了一起围绕都市传说和神秘杀人事件的故事。故事中，女刑警唐糖和她的搭档刘梓辉在调查一起少女杀人案件时发现，受害者周围的女性被操控并杀人，而这些女性并没有实际的犯罪记忆。这起案件涉及一个复杂的犯罪团体，唐糖通过分析案件现场的蛛丝马迹，推测出背后可能是精通催眠和黑客技术的组织。此文旨在揭示社会中的性别与自我认知冲突，结合悬疑与激烈的心理斗争，展现出女刑警唐糖在细腻且危机四伏的环境中勇敢探索真相的过程。文章还引用了多种角色的对话，展现了紧张的案件气氛和女刑警的聪明才智。此故事探讨了性别认同、操控他人意志的主题，同时涉及复杂的人际关系与道德冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_死神少女1-6（申码文）.docx]([附身]_死神少女
 | Size            | 60462 bytes                           |
 | MD5             | be13ce60542d3b6bbfe701b1071364a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 死神少女, 都市传说, 刑警, 性别认同, 操控, 催眠, 悬疑, 少女杀人案, 心理斗争, 犯罪组织, 性别转换, 自我探索, 推理, 黑客技术, 复杂人际关系, 都市犯罪, 女刑警, 悬疑小说, 二次元, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

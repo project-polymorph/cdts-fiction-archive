@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_老婆大人不在的星期天（上）.docx]([皮物]_老
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章《老婆大人不在的星期天（上）》是一个关于城市生活与变装文化交织的短篇小说，文字通过主人公王小明的第一人称视角，细致描绘了他在妻子离家后实施的变身计划。故事背景设定在现代上海，主角是一名对生活有着独特追求的地道上海男人，拥有较好的经济条件且生活安逸。他热衷于道具变装并通过一系列精致的变装道具体验女性角色，文章的前部分主要描述了他精心策划和准备变装的过程，包括挑选面具、衣物和配件的细节。主角希望通过变身体验不同身份的人生，并从中寻找情感与自我认同的共鸣。文中涉及了变装和性别认同相关的细腻描写，表现出主人公内心对女性形象的憧憬与认同，同时也探讨了现代社会中性别的多元表现。整个文本核心围绕着性别转换、变装体验、生活方式以及人性探讨等主题展开，非常具有思考性和趣味性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_老婆大人不在的星期天（上）.docx]([皮物]_老
 | Size            | 43093 bytes                           |
 | MD5             | 2b20e409474213576076743ad2e51084                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 王小明                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别转换, 都市生活, 自我探索, 二次元, 道具变装, 角色扮演, 人生体验, 情感认同, 现代爱情, 跨性别, 性别认知, 社会文化, 女性视角, 虚拟现实, 生理变化, 心理描写, 幻想, 个人成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

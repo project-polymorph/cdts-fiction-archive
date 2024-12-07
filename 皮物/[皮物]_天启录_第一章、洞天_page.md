@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_天启录_第一章、洞天.docx]([皮物]_天启录_第�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《天启录》的第一章，构建了一个充满传奇与神秘色彩的幻想世界。故事背景设定在广袤的九州大地，描述了历史悠久的战乱和修炼之道。章节通过卫国骠骑将军金源的经历，讲述了他如何得到神迹《天启录》，并最终统一中原建立大胤王朝。在这个过程中，揭示了权谋、背叛与传承的情节。文中提及的角色墨律以道德和智慧影响了众多传承，尤其是青璜派的建立。而故事开头的动人描写以及细腻的情感刻画，引导读者进入一个充满奇幻元素的古代神话中，其中涉及到性别、身份认同等复杂主题，引人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_天启录_第一章、洞天.docx]([皮物]_天启录_第�
 | Size            | 20581 bytes                           |
 | MD5             | 4432cb8099c0deb7d88ce2d75d602dd9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 天启录, 幻想小说, 古代传奇, 权谋, 自我认知, 修炼, 性别认同, 信仰, 传承, 冒险, 青璜派, 变身, 九州, 人物关系, 魔法救赎, 灵异                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

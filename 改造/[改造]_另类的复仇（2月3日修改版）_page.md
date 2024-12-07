@@ -7,7 +7,7 @@ TXT 下载: [[改造]_另类的复仇（2月3日修改版）.docx]([改造]_另�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于伪娘与变身主题的小说，讲述了一个男子被绑架后发生的系列事件。故事开篇描绘了一个阴暗的房间，人物之间涉及一笔交易，男子对某个同学的身份存疑，言语中渗透出阴暗的计谋和复仇的动机。接下来，故事深入主角的视角，他在密室中醒来，对周围环境感到困惑和恐惧，随着回忆逐渐拼凑出自己被绑架的真相。小说中充满了悬疑和情感冲突，探讨了性别认同的问题。一位隐藏在监控室的男子似乎正在操控这一切，涉及不法交易与人格改造的计划暴露出更深层次的社会问题。整体情节复杂而引人深思，适合对相关主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_另类的复仇（2月3日修改版）.docx]([改造]_另�
 | Size            | 63032 bytes                           |
 | MD5             | a0a7dd4228337c5eed630c0541d73256                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 绑架, 复仇, 商人, 阴暗交易, 性别认同, 人格改造, 心理困境, 监控                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

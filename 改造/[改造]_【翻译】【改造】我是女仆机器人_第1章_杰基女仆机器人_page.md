@@ -7,7 +7,7 @@ TXT 下载: [[改造]_【翻译】【改造】我是女仆机器人_第1章_杰�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本档案文档为《我是女仆机器人》第一章，讲述了主人公杰基的生活与转变。杰基是一个富有的太太，因丈夫工作常常独自在家，感到无聊与孤独。在朋友推荐下，她接触到了‘Stacy Maid-bot’控制系统，能够让她体验做女仆机器人的感觉。在拨打相关公司的电话后，杰基最终决定尝试这个系统，这个系统能够让她暂时失去身体的控制权，成为一个受控的机器人，从而满足她内心深处渴望被控制和服从的心理。文中详细描述了杰基内心的挣扎和随之而来的兴奋感，她逐渐接受并享受这种转变的过程。尤其是她在技术人员的指导下体验自己的新身份的情节，充分展示了她内心的兴奋与矛盾感，展现了性别转换与身份认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_【翻译】【改造】我是女仆机器人_第1章_杰�
 | Size            | 42496 bytes                           |
 | MD5             | 6abf8e43c69973d7d475138cd196b0ba                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 女仆机器人, 性别转变, 机器控制, 自我探索, 身份认同, 兴奋与服从, 智能家居, 现代科技, 富裕太太, 情感转换, 性别认同, 角色扮演, 机器人主题, 心理状态, 科技与生活, 女性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

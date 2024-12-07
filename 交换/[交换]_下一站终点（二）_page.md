@@ -7,7 +7,7 @@ TXT 下载: [[交换]_下一站终点（二）.doc]([交换]_下一站终点（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部伪娘跨性别小说的章节，标题为《下一站是终点（二）》。故事围绕着主角杜宏盛展开，他的性别被迫转换为女性，并在一群神秘女性的操控下，经历一系列的骚扰与自我探索。文本中详细描绘了杜宏盛在变成女人后内心的挣扎和由此带来的身体和情感上的冲突与改变。杜宏盛努力抗拒这种变化，却逐渐沉迷于新的身份和体验中。故事中包含强烈的色情情节，展示了对性别认同和自我认知的深刻探讨。文中使用了充满张力和挑逗的语言，描写了几位女性与杜宏盛之间复杂的互动与冲突，一句“别...别...求求你们放过我好吗？”深刻表达了他的无助与绝望。旨在探索性别的流动性和对自我的重新定义，故事富有挑战性和争议性，可能更适合成年读者。文件内容涉及的主题复杂多元，包括性别认同、强迫转变以及人际关系的权力游戏等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_下一站终点（二）.doc]([交换]_下一站终点（�
 | Size            | 51712 bytes                           |
 | MD5             | ef71016ee0b287e64d8c77e11cb13696                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 强迫转变, 性别认同, 自我探索, 性别冲突, 成人内容, 变身小说, 情感挣扎, 多重身份, 性别角色, 社会边缘, 内心斗争, 幻想小说, 第二性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[改造]_父親的遺產_第十二回、肛交性奴_(2).docx]([改
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为某系列伪娘 TS 变身与跨性别相关小说的第十二回，主要描绘了角色玉玲在一群男性角色的压迫和凌辱下，经历了一系列肆意的性行为，突出表现出其痛苦与挣扎的情感。故事开篇描述了玉玲因身体被一名男性角色侵犯而昏厥，而后在被明确显著的性暴力场景中重新苏醒。描述涉及了多种性行为，反复强调其作为性奴隶的状态，以及对身体和心理的极度侵害。故事的后半段描绘了玉玲在调教中的屈辱以及其他角色对她无情的攻击，文中包含了多种物理和心理上的虐待元素，表现出了强烈的压迫感与性别身份的扭曲。诸多场景中伴随着强烈的性暗示与物化，用以突显角色内心的绝望与痛苦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_父親的遺產_第十二回、肛交性奴_(2).docx]([改
 | Size            | 26202 bytes                           |
 | MD5             | 0ebbf7044a4296dd0416781abffe1239                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性奴, 变身, 羞辱, 肛交, 轮姦, 强奸, 调教, 屈辱, 性暴力, 青春, 校园, 性别认同, 自我探索, 痛苦, 党派身份, 非人化, 服从, 变态, 红房子                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《猴哥是个小仙女》附身类trpg跑团战报4.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇关于附身类TRPG（桌上角色扮演游戏）跑团的战报，主要讲述了角色“猴哥”与其父亲之间发生的复杂关系。在故事中，猴哥因任务而需要勾引其生理父亲，经历了一系列心理与情感的冲突。文中提到的“完成自由任务：父女”则揭示了角色游戏中的目标与情节发展。暖檬与猴哥之间的对话展示了角色之间的互动与发展，如在完成任务的过程中所获得的经验值和技能等。同时，文中包含了许多游戏设定和技能描述，比如“青萍踏水”、“柔云剑术”等，这些都是在角色扮演过程中所需的特殊能力。故事发展中逐步展开了猴哥对自身身份的探讨和对父亲感情的复杂描绘，带有一定的戏谑成分与情感深度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《猴哥是个小仙女》附身类trpg跑团战报4.docx
 | Size            | 35676 bytes                           |
 | MD5             | ad82ac03c4bbad547eb39e43f508d411                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身类TRPG, 父女关系, 性别转换, 角色扮演, 情感冲突, 变身小说, 任务系统, 游戏设定, 情感探索, 儿童与父亲, 另类幻想, 互动剧情, 青苹踏水, 柔云剑术, 相思情毒, 肉欲连锁, 耽美, 虚拟角色, 游戏剧情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

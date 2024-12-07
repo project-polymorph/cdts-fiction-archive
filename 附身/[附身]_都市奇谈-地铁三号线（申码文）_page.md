@@ -7,7 +7,7 @@ TXT 下载: [[附身]_都市奇谈-地铁三号线（申码文）.doc]([附身]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部关于都市奇谈的小说，围绕主角张雨的心理挣扎与性别转换的奇幻经历展开。故事开篇，张雨在校内被诊断出有良性肿瘤，这让他的生活陷入了紧张与焦虑。在平常的生活中，他与同桌李立讨论起网络上的都市怪谈，并偶然被引导至一个神秘的网站，这个网站似乎能读懂他的烦恼并把他卷入了诡异的情境。当他在地铁上面临一个改变自己命运的选择时，他被迫进行了无法控制的转变，最初的男主张雨变成了班上的女同学王瑞希，进入了一个他从未体验过的身体和感受。这段经历不仅使他陷入了混乱，也让他面临了自我身份认同的挑战。整个故事涉及到性别认同、自我探索和青春困惑，结合了奇幻、恐怖以及性别转换的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_都市奇谈-地铁三号线（申码文）.doc]([附身]_
 | Size            | 71680 bytes                           |
 | MD5             | 6475f08275b44aaecc6668374df61b45                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 都市奇谈, 性别转换, 跨性别, 青春困惑, 心理挣扎, 怪谈, 自我认同, 性教育, 青少年小说, 灵异故事, 社会话题, 教育问题, 幻想, 身份探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

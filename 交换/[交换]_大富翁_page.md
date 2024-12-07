@@ -7,7 +7,7 @@ TXT 下载: [[交换]_大富翁.doc]([交换]_大富翁.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档名为《交换_大富翁》，主要内容围绕五位毕业生在毕业旅行中的一次桌游体验展开。五位角色分别是李婷、刘萌萌、胡一菲、李伟和王芳婷，他们在一次集体玩游戏的过程中，偶然遇到了一款名为“肢体大富翁”的游戏。这款游戏的棋盘上绘制了各种身体部位，而玩家必须通过游戏的机制来购买和占有这些肢体。在游戏开始后，他们的身体突然变得半透明，甚至无法通过常规方式接触到周围的物体，这让五人感到十分恐慌。角色之间的对话展现了他们的个性，游戏的设定也逐渐引发了紧张和幽默的情节发展。文中的情节涉及了友谊、青春、以及性别身份等元素，营造出一种奇幻而又紧张的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_大富翁.doc]([交换]_大富翁.doc)
 | Size            | 57856 bytes                           |
 | MD5             | 601c42b5f3343652059508bebff69871                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 独特桌游, 毕业旅行, 青春故事, 友谊, 大学生活, 幽默, 奇幻冒险, 身体交换, 性别认同, 命运交错, 肢体, 恐慌, 魔法, 欢乐, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

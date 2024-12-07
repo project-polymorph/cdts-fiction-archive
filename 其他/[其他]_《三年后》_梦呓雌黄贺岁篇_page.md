@@ -7,7 +7,7 @@ TXT 下载: [[其他]_《三年后》_梦呓雌黄贺岁篇.docx]([其他]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《三年后》梦呓雌黄贺岁篇以新年的背景为开篇，描述了宋晓雯与其丈夫谭伯伟在正月初十的日常生活。文章中详细描绘了宋晓雯的外貌与心态，她在为迎接小姊妹聚会而精心打扮。与丈夫的互动则充满了夫妻之间的幽默与亲密，彼此的对话展现了他们的日常生活和情感联系。同时，文章通过描绘他们的亲密行为，涉及了性与情感的交织。故事中夹杂着对当下生活的感慨及对未来的期待，展现了浓厚的现代都市氛围。此外，随着情节的推进，涉及了一个与性相关的暗示，描绘了在私密空间中开展的亲密交流与冲突，显示了复杂的人类关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_《三年后》_梦呓雌黄贺岁篇.docx]([其他]_《�
 | Size            | 26326 bytes                           |
 | MD5             | cc39fa9ac0fa510690f808f9d76fe61c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 强奸, 调教, 跨性别, 百合, 年轻, 家庭, 都市生活, 亲密关系, 自我探索, 新年, 爱情, 情感交流, 性别认同, 阴阳怪气, 现代关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

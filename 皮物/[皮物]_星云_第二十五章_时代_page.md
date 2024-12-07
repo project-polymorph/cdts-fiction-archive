@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星云_第二十五章_时代.docx]([皮物]_星云_第二
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇关于宇宙时代的科幻故事，描绘了一个通过先进科技而机械化的文明在其衰亡边缘的叙述。故事中，叙述者在考古过程中发现了一种奇异的皮肤物品，这种物品不仅具有温暖的触感，还蕴含了几千年前的先进技术与灵魂的碎片。当他试图穿上这层皮肤时，感受到的是一种身份的错位与回忆的连结。叙述者在回忆中看到文明发展的轨迹，科技进步带来了生命延续，但也使得人类逐渐失去了情感和文化。故事中包含对时间流逝的哲学思考，表达了对未来的无奈与对过去的追忆。文中提到“我们的文明展开宇宙殖民的那个瞬间就注定了未来的失败”，反映了科技对人类情感的侵蚀，以及在宇宙浩瀚中人类的渺小和孤独。文本富含对历史和文明的反思，是一部具有深刻内涵的科幻作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星云_第二十五章_时代.docx]([皮物]_星云_第二
 | Size            | 17783 bytes                           |
 | MD5             | dfacd88792e18ceeeb10ea4d9ef9e29c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 科幻, 宇宙时代, 文明衰亡, 身份错位, 科技与人性, 时间流逝, 灵魂转移, 机械化, 未来主义, 考古, 情感缺失, 哲学思考, 文化反思, 虚拟现实, 纳米技术, 生物工程                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

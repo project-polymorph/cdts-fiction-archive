@@ -7,7 +7,7 @@ TXT 下载: [[附身]_溫泉異夢.doc]([附身]_溫泉異夢.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇围绕性别身份及性转主题的小说，主要描绘了一对年轻情侣，小张和小琪，前往家庭温泉度假所发生的亲密情节。故事设置在清明节期间，情侣们为即将到来的假期旅行感到兴奋不已，并期待在温泉中畅享二人时光。文中通过细腻的描写，展示了他们在温泉池中轻松愉快的互动，以及随着情节的发展，两人之间的亲密关系逐渐升温。在温泉的热气中，小琪和小张初次探索彼此的身体，描绘了他们的亲吻、拥抱及对身体的欲望，细腻而热烈的情感流露不断交织://原文中提到的‘愛她，就帶她去旅行吧’，也折射出他们的爱情与期待。随后，文中生动描写了两人之间的迷醉与情欲结合，展现出女性小张和男性小琪夫妇相互依偎、情感交融的场景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_溫泉異夢.doc]([附身]_溫泉異夢.doc)
 | Size            | 48128 bytes                           |
 | MD5             | 22d8eaa17fc338307dc566c19d47867c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 温泉, 情侣, 性别转换, 亲密关系, 爱情, 性转, 欲望探索, 浪漫, 轻松, 寝室生活, 自我认知, 热恋, 情感纠葛, 情欲, 互动, 幻想情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

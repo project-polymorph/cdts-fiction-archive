@@ -7,7 +7,7 @@ TXT 下载: [[附身]_美少女战士邪传（三）.docx]([附身]_美少女战
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别相关小说，讲述了美少女战士们试图救援被绑架的水野亚美的故事。在地下宫殿的紧张氛围中，刚开始是救援的紧迫感，随着故事的发展，涉及到角色的心理变化及其性别认同的问题。在故事中，美少女战士们分头行动寻找亚美，途中面临了一系列的陷阱与挑战。在一段悬念迭出的情节中，美奈子意外落入敌手，场景中出现了一名妖魔，并且涉及到了一些性相关的暗示和对角色身份的探索。这种设定不仅加入了战斗与冒险的元素，也描绘了角色们在面对自我与他人身份之间冲突的心理历程。文中对于亚美的变化及心理状态进行了深入描述，借此探讨了自我认同和身体认同的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_美少女战士邪传（三）.docx]([附身]_美少女战
 | Size            | 38383 bytes                           |
 | MD5             | 9d8d304d0896011c56aac3b3b58683fd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 美少女战士, 跨性别, 性别认同, 冒险, 救赎, 地下宫殿, 妖魔, 自我探索, 变身, 性别转换, 情感纠葛, 二次元, 强迫, 爱情, 暗黑, 戏剧性                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

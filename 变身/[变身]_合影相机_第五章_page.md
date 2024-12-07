@@ -7,7 +7,7 @@ TXT 下载: [[变身]_合影相机_第五章.doc]([变身]_合影相机_第五�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章介绍了两个主角黎司和章山的互动，情节围绕着一台相机的新功能展开，这个功能能够让他们在某种程度上实现变身。故事开头，黎司反思之前的经历，感到一丝不安但又对变身产生了一种奇妙的期待。章山提出一起测试相机的想法，并在女仆咖啡店见面进行实验。相机的功能涉及到角色的附身和外貌的变化，这引起了黎司的紧张与好奇。随着情节的展开，章山通过相机变成了女仆身份的娜娜，这个过程伴随着对自我的认知与身份的探讨。整章节描绘了他们在变化过程中的迷茫与欢乐，以及对性的探索与玩笑。随着女仆的出现，情节也逐渐渗透进一种轻松诙谐的氛围，凸显了二次元文化中的变身主题。最后，章山与黎司的互动揭示了角色之间的亲密关系以及对彼此角色的调侃。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_合影相机_第五章.doc]([变身]_合影相机_第五�
 | Size            | 41984 bytes                           |
 | MD5             | 085e486108570a7d679f9194ba91e8b5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 女仆咖啡店, 角色附身, 二次元文化, 跨性别, 伪娘, 性别认同, 自我探索, 奇幻, 互动故事, 魔法, 强奸, 淫荡, 调教, 多个角色, 恶搞, 虚拟现实, 宅文化, 女生短裙, 青春校园, 恶搞                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

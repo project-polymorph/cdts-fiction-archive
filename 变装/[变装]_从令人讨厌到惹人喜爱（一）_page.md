@@ -7,7 +7,7 @@ TXT 下载: [[变装]_从令人讨厌到惹人喜爱（一）.doc]([变装]_从�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《从令人讨厌到惹人喜爱》是一部围绕男主角詹姆斯（化名“简”）的性别变身小说。故事设定在大学校园，描述了詹姆斯面临的住房困境。他在寻找室友合租广告时，决定以女性化的身份申请加入四个女室友的家庭。尽管他意识到这一做法可能引起误会，但迫切的需求让他毫不犹豫地发出申请。在面试时，他因真实身份的揭露而面临来自女室友们的质疑和拒绝。面对她们的反应，情节展开了复杂的权力与认同的互动，逐步揭示彼此在性别认同上的碰撞与理解。作品通过詹姆斯的经历探讨了性别认同、自我探索以及人际关系的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_从令人讨厌到惹人喜爱（一）.doc]([变装]_从�
 | Size            | 36864 bytes                           |
 | MD5             | cc21257d7217520265ace5c959d7ff1d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | JaneSlaveMaid                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 大学生活, 自我探索, 性别认同, 爱情, 友情, 人际关系, 社会压力, 生存困境, 群体互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

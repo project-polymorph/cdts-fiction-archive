@@ -7,7 +7,7 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第三节.docx
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件属于艳八仙系列的第三节，主要描绘了角色之间复杂的家庭关系及性别认同的探索。内容中提到角色的父母突然回来，并引入了一个看似外国的干儿子布鲁，其外貌像极了中国美人，给主角带来了认同和心理上的困惑。布鲁的形象和行为不仅模糊了生理性别的界限，也引发了关于性欲与身份的讨论。文中探讨了角色对‘艳天’的理解，这个地方对性欲没有限制，暗示了角色对此的向往与认同。同时，通过布鲁和其他角色的互动，展现了“伪娘”这一概念的多重性及对性别流动性的描绘。尽管文中涉及了一些限制级的情节，如性暗示和角色间的亲密行为，但更深层的主题是对自我认同与家庭关系的不断探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_艳八仙系列-爱我所爱（蓝采和）-第三节.docx
 | Size            | 18925 bytes                           |
 | MD5             | fac4b0dc36e65673942596377c6b12a2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 伪娘, 跨性别, 性转, 家庭关系, 艳天, 性欲解放, 情感纠葛, 自我探索, 角色互动, 幻想, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

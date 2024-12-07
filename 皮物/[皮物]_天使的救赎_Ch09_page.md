@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_天使的救赎_Ch09.doc]([皮物]_天使的救赎_Ch09.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是《天使的救赎》第九章的内容，主要围绕角色仙蒂的心理状态和她与诺瑞斯之间的关系发展。故事开头描述了仙蒂醒来后的不适，意识到自己和诺瑞斯发生了亲密关系，内心产生了复杂的情感。仙蒂意识到自己的身份与过去的联系正逐渐模糊，感到了一种失落与恐慌。诺瑞斯在一旁的反应以及仙蒂对自己状态的探讨进一步升华了这一情感的矛盾。随着情节的发展，仙蒂拨打了好友艾米的电话，寻求帮助，试图面对这种突如其来的变化与情感。文件内容详细刻画了角色的内心挣扎，包括性别认同的困惑和自我认知的冲突，也涵盖了一些暗示性的情节，如“昨晚的情景历历在目”，反映出角色在情感与身份上的挣扎。整体故事充满了情感张力和复杂的人物关系.
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_天使的救赎_Ch09.doc]([皮物]_天使的救赎_Ch09.do
 | Size            | 46592 bytes                           |
 | MD5             | 048e1dc571571fb3554ec418df46acff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性认同, 自我探索, 爱情, 情感冲突, 一夜情, 朋友之间的支持, 角色心理描写, 隐私失落, 情感依赖, 青春困惑, 性别角色, 社会认同, 个体挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

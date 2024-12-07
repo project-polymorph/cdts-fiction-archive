@@ -7,7 +7,7 @@ TXT 下载: [[附身]_夏娃之泪（第一章&第二章）.docx]([附身]_夏�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《夏娃之泪》讲述的是两个年轻人的冒险故事，主要角色包括龙美夕和周淳。龙美夕是一名聪明、有能力的职业女性，近期她与周淳在公司工作中逐渐产生了恋情。整个故事围绕她们的日常生活展开，特别是发生在健身房的意外，龙美夕被一个猥琐男子下药，产生了一些意想不到的事件。透过夏娃之泪这个神秘的物品，故事涉及了性别认同和自我探索的主题。男子周淳发现了这根夏娃之泪后，进一步引发了一系列复杂的事件，探讨了人与人之间的深层关系及其潜意识的融合。故事不仅聚焦爱情的发展，也描绘了龙美夕的坚强与自我保护意识，以及面对威胁时的从容和果敢。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_夏娃之泪（第一章&第二章）.docx]([附身]_夏�
 | Size            | 23536 bytes                           |
 | MD5             | ff85ca634cfa096fb9623397bb4443d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 夏娃之泪, 变身, 性别转换, 自我探索, 猎奇, 爱情, 悬疑, 都市, 魔法, 健身房事件, 职业女性, 冒险, 神秘物品, 性别认同, 职场恋情, 心理, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

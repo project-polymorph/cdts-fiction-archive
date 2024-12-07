@@ -7,7 +7,7 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_90.docx]([改造]_把男朋友
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《把男朋友养成亲闺女》第九十章，讲述了角色贝丽在生日派对后的情节。贝丽以女性身份出现，她的外貌和行为从一位男性角色转变为一个清纯的少女。这一变化得益于梅根等人对她的调教，同时随之而来的是对性别认同和自我认识的冲突与探索。故事中，贝丽的生日派对上，角色们相互交流和互动，表现出浓厚的家庭氛围和复杂的感情纠葛。尤其是贝丽与曼迪之间的关系，揭示了跨性别角色面临的挑战与自我认同的挣扎。最后，文中提到一系列性别与性相关的情节，例如性别转换、伪娘化以及围绕调教的主题，提出了对待这一过程的情感困惑和身体认同的问题。内容涉及色情和限制级的元素，包含大量关于性和身体变化的描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_90.docx]([改造]_把男朋友
 | Size            | 27776 bytes                           |
 | MD5             | 48501aa43d15f94c5a2bbea1ec5d29a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别转换, 跨性别, 调教, 自我认同, 爱情, 生日派对, 女性化, 朦胧关系, 性相关内容, 愉悦与痛苦, 复杂情感, 家庭关系, 角色认同, 心理挣扎, 都市生活, 青春成长, 性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

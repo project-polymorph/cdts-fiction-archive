@@ -7,7 +7,7 @@ TXT 下载: [[交换]_真理奈的恶作剧_P04(中).docx]([交换]_真理奈的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《交换：真理奈的恶作剧》是关于一个角色在身体交换过程中经历的一段奇妙与尴尬的故事。在文中，主要角色祐介与升田老师进行了身体的交换，随之而来的不仅仅是身份的变化，还有性别角色所带来的生理与心理的冲突。故事通过对话的形式描绘了两人面对新身体时的不适与困惑，特别是在使用洗手间时的窘境，中间穿插着升田对于其身体的新体验，以及祐介的抱怨与抵触。祐介对于升田请求帮助的反应显得既惊讶又不适，内心中充满了对当前情境的反感和疑惑，甚至对身体的认知感到混乱。此篇作品不仅涉及了性别认同与身体的探索，也表达了对身体自主权与他人干预的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_真理奈的恶作剧_P04(中).docx]([交换]_真理奈的
 | Size            | 24191 bytes                           |
 | MD5             | f0e1a6b20b7562a6b07c707da7156a32                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 身体交换, 性别认同, 心理冲突, 性转, 伪娘, 幽默, 尴尬, 校园, 绝对不可能, 三人行                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

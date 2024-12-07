@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身绳缘_十_十一_十二.doc]([变身]_变身绳缘_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件源于一系列关于变身和性别转换的小说，具体情节围绕主要角色郝建和胖子的经历展开。他们的好友姚笛遭遇了一些困境，郝建和胖子试图寻找帮助的方式，表现出年轻人的无力感和社会压力。在剧情中，郝建经历了内心的挣扎，最终决定以极端的方式出售自己的贞操以帮助好友。文中描绘了角色间的复杂情感、性别角色的挑战、以及社交媒体中遇到的猎头与讽刺的互动，充满了青春的迷茫与失落。小说涉及了诸如性别认同、自我探索等主题，同时也包含一些较为沉重和敏感的社会现实，比如面对困境时所做的选择与妥协。这样的情节展示了现代年轻人在追求自我认同与价值实现过程中的困惑和挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身绳缘_十_十一_十二.doc]([变身]_变身绳缘_
 | Size            | 44544 bytes                           |
 | MD5             | 2769b6dab324922842fa491b2cd6b905                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 青春, 性别认同, 社会压力, 情感纠葛, 性转, 性别转换, 友情, 无力感, 贞操                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

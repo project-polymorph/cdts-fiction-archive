@@ -7,7 +7,9 @@ TXT 下载: [[附身]_十二宫_四章（完结）.doc]([附身]_十二宫_四�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《十二宫》是一部围绕一系列离奇自杀和谋杀案件展开的悬疑小说。故事从第一具尸体的发现开始，描绘了不同女性角色的悲惨结局，涉及自杀、谋杀及社会对这些事件的冷漠反应。小说中的角色包括年轻的记者李星瑶，她通过调查报道逐渐揭开案件背后的秘密。这部小说涉及到人物之间的复杂心理和社会现象，探讨了人性深处的罪恶与无奈。文章通过多位角色的眼睛，描绘了悲剧发生的前因后果，并揭示了犯罪者对社会的嘲弄和挑战，令人深思。
+
+在故事的不同篇章中，读者见证了多起女性的死亡，这些死亡被描绘得既神秘又阴暗，并引发了社会的讨论与关注。尤其是罪犯的心理扭曲和他们选择受害者的原因，别具一番吸引力。书中出现的各种警察对话、记者调查过程以及引人入胜的犯罪手法，让整部作品充满悬疑气息。最终，叙述的集中点在于，作者希望通过这些作品引发大众对人性、道德和社会伦理的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_十二宫_四章（完结）.doc]([附身]_十二宫_四�
 | Size            | 50176 bytes                           |
 | MD5             | 8cea791530c7eb5838bdf5ee92ff670f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 悬疑小说, 犯罪, 心理分析, 悲剧, 社会现象, 自杀, 谋杀, 记者调查, 人性探讨, 阴暗心理, 记者和警察对话, 社会冷漠, 死亡与生命, 青年女性, 幽暗故事, 受害者与加害者, 哲学思考, 反社会心理, 道德困境                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

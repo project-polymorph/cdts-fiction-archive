@@ -7,7 +7,7 @@ TXT 下载: [[变装]_夏威夷假日_1_12.doc]([变装]_夏威夷假日_1_12.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《夏威夷假日》是Clara所创作的一篇关于性别转换及变装主题的小说，原著发表在www.tgstorytime.com。该故事围绕着主角唐尼的经历展开，他在万圣节派对上因外貌与朋友米奇的女朋友形象相似，被迫冒充其女朋友道恩。这篇小说探索了角色在性别扮演和社会期待之间的冲突与认同，情节使用了丰富的对话和内心独白，展示了人物关系的复杂性及主角的内心挣扎。文中对化妆、美容及服装等细节的描绘体现了穿衣打扮的文化背景，同时也折射出对理想生活的追求与现实的反思。故事虽有些老套和乏味，但却给人一种充实感。小说包含大量对性别认同和角色扮演的思考，展现出一种轻松愉快的氛围，尽管背景暗含复杂的人际关系和情感纠葛。但整体情节倾向充满理想化和青春气息，适合对变装文化及性转主题感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_夏威夷假日_1_12.doc]([变装]_夏威夷假日_1_12.do
 | Size            | 73728 bytes                           |
 | MD5             | 64dc2154513b68127d279508de4a1a51                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Clara                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性别认同, 跨性别, 伪娘, 万圣节派对, 自我认知, 角色扮演, 青少年, 友谊, 爱情, 外貌与内心冲突, 小说, 二次元, 生活探索, 化妆, 美容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_天选之人_角色卡_（预览？剧透？）_[.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于多位角色的角色卡设计，包括猪角、文馨、凌姚、叶香和铃音等角色。每个角色都有详细的背景经历、职业、技能及个人评价。角色设定涉及到各种属性指标，如力量、体质、智力等，还包括他们的技能值和克苏鲁神话知识等特别设定。角色的背景十分丰富，有从天才数学家到神秘间谍、偶像等多种职业，每位角色都有独特的故事线，反映了他们在各自职业中的追求与挣扎。例如，铃音的故事讲述了她由普通小学生蜕变为正义魔法少女，最终成为广受爱戴的偶像。文件中含有许多剧情细节与角色能力的设定，适合对角色设计、背景故事及性别转换相关情节感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_天选之人_角色卡_（预览？剧透？）_[.docx]([�
 | Size            | 19496 bytes                           |
 | MD5             | 16863b9374e4dd53f089962d16ea39c0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 角色卡, 奇幻, 冒险, 魔法, 间谍, 文学, 天才, 偶像, 转变, 成长, 自我发现, 角色背景, 克苏鲁主题, 非人化, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

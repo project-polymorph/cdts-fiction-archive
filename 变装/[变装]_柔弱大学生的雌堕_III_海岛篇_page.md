@@ -7,7 +7,7 @@ TXT 下载: [[变装]_柔弱大学生的雌堕_III_海岛篇.doc]([变装]_柔�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文记录了一位柔弱大学生在一次海岛旅行中的奇特经历。故事以主演联同其室友晨哥赴热带海岛度假的开篇，表现出双方之间在性别认同与情感上的探索与矛盾。在旅途中，主演穿着女性衣物，尝试体验作为女性的生活，期间与室友和一个名为阿布的年轻男人展开了一系列情感交互，探索自我性别认同与欲望的交织。文中描绘了许多情感细腻、性暗示的细节，例如“我脱掉了外衣，露出比基尼包裹下的稚嫩娇躯”，以及与阿布之间的亲吻与互相吸引。这一情节在展示青春情感的同时，深刻探讨了性别、认同与欲望的复杂关系，也涉及了角色在异国环境中的自我发现与人际关系的变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_柔弱大学生的雌堕_III_海岛篇.doc]([变装]_柔�
 | Size            | 78336 bytes                           |
 | MD5             | 8b479802d4a7dc0221634c8cf179fa37                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变装, 海岛旅行, 青春爱情, 自我认同, 欲望探索, 跨性别, 情感纠葛, 暗恋, 异国, 挑逗, 露出, 冒险, 清纯                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

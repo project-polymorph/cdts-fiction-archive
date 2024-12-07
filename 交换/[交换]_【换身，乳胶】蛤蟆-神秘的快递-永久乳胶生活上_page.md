@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【换身，乳胶】蛤蟆-神秘的快递-永久乳胶�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一位年轻女性刘小美与其丈夫的生活故事，她在日常生活中进行创作，灵感枯竭之际，收到了一份神秘的快递。故事以小美的生活细节为开端，包括她作为全职作家的日常与夫妻间的温情对话，接着引入一个异乎寻常的金属立柜。这份快递里藏着一个透明的机器人，设计精巧，内部构造复杂，令人震惊。小美在好奇心的驱使下拆开柜子，里面的内容让她感到迷惑而好奇，逐步揭开了更多关于这个奇特人偶的信息。这部作品涉及性别转换与身份认同的主题，结合了日常生活的点滴和科技幻想的元素，探索了个体与自我认知之间的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【换身，乳胶】蛤蟆-神秘的快递-永久乳胶�
 | Size            | 90873 bytes                           |
 | MD5             | eb7b1bd4798fea66e61cfed236dc37be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 透明机器人, 青春爱情, 创作生活, 家庭关系, 奇幻科幻, 自我探索, 神秘快递, 高科技                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

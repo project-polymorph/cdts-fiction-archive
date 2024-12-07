@@ -7,7 +7,7 @@ TXT 下载: [[改造]_辉石战士——倒错融合！.doc]([改造]_辉石战�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《辉石战士——倒错融合！》是作者重口味女王创作的一部伪娘类型的小说，首发于堕落方舟、伊莉、cdb。在故事中，主角大沼俊太郎在黑暗帝国袭击国家电视台的过程中，尝试通过变身成为‘晶钻战士’来拯救被困的妇人。然而，在变身的过程中，俊太郎与一个女性角色的意识融合，经历了复杂的情感和身体变化。小说通过细腻而生动的描写展现了自我认知的冲突和对性别身份的探索。文中角色在感受到强烈的性欲和羞耻感时，展现了他们的内心挣扎和身体的变化，充满了冲突感与情欲的描绘。本作品可能包含一些限制级和性相关的内容，但对于研究性别认同和自我认知有一定的参考价值。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_辉石战士——倒错融合！.doc]([改造]_辉石战�
 | Format          | Microsoft Word Document                               |
 | Size            | 44544 bytes                           |
 | MD5             | bcec744a217f03a06e9cc640ee22497f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 重口味女王                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性转, 情欲, 女性化, 自我探索, 强奸, 调教, 逆后宫, 狂乱, 羞耻, 性别认同, 异世界, 幻想, 虚拟现实, 污秽, 电竞, 药物                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

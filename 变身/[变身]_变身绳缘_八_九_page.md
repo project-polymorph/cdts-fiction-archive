@@ -7,7 +7,7 @@ TXT 下载: [[变身]_变身绳缘_八_九.doc]([变身]_变身绳缘_八_九.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一个名为郝建的男孩突然体验到性别转变的故事，他的内心斗争和情感变化贯穿全文。故事开头，郝建在面对各种奇怪现象而感到困惑，逐渐接受了自己的新身份。随着情节的发展，郝建跟随着其他女孩们进入女生浴室，体验到一种新奇与羞怯的混合感受。文件详细描写了他在女生浴室的经历，包括被女孩们的笑声环绕，以及对自己新身份的接受与自我认同中的挣扎。整体上，故事探讨了性别转换给个体带来的复杂心理感受，以及在新环境中寻求认同的过程。此外，故事中涉及一些性暗示和露骨的场景，透过郝建的视角，揭示对于性与自我形象的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_变身绳缘_八_九.doc]([变身]_变身绳缘_八_九.do
 | Size            | 34816 bytes                           |
 | MD5             | cc3964740954795d733b4b95ab5029e2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 女生浴室, 青春校园, 自我认同, 性别探索, 羞耻感, 两性关系, 奇遇, 幻想, 两性角力, 校园生活, 男生变女生, 偷窥天赋, 纯爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

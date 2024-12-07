@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【申码文重发】我，女大学生_0~5章.doc]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本作品为第一人称视角的变性小说，讲述了主人公东方青在姐姐东方兰因病不能上学的情况下，顶替姐姐进入大学的经历。故事从东方青面对学业与自我认知的挣扎开始，随着他逐渐适应女性身份，心中的自我认同开始觉醒。在大学生活中，他与同学林平、柳翰文、小美等人周旋，经历人生的悲喜剧，最终收获了成功与爱情。小说情节设置丰富，既有爽点也有虐点，展现了人物在性别认同与自我探索中的复杂心理变化。文中多次提到他在大学开学时的紧张与不安，特别在剖析内心时，展现对自身性别的思考与怀疑，体现了生理性别与心理认同之间的冲突与融合。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【申码文重发】我，女大学生_0~5章.doc]([变�
 | Size            | 74240 bytes                           |
 | MD5             | 75dae8e1499405ccaaf8644bd4798df5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 性别认同, 大学生活, 双胞胎, 第一人称, 自我探索, 甜蜜爱情, 悲喜剧, 性别转换, 情感纠葛, 青春成长, 男扮女装, 家族关系, 心理挣扎, 情敌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

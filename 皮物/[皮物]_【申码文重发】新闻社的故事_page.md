@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文重发】新闻社的故事.doc]([皮物]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇探讨校园新闻社生存困境的小说，围绕社长茉莉与同学们的互动，以及她为拯救已经濒临解散的社团而进行的努力展开。故事从一位参与游泳训练的学生开始，她在意外之间发现了新闻社的内部问题，随着情节发展，茉莉试图通过调查学校旧教学楼的怪事来引起人们的关注，带动社团的气氛。小说中详细描绘了角色之间的情感、性别认同、自我探索与校园的阴暗面。一些情节涉及性暗示和敏感话题，反映出青春期的探索与矛盾。情节中还出现了校园中的不良行为，如偷拍等，增强了紧迫感和戏剧效果。尽管面对困难，茉莉依然不屈不挠地努力拯救社团，体现出积极向上的精神。综上所述，这部作品充满了青春的气息与复杂的人际关系，探索了年轻人在面对困难时的选择与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文重发】新闻社的故事.doc]([皮物]_【�
 | Size            | 85504 bytes                           |
 | MD5             | 12359e51be69607609c1f886b2931771                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 新闻社, 青春期, 性别认同, 自我探索, 友情, 性暗示, 挫折与奋斗, 女性视角, 社团活动, 变身, 伪娘, 性转, 强奸, 混乱关系, 校园事件, 黑暗面                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

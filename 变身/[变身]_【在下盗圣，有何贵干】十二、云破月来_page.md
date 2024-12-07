@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】十二、云破月来.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于变身与跨性别主题的小说，名为《在下盗圣，有何贵干》。故事围绕主要角色飞飞的经历展开，她在鸣剑山庄中游逛，遇到了一位名叫云樱的少女。云樱身着短裙，展现出优雅与力量，但同时也流露出紧张的情绪。故事中，两人因为误会展开了一场比武，飞飞运用自己的剑术与云樱较量。在比试中，飞飞不小心使得云樱误解，而飞飞调侃云樱对小白姑娘的情愫，这引发了一系列的情感纠葛。后续的章节中，游龙青、云樱及小白间的关系错综复杂，包含嬉闹、嫉妒和彼此的倾慕。故事展现了角色之间的情感互动，以及他们在复杂情境下的自我认知和身份探索，表达了对性别认同及爱情关系的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【在下盗圣，有何贵干】十二、云破月来.doc
 | Size            | 39424 bytes                           |
 | MD5             | 1b1d063fb2f621ccfe4b39b773296ef4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 性别认同, 跨性别, 嫉妒, 情感纠葛, 武侠, 恋爱, 伪娘, 青春, 自我探索, 古代奇幻, 剑术, 双性恋, 青梅竹马, 夺爱, 误会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_图书馆的邂逅7.docx]([变装]_图书馆的邂逅7.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部伪娘和变装题材的小说，名为《图书馆的邂逅7》。故事围绕几位角色之间复杂的情感和身体互动展开，具体描写了小晴和小明之间的一次尴尬而充满冲突的情节。在文件中，小晴因某种原因感到委屈，泪水涟涟，表现出对小明的不满，同时小B作为调解者出面要求小明为自己的行为道歉。情节描写中充满了对角色外貌和情感的细致刻画，例如小晴“脸上化的淡妆都有些模糊了”，以及她扑入小B怀中悲痛的场景，显示出角色的内心冲突和动情时刻。同时文本中也隐含了一些暗示性的内容，展示了角色之间的亲密接触和情感纠葛，尤其是在小晴与小明之间的身体接触令人不安的情节。整体来看，小说的基调贯穿着性别认同、情感依赖和心理冲突的主题，同时也包含了一些成人内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_图书馆的邂逅7.docx]([变装]_图书馆的邂逅7.doc
 | Size            | 15365 bytes                           |
 | MD5             | f5185bb06717249eb90ae54774d9025a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 情感纠葛, 性别认同, 自我探索, 二次元, 青春, 校园, 强奸, 少女, 调教, 感情发展, 身体接触, 羞愧, 泪水, 调解者, 情感冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_邪淫蔓延（2）.doc]([交换]_邪淫蔓延（2）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一个围绕男女身体交换的故事，主角山田靖郎在参加偶像西野玲娜的握手会时，意外获得了一种能力，能够与西野玲娜互换身体。当握手会结束后，两人发现自己灵魂互换，西野玲娜所感受到的，不再是偶像光环，而是一个肥胖男宅的身体带来的不适与羞辱，而山田靖郎则在她的身体里感受到前所未有的轻盈和性感。故事探讨了对自我身份的认同、性别认知以及对外貌的偏见等复杂主题。在这一身体互换的过程中，二人经历了从身体到心理的重大冲击，尤其是在身份认同和社会期望上的挣扎与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_邪淫蔓延（2）.doc]([交换]_邪淫蔓延（2）.doc)
 | Size            | 87552 bytes                           |
 | MD5             | 3b3f9b976a95309de6814d902e52bd2c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别互换, 跨性别, 自我认同, 偶像文化, 二次元, 身体交换, ASMR, 情感探索, 社会偏见, 偶像崇拜, 性别认同, 幻想文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_昨日杀手今日主妇_第三章_说许盗草.doc]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一个跨性别 temática 的小说章节，名为《昨日杀手今日主妇》，故事围绕角色于边与他的妻子姜殊白的关系展开。故事从于边与同事的对话开始，逐渐揭示出对于婚姻的怀疑和自我身份的探索。于边的同事付航提到怀疑姜殊白可能是变性人，这引发了于边内心的冲突与思考。随着情节的推进，于边对于妻子的了解和对她过去的种种问题进行深入反思，对她的性别认同产生了困惑。文中涉及了复杂的情感纠葛，包括于边对于性的抵触和姜殊白的身份隐秘。情节逐步揭露出姜殊白的过去以及她和于边之间的亲密关系，通过两人的对白展现出对性别、身份和爱情的探讨。文中也包含了一些成人内容，表现出由角色之间的性关系引发的心理和情感冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_昨日杀手今日主妇_第三章_说许盗草.doc]([变�
 | Size            | 38912 bytes                           |
 | MD5             | 092ec7ace6cd65c516dd8139c27d8b8b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 性别认同, 婚姻危机, 自我探索, 情感冲突, 暗恋, 二次元, 男娘, 生理性别, 角色扮演, 强烈感情, 性转, 调教, 异性恋, 同性恋, 男性视角                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

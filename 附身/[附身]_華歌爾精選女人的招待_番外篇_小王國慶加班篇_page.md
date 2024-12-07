@@ -7,7 +7,7 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_番外篇_小王國慶加�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇与伪娘、变身和跨性别相关的小说，围绕着角色小王在国庆假期的一日生活展开。开篇描绘了一个温馨的家庭聚会，三个角色（父亲小王和两位女性角色）围绕着用餐展开互动。接着，情节转向了与工作的联系，小王接到老板的电话，要求他在假期中加班。故事中包含了角色性别与身体的交替，描绘了小王在职场和家庭之间的矛盾。文中涉及的一些场景含有性暗示和成人内容，例如小王与角色之间的亲密互动，以及关于角色欲望的直白描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_番外篇_小王國慶加�
 | Size            | 48128 bytes                           |
 | MD5             | 0e84f8cb77948293db87f952c14eb003                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性别认同, 亲密关系, 国庆, 家庭, 加班, 成人内容, 女权, 角色转换, 经济关系, 都市生活, 调教, 爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

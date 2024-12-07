@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_星云_第十三章.docx]([皮物]_星云_第十三章.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章讲述了几个角色在某个雨天回忆童年时光的情节。故事中，角色们找到了儿时的游戏机，并通过这些物品唤起了对童年记忆的怀念。他们发现了一些杂七杂八的物品，包括一本泛黄的日记。日记中的内容涉及到若干年前的个人经历，以及对一位姐姐的模糊记忆。通过对这些物品的回忆，角色们重新构建了他们的童年回忆。整章文字充满了对过去的思索与无奈，展现了人物内心的挣扎与对时光流逝的感慨。特别是对于某个模糊的“姐姐”形象的讨论，透露出角色们在成长过程中对性别认同与个人身份的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_星云_第十三章.docx]([皮物]_星云_第十三章.doc
 | Size            | 19692 bytes                           |
 | MD5             | 10fc975778496173a6bc49f89d485510                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2005-07-15                                 |
+| Tags            | 童年回忆, 游戏机, 自我探索, 性别认同, 模糊的记忆, 日记, 成长, 伪娘, 恍惚的情感, 角色间的互动, 朋友, 怀旧, 生活片段, 记忆的重构, 雨天, 友情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

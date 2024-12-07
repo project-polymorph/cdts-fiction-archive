@@ -7,7 +7,7 @@ TXT 下载: [[变身]_靓丽女丈夫（8）.docx]([变身]_靓丽女丈夫（8�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说章节讲述了主角苏晓枫在职场中面临的性骚扰经历以及内心的挣扎。随着情节的发展，苏晓枫作为一名外表清纯的职场新人，却在办公室被上级张处长恐吓，遭受到强奸的阴影和威胁。在面临张处长的威胁及控制时，苏晓枫经历了极大的心理冲击，她必须在保护自己的名声和承受侵犯之间做出艰难的选择。小说详细描绘了苏晓枫的内心挣扎，她试图保持自己清纯的形象，同时又不得不面对张处长的淫荡要求。诸多细节展现了苏晓枫内心的矛盾，以及她对自身性别角色与认同的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_靓丽女丈夫（8）.docx]([变身]_靓丽女丈夫（8�
 | Size            | 23495 bytes                           |
 | MD5             | 72922deef679a291a6f58367d3bf3825                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 职场性骚扰, 心理挣扎, 性别认同, 强奸威胁, 清纯形象, 情妇关系, 女性视角, 情感冲突, 成人内容, 伦理问题, 权力不平衡, 体面与自我价值, 社会角色, 个人自我保护, 暗黑系情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

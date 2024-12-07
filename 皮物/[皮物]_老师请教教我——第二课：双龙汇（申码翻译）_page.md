@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_老师请教教我——第二课：双龙汇（申码翻�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一位老师与学生之间的淫荡私教的续集，主要描绘了他们在一堂私人课程中进行的性行为和性行为的教学。这位名为金吉田的学生在第一次与Ookawa老师发生性关系后，决定再次前往老师那寻求进一步的“学习”。文中详细描述了他们之间的性行为及老师对金吉田的指导，包括口交和乳交的技巧与注意事项。同时，文档也包含了老师在性行为中的指导与教学。内容涉及的情节较为露骨，涉及许多算是教育向的淫荡内容，文中有多处描述性行为手法，直观表现了角色在性行为中的反应和感受。这些情节描绘了人与人之间在性行为中的互动层面，以及老师在此场景中转变的教学角色。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_老师请教教我——第二课：双龙汇（申码翻�
 | Size            | 45056 bytes                           |
 | MD5             | 0ef4b38dd46af144d5524705ebcb3150                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性教育, 私教, 口交技巧, 乳交技巧, 师生关系, 性行为描述, 淫荡小说, 变性, 双性人, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

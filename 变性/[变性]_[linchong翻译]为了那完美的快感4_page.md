@@ -7,7 +7,9 @@ TXT 下载: [[变性]_[linchong翻译]为了那完美的快感4.docx]([变性]_[
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文件以布雷特的个人转变为中心，讲述了他在追求女性化身份过程中的挣扎与探索。通过接受女性荷尔蒙的注射，布雷特的外貌逐渐向女性靠拢，他开始对自己的性别身份进行深刻的思考与反省。本文中，布雷特渴望去体验女性的生活，希望能与男人约会，实现内心的渴望。然而，他在这个过程中面临着许多自我认同方面的困惑，反映了跨性别者在转变过程中的复杂心理搏斗。
+
+文中提到，布雷特已经开始展现出女性的特征，包括身体的变化与心理的觉醒，他希望通过外表的美化，获得他人对女性身份的承认。同时，布雷特与密友欧忒姆之间的对话深入探讨了性别认同及其对个人生活的影响。最终，布雷特决心加大荷尔蒙的注射，希望能进一步改变自己的身体，尽管朋友对此表示担忧，认为这样的决定可能会带来不可逆转的后果。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变性]_[linchong翻译]为了那完美的快感4.docx]([变性]_[
 | Size            | 17420 bytes                           |
 | MD5             | 48a7c1abf0692111e49724e9f3575c36                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | linchong                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 女性化, 荷尔蒙, 性别认同, 自我探索, 伪娘, 变装, 心理冲突, 变婚, TSF, 双性, 情感纠葛, 同性恋, 自我认知, 友谊, 追求完美, 生活方式, 社会接受, 个人转变                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

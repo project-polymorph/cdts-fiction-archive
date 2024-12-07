@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_(申码)不可能的高度.doc]([皮物]_(申码)不可能
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档内容涉及冷战时期的军事冲突，描述了一架美国U2侦察机在苏联领空内被击落的事件。故事从1960年5月1日开始，讲述了巴库-1飞行员在面对入侵苏联领空的美国侦察机时的心理斗争和军事指挥部的紧张状况。文字中包含了对飞行员心理的深入剖析以及对当时国际局势的反映，描绘了在高空飞行的紧张氛围和复杂背景。同时，故事中还涉及到阿富汗的军事情况，聚焦于阿富汗空军的飞行员贾尼兹的经历，包括他的训练以及与苏联飞行员的交流。文中不仅描述了技术细节和战术考虑，还深入探讨了飞行员在面对高强度任务时的情感状态和对国家安全的反思。文中读者可以感受到冷战期间的紧张局势和科技对战争方式的深远影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_(申码)不可能的高度.doc]([皮物]_(申码)不可能
 | Size            | 52224 bytes                           |
 | MD5             | 0b2ef62a24d1b05cf503553bddab9e40                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 苏联                               |
+| Date            | 1960-05-01                                 |
+| Tags            | 冷战, 军事侦察, 美国U2, 飞行员心理, 苏联空军, 二战后期描写, 科技冲突, 阿富汗战争, 国际关系, 密谋与操控, 跨国军事合作, 历史文献                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

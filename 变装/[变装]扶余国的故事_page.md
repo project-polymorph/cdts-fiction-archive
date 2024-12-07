@@ -7,7 +7,7 @@ TXT 下载: [[变装]扶余国的故事.doc]([变装]扶余国的故事.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《扶余国的故事》描绘了皇帝李纯的生活与心理变化。故事开头，李纯醒来后被宫女和太监服侍，详细描写了他每天洗脚与裹脚的过程。作者通过李纯对小脚的描写，展现了缠足文化的痛苦与无奈，以及在这背后的权力与身份的戏剧性。李纯在裹足后的生活中不再自由，无法行走，只能依靠内侍们的抬举。他对过去自由生活的回忆与现在的束缚形成强烈对比，内心充满对生活的无奈与自我认同的探索。随着时间推移，李纯渐渐接受了这种生活。在朝堂上，他面临着婚姻问题的讨论，表现出作为皇帝的责任与无奈。整部作品深刻探讨了性别认同、文化约束与自我探索等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]扶余国的故事.doc]([变装]扶余国的故事.doc)
 | Size            | 44032 bytes                           |
 | MD5             | 89ff75ce6f5650a31111e9ade15f0fd4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变装, 古代文化, 缠足, 宫廷生活, 成长, 权力, 自我探索, 皇帝, 青少年, 心理发展, 痛苦与无奈, 历史小说, 身份认同, 禁锢                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

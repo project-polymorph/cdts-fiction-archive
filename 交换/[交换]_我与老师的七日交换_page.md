@@ -7,7 +7,7 @@ TXT 下载: [[交换]_我与老师的七日交换.docx]([交换]_我与老师的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一位普通高中生楚杰希与历史教师穆涵诺之间复杂关系的故事。故事开篇以一段引人入胜的楔子引入，探讨了人性中的欲望和变化。文中，楚杰希与同学孔玄因迟到而遭到老师的谴责，同时对穆老师的外表和个人魅力充满了年轻人的窃窃私语与幻想。穆老师是一位外表出众、身材魔鬼的年轻教师，她的服饰和举止引发了学生们的注意与讨论，尤其是她穿着的细高跟鞋和偶尔的旗袍。随着故事的发展，楚杰希逐渐对穆老师产生了崇拜和好奇，然而也伴随着他日常生活中的困惑和压力。该小说深入探讨了性别、欲望以及师生关系中潜在的心理变化，具有较强的情感表达和情节发展。文中充满了青春期的迷茫和对欲望的探求，展示了角色内心的挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_我与老师的七日交换.docx]([交换]_我与老师的
 | Size            | 33204 bytes                           |
 | MD5             | c0e01de8ae0b397f63808df751d2656f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 性转, 跨性别, 强奸, 师生恋, 二次元, 青春期, 同性恋, 变嫁, 调教, 幻想, 校园, 心理变化, 欲望, 情感探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

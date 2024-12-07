@@ -7,7 +7,7 @@ TXT 下载: [[附身]_艾尔文大陆—亵渎天使.docx]([附身]_艾尔文大
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《亵渎天使》为伪娘与跨性别相关题材的小说，属于魔幻类文学作品，展现了一名天使在下界的被囚禁与亵渎的故事。故事设定在米纳斯王国的圣灵神殿，描绘了圣女与一名名为奥莉薇儿的天使之间的复杂关系。随着故事推进，天使降临后发现自己落入了大主教的圈套，面临被囚禁和侵犯的命运。文本使用了大量生动丰富的描述，例如关于教堂的神圣氛围和天使的外貌，传达出一种神秘而又压迫的气氛。作品探讨了权力、信仰与身体的主题，描绘了角色在尊严与欲望之间的挣扎。作者在剧情中运用了许多幻想元素与魔法阵的设定，展现了角色间的道德冲突与心理斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_艾尔文大陆—亵渎天使.docx]([附身]_艾尔文大
 | Size            | 28758 bytes                           |
 | MD5             | 535a3adb5022ad954374fa896d05bd70                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 大萌术士                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 魔法, 幻想, 神秘, 自我认同, 性别冲突, 生理性别, 精神操控, 禁忌关系, 献祭, 堕落, 暴力, 性侵, 神圣与亵渎, 强制行为, 天使, 教堂, 仪式                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

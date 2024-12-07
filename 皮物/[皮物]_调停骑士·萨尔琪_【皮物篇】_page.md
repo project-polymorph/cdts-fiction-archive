@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_调停骑士·萨尔琪_【皮物篇】.docx]([皮物]_调
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《调停骑士·萨尔琪【换身篇】》是关于一个名叫萨尔琪的调停骑士在执行任务过程中的冒险故事。故事一开始描绘了萨尔琪骑马行驶在泥泞的乡道上，她是执行调停骑士的职责以确保社区的和平与稳定。此篇是该作品的姊妹篇，展示了萨尔琪在一个叫做“玛刻”的村庄展开调查的经历。接下来的情节通过萨尔琪的视角展开，描绘了她在调查过程中遇到的奇怪事件和突发的冲突，包括她与村民之间的互动，以及如何引发出困扰该村庄的异常情况。萨尔琪作为女性精灵，在复杂的社会局势中展现出了出色的智慧和勇气，同时还展示了她对身边同伴的关心与保护。文中还涉及到一些魔法元素与奇幻生物，延展了该故事的二次元世界观。故事的叙述风格带有一定的幻想色彩，飘逸且富有动感，展现了角色的内心冲突与成长。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_调停骑士·萨尔琪_【皮物篇】.docx]([皮物]_调
 | Size            | 31408 bytes                           |
 | MD5             | 9fd0e16a330c52bbdf5cb56945ebbd0d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 调停骑士, 精灵, 魔法, 冒险, 性别转换, 二次元, 换身, 调查, 奇幻, 自我探索, 角色发展, 农民冲突, 短篇小说, 二次元角色,  fantasy,  战斗,  同伴关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[变装]_我的伪娘史（3）.docx]([变装]_我的伪娘史（3�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《我的伪娘史（3）》，内容围绕着一位男生在学校生活中的困境。他面临着性别认同的挑战，试图在同伴与自我之间找到平衡。在故事中的一个关键时刻，主角与朋友蒋飞一起吃饭时，蒋飞透露了他向看门的大爷坦白了一些事情，可能导致主角面临退学的危险。这一事件让主角感到意外和愤怒，但为了不暴露自己他选择了冷静应对。
+
+在故事发展中，他们遇到了一位穿着军大衣的老大爷，老大爷对他们的伪装表示不满，但在得知了一些个人背景后，态度发生了改变。老大爷提到自己的孙女曾与主角有相似之处，这一情节带出了一种情感的共鸣。同时，故事中主角的自我认知与性别认同的冲突也在逐渐显现。最后的部分，主角偷偷地变装回宿舍，和好友之间的对话则展现了他们对这种跨性别身份的理解与接受。整篇小说展现了复杂的情感和对性别认同的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变装]_我的伪娘史（3）.docx]([变装]_我的伪娘史（3�
 | Size            | 16888 bytes                           |
 | MD5             | d55570b5714bc12f649b60dee0762395                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 性别认同, 自我探索, 性别转换, 友情, 校园生活, 家庭关系, 逆境成长, 情感共鸣, 个人发展, 青春期困惑, 社会压力                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

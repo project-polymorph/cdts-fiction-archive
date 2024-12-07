@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_盜身情侶(上).docx]([皮物]_盜身情侶(上).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个名为亚伦的角色，通过一条神奇的拉链，能够将他人穿上并夺取他们的身体。这条拉链的作用是在被贴上拉链后，受害者会失去意识，身体变成一个空壳，亚伦则可以将自己穿上这副人皮，替代被穿上者的身份。故事开始于亚伦对他的女友琳赛进行首次实验，通过施加拉链，琳赛不久后便失去了意识，亚伦成功穿上了她的皮囊，体验女性身体的种种感觉。这一过程引发了一系列的冲突与挑战，当亚伦意识到施术后并不能简单脱离这具身体时，情节迅速发展，引入了更多的角色和复杂的情感纠葛，包含了亚伦对琳赛的心理斗争以及他计划利用这条拉链引发更大的故事冲突。此外，文件展现了涉及性别转变、身体意识与认同等多重主题，包含了若干色情场景描述。整体而言，这是一部融合奇幻与心理纷争的性转故事，探索了身体、身份和欲望之间的复杂关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_盜身情侶(上).docx]([皮物]_盜身情侶(上).docx)
 | Size            | 19274 bytes                           |
 | MD5             | 9d1e21eae11e3a791bb367ff61671e48                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 拉链, 身体替换, 跨性别, 自我探索, 性认同, 奇幻, 心理斗争, 恶作剧, 情感纠葛, 女性身体体验, 禁忌关系, 双性恋, 亲密关系, 冒险, 性冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

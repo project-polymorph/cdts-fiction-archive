@@ -7,7 +7,7 @@ TXT 下载: [[变装]_青青的幸福生活【完结撒花】.doc]([变装]_青�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《青青的幸福生活》是一部关于伪娘和变装的小说，围绕着男主角陆青与其秘书小雅之间错综复杂的情感和性别认同展开。故事开篇描绘了陆青作为公司的总裁，在职场与私生活中经历的羞辱与兴奋。陆青在大厦的总裁办公室中，身穿情趣女仆装，心中交织着对自己性别的认同的困惑与欲望。小雅，则是他的秘书，充当了他的调教者和情感寄托。两人之间的关系逐步从职场合作转化为以性为核心的主奴关系，小雅对陆青的调教与操控成为故事的重要情节。在主人小雅的鼓励下，陆青不断探索自己的女性身份，展现出自我认知的复杂性。同时，故事中涉及大量性暗示与调教情节，充分展现了角色内心的冲突与渴望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_青青的幸福生活【完结撒花】.doc]([变装]_青�
 | Size            | 93184 bytes                           |
 | MD5             | e23e8ba51b03de7ef0e4d71e7ad114b2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 跨性别, 调教, 情趣性角色扮演, 职场爱情, 羞辱与服从, 自我认同探索, 强奸情节, 青春期焦虑, 职场性骚扰, 药物变身, 性别转换, 幻想小说, 同性恋情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

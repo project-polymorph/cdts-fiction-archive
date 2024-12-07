@@ -7,7 +7,7 @@ TXT 下载: [[变装]_我的伪娘史第二季（4）完整版.docx]([变装]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘变身与跨性别题材的小说《我的伪娘史第二季（4）完整版》的部分章节，描绘了主角被囚禁于一间地下室中，面临性侵犯的危险心理与身体的挣扎。故事开始时，主角醒来发现自己被绑在床上，内心充满恐惧与焦虑。文中强尼的角色被描写为一种性侵威胁，他的欲望与主角的无助形成强烈对比。在强尼向主角逼近的同时，主角不断呼喊求救，体现出绝望的情绪。最终，林可及时赶到，帮助主角脱离险境，故事在紧张与惊悚中不断交织，同时展现了角色的友谊和对危机的反应。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_我的伪娘史第二季（4）完整版.docx]([变装]_�
 | Size            | 17494 bytes                           |
 | MD5             | d7f3d596bb601efc32efca9648896606                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 变装, 强奸, 扑灭恶势力, 剧情反转, 好友救援, 自我认知, 恐惧, 欲望, 羞辱, 勇敢反抗, 性别身份, 自我探索, 情感纠葛, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

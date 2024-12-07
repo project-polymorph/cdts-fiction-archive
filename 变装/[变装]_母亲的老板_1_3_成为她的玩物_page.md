@@ -7,7 +7,7 @@ TXT 下载: [[变装]_母亲的老板_1_3_成为她的玩物.doc]([变装]_母�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文件为一部伪娘与变装相关的小说，讲述了一位18岁少年在性别认同与社会角色期待之间挣扎的故事。故事的主线围绕主角卡特及其与母亲的复杂关系展开。卡特是一个在学校里风光无限的橄榄球队四分卫，拥有众多追求者，同时也面临着对自己性别认同的困惑。通过对母亲的工作以及她的雇主角色的描述，读者能感受到性别角色在家庭和社会中的重重压力。小说中开发了对母亲性感魅力的描写，以及在家庭与性欲之间的冲突。文本还出现了对克里斯这一跨性别角色的描写，涉及身份认同和接受的主题。整个故事体现了性别、欲望及社会批评的交织，尤其是在描绘角色内心冲突时，展现出一种复杂的心理层次。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_母亲的老板_1_3_成为她的玩物.doc]([变装]_母�
 | Size            | 49152 bytes                           |
 | MD5             | e93ca1329aecda44e7628b019e2aacdd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性别认同, 跨性别, 母子关系, 青少年, 欲望, 家庭压力, 社会角色, 自我探索, 虐待, 异性恋, 性转, 换装, 色情内容, 自我认知, 都市青春, 青少年性教育                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第三十一回.doc](《金枝奇缘》第三十�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《金枝奇缘》第三十一回主要讲述了郝铁藩与顾长卿、叶离等人在极寒血池的对抗与冲突。在这一回中，郝铁藩不仅怀恨在心，企图毁灭凌云殿，甚至暗中与魔头赵成子勾结，成为其爪牙。故事的高潮在于顾长卿等人对抗郝铁藩的决策，以及吕方的反叛和最终的自杀。文中揭示了郝铁藩的深厚怨恨和对权势的渴望，以及角色们在极端情况下展现的勇气与无奈。大量的对话与情节描写展示了角色之间复杂的人际关系和性格冲突，尤其是忠诚与背叛、爱与恨的交织，引人深思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第三十一回.doc](《金枝奇缘》第三十�
 | Size            | 45056 bytes                           |
 | MD5             | a35ca750d529800bf4d129be19849f3a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 变身小说, 伪娘, 跨性别, 魔法, 修仙, 斗争, 复仇, 自我认知, 情感冲突, 极寒血池, 魔头, 妖邪, 古墓探险, 机缘巧合, 权力斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

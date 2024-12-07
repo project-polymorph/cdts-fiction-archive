@@ -7,7 +7,7 @@ TXT 下载: [[附身]_宅男生死鬥.docx]([附身]_宅男生死鬥.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说《宅男生死斗》讲述了一位名叫魏宇宅的少年生活在一个看似普通却充满奇幻色彩的家庭环境中。他是一名无所事事的高中生，沉迷于网络游戏，与他的好友归仁雄（死小龟）一起度过了无忧无虑的日子。故事开始于一个阳光明媚的下午，魏宇宅的妹妹因他半天未去上课而感到愤怒，试图唤醒他。通过生动幽默的对话，揭示了他们之间的兄妹情感和魏宇宅的宅男形象。随着情节的发展，魏宇宅的电脑似乎发生了故障，螢幕上出现了扭曲的字符和奇异的声音，他的身份被异常识别为“淫兽英雄”。这一段情节引导出了一系列未知的冒险可能，标志着故事将朝向超现实的方向发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_宅男生死鬥.docx]([附身]_宅男生死鬥.docx)
 | Size            | 85294 bytes                           |
 | MD5             | d5f0efbca3e50cbdc16652578a6b26c5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 宅男, 奇幻, 游戏, 青春, 兄妹, 网络文化, 自我认同, 变嫁, 戏谑, 日常生活, 冒险, 性别转换, 科幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

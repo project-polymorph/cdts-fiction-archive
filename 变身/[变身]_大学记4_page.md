@@ -7,7 +7,7 @@ TXT 下载: [[变身]_大学记4.doc]([变身]_大学记4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一位名为李冰的大学生与学姐之间经历的一系列情感与身体的互动故事。故事从李冰与学姐在咖啡厅见面开始，描绘了一段富有倾向的校园爱情。李冰自信地走到学姐的面前，并在后续的约会中不断展开亲密接触。在电影院的卡座内，二人陷入一场既甜蜜又充满激情的体验，细致描绘了性别认同及性别角色的复杂互动。李冰通过一种名为“双头龙”的性玩具体验到了身体的变化与自我意识的冲突，同时，学姐似乎对李冰的“女性特质”表现出强烈的好奇和兴趣，增加了情节的复杂性。随着故事的推进，李冰开始感受到身体的变化带来的痛苦与快乐，展现了一场关于自我探索和性爱的旅程。故事中涉及了一些性和性别认同的敏感话题，充满着现代社会对性别和爱的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_大学记4.doc]([变身]_大学记4.doc)
 | Size            | 46080 bytes                           |
 | MD5             | 4f9750acb46d228396fc09bbcb8a7775                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 人生万花筒                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 校园爱情, 自我探索, 性认同, 性别角色, 性转, 恋爱, 成人内容, 情感冲突, 身体变化, 紧张关系, 性玩具, 性幻想, 悸动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

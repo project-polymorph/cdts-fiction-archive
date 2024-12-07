@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_水心_（皮物）_二.docx]([皮物]_水心_（皮物）
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了一位男孩在病房中被一个拿着人皮的女孩施以恐怖变身的过程。故事开始于夜深人静的病房，男孩目睹了女孩把一张人皮缓缓展开并尝试将其套在自己身上，引发了一系列生理和心理上的痛苦。随着女孩操作的深入，男孩的身体逐渐被皮肤包裹，感受到了不适和奇特的压力。描述中不断提及疼痛、恐惧以及对身体控制权的失去，产生了紧张而复杂的情感。文字中包含了一些较为露骨的情节和对生殖器及性欲的描绘，展示了男孩在这种变身过程中的肉体与心理的纠葛和挣扎。最后，男孩逐渐意识到自己身体的变化，并在镜子中看到了女孩的面容和自己的新形象，揭示了对自我认同的深刻探索与变迁。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_水心_（皮物）_二.docx]([皮物]_水心_（皮物）
 | Size            | 23438 bytes                           |
 | MD5             | 3f66fd119f3c654db37ff4343fa38025                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, SM, 皮物, 跨性别, 心理冲突, 肉体变异, 自我探索, 恐怖, 性欲, 变嫁, 二次元, 奇幻, 药物, 女性视角, 伪娘, 强奸                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

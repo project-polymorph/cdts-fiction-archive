@@ -7,7 +7,7 @@ TXT 下载: [[附身]_半鬼之折磨（5）.doc]([附身]_半鬼之折磨（5�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件主要围绕李国强的心理挣扎与身体变化展开，表现出在一个充满鬼魂与超自然元素的背景下，男主角经历了性别转换后的复杂情感。故事中，李国强暂时逃避社会责任，因进女厕的事件而被迫留在家中，与妻子May以及女儿李惠的生活交织，逐渐感受到失去男性身份的不可逆转。文中描绘了李国强因失去男性生理特征而产生的种种困扰与嫉妒，以及对家庭关系混乱的思考。在一次醉酒后，李国强探望了朋友黄sir，交流中暗示了黄sir妻子可能存在的超自然联系，更为后续情节埋下伏笔。最后，李国强在家中遭遇了一连串高潮迭起的悲剧情节，尤其是目睹妻子与女儿在性行为中的角色扮演，这使得李国强在生理与心理上都处于崩溃的边缘，故事以恐惧与不安的氛围结束。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_半鬼之折磨（5）.doc]([附身]_半鬼之折磨（5�
 | Size            | 31232 bytes                           |
 | MD5             | 20a7abfeca56498d744995061361f3b8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 跨性别, 超自然, 家庭关系, 心理挣扎, 男娘, 转变, 欲望, 情感混乱, 社会责任, 禁忌情感, 惊悚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

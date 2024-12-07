@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮物小故事——《密友归来》.doc]([皮物]_皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于一个角色经历了一次生死考验的奇幻故事。故事的主人公李运在收到来自好友王强的快递后，发现里面竟然是一件奇异的乳胶衣，带有特殊的设计。王强曾是李运的合租室友，因病离世，在快递中留下一个视频，透露他利用一种新技术以另一个身份存活下去。视频中，王强请李运尝试穿上乳胶衣，并暗示这件衣服或许与他本人有某种联系。李运在怀疑中依然试图穿上这件衣服，随着情节的发展，李运的身体发生了奇特的变化，开始感受到身体的转变并迎接新的自我。在故事深处探讨了性别认同、身体变化与友谊等复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮物小故事——《密友归来》.doc]([皮物]_皮�
 | Size            | 39936 bytes                           |
 | MD5             | d60b9d7b7df25d9c066498c61732f49f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 乳胶衣, 友谊, 死亡, 自我认同, 性别转换, 生物科技, 奇幻, ERG066, 身体变化, 成人内容, 心理探索, 情感纠葛, 异界, 实验性身体改造, 神秘快递, 视频留言, 未知身份                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

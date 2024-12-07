@@ -7,7 +7,7 @@ TXT 下载: [[改造]_TS改变按摩店(申码文).doc]([改造]_TS改变按摩�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别主题的小说，讲述了主角佐佐木和人因繁忙的工作而感到疲劳，进而接受同事田中的推荐，来到一家名为《改变按摩院》的按摩店以寻找放松。故事中，按摩师由美不仅是一位美丽的女性，更通过按摩改变了佐佐木的身体。在按摩过程中，佐佐木逐渐感受到自己的身体发生了奇妙的变化，手臂变得纤细，腰部曲线逐渐明显，最终甚至承认自己曾经是个“女孩”。此外，小说充斥着性别认同、自我探索等主题，强调了按摩过程中的身体与心灵之间的复杂关系，描述了从男子到女性的变化过程，呈现出强烈的幻想色彩。小说中不乏色情元素，情节上涉及到身体改造、性别认知等核心元素，适合进行性别研究、性别认同和跨性别文化等学术探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_TS改变按摩店(申码文).doc]([改造]_TS改变按摩�
 | Size            | 51712 bytes                           |
 | MD5             | f2218058dcdcf8188c92754b67138635                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 按摩, 身体改造, 自我认知, 男娘, 少女, 治愈, 幻想, 二次元, 性别认同, 色情, 女性视角, 虚拟现实, 游戏, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

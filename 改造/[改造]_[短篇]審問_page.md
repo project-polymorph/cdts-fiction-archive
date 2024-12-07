@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[短篇]審問.doc]([改造]_[短篇]審問.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及伪娘与变性主题的跨性别小说，描绘了一名男子在被囚禁后的审问过程。他被束缚在石墙上，身上布满伤痕，面临着来自女性角色的强烈威胁与诱惑。在故事中，主角布欧尔（Bouler）抵抗着外界施加的压力，不愿意屈服于对方的要求，而他的状态逐渐恶化，伴随各种身体与心理上的痛苦。随着情节的发展，注入体内的奈米机器人开始改变他的生理特征，触发了自我认同的剧变。文件的用语直接且露骨，描绘了涉及控制、背叛与诡计的情节，以及主角在生理与心理上的矛盾斗争。同时，故事蕴含了跨性别、性别认同等复杂主题，表现出对角色自我认知与性别转换过程的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[短篇]審問.doc]([改造]_[短篇]審問.doc)
 | Size            | 39936 bytes                           |
 | MD5             | 94748bb6a6050433e3f21beccf43c657                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | chiahao5079 (Hork 紫語)                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身, 性别认同, 审问, 控制, 背叛, 变嫁, 自我探索, 奈米技术, 药物影响, 调教, 强奸, 性转, 心理斗争, 幻想, 科幻, 黑暗, 情感纠葛, 生理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[附身]_死神空间续-另一个结局.doc]([附身]_死神空间
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《死神空间续-另一个结局》，描述了一段关于性别转换和人物人格融合的奇幻故事。故事围绕两个主要角色展开，其中一个名为小胖，曾经让自己的灵魂融入到他的母亲身体中，导致了一系列复杂的情感和身体互动。随着时间的推移，小胖的融合过程逐渐接近尾声，他逐渐开始享受在母亲身体中生活的种种‘福利’，并与一个名为小蛋的男孩展开友情互动。文中描绘了许多场景，包括与小母亲进行日常的对话，甚至涉及到一些暗示性的内容，展现了小蛋对母亲身体的想象和探索。整个故事围绕着自我认知、性别认同、人与人之间的情感交流，探讨了性别转换带来的心理和社会影响。尽管故事包含一些限制级内容，但它同时也探讨了更深层次的主题，如身份认同和自我形象的重塑等。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_死神空间续-另一个结局.doc]([附身]_死神空间
 | Size            | 637440 bytes                           |
 | MD5             | b0b4e590f2923e82bc00e3ad0e693ee9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 人格融合, 跨性别, 伪娘, 男娘, 奇幻, 自我探索, 青春, 友谊, 身体认同, 家庭关系, 日常生活, 情感纠葛, 性别认同, 梦境, 虚拟现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

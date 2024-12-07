@@ -7,7 +7,7 @@ TXT 下载: [[附身]_附身的研究（修订版）.doc]([附身]_附身的研�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《附身的研究（修订版）》，原作者为P站ID：ドーン＠夜明けの街。故事围绕主人公尾田纪夫在遭遇事故后，经历灵魂出窍的异能体验展开。主人公在昏迷中观察自己的身体，并发现自己获得了可以看到他人灵魂的特殊能力，灵魂颜色代表着性别和内心状态。文件中提及的角色椎名妙穗是主人公的老师，以其美丽的外表与温柔的性格受到男生与女生的喜爱。尾田在探索自己能力的过程中，尝试附身年轻女性的灵魂，导致了一系列幽默且刺激的情节。文本富含性转、冒险与心理的元素，描绘了关于性别认同、自我探索的主题，体现了灵魂与身体的互动，同时揭示了对他人灵魂色彩的观察。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_附身的研究（修订版）.doc]([附身]_附身的研�
 | Size            | 178176 bytes                           |
 | MD5             | ea31c208fc7ba7efa4e605564178c01f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂出窍, 性别转换, 附身, 恋爱, 教师角色, 校园生活, 自我探索, 奇幻, 灵魂颜色, 美少女, 性转小说, 二次元, 青春, 冒险, 心理冲突, 变身                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

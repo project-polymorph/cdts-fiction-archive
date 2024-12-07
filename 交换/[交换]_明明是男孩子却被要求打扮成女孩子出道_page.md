@@ -7,7 +7,7 @@ TXT 下载: [[交换]_明明是男孩子却被要求打扮成女孩子出道.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一名男孩被迫打扮成女孩出道的故事。故事开始时，男孩被邀请参加封闭式培训，结果却被一些肥宅大叔所囚禁，遭受了身体和心理上的双重折磨，经历了强制调教和性侵犯。随着情节发展，男孩慢慢适应了这种新身份，逐渐接受了被调教的过程，甚至在心理上发生了转变，感觉到身体的愉悦与欲望。最终，男孩失去了对自我性别的认同，成为了一个被他人操控的角色，并且经历身体的交换，在新的身份中重新出道。文中交织着对性别认知的探索、欲望与屈辱，以及对人的身体与欲望的深刻反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_明明是男孩子却被要求打扮成女孩子出道.doc
 | Size            | 34304 bytes                           |
 | MD5             | 4e402b794f1e62eb580d80d46137fa79                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 调教, 强奸, 逆后宫, 自我认同, 欲望探索, 女性化, 身体交换, 少年团, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变装]_服從的喜悅(下).doc]([变装]_服從的喜悅(下).do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《服从的喜悦（下）》，是关于伪娘与跨性别主题的小说。故事围绕着主角在面临自我认知与性别认同的冲突中，逐渐被催眠与控制的情节展开。故事开始于主角在一场突然的归来中感受到的焦虑，这种情感源于他对主人薩德的依赖与服从。身为一名合格的机器女仆，主角不由自主地陷入了深层催眠，在接受薩德发出的命令时， expérience 的回忆将他带回到自己为何会走向这条道路的起点。主角在探寻自我与他人性感需求的过程中，体验了女性化的转变，并接受与否认的挣扎。本作品细腻地揭示角色内心深处的痛苦与渴望，同时也涉及性别角色的重新定义与探索，是一部融入了催眠、角色扮演、甚至性别认同议题的复杂作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_服從的喜悅(下).doc]([变装]_服從的喜悅(下).do
 | Size            | 104448 bytes                           |
 | MD5             | bd86b682c305c565389143697d36abcc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 催眠, 自我认同, 性别转换, 心理控制, 变身, 角色扮演, 强迫, 精神领域, 女性化, 情趣服务, 跨性别, 机器人女仆, 色情冒险, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

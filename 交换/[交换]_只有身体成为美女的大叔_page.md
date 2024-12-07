@@ -7,7 +7,7 @@ TXT 下载: [[交换]_只有身体成为美女的大叔.doc]([交换]_只有身�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了一位四十多岁的男性在一次奇妙的变身后，变成了二十多岁的巨乳美女，故事从他走进澡堂开始，逐渐展现出他在新形态下的生活困惑与自我探索。主人公最开始对于身体的转变感到震惊和不安，伴随着不断的自我认知与重塑过程。随着故事的发展，他逐渐适应了这个新身份，甚至享受了作为美女的生活。他在与同事交流中，不断对自己身份的认识发生变化，外界对他的反应也让他意识到，即使身体发生了改变，内心的身份仍然有一定的坚守。整部作品涉及了性别认同、自我探索、身体的接受与享受等主题，并有一定的情色内容，描绘了主人公逐步接受、甚至陶醉于自己身体变化后的种种感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_只有身体成为美女的大叔.doc]([交换]_只有身�
 | Size            | 51712 bytes                           |
 | MD5             | 28a8a21f8c94ab0957c5905c18719373                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我认知, 身体变化, 情色, 女性视角, 幻想, 二次元, 心理探索, 变身, 伪娘, 女体化, 成长故事, 魔法, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

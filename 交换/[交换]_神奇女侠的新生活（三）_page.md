@@ -7,7 +7,7 @@ TXT 下载: [[交换]_神奇女侠的新生活（三）.doc]([交换]_神奇女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《神奇女侠的新生活（三）》是一部围绕角色玛姬与神奇女侠戴安娜交换生活后的故事。故事开头描述玛姬坐在拖车外面，透过和朋友伯特的对话揭示了她对神奇女侠生活的羡慕与对自己过去生活的逃避心态。玛姬在观看神奇女侠的新闻发布会时，了解到戴安娜辞去了超级英雄的身份，打算成立慈善基金会，帮助虐待的妇女与儿童，并致力于环保与科学研究。玛姬对此感到震惊与钦佩，心中充满了对新生活的憧憬。整部作品通过玛姬的视角展现了对性别身份以及个人生活选择的探索，强调了女性平权与自我救赎的主题。同时，文中对玛姬与戴安娜两位角色在生活选择与自我认同上的对比，展示了在不同身份之下的勇气与希望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_神奇女侠的新生活（三）.doc]([交换]_神奇女�
 | Size            | 58368 bytes                           |
 | MD5             | 1e8c545083cbfb44a85938f357780d17                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 神奇女侠, 性别交换, 玛姬, 戴安娜, 超级英雄, 生活选择, 女性 empowerment, 慈善事业, 自我认同, 新闻发布会, 恋爱关系, 新生活, 社会问题, 性别认同, 影视改编, 科幻小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

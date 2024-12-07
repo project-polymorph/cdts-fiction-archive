@@ -7,7 +7,7 @@ TXT 下载: [[变装]天使系统（1）.doc]([变装]天使系统（1）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部名为《天使系统（1）》的伪娘TS变身小说的初稿。故事围绕主角胡兵在海天市探望前姐夫周天的经历展开。小说开始于7月11日，描绘了胡兵乘坐顺风车到达姐夫的老小区的情景，伴随着对过去的回忆与角色自我认知的冲突。当胡兵进入姐夫的家时，意外发现前姐夫穿着高贵的粉色薄绸晚礼服，这一现象令他震惊，情绪复杂。周天向胡兵倾诉了其家庭经历，说明了之前一家人的遭遇及周雨在学校的霸凌事件，并揭示了周天被逼迫的背景，以及他为了保护家人而不得不选择穿女装的苦衷。随后的故事情节引入了药物对周天生活的影响，并为后续故事奠定了基础。整体语言细腻，情感描写深入人心，涉及家庭、身份、变身等多重主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]天使系统（1）.doc]([变装]天使系统（1）.doc)
 | Size            | 33280 bytes                           |
 | MD5             | 8208a6f8c252be42f9bd40221848c7e6                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, TS变身, 跨性别, 家庭斗争, 社会问题, 自我认知, 性别认同, 情感冲突, 校园霸凌, 药物影响, 家庭教育, 身份危机, 都市生活, 离婚, 性别角色, 情感描写, 心理斗争, 生活苦难                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

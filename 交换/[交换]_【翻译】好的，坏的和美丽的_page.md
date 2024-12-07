@@ -7,7 +7,7 @@ TXT 下载: [[交换]_【翻译】好的，坏的和美丽的.docx]([交换]_【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《好的，坏的和美丽的》的翻译版本，内容涉及探员尼克·亨特和他的搭档马克斯·华盛顿的故事。故事背景设定在洛杉矶，探员们试图抓捕一名臭名昭著的犯罪团伙幕后老板‘狡狐’杰克·科斯坦蒂诺。尼克和马克斯在努力寻找犯罪证据的过程中，与他们的上司和一位小个子科学家扎克博士接触。扎克博士提出了一项关于意识转移的实验，允许尼克在杰克的妻子体内进行调查，以此获得所需的信息。整个过程充满了悬疑与紧张，探讨了身份与角色的转变，以及在这种情况下的自我认知的挑战。文件中具体描述了尼克面临的道德困境，以及对自身身份和使命感的深刻思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_【翻译】好的，坏的和美丽的.docx]([交换]_【
 | Size            | 36154 bytes                           |
 | MD5             | 4cdb92726b90347d1157bb9ff1d68009                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别转换, 意识转移, 犯罪调查, 悬疑, 角色扮演, 洛杉矶警局, 自我认知, 合作, 科学实验, 冒险, 医疗科技, 身份探索, 超自然                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

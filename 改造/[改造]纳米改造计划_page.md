@@ -7,7 +7,7 @@ TXT 下载: [[改造]纳米改造计划.doc]([改造]纳米改造计划.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含一篇以现代都市题材为背景的小说，结合了一些科幻元素与性别转换的主题。故事围绕李成，一个在商业上颇有成就的中年男子，他意外被捕，卷入了五年前的一桩阴谋之中。作为他的秘书，丽娜则暗藏秘密，并在关键时刻起了重要作用。文本详细描写了丽娜的外貌和职业装扮，表现出强烈的女性形象，以及她与李成之间错综复杂的关系。故事开篇便以李成被抓为导入，引发读者的好奇，而丽娜在背后操控一切的暗流也为后续剧情埋下伏笔。整体风格带有挑战传统性别角色与认知的倾向，涉及人体改造与扶她等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]纳米改造计划.doc]([改造]纳米改造计划.doc)
 | Size            | 122880 bytes                           |
 | MD5             | 7b7a855eb7c7d151008be880246e8b86                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | skye1667                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 人体改造, 现代都市, 科幻, 伪娘, 李成, 丽娜, 性转, 阴谋, 商战, 女性形象, 强者女性, 自我探索, 性别认同, 办公室恋情, 悬疑, 情感纠葛, 高跟鞋, 高端职业装, 秘密, 变装                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新冒险者公会.doc]([皮物]_新冒险者公会.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇以架空奇幻世界为背景的小说，讲述了一位新任公会会长的冒险故事。故事的主人公作为新公会创办的会长，被皇家指定到一个偏远地区任职。但在设立公会的过程中，他和三位女办事员遭遇了魔物的袭击，受到重创，甚至一度被救出。故事中人物性别和身份的变化，魔人角色的引入，以及主人公和女办事员们的互动，都探讨了跨性别与身份认同的主题。文件摘录中提到“我忍不住想，究竟望向未来的目标，是冒险者的身影，还是魔物的阴影。” 通过生动的描写，作品展现了角色们在面对各种困难时的心理状态和发展轨迹，充满了奇幻、冒险与探索的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_新冒险者公会.doc]([皮物]_新冒险者公会.doc)
 | Size            | 51200 bytes                           |
 | MD5             | 2fd9b37626c49b1327d7c709154d444c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 奇幻, 冒险, 跨性别, 性别认同, 魔物, 公会, 男性视角, 年轻人, 自我探索, 冒险者, 魔人, 女性角色, 成长故事, 魔法, 性别转换, 伪娘, 男娘, 同性恋, 强奸, 调教, 多重身份, 人类与魔物的斗争, 异世界, 幻想文学, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

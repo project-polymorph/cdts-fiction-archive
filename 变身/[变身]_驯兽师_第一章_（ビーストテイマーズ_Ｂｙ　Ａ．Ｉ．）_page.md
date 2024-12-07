@@ -7,7 +7,7 @@ TXT 下载: [[变身]_驯兽师_第一章_（ビーストテイマーズ_Ｂｙ�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为名为《驯兽师》（Beast Tamers）的第一章，主要讲述了主人公犬神光的故事。他是一名在酒馆中工作的馴獸師，面对饥饿和失业的困境，而旁边则有他的伴狼可可。故事中，光与金发少年獅堂禮的互动逐步展开，反映了两位年轻人之间的竞争与友谊。在酒馆的环境中，光和獅堂禮相遇，彼此之间交谈，展现了馴獸師的生活与工作的压力，以及角色们探索自我价值的过程。整章设定在一个魔幻的背景，角色们不仅要面对生存的挑战，还要处理同伴之间的情感与责任。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_驯兽师_第一章_（ビーストテイマーズ_Ｂｙ�
 | Size            | 23824 bytes                           |
 | MD5             | a11e4989dd8d0c9254fbb8710bb5f814                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 馴獸師, 魔法, 角色探索, 友谊, 故事情节, 饥饿, 竞技, 青年文化, 酒馆生活, 伴狼, 自我价值, 生存挑战, 冒险, 幻想故事, TSF, 二次元, 角色互动, 昼夜场景                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

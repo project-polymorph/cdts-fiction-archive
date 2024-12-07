@@ -7,7 +7,7 @@ TXT 下载: [[变身]_哈利波特与翡翠女巫的诅咒_第八章.docx]([变�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为变身相关小说《哈利波特与翡翠女巫的诅咒》的第八章，主要讲述了角色阿丽斯作为翡翠女巫与邓布利多之间的对抗场景。故事设定在一个巨大的、被魔法保护的城堡中，阿丽斯通过魔法爆炸打开了城堡大门，表现出她强大的魔法力量与对城堡的掌控欲望。章节中通过阿丽斯与邓布利多的对话揭示了两者之间的立场冲突，以及她对“和平”与教育的否定。阿丽斯的邪恶意图逐渐浮出水面，她试图融合城堡的力量来控制一支反对邓布利多的军队，造成一场激烈的争斗。战斗中，罗恩与赫敏也被卷入其中，展示了他们的勇气与机智。整个场景充满了复杂的魔法对决与紧张的气氛，暗示了角色在性别认同与个人力量方面的探索与对抗。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_哈利波特与翡翠女巫的诅咒_第八章.docx]([变�
 | Size            | 17615 bytes                           |
 | MD5             | bb15dc12eae89e92e62c37efef666ab8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 翡翠女巫, 邓布利多, 魔法, 阿丽斯, 哈利波特, 魔法对决, 城堡, 魔法保护, 战斗, 自我认知, 性别认同, 魔法教育, 角色冲突, 魔法力量, 校园奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

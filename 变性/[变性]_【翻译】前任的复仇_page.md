@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】前任的复仇.docx]([变性]_【翻译】前
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是《前任的复仇》，一个关于性别变换和复杂人际关系的小说。故事围绕叙述者和他的前女友凯特的重逢展开。凯特在高中期间对叙述者展现了强势的个性，分手后她经历了性取向的变化。如今，凯特在分手四年后向叙述者求复合，声称找到了自己的真爱。随着故事的发展，凯特使用了一根魔法小棒，让自己变得符合叙述者内心理想的梦中女孩形象。变身的后果让叙述者惊讶，同时也引发了对性别、爱情和自我认同的探索。凯特经历着从一个强势女性到符合叙述者期待的无知花痴的转变，而这转变让她开始质疑自己的价值和身份。最终，故事探讨了欲望、权力和自我认知的复杂性，以及在爱情中各自的期望与现实之间的碰撞. 在这些光影交错中，故事中充满了魔幻、科幻的元素，更是挑战了传统的爱情观和性别观。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】前任的复仇.docx]([变性]_【翻译】前
 | Size            | 24984 bytes                           |
 | MD5             | 9ac452847fc609755b377834d2c3137f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Phem                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 跨性别, 自我认知, 魔法, 复仇, 爱情, 强制变身, Gender Bender, 情感纠葛, 女性视角, 理想化幻想, 性别角色, 梦中情人, 内心欲望, 性别转换, 探索与接受                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

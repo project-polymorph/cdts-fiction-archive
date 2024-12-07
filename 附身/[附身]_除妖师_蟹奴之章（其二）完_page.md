@@ -7,7 +7,7 @@ TXT 下载: [[附身]_除妖师_蟹奴之章（其二）完.doc]([附身]_除妖
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇变身小说，讲述了主人公林风与一位名叫舞的女孩之间复杂的关系。在故事中，林风一直对舞的失踪感到担忧，几番渴望与她的重逢，但最终却发现她已被妖物蟹奴附身并付出了惨痛的代价。故事情节涵盖了友谊、爱情的纠结与自我认同的冲突，最终在一场雨中，林风作为除妖师，面对着他所爱之人和危机的抉择，不得不采取极端行动，结束了舞的生命以拯救她的灵魂。文中描绘了人物复杂的内心挣扎，交织着现实与幻想，显现了性别认同、爱与牺牲的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_除妖师_蟹奴之章（其二）完.doc]([附身]_除妖
 | Size            | 35840 bytes                           |
 | MD5             | 27ae56efd80674ac9db366b2cdadf5d4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 除妖师, 灵魂, 爱情, 自我认同, 妖物, 心理斗争, 校园, 友谊, 悲剧, 阴暗面, 性别探索, 都市奇幻, 青春, 猎杀, 转生, 灵异, 悬疑, 情感纠葛, 雨中对话                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

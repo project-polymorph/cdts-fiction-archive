@@ -7,7 +7,7 @@ TXT 下载: [[变身]_D5侦探_第6~7章_（首发）.doc]([变身]_D5侦探_第
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为《欺诈师之章》的变身小说的第六和第七章。故事围绕一个身处豪华酒店的男子和一名女性之间的亲昵互动展开，暗示着一段情感纠葛。主要人物包括名为刘总的肥胖男子与一个外表迷人的女性。在故事中，女人与刘总有亲密的行为，并试图获取一份U盘中的机密资料。随后的情节中，女性的真实身份显露出其狡猾与心机，特别是在她利用刘总的信任偷走重要资料后，展现了她与一名陌生男子的交易。此时，情节进一步深入展开，涉及女性外表的变化，与脱离生理身份的角色自我认同冲突。文件中夹杂着一些性感场景和性暗示，契合变身、性转等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_D5侦探_第6~7章_（首发）.doc]([变身]_D5侦探_第
 | Size            | 43008 bytes                           |
 | MD5             | f852f3e346df8c07031d7f9689d1ea6c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 性转, 跨性别, 欺诈师, 情感纠葛, 游戏产业, 自我认知, 暗黑幽默, 成人向, 都市奇幻, 权谋斗争, 性别认同, 机密资料, 渎职, 爱情与背叛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

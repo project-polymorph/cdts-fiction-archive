@@ -7,7 +7,7 @@ TXT 下载: [[变装]_绑架事件的结局（上）.doc]([变装]_绑架事件�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是一部围绕绑架事件展开的小说，描述了一名小学女生被绑架后的心理状态和解救过程。故事开场于练马区儿童公园，讲述了少女被年轻男女绑架，随后通过警方努力，在经历了恐惧和不安后最终获得自由。文中细致描绘了少女的情感变化，尤其是在被困境中的恐惧和经历解救后的释然。故事同时涉及到绑架者的心理状态及对角色身份的混淆，特别是主角清彦意外被卷入的麻烦，彼时她误以为自己是名叫铃木恭子的女孩，反映了性别认同的复杂性。文中描绘的场景细腻，对角色衣着和心理活动的刻画充分展现了少女在苦境中成长和自我寻求认同的过程，具有一定的社会心理学探讨意义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_绑架事件的结局（上）.doc]([变装]_绑架事件�
 | Size            | 67584 bytes                           |
 | MD5             | 8a54cd6132bfa526d1d89942d75fd117                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | K C                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 绑架, 心理描写, 少女成长, 性别认同, 警察, 解救, 都市, 恐惧, 羞耻感, 身份错位, 自我寻求, 性转, 情感压力, 解救过程, 儿童公园, 社会心理学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

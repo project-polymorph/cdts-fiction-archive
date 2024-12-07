@@ -7,7 +7,7 @@ TXT 下载: [[改造]_情人节的兔女郎.doc]([改造]_情人节的兔女郎.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇作品名为《情人节的兔女郎》，讲述了主人公克雷格·桑顿在情人节这天的转变经历。克雷格因情人节的氛围而感到孤独，他在一家名为“回水赌场”的地方等待面试。在面试中，随着他被带入一个改造舱，他的身体开始进行性别转变，完成了从男性到女性的华丽蜕变。经历了身体上的痛苦和改变后，他接受了这个新的身份，并重新命名为莱拉·桑顿。在过去的日子中，莱拉作为兔女郎在赌场工作，享受着自己的新身体，感受到从未有过的快感。故事探讨了自我认同、性别认同的主题，以及个人如何接受和拥抱改变的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_情人节的兔女郎.doc]([改造]_情人节的兔女郎.
 | Size            | 33280 bytes                           |
 | MD5             | ce11009fb269cf36d717757b29f7d70d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Todd Cobble Chez                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 情人节, 兔女郎, 性别转变, 克雷格·桑顿, 莱拉·桑顿, 赌场, 自我认同, 社会性别, 二次元, 变身, 青春期, 爱情, 探索新身份, 感官体验, 痛苦与快感, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

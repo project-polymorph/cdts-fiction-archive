@@ -7,7 +7,7 @@ TXT 下载: [[交换]_妹妹生病后与哥哥的初次交换.docx]([交换]_妹
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一对兄妹陆筠武与陆筠烟之间的奇幻故事。故事开始于陆筠武早晨起床，发现妹妹陆筠烟因生病未能起床。在母亲的安排下，陆筠武被迫请假在家照顾生病的妹妹，虽然两人间有时会争吵，但兄妹之间的亲情仍然深厚。在照顾过程中，突然间兄妹二人感到身体发生了异样，经历了一场灵魂的交换。一开始的惊慌逐渐被对新身体感受的好奇所替代，特别是妹妹对身体状态的满意，以及哥哥对于承受病痛的抗拒。通过故事，探讨了兄妹互换身体后所引发的情感与心理变化，二人间的动态关系亦因此而发生了改变。文档末尾提及兄妹对身体的交换游戏，以及在一年后共同升入同一所大学的情节，展现了情感的延续与发展。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_妹妹生病后与哥哥的初次交换.docx]([交换]_妹
 | Size            | 19018 bytes                           |
 | MD5             | 851ebdd2a809f290e26b0184a850fc88                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2010-05-30                                 |
+| Tags            | 性别交换, 兄妹情, 奇幻, 自我认同, 身体探索, 病痛, 青少年, 幻想作品, 家庭关系, 双性别, TSF, 都市, 成长, 情感纠葛, 私密体验, 心理变化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

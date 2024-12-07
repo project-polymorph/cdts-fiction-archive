@@ -7,7 +7,9 @@ TXT 下载: [[附身]_魂槍長篇之車展篇.doc]([附身]_魂槍長篇之車�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本为一篇关于性转和跨性别主题的小说，名为《魂槍長篇之車展篇》。故事围绕主人公木村雅人与一个名为美香的车模展开，描述了透过一把神秘的假玩具枪“吹入灵魂枪”进行身体交换的奇幻经历。男主在偶遇美香后，因无法抑制对她的好感而尝试用枪进行灵魂交换，这一行为导致他发现自己被卷入了美香的身体。
+
+小说中，木村及时意识到了美香身体的感知，经历了一系列的身心探索，包括对美香身体的触碰与观察。作品包含丰富的性别认同和自我探索的情节，呈现了一种尴尬而又兴奋的感受，涉及性别角色的转换、身体的欲望及其带来的悖论与冲突。文本在某些段落详细探讨了这种身体和意识的交替，充满了对性的暗示和探索，表现出主人公在女性身体中感受到前所未有的体验和快感。随着情节的发展，提供了许多冒险的性场景体验，以及与其他角色的互动，强调了欲望、身份和情感的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[附身]_魂槍長篇之車展篇.doc]([附身]_魂槍長篇之車�
 | Size            | 62464 bytes                           |
 | MD5             | 031a9c22e941d32793637b3db7291ae2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ecvt, S道人                               |
+| Region          | 未知                               |
+| Date            | 2012-03-01                                 |
+| Tags            | 性转, 跨性别, 变身, 暗恋, 身体交换, 自我探索, 欲望, 异性恋, 奇幻, 成人内容, 调教, 伪娘, 色情文学, 内心斗争, 身份认同, 性别认同, 车模                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

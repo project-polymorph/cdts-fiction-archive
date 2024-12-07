@@ -7,7 +7,9 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_101.docx]([改造]_把男朋�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一个关于伪娘（TS）变身与跨性别相关小说系列的第101章，讲述了角色之间的日常生活及互动。作者Nicegent42以轻松的语气描绘了贝丽和坎迪两个女孩在卧室中嬉闹的情节，展现了她们作为年轻女性的亲密关系。故事中涉及到家庭与友谊的元素，贝丽与坎迪在晨间准备结束后讨论着家庭作业和一起去游泳池的计划，反映出青春期少女在性别认同与自欺欺人之间的内心斗争。
+
+文中提到了贝丽的外表变化和她对于自己身体的认同感，提醒了读者那些在性别转换过程中的自我探索与接受。细节描写包含了角色们穿着的比基尼和日常生活的琐事，体现了轻松又略显复杂的人际关系。同时，故事也暗示了性别转换的一些特殊情节，比如贝丽对自己身体娘化的困扰，以及在这种困扰下与他人的互动。整体来说，本章不仅展现了生活的琐碎与乐趣，也深刻反映了角色们对身份与美的探寻。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_把男朋友养成亲闺女_101.docx]([改造]_把男朋�
 | Size            | 21401 bytes                           |
 | MD5             | 40c936d16ac5521f1f05ed448e2f7ee4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Nicegent42                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 青春, 家庭关系, 性别认同, 性别转换, 日常生活, 自我探索, 年龄差                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

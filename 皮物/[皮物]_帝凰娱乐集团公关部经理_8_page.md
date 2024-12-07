@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_8.docx]([皮物]_帝凰�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档属于一部性转小说，讲述了主人公晓燕在与名为田海的人物的互动中逐渐发现自己身份和记忆的问题。故事开头描绘了晓燕与田海的初见，田海的特立独行和猖狂行为让晓燕感到疑惑和不安。随着情节的发展，田海透露他与晓燕家人的关系，并讨论了关于一个国际禁用生物药物的使用，这种药物可能导致晓燕的记忆与意识的改变，引发了一系列的心理与情感冲突。文中提及的细节描绘了晓燕的内心挣扎以及对于自我认同的探讨，包含了与性别认同、自我探索等相关的主题，同时也涉及情感和复仇的复杂线索。阅读过程中，语言风格和场景设置所塑造的氛围融合了科幻与现实元素，使整个故事充满了悬念与吸引力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_帝凰娱乐集团公关部经理_8.docx]([皮物]_帝凰�
 | Size            | 23284 bytes                           |
 | MD5             | 091f75dd7345e853a527516c091631a5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我探索, 情感纠葛, 生物药物, 复仇, 人皮, 变化, 记忆丧失, 女性化, 心理冲突, 现实与幻想, 身份认同, 复杂关系, 秘密                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

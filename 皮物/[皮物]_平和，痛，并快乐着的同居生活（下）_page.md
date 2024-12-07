@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_平和，痛，并快乐着的同居生活（下）.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档《平和，痛，并快乐着的同居生活（下）》是由作者S道人创作的伪娘/皮物小说，讲述了主人公苏元与他的模特郑雪兰的生活片段。故事中，苏元对摄影产生了浓厚的兴趣，尤其是在与郑雪兰一起进行各种拍摄活动时。在文中，苏元购买了专业摄影设备，还将别墅的一间居室改造成了摄影工作室。郑雪兰则成为了苏元的模特，苏元利用她的外形进行各类实验。文中详细描述了苏元如何通过网购为郑雪兰购买一系列情趣产品，从而丰富他们的拍摄内容。两人之间的亲密关系和角色扮演的元素被多次展示，包括苏元穿上皮衣进行模特拍摄等细节，表现出他们对彼此的爱好和探索的过程。故事强调了性别认同和角色转换的主题，同时包含一些可能令人感到挑战的内容，书中的情节亦涉及一定的色情暗示和玩味的游戏。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_平和，痛，并快乐着的同居生活（下）.doc]([
 | Size            | 87040 bytes                           |
 | MD5             | b8988b824dca0021440ee6d53682bbd4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | S道人                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 角色转换, 拍摄模特, 伪娘文化, 皮物玩法, 摄影, 网购, 情趣产品, 恋爱关系, 自我探索, 玩具, 生活日常, 二次元, 情感调教, 幻想, 亲密关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

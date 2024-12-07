@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_玩弄她的闺蜜（上）.docx]([皮物]_玩弄她的闺
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《玩弄她的闺蜜（上）》讲述了两个女孩夏末与苏梅之间复杂的情感与友谊。故事开始时，夏末与未婚夫徐京津来到苏梅的新居探望，却发现苏梅的情绪似乎有所变化。新居的装修给人一种明亮而新颖的感觉，然而在高兴的表象下，苏梅的心中却藏着不可告人的秘密。随着故事的发展，苏梅表现出的冷淡与不安让夏末感到困惑，但她选择尊重苏梅的私人空间，希望有一天能够听到她的心声。在与徐京津的相处中，苏梅表现出的微妙变化引起了徐京津的警觉，而这种变化与她内心的挣扎交织在一起，揭示了她对自身身份的认同与困惑。
+
+故事情节在友谊与自我认知之间穿梭，展现了爱情、性别认同、以及自我探索等复杂主题。表现出苏梅对自己身份的深刻挣扎，甚至在特定情境下激发出了内心野性的冲动。小说详细描绘了角色心理的变化，尤其是苏梅在面对自身困扰时的矛盾与挣扎，这也为后续情节的发展埋下了伏笔。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_玩弄她的闺蜜（上）.docx]([皮物]_玩弄她的闺
 | Size            | 21367 bytes                           |
 | MD5             | 77386160b73612f1f66b2f806f302cdf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 跨性别, 女性视角, 伪娘, 强奸, 淫荡, 调教, 百合, 变嫁, 游戏, 奇幻, 都市, 内心挣扎, 友谊, 秘密, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

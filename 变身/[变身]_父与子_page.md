@@ -7,7 +7,9 @@ TXT 下载: [[变身]_父与子.doc]([变身]_父与子.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涵盖了程宇（原为男性）与何曼（曾是男性）之间的复杂关系及性别转换情节的小说。故事背景设定在一个名为S城的阴暗街道上，程宇原是一位富有的公子哥，因家族破产而沦落至此。他的内心充满了对昔日荣华的怀念与对现实的无奈。在一次酒吧寻欢作乐中，他与曾是自己青睐的头牌何曼重逢。二人因缘欲和情欲缠绵，程宇醉酒后失去理智，最终遭到何曼的计谋，通过药物使其性别发生变化，变成了一位美丽的女性。
+
+故事深入探讨了性别认同与自我认识的冲突，程宇在惊讶与不解中逐步接受了自己作为女性的身份。在对镜子中反观时，她不得不面对自己全新身体的异常变化，伴随而来的则是身份与性的交错思考，也反映出了现代社会中性别与身份的复杂问题。整个故事带有明显的情色元素，并涉及强奸、调教等限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_父与子.doc]([变身]_父与子.doc)
 | Size            | 40448 bytes                           |
 | MD5             | 06722cfb111443a04bf5afe7171e09fa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 情色文学, 性别认同, 内心挣扎, 情感纠葛, 酒吧, 药物虐待, 性欲诱惑, 现代社会, 二次元小说, 暗黑风格, 自我探索, 家庭纠葛, 女性视角, 权力关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

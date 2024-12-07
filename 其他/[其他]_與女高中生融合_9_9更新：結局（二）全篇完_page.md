@@ -7,7 +7,7 @@ TXT 下载: [[其他]_與女高中生融合_9_9更新：結局（二）全篇完
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一部关于性别融合与角色变换的小说，主要讲述了一名中年男性山屋太雄通过一种神秘药物与一名女高中生的身体融合，从而获得对她身体的控制权。这种融合不仅涉及角色的身体变化，还带来了性别认同的探讨。故事起初，太雄出于对高中生的执念，选择了目标并进行药物实验，最终成功与目标角色融合，体验到了角色的生活与记忆，甚至产生了对自己原本身份的怀疑与反思。文本中详细描述了药物的效果和接触过程，以及太雄的情感变化与自我认知冲突。通过各类性感和权力的交换，小说涉及了不少限制级内容，同时对角色的心理描绘也颇具深意。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_與女高中生融合_9_9更新：結局（二）全篇完
 | Size            | 55578 bytes                           |
 | MD5             | 5d5b12b0f120e05499f7ea2a01548724                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 身体融合, 心理认同, 跨性别, 伪娘, 女高中生, 二次元, 药物实验, 自我探索, 年龄差, 变装, 成人内容, 爱情, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

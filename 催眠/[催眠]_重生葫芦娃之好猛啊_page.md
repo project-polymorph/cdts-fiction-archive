@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_重生葫芦娃之好猛啊.doc]([催眠]_重生葫芦娃�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一部关于跨性别和变身主题的小说，主要讲述了角色胡图在穿越到葫芦娃的世界后，意识和能力的重组与冲突。故事开始于胡图发现自己变成了一只大号的人形蝎子，内心困惑与挣扎着‘我是谁？’接着，他逐渐接受了这个身份，融合了自己平凡商人的记忆和蝎子大王的力量，决定在新世界中生存并征服。他通过杀死葫芦娃的爷爷，获取了重要的法宝和能力，试图掌控周围的妖精。而他与金蛇精的互动也充满了权力与契约的味道，小说中包含了大量的冒险与情感戏码，揭示了角色在性转后的内心变化与自我探索。涵盖了复杂的心理描写与魔法元素，同时也融入了对权力与欲望的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_重生葫芦娃之好猛啊.doc]([催眠]_重生葫芦娃�
 | Size            | 49152 bytes                           |
 | MD5             | b7a2d5304f669018c739123ccf958616                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 变身, 性转, 冒险, 自我探索, 权力斗争, 妖精, 魔法, 情感纠葛, 性别认同, 葫芦娃, 幻想文学, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

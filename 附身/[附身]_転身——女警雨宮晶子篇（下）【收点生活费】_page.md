@@ -7,7 +7,7 @@ TXT 下载: [[附身]_転身——女警雨宮晶子篇（下）【收点生活�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件讲述了一个关于灵魂附身的故事，主角附身于一位女警察雨宫晶子的身体中。故事开始时，主角面临交通堵塞，回忆起自己现在的身份是女警察。在确认身份后，主角坦然展现出自己的妖媚形象，并用雨宫晶子的身份进行一系列的行为，包括试图探寻有关她本人的信息。文本中涉及许多与性有关的情节，诸如在警车中进行手淫、对镜子中自己的身体进行自我欣赏和刺激，以及与朋友的互动。情节展示了主角对于女性身体的探索与享受，同时也表达了对跨性别身份的探讨与反思。整个故事节奏轻松，充满了性暗示与调侃的气氛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_転身——女警雨宮晶子篇（下）【收点生活�
 | Size            | 21348 bytes                           |
 | MD5             | e29011c58eb86702824496bffce3c5d5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 女警察, 性幻想, 身体探索, 自我认知, 情感互动, 色情内容, 魔法, 角色扮演, 都市情节, 淫荡行为, 快感体验, 女性视角, 淫荡女警, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

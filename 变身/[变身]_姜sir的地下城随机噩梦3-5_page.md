@@ -7,7 +7,7 @@ TXT 下载: [[变身]_姜sir的地下城随机噩梦3-5.doc]([变身]_姜sir的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一部名为《姜sir的地下城随机噩梦》的变身小说的片段，共7380字。故事围绕角色娜莎展开，她是一个重生在游戏世界内的男性角色，因过度沉迷于游戏《地牢与战斗机》而猝死。在同伴丽萝的陪伴下，娜莎揭示了自己作为男性的前世以及转生为女性角色的经历。故事探讨了重生、性别认同和游戏的关系，涉及深刻的自我探索和前世对父母的愧疚感。娜莎通过回忆和丽萝的对话展示了她的内心冲突和对新生活的憧憬，同时揭示了游戏世界的种种设定与艰辛，包括职业选择、氪金系统及生死的严峻规则。此文以游戏为背景，讨论了现实生活中的压力与对虚拟世界的逃避。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_姜sir的地下城随机噩梦3-5.doc]([变身]_姜sir的�
 | Size            | 87040 bytes                           |
 | MD5             | e44d5f2cbbeac5b5a4526d4337750706                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 重生, 虚拟现实, 游戏, 女性角色, 自我探索, 变装, 跨性别, 奇幻, 二次元, 纯爱, 调教, 百合, TSF, 恶搞, 逆后宫, 游戏设定, 氪金系统, 人际关系, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

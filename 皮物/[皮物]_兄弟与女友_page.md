@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_兄弟与女友.docx]([皮物]_兄弟与女友.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文本文件是一部关于伪娘和变身主题的小说，围绕着两个主要角色刘强和韩真的复杂情感展开。故事开头描写了一场暴力冲突，其中韩真以一敌五，成功保护了刘强，展现出兄弟情深。随着情节发展，刘强不断对韩真产生超越兄弟的情愫，但韩真已经有了女友李丹。李丹是一个美丽且成绩优秀的女孩，她隐瞒了自己患有晚期乳腺癌的事实，并为了不耽误韩真的生活，自愿提出分手。李丹意图通过一种神秘的拉链装置，将自己变成刘强的模样，让刘强代替她与韩真在一起。在最终的变身过程中，刘强穿上了李丹的“皮”，通过复杂而迷离的情感转变，故事在性别与认同的探索中达到高潮。文本涉及到强烈的情感冲突、变性体验以及青春的无奈与挣扎，呈现出戀愛、病痛以及自我认同的多重主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_兄弟与女友.docx]([皮物]_兄弟与女友.docx)
 | Size            | 30880 bytes                           |
 | MD5             | 05f5b9a8442b422f6ba52c795bf1b3b2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 变身, 兄弟情, 爱情, 校园, 病痛, 苦涩, 情感冲突, 青春成长, 变嫁, 自我探索, 友情, 身份认同, 复杂关系, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

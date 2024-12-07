@@ -7,7 +7,7 @@ TXT 下载: [[其他]_唔……不知道放哪里好了，补充角色图.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别文化的档案资料，主要介绍了与机器人技术部及其研究人员相关的角色设定与背景故事。内容中涉及多位角色，包括小早川长月、雪野亚美和泰瑞莎=塔斯梅罗莎等，她们都是在技术与性别探索背景下创造的虚拟角色。这些角色各自具有独特的性格特点和生活经历，如小早川长月为毒舌性格、雪野亚美被描绘为天然呆，而泰瑞莎则是腹黑且毒舌的大小姐。文件详细描述了她们的家庭背景、教育经历、职业发展和个人爱好。同时，它也提到了角色之间复杂的人际关系，以及角色为读者提供的可视化形象，获取过程也明显倾向于社交与互动性。该文档显然意在展示角色设计的多样性与个性，强调角色间的情感联系和心理变化，并引导读者抵达对这些互动和情感深度的研究与探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_唔……不知道放哪里好了，补充角色图.docx](
 | Size            | 17022 bytes                           |
 | MD5             | 9b9864ad2a383f262cccbec1814bec3a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 角色设定, 机器人技术, 性别探索, 情感联系, 多元文化, 人工智能, 虚拟角色, 二次元, 职场关系, 性别认同, 独立女性, 内部刊物, 社交互动, 文档, 档案馆                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

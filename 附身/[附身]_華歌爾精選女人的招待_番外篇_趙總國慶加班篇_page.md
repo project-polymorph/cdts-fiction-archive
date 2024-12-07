@@ -7,7 +7,7 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_番外篇_趙總國慶加�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《华歌尔精选女人的招待》系列的番外篇，名为《赵总国庆加班篇》。故事围绕赵总在双十国庆当天参加一个在五星级饭店举行的贸易协定会议的情节展开。赵总为了取悦会议中的男性大老板，特意穿上了一条低胸的露背紧身裙，展现出她玲珑有致的身材，引发众多男士的瞩目。赵总的穿着大胆，胸部几乎全露，裙子短到几乎暴露臀部，令她成为会上所有人关注的焦点。会议中她受到大老板的青睐，随后的情节中则逐渐转入与一名叫郑国强的男士的暧昧关系，以及在醉酒情况下的发展。整个情节充满了性暗示及性行为的描写，反映了在商业场合中复杂的男女关系。该文体裁属于伪娘及跨性别相关文学，含有较强的成人内容，着重于角色的性别展现和性行为描写，适合科研相关领域的性别研究和社会文化探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_華歌爾精選女人的招待_番外篇_趙總國慶加�
 | Size            | 47616 bytes                           |
 | MD5             | 9677c433ac2de2c861b2df5b13faf33c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 跨性别, 成人文学, 性别认同, 商业性暗示, 情感纠葛, 酒精与性, 大老板与职员, 肉文, 国庆节, 双十国庆, 爱情, 胸部展示, 高跟鞋, 短裙, 裙子开叉, 办公室政治, 都市情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

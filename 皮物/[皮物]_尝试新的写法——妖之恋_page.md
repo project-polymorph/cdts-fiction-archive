@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_尝试新的写法——妖之恋.doc]([皮物]_尝试新�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《妖之恋》描绘了一段横亘于人和妖之间禁忌的爱情故事。故事的女主角是一个妖族的女子，名叫‘她’；而男主角则是一个来自人族的男子，体态轻盈如风，拥有一头银白的长发和金色的眼眸。两人相遇在江水之边，彼此吸引，然而种族的差异使他们的爱情遭遇重重阻碍。故事中，妖与人之间的不和与禁忌，彰显了无法逾越的界限。尽管讴歌了他们的爱情，但宿命的安排却使得他们最终无法在一起。在绝望中，男主角决定以自己的生命来证明妖也可以拥有感情，而妖族女子则在此情此景中默默关注，内心充满难以言说的痛苦。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_尝试新的写法——妖之恋.doc]([皮物]_尝试新�
 | Size            | 36352 bytes                           |
 | MD5             | fa5c917481d9312eede424b143b91cf2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 妖族, 人族, 禁忌之恋, 性别转换, 自我认知, 情感纠葛, 凄美, 牺牲, 跨种族爱情, 人体皮囊交换, 情感探索, 幻想爱情, 灵异故事, 悲剧, 深情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

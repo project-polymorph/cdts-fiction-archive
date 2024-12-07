@@ -7,7 +7,7 @@ TXT 下载: [[交换]_主神墓地_1、2.doc]([交换]_主神墓地_1、2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇跨性别、变身题材的小说，围绕主人公阿坤和他的朋友们在暑假游玩九寨沟期间，经历了一场地震并意外交换身体的故事。故事通过细腻的描写展现了角色们的性别身份转变及内心的冲突与挣扎。阿坤和同伴们在意外中受到重创，随后在一个小岛上，他们意识到自己的身体发生了交换，这为后续的剧情发展奠定了基础。此外，文本中描述了一些关于角色之间的情感关系及复杂的社交互动，例如阿坤对于家庭背景和爱情的无奈与犹豫，以及李阳的幽默与风流。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_主神墓地_1、2.doc]([交换]_主神墓地_1、2.doc)
 | Size            | 52224 bytes                           |
 | MD5             | f3ffa84929bed69d323e49a89309cc3e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 变身, 跨性别, 青春故事, 心理转变, 友谊, 冒险, 情感冲突, 自我探索, 偶然事件, 小岛生存, 二次元, 伪娘, 变嫁, 纯爱, 现代奇幻, 超自然, 校园生活, 旅行                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

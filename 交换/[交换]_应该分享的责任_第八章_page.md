@@ -7,7 +7,7 @@ TXT 下载: [[交换]_应该分享的责任_第八章.docx]([交换]_应该分�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本章节标题为《私人演出》，内容围绕着朱诺和她的妹妹梅根及梅根的同居伴侣彼得间的互动展开。场景设置在梅根的客厅，朱诺刚刚享用了一些披萨，显得有些饥饿。在轻松的家庭环境中，朱诺与梅根进行对话，彼得也参与其中。随着对话深入，朱诺逐渐提到怀孕的感受，并解读了胎动对她情感和身体状态的影响。对话过程中，彼得对朱诺的身形变化（怀孕导致的变化）表达了好奇，朱诺则对他们的私密关系感到既尴尬又复杂。章节末段则引入了朱诺的困惑和对彼得与梅根关系的幻想，她内心挣扎于对性别认同的思考。文本中不乏幽默与自嘲的语气，让人在阅读时能够感受到角色内心的波动与情感的深邃。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_应该分享的责任_第八章.docx]([交换]_应该分�
 | Size            | 20714 bytes                           |
 | MD5             | 325d944edcea395fe4f67b62d37e95ee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 怀孕, 家庭关系, 私密关系, 幻想, 自我探索, 情感挣扎, 性别转换, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

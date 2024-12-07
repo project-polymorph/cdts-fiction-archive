@@ -7,7 +7,7 @@ TXT 下载: [[交换]_肉体交奸【第１章】.docx]([交换]_肉体交奸【
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及变身与跨性别主题的小说，作者为岚山GO。故事的主角是19岁的大学生饭岛幸一，生活在一个平凡的家庭，描绘了他与家人之间的日常生活以及内心的孤独。在一次偶然的机会中，他看到一则寻人启事，内容是希望能征召一名成年男性来体验一种名为‘人体记忆交换装置’的机器，并将使用体验报告提交。文字中表现了主人公对生活的无聊与对新鲜事物的渴望。随着情节的发展，他被一位年长的所长劝说加入这个实验，体现了他在面临选择时的犹豫和最终的决定。整部作品探讨了自我认同、变化和冒险的主题，带有一些性暗示和梦幻色彩，适合对性别认同及其流动性感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_肉体交奸【第１章】.docx]([交换]_肉体交奸【
 | Size            | 35231 bytes                           |
 | MD5             | 840c25e82b393c3d36af23f78524abfd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 岚山GO                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 性别认同, 自我探索, 青春, 科技幻想, 实验, 男性角色, 孤独, 冒险, 性暗示, 未知机器, 心理冲突, 都市生活, 普通家庭, 青少年文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

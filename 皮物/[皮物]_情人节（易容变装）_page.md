@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_情人节（易容变装）.docx]([皮物]_情人节（易
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《情人节（易容变装）》，讲述了一个关于伪装和性别转换的故事。故事围绕李逸和他的女儿幽幽，他早早下班准备情人节的礼物，试图弥补去年未能妥善准备的遗憾。与此同时，文章也描绘了蒋若曦，这位电台主持人在完成工作后匆忙回家的情景。故事情节通过多种考虑，比如角色伪装、监控录像，层层展开，揭示了一个关于身份与欲望交织的故事。
+
+文本中出现了神秘的男子K，他长时间扮演着女性角色进行全面伪装，并细致入微地记录与蒋若曦的生活。他的伪装不仅涉及外表上的变化，亦有内心的挣扎和角色认同的交错。这个故事通过不同人物的视角展示了在性别变化背景下的亲情、欲望与冲突，最终以暗示的形式揭示了他潜在的阴暗一面。整体上，文中令人不安的情节和复杂的人物关系呈现了一幅关于性别认同和内心挣扎的图景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_情人节（易容变装）.docx]([皮物]_情人节（易
 | Size            | 24463 bytes                           |
 | MD5             | 3fbf055c0802946f59be1513471a7e9b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 易容, 变装, 性别转换, 伪娘, 跨性别, 监控, 情人节, 欲望, 家庭, 自我认知, 性别认同, 电台主持人, 社会观察                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

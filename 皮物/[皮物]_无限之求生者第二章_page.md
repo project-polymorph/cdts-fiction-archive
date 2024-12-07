@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_无限之求生者第二章.doc]([皮物]_无限之求生�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档《无限之求生者第二章》是一部涉及变身和跨性别主题的小说，讲述角色李洁的故事。在故事中，李洁练习剑术，并充满自信与力量，逐渐吸收了其他角色的特质。在与仆人菲奴的互动中，表达了性别角色的模糊性和性转幻想。在描写细腻的情感与身体交互的同时，文章不乏冲突情节，例如病毒爆发和生存斗争。在这混乱的背景下，李洁的力量与女性身份交织出复杂的情感与肉欲。小说涵盖了许多成人内容，包括性行为的详细描写，以及对角色内心世界与外界冲突的探索。这些情节涉及性别认同、自我探索及权力关系的扭曲，给人以深刻的思考，同时也提供了丰富的角色间互动。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_无限之求生者第二章.doc]([皮物]_无限之求生�
 | Size            | 50176 bytes                           |
 | MD5             | cb9279228df52823167e11f6d33f2d99                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 成人内容, 性转, 生存, 爱情, 病毒, 角色扮演, 自我认同, 欲望, 强权, 性别流动, 幻想, 二次元, 心理冲突, 剧情发展, 女性 empowerment, 角色成长, 探索与自我发掘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

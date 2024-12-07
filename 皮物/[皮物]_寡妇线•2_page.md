@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_寡妇线•2.doc]([皮物]_寡妇线•2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《寡妇线•2》，内容涉及一位女性在失去丈夫后的生活，她的情绪和心理变化，以及接下来的情感纠葛。小说开头提到主角在丈夫去世后的沉浸感，伴随着一系列情感与身体的转变。随后的叙述描绘了她在葬礼上装作悲痛，实际上却经历着内心的复仇愉悦。在对现任恋人的欲望以及其身体转变的描述中，主角展现出一种复杂的情感纠结。文中频繁涉及性爱场景及对角色身体的描写，探讨性别与权力的动态关系。整体呈现出强烈的性暗示与情感张力，涉及性别认同、复仇、权力游戏等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_寡妇线•2.doc]([皮物]_寡妇线•2.doc)
 | Size            | 33280 bytes                           |
 | MD5             | 177b584392c7122b7a54f6eb0ad5e5b9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 强奸, 复仇, 情感纠葛, 校园纯爱, 身体转变, 怪物女孩, 权力游戏, 爱情, 成熟女性, 白富美, 自我认同, 性感, 心理扭曲, 暴力与肉欲                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

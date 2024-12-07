@@ -7,7 +7,7 @@ TXT 下载: [[变身]_星空下的奇迹_第二章_不眠之夜.docx]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说描绘了角色冬临在异世界中的冒险与成长。故事以温蒂妮的记忆开篇，讲述了她在神座下聆听神主教诲的经历。冬临来到这个世界原本仅是为了寻找书籍，但在一次意外中遇到了一个似曾相识的女孩，她的形象及气息让冬临陷入了对过去的回忆与自我质疑。随即，故事转到冬临与一个来自本源世界的怪物多因的交锋，冬临展现出强大的能力，一次次化解危机。多因因过去的叛乱而逃亡，冬临为了达到自己的目标说服多因成为自己的仆从，并计划利用多因寻找目标人物。故事中暗藏了复杂的情感和权力游戏，冬临在执行计划的过程中展现出对权力欲望与感情的掌控，以及对自我身份的探索与反思。此外，小说深入探讨了性别认同、角色变换等主题，尤其是在多因变身为女孩的过程中，表现了对身体认同和性别认同的追寻与挣扎。整体情节充满幻想与冒险色彩，同时也包含了一些暗黑与禁忌元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_星空下的奇迹_第二章_不眠之夜.docx]([变身]_�
 | Size            | 23772 bytes                           |
 | MD5             | 7e8a78c3228961bf74ca23af43f78c2d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 异世界, 性别认同, 自我探索, 冒险, 魔法, 跨性别, 情感冲突, 权力游戏, 角色变换, 伪娘, 魔物, 奇幻, 身份认同, 夜晚, 校园, 冷酷, 复仇, 奴仆关系, 触手                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

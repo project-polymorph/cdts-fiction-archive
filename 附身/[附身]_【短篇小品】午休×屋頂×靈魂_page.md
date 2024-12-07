@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【短篇小品】午休×屋頂×靈魂.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇关于性转题材的短篇小说，讲述了主角真子在午休时意外地在天台上向同班同学武志展示内裤的情境。故事围绕着真子心理的抗拒与由性的诱惑所引发的复杂情感展开。真子在行为中感到不协调却又似乎被自己的欲望所驱动，进而开始享受被武志触碰的感觉。作者通过描绘大家的反应和心理变化，探讨了在身体和性别角色上发生转变的个人心理。在情节发展中，真子的内心挣扎与肉体快感形成鲜明对比，制造出紧张又具有一定色情成分的场景。小说结尾处，真实的自我与被附身的状态冲突，使得真子关于自己身体的认知再次受到挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【短篇小品】午休×屋頂×靈魂.docx]([附身]_�
 | Size            | 22225 bytes                           |
 | MD5             | 14ff5cabf4f4d8f6939e1aec2ff6a20a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | マロエ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 校园, 变身, 自我探索, 性别认同, 心理冲突, 爱情, 强奸, 调教, 男生, 女生, 白色内裤, 灵魂附身, 好奇心, 羞耻, 快感, 校园小说, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

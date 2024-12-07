@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_深蓝之所.docx]([皮物]_深蓝之所.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一篇跨性别与伪娘主题的小短篇小说，主要围绕角色黄豆和其女班主任萍老师的故事展开。故事开始于黄豆的毕业宴会上，酒后，他借着酒劲向萍老师表达感情，并进行了一系列不当行为。在小说的高潮部分，黄豆在醉酒状态下，被萍老师诱导至私人宾馆，展现出情节的暧昧和禁忌。萍老师的真实身份在故事中也得到了揭示，她并非普通人的外表，而是以乳胶衣和面具遮掩的特殊角色，暗示了深层的性别和身份认同主题。故事充满了对权力、诱惑与性别认同的探讨，情节包含大量大胆的描写和强烈的视觉意象，展示了角色间复杂的心理互动和身体解放。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_深蓝之所.docx]([皮物]_深蓝之所.docx)
 | Size            | 40436 bytes                           |
 | MD5             | ee5ab01da5ae40745fab797556ff6981                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 伪娘, 禁忌恋, 酒后失态, 女老师, 强烈性暗示, 性别认同, 角色扮演, 自我探索, 暴露与谜团, 成人内容, 性别转换, 性别角色游戏, 心理操控, 迷醉与诱惑, 情感交织                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

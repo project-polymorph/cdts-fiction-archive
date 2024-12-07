@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】坤包是开端.doc]([变性]_【翻译】坤�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一部名为《坤包是开端》的小说的翻译文本，讲述了一位名叫拉里的男子在某天发现自己被迫带着一个女性坤包的经历。故事中，拉里在工作时被同事珍妮提醒注意自己桌上的坤包，虽然他起初并不认识这个包，但慢慢对它产生了一种依赖和熟悉感。随着故事的发展，拉里逐渐接受了这个包的存在，甚至在日常生活中开始带着它。小说通过拉里的内心独白，反映了他对性别和自我认同的探索。故事中涉及到他的过往、失去的妻子以及对新生活的适应。文本中包含了一些潜在的性别转换和心理探索的主题，如拉里面对自己旧时的生活和新身份的冲突，以及对女性形象的审视和接受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】坤包是开端.doc]([变性]_【翻译】坤�
 | Size            | 220160 bytes                           |
 | MD5             | 1f4b5f8de080b43df9911a853b6fc2fc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Varian Milagro（翻译：魔之天涯）                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 自我认同, 心理冲突, 都市生活, 坤包, 男娘, 自我探索, 爱情, 失去的过去, 变身小说, 日常生活, 情感纠葛, 跨性别                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

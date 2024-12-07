@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_救妻行动四（后续本章更新，争取两星期结�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件名为《救妻行动四》，是一本涉及伪娘和跨性别主题的小说，描绘了一名男性王涛为了保护自己的妻子李雅而安装监视摄像头，但意外地发现自己的妻子被一个小混混操控。故事情节交织着强烈的性暗示和变身份的情节，王涛对李雅身体的意识被另一个男性王天所占有。王天在李雅的身体里体验着强烈的快感，同时也在策划如何继续占有王涛的妻子。小说细致描绘了李雅被操控时的内心挣扎与欲望，王天的控制欲与扭曲爱情交错其中，展现出复杂的人物心理和性别认同的主题。此作品包括许多成人内容，包括出轨、偷窥和强烈的性暗示。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_救妻行动四（后续本章更新，争取两星期结�
 | Size            | 16150 bytes                           |
 | MD5             | 08d3c2d70d6b33b55f545290880a63ff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 强奸, 调教, 性别认同, 秘密监视, 自我探索, 欲望, 变身, 恋爱心理, 成人内容, 科技幻想, 情欲, 情绪操控, 身份错位, 肉欲与情感的冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

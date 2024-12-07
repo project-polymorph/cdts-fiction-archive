@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_美人皮的故事五.docx]([皮物]_美人皮的故事五
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《美人皮的故事五》描绘了一位主人公在一个神秘地下洞穴中的探险经历。故事开篇，主人公发现洞内凌乱且地面上沾满血迹，怀疑是两位角色慕容雪和云老头曾在此发生斗争。通过对一个名为‘阴血壶’的古代酒壶的探索，主人公吸收了他人血液的力量，并逐渐揭开了阴血壶的秘密，了解到只有特定的血液才能够被酒壶练化。主人公在洞中遇到已倒下的慕容雪和云老头，经过一系列的血液激活和融合，获得了慕容雪的力量，并试图掌握变身的能力。在肉体和灵魂的交替中，主人公经历了一段痛苦而又充满力量的过程。整篇作品通过角色的自我认知的变化，探讨了性别与身份的复杂性，同时带有明显的成人向情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_美人皮的故事五.docx]([皮物]_美人皮的故事五
 | Size            | 16062 bytes                           |
 | MD5             | 69d53c2f284871586bf924da2e749e53                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 阴血壶, 人皮, 古代小说, 奇幻, 力量探索, 血液融合, 仙人皮, 自我认知, 深洞探险, 超自然, 阴女, 暗黑奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

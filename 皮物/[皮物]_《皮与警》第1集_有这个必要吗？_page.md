@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《皮与警》第1集_有这个必要吗？.doc]([皮物]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《皮与警》第1集《有这个必要吗？》是一部围绕跨性别与性转主题的小说，主要讲述了一个伪娘角色，姚娜，她以女性形象出现，但内心却一直承载着男性的身份和欲望。故事开始时，姚娜在家中独自享受一部岛国成人影片，身体的状态和心理的冲突交织在一起。小说不仅描绘了姚娜细腻的外貌特征，如‘身型苗条、腰细腿长、肌肤白嫩’，还刻画了她内心对性别与欲望的复杂想法。随着情节的发展，姚娜与修空调的工人发生了一段意外的互动，共同探讨了性别认同与社会角色之间的界限。修理工的出现打破了姚娜独自享受的世界，令人紧张且富有戏剧性。故事探讨了性别、欲望、自我认知等诸多心理层面，从而呈现出一幅关于现代社会中性别流动性的画卷。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《皮与警》第1集_有这个必要吗？.doc]([皮物]
 | Size            | 58368 bytes                           |
 | MD5             | 9069757fe7de05e54a7163e8a5c7ba66                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性转, 跨性别, 成人内容, 情感纠葛, 欲望探索, 自我认知, 性别认同, 青城, 社会角色, 戏剧, 心理冲突, 情色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

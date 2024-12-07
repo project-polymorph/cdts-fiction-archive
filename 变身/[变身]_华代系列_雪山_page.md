@@ -7,7 +7,7 @@ TXT 下载: [[变身]_华代系列_雪山.docx]([变身]_华代系列_雪山.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档描述了一个名为「雪花庄园」的地点，位于北陆的山间，似乎是与秘密国家机关「猎人」组织相关的休养所。故事围绕着猎人43号的经历展开，他在即将到来的公司旅游中被派往这个设施。在即将出发的公司旅游期间，他面临了一系列压力，包括设备故障以及得罪同僚的风险，而不久前他还因检举同事而遭到报复。在这个过程中，43号遇到了一个名叫真城华代的神秘女孩，她声称能够解决他的烦恼，从而引发了一系列传奇的故事。文中包含了关于设施的描述、职员的互动以及主人公内心的挣扎等情节，特别是关于人与人之间的关系、合作与冲突等主题的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_华代系列_雪山.docx]([变身]_华代系列_雪山.doc
 | Size            | 23626 bytes                           |
 | MD5             | 78dc42f9817273a40a6fbed7e547d5d3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 伪娘, 猎人, 滑雪, 神秘女孩, 心理斗争, 职场竞争, 科技, 魔法, 情感纠葛, 人物关系, 故事背景, 公司旅游, 温泉, 设施管理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

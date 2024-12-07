@@ -7,7 +7,7 @@ TXT 下载: [[附身]_闹钟（一）.docx]([附身]_闹钟（一）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了一个年轻职场新人左蒙的日常生活，通过细腻的心理描写反映了他的迷茫与疲惫。故事开头提到他对早晨闹钟铃声的厌烦，虽然他曾对某些歌曲很喜欢，但在每天早晨被叫醒后，这些音乐变成了他最讨厌的声音。文中写到他的工作节奏逐渐被压迫，生活变得单调而乏味，周围的同事对他发号施令，他不得不机械地完成文件复印和发送的任务。左蒙一次又一次经历类似的工作日，甚至在探索自我认知的过程中，产生了梦境与现实的混淆。最终，他感到深深的孤独与恐惧，试图在日复一日的生活中找到自我。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_闹钟（一）.docx]([附身]_闹钟（一）.docx)
 | Size            | 24589 bytes                           |
 | MD5             | 5758625e084e26830788223831f685f8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 职场生活, 迷茫, 自我探索, 梦境, 精神疲惫, 日常压力, 重复日常, 青年工作者, 心理描写, 人际关系, 青春, 生活困境, 奇形怪状的闹钟, 残奥会, 孤独感, 空虚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

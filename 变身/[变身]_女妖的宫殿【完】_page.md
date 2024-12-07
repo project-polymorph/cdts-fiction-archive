@@ -7,7 +7,7 @@ TXT 下载: [[变身]_女妖的宫殿【完】.doc]([变身]_女妖的宫殿【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是关于一位少女萧瑟的转变，她在一次意外中进入了一个被妖狐封印的宫殿。在宫殿内部，萧瑟遇到了一位美丽的妖狐，并被其强大的气息所吸引。在萧瑟的探索中，她逐渐发现自己已被转变为灵魂体，并了解到妖狐即将消散，她可能成为妖狐的新身体。妖狐展示了自己的魅力与力量，同时向萧瑟发出请求，希望她能够帮助解救妖狐。整个故事充满了神秘与诱惑，涉及了角色的性别转换及自我认知的冲突，呈现了华丽的幻想场景与复杂的人物关系。文中的描述如“大厅中央有一座很高的木架平台”，以及对妖狐魅惑的刻画，均展现了丰富的想象力和情感冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_女妖的宫殿【完】.doc]([变身]_女妖的宫殿【�
 | Size            | 40448 bytes                           |
 | MD5             | 72e5409dbec3e62efa917b832111f253                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 妖狐, 性转, 灵魂体, 幻想, 自我探索, 性别认同, 魅惑, 超自然, 冒险, 情感纠葛, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

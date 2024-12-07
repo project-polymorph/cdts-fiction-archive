@@ -7,7 +7,7 @@ TXT 下载: [[附身]_TG物语——异体（十一、十二、十三）全文�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇关于跨性别主题的小说片段，主要描述主角在不同身体间的意识转换以及随之而来的内心冲突和选择。在故事的关键时刻，主人公控制了一个男性角色张嘉怡的身体，感觉到此举的荒谬之处，试图在奢华的欲望和内疚感之间寻找平衡。文中通过主人公对周围环境和人物的观察，逐步揭示出他所处的复杂组织和人际关系，进行了对权力、欲望和身份的深刻探讨。特别是通过与其他角色的互动，展现了性别和权力的交错。此外，文本涉及了情感的探索及性的体验，将角色的心理变化与外部事件结合在一起，反映了复杂的跨性别体验和个人身份的构构建。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_TG物语——异体（十一、十二、十三）全文�
 | Size            | 43008 bytes                           |
 | MD5             | e4ca9ebb2044cf2f6c0c63bcc315789b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 身份认同, 自我探索, 情感纠葛, 权力斗争, 阴暗组织, 心灵对话, 欲望与内疚, 角色扮演, 虚拟现实, 激战, 觉醒, 意识转移, 暗黑幻想, 非人化, 青春痛苦, 社会压力, 禁忌关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_杀手，蜜月，美人鱼_part_1.docx]([皮物]_杀手�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一部融入黑社会和变身元素的小说《杀手，蜜月，美人鱼》的第一部分。通过第一人称的叙述风格，故事围绕男主角——著名的女杀手‘美人鱼’展开。故事开篇描绘了一个庄严的婚礼场景，伴随着黑衣护卫们的紧张安保工作，营造出紧张氛围。婚礼的主角是青龙会的龙头老大青木横，小说以他的婚礼为背景，讲述了隐藏在华丽表象下的阴谋与冲突。美人鱼的真实身份是男性，小说对他的乔装和心理状态进行了深入的描绘，表现出他在执行任务时内心的矛盾及对自我身份的思考。故事情节复杂，既包含了黑社会的斗争又涉及跨性别身份的自我认同和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_杀手，蜜月，美人鱼_part_1.docx]([皮物]_杀手�
 | Size            | 24842 bytes                           |
 | MD5             | 686a37d53d89a5931f7fd031e277ff32                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 寒蝉                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 伪娘, 黑社会, 爱情, 自我探索, 美人鱼, 杀手, 婚礼, 权力斗争, 紧张情节, 第一人称叙述, 暗杀, 身份认同, 心理冲突, 阴谋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

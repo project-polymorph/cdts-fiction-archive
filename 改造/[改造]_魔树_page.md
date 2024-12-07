@@ -7,7 +7,7 @@ TXT 下载: [[改造]_魔树.doc]([改造]_魔树.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《魔树》是一本设定在日本战国时代的小说，揭示了战乱给人类与妖魔之间的微妙关系。在动荡的背景下，故事围绕一个小男孩俊一和他的母亲，他们在为了生存而艰难生活的同时，感受到妖魔渐渐渗透进人类生活中的恐惧。文中开篇描述了小男孩观察周围人们争先恐后地排队领取口粮的景象，这不仅反映了生存的困境，也暗示了妖魔对人类的威胁。俊一的母亲则承受着巨大的心理压力，包括对旦夕祸福的恐惧。在一场由黑袍人推动的"生命之神"教会的招募过程中，母亲对孩子加入这一教派的直觉感到不安，从而拒绝了黑袍人的提议。小说通过细腻的描写展现了在战乱中人性的挣扎与重要性，特别是亲情的纽带和生存的勇气。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[改造]_魔树.doc]([改造]_魔树.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 79872 bytes                           |
 | MD5             | f9a443155b62dfe25a350bc4decbe496                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 魔树, 战国时代, 妖魔, 生存, 母子关系, 恐惧, 战乱, 教会, 食物短缺, 人性探索, 自我认知, 亲情, 成长, 社会动荡, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

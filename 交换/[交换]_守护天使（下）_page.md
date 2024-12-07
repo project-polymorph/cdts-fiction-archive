@@ -7,7 +7,7 @@ TXT 下载: [[交换]_守护天使（下）.doc]([交换]_守护天使（下）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《交换：守护天使（下）》是一部围绕性别转变与个体认同的小说，讲述了主角马库斯与一位名为安琪尔的天使之间独特的关系。故事开篇，马库斯被安琪尔触碰，感受到一种前所未有的吸引力，两人之间仿佛有着某种超越肉体的灵魂纽带。随着剧情的发展，他们发生了身体的交换，马库斯在安琪尔的身体内体验到不同的生活。在这个过程中，马库斯不仅要适应新身份，还要面对对安琪尔深厚的情感，这让他的内心满是困惑与挣扎。安琪尔则在失去天使身份后，努力适应作为凡人的生活，二人之间的情感逐渐升温。故事深刻探讨了性别认同、自我探索与情感的复杂关系，最终他们都开始试图以一种新方式互相扶持，共同面对生活的挑战，探究爱与身份的真谛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_守护天使（下）.doc]([交换]_守护天使（下）.
 | Size            | 33792 bytes                           |
 | MD5             | fd6e015c7e4a77fdbc83a5e4f1fbbd82                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转变, 跨性别, 爱情, 自我认同, 灵魂连接, 天使与人类, 身体交换, 寻求帮助, 生命的转变, 校园生活, 情感探索, 性别认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_間諜遊戲(1).docx]([交换]_間諜遊戲(1).docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇关于间谍任务的小说，原著由Morpheus创作，翻译为中文。故事的主角高登是国家情报局的秘密干员，他在巴黎香榭大道上执行一个紧急的任务，目标是获取一枚能够让两人交换身体的特殊晶片。故事的开头描绘了高登悠闲的生活，然而他内心深处却充满了紧张，任务需要他在一个公共环境中秘密观察目标汉斯。随着情节的发展，他不仅要与汉斯接触，还要面对其他潜在的对手，尤其是同样对晶片充满兴趣的美籍华人情报人员艾瑪。整个过程中，高登与艾瑪之间微妙的关系交织了职业与个人的复杂情感。最后在枪火交加的对抗中，高登顺利拿到了晶片，但心头的压力和不确定性依然充斥着他的思考。小说包含了跨性别、间谍、科技幻想等主题，表现出强烈的动作与悬疑氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_間諜遊戲(1).docx]([交换]_間諜遊戲(1).docx)
 | Size            | 28580 bytes                           |
 | MD5             | 9af70fcd7aa584c093435e6dcd9fb3dc                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Morpheus                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 间谍小说, 跨性别, 双重身份, 动作, 科技幻想, 心理战, 女性角色, 身体交换, 情感纠葛, 秘密任务, 城市冒险, 复杂关系, 反转情节                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

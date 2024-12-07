@@ -7,7 +7,7 @@ TXT 下载: [[变身]_节日系列之愚人节+圣诞节.docx]([变身]_节日�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档包含两部分内容，分别是以愚人节和圣诞节为主题的短篇小说。第一部分中，女孩温雅在愚人节早晨醒来，发现床边多了一个陌生男性。该男性自称是吸血鬼，并展示出超出常人的能力，引发了一系列紧张且诡异的事件。故事围绕温雅的恐惧、迷惑以及与陌生人的互动展开，情节带有悬疑和奇幻的色彩。在此过程中，温雅逐渐意识到自己被某种力量操控，遇到了自己的替身，这一替身既是她的对立面又仿佛在监视自己的生活。随后，转入到第二部分的圣诞节场景中，故事的主角是一位女性，她在等待出差回来的丈夫，并准备给他一个惊喜。女性对一棵普通的圣诞树产生了奇特的迷恋，背后隐含了对平淡生活的渴望以及对于情感的期待。两部分之间主题相呼应，均探讨了人与人之间的关系以及内心深处的感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_节日系列之愚人节+圣诞节.docx]([变身]_节日�
 | Size            | 23074 bytes                           |
 | MD5             | 2e11463857c5700d19069e832fb97f76                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 宅路人                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 愚人节, 吸血鬼, 变身, 自我认知, 奇幻, 悬疑, 圣诞节, 家庭关系, 情感探索, 青春校园, 异世界, 伪娘, 强奸, 多重身份, 冒名顶替, 糖醋排骨, 鸳鸯浴, 女性视角, 身份认同, 神秘力量                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

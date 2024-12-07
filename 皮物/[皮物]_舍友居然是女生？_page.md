@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_舍友居然是女生？.doc]([皮物]_舍友居然是女�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇围绕大学生生活的伪娘变身和跨性别题材小说，讲述了主人公李懂与其舍友费思之间情感的复杂变化。故事从李懂的视角展开，描绘了他对大学生活的憧憬和初入校园时的失落感。在与舍友相处的三年中，李懂逐渐发现费思的真实身份：原来费思并非自己所认为的男性，而是一个生理性别为女性的角色。这个秘密的揭示源于费思的母亲使用了一种特殊的设备，让她能够以男性的身份生活。故事中，费思对李懂的信任和依赖，使得他们的关系从朋友逐渐转变为彼此的支持和理解，李懂也开始重新审视自己的感情并愿意与费思共同面对未来的挑战。文件中包含了角色的心理挣扎、性别认同以及对彼此关系的逐步探索的内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_舍友居然是女生？.doc]([皮物]_舍友居然是女�
 | Size            | 46592 bytes                           |
 | MD5             | bb60bf4290c3e642cdfd48f635950368                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 校园爱情, 友情, 逆后宫, 成长小说, 异世界, 魔法, 人体改造, 爱情, 女性视角, 科幻, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_我的身体是裂口女的8-9.docx]([其他]_我的身体
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇以变身为主题的色情小说，主要围绕裂口女这一角色展开。故事从裂口女的内心独白开始，描写了其性别转变与身体变化后的感受。裂口女坐在桌前，随意展示其辛辣的诱惑，表现出对刺激的渴望。整篇文章包含了强烈的色情内容及自我探索的主题，如自慰、失禁和偷窥等情节。随着情节的发展，裂口女在公园、教室等场所进行公开的性行为，进一步强化了角色对禁忌和羞耻的无畏，表现出一种病态的快感与愉悦。在描绘其外形特征时，作者采用了直白且露骨的语言来强调裂口女的性感特征，同时通过对自我认同的探讨，展示了对性别模糊性和社会禁忌的挑战。整篇作品通过生动的场景描绘和角色心理，展现了主角在性别与欲望间的挣扎与解放。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_我的身体是裂口女的8-9.docx]([其他]_我的身体
 | Size            | 34057 bytes                           |
 | MD5             | 1e44a6565e42df5a4c057c666aa00253                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 裂口女, 变装, 自慰, 失禁, 偷窥, 强烈刺激, 自我认同, 禁忌, 病态快感, 二次元, 色情小说, 跨性别, 黑丝美腿, 高跟鞋, 超大震动棒                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[交换]_三合一福利帖：JNA114航班、泳池邊的意外：�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含三篇性别转换相关的短篇小说。第一篇《JNA114航班》讲述了一位男性乘客在一次航班活动中，和空姐的身体进行了交换，体验了作为空姐的生活。这篇故事通过男性角色的视角，展现了他对身体变化的困惑和逐渐的接受过程。文章中提到的男性角色在交换后，成为了女性空姐"石川雅子"，体验到作为女性的种种感受，比如被认为是美丽的空姐时的欣喜和挑战。同时，故事也触及到了他人对女性角色身份和个性的认同与接受。
+
+第二篇《泳池边的意外：湿滑注意！》描写了一名女高中生在训练中与教练意外碰撞后，身体发生了交换的情节。这篇故事以由纪奈的视角叙述了她从女性身份转变为男性身体后由于身体变化带来的困惑和情感冲突，以及她对女性身体的感知与性别认同的探索。通过对教练信一郎身体特征的细致描写，展现了角色在性别转换中的心理变化和双重身份带来的复杂情感。整个故事充满幻想色彩，结合了性转、身体交换以及自我探寻等主题，展现了角色对自身性别身份的挣扎和思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_三合一福利帖：JNA114航班、泳池邊的意外：�
 | Size            | 70626 bytes                           |
 | MD5             | 1a0322b68021c17e4f0ad28a60d287da                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 换身, 伪娘, 代入感, 空姐体验, 青春校园, 自我认同, 性别认同, 身体交换, 超现实情节, 幻想故事, 成人题材, 情感发展, 身份危机, 跨性别文学, 二次元文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

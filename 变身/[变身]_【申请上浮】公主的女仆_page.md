@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【申请上浮】公主的女仆.docx]([变身]_【申请
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部变身与跨性别主题的小说，名为《申请上浮公主的女仆》，讲述了希尔瑞帝国的王子艾文在一次袭击后失踪的故事。故事开篇描绘了帝国首都哈克城的紧张气氛，王子的失踪引发了国王的愤怒和大量士兵的搜查。随着情节的推进，王子在神秘的‘邪恶巫师’手中落入了不知名的境地，并被他的妹妹露娜袭击，身陷羞辱与变身之中。正文详细描绘了艾文从被袭击到被迫转变为少女的全过程，紧张感与屈辱感交织，展现了角色的内心挣扎和自我认知的变化。小说描写了艾文身材变化的强烈对比，以及露娜对他施加的魔法与控制，情节充满了变身、羞辱和性别认同等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【申请上浮】公主的女仆.docx]([变身]_【申请
 | Size            | 28893 bytes                           |
 | MD5             | 41a7fb8ca692b650c1a36b586904d73b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 魔法, 皇家, 羞辱, 自我探索, 家庭关系, 女仆, 女性化, 强制变身, 魔法阵, 虐待, 奇幻, 童话元素, 兄妹关系, 权力与控制, 社会角色, 角色转变, 思想斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

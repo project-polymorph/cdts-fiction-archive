@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_偶像少女1-4（完）.docx]([皮物]_偶像少女1-4（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档为一部伪娘题材的小说，主要围绕女主角小希的生活以及她所经历的变身与性别认同的探索。故事以小希作为第一人称叙述，描绘了她在影像制作中所经历的日常及隐秘的情感体验。开篇小希在拍摄用户界面后，感受到自己外貌的魅力，引发了她对自身性别与身份的思考。文本深入描绘了小希的私密感受，她通过换装、化妆等过程逐渐适应并享受作为女性的体验，伴随其心理和生理上的转变。此外，故事中还涉及与导演的潜规则，以及人皮衣的使用等情节，展现了性别流动性及伪娘圈的复杂社交。虽然内容包含一些限制级元素，但通过小希的视角，探讨了性别认同与自我接纳的主题。文中多次提及“小希的魅力无穷”，以及她在众人目光中的心理变化，展现了带有调戏性质的情节。整体而言，该作品包含大量细腻的情感描绘，揭示了跨性别群体的生活状态与内心挣扎。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_偶像少女1-4（完）.docx]([皮物]_偶像少女1-4（
 | Size            | 36823 bytes                           |
 | MD5             | 2bee39c40c3990102b977b6c64ea78ed                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | amber2006                               |
+| Region          | 未知                               |
+| Date            | 2010-09-28                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 变身, 潜规则, 情感探索, 女体化, 人皮衣, 青春, 自我接受, 骚动, 性别流动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

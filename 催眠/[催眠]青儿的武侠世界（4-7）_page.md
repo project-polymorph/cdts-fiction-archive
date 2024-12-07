@@ -7,7 +7,7 @@ TXT 下载: [[催眠]青儿的武侠世界（4-7）.doc]([催眠]青儿的武侠
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《青儿的武侠世界（4-7）》是季青创作的一部伪娘与变身类小说，讲述了主角对陆郎的深刻情感与身体的渴求。在这段情节中，主角经历了一种空虚感，频繁表达她对陆郎的思念以及对身体的渴望。在幻想与现实中，她不断自我质疑，试图寻找自己的身份和自我认同。随着情节的发展，主角由一种孤独和空虚逐渐转向积极寻找与陆郎的重逢。文本中涉及了强烈的情感描写，同时包括了身体上的欲望使得情节具有个体的探索性质。关键句子如“只有陆郎能满足我，可是陆郎在哪......”凸显了角色在情感与生理需求之间的挣扎。同时，作品伴随着某种灵性的探索，探讨了对爱的渴望与身体的欲求之间的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]青儿的武侠世界（4-7）.doc]([催眠]青儿的武侠
 | Size            | 97280 bytes                           |
 | MD5             | 41968e94bec0c45ef42e40941b06a16f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 季青                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 心理冲突, 情感探索, 自我认同, 武侠, 情色小说, 强烈情感, 幻想世界, 肉体欲望, 单恋, 孤独感, 重逢, 欲望与思想, 青涩爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

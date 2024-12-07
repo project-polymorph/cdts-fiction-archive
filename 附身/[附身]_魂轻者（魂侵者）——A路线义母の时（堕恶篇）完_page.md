@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——A路线义母の时（堕恶
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部趣味性较强的变身小说，描绘了角色大田在接受治疗时，与护士小姐之间发生的情感纠葛与激烈的亲密互动。故事开头，大田作为处男，首次体验到强烈的身体刺激，随后护士小姐不断挑逗和引导着他的欲望，提供了一种奇特的性体验。文本中存在大量性暗示和露骨的描写，护士小姐的角色体现出强烈的主动性，进一步加深了情节的戏剧化。随着情节的发展，大田在护士小姐的引导下，体验了羞耻与快感的交错，挑战着自身的性认同和心理界限。此文中所包含的内容涉及强烈性爱描写及一些限制级情节，适合成熟的读者。同时，叙述中穿插了一些心理斗争和角色认同的探讨，使得故事不仅仅着眼于生理层面的满足。这部作品的叙述风格直白且具有强烈的视觉冲击，意在引起读者的情感共鸣与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魂轻者（魂侵者）——A路线义母の时（堕恶
 | Size            | 19426 bytes                           |
 | MD5             | ce848f93cb16e8f29fd3d3b565fe46d2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 护士, 处男, 羞耻, 刺激, 内部关系, 心理斗争, 强烈性爱, 情感纠葛, 成人内容, 幻想, 角色认同, 自我探索, 剧烈情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

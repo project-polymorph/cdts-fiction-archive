@@ -7,7 +7,7 @@ TXT 下载: [[其他]_挣扎（序）.docx]([其他]_挣扎（序）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别主题下的一部伪娘/变身与跨性别相关的小说，围绕两个主要角色陈路和楚冬的互动展开。故事的开头，陈路因疲惫而冲进房间，气愤于楚冬在打游戏却没有开门。楚冬是个电竞主播，虽然游戏水平不错，却面临职业生涯的边缘化。文件中描绘了陈路对于楚冬的挫败感，随后的互动中，楚冬以玩笑和轻松的方式处理陈路的怒火，同时展现出他们之间亲密的关系。小说还包含了一些轻度的性暗示和挑逗的语气，例如提到“女王大人”和对楚冬的宠溺称呼，以及对于彼此身体的调侃。这部作品将角色的日常生活与性别认同的调侃结合在一起，突显了对现代青年文化和性别流动性的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_挣扎（序）.docx]([其他]_挣扎（序）.docx)
 | Size            | 19157 bytes                           |
 | MD5             | b0c75e7a2343ca993f699c2a2f7384a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | blcik                               |
+| Region          | 中国大陆                               |
+| Date            | 2016-08-09                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 电竞, 亲密关系, 性别认同, 网络直播, 青春, 游戏文化, 女性视角, 调戏, 角色互动, 强烈情感, 现代社会, 日常生活, 性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

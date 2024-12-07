@@ -7,7 +7,9 @@ TXT 下载: [[变身]_第三个故事（1）.docx]([变身]_第三个故事（1�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档讲述了一个名为艾伦·维克的三流小说家在接受旧识A先生赠送的神秘白色面具后，经历了一系列奇妙而又惊恐的变身事件。在文中，艾伦最开始对面具的外观没有留意，但是一旦戴上后，情况迅速发生巨变。他发现自己不仅物理上变成了一个金发女人，还面临了复杂的自我认知与情感冲突。
+
+故事中，艾伦在将面具戴上后体验到了一种奇妙的轻盈感，但随着早上的醒来，他却发现自己的男性特征不翼而飞，变成了一名生理女性。此后的情节中，他为了了解面具的功能进行了一系列实验，尝试各种变身，但是收效甚微。最后，故事带出了危险的情节，会场发生了一起抢劫案，令人更加紧张不安。文章探讨了男性和女性身份的变化，性别认同的困惑，以及新身份带来的心理冲突，以及对自身存在的再认识。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_第三个故事（1）.docx]([变身]_第三个故事（1�
 | Size            | 18504 bytes                           |
 | MD5             | 3d7c59bdd1bc9ab782435e6e19fa1665                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 伪娘, 跨性别, 变身小说, 自我探索, 面具, 奇幻, 心理冲突, 惊悚, 现代都市, 身份认同, 盗贼, 女性变身, 二次元文化, 变嫁, 异世界                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

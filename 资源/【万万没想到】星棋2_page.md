@@ -7,7 +7,7 @@ TXT 下载: [【万万没想到】星棋2.doc](【万万没想到】星棋2.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为“万万没想到”系列的第二部分，围绕吴恋、郝帅、白洁、柯嫒等多位角色的复杂情感和社会关系展开。故事从吴恋的自我解放开始，她虽然讨厌爱情，却在与陌生男性的关系中找到了短暂的快乐，且逐渐迷失在夜店文化的至高点。郝帅则是一个典型的自信男子，他对吴恋的吸引只停留在表面，体现了男性对女性的复杂情感。在白洁的视角中，揭示了婚姻中的失落与背叛，以及她如何在丈夫的要求下被迫改变自己的形象。故事后半部分通过柯嫒的挣扎表现出生存压力与家庭期望之间的矛盾。整个作品通过汇集这些角色的内心独白和对话，展现了在现代社会中，个人身份认同与性别角色的强烈冲突，以及对跨性别与性别认同主题的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [【万万没想到】星棋2.doc](【万万没想到】星棋2.doc)
 | Size            | 81920 bytes                           |
 | MD5             | 605b6a89bce03f923805b89cb5c658d8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 性别认同, 自我探索, 情感冲突, 夜店文化, 社交压力, 强制性别表现, 都市生活, 幻想情节, 游戏元素, 科幻, 情感纠葛, 心理描写, 成年人的孤独, 家庭压力, 身份探索, 变装, 反传统性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

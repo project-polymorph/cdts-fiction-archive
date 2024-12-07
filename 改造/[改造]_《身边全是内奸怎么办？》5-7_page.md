@@ -7,7 +7,9 @@ TXT 下载: [[改造]_《身边全是内奸怎么办？》5-7.doc]([改造]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇伪娘和变身题材的小说，涉及复杂的角色关系和深刻的自我认同问题。故事发生在虚构的历史背景下，围绕独孤风和胡庆两位主要角色展开。独孤风因遭遇挫折而沉迷于酒中，试图以此逃避现实。在一次偶然的机会中，他发现了胡庆的雕刻作品，并意外联想到胡庆可能掌握了超凡的力量。随着故事的推进，独孤风与胡庆的关系逐渐修复，胡庆甚至向独孤风吐露了自己体内存在的三块神秘宝石，其中寄托着巨大的力量和秘密。
+
+小说不仅展开了一场关于力量与欲望的探索，同时也触及了性别认同和角色转换的主题，尤其是在描述独孤泰被改造成女性后的身心变化上，展现了对自我认知和社会地位的深刻思考。同时，故事中包含了某些露骨的情节，涉及了药物催眠和调教等成人内容。整体而言，该作品结合了奇幻与现实，以引人深思的方式探讨了人性与欲望。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_《身边全是内奸怎么办？》5-7.doc]([改造]_《�
 | Size            | 61440 bytes                           |
 | MD5             | e72e50cab15f138cc71107d1a5d823fb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 药物作用, 性别认同, 自我探索, 爱情, 奇幻, 秘密, 社交, 艺术, 人物关系, 心理变化, 力量与欲望, 性转, 调教, 成人内容, 主人与奴隶关系, 同人创作                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

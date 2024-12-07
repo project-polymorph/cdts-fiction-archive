@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_端午贺礼——粽子.docx]([皮物]_端午贺礼——
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描写伪娘与跨性别角色的小说，主要围绕两位少女李丽和月美之间的互动展开。故事开始时，李丽对月美的变化感到好奇，月美则邀请她一起去吃粽子。在这个过程中，李丽逐渐发觉月美的行为变得异常，与她以往的性格大相径庭。小说中包含了细腻的心理描写与情感交流，但随着情节的发展，故事逐渐变得阴暗与扭曲，李丽在无意间卷入了一场离奇而恐怖的事件。月美展现出一种完全不同的性格，暗示着潜在的不可告人的秘密。故事也渐渐揭示数据背景下的强暴与变身情节，涉及对身体、身份与性别的深刻探讨。文件用词较为露骨，包含性描写与不适内容，将一些细节表现得较为直白。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_端午贺礼——粽子.docx]([皮物]_端午贺礼——
 | Size            | 21372 bytes                           |
 | MD5             | f49757cb9e3873e6992479c6f5b26294                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性转, 恐怖, 青春, 友情, 心理, 暗黑, 幻想, 女体化, 爱情, 身份转变, 变身, 强暴, 惊悚, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

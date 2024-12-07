@@ -7,7 +7,7 @@ TXT 下载: [[变性]_崎岖人生路-2.docx]([变性]_崎岖人生路-2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一篇关于性别转换和自我认同的小说，描绘了一名角色在经历手术后逐渐适应新身份的心理和生理变化。故事的主线围绕着主人公经历复杂的手术过程，由哥哥陪伴和照顾，而主角的身体和声音都发生了变化，逐步向女性化发展。文本叙述了主角在手术后的康复过程，以及他们对身体变化的接受与挣扎。值得注意的是，在整个恢复过程中，哥哥不仅是身体上的支持，也是心理上的依靠，二人之间深厚的感情得以显现。最终，主人公在从手术恢复的过程中，开始重新审视自身的性别认同，对声音、身体、甚至是过去的回忆产生了深刻的思考。书中同时涉及了诸如激素失衡、病痛、性别认同等复杂的主题，值得科学研究与心理学分析。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_崎岖人生路-2.docx]([变性]_崎岖人生路-2.docx)
 | Size            | 27562 bytes                           |
 | MD5             | b54853f0eab06f250a783f8767f3660f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 跨性别, 兄妹情, 自我认同, 康复训练, 手术过程, 心理挣扎, 性别认同, 情感支持, 身体变化, 术后恢复, 性别探索, 家庭关系, 情感深度, 社会适应, 生活挑战                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

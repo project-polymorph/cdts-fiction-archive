@@ -7,7 +7,7 @@ TXT 下载: [[变身]_合影相机_第七章.doc]([变身]_合影相机_第七�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说的第七章，标题为《闺蜜时间到（下）》。内容围绕主角卓琪的心理变化和成长经历展开。卓琪在一次被小混混围攻的事件后，遇见了同学祝珋，并被他的帅气容貌吸引。卓琪为了引起祝珋的注意，开始尝试打扮自己，并加入了一个校花评选的群聊。在群聊中，她和祝珋进行了一些互动，但她发现祝珋对自己并不感兴趣，反而对其他女生有所偏爱。卓琪超越了内心的挣扎与焦虑，开始对自己的性别认同和性向产生了探索和思考，文本中描述了她在获取性知识后内心的波动，以及对祝珋的情感变化。最终，文本探讨了男女之间关系的复杂性和不同的期望，同时探讨了社会对性别与性的认知。\n\n作者巧妙地描绘了卓琪从一个内向害羞的女孩逐渐向一个勇敢表达自我的女性时的心路历程及心理变化，展现了年青人在面对感情与性别身份的复杂交织的真实情感。文字中对内心情感的细腻描写使得这个故事更具共鸣。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_合影相机_第七章.doc]([变身]_合影相机_第七�
 | Size            | 43008 bytes                           |
 | MD5             | 7d4fa7003079ba2911cea312d4904d1c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 情色, 校花评选, 强烈情感, 性别认同, 青春成长, 自我探索, 情感纠葛, 女主角成长, 性别角色, 青少年, 二次元, 校园生活, 心理描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

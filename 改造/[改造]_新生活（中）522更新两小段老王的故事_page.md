@@ -7,7 +7,7 @@ TXT 下载: [[改造]_新生活（中）522更新两小段老王的故事.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文展示了马原在与老王的对话中，逐渐揭示出他内心对性别和身份转换的困惑与挣扎。故事中，马原与老王一起探讨生活中日益严重的经济压力，马原对于自己的性别认同感到迷茫，并最终下定决心参与改变。老王向马原坦言他渴望通过变身成为女性来逃避现实的压力与困境。故事通过细腻的描写展示了马原在转变过程中的情感波动，以及他与老王、莎莎等人的互动。文中包含诸如对性别认同、家庭压力、身份困惑等深刻主题，同时也展现了性转过程中的亲密关系和情感变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_新生活（中）522更新两小段老王的故事.doc]([
 | Size            | 69632 bytes                           |
 | MD5             | 20645b2796d7aa443bae2d0b039a1001                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身, 伪娘, 跨性别, 经济压力, 情感波动, 身份困惑, 男女关系, 异性恋                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

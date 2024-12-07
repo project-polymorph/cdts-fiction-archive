@@ -7,7 +7,7 @@ TXT 下载: [[改造]_人鱼妻养成记第七章.doc]([改造]_人鱼妻养成�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部关于变身与跨性别主题的小说，主要讲述了男主角莱克与他的美人鱼伴侣温蒂之间的奇幻爱情故事。在故事中，莱克为实现与温蒂的美好生活，帮助她进行生理转变，使她成功变成为美丽的人鱼。温蒂在魔法修炼过程中，经历了从人类到人鱼的变化，外表上充满了诱惑与变化：她的身体由乳胶衣覆盖转变为水晶般呈现天蓝色与乳白色的鱼尾，带有新生的美丽与性感。文中描述了两人在梦幻般的海底世界里的互动，充满能感受到的欲望与温柔，而莱克对温蒂的爱意体现得淋漓尽致。尽管情节中有性暗示和露骨的描绘，但主要围绕男女主人公之间的亲密关系和角色转变展开。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_人鱼妻养成记第七章.doc]([改造]_人鱼妻养成�
 | Size            | 39936 bytes                           |
 | MD5             | 81de1aa90215303760333c204e62da03                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 美人鱼, 变身, 跨性别, 魔法修炼, 爱情, 奇幻, 水下世界, 性别转变, 角色互动, 欲望, 自我探索, 海洋幻想, 二次元, 青少年, 幻想文学, 伪娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

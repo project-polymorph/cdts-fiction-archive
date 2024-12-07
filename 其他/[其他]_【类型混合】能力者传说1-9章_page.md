@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【类型混合】能力者传说1-9章.doc]([其他]_【�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《能力者传说》的部分章节，内容围绕着角色的自我认知、性别转换和意识的多重表达展开。在第一章中，故事引入了一个生理性别为女性但有着男性内心的角色，描绘了她对外貌和身体状态的焦虑，甚至面临身体的崩溃感。随着情节的发展，角色在街上遭遇意外，并在意识失去的瞬间引入了另一个视角，这是另一个同样名叫张艾茹的角色，她面临身份的重叠和意识的交织。故事在揭示张艾茹个人情感的同时，探讨了其对苏育文的爱慕之情以及与其之间复杂的关系。随着情节推进，张艾茹的内心矛盾和对自己身份的探讨愈加深入，表现出角色在面对爱情和自我认同中的挣扎。不论是对性别角色的思考，还是情感关系的探索，本文件均体现了丰富的内涵与现实主义色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【类型混合】能力者传说1-9章.doc]([其他]_【�
 | Size            | 71168 bytes                           |
 | MD5             | dad4876c2a8cab60fd6f3122cd02a194                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 能力者传说, 转身, 性别认同, 意识重叠, 爱情, 自我探索, 张艾茹, 苏育文, 变身, 角色心理, 复杂情感, 第二次性别, 生理性别与心理性别不符, 都市幻想, 青春校园, 二次元, 时空交错                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

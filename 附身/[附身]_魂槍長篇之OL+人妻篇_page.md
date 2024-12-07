@@ -7,7 +7,7 @@ TXT 下载: [[附身]_魂槍長篇之OL+人妻篇.docx]([附身]_魂槍長篇之
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于“灵魂灌入枪”道具的性转主题小说，讲述了男主角通过一个奇特的塑料玩具枪，控制一位女性的灵魂并操控她的行为。故事开始于男主角在酒后误入玩具店，获得了一把号称可以将灵魂灌入目标身体的玩具枪。作品包含明显的性暗示和色情内容，例如控制女性以满足自己的欲望等情节。故事中男主通过控制女性OL平美由纪的身体，进行各种调教和玩耍，加深了对性别认知和自我探索的讨论。本作品有很多幽默和调侃的对话，如“你怎么能这么帅啊！”等，展现了角色间的互动与性转变的独特视角。整体语言风格较为轻松却又包含较为直白的性描述，适合对性转小说感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_魂槍長篇之OL+人妻篇.docx]([附身]_魂槍長篇之
 | Size            | 55774 bytes                           |
 | MD5             | 8ad8a0cdbf0d63144f4238873136ac0e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 变身小说, 跨性别, 阴茎控制, 灵魂交换, 单身女性, 性别认同, 调教, 玩具枪, 幽默, 调侃, 灵魂灌入枪, 性探索, 欲望满足, OL, 非人化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

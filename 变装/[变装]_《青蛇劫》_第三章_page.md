@@ -7,7 +7,7 @@ TXT 下载: [[变装]_《青蛇劫》_第三章.doc]([变装]_《青蛇劫》_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《青蛇劫》第三章主要讲述了青蛇在施展龙族秘术后化形为人，成为一个美丽的男身女相的角色。在这一章中，小青对白素贞产生了强烈的爱慕之情，尤其是在她化形后的美丽外表使得两者之间的情感更加复杂。小青因为施术后妖力损耗，导致对白素贞的强烈欲望失控，产生了不当行为。白素贞初时被这突如其来的情感和情状所惊吓，但也在小青的陪伴中感到了一种未曾有过的亲密。小说细致描绘了小青换上女装的过程，以及他对此的羞涩与愉悦感。更深层地探讨了角色间的情感、性别认同和身份认同问题。整体上，这一章不仅展现了变装题材的元素，也深刻阐释了角色之间微妙的情感变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_《青蛇劫》_第三章.doc]([变装]_《青蛇劫》_�
 | Size            | 30720 bytes                           |
 | MD5             | 145c2386538f234d641841c80d830560                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 伪娘, 情感纠葛, 性别认同, 青蛇, 白素贞, 妖怪, 身体替换, 角色发展, 亲密关系, 转化, 自我探索, 禁忌爱情, 同性之爱, 魔法, 玄幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

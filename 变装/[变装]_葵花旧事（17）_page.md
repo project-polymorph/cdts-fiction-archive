@@ -7,7 +7,7 @@ TXT 下载: [[变装]_葵花旧事（17）.doc]([变装]_葵花旧事（17）.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为性转小说《葵花旧事》的第十七章，主要描绘了主角代伊斯在穿越后的生活和心境变化。章节开头，代伊斯醒来发现自己已经变身为女性，身体的变化带来了对自己性别认同的困惑。他的朋友锦莲细心照料代伊斯，为他提供温粥并安慰他，同时讲述了代伊斯生理变化的细节和适应过程。在两人互动中，表现了代伊斯从初体验到渐渐接受女性身份的内心转变与情感历程。此外，章节中穿插了对女体的细致描写与实验性探索，展示了代伊斯对于作为女性的身体与快感的认同，夹杂着对锦莲的依赖与感激。整体情节涉及性别认同、自我探索、心理冲突等主题，情感细腻，情节发展缓慢而充满探索，涉及较多限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_葵花旧事（17）.doc]([变装]_葵花旧事（17）.do
 | Size            | 47616 bytes                           |
 | MD5             | 7f8fc7bfe650a3e8d391b86fce4e96af                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 自我认同, 女性身体, 情感依赖, 细腻描写, 角色探索, 变身, 心理冲突, 友谊, 肉体快感, 女性视角, 家庭伦理, 生活琐事, 新身份适应, 情感发展                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

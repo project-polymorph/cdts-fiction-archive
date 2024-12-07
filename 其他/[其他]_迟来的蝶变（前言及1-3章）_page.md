@@ -7,7 +7,7 @@ TXT 下载: [[其他]_迟来的蝶变（前言及1-3章）.docx]([其他]_迟来
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这份文档是关于一篇名为《迟来的蝶变》的TS（变性）小说的前言及前几章。小说讨论了主角从直男到成为TS嫁人的过程，聚焦于他在这一转变中的心理挣扎与调教经历。文中提到，尽管主角最终不会完全变性，但整个故事围绕着他逐渐被调教与接受这一身份的过程。小说以一种细腻的笔触描述了主角的内心世界，以及在特殊背景下的情感和身体变化。文档中夹杂了一些生活场景与对话，显示出主角在婚礼前的紧张与期待，同时反映出他与周围人物之间复杂的情感纠葛。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_迟来的蝶变（前言及1-3章）.docx]([其他]_迟来
 | Size            | 72052 bytes                           |
 | MD5             | 7f64a56e36e6538eb667b61cce913f93                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 调教, TS小说, 婚礼情节, 自我认同, 角色转变, 情感纠葛, 变嫁, 成长故事, 二次元文化, 心理斗争, 激素影响, 身体改造, 戏剧冲突, 性别探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

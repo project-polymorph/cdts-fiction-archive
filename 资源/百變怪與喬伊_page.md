@@ -7,7 +7,7 @@ TXT 下载: [百變怪與喬伊.doc](百變怪與喬伊.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇描绘名为喬伊的角色在神奇寶貝中心的发生的剧情短篇小说。故事开头喬伊在日常工作中接待一位女性训练员，然而接下来发生的事件却让她陷入了一场恐怖与自我认同的挣扎中。喬伊本以为只是在执行简单的工作，但突然遭遇到一只名为百变怪的神奇宝贝，它利用自己的能力将喬伊压制并企图占据她的身体。故事描写了喬伊在恐惧和困惑中，逐渐意识到自己正在被百变怪所替代的过程，身体与意识的双重痛苦交织。 在经过紧张的自我挣扎后，喬伊逐渐陷入绝望与无力之中，最后被抽离出自己身体的景象让人感到深深的无奈和绝望。此文件所描述的内容涉及自我认同、替代身份和性别角色的极端探索，情节中包含了一些限制级与暗示性内容，因此需对其内容进行科学、客观的评估与研究。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [百變怪與喬伊.doc](百變怪與喬伊.doc)
 | Size            | 35328 bytes                           |
 | MD5             | a850e2a508089c3eb51e48ff9396ede8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 恐怖, 奇幻, 神奇宝贝, 百变怪, 女性视角, 吸收, 替代身份, 绝望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

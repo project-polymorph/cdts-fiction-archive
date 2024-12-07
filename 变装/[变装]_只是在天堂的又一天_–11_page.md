@@ -7,7 +7,7 @@ TXT 下载: [[变装]_只是在天堂的又一天_–11.docx]([变装]_只是在
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《只是在天堂的又一天》是一篇描绘角色性别与身份转换的小说，主要讲述了主人公亚历克西丝在经历了濒死之际所面临的自我认知与情感探索。故事以主人公的第一人称视角展开，描述了她在另一个世界中的重生经历，充满了痛苦与挣扎。故事中，亚历克西丝体验到身体的无力，感觉到喉咙的阻碍和身体的压迫，同时她回想起了自己过去的痛苦和死亡的阴影，以及一个熟悉男性角色尼克的支持与安慰。这段经历不仅构建了一种存在和意识的深层思考，也展现了人物之间复杂的情感链接与相互依存。随着情节的发展，亚历克西丝最终得到了重生的机会，而故事以她逐渐恢复意识与情感的过程为主线，强调了生命的脆弱与珍贵。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_只是在天堂的又一天_–11.docx]([变装]_只是在
 | Size            | 43289 bytes                           |
 | MD5             | df8a1e66644155f6bb9f84aa720851be                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kasumi                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 自我探索, 重生, 灵魂挣扎, 情感恢复, 医院场景, 身份认同, 男性角色支持, 女性视角, 生死考验, 迷失与重生, 朋友间的情感联系, 性别转换, 存在主义, 意识流                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

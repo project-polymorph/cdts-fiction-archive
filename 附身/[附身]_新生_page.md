@@ -7,7 +7,7 @@ TXT 下载: [[附身]_新生.docx]([附身]_新生.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇描绘平行宇宙中的新生舞者王姝的小说，故事发生在中国上江市的上江大学。小说通过细腻的笔触描写了王姝在夜晚的舞蹈教室中进行舞蹈训练的过程，展现了她的优雅与内心的挣扎。在训练中，王姝似乎遭遇到了一种自我意识的混乱，内心的感受与身边的环境产生了奇妙的交织。同时，她与外卖员的短暂相遇也透露出她对，人际交往的困扰与对自我身份认同的探索。在小说的后半部分，王姝与她的母亲薛妍之间的对话进一步探索了亲子关系，以及代际间的期待与压力。整个故事流畅而富有层次感，伴随着青春与成长的主题，呈现出复杂的情感与身份认同的探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_新生.docx]([附身]_新生.docx)
 | Size            | 24873 bytes                           |
 | MD5             | 9e32e2641db4918ccfdfb30593d13350                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 青春成长, 舞蹈, 亲子关系, 自我探索, 平行宇宙, 内心挣扎, 情感戏, 大学生活, 复杂人际关系, 变身, TSF, 少女心, 夜生活, 情感戏剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

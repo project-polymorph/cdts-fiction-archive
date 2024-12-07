@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_业务员之母欲（4）_（终）.doc]([皮物]_业务�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档记录了一段围绕性转与恋母情结的禁忌故事。主人公在回忆中无法接受眼前的这个自称是“妈妈”的迷人女性，陷入了对其身份的质疑与冲突。故事探讨了欲望的复杂、禁忌的爱恋、以及内心深处的欲望是如何激起的。通过直接而大胆的描写，这个故事呈现了角色之间的心理斗争与生理互动，反映出恋母情结与欲望交织之后带来的扭曲关系。母亲与儿子的对话与互动，从情感依赖到肉体的交缠，带出一种深邃而又阴暗的情感层次，情节多次强调了肉欲与身份认同之间的冲突。‘我说过我们帝甾公司可以满足一切的欲望。’这句话反映了探索欲望的主题，同时也暗示了角色之间的交易关系与欲望的交换。最终，故事以不可逆转的悲剧结局收尾，主人公的身体与灵魂都在强烈的欲望中逐渐消逝。整个情节浓缩了关于性别、欲望和身份的深刻思考，给读者留下了许多值得反思的议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_业务员之母欲（4）_（终）.doc]([皮物]_业务�
 | Size            | 34304 bytes                           |
 | MD5             | bf7e86fdd80667bb2bd554a86f22d847                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 恋母情结, 性转, 禁忌之爱, 欲望, 心理斗争, 肉欲, 自我认知, 自我探索, 母子关系, 变身, TSF, 虚无主义, 女性视角, 吸引力, 情感依赖, 怀旧心理, 内心深处的渴望                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

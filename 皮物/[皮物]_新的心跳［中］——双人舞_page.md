@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新的心跳［中］——双人舞.docx]([皮物]_新的
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于舞蹈训练的小说，讲述了男主角在一次补考期间无意间闯入舞蹈教室，目睹了几位女性的训练场景，特别是他的朋友白歆婷与吴菲老师之间的亲密互动。故事开篇描绘了男主急匆匆赶往补考的情景，却因听见教室内的呻吟声而好奇停下脚步。随着他窥探教室内的情景，情节逐渐升级，白歆婷与身穿舞蹈服的吴菲老师之间的微妙关系被逐渐揭露。男主虽然试图掩饰自己的尴尬，却在未知的环境中感受到了一种强烈的性欲和对两位女性的羡慕。场景的描写细腻，展现了舞蹈训练的专业性以及在性别与自我认同交织下的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_新的心跳［中］——双人舞.docx]([皮物]_新的
 | Size            | 38254 bytes                           |
 | MD5             | 8789512af6b940bbcc51b4a3cdd6b99d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 舞蹈, 伪娘, 强奸, 调教, 师生恋, 变装, 女性视角, 百合, 性转, 自我探索, 情欲, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

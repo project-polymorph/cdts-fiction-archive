@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【重口慎入】安娜的世界前传_II_牵绊与自由
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说《安娜的世界前传 II：牵绊与自由》的主要内容，包含丰富的情节描写与角色性别转换的探讨。小说采用第一人称叙述视角，讲述了一个女性角色在异化环境下的生存与挣扎，涉及了大量重口味的元素，包括变性、SM、调教、污秽等情节。文章开头提到这是作者回顾多年的心血结晶，并列出了多种潜在的重口味内容，预示了小说的复杂性和争议性。角色在情感与身体上的极端体验是小说的主题，其中描绘了苦恼、分裂、双重身份和对权力的渴望等元素。在叙述中，角色经历被控制、剥削和自我释放等极端状态，表现了性别认同与自我意识的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【重口慎入】安娜的世界前传_II_牵绊与自由
 | Size            | 80384 bytes                           |
 | MD5             | 9824c5bb38fb9e9164420bf05a6a1a03                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 2014-11-08                                 |
+| Tags            | TS变身, 伪娘, SM, 重口味, 虐恋, 女性视角, 性别认同, 自我探索, 异化体验, 调教故事, 情感冲突, 角色扮演, 反人类, 反社会, 肉体改造, 兽交                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

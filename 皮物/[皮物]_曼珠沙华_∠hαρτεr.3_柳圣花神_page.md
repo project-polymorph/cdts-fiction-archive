@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_曼珠沙华_∠hαρτεr.3_柳圣花神.docx]([皮物]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《曼珠沙华 ∠hαρτεr.3 柳圣花神》是一部涉及伪娘与变形怪主题的跨性别小说，讲述了雷埃德的悲惨遭遇。他在与凯洛对战后，不幸陷入昏迷，并且醒来时发现自己的身体变成了低等魔怪，面临永久变形的厄运。他的内心充满痛苦与绝望，回忆起曾经的自己，感到与昔日的自己相隔遥远。在沼泽中，雷埃德无意间成为了两位骑士谈话中的话题，伴随着对他残酷的侮辱。虽然雷埃德一开始几近绝望，但戏剧的转折在于侯爵夫人的出现，她态度冷漠又带着对变形怪的嘲讽，但也在关键时刻救了雷埃德，让他重新获得生存的机会。此作品探讨了性别认同与身份认知的冲突，以及在绝境中的求生本能。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_曼珠沙华_∠hαρτεr.3_柳圣花神.docx]([皮物]_�
 | Size            | 23680 bytes                           |
 | MD5             | 137d5e810bb9310de610bf8254c17822                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变形怪, 跨性别, 性别认同, 自我探索, 魔法, 绝望, 救赎, 奇幻, 伦斐大陆, 低等魔怪, 女性角色, 骑士, 永恒变形, 身份危机, 内心挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

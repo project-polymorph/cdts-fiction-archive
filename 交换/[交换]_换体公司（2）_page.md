@@ -7,7 +7,7 @@ TXT 下载: [[交换]_换体公司（2）.docx]([交换]_换体公司（2）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一篇以青春校园为背景的跨性别小说，讲述了主角范刚在被同学赵勃起威胁后，牵涉到一连串复杂的爱情和性关系中。故事开头，范刚面临赵勃起的威胁，赵勃起利用录音作为勒索手段，逼迫范刚去追求校花洛晴。随着情节的发展，范刚和他的妻子杨芸之间的性爱场景被详细描绘，表现出强烈的性欲望和欲望的交流。在故事的高潮部分，赵勃起因犯下的罪行而被杀，这一事件引出了他与洛晴之间超乎寻常的联系，以及他获得触手怪变化能力的奇幻元素。整个小说涉及了多种性别认同和关系的复杂性，探索了角色在身体交换与性别认同之间的冲突与认同感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_换体公司（2）.docx]([交换]_换体公司（2）.doc
 | Size            | 24734 bytes                           |
 | MD5             | 603450185c2528399a56207f75fdfeae                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 都市调教, 成人小说, 灵魂转换, 校园爱情, 药物诱惑, 肉便器, 触手, 魔法, 性爱, 死亡, 复仇, 校园文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_圣诞礼物（子篇）.docx]([皮物]_圣诞礼物（子
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是关于名为迪恩的18岁少年与其母亲之间的复杂关系的小说，围绕圣诞节前夕的情节展开。迪恩在与朋友露西的约会中，逐渐揭露了他内心对于女性身体的渴望和幻想。故事中，迪恩从小就想要体会女性的快感，甚至偷偷盗用了母亲的内衣，并购买了女性用品来满足自己。故事不仅描绘了节日的欢愉氛围，也探讨了性别认同与生理性别间的冲突。随着情节的发展，迪恩意外地获得了一个充气娃娃，娃娃的面貌竟然似乎与其母亲类似。在通过使用娃娃而体验性别转变后，迪恩发现自己难以变回原来的样子。幸而，他的母亲对此表现得极其理解和支持，这增添了故事的复杂性与情感深度。本文涉及的主题包括性别认同与家庭关系，具有一定的限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_圣诞礼物（子篇）.docx]([皮物]_圣诞礼物（子
 | Size            | 24056 bytes                           |
 | MD5             | 612ba45c5ba7a30ae4785d50e324efd2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 恋母, 强奸, 女仆, 圣诞节, 母子关系, 幻想, 身体转换, 性别认同, 自我探索, 强烈快感, 女性视角, 意外转变, 搞笑, 现代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

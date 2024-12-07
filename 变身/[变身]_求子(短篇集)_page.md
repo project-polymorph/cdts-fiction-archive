@@ -7,7 +7,7 @@ TXT 下载: [[变身]_求子(短篇集).doc]([变身]_求子(短篇集).doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一篇名为《求子(短篇集)》的短篇小说，讲述了一位名叫阿憲的男性同性恋者在新加坡的生活。他与伴侣陈军共同面对社会的挑战，渴望拥有一个孩子。故事开始于阿憲因偶然看到一条网络广告，了解到一种名为“月神面具”的产品，声称可以帮助男性体验女性身份并生育孩子。这使得阿憲产生了变身为女性的想法。经过一系列的探索和自主决定，他最终选择购买了该产品。整篇小说包含了阿憲与陈军之间的深厚感情与爱的表达，也隐含了对性别认同与生育权的思考。在体验变身的过程中，阿憲感受到身体和心理的巨大变化，并意识到变身后的生活不仅是尝试新的身份，也充满了爱的可能性。该文本在描绘个人情感与身体变化的同时，也探讨了社会对跨性别者的接受度和法律限制。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_求子(短篇集).doc]([变身]_求子(短篇集).doc)
 | Size            | 51712 bytes                           |
 | MD5             | d1230920bf1f4c8762c2f7aa7cb9627f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 阿憲                               |
+| Region          | 新加坡                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 同性恋, 性别认同, 家庭, 母性, 情感, 二次元, 幻想, 爱情, 社会障碍, 性别角色, 欲望, 自我探索, 身心转变, 社会接纳                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

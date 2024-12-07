@@ -7,7 +7,7 @@ TXT 下载: [[交换]_急性换身欲望（校园篇）.doc]([交换]_急性换�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是《急性换身欲望（校园篇）》的故事，讲述了主角苏一鸣与同桌李梓璇之间的情感纠葛与身体交换的奇遇。在炎热的夏天，苏一鸣与朋友骑车上学，途中的恶作剧引发了与李梓璇的互动。随着故事发展，苏一鸣对李梓璇的看法逐渐转变，从之前的不屑与戏弄到对她的迷恋。在班主任的办公室中，因误会而被叫去的两人，最终因性欲与想象的交织而开始了一场身体的交换。文中描述了他们在交换身体前后所经历的心理与生理的变化，以及交换后产生的复杂情感和欲望，终极揭示出对身份与认同的深层次探索。该作品包含了一些成人向内容，涉及性与性别认同等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_急性换身欲望（校园篇）.doc]([交换]_急性换�
 | Size            | 65024 bytes                           |
 | MD5             | 4c21a2f2f227a2a17b5c22a5fa4a9b38                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 1W1W52                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 伪娘, 变身, 校园, 身体交换, 性别认同, 青少年, 青春校园, 混合爱情, 情感纠葛, 强烈欲望, 男生与女生的视角交替, 克苏鲁神话, 心灵解放, 恶作剧, 争执与和解                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

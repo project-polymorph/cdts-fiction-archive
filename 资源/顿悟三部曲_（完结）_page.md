@@ -7,7 +7,9 @@ TXT 下载: [顿悟三部曲_（完结）.doc](顿悟三部曲_（完结）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《顿悟三部曲》的第一部分，主要描绘了一位男性角色对其妻子真真的思念与爱情，以及他在观看欧洲杯期间无意中发现一个与妻子长相相似的女孩所引发的情感波动和心理冲突。故事通过主角的视角，深入探讨了婚姻中的隔阂与自我认知的困惑，讲述了主角在看到与妻子一模一样的女人后产生的疑虑与惊讶。
+
+小说开头描绘了主角观看足球比赛的轻松情境，渐渐转向对妻子真真的回忆及她的特殊工作时刻，这种时间上的错位让主角对彼此之间的联系产生了深刻的思考。随着剧情的发展，主角在电视上再次看到与妻子相似的女孩，内心充满了不可思议与担忧，而当他得知真真发生意外时，故事迎来高潮，情感冲突达到顶点，表现出对生死的思考与对爱的执着。在一系列意外的事件中，主角的内心世界被揭示，展现了他对妻子的深厚感情以及对未知的恐惧和不安。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [顿悟三部曲_（完结）.doc](顿悟三部曲_（完结）.doc)
 | Size            | 113664 bytes                           |
 | MD5             | 692a4f889524a411f5e3146b8c4c1d18                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 婚姻关系, 角色认同, 情感冲突, 怀疑与追寻, 足球, 自我探索, 生死之思, 恋爱与失去, 心理描写, 情感剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

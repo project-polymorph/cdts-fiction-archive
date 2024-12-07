@@ -7,7 +7,7 @@ TXT 下载: [[变性]_我们的女孩儿.docx]([变性]_我们的女孩儿.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘转变与跨性别主题的小说，标题为《我们的女孩儿》。故事围绕着主人公大卫被迫经历药物变性与身份转变的痛苦过程。在校长的安排下，大卫的身体和心理都被人为改造，最终他变成了凯莉的"娘娘腔继女"，并且必须在她的生活中接受羞辱与屈从。文中详细描述了大卫的身体变化，他的性别特征被削弱，同时加入了荷尔蒙疗法和实验性药物的影响，导致他逐渐失去了作为男性的身份，强烈的羞耻和愤怒涌上心头。最终，尽管大卫心中充满抵抗，但他逐渐接受了作为女性的身份，并在新的生存状态下经历情感的升华和幻想的混乱。文本中探讨了性别认同和自我认知的主题，展现了个人在外部环境中被重新定义的复杂感受。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_我们的女孩儿.docx]([变性]_我们的女孩儿.docx)
 | Size            | 15268 bytes                           |
 | MD5             | ff1918271130fbb42f6e0f87f6d3eae3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lily Florette & 露娜·埃葵斯                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 药物变性, 伪娘, NTR, 催眠, 性别认同, 自我探索, 情感混乱, 心理调节, 跨性别, 身份转变, 羞辱, 权力关系, 临床实验, 身体改造, 屈从                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

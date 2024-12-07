@@ -7,7 +7,7 @@ TXT 下载: [[附身]_武器种族传说_14.docx]([附身]_武器种族传说_14
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一篇伪娘与变身主题的小说，内容包含了角色之间的微妙关系以及对自我认知的探索。小说的主角在和名为伊苏拉的女性角色的互动中，表达了对她的占有欲和情感纠葛。文中描述了主角与伊苏拉之间逐渐升级的互动，从最初的含蓄试探，到后来的情感表露和身体接触，突显了一种权力与性别交错的复杂关系。以幽默和暧昧的对话形式，展示了角色们对互相之间关系的理解与调侃，充斥着性暗示和调情的内容，如“你只能有我一个男人但我拥有的不止你一个女人”等话语。主角在内心独白中反思自己的动机与欲望，同时设定了未来的阴谋和计划，涉及对三大家族的挑战和操控。文档还提到了超自然的能力和契约，深化了关于权力和期待之间的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_武器种族传说_14.docx]([附身]_武器种族传说_14
 | Size            | 31640 bytes                           |
 | MD5             | 924f092df161815416b7f36dabf0327a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性别认同, 占有欲, 权力关系, 自我探索, 奇幻, 情感纠葛, 三大家族, 契约, 魔法, 爱情, 调情, 强权, 情感, 性暗示, 角色关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

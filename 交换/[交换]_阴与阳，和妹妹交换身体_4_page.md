@@ -7,7 +7,9 @@ TXT 下载: [[交换]_阴与阳，和妹妹交换身体_4.doc]([交换]_阴与�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件记录了一段伪娘和跨性别主题的小说，讲述了一个名为克雷格的男主角与他的姐姐丽莎在一次意外中交换身体后，面对身份和性别认同的深刻挣扎与探索。故事中，克雷格在丽莎的指导下学习如何化妆和穿着女性服装，逐渐接受自己的女性化倾向，揭露了其对女性身份的渴望和性别认同问题。内容涉及克雷格的内心独白与与丽莎的对话，以及他在这一过程中对个人性别身份的反思，例如提到“我从来没有告诉过任何人，以前我照镜子，我会为自己的女性化而高兴。”此外，丽莎也向克雷格表达了自己对于性与身体的看法，探讨了性别与身份之间复杂的关系。整个故事情节交织着性别流动性、女性化、以及自我探索的主题，情感细腻而复杂，并含有一些暗示性和成人的内容。 
+
+在故事的后半部分，克雷格逐渐面对对自我的迷茫与恐惧，并开始意识到自己的真实感受与愿望，同时也展现出与姐姐间微妙而紧张的关系，尤其在面对欲望与家庭关系的交织时，故事的张力得以体现。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[交换]_阴与阳，和妹妹交换身体_4.doc]([交换]_阴与�
 | Size            | 52736 bytes                           |
 | MD5             | b0ce958290c4650bbc702084e0992fac                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Kris K                               |
+| Region          | 未知                               |
+| Date            | 2011-03-25                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 身体交换, 幻想, 情感探索, 自我认知, 性别流动性, 姐妹关系, 成人内容, 化妆, 裙子, 高跟鞋, 深层心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

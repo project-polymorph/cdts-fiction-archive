@@ -7,7 +7,7 @@ TXT 下载: [[交换]_父与子（二）.docx]([交换]_父与子（二）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说讲述了一位父亲经历了性别转变，并在这个过程中面对自我认同和身体变化的心路历程。故事的开头，主人公描绘了自己醒来的瞬间，意识到自己的身体发生了巨大的变化，生理性别已从男性转变为女性。在处置生理需求的过程中，她感受到女性排泄时的尴尬与不适，并思考着身体的变化对她生活的影响。随着故事的发展，主人公的儿子陈飞在一次意外中发生了车祸，情况危急。这一突发事件让她陷入对家庭和生命的思考，同时也揭示了一些复杂的人际关系与角色替换的情节。小说情节深入探讨了性别认同，以及与之相关的情感和伦理问题，情节包含了对身体和心理的双重冲击，对每个角色的命运产生了深远的影响。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_父与子（二）.docx]([交换]_父与子（二）.docx)
 | Size            | 38948 bytes                           |
 | MD5             | 51795cedb3a40d838b2656c1e0aaaa76                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 变身, 生理需求, 家庭关系, 伦理问题, 心理冲突, 自我认知, 事故, 爱情, 父子关系, 女性视角, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

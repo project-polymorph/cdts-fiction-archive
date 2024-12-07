@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_色慾探索频道_(序).docx]([皮物]_色慾探索频道
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是名为《色慾探索频道》的小说序章，涉及性别转换、伪娘等主题。文本通过第一人称的叙述方式，讲述了一个19岁少女在成人视频网站上传一段关于她的自慰视频的情境。故事的开头描绘了作者在房间内的自我探索，随后引导读者进入一段观看视频的意象，伴随着视频内容的呈现，少女逐渐展现了她的身体以及性行为。文本中包含羞涩与挑逗并存的对话，引人深入探索少女的身份与趣味。整段情节充满了色情暗示，其中涉及对身体的描写、转变和奇幻元素。作品通过对外星设定的引入，在性幻想中增加了层次感。整体文风调侃而又大胆地挑战社会禁忌，在描绘色情内容的同时，探索了对性与身份认同的细腻看法。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_色慾探索频道_(序).docx]([皮物]_色慾探索频道
 | Size            | 24271 bytes                           |
 | MD5             | faf6b77699b0e25322d5b93dc471ea80                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 色慾, 性转, 伪娘, 幻想小说, 性相关, 情感探索, 成年, 自我认同, 成人电影, 网络文化, 奇幻, 身体变化, 性别认同, 外星人设定, 性行为, 心理 משחק】,                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

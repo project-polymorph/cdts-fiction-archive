@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_魅者天下（三）【好难点开啊！还是一章一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为百莲湖的成人礼的小说片段，描绘了夏家家族年轻一代的活动与互动。在这个场景中，可见不同身份地位的女子在湖畔聚集，正准备进行重要的成人礼选拔。故事中涉及到多位小姐的竞争，她们的外表和气质被一一比较，尤其是玲儿小姐、薇婷小姐和彩娘小姐，被认为是夺冠的热门。小说呈现了她们之间微妙的竞争关系和社交互动，以及对女性魅力的探讨。其中提到的对话展现了角色对彼此魅力的看法，讨论了如何通过了解女性身体来增强自身魅力的观念。文本从轻松愉快的互动逐渐转向成年礼的重要性，带有一定的戏剧性和悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_魅者天下（三）【好难点开啊！还是一章一�
 | Size            | 22508 bytes                           |
 | MD5             | f767bbd2532c0df55c14c431dffe745f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身小说, 跨性别, 女性魅力, 百莲湖, 成人礼, 家庭斗争, 青春成长, 角色竞争, 社会互动, 性别认同, 古代架空, 文化习俗, 少女, 魔法, 古装, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

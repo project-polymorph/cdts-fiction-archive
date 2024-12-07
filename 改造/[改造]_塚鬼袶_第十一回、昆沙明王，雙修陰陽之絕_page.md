@@ -7,7 +7,7 @@ TXT 下载: [[改造]_塚鬼袶_第十一回、昆沙明王，雙修陰陽之絕
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为伪娘 TS 变身与跨性别相关小说的第十一回，标题为《昆沙明王，雙修陰陽之絕》。故事主要围绕着女主角凌湘的困境展开，她被迫成为绝音堂的卑微弟子，并在多重耻辱与性别身份冲突中挣扎。作品描绘了凌湘在经历凌辱后，被施于奇异法术使得她的身体与情感发生巨变。文中不仅展示了她外貌的变化，也深入探讨了她内心的矛盾与挣扎。故事中涉及多个敏感情节，包括强制与羞辱，使凌湘在生理与心理上都面临巨大的挑战。在情节发展中，魅九娘引入了昆沙明王这一角色，他的出现将凌湘的境遇推向更为绝望与羞耻的深渊。伴随着复杂的人物关系和情感纠葛，作品探讨了性别认同、被操控的欲望与阴暗的内心世界，以此反映对角色自身命运的抗争与无奈。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_塚鬼袶_第十一回、昆沙明王，雙修陰陽之絕
 | Size            | 33510 bytes                           |
 | MD5             | 719883bf29da2f01f676f53efd316733                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 强制, 羞辱, 情感纠葛, 性别认同, 阴暗心理, 魔法, 奇幻, 性爱, 情欲, 男女性别关系, 自我探索, 禁忌恋, 双修                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

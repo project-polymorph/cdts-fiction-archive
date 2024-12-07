@@ -7,7 +7,9 @@ TXT 下载: [[皮物]_顾秋妍的假期一.docx]([皮物]_顾秋妍的假期一
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是《顾秋妍的假期一》，围绕主角顾秋妍的易容任务展开。故事回溯至五一当天，顾秋妍在其公寓内思考即将进行的易容工作。她准备伪装成其老师刘慧，尽管这不是一项正式任务，但她凭借处女座的完美主义精神，依然全力以赴。顾秋妍充分利用假乳和人皮衣等道具，经过多个细致的步骤，最终成功化身为成熟的女人形象。她的一系列易容准备细节，如粘假乳、穿人皮衣、使用面具等，彰显了她对完美的执着。
+
+随着故事的发展，顾秋妍最终遇见了刘慧的儿子李力，却意外发现他正处于自我认同的困惑中。李力对女性服饰的喜欢与其成长背景，展现了他内心的矛盾与脆弱。故事中不仅突显了性别认同与自我探索的主题，还通过李力的角色反映出现代社会中关于性别的复杂性。这部作品探讨了性别转换、角色扮演及个体认同等多个深刻的话题，为读者提供了丰富的思考与讨论空间。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[皮物]_顾秋妍的假期一.docx]([皮物]_顾秋妍的假期一
 | Size            | 24936 bytes                           |
 | MD5             | 9bb54127a47c847554eaaea48a464cf4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 易容, 角色扮演, 伪娘, 跨性别, 自我探索, 情感纠葛, 家庭关系, 精神成长, 女性视角, 社会认同, 性转, 高中校园, 文学创作, 心理斗争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

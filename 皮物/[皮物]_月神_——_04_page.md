@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_月神_——_04.docx]([皮物]_月神_——_04.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇涉及性别转变、角色扮演及情感互动的小说摘录，主要围绕角色泷泽与其女友菲娅的对话与互动展开。故事设定在一个温馨的日常场景中，泷泽刚刚洗澡，女友菲娅则兴奋地向其展示从好友婷萱那里借来的怪兽装，字里行间表现出两人之间轻松愉快的关系与角色扮演的趣味。随着故事的发展，泷泽与菲娅相互尝试穿上怪兽装，展现了对彼此身体的调侃与吸引，同时也隐含了对性别与身份认同的探索。文本中包含大量感官细节描写，通过互动与情感交流，展现了角色之间的亲密关系和轻松的氛围，内容涉及性和角色扮演，可能包含某些限制级的描写，但整体以幽默和温暖的基调为主。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_月神_——_04.docx]([皮物]_月神_——_04.docx)
 | Size            | 22369 bytes                           |
 | MD5             | 3fa2a2fb06a87a529596cfa365139394                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | silverpine, ambiva$                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 角色扮演, 伪娘, 强烈的感官体验, 恋爱互动, 幻想, 日常生活, 戏谑, 性转, 情感交流, 跨性别, 幽默                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

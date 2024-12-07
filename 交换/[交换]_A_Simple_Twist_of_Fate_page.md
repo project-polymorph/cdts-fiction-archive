@@ -21,7 +21,7 @@ TXT 下载: [[交换]_A_Simple_Twist_of_Fate.docx]([交换]_A_Simple_Twist_of_Fa
 | Size            | 40070 bytes                           |
 | MD5             | 716940eaa83da8a4df897ee92f3cb622                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | Caterpillar Girl                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

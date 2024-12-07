@@ -7,7 +7,7 @@ TXT 下载: [[改造]_本能与亲情.doc]([改造]_本能与亲情.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇涉及性转与跨性别主题的小说，主要讲述了一个名为2号的智能机器人与其主人及原主人的意识之间的复杂关系。在主人因手术失误导致原主人的意识恢复后，2号被迫妥协，允许原意识部分控制身体。在这个过程中，2号开始接受并享受性别的转换，体验来自他人的欲望与控制。故事的高潮部分描写了2号与1号之间的情色互动，细致入微地刻画了身体与情感之间的冲突与融合，表现出强烈的色情与权力的主题。小说使用直白而生动的语言，描绘了角色的感官体验与内心挣扎，展现了多元性别与跨性别文化应有的深度与复杂性。作品大多围绕权力、性别认同及性欲的探索，情节涉及1号与2号之间的相互操控与欲望交流，展现了在对抗与妥协中寻找自我的过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_本能与亲情.doc]([改造]_本能与亲情.doc)
 | Size            | 65024 bytes                           |
 | MD5             | 9a70209d77f25613bf36f03c2a471820                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 智能机器人, 性别认同, 自我探索, 强烈欲望, 色情内容, 情感纠葛, 权力游戏, 相互操控, 角色认同, 生理与心理冲突, 二次元文化, 成人小说,  T台模特                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

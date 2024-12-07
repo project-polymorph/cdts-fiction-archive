@@ -7,7 +7,7 @@ TXT 下载: [[改造]_诸妖之野_第一章_无妄之灾_(2).docx]([改造]_诸
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《诸妖之野》的第一章，讲述了主角赵钰在一场梦幻般的情境中与父亲的关系。故事的开头，赵钰被绑在床头，正遭受父亲的侵犯，场面充满了复杂的情感和冲突，表现出赵钰对自己身份的困惑与痛苦。在纵深的情节中，赵钰通过女装和对母亲的想象，试图寻找自我认同。文件中描述了赵钰精心打扮后的神态，以及他在这一过程中所经历的内心挣扎与屈辱，展现了性别认同与自我探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_诸妖之野_第一章_无妄之灾_(2).docx]([改造]_诸
 | Size            | 24750 bytes                           |
 | MD5             | 0f54e8b5fb0527959432fd3b4014c2a1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 山雨                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 强奸, 变装, 父子关系, 情感冲突, 女性视角, 跨性别, 凌辱, 家庭秘密, 虚无主义, 痛苦, 成长, 梦境, 恶梦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

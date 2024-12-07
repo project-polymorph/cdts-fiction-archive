@@ -7,7 +7,9 @@ TXT 下载: [[改造]_艳尸（1-3）.docx]([改造]_艳尸（1-3）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《艳尸（1-3）》是一部涉及性转和跨性别主题的小说。情节围绕一场神秘的病毒疫情展开，该病毒会将感染者转变为名为“艳尸”的性感女性。故事的主角Greg和他的朋友们被困在图书馆的地下室，面临外面逐渐聚集的‘艳尸’威胁，他们讨论着如何生存并找到逃生的途径。小说中通过角色的对话展现了他们对现状的恐惧与困惑，尤其是Allissa对这种现象的厌恶，她目睹了身边的女性朋友们被感染后，变得只追求肉欲的状态。
+
+在故事中，感染后的‘艳尸’不仅保持原有的外貌，更与传统的僵尸形象截然不同。她们的欲望主导了行动，使得故事充满了荒诞与紧张的氛围。Greg提出要主动出击以寻求生机，大家为了生存而集思广益，情节随着外面的枪声而引发紧张推进，并给角色们带来了不小的压力。整体上，这部作品结合了性幻想、变身文化与生存游戏的元素，挑战了传统的性别认同与人际关系的界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_艳尸（1-3）.docx]([改造]_艳尸（1-3）.docx)
 | Size            | 47191 bytes                           |
 | MD5             | 105edc4132c9ea66ffd1b35b5e91e6d9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 伪娘, 性转, 生存游戏, 情色, 变身, 僵尸, 校园恐怖, 未知病毒, 自我认知, 爱情, 丧尸题材, 色情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

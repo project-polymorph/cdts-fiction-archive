@@ -7,7 +7,7 @@ TXT 下载: [[附身]_奇怪的糖_第一章.docx]([附身]_奇怪的糖_第一�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《奇糖》第一章主要讲述了两个大学生在化学实验室的互动以及意外事件的发生。故事的主角刘峰是一个18岁的中国留学生，学习物理的他与化学系的博士生老郑发生了邂逅。刘峰好奇着老郑的实验室，虽然老郑对物理稍有轻视，却依旧愿意给刘峰展示化学生涯的成就。在一次无意间的尝试中，刘峰在老郑的实验室尝试了一种“糖”，却未曾想到这是一种危险的化学物质——硝酸铍，导致他陷入昏迷。医护人员赶到时，刘峰则意识到自己可能并未死亡，而是在灵魂出窍，经历了一场附身的奇异旅程。然而，混乱之中，他竟然附身到了一个陌生女孩的身体里，带着对新身份的惊讶与探索。在厕所镜子前，他发现自己身处一个女孩的身体，不禁开始了对这副身体的探索，表现出强烈的好奇与享受。有不少情节涉及性别转换和自我认同，营造了一种科幻与奇幻交织的氛围。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_奇怪的糖_第一章.docx]([附身]_奇怪的糖_第一�
 | Size            | 20508 bytes                           |
 | MD5             | 08ee9c4082e4c0f6e7af26ab3d9349c8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 转生, 实验室意外, 性别转换, 自我探索, 奇幻, 灵魂出窍, 大学生活, 化学, 人体实验, 纯爱, 女体化, 性觉醒, 医护救援, 情感纠葛, 二次元, 科技幻想, 学科争论                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

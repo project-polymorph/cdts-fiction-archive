@@ -7,7 +7,7 @@ TXT 下载: [[其他]_疯言疯语（3）.docx]([其他]_疯言疯语（3）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文章围绕两个角色小J和叙述者的日常生活展开，描绘了她们共同搬入新居后的轻松互动与逐渐亲密的关系。故事开篇提到小J租了一间房间，并对新家表现出喜爱，营造出温馨的居住氛围。随着情节的推进，叙述者与小J之间的互动逐渐变得暧昧，包含了购置特殊面具和化妆的细节，两人对待穿着和性别角色的玩味与探讨，加深了彼此的情感交流。故事中包含了性别认同、自我认知以及冲突的探讨，同时也涉及了性相关的情节，展现了两人关系中的亲密和信任。整篇文本在细腻的日常描写中，暗含着性别和情感的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_疯言疯语（3）.docx]([其他]_疯言疯语（3）.doc
 | Size            | 19813 bytes                           |
 | MD5             | 919a29bd6861549c5719002a0840db42                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 亲密关系, 角色扮演, 浪漫, 自我探索, 校园生活, 女主角, 性别认同, 情感纠葛, 生活琐事, 冒险, 二次元文化, 同居                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

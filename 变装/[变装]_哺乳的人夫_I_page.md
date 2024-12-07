@@ -7,7 +7,7 @@ TXT 下载: [[变装]_哺乳的人夫_I.doc]([变装]_哺乳的人夫_I.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档《哺乳的人夫》讲述了一个因为疫情而生活急转直下的年轻男人的故事。他曾是一个富裕家庭的儿子，然而因为父亲的企业破产，他的生活状态急剧变化，沦为寄人篱下的软饭男。故事中的主角王强与妻子小莉相识于留学时期并结婚，生活原本幸福美满。然而，在经历了父亲破产、家庭矛盾后，王强逐渐失去了在岳父家中的尊严和地位，甚至面临离婚的威胁。文中描绘了他对妻子的爱与渴望，在极端压力和屈辱中，内心的欲望与无奈交织。突如其来的请求让他面临一个离奇的选择——参加能让男性哺乳的实验，以此来照顾即将出生的小孩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_哺乳的人夫_I.doc]([变装]_哺乳的人夫_I.doc)
 | Size            | 55808 bytes                           |
 | MD5             | 25caf5dc672a8b4479f39b4628ab774b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 变性, 强制哺乳, 性别认同, 家庭矛盾, 怀孕, 情感冲突, 男性乳汁, 疫情影响, 社会地位, 自我认知, 婚姻, 男性情绪, 压力, NTR, 强奸, 乱伦, 调教, 逆后宫, 药物, SM                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_无限变化三，复仇.docx]([变身]_无限变化三，
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《无限变化三，复仇》是一篇以变身与跨性别主题为中心的小说，讲述了一个角色在性别转变后的心理冲突与复杂情感。在故事中，主角经历了从男性到女性身份的变化，然後利用这一身份展开一场复仇的计划。文中包含了诸多限制级的情节，包括性别认同、自我探索、亲情关系的扭曲以及对人物心理变化的深刻探讨。主要情节围绕着主角与其母亲之间的禁忌关系展开，揭示了在变身后身份与欲望交织的复杂局面。尽管描绘了不寻常的情节，作者提到其并非意图科学探讨，而是为了创作出能够吸引读者的作品。小说以生动的细节与奇特的情节发展，尝试反映角色在不同身份下的内心斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_无限变化三，复仇.docx]([变身]_无限变化三，
 | Size            | 17589 bytes                           |
 | MD5             | 6ed417de394f6987a805d764d92533bf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, 复仇, 自我探索, 禁忌关系, 人物心理, 性别转换, 改变身份, 复杂情感, 魔法, 男性转女性, 女性视角, 角色扭曲, 情感纠葛, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

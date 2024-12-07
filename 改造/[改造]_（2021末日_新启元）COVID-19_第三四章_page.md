@@ -7,7 +7,7 @@ TXT 下载: [[改造]_（2021末日_新启元）COVID-19_第三四章.doc]([改�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部以 COVID-19 疫情为背景的跨性别小说，主要围绕一名医务工作者在武汉疫情期间的经历与内心斗争展开。故事开始于 2020年1月23日，描述了主角抵达武汉后目睹的凶险场景及其心理状态。初期的叙述集中在疫情的严重性以及医务人员面临的巨大压力上，随着情节的发展，个人关系和性欲望逐渐成为主线之一，展现了在极端环境下的人性、欲望与选择。与此同时，小说中还包含了诸多性暗示、性行为及药物使用的情节，描绘了角色之间复杂的情感与生理互动，尤其是在职场与生活的双重压力下，展现了人们的生存欲望和恐惧。文中涉及多种情节元素，如危险的工作环境、性别角色的挑战，甚至触及灵魂与肉体的关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_（2021末日_新启元）COVID-19_第三四章.doc]([改�
 | Size            | 39424 bytes                           |
 | MD5             | 06feb0aec4d4d5429319668854c4bfa7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 2021-01-23                                 |
+| Tags            | 跨性别, 疫情小说, 性转, 伪娘, 医疗工作者, 性别认同, 自我探索, 男主角, 欲望, 灵魂与肉体, 奇幻, 爱情, 调查与探索, 医务人员的心理, 年度纪实, 多元性别, 科幻元素, 网络文化, 二次元, 社会现实, 个人挣扎                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

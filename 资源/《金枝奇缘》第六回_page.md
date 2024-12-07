@@ -7,7 +7,7 @@ TXT 下载: [《金枝奇缘》第六回.doc](《金枝奇缘》第六回.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《金枝奇缘》第六回深入探讨了涉及角色顾茹的复杂情感与身体变化。故事围绕顾茹的意识在夺舍过程中的挣扎，揭示了她与父母、兄长的情感纠葛，以及年轻女子顾萍如何关心她的安全。在经历了一次险恶的事件后，顾茹面临自我认知的冲突，她的身体被胡济生夺舍，充满了微妙的性别与身份主题。在这章节中，顾茹渐渐意识到自身变化的刺激与身体的感知，在与她的经历之间产生深刻的对比，比如她穿上漂亮的衣裙后，面对镜子的自我欣赏，再到对自己身体的探索与感受，体现了青春期女性对自我认同的模糊与困惑。此回还涉及到对恶魔的潜在威胁，塑造了一个充满冒险与探索的背景。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [《金枝奇缘》第六回.doc](《金枝奇缘》第六回.doc)
 | Size            | 46080 bytes                           |
 | MD5             | 30e7bf36f492b73c84ee3a01efb63fe7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 夺舍, 自我探索, 姐妹情, 恶魔, 成长, 身份认同, 心理冲突, 青春期, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

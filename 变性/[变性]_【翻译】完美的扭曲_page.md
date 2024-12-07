@@ -7,7 +7,7 @@ TXT 下载: [[变性]_【翻译】完美的扭曲.doc]([变性]_【翻译】完�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《完美的扭曲》是一部关于性别转换和身份认同的小说，主要讲述了温女士向神秘的艾克斯先生寻求报复服务的故事。在故事中，温女士因男友尼克的背叛而心痛不已，最终决定通过改变他性别和身份的方式实现自己的复仇。她希望能够将尼克变成一个完全依赖于她的角色，并且在过程的描述中包含了丰富的情感变化和自我探索。作品中探讨了科技与超自然相结合的主题，艾克斯先生使用高科技手段来实现转变。在一系列的变化中，尼克渐渐适应了新身份，面临着对自己新生活的抗拒与接受并存的心理冲突。此作品包含了一些限制级内容，如强烈的性暗示与场景。整个故事通过细致的描写揭示了性别认同、自我认知和权力游戏等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_【翻译】完美的扭曲.doc]([变性]_【翻译】完�
 | Size            | 70656 bytes                           |
 | MD5             | 2e035f96fbb4adcc7b658a4d520b39cd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | phem                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 伪娘, 变身, 复仇, 科技与超自然, 自我认同, 情感纠葛, 性暗示, 心理冲突, 幻想, 爱情, 二次元, 角色扮演, 强烈情节, 魔法                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

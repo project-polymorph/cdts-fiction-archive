@@ -7,7 +7,7 @@ TXT 下载: [[变装]鹰枭堕之玲珑艳后14.doc]([变装]鹰枭堕之玲珑�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《鹰枭堕之玲珑艳后14》，是一本围绕变装、跨性别和性转主题的小说，描述了一名角色因性别转换而经历的痛苦与挣扎。故事中，主要角色凌龙被描述为在未知的情况下，被一个名为昂基的壮硕男子侵犯。在这一情节中，凌龙无法反抗其父亲朱丽叶在昂基的威逼下，被迫接受并屈从于性侵犯的命运。文中详细描述了凌龙的身体反应和内心冲突，包括对自身性别认同的迷茫、羞耻感和来自父亲的期待与压迫。随着情节的发展，存在着对性别角色和亲情关系的扭曲与探讨，情节涉及强奸、NTR（寝取）、父子关系的极端化等情绪复杂且具有争议的主题。整体来看，这是一部带有明显成人向内容的小说，适合成年读者，特别是对跨性别和变装文化的深入研究者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]鹰枭堕之玲珑艳后14.doc]([变装]鹰枭堕之玲珑�
 | Size            | 36352 bytes                           |
 | MD5             | c2acde96bd9ffb8cfd3ab2d964027ff9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性转, 跨性别, 强奸, NTR, 乱伦, 男性角色, 情感纠葛, 自我认同, 虐待幻想, 禁忌关系, 成人文学, 性别认同, 心理冲突, 深层体察, 戏剧性情节, 伪娘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

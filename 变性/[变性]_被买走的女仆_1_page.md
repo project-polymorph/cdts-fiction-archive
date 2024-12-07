@@ -7,7 +7,7 @@ TXT 下载: [[变性]_被买走的女仆_1.doc]([变性]_被买走的女仆_1.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《被买走的女仆》，作者为Lisa Lovelace，主要讲述了一名伪娘女仆在夜间准备工作的过程中，回顾了她的身形变化和在女主N女士的调教下的生活。故事深入描绘了角色的内心世界和对自身性别认同的探索。文中描述了女仆的制服、内衣的细节，以及N女士的惩罚规则，突出了角色在性别角色和自我认同中的复杂冲突与挣扎。文本中使用了大量生动的描写，比如“裙子的布料紧贴着我的胸部”，“我不再为自己的外表、行动和举止像个漂亮女孩而烦恼”等，展现了女仆在社会角色与自我认同之间的互动。整体上，这是一个围绕性别认同、自我探索及角色扮演的小说，涉及成人向内容与羞辱情节。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_被买走的女仆_1.doc]([变性]_被买走的女仆_1.do
 | Size            | 46592 bytes                           |
 | MD5             | 93801073bde0085d18ab8c98f462e0c3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Lisa Lovelace                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 女仆文化, 性别认同, 调教, 成人小说, 变身, 女仆制服, 情感探索, 阶级差异, 角色扮演, 羞辱, 性转, 自我认知, 夜间工作, 社会角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

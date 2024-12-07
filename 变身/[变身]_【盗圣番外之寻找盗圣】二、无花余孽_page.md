@@ -7,7 +7,7 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】二、无花余孽.doc]([
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《盗圣番外之寻找盗圣》的章节大纲及部分章节内容，主要围绕角色楚飞与游龙天及花子虚之间的情感纠葛和复杂关系展开。故事开篇描述楚飞化身为女子飞飞，并在与游龙天的互动中展露出身份的隐秘，同时探讨了角色性别身份的转换和自我认同。文本中揭示了楚飞和游龙天之间的亲密关系，楚飞内心的挣扎与思考。随后，花子虚的出现引入了对地下拍卖场的探索，暗示了未来情节的发展。本片段包括了一定的情欲描写，以及对性别与情感的深度探讨，具有一定的幻想与戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_【盗圣番外之寻找盗圣】二、无花余孽.doc]([
 | Size            | 41472 bytes                           |
 | MD5             | 72998fed867e09544850082ca33a1c69                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 情感纠葛, 幻想小说, 古代侠义, 伪娘, 跨性别, 爱情, 江湖故事, 地下拍卖, 男女性别转换, 强奸                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

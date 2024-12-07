@@ -7,7 +7,7 @@ TXT 下载: [[附身]_诅咒之物【三】后传—连接.doc]([附身]_诅咒�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件名为《[附身]_诅咒之物【三】后传—连接.doc》，属于一个跨性别幻想类作品，文字描绘的是一位名叫俊雄的普通上班族的日常生活与突发事件。故事围绕俊雄的平凡生活展开，细致描绘了他的机械般日常，包括与家人共度时光的片段。然而，故事在俊雄下班途中因捡到一本神秘的书籍而发生了转折。书中的内容吸引着俊雄，最终导致一场严重的车祸。他在昏迷状态中经历了意识的异常变化，感知到了周围事物并与他人产生奇妙的共鸣，最终在医院中感受到了众人的影像与记忆交织的奇特体验。这部作品通过俊雄的视角探讨了人类的存在、意识与人与人之间的联系，具有深刻的哲学思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_诅咒之物【三】后传—连接.doc]([附身]_诅咒�
 | Size            | 48128 bytes                           |
 | MD5             | ec68e3e5f8fd0f8939135caff140233b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 意识, 奇幻, 心理探索, 触手, 病态, 都市, 自我认知, 医疗, 共鸣, 性别认同, 奇异事件, 神秘书籍, 日常生活, 家庭关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

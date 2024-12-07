@@ -7,7 +7,7 @@ TXT 下载: [[变装]_青青的幸福生活（起源篇2）.doc]([变装]_青青
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+文件《青青的幸福生活（起源篇2）》描绘了主人公陆青在经历了一年的性别与身份转变后的内心挣扎与自我认同的故事。在这篇小说中，陆青原本是一个社会精英人士，但在被丽莎调教与羞辱后，他的身份逐渐崩溃，最终沦为一个被迫接受雌堕和性奴身份的角色。小说通过陆青的回忆与现实交织，深入探讨了他对过去生活的追忆与对新身份的抵触，特别是对小雅的情感纠葛和对丽莎的恐惧。文本中不乏对性别认同、自我价值、羞辱与调教等主题的细腻描绘，同时也涉及到一些极端与色情的情节，展现了主人公的心理变化与冲突。陆青在小说中对逃离这种生活的渴望以及对小雅的感情纠葛构成了故事的主线，最终他还是选择了拒绝这种生活，但未必能彻底逃脱。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_青青的幸福生活（起源篇2）.doc]([变装]_青青
 | Size            | 34816 bytes                           |
 | MD5             | 2222904902577b4ca24528efd58ed4b3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 性转, 跨性别, 性奴, 心理挣扎, 伪娘, 自我认同, 调教, 情感纠葛, 雌堕, 强奸, 乱伦, NTR, 调教, 逆后宫, 变嫁, 药娘, 女仆, 姐姐, 魔法, 异世界, 青春, 爱情, 女体化, 变身, 都市, 科幻, 奇幻, 病态, 女性视角, 绿帽, 悲剧                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

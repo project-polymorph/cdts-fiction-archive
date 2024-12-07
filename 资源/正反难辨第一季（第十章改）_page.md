@@ -7,7 +7,7 @@ TXT 下载: [正反难辨第一季（第十章改）.doc](正反难辨第一季�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《正反难辨第一季》第十章的修改版，内容围绕角色之间复杂的情感纠葛展开。主要角色白内江在女友宁静雪的关心下，逐渐从个人的烦恼中走出，然而随着情节发展，宁静雪的真实身份与意图渐渐浮出水面。宁静雪表面上关怀有加，但实际上却隐藏着不为人知的阴暗面。在一次晚餐中，静雪通过性暗示与诱惑对白内江进行情感操控，情节中包含两人之间越来越亲密的互动，随着情感的升温，宁静雪最终露出了她真实的面目，对白内江采取了致命的攻击。故事通过细腻的描写探讨了角色的性别认同与角色扮演，让人思考人与人之间的情感真伪和操控的界限。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [正反难辨第一季（第十章改）.doc](正反难辨第一季�
 | Size            | 51200 bytes                           |
 | MD5             | 9a0cebc45d917e6cc6b57239b8211b43                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 情感操控, 心理战, 爱情, 危机, 黑暗, 幻想, 都市                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

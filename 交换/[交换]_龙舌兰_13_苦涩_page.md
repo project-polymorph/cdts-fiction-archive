@@ -7,7 +7,7 @@ TXT 下载: [[交换]_龙舌兰_13_苦涩.docx]([交换]_龙舌兰_13_苦涩.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档包含了性转小说《龙舌兰》中的第十三章，标题为《苦涩》。故事围绕主要角色杨立、思琪、蕊可以及赵福源的命运展开，探讨了他们在身体与性别转换后所经历的互换与冲突。角色们因一种名为‘龙舌兰液’的物质而被迫互换身体，情节涉及角色所面临的挑战，包括强制变身与身份认同的探索。在这章节中，特别描绘了中年男人与年轻女性之间的性爱场面，暗示出与年龄及权力动态相关的主题。文中详细描述了角色的身体状况与情感交叉，令读者深入理解角色的复杂关系与内心斗争。同时，作品也包含了成人内容，描写了性行为的细节，展示了人性的欲望与冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_龙舌兰_13_苦涩.docx]([交换]_龙舌兰_13_苦涩.doc
 | Size            | 26606 bytes                           |
 | MD5             | f1d2d750d0d046be1a0fa45e37f8d9f4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 成人内容, 爱情, 性别认同, 权力动态, 角色互换, 新年                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

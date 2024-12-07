@@ -7,7 +7,11 @@ TXT 下载: [[皮物]_老婆大人不在的星期天番外2（其二）.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇描绘角色在火车上经历的性别转变与自我认知冲突的小说片段。故事的主体围绕自身经历的角色，在性别转换后的女性身体与她的直男思维之间的心理斗争展开。作者通过细腻的描写展现了角色对新女性身份的复杂感受和对身体的重新认识。
+
+故事开始于火车结束了一场大战，角色与表哥想要回到车厢休息。经历皮肤脱离的过程，角色感受到一种强烈的身份错位，体会到身为女性的种种感受与性的冲动。在情节中，通过对身体的观察，角色如同旁观者一样，逐渐接受自己女性身份的认同，同时却有着男性的思维方式与情感表达，表现出一种身份上的矛盾和冲突。
+
+故事中还涉及了一位乘务员以及一些关于性暗示及后续情感发展的情节，诸如与陌生女孩的互动和以“小姐姐”形象呼唤对方等。这些都让角色的情感及自我探索展现出不同的层面，引导读者对性别与性的不同理解和社会文化下的复杂关系的反思。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[皮物]_老婆大人不在的星期天番外2（其二）.doc]([�
 | Size            | 60928 bytes                           |
 | MD5             | ac4cc1f78d94b6c63fde52cc9f05f90c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 变身小说, 奇幻, 跨性别, 情感冲突, 直男思维, 女性身份, 火车旅行, 心理斗争, 性暗示, 互动, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

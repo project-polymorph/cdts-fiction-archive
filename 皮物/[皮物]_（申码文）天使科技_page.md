@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（申码文）天使科技.doc]([皮物]_（申码文）�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档为一部关于未来科技和人造器官的科幻小说片段，主要讲述了主人公何涞的故事。何涞是一位在天使科技工作的人，负责人造心脏的研究与应用。在一次视频会议中，他接收到关于自己人造心脏的使用期限提示，随后回忆起自己在二十岁时因心脏病而选择将人造心脏植入体内以获得生存的机会。随着药物和科技的发展，人造器官的保质期不断延长，何涞打算更换为新型心脏，而一位名叫伊莹的少女不幸因为伤势需要更换人造心脏，故事围绕两人的交互展开，探讨了科技对人类生命的影响、社会阶层与经济压力的关系，以及对生死的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（申码文）天使科技.doc]([皮物]_（申码文）�
 | Size            | 57856 bytes                           |
 | MD5             | a4ca38081ef4ce00ad10637c63de54cd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 人造器官, 科技, 心脏移植, 自我认知, 未来科技, 生存挑战, 经济压力, 社会阶层, 角色互换, 女性角色, 情感纠葛, 科幻, 医疗伦理, 身体改造, 青少年成长                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

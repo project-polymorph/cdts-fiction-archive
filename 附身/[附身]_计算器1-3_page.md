@@ -7,7 +7,7 @@ TXT 下载: [[附身]_计算器1-3.docx]([附身]_计算器1-3.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于附身和性别转换主题的小说，主要围绕男主角陈洛凡的高中生活展开。在故事中，陈洛凡因为一次意外的购物经历，购买了一个神秘的计算器，随后发生了奇妙的变故。故事开篇描绘了他在紧张的高考复习中用力拍打计算器，因而导致计算器损坏，接下来他为了换一个新计算器而下楼。在选购新计算器的过程中，他没有注意到，一款廉价计算器上闪烁着神秘的蓝光。文中描述了陈洛凡在课堂上的无聊与失落，直到他按下计算器上的一些随机功能键时，发生了意想不到的情况，导致他的意识进入了女同学程思怡的身体。随着故事的发展，陈洛凡逐渐适应了身体的变化，并体验着作为女孩的生活，其中包含了对自我的反思和身份认同的探索。小说不仅讲述了奇幻的变身过程，还探讨了性别认同与青春困惑等主题，通过具体的场景描绘了高中生活中少男少女间的情感互动与心理变化。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_计算器1-3.docx]([附身]_计算器1-3.docx)
 | Size            | 23976 bytes                           |
 | MD5             | 63b5740aa59ca543349f5981595fd98e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 附身, 变身, 青春校园, 性别转换, 自我认同, 高中生活, 女主视角, 科技奇幻, 性别错位, 情感探索, 伪娘, 男娘, 身体交换, 奇幻文学                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

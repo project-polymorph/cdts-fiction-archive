@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【伸码文继续发】沃日——银宝天下第一（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档的内容属于多元性别主题的小说类型，具体涉及到角色的性别转换与自我认知的探索。故事发生在一个名为凤栖城的幻想世界中，主角元伊在城中探查一个名为钱镖头的富商的死亡之谜。故事描写了元伊在街道上伪装成男子形象、悄无声息地潜入一座荒废的宅邸的情节。突显了角色的内心复杂情感与心理斗争，同时也展示了她利用修为与身体能力查探事件真相的紧张过程。文中提到了元伊的保护符以及一些额外的角色，如冥冥中的敌人和意外相遇的官差，形成了有趣的故事张力。通过多重角色对话与场景描述，文中塑造了一个充满悬疑与幻想的探查故事，兼顾了性别主题的深层探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【伸码文继续发】沃日——银宝天下第一（�
 | Size            | 39936 bytes                           |
 | MD5             | 47abf13cfd324c06ff69467c0ce38409                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 悬疑, 奇幻, 自我探索, 中性角色, 修真, 江湖, 官差, 死因调查, 冒险, 幻想文学, 心理斗争, 情感复杂, 角色扮演                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

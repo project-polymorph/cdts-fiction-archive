@@ -7,7 +7,7 @@ TXT 下载: [[交换]_在新人女仆的身体.doc]([交换]_在新人女仆的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了一名女仆美羽的故事，她在工作中逐渐适应自己的身份并与男主人发生了一系列亲密的关系。故事开始于傍晚，女仆美羽在厕所整理妆容，准备迎接下一个工作的任务。然而，遇到了男主人后，两人之间产生了微妙的感情与情欲互动。随着情节的发展，女仆的身份与自身的生理性别产生了冲突，她通过一系列亲密行为体验到了性别转换带来的不适与愉悦，最终揭示出她的真实身份其实是男性。这一情节反映了性别认同与自我探索的主题，也展现了角色在探索自我与极端情感之间的挣扎与发现。文件内容包含了大量的情感描写和性暗示，对情欲的体验进行了详细刻画，涉及到了对女仆服装和身体变化的描述，展示了角色在性别角色中流动的状态.
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_在新人女仆的身体.doc]([交换]_在新人女仆的�
 | Size            | 102400 bytes                           |
 | MD5             | 0fac108c0bbee89dd3832604a1e98d04                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 自我探索, 跨性别, 身份转换, 情欲小说, 伪娘, 男娘, 女仆, 强烈情感, 情欲互动, 变身, 幻想, 幻想小说, 性转, 女性视角, 都市, 魔法, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

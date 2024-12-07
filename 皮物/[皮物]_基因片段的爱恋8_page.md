@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_基因片段的爱恋8.doc]([皮物]_基因片段的爱恋
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档《基因片段的爱恋8》描绘了一段复杂的跨性别与变身故事，主要围绕角色汪婷和古小虫之间的情感纠葛展开。故事开始于汪婷与她的姐姐琳绯重逢，汪婷在重返这个世界后，开始经历对自身身份与身体的重新认知。她与古小虫共存于一个身体，并且在伴随情感的交织中，探讨了对身体的认同与性别认同的复杂情感。文中包含了关于汪婷重新适应生活的心理描写，以及与古小虫之间的亲密互动与身体感受的探索。情节中展现了汪婷对旧我与新我之间的大量困惑，以及对新身体的羞涩与兴奋。作品涉及情感纠结、自我探索以及心理变化等主题，其中有不少场景充满了对身体与情感的挑战和探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_基因片段的爱恋8.doc]([皮物]_基因片段的爱恋
 | Size            | 34304 bytes                           |
 | MD5             | 1311a033c76789c360f06a71a13d090d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 自我探索, 性别认同, 情感纠葛, 意识共融, 心理描写, 青春成长, 复杂人际关系, 神秘科学, 女性视角, 奇幻, 肉体转换, 探索欲望, 新身体认同                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

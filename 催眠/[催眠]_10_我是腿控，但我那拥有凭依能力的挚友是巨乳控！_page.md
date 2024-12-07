@@ -7,7 +7,7 @@ TXT 下载: [[催眠]_10_我是腿控，但我那拥有凭依能力的挚友是�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是多元性别主题的催眠与性转小说，主要描绘了角色通过催眠能力进行性控制的情节。故事围绕两名角色，分别是具有催眠能力的男主角与被控制的少女浅香，展示了一场包含强制性与淫乱的场景。在这篇作品中，主人公利用他的能力对浅香实施了催眠控制，迫使她在身体和心理上产生强烈的冲突和变化。故事进展中，浅香在高潮与痛苦之间抉择，展现出角色所承受的精神与肉体双重束缚。通过细致的描写，塑造了角色间复杂的关系与心理活动，同时涉及到对催眠与性控制主题的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[催眠]_10_我是腿控，但我那拥有凭依能力的挚友是�
 | Size            | 60416 bytes                           |
 | MD5             | 858cbe10107084b999d43bc896105efb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 催眠, 强制, 性转, 伪娘, 男主控, 高潮, 痛苦, 性别认同, 自我探索, 角色操控, 肉体欲望, 心理斗争, 青春校园, 非人化, 触手故事, 恶搞                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

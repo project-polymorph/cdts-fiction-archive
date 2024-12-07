@@ -7,7 +7,7 @@ TXT 下载: [[附身]_游泳衣前传4_-_素依（上）.doc]([附身]_游泳衣
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于性别转化的小说的前传部分，详细描述了男主角杨立与素依在进行游泳衣实验后发生的一系列事件。故事开头以杨立在黑暗的密室中醒来为起点，逐渐揭示他与素依身体接触后所经历的变化。实验过程中，杨立意外发现自己成为了女性素依的外表，内心充满了困惑和期待。小说通过对话和内心独白，展现了角色的心理冲突与自我认同的挑战。整体语气轻松幽默，融入了性别认同、身份变化的探讨，以及与异性关系的潜在情感纠葛，内容富有戏剧性。\n\n杨立发现自己在实验后拥有了素依的身体，并对即将开始的新生活产生了复杂的情感。他与吕博士讨论实验的后果，表示自己并不想伤害素依，但又不得不接受新的身份。小说以探索成为他人的生活为主线，将性转与身份认同结合，具有思考性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_游泳衣前传4_-_素依（上）.doc]([附身]_游泳衣
 | Size            | 39424 bytes                           |
 | MD5             | a4c433049b9bf9360b418dbbe4ff0bff                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 性别认同, 变身, 实验, 故事前传, 自我探索, 情感冲突, 女性视角, 科学幻想, 角色扮演, 心理变化, 性取向, 奇幻, 现代, 剧情发展, 身份融合, 青春, 校园                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

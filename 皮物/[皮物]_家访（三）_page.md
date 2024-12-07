@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_家访（三）.docx]([皮物]_家访（三）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是伪娘 TS 变身与跨性别相关小说档案的一部分，标题为《家访（三）》。文章开头描写了一个寒冷的夜晚，主角方英从睡梦中醒来，发现女儿张雪丽正在房间里以性感的姿态出现，穿着豹纹连体衣，抽着烟。故事情节深入探讨了方英对女儿新形象的震惊与不解，以及与班主任沈敏之间的紧张关系。随着情节的发展，家访的目的逐渐揭露，沈敏和张雪丽的关系不再是单纯的师生关系，而逐步演变为一种奇异而淫乱的情感纠葛，涉及强奸与性别角色的扭转。穿插着大量露骨的描写与性行为的细节，揭示了人物之间的权力和性欲的错综复杂。文中不断出现的性暗示和暴露行为，加深了故事的禁忌感与冲突感，展现了角色自我认同与性别认同的变迁。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_家访（三）.docx]([皮物]_家访（三）.docx)
 | Size            | 24261 bytes                           |
 | MD5             | 84d8fd175d388d57d962fd60c97b749b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 变身, 女同性恋, 强奸, 调教, 逆后宫, 自我探索, 禁忌关系, 都市, 奇幻, 情色, 耽美, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

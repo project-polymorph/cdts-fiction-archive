@@ -7,7 +7,7 @@ TXT 下载: [[变身]_荆棘王冠（11）今日起两日一更.docx]([变身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别中文数字档案馆收录的变身小说章节，标题为《荆棘王冠（11）》。在这一章节中，主角爱丽丝与另一角色黛娜之间的互动凸显了性别认同的复杂性。爱丽丝作为女性角色，因对自身女性身份的敏感而感到矛盾。在一段情节中，黛娜使用一个特殊的红宝石道具与爱丽丝进行了一场颇具情感和身体探索色彩的互动，这引发了爱丽丝对自身的身体特征的觉醒与探索，同时也反映了角色间微妙的师生关系变化。该章节涉及了成长、探索与自我认同等主题，细腻地描写了角色在身体与心理上的双重转变，以及她们之间的情感维系和发展，暗含着性转和跨性别的色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_荆棘王冠（11）今日起两日一更.docx]([变身]_�
 | Size            | 20082 bytes                           |
 | MD5             | 24896d184d7b8de2cc9e041e1d9dabd1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 师生关系, 身体认同, 情感探索, 性别认同, 夜莺秘钥, 自我认知, 性转, 幻想文学, 女性成长, 心理变化, 秘密, 情感冲突, 性别转换, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

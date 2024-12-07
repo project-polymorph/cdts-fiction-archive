@@ -7,7 +7,7 @@ TXT 下载: [[交换]_胧月祭的邪淫黑夜　第四章.docx]([交换]_胧月
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《胧月祭的邪淫黑夜》第四章描述了一群角色在神秘的仪式中经历身体互换的故事。本章中主要人物如森谷信二和相泽萌衣见证了诡异的交换仪式，角色性别转换与身份重塑的情节引发了复杂的人际关系和心理冲突。樱田佳织作为调查员，旨在揭露胧月祭的秘密，同时面临来自不良角色的威胁和诱惑。通过层层叠叠的情节展开了关于性别、身份与欲望的探讨。文本中含有一些敏感和成人内容，尤其涉及权力不对称与性侵犯的情节，整体气氛沉重且不乏阴暗色彩。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_胧月祭的邪淫黑夜　第四章.docx]([交换]_胧月
 | Size            | 33175 bytes                           |
 | MD5             | 567ea0e50967263058f628d0fae50d40                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | RE                               |
+| Region          | 未知                               |
+| Date            | 2018-07-27                                 |
+| Tags            | 性转, 伪娘, 变身, 跨性别, 胧月祭, 性别认同, 权力关系, 成人内容, 心理冲突, 身份认同, 性侵犯, 群体关系, 情感纠葛, 阴暗契约, 宿命                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

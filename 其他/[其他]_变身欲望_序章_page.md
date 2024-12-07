@@ -7,7 +7,7 @@ TXT 下载: [[其他]_变身欲望_序章.doc]([其他]_变身欲望_序章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为张宇的角色的序章及第一章，内容围绕他与朋友赵子武在春节期间的活动展开。故事以张宇的内心独白开始，展现了他对自己形象的不满和对朋友关系的思考。在一次和子武一起玩耍时，二人引发了一场小插曲，扔炮仗的行为让他们感到刺激又紧张。文中通过细腻的描写展现了青春的无畏与对性别认同的探索，同时还隐含着对社会认知的微妙反思。张宇的自我形象与他对社交的渴望形成了反差，在与子武的互动中，我们能感受到隐秘而复杂的情感与心理变化。内容可能涉及伪娘、变身角色和青春期的性别困惑等主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_变身欲望_序章.doc]([其他]_变身欲望_序章.doc)
 | Size            | 55296 bytes                           |
 | MD5             | b98012db622c5f20ea830bc0ed2421bd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 青春, 自我认同, 社会互动, 伪娘, 变装, 兄弟情, 性别探索, 校园生活, 春节, 幽默, 冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

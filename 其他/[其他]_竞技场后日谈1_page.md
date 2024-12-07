@@ -7,7 +7,7 @@ TXT 下载: [[其他]_竞技场后日谈1.docx]([其他]_竞技场后日谈1.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部描绘多元性别和变身主题的小说，故事设定在一个充满魔法和斗技的奇幻竞技场。时间设定在三纪元700年，背景为安格尔山脉中的北方竞技场。小说的开篇即展示了一名来自神秘女性部落的女战士在竞技场中的挑战，她勇敢地面对强大的沙虫守关者，展现了她不屈不挠的精神与战斗能力。随着战斗的推进，沙虫吐出了一名赤身裸体的少女，引发了一场意想不到的互动，女战士在战斗中遭遇了失败。随后，故事转向妓院中的情节，讲述了魔法师莉莎的生活，以及她的复仇计划。莉莎不仅以自身的吸引力为武器，同时利用她作为人形史莱姆的能力巧妙地操控他人，探索了其身体的变化与自我认同的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_竞技场后日谈1.docx]([其他]_竞技场后日谈1.doc
 | Size            | 35969 bytes                           |
 | MD5             | 83616155233a317cf6b3549bcba82cb8                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 跨性别, 魔法, 斗技, 女性角色, 奇幻冒险, 伪娘, 史莱姆, 复仇, 沙虫, 妓院, 魔法少女, 黑暗幻想, 生存挑战, 竞争, 权力斗争, 自我认知, 性别探索, 二次元, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

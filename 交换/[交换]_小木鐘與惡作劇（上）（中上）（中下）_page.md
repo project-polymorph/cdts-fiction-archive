@@ -7,7 +7,7 @@ TXT 下载: [[交换]_小木鐘與惡作劇（上）（中上）（中下）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是一部关于性别交换主题的小说，主要围绕一位名为董盈语的女学生和一位被称为胖子阿良的男生之间的奇幻遭遇展开。故事开篇描绘了一幅校园生活的平常场景，随着奇怪的小木钟开始发光，董盈语和胖子阿良的身体发生了交换，双方的外貌特征也不可避免地相互交错。文中特别描述了董盈语突然经历的尴尬情境，她的手变得粗糙而又无法接受的变化，让周围同学对她充满了好奇和不解。同时，胖子阿良的细腻手感和新奇体验，也促发了他内心的挣扎与自我认知问题。随着故事的发展，作者对角色的心理变化进行了详细的刻画，展现了性别认同、个人探索以及压力的主题。最后，情节揭示了一种神秘力量和不可预知的未来，使得故事充满悬念。通过对这些真假难辨的体验和感官的描述，作品展示了身份、社交与自我认知的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_小木鐘與惡作劇（上）（中上）（中下）.doc
 | Size            | 43918 bytes                           |
 | MD5             | d22ae7ec2786f8c9eb631caec8641ed0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 青春校园, 奇幻, 自我认同, 跨性别, 变身, 校园生活, 心理探索, 友情, 奇妙冒险, 隐秘力量, 身体特征                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变身]_監考的老師如是說.doc]([变身]_監考的老師如�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《监考的老师如是说》的小说探讨了性别转换的主题，讲述了主人公在考试前意外遭遇的奇幻经历。在故事中，主人公原本自信且坚定地认为人生是可以预测的，但一次突如其来的重击改变了他的命运。故事中，主人公被一个自信的女孩要求结婚，并在混乱中掉入一个模糊的性别界限里。从原有的男性感知逐渐转变为女性身份的复杂心理冲突，引发了一系列幽默而又感人的情节。在考试即将开始之际，主人公的准考证被判定失效，并且被推入一个奇妙的全新生活，面临着身份认同与人际关系的挑战。小说在探讨性别认同与自我探索的问题时，呈现了温情与幽默的元素，尤其在描述主人公对于周围世界的惊奇与困惑时，流露出深刻的情感和自我发现的旅程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_監考的老師如是說.doc]([变身]_監考的老師如�
 | Size            | 28672 bytes                           |
 | MD5             | 8ad64a099ff5ef37ca5f2494eb19dd0e                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 奇幻, 自我探索, 考场经历, 角色扮演, 恋爱, 校园, 魔法, 青春, 心理冲突, 女性视角, 身份认同, 温情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

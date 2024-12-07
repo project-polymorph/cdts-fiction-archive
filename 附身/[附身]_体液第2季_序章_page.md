@@ -7,7 +7,7 @@ TXT 下载: [[附身]_体液第2季_序章.docx]([附身]_体液第2季_序章.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一名火葬场锅炉工大刘与小赵在日常工作中遇到的奇异情节的虚构小说。故事发生在某市的殡仪馆与火葬场，讲述了大刘与小赵在处理无名尸体时，意外发现了一个黑色的棒状物的事件，引发了一系列的思考与冲突。文章描述大刘的心理变化，尤其是他对尸体和异常物品的反应，以及对现代职业女性徐芳芳的追求与幻想。小说不仅探讨了生死和职业伦理的问题，也涉及了角色之间的关系以及社会底层人群的生活困境。从文本中可以看到角色对日常工作的无奈与对美好生活的渴望。整体内容具有刺激性及特殊主题，包含一定的色情隐喻与性别认同探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_体液第2季_序章.docx]([附身]_体液第2季_序章.d
 | Size            | 24595 bytes                           |
 | MD5             | 654a7626aaea8548948e703ee814e06c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 跨性别, 性别认同, 变身, 火葬场, 死亡, 生活困境, 强奸, 逆后宫, 调教, 乱伦, 禁忌, 精神探索, 社会边缘, 都市小说, 奇异物品                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

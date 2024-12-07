@@ -7,7 +7,7 @@ TXT 下载: [[变装]_【翻译小说】疯狂的双胞胎妹妹14_完结.docx](
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部与性别转换、伪娘及跨性别主题相关的小说，描绘了主角布莱恩（Bryan）与布里安娜（Brianna）之间复杂的关系。故事从布莱恩走出汽车旅馆开始，他穿着紧身黑色连衣裙，表现得像个应召女郎，内心却挣扎着保持自我意识。在一路的经历中，布莱恩面临着身份和自我认同的挑战，与此同时，布里安娜则表现得极端、自信且有些疯狂，她试图操纵周围的环境和人。文中描写了布莱恩因毒品影响而被迫扮演女性角色的场景，在与私家侦探斯宾德的互动中，展现出他对自己身份的迷茫和自我认知的危机。故事中包括街道的肮脏、性工作者的生活对比以及心理上的创伤与对抗，反映了社会对性别和性认同的复杂态度。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_【翻译小说】疯狂的双胞胎妹妹14_完结.docx](
 | Size            | 21596 bytes                           |
 | MD5             | 2f0048c7cc01192d6801e6a667425c3b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身小说, 性别认同, 城市生活, 毒品, 私家侦探, 控制与反控制, 家庭关系, 二次元, 自我探索, 心理冲突, 女性形象, 强烈情感, 身份纠葛, 深夜, 街头文化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[交换]_交换.doc]([交换]_交换.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档展示了一个关于性转和魔法交易的小说，主人公高明是一个普通的大学生，因寻找一本书而进入了一个神秘的世界。在老旧的图书馆里，他偶然发现一本没有文字的黑色封面书籍，随后与书中出现的魔物进行了交易。交易的内容是高明希望获得力量，然而他将以自己的灵魂为代价。故事的情节围绕着这个交易展开，涉及自我探索与权力的诱惑，既有魔法背景的设定，又蕴含着对个人命运的深刻思考。文中多处提到主人公的挣扎，传达了他内心对力量的渴望与对未知的好奇。此外，文档中还可以看到一些与故事无关的内容，如购买链接及免责声明，这部分信息可能是乱码或来源错误，但情节本身对于理解故事发展并不影响。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[交换]_交换.doc]([交换]_交换.doc)
 | Format          | Microsoft Word Document                               |
 | Size            | 49152 bytes                           |
 | MD5             | f0dceed7c395fda6d96fbd9e947562ab                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 魔法交易, 自我探索, 大学生, 灵魂契约, 黑暗奇幻, 魔界, 角色发展, 力量诱惑, 未知探索, 小说, 情节发展, 邪念                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

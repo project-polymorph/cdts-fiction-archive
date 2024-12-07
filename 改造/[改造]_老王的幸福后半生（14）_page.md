@@ -7,7 +7,7 @@ TXT 下载: [[改造]_老王的幸福后半生（14）.doc]([改造]_老王的�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及性别转换及跨性别主题的小说节选，讲述了主角老王在经历一系列心理与身体的冲突后，与另一角色齐梦伟的关系变化。故事的开头描述了老王因受伤而静养，同时反映出其内心的愧疚感。小说中提到齐梦伟，原本是老王的好友，但其身份与心灵的复杂交织暗示着他可能被世界意志替换。情节中，齐平之作为老王的干儿子，展现了自己在情感与性别认同上的困惑以及对老王的渴望。文中涉及一些敏感的情节，包括情感的交流、身体的探索与性需求的表现，展现了人性的复杂与欲望之间的纠葛。整部作品在展现角色内心挣扎的同时，探讨了性别认同、情感依赖与自我价值的主题，以及面对身份改变时的道德责任与内心斗争。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_老王的幸福后半生（14）.doc]([改造]_老王的�
 | Size            | 38400 bytes                           |
 | MD5             | 758dcb949fe4794b4a0bbca0fabf2a9a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 跨性别, 情感纠葛, 自我探索, 心灵冲突, 欲望与责任, 心理变迁, 禁忌之爱, 家庭关系, 灵魂互换, 角色替代, 虚幻与现实, 女性视角, 个人认同, 复杂人际                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

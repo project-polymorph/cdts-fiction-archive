@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_王子的新衣　３＋設定.docx]([皮物]_王子的新
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《王子的新衣 ３＋設定》为一部包含奇幻与变身元素的小说的设定档案，文本主要以第一人称叙述，描绘了通过使用特殊药物与技艺，角色如何在生理上实现性别与身份的转换。故事围绕一个宅男展开，他意外发现自己母亲的身体被某种力量操控，母亲变得裸体并陷入危险，小说通过男主的惊恐反应深入探讨了性别和身份的流动性。文件中描述了多种药剂的效果，包括：黑色针筒液可以让人变成真皮，灰色针筒液则能让角色的外观改变，但内部状况不变，这种极具科幻色彩的设定引发了关于自我认知与身份认同的思考。文本包含了一些可能被认为不适的情节，涉及成人内容，且有一定的惊悚成分，因此适合对性别变换、变身等题材感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_王子的新衣　３＋設定.docx]([皮物]_王子的新
 | Size            | 20027 bytes                           |
 | MD5             | dd993532557dd08c87a263657025a2bf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | sunlokf                               |
+| Region          | 未知                               |
+| Date            | 2012-07-14                                 |
+| Tags            | 性别认同, 自我探索, 奇幻, 变身, 药物, 跨性别, 奇幻设定, 家庭关系, 社会角色, 心理冲突, 生理变化, 身份转换, 性别流动, 黑暗幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

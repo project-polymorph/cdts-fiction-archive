@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_生活目标（很淡）.docx]([皮物]_生活目标（很
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档详细描绘了一个名为冬天月-蓼蓝沙的少女的心理成长故事。蓼蓝沙刚刚进入初中，她对同班同学——美弥理由充满憧憬与羡慕，并渴望能像她一样美丽。文中描述了蓼蓝沙在镜子前为接近理想中的女性形象而尝试化妆，但感到不适应。在对理想与现实的对比中，她感到迷茫和无奈。此外，随着蓼蓝沙的情感逐渐升温，她开始意识到自己对美弥理由的特殊感情，这种感情从羡慕逐渐转变为嫉妒及内心的渴望，展现了青少女复杂的情感世界。故事的发展让蓼蓝沙经历了第一次的爱情告白，但最终却以失落告终。她在紧张与不安中想要传达真心，却被美弥理由冷静的拒绝，导致内心的痛苦，以及泪水的涌出，暗示着她即将迈入少女成长中的阵痛。这段情感历程反映了青少年对自我认同和性别认同的深刻探索。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_生活目标（很淡）.docx]([皮物]_生活目标（很
 | Size            | 22992 bytes                           |
 | MD5             | e9ac79b2fd34d93014c7ce45dbc34f50                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 青春, 青少年爱情, 性别认同, 自我探索, 初恋, 羡慕, 嫉妒, 悲伤, 成长, 内心冲突, 伪娘, 百合                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

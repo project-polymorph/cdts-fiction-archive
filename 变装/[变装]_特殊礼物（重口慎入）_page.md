@@ -7,7 +7,7 @@ TXT 下载: [[变装]_特殊礼物（重口慎入）.docx]([变装]_特殊礼物
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说描绘了一名伪娘的生活与内心世界，故事围绕着主人的命令与伪娘的服从展开。伪娘在主人眼中是私有财产，而她则在性别模糊的境遇中努力活出自我。在故事的开头，伪娘为医生主人整理房间，穿着女仆装，享受着主人的目光。随着情节发展，她深入进入一种充满羞辱与欲望的生活，使用自慰器，经历一系列涉及 BDSM 的场景，如佩戴贞操带、脚铐等，展现出她在性别认同和主人的控制下的心理挣扎和欲望。在文中，她一方面渴望主人的爱与认可，另一方面又面临外界的误解与嘲讽。整个作品的基调充满情色与情感的纠葛，展示了一个伪娘在服从与自我认知中的复杂心理。故事中使用了大量露骨的性描写，涉及 BDSM、性别认同等主题，情节深入探讨了伪娘角色的心理与社会地位。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_特殊礼物（重口慎入）.docx]([变装]_特殊礼物
 | Size            | 22744 bytes                           |
 | MD5             | 67ef63fdaa57d8cc172493caa49575bb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 性转, BDSM, 女仆, 强迫性行为, 自慰, 贞操带, 自我认同, 性别模糊, 主从关系, 主人与奴隶, 情欲, 复杂的人际关系, 心理探索, 社会偏见                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

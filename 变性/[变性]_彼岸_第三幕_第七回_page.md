@@ -7,7 +7,7 @@ TXT 下载: [[变性]_彼岸_第三幕_第七回.docx]([变性]_彼岸_第三幕
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是来自多元性别中文数字档案馆的伪娘/TS变身类型小说的一个章节，主要围绕主人公丽安娜的境遇及心理变化展开。故事中，主人公被迫在一个古典风格的庄园中生活，面临着由撒克逊人控制的人身自由问题。她的身体和精神被迫向她所面扮演的角色丽安娜转变，期间经历了一系列的淑女培训和精神折磨。文件中提到，淑女培训不仅包括外在的打扮，更有对行为举止的严格规范，涉及肉体和精神的双重压迫。主人公面对这些变化，内心充满了挣扎与抵抗，她采用巧妙的方法回避学习内容，同时也展现出她的适应能力。故事结尾描写了主人公以新的形象出现在公爵面前，引出了对周围人物的复杂情感，进而加深了对她身份认同的探索与矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_彼岸_第三幕_第七回.docx]([变性]_彼岸_第三幕
 | Size            | 33450 bytes                           |
 | MD5             | 1ec614769d7d4c9f95c9a065b5af7666                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 伪娘, 跨性别, 淑女培训, 权力控制, 心理斗争, 身份认同, 精致打扮, 富有现代风格的建筑, 感情纠葛, 强烈自我意志, 角色扮演, 家庭问题, 社交压力, 自我探索, 权力游戏, 情感压抑, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

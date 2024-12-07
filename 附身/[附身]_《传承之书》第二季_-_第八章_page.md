@@ -7,7 +7,7 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第八章.doc]([附身]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《传承之书》第二季第八章，主要围绕角色刘孟权和戴慧娟展开。经过五天的时间，胡云飞的死讯引发了相关角色的讨论，展现出日常生活中的人际关系与目标追求。故事的一个重要情节描绘了戴慧娟伪装成外卖员接近陆志创的过程，并通过药物控制对方，引发了一系列紧张的对抗与挑逗情欲的场面。描写中包含对性别角色的转换与性欲的表现，涉及较为敏感且露骨的情节，带有明显的跨性别和变身元素。本章不仅着重于角色间的心理斗争，也探讨了在异性关系中的权力和期待，涉及了道德与欲望的冲突。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_《传承之书》第二季_-_第八章.doc]([附身]_《�
 | Size            | 38400 bytes                           |
 | MD5             | e5726ddf75ac25788a095648575f5b6c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 性转, 跨性别, 自我探索, 悬疑, 都市, 药物, 情感冲突, 权力游戏, 强奸, 调教, 逆后宫, 激烈对抗, 赤裸情欲, 代入感, 性别认同, 伦理困境, 生理性别, 性行为                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

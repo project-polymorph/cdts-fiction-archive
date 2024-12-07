@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【皮之使徒III】_~番外篇2-1.doc]([皮物]_【皮�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《皮之使徒III》~番外篇2是一个充满刺激与悬疑的短篇小说，设定在一个神秘的世界中，包含着复杂的角色关系与暗黑的交易。故事围绕主角李长风展开，他是一位赏金猎人，因一场航空事故而逃入沙漠，同时也承载着一个巨大的秘密。背景设置在美国内华达州的赌城拉斯维加斯，描绘了一个充满诱惑与危险的赌徒世界。小说中涉及到人性贪婪、情感纠葛，以及致命的交易，尤其是与姓名叫白狼哈克的反派角色之间的对峙。该章节具体展现了复杂的人物之间的斗争，李长风必须在生死存亡之间做出选择。同时，小说中也不乏刺激的动作场景与心理博弈。例如在与白狼哈克的遭遇中，李长风没有停下脚步，反而展现出他的勇敢与智慧，最后通过激烈的冲突获得了关键情报。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【皮之使徒III】_~番外篇2-1.doc]([皮物]_【皮�
 | Size            | 39936 bytes                           |
 | MD5             | 008f63455f74dfa2322091550a9e4d22                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | TSF, 跨性别, 性转, 暗黑交易, 冒险, 悬疑, 冲突, 情感, 枪战, 赎金, 沙漠, 梦魇, 赌城, 女性, 黑市情报, 暗黑少女                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

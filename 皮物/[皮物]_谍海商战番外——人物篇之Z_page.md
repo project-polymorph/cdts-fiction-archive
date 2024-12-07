@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_谍海商战番外——人物篇之Z.docx]([皮物]_谍�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于一名盗贼在法国马赛市郊外进行的一场惊心动魄的逃亡故事。故事始于夜晚，受伤的盗贼Z在玉米田中穿梭，试图逃避追捕。在逃亡过程中，Z的伤势严重，面临生死考验。文中详细描绘了Z的外貌和心理状态，以及他与同伴Y的对话，其中透露出他们复杂的关系和对危险的面对。同时，故事中也融入了跨性别元素，Z在经历生死后重新审视自己的性别认同，并尝试从男性身份转变为女性。在一场警察与盗贼的追逐中，揭示了法国政府对于这起偷窃事件的慌乱和不安，反映了社会和政治的紧张氛围。文档的语言生动，富有细节，描绘了紧张的情节和人物的内心世界，适合研究性别认同与自我探索的相关主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_谍海商战番外——人物篇之Z.docx]([皮物]_谍�
 | Size            | 23395 bytes                           |
 | MD5             | 85f9f480ecad3677960b0d2d2aefd4eb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 跨性别, 逃亡, 盗贼, 紧张, 心理冲突, 生死考验, 人物关系, 身份转变, 女性气质                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

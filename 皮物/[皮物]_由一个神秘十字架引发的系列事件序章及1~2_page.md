@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_由一个神秘十字架引发的系列事件序章及1~2.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《由一个神秘十字架引发的系列事件序章及1~2》是属于一部伪娘 TS 变身和跨性别题材的小说，主要讲述了一名男学生在梦想与现实中不断挣扎的故事。故事开头，主人公正沉浸在阅读 tg 小说中，受到朋友乐乐的电话邀请后，开始了两者之间微妙而又复杂的关系。乐乐表现出对主人公的青睐，但她同时又隐藏着秘密，涉及神秘的十字架和身份的转换。随着剧情的展开，主人公发现乐乐的真实身份和他们之间的情感交织。这部小说探讨了性别认同、爱情与友谊之间的脆弱界限，以及涉及性的各种情感冲突。文中融入了大量的情色元素和对复杂人际关系的描绘，使得故事情节充满张力与悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_由一个神秘十字架引发的系列事件序章及1~2.
 | Size            | 21888 bytes                           |
 | MD5             | d7962dca59582df478f81054341d0678                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 随便                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 爱情, 自我探索, 青春校园, 强烈情感, 神秘事件, 超自然力量, 角色转换, 性别角色, 友情与爱情, 学校生活, 复杂关系, 隐秘                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

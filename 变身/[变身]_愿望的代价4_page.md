@@ -7,7 +7,9 @@ TXT 下载: [[变身]_愿望的代价4.doc]([变身]_愿望的代价4.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为名为《愿望的代价4》的变身小说，讲述了一个年轻人在异世界生活的故事。主人公王小明，前身是一个喜欢女装的男性角色，在意外中转生至剑与魔法的世界，成为院长。他试图在这个新身份中维持低调，享受着女学生的喜爱和学院的管理。然而，一场突如其来的灵魂操控危机改变了他的命运，神秘的黑气与魔兽的灵魂结合，迫使他接受一系列不可逆转的事情。故事中包含有关于性别认同与自我探索的冲突，以及对女性的欲望和禁忌的引导。
+
+文件中描绘了丰富的人物内心独白与复杂的情感关系，例如主人公对于自身性别与外形的纠结以及他对其他角色的感情。在黑气与女魔兽的力量交织下，主人公不得不面临自己的欲望与新身份的斗争，情节紧张且充满悬念。此文包含多个限制级的情节，结合了性转、变装、魔法等元素，适合研究性别多样性与心理认同的议题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[变身]_愿望的代价4.doc]([变身]_愿望的代价4.doc)
 | Size            | 54784 bytes                           |
 | MD5             | a809dcbd28ad84065118f09b6c7afe42                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性转, 异世界, 魔法, 自我探索, 女装, 校园, 灵魂融合, 欲望, 情感矛盾, 魔兽, 百合                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

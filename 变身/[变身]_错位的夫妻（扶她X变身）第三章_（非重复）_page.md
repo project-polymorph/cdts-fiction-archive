@@ -7,7 +7,7 @@ TXT 下载: [[变身]_错位的夫妻（扶她X变身）第三章_（非重复�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为《错位的夫妻（扶她X变身）》第三章的内容，主要描述了角色叶云诗与其妻子林温婉在一个别样的现实世界中的生活。叶云诗在一场梦中被幻想的云朵和兔子弄醒，并发现自己被妻子紧紧拥抱，感受到了一种从未有过的亲密体验。故事中展现了性别转变后的自我认知与冲突，叶云诗作为男性灵魂在女性身体中的觉醒，以及和林温婉之间的感情和性欲动态的探讨。文中通过细腻的心理描写，展现了两人之间的爱慕、性别角色的扭转，以及对于自我身份的探索与互动。文中具有一定的限制级元素，围绕着角色的肉体接触、性别认同和情感关系展开发，突显了主题的复杂性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_错位的夫妻（扶她X变身）第三章_（非重复�
 | Size            | 51712 bytes                           |
 | MD5             | 9dcb6d0058db03dda32b1621a1e68bb1                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身小说, 跨性别, 扶她, 性别认同, 爱情, 自我探索, 弱势群体, 女性视角, 家庭关系, 强烈情感, 性别角色扭转, 心理冲突, 性转                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

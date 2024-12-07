@@ -7,7 +7,7 @@ TXT 下载: [[变身]_衣服（三）.doc]([变身]_衣服（三）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这是一部轻小说，围绕着都市校园中的超能力以及变身主题进行探讨。故事采用第一人称视角，主角在日常生活中经历了身份的困惑与超能力的觉醒。内容通过对家庭环境和心理状态的描述，引发读者对超能力者与普通人之间微妙关系的思考。开篇中主角从便利店店员那里接受便当，展现出一种普通的生活，而随着对小区安保现状和超能力者隐秘生活的逐步揭示，氛围愈加紧张，令人感到压迫。文中频繁出现内心独白，展示了因为身份转变而带来的自我认同危机和对未来的恐惧。故事深入探讨了身体变化带来的生理与心理悖论——超能力者的身份让主角面临被发现的风险，引发了深层次的孤独与恐慌。在情节的后半部分，主角在镜子前观察身体变化，展现出对自身性别认同与身体形态的强烈关注，并引入轻微戏谑的色情描写，表现其内心的复杂与矛盾。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_衣服（三）.doc]([变身]_衣服（三）.doc)
 | Size            | 58880 bytes                           |
 | MD5             | 72b7096ba5fbdbec323ceaf1133dfc26                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 超能力, 变身, 都市校园, 自我认同, 内心戏, 心理困惑, 轻H, 身份危机, 家庭关系, 隐秘生活, 第一人称                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

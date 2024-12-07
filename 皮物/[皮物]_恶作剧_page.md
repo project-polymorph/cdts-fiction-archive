@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_恶作剧.doc]([皮物]_恶作剧.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档呈现了一段关于性转变身的小说情节，讲述了一位名叫杨紫芊的少女与她的恋人翔太之间的奇幻故事。故事开头，少女正准备迎接回家的恋人，为了他，她准备进行一次角色扮演。随着情节发展，翔太向芊介绍了一种新发明的药剂，能够将人变为皮物体，且保持意识。芊心生好奇与期待，最终决定体验这种转变。文中细腻描述了芊准备接受药剂后的内心变化以及身体的逐步变化，从一个充满生气的少女，转变为无法行动的皮物状态。随着故事的发展，翔太因突发的工作需要离开，造成芊的愤怒与无奈。此时，芊的身体被一个陌生男子看中，开始了一系列令人感到窒息的身份崩解与心理斗争。整篇作品围绕着性别转换、身份认同以及心理上的冲突等主题展开，展示了少女对自我身体的无力感与他者化的恐慌。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_恶作剧.doc]([皮物]_恶作剧.doc)
 | Size            | 65536 bytes                           |
 | MD5             | 958848c02d4bbb520b8df4982d2b1d9a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 变身, 皮物, 恋爱, 心理斗争, 角色扮演, 身份认同, 奇幻, 饮药剂, 少女, 人物转换, 情感探索, 性别认同, 自我探索, 第二性别, NTR, 奇幻故事, 反乌托邦, 暗黑系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

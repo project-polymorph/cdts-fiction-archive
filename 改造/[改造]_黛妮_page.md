@@ -7,7 +7,7 @@ TXT 下载: [[改造]_黛妮.doc]([改造]_黛妮.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于变身与性别认同的小说，叙述了主角威切尔先生在接受手术后的生活与心理变化。故事开始于威切尔接受了凯瑟琳医生的手术建议，尽管他对手术的必要性心存疑虑，但最终还是决定进行手术。在康复期间，他迎来了一个名为黛妮的年轻女仆的照顾。尽管威切尔对黛妮的外表和性格一开始并不看好，但随着时间的推移他逐渐发现自己对黛妮的影像加深，同时也对自己的性别身份产生了困惑和探索。小说穿插了威切尔与埃米莉的亲密关系，以及他内心关于穿女性衣物的向往与冲突，展现了性别认同与自我探索的主题。这一过程伴随着身体与心灵的变化，最终通过与黛妮的互动更加深化了这种探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_黛妮.doc]([改造]_黛妮.doc)
 | Size            | 69120 bytes                           |
 | MD5             | 3c1882ca92d1a638f5ecb4611422008c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, 伪娘, 情感关系, 手术后康复, 女仆, 幻想, 情节冲突, 自我探索, 幸福, 内衣, 家庭生活, 日常琐事, 复杂情感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

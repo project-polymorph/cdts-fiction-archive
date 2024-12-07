@@ -7,7 +7,7 @@ TXT 下载: [[附身]_灵剑传说_1-3章.doc]([附身]_灵剑传说_1-3章.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一部名为《灵剑传说》的小说的前几章，主要描绘了云遥这个角色在经历前世重生后，所发生的故事。云遥从一个男性角色重生为少女瑶儿，文中详细描绘了她面临的自我身份认同的冲突，以及她对以往生活的回忆和新的生活状态的适应。在第一章中，云遥在悬崖边跳下后重生，发现自己身体的变化，逐渐意识到她的前生与沈颜的复杂关系。她回忆起沈颜的警告，感受到昔日情感的折磨与新的生命的责任，而在第二章中，则涉及她重新认识即将面临的家庭与权力斗争的局面，展现了古云城的政治背景和云家的困境。故事主题围绕着性别转换、自我探索、复仇与权力斗争展开，深刻而富有戏剧性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_灵剑传说_1-3章.doc]([附身]_灵剑传说_1-3章.doc)
 | Size            | 50688 bytes                           |
 | MD5             | 8e037014d2a98821209b7e0d8f2d49c7                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转小说, 重生, 自我探索, 家族争斗, 权力斗争, 身份认同, 魔法, 忍耐, 情感纠葛, 悬疑, 女主角逆袭, 武侠                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[其他]_【乐园计划】第三十九章：真相大白.doc]([其
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《乐园计划》第三十九章以绿荫城为背景，描绘了一场女性角色在魔族影响下的混乱局面。城市的女性们被邪恶势力入侵，城市从传统的校园环境转变为风俗场所，展现出角色性别和身份认同的明显转变。在一堂数学课中，性感女教师无视课堂内容，满足个人欲望，反映了整个城市的堕落。此外，情节围绕香草及其同伴的战斗展开，浅夏、风灵等角色意识到身边的变故，面对被魔族夺取身体的朋友们，他们陷入道德和责任的挣扎。章节最后，角色们被迫面对曾经的朋友已成为敌人，暗示即将展开的冲突与情感上的复杂性。内容包含了性别转变、角色之间的冲突、欲望与权力的斗争，是涉及跨性别主题与性别认同的作品。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_【乐园计划】第三十九章：真相大白.doc]([其
 | Size            | 33280 bytes                           |
 | MD5             | 1070c6110f1ef40b36c5d57723fd9d28                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 色情, 魔法, 斗争, 校园, 角色扮演, 欲望, 恶魔, 自我探索, 堕落, 友情与背叛, 变身, 社会变迁, 情感冲突, 奇幻, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

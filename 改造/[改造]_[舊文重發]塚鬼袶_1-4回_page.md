@@ -7,7 +7,7 @@ TXT 下载: [[改造]_[舊文重發]塚鬼袶_1-4回.doc]([改造]_[舊文重發
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档属于多元性别中文数字档案馆，内容涉及伪娘、TS变身与跨性别等相关主题。故事开篇描绘了一位名为霍向天的少庄主，他因妻子祝凤丹的母亲病重而急忙回家。在这段过程中，故事的情节逐渐向黑暗倾斜。霍向天夫妇在途中的某个时刻遭遇了毒雾，导致三人昏厥，随后霍向天发现自己被禁锢，不知遭遇了何种阴谋。通过故事中的对话和情节展现，读者能够感受到角色之间复杂的关系，尤其是霍向天和其昔日情敌苗翳之间的敌对与情感纠葛。文中含有关于性别认同、自我探索等主题，情节中伴随着一些限制级内容，涉及强迫与恋情的复杂交织。故事的叙述风格细腻，描绘生动，给人以深刻的印象。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_[舊文重發]塚鬼袶_1-4回.doc]([改造]_[舊文重發
 | Size            | 142848 bytes                           |
 | MD5             | c3cbfa33c8413ea2f5752ea0158106bf                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 强迫, 情敌, 阴谋, 悬疑, 江湖恩怨, 母系社会, 武侠, 自我探索, 角色扮演, 变身小说, 武艺高超, 血脉, 情感纠葛, 毒雾, 戏剧冲突, 暗黑                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

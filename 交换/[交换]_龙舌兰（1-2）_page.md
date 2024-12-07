@@ -7,7 +7,7 @@ TXT 下载: [[交换]_龙舌兰（1-2）.docx]([交换]_龙舌兰（1-2）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件包含了一部名为《龙舌兰》的小说文本，故事围绕夫妻之间的情感矛盾展开。男主角杨立是一名年近三十的私家侦探，因工作原因与妻子思琪产生了争吵，思琪因为工作出国而引发的冲突，使得两人的关系日渐紧张。故事中，杨立对思琪的职场成功和自身的失败感到挫败，最终，思琪在酒吧偶遇一名男子，并在一杯特调的龙舌兰酒影响下，做出一系列冲动的选择，这给两人的生活带来了更多的复杂情感和潜在的危机。整个故事探讨了现代婚姻中性别角色的变化、个人身份的探索与自我认知的冲突，同时也带有一些跨性别与变身的元素。在情节中，还原了二次元相关小说的风格与特征，传达了对角色心理变化的深刻描绘。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_龙舌兰（1-2）.docx]([交换]_龙舌兰（1-2）.docx)
 | Size            | 38809 bytes                           |
 | MD5             | cb69f6af163902ef8ccbe143f31f3a5d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 龙舌兰, 私家侦探, 夫妻争吵, 情感危机, 酒吧邂逅, 自我认知, 心理冲突, 现代婚姻, 职场女性, 性别角色, 强烈情感, 冲动行为, 跨性别, 二次元, 变化与转变, 复杂关系, 心灵探索, 青春期教育                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

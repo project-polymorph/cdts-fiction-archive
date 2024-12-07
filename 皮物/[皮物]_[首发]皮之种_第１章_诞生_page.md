@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_[首发]皮之种_第１章_诞生.docx]([皮物]_[首发]
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是由嵐山ＧＯ创作的小说《皮之种》的第一章，故事发生在一个阳光明媚的四月日。主角是一名55岁的退休男性，回顾过去对家庭的冷漠和对妻女的疏离。当他回到空荡荡的家中，发现妻子幸惠和女儿瑞希已经离家出走，留下一封信和离婚协议书。故事中充满了对婚姻、家庭责任和个人缺失的深刻反思，体现了性别关系和家庭动态的复杂性。随着故事的发展，主角的内心冲突和孤独感逐渐显现，他开始意识到自己作为丈夫和父亲的角色应承担的责任和义务。小说中描绘了主角对生活的无奈与对过去选择的困惑，引发读者对人际关系和自我认知的思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_[首发]皮之种_第１章_诞生.docx]([皮物]_[首发]
 | Size            | 30455 bytes                           |
 | MD5             | c526ff69d51e642d20ae3542775604a9                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 嵐山ＧＯ                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 家庭关系, 婚姻, 自我反思, 心理斗争, 离婚, 父女关系, 退休生活, 孤独, 性别认同, 人际关系, 生活困境, 角色转变, 自我探索, 现代社会                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

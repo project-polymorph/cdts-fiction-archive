@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_吴天和陈雪_下.docx]([皮物]_吴天和陈雪_下.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇伪娘/男娘相关的小说，讲述了角色吴天与一个身份复杂的女性角色陈雪之间的经历。故事通过奇幻的方式描绘了性别转换以及情感的复杂性。开篇，吴天因为与陈雪的接触而感到羞愧，同时也被影响的角色影子所引导。随着剧情的发展，表现出吴天内心的挣扎与对于性取向的困惑。更深层的情感冲突在于，原来美丽的陈雪竟是披着女性皮囊的男性。在关键情节中，吴天感受到自己对陈雪变化后的身体的吸引与厌恶共存，内部斗争开始加剧。最后吴天面临着是否继续与变身后的陈雪发生关系的道德与生理的双重困境。这篇作品围绕性别认同、自我探索及异性恋与同性恋之间的流动性展开，有着强烈的情感张力和复杂的角色关系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_吴天和陈雪_下.docx]([皮物]_吴天和陈雪_下.doc
 | Size            | 22233 bytes                           |
 | MD5             | 3aa1d4c10bdcf281b1aecd9786f91e6d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 男娘, 性转, 跨性别, 奇幻, 自我发现, 情感纠葛, 强暴, 禁忌之恋, 性别认同, 变装, 魔法, 青涩爱情, 身体交换, 美丑观念, 成年主题, 禁忌, 复杂人际关系, 心理斗争, 情感探索, 性取向, 幻想类小说, 成人内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

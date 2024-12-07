@@ -7,7 +7,7 @@ TXT 下载: [[改造]_全力以赴_14.docx]([改造]_全力以赴_14.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇关于角色凯拉的跨性别变身故事的第14章，讲述了凯拉到达朋友朱儿丝的公寓后，两人之间的互动和情感交流。故事中，凯拉刚刚完成了性别转换，并在新的身份下体验生活，逐渐适应她的女性角色。文件提到凯拉如何通过家族背景改变了身份，获得了新身份证明和驾驶执照，而这些改变不仅影响她的生活方式，还增加了她与朱儿丝的联系。故事深入探讨了性别认同与自我探索的问题，带有一些情感与个人冲突的元素。通过与朱儿丝的对话，凯拉分享了她在这一过程中的经历和感受，如与父母的关系、对过去身份的怀念等。文本中还暗示了两位朋友共同面对未来的计划，以及凯拉对生活的期待和对新的开始的憧憬。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[改造]_全力以赴_14.docx]([改造]_全力以赴_14.docx)
 | Size            | 40459 bytes                           |
 | MD5             | c9b019251975858eff0d487cc9991836                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 跨性别, 性别认同, 自我探索, 伪娘, 变身小说, 角色互动, 情感交流, 身份转换, 女性角色, 个人冲突, 友谊, 生活体验, 热情互动                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_堀幸男君的診療記録(01~)_1.docx]([变性]_堀幸�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件记录了堀幸男在美咲研究所进行的女性化治疗和训练的详细过程。治疗开始于一周前，通过注射抗雄激素和口服雌激素来促进身体的女性化，变换的过程记录了身体各部位的变化，如皮肤质感改善、体型变化等。堀幸男详细描述了初次注射雌激素时的兴奋感，和逐渐见到胸部开始发育的喜悦，以及在学习女性基本动作时的困难与挑战。他在社交场合中的体验也显示出自我认同的逐步增强，尽管在外形上仍有许多转变要经历。该记录包含了多次的医生诊察记录与堀幸男的自我反省与记述，涉及身体与心理双重变化的过程，以及对变身成为女性的期待与疑虑。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_堀幸男君的診療記録(01~)_1.docx]([变性]_堀幸�
 | Size            | 17731 bytes                           |
 | MD5             | 15786dd44536f9b3e8871f538c4b5193                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 女性化, 性别认同, 跨性别, 雌激素治疗, 伪娘, 变身小说, 自我探索, 身体变化, 心理转变, 社交挑战, 青少年成长, 医疗记录                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,9 @@ TXT 下载: [[其他]_劫后余生＆我愿意为她做任何事＆无脑的金�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件包含两部分内容，第一部分名为《劫后余生》，原作者为Artboye，讲述了几个男孩因一次劫案而穿着女装逃避惩罚的情景。在逃避过程中，他们逐渐适应了女性的身份，并产生了一系列自我认知的冲突。这种奇特的经历不仅展示了性别角色的转变，也探讨了他们在此过程中的身份认同危机。
+
+第二部分名为《愿意为她做任何事》，同样出自Artboye之手，涉及一个名为利亚姆的少年在与女性玛德琳相处的过程中，意识到自己的性别认同问题，决定追求成为女性的目标。文本中详细描绘了他与朋友尼克的对话，反映了性别认知的变化和内心的挣扎。故事通过彼此的讨论与自我反思，展现出在转变中的复杂情感与社会压力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[其他]_劫后余生＆我愿意为她做任何事＆无脑的金�
 | Size            | 38912 bytes                           |
 | MD5             | d164064876e11cf10606731fd7b8499b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Artboye                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 友情, 身份认同, 校园, 女装, 自我探索, 特殊关系, 成长, 情感冲突, 青春                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

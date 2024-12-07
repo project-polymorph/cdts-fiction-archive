@@ -7,7 +7,7 @@ TXT 下载: [[附身]_失眠的烦恼.docx]([附身]_失眠的烦恼.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇短文由作者孔夫子onlyone与Q' c# O3合作，主要围绕主人公张先生的失眠经历以及随之而来的奇妙附身体验展开。开头，张先生描述自身因失眠而苦恼，尝试通过写作来寻找解脱。在失眠的状态下，他意外觉醒在一个陌生的环境中，发现自己附身于一位名叫“小希”的年轻女性身上。他在幻想与现实中穿梭，反复经历变身为不同女性的感受，这种状态的转变引发了他对性别认同和自我认知的深刻思考。文中，张先生多次碰撞物体而重回现实，这种方式象征着他对身份认同的抗争与挣扎。此外，他的故事中还涉及离婚和对失去家庭的反思。通过这些独特的情节，作者探讨了性别、心理健康与个人认同等主题，显现出一种复杂的内心斗争与自我探索过程。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_失眠的烦恼.docx]([附身]_失眠的烦恼.docx)
 | Size            | 22852 bytes                           |
 | MD5             | c845cf0493570aee5d744b81ad9b8a3c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 孔夫子onlyone & Q' c# O3                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 失眠, 附身, 性别认同, 自我探索, 心理健康, 张先生, 变身, 女性身份, 故事, 奇幻, 寻求解脱, 生活压力, 社交障碍, 离婚, 家庭, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

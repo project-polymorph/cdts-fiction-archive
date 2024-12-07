@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_头号玩家（贰）.doc]([皮物]_头号玩家（贰）.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一部伪娘相关的TS变身小说，标题为《头号玩家（贰）》。故事通过主角的视角展开，描述了在游戏开始前一天的奇怪事件和角色间的互动。文中开始描绘主角在游戏中的冒险，一次光球的出现引发了一系列奇幻的事件。主角试图理解自身能力——‘破烂的假象’，一种可以改变物体外貌的技能，但因其限制使他感到失望。故事的背景设定在清河市，包含了超自然的元素和现实生活的交织，从描述中可见对角色内心矛盾及社会反应的深刻刻画。更重要的是，小说中提到的一些突发事件如爆头死亡、奇怪的抢劫案及人能力的揭示，暗示了世界正在经历一场巨大的变革和冲突。整体上，作品涉及到性别认同、游戏心理以及社会评价等主题，成为一部引人深思的现代奇幻小说。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_头号玩家（贰）.doc]([皮物]_头号玩家（贰）.
 | Size            | 42496 bytes                           |
 | MD5             | 6b4451b153bd7450115bd5f456ecd20d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 奇幻, 超自然事件, 性别认同, 自我探索, 玄幻, 游戏, 都市, 涉及血腥场景, 奇怪的新闻, 社会反应, 能力者, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_新工作的第一天.doc]([皮物]_新工作的第一天.
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇文本讲述了约翰在新工作第一天所经历的挑战和经历。故事开头描述了约翰在面试途中紧张的心情，他因为公司的裁员而失业，经过一段时间的等待后，终于接到了新公司的录用通知。在进入新公司的时候，他得知公司对于员工多样性的要求，面临着性别和种族的挑战。故事的转折点出现了，约翰被提议变身为一位泰裔女性以符合公司的多样性需求，这一细节揭示了性别转换和自我认同的主题。最终，他穿上了具有人体改造功能的紧身衣，并经历了外表和声音的变化，成为了一名女性，这使得他对自己的新形象感到震惊和迷恋。此小说不仅探讨了性别认同、自我探索的议题，还涉及了工作的社会压力及身份的再塑造。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_新工作的第一天.doc]([皮物]_新工作的第一天.
 | Size            | 46080 bytes                           |
 | MD5             | 5d03f11dd5f5a45f23afc2ba3964a906                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | luv4skirts、czq123                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 伪娘, 性别认同, 自我探索, 职场, 少数民族, 女性化, 紧身衣, 身体改造, 性别多样性, 心理变化, 女同性恋, 魔法, 都市生活, 职场挑战                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

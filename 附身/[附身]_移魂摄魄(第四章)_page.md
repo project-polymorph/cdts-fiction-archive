@@ -7,7 +7,7 @@ TXT 下载: [[附身]_移魂摄魄(第四章).doc]([附身]_移魂摄魄(第四�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部涉及灵魂转移与性别变换的小说，描绘了主角在经历了一系列事件后，进入到另一个女孩徐萌萌的身体中，并与她的母亲徐姨展开了一系列复杂的情感和心理互动。故事从主角回忆起徐萌萌晕倒的情景切入，随着医生的诊断揭露了徐萌萌的灵魂已被吞噬，主角则兴奋地展开自己的灵魂修炼实验。他通过自己的能力不仅入主了徐萌萌的身体，还试图控制其母亲徐姨的意识，意图将母女两人的身体完全转化为自己的私人玩具。在这个过程中，小说涉及了灵魂交换、性别认同、以及情感上的占有欲等深层次主题。作品中多次出现性暗示和性行为的描写，内容显著带有成人向特征。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_移魂摄魄(第四章).doc]([附身]_移魂摄魄(第四�
 | Size            | 35840 bytes                           |
 | MD5             | 5fdc87006ed776f005433c5e46603429                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 灵魂转移, 性别变换, 强烈占有欲, 母女关系, 性暗示, 意识控制, 纯爱, 调教, 逆后宫, 成人向, 自我探索, 身份认同, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

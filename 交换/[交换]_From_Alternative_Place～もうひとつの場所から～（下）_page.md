@@ -21,7 +21,7 @@ TXT 下载: [[交换]_From_Alternative_Place～もうひとつの場所から～
 | Size            | 56832 bytes                           |
 | MD5             | 34c78bba63f3eea28d99496e00b4e5a2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
+| Original Link   | [Unknown link(update needed)]                         |
 | Author          | 未知                               |
 | Region          | 未知                               |
 | Date            | 未知                                 |

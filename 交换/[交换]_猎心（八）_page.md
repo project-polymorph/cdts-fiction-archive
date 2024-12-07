@@ -7,7 +7,11 @@ TXT 下载: [[交换]_猎心（八）.docx]([交换]_猎心（八）.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是多元性别主题的小说，名为《猎心（八）》。故事围绕女主角沈靖薇展开，描绘了她在经历了复杂的个人和家庭背景后，努力寻求自由和身份认同的情节。
+
+在这篇小说中，沈靖薇主要代表了一个有着隐秘过去的女性角色，她在自己的父亲面前游走于身份的掩饰和真实的自我之间。随着故事的发展，她开始尝试打破以往的束缚，向往一种别样的生活。小说中描写了她走进高档酒店，享受奢华的酒水，而此时的她又承载着对过去生活的害怕和对未来的无限遐想。情节刻画了她的内心冲突和身体的转变，使得沈靖薇在面对各种抉择时显得格外复杂。
+
+文件中涉及了警局的工作生活、家族压力以及对自我性别认同的思考。更深层次的是，沈靖薇在衣物选择上所表现出的制服诱惑与她想要得到的自由之间的张力。她试图通过打扮和行为来重塑自己，一个在外在和内心都寻找自我的女性角色的形象逐渐浮现。同时，文中透露出现实中的悬疑元素，家族间的秘密、社会的盯梢和她个人身份之谜相互交织，加深了故事的悬念感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +25,10 @@ TXT 下载: [[交换]_猎心（八）.docx]([交换]_猎心（八）.docx)
 | Size            | 33066 bytes                           |
 | MD5             | 8da2314f684ec6846a079093df8986ee                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 欲望探求, 家庭秘密, 自我认同, 警匪, 夜生活, 女性意识, 情感纠葛, 变嫁, 制服诱惑, 醉酒, 自我解放, 夜晚城市, 身份交换, 禁忌关系                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

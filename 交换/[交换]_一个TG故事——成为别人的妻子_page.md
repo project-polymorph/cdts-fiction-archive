@@ -7,7 +7,7 @@ TXT 下载: [[交换]_一个TG故事——成为别人的妻子.doc]([交换]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本份文件为一篇涉及身体交换与性别认同的小说，标题为《一个TG故事——我变成了别人的妻子》。小说叙述了主角弗雷德，一名生物老师，通过同事戴安娜的提议，使用具有神奇能力的项链成功与她交换了身体。在得到戴安娜的身体后，弗雷德体验了作为女性的生活，包括穿着、行为习惯以及与丈夫亚当之间的互动。故事展开了他对新身份的挣扎、接受与自我探索，以及对性别角色与自我认知的深刻思考。随着故事的深入，弗雷德开始逐渐享受新的身份带来的乐趣与挑战，并思考女性生活的不同之处，反映了复杂的性别认同及期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_一个TG故事——成为别人的妻子.doc]([交换]_�
 | Size            | 57344 bytes                           |
 | MD5             | 3c1628fd997f023e6135b92b6bfa4b17                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Jumbo Shirmp                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别交换, 身体交换, 跨性别, 伪娘, 变身小说, 自我探索, 性别认同, 情感关系, 女性视角, 两性关系, 异世界, 奇幻, 成长, 心理变化, 幻想, 萝莉, 现实主义                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

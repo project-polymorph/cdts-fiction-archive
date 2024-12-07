@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（免费）错乱（二）（3-7章）.doc]([皮物]_（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说标题为《错乱（二）（3-7章）》，属于多元性别与变身题材，涉及了一个名叫尹小乔的角色，她在附身到一个生理性别为男性的身体后，面临着前所未有的身份认同与自我探索问题。故事的开头提到尹小乔的身体经历了性别转换，面临着洗澡时的种种尴尬情节，表现了她对自己身体以及性别角色的深层次探讨和内心挣扎。故事描述了她对之前生活和情感的回忆，与“妻子”余笑的关系是她痛苦的根源之一。随着剧情的发展，她还与自己新身份的“妹妹”林依涵产生了复杂情感，表现出兄妹间的亲密和她对自我性别的认知冲突。同时，文中包含了大量性别及情感上的困惑、羞辱和自我反省，展现了她对于成为女性及其与他人关系的多重复杂思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（免费）错乱（二）（3-7章）.doc]([皮物]_（�
 | Size            | 56320 bytes                           |
 | MD5             | b5396fb60b4cdf764160723a48c0435f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 自我探索, 附身, 心理斗争, 兄妹情, 都市奇幻, 女性视角, 羞耻, 情感纠葛, 身心冲突, 性别转换, 男娘, 纯爱                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

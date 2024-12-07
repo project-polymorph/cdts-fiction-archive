@@ -7,7 +7,7 @@ TXT 下载: [[交换]_换身都市之我想成为妈妈！【上】.docx]([交�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一部性转题材的小说，讲述了一个年轻男孩与其母亲意外交换身体后的奇妙经历。故事开始于一个普通的中产家庭，男主角与母亲的关系较为亲近，而母亲则是个美丽年轻的女性，带有青春的气息。男孩在备考期间，母亲神秘地给他一个奇特的设备，声称可以帮助他在考试中取得好成绩。随即，二人便意外地实现了身体的互换。男孩在母亲的身体里感受到了前所未有的触觉与身份认同的冲击。在这种情况下，他不得不面对作为“妈妈”的生活琐事。同时，也开始对女性身体产生了好奇与探索。本段落详尽展示了角色在新身份下的心理变化与生理体验，包含了强烈的性别认同与感官探索的主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_换身都市之我想成为妈妈！【上】.docx]([交�
 | Size            | 25374 bytes                           |
 | MD5             | 1d344484bec8c8a80a87c4c578e2df86                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 探索自我, 身体交换, 青春期, 亲子关系, 神秘科技, 性别身份, 女性自我意识, 感官刺激, 性生活, 家庭关系, 校园生活, 奇幻                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

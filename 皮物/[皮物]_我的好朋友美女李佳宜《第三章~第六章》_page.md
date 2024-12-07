@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《第三章~第六章》.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《我的好朋友美女李佳宜》中的第三到第六章的内容，主要讲述了小亮与一位名叫李佳宜的朋友之间的互动关系，表现出小亮对性别转换及伪娘角色的渴望和探索。在故事中，小亮希望能穿上女装，与他在电脑上找到的女装照片相呼应，描绘了一种对自我认同的探索。文件中还提到了一种特殊的人皮装，这种装扮使得小亮能够在外表和声音上都变得与女性角色李佳宜相似，甚至能够通过特殊药物调整声带。这种对自我身份的探讨与性别认同的问题交织在一起，展现了角色内心深处的痛苦与挣扎。同时，文件涉及的一些内容可能包括限制级及性相关情节，例如角色与男性之间的私密行为及性体验，具体情节的描写直白而鲜明，为读者提供了性别转换和心理认同的复杂视角。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我的好朋友美女李佳宜《第三章~第六章》.do
 | Size            | 77823 bytes                           |
 | MD5             | 85dfab2172ddcfc11b7b402eaa42da92                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 自我探索, 友情, 药物变声, 人皮装, 青春校园, 夜店生活, 性别转换, 情感关系, 二次元, 虚拟现实, 情感挣扎, 心理 conflito                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

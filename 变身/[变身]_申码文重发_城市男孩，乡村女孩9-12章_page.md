@@ -7,7 +7,7 @@ TXT 下载: [[变身]_申码文重发_城市男孩，乡村女孩9-12章.doc]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名叫理查德·鲁宾斯坦的角色的故事，主要围绕其在乡村地方的医疗经历和个人身份变化。故事开头，主角与一位名为奥托克的医生对话，询问其丈夫理查德的健康状况，医生透露理查德有严重的脑垂体问题，并正在接受治疗。随着故事的发展，主角意识到理查德的身份正在被改变，逐渐向女性化发展，甚至是否接受了外科手术，逆转了以往的生活。主角面临着内心的挣扎与冲突，她对理查德的病情感到愤怒与无助，同时也对他未来的生活感到绝望。文本探讨了身份、爱情、以及对自我认同的寻找，包含了一些复杂的人际互动和情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_申码文重发_城市男孩，乡村女孩9-12章.doc]([�
 | Size            | 95232 bytes                           |
 | MD5             | 02f33a033305e2ca9e87170f89309fb0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 自我认同, 心理冲突, 医疗伦理, 情感纠葛, 乡村生活, 家庭关系, 身份转变, 男性转女性, 医患关系, 自我探索, 药物治疗, 外科手术, 爱情, 恐惧, 期待, 失落, 社会期待                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

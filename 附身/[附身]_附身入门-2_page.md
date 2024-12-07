@@ -7,7 +7,7 @@ TXT 下载: [[附身]_附身入门-2.docx]([附身]_附身入门-2.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档的第二章讲述了一个名叫凯特琳的角色在尝试附身于同班的女同学维丽蒂的过程中所经历的事。故事以凯特琳的视角展开，描述了她通过魔法咒语脱离自己的身体，进入维丽蒂的身体并开始体验作为一个女生的生活。凯特琳在学校环境中观察同学们，挑选目标以进行附身，并阴险地计划操控维丽蒂的生活。文本细致描写了身体转换后的感受和心理状态，以及凯特琳逐渐适应维丽蒂的生活习惯。该章节中，凯特琳对维丽蒂的操控欲望逐渐显露，并计划通过与男生的互动来实现具体的目的。文中还包含了一些性暗示和情感冲突的情节，触及性别认同、力量关系及角色心理等主题，可能包含限制级内容。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_附身入门-2.docx]([附身]_附身入门-2.docx)
 | Size            | 28634 bytes                           |
 | MD5             | d567e007851f4459e0588ea9bf731fdb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 附身, 变身, 青春校园, 伪娘, 跨性别, 女体化, 复杂人际关系, 情感探索, 阴暗心理, 骚扰, 身份认同, 性别角色, 强奸内容, 调教, 乱伦                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[变性]_如此善良_（超短篇）.docx]([变性]_如此善良_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本篇小说是一个关于变性和自我认同的小故事，使用了幽默的语气来讲述一个经历变性手术后女性相亲的故事。故事的主角在经历了一段时间的适应后，感受到了自己新身份的喜悦。开头提到，在等待欧洲杯比赛时，作者为了让等待的读者开心， 创作了这个温馨的故事。主角经过变性手术后，细致描写了自己面对镜子时的变化和为第一次相亲所做的准备，包括化妆、穿衣等，展现出女性身份的期待与兴奋。然而在故事的后半段，主角向朋友倾诉婚姻中的烦恼，展现出生活中复杂的情感与人际关系，特别是与丈夫的矛盾与失望。故事最后的反转通过婆媳关系和人性的善良，巧妙地将变性主题与生活中的小插曲结合在了一起，呈现了温情与现实的碰撞。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_如此善良_（超短篇）.docx]([变性]_如此善良_�
 | Size            | 15627 bytes                           |
 | MD5             | b434aaf940ea92167865d5d2b8d98781                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 相亲, 自我认同, 婚姻困扰, 友情, 情感转变, 女性形象, 转变经历, 黑色幽默, 成长故事, 生活百态, 社会角色, 情感纠葛, 人在情感的挣扎, 善良                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

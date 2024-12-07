@@ -7,7 +7,7 @@ TXT 下载: [[附身]_一場鬧劇（2）.docx]([附身]_一場鬧劇（2）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于性转与跨性别主题的一段小说，主要讲述了角色之间复杂的关系和性别认同的探索。故事围绕主角小孙和刘可心的互动展开，描述了一系列发生在办公室的暧昧和性暗示场景。文本中涉及到角色的自我认知及他们如何通过穿着丝袜等服装来吸引彼此的兴趣，产生性冲突和心理微妙变化。故事展现了角色们在面对性别和情感的多重考量时，内心的挣扎与外在的表现，包含了一些可能被视为敏感或性相关的内容，如“丝袜”、“穿着喜好”等细节。通过对角色的细致描写，展示出情感和性欲之间的复杂交织。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_一場鬧劇（2）.docx]([附身]_一場鬧劇（2）.doc
 | Size            | 23848 bytes                           |
 | MD5             | 1411876442d13778a79e7325360a1532                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别认同, 变身, 办公室情感, 丝袜, 双性恋, 暧昧关系, 角色互换, 青春校园, 深夜自我认知, 超能力幻想, 跨性别小说, 性别角色, 性暗示                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

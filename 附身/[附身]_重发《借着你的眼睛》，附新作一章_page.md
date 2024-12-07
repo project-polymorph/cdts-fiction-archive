@@ -7,7 +7,7 @@ TXT 下载: [[附身]_重发《借着你的眼睛》，附新作一章.docx]([�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇带有情感色彩的小说，主要描绘了两个女孩之间深厚的友谊与情感。故事从小学到高中，描述了她们在学习和生活中互相支持的经历。在一次对话中，主角之一提出一个关于意识与感知的哲学性问题：\n“如果别人透过我的眼睛在看着，他看到的是我看到的这片天空吗？”\n这段对话引发了深刻的思考，进一步展示了她们之间的情感羁绊。在成长期的友谊之外，故事揭示了一种即将到来的分离的悲伤，女孩即将转学，带来了一系列情感冲击和对未来的迷茫等待。分离的那天，她们的笑容中隐藏着不言而喻的忧伤，而分开的承诺似乎有些无力。在故事的最后，提到了女主因车祸而出事，构成了对命运的深刻思考，设定了悬念。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_重发《借着你的眼睛》，附新作一章.docx]([�
 | Size            | 29055 bytes                           |
 | MD5             | 8b4af811a0e3a53393a559fdc3b35226                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 子由理                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 情感, 哲学思考, 友情, 青春校园, 成长, 分离, 命运, 思维导流, 自我认知, 温馨感人, 情亏情尽, 青涩爱情                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

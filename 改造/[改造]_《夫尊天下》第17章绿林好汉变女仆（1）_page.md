@@ -7,7 +7,9 @@ TXT 下载: [[改造]_《夫尊天下》第17章绿林好汉变女仆（1）.doc
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《夫尊天下》第17章，题为《绿林好汉变女仆（1）》。与传统性转文学不同，本章独特地结合了变身和幻想的元素，描绘了一名贼人逐渐被诱惑，穿上具有超自然效果的皮物，经历了从男性到女性身份的转变。古月乾是故事中的主角，他通过精神力量以及幻想空间的能力，操控贼人的意识，使其追寻欲望，最终进入了皮套之中。
+
+故事开始时，古月乾正经历着内伤的恢复，展现了强大的精神与自信。在一次与贼人的相遇中，古月乾使用了自己的幻术来增强贼人的欲望，引导其穿上了被称为“美女皮”的皮套。贼人在探索古月乾的别墅时，遇到了许多意外，使得故事充满了悬念与刺激。章节通过详细的描写，循序渐进地展示了贼人的挣扎与欲望，包含了对性别身份和身体体验的深刻思考及对人性的探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +23,10 @@ TXT 下载: [[改造]_《夫尊天下》第17章绿林好汉变女仆（1）.doc
 | Size            | 39424 bytes                           |
 | MD5             | 2b316554b35ccf67604258c94a97d1bb                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身小说, 幻术, 欲望, 女仆, 奇幻, 强奸, 调教, 多人, 自我探索, 身份认同, 伪娘, 奇幻文学, 心理操控, 性别流动, 两性关系, 另类现实                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

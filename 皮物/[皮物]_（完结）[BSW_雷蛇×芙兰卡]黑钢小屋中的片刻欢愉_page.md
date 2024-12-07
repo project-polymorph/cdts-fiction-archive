@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_（完结）[BSW_雷蛇×芙兰卡]黑钢小屋中的片�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为一篇描绘伪娘与变身主题的小说，内容围绕角色雷蛇和芙兰卡在罗德岛的训练和生活细节展开。故事开头描绘了一个特种作战训练场景，雷蛇作为教官运用其专业技能对手雷事件进行处理，展示了紧张刺激的战斗氛围。后面则转入两位角色的日常对话与互动，体现出他们之间的友情与默契。例如，芙兰卡在训练中扮演人质时的调皮，以及两人在食堂吃饭时对彼此体重的调侃。通过幽默的对话与回忆，展现了角色的个性与心理变化，同时也引发了对角色身份与自我认同的思考。而故事的后半部分则加入了一些悬疑元素，尤其是关于塔露拉角色的伪装与身份的揭示，进一步增加了故事的层次和吸引力。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_（完结）[BSW_雷蛇×芙兰卡]黑钢小屋中的片�
 | Size            | 86528 bytes                           |
 | MD5             | d2b25d9dd9b9b5acacc660fd8fa6c127                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 伪娘, 特种作战, 角色扮演, 日常生活, 训练模拟, 心理描写, 友情, 幽默对话, 悬疑元素, 战斗场景, 身份认同, 甜品, 饮食文化, 校园生活, 小说                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

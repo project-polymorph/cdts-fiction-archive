@@ -7,7 +7,7 @@ TXT 下载: [[变性]_完美的妥协（4）.docx]([变性]_完美的妥协（4�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档摘录了一部以性别转换为主题的小说的第四章，讲述了主角珍娜在经历了绑架后苏醒的情境。故事以第一人称的方式展开，主角醒来发现自己身处一个充满粉色装饰和古董玩具的房间，感到极度虚弱和疼痛。她对周围的环境感到困惑，长时间的昏迷使得她对自己所处的状况一无所知。在她昏迷和清醒交替的状态中，听到了身边人争论关于她身体和未来的讨论，包括性别转换手术后的身体变化，心理的挣扎和恐惧，不同角色之间的互动反映了她的羞辱和无助。文中生动地描绘了珍娜内心的恐惧与被动接受，她感到无力反抗，却也开始慢慢接受自己新的身份。在这段过程中，陪伴她的女性角色格蕾丝与泰拉给了她一些心理安慰，增加了她对自己处境的复杂情感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_完美的妥协（4）.docx]([变性]_完美的妥协（4�
 | Size            | 21539 bytes                           |
 | MD5             | b11f6f248fe5b05ea0fa87a4c4fbfafa                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 跨性别, 心理挣扎, 自我认同, 强迫转变, 女权主义, 悬疑, 虐待, 家庭关系, 医疗, 成长, 情感戏, 现代奇幻, 角色扮演, 女体化                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

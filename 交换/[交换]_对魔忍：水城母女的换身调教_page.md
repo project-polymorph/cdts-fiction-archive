@@ -7,7 +7,7 @@ TXT 下载: [[交换]_对魔忍：水城母女的换身调教.doc]([交换]_对�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为对魔忍同人小说《对魔忍：水城母女的换身调教》。故事围绕主角不知火与其女儿雪风之间的身体互换展开。在一场阴谋中，不知火被淫魔王俘获，最终她与女儿的身体发生了互换。在新身份中，不知火经历了身体带来的羞辱与非人道的调教，同时也必须隐藏自己的真实身份，借用女儿的身份与朋友们交往。文件详细描述了不知火对自己新身体的混乱与不适，以及她不得不在女儿的校服中掩饰自己的真实情感。故事涉及强暴、调教等元素，内容包含大量成人向情节，并有部分色情描写。整体上，小说引发了关于性别认同与自我探索的议题，带有强烈的情感冲突与心理描写。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_对魔忍：水城母女的换身调教.doc]([交换]_对�
 | Size            | 64000 bytes                           |
 | MD5             | f8f52abcba1e67cf9139639b80cd0188                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 对魔忍, 性别互换, 母女关系, 调教, 魔法, 女性视角, 强暴, 二次元, 耽美, 身体交换, 羞辱, 自我探索, 逆后宫, 幻想, 成人向, 心理冲突                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

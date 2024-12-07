@@ -7,7 +7,7 @@ TXT 下载: [[变性]_花开终有时_第九回_‘破局.docx]([变性]_花开�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档讲述了一段复杂的人际关系与权力斗争的故事，角色主要围绕宋晓菊、宋书宸、陈衿衿及阎王等人展开。在一处坐落于山海之间的三层别墅中，宋晓菊和多名角色互动，探讨了关于家庭、忠诚及背叛的话题。小说描绘了角色们在复杂背景下的自我探索和心理挣扎，比如宋晓菊对过去的回忆和对宋书宸的情感，同时也展现了阎王与毒品交易的黑暗关系。故事中包含多个角色情感与选择的冲突，比如陈衿衿忧虑自己母亲的安危，以及他对家庭忠诚的坚守。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_花开终有时_第九回_‘破局.docx]([变性]_花开�
 | Size            | 33349 bytes                           |
 | MD5             | 4329af867432946669439e11408a8cdd                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 家庭纠纷, 自我认同, 权力游戏, 情感冲突, 毒品交易, 忠诚, 背叛, 男性角色, 心理剧, 复杂关系, 秘密, 情感探索, 二次元                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

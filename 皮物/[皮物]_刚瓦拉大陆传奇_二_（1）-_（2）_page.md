@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_刚瓦拉大陆传奇_二_（1）-_（2）.docx]([皮物]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为小说《刚瓦拉大陆传奇》的第二部第一章和第二章，讲述了在血月战争之后，暗影大师德雷克与弟子凯宁创建了暗影学院的故事。暗影学院是情报官的最高学府，培养龙武士和刺杀者。然而，随着皇帝的弟弟古尔德亲王的谋杀，暗影学院陷入了危机，被古尔德毫无征兆地围攻并烧毁。故事的主要角色威廉图克曾是威廉王子，他在寻找复仇的过程中，寻找暗影学院的皮尔斯大师，请求他的帮助。通过伪装和秘密行动，他们应对着伪帝的军队的搜查。在这个过程中，威廉经历了身份的转换与自我认同的挑战。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_刚瓦拉大陆传奇_二_（1）-_（2）.docx]([皮物]_
 | Size            | 25846 bytes                           |
 | MD5             | 514ee15dd10c6b07d9f73c6693167e3b                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 冒险, 魔法, 复仇, 情报学院, 暗影师, 隐秘, 危险, 王子, 身份伪装, 女仆, 魔法学院, 紧张氛围, 权力斗争, 幻想                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_【申码文重发】假日皮想.doc]([皮物]_【申码�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档名为《假日皮想》，内容描写了一位刚毕业的女学生迎姐与其师妹灵灵之间的复杂关系。迎姐以她的魅力和强势的个性逐渐影响着灵灵，并在灵灵家中展开了一系列讨论和互动。文中透露出迎姐对灵灵所恋男生晓平的占有欲，灵灵在求助迎姐不要再纠缠晓平时，迎姐却表现出对于晓平的兴趣，同时诱导灵灵分享晓平的秘密。文章情节逐渐演变为迎姐对晓平的挑战与侵犯，揭示了她在夺取灵灵所喜欢的男生、对待性与爱恋的复杂态度。整个故事设定在毕业的背景下，涉及青春期的探索、自我认知以及人物间微妙的情感联系。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_【申码文重发】假日皮想.doc]([皮物]_【申码�
 | Size            | 108544 bytes                           |
 | MD5             | 72cd5f391e3eb22a87604ca3671259a5                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 干蒸                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 师生恋, 伪娘, 跨性别, 情感纠葛, 强势女性, 校园, 青春成长, 性别认同, 爱与欲望, 情感操控, 黑袜诱惑, 禁忌关系, 弟弟与姐姐, 毕业季                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

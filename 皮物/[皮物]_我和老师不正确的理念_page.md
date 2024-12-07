@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_我和老师不正确的理念.doc]([皮物]_我和老师�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇伪娘 TS 变身与跨性别相关小说，讲述了一个高中男生迅川在第二理科室里进行女装扮演的经历。故事的开头，迅川在放学后偷偷进入理科室，换上女装，并进行一系列的化妆和打扮。随着故事的发展，他遇到了一个看似和自己相似的女孩，实际上是他的老师。老师与迅川分享了她的秘密，也引导迅川探索女性化的自我。在整个变身过程中，迅川感到兴奋而复杂的情绪，尤其是在老师的引导下，逐渐表露出对女装的向往和对自己性别认同的探索。故事的高潮是迅川穿上紧身衣并与老师互动，这其中涉及了大量关于性别认同和身体探索的细节。作品在细腻的描写中包含了幻想与现实的冲突，和对主人公内心世界的深刻探讨。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_我和老师不正确的理念.doc]([皮物]_我和老师�
 | Size            | 40448 bytes                           |
 | MD5             | 65658f80efc6785ff4487571fabe417a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 性别认同, 女装, 师生关系, 青春, 自我探索, 社会禁忌, 两性关系, 二次元, 紧身衣, 变装, 幻想, 心理描写                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

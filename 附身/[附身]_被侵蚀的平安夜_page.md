@@ -7,7 +7,7 @@ TXT 下载: [[附身]_被侵蚀的平安夜.docx]([附身]_被侵蚀的平安夜
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是一篇关于跨性别女性角色的变身情节的小说，讲述了一位名为雅美的角色在平安夜的奇异经历。故事开头，雅美准备与一辉君约会，但在等待中，她发现双手无法控制，右手突然擅自开始揉胸部，陷入了自我冲突和无能为力的境地。这种失控的感觉伴随着强烈的性暗示和羞耻感，使得雅美的情绪日益紧张。在接下来的情节中，失去控制的双手继续进行侵犯，她试图呼救却发现身边没有人，感受到一种无助与绝望。文中涉及了一些限制级和性相关的内容，展示了角色在性别认同和身体自主权上的冲突与挣扎。整个故事通过强烈的情感描绘了角色的内心恐慌和身体的异化感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_被侵蚀的平安夜.docx]([附身]_被侵蚀的平安夜
 | Size            | 21093 bytes                           |
 | MD5             | 963617f29e52e845307bd6d81e426810                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 伪娘, 心理挣扎, 羞耻, 失控, 身体异化, 性别认同, 自我探索, 平安夜, 偷窥, 性暗示, 羞辱, 跨性别小说, 自我侵犯, 强烈快感                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

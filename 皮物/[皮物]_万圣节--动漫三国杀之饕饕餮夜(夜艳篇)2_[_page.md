@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_万圣节--动漫三国杀之饕饕餮夜(夜艳篇)2_[.do
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇文档名为《万圣节--动漫三国杀之饕饕餮夜(夜艳篇)》，是关于一场以知名格斗游戏角色为主角的虚构聚会场景的描写。在故事中，不知火舞等角色聚集在一起，讨论着游戏和彼此的服装。虽然有丰富的视觉描绘和人物互动，但文中也包含了一些性暗示和角色心态的探索，例如对不知火舞的身体特征的细致描写，以及角色间微妙的关系交流。故事里主要角色从各大知名动漫和游戏中选出，如不知火舞、春丽、凌波丽等，与此同时，场面上还呈现了奢华的用餐氛围，包括装饰华丽的餐厅与精致的西式晚餐。整体上，文本在调侃与轻松之间徘徊，同时搭配了一些二次元文化的元素。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_万圣节--动漫三国杀之饕饕餮夜(夜艳篇)2_[.do
 | Size            | 18413 bytes                           |
 | MD5             | 82e00f1f62c51ed799398e3306cf8e4a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 动漫, 婚礼场景, 夜宴, 角色互动, 格斗游戏, 华丽景象, 晚餐, 二次元文化, 强烈的女性角色, 角色自我探索, 扮演游戏, 幻想, 剧情发展, 俏皮对话, 性暗示, 虚拟角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

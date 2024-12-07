@@ -7,7 +7,7 @@ TXT 下载: [[变身]_衣服（一）.doc]([变身]_衣服（一）.doc)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文是一篇轻H风格的变身小说，采用第一人称的视角，讲述了主角在校园中的日常生活及心路历程。故事设定在初秋，主角身处高校，受到学校校服规定的困扰，涉及到对校园生活中性别认同的探索和自我意识的张力。主角在一次挂衣服的过程中误拿了其他女生的校服外套，令他对衣服的主人产生了好奇与内心的波动。此时，他敏锐的嗅觉捕捉到衣服上残留的女孩子的香气，进一步加深了他对女性形象的审视与性别认同的思考。文中详细描绘了校园的季节变化、校规的影响以及主角的心情变化，探讨了青春期的迷惘和对异性的憧憬。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_衣服（一）.doc]([变身]_衣服（一）.doc)
 | Size            | 60416 bytes                           |
 | MD5             | cef34dd15684f47c2121bd06d67a78c0                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 校园, 变身, 轻H, 性别认同, 自我探索, 青春期, 误拿衣服, 异性吸引, 第一人称, 超能力, 男女同校服                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

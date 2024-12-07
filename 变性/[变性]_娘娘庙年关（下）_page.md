@@ -7,7 +7,7 @@ TXT 下载: [[变性]_娘娘庙年关（下）.docx]([变性]_娘娘庙年关（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件《娘娘庙年关（下）》呈现了彭军在小年夜参与娘娘庙庙会的故事。故事开始于彭军为自己化妆并穿上特制的粉色花衫、肉色丝袜和高跟鞋，展现出既性感又妩媚的形象。尽管心中害羞，彭军却感受到妻子伍玉娟的赞美，让他倍感自豪。随着庙会的进行，彭军被抬上神轿，受到众人的关注，他努力保持优雅和微笑。即便穿着酒红色薄丝袜和高跟鞋感到寒冷，彭军仍坚持展现奎水娘娘的魅力。整个事件不仅展现了彭军的外表变化，也揭示出他内心的挣扎与自我认同。在家庭方面，他期待与妻子伍玉娟的重聚，同时也面临着王强这一角色的冲突，后者对他产生了意想不到的情感。最后，彭军的角色自我认知和社会认同交织在一起，构成了这一充满层次的故事。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_娘娘庙年关（下）.docx]([变性]_娘娘庙年关（
 | Size            | 27139 bytes                           |
 | MD5             | d519057a0be15224548eb8599a21378f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 庙会, 性别认同, 社群活动, 家庭冲突, 自我探索, 性别表达, 社会期望, 节日庆祝, 耐心与坚持, 角色扮演, 女性认同, 男性视角, 情感纠葛, 高跟鞋文化, 传统与现代                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

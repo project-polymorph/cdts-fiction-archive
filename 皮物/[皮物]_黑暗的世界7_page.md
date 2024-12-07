@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_黑暗的世界7.docx]([皮物]_黑暗的世界7.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文档是一篇关于变身、跨性别及伪娘设定的网络小说片段，故事围绕男主角吴雍与女性角色李芯雅之间的情感纠葛进行展开。吴雍在故事中经历了性别转换的情节，他在偶然得到一种超能力后，试图使用这种能力改变李芯雅的认知。在过程中，他与李芯雅之间的互动逐渐升级，展现了他们内部的情感波动和认同危机。文中包含了吴雍与李芯雅之间富有戏剧性的对话和深刻的情感描写，以及带有性暗示的亲密场景，反映了他们对于彼此感情的探索与认同。例如，吴雍在看到李芯雅苏醒时的激动心情和强烈的喜欢表达都表现得很细腻，同时也展现了他们之间因能力使用带来的复杂情感。当李芯雅询问吴雍“你是喜欢人家的人还是喜欢人家的身体呢？”时，直击了性别认同与自我探索的核心主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_黑暗的世界7.docx]([皮物]_黑暗的世界7.docx)
 | Size            | 20675 bytes                           |
 | MD5             | 2909bb103e04867ba5ced9bdde7f79f3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 变身, 性别认同, 情感纠葛, 强制性能力, 自我探索, 爱情纠葛, 黑暗幻想, 未知能力, 女性化, 二次元, 虚拟现实, 角色扮演, 校园生活, 官僚制度                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

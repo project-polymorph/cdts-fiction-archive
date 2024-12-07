@@ -7,7 +7,7 @@ TXT 下载: [[变身]_荆棘王冠（12）.docx]([变身]_荆棘王冠（12）.d
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为《荆棘王冠》第十二章，描绘了角色爱丽丝在潘诺尼亚大区的一次飞行旅程中的情景。在飞行途中，爱丽丝和一对母女进行愉快的聊天，分享了各自的生活和兴趣。爱丽丝表达了对未来魔导技术博览会的向往，同时思念起了她已故的亲人，表现出她内心的孤独和对过往的怀念。整个章节围绕着她的内心挣扎与对他人的关怀展开，同时暗示了潜在的危机，一名携带危险魔能炸弹的男人出现在她的生活中，令她不得不在恐惧中思考如何应对这场突如其来的危险。爱丽丝的成长与自我认知在故事中显得尤为重要，同时也反映了她在面临危机时的冷静与智慧。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_荆棘王冠（12）.docx]([变身]_荆棘王冠（12）.d
 | Size            | 18938 bytes                           |
 | MD5             | 6936ee9d379c870723fa470d0762573a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 变身, 魔法, 冒险, 成长, 自我探索, 飞行, 友谊, 亲情, 危机, 魔导技术, 战争                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

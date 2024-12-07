@@ -7,7 +7,7 @@ TXT 下载: [[交换]_新任哈里斯太太23.doc]([交换]_新任哈里斯太�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档描绘了珍妮丝在一系列复杂情感和性别认同的过程中，随着她的身体和心理的转变而经历的挑战与冲突。故事围绕珍妮丝的变身过程展开，她从一个男性角色转变为女性角色，她的自我认知和对他人期望的冲突使她不断感到焦虑与不安。在某个晚上，珍妮丝坐在梳妆台前，准备迎接她的伴侣艾伦。她因自己新塑造的嘴唇感到恐慌，害怕艾伦会厌恶她的改变。随着艾伦的回家，珍妮丝的心理挣扎与肉体的欲望交织在一起。当他们又开始亲密接触时，艾伦对她外形的赞赏虽然让她暂时舒缓了情绪，但随之而来的，是对自己身份和角色期待的深深矛盾。整篇作品融合了性别认同、自我探索及对待性行为的复杂情感，一方面表现了珍妮丝的渴望和需求，另一方面则是对她现实处境的强烈不适。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[交换]_新任哈里斯太太23.doc]([交换]_新任哈里斯太�
 | Size            | 37376 bytes                           |
 | MD5             | 45157ea7c31a348dd13b6071cae97ff2                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 性别认同, 跨性别, 欲望, 心理挣扎, 自我探索, 恋爱关系, 性行为, 女性主义, 身心冲突, 异性恋, 情感戏剧, 性转, 伪娘, 恋物癖, 强迫, 羞辱, 束缚                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

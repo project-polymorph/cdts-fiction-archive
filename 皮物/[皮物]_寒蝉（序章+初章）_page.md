@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_寒蝉（序章+初章）.docx]([皮物]_寒蝉（序章+�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档为一部伪娘与跨性别相关的小说，名为《寒蝉（序章+初章）》。故事的开头描述了角色王富林的生活，他是一位早已偏离正轨的社会边缘人，因不当行为与犯罪活动而不得不隐姓埋名。在一个嘈杂的午夜，被邻居的纵欲声吵醒的他，产生了窥探楼上住户生活的强烈好奇。王富林通过偷偷安装摄像头，企图监视那些纵欲行为。随着故事的发展，王富林看到了一名年轻美女和陈梓明的亲密关系，却意外发现其中隐藏的恐怖和异样。该文本交织了欲望、窥探和惊悚的元素，展现了角色内心的冲突，以及伴随欲望而来的伦理问题。文本内容包含了一些限制级的情节，描绘了角色经历的自我探索和心理变化，十分适合研究性别认同和性转主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_寒蝉（序章+初章）.docx]([皮物]_寒蝉（序章+�
 | Size            | 31967 bytes                           |
 | MD5             | 20894e56be8dd0062860b0068d44a875                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 偷窥, 伦理问题, 跨性别, 欲望, 惊悚, 监视, 夜生活, 性的探索, 自我认知, 刺激与冲突, 黑暗心理, 社会边缘人, 角色心理                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

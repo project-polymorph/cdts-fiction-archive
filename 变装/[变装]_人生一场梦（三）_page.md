@@ -7,7 +7,7 @@ TXT 下载: [[变装]_人生一场梦（三）.docx]([变装]_人生一场梦（
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇名为《人生一场梦（三）》的变装小说描写了一个年轻女孩与顾峰的甜蜜恋情。她的生活因顾峰而充满快乐，每当接到他的电话或短信，都是她一天中最珍贵的时刻。她对这段感情保持着独立和尊严，尽力不花顾峰的钱，强调自己需要的是爱而非物质。在与顾峰的相聚中，她深感幸福，但同时也面临在发廊工作时不断遭受顾客骚扰的困扰，这让她感到愧疚，担心自己的身体受到其他男人的侵犯。随着她在顾峰身边的幸福感增加，渐渐对工作产生了厌倦，想摆脱与那些色男人的接触。她和顾峰讨论了转换工作类型的问题，并产生了将发廊改成女用品店的想法，以避免客人骚扰的环境。这段文字不仅描绘了她的爱情故事，还展示了性别认同与自我探索中的复杂心情。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_人生一场梦（三）.docx]([变装]_人生一场梦（
 | Size            | 68578 bytes                           |
 | MD5             | 121d4798481a2b5a383d87ac73e8d991                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变装, 爱情, 初恋, 幸福, 性别认同, 自我探索, 工作, 骚扰, 甜蜜恋情, 顾峰, 独立                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

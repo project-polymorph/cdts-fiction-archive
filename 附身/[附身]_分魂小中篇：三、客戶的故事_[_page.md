@@ -7,7 +7,7 @@ TXT 下载: [[附身]_分魂小中篇：三、客戶的故事_[.docx]([附身]_�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为多元性别相关小说之一，标题为《分魂小中篇：三、客户的故事》。内容讲述了一名名为草薙康雄的男性，他利用灵魂转移的能力控制一位名叫松下奈奈子的女性社长，以达成商业上的成功。在社长办公室内，草薙康雄通过操控奈奈子的身体进行的一系列情节，涉及灵魂控制、性别转换及性相关行为，描绘了两者之间在约见过程中的肉体和精神交流的细腻描绘。文中多次提及奈奈子在草薙的操控下进行自慰，并表达对其的渴望与从属关系，整体情节围绕着控制与被控制的关系展开，且有大量露骨的性描写。整体文本多为带有色情内容，适合对相关性别文化和性别认同探索感兴趣的读者。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_分魂小中篇：三、客戶的故事_[.docx]([附身]_�
 | Size            | 26353 bytes                           |
 | MD5             | 6e799fff8295ad36eee94e0dab7151e4                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | ecvt                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 伪娘, 变身, 灵魂转移, 跨性别, 商业谈判, 肉体交流, 自慰, 精神控制, 权力操作, 办公情节, 性相关, 强迫, 调教, 百合, 成年内容                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

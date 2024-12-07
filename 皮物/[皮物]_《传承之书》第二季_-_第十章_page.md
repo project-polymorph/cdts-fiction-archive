@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_《传承之书》第二季_-_第十章.doc]([皮物]_《�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+《传承之书》第二季第十章讲述了刘孟权在寻找自己青梅竹马的女孩依依的过程中，通过Tor网络与其他网友互动，试图获取关于依依最新的线索。在一个匿名聊天室中，他看到了一张疑似依依的照片，引发了对往昔的回忆和对现状的迷茫。刘孟权面对照片中的女孩，尝试通过在线聊天的对话了解更多信息，但未能如愿。几天后，他依据照片中的线索，终于找到了依依，并导致了一系列温馨的重逢场景。文章不仅涉及刘孟权的寻找过程和心理活动，也描绘了与依依重逢时的紧张与尴尬，并探讨了他们之间的过往回忆和未来可能的发展。此章节展现了性别认同、自我探索与情感交织的复杂主题。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_《传承之书》第二季_-_第十章.doc]([皮物]_《�
 | Size            | 46080 bytes                           |
 | MD5             | c4fb2ed213c7f8d123cc9dc593a9668c                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 紫依                               |
+| Region          | 中国大陆                               |
+| Date            | 未知                                 |
+| Tags            | 传承之书, 性别认同, 自我探索, 青梅竹马, 重逢, 青春, 约会, Tor网络, 匿名聊天室, 感情发展, 寻找, 往昔回忆, 校园生活, 情感纠葛, 心理描写, 社会交往, 人与人关系, 情感搜索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

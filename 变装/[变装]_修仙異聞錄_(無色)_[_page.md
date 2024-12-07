@@ -7,7 +7,7 @@ TXT 下载: [[变装]_修仙異聞錄_(無色)_[.docx]([变装]_修仙異聞錄_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文档是关于两个女性角色在某处城外的林间小道旁生火露营的场景，故事设定在一个相对平稳的时期，尽管仍存有叛乱与山匪的威胁。两位女子外表美丽，且具备超凡的修炼境界，展现出与众不同的气质。穿着黄色衣裳的女子在对话中表现出对于烹饪的不满，而穿蓝色衣裙的女子则表现得低调而神秘。故事通过两位角色之间的互动，掺杂着一些轻松幽默的元素，展示了她们在修行与日常生活中的思考与碰撞。文中涉及到门派建立、生活技能要求，甚至是出奇不意的修仙理念，例如以貌取人以及如何统一弟子的形象等。整体故事通过这两位角色的交流，既有修仙的严肃，又不乏生活的趣味。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变装]_修仙異聞錄_(無色)_[.docx]([变装]_修仙異聞錄_
 | Size            | 24456 bytes                           |
 | MD5             | ae757cc53d229937c3cb7ab5bb4c535d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变装, 修仙, 伪娘, 性别认同, 超能力, 女性角色, 日常生活, 幽默, 修士, 传奇故事, 角色互动, 门派建立, 厨艺, 烹饪, 生活技能, 轻松氛围, 幻想故事, 冒险                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

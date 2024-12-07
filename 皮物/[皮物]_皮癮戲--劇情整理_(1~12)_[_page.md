@@ -7,7 +7,7 @@ TXT 下载: [[皮物]_皮癮戲--劇情整理_(1~12)_[.docx]([皮物]_皮癮戲-
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于皮物及其相关角色的详细整理，涵盖了剧中人物关系、角色目的、皮物演变以及第9至12回的前情提要。文件中详细列出了主要人物及其目标，例如劉凱利希望逃出监狱，开发具有记忆和个性的人皮衣，报复陷害他的女模，及其生化学梦想。文件还提供了人物关系图和皮物入替情况，描绘了角色之间复杂的关系网，特别是在越狱和皮物的使用方面。在第9到12回中，剧中角色的互动与冲突再次增强，特别是在交易与逃亡的紧张情节中，提升了剧情的戏剧性与紧迫感。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[皮物]_皮癮戲--劇情整理_(1~12)_[.docx]([皮物]_皮癮戲-
 | Size            | 19131 bytes                           |
 | MD5             | aff0e1cb8a9531cfe85751c7a28afea3                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 变身, 跨性别, 皮物, 角色关系, 重犯, 科技幻想, 人皮衣, 自我认知, 越狱, 血腥, 复杂关系, 记忆功能, 生化科技, 监狱, 逃脱计划                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

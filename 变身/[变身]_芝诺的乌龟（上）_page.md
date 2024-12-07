@@ -7,7 +7,7 @@ TXT 下载: [[变身]_芝诺的乌龟（上）.doc]([变身]_芝诺的乌龟（�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件是关于一个名为《芝诺的乌龟》的变身与跨性别主题小说的上半部分，讲述的是主人公张三在一个高度文明的2777年中，因为强奸罪被判处特殊的惩罚：身体和精神的完全面叠，以及性别的转变。在故事中，张三的生理性别由男性变为女性，转变过程中伴随着自我认知的冲突和转变。他的下体在这场惩罚中被转变为女性的生殖器，导致他无法再进行以往的性行为。随着时间的推移，张三在适应新身份的过程中，开始努力工作、健身，状态逐渐好转，并在工作中与女性同事罗湘展开了一段恋爱关系。该文件详细描写了主人公内心的挣扎、情感的变化与自我探索，涵盖了性别认同、强奸、恋爱、虚拟现实等主题，涉及一定程度的性暗示和性行为。整体内容较长，包含对虚拟现实的探讨和对性别转换心理变化的描写，从而呈现出对多元性别领域的探讨与思考。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_芝诺的乌龟（上）.doc]([变身]_芝诺的乌龟（�
 | Size            | 41984 bytes                           |
 | MD5             | 3c4b24e6c6c3f179d7682ca2c975014f                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 变身, 跨性别, 性别认同, 强奸, 恋爱, 虚拟现实, 自我探索, 科技惩罚, 伪娘, 性转, 情感冲突, 性行为, 精神转变, 未来社会, 身份认同, 身体改造                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

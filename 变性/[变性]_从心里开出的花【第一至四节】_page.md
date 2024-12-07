@@ -7,7 +7,7 @@ TXT 下载: [[变性]_从心里开出的花【第一至四节】.docx]([变性]_
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文为一篇伪娘（TS）变身与跨性别相关的小说，经过整理与修改后发布。故事的主人公蒋亚文，自幼在单亲家庭中成长，性别认同在早年时逐渐萌芽。在二年级时，他被班主任老师的美丽身影深深吸引，开始悄悄尝试穿女装。在小学和初中的岁月中，他因为想要变成女孩子而不断挣扎，但同时又面临着来自家庭和同龄人的压力和偏见。随着成长，他的身体逐渐发生变化，内心的矛盾也愈加显著，身体的成长与心灵的渴望之间的冲突让他感到无比痛苦。此外，作者在文中展现了性别认同的复杂性与个人自我探索的艰难。在高中时期，尽管在友情的支持下生活得以改善，但他对自己身份的认同仍然困扰着他，反映了变装与自我认同的艰辛之路。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变性]_从心里开出的花【第一至四节】.docx]([变性]_
 | Size            | 29786 bytes                           |
 | MD5             | 10fefc8851e5631c3030265a00dc7e5a                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 中国                               |
+| Date            | 未知                                 |
+| Tags            | 变性, 伪娘, 跨性别, 自我探索, 性别认同, 青春期, 家庭关系, 成长, 性别规则, 禁忌爱好, 女性形象, 女装, 青少年心理, 身份危机, 女性视角, 情感纠葛                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

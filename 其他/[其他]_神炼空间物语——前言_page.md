@@ -7,7 +7,7 @@ TXT 下载: [[其他]_神炼空间物语——前言.docx]([其他]_神炼空间
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+本文件为‘神炼空间物语——前言’，主要探讨了一个虚构世界的设定。在这个世界中，神祗并非生而存在，而是人类的情感如欲望与信仰的凝聚体。文中提到人类对神的崇拜与信仰直接影响神的力量，信仰的减少将导致神的消亡。随着社会的发展与唯物主义的普及，传统神祗逐渐被遗忘，而新生代神灵的诞生则是因为现代人对虚拟世界与物质欲望的追求。三位新神——网络之神、虚拟之神和贸易之神共同提出一种新的信仰收集方式，他们不再单纯追求信徒数量，而是重视信徒的质量。他们允许信徒通过特殊法诀修炼，从而产生信仰值并转换为神力。文中也提到，人类获得力量后往往膨胀野心，因此众神制定了‘信徒律典’来限制行为，并设立竞技场用于信徒的试炼与神之间的纠纷解决。整体来看，文件涉及了复杂的社会背景与神话体系，对未来的故事框架进行初步设定，并引发读者对互动性和参与性的期待。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[其他]_神炼空间物语——前言.docx]([其他]_神炼空间
 | Size            | 16888 bytes                           |
 | MD5             | 64eb522f736af5582a6f66103cb09d17                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 虚拟神话, 信仰与欲望, 人类情感, 神与信徒关系, 互动小说, 竞技场设定, 现代神灵, 权力与责任, 文艺创作, 超自然力量, 社会变革, 文化反思, 时代的神话, 信徒律典, 自我探索                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

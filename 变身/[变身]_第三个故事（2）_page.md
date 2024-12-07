@@ -7,7 +7,7 @@ TXT 下载: [[变身]_第三个故事（2）.docx]([变身]_第三个故事（2�
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件为一篇描绘角色性别转换和自我探索过程的小说，内容围绕主角在尝试通过吸取血液和唾液实现变身的过程展开。在故事中，主角对自己的性别认同以及生命中的各种挑战进行了深度思考与探索。杜撰的场景包括主角在进行变身尝试时的心理活动，以及他对自己身体的陌生感和欲望的觉醒。文中描写了主角手动探索自己身体的细致过程，触及了性别、欲望和自我认同的主题，充满了一种对禁忌的挑战与探索。同时，这篇小说也涉及了一些限制级和成人内容，包含裸体、自慰、性幻想等描写，反映了主人公在身份转换中对新身份的自我感知和身体认知。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_第三个故事（2）.docx]([变身]_第三个故事（2�
 | Size            | 17773 bytes                           |
 | MD5             | 10c5d186838eeec3b74efab163b33ded                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 变身, 自我探索, 性幻想, 欲望觉醒, 禁忌体验, 身份认同, 与他人性交的幻想, 心理挣扎, 自我接纳, 色情内容, 变装, 角色扮演, 二次元, 现代生活, 流浪汉, 红灯区, 性别认同, 津液与血液实验, 缺乏社交生活                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

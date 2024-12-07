@@ -7,7 +7,7 @@ TXT 下载: [[变身]_性爱翻转第二部（2）.doc]([变身]_性爱翻转第
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+该文件是关于一位教师和其男学生之间复杂的变性、性别认同和性行为的描绘。故事描述了一名教师在教室中与男学生们的互动，涉及穿着特制内裤的行为以及男生们对于教师性别认同的反应。文件从4月10号开启，描述了教师在穿上新内裤后，手下的男学生们对于其性别表现的好奇和欲望。随着时间推移，《性爱翻转第二部》中的情节逐渐深入，男生们对教师的生理特征表现出高度的渴望，甚至演变为多次口交和手交的场景。特别提到男生们的身体变化，及其对待教师的态度变化，使得这种性行为成为一种常态。这种描写涉及了性别模糊、跨性别体验及强烈的性暗示，成为一部具有讨论和探讨性别、多元性欲和社会认同主题的特殊作品。
 
 <!-- tcd_abstract_end -->
 
@@ -20,11 +20,11 @@ TXT 下载: [[变身]_性爱翻转第二部（2）.doc]([变身]_性爱翻转第
 | Format          | Microsoft Word Document                               |
 | Size            | 53248 bytes                           |
 | MD5             | 2ed39eed1e1d16b57c4701df76a519f2                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Archived Date   | 2024-12-07                             |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性转, 跨性别, 伪娘, 男娘, 变身, 性别认同, 强烈性暗示, 教育环境, 性行为, 性别模糊, 青少年, 教师与学生关系, 社会认同, 幻想, 非主流性别角色                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

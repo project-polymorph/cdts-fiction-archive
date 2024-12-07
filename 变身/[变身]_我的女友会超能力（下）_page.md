@@ -7,7 +7,7 @@ TXT 下载: [[变身]_我的女友会超能力（下）.docx]([变身]_我的女
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+这篇小说名为《我的女友会超能力（下）》，是伪娘与跨性别题材的变身小说，讲述了角色在性别转换过程中的自我认同及情感纠葛。故事的主线围绕着男主角（现在是女孩形象）与他的女性伙伴晓涵之间的亲密互动展开。小说中包含了许多对角色身体触觉敏感度的描述，如“身体敏感度8岁，感觉好奇怪”等，呈现出一种模糊的边界感，描绘了少女与女性之间不寻常的互动关系。情节的设置涉及强烈的性暗示及对角色内心挣扎的刻画，伴随着角色批判与追问自我身份的旅程。这其中还渗透了对于性的探索与社会禁忌的挑战，在场景中不仅有注重情感细腻的交流，还有对身体感知与欲望的探索。整个故事虽然主题探索明确，但其涉及的情感领域归属与道德边界却模糊不清，充满了争议性及实验性。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[变身]_我的女友会超能力（下）.docx]([变身]_我的女
 | Size            | 37790 bytes                           |
 | MD5             | 5a632fa7da444f97edc2758513fde75d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | 未知                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 伪娘, 跨性别, 性别认同, 身体敏感, 情感探索, 变身小说, 性转, 角色扮演, 情感纠葛, 性暗示, 成人内容, 魔法, 奇幻, 意思不明, 情感关系, 青少年, 自我认知, 社会禁忌                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>

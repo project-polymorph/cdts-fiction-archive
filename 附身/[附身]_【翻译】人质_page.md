@@ -7,7 +7,7 @@ TXT 下载: [[附身]_【翻译】人质.docx]([附身]_【翻译】人质.docx)
 ## 摘要
 
 <!-- tcd_abstract -->
-[Unknown description(update needed)]
+此文档是关于一部涉及灵魂凭依与性别体验的跨性别小说的翻译版本，呈现了一位男子凭依到其妹妹身体后，二人之间相互矛盾和悬疑的情感互动。故事开始时，妹妹智代的行为反常，表现出不同寻常的主动，令哥哥感到疑惑。智代声称她的身体已被同班男生桃木占据，她希望哥哥和她一起探索性行为，情节中穿插着强烈的禁忌与紧张感。作者通过桃木的目光展现了对于智代身体的占有欲及其挣扎，令人对角色的变化感到紧张与期待。整个故事围绕着灵魂占据与身体体验，深入探讨了性别认同与身体的复杂关系，文中涉及成人主题和禁忌情节，包含多处挑逗性台词，体现了承载性别与身份的多重含义。
 
 <!-- tcd_abstract_end -->
 
@@ -21,10 +21,10 @@ TXT 下载: [[附身]_【翻译】人质.docx]([附身]_【翻译】人质.docx)
 | Size            | 48544 bytes                           |
 | MD5             | cd80c645b8259ecb8de35ded26129c5d                                  |
 | Archived Date   | [Unknown archived date(update needed)]                             |
-| Original Link   | [[Unknown link(update needed)]]([Unknown link(update needed)])                         |
-| Author          | [Unknown author(update needed)]                               |
-| Region          | [Unknown region(update needed)]                               |
-| Date            | [Unknown date(update needed)]                                 |
-| Tags            | [Unknown tags(update needed)]                                 |
+| Original Link   | [Unknown link(update needed)]                         |
+| Author          | Tira 著 hys564219 译                               |
+| Region          | 未知                               |
+| Date            | 未知                                 |
+| Tags            | 性别转换, 灵魂凭依, 禁忌关系, 跨性别体验, 性探索, 兄妹情感, 少女成长, 身体交换, 自我认知, 情感纠葛, 性别认同, 青少年问题, 恶梦拯救, 虚构现实, 欲望与操控                                 |
 
 本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>
