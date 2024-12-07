@@ -9,7 +9,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-    - content.action.edit
+    # - content.action.edit
     - navigation.footer
     - navigation.instant
     - navigation.instant.progress
@@ -40,9 +40,9 @@ theme:
   language: zh
 plugins:
   - search
-  - social:
-      cards_layout_options:
-        font_family: Noto Sans SC
+  #- social:
+      # cards_layout_options:
+       # font_family: Noto Sans SC
   - rss:
       match_path: ".*"
       date_from_meta:
