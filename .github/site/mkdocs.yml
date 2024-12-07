@@ -48,9 +48,9 @@ plugins:
       date_from_meta:
         as_creation: date.created
         as_update: date.updated
-  - git-authors
-  - git-revision-date-localized:
-      enable_creation_date: true
+  # - git-authors
+  # - git-revision-date-localized:
+    #  enable_creation_date: true
 extra:
   analytics:
     provider: google
@@ -58,7 +58,7 @@ extra:
   social:
   - icon: /fontawesome/regular/envelope
     name: send me an email
-    link: mailto:yunwei37@gmail.com
+    link: mailto:admin@transchinese.org
 hooks:
   - hooks/socialmedia.py
 markdown_extensions:
