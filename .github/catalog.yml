@@ -1,6 +1,33 @@
 .:
   name: .
   description: 根目录，按照内容与来源分类
-测试:
-  name: 测试
+交换:
+  name: 交换
+  description: ''
+催眠:
+  name: 催眠
+  description: ''
+其他:
+  name: 其他
+  description: ''
+变性:
+  name: 变性
+  description: ''
+变装:
+  name: 变装
+  description: ''
+变身:
+  name: 变身
+  description: ''
+改造:
+  name: 改造
+  description: ''
+皮物:
+  name: 皮物
+  description: ''
+资源:
+  name: 资源
+  description: ''
+附身:
+  name: 附身
   description: ''
