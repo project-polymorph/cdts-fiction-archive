@@ -14,9 +14,14 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.expand
     - navigation.path
     - navigation.top
+    - navigation.prune 
+    - navigation.indexes 
+    - navigation.tracking
+
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"

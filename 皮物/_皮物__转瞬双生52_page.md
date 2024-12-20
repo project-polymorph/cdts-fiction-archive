@@ -1,7 +1,7 @@
-# [皮物]_转瞬双生52
+# _皮物__转瞬双生52
 
 <!-- tcd_download_link -->
-TXT 下载: [[皮物]_转瞬双生52.pdf]([皮物]_转瞬双生52.pdf)
+TXT 下载: [_皮物__转瞬双生52.pdf](_皮物__转瞬双生52.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -15,7 +15,7 @@ TXT 下载: [[皮物]_转瞬双生52.pdf]([皮物]_转瞬双生52.pdf)
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
-| Filename        | [皮物]_转瞬双生52.pdf                             |
+| Filename        | _皮物__转瞬双生52.pdf                             |
 | Type            | document                                 |
 | Format          | PDF Document                               |
 | Size            | 267926 bytes                           |

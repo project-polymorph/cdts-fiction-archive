@@ -1,7 +1,7 @@
-# [皮物]_转瞬双生46
+# _皮物__转瞬双生46
 
 <!-- tcd_download_link -->
-TXT 下载: [[皮物]_转瞬双生46.pdf]([皮物]_转瞬双生46.pdf)
+TXT 下载: [_皮物__转瞬双生46.pdf](_皮物__转瞬双生46.pdf)
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -15,7 +15,7 @@ TXT 下载: [[皮物]_转瞬双生46.pdf]([皮物]_转瞬双生46.pdf)
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
-| Filename        | [皮物]_转瞬双生46.pdf                             |
+| Filename        | _皮物__转瞬双生46.pdf                             |
 | Type            | document                                 |
 | Format          | PDF Document                               |
 | Size            | 322871 bytes                           |

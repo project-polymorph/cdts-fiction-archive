@@ -1,4 +1,4 @@
-# [皮物]_转瞬双生-TransientTwo_Souls【6-10】
+# _皮物__转瞬双生-TransientTwo_Souls【6-10】
 
 
 
@@ -13,7 +13,7 @@
 
 | Attribute       | Value                                  |
 |-----------------|----------------------------------------|
-| Filename        | [皮物]_转瞬双生-TransientTwo_Souls【6-10】.docx                             |
+| Filename        | _皮物__转瞬双生-TransientTwo_Souls【6-10】.docx                             |
 | Type            | document                                 |
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 181071 bytes                           |
