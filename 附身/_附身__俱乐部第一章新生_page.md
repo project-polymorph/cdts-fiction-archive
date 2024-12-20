@@ -20,7 +20,7 @@ TXT 下载: [_附身__俱乐部第一章新生.docx](_附身__俱乐部第一章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 29989 bytes                           |
 | MD5             | 355ca4dd61e74c27106ea443f63eb04c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

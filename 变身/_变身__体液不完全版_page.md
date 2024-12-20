@@ -20,7 +20,7 @@ TXT 下载: [_变身__体液不完全版.docx](_变身__体液不完全版.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 58321 bytes                           |
 | MD5             | 63b6d386636ccf4002b58395111c8bff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

@@ -20,7 +20,7 @@ TXT 下载: [_改造__失忆女孩.docx](_改造__失忆女孩.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20513 bytes                           |
 | MD5             | b933929923571beeb6e87566a7b24fc3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

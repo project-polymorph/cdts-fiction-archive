@@ -20,7 +20,7 @@ TXT 下载: [_改造__世事无常2.docx](_改造__世事无常2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 50711 bytes                           |
 | MD5             | 75a184fb3e8a448cc6971e4d164928a3                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

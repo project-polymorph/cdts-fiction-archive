@@ -20,7 +20,7 @@ TXT 下载: [_交换__靈魂的使用方法之一.docx](_交换__靈魂的使用
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 35549 bytes                           |
 | MD5             | 145b63013ec43c15de9ef1f1432e2110                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

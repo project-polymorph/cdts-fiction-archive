@@ -20,7 +20,7 @@ TXT 下载: [_交换__【申码文重发】变幻自在的逃亡者_①~③全�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 36191 bytes                           |
 | MD5             | 7ac3cdc3662d106410a9ad292475d0c6                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

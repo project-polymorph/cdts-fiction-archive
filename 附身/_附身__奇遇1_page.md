@@ -20,7 +20,7 @@ TXT 下载: [_附身__奇遇1.docx](_附身__奇遇1.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24359 bytes                           |
 | MD5             | ec60d1d14332596349734b822b64e482                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

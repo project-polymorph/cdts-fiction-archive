@@ -20,7 +20,7 @@ TXT 下载: [_交换__一品红4.docx](_交换__一品红4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28353 bytes                           |
 | MD5             | 2348a5ed971a23582512f63952209a9c                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

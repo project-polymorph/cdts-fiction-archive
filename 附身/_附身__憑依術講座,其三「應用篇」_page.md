@@ -20,7 +20,7 @@ TXT 下载: [_附身__憑依術講座,其三「應用篇」.docx](_附身__憑�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 46852 bytes                           |
 | MD5             | bd95943ed620436fd94ff915705d2617                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

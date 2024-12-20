@@ -20,7 +20,7 @@ TXT 下载: [_改造__DTX之转变-2.docx](_改造__DTX之转变-2.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34226 bytes                           |
 | MD5             | a33b36034acaa713ffbcc053e7108e64                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

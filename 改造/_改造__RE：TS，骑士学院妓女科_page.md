@@ -20,7 +20,7 @@ TXT 下载: [_改造__RE：TS，骑士学院妓女科.docx](_改造__RE：TS，�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 24991 bytes                           |
 | MD5             | 64b96fa5adc19c996f0dcf12ede4d2e9                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

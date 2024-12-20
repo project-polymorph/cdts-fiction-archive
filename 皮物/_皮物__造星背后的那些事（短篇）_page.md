@@ -20,7 +20,7 @@ TXT 下载: [_皮物__造星背后的那些事（短篇）.docx](_皮物__造星
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19156 bytes                           |
 | MD5             | 4f1151603d53fa7d86984b566c3e1b3d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

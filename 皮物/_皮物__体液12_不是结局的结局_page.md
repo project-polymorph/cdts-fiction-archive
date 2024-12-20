@@ -20,7 +20,7 @@ TXT 下载: [_皮物__体液12_不是结局的结局.docx](_皮物__体液12_不
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 30491 bytes                           |
 | MD5             | d9f52be900a2c23d41f19901f78f885e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

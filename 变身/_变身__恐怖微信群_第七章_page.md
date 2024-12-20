@@ -20,7 +20,7 @@ TXT 下载: [_变身__恐怖微信群_第七章.docx](_变身__恐怖微信群_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 23178 bytes                           |
 | MD5             | c183f861ec8f7fcc64d3304bfdc39a26                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

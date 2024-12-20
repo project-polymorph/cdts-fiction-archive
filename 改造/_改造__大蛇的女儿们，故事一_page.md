@@ -20,7 +20,7 @@ TXT 下载: [_改造__大蛇的女儿们，故事一.docx](_改造__大蛇的女
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 25081 bytes                           |
 | MD5             | fd9999b421f8fea81dab21f495da9fcf                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

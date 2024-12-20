@@ -20,7 +20,7 @@ TXT 下载: [_变身__恐怖微信群第六章.docx](_变身__恐怖微信群第
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28171 bytes                           |
 | MD5             | 7a3b6a87c516b112d162db7ddd964b3d                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

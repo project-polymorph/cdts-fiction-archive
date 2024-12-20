@@ -20,7 +20,7 @@ TXT 下载: [_附身__简单的任务1-4章.docx](_附身__简单的任务1-4章
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 93232 bytes                           |
 | MD5             | ed79dcbce4b654fcf3a8b187de3d1ed4                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

@@ -20,7 +20,7 @@ TXT 下载: [_改造__虚幻与真实_第二章上.docx](_改造__虚幻与真�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20727 bytes                           |
 | MD5             | 8c489511743fb6a6b3b0c986212b1731                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

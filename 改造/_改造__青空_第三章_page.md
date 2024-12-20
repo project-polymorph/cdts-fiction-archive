@@ -20,7 +20,7 @@ TXT 下载: [_改造__青空_第三章.docx](_改造__青空_第三章.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 19956 bytes                           |
 | MD5             | 96f163da1bca9965dd2091613d30f50e                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

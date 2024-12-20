@@ -20,7 +20,7 @@ TXT 下载: [_变身__我.docx](_变身__我.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 71773 bytes                           |
 | MD5             | 509273d5ed84e2501292106a6788cfde                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

@@ -20,7 +20,7 @@ TXT 下载: [_变身__产卵战士～优里爱的逆袭1-15回.docx](_变身__�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 140835 bytes                           |
 | MD5             | 4a779c99cc4eb512fd789d7dc900f0be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

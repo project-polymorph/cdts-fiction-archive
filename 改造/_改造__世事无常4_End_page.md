@@ -20,7 +20,7 @@ TXT 下载: [_改造__世事无常4_End.docx](_改造__世事无常4_End.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31125 bytes                           |
 | MD5             | d34c07902bf90133cc5cdbf7041027cc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

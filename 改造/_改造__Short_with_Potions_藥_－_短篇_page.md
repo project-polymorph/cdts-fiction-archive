@@ -20,7 +20,7 @@ TXT 下载: [_改造__Short_with_Potions_藥_－_短篇.docx](_改造__Short_wit
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40507 bytes                           |
 | MD5             | ad54bf90321bbe79a45c105b20687e71                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

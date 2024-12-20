@@ -20,7 +20,7 @@ TXT 下载: [_改造__淫堕魔女.docx](_改造__淫堕魔女.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 31126 bytes                           |
 | MD5             | c6d394b2f2bdfc1d738773592ff3169f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

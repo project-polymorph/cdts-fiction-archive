@@ -20,7 +20,7 @@ TXT 下载: [_改造__鹤翼之绊.docx](_改造__鹤翼之绊.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45759 bytes                           |
 | MD5             | c9d36d04ce97886a62e71c69deab73ff                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

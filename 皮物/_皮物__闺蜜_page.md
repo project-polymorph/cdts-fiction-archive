@@ -20,7 +20,7 @@ TXT 下载: [_皮物__闺蜜.docx](_皮物__闺蜜.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34100 bytes                           |
 | MD5             | 51afdb978059cf32a524891d771de069                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

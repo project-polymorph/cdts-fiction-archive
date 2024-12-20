@@ -20,7 +20,7 @@ TXT 下载: [_改造__进化_章一.docx](_改造__进化_章一.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 26826 bytes                           |
 | MD5             | 3488c3df096c4ac0efd69ff8b7040d66                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

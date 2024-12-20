@@ -20,7 +20,7 @@ TXT 下载: [_变身__道觞_10_.docx](_变身__道觞_10_.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47040 bytes                           |
 | MD5             | 1f884c2f3367ddbba4ec76f2a3b23931                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

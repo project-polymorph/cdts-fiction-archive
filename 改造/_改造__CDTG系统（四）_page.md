@@ -20,7 +20,7 @@ TXT 下载: [_改造__CDTG系统（四）.docx](_改造__CDTG系统（四）.doc
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 41243 bytes                           |
 | MD5             | 87d899943594cbf2b6559e3bdf0f995f                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

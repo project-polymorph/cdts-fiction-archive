@@ -20,7 +20,7 @@ TXT 下载: [_附身__元始玉（序）.docx](_附身__元始玉（序）.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18811 bytes                           |
 | MD5             | 6ffbf049520f4457c84a592b3b6ed9c0                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

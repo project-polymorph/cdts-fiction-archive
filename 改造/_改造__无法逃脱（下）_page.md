@@ -20,7 +20,7 @@ TXT 下载: [_改造__无法逃脱（下）.docx](_改造__无法逃脱（下）
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27915 bytes                           |
 | MD5             | a9ca8ab5b55d00de8d22abd58b6ddc8b                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

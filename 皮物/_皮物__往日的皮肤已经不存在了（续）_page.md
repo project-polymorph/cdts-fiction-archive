@@ -20,7 +20,7 @@ TXT 下载: [_皮物__往日的皮肤已经不存在了（续）.docx](_皮物__
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20552 bytes                           |
 | MD5             | 1560fe9248db5396a428464e80616302                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

@@ -20,7 +20,7 @@ TXT 下载: [_附身__魂轻者（魂侵者）——B路线义姐の绯（两难
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 21864 bytes                           |
 | MD5             | 018c8bc404a248ca409ae04c67448e57                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

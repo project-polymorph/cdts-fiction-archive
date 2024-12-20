@@ -20,7 +20,7 @@ TXT 下载: [_改造__黑暗面（DarkSide）.docx](_改造__黑暗面（DarkSid
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 45335 bytes                           |
 | MD5             | ad4350d9390ebed1d1d0d2b06adcee01                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

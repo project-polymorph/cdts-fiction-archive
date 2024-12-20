@@ -20,7 +20,7 @@ TXT 下载: [_交换__交换.docx](_交换__交换.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 139271 bytes                           |
 | MD5             | 86dc708318b60bea730d5deba2b47967                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

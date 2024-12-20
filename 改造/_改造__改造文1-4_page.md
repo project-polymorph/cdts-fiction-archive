@@ -20,7 +20,7 @@ TXT 下载: [_改造__改造文1-4.docx](_改造__改造文1-4.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 57720 bytes                           |
 | MD5             | c57671347d0699ca19c59dbff1633764                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

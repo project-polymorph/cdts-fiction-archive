@@ -20,7 +20,7 @@ TXT 下载: [_改造__实现愿望的女巫_6.docx](_改造__实现愿望的女�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20276 bytes                           |
 | MD5             | 7752c89b94aae6e6f652da7c28a7b4bc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

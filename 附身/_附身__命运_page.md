@@ -20,7 +20,7 @@ TXT 下载: [_附身__命运.docx](_附身__命运.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 34123 bytes                           |
 | MD5             | 09ab3ae822884299d82122b6a3926043                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

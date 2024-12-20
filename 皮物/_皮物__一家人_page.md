@@ -20,7 +20,7 @@ TXT 下载: [_皮物__一家人.docx](_皮物__一家人.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 47683 bytes                           |
 | MD5             | aea4bb028f0b103d24f93c2750245073                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

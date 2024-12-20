@@ -20,7 +20,7 @@ TXT 下载: [_皮物__妹妹.docx](_皮物__妹妹.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 20316 bytes                           |
 | MD5             | d5d29698b63f48dd1adef5e72dec7ce1                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

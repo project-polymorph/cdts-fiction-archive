@@ -20,7 +20,7 @@ TXT 下载: [_改造__虚幻与真实_第一章.docx](_改造__虚幻与真实_�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 22981 bytes                           |
 | MD5             | 8fc837469c311b48bd34e63bb511e7be                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

@@ -20,7 +20,7 @@ TXT 下载: [_附身__真·淫魔修女传_第八回、肉欲深渊.docx](_附�
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 40539 bytes                           |
 | MD5             | ae23c2275ee93051c669a21b22254e58                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

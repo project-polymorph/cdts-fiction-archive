@@ -20,7 +20,7 @@ TXT 下载: [_皮物__吸血鬼.docx](_皮物__吸血鬼.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28023 bytes                           |
 | MD5             | def84fc412fac88db828061d2ac079cc                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

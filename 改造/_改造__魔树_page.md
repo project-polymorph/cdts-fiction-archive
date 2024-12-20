@@ -20,7 +20,7 @@ TXT 下载: [_改造__魔树.docx](_改造__魔树.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 55428 bytes                           |
 | MD5             | b01ab06463c86842eeec921fe3392010                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

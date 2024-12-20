@@ -20,7 +20,7 @@ TXT 下载: [_皮物__我的乡下疯狂女友.docx](_皮物__我的乡下疯狂
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 27099 bytes                           |
 | MD5             | ce8bb8bb27c9fef045894e45d632d735                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

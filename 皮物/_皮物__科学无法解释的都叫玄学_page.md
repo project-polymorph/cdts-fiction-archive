@@ -20,7 +20,7 @@ TXT 下载: [_皮物__科学无法解释的都叫玄学.docx](_皮物__科学无
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 28315 bytes                           |
 | MD5             | a7e8fb29518537b804528072b133bf37                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |

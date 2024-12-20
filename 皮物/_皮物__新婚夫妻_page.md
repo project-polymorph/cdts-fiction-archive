@@ -20,7 +20,7 @@ TXT 下载: [_皮物__新婚夫妻.docx](_皮物__新婚夫妻.docx)
 | Format          | Microsoft Word Document (OpenXML)                               |
 | Size            | 18841 bytes                           |
 | MD5             | a004ed8919462f59b484a720f3838315                                  |
-| Archived Date   | [Unknown archived date(update needed)]                             |
+| Archived Date   | 2024-12-20                             |
 | Original Link   | [Unknown link(update needed)]                         |
 | Author          | [Unknown author(update needed)]                               |
 | Region          | [Unknown region(update needed)]                               |
