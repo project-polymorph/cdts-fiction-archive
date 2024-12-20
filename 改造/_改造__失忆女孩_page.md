@@ -4,7 +4,7 @@
 TXT 下载: [_改造__失忆女孩.docx](_改造__失忆女孩.docx)
 <!-- tcd_download_link_end -->
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 [Unknown description(update needed)]

@@ -4,7 +4,7 @@
 TXT 下载: [_变身__体液不完全版.docx](_变身__体液不完全版.docx)
 <!-- tcd_download_link_end -->
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 [Unknown description(update needed)]

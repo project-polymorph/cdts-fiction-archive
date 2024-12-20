@@ -4,7 +4,7 @@
 TXT 下载: [_皮物__科学无法解释的都叫玄学.docx](_皮物__科学无法解释的都叫玄学.docx)
 <!-- tcd_download_link_end -->
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 [Unknown description(update needed)]

@@ -4,7 +4,7 @@
 TXT 下载: [_变身__性爱翻转第二部（2）.docx](_变身__性爱翻转第二部（2）.docx)
 <!-- tcd_download_link_end -->
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 [Unknown description(update needed)]

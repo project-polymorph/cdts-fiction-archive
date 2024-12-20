@@ -4,7 +4,7 @@
 TXT 下载: [_附身__憑依術講座,其三「應用篇」.docx](_附身__憑依術講座,其三「應用篇」.docx)
 <!-- tcd_download_link_end -->
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 [Unknown description(update needed)]

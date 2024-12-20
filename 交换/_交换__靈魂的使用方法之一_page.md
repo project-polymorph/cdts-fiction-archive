@@ -4,7 +4,7 @@
 TXT 下载: [_交换__靈魂的使用方法之一.docx](_交换__靈魂的使用方法之一.docx)
 <!-- tcd_download_link_end -->
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 [Unknown description(update needed)]

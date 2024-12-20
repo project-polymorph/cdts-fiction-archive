@@ -4,7 +4,7 @@
 TXT 下载: [_变身__产卵战士～优里爱的逆袭1-15回.docx](_变身__产卵战士～优里爱的逆袭1-15回.docx)
 <!-- tcd_download_link_end -->
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 [Unknown description(update needed)]

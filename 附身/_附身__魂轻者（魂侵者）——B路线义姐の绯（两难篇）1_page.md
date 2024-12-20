@@ -4,7 +4,7 @@
 TXT 下载: [_附身__魂轻者（魂侵者）——B路线义姐の绯（两难篇）1.docx](_附身__魂轻者（魂侵者）——B路线义姐の绯（两难篇）1.docx)
 <!-- tcd_download_link_end -->
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 [Unknown description(update needed)]

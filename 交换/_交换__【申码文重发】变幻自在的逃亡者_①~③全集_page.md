@@ -4,7 +4,7 @@
 TXT 下载: [_交换__【申码文重发】变幻自在的逃亡者_①~③全集.docx](_交换__【申码文重发】变幻自在的逃亡者_①~③全集.docx)
 <!-- tcd_download_link_end -->
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 [Unknown description(update needed)]

@@ -2,7 +2,7 @@
 
 
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 该文件《Irwin's Little Gift》讲述了一个名叫Irwin的普通男子在一个偶然的机会下遭遇了水精灵Naryanne，她通过一个吻将Irwin变成了一位女性，赋予了她倾听他人愿望并实现愿望的能力。故事以Irwin的视角展开，展现了她从男性转变为女性后，生活变得多么不同和复杂。

@@ -4,7 +4,7 @@
 TXT 下载: [_变身__道觞_10_.docx](_变身__道觞_10_.docx)
 <!-- tcd_download_link_end -->
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 [Unknown description(update needed)]

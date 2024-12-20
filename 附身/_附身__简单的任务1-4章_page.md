@@ -4,7 +4,7 @@
 TXT 下载: [_附身__简单的任务1-4章.docx](_附身__简单的任务1-4章.docx)
 <!-- tcd_download_link_end -->
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 [Unknown description(update needed)]

@@ -4,7 +4,7 @@
 TXT 下载: [_皮物__体液12_不是结局的结局.docx](_皮物__体液12_不是结局的结局.docx)
 <!-- tcd_download_link_end -->
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 [Unknown description(update needed)]

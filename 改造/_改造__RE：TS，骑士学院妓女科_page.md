@@ -4,7 +4,7 @@
 TXT 下载: [_改造__RE：TS，骑士学院妓女科.docx](_改造__RE：TS，骑士学院妓女科.docx)
 <!-- tcd_download_link_end -->
 
-## 摘要
+## 摘要  { data-search-exclude }
 
 <!-- tcd_abstract -->
 [Unknown description(update needed)]
