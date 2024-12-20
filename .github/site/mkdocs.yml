@@ -9,7 +9,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-    - content.action.edit
+    # - content.action.edit
     - navigation.footer
     - navigation.instant
     - navigation.instant.progress
@@ -40,17 +40,17 @@ theme:
   language: zh
 plugins:
   - search
-  - social:
-      cards_layout_options:
-        font_family: Noto Sans SC
-  - rss:
-      match_path: ".*"
-      date_from_meta:
-        as_creation: date.created
-        as_update: date.updated
-  - git-authors
-  - git-revision-date-localized:
-      enable_creation_date: true
+  #- social:
+      # cards_layout_options:
+       # font_family: Noto Sans SC
+  # - rss:
+  #     match_path: ".*"
+  #     date_from_meta:
+  #       as_creation: date.created
+  #       as_update: date.updated
+  # - git-authors
+  # - git-revision-date-localized:
+    #  enable_creation_date: true
 extra:
   analytics:
     provider: google
@@ -58,7 +58,7 @@ extra:
   social:
   - icon: /fontawesome/regular/envelope
     name: send me an email
-    link: mailto:yunwei37@gmail.com
+    link: mailto:admin@transchinese.org
 hooks:
   - hooks/socialmedia.py
 markdown_extensions:

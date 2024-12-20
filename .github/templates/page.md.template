@@ -1,7 +1,7 @@
 # {name}
 
 <!-- tcd_download_link -->
-Download: [{filename}]({filename})
+TXT 下载: [{filename}]({filename})
 <!-- tcd_download_link_end -->
 
 ## 摘要
@@ -27,4 +27,4 @@ Download: [{filename}]({filename})
 | Date            | {date}                                 |
 | Tags            | {tags}                                 |
 
-本文由跨性别中文数字档案馆归档整理，仅供存档使用。版权归原作者所有。
+本文由多元性别中文数字图书馆归档整理，仅供存档使用。版权归原作者所有。更多信息和搜索内容，请访问 <https://transchinese.org/>
